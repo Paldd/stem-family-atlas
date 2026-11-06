@@ -56038,6 +56038,22 @@ Limitaciones: Preparación adicional 14–16 de diciembre 2026: tres clases de t
 Fuente: https://www.codefest.sg/pricing.php
 Se ha comprobado: 2026-11-06
 
+### L522 · Ministry of Inspiration · STEAMS holiday courses
+
+Lugar: Nueva Zelandia Nelson / Richmond · Garin College
+Fecha: No se ha fijado el período/plan de trabajo
+Edad: 8–13 · primarily
+Matvey: Condicional: edad 9 entra; confirmar turno futuro e idioma.
+Oscar: No según orientación principal 8–13; grupo menor no encontrado.
+Formato: day_camp
+Idioma: Materiales en inglés leídos. Confirmar por separado idioma de arbitraje / enseñanza presencial y opción EN para equipo extranjero; idioma web no acredita admisión.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Tarifa completa, moneda del símbolo $, impuestos, equipo, entrenador y viaje requieren factura separada; precio desconocido no equivale a cero.
+Acceso: Ser candidato por edad no significa solicitud aceptada. Confirmar año escolar real, acceso extranjero / independiente, plazas, composición, idioma operativo y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+Limitaciones: Web muestra Garin College 6–9 de julio sin año inequívoco. Días no asignados a 2027. Enseñan senior college students con presencia constante de docente adulto; EN web no acredita idioma del curso elegido. Precio nuevo exacto, horario diario, plazas y grupo de edad sin publicar.
+Fuente: https://ministryofinspiration.org/steams-holiday/
+Se ha comprobado: 2026-11-06
+
 ### ~#C037 · WAICY 2026 · AI Showcase · Proyecto de solución del problema real
 
 Lugar: En línea/paz

@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 5538; competiciones: 1799; eventos: 245; campamentos / programas: 3494. Perfiles de ligas y programas: 195. Fichas de exposiciones grandes y especializadas: 159 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 5617; competiciones: 1874; eventos: 248; campamentos / programas: 3495. Perfiles de ligas y programas: 204. Fichas de exposiciones grandes y especializadas: 160 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros concretos para 119 de 249 países y territorios; países completamente auditados: 0. Ronda archivada v51: añadidas 21 fichas y 3 perfiles. Conservadas todas las fichas anteriores.
 
@@ -19,11 +19,11 @@ Hay registros concretos para 119 de 249 países y territorios; países completam
 | Europa | 39 | 361 | 52 | 1228 |
 | África | 16 | 73 | 7 | 42 |
 | Asia | 31 | 495 | 71 | 1023 |
-| Oceanía | 4 | 29 | 2 | 113 |
+| Oceanía | 4 | 104 | 3 | 114 |
 
 Fichas interregionales / globales sin atribuir a un continente: 80. América del Norte incluye América Central y Caribe. Cantidades muestran inventario de la base, no porcentaje de exhaustividad.
 
-VEX: 518 de 1799 fichas de competiciones (28.8%). Existe un claro sesgo de cobertura.
+VEX: 518 de 1874 fichas de competiciones (27.6%). Existe un claro sesgo de cobertura.
 
 ## Lo que queda
 
@@ -288,6 +288,15 @@ VEX: 518 de 1799 fichas de competiciones (28.8%). Existe un claro sesgo de cober
 - **Junior Coderz · Code Quest**: 1 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://juniorcoderz.com/competition/
 - **UAE InnovAIte · national high school**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.uae-innovaite.com/
 - **IKCC · own-code Scratch international**: 2 fichas, 2 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.ikcc.info/
+- **FIRST Australia · Explore**: 8 fichas, 8 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.firstaustralia.org/first-lego-league-explore
+- **FIRST Australia · Challenge**: 33 fichas, 33 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.firstaustralia.org/first-lego-league-challenge
+- **FIRST Australia · Future Edition**: 4 fichas, 4 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.firstaustralia.org/first-lego-league-future-edition
+- **FIRST Australia · Tech Challenge**: 12 fichas, 12 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.firstaustralia.org/first-tech-challenge
+- **FIRST New Zealand · Challenge**: 5 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.firstnz.org/challenge
+- **RoboCupJunior New Zealand · MOI**: 8 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://ministryofinspiration.org/robocup-jr-categories/
+- **NZ AquaBots · regional to national**: 3 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://ministryofinspiration.org/nz-aquabots-nationals/
+- **TechFest Australia · provisional watch**: 1 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://techfestaustralia.com.au/
+- **FIRST Australia · Asia Pacific Open**: 1 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.firstaustralia.org/first-lego-league-apoc
 
 ## Grandes exposiciones: tarjetas de identidad
 
@@ -347,7 +356,7 @@ VEX: 518 de 1799 fichas de competiciones (28.8%). Existe un claro sesgo de cober
 - **Expo Manufactura 2027** — México; 2027-02-23 – 2027-02-25. Niños 6/9 No puedes.. https://expomanufactura.com.mx/
 - **Smart Technology Expo 2026** México; 2026-11-18 2026-11-20. https://smarttechnologyexpo.mx/
 - **EXPOMAFE 2027** 国 Brazil; 2027-05-04 国 2027-05-08; los niños 6/9 no pueden. https://www.expomafe.com.br/
-- **Australian Manufacturing Week 2027** Australia; 2027-05-11 2027-05-14. https://australianmanufacturingweek.com.au/visit2027/
+- **Australian Manufacturing Week 2027** — Australia; 2027-05-11 – 2027-05-14. el permiso de entrada de niños. https://australianmanufacturingweek.com.au/visit2027/
 - **Africa Tech Festival 2026** Sudáfrica; 2026-11-17 2026-11-19. https://africatechfestival.com/
 - **AI Expo Africa 2026** — Sudáfrica; 2026-10-28 – 2026-10-29. Acceso de los niños a la educación. https://aiexpoafrica.com/ai-expo-africa-2026-faq/
 - **VivaTech 2027** France; 2027-06-16 2027-06-19. https://vivatech.com/
@@ -450,6 +459,7 @@ VEX: 518 de 1799 fichas de competiciones (28.8%). Existe un claro sesgo de cober
 - **Robot Investments & Maintenance 4.0 Summit · next edition watch** — Turquía; fecha desconocida. Confirmar admisión infantil. https://www.robotyatirimlari.com/
 - **TEKNOFEST · aviation, space & technology festival · next edition watch** — Turquía; fecha desconocida. Con adulto; condiciones de entrada adulta aparte. https://teknofest.org/tr/kurumsal/sss/
 - **WRO International Final · EdTech & Robotics Expo 2026** — Puerto Rico; 2026-12-08 – 2026-12-10. con un adulto; condiciones de admisión adulta por separado. https://wro2026.org/
+- **Resources Technology Showcase Perth 2027** — Australia; 2027-06-18 – 2027-06-21. con un adulto; condiciones de admisión adulta por separado. https://www.rtsperth.com/
 
 ## ~ Añadida en esta versión
 

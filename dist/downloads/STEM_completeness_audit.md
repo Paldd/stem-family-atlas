@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 5538; соревнований: 1799; событий: 245; лагерей / программ: 3494. Профилей лиг и программ: 195. Карточек крупных и профильных выставок: 159 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 5617; соревнований: 1874; событий: 248; лагерей / программ: 3495. Профилей лиг и программ: 204. Карточек крупных и профильных выставок: 160 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 119 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -19,11 +19,11 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 | Европа | 39 | 361 | 52 | 1228 |
 | Африка | 16 | 73 | 7 | 42 |
 | Азия | 31 | 495 | 71 | 1023 |
-| Океания | 4 | 29 | 2 | 113 |
+| Океания | 4 | 104 | 3 | 114 |
 
 Межрегиональные / глобальные карточки, не приписанные одному континенту: 80. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
 
-VEX: 518 из 1799 карточек соревнований (28.8%). Это явный перекос охвата.
+VEX: 518 из 1874 карточек соревнований (27.6%). Это явный перекос охвата.
 
 ## Что осталось
 
@@ -288,6 +288,15 @@ VEX: 518 из 1799 карточек соревнований (28.8%). Это я�
 - **Junior Coderz · Code Quest**: 1 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://juniorcoderz.com/competition/
 - **UAE InnovAIte · national high school**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.uae-innovaite.com/
 - **IKCC · own-code Scratch international**: 2 карточек, 2 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.ikcc.info/
+- **FIRST Australia · Explore**: 8 карточек, 8 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.firstaustralia.org/first-lego-league-explore
+- **FIRST Australia · Challenge**: 33 карточек, 33 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.firstaustralia.org/first-lego-league-challenge
+- **FIRST Australia · Future Edition**: 4 карточек, 4 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.firstaustralia.org/first-lego-league-future-edition
+- **FIRST Australia · Tech Challenge**: 12 карточек, 12 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.firstaustralia.org/first-tech-challenge
+- **FIRST New Zealand · Challenge**: 5 карточек, 3 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.firstnz.org/challenge
+- **RoboCupJunior New Zealand · MOI**: 8 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://ministryofinspiration.org/robocup-jr-categories/
+- **NZ AquaBots · regional to national**: 3 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://ministryofinspiration.org/nz-aquabots-nationals/
+- **TechFest Australia · provisional watch**: 1 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://techfestaustralia.com.au/
+- **FIRST Australia · Asia Pacific Open**: 1 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.firstaustralia.org/first-lego-league-apoc
 
 ## Крупные выставки: календарные карточки
 
@@ -347,7 +356,7 @@ VEX: 518 из 1799 карточек соревнований (28.8%). Это я�
 - **Expo Manufactura 2027** — Мексика; 2027-02-23 – 2027-02-25. Детям 6/9 нельзя. https://expomanufactura.com.mx/
 - **Smart Technology Expo 2026** — Мексика; 2026-11-18 – 2026-11-20. Детский допуск уточнить. https://smarttechnologyexpo.mx/
 - **EXPOMAFE 2027** — Brazil; 2027-05-04 – 2027-05-08. Детям 6/9 нельзя. https://www.expomafe.com.br/
-- **Australian Manufacturing Week 2027** — Австралия; 2027-05-11 – 2027-05-14. Со взрослым; условия взрослого входа отдельно. https://australianmanufacturingweek.com.au/visit2027/
+- **Australian Manufacturing Week 2027** — Австралия; 2027-05-11 – 2027-05-14. Детский допуск уточнить. https://australianmanufacturingweek.com.au/visit2027/
 - **Africa Tech Festival 2026** — ЮАР; 2026-11-17 – 2026-11-19. Детский допуск уточнить. https://africatechfestival.com/
 - **AI Expo Africa 2026** — ЮАР; 2026-10-28 – 2026-10-29. Детский допуск уточнить. https://aiexpoafrica.com/ai-expo-africa-2026-faq/
 - **VivaTech 2027** — France; 2027-06-16 – 2027-06-19. Детский допуск уточнить. https://vivatech.com/
@@ -450,6 +459,7 @@ VEX: 518 из 1799 карточек соревнований (28.8%). Это я�
 - **Robot Investments & Maintenance 4.0 Summit · next edition watch** — Турция; дата неизвестна. Детский допуск уточнить. https://www.robotyatirimlari.com/
 - **TEKNOFEST · aviation, space & technology festival · next edition watch** — Турция; дата неизвестна. Со взрослым; условия взрослого входа отдельно. https://teknofest.org/tr/kurumsal/sss/
 - **WRO International Final · EdTech & Robotics Expo 2026** — Пуэрто-Рико; 2026-12-08 – 2026-12-10. Со взрослым; условия взрослого входа отдельно. https://wro2026.org/
+- **Resources Technology Showcase Perth 2027** — Австралия; 2027-06-18 – 2027-06-21. Со взрослым; условия взрослого входа отдельно. https://www.rtsperth.com/
 
 ## Добавлено в этой версии
 

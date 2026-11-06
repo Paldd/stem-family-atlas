@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 5538,
-    "competition_cards": 1799,
-    "event_cards": 245,
-    "camp_cards": 3494,
-    "league_profiles": 195,
-    "major_exhibition_cards": 159,
+    "cards": 5617,
+    "competition_cards": 1874,
+    "event_cards": 248,
+    "camp_cards": 3495,
+    "league_profiles": 204,
+    "major_exhibition_cards": 160,
     "vex_cards": 518,
     "countries_with_records": 119,
     "fully_audited_countries": 0
@@ -104,12 +104,12 @@
       "regions": [
         "Oceanía"
       ],
-      "total": 146,
+      "total": 225,
       "countries_with_records": 4,
-      "competitions": 29,
-      "events": 4,
-      "major_exhibitions": 2,
-      "camps": 113,
+      "competitions": 104,
+      "events": 7,
+      "major_exhibitions": 3,
+      "camps": 114,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido fijian tourist camp, nz días de estudio reales, australian national game/video contests y archivo escolar cerrado de french polynesia. se quedan lenguas / foreign admission camps, un calendario dinámico RCJA, otras islas y torneos locales."
     }
@@ -4694,6 +4694,198 @@
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://www.ikcc.info/",
       "new": false
+    },
+    {
+      "id": "first-au-explore",
+      "name": "FIRST Australia · Explore",
+      "group": "regional",
+      "event_ids": [
+        "C1808",
+        "C1809",
+        "C1811",
+        "C1828",
+        "C1836",
+        "C1842",
+        "C1846",
+        "C1857"
+      ],
+      "cards": 8,
+      "future_dated": 8,
+      "linked_card_count": 8,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://www.firstaustralia.org/first-lego-league-explore",
+      "new": false
+    },
+    {
+      "id": "first-au-challenge",
+      "name": "FIRST Australia · Challenge",
+      "group": "regional",
+      "event_ids": [
+        "C1801",
+        "C1804",
+        "C1805",
+        "C1806",
+        "C1807",
+        "C1812",
+        "C1814",
+        "C1815",
+        "C1816",
+        "C1817",
+        "C1818",
+        "C1819",
+        "C1821",
+        "C1823",
+        "C1824",
+        "C1825",
+        "C1827",
+        "C1829",
+        "C1830",
+        "C1832",
+        "C1834",
+        "C1835",
+        "C1837",
+        "C1841",
+        "C1845",
+        "C1847",
+        "C1848",
+        "C1849",
+        "C1850",
+        "C1852",
+        "C1853",
+        "C1854",
+        "C1855"
+      ],
+      "cards": 33,
+      "future_dated": 33,
+      "linked_card_count": 33,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://www.firstaustralia.org/first-lego-league-challenge",
+      "new": false
+    },
+    {
+      "id": "first-au-future",
+      "name": "FIRST Australia · Future Edition",
+      "group": "regional",
+      "event_ids": [
+        "C1810",
+        "C1813",
+        "C1839",
+        "C1856"
+      ],
+      "cards": 4,
+      "future_dated": 4,
+      "linked_card_count": 4,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://www.firstaustralia.org/first-lego-league-future-edition",
+      "new": false
+    },
+    {
+      "id": "first-au-ftc",
+      "name": "FIRST Australia · Tech Challenge",
+      "group": "regional",
+      "event_ids": [
+        "C1802",
+        "C1803",
+        "C1820",
+        "C1822",
+        "C1826",
+        "C1831",
+        "C1833",
+        "C1838",
+        "C1840",
+        "C1843",
+        "C1844",
+        "C1851"
+      ],
+      "cards": 12,
+      "future_dated": 12,
+      "linked_card_count": 12,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://www.firstaustralia.org/first-tech-challenge",
+      "new": false
+    },
+    {
+      "id": "first-nz-challenge",
+      "name": "FIRST New Zealand · Challenge",
+      "group": "regional",
+      "event_ids": [
+        "C1858",
+        "C1859",
+        "C1860",
+        "C1861",
+        "C1862"
+      ],
+      "cards": 5,
+      "future_dated": 3,
+      "linked_card_count": 5,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://www.firstnz.org/challenge",
+      "new": false
+    },
+    {
+      "id": "rcj-nz",
+      "name": "RoboCupJunior New Zealand · MOI",
+      "group": "regional",
+      "event_ids": [
+        "C1863",
+        "C1864",
+        "C1865",
+        "C1866",
+        "C1867",
+        "C1868",
+        "C1869",
+        "C1870"
+      ],
+      "cards": 8,
+      "future_dated": 0,
+      "linked_card_count": 8,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://ministryofinspiration.org/robocup-jr-categories/",
+      "new": false
+    },
+    {
+      "id": "aquabots-nz",
+      "name": "NZ AquaBots · regional to national",
+      "group": "regional",
+      "event_ids": [
+        "C1871",
+        "C1872",
+        "C1873"
+      ],
+      "cards": 3,
+      "future_dated": 1,
+      "linked_card_count": 3,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://ministryofinspiration.org/nz-aquabots-nationals/",
+      "new": false
+    },
+    {
+      "id": "techfest-au-watch",
+      "name": "TechFest Australia · provisional watch",
+      "group": "regional",
+      "event_ids": [
+        "C1874"
+      ],
+      "cards": 1,
+      "future_dated": 1,
+      "linked_card_count": 1,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://techfestaustralia.com.au/",
+      "new": false
+    },
+    {
+      "id": "first-au-apoc",
+      "name": "FIRST Australia · Asia Pacific Open",
+      "group": "regional",
+      "event_ids": [
+        "C1875"
+      ],
+      "cards": 1,
+      "future_dated": 1,
+      "linked_card_count": 1,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://www.firstaustralia.org/first-lego-league-apoc",
+      "new": false
     }
   ],
   "exhibition_inventory": [
@@ -5320,7 +5512,7 @@
       "region": "Oceanía",
       "start": "2027-05-11",
       "end": "2027-05-14",
-      "visitor_policy": "family",
+      "visitor_policy": "confirm_children",
       "source": "https://australianmanufacturingweek.com.au/visit2027/",
       "new": false
     },
@@ -6444,6 +6636,17 @@
       "end": "2026-12-10",
       "visitor_policy": "family",
       "source": "https://wro2026.org/",
+      "new": false
+    },
+    {
+      "id": "E246",
+      "name": "Resources Technology Showcase Perth 2027",
+      "country": "Australia",
+      "region": "Oceanía",
+      "start": "2027-06-18",
+      "end": "2027-06-21",
+      "visitor_policy": "family",
+      "source": "https://www.rtsperth.com/",
       "new": false
     }
   ],
@@ -8556,8 +8759,8 @@
       }
     ],
     "counts": {
-      "records": 3494,
-      "holiday": 3325,
+      "records": 3495,
+      "holiday": 3326,
       "regular": 108,
       "self_paced_materials": 2,
       "boarding": 964,

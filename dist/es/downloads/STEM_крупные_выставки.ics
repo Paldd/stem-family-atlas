@@ -852,20 +852,23 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E099@family-stem.local
-DTSTAMP:20261006T205843Z
-SUMMARY:[Exposición · visita en familia] Australian Manufacturing Week 
- 2027
+DTSTAMP:20261106T073138Z
+SUMMARY:[Exposición · confirmar admisión de menores] Australian Manufa
+ cturing Week 2027
 DTSTART;VALUE=DATE:20270511
 DTEND;VALUE=DATE:20270515
-DESCRIPTION:Idea de visita\; no es una inscripción aceptada. visitor gui
- de oficial: niños / estudiantes menores de 15 años sólo con adultos. 
- La entrada adulta se calcula para el personal comercial. Entrada de adul
- tos: registro de todos los visitantes\, badge y photo ID\; gratis para e
- l personal de comercio. el registro se abre a principios de 2027..  Empr
- esas: la presencia de industrias / expo confirmada. la lista separada de
-  las empresas de esta edición no se ha comprobado\; la participación d
- e los expositores pasados no se garantiza.. Fuente verificada el 2026-09
- -30.
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Menores de 
+ 15 con adulto permitidos según visitor guide\, pero acceso base trade-o
+ nly y registro obligatorio. Confirmar solicitud familiar y documentos de
+  niños con organizador. Entrada de adultos: registro de todos los visit
+ antes\, badge y photo ID\; gratis para el personal de comercio. el regis
+ tro se abre a principios de 2027.. Fotos / vídeos de visitantes prohibi
+ dos sin acuerdo previo. Registro abrirá early 2027. Visitante internaci
+ onal resuelve entrada al país\; badge no sustituye permiso de entrada. 
+ Lista de empresas 2027 no acreditada en esta ronda. Empresas: la presenc
+ ia de industrias / expo confirmada. la lista separada de las empresas de
+  esta edición no se ha comprobado\; la participación de los expositore
+ s pasados no se garantiza.. Fuente verificada el 2026-11-06.
 LOCATION:Melbourne · MCEC\, Australia
 URL:https://australianmanufacturingweek.com.au/visit2027/
 STATUS:TENTATIVE
@@ -2555,6 +2558,27 @@ DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Final cerra
  2026-11-05.
 LOCATION:San Juan\, Puerto Rico
 URL:https://wro2026.org/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E246@family-stem.local
+DTSTAMP:20261106T073138Z
+SUMMARY:[Exposición · visita en familia] Resources Technology Showcase 
+ Perth 2027
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270622
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Organizador
+  invita expresamente familias\; confirmar restricciones de demostracione
+ s concretas y entrada de Oscar. Entrada de adultos: Public exhibition gr
+ atuito\; confirmar reglas de Industry Forum separado.. Expositores / act
+ ivities 2027 pendientes. Stands históricos e Industry Forum 2025 no dec
+ larados programa confirmado 2027. Year 3 mínimo se refiere a excursión
+  escolar\, sin hallar prohibición de visita familiar menor. Empresas: L
+ ista de empresas y stands de edición 2027 aún sin confirmar\; exposito
+ res históricos no prometidos.. Fuente verificada el 2026-11-06.
+LOCATION:Perth Convention and Exhibition Centre\, Australia
+URL:https://www.rtsperth.com/
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT

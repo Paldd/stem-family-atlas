@@ -1,0 +1,367 @@
+{
+  "version": 177,
+  "checked": "2026-11-06",
+  "request_count": 39,
+  "hash_verified": 36,
+  "requests": [
+    {
+      "key": "first-au-calendar",
+      "url": "https://www.firstaustralia.org/all-events",
+      "final_url": "https://www.firstaustralia.org/all-events",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1398613,
+      "sha256": "7f141c1140fdb21f76e07b80cc9ec1f5d40fd050f03f138d9579f05ce27d93ff"
+    },
+    {
+      "key": "first-au-explore",
+      "url": "https://www.firstaustralia.org/first-lego-league-explore",
+      "final_url": "https://www.firstaustralia.org/first-lego-league-explore",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1824700,
+      "sha256": "66c5915ad3209d89cd6c6f72e38900d7c801f57a06cc0d7f485905686c097209"
+    },
+    {
+      "key": "first-au-challenge",
+      "url": "https://www.firstaustralia.org/first-lego-league-challenge",
+      "final_url": "https://www.firstaustralia.org/first-lego-league-challenge",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1917348,
+      "sha256": "4ad087e430ad0cbfb01beb0092478b8aad41978b21576a681a5973442a1f2034"
+    },
+    {
+      "key": "first-nz-challenge",
+      "url": "https://www.firstnz.org/challenge",
+      "final_url": "https://www.firstnz.org/challenge",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 474391,
+      "sha256": "d192f636e2e9732d385df74d79fe3fdb44883b96a7b00b688f7057a8c72ddb31"
+    },
+    {
+      "key": "first-nz-explore",
+      "url": "https://www.firstnz.org/explore",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "first-nz-home",
+      "url": "https://www.firstnz.org/",
+      "final_url": "https://www.firstnz.org/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 204571,
+      "sha256": "ae3bd4ef5e1bdce39e0940f3dfc82133228b2679c104af609064fab4943d2b5f"
+    },
+    {
+      "key": "rcja-general-pdf",
+      "url": "https://www.robocupjunior.org.au/wp-content/uploads/2026/02/2026-RCJA-General-Rules.pdf",
+      "final_url": "https://www.robocupjunior.org.au/wp-content/uploads/2026/02/2026-RCJA-General-Rules.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 577818,
+      "sha256": "6bd07875d36fd7f1caee2d612030af5911e9a90ac51a5eac9af3e9d89397e6d6"
+    },
+    {
+      "key": "rcja-national",
+      "url": "https://www.robocupjunior.org.au/challenge-regions/nat/",
+      "final_url": "https://www.robocupjunior.org.au/challenge-regions/nat/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 203843,
+      "sha256": "c1a5101479d1dd041fb7bc6ddf77ff094d3dfe07b260144a9778ba15d206cc21"
+    },
+    {
+      "key": "rts-home",
+      "url": "https://www.rtsperth.com/",
+      "final_url": "https://www.rtsperth.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 111984,
+      "sha256": "762a6318f85f11b509aa0008064c4847f9bc3313d302f205d6d901cae606ce44"
+    },
+    {
+      "key": "rts-schools",
+      "url": "https://www.rtsperth.com/schools/",
+      "final_url": "https://www.rtsperth.com/schools/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 77703,
+      "sha256": "e310c9bc019d34a67b72d6cc827697f12aa388c9c591bbd47f275e97b391f928"
+    },
+    {
+      "key": "rts-expo",
+      "url": "https://www.rtsperth.com/expo/",
+      "final_url": "https://www.rtsperth.com/expo/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 75115,
+      "sha256": "e201eae0e3b06cbb6bb6aa8e0a598defc6af680b8673ba5cd08eb6e8d1ac663b"
+    },
+    {
+      "key": "techfest-home",
+      "url": "https://techfestaustralia.com.au/",
+      "final_url": "https://techfestaustralia.com.au/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 648530,
+      "sha256": "fa6af7db80381df11d369881b6dc6b3c3d6d5d46b3a0194b385d295d31d03b1f"
+    },
+    {
+      "key": "techweek-home",
+      "url": "https://techweek.co.nz/",
+      "final_url": "https://techweek.co.nz/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 21690,
+      "sha256": "f0da521f987cf242de19d118891f5dc62741fb05f0c9ae00baf0fd45c435b82d"
+    },
+    {
+      "key": "scienceweek-home",
+      "url": "https://www.scienceweek.net.au/",
+      "final_url": "https://www.scienceweek.net.au/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 63322,
+      "sha256": "2a6c911ad5b4c9d7d23fa3d58046886f34317822173990c4e0cd32bb7fdc6d2e"
+    },
+    {
+      "key": "game-challenge",
+      "url": "https://www.stemgames.org.au/",
+      "final_url": "https://www.stemgames.org.au/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 114682,
+      "sha256": "2b65c3c3dc33b12fd9f72ab349b683aaf2ad37f3b251c4bc0888cc7ec5b6631d"
+    },
+    {
+      "key": "kiwibots-national",
+      "url": "https://www.kiwibots.co.nz/nationals",
+      "final_url": "https://www.kiwibots.co.nz/nationals",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 875579,
+      "sha256": "3a4c838b7f7bcbc7852f464102825fcaf27c1a3051ded5c7c58c31bbcdf3467f"
+    },
+    {
+      "key": "amw-visit",
+      "url": "https://australianmanufacturingweek.com.au/visit2027/",
+      "final_url": "https://australianmanufacturingweek.com.au/visit2027/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 56233,
+      "sha256": "fb1183daaf4d314e12eb72c9e219d319ab2a0add7db61100fe47687cedcc6c5d"
+    },
+    {
+      "key": "first-au-future",
+      "url": "https://www.firstaustralia.org/first-lego-league-future-edition",
+      "final_url": "https://www.firstaustralia.org/first-lego-league-future-edition",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 2055773,
+      "sha256": "78122d639eebc30b3c6b8c3c475a80b8ed742032313fcaba2723a2f5a7f28e02"
+    },
+    {
+      "key": "first-au-ftc",
+      "url": "https://www.firstaustralia.org/first-tech-challenge",
+      "final_url": "https://www.firstaustralia.org/first-tech-challenge",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1972411,
+      "sha256": "8ee74d852bc7cd92d17c8bba6c254e078e972259ec1ce706b37052b07515f8d7"
+    },
+    {
+      "key": "first-au-faq",
+      "url": "https://www.firstaustralia.org/faqs",
+      "final_url": "https://www.firstaustralia.org/frequently-asked-questions",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 2136057,
+      "sha256": "63b222e5fa7476b6506d57d4d97da3992b7a56fcdf833112d2bddac2703e4f70"
+    },
+    {
+      "key": "first-au-apoc",
+      "url": "https://www.firstaustralia.org/first-lego-league-apoc",
+      "final_url": "https://www.firstaustralia.org/first-lego-league-apoc",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1438179,
+      "sha256": "ad7eab0e54d11dfeb403f7bf01b49b3f009f430222fc20d5dad09f96973dfc3f"
+    },
+    {
+      "key": "first-nz-register",
+      "url": "https://www.firstnz.org/register",
+      "final_url": "https://www.firstnz.org/register",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 150019,
+      "sha256": "3ff458974bd33b338126edbc80fe0addfafa588311e67aea43247f90271d4226"
+    },
+    {
+      "key": "rcj-nz-home",
+      "url": "https://ministryofinspiration.org/robocupjr/",
+      "final_url": "https://ministryofinspiration.org/robocupjr/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 166607,
+      "sha256": "ef82bdaa516b3642cb77ac061c22c3cceff39e200fdc2097de54a62879aeede9"
+    },
+    {
+      "key": "scienceweek-faq",
+      "url": "https://www.scienceweek.net.au/faq/",
+      "final_url": "https://www.scienceweek.net.au/faq/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 55401,
+      "sha256": "d490016cd3b40a3bb91f59b904715c2c317ae4c977b686151d31ac3b06d477a2"
+    },
+    {
+      "key": "rts-faq",
+      "url": "https://www.rtsperth.com/faq/",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "rcja-soccer-pdf",
+      "url": "https://www.robocupjunior.org.au/wp-content/uploads/2026/02/RCJA-Soccer-Rules-2026.pdf",
+      "final_url": "https://www.robocupjunior.org.au/wp-content/uploads/2026/02/RCJA-Soccer-Rules-2026.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 916628,
+      "sha256": "0fb1a53d02aff57300fc6c024c9abcedec35fa69e0fc35c5b3effd1cd3acae53"
+    },
+    {
+      "key": "techfest-terms",
+      "url": "https://techfestaustralia.com.au/terms",
+      "final_url": "https://techfestaustralia.com.au/terms",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 86078,
+      "sha256": "e9f552fd8e963e1a7319d6285a4941daa254d03174fa1c691e1ade133e211557"
+    },
+    {
+      "key": "techfest-privacy",
+      "url": "https://techfestaustralia.com.au/privacy",
+      "final_url": "https://techfestaustralia.com.au/privacy",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 86940,
+      "sha256": "e211758407f862d88700e85943730063d81a7b2a632b77c17812d1ed276ad7dd"
+    },
+    {
+      "key": "rcj-nz-categories",
+      "url": "https://ministryofinspiration.org/robocup-jr-categories/",
+      "final_url": "https://ministryofinspiration.org/robocup-jr-categories/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 165280,
+      "sha256": "43c8f4b7befda3bd83e363b8d098169fb07090932b4636ad49a7c55cfb2a5fbe"
+    },
+    {
+      "key": "rcj-nz-aquabots",
+      "url": "https://ministryofinspiration.org/nz-aquabots-underwater-robotics/",
+      "final_url": "https://ministryofinspiration.org/nz-aquabots-underwater-robotics/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 186704,
+      "sha256": "d38446ad417d23e3b7998974954f6c73e8e73599873bcaa4114fc00648a4664e"
+    },
+    {
+      "key": "rcj-nz-aqua-national",
+      "url": "https://ministryofinspiration.org/nz-aquabots-nationals/",
+      "final_url": "https://ministryofinspiration.org/nz-aquabots-nationals/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 165330,
+      "sha256": "ac8cf039b31f14763b59ac82719fa5cebfa6dc473e7ccbbcbc74d040c3a12fa5"
+    },
+    {
+      "key": "rcj-nz-holiday",
+      "url": "https://ministryofinspiration.org/steams-holiday/",
+      "final_url": "https://ministryofinspiration.org/steams-holiday/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 161208,
+      "sha256": "af38a4976ec6b4eb8dc57c7dcc68c17724179ed917054657c78971f791917a65"
+    },
+    {
+      "key": "rcja-calendar",
+      "url": "https://rcja.app/calendar",
+      "final_url": "https://rcja.app/calendar",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 21860,
+      "sha256": "4a556e453e84ef82caed597e9ef16189db5d9c35633d3cebe221990cd7068771"
+    },
+    {
+      "key": "techfest-register",
+      "url": "https://techfestaustralia.com.au/register",
+      "final_url": "https://techfestaustralia.com.au/register",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 195488,
+      "sha256": "ba1160f4647ab8a45a60ee31548c2fc858bad229c303533c45d4f4fe1b7ca14b"
+    },
+    {
+      "key": "techfest-refunds",
+      "url": "https://techfestaustralia.com.au/refunds",
+      "final_url": "https://techfestaustralia.com.au/refunds",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 76069,
+      "sha256": "cd7e02f10e453587605856dfe73ac9f9ca64bb87d3959f8ab372432adb042f92"
+    },
+    {
+      "key": "aquabots-rules-pdf",
+      "url": "https://ministryofinspiration.org/wp-content/uploads/2026/04/NZAquabots-Rules-2026.pdf",
+      "final_url": "https://ministryofinspiration.org/wp-content/uploads/2026/04/NZAquabots-Rules-2026.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 828681,
+      "sha256": "bc3637a04410aa93281ca797600f2e5676ff2daf47f78e46afbe63625a044dbb"
+    },
+    {
+      "key": "rcja-line-page",
+      "url": "https://www.robocupjunior.org.au/rescue-line/",
+      "final_url": "https://www.robocupjunior.org.au/rescue-line/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 116810,
+      "sha256": "4ee4106dff668419747740b552506847c498784d03a5768c9f03d6ba230f9b8c"
+    },
+    {
+      "key": "rcja-onstage-page",
+      "url": "https://www.robocupjunior.org.au/onstage/",
+      "final_url": "https://www.robocupjunior.org.au/onstage/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 118037,
+      "sha256": "ad3d615119e858c3705936281b9ee67a0c515627c04374466d98a966d5cce7e0"
+    },
+    {
+      "key": "amw-exhibitors",
+      "url": "https://australianmanufacturingweek.com.au/exhibitor-list/",
+      "error": "HTTP Error 404: Not Found"
+    }
+  ],
+  "failures": [
+    {
+      "key": "first-nz-explore",
+      "url": "https://www.firstnz.org/explore",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "rts-faq",
+      "url": "https://www.rtsperth.com/faq/",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "amw-exhibitors",
+      "url": "https://australianmanufacturingweek.com.au/exhibitor-list/",
+      "error": "HTTP Error 404: Not Found"
+    }
+  ],
+  "raw_source_bodies_private": true,
+  "all_requests_get_only": true,
+  "no_forms_submitted": true
+}

@@ -4,6 +4,7 @@ import zipfile
 from xml.sax.saxutils import escape
 
 HEADERS={
+ 'local_calendar_key':'Clave del calendario local','local_programme':'Programa local','season':'Temporada',
  'id':'ID','block':'Tipo','title':'Título','country':'País','region':'Región','city':'Ciudad',
  'start':'Inicio','end':'Fin','period':'Período','date_status':'Estado de fechas','deadline':'Plazo límite',
  'deadline_label':'Tipo de plazo','deadline_note':'Nota sobre el plazo','deadline_utc':'Plazo UTC',
