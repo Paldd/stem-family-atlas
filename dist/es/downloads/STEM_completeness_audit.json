@@ -16,14 +16,14 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 5803,
-    "competition_cards": 1930,
-    "event_cards": 260,
-    "camp_cards": 3613,
-    "league_profiles": 222,
-    "major_exhibition_cards": 168,
+    "cards": 5816,
+    "competition_cards": 1935,
+    "event_cards": 262,
+    "camp_cards": 3619,
+    "league_profiles": 226,
+    "major_exhibition_cards": 170,
     "vex_cards": 518,
-    "countries_with_records": 130,
+    "countries_with_records": 133,
     "fully_audited_countries": 0
   },
   "continents": [
@@ -34,12 +34,12 @@
         "América Central",
         "Caribe"
       ],
-      "total": 1665,
-      "countries_with_records": 19,
-      "competitions": 615,
-      "events": 59,
-      "major_exhibitions": 20,
-      "camps": 991,
+      "total": 1677,
+      "countries_with_records": 22,
+      "competitions": 619,
+      "events": 61,
+      "major_exhibitions": 22,
+      "camps": 997,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
     },
@@ -3885,6 +3885,63 @@
       "new": false
     },
     {
+      "id": "fll-guadeloupe-local",
+      "name": "Robotique First Guadeloupe",
+      "group": "regional",
+      "event_ids": [
+        "C1932",
+        "C1933"
+      ],
+      "cards": 2,
+      "future_dated": 0,
+      "linked_card_count": 2,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://www.archipel-des-sciences.org/actualites/robotique-first/",
+      "new": false
+    },
+    {
+      "id": "fll-martinique-local",
+      "name": "Robotique First Martinique",
+      "group": "regional",
+      "event_ids": [
+        "C1934"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "linked_card_count": 1,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://site.ac-martinique.fr/technologie/decouvrir-la-robotique-first-martinique/",
+      "new": false
+    },
+    {
+      "id": "fgc-antigua-local",
+      "name": "FIRST Global · Antigua national pathway",
+      "group": "regional",
+      "event_ids": [
+        "C1935"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "linked_card_count": 1,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://first.global/2026-nations/antigua-and-barbuda-2026/",
+      "new": false
+    },
+    {
+      "id": "nuit-du-code",
+      "name": "Nuit du Code",
+      "group": "games",
+      "event_ids": [
+        "C1936"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "linked_card_count": 1,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://www.nuitducode.net/",
+      "new": false
+    },
+    {
       "id": "tech-challenge-project",
       "name": "The Tech Challenge · programa de ingeniería y showcase",
       "group": "regional",
@@ -6860,6 +6917,28 @@
       "new": false
     },
     {
+      "id": "E261",
+      "name": "Fête de la Science Guadeloupe · AI / maker programme",
+      "country": "Guadalupe",
+      "region": "Caribe",
+      "start": "2026-11-12",
+      "end": "2026-11-20",
+      "visitor_policy": "family",
+      "source": "https://www.archipel-des-sciences.org/actualites/la-fete-de-la-science/",
+      "new": false
+    },
+    {
+      "id": "E262",
+      "name": "Village des Sciences Martinique · family day / AI stand",
+      "country": "Martinica",
+      "region": "Caribe",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "visitor_policy": "family",
+      "source": "https://www.carbet-sciences.com/fete-de-la-science/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -8097,7 +8176,7 @@
       "official_alternative": "https://www.ykpaoschool.cn/News-and-Events/New-Stories/988"
     }
   ],
-  "interregional_cards": 80,
+  "interregional_cards": 81,
   "promoted_exhibition_ids": [],
   "focused_country": {
     "country": "Taiwán",
@@ -9134,20 +9213,20 @@
       }
     ],
     "counts": {
-      "records": 3613,
+      "records": 3619,
       "holiday": 3394,
       "regular": 108,
       "self_paced_materials": 2,
       "boarding": 980,
       "en_es_instruction": 1039,
-      "en_es_support": 11,
+      "en_es_support": 12,
       "family_instruction": 1039,
-      "family_support": 11,
+      "family_support": 12,
       "ru_instruction": 3,
       "language_lessons": 387,
       "camp_life_language": 225,
       "language_unclassified": 119,
-      "countries": 86
+      "countries": 89
     },
     "validation": {
       "version": 51,

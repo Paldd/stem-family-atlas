@@ -1,0 +1,412 @@
+{
+  "version": 184,
+  "checked": "2026-11-06",
+  "request_count": 39,
+  "hash_verified": 37,
+  "failures": [
+    {
+      "key": "martinique-drane",
+      "url": "https://site.ac-martinique.fr/drane/?author=427",
+      "checked_at": "2026-11-06T14:07:17.954780+00:00",
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "key": "martinique-first-2019",
+      "url": "https://site.ac-martinique.fr/technologie/decouvrir-la-robotique-first-martinique/",
+      "checked_at": "2026-11-06T14:09:21.357288+00:00",
+      "error": "<urlopen error timed out>"
+    }
+  ],
+  "requests": [
+    {
+      "key": "antigua-wro-http",
+      "url": "http://antiguabarbudarobotics.org",
+      "checked_at": "2026-11-06T14:07:15.004148+00:00",
+      "status": 200,
+      "final_url": "https://docs.google.com/forms/d/e/1FAIpQLSd3xdBXzN1g1TIIfdx54-lL_anifZduC6QrrvTaZfOJl_Kkcg/viewform",
+      "content_type": "texto/html; carcasa=utf-8",
+      "bytes": 137999,
+      "sha256": "67080c30ce708ab5d1b75a534e5cb553831017680340a5a91527e76cfed377ee"
+    },
+    {
+      "key": "antigua-wro-https",
+      "url": "https://antiguabarbudarobotics.org/",
+      "checked_at": "2026-11-06T14:07:15.004660+00:00",
+      "status": 200,
+      "final_url": "https://docs.google.com/forms/d/e/1FAIpQLSd3xdBXzN1g1TIIfdx54-lL_anifZduC6QrrvTaZfOJl_Kkcg/viewform",
+      "content_type": "texto/html; carcasa=utf-8",
+      "bytes": 137962,
+      "sha256": "86d072097d60d40d3b723a9facad2097e7814120fc74138b07f70de5f638457b"
+    },
+    {
+      "key": "antigua-firstglobal",
+      "url": "https://first.global/2026-nations/antigua-and-barbuda-2026/",
+      "checked_at": "2026-11-06T14:07:15.004831+00:00",
+      "status": 200,
+      "final_url": "https://first.global/2026-nations/antigua-and-barbuda-2026/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 177132,
+      "sha256": "ec5fdf4d53171f8ab212d5b6ae7225901ef4deb78f7bb93aef466ed015d4fd8a"
+    },
+    {
+      "key": "antigua-gov-camp",
+      "url": "https://agriculture.gov.ag/index.php/2026/08/13/stem-infused-2026-concludes-with-celebration-of-young-innovators-by-shenequa-williams/",
+      "checked_at": "2026-11-06T14:07:15.004961+00:00",
+      "status": 200,
+      "final_url": "https://agriculture.gov.ag/index.php/2026/08/13/stem-infused-2026-concludes-with-celebration-of-young-innovators-by-shenequa-williams/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 203304,
+      "sha256": "6b160768175f1b5a95db2f9a76b4275a21120e78987834dd816672197bd326f4"
+    },
+    {
+      "key": "guadeloupe-first",
+      "url": "https://www.archipel-des-sciences.org/actualites/robotique-first/",
+      "checked_at": "2026-11-06T14:07:15.005311+00:00",
+      "status": 200,
+      "final_url": "https://www.archipel-des-sciences.org/actualites/robotique-first/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 228702,
+      "sha256": "5bf92d595234a5cb5a621f566aff26f28cc3fe97799d458cbad027995ad05111"
+    },
+    {
+      "key": "archipel-home",
+      "url": "https://www.archipel-des-sciences.org/",
+      "checked_at": "2026-11-06T14:07:16.489799+00:00",
+      "status": 200,
+      "final_url": "https://www.archipel-des-sciences.org/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 200005,
+      "sha256": "312d0537c4118a4c3168bb6503d5aa5d4bf2c6757fc81533dd280f3c9b60375b"
+    },
+    {
+      "key": "fll-france-local",
+      "url": "https://firstlegoleaguefrance.fr/decouvrir-les-antennes-locales/",
+      "checked_at": "2026-11-06T14:07:17.502802+00:00",
+      "status": 200,
+      "final_url": "https://firstlegoleaguefrance.fr/decouvrir-les-antennes-locales/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 116582,
+      "sha256": "7f523f81de467741861e12d128387c09ecdaf285f45f3ad8203b5295000acde5"
+    },
+    {
+      "key": "martinique-drane",
+      "url": "https://site.ac-martinique.fr/drane/?author=427",
+      "checked_at": "2026-11-06T14:07:17.954780+00:00",
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "key": "carbet-home",
+      "url": "https://www.carbet-sciences.net/",
+      "checked_at": "2026-11-06T14:07:18.776013+00:00",
+      "status": 200,
+      "final_url": "https://www.carbet-sciences.com/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 298064,
+      "sha256": "66201f1eb2f72f2dc812629f388a6ede8359cbf51f56e5454d1e29c7794bc8ec"
+    },
+    {
+      "key": "halo-camps",
+      "url": "https://foundationhalo.org/events/category/other-charity-events/",
+      "checked_at": "2026-11-06T14:08:14.925109+00:00",
+      "status": 200,
+      "final_url": "https://foundationhalo.org/events/category/other-charity-events/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 186597,
+      "sha256": "343601937121e0975127fb05ecaaa130d1d267c1104b410649d203b56fb452f3"
+    },
+    {
+      "key": "carbet-festival",
+      "url": "https://www.carbet-sciences.com/fete-de-la-science/",
+      "checked_at": "2026-11-06T14:08:14.925497+00:00",
+      "status": 200,
+      "final_url": "https://www.carbet-sciences.com/fete-de-la-science/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 227319,
+      "sha256": "6745cd9bc994f99859f0599e34818cc886b87dd22d3cf0e7230aaf07ccb9089e"
+    },
+    {
+      "key": "carbet-animations",
+      "url": "https://www.carbet-sciences.com/animations/",
+      "checked_at": "2026-11-06T14:08:14.925585+00:00",
+      "status": 200,
+      "final_url": "https://www.carbet-sciences.com/animations/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 276813,
+      "sha256": "64f7cb074cb12ebef916e50f49769763caf23a74ce305843c82baca489f0c648"
+    },
+    {
+      "key": "guadeloupe-festival",
+      "url": "https://www.archipel-des-sciences.org/actualites/la-fete-de-la-science/",
+      "checked_at": "2026-11-06T14:08:14.925646+00:00",
+      "status": 200,
+      "final_url": "https://www.archipel-des-sciences.org/actualites/la-fete-de-la-science/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 366652,
+      "sha256": "e8ba3c281899fbda99e18b55ba6dcfaef21ca046a51fb9d03efc60ff3dcf9085"
+    },
+    {
+      "key": "guadeloupe-astronomy",
+      "url": "https://www.archipel-des-sciences.org/actualites/les-rendez-vous-de-lastronomie/",
+      "checked_at": "2026-11-06T14:08:14.925901+00:00",
+      "status": 200,
+      "final_url": "https://www.archipel-des-sciences.org/actualites/les-rendez-vous-de-lastronomie/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 211228,
+      "sha256": "312162d2adacf1623de7552220b4f893cf7b5293e6ae64b473beb34da9fb72f9"
+    },
+    {
+      "key": "fll-france-participer",
+      "url": "https://firstlegoleaguefrance.fr/participer/",
+      "checked_at": "2026-11-06T14:08:15.826652+00:00",
+      "status": 200,
+      "final_url": "https://firstlegoleaguefrance.fr/participer/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 122819,
+      "sha256": "be71f5c0421fd64d1ea980135f972b6d3904508f966f76ab6826dc5b1fc6f6e7"
+    },
+    {
+      "key": "fll-france-explore",
+      "url": "https://firstlegoleaguefrance.fr/fll-explore/",
+      "checked_at": "2026-11-06T14:08:16.285175+00:00",
+      "status": 200,
+      "final_url": "https://firstlegoleaguefrance.fr/fll-explore/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 119786,
+      "sha256": "8f80cc2c1817faa8f9a45f6e3164f4c45afdaeabaef70260c30a3ce5782a4c38"
+    },
+    {
+      "key": "numeriklub-vacances",
+      "url": "https://numeriklub.com/ateliers-petites-vacances/",
+      "checked_at": "2026-11-06T14:09:21.356711+00:00",
+      "status": 200,
+      "final_url": "https://numeriklub.com/ateliers-petites-vacances/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 3391,
+      "sha256": "34c1b2cb7745df9a52164e781dd2e5f270e97c26266eb199d831d6638be6794b"
+    },
+    {
+      "key": "numeriklub-home",
+      "url": "https://numeriklub.com/",
+      "checked_at": "2026-11-06T14:09:21.357108+00:00",
+      "status": 200,
+      "final_url": "https://numeriklub.com/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 3391,
+      "sha256": "34c1b2cb7745df9a52164e781dd2e5f270e97c26266eb199d831d6638be6794b"
+    },
+    {
+      "key": "steamcampus",
+      "url": "https://steamcampus.org/",
+      "checked_at": "2026-11-06T14:09:21.357226+00:00",
+      "status": 200,
+      "final_url": "https://steamcampus.org/",
+      "content_type": "text/html",
+      "bytes": 209821,
+      "sha256": "69ab394aa2635584e49774e9b051b912fd885087618b798ba0bcbd4c30b65cf4"
+    },
+    {
+      "key": "martinique-first-2019",
+      "url": "https://site.ac-martinique.fr/technologie/decouvrir-la-robotique-first-martinique/",
+      "checked_at": "2026-11-06T14:09:21.357288+00:00",
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "key": "martinique-eduscol",
+      "url": "https://sti.eduscol.education.fr/academies/martinique",
+      "checked_at": "2026-11-06T14:09:21.357550+00:00",
+      "status": 200,
+      "final_url": "https://sti.eduscol.education.fr/academies/martinique",
+      "content_type": "texto/html; carcasa=utf-8",
+      "bytes": 93321,
+      "sha256": "d5ab5107fc722756c1c4c16c18ef616332b7ee8f5ff493762c20b0c73deae1e5"
+    },
+    {
+      "key": "firstglobal-faq",
+      "url": "https://first.global/faq/",
+      "checked_at": "2026-11-06T14:09:23.196268+00:00",
+      "status": 200,
+      "final_url": "https://first.global/faq/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 186005,
+      "sha256": "cd2c7fa94d0bfd388c5b0dbde788dc6a5a811046348bdbe6a9d09dacf2479f41"
+    },
+    {
+      "key": "halo-camp-13",
+      "url": "https://foundationhalo.org/event/2026-techbyte-stem-camp/",
+      "checked_at": "2026-11-06T14:09:23.197659+00:00",
+      "status": 200,
+      "final_url": "https://foundationhalo.org/event/2026-techbyte-stem-camp/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 161852,
+      "sha256": "2f90afe145aadfe9d95e67bcfad170b57ecf56e01d9460eee855b90ffdbf5ef9"
+    },
+    {
+      "key": "halo-camp-15",
+      "url": "https://foundationhalo.org/event/redonda-robotics-annual-workshop-2026-free-robotics-camp/",
+      "checked_at": "2026-11-06T14:09:25.587423+00:00",
+      "status": 200,
+      "final_url": "https://foundationhalo.org/event/redonda-robotics-annual-workshop-2026-free-robotics-camp/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 170387,
+      "sha256": "f40f2b671bc9216dba047bb8d0262db85c14ad6340e05d4999459d8747eb989a"
+    },
+    {
+      "key": "guadeloupe-fds-public-pdf",
+      "url": "https://www.archipel-des-sciences.org/wp-content/uploads/2026/03/ProgFDS2026.pdf",
+      "checked_at": "2026-11-06T14:09:48.057963+00:00",
+      "status": 200,
+      "final_url": "https://www.archipel-des-sciences.org/wp-content/uploads/2026/03/ProgFDS2026.pdf",
+      "content_type": "application/pdf",
+      "bytes": 4184648,
+      "sha256": "411b09833a4670ceeec2705ed6bacb960c2ef5dfb61100042ade0d09e3042ea1"
+    },
+    {
+      "key": "guadeloupe-fds-school-pdf",
+      "url": "https://www.archipel-des-sciences.org/wp-content/uploads/2026/03/PROG_SCOL_FDS2026.pdf",
+      "checked_at": "2026-11-06T14:09:48.058304+00:00",
+      "status": 200,
+      "final_url": "https://www.archipel-des-sciences.org/wp-content/uploads/2026/03/PROG_SCOL_FDS2026.pdf",
+      "content_type": "application/pdf",
+      "bytes": 4207644,
+      "sha256": "e2005615e95cd51e21e58f460de68adf7c2db1a50313164c3e3842207fc2fdaf"
+    },
+    {
+      "key": "carbet-linked-0",
+      "url": "https://contribuer.fetedelascience.fr/",
+      "checked_at": "2026-11-06T14:09:48.058400+00:00",
+      "status": 200,
+      "final_url": "https://www.fetedelascience.fr/user/login",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 54178,
+      "sha256": "961f5c1c05908efffcc9c20d9508de4e0488036e988012dde2c7a42ff02c4b89"
+    },
+    {
+      "key": "carbet-linked-28",
+      "url": "https://www.carbet-sciences.com/wp-content/uploads/2026/11/Dossier-de-Presse_FDS26.pdf",
+      "checked_at": "2026-11-06T14:09:48.058462+00:00",
+      "status": 200,
+      "final_url": "https://www.carbet-sciences.com/wp-content/uploads/2026/11/Dossier-de-Presse_FDS26.pdf",
+      "content_type": "application/pdf",
+      "bytes": 12729269,
+      "sha256": "9e8c98d6c601d9e637b8c2785626aa2604e7d23eff93c6f6cd4d1d7aa4611ec8"
+    },
+    {
+      "key": "carbet-linked-32",
+      "url": "https://www.fetedelascience.fr/la-fete-de-la-science-2026-celebre-les-saveurs-savantes",
+      "checked_at": "2026-11-06T14:09:48.058701+00:00",
+      "status": 200,
+      "final_url": "https://www.fetedelascience.fr/la-fete-de-la-science-2026-celebre-les-saveurs-savantes",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 64007,
+      "sha256": "8f6fe2037f06c61f131ee88e4eea13d0c236408736f675ea259dec4511d8abf1"
+    },
+    {
+      "key": "steamcampus-ateliers",
+      "url": "https://steamcampus.org/ateliers/",
+      "checked_at": "2026-11-06T14:11:05.934993+00:00",
+      "status": 200,
+      "final_url": "https://steamcampus.org/ateliers/",
+      "content_type": "text/html",
+      "bytes": 170656,
+      "sha256": "1dfa1c9ec645f90eda01bf44a06870ea7c1ea22caecf634830cca2fd0937dc69"
+    },
+    {
+      "key": "steamcampus-schools",
+      "url": "https://steamcampus.org/2026/06/30/ateliers-numeriques-pour-les-ecoliers-du-lamentin/",
+      "checked_at": "2026-11-06T14:11:05.935378+00:00",
+      "status": 200,
+      "final_url": "https://steamcampus.org/2026/06/30/ateliers-numeriques-pour-les-ecoliers-du-lamentin/",
+      "content_type": "text/html",
+      "bytes": 155491,
+      "sha256": "0c382214902df478f45a94c36d8cad55e7fa0e6c536422c2b5ebbe5cbe9aec98"
+    },
+    {
+      "key": "nuitcode-2027",
+      "url": "https://sti.eduscol.education.fr/actualites/nuit-du-code-2027",
+      "checked_at": "2026-11-06T14:11:05.935471+00:00",
+      "status": 200,
+      "final_url": "https://sti.eduscol.education.fr/actualites/nuit-du-code-2027",
+      "content_type": "texto/html; carcasa=utf-8",
+      "bytes": 59912,
+      "sha256": "bf1337af0fc6f761894b5c6733b3e80283d84690c2fdf577bea1241fb3684ed7"
+    },
+    {
+      "key": "halo-camp-13-poster",
+      "url": "https://foundationhalo.org/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-24-at-3.55.57-AM.jpeg",
+      "checked_at": "2026-11-06T14:11:05.935534+00:00",
+      "status": 200,
+      "final_url": "https://foundationhalo.org/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-24-at-3.55.57-AM.jpeg",
+      "content_type": "image/jpeg",
+      "bytes": 208103,
+      "sha256": "a5f71a966d4b30122eb13057b7e913310d0a0b1c3337544540f1fc8864edb7d3"
+    },
+    {
+      "key": "halo-camp-15-poster",
+      "url": "https://foundationhalo.org/wp-content/uploads/2026/07/1c7b6847-97cc-417c-a97f-be1a2efcbd70.jpeg",
+      "checked_at": "2026-11-06T14:11:05.935771+00:00",
+      "status": 200,
+      "final_url": "https://foundationhalo.org/wp-content/uploads/2026/07/1c7b6847-97cc-417c-a97f-be1a2efcbd70.jpeg",
+      "content_type": "image/jpeg",
+      "bytes": 253150,
+      "sha256": "ebbd137cea862859c7c56faf0ecfbd24b3a19bcff088b9ab0dffd5d3f970cee3"
+    },
+    {
+      "key": "nuitcode-root",
+      "url": "https://www.nuitducode.net/",
+      "checked_at": "2026-11-06T14:11:48.658895+00:00",
+      "status": 200,
+      "final_url": "https://www.nuitducode.net/",
+      "content_type": "texto/html; carcasa=utf-8",
+      "bytes": 25779,
+      "sha256": "1f81e9716b12b27de8d9451d8863d1adaa952f2cac19242c07d7b043ebc7908c"
+    },
+    {
+      "key": "steamcampus-digital-week",
+      "url": "https://steamcampus.org/2026/08/25/semaine-numerique-et-de-la-programmation/",
+      "checked_at": "2026-11-06T14:11:48.659283+00:00",
+      "status": 200,
+      "final_url": "https://steamcampus.org/2026/08/25/semaine-numerique-et-de-la-programmation/",
+      "content_type": "text/html",
+      "bytes": 155972,
+      "sha256": "b73244b79c4e5c9725621cdb8f5016b5948ec23cf0ae9ac7735d0b49e8db023d"
+    },
+    {
+      "key": "steamcampus-digital-expo",
+      "url": "https://steamcampus.org/2026/09/09/salon-des-metiers-du-numerique/",
+      "checked_at": "2026-11-06T14:11:48.659369+00:00",
+      "status": 200,
+      "final_url": "https://steamcampus.org/2026/09/09/salon-des-metiers-du-numerique/",
+      "content_type": "text/html",
+      "bytes": 153854,
+      "sha256": "1965bbdfdc015c4faf46505a895471e24ed36a64a4ebfa8c04d2939c4e3a7093"
+    },
+    {
+      "key": "nuitcode-rules",
+      "url": "https://nuitducode.forge.apps.education.fr/docs/3-regles-conseils/",
+      "checked_at": "2026-11-06T14:12:48.848574+00:00",
+      "status": 200,
+      "final_url": "https://nuitducode.forge.apps.education.fr/docs/3-regles-conseils/",
+      "content_type": "texto/html; carcasa=utf-8",
+      "bytes": 56329,
+      "sha256": "97e160833b97a410cc725b9079f3a7485ac55ddad25414cd8c686c098bca44ab"
+    },
+    {
+      "key": "nuitcode-org",
+      "url": "https://nuitducode.forge.apps.education.fr/docs/1-organisation/",
+      "checked_at": "2026-11-06T14:12:48.848976+00:00",
+      "status": 200,
+      "final_url": "https://nuitducode.forge.apps.education.fr/docs/1-organisation/",
+      "content_type": "texto/html; carcasa=utf-8",
+      "bytes": 64934,
+      "sha256": "517b8f2a6eda464b81286e41decc1e251ee6718af6b657020eabe8c195e52ca1"
+    }
+  ],
+  "additional_official_reader": {
+    "private_evidence_name": "official-indexed-leads.txt",
+    "sha256": "b8814f2d38214108fa32ece2f9475386f1a31251723627c41376be3386f89d07",
+    "role": "Descripciones oficiales indexadas de Numériklub y academia de Martinica; fuentes secundarias no utilizadas como reglas"
+  },
+  "all_requests_get_only": true,
+  "no_forms_submitted": true,
+  "raw_source_bodies_private": true
+}

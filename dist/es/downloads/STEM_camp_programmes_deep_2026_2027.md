@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de base: 2026-11-06. 1453 fichas en 79 países. Fechas de verificación de cada fuente indicadas en cada ficha.
+Estado de la base: 2026-11-06. 1459 fichas en 82 países. Fechas de verificación de cada fuente indicadas en cada ficha.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -104776,6 +104776,228 @@ Mozambique · Equipos escolares de Mozambique; siguiente sede formativa desconoc
 
 - [National rules 2026](https://drive.google.com/uc?export=download&id=12B27_qlYAcDiwe6UqNV1c7mqe34tl0Xi) · 2026-11-06
 
+## CP1454 · TechByte STEM Camp
+
+Antigua y Barbuda · National Public Library / American Corner Antigua; St John’s Catholic Preschool
+
+**Se ha comprobado:** 2026-11-06
+
+**edad:** 8–18
+
+**Idioma:** Página inglesa o interfaz española del formulario no acredita idioma docente. Enseñanza presencial EN / ES / RU sin establecer.
+
+**Programa:** Archivo 27 de julio — 21 de agosto de 2026, laborables 09:00–14:00, salvo festivos. Robots, código, IA, esports, VR / AR, drones y emprendimiento. Exige portátil propio, trabajo en equipo y comida propia; indica nevera y microondas. Formulario leído sin rellenar.
+
+**Alojamiento:** Programa diurno sin residencia.
+
+**Fechas / estado:** Programa de 2026 terminado; nueva inscripción 2027 sin anunciar.
+
+**Precio / año:** 2026 · Inscripción 2026 gratuita; portátil, comida, transporte y alojamiento familiar aparte. No es viaje de coste cero ni tarifa 2027.
+
+**Suplementos:** Alojamiento familiar, vuelos, traslados, seguro, material fuera de inclusiones e impuestos finales aparte; desconocido no equivale a cero.
+
+**Pago:** Fechas nuevas, plazas y factura final sin confirmar.
+
+**Matvey:** Ahora 9 años; intervalo publicado 8–18. Confirmar edad del nuevo turno, nivel e idioma.
+
+**Oscar:** Ahora 6 años; intervalo publicado 8–18. Confirmar edad del nuevo turno, nivel e idioma.
+
+**Motivo de selección:** Participación, certificado de curso, premio local y título mundial tienen distinto estatus. Catálogo editorial de oportunidades, no clasificación mundial completa.
+
+### Antes de solicitar plaza
+
+- Confirmar temporada elegida, edad / curso, admisión de visitantes, idioma docente, plazas y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
+
+### Fuentes
+
+- [TechByte · public description redirected from WRO directory link](https://antiguabarbudarobotics.org/) · 2026-11-06
+
+- [Halo · camp and poster](https://foundationhalo.org/event/2026-techbyte-stem-camp/) · 2026-11-06
+
+## CP1455 · Redonda Robotics · Annual Workshop
+
+Antigua y Barbuda · Silston Library · Redcliffe Street · St John’s
+
+**Se ha comprobado:** 2026-11-06
+
+**edad:** Edad numérica sin publicar
+
+**Idioma:** Página inglesa o interfaz española del formulario no acredita idioma docente. Enseñanza presencial EN / ES / RU sin establecer.
+
+**Programa:** Archivo 13 de julio — 28 de agosto de 2026. Descripción y cartel inspeccionado: lunes–viernes 15:00–18:00, sábado 13:00–18:00. Widget de calendario 08:00–17:00 contradice ese horario; no tomado como horario lectivo. Rango de edad y track menor separado sin publicar.
+
+**Alojamiento:** Programa diurno sin residencia.
+
+**Fechas / estado:** Programa de 2026 terminado; nueva inscripción 2027 sin anunciar.
+
+**Precio / año:** 2026 · Programa 2026 gratuito según texto y cartel; exigía inscripción. Confirmar edición nueva, material y gastos asociados.
+
+**Suplementos:** Alojamiento familiar, vuelos, traslados, seguro, material fuera de inclusiones e impuestos finales aparte; desconocido no equivale a cero.
+
+**Pago:** Fechas nuevas, plazas y factura final sin confirmar.
+
+**Matvey:** Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+
+**Oscar:** Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+
+**Motivo de selección:** Participación, certificado de curso, premio local y título mundial tienen distinto estatus. Catálogo editorial de oportunidades, no clasificación mundial completa.
+
+### Antes de solicitar plaza
+
+- Confirmar temporada elegida, edad / curso, admisión de visitantes, idioma docente, plazas y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
+
+### Fuentes
+
+- [Halo · Redonda description and inspected poster](https://foundationhalo.org/event/redonda-robotics-annual-workshop-2026-free-robotics-camp/) · 2026-11-06
+
+## CP1456 · Ministry of Education · STEM Infused
+
+Antigua y Barbuda · Antigua · sede de turno nuevo sin anunciar
+
+**Se ha comprobado:** 2026-11-06
+
+**Edad:** 8–17
+
+**Idioma:** Página inglesa o interfaz española del formulario no acredita idioma docente. Enseñanza presencial EN / ES / RU sin establecer.
+
+**Programa:** Informe gubernamental: cinco semanas en 2026, cierre 11 de agosto; menores rotaban entre robótica, ciencia e ingeniería. AquaQuest trata agua y medio ambiente. John E. St. Luce figura como sede de clausura, no sede probada de clases diarias ni residencia.
+
+**Alojamiento:** Programa diurno sin residencia.
+
+**Fechas / estado:** Programa de 2026 terminado; nueva inscripción 2027 sin anunciar.
+
+**Precio / año:** 2026 · Según informe participación 2026 sin cuota, con apoyo de comidas y autobuses escolares. Aplicación a familia visitante y edición siguiente sin confirmar.
+
+**Suplementos:** Alojamiento familiar, vuelos, traslados, seguro, material fuera de inclusiones e impuestos finales aparte; desconocido no equivale a cero.
+
+**Pago:** Fechas nuevas, plazas y factura final sin confirmar.
+
+**Matvey:** Ahora 9 años; intervalo publicado 8–17. Confirmar edad del nuevo turno, nivel e idioma.
+
+**Oscar:** Ahora 6 años; intervalo publicado 8–17. Confirmar edad del nuevo turno, nivel e idioma.
+
+**Motivo de selección:** Participación, certificado de curso, premio local y título mundial tienen distinto estatus. Catálogo editorial de oportunidades, no clasificación mundial completa.
+
+### Antes de solicitar plaza
+
+- Confirmar temporada elegida, edad / curso, admisión de visitantes, idioma docente, plazas y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
+
+### Fuentes
+
+- [Government · completed STEM Infused report](https://agriculture.gov.ag/index.php/2026/08/13/stem-infused-2026-concludes-with-celebration-of-young-innovators-by-shenequa-williams/) · 2026-11-06
+
+## CP1457 · Numériklub · Petites vacances
+
+Guadalupe · Guadalupe
+
+**Se ha comprobado:** 2026-11-06
+
+**edad:** Edad del grupo elegido sin publicar
+
+**Idioma:** Página inglesa o interfaz española del formulario no acredita idioma docente. Enseñanza presencial EN / ES / RU sin establecer.
+
+**Programa:** Descripción oficial indexada: programas cortos de 2–5 días en Noël / Carnaval / Pâques / Toussaint, dibujo digital, 3D, código y juegos; ordenadores suministrados. Web directa muestra ahora «under construction»; candidato a nueva revisión sin inscripción, precio ni idioma nuevos confirmados.
+
+**Alojamiento:** Programa diurno sin residencia.
+
+**Fechas / estado:** Fechas nuevas, plazas y factura final sin confirmar.
+
+**Precio / año:** sin establecer · Fechas futuras, plazas y precio final sin confirmar.
+
+**Suplementos:** Alojamiento familiar, vuelos, traslados, seguro, material fuera de inclusiones e impuestos finales aparte; desconocido no equivale a cero.
+
+**Pago:** Fechas nuevas, plazas y factura final sin confirmar.
+
+**Matvey:** Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+
+**Oscar:** Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+
+**Motivo de selección:** Participación, certificado de curso, premio local y título mundial tienen distinto estatus. Catálogo editorial de oportunidades, no clasificación mundial completa.
+
+### Antes de solicitar plaza
+
+- Confirmar temporada elegida, edad / curso, admisión de visitantes, idioma docente, plazas y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
+
+### Fuentes
+
+- [Numériklub · indexed holiday description / live maintenance page](https://numeriklub.com/ateliers-petites-vacances/) · 2026-11-06
+
+## CP1458 · Numériklub · Petites vacances
+
+Martinica · Martinica
+
+**Se ha comprobado:** 2026-11-06
+
+**edad:** Edad del grupo elegido sin publicar
+
+**Idioma:** Página inglesa o interfaz española del formulario no acredita idioma docente. Enseñanza presencial EN / ES / RU sin establecer.
+
+**Programa:** Descripción oficial indexada: programas cortos de 2–5 días en Noël / Carnaval / Pâques / Toussaint, dibujo digital, 3D, código y juegos; ordenadores suministrados. Web directa muestra ahora «under construction»; candidato a nueva revisión sin inscripción, precio ni idioma nuevos confirmados.
+
+**Alojamiento:** Programa diurno sin residencia.
+
+**Fechas / estado:** Fechas nuevas, plazas y factura final sin confirmar.
+
+**Precio / año:** sin establecer · Fechas futuras, plazas y precio final sin confirmar.
+
+**Suplementos:** Alojamiento familiar, vuelos, traslados, seguro, material fuera de inclusiones e impuestos finales aparte; desconocido no equivale a cero.
+
+**Pago:** Fechas nuevas, plazas y factura final sin confirmar.
+
+**Matvey:** Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+
+**Oscar:** Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+
+**Motivo de selección:** Participación, certificado de curso, premio local y título mundial tienen distinto estatus. Catálogo editorial de oportunidades, no clasificación mundial completa.
+
+### Antes de solicitar plaza
+
+- Confirmar temporada elegida, edad / curso, admisión de visitantes, idioma docente, plazas y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
+
+### Fuentes
+
+- [Numériklub · indexed holiday description / live maintenance page](https://numeriklub.com/ateliers-petites-vacances/) · 2026-11-06
+
+## CP1459 · STEAM Campus · Technology / Engineering clubs
+
+Martinica · Martinica
+
+**Se ha comprobado:** 2026-11-06
+
+**edad:** Niños y adolescentes; límites numéricos sin indicar
+
+**Idioma:** EN y ES incluidos como enriquecimiento lingüístico; confirmar idioma completo del grupo técnico.
+
+**Programa:** Clases regulares desplazadas para colegios y socios: grupos de 10–12 participantes, Micro:bit, mini robots, Scratch, Python y web. Página describe enriquecimiento lingüístico inglés y español; no promete curso técnico íntegro en EN / ES. Testimonios de niños de 10 / 11 años no son límite de admisión. Operador anuncia posibles certificados MIT / Grok; certificado concreto y estatus sin verificar.
+
+**Alojamiento:** Programa diurno sin residencia.
+
+**Fechas / estado:** Fechas nuevas, plazas y factura final sin confirmar.
+
+**Precio / año:** sin establecer · Fechas futuras, plazas y precio final sin confirmar.
+
+**Suplementos:** Alojamiento familiar, vuelos, traslados, seguro, material fuera de inclusiones e impuestos finales aparte; desconocido no equivale a cero.
+
+**Pago:** Fechas nuevas, plazas y factura final sin confirmar.
+
+**Matvey:** Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+
+**Oscar:** Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+
+**Motivo de selección:** Participación, certificado de curso, premio local y título mundial tienen distinto estatus. Catálogo editorial de oportunidades, no clasificación mundial completa.
+
+### Antes de solicitar plaza
+
+- Confirmar temporada elegida, edad / curso, admisión de visitantes, idioma docente, plazas y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
+
+### Fuentes
+
+- [STEAM Campus · workshops](https://steamcampus.org/ateliers/) · 2026-11-06
+
+- [STEAM Campus · group model](https://steamcampus.org/) · 2026-11-06
+
+- [STEAM Campus · school report 2026](https://steamcampus.org/2026/06/30/ateliers-numeriques-pour-les-ecoliers-du-lamentin/) · 2026-11-06
+
 ## ~ Comprobaciones no cerradas
 
 ### EE.UU. / Canadá · Tamwood · La disponibilidad actual no está confirmada
@@ -107459,3 +107681,27 @@ Informe competitivo, vídeo y presentación exigen portugués; inglés internaci
 Confirmar temporada concreta, edad / curso, admisión individual extranjera, idioma de trabajo, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
 
 https://wromozambique.co.mz/
+
+### Antigua y Barbuda · Caribbean local programmes
+
+Tres programas de 2026 terminados. Exige fechas 2027, idioma docente, admisión extranjera; edad Redonda desconocida. Inscripción gratuita no incluye viaje.
+
+Confirmar temporada elegida, edad / curso, admisión de visitantes, idioma docente, plazas y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
+
+https://antiguabarbudarobotics.org/
+
+### Guadalupe · Caribbean local programmes
+
+Numériklub: web actual en mantenimiento; edad, fechas, precio y EN / ES sin confirmar. Robotique First publica tema BIOGLOW 2027 sin día local.
+
+Confirmar temporada elegida, edad / curso, admisión de visitantes, idioma docente, plazas y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
+
+https://numeriklub.com/ateliers-petites-vacances/
+
+### Martinica · Caribbean local programmes
+
+STEAM Campus confirma enriquecimiento lingüístico EN / ES, no curso técnico completo en esos idiomas. Edad exacta, entrada individual y turno nuevo sin anunciar; Numériklub en mantenimiento.
+
+Confirmar temporada elegida, edad / curso, admisión de visitantes, idioma docente, plazas y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
+
+https://steamcampus.org/ateliers/

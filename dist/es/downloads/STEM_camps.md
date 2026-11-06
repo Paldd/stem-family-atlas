@@ -7974,6 +7974,102 @@ Limitaciones: Candidato por edad no significa admisión. Confirmar turno elegido
 Fuente: https://devcon.ph/programs/kids/
 Se ha comprobado: 2026-11-05
 
+### L575 · TechByte STEM Camp
+
+lugar: Antigua y Barbuda · National Public Library / American Corner Antigua; St John’s Catholic Preschool
+Fecha: 2026-07-27 — 2026-08-21
+Edad: 8*18
+Matvey: Ahora 9 años; intervalo publicado 8–18. Confirmar edad del nuevo turno, nivel e idioma.
+Oscar: Ahora 6 años; intervalo publicado 8–18. Confirmar edad del nuevo turno, nivel e idioma.
+Formato: individual
+Idioma: Página inglesa o interfaz española del formulario no acredita idioma docente. Enseñanza presencial EN / ES / RU sin establecer.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Inscripción 2026 gratuita; portátil, comida, transporte y alojamiento familiar aparte. No es viaje de coste cero ni tarifa 2027.
+Acceso: Confirmar temporada elegida, edad / curso, admisión de visitantes, idioma docente, plazas y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
+Limitaciones: Confirmar temporada elegida, edad / curso, admisión de visitantes, idioma docente, plazas y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
+Fuente: https://antiguabarbudarobotics.org/
+Se ha comprobado: 2026-11-06
+
+### L576 · Redonda Robotics · Annual Workshop
+
+lugar: Antigua y Barbuda · Silston Library · Redcliffe Street · St John’s
+Fecha: 2026-07-13 — 2026-08-28
+edad: Edad numérica sin publicar
+Matvey: Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+Oscar: Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+Formato: individual
+Idioma: Página inglesa o interfaz española del formulario no acredita idioma docente. Enseñanza presencial EN / ES / RU sin establecer.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Programa 2026 gratuito según texto y cartel; exigía inscripción. Confirmar edición nueva, material y gastos asociados.
+Acceso: Confirmar temporada elegida, edad / curso, admisión de visitantes, idioma docente, plazas y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
+Limitaciones: Confirmar temporada elegida, edad / curso, admisión de visitantes, idioma docente, plazas y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
+Fuente: https://foundationhalo.org/event/redonda-robotics-annual-workshop-2026-free-robotics-camp/
+Se ha comprobado: 2026-11-06
+
+### L577 · Ministry of Education · STEM Infused
+
+lugar: Antigua y Barbuda · Antigua · sede de turno nuevo sin anunciar
+Fecha: Programa de 2026 terminado; nueva inscripción 2027 sin anunciar.
+Edad: 8–17
+Matvey: Ahora 9 años; intervalo publicado 8–17. Confirmar edad del nuevo turno, nivel e idioma.
+Oscar: Ahora 6 años; intervalo publicado 8–17. Confirmar edad del nuevo turno, nivel e idioma.
+Formato: individual
+Idioma: Página inglesa o interfaz española del formulario no acredita idioma docente. Enseñanza presencial EN / ES / RU sin establecer.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Según informe participación 2026 sin cuota, con apoyo de comidas y autobuses escolares. Aplicación a familia visitante y edición siguiente sin confirmar.
+Acceso: Confirmar temporada elegida, edad / curso, admisión de visitantes, idioma docente, plazas y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
+Limitaciones: Confirmar temporada elegida, edad / curso, admisión de visitantes, idioma docente, plazas y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
+Fuente: https://agriculture.gov.ag/index.php/2026/08/13/stem-infused-2026-concludes-with-celebration-of-young-innovators-by-shenequa-williams/
+Se ha comprobado: 2026-11-06
+
+### L578 · Numériklub · Petites vacances
+
+lugar: Guadalupe · Guadalupe
+Fecha: Fechas nuevas, plazas y factura final sin confirmar.
+edad: Edad del grupo elegido sin publicar
+Matvey: Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+Oscar: Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+Formato: individual
+Idioma: Página inglesa o interfaz española del formulario no acredita idioma docente. Enseñanza presencial EN / ES / RU sin establecer.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Fechas futuras, plazas y precio final sin confirmar.
+Acceso: Confirmar temporada elegida, edad / curso, admisión de visitantes, idioma docente, plazas y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
+Limitaciones: Confirmar temporada elegida, edad / curso, admisión de visitantes, idioma docente, plazas y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
+Fuente: https://numeriklub.com/ateliers-petites-vacances/
+Se ha comprobado: 2026-11-06
+
+### L579 · Numériklub · Petites vacances
+
+lugar: Martinica · Martinica
+Fecha: Fechas nuevas, plazas y factura final sin confirmar.
+edad: Edad del grupo elegido sin publicar
+Matvey: Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+Oscar: Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+Formato: individual
+Idioma: Página inglesa o interfaz española del formulario no acredita idioma docente. Enseñanza presencial EN / ES / RU sin establecer.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Fechas futuras, plazas y precio final sin confirmar.
+Acceso: Confirmar temporada elegida, edad / curso, admisión de visitantes, idioma docente, plazas y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
+Limitaciones: Confirmar temporada elegida, edad / curso, admisión de visitantes, idioma docente, plazas y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
+Fuente: https://numeriklub.com/ateliers-petites-vacances/
+Se ha comprobado: 2026-11-06
+
+### L580 · STEAM Campus · Technology / Engineering clubs
+
+lugar: Martinica · Martinica
+Fecha: Fechas nuevas, plazas y factura final sin confirmar.
+edad: Niños y adolescentes; límites numéricos sin indicar
+Matvey: Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+Oscar: Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+Formato: individual
+Idioma: EN y ES incluidos como enriquecimiento lingüístico; confirmar idioma completo del grupo técnico.
+Marca lingüística: support; support: EN, ES
+Precio: Fechas futuras, plazas y precio final sin confirmar.
+Acceso: Confirmar temporada elegida, edad / curso, admisión de visitantes, idioma docente, plazas y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
+Limitaciones: Confirmar temporada elegida, edad / curso, admisión de visitantes, idioma docente, plazas y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
+Fuente: https://steamcampus.org/ateliers/
+Se ha comprobado: 2026-11-06
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier

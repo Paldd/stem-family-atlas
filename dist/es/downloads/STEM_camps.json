@@ -580,20 +580,20 @@
       }
     ],
     "counts": {
-      "records": 3613,
+      "records": 3619,
       "holiday": 3394,
       "regular": 108,
       "self_paced_materials": 2,
       "boarding": 980,
       "en_es_instruction": 1039,
-      "en_es_support": 11,
+      "en_es_support": 12,
       "family_instruction": 1039,
-      "family_support": 11,
+      "family_support": 12,
       "ru_instruction": 3,
       "language_lessons": 387,
       "camp_life_language": 225,
       "language_unclassified": 119,
-      "countries": 86
+      "countries": 89
     },
     "validation": {
       "version": 51,
@@ -28922,6 +28922,340 @@
       ],
       "camp_programme_id": "CP1359",
       "camp_dossier_slug": "devcon-kids-hour-ai"
+    },
+    {
+      "id": "L575",
+      "block": "Campamentos",
+      "title": "TechByte STEM Camp",
+      "country": "Antigua y Barbuda",
+      "region": "Caribe",
+      "city": "National Public Library / American Corner Antigua; St John’s Catholic Preschool",
+      "start": "2026-07-27",
+      "end": "2026-08-21",
+      "period": "Programa de 2026 terminado; nueva inscripción 2027 sin anunciar.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "8–18",
+      "mat": "Ahora 9 años; intervalo publicado 8–18. Confirmar edad del nuevo turno, nivel e idioma.",
+      "osc": "Ahora 6 años; intervalo publicado 8–18. Confirmar edad del nuevo turno, nivel e idioma.",
+      "format": "Grupo lectivo; confirmar admisión individual extranjera y formato de actividad concreta.",
+      "entry": "Confirmar temporada elegida, edad / curso, admisión de visitantes, idioma docente, plazas y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.",
+      "gear": "Archivo 27 de julio — 21 de agosto de 2026, laborables 09:00–14:00, salvo festivos. Robots, código, IA, esports, VR / AR, drones y emprendimiento. Exige portátil propio, trabajo en equipo y comida propia; indica nevera y microondas. Formulario leído sin rellenar.",
+      "language": "Página inglesa o interfaz española del formulario no acredita idioma docente. Enseñanza presencial EN / ES / RU sin establecer.",
+      "cost": "Inscripción 2026 gratuita; portátil, comida, transporte y alojamiento familiar aparte. No es viaje de coste cero ni tarifa 2027.",
+      "level": "C — ruta regional / local",
+      "reward": "Participación, certificado de curso, premio local y título mundial tienen distinto estatus. Catálogo editorial de oportunidades, no clasificación mundial completa.",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Confirmar temporada elegida, edad / curso, admisión de visitantes, idioma docente, plazas y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.",
+      "source": "https://antiguabarbudarobotics.org/",
+      "proof": "Archivo 27 de julio — 21 de agosto de 2026, laborables 09:00–14:00, salvo festivos. Robots, código, IA, esports, VR / AR, drones y emprendimiento. Exige portátil propio, trabajo en equipo y comida propia; indica nevera y microondas. Formulario leído sin rellenar.",
+      "checked": "2026-11-06",
+      "status": "Idea",
+      "note": "Confirmar temporada elegida, edad / curso, admisión de visitantes, idioma docente, plazas y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.",
+      "iso": [
+        "ATG"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "ai",
+        "gaming",
+        "entrepreneurship"
+      ],
+      "scope": "regional",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Página inglesa o interfaz española del formulario no acredita idioma docente. Enseñanza presencial EN / ES / RU sin establecer.",
+      "participation": "individual",
+      "admission_kind": "unknown",
+      "evidence_level": "event_page",
+      "date_scope": "festival_window",
+      "references": [
+        {
+          "label": "TechByte · public description redirected from WRO directory link",
+          "url": "https://antiguabarbudarobotics.org/"
+        },
+        {
+          "label": "Halo · camp and poster",
+          "url": "https://foundationhalo.org/event/2026-techbyte-stem-camp/"
+        }
+      ]
+    },
+    {
+      "id": "L576",
+      "block": "Campamentos",
+      "title": "Redonda Robotics · Annual Workshop",
+      "country": "Antigua y Barbuda",
+      "region": "Caribe",
+      "city": "Silston Library · Redcliffe Street · St John’s",
+      "start": "2026-07-13",
+      "end": "2026-08-28",
+      "period": "Programa de 2026 terminado; nueva inscripción 2027 sin anunciar.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Edad numérica sin publicar",
+      "mat": "Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.",
+      "osc": "Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.",
+      "format": "Grupo lectivo; confirmar admisión individual extranjera y formato de actividad concreta.",
+      "entry": "Confirmar temporada elegida, edad / curso, admisión de visitantes, idioma docente, plazas y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.",
+      "gear": "Archivo 13 de julio — 28 de agosto de 2026. Descripción y cartel inspeccionado: lunes–viernes 15:00–18:00, sábado 13:00–18:00. Widget de calendario 08:00–17:00 contradice ese horario; no tomado como horario lectivo. Rango de edad y track menor separado sin publicar.",
+      "language": "Página inglesa o interfaz española del formulario no acredita idioma docente. Enseñanza presencial EN / ES / RU sin establecer.",
+      "cost": "Programa 2026 gratuito según texto y cartel; exigía inscripción. Confirmar edición nueva, material y gastos asociados.",
+      "level": "C — ruta regional / local",
+      "reward": "Participación, certificado de curso, premio local y título mundial tienen distinto estatus. Catálogo editorial de oportunidades, no clasificación mundial completa.",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Confirmar temporada elegida, edad / curso, admisión de visitantes, idioma docente, plazas y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.",
+      "source": "https://foundationhalo.org/event/redonda-robotics-annual-workshop-2026-free-robotics-camp/",
+      "proof": "Archivo 13 de julio — 28 de agosto de 2026. Descripción y cartel inspeccionado: lunes–viernes 15:00–18:00, sábado 13:00–18:00. Widget de calendario 08:00–17:00 contradice ese horario; no tomado como horario lectivo. Rango de edad y track menor separado sin publicar.",
+      "checked": "2026-11-06",
+      "status": "Idea",
+      "note": "Confirmar temporada elegida, edad / curso, admisión de visitantes, idioma docente, plazas y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.",
+      "iso": [
+        "ATG"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "regional",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Página inglesa o interfaz española del formulario no acredita idioma docente. Enseñanza presencial EN / ES / RU sin establecer.",
+      "participation": "individual",
+      "admission_kind": "unknown",
+      "evidence_level": "event_page",
+      "date_scope": "festival_window",
+      "references": [
+        {
+          "label": "Halo · Redonda description and inspected poster",
+          "url": "https://foundationhalo.org/event/redonda-robotics-annual-workshop-2026-free-robotics-camp/"
+        }
+      ]
+    },
+    {
+      "id": "L577",
+      "block": "Campamentos",
+      "title": "Ministry of Education · STEM Infused",
+      "country": "Antigua y Barbuda",
+      "region": "Caribe",
+      "city": "Antigua · sede de turno nuevo sin anunciar",
+      "start": "",
+      "end": "",
+      "period": "Programa de 2026 terminado; nueva inscripción 2027 sin anunciar.",
+      "date_status": "No se ha anunciado",
+      "deadline": "",
+      "age": "8–17",
+      "mat": "Ahora 9 años; intervalo publicado 8–17. Confirmar edad del nuevo turno, nivel e idioma.",
+      "osc": "Ahora 6 años; intervalo publicado 8–17. Confirmar edad del nuevo turno, nivel e idioma.",
+      "format": "Grupo lectivo; confirmar admisión individual extranjera y formato de actividad concreta.",
+      "entry": "Confirmar temporada elegida, edad / curso, admisión de visitantes, idioma docente, plazas y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.",
+      "gear": "Informe gubernamental: cinco semanas en 2026, cierre 11 de agosto; menores rotaban entre robótica, ciencia e ingeniería. AquaQuest trata agua y medio ambiente. John E. St. Luce figura como sede de clausura, no sede probada de clases diarias ni residencia.",
+      "language": "Página inglesa o interfaz española del formulario no acredita idioma docente. Enseñanza presencial EN / ES / RU sin establecer.",
+      "cost": "Según informe participación 2026 sin cuota, con apoyo de comidas y autobuses escolares. Aplicación a familia visitante y edición siguiente sin confirmar.",
+      "level": "C — ruta regional / local",
+      "reward": "Participación, certificado de curso, premio local y título mundial tienen distinto estatus. Catálogo editorial de oportunidades, no clasificación mundial completa.",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Confirmar temporada elegida, edad / curso, admisión de visitantes, idioma docente, plazas y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.",
+      "source": "https://agriculture.gov.ag/index.php/2026/08/13/stem-infused-2026-concludes-with-celebration-of-young-innovators-by-shenequa-williams/",
+      "proof": "Informe gubernamental: cinco semanas en 2026, cierre 11 de agosto; menores rotaban entre robótica, ciencia e ingeniería. AquaQuest trata agua y medio ambiente. John E. St. Luce figura como sede de clausura, no sede probada de clases diarias ni residencia.",
+      "checked": "2026-11-06",
+      "status": "Idea",
+      "note": "Confirmar temporada elegida, edad / curso, admisión de visitantes, idioma docente, plazas y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.",
+      "iso": [
+        "ATG"
+      ],
+      "themes": [
+        "robotics",
+        "science",
+        "engineering"
+      ],
+      "scope": "regional",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Página inglesa o interfaz española del formulario no acredita idioma docente. Enseñanza presencial EN / ES / RU sin establecer.",
+      "participation": "individual",
+      "admission_kind": "unknown",
+      "evidence_level": "event_page",
+      "date_scope": "festival_window",
+      "references": [
+        {
+          "label": "Government · completed STEM Infused report",
+          "url": "https://agriculture.gov.ag/index.php/2026/08/13/stem-infused-2026-concludes-with-celebration-of-young-innovators-by-shenequa-williams/"
+        }
+      ]
+    },
+    {
+      "id": "L578",
+      "block": "Campamentos",
+      "title": "Numériklub · Petites vacances",
+      "country": "Guadalupe",
+      "region": "Caribe",
+      "city": "Guadalupe",
+      "start": "",
+      "end": "",
+      "period": "Fechas nuevas, plazas y factura final sin confirmar.",
+      "date_status": "No se ha anunciado",
+      "deadline": "",
+      "age": "Edad del grupo elegido sin publicar",
+      "mat": "Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.",
+      "osc": "Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.",
+      "format": "Grupo lectivo; confirmar admisión individual extranjera y formato de actividad concreta.",
+      "entry": "Confirmar temporada elegida, edad / curso, admisión de visitantes, idioma docente, plazas y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.",
+      "gear": "Descripción oficial indexada: programas cortos de 2–5 días en Noël / Carnaval / Pâques / Toussaint, dibujo digital, 3D, código y juegos; ordenadores suministrados. Web directa muestra ahora «under construction»; candidato a nueva revisión sin inscripción, precio ni idioma nuevos confirmados.",
+      "language": "Página inglesa o interfaz española del formulario no acredita idioma docente. Enseñanza presencial EN / ES / RU sin establecer.",
+      "cost": "Fechas futuras, plazas y precio final sin confirmar.",
+      "level": "C — ruta regional / local",
+      "reward": "Participación, certificado de curso, premio local y título mundial tienen distinto estatus. Catálogo editorial de oportunidades, no clasificación mundial completa.",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Confirmar temporada elegida, edad / curso, admisión de visitantes, idioma docente, plazas y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.",
+      "source": "https://numeriklub.com/ateliers-petites-vacances/",
+      "proof": "Descripción oficial indexada: programas cortos de 2–5 días en Noël / Carnaval / Pâques / Toussaint, dibujo digital, 3D, código y juegos; ordenadores suministrados. Web directa muestra ahora «under construction»; candidato a nueva revisión sin inscripción, precio ni idioma nuevos confirmados.",
+      "checked": "2026-11-06",
+      "status": "Idea",
+      "note": "Confirmar temporada elegida, edad / curso, admisión de visitantes, idioma docente, plazas y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.",
+      "iso": [
+        "GLP"
+      ],
+      "themes": [
+        "coding",
+        "gaming",
+        "art",
+        "technology"
+      ],
+      "scope": "regional",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Página inglesa o interfaz española del formulario no acredita idioma docente. Enseñanza presencial EN / ES / RU sin establecer.",
+      "participation": "individual",
+      "admission_kind": "unknown",
+      "evidence_level": "event_page",
+      "date_scope": "festival_window",
+      "references": [
+        {
+          "label": "Numériklub · indexed holiday description / live maintenance page",
+          "url": "https://numeriklub.com/ateliers-petites-vacances/"
+        }
+      ]
+    },
+    {
+      "id": "L579",
+      "block": "Campamentos",
+      "title": "Numériklub · Petites vacances",
+      "country": "Martinica",
+      "region": "Caribe",
+      "city": "Martinica",
+      "start": "",
+      "end": "",
+      "period": "Fechas nuevas, plazas y factura final sin confirmar.",
+      "date_status": "No se ha anunciado",
+      "deadline": "",
+      "age": "Edad del grupo elegido sin publicar",
+      "mat": "Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.",
+      "osc": "Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.",
+      "format": "Grupo lectivo; confirmar admisión individual extranjera y formato de actividad concreta.",
+      "entry": "Confirmar temporada elegida, edad / curso, admisión de visitantes, idioma docente, plazas y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.",
+      "gear": "Descripción oficial indexada: programas cortos de 2–5 días en Noël / Carnaval / Pâques / Toussaint, dibujo digital, 3D, código y juegos; ordenadores suministrados. Web directa muestra ahora «under construction»; candidato a nueva revisión sin inscripción, precio ni idioma nuevos confirmados.",
+      "language": "Página inglesa o interfaz española del formulario no acredita idioma docente. Enseñanza presencial EN / ES / RU sin establecer.",
+      "cost": "Fechas futuras, plazas y precio final sin confirmar.",
+      "level": "C — ruta regional / local",
+      "reward": "Participación, certificado de curso, premio local y título mundial tienen distinto estatus. Catálogo editorial de oportunidades, no clasificación mundial completa.",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Confirmar temporada elegida, edad / curso, admisión de visitantes, idioma docente, plazas y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.",
+      "source": "https://numeriklub.com/ateliers-petites-vacances/",
+      "proof": "Descripción oficial indexada: programas cortos de 2–5 días en Noël / Carnaval / Pâques / Toussaint, dibujo digital, 3D, código y juegos; ordenadores suministrados. Web directa muestra ahora «under construction»; candidato a nueva revisión sin inscripción, precio ni idioma nuevos confirmados.",
+      "checked": "2026-11-06",
+      "status": "Idea",
+      "note": "Confirmar temporada elegida, edad / curso, admisión de visitantes, idioma docente, plazas y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.",
+      "iso": [
+        "MTQ"
+      ],
+      "themes": [
+        "coding",
+        "gaming",
+        "art",
+        "technology"
+      ],
+      "scope": "regional",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Página inglesa o interfaz española del formulario no acredita idioma docente. Enseñanza presencial EN / ES / RU sin establecer.",
+      "participation": "individual",
+      "admission_kind": "unknown",
+      "evidence_level": "event_page",
+      "date_scope": "festival_window",
+      "references": [
+        {
+          "label": "Numériklub · indexed holiday description / live maintenance page",
+          "url": "https://numeriklub.com/ateliers-petites-vacances/"
+        }
+      ]
+    },
+    {
+      "id": "L580",
+      "block": "Campamentos",
+      "title": "STEAM Campus · Technology / Engineering clubs",
+      "country": "Martinica",
+      "region": "Caribe",
+      "city": "Martinica",
+      "start": "",
+      "end": "",
+      "period": "Fechas nuevas, plazas y factura final sin confirmar.",
+      "date_status": "No se ha anunciado",
+      "deadline": "",
+      "age": "Niños y adolescentes; límites numéricos sin indicar",
+      "mat": "Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.",
+      "osc": "Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.",
+      "format": "Grupo lectivo; confirmar admisión individual extranjera y formato de actividad concreta.",
+      "entry": "Confirmar temporada elegida, edad / curso, admisión de visitantes, idioma docente, plazas y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.",
+      "gear": "Clases regulares desplazadas para colegios y socios: grupos de 10–12 participantes, Micro:bit, mini robots, Scratch, Python y web. Página describe enriquecimiento lingüístico inglés y español; no promete curso técnico íntegro en EN / ES. Testimonios de niños de 10 / 11 años no son límite de admisión. Operador anuncia posibles certificados MIT / Grok; certificado concreto y estatus sin verificar.",
+      "language": "EN y ES incluidos como enriquecimiento lingüístico; confirmar idioma completo del grupo técnico.",
+      "cost": "Fechas futuras, plazas y precio final sin confirmar.",
+      "level": "C — ruta regional / local",
+      "reward": "Participación, certificado de curso, premio local y título mundial tienen distinto estatus. Catálogo editorial de oportunidades, no clasificación mundial completa.",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Confirmar temporada elegida, edad / curso, admisión de visitantes, idioma docente, plazas y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.",
+      "source": "https://steamcampus.org/ateliers/",
+      "proof": "Clases regulares desplazadas para colegios y socios: grupos de 10–12 participantes, Micro:bit, mini robots, Scratch, Python y web. Página describe enriquecimiento lingüístico inglés y español; no promete curso técnico íntegro en EN / ES. Testimonios de niños de 10 / 11 años no son límite de admisión. Operador anuncia posibles certificados MIT / Grok; certificado concreto y estatus sin verificar.",
+      "checked": "2026-11-06",
+      "status": "Idea",
+      "note": "Confirmar temporada elegida, edad / curso, admisión de visitantes, idioma docente, plazas y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.",
+      "iso": [
+        "MTQ"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "science",
+        "engineering"
+      ],
+      "scope": "regional",
+      "languages": [],
+      "language_mode": "support",
+      "language_certainty": "EN y ES incluidos como enriquecimiento lingüístico; confirmar idioma completo del grupo técnico.",
+      "participation": "individual",
+      "admission_kind": "unknown",
+      "evidence_level": "event_page",
+      "date_scope": "festival_window",
+      "references": [
+        {
+          "label": "STEAM Campus · workshops",
+          "url": "https://steamcampus.org/ateliers/"
+        },
+        {
+          "label": "STEAM Campus · group model",
+          "url": "https://steamcampus.org/"
+        },
+        {
+          "label": "STEAM Campus · school report 2026",
+          "url": "https://steamcampus.org/2026/06/30/ateliers-numeriques-pour-les-ecoliers-du-lamentin/"
+        }
+      ],
+      "support_languages": [
+        "EN",
+        "ES"
+      ],
+      "language_support_scope": "EN y ES incluidos como enriquecimiento lingüístico; confirmar idioma completo del grupo técnico."
     },
     {
       "id": "CP001-20270606-20270619",
