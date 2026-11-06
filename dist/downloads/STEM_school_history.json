@@ -1,5 +1,5 @@
 {
-  "version": 188,
+  "version": 191,
   "checked": "2026-11-06",
   "status": "partial",
   "period": [
@@ -1468,6 +1468,87 @@
       "age": "Технический возраст младших групп не установлен",
       "note": "Сеть ILBC сообщает о национальных победах Future Innovators Junior и Senior 2025 и Senior 2026, а также 5-м месте Senior на Open Asia & Pacific 2026. Это школьные отчёты; отдельный протокол организатора не проверен. Пятое место не является мировым подиумом, успех старших не доказывает технический приём младших.",
       "school_id": "S071"
+    },
+    {
+      "id": "GTM-SOLALTO",
+      "name": "Colegio Solalto",
+      "kind": "school",
+      "country": "Гватемала",
+      "age": "primary",
+      "note": "Учреждение названо в первичном отчёте UVG о национальной WRO Guatemala 2026. Подтверждена история конкретной команды; возраст приёма, язык, цена и фактический доступ детей 6 / 9 ещё не исследованы. Постоянное школьное досье не создано по одной квалификации.",
+      "school_id": null
+    },
+    {
+      "id": "GTM-CAS",
+      "name": "Colegio Americano del Sur · Escuintla",
+      "kind": "school",
+      "country": "Гватемала",
+      "age": "teen",
+      "note": "Учреждение названо в первичном отчёте UVG о национальной WRO Guatemala 2026. Подтверждена история конкретной команды; возраст приёма, язык, цена и фактический доступ детей 6 / 9 ещё не исследованы. Постоянное школьное досье не создано по одной квалификации.",
+      "school_id": null
+    },
+    {
+      "id": "GTM-CASTANO",
+      "name": "Colegio El Castaño",
+      "kind": "school",
+      "country": "Гватемала",
+      "age": "teen",
+      "note": "Учреждение названо в первичном отчёте UVG о национальной WRO Guatemala 2026. Подтверждена история конкретной команды; возраст приёма, язык, цена и фактический доступ детей 6 / 9 ещё не исследованы. Постоянное школьное досье не создано по одной квалификации.",
+      "school_id": null
+    },
+    {
+      "id": "GTM-OLIVOS",
+      "name": "Colegio Los Olivos",
+      "kind": "school",
+      "country": "Гватемала",
+      "age": "primary",
+      "note": "Учреждение названо в первичном отчёте UVG о национальной WRO Guatemala 2026. Подтверждена история конкретной команды; возраст приёма, язык, цена и фактический доступ детей 6 / 9 ещё не исследованы. Постоянное школьное досье не создано по одной квалификации.",
+      "school_id": null
+    },
+    {
+      "id": "GTM-TORRICELLI",
+      "name": "Colegio Torricelli Tacaná · San Marcos",
+      "kind": "school",
+      "country": "Гватемала",
+      "age": "teen",
+      "note": "Учреждение названо в первичном отчёте UVG о национальной WRO Guatemala 2026. Подтверждена история конкретной команды; возраст приёма, язык, цена и фактический доступ детей 6 / 9 ещё не исследованы. Постоянное школьное досье не создано по одной квалификации.",
+      "school_id": null
+    },
+    {
+      "id": "GTM-VILLAREALATLANTICO",
+      "name": "Colegio Villa Real Atlántico",
+      "kind": "school",
+      "country": "Гватемала",
+      "age": "teen",
+      "note": "Учреждение названо в первичном отчёте UVG о национальной WRO Guatemala 2026. Подтверждена история конкретной команды; возраст приёма, язык, цена и фактический доступ детей 6 / 9 ещё не исследованы. Постоянное школьное досье не создано по одной квалификации.",
+      "school_id": null
+    },
+    {
+      "id": "GTM-GMUSIC-UNRESOLVED",
+      "name": "Gmusic and arts · школьная связь не установлена",
+      "kind": "unresolved",
+      "country": "Гватемала",
+      "age": "unknown",
+      "note": "Учреждение названо в первичном отчёте UVG о национальной WRO Guatemala 2026. Подтверждена история конкретной команды; возраст приёма, язык, цена и фактический доступ детей 6 / 9 ещё не исследованы. Постоянное школьное досье не создано по одной квалификации. Ссылка статьи ведёт на musicarts.com в США; тождество гватемальскому коллективу не подтверждено, объединение не выполнено.",
+      "school_id": null
+    },
+    {
+      "id": "GTM-CASTILLO-CORDOVA",
+      "name": "Colegio Castillo Córdova",
+      "kind": "school",
+      "country": "Гватемала",
+      "age": "teen",
+      "note": "Учреждение названо в первичном отчёте UVG о национальной WRO Guatemala 2026. Подтверждена история конкретной команды; возраст приёма, язык, цена и фактический доступ детей 6 / 9 ещё не исследованы. Постоянное школьное досье не создано по одной квалификации.",
+      "school_id": null
+    },
+    {
+      "id": "GTM-STEAMMAKER-UNRESOLVED",
+      "name": "STEAM Maker · La Antigua Guatemala",
+      "kind": "unresolved",
+      "country": "Гватемала",
+      "age": "unknown",
+      "note": "Учреждение названо в первичном отчёте UVG о национальной WRO Guatemala 2026. Подтверждена история конкретной команды; возраст приёма, язык, цена и фактический доступ детей 6 / 9 ещё не исследованы. Постоянное школьное досье не создано по одной квалификации.",
+      "school_id": null
     }
   ],
   "results": [
@@ -5070,6 +5151,198 @@
       "team_id": null,
       "note": "Сеть ILBC сообщает о национальных победах Future Innovators Junior и Senior 2025 и Senior 2026, а также 5-м месте Senior на Open Asia & Pacific 2026. Это школьные отчёты; отдельный протокол организатора не проверен. Пятое место не является мировым подиумом, успех старших не доказывает технический приём младших.",
       "checked": "2026-11-06"
+    },
+    {
+      "id": "H226",
+      "entity_id": "GTM-SOLALTO",
+      "year": 2026,
+      "league": "WRO",
+      "category": "RoboMission Elementary",
+      "stage": "Национальный отбор Guatemala 2026",
+      "award": "Квалификация в Puerto Rico 2026",
+      "level": "qualification",
+      "source": "https://noticias.uvg.edu.gt/world-robot-olympiad-guatemala-2026-final-nacional-uvg/",
+      "provenance": "institutional_primary_report",
+      "team": "Roboprime",
+      "team_id": null,
+      "note": "Хозяин площадки UVG назвал команду в списке квалифицированных к следующему этапу. Это национальный результат; поездка, международный протокол, место и медаль не подтверждены.",
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "H227",
+      "entity_id": "GTM-CAS",
+      "year": 2026,
+      "league": "WRO",
+      "category": "RoboMission Junior",
+      "stage": "Национальный отбор Guatemala 2026",
+      "award": "Квалификация в Puerto Rico 2026",
+      "level": "qualification",
+      "source": "https://noticias.uvg.edu.gt/world-robot-olympiad-guatemala-2026-final-nacional-uvg/",
+      "provenance": "institutional_primary_report",
+      "team": "Ciberjaguars",
+      "team_id": null,
+      "note": "Хозяин площадки UVG назвал команду в списке квалифицированных к следующему этапу. Это национальный результат; поездка, международный протокол, место и медаль не подтверждены.",
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "H228",
+      "entity_id": "GTM-CASTANO",
+      "year": 2026,
+      "league": "WRO",
+      "category": "RoboMission Senior",
+      "stage": "Национальный отбор Guatemala 2026",
+      "award": "Квалификация в Puerto Rico 2026",
+      "level": "qualification",
+      "source": "https://noticias.uvg.edu.gt/world-robot-olympiad-guatemala-2026-final-nacional-uvg/",
+      "provenance": "institutional_primary_report",
+      "team": "The Loose Screws CBC",
+      "team_id": null,
+      "note": "Хозяин площадки UVG назвал команду в списке квалифицированных к следующему этапу. Это национальный результат; поездка, международный протокол, место и медаль не подтверждены.",
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "H229",
+      "entity_id": "GTM-OLIVOS",
+      "year": 2026,
+      "league": "WRO",
+      "category": "Future Innovators Elementary",
+      "stage": "Национальный отбор Guatemala 2026",
+      "award": "Квалификация в Puerto Rico 2026",
+      "level": "qualification",
+      "source": "https://noticias.uvg.edu.gt/world-robot-olympiad-guatemala-2026-final-nacional-uvg/",
+      "provenance": "institutional_primary_report",
+      "team": "Guatebots",
+      "team_id": null,
+      "note": "Хозяин площадки UVG назвал команду в списке квалифицированных к следующему этапу. Это национальный результат; поездка, международный протокол, место и медаль не подтверждены.",
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "H230",
+      "entity_id": "GTM-TORRICELLI",
+      "year": 2026,
+      "league": "WRO",
+      "category": "Future Innovators Junior",
+      "stage": "Национальный отбор Guatemala 2026",
+      "award": "Квалификация в Puerto Rico 2026",
+      "level": "qualification",
+      "source": "https://noticias.uvg.edu.gt/world-robot-olympiad-guatemala-2026-final-nacional-uvg/",
+      "provenance": "institutional_primary_report",
+      "team": "Ghost Technology",
+      "team_id": null,
+      "note": "Хозяин площадки UVG назвал команду в списке квалифицированных к следующему этапу. Это национальный результат; поездка, международный протокол, место и медаль не подтверждены.",
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "H231",
+      "entity_id": "GTM-VILLAREALATLANTICO",
+      "year": 2026,
+      "league": "WRO",
+      "category": "Future Innovators Senior",
+      "stage": "Национальный отбор Guatemala 2026",
+      "award": "Квалификация в Puerto Rico 2026",
+      "level": "qualification",
+      "source": "https://noticias.uvg.edu.gt/world-robot-olympiad-guatemala-2026-final-nacional-uvg/",
+      "provenance": "institutional_primary_report",
+      "team": "Skyne Tics",
+      "team_id": null,
+      "note": "Хозяин площадки UVG назвал команду в списке квалифицированных к следующему этапу. Это национальный результат; поездка, международный протокол, место и медаль не подтверждены.",
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "H232",
+      "entity_id": "GTM-SOLALTO",
+      "year": 2026,
+      "league": "WRO",
+      "category": "RoboMission Elementary",
+      "stage": "Национальный отбор Guatemala 2026",
+      "award": "Квалификация в California Open 2026",
+      "level": "qualification",
+      "source": "https://noticias.uvg.edu.gt/world-robot-olympiad-guatemala-2026-final-nacional-uvg/",
+      "provenance": "institutional_primary_report",
+      "team": "Cosmo 26",
+      "team_id": null,
+      "note": "Хозяин площадки UVG назвал команду в списке квалифицированных к следующему этапу. Это национальный результат; поездка, международный протокол, место и медаль не подтверждены. Для California Open конкретный национальный ранг не выведен из порядка списка.",
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "H233",
+      "entity_id": "GTM-GMUSIC-UNRESOLVED",
+      "year": 2026,
+      "league": "WRO",
+      "category": "RoboMission Junior",
+      "stage": "Национальный отбор Guatemala 2026",
+      "award": "Квалификация в California Open 2026",
+      "level": "qualification",
+      "source": "https://noticias.uvg.edu.gt/world-robot-olympiad-guatemala-2026-final-nacional-uvg/",
+      "provenance": "institutional_primary_report",
+      "team": "Grobotics",
+      "team_id": null,
+      "note": "Хозяин площадки UVG назвал команду в списке квалифицированных к следующему этапу. Это национальный результат; поездка, международный протокол, место и медаль не подтверждены. Для California Open конкретный национальный ранг не выведен из порядка списка.",
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "H234",
+      "entity_id": "GTM-CASTILLO-CORDOVA",
+      "year": 2026,
+      "league": "WRO",
+      "category": "RoboMission Senior",
+      "stage": "Национальный отбор Guatemala 2026",
+      "award": "Квалификация в California Open 2026",
+      "level": "qualification",
+      "source": "https://noticias.uvg.edu.gt/world-robot-olympiad-guatemala-2026-final-nacional-uvg/",
+      "provenance": "institutional_primary_report",
+      "team": "Robocast",
+      "team_id": null,
+      "note": "Хозяин площадки UVG назвал команду в списке квалифицированных к следующему этапу. Это национальный результат; поездка, международный протокол, место и медаль не подтверждены. Для California Open конкретный национальный ранг не выведен из порядка списка.",
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "H235",
+      "entity_id": "GTM-OLIVOS",
+      "year": 2026,
+      "league": "WRO",
+      "category": "Future Innovators Elementary",
+      "stage": "Национальный отбор Guatemala 2026",
+      "award": "Квалификация в California Open 2026",
+      "level": "qualification",
+      "source": "https://noticias.uvg.edu.gt/world-robot-olympiad-guatemala-2026-final-nacional-uvg/",
+      "provenance": "institutional_primary_report",
+      "team": "Los fantásticos",
+      "team_id": null,
+      "note": "Хозяин площадки UVG назвал команду в списке квалифицированных к следующему этапу. Это национальный результат; поездка, международный протокол, место и медаль не подтверждены. Для California Open конкретный национальный ранг не выведен из порядка списка.",
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "H236",
+      "entity_id": "GTM-TORRICELLI",
+      "year": 2026,
+      "league": "WRO",
+      "category": "Future Innovators Junior",
+      "stage": "Национальный отбор Guatemala 2026",
+      "award": "Квалификация в California Open 2026",
+      "level": "qualification",
+      "source": "https://noticias.uvg.edu.gt/world-robot-olympiad-guatemala-2026-final-nacional-uvg/",
+      "provenance": "institutional_primary_report",
+      "team": "Spice team",
+      "team_id": null,
+      "note": "Хозяин площадки UVG назвал команду в списке квалифицированных к следующему этапу. Это национальный результат; поездка, международный протокол, место и медаль не подтверждены. Для California Open конкретный национальный ранг не выведен из порядка списка.",
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "H237",
+      "entity_id": "GTM-STEAMMAKER-UNRESOLVED",
+      "year": 2026,
+      "league": "WRO",
+      "category": "Future Innovators Senior",
+      "stage": "Национальный отбор Guatemala 2026",
+      "award": "Квалификация в California Open 2026",
+      "level": "qualification",
+      "source": "https://noticias.uvg.edu.gt/world-robot-olympiad-guatemala-2026-final-nacional-uvg/",
+      "provenance": "institutional_primary_report",
+      "team": "Innova makers",
+      "team_id": null,
+      "note": "Хозяин площадки UVG назвал команду в списке квалифицированных к следующему этапу. Это национальный результат; поездка, международный протокол, место и медаль не подтверждены. Для California Open конкретный национальный ранг не выведен из порядка списка.",
+      "checked": "2026-11-06"
     }
   ],
   "coverage": [
@@ -5253,6 +5526,29 @@
       },
       "sources": [
         "https://2025.robocup.org/wrap-up/"
+      ]
+    },
+    {
+      "id": "WRO-Guatemala-qualification",
+      "name": "WRO Guatemala · национальная квалификация",
+      "role": "Отбор к международным событиям, не мировые титулы",
+      "status": "partial",
+      "detail": "Один цикл 2026: первичный анонс и отчёт хозяина UVG, 12 команд у 9 названных учреждений. Это не полная серия 5–10 лет и не доказанные международные победы. Две внешкольные школьные связи остаются неустановленными.",
+      "years": {
+        "2017": "archive_gap",
+        "2018": "archive_gap",
+        "2019": "archive_gap",
+        "2020": "archive_gap",
+        "2021": "archive_gap",
+        "2022": "archive_gap",
+        "2023": "archive_gap",
+        "2024": "archive_gap",
+        "2025": "archive_gap",
+        "2026": "report"
+      },
+      "sources": [
+        "https://noticias.uvg.edu.gt/world-robot-olympiad-guatemala-2026-final-nacional-uvg/",
+        "https://noticias.uvg.edu.gt/uvg-steam-group-final-nacional-robotica-wro-2026/"
       ]
     }
   ],

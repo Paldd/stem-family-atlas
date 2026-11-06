@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 5995; competiciones: 2047; eventos: 265; campamentos / programas: 3683. Perfiles de ligas y programas: 249. Fichas de exposiciones grandes y especializadas: 173 — son ediciones y sedes, no cantidad de marcas únicas.
+Tarjetas de identificación: 6031; competencia: 2083; acontecimientos: 265; campamentos/programas: 3683; perfiles y programas: 252. Tarjetas de exposiciones importantes y de perfil: 173 ° son publicaciones y lugares, no hay marcas únicas.
 
 Hay registros concretos de 157 de 249 países y territorios; países completamente auditados: 0. Pasada histórica v51: añadidas 21 fichas, 3 perfiles. Conservadas todas las fichas anteriores.
 
@@ -14,7 +14,7 @@ Hay registros concretos de 157 de 249 países y territorios; países completamen
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 23 | 624 | 22 | 1010 |
+○ América del Norte ♫ 23 ♫ 660 ♫ 22 ♫ 1010 ♫
 | América del Sur | 10 | 163 | 7 | 113 |
 | Europa | 42 | 392 | 55 | 1254 |
 | África | 34 | 112 | 15 | 68 |
@@ -23,7 +23,7 @@ Hay registros concretos de 157 de 249 países y territorios; países completamen
 
 Fichas interregionales / globales sin asignar a un continente: 84. América del Norte incluye América Central y el Caribe. Las cantidades reflejan inventario de la base, sin porcentaje de exhaustividad.
 
-VEX: 518 de 2047 fichas de competiciones (25.3%). Sesgo evidente de cobertura.
+VEX: 518 de 2083 tarjetas de competencia (24.9%), lo que representa una clara distorsión de la cobertura.
 
 ## Lo que queda
 
@@ -93,7 +93,7 @@ VEX: 518 de 2047 fichas de competiciones (25.3%). Sesgo evidente de cobertura.
 
 ## ~ Proyecciones de ligas y programas
 
-- **WRO**: 115 fichas, 5 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://wro-association.org/competition/categories/
+- **WRO**: 115 tarjetas, 6 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://wro-association.org/competition/categories/
 - **FIRST**: 284 fichas, 183 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.firstinspires.org/programs/fll/
 - **VEX Robotics**: 518 fichas, 421 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.vexrobotics.com/official-path
 - *RoboCupJunior**: 4 tarjetas, 2 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://junior.robocup.org/
@@ -229,7 +229,7 @@ VEX: 518 de 2047 fichas de competiciones (25.3%). Sesgo evidente de cobertura.
 - *Hong Kong Winter Robot Challenge2027 · remote video**: 6 tarjetas, 6 con fechas exactas futuras. https://www.peachcp.com/wro-hk/elementor-%E9%A0%81%E9%9D%A2-8325/
 - **FIRST LEGO League México · cuatro rutas de BIOGLOW 2026/27**: 6 tarjetas, 0 con fechas exactas futuras; perfil y tarjetas; cobertura local parcial. https://www.firstlegoleagues.mx/preguntas-frecuentes/
 - **LATI / LTRC Tabasco · Junior y Regional RoboMatrix**: 3 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://laliga.lati.mx/convocatoria/
-- **WRO México · Kinder / Primaria Baja / Elementary**: 3 tarjetas, 0 con fechas exactas futuras. https://wromexico.org/categorias/
+- **WRO México · Kinder / Primaria Baja / Elementary**: 24 tarjetas, 0 con fechas exactas futuras. https://wromexico.org/categorias/
 - **FIRST Japan · Explore / Challenge / Future 2026*27**: 11 tarjetas, 10 con fechas exactas futuras. https://firstjapan.jp/events/fll-explore-2026-2027/
 - **VEX IQ Japan · domestic qualification route**: 6 fichas, 4 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-4838.html
 - *China · junior VEX / FIRST through school or academy**: 3 tarjetas, 3 con fechas exactas futuras. https://www.ycyw-edu.com/en/2026-ycyw-summer-programme-primary-programme
@@ -274,6 +274,9 @@ VEX: 518 de 2047 fichas de competiciones (25.3%). Sesgo evidente de cobertura.
 - **WRO Syria · DCA**: 8 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://sana.sy/education/2550170/
 - **FIRST Israel · local junior programmes**: 12 fichas, 9 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://firstisrael.org.il/fll/challenge/2026-10-29
 - **WRO Lebanon · MindPower**: 9 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://mindpowerlb.com/wro-2026/
+- **WRO Panamá - temporada 2027 y ruta nacional**: 23 tarjetas, 15 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://wropanama.com/temporada
+- **WRO Guatemala · STEAM Group / UVG**: 2 tarjetas, 0 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://noticias.uvg.edu.gt/uvg-steam-group-final-nacional-robotica-wro-2026/
+- **WRO Colombia · Fundación Conecta +**: 1 tarjeta, 0 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://wrocolombia.org/
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 10 tarjetas, 0 con fechas exactas futuras. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf

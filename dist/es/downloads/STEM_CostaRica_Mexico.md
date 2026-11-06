@@ -163,16 +163,16 @@ Comprobado: 2026-09-29
 
 ### C007 · WRO — RoboMission / Future Innovators Elementary
 
-Fecha: 2027: fecha no declarada
+Fecha: La próxima temporada 2027 no tiene fecha; los carteles especializados de los sitios nacionales 2026 muestran septiembre; el cronograma general se ha separado del CDMX desde el 10 de mayo.
 Edad: Mundial 8–12; Edad al año de la temporada
 Matway: Sí, por edad
 Oscar: No hasta los 8 años
 Idioma: No se ha confirmado el idioma de la defensa/juzgación de un determinado emplazamiento.
 Entrada: Organizador nacional; verificación de residencia, escuela, ciudadanía y representación
 Costo: No publicado / Comprobar la edición actual
-Limitaciones: B 2026 Elementary — Nacimiento 2014–2018. Reglamento 2027 Y los años de nacimiento, esperamos por separado.; No se puede apoyar a dos países con la presunción de que. México Publica por separado Kinder 5–7 / Primaria Baja 7–9 en 2026. B 2027 a Matvey 10, a Oscar 7; La nueva pista no sustituye a la pista más pequeña Elementary 8–12.
+Limitaciones: Los carteles nacionales y regionales de 2026 se han leído por separado del cronograma general; los auxiliares RoboStarter siguen siendo de categoría local; no se ha anunciado una nueva versión de 2027.
 Fuente: https://wromexico.org/categorias/
-Comprobado: 2026-10-02
+Se ha comprobado: 2026-11-06
 
 ### C020 · MakeX México XII 2026
 
@@ -2317,6 +2317,279 @@ Acceso: Página oficial ITU describe etapa clasificatoria local, sin inscripció
 Precio: Convocatoria nueva, tarifa y plazas sin establecer.
 Limitaciones: Página oficial ITU describe etapa clasificatoria local, sin inscripción libre al final mundial. Idioma, composición, cuota local, cupo y admisión de equipo extranjero necesitan confirmación separada. Fecha publicada no significa plaza disponible. Etapa archivada de 2026 sin trasladar reglas de edad de temporada nueva 2026–2027. Con mínimo de 10 años Matvey 2017 y Oscar 2020 eran menores; sin convocatoria nueva disponible. Página marca solicitudes cerradas.
 Fuente: https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-mexico/
+Se ha comprobado: 2026-11-06
+
+### C2063 · WRO México 2026 · Regional Baja California Sur
+
+Fecha: 2026-05-20 国 2026-05-20
+Edad: Categorías de afiche: RoboMission Primaria / RoboStarter Primaria Baja; también se denomina a Kinder cerrado.
+Matway: Sí, 2026 en la categoría inferior apropiada; la calificación y la autorización de mando deberían haber sido confirmadas.
+Oscar: No para RoboMission / Future Innovators 8+; el menor RoboStarter sólo es posible cuando está claramente declarado.
+Idioma: Anuncios en ES; confirmar el idioma del jurado/defensor.
+Entrada: Archivo 2026: En 2027, la composición de los emplazamientos nacionales, las normas y la recepción aún no se han anunciado; el cartel y la página 2026 no son solicitudes abiertas para la nueva temporada.
+Costo: No se ha establecido el tipo de cambio de la categoría seleccionada/año ni se ha establecido el costo total.
+Limitaciones: En la tabla de resumen de Kinder no se indica el número de la lista de direcciones individuales de las 16 órdenes cerradas de Kinder. No se confirma la recepción abierta.
+Fuente: https://www.wromexico.org/regionales/2026/01-RegionalBajaSur.png
+Se ha comprobado: 2026-11-06
+
+### C2064 · WRO México 2026 · Regional Nuevo León
+
+Fecha: 2026-05-23 国 2026-05-23
+Edad: Afiche de RoboMision / Futuro Innovators en tres niveles escolares.
+Matway: Sí, 2026 en la categoría inferior apropiada; la calificación y la autorización de mando deberían haber sido confirmadas.
+Oscar: No según las categorías 8+ publicadas; no se ha confirmado un flujo menor separado.
+Idioma: Anuncios en ES; confirmar el idioma del jurado/defensor.
+Entrada: Archivo 2026: En 2027, la composición de los parques nacionales, las normas y las prácticas de recepción aún no se han anunciado; el cartel y la página 2026 no son una solicitud abierta para la nueva temporada.
+Costo: No se ha establecido el tipo de cambio de la categoría seleccionada/año ni se ha establecido el costo total.
+Limitaciones:
+Fuente: https://www.wromexico.org/regionales/2026/06-NuevoLeon.jpeg
+Se ha comprobado: 2026-11-06
+
+### C2065 · WRO México 2026 · Regional Sinaloa
+
+Fecha: 2026-05-24 国 2026-05-24
+Edad: Categorías de afiche: RoboMission; RoboStarter Kinder y Primaria Baja, afiches individuales.
+Matway: Sí, 2026 en la categoría inferior apropiada; la calificación y la autorización de mando deberían haber sido confirmadas.
+Oscar: Con la edad de Kinder 2026: Oscar cumple 6; la autorización local/comandante y el lugar debían ser confirmados.
+Idioma: Anuncios en ES; confirmar el idioma del jurado/defensor.
+Entrada: Archivo 2026: En 2027, la composición de los emplazamientos nacionales, las normas y la recepción aún no se han anunciado; el cartel y la página 2026 no son una solicitud abierta para la nueva temporada.
+Costo: No se ha establecido el tipo de cambio de la categoría seleccionada/año ni se ha establecido el costo total.
+Limitaciones: La tabla de resumen llama Kinder; el cartel individual confirma además la Primaria Baja.
+Fuente: https://www.wromexico.org/regionales/2026/02-RegionalSinaloa.jpeg
+Se ha comprobado: 2026-11-06
+
+### C2066 · WRO México 2026 · Regional Baja California
+
+Fecha: 2026-06-04 国 2026-06-05
+Edad: Afiche: 4 de junio: RoboStarter e Future Innovators; 5 de junio: RoboMission y Future Engineers.
+Matway: Sí, 2026 en la categoría inferior apropiada; la calificación y la autorización de mando deberían haber sido confirmadas.
+Oscar: Con la edad de Kinder 2026: Oscar cumple 6; la autorización local/comandante y el lugar debían ser confirmados.
+Idioma: Anuncios en ES; confirmar el idioma del jurado/defensor.
+Entrada: Archivo 2026: En 2027, la composición de los emplazamientos nacionales, las normas y las acciones aún no se han anunciado; el cartel y la página 2026 no son una solicitud abierta para la nueva temporada. 4 de junio: RoboStarter y Future Innovators; 5 de junio: RoboMision y Future Engineers.
+Costo: No se ha establecido el tipo de cambio de la categoría seleccionada/año ni se ha establecido el costo total.
+Limitaciones:
+Fuente: https://www.wromexico.org/regionales/2026/03-RegionalBajaCalifornia.jpeg
+Se ha comprobado: 2026-11-06
+
+### C2067 · WRO México 2026 · Regional San Luis Potosí
+
+Fecha: 2026-06-13 国 2026-06-13
+Edad: Categorías de afiche: RoboMission / Future Innovators; el subtipo RoboStarter es controvertido.
+Matway: Sí, 2026 en la categoría inferior apropiada; la calificación y la autorización de mando deberían haber sido confirmadas.
+Oscar: Condicionalmente sólo para RoboStarter local; fuentes que se diferencian según Kinder / Primaria Baja.
+Idioma: Anuncios en ES; confirmar el idioma del jurado/defensor.
+Entrada: Archivo 2026. B 2027 Fechas, Composición de los emplazamientos nacionales, Reglas y aceptación pendientes. Plaqueta y página 2026 no son una solicitud abierta para la nueva temporada. RoboMission / Future Innovators; Subtipo RoboStarter Discutible.
+Costo: No se ha establecido el tipo de cambio de la categoría seleccionada/año ni se ha establecido el costo total.
+Limitaciones: La tabla de resumen muestra Primaria Baja, un cartel separado de Kinder. No se ha establecido la admisión de Oscar en un subtipo junior específico.
+Fuente: https://www.wromexico.org/regionales/2026/04-RegionalSLP.png
+Se ha comprobado: 2026-11-06
+
+### C2068 · WRO México 2026 · Regional Quintana Roo
+
+Fecha: 2026-06-13 国 2026-06-13
+Edad: Afiche: RoboMission; Cancón Nacional de septiembre , fase separada.
+Matway: Sí, 2026 en la categoría inferior apropiada; la calificación y la autorización de mando deberían haber sido confirmadas.
+Oscar: No según las categorías 8+ publicadas; no se ha confirmado un flujo menor separado.
+Idioma: Anuncios en ES; confirmar el idioma del jurado/defensor.
+Entrada: Archivo 2026: En 2027, la composición de los emplazamientos nacionales, las normas y la recepción aún no se han anunciado; el cartel y la página 2026 no son una solicitud abierta para la nueva temporada.
+Costo: No se ha establecido el tipo de cambio de la categoría seleccionada/año ni se ha establecido el costo total.
+Limitaciones:
+Fuente: https://www.wromexico.org/regionales/2026/11-QuintanaRoo.jpeg
+Se ha comprobado: 2026-11-06
+
+### C2069 · WRO México 2026 · Regional Aguascalientes
+
+Fecha: 2026-06-13 国 2026-06-13
+Edad: Categorías de carteles: Futuro Innovators Primaria/Secundaria/Preparatoria; RoboMission Primaria/Secundaria.
+Matway: Sí, 2026 en la categoría inferior apropiada; la calificación y la autorización de mando deberían haber sido confirmadas.
+Oscar: No según las categorías 8+ publicadas; no se ha confirmado un flujo menor separado.
+Idioma: Anuncios en ES; confirmar el idioma del jurado/defensor.
+Entrada: Archivo 2026: En 2027, la composición de los emplazamientos nacionales, las normas y la recepción aún no se han anunciado; el cartel y la página 2026 no son una solicitud abierta para la nueva temporada; Future Innovators Primaria/Secundaria/Preparatoria; RoboMision Primaria/Secundaria.
+Costo: No se ha establecido el tipo de cambio de la categoría seleccionada/año ni se ha establecido el costo total.
+Limitaciones: El nombre Futuras Innovadoras no demuestra por sí solo la prohibición de los niños varones: no hay una clara situación de género en el cartel leído.
+Fuente: https://www.wromexico.org/regionales/2026/12-Aguascalientes.jpeg
+Se ha comprobado: 2026-11-06
+
+### C2070 · WRO México 2026 · Regional Jalisco
+
+Fecha: 2026-06-20 国 2026-06-20
+Edad: Categorías de carteles: RoboStarter Kinder, RoboMission, Future Innovators y RoboSports.
+Matway: Sí, 2026 en la categoría inferior apropiada; la calificación y la autorización de mando deberían haber sido confirmadas.
+Oscar: Con la edad de Kinder 2026: Oscar cumple 6; la autorización local/comandante y el lugar debían ser confirmados.
+Idioma: Anuncios en ES; confirmar el idioma del jurado/defensor.
+Entrada: Archivo 2026: En 2027, la composición de los parques nacionales, las normas y las acciones aún no se han anunciado; el cartel y la página 2026 no son una solicitud abierta para la nueva temporada.
+Costo: No se ha establecido el tipo de cambio de la categoría seleccionada/año ni se ha establecido el costo total.
+Limitaciones:
+Fuente: https://www.wromexico.org/regionales/2026/13-RegionalJalisco.jpeg
+Se ha comprobado: 2026-11-06
+
+### C2071 · WRO México 2026 · Regional Coahuila
+
+Fecha: 2026-06-20 国 2026-06-20
+Edad: Categorías de afiche: RoboStarter Kinder / Primaria Baja, RoboMission, Future Innovators.
+Matway: Sí, 2026 en la categoría inferior apropiada; la calificación y la autorización de mando deberían haber sido confirmadas.
+Oscar: Con la edad de Kinder 2026: Oscar cumple 6; la autorización local/comandante y el lugar debían ser confirmados.
+Idioma: Anuncios en ES; confirmar el idioma del jurado/defensor.
+Entrada: Archivo 2026: En 2027, la composición de los emplazamientos nacionales, las normas y la recepción aún no se han anunciado; el cartel y la página 2026 no son una solicitud abierta para la nueva temporada.
+Costo: No se ha establecido el tipo de cambio de la categoría seleccionada/año ni se ha establecido el costo total.
+Limitaciones:
+Fuente: https://www.wromexico.org/regionales/2026/07-Coahuila.jpeg
+Se ha comprobado: 2026-11-06
+
+### C2072 · WRO México 2026 · Regional Guerrero
+
+Fecha: 2026-06-24 国 2026-06-24
+Edad: Categorías de carteles: Futuro Innovators Primaria/Secundaria y Futuro Engineers.
+Matway: Sí, 2026 en la categoría inferior apropiada; la calificación y la autorización de mando deberían haber sido confirmadas.
+Oscar: No según las categorías 8+ publicadas; no se ha confirmado un flujo menor separado.
+Idioma: Anuncios en ES; confirmar el idioma del jurado/defensor.
+Entrada: Archivo 2026: En 2027, la composición de los emplazamientos nacionales, las normas y la recepción aún no se han anunciado; el cartel y la página 2026 no son una solicitud abierta para la nueva temporada.
+Costo: No se ha establecido el tipo de cambio de la categoría seleccionada/año ni se ha establecido el costo total.
+Limitaciones:
+Fuente: https://www.wromexico.org/regionales/2026/09-Guerrero.jpeg
+Se ha comprobado: 2026-11-06
+
+### C2073 · WRO México 2026 · Regional Puebla
+
+Fecha: 2026-06-27 国 2026-06-27
+Edad: Categorías de afiche: RoboMission, RoboStarter Kinder / Primaria Baja, Future Innovators.
+Matway: Sí, 2026 en la categoría inferior apropiada; la calificación y la autorización de mando deberían haber sido confirmadas.
+Oscar: Con la edad de Kinder 2026: Oscar cumple 6; la autorización local/comandante y el lugar debían ser confirmados.
+Idioma: Anuncios en ES; confirmar el idioma del jurado/defensor.
+Entrada: Archivo 2026: En 2027, la composición de los emplazamientos nacionales, las normas y la recepción aún no se han anunciado; el cartel y la página 2026 no son una solicitud abierta para la nueva temporada.
+Costo: No se ha establecido el tipo de cambio de la categoría seleccionada/año ni se ha establecido el costo total.
+Limitaciones:
+Fuente: https://www.wromexico.org/regionales/2026/10-Puebla.jpeg
+Se ha comprobado: 2026-11-06
+
+### C2074 · WRO México 2026 · Regional Ciudad de México
+
+Fecha: 2026-07-11 国 2026-07-11
+Edad: Afiche: RoboMission / Future Innovators; RoboStarter no figura en el cartel individual.
+Matway: Sí, 2026 en la categoría inferior apropiada; la calificación y la autorización de mando deberían haber sido confirmadas.
+Oscar: No según las categorías 8+ publicadas; no se ha confirmado un flujo menor separado.
+Idioma: Anuncios en ES; confirmar el idioma del jurado/defensor.
+Entrada: Archivo 2026: En 2027, la composición de los emplazamientos nacionales, las normas y las disposiciones no se han anunciado aún; el cartel y la página 2026 no son solicitudes abiertas para la nueva temporada.
+Costo: No se ha establecido el tipo de cambio de la categoría seleccionada/año ni se ha establecido el costo total.
+Limitaciones:
+Fuente: https://www.wromexico.org/regionales/2026/08-CDMX.jpeg
+Se ha comprobado: 2026-11-06
+
+### C2075 · WRO México 2026 · Regional Tamaulipas · fase cancelada
+
+Fecha: En el cuadro 2026 figura el número de la fecha de la presentación, que no está fijada.
+Edad: No se han publicado las categorías de la etapa cancelada.
+No: fase cancelada.
+No: fase cancelada.
+Idioma: Anuncios en ES; confirmar el idioma del jurado/defensor.
+Entrada: Archivo 2026. B 2027 Fechas, Composición de los emplazamientos nacionales, Reglas y aceptación pendientes. Plaqueta y página 2026 no son una solicitud abierta para la nueva temporada.
+Costo: No se ha establecido el tipo de cambio de la categoría seleccionada/año ni se ha establecido el costo total.
+Limitaciones:
+Fuente: https://www.wromexico.org/regionales/2026/00-Lista%20Regionales.jpeg
+Se ha comprobado: 2026-11-06
+
+### C2076 · WRO México 2026 · Regional Querétaro · fase cancelada
+
+Fecha: En el cuadro 2026 figura el número de la fecha de la presentación, que no está fijada.
+Edad: No se han publicado las categorías de la etapa cancelada.
+No: fase cancelada.
+No: fase cancelada.
+Idioma: Anuncios en ES; confirmar el idioma del jurado/defensor.
+Entrada: Archivo 2026. B 2027 Fechas, Composición de los emplazamientos nacionales, Reglas y aceptación pendientes. Plaqueta y página 2026 no son una solicitud abierta para la nueva temporada.
+Costo: No se ha establecido el tipo de cambio de la categoría seleccionada/año ni se ha establecido el costo total.
+Limitaciones:
+Fuente: https://www.wromexico.org/regionales/2026/00-Lista%20Regionales.jpeg
+Se ha comprobado: 2026-11-06
+
+### C2077 · WRO México 2026 · Nacional Baja California / Tijuana
+
+Fecha: 2026-09-18 国 2026-09-19
+Edad: RoboStarter Kinder 5–7; Primaria Baja 7–9; Future Engineers 14–22.
+Matway: Sí, Primaria Baja, 2026; no para Kinder ni para Future Engineers.
+Oscar: Sí, por edad Kinder en 2026; admisión y composición por separado.
+Idioma: Anuncios en ES; confirmar el idioma del jurado/defensor.
+Entrada: Archivo 2026. B 2027 Fechas, Composición de los emplazamientos nacionales, Reglas y aceptación pendientes. Plaqueta y página 2026 no son una solicitud abierta para la nueva temporada. El derecho de participación y selección nacionales no se excluyen automáticamente de la nacionalidad.
+Costo: No se ha establecido el tipo de cambio de la categoría seleccionada/año ni se ha establecido el costo total.
+Limitaciones: El cronograma de texto común con el CDMX nacional el 10 de mayo se separa de los carteles especializados de septiembre.
+Fuente: https://www.wromexico.org/nacionales/2026/01-NacionalBajaCalifornia.jpeg
+Se ha comprobado: 2026-11-06
+
+### C2078 · WRO México 2026 · Nacional Quintana Roo / Cancún · RoboMission
+
+Fecha: 2026-09-05 — 2026-09-06
+Edad: Solo RoboMission; división escolar según el reglamento.
+Matvey: Sí, por edad RoboMission 8–12 en 2026.
+No para RoboMision 8+ en 2026.
+Idioma: Anuncios en ES; confirmar el idioma del jurado/defensor.
+Entrada: Archivo 2026. B 2027 Fechas, Composición de los emplazamientos nacionales, Reglas y aceptación pendientes. Plaqueta y página 2026 no son una solicitud abierta para la nueva temporada. El derecho de participación y selección nacionales no se excluyen automáticamente de la nacionalidad.
+Costo: No se ha establecido el tipo de cambio de la categoría seleccionada/año ni se ha establecido el costo total.
+Limitaciones: El cronograma de texto general con el CDMX nacional el 10 de mayo se aparta de los carteles especializados de septiembre. La tarjeta guarda la fuente de un emplazamiento específico. Un pequeño número de firmas en el cartel Cancun dice Regional, el titular principal y la sección de National.
+Fuente: https://www.wromexico.org/nacionales/2026/02-NacionalQuintanaRoo.jpeg
+Se ha comprobado: 2026-11-06
+
+### C2079 · WRO México 2026 · Nacional Veracruz / Orizaba · Innovators / Sports
+
+Fecha: 2026-09-11 国 2026-09-12
+Edad: Futuro Innovators y RoboSports; edad por división.
+Matway: Sí, por edad, Future Innovators Elementary; no para RoboSports 11+.
+Oscar: No para las direcciones publicadas 8+ en 2026.
+Idioma: Anuncios en ES; confirmar el idioma del jurado/defensor.
+Entrada: Archivo 2026. B 2027 Fechas, Composición de los emplazamientos nacionales, Reglas y aceptación pendientes. Plaqueta y página 2026 no son una solicitud abierta para la nueva temporada. El derecho de participación y selección nacionales no se excluyen automáticamente de la nacionalidad.
+Costo: No se ha establecido el tipo de cambio de la categoría seleccionada/año ni se ha establecido el costo total.
+Limitaciones: El cronograma de texto común con el CDMX nacional el 10 de mayo se separa de los carteles especializados de septiembre.
+Fuente: https://www.wromexico.org/nacionales/2026/03-NacionalVeracruz.jpeg
+Se ha comprobado: 2026-11-06
+
+### C2080 · WRO Municipal Quintana Roo 2026 · Chetumal ·
+
+Fecha: 2026-05-09 国 2026-05-09
+Edad: RoboMission Primaria / Secundaria / Preparatoria; RoboStarter, menor, no declarado.
+Matway: Confidencialmente por edad RoboMision; sólo los equipos de Quintana Roo, nuestra admisión regional no está confirmada.
+Oscar: No para RoboMission 8+; no hay una categoría menor en esta denuncia municipal.
+Idioma: Anuncios en ES; confirmar el idioma del jurado/defensor.
+Entrada: Afisha dice claramente que la etapa no es un torneo regional; esto es un entrenamiento, los cuatro días municipales del 9 de mayo, la recepción se ha ampliado hasta el 25 de abril de 2026, el archivo 2026, 2027 fechas, la composición de los parques nacionales, las normas y las admisiones aún no se han anunciado, y el cartel y la página 2026 no son una solicitud abierta para la nueva temporada.
+Costo: No se ha establecido el tipo de cambio de la categoría seleccionada/año ni se ha establecido el costo total.
+Limitaciones: Los límites de la capacidad de los carteles no se definen en el número de órdenes que se han de clasificar.
+Fuente: https://www.wromexico.org/regionales/quintana_roo/01-Imagentablaeventos.png
+Se ha comprobado: 2026-11-06
+
+### C2081 · WRO Municipal Quintana Roo 2026 · Cancun ·
+
+Fecha: 2026-05-09 国 2026-05-09
+Edad: RoboMission Primaria / Secundaria / Preparatoria; RoboStarter, menor, no declarado.
+Matway: Confidencialmente por edad RoboMision; sólo los equipos de Quintana Roo, nuestra admisión regional no está confirmada.
+Oscar: No para RoboMission 8+; no hay una categoría menor en esta denuncia municipal.
+Idioma: Anuncios en ES; confirmar el idioma del jurado/defensor.
+Entrada: Afisha dice claramente que la etapa no es un torneo regional; esto es un entrenamiento, los cuatro días municipales del 9 de mayo, la recepción se ha ampliado hasta el 25 de abril de 2026, el archivo 2026, 2027 fechas, la composición de los parques nacionales, las normas y las admisiones aún no se han anunciado, y el cartel y la página 2026 no son una solicitud abierta para la nueva temporada.
+Costo: No se ha establecido el tipo de cambio de la categoría seleccionada/año ni se ha establecido el costo total.
+Limitaciones: Los límites de la capacidad de los carteles no se definen en el número de órdenes que se han de clasificar.
+Fuente: https://www.wromexico.org/regionales/quintana_roo/01-Imagentablaeventos.png
+Se ha comprobado: 2026-11-06
+
+### C2082 · WRO Municipal Quintana Roo 2026 · Playa del Carmen · capacitación
+
+Fecha: 2026-05-09 国 2026-05-09
+Edad: RoboMission Primaria / Secundaria / Preparatoria; RoboStarter, menor, no declarado.
+Matway: Confidencialmente por edad RoboMision; sólo los equipos de Quintana Roo, nuestra admisión regional no está confirmada.
+Oscar: No para RoboMission 8+; no hay una categoría menor en esta denuncia municipal.
+Idioma: Anuncios en ES; confirmar el idioma del jurado/defensor.
+Entrada: Afisha dice claramente que la etapa no es un torneo regional; esto es un entrenamiento, los cuatro días municipales del 9 de mayo, la recepción se ha ampliado hasta el 25 de abril de 2026, el archivo 2026, 2027 fechas, la composición de los parques nacionales, las normas y las admisiones aún no se han anunciado, y el cartel y la página 2026 no son una solicitud abierta para la nueva temporada.
+Costo: No se ha establecido el tipo de cambio de la categoría seleccionada/año ni se ha establecido el costo total.
+Limitaciones: Los límites de la capacidad de los carteles no se definen en el número de órdenes que se han de clasificar.
+Fuente: https://www.wromexico.org/regionales/quintana_roo/01-Imagentablaeventos.png
+Se ha comprobado: 2026-11-06
+
+### C2083 · WRO Municipal Quintana Roo 2026 · Felipe Carrillo Puerto · Capacitación
+
+Fecha: 2026-05-09 国 2026-05-09
+Edad: RoboMission Primaria / Secundaria / Preparatoria; RoboStarter, menor, no declarado.
+Matway: Confidencialmente por edad RoboMision; sólo los equipos de Quintana Roo, nuestra admisión regional no está confirmada.
+Oscar: No para RoboMission 8+; no hay una categoría menor en esta denuncia municipal.
+Idioma: Anuncios en ES; confirmar el idioma del jurado/defensor.
+Entrada: Afisha dice claramente que la etapa no es un torneo regional; esto es un entrenamiento, los cuatro días municipales del 9 de mayo, la recepción se ha ampliado hasta el 25 de abril de 2026, el archivo 2026, 2027 fechas, la composición de los parques nacionales, las normas y las admisiones aún no se han anunciado, y el cartel y la página 2026 no son una solicitud abierta para la nueva temporada.
+Costo: No se ha establecido el tipo de cambio de la categoría seleccionada/año ni se ha establecido el costo total.
+Limitaciones: Los límites de la capacidad de los carteles no se definen en el número de órdenes que se han de clasificar.
+Fuente: https://www.wromexico.org/regionales/quintana_roo/01-Imagentablaeventos.png
 Se ha comprobado: 2026-11-06
 
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02

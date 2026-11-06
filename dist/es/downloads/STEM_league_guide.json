@@ -1,6 +1,6 @@
 {
   "league_guide": {
-    "version": 189,
+    "version": 191,
     "checked": "2026-11-06",
     "groups": {
       "core": "las principales trayectorias mundiales",
@@ -12253,7 +12253,7 @@
           "9",
           "10-12"
         ],
-        "summary": "Oscar buscar nuevas Robostarter Kinder / Primaria Baja reglas 2027; Matvey Elementary. el actual calendario nacional publicado  2026 y la selección local ya está terminada.",
+        "summary": "Oscar buscará nuevos Robostarter Kinder / Primaria Baja Reglas 2027; a Matvey Elementary. Calendario nacional publicado actualmente — 2026 y la selección local ya ha concluido. Revisado 19 Afiche oficial: 12 Fechas regionales, dos cancelaciones, Tres emplazamientos nacionales y cuatro eventos preparatorios municipales 2026. Nueva temporada 2027 No hay fecha..",
         "categories": [
           {
             "name": "Kinder",
@@ -12283,7 +12283,28 @@
         "event_ids": [
           "C007",
           "C1132",
-          "C1133"
+          "C1133",
+          "C2063",
+          "C2064",
+          "C2065",
+          "C2066",
+          "C2067",
+          "C2068",
+          "C2069",
+          "C2070",
+          "C2071",
+          "C2072",
+          "C2073",
+          "C2074",
+          "C2075",
+          "C2076",
+          "C2077",
+          "C2078",
+          "C2079",
+          "C2080",
+          "C2081",
+          "C2082",
+          "C2083"
         ],
         "legacy_ids": [],
         "route": [
@@ -12291,7 +12312,9 @@
           "confirmar el grado, edad y equipo",
           "obtener las reglas actuales / ranura / lengua",
           "evaluar el nivel y el costo de la empresa",
-          "el resultado local y la siguiente cuota se comprueban por separado"
+          "el resultado local y la siguiente cuota se comprueban por separado",
+          "Archivos de los sitios nacionales 2026: RoboStarter / Future Engineers 国 Tijuana, RoboMision 国 Cancun, Innovators / Sports 国 Orizaba, sin prometer 2027.",
+          "Los eventos municipales de Quintana Roo ○ capacitación para equipos locales; su cartel excluye expresamente la calificación."
         ],
         "hardware": "ver la categoría; la plataforma y el reglamento actual para comprobar antes de comprar.",
         "language": "El idioma de la formación / protección de la etapa en concreto no está confirmado; el sitio web de la ES no es prueba.",
@@ -12306,7 +12329,11 @@
           "si 7–9 se conservará, Matvey en el 2027 Ya lo he hecho. 10; el cálculo condicional no es un nuevo reglamento",
           "Oscar en 2027 se ejecuta 7; Elementary mínimo 8 aún no es adecuado",
           "una categoría / un equipo por estudiante en la temporada",
-          "Los National Junior no prueban su propia categoría mundial final"
+          "Los National Junior no prueban su propia categoría mundial final",
+          "El cronograma de texto de la fase nacional del 10 de mayo de CDMX se aparta de los carteles nacionales especializados de septiembre.",
+          "Tamaulipas y Querétaro en el cuadro sinóptico 2026 se han cancelado, y no se ha fijado fecha.",
+          "BCS Kinder está cerrado; SLP muestra una tabla y un cartel de forma diferente según el subtipo Kinder / Primaria Baja.",
+          "El nombre Futuras Innovadoras en Aguascalientes no demuestra por sí solo la prohibición de género."
         ],
         "cost": "Véase la tarjeta separada: la contribución, el hardware y el viaje son diferentes.",
         "award": "Medalla de participación, lugar local, calificación nacional y título mundial son diferentes.",
@@ -12325,10 +12352,30 @@
             "title": "fuente nacional primaria · wro_mx",
             "url": "https://wromexico.org/",
             "checked": "2026-10-02"
+          },
+          {
+            "title": "Página oficial / documento WRO",
+            "url": "https://www.wromexico.org/sedes-etapa-nacional/",
+            "checked": "2026-11-06"
+          },
+          {
+            "title": "Página oficial / documento WRO",
+            "url": "https://www.wromexico.org/sedes-etapa-regional/",
+            "checked": "2026-11-06"
+          },
+          {
+            "title": "Página oficial / documento WRO",
+            "url": "https://www.wromexico.org/convocatoria-quintana-roo/",
+            "checked": "2026-11-06"
+          },
+          {
+            "title": "Lista de Regionales",
+            "url": "https://www.wromexico.org/regionales/2026/00-Lista%20Regionales.jpeg",
+            "checked": "2026-11-06"
           }
         ],
         "evidence": "las páginas iniciales se han leído; las tablas PDF importantes y las limitaciones se han revisado visualmente.",
-        "checked": "2026-10-02"
+        "checked": "2026-11-06"
       },
       {
         "id": "first-japan-junior",
@@ -16024,6 +16071,388 @@
           }
         ],
         "evidence": "Páginas primarias leídas; se distinguen archivo, fechas inciertas y convocatoria actual."
+      },
+      {
+        "id": "wro-panama-local",
+        "name": "WRO Panamá - 2027 y ruta nacional",
+        "group": "regional",
+        "age_summary": "RoboMission Elementary 8–12; mínimo general de 8. Future Engineers 14–22 no queda limitado por el encabezado publicitario general de 8–19.",
+        "age_tags": [
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Doce fechas regionales entre junio y agosto y la etapa nacional del 16–17 de septiembre se han publicado para 2027. Todas las sedes siguen pendientes de confirmación; los cupos regionales no están configurados. Inscripción desde el 16 de enero y reglas desde el 15 de enero. Es una ruta nacional, no doce competiciones internacionales de inscripción abierta.",
+        "categories": [
+          {
+            "name": "RoboMission Elementary",
+            "age": "8–12",
+            "entry": "Matvey encaja provisionalmente en la edad publicada de 8–12, pero no se ha confirmado la admisión nacional / regional. Oscar en 2027 no alcanza el mínimo de 8. Todavía no se ha fijado el día de esta categoría.",
+            "source": "https://wropanama.com/categorias",
+            "hardware": "Comprobar la temporada y la categoría concretas; un documento anterior no constituye una nueva regla de 2027.",
+            "age_rule": "Los años exactos de nacimiento y la fecha de corte deben verificarse en las nuevas reglas anunciadas para el 15 de enero de 2027; la edad publicada es provisional.",
+            "team": "La plataforma describe equipos de 2–3 participantes y entrenador; todavía deben verificarse las condiciones exactas de cada categoría de 2027.",
+            "event_id": "C688"
+          },
+          {
+            "name": "RoboMission Junior",
+            "age": "11–15",
+            "entry": "Modalidad superior para planificar a futuro: no está confirmada la admisión de Matvey y Oscar a esta categoría; primero hay que verificar su propio umbral de edad. El período nacional no determina el día de la categoría.",
+            "source": "https://wropanama.com/categorias",
+            "hardware": "Comprobar la temporada y la categoría concretas; un documento anterior no constituye una nueva regla de 2027.",
+            "age_rule": "Los años exactos de nacimiento y la fecha de corte deben verificarse en las nuevas reglas anunciadas para el 15 de enero de 2027; la edad publicada es provisional.",
+            "team": "La plataforma describe equipos de 2–3 participantes y entrenador; todavía deben verificarse las condiciones exactas de cada categoría de 2027.",
+            "event_id": "C689"
+          },
+          {
+            "name": "RoboMission Senior",
+            "age": "14–19",
+            "entry": "Modalidad superior para planificar a futuro: no está confirmada la admisión de Matvey y Oscar a esta categoría; primero hay que verificar su propio umbral de edad. El período nacional no determina el día de la categoría.",
+            "source": "https://wropanama.com/categorias",
+            "hardware": "Comprobar la temporada y la categoría concretas; un documento anterior no constituye una nueva regla de 2027.",
+            "age_rule": "Los años exactos de nacimiento y la fecha de corte deben verificarse en las nuevas reglas anunciadas para el 15 de enero de 2027; la edad publicada es provisional.",
+            "team": "La plataforma describe equipos de 2–3 participantes y entrenador; todavía deben verificarse las condiciones exactas de cada categoría de 2027.",
+            "event_id": "C690"
+          },
+          {
+            "name": "Future Innovators Elementary",
+            "age": "El anuncio menciona Elementary; todavía se espera la fecha de corte exacta de las reglas de 2027.",
+            "entry": "Modalidad menor de proyectos: confirmar los años exactos de nacimiento y la admisión de Matvey tras las nuevas reglas de 2027. Oscar no alcanza el mínimo general de 8. Todavía no se ha fijado el día de esta categoría.",
+            "source": "https://wropanama.com/categorias",
+            "hardware": "Comprobar la temporada y la categoría concretas; un documento anterior no constituye una nueva regla de 2027.",
+            "age_rule": "Los años exactos de nacimiento y la fecha de corte deben verificarse en las nuevas reglas anunciadas para el 15 de enero de 2027; la edad publicada es provisional.",
+            "team": "La plataforma describe equipos de 2–3 participantes y entrenador; todavía deben verificarse las condiciones exactas de cada categoría de 2027.",
+            "event_id": "C691"
+          },
+          {
+            "name": "Innovatores futuros Junior",
+            "age": "El anuncio menciona Junior; todavía se espera la fecha de corte exacta de las reglas de 2027.",
+            "entry": "Modalidad superior para planificar a futuro: no está confirmada la admisión de Matvey y Oscar a esta categoría; primero hay que verificar su propio umbral de edad. El período nacional no determina el día de la categoría.",
+            "source": "https://wropanama.com/categorias",
+            "hardware": "Comprobar la temporada y la categoría concretas; un documento anterior no constituye una nueva regla de 2027.",
+            "age_rule": "Los años exactos de nacimiento y la fecha de corte deben verificarse en las nuevas reglas anunciadas para el 15 de enero de 2027; la edad publicada es provisional.",
+            "team": "La plataforma describe equipos de 2–3 participantes y entrenador; todavía deben verificarse las condiciones exactas de cada categoría de 2027.",
+            "event_id": "C692"
+          },
+          {
+            "name": "Future Innovators Senior",
+            "age": "El anuncio menciona Senior; todavía se espera la fecha de corte exacta de las reglas de 2027.",
+            "entry": "Modalidad superior para planificar a futuro: no está confirmada la admisión de Matvey y Oscar a esta categoría; primero hay que verificar su propio umbral de edad. El período nacional no determina el día de la categoría.",
+            "source": "https://wropanama.com/categorias",
+            "hardware": "Comprobar la temporada y la categoría concretas; un documento anterior no constituye una nueva regla de 2027.",
+            "age_rule": "Los años exactos de nacimiento y la fecha de corte deben verificarse en las nuevas reglas anunciadas para el 15 de enero de 2027; la edad publicada es provisional.",
+            "team": "La plataforma describe equipos de 2–3 participantes y entrenador; todavía deben verificarse las condiciones exactas de cada categoría de 2027.",
+            "event_id": "C693"
+          },
+          {
+            "name": "RoboSports",
+            "age": "11–19",
+            "entry": "Modalidad superior para planificar a futuro: no está confirmada la admisión de Matvey y Oscar a esta categoría; primero hay que verificar su propio umbral de edad. El período nacional no determina el día de la categoría.",
+            "source": "https://wropanama.com/categorias",
+            "hardware": "Comprobar la temporada y la categoría concretas; un documento anterior no constituye una nueva regla de 2027.",
+            "age_rule": "Los años exactos de nacimiento y la fecha de corte deben verificarse en las nuevas reglas anunciadas para el 15 de enero de 2027; la edad publicada es provisional.",
+            "team": "La plataforma describe equipos de 2–3 participantes y entrenador; todavía deben verificarse las condiciones exactas de cada categoría de 2027.",
+            "event_id": "C694"
+          },
+          {
+            "name": "Future Engineers",
+            "age": "14–22",
+            "entry": "Modalidad superior para planificar a futuro: no está confirmada la admisión de Matvey y Oscar a esta categoría; primero hay que verificar su propio umbral de edad. El período nacional no determina el día de la categoría.",
+            "source": "https://wropanama.com/categorias",
+            "hardware": "Comprobar la temporada y la categoría concretas; un documento anterior no constituye una nueva regla de 2027.",
+            "age_rule": "Los años exactos de nacimiento y la fecha de corte deben verificarse en las nuevas reglas anunciadas para el 15 de enero de 2027; la edad publicada es provisional.",
+            "team": "La plataforma describe equipos de 2–3 participantes y entrenador; todavía deben verificarse las condiciones exactas de cada categoría de 2027.",
+            "event_id": "C695"
+          }
+        ],
+        "event_ids": [
+          "C008",
+          "C688",
+          "C689",
+          "C690",
+          "C691",
+          "C692",
+          "C693",
+          "C694",
+          "C695",
+          "C2049",
+          "C2050",
+          "C2051",
+          "C2052",
+          "C2053",
+          "C2054",
+          "C2055",
+          "C2056",
+          "C2057",
+          "C2058",
+          "C2059",
+          "C2060",
+          "C2061",
+          "C2062"
+        ],
+        "legacy_ids": [],
+        "route": [
+          "Antes del 15 de enero: elegir una modalidad provisional, buscar un compañero para Matvey y aclarar la pertenencia nacional / regional.",
+          "15 de enero: nuevas reglas y condiciones de clasificación; las anteriores de 2026 permanecen como archivo.",
+          "Desde el 16 de enero: comprobar la apertura del formulario, el precio y la solicitud correspondiente a la región educativa.",
+          "Junio–agosto: el clasificatorio regional correspondiente, tras confirmar escuela / domicilio.",
+          "16–17 de septiembre: etapa nacional; delegación internacional solo mediante clasificación confirmada."
+        ],
+        "hardware": "Comprobar la temporada y la categoría concretas; un documento anterior no constituye una nueva regla de 2027.",
+        "language": "Páginas en ES y a veces EN; no está confirmado el idioma del jurado / presentación.",
+        "importance": "Selección y capacitación nacionales; registro internacional y título por separado.",
+        "strengths": "El calendario futuro publicado y dos direcciones Elementary menores para Matway; Oscar necesita otro programa más pequeño.",
+        "requirements": [
+          "Comprobar la edad / curso escolar de cada participante y el nuevo reglamento.",
+          "Confirmar la admisión nacional / extranjera, la composición del equipo y el entrenador.",
+          "Obtener el precio vigente, las plazas disponibles y la confirmación escrita de la etapa elegida."
+        ],
+        "nuances": [
+          "Una posible residencia familiar y la ciudadanía mexicana no demuestran el derecho a representar a Panamá.",
+          "Panamá Centro es una etiqueta regional en las fichas provisionales, no la sede confirmada de todos los eventos.",
+          "0/0 indica un cupo sin configurar; no significa que se hayan agotado las plazas.",
+          "Los cupos de 2026 y el número de intentos regionales permitidos no pueden aplicarse a 2027.",
+          "En el PDF de cupos de 2026, las filas suman 127 y el total impreso es 122; la fuente se contradice.",
+          "El período nacional no determina el horario exacto de cada categoría."
+        ],
+        "cost": "Plataforma actual de 2027: B/.150 por equipo. No es el precio por niño ni el presupuesto completo del viaje; todavía deben aclararse los intentos regionales / inclusiones de 2027.",
+        "award": "Los resultados locales, las calificaciones nacionales, la participación en International Open y el título mundial son diferentes.",
+        "sources": [
+          {
+            "title": "Página oficial / documento WRO",
+            "url": "https://wropanama.com/temporada",
+            "checked": "2026-11-06"
+          },
+          {
+            "title": "Página oficial / documento WRO",
+            "url": "https://registro.wropanama.com/",
+            "checked": "2026-11-06"
+          },
+          {
+            "title": "Página oficial / documento WRO",
+            "url": "https://registro.wropanama.com/calendario",
+            "checked": "2026-11-06"
+          },
+          {
+            "title": "Página oficial / documento WRO",
+            "url": "https://wropanama.com/categorias",
+            "checked": "2026-11-06"
+          },
+          {
+            "title": "Página oficial / documento WRO",
+            "url": "https://wropanama.com/resultados",
+            "checked": "2026-11-06"
+          },
+          {
+            "title": "Página oficial / documento WRO",
+            "url": "https://fundesteam.nyc3.cdn.digitaloceanspaces.com/WRO2026-Reglas/Registro/WRO%20Panama%202026%20-%20Terminos%20y%20Condiciones%20-%20ver.%2006032026.pdf",
+            "checked": "2026-11-06"
+          },
+          {
+            "title": "Página oficial / documento WRO",
+            "url": "https://wropanama.com/assets/docs/Normativas_Clasificacion_WRO_Panama_2026_FUNDESTEAM.pdf",
+            "checked": "2026-11-06"
+          }
+        ],
+        "evidence": "Páginas oficiales del organizador / sede del evento; los límites de la revisión y las temporadas anteriores se indican por separado.",
+        "checked": "2026-11-06"
+      },
+      {
+        "id": "wro-guatemala-local",
+        "name": "WRO Guatemala · STEAM Group / UVG",
+        "group": "regional",
+        "age_summary": "Principal ruta infantil: Elementary 8–12; las categorías superiores se consideran por separado.",
+        "age_tags": [
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "El anuncio y el informe oficiales de UVG confirman la fecha de la anterior etapa nacional: 20 de junio de 2026. El sitio del organizador devolvió HTTP500 en la consulta directa y no se ha establecido el nuevo calendario de 2027. La sede enumeró 12 equipos clasificados para los siguientes eventos internacionales; esto no demuestra su asistencia efectiva ni victorias internacionales.",
+        "categories": [
+          {
+            "name": "RoboMission Elementary",
+            "age": "8–12",
+            "entry": "Archivo de reglas de 2026. Verificar por separado la nueva admisión nacional, representación y calendario de 2027.",
+            "source": "https://noticias.uvg.edu.gt/uvg-steam-group-final-nacional-robotica-wro-2026/",
+            "hardware": "Comprobar la temporada y la categoría concretas; un documento anterior no constituye una nueva regla de 2027.",
+            "age_rule": "Archivo de categorías de 2026; todavía no se han publicado los nuevos años de nacimiento, niveles escolares ni la fecha de corte de la temporada 2027.",
+            "team": "Ruta por equipos; confirmar los 2–3 participantes y el entrenador en el nuevo reglamento nacional, no mediante un único informe de ganadores.",
+            "event_id": "C2084"
+          },
+          {
+            "name": "RoboMission Junior",
+            "age": "11–15",
+            "entry": "Archivo de reglas de 2026. Verificar por separado la nueva admisión nacional, representación y calendario de 2027.",
+            "source": "https://noticias.uvg.edu.gt/uvg-steam-group-final-nacional-robotica-wro-2026/",
+            "hardware": "Comprobar la temporada y la categoría concretas; un documento anterior no constituye una nueva regla de 2027.",
+            "age_rule": "Archivo de categorías de 2026; todavía no se han publicado los nuevos años de nacimiento, niveles escolares ni la fecha de corte de la temporada 2027.",
+            "team": "Ruta por equipos; confirmar los 2–3 participantes y el entrenador en el nuevo reglamento nacional, no mediante un único informe de ganadores.",
+            "event_id": "C2084"
+          },
+          {
+            "name": "RoboMission Senior",
+            "age": "14–19",
+            "entry": "Archivo de reglas de 2026. Verificar por separado la nueva admisión nacional, representación y calendario de 2027.",
+            "source": "https://noticias.uvg.edu.gt/uvg-steam-group-final-nacional-robotica-wro-2026/",
+            "hardware": "Comprobar la temporada y la categoría concretas; un documento anterior no constituye una nueva regla de 2027.",
+            "age_rule": "Archivo de categorías de 2026; todavía no se han publicado los nuevos años de nacimiento, niveles escolares ni la fecha de corte de la temporada 2027.",
+            "team": "Ruta por equipos; confirmar los 2–3 participantes y el entrenador en el nuevo reglamento nacional, no mediante un único informe de ganadores.",
+            "event_id": "C2084"
+          },
+          {
+            "name": "Future Innovators",
+            "age": "Archivo 8–19; división por edad según las reglas",
+            "entry": "Archivo de reglas de 2026. Verificar por separado la nueva admisión nacional, representación y calendario de 2027.",
+            "source": "https://noticias.uvg.edu.gt/uvg-steam-group-final-nacional-robotica-wro-2026/",
+            "hardware": "Comprobar la temporada y la categoría concretas; un documento anterior no constituye una nueva regla de 2027.",
+            "age_rule": "Archivo de categorías de 2026; todavía no se han publicado los nuevos años de nacimiento, niveles escolares ni la fecha de corte de la temporada 2027.",
+            "team": "Ruta por equipos; confirmar los 2–3 participantes y el entrenador en el nuevo reglamento nacional, no mediante un único informe de ganadores.",
+            "event_id": "C2084"
+          },
+          {
+            "name": "Future Engineers",
+            "age": "Archivo 14–22",
+            "entry": "Archivo de reglas de 2026. Verificar por separado la nueva admisión nacional, representación y calendario de 2027.",
+            "source": "https://noticias.uvg.edu.gt/uvg-steam-group-final-nacional-robotica-wro-2026/",
+            "hardware": "Comprobar la temporada y la categoría concretas; un documento anterior no constituye una nueva regla de 2027.",
+            "age_rule": "Archivo de categorías de 2026; todavía no se han publicado los nuevos años de nacimiento, niveles escolares ni la fecha de corte de la temporada 2027.",
+            "team": "Ruta por equipos; confirmar los 2–3 participantes y el entrenador en el nuevo reglamento nacional, no mediante un único informe de ganadores.",
+            "event_id": "C2084"
+          }
+        ],
+        "event_ids": [
+          "C015",
+          "C2084"
+        ],
+        "legacy_ids": [],
+        "route": [
+          "Comprobar la disponibilidad de STEAM Group / WRO Guatemala y la nueva convocatoria de 2027.",
+          "Confirmar la admisión nacional / escolar de la familia procedente de Costa Rica y los 2–3 participantes + coach.",
+          "Tras el clasificatorio local, obtener por separado la designación oficial para la delegación internacional."
+        ],
+        "hardware": "Comprobar la temporada y la categoría concretas; un documento anterior no constituye una nueva regla de 2027.",
+        "language": "Páginas en ES y a veces EN; no está confirmado el idioma del jurado / presentación.",
+        "importance": "Selección y capacitación nacionales; registro internacional y título por separado.",
+        "strengths": "",
+        "requirements": [
+          "Comprobar la edad / curso escolar de cada participante y el nuevo reglamento.",
+          "Confirmar la admisión nacional / extranjera, la composición del equipo y el entrenador.",
+          "Obtener el precio vigente, las plazas disponibles y la confirmación escrita de la etapa elegida."
+        ],
+        "nuances": [
+          "La invitación a la siguiente etapa no confirma la asistencia ni una medalla.",
+          "Los resultados de un solo año nacional no constituyen una clasificación mundial decenal de colegios.",
+          "El rango general de 8–22 no sustituye los umbrales de cada categoría; esta ruta no está confirmada para Oscar antes de los 8 años."
+        ],
+        "cost": "Deben confirmarse el precio, la unidad de pago y el viaje para la temporada elegida.",
+        "award": "Los resultados locales, las calificaciones nacionales, la participación en International Open y el título mundial son diferentes.",
+        "sources": [
+          {
+            "title": "Página oficial / documento WRO",
+            "url": "https://noticias.uvg.edu.gt/uvg-steam-group-final-nacional-robotica-wro-2026/",
+            "checked": "2026-11-06"
+          },
+          {
+            "title": "Página oficial / documento WRO",
+            "url": "https://noticias.uvg.edu.gt/world-robot-olympiad-guatemala-2026-final-nacional-uvg/",
+            "checked": "2026-11-06"
+          }
+        ],
+        "evidence": "Páginas oficiales del organizador / sede del evento; los límites de la revisión y las temporadas anteriores se indican por separado.",
+        "checked": "2026-11-06"
+      },
+      {
+        "id": "wro-colombia-local",
+        "name": "WRO Colombia · Fundación Conecta +",
+        "group": "regional",
+        "age_summary": "Principal ruta infantil: Elementary 8–12; las categorías superiores se consideran por separado.",
+        "age_tags": [
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Se han revisado las páginas oficiales de 2026 y las secciones de categorías. La página principal publica precios y plazo, pero la FAQ de contacto todavía dice TBD; hay una discrepancia entre el 2 de agosto y la tarifa regular hasta el 3 de agosto. La nueva temporada de 2027 no tiene fecha / tarifa confirmadas.",
+        "categories": [
+          {
+            "name": "RoboMission Elementary",
+            "age": "Archivo 2026: 8–12 / nacidos en 2014–2018",
+            "entry": "2–3 participantes y coach adulto; cada persona solo puede pertenecer a un equipo. Para 2027, esperar la nueva convocatoria.",
+            "source": "https://wrocolombia.org/",
+            "hardware": "Comprobar la temporada y la categoría concretas; un documento anterior no constituye una nueva regla de 2027.",
+            "age_rule": "Los años y categorías indicados pertenecen al archivo de 2026; no deben trasladarse a la temporada 2027 sin una nueva convocatoria.",
+            "team": "Según la página de 2026: 2–3 participantes y entrenador adulto; cada persona solo puede pertenecer a un equipo.",
+            "event_id": "C009"
+          },
+          {
+            "name": "RoboMission Junior / Senior",
+            "age": "Categorías superiores según las reglas de la temporada",
+            "entry": "2–3 participantes y coach adulto; cada persona solo puede pertenecer a un equipo. Para 2027, esperar la nueva convocatoria.",
+            "source": "https://wrocolombia.org/",
+            "hardware": "Comprobar la temporada y la categoría concretas; un documento anterior no constituye una nueva regla de 2027.",
+            "age_rule": "Los años y categorías indicados pertenecen al archivo de 2026; no deben trasladarse a la temporada 2027 sin una nueva convocatoria.",
+            "team": "Según la página de 2026: 2–3 participantes y entrenador adulto; cada persona solo puede pertenecer a un equipo.",
+            "event_id": "C009"
+          },
+          {
+            "name": "Future Innovators",
+            "age": "Confirmar la división por edad y las nuevas reglas de 2027",
+            "entry": "2–3 participantes y coach adulto; cada persona solo puede pertenecer a un equipo. Para 2027, esperar la nueva convocatoria.",
+            "source": "https://wrocolombia.org/",
+            "hardware": "Comprobar la temporada y la categoría concretas; un documento anterior no constituye una nueva regla de 2027.",
+            "age_rule": "Los años y categorías indicados pertenecen al archivo de 2026; no deben trasladarse a la temporada 2027 sin una nueva convocatoria.",
+            "team": "Según la página de 2026: 2–3 participantes y entrenador adulto; cada persona solo puede pertenecer a un equipo.",
+            "event_id": "C009"
+          }
+        ],
+        "event_ids": [
+          "C009"
+        ],
+        "legacy_ids": [],
+        "route": [
+          "Elegir categoría y confirmar el derecho de representación nacional / admisión extranjera.",
+          "Obtener un calendario coherente y el precio vigente; no basarse en la FAQ desactualizada.",
+          "Confirmar por separado el derecho de formar parte de la delegación internacional tras el clasificatorio local."
+        ],
+        "hardware": "Comprobar la temporada y la categoría concretas; un documento anterior no constituye una nueva regla de 2027.",
+        "language": "Páginas en ES y a veces EN; no está confirmado el idioma del jurado / presentación.",
+        "importance": "Selección y capacitación nacionales; registro internacional y título por separado.",
+        "strengths": "",
+        "requirements": [
+          "Comprobar la edad / curso escolar de cada participante y el nuevo reglamento.",
+          "Confirmar la admisión nacional / extranjera, la composición del equipo y el entrenador.",
+          "Obtener el precio vigente, las plazas disponibles y la confirmación escrita de la etapa elegida."
+        ],
+        "nuances": [
+          "2026: fecha límite del 2 de agosto en la página principal y tarifa regular hasta el 3 de agosto; la FAQ todavía dice TBD.",
+          "Algunos documentos enlazados indican el año 2023 en una página titulada 2026; no está confirmada la nueva versión de 2027.",
+          "La configuración de la cuenta atrás no se ha utilizado como si fuera un anuncio publicado de la fecha nacional exacta."
+        ],
+        "cost": "Archivo 2026: COP392700 early / COP440300 regular por participante, IVA incluido; coach sin cuota. No es una tarifa por equipo ni de la temporada 2027.",
+        "award": "Los resultados locales, las calificaciones nacionales, la participación en International Open y el título mundial son diferentes.",
+        "sources": [
+          {
+            "title": "Página oficial / documento WRO",
+            "url": "https://wrocolombia.org/",
+            "checked": "2026-11-06"
+          },
+          {
+            "title": "Página oficial / documento WRO",
+            "url": "https://wrocolombia.org/contacto/",
+            "checked": "2026-11-06"
+          },
+          {
+            "title": "Página oficial / documento WRO",
+            "url": "https://wrocolombia.org/robo-mission/",
+            "checked": "2026-11-06"
+          },
+          {
+            "title": "Página oficial / documento WRO",
+            "url": "https://wrocolombia.org/future-innovators/",
+            "checked": "2026-11-06"
+          }
+        ],
+        "evidence": "Páginas oficiales del organizador / sede del evento; los límites de la revisión y las temporadas anteriores se indican por separado.",
+        "checked": "2026-11-06"
       },
       {
         "id": "tech-challenge-project",
@@ -21327,7 +21756,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "249 perfiles de ligas, familias y programas; conservadas las 46 rutas anteriores. Formatos brasileños separados, Robofest LATAM y BajaBot locales descritos por categorías propias. Cobertura mundial parcial.",
+    "methodology": "252 perfiles de ligas, familias y programas; conservadas las 46 rutas anteriores. Formatos brasileños separados, Robofest LATAM y BajaBot locales descritos por categorías propias. Cobertura mundial parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

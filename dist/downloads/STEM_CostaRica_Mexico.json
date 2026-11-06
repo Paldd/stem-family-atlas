@@ -497,7 +497,7 @@
       "city": "",
       "start": "",
       "end": "",
-      "period": "Сезон 2027: даты не объявлены",
+      "period": "Следующий сезон 2027 пока без дат. Специализированные афиши национальных площадок 2026 показывают сентябрь; общий cronograma с 10 мая CDMX расходится с ними.",
       "date_status": "Не объявлено",
       "deadline": "",
       "age": "Глобально 8–12; возраст по году сезона",
@@ -511,12 +511,12 @@
       "level": "B — национальный отбор",
       "reward": "Место / награда только по официальному протоколу",
       "priority": "P1 — местная база",
-      "action": "Тренер: выбрать RoboMission или Future Innovators, партнёра по команде; родитель: письменное право представлять страну",
+      "action": "Тренер: выбрать RoboMission или Future Innovators, партнёра по команде; родитель: письменное право представлять страну. Не переносить 2026 календарь на 2027; национальные категории 2026 были распределены между Tijuana, Cancún и Orizaba.",
       "source": "https://wromexico.org/categorias/",
       "proof": "Прочитаны национальные категории / cronograma 2026. Новый сезон 2027 и мировая квота не установлены.",
-      "checked": "2026-10-02",
+      "checked": "2026-11-06",
       "status": "Идея",
-      "note": "В 2026 Elementary — рождения 2014–2018. Правила 2027 и годы рождения ждём отдельно; нельзя выступать за две страны по предположению. México отдельно публикует Kinder 5–7 / Primaria Baja 7–9 в 2026. В 2027 Матвею 10, Оскару 7; новая младшая дорожка не подменяет Elementary 8–12.",
+      "note": "Национальные и региональные афиши 2026 прочитаны отдельно от общего cronograma. Младшие RoboStarter остаются местными категориями; новая версия 2027 не объявлена.",
       "iso": [
         "MEX"
       ],
@@ -530,10 +530,23 @@
       "language_certainty": "Языковая отметка описывает найденный вариант; точный поток и язык преподавания/судейства проверяются перед записью",
       "references": [
         {
-          "label": "Местный cronograma 2026",
-          "url": "https://wromexico.org/cronograma/"
+          "url": "https://www.wromexico.org/eventos/",
+          "label": "Официальный источник WRO · проверка 06.11.2026"
+        },
+        {
+          "url": "https://www.wromexico.org/sedes-etapa-nacional/",
+          "label": "Официальный источник WRO · проверка 06.11.2026"
+        },
+        {
+          "url": "https://www.wromexico.org/sedes-etapa-regional/",
+          "label": "Официальный источник WRO · проверка 06.11.2026"
+        },
+        {
+          "url": "https://www.wromexico.org/convocatoria-quintana-roo/",
+          "label": "Официальный источник WRO · проверка 06.11.2026"
         }
-      ]
+      ],
+      "evidence_level": "event_page"
     },
     {
       "block": "Соревнования",
@@ -10131,6 +10144,1317 @@
           "url": "https://aiforgood.itu.int/events-partners/"
         }
       ]
+    },
+    {
+      "block": "Соревнования",
+      "id": "C2063",
+      "title": "WRO México 2026 · Regional Baja California Sur",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Delmar International School · Baja California Sur",
+      "start": "2026-05-20",
+      "end": "2026-05-20",
+      "period": "2026-05-20 · архив сезона 2026.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Категории по афише: RoboMission Primaria / RoboStarter Primaria Baja; отдельная афиша также называет закрытый Kinder.",
+      "mat": "Да по возрасту 2026 в младшей подходящей категории; квалификацию и командный допуск следовало подтвердить.",
+      "osc": "Нет для RoboMission / Future Innovators 8+; младший RoboStarter возможен только там, где он явно объявлен.",
+      "format": "Командный региональный этап; состав зависит от категории. Числа мест на афише относятся к командам, не к участникам команды.",
+      "entry": "Архив 2026. В 2027 даты, состав национальных площадок, правила и приём ещё не объявлены. Плакат и страница 2026 не являются открытой заявкой на новый сезон. RoboMission Primaria / RoboStarter Primaria Baja; отдельная афиша также называет закрытый Kinder.",
+      "gear": "Категорию, аппаратную платформу и состав команды проверять по соответствующим правилам сезона. RoboStarter — местный младший формат, не автоматический допуск в международный WRO Elementary.",
+      "language": "Объявления на ES; язык очного жюри / защиты отдельно подтвердить.",
+      "cost": "Тариф выбранной категории / года и полный состав расходов не установлены.",
+      "level": "B — региональный этап национального маршрута",
+      "reward": "Результат конкретного этапа; международная победа и финансирование не гарантируются.",
+      "priority": "P3 — архив национального маршрута",
+      "action": "Для следующего участия дождаться convocatoria 2027; использовать архив только как ориентир географии и категорий.",
+      "source": "https://www.wromexico.org/regionales/2026/01-RegionalBajaSur.png",
+      "proof": "Проверены индивидуальная афиша и сводная таблица, обновлённая 11 июня 2026; площадка: Delmar International School.",
+      "checked": "2026-11-06",
+      "status": "Идея",
+      "note": "В сводной таблице Kinder не указан, индивидуальная афиша даёт 16 закрытых команд Kinder. Открытый приём туда не подтверждён.",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "regional",
+      "importance_reason": "Региональная ступень национальной лиги; местный допуск и следующая квота проверяются отдельно.",
+      "languages": [],
+      "participation": "team",
+      "language_certainty": "unconfirmed",
+      "evidence_level": "event_page",
+      "references": [
+        {
+          "url": "https://www.wromexico.org/regionales/2026/01-RegionalBajaSur.png",
+          "label": "Regional Baja California Sur"
+        },
+        {
+          "url": "https://www.wromexico.org/regionales/2026/00-Lista%20Regionales.jpeg",
+          "label": "Lista de Regionales"
+        },
+        {
+          "url": "https://www.wromexico.org/sedes-etapa-regional/",
+          "label": "Официальный источник WRO · проверка 06.11.2026"
+        }
+      ],
+      "related_ids": [
+        "C007",
+        "C1132",
+        "C1133"
+      ],
+      "registration_status": "Архив 2026 · этап завершён"
+    },
+    {
+      "block": "Соревнования",
+      "id": "C2064",
+      "title": "WRO México 2026 · Regional Nuevo León",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "San Pedro · Nuevo León",
+      "start": "2026-05-23",
+      "end": "2026-05-23",
+      "period": "2026-05-23 · архив сезона 2026.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Категории по афише: RoboMission / Future Innovators в трёх школьных ступенях.",
+      "mat": "Да по возрасту 2026 в младшей подходящей категории; квалификацию и командный допуск следовало подтвердить.",
+      "osc": "Нет по опубликованным категориям 8+; отдельный младший поток не подтверждён.",
+      "format": "Командный региональный этап; состав зависит от категории. Числа мест на афише относятся к командам, не к участникам команды.",
+      "entry": "Архив 2026. В 2027 даты, состав национальных площадок, правила и приём ещё не объявлены. Плакат и страница 2026 не являются открытой заявкой на новый сезон. RoboMission / Future Innovators в трёх школьных ступенях.",
+      "gear": "Категорию, аппаратную платформу и состав команды проверять по соответствующим правилам сезона. RoboStarter — местный младший формат, не автоматический допуск в международный WRO Elementary.",
+      "language": "Объявления на ES; язык очного жюри / защиты отдельно подтвердить.",
+      "cost": "Тариф выбранной категории / года и полный состав расходов не установлены.",
+      "level": "B — региональный этап национального маршрута",
+      "reward": "Результат конкретного этапа; международная победа и финансирование не гарантируются.",
+      "priority": "P3 — архив национального маршрута",
+      "action": "Для следующего участия дождаться convocatoria 2027; использовать архив только как ориентир географии и категорий.",
+      "source": "https://www.wromexico.org/regionales/2026/06-NuevoLeon.jpeg",
+      "proof": "Проверены индивидуальная афиша и сводная таблица, обновлённая 11 июня 2026; площадка: Centro Deportivo FUD San Pedro.",
+      "checked": "2026-11-06",
+      "status": "Идея",
+      "note": "",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "regional",
+      "importance_reason": "Региональная ступень национальной лиги; местный допуск и следующая квота проверяются отдельно.",
+      "languages": [],
+      "participation": "team",
+      "language_certainty": "unconfirmed",
+      "evidence_level": "event_page",
+      "references": [
+        {
+          "url": "https://www.wromexico.org/regionales/2026/06-NuevoLeon.jpeg",
+          "label": "Regional Nuevo León"
+        },
+        {
+          "url": "https://www.wromexico.org/regionales/2026/00-Lista%20Regionales.jpeg",
+          "label": "Lista de Regionales"
+        },
+        {
+          "url": "https://www.wromexico.org/sedes-etapa-regional/",
+          "label": "Официальный источник WRO · проверка 06.11.2026"
+        }
+      ],
+      "related_ids": [
+        "C007",
+        "C1132",
+        "C1133"
+      ],
+      "registration_status": "Архив 2026 · этап завершён"
+    },
+    {
+      "block": "Соревнования",
+      "id": "C2065",
+      "title": "WRO México 2026 · Regional Sinaloa",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Culiacán · Sinaloa",
+      "start": "2026-05-24",
+      "end": "2026-05-24",
+      "period": "2026-05-24 · архив сезона 2026.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Категории по афише: RoboMission; RoboStarter Kinder и Primaria Baja по индивидуальной афише.",
+      "mat": "Да по возрасту 2026 в младшей подходящей категории; квалификацию и командный допуск следовало подтвердить.",
+      "osc": "Условно по возрасту Kinder 2026: Оскару исполняется 6; местный / командный допуск и место нужно было подтвердить.",
+      "format": "Командный региональный этап; состав зависит от категории. Числа мест на афише относятся к командам, не к участникам команды.",
+      "entry": "Архив 2026. В 2027 даты, состав национальных площадок, правила и приём ещё не объявлены. Плакат и страница 2026 не являются открытой заявкой на новый сезон. RoboMission; RoboStarter Kinder и Primaria Baja по индивидуальной афише.",
+      "gear": "Категорию, аппаратную платформу и состав команды проверять по соответствующим правилам сезона. RoboStarter — местный младший формат, не автоматический допуск в международный WRO Elementary.",
+      "language": "Объявления на ES; язык очного жюри / защиты отдельно подтвердить.",
+      "cost": "Тариф выбранной категории / года и полный состав расходов не установлены.",
+      "level": "B — региональный этап национального маршрута",
+      "reward": "Результат конкретного этапа; международная победа и финансирование не гарантируются.",
+      "priority": "P3 — архив национального маршрута",
+      "action": "Для следующего участия дождаться convocatoria 2027; использовать архив только как ориентир географии и категорий.",
+      "source": "https://www.wromexico.org/regionales/2026/02-RegionalSinaloa.jpeg",
+      "proof": "Проверены индивидуальная афиша и сводная таблица, обновлённая 11 июня 2026; площадка: Polideportivo Juan S. Millán.",
+      "checked": "2026-11-06",
+      "status": "Идея",
+      "note": "Сводная таблица называет Kinder; индивидуальная афиша дополнительно подтверждает Primaria Baja.",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "regional",
+      "importance_reason": "Региональная ступень национальной лиги; местный допуск и следующая квота проверяются отдельно.",
+      "languages": [],
+      "participation": "team",
+      "language_certainty": "unconfirmed",
+      "evidence_level": "event_page",
+      "references": [
+        {
+          "url": "https://www.wromexico.org/regionales/2026/02-RegionalSinaloa.jpeg",
+          "label": "Regional Sinaloa"
+        },
+        {
+          "url": "https://www.wromexico.org/regionales/2026/00-Lista%20Regionales.jpeg",
+          "label": "Lista de Regionales"
+        },
+        {
+          "url": "https://www.wromexico.org/sedes-etapa-regional/",
+          "label": "Официальный источник WRO · проверка 06.11.2026"
+        }
+      ],
+      "related_ids": [
+        "C007",
+        "C1132",
+        "C1133"
+      ],
+      "registration_status": "Архив 2026 · этап завершён"
+    },
+    {
+      "block": "Соревнования",
+      "id": "C2066",
+      "title": "WRO México 2026 · Regional Baja California",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Mexicali · Baja California",
+      "start": "2026-06-04",
+      "end": "2026-06-05",
+      "period": "2026-06-04 — 2026-06-05 · архив сезона 2026.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Категории по афише: 4 июня: RoboStarter и Future Innovators; 5 июня: RoboMission и Future Engineers.",
+      "mat": "Да по возрасту 2026 в младшей подходящей категории; квалификацию и командный допуск следовало подтвердить.",
+      "osc": "Условно по возрасту Kinder 2026: Оскару исполняется 6; местный / командный допуск и место нужно было подтвердить.",
+      "format": "Командный региональный этап; состав зависит от категории. Числа мест на афише относятся к командам, не к участникам команды.",
+      "entry": "Архив 2026. В 2027 даты, состав национальных площадок, правила и приём ещё не объявлены. Плакат и страница 2026 не являются открытой заявкой на новый сезон. 4 июня: RoboStarter и Future Innovators; 5 июня: RoboMission и Future Engineers.",
+      "gear": "Категорию, аппаратную платформу и состав команды проверять по соответствующим правилам сезона. RoboStarter — местный младший формат, не автоматический допуск в международный WRO Elementary.",
+      "language": "Объявления на ES; язык очного жюри / защиты отдельно подтвердить.",
+      "cost": "Тариф выбранной категории / года и полный состав расходов не установлены.",
+      "level": "B — региональный этап национального маршрута",
+      "reward": "Результат конкретного этапа; международная победа и финансирование не гарантируются.",
+      "priority": "P3 — архив национального маршрута",
+      "action": "Для следующего участия дождаться convocatoria 2027; использовать архив только как ориентир географии и категорий.",
+      "source": "https://www.wromexico.org/regionales/2026/03-RegionalBajaCalifornia.jpeg",
+      "proof": "Проверены индивидуальная афиша и сводная таблица, обновлённая 11 июня 2026; площадка: CETYS Universidad Campus Mexicali.",
+      "checked": "2026-11-06",
+      "status": "Идея",
+      "note": "",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "regional",
+      "importance_reason": "Региональная ступень национальной лиги; местный допуск и следующая квота проверяются отдельно.",
+      "languages": [],
+      "participation": "team",
+      "language_certainty": "unconfirmed",
+      "evidence_level": "event_page",
+      "references": [
+        {
+          "url": "https://www.wromexico.org/regionales/2026/03-RegionalBajaCalifornia.jpeg",
+          "label": "Regional Baja California"
+        },
+        {
+          "url": "https://www.wromexico.org/regionales/2026/00-Lista%20Regionales.jpeg",
+          "label": "Lista de Regionales"
+        },
+        {
+          "url": "https://www.wromexico.org/sedes-etapa-regional/",
+          "label": "Официальный источник WRO · проверка 06.11.2026"
+        }
+      ],
+      "related_ids": [
+        "C007",
+        "C1132",
+        "C1133"
+      ],
+      "registration_status": "Архив 2026 · этап завершён"
+    },
+    {
+      "block": "Соревнования",
+      "id": "C2067",
+      "title": "WRO México 2026 · Regional San Luis Potosí",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "San Luis Potosí",
+      "start": "2026-06-13",
+      "end": "2026-06-13",
+      "period": "2026-06-13 · архив сезона 2026.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Категории по афише: RoboMission / Future Innovators; подтип RoboStarter спорный.",
+      "mat": "Да по возрасту 2026 в младшей подходящей категории; квалификацию и командный допуск следовало подтвердить.",
+      "osc": "Условно только для местного RoboStarter; источники расходятся по подтипу Kinder / Primaria Baja.",
+      "format": "Командный региональный этап; состав зависит от категории. Числа мест на афише относятся к командам, не к участникам команды.",
+      "entry": "Архив 2026. В 2027 даты, состав национальных площадок, правила и приём ещё не объявлены. Плакат и страница 2026 не являются открытой заявкой на новый сезон. RoboMission / Future Innovators; подтип RoboStarter спорный.",
+      "gear": "Категорию, аппаратную платформу и состав команды проверять по соответствующим правилам сезона. RoboStarter — местный младший формат, не автоматический допуск в международный WRO Elementary.",
+      "language": "Объявления на ES; язык очного жюри / защиты отдельно подтвердить.",
+      "cost": "Тариф выбранной категории / года и полный состав расходов не установлены.",
+      "level": "B — региональный этап национального маршрута",
+      "reward": "Результат конкретного этапа; международная победа и финансирование не гарантируются.",
+      "priority": "P3 — архив национального маршрута",
+      "action": "Для следующего участия дождаться convocatoria 2027; использовать архив только как ориентир географии и категорий.",
+      "source": "https://www.wromexico.org/regionales/2026/04-RegionalSLP.png",
+      "proof": "Проверены индивидуальная афиша и сводная таблица, обновлённая 11 июня 2026; площадка: ITESM Campus San Luis Potosí.",
+      "checked": "2026-11-06",
+      "status": "Идея",
+      "note": "Сводная таблица даёт Primaria Baja, отдельная афиша — Kinder. Приём Оскара в конкретный младший подтип не установлен.",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "regional",
+      "importance_reason": "Региональная ступень национальной лиги; местный допуск и следующая квота проверяются отдельно.",
+      "languages": [],
+      "participation": "team",
+      "language_certainty": "unconfirmed",
+      "evidence_level": "event_page",
+      "references": [
+        {
+          "url": "https://www.wromexico.org/regionales/2026/04-RegionalSLP.png",
+          "label": "Regional San Luis Potosí"
+        },
+        {
+          "url": "https://www.wromexico.org/regionales/2026/00-Lista%20Regionales.jpeg",
+          "label": "Lista de Regionales"
+        },
+        {
+          "url": "https://www.wromexico.org/sedes-etapa-regional/",
+          "label": "Официальный источник WRO · проверка 06.11.2026"
+        }
+      ],
+      "related_ids": [
+        "C007",
+        "C1132",
+        "C1133"
+      ],
+      "registration_status": "Архив 2026 · этап завершён"
+    },
+    {
+      "block": "Соревнования",
+      "id": "C2068",
+      "title": "WRO México 2026 · Regional Quintana Roo",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Cancún · Quintana Roo",
+      "start": "2026-06-13",
+      "end": "2026-06-13",
+      "period": "2026-06-13 · архив сезона 2026.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Категории по афише: RoboMission; национальный Cancún сентября — отдельный этап.",
+      "mat": "Да по возрасту 2026 в младшей подходящей категории; квалификацию и командный допуск следовало подтвердить.",
+      "osc": "Нет по опубликованным категориям 8+; отдельный младший поток не подтверждён.",
+      "format": "Командный региональный этап; состав зависит от категории. Числа мест на афише относятся к командам, не к участникам команды.",
+      "entry": "Архив 2026. В 2027 даты, состав национальных площадок, правила и приём ещё не объявлены. Плакат и страница 2026 не являются открытой заявкой на новый сезон. RoboMission; национальный Cancún сентября — отдельный этап.",
+      "gear": "Категорию, аппаратную платформу и состав команды проверять по соответствующим правилам сезона. RoboStarter — местный младший формат, не автоматический допуск в международный WRO Elementary.",
+      "language": "Объявления на ES; язык очного жюри / защиты отдельно подтвердить.",
+      "cost": "Тариф выбранной категории / года и полный состав расходов не установлены.",
+      "level": "B — региональный этап национального маршрута",
+      "reward": "Результат конкретного этапа; международная победа и финансирование не гарантируются.",
+      "priority": "P3 — архив национального маршрута",
+      "action": "Для следующего участия дождаться convocatoria 2027; использовать архив только как ориентир географии и категорий.",
+      "source": "https://www.wromexico.org/regionales/2026/11-QuintanaRoo.jpeg",
+      "proof": "Проверены индивидуальная афиша и сводная таблица, обновлённая 11 июня 2026; площадка: Gimnasio Kuchil Baxal.",
+      "checked": "2026-11-06",
+      "status": "Идея",
+      "note": "",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "regional",
+      "importance_reason": "Региональная ступень национальной лиги; местный допуск и следующая квота проверяются отдельно.",
+      "languages": [],
+      "participation": "team",
+      "language_certainty": "unconfirmed",
+      "evidence_level": "event_page",
+      "references": [
+        {
+          "url": "https://www.wromexico.org/regionales/2026/11-QuintanaRoo.jpeg",
+          "label": "Regional Quintana Roo"
+        },
+        {
+          "url": "https://www.wromexico.org/regionales/2026/00-Lista%20Regionales.jpeg",
+          "label": "Lista de Regionales"
+        },
+        {
+          "url": "https://www.wromexico.org/sedes-etapa-regional/",
+          "label": "Официальный источник WRO · проверка 06.11.2026"
+        }
+      ],
+      "related_ids": [
+        "C007",
+        "C1132",
+        "C1133"
+      ],
+      "registration_status": "Архив 2026 · этап завершён"
+    },
+    {
+      "block": "Соревнования",
+      "id": "C2069",
+      "title": "WRO México 2026 · Regional Aguascalientes",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Aguascalientes",
+      "start": "2026-06-13",
+      "end": "2026-06-13",
+      "period": "2026-06-13 · архив сезона 2026.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Категории по афише: Future Innovators Primaria/Secundaria/Preparatoria; RoboMission Primaria/Secundaria.",
+      "mat": "Да по возрасту 2026 в младшей подходящей категории; квалификацию и командный допуск следовало подтвердить.",
+      "osc": "Нет по опубликованным категориям 8+; отдельный младший поток не подтверждён.",
+      "format": "Командный региональный этап; состав зависит от категории. Числа мест на афише относятся к командам, не к участникам команды.",
+      "entry": "Архив 2026. В 2027 даты, состав национальных площадок, правила и приём ещё не объявлены. Плакат и страница 2026 не являются открытой заявкой на новый сезон. Future Innovators Primaria/Secundaria/Preparatoria; RoboMission Primaria/Secundaria.",
+      "gear": "Категорию, аппаратную платформу и состав команды проверять по соответствующим правилам сезона. RoboStarter — местный младший формат, не автоматический допуск в международный WRO Elementary.",
+      "language": "Объявления на ES; язык очного жюри / защиты отдельно подтвердить.",
+      "cost": "Тариф выбранной категории / года и полный состав расходов не установлены.",
+      "level": "B — региональный этап национального маршрута",
+      "reward": "Результат конкретного этапа; международная победа и финансирование не гарантируются.",
+      "priority": "P3 — архив национального маршрута",
+      "action": "Для следующего участия дождаться convocatoria 2027; использовать архив только как ориентир географии и категорий.",
+      "source": "https://www.wromexico.org/regionales/2026/12-Aguascalientes.jpeg",
+      "proof": "Проверены индивидуальная афиша и сводная таблица, обновлённая 11 июня 2026; площадка: Museo Descubre · Av. del Parque S/N, Jardines del Parque, 20270.",
+      "checked": "2026-11-06",
+      "status": "Идея",
+      "note": "Название Futuras Innovadoras само по себе не доказывает запрет мальчикам: в прочитанной афише явного гендерного условия нет.",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "regional",
+      "importance_reason": "Региональная ступень национальной лиги; местный допуск и следующая квота проверяются отдельно.",
+      "languages": [],
+      "participation": "team",
+      "language_certainty": "unconfirmed",
+      "evidence_level": "event_page",
+      "references": [
+        {
+          "url": "https://www.wromexico.org/regionales/2026/12-Aguascalientes.jpeg",
+          "label": "Regional Aguascalientes"
+        },
+        {
+          "url": "https://www.wromexico.org/regionales/2026/00-Lista%20Regionales.jpeg",
+          "label": "Lista de Regionales"
+        },
+        {
+          "url": "https://www.wromexico.org/sedes-etapa-regional/",
+          "label": "Официальный источник WRO · проверка 06.11.2026"
+        }
+      ],
+      "related_ids": [
+        "C007",
+        "C1132",
+        "C1133"
+      ],
+      "registration_status": "Архив 2026 · этап завершён"
+    },
+    {
+      "block": "Соревнования",
+      "id": "C2070",
+      "title": "WRO México 2026 · Regional Jalisco",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Puerto Vallarta · Jalisco",
+      "start": "2026-06-20",
+      "end": "2026-06-20",
+      "period": "2026-06-20 · архив сезона 2026.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Категории по афише: RoboStarter Kinder, RoboMission, Future Innovators и RoboSports.",
+      "mat": "Да по возрасту 2026 в младшей подходящей категории; квалификацию и командный допуск следовало подтвердить.",
+      "osc": "Условно по возрасту Kinder 2026: Оскару исполняется 6; местный / командный допуск и место нужно было подтвердить.",
+      "format": "Командный региональный этап; состав зависит от категории. Числа мест на афише относятся к командам, не к участникам команды.",
+      "entry": "Архив 2026. В 2027 даты, состав национальных площадок, правила и приём ещё не объявлены. Плакат и страница 2026 не являются открытой заявкой на новый сезон. RoboStarter Kinder, RoboMission, Future Innovators и RoboSports.",
+      "gear": "Категорию, аппаратную платформу и состав команды проверять по соответствующим правилам сезона. RoboStarter — местный младший формат, не автоматический допуск в международный WRO Elementary.",
+      "language": "Объявления на ES; язык очного жюри / защиты отдельно подтвердить.",
+      "cost": "Тариф выбранной категории / года и полный состав расходов не установлены.",
+      "level": "B — региональный этап национального маршрута",
+      "reward": "Результат конкретного этапа; международная победа и финансирование не гарантируются.",
+      "priority": "P3 — архив национального маршрута",
+      "action": "Для следующего участия дождаться convocatoria 2027; использовать архив только как ориентир географии и категорий.",
+      "source": "https://www.wromexico.org/regionales/2026/13-RegionalJalisco.jpeg",
+      "proof": "Проверены индивидуальная афиша и сводная таблица, обновлённая 11 июня 2026; площадка: Biblioteca Los Mangos.",
+      "checked": "2026-11-06",
+      "status": "Идея",
+      "note": "",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "regional",
+      "importance_reason": "Региональная ступень национальной лиги; местный допуск и следующая квота проверяются отдельно.",
+      "languages": [],
+      "participation": "team",
+      "language_certainty": "unconfirmed",
+      "evidence_level": "event_page",
+      "references": [
+        {
+          "url": "https://www.wromexico.org/regionales/2026/13-RegionalJalisco.jpeg",
+          "label": "Regional Jalisco"
+        },
+        {
+          "url": "https://www.wromexico.org/regionales/2026/00-Lista%20Regionales.jpeg",
+          "label": "Lista de Regionales"
+        },
+        {
+          "url": "https://www.wromexico.org/sedes-etapa-regional/",
+          "label": "Официальный источник WRO · проверка 06.11.2026"
+        }
+      ],
+      "related_ids": [
+        "C007",
+        "C1132",
+        "C1133"
+      ],
+      "registration_status": "Архив 2026 · этап завершён"
+    },
+    {
+      "block": "Соревнования",
+      "id": "C2071",
+      "title": "WRO México 2026 · Regional Coahuila",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Torreón · Coahuila",
+      "start": "2026-06-20",
+      "end": "2026-06-20",
+      "period": "2026-06-20 · архив сезона 2026.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Категории по афише: RoboStarter Kinder / Primaria Baja, RoboMission, Future Innovators.",
+      "mat": "Да по возрасту 2026 в младшей подходящей категории; квалификацию и командный допуск следовало подтвердить.",
+      "osc": "Условно по возрасту Kinder 2026: Оскару исполняется 6; местный / командный допуск и место нужно было подтвердить.",
+      "format": "Командный региональный этап; состав зависит от категории. Числа мест на афише относятся к командам, не к участникам команды.",
+      "entry": "Архив 2026. В 2027 даты, состав национальных площадок, правила и приём ещё не объявлены. Плакат и страница 2026 не являются открытой заявкой на новый сезон. RoboStarter Kinder / Primaria Baja, RoboMission, Future Innovators.",
+      "gear": "Категорию, аппаратную платформу и состав команды проверять по соответствующим правилам сезона. RoboStarter — местный младший формат, не автоматический допуск в международный WRO Elementary.",
+      "language": "Объявления на ES; язык очного жюри / защиты отдельно подтвердить.",
+      "cost": "Тариф выбранной категории / года и полный состав расходов не установлены.",
+      "level": "B — региональный этап национального маршрута",
+      "reward": "Результат конкретного этапа; международная победа и финансирование не гарантируются.",
+      "priority": "P3 — архив национального маршрута",
+      "action": "Для следующего участия дождаться convocatoria 2027; использовать архив только как ориентир географии и категорий.",
+      "source": "https://www.wromexico.org/regionales/2026/07-Coahuila.jpeg",
+      "proof": "Проверены индивидуальная афиша и сводная таблица, обновлённая 11 июня 2026; площадка: Universidad Autónoma de la Laguna.",
+      "checked": "2026-11-06",
+      "status": "Идея",
+      "note": "",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "regional",
+      "importance_reason": "Региональная ступень национальной лиги; местный допуск и следующая квота проверяются отдельно.",
+      "languages": [],
+      "participation": "team",
+      "language_certainty": "unconfirmed",
+      "evidence_level": "event_page",
+      "references": [
+        {
+          "url": "https://www.wromexico.org/regionales/2026/07-Coahuila.jpeg",
+          "label": "Regional Coahuila"
+        },
+        {
+          "url": "https://www.wromexico.org/regionales/2026/00-Lista%20Regionales.jpeg",
+          "label": "Lista de Regionales"
+        },
+        {
+          "url": "https://www.wromexico.org/sedes-etapa-regional/",
+          "label": "Официальный источник WRO · проверка 06.11.2026"
+        }
+      ],
+      "related_ids": [
+        "C007",
+        "C1132",
+        "C1133"
+      ],
+      "registration_status": "Архив 2026 · этап завершён"
+    },
+    {
+      "block": "Соревнования",
+      "id": "C2072",
+      "title": "WRO México 2026 · Regional Guerrero",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Chilpancingo · Guerrero",
+      "start": "2026-06-24",
+      "end": "2026-06-24",
+      "period": "2026-06-24 · архив сезона 2026.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Категории по афише: Future Innovators Primaria/Secundaria и Future Engineers.",
+      "mat": "Да по возрасту 2026 в младшей подходящей категории; квалификацию и командный допуск следовало подтвердить.",
+      "osc": "Нет по опубликованным категориям 8+; отдельный младший поток не подтверждён.",
+      "format": "Командный региональный этап; состав зависит от категории. Числа мест на афише относятся к командам, не к участникам команды.",
+      "entry": "Архив 2026. В 2027 даты, состав национальных площадок, правила и приём ещё не объявлены. Плакат и страница 2026 не являются открытой заявкой на новый сезон. Future Innovators Primaria/Secundaria и Future Engineers.",
+      "gear": "Категорию, аппаратную платформу и состав команды проверять по соответствующим правилам сезона. RoboStarter — местный младший формат, не автоматический допуск в международный WRO Elementary.",
+      "language": "Объявления на ES; язык очного жюри / защиты отдельно подтвердить.",
+      "cost": "Тариф выбранной категории / года и полный состав расходов не установлены.",
+      "level": "B — региональный этап национального маршрута",
+      "reward": "Результат конкретного этапа; международная победа и финансирование не гарантируются.",
+      "priority": "P3 — архив национального маршрута",
+      "action": "Для следующего участия дождаться convocatoria 2027; использовать архив только как ориентир географии и категорий.",
+      "source": "https://www.wromexico.org/regionales/2026/09-Guerrero.jpeg",
+      "proof": "Проверены индивидуальная афиша и сводная таблица, обновлённая 11 июня 2026; площадка: Colegio Crica.",
+      "checked": "2026-11-06",
+      "status": "Идея",
+      "note": "",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "regional",
+      "importance_reason": "Региональная ступень национальной лиги; местный допуск и следующая квота проверяются отдельно.",
+      "languages": [],
+      "participation": "team",
+      "language_certainty": "unconfirmed",
+      "evidence_level": "event_page",
+      "references": [
+        {
+          "url": "https://www.wromexico.org/regionales/2026/09-Guerrero.jpeg",
+          "label": "Regional Guerrero"
+        },
+        {
+          "url": "https://www.wromexico.org/regionales/2026/00-Lista%20Regionales.jpeg",
+          "label": "Lista de Regionales"
+        },
+        {
+          "url": "https://www.wromexico.org/sedes-etapa-regional/",
+          "label": "Официальный источник WRO · проверка 06.11.2026"
+        }
+      ],
+      "related_ids": [
+        "C007",
+        "C1132",
+        "C1133"
+      ],
+      "registration_status": "Архив 2026 · этап завершён"
+    },
+    {
+      "block": "Соревнования",
+      "id": "C2073",
+      "title": "WRO México 2026 · Regional Puebla",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Puebla / San Andrés Cholula",
+      "start": "2026-06-27",
+      "end": "2026-06-27",
+      "period": "2026-06-27 · архив сезона 2026.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Категории по афише: RoboMission, RoboStarter Kinder / Primaria Baja, Future Innovators.",
+      "mat": "Да по возрасту 2026 в младшей подходящей категории; квалификацию и командный допуск следовало подтвердить.",
+      "osc": "Условно по возрасту Kinder 2026: Оскару исполняется 6; местный / командный допуск и место нужно было подтвердить.",
+      "format": "Командный региональный этап; состав зависит от категории. Числа мест на афише относятся к командам, не к участникам команды.",
+      "entry": "Архив 2026. В 2027 даты, состав национальных площадок, правила и приём ещё не объявлены. Плакат и страница 2026 не являются открытой заявкой на новый сезон. RoboMission, RoboStarter Kinder / Primaria Baja, Future Innovators.",
+      "gear": "Категорию, аппаратную платформу и состав команды проверять по соответствующим правилам сезона. RoboStarter — местный младший формат, не автоматический допуск в международный WRO Elementary.",
+      "language": "Объявления на ES; язык очного жюри / защиты отдельно подтвердить.",
+      "cost": "Тариф выбранной категории / года и полный состав расходов не установлены.",
+      "level": "B — региональный этап национального маршрута",
+      "reward": "Результат конкретного этапа; международная победа и финансирование не гарантируются.",
+      "priority": "P3 — архив национального маршрута",
+      "action": "Для следующего участия дождаться convocatoria 2027; использовать архив только как ориентир географии и категорий.",
+      "source": "https://www.wromexico.org/regionales/2026/10-Puebla.jpeg",
+      "proof": "Проверены индивидуальная афиша и сводная таблица, обновлённая 11 июня 2026; площадка: American School Foundation of Puebla.",
+      "checked": "2026-11-06",
+      "status": "Идея",
+      "note": "",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "regional",
+      "importance_reason": "Региональная ступень национальной лиги; местный допуск и следующая квота проверяются отдельно.",
+      "languages": [],
+      "participation": "team",
+      "language_certainty": "unconfirmed",
+      "evidence_level": "event_page",
+      "references": [
+        {
+          "url": "https://www.wromexico.org/regionales/2026/10-Puebla.jpeg",
+          "label": "Regional Puebla"
+        },
+        {
+          "url": "https://www.wromexico.org/regionales/2026/00-Lista%20Regionales.jpeg",
+          "label": "Lista de Regionales"
+        },
+        {
+          "url": "https://www.wromexico.org/sedes-etapa-regional/",
+          "label": "Официальный источник WRO · проверка 06.11.2026"
+        }
+      ],
+      "related_ids": [
+        "C007",
+        "C1132",
+        "C1133"
+      ],
+      "registration_status": "Архив 2026 · этап завершён"
+    },
+    {
+      "block": "Соревнования",
+      "id": "C2074",
+      "title": "WRO México 2026 · Regional Ciudad de México",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Ciudad de México",
+      "start": "2026-07-11",
+      "end": "2026-07-11",
+      "period": "2026-07-11 · архив сезона 2026.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Категории по афише: RoboMission / Future Innovators; RoboStarter в индивидуальной афише не указан.",
+      "mat": "Да по возрасту 2026 в младшей подходящей категории; квалификацию и командный допуск следовало подтвердить.",
+      "osc": "Нет по опубликованным категориям 8+; отдельный младший поток не подтверждён.",
+      "format": "Командный региональный этап; состав зависит от категории. Числа мест на афише относятся к командам, не к участникам команды.",
+      "entry": "Архив 2026. В 2027 даты, состав национальных площадок, правила и приём ещё не объявлены. Плакат и страница 2026 не являются открытой заявкой на новый сезон. RoboMission / Future Innovators; RoboStarter в индивидуальной афише не указан.",
+      "gear": "Категорию, аппаратную платформу и состав команды проверять по соответствующим правилам сезона. RoboStarter — местный младший формат, не автоматический допуск в международный WRO Elementary.",
+      "language": "Объявления на ES; язык очного жюри / защиты отдельно подтвердить.",
+      "cost": "Тариф выбранной категории / года и полный состав расходов не установлены.",
+      "level": "B — региональный этап национального маршрута",
+      "reward": "Результат конкретного этапа; международная победа и финансирование не гарантируются.",
+      "priority": "P3 — архив национального маршрута",
+      "action": "Для следующего участия дождаться convocatoria 2027; использовать архив только как ориентир географии и категорий.",
+      "source": "https://www.wromexico.org/regionales/2026/08-CDMX.jpeg",
+      "proof": "Проверены индивидуальная афиша и сводная таблица, обновлённая 11 июня 2026; площадка: IEMS Plantel José Revueltas · Venustiano Carranza.",
+      "checked": "2026-11-06",
+      "status": "Идея",
+      "note": "",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "regional",
+      "importance_reason": "Региональная ступень национальной лиги; местный допуск и следующая квота проверяются отдельно.",
+      "languages": [],
+      "participation": "team",
+      "language_certainty": "unconfirmed",
+      "evidence_level": "event_page",
+      "references": [
+        {
+          "url": "https://www.wromexico.org/regionales/2026/08-CDMX.jpeg",
+          "label": "Regional Ciudad de México"
+        },
+        {
+          "url": "https://www.wromexico.org/regionales/2026/00-Lista%20Regionales.jpeg",
+          "label": "Lista de Regionales"
+        },
+        {
+          "url": "https://www.wromexico.org/sedes-etapa-regional/",
+          "label": "Официальный источник WRO · проверка 06.11.2026"
+        }
+      ],
+      "related_ids": [
+        "C007",
+        "C1132",
+        "C1133"
+      ],
+      "registration_status": "Архив 2026 · этап завершён"
+    },
+    {
+      "block": "Соревнования",
+      "id": "C2075",
+      "title": "WRO México 2026 · Regional Tamaulipas · отменённый этап",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Tamaulipas",
+      "start": "",
+      "end": "",
+      "period": "В таблице 2026 указано No se realizará. Дата не назначена.",
+      "date_status": "Отменено в источнике",
+      "deadline": "",
+      "age": "Категории отменённого этапа не опубликованы.",
+      "mat": "Нет: этап отменён.",
+      "osc": "Нет: этап отменён.",
+      "format": "Отменённая региональная площадка, не действующий турнир.",
+      "entry": "Архив 2026. В 2027 даты, состав национальных площадок, правила и приём ещё не объявлены. Плакат и страница 2026 не являются открытой заявкой на новый сезон.",
+      "gear": "",
+      "language": "Объявления на ES; язык очного жюри / защиты отдельно подтвердить.",
+      "cost": "Тариф выбранной категории / года и полный состав расходов не установлены.",
+      "level": "Архив отмены",
+      "reward": "Награды / участие по этому отменённому этапу не подтверждены.",
+      "priority": "P3 — историческая отметка отмены",
+      "action": "Не использовать как опубликованное событие 2027. Новую convocatoria проверять отдельно.",
+      "source": "https://www.wromexico.org/regionales/2026/00-Lista%20Regionales.jpeg",
+      "proof": "Проверен официальный источник; сезон, тип этапа и ограничения указаны отдельно.",
+      "checked": "2026-11-06",
+      "status": "Отменено",
+      "note": "",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "regional",
+      "importance_reason": "Сохранена официальная отмена этапа; это не действующее приглашение к участию.",
+      "languages": [],
+      "participation": "team",
+      "language_certainty": "unconfirmed",
+      "evidence_level": "event_page",
+      "references": [
+        {
+          "url": "https://www.wromexico.org/regionales/2026/00-Lista%20Regionales.jpeg",
+          "label": "Lista de Regionales"
+        },
+        {
+          "url": "https://www.wromexico.org/sedes-etapa-regional/",
+          "label": "Официальный источник WRO · проверка 06.11.2026"
+        }
+      ],
+      "related_ids": [
+        "C007",
+        "C1132",
+        "C1133"
+      ],
+      "registration_status": "Отменено · архив 2026"
+    },
+    {
+      "block": "Соревнования",
+      "id": "C2076",
+      "title": "WRO México 2026 · Regional Querétaro · отменённый этап",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Querétaro",
+      "start": "",
+      "end": "",
+      "period": "В таблице 2026 указано No se realizará. Дата не назначена.",
+      "date_status": "Отменено в источнике",
+      "deadline": "",
+      "age": "Категории отменённого этапа не опубликованы.",
+      "mat": "Нет: этап отменён.",
+      "osc": "Нет: этап отменён.",
+      "format": "Отменённая региональная площадка, не действующий турнир.",
+      "entry": "Архив 2026. В 2027 даты, состав национальных площадок, правила и приём ещё не объявлены. Плакат и страница 2026 не являются открытой заявкой на новый сезон.",
+      "gear": "",
+      "language": "Объявления на ES; язык очного жюри / защиты отдельно подтвердить.",
+      "cost": "Тариф выбранной категории / года и полный состав расходов не установлены.",
+      "level": "Архив отмены",
+      "reward": "Награды / участие по этому отменённому этапу не подтверждены.",
+      "priority": "P3 — историческая отметка отмены",
+      "action": "Не использовать как опубликованное событие 2027. Новую convocatoria проверять отдельно.",
+      "source": "https://www.wromexico.org/regionales/2026/00-Lista%20Regionales.jpeg",
+      "proof": "Проверен официальный источник; сезон, тип этапа и ограничения указаны отдельно.",
+      "checked": "2026-11-06",
+      "status": "Отменено",
+      "note": "",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "regional",
+      "importance_reason": "Сохранена официальная отмена этапа; это не действующее приглашение к участию.",
+      "languages": [],
+      "participation": "team",
+      "language_certainty": "unconfirmed",
+      "evidence_level": "event_page",
+      "references": [
+        {
+          "url": "https://www.wromexico.org/regionales/2026/00-Lista%20Regionales.jpeg",
+          "label": "Lista de Regionales"
+        },
+        {
+          "url": "https://www.wromexico.org/sedes-etapa-regional/",
+          "label": "Официальный источник WRO · проверка 06.11.2026"
+        }
+      ],
+      "related_ids": [
+        "C007",
+        "C1132",
+        "C1133"
+      ],
+      "registration_status": "Отменено · архив 2026"
+    },
+    {
+      "block": "Соревнования",
+      "id": "C2077",
+      "title": "WRO México 2026 · Nacional Baja California / Tijuana",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Tijuana",
+      "start": "2026-09-18",
+      "end": "2026-09-19",
+      "period": "2026-09-18 — 2026-09-19 · национальная площадка соответствующих категорий 2026.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "RoboStarter Kinder 5–7; Primaria Baja 7–9; Future Engineers 14–22.",
+      "mat": "Да по возрасту Primaria Baja в 2026; не для Kinder или Future Engineers.",
+      "osc": "Да по возрасту Kinder в 2026; приём и состав категории отдельно.",
+      "format": "Командный национальный этап по конкретным категориям; это не общий турнир всех дивизионов в одном городе.",
+      "entry": "Архив 2026. В 2027 даты, состав национальных площадок, правила и приём ещё не объявлены. Плакат и страница 2026 не являются открытой заявкой на новый сезон. Право национального участия и отбор через предыдущий этап не выводятся из гражданства автоматически.",
+      "gear": "Категорию, аппаратную платформу и состав команды проверять по соответствующим правилам сезона. RoboStarter — местный младший формат, не автоматический допуск в международный WRO Elementary.",
+      "language": "Объявления на ES; язык очного жюри / защиты отдельно подтвердить.",
+      "cost": "Тариф выбранной категории / года и полный состав расходов не установлены.",
+      "level": "B — национальный этап",
+      "reward": "Результат конкретного этапа; международная победа и финансирование не гарантируются.",
+      "priority": "P3 — архив национального отбора",
+      "action": "Для 2027 подтвердить новую географию: в архиве младшие RoboStarter, RoboMission и Innovators/Sports проводились в разных городах.",
+      "source": "https://www.wromexico.org/nacionales/2026/01-NacionalBajaCalifornia.jpeg",
+      "proof": "Национальная страница 2026 и её официальная афиша; площадка: CAR · Centro de Alto Rendimiento · Circuito Vial Sur, UABC, Universidad Otay, 22427.",
+      "checked": "2026-11-06",
+      "status": "Идея",
+      "note": "Общий текстовый cronograma с национальным 10 мая CDMX расходится со специализированными афишами сентября. В карточке сохранён источник конкретной площадки. ",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "national",
+      "importance_reason": "Национальный этап определённых категорий; участие в международной делегации требует отдельного подтверждённого отбора.",
+      "languages": [],
+      "participation": "team",
+      "language_certainty": "unconfirmed",
+      "evidence_level": "event_page",
+      "references": [
+        {
+          "url": "https://www.wromexico.org/nacionales/2026/01-NacionalBajaCalifornia.jpeg",
+          "label": "Nacional Baja California - Robots meet Culture, Tijuana"
+        },
+        {
+          "url": "https://www.wromexico.org/sedes-etapa-nacional/",
+          "label": "Официальный источник WRO · проверка 06.11.2026"
+        }
+      ],
+      "related_ids": [
+        "C007",
+        "C1132",
+        "C1133"
+      ],
+      "registration_status": "Архив 2026 · этап завершён"
+    },
+    {
+      "block": "Соревнования",
+      "id": "C2078",
+      "title": "WRO México 2026 · Nacional Quintana Roo / Cancún · RoboMission",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Cancún",
+      "start": "2026-09-05",
+      "end": "2026-09-06",
+      "period": "2026-09-05 — 2026-09-06 · национальная площадка соответствующих категорий 2026.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Только RoboMission; школьные дивизионы по регламенту.",
+      "mat": "Да по возрасту младшей RoboMission 8–12 в 2026.",
+      "osc": "Нет для RoboMission 8+ в 2026.",
+      "format": "Командный национальный этап по конкретным категориям; это не общий турнир всех дивизионов в одном городе.",
+      "entry": "Архив 2026. В 2027 даты, состав национальных площадок, правила и приём ещё не объявлены. Плакат и страница 2026 не являются открытой заявкой на новый сезон. Право национального участия и отбор через предыдущий этап не выводятся из гражданства автоматически.",
+      "gear": "Категорию, аппаратную платформу и состав команды проверять по соответствующим правилам сезона. RoboStarter — местный младший формат, не автоматический допуск в международный WRO Elementary.",
+      "language": "Объявления на ES; язык очного жюри / защиты отдельно подтвердить.",
+      "cost": "Тариф выбранной категории / года и полный состав расходов не установлены.",
+      "level": "B — национальный этап",
+      "reward": "Результат конкретного этапа; международная победа и финансирование не гарантируются.",
+      "priority": "P3 — архив национального отбора",
+      "action": "Для 2027 подтвердить новую географию: в архиве младшие RoboStarter, RoboMission и Innovators/Sports проводились в разных городах.",
+      "source": "https://www.wromexico.org/nacionales/2026/02-NacionalQuintanaRoo.jpeg",
+      "proof": "Национальная страница 2026 и её официальная афиша; площадка: Poliforum Cancún.",
+      "checked": "2026-11-06",
+      "status": "Идея",
+      "note": "Общий текстовый cronograma с национальным 10 мая CDMX расходится со специализированными афишами сентября. В карточке сохранён источник конкретной площадки. Небольшая подпись на плакате Cancún говорит Regional, основной заголовок и раздел сайта — Nacional.",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "national",
+      "importance_reason": "Национальный этап определённых категорий; участие в международной делегации требует отдельного подтверждённого отбора.",
+      "languages": [],
+      "participation": "team",
+      "language_certainty": "unconfirmed",
+      "evidence_level": "event_page",
+      "references": [
+        {
+          "url": "https://www.wromexico.org/nacionales/2026/02-NacionalQuintanaRoo.jpeg",
+          "label": "Nacional Quintana Roo - Construyendo Nuestro Ecosistema, Cancún"
+        },
+        {
+          "url": "https://www.wromexico.org/sedes-etapa-nacional/",
+          "label": "Официальный источник WRO · проверка 06.11.2026"
+        }
+      ],
+      "related_ids": [
+        "C007",
+        "C1132",
+        "C1133"
+      ],
+      "registration_status": "Архив 2026 · этап завершён"
+    },
+    {
+      "block": "Соревнования",
+      "id": "C2079",
+      "title": "WRO México 2026 · Nacional Veracruz / Orizaba · Innovators / Sports",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Orizaba",
+      "start": "2026-09-11",
+      "end": "2026-09-12",
+      "period": "2026-09-11 — 2026-09-12 · национальная площадка соответствующих категорий 2026.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Future Innovators и RoboSports; возраст по дивизиону.",
+      "mat": "Да по возрасту Future Innovators Elementary; не для RoboSports 11+.",
+      "osc": "Нет для опубликованных направлений 8+ в 2026.",
+      "format": "Командный национальный этап по конкретным категориям; это не общий турнир всех дивизионов в одном городе.",
+      "entry": "Архив 2026. В 2027 даты, состав национальных площадок, правила и приём ещё не объявлены. Плакат и страница 2026 не являются открытой заявкой на новый сезон. Право национального участия и отбор через предыдущий этап не выводятся из гражданства автоматически.",
+      "gear": "Категорию, аппаратную платформу и состав команды проверять по соответствующим правилам сезона. RoboStarter — местный младший формат, не автоматический допуск в международный WRO Elementary.",
+      "language": "Объявления на ES; язык очного жюри / защиты отдельно подтвердить.",
+      "cost": "Тариф выбранной категории / года и полный состав расходов не установлены.",
+      "level": "B — национальный этап",
+      "reward": "Результат конкретного этапа; международная победа и финансирование не гарантируются.",
+      "priority": "P3 — архив национального отбора",
+      "action": "Для 2027 подтвердить новую географию: в архиве младшие RoboStarter, RoboMission и Innovators/Sports проводились в разных городах.",
+      "source": "https://www.wromexico.org/nacionales/2026/03-NacionalVeracruz.jpeg",
+      "proof": "Национальная страница 2026 и её официальная афиша; площадка: CDO Sur.",
+      "checked": "2026-11-06",
+      "status": "Идея",
+      "note": "Общий текстовый cronograma с национальным 10 мая CDMX расходится со специализированными афишами сентября. В карточке сохранён источник конкретной площадки. ",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "national",
+      "importance_reason": "Национальный этап определённых категорий; участие в международной делегации требует отдельного подтверждённого отбора.",
+      "languages": [],
+      "participation": "team",
+      "language_certainty": "unconfirmed",
+      "evidence_level": "event_page",
+      "references": [
+        {
+          "url": "https://www.wromexico.org/nacionales/2026/03-NacionalVeracruz.jpeg",
+          "label": "Nacional Veracruz - ¡Sonríe! Orizaba es Sede Nacional"
+        },
+        {
+          "url": "https://www.wromexico.org/sedes-etapa-nacional/",
+          "label": "Официальный источник WRO · проверка 06.11.2026"
+        }
+      ],
+      "related_ids": [
+        "C007",
+        "C1132",
+        "C1133"
+      ],
+      "registration_status": "Архив 2026 · этап завершён"
+    },
+    {
+      "block": "Соревнования",
+      "id": "C2080",
+      "title": "WRO Municipal Quintana Roo 2026 · Chetumal · подготовка",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Chetumal",
+      "start": "2026-05-09",
+      "end": "2026-05-09",
+      "period": "9 мая 2026 · муниципальная подготовка, не отбор на региональный этап.",
+      "date_status": "Подтверждено",
+      "deadline": "2026-04-25",
+      "age": "RoboMission Primaria / Secundaria / Preparatoria; младший RoboStarter не объявлен.",
+      "mat": "Условно по возрасту RoboMission; только команды Quintana Roo, наш региональный допуск не подтверждён.",
+      "osc": "Нет для RoboMission 8+; младшая категория в этом муниципальном анонсе отсутствует.",
+      "format": "Местная командная подготовка, эксклюзивно для команд Quintana Roo.",
+      "entry": "Афиша явно говорит: этап не квалифицирует на региональный турнир; это подготовка. Все четыре муниципальных дня 9 мая; приём продлён до 25 апреля 2026. Архив 2026. В 2027 даты, состав национальных площадок, правила и приём ещё не объявлены. Плакат и страница 2026 не являются открытой заявкой на новый сезон.",
+      "gear": "Категорию, аппаратную платформу и состав команды проверять по соответствующим правилам сезона. RoboStarter — местный младший формат, не автоматический допуск в международный WRO Elementary.",
+      "language": "Объявления на ES; язык очного жюри / защиты отдельно подтвердить.",
+      "cost": "Тариф выбранной категории / года и полный состав расходов не установлены.",
+      "level": "C — местная подготовка",
+      "reward": "Подготовка и опыт; квалификация на региональный / международный этап этим событием не предоставляется.",
+      "priority": "P3 — архив подготовки, не отбор",
+      "action": "Использовать как архив местной подготовки. Для нового сезона проверить региональную принадлежность и новый приём; участие не является путёвкой на следующий этап.",
+      "source": "https://www.wromexico.org/regionales/quintana_roo/01-Imagentablaeventos.png",
+      "proof": "Прочитаны обе муниципальные афиши; площадка: Planetario Yook’ol Kaab Chetumal.",
+      "checked": "2026-11-06",
+      "status": "Идея",
+      "note": "Указанные квоты на афише — вместимость, не число квалифицирующихся команд.",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "local",
+      "importance_reason": "Подготовительный муниципальный день; официальный анонс прямо исключает квалификацию на региональный этап.",
+      "languages": [],
+      "participation": "team",
+      "language_certainty": "unconfirmed",
+      "evidence_level": "event_page",
+      "references": [
+        {
+          "url": "https://www.wromexico.org/regionales/quintana_roo/01-Imagentablaeventos.png",
+          "label": "Convocatoria Quintana Roo 2026"
+        },
+        {
+          "url": "https://www.wromexico.org/regionales/quintana_roo/00-ExtensionMunicipal.jpeg",
+          "label": "Extensión de Convocatoria WRO Municipal Quintana Roo 2026"
+        },
+        {
+          "url": "https://www.wromexico.org/convocatoria-quintana-roo/",
+          "label": "Официальный источник WRO · проверка 06.11.2026"
+        }
+      ],
+      "related_ids": [
+        "C007",
+        "C1132",
+        "C1133",
+        "C2068",
+        "C2078"
+      ],
+      "registration_status": "Архив 2026 · муниципальная запись до 25.04.2026 завершена"
+    },
+    {
+      "block": "Соревнования",
+      "id": "C2081",
+      "title": "WRO Municipal Quintana Roo 2026 · Cancún · подготовка",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Cancún",
+      "start": "2026-05-09",
+      "end": "2026-05-09",
+      "period": "9 мая 2026 · муниципальная подготовка, не отбор на региональный этап.",
+      "date_status": "Подтверждено",
+      "deadline": "2026-04-25",
+      "age": "RoboMission Primaria / Secundaria / Preparatoria; младший RoboStarter не объявлен.",
+      "mat": "Условно по возрасту RoboMission; только команды Quintana Roo, наш региональный допуск не подтверждён.",
+      "osc": "Нет для RoboMission 8+; младшая категория в этом муниципальном анонсе отсутствует.",
+      "format": "Местная командная подготовка, эксклюзивно для команд Quintana Roo.",
+      "entry": "Афиша явно говорит: этап не квалифицирует на региональный турнир; это подготовка. Все четыре муниципальных дня 9 мая; приём продлён до 25 апреля 2026. Архив 2026. В 2027 даты, состав национальных площадок, правила и приём ещё не объявлены. Плакат и страница 2026 не являются открытой заявкой на новый сезон.",
+      "gear": "Категорию, аппаратную платформу и состав команды проверять по соответствующим правилам сезона. RoboStarter — местный младший формат, не автоматический допуск в международный WRO Elementary.",
+      "language": "Объявления на ES; язык очного жюри / защиты отдельно подтвердить.",
+      "cost": "Тариф выбранной категории / года и полный состав расходов не установлены.",
+      "level": "C — местная подготовка",
+      "reward": "Подготовка и опыт; квалификация на региональный / международный этап этим событием не предоставляется.",
+      "priority": "P3 — архив подготовки, не отбор",
+      "action": "Использовать как архив местной подготовки. Для нового сезона проверить региональную принадлежность и новый приём; участие не является путёвкой на следующий этап.",
+      "source": "https://www.wromexico.org/regionales/quintana_roo/01-Imagentablaeventos.png",
+      "proof": "Прочитаны обе муниципальные афиши; площадка: Planetario Ka’ Yok’ Cancún.",
+      "checked": "2026-11-06",
+      "status": "Идея",
+      "note": "Указанные квоты на афише — вместимость, не число квалифицирующихся команд.",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "local",
+      "importance_reason": "Подготовительный муниципальный день; официальный анонс прямо исключает квалификацию на региональный этап.",
+      "languages": [],
+      "participation": "team",
+      "language_certainty": "unconfirmed",
+      "evidence_level": "event_page",
+      "references": [
+        {
+          "url": "https://www.wromexico.org/regionales/quintana_roo/01-Imagentablaeventos.png",
+          "label": "Convocatoria Quintana Roo 2026"
+        },
+        {
+          "url": "https://www.wromexico.org/regionales/quintana_roo/00-ExtensionMunicipal.jpeg",
+          "label": "Extensión de Convocatoria WRO Municipal Quintana Roo 2026"
+        },
+        {
+          "url": "https://www.wromexico.org/convocatoria-quintana-roo/",
+          "label": "Официальный источник WRO · проверка 06.11.2026"
+        }
+      ],
+      "related_ids": [
+        "C007",
+        "C1132",
+        "C1133",
+        "C2068",
+        "C2078"
+      ],
+      "registration_status": "Архив 2026 · муниципальная запись до 25.04.2026 завершена"
+    },
+    {
+      "block": "Соревнования",
+      "id": "C2082",
+      "title": "WRO Municipal Quintana Roo 2026 · Playa del Carmen · подготовка",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Playa del Carmen",
+      "start": "2026-05-09",
+      "end": "2026-05-09",
+      "period": "9 мая 2026 · муниципальная подготовка, не отбор на региональный этап.",
+      "date_status": "Подтверждено",
+      "deadline": "2026-04-25",
+      "age": "RoboMission Primaria / Secundaria / Preparatoria; младший RoboStarter не объявлен.",
+      "mat": "Условно по возрасту RoboMission; только команды Quintana Roo, наш региональный допуск не подтверждён.",
+      "osc": "Нет для RoboMission 8+; младшая категория в этом муниципальном анонсе отсутствует.",
+      "format": "Местная командная подготовка, эксклюзивно для команд Quintana Roo.",
+      "entry": "Афиша явно говорит: этап не квалифицирует на региональный турнир; это подготовка. Все четыре муниципальных дня 9 мая; приём продлён до 25 апреля 2026. Архив 2026. В 2027 даты, состав национальных площадок, правила и приём ещё не объявлены. Плакат и страница 2026 не являются открытой заявкой на новый сезон.",
+      "gear": "Категорию, аппаратную платформу и состав команды проверять по соответствующим правилам сезона. RoboStarter — местный младший формат, не автоматический допуск в международный WRO Elementary.",
+      "language": "Объявления на ES; язык очного жюри / защиты отдельно подтвердить.",
+      "cost": "Тариф выбранной категории / года и полный состав расходов не установлены.",
+      "level": "C — местная подготовка",
+      "reward": "Подготовка и опыт; квалификация на региональный / международный этап этим событием не предоставляется.",
+      "priority": "P3 — архив подготовки, не отбор",
+      "action": "Использовать как архив местной подготовки. Для нового сезона проверить региональную принадлежность и новый приём; участие не является путёвкой на следующий этап.",
+      "source": "https://www.wromexico.org/regionales/quintana_roo/01-Imagentablaeventos.png",
+      "proof": "Прочитаны обе муниципальные афиши; площадка: Planetario Sayab Playa del Carmen.",
+      "checked": "2026-11-06",
+      "status": "Идея",
+      "note": "Указанные квоты на афише — вместимость, не число квалифицирующихся команд.",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "local",
+      "importance_reason": "Подготовительный муниципальный день; официальный анонс прямо исключает квалификацию на региональный этап.",
+      "languages": [],
+      "participation": "team",
+      "language_certainty": "unconfirmed",
+      "evidence_level": "event_page",
+      "references": [
+        {
+          "url": "https://www.wromexico.org/regionales/quintana_roo/01-Imagentablaeventos.png",
+          "label": "Convocatoria Quintana Roo 2026"
+        },
+        {
+          "url": "https://www.wromexico.org/regionales/quintana_roo/00-ExtensionMunicipal.jpeg",
+          "label": "Extensión de Convocatoria WRO Municipal Quintana Roo 2026"
+        },
+        {
+          "url": "https://www.wromexico.org/convocatoria-quintana-roo/",
+          "label": "Официальный источник WRO · проверка 06.11.2026"
+        }
+      ],
+      "related_ids": [
+        "C007",
+        "C1132",
+        "C1133",
+        "C2068",
+        "C2078"
+      ],
+      "registration_status": "Архив 2026 · муниципальная запись до 25.04.2026 завершена"
+    },
+    {
+      "block": "Соревнования",
+      "id": "C2083",
+      "title": "WRO Municipal Quintana Roo 2026 · Felipe Carrillo Puerto · подготовка",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Felipe Carrillo Puerto",
+      "start": "2026-05-09",
+      "end": "2026-05-09",
+      "period": "9 мая 2026 · муниципальная подготовка, не отбор на региональный этап.",
+      "date_status": "Подтверждено",
+      "deadline": "2026-04-25",
+      "age": "RoboMission Primaria / Secundaria / Preparatoria; младший RoboStarter не объявлен.",
+      "mat": "Условно по возрасту RoboMission; только команды Quintana Roo, наш региональный допуск не подтверждён.",
+      "osc": "Нет для RoboMission 8+; младшая категория в этом муниципальном анонсе отсутствует.",
+      "format": "Местная командная подготовка, эксклюзивно для команд Quintana Roo.",
+      "entry": "Афиша явно говорит: этап не квалифицирует на региональный турнир; это подготовка. Все четыре муниципальных дня 9 мая; приём продлён до 25 апреля 2026. Архив 2026. В 2027 даты, состав национальных площадок, правила и приём ещё не объявлены. Плакат и страница 2026 не являются открытой заявкой на новый сезон.",
+      "gear": "Категорию, аппаратную платформу и состав команды проверять по соответствующим правилам сезона. RoboStarter — местный младший формат, не автоматический допуск в международный WRO Elementary.",
+      "language": "Объявления на ES; язык очного жюри / защиты отдельно подтвердить.",
+      "cost": "Тариф выбранной категории / года и полный состав расходов не установлены.",
+      "level": "C — местная подготовка",
+      "reward": "Подготовка и опыт; квалификация на региональный / международный этап этим событием не предоставляется.",
+      "priority": "P3 — архив подготовки, не отбор",
+      "action": "Использовать как архив местной подготовки. Для нового сезона проверить региональную принадлежность и новый приём; участие не является путёвкой на следующий этап.",
+      "source": "https://www.wromexico.org/regionales/quintana_roo/01-Imagentablaeventos.png",
+      "proof": "Прочитаны обе муниципальные афиши; площадка: Plantel CONALEP 102 Felipe Carrillo Puerto.",
+      "checked": "2026-11-06",
+      "status": "Идея",
+      "note": "Указанные квоты на афише — вместимость, не число квалифицирующихся команд.",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "local",
+      "importance_reason": "Подготовительный муниципальный день; официальный анонс прямо исключает квалификацию на региональный этап.",
+      "languages": [],
+      "participation": "team",
+      "language_certainty": "unconfirmed",
+      "evidence_level": "event_page",
+      "references": [
+        {
+          "url": "https://www.wromexico.org/regionales/quintana_roo/01-Imagentablaeventos.png",
+          "label": "Convocatoria Quintana Roo 2026"
+        },
+        {
+          "url": "https://www.wromexico.org/regionales/quintana_roo/00-ExtensionMunicipal.jpeg",
+          "label": "Extensión de Convocatoria WRO Municipal Quintana Roo 2026"
+        },
+        {
+          "url": "https://www.wromexico.org/convocatoria-quintana-roo/",
+          "label": "Официальный источник WRO · проверка 06.11.2026"
+        }
+      ],
+      "related_ids": [
+        "C007",
+        "C1132",
+        "C1133",
+        "C2068",
+        "C2078"
+      ],
+      "registration_status": "Архив 2026 · муниципальная запись до 25.04.2026 завершена"
     },
     {
       "id": "CP041-20270329-20270402",

@@ -18,7 +18,7 @@
   const tiers = {world_result:"Hay un resultado mundial.",national_result:"hay un resultado nacional",other_result:"hay un resultado competitivo",programme:"programa · no se han establecido victorias"};
   const fitNames = {candidate:"candidato a la etapa diurna",future:"futuro secundario",unknown:"edad / entrada de la página"};
   const ibNames = {candidate:'candidate',authorized_registry:"autorizado · registro IB",school_report:"por el mensaje de la escuela",school_report_authorized:"la autorización por el mensaje de la escuela"};
-  const provenance = {organizer_report:"mensaje del organizador",organizer_protocol:"el protocolo oficial del organizador",school_report:"mensaje de la escuela",school_operator_report:"comunicación de la red escolar / operador"};
+  const provenance = {organizer_report:"Comunicado del organizador",organizer_protocol:"el protocolo oficial del organizador",school_report:"mensaje de la escuela",school_operator_report:"comunicación de la red escolar / operador"};
   const sourceKind = {school:"escuela",public_school:"escuela pública",registry:"el manual oficial",organizer:"organizador de la competencia",school_operator:"red escolar / operador",historical_registry:"lista histórica del Estado",government:"el manual de información",school_team:"equipo escolar",regional_organizer:"organizador regional"};
   const q = sel => document.querySelector(sel);
   const safe = x => String(x ?? '').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));

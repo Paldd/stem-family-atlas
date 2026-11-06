@@ -41,6 +41,8 @@ jobs:
         run: node scripts/verify-camp-editorial.cjs
       - name: Verify sibling groups share a sourced venue and exact timetable
         run: node scripts/verify-family-pairing.cjs
+      - name: Verify nearby WRO league and qualification history filters
+        run: node scripts/verify-nearby-wro.cjs
       - name: Record the exact published source revision
         run: python3 scripts/write-release.py
       - name: Configure Pages

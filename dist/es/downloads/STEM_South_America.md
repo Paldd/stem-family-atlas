@@ -50,16 +50,16 @@ el verano WeCode por la robótica, y y y y Minecraft para el 2–3 / 4–6-las c
 
 ### C009 · WRO — RoboMission / Future Innovators Elementary
 
-Fecha: Final nacional 2026 Ahí está. 02–04.09.2026; temporada 2027 aún no anunciada
+Fecha: Archivo de condiciones 2026; no se ha determinado la fecha exacta del torneo nacional ni el calendario 2027 en las fuentes que se leen.
 Edad: 2026: Elementary 8*12, nacido en 2014-2018. Los años para 2027 se confirman por separado.
 Matway: Sí, por edad
 Oscar: No hasta los 8 años
 Idioma: ES confirmado para Future Innovators en la fase nacional 2026; presentación internacional de EN
 Entrada: Comunicar con Conecta+, armonizar el derecho de participación/representación de un equipo de Costa Rica; en 2026 había un acuerdo y un código de ética separados.
-Costo: 2026: COP392700 Early / COP440300 Regular por el niño, coach gratis; nueva tarifa 2027 no publicada
-Limitaciones: Final 2026 y ya se han registrado. En la cuenta principal. 02.08, a Regular-Tarifas vigentes hasta 03.08 — El conflicto del antiguo juego está guardado., no se ha trasladado a 2027. No se encontró ninguna nueva categoría para Oscar 6 años. Necesito otro participante. 8+ Para Matway. Colegio Liceo Cervantes Bilingüe Norte; Contacto info@conecta-mas.org / +57 3183505400.
+Costo: Archivo 2026: COP392700 early / COP440300 regular por participante, IVA activado, coach sin pago. Esto no es una tarifa 2027.
+Limitaciones: Las páginas iniciales de un operador varían en cuanto a la duración y el precio, y algunas referencias a las reglas llevan a la versión 2023, aunque la página se titula 2026; no se han convertido en las reglas 2027.
 Fuente: https://wrocolombia.org/
-Comprobado: 2026-09-30
+Se ha comprobado: 2026-11-06
 
 ### C010 · WRO — RoboMission / Future Innovators Elementary
 
