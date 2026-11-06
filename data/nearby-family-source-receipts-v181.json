@@ -1,0 +1,228 @@
+{
+  "version": 181,
+  "checked": "2026-11-06",
+  "request_count": 20,
+  "hash_verified": 16,
+  "failures": [
+    {
+      "key": "coyote-terms",
+      "url": "https://www.campcoyote.mx/terminos-y-condiciones",
+      "checked_at": "2026-11-06T11:16:36.763883+00:00",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "barca-cr",
+      "url": "https://barcaacademycampscostarica.com/camps-costa-rica/",
+      "checked_at": "2026-11-06T11:16:36.763998+00:00",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "barca-official",
+      "url": "https://barcaacademy.fcbarcelona.com/en/camps/camps-world",
+      "checked_at": "2026-11-06T11:16:36.764078+00:00",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "fod-winter",
+      "url": "https://survey.zohopublic.com/zs/SjzWbS",
+      "checked_at": "2026-11-06T11:16:37.747265+00:00",
+      "error": "HTTP Error 502: Bad Gateway"
+    }
+  ],
+  "requests": [
+    {
+      "key": "coyote",
+      "url": "https://www.campcoyote.mx/",
+      "checked_at": "2026-11-06T11:16:36.763348+00:00",
+      "status": 200,
+      "final_url": "https://www.campcoyote.mx/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 85689,
+      "sha256": "1faa2604935431301bf4265c7d5d676d1a512f63bf59db53b4c68062f2f678c1"
+    },
+    {
+      "key": "coyote-terms",
+      "url": "https://www.campcoyote.mx/terminos-y-condiciones",
+      "checked_at": "2026-11-06T11:16:36.763883+00:00",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "barca-cr",
+      "url": "https://barcaacademycampscostarica.com/camps-costa-rica/",
+      "checked_at": "2026-11-06T11:16:36.763998+00:00",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "barca-official",
+      "url": "https://barcaacademy.fcbarcelona.com/en/camps/camps-world",
+      "checked_at": "2026-11-06T11:16:36.764078+00:00",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "roborave-pv",
+      "url": "https://www.roboraveinternational.org/en/events/roborave-puerto-vallarta-open-2027",
+      "checked_at": "2026-11-06T11:16:36.764353+00:00",
+      "status": 200,
+      "final_url": "https://www.roboraveinternational.org/en/events/roborave-puerto-vallarta-open-2027",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 98981,
+      "sha256": "4a69c33492b32951d6fa0b4de45ca0c506fe42c016f65d87f81ac86937a5ad7e"
+    },
+    {
+      "key": "roborave-gto",
+      "url": "https://www.roboraveinternational.org/en/events/roborave-guanajuato-open-2027",
+      "checked_at": "2026-11-06T11:16:37.430355+00:00",
+      "status": 200,
+      "final_url": "https://www.roboraveinternational.org/en/events/roborave-guanajuato-open-2027",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 68894,
+      "sha256": "24f2e8e78ec8e656d5806960329aad7b069de897c41dbfdfe8ce60a3cdb320e4"
+    },
+    {
+      "key": "fll-cr",
+      "url": "https://fundacionsteam.org/cmsevents/festival-nacional-de-robotica/",
+      "checked_at": "2026-11-06T11:16:37.499962+00:00",
+      "status": 200,
+      "final_url": "https://fundacionsteam.org/cmsevents/festival-nacional-de-robotica/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 151150,
+      "sha256": "fcc009d2b7704fae0f0cb5781166fb1175355e36903dd66ce4535e80ce913ce2"
+    },
+    {
+      "key": "fod-winter",
+      "url": "https://survey.zohopublic.com/zs/SjzWbS",
+      "checked_at": "2026-11-06T11:16:37.747265+00:00",
+      "error": "HTTP Error 502: Bad Gateway"
+    },
+    {
+      "key": "centrobot",
+      "url": "https://www.tecnikidscr.com/",
+      "checked_at": "2026-11-06T11:16:38.106546+00:00",
+      "status": 200,
+      "final_url": "https://www.tecnikidscr.com/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 73414,
+      "sha256": "a6342cf852d635240152f6a7c15d700830d920887795561b7ff19f18aea794a5"
+    },
+    {
+      "key": "smart-expo",
+      "url": "https://smarttechnologyexpo.mx/",
+      "checked_at": "2026-11-06T11:16:38.174587+00:00",
+      "status": 200,
+      "final_url": "https://smarttechnologyexpo.mx/",
+      "content_type": "text/html",
+      "bytes": 118970,
+      "sha256": "de458c71c9dc686efe86f38b2ab80e4d78eb9968b6429357f10b0f0ee735f184"
+    },
+    {
+      "key": "expo-manufactura",
+      "url": "https://expomanufactura.com.mx/",
+      "checked_at": "2026-11-06T11:16:38.388714+00:00",
+      "status": 200,
+      "final_url": "https://expomanufactura.com.mx/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 789102,
+      "sha256": "7122272b155db9bbbc7e62c9e442d460e82abb7300b9c4a61fa9fa830d683050"
+    },
+    {
+      "key": "fod-winter-retry",
+      "url": "https://survey.zohopublic.com/zs/SjzWbS",
+      "checked_at": "2026-11-06T11:18:09.000829+00:00",
+      "status": 200,
+      "final_url": "https://survey.zohopublic.com/zs/SjzWbS",
+      "content_type": "text/html;charset=UTF-8",
+      "bytes": 321756,
+      "sha256": "deeb11c77249c40991d849c40b1295cc432ccc28a05ebeed38110b334bfeff95"
+    },
+    {
+      "key": "roborave-events",
+      "url": "https://roboraveinternational.org/eventos",
+      "checked_at": "2026-11-06T11:18:09.001468+00:00",
+      "status": 200,
+      "final_url": "https://roboraveinternational.org/eventos",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 141291,
+      "sha256": "c3a4ecd307821d60a931496d59d9b8f07dd8e3aa66a846de93554b0f7969b6d8"
+    },
+    {
+      "key": "roborave-ruta",
+      "url": "https://roboraveinternational.org/eventos/roborave-ruta-cientifica-puerto-vallarta-2027",
+      "checked_at": "2026-11-06T11:18:09.001568+00:00",
+      "status": 200,
+      "final_url": "https://roboraveinternational.org/eventos/roborave-ruta-cientifica-puerto-vallarta-2027",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 94674,
+      "sha256": "59bf93791f47e93c04d7bfbdc6d873282d8cddcebaec82667d5f3ea5d87fccaa"
+    },
+    {
+      "key": "astro-grecia",
+      "url": "https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/",
+      "checked_at": "2026-11-06T11:19:53.455411+00:00",
+      "status": 200,
+      "final_url": "https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 323850,
+      "sha256": "9d7c25a8585a204b2db5d7a354fc6cabb238efffc950c00ed2de6e4b81958213"
+    },
+    {
+      "key": "astro-home",
+      "url": "https://www.giorodriguez.com/",
+      "checked_at": "2026-11-06T11:19:53.455775+00:00",
+      "status": 200,
+      "final_url": "https://www.giorodriguez.com/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 323102,
+      "sha256": "ccd6701f2c8f1546ad4d05f97980be808d26d7249376e75e468860804ac7201d"
+    },
+    {
+      "key": "barca-club",
+      "url": "https://barcaacademy.fcbarcelona.com/en/camps/",
+      "checked_at": "2026-11-06T11:19:53.455867+00:00",
+      "status": 200,
+      "final_url": "https://barcaacademy.fcbarcelona.com/en/camps/",
+      "content_type": "text/html;charset=utf-8",
+      "bytes": 134450,
+      "sha256": "82a3ebfa1ee65cd86ed443f67335410cfe8580fe86801597cb62ea5d038f98cf"
+    },
+    {
+      "key": "tecnikids-expo",
+      "url": "https://www.tecnikidscr.com/expo-steam-2026",
+      "checked_at": "2026-11-06T11:19:53.455935+00:00",
+      "status": 200,
+      "final_url": "https://www.tecnikidscr.com/expo-steam-2026",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 91429,
+      "sha256": "fd24a84d60706bb09be8860047b73d72c206d3549d5c0179751ed3b07b62e39b"
+    },
+    {
+      "key": "smart-expo-register",
+      "url": "https://smarttechnologyexpo.mx/registro",
+      "checked_at": "2026-11-06T11:19:53.456171+00:00",
+      "status": 200,
+      "final_url": "https://smarttechnologyexpo.mx/registro/",
+      "content_type": "text/html",
+      "bytes": 22590,
+      "sha256": "2c7a06c9f9b5db2d0bfb30eb55aaa878c80d8a0525817f87363c822d179b6643"
+    },
+    {
+      "key": "manufactura-visit",
+      "url": "https://expomanufactura.com.mx/visitantes/pre-registrate-para-asistir-en-2027/",
+      "checked_at": "2026-11-06T11:19:53.618953+00:00",
+      "status": 200,
+      "final_url": "https://expomanufactura.com.mx/visitantes/pre-registrate-para-asistir-en-2027/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 791785,
+      "sha256": "c365702af1f82f8c49bc55a6681f2ec044662ddd8c041a937d3ed8e59dd59159"
+    }
+  ],
+  "recovered_transient_FOD_502_with_successful_GET": true,
+  "primary_indexed_reader": {
+    "url": "https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/",
+    "sha256": "7b665ab8d353a77ea7947ce37cb8bbcf68e6322c8f73edb567e3c30d3ab60c7f",
+    "crawl_age_reported": "5 days",
+    "live_direct_GET_takes_precedence": true
+  },
+  "all_requests_get_only": true,
+  "no_forms_submitted": true,
+  "raw_source_bodies_private": true
+}

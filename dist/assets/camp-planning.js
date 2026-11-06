@@ -8,6 +8,31 @@
   function periods(p){return (p.sessions||p.timing?.sessions||[]).filter(s=>Array.isArray(s)&&/^\d{4}-\d{2}-\d{2}$/.test(s[0])&&/^\d{4}-\d{2}-\d{2}$/.test(s[1]));}
   function matchesMonth(p,month){if(!month)return true;if(!/^\d{4}-(0[1-9]|1[0-2])$/.test(month))return false;const first=month+'-01';const end=new Date(Date.UTC(Number(month.slice(0,4)),Number(month.slice(5,7)),0)).toISOString().slice(0,10);return periods(p).some(([s,e])=>s<=end&&e>=first)||(p.timing?.announced_months||[]).includes(month);}
   function nextDate(p,day=today()){const dates=periods(p).filter(([,end])=>end>=day).map(([start])=>start<day?day:start);return dates.sort()[0]||'9999-12-31';}
+  function pairedSessions(profiles,month='',day=today()){
+    const slots=new Map(),out=[],seen=new Set(),eligible=(v,p,k)=>['candidate','conditional'].includes((v.family_fit||p.family_fit)?.[k]?.status);
+    const validDay=value=>/^\d{4}-\d{2}-\d{2}$/.test(value)&&Number.isFinite(Date.parse(value+'T00:00:00Z'))&&new Date(value+'T00:00:00Z').toISOString().slice(0,10)===value;
+    const zones=new Map(),validZone=zone=>{if(!zones.has(zone)){try{new Intl.DateTimeFormat('en',{timeZone:zone}).format();zones.set(zone,typeof zone==='string'&&!!zone);}catch{zones.set(zone,false);}}return zones.get(zone);};
+    for(const p of profiles){
+      const place=p.pairing;
+      if(!place?.venue_id||!place.verified_source||!place.checked||!p.iso)continue;
+      for(const v of p.timing?.session_details||[]){
+        if(v.date_scope!=='session_days'||!validDay(v.start)||!validDay(v.end)||v.start>v.end||v.start<day||!matchesMonth({sessions:[[v.start,v.end]]},month)||!v.sessions?.length)continue;
+        if(['closed','waitlist','not_open_yet','unavailable_online'].includes((v.availability||p.availability)?.status))continue;
+        const times=v.sessions.map(s=>[s.date,s.start_time,s.end_time,s.timezone]).sort((a,b)=>a[0].localeCompare(b[0]));
+        if(times.some(([date,start,end,zone])=>!validDay(date)||date<v.start||date>v.end||!/^([01]\d|2[0-3]):[0-5]\d$/.test(start)||!/^([01]\d|2[0-3]):[0-5]\d$/.test(end)||start>=end||!validZone(zone))||new Set(times.map(s=>s[0])).size!==times.length)continue;
+        const key=p.iso+'|'+place.venue_id+'|'+JSON.stringify(times),a=slots.get(key)||[];a.push({profile:p,variant:v,times});slots.set(key,a);
+      }
+    }
+    for(const a of slots.values())for(const matvey of a)for(const oscar of a){
+      const mp=matvey.profile,op=oscar.profile;
+      if(mp.id===op.id||!eligible(matvey.variant,mp,'matvey')||!eligible(oscar.variant,op,'oscar'))continue;
+      const key=mp.id+'|'+op.id+'|'+mp.pairing.venue_id+'|'+JSON.stringify(matvey.times);if(seen.has(key))continue;seen.add(key);
+      const mf=mp.pairing.fee,of=op.pairing.fee;
+      const price=mf?.unit==='per_child_course'&&of?.unit==='per_child_course'&&mf.currency===of.currency&&number(mf.amount)!=null&&number(of.amount)!=null?{amount:number(mf.amount)+number(of.amount),currency:mf.currency,tax_included:mf.tax_included===true&&of.tax_included===true}:null;
+      out.push({matvey,oscar,start:matvey.times[0][0],end:matvey.times.at(-1)[0],venue:mp.place,iso:mp.iso,price});
+    }
+    return out.sort((a,b)=>a.start.localeCompare(b.start)||a.matvey.profile.id.localeCompare(b.matvey.profile.id));
+  }
   function searchText(p){if(!searchCache.has(p))searchCache.set(p,JSON.stringify(p).toLocaleLowerCase('ru'));return searchCache.get(p);}
   function sortProfiles(profiles,sort,child,day=today()){
     const a=profiles.slice();const value={candidate:2,conditional:1,later:0,unknown:0,not_eligible:-1};
@@ -62,5 +87,5 @@
     renderForm();
     return {panel,open(slug,month){const a=data.offers.filter(o=>o.slug===slug);offer=a.find(o=>matchesMonth(o,month))||a[0];if(!offer)return;panel.querySelector('[data-budget-offer]').value=offer.id;renderForm();panel.open=true;panel.scrollIntoView({behavior:window.matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth',block:'start'});panel.querySelector('[data-budget-offer]').focus({preventScroll:true});}};
   }
-  window.STEM_CAMP_PLANNER={today,periods,matchesMonth,nextDate,searchText,sortProfiles,filterURL,readFilters,estimate,mountBudget};
+  window.STEM_CAMP_PLANNER={today,periods,matchesMonth,nextDate,pairedSessions,searchText,sortProfiles,filterURL,readFilters,estimate,mountBudget};
 })();

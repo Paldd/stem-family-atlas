@@ -30,11 +30,11 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1435,
+    "dossiers": 1437,
     "countries": 75,
     "swiss": 137,
     "by_status": {
-      "published_2026_27": 189,
+      "published_2026_27": 191,
       "published_2027": 351,
       "partial_2027": 127,
       "next_unannounced": 290,
@@ -47,7 +47,7 @@
       "historical_2026_next_season_unknown": 1,
       "announced_dates_programme_pending": 1
     },
-    "source_urls": 2092
+    "source_urls": 2093
   },
   "countries": [
     {
@@ -172,7 +172,7 @@
     },
     {
       "country": "Costa Rica",
-      "count": 42
+      "count": 44
     },
     {
       "country": "Kuwait",
@@ -83641,7 +83641,12 @@
             "label": "Autumn · 4 días 3 noches",
             "price": "MXN4 000/niño; dos 7 200; el adelanto 1 200 entra en el precio",
             "source": "https://www.campcoyote.mx/",
-            "place": "Km15 Carr. Zapotlanejo–Tototlán, Zapotlanejo, Jalisco"
+            "place": "Km15 Carr. Zapotlanejo–Tototlán, Zapotlanejo, Jalisco",
+            "availability": {
+              "status": "closed",
+              "label": "Otoño 2026 terminado; edición nueva aún sin fecha.",
+              "checked": "2026-11-06"
+            }
           },
           {
             "start": "2026-12-21",
@@ -83650,7 +83655,17 @@
             "label": "Invierno 3 días 2 noches",
             "price": "MXN3 300/niños; early2 805 hasta 20 Nov; dos 5 940 sin early; adelanto 990",
             "source": "https://www.campcoyote.mx/",
-            "place": "Km15 Carr. Zapotlanejo–Tototlán, Zapotlanejo, Jalisco"
+            "place": "Km15 Carr. Zapotlanejo–Tototlán, Zapotlanejo, Jalisco",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Para esta fecha edad 9–9; curso 6–14. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Para esta fecha edad 6–6; curso 6–14. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
+              }
+            }
           }
         ],
         "variant_keyed": true,
@@ -83667,11 +83682,11 @@
       "family_fit": {
         "matvey": {
           "status": "conditional",
-          "detail": "en el 2026 edad 8–9 se incluye en 6–14; lenguaje, lugar y alojamiento acordar."
+          "detail": "Para esta fecha edad 9–9; curso 6–14. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
         },
         "oscar": {
           "status": "conditional",
-          "detail": "sólo después 6-años: en el 2026 ¿Qué es lo que va a ser? 5–6. Necesitamos una precisión. DOB y el acuerdo de las noches/lenguaje."
+          "detail": "Para esta fecha edad 6–6; curso 6–14. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
         }
       },
       "editorial_reason": "una pequeña pensión común cerca de Guadalajara; candidato a los Oscar después de los 6 años.",
@@ -83687,7 +83702,7 @@
         {
           "title": "Las propias estaciones, precios dinámicos y FAQ abiertos",
           "url": "https://www.campcoyote.mx/",
-          "checked": "2026-10-05"
+          "checked": "2026-11-06"
         },
         {
           "title": "Read-only Autumn form",
@@ -83700,7 +83715,7 @@
           "checked": "2026-10-05"
         }
       ],
-      "checked": "2026-10-05",
+      "checked": "2026-11-06",
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -141139,12 +141154,12 @@
             "age": "6–8 años según opción del formulario",
             "family_fit": {
               "matvey": {
-                "status": "conditional",
-                "detail": "Al inicio puede tener 8–9 años; curso 6–8. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte."
+                "status": "not_eligible",
+                "detail": "Para esta fecha edad 9–9; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
               },
               "oscar": {
                 "status": "conditional",
-                "detail": "Al inicio puede tener 5–6 años; curso 6–8. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte."
+                "detail": "Para esta fecha edad 6–6; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
               }
             },
             "date_scope": "session_days",
@@ -141202,11 +141217,11 @@
             "family_fit": {
               "matvey": {
                 "status": "not_eligible",
-                "detail": "Al inicio puede tener 9–10 años; curso 6–8. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte."
+                "detail": "Para esta fecha edad 9–10; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
               },
               "oscar": {
                 "status": "conditional",
-                "detail": "Al inicio puede tener 6–7 años; curso 6–8. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte."
+                "detail": "Para esta fecha edad 6–7; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
               }
             },
             "date_scope": "session_days",
@@ -141264,11 +141279,11 @@
             "family_fit": {
               "matvey": {
                 "status": "not_eligible",
-                "detail": "Al inicio puede tener 9–10 años; curso 6–8. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte."
+                "detail": "Para esta fecha edad 9–10; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
               },
               "oscar": {
                 "status": "conditional",
-                "detail": "Al inicio puede tener 6–7 años; curso 6–8. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte."
+                "detail": "Para esta fecha edad 6–7; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
               }
             },
             "date_scope": "session_days",
@@ -141334,12 +141349,12 @@
       "accommodation": "Curso diurno en sede central FOD; sin alojamiento nocturno.",
       "family_fit": {
         "matvey": {
-          "status": "conditional",
-          "detail": "Admisión por sesión en calendario: edad de diciembre y enero puede variar. Confirmar idioma, nivel y aceptación."
+          "status": "not_eligible",
+          "detail": "Edad revisada por turno con edades actuales conocidas de 9 y 6. Grupos de edades distintas pueden coincidir en sede y horario; apertura y ambas plazas aparte."
         },
         "oscar": {
           "status": "conditional",
-          "detail": "Admisión por sesión en calendario: edad de diciembre y enero puede variar. Confirmar idioma, nivel y aceptación."
+          "detail": "Edad revisada por turno con edades actuales conocidas de 9 y 6. Grupos de edades distintas pueden coincidir en sede y horario; apertura y ambas plazas aparte."
         }
       },
       "editorial_reason": "Opción próxima con horario y precio concretos; curso educativo, sin premio internacional ni ranking mundial demostrado.",
@@ -141358,10 +141373,21 @@
         {
           "title": "Programa público, fechas y condiciones de precio",
           "url": "https://survey.zohopublic.com/zs/SjzWbS",
-          "checked": "2026-11-04"
+          "checked": "2026-11-06"
         }
       ],
-      "checked": "2026-11-04",
+      "checked": "2026-11-06",
+      "pairing": {
+        "venue_id": "fod-central-francisco-peralta",
+        "verified_source": "https://survey.zohopublic.com/zs/SjzWbS",
+        "checked": "2026-11-06",
+        "fee": {
+          "amount": 60000,
+          "currency": "CRC",
+          "unit": "per_child_course",
+          "tax_included": true
+        }
+      },
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -141428,11 +141454,11 @@
             "family_fit": {
               "matvey": {
                 "status": "not_eligible",
-                "detail": "Al inicio puede tener 9–10 años; curso 6–8. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte."
+                "detail": "Para esta fecha edad 9–10; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
               },
               "oscar": {
                 "status": "conditional",
-                "detail": "Al inicio puede tener 6–7 años; curso 6–8. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte."
+                "detail": "Para esta fecha edad 6–7; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
               }
             },
             "date_scope": "session_days",
@@ -141499,11 +141525,11 @@
       "family_fit": {
         "matvey": {
           "status": "not_eligible",
-          "detail": "Admisión por sesión en calendario: edad de diciembre y enero puede variar. Confirmar idioma, nivel y aceptación."
+          "detail": "Edad revisada por turno con edades actuales conocidas de 9 y 6. Grupos de edades distintas pueden coincidir en sede y horario; apertura y ambas plazas aparte."
         },
         "oscar": {
           "status": "conditional",
-          "detail": "Admisión por sesión en calendario: edad de diciembre y enero puede variar. Confirmar idioma, nivel y aceptación."
+          "detail": "Edad revisada por turno con edades actuales conocidas de 9 y 6. Grupos de edades distintas pueden coincidir en sede y horario; apertura y ambas plazas aparte."
         }
       },
       "editorial_reason": "Opción próxima con horario y precio concretos; curso educativo, sin premio internacional ni ranking mundial demostrado.",
@@ -141522,10 +141548,21 @@
         {
           "title": "Programa público, fechas y condiciones de precio",
           "url": "https://survey.zohopublic.com/zs/SjzWbS",
-          "checked": "2026-11-04"
+          "checked": "2026-11-06"
         }
       ],
-      "checked": "2026-11-04",
+      "checked": "2026-11-06",
+      "pairing": {
+        "venue_id": "fod-central-francisco-peralta",
+        "verified_source": "https://survey.zohopublic.com/zs/SjzWbS",
+        "checked": "2026-11-06",
+        "fee": {
+          "amount": 60000,
+          "currency": "CRC",
+          "unit": "per_child_course",
+          "tax_included": true
+        }
+      },
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -141576,11 +141613,11 @@
             "family_fit": {
               "matvey": {
                 "status": "conditional",
-                "detail": "Al inicio puede tener 9–10 años; curso 7–9. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte."
+                "detail": "Para esta fecha edad 9–10; curso 7–9. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
               },
               "oscar": {
                 "status": "conditional",
-                "detail": "Al inicio puede tener 6–7 años; curso 7–9. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte."
+                "detail": "Para esta fecha edad 6–7; curso 7–9. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
               }
             },
             "date_scope": "session_days",
@@ -141647,11 +141684,11 @@
       "family_fit": {
         "matvey": {
           "status": "conditional",
-          "detail": "Admisión por sesión en calendario: edad de diciembre y enero puede variar. Confirmar idioma, nivel y aceptación."
+          "detail": "Edad revisada por turno con edades actuales conocidas de 9 y 6. Grupos de edades distintas pueden coincidir en sede y horario; apertura y ambas plazas aparte."
         },
         "oscar": {
           "status": "conditional",
-          "detail": "Admisión por sesión en calendario: edad de diciembre y enero puede variar. Confirmar idioma, nivel y aceptación."
+          "detail": "Edad revisada por turno con edades actuales conocidas de 9 y 6. Grupos de edades distintas pueden coincidir en sede y horario; apertura y ambas plazas aparte."
         }
       },
       "editorial_reason": "Opción próxima con horario y precio concretos; curso educativo, sin premio internacional ni ranking mundial demostrado.",
@@ -141670,10 +141707,21 @@
         {
           "title": "Programa público, fechas y condiciones de precio",
           "url": "https://survey.zohopublic.com/zs/SjzWbS",
-          "checked": "2026-11-04"
+          "checked": "2026-11-06"
         }
       ],
-      "checked": "2026-11-04",
+      "checked": "2026-11-06",
+      "pairing": {
+        "venue_id": "fod-central-francisco-peralta",
+        "verified_source": "https://survey.zohopublic.com/zs/SjzWbS",
+        "checked": "2026-11-06",
+        "fee": {
+          "amount": 60000,
+          "currency": "CRC",
+          "unit": "per_child_course",
+          "tax_included": true
+        }
+      },
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -141728,11 +141776,11 @@
             "family_fit": {
               "matvey": {
                 "status": "conditional",
-                "detail": "Al inicio puede tener 8–9 años; curso 9–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte."
+                "detail": "Para esta fecha edad 9–9; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
               },
               "oscar": {
                 "status": "later",
-                "detail": "Al inicio puede tener 5–6 años; curso 9–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte."
+                "detail": "Para esta fecha edad 6–6; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
               }
             },
             "date_scope": "session_days",
@@ -141790,11 +141838,11 @@
             "family_fit": {
               "matvey": {
                 "status": "conditional",
-                "detail": "Al inicio puede tener 9–10 años; curso 9–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte."
+                "detail": "Para esta fecha edad 9–10; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
               },
               "oscar": {
                 "status": "later",
-                "detail": "Al inicio puede tener 6–7 años; curso 9–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte."
+                "detail": "Para esta fecha edad 6–7; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
               }
             },
             "date_scope": "session_days",
@@ -141861,11 +141909,11 @@
       "family_fit": {
         "matvey": {
           "status": "conditional",
-          "detail": "Admisión por sesión en calendario: edad de diciembre y enero puede variar. Confirmar idioma, nivel y aceptación."
+          "detail": "Edad revisada por turno con edades actuales conocidas de 9 y 6. Grupos de edades distintas pueden coincidir en sede y horario; apertura y ambas plazas aparte."
         },
         "oscar": {
           "status": "later",
-          "detail": "Admisión por sesión en calendario: edad de diciembre y enero puede variar. Confirmar idioma, nivel y aceptación."
+          "detail": "Edad revisada por turno con edades actuales conocidas de 9 y 6. Grupos de edades distintas pueden coincidir en sede y horario; apertura y ambas plazas aparte."
         }
       },
       "editorial_reason": "Opción próxima con horario y precio concretos; curso educativo, sin premio internacional ni ranking mundial demostrado.",
@@ -141884,10 +141932,21 @@
         {
           "title": "Programa público, fechas y condiciones de precio",
           "url": "https://survey.zohopublic.com/zs/SjzWbS",
-          "checked": "2026-11-04"
+          "checked": "2026-11-06"
         }
       ],
-      "checked": "2026-11-04",
+      "checked": "2026-11-06",
+      "pairing": {
+        "venue_id": "fod-central-francisco-peralta",
+        "verified_source": "https://survey.zohopublic.com/zs/SjzWbS",
+        "checked": "2026-11-06",
+        "fee": {
+          "amount": 60000,
+          "currency": "CRC",
+          "unit": "per_child_course",
+          "tax_included": true
+        }
+      },
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -141946,11 +142005,11 @@
             "family_fit": {
               "matvey": {
                 "status": "conditional",
-                "detail": "Al inicio puede tener 9–10 años; curso 9–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte."
+                "detail": "Para esta fecha edad 9–10; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
               },
               "oscar": {
                 "status": "later",
-                "detail": "Al inicio puede tener 6–7 años; curso 9–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte."
+                "detail": "Para esta fecha edad 6–7; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
               }
             },
             "date_scope": "session_days",
@@ -142017,11 +142076,11 @@
       "family_fit": {
         "matvey": {
           "status": "conditional",
-          "detail": "Admisión por sesión en calendario: edad de diciembre y enero puede variar. Confirmar idioma, nivel y aceptación."
+          "detail": "Edad revisada por turno con edades actuales conocidas de 9 y 6. Grupos de edades distintas pueden coincidir en sede y horario; apertura y ambas plazas aparte."
         },
         "oscar": {
           "status": "later",
-          "detail": "Admisión por sesión en calendario: edad de diciembre y enero puede variar. Confirmar idioma, nivel y aceptación."
+          "detail": "Edad revisada por turno con edades actuales conocidas de 9 y 6. Grupos de edades distintas pueden coincidir en sede y horario; apertura y ambas plazas aparte."
         }
       },
       "editorial_reason": "Opción próxima con horario y precio concretos; curso educativo, sin premio internacional ni ranking mundial demostrado.",
@@ -142040,10 +142099,21 @@
         {
           "title": "Programa público, fechas y condiciones de precio",
           "url": "https://survey.zohopublic.com/zs/SjzWbS",
-          "checked": "2026-11-04"
+          "checked": "2026-11-06"
         }
       ],
-      "checked": "2026-11-04",
+      "checked": "2026-11-06",
+      "pairing": {
+        "venue_id": "fod-central-francisco-peralta",
+        "verified_source": "https://survey.zohopublic.com/zs/SjzWbS",
+        "checked": "2026-11-06",
+        "fee": {
+          "amount": 60000,
+          "currency": "CRC",
+          "unit": "per_child_course",
+          "tax_included": true
+        }
+      },
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -142094,11 +142164,11 @@
             "family_fit": {
               "matvey": {
                 "status": "conditional",
-                "detail": "Al inicio puede tener 9–10 años; curso 9–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte."
+                "detail": "Para esta fecha edad 9–10; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
               },
               "oscar": {
                 "status": "later",
-                "detail": "Al inicio puede tener 6–7 años; curso 9–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte."
+                "detail": "Para esta fecha edad 6–7; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
               }
             },
             "date_scope": "session_days",
@@ -142165,11 +142235,11 @@
       "family_fit": {
         "matvey": {
           "status": "conditional",
-          "detail": "Admisión por sesión en calendario: edad de diciembre y enero puede variar. Confirmar idioma, nivel y aceptación."
+          "detail": "Edad revisada por turno con edades actuales conocidas de 9 y 6. Grupos de edades distintas pueden coincidir en sede y horario; apertura y ambas plazas aparte."
         },
         "oscar": {
           "status": "later",
-          "detail": "Admisión por sesión en calendario: edad de diciembre y enero puede variar. Confirmar idioma, nivel y aceptación."
+          "detail": "Edad revisada por turno con edades actuales conocidas de 9 y 6. Grupos de edades distintas pueden coincidir en sede y horario; apertura y ambas plazas aparte."
         }
       },
       "editorial_reason": "Opción próxima con horario y precio concretos; curso educativo, sin premio internacional ni ranking mundial demostrado.",
@@ -142188,10 +142258,21 @@
         {
           "title": "Programa público, fechas y condiciones de precio",
           "url": "https://survey.zohopublic.com/zs/SjzWbS",
-          "checked": "2026-11-04"
+          "checked": "2026-11-06"
         }
       ],
-      "checked": "2026-11-04",
+      "checked": "2026-11-06",
+      "pairing": {
+        "venue_id": "fod-central-francisco-peralta",
+        "verified_source": "https://survey.zohopublic.com/zs/SjzWbS",
+        "checked": "2026-11-06",
+        "fee": {
+          "amount": 60000,
+          "currency": "CRC",
+          "unit": "per_child_course",
+          "tax_included": true
+        }
+      },
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -142242,11 +142323,11 @@
             "family_fit": {
               "matvey": {
                 "status": "conditional",
-                "detail": "Al inicio puede tener 9–10 años; curso 9–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte."
+                "detail": "Para esta fecha edad 9–10; curso 9–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
               },
               "oscar": {
                 "status": "later",
-                "detail": "Al inicio puede tener 6–7 años; curso 9–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte."
+                "detail": "Para esta fecha edad 6–7; curso 9–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
               }
             },
             "date_scope": "session_days",
@@ -142313,11 +142394,11 @@
       "family_fit": {
         "matvey": {
           "status": "conditional",
-          "detail": "Admisión por sesión en calendario: edad de diciembre y enero puede variar. Confirmar idioma, nivel y aceptación."
+          "detail": "Edad revisada por turno con edades actuales conocidas de 9 y 6. Grupos de edades distintas pueden coincidir en sede y horario; apertura y ambas plazas aparte."
         },
         "oscar": {
           "status": "later",
-          "detail": "Admisión por sesión en calendario: edad de diciembre y enero puede variar. Confirmar idioma, nivel y aceptación."
+          "detail": "Edad revisada por turno con edades actuales conocidas de 9 y 6. Grupos de edades distintas pueden coincidir en sede y horario; apertura y ambas plazas aparte."
         }
       },
       "editorial_reason": "Opción próxima con horario y precio concretos; curso educativo, sin premio internacional ni ranking mundial demostrado.",
@@ -142336,10 +142417,21 @@
         {
           "title": "Programa público, fechas y condiciones de precio",
           "url": "https://survey.zohopublic.com/zs/SjzWbS",
-          "checked": "2026-11-04"
+          "checked": "2026-11-06"
         }
       ],
-      "checked": "2026-11-04",
+      "checked": "2026-11-06",
+      "pairing": {
+        "venue_id": "fod-central-francisco-peralta",
+        "verified_source": "https://survey.zohopublic.com/zs/SjzWbS",
+        "checked": "2026-11-06",
+        "fee": {
+          "amount": 60000,
+          "currency": "CRC",
+          "unit": "per_child_course",
+          "tax_included": true
+        }
+      },
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -142390,11 +142482,11 @@
             "family_fit": {
               "matvey": {
                 "status": "conditional",
-                "detail": "Al inicio puede tener 9–10 años; curso 10–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte."
+                "detail": "Para esta fecha edad 9–10; curso 10–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
               },
               "oscar": {
                 "status": "later",
-                "detail": "Al inicio puede tener 6–7 años; curso 10–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte."
+                "detail": "Para esta fecha edad 6–7; curso 10–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
               }
             },
             "date_scope": "session_days",
@@ -142461,11 +142553,11 @@
       "family_fit": {
         "matvey": {
           "status": "conditional",
-          "detail": "Admisión por sesión en calendario: edad de diciembre y enero puede variar. Confirmar idioma, nivel y aceptación."
+          "detail": "Edad revisada por turno con edades actuales conocidas de 9 y 6. Grupos de edades distintas pueden coincidir en sede y horario; apertura y ambas plazas aparte."
         },
         "oscar": {
           "status": "later",
-          "detail": "Admisión por sesión en calendario: edad de diciembre y enero puede variar. Confirmar idioma, nivel y aceptación."
+          "detail": "Edad revisada por turno con edades actuales conocidas de 9 y 6. Grupos de edades distintas pueden coincidir en sede y horario; apertura y ambas plazas aparte."
         }
       },
       "editorial_reason": "Opción próxima con horario y precio concretos; curso educativo, sin premio internacional ni ranking mundial demostrado.",
@@ -142484,10 +142576,21 @@
         {
           "title": "Programa público, fechas y condiciones de precio",
           "url": "https://survey.zohopublic.com/zs/SjzWbS",
-          "checked": "2026-11-04"
+          "checked": "2026-11-06"
         }
       ],
-      "checked": "2026-11-04",
+      "checked": "2026-11-06",
+      "pairing": {
+        "venue_id": "fod-central-francisco-peralta",
+        "verified_source": "https://survey.zohopublic.com/zs/SjzWbS",
+        "checked": "2026-11-06",
+        "fee": {
+          "amount": 60000,
+          "currency": "CRC",
+          "unit": "per_child_course",
+          "tax_included": true
+        }
+      },
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -142546,11 +142649,11 @@
             "family_fit": {
               "matvey": {
                 "status": "later",
-                "detail": "Al inicio puede tener 8–9 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte."
+                "detail": "Para esta fecha edad 9–9; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
               },
               "oscar": {
                 "status": "later",
-                "detail": "Al inicio puede tener 5–6 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte."
+                "detail": "Para esta fecha edad 6–6; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
               }
             },
             "date_scope": "session_days",
@@ -142608,11 +142711,11 @@
             "family_fit": {
               "matvey": {
                 "status": "later",
-                "detail": "Al inicio puede tener 9–10 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte."
+                "detail": "Para esta fecha edad 9–10; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
               },
               "oscar": {
                 "status": "later",
-                "detail": "Al inicio puede tener 6–7 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte."
+                "detail": "Para esta fecha edad 6–7; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
               }
             },
             "date_scope": "session_days",
@@ -142670,11 +142773,11 @@
             "family_fit": {
               "matvey": {
                 "status": "later",
-                "detail": "Al inicio puede tener 9–10 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte."
+                "detail": "Para esta fecha edad 9–10; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
               },
               "oscar": {
                 "status": "later",
-                "detail": "Al inicio puede tener 6–7 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte."
+                "detail": "Para esta fecha edad 6–7; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
               }
             },
             "date_scope": "session_days",
@@ -142741,11 +142844,11 @@
       "family_fit": {
         "matvey": {
           "status": "later",
-          "detail": "Admisión por sesión en calendario: edad de diciembre y enero puede variar. Confirmar idioma, nivel y aceptación."
+          "detail": "Edad revisada por turno con edades actuales conocidas de 9 y 6. Grupos de edades distintas pueden coincidir en sede y horario; apertura y ambas plazas aparte."
         },
         "oscar": {
           "status": "later",
-          "detail": "Admisión por sesión en calendario: edad de diciembre y enero puede variar. Confirmar idioma, nivel y aceptación."
+          "detail": "Edad revisada por turno con edades actuales conocidas de 9 y 6. Grupos de edades distintas pueden coincidir en sede y horario; apertura y ambas plazas aparte."
         }
       },
       "editorial_reason": "Opción próxima con horario y precio concretos; curso educativo, sin premio internacional ni ranking mundial demostrado.",
@@ -142764,10 +142867,21 @@
         {
           "title": "Programa público, fechas y condiciones de precio",
           "url": "https://survey.zohopublic.com/zs/SjzWbS",
-          "checked": "2026-11-04"
+          "checked": "2026-11-06"
         }
       ],
-      "checked": "2026-11-04",
+      "checked": "2026-11-06",
+      "pairing": {
+        "venue_id": "fod-central-francisco-peralta",
+        "verified_source": "https://survey.zohopublic.com/zs/SjzWbS",
+        "checked": "2026-11-06",
+        "fee": {
+          "amount": 60000,
+          "currency": "CRC",
+          "unit": "per_child_course",
+          "tax_included": true
+        }
+      },
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -142834,11 +142948,11 @@
             "family_fit": {
               "matvey": {
                 "status": "later",
-                "detail": "Al inicio puede tener 9–10 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte."
+                "detail": "Para esta fecha edad 9–10; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
               },
               "oscar": {
                 "status": "later",
-                "detail": "Al inicio puede tener 6–7 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte."
+                "detail": "Para esta fecha edad 6–7; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
               }
             },
             "date_scope": "session_days",
@@ -142905,11 +143019,11 @@
       "family_fit": {
         "matvey": {
           "status": "later",
-          "detail": "Admisión por sesión en calendario: edad de diciembre y enero puede variar. Confirmar idioma, nivel y aceptación."
+          "detail": "Edad revisada por turno con edades actuales conocidas de 9 y 6. Grupos de edades distintas pueden coincidir en sede y horario; apertura y ambas plazas aparte."
         },
         "oscar": {
           "status": "later",
-          "detail": "Admisión por sesión en calendario: edad de diciembre y enero puede variar. Confirmar idioma, nivel y aceptación."
+          "detail": "Edad revisada por turno con edades actuales conocidas de 9 y 6. Grupos de edades distintas pueden coincidir en sede y horario; apertura y ambas plazas aparte."
         }
       },
       "editorial_reason": "Opción próxima con horario y precio concretos; curso educativo, sin premio internacional ni ranking mundial demostrado.",
@@ -142928,10 +143042,21 @@
         {
           "title": "Programa público, fechas y condiciones de precio",
           "url": "https://survey.zohopublic.com/zs/SjzWbS",
-          "checked": "2026-11-04"
+          "checked": "2026-11-06"
         }
       ],
-      "checked": "2026-11-04",
+      "checked": "2026-11-06",
+      "pairing": {
+        "venue_id": "fod-central-francisco-peralta",
+        "verified_source": "https://survey.zohopublic.com/zs/SjzWbS",
+        "checked": "2026-11-06",
+        "fee": {
+          "amount": 60000,
+          "currency": "CRC",
+          "unit": "per_child_course",
+          "tax_included": true
+        }
+      },
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -142982,11 +143107,11 @@
             "family_fit": {
               "matvey": {
                 "status": "later",
-                "detail": "Al inicio puede tener 9–10 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte."
+                "detail": "Para esta fecha edad 9–10; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
               },
               "oscar": {
                 "status": "later",
-                "detail": "Al inicio puede tener 6–7 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte."
+                "detail": "Para esta fecha edad 6–7; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
               }
             },
             "date_scope": "session_days",
@@ -143053,11 +143178,11 @@
       "family_fit": {
         "matvey": {
           "status": "later",
-          "detail": "Admisión por sesión en calendario: edad de diciembre y enero puede variar. Confirmar idioma, nivel y aceptación."
+          "detail": "Edad revisada por turno con edades actuales conocidas de 9 y 6. Grupos de edades distintas pueden coincidir en sede y horario; apertura y ambas plazas aparte."
         },
         "oscar": {
           "status": "later",
-          "detail": "Admisión por sesión en calendario: edad de diciembre y enero puede variar. Confirmar idioma, nivel y aceptación."
+          "detail": "Edad revisada por turno con edades actuales conocidas de 9 y 6. Grupos de edades distintas pueden coincidir en sede y horario; apertura y ambas plazas aparte."
         }
       },
       "editorial_reason": "Opción próxima con horario y precio concretos; curso educativo, sin premio internacional ni ranking mundial demostrado.",
@@ -143076,10 +143201,21 @@
         {
           "title": "Programa público, fechas y condiciones de precio",
           "url": "https://survey.zohopublic.com/zs/SjzWbS",
-          "checked": "2026-11-04"
+          "checked": "2026-11-06"
         }
       ],
-      "checked": "2026-11-04",
+      "checked": "2026-11-06",
+      "pairing": {
+        "venue_id": "fod-central-francisco-peralta",
+        "verified_source": "https://survey.zohopublic.com/zs/SjzWbS",
+        "checked": "2026-11-06",
+        "fee": {
+          "amount": 60000,
+          "currency": "CRC",
+          "unit": "per_child_course",
+          "tax_included": true
+        }
+      },
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -143130,11 +143266,11 @@
             "family_fit": {
               "matvey": {
                 "status": "later",
-                "detail": "Al inicio puede tener 9–10 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte."
+                "detail": "Para esta fecha edad 9–10; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
               },
               "oscar": {
                 "status": "later",
-                "detail": "Al inicio puede tener 6–7 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte."
+                "detail": "Para esta fecha edad 6–7; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
               }
             },
             "date_scope": "session_days",
@@ -143201,11 +143337,11 @@
       "family_fit": {
         "matvey": {
           "status": "later",
-          "detail": "Admisión por sesión en calendario: edad de diciembre y enero puede variar. Confirmar idioma, nivel y aceptación."
+          "detail": "Edad revisada por turno con edades actuales conocidas de 9 y 6. Grupos de edades distintas pueden coincidir en sede y horario; apertura y ambas plazas aparte."
         },
         "oscar": {
           "status": "later",
-          "detail": "Admisión por sesión en calendario: edad de diciembre y enero puede variar. Confirmar idioma, nivel y aceptación."
+          "detail": "Edad revisada por turno con edades actuales conocidas de 9 y 6. Grupos de edades distintas pueden coincidir en sede y horario; apertura y ambas plazas aparte."
         }
       },
       "editorial_reason": "Opción próxima con horario y precio concretos; curso educativo, sin premio internacional ni ranking mundial demostrado.",
@@ -143224,10 +143360,21 @@
         {
           "title": "Programa público, fechas y condiciones de precio",
           "url": "https://survey.zohopublic.com/zs/SjzWbS",
-          "checked": "2026-11-04"
+          "checked": "2026-11-06"
         }
       ],
-      "checked": "2026-11-04",
+      "checked": "2026-11-06",
+      "pairing": {
+        "venue_id": "fod-central-francisco-peralta",
+        "verified_source": "https://survey.zohopublic.com/zs/SjzWbS",
+        "checked": "2026-11-06",
+        "fee": {
+          "amount": 60000,
+          "currency": "CRC",
+          "unit": "per_child_course",
+          "tax_included": true
+        }
+      },
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -228136,6 +228283,934 @@
         "L557"
       ],
       "calendar_links": []
+    },
+    {
+      "id": "CP1436",
+      "slug": "gio-grecia-astronomy-overnight",
+      "provider": "Gio Rodríguez · Astrocamp familiar",
+      "iso": "CRI",
+      "country": "Costa Rica",
+      "place": "Ventisqueros · Santa Gertrudis Sur · Grecia",
+      "themes": [
+        "science",
+        "space",
+        "adventure"
+      ],
+      "formats": [
+        "family"
+      ],
+      "age": "familias · tarifa infantil 4–11; menores de 4 gratis",
+      "programme": "Astronomía familiar: telescopios con especialistas, planetario, cena y fogata. Ocio científico con padres; sin residencia infantil independiente, curso robótico ni medalla competitiva.",
+      "language": "Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "12 sábados separados del 12 de diciembre de 2026 al 1 de mayo de 2027; se elige fecha, no turno continuo.",
+        "sessions": [
+          [
+            "2026-12-12",
+            "2026-12-13"
+          ],
+          [
+            "2026-12-19",
+            "2026-12-20"
+          ],
+          [
+            "2027-01-02",
+            "2027-01-03"
+          ],
+          [
+            "2027-01-16",
+            "2027-01-17"
+          ],
+          [
+            "2027-02-06",
+            "2027-02-07"
+          ],
+          [
+            "2027-02-20",
+            "2027-02-21"
+          ],
+          [
+            "2027-02-27",
+            "2027-02-28"
+          ],
+          [
+            "2027-03-06",
+            "2027-03-07"
+          ],
+          [
+            "2027-03-20",
+            "2027-03-21"
+          ],
+          [
+            "2027-04-03",
+            "2027-04-04"
+          ],
+          [
+            "2027-04-17",
+            "2027-04-18"
+          ],
+          [
+            "2027-05-01",
+            "2027-05-02"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-12",
+            "end": "2026-12-13",
+            "variant_key": "overnight-20261212",
+            "label": "Noche familiar",
+            "price": "CRC 27000 por adulto / 22000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 98000 antes de IVA y suplementos elegidos.",
+            "source": "https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/",
+            "date_scope": "camp_session",
+            "accommodation": "Noche familiar en tienda del organizador; llegada sábado 17:00, final domingo 08:00. Desayuno incluido.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+              }
+            },
+            "entry": "Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos."
+          },
+          {
+            "start": "2026-12-19",
+            "end": "2026-12-20",
+            "variant_key": "overnight-20261219",
+            "label": "Noche familiar",
+            "price": "CRC 27000 por adulto / 22000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 98000 antes de IVA y suplementos elegidos.",
+            "source": "https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/",
+            "date_scope": "camp_session",
+            "accommodation": "Noche familiar en tienda del organizador; llegada sábado 17:00, final domingo 08:00. Desayuno incluido.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+              }
+            },
+            "entry": "Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos."
+          },
+          {
+            "start": "2027-01-02",
+            "end": "2027-01-03",
+            "variant_key": "overnight-20270102",
+            "label": "Noche familiar",
+            "price": "CRC 27000 por adulto / 22000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 98000 antes de IVA y suplementos elegidos.",
+            "source": "https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/",
+            "date_scope": "camp_session",
+            "accommodation": "Noche familiar en tienda del organizador; llegada sábado 17:00, final domingo 08:00. Desayuno incluido.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+              }
+            },
+            "entry": "Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos."
+          },
+          {
+            "start": "2027-01-16",
+            "end": "2027-01-17",
+            "variant_key": "overnight-20270116",
+            "label": "Noche familiar",
+            "price": "CRC 27000 por adulto / 22000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 98000 antes de IVA y suplementos elegidos.",
+            "source": "https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/",
+            "date_scope": "camp_session",
+            "accommodation": "Noche familiar en tienda del organizador; llegada sábado 17:00, final domingo 08:00. Desayuno incluido.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+              }
+            },
+            "entry": "Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos."
+          },
+          {
+            "start": "2027-02-06",
+            "end": "2027-02-07",
+            "variant_key": "overnight-20270206",
+            "label": "Noche familiar",
+            "price": "CRC 27000 por adulto / 22000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 98000 antes de IVA y suplementos elegidos.",
+            "source": "https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/",
+            "date_scope": "camp_session",
+            "accommodation": "Noche familiar en tienda del organizador; llegada sábado 17:00, final domingo 08:00. Desayuno incluido.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+              }
+            },
+            "entry": "Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos."
+          },
+          {
+            "start": "2027-02-20",
+            "end": "2027-02-21",
+            "variant_key": "overnight-20270220",
+            "label": "Noche familiar",
+            "price": "CRC 27000 por adulto / 22000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 98000 antes de IVA y suplementos elegidos.",
+            "source": "https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/",
+            "date_scope": "camp_session",
+            "accommodation": "Noche familiar en tienda del organizador; llegada sábado 17:00, final domingo 08:00. Desayuno incluido.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+              }
+            },
+            "entry": "Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos."
+          },
+          {
+            "start": "2027-02-27",
+            "end": "2027-02-28",
+            "variant_key": "overnight-20270227",
+            "label": "Noche familiar",
+            "price": "CRC 27000 por adulto / 22000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 98000 antes de IVA y suplementos elegidos.",
+            "source": "https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/",
+            "date_scope": "camp_session",
+            "accommodation": "Noche familiar en tienda del organizador; llegada sábado 17:00, final domingo 08:00. Desayuno incluido.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+              }
+            },
+            "entry": "Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos."
+          },
+          {
+            "start": "2027-03-06",
+            "end": "2027-03-07",
+            "variant_key": "overnight-20270306",
+            "label": "Noche familiar",
+            "price": "CRC 27000 por adulto / 22000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 98000 antes de IVA y suplementos elegidos.",
+            "source": "https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/",
+            "date_scope": "camp_session",
+            "accommodation": "Noche familiar en tienda del organizador; llegada sábado 17:00, final domingo 08:00. Desayuno incluido.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+              }
+            },
+            "entry": "Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos."
+          },
+          {
+            "start": "2027-03-20",
+            "end": "2027-03-21",
+            "variant_key": "overnight-20270320",
+            "label": "Noche familiar",
+            "price": "CRC 27000 por adulto / 22000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 98000 antes de IVA y suplementos elegidos.",
+            "source": "https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/",
+            "date_scope": "camp_session",
+            "accommodation": "Noche familiar en tienda del organizador; llegada sábado 17:00, final domingo 08:00. Desayuno incluido.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+              }
+            },
+            "entry": "Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos."
+          },
+          {
+            "start": "2027-04-03",
+            "end": "2027-04-04",
+            "variant_key": "overnight-20270403",
+            "label": "Noche familiar",
+            "price": "CRC 27000 por adulto / 22000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 98000 antes de IVA y suplementos elegidos.",
+            "source": "https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/",
+            "date_scope": "camp_session",
+            "accommodation": "Noche familiar en tienda del organizador; llegada sábado 17:00, final domingo 08:00. Desayuno incluido.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+              }
+            },
+            "entry": "Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos."
+          },
+          {
+            "start": "2027-04-17",
+            "end": "2027-04-18",
+            "variant_key": "overnight-20270417",
+            "label": "Noche familiar",
+            "price": "CRC 27000 por adulto / 22000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 98000 antes de IVA y suplementos elegidos.",
+            "source": "https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/",
+            "date_scope": "camp_session",
+            "accommodation": "Noche familiar en tienda del organizador; llegada sábado 17:00, final domingo 08:00. Desayuno incluido.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+              }
+            },
+            "entry": "Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos."
+          },
+          {
+            "start": "2027-05-01",
+            "end": "2027-05-02",
+            "variant_key": "overnight-20270501",
+            "label": "Noche familiar",
+            "price": "CRC 27000 por adulto / 22000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 98000 antes de IVA y suplementos elegidos.",
+            "source": "https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/",
+            "date_scope": "camp_session",
+            "accommodation": "Noche familiar en tienda del organizador; llegada sábado 17:00, final domingo 08:00. Desayuno incluido.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+              }
+            },
+            "entry": "Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "CRC",
+        "amount": null,
+        "unit": "participant",
+        "label": "CRC 27000 por adulto / 22000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 98000 antes de IVA y suplementos elegidos.",
+        "included": "Telescopios, planetario, cena y fogata; para pernocta tienda y desayuno. Confirmar alojamiento concreto de familia y menú.",
+        "extras": "IVA se añade al pagar. Saco CRC 3000 por unidad; menú vegetariano / sin gluten especial CRC 10000 por persona. Transporte y seguro aparte.",
+        "deposit": "Anticipo CRC 10000 por participante de pago incluido en precio. Saldo tres días antes; con anticipo por tarjeta web anuncia cargo automático del saldo a misma tarjeta. Con lluvia / nubes web excluye cambio y reembolso; con ráfagas superiores a 80 km/h no inflan cúpula. Sin consentimientos ni pago."
+      },
+      "accommodation": "Noche familiar en tienda del organizador; llegada sábado 17:00, final domingo 08:00. Desayuno incluido.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+        }
+      },
+      "editorial_reason": "Certificado de participación, muestra lectiva, puesto competitivo y cupo internacional son resultados distintos. Valoración editorial no es ranking mundial independiente.",
+      "shortlist": [],
+      "questions": [
+        "Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Gio Rodríguez · current programme and prices",
+          "url": "https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-12",
+          "end": "2026-12-13",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1436-20261212-20261213-overnight-20261212"
+          ]
+        },
+        {
+          "start": "2026-12-19",
+          "end": "2026-12-20",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1436-20261219-20261220-overnight-20261219"
+          ]
+        },
+        {
+          "start": "2027-01-02",
+          "end": "2027-01-03",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1436-20270102-20270103-overnight-20270102"
+          ]
+        },
+        {
+          "start": "2027-01-16",
+          "end": "2027-01-17",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1436-20270116-20270117-overnight-20270116"
+          ]
+        },
+        {
+          "start": "2027-02-06",
+          "end": "2027-02-07",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1436-20270206-20270207-overnight-20270206"
+          ]
+        },
+        {
+          "start": "2027-02-20",
+          "end": "2027-02-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1436-20270220-20270221-overnight-20270220"
+          ]
+        },
+        {
+          "start": "2027-02-27",
+          "end": "2027-02-28",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1436-20270227-20270228-overnight-20270227"
+          ]
+        },
+        {
+          "start": "2027-03-06",
+          "end": "2027-03-07",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1436-20270306-20270307-overnight-20270306"
+          ]
+        },
+        {
+          "start": "2027-03-20",
+          "end": "2027-03-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1436-20270320-20270321-overnight-20270320"
+          ]
+        },
+        {
+          "start": "2027-04-03",
+          "end": "2027-04-04",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1436-20270403-20270404-overnight-20270403"
+          ]
+        },
+        {
+          "start": "2027-04-17",
+          "end": "2027-04-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1436-20270417-20270418-overnight-20270417"
+          ]
+        },
+        {
+          "start": "2027-05-01",
+          "end": "2027-05-02",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1436-20270501-20270502-overnight-20270501"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1437",
+      "slug": "gio-grecia-astronomy-evening",
+      "provider": "Gio Rodríguez · Búho nocturno",
+      "iso": "CRI",
+      "country": "Costa Rica",
+      "place": "Ventisqueros · Santa Gertrudis Sur · Grecia",
+      "themes": [
+        "science",
+        "space",
+        "adventure"
+      ],
+      "formats": [
+        "family"
+      ],
+      "age": "familias · tarifa infantil 4–11; menores de 4 gratis",
+      "programme": "Astronomía familiar: telescopios con especialistas, planetario, cena y fogata. Ocio científico con padres; sin residencia infantil independiente, curso robótico ni medalla competitiva.",
+      "language": "Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "12 sábados separados del 12 de diciembre de 2026 al 1 de mayo de 2027; se elige fecha, no turno continuo.",
+        "sessions": [
+          [
+            "2026-12-12",
+            "2026-12-12"
+          ],
+          [
+            "2026-12-19",
+            "2026-12-19"
+          ],
+          [
+            "2027-01-02",
+            "2027-01-02"
+          ],
+          [
+            "2027-01-16",
+            "2027-01-16"
+          ],
+          [
+            "2027-02-06",
+            "2027-02-06"
+          ],
+          [
+            "2027-02-20",
+            "2027-02-20"
+          ],
+          [
+            "2027-02-27",
+            "2027-02-27"
+          ],
+          [
+            "2027-03-06",
+            "2027-03-06"
+          ],
+          [
+            "2027-03-20",
+            "2027-03-20"
+          ],
+          [
+            "2027-04-03",
+            "2027-04-03"
+          ],
+          [
+            "2027-04-17",
+            "2027-04-17"
+          ],
+          [
+            "2027-05-01",
+            "2027-05-01"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-12",
+            "end": "2026-12-12",
+            "variant_key": "evening-20261212",
+            "label": "Tarde sin pernocta",
+            "price": "CRC 17000 por adulto / 12000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 58000 antes de IVA y suplementos elegidos.",
+            "source": "https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/",
+            "date_scope": "workshop_window",
+            "accommodation": "Tarde sin pernocta; llegada 17:00, planetario 19:30. Final exacto de opción sin tienda sin establecer por separado.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+              }
+            },
+            "entry": "Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos."
+          },
+          {
+            "start": "2026-12-19",
+            "end": "2026-12-19",
+            "variant_key": "evening-20261219",
+            "label": "Tarde sin pernocta",
+            "price": "CRC 17000 por adulto / 12000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 58000 antes de IVA y suplementos elegidos.",
+            "source": "https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/",
+            "date_scope": "workshop_window",
+            "accommodation": "Tarde sin pernocta; llegada 17:00, planetario 19:30. Final exacto de opción sin tienda sin establecer por separado.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+              }
+            },
+            "entry": "Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos."
+          },
+          {
+            "start": "2027-01-02",
+            "end": "2027-01-02",
+            "variant_key": "evening-20270102",
+            "label": "Tarde sin pernocta",
+            "price": "CRC 17000 por adulto / 12000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 58000 antes de IVA y suplementos elegidos.",
+            "source": "https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/",
+            "date_scope": "workshop_window",
+            "accommodation": "Tarde sin pernocta; llegada 17:00, planetario 19:30. Final exacto de opción sin tienda sin establecer por separado.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+              }
+            },
+            "entry": "Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos."
+          },
+          {
+            "start": "2027-01-16",
+            "end": "2027-01-16",
+            "variant_key": "evening-20270116",
+            "label": "Tarde sin pernocta",
+            "price": "CRC 17000 por adulto / 12000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 58000 antes de IVA y suplementos elegidos.",
+            "source": "https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/",
+            "date_scope": "workshop_window",
+            "accommodation": "Tarde sin pernocta; llegada 17:00, planetario 19:30. Final exacto de opción sin tienda sin establecer por separado.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+              }
+            },
+            "entry": "Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos."
+          },
+          {
+            "start": "2027-02-06",
+            "end": "2027-02-06",
+            "variant_key": "evening-20270206",
+            "label": "Tarde sin pernocta",
+            "price": "CRC 17000 por adulto / 12000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 58000 antes de IVA y suplementos elegidos.",
+            "source": "https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/",
+            "date_scope": "workshop_window",
+            "accommodation": "Tarde sin pernocta; llegada 17:00, planetario 19:30. Final exacto de opción sin tienda sin establecer por separado.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+              }
+            },
+            "entry": "Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos."
+          },
+          {
+            "start": "2027-02-20",
+            "end": "2027-02-20",
+            "variant_key": "evening-20270220",
+            "label": "Tarde sin pernocta",
+            "price": "CRC 17000 por adulto / 12000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 58000 antes de IVA y suplementos elegidos.",
+            "source": "https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/",
+            "date_scope": "workshop_window",
+            "accommodation": "Tarde sin pernocta; llegada 17:00, planetario 19:30. Final exacto de opción sin tienda sin establecer por separado.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+              }
+            },
+            "entry": "Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos."
+          },
+          {
+            "start": "2027-02-27",
+            "end": "2027-02-27",
+            "variant_key": "evening-20270227",
+            "label": "Tarde sin pernocta",
+            "price": "CRC 17000 por adulto / 12000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 58000 antes de IVA y suplementos elegidos.",
+            "source": "https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/",
+            "date_scope": "workshop_window",
+            "accommodation": "Tarde sin pernocta; llegada 17:00, planetario 19:30. Final exacto de opción sin tienda sin establecer por separado.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+              }
+            },
+            "entry": "Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos."
+          },
+          {
+            "start": "2027-03-06",
+            "end": "2027-03-06",
+            "variant_key": "evening-20270306",
+            "label": "Tarde sin pernocta",
+            "price": "CRC 17000 por adulto / 12000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 58000 antes de IVA y suplementos elegidos.",
+            "source": "https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/",
+            "date_scope": "workshop_window",
+            "accommodation": "Tarde sin pernocta; llegada 17:00, planetario 19:30. Final exacto de opción sin tienda sin establecer por separado.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+              }
+            },
+            "entry": "Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos."
+          },
+          {
+            "start": "2027-03-20",
+            "end": "2027-03-20",
+            "variant_key": "evening-20270320",
+            "label": "Tarde sin pernocta",
+            "price": "CRC 17000 por adulto / 12000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 58000 antes de IVA y suplementos elegidos.",
+            "source": "https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/",
+            "date_scope": "workshop_window",
+            "accommodation": "Tarde sin pernocta; llegada 17:00, planetario 19:30. Final exacto de opción sin tienda sin establecer por separado.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+              }
+            },
+            "entry": "Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos."
+          },
+          {
+            "start": "2027-04-03",
+            "end": "2027-04-03",
+            "variant_key": "evening-20270403",
+            "label": "Tarde sin pernocta",
+            "price": "CRC 17000 por adulto / 12000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 58000 antes de IVA y suplementos elegidos.",
+            "source": "https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/",
+            "date_scope": "workshop_window",
+            "accommodation": "Tarde sin pernocta; llegada 17:00, planetario 19:30. Final exacto de opción sin tienda sin establecer por separado.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+              }
+            },
+            "entry": "Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos."
+          },
+          {
+            "start": "2027-04-17",
+            "end": "2027-04-17",
+            "variant_key": "evening-20270417",
+            "label": "Tarde sin pernocta",
+            "price": "CRC 17000 por adulto / 12000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 58000 antes de IVA y suplementos elegidos.",
+            "source": "https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/",
+            "date_scope": "workshop_window",
+            "accommodation": "Tarde sin pernocta; llegada 17:00, planetario 19:30. Final exacto de opción sin tienda sin establecer por separado.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+              }
+            },
+            "entry": "Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos."
+          },
+          {
+            "start": "2027-05-01",
+            "end": "2027-05-01",
+            "variant_key": "evening-20270501",
+            "label": "Tarde sin pernocta",
+            "price": "CRC 17000 por adulto / 12000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 58000 antes de IVA y suplementos elegidos.",
+            "source": "https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/",
+            "date_scope": "workshop_window",
+            "accommodation": "Tarde sin pernocta; llegada 17:00, planetario 19:30. Final exacto de opción sin tienda sin establecer por separado.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+              }
+            },
+            "entry": "Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "CRC",
+        "amount": null,
+        "unit": "participant",
+        "label": "CRC 17000 por adulto / 12000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 58000 antes de IVA y suplementos elegidos.",
+        "included": "Telescopios, planetario, cena y fogata; para pernocta tienda y desayuno. Confirmar alojamiento concreto de familia y menú.",
+        "extras": "IVA se añade al pagar. Saco CRC 3000 por unidad; menú vegetariano / sin gluten especial CRC 10000 por persona. Transporte y seguro aparte.",
+        "deposit": "Anticipo CRC 10000 por participante de pago incluido en precio. Saldo tres días antes; con anticipo por tarjeta web anuncia cargo automático del saldo a misma tarjeta. Con lluvia / nubes web excluye cambio y reembolso; con ráfagas superiores a 80 km/h no inflan cúpula. Sin consentimientos ni pago."
+      },
+      "accommodation": "Tarde sin pernocta; llegada 17:00, planetario 19:30. Final exacto de opción sin tienda sin establecer por separado.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar."
+        }
+      },
+      "editorial_reason": "Certificado de participación, muestra lectiva, puesto competitivo y cupo internacional son resultados distintos. Valoración editorial no es ranking mundial independiente.",
+      "shortlist": [],
+      "questions": [
+        "Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Gio Rodríguez · current programme and prices",
+          "url": "https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-12",
+          "end": "2026-12-12",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1437-20261212-20261212-evening-20261212"
+          ]
+        },
+        {
+          "start": "2026-12-19",
+          "end": "2026-12-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1437-20261219-20261219-evening-20261219"
+          ]
+        },
+        {
+          "start": "2027-01-02",
+          "end": "2027-01-02",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1437-20270102-20270102-evening-20270102"
+          ]
+        },
+        {
+          "start": "2027-01-16",
+          "end": "2027-01-16",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1437-20270116-20270116-evening-20270116"
+          ]
+        },
+        {
+          "start": "2027-02-06",
+          "end": "2027-02-06",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1437-20270206-20270206-evening-20270206"
+          ]
+        },
+        {
+          "start": "2027-02-20",
+          "end": "2027-02-20",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1437-20270220-20270220-evening-20270220"
+          ]
+        },
+        {
+          "start": "2027-02-27",
+          "end": "2027-02-27",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1437-20270227-20270227-evening-20270227"
+          ]
+        },
+        {
+          "start": "2027-03-06",
+          "end": "2027-03-06",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1437-20270306-20270306-evening-20270306"
+          ]
+        },
+        {
+          "start": "2027-03-20",
+          "end": "2027-03-20",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1437-20270320-20270320-evening-20270320"
+          ]
+        },
+        {
+          "start": "2027-04-03",
+          "end": "2027-04-03",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1437-20270403-20270403-evening-20270403"
+          ]
+        },
+        {
+          "start": "2027-04-17",
+          "end": "2027-04-17",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1437-20270417-20270417-evening-20270417"
+          ]
+        },
+        {
+          "start": "2027-05-01",
+          "end": "2027-05-01",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1437-20270501-20270501-evening-20270501"
+          ]
+        }
+      ]
     }
   ],
   "gaps": [
@@ -233381,7 +234456,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 180,
+  "version": 181,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -249875,6 +250950,126 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP1436",
+      "event_id": "CP1436-20261212-20261213-overnight-20261212",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1436",
+      "event_id": "CP1436-20261219-20261220-overnight-20261219",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1436",
+      "event_id": "CP1436-20270102-20270103-overnight-20270102",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1436",
+      "event_id": "CP1436-20270116-20270117-overnight-20270116",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1436",
+      "event_id": "CP1436-20270206-20270207-overnight-20270206",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1436",
+      "event_id": "CP1436-20270220-20270221-overnight-20270220",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1436",
+      "event_id": "CP1436-20270227-20270228-overnight-20270227",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1436",
+      "event_id": "CP1436-20270306-20270307-overnight-20270306",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1436",
+      "event_id": "CP1436-20270320-20270321-overnight-20270320",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1436",
+      "event_id": "CP1436-20270403-20270404-overnight-20270403",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1436",
+      "event_id": "CP1436-20270417-20270418-overnight-20270417",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1436",
+      "event_id": "CP1436-20270501-20270502-overnight-20270501",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1437",
+      "event_id": "CP1437-20261212-20261212-evening-20261212",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1437",
+      "event_id": "CP1437-20261219-20261219-evening-20261219",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1437",
+      "event_id": "CP1437-20270102-20270102-evening-20270102",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1437",
+      "event_id": "CP1437-20270116-20270116-evening-20270116",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1437",
+      "event_id": "CP1437-20270206-20270206-evening-20270206",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1437",
+      "event_id": "CP1437-20270220-20270220-evening-20270220",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1437",
+      "event_id": "CP1437-20270227-20270227-evening-20270227",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1437",
+      "event_id": "CP1437-20270306-20270306-evening-20270306",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1437",
+      "event_id": "CP1437-20270320-20270320-evening-20270320",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1437",
+      "event_id": "CP1437-20270403-20270403-evening-20270403",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1437",
+      "event_id": "CP1437-20270417-20270417-evening-20270417",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1437",
+      "event_id": "CP1437-20270501-20270501-evening-20270501",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -253320,10 +254515,34 @@
     "CP1405-20270627-20270722-w4-1",
     "CP1406-20270627-20270708-w2-1",
     "CP1406-20270711-20270722-w2-2",
-    "CP1406-20270627-20270722-w4-1"
+    "CP1406-20270627-20270722-w4-1",
+    "CP1436-20261212-20261213-overnight-20261212",
+    "CP1436-20261219-20261220-overnight-20261219",
+    "CP1436-20270102-20270103-overnight-20270102",
+    "CP1436-20270116-20270117-overnight-20270116",
+    "CP1436-20270206-20270207-overnight-20270206",
+    "CP1436-20270220-20270221-overnight-20270220",
+    "CP1436-20270227-20270228-overnight-20270227",
+    "CP1436-20270306-20270307-overnight-20270306",
+    "CP1436-20270320-20270321-overnight-20270320",
+    "CP1436-20270403-20270404-overnight-20270403",
+    "CP1436-20270417-20270418-overnight-20270417",
+    "CP1436-20270501-20270502-overnight-20270501",
+    "CP1437-20261212-20261212-evening-20261212",
+    "CP1437-20261219-20261219-evening-20261219",
+    "CP1437-20270102-20270102-evening-20270102",
+    "CP1437-20270116-20270116-evening-20270116",
+    "CP1437-20270206-20270206-evening-20270206",
+    "CP1437-20270220-20270220-evening-20270220",
+    "CP1437-20270227-20270227-evening-20270227",
+    "CP1437-20270306-20270306-evening-20270306",
+    "CP1437-20270320-20270320-evening-20270320",
+    "CP1437-20270403-20270403-evening-20270403",
+    "CP1437-20270417-20270417-evening-20270417",
+    "CP1437-20270501-20270501-evening-20270501"
   ],
   "integration": {
-    "generated_sessions": 3015,
+    "generated_sessions": 3039,
     "reused_legacy_events": 69,
     "seasonal_windows": 60,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

@@ -29378,9 +29378,9 @@ Idioma: No se ha establecido el idioma EN/ES/RU para determinadas clases y acomp
 Marca de idioma: unconfirmed; apoyo: no declarado
 Precio: 2026/27 · MXN3 300/Niño; early2 805 antes 20 Nov; Dos. 5 940 sin early; Anticipo 990 · y condiciones del expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: B 2026 Edad 8–9 Entra en 6–14; Idioma, Lugares y noches de acuerdo. Oscar: Sólo después 6-años: en 2026 Sí. 5–6. Necesitamos una buena. DOB y armonización de las noches/idioma. Gastos adicionales: Viajes/Vuelo, Seguro, Total de activos pagados y transferencia. Escolares private groups minimum15/Edad 5–18/Tarifa 1100+ — Otro producto. Los campamentos públicos individuales comienzan con 6, no 5. Pago: Anticipo 30% No reembolsable, Saldo en efectivo de la carrera. Cancelación/arrastrar a 7 días: Saldo pagado por encima del anticipo 6 meses por servicios del grupo, no cash refund. El certificado médico permite el transporte a 1 años. No se suman los descuentos; Un contrato final separado, Recepción y lugares extranjeros no confirmados.
+Limitaciones: Matvey: Para esta fecha edad 9–9; curso 6–14. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–6; curso 6–14. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: el viaje/el vuelo, de seguro, el completo de las actividades pagadas y el transfer. de la escuela private groups minimum15/edad 5–18/el precio 1100+ — otro producto. los campamentos públicos individuales comienzan en 6, No , no . 5. Pago: 30% de antelación no devuelta, el resto en efectivo al ingresar. cancelación/transferencia hasta 7 días: pago por un vaucar por más de un antelación del resto de 6 meses en los servicios del grupo, no cash refund. la certificación médica permite una transferencia hasta 1 año. los descuentos no se suman; el contrato final individual, la recepción extranjera y el lugar no se confirman.
 Fuente: https://www.campcoyote.mx/
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP614-20270329-20270403-pascua · Camp Coyote · Pascua / Verano Basic · Pascua · 6 días 5 noches · 2027-03-29 encaminados2027-04-03
 
@@ -41291,16 +41291,16 @@ Se ha comprobado: 2026-11-04
 Lugar: Costa Rica Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
 Fecha: 2026-12-07 — 2026-12-11
 Edad: 6–8 años según opción del formulario
-Matway: Condicional; comprobar la edad, clase y admisión
+Matway: No según la pista seleccionada
 Óscar: Condicional; comprobar la edad, la clase y la admisión
 Formato: day_camp
 Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.
 Clasificación del idioma: unconfirmed; apoyo: ES
 Precio: 2026/27 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Al inicio puede tener 8–9 años; curso 6–8. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 5–6 años; curso 6–8. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Limitaciones: Matvey: Para esta fecha edad 9–9; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–6; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-04
+Se ha comprobado: 2026-11-06
 
 ### CP1124-20270111-20270115 · FOD Líderes del Futuro · Juguemos a crear Robots · Juguemos a crear Robots · 2027-01-11–2027-01-15
 
@@ -41314,9 +41314,9 @@ Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y
 Clasificación del idioma: unconfirmed; apoyo: ES
 Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Al inicio puede tener 9–10 años; curso 6–8. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 6–8. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Limitaciones: Matvey: Para esta fecha edad 9–10; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-04
+Se ha comprobado: 2026-11-06
 
 ### CP1124-20270125-20270129 · FOD Líderes del Futuro · Juguemos a crear Robots · Juguemos a crear Robots · 2027-01-25–2027-01-29
 
@@ -41330,9 +41330,9 @@ Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y
 Clasificación del idioma: unconfirmed; apoyo: ES
 Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Al inicio puede tener 9–10 años; curso 6–8. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 6–8. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Limitaciones: Matvey: Para esta fecha edad 9–10; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-04
+Se ha comprobado: 2026-11-06
 
 ### CP1125-20270118-20270122 · FOD Líderes del Futuro · Mis Historias Animadas · Mis Historias Animadas · 2027-01-18–2027-01-22
 
@@ -41346,9 +41346,9 @@ Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y
 Clasificación del idioma: unconfirmed; apoyo: ES
 Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Al inicio puede tener 9–10 años; curso 6–8. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 6–8. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Limitaciones: Matvey: Para esta fecha edad 9–10; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-04
+Se ha comprobado: 2026-11-06
 
 ### CP1126-20270125-20270129 · FOD Líderes del Futuro · Creatividad y diseño con robótica · 7–9 · Creatividad y diseño con robótica · 7–9 · 2027-01-25–2027-01-29
 
@@ -41362,9 +41362,9 @@ Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y
 Clasificación del idioma: unconfirmed; apoyo: ES
 Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Al inicio puede tener 9–10 años; curso 7–9. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 7–9. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Limitaciones: Matvey: Para esta fecha edad 9–10; curso 7–9. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 7–9. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-04
+Se ha comprobado: 2026-11-06
 
 ### CP1127-20261207-20261211 · FOD Líderes del Futuro · Nivel 1 · Principios de construcción y programación · Nivel 1 · Principios de construcción y programación · 2026-12-07–2026-12-11
 
@@ -41378,9 +41378,9 @@ Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y
 Clasificación del idioma: unconfirmed; apoyo: ES
 Precio: 2026/27 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Al inicio puede tener 8–9 años; curso 9–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 5–6 años; curso 9–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Limitaciones: Matvey: Para esta fecha edad 9–9; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–6; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-04
+Se ha comprobado: 2026-11-06
 
 ### CP1127-20270111-20270115 · FOD Líderes del Futuro · Nivel 1 · Principios de construcción y programación · Nivel 1 · Principios de construcción y programación · 2027-01-11–2027-01-15
 
@@ -41394,9 +41394,9 @@ Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y
 Clasificación del idioma: unconfirmed; apoyo: ES
 Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Al inicio puede tener 9–10 años; curso 9–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 9–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Limitaciones: Matvey: Para esta fecha edad 9–10; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-04
+Se ha comprobado: 2026-11-06
 
 ### CP1128-20270118-20270122 · FOD Líderes del Futuro · Nivel 2 · Sistemas inteligentes: sensores y engranajes · Nivel 2 · Sistemas inteligentes: sensores y engranajes · 2027-01-18–2027-01-22
 
@@ -41410,9 +41410,9 @@ Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y
 Clasificación del idioma: unconfirmed; apoyo: ES
 Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Al inicio puede tener 9–10 años; curso 9–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 9–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Limitaciones: Matvey: Para esta fecha edad 9–10; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-04
+Se ha comprobado: 2026-11-06
 
 ### CP1129-20270125-20270129 · FOD Líderes del Futuro · Nivel 3 · Grados de libertad, sincronización y publicación · Nivel 3 · Grados de libertad, sincronización y publicación · 2027-01-25–2027-01-29
 
@@ -41426,9 +41426,9 @@ Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y
 Clasificación del idioma: unconfirmed; apoyo: ES
 Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Al inicio puede tener 9–10 años; curso 9–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 9–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Limitaciones: Matvey: Para esta fecha edad 9–10; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-04
+Se ha comprobado: 2026-11-06
 
 ### CP1130-20270111-20270115 · FOD Líderes del Futuro · Nivel 4 · Líneas de procesamiento y acciones de datos · Nivel 4 · Líneas de procesamiento y acciones de datos · 2027-01-11–2027-01-15
 
@@ -41442,9 +41442,9 @@ Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y
 Clasificación del idioma: unconfirmed; apoyo: ES
 Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Al inicio puede tener 9–10 años; curso 9–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 9–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Limitaciones: Matvey: Para esta fecha edad 9–10; curso 9–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 9–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-04
+Se ha comprobado: 2026-11-06
 
 ### CP1131-20270118-20270122 · FOD Líderes del Futuro · Creatividad y diseño con robótica · 10–12 · Creatividad y diseño con robótica · 10–12 · 2027-01-18–2027-01-22
 
@@ -41458,9 +41458,9 @@ Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y
 Clasificación del idioma: unconfirmed; apoyo: ES
 Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Al inicio puede tener 9–10 años; curso 10–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 10–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Limitaciones: Matvey: Para esta fecha edad 9–10; curso 10–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 10–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-04
+Se ha comprobado: 2026-11-06
 
 ### CP1132-20261207-20261211 · FOD Líderes del Futuro · Nivel 1 · Edificaciones en 3D · Nivel 1 · Edificaciones en 3D · 2026-12-07–2026-12-11
 
@@ -41474,9 +41474,9 @@ Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y
 Clasificación del idioma: unconfirmed; apoyo: ES
 Precio: 2026/27 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Al inicio puede tener 8–9 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 5–6 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Limitaciones: Matvey: Para esta fecha edad 9–9; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–6; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-04
+Se ha comprobado: 2026-11-06
 
 ### CP1132-20270111-20270115 · FOD Líderes del Futuro · Nivel 1 · Edificaciones en 3D · Nivel 1 · Edificaciones en 3D · 2027-01-11–2027-01-15
 
@@ -41490,9 +41490,9 @@ Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y
 Clasificación del idioma: unconfirmed; apoyo: ES
 Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Al inicio puede tener 9–10 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Limitaciones: Matvey: Para esta fecha edad 9–10; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-04
+Se ha comprobado: 2026-11-06
 
 ### CP1132-20270118-20270122 · FOD Líderes del Futuro · Nivel 1 · Edificaciones en 3D · Nivel 1 · Edificaciones en 3D · 2027-01-18–2027-01-22
 
@@ -41506,9 +41506,9 @@ Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y
 Clasificación del idioma: unconfirmed; apoyo: ES
 Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Al inicio puede tener 9–10 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Limitaciones: Matvey: Para esta fecha edad 9–10; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-04
+Se ha comprobado: 2026-11-06
 
 ### CP1133-20270125-20270129 · FOD Líderes del Futuro · Nivel 2 · Edificaciones en 3D · Nivel 2 · Edificaciones en 3D · 2027-01-25–2027-01-29
 
@@ -41522,9 +41522,9 @@ Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y
 Clasificación del idioma: unconfirmed; apoyo: ES
 Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Al inicio puede tener 9–10 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Limitaciones: Matvey: Para esta fecha edad 9–10; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-04
+Se ha comprobado: 2026-11-06
 
 ### CP1134-20270118-20270122 · FOD Líderes del Futuro · Nivel 1 · Makers, Microplacas programables · Nivel 1 · Makers, Microplacas programables · 2027-01-18–2027-01-22
 
@@ -41538,9 +41538,9 @@ Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y
 Clasificación del idioma: unconfirmed; apoyo: ES
 Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Al inicio puede tener 9–10 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Limitaciones: Matvey: Para esta fecha edad 9–10; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-04
+Se ha comprobado: 2026-11-06
 
 ### CP1135-20270125-20270129 · FOD Líderes del Futuro · Nivel 2 · Makers, Microplacas programables · Nivel 2 · Makers, Microplacas programables · 2027-01-25–2027-01-29
 
@@ -41554,9 +41554,9 @@ Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y
 Clasificación del idioma: unconfirmed; apoyo: ES
 Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Al inicio puede tener 9–10 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Limitaciones: Matvey: Para esta fecha edad 9–10; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-04
+Se ha comprobado: 2026-11-06
 
 ### CP1136-20270210-20270212-booking-2380 · Code Camp Liechtenstein · Ignite · Ignite (3d) · Universität Liechtenstein · 2027-02-10–2027-02-12
 
@@ -56212,6 +56212,390 @@ Precio: 2027 · USD 5100 · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Oscar: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Suplementos: Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero. Pago: Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar.
 Fuente: https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees
+Se ha comprobado: 2026-11-06
+
+### CP1436-20261212-20261213-overnight-20261212 · Gio Rodríguez · Astrocamp familiar · Noche familiar · 2026-12-12–2026-12-13
+
+Lugar: Costa Rica Ventisqueros · Santa Gertrudis Sur · Grecia
+Fecha: 2026-12-12 — 2026-12-13
+edad: families · 4–11 child rate; under 4 free
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: family_visit
+Idioma: Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CRC 27000 por adulto / 22000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 98000 antes de IVA y suplementos elegidos. · suplementos y condiciones en el dossier
+Acceso: Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: Matvey: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Oscar: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Suplementos: IVA se añade al pagar. Saco CRC 3000 por unidad; menú vegetariano / sin gluten especial CRC 10000 por persona. Transporte y seguro aparte. Pago: Anticipo CRC 10000 por participante de pago incluido en precio. Saldo tres días antes; con anticipo por tarjeta web anuncia cargo automático del saldo a misma tarjeta. Con lluvia / nubes web excluye cambio y reembolso; con ráfagas superiores a 80 km/h no inflan cúpula. Sin consentimientos ni pago.
+Fuente: https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/
+Se ha comprobado: 2026-11-06
+
+### CP1436-20261219-20261220-overnight-20261219 · Gio Rodríguez · Astrocamp familiar · Noche familiar · 2026-12-19–2026-12-20
+
+Lugar: Costa Rica Ventisqueros · Santa Gertrudis Sur · Grecia
+Fecha: 2026-12-19 — 2026-12-20
+edad: families · 4–11 child rate; under 4 free
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: family_visit
+Idioma: Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CRC 27000 por adulto / 22000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 98000 antes de IVA y suplementos elegidos. · suplementos y condiciones en el dossier
+Acceso: Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: Matvey: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Oscar: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Suplementos: IVA se añade al pagar. Saco CRC 3000 por unidad; menú vegetariano / sin gluten especial CRC 10000 por persona. Transporte y seguro aparte. Pago: Anticipo CRC 10000 por participante de pago incluido en precio. Saldo tres días antes; con anticipo por tarjeta web anuncia cargo automático del saldo a misma tarjeta. Con lluvia / nubes web excluye cambio y reembolso; con ráfagas superiores a 80 km/h no inflan cúpula. Sin consentimientos ni pago.
+Fuente: https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/
+Se ha comprobado: 2026-11-06
+
+### CP1436-20270102-20270103-overnight-20270102 · Gio Rodríguez · Astrocamp familiar · Noche familiar · 2027-01-02–2027-01-03
+
+Lugar: Costa Rica Ventisqueros · Santa Gertrudis Sur · Grecia
+Fecha: 2027-01-02 — 2027-01-03
+edad: families · 4–11 child rate; under 4 free
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: family_visit
+Idioma: Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CRC 27000 por adulto / 22000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 98000 antes de IVA y suplementos elegidos. · suplementos y condiciones en el dossier
+Acceso: Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: Matvey: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Oscar: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Suplementos: IVA se añade al pagar. Saco CRC 3000 por unidad; menú vegetariano / sin gluten especial CRC 10000 por persona. Transporte y seguro aparte. Pago: Anticipo CRC 10000 por participante de pago incluido en precio. Saldo tres días antes; con anticipo por tarjeta web anuncia cargo automático del saldo a misma tarjeta. Con lluvia / nubes web excluye cambio y reembolso; con ráfagas superiores a 80 km/h no inflan cúpula. Sin consentimientos ni pago.
+Fuente: https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/
+Se ha comprobado: 2026-11-06
+
+### CP1436-20270116-20270117-overnight-20270116 · Gio Rodríguez · Astrocamp familiar · Noche familiar · 2027-01-16–2027-01-17
+
+Lugar: Costa Rica Ventisqueros · Santa Gertrudis Sur · Grecia
+Fecha: 2027-01-16 — 2027-01-17
+edad: families · 4–11 child rate; under 4 free
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: family_visit
+Idioma: Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CRC 27000 por adulto / 22000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 98000 antes de IVA y suplementos elegidos. · suplementos y condiciones en el dossier
+Acceso: Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: Matvey: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Oscar: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Suplementos: IVA se añade al pagar. Saco CRC 3000 por unidad; menú vegetariano / sin gluten especial CRC 10000 por persona. Transporte y seguro aparte. Pago: Anticipo CRC 10000 por participante de pago incluido en precio. Saldo tres días antes; con anticipo por tarjeta web anuncia cargo automático del saldo a misma tarjeta. Con lluvia / nubes web excluye cambio y reembolso; con ráfagas superiores a 80 km/h no inflan cúpula. Sin consentimientos ni pago.
+Fuente: https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/
+Se ha comprobado: 2026-11-06
+
+### CP1436-20270206-20270207-overnight-20270206 · Gio Rodríguez · Astrocamp familiar · Noche familiar · 2027-02-06–2027-02-07
+
+Lugar: Costa Rica Ventisqueros · Santa Gertrudis Sur · Grecia
+Fecha: 2027-02-06 — 2027-02-07
+edad: families · 4–11 child rate; under 4 free
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: family_visit
+Idioma: Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CRC 27000 por adulto / 22000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 98000 antes de IVA y suplementos elegidos. · suplementos y condiciones en el dossier
+Acceso: Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: Matvey: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Oscar: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Suplementos: IVA se añade al pagar. Saco CRC 3000 por unidad; menú vegetariano / sin gluten especial CRC 10000 por persona. Transporte y seguro aparte. Pago: Anticipo CRC 10000 por participante de pago incluido en precio. Saldo tres días antes; con anticipo por tarjeta web anuncia cargo automático del saldo a misma tarjeta. Con lluvia / nubes web excluye cambio y reembolso; con ráfagas superiores a 80 km/h no inflan cúpula. Sin consentimientos ni pago.
+Fuente: https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/
+Se ha comprobado: 2026-11-06
+
+### CP1436-20270220-20270221-overnight-20270220 · Gio Rodríguez · Astrocamp familiar · Noche familiar · 2027-02-20–2027-02-21
+
+Lugar: Costa Rica Ventisqueros · Santa Gertrudis Sur · Grecia
+Fecha: 2027-02-20 — 2027-02-21
+edad: families · 4–11 child rate; under 4 free
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: family_visit
+Idioma: Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CRC 27000 por adulto / 22000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 98000 antes de IVA y suplementos elegidos. · suplementos y condiciones en el dossier
+Acceso: Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: Matvey: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Oscar: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Suplementos: IVA se añade al pagar. Saco CRC 3000 por unidad; menú vegetariano / sin gluten especial CRC 10000 por persona. Transporte y seguro aparte. Pago: Anticipo CRC 10000 por participante de pago incluido en precio. Saldo tres días antes; con anticipo por tarjeta web anuncia cargo automático del saldo a misma tarjeta. Con lluvia / nubes web excluye cambio y reembolso; con ráfagas superiores a 80 km/h no inflan cúpula. Sin consentimientos ni pago.
+Fuente: https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/
+Se ha comprobado: 2026-11-06
+
+### CP1436-20270227-20270228-overnight-20270227 · Gio Rodríguez · Astrocamp familiar · Noche familiar · 2027-02-27–2027-02-28
+
+Lugar: Costa Rica Ventisqueros · Santa Gertrudis Sur · Grecia
+Fecha: 2027-02-27 — 2027-02-28
+edad: families · 4–11 child rate; under 4 free
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: family_visit
+Idioma: Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CRC 27000 por adulto / 22000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 98000 antes de IVA y suplementos elegidos. · suplementos y condiciones en el dossier
+Acceso: Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: Matvey: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Oscar: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Suplementos: IVA se añade al pagar. Saco CRC 3000 por unidad; menú vegetariano / sin gluten especial CRC 10000 por persona. Transporte y seguro aparte. Pago: Anticipo CRC 10000 por participante de pago incluido en precio. Saldo tres días antes; con anticipo por tarjeta web anuncia cargo automático del saldo a misma tarjeta. Con lluvia / nubes web excluye cambio y reembolso; con ráfagas superiores a 80 km/h no inflan cúpula. Sin consentimientos ni pago.
+Fuente: https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/
+Se ha comprobado: 2026-11-06
+
+### CP1436-20270306-20270307-overnight-20270306 · Gio Rodríguez · Astrocamp familiar · Noche familiar · 2027-03-06–2027-03-07
+
+Lugar: Costa Rica Ventisqueros · Santa Gertrudis Sur · Grecia
+Fecha: 2027-03-06 — 2027-03-07
+edad: families · 4–11 child rate; under 4 free
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: family_visit
+Idioma: Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CRC 27000 por adulto / 22000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 98000 antes de IVA y suplementos elegidos. · suplementos y condiciones en el dossier
+Acceso: Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: Matvey: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Oscar: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Suplementos: IVA se añade al pagar. Saco CRC 3000 por unidad; menú vegetariano / sin gluten especial CRC 10000 por persona. Transporte y seguro aparte. Pago: Anticipo CRC 10000 por participante de pago incluido en precio. Saldo tres días antes; con anticipo por tarjeta web anuncia cargo automático del saldo a misma tarjeta. Con lluvia / nubes web excluye cambio y reembolso; con ráfagas superiores a 80 km/h no inflan cúpula. Sin consentimientos ni pago.
+Fuente: https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/
+Se ha comprobado: 2026-11-06
+
+### CP1436-20270320-20270321-overnight-20270320 · Gio Rodríguez · Astrocamp familiar · Noche familiar · 2027-03-20–2027-03-21
+
+Lugar: Costa Rica Ventisqueros · Santa Gertrudis Sur · Grecia
+Fecha: 2027-03-20 — 2027-03-21
+edad: families · 4–11 child rate; under 4 free
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: family_visit
+Idioma: Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CRC 27000 por adulto / 22000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 98000 antes de IVA y suplementos elegidos. · suplementos y condiciones en el dossier
+Acceso: Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: Matvey: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Oscar: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Suplementos: IVA se añade al pagar. Saco CRC 3000 por unidad; menú vegetariano / sin gluten especial CRC 10000 por persona. Transporte y seguro aparte. Pago: Anticipo CRC 10000 por participante de pago incluido en precio. Saldo tres días antes; con anticipo por tarjeta web anuncia cargo automático del saldo a misma tarjeta. Con lluvia / nubes web excluye cambio y reembolso; con ráfagas superiores a 80 km/h no inflan cúpula. Sin consentimientos ni pago.
+Fuente: https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/
+Se ha comprobado: 2026-11-06
+
+### CP1436-20270403-20270404-overnight-20270403 · Gio Rodríguez · Astrocamp familiar · Noche familiar · 2027-04-03–2027-04-04
+
+Lugar: Costa Rica Ventisqueros · Santa Gertrudis Sur · Grecia
+Fecha: 2027-04-03 — 2027-04-04
+edad: families · 4–11 child rate; under 4 free
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: family_visit
+Idioma: Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CRC 27000 por adulto / 22000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 98000 antes de IVA y suplementos elegidos. · suplementos y condiciones en el dossier
+Acceso: Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: Matvey: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Oscar: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Suplementos: IVA se añade al pagar. Saco CRC 3000 por unidad; menú vegetariano / sin gluten especial CRC 10000 por persona. Transporte y seguro aparte. Pago: Anticipo CRC 10000 por participante de pago incluido en precio. Saldo tres días antes; con anticipo por tarjeta web anuncia cargo automático del saldo a misma tarjeta. Con lluvia / nubes web excluye cambio y reembolso; con ráfagas superiores a 80 km/h no inflan cúpula. Sin consentimientos ni pago.
+Fuente: https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/
+Se ha comprobado: 2026-11-06
+
+### CP1436-20270417-20270418-overnight-20270417 · Gio Rodríguez · Astrocamp familiar · Noche familiar · 2027-04-17–2027-04-18
+
+Lugar: Costa Rica Ventisqueros · Santa Gertrudis Sur · Grecia
+Fecha: 2027-04-17 — 2027-04-18
+edad: families · 4–11 child rate; under 4 free
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: family_visit
+Idioma: Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CRC 27000 por adulto / 22000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 98000 antes de IVA y suplementos elegidos. · suplementos y condiciones en el dossier
+Acceso: Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: Matvey: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Oscar: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Suplementos: IVA se añade al pagar. Saco CRC 3000 por unidad; menú vegetariano / sin gluten especial CRC 10000 por persona. Transporte y seguro aparte. Pago: Anticipo CRC 10000 por participante de pago incluido en precio. Saldo tres días antes; con anticipo por tarjeta web anuncia cargo automático del saldo a misma tarjeta. Con lluvia / nubes web excluye cambio y reembolso; con ráfagas superiores a 80 km/h no inflan cúpula. Sin consentimientos ni pago.
+Fuente: https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/
+Se ha comprobado: 2026-11-06
+
+### CP1436-20270501-20270502-overnight-20270501 · Gio Rodríguez · Astrocamp familiar · Noche familiar · 2027-05-01–2027-05-02
+
+Lugar: Costa Rica Ventisqueros · Santa Gertrudis Sur · Grecia
+Fecha: 2027-05-01 — 2027-05-02
+edad: families · 4–11 child rate; under 4 free
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: family_visit
+Idioma: Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CRC 27000 por adulto / 22000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 98000 antes de IVA y suplementos elegidos. · suplementos y condiciones en el dossier
+Acceso: Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: Matvey: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Oscar: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Suplementos: IVA se añade al pagar. Saco CRC 3000 por unidad; menú vegetariano / sin gluten especial CRC 10000 por persona. Transporte y seguro aparte. Pago: Anticipo CRC 10000 por participante de pago incluido en precio. Saldo tres días antes; con anticipo por tarjeta web anuncia cargo automático del saldo a misma tarjeta. Con lluvia / nubes web excluye cambio y reembolso; con ráfagas superiores a 80 km/h no inflan cúpula. Sin consentimientos ni pago.
+Fuente: https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/
+Se ha comprobado: 2026-11-06
+
+### CP1437-20261212-20261212-evening-20261212 · Gio Rodríguez · Búho nocturno · Tarde sin pernocta · 2026-12-12–2026-12-12
+
+Lugar: Costa Rica Ventisqueros · Santa Gertrudis Sur · Grecia
+Fecha: 2026-12-12 — 2026-12-12
+edad: families · 4–11 child rate; under 4 free
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: family_visit
+Idioma: Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CRC 17000 por adulto / 12000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 58000 antes de IVA y suplementos elegidos. · suplementos y condiciones en el dossier
+Acceso: Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: Matvey: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Oscar: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Suplementos: IVA se añade al pagar. Saco CRC 3000 por unidad; menú vegetariano / sin gluten especial CRC 10000 por persona. Transporte y seguro aparte. Pago: Anticipo CRC 10000 por participante de pago incluido en precio. Saldo tres días antes; con anticipo por tarjeta web anuncia cargo automático del saldo a misma tarjeta. Con lluvia / nubes web excluye cambio y reembolso; con ráfagas superiores a 80 km/h no inflan cúpula. Sin consentimientos ni pago.
+Fuente: https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/
+Se ha comprobado: 2026-11-06
+
+### CP1437-20261219-20261219-evening-20261219 · Gio Rodríguez · Búho nocturno · Tarde sin pernocta · 2026-12-19–2026-12-19
+
+Lugar: Costa Rica Ventisqueros · Santa Gertrudis Sur · Grecia
+Fecha: 2026-12-19 - 2026-12-19
+edad: families · 4–11 child rate; under 4 free
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: family_visit
+Idioma: Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CRC 17000 por adulto / 12000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 58000 antes de IVA y suplementos elegidos. · suplementos y condiciones en el dossier
+Acceso: Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: Matvey: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Oscar: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Suplementos: IVA se añade al pagar. Saco CRC 3000 por unidad; menú vegetariano / sin gluten especial CRC 10000 por persona. Transporte y seguro aparte. Pago: Anticipo CRC 10000 por participante de pago incluido en precio. Saldo tres días antes; con anticipo por tarjeta web anuncia cargo automático del saldo a misma tarjeta. Con lluvia / nubes web excluye cambio y reembolso; con ráfagas superiores a 80 km/h no inflan cúpula. Sin consentimientos ni pago.
+Fuente: https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/
+Se ha comprobado: 2026-11-06
+
+### CP1437-20270102-20270102-evening-20270102 · Gio Rodríguez · Búho nocturno · Tarde sin pernocta · 2027-01-02–2027-01-02
+
+Lugar: Costa Rica Ventisqueros · Santa Gertrudis Sur · Grecia
+Fecha: 2027-01-02 — 2027-01-02
+edad: families · 4–11 child rate; under 4 free
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: family_visit
+Idioma: Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CRC 17000 por adulto / 12000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 58000 antes de IVA y suplementos elegidos. · suplementos y condiciones en el dossier
+Acceso: Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: Matvey: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Oscar: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Suplementos: IVA se añade al pagar. Saco CRC 3000 por unidad; menú vegetariano / sin gluten especial CRC 10000 por persona. Transporte y seguro aparte. Pago: Anticipo CRC 10000 por participante de pago incluido en precio. Saldo tres días antes; con anticipo por tarjeta web anuncia cargo automático del saldo a misma tarjeta. Con lluvia / nubes web excluye cambio y reembolso; con ráfagas superiores a 80 km/h no inflan cúpula. Sin consentimientos ni pago.
+Fuente: https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/
+Se ha comprobado: 2026-11-06
+
+### CP1437-20270116-20270116-evening-20270116 · Gio Rodríguez · Búho nocturno · Tarde sin pernocta · 2027-01-16–2027-01-16
+
+Lugar: Costa Rica Ventisqueros · Santa Gertrudis Sur · Grecia
+Fecha: 2027-01-16 — 2027-01-16
+edad: families · 4–11 child rate; under 4 free
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: family_visit
+Idioma: Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CRC 17000 por adulto / 12000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 58000 antes de IVA y suplementos elegidos. · suplementos y condiciones en el dossier
+Acceso: Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: Matvey: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Oscar: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Suplementos: IVA se añade al pagar. Saco CRC 3000 por unidad; menú vegetariano / sin gluten especial CRC 10000 por persona. Transporte y seguro aparte. Pago: Anticipo CRC 10000 por participante de pago incluido en precio. Saldo tres días antes; con anticipo por tarjeta web anuncia cargo automático del saldo a misma tarjeta. Con lluvia / nubes web excluye cambio y reembolso; con ráfagas superiores a 80 km/h no inflan cúpula. Sin consentimientos ni pago.
+Fuente: https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/
+Se ha comprobado: 2026-11-06
+
+### CP1437-20270206-20270206-evening-20270206 · Gio Rodríguez · Búho nocturno · Tarde sin pernocta · 2027-02-06–2027-02-06
+
+Lugar: Costa Rica Ventisqueros · Santa Gertrudis Sur · Grecia
+Fecha: 2027-02-06 — 2027-02-06
+edad: families · 4–11 child rate; under 4 free
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: family_visit
+Idioma: Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CRC 17000 por adulto / 12000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 58000 antes de IVA y suplementos elegidos. · suplementos y condiciones en el dossier
+Acceso: Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: Matvey: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Oscar: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Suplementos: IVA se añade al pagar. Saco CRC 3000 por unidad; menú vegetariano / sin gluten especial CRC 10000 por persona. Transporte y seguro aparte. Pago: Anticipo CRC 10000 por participante de pago incluido en precio. Saldo tres días antes; con anticipo por tarjeta web anuncia cargo automático del saldo a misma tarjeta. Con lluvia / nubes web excluye cambio y reembolso; con ráfagas superiores a 80 km/h no inflan cúpula. Sin consentimientos ni pago.
+Fuente: https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/
+Se ha comprobado: 2026-11-06
+
+### CP1437-20270220-20270220-evening-20270220 · Gio Rodríguez · Búho nocturno · Tarde sin pernocta · 2027-02-20–2027-02-20
+
+Lugar: Costa Rica Ventisqueros · Santa Gertrudis Sur · Grecia
+Fecha: 2027-02-20 — 2027-02-20
+edad: families · 4–11 child rate; under 4 free
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: family_visit
+Idioma: Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CRC 17000 por adulto / 12000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 58000 antes de IVA y suplementos elegidos. · suplementos y condiciones en el dossier
+Acceso: Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: Matvey: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Oscar: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Suplementos: IVA se añade al pagar. Saco CRC 3000 por unidad; menú vegetariano / sin gluten especial CRC 10000 por persona. Transporte y seguro aparte. Pago: Anticipo CRC 10000 por participante de pago incluido en precio. Saldo tres días antes; con anticipo por tarjeta web anuncia cargo automático del saldo a misma tarjeta. Con lluvia / nubes web excluye cambio y reembolso; con ráfagas superiores a 80 km/h no inflan cúpula. Sin consentimientos ni pago.
+Fuente: https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/
+Se ha comprobado: 2026-11-06
+
+### CP1437-20270227-20270227-evening-20270227 · Gio Rodríguez · Búho nocturno · Tarde sin pernocta · 2027-02-27–2027-02-27
+
+Lugar: Costa Rica Ventisqueros · Santa Gertrudis Sur · Grecia
+Fecha: 2027-02-27 — 2027-02-27
+edad: families · 4–11 child rate; under 4 free
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: family_visit
+Idioma: Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CRC 17000 por adulto / 12000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 58000 antes de IVA y suplementos elegidos. · suplementos y condiciones en el dossier
+Acceso: Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: Matvey: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Oscar: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Suplementos: IVA se añade al pagar. Saco CRC 3000 por unidad; menú vegetariano / sin gluten especial CRC 10000 por persona. Transporte y seguro aparte. Pago: Anticipo CRC 10000 por participante de pago incluido en precio. Saldo tres días antes; con anticipo por tarjeta web anuncia cargo automático del saldo a misma tarjeta. Con lluvia / nubes web excluye cambio y reembolso; con ráfagas superiores a 80 km/h no inflan cúpula. Sin consentimientos ni pago.
+Fuente: https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/
+Se ha comprobado: 2026-11-06
+
+### CP1437-20270306-20270306-evening-20270306 · Gio Rodríguez · Búho nocturno · Tarde sin pernocta · 2027-03-06–2027-03-06
+
+Lugar: Costa Rica Ventisqueros · Santa Gertrudis Sur · Grecia
+Fecha: 2027-03-06 — 2027-03-06
+edad: families · 4–11 child rate; under 4 free
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: family_visit
+Idioma: Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CRC 17000 por adulto / 12000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 58000 antes de IVA y suplementos elegidos. · suplementos y condiciones en el dossier
+Acceso: Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: Matvey: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Oscar: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Suplementos: IVA se añade al pagar. Saco CRC 3000 por unidad; menú vegetariano / sin gluten especial CRC 10000 por persona. Transporte y seguro aparte. Pago: Anticipo CRC 10000 por participante de pago incluido en precio. Saldo tres días antes; con anticipo por tarjeta web anuncia cargo automático del saldo a misma tarjeta. Con lluvia / nubes web excluye cambio y reembolso; con ráfagas superiores a 80 km/h no inflan cúpula. Sin consentimientos ni pago.
+Fuente: https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/
+Se ha comprobado: 2026-11-06
+
+### CP1437-20270320-20270320-evening-20270320 · Gio Rodríguez · Búho nocturno · Tarde sin pernocta · 2027-03-20–2027-03-20
+
+Lugar: Costa Rica Ventisqueros · Santa Gertrudis Sur · Grecia
+Fecha: 2027-03-20 — 2027-03-20
+edad: families · 4–11 child rate; under 4 free
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: family_visit
+Idioma: Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CRC 17000 por adulto / 12000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 58000 antes de IVA y suplementos elegidos. · suplementos y condiciones en el dossier
+Acceso: Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: Matvey: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Oscar: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Suplementos: IVA se añade al pagar. Saco CRC 3000 por unidad; menú vegetariano / sin gluten especial CRC 10000 por persona. Transporte y seguro aparte. Pago: Anticipo CRC 10000 por participante de pago incluido en precio. Saldo tres días antes; con anticipo por tarjeta web anuncia cargo automático del saldo a misma tarjeta. Con lluvia / nubes web excluye cambio y reembolso; con ráfagas superiores a 80 km/h no inflan cúpula. Sin consentimientos ni pago.
+Fuente: https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/
+Se ha comprobado: 2026-11-06
+
+### CP1437-20270403-20270403-evening-20270403 · Gio Rodríguez · Búho nocturno · Tarde sin pernocta · 2027-04-03–2027-04-03
+
+Lugar: Costa Rica Ventisqueros · Santa Gertrudis Sur · Grecia
+Fecha: 2027-04-03 — 2027-04-03
+edad: families · 4–11 child rate; under 4 free
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: family_visit
+Idioma: Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CRC 17000 por adulto / 12000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 58000 antes de IVA y suplementos elegidos. · suplementos y condiciones en el dossier
+Acceso: Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: Matvey: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Oscar: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Suplementos: IVA se añade al pagar. Saco CRC 3000 por unidad; menú vegetariano / sin gluten especial CRC 10000 por persona. Transporte y seguro aparte. Pago: Anticipo CRC 10000 por participante de pago incluido en precio. Saldo tres días antes; con anticipo por tarjeta web anuncia cargo automático del saldo a misma tarjeta. Con lluvia / nubes web excluye cambio y reembolso; con ráfagas superiores a 80 km/h no inflan cúpula. Sin consentimientos ni pago.
+Fuente: https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/
+Se ha comprobado: 2026-11-06
+
+### CP1437-20270417-20270417-evening-20270417 · Gio Rodríguez · Búho nocturno · Tarde sin pernocta · 2027-04-17–2027-04-17
+
+Lugar: Costa Rica Ventisqueros · Santa Gertrudis Sur · Grecia
+Fecha: 2027-04-17 — 2027-04-17
+edad: families · 4–11 child rate; under 4 free
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: family_visit
+Idioma: Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CRC 17000 por adulto / 12000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 58000 antes de IVA y suplementos elegidos. · suplementos y condiciones en el dossier
+Acceso: Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: Matvey: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Oscar: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Suplementos: IVA se añade al pagar. Saco CRC 3000 por unidad; menú vegetariano / sin gluten especial CRC 10000 por persona. Transporte y seguro aparte. Pago: Anticipo CRC 10000 por participante de pago incluido en precio. Saldo tres días antes; con anticipo por tarjeta web anuncia cargo automático del saldo a misma tarjeta. Con lluvia / nubes web excluye cambio y reembolso; con ráfagas superiores a 80 km/h no inflan cúpula. Sin consentimientos ni pago.
+Fuente: https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/
+Se ha comprobado: 2026-11-06
+
+### CP1437-20270501-20270501-evening-20270501 · Gio Rodríguez · Búho nocturno · Tarde sin pernocta · 2027-05-01–2027-05-01
+
+Lugar: Costa Rica Ventisqueros · Santa Gertrudis Sur · Grecia
+Fecha: 2027-05-01 — 2027-05-01
+edad: families · 4–11 child rate; under 4 free
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: family_visit
+Idioma: Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CRC 17000 por adulto / 12000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 58000 antes de IVA y suplementos elegidos. · suplementos y condiciones en el dossier
+Acceso: Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: Matvey: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Oscar: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Suplementos: IVA se añade al pagar. Saco CRC 3000 por unidad; menú vegetariano / sin gluten especial CRC 10000 por persona. Transporte y seguro aparte. Pago: Anticipo CRC 10000 por participante de pago incluido en precio. Saldo tres días antes; con anticipo por tarjeta web anuncia cargo automático del saldo a misma tarjeta. Con lluvia / nubes web excluye cambio y reembolso; con ráfagas superiores a 80 km/h no inflan cúpula. Sin consentimientos ni pago.
+Fuente: https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/
 Se ha comprobado: 2026-11-06
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

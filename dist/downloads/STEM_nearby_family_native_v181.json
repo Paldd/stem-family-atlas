@@ -1,0 +1,120 @@
+{
+  "version": 181,
+  "checked": "2026-11-06",
+  "FOD": {
+    "source": "https://survey.zohopublic.com/zs/SjzWbS",
+    "price_CRC_per_course": 60000,
+    "tax_included": true,
+    "venue": "Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta, San José",
+    "birth_years": {
+      "matvey": 2017,
+      "oscar": 2020
+    },
+    "known_current_2026_ages": {
+      "matvey": 9,
+      "oscar": 6
+    },
+    "December_2026_Matvey_not_eligible_for_6_8": true,
+    "exact_birthdays_unknown": true,
+    "programme_rows_refreshed": 12,
+    "parallel_confirmed_hours": "08:00–12:00 America/Costa_Rica",
+    "family_two_course_base_CRC": 120000,
+    "three_age_fitting_parallel_weeks": [
+      "2026-12-07",
+      "2027-01-11",
+      "2027-01-18"
+    ],
+    "additional_January_pairs_have_birthdate_conditions": true,
+    "levels_and_working_language_and_two_places_unconfirmed": true,
+    "afternoon_13_17_not_paired_with_morning_8_12": true,
+    "no_new_FOD_dates_or_calendar_UIDs": true
+  },
+  "astronomy": {
+    "source": "https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/",
+    "live_source_dates": [
+      "2026-12-12",
+      "2026-12-19",
+      "2027-01-02",
+      "2027-01-16",
+      "2027-02-06",
+      "2027-02-20",
+      "2027-02-27",
+      "2027-03-06",
+      "2027-03-20",
+      "2027-04-03",
+      "2027-04-17",
+      "2027-05-01"
+    ],
+    "live_source_date_count": 12,
+    "indexed_reader_date_count": 13,
+    "indexed_reader_extra_date_not_imported": "2026-11-28",
+    "two_formats": [
+      "parent-accompanied overnight",
+      "evening without camping"
+    ],
+    "arrival": "17:00 Saturday",
+    "planetarium": "19:30 Saturday",
+    "overnight_end": "08:00 Sunday",
+    "evening_end_exact_time_unconfirmed": true,
+    "all_day_calendar_precision_explicit": true,
+    "overnight_adult_CRC": 27000,
+    "overnight_child_4_11_CRC": 22000,
+    "evening_adult_CRC": 17000,
+    "evening_child_4_11_CRC": 12000,
+    "under_4_free": true,
+    "two_adults_two_children_overnight_base_CRC": 98000,
+    "two_adults_two_children_evening_base_CRC": 58000,
+    "IVA_added_rate_unconfirmed": true,
+    "deposit_CRC_per_paying_person": 10000,
+    "deposit_included_not_added_twice": true,
+    "balance_days_before": 3,
+    "balance_card_autocharged_if_card_deposit": true,
+    "sleeping_bag_CRC": 3000,
+    "special_menu_CRC_per_person": 10000,
+    "tents_and_overnight_breakfast_included": true,
+    "no_weather_rebooking_or_refund_claimed_by_seller": true,
+    "wind_limit_dome_kmh": 80,
+    "standalone_child_boarding": false,
+    "astronomical_phases_eclipses_visibility_not_independently_endorsed": true
+  },
+  "RoboRAVE_Ruta": {
+    "refreshed_event_aliases": [
+      "E041",
+      "E211"
+    ],
+    "list_price_USD": 650,
+    "detail_price_USD_per_person": 580,
+    "local_text_deadlines": [
+      "2026-10-31",
+      "2026-10-16–2026-11-15"
+    ],
+    "age_conflict_primary_vs_MS_13plus": true,
+    "family_visitor_admission_unconfirmed": true
+  },
+  "Coyote": {
+    "refreshed_programme": "CP613",
+    "autumn_closed": true,
+    "winter_dates": [
+      "2026-12-21",
+      "2026-12-23"
+    ],
+    "winter_age": [
+      6,
+      14
+    ],
+    "price_MXN_per_child": 3300,
+    "early_MXN": 2805,
+    "early_deadline": "2026-11-20",
+    "winter_family_base_MXN": 5940,
+    "early_family_MXN": 5610,
+    "discounts_do_not_stack": true
+  },
+  "excluded_leads": [
+    {
+      "url": "https://barcaacademycampscostarica.com/camps-costa-rica/",
+      "reason": "Direct GET 403; copied Ecuador references and 10-day general FAQ vs 5-day local claim; official club listing for this Costa Rica 2027 edition not located. Not imported as confirmed date or top recommendation."
+    }
+  ],
+  "raw_source_bodies_private": true,
+  "worldwide_complete": false
+}
