@@ -1,0 +1,567 @@
+{
+  "version": 180,
+  "checked": "2026-11-06",
+  "request_count": 54,
+  "hash_verified": 50,
+  "failures": [
+    {
+      "key": "can-infotech",
+      "url": "https://caninfotech.com.np/",
+      "checked_at": "2026-11-06T10:33:36.509022+00:00",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "key": "koshi-project",
+      "url": "https://raneast.ran.org.np/media/rulebooks/Project_Demonstration-2.pdf",
+      "checked_at": "2026-11-06T10:38:38.904355+00:00",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "soneva-jani-den",
+      "url": "https://soneva.com/resorts/soneva-jani/experiences/the-den/",
+      "checked_at": "2026-11-06T10:45:55.055609+00:00",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "makerverse-expo",
+      "url": "https://makerverse.skilltootr.com/competitions/robotics-expo",
+      "checked_at": "2026-11-06T10:48:07.563729+00:00",
+      "error": "HTTP Error 404: Not Found"
+    }
+  ],
+  "requests": [
+    {
+      "key": "dursikshya",
+      "url": "https://dursikshya.edu.np/",
+      "checked_at": "2026-11-06T10:33:22.590131+00:00",
+      "status": 200,
+      "final_url": "https://dursikshya.edu.np/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332936,
+      "sha256": "5ebece621b62226495d9b2fdbeb43a99ce7fd698e3c7edc59ee6b96aaf769128"
+    },
+    {
+      "key": "igs-wro",
+      "url": "https://igs.mv/wro/",
+      "checked_at": "2026-11-06T10:33:22.590702+00:00",
+      "status": 200,
+      "final_url": "https://igs.mv/wro/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 115144,
+      "sha256": "66e0c3301cebdeb7bc190241dfde26894136c0d4dda46a10c018eada42e2bb44"
+    },
+    {
+      "key": "igs-home",
+      "url": "https://igs.mv/",
+      "checked_at": "2026-11-06T10:33:22.590820+00:00",
+      "status": 200,
+      "final_url": "https://igs.mv/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 121839,
+      "sha256": "3c9dffac3ff4593c9c67b177bea6f0c3eb4ce27dd817a6ae3433c5c09bbcc832"
+    },
+    {
+      "key": "brilliance",
+      "url": "https://www.brilliance.mv/",
+      "checked_at": "2026-11-06T10:33:22.591000+00:00",
+      "status": 200,
+      "final_url": "https://www.brilliance.mv/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 508627,
+      "sha256": "32ea20ebc2adc82ba4ef33baf4857eef56c388b90ad0a6732d79376d0a339dc3"
+    },
+    {
+      "key": "soneva-academy",
+      "url": "https://soneva.com/soneva-academy/",
+      "checked_at": "2026-11-06T10:33:22.591372+00:00",
+      "status": 200,
+      "final_url": "https://soneva.com/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 189333,
+      "sha256": "87360ae13bb5e37d0f1ef1b5da67b887f0891dd071c3b92af464006f79785435"
+    },
+    {
+      "key": "patina-footprints",
+      "url": "https://patinahotels.com/maldives/footprints-kids-club",
+      "checked_at": "2026-11-06T10:33:23.298400+00:00",
+      "status": 200,
+      "final_url": "https://patinahotels.com/maldives/footprints-kids-club",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 40890,
+      "sha256": "c5b887721930cde92e839185a272a411469c926d80d2370359745ebbebe2d7a7"
+    },
+    {
+      "key": "patina-faq",
+      "url": "https://patinahotels.com/maldives/faq",
+      "checked_at": "2026-11-06T10:33:24.906911+00:00",
+      "status": 200,
+      "final_url": "https://patinahotels.com/maldives/faq",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 61438,
+      "sha256": "b7d464a27120506790d65fe3148cb7320da681b156ed067cde8d4ddc7ea912ce"
+    },
+    {
+      "key": "patina-kids-brochure",
+      "url": "https://patinahotels.com/assets/docs/PatinaMaldives_KidsActivity-Brochure.pdf",
+      "checked_at": "2026-11-06T10:33:25.795657+00:00",
+      "status": 200,
+      "final_url": "https://patinahotels.com/pdf-unavailable",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 15814,
+      "sha256": "26fe7acefdb1ae0baf6ca2662e87045b4de2db4b4bcd392175420a7de337c81e"
+    },
+    {
+      "key": "karkhana",
+      "url": "https://karkhana.asia/",
+      "checked_at": "2026-11-06T10:33:27.009923+00:00",
+      "status": 200,
+      "final_url": "https://karkhana.asia/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 367306,
+      "sha256": "2b905396f92ed573c5daaf33fd209ed88b549cf1cd49b05ec8a8d692ea7d5d6c"
+    },
+    {
+      "key": "ran-yantra",
+      "url": "https://yantra.ran.org.np/",
+      "checked_at": "2026-11-06T10:33:27.976346+00:00",
+      "status": 200,
+      "final_url": "https://yantra.ran.org.np/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 169392,
+      "sha256": "fec185cd8731c4cd010b43b30039ce68ddc79091c436ee182797d9cda4efcf72"
+    },
+    {
+      "key": "ran-east",
+      "url": "https://raneast.ran.org.np/",
+      "checked_at": "2026-11-06T10:33:29.922067+00:00",
+      "status": 200,
+      "final_url": "https://raneast.ran.org.np/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 1737,
+      "sha256": "f7509313d91972049b83b60228e3831077a8bb5b4e93bffdd661baf3326d0074"
+    },
+    {
+      "key": "can-federation",
+      "url": "https://can.org.np/",
+      "checked_at": "2026-11-06T10:33:31.141919+00:00",
+      "status": 200,
+      "final_url": "https://can.org.np/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 147761,
+      "sha256": "5357b27fdac1ad8028b8e1d8355e7b5dccbefa3c01a77f9e0d82fe2316bceb2b"
+    },
+    {
+      "key": "can-infotech",
+      "url": "https://caninfotech.com.np/",
+      "checked_at": "2026-11-06T10:33:36.509022+00:00",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "key": "robotech-nepal",
+      "url": "https://robotechnepal.com.np/events/summer-robotics-camp/",
+      "checked_at": "2026-11-06T10:33:36.715713+00:00",
+      "status": 200,
+      "final_url": "https://robotechnepal.com.np/events/summer-robotics-camp/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 159762,
+      "sha256": "eaa6917e49bf781860812ebfa272ece0cbe60f73ba7d6e53e4fd715e2d0751ab"
+    },
+    {
+      "key": "neema",
+      "url": "https://www.neemaeducation.com/",
+      "checked_at": "2026-11-06T10:38:37.105282+00:00",
+      "status": 200,
+      "final_url": "https://www.neemaeducation.com/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 79424,
+      "sha256": "b25485bfd0d8589121af23beec0bf03765709b85550505388dca83f8b4b0ec39"
+    },
+    {
+      "key": "thinknmake-events",
+      "url": "https://thinknmake.io/events",
+      "checked_at": "2026-11-06T10:38:37.105739+00:00",
+      "status": 200,
+      "final_url": "https://thinknmake.io/events",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 99889,
+      "sha256": "6ca59ff114a0e38d70c3d736190a32455eb6ec730947098abbd5472550345456"
+    },
+    {
+      "key": "ran-kids",
+      "url": "https://yantra.ran.org.np/event/president-cup-yantra-kids",
+      "checked_at": "2026-11-06T10:38:37.105824+00:00",
+      "status": 200,
+      "final_url": "https://yantra.ran.org.np/event/president-cup-yantra-kids",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 71613,
+      "sha256": "0b27c3531e8249a9ff2c8e612e3c5480f51bed81e18bff1c9eaf6d4e7b1dc171"
+    },
+    {
+      "key": "ran-teens",
+      "url": "https://yantra.ran.org.np/event/president-cup-yantra-teens",
+      "checked_at": "2026-11-06T10:38:37.105885+00:00",
+      "status": 200,
+      "final_url": "https://yantra.ran.org.np/event/president-cup-yantra-teens",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 71667,
+      "sha256": "0ee83b204bea8b7b6e350cb83c51fc17d6da28520a61dd0a40384b268a983baa"
+    },
+    {
+      "key": "ran-international",
+      "url": "https://yantra.ran.org.np/event/yantra-international-league%5Brobosoccer%5D",
+      "checked_at": "2026-11-06T10:38:37.106111+00:00",
+      "status": 200,
+      "final_url": "https://yantra.ran.org.np/event/yantra-international-league%5Brobosoccer%5D",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 71656,
+      "sha256": "360504a78d446d9c5235e99b0d6adfd913f5a30c5dae9030c6f98cdbe00bcb43"
+    },
+    {
+      "key": "ran-learning",
+      "url": "https://yantra.ran.org.np/event/yantra-learning",
+      "checked_at": "2026-11-06T10:38:38.458498+00:00",
+      "status": 200,
+      "final_url": "https://yantra.ran.org.np/event/yantra-learning",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 72786,
+      "sha256": "cede53f4919973bf2dbabf1336f6409e84c5be3ff9226b48f99957cd710c1c06"
+    },
+    {
+      "key": "ran-business-expo",
+      "url": "https://yantra.ran.org.np/event/yantra-business-cup-expo",
+      "checked_at": "2026-11-06T10:38:38.458716+00:00",
+      "status": 200,
+      "final_url": "https://yantra.ran.org.np/event/yantra-business-cup-expo",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 72236,
+      "sha256": "af70ba6d54a1392df28a34920274640c2c9b0c008f4c1e09f37322c22d5fd2c0"
+    },
+    {
+      "key": "ran-conference",
+      "url": "https://yantra.ran.org.np/event/yantra-robotics-&-intelligence-conference",
+      "checked_at": "2026-11-06T10:38:38.458819+00:00",
+      "status": 200,
+      "final_url": "https://yantra.ran.org.np/event/yantra-robotics-&-intelligence-conference",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 72051,
+      "sha256": "3745915f2531a00aaf10ace9dd7692ae368f927348ba566723d477ec9fec01f8"
+    },
+    {
+      "key": "ran-kids-rules",
+      "url": "https://yantra.ran.org.np/uploads/events/president-cup-yantra-kids-event_details-upload-20250613050722.pdf",
+      "checked_at": "2026-11-06T10:38:38.858130+00:00",
+      "status": 200,
+      "final_url": "https://yantra.ran.org.np/uploads/events/president-cup-yantra-kids-event_details-upload-20250613050722.pdf",
+      "content_type": "application/pdf",
+      "bytes": 529957,
+      "sha256": "66162a421d04544bbbb5813172d1b032bdb5bd6f475fc00f1570830b7beb8c28"
+    },
+    {
+      "key": "koshi-project",
+      "url": "https://raneast.ran.org.np/media/rulebooks/Project_Demonstration-2.pdf",
+      "checked_at": "2026-11-06T10:38:38.904355+00:00",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "wro-warehouse2027",
+      "url": "https://wro-association.org/about-wro/future-engineers-smart-warehouse-no/",
+      "checked_at": "2026-11-06T10:38:38.967842+00:00",
+      "status": 200,
+      "final_url": "https://wro-association.org/about-wro/future-engineers-smart-warehouse-no/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 199427,
+      "sha256": "300c9f9b0f9b438408512a8ad10157fa3e72b66b2e708cc62567f8d07f0e0e0a"
+    },
+    {
+      "key": "soneva-festive",
+      "url": "https://soneva.com/events/festive-at-soneva/",
+      "checked_at": "2026-11-06T10:38:39.655368+00:00",
+      "status": 200,
+      "final_url": "https://soneva.com/events/festive-at-soneva/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 173483,
+      "sha256": "4ea81cc2a7911ca7d9e9f05dcb925d68ef294c92281cfdd5b3deeb130cdf84d8"
+    },
+    {
+      "key": "makerverse-detail",
+      "url": "https://thinknmake.io/events/makerverse-2027",
+      "checked_at": "2026-11-06T10:45:51.921849+00:00",
+      "status": 200,
+      "final_url": "https://thinknmake.io/events/makerverse-2027",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 119009,
+      "sha256": "3fe8b6aa5801ef1c395d0a820e000a85ae641f03d323ba7bf9adf880259cb502"
+    },
+    {
+      "key": "makerverse-main",
+      "url": "https://makerverse.skilltootr.com",
+      "checked_at": "2026-11-06T10:45:51.922376+00:00",
+      "status": 200,
+      "final_url": "https://makerverse.skilltootr.com",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 114357,
+      "sha256": "b100c28ddb81f9c92bddc57af7cf099c7be8ebedd33477b9d71e9ec2347e96ef"
+    },
+    {
+      "key": "neema-news",
+      "url": "https://www.neemaeducation.com/news-and-events",
+      "checked_at": "2026-11-06T10:45:51.922473+00:00",
+      "status": 200,
+      "final_url": "https://www.neemaeducation.com/news-and-events",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 43708,
+      "sha256": "5146abb69b866c4b545ad6a3482776ae7f7aa32af23ef5de48eb5c98362f7cd1"
+    },
+    {
+      "key": "codeavour-nepal",
+      "url": "https://codeavour.org/event/nepal-nationals/",
+      "checked_at": "2026-11-06T10:45:51.922538+00:00",
+      "status": 200,
+      "final_url": "https://codeavour.org/event/nepal-nationals/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 109041,
+      "sha256": "0046d40284bba6221c5ecfb1160392b6e9ae8b068fbc5912a29731d210aa1f46"
+    },
+    {
+      "key": "wro-fe-general2027",
+      "url": "https://wro-association.org/wp-content/uploads/WRO-2027-Future-Engineers-General-Rules.pdf",
+      "checked_at": "2026-11-06T10:45:51.922768+00:00",
+      "status": 200,
+      "final_url": "https://wro-association.org/wp-content/uploads/WRO-2027-Future-Engineers-General-Rules.pdf",
+      "content_type": "application/pdf",
+      "bytes": 530303,
+      "sha256": "ce8a1309363fd8bc1ec1309dbd60ca17586fbb47517c21c666479aa921935867"
+    },
+    {
+      "key": "wro-fe-game2027",
+      "url": "https://wro-association.org/wp-content/uploads/WRO-2027-Future-Engineers-Game-Rules.pdf",
+      "checked_at": "2026-11-06T10:45:53.426726+00:00",
+      "status": 200,
+      "final_url": "https://wro-association.org/wp-content/uploads/WRO-2027-Future-Engineers-Game-Rules.pdf",
+      "content_type": "application/pdf",
+      "bytes": 13639841,
+      "sha256": "2567e59e223fbe691a891b52d1130a3e51db22c5ac2ad13cca72bd74bfe9f545"
+    },
+    {
+      "key": "patina-kids-current",
+      "url": "https://patinahotels.com/content/dam/patina/files/maldives/patinamaldives-kidsactivity-brochure.pdf",
+      "checked_at": "2026-11-06T10:45:53.668144+00:00",
+      "status": 200,
+      "final_url": "https://patinahotels.com/content/dam/patina/files/maldives/patinamaldives-kidsactivity-brochure.pdf",
+      "content_type": "application/pdf",
+      "bytes": 8021790,
+      "sha256": "3a4017c190e6180b16d57923663d0bfdbf9e5c18713304f23c7db074485c9468"
+    },
+    {
+      "key": "soneva-festive-pdf",
+      "url": "https://link.assetfile.io/2xDenMEafRugqW9IiZFpJn/Festive+2026+at+Soneva.pdf",
+      "checked_at": "2026-11-06T10:45:53.925323+00:00",
+      "status": 200,
+      "final_url": "https://link.assetfile.io/2xDenMEafRugqW9IiZFpJn/Festive+2026+at+Soneva.pdf",
+      "content_type": "application/pdf",
+      "bytes": 23454803,
+      "sha256": "d15fbeecc950160098d2fbaa40fb90b1e54730882445eb0127dfa5c2b0af3686"
+    },
+    {
+      "key": "soneva-fushi-den",
+      "url": "https://soneva.com/resorts/soneva-fushi/experiences/theden/",
+      "checked_at": "2026-11-06T10:45:54.713041+00:00",
+      "status": 200,
+      "final_url": "https://soneva.com/resorts/soneva-fushi/experiences/theden/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 147172,
+      "sha256": "4c3a10b34ca924909924673b9cad9a6fd62f319be025973949e436290afca5b8"
+    },
+    {
+      "key": "soneva-jani-den",
+      "url": "https://soneva.com/resorts/soneva-jani/experiences/the-den/",
+      "checked_at": "2026-11-06T10:45:55.055609+00:00",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "soneva-den-terms",
+      "url": "https://soneva.com/terms-conditions/the-den-terms-conditions/",
+      "checked_at": "2026-11-06T10:45:55.382662+00:00",
+      "status": 200,
+      "final_url": "https://soneva.com/terms-conditions/the-den-terms-conditions/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 109316,
+      "sha256": "9394f89a9693e8cae19969083ab8b6a11fdb41c942713ef1c75272dbdbf84f6e"
+    },
+    {
+      "key": "yantra-timeline",
+      "url": "https://yantra.ran.org.np/timeline/yantra_9_0",
+      "checked_at": "2026-11-06T10:45:55.828726+00:00",
+      "status": 200,
+      "final_url": "https://yantra.ran.org.np/timeline/yantra_9_0",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 64656,
+      "sha256": "ff19f5089a510ac43aedf451eb654dfd32231b1cdbc6c59f3f4e9644516801c1"
+    },
+    {
+      "key": "can-upcoming",
+      "url": "https://can.org.np/page/upcomingevents",
+      "checked_at": "2026-11-06T10:45:55.942971+00:00",
+      "status": 200,
+      "final_url": "https://can.org.np/page/upcomingevents",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 39327,
+      "sha256": "8ada338e3a4f1216bacb97b2d18d60b003fe647b8e5258adae49d9b0b41ea441"
+    },
+    {
+      "key": "yantra-teens-rules",
+      "url": "https://yantra.ran.org.np/uploads/events/president-cup-yantra-teens-event_details-upload-20260725162837.pdf",
+      "checked_at": "2026-11-06T10:48:07.563079+00:00",
+      "status": 200,
+      "final_url": "https://yantra.ran.org.np/uploads/events/president-cup-yantra-teens-event_details-upload-20260725162837.pdf",
+      "content_type": "application/pdf",
+      "bytes": 170481,
+      "sha256": "921e9392251d4a79f9110ab4fa12ba1c01d6727f2f6a667fca285152ebd22557"
+    },
+    {
+      "key": "yantra-soccer-rules",
+      "url": "https://yantra.ran.org.np/uploads/events/yantra-international-league%5Brobosoccer%5D-event_details-upload-20260725163153.pdf",
+      "checked_at": "2026-11-06T10:48:07.563643+00:00",
+      "status": 200,
+      "final_url": "https://yantra.ran.org.np/uploads/events/yantra-international-league%5Brobosoccer%5D-event_details-upload-20260725163153.pdf",
+      "content_type": "application/pdf",
+      "bytes": 346798,
+      "sha256": "133639d8435f5a6a60f5dcd4698f7a5f339f37c7a7311526da87b8a51b64711a"
+    },
+    {
+      "key": "makerverse-expo",
+      "url": "https://makerverse.skilltootr.com/competitions/robotics-expo",
+      "checked_at": "2026-11-06T10:48:07.563729+00:00",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "can-infotech-event",
+      "url": "https://can.org.np/page/event/74",
+      "checked_at": "2026-11-06T10:48:07.563793+00:00",
+      "status": 200,
+      "final_url": "https://can.org.np/page/event/74",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 43986,
+      "sha256": "9f5f7c8a8a9b1f9e4a5a908bbeac0aa3c565f9356f1d269c758773bf845946c3"
+    },
+    {
+      "key": "ran-yantra-warz",
+      "url": "https://yantra.ran.org.np/event/yantra-warz",
+      "checked_at": "2026-11-06T10:48:07.564032+00:00",
+      "status": 200,
+      "final_url": "https://yantra.ran.org.np/event/yantra-warz",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 71964,
+      "sha256": "45bf86cf69a5dc7d44bc42834cc27bb4168f19612458612a2fb6e0e57d4ea47c"
+    },
+    {
+      "key": "ran-yantra-autonomous-akhada",
+      "url": "https://yantra.ran.org.np/event/yantra-autonomous-akhada",
+      "checked_at": "2026-11-06T10:48:08.455529+00:00",
+      "status": 200,
+      "final_url": "https://yantra.ran.org.np/event/yantra-autonomous-akhada",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 71664,
+      "sha256": "3aa74abf643484f74309f127c9a2416ea7104b42704b8710bd710e05bd1c8c0c"
+    },
+    {
+      "key": "ran-yantra-autonomous-intelligence-industries-%5Byaii%5D",
+      "url": "https://yantra.ran.org.np/event/yantra-autonomous-intelligence-industries-%5Byaii%5D",
+      "checked_at": "2026-11-06T10:48:08.499400+00:00",
+      "status": 200,
+      "final_url": "https://yantra.ran.org.np/event/yantra-autonomous-intelligence-industries-%5Byaii%5D",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 71929,
+      "sha256": "2747344aa867bc42ab1b355c8bf6900b9fe5eac2361f04196bbaae7e0d35f52f"
+    },
+    {
+      "key": "ran-yantra-business-cup-softbots",
+      "url": "https://yantra.ran.org.np/event/yantra-business-cup-softbots",
+      "checked_at": "2026-11-06T10:48:08.856322+00:00",
+      "status": 200,
+      "final_url": "https://yantra.ran.org.np/event/yantra-business-cup-softbots",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 72951,
+      "sha256": "3779e8cbb3f2061cceee926bb4d5ae4b42d6e54d35622cf2d2c41ad228406739"
+    },
+    {
+      "key": "ran-yantra-micromouse",
+      "url": "https://yantra.ran.org.np/event/yantra-micromouse",
+      "checked_at": "2026-11-06T10:48:08.872099+00:00",
+      "status": 200,
+      "final_url": "https://yantra.ran.org.np/event/yantra-micromouse",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 71675,
+      "sha256": "f36de695779f357e5a0b1a184a105564cf73681c860e0cc16d63c6701d9befce"
+    },
+    {
+      "key": "ran-yantra-neeryaan",
+      "url": "https://yantra.ran.org.np/event/yantra-neeryaan",
+      "checked_at": "2026-11-06T10:48:08.915674+00:00",
+      "status": 200,
+      "final_url": "https://yantra.ran.org.np/event/yantra-neeryaan",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 71615,
+      "sha256": "1adf8a488e92b0be5f8ffaf129300d81fead47cb756b14374c070d12acd0c9ba"
+    },
+    {
+      "key": "makerverse-expo",
+      "url": "https://makerverse.skilltootr.com/events/maker-expo",
+      "checked_at": "2026-11-06T10:49:02.940869+00:00",
+      "status": 200,
+      "final_url": "https://makerverse.skilltootr.com/events/maker-expo",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 51453,
+      "sha256": "8115eafa0adff385364d95f77507ca44898d6dbdda20ea8729c24d2817622f3f"
+    },
+    {
+      "key": "makerverse-sumo",
+      "url": "https://makerverse.skilltootr.com/events/robo-sumo",
+      "checked_at": "2026-11-06T10:49:02.941245+00:00",
+      "status": 200,
+      "final_url": "https://makerverse.skilltootr.com/events/robo-sumo",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 51333,
+      "sha256": "6fc2b6f9bedb338c87a4ea3178875379a01dc980e50b7e8e629df40eda4ce5cb"
+    },
+    {
+      "key": "makerverse-obstacle",
+      "url": "https://makerverse.skilltootr.com/events/f1-racing",
+      "checked_at": "2026-11-06T10:49:02.941332+00:00",
+      "status": 200,
+      "final_url": "https://makerverse.skilltootr.com/events/f1-racing",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 51347,
+      "sha256": "4b85d97bfc1348375c3b1437207b9ea0b4a7171a55446eedee25d2422febac8a"
+    },
+    {
+      "key": "makerverse-drone",
+      "url": "https://makerverse.skilltootr.com/events/drone-racing",
+      "checked_at": "2026-11-06T10:49:02.941418+00:00",
+      "status": 200,
+      "final_url": "https://makerverse.skilltootr.com/events/drone-racing",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 51496,
+      "sha256": "af862871bd8d815521cb5f2077876bac4a1241f859f61edacb0a315510f76475"
+    },
+    {
+      "key": "makerverse-faq",
+      "url": "https://makerverse.skilltootr.com/faq",
+      "checked_at": "2026-11-06T10:49:02.941759+00:00",
+      "status": 200,
+      "final_url": "https://makerverse.skilltootr.com/faq",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 44722,
+      "sha256": "a0e0e4109258854527c23a3ea43c23bc0c5b5ad61d40f03e52bcfd96e80dc4da"
+    }
+  ],
+  "additional_primary_reader": {
+    "url": "https://www.brilliance.mv/",
+    "sha256": "52ef652fcc018c2869f93bec42ef0443bcc81f97e8f61f193a5afc6270df6121",
+    "crawl_age": "2 months as reported",
+    "no_current_enrollment_inferred": true
+  },
+  "all_requests_get_only": true,
+  "no_forms_submitted": true,
+  "raw_source_bodies_private": true
+}

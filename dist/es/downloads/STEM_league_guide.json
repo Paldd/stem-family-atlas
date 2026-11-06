@@ -15,7 +15,7 @@
         "id": "wro",
         "name": "WRO",
         "group": "core",
-        "age_summary": "8–12 → 11–15 → 14–19; Future Engineers 14–22",
+        "age_summary": "RoboMission / Future Innovators 8–12 → 11–15 → 14–19; Future Engineers 2027: Senior 14–19 / Advanced 18–23",
         "age_tags": [
           "9",
           "10-12",
@@ -48,12 +48,24 @@
             "entry": "no es una categoría Elementaria menor"
           },
           {
-            "name": "Future Engineers",
-            "age": "14–22",
+            "name": "Future Engineers 2027 · Smart Warehouse · Senior",
+            "age": "14–19",
             "team": "2–3 + coach",
-            "hardware": "auto autónomo con dirección de dirección",
-            "age_rule": "los orientaciones actuales; revisar las nuevas estaciones",
-            "entry": "la trayectoria de los adolescentes / estudiantes"
+            "hardware": "Plataforma abierta: un robot móvil autónomo de almacén, hasta 50 × 50 × 50 cm antes de salida, 6.0 kg. Controllers / onboard computers / sensors / language libres cumpliendo reglas; sin marca obligatoria.",
+            "age_rule": "Temporada 2027: años de nacimiento 2008–2013; edad alcanzada en año calendario. Con 18–19 se puede elegir un grupo, sin competir en ambos.",
+            "entry": "Ruta nacional y cupo aparte. En etapa internacional coach 18+; GitHub público y Engineering Documentation en inglés. Organizador nacional define su idioma.",
+            "source": "https://wro-association.org/wp-content/uploads/WRO-2027-Future-Engineers-General-Rules.pdf",
+            "checked": "2026-11-06"
+          },
+          {
+            "name": "Future Engineers 2027 · Smart Warehouse · Advanced",
+            "age": "18–23",
+            "team": "2–3 + coach",
+            "hardware": "Plataforma abierta: un robot móvil autónomo de almacén, hasta 50 × 50 × 50 cm antes de salida, 6.0 kg. Controllers / onboard computers / sensors / language libres cumpliendo reglas; sin marca obligatoria.",
+            "age_rule": "Temporada 2027: años de nacimiento 2004–2009; edad alcanzada en año calendario. Con 18–19 se puede elegir un grupo, sin competir en ambos.",
+            "entry": "Ruta nacional y cupo aparte. En etapa internacional coach 18+; GitHub público y Engineering Documentation en inglés. Organizador nacional define su idioma.",
+            "source": "https://wro-association.org/wp-content/uploads/WRO-2027-Future-Engineers-General-Rules.pdf",
+            "checked": "2026-11-06"
           }
         ],
         "event_ids": [
@@ -197,7 +209,8 @@
           "Taiwan: se admiten escuelas extranjeras del sistema local. el equipo turístico de Costa Rica no recibe una entrada nacional automática. National 2026 ha pasado; los días de 2027 no se conocen.",
           "de la ciudad de Kazajstán2026 Elementary8–12 /2014–2018,2–3 el alumno; Matvey candidato de edad, Oscar2020 más joven. nuevo2027 el calendario, la entrada extranjera y la cuota aún no se conocen; RU PDF no prueba la capacidad de la audiencia.",
           "v30:SpainRoboBasic6–12ySwissStarter6–10—los caminos nacionales menores;de la misma forma queworldquota. cf..los perfileswro-spain/wro-switzerland.",
-          "Iceland: University of Iceland anunció WRO el 8 de mayo 2027, RoboMission / Future Innovators, 2–3 alumnos y entrenador. Anuncio local con preinscripción; inclusión en member directory global vigente y admisión extranjera sin confirmar."
+          "Iceland: University of Iceland anunció WRO el 8 de mayo 2027, RoboMission / Future Innovators, 2–3 alumnos y entrenador. Anuncio local con preinscripción; inclusión en member directory global vigente y admisión extranjera sin confirmar.",
+          "Nueva confirmación 2027: Smart Warehouse sustituye reto reciente de coche autónomo. Descripciones antiguas 14–22 / steering-car no aplicadas a reglas 2027. Matvey 2017 y Oscar 2020 aún menores del mínimo; con fórmula actual Senior posible desde años calendario 2031 y 2034 respectivamente, sin garantizar reglas futuras."
         ],
         "cost": "presupuesto: kit / computadora, campo y detalles de temporada, registro, preparación, viaje y residencia. suma exacta  en la tarjeta de la etapa; no calculado para toda la liga.",
         "award": "Puesto o premio según los resultados oficiales",
@@ -246,6 +259,21 @@
             "title": "WRO Iceland · local 2027 programme",
             "url": "https://wro.hi.is/en/competition",
             "checked": "2026-11-05"
+          },
+          {
+            "title": "WRO · Smart Warehouse announcement",
+            "url": "https://wro-association.org/about-wro/future-engineers-smart-warehouse-no/",
+            "checked": "2026-11-06"
+          },
+          {
+            "title": "WRO FE · General Rules 2027",
+            "url": "https://wro-association.org/wp-content/uploads/WRO-2027-Future-Engineers-General-Rules.pdf",
+            "checked": "2026-11-06"
+          },
+          {
+            "title": "WRO FE · Game Rules 2027",
+            "url": "https://wro-association.org/wp-content/uploads/WRO-2027-Future-Engineers-Game-Rules.pdf",
+            "checked": "2026-11-06"
           }
         ],
         "evidence": "Se ha completado por las lecturas de las reglas oficiales / páginas 30.09.2026; la recepción local de la familia se confirma por separado."
@@ -18875,11 +18903,349 @@
           }
         ],
         "evidence": "Plazo del 5 de noviembre de 2026 ya pasado al verificar el 6 de noviembre. Seleccionan inicialmente 50 equipos y, en abril de 2027, 30 finalistas; exposición nacional en mayo de 2027, día exacto sin publicar. Formación docente de 16 horas y mentoring diciembre–marzo no convertidos en campamento infantil abierto."
+      },
+      {
+        "id": "yantra-nepal",
+        "name": "Yantra X · Nepal",
+        "group": "regional",
+        "age_summary": "Según categoría elegida: curso / año de nacimiento exacto obligatorio",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Páginas de inscripción corresponden a 2026; mayoría indica meses agosto–noviembre, sin día exacto de competición. Timeline indica November onwards. Día y admisión infantil extranjera no inventados. Certificado de participación, muestra lectiva, puesto competitivo y cupo internacional son resultados distintos. Valoración editorial no es ranking mundial independiente. PDF marcado 2025 y contiene otras cuotas: early 3000 / normal 5000 / late 7000 NPR. No mezclar con tarifas de página 2026.",
+        "categories": [
+          {
+            "name": "Yantra Kids · Nepal / Yantra X",
+            "age": "Cursos 4–10 · PDF 2025 vinculado",
+            "team": "Equipo; composición exacta según reglamento de categoría.",
+            "hardware": "Robot autónomo 30 × 30 × 30 cm, hasta 3 kg, ultrasonic / IR según PDF 2025. Cuatro alumnos + mentor adulto. Confirmar edición nueva.",
+            "entry": "Confirmar curso real, edad de corte, colegio / club extranjero, composición, idioma de trabajo y plazas. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.",
+            "source": "https://yantra.ran.org.np/event/president-cup-yantra-kids",
+            "event_id": "C1906"
+          },
+          {
+            "name": "Yantra Teens · Nepal / Yantra X",
+            "age": "Classes 9–12",
+            "team": "Equipo; composición exacta según reglamento de categoría.",
+            "hardware": "Página describe Garbage to Gold. PDF vinculado describe en cambio Remote Rescue con drone / rover. Documento no aceptado como reglamento coherente de Teens.",
+            "entry": "Confirmar curso real, edad de corte, colegio / club extranjero, composición, idioma de trabajo y plazas. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.",
+            "source": "https://yantra.ran.org.np/event/president-cup-yantra-teens",
+            "event_id": "C1907"
+          },
+          {
+            "name": "Yantra International League · RoboSoccer · Nepal / Yantra X",
+            "age": "Todas las edades · reglas 2026",
+            "team": "Equipo; composición exacta según reglamento de categoría.",
+            "hardware": "Tres robots de juego; máximo cinco miembros de equipo incluido mentor. Control manual inalámbrico, 45 cm cube, 6 kg + 3%, máximo 24 V; toy cars / LEGO prefabricados prohibidos. Verificación de robots dos semanas antes. Categoría abierta compleja, no liga menor separada.",
+            "entry": "Confirmar curso real, edad de corte, colegio / club extranjero, composición, idioma de trabajo y plazas. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.",
+            "source": "https://yantra.ran.org.np/event/yantra-international-league%5Brobosoccer%5D",
+            "event_id": "C1908"
+          },
+          {
+            "name": "Yantra Autonomous Akhada · Nepal / Yantra X",
+            "age": "Abierto · política infantil TBD",
+            "team": "Equipo; composición exacta según reglamento de categoría.",
+            "hardware": "Sumo autónomo 2 Vs 2, dos robots por equipo, sin control humano. Edad, personas por equipo y reglamento nuevo completo requieren revisión.",
+            "entry": "Confirmar curso real, edad de corte, colegio / club extranjero, composición, idioma de trabajo y plazas. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.",
+            "source": "https://yantra.ran.org.np/event/yantra-autonomous-akhada",
+            "event_id": "C1909"
+          },
+          {
+            "name": "Yantra Autonomous Intelligence Industries · Nepal / Yantra X",
+            "age": "Edad / curso TBD",
+            "team": "Equipo; composición exacta según reglamento de categoría.",
+            "hardware": "AI / IoT / machine learning: dancing, running con obstáculos y autonomous object sorting con AI vision. Categoría infantil y material permitido sin establecer completamente.",
+            "entry": "Confirmar curso real, edad de corte, colegio / club extranjero, composición, idioma de trabajo y plazas. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.",
+            "source": "https://yantra.ran.org.np/event/yantra-autonomous-intelligence-industries-%5Byaii%5D",
+            "event_id": "C1910"
+          },
+          {
+            "name": "Yantra Business Cup · SOFTBOTS · Nepal / Yantra X",
+            "age": "Estudiantes / startups · política infantil TBD",
+            "team": "Equipo; composición exacta según reglamento de categoría.",
+            "hardware": "Agentes AI de software: decisiones, NLP y adaptive behavior. Concurso de software / startup pitch, no partido robótico infantil.",
+            "entry": "Confirmar curso real, edad de corte, colegio / club extranjero, composición, idioma de trabajo y plazas. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.",
+            "source": "https://yantra.ran.org.np/event/yantra-business-cup-softbots",
+            "event_id": "C1911"
+          },
+          {
+            "name": "Yantra Micromouse · Nepal / Yantra X",
+            "age": "Edad / curso TBD",
+            "team": "Equipo; composición exacta según reglamento de categoría.",
+            "hardware": "Exploración autónoma de laberinto desconocido, mapa y ruta rápida al centro; control externo tras salida prohibido. Confirmar dimensiones, edad y composición.",
+            "entry": "Confirmar curso real, edad de corte, colegio / club extranjero, composición, idioma de trabajo y plazas. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.",
+            "source": "https://yantra.ran.org.np/event/yantra-micromouse",
+            "event_id": "C1912"
+          },
+          {
+            "name": "Yantra NeerYaan · Nepal / Yantra X",
+            "age": "Edad / curso TBD",
+            "team": "Equipo; composición exacta según reglamento de categoría.",
+            "hardware": "ROV submarino: localizar y recoger objetos metálicos entre obstáculos. Admisión infantil y requisitos de material sin confirmar.",
+            "entry": "Confirmar curso real, edad de corte, colegio / club extranjero, composición, idioma de trabajo y plazas. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.",
+            "source": "https://yantra.ran.org.np/event/yantra-neeryaan",
+            "event_id": "C1913"
+          },
+          {
+            "name": "Yantra Warz · Nepal / Yantra X",
+            "age": "Abierto · política infantil TBD",
+            "team": "Equipo; composición exacta según reglamento de categoría.",
+            "hardware": "Robot combat: página indica 60 × 60 × 75 cm, 15 kg y categoría Antweight separada. Límites Antweight y admisión de pilotos infantiles sin establecer.",
+            "entry": "Confirmar curso real, edad de corte, colegio / club extranjero, composición, idioma de trabajo y plazas. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.",
+            "source": "https://yantra.ran.org.np/event/yantra-warz",
+            "event_id": "C1914"
+          },
+          {
+            "name": "Yantra Business Cup · robotics / AI startups",
+            "age": "Estudiantes / startups · política infantil TBD",
+            "team": "Equipo; composición exacta según reglamento de categoría.",
+            "hardware": "Concept paper → business plan → live pitch; finalistas pueden acceder a incubation con King’s College Otharo. No garantiza inversiones, creación de empresa ni campamento infantil.",
+            "entry": "Confirmar curso real, edad de corte, colegio / club extranjero, composición, idioma de trabajo y plazas. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.",
+            "source": "https://yantra.ran.org.np/event/yantra-business-cup-expo",
+            "event_id": "C1915"
+          }
+        ],
+        "event_ids": [
+          "C1906",
+          "C1907",
+          "C1908",
+          "C1909",
+          "C1910",
+          "C1911",
+          "C1912",
+          "C1913",
+          "C1914",
+          "C1915"
+        ],
+        "legacy_ids": [],
+        "route": "Confirmar curso real, edad de corte, colegio / club extranjero, composición, idioma de trabajo y plazas. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.",
+        "hardware": "Plataformas diferentes por categoría; ver fichas y reglas concretas",
+        "language": "Idioma de web y documentos ingleses no acreditan enseñanza o arbitraje en inglés. EN / ES / RU del grupo elegido sin establecer.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Confirmar curso real, fecha de nacimiento, composición, representación escolar / de club, admisión extranjera y plazas por categoría elegida. Sin enviar formulario, consentimientos ni pago."
+        ],
+        "nuances": [
+          "Certificado de participación, muestra lectiva, puesto competitivo y cupo internacional son resultados distintos. Valoración editorial no es ranking mundial independiente.",
+          "Idioma de web y documentos ingleses no acreditan enseñanza o arbitraje en inglés. EN / ES / RU del grupo elegido sin establecer."
+        ],
+        "cost": "Tarifas publicadas y conflictos por categoría, presupuesto familiar completo sin calcular.",
+        "award": "Certificado de participación, muestra lectiva, puesto competitivo y cupo internacional son resultados distintos. Valoración editorial no es ranking mundial independiente.",
+        "sources": [
+          {
+            "title": "Yantra X · Nepal",
+            "url": "https://yantra.ran.org.np/",
+            "checked": "2026-11-06"
+          }
+        ],
+        "evidence": "Confirmar curso real, edad de corte, colegio / club extranjero, composición, idioma de trabajo y plazas. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos."
+      },
+      {
+        "id": "makerverse-nepal",
+        "name": "MakerVerse · Nepal",
+        "group": "regional",
+        "age_summary": "Según categoría elegida: curso / año de nacimiento exacto obligatorio",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Web principal indica inscripción abierta, ThinkNMake cerrada; plazo del texto 17 de octubre de 2026 y del CMS 29 de octubre. Ambos pasados al 6 de noviembre. Web principal confirma solo enero de 2027; página vinculada indica 30–31 de enero con horas nocturnas inusuales. Hasta aclaración esos días no convertidos en calendario confirmado. 500+ colegios es objetivo, no asistencia acreditada.",
+        "categories": [
+          {
+            "name": "MakerVerse 2027 · Junior",
+            "age": "Grades 3–5",
+            "team": "2–3 escolares, inscribe colegio.",
+            "hardware": "Proyecto funcional propio y Project Code compartido. Cupo a final internacional sin publicar.",
+            "entry": "Confirmar curso real, edad de corte, colegio / club extranjero, composición, idioma de trabajo y plazas. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos. Ruta publicada para colegios / alumnos de Nepal; escolar extranjero independiente y preparación remota sin confirmar.",
+            "source": "https://makerverse.skilltootr.com/events/maker-expo",
+            "event_id": "C1916"
+          },
+          {
+            "name": "MakerVerse 2027 · Senior",
+            "age": "Grades 6–10",
+            "team": "2–3 escolares, inscribe colegio.",
+            "hardware": "Proyecto funcional propio y Project Code compartido. Cupo a final internacional sin publicar.",
+            "entry": "Confirmar curso real, edad de corte, colegio / club extranjero, composición, idioma de trabajo y plazas. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos. Ruta publicada para colegios / alumnos de Nepal; escolar extranjero independiente y preparación remota sin confirmar.",
+            "source": "https://makerverse.skilltootr.com/events/maker-expo",
+            "event_id": "C1917"
+          },
+          {
+            "name": "MakerVerse 2027 · Robo Sumo",
+            "age": "Grades 5–10",
+            "team": "Track individual",
+            "hardware": "Kit de chassis, proximity sensors, motor driver, microcontroller y Li-Po; serie de talleres y competición sumo. Paquete competitivo individual con preparación; no campamento vacacional independiente ni residencia. Curso exacto de cada niño desconocido; edad 9 o 6 no sustituye curso 5. Web principal indica inscripción abierta, ThinkNMake cerrada; plazo del texto 17 de octubre de 2026 y del CMS 29 de octubre. Ambos pasados al 6 de noviembre. Web principal confirma solo enero de 2027; página vinculada indica 30–31 de enero con horas nocturnas inusuales. Hasta aclaración esos días no convertidos en calendario confirmado. 500+ colegios es objetivo, no asistencia acreditada.",
+            "entry": "Confirmar curso real, edad de corte, colegio / club extranjero, composición, idioma de trabajo y plazas. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos. Ruta publicada para colegios / alumnos de Nepal; escolar extranjero independiente y preparación remota sin confirmar.",
+            "source": "https://makerverse.skilltootr.com/events/robo-sumo",
+            "event_id": "C1918"
+          },
+          {
+            "name": "MakerVerse 2027 · Robo Obstacle",
+            "age": "Grades 5–10",
+            "team": "Track individual",
+            "hardware": "Chassis, IR sensors, motor driver, microcontroller y Li-Po; line following / PID y talleres obligatorios. URL contiene f1-racing, pero título vigente Robo Obstacle; no es STEM Racing. Paquete competitivo individual con preparación; no campamento vacacional independiente ni residencia. Curso exacto de cada niño desconocido; edad 9 o 6 no sustituye curso 5. Web principal indica inscripción abierta, ThinkNMake cerrada; plazo del texto 17 de octubre de 2026 y del CMS 29 de octubre. Ambos pasados al 6 de noviembre. Web principal confirma solo enero de 2027; página vinculada indica 30–31 de enero con horas nocturnas inusuales. Hasta aclaración esos días no convertidos en calendario confirmado. 500+ colegios es objetivo, no asistencia acreditada.",
+            "entry": "Confirmar curso real, edad de corte, colegio / club extranjero, composición, idioma de trabajo y plazas. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos. Ruta publicada para colegios / alumnos de Nepal; escolar extranjero independiente y preparación remota sin confirmar.",
+            "source": "https://makerverse.skilltootr.com/events/f1-racing",
+            "event_id": "C1919"
+          },
+          {
+            "name": "MakerVerse 2027 · Drone Racing",
+            "age": "Grades 5–10",
+            "team": "Track individual",
+            "hardware": "Frame, motors, ESCs, flight controller, props, transmitter / receiver; montaje, calibración y talleres obligatorios antes de vuelos. Paquete competitivo individual con preparación; no campamento vacacional independiente ni residencia. Curso exacto de cada niño desconocido; edad 9 o 6 no sustituye curso 5. Web principal indica inscripción abierta, ThinkNMake cerrada; plazo del texto 17 de octubre de 2026 y del CMS 29 de octubre. Ambos pasados al 6 de noviembre. Web principal confirma solo enero de 2027; página vinculada indica 30–31 de enero con horas nocturnas inusuales. Hasta aclaración esos días no convertidos en calendario confirmado. 500+ colegios es objetivo, no asistencia acreditada.",
+            "entry": "Confirmar curso real, edad de corte, colegio / club extranjero, composición, idioma de trabajo y plazas. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos. Ruta publicada para colegios / alumnos de Nepal; escolar extranjero independiente y preparación remota sin confirmar.",
+            "source": "https://makerverse.skilltootr.com/events/drone-racing",
+            "event_id": "C1920"
+          }
+        ],
+        "event_ids": [
+          "C1916",
+          "C1917",
+          "C1918",
+          "C1919",
+          "C1920"
+        ],
+        "legacy_ids": [],
+        "route": "Confirmar curso real, edad de corte, colegio / club extranjero, composición, idioma de trabajo y plazas. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.",
+        "hardware": "Plataformas diferentes por categoría; ver fichas y reglas concretas",
+        "language": "Idioma de web y documentos ingleses no acreditan enseñanza o arbitraje en inglés. EN / ES / RU del grupo elegido sin establecer.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Confirmar curso real, fecha de nacimiento, composición, representación escolar / de club, admisión extranjera y plazas por categoría elegida. Sin enviar formulario, consentimientos ni pago."
+        ],
+        "nuances": [
+          "Certificado de participación, muestra lectiva, puesto competitivo y cupo internacional son resultados distintos. Valoración editorial no es ranking mundial independiente.",
+          "Idioma de web y documentos ingleses no acreditan enseñanza o arbitraje en inglés. EN / ES / RU del grupo elegido sin establecer."
+        ],
+        "cost": "Tarifas publicadas y conflictos por categoría, presupuesto familiar completo sin calcular.",
+        "award": "Certificado de participación, muestra lectiva, puesto competitivo y cupo internacional son resultados distintos. Valoración editorial no es ranking mundial independiente.",
+        "sources": [
+          {
+            "title": "MakerVerse · Nepal",
+            "url": "https://makerverse.skilltootr.com/",
+            "checked": "2026-11-06"
+          }
+        ],
+        "evidence": "Confirmar curso real, edad de corte, colegio / club extranjero, composición, idioma de trabajo y plazas. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos."
+      },
+      {
+        "id": "codeavour-nepal-local",
+        "name": "Codeavour · Nepal Nationals",
+        "group": "regional",
+        "age_summary": "Según categoría elegida: curso / año de nacimiento exacto obligatorio",
+        "age_tags": [
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Página oficial Nepal Nationals: Event Date / Time / Venue — To be Announced. Publicación secundaria sobre 12 de febrero de 2027 no tomada como día confirmado. Reglas de tres tracks en perfil principal Codeavour; mínimo 7 años aún no admite a Oscar de seis.",
+        "categories": [
+          {
+            "name": "Codeavour 8.0 · Nepal Nationals / route watch",
+            "age": "Elementary 7–10 / Junior 11–14 / Senior 15–18 · corte local TBD",
+            "team": "Equipo; composición exacta según reglamento de categoría.",
+            "hardware": "Confirmar kit y reglamento técnico de categoría elegida.",
+            "entry": "Confirmar curso real, edad de corte, colegio / club extranjero, composición, idioma de trabajo y plazas. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos. Clasificación regional / nacional → International Showdown. Representación familiar exacta se acuerda con country partner; mención antigua de Neema no prueba admisión extranjera automática.",
+            "source": "https://codeavour.org/event/nepal-nationals/",
+            "event_id": "C1921"
+          }
+        ],
+        "event_ids": [
+          "C1921"
+        ],
+        "legacy_ids": [],
+        "route": "Confirmar curso real, edad de corte, colegio / club extranjero, composición, idioma de trabajo y plazas. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.",
+        "hardware": "Plataformas diferentes por categoría; ver fichas y reglas concretas",
+        "language": "Idioma de web y documentos ingleses no acreditan enseñanza o arbitraje en inglés. EN / ES / RU del grupo elegido sin establecer.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Confirmar curso real, fecha de nacimiento, composición, representación escolar / de club, admisión extranjera y plazas por categoría elegida. Sin enviar formulario, consentimientos ni pago."
+        ],
+        "nuances": [
+          "Certificado de participación, muestra lectiva, puesto competitivo y cupo internacional son resultados distintos. Valoración editorial no es ranking mundial independiente.",
+          "Idioma de web y documentos ingleses no acreditan enseñanza o arbitraje en inglés. EN / ES / RU del grupo elegido sin establecer."
+        ],
+        "cost": "Tarifas publicadas y conflictos por categoría, presupuesto familiar completo sin calcular.",
+        "award": "Certificado de participación, muestra lectiva, puesto competitivo y cupo internacional son resultados distintos. Valoración editorial no es ranking mundial independiente.",
+        "sources": [
+          {
+            "title": "Codeavour · Nepal Nationals",
+            "url": "https://codeavour.org/event/nepal-nationals/",
+            "checked": "2026-11-06"
+          }
+        ],
+        "evidence": "Confirmar curso real, edad de corte, colegio / club extranjero, composición, idioma de trabajo y plazas. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos."
+      },
+      {
+        "id": "wro-maldives-local",
+        "name": "WRO · Maldives / IGS",
+        "group": "regional",
+        "age_summary": "Según categoría elegida: curso / año de nacimiento exacto obligatorio",
+        "age_tags": [
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "IGS aún publica WRO 2025, nacional tentative Aug/Sep y final mundial Singapore del 26 al 28 de noviembre de 2025. Fechas nuevas 2026 / 2027 y fee sin publicar. RoboMission indica a la vez Free Choice y LEGO-only antiguo: reglamento vigente de temporada prevalece, confirmar condiciones locales. Página FI admite plataforma libre. Oscar menor de 8 durante 2027; Matvey candidato por edad, representación nacional sin confirmar.",
+        "categories": [
+          {
+            "name": "WRO Maldives · RoboMission / next-season watch",
+            "age": "Elementary 8–12 / Junior 11–15 / Senior 14–19",
+            "team": "2–3 + coach",
+            "hardware": "Confirmar kit y reglamento técnico de categoría elegida.",
+            "entry": "Confirmar curso real, edad de corte, colegio / club extranjero, composición, idioma de trabajo y plazas. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.",
+            "source": "https://igs.mv/wro/",
+            "event_id": "C1922"
+          },
+          {
+            "name": "WRO Maldives · Future Innovators / next-season watch",
+            "age": "Elementary 8–12 / Junior 11–15 / Senior 14–19",
+            "team": "2–3 + coach",
+            "hardware": "Confirmar kit y reglamento técnico de categoría elegida.",
+            "entry": "Confirmar curso real, edad de corte, colegio / club extranjero, composición, idioma de trabajo y plazas. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.",
+            "source": "https://igs.mv/wro/",
+            "event_id": "C1923"
+          }
+        ],
+        "event_ids": [
+          "C1922",
+          "C1923"
+        ],
+        "legacy_ids": [],
+        "route": "Confirmar curso real, edad de corte, colegio / club extranjero, composición, idioma de trabajo y plazas. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.",
+        "hardware": "Plataformas diferentes por categoría; ver fichas y reglas concretas",
+        "language": "Idioma de web y documentos ingleses no acreditan enseñanza o arbitraje en inglés. EN / ES / RU del grupo elegido sin establecer.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Confirmar curso real, fecha de nacimiento, composición, representación escolar / de club, admisión extranjera y plazas por categoría elegida. Sin enviar formulario, consentimientos ni pago."
+        ],
+        "nuances": [
+          "Certificado de participación, muestra lectiva, puesto competitivo y cupo internacional son resultados distintos. Valoración editorial no es ranking mundial independiente.",
+          "Idioma de web y documentos ingleses no acreditan enseñanza o arbitraje en inglés. EN / ES / RU del grupo elegido sin establecer."
+        ],
+        "cost": "Tarifas publicadas y conflictos por categoría, presupuesto familiar completo sin calcular.",
+        "award": "Certificado de participación, muestra lectiva, puesto competitivo y cupo internacional son resultados distintos. Valoración editorial no es ranking mundial independiente.",
+        "sources": [
+          {
+            "title": "WRO · Maldives / IGS",
+            "url": "https://igs.mv/wro/",
+            "checked": "2026-11-06"
+          }
+        ],
+        "evidence": "Confirmar curso real, edad de corte, colegio / club extranjero, composición, idioma de trabajo y plazas. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos."
       }
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "214 perfiles de ligas, familias y programas; conservadas las 46 rutas anteriores. Formatos brasileños separados, Robofest LATAM y BajaBot locales descritos por categorías propias. Cobertura mundial parcial.",
+    "methodology": "218 perfiles de ligas, familias y programas; todas las 46 rutas anteriores conservadas. Formatos brasileños separados, Robofest LATAM y BajaBot locales descritos por categorías propias. Cobertura mundial parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

@@ -1,0 +1,208 @@
+{
+  "version": 180,
+  "checked": "2026-11-06",
+  "MakerVerse": {
+    "month": "2027-01",
+    "main_date_precision": "month",
+    "linked_detail_dates": [
+      "2027-01-30",
+      "2027-01-31"
+    ],
+    "exact_days_not_promoted_to_ICS": true,
+    "registration_status_conflict": [
+      "main: open",
+      "ThinkNMake: closed"
+    ],
+    "expired_deadlines": [
+      "2026-10-17",
+      "2026-10-29"
+    ],
+    "school_expo_grades": {
+      "junior": "3–5",
+      "senior": "6–10"
+    },
+    "school_expo_team_size": [
+      2,
+      3
+    ],
+    "fee_NPR_per_student": 1000,
+    "fee_NPR_per_team_of_3": 3000,
+    "fee_team_of_2_not_separately_confirmed": true,
+    "arena_grades": "5–10",
+    "arena_individual": true,
+    "arena_NPR_per_track_package": 25000,
+    "arena_package_includes": [
+      "registration",
+      "build kit",
+      "workshop series"
+    ],
+    "foreign_school_and_instruction_language_unconfirmed": true,
+    "schools_500_is_target_not_verified_attendance": true
+  },
+  "Yantra": {
+    "kids_PDF_year": 2025,
+    "kids_PDF_grades": "4–10",
+    "kids_PDF_team_students": 4,
+    "kids_PDF_adult_mentor_required": true,
+    "kids_PDF_fee_NPR": [
+      3000,
+      5000,
+      7000
+    ],
+    "kids_current_page_fees_NPR": [
+      4500,
+      6000
+    ],
+    "teens_page_grades": "9–12",
+    "teens_linked_document_mismatch": "Remote Rescue Robotics Challenge drone/rover, not Garbage to Gold",
+    "soccer_rules_year": 2026,
+    "soccer_age": "all ages",
+    "soccer_team_max_including_mentor": 5,
+    "soccer_playing_robots": 3,
+    "soccer_size_cm": [
+      45,
+      45,
+      45
+    ],
+    "soccer_kg": 6,
+    "soccer_weight_tolerance_percent": 3,
+    "soccer_max_voltage": 24,
+    "soccer_LEGO_and_toy_cars_prohibited": true,
+    "softbots_archived_dates": [
+      "2026-09-11",
+      "2026-09-12"
+    ],
+    "softbots_venue": "Sunway College Kathmandu",
+    "most_exact_competition_days_unannounced": true
+  },
+  "WRO_FE_2027": {
+    "challenge": "Smart Warehouse",
+    "senior_age": [
+      14,
+      19
+    ],
+    "senior_birth_years": [
+      2008,
+      2013
+    ],
+    "advanced_age": [
+      18,
+      23
+    ],
+    "advanced_birth_years": [
+      2004,
+      2009
+    ],
+    "annual_age_rule": true,
+    "team_students": [
+      2,
+      3
+    ],
+    "international_coach_min_age": 18,
+    "max_start_dimensions_cm": [
+      50,
+      50,
+      50
+    ],
+    "max_kg": 6.0,
+    "open_hardware_platform": true,
+    "international_documentation_language": "EN",
+    "public_GitHub_required": true,
+    "old_driving_challenge_not_current": true,
+    "Matvey_possible_Senior_year_under_current_formula": 2031,
+    "Oscar_possible_Senior_year_under_current_formula": 2034,
+    "future_rules_not_guaranteed": true
+  },
+  "WRO_MDV": {
+    "local_page_year": 2025,
+    "exact_2026_2027_days_unannounced": true,
+    "local_foreign_delegation_not_confirmed": true,
+    "LEGO_only_vs_Free_Choice_conflict": true
+  },
+  "Codeavour_NPL": {
+    "primary_date": "TBA",
+    "primary_time": "TBA",
+    "primary_venue": "TBA",
+    "secondary_2027_02_12_not_promoted": true
+  },
+  "Patina": {
+    "club_age": [
+      4,
+      11
+    ],
+    "club_hours": "10:00–18:00",
+    "club_complimentary_for_guests": true,
+    "standalone_camp_or_child_boarding": false,
+    "confirmed_resort_support_languages": [
+      "EN",
+      "ES",
+      "RU"
+    ],
+    "technical_instruction_languages_unconfirmed": true,
+    "brochure_price_year": null,
+    "modeling_20g_base_USD": 45,
+    "cardboard_5_races_base_USD": 80,
+    "cardboard_min_age": 6,
+    "plywood_5_races_base_USD": 100,
+    "plywood_min_age": 8,
+    "brochure_service_percent": 10,
+    "brochure_TGST_percent": 16,
+    "FAQ_other_rate_tax_percent": 17,
+    "final_tax_and_invoice_unconfirmed": true
+  },
+  "Soneva": {
+    "old_academy_URL_redirects_to_home": true,
+    "Fushi_Den_age": [
+      4,
+      17
+    ],
+    "Fushi_Den_technology_free": true,
+    "under_13_adult_dropoff_pickup_required": true,
+    "Tim_Peake_guest_window": [
+      "2026-12-19",
+      "2026-12-29"
+    ],
+    "Astronaut_Academy_exact_session_day_age_price_language_unpublished": true,
+    "guest_window_not_child_camp_session": true
+  },
+  "Brilliance": {
+    "weekend_age": [
+      9,
+      12
+    ],
+    "weekend_days": 2,
+    "hours_per_day": 3,
+    "holiday_days": 5,
+    "holiday_age_conflict": [
+      [
+        10,
+        16
+      ],
+      [
+        9,
+        12
+      ]
+    ],
+    "upcoming_events_not_listed": true,
+    "retail_prices_not_camp_fees": true,
+    "direct_GET_has_no_programme_text": true,
+    "programme_description_from_primary_web_reader": true,
+    "primary_web_reader_crawl_age": "2 months as reported by reader"
+  },
+  "excluded_leads": [
+    {
+      "url": "https://robotechnepal.com.np/events/summer-robotics-camp/",
+      "reason": "May 2027 camp with March 2026 deadline and generic team template; not accepted as confirmed calendar"
+    },
+    {
+      "url": "https://karkhana.asia/",
+      "reason": "school-partner science education; no verified standalone EN/ES holiday camp dates"
+    },
+    {
+      "url": "https://dursikshya.edu.np/",
+      "reason": "WRO national contact exists; current public child category calendar not located"
+    }
+  ],
+  "raw_source_bodies_private": true,
+  "worldwide_complete": false
+}

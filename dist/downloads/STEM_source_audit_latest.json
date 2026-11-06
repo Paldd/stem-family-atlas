@@ -16,14 +16,14 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 5715,
-    "competition_cards": 1904,
-    "event_cards": 249,
-    "camp_cards": 3562,
-    "league_profiles": 214,
+    "cards": 5747,
+    "competition_cards": 1922,
+    "event_cards": 252,
+    "camp_cards": 3573,
+    "league_profiles": 218,
     "major_exhibition_cards": 160,
     "vex_cards": 518,
-    "countries_with_records": 124,
+    "countries_with_records": 126,
     "fully_audited_countries": 0
   },
   "continents": [
@@ -90,12 +90,12 @@
       "regions": [
         "Азия"
       ],
-      "total": 1662,
-      "countries_with_records": 34,
-      "competitions": 510,
-      "events": 80,
+      "total": 1694,
+      "countries_with_records": 36,
+      "competitions": 528,
+      "events": 83,
       "major_exhibitions": 71,
-      "camps": 1072,
+      "camps": 1083,
       "status": "Частично исследовано",
       "remaining": "Добавлены India camp candidates и первые Pakistan / Bangladesh / Sri Lanka маршруты. Не все national qualifiers, языки и иностранный приём закрыты; другие страны Азии исследованы частично."
     },
@@ -5046,6 +5046,76 @@
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.clasaviitorului.md/steam-idei-care-mi-c-nceput-nscrierea-la-concursul-na-ional-steam-pentru-elevi-profesori/",
       "new": false
+    },
+    {
+      "id": "yantra-nepal",
+      "name": "Yantra X · Nepal",
+      "group": "regional",
+      "event_ids": [
+        "C1906",
+        "C1907",
+        "C1908",
+        "C1909",
+        "C1910",
+        "C1911",
+        "C1912",
+        "C1913",
+        "C1914",
+        "C1915"
+      ],
+      "cards": 10,
+      "future_dated": 0,
+      "linked_card_count": 10,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://yantra.ran.org.np/",
+      "new": false
+    },
+    {
+      "id": "makerverse-nepal",
+      "name": "MakerVerse · Nepal",
+      "group": "regional",
+      "event_ids": [
+        "C1916",
+        "C1917",
+        "C1918",
+        "C1919",
+        "C1920"
+      ],
+      "cards": 5,
+      "future_dated": 0,
+      "linked_card_count": 5,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://makerverse.skilltootr.com/",
+      "new": false
+    },
+    {
+      "id": "codeavour-nepal-local",
+      "name": "Codeavour · Nepal Nationals",
+      "group": "regional",
+      "event_ids": [
+        "C1921"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "linked_card_count": 1,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://codeavour.org/event/nepal-nationals/",
+      "new": false
+    },
+    {
+      "id": "wro-maldives-local",
+      "name": "WRO · Maldives / IGS",
+      "group": "regional",
+      "event_ids": [
+        "C1922",
+        "C1923"
+      ],
+      "cards": 2,
+      "future_dated": 0,
+      "linked_card_count": 2,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://igs.mv/wro/",
+      "new": false
     }
   ],
   "exhibition_inventory": [
@@ -8919,8 +8989,8 @@
       }
     ],
     "counts": {
-      "records": 3562,
-      "holiday": 3389,
+      "records": 3573,
+      "holiday": 3394,
       "regular": 108,
       "self_paced_materials": 2,
       "boarding": 980,
@@ -8932,7 +9002,7 @@
       "language_lessons": 387,
       "camp_life_language": 225,
       "language_unclassified": 119,
-      "countries": 80
+      "countries": 82
     },
     "validation": {
       "version": 51,

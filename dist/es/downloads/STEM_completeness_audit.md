@@ -6,9 +6,9 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 5715; competiciones: 1904; eventos: 249; campamentos / programas: 3562. Perfiles de ligas y programas: 214. Fichas de exposiciones grandes y especializadas: 160 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 5747; competiciones: 1922; eventos: 252; campamentos / programas: 3573. Perfiles de ligas y programas: 218. Fichas de exposiciones grandes y especializadas: 160 — son ediciones y sedes, no cantidad de marcas únicas.
 
-Existen registros concretos para 124 de 249 países y territorios; países completamente auditados: 0. Revisión archivada v51: añadidas 21 fichas y 3 perfiles. Todas las fichas anteriores conservadas.
+Hay registros concretos de 126 de 249 países y territorios; países auditados por completo: 0. Pasada archivada v51: añadidas 21 fichas y 3 perfiles. Todas las fichas anteriores conservadas.
 
 ## Cobertura por continentes
 
@@ -18,12 +18,12 @@ Existen registros concretos para 124 de 249 países y territorios; países compl
 | América del Sur | 10 | 159 | 7 | 113 |
 | Europa | 41 | 376 | 52 | 1246 |
 | África | 16 | 73 | 7 | 42 |
-| Asia | 34 | 510 | 71 | 1072 |
+| Asia | 36 | 528 | 71 | 1083 |
 | Oceanía | 4 | 104 | 3 | 114 |
 
 Fichas interregionales / globales sin atribuir a un continente: 80. América del Norte incluye América Central y Caribe. Cantidades muestran inventario de la base, no porcentaje de exhaustividad.
 
-VEX: 518 de 1904 fichas de competiciones (27.2%). Existe un sesgo claro de cobertura.
+VEX: 518 de 1922 fichas de competiciones (27.0%). Hay un claro desequilibrio de cobertura.
 
 ## Lo que queda
 
@@ -307,6 +307,10 @@ VEX: 518 de 1904 fichas de competiciones (27.2%). Existe un sesgo claro de cober
 - **WRO Andorra Telecom**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.loopa.ad/
 - **Andbòtic Challenge**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.govern.ad/ca/w/una-setantena-d-alumnes-participen-en-la-3a-edicio-del-concurs-nacional-de-robotica-l-andbotic-challenge
 - **STEAMˣ Moldova**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.clasaviitorului.md/steam-idei-care-mi-c-nceput-nscrierea-la-concursul-na-ional-steam-pentru-elevi-profesori/
+- **Yantra X · Nepal**: 10 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://yantra.ran.org.np/
+- **MakerVerse · Nepal**: 5 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://makerverse.skilltootr.com/
+- **Codeavour · Nepal Nationals**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://codeavour.org/event/nepal-nationals/
+- **WRO · Maldives / IGS**: 2 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://igs.mv/wro/
 
 ## Grandes exposiciones: tarjetas de identidad
 

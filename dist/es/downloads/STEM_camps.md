@@ -57126,6 +57126,182 @@ Limitaciones: English treasure hunts · Calendario del siguiente turno 2027 sin 
 Fuente: https://tak.md/tabere/adventure-english-camp-2026/
 Se ha comprobado: 2026-11-06
 
+### L548 · Brilliance · Weekend STEAM Camp
+
+lugar: Maldivas · Maldivas · sede de turno nuevo sin anunciar
+Fecha: Fechas nuevas, plazas y factura final sin confirmar.
+Edad: 9*12
+Matway: Condicional: Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Oscar: No actualmente: Durante 2027 el niño aún menor del mínimo publicado.
+Formato: day_camp
+Idioma: Idioma de web y documentos ingleses no acreditan enseñanza o arbitraje en inglés. EN / ES / RU del grupo elegido sin establecer.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Fechas nuevas, plazas y factura final sin confirmar.
+Acceso: Confirmar curso real, edad de corte, colegio / club extranjero, composición, idioma de trabajo y plazas. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: Dos días de tres horas: fundamentos de código, montar robot y retos de equipo. Página sin eventos próximos; fotos de Eydhafushi corresponden a 2025. Precios de productos ACEBOTT de tienda no tomados como cuota de campamento.
+Fuente: https://www.brilliance.mv/
+Se ha comprobado: 2026-11-06
+
+### L549 · Brilliance · Holiday STEAM Camp
+
+lugar: Maldivas · Maldivas · sede de turno nuevo sin anunciar
+Fecha: Fechas nuevas, plazas y factura final sin confirmar.
+Edad: 10*16 vs 9–12 · conflicting sections
+Matway: Condicional: Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Oscar: No actualmente: Durante 2027 el niño aún menor del mínimo publicado.
+Formato: day_camp
+Idioma: Idioma de web y documentos ingleses no acreditan enseñanza o arbitraje en inglés. EN / ES / RU del grupo elegido sin establecer.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Fechas nuevas, plazas y factura final sin confirmar.
+Acceso: Confirmar curso real, edad de corte, colegio / club extranjero, composición, idioma de trabajo y plazas. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: Cinco días de robotics / coding / teamwork y kit ACEBOTT IoT personal según descripción. Dos bloques de web discrepan: 10–16 frente a 9–12. Matvey solo tras confirmar grupo; Oscar menor que ambos mínimos. Días siguientes, idioma y precio sin publicar.
+Fuente: https://www.brilliance.mv/
+Se ha comprobado: 2026-11-06
+
+### L550 · Patina · Fab Lab 3D modeling
+
+lugar: Maldivas · Fari Islands · Patina Maldives · Footprints
+Fecha: Club abierto 10:00–18:00 a diario; actividades técnicas concretas según calendario semanal y disponibilidad. No promete Fab Lab cada día.
+edad: club 4–11; workshop age unconfirmed
+Matway: Condicional: Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Óscar: Condicional: Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+formato: family_visit
+Idioma: FAQ confirma inglés como idioma común del resort y asistencia del personal en español / ruso. Idioma del taller técnico no prometido por separado; apoyo familiar, no clase EN / ES confirmada.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: USD 45 — precio base de una actividad por niño; factura final sin confirmar.
+Acceso: Confirmar curso real, edad de corte, colegio / club extranjero, composición, idioma de trabajo y plazas. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: 3D printing: 20 g de material; modelo propio / elección de muestra. Mínimo de este taller sin indicar; edad del club 4–11 no sustituye admisión individual. Actividad durante estancia familiar en resort, no campamento independiente ni residencia infantil. Acceso de visitantes externos y dejar al niño sin adultos alojados sin confirmar.
+Fuente: https://patinahotels.com/maldives/footprints-kids-club
+Se ha comprobado: 2026-11-06
+
+### L551 · Patina · Fab Lab F1 Cardboard Car
+
+lugar: Maldivas · Fari Islands · Patina Maldives · Footprints
+Fecha: Club abierto 10:00–18:00 a diario; actividades técnicas concretas según calendario semanal y disponibilidad. No promete Fab Lab cada día.
+Edad: 6+; club 4–11
+Matway: Condicional: Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Óscar: Condicional: Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+formato: family_visit
+Idioma: FAQ confirma inglés como idioma común del resort y asistencia del personal en español / ruso. Idioma del taller técnico no prometido por separado; apoyo familiar, no clase EN / ES confirmada.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: USD 80 — precio base de una actividad por niño; factura final sin confirmar.
+Acceso: Confirmar curso real, edad de corte, colegio / club extranjero, composición, idioma de trabajo y plazas. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: Modelo de cartón y cinco carreras; mínimo publicado 6 años. Ambos niños candidatos por edad, plazas e idioma técnico aún sin confirmar. Actividad durante estancia familiar en resort, no campamento independiente ni residencia infantil. Acceso de visitantes externos y dejar al niño sin adultos alojados sin confirmar.
+Fuente: https://patinahotels.com/maldives/footprints-kids-club
+Se ha comprobado: 2026-11-06
+
+### L552 · Patina · Fab Lab F1 Plywood Car
+
+lugar: Maldivas · Fari Islands · Patina Maldives · Footprints
+Fecha: Club abierto 10:00–18:00 a diario; actividades técnicas concretas según calendario semanal y disponibilidad. No promete Fab Lab cada día.
+edad: 8+; club 4–11
+Matway: Condicional: Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Oscar: No actualmente: Durante 2027 el niño aún menor del mínimo publicado.
+formato: family_visit
+Idioma: FAQ confirma inglés como idioma común del resort y asistencia del personal en español / ruso. Idioma del taller técnico no prometido por separado; apoyo familiar, no clase EN / ES confirmada.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: USD 100 — precio base de una actividad por niño; factura final sin confirmar.
+Acceso: Confirmar curso real, edad de corte, colegio / club extranjero, composición, idioma de trabajo y plazas. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: Modelo de contrachapado y cinco carreras; mínimo 8 años. Matvey candidato por edad, Oscar aún menor. Actividad con modelo de carreras, no clasificación nacional STEM Racing. Actividad durante estancia familiar en resort, no campamento independiente ni residencia infantil. Acceso de visitantes externos y dejar al niño sin adultos alojados sin confirmar.
+Fuente: https://patinahotels.com/maldives/footprints-kids-club
+Se ha comprobado: 2026-11-06
+
+### L553 · Soneva Fushi · The Den
+
+lugar: Maldivas · Kunfunadhoo · Baa Atoll · Soneva Fushi
+Fecha: Fechas nuevas, plazas y factura final sin confirmar.
+edad: 4–17
+Matway: Condicional: Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Óscar: Condicional: Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+formato: family_visit
+Idioma: Idioma de web y documentos ingleses no acreditan enseñanza o arbitraje en inglés. EN / ES / RU del grupo elegido sin establecer.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Programa habitual del club incluido para niños de familia alojada. Precio de hotel, traslados, eventos especiales y babysitting sin establecer por separado; presupuesto total desconocido.
+Acceso: Confirmar curso real, edad de corte, colegio / club extranjero, composición, idioma de trabajo y plazas. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: Creatividad, cocina, juegos y descubrimientos insulares; página vigente describe expresamente technology-free space. Programa familiar general, no campamento de robótica. Club 4–17 incluido en estancia; menores de 13 llegan y salen con adulto según Terms. Actividad durante estancia familiar en resort, no campamento independiente ni residencia infantil. Acceso de visitantes externos y dejar al niño sin adultos alojados sin confirmar.
+Fuente: https://soneva.com/resorts/soneva-fushi/experiences/theden/
+Se ha comprobado: 2026-11-06
+
+### L554 · Soneva Fushi · Tim Peake / Astronaut Academy
+
+lugar: Maldivas · Kunfunadhoo · Baa Atoll · Soneva Fushi
+Fecha: Diciembre de 2026: visita del invitado del 19 al 29; sesión exacta de Astronaut Academy TBD.
+edad: Edad de Astronaut Academy sin publicar por separado
+Matway: Condicional: Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Óscar: Condicional: Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+formato: family_visit
+Idioma: Idioma de web y documentos ingleses no acreditan enseñanza o arbitraje en inglés. EN / ES / RU del grupo elegido sin establecer.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Fechas nuevas, plazas y factura final sin confirmar.
+Acceso: Confirmar curso real, edad de corte, colegio / club extranjero, composición, idioma de trabajo y plazas. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: Folleto oficial Festive 2026: visita de ESA astronaut Tim Peake del 19 al 29 de diciembre de 2026, observación del cielo, Christmas Day talk y Astronaut Academy en The Den. Ventana de visita del invitado; fecha y duración de Academy sin definir. No convertido en campamento de once días ni encuentro personal garantizado. Actividad durante estancia familiar en resort, no campamento independiente ni residencia infantil. Acceso de visitantes externos y dejar al niño sin adultos alojados sin confirmar.
+Fuente: https://link.assetfile.io/2xDenMEafRugqW9IiZFpJn/Festive+2026+at+Soneva.pdf
+Se ha comprobado: 2026-11-06
+
+### L555 · MakerVerse · Robo Sumo preparation
+
+lugar: Nepal · Kathmandu
+Fecha: Final: enero de 2027; fechas de preparación obligatoria y admisión tardía sin confirmar.
+edad: Grades 5–10
+Matway: Condicional: Confirmar curso real, edad de corte, colegio / club extranjero, composición, idioma de trabajo y plazas. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos. Obligatorio curso real 5–10; grupo de edad menor no anunciado por separado.
+Óscar: Condicional: Confirmar curso real, edad de corte, colegio / club extranjero, composición, idioma de trabajo y plazas. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos. Obligatorio curso real 5–10; grupo de edad menor no anunciado por separado.
+Formato: day_camp
+Idioma: Idioma de web y documentos ingleses no acreditan enseñanza o arbitraje en inglés. EN / ES / RU del grupo elegido sin establecer.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: NPR 25000 por un track individual: inscripción + build kit + serie de talleres. Otro track se paga aparte.
+Acceso: Confirmar curso real, edad de corte, colegio / club extranjero, composición, idioma de trabajo y plazas. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: Kit de chassis, proximity sensors, motor driver, microcontroller y Li-Po; serie de talleres y competición sumo. Paquete competitivo individual con preparación; no campamento vacacional independiente ni residencia. Curso exacto de cada niño desconocido; edad 9 o 6 no sustituye curso 5. Web principal indica inscripción abierta, ThinkNMake cerrada; plazo del texto 17 de octubre de 2026 y del CMS 29 de octubre. Ambos pasados al 6 de noviembre. Web principal confirma solo enero de 2027; página vinculada indica 30–31 de enero con horas nocturnas inusuales. Hasta aclaración esos días no convertidos en calendario confirmado. 500+ colegios es objetivo, no asistencia acreditada.
+Fuente: https://makerverse.skilltootr.com/events/robo-sumo
+Se ha comprobado: 2026-11-06
+
+### L556 · MakerVerse · Robo Obstacle preparation
+
+lugar: Nepal · Kathmandu
+Fecha: Final: enero de 2027; fechas de preparación obligatoria y admisión tardía sin confirmar.
+edad: Grades 5–10
+Matway: Condicional: Confirmar curso real, edad de corte, colegio / club extranjero, composición, idioma de trabajo y plazas. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos. Obligatorio curso real 5–10; grupo de edad menor no anunciado por separado.
+Óscar: Condicional: Confirmar curso real, edad de corte, colegio / club extranjero, composición, idioma de trabajo y plazas. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos. Obligatorio curso real 5–10; grupo de edad menor no anunciado por separado.
+Formato: day_camp
+Idioma: Idioma de web y documentos ingleses no acreditan enseñanza o arbitraje en inglés. EN / ES / RU del grupo elegido sin establecer.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: NPR 25000 por un track individual: inscripción + build kit + serie de talleres. Otro track se paga aparte.
+Acceso: Confirmar curso real, edad de corte, colegio / club extranjero, composición, idioma de trabajo y plazas. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: Chassis, IR sensors, motor driver, microcontroller y Li-Po; line following / PID y talleres obligatorios. URL contiene f1-racing, pero título vigente Robo Obstacle; no es STEM Racing. Paquete competitivo individual con preparación; no campamento vacacional independiente ni residencia. Curso exacto de cada niño desconocido; edad 9 o 6 no sustituye curso 5. Web principal indica inscripción abierta, ThinkNMake cerrada; plazo del texto 17 de octubre de 2026 y del CMS 29 de octubre. Ambos pasados al 6 de noviembre. Web principal confirma solo enero de 2027; página vinculada indica 30–31 de enero con horas nocturnas inusuales. Hasta aclaración esos días no convertidos en calendario confirmado. 500+ colegios es objetivo, no asistencia acreditada.
+Fuente: https://makerverse.skilltootr.com/events/f1-racing
+Se ha comprobado: 2026-11-06
+
+### L557 · MakerVerse · Drone Racing preparation
+
+lugar: Nepal · Kathmandu
+Fecha: Final: enero de 2027; fechas de preparación obligatoria y admisión tardía sin confirmar.
+edad: Grades 5–10
+Matway: Condicional: Confirmar curso real, edad de corte, colegio / club extranjero, composición, idioma de trabajo y plazas. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos. Obligatorio curso real 5–10; grupo de edad menor no anunciado por separado.
+Óscar: Condicional: Confirmar curso real, edad de corte, colegio / club extranjero, composición, idioma de trabajo y plazas. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos. Obligatorio curso real 5–10; grupo de edad menor no anunciado por separado.
+Formato: day_camp
+Idioma: Idioma de web y documentos ingleses no acreditan enseñanza o arbitraje en inglés. EN / ES / RU del grupo elegido sin establecer.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: NPR 25000 por un track individual: inscripción + build kit + serie de talleres. Otro track se paga aparte.
+Acceso: Confirmar curso real, edad de corte, colegio / club extranjero, composición, idioma de trabajo y plazas. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: Frame, motors, ESCs, flight controller, props, transmitter / receiver; montaje, calibración y talleres obligatorios antes de vuelos. Paquete competitivo individual con preparación; no campamento vacacional independiente ni residencia. Curso exacto de cada niño desconocido; edad 9 o 6 no sustituye curso 5. Web principal indica inscripción abierta, ThinkNMake cerrada; plazo del texto 17 de octubre de 2026 y del CMS 29 de octubre. Ambos pasados al 6 de noviembre. Web principal confirma solo enero de 2027; página vinculada indica 30–31 de enero con horas nocturnas inusuales. Hasta aclaración esos días no convertidos en calendario confirmado. 500+ colegios es objetivo, no asistencia acreditada.
+Fuente: https://makerverse.skilltootr.com/events/drone-racing
+Se ha comprobado: 2026-11-06
+
+### L558 · Yantra Learning · robotics / AI workshops
+
+lugar: Nepal
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Edad de talleres individuales sin publicar
+Matway: Condicional
+Óscar: Condicional
+formato: workshop
+Idioma: Idioma de web y documentos ingleses no acreditan enseñanza o arbitraje en inglés. EN / ES / RU del grupo elegido sin establecer.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Fechas nuevas, plazas y factura final sin confirmar.
+Acceso: Confirmar curso real, edad de corte, colegio / club extranjero, composición, idioma de trabajo y plazas. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: AI, machine learning, 3D printing, drones, Arduino, Raspberry Pi, basic robotics e image processing. Preparación del festival; fechas, coste y grupos infantiles EN / ES sin confirmar.
+Fuente: https://yantra.ran.org.np/event/yantra-learning
+Se ha comprobado: 2026-11-06
+
 ### ~#C037 · WAICY 2026 · AI Showcase · Proyecto de solución del problema real
 
 lugar: en línea / mundo
