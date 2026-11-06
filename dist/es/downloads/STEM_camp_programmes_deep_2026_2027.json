@@ -30,24 +30,24 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1381,
-    "countries": 65,
+    "dossiers": 1396,
+    "countries": 69,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 189,
-      "published_2027": 343,
+      "published_2027": 344,
       "partial_2027": 123,
-      "next_unannounced": 256,
+      "next_unannounced": 264,
       "published_2026": 295,
       "partial_2026_27": 28,
       "partial_2026": 19,
-      "archive_next_unannounced": 123,
-      "regular_programme": 1,
+      "archive_next_unannounced": 127,
+      "regular_programme": 3,
       "regular_2026_27": 2,
       "historical_2026_next_season_unknown": 1,
       "announced_dates_programme_pending": 1
     },
-    "source_urls": 2023
+    "source_urls": 2040
   },
   "countries": [
     {
@@ -61,6 +61,14 @@
     {
       "country": "Argentina",
       "count": 4
+    },
+    {
+      "country": "Bahamas",
+      "count": 3
+    },
+    {
+      "country": "Barbados",
+      "count": 1
     },
     {
       "country": "Bélgica",
@@ -219,6 +227,10 @@
       "count": 4
     },
     {
+      "country": "Puerto Rico",
+      "count": 6
+    },
+    {
       "country": "Estados Unidos",
       "count": 135
     },
@@ -305,6 +317,10 @@
     {
       "country": "Corea del Sur",
       "count": 22
+    },
+    {
+      "country": "Jamaica",
+      "count": 5
     },
     {
       "country": "Japón",
@@ -221736,6 +221752,1286 @@
         "L503"
       ],
       "calendar_links": []
+    },
+    {
+      "id": "CP1382",
+      "slug": "techno-pr-summer-camp",
+      "provider": "Techno Inventors · Summer Camp",
+      "iso": "PRI",
+      "country": "Puerto Rico",
+      "place": "Puerto Rico",
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "engineering"
+      ],
+      "formats": [
+        "day",
+        "online"
+      ],
+      "age": "3–18 · fundamentos 6–12",
+      "programme": "Campamento tecnológico presencial o virtual: robots, programación, videojuegos / eSports, proyecto y muestra de resultados. Etapas 3–5, 6–12, 13–18; ambos niños encajan en 6–12, pero acordar nivel adecuado. Página de verano dice June–August, invierno December, primavera Easter Week sin días ni año confirmados.",
+      "language": "Idioma de clases EN / ES / RU sin confirmar expresamente. Web inglesa / bilingüe no considerada prueba del idioma de enseñanza o evaluación.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Fechas y precios de edición pasada no trasladados a 2027; sesión nueva y disponibilidad desconocidas.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": null,
+        "currency": "",
+        "amount": null,
+        "unit": "programme",
+        "label": "Tarifa nueva, plazas y factura completa sin establecer; precio desconocido no equivale a cero.",
+        "included": "",
+        "extras": "Vuelo, alojamiento familiar externo, transporte local, comidas fuera de inclusiones y seguro aparte.",
+        "deposit": "Agreement público: pagos de registro / programa no reembolsables ni transferibles; equipo solo para uso durante clases. Indica calzado cerrado, pantalón largo, adulto autorizado en recogida y consentimiento obligatorio de fotos / vídeos educativos. Verificar condiciones de sesión elegida antes de pagar; contrato sin aceptar."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar admisión extranjera individual, curso real, nivel tras tres años de competiciones, idioma del grupo, plazas y factura final. Sin solicitudes, consentimientos, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Techno Inventors · Summer Camp",
+          "url": "https://technoinventors.com/ofrecimientos/summer-camp",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Techno Inventors · Acuerdo General",
+          "url": "https://technoinventors.com/agreement",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [
+        "L504"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1383",
+      "slug": "techno-pr-winter-camp",
+      "provider": "Techno Inventors · Winter Camp",
+      "iso": "PRI",
+      "country": "Puerto Rico",
+      "place": "Puerto Rico",
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "engineering"
+      ],
+      "formats": [
+        "day",
+        "online"
+      ],
+      "age": "3–18 · fundamentos 6–12",
+      "programme": "Campamento tecnológico presencial o virtual: robots, programación, videojuegos / eSports, proyecto y muestra de resultados. Etapas 3–5, 6–12, 13–18; ambos niños encajan en 6–12, pero acordar nivel adecuado. Página de verano dice June–August, invierno December, primavera Easter Week sin días ni año confirmados.",
+      "language": "Idioma de clases EN / ES / RU sin confirmar expresamente. Web inglesa / bilingüe no considerada prueba del idioma de enseñanza o evaluación.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Fechas y precios de edición pasada no trasladados a 2027; sesión nueva y disponibilidad desconocidas.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": null,
+        "currency": "",
+        "amount": null,
+        "unit": "programme",
+        "label": "Tarifa nueva, plazas y factura completa sin establecer; precio desconocido no equivale a cero.",
+        "included": "",
+        "extras": "Vuelo, alojamiento familiar externo, transporte local, comidas fuera de inclusiones y seguro aparte.",
+        "deposit": "Agreement público: pagos de registro / programa no reembolsables ni transferibles; equipo solo para uso durante clases. Indica calzado cerrado, pantalón largo, adulto autorizado en recogida y consentimiento obligatorio de fotos / vídeos educativos. Verificar condiciones de sesión elegida antes de pagar; contrato sin aceptar."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar admisión extranjera individual, curso real, nivel tras tres años de competiciones, idioma del grupo, plazas y factura final. Sin solicitudes, consentimientos, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Techno Inventors · Winter Camp",
+          "url": "https://technoinventors.com/ofrecimientos/winter-camp",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Techno Inventors · Acuerdo General",
+          "url": "https://technoinventors.com/agreement",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [
+        "L505"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1384",
+      "slug": "techno-pr-spring-break-camp",
+      "provider": "Techno Inventors · Spring Break Camp",
+      "iso": "PRI",
+      "country": "Puerto Rico",
+      "place": "Puerto Rico",
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "engineering"
+      ],
+      "formats": [
+        "day",
+        "online"
+      ],
+      "age": "3–18 · fundamentos 6–12",
+      "programme": "Campamento tecnológico presencial o virtual: robots, programación, videojuegos / eSports, proyecto y muestra de resultados. Etapas 3–5, 6–12, 13–18; ambos niños encajan en 6–12, pero acordar nivel adecuado. Página de verano dice June–August, invierno December, primavera Easter Week sin días ni año confirmados.",
+      "language": "Idioma de clases EN / ES / RU sin confirmar expresamente. Web inglesa / bilingüe no considerada prueba del idioma de enseñanza o evaluación.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Fechas y precios de edición pasada no trasladados a 2027; sesión nueva y disponibilidad desconocidas.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": null,
+        "currency": "",
+        "amount": null,
+        "unit": "programme",
+        "label": "Tarifa nueva, plazas y factura completa sin establecer; precio desconocido no equivale a cero.",
+        "included": "",
+        "extras": "Vuelo, alojamiento familiar externo, transporte local, comidas fuera de inclusiones y seguro aparte.",
+        "deposit": "Agreement público: pagos de registro / programa no reembolsables ni transferibles; equipo solo para uso durante clases. Indica calzado cerrado, pantalón largo, adulto autorizado en recogida y consentimiento obligatorio de fotos / vídeos educativos. Verificar condiciones de sesión elegida antes de pagar; contrato sin aceptar."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar admisión extranjera individual, curso real, nivel tras tres años de competiciones, idioma del grupo, plazas y factura final. Sin solicitudes, consentimientos, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Techno Inventors · Spring Break Camp",
+          "url": "https://technoinventors.com/ofrecimientos/spring-break-camp",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Techno Inventors · Acuerdo General",
+          "url": "https://technoinventors.com/agreement",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [
+        "L506"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1385",
+      "slug": "techno-pr-saturday-club",
+      "provider": "Techno Inventors · Saturday Club",
+      "iso": "PRI",
+      "country": "Puerto Rico",
+      "place": "Puerto Rico",
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "ai"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "3–5 / 6–10 / 10–18",
+      "programme": "Club regular por niveles: menores 3–5, Explorador 6–10 y Pro 10–18. Edad 10 figura en dos etapas: operador elige nivel. Anuncia Open House sabatino de 30–45 minutos sin registro ni pago; confirmar sede / hora exactas y prueba vigente. Club no convertido en campamento vacacional diario.",
+      "language": "Idioma de clases EN / ES / RU sin confirmar expresamente. Web inglesa / bilingüe no considerada prueba del idioma de enseñanza o evaluación.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "regular_programme",
+        "label": "Sábados; fechas, horas e inicio exactos según disponibilidad.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": null,
+        "currency": "",
+        "amount": null,
+        "unit": "programme",
+        "label": "Tarifa nueva, plazas y factura completa sin establecer; precio desconocido no equivale a cero.",
+        "included": "",
+        "extras": "Vuelo, alojamiento familiar externo, transporte local, comidas fuera de inclusiones y seguro aparte.",
+        "deposit": "Agreement público: pagos de registro / programa no reembolsables ni transferibles; equipo solo para uso durante clases. Indica calzado cerrado, pantalón largo, adulto autorizado en recogida y consentimiento obligatorio de fotos / vídeos educativos. Verificar condiciones de sesión elegida antes de pagar; contrato sin aceptar."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar admisión extranjera individual, curso real, nivel tras tres años de competiciones, idioma del grupo, plazas y factura final. Sin solicitudes, consentimientos, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Techno Inventors · Saturday Club",
+          "url": "https://technoinventors.com/ofrecimientos/saturday-club",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Techno Inventors · Acuerdo General",
+          "url": "https://technoinventors.com/agreement",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [
+        "L507"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1386",
+      "slug": "minigeeks-pr-robotics-2027",
+      "provider": "MiniGeeks · Robotics & Programming",
+      "iso": "PRI",
+      "country": "Puerto Rico",
+      "place": "Bayamón",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "9–14",
+      "programme": "Curso inicial: 10 sábados consecutivos, 30 horas totales; trabajo en parejas con rotación de roles, mecanismos y sensores, programación por bloques. Sin experiencia requerida, por lo que Matvey debe comprobar dificultad tras tres años de competiciones. Dos grupos independientes AM / PM, hasta 20 niños cada uno. Sin promesa de robot en propiedad.",
+      "language": "Español indicado como inLanguage=es en descripción estructurada del propio curso; enseñanza inglesa no anunciada.",
+      "confirmed_instruction_languages": [
+        "ES"
+      ],
+      "language_evidence_role": "primary_course_jsonld",
+      "timing": {
+        "status": "published_2027",
+        "label": "16 de enero – 20 de marzo 2027; elegir uno de dos grupos, no pagar ambos como obligatorios.",
+        "sessions": [
+          [
+            "2027-01-16",
+            "2027-03-20"
+          ],
+          [
+            "2027-01-16",
+            "2027-03-20"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-16",
+            "end": "2027-03-20",
+            "variant_key": "bayamon-am",
+            "label": "Bayamón · AM",
+            "price": "USD 600",
+            "source": "https://minigeeks.co/robots",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-16",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Puerto_Rico",
+                "topic": "Curso inicial: 10 sábados consecutivos, 30 horas totales; trabajo en parejas con rotación de roles, mecanismos y sensores, programación por bloques. Sin experiencia requerida, por lo que Matvey debe comprobar dificultad tras tres años de competiciones. Dos grupos independientes AM / PM, hasta 20 niños cada uno. Sin promesa de robot en propiedad.",
+                "ical_timed": true,
+                "start_utc": "2027-01-16T13:00:00Z",
+                "end_utc": "2027-01-16T16:00:00Z"
+              },
+              {
+                "date": "2027-01-23",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Puerto_Rico",
+                "topic": "Curso inicial: 10 sábados consecutivos, 30 horas totales; trabajo en parejas con rotación de roles, mecanismos y sensores, programación por bloques. Sin experiencia requerida, por lo que Matvey debe comprobar dificultad tras tres años de competiciones. Dos grupos independientes AM / PM, hasta 20 niños cada uno. Sin promesa de robot en propiedad.",
+                "ical_timed": true,
+                "start_utc": "2027-01-23T13:00:00Z",
+                "end_utc": "2027-01-23T16:00:00Z"
+              },
+              {
+                "date": "2027-01-30",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Puerto_Rico",
+                "topic": "Curso inicial: 10 sábados consecutivos, 30 horas totales; trabajo en parejas con rotación de roles, mecanismos y sensores, programación por bloques. Sin experiencia requerida, por lo que Matvey debe comprobar dificultad tras tres años de competiciones. Dos grupos independientes AM / PM, hasta 20 niños cada uno. Sin promesa de robot en propiedad.",
+                "ical_timed": true,
+                "start_utc": "2027-01-30T13:00:00Z",
+                "end_utc": "2027-01-30T16:00:00Z"
+              },
+              {
+                "date": "2027-02-06",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Puerto_Rico",
+                "topic": "Curso inicial: 10 sábados consecutivos, 30 horas totales; trabajo en parejas con rotación de roles, mecanismos y sensores, programación por bloques. Sin experiencia requerida, por lo que Matvey debe comprobar dificultad tras tres años de competiciones. Dos grupos independientes AM / PM, hasta 20 niños cada uno. Sin promesa de robot en propiedad.",
+                "ical_timed": true,
+                "start_utc": "2027-02-06T13:00:00Z",
+                "end_utc": "2027-02-06T16:00:00Z"
+              },
+              {
+                "date": "2027-02-13",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Puerto_Rico",
+                "topic": "Curso inicial: 10 sábados consecutivos, 30 horas totales; trabajo en parejas con rotación de roles, mecanismos y sensores, programación por bloques. Sin experiencia requerida, por lo que Matvey debe comprobar dificultad tras tres años de competiciones. Dos grupos independientes AM / PM, hasta 20 niños cada uno. Sin promesa de robot en propiedad.",
+                "ical_timed": true,
+                "start_utc": "2027-02-13T13:00:00Z",
+                "end_utc": "2027-02-13T16:00:00Z"
+              },
+              {
+                "date": "2027-02-20",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Puerto_Rico",
+                "topic": "Curso inicial: 10 sábados consecutivos, 30 horas totales; trabajo en parejas con rotación de roles, mecanismos y sensores, programación por bloques. Sin experiencia requerida, por lo que Matvey debe comprobar dificultad tras tres años de competiciones. Dos grupos independientes AM / PM, hasta 20 niños cada uno. Sin promesa de robot en propiedad.",
+                "ical_timed": true,
+                "start_utc": "2027-02-20T13:00:00Z",
+                "end_utc": "2027-02-20T16:00:00Z"
+              },
+              {
+                "date": "2027-02-27",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Puerto_Rico",
+                "topic": "Curso inicial: 10 sábados consecutivos, 30 horas totales; trabajo en parejas con rotación de roles, mecanismos y sensores, programación por bloques. Sin experiencia requerida, por lo que Matvey debe comprobar dificultad tras tres años de competiciones. Dos grupos independientes AM / PM, hasta 20 niños cada uno. Sin promesa de robot en propiedad.",
+                "ical_timed": true,
+                "start_utc": "2027-02-27T13:00:00Z",
+                "end_utc": "2027-02-27T16:00:00Z"
+              },
+              {
+                "date": "2027-03-06",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Puerto_Rico",
+                "topic": "Curso inicial: 10 sábados consecutivos, 30 horas totales; trabajo en parejas con rotación de roles, mecanismos y sensores, programación por bloques. Sin experiencia requerida, por lo que Matvey debe comprobar dificultad tras tres años de competiciones. Dos grupos independientes AM / PM, hasta 20 niños cada uno. Sin promesa de robot en propiedad.",
+                "ical_timed": true,
+                "start_utc": "2027-03-06T13:00:00Z",
+                "end_utc": "2027-03-06T16:00:00Z"
+              },
+              {
+                "date": "2027-03-13",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Puerto_Rico",
+                "topic": "Curso inicial: 10 sábados consecutivos, 30 horas totales; trabajo en parejas con rotación de roles, mecanismos y sensores, programación por bloques. Sin experiencia requerida, por lo que Matvey debe comprobar dificultad tras tres años de competiciones. Dos grupos independientes AM / PM, hasta 20 niños cada uno. Sin promesa de robot en propiedad.",
+                "ical_timed": true,
+                "start_utc": "2027-03-13T13:00:00Z",
+                "end_utc": "2027-03-13T16:00:00Z"
+              },
+              {
+                "date": "2027-03-20",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Puerto_Rico",
+                "topic": "Curso inicial: 10 sábados consecutivos, 30 horas totales; trabajo en parejas con rotación de roles, mecanismos y sensores, programación por bloques. Sin experiencia requerida, por lo que Matvey debe comprobar dificultad tras tres años de competiciones. Dos grupos independientes AM / PM, hasta 20 niños cada uno. Sin promesa de robot en propiedad.",
+                "ical_timed": true,
+                "start_utc": "2027-03-20T13:00:00Z",
+                "end_utc": "2027-03-20T16:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-01-16",
+            "end": "2027-03-20",
+            "variant_key": "bayamon-pm",
+            "label": "Bayamón · PM",
+            "price": "USD 600",
+            "source": "https://minigeeks.co/robots",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-16",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Puerto_Rico",
+                "topic": "Curso inicial: 10 sábados consecutivos, 30 horas totales; trabajo en parejas con rotación de roles, mecanismos y sensores, programación por bloques. Sin experiencia requerida, por lo que Matvey debe comprobar dificultad tras tres años de competiciones. Dos grupos independientes AM / PM, hasta 20 niños cada uno. Sin promesa de robot en propiedad.",
+                "ical_timed": true,
+                "start_utc": "2027-01-16T17:00:00Z",
+                "end_utc": "2027-01-16T20:00:00Z"
+              },
+              {
+                "date": "2027-01-23",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Puerto_Rico",
+                "topic": "Curso inicial: 10 sábados consecutivos, 30 horas totales; trabajo en parejas con rotación de roles, mecanismos y sensores, programación por bloques. Sin experiencia requerida, por lo que Matvey debe comprobar dificultad tras tres años de competiciones. Dos grupos independientes AM / PM, hasta 20 niños cada uno. Sin promesa de robot en propiedad.",
+                "ical_timed": true,
+                "start_utc": "2027-01-23T17:00:00Z",
+                "end_utc": "2027-01-23T20:00:00Z"
+              },
+              {
+                "date": "2027-01-30",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Puerto_Rico",
+                "topic": "Curso inicial: 10 sábados consecutivos, 30 horas totales; trabajo en parejas con rotación de roles, mecanismos y sensores, programación por bloques. Sin experiencia requerida, por lo que Matvey debe comprobar dificultad tras tres años de competiciones. Dos grupos independientes AM / PM, hasta 20 niños cada uno. Sin promesa de robot en propiedad.",
+                "ical_timed": true,
+                "start_utc": "2027-01-30T17:00:00Z",
+                "end_utc": "2027-01-30T20:00:00Z"
+              },
+              {
+                "date": "2027-02-06",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Puerto_Rico",
+                "topic": "Curso inicial: 10 sábados consecutivos, 30 horas totales; trabajo en parejas con rotación de roles, mecanismos y sensores, programación por bloques. Sin experiencia requerida, por lo que Matvey debe comprobar dificultad tras tres años de competiciones. Dos grupos independientes AM / PM, hasta 20 niños cada uno. Sin promesa de robot en propiedad.",
+                "ical_timed": true,
+                "start_utc": "2027-02-06T17:00:00Z",
+                "end_utc": "2027-02-06T20:00:00Z"
+              },
+              {
+                "date": "2027-02-13",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Puerto_Rico",
+                "topic": "Curso inicial: 10 sábados consecutivos, 30 horas totales; trabajo en parejas con rotación de roles, mecanismos y sensores, programación por bloques. Sin experiencia requerida, por lo que Matvey debe comprobar dificultad tras tres años de competiciones. Dos grupos independientes AM / PM, hasta 20 niños cada uno. Sin promesa de robot en propiedad.",
+                "ical_timed": true,
+                "start_utc": "2027-02-13T17:00:00Z",
+                "end_utc": "2027-02-13T20:00:00Z"
+              },
+              {
+                "date": "2027-02-20",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Puerto_Rico",
+                "topic": "Curso inicial: 10 sábados consecutivos, 30 horas totales; trabajo en parejas con rotación de roles, mecanismos y sensores, programación por bloques. Sin experiencia requerida, por lo que Matvey debe comprobar dificultad tras tres años de competiciones. Dos grupos independientes AM / PM, hasta 20 niños cada uno. Sin promesa de robot en propiedad.",
+                "ical_timed": true,
+                "start_utc": "2027-02-20T17:00:00Z",
+                "end_utc": "2027-02-20T20:00:00Z"
+              },
+              {
+                "date": "2027-02-27",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Puerto_Rico",
+                "topic": "Curso inicial: 10 sábados consecutivos, 30 horas totales; trabajo en parejas con rotación de roles, mecanismos y sensores, programación por bloques. Sin experiencia requerida, por lo que Matvey debe comprobar dificultad tras tres años de competiciones. Dos grupos independientes AM / PM, hasta 20 niños cada uno. Sin promesa de robot en propiedad.",
+                "ical_timed": true,
+                "start_utc": "2027-02-27T17:00:00Z",
+                "end_utc": "2027-02-27T20:00:00Z"
+              },
+              {
+                "date": "2027-03-06",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Puerto_Rico",
+                "topic": "Curso inicial: 10 sábados consecutivos, 30 horas totales; trabajo en parejas con rotación de roles, mecanismos y sensores, programación por bloques. Sin experiencia requerida, por lo que Matvey debe comprobar dificultad tras tres años de competiciones. Dos grupos independientes AM / PM, hasta 20 niños cada uno. Sin promesa de robot en propiedad.",
+                "ical_timed": true,
+                "start_utc": "2027-03-06T17:00:00Z",
+                "end_utc": "2027-03-06T20:00:00Z"
+              },
+              {
+                "date": "2027-03-13",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Puerto_Rico",
+                "topic": "Curso inicial: 10 sábados consecutivos, 30 horas totales; trabajo en parejas con rotación de roles, mecanismos y sensores, programación por bloques. Sin experiencia requerida, por lo que Matvey debe comprobar dificultad tras tres años de competiciones. Dos grupos independientes AM / PM, hasta 20 niños cada uno. Sin promesa de robot en propiedad.",
+                "ical_timed": true,
+                "start_utc": "2027-03-13T17:00:00Z",
+                "end_utc": "2027-03-13T20:00:00Z"
+              },
+              {
+                "date": "2027-03-20",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Puerto_Rico",
+                "topic": "Curso inicial: 10 sábados consecutivos, 30 horas totales; trabajo en parejas con rotación de roles, mecanismos y sensores, programación por bloques. Sin experiencia requerida, por lo que Matvey debe comprobar dificultad tras tres años de competiciones. Dos grupos independientes AM / PM, hasta 20 niños cada uno. Sin promesa de robot en propiedad.",
+                "ical_timed": true,
+                "start_utc": "2027-03-20T17:00:00Z",
+                "end_utc": "2027-03-20T20:00:00Z"
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "currency": "USD",
+        "amount": 600,
+        "unit": "child_course",
+        "label": "USD 600 por curso completo de 10 sábados / 30 horas, no por clase. Moneda USD acreditada por Course Offer.",
+        "included": "30 horas de enseñanza y materiales; entrega de equipo para casa sin indicar.",
+        "extras": "Vuelo, alojamiento familiar externo, transporte local, comidas fuera de inclusiones y seguro aparte.",
+        "deposit": "Indica opciones Klarna hasta 12 meses; confirmar aplicación, comisiones, cancelación y total. Botón / schema InStock no prueba plaza libre."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Mínimo 9 años; en 2027 Oscar tiene 6–7."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar admisión extranjera individual, curso real, nivel tras tres años de competiciones, idioma del grupo, plazas y factura final. Sin solicitudes, consentimientos, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "MiniGeeks · Robotics & Programming",
+          "url": "https://minigeeks.co/robots",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-16",
+          "end": "2027-03-20",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1386-20270116-20270320-bayamon-am"
+          ]
+        },
+        {
+          "start": "2027-01-16",
+          "end": "2027-03-20",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1386-20270116-20270320-bayamon-pm"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1387",
+      "slug": "minigeeks-pr-advanced",
+      "provider": "MiniGeeks · Advanced Robotics & Programming",
+      "iso": "PRI",
+      "country": "Puerto Rico",
+      "place": "Bayamón",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "9–14",
+      "programme": "Curso avanzado para niños con experiencia: 10 sábados / 30 horas, parejas, diez robots progresivamente complejos y bloques Scratch. Hasta 12 niños, anuncia 13–16 horas, pero sin fechas nuevas y ofrece waitlist. Más cercano al nivel de Matvey que curso inicial; Oscar menor de 9.",
+      "language": "Course JSON-LD indica español inLanguage=es; enseñanza inglesa sin confirmar.",
+      "confirmed_instruction_languages": [
+        "ES"
+      ],
+      "language_evidence_role": "primary_course_jsonld",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Fechas y precios de edición pasada no trasladados a 2027; sesión nueva y disponibilidad desconocidas.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": null,
+        "currency": "USD",
+        "amount": 600,
+        "unit": "child_course",
+        "label": "USD 600 por curso completo; año del grupo nuevo y condiciones de factura final desconocidos.",
+        "included": "",
+        "extras": "Vuelo, alojamiento familiar externo, transporte local, comidas fuera de inclusiones y seguro aparte.",
+        "deposit": "Tarifa nueva, plazas y factura completa sin establecer; precio desconocido no equivale a cero."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar admisión extranjera individual, curso real, nivel tras tres años de competiciones, idioma del grupo, plazas y factura final. Sin solicitudes, consentimientos, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "MiniGeeks · Advanced Robotics & Programming",
+          "url": "https://minigeeks.co/robotica-avanzada",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [
+        "L508"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1388",
+      "slug": "halls-jamaica-storyteller",
+      "provider": "Halls of Learning · SummerStoryteller-Botics",
+      "iso": "JAM",
+      "country": "Jamaica",
+      "place": "Kingston · 4B Hopefield Avenue",
+      "themes": [
+        "robotics",
+        "coding",
+        "art",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "K2–Grade 9",
+      "programme": "Historias LEGO de libros animadas mediante robots; grupos K2–G2, G3–G6, G7–G9. Archivo 29 de junio – 24 de julio 2026, lunes–viernes 09–13, drop-off desde 08:30 y recogida hasta 13:30. Curso escolar prima sobre suposición por edad; calendario nuevo sin anunciar. Certificado con foto no es medalla internacional.",
+      "language": "Idioma de clases EN / ES / RU sin confirmar expresamente. Web inglesa / bilingüe no considerada prueba del idioma de enseñanza o evaluación.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "Fechas y precios de edición pasada no trasladados a 2027; sesión nueva y disponibilidad desconocidas.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "currency": "USD",
+        "amount": null,
+        "unit": "programme",
+        "label": "Ficha archivada: USD 250 regular / USD 200 sale, Out of Stock. Unidad de semana elegida y tarifa futura sin confirmar; no considerar verano completo por USD 200.",
+        "included": "",
+        "extras": "Vuelo, alojamiento familiar externo, transporte local, comidas fuera de inclusiones y seguro aparte.",
+        "deposit": "Tarifa nueva, plazas y factura completa sin establecer; precio desconocido no equivale a cero."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar admisión extranjera individual, curso real, nivel tras tres años de competiciones, idioma del grupo, plazas y factura final. Sin solicitudes, consentimientos, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Halls of Learning · SummerStoryteller-Botics",
+          "url": "https://www.hallsoflearning.com/product-page/summerstoryteller-botics-2026",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [
+        "L509"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1389",
+      "slug": "halls-jamaica-saturdays",
+      "provider": "Halls of Learning · Saturdays",
+      "iso": "JAM",
+      "country": "Jamaica",
+      "place": "Kingston · 4B Hopefield Avenue",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "curso escolar / nivel por confirmar",
+      "programme": "Clases sabatinas regulares; robot o dispositivo para cada alumno, hasta 12 niños, todo equipo proporcionado. Python posible para primaria superior / high school. Página indica Christmas Term 12 de septiembre – 21 de noviembre 2026 y mínimo 8 clases en cuota; filtro de tienda aún dice fin 14 de noviembre. Conflicto sin corregir por suposición; confirmar sábados restantes reales y term nuevo.",
+      "language": "Idioma de clases EN / ES / RU sin confirmar expresamente. Web inglesa / bilingüe no considerada prueba del idioma de enseñanza o evaluación.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "regular_programme",
+        "label": "Term actual 2026, fin 21 de noviembre en descripción / 14 de noviembre en filtro; calendario 2027 desconocido.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "currency": "USD",
+        "amount": null,
+        "unit": "programme",
+        "label": "Muestra USD 85 regular / USD 45 sale; precio depende de Day / Time / Term / Grade elegidos. Unidad y paquete completo sin confirmar, sin cálculo numérico familiar.",
+        "included": "",
+        "extras": "Vuelo, alojamiento familiar externo, transporte local, comidas fuera de inclusiones y seguro aparte.",
+        "deposit": "Tarifa nueva, plazas y factura completa sin establecer; precio desconocido no equivale a cero."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar admisión extranjera individual, curso real, nivel tras tres años de competiciones, idioma del grupo, plazas y factura final. Sin solicitudes, consentimientos, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Halls of Learning · Saturdays",
+          "url": "https://www.hallsoflearning.com/product-page/robotics-amp-coding-saturdays",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [
+        "L510"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1390",
+      "slug": "halls-jamaica-hillel",
+      "provider": "Halls of Learning · Hillel Robotics Club",
+      "iso": "JAM",
+      "country": "Jamaica",
+      "place": "Hillel · Jamaica",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "alumnos Hillel · curso por confirmar",
+      "programme": "Club escolar: formulario exige nombre de alumno Hillel; acceso libre de visitantes sin confirmar. Christmas Term 2026 empieza 17 de septiembre; Christmas / Easter hasta 10 semanas, Summer hasta 8. Hasta 16 niños, trabajo en parejas, equipo proporcionado. Cursos menores exactos, idioma y calendario 2027 desconocidos.",
+      "language": "Idioma de clases EN / ES / RU sin confirmar expresamente. Web inglesa / bilingüe no considerada prueba del idioma de enseñanza o evaluación.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Fechas y precios de edición pasada no trasladados a 2027; sesión nueva y disponibilidad desconocidas.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "currency": "USD",
+        "amount": null,
+        "unit": "programme",
+        "label": "USD 140 regular / USD 40 sale en ficha; confirmar opciones y total term, no considerar programa entero por USD 40.",
+        "included": "",
+        "extras": "Vuelo, alojamiento familiar externo, transporte local, comidas fuera de inclusiones y seguro aparte.",
+        "deposit": "Tarifa nueva, plazas y factura completa sin establecer; precio desconocido no equivale a cero."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar admisión extranjera individual, curso real, nivel tras tres años de competiciones, idioma del grupo, plazas y factura final. Sin solicitudes, consentimientos, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Halls of Learning · Hillel Robotics Club",
+          "url": "https://www.hallsoflearning.com/product-page/hol-robotics-club-at-hillel",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [
+        "L511"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1391",
+      "slug": "halls-jamaica-ai",
+      "provider": "Halls of Learning · AI Skills",
+      "iso": "JAM",
+      "country": "Jamaica",
+      "place": "Kingston · 4B Hopefield Avenue",
+      "themes": [
+        "ai",
+        "coding",
+        "science"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "12–15",
+      "programme": "Redes neuronales, machine learning, Scratch / Python y portfolio GitHub; requiere portátil propio. Archivo 6–24 de julio 2026, días laborables 09–12 o 14–17, Out of Stock. Grupo siguiente sin anunciar; ambos niños aún menores.",
+      "language": "Idioma de clases EN / ES / RU sin confirmar expresamente. Web inglesa / bilingüe no considerada prueba del idioma de enseñanza o evaluación.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "Fechas y precios de edición pasada no trasladados a 2027; sesión nueva y disponibilidad desconocidas.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "currency": "USD",
+        "amount": null,
+        "unit": "programme",
+        "label": "Archivo USD 300 regular / USD 250 sale; confirmar unidad de paquete elegido y tarifa nueva.",
+        "included": "",
+        "extras": "Vuelo, alojamiento familiar externo, transporte local, comidas fuera de inclusiones y seguro aparte.",
+        "deposit": "Tarifa nueva, plazas y factura completa sin establecer; precio desconocido no equivale a cero."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar admisión extranjera individual, curso real, nivel tras tres años de competiciones, idioma del grupo, plazas y factura final. Sin solicitudes, consentimientos, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Halls of Learning · AI Skills",
+          "url": "https://www.hallsoflearning.com/product-page/ai-skills",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [
+        "L512"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1392",
+      "slug": "halls-jamaica-rem",
+      "provider": "Halls of Learning · Robotics Engineering Mastery",
+      "iso": "JAM",
+      "country": "Jamaica",
+      "place": "Kingston",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "10–13",
+      "programme": "Programa anual selectivo 10–13 años, tres clases semanales Mon / Wed / Sat 16–18. Página Apply indica inicio 21 de octubre, Join 7 de septiembre; año no explícito, sin asignar fechas a 2026 o 2027. Viaje a Boston y visitas universitarias son plan del operador, no acceso o premio acreditado. Matvey solo al cumplir realmente 10 y superar selección; Oscar aún menor.",
+      "language": "Idioma de clases EN / ES / RU sin confirmar expresamente. Web inglesa / bilingüe no considerada prueba del idioma de enseñanza o evaluación.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Fechas y precios de edición pasada no trasladados a 2027; sesión nueva y disponibilidad desconocidas.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": null,
+        "currency": "USD",
+        "amount": null,
+        "unit": "programme",
+        "label": "Apply USD 0 es solo solicitud. Año USD 2500 en pago único; planes 3 × 958.33, 6 × 500, 9 × 347.22 tienen totales distintos y no equivalen a precio USD 0. Confirmar inclusión del viaje y año nuevo de contrato.",
+        "included": "",
+        "extras": "Vuelo, alojamiento familiar externo, transporte local, comidas fuera de inclusiones y seguro aparte.",
+        "deposit": "Tarifa nueva, plazas y factura completa sin establecer; precio desconocido no equivale a cero."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar admisión extranjera individual, curso real, nivel tras tres años de competiciones, idioma del grupo, plazas y factura final. Sin solicitudes, consentimientos, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Halls of Learning · Robotics Engineering Mastery",
+          "url": "https://www.hallsoflearning.com/product-page/apply-to-robotics-engineering-mastery-rem",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Halls of Learning · REM paid plans",
+          "url": "https://www.hallsoflearning.com/product-page/join-robotics-engineering-mastery-rem",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [
+        "L513"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1393",
+      "slug": "beta-bahamas-engineering",
+      "provider": "BETA Camp · Engineering",
+      "iso": "BHS",
+      "country": "Bahamas",
+      "place": "The Bahamas",
+      "themes": [
+        "engineering",
+        "coding",
+        "science"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "11–16 Y cursos 7–12 completados",
+      "programme": "Programa semanal de ingeniería con ingenieros profesionales: software / data science, electrical, biomedical, aerospace y otras áreas. Organizador exige a la vez 11–16 años y cursos 7–12 completados; una condición no elimina otra. Dirigido a jóvenes Bahamians; admisión internacional individual y fechas nuevas sin confirmar. Ambos niños aún menores.",
+      "language": "Idioma de clases EN / ES / RU sin confirmar expresamente. Web inglesa / bilingüe no considerada prueba del idioma de enseñanza o evaluación.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Fechas y precios de edición pasada no trasladados a 2027; sesión nueva y disponibilidad desconocidas.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": null,
+        "currency": "",
+        "amount": null,
+        "unit": "programme",
+        "label": "Tarifa nueva, plazas y factura completa sin establecer; precio desconocido no equivale a cero.",
+        "included": "",
+        "extras": "Vuelo, alojamiento familiar externo, transporte local, comidas fuera de inclusiones y seguro aparte.",
+        "deposit": "Tarifa nueva, plazas y factura completa sin establecer; precio desconocido no equivale a cero."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar admisión extranjera individual, curso real, nivel tras tres años de competiciones, idioma del grupo, plazas y factura final. Sin solicitudes, consentimientos, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "BETA Camp · Engineering",
+          "url": "https://wearebeta.co/",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [
+        "L514"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1394",
+      "slug": "biosi-bahamas-geospatial",
+      "provider": "BYSN / BIOSI · Geospatial STEM Camp",
+      "iso": "BHS",
+      "country": "Bahamas",
+      "place": "The Bahamas",
+      "themes": [
+        "science",
+        "engineering",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "edad exacta sin publicar",
+      "programme": "Campamento STEM de campo de una semana: topografía, mapas digitales, posicionamiento satelital, drones y laboratorios outdoor. Página marcada Summer Camp 2026, pero faltan días exactos, edad mínima, precio, idioma y admisión extranjera. Es programa geoespacial, no intensivo robótico acreditado.",
+      "language": "Idioma de clases EN / ES / RU sin confirmar expresamente. Web inglesa / bilingüe no considerada prueba del idioma de enseñanza o evaluación.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "Fechas y precios de edición pasada no trasladados a 2027; sesión nueva y disponibilidad desconocidas.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": null,
+        "currency": "",
+        "amount": null,
+        "unit": "programme",
+        "label": "Tarifa nueva, plazas y factura completa sin establecer; precio desconocido no equivale a cero.",
+        "included": "",
+        "extras": "Vuelo, alojamiento familiar externo, transporte local, comidas fuera de inclusiones y seguro aparte.",
+        "deposit": "Tarifa nueva, plazas y factura completa sin establecer; precio desconocido no equivale a cero."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar admisión extranjera individual, curso real, nivel tras tres años de competiciones, idioma del grupo, plazas y factura final. Sin solicitudes, consentimientos, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "BYSN / BIOSI · Geospatial STEM Camp",
+          "url": "https://biosiglobal.com/summer-camp",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [
+        "L515"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1395",
+      "slug": "bahamas-government-youth",
+      "provider": "Bahamas Youth Division · General Summer Camps",
+      "iso": "BHS",
+      "country": "Bahamas",
+      "place": "The Bahamas · venues TBD",
+      "themes": [
+        "general",
+        "art",
+        "sport"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "escolares 5–14",
+      "programme": "Campamentos públicos diurnos generales: creatividad, confianza, liderazgo y trabajo en equipo. Organizador anuncia participación gratuita para escolares 5–14, pero fechas / sedes nuevas y admisión familiar extranjera sin establecer. No es empleo de verano 15–17 ni robotics camp acreditado.",
+      "language": "Idioma de clases EN / ES / RU sin confirmar expresamente. Web inglesa / bilingüe no considerada prueba del idioma de enseñanza o evaluación.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Fechas y precios de edición pasada no trasladados a 2027; sesión nueva y disponibilidad desconocidas.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": null,
+        "currency": "",
+        "amount": null,
+        "unit": "programme",
+        "label": "Organizador describe Summer Camps gratuitos; no acredita plaza turística gratuita, viaje, alojamiento o comidas.",
+        "included": "",
+        "extras": "Vuelo, alojamiento familiar externo, transporte local, comidas fuera de inclusiones y seguro aparte.",
+        "deposit": "Tarifa nueva, plazas y factura completa sin establecer; precio desconocido no equivale a cero."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar admisión extranjera individual, curso real, nivel tras tres años de competiciones, idioma del grupo, plazas y factura final. Sin solicitudes, consentimientos, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Bahamas Youth Division · General Summer Camps",
+          "url": "https://mygateway.gov.bs/mysc/",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [
+        "L516"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1396",
+      "slug": "barbados-junior-robotics",
+      "provider": "Caribbean Science Foundation · Barbados Junior Robotics Camp",
+      "iso": "BRB",
+      "country": "Barbados",
+      "place": "UWI Cave Hill · Barbados",
+      "themes": [
+        "robotics",
+        "engineering",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "10–18 · corte específico por nivel 1 de julio",
+      "programme": "Campamento diurno selectivo, niveles I 10+, II 12+, III 13+ al 1 de julio; recomendación docente / coach para primer ingreso. Acceso a ciudadanos CARICOM / Associate, o niño no caribeño con progenitor trabajando legalmente en Barbados al menos un año, prioridad mínima. Visita turística sola no da admisión. Fin archivado Friday 15 August 2026 contradice día de semana; sesión futura sin asignar.",
+      "language": "Idioma de clases EN / ES / RU sin confirmar expresamente. Web inglesa / bilingüe no considerada prueba del idioma de enseñanza o evaluación.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "Fechas y precios de edición pasada no trasladados a 2027; sesión nueva y disponibilidad desconocidas.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "currency": "USD",
+        "amount": null,
+        "unit": "programme",
+        "label": "USD 1000 solo categoría publicada no CARICOM con fundamento laboral local del progenitor. No es tarifa general de todos niveles ni permiso extranjero. Alojamiento externo, comidas y viaje familiar aparte; tarifa 2027 desconocida.",
+        "included": "",
+        "extras": "Vuelo, alojamiento familiar externo, transporte local, comidas fuera de inclusiones y seguro aparte.",
+        "deposit": "Tarifa nueva, plazas y factura completa sin establecer; precio desconocido no equivale a cero."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar admisión extranjera individual, curso real, nivel tras tres años de competiciones, idioma del grupo, plazas y factura final. Sin solicitudes, consentimientos, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Caribbean Science Foundation · Barbados Junior Robotics Camp",
+          "url": "https://caribbeanscience.org/barbados-junior-robotics-camp-2026/",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [
+        "L206"
+      ],
+      "calendar_links": []
     }
   ],
   "gaps": [
@@ -226981,7 +228277,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 174,
+  "version": 175,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -243255,6 +244551,16 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP1386",
+      "event_id": "CP1386-20270116-20270320-bayamon-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1386",
+      "event_id": "CP1386-20270116-20270320-bayamon-pm",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -243452,6 +244758,76 @@
     {
       "programme_id": "CP1381",
       "event_id": "L503",
+      "relation": "existing_programme"
+    },
+    {
+      "programme_id": "CP1382",
+      "event_id": "L504",
+      "relation": "existing_programme"
+    },
+    {
+      "programme_id": "CP1383",
+      "event_id": "L505",
+      "relation": "existing_programme"
+    },
+    {
+      "programme_id": "CP1384",
+      "event_id": "L506",
+      "relation": "existing_programme"
+    },
+    {
+      "programme_id": "CP1385",
+      "event_id": "L507",
+      "relation": "existing_programme"
+    },
+    {
+      "programme_id": "CP1387",
+      "event_id": "L508",
+      "relation": "existing_programme"
+    },
+    {
+      "programme_id": "CP1388",
+      "event_id": "L509",
+      "relation": "existing_programme"
+    },
+    {
+      "programme_id": "CP1389",
+      "event_id": "L510",
+      "relation": "existing_programme"
+    },
+    {
+      "programme_id": "CP1390",
+      "event_id": "L511",
+      "relation": "existing_programme"
+    },
+    {
+      "programme_id": "CP1391",
+      "event_id": "L512",
+      "relation": "existing_programme"
+    },
+    {
+      "programme_id": "CP1392",
+      "event_id": "L513",
+      "relation": "existing_programme"
+    },
+    {
+      "programme_id": "CP1393",
+      "event_id": "L514",
+      "relation": "existing_programme"
+    },
+    {
+      "programme_id": "CP1394",
+      "event_id": "L515",
+      "relation": "existing_programme"
+    },
+    {
+      "programme_id": "CP1395",
+      "event_id": "L516",
+      "relation": "existing_programme"
+    },
+    {
+      "programme_id": "CP1396",
+      "event_id": "L206",
       "relation": "existing_programme"
     }
   ],
@@ -246426,10 +247802,12 @@
     "CP1377-20270704-20270710-galactic-en-1",
     "CP1377-20270711-20270717-galactic-en-2",
     "CP1377-20270718-20270724-galactic-en-3",
-    "CP1377-20270725-20270731-galactic-en-4"
+    "CP1377-20270725-20270731-galactic-en-4",
+    "CP1386-20270116-20270320-bayamon-am",
+    "CP1386-20270116-20270320-bayamon-pm"
   ],
   "integration": {
-    "generated_sessions": 2971,
+    "generated_sessions": 2973,
     "reused_legacy_events": 69,
     "seasonal_windows": 60,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

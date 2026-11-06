@@ -166,7 +166,12 @@
           "C1753",
           "C1754",
           "C1755",
-          "C1756"
+          "C1756",
+          "C1763",
+          "C1764",
+          "C1765",
+          "C1766",
+          "C1767"
         ],
         "legacy_ids": [
           "C006",
@@ -591,7 +596,8 @@
           "C1741",
           "C1742",
           "C1743",
-          "C1744"
+          "C1744",
+          "C1769"
         ],
         "legacy_ids": [
           "C003",
@@ -16377,11 +16383,229 @@
           }
         ],
         "evidence": "Leídas fuentes primarias locales; conservadas incógnitas, contradicciones y temporadas antiguas."
+      },
+      {
+        "id": "wro-caribbean-local",
+        "name": "WRO · Puerto Rico / Jamaica / USVI",
+        "group": "regional",
+        "age_summary": "Categorías locales; corte exacto por separado.",
+        "age_tags": [
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Calendario local oficial: Ponce 13 de noviembre 2026, 08–15. Disciplinas y admisión escolar / residente de etapa concreta sin describir; equipo visitante no considerado admitido. PDF RoboMission 2026: Elementary 8–12, nacidos 2014–2018, equipo 2–3; Matvey encaja por año, Oscar no. Página general aún dice LEGO-only, PDF adjunto permite plataformas distintas dentro de límites técnicos: confirmar reglas de etapa. Copa nombrada por separado el 10 de diciembre en dos programas oficiales; horas difieren. Sin establecer categorías separadas, edad, admisión extranjera abierta, cuota propia o entrada independiente. No sustituir por final WRO ni prometer medalla adicional. Project Promise anuncia torneo nacional en mayo 2027. Vía colegios / youth organizations / community groups del territorio: organización se registra, adulto se forma, crean club, clubes establecidos invitados a selección. Visita independiente de hermanos no da derecho a representar USVI. Mención December 2027 de final internacional es afirmación del operador local y no se convirtió en fecha mundial separada. Ficha activa con URL 2025 describe 2026: RoboMissions 22 de junio y Future Innovators 21 de septiembre, Mona Prep auditorium; ambas fechas pasadas. U13 local no equivale al rango global de todas categorías. Según página local un niño no participa en ambas disciplinas; coach puede dirigir varios equipos. Temporada nueva, excepciones menores y plaza extranjera sin establecer. Ficha activa con URL 2025 describe 2026: RoboMissions 22 de junio y Future Innovators 21 de septiembre, Mona Prep auditorium; ambas fechas pasadas. U13 local no equivale al rango global de todas categorías. Según página local un niño no participa en ambas disciplinas; coach puede dirigir varios equipos. Temporada nueva, excepciones menores y plaza extranjera sin establecer.",
+        "categories": [
+          {
+            "name": "WRO Puerto Rico · Ponce regional 2026",
+            "age": "categorías WRO locales · confirmar divisiones del evento",
+            "team": "Equipo; composición exacta según reglamento de categoría.",
+            "hardware": "Confirmar kit y reglamento técnico de categoría elegida.",
+            "age_rule": "Condicional por año 2017; selección local y registro aparte. / No para Elementary internacional 8–12; formato local menor sin confirmar.",
+            "entry": "Calendario local oficial: Ponce 13 de noviembre 2026, 08–15. Disciplinas y admisión escolar / residente de etapa concreta sin describir; equipo visitante no considerado admitido. PDF RoboMission 2026: Elementary 8–12, nacidos 2014–2018, equipo 2–3; Matvey encaja por año, Oscar no. Página general aún dice LEGO-only, PDF adjunto permite plataformas distintas dentro de límites técnicos: confirmar reglas de etapa."
+          },
+          {
+            "name": "Puerto Rico Robotics Cup 2026",
+            "age": "divisiones exactas de Copa por anunciar",
+            "team": "Equipo; composición exacta según reglamento de categoría.",
+            "hardware": "Confirmar kit y reglamento técnico de categoría elegida.",
+            "age_rule": "Condicional / Condicional",
+            "entry": "Copa nombrada por separado el 10 de diciembre en dos programas oficiales; horas difieren. Sin establecer categorías separadas, edad, admisión extranjera abierta, cuota propia o entrada independiente. No sustituir por final WRO ni prometer medalla adicional."
+          },
+          {
+            "name": "WRO US Virgin Islands · national competition · May 2027",
+            "age": "divisiones locales / corte exacto por anunciar",
+            "team": "Equipo; composición exacta según reglamento de categoría.",
+            "hardware": "Confirmar kit y reglamento técnico de categoría elegida.",
+            "age_rule": "Condicional / Condicional",
+            "entry": "Project Promise anuncia torneo nacional en mayo 2027. Vía colegios / youth organizations / community groups del territorio: organización se registra, adulto se forma, crean club, clubes establecidos invitados a selección. Visita independiente de hermanos no da derecho a representar USVI. Mención December 2027 de final internacional es afirmación del operador local y no se convirtió en fecha mundial separada."
+          },
+          {
+            "name": "WRO Jamaica · RoboMission · next season watch",
+            "age": "2026 · U13 local · próximo corte por anunciar",
+            "team": "Equipo; composición exacta según reglamento de categoría.",
+            "hardware": "Confirmar kit y reglamento técnico de categoría elegida.",
+            "age_rule": "Condicional / Condicional",
+            "entry": "Ficha activa con URL 2025 describe 2026: RoboMissions 22 de junio y Future Innovators 21 de septiembre, Mona Prep auditorium; ambas fechas pasadas. U13 local no equivale al rango global de todas categorías. Según página local un niño no participa en ambas disciplinas; coach puede dirigir varios equipos. Temporada nueva, excepciones menores y plaza extranjera sin establecer."
+          },
+          {
+            "name": "WRO Jamaica · Future Innovators · next season watch",
+            "age": "2026 · U13 local · próximo corte por anunciar",
+            "team": "Equipo; composición exacta según reglamento de categoría.",
+            "hardware": "Confirmar kit y reglamento técnico de categoría elegida.",
+            "age_rule": "Condicional / Condicional",
+            "entry": "Ficha activa con URL 2025 describe 2026: RoboMissions 22 de junio y Future Innovators 21 de septiembre, Mona Prep auditorium; ambas fechas pasadas. U13 local no equivale al rango global de todas categorías. Según página local un niño no participa en ambas disciplinas; coach puede dirigir varios equipos. Temporada nueva, excepciones menores y plaza extranjera sin establecer."
+          }
+        ],
+        "event_ids": [
+          "C1763",
+          "C1764",
+          "C1765",
+          "C1766",
+          "C1767"
+        ],
+        "legacy_ids": [],
+        "route": "Confirmar con operador curso exacto, edad al corte, representación local, admisión extranjera, mentor, equipo, idioma operativo y plazas. Posibilidad por edad no significa admisión ni plaza nacional.",
+        "hardware": "Equipo por disciplina; PDF RoboMission 2026 adjunto admite plataformas distintas, párrafo antiguo de web dice LEGO-only. Requiere reglamento vigente de etapa.",
+        "language": "Idioma de clases EN / ES / RU sin confirmar expresamente. Web inglesa / bilingüe no considerada prueba del idioma de enseñanza o evaluación.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Confirmar con operador curso exacto, edad al corte, representación local, admisión extranjera, mentor, equipo, idioma operativo y plazas. Posibilidad por edad no significa admisión ni plaza nacional."
+        ],
+        "nuances": [
+          "Proyecto lectivo y certificado de participación no equivalen a victoria competitiva. Plaza nacional y medalla internacional requieren selección y resultado por separado."
+        ],
+        "cost": "Tarifa nueva, plazas y factura completa sin establecer; precio desconocido no equivale a cero.",
+        "award": "Proyecto lectivo y certificado de participación no equivalen a victoria competitiva. Plaza nacional y medalla internacional requieren selección y resultado por separado.",
+        "sources": [
+          {
+            "title": "WRO · Puerto Rico / Jamaica / USVI",
+            "url": "https://wro.pr/",
+            "checked": "2026-11-05"
+          }
+        ],
+        "evidence": "Leídas páginas primarias locales; página dinámica OECS marcada aparte como captura del índice."
+      },
+      {
+        "id": "beta-bahamas-hack",
+        "name": "BETA Hack · Bahamas",
+        "group": "regional",
+        "age_summary": "Categorías locales; corte exacto por separado.",
+        "age_tags": [
+          "teen"
+        ],
+        "summary": "Página conserva hackathon virtual 25 de febrero – 18 de marzo 2023 pese a texto «pronto». Equipo 3–4 de un colegio / organización reconocida Bahamas, teacher / approved chaperone obligatorio; un equipo por organización en cada grupo. Familia individual sin organización no acreditada. Requiere computadores / conexión propios, año nuevo y deadline desconocidos.",
+        "categories": [
+          {
+            "name": "BETA Hack · school technology hackathon · next edition watch",
+            "age": "KiddoBytes cursos 7–9 / BetaBytes cursos 7–12",
+            "team": "Equipo; composición exacta según reglamento de categoría.",
+            "hardware": "Confirmar kit y reglamento técnico de categoría elegida.",
+            "age_rule": "Más adelante: cursos escolares 7–12. / Más adelante: cursos escolares 7–12.",
+            "entry": "Página conserva hackathon virtual 25 de febrero – 18 de marzo 2023 pese a texto «pronto». Equipo 3–4 de un colegio / organización reconocida Bahamas, teacher / approved chaperone obligatorio; un equipo por organización en cada grupo. Familia individual sin organización no acreditada. Requiere computadores / conexión propios, año nuevo y deadline desconocidos."
+          }
+        ],
+        "event_ids": [
+          "C1768"
+        ],
+        "legacy_ids": [],
+        "route": "Confirmar con operador curso exacto, edad al corte, representación local, admisión extranjera, mentor, equipo, idioma operativo y plazas. Posibilidad por edad no significa admisión ni plaza nacional.",
+        "hardware": "Computadores y conexión propios; tecnologías permitidas del hackathon nuevo desconocidas.",
+        "language": "Idioma de clases EN / ES / RU sin confirmar expresamente. Web inglesa / bilingüe no considerada prueba del idioma de enseñanza o evaluación.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Confirmar con operador curso exacto, edad al corte, representación local, admisión extranjera, mentor, equipo, idioma operativo y plazas. Posibilidad por edad no significa admisión ni plaza nacional."
+        ],
+        "nuances": [
+          "Proyecto lectivo y certificado de participación no equivalen a victoria competitiva. Plaza nacional y medalla internacional requieren selección y resultado por separado."
+        ],
+        "cost": "Tarifa nueva, plazas y factura completa sin establecer; precio desconocido no equivale a cero.",
+        "award": "Proyecto lectivo y certificado de participación no equivalen a victoria competitiva. Plaza nacional y medalla internacional requieren selección y resultado por separado.",
+        "sources": [
+          {
+            "title": "BETA Hack · Bahamas",
+            "url": "https://wearebeta.co/beta-hack/",
+            "checked": "2026-11-05"
+          }
+        ],
+        "evidence": "Leídas páginas primarias locales; página dinámica OECS marcada aparte como captura del índice."
+      },
+      {
+        "id": "fll-belize-local",
+        "name": "FIRST LEGO League · Belize",
+        "group": "regional",
+        "age_summary": "Categorías locales; corte exacto por separado.",
+        "age_tags": [
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Colegio oficial BHS describe FLL Challenge activa y su ecosistema FIRST, pero no publica calendario nuevo, corte de edad o admisión familiar extranjera. Directorio global indica Belize High School como contacto local. Sitio escolar operativo bhsbes.edu.bz no sustituye identidad de contacto conservada; dominio antiguo belizehighschool.edu.bz no superó TLS. Resultado de oro FIRST Global 2022 corresponde a campeonato mayor separado, no FLL 2027.",
+        "categories": [
+          {
+            "name": "FIRST LEGO League Belize · local school route watch",
+            "age": "primaria / secundaria inicial · corte local por anunciar",
+            "team": "Equipo; composición exacta según reglamento de categoría.",
+            "hardware": "Confirmar kit y reglamento técnico de categoría elegida.",
+            "age_rule": "Condicional / Condicional",
+            "entry": "Colegio oficial BHS describe FLL Challenge activa y su ecosistema FIRST, pero no publica calendario nuevo, corte de edad o admisión familiar extranjera. Directorio global indica Belize High School como contacto local. Sitio escolar operativo bhsbes.edu.bz no sustituye identidad de contacto conservada; dominio antiguo belizehighschool.edu.bz no superó TLS. Resultado de oro FIRST Global 2022 corresponde a campeonato mayor separado, no FLL 2027."
+          }
+        ],
+        "event_ids": [
+          "C1769"
+        ],
+        "legacy_ids": [],
+        "route": "Confirmar con operador curso exacto, edad al corte, representación local, admisión extranjera, mentor, equipo, idioma operativo y plazas. Posibilidad por edad no significa admisión ni plaza nacional.",
+        "hardware": "Set y edición de temporada FLL local sin publicar; entrega de robot no prometida.",
+        "language": "Idioma de clases EN / ES / RU sin confirmar expresamente. Web inglesa / bilingüe no considerada prueba del idioma de enseñanza o evaluación.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Confirmar con operador curso exacto, edad al corte, representación local, admisión extranjera, mentor, equipo, idioma operativo y plazas. Posibilidad por edad no significa admisión ni plaza nacional."
+        ],
+        "nuances": [
+          "Proyecto lectivo y certificado de participación no equivalen a victoria competitiva. Plaza nacional y medalla internacional requieren selección y resultado por separado."
+        ],
+        "cost": "Tarifa nueva, plazas y factura completa sin establecer; precio desconocido no equivale a cero.",
+        "award": "Proyecto lectivo y certificado de participación no equivalen a victoria competitiva. Plaza nacional y medalla internacional requieren selección y resultado por separado.",
+        "sources": [
+          {
+            "title": "FIRST LEGO League · Belize",
+            "url": "https://www.bhsbes.edu.bz/robotics",
+            "checked": "2026-11-05"
+          }
+        ],
+        "evidence": "Leídas páginas primarias locales; página dinámica OECS marcada aparte como captura del índice."
+      },
+      {
+        "id": "oecs-robotics-local",
+        "name": "OECS Super Regional Robotics",
+        "group": "regional",
+        "age_summary": "Categorías locales; corte exacto por separado.",
+        "age_tags": [],
+        "summary": "Índice oficial de plataforma describe edición pasada 16–20 de marzo 2026, Saint Kitts and Nevis, deadline 24 de enero y registro cerrado. Descarga HTML directa contiene carcasa de aplicación, no plantilla viva ni reglamento leído. Equipos escolares nacionales de región; días nuevos, edad mínima, solicitud familiar extranjera y equipo concreto sin establecer.",
+        "categories": [
+          {
+            "name": "OECS Super Regional Robotics Competition · next edition watch",
+            "age": "equipos escolares nacionales · edad precisa por anunciar",
+            "team": "Equipo; composición exacta según reglamento de categoría.",
+            "hardware": "Confirmar kit y reglamento técnico de categoría elegida.",
+            "age_rule": "Condicional / Condicional",
+            "entry": "Índice oficial de plataforma describe edición pasada 16–20 de marzo 2026, Saint Kitts and Nevis, deadline 24 de enero y registro cerrado. Descarga HTML directa contiene carcasa de aplicación, no plantilla viva ni reglamento leído. Equipos escolares nacionales de región; días nuevos, edad mínima, solicitud familiar extranjera y equipo concreto sin establecer."
+          }
+        ],
+        "event_ids": [
+          "C1770"
+        ],
+        "legacy_ids": [],
+        "route": "Confirmar con operador curso exacto, edad al corte, representación local, admisión extranjera, mentor, equipo, idioma operativo y plazas. Posibilidad por edad no significa admisión ni plaza nacional.",
+        "hardware": "Reglamento técnico de edición nueva sin leer; marca y kit completo sin establecer.",
+        "language": "Idioma de clases EN / ES / RU sin confirmar expresamente. Web inglesa / bilingüe no considerada prueba del idioma de enseñanza o evaluación.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Confirmar con operador curso exacto, edad al corte, representación local, admisión extranjera, mentor, equipo, idioma operativo y plazas. Posibilidad por edad no significa admisión ni plaza nacional."
+        ],
+        "nuances": [
+          "Proyecto lectivo y certificado de participación no equivalen a victoria competitiva. Plaza nacional y medalla internacional requieren selección y resultado por separado."
+        ],
+        "cost": "Tarifa nueva, plazas y factura completa sin establecer; precio desconocido no equivale a cero.",
+        "award": "Proyecto lectivo y certificado de participación no equivalen a victoria competitiva. Plaza nacional y medalla internacional requieren selección y resultado por separado.",
+        "sources": [
+          {
+            "title": "OECS Super Regional Robotics",
+            "url": "https://www.steamtournament.com/public-registration?tournament=126b27b2-cf70-443b-b54e-1233b10aaa9d",
+            "checked": "2026-11-05"
+          }
+        ],
+        "evidence": "Leídas páginas primarias locales; página dinámica OECS marcada aparte como captura del índice."
       }
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "181 perfiles de ligas, familias y programas; conservadas las 46 vías anteriores. Formatos brasileños separados, Robofest LATAM y BajaBot locales descritos por sus categorías. Cobertura mundial parcial.",
+    "methodology": "185 perfiles de ligas, familias y programas; conservadas las 46 vías anteriores. Formatos brasileños separados, Robofest LATAM y BajaBot locales descritos por sus categorías. Cobertura mundial parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

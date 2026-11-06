@@ -6,15 +6,15 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 5479; competiciones: 1761; eventos: 244; campamentos / programas: 3474. Perfiles de ligas y programas: 181. Fichas de exposiciones grandes y especializadas: 158 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 5505; competiciones: 1769; eventos: 245; campamentos / programas: 3491. Perfiles de ligas y programas: 185. Fichas de exposiciones grandes y especializadas: 159 — son ediciones y sedes, no cantidad de marcas únicas.
 
-Hay registros concretos para 115 de 249 países y territorios; países completamente auditados: 0. Ronda archivada v51: añadidas 21 fichas y 3 perfiles. Conservadas todas las fichas anteriores.
+Hay registros concretos para 119 de 249 países y territorios; países completamente auditados: 0. Ronda archivada v51: añadidas 21 fichas y 3 perfiles. Conservadas todas las fichas anteriores.
 
 ## Cobertura por continentes
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 15 | 605 | 19 | 950 |
+| América del Norte | 19 | 613 | 20 | 967 |
 | América del Sur | 10 | 159 | 7 | 113 |
 | Europa | 39 | 360 | 52 | 1228 |
 | África | 16 | 73 | 7 | 42 |
@@ -23,7 +23,7 @@ Hay registros concretos para 115 de 249 países y territorios; países completam
 
 Fichas interregionales / globales sin atribuir a un continente: 60. América del Norte incluye América Central y Caribe. Cantidades muestran inventario de base, no porcentaje de integridad.
 
-VEX: 518 de 1761 fichas de competiciones (29.4%). Existe un claro sesgo de cobertura.
+VEX: 518 de 1769 fichas de competiciones (29.3%). Existe un claro sesgo de cobertura.
 
 ## Lo que queda
 
@@ -93,8 +93,8 @@ VEX: 518 de 1761 fichas de competiciones (29.4%). Existe un claro sesgo de cober
 
 ## ~ Proyecciones de ligas y programas
 
-- **WRO**: 110 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://wro-association.org/competition/categories/
-- **FIRST**: 283 fichas, 185 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.firstinspires.org/programs/fll/
+- **WRO**: 115 fichas, 5 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://wro-association.org/competition/categories/
+- **FIRST**: 284 fichas, 185 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.firstinspires.org/programs/fll/
 - **VEX Robotics**: 518 fichas, 421 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.vexrobotics.com/official-path
 - *RoboCupJunior**: 4 tarjetas, 2 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://junior.robocup.org/
 - **MakeX**: 15 fichas, 11 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.makex.cc/en/2026-makex
@@ -274,6 +274,10 @@ VEX: 518 de 1761 fichas de competiciones (29.4%). Existe un claro sesgo de cober
 - **Robokup Croatia · school engineering**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.hztk.hr/robokup-2027.aspx
 - **TEKNOFEST · school projects and Robolig**: 2 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.teknofest.org/tr/yarismalar/insanlik-yararina-teknolojiler-yarismasi-ilkokul-seviyesi/
 - **International MEB Robot Competition**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://robot.meb.gov.tr/
+- **WRO · Puerto Rico / Jamaica / USVI**: 5 fichas, 2 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://wro.pr/
+- **BETA Hack · Bahamas**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://wearebeta.co/beta-hack/
+- **FIRST LEGO League · Belize**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.bhsbes.edu.bz/robotics
+- **OECS Super Regional Robotics**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.steamtournament.com/public-registration?tournament=126b27b2-cf70-443b-b54e-1233b10aaa9d
 
 ## Grandes exposiciones: tarjetas de identidad
 
@@ -435,6 +439,7 @@ VEX: 518 de 1761 fichas de competiciones (29.4%). Existe un claro sesgo de cober
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors
 - **Robot Investments & Maintenance 4.0 Summit · next edition watch** — Turquía; fecha desconocida. Confirmar admisión infantil. https://www.robotyatirimlari.com/
 - **TEKNOFEST · aviation, space & technology festival · next edition watch** — Turquía; fecha desconocida. Con adulto; condiciones de entrada adulta aparte. https://teknofest.org/tr/kurumsal/sss/
+- **WRO International Final · EdTech & Robotics Expo 2026** — Puerto Rico; 2026-12-08 – 2026-12-10. con un adulto; condiciones de admisión adulta por separado. https://wro2026.org/
 
 ## ~ Añadida en esta versión
 

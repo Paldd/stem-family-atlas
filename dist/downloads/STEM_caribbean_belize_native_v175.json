@@ -1,0 +1,139 @@
+{
+  "version": 175,
+  "checked": "2026-11-05",
+  "minigeeks_cohorts": [
+    {
+      "key": "bayamon-am",
+      "label": "Bayamón · AM",
+      "days": [
+        "2027-01-16",
+        "2027-01-23",
+        "2027-01-30",
+        "2027-02-06",
+        "2027-02-13",
+        "2027-02-20",
+        "2027-02-27",
+        "2027-03-06",
+        "2027-03-13",
+        "2027-03-20"
+      ],
+      "begin": "09:00",
+      "finish": "12:00",
+      "capacity": 20,
+      "price": 600,
+      "currency": "USD",
+      "course_language": "ES"
+    },
+    {
+      "key": "bayamon-pm",
+      "label": "Bayamón · PM",
+      "days": [
+        "2027-01-16",
+        "2027-01-23",
+        "2027-01-30",
+        "2027-02-06",
+        "2027-02-13",
+        "2027-02-20",
+        "2027-02-27",
+        "2027-03-06",
+        "2027-03-13",
+        "2027-03-20"
+      ],
+      "begin": "13:00",
+      "finish": "16:00",
+      "capacity": 20,
+      "price": 600,
+      "currency": "USD",
+      "course_language": "ES"
+    }
+  ],
+  "minigeeks_advanced": {
+    "dates": null,
+    "waitlist": true,
+    "capacity": 12,
+    "age_min": 9,
+    "age_max": 14,
+    "currency": "USD",
+    "published_course_price": 600
+  },
+  "wro_puerto_rico": {
+    "regional_ponce": "2026-11-13",
+    "practice_days": [
+      "2026-11-07",
+      "2026-11-21"
+    ],
+    "cup": "2026-12-10",
+    "cup_time_conflict": [
+      "12:00",
+      "13:30"
+    ],
+    "international_final": [
+      "2026-12-08",
+      "2026-12-10"
+    ],
+    "supporter_currency": "USD",
+    "supporter_per_person": 375,
+    "minimum_paid_age": 3,
+    "open_public_entry": false,
+    "official_registration_via_national_organizer": true
+  },
+  "usvi": {
+    "national_month": "2027-05",
+    "exact_days": null,
+    "territory_organization_route": true
+  },
+  "jamaica": {
+    "saturday_term_page": [
+      "2026-09-12",
+      "2026-11-21"
+    ],
+    "saturday_filter_end": "2026-11-14",
+    "rem_start_dates_without_year": [
+      "October 21",
+      "September 7"
+    ],
+    "rem_apply_price_usd": 0,
+    "rem_one_time_year_usd": 2500,
+    "rem_installment_plans": [
+      [
+        3,
+        958.33
+      ],
+      [
+        6,
+        500
+      ],
+      [
+        9,
+        347.22
+      ]
+    ]
+  },
+  "bahamas": {
+    "beta_camp_min_age": 11,
+    "beta_camp_max_age": 16,
+    "beta_completed_grades": [
+      7,
+      12
+    ],
+    "hack_historical_window": [
+      "2023-02-25",
+      "2023-03-18"
+    ],
+    "new_hack_dates": null,
+    "government_camp_age": [
+      5,
+      14
+    ],
+    "foreign_admission_confirmed": false
+  },
+  "oecs": {
+    "primary_indexed_historical_window": [
+      "2026-03-16",
+      "2026-03-20"
+    ],
+    "direct_html_readable_calendar": false,
+    "new_dates": null
+  },
+  "all_future_dates_independently_confirmed_or_blank": true
+}

@@ -1,0 +1,562 @@
+{
+  "version": 175,
+  "checked": "2026-11-05",
+  "request_count": 55,
+  "hash_verified": 47,
+  "requests": [
+    {
+      "key": "pr-wro",
+      "url": "https://wro.pr/",
+      "final_url": "https://wro.pr/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 73590,
+      "sha256": "7a171a042b44646b11d0c0d7bc350b397c2144f12b5119502ea6defbba660b30",
+      "file": "pr-wro.html"
+    },
+    {
+      "key": "pr-techno-summer",
+      "url": "https://technoinventors.com/ofrecimientos/summer-camp/",
+      "final_url": "https://technoinventors.com/ofrecimientos/summer-camp/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 43551,
+      "sha256": "eb0b67931d8ee22373ddff5273aac2bfbdd6a0e27317200f1fc6e786fe0fdd8c",
+      "file": "pr-techno-summer.html"
+    },
+    {
+      "key": "pr-techno-main",
+      "url": "https://www.technoinventors.com/",
+      "final_url": "https://www.technoinventors.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 82976,
+      "sha256": "0a6d5421ddcc1f363346a969e88e16f8cd7903613929271ae8adbde4b14b7967",
+      "file": "pr-techno-main.html"
+    },
+    {
+      "key": "vi-promise",
+      "url": "https://www.projectpromisevi.com/",
+      "final_url": "https://www.projectpromisevi.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 866162,
+      "sha256": "0358cb9a4f4144411a496bde2c651fe1e526c844f5f2b2ef94c1ab6e0fa0b8c7",
+      "file": "vi-promise.html"
+    },
+    {
+      "key": "antigua-robotics-https",
+      "url": "https://antiguabarbudarobotics.org/",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "key": "antigua-robotics-http",
+      "url": "http://antiguabarbudarobotics.org",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "key": "belize-high",
+      "url": "https://belizehighschool.edu.bz/",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'belizehighschool.edu.bz'. (_ssl.c:1082)>"
+    },
+    {
+      "key": "bahamas-beta",
+      "url": "https://wearebeta.co/",
+      "final_url": "https://wearebeta.co/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 356428,
+      "sha256": "cc9c8dd348da27326e113197cbff234a88c809306887b3e572291d904df3576d",
+      "file": "bahamas-beta.html"
+    },
+    {
+      "key": "bahamas-biosi",
+      "url": "https://biosiglobal.com/summer-camp",
+      "final_url": "https://biosiglobal.com/summer-camp",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 159237,
+      "sha256": "2d34a00db69bfa818818b39508f4bf51dd5a7259208cf39950fba24c8f8d8a75",
+      "file": "bahamas-biosi.html"
+    },
+    {
+      "key": "bahamas-mysc",
+      "url": "https://mygateway.gov.bs/mysc/",
+      "final_url": "https://mygateway.gov.bs/mysc/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 307875,
+      "sha256": "34b9fca4d06f0520fed4dec7282f493fb711835f4a2f483111e495f7332c8adc",
+      "file": "bahamas-mysc.html"
+    },
+    {
+      "key": "haiti-pennies",
+      "url": "https://penniesforhaiti.reachapp.co/",
+      "final_url": "https://penniesforhaiti.reachapp.co/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 97516,
+      "sha256": "e55cbd32caf3af08183e26e482968025311c9a47188c7539dad52b310243abac",
+      "file": "haiti-pennies.html"
+    },
+    {
+      "key": "fr-fll",
+      "url": "https://firstlegoleaguefrance.fr/",
+      "final_url": "https://firstlegoleaguefrance.fr/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 144081,
+      "sha256": "88a0ecfec8c6030cd679ab5af14ecc53f5f096d456c74f6f076f62b1739d2a97",
+      "file": "fr-fll.html"
+    },
+    {
+      "key": "rd-fll",
+      "url": "https://www.fll-caribe-rd.org/",
+      "final_url": "https://www.fll-caribe-rd.org/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 437341,
+      "sha256": "4016b208522f90aef445be976007cf2d49cfeee4f2fd6920d22b7f82114072ae",
+      "file": "rd-fll.html"
+    },
+    {
+      "key": "rd-wro",
+      "url": "https://fundacionsteamrd.org/",
+      "final_url": "https://fundacionsteamrd.org/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 2535,
+      "sha256": "5c6fb3941642f900278eed66c8341818da12ff031fb4c9dd573bfe7242d31f65",
+      "file": "rd-wro.html"
+    },
+    {
+      "key": "jamaica-halls",
+      "url": "https://hallsoflearning.com/",
+      "final_url": "https://www.hallsoflearning.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1005505,
+      "sha256": "1f10fda42cdd2eb752eaec6be85685727edfd711b6f89ae66d7bb038d52adbef",
+      "file": "jamaica-halls.html"
+    },
+    {
+      "key": "barbados-csf",
+      "url": "https://caribbeanscience.org/barbados-junior-robotics-camp-2026/",
+      "final_url": "https://caribbeanscience.org/barbados-junior-robotics-camp-2026/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 135154,
+      "sha256": "25437d3ff3bff7425b52994c3adf0b7a1ebb0f13ec659061c9cb4f1af003e85c",
+      "file": "barbados-csf.html"
+    },
+    {
+      "key": "pr-minigeeks",
+      "url": "https://minigeeks.co/robots",
+      "final_url": "https://minigeeks.co/robotica",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 170509,
+      "sha256": "93ce0602e45eb3e50a9c35c8656ef8b70d2047f9b6673b118f3b22bef46cf3a9",
+      "file": "pr-minigeeks.html"
+    },
+    {
+      "key": "pr-openhouse",
+      "url": "https://wro.pr/oh/",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "pr-world",
+      "url": "https://wro2026.org/",
+      "final_url": "https://wro2026.org/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 89917,
+      "sha256": "915c07a99593f2fbb351f558b5af358cc189da783d6499ad5233056eaa44ae6c",
+      "file": "pr-world.html"
+    },
+    {
+      "key": "pr-tickets",
+      "url": "https://wro.pr/tickets",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "pr-openhouse-exact",
+      "url": "https://wro.pr/oh",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "pr-techno-winter",
+      "url": "https://technoinventors.com/ofrecimientos/winter-camp",
+      "final_url": "https://technoinventors.com/ofrecimientos/winter-camp/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 43289,
+      "sha256": "b94f61188f7a3ee5cd723e049ae2febce0bc5c39955e92918204ba418daa6981",
+      "file": "pr-techno-winter.html"
+    },
+    {
+      "key": "pr-techno-spring",
+      "url": "https://technoinventors.com/ofrecimientos/spring-break-camp",
+      "final_url": "https://technoinventors.com/ofrecimientos/spring-break-camp/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 43117,
+      "sha256": "d1d6646e860233898eb5cc5fbe6cfeb71a130256f06530da500eaba13c863658",
+      "file": "pr-techno-spring.html"
+    },
+    {
+      "key": "pr-techno-club",
+      "url": "https://technoinventors.com/ofrecimientos/saturday-club",
+      "final_url": "https://technoinventors.com/ofrecimientos/saturday-club/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 66631,
+      "sha256": "02d92339cc8d2251d5ca0a5d761a7a9283b8560ed057418cce27ef86987394ed",
+      "file": "pr-techno-club.html"
+    },
+    {
+      "key": "pr-techno-agreement",
+      "url": "https://technoinventors.com/agreement",
+      "final_url": "https://technoinventors.com/agreement/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 40750,
+      "sha256": "0adc83b9ae50181f1983d8cc8d3a0c3efb113b2df7639c11febea6378499a92c",
+      "file": "pr-techno-agreement.html"
+    },
+    {
+      "key": "pr-geeks-advanced",
+      "url": "https://minigeeks.co/robotica-avanzada",
+      "final_url": "https://minigeeks.co/robotica-avanzada",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 156811,
+      "sha256": "17fc013249938a2ce9597beeabd01a39494c1f28a7b014fb6cb04c27c2cb87ad",
+      "file": "pr-geeks-advanced.html"
+    },
+    {
+      "key": "jamaica-wro-entry",
+      "url": "https://www.hallsoflearning.com/product-page/wro-2025-team-entry-fee-2-to-3-students",
+      "final_url": "https://www.hallsoflearning.com/product-page/wro-2025-team-entry-fee-2-to-3-students",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1818555,
+      "sha256": "763cdca3a0b194ff010cdc1caba919655abccf09bd844827a4e7a37cf943e9c2",
+      "file": "jamaica-wro-entry.html"
+    },
+    {
+      "key": "jamaica-products",
+      "url": "https://www.hallsoflearning.com/category/all-products",
+      "final_url": "https://www.hallsoflearning.com/category/all-products",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1968309,
+      "sha256": "febd03af7a401e292e8ec10dcc8a49c1a80cb94b93311040a8a704e2d367e377",
+      "file": "jamaica-products.html"
+    },
+    {
+      "key": "jamaica-rem",
+      "url": "https://www.hallsoflearning.com/product-page/apply-to-robotics-engineering-mastery-rem",
+      "final_url": "https://www.hallsoflearning.com/product-page/apply-to-robotics-engineering-mastery-rem",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1510689,
+      "sha256": "eee440b628c254e0cb3560f16fa60612aa6ab5137cb49c0ae925339eacee3987",
+      "file": "jamaica-rem.html"
+    },
+    {
+      "key": "jamaica-about",
+      "url": "https://www.hallsoflearning.com/about",
+      "final_url": "https://www.hallsoflearning.com/about",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 970583,
+      "sha256": "27bc284da597fef7161422e2904913f1d2a14781cb453950c7c096e339668697",
+      "file": "jamaica-about.html"
+    },
+    {
+      "key": "jamaica-challenges",
+      "url": "https://challenges.hallsoflearning.com/index.php?action=welcome",
+      "final_url": "https://challenges.hallsoflearning.com/index.php?action=welcome",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 6329,
+      "sha256": "61d8579a8ab3fe02cb423160836db35de684e1c47e3f1ad1c292a734de889677",
+      "file": "jamaica-challenges.html"
+    },
+    {
+      "key": "fr-antennes",
+      "url": "https://firstlegoleaguefrance.fr/decouvrir-les-antennes-locales/",
+      "final_url": "https://firstlegoleaguefrance.fr/decouvrir-les-antennes-locales/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 116582,
+      "sha256": "05eb9a9afb251c543657683dc56e5db8c02888605e506792c765dd0924c5e3f8",
+      "file": "fr-antennes.html"
+    },
+    {
+      "key": "fr-participer",
+      "url": "https://firstlegoleaguefrance.fr/participer/",
+      "final_url": "https://firstlegoleaguefrance.fr/participer/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 122819,
+      "sha256": "56c7ab2fe70d65ea1d9064e00a457342f3861f454115f0b2efc5a32f61dc54b2",
+      "file": "fr-participer.html"
+    },
+    {
+      "key": "fr-finale",
+      "url": "https://firstlegoleaguefrance.fr/la-finale-nationale/",
+      "final_url": "https://firstlegoleaguefrance.fr/la-finale-nationale/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 122522,
+      "sha256": "2caef7872455893bf27f2447436f1348be53485deda21394f333c6ed6f3feba1",
+      "file": "fr-finale.html"
+    },
+    {
+      "key": "vi-wro",
+      "url": "https://www.projectpromisevi.com/world-robot-olympiad-wro",
+      "final_url": "https://www.projectpromisevi.com/world-robot-olympiad-wro",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 779058,
+      "sha256": "6fca14748e99cfe64dd5985ea36bf710eb61ca0a813c751289dc7734f315f92c",
+      "file": "vi-wro.html"
+    },
+    {
+      "key": "vi-programs",
+      "url": "https://www.projectpromisevi.com/programs",
+      "final_url": "https://www.projectpromisevi.com/programs",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 3811003,
+      "sha256": "1b7b53d7603ac9a12369b57c9d4e7384b1320f08dd49ab3aca7275fd0ad1b161",
+      "file": "vi-programs.html"
+    },
+    {
+      "key": "bahamas-hack",
+      "url": "https://wearebeta.co/beta-hack/",
+      "final_url": "https://wearebeta.co/beta-hack/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 942914,
+      "sha256": "39dff714ab1b8a705ca01962b1c6c3825147a842a3ab3cfe79c8d5fb3bd3e273",
+      "file": "bahamas-hack.html"
+    },
+    {
+      "key": "bahamas-pop",
+      "url": "https://wearebeta.co/apply-beta-pop/",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "belize-high-www",
+      "url": "https://www.belizehighschool.edu.bz/",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.belizehighschool.edu.bz'. (_ssl.c:1082)>"
+    },
+    {
+      "key": "rd-international",
+      "url": "https://www.fll-caribe-rd.org/international-teams-c19rs",
+      "final_url": "https://www.fll-caribe-rd.org/international-teams-c19rs",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 415632,
+      "sha256": "439c896c41543038d5f53648b24f973d463253f34cdae1ec2d69e06297c9f048",
+      "file": "rd-international.html"
+    },
+    {
+      "key": "rd-registration",
+      "url": "https://www.fll-caribe-rd.org/como-inscribes-tu-equipo",
+      "final_url": "https://www.fll-caribe-rd.org/como-inscribes-tu-equipo",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 421377,
+      "sha256": "022aa099ea212c41ed6472916dbb40733952e3aaad6396283e2cfd2ce96befb5",
+      "file": "rd-registration.html"
+    },
+    {
+      "key": "rd-championship",
+      "url": "https://www.fll-caribe-rd.org/campeonato-fll-rd",
+      "final_url": "https://www.fll-caribe-rd.org/campeonato-fll-rd",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 413488,
+      "sha256": "ee1aa376063b7a1668acc97b98953663f7a2305dab8bf9bb4b1724496ed48e00",
+      "file": "rd-championship.html"
+    },
+    {
+      "key": "belize-bhs-robotics",
+      "url": "https://www.bhsbes.edu.bz/robotics",
+      "final_url": "https://www.bhsbes.edu.bz/robotics",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 823586,
+      "sha256": "ac28030fcc09aa0f0c32cfe14be67b0a97f14e9214b6d16e3db60b28d8e3da3a",
+      "file": "belize-bhs-robotics.html"
+    },
+    {
+      "key": "belize-bhs-global",
+      "url": "https://www.bhsbes.edu.bz/global-engagement",
+      "final_url": "https://www.bhsbes.edu.bz/global-engagement",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 783711,
+      "sha256": "dd468f85a7be648baa64b1f664fe2b66c735f20698f4a22765cdc62b11d91590",
+      "file": "belize-bhs-global.html"
+    },
+    {
+      "key": "belize-egov-path",
+      "url": "https://egov.gov.bz/2026/09/07/ministry-of-e-governance-advances-digital-skills-development/",
+      "final_url": "https://egov.gov.bz/2026/09/07/ministry-of-e-governance-advances-digital-skills-development/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 282022,
+      "sha256": "54079a72f558fc73040952a83a95a990e9e811f3d0eed404c9493dbd88ba112e",
+      "file": "belize-egov-path.html"
+    },
+    {
+      "key": "caribbean-cso",
+      "url": "https://caribbeanscience.org/cso/",
+      "final_url": "https://caribbeanscience.org/cso/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 233918,
+      "sha256": "638816d2b48a991737752c6ce273ed96fda66b2c8ee634fa327a41465b5e489c",
+      "file": "caribbean-cso.html"
+    },
+    {
+      "key": "oecs-registration",
+      "url": "https://www.steamtournament.com/public-registration?tournament=126b27b2-cf70-443b-b54e-1233b10aaa9d",
+      "final_url": "https://www.steamtournament.com/public-registration?tournament=126b27b2-cf70-443b-b54e-1233b10aaa9d",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 7922,
+      "sha256": "2517c7bfd0d86f8e28b0d3fd5f60fdb3937820c5e0f91091a4db634e5b25eb10",
+      "file": "oecs-registration.html"
+    },
+    {
+      "key": "oecs-results",
+      "url": "https://www.steamtournament.com/live",
+      "final_url": "https://www.steamtournament.com/live",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 7922,
+      "sha256": "2517c7bfd0d86f8e28b0d3fd5f60fdb3937820c5e0f91091a4db634e5b25eb10",
+      "file": "oecs-results.html"
+    },
+    {
+      "key": "pr-wro-general-pdf",
+      "url": "https://wro.pr/assets/docs/reglas/wro-2026-robomission-reglas-generales.pdf",
+      "final_url": "https://wro.pr/assets/docs/reglas/wro-2026-robomission-reglas-generales.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 620472,
+      "sha256": "a5dbd9924eda4f6983b38a78867feaf08ccf5532f382e4fa0e31e29d85822a45",
+      "file": "pr-wro-general-pdf.pdf"
+    },
+    {
+      "key": "jamaica-summer",
+      "url": "https://www.hallsoflearning.com/product-page/summerstoryteller-botics-2026",
+      "final_url": "https://www.hallsoflearning.com/product-page/summerstoryteller-botics-2026",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1515863,
+      "sha256": "3753b90b8c622edd7dc3f1c553159c329c88bf3c87e611ac34964362bd70ecd7",
+      "file": "jamaica-summer.html"
+    },
+    {
+      "key": "jamaica-saturday",
+      "url": "https://www.hallsoflearning.com/product-page/robotics-amp-coding-saturdays",
+      "final_url": "https://www.hallsoflearning.com/product-page/robotics-amp-coding-saturdays",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1856151,
+      "sha256": "b6ee3a3a0312bf3c21bbd17034b50a9eb775c0d2b83d305085be1a1343a91e28",
+      "file": "jamaica-saturday.html"
+    },
+    {
+      "key": "jamaica-hillel",
+      "url": "https://www.hallsoflearning.com/product-page/hol-robotics-club-at-hillel",
+      "final_url": "https://www.hallsoflearning.com/product-page/hol-robotics-club-at-hillel",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1813130,
+      "sha256": "76522fbd3219e0e0cc6d4fc7f89fe75521b2cf73ad77fd1c0c005c9f22db7c41",
+      "file": "jamaica-hillel.html"
+    },
+    {
+      "key": "jamaica-ai",
+      "url": "https://www.hallsoflearning.com/product-page/ai-skills",
+      "final_url": "https://www.hallsoflearning.com/product-page/ai-skills",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1496433,
+      "sha256": "99bf973950f8cd3db6035f53d638bf18aaf327e85b0941a7d5655fed343fa9db",
+      "file": "jamaica-ai.html"
+    },
+    {
+      "key": "jamaica-rem-paid",
+      "url": "https://www.hallsoflearning.com/product-page/join-robotics-engineering-mastery-rem",
+      "final_url": "https://www.hallsoflearning.com/product-page/join-robotics-engineering-mastery-rem",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1493632,
+      "sha256": "7df7b575578daa5fa403e5a2d6752e450799e8c1b661b95a35bcca8de36c99a2",
+      "file": "jamaica-rem-paid.html"
+    },
+    {
+      "key": "bahamas-beta-apply",
+      "url": "https://wearebeta.co/apply/",
+      "final_url": "https://wearebeta.co/slide/apply-for-beta-camp-2023/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 271806,
+      "sha256": "3bb9cf3c575f51996043b355d94930feceffdf9fcfbfe54a34fd5a65a622cb19",
+      "file": "bahamas-beta-apply.html"
+    }
+  ],
+  "failures": [
+    {
+      "key": "antigua-robotics-https",
+      "url": "https://antiguabarbudarobotics.org/",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "key": "antigua-robotics-http",
+      "url": "http://antiguabarbudarobotics.org",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "key": "belize-high",
+      "url": "https://belizehighschool.edu.bz/",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'belizehighschool.edu.bz'. (_ssl.c:1082)>"
+    },
+    {
+      "key": "pr-openhouse",
+      "url": "https://wro.pr/oh/",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "pr-tickets",
+      "url": "https://wro.pr/tickets",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "pr-openhouse-exact",
+      "url": "https://wro.pr/oh",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "bahamas-pop",
+      "url": "https://wearebeta.co/apply-beta-pop/",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "belize-high-www",
+      "url": "https://www.belizehighschool.edu.bz/",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.belizehighschool.edu.bz'. (_ssl.c:1082)>"
+    }
+  ],
+  "raw_source_bodies_private": true,
+  "all_requests_get_only": true
+}

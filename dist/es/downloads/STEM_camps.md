@@ -55510,6 +55510,38 @@ Limitaciones: Matvey: Confirmar admisión extranjera individual, edad / curso, n
 Fuente: https://reservation.spacecampturkey.com/program/youthProgramsEn
 Se ha comprobado: 2026-11-05
 
+### CP1386-20270116-20270320-bayamon-am · MiniGeeks · Robotics & Programming · Bayamón · AM · 2027-01-16–2027-03-20
+
+lugar: Puerto Rico · Bayamón
+Fecha: 2027-01-16 — 2027-03-20
+Edad: 9–14
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Español indicado como inLanguage=es en descripción estructurada del propio curso; enseñanza inglesa no anunciada.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · USD 600 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Mínimo 9 años; en 2027 Oscar tiene 6–7. Suplementos: Vuelo, alojamiento familiar externo, transporte local, comidas fuera de inclusiones y seguro aparte. Pago: Indica opciones Klarna hasta 12 meses; confirmar aplicación, comisiones, cancelación y total. Botón / schema InStock no prueba plaza libre.
+Fuente: https://minigeeks.co/robots
+Se ha comprobado: 2026-11-05
+
+### CP1386-20270116-20270320-bayamon-pm · MiniGeeks · Robotics & Programming · Bayamón · PM · 2027-01-16–2027-03-20
+
+lugar: Puerto Rico · Bayamón
+Fecha: 2027-01-16 — 2027-03-20
+Edad: 9–14
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Español indicado como inLanguage=es en descripción estructurada del propio curso; enseñanza inglesa no anunciada.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · USD 600 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Mínimo 9 años; en 2027 Oscar tiene 6–7. Suplementos: Vuelo, alojamiento familiar externo, transporte local, comidas fuera de inclusiones y seguro aparte. Pago: Indica opciones Klarna hasta 12 meses; confirmar aplicación, comisiones, cancelación y total. Botón / schema InStock no prueba plaza libre.
+Fuente: https://minigeeks.co/robots
+Se ha comprobado: 2026-11-05
+
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
 
 lugar: Letonia · EIS Campus · Piņķi
@@ -55716,6 +55748,246 @@ Precio: Tarifa nueva y condiciones finales sin anunciar. Precio desconocido no e
 Acceso: Confirmar admisión extranjera individual, edad / curso, nivel del grupo, inglés disponible, plazas, inclusiones y contrato final. Sin solicitudes, consentimientos ni pagos.
 Limitaciones: Campamento ESL diurno en Bar: inglés, crafts, juegos, cocina, science y algunas robotics activities. Página indica 24 de junio – 12 de julio sin año, por lo que no se asignan fechas 2027. Lingüístico con elementos STEM; robótica intensiva diaria sin confirmar. Fechas y precios de edición antigua conservados como referencia; sin inferir futuras sesiones, horarios, plazas ni tarifas de temporada pasada.
 Fuente: https://sites.google.com/view/eslcampmontenegro/home
+Se ha comprobado: 2026-11-05
+
+### L504 · Techno Inventors · Summer Camp
+
+lugar: Puerto Rico · Puerto Rico
+Fecha: No se ha fijado el período/plan de trabajo
+edad: 3–18 · fundamentos 6–12
+Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte.
+Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte.
+Formato: individual
+Idioma: Idioma de clases EN / ES / RU sin confirmar expresamente. Web inglesa / bilingüe no considerada prueba del idioma de enseñanza o evaluación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Tarifa nueva, plazas y factura completa sin establecer; precio desconocido no equivale a cero.
+Acceso: Confirmar admisión extranjera individual, curso real, nivel tras tres años de competiciones, idioma del grupo, plazas y factura final. Sin solicitudes, consentimientos, mensajes ni pagos.
+Limitaciones: Campamento tecnológico presencial o virtual: robots, programación, videojuegos / eSports, proyecto y muestra de resultados. Etapas 3–5, 6–12, 13–18; ambos niños encajan en 6–12, pero acordar nivel adecuado. Página de verano dice June–August, invierno December, primavera Easter Week sin días ni año confirmados. Fechas y precios de edición pasada no trasladados a 2027; sesión nueva y disponibilidad desconocidas.
+Fuente: https://technoinventors.com/ofrecimientos/summer-camp
+Se ha comprobado: 2026-11-05
+
+### L505 · Techno Inventors · Winter Camp
+
+lugar: Puerto Rico · Puerto Rico
+Fecha: No se ha fijado el período/plan de trabajo
+edad: 3–18 · fundamentos 6–12
+Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte.
+Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte.
+Formato: individual
+Idioma: Idioma de clases EN / ES / RU sin confirmar expresamente. Web inglesa / bilingüe no considerada prueba del idioma de enseñanza o evaluación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Tarifa nueva, plazas y factura completa sin establecer; precio desconocido no equivale a cero.
+Acceso: Confirmar admisión extranjera individual, curso real, nivel tras tres años de competiciones, idioma del grupo, plazas y factura final. Sin solicitudes, consentimientos, mensajes ni pagos.
+Limitaciones: Campamento tecnológico presencial o virtual: robots, programación, videojuegos / eSports, proyecto y muestra de resultados. Etapas 3–5, 6–12, 13–18; ambos niños encajan en 6–12, pero acordar nivel adecuado. Página de verano dice June–August, invierno December, primavera Easter Week sin días ni año confirmados. Fechas y precios de edición pasada no trasladados a 2027; sesión nueva y disponibilidad desconocidas.
+Fuente: https://technoinventors.com/ofrecimientos/winter-camp
+Se ha comprobado: 2026-11-05
+
+### L506 · Techno Inventors · Spring Break Camp
+
+lugar: Puerto Rico · Puerto Rico
+Fecha: No se ha fijado el período/plan de trabajo
+edad: 3–18 · fundamentos 6–12
+Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte.
+Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte.
+Formato: individual
+Idioma: Idioma de clases EN / ES / RU sin confirmar expresamente. Web inglesa / bilingüe no considerada prueba del idioma de enseñanza o evaluación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Tarifa nueva, plazas y factura completa sin establecer; precio desconocido no equivale a cero.
+Acceso: Confirmar admisión extranjera individual, curso real, nivel tras tres años de competiciones, idioma del grupo, plazas y factura final. Sin solicitudes, consentimientos, mensajes ni pagos.
+Limitaciones: Campamento tecnológico presencial o virtual: robots, programación, videojuegos / eSports, proyecto y muestra de resultados. Etapas 3–5, 6–12, 13–18; ambos niños encajan en 6–12, pero acordar nivel adecuado. Página de verano dice June–August, invierno December, primavera Easter Week sin días ni año confirmados. Fechas y precios de edición pasada no trasladados a 2027; sesión nueva y disponibilidad desconocidas.
+Fuente: https://technoinventors.com/ofrecimientos/spring-break-camp
+Se ha comprobado: 2026-11-05
+
+### L507 · Techno Inventors · Saturday Club
+
+lugar: Puerto Rico · Puerto Rico
+Fecha: No se ha fijado el período/plan de trabajo
+edad: 3–5 / 6–10 / 10–18
+Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte.
+Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte.
+Formato: individual
+Idioma: Idioma de clases EN / ES / RU sin confirmar expresamente. Web inglesa / bilingüe no considerada prueba del idioma de enseñanza o evaluación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Tarifa nueva, plazas y factura completa sin establecer; precio desconocido no equivale a cero.
+Acceso: Confirmar admisión extranjera individual, curso real, nivel tras tres años de competiciones, idioma del grupo, plazas y factura final. Sin solicitudes, consentimientos, mensajes ni pagos.
+Limitaciones: Club regular por niveles: menores 3–5, Explorador 6–10 y Pro 10–18. Edad 10 figura en dos etapas: operador elige nivel. Anuncia Open House sabatino de 30–45 minutos sin registro ni pago; confirmar sede / hora exactas y prueba vigente. Club no convertido en campamento vacacional diario. Sábados; fechas, horas e inicio exactos según disponibilidad.
+Fuente: https://technoinventors.com/ofrecimientos/saturday-club
+Se ha comprobado: 2026-11-05
+
+### L508 · MiniGeeks · Advanced Robotics & Programming
+
+lugar: Puerto Rico · Bayamón
+Fecha: No se ha fijado el período/plan de trabajo
+Edad: 9–14
+Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte.
+Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte.
+Formato: individual
+Idioma: Course JSON-LD indica español inLanguage=es; enseñanza inglesa sin confirmar.
+Marca de idioma: primary; soporte: no declarado
+Precio: USD 600 por curso completo; año del grupo nuevo y condiciones de factura final desconocidos.
+Acceso: Confirmar admisión extranjera individual, curso real, nivel tras tres años de competiciones, idioma del grupo, plazas y factura final. Sin solicitudes, consentimientos, mensajes ni pagos.
+Limitaciones: Curso avanzado para niños con experiencia: 10 sábados / 30 horas, parejas, diez robots progresivamente complejos y bloques Scratch. Hasta 12 niños, anuncia 13–16 horas, pero sin fechas nuevas y ofrece waitlist. Más cercano al nivel de Matvey que curso inicial; Oscar menor de 9. Fechas y precios de edición pasada no trasladados a 2027; sesión nueva y disponibilidad desconocidas.
+Fuente: https://minigeeks.co/robotica-avanzada
+Se ha comprobado: 2026-11-05
+
+### L509 · Halls of Learning · SummerStoryteller-Botics
+
+lugar: Jamaica · Kingston · 4B Hopefield Avenue
+Fecha: No se ha fijado el período/plan de trabajo
+edad: K2–Grade 9
+Matvey: Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago.
+Oscar: Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago.
+Formato: individual
+Idioma: Idioma de clases EN / ES / RU sin confirmar expresamente. Web inglesa / bilingüe no considerada prueba del idioma de enseñanza o evaluación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Ficha archivada: USD 250 regular / USD 200 sale, Out of Stock. Unidad de semana elegida y tarifa futura sin confirmar; no considerar verano completo por USD 200.
+Acceso: Confirmar admisión extranjera individual, curso real, nivel tras tres años de competiciones, idioma del grupo, plazas y factura final. Sin solicitudes, consentimientos, mensajes ni pagos.
+Limitaciones: Historias LEGO de libros animadas mediante robots; grupos K2–G2, G3–G6, G7–G9. Archivo 29 de junio – 24 de julio 2026, lunes–viernes 09–13, drop-off desde 08:30 y recogida hasta 13:30. Curso escolar prima sobre suposición por edad; calendario nuevo sin anunciar. Certificado con foto no es medalla internacional. Fechas y precios de edición pasada no trasladados a 2027; sesión nueva y disponibilidad desconocidas.
+Fuente: https://www.hallsoflearning.com/product-page/summerstoryteller-botics-2026
+Se ha comprobado: 2026-11-05
+
+### L510 · Halls of Learning · Saturdays
+
+lugar: Jamaica · Kingston · 4B Hopefield Avenue
+Fecha: No se ha fijado el período/plan de trabajo
+edad: curso escolar / nivel por confirmar
+Matvey: Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago.
+Oscar: Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago.
+Formato: individual
+Idioma: Idioma de clases EN / ES / RU sin confirmar expresamente. Web inglesa / bilingüe no considerada prueba del idioma de enseñanza o evaluación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Muestra USD 85 regular / USD 45 sale; precio depende de Day / Time / Term / Grade elegidos. Unidad y paquete completo sin confirmar, sin cálculo numérico familiar.
+Acceso: Confirmar admisión extranjera individual, curso real, nivel tras tres años de competiciones, idioma del grupo, plazas y factura final. Sin solicitudes, consentimientos, mensajes ni pagos.
+Limitaciones: Clases sabatinas regulares; robot o dispositivo para cada alumno, hasta 12 niños, todo equipo proporcionado. Python posible para primaria superior / high school. Página indica Christmas Term 12 de septiembre – 21 de noviembre 2026 y mínimo 8 clases en cuota; filtro de tienda aún dice fin 14 de noviembre. Conflicto sin corregir por suposición; confirmar sábados restantes reales y term nuevo. Term actual 2026, fin 21 de noviembre en descripción / 14 de noviembre en filtro; calendario 2027 desconocido.
+Fuente: https://www.hallsoflearning.com/product-page/robotics-amp-coding-saturdays
+Se ha comprobado: 2026-11-05
+
+### L511 · Halls of Learning · Hillel Robotics Club
+
+lugar: Jamaica · Hillel · Jamaica
+Fecha: No se ha fijado el período/plan de trabajo
+edad: alumnos Hillel · curso por confirmar
+Matvey: Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago.
+Oscar: Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago.
+Formato: individual
+Idioma: Idioma de clases EN / ES / RU sin confirmar expresamente. Web inglesa / bilingüe no considerada prueba del idioma de enseñanza o evaluación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: USD 140 regular / USD 40 sale en ficha; confirmar opciones y total term, no considerar programa entero por USD 40.
+Acceso: Confirmar admisión extranjera individual, curso real, nivel tras tres años de competiciones, idioma del grupo, plazas y factura final. Sin solicitudes, consentimientos, mensajes ni pagos.
+Limitaciones: Club escolar: formulario exige nombre de alumno Hillel; acceso libre de visitantes sin confirmar. Christmas Term 2026 empieza 17 de septiembre; Christmas / Easter hasta 10 semanas, Summer hasta 8. Hasta 16 niños, trabajo en parejas, equipo proporcionado. Cursos menores exactos, idioma y calendario 2027 desconocidos. Fechas y precios de edición pasada no trasladados a 2027; sesión nueva y disponibilidad desconocidas.
+Fuente: https://www.hallsoflearning.com/product-page/hol-robotics-club-at-hillel
+Se ha comprobado: 2026-11-05
+
+### L512 · Halls of Learning · AI Skills
+
+lugar: Jamaica · Kingston · 4B Hopefield Avenue
+Fecha: No se ha fijado el período/plan de trabajo
+Edad: 12–15
+Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte.
+Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte.
+Formato: individual
+Idioma: Idioma de clases EN / ES / RU sin confirmar expresamente. Web inglesa / bilingüe no considerada prueba del idioma de enseñanza o evaluación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Archivo USD 300 regular / USD 250 sale; confirmar unidad de paquete elegido y tarifa nueva.
+Acceso: Confirmar admisión extranjera individual, curso real, nivel tras tres años de competiciones, idioma del grupo, plazas y factura final. Sin solicitudes, consentimientos, mensajes ni pagos.
+Limitaciones: Redes neuronales, machine learning, Scratch / Python y portfolio GitHub; requiere portátil propio. Archivo 6–24 de julio 2026, días laborables 09–12 o 14–17, Out of Stock. Grupo siguiente sin anunciar; ambos niños aún menores. Fechas y precios de edición pasada no trasladados a 2027; sesión nueva y disponibilidad desconocidas.
+Fuente: https://www.hallsoflearning.com/product-page/ai-skills
+Se ha comprobado: 2026-11-05
+
+### L513 · Halls of Learning · Robotics Engineering Mastery
+
+lugar: Jamaica · Kingston
+Fecha: No se ha fijado el período/plan de trabajo
+edad: 10–13
+Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte.
+Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte.
+Formato: individual
+Idioma: Idioma de clases EN / ES / RU sin confirmar expresamente. Web inglesa / bilingüe no considerada prueba del idioma de enseñanza o evaluación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Apply USD 0 es solo solicitud. Año USD 2500 en pago único; planes 3 × 958.33, 6 × 500, 9 × 347.22 tienen totales distintos y no equivalen a precio USD 0. Confirmar inclusión del viaje y año nuevo de contrato.
+Acceso: Confirmar admisión extranjera individual, curso real, nivel tras tres años de competiciones, idioma del grupo, plazas y factura final. Sin solicitudes, consentimientos, mensajes ni pagos.
+Limitaciones: Programa anual selectivo 10–13 años, tres clases semanales Mon / Wed / Sat 16–18. Página Apply indica inicio 21 de octubre, Join 7 de septiembre; año no explícito, sin asignar fechas a 2026 o 2027. Viaje a Boston y visitas universitarias son plan del operador, no acceso o premio acreditado. Matvey solo al cumplir realmente 10 y superar selección; Oscar aún menor. Fechas y precios de edición pasada no trasladados a 2027; sesión nueva y disponibilidad desconocidas.
+Fuente: https://www.hallsoflearning.com/product-page/apply-to-robotics-engineering-mastery-rem
+Se ha comprobado: 2026-11-05
+
+### L514 · BETA Camp · Engineering
+
+lugar: Bahamas · The Bahamas
+Fecha: No se ha fijado el período/plan de trabajo
+edad: 11–16 Y cursos 7–12 completados
+Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte.
+Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte.
+Formato: individual
+Idioma: Idioma de clases EN / ES / RU sin confirmar expresamente. Web inglesa / bilingüe no considerada prueba del idioma de enseñanza o evaluación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Tarifa nueva, plazas y factura completa sin establecer; precio desconocido no equivale a cero.
+Acceso: Confirmar admisión extranjera individual, curso real, nivel tras tres años de competiciones, idioma del grupo, plazas y factura final. Sin solicitudes, consentimientos, mensajes ni pagos.
+Limitaciones: Programa semanal de ingeniería con ingenieros profesionales: software / data science, electrical, biomedical, aerospace y otras áreas. Organizador exige a la vez 11–16 años y cursos 7–12 completados; una condición no elimina otra. Dirigido a jóvenes Bahamians; admisión internacional individual y fechas nuevas sin confirmar. Ambos niños aún menores. Fechas y precios de edición pasada no trasladados a 2027; sesión nueva y disponibilidad desconocidas.
+Fuente: https://wearebeta.co/
+Se ha comprobado: 2026-11-05
+
+### L515 · BYSN / BIOSI · Geospatial STEM Camp
+
+lugar: Bahamas · The Bahamas
+Fecha: No se ha fijado el período/plan de trabajo
+edad: edad exacta sin publicar
+Matvey: Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago.
+Oscar: Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago.
+Formato: individual
+Idioma: Idioma de clases EN / ES / RU sin confirmar expresamente. Web inglesa / bilingüe no considerada prueba del idioma de enseñanza o evaluación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Tarifa nueva, plazas y factura completa sin establecer; precio desconocido no equivale a cero.
+Acceso: Confirmar admisión extranjera individual, curso real, nivel tras tres años de competiciones, idioma del grupo, plazas y factura final. Sin solicitudes, consentimientos, mensajes ni pagos.
+Limitaciones: Campamento STEM de campo de una semana: topografía, mapas digitales, posicionamiento satelital, drones y laboratorios outdoor. Página marcada Summer Camp 2026, pero faltan días exactos, edad mínima, precio, idioma y admisión extranjera. Es programa geoespacial, no intensivo robótico acreditado. Fechas y precios de edición pasada no trasladados a 2027; sesión nueva y disponibilidad desconocidas.
+Fuente: https://biosiglobal.com/summer-camp
+Se ha comprobado: 2026-11-05
+
+### L516 · Bahamas Youth Division · General Summer Camps
+
+lugar: Bahamas · The Bahamas · venues TBD
+Fecha: No se ha fijado el período/plan de trabajo
+edad: escolares 5–14
+Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte.
+Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte.
+Formato: individual
+Idioma: Idioma de clases EN / ES / RU sin confirmar expresamente. Web inglesa / bilingüe no considerada prueba del idioma de enseñanza o evaluación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Organizador describe Summer Camps gratuitos; no acredita plaza turística gratuita, viaje, alojamiento o comidas.
+Acceso: Confirmar admisión extranjera individual, curso real, nivel tras tres años de competiciones, idioma del grupo, plazas y factura final. Sin solicitudes, consentimientos, mensajes ni pagos.
+Limitaciones: Campamentos públicos diurnos generales: creatividad, confianza, liderazgo y trabajo en equipo. Organizador anuncia participación gratuita para escolares 5–14, pero fechas / sedes nuevas y admisión familiar extranjera sin establecer. No es empleo de verano 15–17 ni robotics camp acreditado. Fechas y precios de edición pasada no trasladados a 2027; sesión nueva y disponibilidad desconocidas.
+Fuente: https://mygateway.gov.bs/mysc/
+Se ha comprobado: 2026-11-05
+
+### L517 · WRO Puerto Rico · official practice workshop · 2026-11-07
+
+lugar: Puerto Rico · Techno Inventors · Puerto Rico
+Fecha: 2026-11-07 — 2026-11-07
+edad: participantes locales registrados · edad por anunciar
+Matway: Condicional
+Óscar: Condicional
+Formato: individual_or_team
+Idioma: Idioma de clases EN / ES / RU sin confirmar expresamente. Web inglesa / bilingüe no considerada prueba del idioma de enseñanza o evaluación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Tarifa de etapa elegida e invoice final sin establecer; desconocido no equivale a cero.
+Acceso: Confirmar admisión extranjera individual, curso real, nivel tras tres años de competiciones, idioma del grupo, plazas y factura final. Sin solicitudes, consentimientos, mensajes ni pagos.
+Limitaciones: Calendario local indica 13:00; 21 de noviembre es última práctica oficial 2026. Duración, inscripción libre de visitante y precio sin publicar. Estas clases no son torneo con medallas.
+Fuente: https://wro.pr/
+Se ha comprobado: 2026-11-05
+
+### L518 · WRO Puerto Rico · official practice workshop · 2026-11-21
+
+lugar: Puerto Rico · Techno Inventors · Puerto Rico
+Fecha: 2026-11-21 — 2026-11-21
+edad: participantes locales registrados · edad por anunciar
+Matway: Condicional
+Óscar: Condicional
+Formato: individual_or_team
+Idioma: Idioma de clases EN / ES / RU sin confirmar expresamente. Web inglesa / bilingüe no considerada prueba del idioma de enseñanza o evaluación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Tarifa de etapa elegida e invoice final sin establecer; desconocido no equivale a cero.
+Acceso: Confirmar admisión extranjera individual, curso real, nivel tras tres años de competiciones, idioma del grupo, plazas y factura final. Sin solicitudes, consentimientos, mensajes ni pagos.
+Limitaciones: Calendario local indica 13:00; 21 de noviembre es última práctica oficial 2026. Duración, inscripción libre de visitante y precio sin publicar. Estas clases no son torneo con medallas.
+Fuente: https://wro.pr/
 Se ha comprobado: 2026-11-05
 
 ### ~#C037 · WAICY 2026 · AI Showcase · Proyecto de solución del problema real

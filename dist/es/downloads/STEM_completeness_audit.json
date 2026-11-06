@@ -16,14 +16,14 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 5479,
-    "competition_cards": 1761,
-    "event_cards": 244,
-    "camp_cards": 3474,
-    "league_profiles": 181,
-    "major_exhibition_cards": 158,
+    "cards": 5505,
+    "competition_cards": 1769,
+    "event_cards": 245,
+    "camp_cards": 3491,
+    "league_profiles": 185,
+    "major_exhibition_cards": 159,
     "vex_cards": 518,
-    "countries_with_records": 115,
+    "countries_with_records": 119,
     "fully_audited_countries": 0
   },
   "continents": [
@@ -34,12 +34,12 @@
         "América Central",
         "Caribe"
       ],
-      "total": 1613,
-      "countries_with_records": 15,
-      "competitions": 605,
-      "events": 58,
-      "major_exhibitions": 19,
-      "camps": 950,
+      "total": 1639,
+      "countries_with_records": 19,
+      "competitions": 613,
+      "events": 59,
+      "major_exhibitions": 20,
+      "camps": 967,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
     },
@@ -229,11 +229,16 @@
         "C1753",
         "C1754",
         "C1755",
-        "C1756"
+        "C1756",
+        "C1763",
+        "C1764",
+        "C1765",
+        "C1766",
+        "C1767"
       ],
-      "cards": 110,
-      "future_dated": 3,
-      "linked_card_count": 110,
+      "cards": 115,
+      "future_dated": 5,
+      "linked_card_count": 115,
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://wro-association.org/competition/categories/",
       "new": false
@@ -525,11 +530,12 @@
         "C1741",
         "C1742",
         "C1743",
-        "C1744"
+        "C1744",
+        "C1769"
       ],
-      "cards": 283,
+      "cards": 284,
       "future_dated": 185,
-      "linked_card_count": 283,
+      "linked_card_count": 284,
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://www.firstinspires.org/programs/fll/",
       "new": false
@@ -4466,6 +4472,66 @@
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://robot.meb.gov.tr/",
       "new": false
+    },
+    {
+      "id": "wro-caribbean-local",
+      "name": "WRO · Puerto Rico / Jamaica / USVI",
+      "group": "regional",
+      "event_ids": [
+        "C1763",
+        "C1764",
+        "C1765",
+        "C1766",
+        "C1767"
+      ],
+      "cards": 5,
+      "future_dated": 2,
+      "linked_card_count": 5,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://wro.pr/",
+      "new": false
+    },
+    {
+      "id": "beta-bahamas-hack",
+      "name": "BETA Hack · Bahamas",
+      "group": "regional",
+      "event_ids": [
+        "C1768"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "linked_card_count": 1,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://wearebeta.co/beta-hack/",
+      "new": false
+    },
+    {
+      "id": "fll-belize-local",
+      "name": "FIRST LEGO League · Belize",
+      "group": "regional",
+      "event_ids": [
+        "C1769"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "linked_card_count": 1,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://www.bhsbes.edu.bz/robotics",
+      "new": false
+    },
+    {
+      "id": "oecs-robotics-local",
+      "name": "OECS Super Regional Robotics",
+      "group": "regional",
+      "event_ids": [
+        "C1770"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "linked_card_count": 1,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://www.steamtournament.com/public-registration?tournament=126b27b2-cf70-443b-b54e-1233b10aaa9d",
+      "new": false
     }
   ],
   "exhibition_inventory": [
@@ -6205,6 +6271,17 @@
       "end": "",
       "visitor_policy": "family",
       "source": "https://teknofest.org/tr/kurumsal/sss/",
+      "new": false
+    },
+    {
+      "id": "E245",
+      "name": "WRO International Final · EdTech & Robotics Expo 2026",
+      "country": "Puerto Rico",
+      "region": "Caribe",
+      "start": "2026-12-08",
+      "end": "2026-12-10",
+      "visitor_policy": "family",
+      "source": "https://wro2026.org/",
       "new": false
     }
   ],
@@ -8317,20 +8394,20 @@
       }
     ],
     "counts": {
-      "records": 3474,
-      "holiday": 3323,
+      "records": 3491,
+      "holiday": 3325,
       "regular": 108,
       "self_paced_materials": 2,
       "boarding": 964,
-      "en_es_instruction": 1032,
+      "en_es_instruction": 1035,
       "en_es_support": 11,
-      "family_instruction": 1032,
+      "family_instruction": 1035,
       "family_support": 11,
       "ru_instruction": 3,
       "language_lessons": 378,
       "camp_life_language": 225,
       "language_unclassified": 119,
-      "countries": 72
+      "countries": 75
     },
     "validation": {
       "version": 51,
