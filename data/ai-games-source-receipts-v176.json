@@ -1,0 +1,572 @@
+{
+  "version": 176,
+  "checked": "2026-11-06",
+  "request_count": 56,
+  "hash_verified": 56,
+  "requests": [
+    {
+      "key": "waicy-current",
+      "url": "https://www.waicy.org/waicy-2026/",
+      "final_url": "https://www.waicy.org/waicy-2026/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 110099,
+      "sha256": "91de130cd6fc8740fda90f1aa64fdb26a6572e2d796cd865bf33c0e2d5e59d56",
+      "file": "waicy-current.html"
+    },
+    {
+      "key": "codeavour",
+      "url": "https://codeavour.org/",
+      "final_url": "https://codeavour.org/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 324832,
+      "sha256": "1b453c4cfe30eca675c508d8979f91fabd2143293f2ff5865a09a30e3a840ec3",
+      "file": "codeavour.html"
+    },
+    {
+      "key": "coolest-help",
+      "url": "https://online.coolestprojects.org/help",
+      "final_url": "https://online.coolestprojects.org/help",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 23356,
+      "sha256": "9df8a08486792a7d2c86b4d252ba0a2600889c9b44a49b781f7cb57424635d6e",
+      "file": "coolest-help.html"
+    },
+    {
+      "key": "ikcc-main",
+      "url": "https://www.ikcc.info/",
+      "final_url": "https://www.ikcc.info/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 276667,
+      "sha256": "9471a21c89cc47c8590d09e2e6f91bfcf64d3d703305b08716647e2a84cb35ed",
+      "file": "ikcc-main.html"
+    },
+    {
+      "key": "ikcc-rules",
+      "url": "https://www.ikcc.info/en/rules-pag3",
+      "final_url": "https://www.ikcc.info/en/rules-pag3",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 700811,
+      "sha256": "7418988ea60142d01709df6cd185f90f4b401e95dd805c43f588dd4b0374e592",
+      "file": "ikcc-rules.html"
+    },
+    {
+      "key": "yai-main",
+      "url": "https://yai.sg/",
+      "final_url": "https://yai.sg/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 539549,
+      "sha256": "c6fbb6c316c25ffad7aaa9df1b12685e1c2f0b5303b388f4123b926fcee133ed",
+      "file": "yai-main.html"
+    },
+    {
+      "key": "yai-organizer",
+      "url": "https://ycess.com/events/yai-singapore-season-26-27/",
+      "final_url": "https://ycess.com/events/yai-singapore-season-26-27/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 49013,
+      "sha256": "1c70900f15656c5375a44c56eca6361f1457823be2803a483073e221c71849a0",
+      "file": "yai-organizer.html"
+    },
+    {
+      "key": "wikko-ai",
+      "url": "https://www.wikkotech.com/airace/",
+      "final_url": "https://www.wikkotech.com/airace/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1262,
+      "sha256": "810f99c4c69501157f60a978f19a0e5bf408801f3d014015c8bc7f0426300ea6",
+      "file": "wikko-ai.html"
+    },
+    {
+      "key": "brainiacs-ai",
+      "url": "https://www.brainiacsolympiad.com/en/olympiads/artificial-intelligence",
+      "final_url": "https://www.brainiacsolympiad.com/en/olympiads/artificial-intelligence",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 409030,
+      "sha256": "a994635afa87810c26364eff814c1ec4bcabeeb8878347ea7851126d643cc927",
+      "file": "brainiacs-ai.html"
+    },
+    {
+      "key": "dvla-main",
+      "url": "https://stem.dvla.gov.uk/dvla-code-challenge/",
+      "final_url": "https://stem.dvla.gov.uk/dvla-code-challenge/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 207365,
+      "sha256": "83dd497a119bc3f73a60f287b92c4e1b6a7de804daa47e26050162c1aaee11b2",
+      "file": "dvla-main.html"
+    },
+    {
+      "key": "whro-main",
+      "url": "https://education.whro.org/great-computer-challenge",
+      "final_url": "https://education.whro.org/great-computer-challenge",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 96847,
+      "sha256": "ee383ab7e9ab0a3cfcc5becae940efab4a2fd271d10269698180c1e23aa27e87",
+      "file": "whro-main.html"
+    },
+    {
+      "key": "moonhack",
+      "url": "https://moonhack.com/",
+      "final_url": "https://moonhack.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 50852,
+      "sha256": "c7e7bc558e6385266762ed2993d4e2c0b0ea52a4655c2ac4bd5532d3aad8e0c1",
+      "file": "moonhack.html"
+    },
+    {
+      "key": "codequest",
+      "url": "https://juniorcoderz.com/competition/",
+      "final_url": "https://juniorcoderz.com/competition/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 229509,
+      "sha256": "30e362016893bdb25c45ed2e8642bb9cab016a6cd592b291aab6feea88365c51",
+      "file": "codequest.html"
+    },
+    {
+      "key": "codefest-games",
+      "url": "https://www.codefest.sg/competitions-game-makers",
+      "final_url": "https://www.codefest.sg/competitions-game-makers",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 21342,
+      "sha256": "053ad2bce6d6599033afb21cb54aa8e173ce4b7821134af12212eadf62e5ad99",
+      "file": "codefest-games.html"
+    },
+    {
+      "key": "uae-innovaite",
+      "url": "https://www.uae-innovaite.com/",
+      "final_url": "https://www.uae-innovaite.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 21947,
+      "sha256": "61f8510822633e00adc7a7fc11c484fd0a88ecac5fbcf4cce70f4a3381a20898",
+      "file": "uae-innovaite.html"
+    },
+    {
+      "key": "games-challenge",
+      "url": "https://learn.gamesforchange.org/student-challenge",
+      "final_url": "https://learn.gamesforchange.org/student-challenge",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 89506,
+      "sha256": "eb76ebbc7e4de5a4de6eb84b625cb2c6a1e874589df7ddb8e65fc99c3625b352",
+      "file": "games-challenge.html"
+    },
+    {
+      "key": "astro-zero",
+      "url": "https://astro-pi.org/mission-zero/",
+      "final_url": "https://astro-pi.org/mission-zero/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 33723,
+      "sha256": "bd62ae3b66ae393a49bd91f4f2cd2b96fb71591ff50edcaa79491a36390224ee",
+      "file": "astro-zero.html"
+    },
+    {
+      "key": "astro-space",
+      "url": "https://astro-pi.org/mission-space-lab/",
+      "final_url": "https://astro-pi.org/mission-space-lab/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 32684,
+      "sha256": "0e3e98df573c10930de085ca2f15c50bac5fc9c408324068c162831b9090ed58",
+      "file": "astro-space.html"
+    },
+    {
+      "key": "moonhack-projects",
+      "url": "https://moonhack.com/projects/",
+      "final_url": "https://moonhack.com/projects/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 43539,
+      "sha256": "e7516162ccafcdb00bb501365a2ac0f8984485296ad967e8ff22e83bf6f6f69e",
+      "file": "moonhack-projects.html"
+    },
+    {
+      "key": "moonhack-terms",
+      "url": "https://moonhack.com/termsandconditions/",
+      "final_url": "https://moonhack.com/termsandconditions/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 42705,
+      "sha256": "d2ca083b69c7cb9daf9a82786d5327382c13768cb027dec2f0341ec59ffef57e",
+      "file": "moonhack-terms.html"
+    },
+    {
+      "key": "yai-rules",
+      "url": "https://yai.sg/rules/",
+      "final_url": "https://yai.sg/rules/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 77501,
+      "sha256": "5d296448d5e66aca8dee804449f220d0edcb8515017a900009aa258fabdaca2d",
+      "file": "yai-rules.html"
+    },
+    {
+      "key": "yai-faq",
+      "url": "https://yai.sg/faq/",
+      "final_url": "https://yai.sg/faq/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 228200,
+      "sha256": "f303bbfb399c2b2c858e9c4b84f468e06b958c2c55b2ad1036e0f18b84e614a3",
+      "file": "yai-faq.html"
+    },
+    {
+      "key": "yai-parents",
+      "url": "https://yai.sg/parents/",
+      "final_url": "https://yai.sg/parents/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 116297,
+      "sha256": "00d19a4b6d7f871e92162b7cb381fb27f404a0c80624aa33766a43b0d0d93956",
+      "file": "yai-parents.html"
+    },
+    {
+      "key": "yai-weekend",
+      "url": "https://yai.sg/demo-weekend/",
+      "final_url": "https://yai.sg/demo-weekend/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 62870,
+      "sha256": "30fed6f29c65827b0022c1ce1a99db9ceeb48d92ac1b89e61eba1c84df6cc1d9",
+      "file": "yai-weekend.html"
+    },
+    {
+      "key": "yai-terms",
+      "url": "https://yai.sg/legal/terms/",
+      "final_url": "https://yai.sg/legal/terms/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 58650,
+      "sha256": "e3fb36c14152904fd077c3094c53e00db59deead75bdd1f688621434ba2f14c7",
+      "file": "yai-terms.html"
+    },
+    {
+      "key": "wikko-client-js",
+      "url": "https://www.wikkotech.com/airace/assets/index-CUQ1kZsh.js",
+      "final_url": "https://www.wikkotech.com/airace/assets/index-CUQ1kZsh.js",
+      "status": 200,
+      "mime": "application/javascript",
+      "bytes": 1136483,
+      "sha256": "57cad58dae498314804c9afc73a8065831d28ef18f1616212f161b63c84a5ba0",
+      "file": "wikko-client-js.js"
+    },
+    {
+      "key": "codefest-faq",
+      "url": "https://www.codefest.sg/faq.php",
+      "final_url": "https://www.codefest.sg/faq",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 29890,
+      "sha256": "550fdc4dfd5b6e4ca49dee9c87f549aadf91fc9bbf91b4be95de441995a0e267",
+      "file": "codefest-faq.html"
+    },
+    {
+      "key": "codefest-pricing",
+      "url": "https://www.codefest.sg/pricing.php",
+      "final_url": "https://www.codefest.sg/pricing",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 12381,
+      "sha256": "2b3a536c3ea11b4f7773a7a31ac7116e6847d769b7f5141e74470dbd20140f4c",
+      "file": "codefest-pricing.html"
+    },
+    {
+      "key": "codefest-awards",
+      "url": "https://www.codefest.sg/awards.php",
+      "final_url": "https://www.codefest.sg/awards",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 15246,
+      "sha256": "7993d0e0fde4e04280182034109a884ac8113275be416f0d4e15dfa1d826eaf3",
+      "file": "codefest-awards.html"
+    },
+    {
+      "key": "whro-faq",
+      "url": "https://education.whro.org/faqs",
+      "final_url": "https://education.whro.org/faqs",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 101687,
+      "sha256": "d7b71629b875ef49f564a601d5e901b1c8ab13045026e409a2d24a087063758f",
+      "file": "whro-faq.html"
+    },
+    {
+      "key": "whro-categories",
+      "url": "https://education.whro.org/categories",
+      "final_url": "https://education.whro.org/categories",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 112250,
+      "sha256": "64fa67bcd85a68c63dfc07391062f8bdabfeb8a7fea52373eef83a0f2eb142e1",
+      "file": "whro-categories.html"
+    },
+    {
+      "key": "whro-junior-old",
+      "url": "https://education.whro.org/junior-2026-informaion",
+      "final_url": "https://education.whro.org/junior-2026-informaion",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 90746,
+      "sha256": "33a4f88b7eda54d75f8826e2510cb7b894c8ec0a3fd91bd2bb34209a614fde18",
+      "file": "whro-junior-old.html"
+    },
+    {
+      "key": "dvla-terms-docx",
+      "url": "https://stem.dvla.gov.uk/wp-content/uploads/2026/09/DVLA-Code-Challenge-Terms-and-Conditions-2027-V1.docx",
+      "final_url": "https://stem.dvla.gov.uk/wp-content/uploads/2026/09/DVLA-Code-Challenge-Terms-and-Conditions-2027-V1.docx",
+      "status": 200,
+      "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "bytes": 255734,
+      "sha256": "d7e5a3aafa91bea043d83819cb477127b4e500403edbec6971dd6d2bf67f28ee",
+      "file": "dvla-terms-docx.html"
+    },
+    {
+      "key": "games-competition",
+      "url": "https://learn.gamesforchange.org/student-challenge/competition",
+      "final_url": "https://learn.gamesforchange.org/student-challenge/competition",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 76425,
+      "sha256": "d6573b135dd9bbcf801d01f07e04c8e6a09016256f56103d25773e29d2d04ca2",
+      "file": "games-competition.html"
+    },
+    {
+      "key": "games-primary-pdf",
+      "url": "https://www.gamesforchange.org/wp-content/uploads/2026/10/Intro-to-Game-Design-3-6.pdf",
+      "final_url": "https://www.gamesforchange.org/wp-content/uploads/2026/10/Intro-to-Game-Design-3-6.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 19729842,
+      "sha256": "881351fc00054196513c026c3af953ea32a64c137bc1453f20b31092a06bbdaf",
+      "file": "games-primary-pdf.pdf"
+    },
+    {
+      "key": "ikcc-theme",
+      "url": "https://www.ikcc.info/competition-requirements-pag23",
+      "final_url": "https://www.ikcc.info/competition-requirements-pag23",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 174082,
+      "sha256": "0ab3b3412193c1556a3127091bb3a618e484c3f8cc75e9f3442a5e9b811cd5b0",
+      "file": "ikcc-theme.html"
+    },
+    {
+      "key": "ikcc-scoring",
+      "url": "https://www.ikcc.info/en/scoring-rules-pag11",
+      "final_url": "https://www.ikcc.info/en/scoring-rules-pag11",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 700635,
+      "sha256": "26df4d692c8146c263e6ecced06236ff4a3659e0ee644e4216048f4f97728810",
+      "file": "ikcc-scoring.html"
+    },
+    {
+      "key": "codeavour-terms",
+      "url": "https://codeavour.org/terms-and-conditions/",
+      "final_url": "https://codeavour.org/terms-and-conditions/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 126799,
+      "sha256": "8a5310d5138d56938697add05f391c1d2f1f744c9ee32ad55659895a84b22ec4",
+      "file": "codeavour-terms.html"
+    },
+    {
+      "key": "codeavour-events",
+      "url": "https://codeavour.org/codeavour-robotics-coding-competition-events/",
+      "final_url": "https://codeavour.org/codeavour-robotics-coding-competition-events/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 193707,
+      "sha256": "c8e5c37a1ff6fd3391dc048ae3cf276545803a7a044dff98f700a08340e4b7c7",
+      "file": "codeavour-events.html"
+    },
+    {
+      "key": "codeavour-hub",
+      "url": "https://codeavour.org/codeavour-8-international-workshop-sessions/",
+      "final_url": "https://codeavour.org/codeavour-8-international-workshop-sessions/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 166971,
+      "sha256": "f52a6a516bce30442c35313df641d599df447a2332c7e349a63a8cfa13628748",
+      "file": "codeavour-hub.html"
+    },
+    {
+      "key": "waicy-guide-pdf",
+      "url": "https://waicy-cdn.wholeren.cn/wp-content/uploads/2026/10/WAICY-2026-Guidebook-2.pdf",
+      "final_url": "https://waicy-cdn.wholeren.cn/wp-content/uploads/2026/10/WAICY-2026-Guidebook-2.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 2354289,
+      "sha256": "b5ff8d681e8dac2a993543a871513e954cbaf524f93f319f9dc70c3a2ee1317b",
+      "file": "waicy-guide-pdf.pdf"
+    },
+    {
+      "key": "uae-faq",
+      "url": "https://www.uae-innovaite.com/faq",
+      "final_url": "https://www.uae-innovaite.com/faq",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 6948,
+      "sha256": "f9c4668b3b2569fb81eba0fb6e1c7b273bb0abf45081e1b6590172082c10ad3b",
+      "file": "uae-faq.html"
+    },
+    {
+      "key": "brainiacs-faq",
+      "url": "https://www.brainiacsolympiad.com/en/faq",
+      "final_url": "https://www.brainiacsolympiad.com/en/faq",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 428716,
+      "sha256": "1b499702172428ac83998833e849bfe882846ddfa0ad8fd9d2c09202d3fd0986",
+      "file": "brainiacs-faq.html"
+    },
+    {
+      "key": "moonhack-criteria-pdf",
+      "url": "https://moonhack.com/wp-content/uploads/2026/07/Criteria-sheet-for-judging.pdf",
+      "final_url": "https://moonhack.com/wp-content/uploads/2026/07/Criteria-sheet-for-judging.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 274613,
+      "sha256": "0232d428237d33fa9397d3d2537e70e02711bccb7bcc132cd85afbeed608af55",
+      "file": "moonhack-criteria-pdf.pdf"
+    },
+    {
+      "key": "moonhack-ai-project",
+      "url": "https://www.codeclubau.org/projects/profile-protector",
+      "final_url": "https://www.codeclubau.org/projects/profile-protector/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 152162,
+      "sha256": "2099502301bf11a55874411f8e3cb88acf39165bf588bc1ef1b7611eef29acd9",
+      "file": "moonhack-ai-project.html"
+    },
+    {
+      "key": "moonhack-game-project",
+      "url": "https://www.codeclubau.org/projects/safe-sprite-sprint",
+      "final_url": "https://www.codeclubau.org/projects/safe-sprite-sprint/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 152497,
+      "sha256": "6fa5c33acd48621ba6883301da14207a4a20b1fa9524a5c2899295fcbfcbf419",
+      "file": "moonhack-game-project.html"
+    },
+    {
+      "key": "whro-rules-pdf",
+      "url": "https://npr.brightspotcdn.com/cd/9e/cbb57d0e47a2a2b43e78775c8865/gcc-jr-contest-rules.pdf",
+      "final_url": "https://npr.brightspotcdn.com/cd/9e/cbb57d0e47a2a2b43e78775c8865/gcc-jr-contest-rules.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 109178,
+      "sha256": "5a5e363730782448010822c41948e257262efde143ef15a80329fa32a605d1f4",
+      "file": "whro-rules-pdf.pdf"
+    },
+    {
+      "key": "codeavour-innovation",
+      "url": "https://codeavour.org/track-1-innovation-entrepreneurship/",
+      "final_url": "https://codeavour.org/track-1-innovation-entrepreneurship/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 226019,
+      "sha256": "75c4f09e96a08dd0da0c84d2d92ed0c3b7b43c8fc540ac3c698c4a03bc5140f8",
+      "file": "codeavour-innovation.html"
+    },
+    {
+      "key": "codeavour-clean-energy",
+      "url": "https://codeavour.org/track-2-clean-energy-ai-robo-challenge/",
+      "final_url": "https://codeavour.org/track-2-clean-energy-ai-robo-challenge/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 239055,
+      "sha256": "589094566c4458a41b03a85c48c8bf6fed6cc6654995166d3c2c8807b0fe4576",
+      "file": "codeavour-clean-energy.html"
+    },
+    {
+      "key": "codeavour-soccer",
+      "url": "https://codeavour.org/track-3-robo-soccer-league/",
+      "final_url": "https://codeavour.org/track-3-robo-soccer-league/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 206398,
+      "sha256": "00e66f7ee496354c2d403c050da462f180b6de739186378e3c59ba227f06dced",
+      "file": "codeavour-soccer.html"
+    },
+    {
+      "key": "codeavour-lilchamps",
+      "url": "https://codeavour.org/lil-champs-robotics-challenge-kids/",
+      "final_url": "https://codeavour.org/lil-champs-robotics-challenge-kids/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 172303,
+      "sha256": "106009201b6d1ca94a07f0e837e8979b339d3a5de16727d28169633c9d55e545",
+      "file": "codeavour-lilchamps.html"
+    },
+    {
+      "key": "brainiacs-coding",
+      "url": "https://www.brainiacsolympiad.com/en/olympiads/coding",
+      "final_url": "https://www.brainiacsolympiad.com/en/olympiads/coding",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 549696,
+      "sha256": "544e4d2ed31004aa5ca00c79297b401e1824e6d889e7b7aae68247d8d4f8c1f0",
+      "file": "brainiacs-coding.html"
+    },
+    {
+      "key": "brainiacs-downloads",
+      "url": "https://www.brainiacsolympiad.com/en/downloads",
+      "final_url": "https://www.brainiacsolympiad.com/en/downloads",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 431815,
+      "sha256": "b683f385f89345c4e6c629308a4827969119fa8f47a8eeaa1e40f0373f5a267b",
+      "file": "brainiacs-downloads.html"
+    },
+    {
+      "key": "codefest-resources",
+      "url": "https://www.codefest.sg/resources.php",
+      "final_url": "https://www.codefest.sg/resources",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 40605,
+      "sha256": "56c2c7349c31e18913770500b216f56eb553da0db06e14091c5179c5f8038835",
+      "file": "codefest-resources.html"
+    },
+    {
+      "key": "codefest-about",
+      "url": "https://www.codefest.sg/about.php",
+      "final_url": "https://www.codefest.sg/about",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 19999,
+      "sha256": "1cf77593a03a7aaf94d3fa89991e55c990819e191a41efc525ccc215e5f1454d",
+      "file": "codefest-about.html"
+    },
+    {
+      "key": "codequest-fee-form",
+      "url": "https://juniorcoderz.com/competition/register/",
+      "final_url": "https://juniorcoderz.com/competition/register/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 89087,
+      "sha256": "cac0c9b7d839f5dcdf8989b092491b12a37ad2c593cfb29b346985f6a6ae9154",
+      "file": "codequest-fee-form.html"
+    }
+  ],
+  "failures": [],
+  "raw_source_bodies_private": true,
+  "all_requests_get_only": true,
+  "no_forms_submitted": true
+}

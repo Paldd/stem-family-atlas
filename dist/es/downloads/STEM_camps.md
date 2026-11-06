@@ -55990,6 +55990,54 @@ Limitaciones: Calendario local indica 13:00; 21 de noviembre es última práctic
 Fuente: https://wro.pr/
 Se ha comprobado: 2026-11-05
 
+### L519 · Codeavour Lil’ Champs · younger STEM programme
+
+lugar: en línea / en todo el mundo · Centro local · confirmar dirección
+Fecha: No se ha fijado el período/plan de trabajo
+edad: 5–7 encabezado / 5–8 texto
+Matvey: No por rangos publicados 5–7 / 5–8: Matvey tiene 9.
+Oscar: Candidato por edad 6; centro, idioma y convocatoria nueva desconocidos.
+Formato: individual
+Idioma: Idioma web no acredita idioma de defensa / enseñanza; confirmar EN / ES / RU para grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Tarifa exacta y factura final sin publicar / confirmar; desconocido no equivale a cero.
+Acceso: Ser candidato por edad no significa solicitud aceptada. Confirmar curso real, edad al corte, admisión extranjera, equipo, idioma operativo, plazas y factura completa. Sin cuentas creadas, consentimientos, solicitudes, mensajes ni pagos.
+Limitaciones: Programa menor hands-on / screen-free: encabezado 5–7, texto inferior 5–8. Oscar con 6 encaja en intersección, Matvey con 9 fuera. Día, centro local, equipo, precio, idioma y estado competitivo sin anunciar. No prueba admisión de seis años a tracks principales 8.0 ni medalla internacional.
+Fuente: https://codeavour.org/lil-champs-robotics-challenge-kids/
+Se ha comprobado: 2026-11-06
+
+### L520 · Games for Change · Intro to Game Design · Grades 3–6
+
+lugar: en línea / en todo el mundo · Online · proyecto lectivo doméstico / escolar
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Cursos 3–6 · currículo dirigido por docente
+Matway: Condicional
+Óscar: Condicional
+Formato: individual
+Idioma: Idioma web no acredita idioma de defensa / enseñanza; confirmar EN / ES / RU para grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Tarifa exacta y factura final sin publicar / confirmar; desconocido no equivale a cero.
+Acceso: Ser candidato por edad no significa solicitud aceptada. Confirmar curso real, edad al corte, admisión extranjera, equipo, idioma operativo, plazas y factura completa. Sin cuentas creadas, consentimientos, solicitudes, mensajes ni pagos.
+Limitaciones: Teacher guide abierto de diseño de juegos para Grades 3–6: sistemas, reglas, prototipos, pruebas y feedback. Material lectivo inglés, no campamento organizado anglófono. Determinar curso real y facilitador; handbook no acredita admisión a nueva categoría competitiva C848, deadline / prizes aún sin publicar.
+Fuente: https://www.gamesforchange.org/wp-content/uploads/2026/10/Intro-to-Game-Design-3-6.pdf
+Se ha comprobado: 2026-11-06
+
+### L521 · CodeFest 2026 · optional preparation workshop
+
+Lugar: Singapur Singapore · confirmar formato y sede workshop
+Fecha: 2026-12-14 国 2026-12-16
+edad: categoría CodeFest elegida · confirmar grupo workshop
+Matvey: Candidato por edad Game Makers; confirmar formato workshop y admisión.
+Oscar: No para CodeFest menor, mínimo 7 en diciembre 2026.
+Formato: individual
+Idioma: Idioma web no acredita idioma de defensa / enseñanza; confirmar EN / ES / RU para grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Entrada pública SGD 115 por niño; existing student SGD 95 no aplicado automáticamente a familia. Optional prep 14–16 de diciembre: SGD 465 public / 425 existing, tres clases de tres horas. Escenario público con preparación elegida: 115 + 465 = SGD 580, viaje / alojamiento / herramientas aparte. GCP lesson option 0 es preparación dentro de clases regulares ya pagadas, no campamento gratuito para cualquiera.
+Acceso: Ser candidato por edad no significa solicitud aceptada. Confirmar curso real, edad al corte, admisión extranjera, equipo, idioma operativo, plazas y factura completa. Sin cuentas creadas, consentimientos, solicitudes, mensajes ni pagos.
+Limitaciones: Preparación adicional 14–16 de diciembre 2026: tres clases de tres horas. Formato, sede exacta, horas diarias e idioma aún sin establecer; SMU acreditado para concurso principal 19 de diciembre, no automáticamente workshop. Public SGD 465 añadido a entrada SGD 115, paquete elegido SGD 580. No es residencia ni formación obligatoria de cada participante.
+Fuente: https://www.codefest.sg/pricing.php
+Se ha comprobado: 2026-11-06
+
 ### ~#C037 · WAICY 2026 · AI Showcase · Proyecto de solución del problema real
 
 Lugar: En línea/paz
@@ -56002,9 +56050,9 @@ Idioma: EN
 Marca de idioma: no clasificada; soporte: no declarada
 Costo: No publicado / Comprobar la edición actual
 Entrada: La página de WAICY 2026 permite expresamente a los participantes de 6x18 del mundo, individualmente o por equipo, incluida la participación a distancia. Verificar el formato y el reglamento de la pista de AI seleccionada; no se han fijado fechas finales contradictorias.
-Limitaciones: La guía de octubre corrige Showcase: plazo29.11.2026 17:00 ET. Web, portada, calendario y sección detallada Showcase indican4–6 de diciembre; el párrafo introductorio PDF aún dice5–7. El horario individual depende de la selección; enviar no confirma invitación a la final.
+Limitaciones: La guía de octubre corrige Showcase: plazo29.11.2026 17:00 ET. Web, portada, calendario y sección detallada Showcase indican4–6 de diciembre; el párrafo introductorio PDF aún dice5–7. El horario individual depende de la selección; enviar no confirma invitación a la final. Guidebook-2 releído conserva discrepancia 4–6 / 5–7 de diciembre, sin asignar slot final general. Deadline 29 de noviembre 17:00 ET; idioma English y subtítulos English admitidos. Paquete exacto de archivos según track; certificado por envío a tiempo no significa selección ni medalla competitiva.
 Fuente: https://www.waicy.org/waicy-2026/
-Se ha comprobado: 2026-11-04
+Se ha comprobado: 2026-11-06
 
 ### C038 · Codeavour 8.0 — AI & Robotics 2026–27
 
@@ -56018,14 +56066,14 @@ Idioma: EN / Apoyo nacional
 Marca de idioma: no clasificada; soporte: no declarada
 Precio: en la página $45 por regionals / nationals y $100 por International Showdown después de la calificación. moneda del símbolo $ y la unidad de tarifa en la página no está claramente definida; el valor local de la empresa.
 Entrada: 8.0 está abierto desde el 14 de julio de 2026, pero aún no se ha anunciado un plazo fijo de cierre. Seleccione un socio regional/nacional; la ruta de International Showdown se obtiene mediante un resultado nacional. La ruta a distancia y la solicitud regional extranjera de la familia de confirmar.
-Limitaciones: Elementary 7–10 / Junior 11–14 / Senior 15–18, 1–3 y mentor. Oscar tiene que cumplir. 7. Hay tres pistas.: Innovation / Entrepreneurship, Wellness Wave AI-Robo, Robo-Soccer; Las condiciones de la pista se verifican por separado. El certificado de curso no sustituye al resultado competitivo; El viejo final 7.0 Indonesia no se ha trasladado a 8.0.
+Limitaciones: Codeavour 8.0: web general anuncia registro, páginas de tracks aún dicen opening soon. Botón no prueba plaza / vía extranjera vigente. Etapa regional / nacional precede International Showdown; días nuevos exactos y socio local de familia desconocidos. Track 2 actual se llama Clean Energy, no Wellness Wave. Track 1 admite software sin hardware, Tracks 2 / 3 tienen equipo propio y requisitos físicos. Lil’ Champs 5–7 / 5–8 es programa menor separado, no elimina mínimo 7 de tracks principales. Terms públicos contienen condición de cesión de derechos sobre contenido creado a FSEF sin compensación / royalties y uso publicitario de nombre / materiales. Verificar edición aplicable y derechos del proyecto antes de enviar; contrato sin aceptar.
 Fuente: https://codeavour.org/
-Se ha comprobado: 2026-11-04
+Se ha comprobado: 2026-11-06
 
 ### C039 · Coolest Projects Online 2027
 
 Lugar: En línea/paz
-Fecha: Apertura de las solicitudes en enero de 2027; fecha exacta no publicada
+Fecha: Apertura de envíos en enero 2027; día exacto aún sin publicar.
 Edad: hasta los 18 años
 Matway: Sí, por edad
 Oscar: Sí por edad
@@ -56034,9 +56082,9 @@ Idioma: EN
 Marca de idioma: no clasificada; soporte: no declarada
 Costo: Comprobar 2027
 Entrada: Cargar el proyecto en línea; un adulto ayuda con el consentimiento y los datos
-Limitaciones: Proyección en línea de proyectos para creadores de menos de 18 años de diferentes países. 2026 está cerrado, y en 2027 se anuncia una renovación sin fechas exactas. La participación/exposición del proyecto y el premio competitivo son diferentes.
+Limitaciones: FAQ ahora indica January 2027 para apertura. Sin fecha exacta de cierre. Admite proyectos digitales ya creados o nuevos, no solo iniciados durante ventana. Moderation, feedback personal, certificate y VIP favourites; es showcase, no ranking obligatorio de campeones. Sin proyectos comerciales / captación de dinero y datos. No trasladar aquí regla IKCC que prohíbe código antiguo.
 Fuente: https://online.coolestprojects.org/help
-Comprobado: 2026-10-01
+Se ha comprobado: 2026-11-06
 
 ### C840 · iCode Math Hackathon · Penang2026 Blockly Junior Final
 
@@ -56094,13 +56142,13 @@ Edad: Categorías generales 7–8 / 9–10 / 11–12 / 13–14; cuadro de catego
 Matwey: Condicionalmente ○ la edad total es de 9 a 10; la categoría 2027 debe anunciarse
 Oscar: Condicional — debe cumplirse la edad 7 el primer día de la inscripción y abrir la categoría 7–8
 Formato: individual
-Idioma: Reglas English; especificar el idioma del proyecto y verificar la autoría del concurso.
-Marca de idioma: unconfirmed; apoyo: no declarado
+Idioma: IKCC international: proyectos solo English; NKCC es programa nacional Romania separado.
+Marca de idioma: primary; soporte: no declarado
 Costo: Gratuidad de Rules; creación de cuentas y registro en el concurso ○ actos individuales
 Entrada: Niños independientes y coding clubs. Se exige un documento de la escuela con nombre, escuela/ciudad/país, clase y DOB, así como una guía adulta/consentimiento de los padres. Las restricciones actuales de algunos países se refieren a Bangladesh, Cambodia, India e Indonesia; la lista puede cambiar.
-Limitaciones: Se ha mostrado el comienzo, no la ventana de presentación completa. Se desconoce el final exacto del concurso 2027. Generic January 1 se aparta de la noticia específica de enero 3, 2027; se ha utilizado una notificación específica. El organizador exige un documento escolar y el consentimiento de un adulto, la publicación de información/proyecto y puede verificar la autoría de Zoom. El sitio web de la familia no crea cuentas ni solicitudes.
+Limitaciones: IKCC Rules actualizadas: proyectos internacionales solo en inglés. AI prohibido para idea, historia, código, personajes, fondos, imágenes, sonidos y cualquier parte. Niño crea proyecto por sí mismo solo durante ventana del concurso; sin código antiguo, remix ni tutorial rehecho. Requiere Scratch SHARE-link público, no archivo sb3. No trasladar aquí proyecto AI de CodeFest / WAICY. Requiere documento escolar oficial con datos del niño y guide adulto / consentimiento. Organizador prevé publicar nombre / apellido, edad, colegio, ciudad / país y proyecto; foto opcional. Sin documentos enviados. Confirmar categorías del concurso concreto 2027. Ventana 3–31 de enero 2027; resultados 15 de febrero. Homepage ya muestra Galactic Police!, pero al lado dice tema announced January 3 y soon: no adivinar tarea final ni empezar proyecto antes.
 Fuente: https://www.ikcc.info/en/rules-pag3
-Comprobado: 2026-10-01
+Se ha comprobado: 2026-11-06
 
 ### ~#C844 · IKCC · World Scratch Coding 2027 · Inicio
 
@@ -56110,13 +56158,13 @@ Edad: Categorías generales 7–8 / 9–10 / 11–12 / 13–14; cuadro de catego
 Matwey: Condicionalmente ○ la edad total es de 9 a 10; la categoría 2027 debe anunciarse
 Oscar: Condicional — debe cumplirse la edad 7 el primer día de la inscripción y abrir la categoría 7–8
 Formato: individual
-Idioma: Reglas English; especificar el idioma del proyecto y verificar la autoría del concurso.
-Marca de idioma: unconfirmed; apoyo: no declarado
+Idioma: IKCC international: proyectos solo English; NKCC es programa nacional Romania separado.
+Marca de idioma: primary; soporte: no declarado
 Costo: Gratuidad de Rules; creación de cuentas y registro en el concurso ○ actos individuales
 Entrada: Niños independientes y coding clubs. Se exige un documento de la escuela con nombre, escuela/ciudad/país, clase y DOB, así como una guía adulta/consentimiento de los padres. Las restricciones actuales de algunos países se refieren a Bangladesh, Cambodia, India e Indonesia; la lista puede cambiar.
-Limitaciones: Se ha mostrado el comienzo, no la ventana de presentación completa. Se desconoce el final exacto del concurso 2027. Generic January 1 se aparta de la noticia específica de enero 3, 2027; se ha utilizado una notificación específica. El organizador exige un documento escolar y el consentimiento de un adulto, la publicación de información/proyecto y puede verificar la autoría de Zoom. El sitio web de la familia no crea cuentas ni solicitudes.
+Limitaciones: IKCC Rules actualizadas: proyectos internacionales solo en inglés. AI prohibido para idea, historia, código, personajes, fondos, imágenes, sonidos y cualquier parte. Niño crea proyecto por sí mismo solo durante ventana del concurso; sin código antiguo, remix ni tutorial rehecho. Requiere Scratch SHARE-link público, no archivo sb3. No trasladar aquí proyecto AI de CodeFest / WAICY. Requiere documento escolar oficial con datos del niño y guide adulto / consentimiento. Organizador prevé publicar nombre / apellido, edad, colegio, ciudad / país y proyecto; foto opcional. Sin documentos enviados. Confirmar categorías del concurso concreto 2027.
 Fuente: https://www.ikcc.info/en/rules-pag3
-Comprobado: 2026-10-01
+Se ha comprobado: 2026-11-06
 
 ### # C845 · CódigoYetu · National Young Innovators Hackathon · temporada siguiente
 

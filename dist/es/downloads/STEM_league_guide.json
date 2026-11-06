@@ -3266,29 +3266,52 @@
           "10-12",
           "teen"
         ],
-        "summary": "AI & Robotics y protección de proyectos en categorías por edad.",
+        "summary": "Codeavour 8.0: web general anuncia registro, páginas de tracks aún dicen opening soon. Botón no prueba plaza / vía extranjera vigente. Etapa regional / nacional precede International Showdown; días nuevos exactos y socio local de familia desconocidos.",
         "categories": [
           {
-            "name": "Codeavour 8.0 — AI & Robotics 2026–27",
-            "age": "Elementary 7–10; Junior 11–14; El mayor 15–18",
-            "team": "1–3 de la participación + mentor",
-            "hardware": "PictoBlox, computadora / compatible con Android, Internet",
-            "age_rule": "la fecha de corte / clase se ajuste al reglamento local vigente.",
-            "event_id": "C038",
-            "entry": "registro de la temporada 8.0 → proyecto / camino regional → final internacional",
-            "language": "EN / apoyo nacional",
-            "note": "no retrasar el final de la 7.0 Indonesia 2026 para la temporada actual.",
-            "source": "https://codeavour.org/",
-            "checked": "2026-09-29"
+            "name": "Codeavour 8.0 · Innovation & Entrepreneurship",
+            "age": "7–10 / 11–14 / 15–18 · corte local por anunciar",
+            "team": "1–3 + mentor; solo posible.",
+            "hardware": "Codeavour 8.0: web general anuncia registro, páginas de tracks aún dicen opening soon. Botón no prueba plaza / vía extranjera vigente. Etapa regional / nacional precede International Showdown; días nuevos exactos y socio local de familia desconocidos. PictoBlox obligatorio; software puro sin comprar robot permitido y puede ganar. Proyecto individual o equipo 2–3 + mentor, seis domains temáticos. Business PPT / vídeo y web del proyecto para International Showdown. No trasladar Quarky obligatorio de Track 2. Terms públicos contienen condición de cesión de derechos sobre contenido creado a FSEF sin compensación / royalties y uso publicitario de nombre / materiales. Verificar edición aplicable y derechos del proyecto antes de enviar; contrato sin aceptar.",
+            "age_rule": "Candidato Elementary; selección local y corte de edad aparte. / Tracks principales mínimo 7; Lil’ Champs 5–7 / 5–8 descrito aparte como programa menor.",
+            "entry": "Ser candidato por edad no significa solicitud aceptada. Confirmar curso real, edad al corte, admisión extranjera, equipo, idioma operativo, plazas y factura completa. Sin cuentas creadas, consentimientos, solicitudes, mensajes ni pagos.",
+            "event_id": "C1782",
+            "source": "https://codeavour.org/track-1-innovation-entrepreneurship/",
+            "checked": "2026-11-06"
+          },
+          {
+            "name": "Codeavour 8.0 · Clean Energy AI-Robo Challenge",
+            "age": "7–10 / 11–14 / 15–18 · corte local por anunciar",
+            "team": "2–3 + mentor; solo no previsto.",
+            "hardware": "Codeavour 8.0: web general anuncia registro, páginas de tracks aún dicen opening soon. Botón no prueba plaza / vía extranjera vigente. Etapa regional / nacional precede International Showdown; días nuevos exactos y socio local de familia desconocidos. Robot físico autónomo, Quarky Series / Intellio como controller principal, PictoBlox y seis misiones clean energy. Equipo 2–3 + mentor; robot montado / verificado antes. Tema actual nuevo, wording antiguo Wellness no considerado tarea 8.0. Terms públicos contienen condición de cesión de derechos sobre contenido creado a FSEF sin compensación / royalties y uso publicitario de nombre / materiales. Verificar edición aplicable y derechos del proyecto antes de enviar; contrato sin aceptar.",
+            "age_rule": "Candidato Elementary; selección local y corte de edad aparte. / Tracks principales mínimo 7; Lil’ Champs 5–7 / 5–8 descrito aparte como programa menor.",
+            "entry": "Ser candidato por edad no significa solicitud aceptada. Confirmar curso real, edad al corte, admisión extranjera, equipo, idioma operativo, plazas y factura completa. Sin cuentas creadas, consentimientos, solicitudes, mensajes ni pagos.",
+            "event_id": "C1783",
+            "source": "https://codeavour.org/track-2-clean-energy-ai-robo-challenge/",
+            "checked": "2026-11-06"
+          },
+          {
+            "name": "Codeavour 8.0 · Robo-Soccer League",
+            "age": "7–10 / 11–14 / 15–18 · corte local por anunciar",
+            "team": "2–3 + mentor; solo no previsto.",
+            "hardware": "Codeavour 8.0: web general anuncia registro, páginas de tracks aún dicen opening soon. Botón no prueba plaza / vía extranjera vigente. Etapa regional / nacional precede International Showdown; días nuevos exactos y socio local de familia desconocidos. Equipo 2–3 + mentor; mínimo dos robots y tercero de reserva. Límite 20 × 20 × 15 cm en máxima extensión y 800 g; dos tiempos de 2 minutos con pausa 1. Control manual o autonomous según página; no declarado concurso sin equipo físico. Terms públicos contienen condición de cesión de derechos sobre contenido creado a FSEF sin compensación / royalties y uso publicitario de nombre / materiales. Verificar edición aplicable y derechos del proyecto antes de enviar; contrato sin aceptar.",
+            "age_rule": "Candidato Elementary; selección local y corte de edad aparte. / Tracks principales mínimo 7; Lil’ Champs 5–7 / 5–8 descrito aparte como programa menor.",
+            "entry": "Ser candidato por edad no significa solicitud aceptada. Confirmar curso real, edad al corte, admisión extranjera, equipo, idioma operativo, plazas y factura completa. Sin cuentas creadas, consentimientos, solicitudes, mensajes ni pagos.",
+            "event_id": "C1784",
+            "source": "https://codeavour.org/track-3-robo-soccer-league/",
+            "checked": "2026-11-06"
           }
         ],
         "event_ids": [
-          "C038"
+          "C038",
+          "C1782",
+          "C1783",
+          "C1784"
         ],
         "legacy_ids": [
           "C038"
         ],
-        "route": "registro de la temporada 8.0 → proyecto / camino regional → final internacional",
+        "route": "Codeavour 8.0: web general anuncia registro, páginas de tracks aún dicen opening soon. Botón no prueba plaza / vía extranjera vigente. Etapa regional / nacional precede International Showdown; días nuevos exactos y socio local de familia desconocidos.",
         "hardware": "PictoBlox, computadora / compatible con Android, Internet",
         "language": "EN / apoyo nacional",
         "importance": "El grupo de redacción por tipo de ruta, no el ranking oficial de todas las ligas.",
@@ -3299,9 +3322,10 @@
           "Mantener el resultado oficial: el nombre del paso, la categoría, el lugar / award, la composición del equipo y la referencia al protocolo."
         ],
         "nuances": [
-          "no retrasar el final de la 7.0 Indonesia 2026 para la temporada actual."
+          "no retrasar el final de la 7.0 Indonesia 2026 para la temporada actual.",
+          "Terms públicos contienen condición de cesión de derechos sobre contenido creado a FSEF sin compensación / royalties y uso publicitario de nombre / materiales. Verificar edición aplicable y derechos del proyecto antes de enviar; contrato sin aceptar."
         ],
-        "cost": "presupuesto: kit / computadora, campo y detalles de temporada, registro, preparación, viaje y residencia. suma exacta  en la tarjeta de la etapa; no calculado para toda la liga.",
+        "cost": "Muestra $45 por regionals / nationals y $100 por International Showdown tras clasificación. Moneda del símbolo $ y unidad team / participant ambiguas; no es precio completo de robot, formación y viaje.",
         "award": "Puesto o premio según los resultados oficiales",
         "sources": [
           {
@@ -9996,7 +10020,7 @@
             "checked": "2026-10-01"
           },
           {
-            "title": "registro",
+            "title": "Registro",
             "url": "https://www.festivalnacionalrobotica.pt/2027/inscricoes",
             "checked": "2026-10-01"
           },
@@ -10959,7 +10983,7 @@
         "award": "el premio de una etapa concreta por el protocolo; la selección mundial y el certificado de aprendizaje por separado.",
         "sources": [
           {
-            "title": "registro",
+            "title": "Registro",
             "url": "https://wrokenya.stemimpactcenterkenya.org/register",
             "checked": "2026-10-02"
           },
@@ -16601,11 +16625,665 @@
           }
         ],
         "evidence": "Leídas páginas primarias locales; página dinámica OECS marcada aparte como captura del índice."
+      },
+      {
+        "id": "moonhack",
+        "name": "Moonhack · Code Club Australia",
+        "group": "games",
+        "age_summary": "Edad / curso real según categoría.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Code Club Australia / Telstra Foundation: envíos hasta 14 de noviembre, resultados 20 de noviembre 2026. Familia puede organizar Moonhackathon en casa. Siete proyectos: juegos Scratch, AI Profile Protector, Python quiz, micro:bit; permite desarrollar ejemplo, criterios valoran extensión propia de idea y código. 7–15 descrito como suitable, no prohibición absoluta leída para menores: Matvey candidato, admisión competitiva de Oscar con 6 y condiciones de premios por confirmar. Sin fechas 2027.",
+        "categories": [
+          {
+            "name": "Moonhack 2026 · global coding & AI challenge",
+            "age": "7–15 recomendado; admisión competitiva exacta por anunciar",
+            "team": "Equipo; composición exacta según reglamento de categoría.",
+            "hardware": "Computador, software y herramientas AI permitidas según disciplina elegida. Robot físico solo donde se indica expresamente.",
+            "age_rule": "Candidato por recomendación 7–15; formato de envío aparte. / 6 años por debajo de recomendación 7–15; confirmar derecho a resultado competitivo, recurso lectivo aparte.",
+            "entry": "Code Club Australia / Telstra Foundation: envíos hasta 14 de noviembre, resultados 20 de noviembre 2026. Familia puede organizar Moonhackathon en casa. Siete proyectos: juegos Scratch, AI Profile Protector, Python quiz, micro:bit; permite desarrollar ejemplo, criterios valoran extensión propia de idea y código. 7–15 descrito como suitable, no prohibición absoluta leída para menores: Matvey candidato, admisión competitiva de Oscar con 6 y condiciones de premios por confirmar. Sin fechas 2027."
+          }
+        ],
+        "event_ids": [
+          "C1771"
+        ],
+        "legacy_ids": [],
+        "route": "Ser candidato por edad no significa solicitud aceptada. Confirmar curso real, edad al corte, admisión extranjera, equipo, idioma operativo, plazas y factura completa. Sin cuentas creadas, consentimientos, solicitudes, mensajes ni pagos.",
+        "hardware": "Equipo y AI permitido según track; ver ficha concreta. Comprar robot no es obligatorio para todos.",
+        "language": "Idioma web no acredita idioma de defensa / enseñanza; confirmar EN / ES / RU para grupo elegido.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Ser candidato por edad no significa solicitud aceptada. Confirmar curso real, edad al corte, admisión extranjera, equipo, idioma operativo, plazas y factura completa. Sin cuentas creadas, consentimientos, solicitudes, mensajes ni pagos."
+        ],
+        "nuances": [
+          "Certificado de envío / participación, pase a final y victoria competitiva son estados distintos. Autodescripción del organizador no acredita posición en ranking mundial.",
+          "Edad del concurso no autoriza cuenta personal en cualquier servicio AI. Acordar acceso adulto permitido, condiciones de herramientas elegidas y declaración de ayuda antes de preparar."
+        ],
+        "cost": "Tarifa exacta y factura final sin publicar / confirmar; desconocido no equivale a cero.",
+        "award": "Certificado de envío / participación, pase a final y victoria competitiva son estados distintos. Autodescripción del organizador no acredita posición en ranking mundial.",
+        "sources": [
+          {
+            "title": "Moonhack · Code Club Australia",
+            "url": "https://moonhack.com/",
+            "checked": "2026-11-06"
+          }
+        ],
+        "evidence": "Verificadas páginas / reglas primarias. Programa local nuevo no declarado líder mundial sin retrospectiva de resultados."
+      },
+      {
+        "id": "yai-singapore",
+        "name": "YAI Singapore · Youth AI Hackathon",
+        "group": "ai",
+        "age_summary": "Edad / curso real según categoría.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Reglas y formal agreement admiten full-time students de cualquier país, pero página YCESS aún dice studying in Singapore: discrepancia conservada. Finalistas sin defensa presencial el 16 de enero pueden mostrar proyecto online, pero sin ranking para premios. Revisarán celebración el 4 de diciembre; sede aún TBD. Sin confirmación del operador no considerar viaje listo. Proyecto hasta 9 de enero 23:59 SGT, selección 10–12, aviso 13, RSVP hasta 14. Primary: mínimo tres entradas process log, 5 minutos de defensa + 3 Q&A. Adulto desde 21 dirige equipo; progenitor confirma cada menor de 21. Optional Reach Bonus hasta 5 puntos de selección depende de social reach y no pasa a final. Certificado por valid submission no equivale a victoria. Reglas y formal agreement admiten full-time students de cualquier país, pero página YCESS aún dice studying in Singapore: discrepancia conservada. Finalistas sin defensa presencial el 16 de enero pueden mostrar proyecto online, pero sin ranking para premios. Revisarán celebración el 4 de diciembre; sede aún TBD. Sin confirmación del operador no considerar viaje listo. 9 de enero 23:59 SGT, es decir 09:59 en Costa Rica del mismo día. Tras deadline no cambiar proyecto sin arreglo aprobado; slides / ensayo aparte. Primary mínimo tres entradas log; escritos EN.",
+        "categories": [
+          {
+            "name": "YAI Singapore 2026/27 · Explorer Primary · AI hackathon",
+            "age": "7–12 al 2027-01-16 · nacimiento 2014-01-17–2020-01-16",
+            "team": "1–4 participantes; requisitos del adulto aparte.",
+            "hardware": "Computador, software y herramientas AI permitidas según disciplina elegida. Robot físico solo donde se indica expresamente.",
+            "age_rule": "Candidato en Primary; confirmar full-time school y admisión extranjera. / Solo si ya tiene 7 el 16 de enero 2027: nacido en 2020 no después del 16 de enero. De lo contrario fuera de Primary.",
+            "entry": "Reglas y formal agreement admiten full-time students de cualquier país, pero página YCESS aún dice studying in Singapore: discrepancia conservada. Finalistas sin defensa presencial el 16 de enero pueden mostrar proyecto online, pero sin ranking para premios. Revisarán celebración el 4 de diciembre; sede aún TBD. Sin confirmación del operador no considerar viaje listo. Proyecto hasta 9 de enero 23:59 SGT, selección 10–12, aviso 13, RSVP hasta 14. Primary: mínimo tres entradas process log, 5 minutos de defensa + 3 Q&A. Adulto desde 21 dirige equipo; progenitor confirma cada menor de 21. Optional Reach Bonus hasta 5 puntos de selección depende de social reach y no pasa a final. Certificado por valid submission no equivale a victoria."
+          },
+          {
+            "name": "YAI Singapore 2026/27 · project submission milestone",
+            "age": "equipo YAI elegible registrado",
+            "team": "Equipo; composición exacta según reglamento de categoría.",
+            "hardware": "Computador, software y herramientas AI permitidas según disciplina elegida. Robot físico solo donde se indica expresamente.",
+            "age_rule": "Condicional / Condicional",
+            "entry": "Reglas y formal agreement admiten full-time students de cualquier país, pero página YCESS aún dice studying in Singapore: discrepancia conservada. Finalistas sin defensa presencial el 16 de enero pueden mostrar proyecto online, pero sin ranking para premios. Revisarán celebración el 4 de diciembre; sede aún TBD. Sin confirmación del operador no considerar viaje listo. 9 de enero 23:59 SGT, es decir 09:59 en Costa Rica del mismo día. Tras deadline no cambiar proyecto sin arreglo aprobado; slides / ensayo aparte. Primary mínimo tres entradas log; escritos EN."
+          }
+        ],
+        "event_ids": [
+          "C1772",
+          "C1776"
+        ],
+        "legacy_ids": [],
+        "route": "Ser candidato por edad no significa solicitud aceptada. Confirmar curso real, edad al corte, admisión extranjera, equipo, idioma operativo, plazas y factura completa. Sin cuentas creadas, consentimientos, solicitudes, mensajes ni pagos.",
+        "hardware": "Equipo y AI permitido según track; ver ficha concreta. Comprar robot no es obligatorio para todos.",
+        "language": "Idioma web no acredita idioma de defensa / enseñanza; confirmar EN / ES / RU para grupo elegido.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Ser candidato por edad no significa solicitud aceptada. Confirmar curso real, edad al corte, admisión extranjera, equipo, idioma operativo, plazas y factura completa. Sin cuentas creadas, consentimientos, solicitudes, mensajes ni pagos."
+        ],
+        "nuances": [
+          "Certificado de envío / participación, pase a final y victoria competitiva son estados distintos. Autodescripción del organizador no acredita posición en ranking mundial.",
+          "Edad del concurso no autoriza cuenta personal en cualquier servicio AI. Acordar acceso adulto permitido, condiciones de herramientas elegidas y declaración de ayuda antes de preparar."
+        ],
+        "cost": "Tarifa exacta y factura final sin publicar / confirmar; desconocido no equivale a cero.",
+        "award": "Certificado de envío / participación, pase a final y victoria competitiva son estados distintos. Autodescripción del organizador no acredita posición en ranking mundial.",
+        "sources": [
+          {
+            "title": "YAI Singapore · Youth AI Hackathon",
+            "url": "https://yai.sg/",
+            "checked": "2026-11-06"
+          }
+        ],
+        "evidence": "Verificadas páginas / reglas primarias. Programa local nuevo no declarado líder mundial sin retrospectiva de resultados."
+      },
+      {
+        "id": "wikko-ai-coding",
+        "name": "Youth AI Coding · English / Chinese groups",
+        "group": "ai",
+        "age_summary": "Edad / curso real según categoría.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Wikkotech / SAEC Youth AI Coding: grupo inglés, primary–high school, individual o equipo hasta 3, independiente o colegio, gratis. Confirmar curso real y consentimientos adultos; no inferir edad mínima de primary. Cliente oficial contiene schedules EN / ZH separados: final inglesa 4 de julio, china 2 de julio; grupos distintos, no error de fechas. Deadlines ingleses 23:59 GMT, chinos Beijing time. Web pública carga aplicación; hechos extraídos del diccionario cliente oficial sin registro. Primer envío abierto; etapas posteriores solo tras selección. Idea → vídeo hasta 3 minutos → prototype operativo → defensa online internacional → mejora → Shanghai. Muestra WAIC 2027 aún TBC y no declarada derecho de cada participante. Wikkotech / SAEC Youth AI Coding: grupo inglés, primary–high school, individual o equipo hasta 3, independiente o colegio, gratis. Confirmar curso real y consentimientos adultos; no inferir edad mínima de primary. Cliente oficial contiene schedules EN / ZH separados: final inglesa 4 de julio, china 2 de julio; grupos distintos, no error de fechas. Deadlines ingleses 23:59 GMT, chinos Beijing time. Web pública carga aplicación; hechos extraídos del diccionario cliente oficial sin registro. Etapa exige superar selección previa. Idea → vídeo hasta 3 minutos → prototype operativo → defensa online internacional → mejora → Shanghai. Muestra WAIC 2027 aún TBC y no declarada derecho de cada participante.",
+        "categories": [
+          {
+            "name": "Youth AI Coding 2027 · English · entry and idea deadline",
+            "age": "primary–high school · requisito de curso real",
+            "team": "1–3 participantes; requisitos del adulto aparte.",
+            "hardware": "Computador, software y herramientas AI permitidas según disciplina elegida. Robot físico solo donde se indica expresamente.",
+            "age_rule": "Condicional / Condicional",
+            "entry": "Wikkotech / SAEC Youth AI Coding: grupo inglés, primary–high school, individual o equipo hasta 3, independiente o colegio, gratis. Confirmar curso real y consentimientos adultos; no inferir edad mínima de primary. Cliente oficial contiene schedules EN / ZH separados: final inglesa 4 de julio, china 2 de julio; grupos distintos, no error de fechas. Deadlines ingleses 23:59 GMT, chinos Beijing time. Web pública carga aplicación; hechos extraídos del diccionario cliente oficial sin registro. Primer envío abierto; etapas posteriores solo tras selección. Idea → vídeo hasta 3 minutos → prototype operativo → defensa online internacional → mejora → Shanghai. Muestra WAIC 2027 aún TBC y no declarada derecho de cada participante."
+          },
+          {
+            "name": "Youth AI Coding 2027 · English · video submission",
+            "age": "primary–high school · requisito de curso real",
+            "team": "1–3 participantes; requisitos del adulto aparte.",
+            "hardware": "Computador, software y herramientas AI permitidas según disciplina elegida. Robot físico solo donde se indica expresamente.",
+            "age_rule": "Condicional / Condicional",
+            "entry": "Wikkotech / SAEC Youth AI Coding: grupo inglés, primary–high school, individual o equipo hasta 3, independiente o colegio, gratis. Confirmar curso real y consentimientos adultos; no inferir edad mínima de primary. Cliente oficial contiene schedules EN / ZH separados: final inglesa 4 de julio, china 2 de julio; grupos distintos, no error de fechas. Deadlines ingleses 23:59 GMT, chinos Beijing time. Web pública carga aplicación; hechos extraídos del diccionario cliente oficial sin registro. Etapa exige superar selección previa. Idea → vídeo hasta 3 minutos → prototype operativo → defensa online internacional → mejora → Shanghai. Muestra WAIC 2027 aún TBC y no declarada derecho de cada participante."
+          },
+          {
+            "name": "Youth AI Coding 2027 · English · prototype submission",
+            "age": "primary–high school · requisito de curso real",
+            "team": "1–3 participantes; requisitos del adulto aparte.",
+            "hardware": "Computador, software y herramientas AI permitidas según disciplina elegida. Robot físico solo donde se indica expresamente.",
+            "age_rule": "Condicional / Condicional",
+            "entry": "Wikkotech / SAEC Youth AI Coding: grupo inglés, primary–high school, individual o equipo hasta 3, independiente o colegio, gratis. Confirmar curso real y consentimientos adultos; no inferir edad mínima de primary. Cliente oficial contiene schedules EN / ZH separados: final inglesa 4 de julio, china 2 de julio; grupos distintos, no error de fechas. Deadlines ingleses 23:59 GMT, chinos Beijing time. Web pública carga aplicación; hechos extraídos del diccionario cliente oficial sin registro. Etapa exige superar selección previa. Idea → vídeo hasta 3 minutos → prototype operativo → defensa online internacional → mejora → Shanghai. Muestra WAIC 2027 aún TBC y no declarada derecho de cada participante."
+          },
+          {
+            "name": "Youth AI Coding 2027 · English · online regional final",
+            "age": "primary–high school · requisito de curso real",
+            "team": "1–3 participantes; requisitos del adulto aparte.",
+            "hardware": "Computador, software y herramientas AI permitidas según disciplina elegida. Robot físico solo donde se indica expresamente.",
+            "age_rule": "Condicional / Condicional",
+            "entry": "Wikkotech / SAEC Youth AI Coding: grupo inglés, primary–high school, individual o equipo hasta 3, independiente o colegio, gratis. Confirmar curso real y consentimientos adultos; no inferir edad mínima de primary. Cliente oficial contiene schedules EN / ZH separados: final inglesa 4 de julio, china 2 de julio; grupos distintos, no error de fechas. Deadlines ingleses 23:59 GMT, chinos Beijing time. Web pública carga aplicación; hechos extraídos del diccionario cliente oficial sin registro. Etapa exige superar selección previa. Idea → vídeo hasta 3 minutos → prototype operativo → defensa online internacional → mejora → Shanghai. Muestra WAIC 2027 aún TBC y no declarada derecho de cada participante."
+          },
+          {
+            "name": "Youth AI Coding 2027 · English · final revision submission",
+            "age": "primary–high school · requisito de curso real",
+            "team": "1–3 participantes; requisitos del adulto aparte.",
+            "hardware": "Computador, software y herramientas AI permitidas según disciplina elegida. Robot físico solo donde se indica expresamente.",
+            "age_rule": "Condicional / Condicional",
+            "entry": "Wikkotech / SAEC Youth AI Coding: grupo inglés, primary–high school, individual o equipo hasta 3, independiente o colegio, gratis. Confirmar curso real y consentimientos adultos; no inferir edad mínima de primary. Cliente oficial contiene schedules EN / ZH separados: final inglesa 4 de julio, china 2 de julio; grupos distintos, no error de fechas. Deadlines ingleses 23:59 GMT, chinos Beijing time. Web pública carga aplicación; hechos extraídos del diccionario cliente oficial sin registro. Etapa exige superar selección previa. Idea → vídeo hasta 3 minutos → prototype operativo → defensa online internacional → mejora → Shanghai. Muestra WAIC 2027 aún TBC y no declarada derecho de cada participante."
+          },
+          {
+            "name": "Youth AI Coding 2027 · English · Shanghai Final",
+            "age": "primary–high school · requisito de curso real",
+            "team": "1–3 participantes; requisitos del adulto aparte.",
+            "hardware": "Computador, software y herramientas AI permitidas según disciplina elegida. Robot físico solo donde se indica expresamente.",
+            "age_rule": "Condicional / Condicional",
+            "entry": "Wikkotech / SAEC Youth AI Coding: grupo inglés, primary–high school, individual o equipo hasta 3, independiente o colegio, gratis. Confirmar curso real y consentimientos adultos; no inferir edad mínima de primary. Cliente oficial contiene schedules EN / ZH separados: final inglesa 4 de julio, china 2 de julio; grupos distintos, no error de fechas. Deadlines ingleses 23:59 GMT, chinos Beijing time. Web pública carga aplicación; hechos extraídos del diccionario cliente oficial sin registro. Etapa exige superar selección previa. Idea → vídeo hasta 3 minutos → prototype operativo → defensa online internacional → mejora → Shanghai. Muestra WAIC 2027 aún TBC y no declarada derecho de cada participante."
+          }
+        ],
+        "event_ids": [
+          "C1795",
+          "C1796",
+          "C1797",
+          "C1798",
+          "C1799",
+          "C1800"
+        ],
+        "legacy_ids": [],
+        "route": "Ser candidato por edad no significa solicitud aceptada. Confirmar curso real, edad al corte, admisión extranjera, equipo, idioma operativo, plazas y factura completa. Sin cuentas creadas, consentimientos, solicitudes, mensajes ni pagos.",
+        "hardware": "Equipo y AI permitido según track; ver ficha concreta. Comprar robot no es obligatorio para todos.",
+        "language": "Idioma web no acredita idioma de defensa / enseñanza; confirmar EN / ES / RU para grupo elegido.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Ser candidato por edad no significa solicitud aceptada. Confirmar curso real, edad al corte, admisión extranjera, equipo, idioma operativo, plazas y factura completa. Sin cuentas creadas, consentimientos, solicitudes, mensajes ni pagos."
+        ],
+        "nuances": [
+          "Certificado de envío / participación, pase a final y victoria competitiva son estados distintos. Autodescripción del organizador no acredita posición en ranking mundial.",
+          "Edad del concurso no autoriza cuenta personal en cualquier servicio AI. Acordar acceso adulto permitido, condiciones de herramientas elegidas y declaración de ayuda antes de preparar."
+        ],
+        "cost": "Tarifa exacta y factura final sin publicar / confirmar; desconocido no equivale a cero.",
+        "award": "Certificado de envío / participación, pase a final y victoria competitiva son estados distintos. Autodescripción del organizador no acredita posición en ranking mundial.",
+        "sources": [
+          {
+            "title": "Youth AI Coding · English / Chinese groups",
+            "url": "https://www.wikkotech.com/airace/",
+            "checked": "2026-11-06"
+          }
+        ],
+        "evidence": "Verificadas páginas / reglas primarias. Programa local nuevo no declarado líder mundial sin retrospectiva de resultados."
+      },
+      {
+        "id": "codefest-ai-games",
+        "name": "CodeFest · AI Games / Web",
+        "group": "games",
+        "age_summary": "Edad / curso real según categoría.",
+        "age_tags": [
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "CodeFest privado, evento principal en SMU; no prueba organización por la universidad. Página dice any student, About orientado a Singapore students: confirmar admisión extranjera e idioma de defensa. Portátil propio, proyecto previo, prompt journal y diapositivas PDF; AI obligatorio. Sin equipo, API keys ni créditos AI proporcionados. Un UN SDG. Enviar proyecto hasta 17 de diciembre 18:00 SGT; entrada y trabajo no significan victoria. Final online no prometida. Game Makers: browser game offline con index.html, entrada del jugador, objetivo, éxito / fallo y progression. ZIP, prompt journal PDF y diapositivas PDF. Pesos Technical execution / Aesthetics distintos en página de juego y FAQ; confirmar rubric vigente. Edad del concurso no autoriza cuenta personal en cualquier servicio AI. Acordar acceso adulto permitido, condiciones de herramientas elegidas y declaración de ayuda antes de preparar. CodeFest privado, evento principal en SMU; no prueba organización por la universidad. Página dice any student, About orientado a Singapore students: confirmar admisión extranjera e idioma de defensa. Portátil propio, proyecto previo, prompt journal y diapositivas PDF; AI obligatorio. Sin equipo, API keys ni créditos AI proporcionados. Un UN SDG. Enviar proyecto hasta 17 de diciembre 18:00 SGT; entrada y trabajo no significan victoria. Final online no prometida. Web Builders: HTML / CSS / JavaScript, función interactiva, GitHub Pages e index.html. Sin block-based / drag-and-drop builders. ZIP, enlace, AI journal y diapositivas PDF; no incluir API keys. Edad del concurso no autoriza cuenta personal en cualquier servicio AI. Acordar acceso adulto permitido, condiciones de herramientas elegidas y declaración de ayuda antes de preparar. CodeFest privado, evento principal en SMU; no prueba organización por la universidad. Página dice any student, About orientado a Singapore students: confirmar admisión extranjera e idioma de defensa. Portátil propio, proyecto previo, prompt journal y diapositivas PDF; AI obligatorio. Sin equipo, API keys ni créditos AI proporcionados. 17 de diciembre 18:00 SGT, es decir 04:00 del mismo día en Costa Rica. Plazo de archivos, no día de final presencial ni competición nueva.",
+        "categories": [
+          {
+            "name": "CodeFest 2026 · AI Game Makers",
+            "age": "7–10",
+            "team": "Proyecto individual y defensa presencial.",
+            "hardware": "Computador, software y herramientas AI permitidas según disciplina elegida. Robot físico solo donde se indica expresamente.",
+            "age_rule": "Candidato por edad 9; admisión extranjera aparte. / No: en diciembre 2026 edad 6, mínimo 7.",
+            "entry": "CodeFest privado, evento principal en SMU; no prueba organización por la universidad. Página dice any student, About orientado a Singapore students: confirmar admisión extranjera e idioma de defensa. Portátil propio, proyecto previo, prompt journal y diapositivas PDF; AI obligatorio. Sin equipo, API keys ni créditos AI proporcionados. Un UN SDG. Enviar proyecto hasta 17 de diciembre 18:00 SGT; entrada y trabajo no significan victoria. Final online no prometida. Game Makers: browser game offline con index.html, entrada del jugador, objetivo, éxito / fallo y progression. ZIP, prompt journal PDF y diapositivas PDF. Pesos Technical execution / Aesthetics distintos en página de juego y FAQ; confirmar rubric vigente. Edad del concurso no autoriza cuenta personal en cualquier servicio AI. Acordar acceso adulto permitido, condiciones de herramientas elegidas y declaración de ayuda antes de preparar."
+          },
+          {
+            "name": "CodeFest 2026 · AI Web Builders",
+            "age": "11+",
+            "team": "Proyecto individual y defensa presencial.",
+            "hardware": "Computador, software y herramientas AI permitidas según disciplina elegida. Robot físico solo donde se indica expresamente.",
+            "age_rule": "Más adelante: mínimo 11. / Más adelante: mínimo 11.",
+            "entry": "CodeFest privado, evento principal en SMU; no prueba organización por la universidad. Página dice any student, About orientado a Singapore students: confirmar admisión extranjera e idioma de defensa. Portátil propio, proyecto previo, prompt journal y diapositivas PDF; AI obligatorio. Sin equipo, API keys ni créditos AI proporcionados. Un UN SDG. Enviar proyecto hasta 17 de diciembre 18:00 SGT; entrada y trabajo no significan victoria. Final online no prometida. Web Builders: HTML / CSS / JavaScript, función interactiva, GitHub Pages e index.html. Sin block-based / drag-and-drop builders. ZIP, enlace, AI journal y diapositivas PDF; no incluir API keys. Edad del concurso no autoriza cuenta personal en cualquier servicio AI. Acordar acceso adulto permitido, condiciones de herramientas elegidas y declaración de ayuda antes de preparar."
+          },
+          {
+            "name": "CodeFest 2026 · project submission milestone",
+            "age": "participantes registrados 7–10 / 11+",
+            "team": "Trabajo individual; confirmar registro por adulto / colegio.",
+            "hardware": "Computador, software y herramientas AI permitidas según disciplina elegida. Robot físico solo donde se indica expresamente.",
+            "age_rule": "Condicional / Condicional",
+            "entry": "CodeFest privado, evento principal en SMU; no prueba organización por la universidad. Página dice any student, About orientado a Singapore students: confirmar admisión extranjera e idioma de defensa. Portátil propio, proyecto previo, prompt journal y diapositivas PDF; AI obligatorio. Sin equipo, API keys ni créditos AI proporcionados. 17 de diciembre 18:00 SGT, es decir 04:00 del mismo día en Costa Rica. Plazo de archivos, no día de final presencial ni competición nueva."
+          }
+        ],
+        "event_ids": [
+          "C1773",
+          "C1774",
+          "C1775"
+        ],
+        "legacy_ids": [],
+        "route": "Ser candidato por edad no significa solicitud aceptada. Confirmar curso real, edad al corte, admisión extranjera, equipo, idioma operativo, plazas y factura completa. Sin cuentas creadas, consentimientos, solicitudes, mensajes ni pagos.",
+        "hardware": "Equipo y AI permitido según track; ver ficha concreta. Comprar robot no es obligatorio para todos.",
+        "language": "Idioma web no acredita idioma de defensa / enseñanza; confirmar EN / ES / RU para grupo elegido.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Ser candidato por edad no significa solicitud aceptada. Confirmar curso real, edad al corte, admisión extranjera, equipo, idioma operativo, plazas y factura completa. Sin cuentas creadas, consentimientos, solicitudes, mensajes ni pagos."
+        ],
+        "nuances": [
+          "Certificado de envío / participación, pase a final y victoria competitiva son estados distintos. Autodescripción del organizador no acredita posición en ranking mundial.",
+          "Edad del concurso no autoriza cuenta personal en cualquier servicio AI. Acordar acceso adulto permitido, condiciones de herramientas elegidas y declaración de ayuda antes de preparar."
+        ],
+        "cost": "Tarifa exacta y factura final sin publicar / confirmar; desconocido no equivale a cero.",
+        "award": "Certificado de envío / participación, pase a final y victoria competitiva son estados distintos. Autodescripción del organizador no acredita posición en ranking mundial.",
+        "sources": [
+          {
+            "title": "CodeFest · AI Games / Web",
+            "url": "https://www.codefest.sg/",
+            "checked": "2026-11-06"
+          }
+        ],
+        "evidence": "Verificadas páginas / reglas primarias. Programa local nuevo no declarado líder mundial sin retrospectiva de resultados."
+      },
+      {
+        "id": "brainiacs-computing",
+        "name": "Brainiacs · Coding & AI",
+        "group": "ai",
+        "age_summary": "Edad / curso real según categoría.",
+        "age_tags": [
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Coding: categoría menor Grades 3–4, Scratch, problemas / juego en dos días de examen final; cursos reales de niños desconocidos. Párrafo introductorio dice erróneamente Physics, confirmar category pack exacto. Cuatro qualifying rounds alternativos, no cuatro exámenes obligatorios. Medallas preliminares: 50–74 bronze, 75–89 silver, 90–100 gold; 40–49 honorable mention. Son premios por umbral, no único campeón mundial. Confirmar coste, supervisión, zona / hora y registro extranjero. Coding: categoría menor Grades 3–4, Scratch, problemas / juego en dos días de examen final; cursos reales de niños desconocidos. Párrafo introductorio dice erróneamente Physics, confirmar category pack exacto. 25–31 de marzo es ventana Global Round, no siete exámenes diarios. Plazo normal 23 de enero, tardío 20 de febrero 2027; confirmar dos exam days reales y package. Gold top 10%, silver siguientes 20%, bronze siguientes 30%, honorable mention siguientes 15%: medalla no equivale a campeón absoluto. AI empieza en Grades 5–7, no edades 5–7. Final con AI literacy / prompting y proyecto AI práctico en dos días; no categoría menor para niño de seis. Cuatro qualifying rounds alternativos, no cuatro exámenes obligatorios. Medallas preliminares: 50–74 bronze, 75–89 silver, 90–100 gold; 40–49 honorable mention. Son premios por umbral, no único campeón mundial. Confirmar coste, supervisión, zona / hora y registro extranjero. AI empieza en Grades 5–7, no edades 5–7. Final con AI literacy / prompting y proyecto AI práctico en dos días; no categoría menor para niño de seis. 25–31 de marzo es ventana Global Round, no siete exámenes diarios. Plazo normal 23 de enero, tardío 20 de febrero 2027; confirmar dos exam days reales y package. Gold top 10%, silver siguientes 20%, bronze siguientes 30%, honorable mention siguientes 15%: medalla no equivale a campeón absoluto.",
+        "categories": [
+          {
+            "name": "Brainiacs Coding Olympiad · Online Round 1",
+            "age": "Cursos 3–4 / 5–7 / 8–9 / 10–12",
+            "team": "Trabajo individual; confirmar registro por adulto / colegio.",
+            "hardware": "Computador, software y herramientas AI permitidas según disciplina elegida. Robot físico solo donde se indica expresamente.",
+            "age_rule": "Candidato solo con Grade 3–4 real o superior; curso desconocido. / Exige Grade 3 real o superior; edad 6 no lo acredita.",
+            "entry": "Coding: categoría menor Grades 3–4, Scratch, problemas / juego en dos días de examen final; cursos reales de niños desconocidos. Párrafo introductorio dice erróneamente Physics, confirmar category pack exacto. Cuatro qualifying rounds alternativos, no cuatro exámenes obligatorios. Medallas preliminares: 50–74 bronze, 75–89 silver, 90–100 gold; 40–49 honorable mention. Son premios por umbral, no único campeón mundial. Confirmar coste, supervisión, zona / hora y registro extranjero."
+          },
+          {
+            "name": "Brainiacs Coding Olympiad · Online Round 2",
+            "age": "Cursos 3–4 / 5–7 / 8–9 / 10–12",
+            "team": "Trabajo individual; confirmar registro por adulto / colegio.",
+            "hardware": "Computador, software y herramientas AI permitidas según disciplina elegida. Robot físico solo donde se indica expresamente.",
+            "age_rule": "Candidato solo con Grade 3–4 real o superior; curso desconocido. / Exige Grade 3 real o superior; edad 6 no lo acredita.",
+            "entry": "Coding: categoría menor Grades 3–4, Scratch, problemas / juego en dos días de examen final; cursos reales de niños desconocidos. Párrafo introductorio dice erróneamente Physics, confirmar category pack exacto. Cuatro qualifying rounds alternativos, no cuatro exámenes obligatorios. Medallas preliminares: 50–74 bronze, 75–89 silver, 90–100 gold; 40–49 honorable mention. Son premios por umbral, no único campeón mundial. Confirmar coste, supervisión, zona / hora y registro extranjero."
+          },
+          {
+            "name": "Brainiacs Coding Olympiad · Online Round 3",
+            "age": "Cursos 3–4 / 5–7 / 8–9 / 10–12",
+            "team": "Trabajo individual; confirmar registro por adulto / colegio.",
+            "hardware": "Computador, software y herramientas AI permitidas según disciplina elegida. Robot físico solo donde se indica expresamente.",
+            "age_rule": "Candidato solo con Grade 3–4 real o superior; curso desconocido. / Exige Grade 3 real o superior; edad 6 no lo acredita.",
+            "entry": "Coding: categoría menor Grades 3–4, Scratch, problemas / juego en dos días de examen final; cursos reales de niños desconocidos. Párrafo introductorio dice erróneamente Physics, confirmar category pack exacto. Cuatro qualifying rounds alternativos, no cuatro exámenes obligatorios. Medallas preliminares: 50–74 bronze, 75–89 silver, 90–100 gold; 40–49 honorable mention. Son premios por umbral, no único campeón mundial. Confirmar coste, supervisión, zona / hora y registro extranjero."
+          },
+          {
+            "name": "Brainiacs Coding Olympiad · Online Round 4",
+            "age": "Cursos 3–4 / 5–7 / 8–9 / 10–12",
+            "team": "Trabajo individual; confirmar registro por adulto / colegio.",
+            "hardware": "Computador, software y herramientas AI permitidas según disciplina elegida. Robot físico solo donde se indica expresamente.",
+            "age_rule": "Candidato solo con Grade 3–4 real o superior; curso desconocido. / Exige Grade 3 real o superior; edad 6 no lo acredita.",
+            "entry": "Coding: categoría menor Grades 3–4, Scratch, problemas / juego en dos días de examen final; cursos reales de niños desconocidos. Párrafo introductorio dice erróneamente Physics, confirmar category pack exacto. Cuatro qualifying rounds alternativos, no cuatro exámenes obligatorios. Medallas preliminares: 50–74 bronze, 75–89 silver, 90–100 gold; 40–49 honorable mention. Son premios por umbral, no único campeón mundial. Confirmar coste, supervisión, zona / hora y registro extranjero."
+          },
+          {
+            "name": "Brainiacs Coding Olympiad · Global Round 2027",
+            "age": "Cursos 3–4 / 5–7 / 8–9 / 10–12",
+            "team": "Trabajo individual; confirmar registro por adulto / colegio.",
+            "hardware": "Computador, software y herramientas AI permitidas según disciplina elegida. Robot físico solo donde se indica expresamente.",
+            "age_rule": "Candidato solo con Grade 3–4 real o superior; curso desconocido. / Exige Grade 3 real o superior; edad 6 no lo acredita.",
+            "entry": "Coding: categoría menor Grades 3–4, Scratch, problemas / juego en dos días de examen final; cursos reales de niños desconocidos. Párrafo introductorio dice erróneamente Physics, confirmar category pack exacto. 25–31 de marzo es ventana Global Round, no siete exámenes diarios. Plazo normal 23 de enero, tardío 20 de febrero 2027; confirmar dos exam days reales y package. Gold top 10%, silver siguientes 20%, bronze siguientes 30%, honorable mention siguientes 15%: medalla no equivale a campeón absoluto."
+          },
+          {
+            "name": "Brainiacs AI Olympiad · Online Round 1",
+            "age": "Cursos 5–7 / 8–12",
+            "team": "Trabajo individual; confirmar registro por adulto / colegio.",
+            "hardware": "Computador, software y herramientas AI permitidas según disciplina elegida. Robot físico solo donde se indica expresamente.",
+            "age_rule": "Solo Grade 5 real o superior; edad 9 sola no da admisión. / Etapa escolar futura Grade 5+; edad 6 no equivale a Grade 5.",
+            "entry": "AI empieza en Grades 5–7, no edades 5–7. Final con AI literacy / prompting y proyecto AI práctico en dos días; no categoría menor para niño de seis. Cuatro qualifying rounds alternativos, no cuatro exámenes obligatorios. Medallas preliminares: 50–74 bronze, 75–89 silver, 90–100 gold; 40–49 honorable mention. Son premios por umbral, no único campeón mundial. Confirmar coste, supervisión, zona / hora y registro extranjero."
+          },
+          {
+            "name": "Brainiacs AI Olympiad · Online Round 2",
+            "age": "Cursos 5–7 / 8–12",
+            "team": "Trabajo individual; confirmar registro por adulto / colegio.",
+            "hardware": "Computador, software y herramientas AI permitidas según disciplina elegida. Robot físico solo donde se indica expresamente.",
+            "age_rule": "Solo Grade 5 real o superior; edad 9 sola no da admisión. / Etapa escolar futura Grade 5+; edad 6 no equivale a Grade 5.",
+            "entry": "AI empieza en Grades 5–7, no edades 5–7. Final con AI literacy / prompting y proyecto AI práctico en dos días; no categoría menor para niño de seis. Cuatro qualifying rounds alternativos, no cuatro exámenes obligatorios. Medallas preliminares: 50–74 bronze, 75–89 silver, 90–100 gold; 40–49 honorable mention. Son premios por umbral, no único campeón mundial. Confirmar coste, supervisión, zona / hora y registro extranjero."
+          },
+          {
+            "name": "Brainiacs AI Olympiad · Online Round 3",
+            "age": "Cursos 5–7 / 8–12",
+            "team": "Trabajo individual; confirmar registro por adulto / colegio.",
+            "hardware": "Computador, software y herramientas AI permitidas según disciplina elegida. Robot físico solo donde se indica expresamente.",
+            "age_rule": "Solo Grade 5 real o superior; edad 9 sola no da admisión. / Etapa escolar futura Grade 5+; edad 6 no equivale a Grade 5.",
+            "entry": "AI empieza en Grades 5–7, no edades 5–7. Final con AI literacy / prompting y proyecto AI práctico en dos días; no categoría menor para niño de seis. Cuatro qualifying rounds alternativos, no cuatro exámenes obligatorios. Medallas preliminares: 50–74 bronze, 75–89 silver, 90–100 gold; 40–49 honorable mention. Son premios por umbral, no único campeón mundial. Confirmar coste, supervisión, zona / hora y registro extranjero."
+          },
+          {
+            "name": "Brainiacs AI Olympiad · Online Round 4",
+            "age": "Cursos 5–7 / 8–12",
+            "team": "Trabajo individual; confirmar registro por adulto / colegio.",
+            "hardware": "Computador, software y herramientas AI permitidas según disciplina elegida. Robot físico solo donde se indica expresamente.",
+            "age_rule": "Solo Grade 5 real o superior; edad 9 sola no da admisión. / Etapa escolar futura Grade 5+; edad 6 no equivale a Grade 5.",
+            "entry": "AI empieza en Grades 5–7, no edades 5–7. Final con AI literacy / prompting y proyecto AI práctico en dos días; no categoría menor para niño de seis. Cuatro qualifying rounds alternativos, no cuatro exámenes obligatorios. Medallas preliminares: 50–74 bronze, 75–89 silver, 90–100 gold; 40–49 honorable mention. Son premios por umbral, no único campeón mundial. Confirmar coste, supervisión, zona / hora y registro extranjero."
+          },
+          {
+            "name": "Brainiacs AI Olympiad · Global Round 2027",
+            "age": "Cursos 5–7 / 8–12",
+            "team": "Trabajo individual; confirmar registro por adulto / colegio.",
+            "hardware": "Computador, software y herramientas AI permitidas según disciplina elegida. Robot físico solo donde se indica expresamente.",
+            "age_rule": "Solo Grade 5 real o superior; edad 9 sola no da admisión. / Etapa escolar futura Grade 5+; edad 6 no equivale a Grade 5.",
+            "entry": "AI empieza en Grades 5–7, no edades 5–7. Final con AI literacy / prompting y proyecto AI práctico en dos días; no categoría menor para niño de seis. 25–31 de marzo es ventana Global Round, no siete exámenes diarios. Plazo normal 23 de enero, tardío 20 de febrero 2027; confirmar dos exam days reales y package. Gold top 10%, silver siguientes 20%, bronze siguientes 30%, honorable mention siguientes 15%: medalla no equivale a campeón absoluto."
+          }
+        ],
+        "event_ids": [
+          "C1785",
+          "C1786",
+          "C1787",
+          "C1788",
+          "C1789",
+          "C1790",
+          "C1791",
+          "C1792",
+          "C1793",
+          "C1794"
+        ],
+        "legacy_ids": [],
+        "route": "Ser candidato por edad no significa solicitud aceptada. Confirmar curso real, edad al corte, admisión extranjera, equipo, idioma operativo, plazas y factura completa. Sin cuentas creadas, consentimientos, solicitudes, mensajes ni pagos.",
+        "hardware": "Equipo y AI permitido según track; ver ficha concreta. Comprar robot no es obligatorio para todos.",
+        "language": "Idioma web no acredita idioma de defensa / enseñanza; confirmar EN / ES / RU para grupo elegido.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Ser candidato por edad no significa solicitud aceptada. Confirmar curso real, edad al corte, admisión extranjera, equipo, idioma operativo, plazas y factura completa. Sin cuentas creadas, consentimientos, solicitudes, mensajes ni pagos."
+        ],
+        "nuances": [
+          "Certificado de envío / participación, pase a final y victoria competitiva son estados distintos. Autodescripción del organizador no acredita posición en ranking mundial.",
+          "Edad del concurso no autoriza cuenta personal en cualquier servicio AI. Acordar acceso adulto permitido, condiciones de herramientas elegidas y declaración de ayuda antes de preparar."
+        ],
+        "cost": "Tarifa exacta y factura final sin publicar / confirmar; desconocido no equivale a cero.",
+        "award": "Certificado de envío / participación, pase a final y victoria competitiva son estados distintos. Autodescripción del organizador no acredita posición en ranking mundial.",
+        "sources": [
+          {
+            "title": "Brainiacs · Coding & AI",
+            "url": "https://www.brainiacsolympiad.com/en/olympiads/coding",
+            "checked": "2026-11-06"
+          }
+        ],
+        "evidence": "Verificadas páginas / reglas primarias. Programa local nuevo no declarado líder mundial sin retrospectiva de resultados."
+      },
+      {
+        "id": "whro-computer",
+        "name": "WHRO Great Computer Challenge",
+        "group": "regional",
+        "age_summary": "Edad / curso real según categoría.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Vía escolar C.I.I.: division debe ser Member / Service Participant, un team por categoría y level por colegio. Niño visitante independiente no considerado admitido. 1–3 participantes, nivel según curso escolar mayor real. Computador / software propios; padres admitidos a ceremonia, no sala de resolución. Registro normal hasta 19 de marzo, tardío hasta 26 de marzo con recargo $50 por team. FAQ Junior contiene errata March 260 en fecha de refund: confirmar plazo exacto de devolución. Categorías K–2: Desktop Publishing, Graphic Design, Visual Programming / Block Coding; categoría AI general no prometida a menores. Tiempo de resolución: 1 hour. Vía escolar C.I.I.: division debe ser Member / Service Participant, un team por categoría y level por colegio. Niño visitante independiente no considerado admitido. 1–3 participantes, nivel según curso escolar mayor real. Computador / software propios; padres admitidos a ceremonia, no sala de resolución. Registro normal hasta 19 de marzo, tardío hasta 26 de marzo con recargo $50 por team. FAQ Junior contiene errata March 260 en fecha de refund: confirmar plazo exacto de devolución. Categorías K–2: Desktop Publishing, Graphic Design, Visual Programming / Block Coding; categoría AI general no prometida a menores. Tiempo de resolución: 1 hour 45 minutes.",
+        "categories": [
+          {
+            "name": "WHRO Great Computer Challenge 2027 · Junior Level 1",
+            "age": "cursos escolares K–2",
+            "team": "1–3 participantes; requisitos del adulto aparte.",
+            "hardware": "Computador, software y herramientas AI permitidas según disciplina elegida. Robot físico solo donde se indica expresamente.",
+            "age_rule": "Condicional / Condicional",
+            "entry": "Vía escolar C.I.I.: division debe ser Member / Service Participant, un team por categoría y level por colegio. Niño visitante independiente no considerado admitido. 1–3 participantes, nivel según curso escolar mayor real. Computador / software propios; padres admitidos a ceremonia, no sala de resolución. Registro normal hasta 19 de marzo, tardío hasta 26 de marzo con recargo $50 por team. FAQ Junior contiene errata March 260 en fecha de refund: confirmar plazo exacto de devolución. Categorías K–2: Desktop Publishing, Graphic Design, Visual Programming / Block Coding; categoría AI general no prometida a menores. Tiempo de resolución: 1 hour."
+          },
+          {
+            "name": "WHRO Great Computer Challenge 2027 · Junior Level 2",
+            "age": "cursos escolares 3–5",
+            "team": "1–3 participantes; requisitos del adulto aparte.",
+            "hardware": "Computador, software y herramientas AI permitidas según disciplina elegida. Robot físico solo donde se indica expresamente.",
+            "age_rule": "Condicional / Condicional",
+            "entry": "Vía escolar C.I.I.: division debe ser Member / Service Participant, un team por categoría y level por colegio. Niño visitante independiente no considerado admitido. 1–3 participantes, nivel según curso escolar mayor real. Computador / software propios; padres admitidos a ceremonia, no sala de resolución. Registro normal hasta 19 de marzo, tardío hasta 26 de marzo con recargo $50 por team. FAQ Junior contiene errata March 260 en fecha de refund: confirmar plazo exacto de devolución. Categorías K–2: Desktop Publishing, Graphic Design, Visual Programming / Block Coding; categoría AI general no prometida a menores. Tiempo de resolución: 1 hour 45 minutes."
+          }
+        ],
+        "event_ids": [
+          "C1779",
+          "C1780"
+        ],
+        "legacy_ids": [],
+        "route": "Ser candidato por edad no significa solicitud aceptada. Confirmar curso real, edad al corte, admisión extranjera, equipo, idioma operativo, plazas y factura completa. Sin cuentas creadas, consentimientos, solicitudes, mensajes ni pagos.",
+        "hardware": "Equipo y AI permitido según track; ver ficha concreta. Comprar robot no es obligatorio para todos.",
+        "language": "Idioma web no acredita idioma de defensa / enseñanza; confirmar EN / ES / RU para grupo elegido.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Ser candidato por edad no significa solicitud aceptada. Confirmar curso real, edad al corte, admisión extranjera, equipo, idioma operativo, plazas y factura completa. Sin cuentas creadas, consentimientos, solicitudes, mensajes ni pagos."
+        ],
+        "nuances": [
+          "Certificado de envío / participación, pase a final y victoria competitiva son estados distintos. Autodescripción del organizador no acredita posición en ranking mundial.",
+          "Edad del concurso no autoriza cuenta personal en cualquier servicio AI. Acordar acceso adulto permitido, condiciones de herramientas elegidas y declaración de ayuda antes de preparar."
+        ],
+        "cost": "Tarifa exacta y factura final sin publicar / confirmar; desconocido no equivale a cero.",
+        "award": "Certificado de envío / participación, pase a final y victoria competitiva son estados distintos. Autodescripción del organizador no acredita posición en ranking mundial.",
+        "sources": [
+          {
+            "title": "WHRO Great Computer Challenge",
+            "url": "https://education.whro.org/great-computer-challenge",
+            "checked": "2026-11-06"
+          }
+        ],
+        "evidence": "Verificadas páginas / reglas primarias. Programa local nuevo no declarado líder mundial sin retrospectiva de resultados."
+      },
+      {
+        "id": "dvla-code",
+        "name": "DVLA Code Challenge",
+        "group": "games",
+        "age_summary": "Edad / curso real según categoría.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Solo colegio / club / group con dirección Wales; visita turística no da derecho. Equipo 2–6, Scratch, vídeo hasta 2 minutos; premios de equipo IT para organización, no regalo garantizado por niño. Portada indica final 6 de julio 2027, DOCX tiene errata 06/07/20267; confirmar hora y sede final. Envío hasta 30 de abril 23:59 de Wales. Sin consentimientos enviados.",
+        "categories": [
+          {
+            "name": "DVLA Code Challenge 2027 · 7–11 · Scratch school teams",
+            "age": "7–11 · colegio / club con base en Wales",
+            "team": "2–6 participantes; requisitos del adulto aparte.",
+            "hardware": "Computador, software y herramientas AI permitidas según disciplina elegida. Robot físico solo donde se indica expresamente.",
+            "age_rule": "Candidato por edad; requiere Wales-based group vigente. / Requiere edad 7 y grupo / corte admisible; ahora 6.",
+            "entry": "Solo colegio / club / group con dirección Wales; visita turística no da derecho. Equipo 2–6, Scratch, vídeo hasta 2 minutos; premios de equipo IT para organización, no regalo garantizado por niño. Portada indica final 6 de julio 2027, DOCX tiene errata 06/07/20267; confirmar hora y sede final. Envío hasta 30 de abril 23:59 de Wales. Sin consentimientos enviados."
+          }
+        ],
+        "event_ids": [
+          "C1778"
+        ],
+        "legacy_ids": [],
+        "route": "Ser candidato por edad no significa solicitud aceptada. Confirmar curso real, edad al corte, admisión extranjera, equipo, idioma operativo, plazas y factura completa. Sin cuentas creadas, consentimientos, solicitudes, mensajes ni pagos.",
+        "hardware": "Equipo y AI permitido según track; ver ficha concreta. Comprar robot no es obligatorio para todos.",
+        "language": "Idioma web no acredita idioma de defensa / enseñanza; confirmar EN / ES / RU para grupo elegido.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Ser candidato por edad no significa solicitud aceptada. Confirmar curso real, edad al corte, admisión extranjera, equipo, idioma operativo, plazas y factura completa. Sin cuentas creadas, consentimientos, solicitudes, mensajes ni pagos."
+        ],
+        "nuances": [
+          "Certificado de envío / participación, pase a final y victoria competitiva son estados distintos. Autodescripción del organizador no acredita posición en ranking mundial.",
+          "Edad del concurso no autoriza cuenta personal en cualquier servicio AI. Acordar acceso adulto permitido, condiciones de herramientas elegidas y declaración de ayuda antes de preparar."
+        ],
+        "cost": "Tarifa exacta y factura final sin publicar / confirmar; desconocido no equivale a cero.",
+        "award": "Certificado de envío / participación, pase a final y victoria competitiva son estados distintos. Autodescripción del organizador no acredita posición en ranking mundial.",
+        "sources": [
+          {
+            "title": "DVLA Code Challenge",
+            "url": "https://stem.dvla.gov.uk/dvla-code-challenge/",
+            "checked": "2026-11-06"
+          }
+        ],
+        "evidence": "Verificadas páginas / reglas primarias. Programa local nuevo no declarado líder mundial sin retrospectiva de resultados."
+      },
+      {
+        "id": "codequest-junior",
+        "name": "Junior Coderz · Code Quest",
+        "group": "ai",
+        "age_summary": "Edad / curso real según categoría.",
+        "age_tags": [
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Tres semanas: idea / marca → web → Instagram y marketing. WhatsApp solo con progenitor; Instagram de misión creado / gestionado por progenitor. Plazos en Pakistan time, hora exacta sin indicar. Tarifa temprana November / normal December descritas, pero importe / moneda no visibles en ficha y formulario leídos. Confirmar admisión internacional, idioma de defensa, reglas de herramientas AI y entrega extranjera de premios. Certificado finisher y Top 20 no equivalen a primer puesto.",
+        "categories": [
+          {
+            "name": "Junior Coderz · Code Quest 2026 · digital business with AI",
+            "age": "8–10 / 11–13 / 14–16",
+            "team": "Trabajo individual; confirmar registro por adulto / colegio.",
+            "hardware": "Computador, software y herramientas AI permitidas según disciplina elegida. Robot físico solo donde se indica expresamente.",
+            "age_rule": "Candidato Explorers 8–10; confirmar idioma y admisión extranjera. / No: mínimo 8.",
+            "entry": "Tres semanas: idea / marca → web → Instagram y marketing. WhatsApp solo con progenitor; Instagram de misión creado / gestionado por progenitor. Plazos en Pakistan time, hora exacta sin indicar. Tarifa temprana November / normal December descritas, pero importe / moneda no visibles en ficha y formulario leídos. Confirmar admisión internacional, idioma de defensa, reglas de herramientas AI y entrega extranjera de premios. Certificado finisher y Top 20 no equivalen a primer puesto."
+          }
+        ],
+        "event_ids": [
+          "C1777"
+        ],
+        "legacy_ids": [],
+        "route": "Ser candidato por edad no significa solicitud aceptada. Confirmar curso real, edad al corte, admisión extranjera, equipo, idioma operativo, plazas y factura completa. Sin cuentas creadas, consentimientos, solicitudes, mensajes ni pagos.",
+        "hardware": "Equipo y AI permitido según track; ver ficha concreta. Comprar robot no es obligatorio para todos.",
+        "language": "Idioma web no acredita idioma de defensa / enseñanza; confirmar EN / ES / RU para grupo elegido.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Ser candidato por edad no significa solicitud aceptada. Confirmar curso real, edad al corte, admisión extranjera, equipo, idioma operativo, plazas y factura completa. Sin cuentas creadas, consentimientos, solicitudes, mensajes ni pagos."
+        ],
+        "nuances": [
+          "Certificado de envío / participación, pase a final y victoria competitiva son estados distintos. Autodescripción del organizador no acredita posición en ranking mundial.",
+          "Edad del concurso no autoriza cuenta personal en cualquier servicio AI. Acordar acceso adulto permitido, condiciones de herramientas elegidas y declaración de ayuda antes de preparar."
+        ],
+        "cost": "Tarifa exacta y factura final sin publicar / confirmar; desconocido no equivale a cero.",
+        "award": "Certificado de envío / participación, pase a final y victoria competitiva son estados distintos. Autodescripción del organizador no acredita posición en ranking mundial.",
+        "sources": [
+          {
+            "title": "Junior Coderz · Code Quest",
+            "url": "https://juniorcoderz.com/competition/",
+            "checked": "2026-11-06"
+          }
+        ],
+        "evidence": "Verificadas páginas / reglas primarias. Programa local nuevo no declarado líder mundial sin retrospectiva de resultados."
+      },
+      {
+        "id": "innovaite-uae",
+        "name": "UAE InnovAIte · national high school",
+        "group": "advanced",
+        "age_summary": "Edad / curso real según categoría.",
+        "age_tags": [
+          "teen"
+        ],
+        "summary": "Cualquier nacionalidad, pero exige high school en UAE. Normalmente 2–5 por equipo, tamaño exacto 2027 aún pendiente. Online build y final presencial previstos; fechas 2027 TBD. Fondo 2025 AED 40000+ no declarado fondo 2027. No confundir nacionalidad con ubicación del colegio.",
+        "categories": [
+          {
+            "name": "UAE InnovAIte Hackathon 2027 · high-school route watch",
+            "age": "high school en UAE · tamaño exacto 2027 por anunciar",
+            "team": "Equipo; composición exacta según reglamento de categoría.",
+            "hardware": "Computador, software y herramientas AI permitidas según disciplina elegida. Robot físico solo donde se indica expresamente.",
+            "age_rule": "Etapa futura high school, no concurso infantil menor. / Etapa futura high school.",
+            "entry": "Cualquier nacionalidad, pero exige high school en UAE. Normalmente 2–5 por equipo, tamaño exacto 2027 aún pendiente. Online build y final presencial previstos; fechas 2027 TBD. Fondo 2025 AED 40000+ no declarado fondo 2027. No confundir nacionalidad con ubicación del colegio."
+          }
+        ],
+        "event_ids": [
+          "C1781"
+        ],
+        "legacy_ids": [],
+        "route": "Ser candidato por edad no significa solicitud aceptada. Confirmar curso real, edad al corte, admisión extranjera, equipo, idioma operativo, plazas y factura completa. Sin cuentas creadas, consentimientos, solicitudes, mensajes ni pagos.",
+        "hardware": "Equipo y AI permitido según track; ver ficha concreta. Comprar robot no es obligatorio para todos.",
+        "language": "Idioma web no acredita idioma de defensa / enseñanza; confirmar EN / ES / RU para grupo elegido.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Ser candidato por edad no significa solicitud aceptada. Confirmar curso real, edad al corte, admisión extranjera, equipo, idioma operativo, plazas y factura completa. Sin cuentas creadas, consentimientos, solicitudes, mensajes ni pagos."
+        ],
+        "nuances": [
+          "Certificado de envío / participación, pase a final y victoria competitiva son estados distintos. Autodescripción del organizador no acredita posición en ranking mundial.",
+          "Edad del concurso no autoriza cuenta personal en cualquier servicio AI. Acordar acceso adulto permitido, condiciones de herramientas elegidas y declaración de ayuda antes de preparar."
+        ],
+        "cost": "Tarifa exacta y factura final sin publicar / confirmar; desconocido no equivale a cero.",
+        "award": "Certificado de envío / participación, pase a final y victoria competitiva son estados distintos. Autodescripción del organizador no acredita posición en ranking mundial.",
+        "sources": [
+          {
+            "title": "UAE InnovAIte · national high school",
+            "url": "https://www.uae-innovaite.com/",
+            "checked": "2026-11-06"
+          }
+        ],
+        "evidence": "Verificadas páginas / reglas primarias. Programa local nuevo no declarado líder mundial sin retrospectiva de resultados."
+      },
+      {
+        "id": "ikcc-own-code",
+        "name": "IKCC · own-code Scratch international",
+        "group": "games",
+        "age_summary": "Edad / curso real según categoría.",
+        "age_tags": [
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "IKCC Rules actualizadas: proyectos internacionales solo en inglés. AI prohibido para idea, historia, código, personajes, fondos, imágenes, sonidos y cualquier parte. Niño crea proyecto por sí mismo solo durante ventana del concurso; sin código antiguo, remix ni tutorial rehecho. Requiere Scratch SHARE-link público, no archivo sb3. No trasladar aquí proyecto AI de CodeFest / WAICY. Requiere documento escolar oficial con datos del niño y guide adulto / consentimiento. Organizador prevé publicar nombre / apellido, edad, colegio, ciudad / país y proyecto; foto opcional. Sin documentos enviados. Confirmar categorías del concurso concreto 2027. Ventana 3–31 de enero 2027; resultados 15 de febrero. Homepage ya muestra Galactic Police!, pero al lado dice tema announced January 3 y soon: no adivinar tarea final ni empezar proyecto antes. IKCC Rules actualizadas: proyectos internacionales solo en inglés. AI prohibido para idea, historia, código, personajes, fondos, imágenes, sonidos y cualquier parte. Niño crea proyecto por sí mismo solo durante ventana del concurso; sin código antiguo, remix ni tutorial rehecho. Requiere Scratch SHARE-link público, no archivo sb3. No trasladar aquí proyecto AI de CodeFest / WAICY. Requiere documento escolar oficial con datos del niño y guide adulto / consentimiento. Organizador prevé publicar nombre / apellido, edad, colegio, ciudad / país y proyecto; foto opcional. Sin documentos enviados. Confirmar categorías del concurso concreto 2027.",
+        "categories": [
+          {
+            "name": "IKCC · World Game Coding 2027 · comienzo",
+            "age": "las categorías generales 7–8 / 9–10 / 11–12 / 13–14; conjunto de categorías 2027 - ¿Qué es eso ?. edad en el primer día de registro.",
+            "team": "proyecto Scratch 3.0 individual; guía para adultos es obligatorio, no hay solicitud de mando general",
+            "hardware": "Scratch 3.0: juego",
+            "age_rule": "Condicional — edad general 9–10 Es muy bueno.; categoría 2027 debe ser anunciado / Condicional — tiene que cumplir la edad 7 años en el primer día de registro y abrir la categoría 7–8",
+            "entry": "IKCC Rules actualizadas: proyectos internacionales solo en inglés. AI prohibido para idea, historia, código, personajes, fondos, imágenes, sonidos y cualquier parte. Niño crea proyecto por sí mismo solo durante ventana del concurso; sin código antiguo, remix ni tutorial rehecho. Requiere Scratch SHARE-link público, no archivo sb3. No trasladar aquí proyecto AI de CodeFest / WAICY. Requiere documento escolar oficial con datos del niño y guide adulto / consentimiento. Organizador prevé publicar nombre / apellido, edad, colegio, ciudad / país y proyecto; foto opcional. Sin documentos enviados. Confirmar categorías del concurso concreto 2027. Ventana 3–31 de enero 2027; resultados 15 de febrero. Homepage ya muestra Galactic Police!, pero al lado dice tema announced January 3 y soon: no adivinar tarea final ni empezar proyecto antes."
+          },
+          {
+            "name": "IKCC · World Scratch Coding 2027 · comienzo",
+            "age": "las categorías generales 7–8 / 9–10 / 11–12 / 13–14; conjunto de categorías 2027 - ¿Qué es eso ?. edad en el primer día de registro.",
+            "team": "proyecto Scratch 3.0 individual; guía para adultos es obligatorio, no hay solicitud de mando general",
+            "hardware": "Scratch 3.0: Abre historia / animación / juego / mixta",
+            "age_rule": "Condicional — edad general 9–10 Es muy bueno.; categoría 2027 debe ser anunciado / Condicional — tiene que cumplir la edad 7 años en el primer día de registro y abrir la categoría 7–8",
+            "entry": "IKCC Rules actualizadas: proyectos internacionales solo en inglés. AI prohibido para idea, historia, código, personajes, fondos, imágenes, sonidos y cualquier parte. Niño crea proyecto por sí mismo solo durante ventana del concurso; sin código antiguo, remix ni tutorial rehecho. Requiere Scratch SHARE-link público, no archivo sb3. No trasladar aquí proyecto AI de CodeFest / WAICY. Requiere documento escolar oficial con datos del niño y guide adulto / consentimiento. Organizador prevé publicar nombre / apellido, edad, colegio, ciudad / país y proyecto; foto opcional. Sin documentos enviados. Confirmar categorías del concurso concreto 2027."
+          }
+        ],
+        "event_ids": [
+          "C843",
+          "C844"
+        ],
+        "legacy_ids": [],
+        "route": "Ser candidato por edad no significa solicitud aceptada. Confirmar curso real, edad al corte, admisión extranjera, equipo, idioma operativo, plazas y factura completa. Sin cuentas creadas, consentimientos, solicitudes, mensajes ni pagos.",
+        "hardware": "Scratch 3.0; código nuevo propio del niño, SHARE-link público, AI prohibido.",
+        "language": "IKCC internacional solo English; NKCC nacional aparte.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Ser candidato por edad no significa solicitud aceptada. Confirmar curso real, edad al corte, admisión extranjera, equipo, idioma operativo, plazas y factura completa. Sin cuentas creadas, consentimientos, solicitudes, mensajes ni pagos."
+        ],
+        "nuances": [
+          "IKCC Rules actualizadas: proyectos internacionales solo en inglés. AI prohibido para idea, historia, código, personajes, fondos, imágenes, sonidos y cualquier parte. Niño crea proyecto por sí mismo solo durante ventana del concurso; sin código antiguo, remix ni tutorial rehecho. Requiere Scratch SHARE-link público, no archivo sb3. No trasladar aquí proyecto AI de CodeFest / WAICY.",
+          "Requiere documento escolar oficial con datos del niño y guide adulto / consentimiento. Organizador prevé publicar nombre / apellido, edad, colegio, ciudad / país y proyecto; foto opcional. Sin documentos enviados. Confirmar categorías del concurso concreto 2027."
+        ],
+        "cost": "Tarifa exacta y factura final sin publicar / confirmar; desconocido no equivale a cero.",
+        "award": "Certificado de envío / participación, pase a final y victoria competitiva son estados distintos. Autodescripción del organizador no acredita posición en ranking mundial.",
+        "sources": [
+          {
+            "title": "IKCC · own-code Scratch international",
+            "url": "https://www.ikcc.info/",
+            "checked": "2026-11-06"
+          }
+        ],
+        "evidence": "Verificadas páginas / reglas primarias. Programa local nuevo no declarado líder mundial sin retrospectiva de resultados."
       }
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "185 perfiles de ligas, familias y programas; conservadas las 46 vías anteriores. Formatos brasileños separados, Robofest LATAM y BajaBot locales descritos por sus categorías. Cobertura mundial parcial.",
+    "methodology": "195 perfiles de ligas, familias y programas; conservadas las 46 vías anteriores. Formatos brasileños separados, Robofest LATAM y BajaBot locales descritos por sus categorías. Cobertura mundial parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

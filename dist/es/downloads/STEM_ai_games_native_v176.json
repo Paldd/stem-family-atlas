@@ -1,0 +1,203 @@
+{
+  "version": 176,
+  "checked": "2026-11-06",
+  "wikko_english_stages": [
+    [
+      "entry",
+      "plazo de inscripción e idea",
+      "2027-04-02",
+      "",
+      ""
+    ],
+    [
+      "video_submission",
+      "video submission",
+      "2027-04-23",
+      "",
+      ""
+    ],
+    [
+      "prototype_submission",
+      "prototype submission",
+      "2027-05-20",
+      "",
+      ""
+    ],
+    [
+      "online_regional",
+      "final regional online",
+      "",
+      "2027-05-22",
+      "2027-05-23"
+    ],
+    [
+      "final_submission",
+      "envío de revisión final",
+      "2027-06-18",
+      "",
+      ""
+    ],
+    [
+      "onsite_final",
+      "Shanghai Final",
+      "",
+      "2027-07-04",
+      "2027-07-04"
+    ]
+  ],
+  "wikko_separate_language_groups": true,
+  "wikko_english_deadline_zone": "UTC",
+  "wikko_chinese_deadline_zone": "Asia/Shanghai",
+  "wikko_client_english_deadlines": [
+    "2027-04-02",
+    "2027-04-23",
+    "2027-05-20",
+    "2027-05-23",
+    "2027-06-18",
+    "2027-07-04"
+  ],
+  "wikko_client_chinese_deadlines": [
+    "2027-04-09",
+    "2027-04-16",
+    "2027-05-07",
+    "2027-05-28",
+    "2027-06-25",
+    "2027-07-02"
+  ],
+  "wikko_source_bundle": "https://www.wikkotech.com/airace/assets/index-CUQ1kZsh.js",
+  "wikko_source_bundle_sha256": "57cad58dae498314804c9afc73a8065831d28ef18f1616212f161b63c84a5ba0",
+  "ikcc": {
+    "january_window": [
+      "2027-01-03",
+      "2027-01-31"
+    ],
+    "results_day": "2027-02-15",
+    "deadline_utc": "2027-01-31T21:59:59Z",
+    "international_project_language": "EN",
+    "ai_forbidden_in_all_project_parts": true,
+    "old_project_or_code_reuse_forbidden": true,
+    "school_document_required": true,
+    "photo_optional": true
+  },
+  "yai": {
+    "primary_age_on": "2027-01-16",
+    "birth_window": [
+      "2014-01-17",
+      "2020-01-16"
+    ],
+    "team_size": [
+      1,
+      4
+    ],
+    "lead_adult_min_age": 21,
+    "registration_deadline_utc": "2027-01-02T15:59:00Z",
+    "project_deadline_utc": "2027-01-09T15:59:00Z",
+    "demo_weekend": [
+      "2027-01-16",
+      "2027-01-17"
+    ],
+    "fee_sgd_per_student": 68,
+    "foreign_school_wording_conflict": true,
+    "absent_finalists_not_ranked": true,
+    "event_confirmation_check": "2026-12-04",
+    "venue_confirmed": false
+  },
+  "codefest": {
+    "event": "2026-12-19",
+    "registration_deadline": "2026-11-15",
+    "project_deadline_utc": "2026-12-17T10:00:00Z",
+    "public_ticket_sgd": 115,
+    "optional_public_prep_sgd": 465,
+    "chosen_prep_and_ticket_sgd": 580,
+    "prep_days": [
+      "2026-12-14",
+      "2026-12-16"
+    ],
+    "prep_sessions": 3,
+    "prep_total_hours": 9,
+    "prep_venue_and_delivery_mode_confirmed": false,
+    "rubric_weight_conflict": true,
+    "own_ai_accounts_and_tools_not_supplied": true
+  },
+  "brainiacs": {
+    "preliminaries": [
+      "2026-11-28",
+      "2026-12-19",
+      "2027-01-16",
+      "2027-02-13"
+    ],
+    "preliminary_deadlines": [
+      "2026-11-26",
+      "2026-12-17",
+      "2027-01-14",
+      "2027-02-11"
+    ],
+    "global_window": [
+      "2027-03-25",
+      "2027-03-31"
+    ],
+    "global_late_deadline": "2027-02-20",
+    "coding_minimum_grade": 3,
+    "ai_minimum_grade": 5,
+    "coding_languages": [
+      "EN",
+      "RU",
+      "FR",
+      "ES"
+    ],
+    "ai_languages": [
+      "EN",
+      "RU"
+    ]
+  },
+  "whro": {
+    "junior_event": "2027-05-01",
+    "normal_deadline": "2027-03-19",
+    "late_deadline": "2027-03-26",
+    "team_size": [
+      1,
+      3
+    ],
+    "school_membership_gate": true,
+    "refund_date_typo_unresolved": true
+  },
+  "dvla": {
+    "wales_address_required": true,
+    "team_size": [
+      2,
+      6
+    ],
+    "submission_deadline_utc": "2027-04-30T22:59:00Z",
+    "final_date_from_main": "2027-07-06",
+    "terms_final_year_typo": "20267"
+  },
+  "codeavour": {
+    "main_tracks_minimum_age": 7,
+    "innovation_team": [
+      1,
+      3
+    ],
+    "physical_tracks_team": [
+      2,
+      3
+    ],
+    "lil_champs_heading_age": [
+      5,
+      7
+    ],
+    "lil_champs_body_age": [
+      5,
+      8
+    ],
+    "current_track2": "Clean Energy",
+    "currency_and_fee_unit_unconfirmed": true,
+    "content_rights_clause_read_not_accepted": true
+  },
+  "coolest": {
+    "opening_month": "2027-01",
+    "exact_opening_day": null,
+    "reused_original_projects_permitted": true,
+    "showcase_not_championship": true
+  },
+  "worldwide_complete": false
+}

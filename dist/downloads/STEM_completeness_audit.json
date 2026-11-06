@@ -16,11 +16,11 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 5505,
-    "competition_cards": 1769,
+    "cards": 5538,
+    "competition_cards": 1799,
     "event_cards": 245,
-    "camp_cards": 3491,
-    "league_profiles": 185,
+    "camp_cards": 3494,
+    "league_profiles": 195,
     "major_exhibition_cards": 159,
     "vex_cards": 518,
     "countries_with_records": 119,
@@ -34,9 +34,9 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 1639,
+      "total": 1641,
       "countries_with_records": 19,
-      "competitions": 613,
+      "competitions": 615,
       "events": 59,
       "major_exhibitions": 20,
       "camps": 967,
@@ -62,9 +62,9 @@
       "regions": [
         "Европа"
       ],
-      "total": 1660,
+      "total": 1661,
       "countries_with_records": 39,
-      "competitions": 360,
+      "competitions": 361,
       "events": 72,
       "major_exhibitions": 52,
       "camps": 1228,
@@ -90,12 +90,12 @@
       "regions": [
         "Азия"
       ],
-      "total": 1588,
+      "total": 1598,
       "countries_with_records": 31,
-      "competitions": 486,
+      "competitions": 495,
       "events": 80,
       "major_exhibitions": 71,
-      "camps": 1022,
+      "camps": 1023,
       "status": "Частично исследовано",
       "remaining": "Добавлены India camp candidates и первые Pakistan / Bangladesh / Sri Lanka маршруты. Не все national qualifiers, языки и иностранный приём закрыты; другие страны Азии исследованы частично."
     },
@@ -534,7 +534,7 @@
         "C1769"
       ],
       "cards": 284,
-      "future_dated": 185,
+      "future_dated": 183,
       "linked_card_count": 284,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.firstinspires.org/programs/fll/",
@@ -1158,7 +1158,7 @@
         "C1266"
       ],
       "cards": 3,
-      "future_dated": 2,
+      "future_dated": 0,
       "linked_card_count": 3,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.wermexico.com/competencia",
@@ -1472,11 +1472,14 @@
       "name": "Codeavour",
       "group": "ai",
       "event_ids": [
-        "C038"
+        "C038",
+        "C1782",
+        "C1783",
+        "C1784"
       ],
-      "cards": 1,
+      "cards": 4,
       "future_dated": 0,
-      "linked_card_count": 1,
+      "linked_card_count": 4,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://codeavour.org/",
       "new": false
@@ -3992,7 +3995,7 @@
         "C1538"
       ],
       "cards": 55,
-      "future_dated": 30,
+      "future_dated": 28,
       "linked_card_count": 55,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://hjernekraft.org/no",
@@ -4531,6 +4534,165 @@
       "linked_card_count": 1,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.steamtournament.com/public-registration?tournament=126b27b2-cf70-443b-b54e-1233b10aaa9d",
+      "new": false
+    },
+    {
+      "id": "moonhack",
+      "name": "Moonhack · Code Club Australia",
+      "group": "games",
+      "event_ids": [
+        "C1771"
+      ],
+      "cards": 1,
+      "future_dated": 1,
+      "linked_card_count": 1,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://moonhack.com/",
+      "new": false
+    },
+    {
+      "id": "yai-singapore",
+      "name": "YAI Singapore · Youth AI Hackathon",
+      "group": "ai",
+      "event_ids": [
+        "C1772",
+        "C1776"
+      ],
+      "cards": 2,
+      "future_dated": 1,
+      "linked_card_count": 2,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://yai.sg/",
+      "new": false
+    },
+    {
+      "id": "wikko-ai-coding",
+      "name": "Youth AI Coding · English / Chinese groups",
+      "group": "ai",
+      "event_ids": [
+        "C1795",
+        "C1796",
+        "C1797",
+        "C1798",
+        "C1799",
+        "C1800"
+      ],
+      "cards": 6,
+      "future_dated": 2,
+      "linked_card_count": 6,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.wikkotech.com/airace/",
+      "new": false
+    },
+    {
+      "id": "codefest-ai-games",
+      "name": "CodeFest · AI Games / Web",
+      "group": "games",
+      "event_ids": [
+        "C1773",
+        "C1774",
+        "C1775"
+      ],
+      "cards": 3,
+      "future_dated": 2,
+      "linked_card_count": 3,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.codefest.sg/",
+      "new": false
+    },
+    {
+      "id": "brainiacs-computing",
+      "name": "Brainiacs · Coding & AI",
+      "group": "ai",
+      "event_ids": [
+        "C1785",
+        "C1786",
+        "C1787",
+        "C1788",
+        "C1789",
+        "C1790",
+        "C1791",
+        "C1792",
+        "C1793",
+        "C1794"
+      ],
+      "cards": 10,
+      "future_dated": 10,
+      "linked_card_count": 10,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.brainiacsolympiad.com/en/olympiads/coding",
+      "new": false
+    },
+    {
+      "id": "whro-computer",
+      "name": "WHRO Great Computer Challenge",
+      "group": "regional",
+      "event_ids": [
+        "C1779",
+        "C1780"
+      ],
+      "cards": 2,
+      "future_dated": 2,
+      "linked_card_count": 2,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://education.whro.org/great-computer-challenge",
+      "new": false
+    },
+    {
+      "id": "dvla-code",
+      "name": "DVLA Code Challenge",
+      "group": "games",
+      "event_ids": [
+        "C1778"
+      ],
+      "cards": 1,
+      "future_dated": 1,
+      "linked_card_count": 1,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://stem.dvla.gov.uk/dvla-code-challenge/",
+      "new": false
+    },
+    {
+      "id": "codequest-junior",
+      "name": "Junior Coderz · Code Quest",
+      "group": "ai",
+      "event_ids": [
+        "C1777"
+      ],
+      "cards": 1,
+      "future_dated": 1,
+      "linked_card_count": 1,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://juniorcoderz.com/competition/",
+      "new": false
+    },
+    {
+      "id": "innovaite-uae",
+      "name": "UAE InnovAIte · national high school",
+      "group": "advanced",
+      "event_ids": [
+        "C1781"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "linked_card_count": 1,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.uae-innovaite.com/",
+      "new": false
+    },
+    {
+      "id": "ikcc-own-code",
+      "name": "IKCC · own-code Scratch international",
+      "group": "games",
+      "event_ids": [
+        "C843",
+        "C844"
+      ],
+      "cards": 2,
+      "future_dated": 2,
+      "linked_card_count": 2,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.ikcc.info/",
       "new": false
     }
   ],
@@ -7357,7 +7519,7 @@
       "official_alternative": "https://www.ykpaoschool.cn/News-and-Events/New-Stories/988"
     }
   ],
-  "interregional_cards": 60,
+  "interregional_cards": 80,
   "promoted_exhibition_ids": [],
   "focused_country": {
     "country": "Тайвань",
@@ -8394,7 +8556,7 @@
       }
     ],
     "counts": {
-      "records": 3491,
+      "records": 3494,
       "holiday": 3325,
       "regular": 108,
       "self_paced_materials": 2,
@@ -10602,5 +10764,5 @@
     "source_receipts": "33 HTTP requests,3failed;17primary bodies read plus2LATI summaries; PDF relevant pages visually inspected; shell-only pages not declared read"
   },
   "updated_profile_ids": [],
-  "calendar_counts_asof": "2026-11-05"
+  "calendar_counts_asof": "2026-11-06"
 }
