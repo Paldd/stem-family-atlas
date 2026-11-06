@@ -6,7 +6,7 @@
   const money=(n,currency)=>new Intl.NumberFormat('es',{style:'currency',currency,maximumFractionDigits:2}).format(n);
   function today(){const parts=new Intl.DateTimeFormat('en-US',{timeZone:'America/Costa_Rica',year:'numeric',month:'2-digit',day:'2-digit'}).formatToParts(new Date());const get=k=>parts.find(p=>p.type===k).value;return `${get('year')}-${get('month')}-${get('day')}`;}
   function periods(p){return (p.sessions||p.timing?.sessions||[]).filter(s=>Array.isArray(s)&&/^\d{4}-\d{2}-\d{2}$/.test(s[0])&&/^\d{4}-\d{2}-\d{2}$/.test(s[1]));}
-  function matchesMonth(p,month){if(!month)return true;if(!/^\d{4}-(0[1-9]|1[0-2])$/.test(month))return false;const first=month+'-01';const end=new Date(Date.UTC(Number(month.slice(0,4)),Number(month.slice(5,7)),0)).toISOString().slice(0,10);return periods(p).some(([s,e])=>s<=end&&e>=first);}
+  function matchesMonth(p,month){if(!month)return true;if(!/^\d{4}-(0[1-9]|1[0-2])$/.test(month))return false;const first=month+'-01';const end=new Date(Date.UTC(Number(month.slice(0,4)),Number(month.slice(5,7)),0)).toISOString().slice(0,10);return periods(p).some(([s,e])=>s<=end&&e>=first)||(p.timing?.announced_months||[]).includes(month);}
   function nextDate(p,day=today()){const dates=periods(p).filter(([,end])=>end>=day).map(([start])=>start<day?day:start);return dates.sort()[0]||'9999-12-31';}
   function searchText(p){if(!searchCache.has(p))searchCache.set(p,foldSearch(JSON.stringify(p)));return searchCache.get(p);}
   function sortProfiles(profiles,sort,child,day=today()){

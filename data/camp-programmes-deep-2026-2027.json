@@ -30,14 +30,14 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1407,
-    "countries": 71,
+    "dossiers": 1425,
+    "countries": 73,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 189,
       "published_2027": 351,
-      "partial_2027": 123,
-      "next_unannounced": 267,
+      "partial_2027": 124,
+      "next_unannounced": 284,
       "published_2026": 295,
       "partial_2026_27": 28,
       "partial_2026": 19,
@@ -47,7 +47,7 @@
       "historical_2026_next_season_unknown": 1,
       "announced_dates_programme_pending": 1
     },
-    "source_urls": 2054
+    "source_urls": 2079
   },
   "countries": [
     {
@@ -57,6 +57,10 @@
     {
       "country": "Австрия",
       "count": 3
+    },
+    {
+      "country": "Андорра",
+      "count": 4
     },
     {
       "country": "Аргентина",
@@ -237,6 +241,10 @@
     {
       "country": "Пуэрто-Рико",
       "count": 6
+    },
+    {
+      "country": "Республика Молдова",
+      "count": 14
     },
     {
       "country": "США",
@@ -195665,6 +195673,1242 @@
         }
       ],
       "checked": "2026-11-06"
+    },
+    {
+      "id": "CP1408",
+      "slug": "loopa-andorra-holiday",
+      "provider": "Loopa · holiday robotics and maker camps",
+      "iso": "AND",
+      "country": "Андорра",
+      "place": "Andorra la Vella · C/ Dr. Vilanova 9, 2c",
+      "themes": [
+        "robotics",
+        "coding",
+        "gaming",
+        "maker"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "5–14 on specific 2026 pages / 6–14 general",
+      "programme": "Robotics, Scratch / ScratchJr, drones, 3D и maker. На главной объявлены campus 2026–2027; точные будущие смены ещё не датированы. Лето 2026 — 6 отдельных недель 6 июля–4 сентября, первые 5 помечены закрытыми; максимум 2 недели. Tots Sants 26–30 октября 2026 уже прошёл. Ни один старый день не перенесён на 2027.",
+      "language": "Язык сайта не доказывает язык занятий или судейства. EN / ES / RU для выбранного потока прямо не подтверждены.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Цена нового сезона, полный invoice, места и условия ещё требуют подтверждения.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "currency": "EUR",
+        "amount": null,
+        "unit": "programme",
+        "label": "Архив 2026: неделя morning EUR 220 / afternoon 120 / half day с обедом 277.50 / full day с обедом 362.50 / split без обеда 305. Две недели: 396 / 210 / 511 / 665 / 550. Отдельные client/sibling цены и 4-дневный пакет сохранены в native facts. Это не тариф 2027 и не суммы всех альтернатив вместе.",
+        "included": "",
+        "extras": "Перелёты, жильё родителей, местный транспорт, страховка и расходы вне включений отдельно; неизвестное не равно нулю.",
+        "deposit": "Цена нового сезона, полный invoice, места и условия ещё требуют подтверждения."
+      },
+      "accommodation": "Дневная программа без пансиона.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Подтвердить точный класс, возраст на день начала, иностранный приём, состав, язык выбранного потока, места и итоговый счёт. Заявки, аккаунты, сообщения, согласия и оплаты не выполнялись."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Подтвердить точный класс, возраст на день начала, иностранный приём, состав, язык выбранного потока, места и итоговый счёт. Заявки, аккаунты, сообщения, согласия и оплаты не выполнялись."
+        }
+      },
+      "editorial_reason": "Учебный проект, сертификат участия, конкурсное место и международная квота — разные результаты. Редакционный кандидат не является независимым мировым рейтингом.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить точный класс, возраст на день начала, иностранный приём, состав, язык выбранного потока, места и итоговый счёт. Заявки, аккаунты, сообщения, согласия и оплаты не выполнялись."
+      ],
+      "sources": [
+        {
+          "title": "Loopa · campus",
+          "url": "https://www.loopa.ad/campus/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Loopa · summer 2026 price matrix",
+          "url": "https://www.loopa.ad/producte/campus-estiu-2026/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Loopa · 2026–2027 announcement",
+          "url": "https://www.loopa.ad/",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "CP1409",
+      "slug": "bca-andorra-english-day",
+      "provider": "British College of Andorra · English summer day camp",
+      "iso": "AND",
+      "country": "Андорра",
+      "place": "British College of Andorra",
+      "themes": [
+        "language",
+        "general",
+        "science",
+        "adventure"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "2026: born 2015–2020 · Chimps / Leopards",
+      "programme": "2026: четыре недели июля с недели 6 июля; иностранные дети и ученики других школ прямо приглашены. Матвей 2017 — Leopards, Оскар 2020 — Chimps в опубликованной таблице 2026. Science, design, art, adventure; full day 09:00–16:45, drop-off 08:45, pickup до 17:00. Новый календарь и возрастные группы 2027 ещё не опубликованы.",
+      "language": "Прямо заявлены английская практика весь день и квалифицированные English teachers. Это общий языковой / приключенческий лагерь, не специальная соревновательная робототехника.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Цена нового сезона, полный invoice, места и условия ещё требуют подтверждения.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "currency": "EUR",
+        "amount": null,
+        "unit": "week",
+        "label": "Тарифы 2026 расходятся: English full day EUR 265, Español / Català EUR 260. Half day 185 без обеда / 210 с обедом; bus +35 за неделю. 10% со второй недели или второго ребёнка; скидки не суммируются. Full day включает обед, snack, экскурсии и 2 футболки. Ни один вариант не объявлен ценой 2027.",
+        "included": "Обед и snack для full day, экскурсии и 2 футболки по странице 2026.",
+        "extras": "Перелёты, жильё родителей, местный транспорт, страховка и расходы вне включений отдельно; неизвестное не равно нулю.",
+        "deposit": "Цена нового сезона, полный invoice, места и условия ещё требуют подтверждения."
+      },
+      "accommodation": "Дневная программа без пансиона.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Подтвердить точный класс, возраст на день начала, иностранный приём, состав, язык выбранного потока, места и итоговый счёт. Заявки, аккаунты, сообщения, согласия и оплаты не выполнялись."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Подтвердить точный класс, возраст на день начала, иностранный приём, состав, язык выбранного потока, места и итоговый счёт. Заявки, аккаунты, сообщения, согласия и оплаты не выполнялись."
+        }
+      },
+      "editorial_reason": "Учебный проект, сертификат участия, конкурсное место и международная квота — разные результаты. Редакционный кандидат не является независимым мировым рейтингом.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить точный класс, возраст на день начала, иностранный приём, состав, язык выбранного потока, места и итоговый счёт. Заявки, аккаунты, сообщения, согласия и оплаты не выполнялись."
+      ],
+      "sources": [
+        {
+          "title": "BCA · English version",
+          "url": "https://www.britishcollegeandorra.com/en/summer-camp",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "BCA · Spanish price",
+          "url": "https://www.britishcollegeandorra.com/es/summer-camp",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "BCA · Catalan price",
+          "url": "https://www.britishcollegeandorra.com/ca/summer-camp",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "CP1410",
+      "slug": "agora-andorra-adventure-board",
+      "provider": "Agora Andorra · Adventure Camp in the Pyrenees",
+      "iso": "AND",
+      "country": "Андорра",
+      "place": "Agora Andorra International School · La Massana",
+      "themes": [
+        "language",
+        "adventure",
+        "science",
+        "general"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "8–15",
+      "programme": "Действующая страница сети объявляет июль 2027, 1–3 недели: горные активности, STEAM workshops и 12 часов выбранного языка в неделю. Точные смены 2027 не опубликованы. Связанная брошюра — 2026: 5–26 июля и стоимость EUR 982 / 1542 / 2102 за 1 / 2 / 3 недели; это архив, не дата или цена 2027.",
+      "language": "На странице 2027 прямо предложен выбор English / French / Spanish для языковых занятий и workshops. Это выбор потока, не все три языка одновременно.",
+      "confirmed_instruction_languages": [
+        "EN",
+        "ES",
+        "FR"
+      ],
+      "language_evidence_role": "bilingual",
+      "timing": {
+        "status": "partial_2027",
+        "label": "Июль 2027, 1–3 недели; точные дни начала / окончания не опубликованы.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "announced_months": [
+          "2027-07"
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "currency": "EUR",
+        "amount": null,
+        "unit": "programme",
+        "label": "2027: цена не опубликована. Архив 2026: EUR 982 / 1542 / 2102 за 1 / 2 / 3 недели, transfer Barcelona Airport только в установленные часы. Не обещана та же цена или трансфер 2027.",
+        "included": "",
+        "extras": "Перелёты, жильё родителей, местный транспорт, страховка и расходы вне включений отдельно; неизвестное не равно нулю.",
+        "deposit": "Цена нового сезона, полный invoice, места и условия ещё требуют подтверждения."
+      },
+      "accommodation": "Пансион. Брошюра 2026 описывает 24/7 supervision и комнаты на 2–3 человека; конкретное размещение и ночи 2027 подтвердить.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Подтвердить точный класс, возраст на день начала, иностранный приём, состав, язык выбранного потока, места и итоговый счёт. Заявки, аккаунты, сообщения, согласия и оплаты не выполнялись."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "В течение 2027 ребёнок ещё младше опубликованного минимума."
+        }
+      },
+      "editorial_reason": "Учебный проект, сертификат участия, конкурсное место и международная квота — разные результаты. Редакционный кандидат не является независимым мировым рейтингом.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить точный класс, возраст на день начала, иностранный приём, состав, язык выбранного потока, места и итоговый счёт. Заявки, аккаунты, сообщения, согласия и оплаты не выполнялись."
+      ],
+      "sources": [
+        {
+          "title": "Globeducate · July 2027 programme",
+          "url": "https://www.globeducate.com/international-experiences/summer-camps",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Linked brochure · explicitly 2026",
+          "url": "https://www.globeducate.com/fs/resource-manager/view/ea6db536-c4ee-4ad9-a1b3-d2176e984633",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "CP1411",
+      "slug": "wild-isards-andorra-english",
+      "provider": "Wild Isards · English holiday activity camps",
+      "iso": "AND",
+      "country": "Андорра",
+      "place": "Andorra",
+      "themes": [
+        "language",
+        "general",
+        "art",
+        "adventure"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "6–11; younger cohort subject to numbers",
+      "programme": "Все camps прямо объявлены на английском для разных уровней. Дневные игры, mountain parks, плавание, art, craft, sports. Указанные July 01–05 и другие периоды не имеют года; они не назначены на 2026 или 2027 по догадке.",
+      "language": "Организатор прямо пишет: все camps на английском, для разных уровней.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Цена нового сезона, полный invoice, места и условия ещё требуют подтверждения.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": null,
+        "currency": "EUR",
+        "amount": null,
+        "unit": "programme",
+        "label": "Страница без года: full day 09–17 с обедом EUR 225; half day до 12:30 EUR 175 / до 14:00 с обедом EUR 200. Единицу и новый сезон подтвердить; размеры sibling / multi-week скидок не указаны.",
+        "included": "",
+        "extras": "Перелёты, жильё родителей, местный транспорт, страховка и расходы вне включений отдельно; неизвестное не равно нулю.",
+        "deposit": "Цена нового сезона, полный invoice, места и условия ещё требуют подтверждения."
+      },
+      "accommodation": "Дневная программа без пансиона.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Подтвердить точный класс, возраст на день начала, иностранный приём, состав, язык выбранного потока, места и итоговый счёт. Заявки, аккаунты, сообщения, согласия и оплаты не выполнялись."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Подтвердить точный класс, возраст на день начала, иностранный приём, состав, язык выбранного потока, места и итоговый счёт. Заявки, аккаунты, сообщения, согласия и оплаты не выполнялись."
+        }
+      },
+      "editorial_reason": "Учебный проект, сертификат участия, конкурсное место и международная квота — разные результаты. Редакционный кандидат не является независимым мировым рейтингом.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить точный класс, возраст на день начала, иностранный приём, состав, язык выбранного потока, места и итоговый счёт. Заявки, аккаунты, сообщения, согласия и оплаты не выполнялись."
+      ],
+      "sources": [
+        {
+          "title": "Wild Isards · holiday camps",
+          "url": "https://www.wildisards.com/summercamps",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "CP1412",
+      "slug": "tak-moldova-smart-city-camp",
+      "provider": "Tekwill Academy Kids · Smart City",
+      "iso": "MDA",
+      "country": "Республика Молдова",
+      "place": "Chișinău · Tekwill / Galeria Plai; exact campus below",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "8–9",
+      "programme": "WeDo 2.0 + Scratch · Календарь следующей смены 2027 не опубликован. Название и цена программы не являются заявкой, местом или полным семейным счётом. Дневной формат с обедом и двумя snacks; обычный full day 09:00–18:00, Winter Quest 09:00–18:30. Преподавание STEM на EN / RU отдельно не подтверждено.",
+      "language": "Страница прямо включает занятия английским, но это не обещание преподавать робототехнику на английском. Общие фильтры English / Русский не подтверждают язык конкретной смены.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "language_lessons",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Цена нового сезона, полный invoice, места и условия ещё требуют подтверждения.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": null,
+        "currency": "MDL",
+        "amount": 5900,
+        "unit": "programme",
+        "label": "MDL 5900 · Опубликованная сумма за программу / вариант страницы; это не автоматически цена недели или тариф 2027. Длительность, включения и окончательный счёт подтвердить.",
+        "included": "По странице включены обед и два snacks; выдача робота в собственность не обещана.",
+        "extras": "Перелёты, жильё родителей, местный транспорт, страховка и расходы вне включений отдельно; неизвестное не равно нулю.",
+        "deposit": "Цена нового сезона, полный invoice, места и условия ещё требуют подтверждения."
+      },
+      "accommodation": "Дневная программа без пансиона.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "В 2027 возраст пересекает границу: точная дата рождения и начало смены обязательны. Подтвердить точный класс, возраст на день начала, иностранный приём, состав, язык выбранного потока, места и итоговый счёт. Заявки, аккаунты, сообщения, согласия и оплаты не выполнялись."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "В течение 2027 ребёнок ещё младше опубликованного минимума."
+        }
+      },
+      "editorial_reason": "Учебный проект, сертификат участия, конкурсное место и международная квота — разные результаты. Редакционный кандидат не является независимым мировым рейтингом.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить точный класс, возраст на день начала, иностранный приём, состав, язык выбранного потока, места и итоговый счёт. Заявки, аккаунты, сообщения, согласия и оплаты не выполнялись."
+      ],
+      "sources": [
+        {
+          "title": "Tekwill Academy Kids · Smart City",
+          "url": "https://tak.md/tabere/smart-city-camp/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "TAK · programme inventory",
+          "url": "https://tak.md/tabere/",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "CP1413",
+      "slug": "tak-moldova-robo-safari-camp",
+      "provider": "Tekwill Academy Kids · Robo Safari",
+      "iso": "MDA",
+      "country": "Республика Молдова",
+      "place": "Chișinău · Tekwill / Galeria Plai; exact campus below",
+      "themes": [
+        "robotics",
+        "science"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "8–9",
+      "programme": "WeDo 2.0 + Scratch · Календарь следующей смены 2027 не опубликован. Название и цена программы не являются заявкой, местом или полным семейным счётом. Дневной формат с обедом и двумя snacks; обычный full day 09:00–18:00, Winter Quest 09:00–18:30. Преподавание STEM на EN / RU отдельно не подтверждено.",
+      "language": "Страница прямо включает занятия английским, но это не обещание преподавать робототехнику на английском. Общие фильтры English / Русский не подтверждают язык конкретной смены.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "language_lessons",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Цена нового сезона, полный invoice, места и условия ещё требуют подтверждения.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": null,
+        "currency": "MDL",
+        "amount": 5900,
+        "unit": "programme",
+        "label": "MDL 5900 · Опубликованная сумма за программу / вариант страницы; это не автоматически цена недели или тариф 2027. Длительность, включения и окончательный счёт подтвердить.",
+        "included": "По странице включены обед и два snacks; выдача робота в собственность не обещана.",
+        "extras": "Перелёты, жильё родителей, местный транспорт, страховка и расходы вне включений отдельно; неизвестное не равно нулю.",
+        "deposit": "Цена нового сезона, полный invoice, места и условия ещё требуют подтверждения."
+      },
+      "accommodation": "Дневная программа без пансиона.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "В 2027 возраст пересекает границу: точная дата рождения и начало смены обязательны. Подтвердить точный класс, возраст на день начала, иностранный приём, состав, язык выбранного потока, места и итоговый счёт. Заявки, аккаунты, сообщения, согласия и оплаты не выполнялись."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "В течение 2027 ребёнок ещё младше опубликованного минимума."
+        }
+      },
+      "editorial_reason": "Учебный проект, сертификат участия, конкурсное место и международная квота — разные результаты. Редакционный кандидат не является независимым мировым рейтингом.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить точный класс, возраст на день начала, иностранный приём, состав, язык выбранного потока, места и итоговый счёт. Заявки, аккаунты, сообщения, согласия и оплаты не выполнялись."
+      ],
+      "sources": [
+        {
+          "title": "Tekwill Academy Kids · Robo Safari",
+          "url": "https://tak.md/tabere/robo-safari-camp/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "TAK · programme inventory",
+          "url": "https://tak.md/tabere/",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "CP1414",
+      "slug": "tak-moldova-tabara-de-electronica",
+      "provider": "Tekwill Academy Kids · Electronics",
+      "iso": "MDA",
+      "country": "Республика Молдова",
+      "place": "Chișinău · Tekwill / Galeria Plai; exact campus below",
+      "themes": [
+        "electronics",
+        "maker"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "9–10",
+      "programme": "low-voltage circuits / LEDs · Календарь следующей смены 2027 не опубликован. Название и цена программы не являются заявкой, местом или полным семейным счётом. Дневной формат с обедом и двумя snacks; обычный full day 09:00–18:00, Winter Quest 09:00–18:30. Преподавание STEM на EN / RU отдельно не подтверждено.",
+      "language": "Страница прямо включает занятия английским, но это не обещание преподавать робототехнику на английском. Общие фильтры English / Русский не подтверждают язык конкретной смены.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "language_lessons",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Цена нового сезона, полный invoice, места и условия ещё требуют подтверждения.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": null,
+        "currency": "MDL",
+        "amount": 3000,
+        "unit": "programme",
+        "label": "MDL 3000 · Опубликованная сумма за программу / вариант страницы; это не автоматически цена недели или тариф 2027. Длительность, включения и окончательный счёт подтвердить.",
+        "included": "По странице включены обед и два snacks; выдача робота в собственность не обещана.",
+        "extras": "Перелёты, жильё родителей, местный транспорт, страховка и расходы вне включений отдельно; неизвестное не равно нулю.",
+        "deposit": "Цена нового сезона, полный invoice, места и условия ещё требуют подтверждения."
+      },
+      "accommodation": "Дневная программа без пансиона.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Подтвердить точный класс, возраст на день начала, иностранный приём, состав, язык выбранного потока, места и итоговый счёт. Заявки, аккаунты, сообщения, согласия и оплаты не выполнялись."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "В течение 2027 ребёнок ещё младше опубликованного минимума."
+        }
+      },
+      "editorial_reason": "Учебный проект, сертификат участия, конкурсное место и международная квота — разные результаты. Редакционный кандидат не является независимым мировым рейтингом.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить точный класс, возраст на день начала, иностранный приём, состав, язык выбранного потока, места и итоговый счёт. Заявки, аккаунты, сообщения, согласия и оплаты не выполнялись."
+      ],
+      "sources": [
+        {
+          "title": "Tekwill Academy Kids · Electronics",
+          "url": "https://tak.md/tabere/tabara-de-electronica/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "TAK · programme inventory",
+          "url": "https://tak.md/tabere/",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "CP1415",
+      "slug": "tak-moldova-robomaker-camp",
+      "provider": "Tekwill Academy Kids · Robomaker · Bălți",
+      "iso": "MDA",
+      "country": "Республика Молдова",
+      "place": "Bălți · Strada Pușkin 38",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "9–11",
+      "programme": "EV3 + Space Challenge · Календарь следующей смены 2027 не опубликован. Название и цена программы не являются заявкой, местом или полным семейным счётом. Дневная программа 09:00–13:00, snack; не полный день с обедом. Robomaker описывает 2 недели, 3D — 10 дней. NASA / Space Challenge — тема учебных заданий, не отбор или аккредитация NASA.",
+      "language": "Язык сайта не доказывает язык занятий или судейства. EN / ES / RU для выбранного потока прямо не подтверждены.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Цена нового сезона, полный invoice, места и условия ещё требуют подтверждения.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": null,
+        "currency": "MDL",
+        "amount": 1500,
+        "unit": "programme",
+        "label": "MDL 1500 · Опубликованная сумма за программу / вариант страницы; это не автоматически цена недели или тариф 2027. Длительность, включения и окончательный счёт подтвердить.",
+        "included": "По странице включён один snack; обед не заявлен.",
+        "extras": "Перелёты, жильё родителей, местный транспорт, страховка и расходы вне включений отдельно; неизвестное не равно нулю.",
+        "deposit": "Цена нового сезона, полный invoice, места и условия ещё требуют подтверждения."
+      },
+      "accommodation": "Дневная программа без пансиона.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Подтвердить точный класс, возраст на день начала, иностранный приём, состав, язык выбранного потока, места и итоговый счёт. Заявки, аккаунты, сообщения, согласия и оплаты не выполнялись."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "В течение 2027 ребёнок ещё младше опубликованного минимума."
+        }
+      },
+      "editorial_reason": "Учебный проект, сертификат участия, конкурсное место и международная квота — разные результаты. Редакционный кандидат не является независимым мировым рейтингом.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить точный класс, возраст на день начала, иностранный приём, состав, язык выбранного потока, места и итоговый счёт. Заявки, аккаунты, сообщения, согласия и оплаты не выполнялись."
+      ],
+      "sources": [
+        {
+          "title": "Tekwill Academy Kids · Robomaker · Bălți",
+          "url": "https://tak.md/tabere/robomaker-camp/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "TAK · programme inventory",
+          "url": "https://tak.md/tabere/",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "CP1416",
+      "slug": "tak-moldova-robo-challenge-camp",
+      "provider": "Tekwill Academy Kids · Robo Challenge · FIRST preparation",
+      "iso": "MDA",
+      "country": "Республика Молдова",
+      "place": "Chișinău · Tekwill / Galeria Plai; exact campus below",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "10–13",
+      "programme": "mechanics / sensors / autonomous strategy · Календарь следующей смены 2027 не опубликован. Название и цена программы не являются заявкой, местом или полным семейным счётом. Дневной формат с обедом и двумя snacks; обычный full day 09:00–18:00, Winter Quest 09:00–18:30. Преподавание STEM на EN / RU отдельно не подтверждено.",
+      "language": "Страница прямо включает занятия английским, но это не обещание преподавать робототехнику на английском. Общие фильтры English / Русский не подтверждают язык конкретной смены.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "language_lessons",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Цена нового сезона, полный invoice, места и условия ещё требуют подтверждения.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": null,
+        "currency": "MDL",
+        "amount": 5900,
+        "unit": "programme",
+        "label": "MDL 5900 · Опубликованная сумма за программу / вариант страницы; это не автоматически цена недели или тариф 2027. Длительность, включения и окончательный счёт подтвердить.",
+        "included": "По странице включены обед и два snacks; выдача робота в собственность не обещана.",
+        "extras": "Перелёты, жильё родителей, местный транспорт, страховка и расходы вне включений отдельно; неизвестное не равно нулю.",
+        "deposit": "Цена нового сезона, полный invoice, места и условия ещё требуют подтверждения."
+      },
+      "accommodation": "Дневная программа без пансиона.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "В 2027 возраст пересекает границу: точная дата рождения и начало смены обязательны. Подтвердить точный класс, возраст на день начала, иностранный приём, состав, язык выбранного потока, места и итоговый счёт. Заявки, аккаунты, сообщения, согласия и оплаты не выполнялись."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "В течение 2027 ребёнок ещё младше опубликованного минимума."
+        }
+      },
+      "editorial_reason": "Связь с подготовкой FIRST прямо заявлена. Независимый от лагерного прайса национальный отчёт Clasa Viitorului подтверждает победу RoboRangers / Tekwill Academy Kids в Challenge 2026. Это результат команды, не гарантия отбора ребёнка или мировой рейтинг лагеря.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить точный класс, возраст на день начала, иностранный приём, состав, язык выбранного потока, места и итоговый счёт. Заявки, аккаунты, сообщения, согласия и оплаты не выполнялись."
+      ],
+      "sources": [
+        {
+          "title": "Tekwill Academy Kids · Robo Challenge · FIRST preparation",
+          "url": "https://tak.md/tabere/robo-challenge-camp/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "TAK · programme inventory",
+          "url": "https://tak.md/tabere/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "FLL Moldova · national result",
+          "url": "https://www.clasaviitorului.md/finala-first-lego-league-challenge-moldova-2026-transform-chi-ul-n-capitala-inovatorilor-n-robotic/",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "CP1417",
+      "slug": "tak-moldova-junior-tech-lab",
+      "provider": "Tekwill Academy Kids · Junior Tech Lab",
+      "iso": "MDA",
+      "country": "Республика Молдова",
+      "place": "Chișinău · Tekwill / Galeria Plai; exact campus below",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "7–8",
+      "programme": "WeDo 2.0 + ScratchJr · Календарь следующей смены 2027 не опубликован. Название и цена программы не являются заявкой, местом или полным семейным счётом. Дневной формат с обедом и двумя snacks; обычный full day 09:00–18:00, Winter Quest 09:00–18:30. Преподавание STEM на EN / RU отдельно не подтверждено.",
+      "language": "Страница прямо включает занятия английским, но это не обещание преподавать робототехнику на английском. Общие фильтры English / Русский не подтверждают язык конкретной смены.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "language_lessons",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Цена нового сезона, полный invoice, места и условия ещё требуют подтверждения.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": null,
+        "currency": "MDL",
+        "amount": 5900,
+        "unit": "programme",
+        "label": "MDL 5900 · Опубликованная сумма за программу / вариант страницы; это не автоматически цена недели или тариф 2027. Длительность, включения и окончательный счёт подтвердить.",
+        "included": "По странице включены обед и два snacks; выдача робота в собственность не обещана.",
+        "extras": "Перелёты, жильё родителей, местный транспорт, страховка и расходы вне включений отдельно; неизвестное не равно нулю.",
+        "deposit": "Цена нового сезона, полный invoice, места и условия ещё требуют подтверждения."
+      },
+      "accommodation": "Дневная программа без пансиона.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Ребёнок уже старше верхней границы этого младшего потока."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "В 2027 возраст пересекает границу: точная дата рождения и начало смены обязательны. Подтвердить точный класс, возраст на день начала, иностранный приём, состав, язык выбранного потока, места и итоговый счёт. Заявки, аккаунты, сообщения, согласия и оплаты не выполнялись."
+        }
+      },
+      "editorial_reason": "Учебный проект, сертификат участия, конкурсное место и международная квота — разные результаты. Редакционный кандидат не является независимым мировым рейтингом.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить точный класс, возраст на день начала, иностранный приём, состав, язык выбранного потока, места и итоговый счёт. Заявки, аккаунты, сообщения, согласия и оплаты не выполнялись."
+      ],
+      "sources": [
+        {
+          "title": "Tekwill Academy Kids · Junior Tech Lab",
+          "url": "https://tak.md/tabere/junior-tech-lab/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "TAK · programme inventory",
+          "url": "https://tak.md/tabere/",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "CP1418",
+      "slug": "tak-moldova-robocup-camp",
+      "provider": "Tekwill Academy Kids · RoboCup Camp · training, not league entry",
+      "iso": "MDA",
+      "country": "Республика Молдова",
+      "place": "Chișinău · Tekwill / Galeria Plai; exact campus below",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "7–8",
+      "programme": "SPIKE Essential · Календарь следующей смены 2027 не опубликован. Название и цена программы не являются заявкой, местом или полным семейным счётом. Дневной формат с обедом и двумя snacks; обычный full day 09:00–18:00, Winter Quest 09:00–18:30. Преподавание STEM на EN / RU отдельно не подтверждено. Название RoboCup не доказывает связь с RoboCupJunior или квоту на его финал.",
+      "language": "Страница прямо включает занятия английским, но это не обещание преподавать робототехнику на английском. Общие фильтры English / Русский не подтверждают язык конкретной смены.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "language_lessons",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Цена нового сезона, полный invoice, места и условия ещё требуют подтверждения.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": null,
+        "currency": "MDL",
+        "amount": 5900,
+        "unit": "programme",
+        "label": "MDL 5900 · Опубликованная сумма за программу / вариант страницы; это не автоматически цена недели или тариф 2027. Длительность, включения и окончательный счёт подтвердить.",
+        "included": "По странице включены обед и два snacks; выдача робота в собственность не обещана.",
+        "extras": "Перелёты, жильё родителей, местный транспорт, страховка и расходы вне включений отдельно; неизвестное не равно нулю.",
+        "deposit": "Цена нового сезона, полный invoice, места и условия ещё требуют подтверждения."
+      },
+      "accommodation": "Дневная программа без пансиона.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Ребёнок уже старше верхней границы этого младшего потока."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "В 2027 возраст пересекает границу: точная дата рождения и начало смены обязательны. Подтвердить точный класс, возраст на день начала, иностранный приём, состав, язык выбранного потока, места и итоговый счёт. Заявки, аккаунты, сообщения, согласия и оплаты не выполнялись."
+        }
+      },
+      "editorial_reason": "Учебный проект, сертификат участия, конкурсное место и международная квота — разные результаты. Редакционный кандидат не является независимым мировым рейтингом.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить точный класс, возраст на день начала, иностранный приём, состав, язык выбранного потока, места и итоговый счёт. Заявки, аккаунты, сообщения, согласия и оплаты не выполнялись."
+      ],
+      "sources": [
+        {
+          "title": "Tekwill Academy Kids · RoboCup Camp · training, not league entry",
+          "url": "https://tak.md/tabere/robocup-camp/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "TAK · programme inventory",
+          "url": "https://tak.md/tabere/",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "CP1419",
+      "slug": "tak-moldova-3d-camp-modeleaza-si-imprima-2",
+      "provider": "Tekwill Academy Kids · 3D Camp · Bălți",
+      "iso": "MDA",
+      "country": "Республика Молдова",
+      "place": "Bălți · Strada Pușkin 38",
+      "themes": [
+        "3d",
+        "maker"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "10–12",
+      "programme": "TinkerCAD / 3D printing · Календарь следующей смены 2027 не опубликован. Название и цена программы не являются заявкой, местом или полным семейным счётом. Дневная программа 09:00–13:00, snack; не полный день с обедом. Robomaker описывает 2 недели, 3D — 10 дней. NASA / Space Challenge — тема учебных заданий, не отбор или аккредитация NASA.",
+      "language": "Язык сайта не доказывает язык занятий или судейства. EN / ES / RU для выбранного потока прямо не подтверждены.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Цена нового сезона, полный invoice, места и условия ещё требуют подтверждения.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": null,
+        "currency": "MDL",
+        "amount": 1500,
+        "unit": "programme",
+        "label": "MDL 1500 · Опубликованная сумма за программу / вариант страницы; это не автоматически цена недели или тариф 2027. Длительность, включения и окончательный счёт подтвердить.",
+        "included": "По странице включён один snack; обед не заявлен.",
+        "extras": "Перелёты, жильё родителей, местный транспорт, страховка и расходы вне включений отдельно; неизвестное не равно нулю.",
+        "deposit": "Цена нового сезона, полный invoice, места и условия ещё требуют подтверждения."
+      },
+      "accommodation": "Дневная программа без пансиона.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "В 2027 возраст пересекает границу: точная дата рождения и начало смены обязательны. Подтвердить точный класс, возраст на день начала, иностранный приём, состав, язык выбранного потока, места и итоговый счёт. Заявки, аккаунты, сообщения, согласия и оплаты не выполнялись."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "В течение 2027 ребёнок ещё младше опубликованного минимума."
+        }
+      },
+      "editorial_reason": "Учебный проект, сертификат участия, конкурсное место и международная квота — разные результаты. Редакционный кандидат не является независимым мировым рейтингом.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить точный класс, возраст на день начала, иностранный приём, состав, язык выбранного потока, места и итоговый счёт. Заявки, аккаунты, сообщения, согласия и оплаты не выполнялись."
+      ],
+      "sources": [
+        {
+          "title": "Tekwill Academy Kids · 3D Camp · Bălți",
+          "url": "https://tak.md/tabere/3d-camp-modeleaza-si-imprima-2/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "TAK · programme inventory",
+          "url": "https://tak.md/tabere/",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "CP1420",
+      "slug": "tak-moldova-design-lab-tabara-de-grafica-digitala-si-ai",
+      "provider": "Tekwill Academy Kids · Design Lab AI · Bălți",
+      "iso": "MDA",
+      "country": "Республика Молдова",
+      "place": "Bălți · Strada Pușkin 38",
+      "themes": [
+        "ai",
+        "design"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "12–15",
+      "programme": "Photoshop / Canva / AI · Календарь следующей смены 2027 не опубликован. Название и цена программы не являются заявкой, местом или полным семейным счётом. Дневная программа 09:00–13:00, snack; не полный день с обедом. Robomaker описывает 2 недели, 3D — 10 дней. NASA / Space Challenge — тема учебных заданий, не отбор или аккредитация NASA.",
+      "language": "Язык сайта не доказывает язык занятий или судейства. EN / ES / RU для выбранного потока прямо не подтверждены.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Цена нового сезона, полный invoice, места и условия ещё требуют подтверждения.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": null,
+        "currency": "MDL",
+        "amount": 1500,
+        "unit": "programme",
+        "label": "MDL 1500 · Опубликованная сумма за программу / вариант страницы; это не автоматически цена недели или тариф 2027. Длительность, включения и окончательный счёт подтвердить.",
+        "included": "По странице включён один snack; обед не заявлен.",
+        "extras": "Перелёты, жильё родителей, местный транспорт, страховка и расходы вне включений отдельно; неизвестное не равно нулю.",
+        "deposit": "Цена нового сезона, полный invoice, места и условия ещё требуют подтверждения."
+      },
+      "accommodation": "Дневная программа без пансиона.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "В течение 2027 ребёнок ещё младше опубликованного минимума."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "В течение 2027 ребёнок ещё младше опубликованного минимума."
+        }
+      },
+      "editorial_reason": "Учебный проект, сертификат участия, конкурсное место и международная квота — разные результаты. Редакционный кандидат не является независимым мировым рейтингом.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить точный класс, возраст на день начала, иностранный приём, состав, язык выбранного потока, места и итоговый счёт. Заявки, аккаунты, сообщения, согласия и оплаты не выполнялись."
+      ],
+      "sources": [
+        {
+          "title": "Tekwill Academy Kids · Design Lab AI · Bălți",
+          "url": "https://tak.md/tabere/design-lab-tabara-de-grafica-digitala-si-ai/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "TAK · programme inventory",
+          "url": "https://tak.md/tabere/",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "CP1421",
+      "slug": "tak-moldova-informatica-competitiva",
+      "provider": "Tekwill Academy Kids · Competitive Informatics",
+      "iso": "MDA",
+      "country": "Республика Молдова",
+      "place": "Chișinău · Tekwill / Galeria Plai; exact campus below",
+      "themes": [
+        "coding",
+        "competition"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "9–12",
+      "programme": "algorithms / grade V–VI · Календарь следующей смены 2027 не опубликован. Название и цена программы не являются заявкой, местом или полным семейным счётом. Опубликован прошедший 20–25 июля 2026: пять учебных дней и субботний конкурс. Требуются и возраст 9–12, и класс V–VI; следующий сезон отдельно. Именно этот курс: 09:00–17:00, обед и два snacks; английские занятия на его странице не заявлены.",
+      "language": "Язык сайта не доказывает язык занятий или судейства. EN / ES / RU для выбранного потока прямо не подтверждены.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Цена нового сезона, полный invoice, места и условия ещё требуют подтверждения.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "currency": "MDL",
+        "amount": 5900,
+        "unit": "programme",
+        "label": "MDL 5900 · Опубликованная сумма за программу / вариант страницы; это не автоматически цена недели или тариф 2027. Длительность, включения и окончательный счёт подтвердить.",
+        "included": "По странице включены обед и два snacks; выдача робота в собственность не обещана.",
+        "extras": "Перелёты, жильё родителей, местный транспорт, страховка и расходы вне включений отдельно; неизвестное не равно нулю.",
+        "deposit": "Цена нового сезона, полный invoice, места и условия ещё требуют подтверждения."
+      },
+      "accommodation": "Дневная программа без пансиона.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Подтвердить точный класс, возраст на день начала, иностранный приём, состав, язык выбранного потока, места и итоговый счёт. Заявки, аккаунты, сообщения, согласия и оплаты не выполнялись. Числовой возраст не заменяет обязательный школьный класс."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "В течение 2027 ребёнок ещё младше опубликованного минимума. Числовой возраст не заменяет обязательный школьный класс."
+        }
+      },
+      "editorial_reason": "Учебный проект, сертификат участия, конкурсное место и международная квота — разные результаты. Редакционный кандидат не является независимым мировым рейтингом.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить точный класс, возраст на день начала, иностранный приём, состав, язык выбранного потока, места и итоговый счёт. Заявки, аккаунты, сообщения, согласия и оплаты не выполнялись."
+      ],
+      "sources": [
+        {
+          "title": "Tekwill Academy Kids · Competitive Informatics",
+          "url": "https://tak.md/tabere/informatica-competitiva/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "TAK · programme inventory",
+          "url": "https://tak.md/tabere/",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "CP1422",
+      "slug": "tak-moldova-winter-quest",
+      "provider": "Tekwill Academy Kids · Winter Quest · age and old-date conflict",
+      "iso": "MDA",
+      "country": "Республика Молдова",
+      "place": "Chișinău · Tekwill / Galeria Plai; exact campus below",
+      "themes": [
+        "robotics",
+        "gaming",
+        "3d"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "7–12 description / 10–12 metadata",
+      "programme": "robotics / game design / drones · Календарь следующей смены 2027 не опубликован. Название и цена программы не являются заявкой, местом или полным семейным счётом. Дневной формат с обедом и двумя snacks; обычный full day 09:00–18:00, Winter Quest 09:00–18:30. Преподавание STEM на EN / RU отдельно не подтверждено. Противоречие возраста 7–12 / 10–12; шапка «winter» показывает старт 26 октября 2025. Это не подтверждённая зима 2026–2027.",
+      "language": "Страница прямо включает занятия английским, но это не обещание преподавать робототехнику на английском. Общие фильтры English / Русский не подтверждают язык конкретной смены.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "language_lessons",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Цена нового сезона, полный invoice, места и условия ещё требуют подтверждения.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": null,
+        "currency": "MDL",
+        "amount": 2200,
+        "unit": "programme",
+        "label": "MDL 2200 · Опубликованная сумма за программу / вариант страницы; это не автоматически цена недели или тариф 2027. Длительность, включения и окончательный счёт подтвердить.",
+        "included": "По странице включены обед и два snacks; выдача робота в собственность не обещана.",
+        "extras": "Перелёты, жильё родителей, местный транспорт, страховка и расходы вне включений отдельно; неизвестное не равно нулю.",
+        "deposit": "Цена нового сезона, полный invoice, места и условия ещё требуют подтверждения."
+      },
+      "accommodation": "Дневная программа без пансиона.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Подтвердить точный класс, возраст на день начала, иностранный приём, состав, язык выбранного потока, места и итоговый счёт. Заявки, аккаунты, сообщения, согласия и оплаты не выполнялись."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "В 2027 возраст пересекает границу: точная дата рождения и начало смены обязательны. Подтвердить точный класс, возраст на день начала, иностранный приём, состав, язык выбранного потока, места и итоговый счёт. Заявки, аккаунты, сообщения, согласия и оплаты не выполнялись."
+        }
+      },
+      "editorial_reason": "Учебный проект, сертификат участия, конкурсное место и международная квота — разные результаты. Редакционный кандидат не является независимым мировым рейтингом.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить точный класс, возраст на день начала, иностранный приём, состав, язык выбранного потока, места и итоговый счёт. Заявки, аккаунты, сообщения, согласия и оплаты не выполнялись."
+      ],
+      "sources": [
+        {
+          "title": "Tekwill Academy Kids · Winter Quest · age and old-date conflict",
+          "url": "https://tak.md/tabere/winter-quest/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "TAK · programme inventory",
+          "url": "https://tak.md/tabere/",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "CP1423",
+      "slug": "tak-moldova-business-school-from-idea-to-business",
+      "provider": "Tekwill Academy Kids · Business School",
+      "iso": "MDA",
+      "country": "Республика Молдова",
+      "place": "Chișinău · Str. Pușkin 39 · Galeria Plai",
+      "themes": [
+        "entrepreneurship",
+        "general"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "12–16",
+      "programme": "startup concept · Календарь следующей смены 2027 не опубликован. Название и цена программы не являются заявкой, местом или полным семейным счётом. Опубликован интенсив 09:00–13:30 с одним snack; обед и преподавание на английском не заявлены.",
+      "language": "Язык сайта не доказывает язык занятий или судейства. EN / ES / RU для выбранного потока прямо не подтверждены.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Цена нового сезона, полный invoice, места и условия ещё требуют подтверждения.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": null,
+        "currency": "MDL",
+        "amount": 2499,
+        "unit": "programme",
+        "label": "MDL 2499 · Опубликованная сумма за программу / вариант страницы; это не автоматически цена недели или тариф 2027. Длительность, включения и окончательный счёт подтвердить.",
+        "included": "По странице включён один snack; обед не заявлен.",
+        "extras": "Перелёты, жильё родителей, местный транспорт, страховка и расходы вне включений отдельно; неизвестное не равно нулю.",
+        "deposit": "Цена нового сезона, полный invoice, места и условия ещё требуют подтверждения."
+      },
+      "accommodation": "Дневная программа без пансиона.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "В течение 2027 ребёнок ещё младше опубликованного минимума."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "В течение 2027 ребёнок ещё младше опубликованного минимума."
+        }
+      },
+      "editorial_reason": "Учебный проект, сертификат участия, конкурсное место и международная квота — разные результаты. Редакционный кандидат не является независимым мировым рейтингом.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить точный класс, возраст на день начала, иностранный приём, состав, язык выбранного потока, места и итоговый счёт. Заявки, аккаунты, сообщения, согласия и оплаты не выполнялись."
+      ],
+      "sources": [
+        {
+          "title": "Tekwill Academy Kids · Business School",
+          "url": "https://tak.md/tabere/business-school-from-idea-to-business/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "TAK · programme inventory",
+          "url": "https://tak.md/tabere/",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "CP1424",
+      "slug": "tak-moldova-tabara-de-pictura-atelierul-culorilor",
+      "provider": "Tekwill Academy Kids · Creative Painting",
+      "iso": "MDA",
+      "country": "Республика Молдова",
+      "place": "Chișinău · Galeria Plai / Tekwill",
+      "themes": [
+        "art",
+        "general"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "7–9",
+      "programme": "watercolour / gouache · Календарь следующей смены 2027 не опубликован. Название и цена программы не являются заявкой, местом или полным семейным счётом. Дневной формат с обедом и двумя snacks; обычный full day 09:00–18:00, Winter Quest 09:00–18:30. Преподавание STEM на EN / RU отдельно не подтверждено. Шапка указывает Galeria Plai, адресный блок — Tekwill на Studenților 9/11; площадку подтвердить.",
+      "language": "Страница прямо включает занятия английским, но это не обещание преподавать робототехнику на английском. Общие фильтры English / Русский не подтверждают язык конкретной смены.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "language_lessons",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Цена нового сезона, полный invoice, места и условия ещё требуют подтверждения.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": null,
+        "currency": "MDL",
+        "amount": 2499,
+        "unit": "programme",
+        "label": "MDL 2499 · Опубликованная сумма за программу / вариант страницы; это не автоматически цена недели или тариф 2027. Длительность, включения и окончательный счёт подтвердить.",
+        "included": "По странице включены обед и два snacks; выдача робота в собственность не обещана.",
+        "extras": "Перелёты, жильё родителей, местный транспорт, страховка и расходы вне включений отдельно; неизвестное не равно нулю.",
+        "deposit": "Цена нового сезона, полный invoice, места и условия ещё требуют подтверждения."
+      },
+      "accommodation": "Дневная программа без пансиона.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "В 2027 возраст пересекает границу: точная дата рождения и начало смены обязательны. Подтвердить точный класс, возраст на день начала, иностранный приём, состав, язык выбранного потока, места и итоговый счёт. Заявки, аккаунты, сообщения, согласия и оплаты не выполнялись."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "В 2027 возраст пересекает границу: точная дата рождения и начало смены обязательны. Подтвердить точный класс, возраст на день начала, иностранный приём, состав, язык выбранного потока, места и итоговый счёт. Заявки, аккаунты, сообщения, согласия и оплаты не выполнялись."
+        }
+      },
+      "editorial_reason": "Учебный проект, сертификат участия, конкурсное место и международная квота — разные результаты. Редакционный кандидат не является независимым мировым рейтингом.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить точный класс, возраст на день начала, иностранный приём, состав, язык выбранного потока, места и итоговый счёт. Заявки, аккаунты, сообщения, согласия и оплаты не выполнялись."
+      ],
+      "sources": [
+        {
+          "title": "Tekwill Academy Kids · Creative Painting",
+          "url": "https://tak.md/tabere/tabara-de-pictura-atelierul-culorilor/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "TAK · programme inventory",
+          "url": "https://tak.md/tabere/",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "CP1425",
+      "slug": "tak-moldova-adventure-english-camp-2026",
+      "provider": "Tekwill Academy Kids · Adventure English",
+      "iso": "MDA",
+      "country": "Республика Молдова",
+      "place": "Chișinău · Galeria Plai",
+      "themes": [
+        "language",
+        "adventure"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "10–12",
+      "programme": "English treasure hunts · Календарь следующей смены 2027 не опубликован. Название и цена программы не являются заявкой, местом или полным семейным счётом. Опубликованы 09:00–17:00, обед и два snacks, но новый сезон и цена ещё не подтверждены.",
+      "language": "Английская практика через treasure hunts и языковые задания прямо описана; это языковой лагерь, не доказательство английского преподавания робототехники.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "language_lessons",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Цена нового сезона, полный invoice, места и условия ещё требуют подтверждения.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "currency": "MDL",
+        "amount": null,
+        "unit": "programme",
+        "label": "Опубликованная сумма за программу / вариант страницы; это не автоматически цена недели или тариф 2027. Длительность, включения и окончательный счёт подтвердить.",
+        "included": "По странице включены обед и два snacks; выдача робота в собственность не обещана.",
+        "extras": "Перелёты, жильё родителей, местный транспорт, страховка и расходы вне включений отдельно; неизвестное не равно нулю.",
+        "deposit": "Цена нового сезона, полный invoice, места и условия ещё требуют подтверждения."
+      },
+      "accommodation": "Дневная программа без пансиона.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "В 2027 возраст пересекает границу: точная дата рождения и начало смены обязательны. Подтвердить точный класс, возраст на день начала, иностранный приём, состав, язык выбранного потока, места и итоговый счёт. Заявки, аккаунты, сообщения, согласия и оплаты не выполнялись."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "В течение 2027 ребёнок ещё младше опубликованного минимума."
+        }
+      },
+      "editorial_reason": "Учебный проект, сертификат участия, конкурсное место и международная квота — разные результаты. Редакционный кандидат не является независимым мировым рейтингом.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить точный класс, возраст на день начала, иностранный приём, состав, язык выбранного потока, места и итоговый счёт. Заявки, аккаунты, сообщения, согласия и оплаты не выполнялись."
+      ],
+      "sources": [
+        {
+          "title": "Tekwill Academy Kids · Adventure English",
+          "url": "https://tak.md/tabere/adventure-english-camp-2026/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "TAK · programme inventory",
+          "url": "https://tak.md/tabere/",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06"
     }
   ],
   "gaps": [
@@ -200910,7 +202154,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 178,
+  "version": 179,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",

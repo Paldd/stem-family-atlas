@@ -56838,6 +56838,294 @@ Limitaciones: KAFD oficial acredita tres vías: game development Python, robotic
 Fuente: https://www.kafd.jo/en/news.aspx?nid=447
 Se ha comprobado: 2026-11-06
 
+### L530 · Loopa · holiday robotics and maker camps · next-season watch
+
+lugar: Andorra · Andorra la Vella · C/ Dr. Vilanova 9, 2c
+Fecha: Precio de temporada nueva, invoice completo, plazas y condiciones aún requieren confirmación.
+edad: 5–14 on specific 2026 pages / 6–14 general
+Matway: Condicional: Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Óscar: Condicional: Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Formato: day_camp
+Idioma: Idioma de web no acredita idioma de clases o arbitraje. EN / ES / RU para grupo elegido sin confirmar expresamente.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Archivo 2026: semana morning EUR 220 / afternoon 120 / half day con comida 277.50 / full day con comida 362.50 / split sin comida 305. Dos semanas: 396 / 210 / 511 / 665 / 550. Precios client/sibling y paquete de 4 días separados en native facts. No tarifa 2027 ni suma de todas alternativas.
+Acceso: Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: Robotics, Scratch / ScratchJr, drones, 3D y maker. Portada anuncia campus 2026–2027; turnos futuros concretos aún sin fechar. Verano 2026: 6 semanas separadas del 6 de julio al 4 de septiembre, primeras 5 marcadas cerradas; máximo 2 semanas. Tots Sants del 26 al 30 de octubre de 2026 ya pasado. Sin trasladar fechas antiguas a 2027. Proyecto lectivo, certificado de participación, puesto competitivo y cupo internacional son resultados distintos. Candidato editorial no es ranking mundial independiente.
+Fuente: https://www.loopa.ad/campus/
+Se ha comprobado: 2026-11-06
+
+### L531 · British College of Andorra · English summer day camp · next-season watch
+
+lugar: Andorra · British College of Andorra
+Fecha: Precio de temporada nueva, invoice completo, plazas y condiciones aún requieren confirmación.
+edad: 2026: born 2015–2020 · Chimps / Leopards
+Matway: Condicional: Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Óscar: Condicional: Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Formato: day_camp
+Idioma: Práctica inglesa durante el día y English teachers cualificados expresamente anunciados. Campamento general de idioma / aventura, no robótica competitiva especializada.
+Marca de idioma: primary; soporte: no declarado
+Precio: Tarifas 2026 discrepantes: English full day EUR 265, Español / Català EUR 260. Half day 185 sin comida / 210 con comida; bus +35 por semana. 10% desde segunda semana o segundo niño; descuentos no acumulables. Full day incluye comida, snack, excursiones y 2 camisetas. Ninguna opción declarada precio 2027.
+Acceso: Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: 2026: cuatro semanas de julio desde semana del 6 de julio; niños extranjeros y de otros colegios expresamente invitados. Matvey 2017: Leopards; Oscar 2020: Chimps según tabla publicada 2026. Science, design, art, adventure; full day 09:00–16:45, entrada 08:45, recogida hasta 17:00. Calendario nuevo y grupos 2027 aún sin publicar. Proyecto lectivo, certificado de participación, puesto competitivo y cupo internacional son resultados distintos. Candidato editorial no es ranking mundial independiente.
+Fuente: https://www.britishcollegeandorra.com/en/summer-camp
+Se ha comprobado: 2026-11-06
+
+### L532 · Agora Andorra · Adventure Camp in the Pyrenees · next-season watch
+
+lugar: Andorra · Agora Andorra International School · La Massana
+Fecha: Julio de 2027, 1–3 semanas; días exactos de inicio / fin sin publicar.
+Edad: 8–15
+Matway: Condicional: Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Oscar: No actualmente: Durante 2027 el niño aún menor del mínimo publicado.
+formato: boarding_camp
+Idioma: Página 2027 ofrece expresamente elección English / French / Spanish para clases de idioma y workshops. Elección de grupo, no tres idiomas simultáneos.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: 2027: precio sin publicar. Archivo 2026: EUR 982 / 1542 / 2102 por 1 / 2 / 3 semanas, transfer Barcelona Airport solo en horario establecido. Sin prometer mismo precio ni traslado 2027.
+Acceso: Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: Página vigente de red anuncia julio de 2027, 1–3 semanas: actividades de montaña, STEAM workshops y 12 horas semanales de idioma elegido. Turnos exactos 2027 sin publicar. Folleto enlazado: 2026, del 5 al 26 de julio y EUR 982 / 1542 / 2102 por 1 / 2 / 3 semanas; archivo, no fechas ni precio 2027. Proyecto lectivo, certificado de participación, puesto competitivo y cupo internacional son resultados distintos. Candidato editorial no es ranking mundial independiente.
+Fuente: https://www.globeducate.com/international-experiences/summer-camps
+Se ha comprobado: 2026-11-06
+
+### L533 · Wild Isards · English holiday activity camps · next-season watch
+
+lugar: Andorra · Andorra
+Fecha: Precio de temporada nueva, invoice completo, plazas y condiciones aún requieren confirmación.
+edad: 6–11; younger cohort subject to numbers
+Matway: Condicional: Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Óscar: Condicional: Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Formato: day_camp
+Idioma: Organizador indica expresamente todos camps en inglés, para distintos niveles.
+Marca de idioma: primary; soporte: no declarado
+Precio: Página sin año: full day 09–17 con comida EUR 225; half day hasta 12:30 EUR 175 / hasta 14:00 con comida EUR 200. Confirmar unidad y temporada nueva; descuentos sibling / multi-week sin porcentaje publicado.
+Acceso: Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: Todos camps expresamente en inglés para distintos niveles. Juegos de día, mountain parks, natación, art, craft, sports. Periodos July 01–05 y otros sin año; no asignados por conjetura a 2026 ni 2027. Proyecto lectivo, certificado de participación, puesto competitivo y cupo internacional son resultados distintos. Candidato editorial no es ranking mundial independiente.
+Fuente: https://www.wildisards.com/summercamps
+Se ha comprobado: 2026-11-06
+
+### L534 · Tekwill Academy Kids · Smart City · next-season watch
+
+lugar: República de Moldavia · Chișinău · Tekwill / Galeria Plai; exact campus below
+Fecha: Precio de temporada nueva, invoice completo, plazas y condiciones aún requieren confirmación.
+Edad: 8–9
+Matway: Condicional: En 2027 edad cruza un límite: fecha exacta de nacimiento e inicio del turno obligatorios. Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Oscar: No actualmente: Durante 2027 el niño aún menor del mínimo publicado.
+Formato: day_camp
+Idioma: Página incluye expresamente clases de inglés, sin prometer robótica impartida en inglés. Filtros generales English / Ruso no acreditan idioma del turno concreto.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: MDL 5900 · Importe publicado por programa / opción de página; no automáticamente precio semanal ni tarifa 2027. Confirmar duración, inclusiones y factura final.
+Acceso: Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: WeDo 2.0 + Scratch · Calendario del siguiente turno 2027 sin publicar. Nombre y precio de programa no equivalen a solicitud, plaza ni factura familiar completa. Formato de día con comida y dos snacks; full day habitual 09:00–18:00, Winter Quest 09:00–18:30. Enseñanza STEM en EN / RU sin confirmar por separado. Proyecto lectivo, certificado de participación, puesto competitivo y cupo internacional son resultados distintos. Candidato editorial no es ranking mundial independiente.
+Fuente: https://tak.md/tabere/smart-city-camp/
+Se ha comprobado: 2026-11-06
+
+### L535 · Tekwill Academy Kids · Robo Safari · next-season watch
+
+lugar: República de Moldavia · Chișinău · Tekwill / Galeria Plai; exact campus below
+Fecha: Precio de temporada nueva, invoice completo, plazas y condiciones aún requieren confirmación.
+Edad: 8–9
+Matway: Condicional: En 2027 edad cruza un límite: fecha exacta de nacimiento e inicio del turno obligatorios. Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Oscar: No actualmente: Durante 2027 el niño aún menor del mínimo publicado.
+Formato: day_camp
+Idioma: Página incluye expresamente clases de inglés, sin prometer robótica impartida en inglés. Filtros generales English / Ruso no acreditan idioma del turno concreto.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: MDL 5900 · Importe publicado por programa / opción de página; no automáticamente precio semanal ni tarifa 2027. Confirmar duración, inclusiones y factura final.
+Acceso: Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: WeDo 2.0 + Scratch · Calendario del siguiente turno 2027 sin publicar. Nombre y precio de programa no equivalen a solicitud, plaza ni factura familiar completa. Formato de día con comida y dos snacks; full day habitual 09:00–18:00, Winter Quest 09:00–18:30. Enseñanza STEM en EN / RU sin confirmar por separado. Proyecto lectivo, certificado de participación, puesto competitivo y cupo internacional son resultados distintos. Candidato editorial no es ranking mundial independiente.
+Fuente: https://tak.md/tabere/robo-safari-camp/
+Se ha comprobado: 2026-11-06
+
+### L536 · Tekwill Academy Kids · Electronics · next-season watch
+
+lugar: República de Moldavia · Chișinău · Tekwill / Galeria Plai; exact campus below
+Fecha: Precio de temporada nueva, invoice completo, plazas y condiciones aún requieren confirmación.
+Edad: 9*10
+Matway: Condicional: Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Oscar: No actualmente: Durante 2027 el niño aún menor del mínimo publicado.
+Formato: day_camp
+Idioma: Página incluye expresamente clases de inglés, sin prometer robótica impartida en inglés. Filtros generales English / Ruso no acreditan idioma del turno concreto.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: MDL 3000 · Importe publicado por programa / opción de página; no automáticamente precio semanal ni tarifa 2027. Confirmar duración, inclusiones y factura final.
+Acceso: Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: low-voltage circuits / LEDs · Calendario del siguiente turno 2027 sin publicar. Nombre y precio de programa no equivalen a solicitud, plaza ni factura familiar completa. Formato de día con comida y dos snacks; full day habitual 09:00–18:00, Winter Quest 09:00–18:30. Enseñanza STEM en EN / RU sin confirmar por separado. Proyecto lectivo, certificado de participación, puesto competitivo y cupo internacional son resultados distintos. Candidato editorial no es ranking mundial independiente.
+Fuente: https://tak.md/tabere/tabara-de-electronica/
+Se ha comprobado: 2026-11-06
+
+### L537 · Tekwill Academy Kids · Robomaker · Bălți · next-season watch
+
+lugar: República de Moldavia · Bălți · Strada Pușkin 38
+Fecha: Precio de temporada nueva, invoice completo, plazas y condiciones aún requieren confirmación.
+Edad: 9–11
+Matway: Condicional: Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Oscar: No actualmente: Durante 2027 el niño aún menor del mínimo publicado.
+Formato: day_camp
+Idioma: Idioma de web no acredita idioma de clases o arbitraje. EN / ES / RU para grupo elegido sin confirmar expresamente.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: MDL 1500 · Importe publicado por programa / opción de página; no automáticamente precio semanal ni tarifa 2027. Confirmar duración, inclusiones y factura final.
+Acceso: Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: EV3 + Space Challenge · Calendario del siguiente turno 2027 sin publicar. Nombre y precio de programa no equivalen a solicitud, plaza ni factura familiar completa. Programa de día 09:00–13:00, snack; no jornada completa con comida. Robomaker describe 2 semanas, 3D: 10 días. NASA / Space Challenge: tema de ejercicios, no selección ni acreditación NASA. Proyecto lectivo, certificado de participación, puesto competitivo y cupo internacional son resultados distintos. Candidato editorial no es ranking mundial independiente.
+Fuente: https://tak.md/tabere/robomaker-camp/
+Se ha comprobado: 2026-11-06
+
+### L538 · Tekwill Academy Kids · Robo Challenge · FIRST preparation · next-season watch
+
+lugar: República de Moldavia · Chișinău · Tekwill / Galeria Plai; exact campus below
+Fecha: Precio de temporada nueva, invoice completo, plazas y condiciones aún requieren confirmación.
+edad: 10–13
+Matway: Condicional: En 2027 edad cruza un límite: fecha exacta de nacimiento e inicio del turno obligatorios. Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Oscar: No actualmente: Durante 2027 el niño aún menor del mínimo publicado.
+Formato: day_camp
+Idioma: Página incluye expresamente clases de inglés, sin prometer robótica impartida en inglés. Filtros generales English / Ruso no acreditan idioma del turno concreto.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: MDL 5900 · Importe publicado por programa / opción de página; no automáticamente precio semanal ni tarifa 2027. Confirmar duración, inclusiones y factura final.
+Acceso: Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: mechanics / sensors / autonomous strategy · Calendario del siguiente turno 2027 sin publicar. Nombre y precio de programa no equivalen a solicitud, plaza ni factura familiar completa. Formato de día con comida y dos snacks; full day habitual 09:00–18:00, Winter Quest 09:00–18:30. Enseñanza STEM en EN / RU sin confirmar por separado. Proyecto lectivo, certificado de participación, puesto competitivo y cupo internacional son resultados distintos. Candidato editorial no es ranking mundial independiente.
+Fuente: https://tak.md/tabere/robo-challenge-camp/
+Se ha comprobado: 2026-11-06
+
+### L539 · Tekwill Academy Kids · Junior Tech Lab · next-season watch
+
+lugar: República de Moldavia · Chișinău · Tekwill / Galeria Plai; exact campus below
+Fecha: Precio de temporada nueva, invoice completo, plazas y condiciones aún requieren confirmación.
+Edad: 7–8
+Matvey: No actualmente: Niño ya mayor del límite superior de este grupo menor.
+Óscar: Condicional: En 2027 edad cruza un límite: fecha exacta de nacimiento e inicio del turno obligatorios. Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Formato: day_camp
+Idioma: Página incluye expresamente clases de inglés, sin prometer robótica impartida en inglés. Filtros generales English / Ruso no acreditan idioma del turno concreto.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: MDL 5900 · Importe publicado por programa / opción de página; no automáticamente precio semanal ni tarifa 2027. Confirmar duración, inclusiones y factura final.
+Acceso: Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: WeDo 2.0 + ScratchJr · Calendario del siguiente turno 2027 sin publicar. Nombre y precio de programa no equivalen a solicitud, plaza ni factura familiar completa. Formato de día con comida y dos snacks; full day habitual 09:00–18:00, Winter Quest 09:00–18:30. Enseñanza STEM en EN / RU sin confirmar por separado. Proyecto lectivo, certificado de participación, puesto competitivo y cupo internacional son resultados distintos. Candidato editorial no es ranking mundial independiente.
+Fuente: https://tak.md/tabere/junior-tech-lab/
+Se ha comprobado: 2026-11-06
+
+### L540 · Tekwill Academy Kids · RoboCup Camp · training, not league entry · next-season watch
+
+lugar: República de Moldavia · Chișinău · Tekwill / Galeria Plai; exact campus below
+Fecha: Precio de temporada nueva, invoice completo, plazas y condiciones aún requieren confirmación.
+Edad: 7–8
+Matvey: No actualmente: Niño ya mayor del límite superior de este grupo menor.
+Óscar: Condicional: En 2027 edad cruza un límite: fecha exacta de nacimiento e inicio del turno obligatorios. Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Formato: day_camp
+Idioma: Página incluye expresamente clases de inglés, sin prometer robótica impartida en inglés. Filtros generales English / Ruso no acreditan idioma del turno concreto.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: MDL 5900 · Importe publicado por programa / opción de página; no automáticamente precio semanal ni tarifa 2027. Confirmar duración, inclusiones y factura final.
+Acceso: Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: SPIKE Essential · Calendario del siguiente turno 2027 sin publicar. Nombre y precio de programa no equivalen a solicitud, plaza ni factura familiar completa. Formato de día con comida y dos snacks; full day habitual 09:00–18:00, Winter Quest 09:00–18:30. Enseñanza STEM en EN / RU sin confirmar por separado. Nombre RoboCup no acredita vínculo con RoboCupJunior ni cupo a su final. Proyecto lectivo, certificado de participación, puesto competitivo y cupo internacional son resultados distintos. Candidato editorial no es ranking mundial independiente.
+Fuente: https://tak.md/tabere/robocup-camp/
+Se ha comprobado: 2026-11-06
+
+### L541 · Tekwill Academy Kids · 3D Camp · Bălți · next-season watch
+
+lugar: República de Moldavia · Bălți · Strada Pușkin 38
+Fecha: Precio de temporada nueva, invoice completo, plazas y condiciones aún requieren confirmación.
+Edad: 10*12
+Matway: Condicional: En 2027 edad cruza un límite: fecha exacta de nacimiento e inicio del turno obligatorios. Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Oscar: No actualmente: Durante 2027 el niño aún menor del mínimo publicado.
+Formato: day_camp
+Idioma: Idioma de web no acredita idioma de clases o arbitraje. EN / ES / RU para grupo elegido sin confirmar expresamente.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: MDL 1500 · Importe publicado por programa / opción de página; no automáticamente precio semanal ni tarifa 2027. Confirmar duración, inclusiones y factura final.
+Acceso: Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: TinkerCAD / 3D printing · Calendario del siguiente turno 2027 sin publicar. Nombre y precio de programa no equivalen a solicitud, plaza ni factura familiar completa. Programa de día 09:00–13:00, snack; no jornada completa con comida. Robomaker describe 2 semanas, 3D: 10 días. NASA / Space Challenge: tema de ejercicios, no selección ni acreditación NASA. Proyecto lectivo, certificado de participación, puesto competitivo y cupo internacional son resultados distintos. Candidato editorial no es ranking mundial independiente.
+Fuente: https://tak.md/tabere/3d-camp-modeleaza-si-imprima-2/
+Se ha comprobado: 2026-11-06
+
+### L542 · Tekwill Academy Kids · Design Lab AI · Bălți · next-season watch
+
+lugar: República de Moldavia · Bălți · Strada Pușkin 38
+Fecha: Precio de temporada nueva, invoice completo, plazas y condiciones aún requieren confirmación.
+Edad: 12–15
+Matvey: No actualmente: Durante 2027 el niño aún menor del mínimo publicado.
+Oscar: No actualmente: Durante 2027 el niño aún menor del mínimo publicado.
+Formato: day_camp
+Idioma: Idioma de web no acredita idioma de clases o arbitraje. EN / ES / RU para grupo elegido sin confirmar expresamente.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: MDL 1500 · Importe publicado por programa / opción de página; no automáticamente precio semanal ni tarifa 2027. Confirmar duración, inclusiones y factura final.
+Acceso: Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: Photoshop / Canva / AI · Calendario del siguiente turno 2027 sin publicar. Nombre y precio de programa no equivalen a solicitud, plaza ni factura familiar completa. Programa de día 09:00–13:00, snack; no jornada completa con comida. Robomaker describe 2 semanas, 3D: 10 días. NASA / Space Challenge: tema de ejercicios, no selección ni acreditación NASA. Proyecto lectivo, certificado de participación, puesto competitivo y cupo internacional son resultados distintos. Candidato editorial no es ranking mundial independiente.
+Fuente: https://tak.md/tabere/design-lab-tabara-de-grafica-digitala-si-ai/
+Se ha comprobado: 2026-11-06
+
+### L543 · Tekwill Academy Kids · Competitive Informatics · next-season watch
+
+lugar: República de Moldavia · Chișinău · Tekwill / Galeria Plai; exact campus below
+Fecha: Precio de temporada nueva, invoice completo, plazas y condiciones aún requieren confirmación.
+Edad: 9*12
+Matway: Condicional: Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos. Edad numérica no sustituye curso escolar obligatorio.
+Oscar: No actualmente: Durante 2027 el niño aún menor del mínimo publicado. Edad numérica no sustituye curso escolar obligatorio.
+Formato: day_camp
+Idioma: Idioma de web no acredita idioma de clases o arbitraje. EN / ES / RU para grupo elegido sin confirmar expresamente.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: MDL 5900 · Importe publicado por programa / opción de página; no automáticamente precio semanal ni tarifa 2027. Confirmar duración, inclusiones y factura final.
+Acceso: Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: algorithms / grade V–VI · Calendario del siguiente turno 2027 sin publicar. Nombre y precio de programa no equivalen a solicitud, plaza ni factura familiar completa. Publicado periodo pasado del 20 al 25 de julio de 2026: cinco días lectivos y concurso del sábado. Se requieren edad 9–12 y curso V–VI; temporada siguiente aparte. Este curso concreto: 09:00–17:00, comida y dos snacks; clases inglesas sin anunciar en su página. Proyecto lectivo, certificado de participación, puesto competitivo y cupo internacional son resultados distintos. Candidato editorial no es ranking mundial independiente.
+Fuente: https://tak.md/tabere/informatica-competitiva/
+Se ha comprobado: 2026-11-06
+
+### L544 · Tekwill Academy Kids · Winter Quest · age and old-date conflict · next-season watch
+
+lugar: República de Moldavia · Chișinău · Tekwill / Galeria Plai; exact campus below
+Fecha: Precio de temporada nueva, invoice completo, plazas y condiciones aún requieren confirmación.
+Edad: 7*12 description / 10–12 metadata
+Matway: Condicional: Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Óscar: Condicional: En 2027 edad cruza un límite: fecha exacta de nacimiento e inicio del turno obligatorios. Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Formato: day_camp
+Idioma: Página incluye expresamente clases de inglés, sin prometer robótica impartida en inglés. Filtros generales English / Ruso no acreditan idioma del turno concreto.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: MDL 2200 · Importe publicado por programa / opción de página; no automáticamente precio semanal ni tarifa 2027. Confirmar duración, inclusiones y factura final.
+Acceso: Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: robotics / game design / drones · Calendario del siguiente turno 2027 sin publicar. Nombre y precio de programa no equivalen a solicitud, plaza ni factura familiar completa. Formato de día con comida y dos snacks; full day habitual 09:00–18:00, Winter Quest 09:00–18:30. Enseñanza STEM en EN / RU sin confirmar por separado. Contradicción de edad 7–12 / 10–12; cabecera winter muestra inicio el 26 de octubre de 2025. No invierno 2026–2027 confirmado. Proyecto lectivo, certificado de participación, puesto competitivo y cupo internacional son resultados distintos. Candidato editorial no es ranking mundial independiente.
+Fuente: https://tak.md/tabere/winter-quest/
+Se ha comprobado: 2026-11-06
+
+### L545 · Tekwill Academy Kids · Business School · next-season watch
+
+lugar: República de Moldavia · Chișinău · Str. Pușkin 39 · Galeria Plai
+Fecha: Precio de temporada nueva, invoice completo, plazas y condiciones aún requieren confirmación.
+Edad: 12*16
+Matvey: No actualmente: Durante 2027 el niño aún menor del mínimo publicado.
+Oscar: No actualmente: Durante 2027 el niño aún menor del mínimo publicado.
+Formato: day_camp
+Idioma: Idioma de web no acredita idioma de clases o arbitraje. EN / ES / RU para grupo elegido sin confirmar expresamente.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: MDL 2499 · Importe publicado por programa / opción de página; no automáticamente precio semanal ni tarifa 2027. Confirmar duración, inclusiones y factura final.
+Acceso: Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: startup concept · Calendario del siguiente turno 2027 sin publicar. Nombre y precio de programa no equivalen a solicitud, plaza ni factura familiar completa. Intensivo publicado 09:00–13:30 con un snack; comida y enseñanza en inglés sin anunciar. Proyecto lectivo, certificado de participación, puesto competitivo y cupo internacional son resultados distintos. Candidato editorial no es ranking mundial independiente.
+Fuente: https://tak.md/tabere/business-school-from-idea-to-business/
+Se ha comprobado: 2026-11-06
+
+### L546 · Tekwill Academy Kids · Creative Painting · next-season watch
+
+lugar: República de Moldavia · Chișinău · Galeria Plai / Tekwill
+Fecha: Precio de temporada nueva, invoice completo, plazas y condiciones aún requieren confirmación.
+Edad: 7–9
+Matway: Condicional: En 2027 edad cruza un límite: fecha exacta de nacimiento e inicio del turno obligatorios. Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Óscar: Condicional: En 2027 edad cruza un límite: fecha exacta de nacimiento e inicio del turno obligatorios. Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Formato: day_camp
+Idioma: Página incluye expresamente clases de inglés, sin prometer robótica impartida en inglés. Filtros generales English / Ruso no acreditan idioma del turno concreto.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: MDL 2499 · Importe publicado por programa / opción de página; no automáticamente precio semanal ni tarifa 2027. Confirmar duración, inclusiones y factura final.
+Acceso: Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: watercolour / gouache · Calendario del siguiente turno 2027 sin publicar. Nombre y precio de programa no equivalen a solicitud, plaza ni factura familiar completa. Formato de día con comida y dos snacks; full day habitual 09:00–18:00, Winter Quest 09:00–18:30. Enseñanza STEM en EN / RU sin confirmar por separado. Cabecera indica Galeria Plai, bloque de dirección: Tekwill en Studenților 9/11; confirmar sede. Proyecto lectivo, certificado de participación, puesto competitivo y cupo internacional son resultados distintos. Candidato editorial no es ranking mundial independiente.
+Fuente: https://tak.md/tabere/tabara-de-pictura-atelierul-culorilor/
+Se ha comprobado: 2026-11-06
+
+### L547 · Tekwill Academy Kids · Adventure English · next-season watch
+
+lugar: República de Moldavia · Chișinău · Galeria Plai
+Fecha: Precio de temporada nueva, invoice completo, plazas y condiciones aún requieren confirmación.
+Edad: 10*12
+Matway: Condicional: En 2027 edad cruza un límite: fecha exacta de nacimiento e inicio del turno obligatorios. Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Oscar: No actualmente: Durante 2027 el niño aún menor del mínimo publicado.
+Formato: day_camp
+Idioma: Práctica inglesa mediante treasure hunts y tareas de idioma expresamente descrita; campamento de idioma, no prueba de robótica impartida en inglés.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: Importe publicado por programa / opción de página; no automáticamente precio semanal ni tarifa 2027. Confirmar duración, inclusiones y factura final.
+Acceso: Confirmar curso real, edad al inicio, admisión extranjera, composición, idioma del grupo elegido, plazas y factura final. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
+Limitaciones: English treasure hunts · Calendario del siguiente turno 2027 sin publicar. Nombre y precio de programa no equivalen a solicitud, plaza ni factura familiar completa. Publicados 09:00–17:00, comida y dos snacks, pero temporada nueva y precio aún sin confirmar. Proyecto lectivo, certificado de participación, puesto competitivo y cupo internacional son resultados distintos. Candidato editorial no es ranking mundial independiente.
+Fuente: https://tak.md/tabere/adventure-english-camp-2026/
+Se ha comprobado: 2026-11-06
+
 ### ~#C037 · WAICY 2026 · AI Showcase · Proyecto de solución del problema real
 
 lugar: en línea / mundo

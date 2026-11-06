@@ -1,0 +1,739 @@
+{
+  "version": 179,
+  "checked": "2026-11-06",
+  "request_count": 72,
+  "hash_verified": 71,
+  "failures": [
+    {
+      "key": "andorra-telecom",
+      "url": "https://www.andorratelecom.com/ca/",
+      "checked_at": "2026-11-06T09:24:21.807033+00:00",
+      "error": "<urlopen error timed out>"
+    }
+  ],
+  "requests": [
+    {
+      "key": "loopa-home",
+      "url": "https://www.loopa.ad/",
+      "checked_at": "2026-11-06T09:24:18.803706+00:00",
+      "status": 200,
+      "final_url": "https://www.loopa.ad/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 137602,
+      "sha256": "ebc7133bc1b6e1be6da0678d7b9e7fe166c8c72961b221ae94cb30d704283c9d"
+    },
+    {
+      "key": "loopa-campus",
+      "url": "https://www.loopa.ad/campus/",
+      "checked_at": "2026-11-06T09:24:18.804229+00:00",
+      "status": 200,
+      "final_url": "https://www.loopa.ad/campus/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 97042,
+      "sha256": "c5fb34d15e0f31910647541e930fcc0e1a84de92bcbd5ed25579a96c63c87bf8"
+    },
+    {
+      "key": "tak-camps-1",
+      "url": "https://tak.md/tabere/",
+      "checked_at": "2026-11-06T09:24:18.804331+00:00",
+      "status": 200,
+      "final_url": "https://tak.md/tabere/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 210227,
+      "sha256": "c529eff5bb13e589401a156884af4c70825720ff500acd50903c6de62003bdea"
+    },
+    {
+      "key": "tak-camps-2",
+      "url": "https://tak.md/tabere/page/2/",
+      "checked_at": "2026-11-06T09:24:18.804407+00:00",
+      "status": 200,
+      "final_url": "https://tak.md/tabere/page/2/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 210470,
+      "sha256": "119db77a124e364f9d41bea139b6b7e7a2c21a9933b96008b61359d15d4a2cd9"
+    },
+    {
+      "key": "tak-camps-3",
+      "url": "https://tak.md/tabere/page/3/",
+      "checked_at": "2026-11-06T09:24:18.804643+00:00",
+      "status": 200,
+      "final_url": "https://tak.md/tabere/page/3/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 188594,
+      "sha256": "3543b92f9c1d7ac3cbe743a1d090b3f72df6c4ca574c62d624c61230ab17863f"
+    },
+    {
+      "key": "tak-robo-challenge",
+      "url": "https://tak.md/tabere/robo-challenge-camp/",
+      "checked_at": "2026-11-06T09:24:21.004910+00:00",
+      "status": 200,
+      "final_url": "https://tak.md/tabere/robo-challenge-camp/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 131200,
+      "sha256": "f180fa944e100dacc20345e8c704b2cf064cc3018cb83cc13f16344366cf5993"
+    },
+    {
+      "key": "clasa-fll2026",
+      "url": "https://www.clasaviitorului.md/finala-first-lego-league-challenge-moldova-2026-transform-chi-ul-n-capitala-inovatorilor-n-robotic/",
+      "checked_at": "2026-11-06T09:24:21.022745+00:00",
+      "status": 200,
+      "final_url": "https://www.clasaviitorului.md/finala-first-lego-league-challenge-moldova-2026-transform-chi-ul-n-capitala-inovatorilor-n-robotic/",
+      "content_type": "text/html",
+      "bytes": 185297,
+      "sha256": "5cbf27563d4944355a1e39165b617e4755819f72471a7fce10c3739368135a6d"
+    },
+    {
+      "key": "tja-home",
+      "url": "https://tja.md/",
+      "checked_at": "2026-11-06T09:24:21.048440+00:00",
+      "status": 200,
+      "final_url": "https://tja.md/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 71141,
+      "sha256": "9b564cc5a5567f18161e4809fd1cb821f956b028d01561455280af907efab258"
+    },
+    {
+      "key": "andbotic-gov",
+      "url": "https://www.govern.ad/ca/w/una-setantena-d-alumnes-participen-en-la-3a-edicio-del-concurs-nacional-de-robotica-l-andbotic-challenge",
+      "checked_at": "2026-11-06T09:24:21.799708+00:00",
+      "status": 200,
+      "final_url": "https://www.govern.ad/ca/w/una-setantena-d-alumnes-participen-en-la-3a-edicio-del-concurs-nacional-de-robotica-l-andbotic-challenge",
+      "content_type": "text/html;charset=UTF-8",
+      "bytes": 660880,
+      "sha256": "c1193db308363ad7d2332ccad6ace11c87c185c954522d25cb4b713e3e8264ba"
+    },
+    {
+      "key": "andorra-telecom",
+      "url": "https://www.andorratelecom.com/ca/",
+      "checked_at": "2026-11-06T09:24:21.807033+00:00",
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "key": "inorbis-camps",
+      "url": "https://www.inorbis.net/ca/angles-montessori-kids-casals",
+      "checked_at": "2026-11-06T09:24:21.808020+00:00",
+      "status": 200,
+      "final_url": "https://www.inorbis.net/ca/angles-montessori-kids-casals",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 49044,
+      "sha256": "555a1cad1042cbc11fe3b01a7baa8f25c3692cfe1bb73c96e687e851d01cc7f8"
+    },
+    {
+      "key": "tja-rulebook",
+      "url": "https://tja.md/assets/documents/Regulament_TJA.pdf",
+      "checked_at": "2026-11-06T09:25:15.830417+00:00",
+      "status": 200,
+      "final_url": "https://tja.md/assets/documents/Regulament_TJA.pdf",
+      "content_type": "application/pdf",
+      "bytes": 500666,
+      "sha256": "270aa008630f9fc4e636d0fa9b0300bf982271a91824cc620e74bf6e9c3d297d"
+    },
+    {
+      "key": "loopa-competitions",
+      "url": "https://www.loopa.ad/competicions-2/",
+      "checked_at": "2026-11-06T09:25:15.830899+00:00",
+      "status": 200,
+      "final_url": "https://www.loopa.ad/competicions-2/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 85840,
+      "sha256": "224d76b2015e3bf71699863f704388908d01977a17b4b3d6f332ec20eb7b1314"
+    },
+    {
+      "key": "vex-andorra",
+      "url": "https://www.vexandorra.com/",
+      "checked_at": "2026-11-06T09:25:15.830990+00:00",
+      "status": 200,
+      "final_url": "https://www.vexandorra.com/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 160033,
+      "sha256": "8f6e5394c4811d2aa34290d36044dfb666d4cd9b6105c71e05522e58629c9ce3"
+    },
+    {
+      "key": "loopa-tots2026",
+      "url": "https://www.loopa.ad/producte/campus-tots-sants-2026-loopa/",
+      "checked_at": "2026-11-06T09:25:15.831055+00:00",
+      "status": 200,
+      "final_url": "https://www.loopa.ad/producte/campus-tots-sants-2026-loopa/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 154272,
+      "sha256": "679c5ae294ded82eb06925f7dd823aecabf868a8f90f06d032c4e2793432f1a7"
+    },
+    {
+      "key": "tak-3d-camp-modeleaza-si-imprima-2",
+      "url": "https://tak.md/tabere/3d-camp-modeleaza-si-imprima-2/",
+      "checked_at": "2026-11-06T09:25:15.831330+00:00",
+      "status": 200,
+      "final_url": "https://tak.md/tabere/3d-camp-modeleaza-si-imprima-2/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 133533,
+      "sha256": "f8c1a9b0e53203865d6213bd35746b3c5b5a5388a6436020b34e2458b94bf750"
+    },
+    {
+      "key": "tak-business-school-from-idea-to-business",
+      "url": "https://tak.md/tabere/business-school-from-idea-to-business/",
+      "checked_at": "2026-11-06T09:25:16.448348+00:00",
+      "status": 200,
+      "final_url": "https://tak.md/tabere/business-school-from-idea-to-business/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 131817,
+      "sha256": "643f65b2c6a7e4e23e57e493bec28ea4b8ce9be15ff93f70f22ba29d394cd66d"
+    },
+    {
+      "key": "tak-design-lab-canva-adobe-edition",
+      "url": "https://tak.md/tabere/design-lab-canva-adobe-edition/",
+      "checked_at": "2026-11-06T09:25:16.601905+00:00",
+      "status": 200,
+      "final_url": "https://tak.md/tabere/design-lab-canva-adobe-edition/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 129954,
+      "sha256": "5d857d28920a969f98b6d9a6a4692b15898fb88110aa112a045911fbb7bd31d0"
+    },
+    {
+      "key": "tak-design-lab-tabara-de-grafica-digitala-si-ai",
+      "url": "https://tak.md/tabere/design-lab-tabara-de-grafica-digitala-si-ai/",
+      "checked_at": "2026-11-06T09:25:16.856464+00:00",
+      "status": 200,
+      "final_url": "https://tak.md/tabere/design-lab-tabara-de-grafica-digitala-si-ai/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 133539,
+      "sha256": "4fdb6a69a5bc2824d8b7daf48aa170c55a31b9ca29817adae04bc1926cec28ae"
+    },
+    {
+      "key": "tak-herobot-camp",
+      "url": "https://tak.md/tabere/herobot-camp/",
+      "checked_at": "2026-11-06T09:25:16.971242+00:00",
+      "status": 200,
+      "final_url": "https://tak.md/tabere/herobot-camp/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 131137,
+      "sha256": "1638f9b28aa39d7175944be613c55a43bf7e1b0d8066bbc241ac47b03387e26b"
+    },
+    {
+      "key": "tak-informatica-competitiva",
+      "url": "https://tak.md/tabere/informatica-competitiva/",
+      "checked_at": "2026-11-06T09:25:17.203560+00:00",
+      "status": 200,
+      "final_url": "https://tak.md/tabere/informatica-competitiva/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 136757,
+      "sha256": "478ecee3d421d03470eac757296a86048dc3d037ed5b278b79ab97c22672559f"
+    },
+    {
+      "key": "tak-junior-tech-lab",
+      "url": "https://tak.md/tabere/junior-tech-lab/",
+      "checked_at": "2026-11-06T09:25:17.361053+00:00",
+      "status": 200,
+      "final_url": "https://tak.md/tabere/junior-tech-lab/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 127772,
+      "sha256": "40d38be73b0cbafce6936a9ca12bc7b19332358da80a1e26d81c0c0ce37a05f7"
+    },
+    {
+      "key": "tak-matematica-competitiva",
+      "url": "https://tak.md/tabere/matematica-competitiva/",
+      "checked_at": "2026-11-06T09:25:17.407101+00:00",
+      "status": 200,
+      "final_url": "https://tak.md/tabere/matematica-competitiva/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 133377,
+      "sha256": "a93d55d1a4d3b7269dad55a6315105d92e1bec57323c03b9830b6ce51c2368b9"
+    },
+    {
+      "key": "tak-robo-safari-camp",
+      "url": "https://tak.md/tabere/robo-safari-camp/",
+      "checked_at": "2026-11-06T09:25:17.546283+00:00",
+      "status": 200,
+      "final_url": "https://tak.md/tabere/robo-safari-camp/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 131737,
+      "sha256": "7f4ee6a5ee3909999a4d603ff76d203ab5fe75e0e354576aec2324b985f615e4"
+    },
+    {
+      "key": "tak-robocup-camp",
+      "url": "https://tak.md/tabere/robocup-camp/",
+      "checked_at": "2026-11-06T09:25:17.799064+00:00",
+      "status": 200,
+      "final_url": "https://tak.md/tabere/robocup-camp/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 131289,
+      "sha256": "024b2fdd026cc328086af7f24e0fad9d761da3df3737450b6c6030c7aa268189"
+    },
+    {
+      "key": "tak-robomaker-camp",
+      "url": "https://tak.md/tabere/robomaker-camp/",
+      "checked_at": "2026-11-06T09:25:17.920019+00:00",
+      "status": 200,
+      "final_url": "https://tak.md/tabere/robomaker-camp/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 132562,
+      "sha256": "9c39c0e4d5971dc78282471d99873f8841f566b9af925a025737969a93d3d656"
+    },
+    {
+      "key": "tak-robotic-easter",
+      "url": "https://tak.md/tabere/robotic-easter/",
+      "checked_at": "2026-11-06T09:25:18.044288+00:00",
+      "status": 200,
+      "final_url": "https://tak.md/tabere/robotic-easter/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 132415,
+      "sha256": "16a0ab0665162678a911e9e0c066c9e8e50d799f55153296bb038fa58aab15d4"
+    },
+    {
+      "key": "tak-robotica-milo",
+      "url": "https://tak.md/tabere/robotica-milo/",
+      "checked_at": "2026-11-06T09:25:18.259447+00:00",
+      "status": 200,
+      "final_url": "https://tak.md/tabere/robotica-milo/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 129297,
+      "sha256": "c23644f3617247fb3c488060b5d5432ee0894566ab210b1627f6359b724aa1b0"
+    },
+    {
+      "key": "tak-smart-city-camp",
+      "url": "https://tak.md/tabere/smart-city-camp/",
+      "checked_at": "2026-11-06T09:25:18.356932+00:00",
+      "status": 200,
+      "final_url": "https://tak.md/tabere/smart-city-camp/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 131029,
+      "sha256": "f73234ae50bf3424efdf74b3b3abfa967f4cfe7a56f142c79f6582af84b1b613"
+    },
+    {
+      "key": "tak-spike-champions-league",
+      "url": "https://tak.md/tabere/spike-champions-league/",
+      "checked_at": "2026-11-06T09:25:18.502485+00:00",
+      "status": 200,
+      "final_url": "https://tak.md/tabere/spike-champions-league/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 138686,
+      "sha256": "146f2436cde9cbdb08c3d69c65d97ccc1fa5e8a408bbadabd54a195d7fa90c4c"
+    },
+    {
+      "key": "tak-tabara-de-electronica",
+      "url": "https://tak.md/tabere/tabara-de-electronica/",
+      "checked_at": "2026-11-06T09:25:18.532848+00:00",
+      "status": 200,
+      "final_url": "https://tak.md/tabere/tabara-de-electronica/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 135018,
+      "sha256": "930ddf96a7df18fcda2c5854b5580468df8055ccfaf1497dd9ed6f0b8c4fecbe"
+    },
+    {
+      "key": "tak-tabara-de-pictura-atelierul-culorilor",
+      "url": "https://tak.md/tabere/tabara-de-pictura-atelierul-culorilor/",
+      "checked_at": "2026-11-06T09:25:18.595126+00:00",
+      "status": 200,
+      "final_url": "https://tak.md/tabere/tabara-de-pictura-atelierul-culorilor/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 132014,
+      "sha256": "b61c9f01cff38fa692327f116ca3a594ef7a1225d5ce1c8d0bebaa7152c96ca6"
+    },
+    {
+      "key": "tak-tabara-de-pictura-digitala",
+      "url": "https://tak.md/tabere/tabara-de-pictura-digitala/",
+      "checked_at": "2026-11-06T09:25:18.824226+00:00",
+      "status": 200,
+      "final_url": "https://tak.md/tabere/tabara-de-pictura-digitala/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 134307,
+      "sha256": "5cebcd60388d6d65235eead49d8942f5a920851dcbf6663f36f399fd470e9f59"
+    },
+    {
+      "key": "tak-tabara-robotica-si-programare",
+      "url": "https://tak.md/tabere/tabara-robotica-si-programare/",
+      "checked_at": "2026-11-06T09:25:18.912130+00:00",
+      "status": 200,
+      "final_url": "https://tak.md/tabere/tabara-robotica-si-programare/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 133082,
+      "sha256": "1a7367b524381bb7299b8abb28cc8ca340dfa885df17a1c12a645ea27ed520c0"
+    },
+    {
+      "key": "tak-tabere-de-primavara",
+      "url": "https://tak.md/tabere/tabere-de-primavara/",
+      "checked_at": "2026-11-06T09:25:19.069547+00:00",
+      "status": 200,
+      "final_url": "https://tak.md/tabere/tabere-de-primavara/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 139289,
+      "sha256": "cee1210479770ea7ae8ccc376d7ffbeaca5efadfb2f2a5d44207d4eb86909ccf"
+    },
+    {
+      "key": "tak-tech-champions-league",
+      "url": "https://tak.md/tabere/tech-champions-league/",
+      "checked_at": "2026-11-06T09:25:19.114239+00:00",
+      "status": 200,
+      "final_url": "https://tak.md/tabere/tech-champions-league/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 134073,
+      "sha256": "f344a3bd29c0add3a65b589a25dd112edd3a8580639920d6b461429c880c11ca"
+    },
+    {
+      "key": "tak-vocea-mea-conteaza",
+      "url": "https://tak.md/tabere/vocea-mea-conteaza/",
+      "checked_at": "2026-11-06T09:25:19.384096+00:00",
+      "status": 200,
+      "final_url": "https://tak.md/tabere/vocea-mea-conteaza/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 131003,
+      "sha256": "72e57da9a6bc2976d0c304874d32a3c4c307879493b525b9f6c1f02eec2d68cb"
+    },
+    {
+      "key": "tak-web-master",
+      "url": "https://tak.md/tabere/web-master/",
+      "checked_at": "2026-11-06T09:25:19.421425+00:00",
+      "status": 200,
+      "final_url": "https://tak.md/tabere/web-master/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 129808,
+      "sha256": "b3f5424a1f3d2a07f111cceb68065a1efb566c41eeb8eac526682a21a71280f2"
+    },
+    {
+      "key": "tak-winter-quest",
+      "url": "https://tak.md/tabere/winter-quest/",
+      "checked_at": "2026-11-06T09:25:19.438549+00:00",
+      "status": 200,
+      "final_url": "https://tak.md/tabere/winter-quest/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 129676,
+      "sha256": "6d1b713804a0c8ab7476063dddbbcd812bcaf8d38b3334dcbb0cee46fe819ad6"
+    },
+    {
+      "key": "tak-3d-camp-modeleaza-si-imprima",
+      "url": "https://tak.md/tabere/3d-camp-modeleaza-si-imprima/",
+      "checked_at": "2026-11-06T09:25:19.629340+00:00",
+      "status": 200,
+      "final_url": "https://tak.md/tabere/3d-camp-modeleaza-si-imprima/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 127564,
+      "sha256": "15fbef9893adc282992981b0511c07d8fa7b8dfa40e59667af3d25831bc78e4d"
+    },
+    {
+      "key": "tak-adventure-english-camp-2026",
+      "url": "https://tak.md/tabere/adventure-english-camp-2026/",
+      "checked_at": "2026-11-06T09:25:19.659352+00:00",
+      "status": 200,
+      "final_url": "https://tak.md/tabere/adventure-english-camp-2026/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 128930,
+      "sha256": "f341433738782cbf2a29135e8b7a4da49f0ba0df6c7881b8b05323a40d05507c"
+    },
+    {
+      "key": "tak-arta-vorbirii-si-interpretarii",
+      "url": "https://tak.md/tabere/arta-vorbirii-si-interpretarii/",
+      "checked_at": "2026-11-06T09:25:19.974932+00:00",
+      "status": 200,
+      "final_url": "https://tak.md/tabere/arta-vorbirii-si-interpretarii/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 127738,
+      "sha256": "3b59d76b2dce0007f7d96c97e16c2fafd88f34234e8bc739ee7eb3d7da5af5f3"
+    },
+    {
+      "key": "tak-atelier-de-pictura-editia-de-paste-2026",
+      "url": "https://tak.md/tabere/atelier-de-pictura-editia-de-paste-2026/",
+      "checked_at": "2026-11-06T09:25:20.016471+00:00",
+      "status": 200,
+      "final_url": "https://tak.md/tabere/atelier-de-pictura-editia-de-paste-2026/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 133740,
+      "sha256": "9c8a8daeea7651fefe8831048589f24138b2dd507893a80f5210aeec32181620"
+    },
+    {
+      "key": "tak-business-school-camp-intensiv-online",
+      "url": "https://tak.md/tabere/business-school-camp-intensiv-online/",
+      "checked_at": "2026-11-06T09:25:20.050669+00:00",
+      "status": 200,
+      "final_url": "https://tak.md/tabere/business-school-camp-intensiv-online/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 151574,
+      "sha256": "f9028a930488b6baa8ce13407d1da2c565b825224cf3e89b0293869ec36fa98d"
+    },
+    {
+      "key": "tak-business-school-intensiv-12-14-ani",
+      "url": "https://tak.md/tabere/business-school-intensiv-12-14-ani/",
+      "checked_at": "2026-11-06T09:25:20.253821+00:00",
+      "status": 200,
+      "final_url": "https://tak.md/tabere/business-school-intensiv-12-14-ani/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 154204,
+      "sha256": "ae60c27f64cb291d72bc7f740b5f0e60fa8829470f2677b11f141a72d9ddf581"
+    },
+    {
+      "key": "tak-business-school-intensiv-15-18-ani",
+      "url": "https://tak.md/tabere/business-school-intensiv-15-18-ani/",
+      "checked_at": "2026-11-06T09:25:20.263951+00:00",
+      "status": 200,
+      "final_url": "https://tak.md/tabere/business-school-intensiv-15-18-ani/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 155352,
+      "sha256": "9397fd01f5b7223985f83c7efa8e4d643c1d6b0c7abf9f57208b09e02db777fc"
+    },
+    {
+      "key": "tak-code-with-python",
+      "url": "https://tak.md/tabere/code-with-python/",
+      "checked_at": "2026-11-06T09:25:20.614363+00:00",
+      "status": 200,
+      "final_url": "https://tak.md/tabere/code-with-python/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 130820,
+      "sha256": "049c6bd6e7004e7ac0a70a8300301a17484e31f842a70762ccad0c9e053a497a"
+    },
+    {
+      "key": "tak-digital-explorers",
+      "url": "https://tak.md/tabere/digital-explorers/",
+      "checked_at": "2026-11-06T09:25:20.614833+00:00",
+      "status": 200,
+      "final_url": "https://tak.md/tabere/digital-explorers/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 127485,
+      "sha256": "9f54d83a49bf63eb0f0e04258990c1161fc4d16253bbae0e105872501a6561bf"
+    },
+    {
+      "key": "tak-junior-startup-tak",
+      "url": "https://tak.md/tabere/junior-startup-tak/",
+      "checked_at": "2026-11-06T09:25:20.633786+00:00",
+      "status": 200,
+      "final_url": "https://tak.md/tabere/junior-startup-tak/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 127616,
+      "sha256": "e67de3021fc0cf8289a58c743e297a1e596ba8c2be14a032146c0a686a0f204c"
+    },
+    {
+      "key": "tak-micii-creatori-de-continut",
+      "url": "https://tak.md/tabere/micii-creatori-de-continut/",
+      "checked_at": "2026-11-06T09:25:20.851066+00:00",
+      "status": 200,
+      "final_url": "https://tak.md/tabere/micii-creatori-de-continut/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 129527,
+      "sha256": "15d58550e417d245d524e0c85b6250fd3ac02c3f162a7376e529d84b65e2d96f"
+    },
+    {
+      "key": "tak-cyber-pioneers",
+      "url": "https://tak.md/tabere/cyber-pioneers/",
+      "checked_at": "2026-11-06T09:25:20.862338+00:00",
+      "status": 200,
+      "final_url": "https://tak.md/tabere/cyber-pioneers/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 133664,
+      "sha256": "bc458dbe74fb1ea34ab4e676193106de6e2cc7c8d56eabef662f2b1dd1df53e8"
+    },
+    {
+      "key": "tak-digital-easter-startup-2026",
+      "url": "https://tak.md/tabere/digital-easter-startup-2026/",
+      "checked_at": "2026-11-06T09:25:21.231992+00:00",
+      "status": 200,
+      "final_url": "https://tak.md/tabere/digital-easter-startup-2026/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 132190,
+      "sha256": "129ecae16d86287ff7b5e63ae207cb3cd0c1b1d6e2f6a31d7ad694c06c3d3f72"
+    },
+    {
+      "key": "tak-pictura-clasica",
+      "url": "https://tak.md/tabere/pictura-clasica/",
+      "checked_at": "2026-11-06T09:25:21.233561+00:00",
+      "status": 200,
+      "final_url": "https://tak.md/tabere/pictura-clasica/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 137969,
+      "sha256": "7f0a7c0dc237bf043e0526c07e0c98d518c4a601e46956419fb01abc1da6f16b"
+    },
+    {
+      "key": "tak-steam-exploratori-ai-cunoasterii",
+      "url": "https://tak.md/tabere/steam-exploratori-ai-cunoasterii/",
+      "checked_at": "2026-11-06T09:25:21.233789+00:00",
+      "status": 200,
+      "final_url": "https://tak.md/tabere/steam-exploratori-ai-cunoasterii/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 135043,
+      "sha256": "dad7b19999176b49147ade64987977a6fec9dad89e69ef5a413b09d2b628c663"
+    },
+    {
+      "key": "tak-tabere-de-primavara-cu-3-tematici-diferite-%f0%9f%a4%a9",
+      "url": "https://tak.md/tabere/tabere-de-primavara-cu-3-tematici-diferite-%f0%9f%a4%a9/",
+      "checked_at": "2026-11-06T09:25:21.375718+00:00",
+      "status": 200,
+      "final_url": "https://tak.md/tabere/tabere-de-primavara-cu-3-tematici-diferite-%f0%9f%a4%a9/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 135838,
+      "sha256": "485d13fd91d1139898c3951fcc2e4aab0d9e7d738326f469f2aae8e0bd7ba593"
+    },
+    {
+      "key": "vex-open2027",
+      "url": "https://www.vexandorra.com/european-open-event-2027",
+      "checked_at": "2026-11-06T09:28:05.225521+00:00",
+      "status": 200,
+      "final_url": "https://www.vexandorra.com/european-open-event-2027",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 190637,
+      "sha256": "f7c1a9c00642011ad4ab027ab73dc74bb728ea54268e39903fd4b9d7c8c57952"
+    },
+    {
+      "key": "vex-iq",
+      "url": "https://www.vexandorra.com/vex-viqrc",
+      "checked_at": "2026-11-06T09:28:05.226022+00:00",
+      "status": 200,
+      "final_url": "https://www.vexandorra.com/vex-viqrc",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 162545,
+      "sha256": "4de08a211fea04891fcece4579ef6fa0f731bddac7a1ef2b9f2b0dbc998bfb1e"
+    },
+    {
+      "key": "vex-v5",
+      "url": "https://www.vexandorra.com/vex-v5rc",
+      "checked_at": "2026-11-06T09:28:05.226121+00:00",
+      "status": 200,
+      "final_url": "https://www.vexandorra.com/vex-v5rc",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 166372,
+      "sha256": "a48d0f8b6682933b896529685a0bc05d22ff146b860c474573cbba4a739cb9f0"
+    },
+    {
+      "key": "loopa-summer2026",
+      "url": "https://www.loopa.ad/producte/campus-estiu-2026/",
+      "checked_at": "2026-11-06T09:28:05.226184+00:00",
+      "status": 200,
+      "final_url": "https://www.loopa.ad/producte/campus-estiu-2026/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 167814,
+      "sha256": "0d7705161853e707b7617861c78629e7c8d26caea7cd9d3dc42dac90c1e7073c"
+    },
+    {
+      "key": "bca-camp-en",
+      "url": "https://www.britishcollegeandorra.com/en/summer-camp",
+      "checked_at": "2026-11-06T09:28:05.226416+00:00",
+      "status": 200,
+      "final_url": "https://www.britishcollegeandorra.com/en/summer-camp",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 49300,
+      "sha256": "74c66a9012b9815b81c021ec48eb9899b6eac6690f628a9e1871cf1744c76b51"
+    },
+    {
+      "key": "bca-camp-es",
+      "url": "https://www.britishcollegeandorra.com/es/summer-camp",
+      "checked_at": "2026-11-06T09:28:05.794519+00:00",
+      "status": 200,
+      "final_url": "https://www.britishcollegeandorra.com/es/summer-camp",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 52256,
+      "sha256": "94aa3b33335ded01356045e28099019d734422d8cc823be6ac54b180cd5c741f"
+    },
+    {
+      "key": "bca-camp-ca",
+      "url": "https://www.britishcollegeandorra.com/ca/summer-camp",
+      "checked_at": "2026-11-06T09:28:05.797168+00:00",
+      "status": 200,
+      "final_url": "https://www.britishcollegeandorra.com/ca/summer-camp",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 51321,
+      "sha256": "d02727f4c0ed472c211cade946834141674b52ac0c7ac87d8a96c7e70e547bbd"
+    },
+    {
+      "key": "globeducate-camps",
+      "url": "https://www.globeducate.com/international-experiences/summer-camps",
+      "checked_at": "2026-11-06T09:28:05.806284+00:00",
+      "status": 200,
+      "final_url": "https://www.globeducate.com/international-experiences/summer-camps",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 91849,
+      "sha256": "c9516741a1f0dc7c3a39e47b1110941d503357ce948620354a1f3e851bdbc822"
+    },
+    {
+      "key": "wild-isards",
+      "url": "https://www.wildisards.com/summercamps",
+      "checked_at": "2026-11-06T09:28:06.260836+00:00",
+      "status": 200,
+      "final_url": "https://www.wildisards.com/summercamps",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 967731,
+      "sha256": "d058b341b2b267c9e2b603a209963a175e55ceddee4a45ade2b9ac2db4982952"
+    },
+    {
+      "key": "moldova-digital-summit",
+      "url": "https://moldovadigitalsummit.md/",
+      "checked_at": "2026-11-06T09:28:06.464451+00:00",
+      "status": 200,
+      "final_url": "https://moldovadigitalsummit.md/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 163008,
+      "sha256": "d0d623b5e247e6f732e8d62e94aac73d9f35e0cf5a9cb30edcf9ce6192550d36"
+    },
+    {
+      "key": "vex-reg-iq",
+      "url": "https://events.vex.com/es/robot-competitions/vex-iq-competition/VE-IQ-27-66813.html",
+      "checked_at": "2026-11-06T09:29:43.240799+00:00",
+      "status": 200,
+      "final_url": "https://events.vex.com/es/robot-competitions/vex-iq-competition/VE-IQ-27-66813.html",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 43123,
+      "sha256": "cb38bedfa0a94e609319a5bb8c6e738f897b2ab4901c10099b1a38599683bdae"
+    },
+    {
+      "key": "vex-reg-v5",
+      "url": "https://events.vex.com/es/robot-competitions/vex-robotics-competition/VE-V5-27-66814.html",
+      "checked_at": "2026-11-06T09:29:43.241300+00:00",
+      "status": 200,
+      "final_url": "https://events.vex.com/es/robot-competitions/vex-robotics-competition/VE-V5-27-66814.html",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 40287,
+      "sha256": "0e74dcb4115cde93cf254792f545375168d6e37320580282724c273afbb84833"
+    },
+    {
+      "key": "globeducate-brochure2026",
+      "url": "https://www.globeducate.com/fs/resource-manager/view/ea6db536-c4ee-4ad9-a1b3-d2176e984633",
+      "checked_at": "2026-11-06T09:29:43.241402+00:00",
+      "status": 200,
+      "final_url": "https://resources.finalsite.net/images/v1773746972/globeducatenetwork/gsydlyn6km0yytyp2lt8/SummerCampsBrochure_English_Digital_Spread_20260312.pdf",
+      "content_type": "application/pdf",
+      "bytes": 5632915,
+      "sha256": "f991c1108d8700be925db35179669c2cb9686c051df677487c062e29b068db6d"
+    },
+    {
+      "key": "bca-timetable",
+      "url": "https://www.britishcollegeandorra.com/sites/default/files/Summer%20Camp/2%20Chimps%20%26%20Leopards.pdf",
+      "checked_at": "2026-11-06T09:29:43.241466+00:00",
+      "status": 200,
+      "final_url": "https://www.britishcollegeandorra.com/sites/default/files/Summer%20Camp/2%20Chimps%20%26%20Leopards.pdf",
+      "content_type": "application/pdf",
+      "bytes": 2688357,
+      "sha256": "e708d0ef5b164f8923c9007fc8b00af1ddbd19d7e17cefc0fae734daba50bbd1"
+    },
+    {
+      "key": "mda-steam",
+      "url": "https://www.clasaviitorului.md/steam-idei-care-mi-c-nceput-nscrierea-la-concursul-na-ional-steam-pentru-elevi-profesori/",
+      "checked_at": "2026-11-06T09:29:43.241703+00:00",
+      "status": 200,
+      "final_url": "https://www.clasaviitorului.md/steam-idei-care-mi-c-nceput-nscrierea-la-concursul-na-ional-steam-pentru-elevi-profesori/",
+      "content_type": "text/html",
+      "bytes": 172849,
+      "sha256": "2077bea9f8bb3f3e7d85041304adc0e1cc46b786ce3f4a793f3dee8ad2067d5f"
+    },
+    {
+      "key": "mds-tickets",
+      "url": "https://moldovadigitalsummit.md/e/mds27/tickets/",
+      "checked_at": "2026-11-06T09:31:59.104151+00:00",
+      "status": 200,
+      "final_url": "https://moldovadigitalsummit.md/e/mds27/tickets/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 132149,
+      "sha256": "19be542d7193d448bcad0a4b446e844ef482a943cd899a7ad535b2d55424643f"
+    },
+    {
+      "key": "mds-terms",
+      "url": "https://moldovadigitalsummit.md/terms-and-conditions/",
+      "checked_at": "2026-11-06T09:31:59.104789+00:00",
+      "status": 200,
+      "final_url": "https://moldovadigitalsummit.md/terms-and-conditions/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 122055,
+      "sha256": "b4c015a1cd1cebd61b6b72434788972288ae3e4e40851c53a26286c61be811b5"
+    }
+  ],
+  "all_requests_get_only": true,
+  "no_forms_submitted": true,
+  "raw_source_bodies_private": true,
+  "excluded_geography_mismatch": {
+    "source": "https://www.inorbis.net/ca/angles-montessori-kids-casals",
+    "reason": "Granollers Spain; not assigned to Andorra"
+  }
+}

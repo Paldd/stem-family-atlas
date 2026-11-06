@@ -6,9 +6,9 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 5681; competiciones: 1889; eventos: 248; campamentos / programas: 3544. Perfiles de ligas y programas: 208. Fichas de exposiciones grandes y especializadas: 160 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 5715; competiciones: 1904; eventos: 249; campamentos / programas: 3562. Perfiles de ligas y programas: 214. Fichas de exposiciones grandes y especializadas: 160 — son ediciones y sedes, no cantidad de marcas únicas.
 
-Hay registros concretos para 122 de 249 países y territorios; países completamente auditados: 0. Ronda archivada v51: añadidas 21 fichas y 3 perfiles. Conservadas todas las fichas anteriores.
+Existen registros concretos para 124 de 249 países y territorios; países completamente auditados: 0. Revisión archivada v51: añadidas 21 fichas y 3 perfiles. Todas las fichas anteriores conservadas.
 
 ## Cobertura por continentes
 
@@ -16,14 +16,14 @@ Hay registros concretos para 122 de 249 países y territorios; países completam
 |---|---:|---:|---:|---:|
 | América del Norte | 19 | 615 | 20 | 967 |
 | América del Sur | 10 | 159 | 7 | 113 |
-| Europa | 39 | 361 | 52 | 1228 |
+| Europa | 41 | 376 | 52 | 1246 |
 | África | 16 | 73 | 7 | 42 |
 | Asia | 34 | 510 | 71 | 1072 |
 | Oceanía | 4 | 104 | 3 | 114 |
 
 Fichas interregionales / globales sin atribuir a un continente: 80. América del Norte incluye América Central y Caribe. Cantidades muestran inventario de la base, no porcentaje de exhaustividad.
 
-VEX: 518 de 1889 fichas de competiciones (27.4%). Existe un claro sesgo de cobertura.
+VEX: 518 de 1904 fichas de competiciones (27.2%). Existe un sesgo claro de cobertura.
 
 ## Lo que queda
 
@@ -301,6 +301,12 @@ VEX: 518 de 1889 fichas de competiciones (27.4%). Existe un claro sesgo de cober
 - **Kuwait National Robotics Competition**: 9 fichas, 8 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://theknrc.com/
 - **WRO Bahrain · Britus programme watch**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://britus.edu.bh/world-robot-olympiad-2/
 - **FIRST Jordan · Jubilee calendar watch**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://jubilee.edu.jo/first-lego-league-institute/
+- **Tekwill Junior Ambassadors · Moldova**: 6 fichas, 6 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://tja.md/
+- **FIRST LEGO League · Moldova**: 2 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.clasaviitorului.md/finala-first-lego-league-challenge-moldova-2026-transform-chi-ul-n-capitala-inovatorilor-n-robotic/
+- **VEX Andorra · Open / national**: 4 fichas, 2 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.vexandorra.com/
+- **WRO Andorra Telecom**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.loopa.ad/
+- **Andbòtic Challenge**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.govern.ad/ca/w/una-setantena-d-alumnes-participen-en-la-3a-edicio-del-concurs-nacional-de-robotica-l-andbotic-challenge
+- **STEAMˣ Moldova**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.clasaviitorului.md/steam-idei-care-mi-c-nceput-nscrierea-la-concursul-na-ional-steam-pentru-elevi-profesori/
 
 ## Grandes exposiciones: tarjetas de identidad
 

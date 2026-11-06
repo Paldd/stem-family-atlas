@@ -16,14 +16,14 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 5681,
-    "competition_cards": 1889,
-    "event_cards": 248,
-    "camp_cards": 3544,
-    "league_profiles": 208,
+    "cards": 5715,
+    "competition_cards": 1904,
+    "event_cards": 249,
+    "camp_cards": 3562,
+    "league_profiles": 214,
     "major_exhibition_cards": 160,
     "vex_cards": 518,
-    "countries_with_records": 122,
+    "countries_with_records": 124,
     "fully_audited_countries": 0
   },
   "continents": [
@@ -62,12 +62,12 @@
       "regions": [
         "Европа"
       ],
-      "total": 1661,
-      "countries_with_records": 39,
-      "competitions": 361,
-      "events": 72,
+      "total": 1695,
+      "countries_with_records": 41,
+      "competitions": 376,
+      "events": 73,
       "major_exhibitions": 52,
-      "camps": 1228,
+      "camps": 1246,
       "status": "Частично исследовано",
       "remaining": "CHE/ESP/FRA углублены повторно. Не закрыты все местные лиги, новые qualifiers 2027, преподавание на английском / испанском, иностранные квоты, текущие juniormentors и полные школьные протоколы 5–10 лет. Германия / Нидерланды / Бельгия: первый частичный проход; все местные клубы, языки, иностранные квоты и полные школьные результаты остаются открыты."
     },
@@ -4953,6 +4953,99 @@
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://jubilee.edu.jo/first-lego-league-institute/",
       "new": false
+    },
+    {
+      "id": "tja-moldova",
+      "name": "Tekwill Junior Ambassadors · Moldova",
+      "group": "regional",
+      "event_ids": [
+        "C1891",
+        "C1892",
+        "C1893",
+        "C1894",
+        "C1895",
+        "C1896"
+      ],
+      "cards": 6,
+      "future_dated": 6,
+      "linked_card_count": 6,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://tja.md/",
+      "new": false
+    },
+    {
+      "id": "first-moldova-local",
+      "name": "FIRST LEGO League · Moldova",
+      "group": "regional",
+      "event_ids": [
+        "C1897",
+        "C1898"
+      ],
+      "cards": 2,
+      "future_dated": 0,
+      "linked_card_count": 2,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.clasaviitorului.md/finala-first-lego-league-challenge-moldova-2026-transform-chi-ul-n-capitala-inovatorilor-n-robotic/",
+      "new": false
+    },
+    {
+      "id": "vex-andorra-local",
+      "name": "VEX Andorra · Open / national",
+      "group": "regional",
+      "event_ids": [
+        "C1899",
+        "C1900",
+        "C1901",
+        "C1902"
+      ],
+      "cards": 4,
+      "future_dated": 2,
+      "linked_card_count": 4,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.vexandorra.com/",
+      "new": false
+    },
+    {
+      "id": "wro-andorra-local",
+      "name": "WRO Andorra Telecom",
+      "group": "regional",
+      "event_ids": [
+        "C1903"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "linked_card_count": 1,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.loopa.ad/",
+      "new": false
+    },
+    {
+      "id": "andbotic-andorra",
+      "name": "Andbòtic Challenge",
+      "group": "regional",
+      "event_ids": [
+        "C1904"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "linked_card_count": 1,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.govern.ad/ca/w/una-setantena-d-alumnes-participen-en-la-3a-edicio-del-concurs-nacional-de-robotica-l-andbotic-challenge",
+      "new": false
+    },
+    {
+      "id": "steamx-moldova",
+      "name": "STEAMˣ Moldova",
+      "group": "regional",
+      "event_ids": [
+        "C1905"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "linked_card_count": 1,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.clasaviitorului.md/steam-idei-care-mi-c-nceput-nscrierea-la-concursul-na-ional-steam-pentru-elevi-profesori/",
+      "new": false
     }
   ],
   "exhibition_inventory": [
@@ -8826,20 +8919,20 @@
       }
     ],
     "counts": {
-      "records": 3544,
-      "holiday": 3372,
+      "records": 3562,
+      "holiday": 3389,
       "regular": 108,
       "self_paced_materials": 2,
       "boarding": 980,
-      "en_es_instruction": 1036,
+      "en_es_instruction": 1039,
       "en_es_support": 11,
-      "family_instruction": 1036,
+      "family_instruction": 1039,
       "family_support": 11,
       "ru_instruction": 3,
-      "language_lessons": 378,
+      "language_lessons": 387,
       "camp_life_language": 225,
       "language_unclassified": 119,
-      "countries": 78
+      "countries": 80
     },
     "validation": {
       "version": 51,
