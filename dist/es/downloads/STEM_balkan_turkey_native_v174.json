@@ -1,0 +1,733 @@
+{
+  "version": 174,
+  "checked": "2026-11-05",
+  "adriatic_challenge": [
+    {
+      "iso": "SVN",
+      "city": "Maribor",
+      "start": "2027-01-16",
+      "end": "2027-01-16",
+      "venue": "OŠ Franceta Prešerna",
+      "label": "Regional A"
+    },
+    {
+      "iso": "SVN",
+      "city": "Ljubljana",
+      "start": "2027-01-30",
+      "end": "2027-01-30",
+      "venue": "OŠ Nove Jarše",
+      "label": "Regional B"
+    },
+    {
+      "iso": "SVN",
+      "city": "Divača",
+      "start": "2027-02-13",
+      "end": "2027-02-13",
+      "venue": "OŠ dr. Bogomirja Magajne",
+      "label": "Regional C"
+    },
+    {
+      "iso": "HRV",
+      "city": "Ivanić-Grad",
+      "start": "2027-01-30",
+      "end": "2027-01-30",
+      "venue": "",
+      "label": "Regional A"
+    },
+    {
+      "iso": "HRV",
+      "city": "Split",
+      "start": "2027-02-06",
+      "end": "2027-02-06",
+      "venue": "",
+      "label": "Regional B"
+    },
+    {
+      "iso": "HRV",
+      "city": "Lipovljani",
+      "start": "2027-02-27",
+      "end": "2027-02-27",
+      "venue": "",
+      "label": "Campeonato nacional"
+    },
+    {
+      "iso": "SRB",
+      "city": "Kragujevac",
+      "start": "2027-02-07",
+      "end": "2027-02-07",
+      "venue": "Inovacioni distrikt",
+      "label": "Regional"
+    },
+    {
+      "iso": "MNE",
+      "city": "",
+      "start": "2027-02-20",
+      "end": "2027-02-20",
+      "venue": "",
+      "label": "Regional"
+    },
+    {
+      "iso": "SVN",
+      "city": "Šentjur",
+      "start": "2027-03-06",
+      "end": "2027-03-06",
+      "venue": "ŠD Hruševec / OŠ Hruševec",
+      "label": "Nacional de Eslovenia / Final Adria"
+    }
+  ],
+  "turkey_challenge": [
+    {
+      "city": "İstanbul",
+      "label": "İstanbul Ortaokul 1",
+      "start": "2027-02-06",
+      "end": "2027-02-06",
+      "venue": "Yeditepe Üniversitesi"
+    },
+    {
+      "city": "İstanbul",
+      "label": "İstanbul Lise",
+      "start": "2027-02-07",
+      "end": "2027-02-07",
+      "venue": "Yeditepe Üniversitesi"
+    },
+    {
+      "city": "Ordu",
+      "label": "Ordu Ortaokul–Lise",
+      "start": "",
+      "end": "",
+      "venue": "Ordu Üniversitesi"
+    },
+    {
+      "city": "İzmir",
+      "label": "İzmir Ortaokul 1",
+      "start": "2027-02-13",
+      "end": "2027-02-13",
+      "venue": "fuarizmir"
+    },
+    {
+      "city": "İzmir",
+      "label": "İzmir Lise",
+      "start": "2027-02-14",
+      "end": "2027-02-14",
+      "venue": "fuarizmir"
+    },
+    {
+      "city": "Mersin",
+      "label": "Mersin Ortaokul",
+      "start": "2027-02-13",
+      "end": "2027-02-13",
+      "venue": "Yenişehir Belediyesi Atatürk Kültür Merkezi"
+    },
+    {
+      "city": "Mersin",
+      "label": "Mersin Lise",
+      "start": "2027-02-14",
+      "end": "2027-02-14",
+      "venue": "Yenişehir Belediyesi Atatürk Kültür Merkezi"
+    },
+    {
+      "city": "Ankara",
+      "label": "Ankara Ortaokul",
+      "start": "2027-02-20",
+      "end": "2027-02-20",
+      "venue": "Çankaya Üniversitesi"
+    },
+    {
+      "city": "Ankara",
+      "label": "Ankara Lise",
+      "start": "2027-02-21",
+      "end": "2027-02-21",
+      "venue": "Çankaya Üniversitesi"
+    },
+    {
+      "city": "İzmir",
+      "label": "İzmir Ortaokul 2",
+      "start": "2027-02-20",
+      "end": "2027-02-20",
+      "venue": "fuarizmir"
+    },
+    {
+      "city": "İzmir",
+      "label": "İzmir Ortaokul 3",
+      "start": "2027-02-21",
+      "end": "2027-02-21",
+      "venue": "fuarizmir"
+    },
+    {
+      "city": "Kocaeli",
+      "label": "İstanbul Ortaokul 2",
+      "start": "2027-02-20",
+      "end": "2027-02-20",
+      "venue": "Gebze Teknik Üniversitesi"
+    },
+    {
+      "city": "Kocaeli",
+      "label": "İstanbul Ortaokul 3",
+      "start": "2027-02-21",
+      "end": "2027-02-21",
+      "venue": "Gebze Teknik Üniversitesi"
+    },
+    {
+      "city": "Antalya",
+      "label": "Antalya Ortaokul",
+      "start": "2027-02-27",
+      "end": "2027-02-27",
+      "venue": "ANFAŞ Uluslararası Fuar ve Kongre Merkezi"
+    },
+    {
+      "city": "Antalya",
+      "label": "Antalya Lise",
+      "start": "2027-02-28",
+      "end": "2027-02-28",
+      "venue": "ANFAŞ Uluslararası Fuar ve Kongre Merkezi"
+    },
+    {
+      "city": "Eskişehir",
+      "label": "Eskişehir Ortaokul",
+      "start": "2027-03-20",
+      "end": "2027-03-20",
+      "venue": "Atayurt Okulları"
+    },
+    {
+      "city": "Eskişehir",
+      "label": "Eskişehir Lise",
+      "start": "2027-03-21",
+      "end": "2027-03-21",
+      "venue": "Atayurt Okulları"
+    },
+    {
+      "city": "İzmir",
+      "label": "Torneo nacional",
+      "start": "2027-03-27",
+      "end": "2027-03-28",
+      "venue": "fuarizmir"
+    }
+  ],
+  "turkey_explore": [
+    {
+      "city": "Ankara",
+      "venue": "Yönder Okulları Batıkent 100. Yıl Kampüsü",
+      "source_date": "27 Mart 2027 Cumartesi",
+      "start": "2027-03-27",
+      "end": "2027-03-27",
+      "date_conflict": false
+    },
+    {
+      "city": "Antalya",
+      "venue": "Bahçeşehir Koleji Lara Kampüsü",
+      "source_date": "27 Mart 2027 Cumartesi",
+      "start": "2027-03-27",
+      "end": "2027-03-27",
+      "date_conflict": false
+    },
+    {
+      "city": "İzmir",
+      "venue": "İzmir Karşıyaka Sınav Koleji İlkokulu",
+      "source_date": "27 Mart 2027 Cumartesi",
+      "start": "2027-03-27",
+      "end": "2027-03-27",
+      "date_conflict": false
+    },
+    {
+      "city": "İstanbul",
+      "venue": "TED Atakent Koleji Esenyurt Kampüsü",
+      "source_date": "27 Mart 2027 Cumartesi",
+      "start": "2027-03-27",
+      "end": "2027-03-27",
+      "date_conflict": false
+    },
+    {
+      "city": "Bursa",
+      "venue": "Bahçeşehir Koleji Bademli Kampüsü",
+      "source_date": "3 Nisan 2027 Cumartesi",
+      "start": "2027-04-03",
+      "end": "2027-04-03",
+      "date_conflict": false
+    },
+    {
+      "city": "Edirne",
+      "venue": "TED Edirne Koleji",
+      "source_date": "3 Nisan 2027 Cumartesi",
+      "start": "2027-04-03",
+      "end": "2027-04-03",
+      "date_conflict": false
+    },
+    {
+      "city": "İzmir",
+      "venue": "İzmir Güzelbahçe Uğur Okulları",
+      "source_date": "3 Nisan 2027 Cumartesi",
+      "start": "2027-04-03",
+      "end": "2027-04-03",
+      "date_conflict": false
+    },
+    {
+      "city": "İzmir",
+      "venue": "Mektebim Koleji Bornova Kampüsü",
+      "source_date": "3 Nisan 2027 Cumartesi",
+      "start": "2027-04-03",
+      "end": "2027-04-03",
+      "date_conflict": false
+    },
+    {
+      "city": "Ankara",
+      "venue": "Özel Büyük Kolej GOP Kampüs",
+      "source_date": "10 Nisan 2027 Cumartesi",
+      "start": "2027-04-10",
+      "end": "2027-04-10",
+      "date_conflict": false
+    },
+    {
+      "city": "Çanakkale",
+      "venue": "Özel Çanakkale Akademi Koleji",
+      "source_date": "10 Nisan 2027 Cumartesi",
+      "start": "2027-04-10",
+      "end": "2027-04-10",
+      "date_conflict": false
+    },
+    {
+      "city": "Eskişehir",
+      "venue": "Özel Atayurt İlkokulu",
+      "source_date": "10 Nisan 2027 Cumartesi",
+      "start": "2027-04-10",
+      "end": "2027-04-10",
+      "date_conflict": false
+    },
+    {
+      "city": "İstanbul",
+      "venue": "MBA Okulları Gaziosmanpaşa Kampüsü",
+      "source_date": "10 Nisan 2027 Cumartesi",
+      "start": "2027-04-10",
+      "end": "2027-04-10",
+      "date_conflict": false
+    },
+    {
+      "city": "İzmir",
+      "venue": "İzmir Karşıyaka Şemikler Uğur İlkokulu",
+      "source_date": "10 Nisan 2027 Cumartesi",
+      "start": "2027-04-10",
+      "end": "2027-04-10",
+      "date_conflict": false
+    },
+    {
+      "city": "Manisa",
+      "venue": "MBA Okulları Akhisar Kampüsü",
+      "source_date": "10 Nisan 2027 Cumartesi",
+      "start": "2027-04-10",
+      "end": "2027-04-10",
+      "date_conflict": false
+    },
+    {
+      "city": "Muğla",
+      "venue": "Bahçeşehir Koleji Bodrum Kampüsü",
+      "source_date": "10 Nisan 2027 Cumartesi",
+      "start": "2027-04-10",
+      "end": "2027-04-10",
+      "date_conflict": false
+    },
+    {
+      "city": "Hatay",
+      "venue": "Bahçeşehir Koleji İskenderun Fen ve Teknoloji Lisesi",
+      "source_date": "11 Nisan 2027 Pazar",
+      "start": "2027-04-11",
+      "end": "2027-04-11",
+      "date_conflict": false
+    },
+    {
+      "city": "Ankara",
+      "venue": "TED Ankara Koleji Vakfı Özel İlkokulu",
+      "source_date": "17 Nisan 2027 Cumartesi",
+      "start": "2027-04-17",
+      "end": "2027-04-17",
+      "date_conflict": false
+    },
+    {
+      "city": "Diyarbakır",
+      "venue": "Doğa Koleji Diyarbakır Kampüsü",
+      "source_date": "17 Nisan 2027 Cumartesi",
+      "start": "2027-04-17",
+      "end": "2027-04-17",
+      "date_conflict": false
+    },
+    {
+      "city": "İstanbul",
+      "venue": "Özel Beylikdüzü MBA Koleji İlkokulu",
+      "source_date": "17 Nisan 2027 Cumartesi",
+      "start": "2027-04-17",
+      "end": "2027-04-17",
+      "date_conflict": false
+    },
+    {
+      "city": "İzmir",
+      "venue": "Dokuz Eylül Üniversitesi Özel 75. Yıl İlkokulu",
+      "source_date": "17 Nisan 2027 Cumartesi",
+      "start": "2027-04-17",
+      "end": "2027-04-17",
+      "date_conflict": false
+    },
+    {
+      "city": "Mersin",
+      "venue": "Mersin Yenişehir Belediyesi",
+      "source_date": "17 Nisan 2027 Cumartesi",
+      "start": "2027-04-17",
+      "end": "2027-04-17",
+      "date_conflict": false
+    },
+    {
+      "city": "Balıkesir",
+      "venue": "Balıkesir Özel Yediiklim Bengi Koleji",
+      "source_date": "18 Nisan 2027 Pazar",
+      "start": "2027-04-18",
+      "end": "2027-04-18",
+      "date_conflict": false
+    },
+    {
+      "city": "Tekirdağ",
+      "venue": "TED Çorlu Koleji",
+      "source_date": "18 Nisan 2027 Pazar",
+      "start": "2027-04-18",
+      "end": "2027-04-18",
+      "date_conflict": false
+    },
+    {
+      "city": "İzmir",
+      "venue": "Özel Çakabey Okulları",
+      "source_date": "2 Mayıs 2026 Cumartesi",
+      "start": "",
+      "end": "",
+      "date_conflict": true
+    },
+    {
+      "city": "Ankara",
+      "venue": "Bahçeşehir Koleji Batıkent Kampüsü",
+      "source_date": "8 Mayıs 2027 Cumartesi",
+      "start": "2027-05-08",
+      "end": "2027-05-08",
+      "date_conflict": false
+    },
+    {
+      "city": "Antalya",
+      "venue": "MBA Okulları Serik Kampüsü",
+      "source_date": "8 Mayıs 2027 Cumartesi",
+      "start": "2027-05-08",
+      "end": "2027-05-08",
+      "date_conflict": false
+    },
+    {
+      "city": "İstanbul",
+      "venue": "Bahçeşehir Koleji Atakent Tema Kampüsü",
+      "source_date": "8 Mayıs 2027 Cumartesi",
+      "start": "2027-05-08",
+      "end": "2027-05-08",
+      "date_conflict": false
+    },
+    {
+      "city": "İzmir",
+      "venue": "Bahçeşehir Koleji İzmir Güney Kampüsü",
+      "source_date": "8 Mayıs 2027 Cumartesi",
+      "start": "2027-05-08",
+      "end": "2027-05-08",
+      "date_conflict": false
+    },
+    {
+      "city": "Sakarya",
+      "venue": "TED Sakarya Koleji",
+      "source_date": "8 Mayıs 2027 Cumartesi",
+      "start": "2027-05-08",
+      "end": "2027-05-08",
+      "date_conflict": false
+    },
+    {
+      "city": "İstanbul",
+      "venue": "Açı Okulları",
+      "source_date": "9 Mayıs Pazar 2027",
+      "start": "2027-05-09",
+      "end": "2027-05-09",
+      "date_conflict": false
+    },
+    {
+      "city": "İstanbul",
+      "venue": "Yönder Okulları Pendik Kampüsü",
+      "source_date": "9 Mayıs Pazar 2027",
+      "start": "2027-05-09",
+      "end": "2027-05-09",
+      "date_conflict": false
+    },
+    {
+      "city": "Adana",
+      "venue": "TED Adana Koleji",
+      "source_date": "29 Mayıs 2027 Cumartesi",
+      "start": "2027-05-29",
+      "end": "2027-05-29",
+      "date_conflict": false
+    },
+    {
+      "city": "Bursa",
+      "venue": "Özel Bursa Kültür Okulları",
+      "source_date": "29 Mayıs 2027 Cumartesi",
+      "start": "2027-05-29",
+      "end": "2027-05-29",
+      "date_conflict": false
+    },
+    {
+      "city": "Diyarbakır",
+      "venue": "TED Diyarbakır Koleji",
+      "source_date": "29 Mayıs 2027 Cumartesi",
+      "start": "2027-05-29",
+      "end": "2027-05-29",
+      "date_conflict": false
+    },
+    {
+      "city": "İzmir",
+      "venue": "ODTÜ Geliştirme Vakfı Özel İzmir İlkokulu",
+      "source_date": "29 Mayıs 2027 Cumartesi",
+      "start": "2027-05-29",
+      "end": "2027-05-29",
+      "date_conflict": false
+    },
+    {
+      "city": "Kocaeli",
+      "venue": "TED Kocaeli Koleji",
+      "source_date": "29 Mayıs 2027 Cumartesi",
+      "start": "2027-05-29",
+      "end": "2027-05-29",
+      "date_conflict": false
+    },
+    {
+      "city": "İstanbul",
+      "venue": "FMV Özel Erenköy Işık İlkokulu",
+      "source_date": "30 Mayıs 2027 Pazar",
+      "start": "2027-05-30",
+      "end": "2027-05-30",
+      "date_conflict": false
+    },
+    {
+      "city": "Kayseri",
+      "venue": "TED Kayseri Koleji Vakfı Okulları",
+      "source_date": "30 Mayıs 2027 Pazar",
+      "start": "2027-05-30",
+      "end": "2027-05-30",
+      "date_conflict": false
+    },
+    {
+      "city": "Mersin",
+      "venue": "ERA Koleji",
+      "source_date": "30 Mayıs 2027 Pazar",
+      "start": "2027-05-30",
+      "end": "2027-05-30",
+      "date_conflict": false
+    },
+    {
+      "city": "Samsun",
+      "venue": "Samsun Canik Uğur Okulları",
+      "source_date": "30 Mayıs 2027 Pazar",
+      "start": "2027-05-30",
+      "end": "2027-05-30",
+      "date_conflict": false
+    },
+    {
+      "city": "Ankara",
+      "venue": "İSTEK Ankara Okulları",
+      "source_date": "5 Haziran 2027 Cumartesi",
+      "start": "2027-06-05",
+      "end": "2027-06-05",
+      "date_conflict": false
+    },
+    {
+      "city": "İstanbul",
+      "venue": "FMV Florya Işık İlkokulu",
+      "source_date": "5 Haziran 2027 Cumartesi",
+      "start": "2027-06-05",
+      "end": "2027-06-05",
+      "date_conflict": false
+    },
+    {
+      "city": "İstanbul",
+      "venue": "İSTEK Uluğbey Okulları",
+      "source_date": "12 Haziran 2027 Cumartesi",
+      "start": "2027-06-12",
+      "end": "2027-06-12",
+      "date_conflict": false
+    },
+    {
+      "city": "İzmir",
+      "venue": "Özel 29 Mayıs Bornova İlkokulu",
+      "source_date": "12 Haziran 2027 Cumartesi",
+      "start": "2027-06-12",
+      "end": "2027-06-12",
+      "date_conflict": false
+    },
+    {
+      "city": "Kocaeli",
+      "venue": "Mektebim Koleji Bilgi Küpü Kampüsleri",
+      "source_date": "12 Haziran 2027 Cumartesi",
+      "start": "2027-06-12",
+      "end": "2027-06-12",
+      "date_conflict": false
+    },
+    {
+      "city": "Ankara",
+      "venue": "Daha sonra açıklanacaktır",
+      "source_date": "Daha sonra açıklanacaktır",
+      "start": "",
+      "end": "",
+      "date_conflict": false
+    },
+    {
+      "city": "Antalya 3",
+      "venue": "Daha sonra açıklanacaktır",
+      "source_date": "Daha sonra açıklanacaktır",
+      "start": "",
+      "end": "",
+      "date_conflict": false
+    },
+    {
+      "city": "Balıkesir 2",
+      "venue": "Daha sonra açıklanacaktır",
+      "source_date": "Daha sonra açıklanacaktır",
+      "start": "",
+      "end": "",
+      "date_conflict": false
+    },
+    {
+      "city": "Gaziantep",
+      "venue": "İSTEK Gaziantep Okulları",
+      "source_date": "Daha sonra açıklanacaktır",
+      "start": "",
+      "end": "",
+      "date_conflict": false
+    },
+    {
+      "city": "İstanbul",
+      "venue": "İstanbul Medipol Üniversitesi",
+      "source_date": "Daha sonra açıklanacaktır",
+      "start": "",
+      "end": "",
+      "date_conflict": false
+    },
+    {
+      "city": "İstanbul",
+      "venue": "Doğa Koleji Büyükçekmece Kampüsü",
+      "source_date": "Daha sonra açıklanacaktır",
+      "start": "",
+      "end": "",
+      "date_conflict": false
+    },
+    {
+      "city": "İstanbul",
+      "venue": "Doğa Koleji Kurtköy Kampüsü",
+      "source_date": "Daha sonra açıklanacaktır",
+      "start": "",
+      "end": "",
+      "date_conflict": false
+    },
+    {
+      "city": "İstanbul",
+      "venue": "İSTEK Kaşgarlı Mahmut Okulları",
+      "source_date": "Daha sonra açıklanacaktır",
+      "start": "",
+      "end": "",
+      "date_conflict": false
+    },
+    {
+      "city": "İzmir 10",
+      "venue": "Daha sonra açıklanacaktır",
+      "source_date": "Daha sonra açıklanacaktır",
+      "start": "",
+      "end": "",
+      "date_conflict": false
+    },
+    {
+      "city": "Ordu",
+      "venue": "Altınordu Belediyesi",
+      "source_date": "Daha sonra açıklanacaktır",
+      "start": "",
+      "end": "",
+      "date_conflict": false
+    }
+  ],
+  "turkey_future_primary": [
+    {
+      "city": "Ankara",
+      "venue": "Daha sonra açıklanacaktır.",
+      "source_date": "Daha sonra açıklanacaktır.",
+      "start": "",
+      "end": "",
+      "date_conflict": false
+    },
+    {
+      "city": "İstanbul",
+      "venue": "İstanbul Medipol Üniversitesi",
+      "source_date": "2 Mayıs 2027 Pazar",
+      "start": "2027-05-02",
+      "end": "2027-05-02",
+      "date_conflict": false
+    },
+    {
+      "city": "İstanbul",
+      "venue": "Daha sonra açıklanacaktır.",
+      "source_date": "Daha sonra açıklanacaktır.",
+      "start": "",
+      "end": "",
+      "date_conflict": false
+    },
+    {
+      "city": "İzmir",
+      "venue": "Daha sonra açıklanacaktır.",
+      "source_date": "Daha sonra açıklanacaktır.",
+      "start": "",
+      "end": "",
+      "date_conflict": false
+    },
+    {
+      "city": "İzmir",
+      "venue": "Daha sonra açıklanacaktır.",
+      "source_date": "Daha sonra açıklanacaktır.",
+      "start": "",
+      "end": "",
+      "date_conflict": false
+    }
+  ],
+  "turkey_future_secondary_cities": [
+    "Ankara 1",
+    "Ankara 2",
+    "İstanbul 1",
+    "İstanbul 2",
+    "İzmir 1",
+    "İzmir 2",
+    "National · city TBD"
+  ],
+  "space_english_2027": [
+    {
+      "start": "2027-07-04",
+      "end": "2027-07-10",
+      "programme": "Galactic Summer Camp",
+      "language": "English",
+      "price_display": "1390,00 $"
+    },
+    {
+      "start": "2027-07-11",
+      "end": "2027-07-17",
+      "programme": "Galactic Summer Camp",
+      "language": "English",
+      "price_display": "1390,00 $"
+    },
+    {
+      "start": "2027-07-18",
+      "end": "2027-07-24",
+      "programme": "Galactic Summer Camp",
+      "language": "English",
+      "price_display": "1390,00 $"
+    },
+    {
+      "start": "2027-07-25",
+      "end": "2027-07-31",
+      "programme": "Galactic Summer Camp",
+      "language": "English",
+      "price_display": "1390,00 $"
+    }
+  ],
+  "turkey_explore_published_plan": 56,
+  "turkey_explore_calendar_rows_read": 55,
+  "source_date_anomaly_not_silently_repaired": true,
+  "worldwide_complete": false
+}

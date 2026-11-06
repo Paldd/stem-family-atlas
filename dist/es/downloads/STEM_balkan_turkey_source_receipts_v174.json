@@ -1,0 +1,1134 @@
+{
+  "version": 174,
+  "checked": "2026-11-05",
+  "request_count": 103,
+  "hash_verified": 90,
+  "failures": [
+    {
+      "key": "fll-slovenia-condition",
+      "url": "https://www.fll.si/program/kdo-lahko-sodeluje",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "fll-adriaprices",
+      "url": "https://www.fll.si/srbija-i-hrvatska/prijava-registracija-tima",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "fll-new-league",
+      "url": "https://www.fll.si/vprasanja-in-odgovori-2026/nova-lego-liga-2027/28",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "key": "tur-explore-calendar-pdf",
+      "url": "https://bilimkahramanlari.org/dokuman/2026/2026-2027_Sezonu_Festival_Takvimi_Explore.pdf",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "tur-explore-rules-pdf",
+      "url": "https://bilimkahramanlari.org/dokuman/2026/2026-2027_Katilim_Sartnamesi_Explore.pdf",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "petica-camp",
+      "url": "https://www.hrobos.hr/robokamp/",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "space-youth-list",
+      "url": "https://reservation.spacecampturkey.com/program/youthProgramsEn",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+    },
+    {
+      "key": "space-group",
+      "url": "https://reservation.spacecampturkey.com/Reservation/CosaRequestEn",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+    },
+    {
+      "key": "croatianmakers-league",
+      "url": "https://croatianmakers.hr/hr/croatian-makers-liga/",
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "key": "space-galactic-en",
+      "url": "https://spacecampturkey.com/en/galactic-summer-camp",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "bilim-future",
+      "url": "https://bilimkahramanlari.org/fll-future/",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "win-faq",
+      "url": "https://www.win-eurasia.com/en/visitors/frequently-asked-questions",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "win-facts",
+      "url": "https://www.win-eurasia.com/en/about-the-fair/facts-figures",
+      "error": "HTTP Error 404: Not Found"
+    }
+  ],
+  "requests": [
+    {
+      "key": "fll-slovenia",
+      "url": "https://www.fll.si/",
+      "final_url": "https://www.fll.si/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 26418,
+      "sha256": "8977eef58298dcda14b69b1205b25764a22007dfb812c34d1f6623257eb42b57",
+      "file": "fll-slovenia.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "superglavce",
+      "url": "https://www.superglavce.org/",
+      "final_url": "https://www.superglavce.org/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 32697,
+      "sha256": "6568dc37d0f6cc1f2760c95f8a1e344bcf6acb8a73e4f9df7f1058cbf494669c",
+      "file": "superglavce.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "fll-schedule",
+      "url": "https://www.fll.si/2026/koledar-2026-27",
+      "final_url": "https://www.fll.si/2026/koledar-2026-27",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 27845,
+      "sha256": "518746117b42c1fa004dccc1e271c461bf4a4b280a59f6be6e12ae641b021efd",
+      "file": "fll-schedule.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "fll-adriacond",
+      "url": "https://www.fll.si/srbija-i-hrvatska/tko-moze-sudjelovati",
+      "final_url": "https://www.fll.si/srbija-i-hrvatska/tko-moze-sudjelovati",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 21226,
+      "sha256": "015b1974d8023cccfd552fe44f1f8a30ebee6b1b857388a829616973723e4877",
+      "file": "fll-adriacond.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "fll-adriagear",
+      "url": "https://www.fll.si/srbija-i-hrvatska/sto-je-potrebno",
+      "final_url": "https://www.fll.si/srbija-i-hrvatska/sto-je-potrebno",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 22472,
+      "sha256": "54a86b6e943faca214241a14646b9cddfeee0e99541046f54cfab77741e38e07",
+      "file": "fll-adriagear.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "fll-albania",
+      "url": "https://firstlegoleague.al/",
+      "final_url": "https://firstlegoleague.al/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 118971,
+      "sha256": "d5f3d0a1a8da5305b7c66fca9b4c836d91fd464ccfe876b4d1697b7d694c0698",
+      "file": "fll-albania.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "fll-montenegro",
+      "url": "https://umipcg.me/en/fll",
+      "final_url": "https://umipcg.me/en/fll",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 129409,
+      "sha256": "9e1faa5da9d6fd686afa21614d3a9da9bda41b34332c13229ad55d82be9319ee",
+      "file": "fll-montenegro.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "tur-challenge",
+      "url": "https://www.bilimkahramanlaribulusuyor.org/",
+      "final_url": "https://www.bilimkahramanlaribulusuyor.org/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 10373,
+      "sha256": "2a0d34a8053fa8bdbf2ecf593be0dcf073a6f057fbb6f437983ceb20fbcf117c",
+      "file": "tur-challenge.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "tur-explore",
+      "url": "https://bilimkahramanlari.org/fll-explore/",
+      "final_url": "https://bilimkahramanlari.org/fll-explore/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 10235,
+      "sha256": "5345f904570be22b5488f2f1964f1d83816aa23b1c67c7e0267fbafce31a7b3f",
+      "file": "tur-explore.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "tur-season-files",
+      "url": "https://www.bilimkahramanlaribulusuyor.org/sezon-dosyalari/",
+      "final_url": "https://www.bilimkahramanlaribulusuyor.org/sezon-dosyalari/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 10696,
+      "sha256": "65602ca1434b6b715942ef38fc3140532a71d291009107eb0e83b251efba8dbe",
+      "file": "tur-season-files.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "tur-calendar",
+      "url": "https://www.bilimkahramanlaribulusuyor.org/turnuva-takvimi/",
+      "final_url": "https://www.bilimkahramanlaribulusuyor.org/turnuva-takvimi/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 8868,
+      "sha256": "2af6dba8e9b8859941bbf50b50094f5f47b9ae06a921bf1f9730387b02f7fc00",
+      "file": "tur-calendar.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "tur-rules",
+      "url": "https://www.bilimkahramanlaribulusuyor.org/katilim-sartnamesi/",
+      "final_url": "https://www.bilimkahramanlaribulusuyor.org/katilim-sartnamesi/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 8906,
+      "sha256": "855b053803c15c2427ccdca565ac4820247e3e9e3b4199dd560ae71ecf62476e",
+      "file": "tur-rules.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "tur-faq",
+      "url": "https://www.bilimkahramanlaribulusuyor.org/sss/",
+      "final_url": "https://www.bilimkahramanlaribulusuyor.org/sss/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 14546,
+      "sha256": "f1b8f346c57dea65dd47cea494f6f2a787152fc9bdb6a17460299ea70a98b3e4",
+      "file": "tur-faq.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "wro-hrv",
+      "url": "https://wro.hr/",
+      "final_url": "https://wro.hr/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 64289,
+      "sha256": "47cbe07aa7a63d1bae5825a098a2687c939880a21d7d5648b49864d84643a331",
+      "file": "wro-hrv.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "wro-svn",
+      "url": "https://wro.si/",
+      "final_url": "https://wro.si/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 72534,
+      "sha256": "e27b41f4147c4fedb029de291323cc859b9aefd868cd2b3d3982537c78d893e8",
+      "file": "wro-svn.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "wro-srb",
+      "url": "https://wro.rs/",
+      "final_url": "https://wro.rs/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 100134,
+      "sha256": "91d4c3c39044fc0a6a5b93a614feb6af2a5be0bb7539314262c6e3177bd0a024",
+      "file": "wro-srb.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "wro-bih",
+      "url": "https://wro.ba/",
+      "final_url": "https://wro.ba/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 56776,
+      "sha256": "0a147e75f9c685919755b98d51ce1ef8e6737a4a831bbb5049683dc909e0e151",
+      "file": "wro-bih.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "wro-mne",
+      "url": "https://wrocrnagora.me/",
+      "final_url": "https://wrocrnagora.me/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 72771,
+      "sha256": "92ae86c92aee58a9257807271b487d1f9ad63ead5d3366139dceb3432b4b0e3d",
+      "file": "wro-mne.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "robokacija",
+      "url": "https://robokacija.hr/summer-camp/?lang=en",
+      "final_url": "https://robokacija.hr/summer-camp/?lang=en",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 87017,
+      "sha256": "26e4f927785ba52d99fc06331dd3b1b0d7301f6cd36f8ea2796e2062881196c3",
+      "file": "robokacija.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "ksi-camp",
+      "url": "https://knightsbridgeschools.com/summer-camp/",
+      "final_url": "https://knightsbridgeschools.com/summer-camp/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 295071,
+      "sha256": "d514fe5b4ff9a3ab9059690d33d98e661b2e1aee3366bbf90c37d8c087992ad7",
+      "file": "ksi-camp.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "space-turkey",
+      "url": "https://www.spacecampturkey.com/",
+      "final_url": "https://www.spacecampturkey.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 27082,
+      "sha256": "d4f68d878864e79dd2cabc3956af4851e46745799cd2f6ce94950c39c5808f6c",
+      "file": "space-turkey.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "blue-butterfly",
+      "url": "https://bluebutterfly.etw.hr/camp/americki-ljetni-kamp-engleskog-sibenik-science/",
+      "final_url": "https://bluebutterfly.etw.hr/camp/americki-ljetni-kamp-engleskog-sibenik-science/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 323800,
+      "sha256": "0ea315aa28bc988ec726218a20288908bfb1e1e4e8ccf8a01e569f2ca4f00242",
+      "file": "blue-butterfly.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "montenegro-esl",
+      "url": "https://sites.google.com/view/eslcampmontenegro/home",
+      "final_url": "https://sites.google.com/view/eslcampmontenegro/home",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 120309,
+      "sha256": "f4fb6c13088726e45929e0d2e1984a6d2d7c3437a38e94ff704ba57352754838",
+      "file": "montenegro-esl.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "fll-slovenia-condition",
+      "url": "https://www.fll.si/program/kdo-lahko-sodeluje",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "fll-slovenia-challenge",
+      "url": "https://www.fll.si/2026/izzivalci-2026",
+      "final_url": "https://www.fll.si/2026/izzivalci-2026",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 23139,
+      "sha256": "ac54e1f4eb14a830fc456f83212aa27d6731c0355e5244258743c6710191f354",
+      "file": "fll-slovenia-challenge.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "fll-slovenia-explore",
+      "url": "https://www.fll.si/2026/raziskovalci-2026",
+      "final_url": "https://www.fll.si/2026/raziskovalci-2026",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 29222,
+      "sha256": "870f45895ee1bc393d7657f37cdd65fe36bbe128247d1ab68093a94e0360ba46",
+      "file": "fll-slovenia-explore.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "fll-slovenia-future",
+      "url": "https://www.fll.si/2026/future-2026",
+      "final_url": "https://www.fll.si/2026/future-2026",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 23055,
+      "sha256": "652af7ed63600009b7f9f509875f10142848f6e5c728391c3042cb2423a40f15",
+      "file": "fll-slovenia-future.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "fll-adriaprices",
+      "url": "https://www.fll.si/srbija-i-hrvatska/prijava-registracija-tima",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "fll-new-league",
+      "url": "https://www.fll.si/vprasanja-in-odgovori-2026/nova-lego-liga-2027/28",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "key": "tur-challenge-calendar-pdf",
+      "url": "https://www.bilimkahramanlaribulusuyor.org/sezond/2026/Turnuva_Takvimi_2026-2027.pdf",
+      "final_url": "https://www.bilimkahramanlaribulusuyor.org/sezond/2026/Turnuva_Takvimi_2026-2027.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 152258,
+      "sha256": "a9e931d7f3f664cbad214e5a5fc44855232d5f17cccf3db2b60197c297fbb812",
+      "file": "tur-challenge-calendar-pdf.pdf",
+      "response_hash_verified": true
+    },
+    {
+      "key": "tur-challenge-rules-pdf",
+      "url": "https://www.bilimkahramanlaribulusuyor.org/sezond/2026/BKB_Katilim_Sartnamesi_2026_2027.pdf",
+      "final_url": "https://www.bilimkahramanlaribulusuyor.org/sezond/2026/BKB_Katilim_Sartnamesi_2026_2027.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 548296,
+      "sha256": "a4c393957d35279629f027af0e9ae7cedb1573b782345901ba05bdb3f7509c42",
+      "file": "tur-challenge-rules-pdf.pdf",
+      "response_hash_verified": true
+    },
+    {
+      "key": "tur-explore-calendar-pdf",
+      "url": "https://bilimkahramanlari.org/dokuman/2026/2026-2027_Sezonu_Festival_Takvimi_Explore.pdf",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "tur-explore-rules-pdf",
+      "url": "https://bilimkahramanlari.org/dokuman/2026/2026-2027_Katilim_Sartnamesi_Explore.pdf",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "space-programmes",
+      "url": "https://www.spacecampturkey.com/programs",
+      "final_url": "https://www.spacecampturkey.com/programs",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 28519,
+      "sha256": "ef88e902ebf62e666032e82c9534da2e54b9ec33bfaed3ef08fabc4e59cae7d5",
+      "file": "space-programmes.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "space-programmes-tr",
+      "url": "https://www.spacecampturkey.com/programlar",
+      "final_url": "https://www.spacecampturkey.com/programlar",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 28525,
+      "sha256": "66a13be99b0a224baec8e52a82e2c8aa71a824ff7081b79e5fd65ad16b69d1ed",
+      "file": "space-programmes-tr.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "cyprus-fll",
+      "url": "https://www.firstlegoleague.org.cy/en/news/announcement-of-first-lego-league-cyprus-20252026",
+      "final_url": "https://www.firstlegoleague.org.cy/en/news/announcement-of-first-lego-league-cyprus-20252026",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 34490,
+      "sha256": "d9e8f945e7a89ca2b4acd441f4c3cb9842d20d42e82d190ba967b0c7afe9b19a",
+      "file": "cyprus-fll.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "robokacija-main",
+      "url": "https://robokacija.hr/",
+      "final_url": "https://robokacija.hr/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1052321,
+      "sha256": "7d2b91efe56a37d6b66413197f2144decd9c06a3268f2fa1fb55d0cb0bec3254",
+      "file": "robokacija-main.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "wro-mne-kids-pdf",
+      "url": "https://wrocrnagora.me/wp-content/uploads/2026/02/2026-KIDS-SR.pdf",
+      "final_url": "https://wrocrnagora.me/wp-content/uploads/2026/02/2026-KIDS-SR.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 1123251,
+      "sha256": "90a366fbc4cf9c90e116c1d22ee647411a25b94b300a3b7678e2aced6c23e3ba",
+      "file": "wro-mne-kids-pdf.pdf",
+      "response_hash_verified": true
+    },
+    {
+      "key": "petica-camp",
+      "url": "https://www.hrobos.hr/robokamp/",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "fll-slovenia-condition-fixed",
+      "url": "https://www.fll.si/tekmovanje/kdo-lahko-sodeluje",
+      "final_url": "https://www.fll.si/tekmovanje/kdo-lahko-sodeluje",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 20188,
+      "sha256": "e133f432fda2f69d8b10b52c010a147f3a02771593daa550f555fca9e980a341",
+      "file": "fll-slovenia-condition-fixed.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "fll-adriaprices-fixed",
+      "url": "https://www.fll.si/fll-srbija-i-hrvatska/prijava-registracija-tima",
+      "final_url": "https://www.fll.si/fll-srbija-i-hrvatska/prijava-registracija-tima",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 22844,
+      "sha256": "0d74d68ff9f5d41b1e3ae29fee6144a306f0b5ea6a278350904402d4f695128e",
+      "file": "fll-adriaprices-fixed.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "fll-future23-registration",
+      "url": "https://www.superglavce.org/prijava/future23/sl",
+      "final_url": "https://www.superglavce.org/prijava/future23/sl",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 22147,
+      "sha256": "422fc6903fe0864acfeaac1ec3ba92d3d787806fade582037a1ad30f3eda2b14",
+      "file": "fll-future23-registration.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "fll-challenge-registration",
+      "url": "https://www.superglavce.org/prijava/challenge/sl/",
+      "final_url": "https://www.superglavce.org/prijava/challenge/sl",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 17662,
+      "sha256": "0533cd9fc4854e83e252522da592b7367bba3828add555846f6d294fb75ec423",
+      "file": "fll-challenge-registration.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "fll-new-league-fixed",
+      "url": "https://www.fll.si/vprasanja-in-odgovori-2026/nova-lego-liga-2027/28",
+      "final_url": "https://www.fll.si/vprasanja-in-odgovori-2026/nova-lego-liga-2027/28",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 37330,
+      "sha256": "b5a9a47965d88fd2a8d15d7177317e70672fc8b91a7d202f69e90e76e4073076",
+      "file": "fll-new-league-fixed.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "tur-explore-calendar-pdf-fixed",
+      "url": "https://bilimkahramanlari.org/fll-explore/dokuman/2026/2026-2027_Sezonu_Festival_Takvimi_Explore.pdf",
+      "final_url": "https://bilimkahramanlari.org/fll-explore/dokuman/2026/2026-2027_Sezonu_Festival_Takvimi_Explore.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 270582,
+      "sha256": "d108f66d9f7e4d4abb215d5af316b51af73203d5bb0e95022efda22932cb1baa",
+      "file": "tur-explore-calendar-pdf-fixed.pdf",
+      "response_hash_verified": true
+    },
+    {
+      "key": "tur-explore-rules-pdf-fixed",
+      "url": "https://bilimkahramanlari.org/fll-explore/dokuman/2026/2026-2027_Katilim_Sartnamesi_Explore.pdf",
+      "final_url": "https://bilimkahramanlari.org/fll-explore/dokuman/2026/2026-2027_Katilim_Sartnamesi_Explore.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 509107,
+      "sha256": "e9018f52bb32484ed3eca5d7a1efd61b3434b52776c1fc1fe0c5139e78076e01",
+      "file": "tur-explore-rules-pdf-fixed.pdf",
+      "response_hash_verified": true
+    },
+    {
+      "key": "croatianmakers-home",
+      "url": "https://croatianmakers.hr/",
+      "final_url": "https://www.croatianmakers.hr/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 24279,
+      "sha256": "bef2e62feb0a71cb66ba4a7c4c5cfd129227c112ca0747900a1418541272db07",
+      "file": "croatianmakers-home.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "robokup2027",
+      "url": "https://www.hztk.hr/robokup-2027.aspx",
+      "final_url": "https://www.hztk.hr/robokup-2027.aspx",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 79659,
+      "sha256": "62dddfefb3b5ab91db6c004e6ca56c074152fc00fcf32054014d27cff6c29222",
+      "file": "robokup2027.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "teknofest-primary",
+      "url": "https://www.teknofest.org/tr/yarismalar/insanlik-yararina-teknolojiler-yarismasi-ilkokul-seviyesi/",
+      "final_url": "https://www.teknofest.org/tr/yarismalar/insanlik-yararina-teknolojiler-yarismasi-ilkokul-seviyesi/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 192404,
+      "sha256": "ece15522e26c7db71b63183097af03c1141692744da48239391d494609aa7619",
+      "file": "teknofest-primary.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "teknofest-robolig",
+      "url": "https://www.teknofest.org/tr/yarismalar/teknofest-robolig-yarismasi/",
+      "final_url": "https://www.teknofest.org/tr/yarismalar/teknofest-robolig-yarismasi/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 206114,
+      "sha256": "f22b55356a90cda64369673fec14bb03559f1c9e0fc0af639ee62df675bd4436",
+      "file": "teknofest-robolig.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "teknofest-faq",
+      "url": "https://teknofest.org/tr/kurumsal/sss/",
+      "final_url": "https://teknofest.org/tr/kurumsal/sss/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 326124,
+      "sha256": "50cd35b733df64a1051e8d8865402c11204966573b474d46a51190210a562559",
+      "file": "teknofest-faq.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "meb-robot",
+      "url": "https://robot.meb.gov.tr/",
+      "final_url": "https://robot.meb.gov.tr/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 121835,
+      "sha256": "bf4e32abdcf2dbe51e0634dc6ea2125cd98b97293c544d2855b3dbb0a7294faf",
+      "file": "meb-robot.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "fll-mkd",
+      "url": "https://www.facebook.com/FllMacedonia/",
+      "final_url": "https://www.facebook.com/FllMacedonia/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 510074,
+      "sha256": "40b6d73c0bc8ff97a10d4dd8b58bf1a7430635b446981ddd459ce1e086819d32",
+      "file": "fll-mkd.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "space-youth-list",
+      "url": "https://reservation.spacecampturkey.com/program/youthProgramsEn",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+    },
+    {
+      "key": "cyprus-fll-announcement-pdf",
+      "url": "https://www.firstlegoleague.org.cy/assets/media/Announcements/FLL%20CYPRUS%202026-2027%20Announcement(FV)(Greek)(New).pdf",
+      "final_url": "https://www.firstlegoleague.org.cy/assets/media/Announcements/FLL%20CYPRUS%202026-2027%20Announcement(FV)(Greek)(New).pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 506564,
+      "sha256": "9e562426d8547c3bf058aa91927da9ea6412d78cf7f5a940d111aff216960819",
+      "file": "cyprus-fll-announcement-pdf.pdf",
+      "response_hash_verified": true
+    },
+    {
+      "key": "cyprus-explore",
+      "url": "https://www.firstlegoleague.org.cy/en/editions/founders/explore",
+      "final_url": "https://www.firstlegoleague.org.cy/en/editions/founders/explore",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 35106,
+      "sha256": "310561e924005b09d81cd7a75031be879f451a4bbf2db03dcf61ad35d6f9ea76",
+      "file": "cyprus-explore.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "cyprus-challenge",
+      "url": "https://www.firstlegoleague.org.cy/en/editions/founders/challenge",
+      "final_url": "https://www.firstlegoleague.org.cy/en/editions/founders/challenge",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 36110,
+      "sha256": "a1a29da4b180c7fcd93924eebbc2fc3c4a4c9cd2400ad5cab81d2f4736d9741d",
+      "file": "cyprus-challenge.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "cyprus-fut-5-8",
+      "url": "https://www.firstlegoleague.org.cy/en/editions/future/fut-5-8",
+      "final_url": "https://www.firstlegoleague.org.cy/en/editions/future/fut-5-8",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 35113,
+      "sha256": "04c2a051772d4260d139f199371c535d4b800c9fa4464302d42e3908da5fe2a6",
+      "file": "cyprus-fut-5-8.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "cyprus-fut-9-16",
+      "url": "https://www.firstlegoleague.org.cy/en/editions/future/fut-9-16",
+      "final_url": "https://www.firstlegoleague.org.cy/en/editions/future/fut-9-16",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 42558,
+      "sha256": "01366cb37cb1fde6148fdd0a32384c86c04ed40c3a0f26d98ddcd6e0e5754768",
+      "file": "cyprus-fut-9-16.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "space-galactic",
+      "url": "https://spacecampturkey.com/galactic-summer-camp",
+      "final_url": "https://spacecampturkey.com/galactic-summer-camp",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 28555,
+      "sha256": "8ba9ff00e635ed90a29599de2d92bae916c83b5ef07e37f9d1875c42c39adab9",
+      "file": "space-galactic.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "space-faq",
+      "url": "https://spacecampturkey.com/faq",
+      "final_url": "https://spacecampturkey.com/faq",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 45362,
+      "sha256": "11b0f4b70191d43853812f1e545f44770760d81fd8b14c62ac8103f58320523d",
+      "file": "space-faq.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "space-group",
+      "url": "https://reservation.spacecampturkey.com/Reservation/CosaRequestEn",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+    },
+    {
+      "key": "teknofest-home",
+      "url": "https://www.teknofest.org/tr/",
+      "final_url": "https://www.teknofest.org/tr/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1185272,
+      "sha256": "e9e0fa82d5b8b050d5be27fa08b893a658e8c94195d21f000b5597c211656350",
+      "file": "teknofest-home.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "win-visitors",
+      "url": "https://www.win-eurasia.com/en/visitors",
+      "final_url": "https://www.win-eurasia.com/en/visitors",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1492383,
+      "sha256": "0a6bd49e02dab10d41a4cacea8ec8c4b5786b2e91f1e2fb84bf69601fe72085b",
+      "file": "win-visitors.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "win-travel",
+      "url": "https://www.win-eurasia.com/en/visitors/travel-accommodation",
+      "final_url": "https://www.win-eurasia.com/en/visitors/travel-accommodation",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1491889,
+      "sha256": "af7d5d0d226d65c8af4d7277a76626cc3554accec9b112bb525a20ff825b13b9",
+      "file": "win-travel.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "win-venue",
+      "url": "https://ifm.com.tr/tr/fuarlar/win-eurasia-2027",
+      "final_url": "https://ifm.com.tr/tr/fuarlar/win-eurasia-2027",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 81785,
+      "sha256": "7a3a1d95f4e685fb2cf46f82c99a6da5d64a5f455ccbabc465fd1bb2fe6b22f0",
+      "file": "win-venue.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "robot-summit",
+      "url": "https://www.robotyatirimlari.com/",
+      "final_url": "https://www.robotyatirimlari.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 105441,
+      "sha256": "d84754372253a55fe318f685c8f698b9938b5186dd844a2d947c1eabd06ae824",
+      "file": "robot-summit.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "fll-mkd-presidency",
+      "url": "https://pretsedatel.mk/first-lego-league-14-03-2026/",
+      "final_url": "https://pretsedatel.mk/first-lego-league-14-03-2026/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 154289,
+      "sha256": "f87b3826fd192daa67cc36e9fcf75f6865ed5b5c875a35a5ee02636e0b74c928",
+      "file": "fll-mkd-presidency.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "bilim-home",
+      "url": "https://bilimkahramanlari.org/",
+      "final_url": "https://www.bilimkahramanlari.org/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 131319,
+      "sha256": "36e09379702078ca3e7ab7b07ad7e683e33af7a603d073a994b8573e30a7636e",
+      "file": "bilim-home.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "croatianmakers-league",
+      "url": "https://croatianmakers.hr/hr/croatian-makers-liga/",
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "key": "teknofest-primary-rules-pdf",
+      "url": "https://cdn.teknofest.org/media/upload/userFormUpload/2026_%C4%B0NSANLIK_YARARINA_TEKNOLOJ%C4%B0LER_YARI%C5%9EMASI_-_%C4%B0LKOKUL_SEV%C4%B0YES%C4%B0_%C5%9EARTNAMES.pdf",
+      "final_url": "https://cdn.teknofest.org/media/upload/userFormUpload/2026_%C4%B0NSANLIK_YARARINA_TEKNOLOJ%C4%B0LER_YARI%C5%9EMASI_-_%C4%B0LKOKUL_SEV%C4%B0YES%C4%B0_%C5%9EARTNAMES.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 1734127,
+      "sha256": "b3e841eba278ca764d016c83a303fdefe7a66790cb2caa1c9e69ee5a38e42180",
+      "file": "teknofest-primary-rules-pdf.pdf",
+      "response_hash_verified": true
+    },
+    {
+      "key": "teknofest-robolig-rules-pdf",
+      "url": "https://cdn.teknofest.org/media/upload/userFormUpload/TR_TEKNOFEST_Robolig_2026_Sartname_v1.2_30.04.26_jIR9X.pdf",
+      "final_url": "https://cdn.teknofest.org/media/upload/userFormUpload/TR_TEKNOFEST_Robolig_2026_Sartname_v1.2_30.04.26_jIR9X.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 3440184,
+      "sha256": "01bb6b62a5126aaf666ff6bf5880fc921b3ed0e4a2c60f9fbdabb32f8d48f6a9",
+      "file": "teknofest-robolig-rules-pdf.pdf",
+      "response_hash_verified": true
+    },
+    {
+      "key": "space-sitemap",
+      "url": "https://spacecampturkey.com/sitemap.xml",
+      "final_url": "https://spacecampturkey.com/sitemap.xml",
+      "status": 200,
+      "mime": "application/xml",
+      "bytes": 41925,
+      "sha256": "c146e072fc4dfe6687b8fb97413756450a8ec6130204bbb951b524af6a2ddf7b",
+      "file": "space-sitemap.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "space-galactic-en",
+      "url": "https://spacecampturkey.com/en/galactic-summer-camp",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "bilim-future",
+      "url": "https://bilimkahramanlari.org/fll-future/",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "wro-srb-rm",
+      "url": "https://wro.rs/robomission/",
+      "final_url": "https://wro.rs/robomission/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 105900,
+      "sha256": "461c06c3fdec8283842e30366d1b480d8735e48fd09a18b71fd081ed020bac7a",
+      "file": "wro-srb-rm.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "wro-svn-fi",
+      "url": "https://wro.si/future-innovators/",
+      "final_url": "https://wro.si/future-innovators/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 66515,
+      "sha256": "ccfdc23b40b9e96d65b37c187e66a0cc09322903dc8efc2529b4f9820337e931",
+      "file": "wro-svn-fi.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "wro-bih-rm",
+      "url": "https://wro.ba/robomission/",
+      "final_url": "https://wro.ba/robomission/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 79248,
+      "sha256": "616814ffb3be21aa605618597a1efe7801359e6bc7eb98145139e0df4264ddfe",
+      "file": "wro-bih-rm.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "wro-hrv-rm",
+      "url": "https://wro.hr/robomission/",
+      "final_url": "https://wro.hr/robomission/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 92336,
+      "sha256": "37970c23646cf696398c7ec053aece1e96a8dc7dd5e053d1f2cbb90cae6328de",
+      "file": "wro-hrv-rm.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "win-faq",
+      "url": "https://www.win-eurasia.com/en/visitors/frequently-asked-questions",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "space-galaktik-current",
+      "url": "https://spacecampturkey.com/galaktik-yaz-kampi",
+      "final_url": "https://spacecampturkey.com/galaktik-yaz-kampi",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 30638,
+      "sha256": "2358381d031e0ebc3727fa10fbc419d7eec2b4270fc6e2bfe322c123c32819db",
+      "file": "space-galaktik-current.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "space-faq-current",
+      "url": "https://spacecampturkey.com/sikca-sorulan-sorular",
+      "final_url": "https://spacecampturkey.com/faq",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 45362,
+      "sha256": "11b0f4b70191d43853812f1e545f44770760d81fd8b14c62ac8103f58320523d",
+      "file": "space-faq-current.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "tur-future-current",
+      "url": "https://www.bilimkahramanlari.org/first-lego-league-future-edition/",
+      "final_url": "https://www.bilimkahramanlari.org/first-lego-league-future-edition/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 97121,
+      "sha256": "b3a7ec2dcccc97e5e3dc29eacece87df0aac573c4ab8aea818a06c74f0eb24d2",
+      "file": "tur-future-current.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "tur-wro-current",
+      "url": "https://www.bilimkahramanlari.org/dunya-robot-olimpiyati/",
+      "final_url": "https://www.bilimkahramanlari.org/dunya-robot-olimpiyati/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 86866,
+      "sha256": "239fd57ea92bb375cefa59124418ad2c842a24d2b00bd6e9d1884bbb64d68996",
+      "file": "tur-wro-current.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "croatianmakers-robotika",
+      "url": "https://www.croatianmakers.hr/projekti/robotika",
+      "final_url": "https://www.croatianmakers.hr/projekti/robotika/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 34178,
+      "sha256": "92bbe895d01ff5673b5d0edb83ff71f7517802f4305759fb0138a8116ed8f6c1",
+      "file": "croatianmakers-robotika.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "croatianmakers-new-phase",
+      "url": "https://www.croatianmakers.hr/novosti/irim-nova-faza-djelovanja/",
+      "final_url": "https://www.croatianmakers.hr/novosti/irim-nova-faza-djelovanja/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 19150,
+      "sha256": "e707567053cb427ff242132534c0d0c6aa1bb0c39b3cf63df2b847fdb59a8ba2",
+      "file": "croatianmakers-new-phase.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "croatianmakers-vibe",
+      "url": "https://www.croatianmakers.hr/novosti/novi-projekt-vibe-coding-liga-hrvatske-za-osnovne-skole",
+      "final_url": "https://www.croatianmakers.hr/novosti/novi-projekt-vibe-coding-liga-hrvatske-za-osnovne-skole/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 20946,
+      "sha256": "293a962cfb902636f5366e405324c608db618101eacefb9f8ecd347e285d3085",
+      "file": "croatianmakers-vibe.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "win-home",
+      "url": "https://www.win-eurasia.com/en/",
+      "final_url": "https://www.win-eurasia.com/en/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1498888,
+      "sha256": "27b4eaf6c706ebdf6be426879e883d5b05574342176ca376a3db925d3a89f6e4",
+      "file": "win-home.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "tur-future-primary",
+      "url": "https://bilimkahramanlari.org/fll-future-edition-ilkokul/",
+      "final_url": "https://bilimkahramanlari.org/fll-future-edition-ilkokul/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 8346,
+      "sha256": "3eda190ddb108a675604c0f7bf0a3a4e0f3b70b4a57a68bb251f820dc6ec7ff5",
+      "file": "tur-future-primary.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "tur-future-secondary",
+      "url": "https://bilimkahramanlari.org/fll-future-edition-ortaokul-lise/",
+      "final_url": "https://bilimkahramanlari.org/fll-future-edition-ortaokul-lise/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 7407,
+      "sha256": "f02ba63dd0bbd2864f2503f721652edb9de1e27528e77b3c483325f96212f3b8",
+      "file": "tur-future-secondary.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "wro-turkey",
+      "url": "https://wroturkiye.org/",
+      "final_url": "https://wroturkiye.org/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 86318,
+      "sha256": "bbbdf30967689d62dc72ad372f5cef9542e5311ce9037240900a7e04ace4980b",
+      "file": "wro-turkey.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "croatianmakers-phase",
+      "url": "https://www.croatianmakers.hr/novosti/irim-nova-faza-djelovanja/",
+      "final_url": "https://www.croatianmakers.hr/novosti/irim-nova-faza-djelovanja/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 19150,
+      "sha256": "e707567053cb427ff242132534c0d0c6aa1bb0c39b3cf63df2b847fdb59a8ba2",
+      "file": "croatianmakers-phase.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "win-facts",
+      "url": "https://www.win-eurasia.com/en/about-the-fair/facts-figures",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "tur-future-primary-7",
+      "url": "https://bilimkahramanlari.org/fll-future-edition-ilkokul/dokuman/2026/2026-2027_Katilim_Sartnamesi_Future_Edition.pdf",
+      "final_url": "https://bilimkahramanlari.org/fll-future-edition-ilkokul/dokuman/2026/2026-2027_Katilim_Sartnamesi_Future_Edition.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 511581,
+      "sha256": "ecda73455b8455ceda48836340d88b54028d187ab3d8456ee230f7ec24e889aa",
+      "file": "tur-future-primary-7.pdf",
+      "response_hash_verified": true
+    },
+    {
+      "key": "tur-future-primary-8",
+      "url": "https://bilimkahramanlari.org/fll-future-edition-ilkokul/dokuman/2026/2026-2027_Sezonu_Festival_Takvimi_Future_Edition.pdf",
+      "final_url": "https://bilimkahramanlari.org/fll-future-edition-ilkokul/dokuman/2026/2026-2027_Sezonu_Festival_Takvimi_Future_Edition.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 228807,
+      "sha256": "64227ce0d816707e85fd869b6e70313d8d7ef19169f05a526e1d7f7939163678",
+      "file": "tur-future-primary-8.pdf",
+      "response_hash_verified": true
+    },
+    {
+      "key": "tur-future-secondary-5",
+      "url": "https://bilimkahramanlari.org/fll-future-edition-ortaokul-lise/sezon-dosyalari",
+      "final_url": "https://bilimkahramanlari.org/fll-future-edition-ortaokul-lise/sezon-dosyalari",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 9624,
+      "sha256": "1cb61499e575d123af8be246dc8ac82a73eac875f6ee33867ce11c66c8d29dfd",
+      "file": "tur-future-secondary-5.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "tur-future-secondary-7",
+      "url": "https://bilimkahramanlari.org/fll-future-edition-ortaokul-lise/turnuva-takvimi",
+      "final_url": "https://bilimkahramanlari.org/fll-future-edition-ortaokul-lise/turnuva-takvimi",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 5311,
+      "sha256": "b759fd2aab0fd194a796c56258fdce7786c329cc19564ce006acdc45dfba969f",
+      "file": "tur-future-secondary-7.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "wro-tur-2",
+      "url": "https://wroturkiye.org/robomission-kucuk-yildizlar/",
+      "final_url": "https://wroturkiye.org/robomission-kucuk-yildizlar/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 83877,
+      "sha256": "24d1c6bf87099999b2273f1dee7310e5b5ef3abc0d1428c05487754c7d1e5772",
+      "file": "wro-tur-2.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "wro-tur-5",
+      "url": "https://wroturkiye.org/gelecegin-mucitleri-kucuk-yildizlar/",
+      "final_url": "https://wroturkiye.org/gelecegin-mucitleri-kucuk-yildizlar/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 84050,
+      "sha256": "0468abb949f4e9660d74929c3f67da4fd71e3fb370a3b1c22a048cd246d0e248",
+      "file": "wro-tur-5.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "tur-future-secondary-rules-pdf",
+      "url": "https://bilimkahramanlari.org/fll-future-edition-ortaokul-lise/dokuman/BKB_Katilim_Sartnamesi_2026_2027.pdf",
+      "final_url": "https://bilimkahramanlari.org/fll-future-edition-ortaokul-lise/dokuman/BKB_Katilim_Sartnamesi_2026_2027.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 460283,
+      "sha256": "e356a08b513905803f9be6418608cae7581f0c381c105cc71f0077f54e1e66a6",
+      "file": "tur-future-secondary-rules-pdf.pdf",
+      "response_hash_verified": true
+    },
+    {
+      "key": "tur-future-primary-hardware-pdf",
+      "url": "https://bilimkahramanlari.org/fll-future-edition-ilkokul/dokuman/2026/2026-2027_Future_Edition_Izin_Verilen_Donanimlar.pdf",
+      "final_url": "https://bilimkahramanlari.org/fll-future-edition-ilkokul/dokuman/2026/2026-2027_Future_Edition_Izin_Verilen_Donanimlar.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 199904,
+      "sha256": "ed35131279e8cdc048620d24e6cf577552bd5684cba9a44863053e20c3fd33cb",
+      "file": "tur-future-primary-hardware-pdf.pdf",
+      "response_hash_verified": true
+    },
+    {
+      "key": "blue-classic",
+      "url": "https://bluebutterfly.etw.hr/camp/americki-ljetni-kamp-sibenik-classic/",
+      "final_url": "https://bluebutterfly.etw.hr/camp/americki-ljetni-kamp-sibenik-classic/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 335453,
+      "sha256": "6098eee954c4f41880d5a61790ba02762c7f7db1c3a43e4c66267d9eb4835651",
+      "file": "blue-classic.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "space-youth-list-system-curl",
+      "url": "https://reservation.spacecampturkey.com/program/youthProgramsEn",
+      "final_url": "https://reservation.spacecampturkey.com/program/youthProgramsEn",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 80018,
+      "sha256": "5eeed77e1792a7bef1c9aa73f33e77f25e23e71f98e42728f2a0373bcc539230",
+      "file": "space-youth-list-curl.html",
+      "response_hash_verified": true,
+      "transport": "curl del sistema con verificación TLS"
+    }
+  ],
+  "public_read_only_GET": true,
+  "no_registration_or_contact": true,
+  "raw_bodies_PDF_and_rosters_private": true
+}

@@ -6,9 +6,9 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 5340; competiciones: 1636; eventos: 241; campamentos / programas: 3463. Perfiles de ligas y programas: 170. Fichas de exposiciones grandes y especializadas: 155 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 5479; competiciones: 1761; eventos: 244; campamentos / programas: 3474. Perfiles de ligas y programas: 181. Fichas de exposiciones grandes y especializadas: 158 — son ediciones y sedes, no cantidad de marcas únicas.
 
-Hay registros concretos para 112 de 249 países y territorios; países completamente auditados: 0. Ronda archivada v51: añadidas 21 fichas y 3 perfiles. Conservadas todas las fichas anteriores.
+Hay registros concretos para 115 de 249 países y territorios; países completamente auditados: 0. Ronda archivada v51: añadidas 21 fichas y 3 perfiles. Conservadas todas las fichas anteriores.
 
 ## Cobertura por continentes
 
@@ -16,14 +16,14 @@ Hay registros concretos para 112 de 249 países y territorios; países completam
 |---|---:|---:|---:|---:|
 | América del Norte | 15 | 605 | 19 | 950 |
 | América del Sur | 10 | 159 | 7 | 113 |
-| Europa | 36 | 329 | 52 | 1221 |
+| Europa | 39 | 360 | 52 | 1228 |
 | África | 16 | 73 | 7 | 42 |
-| Asia | 30 | 392 | 68 | 1018 |
+| Asia | 31 | 486 | 71 | 1022 |
 | Oceanía | 4 | 29 | 2 | 113 |
 
 Fichas interregionales / globales sin atribuir a un continente: 60. América del Norte incluye América Central y Caribe. Cantidades muestran inventario de base, no porcentaje de integridad.
 
-VEX: 518 de 1636 fichas de competiciones (31.7%). Existe un claro sesgo de cobertura.
+VEX: 518 de 1761 fichas de competiciones (29.4%). Existe un claro sesgo de cobertura.
 
 ## Lo que queda
 
@@ -93,8 +93,8 @@ VEX: 518 de 1636 fichas de competiciones (31.7%). Existe un claro sesgo de cober
 
 ## ~ Proyecciones de ligas y programas
 
-- **WRO**: 98 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://wro-association.org/competition/categories/
-- **FIRST**: 177 fichas, 108 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.firstinspires.org/programs/fll/
+- **WRO**: 110 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://wro-association.org/competition/categories/
+- **FIRST**: 283 fichas, 185 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.firstinspires.org/programs/fll/
 - **VEX Robotics**: 518 fichas, 421 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.vexrobotics.com/official-path
 - *RoboCupJunior**: 4 tarjetas, 2 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://junior.robocup.org/
 - **MakeX**: 15 fichas, 11 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.makex.cc/en/2026-makex
@@ -263,6 +263,17 @@ VEX: 518 de 1636 fichas de competiciones (31.7%). Existe un claro sesgo de cober
 - **WRO Hungary · KIDS 6–10**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://wro.hu/kids_kategoria/
 - **Robotex Cyprus · local school levels**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://robotex.org.cy/en/page/competitions-page/
 - **RoboChallenge Romania · international Kids / open robotics**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://robochallenge.ro/about
+- **FIRST LEGO League · Adria 2026/27**: 14 fichas, 11 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.fll.si/2026/koledar-2026-27
+- **LEGO League · Adria successor 2027/28**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.fll.si/vprasanja-in-odgovori-2026/nova-lego-liga-2027/28
+- **FIRST LEGO League · Türkiye 2026/27**: 85 fichas, 62 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://bilimkahramanlari.org/fll-explore/
+- **FIRST LEGO League · Cyprus 2026/27**: 4 fichas, 4 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.firstlegoleague.org.cy/assets/media/Announcements/FLL%20CYPRUS%202026-2027%20Announcement(FV)(Greek)(New).pdf
+- **FIRST LEGO League · Albania local route**: 2 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://firstlegoleague.al/
+- **FIRST LEGO League · North Macedonia watch**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://pretsedatel.mk/first-lego-league-14-03-2026/
+- **WRO · Adria national / Kids routes**: 12 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://wrocrnagora.me/
+- **Croatian Makers / Vibe Coding · different programme histories**: 2 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.croatianmakers.hr/novosti/irim-nova-faza-djelovanja/
+- **Robokup Croatia · school engineering**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.hztk.hr/robokup-2027.aspx
+- **TEKNOFEST · school projects and Robolig**: 2 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.teknofest.org/tr/yarismalar/insanlik-yararina-teknolojiler-yarismasi-ilkokul-seviyesi/
+- **International MEB Robot Competition**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://robot.meb.gov.tr/
 
 ## Grandes exposiciones: tarjetas de identidad
 
@@ -421,6 +432,9 @@ VEX: 518 de 1636 fichas de competiciones (31.7%). Existe un claro sesgo de cober
 - **Malaysia Technology Expo · próxima edición presencial** — Malasia; fecha desconocida. Confirmar acceso infantil. https://www.mte.org.my/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
+- **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors
+- **Robot Investments & Maintenance 4.0 Summit · next edition watch** — Turquía; fecha desconocida. Confirmar admisión infantil. https://www.robotyatirimlari.com/
+- **TEKNOFEST · aviation, space & technology festival · next edition watch** — Turquía; fecha desconocida. Con adulto; condiciones de entrada adulta aparte. https://teknofest.org/tr/kurumsal/sss/
 
 ## ~ Añadida en esta versión
 

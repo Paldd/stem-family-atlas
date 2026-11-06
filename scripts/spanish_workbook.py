@@ -59,7 +59,7 @@ HEADERS.update({
  'eligibility_birth_years':'Años de nacimiento admitidos','parent_programme_slug':'Programa principal',
  'partner_locations_unconfirmed':'Sedes de socios sin confirmar','confirmed_support_languages':'Idiomas de apoyo confirmados',
  'programme_category':'Categoría de programa','available_staff_languages':'Idiomas del personal',
- 'catalog_participation':'Participación en el catálogo','programme_type':'Tipo de programa','programme_kind':'Modalidad del programa',
+ 'catalog_participation':'Participación en el catálogo','programme_type':'Tipo de programa','programme_kind':'Modalidad del programa','date_conflict':'Conflicto en la fecha fuente','source_date_text':'Fecha textual de la fuente','roster_update_deadline':'Plazo para cambios de integrantes',
  'canonical_event_id':'ID de la ficha principal','parent_programme_id':'ID del programa principal',
  'related_programme_ids':'IDs de programas relacionados',
  'requires_parent_programme_ids':'IDs de programas base obligatorios',

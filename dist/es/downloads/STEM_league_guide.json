@@ -154,7 +154,19 @@
           "C1630",
           "C1631",
           "C1632",
-          "C1633"
+          "C1633",
+          "C1745",
+          "C1746",
+          "C1747",
+          "C1748",
+          "C1749",
+          "C1750",
+          "C1751",
+          "C1752",
+          "C1753",
+          "C1754",
+          "C1755",
+          "C1756"
         ],
         "legacy_ids": [
           "C006",
@@ -473,7 +485,113 @@
           "C1614",
           "C1615",
           "C1616",
-          "C1617"
+          "C1617",
+          "C1638",
+          "C1639",
+          "C1640",
+          "C1641",
+          "C1642",
+          "C1643",
+          "C1644",
+          "C1645",
+          "C1646",
+          "C1647",
+          "C1648",
+          "C1649",
+          "C1650",
+          "C1651",
+          "C1653",
+          "C1654",
+          "C1655",
+          "C1656",
+          "C1657",
+          "C1658",
+          "C1659",
+          "C1660",
+          "C1661",
+          "C1662",
+          "C1663",
+          "C1664",
+          "C1665",
+          "C1666",
+          "C1667",
+          "C1668",
+          "C1669",
+          "C1670",
+          "C1671",
+          "C1672",
+          "C1673",
+          "C1674",
+          "C1675",
+          "C1676",
+          "C1677",
+          "C1678",
+          "C1679",
+          "C1680",
+          "C1681",
+          "C1682",
+          "C1683",
+          "C1684",
+          "C1685",
+          "C1686",
+          "C1687",
+          "C1688",
+          "C1689",
+          "C1690",
+          "C1691",
+          "C1692",
+          "C1693",
+          "C1694",
+          "C1695",
+          "C1696",
+          "C1697",
+          "C1698",
+          "C1699",
+          "C1700",
+          "C1701",
+          "C1702",
+          "C1703",
+          "C1704",
+          "C1705",
+          "C1706",
+          "C1707",
+          "C1708",
+          "C1709",
+          "C1710",
+          "C1711",
+          "C1712",
+          "C1713",
+          "C1714",
+          "C1715",
+          "C1716",
+          "C1717",
+          "C1718",
+          "C1719",
+          "C1720",
+          "C1721",
+          "C1722",
+          "C1723",
+          "C1724",
+          "C1725",
+          "C1726",
+          "C1727",
+          "C1728",
+          "C1729",
+          "C1730",
+          "C1731",
+          "C1732",
+          "C1733",
+          "C1734",
+          "C1735",
+          "C1736",
+          "C1737",
+          "C1738",
+          "C1739",
+          "C1740",
+          "C1741",
+          "C1742",
+          "C1743",
+          "C1744"
         ],
         "legacy_ids": [
           "C003",
@@ -15521,11 +15639,749 @@
           }
         ],
         "evidence": "Verificados tres reglamentos Kids; otras disciplinas y reglas futuras requieren auditoría aparte. Edición 2027 sin anunciar queda en seguimiento."
+      },
+      {
+        "id": "fll-adria-2027",
+        "name": "FIRST LEGO League · Adria 2026/27",
+        "group": "regional",
+        "age_summary": "Categorías locales de edad / curso; ver tabla",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Adria 2026/27: Challenge 10–16, nacidos 1 de enero 2010 – 31 de diciembre 2016; equipo 3–10. Matvey 2017 queda fuera aunque en 2027 cumpla 10. Eslovenia un adulto, recomiendan dos; página regional HR / RS exige dos. UMIPCG Montenegro indica 9–16 y dos mentores, en conflicto con ventana regional: requiere decisión del operador. Explore Adria 2026/27: 6–10, nacimientos 2016–2020; página regional cursos 1–5, equipo 2–6 y adulto. Ambos años de nacimiento encajan, pero confirmar curso de Oscar y acceso extranjero. Es muestra de proyecto y reconocimiento de participantes. Eslovenia Future 2026/27: 9–16, nacidos 2010–2017, equipo 4–10, recomiendan 8; uno o dos adultos. Matvey encaja por año, Oscar 2020 queda fuera. Dos CS & AI 8+ / 11+ por equipo; 8+ requiere hardware adicional. SPIKE no sustituye plataforma.",
+        "categories": [
+          {
+            "name": "Founders Challenge",
+            "age": "10–16 · nacidos 2010–2016",
+            "team": "3–10 niños + mentor adulto; requisitos locales de adultos en descripción.",
+            "hardware": "SPIKE Prime / EV3 / NXT / RCX / Inventor + BIOGLOW field",
+            "age_rule": "No: año de nacimiento fuera de ventana local 2010–2016. / No: año de nacimiento fuera de ventana local 2010–2016.",
+            "entry": "Adria 2026/27: Challenge 10–16, nacidos 1 de enero 2010 – 31 de diciembre 2016; equipo 3–10. Matvey 2017 queda fuera aunque en 2027 cumpla 10. Eslovenia un adulto, recomiendan dos; página regional HR / RS exige dos. UMIPCG Montenegro indica 9–16 y dos mentores, en conflicto con ventana regional: requiere decisión del operador. Confirmar por separado curso exacto, admisión extranjera, idioma de evaluación, equipo, entrenador, plazas e invoice final. Posibilidad por edad no significa admisión ni plaza nacional."
+          },
+          {
+            "name": "Founders Explore",
+            "age": "6–10 · nacidos 2016–2020 · cursos 1–5",
+            "team": "2–6 niños + mentor adulto; requisitos locales de adultos en descripción.",
+            "hardware": "SPIKE Essential / WeDo + Explore set",
+            "age_rule": "Condicional: año 2017 en ventana; curso, idioma y acceso extranjero aparte. / Condicional: año 2020 en ventana, pero exige curso 1–5.",
+            "entry": "Explore Adria 2026/27: 6–10, nacimientos 2016–2020; página regional cursos 1–5, equipo 2–6 y adulto. Ambos años de nacimiento encajan, pero confirmar curso de Oscar y acceso extranjero. Es muestra de proyecto y reconocimiento de participantes. En Eslovenia día principal 10 de abril; 24 de abril 2027 reserva, no segundo festival."
+          },
+          {
+            "name": "Future Older",
+            "age": "9–16 · nacidos 2010–2017",
+            "team": "4–10 niños + mentor adulto; requisitos locales de adultos en descripción.",
+            "hardware": "2 × LEGO Education CS & AI 8+ / 11+",
+            "age_rule": "Condicional: año 2017 admitido, pero equipo mínimo 4 y acceso extranjero aparte. / No: año 2020 fuera de ventana 2010–2017.",
+            "entry": "Eslovenia Future 2026/27: 9–16, nacidos 2010–2017, equipo 4–10, recomiendan 8; uno o dos adultos. Matvey encaja por año, Oscar 2020 queda fuera. Dos CS & AI 8+ / 11+ por equipo; 8+ requiere hardware adicional. SPIKE no sustituye plataforma."
+          },
+          {
+            "name": "Future Younger",
+            "age": "cursos escolares 1–3 · corte local por anunciar",
+            "team": "Equipo; composición exacta según reglamento de categoría.",
+            "hardware": "Confirmar kit y reglamento técnico de categoría elegida.",
+            "age_rule": "Condicional / Condicional",
+            "entry": "Primera tríada escolar anunciada aparte; página promete inscripción desde octubre, pero edad, paquete y fecha propia del grupo menor sin confirmar. Sin asignar automáticamente fecha del grupo mayor."
+          }
+        ],
+        "event_ids": [
+          "C1638",
+          "C1639",
+          "C1640",
+          "C1641",
+          "C1642",
+          "C1643",
+          "C1644",
+          "C1645",
+          "C1646",
+          "C1647",
+          "C1648",
+          "C1649",
+          "C1650",
+          "C1651"
+        ],
+        "legacy_ids": [],
+        "route": "Confirmar por separado curso exacto, admisión extranjera, idioma de evaluación, equipo, entrenador, plazas e invoice final. Posibilidad por edad no significa admisión ni plaza nacional.",
+        "hardware": "Plataforma según programa local; cuota no implica robot incluido.",
+        "language": "Materiales en idioma local y algunas versiones inglesas. Entrevista EN / ES / RU sin confirmar; idioma web no considerado idioma de evaluación.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Confirmar por separado curso exacto, admisión extranjera, idioma de evaluación, equipo, entrenador, plazas e invoice final. Posibilidad por edad no significa admisión ni plaza nacional."
+        ],
+        "nuances": [
+          "Medalla de festival / certificado de participación no equivalen a victoria. Premios competitivos y plaza nacional según reglamento concreto."
+        ],
+        "cost": "Tarifa nueva y condiciones finales sin anunciar. Precio desconocido no equivale a cero.",
+        "award": "Medalla de festival / certificado de participación no equivalen a victoria. Premios competitivos y plaza nacional según reglamento concreto.",
+        "sources": [
+          {
+            "title": "FIRST LEGO League · Adria 2026/27",
+            "url": "https://www.fll.si/2026/koledar-2026-27",
+            "checked": "2026-11-05"
+          }
+        ],
+        "evidence": "Leídas fuentes primarias locales; conservadas incógnitas, contradicciones y temporadas antiguas."
+      },
+      {
+        "id": "lego-league-adria",
+        "name": "LEGO League · Adria successor 2027/28",
+        "group": "regional",
+        "age_summary": "Categorías locales de edad / curso; ver tabla",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Nueva vía LEGO Education anunciada desde agosto 2027, inscripción regional desde 1 de abril. No sustituye futura K–8 de FIRST.",
+        "categories": [
+          {
+            "name": "Successor Watch",
+            "age": "5–16 · esquema anunciado del programa",
+            "team": "Equipo; composición exacta según reglamento de categoría.",
+            "hardware": "Confirmar kit y reglamento técnico de categoría elegida.",
+            "age_rule": "Condicional / Condicional",
+            "entry": "Operador regional anuncia apertura de inscripción 1 de abril 2027 y nueva LEGO League en agosto 2027. Días de torneos y cuotas aún sin determinar. En transición 2027/28 anuncia versiones con plataforma anterior y CS & AI. Sucesor de LEGO Education separado; futura K–8 de FIRST es otra vía."
+          }
+        ],
+        "event_ids": [
+          "C1652"
+        ],
+        "legacy_ids": [],
+        "route": "Confirmar por separado curso exacto, admisión extranjera, idioma de evaluación, equipo, entrenador, plazas e invoice final. Posibilidad por edad no significa admisión ni plaza nacional.",
+        "hardware": "Plataforma según programa local; cuota no implica robot incluido.",
+        "language": "Materiales en idioma local y algunas versiones inglesas. Entrevista EN / ES / RU sin confirmar; idioma web no considerado idioma de evaluación.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Confirmar por separado curso exacto, admisión extranjera, idioma de evaluación, equipo, entrenador, plazas e invoice final. Posibilidad por edad no significa admisión ni plaza nacional."
+        ],
+        "nuances": [
+          "Medalla de festival / certificado de participación no equivalen a victoria. Premios competitivos y plaza nacional según reglamento concreto."
+        ],
+        "cost": "Tarifa nueva y condiciones finales sin anunciar. Precio desconocido no equivale a cero.",
+        "award": "Medalla de festival / certificado de participación no equivalen a victoria. Premios competitivos y plaza nacional según reglamento concreto.",
+        "sources": [
+          {
+            "title": "LEGO League · Adria successor 2027/28",
+            "url": "https://www.fll.si/vprasanja-in-odgovori-2026/nova-lego-liga-2027/28",
+            "checked": "2026-11-05"
+          }
+        ],
+        "evidence": "Leídas fuentes primarias locales; conservadas incógnitas, contradicciones y temporadas antiguas."
+      },
+      {
+        "id": "fll-turkey-local",
+        "name": "FIRST LEGO League · Türkiye 2026/27",
+        "group": "regional",
+        "age_summary": "Categorías locales de edad / curso; ver tabla",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Türkiye 2026/27: Explore 3–6 niños, Future İlkokul 3–4; ambos 6–10, nacidos 2016–2020 y solo cursos 1–4. Preescolar y secundaria excluidos aunque cumplan edad. Coach mayor de 18 obligatorio; hasta dos advisers opcionales desde 17. Dos hermanos no bastan. Cambios de plantilla hasta 12 de febrero 2027; no es cierre de inscripción confirmado. Türkiye 2026/27: Challenge 4–10, Future Ortaokul/Lise 4–8; edad 9–16 y nacimientos 2011–2017. Exige secundaria / bachillerato; primaria excluida aunque encaje año. Coach mayor de 18, hasta dos advisers desde 17. Institución privada / pública; plazas limitadas para equipos independientes acordadas con operador. Consentimientos un mes antes del torneo; sin enviarlos.",
+        "categories": [
+          {
+            "name": "Founders Challenge",
+            "age": "9–16 · nacidos 2011–2017 · solo secundaria",
+            "team": "4–10 niños + mentor adulto; requisitos locales de adultos en descripción.",
+            "hardware": "SPIKE Prime / EV3 / NXT + BIOGLOW field",
+            "age_rule": "Condicional: año 2017 encaja, pero primaria excluida; requiere nivel de secundaria confirmado. / No: año 2020 fuera de ventana 2011–2017.",
+            "entry": "Türkiye 2026/27: Challenge 4–10, Future Ortaokul/Lise 4–8; edad 9–16 y nacimientos 2011–2017. Exige secundaria / bachillerato; primaria excluida aunque encaje año. Coach mayor de 18, hasta dos advisers desde 17. Institución privada / pública; plazas limitadas para equipos independientes acordadas con operador. Consentimientos un mes antes del torneo; sin enviarlos."
+          },
+          {
+            "name": "Founders Explore",
+            "age": "6–10 · nacidos 2016–2020 · cursos 1–4",
+            "team": "3–6 niños + mentor adulto; requisitos locales de adultos en descripción.",
+            "hardware": "SPIKE Essential / WeDo + Explore set",
+            "age_rule": "Condicional: año 2017 en ventana; confirmar curso 1–4, equipo y admisión extranjera. / Condicional: año 2020 en ventana, pero preescolar excluido.",
+            "entry": "Türkiye 2026/27: Explore 3–6 niños, Future İlkokul 3–4; ambos 6–10, nacidos 2016–2020 y solo cursos 1–4. Preescolar y secundaria excluidos aunque cumplan edad. Coach mayor de 18 obligatorio; hasta dos advisers opcionales desde 17. Dos hermanos no bastan. Cambios de plantilla hasta 12 de febrero 2027; no es cierre de inscripción confirmado. Medalla de festival / certificado de participación no equivalen a victoria. Premios competitivos y plaza nacional según reglamento concreto."
+          },
+          {
+            "name": "Future Primary",
+            "age": "6–10 · nacidos 2016–2020 · cursos 1–4",
+            "team": "3–4 niños + mentor adulto; requisitos locales de adultos en descripción.",
+            "hardware": "Future İlkokul: recomiendan un CS & AI 8+; lista específica admite algunos motores y sensor de color. Mando LEGO Education prohibido en todas etapas de este programa menor. No trasladar remote control de Future mayor a categoría menor.",
+            "age_rule": "Condicional: año 2017 en ventana; confirmar curso 1–4, equipo y admisión extranjera. / Condicional: año 2020 en ventana, pero preescolar excluido.",
+            "entry": "Türkiye 2026/27: Explore 3–6 niños, Future İlkokul 3–4; ambos 6–10, nacidos 2016–2020 y solo cursos 1–4. Preescolar y secundaria excluidos aunque cumplan edad. Coach mayor de 18 obligatorio; hasta dos advisers opcionales desde 17. Dos hermanos no bastan. Cambios de plantilla hasta 12 de febrero 2027; no es cierre de inscripción confirmado. Future İlkokul: recomiendan un CS & AI 8+; lista específica admite algunos motores y sensor de color. Mando LEGO Education prohibido en todas etapas de este programa menor. No trasladar remote control de Future mayor a categoría menor."
+          },
+          {
+            "name": "Future Secondary",
+            "age": "9–16 · nacidos 2011–2017 · solo secundaria",
+            "team": "4–8 niños + mentor adulto; requisitos locales de adultos en descripción.",
+            "hardware": "LEGO Education CS & AI · cuatro roles",
+            "age_rule": "Condicional: año 2017 encaja, pero exige secundaria; primaria no admitida. / No: año 2020 fuera de ventana.",
+            "entry": "Türkiye 2026/27: Challenge 4–10, Future Ortaokul/Lise 4–8; edad 9–16 y nacimientos 2011–2017. Exige secundaria / bachillerato; primaria excluida aunque encaje año. Coach mayor de 18, hasta dos advisers desde 17. Institución privada / pública; plazas limitadas para equipos independientes acordadas con operador. Consentimientos un mes antes del torneo; sin enviarlos. Tabla nombra etapas locales Ankara / İstanbul / İzmir y nacional; días / sedes aún sin publicar. Ventana 6 de febrero – 21 de marzo 2027 no convertida en evento continuo. Fecha nacional Founders no copiada a Future."
+          }
+        ],
+        "event_ids": [
+          "C1653",
+          "C1654",
+          "C1655",
+          "C1656",
+          "C1657",
+          "C1658",
+          "C1659",
+          "C1660",
+          "C1661",
+          "C1662",
+          "C1663",
+          "C1664",
+          "C1665",
+          "C1666",
+          "C1667",
+          "C1668",
+          "C1669",
+          "C1670",
+          "C1671",
+          "C1672",
+          "C1673",
+          "C1674",
+          "C1675",
+          "C1676",
+          "C1677",
+          "C1678",
+          "C1679",
+          "C1680",
+          "C1681",
+          "C1682",
+          "C1683",
+          "C1684",
+          "C1685",
+          "C1686",
+          "C1687",
+          "C1688",
+          "C1689",
+          "C1690",
+          "C1691",
+          "C1692",
+          "C1693",
+          "C1694",
+          "C1695",
+          "C1696",
+          "C1697",
+          "C1698",
+          "C1699",
+          "C1700",
+          "C1701",
+          "C1702",
+          "C1703",
+          "C1704",
+          "C1705",
+          "C1706",
+          "C1707",
+          "C1708",
+          "C1709",
+          "C1710",
+          "C1711",
+          "C1712",
+          "C1713",
+          "C1714",
+          "C1715",
+          "C1716",
+          "C1717",
+          "C1718",
+          "C1719",
+          "C1720",
+          "C1721",
+          "C1722",
+          "C1723",
+          "C1724",
+          "C1725",
+          "C1726",
+          "C1727",
+          "C1728",
+          "C1729",
+          "C1730",
+          "C1731",
+          "C1732",
+          "C1733",
+          "C1734",
+          "C1735",
+          "C1736",
+          "C1737"
+        ],
+        "legacy_ids": [],
+        "route": "Confirmar por separado curso exacto, admisión extranjera, idioma de evaluación, equipo, entrenador, plazas e invoice final. Posibilidad por edad no significa admisión ni plaza nacional.",
+        "hardware": "Plataforma según programa local; cuota no implica robot incluido.",
+        "language": "Materiales en idioma local y algunas versiones inglesas. Entrevista EN / ES / RU sin confirmar; idioma web no considerado idioma de evaluación.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Confirmar por separado curso exacto, admisión extranjera, idioma de evaluación, equipo, entrenador, plazas e invoice final. Posibilidad por edad no significa admisión ni plaza nacional."
+        ],
+        "nuances": [
+          "Medalla de festival / certificado de participación no equivalen a victoria. Premios competitivos y plaza nacional según reglamento concreto."
+        ],
+        "cost": "Tarifa nueva y condiciones finales sin anunciar. Precio desconocido no equivale a cero.",
+        "award": "Medalla de festival / certificado de participación no equivalen a victoria. Premios competitivos y plaza nacional según reglamento concreto.",
+        "sources": [
+          {
+            "title": "FIRST LEGO League · Türkiye 2026/27",
+            "url": "https://bilimkahramanlari.org/fll-explore/",
+            "checked": "2026-11-05"
+          }
+        ],
+        "evidence": "Leídas fuentes primarias locales; conservadas incógnitas, contradicciones y temporadas antiguas."
+      },
+      {
+        "id": "fll-cyprus-local",
+        "name": "FIRST LEGO League · Cyprus 2026/27",
+        "group": "regional",
+        "age_summary": "Categorías locales de edad / curso; ver tabla",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Cyprus BIOGLOW: PDF estacional indica Explore 5–9, Future 5–8, Challenge 10–16 y Future 9–16. Página Explore aún dice 6–10 y cursos 1–4: conflicto de edad conservado. Menores 2–6 y festival sin ranking; Challenge 2–10, Future 9–16 de 2–6 aunque describe cuatro roles. Confirmar corte de edad, reparto de roles y plaza extranjera.",
+        "categories": [
+          {
+            "name": "Founders Explore",
+            "age": "5–9 PDF / 6–10 web",
+            "team": "2–6 niños + mentor adulto; requisitos locales de adultos en descripción.",
+            "hardware": "SPIKE / WeDo · Founders; CS & AI · Future",
+            "age_rule": "Condicional: corte local y conflicto Explore / nivel escolar requieren comprobación. / Condicional: grupo menor, corte y acceso extranjero aparte.",
+            "entry": "Cyprus BIOGLOW: PDF estacional indica Explore 5–9, Future 5–8, Challenge 10–16 y Future 9–16. Página Explore aún dice 6–10 y cursos 1–4: conflicto de edad conservado. Menores 2–6 y festival sin ranking; Challenge 2–10, Future 9–16 de 2–6 aunque describe cuatro roles. Confirmar corte de edad, reparto de roles y plaza extranjera. Ventana común 20–21 de marzo no asigna día exacto a cada programa. PDF promete Future después de 2027 bajo marca anterior; no sustituye anuncio global actual de fin de FLL."
+          },
+          {
+            "name": "Future 5–8",
+            "age": "5–8",
+            "team": "2–6 niños + mentor adulto; requisitos locales de adultos en descripción.",
+            "hardware": "SPIKE / WeDo · Founders; CS & AI · Future",
+            "age_rule": "No: mayor de 8 años. / Condicional: grupo menor, corte y acceso extranjero aparte.",
+            "entry": "Cyprus BIOGLOW: PDF estacional indica Explore 5–9, Future 5–8, Challenge 10–16 y Future 9–16. Página Explore aún dice 6–10 y cursos 1–4: conflicto de edad conservado. Menores 2–6 y festival sin ranking; Challenge 2–10, Future 9–16 de 2–6 aunque describe cuatro roles. Confirmar corte de edad, reparto de roles y plaza extranjera. Ventana común 20–21 de marzo no asigna día exacto a cada programa. PDF promete Future después de 2027 bajo marca anterior; no sustituye anuncio global actual de fin de FLL."
+          },
+          {
+            "name": "Founders Challenge",
+            "age": "10–16",
+            "team": "2–10 niños + mentor adulto; requisitos locales de adultos en descripción.",
+            "hardware": "SPIKE / WeDo · Founders; CS & AI · Future",
+            "age_rule": "Condicional: corte local y conflicto Explore / nivel escolar requieren comprobación. / No: menor que grupo mayor.",
+            "entry": "Cyprus BIOGLOW: PDF estacional indica Explore 5–9, Future 5–8, Challenge 10–16 y Future 9–16. Página Explore aún dice 6–10 y cursos 1–4: conflicto de edad conservado. Menores 2–6 y festival sin ranking; Challenge 2–10, Future 9–16 de 2–6 aunque describe cuatro roles. Confirmar corte de edad, reparto de roles y plaza extranjera. Ventana común 20–21 de marzo no asigna día exacto a cada programa. PDF promete Future después de 2027 bajo marca anterior; no sustituye anuncio global actual de fin de FLL."
+          },
+          {
+            "name": "Future 9–16",
+            "age": "9–16",
+            "team": "2–6 niños + mentor adulto; requisitos locales de adultos en descripción.",
+            "hardware": "SPIKE / WeDo · Founders; CS & AI · Future",
+            "age_rule": "Condicional: corte local y conflicto Explore / nivel escolar requieren comprobación. / No: menor que grupo mayor.",
+            "entry": "Cyprus BIOGLOW: PDF estacional indica Explore 5–9, Future 5–8, Challenge 10–16 y Future 9–16. Página Explore aún dice 6–10 y cursos 1–4: conflicto de edad conservado. Menores 2–6 y festival sin ranking; Challenge 2–10, Future 9–16 de 2–6 aunque describe cuatro roles. Confirmar corte de edad, reparto de roles y plaza extranjera. Ventana común 20–21 de marzo no asigna día exacto a cada programa. PDF promete Future después de 2027 bajo marca anterior; no sustituye anuncio global actual de fin de FLL."
+          }
+        ],
+        "event_ids": [
+          "C1741",
+          "C1742",
+          "C1743",
+          "C1744"
+        ],
+        "legacy_ids": [],
+        "route": "Confirmar por separado curso exacto, admisión extranjera, idioma de evaluación, equipo, entrenador, plazas e invoice final. Posibilidad por edad no significa admisión ni plaza nacional.",
+        "hardware": "Plataforma según programa local; cuota no implica robot incluido.",
+        "language": "Materiales en idioma local y algunas versiones inglesas. Entrevista EN / ES / RU sin confirmar; idioma web no considerado idioma de evaluación.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Confirmar por separado curso exacto, admisión extranjera, idioma de evaluación, equipo, entrenador, plazas e invoice final. Posibilidad por edad no significa admisión ni plaza nacional."
+        ],
+        "nuances": [
+          "Medalla de festival / certificado de participación no equivalen a victoria. Premios competitivos y plaza nacional según reglamento concreto."
+        ],
+        "cost": "Tarifa nueva y condiciones finales sin anunciar. Precio desconocido no equivale a cero.",
+        "award": "Medalla de festival / certificado de participación no equivalen a victoria. Premios competitivos y plaza nacional según reglamento concreto.",
+        "sources": [
+          {
+            "title": "FIRST LEGO League · Cyprus 2026/27",
+            "url": "https://www.firstlegoleague.org.cy/assets/media/Announcements/FLL%20CYPRUS%202026-2027%20Announcement(FV)(Greek)(New).pdf",
+            "checked": "2026-11-05"
+          }
+        ],
+        "evidence": "Leídas fuentes primarias locales; conservadas incógnitas, contradicciones y temporadas antiguas."
+      },
+      {
+        "id": "fll-albania-local",
+        "name": "FIRST LEGO League · Albania local route",
+        "group": "regional",
+        "age_summary": "Categorías locales de edad / curso; ver tabla",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Confirmar por separado curso exacto, admisión extranjera, idioma de evaluación, equipo, entrenador, plazas e invoice final. Posibilidad por edad no significa admisión ni plaza nacional.",
+        "categories": [
+          {
+            "name": "Local Watch",
+            "age": "6–10 / cursos 1–4",
+            "team": "2–6 niños + mentor adulto; requisitos locales de adultos en descripción.",
+            "hardware": "Confirmar kit y reglamento técnico de categoría elegida.",
+            "age_rule": "Condicional / Condicional solo Explore; menor que orientación 9 para Challenge, confirmar reglas locales.",
+            "entry": "Albania: web describe Explore 6–10 / 2–6 y Challenge 9–16 / 2–10, pero sin calendario 2026/27. Macedonia del Norte: acreditado nacional UNEARTHED del 14 de marzo 2026 ya pasado; temporada nueva y reglas locales sin confirmar. Fechas antiguas y rangos globales no acreditan admisión actual."
+          }
+        ],
+        "event_ids": [
+          "C1738",
+          "C1739"
+        ],
+        "legacy_ids": [],
+        "route": "Confirmar por separado curso exacto, admisión extranjera, idioma de evaluación, equipo, entrenador, plazas e invoice final. Posibilidad por edad no significa admisión ni plaza nacional.",
+        "hardware": "Plataforma según programa local; cuota no implica robot incluido.",
+        "language": "Materiales en idioma local y algunas versiones inglesas. Entrevista EN / ES / RU sin confirmar; idioma web no considerado idioma de evaluación.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Confirmar por separado curso exacto, admisión extranjera, idioma de evaluación, equipo, entrenador, plazas e invoice final. Posibilidad por edad no significa admisión ni plaza nacional."
+        ],
+        "nuances": [
+          "Medalla de festival / certificado de participación no equivalen a victoria. Premios competitivos y plaza nacional según reglamento concreto."
+        ],
+        "cost": "Tarifa nueva y condiciones finales sin anunciar. Precio desconocido no equivale a cero.",
+        "award": "Medalla de festival / certificado de participación no equivalen a victoria. Premios competitivos y plaza nacional según reglamento concreto.",
+        "sources": [
+          {
+            "title": "FIRST LEGO League · Albania local route",
+            "url": "https://firstlegoleague.al/",
+            "checked": "2026-11-05"
+          }
+        ],
+        "evidence": "Leídas fuentes primarias locales; conservadas incógnitas, contradicciones y temporadas antiguas."
+      },
+      {
+        "id": "fll-macedonia-local",
+        "name": "FIRST LEGO League · North Macedonia watch",
+        "group": "regional",
+        "age_summary": "Categorías locales de edad / curso; ver tabla",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Confirmar por separado curso exacto, admisión extranjera, idioma de evaluación, equipo, entrenador, plazas e invoice final. Posibilidad por edad no significa admisión ni plaza nacional.",
+        "categories": [
+          {
+            "name": "Local Watch",
+            "age": "9–16 · corte local estacional por anunciar",
+            "team": "Equipo; composición exacta según reglamento de categoría.",
+            "hardware": "Confirmar kit y reglamento técnico de categoría elegida.",
+            "age_rule": "Condicional / No: menor que orientación publicada Challenge.",
+            "entry": "Albania: web describe Explore 6–10 / 2–6 y Challenge 9–16 / 2–10, pero sin calendario 2026/27. Macedonia del Norte: acreditado nacional UNEARTHED del 14 de marzo 2026 ya pasado; temporada nueva y reglas locales sin confirmar. Fechas antiguas y rangos globales no acreditan admisión actual."
+          }
+        ],
+        "event_ids": [
+          "C1740"
+        ],
+        "legacy_ids": [],
+        "route": "Confirmar por separado curso exacto, admisión extranjera, idioma de evaluación, equipo, entrenador, plazas e invoice final. Posibilidad por edad no significa admisión ni plaza nacional.",
+        "hardware": "Plataforma según programa local; cuota no implica robot incluido.",
+        "language": "Materiales en idioma local y algunas versiones inglesas. Entrevista EN / ES / RU sin confirmar; idioma web no considerado idioma de evaluación.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Confirmar por separado curso exacto, admisión extranjera, idioma de evaluación, equipo, entrenador, plazas e invoice final. Posibilidad por edad no significa admisión ni plaza nacional."
+        ],
+        "nuances": [
+          "Medalla de festival / certificado de participación no equivalen a victoria. Premios competitivos y plaza nacional según reglamento concreto."
+        ],
+        "cost": "Tarifa nueva y condiciones finales sin anunciar. Precio desconocido no equivale a cero.",
+        "award": "Medalla de festival / certificado de participación no equivalen a victoria. Premios competitivos y plaza nacional según reglamento concreto.",
+        "sources": [
+          {
+            "title": "FIRST LEGO League · North Macedonia watch",
+            "url": "https://pretsedatel.mk/first-lego-league-14-03-2026/",
+            "checked": "2026-11-05"
+          }
+        ],
+        "evidence": "Leídas fuentes primarias locales; conservadas incógnitas, contradicciones y temporadas antiguas."
+      },
+      {
+        "id": "wro-adria-kids",
+        "name": "WRO · Adria national / Kids routes",
+        "group": "regional",
+        "age_summary": "Categorías locales de edad / curso; ver tabla",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Seis operadores locales y juegos nacionales menores separados. Temporada 2026 no declarada calendario 2027; mínimo internacional 8 y edad anual no sustituidos por formato nacional menor.",
+        "categories": [
+          {
+            "name": "Elementary Watch",
+            "age": "8–12 · reglas locales 2026",
+            "team": "2–3 niños + mentor adulto; requisitos locales de adultos en descripción.",
+            "hardware": "Categoría y temporada determinan kits permitidos; no trasladar LEGO-only antiguo a reglamento internacional nuevo.",
+            "age_rule": "Condicional: edad anual WRO en 2027 es 10; confirmar reglas locales de temporada nueva y equipo extranjero. / No: edad anual WRO en 2027 es 7, menor que 8.",
+            "entry": "Leída temporada local 2026. Fechas, cuotas y composición de próxima temporada sin anunciar. Robo Starter / Početnici son vía nacional WRO-themed menor, no categoría internacional con plaza mundial. Matvey 2017 tiene edad anual WRO 10 en 2027, Oscar 2020 tiene 7. Oscar aún menor de 8 para nueva Elementary internacional."
+          },
+          {
+            "name": "National Kids Watch",
+            "age": "6–10 · reglas locales 2026",
+            "team": "2–3 niños + mentor adulto; requisitos locales de adultos en descripción.",
+            "hardware": "Categoría y temporada determinan kits permitidos; no trasladar LEGO-only antiguo a reglamento internacional nuevo.",
+            "age_rule": "Condicional: edad anual WRO en 2027 es 10; confirmar reglas locales de temporada nueva y equipo extranjero. / Condicional: solo juego nacional menor 6–10; reglas 2027 aún desconocidas.",
+            "entry": "Leída temporada local 2026. Fechas, cuotas y composición de próxima temporada sin anunciar. Robo Starter / Početnici son vía nacional WRO-themed menor, no categoría internacional con plaza mundial. Matvey 2017 tiene edad anual WRO 10 en 2027, Oscar 2020 tiene 7. Oscar aún menor de 8 para nueva Elementary internacional."
+          }
+        ],
+        "event_ids": [
+          "C1745",
+          "C1746",
+          "C1747",
+          "C1748",
+          "C1749",
+          "C1750",
+          "C1751",
+          "C1752",
+          "C1753",
+          "C1754",
+          "C1755",
+          "C1756"
+        ],
+        "legacy_ids": [],
+        "route": "Confirmar por separado curso exacto, admisión extranjera, idioma de evaluación, equipo, entrenador, plazas e invoice final. Posibilidad por edad no significa admisión ni plaza nacional.",
+        "hardware": "Plataforma según programa local; cuota no implica robot incluido.",
+        "language": "Materiales en idioma local y algunas versiones inglesas. Entrevista EN / ES / RU sin confirmar; idioma web no considerado idioma de evaluación.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Confirmar por separado curso exacto, admisión extranjera, idioma de evaluación, equipo, entrenador, plazas e invoice final. Posibilidad por edad no significa admisión ni plaza nacional."
+        ],
+        "nuances": [
+          "Medalla de festival / certificado de participación no equivalen a victoria. Premios competitivos y plaza nacional según reglamento concreto."
+        ],
+        "cost": "Tarifa nueva y condiciones finales sin anunciar. Precio desconocido no equivale a cero.",
+        "award": "Medalla de festival / certificado de participación no equivalen a victoria. Premios competitivos y plaza nacional según reglamento concreto.",
+        "sources": [
+          {
+            "title": "WRO · Adria national / Kids routes",
+            "url": "https://wrocrnagora.me/",
+            "checked": "2026-11-05"
+          }
+        ],
+        "evidence": "Leídas fuentes primarias locales; conservadas incógnitas, contradicciones y temporadas antiguas."
+      },
+      {
+        "id": "croatian-makers-history",
+        "name": "Croatian Makers / Vibe Coding · different programme histories",
+        "group": "regional",
+        "age_summary": "Categorías locales de edad / curso; ver tabla",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Gran liga robótica finalizada por IRIM desde 2025/26; Vibe Coding es proyecto separado de aplicaciones escolares AI. Premios antiguos no acreditan liga actual.",
+        "categories": [
+          {
+            "name": "Historical Circuit",
+            "age": "circuito escolar histórico",
+            "team": "Equipo; composición exacta según reglamento de categoría.",
+            "hardware": "Confirmar kit y reglamento técnico de categoría elegida.",
+            "age_rule": "Sin convocatoria actual: operador terminó gran liga nacional. / Sin convocatoria actual: operador terminó gran liga nacional.",
+            "entry": "IRIM anunció el 12 de septiembre 2025 fin de grandes programas nacionales, incluida Croatian Makers League, desde 2025/26. Página general y medallas antiguas no acreditan temporada activa 2026/27. Redes asociadas Serbia / Bosnia requieren auditoría aparte y no se consideran cerradas automáticamente."
+          },
+          {
+            "name": "Ai School Watch",
+            "age": "institución de primaria · rango infantil exacto por anunciar",
+            "team": "Equipo; composición exacta según reglamento de categoría.",
+            "hardware": "Confirmar kit y reglamento técnico de categoría elegida.",
+            "age_rule": "Condicional / Condicional",
+            "entry": "Proyecto escolar IRIM de aplicaciones AI separado, no continuación de campeonato robótico. Temporada descrita 2025/26: mínimo 50 colegios, mentores, licencias educativas, concurso creativo y evaluación de aplicaciones; inscripción hasta 10 de febrero 2026 ya pasada. Premios EUR 2000 / 1000 / 500 de concurso anterior, no prometidos en 2027. Convocatoria nueva, edad y colegio extranjero desconocidos."
+          }
+        ],
+        "event_ids": [
+          "C1758",
+          "C1759"
+        ],
+        "legacy_ids": [],
+        "route": "Confirmar por separado curso exacto, admisión extranjera, idioma de evaluación, equipo, entrenador, plazas e invoice final. Posibilidad por edad no significa admisión ni plaza nacional.",
+        "hardware": "Plataforma según programa local; cuota no implica robot incluido.",
+        "language": "Materiales en idioma local y algunas versiones inglesas. Entrevista EN / ES / RU sin confirmar; idioma web no considerado idioma de evaluación.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Confirmar por separado curso exacto, admisión extranjera, idioma de evaluación, equipo, entrenador, plazas e invoice final. Posibilidad por edad no significa admisión ni plaza nacional."
+        ],
+        "nuances": [
+          "Medalla de festival / certificado de participación no equivalen a victoria. Premios competitivos y plaza nacional según reglamento concreto."
+        ],
+        "cost": "Tarifa nueva y condiciones finales sin anunciar. Precio desconocido no equivale a cero.",
+        "award": "Medalla de festival / certificado de participación no equivalen a victoria. Premios competitivos y plaza nacional según reglamento concreto.",
+        "sources": [
+          {
+            "title": "Croatian Makers / Vibe Coding · different programme histories",
+            "url": "https://www.croatianmakers.hr/novosti/irim-nova-faza-djelovanja/",
+            "checked": "2026-11-05"
+          }
+        ],
+        "evidence": "Leídas fuentes primarias locales; conservadas incógnitas, contradicciones y temporadas antiguas."
+      },
+      {
+        "id": "robokup-croatia",
+        "name": "Robokup Croatia · school engineering",
+        "group": "regional",
+        "age_summary": "Categorías locales de edad / curso; ver tabla",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Confirmar por separado curso exacto, admisión extranjera, idioma de evaluación, equipo, entrenador, plazas e invoice final. Posibilidad por edad no significa admisión ni plaza nacional.",
+        "categories": [
+          {
+            "name": "School Competition",
+            "age": "cursos escolares 5–8",
+            "team": "3–3 niños + mentor adulto; requisitos locales de adultos en descripción.",
+            "hardware": "Confirmar kit y reglamento técnico de categoría elegida.",
+            "age_rule": "Condicional / Condicional",
+            "entry": "Robokup son tríos nacionales de cursos 5–8, no RoboCupJunior. Etapas de condado hasta 10 de enero 2027; informe del operador hasta 13 de enero no es plazo familiar. Nacional previsto en febrero, día / ciudad desconocidos. Clasificación de condado exige al menos tres equipos. Plantilla premiada anterior no puede repetirse; máximo un premiado nacional anterior en nuevo equipo. Menores pueden participar en actividades paralelas, sin admisión automática a competición principal."
+          }
+        ],
+        "event_ids": [
+          "C1757"
+        ],
+        "legacy_ids": [],
+        "route": "Confirmar por separado curso exacto, admisión extranjera, idioma de evaluación, equipo, entrenador, plazas e invoice final. Posibilidad por edad no significa admisión ni plaza nacional.",
+        "hardware": "Plataforma según programa local; cuota no implica robot incluido.",
+        "language": "Materiales en idioma local y algunas versiones inglesas. Entrevista EN / ES / RU sin confirmar; idioma web no considerado idioma de evaluación.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Confirmar por separado curso exacto, admisión extranjera, idioma de evaluación, equipo, entrenador, plazas e invoice final. Posibilidad por edad no significa admisión ni plaza nacional."
+        ],
+        "nuances": [
+          "Medalla de festival / certificado de participación no equivalen a victoria. Premios competitivos y plaza nacional según reglamento concreto."
+        ],
+        "cost": "Tarifa nueva y condiciones finales sin anunciar. Precio desconocido no equivale a cero.",
+        "award": "Medalla de festival / certificado de participación no equivalen a victoria. Premios competitivos y plaza nacional según reglamento concreto.",
+        "sources": [
+          {
+            "title": "Robokup Croatia · school engineering",
+            "url": "https://www.hztk.hr/robokup-2027.aspx",
+            "checked": "2026-11-05"
+          }
+        ],
+        "evidence": "Leídas fuentes primarias locales; conservadas incógnitas, contradicciones y temporadas antiguas."
+      },
+      {
+        "id": "teknofest-school",
+        "name": "TEKNOFEST · school projects and Robolig",
+        "group": "international",
+        "age_summary": "Categorías locales de edad / curso; ver tabla",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Proyecto de primaria admite un niño o equipo 1–6 y colegios internacionales; Robolig empieza en secundaria. Visita al festival, selección de proyecto y disciplina de ingeniería separadas.",
+        "categories": [
+          {
+            "name": "International Primary Project Watch",
+            "age": "alumnos de primaria",
+            "team": "1–6 niños + mentor adulto; requisitos locales de adultos en descripción.",
+            "hardware": "Confirmar kit y reglamento técnico de categoría elegida.",
+            "age_rule": "Condicional / Condicional",
+            "entry": "Reglas 2026 admiten primaria de Turquía y otros países: 1–6 niños, exactamente un mentor obligatorio fuera del número de participantes. Un niño también se inscribe como equipo; permiten colegios / países mixtos. Tres temas: naturaleza / sostenibilidad, espacio / aviación, vida saludable. Informe previo → semifinal online → prototipo / final. Final antiguo 18–20 de septiembre 2026 separado de festival Şanlıurfa 30 de septiembre – 4 de octubre; días futuros e idioma 2027 desconocidos."
+          },
+          {
+            "name": "Secondary Robotics Watch",
+            "age": "secundaria / bachillerato / universidad",
+            "team": "Equipo; composición exacta según reglamento de categoría.",
+            "hardware": "Confirmar kit y reglamento técnico de categoría elegida.",
+            "age_rule": "Condicional / Condicional",
+            "entry": "Robolig 2026 admite secundaria y mayores, no primaria. Al menos un Deneyap Kart; tareas de diez minutos en campo, informes, vídeo y presentación final. Tablas antiguas de premios primaria 2023 no acreditan categoría menor 2027. Confirmar días nuevos, edición técnica y acceso extranjero EN."
+          }
+        ],
+        "event_ids": [
+          "C1760",
+          "C1761"
+        ],
+        "legacy_ids": [],
+        "route": "Confirmar por separado curso exacto, admisión extranjera, idioma de evaluación, equipo, entrenador, plazas e invoice final. Posibilidad por edad no significa admisión ni plaza nacional.",
+        "hardware": "Plataforma según programa local; cuota no implica robot incluido.",
+        "language": "Materiales en idioma local y algunas versiones inglesas. Entrevista EN / ES / RU sin confirmar; idioma web no considerado idioma de evaluación.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Confirmar por separado curso exacto, admisión extranjera, idioma de evaluación, equipo, entrenador, plazas e invoice final. Posibilidad por edad no significa admisión ni plaza nacional."
+        ],
+        "nuances": [
+          "Medalla de festival / certificado de participación no equivalen a victoria. Premios competitivos y plaza nacional según reglamento concreto."
+        ],
+        "cost": "Tarifa nueva y condiciones finales sin anunciar. Precio desconocido no equivale a cero.",
+        "award": "Medalla de festival / certificado de participación no equivalen a victoria. Premios competitivos y plaza nacional según reglamento concreto.",
+        "sources": [
+          {
+            "title": "TEKNOFEST · school projects and Robolig",
+            "url": "https://www.teknofest.org/tr/yarismalar/insanlik-yararina-teknolojiler-yarismasi-ilkokul-seviyesi/",
+            "checked": "2026-11-05"
+          }
+        ],
+        "evidence": "Leídas fuentes primarias locales; conservadas incógnitas, contradicciones y temporadas antiguas."
+      },
+      {
+        "id": "meb-robot",
+        "name": "International MEB Robot Competition",
+        "group": "regional",
+        "age_summary": "Categorías locales de edad / curso; ver tabla",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Confirmar por separado curso exacto, admisión extranjera, idioma de evaluación, equipo, entrenador, plazas e invoice final. Posibilidad por edad no significa admisión ni plaza nacional.",
+        "categories": [
+          {
+            "name": "National Robotics Watch",
+            "age": "categorías escolares · reglas de temporada nueva por anunciar",
+            "team": "Equipo; composición exacta según reglamento de categoría.",
+            "hardware": "Confirmar kit y reglamento técnico de categoría elegida.",
+            "age_rule": "Condicional / Condicional",
+            "entry": "Página oficial corresponde a 18.ª competición 2026; siguiente edición y reglas menores sin publicar. FAQ archivada no sustituye admisión escolar nueva. Concurso MEB grande y separado de TEKNOFEST y FLL. Edad, categoría, equipo extranjero e idioma operativo requieren confirmación aparte."
+          }
+        ],
+        "event_ids": [
+          "C1762"
+        ],
+        "legacy_ids": [],
+        "route": "Confirmar por separado curso exacto, admisión extranjera, idioma de evaluación, equipo, entrenador, plazas e invoice final. Posibilidad por edad no significa admisión ni plaza nacional.",
+        "hardware": "Plataforma según programa local; cuota no implica robot incluido.",
+        "language": "Materiales en idioma local y algunas versiones inglesas. Entrevista EN / ES / RU sin confirmar; idioma web no considerado idioma de evaluación.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Confirmar por separado curso exacto, admisión extranjera, idioma de evaluación, equipo, entrenador, plazas e invoice final. Posibilidad por edad no significa admisión ni plaza nacional."
+        ],
+        "nuances": [
+          "Medalla de festival / certificado de participación no equivalen a victoria. Premios competitivos y plaza nacional según reglamento concreto."
+        ],
+        "cost": "Tarifa nueva y condiciones finales sin anunciar. Precio desconocido no equivale a cero.",
+        "award": "Medalla de festival / certificado de participación no equivalen a victoria. Premios competitivos y plaza nacional según reglamento concreto.",
+        "sources": [
+          {
+            "title": "International MEB Robot Competition",
+            "url": "https://robot.meb.gov.tr/",
+            "checked": "2026-11-05"
+          }
+        ],
+        "evidence": "Leídas fuentes primarias locales; conservadas incógnitas, contradicciones y temporadas antiguas."
       }
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "170 perfiles de ligas, familias y programas; conservadas las 46 vías anteriores. Formatos brasileños separados, Robofest LATAM y BajaBot locales descritos por sus categorías. Cobertura mundial parcial.",
+    "methodology": "181 perfiles de ligas, familias y programas; conservadas las 46 vías anteriores. Formatos brasileños separados, Robofest LATAM y BajaBot locales descritos por sus categorías. Cobertura mundial parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

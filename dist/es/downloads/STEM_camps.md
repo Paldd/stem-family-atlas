@@ -55446,6 +55446,70 @@ Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspond
 Fuente: https://justspeak.pl/oboz-jezykowy-dla-dzieci/
 Se ha comprobado: 2026-11-05
 
+### CP1377-20270704-20270710-galactic-en-1 · Space Camp Türkiye · Galactic Summer Camp · Galactic · English · 2027-07-04–2027-07-10
+
+lugar: Turquía · Gaziemir · İzmir
+Fecha: 2027-07-04 — 2027-07-10
+edad: 9–16 · esquema histórico; confirmar 2027
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: residente
+Idioma: Organizador indica expresamente inglés como idioma del campamento / idioma de trabajo junto al local. Confirmar nivel de grupo adecuado y contrato.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · Tabla pública 2027: 1390 $ por cada sesión inglesa. Precio de programa en tabla, no presupuesto familiar completo; confirmar código de moneda, inclusiones, impuestos, depósito, devoluciones y traslados. Tarifa turca 1290 $ no aplicada al inglés. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar admisión extranjera individual, edad / curso, nivel del grupo, inglés disponible, plazas, inclusiones y contrato final. Sin solicitudes, consentimientos ni pagos. Oscar: Menor que mínimo anterior 9; política de edad nueva desconocida. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa nueva y condiciones finales sin anunciar. Precio desconocido no equivale a cero.
+Fuente: https://reservation.spacecampturkey.com/program/youthProgramsEn
+Se ha comprobado: 2026-11-05
+
+### CP1377-20270711-20270717-galactic-en-2 · Space Camp Türkiye · Galactic Summer Camp · Galactic · English · 2027-07-11–2027-07-17
+
+lugar: Turquía · Gaziemir · İzmir
+Fecha: 2027-07-11 — 2027-07-17
+edad: 9–16 · esquema histórico; confirmar 2027
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: residente
+Idioma: Organizador indica expresamente inglés como idioma del campamento / idioma de trabajo junto al local. Confirmar nivel de grupo adecuado y contrato.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · Tabla pública 2027: 1390 $ por cada sesión inglesa. Precio de programa en tabla, no presupuesto familiar completo; confirmar código de moneda, inclusiones, impuestos, depósito, devoluciones y traslados. Tarifa turca 1290 $ no aplicada al inglés. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar admisión extranjera individual, edad / curso, nivel del grupo, inglés disponible, plazas, inclusiones y contrato final. Sin solicitudes, consentimientos ni pagos. Oscar: Menor que mínimo anterior 9; política de edad nueva desconocida. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa nueva y condiciones finales sin anunciar. Precio desconocido no equivale a cero.
+Fuente: https://reservation.spacecampturkey.com/program/youthProgramsEn
+Se ha comprobado: 2026-11-05
+
+### CP1377-20270718-20270724-galactic-en-3 · Space Camp Türkiye · Galactic Summer Camp · Galactic · English · 2027-07-18–2027-07-24
+
+lugar: Turquía · Gaziemir · İzmir
+Fecha: 2027-07-18 - 2027-07-24
+edad: 9–16 · esquema histórico; confirmar 2027
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: residente
+Idioma: Organizador indica expresamente inglés como idioma del campamento / idioma de trabajo junto al local. Confirmar nivel de grupo adecuado y contrato.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · Tabla pública 2027: 1390 $ por cada sesión inglesa. Precio de programa en tabla, no presupuesto familiar completo; confirmar código de moneda, inclusiones, impuestos, depósito, devoluciones y traslados. Tarifa turca 1290 $ no aplicada al inglés. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar admisión extranjera individual, edad / curso, nivel del grupo, inglés disponible, plazas, inclusiones y contrato final. Sin solicitudes, consentimientos ni pagos. Oscar: Menor que mínimo anterior 9; política de edad nueva desconocida. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa nueva y condiciones finales sin anunciar. Precio desconocido no equivale a cero.
+Fuente: https://reservation.spacecampturkey.com/program/youthProgramsEn
+Se ha comprobado: 2026-11-05
+
+### CP1377-20270725-20270731-galactic-en-4 · Space Camp Türkiye · Galactic Summer Camp · Galactic · English · 2027-07-25–2027-07-31
+
+lugar: Turquía · Gaziemir · İzmir
+Fecha: 2027-07-25 ♫ 2027-07-31
+edad: 9–16 · esquema histórico; confirmar 2027
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: residente
+Idioma: Organizador indica expresamente inglés como idioma del campamento / idioma de trabajo junto al local. Confirmar nivel de grupo adecuado y contrato.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · Tabla pública 2027: 1390 $ por cada sesión inglesa. Precio de programa en tabla, no presupuesto familiar completo; confirmar código de moneda, inclusiones, impuestos, depósito, devoluciones y traslados. Tarifa turca 1290 $ no aplicada al inglés. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar admisión extranjera individual, edad / curso, nivel del grupo, inglés disponible, plazas, inclusiones y contrato final. Sin solicitudes, consentimientos ni pagos. Oscar: Menor que mínimo anterior 9; política de edad nueva desconocida. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa nueva y condiciones finales sin anunciar. Precio desconocido no equivale a cero.
+Fuente: https://reservation.spacecampturkey.com/program/youthProgramsEn
+Se ha comprobado: 2026-11-05
+
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
 
 lugar: Letonia · EIS Campus · Piņķi
@@ -55540,6 +55604,118 @@ Precio: Tarifa archivada 2026: HUF 15000 diarios por niño; almuerzo propio apar
 Acceso: Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos.
 Limitaciones: Precio final de temporada elegida, suplementos obligatorios y cancelación requieren confirmación. Gastos desconocidos no equivalen a cero.
 Fuente: https://britannicaschool.hu/events/summer-camp-2026
+Se ha comprobado: 2026-11-05
+
+### L497 · Robokacija · Robo juniors & 3D world
+
+lugar: Croacia · Zagreb
+Fecha: No se ha fijado el período/plan de trabajo
+Edad: 6–9
+Matvey: Condicional: confirmar convocatoria futura y grupo de edad.
+Oscar: Condicional: comprobar edad, idioma y convocatoria futuros.
+Formato: individual
+Idioma: Organizador indica expresamente inglés como idioma del campamento / idioma de trabajo junto al local. Confirmar nivel de grupo adecuado y contrato.
+Marca de idioma: primary; soporte: no declarado
+Precio: Archivo 2026: EUR 300 por 5 días de 8 horas, comida, materiales, proyecto y certificado. Diurno; alojamiento y transporte aparte. Sesiones junio / julio 2026 ya pasadas; fechas y precio 2027 desconocidos.
+Acceso: Confirmar admisión extranjera individual, edad / curso, nivel del grupo, inglés disponible, plazas, inclusiones y contrato final. Sin solicitudes, consentimientos ni pagos.
+Limitaciones: Zagreb: Edison, ampliaciones LEGO, bolígrafos 3D, retos de equipo y escape room. Para principiantes; contrastar tres años de experiencia competitiva infantil con nivel del grupo. Fechas y precios de edición antigua conservados como referencia; sin inferir futuras sesiones, horarios, plazas ni tarifas de temporada pasada.
+Fuente: https://robokacija.hr/summer-camp/?lang=en
+Se ha comprobado: 2026-11-05
+
+### L498 · Robokacija · Future Engineers
+
+lugar: Croacia · Zagreb
+Fecha: No se ha fijado el período/plan de trabajo
+edad: 10–13
+Matvey: Condicional: confirmar convocatoria futura y grupo de edad.
+Oscar: Más adelante: menor del mínimo publicado.
+Formato: individual
+Idioma: Organizador indica expresamente inglés como idioma del campamento / idioma de trabajo junto al local. Confirmar nivel de grupo adecuado y contrato.
+Marca de idioma: primary; soporte: no declarado
+Precio: Archivo 2026: EUR 300 por 5 días de 8 horas, comida, materiales, proyecto y certificado. Diurno; alojamiento y transporte aparte. Sesiones junio / julio 2026 ya pasadas; fechas y precio 2027 desconocidos.
+Acceso: Confirmar admisión extranjera individual, edad / curso, nivel del grupo, inglés disponible, plazas, inclusiones y contrato final. Sin solicitudes, consentimientos ni pagos.
+Limitaciones: Zagreb: lámpara inteligente propia, microcontrolador, electrónica, programación y proyecto escape room. Campamento práctico de ingeniería, no liga competitiva internacional. Fechas y precios de edición antigua conservados como referencia; sin inferir futuras sesiones, horarios, plazas ni tarifas de temporada pasada.
+Fuente: https://robokacija.hr/summer-camp/?lang=en
+Se ha comprobado: 2026-11-05
+
+### L499 · Robokacija · Secrets of 3D printing
+
+lugar: Croacia · Zagreb
+Fecha: No se ha fijado el período/plan de trabajo
+Edad: 10–14
+Matvey: Condicional: confirmar convocatoria futura y grupo de edad.
+Oscar: Más adelante: menor del mínimo publicado.
+Formato: individual
+Idioma: Organizador indica expresamente inglés como idioma del campamento / idioma de trabajo junto al local. Confirmar nivel de grupo adecuado y contrato.
+Marca de idioma: primary; soporte: no declarado
+Precio: Archivo 2026: EUR 300 por 5 días de 8 horas, comida, materiales, proyecto y certificado. Diurno; alojamiento y transporte aparte. Sesiones junio / julio 2026 ya pasadas; fechas y precio 2027 desconocidos.
+Acceso: Confirmar admisión extranjera individual, edad / curso, nivel del grupo, inglés disponible, plazas, inclusiones y contrato final. Sin solicitudes, consentimientos ni pagos.
+Limitaciones: Zagreb: modelado 3D, impresión de objetos propios, propiedades y límites del diseño. Para principiantes, hasta 15 niños por grupo. Fechas y precios de edición antigua conservados como referencia; sin inferir futuras sesiones, horarios, plazas ni tarifas de temporada pasada.
+Fuente: https://robokacija.hr/summer-camp/?lang=en
+Se ha comprobado: 2026-11-05
+
+### L500 · Blue Butterfly · Šibenik · Science
+
+lugar: Croacia · St John Fortress · Šibenik
+Fecha: No se ha fijado el período/plan de trabajo
+Edad: 9–17
+Matvey: Condicional: confirmar convocatoria futura y grupo de edad.
+Oscar: Más adelante: menor del mínimo publicado.
+Formato: individual
+Idioma: Organizador indica expresamente inglés como idioma del campamento / idioma de trabajo junto al local. Confirmar nivel de grupo adecuado y contrato.
+Marca de idioma: primary; soporte: no declarado
+Precio: Archivo julio 2026: Science EUR 1500–2900, Classic EUR 1300 por semana; programas y duraciones diferentes. Traslados y seguro aparte. Tarifas / fechas 2027 sin anunciar.
+Acceso: Confirmar admisión extranjera individual, edad / curso, nivel del grupo, inglés disponible, plazas, inclusiones y contrato final. Sin solicitudes, consentimientos ni pagos.
+Limitaciones: Residencia en inglés en fortaleza San Juan: clases, actividades diurnas y nocturnas en inglés, programa cultural / deportivo. Science anunciado temático, pero materias STEM, horas de laboratorio y proporción de robótica 2027 no se infieren del nombre. Fechas y precios de edición antigua conservados como referencia; sin inferir futuras sesiones, horarios, plazas ni tarifas de temporada pasada.
+Fuente: https://bluebutterfly.etw.hr/camp/americki-ljetni-kamp-engleskog-sibenik-science/
+Se ha comprobado: 2026-11-05
+
+### L501 · Blue Butterfly · Šibenik · Classic
+
+lugar: Croacia · St John Fortress · Šibenik
+Fecha: No se ha fijado el período/plan de trabajo
+Edad: 9–17
+Matvey: Condicional: confirmar convocatoria futura y grupo de edad.
+Oscar: Más adelante: menor del mínimo publicado.
+Formato: individual
+Idioma: Organizador indica expresamente inglés como idioma del campamento / idioma de trabajo junto al local. Confirmar nivel de grupo adecuado y contrato.
+Marca de idioma: primary; soporte: no declarado
+Precio: Archivo julio 2026: Science EUR 1500–2900, Classic EUR 1300 por semana; programas y duraciones diferentes. Traslados y seguro aparte. Tarifas / fechas 2027 sin anunciar.
+Acceso: Confirmar admisión extranjera individual, edad / curso, nivel del grupo, inglés disponible, plazas, inclusiones y contrato final. Sin solicitudes, consentimientos ni pagos.
+Limitaciones: Residencia en inglés en fortaleza San Juan: clases, actividades diurnas y nocturnas en inglés, programa cultural / deportivo. Science anunciado temático, pero materias STEM, horas de laboratorio y proporción de robótica 2027 no se infieren del nombre. Fechas y precios de edición antigua conservados como referencia; sin inferir futuras sesiones, horarios, plazas ni tarifas de temporada pasada.
+Fuente: https://bluebutterfly.etw.hr/camp/americki-ljetni-kamp-sibenik-classic/
+Se ha comprobado: 2026-11-05
+
+### L502 · KSI Montenegro · Adventure Day Camp
+
+lugar: Montenegro · Tivat · Bay of Kotor
+Fecha: No se ha fijado el período/plan de trabajo
+edad: 6–14 texto / 6–16 encabezado · histórico
+Matvey: Condicional: confirmar convocatoria futura y grupo de edad.
+Oscar: Condicional: comprobar edad, idioma y convocatoria futuros.
+Formato: individual
+Idioma: Organizador indica expresamente inglés como idioma del campamento / idioma de trabajo junto al local. Confirmar nivel de grupo adecuado y contrato.
+Marca de idioma: primary; soporte: no declarado
+Precio: Archivo Adventure 2023: EUR 450 por semana, almuerzo y tentempiés. EUR 550 por dos semanas corresponde a Little Camp 3–5, no Adventure. Tarifas 2027 desconocidas.
+Acceso: Confirmar admisión extranjera individual, edad / curso, nivel del grupo, inglés disponible, plazas, inclusiones y contrato final. Sin solicitudes, consentimientos ni pagos.
+Limitaciones: Campamento diurno internacional con inglés, actividades acuáticas / outdoor y creatividad. Texto detallado corresponde a julio 2023, no convocatoria nueva. Encabezado 6–16 difiere de texto 6–14; ambos niños encajan en intersección, pero programa nuevo y plazas desconocidos. Fechas y precios de edición antigua conservados como referencia; sin inferir futuras sesiones, horarios, plazas ni tarifas de temporada pasada.
+Fuente: https://knightsbridgeschools.com/summer-camp/
+Se ha comprobado: 2026-11-05
+
+### L503 · Kid’s Academy · Montenegro English Camp
+
+lugar: Montenegro · Bar
+Fecha: No se ha fijado el período/plan de trabajo
+edad: edad exacta sin publicar
+Matvey: Condicional: confirmar convocatoria futura y grupo de edad.
+Oscar: Condicional: comprobar edad, idioma y convocatoria futuros.
+Formato: individual
+Idioma: Organizador indica expresamente inglés como idioma del campamento / idioma de trabajo junto al local. Confirmar nivel de grupo adecuado y contrato.
+Marca de idioma: primary; soporte: no declarado
+Precio: Tarifa nueva y condiciones finales sin anunciar. Precio desconocido no equivale a cero.
+Acceso: Confirmar admisión extranjera individual, edad / curso, nivel del grupo, inglés disponible, plazas, inclusiones y contrato final. Sin solicitudes, consentimientos ni pagos.
+Limitaciones: Campamento ESL diurno en Bar: inglés, crafts, juegos, cocina, science y algunas robotics activities. Página indica 24 de junio – 12 de julio sin año, por lo que no se asignan fechas 2027. Lingüístico con elementos STEM; robótica intensiva diaria sin confirmar. Fechas y precios de edición antigua conservados como referencia; sin inferir futuras sesiones, horarios, plazas ni tarifas de temporada pasada.
+Fuente: https://sites.google.com/view/eslcampmontenegro/home
 Se ha comprobado: 2026-11-05
 
 ### ~#C037 · WAICY 2026 · AI Showcase · Proyecto de solución del problema real

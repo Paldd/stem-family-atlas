@@ -30,24 +30,24 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1373,
-    "countries": 62,
+    "dossiers": 1381,
+    "countries": 65,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 189,
       "published_2027": 343,
-      "partial_2027": 122,
+      "partial_2027": 123,
       "next_unannounced": 256,
       "published_2026": 295,
       "partial_2026_27": 28,
       "partial_2026": 19,
-      "archive_next_unannounced": 116,
+      "archive_next_unannounced": 123,
       "regular_programme": 1,
       "regular_2026_27": 2,
       "historical_2026_next_season_unknown": 1,
       "announced_dates_programme_pending": 1
     },
-    "source_urls": 2016
+    "source_urls": 2023
   },
   "countries": [
     {
@@ -243,6 +243,10 @@
       "count": 4
     },
     {
+      "country": "Turquía",
+      "count": 1
+    },
+    {
       "country": "Uganda",
       "count": 3
     },
@@ -261,6 +265,14 @@
     {
       "country": "Francia",
       "count": 110
+    },
+    {
+      "country": "Croacia",
+      "count": 5
+    },
+    {
+      "country": "Montenegro",
+      "count": 2
     },
     {
       "country": "Chequia",
@@ -221069,6 +221081,661 @@
           ]
         }
       ]
+    },
+    {
+      "id": "CP1374",
+      "slug": "robokacija-robo-juniors",
+      "provider": "Robokacija · Robo juniors & 3D world",
+      "iso": "HRV",
+      "country": "Croacia",
+      "place": "Zagreb",
+      "themes": [
+        "robotics",
+        "engineering",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "6–9",
+      "programme": "Zagreb: Edison, ampliaciones LEGO, bolígrafos 3D, retos de equipo y escape room. Para principiantes; contrastar tres años de experiencia competitiva infantil con nivel del grupo.",
+      "language": "Organizador indica expresamente inglés como idioma del campamento / idioma de trabajo junto al local. Confirmar nivel de grupo adecuado y contrato.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "Fechas y precios de edición antigua conservados como referencia; sin inferir futuras sesiones, horarios, plazas ni tarifas de temporada pasada.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "currency": "",
+        "amount": null,
+        "unit": "programme",
+        "label": "Archivo 2026: EUR 300 por 5 días de 8 horas, comida, materiales, proyecto y certificado. Diurno; alojamiento y transporte aparte. Sesiones junio / julio 2026 ya pasadas; fechas y precio 2027 desconocidos.",
+        "included": "En 2026 tentempié, almuerzo, materiales, proyecto para llevar y certificado; confirmar temporada nueva.",
+        "extras": "Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte.",
+        "deposit": "Tarifa nueva y condiciones finales sin anunciar. Precio desconocido no equivale a cero."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar admisión extranjera individual, edad / curso, nivel del grupo, inglés disponible, plazas, inclusiones y contrato final. Sin solicitudes, consentimientos ni pagos.",
+        "Fechas y precios de edición antigua conservados como referencia; sin inferir futuras sesiones, horarios, plazas ni tarifas de temporada pasada."
+      ],
+      "sources": [
+        {
+          "title": "Robokacija · programmes and explicit HR / EN FAQ",
+          "url": "https://robokacija.hr/summer-camp/?lang=en",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [
+        "L497"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1375",
+      "slug": "robokacija-future-engineers",
+      "provider": "Robokacija · Future Engineers",
+      "iso": "HRV",
+      "country": "Croacia",
+      "place": "Zagreb",
+      "themes": [
+        "robotics",
+        "engineering",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "10–13",
+      "programme": "Zagreb: lámpara inteligente propia, microcontrolador, electrónica, programación y proyecto escape room. Campamento práctico de ingeniería, no liga competitiva internacional.",
+      "language": "Organizador indica expresamente inglés como idioma del campamento / idioma de trabajo junto al local. Confirmar nivel de grupo adecuado y contrato.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "Fechas y precios de edición antigua conservados como referencia; sin inferir futuras sesiones, horarios, plazas ni tarifas de temporada pasada.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "currency": "",
+        "amount": null,
+        "unit": "programme",
+        "label": "Archivo 2026: EUR 300 por 5 días de 8 horas, comida, materiales, proyecto y certificado. Diurno; alojamiento y transporte aparte. Sesiones junio / julio 2026 ya pasadas; fechas y precio 2027 desconocidos.",
+        "included": "En 2026 tentempié, almuerzo, materiales, proyecto para llevar y certificado; confirmar temporada nueva.",
+        "extras": "Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte.",
+        "deposit": "Tarifa nueva y condiciones finales sin anunciar. Precio desconocido no equivale a cero."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar admisión extranjera individual, edad / curso, nivel del grupo, inglés disponible, plazas, inclusiones y contrato final. Sin solicitudes, consentimientos ni pagos.",
+        "Fechas y precios de edición antigua conservados como referencia; sin inferir futuras sesiones, horarios, plazas ni tarifas de temporada pasada."
+      ],
+      "sources": [
+        {
+          "title": "Robokacija · programmes and explicit HR / EN FAQ",
+          "url": "https://robokacija.hr/summer-camp/?lang=en",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [
+        "L498"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1376",
+      "slug": "robokacija-3d-print",
+      "provider": "Robokacija · Secrets of 3D printing",
+      "iso": "HRV",
+      "country": "Croacia",
+      "place": "Zagreb",
+      "themes": [
+        "robotics",
+        "engineering",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "10–14",
+      "programme": "Zagreb: modelado 3D, impresión de objetos propios, propiedades y límites del diseño. Para principiantes, hasta 15 niños por grupo.",
+      "language": "Organizador indica expresamente inglés como idioma del campamento / idioma de trabajo junto al local. Confirmar nivel de grupo adecuado y contrato.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "Fechas y precios de edición antigua conservados como referencia; sin inferir futuras sesiones, horarios, plazas ni tarifas de temporada pasada.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "currency": "",
+        "amount": null,
+        "unit": "programme",
+        "label": "Archivo 2026: EUR 300 por 5 días de 8 horas, comida, materiales, proyecto y certificado. Diurno; alojamiento y transporte aparte. Sesiones junio / julio 2026 ya pasadas; fechas y precio 2027 desconocidos.",
+        "included": "En 2026 tentempié, almuerzo, materiales, proyecto para llevar y certificado; confirmar temporada nueva.",
+        "extras": "Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte.",
+        "deposit": "Tarifa nueva y condiciones finales sin anunciar. Precio desconocido no equivale a cero."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar admisión extranjera individual, edad / curso, nivel del grupo, inglés disponible, plazas, inclusiones y contrato final. Sin solicitudes, consentimientos ni pagos.",
+        "Fechas y precios de edición antigua conservados como referencia; sin inferir futuras sesiones, horarios, plazas ni tarifas de temporada pasada."
+      ],
+      "sources": [
+        {
+          "title": "Robokacija · programmes and explicit HR / EN FAQ",
+          "url": "https://robokacija.hr/summer-camp/?lang=en",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [
+        "L499"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1377",
+      "slug": "space-camp-turkey-galactic",
+      "provider": "Space Camp Türkiye · Galactic Summer Camp",
+      "iso": "TUR",
+      "country": "Turquía",
+      "place": "Gaziemir · İzmir",
+      "themes": [
+        "science",
+        "engineering",
+        "technology"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "9–16 · esquema histórico; confirmar 2027",
+      "programme": "Lista pública del operador acredita cuatro sesiones inglesas de julio 2027 y precio de cada una. Web principal en actualización; página detallada no devolvió texto lectivo completo. Edad 9–16 de resumen anterior: confirmar vigencia 2027, contenido, admisión infantil extranjera e inclusiones.",
+      "language": "Organizador indica expresamente inglés como idioma del campamento / idioma de trabajo junto al local. Confirmar nivel de grupo adecuado y contrato.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "timing": {
+        "status": "partial_2027",
+        "label": "Inglés · julio 2027",
+        "sessions": [
+          [
+            "2027-07-04",
+            "2027-07-10"
+          ],
+          [
+            "2027-07-11",
+            "2027-07-17"
+          ],
+          [
+            "2027-07-18",
+            "2027-07-24"
+          ],
+          [
+            "2027-07-25",
+            "2027-07-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-07-04",
+            "end": "2027-07-10",
+            "variant_key": "galactic-en-1",
+            "label": "Galactic · Inglés",
+            "price": "Tabla pública 2027: 1390 $ por cada sesión inglesa. Precio de programa en tabla, no presupuesto familiar completo; confirmar código de moneda, inclusiones, impuestos, depósito, devoluciones y traslados. Tarifa turca 1290 $ no aplicada al inglés.",
+            "source": "https://reservation.spacecampturkey.com/program/youthProgramsEn",
+            "formats": [
+              "boarding"
+            ],
+            "date_scope": "camp_window"
+          },
+          {
+            "start": "2027-07-11",
+            "end": "2027-07-17",
+            "variant_key": "galactic-en-2",
+            "label": "Galactic · Inglés",
+            "price": "Tabla pública 2027: 1390 $ por cada sesión inglesa. Precio de programa en tabla, no presupuesto familiar completo; confirmar código de moneda, inclusiones, impuestos, depósito, devoluciones y traslados. Tarifa turca 1290 $ no aplicada al inglés.",
+            "source": "https://reservation.spacecampturkey.com/program/youthProgramsEn",
+            "formats": [
+              "boarding"
+            ],
+            "date_scope": "camp_window"
+          },
+          {
+            "start": "2027-07-18",
+            "end": "2027-07-24",
+            "variant_key": "galactic-en-3",
+            "label": "Galactic · Inglés",
+            "price": "Tabla pública 2027: 1390 $ por cada sesión inglesa. Precio de programa en tabla, no presupuesto familiar completo; confirmar código de moneda, inclusiones, impuestos, depósito, devoluciones y traslados. Tarifa turca 1290 $ no aplicada al inglés.",
+            "source": "https://reservation.spacecampturkey.com/program/youthProgramsEn",
+            "formats": [
+              "boarding"
+            ],
+            "date_scope": "camp_window"
+          },
+          {
+            "start": "2027-07-25",
+            "end": "2027-07-31",
+            "variant_key": "galactic-en-4",
+            "label": "Galactic · Inglés",
+            "price": "Tabla pública 2027: 1390 $ por cada sesión inglesa. Precio de programa en tabla, no presupuesto familiar completo; confirmar código de moneda, inclusiones, impuestos, depósito, devoluciones y traslados. Tarifa turca 1290 $ no aplicada al inglés.",
+            "source": "https://reservation.spacecampturkey.com/program/youthProgramsEn",
+            "formats": [
+              "boarding"
+            ],
+            "date_scope": "camp_window"
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "currency": "",
+        "amount": null,
+        "unit": "programme",
+        "label": "Tabla pública 2027: 1390 $ por cada sesión inglesa. Precio de programa en tabla, no presupuesto familiar completo; confirmar código de moneda, inclusiones, impuestos, depósito, devoluciones y traslados. Tarifa turca 1290 $ no aplicada al inglés.",
+        "included": "",
+        "extras": "Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte.",
+        "deposit": "Tarifa nueva y condiciones finales sin anunciar. Precio desconocido no equivale a cero."
+      },
+      "accommodation": "Operador sitúa programa entre campamentos residenciales. Noches, habitaciones, comidas y supervisión del contrato 2027 concreto aún sin confirmar.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Confirmar admisión extranjera individual, edad / curso, nivel del grupo, inglés disponible, plazas, inclusiones y contrato final. Sin solicitudes, consentimientos ni pagos."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Menor que mínimo anterior 9; política de edad nueva desconocida."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar admisión extranjera individual, edad / curso, nivel del grupo, inglés disponible, plazas, inclusiones y contrato final. Sin solicitudes, consentimientos ni pagos.",
+        "Fechas y precios de edición antigua conservados como referencia; sin inferir futuras sesiones, horarios, plazas ni tarifas de temporada pasada."
+      ],
+      "sources": [
+        {
+          "title": "Space Camp · public 2027 English inventory",
+          "url": "https://reservation.spacecampturkey.com/program/youthProgramsEn",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Space Camp · programme outline / current site transition",
+          "url": "https://spacecampturkey.com/galaktik-yaz-kampi",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-07-04",
+          "end": "2027-07-10",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1377-20270704-20270710-galactic-en-1"
+          ]
+        },
+        {
+          "start": "2027-07-11",
+          "end": "2027-07-17",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1377-20270711-20270717-galactic-en-2"
+          ]
+        },
+        {
+          "start": "2027-07-18",
+          "end": "2027-07-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1377-20270718-20270724-galactic-en-3"
+          ]
+        },
+        {
+          "start": "2027-07-25",
+          "end": "2027-07-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1377-20270725-20270731-galactic-en-4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1378",
+      "slug": "blue-butterfly-science",
+      "provider": "Blue Butterfly · Šibenik · Science",
+      "iso": "HRV",
+      "country": "Croacia",
+      "place": "St John Fortress · Šibenik",
+      "themes": [
+        "languages",
+        "science"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "9–17",
+      "programme": "Residencia en inglés en fortaleza San Juan: clases, actividades diurnas y nocturnas en inglés, programa cultural / deportivo. Science anunciado temático, pero materias STEM, horas de laboratorio y proporción de robótica 2027 no se infieren del nombre.",
+      "language": "Organizador indica expresamente inglés como idioma del campamento / idioma de trabajo junto al local. Confirmar nivel de grupo adecuado y contrato.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "Fechas y precios de edición antigua conservados como referencia; sin inferir futuras sesiones, horarios, plazas ni tarifas de temporada pasada.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "currency": "",
+        "amount": null,
+        "unit": "programme",
+        "label": "Archivo julio 2026: Science EUR 1500–2900, Classic EUR 1300 por semana; programas y duraciones diferentes. Traslados y seguro aparte. Tarifas / fechas 2027 sin anunciar.",
+        "included": "",
+        "extras": "Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte.",
+        "deposit": "Tarifa nueva y condiciones finales sin anunciar. Precio desconocido no equivale a cero."
+      },
+      "accommodation": "Descripción 2026: habitaciones de 4, baño, pensión completa y supervisión continua. Contrato concreto 2027 sin publicar.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar admisión extranjera individual, edad / curso, nivel del grupo, inglés disponible, plazas, inclusiones y contrato final. Sin solicitudes, consentimientos ni pagos.",
+        "Fechas y precios de edición antigua conservados como referencia; sin inferir futuras sesiones, horarios, plazas ni tarifas de temporada pasada."
+      ],
+      "sources": [
+        {
+          "title": "Blue Butterfly / ETW · Science programme 2026",
+          "url": "https://bluebutterfly.etw.hr/camp/americki-ljetni-kamp-engleskog-sibenik-science/",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [
+        "L500"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1379",
+      "slug": "blue-butterfly-classic",
+      "provider": "Blue Butterfly · Šibenik · Classic",
+      "iso": "HRV",
+      "country": "Croacia",
+      "place": "St John Fortress · Šibenik",
+      "themes": [
+        "languages",
+        "general",
+        "culture"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "9–17",
+      "programme": "Residencia en inglés en fortaleza San Juan: clases, actividades diurnas y nocturnas en inglés, programa cultural / deportivo. Science anunciado temático, pero materias STEM, horas de laboratorio y proporción de robótica 2027 no se infieren del nombre.",
+      "language": "Organizador indica expresamente inglés como idioma del campamento / idioma de trabajo junto al local. Confirmar nivel de grupo adecuado y contrato.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "Fechas y precios de edición antigua conservados como referencia; sin inferir futuras sesiones, horarios, plazas ni tarifas de temporada pasada.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "currency": "",
+        "amount": null,
+        "unit": "programme",
+        "label": "Archivo julio 2026: Science EUR 1500–2900, Classic EUR 1300 por semana; programas y duraciones diferentes. Traslados y seguro aparte. Tarifas / fechas 2027 sin anunciar.",
+        "included": "",
+        "extras": "Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte.",
+        "deposit": "Tarifa nueva y condiciones finales sin anunciar. Precio desconocido no equivale a cero."
+      },
+      "accommodation": "Descripción 2026: habitaciones de 4, baño, pensión completa y supervisión continua. Contrato concreto 2027 sin publicar.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar admisión extranjera individual, edad / curso, nivel del grupo, inglés disponible, plazas, inclusiones y contrato final. Sin solicitudes, consentimientos ni pagos.",
+        "Fechas y precios de edición antigua conservados como referencia; sin inferir futuras sesiones, horarios, plazas ni tarifas de temporada pasada."
+      ],
+      "sources": [
+        {
+          "title": "Blue Butterfly / ETW · Classic programme 2026",
+          "url": "https://bluebutterfly.etw.hr/camp/americki-ljetni-kamp-sibenik-classic/",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [
+        "L501"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1380",
+      "slug": "ksi-montenegro-adventure",
+      "provider": "KSI Montenegro · Adventure Day Camp",
+      "iso": "MNE",
+      "country": "Montenegro",
+      "place": "Tivat · Bay of Kotor",
+      "themes": [
+        "general",
+        "languages",
+        "sport",
+        "art"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "6–14 texto / 6–16 encabezado · histórico",
+      "programme": "Campamento diurno internacional con inglés, actividades acuáticas / outdoor y creatividad. Texto detallado corresponde a julio 2023, no convocatoria nueva. Encabezado 6–16 difiere de texto 6–14; ambos niños encajan en intersección, pero programa nuevo y plazas desconocidos.",
+      "language": "Organizador indica expresamente inglés como idioma del campamento / idioma de trabajo junto al local. Confirmar nivel de grupo adecuado y contrato.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "Fechas y precios de edición antigua conservados como referencia; sin inferir futuras sesiones, horarios, plazas ni tarifas de temporada pasada.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "currency": "",
+        "amount": null,
+        "unit": "programme",
+        "label": "Archivo Adventure 2023: EUR 450 por semana, almuerzo y tentempiés. EUR 550 por dos semanas corresponde a Little Camp 3–5, no Adventure. Tarifas 2027 desconocidas.",
+        "included": "",
+        "extras": "Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte.",
+        "deposit": "Tarifa nueva y condiciones finales sin anunciar. Precio desconocido no equivale a cero."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar admisión extranjera individual, edad / curso, nivel del grupo, inglés disponible, plazas, inclusiones y contrato final. Sin solicitudes, consentimientos ni pagos.",
+        "Fechas y precios de edición antigua conservados como referencia; sin inferir futuras sesiones, horarios, plazas ni tarifas de temporada pasada."
+      ],
+      "sources": [
+        {
+          "title": "KSI · historical programme, not a 2027 announcement",
+          "url": "https://knightsbridgeschools.com/summer-camp/",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [
+        "L502"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1381",
+      "slug": "montenegro-english-kids-academy",
+      "provider": "Kid’s Academy · Montenegro English Camp",
+      "iso": "MNE",
+      "country": "Montenegro",
+      "place": "Bar",
+      "themes": [
+        "languages",
+        "general",
+        "science",
+        "robotics"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "edad exacta sin publicar",
+      "programme": "Campamento ESL diurno en Bar: inglés, crafts, juegos, cocina, science y algunas robotics activities. Página indica 24 de junio – 12 de julio sin año, por lo que no se asignan fechas 2027. Lingüístico con elementos STEM; robótica intensiva diaria sin confirmar.",
+      "language": "Organizador indica expresamente inglés como idioma del campamento / idioma de trabajo junto al local. Confirmar nivel de grupo adecuado y contrato.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "Fechas y precios de edición antigua conservados como referencia; sin inferir futuras sesiones, horarios, plazas ni tarifas de temporada pasada.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "currency": "",
+        "amount": null,
+        "unit": "programme",
+        "label": "Tarifa nueva y condiciones finales sin anunciar. Precio desconocido no equivale a cero.",
+        "included": "",
+        "extras": "Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte.",
+        "deposit": "Tarifa nueva y condiciones finales sin anunciar. Precio desconocido no equivale a cero."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar admisión extranjera individual, edad / curso, nivel del grupo, inglés disponible, plazas, inclusiones y contrato final. Sin solicitudes, consentimientos ni pagos.",
+        "Fechas y precios de edición antigua conservados como referencia; sin inferir futuras sesiones, horarios, plazas ni tarifas de temporada pasada."
+      ],
+      "sources": [
+        {
+          "title": "Kid’s Academy · programme without year and age limits",
+          "url": "https://sites.google.com/view/eslcampmontenegro/home",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [
+        "L503"
+      ],
+      "calendar_links": []
     }
   ],
   "gaps": [
@@ -226314,7 +226981,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 173,
+  "version": 174,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -242568,6 +243235,26 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP1377",
+      "event_id": "CP1377-20270704-20270710-galactic-en-1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1377",
+      "event_id": "CP1377-20270711-20270717-galactic-en-2",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1377",
+      "event_id": "CP1377-20270718-20270724-galactic-en-3",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1377",
+      "event_id": "CP1377-20270725-20270731-galactic-en-4",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -242730,6 +243417,41 @@
     {
       "programme_id": "CP1372",
       "event_id": "L496",
+      "relation": "existing_programme"
+    },
+    {
+      "programme_id": "CP1374",
+      "event_id": "L497",
+      "relation": "existing_programme"
+    },
+    {
+      "programme_id": "CP1375",
+      "event_id": "L498",
+      "relation": "existing_programme"
+    },
+    {
+      "programme_id": "CP1376",
+      "event_id": "L499",
+      "relation": "existing_programme"
+    },
+    {
+      "programme_id": "CP1378",
+      "event_id": "L500",
+      "relation": "existing_programme"
+    },
+    {
+      "programme_id": "CP1379",
+      "event_id": "L501",
+      "relation": "existing_programme"
+    },
+    {
+      "programme_id": "CP1380",
+      "event_id": "L502",
+      "relation": "existing_programme"
+    },
+    {
+      "programme_id": "CP1381",
+      "event_id": "L503",
       "relation": "existing_programme"
     }
   ],
@@ -245700,10 +246422,14 @@
     "CP1369-20270424-20270425-weekend-2",
     "CP1370-20270622-20270702-announced-window",
     "CP1373-20270718-20270724-junior-1",
-    "CP1373-20270815-20270820-junior-2"
+    "CP1373-20270815-20270820-junior-2",
+    "CP1377-20270704-20270710-galactic-en-1",
+    "CP1377-20270711-20270717-galactic-en-2",
+    "CP1377-20270718-20270724-galactic-en-3",
+    "CP1377-20270725-20270731-galactic-en-4"
   ],
   "integration": {
-    "generated_sessions": 2967,
+    "generated_sessions": 2971,
     "reused_legacy_events": 69,
     "seasonal_windows": 60,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."
