@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "asof": "2026-11-05",
+  "asof": "2026-11-06",
   "title": "vacaciones 2026–2027 · archivos detallados de los operadores",
   "scope": "El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.",
   "methodology": [
@@ -30,24 +30,24 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1396,
-    "countries": 69,
+    "dossiers": 1407,
+    "countries": 71,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 189,
-      "published_2027": 344,
+      "published_2027": 351,
       "partial_2027": 123,
-      "next_unannounced": 264,
+      "next_unannounced": 267,
       "published_2026": 295,
       "partial_2026_27": 28,
       "partial_2026": 19,
-      "archive_next_unannounced": 127,
+      "archive_next_unannounced": 128,
       "regular_programme": 3,
       "regular_2026_27": 2,
       "historical_2026_next_season_unknown": 1,
       "announced_dates_programme_pending": 1
     },
-    "source_urls": 2040
+    "source_urls": 2054
   },
   "countries": [
     {
@@ -131,6 +131,10 @@
       "count": 8
     },
     {
+      "country": "Jordania",
+      "count": 7
+    },
+    {
       "country": "Irlanda",
       "count": 2
     },
@@ -165,6 +169,10 @@
     {
       "country": "Costa Rica",
       "count": 42
+    },
+    {
+      "country": "Kuwait",
+      "count": 4
     },
     {
       "country": "Letonia",
@@ -223032,6 +223040,2981 @@
         "L206"
       ],
       "calendar_links": []
+    },
+    {
+      "id": "CP1397",
+      "slug": "coded-kuwait-summer",
+      "provider": "CODED Juniors · Summer Tech Camp",
+      "iso": "KWT",
+      "country": "Kuwait",
+      "place": "Kuwait",
+      "themes": [
+        "coding",
+        "ai",
+        "design",
+        "games"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "6–13",
+      "programme": "Summer: grupos 6–7, 8–10, 11–13 y períodos de dos semanas Sun–Wed; AI, VR, circuits, coding. Winter: página propia Juniors 6–12 con cuatro estaciones diarias; Youth 13–16 es grupo mayor distinto, no prometido a pequeños. Ficha winter resumida 6–13 discrepa de descripción. Convocatoria 2027 sin fechar: cards contienen Jan–May 2025, header invernal Mar–Apr 2026 / Free Trade Zone, descripción Argan Bedaya. Conflictos de plantillas antiguas, no programa 2027. App ofrece interfaces EN / AR y campos Civil ID; enseñanza y uso de pasaporte turístico sin confirmar. Sin cuenta creada.",
+      "language": "Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Convocatoria 2027 sin fechar: cards contienen Jan–May 2025, header invernal Mar–Apr 2026 / Free Trade Zone, descripción Argan Bedaya. Conflictos de plantillas antiguas, no programa 2027. App ofrece interfaces EN / AR y campos Civil ID; enseñanza y uso de pasaporte turístico sin confirmar. Sin cuenta creada.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "KWD",
+        "amount": null,
+        "unit": "programme",
+        "label": "Turno nuevo elegido sin precio confirmado. Sibling 10% para dos / 13% para tres o más y bank 15% anunciados en FAQ winter, pero base, acumulación y factura efectiva sin establecer.",
+        "included": "",
+        "extras": "Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero.",
+        "deposit": "Tarifa nueva / moneda / unidad de pago e invoice completo sin confirmar; precio inicial o antiguo publicado no convertido en factura final."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Confirmar grupo concreto, admisión extranjera, edad / curso, idioma, plaza y factura completa. Sin solicitudes, mensajes, cuentas, consentimientos ni pagos."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Confirmar grupo concreto, admisión extranjera, edad / curso, idioma, plaza y factura completa. Sin solicitudes, mensajes, cuentas, consentimientos ni pagos."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar grupo concreto, admisión extranjera, edad / curso, idioma, plaza y factura completa. Sin solicitudes, mensajes, cuentas, consentimientos ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "CODED Juniors · Summer Tech Camp",
+          "url": "https://coded.kw/summer-camp",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "CODED · camp overview",
+          "url": "https://coded.kw/kids/camps",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "CODED · public app",
+          "url": "https://www.juniors.app/",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [
+        "L525"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1398",
+      "slug": "coded-kuwait-winter",
+      "provider": "CODED Juniors · Winter Tech Camp · Juniors",
+      "iso": "KWT",
+      "country": "Kuwait",
+      "place": "Kuwait",
+      "themes": [
+        "coding",
+        "robotics",
+        "ai",
+        "design"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "6–12 · página específica",
+      "programme": "Summer: grupos 6–7, 8–10, 11–13 y períodos de dos semanas Sun–Wed; AI, VR, circuits, coding. Winter: página propia Juniors 6–12 con cuatro estaciones diarias; Youth 13–16 es grupo mayor distinto, no prometido a pequeños. Ficha winter resumida 6–13 discrepa de descripción. Convocatoria 2027 sin fechar: cards contienen Jan–May 2025, header invernal Mar–Apr 2026 / Free Trade Zone, descripción Argan Bedaya. Conflictos de plantillas antiguas, no programa 2027. App ofrece interfaces EN / AR y campos Civil ID; enseñanza y uso de pasaporte turístico sin confirmar. Sin cuenta creada.",
+      "language": "Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Convocatoria 2027 sin fechar: cards contienen Jan–May 2025, header invernal Mar–Apr 2026 / Free Trade Zone, descripción Argan Bedaya. Conflictos de plantillas antiguas, no programa 2027. App ofrece interfaces EN / AR y campos Civil ID; enseñanza y uso de pasaporte turístico sin confirmar. Sin cuenta creada.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "KWD",
+        "amount": null,
+        "unit": "programme",
+        "label": "Turno nuevo elegido sin precio confirmado. Sibling 10% para dos / 13% para tres o más y bank 15% anunciados en FAQ winter, pero base, acumulación y factura efectiva sin establecer.",
+        "included": "",
+        "extras": "Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero.",
+        "deposit": "Tarifa nueva / moneda / unidad de pago e invoice completo sin confirmar; precio inicial o antiguo publicado no convertido en factura final."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Confirmar grupo concreto, admisión extranjera, edad / curso, idioma, plaza y factura completa. Sin solicitudes, mensajes, cuentas, consentimientos ni pagos."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Confirmar grupo concreto, admisión extranjera, edad / curso, idioma, plaza y factura completa. Sin solicitudes, mensajes, cuentas, consentimientos ni pagos."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar grupo concreto, admisión extranjera, edad / curso, idioma, plaza y factura completa. Sin solicitudes, mensajes, cuentas, consentimientos ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "CODED Juniors · Winter Tech Camp · Juniors",
+          "url": "https://coded.kw/winter-camp",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "CODED · camp overview",
+          "url": "https://coded.kw/kids/camps",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "CODED · public app",
+          "url": "https://www.juniors.app/",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [
+        "L526"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1399",
+      "slug": "kings-jordan-sports-2027",
+      "provider": "King’s Academy · Sports & Recreation 2027",
+      "iso": "JOR",
+      "country": "Jordania",
+      "place": "Madaba · King’s Academy",
+      "themes": [
+        "general",
+        "sport",
+        "art"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "6–12",
+      "programme": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+      "language": "Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2027",
+        "label": "Elegir una alternativa de 1 / 2 / 3 / 4 semanas, sin sumar paquetes solapados. Tarifa: Sun–Thu 09:00–15:00, schedule inicia Major 1 a 09:30; confirmar llegada.",
+        "sessions": [
+          [
+            "2027-06-27",
+            "2027-07-01"
+          ],
+          [
+            "2027-07-04",
+            "2027-07-08"
+          ],
+          [
+            "2027-07-11",
+            "2027-07-15"
+          ],
+          [
+            "2027-07-18",
+            "2027-07-22"
+          ],
+          [
+            "2027-06-27",
+            "2027-07-08"
+          ],
+          [
+            "2027-07-04",
+            "2027-07-15"
+          ],
+          [
+            "2027-07-11",
+            "2027-07-22"
+          ],
+          [
+            "2027-06-27",
+            "2027-07-15"
+          ],
+          [
+            "2027-07-04",
+            "2027-07-22"
+          ],
+          [
+            "2027-06-27",
+            "2027-07-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-06-27",
+            "end": "2027-07-01",
+            "variant_key": "w1-1",
+            "label": "Opción diurna de 1 semanas",
+            "price": "USD 300",
+            "source": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2027-06-27",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-06-27T06:00:00Z",
+                "end_utc": "2027-06-27T12:00:00Z"
+              },
+              {
+                "date": "2027-06-28",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-06-28T06:00:00Z",
+                "end_utc": "2027-06-28T12:00:00Z"
+              },
+              {
+                "date": "2027-06-29",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-06-29T06:00:00Z",
+                "end_utc": "2027-06-29T12:00:00Z"
+              },
+              {
+                "date": "2027-06-30",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-06-30T06:00:00Z",
+                "end_utc": "2027-06-30T12:00:00Z"
+              },
+              {
+                "date": "2027-07-01",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-01T06:00:00Z",
+                "end_utc": "2027-07-01T12:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-07-04",
+            "end": "2027-07-08",
+            "variant_key": "w1-2",
+            "label": "Opción diurna de 1 semanas",
+            "price": "USD 300",
+            "source": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2027-07-04",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-04T06:00:00Z",
+                "end_utc": "2027-07-04T12:00:00Z"
+              },
+              {
+                "date": "2027-07-05",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-05T06:00:00Z",
+                "end_utc": "2027-07-05T12:00:00Z"
+              },
+              {
+                "date": "2027-07-06",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-06T06:00:00Z",
+                "end_utc": "2027-07-06T12:00:00Z"
+              },
+              {
+                "date": "2027-07-07",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-07T06:00:00Z",
+                "end_utc": "2027-07-07T12:00:00Z"
+              },
+              {
+                "date": "2027-07-08",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-08T06:00:00Z",
+                "end_utc": "2027-07-08T12:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-07-11",
+            "end": "2027-07-15",
+            "variant_key": "w1-3",
+            "label": "Opción diurna de 1 semanas",
+            "price": "USD 300",
+            "source": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2027-07-11",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-11T06:00:00Z",
+                "end_utc": "2027-07-11T12:00:00Z"
+              },
+              {
+                "date": "2027-07-12",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-12T06:00:00Z",
+                "end_utc": "2027-07-12T12:00:00Z"
+              },
+              {
+                "date": "2027-07-13",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-13T06:00:00Z",
+                "end_utc": "2027-07-13T12:00:00Z"
+              },
+              {
+                "date": "2027-07-14",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-14T06:00:00Z",
+                "end_utc": "2027-07-14T12:00:00Z"
+              },
+              {
+                "date": "2027-07-15",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-15T06:00:00Z",
+                "end_utc": "2027-07-15T12:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-07-18",
+            "end": "2027-07-22",
+            "variant_key": "w1-4",
+            "label": "Opción diurna de 1 semanas",
+            "price": "USD 300",
+            "source": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2027-07-18",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-18T06:00:00Z",
+                "end_utc": "2027-07-18T12:00:00Z"
+              },
+              {
+                "date": "2027-07-19",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-19T06:00:00Z",
+                "end_utc": "2027-07-19T12:00:00Z"
+              },
+              {
+                "date": "2027-07-20",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-20T06:00:00Z",
+                "end_utc": "2027-07-20T12:00:00Z"
+              },
+              {
+                "date": "2027-07-21",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-21T06:00:00Z",
+                "end_utc": "2027-07-21T12:00:00Z"
+              },
+              {
+                "date": "2027-07-22",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-22T06:00:00Z",
+                "end_utc": "2027-07-22T12:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-06-27",
+            "end": "2027-07-08",
+            "variant_key": "w2-1",
+            "label": "Opción diurna de 2 semanas",
+            "price": "USD 580",
+            "source": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2027-06-27",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-06-27T06:00:00Z",
+                "end_utc": "2027-06-27T12:00:00Z"
+              },
+              {
+                "date": "2027-06-28",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-06-28T06:00:00Z",
+                "end_utc": "2027-06-28T12:00:00Z"
+              },
+              {
+                "date": "2027-06-29",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-06-29T06:00:00Z",
+                "end_utc": "2027-06-29T12:00:00Z"
+              },
+              {
+                "date": "2027-06-30",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-06-30T06:00:00Z",
+                "end_utc": "2027-06-30T12:00:00Z"
+              },
+              {
+                "date": "2027-07-01",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-01T06:00:00Z",
+                "end_utc": "2027-07-01T12:00:00Z"
+              },
+              {
+                "date": "2027-07-04",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-04T06:00:00Z",
+                "end_utc": "2027-07-04T12:00:00Z"
+              },
+              {
+                "date": "2027-07-05",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-05T06:00:00Z",
+                "end_utc": "2027-07-05T12:00:00Z"
+              },
+              {
+                "date": "2027-07-06",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-06T06:00:00Z",
+                "end_utc": "2027-07-06T12:00:00Z"
+              },
+              {
+                "date": "2027-07-07",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-07T06:00:00Z",
+                "end_utc": "2027-07-07T12:00:00Z"
+              },
+              {
+                "date": "2027-07-08",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-08T06:00:00Z",
+                "end_utc": "2027-07-08T12:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-07-04",
+            "end": "2027-07-15",
+            "variant_key": "w2-2",
+            "label": "Opción diurna de 2 semanas",
+            "price": "USD 580",
+            "source": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2027-07-04",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-04T06:00:00Z",
+                "end_utc": "2027-07-04T12:00:00Z"
+              },
+              {
+                "date": "2027-07-05",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-05T06:00:00Z",
+                "end_utc": "2027-07-05T12:00:00Z"
+              },
+              {
+                "date": "2027-07-06",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-06T06:00:00Z",
+                "end_utc": "2027-07-06T12:00:00Z"
+              },
+              {
+                "date": "2027-07-07",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-07T06:00:00Z",
+                "end_utc": "2027-07-07T12:00:00Z"
+              },
+              {
+                "date": "2027-07-08",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-08T06:00:00Z",
+                "end_utc": "2027-07-08T12:00:00Z"
+              },
+              {
+                "date": "2027-07-11",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-11T06:00:00Z",
+                "end_utc": "2027-07-11T12:00:00Z"
+              },
+              {
+                "date": "2027-07-12",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-12T06:00:00Z",
+                "end_utc": "2027-07-12T12:00:00Z"
+              },
+              {
+                "date": "2027-07-13",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-13T06:00:00Z",
+                "end_utc": "2027-07-13T12:00:00Z"
+              },
+              {
+                "date": "2027-07-14",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-14T06:00:00Z",
+                "end_utc": "2027-07-14T12:00:00Z"
+              },
+              {
+                "date": "2027-07-15",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-15T06:00:00Z",
+                "end_utc": "2027-07-15T12:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-07-11",
+            "end": "2027-07-22",
+            "variant_key": "w2-3",
+            "label": "Opción diurna de 2 semanas",
+            "price": "USD 580",
+            "source": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2027-07-11",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-11T06:00:00Z",
+                "end_utc": "2027-07-11T12:00:00Z"
+              },
+              {
+                "date": "2027-07-12",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-12T06:00:00Z",
+                "end_utc": "2027-07-12T12:00:00Z"
+              },
+              {
+                "date": "2027-07-13",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-13T06:00:00Z",
+                "end_utc": "2027-07-13T12:00:00Z"
+              },
+              {
+                "date": "2027-07-14",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-14T06:00:00Z",
+                "end_utc": "2027-07-14T12:00:00Z"
+              },
+              {
+                "date": "2027-07-15",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-15T06:00:00Z",
+                "end_utc": "2027-07-15T12:00:00Z"
+              },
+              {
+                "date": "2027-07-18",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-18T06:00:00Z",
+                "end_utc": "2027-07-18T12:00:00Z"
+              },
+              {
+                "date": "2027-07-19",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-19T06:00:00Z",
+                "end_utc": "2027-07-19T12:00:00Z"
+              },
+              {
+                "date": "2027-07-20",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-20T06:00:00Z",
+                "end_utc": "2027-07-20T12:00:00Z"
+              },
+              {
+                "date": "2027-07-21",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-21T06:00:00Z",
+                "end_utc": "2027-07-21T12:00:00Z"
+              },
+              {
+                "date": "2027-07-22",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-22T06:00:00Z",
+                "end_utc": "2027-07-22T12:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-06-27",
+            "end": "2027-07-15",
+            "variant_key": "w3-1",
+            "label": "Opción diurna de 3 semanas",
+            "price": "USD 855",
+            "source": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2027-06-27",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-06-27T06:00:00Z",
+                "end_utc": "2027-06-27T12:00:00Z"
+              },
+              {
+                "date": "2027-06-28",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-06-28T06:00:00Z",
+                "end_utc": "2027-06-28T12:00:00Z"
+              },
+              {
+                "date": "2027-06-29",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-06-29T06:00:00Z",
+                "end_utc": "2027-06-29T12:00:00Z"
+              },
+              {
+                "date": "2027-06-30",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-06-30T06:00:00Z",
+                "end_utc": "2027-06-30T12:00:00Z"
+              },
+              {
+                "date": "2027-07-01",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-01T06:00:00Z",
+                "end_utc": "2027-07-01T12:00:00Z"
+              },
+              {
+                "date": "2027-07-04",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-04T06:00:00Z",
+                "end_utc": "2027-07-04T12:00:00Z"
+              },
+              {
+                "date": "2027-07-05",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-05T06:00:00Z",
+                "end_utc": "2027-07-05T12:00:00Z"
+              },
+              {
+                "date": "2027-07-06",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-06T06:00:00Z",
+                "end_utc": "2027-07-06T12:00:00Z"
+              },
+              {
+                "date": "2027-07-07",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-07T06:00:00Z",
+                "end_utc": "2027-07-07T12:00:00Z"
+              },
+              {
+                "date": "2027-07-08",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-08T06:00:00Z",
+                "end_utc": "2027-07-08T12:00:00Z"
+              },
+              {
+                "date": "2027-07-11",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-11T06:00:00Z",
+                "end_utc": "2027-07-11T12:00:00Z"
+              },
+              {
+                "date": "2027-07-12",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-12T06:00:00Z",
+                "end_utc": "2027-07-12T12:00:00Z"
+              },
+              {
+                "date": "2027-07-13",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-13T06:00:00Z",
+                "end_utc": "2027-07-13T12:00:00Z"
+              },
+              {
+                "date": "2027-07-14",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-14T06:00:00Z",
+                "end_utc": "2027-07-14T12:00:00Z"
+              },
+              {
+                "date": "2027-07-15",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-15T06:00:00Z",
+                "end_utc": "2027-07-15T12:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-07-04",
+            "end": "2027-07-22",
+            "variant_key": "w3-2",
+            "label": "Opción diurna de 3 semanas",
+            "price": "USD 855",
+            "source": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2027-07-04",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-04T06:00:00Z",
+                "end_utc": "2027-07-04T12:00:00Z"
+              },
+              {
+                "date": "2027-07-05",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-05T06:00:00Z",
+                "end_utc": "2027-07-05T12:00:00Z"
+              },
+              {
+                "date": "2027-07-06",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-06T06:00:00Z",
+                "end_utc": "2027-07-06T12:00:00Z"
+              },
+              {
+                "date": "2027-07-07",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-07T06:00:00Z",
+                "end_utc": "2027-07-07T12:00:00Z"
+              },
+              {
+                "date": "2027-07-08",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-08T06:00:00Z",
+                "end_utc": "2027-07-08T12:00:00Z"
+              },
+              {
+                "date": "2027-07-11",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-11T06:00:00Z",
+                "end_utc": "2027-07-11T12:00:00Z"
+              },
+              {
+                "date": "2027-07-12",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-12T06:00:00Z",
+                "end_utc": "2027-07-12T12:00:00Z"
+              },
+              {
+                "date": "2027-07-13",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-13T06:00:00Z",
+                "end_utc": "2027-07-13T12:00:00Z"
+              },
+              {
+                "date": "2027-07-14",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-14T06:00:00Z",
+                "end_utc": "2027-07-14T12:00:00Z"
+              },
+              {
+                "date": "2027-07-15",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-15T06:00:00Z",
+                "end_utc": "2027-07-15T12:00:00Z"
+              },
+              {
+                "date": "2027-07-18",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-18T06:00:00Z",
+                "end_utc": "2027-07-18T12:00:00Z"
+              },
+              {
+                "date": "2027-07-19",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-19T06:00:00Z",
+                "end_utc": "2027-07-19T12:00:00Z"
+              },
+              {
+                "date": "2027-07-20",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-20T06:00:00Z",
+                "end_utc": "2027-07-20T12:00:00Z"
+              },
+              {
+                "date": "2027-07-21",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-21T06:00:00Z",
+                "end_utc": "2027-07-21T12:00:00Z"
+              },
+              {
+                "date": "2027-07-22",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-22T06:00:00Z",
+                "end_utc": "2027-07-22T12:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-06-27",
+            "end": "2027-07-22",
+            "variant_key": "w4-1",
+            "label": "Opción diurna de 4 semanas",
+            "price": "USD 1100",
+            "source": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2027-06-27",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-06-27T06:00:00Z",
+                "end_utc": "2027-06-27T12:00:00Z"
+              },
+              {
+                "date": "2027-06-28",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-06-28T06:00:00Z",
+                "end_utc": "2027-06-28T12:00:00Z"
+              },
+              {
+                "date": "2027-06-29",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-06-29T06:00:00Z",
+                "end_utc": "2027-06-29T12:00:00Z"
+              },
+              {
+                "date": "2027-06-30",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-06-30T06:00:00Z",
+                "end_utc": "2027-06-30T12:00:00Z"
+              },
+              {
+                "date": "2027-07-01",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-01T06:00:00Z",
+                "end_utc": "2027-07-01T12:00:00Z"
+              },
+              {
+                "date": "2027-07-04",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-04T06:00:00Z",
+                "end_utc": "2027-07-04T12:00:00Z"
+              },
+              {
+                "date": "2027-07-05",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-05T06:00:00Z",
+                "end_utc": "2027-07-05T12:00:00Z"
+              },
+              {
+                "date": "2027-07-06",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-06T06:00:00Z",
+                "end_utc": "2027-07-06T12:00:00Z"
+              },
+              {
+                "date": "2027-07-07",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-07T06:00:00Z",
+                "end_utc": "2027-07-07T12:00:00Z"
+              },
+              {
+                "date": "2027-07-08",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-08T06:00:00Z",
+                "end_utc": "2027-07-08T12:00:00Z"
+              },
+              {
+                "date": "2027-07-11",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-11T06:00:00Z",
+                "end_utc": "2027-07-11T12:00:00Z"
+              },
+              {
+                "date": "2027-07-12",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-12T06:00:00Z",
+                "end_utc": "2027-07-12T12:00:00Z"
+              },
+              {
+                "date": "2027-07-13",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-13T06:00:00Z",
+                "end_utc": "2027-07-13T12:00:00Z"
+              },
+              {
+                "date": "2027-07-14",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-14T06:00:00Z",
+                "end_utc": "2027-07-14T12:00:00Z"
+              },
+              {
+                "date": "2027-07-15",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-15T06:00:00Z",
+                "end_utc": "2027-07-15T12:00:00Z"
+              },
+              {
+                "date": "2027-07-18",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-18T06:00:00Z",
+                "end_utc": "2027-07-18T12:00:00Z"
+              },
+              {
+                "date": "2027-07-19",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-19T06:00:00Z",
+                "end_utc": "2027-07-19T12:00:00Z"
+              },
+              {
+                "date": "2027-07-20",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-20T06:00:00Z",
+                "end_utc": "2027-07-20T12:00:00Z"
+              },
+              {
+                "date": "2027-07-21",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-21T06:00:00Z",
+                "end_utc": "2027-07-21T12:00:00Z"
+              },
+              {
+                "date": "2027-07-22",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Amman",
+                "topic": "Campamento diurno general deportivo: dos actividades principales de 75 minutos, deporte, natación, art y actividades menores variables. No campamento de robótica. Abierto a niños / niñas 6–12, grupos iniciales y avanzados. Programa estival general invita estudiantes de distintos países.",
+                "ical_timed": true,
+                "start_utc": "2027-07-22T06:00:00Z",
+                "end_utc": "2027-07-22T12:00:00Z"
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "USD",
+        "amount": 300,
+        "unit": "child_week",
+        "label": "1 / 2 / 3 / 4 semanas: USD 300 / 580 / 855 / 1100; también publicados JOD 212 / 410 / 610 / 780. Importes de tarifa distintos, no tipo de cambio nuestro. Segundo niño 5%, tercero y siguientes 10%.",
+        "included": "Programa diurno y lunch. Solo day, sin residencia ofrecida para 6–12.",
+        "extras": "Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero. Bus USD 85 / JOD 60 por semana; confirmar zona, plazas y unidad para dos niños.",
+        "deposit": "Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Confirmar grupo concreto, admisión extranjera, edad / curso, idioma, plaza y factura completa. Sin solicitudes, mensajes, cuentas, consentimientos ni pagos."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Confirmar grupo concreto, admisión extranjera, edad / curso, idioma, plaza y factura completa. Sin solicitudes, mensajes, cuentas, consentimientos ni pagos."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar grupo concreto, admisión extranjera, edad / curso, idioma, plaza y factura completa. Sin solicitudes, mensajes, cuentas, consentimientos ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "King’s · sports ages",
+          "url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/sports-recreation-camps",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "King’s · 2027 fees",
+          "url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "King’s · schedule",
+          "url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/schedule",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "King’s · international welcome",
+          "url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-06-27",
+          "end": "2027-07-01",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1399-20270627-20270701-w1-1"
+          ]
+        },
+        {
+          "start": "2027-07-04",
+          "end": "2027-07-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1399-20270704-20270708-w1-2"
+          ]
+        },
+        {
+          "start": "2027-07-11",
+          "end": "2027-07-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1399-20270711-20270715-w1-3"
+          ]
+        },
+        {
+          "start": "2027-07-18",
+          "end": "2027-07-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1399-20270718-20270722-w1-4"
+          ]
+        },
+        {
+          "start": "2027-06-27",
+          "end": "2027-07-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1399-20270627-20270708-w2-1"
+          ]
+        },
+        {
+          "start": "2027-07-04",
+          "end": "2027-07-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1399-20270704-20270715-w2-2"
+          ]
+        },
+        {
+          "start": "2027-07-11",
+          "end": "2027-07-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1399-20270711-20270722-w2-3"
+          ]
+        },
+        {
+          "start": "2027-06-27",
+          "end": "2027-07-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1399-20270627-20270715-w3-1"
+          ]
+        },
+        {
+          "start": "2027-07-04",
+          "end": "2027-07-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1399-20270704-20270722-w3-2"
+          ]
+        },
+        {
+          "start": "2027-06-27",
+          "end": "2027-07-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1399-20270627-20270722-w4-1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1400",
+      "slug": "kings-jordan-i2-day-2027",
+      "provider": "King’s Academy · i2 STEM · day",
+      "iso": "JOR",
+      "country": "Jordania",
+      "place": "Madaba · King’s Academy",
+      "themes": [
+        "coding",
+        "games",
+        "engineering",
+        "science"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "12–17",
+      "programme": "i2: LilyPad Arduino, electrónica e interactive creature, Scratch Digital Game Design, scientific investigation y otros campos en página courses. Tema de semana elegida 2027 aún sin establecer. Academic: English con placement test, lectura / escritura / habla; Math Pre-Algebra Grades 7–9 o Algebra II con preparación necesaria. Curso de inglés no significa turno STEM en inglés.",
+      "language": "Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2027",
+        "label": "Paquetes 2027 confirmados; elegir un período. Confirmar distribución de temas por semana y entradas / salidas de residencia.",
+        "sessions": [
+          [
+            "2027-06-27",
+            "2027-07-01"
+          ],
+          [
+            "2027-07-04",
+            "2027-07-08"
+          ],
+          [
+            "2027-07-11",
+            "2027-07-15"
+          ],
+          [
+            "2027-07-18",
+            "2027-07-22"
+          ],
+          [
+            "2027-06-27",
+            "2027-07-08"
+          ],
+          [
+            "2027-07-04",
+            "2027-07-15"
+          ],
+          [
+            "2027-07-11",
+            "2027-07-22"
+          ],
+          [
+            "2027-06-27",
+            "2027-07-15"
+          ],
+          [
+            "2027-07-04",
+            "2027-07-22"
+          ],
+          [
+            "2027-06-27",
+            "2027-07-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-06-27",
+            "end": "2027-07-01",
+            "variant_key": "w1-1",
+            "label": "Opción diurna de 1 semanas",
+            "price": "USD 800",
+            "source": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "camp_session",
+            "admission_kind": "unknown"
+          },
+          {
+            "start": "2027-07-04",
+            "end": "2027-07-08",
+            "variant_key": "w1-2",
+            "label": "Opción diurna de 1 semanas",
+            "price": "USD 800",
+            "source": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "camp_session",
+            "admission_kind": "unknown"
+          },
+          {
+            "start": "2027-07-11",
+            "end": "2027-07-15",
+            "variant_key": "w1-3",
+            "label": "Opción diurna de 1 semanas",
+            "price": "USD 800",
+            "source": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "camp_session",
+            "admission_kind": "unknown"
+          },
+          {
+            "start": "2027-07-18",
+            "end": "2027-07-22",
+            "variant_key": "w1-4",
+            "label": "Opción diurna de 1 semanas",
+            "price": "USD 800",
+            "source": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "camp_session",
+            "admission_kind": "unknown"
+          },
+          {
+            "start": "2027-06-27",
+            "end": "2027-07-08",
+            "variant_key": "w2-1",
+            "label": "Opción diurna de 2 semanas",
+            "price": "USD 1550",
+            "source": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "camp_session",
+            "admission_kind": "unknown"
+          },
+          {
+            "start": "2027-07-04",
+            "end": "2027-07-15",
+            "variant_key": "w2-2",
+            "label": "Opción diurna de 2 semanas",
+            "price": "USD 1550",
+            "source": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "camp_session",
+            "admission_kind": "unknown"
+          },
+          {
+            "start": "2027-07-11",
+            "end": "2027-07-22",
+            "variant_key": "w2-3",
+            "label": "Opción diurna de 2 semanas",
+            "price": "USD 1550",
+            "source": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "camp_session",
+            "admission_kind": "unknown"
+          },
+          {
+            "start": "2027-06-27",
+            "end": "2027-07-15",
+            "variant_key": "w3-1",
+            "label": "Opción diurna de 3 semanas",
+            "price": "USD 2300",
+            "source": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "camp_session",
+            "admission_kind": "unknown"
+          },
+          {
+            "start": "2027-07-04",
+            "end": "2027-07-22",
+            "variant_key": "w3-2",
+            "label": "Opción diurna de 3 semanas",
+            "price": "USD 2300",
+            "source": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "camp_session",
+            "admission_kind": "unknown"
+          },
+          {
+            "start": "2027-06-27",
+            "end": "2027-07-22",
+            "variant_key": "w4-1",
+            "label": "Opción diurna de 4 semanas",
+            "price": "USD 3000",
+            "source": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "camp_session",
+            "admission_kind": "unknown"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "USD",
+        "amount": 800,
+        "unit": "child_package",
+        "label": "Paquetes por duración; USD y JOD son precios publicados propios, no conversión. Sibling 5% al segundo, 10% al tercero y siguientes; confirmar factura final. 1 sem.: USD 800 / JOD 570; 2 sem.: USD 1550 / JOD 1100; 3 sem.: USD 2300 / JOD 1630; 4 sem.: USD 3000 / JOD 2130",
+        "included": "",
+        "extras": "Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero.",
+        "deposit": "Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar."
+      },
+      "accommodation": "Solo opción diurna; familia organiza alojamiento externo.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar grupo concreto, admisión extranjera, edad / curso, idioma, plaza y factura completa. Sin solicitudes, mensajes, cuentas, consentimientos ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "King’s · course",
+          "url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/stem-camp",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "King’s · 2027 fees",
+          "url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "King’s · international welcome",
+          "url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "King’s · boarding",
+          "url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/boarding-and-weekends",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "King’s · i2 content",
+          "url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/stem-camp/course-descriptions",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-06-27",
+          "end": "2027-07-01",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1400-20270627-20270701-w1-1"
+          ]
+        },
+        {
+          "start": "2027-07-04",
+          "end": "2027-07-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1400-20270704-20270708-w1-2"
+          ]
+        },
+        {
+          "start": "2027-07-11",
+          "end": "2027-07-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1400-20270711-20270715-w1-3"
+          ]
+        },
+        {
+          "start": "2027-07-18",
+          "end": "2027-07-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1400-20270718-20270722-w1-4"
+          ]
+        },
+        {
+          "start": "2027-06-27",
+          "end": "2027-07-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1400-20270627-20270708-w2-1"
+          ]
+        },
+        {
+          "start": "2027-07-04",
+          "end": "2027-07-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1400-20270704-20270715-w2-2"
+          ]
+        },
+        {
+          "start": "2027-07-11",
+          "end": "2027-07-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1400-20270711-20270722-w2-3"
+          ]
+        },
+        {
+          "start": "2027-06-27",
+          "end": "2027-07-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1400-20270627-20270715-w3-1"
+          ]
+        },
+        {
+          "start": "2027-07-04",
+          "end": "2027-07-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1400-20270704-20270722-w3-2"
+          ]
+        },
+        {
+          "start": "2027-06-27",
+          "end": "2027-07-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1400-20270627-20270722-w4-1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1401",
+      "slug": "kings-jordan-i2-boarding-2027",
+      "provider": "King’s Academy · i2 STEM · boarding",
+      "iso": "JOR",
+      "country": "Jordania",
+      "place": "Madaba · King’s Academy",
+      "themes": [
+        "coding",
+        "games",
+        "engineering",
+        "science"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "12–17",
+      "programme": "i2: LilyPad Arduino, electrónica e interactive creature, Scratch Digital Game Design, scientific investigation y otros campos en página courses. Tema de semana elegida 2027 aún sin establecer. Academic: English con placement test, lectura / escritura / habla; Math Pre-Algebra Grades 7–9 o Algebra II con preparación necesaria. Curso de inglés no significa turno STEM en inglés.",
+      "language": "Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2027",
+        "label": "Paquetes 2027 confirmados; elegir un período. Confirmar distribución de temas por semana y entradas / salidas de residencia.",
+        "sessions": [
+          [
+            "2027-06-27",
+            "2027-07-01"
+          ],
+          [
+            "2027-07-04",
+            "2027-07-08"
+          ],
+          [
+            "2027-07-11",
+            "2027-07-15"
+          ],
+          [
+            "2027-07-18",
+            "2027-07-22"
+          ],
+          [
+            "2027-06-27",
+            "2027-07-08"
+          ],
+          [
+            "2027-07-04",
+            "2027-07-15"
+          ],
+          [
+            "2027-07-11",
+            "2027-07-22"
+          ],
+          [
+            "2027-06-27",
+            "2027-07-15"
+          ],
+          [
+            "2027-07-04",
+            "2027-07-22"
+          ],
+          [
+            "2027-06-27",
+            "2027-07-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-06-27",
+            "end": "2027-07-01",
+            "variant_key": "w1-1",
+            "label": "Opción residencial de 1 semanas",
+            "price": "USD 1300",
+            "source": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+            "formats": [
+              "boarding"
+            ],
+            "date_scope": "camp_session",
+            "admission_kind": "unknown"
+          },
+          {
+            "start": "2027-07-04",
+            "end": "2027-07-08",
+            "variant_key": "w1-2",
+            "label": "Opción residencial de 1 semanas",
+            "price": "USD 1300",
+            "source": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+            "formats": [
+              "boarding"
+            ],
+            "date_scope": "camp_session",
+            "admission_kind": "unknown"
+          },
+          {
+            "start": "2027-07-11",
+            "end": "2027-07-15",
+            "variant_key": "w1-3",
+            "label": "Opción residencial de 1 semanas",
+            "price": "USD 1300",
+            "source": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+            "formats": [
+              "boarding"
+            ],
+            "date_scope": "camp_session",
+            "admission_kind": "unknown"
+          },
+          {
+            "start": "2027-07-18",
+            "end": "2027-07-22",
+            "variant_key": "w1-4",
+            "label": "Opción residencial de 1 semanas",
+            "price": "USD 1300",
+            "source": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+            "formats": [
+              "boarding"
+            ],
+            "date_scope": "camp_session",
+            "admission_kind": "unknown"
+          },
+          {
+            "start": "2027-06-27",
+            "end": "2027-07-08",
+            "variant_key": "w2-1",
+            "label": "Opción residencial de 2 semanas",
+            "price": "USD 2550",
+            "source": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+            "formats": [
+              "boarding"
+            ],
+            "date_scope": "camp_session",
+            "admission_kind": "unknown"
+          },
+          {
+            "start": "2027-07-04",
+            "end": "2027-07-15",
+            "variant_key": "w2-2",
+            "label": "Opción residencial de 2 semanas",
+            "price": "USD 2550",
+            "source": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+            "formats": [
+              "boarding"
+            ],
+            "date_scope": "camp_session",
+            "admission_kind": "unknown"
+          },
+          {
+            "start": "2027-07-11",
+            "end": "2027-07-22",
+            "variant_key": "w2-3",
+            "label": "Opción residencial de 2 semanas",
+            "price": "USD 2550",
+            "source": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+            "formats": [
+              "boarding"
+            ],
+            "date_scope": "camp_session",
+            "admission_kind": "unknown"
+          },
+          {
+            "start": "2027-06-27",
+            "end": "2027-07-15",
+            "variant_key": "w3-1",
+            "label": "Opción residencial de 3 semanas",
+            "price": "USD 3800",
+            "source": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+            "formats": [
+              "boarding"
+            ],
+            "date_scope": "camp_session",
+            "admission_kind": "unknown"
+          },
+          {
+            "start": "2027-07-04",
+            "end": "2027-07-22",
+            "variant_key": "w3-2",
+            "label": "Opción residencial de 3 semanas",
+            "price": "USD 3800",
+            "source": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+            "formats": [
+              "boarding"
+            ],
+            "date_scope": "camp_session",
+            "admission_kind": "unknown"
+          },
+          {
+            "start": "2027-06-27",
+            "end": "2027-07-22",
+            "variant_key": "w4-1",
+            "label": "Opción residencial de 4 semanas",
+            "price": "USD 4950",
+            "source": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+            "formats": [
+              "boarding"
+            ],
+            "date_scope": "camp_session",
+            "admission_kind": "unknown"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "USD",
+        "amount": 1300,
+        "unit": "child_package",
+        "label": "Paquetes por duración; USD y JOD son precios publicados propios, no conversión. Sibling 5% al segundo, 10% al tercero y siguientes; confirmar factura final. 1 sem.: USD 1300 / JOD 925; 2 sem.: USD 2550 / JOD 1810; 3 sem.: USD 3800 / JOD 2700; 4 sem.: USD 4950 / JOD 3510",
+        "included": "",
+        "extras": "Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero.",
+        "deposit": "Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar."
+      },
+      "accommodation": "Residencia para mayores: organizador declara habitaciones individuales, dormitorios separados por género y supervisión permanente. Confirmar comidas / excursiones incluidas, noches y llegada. No ofrecido a sports day menor.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar grupo concreto, admisión extranjera, edad / curso, idioma, plaza y factura completa. Sin solicitudes, mensajes, cuentas, consentimientos ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "King’s · course",
+          "url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/stem-camp",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "King’s · 2027 fees",
+          "url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "King’s · international welcome",
+          "url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "King’s · boarding",
+          "url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/boarding-and-weekends",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "King’s · i2 content",
+          "url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/stem-camp/course-descriptions",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-06-27",
+          "end": "2027-07-01",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1401-20270627-20270701-w1-1"
+          ]
+        },
+        {
+          "start": "2027-07-04",
+          "end": "2027-07-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1401-20270704-20270708-w1-2"
+          ]
+        },
+        {
+          "start": "2027-07-11",
+          "end": "2027-07-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1401-20270711-20270715-w1-3"
+          ]
+        },
+        {
+          "start": "2027-07-18",
+          "end": "2027-07-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1401-20270718-20270722-w1-4"
+          ]
+        },
+        {
+          "start": "2027-06-27",
+          "end": "2027-07-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1401-20270627-20270708-w2-1"
+          ]
+        },
+        {
+          "start": "2027-07-04",
+          "end": "2027-07-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1401-20270704-20270715-w2-2"
+          ]
+        },
+        {
+          "start": "2027-07-11",
+          "end": "2027-07-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1401-20270711-20270722-w2-3"
+          ]
+        },
+        {
+          "start": "2027-06-27",
+          "end": "2027-07-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1401-20270627-20270715-w3-1"
+          ]
+        },
+        {
+          "start": "2027-07-04",
+          "end": "2027-07-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1401-20270704-20270722-w3-2"
+          ]
+        },
+        {
+          "start": "2027-06-27",
+          "end": "2027-07-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1401-20270627-20270722-w4-1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1402",
+      "slug": "kuwait-science-club-package3",
+      "provider": "Kuwait Science Club · Package Three",
+      "iso": "KWT",
+      "country": "Kuwait",
+      "place": "Kuwait",
+      "themes": [
+        "robotics",
+        "art"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Niños 8–10 · archivo 2026",
+      "programme": "Summer package archivado: Robotics + Photography, niños 8–10, Sun / Tue / Thu 17:00–20:00. Formulario batch también dice Girls; confirmar género y grupo exacto. Campo Civil ID Picture no acredita admisión con pasaporte extranjero. Certificado de finalización no es premio competitivo.",
+      "language": "Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "20 de junio – 27 de agosto 2026 y batch 2026 corresponden a verano pasado; sin fechas 2027, sin crear clases futuras.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "KWD",
+        "amount": 60,
+        "unit": "child_programme",
+        "label": "Cuota archivada KWD 60 por participante / package publicado, no precio 2027 ni por cada día separado.",
+        "included": "",
+        "extras": "Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero.",
+        "deposit": "Tarifa nueva / moneda / unidad de pago e invoice completo sin confirmar; precio inicial o antiguo publicado no convertido en factura final."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Confirmar grupo concreto, admisión extranjera, edad / curso, idioma, plaza y factura completa. Sin solicitudes, mensajes, cuentas, consentimientos ni pagos."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar grupo concreto, admisión extranjera, edad / curso, idioma, plaza y factura completa. Sin solicitudes, mensajes, cuentas, consentimientos ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Kuwait Science Club · Package Three",
+          "url": "https://ksclub.org/SectorActivity?packageGuid=15811046-f4b4-48f6-8b62-4158edb3c826&sectorGuid=b3a25a05-50ca-48f9-a281-4f3283c3ea58",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [
+        "L527"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1403",
+      "slug": "kings-jordan-english-day-2027",
+      "provider": "King’s Academy · English Foundations · day",
+      "iso": "JOR",
+      "country": "Jordania",
+      "place": "Madaba · King’s Academy",
+      "themes": [
+        "languages"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "12–17",
+      "programme": "i2: LilyPad Arduino, electrónica e interactive creature, Scratch Digital Game Design, scientific investigation y otros campos en página courses. Tema de semana elegida 2027 aún sin establecer. Academic: English con placement test, lectura / escritura / habla; Math Pre-Algebra Grades 7–9 o Algebra II con preparación necesaria. Curso de inglés no significa turno STEM en inglés.",
+      "language": "Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2027",
+        "label": "Paquetes 2027 confirmados; elegir un período. Confirmar distribución de temas por semana y entradas / salidas de residencia.",
+        "sessions": [
+          [
+            "2027-06-27",
+            "2027-07-08"
+          ],
+          [
+            "2027-07-11",
+            "2027-07-22"
+          ],
+          [
+            "2027-06-27",
+            "2027-07-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-06-27",
+            "end": "2027-07-08",
+            "variant_key": "w2-1",
+            "label": "Opción diurna de 2 semanas",
+            "price": "USD 1650",
+            "source": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "camp_session",
+            "admission_kind": "unknown"
+          },
+          {
+            "start": "2027-07-11",
+            "end": "2027-07-22",
+            "variant_key": "w2-2",
+            "label": "Opción diurna de 2 semanas",
+            "price": "USD 1650",
+            "source": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "camp_session",
+            "admission_kind": "unknown"
+          },
+          {
+            "start": "2027-06-27",
+            "end": "2027-07-22",
+            "variant_key": "w4-1",
+            "label": "Opción diurna de 4 semanas",
+            "price": "USD 3100",
+            "source": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "camp_session",
+            "admission_kind": "unknown"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "USD",
+        "amount": 1650,
+        "unit": "child_package",
+        "label": "Paquetes por duración; USD y JOD son precios publicados propios, no conversión. Sibling 5% al segundo, 10% al tercero y siguientes; confirmar factura final. 2 sem.: USD 1650 / JOD 1170; 4 sem.: USD 3100 / JOD 2200",
+        "included": "",
+        "extras": "Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero.",
+        "deposit": "Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar."
+      },
+      "accommodation": "Solo opción diurna; familia organiza alojamiento externo.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar grupo concreto, admisión extranjera, edad / curso, idioma, plaza y factura completa. Sin solicitudes, mensajes, cuentas, consentimientos ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "King’s · course",
+          "url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/academic-programs/english-foundations-program",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "King’s · 2027 fees",
+          "url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "King’s · international welcome",
+          "url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "King’s · boarding",
+          "url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/boarding-and-weekends",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "King’s · i2 content",
+          "url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/stem-camp/course-descriptions",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-06-27",
+          "end": "2027-07-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1403-20270627-20270708-w2-1"
+          ]
+        },
+        {
+          "start": "2027-07-11",
+          "end": "2027-07-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1403-20270711-20270722-w2-2"
+          ]
+        },
+        {
+          "start": "2027-06-27",
+          "end": "2027-07-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1403-20270627-20270722-w4-1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1404",
+      "slug": "kings-jordan-english-boarding-2027",
+      "provider": "King’s Academy · English Foundations · boarding",
+      "iso": "JOR",
+      "country": "Jordania",
+      "place": "Madaba · King’s Academy",
+      "themes": [
+        "languages"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "12–17",
+      "programme": "i2: LilyPad Arduino, electrónica e interactive creature, Scratch Digital Game Design, scientific investigation y otros campos en página courses. Tema de semana elegida 2027 aún sin establecer. Academic: English con placement test, lectura / escritura / habla; Math Pre-Algebra Grades 7–9 o Algebra II con preparación necesaria. Curso de inglés no significa turno STEM en inglés.",
+      "language": "Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2027",
+        "label": "Paquetes 2027 confirmados; elegir un período. Confirmar distribución de temas por semana y entradas / salidas de residencia.",
+        "sessions": [
+          [
+            "2027-06-27",
+            "2027-07-08"
+          ],
+          [
+            "2027-07-11",
+            "2027-07-22"
+          ],
+          [
+            "2027-06-27",
+            "2027-07-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-06-27",
+            "end": "2027-07-08",
+            "variant_key": "w2-1",
+            "label": "Opción residencial de 2 semanas",
+            "price": "USD 2650",
+            "source": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+            "formats": [
+              "boarding"
+            ],
+            "date_scope": "camp_session",
+            "admission_kind": "unknown"
+          },
+          {
+            "start": "2027-07-11",
+            "end": "2027-07-22",
+            "variant_key": "w2-2",
+            "label": "Opción residencial de 2 semanas",
+            "price": "USD 2650",
+            "source": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+            "formats": [
+              "boarding"
+            ],
+            "date_scope": "camp_session",
+            "admission_kind": "unknown"
+          },
+          {
+            "start": "2027-06-27",
+            "end": "2027-07-22",
+            "variant_key": "w4-1",
+            "label": "Opción residencial de 4 semanas",
+            "price": "USD 5100",
+            "source": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+            "formats": [
+              "boarding"
+            ],
+            "date_scope": "camp_session",
+            "admission_kind": "unknown"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "USD",
+        "amount": 2650,
+        "unit": "child_package",
+        "label": "Paquetes por duración; USD y JOD son precios publicados propios, no conversión. Sibling 5% al segundo, 10% al tercero y siguientes; confirmar factura final. 2 sem.: USD 2650 / JOD 1880; 4 sem.: USD 5100 / JOD 3620",
+        "included": "",
+        "extras": "Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero.",
+        "deposit": "Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar."
+      },
+      "accommodation": "Residencia para mayores: organizador declara habitaciones individuales, dormitorios separados por género y supervisión permanente. Confirmar comidas / excursiones incluidas, noches y llegada. No ofrecido a sports day menor.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar grupo concreto, admisión extranjera, edad / curso, idioma, plaza y factura completa. Sin solicitudes, mensajes, cuentas, consentimientos ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "King’s · course",
+          "url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/academic-programs/english-foundations-program",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "King’s · 2027 fees",
+          "url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "King’s · international welcome",
+          "url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "King’s · boarding",
+          "url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/boarding-and-weekends",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "King’s · i2 content",
+          "url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/stem-camp/course-descriptions",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-06-27",
+          "end": "2027-07-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1404-20270627-20270708-w2-1"
+          ]
+        },
+        {
+          "start": "2027-07-11",
+          "end": "2027-07-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1404-20270711-20270722-w2-2"
+          ]
+        },
+        {
+          "start": "2027-06-27",
+          "end": "2027-07-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1404-20270627-20270722-w4-1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1405",
+      "slug": "kings-jordan-math-day-2027",
+      "provider": "King’s Academy · Math Foundations · day",
+      "iso": "JOR",
+      "country": "Jordania",
+      "place": "Madaba · King’s Academy",
+      "themes": [
+        "science"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "12–17",
+      "programme": "i2: LilyPad Arduino, electrónica e interactive creature, Scratch Digital Game Design, scientific investigation y otros campos en página courses. Tema de semana elegida 2027 aún sin establecer. Academic: English con placement test, lectura / escritura / habla; Math Pre-Algebra Grades 7–9 o Algebra II con preparación necesaria. Curso de inglés no significa turno STEM en inglés. Algebra II exige calculadora gráfica. Modelo, precio e inclusión en tuition no indicados; no es dispositivo obligatorio para todos campamentos menores.",
+      "language": "Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2027",
+        "label": "Paquetes 2027 confirmados; elegir un período. Confirmar distribución de temas por semana y entradas / salidas de residencia.",
+        "sessions": [
+          [
+            "2027-06-27",
+            "2027-07-08"
+          ],
+          [
+            "2027-07-11",
+            "2027-07-22"
+          ],
+          [
+            "2027-06-27",
+            "2027-07-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-06-27",
+            "end": "2027-07-08",
+            "variant_key": "w2-1",
+            "label": "Opción diurna de 2 semanas",
+            "price": "USD 1650",
+            "source": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "camp_session",
+            "admission_kind": "unknown"
+          },
+          {
+            "start": "2027-07-11",
+            "end": "2027-07-22",
+            "variant_key": "w2-2",
+            "label": "Opción diurna de 2 semanas",
+            "price": "USD 1650",
+            "source": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "camp_session",
+            "admission_kind": "unknown"
+          },
+          {
+            "start": "2027-06-27",
+            "end": "2027-07-22",
+            "variant_key": "w4-1",
+            "label": "Opción diurna de 4 semanas",
+            "price": "USD 3100",
+            "source": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "camp_session",
+            "admission_kind": "unknown"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "USD",
+        "amount": 1650,
+        "unit": "child_package",
+        "label": "Paquetes por duración; USD y JOD son precios publicados propios, no conversión. Sibling 5% al segundo, 10% al tercero y siguientes; confirmar factura final. 2 sem.: USD 1650 / JOD 1170; 4 sem.: USD 3100 / JOD 2200",
+        "included": "",
+        "extras": "Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero.",
+        "deposit": "Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar."
+      },
+      "accommodation": "Solo opción diurna; familia organiza alojamiento externo.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar grupo concreto, admisión extranjera, edad / curso, idioma, plaza y factura completa. Sin solicitudes, mensajes, cuentas, consentimientos ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "King’s · course",
+          "url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/academic-programs/math-foundations-program",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "King’s · 2027 fees",
+          "url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "King’s · international welcome",
+          "url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "King’s · boarding",
+          "url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/boarding-and-weekends",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "King’s · i2 content",
+          "url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/stem-camp/course-descriptions",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-06-27",
+          "end": "2027-07-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1405-20270627-20270708-w2-1"
+          ]
+        },
+        {
+          "start": "2027-07-11",
+          "end": "2027-07-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1405-20270711-20270722-w2-2"
+          ]
+        },
+        {
+          "start": "2027-06-27",
+          "end": "2027-07-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1405-20270627-20270722-w4-1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1406",
+      "slug": "kings-jordan-math-boarding-2027",
+      "provider": "King’s Academy · Math Foundations · boarding",
+      "iso": "JOR",
+      "country": "Jordania",
+      "place": "Madaba · King’s Academy",
+      "themes": [
+        "science"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "12–17",
+      "programme": "i2: LilyPad Arduino, electrónica e interactive creature, Scratch Digital Game Design, scientific investigation y otros campos en página courses. Tema de semana elegida 2027 aún sin establecer. Academic: English con placement test, lectura / escritura / habla; Math Pre-Algebra Grades 7–9 o Algebra II con preparación necesaria. Curso de inglés no significa turno STEM en inglés. Algebra II exige calculadora gráfica. Modelo, precio e inclusión en tuition no indicados; no es dispositivo obligatorio para todos campamentos menores.",
+      "language": "Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2027",
+        "label": "Paquetes 2027 confirmados; elegir un período. Confirmar distribución de temas por semana y entradas / salidas de residencia.",
+        "sessions": [
+          [
+            "2027-06-27",
+            "2027-07-08"
+          ],
+          [
+            "2027-07-11",
+            "2027-07-22"
+          ],
+          [
+            "2027-06-27",
+            "2027-07-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-06-27",
+            "end": "2027-07-08",
+            "variant_key": "w2-1",
+            "label": "Opción residencial de 2 semanas",
+            "price": "USD 2650",
+            "source": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+            "formats": [
+              "boarding"
+            ],
+            "date_scope": "camp_session",
+            "admission_kind": "unknown"
+          },
+          {
+            "start": "2027-07-11",
+            "end": "2027-07-22",
+            "variant_key": "w2-2",
+            "label": "Opción residencial de 2 semanas",
+            "price": "USD 2650",
+            "source": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+            "formats": [
+              "boarding"
+            ],
+            "date_scope": "camp_session",
+            "admission_kind": "unknown"
+          },
+          {
+            "start": "2027-06-27",
+            "end": "2027-07-22",
+            "variant_key": "w4-1",
+            "label": "Opción residencial de 4 semanas",
+            "price": "USD 5100",
+            "source": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+            "formats": [
+              "boarding"
+            ],
+            "date_scope": "camp_session",
+            "admission_kind": "unknown"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "USD",
+        "amount": 2650,
+        "unit": "child_package",
+        "label": "Paquetes por duración; USD y JOD son precios publicados propios, no conversión. Sibling 5% al segundo, 10% al tercero y siguientes; confirmar factura final. 2 sem.: USD 2650 / JOD 1880; 4 sem.: USD 5100 / JOD 3620",
+        "included": "",
+        "extras": "Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero.",
+        "deposit": "Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar."
+      },
+      "accommodation": "Residencia para mayores: organizador declara habitaciones individuales, dormitorios separados por género y supervisión permanente. Confirmar comidas / excursiones incluidas, noches y llegada. No ofrecido a sports day menor.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar grupo concreto, admisión extranjera, edad / curso, idioma, plaza y factura completa. Sin solicitudes, mensajes, cuentas, consentimientos ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "King’s · course",
+          "url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/academic-programs/math-foundations-program",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "King’s · 2027 fees",
+          "url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "King’s · international welcome",
+          "url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "King’s · boarding",
+          "url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/boarding-and-weekends",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "King’s · i2 content",
+          "url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/stem-camp/course-descriptions",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-06-27",
+          "end": "2027-07-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1406-20270627-20270708-w2-1"
+          ]
+        },
+        {
+          "start": "2027-07-11",
+          "end": "2027-07-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1406-20270711-20270722-w2-2"
+          ]
+        },
+        {
+          "start": "2027-06-27",
+          "end": "2027-07-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1406-20270627-20270722-w4-1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1407",
+      "slug": "coded-kuwait-winter-youth",
+      "provider": "CODED Juniors · Winter Tech Camp · Youth",
+      "iso": "KWT",
+      "country": "Kuwait",
+      "place": "Kuwait",
+      "themes": [
+        "coding",
+        "robotics",
+        "ai",
+        "design"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "13–16 · vías separadas",
+      "programme": "Summer: grupos 6–7, 8–10, 11–13 y períodos de dos semanas Sun–Wed; AI, VR, circuits, coding. Winter: página propia Juniors 6–12 con cuatro estaciones diarias; Youth 13–16 es grupo mayor distinto, no prometido a pequeños. Ficha winter resumida 6–13 discrepa de descripción. Convocatoria 2027 sin fechar: cards contienen Jan–May 2025, header invernal Mar–Apr 2026 / Free Trade Zone, descripción Argan Bedaya. Conflictos de plantillas antiguas, no programa 2027. App ofrece interfaces EN / AR y campos Civil ID; enseñanza y uso de pasaporte turístico sin confirmar. Sin cuenta creada.",
+      "language": "Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Convocatoria 2027 sin fechar: cards contienen Jan–May 2025, header invernal Mar–Apr 2026 / Free Trade Zone, descripción Argan Bedaya. Conflictos de plantillas antiguas, no programa 2027. App ofrece interfaces EN / AR y campos Civil ID; enseñanza y uso de pasaporte turístico sin confirmar. Sin cuenta creada.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "KWD",
+        "amount": null,
+        "unit": "programme",
+        "label": "Turno nuevo elegido sin precio confirmado. Sibling 10% para dos / 13% para tres o más y bank 15% anunciados en FAQ winter, pero base, acumulación y factura efectiva sin establecer.",
+        "included": "",
+        "extras": "Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero.",
+        "deposit": "Tarifa nueva / moneda / unidad de pago e invoice completo sin confirmar; precio inicial o antiguo publicado no convertido en factura final."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar grupo concreto, admisión extranjera, edad / curso, idioma, plaza y factura completa. Sin solicitudes, mensajes, cuentas, consentimientos ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "CODED Juniors · Winter Tech Camp · Youth",
+          "url": "https://coded.kw/winter-camp",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "CODED · camp overview",
+          "url": "https://coded.kw/kids/camps",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "CODED · public app",
+          "url": "https://www.juniors.app/",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [
+        "L528"
+      ],
+      "calendar_links": []
     }
   ],
   "gaps": [
@@ -228277,7 +231260,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 175,
+  "version": 178,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -244561,6 +247544,216 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP1399",
+      "event_id": "CP1399-20270627-20270701-w1-1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1399",
+      "event_id": "CP1399-20270704-20270708-w1-2",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1399",
+      "event_id": "CP1399-20270711-20270715-w1-3",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1399",
+      "event_id": "CP1399-20270718-20270722-w1-4",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1399",
+      "event_id": "CP1399-20270627-20270708-w2-1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1399",
+      "event_id": "CP1399-20270704-20270715-w2-2",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1399",
+      "event_id": "CP1399-20270711-20270722-w2-3",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1399",
+      "event_id": "CP1399-20270627-20270715-w3-1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1399",
+      "event_id": "CP1399-20270704-20270722-w3-2",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1399",
+      "event_id": "CP1399-20270627-20270722-w4-1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1400",
+      "event_id": "CP1400-20270627-20270701-w1-1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1400",
+      "event_id": "CP1400-20270704-20270708-w1-2",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1400",
+      "event_id": "CP1400-20270711-20270715-w1-3",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1400",
+      "event_id": "CP1400-20270718-20270722-w1-4",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1400",
+      "event_id": "CP1400-20270627-20270708-w2-1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1400",
+      "event_id": "CP1400-20270704-20270715-w2-2",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1400",
+      "event_id": "CP1400-20270711-20270722-w2-3",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1400",
+      "event_id": "CP1400-20270627-20270715-w3-1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1400",
+      "event_id": "CP1400-20270704-20270722-w3-2",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1400",
+      "event_id": "CP1400-20270627-20270722-w4-1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1401",
+      "event_id": "CP1401-20270627-20270701-w1-1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1401",
+      "event_id": "CP1401-20270704-20270708-w1-2",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1401",
+      "event_id": "CP1401-20270711-20270715-w1-3",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1401",
+      "event_id": "CP1401-20270718-20270722-w1-4",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1401",
+      "event_id": "CP1401-20270627-20270708-w2-1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1401",
+      "event_id": "CP1401-20270704-20270715-w2-2",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1401",
+      "event_id": "CP1401-20270711-20270722-w2-3",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1401",
+      "event_id": "CP1401-20270627-20270715-w3-1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1401",
+      "event_id": "CP1401-20270704-20270722-w3-2",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1401",
+      "event_id": "CP1401-20270627-20270722-w4-1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1403",
+      "event_id": "CP1403-20270627-20270708-w2-1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1403",
+      "event_id": "CP1403-20270711-20270722-w2-2",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1403",
+      "event_id": "CP1403-20270627-20270722-w4-1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1404",
+      "event_id": "CP1404-20270627-20270708-w2-1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1404",
+      "event_id": "CP1404-20270711-20270722-w2-2",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1404",
+      "event_id": "CP1404-20270627-20270722-w4-1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1405",
+      "event_id": "CP1405-20270627-20270708-w2-1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1405",
+      "event_id": "CP1405-20270711-20270722-w2-2",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1405",
+      "event_id": "CP1405-20270627-20270722-w4-1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1406",
+      "event_id": "CP1406-20270627-20270708-w2-1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1406",
+      "event_id": "CP1406-20270711-20270722-w2-2",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1406",
+      "event_id": "CP1406-20270627-20270722-w4-1",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -244829,6 +248022,26 @@
       "programme_id": "CP1396",
       "event_id": "L206",
       "relation": "existing_programme"
+    },
+    {
+      "programme_id": "CP1397",
+      "event_id": "L525",
+      "relation": "programme_watch"
+    },
+    {
+      "programme_id": "CP1398",
+      "event_id": "L526",
+      "relation": "programme_watch"
+    },
+    {
+      "programme_id": "CP1402",
+      "event_id": "L527",
+      "relation": "programme_watch"
+    },
+    {
+      "programme_id": "CP1407",
+      "event_id": "L528",
+      "relation": "programme_watch"
     }
   ],
   "generated_event_ids": [
@@ -247804,10 +251017,52 @@
     "CP1377-20270718-20270724-galactic-en-3",
     "CP1377-20270725-20270731-galactic-en-4",
     "CP1386-20270116-20270320-bayamon-am",
-    "CP1386-20270116-20270320-bayamon-pm"
+    "CP1386-20270116-20270320-bayamon-pm",
+    "CP1399-20270627-20270701-w1-1",
+    "CP1399-20270704-20270708-w1-2",
+    "CP1399-20270711-20270715-w1-3",
+    "CP1399-20270718-20270722-w1-4",
+    "CP1399-20270627-20270708-w2-1",
+    "CP1399-20270704-20270715-w2-2",
+    "CP1399-20270711-20270722-w2-3",
+    "CP1399-20270627-20270715-w3-1",
+    "CP1399-20270704-20270722-w3-2",
+    "CP1399-20270627-20270722-w4-1",
+    "CP1400-20270627-20270701-w1-1",
+    "CP1400-20270704-20270708-w1-2",
+    "CP1400-20270711-20270715-w1-3",
+    "CP1400-20270718-20270722-w1-4",
+    "CP1400-20270627-20270708-w2-1",
+    "CP1400-20270704-20270715-w2-2",
+    "CP1400-20270711-20270722-w2-3",
+    "CP1400-20270627-20270715-w3-1",
+    "CP1400-20270704-20270722-w3-2",
+    "CP1400-20270627-20270722-w4-1",
+    "CP1401-20270627-20270701-w1-1",
+    "CP1401-20270704-20270708-w1-2",
+    "CP1401-20270711-20270715-w1-3",
+    "CP1401-20270718-20270722-w1-4",
+    "CP1401-20270627-20270708-w2-1",
+    "CP1401-20270704-20270715-w2-2",
+    "CP1401-20270711-20270722-w2-3",
+    "CP1401-20270627-20270715-w3-1",
+    "CP1401-20270704-20270722-w3-2",
+    "CP1401-20270627-20270722-w4-1",
+    "CP1403-20270627-20270708-w2-1",
+    "CP1403-20270711-20270722-w2-2",
+    "CP1403-20270627-20270722-w4-1",
+    "CP1404-20270627-20270708-w2-1",
+    "CP1404-20270711-20270722-w2-2",
+    "CP1404-20270627-20270722-w4-1",
+    "CP1405-20270627-20270708-w2-1",
+    "CP1405-20270711-20270722-w2-2",
+    "CP1405-20270627-20270722-w4-1",
+    "CP1406-20270627-20270708-w2-1",
+    "CP1406-20270711-20270722-w2-2",
+    "CP1406-20270627-20270722-w4-1"
   ],
   "integration": {
-    "generated_sessions": 2973,
+    "generated_sessions": 3015,
     "reused_legacy_events": 69,
     "seasonal_windows": 60,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

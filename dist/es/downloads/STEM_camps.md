@@ -344,7 +344,7 @@ Comprobado: 2026-10-01
 
 ### ~#L014 · Cypher Coders ~
 
-Lugar: Gran Bretaña
+lugar: Reino Unido
 Fecha: El Provider dejó oficialmente de trabajar.
 Edad: programas anteriores 6*12
 Matway: No
@@ -376,7 +376,7 @@ Comprobado: 2026-09-29
 
 ### L016 · Nullspace — Robotics Engineer / AI workshops
 
-Lugar: Singapur
+lugar: Singapur
 Fecha: Los grupos AI/diciembre de LEGO están en una tarjeta vinculada separada.
 Edad: LEGO Engineer 9–13; Generative AI 9–14; Little Explorer 5–6 — Sólo weekly
 Matway: Sí, por edad
@@ -392,7 +392,7 @@ Comprobado: 2026-09-30
 
 ### L017 · Coding Lab — Junior Coders / holiday
 
-Lugar: Singapur
+lugar: Singapur
 Fecha: ventana de correspondencia; cambios de turno TBA específicos para menores
 Edad: Junior 5*6; principales coding7*18
 Matway: Sí, por edad
@@ -424,7 +424,7 @@ Comprobado: 2026-09-29
 
 ### L019 · BrainPlay — holiday STEM programmes
 
-Lugar: Nueva Zelandia
+lugar: Nueva Zelanda
 Fecha: School holidays: fechas de TBA seleccionadas
 Edad: En la encuesta se examinan algunas clases 5–12; U Code Club 9 octubre 2026 regla exacta 7–12. Otras ciudades / temas por separado.
 Matway: Condicional
@@ -472,7 +472,7 @@ Comprobado: 2026-09-29
 
 ### # L022 · Tokyo STEM School página sin cambios específicos
 
-Lugar: Japón
+lugar: Japón
 Fecha: No hay fecha / fee / lista de turnos abiertos
 Edad: No se han publicado los límites
 Matway: Condicional
@@ -504,7 +504,7 @@ Comprobado: 2026-10-01
 
 ### L024 · La Jauría — tech workshops
 
-Lugar: Costa Rica
+lugar: Costa Rica
 Fecha: Tallleres ordinarios; fechas de vacaciones no anunciadas
 Edad: Robotics6+; hardware8+;3D9+ por fuente, cotejar curso
 Matway: Sí, por edad
@@ -520,7 +520,7 @@ Comprobado: 2026-09-29
 
 ### ~#L025 · Tecnikids }Preparación y futuras vacaciones
 
-Lugar: Costa Rica
+lugar: Costa Rica
 Fecha: Programas en curso; no se encontró el turno abierto de invierno 2026/27
 Edad: grupos escolares; edad temprana para confirmar
 Matway: Condicional
@@ -536,7 +536,7 @@ Comprobado: 2026-09-29
 
 ### ~#L026 · Descoubre Robótica - Educación / AI
 
-Lugar: Costa Rica
+lugar: Costa Rica
 Fecha: No hay turnos de vacaciones confirmados
 Edad: No se ha encontrado un programa abierto para la primera edad
 Matway: Condicional
@@ -552,7 +552,7 @@ Comprobado: 2026-09-29
 
 ### ~#L027 · Techeroes Feriencamamp ~ Candidato original
 
-Lugar: Alemania
+lugar: Alemania
 Fecha: Octubre 26 / enero 27, fecha de la auditoría no verificada
 Edad: 6*16 por fuente
 Matway: Condicional
@@ -584,7 +584,7 @@ Comprobado: 2026-10-01
 
 ### L029 · T-REX Education — AstroCamp / game creation
 
-Lugar: México
+lugar: México
 Fecha: Variaciones 22.06–21.08.2026 Pasados; Nuevas pruebas
 Edad: AstroCamp 7*14; trabajo separado 8*15
 Matway: Sí, por edad
@@ -600,7 +600,7 @@ Comprobado: 2026-09-30
 
 ### L030 · T-REX Education — STEAM Lab Petit
 
-Lugar: México
+lugar: México
 Fecha: 22.06–15.08.2026 Ya pasó.; Nueva ventana esperando
 Edad: 4–6 en Petit
 No: Petit hasta 6
@@ -664,7 +664,7 @@ Se ha comprobado: 2026-11-05
 
 ### L034 · Robotitos.MX — verano AI / robotics / games
 
-Lugar: México
+lugar: México
 Fecha: 23.07–06.08 o 20.08, año de página no especificado; Fechas futuras no confirmadas
 Edad: 8–14 en la página encontrada
 Matway: Sí, por edad
@@ -680,7 +680,7 @@ Comprobado: 2026-09-30
 
 ### # L035 · RobotiX Center México ○ vacaciones terminadas
 
-Lugar: México
+lugar: México
 Fecha: RobotiX Center suspendido desde septiembre de 2022
 Edad: Se han suspendido los cursos extraescolares abiertos
 Matway: No
@@ -1432,7 +1432,7 @@ Comprobado: 2026-09-30
 
 ### L082 · RoboThink South Africa — holiday camp / Blast Off to Mars
 
-Lugar: Sudáfrica
+lugar: Sudáfrica
 Fecha: El siguiente flujo/etapa: no se han anunciado fechas
 Edad: 6–14 en la publicación holiday programa; Fecha de la edad
 Matvey: Sí, por edad 6–14; de un cambio específico
@@ -55542,6 +55542,678 @@ Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspond
 Fuente: https://minigeeks.co/robots
 Se ha comprobado: 2026-11-05
 
+### CP1399-20270627-20270701-w1-1 · King’s Academy · Sports & Recreation 2027 · 1 week day option · 2027-06-27–2027-07-01
+
+lugar: Jordania · Madaba · King’s Academy
+Fecha: 2027-06-27 — 2027-07-01
+Edad: 6*12
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 300 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar grupo concreto, admisión extranjera, edad / curso, idioma, plaza y factura completa. Sin solicitudes, mensajes, cuentas, consentimientos ni pagos. Oscar: Confirmar grupo concreto, admisión extranjera, edad / curso, idioma, plaza y factura completa. Sin solicitudes, mensajes, cuentas, consentimientos ni pagos. Suplementos: Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero. Bus USD 85 / JOD 60 por semana; confirmar zona, plazas y unidad para dos niños. Pago: Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar.
+Fuente: https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees
+Se ha comprobado: 2026-11-06
+
+### CP1399-20270704-20270708-w1-2 · King’s Academy · Sports & Recreation 2027 · 1 week day option · 2027-07-04–2027-07-08
+
+lugar: Jordania · Madaba · King’s Academy
+Fecha: 2027-07-04 — 2027-07-08
+Edad: 6*12
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 300 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar grupo concreto, admisión extranjera, edad / curso, idioma, plaza y factura completa. Sin solicitudes, mensajes, cuentas, consentimientos ni pagos. Oscar: Confirmar grupo concreto, admisión extranjera, edad / curso, idioma, plaza y factura completa. Sin solicitudes, mensajes, cuentas, consentimientos ni pagos. Suplementos: Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero. Bus USD 85 / JOD 60 por semana; confirmar zona, plazas y unidad para dos niños. Pago: Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar.
+Fuente: https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees
+Se ha comprobado: 2026-11-06
+
+### CP1399-20270711-20270715-w1-3 · King’s Academy · Sports & Recreation 2027 · 1 week day option · 2027-07-11–2027-07-15
+
+lugar: Jordania · Madaba · King’s Academy
+Fecha: 2027-07-11 — 2027-07-15
+Edad: 6*12
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 300 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar grupo concreto, admisión extranjera, edad / curso, idioma, plaza y factura completa. Sin solicitudes, mensajes, cuentas, consentimientos ni pagos. Oscar: Confirmar grupo concreto, admisión extranjera, edad / curso, idioma, plaza y factura completa. Sin solicitudes, mensajes, cuentas, consentimientos ni pagos. Suplementos: Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero. Bus USD 85 / JOD 60 por semana; confirmar zona, plazas y unidad para dos niños. Pago: Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar.
+Fuente: https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees
+Se ha comprobado: 2026-11-06
+
+### CP1399-20270718-20270722-w1-4 · King’s Academy · Sports & Recreation 2027 · 1 week day option · 2027-07-18–2027-07-22
+
+lugar: Jordania · Madaba · King’s Academy
+Fecha: 2027-07-18 — 2027-07-22
+Edad: 6*12
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 300 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar grupo concreto, admisión extranjera, edad / curso, idioma, plaza y factura completa. Sin solicitudes, mensajes, cuentas, consentimientos ni pagos. Oscar: Confirmar grupo concreto, admisión extranjera, edad / curso, idioma, plaza y factura completa. Sin solicitudes, mensajes, cuentas, consentimientos ni pagos. Suplementos: Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero. Bus USD 85 / JOD 60 por semana; confirmar zona, plazas y unidad para dos niños. Pago: Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar.
+Fuente: https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees
+Se ha comprobado: 2026-11-06
+
+### CP1399-20270627-20270708-w2-1 · King’s Academy · Sports & Recreation 2027 · 2 week day option · 2027-06-27–2027-07-08
+
+lugar: Jordania · Madaba · King’s Academy
+Fecha: 2027-06-27 — 2027-07-08
+Edad: 6*12
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 580 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar grupo concreto, admisión extranjera, edad / curso, idioma, plaza y factura completa. Sin solicitudes, mensajes, cuentas, consentimientos ni pagos. Oscar: Confirmar grupo concreto, admisión extranjera, edad / curso, idioma, plaza y factura completa. Sin solicitudes, mensajes, cuentas, consentimientos ni pagos. Suplementos: Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero. Bus USD 85 / JOD 60 por semana; confirmar zona, plazas y unidad para dos niños. Pago: Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar.
+Fuente: https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees
+Se ha comprobado: 2026-11-06
+
+### CP1399-20270704-20270715-w2-2 · King’s Academy · Sports & Recreation 2027 · 2 week day option · 2027-07-04–2027-07-15
+
+lugar: Jordania · Madaba · King’s Academy
+Fecha: 2027-07-04 — 2027-07-15
+Edad: 6*12
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 580 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar grupo concreto, admisión extranjera, edad / curso, idioma, plaza y factura completa. Sin solicitudes, mensajes, cuentas, consentimientos ni pagos. Oscar: Confirmar grupo concreto, admisión extranjera, edad / curso, idioma, plaza y factura completa. Sin solicitudes, mensajes, cuentas, consentimientos ni pagos. Suplementos: Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero. Bus USD 85 / JOD 60 por semana; confirmar zona, plazas y unidad para dos niños. Pago: Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar.
+Fuente: https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees
+Se ha comprobado: 2026-11-06
+
+### CP1399-20270711-20270722-w2-3 · King’s Academy · Sports & Recreation 2027 · 2 week day option · 2027-07-11–2027-07-22
+
+lugar: Jordania · Madaba · King’s Academy
+Fecha: 2027-07-11 — 2027-07-22
+Edad: 6*12
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 580 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar grupo concreto, admisión extranjera, edad / curso, idioma, plaza y factura completa. Sin solicitudes, mensajes, cuentas, consentimientos ni pagos. Oscar: Confirmar grupo concreto, admisión extranjera, edad / curso, idioma, plaza y factura completa. Sin solicitudes, mensajes, cuentas, consentimientos ni pagos. Suplementos: Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero. Bus USD 85 / JOD 60 por semana; confirmar zona, plazas y unidad para dos niños. Pago: Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar.
+Fuente: https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees
+Se ha comprobado: 2026-11-06
+
+### CP1399-20270627-20270715-w3-1 · King’s Academy · Sports & Recreation 2027 · 3 week day option · 2027-06-27–2027-07-15
+
+lugar: Jordania · Madaba · King’s Academy
+Fecha: 2027-06-27 — 2027-07-15
+Edad: 6*12
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 855 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar grupo concreto, admisión extranjera, edad / curso, idioma, plaza y factura completa. Sin solicitudes, mensajes, cuentas, consentimientos ni pagos. Oscar: Confirmar grupo concreto, admisión extranjera, edad / curso, idioma, plaza y factura completa. Sin solicitudes, mensajes, cuentas, consentimientos ni pagos. Suplementos: Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero. Bus USD 85 / JOD 60 por semana; confirmar zona, plazas y unidad para dos niños. Pago: Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar.
+Fuente: https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees
+Se ha comprobado: 2026-11-06
+
+### CP1399-20270704-20270722-w3-2 · King’s Academy · Sports & Recreation 2027 · 3 week day option · 2027-07-04–2027-07-22
+
+lugar: Jordania · Madaba · King’s Academy
+Fecha: 2027-07-04 — 2027-07-22
+Edad: 6*12
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 855 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar grupo concreto, admisión extranjera, edad / curso, idioma, plaza y factura completa. Sin solicitudes, mensajes, cuentas, consentimientos ni pagos. Oscar: Confirmar grupo concreto, admisión extranjera, edad / curso, idioma, plaza y factura completa. Sin solicitudes, mensajes, cuentas, consentimientos ni pagos. Suplementos: Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero. Bus USD 85 / JOD 60 por semana; confirmar zona, plazas y unidad para dos niños. Pago: Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar.
+Fuente: https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees
+Se ha comprobado: 2026-11-06
+
+### CP1399-20270627-20270722-w4-1 · King’s Academy · Sports & Recreation 2027 · 4 week day option · 2027-06-27–2027-07-22
+
+lugar: Jordania · Madaba · King’s Academy
+Fecha: 2027-06-27 — 2027-07-22
+Edad: 6*12
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 1100 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar grupo concreto, admisión extranjera, edad / curso, idioma, plaza y factura completa. Sin solicitudes, mensajes, cuentas, consentimientos ni pagos. Oscar: Confirmar grupo concreto, admisión extranjera, edad / curso, idioma, plaza y factura completa. Sin solicitudes, mensajes, cuentas, consentimientos ni pagos. Suplementos: Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero. Bus USD 85 / JOD 60 por semana; confirmar zona, plazas y unidad para dos niños. Pago: Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar.
+Fuente: https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees
+Se ha comprobado: 2026-11-06
+
+### CP1400-20270627-20270701-w1-1 · King’s Academy · i2 STEM · day · 1 week day option · 2027-06-27–2027-07-01
+
+lugar: Jordania · Madaba · King’s Academy
+Fecha: 2027-06-27 — 2027-07-01
+Edad: 12*17
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 800 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Oscar: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Suplementos: Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero. Pago: Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar.
+Fuente: https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees
+Se ha comprobado: 2026-11-06
+
+### CP1400-20270704-20270708-w1-2 · King’s Academy · i2 STEM · day · 1 week day option · 2027-07-04–2027-07-08
+
+lugar: Jordania · Madaba · King’s Academy
+Fecha: 2027-07-04 — 2027-07-08
+Edad: 12*17
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 800 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Oscar: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Suplementos: Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero. Pago: Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar.
+Fuente: https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees
+Se ha comprobado: 2026-11-06
+
+### CP1400-20270711-20270715-w1-3 · King’s Academy · i2 STEM · day · 1 week day option · 2027-07-11–2027-07-15
+
+lugar: Jordania · Madaba · King’s Academy
+Fecha: 2027-07-11 — 2027-07-15
+Edad: 12*17
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 800 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Oscar: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Suplementos: Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero. Pago: Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar.
+Fuente: https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees
+Se ha comprobado: 2026-11-06
+
+### CP1400-20270718-20270722-w1-4 · King’s Academy · i2 STEM · day · 1 week day option · 2027-07-18–2027-07-22
+
+lugar: Jordania · Madaba · King’s Academy
+Fecha: 2027-07-18 — 2027-07-22
+Edad: 12*17
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 800 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Oscar: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Suplementos: Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero. Pago: Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar.
+Fuente: https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees
+Se ha comprobado: 2026-11-06
+
+### CP1400-20270627-20270708-w2-1 · King’s Academy · i2 STEM · day · 2 week day option · 2027-06-27–2027-07-08
+
+lugar: Jordania · Madaba · King’s Academy
+Fecha: 2027-06-27 — 2027-07-08
+Edad: 12*17
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 1550 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Oscar: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Suplementos: Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero. Pago: Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar.
+Fuente: https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees
+Se ha comprobado: 2026-11-06
+
+### CP1400-20270704-20270715-w2-2 · King’s Academy · i2 STEM · day · 2 week day option · 2027-07-04–2027-07-15
+
+lugar: Jordania · Madaba · King’s Academy
+Fecha: 2027-07-04 — 2027-07-15
+Edad: 12*17
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 1550 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Oscar: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Suplementos: Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero. Pago: Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar.
+Fuente: https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees
+Se ha comprobado: 2026-11-06
+
+### CP1400-20270711-20270722-w2-3 · King’s Academy · i2 STEM · day · 2 week day option · 2027-07-11–2027-07-22
+
+lugar: Jordania · Madaba · King’s Academy
+Fecha: 2027-07-11 — 2027-07-22
+Edad: 12*17
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 1550 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Oscar: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Suplementos: Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero. Pago: Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar.
+Fuente: https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees
+Se ha comprobado: 2026-11-06
+
+### CP1400-20270627-20270715-w3-1 · King’s Academy · i2 STEM · day · 3 week day option · 2027-06-27–2027-07-15
+
+lugar: Jordania · Madaba · King’s Academy
+Fecha: 2027-06-27 — 2027-07-15
+Edad: 12*17
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 2300 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Oscar: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Suplementos: Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero. Pago: Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar.
+Fuente: https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees
+Se ha comprobado: 2026-11-06
+
+### CP1400-20270704-20270722-w3-2 · King’s Academy · i2 STEM · day · 3 week day option · 2027-07-04–2027-07-22
+
+lugar: Jordania · Madaba · King’s Academy
+Fecha: 2027-07-04 — 2027-07-22
+Edad: 12*17
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 2300 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Oscar: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Suplementos: Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero. Pago: Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar.
+Fuente: https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees
+Se ha comprobado: 2026-11-06
+
+### CP1400-20270627-20270722-w4-1 · King’s Academy · i2 STEM · day · 4 week day option · 2027-06-27–2027-07-22
+
+lugar: Jordania · Madaba · King’s Academy
+Fecha: 2027-06-27 — 2027-07-22
+Edad: 12*17
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 3000 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Oscar: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Suplementos: Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero. Pago: Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar.
+Fuente: https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees
+Se ha comprobado: 2026-11-06
+
+### CP1401-20270627-20270701-w1-1 · King’s Academy · i2 STEM · boarding · 1 week boarding option · 2027-06-27–2027-07-01
+
+lugar: Jordania · Madaba · King’s Academy
+Fecha: 2027-06-27 — 2027-07-01
+Edad: 12*17
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: residente
+Idioma: Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 1300 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Oscar: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Suplementos: Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero. Pago: Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar.
+Fuente: https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees
+Se ha comprobado: 2026-11-06
+
+### CP1401-20270704-20270708-w1-2 · King’s Academy · i2 STEM · boarding · 1 week boarding option · 2027-07-04–2027-07-08
+
+lugar: Jordania · Madaba · King’s Academy
+Fecha: 2027-07-04 — 2027-07-08
+Edad: 12*17
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: residente
+Idioma: Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 1300 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Oscar: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Suplementos: Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero. Pago: Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar.
+Fuente: https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees
+Se ha comprobado: 2026-11-06
+
+### CP1401-20270711-20270715-w1-3 · King’s Academy · i2 STEM · boarding · 1 week boarding option · 2027-07-11–2027-07-15
+
+lugar: Jordania · Madaba · King’s Academy
+Fecha: 2027-07-11 — 2027-07-15
+Edad: 12*17
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: residente
+Idioma: Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 1300 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Oscar: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Suplementos: Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero. Pago: Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar.
+Fuente: https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees
+Se ha comprobado: 2026-11-06
+
+### CP1401-20270718-20270722-w1-4 · King’s Academy · i2 STEM · boarding · 1 week boarding option · 2027-07-18–2027-07-22
+
+lugar: Jordania · Madaba · King’s Academy
+Fecha: 2027-07-18 — 2027-07-22
+Edad: 12*17
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: residente
+Idioma: Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 1300 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Oscar: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Suplementos: Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero. Pago: Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar.
+Fuente: https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees
+Se ha comprobado: 2026-11-06
+
+### CP1401-20270627-20270708-w2-1 · King’s Academy · i2 STEM · boarding · 2 week boarding option · 2027-06-27–2027-07-08
+
+lugar: Jordania · Madaba · King’s Academy
+Fecha: 2027-06-27 — 2027-07-08
+Edad: 12*17
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: residente
+Idioma: Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 2550 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Oscar: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Suplementos: Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero. Pago: Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar.
+Fuente: https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees
+Se ha comprobado: 2026-11-06
+
+### CP1401-20270704-20270715-w2-2 · King’s Academy · i2 STEM · boarding · 2 week boarding option · 2027-07-04–2027-07-15
+
+lugar: Jordania · Madaba · King’s Academy
+Fecha: 2027-07-04 — 2027-07-15
+Edad: 12*17
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: residente
+Idioma: Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 2550 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Oscar: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Suplementos: Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero. Pago: Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar.
+Fuente: https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees
+Se ha comprobado: 2026-11-06
+
+### CP1401-20270711-20270722-w2-3 · King’s Academy · i2 STEM · boarding · 2 week boarding option · 2027-07-11–2027-07-22
+
+lugar: Jordania · Madaba · King’s Academy
+Fecha: 2027-07-11 — 2027-07-22
+Edad: 12*17
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: residente
+Idioma: Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 2550 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Oscar: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Suplementos: Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero. Pago: Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar.
+Fuente: https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees
+Se ha comprobado: 2026-11-06
+
+### CP1401-20270627-20270715-w3-1 · King’s Academy · i2 STEM · boarding · 3 week boarding option · 2027-06-27–2027-07-15
+
+lugar: Jordania · Madaba · King’s Academy
+Fecha: 2027-06-27 — 2027-07-15
+Edad: 12*17
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: residente
+Idioma: Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 3800 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Oscar: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Suplementos: Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero. Pago: Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar.
+Fuente: https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees
+Se ha comprobado: 2026-11-06
+
+### CP1401-20270704-20270722-w3-2 · King’s Academy · i2 STEM · boarding · 3 week boarding option · 2027-07-04–2027-07-22
+
+lugar: Jordania · Madaba · King’s Academy
+Fecha: 2027-07-04 — 2027-07-22
+Edad: 12*17
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: residente
+Idioma: Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 3800 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Oscar: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Suplementos: Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero. Pago: Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar.
+Fuente: https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees
+Se ha comprobado: 2026-11-06
+
+### CP1401-20270627-20270722-w4-1 · King’s Academy · i2 STEM · boarding · 4 week boarding option · 2027-06-27–2027-07-22
+
+lugar: Jordania · Madaba · King’s Academy
+Fecha: 2027-06-27 — 2027-07-22
+Edad: 12*17
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: residente
+Idioma: Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 4950 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Oscar: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Suplementos: Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero. Pago: Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar.
+Fuente: https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees
+Se ha comprobado: 2026-11-06
+
+### CP1403-20270627-20270708-w2-1 · King’s Academy · English Foundations · day · 2 week day option · 2027-06-27–2027-07-08
+
+lugar: Jordania · Madaba · King’s Academy
+Fecha: 2027-06-27 — 2027-07-08
+Edad: 12*17
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 1650 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Oscar: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Suplementos: Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero. Pago: Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar.
+Fuente: https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees
+Se ha comprobado: 2026-11-06
+
+### CP1403-20270711-20270722-w2-2 · King’s Academy · English Foundations · day · 2 week day option · 2027-07-11–2027-07-22
+
+lugar: Jordania · Madaba · King’s Academy
+Fecha: 2027-07-11 — 2027-07-22
+Edad: 12*17
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 1650 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Oscar: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Suplementos: Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero. Pago: Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar.
+Fuente: https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees
+Se ha comprobado: 2026-11-06
+
+### CP1403-20270627-20270722-w4-1 · King’s Academy · English Foundations · day · 4 week day option · 2027-06-27–2027-07-22
+
+lugar: Jordania · Madaba · King’s Academy
+Fecha: 2027-06-27 — 2027-07-22
+Edad: 12*17
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 3100 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Oscar: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Suplementos: Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero. Pago: Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar.
+Fuente: https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees
+Se ha comprobado: 2026-11-06
+
+### CP1404-20270627-20270708-w2-1 · King’s Academy · English Foundations · boarding · 2 week boarding option · 2027-06-27–2027-07-08
+
+lugar: Jordania · Madaba · King’s Academy
+Fecha: 2027-06-27 — 2027-07-08
+Edad: 12*17
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: residente
+Idioma: Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 2650 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Oscar: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Suplementos: Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero. Pago: Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar.
+Fuente: https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees
+Se ha comprobado: 2026-11-06
+
+### CP1404-20270711-20270722-w2-2 · King’s Academy · English Foundations · boarding · 2 week boarding option · 2027-07-11–2027-07-22
+
+lugar: Jordania · Madaba · King’s Academy
+Fecha: 2027-07-11 — 2027-07-22
+Edad: 12*17
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: residente
+Idioma: Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 2650 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Oscar: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Suplementos: Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero. Pago: Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar.
+Fuente: https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees
+Se ha comprobado: 2026-11-06
+
+### CP1404-20270627-20270722-w4-1 · King’s Academy · English Foundations · boarding · 4 week boarding option · 2027-06-27–2027-07-22
+
+lugar: Jordania · Madaba · King’s Academy
+Fecha: 2027-06-27 — 2027-07-22
+Edad: 12*17
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: residente
+Idioma: Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 5100 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Oscar: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Suplementos: Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero. Pago: Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar.
+Fuente: https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees
+Se ha comprobado: 2026-11-06
+
+### CP1405-20270627-20270708-w2-1 · King’s Academy · Math Foundations · day · 2 week day option · 2027-06-27–2027-07-08
+
+lugar: Jordania · Madaba · King’s Academy
+Fecha: 2027-06-27 — 2027-07-08
+Edad: 12*17
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 1650 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Oscar: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Suplementos: Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero. Pago: Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar.
+Fuente: https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees
+Se ha comprobado: 2026-11-06
+
+### CP1405-20270711-20270722-w2-2 · King’s Academy · Math Foundations · day · 2 week day option · 2027-07-11–2027-07-22
+
+lugar: Jordania · Madaba · King’s Academy
+Fecha: 2027-07-11 — 2027-07-22
+Edad: 12*17
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 1650 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Oscar: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Suplementos: Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero. Pago: Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar.
+Fuente: https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees
+Se ha comprobado: 2026-11-06
+
+### CP1405-20270627-20270722-w4-1 · King’s Academy · Math Foundations · day · 4 week day option · 2027-06-27–2027-07-22
+
+lugar: Jordania · Madaba · King’s Academy
+Fecha: 2027-06-27 — 2027-07-22
+Edad: 12*17
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 3100 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Oscar: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Suplementos: Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero. Pago: Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar.
+Fuente: https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees
+Se ha comprobado: 2026-11-06
+
+### CP1406-20270627-20270708-w2-1 · King’s Academy · Math Foundations · boarding · 2 week boarding option · 2027-06-27–2027-07-08
+
+lugar: Jordania · Madaba · King’s Academy
+Fecha: 2027-06-27 — 2027-07-08
+Edad: 12*17
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: residente
+Idioma: Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 2650 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Oscar: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Suplementos: Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero. Pago: Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar.
+Fuente: https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees
+Se ha comprobado: 2026-11-06
+
+### CP1406-20270711-20270722-w2-2 · King’s Academy · Math Foundations · boarding · 2 week boarding option · 2027-07-11–2027-07-22
+
+lugar: Jordania · Madaba · King’s Academy
+Fecha: 2027-07-11 — 2027-07-22
+Edad: 12*17
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: residente
+Idioma: Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 2650 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Oscar: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Suplementos: Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero. Pago: Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar.
+Fuente: https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees
+Se ha comprobado: 2026-11-06
+
+### CP1406-20270627-20270722-w4-1 · King’s Academy · Math Foundations · boarding · 4 week boarding option · 2027-06-27–2027-07-22
+
+lugar: Jordania · Madaba · King’s Academy
+Fecha: 2027-06-27 — 2027-07-22
+Edad: 12*17
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: residente
+Idioma: Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido. Colegio ordinario anuncia English medium, sin acreditar idioma de todas clases estivales sports / STEM. Leaflet incrustado titulado 2026; fechas y tarifas 2027 tomadas de Dates and Fees vigente, no folleto antiguo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 5100 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Oscar: En temporada 2027 el niño es menor del mínimo publicado; ruta futura, no turno accesible ahora. Suplementos: Vuelo, alojamiento familiar externo, transporte local, seguro y gastos fuera de inclusiones aparte; desconocido no equivale a cero. Pago: Tarifa oficial 2027: 50% al registrarse no reembolsable, saldo hasta 13 de junio 2027. Sistema online de pagos no usado para Summer; tarjeta añade 1.5%. Apertura depende de mínimo de alumnos; si cancelan ofrecen otro curso, texto no promete devolución automática. Contrato sin aceptar.
+Fuente: https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees
+Se ha comprobado: 2026-11-06
+
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
 
 lugar: Letonia · EIS Campus · Piņķi
@@ -56054,9 +56726,121 @@ Limitaciones: Web muestra Garin College 6–9 de julio sin año inequívoco. Dí
 Fuente: https://ministryofinspiration.org/steams-holiday/
 Se ha comprobado: 2026-11-06
 
+### L523 · FABLAB Bahrain · SPARK: Make Your LEGO Interactive
+
+lugar: Baréin · Al Riwaq · Co-Working Space · Manama
+Fecha: 2026-11-21 — 2026-11-21
+edad: Edad numérica no indicada; confirmar admisión de 6 y 9 años.
+Matway: Condicional
+Óscar: Condicional
+formato: workshop
+Idioma: Organizador indica expresamente English and Arabic para este taller.
+Marca de idioma: primary; soporte: no declarado
+Precio: BHD 7 por opción publicada, tax included. Confirmar unidad por niño, plazas y total familiar.
+Acceso: Confirmar grupo concreto, admisión extranjera, edad / curso, idioma, plaza y factura completa. Sin solicitudes, mensajes, cuentas, consentimientos ni pagos.
+Limitaciones: 21 de noviembre 2026, 15:00–17:00; LEGO, sensores, motores, luz y código. Parte inglesa describe LEGO interactivo, árabe otro proyecto light-box: confirmar programa. Lector web mostró Sale Sold out y Add to cart simultáneamente; product JSON y lectura directa recibieron HTTP 429. Plazas / edad no declaradas confirmadas. Taller de dos horas, no campamento vacacional.
+Fuente: https://www.alriwaqartspace.com/products/spark-make-your-lego-interactive
+Se ha comprobado: 2026-11-06
+
+### L524 · CODED Juniors · Weekend Workshops
+
+lugar: Kuwait
+Fecha: No se ha fijado el período/plan de trabajo
+edad: 6–13 headline / groups 6–7 and 10–13
+Matvey: Condicional: rango general 6–13 incluye 9, pero grupos concretos omiten 8–9.
+Oscar: Condicional: existe grupo 6–7; idioma, pasaporte y plazas aparte.
+formato: workshop
+Idioma: Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Desde KWD 25 por 1-day de 3–4 hours y aparte desde KWD 25 por 2-day project. Publicidad SAVE 75% / KD 85 OFF no convertida en descuento familiar real.
+Acceso: Confirmar grupo concreto, admisión extranjera, edad / curso, idioma, plaza y factura completa. Sin solicitudes, mensajes, cuentas, consentimientos ni pagos.
+Limitaciones: Convocatoria 2027 sin fechar: cards contienen Jan–May 2025, header invernal Mar–Apr 2026 / Free Trade Zone, descripción Argan Bedaya. Conflictos de plantillas antiguas, no programa 2027. App ofrece interfaces EN / AR y campos Civil ID; enseñanza y uso de pasaporte turístico sin confirmar. Sin cuenta creada.
+Fuente: https://coded.kw/weekend-workshops
+Se ha comprobado: 2026-11-06
+
+### L525 · CODED Juniors · Summer Tech Camp watch
+
+lugar: Kuwait
+Fecha: No se ha fijado el período/plan de trabajo
+edad: 6–13
+Matvey: Condicional: cumple edad, confirmar idioma y admisión.
+Oscar: Condicional: cumple edad, confirmar idioma y admisión.
+Formato: day_camp
+Idioma: Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Turno nuevo elegido sin precio confirmado. Sibling 10% para dos / 13% para tres o más y bank 15% anunciados en FAQ winter, pero base, acumulación y factura efectiva sin establecer.
+Acceso: Confirmar grupo concreto, admisión extranjera, edad / curso, idioma, plaza y factura completa. Sin solicitudes, mensajes, cuentas, consentimientos ni pagos.
+Limitaciones: Summer: grupos 6–7, 8–10, 11–13 y períodos de dos semanas Sun–Wed; AI, VR, circuits, coding. Winter: página propia Juniors 6–12 con cuatro estaciones diarias; Youth 13–16 es grupo mayor distinto, no prometido a pequeños. Ficha winter resumida 6–13 discrepa de descripción. Convocatoria 2027 sin fechar: cards contienen Jan–May 2025, header invernal Mar–Apr 2026 / Free Trade Zone, descripción Argan Bedaya. Conflictos de plantillas antiguas, no programa 2027. App ofrece interfaces EN / AR y campos Civil ID; enseñanza y uso de pasaporte turístico sin confirmar. Sin cuenta creada.
+Fuente: https://coded.kw/summer-camp
+Se ha comprobado: 2026-11-06
+
+### L526 · CODED Juniors · Winter Junior Camp watch
+
+lugar: Kuwait
+Fecha: No se ha fijado el período/plan de trabajo
+Edad: 6*12
+Matvey: Condicional: cumple edad, confirmar idioma y admisión.
+Oscar: Condicional: cumple edad, confirmar idioma y admisión.
+Formato: day_camp
+Idioma: Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Turno nuevo elegido sin precio confirmado. Sibling 10% para dos / 13% para tres o más y bank 15% anunciados en FAQ winter, pero base, acumulación y factura efectiva sin establecer.
+Acceso: Confirmar grupo concreto, admisión extranjera, edad / curso, idioma, plaza y factura completa. Sin solicitudes, mensajes, cuentas, consentimientos ni pagos.
+Limitaciones: Summer: grupos 6–7, 8–10, 11–13 y períodos de dos semanas Sun–Wed; AI, VR, circuits, coding. Winter: página propia Juniors 6–12 con cuatro estaciones diarias; Youth 13–16 es grupo mayor distinto, no prometido a pequeños. Ficha winter resumida 6–13 discrepa de descripción. Convocatoria 2027 sin fechar: cards contienen Jan–May 2025, header invernal Mar–Apr 2026 / Free Trade Zone, descripción Argan Bedaya. Conflictos de plantillas antiguas, no programa 2027. App ofrece interfaces EN / AR y campos Civil ID; enseñanza y uso de pasaporte turístico sin confirmar. Sin cuenta creada.
+Fuente: https://coded.kw/winter-camp
+Se ha comprobado: 2026-11-06
+
+### L527 · Kuwait Science Club · next summer watch
+
+lugar: Kuwait
+Fecha: No se ha fijado el período/plan de trabajo
+Edad: 8–10 · Boys / batch conflict
+Matvey: Condicional: cumple edad, confirmar idioma y admisión.
+No: menor que el mínimo publicado.
+Formato: day_camp
+Idioma: Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Cuota archivada KWD 60 por participante / package publicado, no precio 2027 ni por cada día separado.
+Acceso: Confirmar grupo concreto, admisión extranjera, edad / curso, idioma, plaza y factura completa. Sin solicitudes, mensajes, cuentas, consentimientos ni pagos.
+Limitaciones: Summer package archivado: Robotics + Photography, niños 8–10, Sun / Tue / Thu 17:00–20:00. Formulario batch también dice Girls; confirmar género y grupo exacto. Campo Civil ID Picture no acredita admisión con pasaporte extranjero. Certificado de finalización no es premio competitivo.
+Fuente: https://ksclub.org/SectorActivity?packageGuid=15811046-f4b4-48f6-8b62-4158edb3c826&sectorGuid=b3a25a05-50ca-48f9-a281-4f3283c3ea58
+Se ha comprobado: 2026-11-06
+
+### L528 · CODED Juniors · Winter Youth Camp watch
+
+lugar: Kuwait
+Fecha: No se ha fijado el período/plan de trabajo
+edad: 13–16 · vías separadas
+Matvey: No: menor del mínimo publicado.
+No: menor que el mínimo publicado.
+Formato: day_camp
+Idioma: Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Turno nuevo elegido sin precio confirmado. Sibling 10% para dos / 13% para tres o más y bank 15% anunciados en FAQ winter, pero base, acumulación y factura efectiva sin establecer.
+Acceso: Confirmar grupo concreto, admisión extranjera, edad / curso, idioma, plaza y factura completa. Sin solicitudes, mensajes, cuentas, consentimientos ni pagos.
+Limitaciones: Summer: grupos 6–7, 8–10, 11–13 y períodos de dos semanas Sun–Wed; AI, VR, circuits, coding. Winter: página propia Juniors 6–12 con cuatro estaciones diarias; Youth 13–16 es grupo mayor distinto, no prometido a pequeños. Ficha winter resumida 6–13 discrepa de descripción. Convocatoria 2027 sin fechar: cards contienen Jan–May 2025, header invernal Mar–Apr 2026 / Free Trade Zone, descripción Argan Bedaya. Conflictos de plantillas antiguas, no programa 2027. App ofrece interfaces EN / AR y campos Civil ID; enseñanza y uso de pasaporte turístico sin confirmar. Sin cuenta creada.
+Fuente: https://coded.kw/winter-camp
+Se ha comprobado: 2026-11-06
+
+### L529 · KAFD / Jordan Gaming Lab · Kids Club
+
+lugar: Jordania · Amman / Irbid / Zarqa / Tafileh / Aqaba / Karak
+Fecha: Archivo 11 de julio – 2 de agosto 2026; próxima edición sin anunciar.
+Edad: 9–14
+Matvey: Condicional: cumple edad, pero próxima oferta, nivel, idioma y admisión extranjera sin anunciar.
+Oscar: No: mínimo publicado 9 años.
+Formato: unconfirmed_program
+Idioma: Leídas páginas y materiales en inglés; idioma de enseñanza / arbitraje concreto EN / ES / RU sin confirmar expresamente. Interfaz de app e idioma del colegio ordinario no sustituyen confirmación del turno elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Tarifa nueva / moneda / unidad de pago e invoice completo sin confirmar; precio inicial o antiguo publicado no convertido en factura final.
+Acceso: Confirmar grupo concreto, admisión extranjera, edad / curso, idioma, plaza y factura completa. Sin solicitudes, mensajes, cuentas, consentimientos ni pagos.
+Limitaciones: KAFD oficial acredita tres vías: game development Python, robotics y Unity para 9–14 años. Programa publicado 11 de julio – 2 de agosto 2026 ya terminó; sin inventar fechas ni precio 2027. Filiales Amman, Irbid, Zarqa, Tafileh, Aqaba y Karak; dirección de oficina central no asignada a todas clases. Formación y proyectos, no victoria competitiva internacional.
+Fuente: https://www.kafd.jo/en/news.aspx?nid=447
+Se ha comprobado: 2026-11-06
+
 ### ~#C037 · WAICY 2026 · AI Showcase · Proyecto de solución del problema real
 
-Lugar: En línea/paz
+lugar: en línea / mundo
 Fecha: Final anunciada4–6 de diciembre2026; el párrafo introductorio PDF aún indica5–7. Confirmar horario individual tras la selección.
 Edad: Sitio web: 6*18; dirección: under 18; todas las clases escolares; edad exacta en la fecha de referencia.
 Matway: Sí, por edad; proyecto, clase y admisión por separado
@@ -56072,7 +56856,7 @@ Se ha comprobado: 2026-11-06
 
 ### C038 · Codeavour 8.0 — AI & Robotics 2026–27
 
-Lugar: En línea / etapas internacionales
+lugar: en línea / etapas internacionales
 Fecha: Inscripción con 14.07.2026; Final 8.0 Hasta la fecha no se ha fijado fecha
 Edad: Elementary 7–10; Junior 11–14; Senior 15–18
 Matway: Sí, por edad
@@ -56088,7 +56872,7 @@ Se ha comprobado: 2026-11-06
 
 ### C039 · Coolest Projects Online 2027
 
-Lugar: En línea/paz
+lugar: en línea / mundo
 Fecha: Apertura de envíos en enero 2027; día exacto aún sin publicar.
 Edad: hasta los 18 años
 Matway: Sí, por edad

@@ -1,0 +1,177 @@
+{
+  "version": 178,
+  "checked": "2026-11-06",
+  "wro_kuwait_config": {
+    "year": 2026,
+    "registration": {
+      "status": "soon",
+      "opensAt": "2027-01-15T09:00:00+03:00",
+      "closesAt": "2027-04-15T23:59:00+03:00",
+      "feeKD": null
+    },
+    "ageGroups": [
+      {
+        "key": "starters",
+        "born": "2018–2020"
+      },
+      {
+        "key": "elementary",
+        "born": "2014–2018"
+      },
+      {
+        "key": "junior",
+        "born": "2011–2015"
+      },
+      {
+        "key": "senior",
+        "born": "2007–2012"
+      },
+      {
+        "key": "uni",
+        "born": "2004–2009"
+      },
+      {
+        "key": "coachesJudges",
+        "born": {
+          "en": "before 2008",
+          "ar": "قبل 2008"
+        }
+      }
+    ],
+    "categoryLinks": {
+      "robostarter": {
+        "videoId": null,
+        "video": "https://www.youtube.com/channel/UCjqSDv8zWhxOY5revBGAWyg",
+        "rules": "https://wro-association.org/robostarter/"
+      },
+      "robomission": {
+        "videoId": null,
+        "video": "https://www.youtube.com/channel/UCjqSDv8zWhxOY5revBGAWyg",
+        "rules": "https://wro-association.org/competition/2026-season/#rules"
+      },
+      "robosport": {
+        "videoId": null,
+        "video": "https://www.youtube.com/channel/UCjqSDv8zWhxOY5revBGAWyg",
+        "rules": "https://wro-association.org/competition/2026-season/#rules"
+      },
+      "future-innovators": {
+        "videoId": null,
+        "video": "https://www.youtube.com/channel/UCjqSDv8zWhxOY5revBGAWyg",
+        "rules": "https://wro-association.org/competition/2026-season/#rules"
+      },
+      "future-engineers": {
+        "videoId": null,
+        "video": "https://www.youtube.com/channel/UCjqSDv8zWhxOY5revBGAWyg",
+        "rules": "https://wro-association.org/competition/2026-season/#rules"
+      }
+    }
+  },
+  "KNRC_nationals": {
+    "start": "2027-01-31",
+    "end": "2027-02-04",
+    "provisional": true,
+    "venue": "KU Cultural Centre",
+    "hours": "16:00–20:00"
+  },
+  "KNRC_scrimmages": [
+    {
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "category": "VEX IQ",
+      "hours": "13:00–18:00",
+      "venue": "KTECH"
+    },
+    {
+      "start": "2026-11-26",
+      "end": "2026-11-28",
+      "one_assigned_day_only": true,
+      "venue": "The Scientific Center"
+    },
+    {
+      "start": "2027-01-20",
+      "end": "2027-01-22",
+      "one_assigned_day_only": true,
+      "venue": "KCST"
+    }
+  ],
+  "kings_2027_weeks": {
+    "1": [
+      [
+        "2027-06-27",
+        "2027-07-01"
+      ],
+      [
+        "2027-07-04",
+        "2027-07-08"
+      ],
+      [
+        "2027-07-11",
+        "2027-07-15"
+      ],
+      [
+        "2027-07-18",
+        "2027-07-22"
+      ]
+    ],
+    "2": [
+      [
+        "2027-06-27",
+        "2027-07-08"
+      ],
+      [
+        "2027-07-04",
+        "2027-07-15"
+      ],
+      [
+        "2027-07-11",
+        "2027-07-22"
+      ]
+    ],
+    "3": [
+      [
+        "2027-06-27",
+        "2027-07-15"
+      ],
+      [
+        "2027-07-04",
+        "2027-07-22"
+      ]
+    ],
+    "4": [
+      [
+        "2027-06-27",
+        "2027-07-22"
+      ]
+    ]
+  },
+  "kings_sport_USD": {
+    "1": 300,
+    "2": 580,
+    "3": 855,
+    "4": 1100
+  },
+  "kings_sport_JOD": {
+    "1": 212,
+    "2": 410,
+    "3": 610,
+    "4": 780
+  },
+  "SPARK_primary_web_reader": {
+    "url": "https://www.alriwaqartspace.com/products/spark-make-your-lego-interactive",
+    "date": "2026-11-21",
+    "hours": "15:00–17:00",
+    "languages": [
+      "EN",
+      "AR"
+    ],
+    "price_BHD": 7,
+    "tax_included": true,
+    "age": null,
+    "capacity": "unconfirmed",
+    "english_LEGO_vs_Arabic_lightbox_copy_conflict": true,
+    "retrieval": "primary web reader; direct GET HTTP429"
+  },
+  "CODED_app_EN_AR_interface_not_instruction_language": true,
+  "raw_source_bodies_forms_private": true,
+  "worldwide_complete": false
+}

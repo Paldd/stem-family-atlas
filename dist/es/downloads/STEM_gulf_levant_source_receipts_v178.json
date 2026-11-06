@@ -1,0 +1,533 @@
+{
+  "version": 178,
+  "checked": "2026-11-06",
+  "request_count": 55,
+  "hash_verified": 47,
+  "failures": [
+    {
+      "key": "wro-kuwait-kids-pdf",
+      "url": "https://wro-kuwait.org/docs/RoboStarterKIDS2026_GameRules.pdf",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "jordan-kidzlab",
+      "url": "https://kidzlab-academy.com/",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "key": "jordan-coventry",
+      "url": "https://www.cbis.edu.jo/index.php/News-Events/coventry-international-schools-launches-summer-camp-2026",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "key": "bahrain-fablab-spark",
+      "url": "https://www.alriwaqartspace.com/products/spark-make-your-lego-interactive",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "key": "bahrain-capital-after",
+      "url": "https://capitalschoolbahrain.com/en/after-school-activities/",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "key": "bahrain-spark-product-json",
+      "url": "https://www.alriwaqartspace.com/products/spark-make-your-lego-interactive.js",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "key": "bahrain-robogenesis",
+      "url": "https://robogenesis.bh/",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "key": "bahrain-robogenesis-guide-pdf",
+      "url": "https://robogenesis.bh/static/Guidebook.pdf",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    }
+  ],
+  "requests": [
+    {
+      "key": "wro-kuwait",
+      "url": "https://wro-kuwait.org/",
+      "final_url": "https://wro-kuwait.org/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 26604,
+      "sha256": "39a9ab3bfb0a4596d5bdee6548d39b232292104c01424f9b318a0ab99183582b"
+    },
+    {
+      "key": "wro-kuwait-index",
+      "url": "https://www.wro-kuwait.org/index.html",
+      "final_url": "https://www.wro-kuwait.org/index.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 26604,
+      "sha256": "39a9ab3bfb0a4596d5bdee6548d39b232292104c01424f9b318a0ab99183582b"
+    },
+    {
+      "key": "wro-kuwait-snrgx",
+      "url": "https://www.snrgx.com/WRO/",
+      "final_url": "https://www.snrgx.com/WRO/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 26604,
+      "sha256": "39a9ab3bfb0a4596d5bdee6548d39b232292104c01424f9b318a0ab99183582b"
+    },
+    {
+      "key": "wro-kuwait-sacgc",
+      "url": "https://wro.sacgc.org/",
+      "final_url": "https://wro.sacgc.org/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 125345,
+      "sha256": "7380d065773c11305b6feb37a52464594e94f7a8c426f4c5a0da151f5ea43333"
+    },
+    {
+      "key": "kuwait-knrc",
+      "url": "https://theknrc.com/",
+      "final_url": "https://theknrc.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 74848,
+      "sha256": "f6661582d21a4034701dbb5027ec64f93f85d4e95bc2b59827e8079bfb51e8da"
+    },
+    {
+      "key": "britus-wro",
+      "url": "https://britus.edu.bh/world-robot-olympiad-2/",
+      "final_url": "https://britus.edu.bh/world-robot-olympiad-2/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 68580,
+      "sha256": "96116522df31ef5271e4b23d1707c67a7f0a149aa398e59b6679abce7e7ea233"
+    },
+    {
+      "key": "britus-home",
+      "url": "https://britus.edu.bh/",
+      "final_url": "https://britus.edu.bh/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 62941,
+      "sha256": "f728de77a6522cf0439a6e3e4b7e236b858a793055f4664a805252b39ee9da93"
+    },
+    {
+      "key": "jubilee-fll",
+      "url": "https://jubilee.edu.jo/first-lego-league-institute/",
+      "final_url": "https://jubilee.edu.jo/first-lego-league-institute/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 252708,
+      "sha256": "1a5e0b1f85a8a43582af0cb9987ed0f50d6f4fc24b51aa74a88979e371319471"
+    },
+    {
+      "key": "jubilee-home",
+      "url": "https://jubilee.edu.jo/",
+      "final_url": "https://jubilee.edu.jo/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 526972,
+      "sha256": "2a45043e84319b9ca2f192c701f47182352353139d6f38d0232b0ebe9d7e0b19"
+    },
+    {
+      "key": "coded-camps",
+      "url": "https://coded.kw/kids/camps",
+      "final_url": "https://coded.kw/kids/camps",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 163879,
+      "sha256": "54eb5a1098a5ca78a3caa546154b8115918708d31146f9ce66499dd51028959a"
+    },
+    {
+      "key": "coded-weekend",
+      "url": "https://coded.kw/weekend-workshops",
+      "final_url": "https://coded.kw/weekend-workshops",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 146516,
+      "sha256": "2f5baf43739fa98f4c833f704c3dcb700a9f622f7c26d07f02b4c0351fa2eea4"
+    },
+    {
+      "key": "jordan-kafd-kids",
+      "url": "https://www.kafd.jo/en/news.aspx?nid=447",
+      "final_url": "https://www.kafd.jo/en/news.aspx?nid=447",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 22326,
+      "sha256": "d4f0f69cfd1e4d65ded77ccbf33394292c8a875dadd04e8c9dad4cea186f294b"
+    },
+    {
+      "key": "wro-kuwait-kids-pdf",
+      "url": "https://wro-kuwait.org/docs/RoboStarterKIDS2026_GameRules.pdf",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "wro-kuwait-educator",
+      "url": "https://wro-kuwait.org/challenge/edu-challenge.php",
+      "final_url": "https://wro-kuwait.org/challenge/edu-challenge.php",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 28740,
+      "sha256": "f73aa9050b3d69220949e7390756ec915a096902ebf71b1eaaa812a27e161e7e"
+    },
+    {
+      "key": "coded-winter",
+      "url": "https://coded.kw/winter-camp",
+      "final_url": "https://coded.kw/winter-camp",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 160168,
+      "sha256": "8dff26793085b76b27c8f57c2f3c4794ee8675a5e1f7b07e46971bc7061b6a7a"
+    },
+    {
+      "key": "coded-summer",
+      "url": "https://coded.kw/summer-camp",
+      "final_url": "https://coded.kw/summer-camp",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 200834,
+      "sha256": "643328d884e68a370b89bc50f8af6faad652476c7901ce46533a0dd9f03dd235"
+    },
+    {
+      "key": "coded-kids",
+      "url": "https://coded.kw/kids",
+      "final_url": "https://coded.kw/kids",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 168915,
+      "sha256": "e7fbf0806066225b8be835ae1fca9e2934ffc4caa74c3bdee8edd7cc11f20e6d"
+    },
+    {
+      "key": "coded-privacy",
+      "url": "https://coded.kw/privacy-policy",
+      "final_url": "https://coded.kw/privacy-policy",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 78671,
+      "sha256": "c46eb1659fe9b0391885eb10baf5361af32a2ff5991c8c8f511e884f5cc328f2"
+    },
+    {
+      "key": "jordan-mrt-camps",
+      "url": "https://mrtjordan.academy/robotics-camps/",
+      "final_url": "https://mrtjordan.academy/robotics-camps/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 116249,
+      "sha256": "a7983a389bf4ce35a58fd94e27ede2a76a6ceda8d9284de80859186abc5d83ce"
+    },
+    {
+      "key": "jordan-mrt-home",
+      "url": "https://mrtjordan.academy/",
+      "final_url": "https://mrtjordan.academy/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 135163,
+      "sha256": "9fbe1ef00b2468296c987912c4641e64d9ceb6bc1ddb53b323b643b45c93e971"
+    },
+    {
+      "key": "jordan-kidzlab",
+      "url": "https://kidzlab-academy.com/",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "key": "jordan-sitara",
+      "url": "https://www.sitarajo.com/kids",
+      "final_url": "https://www.sitarajo.com/kids",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 42797,
+      "sha256": "2312d86a3930d4268c48c8f98b18b2396d68a3f393e6be0ef43326218d123e16"
+    },
+    {
+      "key": "jordan-kings-stem",
+      "url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/stem-camp",
+      "final_url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/stem-camp",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 80905,
+      "sha256": "2a2fb8cf5c9565b5c70f338b4f8602bd8014994ba6d56c4056f43c418af3daed"
+    },
+    {
+      "key": "jordan-coventry",
+      "url": "https://www.cbis.edu.jo/index.php/News-Events/coventry-international-schools-launches-summer-camp-2026",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "key": "kuwait-scienceclub",
+      "url": "https://ksclub.org/SectorActivity?packageGuid=15811046-f4b4-48f6-8b62-4158edb3c826&sectorGuid=b3a25a05-50ca-48f9-a281-4f3283c3ea58",
+      "final_url": "https://ksclub.org/SectorActivity?packageGuid=15811046-f4b4-48f6-8b62-4158edb3c826&sectorGuid=b3a25a05-50ca-48f9-a281-4f3283c3ea58",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 65114,
+      "sha256": "cc02da03882903dfd7e5bbcd9620df1ca374eebbd3bf71cf3f48bd0d783501dd"
+    },
+    {
+      "key": "wro-config-js",
+      "url": "https://wro-kuwait.org/js/config.js?v=192",
+      "final_url": "https://wro-kuwait.org/js/config.js?v=192",
+      "status": 200,
+      "mime": "application/javascript",
+      "bytes": 74909,
+      "sha256": "0f166cda84ca30c046115a53d7c2a2d0d1224cc7a001311fdd62585d07dd1c9c"
+    },
+    {
+      "key": "wro-seasons-js",
+      "url": "https://wro-kuwait.org/js/seasons-data.js?v=192",
+      "final_url": "https://wro-kuwait.org/js/seasons-data.js?v=192",
+      "status": 200,
+      "mime": "application/javascript",
+      "bytes": 47491,
+      "sha256": "c5a81072a57ebc3e75c9563c8d7b5f1220d42a28060b83f9af8f9fa59fbd15d0"
+    },
+    {
+      "key": "wro-lang-js",
+      "url": "https://wro-kuwait.org/js/lang.js?v=192",
+      "final_url": "https://wro-kuwait.org/js/lang.js?v=192",
+      "status": 200,
+      "mime": "application/javascript",
+      "bytes": 129821,
+      "sha256": "6313ef3973a1b5c6ed275d3d9dd973b79b5f1164db2318d9205a58e5eaef6831"
+    },
+    {
+      "key": "wro-main-js",
+      "url": "https://wro-kuwait.org/js/main.js?v=192",
+      "final_url": "https://wro-kuwait.org/js/main.js?v=192",
+      "status": 200,
+      "mime": "application/javascript",
+      "bytes": 19955,
+      "sha256": "32c840681d989abe8695dc98c255e9287f2a796eb5726afab168f4924ebb90a3"
+    },
+    {
+      "key": "wro-news",
+      "url": "https://wro-kuwait.org/main/news.html",
+      "final_url": "https://wro-kuwait.org/main/news.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 3417,
+      "sha256": "b67583d94f80c733a06f9f31f2268797737aa85c24e38f3fced31954a4903b29"
+    },
+    {
+      "key": "knrc-vex",
+      "url": "https://theknrc.com/competitions/vex-robotics/",
+      "final_url": "https://theknrc.com/competitions/vex-robotics/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 41513,
+      "sha256": "8b0c937beb4af9191583f0d721b5b5fccf7335d301e66f509efeced474199067"
+    },
+    {
+      "key": "knrc-open",
+      "url": "https://theknrc.com/competitions/open-innovation/",
+      "final_url": "https://theknrc.com/competitions/open-innovation/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 32154,
+      "sha256": "81e0812a590b7203688a6481808bd3e8f383d20ae5d5507edfb82e7b63b20c90"
+    },
+    {
+      "key": "knrc-drones",
+      "url": "https://theknrc.com/competitions/aerial-drones/",
+      "final_url": "https://theknrc.com/competitions/aerial-drones/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 37935,
+      "sha256": "f8954d22c6acf372d4992eaee4c286f0755a6d4d13554b7df351ef1309b06734"
+    },
+    {
+      "key": "knrc-hydrogen",
+      "url": "https://theknrc.com/competitions/hydrogen-innovation/",
+      "final_url": "https://theknrc.com/competitions/hydrogen-innovation/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 28237,
+      "sha256": "cde9ed2c6bdb293b8c5e8ae636c3b31756b026dd20266991055e538bd9ea42f9"
+    },
+    {
+      "key": "knrc-events",
+      "url": "https://events.theknrc.com/",
+      "final_url": "https://events.theknrc.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 2525,
+      "sha256": "86e664ccbe2169417a89edb56c1053bad5ef81dee8cd3ea1483628206dd78f44"
+    },
+    {
+      "key": "coded-juniors",
+      "url": "https://www.juniors.app/",
+      "final_url": "https://www.juniors.app/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 5387,
+      "sha256": "c2c9dffb05a4cc4235964407ac589b31c4de6b9feab4c839337c5f67b90f8c55"
+    },
+    {
+      "key": "bahrain-fablab-spark",
+      "url": "https://www.alriwaqartspace.com/products/spark-make-your-lego-interactive",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "key": "bahrain-capital-after",
+      "url": "https://capitalschoolbahrain.com/en/after-school-activities/",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "key": "jordan-kings-summer",
+      "url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy",
+      "final_url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 87698,
+      "sha256": "7644e48e91f128c872be98dce814fd138c6d1404f9e86064b4b7495719d6bdde"
+    },
+    {
+      "key": "kings-fees",
+      "url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+      "final_url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/dates-and-fees",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 84200,
+      "sha256": "3360c2632121fc85b0cf38b56bb856c73fbebc8378ab46842b49c884f0c0933c"
+    },
+    {
+      "key": "kings-boarding",
+      "url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/boarding-and-weekends",
+      "final_url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/boarding-and-weekends",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 96476,
+      "sha256": "8bef98e34c48ccf83da7deaeea4d8e2dc4a31441e64dc88bf3a50f002d2917e4"
+    },
+    {
+      "key": "kings-schedule",
+      "url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/schedule",
+      "final_url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/schedule",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 79727,
+      "sha256": "aad4f5a0bfa7c1382e851e9d1bb8bb07ea5385739472017937c8c3c03e49919a"
+    },
+    {
+      "key": "kings-academic",
+      "url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/academic-programs",
+      "final_url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/academic-programs",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 82088,
+      "sha256": "aade8eb7244a58d76c8f196f2c751d6274376a1b13ddfaf8bc05bdf2f6d9bd53"
+    },
+    {
+      "key": "kings-sports",
+      "url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/sports-recreation-camps",
+      "final_url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/sports-recreation-camps",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 78355,
+      "sha256": "624924085745656c77f7357a28e4a8fac07cf0bc2a8bd36578eaf33967c057ee"
+    },
+    {
+      "key": "kings-english",
+      "url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/academic-programs/english-foundations-program",
+      "final_url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/academic-programs/english-foundations-program",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 77390,
+      "sha256": "831c59a415eb756c85e0b47234b0d1d150bf09a04953eccd0533b664ba69fe4d"
+    },
+    {
+      "key": "kings-i2-courses",
+      "url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/stem-camp/course-descriptions",
+      "final_url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/stem-camp/course-descriptions",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 85301,
+      "sha256": "24a0ce028242352ae793e9812b58735d012a3c43049608a719f48912be1908a8"
+    },
+    {
+      "key": "coded-juniors-0-js",
+      "url": "https://www.juniors.app/assets/index-DgmlJBX1.js",
+      "final_url": "https://www.juniors.app/assets/index-DgmlJBX1.js",
+      "status": 200,
+      "mime": "application/javascript",
+      "bytes": 2660846,
+      "sha256": "159fb5ec4bbe7d2eae15ec449213e34e880f0ccac83a7c35b3a4a984a925a99e"
+    },
+    {
+      "key": "bahrain-spark-product-json",
+      "url": "https://www.alriwaqartspace.com/products/spark-make-your-lego-interactive.js",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "key": "kings-brochure-2026-pdf",
+      "url": "https://www.kingsacademy.edu.jo/fs/resource-manager/view/ed8855a9-4f4e-4816-8c54-349e3e1442d8",
+      "final_url": "https://resources.finalsite.net/images/v1776251235/kingsacademyedujo/kbx3kslxszwnm3sh1ptf/Summer-Kings-Academy-Leaflet-2026.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 6357731,
+      "sha256": "5808b2e4d7e2b00daa31b07efec9176d66632f7f1e4d57f440d95dd3472d9009"
+    },
+    {
+      "key": "wro-robostarter",
+      "url": "https://wro-association.org/robostarter/",
+      "final_url": "https://wro-association.org/robostarter/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 174532,
+      "sha256": "513acb1568aa71e0c357f9ad10dde16edca62185cd74e2d0fd6e50b759d4cb61"
+    },
+    {
+      "key": "wro-members-live",
+      "url": "https://wro-association.org/about-wro/association/member-countries/",
+      "final_url": "https://wro-association.org/about-wro/association/member-countries/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 165399,
+      "sha256": "fd1f0b2e2c577dcbbf65a32c580e23c28e9872bc8964d5fd2781c92ccb3ba0ae"
+    },
+    {
+      "key": "bahrain-robogenesis",
+      "url": "https://robogenesis.bh/",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "key": "bahrain-robogenesis-guide-pdf",
+      "url": "https://robogenesis.bh/static/Guidebook.pdf",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "key": "kings-math",
+      "url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/academic-programs/math-foundations-program",
+      "final_url": "https://www.kingsacademy.edu.jo/summer-at-kings-academy/academic-programs/math-foundations-program",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 81007,
+      "sha256": "c4636f67b8869be8cf7d6c9dd36af6e887a3f9a00b0b49a0e39e21c1f1bae356"
+    },
+    {
+      "key": "kings-school-language",
+      "url": "https://www.kingsacademy.edu.jo/arabic-year/faq",
+      "final_url": "https://www.kingsacademy.edu.jo/arabic-year/faq",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 102700,
+      "sha256": "206e9043d83bc8982369245d9edbcd3b9615c8f9da0d699be65bad29a12f370e"
+    }
+  ],
+  "additional_primary_web_reader_sources": [
+    {
+      "url": "https://www.alriwaqartspace.com/products/spark-make-your-lego-interactive",
+      "date": "2026-11-21",
+      "hours": "15:00–17:00",
+      "languages": [
+        "EN",
+        "AR"
+      ],
+      "price_BHD": 7,
+      "tax_included": true,
+      "age": null,
+      "capacity": "unconfirmed",
+      "english_LEGO_vs_Arabic_lightbox_copy_conflict": true,
+      "retrieval": "lector web primario; GET directo HTTP429"
+    }
+  ],
+  "all_requests_get_only": true,
+  "no_forms_submitted": true,
+  "raw_source_bodies_private": true
+}

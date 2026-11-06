@@ -16,14 +16,14 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 5617,
-    "competition_cards": 1874,
+    "cards": 5681,
+    "competition_cards": 1889,
     "event_cards": 248,
-    "camp_cards": 3495,
-    "league_profiles": 204,
+    "camp_cards": 3544,
+    "league_profiles": 208,
     "major_exhibition_cards": 160,
     "vex_cards": 518,
-    "countries_with_records": 119,
+    "countries_with_records": 122,
     "fully_audited_countries": 0
   },
   "continents": [
@@ -90,12 +90,12 @@
       "regions": [
         "Азия"
       ],
-      "total": 1598,
-      "countries_with_records": 31,
-      "competitions": 495,
+      "total": 1662,
+      "countries_with_records": 34,
+      "competitions": 510,
       "events": 80,
       "major_exhibitions": 71,
-      "camps": 1023,
+      "camps": 1072,
       "status": "Частично исследовано",
       "remaining": "Добавлены India camp candidates и первые Pakistan / Bangladesh / Sri Lanka маршруты. Не все national qualifiers, языки и иностранный приём закрыты; другие страны Азии исследованы частично."
     },
@@ -4886,6 +4886,73 @@
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.firstaustralia.org/first-lego-league-apoc",
       "new": false
+    },
+    {
+      "id": "wro-kuwait",
+      "name": "WRO Kuwait",
+      "group": "regional",
+      "event_ids": [
+        "C1876",
+        "C1877",
+        "C1878",
+        "C1879"
+      ],
+      "cards": 4,
+      "future_dated": 1,
+      "linked_card_count": 4,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://wro-kuwait.org/",
+      "new": false
+    },
+    {
+      "id": "knrc-kuwait",
+      "name": "Kuwait National Robotics Competition",
+      "group": "regional",
+      "event_ids": [
+        "C1880",
+        "C1881",
+        "C1882",
+        "C1883",
+        "C1884",
+        "C1885",
+        "C1888",
+        "C1889",
+        "C1890"
+      ],
+      "cards": 9,
+      "future_dated": 8,
+      "linked_card_count": 9,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://theknrc.com/",
+      "new": false
+    },
+    {
+      "id": "wro-bahrain-britus",
+      "name": "WRO Bahrain · Britus programme watch",
+      "group": "regional",
+      "event_ids": [
+        "C1886"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "linked_card_count": 1,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://britus.edu.bh/world-robot-olympiad-2/",
+      "new": false
+    },
+    {
+      "id": "first-jordan-jubilee",
+      "name": "FIRST Jordan · Jubilee calendar watch",
+      "group": "regional",
+      "event_ids": [
+        "C1887"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "linked_card_count": 1,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://jubilee.edu.jo/first-lego-league-institute/",
+      "new": false
     }
   ],
   "exhibition_inventory": [
@@ -8759,20 +8826,20 @@
       }
     ],
     "counts": {
-      "records": 3495,
-      "holiday": 3326,
+      "records": 3544,
+      "holiday": 3372,
       "regular": 108,
       "self_paced_materials": 2,
-      "boarding": 964,
-      "en_es_instruction": 1035,
+      "boarding": 980,
+      "en_es_instruction": 1036,
       "en_es_support": 11,
-      "family_instruction": 1035,
+      "family_instruction": 1036,
       "family_support": 11,
       "ru_instruction": 3,
       "language_lessons": 378,
       "camp_life_language": 225,
       "language_unclassified": 119,
-      "countries": 75
+      "countries": 78
     },
     "validation": {
       "version": 51,
