@@ -16,14 +16,14 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 5927,
-    "competition_cards": 2012,
+    "cards": 5994,
+    "competition_cards": 2047,
     "event_cards": 265,
-    "camp_cards": 3650,
-    "league_profiles": 242,
+    "camp_cards": 3682,
+    "league_profiles": 249,
     "major_exhibition_cards": 173,
     "vex_cards": 518,
-    "countries_with_records": 152,
+    "countries_with_records": 157,
     "fully_audited_countries": 0
   },
   "continents": [
@@ -34,12 +34,12 @@
         "América Central",
         "Caribe"
       ],
-      "total": 1688,
+      "total": 1694,
       "countries_with_records": 23,
       "competitions": 624,
       "events": 61,
       "major_exhibitions": 22,
-      "camps": 1003,
+      "camps": 1009,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
     },
@@ -62,12 +62,12 @@
       "regions": [
         "Europa"
       ],
-      "total": 1720,
+      "total": 1722,
       "countries_with_records": 42,
       "competitions": 392,
       "events": 76,
       "major_exhibitions": 55,
-      "camps": 1252,
+      "camps": 1254,
       "status": "Se ha estudiado parcialmente",
       "remaining": "CHE/ESP/FRA se profundizan de nuevo. No están cerradas todas las ligas locales, Nuevos qualifiers 2027, enseñanza en inglés / en español, cuotas extranjeras, de la actualidad juniormentors y los protocolos escolares completos 5–10 años. Alemania / Países Bajos / Bélgica: el primer paso parcial; todos los clubes locales, lenguas, Cuotas extranjeras y resultados escolares completos permanecen abiertos."
     },
@@ -90,12 +90,12 @@
       "regions": [
         "Asia"
       ],
-      "total": 1722,
-      "countries_with_records": 39,
-      "competitions": 548,
+      "total": 1779,
+      "countries_with_records": 44,
+      "competitions": 583,
       "events": 83,
       "major_exhibitions": 71,
-      "camps": 1091,
+      "camps": 1113,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido India camp candidates y las primeras rutas de Pakistán / Bangladesh / Sri Lanka. no todos los nacionales calificados, las lenguas y la admisión extranjera están cerrados; otros países asiáticos han sido parcialmente investigados."
     },
@@ -4228,6 +4228,132 @@
       "linked_card_count": 7,
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://iraq.technoxian.com/",
+      "new": false
+    },
+    {
+      "id": "iran-open-local",
+      "name": "RoboCup Iran Open · local categories",
+      "group": "regional",
+      "event_ids": [
+        "C2014",
+        "C2015",
+        "C2016"
+      ],
+      "cards": 3,
+      "future_dated": 0,
+      "linked_card_count": 3,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "http://iranopenrobocup.ir/",
+      "new": false
+    },
+    {
+      "id": "palestine-innovation-local",
+      "name": "Palestine · Innovation & Robotics",
+      "group": "regional",
+      "event_ids": [
+        "C2017"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "linked_card_count": 1,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://www.moe.edu.ps/c/30733",
+      "new": false
+    },
+    {
+      "id": "wro-palestine-local",
+      "name": "WRO Palestine · SHOHOB",
+      "group": "regional",
+      "event_ids": [
+        "C2018"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "linked_card_count": 1,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://wro-association.org/about-wro/association/member-countries/",
+      "new": false
+    },
+    {
+      "id": "fll-palestine-local",
+      "name": "FIRST LEGO League Palestine · Fakker",
+      "group": "regional",
+      "event_ids": [
+        "C2019"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "linked_card_count": 1,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://firstlegoleague.org/#find",
+      "new": false
+    },
+    {
+      "id": "wro-syria-local",
+      "name": "WRO Syria · DCA",
+      "group": "regional",
+      "event_ids": [
+        "C2020",
+        "C2021",
+        "C2022",
+        "C2023",
+        "C2024",
+        "C2025",
+        "C2026",
+        "C2027"
+      ],
+      "cards": 8,
+      "future_dated": 0,
+      "linked_card_count": 8,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://sana.sy/education/2550170/",
+      "new": false
+    },
+    {
+      "id": "first-israel-local",
+      "name": "FIRST Israel · local junior programmes",
+      "group": "regional",
+      "event_ids": [
+        "C2028",
+        "C2029",
+        "C2030",
+        "C2031",
+        "C2032",
+        "C2033",
+        "C2034",
+        "C2035",
+        "C2036",
+        "C2037",
+        "C2038",
+        "C2048"
+      ],
+      "cards": 12,
+      "future_dated": 9,
+      "linked_card_count": 12,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://firstisrael.org.il/fll/challenge/2026-10-29",
+      "new": false
+    },
+    {
+      "id": "wro-lebanon-local",
+      "name": "WRO Lebanon · MindPower",
+      "group": "regional",
+      "event_ids": [
+        "C2039",
+        "C2040",
+        "C2041",
+        "C2042",
+        "C2043",
+        "C2044",
+        "C2045",
+        "C2046",
+        "C2047"
+      ],
+      "cards": 9,
+      "future_dated": 0,
+      "linked_card_count": 9,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://mindpowerlb.com/wro-2026/",
       "new": false
     },
     {
@@ -8498,7 +8624,7 @@
       "official_alternative": "https://www.ykpaoschool.cn/News-and-Events/New-Stories/988"
     }
   ],
-  "interregional_cards": 82,
+  "interregional_cards": 84,
   "promoted_exhibition_ids": [],
   "focused_country": {
     "country": "Taiwán",
@@ -9535,20 +9661,20 @@
       }
     ],
     "counts": {
-      "records": 3650,
-      "holiday": 3409,
+      "records": 3682,
+      "holiday": 3441,
       "regular": 108,
       "self_paced_materials": 2,
-      "boarding": 981,
-      "en_es_instruction": 1043,
+      "boarding": 1004,
+      "en_es_instruction": 1074,
       "en_es_support": 12,
-      "family_instruction": 1043,
+      "family_instruction": 1074,
       "family_support": 12,
       "ru_instruction": 3,
       "language_lessons": 387,
       "camp_life_language": 226,
       "language_unclassified": 119,
-      "countries": 97
+      "countries": 98
     },
     "validation": {
       "version": 51,

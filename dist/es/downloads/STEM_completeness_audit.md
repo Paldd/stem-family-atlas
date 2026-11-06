@@ -6,24 +6,24 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 5927; competiciones: 2012; eventos: 265; campamentos / programas: 3650. Perfiles de ligas y programas: 242. Fichas de exposiciones grandes y especializadas: 173 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 5994; competiciones: 2047; eventos: 265; campamentos / programas: 3682. Perfiles de ligas y programas: 249. Fichas de exposiciones grandes y especializadas: 173 — son ediciones y sedes, no cantidad de marcas únicas.
 
-Registros concretos para 152 de 249 países y territorios; países con auditoría completa: 0. Revisión archivada v51: añadidas 21 fichas, 3 perfiles. Todas las fichas anteriores conservadas.
+Hay registros concretos de 157 de 249 países y territorios; países completamente auditados: 0. Pasada histórica v51: añadidas 21 fichas, 3 perfiles. Conservadas todas las fichas anteriores.
 
 ## Cobertura por continentes
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 23 | 624 | 22 | 1003 |
+| América del Norte | 23 | 624 | 22 | 1009 |
 | América del Sur | 10 | 163 | 7 | 113 |
-| Europa | 42 | 392 | 55 | 1252 |
+| Europa | 42 | 392 | 55 | 1254 |
 | África | 34 | 112 | 15 | 68 |
-| Asia | 39 | 548 | 71 | 1091 |
+| Asia | 44 | 583 | 71 | 1113 |
 | Oceanía | 4 | 105 | 3 | 114 |
 
-Fichas interregionales / globales sin atribuir a un solo continente: 82. América del Norte incluye Centroamérica y el Caribe. Cantidades indican inventario de base, sin porcentaje de exhaustividad.
+Fichas interregionales / globales sin asignar a un continente: 84. América del Norte incluye América Central y el Caribe. Las cantidades reflejan inventario de la base, sin porcentaje de exhaustividad.
 
-VEX: 518 de 2012 fichas de competiciones (25.7%). Existe un desequilibrio evidente de cobertura.
+VEX: 518 de 2047 fichas de competiciones (25.3%). Sesgo evidente de cobertura.
 
 ## Lo que queda
 
@@ -267,6 +267,13 @@ VEX: 518 de 2012 fichas de competiciones (25.7%). Existe un desequilibrio eviden
 - **Robotics for Good Haiti · operator claim**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.haitistemalliance.com/national-organizer
 - **KOLESHA · WRO / Robotics for Good DRC**: 2 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://wro-association.org/about-wro/association/member-countries/
 - **TechnoXian Iraq · national programme**: 7 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://iraq.technoxian.com/
+- **RoboCup Iran Open · local categories**: 3 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. http://iranopenrobocup.ir/
+- **Palestine · Innovation & Robotics**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.moe.edu.ps/c/30733
+- **WRO Palestine · SHOHOB**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://wro-association.org/about-wro/association/member-countries/
+- **FIRST LEGO League Palestine · Fakker**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://firstlegoleague.org/#find
+- **WRO Syria · DCA**: 8 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://sana.sy/education/2550170/
+- **FIRST Israel · local junior programmes**: 12 fichas, 9 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://firstisrael.org.il/fll/challenge/2026-10-29
+- **WRO Lebanon · MindPower**: 9 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://mindpowerlb.com/wro-2026/
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 10 tarjetas, 0 con fechas exactas futuras. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf

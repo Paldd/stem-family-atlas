@@ -1,0 +1,956 @@
+{
+  "version": 189,
+  "checked": "2026-11-06",
+  "request_count": 89,
+  "hash_verified": 83,
+  "nonempty_successful_bodies": 80,
+  "failures": [
+    {
+      "key": "first-israel-events",
+      "url": "https://firstisrael.org.il/events",
+      "checked_at": "2026-11-06T19:05:06.182933+00:00",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "wro-iran",
+      "url": "https://wroiran.ir/",
+      "checked_at": "2026-11-06T19:05:07.315260+00:00",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1082)>"
+    },
+    {
+      "key": "syria-participation",
+      "url": "https://tinyurl.com/Wro-sy-2026",
+      "checked_at": "2026-11-06T19:06:08.315499+00:00",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "syria-final-programme",
+      "url": "https://tinyurl.com/Wro-syria-2026",
+      "checked_at": "2026-11-06T19:06:08.316107+00:00",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "wro-iran-http",
+      "url": "http://wroiran.ir/",
+      "checked_at": "2026-11-06T19:06:09.205082+00:00",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1082)>"
+    },
+    {
+      "key": "palestine-fll-home",
+      "url": "https://www.fllpalestine.ps/",
+      "checked_at": "2026-11-06T19:07:20.849778+00:00",
+      "error": "<urlopen error timed out>"
+    }
+  ],
+  "empty_responses": [
+    {
+      "key": "wro-pal",
+      "url": "http://wro-pal.ps",
+      "checked_at": "2026-11-06T19:05:07.944441+00:00",
+      "status": 200,
+      "final_url": "http://wro-pal.ps",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "content_insufficient": true
+    },
+    {
+      "key": "wro-pal-https",
+      "url": "https://wro-pal.ps/",
+      "checked_at": "2026-11-06T19:06:08.316537+00:00",
+      "status": 200,
+      "final_url": "https://wro-pal.ps/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "content_insufficient": true
+    },
+    {
+      "key": "wro-pal-page2",
+      "url": "https://wro-pal.ps/page/2/",
+      "checked_at": "2026-11-06T19:06:08.527163+00:00",
+      "status": 200,
+      "final_url": "https://wro-pal.ps/page/2/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "content_insufficient": true
+    }
+  ],
+  "requests": [
+    {
+      "key": "first-israel-home",
+      "url": "https://firstisrael.org.il/",
+      "checked_at": "2026-11-06T19:05:06.181774+00:00",
+      "status": 200,
+      "final_url": "https://firstisrael.org.il/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 117993,
+      "sha256": "80df3f72fc79c8db287f608324cbb14f6b96fae89d370406c3ea6641f77b5ef0"
+    },
+    {
+      "key": "first-israel-fll",
+      "url": "https://firstisrael.org.il/fll",
+      "checked_at": "2026-11-06T19:05:06.182179+00:00",
+      "status": 200,
+      "final_url": "https://firstisrael.org.il/fll",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 109818,
+      "sha256": "17886925fcf3d410142cf9ae1143d200f39076831c0008be0f6023f9c91c8762"
+    },
+    {
+      "key": "first-israel-explore",
+      "url": "https://firstisrael.org.il/fll/explore",
+      "checked_at": "2026-11-06T19:05:06.182285+00:00",
+      "status": 200,
+      "final_url": "https://firstisrael.org.il/fll/explore/game-and-season",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 73083,
+      "sha256": "9938f5fd2d14963beb3b61e2227fa2e0f6d7a5e41c7e4cbc4b4dfecf52e3a3ca"
+    },
+    {
+      "key": "first-israel-challenge",
+      "url": "https://firstisrael.org.il/fll/challenge",
+      "checked_at": "2026-11-06T19:05:06.182521+00:00",
+      "status": 200,
+      "final_url": "https://firstisrael.org.il/fll/challenge/game-and-season",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 95909,
+      "sha256": "61495371b50247f919cb4653e63bb40a14cd8dbbdea7e4864023df53f62754d6"
+    },
+    {
+      "key": "first-israel-events",
+      "url": "https://firstisrael.org.il/events",
+      "checked_at": "2026-11-06T19:05:06.182933+00:00",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "first-israel-faq",
+      "url": "https://firstisrael.org.il/about/faq",
+      "checked_at": "2026-11-06T19:05:07.095017+00:00",
+      "status": 200,
+      "final_url": "https://firstisrael.org.il/about/faq",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 79399,
+      "sha256": "25070ad0222c548d904f49e62bafb0c9ea06cf9824de4317ac9c1a5925c60151"
+    },
+    {
+      "key": "mindpower-home",
+      "url": "https://mindpowerlb.com/",
+      "checked_at": "2026-11-06T19:05:07.096631+00:00",
+      "status": 200,
+      "final_url": "https://mindpowerlb.com/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 39637,
+      "sha256": "72f39941e186541a0ebf3a7b90d994a1b4de24633d93b7c2935a4f7341b8cdc2"
+    },
+    {
+      "key": "mindpower-wro",
+      "url": "https://mindpowerlb.com/wro/",
+      "checked_at": "2026-11-06T19:05:07.139573+00:00",
+      "status": 200,
+      "final_url": "https://mindpowerlb.com/wro/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 42159,
+      "sha256": "963baedb5c3c871b58d5a39d7927db26da1d8feb68684e1b4d5b0fee0b1d691b"
+    },
+    {
+      "key": "mindpower-rules",
+      "url": "https://mindpowerlb.com/wro-2026/",
+      "checked_at": "2026-11-06T19:05:07.213507+00:00",
+      "status": 200,
+      "final_url": "https://mindpowerlb.com/wro-2026/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 78383,
+      "sha256": "5b672b6b0f462cb4c5510ed0f4413616a371aa55ee1ed29fe352cd0b81e2a956"
+    },
+    {
+      "key": "lebanon-ieee",
+      "url": "https://events.vtools.ieee.org/m/560103",
+      "checked_at": "2026-11-06T19:05:07.293135+00:00",
+      "status": 200,
+      "final_url": "https://events.vtools.ieee.org/m/560103",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 33911,
+      "sha256": "07c96691e7f69b0d38aecf584799508b42b04def710e37d97b46b69164125539"
+    },
+    {
+      "key": "wro-iran",
+      "url": "https://wroiran.ir/",
+      "checked_at": "2026-11-06T19:05:07.315260+00:00",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1082)>"
+    },
+    {
+      "key": "wro-pal",
+      "url": "http://wro-pal.ps",
+      "checked_at": "2026-11-06T19:05:07.944441+00:00",
+      "status": 200,
+      "final_url": "http://wro-pal.ps",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "content_insufficient": true
+    },
+    {
+      "key": "syria-directory-domain",
+      "url": "https://dca-net.org/",
+      "checked_at": "2026-11-06T19:05:08.034699+00:00",
+      "status": 200,
+      "final_url": "https://dca-net.org/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 990,
+      "sha256": "4ea3bc86f34660ddbd9f9b2f9e7cba4219e3c718f1c8d46184f6ade06b126f01"
+    },
+    {
+      "key": "syria-launch-2026",
+      "url": "https://sana.sy/locals/2409336/",
+      "checked_at": "2026-11-06T19:05:08.034927+00:00",
+      "status": 200,
+      "final_url": "https://sana.sy/locals/2409336/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 210160,
+      "sha256": "b41c186b4b89b924775b733c73084a399c7bd8e0a637856ebafa834f34697f61"
+    },
+    {
+      "key": "syria-finalists-2026",
+      "url": "https://sana.sy/education/2549341/",
+      "checked_at": "2026-11-06T19:05:08.601119+00:00",
+      "status": 200,
+      "final_url": "https://sana.sy/education/2549341/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 197416,
+      "sha256": "e1cc430aba7878228f0c0733cb6b28874f46c48581644aa35e84216c6630debd"
+    },
+    {
+      "key": "israel-fll-news-dates",
+      "url": "https://firstisrael.org.il/fll/challenge/2026-10-29",
+      "checked_at": "2026-11-06T19:06:07.762674+00:00",
+      "status": 200,
+      "final_url": "https://firstisrael.org.il/fll/challenge/2026-10-29",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 76036,
+      "sha256": "ce30f1bc10249686c949a7f78e3247c7173dcd5f26a1ed33effcaaa94b2e238c"
+    },
+    {
+      "key": "israel-explore-launch",
+      "url": "https://firstisrael.org.il/fll/explore/2026-08-16",
+      "checked_at": "2026-11-06T19:06:07.763013+00:00",
+      "status": 200,
+      "final_url": "https://firstisrael.org.il/fll/explore/2026-08-16",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 61914,
+      "sha256": "34a4b12c16cb0d729a544f0f1776c23034ffa3949c2973fac7c1504b5e34d539"
+    },
+    {
+      "key": "israel-explore-pricing",
+      "url": "https://firstisrael.org.il/fll/explore/pricing",
+      "checked_at": "2026-11-06T19:06:07.763116+00:00",
+      "status": 200,
+      "final_url": "https://firstisrael.org.il/fll/explore/pricing",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 55202,
+      "sha256": "77f53ca7969a48f4e47129540834fb4c40ef0966943765fdb5f7fac967347c6f"
+    },
+    {
+      "key": "israel-challenge-pricing",
+      "url": "https://firstisrael.org.il/fll/challenge/pricing",
+      "checked_at": "2026-11-06T19:06:07.763182+00:00",
+      "status": 200,
+      "final_url": "https://firstisrael.org.il/fll/challenge/pricing",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 56173,
+      "sha256": "05742baad3f1690406cfecc984abcf5e24b0e02310b3b3a775d27de2bf299178"
+    },
+    {
+      "key": "israel-join",
+      "url": "https://firstisrael.org.il/get-involved/join",
+      "checked_at": "2026-11-06T19:06:07.763417+00:00",
+      "status": 200,
+      "final_url": "https://firstisrael.org.il/get-involved/join",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 66730,
+      "sha256": "40efc43e7a45379606936ecf99bebf9998eeeac94e9b1a2c9ad1cbbc0a3bc15d"
+    },
+    {
+      "key": "israel-future",
+      "url": "https://firstisrael.org.il/fll/future-3-8/game-and-season",
+      "checked_at": "2026-11-06T19:06:08.153547+00:00",
+      "status": 200,
+      "final_url": "https://firstisrael.org.il/fll/future-3-8/game-and-season",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 115857,
+      "sha256": "f6949de99f6d00c0a851052f77d0de890585facccf27f753595ac91d95e1313a"
+    },
+    {
+      "key": "syria-finals-dates",
+      "url": "https://sana.sy/education/2550170/",
+      "checked_at": "2026-11-06T19:06:08.154109+00:00",
+      "status": 200,
+      "final_url": "https://sana.sy/education/2550170/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 193100,
+      "sha256": "dda38de992945a61e3ac2080dfd58077212f31232fe2b623f6e55165b946b475"
+    },
+    {
+      "key": "syria-participation",
+      "url": "https://tinyurl.com/Wro-sy-2026",
+      "checked_at": "2026-11-06T19:06:08.315499+00:00",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "syria-final-programme",
+      "url": "https://tinyurl.com/Wro-syria-2026",
+      "checked_at": "2026-11-06T19:06:08.316107+00:00",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "wro-pal-https",
+      "url": "https://wro-pal.ps/",
+      "checked_at": "2026-11-06T19:06:08.316537+00:00",
+      "status": 200,
+      "final_url": "https://wro-pal.ps/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "content_insufficient": true
+    },
+    {
+      "key": "wro-pal-page2",
+      "url": "https://wro-pal.ps/page/2/",
+      "checked_at": "2026-11-06T19:06:08.527163+00:00",
+      "status": 200,
+      "final_url": "https://wro-pal.ps/page/2/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "content_insufficient": true
+    },
+    {
+      "key": "wro-iran-http",
+      "url": "http://wroiran.ir/",
+      "checked_at": "2026-11-06T19:06:09.205082+00:00",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1082)>"
+    },
+    {
+      "key": "lebanon-starter-pdf",
+      "url": "https://drive.google.com/uc?export=download&id=1zHwyeN5NpOfPC7RvnoXcvJBQfmUfs_m4",
+      "checked_at": "2026-11-06T19:06:09.313398+00:00",
+      "status": 200,
+      "final_url": "https://drive.usercontent.google.com/download?id=1zHwyeN5NpOfPC7RvnoXcvJBQfmUfs_m4&export=download",
+      "content_type": "application/octet-stream",
+      "bytes": 738690,
+      "sha256": "7fb21cd44380b266b1ffe6a82d14471d3b76fabcf938d13fe2d7644bb3be74e9"
+    },
+    {
+      "key": "lebanon-registration",
+      "url": "https://forms.gle/hQiL2pGAAzXwd5pz7",
+      "checked_at": "2026-11-06T19:06:09.814805+00:00",
+      "status": 200,
+      "final_url": "https://docs.google.com/forms/d/e/1FAIpQLSdMrrNbN2eFmrDuROLRivgzroEznZYuXgRV2TRJVteZjfXKQg/viewform?usp=send_form",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 94066,
+      "sha256": "f3a116a7d2399ee413fd003ea8677a9271f45590916efc1cbd945b18faa4e30c"
+    },
+    {
+      "key": "iran-robocup-federation",
+      "url": "https://www.robocup.org/events/84",
+      "checked_at": "2026-11-06T19:07:20.848967+00:00",
+      "status": 200,
+      "final_url": "https://www.robocup.org/events/84",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 57564,
+      "sha256": "cac185d69b3c81ab5b84c8022bcfccbe34dd5817a34d6eff158f8d09531b71ff"
+    },
+    {
+      "key": "iran-open-organizer",
+      "url": "http://iranopenrobocup.ir/",
+      "checked_at": "2026-11-06T19:07:20.849348+00:00",
+      "status": 200,
+      "final_url": "http://iranopenrobocup.ir/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 28246,
+      "sha256": "03a6fde8190577c94eed557a597565076698383ac6257473f20df95d18e85b7f"
+    },
+    {
+      "key": "palestine-moe-robotics-2026",
+      "url": "https://www.moe.edu.ps/c/30733",
+      "checked_at": "2026-11-06T19:07:20.849449+00:00",
+      "status": 200,
+      "final_url": "https://www.moe.edu.ps/c/30733",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 36687,
+      "sha256": "b0c36fac84ee103092192df1a30a3aabc7e0e1db61c328af7bd8d15f3bac163c"
+    },
+    {
+      "key": "palestine-moe-wro-2025",
+      "url": "https://www.moe.edu.ps/c/30599",
+      "checked_at": "2026-11-06T19:07:20.849538+00:00",
+      "status": 200,
+      "final_url": "https://www.moe.edu.ps/c/30599",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 24692,
+      "sha256": "c09e42da2e7ccbb1298c0ab566ea9fc19f05b8cd00e0f9408952517470003b6c"
+    },
+    {
+      "key": "palestine-fll-home",
+      "url": "https://www.fllpalestine.ps/",
+      "checked_at": "2026-11-06T19:07:20.849778+00:00",
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "key": "palestine-fll-social-links",
+      "url": "https://linktr.ee/3jjawi",
+      "checked_at": "2026-11-06T19:07:22.407127+00:00",
+      "status": 200,
+      "final_url": "https://linktr.ee/3jjawi",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 231273,
+      "sha256": "89fca17f9b8dddc64ef6acc663649df07a474afa91c636e7af38451a87e8ac21"
+    },
+    {
+      "key": "israel-future-launch",
+      "url": "https://firstisrael.org.il/fll/future-3-8/2026-08-17",
+      "checked_at": "2026-11-06T19:07:22.412765+00:00",
+      "status": 200,
+      "final_url": "https://firstisrael.org.il/fll/future-3-8/2026-08-17",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 75832,
+      "sha256": "8a315f77063d34d77e80466c86937ce945cac544c52ed4dd7a76ba6103cdf383"
+    },
+    {
+      "key": "israel-future-pricing",
+      "url": "https://firstisrael.org.il/fll/future-3-8/pricing",
+      "checked_at": "2026-11-06T19:07:22.657325+00:00",
+      "status": 200,
+      "final_url": "https://firstisrael.org.il/fll/future-3-8/pricing",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 56258,
+      "sha256": "71adc3852797bd24431e8a4bdb8d585b6ef3fea6d47da90da7aceb8c80721f60"
+    },
+    {
+      "key": "kimama-home",
+      "url": "https://www.eng.campkimama.org/",
+      "checked_at": "2026-11-06T19:07:23.052757+00:00",
+      "status": 200,
+      "final_url": "https://www.eng.campkimama.org/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 1910832,
+      "sha256": "4060d715188e6ae9146b9a48529b0e9f0118e2e7b3e763109a142c26c1f8c41e"
+    },
+    {
+      "key": "kimama-parents",
+      "url": "https://www.eng.campkimama.org/parents",
+      "checked_at": "2026-11-06T19:07:23.327913+00:00",
+      "status": 200,
+      "final_url": "https://www.eng.campkimama.org/parents",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 867804,
+      "sha256": "fea22ac78347a93b7ed0d1e1ed4419b38064c9b9aa8cc2d0b0a8704878efe4cc"
+    },
+    {
+      "key": "technion-cyber-camp",
+      "url": "https://cont-edu.technion.ac.il/programs/cyber/cyber-camp-2/",
+      "checked_at": "2026-11-06T19:07:23.432831+00:00",
+      "status": 200,
+      "final_url": "https://cont-edu.technion.ac.il/programs/cyber/cyber-camp-2/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 253976,
+      "sha256": "a4a64468145770af03e09ddc5bdbeeda6a4294871453616dc8a41a7b4f72236c"
+    },
+    {
+      "key": "wro-world-directory",
+      "url": "https://wro-association.org/about-wro/association/member-countries/",
+      "checked_at": "2026-11-06T19:07:23.767118+00:00",
+      "status": 200,
+      "final_url": "https://wro-association.org/about-wro/association/member-countries/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 165420,
+      "sha256": "58348ae67f17560ef14d5a36ce4fab34eec412ea998d40855e81ced36e4735d0"
+    },
+    {
+      "key": "iran-home-english",
+      "url": "http://iranopenrobocup.ir/locale/en",
+      "checked_at": "2026-11-06T19:08:48.520764+00:00",
+      "status": 200,
+      "final_url": "http://iranopenrobocup.ir/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 28246,
+      "sha256": "03a6fde8190577c94eed557a597565076698383ac6257473f20df95d18e85b7f"
+    },
+    {
+      "key": "iran-urgent",
+      "url": "http://iranopenrobocup.ir/news/%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%DB%8C%D9%87-%D9%81%D9%88%D8%B1%DB%8C-2",
+      "checked_at": "2026-11-06T19:08:48.521142+00:00",
+      "status": 200,
+      "final_url": "http://iranopenrobocup.ir/news/%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%DB%8C%D9%87-%D9%81%D9%88%D8%B1%DB%8C-2",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 26379,
+      "sha256": "dd707ea1cd68a1b61e705cf4043ac069b21767d076500ce78e80bbe158a57bb4"
+    },
+    {
+      "key": "iran-notice-2026",
+      "url": "http://iranopenrobocup.ir/news/iranopen-robocup-2026-fa",
+      "checked_at": "2026-11-06T19:08:48.521237+00:00",
+      "status": 200,
+      "final_url": "http://iranopenrobocup.ir/news/iranopen-robocup-2026-fa",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 25981,
+      "sha256": "c5d23835ab43cd64b2e977a23905fcdaf1205e70d81ded0e3d7cee58f896589f"
+    },
+    {
+      "key": "iran-insitu-primary",
+      "url": "http://iranopenrobocup.ir/leagues/junior-insitu-primary",
+      "checked_at": "2026-11-06T19:08:48.521314+00:00",
+      "status": 200,
+      "final_url": "http://iranopenrobocup.ir/leagues/junior-insitu-primary",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 21456,
+      "sha256": "81860879c9d650ec0a6a84fe933b04834053a2ae7b6c6df6baea487e4e17e871"
+    },
+    {
+      "key": "iran-entry-leagues",
+      "url": "http://iranopenrobocup.ir/leagues/entry-leagues",
+      "checked_at": "2026-11-06T19:08:48.521548+00:00",
+      "status": 200,
+      "final_url": "http://iranopenrobocup.ir/leagues/entry-leagues",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 19217,
+      "sha256": "51f8c11f2188591484e2db2ac2b9400e63870c500e4a0fc7e5db75375523a900"
+    },
+    {
+      "key": "iran-registration-guide",
+      "url": "http://iranopenrobocup.ir/Registration-Guide-fa",
+      "checked_at": "2026-11-06T19:08:49.856455+00:00",
+      "status": 200,
+      "final_url": "http://iranopenrobocup.ir/Registration-Guide-fa",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 25112,
+      "sha256": "d00bdb7227e5f3f85d21c03019319a60eb77046e749dce1bba7b56d387ca7954"
+    },
+    {
+      "key": "kimama-dates",
+      "url": "https://www.eng.campkimama.org/dates-fees",
+      "checked_at": "2026-11-06T19:08:49.869374+00:00",
+      "status": 200,
+      "final_url": "https://www.eng.campkimama.org/dates-fees",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 1121272,
+      "sha256": "bee207f6cfa2cf5ff34225a7ad54fd7f076a8c6fafcd24e3e6945d9fa7882029"
+    },
+    {
+      "key": "kimama-michmoret",
+      "url": "https://www.eng.campkimama.org/michmoret",
+      "checked_at": "2026-11-06T19:08:49.902584+00:00",
+      "status": 200,
+      "final_url": "https://www.eng.campkimama.org/michmoret",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 1342380,
+      "sha256": "07393dba6540a31c51ed6064c21a115ac8303a58e71b70bf6d69b99c860e63ab"
+    },
+    {
+      "key": "kimama-galim",
+      "url": "https://www.eng.campkimama.org/galim-overnight",
+      "checked_at": "2026-11-06T19:08:50.184355+00:00",
+      "status": 200,
+      "final_url": "https://www.eng.campkimama.org/galim-overnight",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 1313141,
+      "sha256": "b75b596ea2286de5c1ec3183dcca7171f5f3e8784c5e9e9f1973d915fd78364d"
+    },
+    {
+      "key": "kimama-tlv",
+      "url": "https://www.eng.campkimama.org/tlv-day-camp",
+      "checked_at": "2026-11-06T19:08:50.257469+00:00",
+      "status": 200,
+      "final_url": "https://www.eng.campkimama.org/tlv-day-camp",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 1324686,
+      "sha256": "c40c8d9881a3d61a26dd55a4c7d9c7811996978a0b552e19038b334af995d6bd"
+    },
+    {
+      "key": "kimama-barcelona",
+      "url": "https://www.eng.campkimama.org/barcelona",
+      "checked_at": "2026-11-06T19:08:50.431334+00:00",
+      "status": 200,
+      "final_url": "https://www.eng.campkimama.org/barcelona",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 1287873,
+      "sha256": "f2bd6b899aae6af8e9e3ed387ae3cb7855ce88a7c4f0ec302115070406a54c9c"
+    },
+    {
+      "key": "kimama-ski",
+      "url": "https://www.eng.campkimama.org/skimama",
+      "checked_at": "2026-11-06T19:08:50.499839+00:00",
+      "status": 200,
+      "final_url": "https://www.eng.campkimama.org/skimama",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 1281698,
+      "sha256": "7c3a404ed8bbbc4faca4f7c444dddb96ffbd1aec7ef4d1447306e68180f20a85"
+    },
+    {
+      "key": "kimama-alpine",
+      "url": "https://www.eng.campkimama.org/kimama-alpine",
+      "checked_at": "2026-11-06T19:08:50.587887+00:00",
+      "status": 200,
+      "final_url": "https://www.eng.campkimama.org/kimama-alpine",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 1344094,
+      "sha256": "dfbfe70c775943f395b350304f5537257b762292ce59cb51ed983892dff38f4a"
+    },
+    {
+      "key": "kimama-regulations",
+      "url": "https://www.eng.campkimama.org/camp-regulations",
+      "checked_at": "2026-11-06T19:08:50.742046+00:00",
+      "status": 200,
+      "final_url": "https://www.eng.campkimama.org/camp-regulations",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 871200,
+      "sha256": "7f1f1f0a8270ba835d488d56794d6f90550ee5ea89c6e4a401b8f70511bc55b0"
+    },
+    {
+      "key": "kimama-cancel",
+      "url": "https://www.eng.campkimama.org/cancellation-policy",
+      "checked_at": "2026-11-06T19:08:50.953368+00:00",
+      "status": 200,
+      "final_url": "https://www.eng.campkimama.org/cancellation-policy",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 878586,
+      "sha256": "907c6e777d16c56f90095f261ad6e010a9c0863d67fd0227dd46121e8dd5c86c"
+    },
+    {
+      "key": "kimama-faq",
+      "url": "https://www.eng.campkimama.org/faq",
+      "checked_at": "2026-11-06T19:10:02.894660+00:00",
+      "status": 200,
+      "final_url": "https://www.eng.campkimama.org/faq",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 896107,
+      "sha256": "c90a16a0fa61765475d942c0027f6ba0cb4d066578187c4f254b5b62c7f517aa"
+    },
+    {
+      "key": "kimama-kids",
+      "url": "https://www.eng.campkimama.org/kids",
+      "checked_at": "2026-11-06T19:10:02.895128+00:00",
+      "status": 200,
+      "final_url": "https://www.eng.campkimama.org/kids",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 1090675,
+      "sha256": "9ecf3297f6702e2ec78d96e99d47b04db4adc43ebe41eb8d202eedad78b3bb95"
+    },
+    {
+      "key": "kimama-hof",
+      "url": "https://www.eng.campkimama.org/hof",
+      "checked_at": "2026-11-06T19:10:02.895341+00:00",
+      "status": 200,
+      "final_url": "https://www.eng.campkimama.org/hof",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 1314406,
+      "sha256": "fffb1221a47f46fe8027a8f03478b8b450345ed2bcd19fb5ea24d52ca55fe994"
+    },
+    {
+      "key": "kimama-camps",
+      "url": "https://www.eng.campkimama.org/ourcamps",
+      "checked_at": "2026-11-06T19:10:02.895465+00:00",
+      "status": 200,
+      "final_url": "https://www.eng.campkimama.org/ourcamps",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 1347878,
+      "sha256": "f9c05d7250b6da2c68102f2183619e90f9c4fcd7df75791938cf54bb76868dab"
+    },
+    {
+      "key": "kimama-about",
+      "url": "https://www.eng.campkimama.org/about-us",
+      "checked_at": "2026-11-06T19:10:02.895767+00:00",
+      "status": 200,
+      "final_url": "https://www.eng.campkimama.org/about-us",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 853764,
+      "sha256": "6de9403a4e5c5d97638d9322bd9f490634074ed2d7a5188e234142a4f6c0efdd"
+    },
+    {
+      "key": "kimama-halfmoon",
+      "url": "https://www.kimamahalfmoon.org/",
+      "checked_at": "2026-11-06T19:10:03.277371+00:00",
+      "status": 200,
+      "final_url": "https://www.kimamahalfmoon.org/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 697511,
+      "sha256": "dbce49de0554f41c5f3be4b1f6cc8ee461fe030b1e75c20e412acc3e108aa491"
+    },
+    {
+      "key": "iran-category-junior-at-work",
+      "url": "http://iranopenrobocup.ir/leagues/junior-at-work",
+      "checked_at": "2026-11-06T19:11:37.215905+00:00",
+      "status": 200,
+      "final_url": "http://iranopenrobocup.ir/leagues/junior-at-work",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 32194,
+      "sha256": "5932f5b18d0abcc26a7354e45e0d190ecfa78385b5c7a6218f27582474f5c2e6"
+    },
+    {
+      "key": "iran-category-junior-flying-robot",
+      "url": "http://iranopenrobocup.ir/leagues/junior-flying-robot",
+      "checked_at": "2026-11-06T19:11:37.216381+00:00",
+      "status": 200,
+      "final_url": "http://iranopenrobocup.ir/leagues/junior-flying-robot",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 22727,
+      "sha256": "9f1675baa4e181f93bf4a9aa02cbfe8375b4f8e313cc210f9ee4c27247919ace"
+    },
+    {
+      "key": "iran-category-junior-flying-robots-race",
+      "url": "http://iranopenrobocup.ir/leagues/junior-flying-robots-race",
+      "checked_at": "2026-11-06T19:11:37.216485+00:00",
+      "status": 200,
+      "final_url": "http://iranopenrobocup.ir/leagues/junior-flying-robots-race",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 19250,
+      "sha256": "bd6e245b994dcfc64fd002d0e793c5b1d8ae3007d5d84837c5f8a5c368f00ca0"
+    },
+    {
+      "key": "iran-category-junior-insitu-primary",
+      "url": "http://iranopenrobocup.ir/leagues/junior-insitu-primary",
+      "checked_at": "2026-11-06T19:11:37.216567+00:00",
+      "status": 200,
+      "final_url": "http://iranopenrobocup.ir/leagues/junior-insitu-primary",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 21456,
+      "sha256": "81860879c9d650ec0a6a84fe933b04834053a2ae7b6c6df6baea487e4e17e871"
+    },
+    {
+      "key": "iran-category-junior-insitu-secondary",
+      "url": "http://iranopenrobocup.ir/leagues/junior-insitu-secondary",
+      "checked_at": "2026-11-06T19:11:37.216821+00:00",
+      "status": 200,
+      "final_url": "http://iranopenrobocup.ir/leagues/junior-insitu-secondary",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 21462,
+      "sha256": "4009997921279141155753a8661a05de849bab0d516de52e2107f98dae188549"
+    },
+    {
+      "key": "iran-category-junior-it-primary",
+      "url": "http://iranopenrobocup.ir/leagues/junior-it-primary",
+      "checked_at": "2026-11-06T19:11:38.562143+00:00",
+      "status": 200,
+      "final_url": "http://iranopenrobocup.ir/leagues/junior-it-primary",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 29260,
+      "sha256": "908141d9dbcbcd057d045a1415236a9304a11c014c3d21354db98e00c1692c13"
+    },
+    {
+      "key": "iran-category-junior-it-secondary-idea",
+      "url": "http://iranopenrobocup.ir/leagues/junior-it-secondary-idea",
+      "checked_at": "2026-11-06T19:11:38.562977+00:00",
+      "status": 200,
+      "final_url": "http://iranopenrobocup.ir/leagues/junior-it-secondary-idea",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 27615,
+      "sha256": "04d4467b4766a089f18c6978406b259ce3c7b335658918cedc2aea4994f2ac1a"
+    },
+    {
+      "key": "iran-category-junior-it-secondary-product",
+      "url": "http://iranopenrobocup.ir/leagues/junior-it-secondary-product",
+      "checked_at": "2026-11-06T19:11:39.069507+00:00",
+      "status": 200,
+      "final_url": "http://iranopenrobocup.ir/leagues/junior-it-secondary-product",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 28270,
+      "sha256": "fe37050ab9fbde572be416270862d02c2f162df1d9258ff6bd5b6a34d5f310bb"
+    },
+    {
+      "key": "iran-category-junior-onstage-primary",
+      "url": "http://iranopenrobocup.ir/leagues/junior-onstage-primary",
+      "checked_at": "2026-11-06T19:11:39.070264+00:00",
+      "status": 200,
+      "final_url": "http://iranopenrobocup.ir/leagues/junior-onstage-primary",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 31575,
+      "sha256": "a67afb0352fdcab7d09e06423147ef2805a34ec014c51e67af33ec1a83055523"
+    },
+    {
+      "key": "iran-category-junior-onstage-secondary",
+      "url": "http://iranopenrobocup.ir/leagues/junior-onstage-secondary",
+      "checked_at": "2026-11-06T19:11:39.859188+00:00",
+      "status": 200,
+      "final_url": "http://iranopenrobocup.ir/leagues/junior-onstage-secondary",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 31712,
+      "sha256": "7ac11c33bd9f235576531e72480c199ca11d662a11b5305fb6f1c50d0ca16c65"
+    },
+    {
+      "key": "iran-category-junior-rescue-line-primary",
+      "url": "http://iranopenrobocup.ir/leagues/junior-rescue-line-primary",
+      "checked_at": "2026-11-06T19:11:39.905501+00:00",
+      "status": 200,
+      "final_url": "http://iranopenrobocup.ir/leagues/junior-rescue-line-primary",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 26356,
+      "sha256": "1963080e3c7e6af8f77f6e74f817c927fc367545f14b04aaa57e79bdb67feffc"
+    },
+    {
+      "key": "iran-category-junior-rescue-line-secondary",
+      "url": "http://iranopenrobocup.ir/leagues/junior-rescue-line-secondary",
+      "checked_at": "2026-11-06T19:11:40.121067+00:00",
+      "status": 200,
+      "final_url": "http://iranopenrobocup.ir/leagues/junior-rescue-line-secondary",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 29853,
+      "sha256": "761fd599401ef95123d5ae63d7919d1b4319758a69d909898fc2f03244b35ab5"
+    },
+    {
+      "key": "iran-category-junior-rescue-maze-primary",
+      "url": "http://iranopenrobocup.ir/leagues/junior-rescue-maze-primary",
+      "checked_at": "2026-11-06T19:11:40.294319+00:00",
+      "status": 200,
+      "final_url": "http://iranopenrobocup.ir/leagues/junior-rescue-maze-primary",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 24763,
+      "sha256": "60696badc1d588e763ba0fd27eee0267c8663c588be01c4cf1b69fb6c1242998"
+    },
+    {
+      "key": "iran-category-junior-rescue-maze-secondary",
+      "url": "http://iranopenrobocup.ir/leagues/junior-rescue-maze-secondary",
+      "checked_at": "2026-11-06T19:11:40.888152+00:00",
+      "status": 200,
+      "final_url": "http://iranopenrobocup.ir/leagues/junior-rescue-maze-secondary",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 46121,
+      "sha256": "355825199f1e821bba9e6225d7d30cdddeb2cdb4f3f974c530f2aa5d2b4e177c"
+    },
+    {
+      "key": "iran-category-junior-rescue-simulation-primary",
+      "url": "http://iranopenrobocup.ir/leagues/junior-rescue-simulation-primary",
+      "checked_at": "2026-11-06T19:11:41.514138+00:00",
+      "status": 200,
+      "final_url": "http://iranopenrobocup.ir/leagues/junior-rescue-simulation-primary",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 27767,
+      "sha256": "8469bf4fd645c81860199621dc170797738044f15aaba553f991e541c235e0ae"
+    },
+    {
+      "key": "iran-category-junior-rescue-simulation-secondary",
+      "url": "http://iranopenrobocup.ir/leagues/junior-rescue-simulation-secondary",
+      "checked_at": "2026-11-06T19:11:41.689371+00:00",
+      "status": 200,
+      "final_url": "http://iranopenrobocup.ir/leagues/junior-rescue-simulation-secondary",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 26304,
+      "sha256": "92e3318da3f3512f590587c450ce6b579c26158b2401a2a40e47a44daddcece5"
+    },
+    {
+      "key": "iran-category-junior-soccer-infrared",
+      "url": "http://iranopenrobocup.ir/leagues/junior-soccer-infrared",
+      "checked_at": "2026-11-06T19:11:42.923138+00:00",
+      "status": 200,
+      "final_url": "http://iranopenrobocup.ir/leagues/junior-soccer-infrared",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 56257,
+      "sha256": "94ead05ac6b69ec7fa46f157952508206248a899646669b47b76d9bc2788796a"
+    },
+    {
+      "key": "iran-category-junior-soccer-primary-2v2",
+      "url": "http://iranopenrobocup.ir/leagues/junior-soccer-primary-2v2",
+      "checked_at": "2026-11-06T19:11:42.958732+00:00",
+      "status": 200,
+      "final_url": "http://iranopenrobocup.ir/leagues/junior-soccer-primary-2v2",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 31871,
+      "sha256": "6e6151e29bf3305e055a58e5ab637796ac637d69bfb5a204ce801745711dce2e"
+    },
+    {
+      "key": "iran-category-junior-soccer-simulation-primary",
+      "url": "http://iranopenrobocup.ir/leagues/junior-soccer-simulation-primary",
+      "checked_at": "2026-11-06T19:11:43.042101+00:00",
+      "status": 200,
+      "final_url": "http://iranopenrobocup.ir/leagues/junior-soccer-simulation-primary",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 36953,
+      "sha256": "e5104b2819f5d534995bbce3ba590265bd7aa80a79876d78376a596501372414"
+    },
+    {
+      "key": "iran-category-junior-soccer-simulation-secondary",
+      "url": "http://iranopenrobocup.ir/leagues/junior-soccer-simulation-secondary",
+      "checked_at": "2026-11-06T19:11:43.340088+00:00",
+      "status": 200,
+      "final_url": "http://iranopenrobocup.ir/leagues/junior-soccer-simulation-secondary",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 37086,
+      "sha256": "3b836afc3272fb9cad49cec066fe5bdfc7af2b5ff3f8c2044c5ab9796bde4f85"
+    },
+    {
+      "key": "iran-category-junior-soccer-vision",
+      "url": "http://iranopenrobocup.ir/leagues/junior-soccer-vision",
+      "checked_at": "2026-11-06T19:11:43.469737+00:00",
+      "status": 200,
+      "final_url": "http://iranopenrobocup.ir/leagues/junior-soccer-vision",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 47453,
+      "sha256": "f4541ff01735549f20df29d8f0567e781c734dccb71d376186f63740cbc49c9f"
+    },
+    {
+      "key": "kimama-halfmoon-dates",
+      "url": "https://www.kimamahalfmoon.org/datesrates2026",
+      "checked_at": "2026-11-06T19:11:44.709834+00:00",
+      "status": 200,
+      "final_url": "https://www.kimamahalfmoon.org/datesrates2026",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 715831,
+      "sha256": "447aec32d06796c8a5ef92e441632168f45ea5959145dda8bbdd185cd7e15046"
+    },
+    {
+      "key": "kimama-halfmoon-faq",
+      "url": "https://www.kimamahalfmoon.org/faqs",
+      "checked_at": "2026-11-06T19:11:44.844385+00:00",
+      "status": 200,
+      "final_url": "https://www.kimamahalfmoon.org/faqs",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 548337,
+      "sha256": "bdc4324bffe300de6178d513642a047cebffd2d53603d6951aa96f6e28488710"
+    },
+    {
+      "key": "kimama-halfmoon-about",
+      "url": "https://www.kimamahalfmoon.org/about",
+      "checked_at": "2026-11-06T19:11:44.964570+00:00",
+      "status": 200,
+      "final_url": "https://www.kimamahalfmoon.org/about",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 655298,
+      "sha256": "f5e5b0685957805de2d16ee103bf725522cdb45fc2f1d9a5f760964763aef358"
+    },
+    {
+      "key": "iran-insitu-rules",
+      "url": "http://iranopenrobocup.ir/storage/files/5/Rules.pdf",
+      "checked_at": "2026-11-06T19:11:45.097209+00:00",
+      "status": 200,
+      "final_url": "http://iranopenrobocup.ir/storage/files/5/Rules.pdf",
+      "content_type": "application/pdf",
+      "bytes": 2737344,
+      "sha256": "bcd7a17db518b49de88cb6d6c282b2bd09bb5e6828c6569e2bfe538cfc0571fb"
+    },
+    {
+      "key": "iran-insitu-parts",
+      "url": "http://iranopenrobocup.ir/storage/files/5/Parts.pdf",
+      "checked_at": "2026-11-06T19:11:45.547268+00:00",
+      "status": 200,
+      "final_url": "http://iranopenrobocup.ir/storage/files/5/Parts.pdf",
+      "content_type": "application/pdf",
+      "bytes": 245395,
+      "sha256": "124628b6ecf7af603a685f199bb7e7948c2fb53e373ab46a945a03d7f048c7e0"
+    },
+    {
+      "key": "israel-challenge-participation-rules",
+      "url": "https://firstisrael.org.il/files/fll-challenge/sAwjIWOxj3Oqp1/%D7%97%D7%95%D7%A7%D7%99%20%D7%94%D7%A9%D7%AA%D7%AA%D7%A4%D7%95%D7%AA.docx.pdf",
+      "checked_at": "2026-11-06T19:18:06.346361+00:00",
+      "status": 200,
+      "final_url": "https://firstisrael.org.il/files/fll-challenge/sAwjIWOxj3Oqp1/%D7%97%D7%95%D7%A7%D7%99%20%D7%94%D7%A9%D7%AA%D7%AA%D7%A4%D7%95%D7%AA.docx.pdf",
+      "content_type": "application/pdf",
+      "bytes": 193463,
+      "sha256": "6d2e0892f79536ac801df5541441f7901addc45aec7eb54340dff253729af839"
+    }
+  ],
+  "all_requests_get_only": true,
+  "raw_source_bodies_private": true,
+  "PDF_relevant_pages_visually_reviewed": true,
+  "public_forms_read_only": true,
+  "no_contacts_forms_agreements_or_payments": true
+}

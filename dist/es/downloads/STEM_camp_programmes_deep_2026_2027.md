@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de base: 2026-11-06. 1488 dossiers en 90 países. Fechas de revisión de fuentes individuales en cada dossier.
+Estado de la base: 2026-11-06. 1497 fichas en 91 países. Fechas de verificación de fuentes individuales indicadas en cada ficha.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -106199,6 +106199,552 @@ Myanmar (Birmania) · LFIR campus · Yangon
 - [LFIR · current ENG course and fees](https://lfir-yangon.com/wp-content/uploads/2026/09/AES-presentation-1st-sem-2026.pdf) · 2026-11-06
 
 - [LFIR · current registration fee](https://lfir-yangon.com/wp-content/uploads/2026/09/AES-Registration-for-2026-2027.pdf) · 2026-11-06
+
+## CP1489 · Kimama · Michmoret
+
+Israel · Mevo’ot Yam · Michmoret
+
+**Se ha comprobado:** 2026-11-06
+
+**edad:** Kids: encabezado 5–12, texto indica desde 7 años; edad concreta del grupo sin establecer.
+
+**Idioma:** FAQ oficial describe expresamente vida del campamento en inglés y hebreo. Entorno bilingüe, sin garantizar clase separada en inglés. Confirmar grupo e idioma de actividad concreta.
+
+**Programa:** Internado general internacional: mar, deporte, creatividad y autonomía. Sin especialidad declarada en robótica. Tarifa 15900 ILS corresponde a tabla fechada 2027; seguro de no residente 380 ILS adicional. Red internacional con programa cultural judío / israelí, kosher y Shabbat; FAQ define campamento no religioso. Describe programa, sin confirmar normas religiosas / de nacionalidad de admisión familiar. Importe residual sin año 8200 en página del programa discrepa de tabla 2027; no se usa como tarifa nueva.
+
+**Alojamiento:** Programa con pernocta; confirmar alojamiento y grupo de edad.
+
+**Fechas / estado:** Turnos separados de 2027 publicados; plaza infantil sin confirmar.
+
+**Precio / año:** 2027 · 2027: 15900 ILS turno + 380 seguro obligatorio no residente = 16280 uno; 32560 dos, antes de viaje y suplementos desconocidos.
+
+**Incluido:** Tarifa del turno publicada. Verificar inclusiones completas, alojamiento, comidas y suplementos elegidos en factura individual.
+
+**Suplementos:** Vuelo, transporte, gastos de padres, comidas fuera de inclusiones y suplementos desconocidos aparte. Diving en Michmoret tiene suplemento separado sin publicar.
+
+**Pago:** Israel: hasta 1 abril 2027 reembolso completo; después hasta día anterior al inicio 70% dinero / 30% credit sin caducidad. Desde primer día sin reembolso. Con anticipo, condiciones contemplan por separado retención como credit y cobro del saldo. Cancelación especial del organizador puede dar solo 70%; sin aceptar acuerdos.
+
+**Matvey:** En 2027 Matvey tiene 9–10; confirmar edad / grupo, plazas y pernocta independiente.
+
+**Oscar:** En 2027 Oscar tiene 6–7. Si mínimo 7 se aplica al primer día, fecha de nacimiento debe ser anterior al turno elegido. Encabezado 5–12 no se acepta como garantía de admisión a los seis.
+
+**Motivo de selección:** Candidato a internado internacional general; más orientado a autonomía y deporte que a especialización en ingeniería.
+
+### Antes de solicitar plaza
+
+- Confirmar curso real, edad de corte, admisión extranjera, composición, idioma y plazas. Sin solicitudes ni pagos.
+
+### Kimama · Michmoret
+
+**Fechas / estado:** 2027-07-05 — 2027-07-17
+
+**Precio:** 2027: 15900 ILS turno + 380 seguro obligatorio no residente = 16280 uno; 32560 dos, antes de viaje y suplementos desconocidos.
+
+[fuente](https://www.eng.campkimama.org/dates-fees)
+
+### Kimama · Michmoret
+
+**Fechas / estado:** 2027-07-20 — 2027-08-01
+
+**Precio:** 2027: 15900 ILS turno + 380 seguro obligatorio no residente = 16280 uno; 32560 dos, antes de viaje y suplementos desconocidos.
+
+[fuente](https://www.eng.campkimama.org/dates-fees)
+
+### Kimama · Michmoret
+
+**Fechas / estado:** 2027-08-04 — 2027-08-16
+
+**Precio:** 2027: 15900 ILS turno + 380 seguro obligatorio no residente = 16280 uno; 32560 dos, antes de viaje y suplementos desconocidos.
+
+[fuente](https://www.eng.campkimama.org/dates-fees)
+
+### Fuentes
+
+- [Kimama · Michmoret](https://www.eng.campkimama.org/michmoret) · 2026-11-06
+
+- [Kimama · 2027 dates and rates](https://www.eng.campkimama.org/dates-fees) · 2026-11-06
+
+- [Kimama · bilingual FAQ](https://www.eng.campkimama.org/faq) · 2026-11-06
+
+- [Kimama · nonresident insurance](https://www.eng.campkimama.org/camp-regulations) · 2026-11-06
+
+- [Kimama · 2027 cancellation](https://www.eng.campkimama.org/cancellation-policy) · 2026-11-06
+
+## CP1490 · Kimama · Galim
+
+Israel · Kfar Galim
+
+**Se ha comprobado:** 2026-11-06
+
+**edad:** Kids: encabezado 5–12, texto indica desde 7 años; edad concreta del grupo sin establecer.
+
+**Idioma:** FAQ oficial describe expresamente vida del campamento en inglés y hebreo. Entorno bilingüe, sin garantizar clase separada en inglés. Confirmar grupo e idioma de actividad concreta.
+
+**Programa:** Internado general internacional: mar, deporte, creatividad y autonomía. Sin especialidad declarada en robótica. Tarifa 12900 ILS corresponde a tabla fechada 2027; seguro de no residente 290 ILS adicional. Red internacional con programa cultural judío / israelí, kosher y Shabbat; FAQ define campamento no religioso. Describe programa, sin confirmar normas religiosas / de nacionalidad de admisión familiar. Etiqueta SOLD OUT sin vínculo inequívoco al turno; plazas sin prometer.
+
+**Alojamiento:** Programa con pernocta; confirmar alojamiento y grupo de edad.
+
+**Fechas / estado:** Turnos separados de 2027 publicados; plaza infantil sin confirmar.
+
+**Precio / año:** 2027 · 2027: 12900 ILS turno + 290 seguro obligatorio no residente = 13190 uno; 26380 dos, antes de viaje y suplementos desconocidos.
+
+**Incluido:** Tarifa del turno publicada. Verificar inclusiones completas, alojamiento, comidas y suplementos elegidos en factura individual.
+
+**Suplementos:** Vuelo, transporte, gastos de padres, comidas fuera de inclusiones y suplementos desconocidos aparte. Diving en Michmoret tiene suplemento separado sin publicar.
+
+**Pago:** Israel: hasta 1 abril 2027 reembolso completo; después hasta día anterior al inicio 70% dinero / 30% credit sin caducidad. Desde primer día sin reembolso. Con anticipo, condiciones contemplan por separado retención como credit y cobro del saldo. Cancelación especial del organizador puede dar solo 70%; sin aceptar acuerdos.
+
+**Matvey:** En 2027 Matvey tiene 9–10; confirmar edad / grupo, plazas y pernocta independiente.
+
+**Oscar:** En 2027 Oscar tiene 6–7. Si mínimo 7 se aplica al primer día, fecha de nacimiento debe ser anterior al turno elegido. Encabezado 5–12 no se acepta como garantía de admisión a los seis.
+
+**Motivo de selección:** Candidato a internado internacional general; más orientado a autonomía y deporte que a especialización en ingeniería.
+
+### Antes de solicitar plaza
+
+- Confirmar curso real, edad de corte, admisión extranjera, composición, idioma y plazas. Sin solicitudes ni pagos.
+
+### Kimama · Galim
+
+**Fechas / estado:** 2027-07-06 — 2027-07-15
+
+**Precio:** 2027: 12900 ILS turno + 290 seguro obligatorio no residente = 13190 uno; 26380 dos, antes de viaje y suplementos desconocidos.
+
+[fuente](https://www.eng.campkimama.org/dates-fees)
+
+### Kimama · Galim
+
+**Fechas / estado:** 2027-07-18 — 2027-07-27
+
+**Precio:** 2027: 12900 ILS turno + 290 seguro obligatorio no residente = 13190 uno; 26380 dos, antes de viaje y suplementos desconocidos.
+
+[fuente](https://www.eng.campkimama.org/dates-fees)
+
+### Kimama · Galim
+
+**Fechas / estado:** 2027-08-01 — 2027-08-10
+
+**Precio:** 2027: 12900 ILS turno + 290 seguro obligatorio no residente = 13190 uno; 26380 dos, antes de viaje y suplementos desconocidos.
+
+[fuente](https://www.eng.campkimama.org/dates-fees)
+
+### Kimama · Galim
+
+**Fechas / estado:** 2027-08-12 — 2027-08-21
+
+**Precio:** 2027: 12900 ILS turno + 290 seguro obligatorio no residente = 13190 uno; 26380 dos, antes de viaje y suplementos desconocidos.
+
+[fuente](https://www.eng.campkimama.org/dates-fees)
+
+### Fuentes
+
+- [Kimama · Galim](https://www.eng.campkimama.org/galim-overnight) · 2026-11-06
+
+- [Kimama · 2027 dates and rates](https://www.eng.campkimama.org/dates-fees) · 2026-11-06
+
+- [Kimama · bilingual FAQ](https://www.eng.campkimama.org/faq) · 2026-11-06
+
+- [Kimama · nonresident insurance](https://www.eng.campkimama.org/camp-regulations) · 2026-11-06
+
+- [Kimama · 2027 cancellation](https://www.eng.campkimama.org/cancellation-policy) · 2026-11-06
+
+## CP1491 · Kimama · Hof
+
+Israel · Beit Yanai
+
+**Se ha comprobado:** 2026-11-06
+
+**edad:** Kids: encabezado 5–12, texto indica desde 7 años; edad concreta del grupo sin establecer.
+
+**Idioma:** FAQ oficial describe expresamente vida del campamento en inglés y hebreo. Entorno bilingüe, sin garantizar clase separada en inglés. Confirmar grupo e idioma de actividad concreta.
+
+**Programa:** Internado general internacional: mar, deporte, creatividad y autonomía. Sin especialidad declarada en robótica. Tarifa 8800 ILS corresponde a tabla fechada 2027; seguro de no residente 190 ILS adicional. Red internacional con programa cultural judío / israelí, kosher y Shabbat; FAQ define campamento no religioso. Describe programa, sin confirmar normas religiosas / de nacionalidad de admisión familiar. Importe residual sin año 5800 en página del programa discrepa de tabla 2027; no se usa como tarifa nueva.
+
+**Alojamiento:** Programa con pernocta; confirmar alojamiento y grupo de edad.
+
+**Fechas / estado:** Turnos separados de 2027 publicados; plaza infantil sin confirmar.
+
+**Precio / año:** 2027 · 2027: 8800 ILS turno + 190 seguro obligatorio no residente = 8990 uno; 17980 dos, antes de viaje y suplementos desconocidos.
+
+**Incluido:** Tarifa del turno publicada. Verificar inclusiones completas, alojamiento, comidas y suplementos elegidos en factura individual.
+
+**Suplementos:** Vuelo, transporte, gastos de padres, comidas fuera de inclusiones y suplementos desconocidos aparte. Diving en Michmoret tiene suplemento separado sin publicar.
+
+**Pago:** Israel: hasta 1 abril 2027 reembolso completo; después hasta día anterior al inicio 70% dinero / 30% credit sin caducidad. Desde primer día sin reembolso. Con anticipo, condiciones contemplan por separado retención como credit y cobro del saldo. Cancelación especial del organizador puede dar solo 70%; sin aceptar acuerdos.
+
+**Matvey:** En 2027 Matvey tiene 9–10; confirmar edad / grupo, plazas y pernocta independiente.
+
+**Oscar:** En 2027 Oscar tiene 6–7. Si mínimo 7 se aplica al primer día, fecha de nacimiento debe ser anterior al turno elegido. Encabezado 5–12 no se acepta como garantía de admisión a los seis.
+
+**Motivo de selección:** Candidato a primer internado corto: Hof ofrece 7 días, parte publicada de precio clara y entorno bilingüe; admisión de cada niño condicional. Selección editorial, sin ranking mundial.
+
+### Antes de solicitar plaza
+
+- Confirmar curso real, edad de corte, admisión extranjera, composición, idioma y plazas. Sin solicitudes ni pagos.
+
+### Kimama · Hof
+
+**Fechas / estado:** 2027-07-07 — 2027-07-13
+
+**Precio:** 2027: 8800 ILS turno + 190 seguro obligatorio no residente = 8990 uno; 17980 dos, antes de viaje y suplementos desconocidos.
+
+[fuente](https://www.eng.campkimama.org/dates-fees)
+
+### Kimama · Hof
+
+**Fechas / estado:** 2027-07-18 — 2027-07-24
+
+**Precio:** 2027: 8800 ILS turno + 190 seguro obligatorio no residente = 8990 uno; 17980 dos, antes de viaje y suplementos desconocidos.
+
+[fuente](https://www.eng.campkimama.org/dates-fees)
+
+### Kimama · Hof
+
+**Fechas / estado:** 2027-07-27 — 2027-08-02
+
+**Precio:** 2027: 8800 ILS turno + 190 seguro obligatorio no residente = 8990 uno; 17980 dos, antes de viaje y suplementos desconocidos.
+
+[fuente](https://www.eng.campkimama.org/dates-fees)
+
+### Kimama · Hof
+
+**Fechas / estado:** 2027-08-04 — 2027-08-10
+
+**Precio:** 2027: 8800 ILS turno + 190 seguro obligatorio no residente = 8990 uno; 17980 dos, antes de viaje y suplementos desconocidos.
+
+[fuente](https://www.eng.campkimama.org/dates-fees)
+
+### Fuentes
+
+- [Kimama · Hof](https://www.eng.campkimama.org/hof) · 2026-11-06
+
+- [Kimama · 2027 dates and rates](https://www.eng.campkimama.org/dates-fees) · 2026-11-06
+
+- [Kimama · bilingual FAQ](https://www.eng.campkimama.org/faq) · 2026-11-06
+
+- [Kimama · nonresident insurance](https://www.eng.campkimama.org/camp-regulations) · 2026-11-06
+
+- [Kimama · 2027 cancellation](https://www.eng.campkimama.org/cancellation-policy) · 2026-11-06
+
+## CP1492 · Kimama · TLV Day Camp
+
+Israel · Riverside Complex · Park HaYarkon · Tel Aviv
+
+**Se ha comprobado:** 2026-11-06
+
+**edad:** Kids: encabezado 5–12, texto indica desde 7 años; edad concreta del grupo sin establecer.
+
+**Idioma:** FAQ oficial describe expresamente vida del campamento en inglés y hebreo. Entorno bilingüe, sin garantizar clase separada en inglés. Confirmar grupo e idioma de actividad concreta.
+
+**Programa:** Programa diurno 08:30–16:00; seis semanas separadas de julio / agosto 2027. Track especial de vela dirigido a cursos 5–6, sin aplicarlo automáticamente a pequeños. Tabla de red mezcla encabezados DAY CAMP BEIT YANAI y TEL AVIV; ILS 3100 / 1900 / transporte 490 no se asignan con certeza a TLV. Se requiere factura separada. Padre aporta seguro para no residente de campamento diurno.
+
+**Alojamiento:** Programa diurno; alojamiento familiar aparte.
+
+**Fechas / estado:** Turnos separados de 2027 publicados; plaza infantil sin confirmar.
+
+**Precio / año:** sin establecer · Plazas nuevas y tarifa final sin confirmar; precio desconocido no equivale a cero.
+
+**Suplementos:** Vuelo, transporte, gastos de padres, comidas fuera de inclusiones y suplementos desconocidos aparte.
+
+**Pago:** Israel: hasta 1 abril 2027 reembolso completo; después hasta día anterior al inicio 70% dinero / 30% credit sin caducidad. Desde primer día sin reembolso. Con anticipo, condiciones contemplan por separado retención como credit y cobro del saldo. Cancelación especial del organizador puede dar solo 70%; sin aceptar acuerdos.
+
+**Matvey:** Confirmar curso real, edad de corte, admisión extranjera, composición, idioma y plazas. Sin solicitudes ni pagos.
+
+**Oscar:** Confirmar curso real, edad de corte, admisión extranjera, composición, idioma y plazas. Sin solicitudes ni pagos.
+
+**Motivo de selección:** Exhibición lectiva, medalla de participante, puesto nacional y título mundial son resultados distintos.
+
+### Antes de solicitar plaza
+
+- Confirmar curso real, edad de corte, admisión extranjera, composición, idioma y plazas. Sin solicitudes ni pagos.
+
+### Kimama · TLV Day Camp
+
+**Fechas / estado:** 2027-07-04 — 2027-07-08
+
+**Precio:** Plazas nuevas y tarifa final sin confirmar; precio desconocido no equivale a cero.
+
+[fuente](https://www.eng.campkimama.org/tlv-day-camp)
+
+### Kimama · TLV Day Camp
+
+**Fechas / estado:** 2027-07-11 — 2027-07-15
+
+**Precio:** Plazas nuevas y tarifa final sin confirmar; precio desconocido no equivale a cero.
+
+[fuente](https://www.eng.campkimama.org/tlv-day-camp)
+
+### Kimama · TLV Day Camp
+
+**Fechas / estado:** 2027-07-18 — 2027-07-22
+
+**Precio:** Plazas nuevas y tarifa final sin confirmar; precio desconocido no equivale a cero.
+
+[fuente](https://www.eng.campkimama.org/tlv-day-camp)
+
+### Kimama · TLV Day Camp
+
+**Fechas / estado:** 2027-07-25 — 2027-07-29
+
+**Precio:** Plazas nuevas y tarifa final sin confirmar; precio desconocido no equivale a cero.
+
+[fuente](https://www.eng.campkimama.org/tlv-day-camp)
+
+### Kimama · TLV Day Camp
+
+**Fechas / estado:** 2027-08-01 — 2027-08-05
+
+**Precio:** Plazas nuevas y tarifa final sin confirmar; precio desconocido no equivale a cero.
+
+[fuente](https://www.eng.campkimama.org/tlv-day-camp)
+
+### Kimama · TLV Day Camp
+
+**Fechas / estado:** 2027-08-08 — 2027-08-12
+
+**Precio:** Plazas nuevas y tarifa final sin confirmar; precio desconocido no equivale a cero.
+
+[fuente](https://www.eng.campkimama.org/tlv-day-camp)
+
+### Fuentes
+
+- [Kimama · TLV programme and six weeks](https://www.eng.campkimama.org/tlv-day-camp) · 2026-11-06
+
+- [Kimama · bilingual FAQ](https://www.eng.campkimama.org/faq) · 2026-11-06
+
+- [Kimama · day camper insurance](https://www.eng.campkimama.org/camp-regulations) · 2026-11-06
+
+## CP1493 · Kimama · Barcelona
+
+España · Barcelona / base de montaña sin confirmar
+
+**Se ha comprobado:** 2026-11-06
+
+**edad:** 7–18
+
+**Idioma:** FAQ oficial describe expresamente vida del campamento en inglés y hebreo. Entorno bilingüe, sin garantizar clase separada en inglés. Confirmar grupo e idioma de actividad concreta.
+
+**Programa:** 19–27 agosto 2027, ILS 15900, campamento general de aventura 7–18. Tabla da 9 días, itinerario antiguo 10. FAQ sitúa erróneamente Dolomites en frontera Spain / France / Andorra: base montañosa y coordenadas sin establecer, sin asignar Italia. Alojamiento en dos lugares / ciudad según descripción; vuelo, traslados, seguro e inclusiones precisas requieren factura. Español sin confirmar por mera ubicación.
+
+**Alojamiento:** Programa con pernocta; confirmar alojamiento y grupo de edad.
+
+**Fechas / estado:** Turnos separados de 2027 publicados; plaza infantil sin confirmar.
+
+**Precio / año:** 2027 · ILS 15900
+
+**Incluido:** Tarifa del turno publicada. Verificar inclusiones completas, alojamiento, comidas y suplementos elegidos en factura individual.
+
+**Suplementos:** Vuelo, transporte, gastos de padres, comidas fuera de inclusiones y suplementos desconocidos aparte.
+
+**Pago:** Europa: hasta dos semanas antes del vuelo 70% reembolso / 30% credit; después condiciones del seguro. Confirmar factura completa y fecha concreta de vuelo.
+
+**Matvey:** En 2027 Matvey tiene 9–10; confirmar edad / grupo, plazas y pernocta independiente.
+
+**Oscar:** En 2027 Oscar tiene 6–7. Si mínimo 7 se aplica al primer día, fecha de nacimiento debe ser anterior al turno elegido. Encabezado 5–12 no se acepta como garantía de admisión a los seis.
+
+**Motivo de selección:** Exhibición lectiva, medalla de participante, puesto nacional y título mundial son resultados distintos.
+
+### Antes de solicitar plaza
+
+- Confirmar curso real, edad de corte, admisión extranjera, composición, idioma y plazas. Sin solicitudes ni pagos.
+
+### Kimama · Barcelona
+
+**Fechas / estado:** 2027-08-19 — 2027-08-27
+
+**Precio:** ILS 15900
+
+[fuente](https://www.eng.campkimama.org/dates-fees)
+
+### Fuentes
+
+- [Kimama · Barcelona](https://www.eng.campkimama.org/barcelona) · 2026-11-06
+
+- [Kimama · dated 2027 price](https://www.eng.campkimama.org/dates-fees) · 2026-11-06
+
+- [Kimama · Barcelona age and bilingual FAQ](https://www.eng.campkimama.org/faq) · 2026-11-06
+
+- [Kimama · Europe cancellation](https://www.eng.campkimama.org/cancellation-policy) · 2026-11-06
+
+## CP1494 · Kimama · Halfmoon Sleepaway
+
+Estados Unidos · Camp Half Moon · Great Barrington · Massachusetts
+
+**Se ha comprobado:** 2026-11-06
+
+**edad:** Confirmar edad de turno largo principal
+
+**Idioma:** FAQ oficial describe expresamente vida del campamento en inglés y hebreo. Entorno bilingüe, sin garantizar clase separada en inglés. Confirmar grupo e idioma de actividad concreta.
+
+**Programa:** Tabla de red fechada 2027 confirma tres turnos principales: 22 junio–15 julio USD 7950, 20 julio–12 agosto USD 7950, 16–25 agosto USD 3500. Página propia mezcla bloques 2026 / 2027, pero tres fechas e importes coinciden con 2027 explícito de red. USD 1950 adicionales por vuelo desde Israel / seguro no se asignan como cargo obligatorio a familia de CR / MX. Confirmar edad de turno largo y grupo lingüístico elegido.
+
+**Alojamiento:** Programa con pernocta; confirmar alojamiento y grupo de edad.
+
+**Fechas / estado:** Turnos separados de 2027 publicados; plaza infantil sin confirmar.
+
+**Precio / año:** 2027 · USD 7950 / 7950 / 3500 según turno; sin tarifa semanal uniforme.
+
+**Incluido:** Tarifa del turno publicada. Verificar inclusiones completas, alojamiento, comidas y suplementos elegidos en factura individual.
+
+**Suplementos:** Vuelo, transporte, gastos de padres, comidas fuera de inclusiones y suplementos desconocidos aparte.
+
+**Pago:** USA overnight: reembolso completo hasta 1 marzo 2027; hasta 15 junio reembolso 90%; después de 16 junio sin reembolso según norma publicada.
+
+**Matvey:** Confirmar curso real, edad de corte, admisión extranjera, composición, idioma y plazas. Sin solicitudes ni pagos.
+
+**Oscar:** Confirmar curso real, edad de corte, admisión extranjera, composición, idioma y plazas. Sin solicitudes ni pagos.
+
+**Motivo de selección:** Exhibición lectiva, medalla de participante, puesto nacional y título mundial son resultados distintos.
+
+### Antes de solicitar plaza
+
+- Confirmar curso real, edad de corte, admisión extranjera, composición, idioma y plazas. Sin solicitudes ni pagos.
+
+### Kimama · Halfmoon Sleepaway
+
+**Fechas / estado:** 2027-06-22 — 2027-07-15
+
+**Precio:** USD 7950
+
+[fuente](https://www.eng.campkimama.org/dates-fees)
+
+### Kimama · Halfmoon Sleepaway
+
+**Fechas / estado:** 2027-07-20 — 2027-08-12
+
+**Precio:** USD 7950
+
+[fuente](https://www.eng.campkimama.org/dates-fees)
+
+### Kimama · Halfmoon Sleepaway
+
+**Fechas / estado:** 2027-08-16 — 2027-08-25
+
+**Precio:** USD 3500
+
+[fuente](https://www.eng.campkimama.org/dates-fees)
+
+### Fuentes
+
+- [Kimama · dated 2027 Halfmoon sessions](https://www.eng.campkimama.org/dates-fees) · 2026-11-06
+
+- [Halfmoon · own mixed-year pricing](https://www.kimamahalfmoon.org/datesrates2026) · 2026-11-06
+
+- [Kimama · bilingual FAQ](https://www.eng.campkimama.org/faq) · 2026-11-06
+
+- [Kimama · USA cancellation](https://www.eng.campkimama.org/cancellation-policy) · 2026-11-06
+
+## CP1495 · Kimama · Halfmoon MiniMoon
+
+Estados Unidos · Camp Half Moon · Great Barrington · Massachusetts
+
+**Se ha comprobado:** 2026-11-06
+
+**edad:** Al entrar, cursos 1–4
+
+**Idioma:** FAQ oficial describe expresamente vida del campamento en inglés y hebreo. Entorno bilingüe, sin garantizar clase separada en inglés. Confirmar grupo e idioma de actividad concreta.
+
+**Programa:** MiniMoon de seis días para quienes ingresan en cursos 1–4, USD 1800. Página mixta indica 22–27 junio y 29 junio–4 julio sin año inequívoco del bloque. Sin inventar fechas 2027; confirmar cursos reales de ambos niños, temporada, plazas y suplementos. Dos turnos largos de red no prueban año del mini-turno.
+
+**Alojamiento:** Programa con pernocta; confirmar alojamiento y grupo de edad.
+
+**Fechas / estado:** MiniMoon de seis días para quienes ingresan en cursos 1–4, USD 1800. Página mixta indica 22–27 junio y 29 junio–4 julio sin año inequívoco del bloque. Sin inventar fechas 2027; confirmar cursos reales de ambos niños, temporada, plazas y suplementos. Dos turnos largos de red no prueban año del mini-turno.
+
+**Precio / año:** sin establecer · USD 1800; año del bloque mini sin establecer.
+
+**Suplementos:** Vuelo, transporte, gastos de padres, comidas fuera de inclusiones y suplementos desconocidos aparte.
+
+**Pago:** Plazas nuevas y tarifa final sin confirmar; precio desconocido no equivale a cero.
+
+**Matvey:** Confirmar curso real, edad de corte, admisión extranjera, composición, idioma y plazas. Sin solicitudes ni pagos.
+
+**Oscar:** Confirmar curso real, edad de corte, admisión extranjera, composición, idioma y plazas. Sin solicitudes ni pagos.
+
+**Motivo de selección:** Exhibición lectiva, medalla de participante, puesto nacional y título mundial son resultados distintos.
+
+### Antes de solicitar plaza
+
+- Confirmar curso real, edad de corte, admisión extranjera, composición, idioma y plazas. Sin solicitudes ni pagos.
+
+### Fuentes
+
+- [Halfmoon · MiniMoon grades and price](https://www.kimamahalfmoon.org/datesrates2026) · 2026-11-06
+
+- [Kimama · bilingual FAQ](https://www.eng.campkimama.org/faq) · 2026-11-06
+
+## CP1496 · Kimama · Halfmoon Day Camp
+
+Estados Unidos · Camp Half Moon · Great Barrington · Massachusetts
+
+**Se ha comprobado:** 2026-11-06
+
+**edad:** 2027: grupos 3–4 / 5–6 / 7+
+
+**Idioma:** FAQ oficial describe expresamente vida del campamento en inglés y hebreo. Entorno bilingüe, sin garantizar clase separada en inglés. Confirmar grupo e idioma de actividad concreta.
+
+**Programa:** Bloque separado 2027: full day 08:00–16:30 USD 665 por semana; half day 08:00–12:00 USD 455 para 3–6. Matvey necesita full day, Oscar en 2027 tiene 6–7 y grupo correspondiente. Semana 7 impresa como 7 agosto–1 agosto, otras fechas también requieren comprobación: sin variantes precisas de calendario. Sibling 5% en bloque 2027 no combina con otros descuentos, en 2026 dice lo contrario. Se desconoce a quién se aplica 5%; descuento sin calcular automáticamente. Verificar inclusiones full-day, traslado y tarifa local.
+
+**Alojamiento:** Programa diurno; alojamiento familiar aparte.
+
+**Fechas / estado:** Bloque separado 2027: full day 08:00–16:30 USD 665 por semana; half day 08:00–12:00 USD 455 para 3–6. Matvey necesita full day, Oscar en 2027 tiene 6–7 y grupo correspondiente. Semana 7 impresa como 7 agosto–1 agosto, otras fechas también requieren comprobación: sin variantes precisas de calendario. Sibling 5% en bloque 2027 no combina con otros descuentos, en 2026 dice lo contrario. Se desconoce a quién se aplica 5%; descuento sin calcular automáticamente. Verificar inclusiones full-day, traslado y tarifa local.
+
+**Precio / año:** 2027 · USD 665 full day / niño / semana; base dos 1330 sin descuento sibling automático.
+
+**Suplementos:** Vuelo, transporte, gastos de padres, comidas fuera de inclusiones y suplementos desconocidos aparte.
+
+**Pago:** Bloque 2027 exige mínimo 15% al tramitar; pagos automáticos posteriores según plan. Confirmar cancelación diurna e importe completo.
+
+**Matvey:** Confirmar curso real, edad de corte, admisión extranjera, composición, idioma y plazas. Sin solicitudes ni pagos.
+
+**Oscar:** Confirmar curso real, edad de corte, admisión extranjera, composición, idioma y plazas. Sin solicitudes ni pagos.
+
+**Motivo de selección:** Exhibición lectiva, medalla de participante, puesto nacional y título mundial son resultados distintos.
+
+### Antes de solicitar plaza
+
+- Confirmar curso real, edad de corte, admisión extranjera, composición, idioma y plazas. Sin solicitudes ni pagos.
+
+### Fuentes
+
+- [Halfmoon · explicit 2027 day block](https://www.kimamahalfmoon.org/datesrates2026) · 2026-11-06
+
+- [Kimama · bilingual FAQ](https://www.eng.campkimama.org/faq) · 2026-11-06
+
+## CP1497 · Technion · Cyber Camp · archive 2026
+
+Israel · Technion · Canada Building · Haifa
+
+**Se ha comprobado:** 2026-11-06
+
+**edad:** Cursos 10–12; prueba y buen inglés
+
+**Idioma:** Páginas / materiales ingleses no prueban enseñanza o evaluación en inglés. Confirmar idioma del grupo elegido.
+
+**Programa:** Archivo 12–23 julio 2026, domingo–jueves 09:00–17:00, 80 horas académicas, cursos 10–12. Exige buen inglés y aptitude test, sin prometer enseñanza EN. Temas: sistemas, programación, malware, IoT. Programa diurno; sin fechas / precio nuevos 2027, ambos niños aún demasiado pequeños.
+
+**Alojamiento:** Programa diurno; alojamiento familiar aparte.
+
+**Fechas / estado:** Archivo 12–23 julio 2026, domingo–jueves 09:00–17:00, 80 horas académicas, cursos 10–12. Exige buen inglés y aptitude test, sin prometer enseñanza EN. Temas: sistemas, programación, malware, IoT. Programa diurno; sin fechas / precio nuevos 2027, ambos niños aún demasiado pequeños.
+
+**Precio / año:** sin establecer · Plazas nuevas y tarifa final sin confirmar; precio desconocido no equivale a cero.
+
+**Suplementos:** Vuelo, transporte, gastos de padres, comidas fuera de inclusiones y suplementos desconocidos aparte.
+
+**Pago:** Plazas nuevas y tarifa final sin confirmar; precio desconocido no equivale a cero.
+
+**Matvey:** Archivo 12–23 julio 2026, domingo–jueves 09:00–17:00, 80 horas académicas, cursos 10–12. Exige buen inglés y aptitude test, sin prometer enseñanza EN. Temas: sistemas, programación, malware, IoT. Programa diurno; sin fechas / precio nuevos 2027, ambos niños aún demasiado pequeños.
+
+**Oscar:** Archivo 12–23 julio 2026, domingo–jueves 09:00–17:00, 80 horas académicas, cursos 10–12. Exige buen inglés y aptitude test, sin prometer enseñanza EN. Temas: sistemas, programación, malware, IoT. Programa diurno; sin fechas / precio nuevos 2027, ambos niños aún demasiado pequeños.
+
+**Motivo de selección:** Exhibición lectiva, medalla de participante, puesto nacional y título mundial son resultados distintos.
+
+### Antes de solicitar plaza
+
+- Confirmar curso real, edad de corte, admisión extranjera, composición, idioma y plazas. Sin solicitudes ni pagos.
+
+### Fuentes
+
+- [Technion · Cyber Camp official programme](https://cont-edu.technion.ac.il/programs/cyber/cyber-camp-2/) · 2026-11-06
 
 ## ~ Comprobaciones no cerradas
 
