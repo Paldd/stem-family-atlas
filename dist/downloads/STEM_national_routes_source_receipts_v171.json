@@ -1,0 +1,472 @@
+{
+  "version": 171,
+  "checked": "2026-11-05",
+  "request_count": 42,
+  "hash_verified": 40,
+  "failures": [
+    {
+      "key": "partner-KAZ-wro-all_divisions_unconfirmed",
+      "url": "https://robotics.nis.edu.kz/",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+    },
+    {
+      "key": "partner-KAZ-fll-all_divisions_unconfirmed",
+      "url": "https://www.firstrobotics.kz/ru/",
+      "error": "HTTP Error 404: Not Found"
+    }
+  ],
+  "requests": [
+    {
+      "key": "partner-MEX-wro-all_divisions_unconfirmed",
+      "url": "https://wromexico.org/",
+      "final_url": "https://wromexico.org/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 38542,
+      "sha256": "45a17b1bf79dc1586e6ed3984ff9c28b587da0d5646d027304b17f5e9c70a2e8",
+      "file": "partner-MEX-wro-all_divisions_unconfirmed.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "partner-MEX-fll-all_divisions_unconfirmed",
+      "url": "http://firstlegoleagues.mx/",
+      "final_url": "https://www.firstlegoleagues.mx/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 52700,
+      "sha256": "6cc21df3b72d2ef3cdb7360a458989b12e9f1a9e40d3ef2ee2b1726a18f63065",
+      "file": "partner-MEX-fll-all_divisions_unconfirmed.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "partner-NPL-wro-all_divisions_unconfirmed",
+      "url": "https://dursikshya.edu.np/",
+      "final_url": "https://dursikshya.edu.np/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 332936,
+      "sha256": "2e734f520e39dbc4735ea8a6b69aa9e4b087de4d51f8ce169b2009054a0f00cc",
+      "file": "partner-NPL-wro-all_divisions_unconfirmed.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "partner-HND-wro-all_divisions_unconfirmed",
+      "url": "http://www.wrohonduras.org",
+      "final_url": "https://wrohonduras.org/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 40621,
+      "sha256": "0c26d0a95accfd6073c6e46fb1bbcb4c03b8d3c6207fb4d2ab050a3d9fd17362",
+      "file": "partner-HND-wro-all_divisions_unconfirmed.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "partner-HND-fll-all_divisions_unconfirmed",
+      "url": "https://www.firsthonduras.org/",
+      "final_url": "https://firsthonduras.org/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 32477,
+      "sha256": "18f695075ba58b43dd24073e6fd4e67428b9149b23d3a42f75b32d42d46730fc",
+      "file": "partner-HND-fll-all_divisions_unconfirmed.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "partner-CHE-wro-all_divisions_unconfirmed",
+      "url": "https://wro.swiss/",
+      "final_url": "https://wro.swiss/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 140951,
+      "sha256": "b353f78c20ebb731b8bc63f339d87543f298e4027e19aef4116fa25d9ba07576",
+      "file": "partner-CHE-wro-all_divisions_unconfirmed.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "partner-CHE-fll-all_divisions_unconfirmed",
+      "url": "https://www.first-lego-league.org/de/",
+      "final_url": "https://www.first-lego-league.org/de/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 51396,
+      "sha256": "7a6270876b66652143cd10ed79c34e414acda37ce2838d5f22e6c4166b10e46f",
+      "file": "partner-CHE-fll-all_divisions_unconfirmed.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "partner-ESP-wro-all_divisions_unconfirmed",
+      "url": "https://www.wroboto.es/",
+      "final_url": "https://www.wroboto.es/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 156266,
+      "sha256": "36b017e6a01a9034eae17bf747fcb5369f38b7169c757a91cc4e8a0b214b8020",
+      "file": "partner-ESP-wro-all_divisions_unconfirmed.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "partner-ESP-fll-all_divisions_unconfirmed",
+      "url": "https://www.firstlegoleague.soy/",
+      "final_url": "https://firstlegoleague.soy/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 335105,
+      "sha256": "021940e886c563261ab4e9bbc6dd52531f6354392534ebd783148bd6eb2d074b",
+      "file": "partner-ESP-fll-all_divisions_unconfirmed.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "partner-FRA-wro-all_divisions_unconfirmed",
+      "url": "https://www.wrofrance.fr/",
+      "final_url": "https://www.wrofrance.fr/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 41461,
+      "sha256": "f0421a94a30beb7155d77b03dffff42e84388225e2caf34d420f05dfa0b4d5b8",
+      "file": "partner-FRA-wro-all_divisions_unconfirmed.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "partner-FRA-fll-discover",
+      "url": "https://www.educabot.fr/",
+      "final_url": "https://educabot.fr/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 269709,
+      "sha256": "b254137ce57968e6703c2abe3e2e44ca71c8e23e7fd45fba1bce921398b69a76",
+      "file": "partner-FRA-fll-discover.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "partner-FRA-fll-challenge",
+      "url": "http://firstlegoleaguefrance.fr",
+      "final_url": "https://firstlegoleaguefrance.fr/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 144081,
+      "sha256": "84c8f048b41eaf6c9db718f923b35e24316ebc4ebd1d02821a18d6b410051e3d",
+      "file": "partner-FRA-fll-challenge.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "partner-BRA-wro-all_divisions_unconfirmed",
+      "url": "https://www.wrobr.com.br/",
+      "final_url": "https://lp.robomind.com.br/wro-brasil/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 245182,
+      "sha256": "a0bfff093266c321d0a006133f3609aa3503b5ed09a55220b4ddc5b9b4ec2be7",
+      "file": "partner-BRA-wro-all_divisions_unconfirmed.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "partner-BRA-fll-discover",
+      "url": "https://www.firstlegoleague.com.br/",
+      "final_url": "https://www.firstlegoleague.com.br/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1382568,
+      "sha256": "b1b00a7a90e5dc466d731ab3b9b4e9c88f4587cb4a1312352aafcaead9549e19",
+      "file": "partner-BRA-fll-discover.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "partner-BRA-fll-explore",
+      "url": "https://www.firstlegoleague.com.br/first-lego-league-explore",
+      "final_url": "https://www.firstlegoleague.com.br/first-lego-league-explore",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 983115,
+      "sha256": "21c009e259aecc362545c53613f43d9a1dc0e85948d0b89717b3bf9bb11cf321",
+      "file": "partner-BRA-fll-explore.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "partner-BRA-fll-challenge",
+      "url": "http://sesi.org.br/robotica",
+      "final_url": "https://www.sesi.portaldaindustria.com.br/para-voce/robotica",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1333853,
+      "sha256": "6c58eda835650186b7f30dca76f656bd2d4c26a776a18cebea104f034306ac61",
+      "file": "partner-BRA-fll-challenge.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "partner-JPN-wro-all_divisions_unconfirmed",
+      "url": "https://www.wroj.org",
+      "final_url": "https://www.wroj.org",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 47637,
+      "sha256": "d3163a8509e9dc752a4043863b72a97cfb9385d1e0f3c593f08eae37fea0feae",
+      "file": "partner-JPN-wro-all_divisions_unconfirmed.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "partner-JPN-fll-all_divisions_unconfirmed",
+      "url": "http://firstjapan.jp",
+      "final_url": "https://firstjapan.jp/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 36165,
+      "sha256": "89e15aefef828db07274f3df544974badfb7cb3cc485e5d13cb397e3599a3fd6",
+      "file": "partner-JPN-fll-all_divisions_unconfirmed.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "partner-TWN-fll-all_divisions_unconfirmed",
+      "url": "http://era.org.tw/main/category/new/news-fll",
+      "final_url": "https://www.era.org.tw/main/category/new/news-fll/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 369043,
+      "sha256": "508333361e1bd50794d60ecccab9753f3252effa4d69f6872d17cb1620857658",
+      "file": "partner-TWN-fll-all_divisions_unconfirmed.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "partner-KOR-wro-all_divisions_unconfirmed",
+      "url": "http://www.wrokorea.kr",
+      "final_url": "https://www.wrokorea.kr/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 493957,
+      "sha256": "d9213197a20570e1fa7d60e7ed53e9b7c290a570631c5bbe2e7e47d177bf8fe8",
+      "file": "partner-KOR-wro-all_divisions_unconfirmed.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "partner-KOR-fll-all_divisions_unconfirmed",
+      "url": "https://firstlegoleague.or.kr/",
+      "final_url": "https://firstlegoleague.or.kr/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 467655,
+      "sha256": "5d18eaa1162275d603a3920edf7e8b3471a3a42af74e146930a13fd09fdd1d97",
+      "file": "partner-KOR-fll-all_divisions_unconfirmed.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "partner-SGP-wro-all_divisions_unconfirmed",
+      "url": "https://spacefaculty.asia/world-robot-olympiad/",
+      "final_url": "https://spacefaculty.asia/world-robot-olympiad/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 448972,
+      "sha256": "3bd9ec9ecbe1a665f161de336c16f66cb178569cf7a3f281b5a3669ea8502e40",
+      "file": "partner-SGP-wro-all_divisions_unconfirmed.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "partner-SGP-fll-all_divisions_unconfirmed",
+      "url": "https://www.firstlegoleague.sg/",
+      "final_url": "https://www.firstlegoleague.sg/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 223454,
+      "sha256": "72f1f84efc6d6229762a3a1779bd114830c179ed516257fbadf95ca8099d8515",
+      "file": "partner-SGP-fll-all_divisions_unconfirmed.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "partner-CHN-wro-all_divisions_unconfirmed",
+      "url": "https://semia.com/",
+      "final_url": "https://semia.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 24283,
+      "sha256": "7a6fdbbcb0e34dcf3a7ac135fd372b603357ddc87fe52b8181cb0292f66e6cff",
+      "file": "partner-CHN-wro-all_divisions_unconfirmed.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "partner-CHN-fll-all_divisions_unconfirmed",
+      "url": "https://education.lego.com/zh-cn",
+      "final_url": "https://legoeducation.cn/zh-cn",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 115530,
+      "sha256": "d375d439b62529d321e516f39e5ee8eed9dd5829567c439cc6b21c2c0aa69676",
+      "file": "partner-CHN-fll-all_divisions_unconfirmed.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "partner-CAN-wro-all_divisions_unconfirmed",
+      "url": "http://www.zone01.ca",
+      "final_url": "https://www.zone01.ca/index.php/fr-ca/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 50476,
+      "sha256": "a85bf2f3bac24976d19cf3c6f71ae360fe622a80ae4712caac9afefcb74bebd8",
+      "file": "partner-CAN-wro-all_divisions_unconfirmed.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "partner-CAN-fll-all_divisions_unconfirmed",
+      "url": "https://www.firstinspires.org/find-local-support?hsLang=en",
+      "final_url": "https://www.firstinspires.org/find-local-support?hsLang=en",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 115560,
+      "sha256": "7e07094340a17e7a64e249fc33d2f6e6fc19fcdbff711da0628da81b4023dbaa",
+      "file": "partner-CAN-fll-all_divisions_unconfirmed.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "partner-USA-wro-all_divisions_unconfirmed",
+      "url": "https://www.uselyouthrobotics.com",
+      "final_url": "https://www.uselyouthrobotics.com",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 241846,
+      "sha256": "4b6a6c22e5ee8568040e88c692abc5b447b24a55158f76788f42dab5a80c7fc4",
+      "file": "partner-USA-wro-all_divisions_unconfirmed.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "partner-PAN-wro-all_divisions_unconfirmed",
+      "url": "https://www.fundesteam.org/",
+      "final_url": "https://www.fundesteam.org/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 37267,
+      "sha256": "9d875ad431d60c0ea85166d27e46589bc25f6ffa8a8c81eac486c7afa7cc17e0",
+      "file": "partner-PAN-wro-all_divisions_unconfirmed.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "partner-KAZ-wro-all_divisions_unconfirmed",
+      "url": "https://robotics.nis.edu.kz/",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+    },
+    {
+      "key": "partner-KAZ-fll-all_divisions_unconfirmed",
+      "url": "https://www.firstrobotics.kz/ru/",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "recf-criteria",
+      "url": "https://kb.roboticseducation.org/hc/en-us/articles/5474199602071-Qualifying-Criteria-for-RECF-Robotics-Competition-Programs",
+      "final_url": "https://kb.roboticseducation.org/hc/en-us/articles/5474199602071-Qualifying-Criteria-for-RECF-Robotics-Competition-Programs",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 76799,
+      "sha256": "86cf7b86af4fa0c6f5b36ca05e0f727d9f133cc9f1e556d22cadf03bba038beb",
+      "file": "recf-criteria.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "vex-coach",
+      "url": "https://kb.vex.com/hc/en-us/articles/48968257880596-VEX-Coaches-Start-Here",
+      "final_url": "https://kb.vex.com/hc/en-us/articles/48968257880596-VEX-Coaches-Start-Here",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 75419,
+      "sha256": "a4ba1f59ac2126688f5504eb9fa55a6621300f4a6742959751fe1c52c4512b85",
+      "file": "vex-coach.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "robotevents",
+      "url": "https://www.robotevents.com/",
+      "final_url": "https://www.robotevents.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 7747,
+      "sha256": "b83634c56b3741a4e86b7a97620bad403b96e77ac997f0e952e12281ab2c9f14",
+      "file": "robotevents.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "wro-directory",
+      "url": "https://wro-association.org/about-wro/association/member-countries/",
+      "final_url": "https://wro-association.org/about-wro/association/member-countries/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 165399,
+      "sha256": "fd1f0b2e2c577dcbbf65a32c580e23c28e9872bc8964d5fd2781c92ccb3ba0ae",
+      "file": "wro-directory.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "wro-join",
+      "url": "https://wro-association.org/join-support/join-the-competition/",
+      "final_url": "https://wro-association.org/join-support/join-the-competition/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 163802,
+      "sha256": "5983675a99ee3ac64fab715b2770fc7a180606bca17db4158e21585022995525",
+      "file": "wro-join.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "first-partners",
+      "url": "https://www.firstinspires.org/find-local-support",
+      "final_url": "https://www.firstinspires.org/find-local-support",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 115560,
+      "sha256": "7e07094340a17e7a64e249fc33d2f6e6fc19fcdbff711da0628da81b4023dbaa",
+      "file": "first-partners.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "recf-support",
+      "url": "https://kb.roboticseducation.org/hc/en-us/articles/41060488433047-RECF-Support-Contacts",
+      "final_url": "https://kb.roboticseducation.org/hc/en-us/articles/41060488433047-RECF-Support-Contacts",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 37566,
+      "sha256": "efa3b001f2443e2e53c2c83be73133692d28ebbe9611b2de10a7502fb0795032",
+      "file": "recf-support.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "wro-suspension",
+      "url": "https://wro-association.org/important-message-from-wro-association-ltd-on-the-situation-in-ukraine/",
+      "final_url": "https://wro-association.org/important-message-from-wro-association-ltd-on-the-situation-in-ukraine/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 178315,
+      "sha256": "d83ad4f6f88b5619ece8718cdad5d849043da8880bf874041e4d6dabd2d55f10",
+      "file": "wro-suspension.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "wro-data",
+      "url": "https://www.wro.events/countries/json",
+      "final_url": "https://www.wro.events/countries/json",
+      "status": 200,
+      "mime": "application/json",
+      "bytes": 20128,
+      "sha256": "bae07ee4984418ae5fe173f672de18d146e0adfd12ce992ec04df201cfde9b49",
+      "file": "wro-data.json",
+      "response_hash_verified": true
+    },
+    {
+      "key": "first-local-js",
+      "url": "https://www.firstinspires.org/hubfs/hub_generated/module_assets/1/195760998425/1791385981482/module_u4m-local-support.min.js",
+      "final_url": "https://www.firstinspires.org/hubfs/hub_generated/module_assets/1/195760998425/1791385981482/module_u4m-local-support.min.js",
+      "status": 200,
+      "mime": "text/javascript",
+      "bytes": 15257,
+      "sha256": "7ea9e42f191890fb570110bd813abb88064ca565e3a4746b722adc733202bf5a",
+      "file": "first-local-js.js",
+      "response_hash_verified": true
+    },
+    {
+      "key": "fll-global",
+      "url": "https://firstlegoleague.org/",
+      "final_url": "https://firstlegoleague.org/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 321915,
+      "sha256": "108d9739995c0dfdb71204cc657f50286580a12ffe03d2ff4dbf1f79de1186ae",
+      "file": "fll-global.html",
+      "response_hash_verified": true
+    }
+  ],
+  "no_contact_or_registration": true,
+  "source_response_files_private": true
+}

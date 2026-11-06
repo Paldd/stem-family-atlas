@@ -77,12 +77,15 @@ def column(index):
     while index:index,remainder=divmod(index-1,26);name=chr(65+remainder)+name
     return name
 
+HEADERS.update({'access_url':'Web accesible verificada','website_checked':'Fecha de revisión web','website_note':'Notas de acceso web','website_status':'Estado de acceso web','network_route_ids':'IDs de vías nacionales','wro_checked':'Fecha del directorio WRO','wro_directory_status':'Estado en directorio WRO','network':'Red de robótica','league_id':'ID de la liga','division':'Categoría','source':'Fuente oficial'})
+
 def write_workbook(path,data):
     groups=[('Competiciones',[e for e in data['events'] if e['block']=='Competiciones']),
             ('Eventos y exposiciones',[e for e in data['events'] if e['block']=='Eventos']),
             ('Campamentos y cursos',[e for e in data['events'] if e['block']=='Campamentos']),
             ('Fichas de campamentos',data['camp_programmes']['profiles']),
-            ('Ligas',data['league_guide']['profiles']),('Colegios',data['schools']),('Países',data['countries'])]
+            ('Ligas',data['league_guide']['profiles']),('Colegios',data['schools']),('Países',data['countries']),
+            ('Vías nacionales',data['national_routes']['routes'])]
     ns='http://schemas.openxmlformats.org/spreadsheetml/2006/main'
     contents={}
     for sheet,(name,rows) in enumerate(groups,1):

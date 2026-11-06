@@ -119,6 +119,8 @@ from central_america_v169 import enrich_v169
 enrich_v169(d)
 from southeast_asia_v170 import enrich_v170
 enrich_v170(d)
+from national_routes_v171 import enrich_v171
+enrich_v171(d)
 d['source_count']=len(d['sources'])
 aliases={'Гонконг':['HKG'],'США':['USA'],'США / национальные площадки':['USA'],'Великобритания':['GBR'],'Южная Корея':['KOR'],'Тайвань':['TWN'],'Коста-Рика':['CRI'],'Мексика':['MEX'],'Мексика / региональные страны':['MEX'],'Пуэрто-Рико':['PRI'],'Онлайн / Бразилия':['BRA'],'Австралия / Новая Зеландия':['AUS','NZL'],'ОАЭ':['ARE'],'Турция':['TUR'],'ЮАР':['ZAF'],'Венесуэла':['VEN'],'Россия':['RUS'],'Vietnam':['VNM'],'Netherlands':['NLD'],'Нидерланды':['NLD']}
 countries=d['countries']
@@ -167,6 +169,7 @@ coverage=[]
 for c in countries:
     a=[e for e in d['events'] if c['iso'] in e['iso']]
     row=dict(iso=c['iso'],country=c['country'],region=c['region'],research_status='Частично: есть записи; полный местный аудит не завершён' if a else 'Местный календарь ещё не исследован',competitions=sum(e['block']=='Соревнования' for e in a),exhibitions=sum(e['block']=='События' for e in a),camps=sum(e['block']=='Лагеря' for e in a),dated=sum(bool(e['start']) for e in a),organizer=c['wro'],organizer_url=c['url'])
+    row.update(network_routes=len(c['network_route_ids']),wro_directory_checked=c['wro_checked'])
     coverage.append(row)
 d['coverage']=coverage
 d['coverage_summary']=dict(countries=len(countries),countries_with_records=sum(r['competitions']+r['exhibitions']+r['camps']>0 for r in coverage),fully_audited_countries=0,unmapped_global_records=sum(not e['iso'] for e in d['events']))
@@ -240,11 +243,15 @@ d['methodology']={
  'dates':'Дата виртуального судейства не означает очную выставку; школьный отбор не является открытой семейной заявкой. Точная дата события не равна открытому набору или принятой регистрации. Необъявленные смены не получают вымышленных дат. Опубликованные окна каникул показываются отдельно от точных дней занятий и не экспортируются в календарь.'}
 DATA.write_text(json.dumps(d,ensure_ascii=False,indent=2))
 assets=ROOT/'dist/assets'; out=ROOT/'dist/downloads';out.mkdir(exist_ok=True)
-for stem in ['southeast-asia-audit-v170','southeast-asia-source-receipts-v170','southeast-asia-native-v170','central-america-audit-v169','central-america-source-receipts-v169','central-america-native-v169','asia-opportunities-audit-v168','asia-opportunities-source-receipts-v168','asia-opportunities-native-v168','europe-camps-audit-v167','europe-camps-source-receipts-v167','europe-camps-native-v167','africa-audit-v166','africa-source-receipts-v166','africa-native-v166','central-asia-audit-v165','central-asia-source-receipts-v165','central-asia-native-v165','school-evidence-audit-v164','school-evidence-source-receipts-v164','school-evidence-native-v164','oceania-camps-audit-v163','oceania-camps-source-receipts-v163','oceania-camps-native-v163','world-exhibitions-audit-v162','world-exhibitions-source-receipts-v162','world-exhibitions-facts-v162','latin-america-camps-audit-v161','latin-america-camps-source-receipts-v161','latin-america-camps-native-v161','nearby-regional-audit-v160','nearby-regional-source-receipts-v160','nearby-regional-facts-v160','east-asia-winter-audit-v159','east-asia-winter-source-receipts-v159','east-asia-winter-native-schedules-v159']:
+for stem in ['national-routes-audit-v171','national-routes-source-receipts-v171','national-routes-native-v171','southeast-asia-audit-v170','southeast-asia-source-receipts-v170','southeast-asia-native-v170','central-america-audit-v169','central-america-source-receipts-v169','central-america-native-v169','asia-opportunities-audit-v168','asia-opportunities-source-receipts-v168','asia-opportunities-native-v168','europe-camps-audit-v167','europe-camps-source-receipts-v167','europe-camps-native-v167','africa-audit-v166','africa-source-receipts-v166','africa-native-v166','central-asia-audit-v165','central-asia-source-receipts-v165','central-asia-native-v165','school-evidence-audit-v164','school-evidence-source-receipts-v164','school-evidence-native-v164','oceania-camps-audit-v163','oceania-camps-source-receipts-v163','oceania-camps-native-v163','world-exhibitions-audit-v162','world-exhibitions-source-receipts-v162','world-exhibitions-facts-v162','latin-america-camps-audit-v161','latin-america-camps-source-receipts-v161','latin-america-camps-native-v161','nearby-regional-audit-v160','nearby-regional-source-receipts-v160','nearby-regional-facts-v160','east-asia-winter-audit-v159','east-asia-winter-source-receipts-v159','east-asia-winter-native-schedules-v159']:
     source_file=ROOT/'data'/(stem+'.json')
     if source_file.exists():
         (out/('STEM_'+stem.replace('-','_')+'.json')).write_text(source_file.read_text())
 web={k:d[k] for k in ['asof','baseline_asof','events','countries','leagues','coverage','coverage_summary','methodology','league_guide','development_routes','completeness_audit']}
+web['national_routes']=d['national_routes']
+(out/'STEM_national_routes.json').write_text(json.dumps(d['national_routes'],ensure_ascii=False,indent=2)+'\n')
+with (out/'STEM_national_routes.csv').open('w',newline='',encoding='utf-8-sig') as f:
+    w=csv.DictWriter(f,fieldnames=list(d['national_routes']['routes'][0]));w.writeheader();w.writerows(d['national_routes']['routes'])
 if 'family_context' in d: web['family_context']=d['family_context']
 if 'camp_focus' in d: web['camp_focus']=d['camp_focus']
 if 'camp_planning' in d: web['camp_planning']=d['camp_planning']
@@ -552,6 +559,7 @@ con.execute('PRAGMA page_size=1024');con.execute('PRAGMA foreign_keys=ON')
 con.executescript('''
 CREATE TABLE metadata(key TEXT PRIMARY KEY,value TEXT NOT NULL);
 CREATE TABLE countries(iso TEXT PRIMARY KEY,country TEXT NOT NULL,region TEXT NOT NULL,coverage_json TEXT NOT NULL);
+CREATE TABLE national_routes(id TEXT PRIMARY KEY,country_iso TEXT REFERENCES countries(iso),network TEXT NOT NULL,provider TEXT NOT NULL,source_url TEXT NOT NULL,checked TEXT NOT NULL,record_json TEXT NOT NULL);
 CREATE TABLE events(id TEXT PRIMARY KEY,block TEXT NOT NULL,title TEXT NOT NULL,country TEXT NOT NULL,start_date TEXT,end_date TEXT,deadline TEXT,scope TEXT NOT NULL,priority TEXT NOT NULL,checked TEXT NOT NULL,source_url TEXT NOT NULL,record_json TEXT NOT NULL,CHECK(start_date IS NULL OR end_date>=start_date));
 CREATE TABLE event_countries(event_id TEXT REFERENCES events(id),country_iso TEXT REFERENCES countries(iso),PRIMARY KEY(event_id,country_iso));
 CREATE TABLE event_themes(event_id TEXT REFERENCES events(id),theme TEXT NOT NULL,PRIMARY KEY(event_id,theme));
@@ -583,6 +591,8 @@ for focus_key in ['europe_focus','north_europe_focus','south_europe_focus','sout
     if focus_key in d: con.execute('INSERT INTO metadata VALUES (?,?)',(focus_key,json.dumps(d[focus_key],ensure_ascii=False)))
 if 'top_picks' in d: con.execute('INSERT INTO metadata VALUES (?,?)',('top_picks',json.dumps(d['top_picks'],ensure_ascii=False)))
 for c in coverage: con.execute('INSERT INTO countries VALUES (?,?,?,?)',(c['iso'],c['country'],c['region'],json.dumps(c,ensure_ascii=False)))
+con.execute('INSERT INTO metadata VALUES (?,?)',('national_routes',json.dumps({k:v for k,v in d['national_routes'].items() if k!='routes'},ensure_ascii=False)))
+for r in d['national_routes']['routes']: con.execute('INSERT INTO national_routes VALUES (?,?,?,?,?,?,?)',(r['id'],r['iso'],r['network'],r['provider'],r['source'],r['checked'],json.dumps(r,ensure_ascii=False)))
 for e in d['events']:
     con.execute('INSERT INTO events VALUES (?,?,?,?,?,?,?,?,?,?,?,?)',(e['id'],e['block'],e['title'],e['country'],e['start'] or None,e['end'] or None,e['deadline'] or None,e['scope'],e['priority'],e['checked'],e['source'],json.dumps(e,ensure_ascii=False)))
     con.executemany('INSERT INTO event_countries VALUES (?,?)',[(e['id'],i) for i in e['iso']])

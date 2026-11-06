@@ -13,149 +13,104 @@
       "id": "global_competitions",
       "requirement": "Все релевантные лиги, мировые, национальные и региональные соревнования",
       "status": "in_progress",
-      "evidence": "v170: 1482 карточки соревнований и 157 профилей лиг / программ. Объявленный ENJOY AI Indonesia отделён от действующего набора; четыре школьные дисциплины World Techlympics Cambodia — маршруты следующего сезона, а не открытая заявка в мировой финал. Мировой охват остаётся частичным.",
+      "evidence": "Проверенные входы в WRO и FIRST LEGO League по странам: 209 контактов программ в 133 странах и территориях. WRO 108, FLL 101 в 97 страновых карточках; раздельные операторы категорий Франции и Бразилии. Непал добавлен, WRO Гондураса исправлен. Справочник, события, квалификация и семейный допуск не смешиваются. Четыре пошаговых маршрута: WRO, FIRST, VEX и RECF. Мировой аудит продолжается.",
       "remaining": "Проверить местные календари и все дисциплины по каждой стране; не считать каталог WRO полной исследованностью",
       "latest_pass": {
-        "version": 170,
+        "version": 171,
         "checked": "2026-11-05",
-        "scope": "Юго-Восточная Азия: двадцать учебных досье Малайзии, Индонезии, Камбоджи и Филиппин; английские зимние программы, дневные и семейные форматы, один детский пансион, конкретные тарифы и обязательные сборы. Новые национальные STEM-маршруты, деловая DCCI и наблюдение за следующими выставками. Сезонные окна, ошибочные длительности и MOU отделены от подтверждённых занятий и открытого допуска. Мировой аудит продолжается.",
+        "scope": "Проверенные входы в WRO и FIRST LEGO League по странам: 209 контактов программ в 133 странах и территориях. WRO 108, FLL 101 в 97 страновых карточках; раздельные операторы категорий Франции и Бразилии. Непал добавлен, WRO Гондураса исправлен. Справочник, события, квалификация и семейный допуск не смешиваются. Четыре пошаговых маршрута: WRO, FIRST, VEX и RECF. Мировой аудит продолжается.",
         "status": "verified-local-awaiting-published-sha",
-        "previous_published_commit": "1e9a1485cabf7b61c8489c10ed2da5d002b763a0",
+        "previous_published_commit": "dd2560b45ded64d5841149b8e0661382d6199c59",
+        "previous_goal_turn_classification": "progress",
+        "previous_goal_turn_evidence": "Live v170 local/public manifests, 328 matching asset requests and four full public archives verified; next national-route audit confirmed needed",
         "source_requests": 42,
-        "source_hashes_verified": 39,
-        "source_failures": 3,
-        "new_camp_dossiers": 20,
-        "new_competition_route_watches": 5,
-        "new_exhibition_events": 3,
-        "new_league_profiles": 1,
-        "new_budget_offers": 24,
-        "fully_audited_countries": 0,
-        "worldwide_complete": false,
-        "forms_and_agreements_not_submitted": true,
-        "audit": "data/southeast-asia-audit-v170.json",
-        "source_receipts": "data/southeast-asia-source-receipts-v170.json",
-        "native": "data/southeast-asia-native-v170.json",
-        "PDF_visual_pages_read": 2,
-        "source_access_notes": "Guidepost PDF: осмотрены физические страницы 6 и 8; отдельные USD / IDR цены не сложены, истёкший EB не применён. HariMau3D Sold Out — скрытый общий badge, Kids variant available=true; stock не бронь. Newtonshow FAQ прочитан в публичном JSON-LD, native English teachers не объявлены EN-only обучением. Три несовпадающие длительности Green Camp исключены из операционных дат. Большой PDF Study Bali не прочитан из-за сетевого сбоя / ограничения web-размера: поисковый фрагмент не выдан за полное досье.",
+        "source_hashes_verified": 40,
+        "source_failures": 2,
+        "routes": 209,
+        "countries": 133,
+        "wro_contacts": 108,
+        "fll_contacts": 101,
+        "fll_country_cards": 97,
+        "contacts_without_operator_website": 5,
+        "partner_site_requests": 31,
+        "partner_sites_http_ok": 29,
+        "partner_sites_unavailable": 2,
+        "support_page_requests": 3,
+        "support_pages_http_ok": 3,
+        "verified_route_website_records": 36,
+        "new_catalogue_rows": 0,
+        "new_camp_dossiers": 0,
+        "new_league_profiles": 0,
+        "new_budget_offers": 0,
         "events": 5151,
-        "competitions": 1482,
-        "exhibition_events": 239,
-        "camp_learning_rows": 3430,
         "camp_dossiers": 1359,
-        "camp_countries": 57,
         "league_profiles": 157,
         "schools": 68,
         "budget_offers": 147,
-        "new_catalogue_rows": 87,
-        "new_dated_camp_variants": 73,
-        "family_calendar_entries": 6270,
-        "exhibition_calendar_entries": 114,
-        "official_dossier_urls": 1996,
-        "new_family_calendar_entries": 320,
-        "new_timed_lesson_alternatives": 258,
-        "new_Green_late_deadlines": 37,
-        "new_Padi_deadline": 1,
-        "modified_prior_event_ids": [
-          "E077",
-          "E162"
-        ],
+        "fully_audited_countries": 0,
+        "worldwide_complete": false,
+        "no_emails_or_individual_contact_names_exported": true,
+        "no_registration_actions": true,
+        "visual_browser_check": "unavailable: Local browser use is disabled in Work settings; no visual QA claim",
+        "audit": "data/national-routes-audit-v171.json",
+        "source_receipts": "data/national-routes-source-receipts-v171.json",
+        "native": "data/national-routes-native-v171.json",
         "data_validation": {
-          "version": 170,
+          "version": 171,
           "events": 5151,
-          "competitions": 1482,
-          "exhibition_events": 239,
-          "camp_learning_rows": 3430,
-          "new_catalogue_rows": 87,
-          "new_dated_camp_variants": 73,
-          "new_camp_dossiers": 20,
+          "prior_events_unchanged": true,
           "camp_dossiers": 1359,
-          "camp_countries": 57,
-          "league_profiles": 157,
-          "schools": 68,
-          "budget_offers": 147,
-          "new_budgets": 24,
-          "new_timed_lesson_alternatives": 258,
-          "new_family_calendar_entries": 320,
-          "new_dated_camp_entries": 281,
-          "new_calculated_Green_late_deadlines": 37,
-          "new_Padi_registration_deadlines": 1,
-          "new_dated_exhibition_entries": 1,
-          "family_calendar_entries": 6270,
-          "exhibition_calendar_entries": 114,
-          "modified_old_event_ids": [
-            "E077",
-            "E162"
-          ],
-          "all_5062_other_old_catalogue_rows_unchanged": true,
-          "all_1339_old_raw_dossiers_preserved": true,
-          "all_156_old_league_profiles_preserved": true,
-          "all_123_old_budgets_preserved": true,
-          "schools_history_and_routes_preserved": true,
-          "source_requests": 42,
-          "source_response_hashes_verified": 39,
-          "source_failures": 3,
-          "PDF_visual_pages_read": 2,
-          "coverage_countries": 98,
+          "prior_raw_dossiers_unchanged": true,
+          "prior_leagues_schools_history_budgets_unchanged": true,
+          "routes": 209,
+          "countries": 133,
+          "wro_contacts": 108,
+          "fll_contacts": 101,
+          "fll_country_cards": 97,
+          "missing_partner_website": 5,
+          "new_fixtures": 0,
+          "sqlite_integrity_ru_es": true,
+          "protected_route_facts_preserved_ru_es": true,
           "fully_audited_countries": 0,
-          "worldwide_complete": false,
-          "three_conflicting_Green_windows_not_operational": true,
-          "season_windows_not_daily_calendars": true,
-          "tuition_and_parent_fees_separate": true,
-          "mandatory_Guidepost_tax_and_service_not_omitted": true,
-          "stock_is_not_booking": true,
-          "corporate_MOU_not_open_registration": true
+          "coverage_summary": {
+            "countries": 249,
+            "countries_with_records": 98,
+            "fully_audited_countries": 0,
+            "unmapped_global_records": 68
+          }
         },
         "runtime_checks_ru_es": [
           {
-            "lang": "ru",
-            "new_rows_filterable": 87,
-            "new_dossier_cards_rendered": 20,
-            "confirmed_English_dossiers": 11,
-            "unknown_languages_not_promoted": true,
-            "boarding_only_Mini_Changemakers": true,
-            "family_stays_not_child_boarding": true,
-            "new_calendar_entries": 320,
-            "seasonal_and_conflicting_windows_not_operational": true,
-            "Padi_deadline_separate_from_unknown_class_days": true,
-            "Green_late_deadlines_from_explicit_two_day_rule": true,
-            "weekend_Green_sessions_not_removed": true,
-            "start_only_Stratford_dates": true,
-            "twenty_four_budget_subtotals": true,
-            "Guidepost_mandatory_tax_service_as_unknown_amounts": true,
-            "Shanti_parent_fees_required_separately": true,
-            "expired_or_unqualified_discounts_not_applied": true,
-            "unknown_costs_not_zero": true,
-            "visual_browser_test": false
+            "language": "ru",
+            "search_by_partner": true,
+            "country_route_counts": true,
+            "france_brazil_divisions_separate": true,
+            "unavailable_partner_links_suppressed": true,
+            "missing_website_fallback": true,
+            "russia_belarus_organizer_notice_not_passport_ban": true,
+            "escaping": true,
+            "empty_country_reset": true
           },
           {
-            "lang": "es",
-            "new_rows_filterable": 87,
-            "new_dossier_cards_rendered": 20,
-            "confirmed_English_dossiers": 11,
-            "unknown_languages_not_promoted": true,
-            "boarding_only_Mini_Changemakers": true,
-            "family_stays_not_child_boarding": true,
-            "new_calendar_entries": 320,
-            "seasonal_and_conflicting_windows_not_operational": true,
-            "Padi_deadline_separate_from_unknown_class_days": true,
-            "Green_late_deadlines_from_explicit_two_day_rule": true,
-            "weekend_Green_sessions_not_removed": true,
-            "start_only_Stratford_dates": true,
-            "twenty_four_budget_subtotals": true,
-            "Guidepost_mandatory_tax_service_as_unknown_amounts": true,
-            "Shanti_parent_fees_required_separately": true,
-            "expired_or_unqualified_discounts_not_applied": true,
-            "unknown_costs_not_zero": true,
-            "visual_browser_test": false
+            "language": "es/",
+            "search_by_partner": true,
+            "country_route_counts": true,
+            "france_brazil_divisions_separate": true,
+            "unavailable_partner_links_suppressed": true,
+            "missing_website_fallback": true,
+            "russia_belarus_organizer_notice_not_passport_ban": true,
+            "escaping": true,
+            "empty_country_reset": true
           }
         ],
         "javascript_syntax_files": 47,
-        "visual_browser_check": "unavailable: Local browser use disabled in Work settings; no visual QA claim",
         "full_build_idempotence": {
-          "catalogue_before": "6c7791004e9b54c2a7c6f7de7030028d56a674f84c43d7e38c74541eb1374f58",
-          "catalogue_after": "6c7791004e9b54c2a7c6f7de7030028d56a674f84c43d7e38c74541eb1374f58",
-          "full_builder_exit_code": 0
-        }
+          "version": 171,
+          "catalog_sha256": "86805aa83bb6091bf8705d7c29814944fddd5c18e4fd9a844ce1ffa79197672c",
+          "full_ru_es_rebuild_idempotent": true
+        },
+        "route_countries_without_event_records": 47,
+        "national_pathways": 4
       }
     },
     {
@@ -1538,10 +1493,146 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
+    "version": 171,
+    "checked": "2026-11-05",
+    "scope": "Проверенные входы в WRO и FIRST LEGO League по странам: 209 контактов программ в 133 странах и территориях. WRO 108, FLL 101 в 97 страновых карточках; раздельные операторы категорий Франции и Бразилии. Непал добавлен, WRO Гондураса исправлен. Справочник, события, квалификация и семейный допуск не смешиваются. Четыре пошаговых маршрута: WRO, FIRST, VEX и RECF. Мировой аудит продолжается.",
+    "status": "verified-local-awaiting-published-sha",
+    "previous_published_commit": "dd2560b45ded64d5841149b8e0661382d6199c59",
+    "previous_goal_turn_classification": "progress",
+    "previous_goal_turn_evidence": "Live v170 local/public manifests, 328 matching asset requests and four full public archives verified; next national-route audit confirmed needed",
+    "source_requests": 42,
+    "source_hashes_verified": 40,
+    "source_failures": 2,
+    "routes": 209,
+    "countries": 133,
+    "wro_contacts": 108,
+    "fll_contacts": 101,
+    "fll_country_cards": 97,
+    "contacts_without_operator_website": 5,
+    "partner_site_requests": 31,
+    "partner_sites_http_ok": 29,
+    "partner_sites_unavailable": 2,
+    "support_page_requests": 3,
+    "support_pages_http_ok": 3,
+    "verified_route_website_records": 36,
+    "new_catalogue_rows": 0,
+    "new_camp_dossiers": 0,
+    "new_league_profiles": 0,
+    "new_budget_offers": 0,
+    "events": 5151,
+    "camp_dossiers": 1359,
+    "league_profiles": 157,
+    "schools": 68,
+    "budget_offers": 147,
+    "fully_audited_countries": 0,
+    "worldwide_complete": false,
+    "no_emails_or_individual_contact_names_exported": true,
+    "no_registration_actions": true,
+    "visual_browser_check": "unavailable: Local browser use is disabled in Work settings; no visual QA claim",
+    "audit": "data/national-routes-audit-v171.json",
+    "source_receipts": "data/national-routes-source-receipts-v171.json",
+    "native": "data/national-routes-native-v171.json",
+    "data_validation": {
+      "version": 171,
+      "events": 5151,
+      "prior_events_unchanged": true,
+      "camp_dossiers": 1359,
+      "prior_raw_dossiers_unchanged": true,
+      "prior_leagues_schools_history_budgets_unchanged": true,
+      "routes": 209,
+      "countries": 133,
+      "wro_contacts": 108,
+      "fll_contacts": 101,
+      "fll_country_cards": 97,
+      "missing_partner_website": 5,
+      "new_fixtures": 0,
+      "sqlite_integrity_ru_es": true,
+      "protected_route_facts_preserved_ru_es": true,
+      "fully_audited_countries": 0,
+      "coverage_summary": {
+        "countries": 249,
+        "countries_with_records": 98,
+        "fully_audited_countries": 0,
+        "unmapped_global_records": 68
+      }
+    },
+    "runtime_checks_ru_es": [
+      {
+        "language": "ru",
+        "search_by_partner": true,
+        "country_route_counts": true,
+        "france_brazil_divisions_separate": true,
+        "unavailable_partner_links_suppressed": true,
+        "missing_website_fallback": true,
+        "russia_belarus_organizer_notice_not_passport_ban": true,
+        "escaping": true,
+        "empty_country_reset": true
+      },
+      {
+        "language": "es/",
+        "search_by_partner": true,
+        "country_route_counts": true,
+        "france_brazil_divisions_separate": true,
+        "unavailable_partner_links_suppressed": true,
+        "missing_website_fallback": true,
+        "russia_belarus_organizer_notice_not_passport_ban": true,
+        "escaping": true,
+        "empty_country_reset": true
+      }
+    ],
+    "javascript_syntax_files": 47,
+    "full_build_idempotence": {
+      "version": 171,
+      "catalog_sha256": "86805aa83bb6091bf8705d7c29814944fddd5c18e4fd9a844ce1ffa79197672c",
+      "full_ru_es_rebuild_idempotent": true
+    },
+    "route_countries_without_event_records": 47,
+    "national_pathways": 4
+  },
+  "completeness_audit": "data/audit-v51.json",
+  "family_context": {
+    "matvey_birth_year": 2017,
+    "oscar_birth_year": 2020,
+    "source": "Прямой ответ пользователя 01.10.2026",
+    "exact_birthdays": null,
+    "school_grades": null,
+    "full_day_english_readiness": true,
+    "learning_languages": [
+      "EN",
+      "ES",
+      "RU"
+    ],
+    "learning_languages_by_child": {
+      "mat": [
+        "EN",
+        "ES",
+        "RU"
+      ],
+      "osc": [
+        "EN",
+        "ES",
+        "RU"
+      ]
+    },
+    "language_confirmation": "Прямые сообщения семьи: EN / ES для полного дня;01.10.2026 добавлен русский как допустимый язык. Отдельная оценка уровня технического RU ещё не проведена.",
+    "relocation_readiness": true,
+    "relocation_confirmation": "Прямой ответ пользователя 01.10.2026: готовы рассматривать переезд и новую школу."
+  },
+  "schools_success_criteria": [
+    "Идентификация каждого кампуса и его типа; 249 стран и территорий имеют явный статус исследования, отсутствие находки не означает отсутствие сильных школ.",
+    "Для статуса мировой результат: точные сезон, лига, категория, этап, название награды; независимый официальный протокол предпочтителен, школьное сообщение отмечается отдельно.",
+    "Кружок, учебный предмет, лаборатория и внешняя команда различаются; победа выпускника или городской команды не приписывается всей школе.",
+    "Матвей и Оскар: дневной возраст, класс, доступ в команду и пансион проверяются отдельно; дата рождения и класс неизвестны.",
+    "EN / ES преподавание подтверждается текстом программы; англоязычный сайт не доказательство. IB PYP / MYP / DP и candidate отмечаются отдельно.",
+    "Поступление: иностранные документы, резидентство / catchment, тесты, календарь, плата с учебным годом, дополнительные расходы; неизвестное явно помечено.",
+    "Раздел школ работает на публичном сайте и в JSON / CSV / SQLite, прежние события, лиги и календари сохраняются."
+  ],
+  "native_goal_status": "active",
+  "latest_validation_previous": {
     "version": 170,
     "checked": "2026-11-05",
     "scope": "Юго-Восточная Азия: двадцать учебных досье Малайзии, Индонезии, Камбоджи и Филиппин; английские зимние программы, дневные и семейные форматы, один детский пансион, конкретные тарифы и обязательные сборы. Новые национальные STEM-маршруты, деловая DCCI и наблюдение за следующими выставками. Сезонные окна, ошибочные длительности и MOU отделены от подтверждённых занятий и открытого допуска. Мировой аудит продолжается.",
-    "status": "verified-local-awaiting-published-sha",
+    "status": "published-and-readback-verified",
     "previous_published_commit": "1e9a1485cabf7b61c8489c10ed2da5d002b763a0",
     "source_requests": 42,
     "source_hashes_verified": 39,
@@ -1677,165 +1768,10 @@
       "catalogue_before": "6c7791004e9b54c2a7c6f7de7030028d56a674f84c43d7e38c74541eb1374f58",
       "catalogue_after": "6c7791004e9b54c2a7c6f7de7030028d56a674f84c43d7e38c74541eb1374f58",
       "full_builder_exit_code": 0
-    }
-  },
-  "completeness_audit": "data/audit-v51.json",
-  "family_context": {
-    "matvey_birth_year": 2017,
-    "oscar_birth_year": 2020,
-    "source": "Прямой ответ пользователя 01.10.2026",
-    "exact_birthdays": null,
-    "school_grades": null,
-    "full_day_english_readiness": true,
-    "learning_languages": [
-      "EN",
-      "ES",
-      "RU"
-    ],
-    "learning_languages_by_child": {
-      "mat": [
-        "EN",
-        "ES",
-        "RU"
-      ],
-      "osc": [
-        "EN",
-        "ES",
-        "RU"
-      ]
     },
-    "language_confirmation": "Прямые сообщения семьи: EN / ES для полного дня;01.10.2026 добавлен русский как допустимый язык. Отдельная оценка уровня технического RU ещё не проведена.",
-    "relocation_readiness": true,
-    "relocation_confirmation": "Прямой ответ пользователя 01.10.2026: готовы рассматривать переезд и новую школу."
-  },
-  "schools_success_criteria": [
-    "Идентификация каждого кампуса и его типа; 249 стран и территорий имеют явный статус исследования, отсутствие находки не означает отсутствие сильных школ.",
-    "Для статуса мировой результат: точные сезон, лига, категория, этап, название награды; независимый официальный протокол предпочтителен, школьное сообщение отмечается отдельно.",
-    "Кружок, учебный предмет, лаборатория и внешняя команда различаются; победа выпускника или городской команды не приписывается всей школе.",
-    "Матвей и Оскар: дневной возраст, класс, доступ в команду и пансион проверяются отдельно; дата рождения и класс неизвестны.",
-    "EN / ES преподавание подтверждается текстом программы; англоязычный сайт не доказательство. IB PYP / MYP / DP и candidate отмечаются отдельно.",
-    "Поступление: иностранные документы, резидентство / catchment, тесты, календарь, плата с учебным годом, дополнительные расходы; неизвестное явно помечено.",
-    "Раздел школ работает на публичном сайте и в JSON / CSV / SQLite, прежние события, лиги и календари сохраняются."
-  ],
-  "native_goal_status": "active",
-  "latest_validation_previous": {
-    "version": 169,
-    "checked": "2026-11-05",
-    "scope": "Центральная Америка: школьные категории Código TBox LATAM, национальный путь WRO El Salvador и первые учебные досье Сальвадора, Гондураса и Никарагуа; два возрастных курса в Коста-Рике. Разделены старый Bootcamp, организационный план новых дат, школьный / иностранный вход и подтверждённые смены. Выбранный проход, не полный аудит стран.",
-    "status": "published-and-readback-verified",
-    "previous_published_commit": "fd63684abc149e970e740e6408e97731f39eadc3",
-    "source_requests": 60,
-    "source_hashes_verified": 44,
-    "source_failures": 16,
-    "new_camp_dossiers": 9,
-    "new_competition_category_watches": 10,
-    "new_league_profiles": 2,
-    "new_budget_offers": 0,
-    "new_confirmed_dates": 0,
-    "fully_audited_countries": 0,
-    "worldwide_complete": false,
-    "forms_and_agreements_not_submitted": true,
-    "audit": "data/central-america-audit-v169.json",
-    "source_receipts": "data/central-america-source-receipts-v169.json",
-    "native": "data/central-america-native-v169.json",
-    "source_access_notes": "TBox: PDF / BIN недоступны, JPG содержат только фон; использованы читаемые страницы категорий и общих правил. FUSALMO: план 2026 не подменяет публичный договор; $100 и скидка относятся к старой странице Academy 2026. FIRST Honduras возвращает JS shell, WRO Guatemala HTTP 500, CCA Nicaragua 404: это ограничения доступа, не доказательство закрытия или отсутствия программ.",
-    "events": 5064,
-    "competitions": 1477,
-    "exhibition_events": 236,
-    "camp_learning_rows": 3351,
-    "camp_dossiers": 1339,
-    "camp_countries": 55,
-    "official_dossier_urls": 1973,
-    "league_profiles": 156,
-    "schools": 68,
-    "budget_offers": 123,
-    "new_catalogue_rows": 19,
-    "new_dated_camp_variants": 0,
-    "new_family_calendar_entries": 0,
-    "family_calendar_entries": 5950,
-    "major_exhibition_calendar_entries": 113,
-    "modified_prior_event_ids": [
-      "C095",
-      "C099"
-    ],
-    "data_validation": {
-      "version": 169,
-      "events": 5064,
-      "competitions": 1477,
-      "exhibition_events": 236,
-      "camp_learning_rows": 3351,
-      "new_catalogue_rows": 19,
-      "new_camp_dossiers": 9,
-      "new_dated_camp_variants": 0,
-      "new_calendar_entries": 0,
-      "camp_dossiers": 1339,
-      "camp_countries": 55,
-      "league_profiles": 156,
-      "schools": 68,
-      "budget_offers": 123,
-      "modified_old_event_ids": [
-        "C095",
-        "C099"
-      ],
-      "all_5043_other_old_catalogue_rows_unchanged": true,
-      "all_1330_old_raw_dossiers_preserved": true,
-      "all_123_old_budgets_preserved": true,
-      "all_154_old_league_profiles_preserved": true,
-      "school_history_and_routes_preserved": true,
-      "source_requests": 60,
-      "source_response_hashes_verified": 44,
-      "source_failures": 16,
-      "background_images_inspected_without_rule_text_claim": 6,
-      "family_calendar_entries": 5950,
-      "exhibition_calendar_entries": 113,
-      "coverage_countries": 97,
-      "fully_audited_countries": 0,
-      "worldwide_complete": false,
-      "old_Bootcamp_price_not_applied_to_new_plan": true,
-      "school_grade_not_assumed_from_birth_year": true,
-      "hardware_age_not_used_as_course_age": true,
-      "organizational_plan_not_calendar_session": true
-    },
-    "runtime_checks_ru_es": [
-      {
-        "lang": "ru",
-        "new_rows_filterable": 19,
-        "country_filters": true,
-        "school_team_filter": true,
-        "regular_course_filter": true,
-        "confirmed_ES_EN_not_assumed": true,
-        "conditional_children_not_automatically_eligible": true,
-        "nine_dossier_cards_rendered": true,
-        "planned_dates_not_calendar_sessions": true,
-        "archived_100_dollars_not_family_offer": true,
-        "unchanged_existing_budget_checked": true,
-        "visual_browser_test": false
-      },
-      {
-        "lang": "es",
-        "new_rows_filterable": 19,
-        "country_filters": true,
-        "school_team_filter": true,
-        "regular_course_filter": true,
-        "confirmed_ES_EN_not_assumed": true,
-        "conditional_children_not_automatically_eligible": true,
-        "nine_dossier_cards_rendered": true,
-        "planned_dates_not_calendar_sessions": true,
-        "archived_100_dollars_not_family_offer": true,
-        "unchanged_existing_budget_checked": true,
-        "visual_browser_test": false
-      }
-    ],
-    "javascript_syntax_files": 47,
-    "visual_browser_check": "unavailable: Local browser use disabled in Work settings; no visual QA claim",
-    "full_build_idempotence": {
-      "catalogue_before": "6cf2803c873c14b79b4a64e273c8b6b42b3ccec0b0f95d1e0a534738ab50356c",
-      "catalogue_after": "6cf2803c873c14b79b4a64e273c8b6b42b3ccec0b0f95d1e0a534738ab50356c",
-      "full_builder_exit_code": 0
-    },
-    "published_commit": "1e9a1485cabf7b61c8489c10ed2da5d002b763a0",
-    "workflow_run": 42132709936,
-    "matched_public_assets": 158
+    "published_commit": "dd2560b45ded64d5841149b8e0661382d6199c59",
+    "workflow_run": 42139198939,
+    "matched_public_assets": 164
   },
   "research_passes": [
     {
@@ -3713,6 +3649,103 @@
         "catalogue_after": "6c7791004e9b54c2a7c6f7de7030028d56a674f84c43d7e38c74541eb1374f58",
         "full_builder_exit_code": 0
       }
+    },
+    {
+      "version": 171,
+      "checked": "2026-11-05",
+      "scope": "Проверенные входы в WRO и FIRST LEGO League по странам: 209 контактов программ в 133 странах и территориях. WRO 108, FLL 101 в 97 страновых карточках; раздельные операторы категорий Франции и Бразилии. Непал добавлен, WRO Гондураса исправлен. Справочник, события, квалификация и семейный допуск не смешиваются. Четыре пошаговых маршрута: WRO, FIRST, VEX и RECF. Мировой аудит продолжается.",
+      "status": "verified-local-awaiting-published-sha",
+      "previous_published_commit": "dd2560b45ded64d5841149b8e0661382d6199c59",
+      "previous_goal_turn_classification": "progress",
+      "previous_goal_turn_evidence": "Live v170 local/public manifests, 328 matching asset requests and four full public archives verified; next national-route audit confirmed needed",
+      "source_requests": 42,
+      "source_hashes_verified": 40,
+      "source_failures": 2,
+      "routes": 209,
+      "countries": 133,
+      "wro_contacts": 108,
+      "fll_contacts": 101,
+      "fll_country_cards": 97,
+      "contacts_without_operator_website": 5,
+      "partner_site_requests": 31,
+      "partner_sites_http_ok": 29,
+      "partner_sites_unavailable": 2,
+      "support_page_requests": 3,
+      "support_pages_http_ok": 3,
+      "verified_route_website_records": 36,
+      "new_catalogue_rows": 0,
+      "new_camp_dossiers": 0,
+      "new_league_profiles": 0,
+      "new_budget_offers": 0,
+      "events": 5151,
+      "camp_dossiers": 1359,
+      "league_profiles": 157,
+      "schools": 68,
+      "budget_offers": 147,
+      "fully_audited_countries": 0,
+      "worldwide_complete": false,
+      "no_emails_or_individual_contact_names_exported": true,
+      "no_registration_actions": true,
+      "visual_browser_check": "unavailable: Local browser use is disabled in Work settings; no visual QA claim",
+      "audit": "data/national-routes-audit-v171.json",
+      "source_receipts": "data/national-routes-source-receipts-v171.json",
+      "native": "data/national-routes-native-v171.json",
+      "data_validation": {
+        "version": 171,
+        "events": 5151,
+        "prior_events_unchanged": true,
+        "camp_dossiers": 1359,
+        "prior_raw_dossiers_unchanged": true,
+        "prior_leagues_schools_history_budgets_unchanged": true,
+        "routes": 209,
+        "countries": 133,
+        "wro_contacts": 108,
+        "fll_contacts": 101,
+        "fll_country_cards": 97,
+        "missing_partner_website": 5,
+        "new_fixtures": 0,
+        "sqlite_integrity_ru_es": true,
+        "protected_route_facts_preserved_ru_es": true,
+        "fully_audited_countries": 0,
+        "coverage_summary": {
+          "countries": 249,
+          "countries_with_records": 98,
+          "fully_audited_countries": 0,
+          "unmapped_global_records": 68
+        }
+      },
+      "runtime_checks_ru_es": [
+        {
+          "language": "ru",
+          "search_by_partner": true,
+          "country_route_counts": true,
+          "france_brazil_divisions_separate": true,
+          "unavailable_partner_links_suppressed": true,
+          "missing_website_fallback": true,
+          "russia_belarus_organizer_notice_not_passport_ban": true,
+          "escaping": true,
+          "empty_country_reset": true
+        },
+        {
+          "language": "es/",
+          "search_by_partner": true,
+          "country_route_counts": true,
+          "france_brazil_divisions_separate": true,
+          "unavailable_partner_links_suppressed": true,
+          "missing_website_fallback": true,
+          "russia_belarus_organizer_notice_not_passport_ban": true,
+          "escaping": true,
+          "empty_country_reset": true
+        }
+      ],
+      "javascript_syntax_files": 47,
+      "full_build_idempotence": {
+        "version": 171,
+        "catalog_sha256": "86805aa83bb6091bf8705d7c29814944fddd5c18e4fd9a844ce1ffa79197672c",
+        "full_ru_es_rebuild_idempotent": true
+      },
+      "route_countries_without_event_records": 47,
+      "national_pathways": 4
     }
   ],
   "previous_goal_turn_classification": "progress",
@@ -10991,10 +11024,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 170,
+    "prepared_ui_version": 171,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 169,
-    "previous_verified_commit": "1e9a1485cabf7b61c8489c10ed2da5d002b763a0"
+    "previous_verified_ui_version": 170,
+    "previous_verified_commit": "dd2560b45ded64d5841149b8e0661382d6199c59"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -13922,5 +13955,497 @@
       "catalogue_after": "6c7791004e9b54c2a7c6f7de7030028d56a674f84c43d7e38c74541eb1374f58",
       "full_builder_exit_code": 0
     }
-  }
+  },
+  "national_routes_v171": {
+    "version": 171,
+    "checked": "2026-11-05",
+    "scope": "Проверенные входы в WRO и FIRST LEGO League по странам: 209 контактов программ в 133 странах и территориях. WRO 108, FLL 101 в 97 страновых карточках; раздельные операторы категорий Франции и Бразилии. Непал добавлен, WRO Гондураса исправлен. Справочник, события, квалификация и семейный допуск не смешиваются. Четыре пошаговых маршрута: WRO, FIRST, VEX и RECF. Мировой аудит продолжается.",
+    "status": "verified-local-awaiting-published-sha",
+    "previous_published_commit": "dd2560b45ded64d5841149b8e0661382d6199c59",
+    "previous_goal_turn_classification": "progress",
+    "previous_goal_turn_evidence": "Live v170 local/public manifests, 328 matching asset requests and four full public archives verified; next national-route audit confirmed needed",
+    "source_requests": 42,
+    "source_hashes_verified": 40,
+    "source_failures": 2,
+    "routes": 209,
+    "countries": 133,
+    "wro_contacts": 108,
+    "fll_contacts": 101,
+    "fll_country_cards": 97,
+    "contacts_without_operator_website": 5,
+    "partner_site_requests": 31,
+    "partner_sites_http_ok": 29,
+    "partner_sites_unavailable": 2,
+    "support_page_requests": 3,
+    "support_pages_http_ok": 3,
+    "verified_route_website_records": 36,
+    "new_catalogue_rows": 0,
+    "new_camp_dossiers": 0,
+    "new_league_profiles": 0,
+    "new_budget_offers": 0,
+    "events": 5151,
+    "camp_dossiers": 1359,
+    "league_profiles": 157,
+    "schools": 68,
+    "budget_offers": 147,
+    "fully_audited_countries": 0,
+    "worldwide_complete": false,
+    "no_emails_or_individual_contact_names_exported": true,
+    "no_registration_actions": true,
+    "visual_browser_check": "unavailable: Local browser use is disabled in Work settings; no visual QA claim",
+    "audit": "data/national-routes-audit-v171.json",
+    "source_receipts": "data/national-routes-source-receipts-v171.json",
+    "native": "data/national-routes-native-v171.json",
+    "data_validation": {
+      "version": 171,
+      "events": 5151,
+      "prior_events_unchanged": true,
+      "camp_dossiers": 1359,
+      "prior_raw_dossiers_unchanged": true,
+      "prior_leagues_schools_history_budgets_unchanged": true,
+      "routes": 209,
+      "countries": 133,
+      "wro_contacts": 108,
+      "fll_contacts": 101,
+      "fll_country_cards": 97,
+      "missing_partner_website": 5,
+      "new_fixtures": 0,
+      "sqlite_integrity_ru_es": true,
+      "protected_route_facts_preserved_ru_es": true,
+      "fully_audited_countries": 0,
+      "coverage_summary": {
+        "countries": 249,
+        "countries_with_records": 98,
+        "fully_audited_countries": 0,
+        "unmapped_global_records": 68
+      }
+    },
+    "runtime_checks_ru_es": [
+      {
+        "language": "ru",
+        "search_by_partner": true,
+        "country_route_counts": true,
+        "france_brazil_divisions_separate": true,
+        "unavailable_partner_links_suppressed": true,
+        "missing_website_fallback": true,
+        "russia_belarus_organizer_notice_not_passport_ban": true,
+        "escaping": true,
+        "empty_country_reset": true
+      },
+      {
+        "language": "es/",
+        "search_by_partner": true,
+        "country_route_counts": true,
+        "france_brazil_divisions_separate": true,
+        "unavailable_partner_links_suppressed": true,
+        "missing_website_fallback": true,
+        "russia_belarus_organizer_notice_not_passport_ban": true,
+        "escaping": true,
+        "empty_country_reset": true
+      }
+    ],
+    "javascript_syntax_files": 47,
+    "full_build_idempotence": {
+      "version": 171,
+      "catalog_sha256": "86805aa83bb6091bf8705d7c29814944fddd5c18e4fd9a844ce1ffa79197672c",
+      "full_ru_es_rebuild_idempotent": true
+    },
+    "route_countries_without_event_records": 47,
+    "national_pathways": 4
+  },
+  "national_route_calendar_queue": [
+    {
+      "iso": "DZA",
+      "country": "Алжир",
+      "network_route_ids": [
+        "NR-WRO-DZA",
+        "NR-FLL-DZA-general"
+      ],
+      "reason": "Есть подтверждённый контакт сети, но конкретный местный календарь в базе ещё не исследован. Следующий шаг: официальный сезон, возрастные категории, EN / ES / RU и допуск внешней команды."
+    },
+    {
+      "iso": "ETH",
+      "country": "Эфиопия",
+      "network_route_ids": [
+        "NR-WRO-ETH"
+      ],
+      "reason": "Есть подтверждённый контакт сети, но конкретный местный календарь в базе ещё не исследован. Следующий шаг: официальный сезон, возрастные категории, EN / ES / RU и допуск внешней команды."
+    },
+    {
+      "iso": "MOZ",
+      "country": "Мозамбик",
+      "network_route_ids": [
+        "NR-WRO-MOZ",
+        "NR-FLL-MOZ-general"
+      ],
+      "reason": "Есть подтверждённый контакт сети, но конкретный местный календарь в базе ещё не исследован. Следующий шаг: официальный сезон, возрастные категории, EN / ES / RU и допуск внешней команды."
+    },
+    {
+      "iso": "ZWE",
+      "country": "Зимбабве",
+      "network_route_ids": [
+        "NR-WRO-ZWE",
+        "NR-FLL-ZWE-general"
+      ],
+      "reason": "Есть подтверждённый контакт сети, но конкретный местный календарь в базе ещё не исследован. Следующий шаг: официальный сезон, возрастные категории, EN / ES / RU и допуск внешней команды."
+    },
+    {
+      "iso": "COD",
+      "country": "Демократическая Республика Конго",
+      "network_route_ids": [
+        "NR-WRO-COD"
+      ],
+      "reason": "Есть подтверждённый контакт сети, но конкретный местный календарь в базе ещё не исследован. Следующий шаг: официальный сезон, возрастные категории, EN / ES / RU и допуск внешней команды."
+    },
+    {
+      "iso": "STP",
+      "country": "Сан-Томе и Принсипи",
+      "network_route_ids": [
+        "NR-WRO-STP"
+      ],
+      "reason": "Есть подтверждённый контакт сети, но конкретный местный календарь в базе ещё не исследован. Следующий шаг: официальный сезон, возрастные категории, EN / ES / RU и допуск внешней команды."
+    },
+    {
+      "iso": "SWZ",
+      "country": "Эсватини",
+      "network_route_ids": [
+        "NR-FLL-SWZ-general"
+      ],
+      "reason": "Есть подтверждённый контакт сети, но конкретный местный календарь в базе ещё не исследован. Следующий шаг: официальный сезон, возрастные категории, EN / ES / RU и допуск внешней команды."
+    },
+    {
+      "iso": "LSO",
+      "country": "Лесото",
+      "network_route_ids": [
+        "NR-FLL-LSO-general"
+      ],
+      "reason": "Есть подтверждённый контакт сети, но конкретный местный календарь в базе ещё не исследован. Следующий шаг: официальный сезон, возрастные категории, EN / ES / RU и допуск внешней команды."
+    },
+    {
+      "iso": "SLE",
+      "country": "Сьерра-Леоне",
+      "network_route_ids": [
+        "NR-FLL-SLE-general"
+      ],
+      "reason": "Есть подтверждённый контакт сети, но конкретный местный календарь в базе ещё не исследован. Следующий шаг: официальный сезон, возрастные категории, EN / ES / RU и допуск внешней команды."
+    },
+    {
+      "iso": "ATG",
+      "country": "Антигуа и Барбуда",
+      "network_route_ids": [
+        "NR-WRO-ATG"
+      ],
+      "reason": "Есть подтверждённый контакт сети, но конкретный местный календарь в базе ещё не исследован. Следующий шаг: официальный сезон, возрастные категории, EN / ES / RU и допуск внешней команды."
+    },
+    {
+      "iso": "BHS",
+      "country": "Багамские Острова",
+      "network_route_ids": [
+        "NR-FLL-BHS-general"
+      ],
+      "reason": "Есть подтверждённый контакт сети, но конкретный местный календарь в базе ещё не исследован. Следующий шаг: официальный сезон, возрастные категории, EN / ES / RU и допуск внешней команды."
+    },
+    {
+      "iso": "GLP",
+      "country": "Гваделупа",
+      "network_route_ids": [
+        "NR-FLL-GLP-general"
+      ],
+      "reason": "Есть подтверждённый контакт сети, но конкретный местный календарь в базе ещё не исследован. Следующий шаг: официальный сезон, возрастные категории, EN / ES / RU и допуск внешней команды."
+    },
+    {
+      "iso": "HTI",
+      "country": "Гаити",
+      "network_route_ids": [
+        "NR-WRO-HTI",
+        "NR-FLL-HTI-general"
+      ],
+      "reason": "Есть подтверждённый контакт сети, но конкретный местный календарь в базе ещё не исследован. Следующий шаг: официальный сезон, возрастные категории, EN / ES / RU и допуск внешней команды."
+    },
+    {
+      "iso": "MTQ",
+      "country": "Мартиника",
+      "network_route_ids": [
+        "NR-FLL-MTQ-general"
+      ],
+      "reason": "Есть подтверждённый контакт сети, но конкретный местный календарь в базе ещё не исследован. Следующий шаг: официальный сезон, возрастные категории, EN / ES / RU и допуск внешней команды."
+    },
+    {
+      "iso": "VIR",
+      "country": "Виргинские острова Соединенных Штатов",
+      "network_route_ids": [
+        "NR-WRO-VIR"
+      ],
+      "reason": "Есть подтверждённый контакт сети, но конкретный местный календарь в базе ещё не исследован. Следующий шаг: официальный сезон, возрастные категории, EN / ES / RU и допуск внешней команды."
+    },
+    {
+      "iso": "BLZ",
+      "country": "Белиз",
+      "network_route_ids": [
+        "NR-FLL-BLZ-general"
+      ],
+      "reason": "Есть подтверждённый контакт сети, но конкретный местный календарь в базе ещё не исследован. Следующий шаг: официальный сезон, возрастные категории, EN / ES / RU и допуск внешней команды."
+    },
+    {
+      "iso": "TJK",
+      "country": "Таджикистан",
+      "network_route_ids": [
+        "NR-WRO-TJK"
+      ],
+      "reason": "Есть подтверждённый контакт сети, но конкретный местный календарь в базе ещё не исследован. Следующий шаг: официальный сезон, возрастные категории, EN / ES / RU и допуск внешней команды."
+    },
+    {
+      "iso": "MMR",
+      "country": "Мьянма",
+      "network_route_ids": [
+        "NR-WRO-MMR"
+      ],
+      "reason": "Есть подтверждённый контакт сети, но конкретный местный календарь в базе ещё не исследован. Следующий шаг: официальный сезон, возрастные категории, EN / ES / RU и допуск внешней команды."
+    },
+    {
+      "iso": "IRN",
+      "country": "Иран (Исламская Республика)",
+      "network_route_ids": [
+        "NR-WRO-IRN"
+      ],
+      "reason": "Есть подтверждённый контакт сети, но конкретный местный календарь в базе ещё не исследован. Следующий шаг: официальный сезон, возрастные категории, EN / ES / RU и допуск внешней команды."
+    },
+    {
+      "iso": "MDV",
+      "country": "Мальдивские Острова",
+      "network_route_ids": [
+        "NR-WRO-MDV"
+      ],
+      "reason": "Есть подтверждённый контакт сети, но конкретный местный календарь в базе ещё не исследован. Следующий шаг: официальный сезон, возрастные категории, EN / ES / RU и допуск внешней команды."
+    },
+    {
+      "iso": "NPL",
+      "country": "Непал",
+      "network_route_ids": [
+        "NR-WRO-NPL"
+      ],
+      "reason": "Есть подтверждённый контакт сети, но конкретный местный календарь в базе ещё не исследован. Следующий шаг: официальный сезон, возрастные категории, EN / ES / RU и допуск внешней команды."
+    },
+    {
+      "iso": "BHR",
+      "country": "Бахрейн",
+      "network_route_ids": [
+        "NR-WRO-BHR"
+      ],
+      "reason": "Есть подтверждённый контакт сети, но конкретный местный календарь в базе ещё не исследован. Следующий шаг: официальный сезон, возрастные категории, EN / ES / RU и допуск внешней команды."
+    },
+    {
+      "iso": "IRQ",
+      "country": "Ирак",
+      "network_route_ids": [
+        "NR-WRO-IRQ"
+      ],
+      "reason": "Есть подтверждённый контакт сети, но конкретный местный календарь в базе ещё не исследован. Следующий шаг: официальный сезон, возрастные категории, EN / ES / RU и допуск внешней команды."
+    },
+    {
+      "iso": "ISR",
+      "country": "Израиль",
+      "network_route_ids": [
+        "NR-FLL-ISR-general"
+      ],
+      "reason": "Есть подтверждённый контакт сети, но конкретный местный календарь в базе ещё не исследован. Следующий шаг: официальный сезон, возрастные категории, EN / ES / RU и допуск внешней команды."
+    },
+    {
+      "iso": "JOR",
+      "country": "Иордания",
+      "network_route_ids": [
+        "NR-WRO-JOR",
+        "NR-FLL-JOR-general"
+      ],
+      "reason": "Есть подтверждённый контакт сети, но конкретный местный календарь в базе ещё не исследован. Следующий шаг: официальный сезон, возрастные категории, EN / ES / RU и допуск внешней команды."
+    },
+    {
+      "iso": "KWT",
+      "country": "Кувейт",
+      "network_route_ids": [
+        "NR-WRO-KWT",
+        "NR-FLL-KWT-general"
+      ],
+      "reason": "Есть подтверждённый контакт сети, но конкретный местный календарь в базе ещё не исследован. Следующий шаг: официальный сезон, возрастные категории, EN / ES / RU и допуск внешней команды."
+    },
+    {
+      "iso": "LBN",
+      "country": "Ливан",
+      "network_route_ids": [
+        "NR-WRO-LBN"
+      ],
+      "reason": "Есть подтверждённый контакт сети, но конкретный местный календарь в базе ещё не исследован. Следующий шаг: официальный сезон, возрастные категории, EN / ES / RU и допуск внешней команды."
+    },
+    {
+      "iso": "PSE",
+      "country": "Государство Палестина",
+      "network_route_ids": [
+        "NR-WRO-PSE",
+        "NR-FLL-PSE-general"
+      ],
+      "reason": "Есть подтверждённый контакт сети, но конкретный местный календарь в базе ещё не исследован. Следующий шаг: официальный сезон, возрастные категории, EN / ES / RU и допуск внешней команды."
+    },
+    {
+      "iso": "SYR",
+      "country": "Сирийская Арабская Республика",
+      "network_route_ids": [
+        "NR-WRO-SYR"
+      ],
+      "reason": "Есть подтверждённый контакт сети, но конкретный местный календарь в базе ещё не исследован. Следующий шаг: официальный сезон, возрастные категории, EN / ES / RU и допуск внешней команды."
+    },
+    {
+      "iso": "BGR",
+      "country": "Болгария",
+      "network_route_ids": [
+        "NR-FLL-BGR-general"
+      ],
+      "reason": "Есть подтверждённый контакт сети, но конкретный местный календарь в базе ещё не исследован. Следующий шаг: официальный сезон, возрастные категории, EN / ES / RU и допуск внешней команды."
+    },
+    {
+      "iso": "HUN",
+      "country": "Венгрия",
+      "network_route_ids": [
+        "NR-WRO-HUN",
+        "NR-FLL-HUN-general"
+      ],
+      "reason": "Есть подтверждённый контакт сети, но конкретный местный календарь в базе ещё не исследован. Следующий шаг: официальный сезон, возрастные категории, EN / ES / RU и допуск внешней команды."
+    },
+    {
+      "iso": "POL",
+      "country": "Польша",
+      "network_route_ids": [
+        "NR-WRO-POL",
+        "NR-FLL-POL-general"
+      ],
+      "reason": "Есть подтверждённый контакт сети, но конкретный местный календарь в базе ещё не исследован. Следующий шаг: официальный сезон, возрастные категории, EN / ES / RU и допуск внешней команды."
+    },
+    {
+      "iso": "MDA",
+      "country": "Республика Молдова",
+      "network_route_ids": [
+        "NR-FLL-MDA-general"
+      ],
+      "reason": "Есть подтверждённый контакт сети, но конкретный местный календарь в базе ещё не исследован. Следующий шаг: официальный сезон, возрастные категории, EN / ES / RU и допуск внешней команды."
+    },
+    {
+      "iso": "ROU",
+      "country": "Румыния",
+      "network_route_ids": [
+        "NR-WRO-ROU",
+        "NR-FLL-ROU-general"
+      ],
+      "reason": "Есть подтверждённый контакт сети, но конкретный местный календарь в базе ещё не исследован. Следующий шаг: официальный сезон, возрастные категории, EN / ES / RU и допуск внешней команды."
+    },
+    {
+      "iso": "SVK",
+      "country": "Словакия",
+      "network_route_ids": [
+        "NR-WRO-SVK",
+        "NR-FLL-SVK-general"
+      ],
+      "reason": "Есть подтверждённый контакт сети, но конкретный местный календарь в базе ещё не исследован. Следующий шаг: официальный сезон, возрастные категории, EN / ES / RU и допуск внешней команды."
+    },
+    {
+      "iso": "UKR",
+      "country": "Украина",
+      "network_route_ids": [
+        "NR-WRO-UKR",
+        "NR-FLL-UKR-general"
+      ],
+      "reason": "Есть подтверждённый контакт сети, но конкретный местный календарь в базе ещё не исследован. Следующий шаг: официальный сезон, возрастные категории, EN / ES / RU и допуск внешней команды."
+    },
+    {
+      "iso": "EST",
+      "country": "Эстония",
+      "network_route_ids": [
+        "NR-WRO-EST",
+        "NR-FLL-EST-general"
+      ],
+      "reason": "Есть подтверждённый контакт сети, но конкретный местный календарь в базе ещё не исследован. Следующий шаг: официальный сезон, возрастные категории, EN / ES / RU и допуск внешней команды."
+    },
+    {
+      "iso": "FRO",
+      "country": "Фарерские острова",
+      "network_route_ids": [
+        "NR-FLL-FRO-general"
+      ],
+      "reason": "Есть подтверждённый контакт сети, но конкретный местный календарь в базе ещё не исследован. Следующий шаг: официальный сезон, возрастные категории, EN / ES / RU и допуск внешней команды."
+    },
+    {
+      "iso": "ISL",
+      "country": "Исландия",
+      "network_route_ids": [
+        "NR-FLL-ISL-general"
+      ],
+      "reason": "Есть подтверждённый контакт сети, но конкретный местный календарь в базе ещё не исследован. Следующий шаг: официальный сезон, возрастные категории, EN / ES / RU и допуск внешней команды."
+    },
+    {
+      "iso": "LVA",
+      "country": "Латвия",
+      "network_route_ids": [
+        "NR-WRO-LVA",
+        "NR-FLL-LVA-general"
+      ],
+      "reason": "Есть подтверждённый контакт сети, но конкретный местный календарь в базе ещё не исследован. Следующий шаг: официальный сезон, возрастные категории, EN / ES / RU и допуск внешней команды."
+    },
+    {
+      "iso": "LTU",
+      "country": "Литва",
+      "network_route_ids": [
+        "NR-WRO-LTU",
+        "NR-FLL-LTU-general"
+      ],
+      "reason": "Есть подтверждённый контакт сети, но конкретный местный календарь в базе ещё не исследован. Следующий шаг: официальный сезон, возрастные категории, EN / ES / RU и допуск внешней команды."
+    },
+    {
+      "iso": "NOR",
+      "country": "Норвегия",
+      "network_route_ids": [
+        "NR-FLL-NOR-general"
+      ],
+      "reason": "Есть подтверждённый контакт сети, но конкретный местный календарь в базе ещё не исследован. Следующий шаг: официальный сезон, возрастные категории, EN / ES / RU и допуск внешней команды."
+    },
+    {
+      "iso": "ALB",
+      "country": "Албания",
+      "network_route_ids": [
+        "NR-FLL-ALB-general"
+      ],
+      "reason": "Есть подтверждённый контакт сети, но конкретный местный календарь в базе ещё не исследован. Следующий шаг: официальный сезон, возрастные категории, EN / ES / RU и допуск внешней команды."
+    },
+    {
+      "iso": "AND",
+      "country": "Андорра",
+      "network_route_ids": [
+        "NR-FLL-AND-general"
+      ],
+      "reason": "Есть подтверждённый контакт сети, но конкретный местный календарь в базе ещё не исследован. Следующий шаг: официальный сезон, возрастные категории, EN / ES / RU и допуск внешней команды."
+    },
+    {
+      "iso": "GRC",
+      "country": "Греция",
+      "network_route_ids": [
+        "NR-WRO-GRC",
+        "NR-FLL-GRC-general"
+      ],
+      "reason": "Есть подтверждённый контакт сети, но конкретный местный календарь в базе ещё не исследован. Следующий шаг: официальный сезон, возрастные категории, EN / ES / RU и допуск внешней команды."
+    },
+    {
+      "iso": "MNE",
+      "country": "Черногория",
+      "network_route_ids": [
+        "NR-WRO-MNE",
+        "NR-FLL-MNE-general"
+      ],
+      "reason": "Есть подтверждённый контакт сети, но конкретный местный календарь в базе ещё не исследован. Следующий шаг: официальный сезон, возрастные категории, EN / ES / RU и допуск внешней команды."
+    },
+    {
+      "iso": "MKD",
+      "country": "Северная Македония",
+      "network_route_ids": [
+        "NR-FLL-MKD-general"
+      ],
+      "reason": "Есть подтверждённый контакт сети, но конкретный местный календарь в базе ещё не исследован. Следующий шаг: официальный сезон, возрастные категории, EN / ES / RU и допуск внешней команды."
+    }
+  ]
 }
