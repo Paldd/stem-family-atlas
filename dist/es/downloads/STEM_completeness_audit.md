@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 8056; competiciones: 3303; eventos: 396; campamentos / programas: 4357. Perfiles de ligas y programas: 274. Fichas de exposiciones grandes y especializadas: 308 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 8098; competiciones: 3308; eventos: 398; campamentos / programas: 4392. Perfiles de ligas y programas: 274. Fichas de exposiciones grandes y especializadas: 309 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay fichas concretas en 161 de 249 países y territorios. Países con auditoría completa: 0. Revisión histórica v51: se añadieron 21 fichas y 3 perfiles. Se conservan las fichas anteriores.
 
@@ -16,14 +16,14 @@ Hay fichas concretas en 161 de 249 países y territorios. Países con auditoría
 |---|---:|---:|---:|---:|
 | América del Norte | 24 | 1458 | 58 | 1077 |
 | América del Sur | 11 | 222 | 21 | 142 |
-| Europa | 42 | 435 | 86 | 1337 |
+| Europa | 42 | 440 | 87 | 1372 |
 | África | 34 | 133 | 21 | 70 |
 | Asia | 44 | 825 | 96 | 1550 |
 | Oceanía | 6 | 129 | 24 | 168 |
 
 Fichas interregionales o mundiales sin un continente asignado: 121. América del Norte incluye Centroamérica y el Caribe. Las cifras representan el inventario de la base y no un porcentaje de cobertura.
 
-VEX: 518 de 3303 fichas de competición (15.7%). El catálogo presenta un sesgo de cobertura.
+VEX: 518 de 3308 fichas de competición (15.7%). Hay un desequilibrio claro en la cobertura.
 
 ## Lo que queda
 
@@ -650,6 +650,7 @@ VEX: 518 de 3303 fichas de competición (15.7%). El catálogo presenta un sesgo 
 - **L’ideatorio USI · Robot. Dagli automi all’intelligenza artificiale** — Suiza; 2026-09-12 – 2027-06-06. con un adulto; condiciones de admisión adulta por separado. https://ideatorio.usi.ch/event/robot-pubblico
 - **Leukerbad Robot Carnival 2026 · Citywide demonstrations** — Suiza; 2026-11-14 – 2026-11-16. el permiso de entrada de niños. https://luma.com/yo2pk18n
 - **ETH Zürich RobotX · Open Lab Day** — Suiza; 2026-11-27. el permiso de entrada de niños. https://robotx.ethz.ch/education/open-lab-27-11-2026.html
+- **Madrid es Ciencia 2027** — España; 2027-03-11 – 2027-03-13. el permiso de entrada de niños. https://www.madrimasd.org/feriamadridesciencia/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

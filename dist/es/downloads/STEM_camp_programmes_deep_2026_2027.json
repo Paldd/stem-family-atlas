@@ -30,16 +30,16 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1766,
+    "dossiers": 1781,
     "countries": 104,
     "swiss": 137,
     "by_status": {
-      "published_2026_27": 255,
-      "published_2027": 496,
-      "partial_2027": 137,
-      "next_unannounced": 353,
-      "published_2026": 311,
-      "partial_2026_27": 28,
+      "published_2026_27": 261,
+      "published_2027": 498,
+      "partial_2027": 140,
+      "next_unannounced": 354,
+      "published_2026": 313,
+      "partial_2026_27": 29,
       "partial_2026": 23,
       "archive_next_unannounced": 138,
       "regular_programme": 17,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2522
+    "source_urls": 2534
   },
   "countries": [
     {
@@ -189,7 +189,7 @@
     },
     {
       "country": "España",
-      "count": 123
+      "count": 138
     },
     {
       "country": "Italia",
@@ -296789,6 +296789,2810 @@
       "catalog_participation": "day_camp",
       "related_event_ids": [],
       "calendar_links": []
+    },
+    {
+      "id": "CP1767",
+      "slug": "aula-ciencia-valencia-navidad-rudolf",
+      "provider": "Aula de Ciencia · Navidad · La nariz de Rudolf",
+      "country": "España",
+      "iso": "ESP",
+      "place": "Aula de Ciencia · C/ Felipe Valls 119 · Benimàmet · València",
+      "age": "6–16",
+      "themes": [
+        "science",
+        "robotics",
+        "engineering",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "El centro trabaja en castellano y valenciano y adapta el idioma al grupo. Confirmar el castellano en el turno concreto.",
+      "confirmed_instruction_languages": [],
+      "programme": "Experimentos con luz y energía, circuitos y sensores. Se adaptan los retos a la edad.",
+      "timing": {
+        "status": "published_2026",
+        "label": "24, 28, 29 y 30 de diciembre de 2026, 09:00–14:00. Inscripción por día o paquete de 4 días.",
+        "sessions": [
+          [
+            "2026-12-24",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-28"
+          ],
+          [
+            "2026-12-29",
+            "2026-12-29"
+          ],
+          [
+            "2026-12-30",
+            "2026-12-30"
+          ],
+          [
+            "2026-12-24",
+            "2026-12-30"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "single-2026-12-24",
+            "start": "2026-12-24",
+            "end": "2026-12-24",
+            "label": "Día suelto",
+            "place": "Aula de Ciencia · C/ Felipe Valls 119 · Benimàmet · València",
+            "age": "6–16",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según la ficha. Confirmar plaza y admisión efectiva."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Adecuado una vez cumplidos 6 años. Confirmar admisión e idioma del día elegido."
+              }
+            },
+            "source": "https://www.auladeciencia.com/intensivos/navidad/",
+            "price": "EUR 40 por día, 09:00–14:00.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "open",
+              "label": "La página indica admisión de solicitudes. La plaza efectiva se confirma por separado."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-24",
+                "topic": "Experimentos con luz y energía, circuitos y sensores. Se adaptan los retos a la edad.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "single-2026-12-28",
+            "start": "2026-12-28",
+            "end": "2026-12-28",
+            "label": "Día suelto",
+            "place": "Aula de Ciencia · C/ Felipe Valls 119 · Benimàmet · València",
+            "age": "6–16",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según la ficha. Confirmar plaza y admisión efectiva."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Adecuado una vez cumplidos 6 años. Confirmar admisión e idioma del día elegido."
+              }
+            },
+            "source": "https://www.auladeciencia.com/intensivos/navidad/",
+            "price": "EUR 40 por día, 09:00–14:00.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "open",
+              "label": "La página indica admisión de solicitudes. La plaza efectiva se confirma por separado."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "topic": "Experimentos con luz y energía, circuitos y sensores. Se adaptan los retos a la edad.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "single-2026-12-29",
+            "start": "2026-12-29",
+            "end": "2026-12-29",
+            "label": "Día suelto",
+            "place": "Aula de Ciencia · C/ Felipe Valls 119 · Benimàmet · València",
+            "age": "6–16",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según la ficha. Confirmar plaza y admisión efectiva."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Adecuado una vez cumplidos 6 años. Confirmar admisión e idioma del día elegido."
+              }
+            },
+            "source": "https://www.auladeciencia.com/intensivos/navidad/",
+            "price": "EUR 40 por día, 09:00–14:00.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "open",
+              "label": "La página indica admisión de solicitudes. La plaza efectiva se confirma por separado."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-29",
+                "topic": "Experimentos con luz y energía, circuitos y sensores. Se adaptan los retos a la edad.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "single-2026-12-30",
+            "start": "2026-12-30",
+            "end": "2026-12-30",
+            "label": "Día suelto",
+            "place": "Aula de Ciencia · C/ Felipe Valls 119 · Benimàmet · València",
+            "age": "6–16",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según la ficha. Confirmar plaza y admisión efectiva."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Adecuado una vez cumplidos 6 años. Confirmar admisión e idioma del día elegido."
+              }
+            },
+            "source": "https://www.auladeciencia.com/intensivos/navidad/",
+            "price": "EUR 40 por día, 09:00–14:00.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "open",
+              "label": "La página indica admisión de solicitudes. La plaza efectiva se confirma por separado."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-30",
+                "topic": "Experimentos con luz y energía, circuitos y sensores. Se adaptan los retos a la edad.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "four-days",
+            "start": "2026-12-24",
+            "end": "2026-12-30",
+            "label": "Paquete de 4 días",
+            "place": "Aula de Ciencia · C/ Felipe Valls 119 · Benimàmet · València",
+            "age": "6–16",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según la ficha. Confirmar plaza y admisión efectiva."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Adecuado una vez cumplidos 6 años. Confirmar admisión e idioma del día elegido."
+              }
+            },
+            "source": "https://www.auladeciencia.com/intensivos/navidad/",
+            "price": "EUR 135 por 4 días, 09:00–14:00.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "open",
+              "label": "La página indica admisión de solicitudes. La plaza efectiva se confirma por separado."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-24",
+                "topic": "Experimentos con luz y energía, circuitos y sensores. Se adaptan los retos a la edad.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-28",
+                "topic": "Experimentos con luz y energía, circuitos y sensores. Se adaptan los retos a la edad.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "topic": "Experimentos con luz y energía, circuitos y sensores. Se adaptan los retos a la edad.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-30",
+                "topic": "Experimentos con luz y energía, circuitos y sensores. Se adaptan los retos a la edad.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "EUR",
+        "amount": 135,
+        "unit": "programme",
+        "label": "EUR 40 por día, 09:00–14:00. EUR 135 por 4 días, 09:00–14:00.",
+        "included": "Experimentos con luz y energía, circuitos y sensores. Se adaptan los retos a la edad.",
+        "extras": "Por cada día: EUR 6 de 08:00 a 09:00 y EUR 10 por prolongación hasta las 16:00. Llevar agua y tentempié.",
+        "deposit": "Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse."
+      },
+      "accommodation": "Taller diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Edad adecuada según la ficha. Confirmar plaza y admisión efectiva."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Adecuado una vez cumplidos 6 años. Confirmar admisión e idioma del día elegido."
+        }
+      },
+      "editorial_reason": "Condiciones publicadas por el organizador. Precio y plaza se comprueban por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse."
+      ],
+      "sources": [
+        {
+          "url": "https://www.auladeciencia.com/intensivos/navidad/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.auladeciencia.com/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "open",
+        "label": "La página indica admisión de solicitudes. La plaza efectiva se confirma por separado."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-24",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1767-20261224-20261224-single-2026-12-24"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-28",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1767-20261228-20261228-single-2026-12-28"
+          ]
+        },
+        {
+          "start": "2026-12-29",
+          "end": "2026-12-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1767-20261229-20261229-single-2026-12-29"
+          ]
+        },
+        {
+          "start": "2026-12-30",
+          "end": "2026-12-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1767-20261230-20261230-single-2026-12-30"
+          ]
+        },
+        {
+          "start": "2026-12-24",
+          "end": "2026-12-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1767-20261224-20261230-four-days"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1768",
+      "slug": "aula-ciencia-valencia-first-explore",
+      "provider": "Aula de Ciencia · FIRST LEGO League Explore",
+      "country": "España",
+      "iso": "ESP",
+      "place": "Aula de Ciencia · C/ Felipe Valls 119 · Benimàmet · València",
+      "age": "6–9",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "El centro trabaja en castellano y valenciano y adapta el idioma al grupo. Confirmar el castellano en el turno concreto.",
+      "confirmed_instruction_languages": [],
+      "programme": "Temporada por equipos con LEGO SPIKE Essential, investigación y presentación. Franja los viernes 17:30–19:00.",
+      "timing": {
+        "status": "partial_2026_27",
+        "label": "Temporada 2026/27. El grupo Explore figura completo.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "label": "No se publica el precio de la opción concreta.",
+        "included": "",
+        "extras": "",
+        "deposit": "Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse."
+      },
+      "accommodation": "Taller diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Edad adecuada según la ficha. Confirmar plaza y admisión efectiva."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Edad adecuada según la ficha. Confirmar plaza y admisión efectiva."
+        }
+      },
+      "editorial_reason": "Condiciones publicadas por el organizador. Precio y plaza se comprueban por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse."
+      ],
+      "sources": [
+        {
+          "url": "https://www.auladeciencia.com/oferta-educativa/competicion-robotica-lego/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.auladeciencia.com/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "closed",
+        "label": "La página indica inscripción cerrada."
+      },
+      "programme_type": "course",
+      "catalog_participation": "course",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1769",
+      "slug": "robbo-barcelona-saturdays-robotics",
+      "provider": "ROBBO Club Poblenou · Robòtica",
+      "country": "España",
+      "iso": "ESP",
+      "place": "Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona",
+      "age": "Grupos paralelos de 6–9, 9–11 y 12–15 años.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Confirmar idioma de los talleres del sábado. El español y el ruso se indican para la jornada abierta de septiembre.",
+      "confirmed_instruction_languages": [],
+      "programme": "Construcción y programación de robots. Retos desde carreras hasta un robot seguidor de línea.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Sábados en las fechas publicadas, 11:45–13:15. El club confirmará el mínimo del grupo concreto.",
+        "sessions": [
+          [
+            "2026-11-14",
+            "2026-11-14"
+          ],
+          [
+            "2026-12-19",
+            "2026-12-19"
+          ],
+          [
+            "2027-01-16",
+            "2027-01-16"
+          ],
+          [
+            "2027-02-27",
+            "2027-02-27"
+          ],
+          [
+            "2027-05-29",
+            "2027-05-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "robotics-2026-11-14",
+            "start": "2026-11-14",
+            "end": "2026-11-14",
+            "label": "Curses de robots: construïm el circuit i programem els robots",
+            "place": "Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona",
+            "age": "Grupos paralelos de 6–9, 9–11 y 12–15 años.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Edad mínima 6 años. El club confirma la edad y la apertura del grupo."
+              }
+            },
+            "source": "https://robboclub.es/barcelona/ca/tallers",
+            "price": "EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-14",
+                "topic": "Curses de robots: construïm el circuit i programem els robots",
+                "start_time": "11:45",
+                "end_time": "13:15",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "robotics-2026-12-19",
+            "start": "2026-12-19",
+            "end": "2026-12-19",
+            "label": "Any Nou amb ROBBO Lab",
+            "place": "Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona",
+            "age": "Grupos paralelos de 6–9, 9–11 y 12–15 años.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Edad mínima 6 años. El club confirma la edad y la apertura del grupo."
+              }
+            },
+            "source": "https://robboclub.es/barcelona/ca/tallers",
+            "price": "EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-19",
+                "topic": "Any Nou amb ROBBO Lab",
+                "start_time": "11:45",
+                "end_time": "13:15",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "robotics-2027-01-16",
+            "start": "2027-01-16",
+            "end": "2027-01-16",
+            "label": "Missió Mart: un robot explorador",
+            "place": "Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona",
+            "age": "Grupos paralelos de 6–9, 9–11 y 12–15 años.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Edad mínima 6 años. El club confirma la edad y la apertura del grupo."
+              }
+            },
+            "source": "https://robboclub.es/barcelona/ca/tallers",
+            "price": "EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-16",
+                "topic": "Missió Mart: un robot explorador",
+                "start_time": "11:45",
+                "end_time": "13:15",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "robotics-2027-02-27",
+            "start": "2027-02-27",
+            "end": "2027-02-27",
+            "label": "Transport autònom: el robot segueix la línia",
+            "place": "Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona",
+            "age": "Grupos paralelos de 6–9, 9–11 y 12–15 años.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Edad mínima 6 años. El club confirma la edad y la apertura del grupo."
+              }
+            },
+            "source": "https://robboclub.es/barcelona/ca/tallers",
+            "price": "EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes."
+            },
+            "sessions": [
+              {
+                "date": "2027-02-27",
+                "topic": "Transport autònom: el robot segueix la línia",
+                "start_time": "11:45",
+                "end_time": "13:15",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "robotics-2027-05-29",
+            "start": "2027-05-29",
+            "end": "2027-05-29",
+            "label": "Robots en ruta: missió de transport",
+            "place": "Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona",
+            "age": "Grupos paralelos de 6–9, 9–11 y 12–15 años.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Edad mínima 6 años. El club confirma la edad y la apertura del grupo."
+              }
+            },
+            "source": "https://robboclub.es/barcelona/ca/tallers",
+            "price": "EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes."
+            },
+            "sessions": [
+              {
+                "date": "2027-05-29",
+                "topic": "Robots en ruta: missió de transport",
+                "start_time": "11:45",
+                "end_time": "13:15",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "EUR",
+        "amount": 30,
+        "unit": "workshop",
+        "label": "EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.",
+        "included": "Construcción y programación de robots. Retos desde carreras hasta un robot seguidor de línea.",
+        "extras": "No se publica el precio de la opción concreta.",
+        "deposit": "El club confirma el grupo antes del pago. Según las condiciones generales, el reembolso íntegro exige cancelación escrita con al menos 48 horas.",
+        "season": "2026/27"
+      },
+      "accommodation": "Taller diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Edad mínima 6 años. El club confirma la edad y la apertura del grupo."
+        }
+      },
+      "editorial_reason": "Condiciones publicadas por el organizador. Precio y plaza se comprueban por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse."
+      ],
+      "sources": [
+        {
+          "url": "https://robboclub.es/barcelona/ca/tallers",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://robboclub.es/barcelona/en",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://robboclub.es/barcelona/es/terms",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-14",
+          "end": "2026-11-14",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1769-20261114-20261114"
+          ]
+        },
+        {
+          "start": "2026-12-19",
+          "end": "2026-12-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1769-20261219-20261219"
+          ]
+        },
+        {
+          "start": "2027-01-16",
+          "end": "2027-01-16",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1769-20270116-20270116"
+          ]
+        },
+        {
+          "start": "2027-02-27",
+          "end": "2027-02-27",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1769-20270227-20270227"
+          ]
+        },
+        {
+          "start": "2027-05-29",
+          "end": "2027-05-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1769-20270529-20270529"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1770",
+      "slug": "robbo-barcelona-saturdays-minecraft",
+      "provider": "ROBBO Club Poblenou · Minecraft",
+      "country": "España",
+      "iso": "ESP",
+      "place": "Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona",
+      "age": "Grupos paralelos de 6–9, 9–11 y 12–15 años.",
+      "themes": [
+        "games",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Confirmar idioma de los talleres del sábado. El español y el ruso se indican para la jornada abierta de septiembre.",
+      "confirmed_instruction_languages": [],
+      "programme": "Construcción y retos en Minecraft. El nivel depende del grupo de edad.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Sábados en las fechas publicadas, 11:45–13:15. El club confirmará el mínimo del grupo concreto.",
+        "sessions": [
+          [
+            "2027-01-09",
+            "2027-01-09"
+          ],
+          [
+            "2027-02-20",
+            "2027-02-20"
+          ],
+          [
+            "2027-04-03",
+            "2027-04-03"
+          ],
+          [
+            "2027-05-15",
+            "2027-05-15"
+          ],
+          [
+            "2027-06-05",
+            "2027-06-05"
+          ],
+          [
+            "2027-06-19",
+            "2027-06-19"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "minecraft-2027-01-09",
+            "start": "2027-01-09",
+            "end": "2027-01-09",
+            "label": "Minecraft: un poble d’hivern",
+            "place": "Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona",
+            "age": "Grupos paralelos de 6–9, 9–11 y 12–15 años.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Edad mínima 6 años. El club confirma la edad y la apertura del grupo."
+              }
+            },
+            "source": "https://robboclub.es/barcelona/ca/tallers",
+            "price": "EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-09",
+                "topic": "Minecraft: un poble d’hivern",
+                "start_time": "11:45",
+                "end_time": "13:15",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "minecraft-2027-02-20",
+            "start": "2027-02-20",
+            "end": "2027-02-20",
+            "label": "Minecraft: classifiquem recursos",
+            "place": "Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona",
+            "age": "Grupos paralelos de 6–9, 9–11 y 12–15 años.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Edad mínima 6 años. El club confirma la edad y la apertura del grupo."
+              }
+            },
+            "source": "https://robboclub.es/barcelona/ca/tallers",
+            "price": "EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes."
+            },
+            "sessions": [
+              {
+                "date": "2027-02-20",
+                "topic": "Minecraft: classifiquem recursos",
+                "start_time": "11:45",
+                "end_time": "13:15",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "minecraft-2027-04-03",
+            "start": "2027-04-03",
+            "end": "2027-04-03",
+            "label": "Minecraft: el castell del drac",
+            "place": "Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona",
+            "age": "Grupos paralelos de 6–9, 9–11 y 12–15 años.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Edad mínima 6 años. El club confirma la edad y la apertura del grupo."
+              }
+            },
+            "source": "https://robboclub.es/barcelona/ca/tallers",
+            "price": "EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes."
+            },
+            "sessions": [
+              {
+                "date": "2027-04-03",
+                "topic": "Minecraft: el castell del drac",
+                "start_time": "11:45",
+                "end_time": "13:15",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "minecraft-2027-05-15",
+            "start": "2027-05-15",
+            "end": "2027-05-15",
+            "label": "Minecraft: el repte del laberint",
+            "place": "Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona",
+            "age": "Grupos paralelos de 6–9, 9–11 y 12–15 años.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Edad mínima 6 años. El club confirma la edad y la apertura del grupo."
+              }
+            },
+            "source": "https://robboclub.es/barcelona/ca/tallers",
+            "price": "EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes."
+            },
+            "sessions": [
+              {
+                "date": "2027-05-15",
+                "topic": "Minecraft: el repte del laberint",
+                "start_time": "11:45",
+                "end_time": "13:15",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "minecraft-2027-06-05",
+            "start": "2027-06-05",
+            "end": "2027-06-05",
+            "label": "Minecraft: construïm un vaixell",
+            "place": "Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona",
+            "age": "Grupos paralelos de 6–9, 9–11 y 12–15 años.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Edad mínima 6 años. El club confirma la edad y la apertura del grupo."
+              }
+            },
+            "source": "https://robboclub.es/barcelona/ca/tallers",
+            "price": "EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes."
+            },
+            "sessions": [
+              {
+                "date": "2027-06-05",
+                "topic": "Minecraft: construïm un vaixell",
+                "start_time": "11:45",
+                "end_time": "13:15",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "minecraft-2027-06-19",
+            "start": "2027-06-19",
+            "end": "2027-06-19",
+            "label": "Minecraft: màquines constructores",
+            "place": "Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona",
+            "age": "Grupos paralelos de 6–9, 9–11 y 12–15 años.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Edad mínima 6 años. El club confirma la edad y la apertura del grupo."
+              }
+            },
+            "source": "https://robboclub.es/barcelona/ca/tallers",
+            "price": "EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes."
+            },
+            "sessions": [
+              {
+                "date": "2027-06-19",
+                "topic": "Minecraft: màquines constructores",
+                "start_time": "11:45",
+                "end_time": "13:15",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "EUR",
+        "amount": 30,
+        "unit": "workshop",
+        "label": "EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.",
+        "included": "Construcción y retos en Minecraft. El nivel depende del grupo de edad.",
+        "extras": "No se publica el precio de la opción concreta.",
+        "deposit": "El club confirma el grupo antes del pago. Según las condiciones generales, el reembolso íntegro exige cancelación escrita con al menos 48 horas.",
+        "season": "2026/27"
+      },
+      "accommodation": "Taller diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Edad mínima 6 años. El club confirma la edad y la apertura del grupo."
+        }
+      },
+      "editorial_reason": "Condiciones publicadas por el organizador. Precio y plaza se comprueban por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse."
+      ],
+      "sources": [
+        {
+          "url": "https://robboclub.es/barcelona/ca/tallers",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://robboclub.es/barcelona/en",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://robboclub.es/barcelona/es/terms",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-09",
+          "end": "2027-01-09",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1770-20270109-20270109"
+          ]
+        },
+        {
+          "start": "2027-02-20",
+          "end": "2027-02-20",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1770-20270220-20270220"
+          ]
+        },
+        {
+          "start": "2027-04-03",
+          "end": "2027-04-03",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1770-20270403-20270403"
+          ]
+        },
+        {
+          "start": "2027-05-15",
+          "end": "2027-05-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1770-20270515-20270515"
+          ]
+        },
+        {
+          "start": "2027-06-05",
+          "end": "2027-06-05",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1770-20270605-20270605"
+          ]
+        },
+        {
+          "start": "2027-06-19",
+          "end": "2027-06-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1770-20270619-20270619"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1771",
+      "slug": "robbo-barcelona-saturdays-scratch",
+      "provider": "ROBBO Club Poblenou · Scratch",
+      "country": "España",
+      "iso": "ESP",
+      "place": "Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona",
+      "age": "Grupos paralelos de 6–9, 9–11 y 12–15 años.",
+      "themes": [
+        "coding",
+        "games"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Confirmar idioma de los talleres del sábado. El español y el ruso se indican para la jornada abierta de septiembre.",
+      "confirmed_instruction_languages": [],
+      "programme": "Creación de juegos y proyectos interactivos en Scratch.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Sábados en las fechas publicadas, 11:45–13:15. El club confirmará el mínimo del grupo concreto.",
+        "sessions": [
+          [
+            "2026-12-12",
+            "2026-12-12"
+          ],
+          [
+            "2027-02-06",
+            "2027-02-06"
+          ],
+          [
+            "2027-04-24",
+            "2027-04-24"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "scratch-2026-12-12",
+            "start": "2026-12-12",
+            "end": "2026-12-12",
+            "label": "Scratch: decorem l’arbre de Nadal",
+            "place": "Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona",
+            "age": "Grupos paralelos de 6–9, 9–11 y 12–15 años.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Edad mínima 6 años. El club confirma la edad y la apertura del grupo."
+              }
+            },
+            "source": "https://robboclub.es/barcelona/ca/tallers",
+            "price": "EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-12",
+                "topic": "Scratch: decorem l’arbre de Nadal",
+                "start_time": "11:45",
+                "end_time": "13:15",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "scratch-2027-02-06",
+            "start": "2027-02-06",
+            "end": "2027-02-06",
+            "label": "Scratch: el joc de les disfresses",
+            "place": "Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona",
+            "age": "Grupos paralelos de 6–9, 9–11 y 12–15 años.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Edad mínima 6 años. El club confirma la edad y la apertura del grupo."
+              }
+            },
+            "source": "https://robboclub.es/barcelona/ca/tallers",
+            "price": "EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes."
+            },
+            "sessions": [
+              {
+                "date": "2027-02-06",
+                "topic": "Scratch: el joc de les disfresses",
+                "start_time": "11:45",
+                "end_time": "13:15",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "scratch-2027-04-24",
+            "start": "2027-04-24",
+            "end": "2027-04-24",
+            "label": "Scratch: l’aventura del drac de Sant Jordi",
+            "place": "Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona",
+            "age": "Grupos paralelos de 6–9, 9–11 y 12–15 años.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Edad mínima 6 años. El club confirma la edad y la apertura del grupo."
+              }
+            },
+            "source": "https://robboclub.es/barcelona/ca/tallers",
+            "price": "EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes."
+            },
+            "sessions": [
+              {
+                "date": "2027-04-24",
+                "topic": "Scratch: l’aventura del drac de Sant Jordi",
+                "start_time": "11:45",
+                "end_time": "13:15",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "EUR",
+        "amount": 30,
+        "unit": "workshop",
+        "label": "EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.",
+        "included": "Creación de juegos y proyectos interactivos en Scratch.",
+        "extras": "No se publica el precio de la opción concreta.",
+        "deposit": "El club confirma el grupo antes del pago. Según las condiciones generales, el reembolso íntegro exige cancelación escrita con al menos 48 horas.",
+        "season": "2026/27"
+      },
+      "accommodation": "Taller diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Edad mínima 6 años. El club confirma la edad y la apertura del grupo."
+        }
+      },
+      "editorial_reason": "Condiciones publicadas por el organizador. Precio y plaza se comprueban por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse."
+      ],
+      "sources": [
+        {
+          "url": "https://robboclub.es/barcelona/ca/tallers",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://robboclub.es/barcelona/en",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://robboclub.es/barcelona/es/terms",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-12",
+          "end": "2026-12-12",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1771-20261212-20261212"
+          ]
+        },
+        {
+          "start": "2027-02-06",
+          "end": "2027-02-06",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1771-20270206-20270206"
+          ]
+        },
+        {
+          "start": "2027-04-24",
+          "end": "2027-04-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1771-20270424-20270424"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1772",
+      "slug": "robbo-barcelona-saturdays-circuits",
+      "provider": "ROBBO Club Poblenou · Circuits",
+      "country": "España",
+      "iso": "ESP",
+      "place": "Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona",
+      "age": "Grupos paralelos de 6–9, 9–11 y 12–15 años.",
+      "themes": [
+        "engineering",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Confirmar idioma de los talleres del sábado. El español y el ruso se indican para la jornada abierta de septiembre.",
+      "confirmed_instruction_languages": [],
+      "programme": "Circuitos eléctricos, luz, sensores magnéticos y motores.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Sábados en las fechas publicadas, 11:45–13:15. El club confirmará el mínimo del grupo concreto.",
+        "sessions": [
+          [
+            "2026-12-05",
+            "2026-12-05"
+          ],
+          [
+            "2027-02-13",
+            "2027-02-13"
+          ],
+          [
+            "2027-05-08",
+            "2027-05-08"
+          ],
+          [
+            "2027-06-12",
+            "2027-06-12"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "circuits-2026-12-05",
+            "start": "2026-12-05",
+            "end": "2026-12-05",
+            "label": "Una postal de Nadal que s’il·lumina",
+            "place": "Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona",
+            "age": "Grupos paralelos de 6–9, 9–11 y 12–15 años.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Edad mínima 6 años. El club confirma la edad y la apertura del grupo."
+              }
+            },
+            "source": "https://robboclub.es/barcelona/ca/tallers",
+            "price": "EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-05",
+                "topic": "Una postal de Nadal que s’il·lumina",
+                "start_time": "11:45",
+                "end_time": "13:15",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "circuits-2027-02-13",
+            "start": "2027-02-13",
+            "end": "2027-02-13",
+            "label": "Barcelona s’il·lumina: encenem una maqueta",
+            "place": "Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona",
+            "age": "Grupos paralelos de 6–9, 9–11 y 12–15 años.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Edad mínima 6 años. El club confirma la edad y la apertura del grupo."
+              }
+            },
+            "source": "https://robboclub.es/barcelona/ca/tallers",
+            "price": "EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes."
+            },
+            "sessions": [
+              {
+                "date": "2027-02-13",
+                "topic": "Barcelona s’il·lumina: encenem una maqueta",
+                "start_time": "11:45",
+                "end_time": "13:15",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "circuits-2027-05-08",
+            "start": "2027-05-08",
+            "end": "2027-05-08",
+            "label": "Una alarma que funciona amb un imant",
+            "place": "Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona",
+            "age": "Grupos paralelos de 6–9, 9–11 y 12–15 años.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Edad mínima 6 años. El club confirma la edad y la apertura del grupo."
+              }
+            },
+            "source": "https://robboclub.es/barcelona/ca/tallers",
+            "price": "EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes."
+            },
+            "sessions": [
+              {
+                "date": "2027-05-08",
+                "topic": "Una alarma que funciona amb un imant",
+                "start_time": "11:45",
+                "end_time": "13:15",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "circuits-2027-06-12",
+            "start": "2027-06-12",
+            "end": "2027-06-12",
+            "label": "Un cotxe elèctric: motor i moviment",
+            "place": "Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona",
+            "age": "Grupos paralelos de 6–9, 9–11 y 12–15 años.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Edad mínima 6 años. El club confirma la edad y la apertura del grupo."
+              }
+            },
+            "source": "https://robboclub.es/barcelona/ca/tallers",
+            "price": "EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes."
+            },
+            "sessions": [
+              {
+                "date": "2027-06-12",
+                "topic": "Un cotxe elèctric: motor i moviment",
+                "start_time": "11:45",
+                "end_time": "13:15",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "EUR",
+        "amount": 30,
+        "unit": "workshop",
+        "label": "EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.",
+        "included": "Circuitos eléctricos, luz, sensores magnéticos y motores.",
+        "extras": "No se publica el precio de la opción concreta.",
+        "deposit": "El club confirma el grupo antes del pago. Según las condiciones generales, el reembolso íntegro exige cancelación escrita con al menos 48 horas.",
+        "season": "2026/27"
+      },
+      "accommodation": "Taller diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Edad mínima 6 años. El club confirma la edad y la apertura del grupo."
+        }
+      },
+      "editorial_reason": "Condiciones publicadas por el organizador. Precio y plaza se comprueban por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse."
+      ],
+      "sources": [
+        {
+          "url": "https://robboclub.es/barcelona/ca/tallers",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://robboclub.es/barcelona/en",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://robboclub.es/barcelona/es/terms",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-05",
+          "end": "2026-12-05",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1772-20261205-20261205"
+          ]
+        },
+        {
+          "start": "2027-02-13",
+          "end": "2027-02-13",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1772-20270213-20270213"
+          ]
+        },
+        {
+          "start": "2027-05-08",
+          "end": "2027-05-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1772-20270508-20270508"
+          ]
+        },
+        {
+          "start": "2027-06-12",
+          "end": "2027-06-12",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1772-20270612-20270612"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1773",
+      "slug": "robbo-barcelona-saturdays-design",
+      "provider": "ROBBO Club Poblenou · Disseny 3D",
+      "country": "España",
+      "iso": "ESP",
+      "place": "Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona",
+      "age": "Grupos paralelos de 6–9, 9–11 y 12–15 años.",
+      "themes": [
+        "makers",
+        "engineering",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Confirmar idioma de los talleres del sábado. El español y el ruso se indican para la jornada abierta de septiembre.",
+      "confirmed_instruction_languages": [],
+      "programme": "Los proyectos se organizan en parejas de sábados. Se imprime entre el diseño y el montaje. Confirmar si se puede asistir solo a la segunda parte.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Sábados en las fechas publicadas, 11:45–13:15. El club confirmará el mínimo del grupo concreto.",
+        "sessions": [
+          [
+            "2026-11-21",
+            "2026-11-21"
+          ],
+          [
+            "2026-11-28",
+            "2026-11-28"
+          ],
+          [
+            "2027-01-23",
+            "2027-01-23"
+          ],
+          [
+            "2027-01-30",
+            "2027-01-30"
+          ],
+          [
+            "2027-03-06",
+            "2027-03-06"
+          ],
+          [
+            "2027-03-13",
+            "2027-03-13"
+          ],
+          [
+            "2027-04-10",
+            "2027-04-10"
+          ],
+          [
+            "2027-04-17",
+            "2027-04-17"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "design-2026-11-21",
+            "start": "2026-11-21",
+            "end": "2026-11-21",
+            "label": "Un gat en 3D: dissenyem un tovalloner",
+            "place": "Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona",
+            "age": "Grupos paralelos de 6–9, 9–11 y 12–15 años.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Edad mínima 6 años. El club confirma la edad y la apertura del grupo."
+              }
+            },
+            "source": "https://robboclub.es/barcelona/ca/tallers",
+            "price": "EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-21",
+                "topic": "Un gat en 3D: dissenyem un tovalloner",
+                "start_time": "11:45",
+                "end_time": "13:15",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "design-2026-11-28",
+            "start": "2026-11-28",
+            "end": "2026-11-28",
+            "label": "Un gat en 3D: muntem i corregim",
+            "place": "Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona",
+            "age": "Grupos paralelos de 6–9, 9–11 y 12–15 años.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Edad mínima 6 años. El club confirma la edad y la apertura del grupo."
+              }
+            },
+            "source": "https://robboclub.es/barcelona/ca/tallers",
+            "price": "EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-28",
+                "topic": "Un gat en 3D: muntem i corregim",
+                "start_time": "11:45",
+                "end_time": "13:15",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "design-2027-01-23",
+            "start": "2027-01-23",
+            "end": "2027-01-23",
+            "label": "Estació espacial 3D: dissenyem els mòduls",
+            "place": "Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona",
+            "age": "Grupos paralelos de 6–9, 9–11 y 12–15 años.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Edad mínima 6 años. El club confirma la edad y la apertura del grupo."
+              }
+            },
+            "source": "https://robboclub.es/barcelona/ca/tallers",
+            "price": "EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-23",
+                "topic": "Estació espacial 3D: dissenyem els mòduls",
+                "start_time": "11:45",
+                "end_time": "13:15",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "design-2027-01-30",
+            "start": "2027-01-30",
+            "end": "2027-01-30",
+            "label": "Estació espacial 3D: muntem i millorem",
+            "place": "Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona",
+            "age": "Grupos paralelos de 6–9, 9–11 y 12–15 años.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Edad mínima 6 años. El club confirma la edad y la apertura del grupo."
+              }
+            },
+            "source": "https://robboclub.es/barcelona/ca/tallers",
+            "price": "EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-30",
+                "topic": "Estació espacial 3D: muntem i millorem",
+                "start_time": "11:45",
+                "end_time": "13:15",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "design-2027-03-06",
+            "start": "2027-03-06",
+            "end": "2027-03-06",
+            "label": "Flors de primavera: dissenyem en 3D",
+            "place": "Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona",
+            "age": "Grupos paralelos de 6–9, 9–11 y 12–15 años.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Edad mínima 6 años. El club confirma la edad y la apertura del grupo."
+              }
+            },
+            "source": "https://robboclub.es/barcelona/ca/tallers",
+            "price": "EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes."
+            },
+            "sessions": [
+              {
+                "date": "2027-03-06",
+                "topic": "Flors de primavera: dissenyem en 3D",
+                "start_time": "11:45",
+                "end_time": "13:15",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "design-2027-03-13",
+            "start": "2027-03-13",
+            "end": "2027-03-13",
+            "label": "Flors de primavera: provem i millorem",
+            "place": "Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona",
+            "age": "Grupos paralelos de 6–9, 9–11 y 12–15 años.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Edad mínima 6 años. El club confirma la edad y la apertura del grupo."
+              }
+            },
+            "source": "https://robboclub.es/barcelona/ca/tallers",
+            "price": "EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes."
+            },
+            "sessions": [
+              {
+                "date": "2027-03-13",
+                "topic": "Flors de primavera: provem i millorem",
+                "start_time": "11:45",
+                "end_time": "13:15",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "design-2027-04-10",
+            "start": "2027-04-10",
+            "end": "2027-04-10",
+            "label": "Una rosa per Sant Jordi: dissenyem en 3D",
+            "place": "Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona",
+            "age": "Grupos paralelos de 6–9, 9–11 y 12–15 años.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Edad mínima 6 años. El club confirma la edad y la apertura del grupo."
+              }
+            },
+            "source": "https://robboclub.es/barcelona/ca/tallers",
+            "price": "EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes."
+            },
+            "sessions": [
+              {
+                "date": "2027-04-10",
+                "topic": "Una rosa per Sant Jordi: dissenyem en 3D",
+                "start_time": "11:45",
+                "end_time": "13:15",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "design-2027-04-17",
+            "start": "2027-04-17",
+            "end": "2027-04-17",
+            "label": "Una rosa per Sant Jordi: provem i millorem",
+            "place": "Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona",
+            "age": "Grupos paralelos de 6–9, 9–11 y 12–15 años.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Edad mínima 6 años. El club confirma la edad y la apertura del grupo."
+              }
+            },
+            "source": "https://robboclub.es/barcelona/ca/tallers",
+            "price": "EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes."
+            },
+            "sessions": [
+              {
+                "date": "2027-04-17",
+                "topic": "Una rosa per Sant Jordi: provem i millorem",
+                "start_time": "11:45",
+                "end_time": "13:15",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "EUR",
+        "amount": 30,
+        "unit": "workshop",
+        "label": "EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.",
+        "included": "Los proyectos se organizan en parejas de sábados. Se imprime entre el diseño y el montaje. Confirmar si se puede asistir solo a la segunda parte.",
+        "extras": "No se publica el precio de la opción concreta.",
+        "deposit": "El club confirma el grupo antes del pago. Según las condiciones generales, el reembolso íntegro exige cancelación escrita con al menos 48 horas.",
+        "season": "2026/27"
+      },
+      "accommodation": "Taller diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Edad mínima 6 años. El club confirma la edad y la apertura del grupo."
+        }
+      },
+      "editorial_reason": "Condiciones publicadas por el organizador. Precio y plaza se comprueban por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse."
+      ],
+      "sources": [
+        {
+          "url": "https://robboclub.es/barcelona/ca/tallers",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://robboclub.es/barcelona/en",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://robboclub.es/barcelona/es/terms",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-21",
+          "end": "2026-11-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1773-20261121-20261121"
+          ]
+        },
+        {
+          "start": "2026-11-28",
+          "end": "2026-11-28",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1773-20261128-20261128"
+          ]
+        },
+        {
+          "start": "2027-01-23",
+          "end": "2027-01-23",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1773-20270123-20270123"
+          ]
+        },
+        {
+          "start": "2027-01-30",
+          "end": "2027-01-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1773-20270130-20270130"
+          ]
+        },
+        {
+          "start": "2027-03-06",
+          "end": "2027-03-06",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1773-20270306-20270306"
+          ]
+        },
+        {
+          "start": "2027-03-13",
+          "end": "2027-03-13",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1773-20270313-20270313"
+          ]
+        },
+        {
+          "start": "2027-04-10",
+          "end": "2027-04-10",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1773-20270410-20270410"
+          ]
+        },
+        {
+          "start": "2027-04-17",
+          "end": "2027-04-17",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1773-20270417-20270417"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1774",
+      "slug": "robbo-barcelona-saturdays-logic",
+      "provider": "ROBBO Club Poblenou · Lògica",
+      "country": "España",
+      "iso": "ESP",
+      "place": "Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona",
+      "age": "Grupos paralelos de 6–9, 9–11 y 12–15 años.",
+      "themes": [
+        "coding",
+        "games"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Confirmar idioma de los talleres del sábado. El español y el ruso se indican para la jornada abierta de septiembre.",
+      "confirmed_instruction_languages": [],
+      "programme": "Retos de lógica, códigos y búsqueda de pistas.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Sábados en las fechas publicadas, 11:45–13:15. El club confirmará el mínimo del grupo concreto.",
+        "sessions": [
+          [
+            "2027-05-22",
+            "2027-05-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "logic-2027-05-22",
+            "start": "2027-05-22",
+            "end": "2027-05-22",
+            "label": "Pistes i codis: el repte de lògica",
+            "place": "Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona",
+            "age": "Grupos paralelos de 6–9, 9–11 y 12–15 años.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Edad mínima 6 años. El club confirma la edad y la apertura del grupo."
+              }
+            },
+            "source": "https://robboclub.es/barcelona/ca/tallers",
+            "price": "EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes."
+            },
+            "sessions": [
+              {
+                "date": "2027-05-22",
+                "topic": "Pistes i codis: el repte de lògica",
+                "start_time": "11:45",
+                "end_time": "13:15",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "EUR",
+        "amount": 30,
+        "unit": "workshop",
+        "label": "EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.",
+        "included": "Retos de lógica, códigos y búsqueda de pistas.",
+        "extras": "No se publica el precio de la opción concreta.",
+        "deposit": "El club confirma el grupo antes del pago. Según las condiciones generales, el reembolso íntegro exige cancelación escrita con al menos 48 horas.",
+        "season": "2026/27"
+      },
+      "accommodation": "Taller diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Edad mínima 6 años. El club confirma la edad y la apertura del grupo."
+        }
+      },
+      "editorial_reason": "Condiciones publicadas por el organizador. Precio y plaza se comprueban por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse."
+      ],
+      "sources": [
+        {
+          "url": "https://robboclub.es/barcelona/ca/tallers",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://robboclub.es/barcelona/en",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://robboclub.es/barcelona/es/terms",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-05-22",
+          "end": "2027-05-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1774-20270522-20270522"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1775",
+      "slug": "graellsia-el-escorial-pascua-day",
+      "provider": "Graellsia · Campamento Científico · Diurno · EUR 150",
+      "country": "España",
+      "iso": "ESP",
+      "place": "San Lorenzo de El Escorial · Monte Abantos / C.E.A. Los Llanillos",
+      "age": "4–15 años y etapas escolares indicadas. Confirmar cómo se aplican ambos criterios a los menores.",
+      "themes": [
+        "science",
+        "nature",
+        "outdoor"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Idioma del grupo elegido sin publicar.",
+      "confirmed_instruction_languages": [],
+      "programme": "Actividades de campo y laboratorio sobre naturaleza, observación de fauna y excursión familiar el último día.",
+      "timing": {
+        "status": "published_2027",
+        "label": "22–26 de marzo de 2027. Actividades diurnas 09:30–16:30. Solicitudes hasta el 20 de marzo de 2027.",
+        "sessions": [
+          [
+            "2027-03-22",
+            "2027-03-26"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "day",
+            "start": "2027-03-22",
+            "end": "2027-03-26",
+            "label": "Diurno · EUR 150",
+            "place": "San Lorenzo de El Escorial · Monte Abantos / C.E.A. Los Llanillos",
+            "age": "4–15 años y etapas escolares indicadas. Confirmar cómo se aplican ambos criterios a los menores.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Edad adecuada. Confirmar curso, plaza y modalidad."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Edad adecuada. Para 6 años, confirmar etapa escolar y reglas de pernocta."
+              }
+            },
+            "source": "https://graellsia.com/dossier/educacionambiental/campamento-semanasanta",
+            "price": "Diurno · EUR 150",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "open",
+              "label": "La página indica admisión de solicitudes. La plaza efectiva se confirma por separado."
+            },
+            "sessions": [
+              {
+                "date": "2027-03-22",
+                "topic": "Actividades de campo y laboratorio sobre naturaleza, observación de fauna y excursión familiar el último día.",
+                "start_time": "09:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-23",
+                "topic": "Actividades de campo y laboratorio sobre naturaleza, observación de fauna y excursión familiar el último día.",
+                "start_time": "09:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-24",
+                "topic": "Actividades de campo y laboratorio sobre naturaleza, observación de fauna y excursión familiar el último día.",
+                "start_time": "09:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-25",
+                "topic": "Actividades de campo y laboratorio sobre naturaleza, observación de fauna y excursión familiar el último día.",
+                "start_time": "09:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-26",
+                "topic": "Actividades de campo y laboratorio sobre naturaleza, observación de fauna y excursión familiar el último día.",
+                "start_time": "09:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ],
+            "deadline": "2027-03-20"
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "EUR",
+        "amount": 150,
+        "unit": "programme",
+        "label": "Diurno · EUR 150",
+        "included": "Actividades, materiales y seguro. Comidas y alojamiento aparte.",
+        "extras": "Se publica un descuento del 10% al inscribir a 2 o más hermanos. Confirmar factura final y plazas.",
+        "deposit": "El organizador confirma la formalización tras el pago completo dentro del plazo que indique. Confirmar condiciones de devolución."
+      },
+      "accommodation": "Actividades, materiales y seguro. Comidas y alojamiento aparte.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Edad adecuada. Confirmar curso, plaza y modalidad."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Edad adecuada. Para 6 años, confirmar etapa escolar y reglas de pernocta."
+        }
+      },
+      "editorial_reason": "Condiciones publicadas por el organizador. Precio y plaza se comprueban por separado.",
+      "shortlist": [],
+      "questions": [
+        "Límite de 30. Confirmar idioma, plazas, descuento y forma de pago."
+      ],
+      "sources": [
+        {
+          "url": "https://graellsia.com/dossier/educacionambiental/campamento-semanasanta",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "open",
+        "label": "La página indica admisión de solicitudes. La plaza efectiva se confirma por separado."
+      },
+      "programme_type": "camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-03-22",
+          "end": "2027-03-26",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1775-20270322-20270326"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1776",
+      "slug": "graellsia-el-escorial-pascua-boarding",
+      "provider": "Graellsia · Campamento Científico · Con pernocta · EUR 260",
+      "country": "España",
+      "iso": "ESP",
+      "place": "San Lorenzo de El Escorial · Monte Abantos / C.E.A. Los Llanillos",
+      "age": "4–15 años y etapas escolares indicadas. Confirmar cómo se aplican ambos criterios a los menores.",
+      "themes": [
+        "science",
+        "nature",
+        "outdoor"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "language": "Idioma del grupo elegido sin publicar.",
+      "confirmed_instruction_languages": [],
+      "programme": "Actividades de campo y laboratorio sobre naturaleza, observación de fauna y excursión familiar el último día.",
+      "timing": {
+        "status": "published_2027",
+        "label": "22–26 de marzo de 2027. Actividades diurnas 09:30–16:30. Solicitudes hasta el 20 de marzo de 2027.",
+        "sessions": [
+          [
+            "2027-03-22",
+            "2027-03-26"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "boarding",
+            "start": "2027-03-22",
+            "end": "2027-03-26",
+            "label": "Con pernocta · EUR 260",
+            "place": "San Lorenzo de El Escorial · Monte Abantos / C.E.A. Los Llanillos",
+            "age": "4–15 años y etapas escolares indicadas. Confirmar cómo se aplican ambos criterios a los menores.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Edad adecuada. Confirmar curso, plaza y modalidad."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Edad adecuada. Para 6 años, confirmar etapa escolar y reglas de pernocta."
+              }
+            },
+            "source": "https://graellsia.com/dossier/educacionambiental/campamento-semanasanta",
+            "price": "Con pernocta · EUR 260",
+            "date_scope": "camp_session",
+            "availability": {
+              "status": "open",
+              "label": "La página indica admisión de solicitudes. La plaza efectiva se confirma por separado."
+            },
+            "deadline": "2027-03-20"
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "EUR",
+        "amount": 260,
+        "unit": "programme",
+        "label": "Con pernocta · EUR 260",
+        "included": "Actividades, materiales, seguro y pensión completa en C.E.A. Los Llanillos.",
+        "extras": "Se publica un descuento del 10% al inscribir a 2 o más hermanos. Confirmar factura final y plazas.",
+        "deposit": "El organizador confirma la formalización tras el pago completo dentro del plazo que indique. Confirmar condiciones de devolución."
+      },
+      "accommodation": "Actividades, materiales, seguro y pensión completa en C.E.A. Los Llanillos.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Edad adecuada. Confirmar curso, plaza y modalidad."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Edad adecuada. Para 6 años, confirmar etapa escolar y reglas de pernocta."
+        }
+      },
+      "editorial_reason": "Condiciones publicadas por el organizador. Precio y plaza se comprueban por separado.",
+      "shortlist": [],
+      "questions": [
+        "Límite de 12. Confirmar idioma, plazas, descuento y forma de pago."
+      ],
+      "sources": [
+        {
+          "url": "https://graellsia.com/dossier/educacionambiental/campamento-semanasanta",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "open",
+        "label": "La página indica admisión de solicitudes. La plaza efectiva se confirma por separado."
+      },
+      "programme_type": "camp",
+      "catalog_participation": "boarding_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-03-22",
+          "end": "2027-03-26",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1776-20270322-20270326"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1777",
+      "slug": "techlab-barcelona-2027-semana-blanca",
+      "provider": "TechLab Kids Sarrià · Semana Blanca",
+      "country": "España",
+      "iso": "ESP",
+      "place": "TechLab Kids Sarrià · Via Augusta 318 · Barcelona",
+      "age": "4–14 años. Grupos de 4–5, 6–8 y 9–14 años.",
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "science",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Idioma del grupo elegido sin publicar.",
+      "confirmed_instruction_languages": [],
+      "programme": "Robótica, ciencia y proyectos digitales. Pendientes los proyectos y tarifas del turno concreto.",
+      "timing": {
+        "status": "partial_2027",
+        "label": "Anuncio del 15 al 19 de febrero de 2027. Inscripción cerrada, horarios diarios sin publicar.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "label": "No se publica el precio de la opción concreta.",
+        "included": "",
+        "extras": "",
+        "deposit": "Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse."
+      },
+      "accommodation": "Taller diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Edad adecuada según la ficha. Confirmar plaza y admisión efectiva."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Edad adecuada según la ficha. Confirmar plaza y admisión efectiva."
+        }
+      },
+      "editorial_reason": "Condiciones publicadas por el organizador. Precio y plaza se comprueban por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse."
+      ],
+      "sources": [
+        {
+          "url": "https://techlabkids.com/campamentos/casal-de-semana-blanca/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://techlabkids.com/terminos-condiciones/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "closed",
+        "label": "La página indica inscripción cerrada."
+      },
+      "programme_type": "camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1778",
+      "slug": "techlab-barcelona-2027-semana-santa",
+      "provider": "TechLab Kids Sarrià · Semana Santa",
+      "country": "España",
+      "iso": "ESP",
+      "place": "TechLab Kids Sarrià · Via Augusta 318 · Barcelona",
+      "age": "4–14 años. Grupos de 4–5, 6–8 y 9–14 años.",
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "science",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Idioma del grupo elegido sin publicar.",
+      "confirmed_instruction_languages": [],
+      "programme": "Robótica, ciencia y proyectos digitales. Pendientes los proyectos y tarifas del turno concreto.",
+      "timing": {
+        "status": "partial_2027",
+        "label": "Periodo del 20 al 29 de marzo de 2027. Inscripción cerrada, días lectivos exactos sin publicar.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "label": "No se publica el precio de la opción concreta.",
+        "included": "",
+        "extras": "",
+        "deposit": "Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse."
+      },
+      "accommodation": "Taller diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Edad adecuada según la ficha. Confirmar plaza y admisión efectiva."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Edad adecuada según la ficha. Confirmar plaza y admisión efectiva."
+        }
+      },
+      "editorial_reason": "Condiciones publicadas por el organizador. Precio y plaza se comprueban por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse."
+      ],
+      "sources": [
+        {
+          "url": "https://techlabkids.com/campamentos/casal-de-semana-santa/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://techlabkids.com/terminos-condiciones/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "closed",
+        "label": "La página indica inscripción cerrada."
+      },
+      "programme_type": "camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1779",
+      "slug": "techlab-barcelona-2027-verano",
+      "provider": "TechLab Kids Sarrià · Verano",
+      "country": "España",
+      "iso": "ESP",
+      "place": "TechLab Kids Sarrià · Via Augusta 318 · Barcelona",
+      "age": "4–14 años. Grupos de 4–5, 6–8 y 9–14 años.",
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "science",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Idioma del grupo elegido sin publicar.",
+      "confirmed_instruction_languages": [],
+      "programme": "Robótica, ciencia y proyectos digitales. Pendientes los proyectos y tarifas del turno concreto.",
+      "timing": {
+        "status": "partial_2027",
+        "label": "Se anuncia inicio el 22 de junio de 2027. Inscripción cerrada, semanas sin publicar.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "label": "No se publica el precio de la opción concreta.",
+        "included": "",
+        "extras": "",
+        "deposit": "Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse."
+      },
+      "accommodation": "Taller diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Edad adecuada según la ficha. Confirmar plaza y admisión efectiva."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Edad adecuada según la ficha. Confirmar plaza y admisión efectiva."
+        }
+      },
+      "editorial_reason": "Condiciones publicadas por el organizador. Precio y plaza se comprueban por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse."
+      ],
+      "sources": [
+        {
+          "url": "https://techlabkids.com/campamentos/casal-de-verano-barcelona/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://techlabkids.com/terminos-condiciones/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "closed",
+        "label": "La página indica inscripción cerrada."
+      },
+      "programme_type": "camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1780",
+      "slug": "muncyt-alcobendas-mision-laboratorio",
+      "provider": "MUNCYT Alcobendas · Misión Laboratorio",
+      "country": "España",
+      "iso": "ESP",
+      "place": "MUNCYT Alcobendas · Calle Pintor Velázquez, 5",
+      "age": "6–9 años inclusive.",
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Idioma del grupo elegido sin publicar.",
+      "confirmed_instruction_languages": [],
+      "programme": "Laboratorio científico práctico infantil, 45 minutos. Se elige franja en el sistema del museo.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Programa permanente. Fecha exacta según el sistema de reservas.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "EUR",
+        "amount": 0,
+        "unit": "programme",
+        "label": "La ficha indica taller gratuito. Se reserva una franja aparte.",
+        "included": "Laboratorio científico práctico infantil, 45 minutos. Se elige franja en el sistema del museo.",
+        "extras": "No se publica el precio de la opción concreta.",
+        "deposit": "Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse."
+      },
+      "accommodation": "Taller diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Edad adecuada según la ficha. Confirmar plaza y admisión efectiva."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Edad adecuada según la ficha. Confirmar plaza y admisión efectiva."
+        }
+      },
+      "editorial_reason": "Condiciones publicadas por el organizador. Precio y plaza se comprueban por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse."
+      ],
+      "sources": [
+        {
+          "url": "https://www.muncyt.es/actividades/talleres-muncyt-alcobendas",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La ficha indica taller gratuito. Se reserva una franja aparte."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1781",
+      "slug": "muncyt-coruna-intro-game-jam",
+      "provider": "MUNCYT Coruña · Game Jam con software libre",
+      "country": "España",
+      "iso": "ESP",
+      "place": "MUNCYT Coruña · Praza do Museo Nacional de Ciencia, 1",
+      "age": "14–30 años.",
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Idioma del grupo elegido sin publicar.",
+      "confirmed_instruction_languages": [],
+      "programme": "Taller introductorio de videojuegos con Godot Engine, Krita, LibreSprite y Audacity. Hace falta ordenador propio con los programas instalados.",
+      "timing": {
+        "status": "published_2026",
+        "label": "21 de noviembre de 2026, inicio a las 12:00. Hora de fin sin publicar.",
+        "sessions": [
+          [
+            "2026-11-21",
+            "2026-11-21"
+          ]
+        ],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "EUR",
+        "amount": 0,
+        "unit": "programme",
+        "label": "Gratuito con reserva previa.",
+        "included": "Taller introductorio de videojuegos con Godot Engine, Krita, LibreSprite y Audacity. Hace falta ordenador propio con los programas instalados.",
+        "extras": "No se publica el precio de la opción concreta.",
+        "deposit": "Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse."
+      },
+      "accommodation": "Taller diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "No. Edad mínima 14 años."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "No. Edad mínima 14 años."
+        }
+      },
+      "editorial_reason": "Condiciones publicadas por el organizador. Precio y plaza se comprueban por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse."
+      ],
+      "sources": [
+        {
+          "url": "https://www.muncyt.es/actividades/participa-en-una-game-jam-con-software-libre",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Gratuito con reserva previa."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-21",
+          "end": "2026-11-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1781-20261121-20261121"
+          ]
+        }
+      ]
     }
   ],
   "gaps": [
@@ -302114,7 +304918,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 229,
+  "version": 230,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -315349,7 +318153,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1766,
+      "total_dossiers": 1781,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -334779,6 +337583,181 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP1767",
+      "event_id": "CP1767-20261224-20261224-single-2026-12-24",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1767",
+      "event_id": "CP1767-20261228-20261228-single-2026-12-28",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1767",
+      "event_id": "CP1767-20261229-20261229-single-2026-12-29",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1767",
+      "event_id": "CP1767-20261230-20261230-single-2026-12-30",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1767",
+      "event_id": "CP1767-20261224-20261230-four-days",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1769",
+      "event_id": "CP1769-20261114-20261114",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1769",
+      "event_id": "CP1769-20261219-20261219",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1769",
+      "event_id": "CP1769-20270116-20270116",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1769",
+      "event_id": "CP1769-20270227-20270227",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1769",
+      "event_id": "CP1769-20270529-20270529",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1770",
+      "event_id": "CP1770-20270109-20270109",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1770",
+      "event_id": "CP1770-20270220-20270220",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1770",
+      "event_id": "CP1770-20270403-20270403",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1770",
+      "event_id": "CP1770-20270515-20270515",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1770",
+      "event_id": "CP1770-20270605-20270605",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1770",
+      "event_id": "CP1770-20270619-20270619",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1771",
+      "event_id": "CP1771-20261212-20261212",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1771",
+      "event_id": "CP1771-20270206-20270206",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1771",
+      "event_id": "CP1771-20270424-20270424",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1772",
+      "event_id": "CP1772-20261205-20261205",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1772",
+      "event_id": "CP1772-20270213-20270213",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1772",
+      "event_id": "CP1772-20270508-20270508",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1772",
+      "event_id": "CP1772-20270612-20270612",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1773",
+      "event_id": "CP1773-20261121-20261121",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1773",
+      "event_id": "CP1773-20261128-20261128",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1773",
+      "event_id": "CP1773-20270123-20270123",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1773",
+      "event_id": "CP1773-20270130-20270130",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1773",
+      "event_id": "CP1773-20270306-20270306",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1773",
+      "event_id": "CP1773-20270313-20270313",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1773",
+      "event_id": "CP1773-20270410-20270410",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1773",
+      "event_id": "CP1773-20270417-20270417",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1774",
+      "event_id": "CP1774-20270522-20270522",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1775",
+      "event_id": "CP1775-20270322-20270326",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1776",
+      "event_id": "CP1776-20270322-20270326",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1781",
+      "event_id": "CP1781-20261121-20261121",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -338909,10 +341888,45 @@
     "CP1764-20270322-20270325-am-2027-03-22",
     "CP1764-20270322-20270325-full-2027-03-22",
     "CP1764-20270330-20270402-am-2027-03-30",
-    "CP1764-20270330-20270402-full-2027-03-30"
+    "CP1764-20270330-20270402-full-2027-03-30",
+    "CP1767-20261224-20261224-single-2026-12-24",
+    "CP1767-20261228-20261228-single-2026-12-28",
+    "CP1767-20261229-20261229-single-2026-12-29",
+    "CP1767-20261230-20261230-single-2026-12-30",
+    "CP1767-20261224-20261230-four-days",
+    "CP1769-20261114-20261114",
+    "CP1769-20261219-20261219",
+    "CP1769-20270116-20270116",
+    "CP1769-20270227-20270227",
+    "CP1769-20270529-20270529",
+    "CP1770-20270109-20270109",
+    "CP1770-20270220-20270220",
+    "CP1770-20270403-20270403",
+    "CP1770-20270515-20270515",
+    "CP1770-20270605-20270605",
+    "CP1770-20270619-20270619",
+    "CP1771-20261212-20261212",
+    "CP1771-20270206-20270206",
+    "CP1771-20270424-20270424",
+    "CP1772-20261205-20261205",
+    "CP1772-20270213-20270213",
+    "CP1772-20270508-20270508",
+    "CP1772-20270612-20270612",
+    "CP1773-20261121-20261121",
+    "CP1773-20261128-20261128",
+    "CP1773-20270123-20270123",
+    "CP1773-20270130-20270130",
+    "CP1773-20270306-20270306",
+    "CP1773-20270313-20270313",
+    "CP1773-20270410-20270410",
+    "CP1773-20270417-20270417",
+    "CP1774-20270522-20270522",
+    "CP1775-20270322-20270326",
+    "CP1776-20270322-20270326",
+    "CP1781-20261121-20261121"
   ],
   "integration": {
-    "generated_sessions": 3700,
+    "generated_sessions": 3735,
     "reused_legacy_events": 69,
     "seasonal_windows": 70,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

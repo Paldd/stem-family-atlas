@@ -68502,6 +68502,566 @@ Limitaciones: Matvey: Edad adecuada según la ficha. Confirmar plaza y admisión
 Fuente: https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Basel%20%20TechLabs%20ELYS/Camp.ed.18ed03a8d11c_7756487305.BS%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20March%2030-Apr%202
 Se ha comprobado: 2026-11-07
 
+### CP1767-20261224-20261224-single-2026-12-24 · Aula de Ciencia · Navidad · La nariz de Rudolf · Día suelto · 2026-12-24–2026-12-24
+
+lugar: España · Aula de Ciencia · C/ Felipe Valls 119 · Benimàmet · València
+Fecha: 2026-12-24 — 2026-12-24
+Edad: 6*16
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El centro trabaja en castellano y valenciano y adapta el idioma al grupo. Confirmar el castellano en el turno concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 40 por día, 09:00–14:00. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según la ficha. Confirmar plaza y admisión efectiva. Oscar: Adecuado una vez cumplidos 6 años. Confirmar admisión e idioma del día elegido. Suplementos: Por cada día: EUR 6 de 08:00 a 09:00 y EUR 10 por prolongación hasta las 16:00. Llevar agua y tentempié. Pago: Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse.
+Fuente: https://www.auladeciencia.com/intensivos/navidad/
+Se ha comprobado: 2026-11-07
+
+### CP1767-20261228-20261228-single-2026-12-28 · Aula de Ciencia · Navidad · La nariz de Rudolf · Día suelto · 2026-12-28–2026-12-28
+
+lugar: España · Aula de Ciencia · C/ Felipe Valls 119 · Benimàmet · València
+Fecha: 2026-12-28 — 2026-12-28
+Edad: 6*16
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El centro trabaja en castellano y valenciano y adapta el idioma al grupo. Confirmar el castellano en el turno concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 40 por día, 09:00–14:00. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según la ficha. Confirmar plaza y admisión efectiva. Oscar: Adecuado una vez cumplidos 6 años. Confirmar admisión e idioma del día elegido. Suplementos: Por cada día: EUR 6 de 08:00 a 09:00 y EUR 10 por prolongación hasta las 16:00. Llevar agua y tentempié. Pago: Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse.
+Fuente: https://www.auladeciencia.com/intensivos/navidad/
+Se ha comprobado: 2026-11-07
+
+### CP1767-20261229-20261229-single-2026-12-29 · Aula de Ciencia · Navidad · La nariz de Rudolf · Día suelto · 2026-12-29–2026-12-29
+
+lugar: España · Aula de Ciencia · C/ Felipe Valls 119 · Benimàmet · València
+Fecha: 2026-12-29 — 2026-12-29
+Edad: 6*16
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El centro trabaja en castellano y valenciano y adapta el idioma al grupo. Confirmar el castellano en el turno concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 40 por día, 09:00–14:00. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según la ficha. Confirmar plaza y admisión efectiva. Oscar: Adecuado una vez cumplidos 6 años. Confirmar admisión e idioma del día elegido. Suplementos: Por cada día: EUR 6 de 08:00 a 09:00 y EUR 10 por prolongación hasta las 16:00. Llevar agua y tentempié. Pago: Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse.
+Fuente: https://www.auladeciencia.com/intensivos/navidad/
+Se ha comprobado: 2026-11-07
+
+### CP1767-20261230-20261230-single-2026-12-30 · Aula de Ciencia · Navidad · La nariz de Rudolf · Día suelto · 2026-12-30–2026-12-30
+
+lugar: España · Aula de Ciencia · C/ Felipe Valls 119 · Benimàmet · València
+Fecha: 2026-12-30 — 2026-12-30
+Edad: 6*16
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El centro trabaja en castellano y valenciano y adapta el idioma al grupo. Confirmar el castellano en el turno concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 40 por día, 09:00–14:00. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según la ficha. Confirmar plaza y admisión efectiva. Oscar: Adecuado una vez cumplidos 6 años. Confirmar admisión e idioma del día elegido. Suplementos: Por cada día: EUR 6 de 08:00 a 09:00 y EUR 10 por prolongación hasta las 16:00. Llevar agua y tentempié. Pago: Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse.
+Fuente: https://www.auladeciencia.com/intensivos/navidad/
+Se ha comprobado: 2026-11-07
+
+### CP1767-20261224-20261230-four-days · Aula de Ciencia · Navidad · La nariz de Rudolf · Paquete de 4 días · 2026-12-24–2026-12-30
+
+lugar: España · Aula de Ciencia · C/ Felipe Valls 119 · Benimàmet · València
+Fecha: 2026-12-24 — 2026-12-30
+Edad: 6*16
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El centro trabaja en castellano y valenciano y adapta el idioma al grupo. Confirmar el castellano en el turno concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 135 por 4 días, 09:00–14:00. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según la ficha. Confirmar plaza y admisión efectiva. Oscar: Adecuado una vez cumplidos 6 años. Confirmar admisión e idioma del día elegido. Suplementos: Por cada día: EUR 6 de 08:00 a 09:00 y EUR 10 por prolongación hasta las 16:00. Llevar agua y tentempié. Pago: Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse.
+Fuente: https://www.auladeciencia.com/intensivos/navidad/
+Se ha comprobado: 2026-11-07
+
+### CP1769-20261114-20261114 · ROBBO Club Poblenou · Robòtica · Curses de robots: construïm el circuit i programem els robots · 2026-11-14–2026-11-14
+
+lugar: España · Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+Fecha: 2026-11-14 — 2026-11-14
+edad: Grupos paralelos de 6–9, 9–11 y 12–15 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Confirmar idioma de los talleres del sábado. El español y el ruso se indican para la jornada abierta de septiembre.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza. Oscar: Edad mínima 6 años. El club confirma la edad y la apertura del grupo. Suplementos: No se publica el precio de la opción concreta. Pago: El club confirma el grupo antes del pago. Según las condiciones generales, el reembolso íntegro exige cancelación escrita con al menos 48 horas.
+Fuente: https://robboclub.es/barcelona/ca/tallers
+Se ha comprobado: 2026-11-07
+
+### CP1769-20261219-20261219 · ROBBO Club Poblenou · Robòtica · Any Nou amb ROBBO Lab · 2026-12-19–2026-12-19
+
+lugar: España · Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+Fecha: 2026-12-19 - 2026-12-19
+edad: Grupos paralelos de 6–9, 9–11 y 12–15 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Confirmar idioma de los talleres del sábado. El español y el ruso se indican para la jornada abierta de septiembre.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza. Oscar: Edad mínima 6 años. El club confirma la edad y la apertura del grupo. Suplementos: No se publica el precio de la opción concreta. Pago: El club confirma el grupo antes del pago. Según las condiciones generales, el reembolso íntegro exige cancelación escrita con al menos 48 horas.
+Fuente: https://robboclub.es/barcelona/ca/tallers
+Se ha comprobado: 2026-11-07
+
+### CP1769-20270116-20270116 · ROBBO Club Poblenou · Robòtica · Missió Mart: un robot explorador · 2027-01-16–2027-01-16
+
+lugar: España · Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+Fecha: 2027-01-16 — 2027-01-16
+edad: Grupos paralelos de 6–9, 9–11 y 12–15 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Confirmar idioma de los talleres del sábado. El español y el ruso se indican para la jornada abierta de septiembre.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza. Oscar: Edad mínima 6 años. El club confirma la edad y la apertura del grupo. Suplementos: No se publica el precio de la opción concreta. Pago: El club confirma el grupo antes del pago. Según las condiciones generales, el reembolso íntegro exige cancelación escrita con al menos 48 horas.
+Fuente: https://robboclub.es/barcelona/ca/tallers
+Se ha comprobado: 2026-11-07
+
+### CP1769-20270227-20270227 · ROBBO Club Poblenou · Robòtica · Transport autònom: el robot segueix la línia · 2027-02-27–2027-02-27
+
+lugar: España · Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+Fecha: 2027-02-27 — 2027-02-27
+edad: Grupos paralelos de 6–9, 9–11 y 12–15 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Confirmar idioma de los talleres del sábado. El español y el ruso se indican para la jornada abierta de septiembre.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza. Oscar: Edad mínima 6 años. El club confirma la edad y la apertura del grupo. Suplementos: No se publica el precio de la opción concreta. Pago: El club confirma el grupo antes del pago. Según las condiciones generales, el reembolso íntegro exige cancelación escrita con al menos 48 horas.
+Fuente: https://robboclub.es/barcelona/ca/tallers
+Se ha comprobado: 2026-11-07
+
+### CP1769-20270529-20270529 · ROBBO Club Poblenou · Robòtica · Robots en ruta: missió de transport · 2027-05-29–2027-05-29
+
+lugar: España · Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+Fecha: 2027-05-29 — 2027-05-29
+edad: Grupos paralelos de 6–9, 9–11 y 12–15 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Confirmar idioma de los talleres del sábado. El español y el ruso se indican para la jornada abierta de septiembre.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza. Oscar: Edad mínima 6 años. El club confirma la edad y la apertura del grupo. Suplementos: No se publica el precio de la opción concreta. Pago: El club confirma el grupo antes del pago. Según las condiciones generales, el reembolso íntegro exige cancelación escrita con al menos 48 horas.
+Fuente: https://robboclub.es/barcelona/ca/tallers
+Se ha comprobado: 2026-11-07
+
+### CP1770-20270109-20270109 · ROBBO Club Poblenou · Minecraft · Minecraft: un poble d’hivern · 2027-01-09–2027-01-09
+
+lugar: España · Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+Fecha: 2027-01-09 — 2027-01-09
+edad: Grupos paralelos de 6–9, 9–11 y 12–15 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Confirmar idioma de los talleres del sábado. El español y el ruso se indican para la jornada abierta de septiembre.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza. Oscar: Edad mínima 6 años. El club confirma la edad y la apertura del grupo. Suplementos: No se publica el precio de la opción concreta. Pago: El club confirma el grupo antes del pago. Según las condiciones generales, el reembolso íntegro exige cancelación escrita con al menos 48 horas.
+Fuente: https://robboclub.es/barcelona/ca/tallers
+Se ha comprobado: 2026-11-07
+
+### CP1770-20270220-20270220 · ROBBO Club Poblenou · Minecraft · Minecraft: classifiquem recursos · 2027-02-20–2027-02-20
+
+lugar: España · Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+Fecha: 2027-02-20 — 2027-02-20
+edad: Grupos paralelos de 6–9, 9–11 y 12–15 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Confirmar idioma de los talleres del sábado. El español y el ruso se indican para la jornada abierta de septiembre.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza. Oscar: Edad mínima 6 años. El club confirma la edad y la apertura del grupo. Suplementos: No se publica el precio de la opción concreta. Pago: El club confirma el grupo antes del pago. Según las condiciones generales, el reembolso íntegro exige cancelación escrita con al menos 48 horas.
+Fuente: https://robboclub.es/barcelona/ca/tallers
+Se ha comprobado: 2026-11-07
+
+### CP1770-20270403-20270403 · ROBBO Club Poblenou · Minecraft · Minecraft: el castell del drac · 2027-04-03–2027-04-03
+
+lugar: España · Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+Fecha: 2027-04-03 — 2027-04-03
+edad: Grupos paralelos de 6–9, 9–11 y 12–15 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Confirmar idioma de los talleres del sábado. El español y el ruso se indican para la jornada abierta de septiembre.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza. Oscar: Edad mínima 6 años. El club confirma la edad y la apertura del grupo. Suplementos: No se publica el precio de la opción concreta. Pago: El club confirma el grupo antes del pago. Según las condiciones generales, el reembolso íntegro exige cancelación escrita con al menos 48 horas.
+Fuente: https://robboclub.es/barcelona/ca/tallers
+Se ha comprobado: 2026-11-07
+
+### CP1770-20270515-20270515 · ROBBO Club Poblenou · Minecraft · Minecraft: el repte del laberint · 2027-05-15–2027-05-15
+
+lugar: España · Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+Fecha: 2027-05-15 — 2027-05-15
+edad: Grupos paralelos de 6–9, 9–11 y 12–15 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Confirmar idioma de los talleres del sábado. El español y el ruso se indican para la jornada abierta de septiembre.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza. Oscar: Edad mínima 6 años. El club confirma la edad y la apertura del grupo. Suplementos: No se publica el precio de la opción concreta. Pago: El club confirma el grupo antes del pago. Según las condiciones generales, el reembolso íntegro exige cancelación escrita con al menos 48 horas.
+Fuente: https://robboclub.es/barcelona/ca/tallers
+Se ha comprobado: 2026-11-07
+
+### CP1770-20270605-20270605 · ROBBO Club Poblenou · Minecraft · Minecraft: construïm un vaixell · 2027-06-05–2027-06-05
+
+lugar: España · Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+Fecha: 2027-06-05 — 2027-06-05
+edad: Grupos paralelos de 6–9, 9–11 y 12–15 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Confirmar idioma de los talleres del sábado. El español y el ruso se indican para la jornada abierta de septiembre.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza. Oscar: Edad mínima 6 años. El club confirma la edad y la apertura del grupo. Suplementos: No se publica el precio de la opción concreta. Pago: El club confirma el grupo antes del pago. Según las condiciones generales, el reembolso íntegro exige cancelación escrita con al menos 48 horas.
+Fuente: https://robboclub.es/barcelona/ca/tallers
+Se ha comprobado: 2026-11-07
+
+### CP1770-20270619-20270619 · ROBBO Club Poblenou · Minecraft · Minecraft: màquines constructores · 2027-06-19–2027-06-19
+
+lugar: España · Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+Fecha: 2027-06-19 — 2027-06-19
+edad: Grupos paralelos de 6–9, 9–11 y 12–15 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Confirmar idioma de los talleres del sábado. El español y el ruso se indican para la jornada abierta de septiembre.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza. Oscar: Edad mínima 6 años. El club confirma la edad y la apertura del grupo. Suplementos: No se publica el precio de la opción concreta. Pago: El club confirma el grupo antes del pago. Según las condiciones generales, el reembolso íntegro exige cancelación escrita con al menos 48 horas.
+Fuente: https://robboclub.es/barcelona/ca/tallers
+Se ha comprobado: 2026-11-07
+
+### CP1771-20261212-20261212 · ROBBO Club Poblenou · Scratch · Scratch: decorem l’arbre de Nadal · 2026-12-12–2026-12-12
+
+lugar: España · Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+Fecha: 2026-12-12 — 2026-12-12
+edad: Grupos paralelos de 6–9, 9–11 y 12–15 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Confirmar idioma de los talleres del sábado. El español y el ruso se indican para la jornada abierta de septiembre.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza. Oscar: Edad mínima 6 años. El club confirma la edad y la apertura del grupo. Suplementos: No se publica el precio de la opción concreta. Pago: El club confirma el grupo antes del pago. Según las condiciones generales, el reembolso íntegro exige cancelación escrita con al menos 48 horas.
+Fuente: https://robboclub.es/barcelona/ca/tallers
+Se ha comprobado: 2026-11-07
+
+### CP1771-20270206-20270206 · ROBBO Club Poblenou · Scratch · Scratch: el joc de les disfresses · 2027-02-06–2027-02-06
+
+lugar: España · Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+Fecha: 2027-02-06 — 2027-02-06
+edad: Grupos paralelos de 6–9, 9–11 y 12–15 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Confirmar idioma de los talleres del sábado. El español y el ruso se indican para la jornada abierta de septiembre.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza. Oscar: Edad mínima 6 años. El club confirma la edad y la apertura del grupo. Suplementos: No se publica el precio de la opción concreta. Pago: El club confirma el grupo antes del pago. Según las condiciones generales, el reembolso íntegro exige cancelación escrita con al menos 48 horas.
+Fuente: https://robboclub.es/barcelona/ca/tallers
+Se ha comprobado: 2026-11-07
+
+### CP1771-20270424-20270424 · ROBBO Club Poblenou · Scratch · Scratch: l’aventura del drac de Sant Jordi · 2027-04-24–2027-04-24
+
+lugar: España · Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+Fecha: 2027-04-24 — 2027-04-24
+edad: Grupos paralelos de 6–9, 9–11 y 12–15 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Confirmar idioma de los talleres del sábado. El español y el ruso se indican para la jornada abierta de septiembre.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza. Oscar: Edad mínima 6 años. El club confirma la edad y la apertura del grupo. Suplementos: No se publica el precio de la opción concreta. Pago: El club confirma el grupo antes del pago. Según las condiciones generales, el reembolso íntegro exige cancelación escrita con al menos 48 horas.
+Fuente: https://robboclub.es/barcelona/ca/tallers
+Se ha comprobado: 2026-11-07
+
+### CP1772-20261205-20261205 · ROBBO Club Poblenou · Circuits · Una postal de Nadal que s’il·lumina · 2026-12-05–2026-12-05
+
+lugar: España · Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+Fecha: 2026-12-05 — 2026-12-05
+edad: Grupos paralelos de 6–9, 9–11 y 12–15 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Confirmar idioma de los talleres del sábado. El español y el ruso se indican para la jornada abierta de septiembre.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza. Oscar: Edad mínima 6 años. El club confirma la edad y la apertura del grupo. Suplementos: No se publica el precio de la opción concreta. Pago: El club confirma el grupo antes del pago. Según las condiciones generales, el reembolso íntegro exige cancelación escrita con al menos 48 horas.
+Fuente: https://robboclub.es/barcelona/ca/tallers
+Se ha comprobado: 2026-11-07
+
+### CP1772-20270213-20270213 · ROBBO Club Poblenou · Circuits · Barcelona s’il·lumina: encenem una maqueta · 2027-02-13–2027-02-13
+
+lugar: España · Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+Fecha: 2027-02-13 ♫ 2027-02-13
+edad: Grupos paralelos de 6–9, 9–11 y 12–15 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Confirmar idioma de los talleres del sábado. El español y el ruso se indican para la jornada abierta de septiembre.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza. Oscar: Edad mínima 6 años. El club confirma la edad y la apertura del grupo. Suplementos: No se publica el precio de la opción concreta. Pago: El club confirma el grupo antes del pago. Según las condiciones generales, el reembolso íntegro exige cancelación escrita con al menos 48 horas.
+Fuente: https://robboclub.es/barcelona/ca/tallers
+Se ha comprobado: 2026-11-07
+
+### CP1772-20270508-20270508 · ROBBO Club Poblenou · Circuits · Una alarma que funciona amb un imant · 2027-05-08–2027-05-08
+
+lugar: España · Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+Fecha: 2027-05-08 — 2027-05-08
+edad: Grupos paralelos de 6–9, 9–11 y 12–15 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Confirmar idioma de los talleres del sábado. El español y el ruso se indican para la jornada abierta de septiembre.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza. Oscar: Edad mínima 6 años. El club confirma la edad y la apertura del grupo. Suplementos: No se publica el precio de la opción concreta. Pago: El club confirma el grupo antes del pago. Según las condiciones generales, el reembolso íntegro exige cancelación escrita con al menos 48 horas.
+Fuente: https://robboclub.es/barcelona/ca/tallers
+Se ha comprobado: 2026-11-07
+
+### CP1772-20270612-20270612 · ROBBO Club Poblenou · Circuits · Un cotxe elèctric: motor i moviment · 2027-06-12–2027-06-12
+
+lugar: España · Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+Fecha: 2027-06-12 — 2027-06-12
+edad: Grupos paralelos de 6–9, 9–11 y 12–15 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Confirmar idioma de los talleres del sábado. El español y el ruso se indican para la jornada abierta de septiembre.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza. Oscar: Edad mínima 6 años. El club confirma la edad y la apertura del grupo. Suplementos: No se publica el precio de la opción concreta. Pago: El club confirma el grupo antes del pago. Según las condiciones generales, el reembolso íntegro exige cancelación escrita con al menos 48 horas.
+Fuente: https://robboclub.es/barcelona/ca/tallers
+Se ha comprobado: 2026-11-07
+
+### CP1773-20261121-20261121 · ROBBO Club Poblenou · Disseny 3D · Un gat en 3D: dissenyem un tovalloner · 2026-11-21–2026-11-21
+
+lugar: España · Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+Fecha: 2026-11-21 — 2026-11-21
+edad: Grupos paralelos de 6–9, 9–11 y 12–15 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Confirmar idioma de los talleres del sábado. El español y el ruso se indican para la jornada abierta de septiembre.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza. Oscar: Edad mínima 6 años. El club confirma la edad y la apertura del grupo. Suplementos: No se publica el precio de la opción concreta. Pago: El club confirma el grupo antes del pago. Según las condiciones generales, el reembolso íntegro exige cancelación escrita con al menos 48 horas.
+Fuente: https://robboclub.es/barcelona/ca/tallers
+Se ha comprobado: 2026-11-07
+
+### CP1773-20261128-20261128 · ROBBO Club Poblenou · Disseny 3D · Un gat en 3D: muntem i corregim · 2026-11-28–2026-11-28
+
+lugar: España · Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+Fecha: 2026-11-28 — 2026-11-28
+edad: Grupos paralelos de 6–9, 9–11 y 12–15 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Confirmar idioma de los talleres del sábado. El español y el ruso se indican para la jornada abierta de septiembre.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza. Oscar: Edad mínima 6 años. El club confirma la edad y la apertura del grupo. Suplementos: No se publica el precio de la opción concreta. Pago: El club confirma el grupo antes del pago. Según las condiciones generales, el reembolso íntegro exige cancelación escrita con al menos 48 horas.
+Fuente: https://robboclub.es/barcelona/ca/tallers
+Se ha comprobado: 2026-11-07
+
+### CP1773-20270123-20270123 · ROBBO Club Poblenou · Disseny 3D · Estació espacial 3D: dissenyem els mòduls · 2027-01-23–2027-01-23
+
+lugar: España · Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+Fecha: 2027-01-23 — 2027-01-23
+edad: Grupos paralelos de 6–9, 9–11 y 12–15 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Confirmar idioma de los talleres del sábado. El español y el ruso se indican para la jornada abierta de septiembre.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza. Oscar: Edad mínima 6 años. El club confirma la edad y la apertura del grupo. Suplementos: No se publica el precio de la opción concreta. Pago: El club confirma el grupo antes del pago. Según las condiciones generales, el reembolso íntegro exige cancelación escrita con al menos 48 horas.
+Fuente: https://robboclub.es/barcelona/ca/tallers
+Se ha comprobado: 2026-11-07
+
+### CP1773-20270130-20270130 · ROBBO Club Poblenou · Disseny 3D · Estació espacial 3D: muntem i millorem · 2027-01-30–2027-01-30
+
+lugar: España · Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+Fecha: 2027-01-30 国 2027-01-30
+edad: Grupos paralelos de 6–9, 9–11 y 12–15 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Confirmar idioma de los talleres del sábado. El español y el ruso se indican para la jornada abierta de septiembre.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza. Oscar: Edad mínima 6 años. El club confirma la edad y la apertura del grupo. Suplementos: No se publica el precio de la opción concreta. Pago: El club confirma el grupo antes del pago. Según las condiciones generales, el reembolso íntegro exige cancelación escrita con al menos 48 horas.
+Fuente: https://robboclub.es/barcelona/ca/tallers
+Se ha comprobado: 2026-11-07
+
+### CP1773-20270306-20270306 · ROBBO Club Poblenou · Disseny 3D · Flors de primavera: dissenyem en 3D · 2027-03-06–2027-03-06
+
+lugar: España · Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+Fecha: 2027-03-06 — 2027-03-06
+edad: Grupos paralelos de 6–9, 9–11 y 12–15 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Confirmar idioma de los talleres del sábado. El español y el ruso se indican para la jornada abierta de septiembre.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza. Oscar: Edad mínima 6 años. El club confirma la edad y la apertura del grupo. Suplementos: No se publica el precio de la opción concreta. Pago: El club confirma el grupo antes del pago. Según las condiciones generales, el reembolso íntegro exige cancelación escrita con al menos 48 horas.
+Fuente: https://robboclub.es/barcelona/ca/tallers
+Se ha comprobado: 2026-11-07
+
+### CP1773-20270313-20270313 · ROBBO Club Poblenou · Disseny 3D · Flors de primavera: provem i millorem · 2027-03-13–2027-03-13
+
+lugar: España · Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+Fecha: 2027-03-13 — 2027-03-13
+edad: Grupos paralelos de 6–9, 9–11 y 12–15 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Confirmar idioma de los talleres del sábado. El español y el ruso se indican para la jornada abierta de septiembre.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza. Oscar: Edad mínima 6 años. El club confirma la edad y la apertura del grupo. Suplementos: No se publica el precio de la opción concreta. Pago: El club confirma el grupo antes del pago. Según las condiciones generales, el reembolso íntegro exige cancelación escrita con al menos 48 horas.
+Fuente: https://robboclub.es/barcelona/ca/tallers
+Se ha comprobado: 2026-11-07
+
+### CP1773-20270410-20270410 · ROBBO Club Poblenou · Disseny 3D · Una rosa per Sant Jordi: dissenyem en 3D · 2027-04-10–2027-04-10
+
+lugar: España · Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+Fecha: 2027-04-10 — 2027-04-10
+edad: Grupos paralelos de 6–9, 9–11 y 12–15 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Confirmar idioma de los talleres del sábado. El español y el ruso se indican para la jornada abierta de septiembre.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza. Oscar: Edad mínima 6 años. El club confirma la edad y la apertura del grupo. Suplementos: No se publica el precio de la opción concreta. Pago: El club confirma el grupo antes del pago. Según las condiciones generales, el reembolso íntegro exige cancelación escrita con al menos 48 horas.
+Fuente: https://robboclub.es/barcelona/ca/tallers
+Se ha comprobado: 2026-11-07
+
+### CP1773-20270417-20270417 · ROBBO Club Poblenou · Disseny 3D · Una rosa per Sant Jordi: provem i millorem · 2027-04-17–2027-04-17
+
+lugar: España · Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+Fecha: 2027-04-17 — 2027-04-17
+edad: Grupos paralelos de 6–9, 9–11 y 12–15 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Confirmar idioma de los talleres del sábado. El español y el ruso se indican para la jornada abierta de septiembre.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza. Oscar: Edad mínima 6 años. El club confirma la edad y la apertura del grupo. Suplementos: No se publica el precio de la opción concreta. Pago: El club confirma el grupo antes del pago. Según las condiciones generales, el reembolso íntegro exige cancelación escrita con al menos 48 horas.
+Fuente: https://robboclub.es/barcelona/ca/tallers
+Se ha comprobado: 2026-11-07
+
+### CP1774-20270522-20270522 · ROBBO Club Poblenou · Lògica · Pistes i codis: el repte de lògica · 2027-05-22–2027-05-22
+
+lugar: España · Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+Fecha: 2027-05-22 — 2027-05-22
+edad: Grupos paralelos de 6–9, 9–11 y 12–15 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Confirmar idioma de los talleres del sábado. El español y el ruso se indican para la jornada abierta de septiembre.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza. Oscar: Edad mínima 6 años. El club confirma la edad y la apertura del grupo. Suplementos: No se publica el precio de la opción concreta. Pago: El club confirma el grupo antes del pago. Según las condiciones generales, el reembolso íntegro exige cancelación escrita con al menos 48 horas.
+Fuente: https://robboclub.es/barcelona/ca/tallers
+Se ha comprobado: 2026-11-07
+
+### CP1775-20270322-20270326 · Graellsia · Campamento Científico · Diurno · EUR 150 · Diurno · EUR 150 · 2027-03-22–2027-03-26
+
+lugar: España · San Lorenzo de El Escorial · Monte Abantos / C.E.A. Los Llanillos
+Fecha: 2027-03-22 — 2027-03-26
+edad: 4–15 años y etapas escolares indicadas. Confirmar cómo se aplican ambos criterios a los menores.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Idioma del grupo elegido sin publicar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Diurno · EUR 150 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada. Confirmar curso, plaza y modalidad. Oscar: Edad adecuada. Para 6 años, confirmar etapa escolar y reglas de pernocta. Suplementos: Se publica un descuento del 10% al inscribir a 2 o más hermanos. Confirmar factura final y plazas. Pago: El organizador confirma la formalización tras el pago completo dentro del plazo que indique. Confirmar condiciones de devolución.
+Fuente: https://graellsia.com/dossier/educacionambiental/campamento-semanasanta
+Se ha comprobado: 2026-11-07
+
+### CP1776-20270322-20270326 · Graellsia · Campamento Científico · Con pernocta · EUR 260 · Con pernocta · EUR 260 · 2027-03-22–2027-03-26
+
+lugar: España · San Lorenzo de El Escorial · Monte Abantos / C.E.A. Los Llanillos
+Fecha: 2027-03-22 — 2027-03-26
+edad: 4–15 años y etapas escolares indicadas. Confirmar cómo se aplican ambos criterios a los menores.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: boarding_camp
+Idioma: Idioma del grupo elegido sin publicar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Con pernocta · EUR 260 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada. Confirmar curso, plaza y modalidad. Oscar: Edad adecuada. Para 6 años, confirmar etapa escolar y reglas de pernocta. Suplementos: Se publica un descuento del 10% al inscribir a 2 o más hermanos. Confirmar factura final y plazas. Pago: El organizador confirma la formalización tras el pago completo dentro del plazo que indique. Confirmar condiciones de devolución.
+Fuente: https://graellsia.com/dossier/educacionambiental/campamento-semanasanta
+Se ha comprobado: 2026-11-07
+
+### CP1781-20261121-20261121 · MUNCYT Coruña · Game Jam con software libre · 2026-11-21–2026-11-21
+
+lugar: España · MUNCYT Coruña · Praza do Museo Nacional de Ciencia, 1
+Fecha: 2026-11-21 — 2026-11-21
+edad: 14–30 años.
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: holiday_workshop
+Idioma: Idioma del grupo elegido sin publicar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026 · Gratuito con reserva previa.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No. Edad mínima 14 años. Oscar: No. Edad mínima 14 años. Suplementos: No se publica el precio de la opción concreta. Pago: Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse.
+Fuente: https://www.muncyt.es/actividades/participa-en-una-game-jam-con-software-libre
+Se ha comprobado: 2026-11-07
+
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
 
 lugar: Letonia · EIS Campus · Piņķi

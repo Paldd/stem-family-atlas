@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 8056,
-    "competition_cards": 3303,
-    "event_cards": 396,
-    "camp_cards": 4357,
+    "cards": 8098,
+    "competition_cards": 3308,
+    "event_cards": 398,
+    "camp_cards": 4392,
     "league_profiles": 274,
-    "major_exhibition_cards": 308,
+    "major_exhibition_cards": 309,
     "vex_cards": 518,
     "countries_with_records": 161,
     "fully_audited_countries": 0
@@ -62,12 +62,12 @@
       "regions": [
         "Europa"
       ],
-      "total": 1877,
+      "total": 1919,
       "countries_with_records": 42,
-      "competitions": 435,
-      "events": 105,
-      "major_exhibitions": 86,
-      "camps": 1337,
+      "competitions": 440,
+      "events": 107,
+      "major_exhibitions": 87,
+      "camps": 1372,
       "status": "Se ha estudiado parcialmente",
       "remaining": "CHE/ESP/FRA se profundizan de nuevo. No están cerradas todas las ligas locales, Nuevos qualifiers 2027, enseñanza en inglés / en español, cuotas extranjeras, de la actualidad juniormentors y los protocolos escolares completos 5–10 años. Alemania / Países Bajos / Bélgica: el primer paso parcial; todos los clubes locales, lenguas, Cuotas extranjeras y resultados escolares completos permanecen abiertos."
     },
@@ -10626,6 +10626,17 @@
       "new": false
     },
     {
+      "id": "E397",
+      "name": "Madrid es Ciencia 2027",
+      "country": "España",
+      "region": "Europa",
+      "start": "2027-03-11",
+      "end": "2027-03-13",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.madrimasd.org/feriamadridesciencia/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -13043,8 +13054,8 @@
       }
     ],
     "counts": {
-      "records": 4357,
-      "holiday": 4081,
+      "records": 4392,
+      "holiday": 4115,
       "regular": 120,
       "self_paced_materials": 2,
       "boarding": 1036,

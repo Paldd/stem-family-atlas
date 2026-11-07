@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base al 2026-11-07. 1766 fichas en 104 países. Cada ficha indica cuándo se verificaron sus fuentes.
+Estado de la base: 2026-11-07. 1781 fichas en 104 países. Cada ficha indica las fechas de verificación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -138981,6 +138981,1286 @@ Estados Unidos · Elegir campus en el catálogo del organizador
 - [Página oficial del organizador](https://idtechcamps.zohodesk.com/portal/en/kb/articles/can-you-make-an-age-exception) · 2026-11-07
 
 - [Página oficial del organizador](https://idtechcamps.zohodesk.com/portal/en/kb/articles/do-you-accept-international-students) · 2026-11-07
+
+## CP1767 · Aula de Ciencia · Navidad · La nariz de Rudolf
+
+España · Aula de Ciencia · C/ Felipe Valls 119 · Benimàmet · València
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 6–16
+
+**Idioma:** El centro trabaja en castellano y valenciano y adapta el idioma al grupo. Confirmar el castellano en el turno concreto.
+
+**Programa:** Experimentos con luz y energía, circuitos y sensores. Se adaptan los retos a la edad.
+
+**Alojamiento:** Taller diurno sin alojamiento.
+
+**Fechas / estado:** 24, 28, 29 y 30 de diciembre de 2026, 09:00–14:00. Inscripción por día o paquete de 4 días.
+
+**Precio / año:** 2026 · EUR 40 por día, 09:00–14:00. EUR 135 por 4 días, 09:00–14:00.
+
+**Incluido:** Experimentos con luz y energía, circuitos y sensores. Se adaptan los retos a la edad.
+
+**Suplementos:** Por cada día: EUR 6 de 08:00 a 09:00 y EUR 10 por prolongación hasta las 16:00. Llevar agua y tentempié.
+
+**Pago:** Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse.
+
+**Matvey:** Edad adecuada según la ficha. Confirmar plaza y admisión efectiva.
+
+**Oscar:** Adecuado una vez cumplidos 6 años. Confirmar admisión e idioma del día elegido.
+
+**Motivo de la selección:** Condiciones publicadas por el organizador. Precio y plaza se comprueban por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse.
+
+### Día suelto
+
+**Fechas / estado:** 2026-12-24 — 2026-12-24
+
+**lugar:** Aula de Ciencia · C/ Felipe Valls 119 · Benimàmet · València
+
+**edad:** 6–16
+
+**Precio:** EUR 40 por día, 09:00–14:00.
+
+- 2026-12-24 · 09:00–14:00 · Europe/Madrid · Experimentos con luz y energía, circuitos y sensores. Se adaptan los retos a la edad.
+
+**Disponibilidad de plazas:** La página indica admisión de solicitudes. La plaza efectiva se confirma por separado.
+
+**Matvey:** Edad adecuada según la ficha. Confirmar plaza y admisión efectiva.
+
+**Oscar:** Adecuado una vez cumplidos 6 años. Confirmar admisión e idioma del día elegido.
+
+[fuente](https://www.auladeciencia.com/intensivos/navidad/)
+
+### Día suelto
+
+**Fechas / estado:** 2026-12-28 — 2026-12-28
+
+**lugar:** Aula de Ciencia · C/ Felipe Valls 119 · Benimàmet · València
+
+**edad:** 6–16
+
+**Precio:** EUR 40 por día, 09:00–14:00.
+
+- 2026-12-28 · 09:00–14:00 · Europe/Madrid · Experimentos con luz y energía, circuitos y sensores. Se adaptan los retos a la edad.
+
+**Disponibilidad de plazas:** La página indica admisión de solicitudes. La plaza efectiva se confirma por separado.
+
+**Matvey:** Edad adecuada según la ficha. Confirmar plaza y admisión efectiva.
+
+**Oscar:** Adecuado una vez cumplidos 6 años. Confirmar admisión e idioma del día elegido.
+
+[fuente](https://www.auladeciencia.com/intensivos/navidad/)
+
+### Día suelto
+
+**Fechas / estado:** 2026-12-29 — 2026-12-29
+
+**lugar:** Aula de Ciencia · C/ Felipe Valls 119 · Benimàmet · València
+
+**edad:** 6–16
+
+**Precio:** EUR 40 por día, 09:00–14:00.
+
+- 2026-12-29 · 09:00–14:00 · Europe/Madrid · Experimentos con luz y energía, circuitos y sensores. Se adaptan los retos a la edad.
+
+**Disponibilidad de plazas:** La página indica admisión de solicitudes. La plaza efectiva se confirma por separado.
+
+**Matvey:** Edad adecuada según la ficha. Confirmar plaza y admisión efectiva.
+
+**Oscar:** Adecuado una vez cumplidos 6 años. Confirmar admisión e idioma del día elegido.
+
+[fuente](https://www.auladeciencia.com/intensivos/navidad/)
+
+### Día suelto
+
+**Fechas / estado:** 2026-12-30 — 2026-12-30
+
+**lugar:** Aula de Ciencia · C/ Felipe Valls 119 · Benimàmet · València
+
+**edad:** 6–16
+
+**Precio:** EUR 40 por día, 09:00–14:00.
+
+- 2026-12-30 · 09:00–14:00 · Europe/Madrid · Experimentos con luz y energía, circuitos y sensores. Se adaptan los retos a la edad.
+
+**Disponibilidad de plazas:** La página indica admisión de solicitudes. La plaza efectiva se confirma por separado.
+
+**Matvey:** Edad adecuada según la ficha. Confirmar plaza y admisión efectiva.
+
+**Oscar:** Adecuado una vez cumplidos 6 años. Confirmar admisión e idioma del día elegido.
+
+[fuente](https://www.auladeciencia.com/intensivos/navidad/)
+
+### Paquete de 4 días
+
+**Fechas / estado:** 2026-12-24 — 2026-12-30
+
+**lugar:** Aula de Ciencia · C/ Felipe Valls 119 · Benimàmet · València
+
+**edad:** 6–16
+
+**Precio:** EUR 135 por 4 días, 09:00–14:00.
+
+- 2026-12-24 · 09:00–14:00 · Europe/Madrid · Experimentos con luz y energía, circuitos y sensores. Se adaptan los retos a la edad.
+
+- 2026-12-28 · 09:00–14:00 · Europe/Madrid · Experimentos con luz y energía, circuitos y sensores. Se adaptan los retos a la edad.
+
+- 2026-12-29 · 09:00–14:00 · Europe/Madrid · Experimentos con luz y energía, circuitos y sensores. Se adaptan los retos a la edad.
+
+- 2026-12-30 · 09:00–14:00 · Europe/Madrid · Experimentos con luz y energía, circuitos y sensores. Se adaptan los retos a la edad.
+
+**Disponibilidad de plazas:** La página indica admisión de solicitudes. La plaza efectiva se confirma por separado.
+
+**Matvey:** Edad adecuada según la ficha. Confirmar plaza y admisión efectiva.
+
+**Oscar:** Adecuado una vez cumplidos 6 años. Confirmar admisión e idioma del día elegido.
+
+[fuente](https://www.auladeciencia.com/intensivos/navidad/)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.auladeciencia.com/intensivos/navidad/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.auladeciencia.com/) · 2026-11-07
+
+## CP1768 · Aula de Ciencia · FIRST LEGO League Explore
+
+España · Aula de Ciencia · C/ Felipe Valls 119 · Benimàmet · València
+
+**Se ha comprobado:** 2026-11-07
+
+**Edad:** 6–9
+
+**Idioma:** El centro trabaja en castellano y valenciano y adapta el idioma al grupo. Confirmar el castellano en el turno concreto.
+
+**Programa:** Temporada por equipos con LEGO SPIKE Essential, investigación y presentación. Franja los viernes 17:30–19:00.
+
+**Alojamiento:** Taller diurno sin alojamiento.
+
+**Fechas / estado:** Temporada 2026/27. El grupo Explore figura completo.
+
+**Precio / año:** sin establecer · No se publica el precio de la opción concreta.
+
+**Pago:** Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse.
+
+**Matvey:** Edad adecuada según la ficha. Confirmar plaza y admisión efectiva.
+
+**Oscar:** Edad adecuada según la ficha. Confirmar plaza y admisión efectiva.
+
+**Motivo de la selección:** Condiciones publicadas por el organizador. Precio y plaza se comprueban por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse.
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.auladeciencia.com/oferta-educativa/competicion-robotica-lego/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.auladeciencia.com/) · 2026-11-07
+
+## CP1769 · ROBBO Club Poblenou · Robòtica
+
+España · Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grupos paralelos de 6–9, 9–11 y 12–15 años.
+
+**Idioma:** Confirmar idioma de los talleres del sábado. El español y el ruso se indican para la jornada abierta de septiembre.
+
+**Programa:** Construcción y programación de robots. Retos desde carreras hasta un robot seguidor de línea.
+
+**Alojamiento:** Taller diurno sin alojamiento.
+
+**Fechas / estado:** Sábados en las fechas publicadas, 11:45–13:15. El club confirmará el mínimo del grupo concreto.
+
+**Precio / año:** 2026/27 · EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.
+
+**Incluido:** Construcción y programación de robots. Retos desde carreras hasta un robot seguidor de línea.
+
+**Suplementos:** No se publica el precio de la opción concreta.
+
+**Pago:** El club confirma el grupo antes del pago. Según las condiciones generales, el reembolso íntegro exige cancelación escrita con al menos 48 horas.
+
+**Matvey:** A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza.
+
+**Oscar:** Edad mínima 6 años. El club confirma la edad y la apertura del grupo.
+
+**Motivo de la selección:** Condiciones publicadas por el organizador. Precio y plaza se comprueban por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse.
+
+### Curses de robots: construïm el circuit i programem els robots
+
+**Fechas / estado:** 2026-11-14 — 2026-11-14
+
+**lugar:** Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+
+**edad:** Grupos paralelos de 6–9, 9–11 y 12–15 años.
+
+**Precio:** EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.
+
+- 2026-11-14 · 11:45–13:15 · Europe/Madrid · Curses de robots: construïm el circuit i programem els robots
+
+**Disponibilidad de plazas:** Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes.
+
+**Matvey:** A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza.
+
+**Oscar:** Edad mínima 6 años. El club confirma la edad y la apertura del grupo.
+
+[fuente](https://robboclub.es/barcelona/ca/tallers)
+
+### Any Nou amb ROBBO Lab
+
+**Fechas / estado:** 2026-12-19 — 2026-12-19
+
+**lugar:** Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+
+**edad:** Grupos paralelos de 6–9, 9–11 y 12–15 años.
+
+**Precio:** EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.
+
+- 2026-12-19 · 11:45–13:15 · Europe/Madrid · Any Nou amb ROBBO Lab
+
+**Disponibilidad de plazas:** Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes.
+
+**Matvey:** A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza.
+
+**Oscar:** Edad mínima 6 años. El club confirma la edad y la apertura del grupo.
+
+[fuente](https://robboclub.es/barcelona/ca/tallers)
+
+### Missió Mart: un robot explorador
+
+**Fechas / estado:** 2027-01-16 — 2027-01-16
+
+**lugar:** Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+
+**edad:** Grupos paralelos de 6–9, 9–11 y 12–15 años.
+
+**Precio:** EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.
+
+- 2027-01-16 · 11:45–13:15 · Europe/Madrid · Missió Mart: un robot explorador
+
+**Disponibilidad de plazas:** Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes.
+
+**Matvey:** A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza.
+
+**Oscar:** Edad mínima 6 años. El club confirma la edad y la apertura del grupo.
+
+[fuente](https://robboclub.es/barcelona/ca/tallers)
+
+### Transport autònom: el robot segueix la línia
+
+**Fechas / estado:** 2027-02-27 — 2027-02-27
+
+**lugar:** Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+
+**edad:** Grupos paralelos de 6–9, 9–11 y 12–15 años.
+
+**Precio:** EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.
+
+- 2027-02-27 · 11:45–13:15 · Europe/Madrid · Transport autònom: el robot segueix la línia
+
+**Disponibilidad de plazas:** Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes.
+
+**Matvey:** A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza.
+
+**Oscar:** Edad mínima 6 años. El club confirma la edad y la apertura del grupo.
+
+[fuente](https://robboclub.es/barcelona/ca/tallers)
+
+### Robots en ruta: missió de transport
+
+**Fechas / estado:** 2027-05-29 — 2027-05-29
+
+**lugar:** Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+
+**edad:** Grupos paralelos de 6–9, 9–11 y 12–15 años.
+
+**Precio:** EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.
+
+- 2027-05-29 · 11:45–13:15 · Europe/Madrid · Robots en ruta: missió de transport
+
+**Disponibilidad de plazas:** Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes.
+
+**Matvey:** A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza.
+
+**Oscar:** Edad mínima 6 años. El club confirma la edad y la apertura del grupo.
+
+[fuente](https://robboclub.es/barcelona/ca/tallers)
+
+### Fuentes
+
+- [Página oficial del organizador](https://robboclub.es/barcelona/ca/tallers) · 2026-11-07
+
+- [Página oficial del organizador](https://robboclub.es/barcelona/en) · 2026-11-07
+
+- [Página oficial del organizador](https://robboclub.es/barcelona/es/terms) · 2026-11-07
+
+## CP1770 · ROBBO Club Poblenou · Minecraft
+
+España · Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grupos paralelos de 6–9, 9–11 y 12–15 años.
+
+**Idioma:** Confirmar idioma de los talleres del sábado. El español y el ruso se indican para la jornada abierta de septiembre.
+
+**Programa:** Construcción y retos en Minecraft. El nivel depende del grupo de edad.
+
+**Alojamiento:** Taller diurno sin alojamiento.
+
+**Fechas / estado:** Sábados en las fechas publicadas, 11:45–13:15. El club confirmará el mínimo del grupo concreto.
+
+**Precio / año:** 2026/27 · EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.
+
+**Incluido:** Construcción y retos en Minecraft. El nivel depende del grupo de edad.
+
+**Suplementos:** No se publica el precio de la opción concreta.
+
+**Pago:** El club confirma el grupo antes del pago. Según las condiciones generales, el reembolso íntegro exige cancelación escrita con al menos 48 horas.
+
+**Matvey:** A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza.
+
+**Oscar:** Edad mínima 6 años. El club confirma la edad y la apertura del grupo.
+
+**Motivo de la selección:** Condiciones publicadas por el organizador. Precio y plaza se comprueban por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse.
+
+### Minecraft: un poble d’hivern
+
+**Fechas / estado:** 2027-01-09 — 2027-01-09
+
+**lugar:** Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+
+**edad:** Grupos paralelos de 6–9, 9–11 y 12–15 años.
+
+**Precio:** EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.
+
+- 2027-01-09 · 11:45–13:15 · Europe/Madrid · Minecraft: un poble d’hivern
+
+**Disponibilidad de plazas:** Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes.
+
+**Matvey:** A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza.
+
+**Oscar:** Edad mínima 6 años. El club confirma la edad y la apertura del grupo.
+
+[fuente](https://robboclub.es/barcelona/ca/tallers)
+
+### Minecraft: classifiquem recursos
+
+**Fechas / estado:** 2027-02-20 — 2027-02-20
+
+**lugar:** Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+
+**edad:** Grupos paralelos de 6–9, 9–11 y 12–15 años.
+
+**Precio:** EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.
+
+- 2027-02-20 · 11:45–13:15 · Europe/Madrid · Minecraft: classifiquem recursos
+
+**Disponibilidad de plazas:** Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes.
+
+**Matvey:** A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza.
+
+**Oscar:** Edad mínima 6 años. El club confirma la edad y la apertura del grupo.
+
+[fuente](https://robboclub.es/barcelona/ca/tallers)
+
+### Minecraft: el castell del drac
+
+**Fechas / estado:** 2027-04-03 — 2027-04-03
+
+**lugar:** Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+
+**edad:** Grupos paralelos de 6–9, 9–11 y 12–15 años.
+
+**Precio:** EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.
+
+- 2027-04-03 · 11:45–13:15 · Europe/Madrid · Minecraft: el castell del drac
+
+**Disponibilidad de plazas:** Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes.
+
+**Matvey:** A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza.
+
+**Oscar:** Edad mínima 6 años. El club confirma la edad y la apertura del grupo.
+
+[fuente](https://robboclub.es/barcelona/ca/tallers)
+
+### Minecraft: el repte del laberint
+
+**Fechas / estado:** 2027-05-15 — 2027-05-15
+
+**lugar:** Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+
+**edad:** Grupos paralelos de 6–9, 9–11 y 12–15 años.
+
+**Precio:** EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.
+
+- 2027-05-15 · 11:45–13:15 · Europe/Madrid · Minecraft: el repte del laberint
+
+**Disponibilidad de plazas:** Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes.
+
+**Matvey:** A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza.
+
+**Oscar:** Edad mínima 6 años. El club confirma la edad y la apertura del grupo.
+
+[fuente](https://robboclub.es/barcelona/ca/tallers)
+
+### Minecraft: construïm un vaixell
+
+**Fechas / estado:** 2027-06-05 — 2027-06-05
+
+**lugar:** Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+
+**edad:** Grupos paralelos de 6–9, 9–11 y 12–15 años.
+
+**Precio:** EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.
+
+- 2027-06-05 · 11:45–13:15 · Europe/Madrid · Minecraft: construïm un vaixell
+
+**Disponibilidad de plazas:** Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes.
+
+**Matvey:** A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza.
+
+**Oscar:** Edad mínima 6 años. El club confirma la edad y la apertura del grupo.
+
+[fuente](https://robboclub.es/barcelona/ca/tallers)
+
+### Minecraft: màquines constructores
+
+**Fechas / estado:** 2027-06-19 — 2027-06-19
+
+**lugar:** Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+
+**edad:** Grupos paralelos de 6–9, 9–11 y 12–15 años.
+
+**Precio:** EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.
+
+- 2027-06-19 · 11:45–13:15 · Europe/Madrid · Minecraft: màquines constructores
+
+**Disponibilidad de plazas:** Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes.
+
+**Matvey:** A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza.
+
+**Oscar:** Edad mínima 6 años. El club confirma la edad y la apertura del grupo.
+
+[fuente](https://robboclub.es/barcelona/ca/tallers)
+
+### Fuentes
+
+- [Página oficial del organizador](https://robboclub.es/barcelona/ca/tallers) · 2026-11-07
+
+- [Página oficial del organizador](https://robboclub.es/barcelona/en) · 2026-11-07
+
+- [Página oficial del organizador](https://robboclub.es/barcelona/es/terms) · 2026-11-07
+
+## CP1771 · ROBBO Club Poblenou · Scratch
+
+España · Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grupos paralelos de 6–9, 9–11 y 12–15 años.
+
+**Idioma:** Confirmar idioma de los talleres del sábado. El español y el ruso se indican para la jornada abierta de septiembre.
+
+**Programa:** Creación de juegos y proyectos interactivos en Scratch.
+
+**Alojamiento:** Taller diurno sin alojamiento.
+
+**Fechas / estado:** Sábados en las fechas publicadas, 11:45–13:15. El club confirmará el mínimo del grupo concreto.
+
+**Precio / año:** 2026/27 · EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.
+
+**Incluido:** Creación de juegos y proyectos interactivos en Scratch.
+
+**Suplementos:** No se publica el precio de la opción concreta.
+
+**Pago:** El club confirma el grupo antes del pago. Según las condiciones generales, el reembolso íntegro exige cancelación escrita con al menos 48 horas.
+
+**Matvey:** A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza.
+
+**Oscar:** Edad mínima 6 años. El club confirma la edad y la apertura del grupo.
+
+**Motivo de la selección:** Condiciones publicadas por el organizador. Precio y plaza se comprueban por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse.
+
+### Scratch: decorem l’arbre de Nadal
+
+**Fechas / estado:** 2026-12-12 — 2026-12-12
+
+**lugar:** Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+
+**edad:** Grupos paralelos de 6–9, 9–11 y 12–15 años.
+
+**Precio:** EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.
+
+- 2026-12-12 · 11:45–13:15 · Europe/Madrid · Scratch: decorem l’arbre de Nadal
+
+**Disponibilidad de plazas:** Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes.
+
+**Matvey:** A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza.
+
+**Oscar:** Edad mínima 6 años. El club confirma la edad y la apertura del grupo.
+
+[fuente](https://robboclub.es/barcelona/ca/tallers)
+
+### Scratch: el joc de les disfresses
+
+**Fechas / estado:** 2027-02-06 — 2027-02-06
+
+**lugar:** Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+
+**edad:** Grupos paralelos de 6–9, 9–11 y 12–15 años.
+
+**Precio:** EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.
+
+- 2027-02-06 · 11:45–13:15 · Europe/Madrid · Scratch: el joc de les disfresses
+
+**Disponibilidad de plazas:** Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes.
+
+**Matvey:** A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza.
+
+**Oscar:** Edad mínima 6 años. El club confirma la edad y la apertura del grupo.
+
+[fuente](https://robboclub.es/barcelona/ca/tallers)
+
+### Scratch: l’aventura del drac de Sant Jordi
+
+**Fechas / estado:** 2027-04-24 — 2027-04-24
+
+**lugar:** Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+
+**edad:** Grupos paralelos de 6–9, 9–11 y 12–15 años.
+
+**Precio:** EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.
+
+- 2027-04-24 · 11:45–13:15 · Europe/Madrid · Scratch: l’aventura del drac de Sant Jordi
+
+**Disponibilidad de plazas:** Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes.
+
+**Matvey:** A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza.
+
+**Oscar:** Edad mínima 6 años. El club confirma la edad y la apertura del grupo.
+
+[fuente](https://robboclub.es/barcelona/ca/tallers)
+
+### Fuentes
+
+- [Página oficial del organizador](https://robboclub.es/barcelona/ca/tallers) · 2026-11-07
+
+- [Página oficial del organizador](https://robboclub.es/barcelona/en) · 2026-11-07
+
+- [Página oficial del organizador](https://robboclub.es/barcelona/es/terms) · 2026-11-07
+
+## CP1772 · ROBBO Club Poblenou · Circuits
+
+España · Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grupos paralelos de 6–9, 9–11 y 12–15 años.
+
+**Idioma:** Confirmar idioma de los talleres del sábado. El español y el ruso se indican para la jornada abierta de septiembre.
+
+**Programa:** Circuitos eléctricos, luz, sensores magnéticos y motores.
+
+**Alojamiento:** Taller diurno sin alojamiento.
+
+**Fechas / estado:** Sábados en las fechas publicadas, 11:45–13:15. El club confirmará el mínimo del grupo concreto.
+
+**Precio / año:** 2026/27 · EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.
+
+**Incluido:** Circuitos eléctricos, luz, sensores magnéticos y motores.
+
+**Suplementos:** No se publica el precio de la opción concreta.
+
+**Pago:** El club confirma el grupo antes del pago. Según las condiciones generales, el reembolso íntegro exige cancelación escrita con al menos 48 horas.
+
+**Matvey:** A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza.
+
+**Oscar:** Edad mínima 6 años. El club confirma la edad y la apertura del grupo.
+
+**Motivo de la selección:** Condiciones publicadas por el organizador. Precio y plaza se comprueban por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse.
+
+### Una postal de Nadal que s’il·lumina
+
+**Fechas / estado:** 2026-12-05 — 2026-12-05
+
+**lugar:** Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+
+**edad:** Grupos paralelos de 6–9, 9–11 y 12–15 años.
+
+**Precio:** EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.
+
+- 2026-12-05 · 11:45–13:15 · Europe/Madrid · Una postal de Nadal que s’il·lumina
+
+**Disponibilidad de plazas:** Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes.
+
+**Matvey:** A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza.
+
+**Oscar:** Edad mínima 6 años. El club confirma la edad y la apertura del grupo.
+
+[fuente](https://robboclub.es/barcelona/ca/tallers)
+
+### Barcelona s’il·lumina: encenem una maqueta
+
+**Fechas / estado:** 2027-02-13 — 2027-02-13
+
+**lugar:** Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+
+**edad:** Grupos paralelos de 6–9, 9–11 y 12–15 años.
+
+**Precio:** EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.
+
+- 2027-02-13 · 11:45–13:15 · Europe/Madrid · Barcelona s’il·lumina: encenem una maqueta
+
+**Disponibilidad de plazas:** Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes.
+
+**Matvey:** A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza.
+
+**Oscar:** Edad mínima 6 años. El club confirma la edad y la apertura del grupo.
+
+[fuente](https://robboclub.es/barcelona/ca/tallers)
+
+### Una alarma que funciona amb un imant
+
+**Fechas / estado:** 2027-05-08 — 2027-05-08
+
+**lugar:** Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+
+**edad:** Grupos paralelos de 6–9, 9–11 y 12–15 años.
+
+**Precio:** EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.
+
+- 2027-05-08 · 11:45–13:15 · Europe/Madrid · Una alarma que funciona amb un imant
+
+**Disponibilidad de plazas:** Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes.
+
+**Matvey:** A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza.
+
+**Oscar:** Edad mínima 6 años. El club confirma la edad y la apertura del grupo.
+
+[fuente](https://robboclub.es/barcelona/ca/tallers)
+
+### Un cotxe elèctric: motor i moviment
+
+**Fechas / estado:** 2027-06-12 — 2027-06-12
+
+**lugar:** Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+
+**edad:** Grupos paralelos de 6–9, 9–11 y 12–15 años.
+
+**Precio:** EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.
+
+- 2027-06-12 · 11:45–13:15 · Europe/Madrid · Un cotxe elèctric: motor i moviment
+
+**Disponibilidad de plazas:** Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes.
+
+**Matvey:** A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza.
+
+**Oscar:** Edad mínima 6 años. El club confirma la edad y la apertura del grupo.
+
+[fuente](https://robboclub.es/barcelona/ca/tallers)
+
+### Fuentes
+
+- [Página oficial del organizador](https://robboclub.es/barcelona/ca/tallers) · 2026-11-07
+
+- [Página oficial del organizador](https://robboclub.es/barcelona/en) · 2026-11-07
+
+- [Página oficial del organizador](https://robboclub.es/barcelona/es/terms) · 2026-11-07
+
+## CP1773 · ROBBO Club Poblenou · Disseny 3D
+
+España · Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grupos paralelos de 6–9, 9–11 y 12–15 años.
+
+**Idioma:** Confirmar idioma de los talleres del sábado. El español y el ruso se indican para la jornada abierta de septiembre.
+
+**Programa:** Los proyectos se organizan en parejas de sábados. Se imprime entre el diseño y el montaje. Confirmar si se puede asistir solo a la segunda parte.
+
+**Alojamiento:** Taller diurno sin alojamiento.
+
+**Fechas / estado:** Sábados en las fechas publicadas, 11:45–13:15. El club confirmará el mínimo del grupo concreto.
+
+**Precio / año:** 2026/27 · EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.
+
+**Incluido:** Los proyectos se organizan en parejas de sábados. Se imprime entre el diseño y el montaje. Confirmar si se puede asistir solo a la segunda parte.
+
+**Suplementos:** No se publica el precio de la opción concreta.
+
+**Pago:** El club confirma el grupo antes del pago. Según las condiciones generales, el reembolso íntegro exige cancelación escrita con al menos 48 horas.
+
+**Matvey:** A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza.
+
+**Oscar:** Edad mínima 6 años. El club confirma la edad y la apertura del grupo.
+
+**Motivo de la selección:** Condiciones publicadas por el organizador. Precio y plaza se comprueban por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse.
+
+### Un gat en 3D: dissenyem un tovalloner
+
+**Fechas / estado:** 2026-11-21 — 2026-11-21
+
+**lugar:** Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+
+**edad:** Grupos paralelos de 6–9, 9–11 y 12–15 años.
+
+**Precio:** EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.
+
+- 2026-11-21 · 11:45–13:15 · Europe/Madrid · Un gat en 3D: dissenyem un tovalloner
+
+**Disponibilidad de plazas:** Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes.
+
+**Matvey:** A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza.
+
+**Oscar:** Edad mínima 6 años. El club confirma la edad y la apertura del grupo.
+
+[fuente](https://robboclub.es/barcelona/ca/tallers)
+
+### Un gat en 3D: muntem i corregim
+
+**Fechas / estado:** 2026-11-28 — 2026-11-28
+
+**lugar:** Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+
+**edad:** Grupos paralelos de 6–9, 9–11 y 12–15 años.
+
+**Precio:** EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.
+
+- 2026-11-28 · 11:45–13:15 · Europe/Madrid · Un gat en 3D: muntem i corregim
+
+**Disponibilidad de plazas:** Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes.
+
+**Matvey:** A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza.
+
+**Oscar:** Edad mínima 6 años. El club confirma la edad y la apertura del grupo.
+
+[fuente](https://robboclub.es/barcelona/ca/tallers)
+
+### Estació espacial 3D: dissenyem els mòduls
+
+**Fechas / estado:** 2027-01-23 — 2027-01-23
+
+**lugar:** Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+
+**edad:** Grupos paralelos de 6–9, 9–11 y 12–15 años.
+
+**Precio:** EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.
+
+- 2027-01-23 · 11:45–13:15 · Europe/Madrid · Estació espacial 3D: dissenyem els mòduls
+
+**Disponibilidad de plazas:** Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes.
+
+**Matvey:** A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza.
+
+**Oscar:** Edad mínima 6 años. El club confirma la edad y la apertura del grupo.
+
+[fuente](https://robboclub.es/barcelona/ca/tallers)
+
+### Estació espacial 3D: muntem i millorem
+
+**Fechas / estado:** 2027-01-30 — 2027-01-30
+
+**lugar:** Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+
+**edad:** Grupos paralelos de 6–9, 9–11 y 12–15 años.
+
+**Precio:** EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.
+
+- 2027-01-30 · 11:45–13:15 · Europe/Madrid · Estació espacial 3D: muntem i millorem
+
+**Disponibilidad de plazas:** Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes.
+
+**Matvey:** A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza.
+
+**Oscar:** Edad mínima 6 años. El club confirma la edad y la apertura del grupo.
+
+[fuente](https://robboclub.es/barcelona/ca/tallers)
+
+### Flors de primavera: dissenyem en 3D
+
+**Fechas / estado:** 2027-03-06 — 2027-03-06
+
+**lugar:** Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+
+**edad:** Grupos paralelos de 6–9, 9–11 y 12–15 años.
+
+**Precio:** EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.
+
+- 2027-03-06 · 11:45–13:15 · Europe/Madrid · Flors de primavera: dissenyem en 3D
+
+**Disponibilidad de plazas:** Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes.
+
+**Matvey:** A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza.
+
+**Oscar:** Edad mínima 6 años. El club confirma la edad y la apertura del grupo.
+
+[fuente](https://robboclub.es/barcelona/ca/tallers)
+
+### Flors de primavera: provem i millorem
+
+**Fechas / estado:** 2027-03-13 — 2027-03-13
+
+**lugar:** Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+
+**edad:** Grupos paralelos de 6–9, 9–11 y 12–15 años.
+
+**Precio:** EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.
+
+- 2027-03-13 · 11:45–13:15 · Europe/Madrid · Flors de primavera: provem i millorem
+
+**Disponibilidad de plazas:** Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes.
+
+**Matvey:** A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza.
+
+**Oscar:** Edad mínima 6 años. El club confirma la edad y la apertura del grupo.
+
+[fuente](https://robboclub.es/barcelona/ca/tallers)
+
+### Una rosa per Sant Jordi: dissenyem en 3D
+
+**Fechas / estado:** 2027-04-10 — 2027-04-10
+
+**lugar:** Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+
+**edad:** Grupos paralelos de 6–9, 9–11 y 12–15 años.
+
+**Precio:** EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.
+
+- 2027-04-10 · 11:45–13:15 · Europe/Madrid · Una rosa per Sant Jordi: dissenyem en 3D
+
+**Disponibilidad de plazas:** Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes.
+
+**Matvey:** A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza.
+
+**Oscar:** Edad mínima 6 años. El club confirma la edad y la apertura del grupo.
+
+[fuente](https://robboclub.es/barcelona/ca/tallers)
+
+### Una rosa per Sant Jordi: provem i millorem
+
+**Fechas / estado:** 2027-04-17 — 2027-04-17
+
+**lugar:** Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+
+**edad:** Grupos paralelos de 6–9, 9–11 y 12–15 años.
+
+**Precio:** EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.
+
+- 2027-04-17 · 11:45–13:15 · Europe/Madrid · Una rosa per Sant Jordi: provem i millorem
+
+**Disponibilidad de plazas:** Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes.
+
+**Matvey:** A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza.
+
+**Oscar:** Edad mínima 6 años. El club confirma la edad y la apertura del grupo.
+
+[fuente](https://robboclub.es/barcelona/ca/tallers)
+
+### Fuentes
+
+- [Página oficial del organizador](https://robboclub.es/barcelona/ca/tallers) · 2026-11-07
+
+- [Página oficial del organizador](https://robboclub.es/barcelona/en) · 2026-11-07
+
+- [Página oficial del organizador](https://robboclub.es/barcelona/es/terms) · 2026-11-07
+
+## CP1774 · ROBBO Club Poblenou · Lògica
+
+España · Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grupos paralelos de 6–9, 9–11 y 12–15 años.
+
+**Idioma:** Confirmar idioma de los talleres del sábado. El español y el ruso se indican para la jornada abierta de septiembre.
+
+**Programa:** Retos de lógica, códigos y búsqueda de pistas.
+
+**Alojamiento:** Taller diurno sin alojamiento.
+
+**Fechas / estado:** Sábados en las fechas publicadas, 11:45–13:15. El club confirmará el mínimo del grupo concreto.
+
+**Precio / año:** 2026/27 · EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.
+
+**Incluido:** Retos de lógica, códigos y búsqueda de pistas.
+
+**Suplementos:** No se publica el precio de la opción concreta.
+
+**Pago:** El club confirma el grupo antes del pago. Según las condiciones generales, el reembolso íntegro exige cancelación escrita con al menos 48 horas.
+
+**Matvey:** A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza.
+
+**Oscar:** Edad mínima 6 años. El club confirma la edad y la apertura del grupo.
+
+**Motivo de la selección:** Condiciones publicadas por el organizador. Precio y plaza se comprueban por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse.
+
+### Pistes i codis: el repte de lògica
+
+**Fechas / estado:** 2027-05-22 — 2027-05-22
+
+**lugar:** Hot-Spot Creative Space · Carrer de Pere IV, 192 · Poblenou · Barcelona
+
+**edad:** Grupos paralelos de 6–9, 9–11 y 12–15 años.
+
+**Precio:** EUR 30 por taller o EUR 100 por 4 talleres consecutivos del calendario.
+
+- 2027-05-22 · 11:45–13:15 · Europe/Madrid · Pistes i codis: el repte de lògica
+
+**Disponibilidad de plazas:** Preinscripción. El grupo abrirá al alcanzar el mínimo de participantes.
+
+**Matvey:** A los 9 años coinciden 2 grupos. El club confirma el grupo y la plaza.
+
+**Oscar:** Edad mínima 6 años. El club confirma la edad y la apertura del grupo.
+
+[fuente](https://robboclub.es/barcelona/ca/tallers)
+
+### Fuentes
+
+- [Página oficial del organizador](https://robboclub.es/barcelona/ca/tallers) · 2026-11-07
+
+- [Página oficial del organizador](https://robboclub.es/barcelona/en) · 2026-11-07
+
+- [Página oficial del organizador](https://robboclub.es/barcelona/es/terms) · 2026-11-07
+
+## CP1775 · Graellsia · Campamento Científico · Diurno · EUR 150
+
+España · San Lorenzo de El Escorial · Monte Abantos / C.E.A. Los Llanillos
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 4–15 años y etapas escolares indicadas. Confirmar cómo se aplican ambos criterios a los menores.
+
+**Idioma:** Idioma del grupo elegido sin publicar.
+
+**Programa:** Actividades de campo y laboratorio sobre naturaleza, observación de fauna y excursión familiar el último día.
+
+**Alojamiento:** Actividades, materiales y seguro. Comidas y alojamiento aparte.
+
+**Fechas / estado:** 22–26 de marzo de 2027. Actividades diurnas 09:30–16:30. Solicitudes hasta el 20 de marzo de 2027.
+
+**Precio / año:** 2027 · Diurno · EUR 150
+
+**Incluido:** Actividades, materiales y seguro. Comidas y alojamiento aparte.
+
+**Suplementos:** Se publica un descuento del 10% al inscribir a 2 o más hermanos. Confirmar factura final y plazas.
+
+**Pago:** El organizador confirma la formalización tras el pago completo dentro del plazo que indique. Confirmar condiciones de devolución.
+
+**Matvey:** Edad adecuada. Confirmar curso, plaza y modalidad.
+
+**Oscar:** Edad adecuada. Para 6 años, confirmar etapa escolar y reglas de pernocta.
+
+**Motivo de la selección:** Condiciones publicadas por el organizador. Precio y plaza se comprueban por separado.
+
+### Antes de solicitar plaza
+
+- Límite de 30. Confirmar idioma, plazas, descuento y forma de pago.
+
+### Diurno · EUR 150
+
+**Fechas / estado:** 2027-03-22 — 2027-03-26
+
+**lugar:** San Lorenzo de El Escorial · Monte Abantos / C.E.A. Los Llanillos
+
+**edad:** 4–15 años y etapas escolares indicadas. Confirmar cómo se aplican ambos criterios a los menores.
+
+**Precio:** Diurno · EUR 150
+
+- 2027-03-22 · 09:30–16:30 · Europe/Madrid · Actividades de campo y laboratorio sobre naturaleza, observación de fauna y excursión familiar el último día.
+
+- 2027-03-23 · 09:30–16:30 · Europe/Madrid · Actividades de campo y laboratorio sobre naturaleza, observación de fauna y excursión familiar el último día.
+
+- 2027-03-24 · 09:30–16:30 · Europe/Madrid · Actividades de campo y laboratorio sobre naturaleza, observación de fauna y excursión familiar el último día.
+
+- 2027-03-25 · 09:30–16:30 · Europe/Madrid · Actividades de campo y laboratorio sobre naturaleza, observación de fauna y excursión familiar el último día.
+
+- 2027-03-26 · 09:30–16:30 · Europe/Madrid · Actividades de campo y laboratorio sobre naturaleza, observación de fauna y excursión familiar el último día.
+
+**Disponibilidad de plazas:** La página indica admisión de solicitudes. La plaza efectiva se confirma por separado.
+
+**Matvey:** Edad adecuada. Confirmar curso, plaza y modalidad.
+
+**Oscar:** Edad adecuada. Para 6 años, confirmar etapa escolar y reglas de pernocta.
+
+[fuente](https://graellsia.com/dossier/educacionambiental/campamento-semanasanta)
+
+### Fuentes
+
+- [Página oficial del organizador](https://graellsia.com/dossier/educacionambiental/campamento-semanasanta) · 2026-11-07
+
+## CP1776 · Graellsia · Campamento Científico · Con pernocta · EUR 260
+
+España · San Lorenzo de El Escorial · Monte Abantos / C.E.A. Los Llanillos
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 4–15 años y etapas escolares indicadas. Confirmar cómo se aplican ambos criterios a los menores.
+
+**Idioma:** Idioma del grupo elegido sin publicar.
+
+**Programa:** Actividades de campo y laboratorio sobre naturaleza, observación de fauna y excursión familiar el último día.
+
+**Alojamiento:** Actividades, materiales, seguro y pensión completa en C.E.A. Los Llanillos.
+
+**Fechas / estado:** 22–26 de marzo de 2027. Actividades diurnas 09:30–16:30. Solicitudes hasta el 20 de marzo de 2027.
+
+**Precio / año:** 2027 · Con pernocta · EUR 260
+
+**Incluido:** Actividades, materiales, seguro y pensión completa en C.E.A. Los Llanillos.
+
+**Suplementos:** Se publica un descuento del 10% al inscribir a 2 o más hermanos. Confirmar factura final y plazas.
+
+**Pago:** El organizador confirma la formalización tras el pago completo dentro del plazo que indique. Confirmar condiciones de devolución.
+
+**Matvey:** Edad adecuada. Confirmar curso, plaza y modalidad.
+
+**Oscar:** Edad adecuada. Para 6 años, confirmar etapa escolar y reglas de pernocta.
+
+**Motivo de la selección:** Condiciones publicadas por el organizador. Precio y plaza se comprueban por separado.
+
+### Antes de solicitar plaza
+
+- Límite de 12. Confirmar idioma, plazas, descuento y forma de pago.
+
+### Con pernocta · EUR 260
+
+**Fechas / estado:** 2027-03-22 — 2027-03-26
+
+**lugar:** San Lorenzo de El Escorial · Monte Abantos / C.E.A. Los Llanillos
+
+**edad:** 4–15 años y etapas escolares indicadas. Confirmar cómo se aplican ambos criterios a los menores.
+
+**Precio:** Con pernocta · EUR 260
+
+**Disponibilidad de plazas:** La página indica admisión de solicitudes. La plaza efectiva se confirma por separado.
+
+**Matvey:** Edad adecuada. Confirmar curso, plaza y modalidad.
+
+**Oscar:** Edad adecuada. Para 6 años, confirmar etapa escolar y reglas de pernocta.
+
+[fuente](https://graellsia.com/dossier/educacionambiental/campamento-semanasanta)
+
+### Fuentes
+
+- [Página oficial del organizador](https://graellsia.com/dossier/educacionambiental/campamento-semanasanta) · 2026-11-07
+
+## CP1777 · TechLab Kids Sarrià · Semana Blanca
+
+España · TechLab Kids Sarrià · Via Augusta 318 · Barcelona
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 4–14 años. Grupos de 4–5, 6–8 y 9–14 años.
+
+**Idioma:** Idioma del grupo elegido sin publicar.
+
+**Programa:** Robótica, ciencia y proyectos digitales. Pendientes los proyectos y tarifas del turno concreto.
+
+**Alojamiento:** Taller diurno sin alojamiento.
+
+**Fechas / estado:** Anuncio del 15 al 19 de febrero de 2027. Inscripción cerrada, horarios diarios sin publicar.
+
+**Precio / año:** sin establecer · No se publica el precio de la opción concreta.
+
+**Pago:** Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse.
+
+**Matvey:** Edad adecuada según la ficha. Confirmar plaza y admisión efectiva.
+
+**Oscar:** Edad adecuada según la ficha. Confirmar plaza y admisión efectiva.
+
+**Motivo de la selección:** Condiciones publicadas por el organizador. Precio y plaza se comprueban por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse.
+
+### Fuentes
+
+- [Página oficial del organizador](https://techlabkids.com/campamentos/casal-de-semana-blanca/) · 2026-11-07
+
+- [Página oficial del organizador](https://techlabkids.com/terminos-condiciones/) · 2026-11-07
+
+## CP1778 · TechLab Kids Sarrià · Semana Santa
+
+España · TechLab Kids Sarrià · Via Augusta 318 · Barcelona
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 4–14 años. Grupos de 4–5, 6–8 y 9–14 años.
+
+**Idioma:** Idioma del grupo elegido sin publicar.
+
+**Programa:** Robótica, ciencia y proyectos digitales. Pendientes los proyectos y tarifas del turno concreto.
+
+**Alojamiento:** Taller diurno sin alojamiento.
+
+**Fechas / estado:** Periodo del 20 al 29 de marzo de 2027. Inscripción cerrada, días lectivos exactos sin publicar.
+
+**Precio / año:** sin establecer · No se publica el precio de la opción concreta.
+
+**Pago:** Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse.
+
+**Matvey:** Edad adecuada según la ficha. Confirmar plaza y admisión efectiva.
+
+**Oscar:** Edad adecuada según la ficha. Confirmar plaza y admisión efectiva.
+
+**Motivo de la selección:** Condiciones publicadas por el organizador. Precio y plaza se comprueban por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse.
+
+### Fuentes
+
+- [Página oficial del organizador](https://techlabkids.com/campamentos/casal-de-semana-santa/) · 2026-11-07
+
+- [Página oficial del organizador](https://techlabkids.com/terminos-condiciones/) · 2026-11-07
+
+## CP1779 · TechLab Kids Sarrià · Verano
+
+España · TechLab Kids Sarrià · Via Augusta 318 · Barcelona
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 4–14 años. Grupos de 4–5, 6–8 y 9–14 años.
+
+**Idioma:** Idioma del grupo elegido sin publicar.
+
+**Programa:** Robótica, ciencia y proyectos digitales. Pendientes los proyectos y tarifas del turno concreto.
+
+**Alojamiento:** Taller diurno sin alojamiento.
+
+**Fechas / estado:** Se anuncia inicio el 22 de junio de 2027. Inscripción cerrada, semanas sin publicar.
+
+**Precio / año:** sin establecer · No se publica el precio de la opción concreta.
+
+**Pago:** Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse.
+
+**Matvey:** Edad adecuada según la ficha. Confirmar plaza y admisión efectiva.
+
+**Oscar:** Edad adecuada según la ficha. Confirmar plaza y admisión efectiva.
+
+**Motivo de la selección:** Condiciones publicadas por el organizador. Precio y plaza se comprueban por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse.
+
+### Fuentes
+
+- [Página oficial del organizador](https://techlabkids.com/campamentos/casal-de-verano-barcelona/) · 2026-11-07
+
+- [Página oficial del organizador](https://techlabkids.com/terminos-condiciones/) · 2026-11-07
+
+## CP1780 · MUNCYT Alcobendas · Misión Laboratorio
+
+España · MUNCYT Alcobendas · Calle Pintor Velázquez, 5
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 6–9 años inclusive.
+
+**Idioma:** Idioma del grupo elegido sin publicar.
+
+**Programa:** Laboratorio científico práctico infantil, 45 minutos. Se elige franja en el sistema del museo.
+
+**Alojamiento:** Taller diurno sin alojamiento.
+
+**Fechas / estado:** Programa permanente. Fecha exacta según el sistema de reservas.
+
+**Precio / año:** sin establecer · La ficha indica taller gratuito. Se reserva una franja aparte.
+
+**Incluido:** Laboratorio científico práctico infantil, 45 minutos. Se elige franja en el sistema del museo.
+
+**Suplementos:** No se publica el precio de la opción concreta.
+
+**Pago:** Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse.
+
+**Matvey:** Edad adecuada según la ficha. Confirmar plaza y admisión efectiva.
+
+**Oscar:** Edad adecuada según la ficha. Confirmar plaza y admisión efectiva.
+
+**Motivo de la selección:** Condiciones publicadas por el organizador. Precio y plaza se comprueban por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse.
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.muncyt.es/actividades/talleres-muncyt-alcobendas) · 2026-11-07
+
+## CP1781 · MUNCYT Coruña · Game Jam con software libre
+
+España · MUNCYT Coruña · Praza do Museo Nacional de Ciencia, 1
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 14–30 años.
+
+**Idioma:** Idioma del grupo elegido sin publicar.
+
+**Programa:** Taller introductorio de videojuegos con Godot Engine, Krita, LibreSprite y Audacity. Hace falta ordenador propio con los programas instalados.
+
+**Alojamiento:** Taller diurno sin alojamiento.
+
+**Fechas / estado:** 21 de noviembre de 2026, inicio a las 12:00. Hora de fin sin publicar.
+
+**Precio / año:** 2026 · Gratuito con reserva previa.
+
+**Incluido:** Taller introductorio de videojuegos con Godot Engine, Krita, LibreSprite y Audacity. Hace falta ordenador propio con los programas instalados.
+
+**Suplementos:** No se publica el precio de la opción concreta.
+
+**Pago:** Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse.
+
+**Matvey:** No. Edad mínima 14 años.
+
+**Oscar:** No. Edad mínima 14 años.
+
+**Motivo de la selección:** Condiciones publicadas por el organizador. Precio y plaza se comprueban por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse.
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.muncyt.es/actividades/participa-en-una-game-jam-con-software-libre) · 2026-11-07
 
 ## ~ Comprobaciones no cerradas
 
