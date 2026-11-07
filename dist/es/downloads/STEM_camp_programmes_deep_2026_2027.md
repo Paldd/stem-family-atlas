@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base al 2026-11-07. 1842 fichas en 112 países. Cada ficha indica las fechas de verificación de las fuentes.
+Estado de la base al 2026-11-07. 1854 fichas en 117 países. Cada ficha indica las fechas de verificación de las fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -145087,6 +145087,482 @@ RAE de Hong Kong (China) · Room 906, Summit Insurance Building · 789 Nathan Ro
 - [Página oficial del organizador](https://blueinnotechnology.com/blueinno-intensive-holiday-camps-registration-form/) · 2026-11-07
 
 - [Página oficial del organizador](https://blueinnotechnology.com/contact-us/) · 2026-11-07
+
+## CP1843 · StudySmartable · Robotics & Innovation
+
+Brunéi · G9–10 Annajat Complex · Mata-Mata · Gadong
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Admisión desde 6 años según las reglas. La portada indica rango general de 4–16. El centro asigna el grupo.
+
+**Idioma:** Para participar hay que entender inglés. Confirmar el idioma de enseñanza del grupo concreto.
+
+**Programa:** Clases regulares de robótica, programación, electrónica y proyectos de ingeniería. IA e IoT en los niveles avanzados.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** El centro publica reglas de admisión. Confirmar horario del grupo y duración.
+
+**Precio / año:** sin establecer · La tarifa mensual incluye clases y materiales básicos. Inscripción aparte. Puede haber gastos de equipos y torneos. Confirmar importes.
+
+**Incluido:** Clases regulares de robótica, programación, electrónica y proyectos de ingeniería. IA e IoT en los niveles avanzados.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Condicional. La edad encaja según las reglas. Confirmar grupo y acceso para visitantes.
+
+**Oscar:** Condicional. La edad encaja según las reglas. Confirmar grupo y acceso para visitantes.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad exacta de acceso y plaza con el recinto.
+
+### Fuentes
+
+- [Página oficial del organizador](https://studysmartable.com/admission/) · 2026-11-07
+
+- [Página oficial del organizador](https://studysmartable.com/) · 2026-11-07
+
+- [Página oficial del organizador](https://studysmartable.com/our-modules/) · 2026-11-07
+
+- [Página oficial del organizador](https://studysmartable.com/our-curriculum/) · 2026-11-07
+
+## CP1844 · SEL Young Innovators · SELYI
+
+Brunéi · Seria Energy Lab · Jalan Tengah · Seria
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Year 9–10 en el ciclo escolar de 2025.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Preparación escolar de programación, ingeniería e impresión 3D. El ciclo de 2025 culminó en el ROBIN nacional.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** Fechas de la próxima convocatoria sin publicar.
+
+**Precio / año:** sin establecer · Tarifa de la convocatoria actual sin confirmar.
+
+**Incluido:** Preparación escolar de programación, ingeniería e impresión 3D. El ciclo de 2025 culminó en el ROBIN nacional.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Etapa para más adelante.
+
+**Oscar:** Etapa para más adelante.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad exacta de acceso y plaza con el recinto.
+
+### Fuentes
+
+- [Página oficial del organizador](https://seriaenergylab.com/news/sel-young-innovators-selyi-empowering-bruneis-future-innovators/) · 2026-11-07
+
+- [Página oficial del organizador](https://seriaenergylab.com/news/young-innovators-shine-at-robin-competition-2025/) · 2026-11-07
+
+## CP1845 · BICTA Plus Bootcamp · Primary
+
+Brunéi · iCentre / Pusat Tingkatan Enam · Brunei
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Categoría de primaria Year 4–6 según BICTA.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Preparación gratuita de proyectos TIC mediante talleres. Las reglas requieren ciudadanía o residencia permanente de Brunéi.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** En 2026 las actividades fueron los sábados de mayo–junio. Nuevo calendario sin anunciar.
+
+**Precio / año:** sin establecer · Gratis según BICTA Plus.
+
+**Incluido:** Preparación gratuita de proyectos TIC mediante talleres. Las reglas requieren ciudadanía o residencia permanente de Brunéi.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Confirmar el curso escolar local. La edad por sí sola no acredita la admisión.
+
+**Oscar:** Confirmar el curso escolar local. La edad por sí sola no acredita la admisión.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad exacta de acceso y plaza con el recinto.
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.bicta.gov.bn/bicta-plus/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.bicta.gov.bn/events/) · 2026-11-07
+
+## CP1846 · TOYA Holiday Edition · Secret Agent Kindness Mission
+
+Bermudas · Western Zone / Old Prospect Primary / Eastern Zone · Bermuda
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Alumnado de Primary 1–5. Confirmar equivalencia de curso para menores de otro sistema escolar.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Programa diurno de invierno Secret Agent Kindness Mission. Retos STEM, acertijos, juegos y actividades generales de vacaciones.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** Se anuncian 11 días del 17 al 31 de diciembre de 2026 y el 4 de enero de 2027. Confirmar lista de días y horarios por sede.
+
+**Precio / año:** 2026 · 140 por menor o 4 vales públicos. La web indica la cifra con signo $. Misma tarifa si la asistencia es parcial.
+
+**Incluido:** Programa diurno de invierno Secret Agent Kindness Mission. Retos STEM, acertijos, juegos y actividades generales de vacaciones.
+
+**Suplementos:** Pago íntegro al inscribirse. El organizador permite asistir días sueltos por el mismo precio.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Confirmar curso escolar, idioma del grupo, acceso para visitantes y plazas.
+
+**Oscar:** Confirmar curso escolar, idioma del grupo, acceso para visitantes y plazas.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar curso escolar, idioma del grupo, acceso para visitantes y plazas.
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.ospbermuda.bm/) · 2026-11-07
+
+## CP1847 · Connectech · After-school Tech
+
+Bermudas · Hamilton · Bermuda
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Desde 7 años.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Programación, animación, juegos y robótica después de clase. El organizador indica que no hay grupos disponibles ahora.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** Fechas de la próxima convocatoria sin publicar.
+
+**Precio / año:** sin establecer · Tarifa de la convocatoria actual sin confirmar.
+
+**Incluido:** Programación, animación, juegos y robótica después de clase. El organizador indica que no hay grupos disponibles ahora.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+**Oscar:** Por ahora no alcanza la edad mínima.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad exacta de acceso y plaza con el recinto.
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.connectech.bm/) · 2026-11-07
+
+- [Página oficial del organizador](https://connectech.bm/programs) · 2026-11-07
+
+## CP1848 · Connectech · CubeSat Robotics Camp
+
+Bermudas · Bermuda
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Confirmar la edad en las reglas de la sesión concreta.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Campamento semanal con prototipo CubeSat, sensores, impresión 3D y análisis de datos. El organizador describe el programa de Pascua.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** Fechas de la próxima convocatoria sin publicar.
+
+**Precio / año:** sin establecer · Tarifa de la convocatoria actual sin confirmar.
+
+**Incluido:** Campamento semanal con prototipo CubeSat, sensores, impresión 3D y análisis de datos. El organizador describe el programa de Pascua.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Confirmar la edad en las reglas de la sesión concreta.
+
+**Oscar:** Confirmar la edad en las reglas de la sesión concreta.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad exacta de acceso y plaza con el recinto.
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.connectech.bm/robotics-club-cubesat/) · 2026-11-07
+
+## CP1849 · BVI Summer Robotics Camp
+
+Islas Vírgenes Británicas · British Virgin Islands
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Confirmar la edad en las reglas de la sesión concreta.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Preparación pública de verano en robótica. En 2025 se realizó una exposición de proyectos. Nueva edad, fechas y tarifa sin anunciar.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** Fechas de la próxima convocatoria sin publicar.
+
+**Precio / año:** sin establecer · Tarifa de la convocatoria actual sin confirmar.
+
+**Incluido:** Preparación pública de verano en robótica. En 2025 se realizó una exposición de proyectos. Nueva edad, fechas y tarifa sin anunciar.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Confirmar la edad en las reglas de la sesión concreta.
+
+**Oscar:** Confirmar la edad en las reglas de la sesión concreta.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad exacta de acceso y plaza con el recinto.
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.gov.vg/news/vi-team-compete-first-global-robotics-competition-panama) · 2026-11-07
+
+## CP1850 · St. Kitts and Nevis · Robo-Mindset Summer Camp
+
+San Cristóbal y Nieves · Basseterre
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Confirmar la edad en las reglas de la sesión concreta.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Campamento de dos semanas de la asociación de robótica. El ministerio confirmó una actividad de emprendimiento el 22 de julio de 2026.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** Fechas de la próxima convocatoria sin publicar.
+
+**Precio / año:** sin establecer · Tarifa de la convocatoria actual sin confirmar.
+
+**Incluido:** Campamento de dos semanas de la asociación de robótica. El ministerio confirmó una actividad de emprendimiento el 22 de julio de 2026.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Confirmar la edad en las reglas de la sesión concreta.
+
+**Oscar:** Confirmar la edad en las reglas de la sesión concreta.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad exacta de acceso y plaza con el recinto.
+
+### Fuentes
+
+- [Página oficial del organizador](https://education.gov.kn/2026/08/12/republic-bank-empowers-young-innovators-through-entrepreneurship-session-at-robo-mindset-summer-camp/) · 2026-11-07
+
+## CP1851 · Cocobots · Cook Islands Robotics Club 2027
+
+Islas Cook · CEIT Robotics & Computer Lab · USP Takamoa · Rarotonga
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Confirmar la edad en las reglas de la sesión concreta.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Club para principiantes y participantes con experiencia. Construcción y programación, VEX y REV Robotics, mentores y retos internos.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** Solicitud hasta el 28 de febrero de 2027. Actividades de marzo a septiembre, 1–2 veces por semana lectiva, 15:30–17:30. Orientación de marzo por confirmar.
+
+**Precio / año:** 2027 · 150 al año por menor según la página con signo $. Descuento del 50% para hermano adicional. Confirmar moneda y condiciones de factura.
+
+**Incluido:** Club para principiantes y participantes con experiencia. Construcción y programación, VEX y REV Robotics, mentores y retos internos.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Confirmar la edad en las reglas de la sesión concreta.
+
+**Oscar:** Confirmar la edad en las reglas de la sesión concreta.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad exacta de acceso y plaza con el recinto.
+
+### Fuentes
+
+- [Página oficial del organizador](https://cocobots.org/home/register/) · 2026-11-07
+
+- [Página oficial del organizador](https://cocobots.org/) · 2026-11-07
+
+## CP1852 · Cocobots · Kuki Code Avengers
+
+Islas Cook · CEIT Robotics & Computer Lab · USP Takamoa · Rarotonga
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 8–13 años según el programa principal. La edad de la sesión vacacional concreta puede variar.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Programación, alfabetización digital, robótica y pequeñas competiciones educativas.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** Fechas de la próxima convocatoria sin publicar.
+
+**Precio / año:** sin establecer · Tarifa de la convocatoria actual sin confirmar.
+
+**Incluido:** Programación, alfabetización digital, robótica y pequeñas competiciones educativas.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+**Oscar:** Por ahora no alcanza la edad mínima.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad exacta de acceso y plaza con el recinto.
+
+### Fuentes
+
+- [Página oficial del organizador](https://cocobots.org/code-avengers/) · 2026-11-07
+
+- [Página oficial del organizador](https://cocobots.org/events/) · 2026-11-07
+
+## CP1853 · Cocobots · Kuki Code Avengers Holiday Program
+
+Islas Cook · CEIT Robotics & Computer Lab · USP Takamoa · Rarotonga
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** En 2025, 8–10 años en la primera sesión y 8–12 en las otras.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Programación, alfabetización digital, robótica y pequeñas competiciones educativas.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** Fechas de la próxima convocatoria sin publicar.
+
+**Precio / año:** sin establecer · Tarifa de la convocatoria actual sin confirmar.
+
+**Incluido:** Programación, alfabetización digital, robótica y pequeñas competiciones educativas.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+**Oscar:** Por ahora no alcanza la edad mínima.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad exacta de acceso y plaza con el recinto.
+
+### Fuentes
+
+- [Página oficial del organizador](https://cocobots.org/events/) · 2026-11-07
+
+- [Página oficial del organizador](https://cocobots.org/code-avengers/) · 2026-11-07
+
+- [Página oficial del organizador](https://cocobots.org/gallery/ca-school-holiday-program/) · 2026-11-07
+
+## CP1854 · Bermuda Zoological Society · Science Club
+
+Bermudas · Bermuda
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 11–14 años.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Club científico de los sábados con investigación práctica. Otoño completo, consultar el invierno en diciembre.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** Fechas de la próxima convocatoria sin publicar.
+
+**Precio / año:** sin establecer · Tarifa de la convocatoria actual sin confirmar.
+
+**Incluido:** Club científico de los sábados con investigación práctica. Otoño completo, consultar el invierno en diciembre.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Etapa para más adelante.
+
+**Oscar:** Etapa para más adelante.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad exacta de acceso y plaza con el recinto.
+
+### Fuentes
+
+- [Página oficial del organizador](https://bzs.bm/education/science-club/) · 2026-11-07
 
 ## ~ Comprobaciones no cerradas
 

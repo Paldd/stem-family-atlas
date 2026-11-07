@@ -69,6 +69,20 @@ RELATED.update({
     'wepala-robotics-summer-trinidad': ['L671'],
     'wepala-python-holidays-online': ['L672'],
 })
+RELATED.update({
+    'brunei-studysmartable-robotics': ['L674'],
+    'brunei-seria-selyi': ['L675'],
+    'brunei-bicta-plus-primary': ['L676'],
+    'bermuda-toya-holiday-primary-2026-2027': ['L677'],
+    'bermuda-connectech-after-school': ['L679'],
+    'bermuda-connectech-cubesat': ['L680'],
+    'bvi-summer-robotics-camp': ['L681'],
+    'st-kitts-robomindset-summer': ['L682'],
+    'cook-islands-cocobots-club-2027': ['L683'],
+    'cook-islands-kuki-code-avengers': ['L684'],
+    'cook-islands-kuki-code-avengers-holidays': ['L685'],
+    'bermuda-bzs-science-club': ['L686'],
+})
 REUSE_DATES.update({'newtech-autumn-art':['L132'], 'newtech-christmas-film':['L133'], 'newtech-christmas-art':['L134']})
 GENERAL_STAYS.add('landheim-general-2027')
 GENERAL_STAYS.add('frilingue-braunwald-language')

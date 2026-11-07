@@ -30,25 +30,25 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1842,
-    "countries": 112,
+    "dossiers": 1854,
+    "countries": 117,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 261,
       "published_2027": 508,
-      "partial_2027": 140,
-      "next_unannounced": 385,
-      "published_2026": 332,
+      "partial_2027": 141,
+      "next_unannounced": 394,
+      "published_2026": 333,
       "partial_2026_27": 29,
       "partial_2026": 23,
       "archive_next_unannounced": 138,
-      "regular_programme": 18,
+      "regular_programme": 19,
       "regular_2026_27": 2,
       "historical_2026_next_season_unknown": 1,
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2677
+    "source_urls": 2697
   },
   "countries": [
     {
@@ -96,12 +96,24 @@
       "count": 2
     },
     {
+      "country": "Бермудские острова",
+      "count": 4
+    },
+    {
       "country": "Ботсвана",
       "count": 4
     },
     {
       "country": "Бразилия",
       "count": 6
+    },
+    {
+      "country": "Британские Виргинские острова",
+      "count": 1
+    },
+    {
+      "country": "Бруней-Даруссалам",
+      "count": 3
     },
     {
       "country": "Великобритания",
@@ -332,6 +344,10 @@
       "count": 1
     },
     {
+      "country": "Острова Кука",
+      "count": 3
+    },
+    {
       "country": "Панама",
       "count": 9
     },
@@ -378,6 +394,10 @@
     {
       "country": "Сент-Винсент и Гренадины",
       "count": 3
+    },
+    {
+      "country": "Сент-Китс и Невис",
+      "count": 1
     },
     {
       "country": "Сент-Люсия",
@@ -272385,6 +272405,840 @@
       "checked": "2026-11-07",
       "programme_type": "holiday_camp",
       "catalog_participation": "day_camp"
+    },
+    {
+      "id": "CP1843",
+      "slug": "brunei-studysmartable-robotics",
+      "provider": "StudySmartable · Robotics & Innovation",
+      "country": "Бруней-Даруссалам",
+      "iso": "BRN",
+      "place": "G9–10 Annajat Complex · Mata-Mata · Gadong",
+      "age": "Приём с 6 лет по правилам. На главной указан общий диапазон 4–16. Группу определяет центр.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "ai"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Для участия нужно понимать английский. Язык преподавания конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "programme": "Регулярные занятия по робототехнике, программированию, электронике и инженерным проектам. ИИ и IoT предусмотрены на старших уровнях.",
+      "timing": {
+        "status": "regular_programme",
+        "label": "Центр публикует правила приёма. Расписание группы и длительность участия уточнить.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "season_window"
+      },
+      "price": {
+        "year": null,
+        "currency": "",
+        "amount": null,
+        "unit": "month",
+        "label": "Ежемесячный тариф включает занятия и основные материалы. Регистрация оплачивается отдельно. Возможны траты на оборудование и турниры. Суммы уточнить.",
+        "included": "Регулярные занятия по робототехнике, программированию, электронике и инженерным проектам. ИИ и IoT предусмотрены на старших уровнях.",
+        "extras": "Цена не опубликована.",
+        "deposit": "Проверить итоговую сумму и условия возврата перед оплатой."
+      },
+      "accommodation": "Дневной лагерь без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Возраст подходит по правилам приёма. Подтвердить группу и возможность посещения приезжим ребёнком."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Возраст подходит по правилам приёма. Подтвердить группу и возможность посещения приезжим ребёнком."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Точный возрастной допуск и наличие места уточнить у площадки."
+      ],
+      "sources": [
+        {
+          "url": "https://studysmartable.com/admission/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://studysmartable.com/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://studysmartable.com/our-modules/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://studysmartable.com/our-curriculum/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "regular_course",
+      "catalog_participation": "regular"
+    },
+    {
+      "id": "CP1844",
+      "slug": "brunei-seria-selyi",
+      "provider": "SEL Young Innovators · SELYI",
+      "country": "Бруней-Даруссалам",
+      "iso": "BRN",
+      "place": "Seria Energy Lab · Jalan Tengah · Seria",
+      "age": "Year 9–10 по школьному циклу 2025.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "3d"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык инструктажа конкретной смены не указан. Уточнить английский и испанский.",
+      "confirmed_instruction_languages": [],
+      "programme": "Школьная подготовка по программированию, инженерии и 3D-печати. В цикле 2025 завершалась национальным ROBIN.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Даты следующего набора не опубликованы.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "season_window"
+      },
+      "price": {
+        "year": null,
+        "currency": "",
+        "amount": null,
+        "unit": "session",
+        "label": "Цена текущего набора не подтверждена.",
+        "included": "Школьная подготовка по программированию, инженерии и 3D-печати. В цикле 2025 завершалась национальным ROBIN.",
+        "extras": "Цена не опубликована.",
+        "deposit": "Проверить итоговую сумму и условия возврата перед оплатой."
+      },
+      "accommodation": "Дневной лагерь без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Будущая возрастная ступень."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Будущая возрастная ступень."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Точный возрастной допуск и наличие места уточнить у площадки."
+      ],
+      "sources": [
+        {
+          "url": "https://seriaenergylab.com/news/sel-young-innovators-selyi-empowering-bruneis-future-innovators/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://seriaenergylab.com/news/young-innovators-shine-at-robin-competition-2025/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "regular_course",
+      "catalog_participation": "regular"
+    },
+    {
+      "id": "CP1845",
+      "slug": "brunei-bicta-plus-primary",
+      "provider": "BICTA Plus Bootcamp · Primary",
+      "country": "Бруней-Даруссалам",
+      "iso": "BRN",
+      "place": "iCentre / Pusat Tingkatan Enam · Brunei",
+      "age": "Начальная школьная категория Year 4–6 по правилам BICTA.",
+      "themes": [
+        "coding",
+        "technology",
+        "entrepreneurship"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык инструктажа конкретной смены не указан. Уточнить английский и испанский.",
+      "confirmed_instruction_languages": [],
+      "programme": "Бесплатная подготовка ICT-проектов через мастерские. Участники должны быть гражданами или постоянными резидентами Брунея по правилам программы.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "В 2026 занятия проходили по субботам в мае–июне. Новый календарь не объявлен.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "season_window"
+      },
+      "price": {
+        "year": null,
+        "currency": "BND",
+        "amount": 0,
+        "unit": "programme",
+        "label": "Бесплатно по странице BICTA Plus.",
+        "included": "Бесплатная подготовка ICT-проектов через мастерские. Участники должны быть гражданами или постоянными резидентами Брунея по правилам программы.",
+        "extras": "Цена не опубликована.",
+        "deposit": "Проверить итоговую сумму и условия возврата перед оплатой."
+      },
+      "accommodation": "Дневной лагерь без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Сверить местный школьный класс. Возраст сам по себе не подтверждает допуск."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Сверить местный школьный класс. Возраст сам по себе не подтверждает допуск."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Точный возрастной допуск и наличие места уточнить у площадки."
+      ],
+      "sources": [
+        {
+          "url": "https://www.bicta.gov.bn/bicta-plus/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.bicta.gov.bn/events/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop"
+    },
+    {
+      "id": "CP1846",
+      "slug": "bermuda-toya-holiday-primary-2026-2027",
+      "provider": "TOYA Holiday Edition · Secret Agent Kindness Mission",
+      "country": "Бермудские острова",
+      "iso": "BMU",
+      "place": "Western Zone / Old Prospect Primary / Eastern Zone · Bermuda",
+      "age": "Учащиеся Primary 1–5. Для детей из другой школьной системы нужно подтвердить эквивалент класса.",
+      "themes": [
+        "technology",
+        "science",
+        "games",
+        "general"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык инструктажа конкретной смены не указан. Уточнить английский и испанский.",
+      "confirmed_instruction_languages": [],
+      "programme": "Дневная зимняя программа Secret Agent Kindness Mission. STEM-задания, головоломки, игры и общие каникулярные занятия.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Объявлено 11 дней в период 17–31 декабря 2026 и 4 января 2027. Полный список дней и часы конкретной площадки уточнить.",
+        "sessions": [
+          [
+            "2026-12-17",
+            "2026-12-31"
+          ],
+          [
+            "2027-01-04",
+            "2027-01-04"
+          ]
+        ],
+        "session_details": [],
+        "precision": "season_window"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "",
+        "amount": null,
+        "unit": "programme",
+        "label": "140 за ребёнка или 4 государственных ваучера. Сумма на сайте обозначена знаком $. Цена одинакова при частичном посещении.",
+        "included": "Дневная зимняя программа Secret Agent Kindness Mission. STEM-задания, головоломки, игры и общие каникулярные занятия.",
+        "extras": "При записи нужна полная оплата. Организатор разрешает посещать отдельные дни по той же цене.",
+        "deposit": "Проверить итоговую сумму и условия возврата перед оплатой."
+      },
+      "accommodation": "Дневной лагерь без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Уточнить школьный класс, язык группы, право приезжих детей на запись и свободные места."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Уточнить школьный класс, язык группы, право приезжих детей на запись и свободные места."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Уточнить школьный класс, язык группы, право приезжих детей на запись и свободные места."
+      ],
+      "sources": [
+        {
+          "url": "https://www.ospbermuda.bm/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "availability": {
+        "status": "not_open_yet",
+        "label": "Приём заявок с 09:00 по местному времени 23 ноября 2026. Запись через портал ведомства."
+      }
+    },
+    {
+      "id": "CP1847",
+      "slug": "bermuda-connectech-after-school",
+      "provider": "Connectech · After-school Tech",
+      "country": "Бермудские острова",
+      "iso": "BMU",
+      "place": "Hamilton · Bermuda",
+      "age": "От 7 лет.",
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык инструктажа конкретной смены не указан. Уточнить английский и испанский.",
+      "confirmed_instruction_languages": [],
+      "programme": "Кодинг, анимация, игры и робототехника после школы. Организатор указывает, что сейчас нет доступных групп.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Даты следующего набора не опубликованы.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "season_window"
+      },
+      "price": {
+        "year": null,
+        "currency": "",
+        "amount": null,
+        "unit": "session",
+        "label": "Цена текущего набора не подтверждена.",
+        "included": "Кодинг, анимация, игры и робототехника после школы. Организатор указывает, что сейчас нет доступных групп.",
+        "extras": "Цена не опубликована.",
+        "deposit": "Проверить итоговую сумму и условия возврата перед оплатой."
+      },
+      "accommodation": "Дневной лагерь без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст подходит. Уточнить место и язык занятия."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Пока младше минимального возраста."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Точный возрастной допуск и наличие места уточнить у площадки."
+      ],
+      "sources": [
+        {
+          "url": "https://www.connectech.bm/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://connectech.bm/programs",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "regular_course",
+      "catalog_participation": "regular"
+    },
+    {
+      "id": "CP1848",
+      "slug": "bermuda-connectech-cubesat",
+      "provider": "Connectech · CubeSat Robotics Camp",
+      "country": "Бермудские острова",
+      "iso": "BMU",
+      "place": "Bermuda",
+      "age": "Уточнить возраст по правилам конкретной смены.",
+      "themes": [
+        "robotics",
+        "coding",
+        "space",
+        "3d"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык инструктажа конкретной смены не указан. Уточнить английский и испанский.",
+      "confirmed_instruction_languages": [],
+      "programme": "Недельный лагерь с прототипом CubeSat, датчиками, 3D-печатью и анализом данных. Организатор описывает программу на пасхальные каникулы.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Даты следующего набора не опубликованы.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "season_window"
+      },
+      "price": {
+        "year": null,
+        "currency": "",
+        "amount": null,
+        "unit": "session",
+        "label": "Цена текущего набора не подтверждена.",
+        "included": "Недельный лагерь с прототипом CubeSat, датчиками, 3D-печатью и анализом данных. Организатор описывает программу на пасхальные каникулы.",
+        "extras": "Цена не опубликована.",
+        "deposit": "Проверить итоговую сумму и условия возврата перед оплатой."
+      },
+      "accommodation": "Дневной лагерь без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Уточнить возраст по правилам конкретной смены."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Уточнить возраст по правилам конкретной смены."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Точный возрастной допуск и наличие места уточнить у площадки."
+      ],
+      "sources": [
+        {
+          "url": "https://www.connectech.bm/robotics-club-cubesat/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp"
+    },
+    {
+      "id": "CP1849",
+      "slug": "bvi-summer-robotics-camp",
+      "provider": "BVI Summer Robotics Camp",
+      "country": "Британские Виргинские острова",
+      "iso": "VGB",
+      "place": "British Virgin Islands",
+      "age": "Уточнить возраст по правилам конкретной смены.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык инструктажа конкретной смены не указан. Уточнить английский и испанский.",
+      "confirmed_instruction_languages": [],
+      "programme": "Государственная летняя подготовка по робототехнике. В 2025 проводили выставку проектов. Новый возраст, даты и стоимость не объявлены.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Даты следующего набора не опубликованы.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "season_window"
+      },
+      "price": {
+        "year": null,
+        "currency": "",
+        "amount": null,
+        "unit": "session",
+        "label": "Цена текущего набора не подтверждена.",
+        "included": "Государственная летняя подготовка по робототехнике. В 2025 проводили выставку проектов. Новый возраст, даты и стоимость не объявлены.",
+        "extras": "Цена не опубликована.",
+        "deposit": "Проверить итоговую сумму и условия возврата перед оплатой."
+      },
+      "accommodation": "Дневной лагерь без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Уточнить возраст по правилам конкретной смены."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Уточнить возраст по правилам конкретной смены."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Точный возрастной допуск и наличие места уточнить у площадки."
+      ],
+      "sources": [
+        {
+          "url": "https://www.gov.vg/news/vi-team-compete-first-global-robotics-competition-panama",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp"
+    },
+    {
+      "id": "CP1850",
+      "slug": "st-kitts-robomindset-summer",
+      "provider": "St. Kitts and Nevis · Robo-Mindset Summer Camp",
+      "country": "Сент-Китс и Невис",
+      "iso": "KNA",
+      "place": "Basseterre",
+      "age": "Уточнить возраст по правилам конкретной смены.",
+      "themes": [
+        "robotics",
+        "technology",
+        "entrepreneurship"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык инструктажа конкретной смены не указан. Уточнить английский и испанский.",
+      "confirmed_instruction_languages": [],
+      "programme": "Двухнедельный лагерь ассоциации робототехники. Министерство подтвердило занятие по предпринимательству 22 июля 2026.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Даты следующего набора не опубликованы.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "season_window"
+      },
+      "price": {
+        "year": null,
+        "currency": "",
+        "amount": null,
+        "unit": "session",
+        "label": "Цена текущего набора не подтверждена.",
+        "included": "Двухнедельный лагерь ассоциации робототехники. Министерство подтвердило занятие по предпринимательству 22 июля 2026.",
+        "extras": "Цена не опубликована.",
+        "deposit": "Проверить итоговую сумму и условия возврата перед оплатой."
+      },
+      "accommodation": "Дневной лагерь без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Уточнить возраст по правилам конкретной смены."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Уточнить возраст по правилам конкретной смены."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Точный возрастной допуск и наличие места уточнить у площадки."
+      ],
+      "sources": [
+        {
+          "url": "https://education.gov.kn/2026/08/12/republic-bank-empowers-young-innovators-through-entrepreneurship-session-at-robo-mindset-summer-camp/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp"
+    },
+    {
+      "id": "CP1851",
+      "slug": "cook-islands-cocobots-club-2027",
+      "provider": "Cocobots · Cook Islands Robotics Club 2027",
+      "country": "Острова Кука",
+      "iso": "COK",
+      "place": "CEIT Robotics & Computer Lab · USP Takamoa · Rarotonga",
+      "age": "Уточнить возраст по правилам конкретной смены.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык инструктажа конкретной смены не указан. Уточнить английский и испанский.",
+      "confirmed_instruction_languages": [],
+      "programme": "Клуб для начинающих и опытных. Конструирование и программирование, VEX и REV Robotics, наставники и внутренние испытания.",
+      "timing": {
+        "status": "partial_2027",
+        "label": "Заявка до 28 февраля 2027. Занятия с марта по сентябрь, 1–2 раза в неделю в школьный семестр, 15:30–17:30. Вводный день в марте уточняется.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "announced_month",
+        "announced_months": [
+          "2027-03",
+          "2027-04",
+          "2027-05",
+          "2027-06",
+          "2027-07",
+          "2027-08",
+          "2027-09"
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "currency": "",
+        "amount": null,
+        "unit": "year",
+        "label": "150 за год на ребёнка по странице со знаком $. Дополнительному брату или сестре скидка 50%. Валюту и условия счёта уточнить.",
+        "included": "Клуб для начинающих и опытных. Конструирование и программирование, VEX и REV Robotics, наставники и внутренние испытания.",
+        "extras": "Цена не опубликована.",
+        "deposit": "Проверить итоговую сумму и условия возврата перед оплатой."
+      },
+      "accommodation": "Дневной лагерь без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Уточнить возраст по правилам конкретной смены."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Уточнить возраст по правилам конкретной смены."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Точный возрастной допуск и наличие места уточнить у площадки."
+      ],
+      "sources": [
+        {
+          "url": "https://cocobots.org/home/register/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://cocobots.org/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "regular_course",
+      "catalog_participation": "regular"
+    },
+    {
+      "id": "CP1852",
+      "slug": "cook-islands-kuki-code-avengers",
+      "provider": "Cocobots · Kuki Code Avengers",
+      "country": "Острова Кука",
+      "iso": "COK",
+      "place": "CEIT Robotics & Computer Lab · USP Takamoa · Rarotonga",
+      "age": "8–13 лет по основной программе. Возраст конкретной каникулярной группы может отличаться.",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "games"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык инструктажа конкретной смены не указан. Уточнить английский и испанский.",
+      "confirmed_instruction_languages": [],
+      "programme": "Программирование, цифровая грамотность, робототехника и небольшие учебные соревнования.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Даты следующего набора не опубликованы.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "season_window"
+      },
+      "price": {
+        "year": null,
+        "currency": "",
+        "amount": null,
+        "unit": "session",
+        "label": "Цена текущего набора не подтверждена.",
+        "included": "Программирование, цифровая грамотность, робототехника и небольшие учебные соревнования.",
+        "extras": "Цена не опубликована.",
+        "deposit": "Проверить итоговую сумму и условия возврата перед оплатой."
+      },
+      "accommodation": "Дневной лагерь без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст подходит. Уточнить место и язык занятия."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Пока младше минимального возраста."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Точный возрастной допуск и наличие места уточнить у площадки."
+      ],
+      "sources": [
+        {
+          "url": "https://cocobots.org/code-avengers/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://cocobots.org/events/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "regular_course",
+      "catalog_participation": "regular"
+    },
+    {
+      "id": "CP1853",
+      "slug": "cook-islands-kuki-code-avengers-holidays",
+      "provider": "Cocobots · Kuki Code Avengers Holiday Program",
+      "country": "Острова Кука",
+      "iso": "COK",
+      "place": "CEIT Robotics & Computer Lab · USP Takamoa · Rarotonga",
+      "age": "В 2025 в первой смене 8–10 лет, в других 8–12 лет.",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "games"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык инструктажа конкретной смены не указан. Уточнить английский и испанский.",
+      "confirmed_instruction_languages": [],
+      "programme": "Программирование, цифровая грамотность, робототехника и небольшие учебные соревнования.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Даты следующего набора не опубликованы.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "season_window"
+      },
+      "price": {
+        "year": null,
+        "currency": "",
+        "amount": null,
+        "unit": "session",
+        "label": "Цена текущего набора не подтверждена.",
+        "included": "Программирование, цифровая грамотность, робототехника и небольшие учебные соревнования.",
+        "extras": "Цена не опубликована.",
+        "deposit": "Проверить итоговую сумму и условия возврата перед оплатой."
+      },
+      "accommodation": "Дневной лагерь без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст подходит. Уточнить место и язык занятия."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Пока младше минимального возраста."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Точный возрастной допуск и наличие места уточнить у площадки."
+      ],
+      "sources": [
+        {
+          "url": "https://cocobots.org/events/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://cocobots.org/code-avengers/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://cocobots.org/gallery/ca-school-holiday-program/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp"
+    },
+    {
+      "id": "CP1854",
+      "slug": "bermuda-bzs-science-club",
+      "provider": "Bermuda Zoological Society · Science Club",
+      "country": "Бермудские острова",
+      "iso": "BMU",
+      "place": "Bermuda",
+      "age": "11–14 лет.",
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык инструктажа конкретной смены не указан. Уточнить английский и испанский.",
+      "confirmed_instruction_languages": [],
+      "programme": "Субботний научный клуб с практическими исследованиями. Осенний набор заполнен, условия зимы проверять в декабре.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Даты следующего набора не опубликованы.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "season_window"
+      },
+      "price": {
+        "year": null,
+        "currency": "",
+        "amount": null,
+        "unit": "session",
+        "label": "Цена текущего набора не подтверждена.",
+        "included": "Субботний научный клуб с практическими исследованиями. Осенний набор заполнен, условия зимы проверять в декабре.",
+        "extras": "Цена не опубликована.",
+        "deposit": "Проверить итоговую сумму и условия возврата перед оплатой."
+      },
+      "accommodation": "Дневной лагерь без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Будущая возрастная ступень."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Будущая возрастная ступень."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Точный возрастной допуск и наличие места уточнить у площадки."
+      ],
+      "sources": [
+        {
+          "url": "https://bzs.bm/education/science-club/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "regular_course",
+      "catalog_participation": "regular"
     }
   ],
   "gaps": [
@@ -277710,7 +278564,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 236,
+  "version": 237,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -290945,7 +291799,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1842,
+      "total_dossiers": 1854,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,

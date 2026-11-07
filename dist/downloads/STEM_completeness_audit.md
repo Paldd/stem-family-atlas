@@ -6,24 +6,24 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 8340; соревнований: 3372; событий: 428; лагерей / программ: 4540. Профилей лиг и программ: 278. Карточек крупных и профильных выставок: 338 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 8384; соревнований: 3393; событий: 438; лагерей / программ: 4553. Профилей лиг и программ: 280. Карточек крупных и профильных выставок: 348 — это издания и площадки, не число уникальных брендов.
 
-Конкретные записи есть для 171 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
+Конкретные записи есть для 178 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
 ## Охват по континентам
 
 | Континент | Страны / территории с записями | Соревнования | Крупные выставки | Лагеря / программы |
 |---|---:|---:|---:|---:|
-| Северная Америка | 33 | 1489 | 74 | 1165 |
+| Северная Америка | 35 | 1491 | 75 | 1172 |
 | Южная Америка | 12 | 237 | 30 | 197 |
 | Европа | 42 | 440 | 87 | 1372 |
 | Африка | 34 | 135 | 25 | 71 |
-| Азия | 44 | 826 | 96 | 1554 |
-| Океания | 6 | 129 | 24 | 168 |
+| Азия | 46 | 842 | 105 | 1557 |
+| Океания | 9 | 132 | 24 | 171 |
 
 Межрегиональные / глобальные карточки, не приписанные одному континенту: 136. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
 
-VEX: 521 из 3372 карточек соревнований (15.5%). Это явный перекос охвата.
+VEX: 521 из 3393 карточек соревнований (15.4%). Это явный перекос охвата.
 
 ## Что осталось
 
@@ -134,7 +134,7 @@ VEX: 521 из 3372 карточек соревнований (15.5%). Это я�
 - **IOAI · Олимпиада по ИИ**: 0 карточек, 0 с будущими точными датами. Только профиль; календарь этапов не добавлен. https://ioai-official.org/wp-content/uploads/2025/08/IOAI-regulations.pdf
 - **IOI · Олимпиада по информатике**: 0 карточек, 0 с будущими точными датами. Только профиль; календарь этапов не добавлен. https://ioinformatics.org/files/regulations24-web.pdf
 - **Regeneron ISEF**: 0 карточек, 0 с будущими точными датами. Только профиль; календарь этапов не добавлен. https://www.societyforscience.org/isef/international-rules/rules-for-all-projects/
-- **FIRST Global Challenge**: 8 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://first.global/fgc/
+- **FIRST Global Challenge**: 13 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://first.global/fgc/
 - **FIRA RoboWorld Cup / Youth**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://firaworldcup.org/news/fira-roboworld-cup-and-summit-2026-call-for-paper/
 - **Universal Robotics Challenge (URC)**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.urc21.org/en/overview.php
 - **World Robot Contest (CIE)**: 109 карточек, 96 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.worldrobotconference.com/contest/regulations/2632.html
@@ -304,6 +304,8 @@ VEX: 521 из 3372 карточек соревнований (15.5%). Это я�
 - **ENJOY AI Caribbean · Curaçao**: 7 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://enjoyaicaribbean.com/
 - **OECS Super Regional Robotics**: 2 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.steamtournament.com/public-registration?tournament=126b27b2-cf70-443b-b54e-1233b10aaa9d
 - **iCode784 · NTRC Saint Vincent and the Grenadines**: 7 карточек, 7 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.ntrc.vc/general/ntrcs-i-code784-competition/
+- **CIPTA · Brunei and ASEAN Invention Awards**: 5 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://cipta.utb.edu.bn/
+- **APICTA · Asia Pacific ICT Alliance Awards**: 7 карточек, 3 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.apicta.id/faq/
 - **The Tech Challenge · инженерная программа и showcase**: 0 карточек, 0 с будущими точными датами. Учебная / посещаемая программа; конкурсных этапов нет. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · локальные дисциплины**: 10 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · младшая демонстрация и Mini Sumo**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -684,6 +686,16 @@ VEX: 521 из 3372 карточек соревнований (15.5%). Это я�
 - **St. Maarten Science Week 2027 · Awards** — Синт-Мартен (нидерландская часть); 2027-03-20. Детский допуск уточнить. https://www.smn-news.com/index.php/st-maarten-st-martin-news/52190-st-maarten-science-fair-foundation-announces-interest-from-10-schools-for-2027-honors-2026-sponsors.html
 - **Informática Habana 2026 · Feria Expositiva** — Куба; 2026-03-24 – 2026-03-27. Детский допуск уточнить. https://www.informaticahabana.cu/
 - **Informática Habana · próxima feria** — Куба; дата неизвестна. Детский допуск уточнить. https://www.informaticahabana.cu/
+- **Seria Energy Lab · Smart Science & Makerspace** — Бруней-Даруссалам; дата неизвестна. Со взрослым; условия взрослого входа отдельно. https://seriaenergylab.com/plan-a-visit/
+- **APICTA 2026 · Beyond InnovAsia Exhibition** — Индонезия; 2026-12-08 – 2026-12-09. Детский допуск уточнить. https://www.apicta.id/program/
+- **APICTA Awards 2026 · Award Ceremony** — Индонезия; 2026-12-11. Детский допуск уточнить. https://www.apicta.id/faq/
+- **Digital Future Conference and Exhibition · DFCE 2026** — Бруней-Даруссалам; 2026-08-04 – 2026-08-06. Детский допуск уточнить. https://aiti.gov.bn/digitalfutureconfex/
+- **Digital Future Conference and Exhibition · DFCE · next edition** — Бруней-Даруссалам; дата неизвестна. Детский допуск уточнить. https://aiti.gov.bn/digitalfutureconfex/
+- **British Virgin Islands · Summer Robotics Camp Showcase** — Британские Виргинские острова; дата неизвестна. Детский допуск уточнить. https://www.gov.vg/news/vi-team-compete-first-global-robotics-competition-panama
+- **Bhutan Space Week 2026 · STEM & Space Technology** — Бутан; 2026-02-17 – 2026-02-23. Детский допуск уточнить. https://tech.gov.bt/dots-program-new/
+- **Bhutan Space Week · next edition** — Бутан; дата неизвестна. Детский допуск уточнить. https://tech.gov.bt/dots-program-new/
+- **Sarawak Science Centre · SSCiEX** — Малайзия; дата неизвестна. Со взрослым; условия взрослого входа отдельно. https://ssciex.org.my/home/faq/
+- **CySec Brunei 2026 · Resilient by Design** — Бруней-Даруссалам; 2026-09-15 – 2026-09-16. Детский допуск уточнить. https://cysec.bcsa.bn/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors

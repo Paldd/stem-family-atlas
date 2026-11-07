@@ -16,14 +16,14 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 8340,
-    "competition_cards": 3372,
-    "event_cards": 428,
-    "camp_cards": 4540,
-    "league_profiles": 278,
-    "major_exhibition_cards": 338,
+    "cards": 8384,
+    "competition_cards": 3393,
+    "event_cards": 438,
+    "camp_cards": 4553,
+    "league_profiles": 280,
+    "major_exhibition_cards": 348,
     "vex_cards": 521,
-    "countries_with_records": 171,
+    "countries_with_records": 178,
     "fully_audited_countries": 0
   },
   "continents": [
@@ -34,12 +34,12 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 2765,
-      "countries_with_records": 33,
-      "competitions": 1489,
-      "events": 111,
-      "major_exhibitions": 74,
-      "camps": 1165,
+      "total": 2775,
+      "countries_with_records": 35,
+      "competitions": 1491,
+      "events": 112,
+      "major_exhibitions": 75,
+      "camps": 1172,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
     },
@@ -90,12 +90,12 @@
       "regions": [
         "Азия"
       ],
-      "total": 2488,
-      "countries_with_records": 44,
-      "competitions": 826,
-      "events": 108,
-      "major_exhibitions": 96,
-      "camps": 1554,
+      "total": 2516,
+      "countries_with_records": 46,
+      "competitions": 842,
+      "events": 117,
+      "major_exhibitions": 105,
+      "camps": 1557,
       "status": "Частично исследовано",
       "remaining": "Добавлены India camp candidates и первые Pakistan / Bangladesh / Sri Lanka маршруты. Не все national qualifiers, языки и иностранный приём закрыты; другие страны Азии исследованы частично."
     },
@@ -104,12 +104,12 @@
       "regions": [
         "Океания"
       ],
-      "total": 325,
-      "countries_with_records": 6,
-      "competitions": 129,
+      "total": 331,
+      "countries_with_records": 9,
+      "competitions": 132,
       "events": 28,
       "major_exhibitions": 24,
-      "camps": 168,
+      "camps": 171,
       "status": "Частично исследовано",
       "remaining": "Добавлены Fiji tourist camp, NZ реальные учебные дни, Australian national game/video contests и закрытый школьный архив French Polynesia. Остаются языки / foreign admission лагерей, динамический RCJA calendar, другие острова и локальные турниры."
     }
@@ -2727,11 +2727,16 @@
         "C3302",
         "C3355",
         "C3368",
-        "C3372"
+        "C3372",
+        "C3389",
+        "C3390",
+        "C3391",
+        "C3392",
+        "C3393"
       ],
-      "cards": 8,
+      "cards": 13,
       "future_dated": 1,
-      "linked_card_count": 9,
+      "linked_card_count": 14,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://first.global/fgc/",
       "new": false
@@ -6340,6 +6345,44 @@
       "linked_card_count": 8,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.ntrc.vc/general/ntrcs-i-code784-competition/",
+      "new": false
+    },
+    {
+      "id": "cipta-brunei-asean",
+      "name": "CIPTA · Brunei and ASEAN Invention Awards",
+      "group": "regional",
+      "event_ids": [
+        "C3374",
+        "C3375",
+        "C3376",
+        "C3377",
+        "C3378"
+      ],
+      "cards": 5,
+      "future_dated": 0,
+      "linked_card_count": 5,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://cipta.utb.edu.bn/",
+      "new": false
+    },
+    {
+      "id": "apicta-asia-pacific-ict",
+      "name": "APICTA · Asia Pacific ICT Alliance Awards",
+      "group": "regional",
+      "event_ids": [
+        "C3382",
+        "C3383",
+        "C3384",
+        "C3385",
+        "C3386",
+        "C3387",
+        "C3388"
+      ],
+      "cards": 7,
+      "future_dated": 3,
+      "linked_card_count": 9,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.apicta.id/faq/",
       "new": false
     },
     {
@@ -11049,6 +11092,116 @@
       "new": false
     },
     {
+      "id": "E429",
+      "name": "Seria Energy Lab · Smart Science & Makerspace",
+      "country": "Бруней-Даруссалам",
+      "region": "Азия",
+      "start": "",
+      "end": "",
+      "visitor_policy": "family",
+      "source": "https://seriaenergylab.com/plan-a-visit/",
+      "new": false
+    },
+    {
+      "id": "E430",
+      "name": "APICTA 2026 · Beyond InnovAsia Exhibition",
+      "country": "Индонезия",
+      "region": "Азия",
+      "start": "2026-12-08",
+      "end": "2026-12-09",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.apicta.id/program/",
+      "new": false
+    },
+    {
+      "id": "E431",
+      "name": "APICTA Awards 2026 · Award Ceremony",
+      "country": "Индонезия",
+      "region": "Азия",
+      "start": "2026-12-11",
+      "end": "2026-12-11",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.apicta.id/faq/",
+      "new": false
+    },
+    {
+      "id": "E432",
+      "name": "Digital Future Conference and Exhibition · DFCE 2026",
+      "country": "Бруней-Даруссалам",
+      "region": "Азия",
+      "start": "2026-08-04",
+      "end": "2026-08-06",
+      "visitor_policy": "confirm_children",
+      "source": "https://aiti.gov.bn/digitalfutureconfex/",
+      "new": false
+    },
+    {
+      "id": "E433",
+      "name": "Digital Future Conference and Exhibition · DFCE · next edition",
+      "country": "Бруней-Даруссалам",
+      "region": "Азия",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://aiti.gov.bn/digitalfutureconfex/",
+      "new": false
+    },
+    {
+      "id": "E434",
+      "name": "British Virgin Islands · Summer Robotics Camp Showcase",
+      "country": "Британские Виргинские острова",
+      "region": "Карибский регион",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.gov.vg/news/vi-team-compete-first-global-robotics-competition-panama",
+      "new": false
+    },
+    {
+      "id": "E435",
+      "name": "Bhutan Space Week 2026 · STEM & Space Technology",
+      "country": "Бутан",
+      "region": "Азия",
+      "start": "2026-02-17",
+      "end": "2026-02-23",
+      "visitor_policy": "confirm_children",
+      "source": "https://tech.gov.bt/dots-program-new/",
+      "new": false
+    },
+    {
+      "id": "E436",
+      "name": "Bhutan Space Week · next edition",
+      "country": "Бутан",
+      "region": "Азия",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://tech.gov.bt/dots-program-new/",
+      "new": false
+    },
+    {
+      "id": "E437",
+      "name": "Sarawak Science Centre · SSCiEX",
+      "country": "Малайзия",
+      "region": "Азия",
+      "start": "",
+      "end": "",
+      "visitor_policy": "family",
+      "source": "https://ssciex.org.my/home/faq/",
+      "new": false
+    },
+    {
+      "id": "E438",
+      "name": "CySec Brunei 2026 · Resilient by Design",
+      "country": "Бруней-Даруссалам",
+      "region": "Азия",
+      "start": "2026-09-15",
+      "end": "2026-09-16",
+      "visitor_policy": "confirm_children",
+      "source": "https://cysec.bcsa.bn/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -13466,9 +13619,9 @@
       }
     ],
     "counts": {
-      "records": 4540,
-      "holiday": 4256,
-      "regular": 127,
+      "records": 4553,
+      "holiday": 4262,
+      "regular": 133,
       "self_paced_materials": 2,
       "boarding": 1036,
       "en_es_instruction": 1428,
@@ -13479,7 +13632,7 @@
       "language_lessons": 410,
       "camp_life_language": 228,
       "language_unclassified": 137,
-      "countries": 111
+      "countries": 116
     },
     "validation": {
       "version": 51,

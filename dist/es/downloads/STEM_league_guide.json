@@ -6288,7 +6288,12 @@
           "C3302",
           "C3355",
           "C3368",
-          "C3372"
+          "C3372",
+          "C3389",
+          "C3390",
+          "C3391",
+          "C3392",
+          "C3393"
         ],
         "legacy_ids": [],
         "route": "equipo escolar → socio nacional → selección de equipo → FIRST Global.",
@@ -21086,6 +21091,201 @@
         "evidence": "Reglamento de NTRC y avisos actuales del organizador."
       },
       {
+        "id": "cipta-brunei-asean",
+        "name": "CIPTA · Brunei and ASEAN Invention Awards",
+        "group": "regional",
+        "age_summary": "Smart Junior empieza en Year 7. Las demás categorías tienen sus propias reglas de edad y residencia.",
+        "age_tags": [
+          "teen"
+        ],
+        "summary": "Solicitudes y resúmenes hasta el 25 de enero de 2027. Sesión informativa el 3 de abril. Informe completo hasta el 3 de mayo. Final presencial y premios en mayo–junio, días exactos por confirmar.",
+        "categories": [
+          {
+            "name": "Smart Junior",
+            "age": "Year 7–9 al 25 de enero de 2027. Residentes con ID, nominación escolar y docente. El equipo requiere al menos una tarjeta amarilla o morada.",
+            "age_rule": "Year 7–9 al 25 de enero de 2027. Residentes con ID, nominación escolar y docente. El equipo requiere al menos una tarjeta amarilla o morada.",
+            "team": "Idea original. Una persona o equipo de hasta 3 integrantes. Residentes de Brunéi con tarjeta de identidad vigente.",
+            "hardware": "Idea sin prototipo obligatorio. Seleccionados preparan póster A1, informe y presentación.",
+            "entry": "Idea original. Una persona o equipo de hasta 3 integrantes. Residentes de Brunéi con tarjeta de identidad vigente."
+          },
+          {
+            "name": "Local Young Inventor",
+            "age": "Centro escolar de Brunéi, Year 10–13 al 25 de enero de 2027.",
+            "age_rule": "Centro escolar de Brunéi, Year 10–13 al 25 de enero de 2027.",
+            "team": "Idea original. Una persona o equipo de hasta 3 integrantes. Residentes de Brunéi con tarjeta de identidad vigente. Se requiere aval escolar y docente mentor.",
+            "hardware": "Producto de hardware o combinación de hardware y software.",
+            "entry": "Idea original. Una persona o equipo de hasta 3 integrantes. Residentes de Brunéi con tarjeta de identidad vigente. Se requiere aval escolar y docente mentor."
+          },
+          {
+            "name": "Local New Invention & Innovation",
+            "age": "Admisión sujeta a residencia local y reglas de la categoría.",
+            "age_rule": "Admisión sujeta a residencia local y reglas de la categoría.",
+            "team": "Idea original. Una persona o equipo de hasta 3 integrantes. Residentes de Brunéi con tarjeta de identidad vigente.",
+            "hardware": "Producto de hardware o combinación de hardware y software.",
+            "entry": "Idea original. Una persona o equipo de hasta 3 integrantes. Residentes de Brunéi con tarjeta de identidad vigente."
+          },
+          {
+            "name": "ASEAN Young Inventor",
+            "age": "Escolares de 15–18 años al 25 de enero de 2027.",
+            "age_rule": "Escolares de 15–18 años al 25 de enero de 2027.",
+            "team": "Residentes de países de ASEAN distintos de Brunéi. Una persona o equipo de hasta 3 integrantes. Proyecto mediante solicitud a UTB. Se requiere aval escolar y docente mentor.",
+            "hardware": "Producto de hardware o combinación de hardware y software.",
+            "entry": "Residentes de países de ASEAN distintos de Brunéi. Una persona o equipo de hasta 3 integrantes. Proyecto mediante solicitud a UTB. Se requiere aval escolar y docente mentor."
+          },
+          {
+            "name": "ASEAN New Invention & Innovation",
+            "age": "Admisión sujeta a residencia local y reglas de la categoría.",
+            "age_rule": "Admisión sujeta a residencia local y reglas de la categoría.",
+            "team": "Residentes de países de ASEAN distintos de Brunéi. Una persona o equipo de hasta 3 integrantes. Proyecto mediante solicitud a UTB.",
+            "hardware": "Producto de hardware o combinación de hardware y software.",
+            "entry": "Residentes de países de ASEAN distintos de Brunéi. Una persona o equipo de hasta 3 integrantes. Proyecto mediante solicitud a UTB."
+          }
+        ],
+        "event_ids": [
+          "C3374",
+          "C3375",
+          "C3376",
+          "C3377",
+          "C3378"
+        ],
+        "legacy_ids": [],
+        "route": "Solicitudes y resúmenes hasta el 25 de enero de 2027. Sesión informativa el 3 de abril. Informe completo hasta el 3 de mayo. Final presencial y premios en mayo–junio, días exactos por confirmar.",
+        "hardware": "Producto de hardware o combinación de hardware y software.",
+        "language": "Descripción del proyecto en malayo o inglés. Confirmar idioma de defensa oral.",
+        "importance": "Etapa regional",
+        "strengths": [
+          "Hay premios en metálico y distinciones separadas por puntuación del jurado. El certificado de participación se entrega por separado."
+        ],
+        "requirements": [
+          "Year 7–9 al 25 de enero de 2027. Residentes con ID, nominación escolar y docente. El equipo requiere al menos una tarjeta amarilla o morada.",
+          "Idea original. Una persona o equipo de hasta 3 integrantes. Residentes de Brunéi con tarjeta de identidad vigente.",
+          "Residentes de países de ASEAN distintos de Brunéi. Una persona o equipo de hasta 3 integrantes. Proyecto mediante solicitud a UTB."
+        ],
+        "nuances": [
+          "La cuota no es reembolsable según UTB."
+        ],
+        "cost": "BND 20 / BND 40 / BND 80 / USD 100 / USD 200",
+        "award": "Hay premios en metálico y distinciones separadas por puntuación del jurado. El certificado de participación se entrega por separado.",
+        "sources": [
+          {
+            "url": "https://cipta.utb.edu.bn/",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://cipta.utb.edu.bn/smart-junior-competition.html",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://cipta.utb.edu.bn/Local-Categories.html",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://cipta.utb.edu.bn/ASEAN-Categories.html",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          }
+        ],
+        "evidence": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado."
+      },
+      {
+        "id": "apicta-asia-pacific-ict",
+        "name": "APICTA · Asia Pacific ICT Alliance Awards",
+        "group": "regional",
+        "age_summary": "Primaria y secundaria inicial SD / SMP según la selección de Indonesia.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "El concurso abarca 14 economías según la FAQ. Brunéi nomina proyectos mediante BICTA. Curso, representación local y equipo dependen del coordinador.",
+        "categories": [
+          {
+            "name": "Junior Student Project",
+            "age": "Primaria y secundaria inicial SD / SMP según la selección de Indonesia.",
+            "age_rule": "Primaria y secundaria inicial SD / SMP según la selección de Indonesia.",
+            "team": "Nominación a través del coordinador de su economía APICTA. En la final participan delegaciones seleccionadas. El procedimiento publicado no ofrece inscripción familiar independiente.",
+            "hardware": "ICT",
+            "entry": "Nominación a través del coordinador de su economía APICTA. En la final participan delegaciones seleccionadas. El procedimiento publicado no ofrece inscripción familiar independiente."
+          },
+          {
+            "name": "Senior Student Project",
+            "age": "Secundaria superior SMA / SMK o equivalente según la selección de Indonesia.",
+            "age_rule": "Secundaria superior SMA / SMK o equivalente según la selección de Indonesia.",
+            "team": "Nominación a través del coordinador de su economía APICTA. En la final participan delegaciones seleccionadas. El procedimiento publicado no ofrece inscripción familiar independiente.",
+            "hardware": "ICT",
+            "entry": "Nominación a través del coordinador de su economía APICTA. En la final participan delegaciones seleccionadas. El procedimiento publicado no ofrece inscripción familiar independiente."
+          },
+          {
+            "name": "Tertiary Student Project",
+            "age": "Estudiantes universitarios según la selección de Indonesia.",
+            "age_rule": "Estudiantes universitarios según la selección de Indonesia.",
+            "team": "Nominación a través del coordinador de su economía APICTA. En la final participan delegaciones seleccionadas. El procedimiento publicado no ofrece inscripción familiar independiente.",
+            "hardware": "ICT",
+            "entry": "Nominación a través del coordinador de su economía APICTA. En la final participan delegaciones seleccionadas. El procedimiento publicado no ofrece inscripción familiar independiente."
+          }
+        ],
+        "event_ids": [
+          "C3386",
+          "C3387",
+          "C3388",
+          "C3382",
+          "C3383",
+          "C3384",
+          "C3385",
+          "E430",
+          "E431"
+        ],
+        "legacy_ids": [],
+        "route": "Nominación a través del coordinador de su economía APICTA. En la final participan delegaciones seleccionadas. El procedimiento publicado no ofrece inscripción familiar independiente.",
+        "hardware": "ICT",
+        "language": "Confirmar el idioma del grupo o sede concretos.",
+        "importance": "Competición regional de equipos nacionales.",
+        "strengths": [
+          "Proyecto TIC y defensa. Los ganadores nacionales pueden representar a Brunéi en APICTA mediante selección."
+        ],
+        "requirements": [
+          "Nominación a través del coordinador de su economía APICTA. En la final participan delegaciones seleccionadas. El procedimiento publicado no ofrece inscripción familiar independiente."
+        ],
+        "nuances": [
+          "La solicitud en Indonesia pasaba por la selección de la delegación. Las fechas difieren entre páginas del organizador y ambos plazos ya pasaron.",
+          "Delegados, conferencia y exposición tienen distintas condiciones de entrada. Entrada familiar y edad de acceso sin publicar."
+        ],
+        "cost": "Precio sin publicar.",
+        "award": "Premio interregional para un proyecto TIC seleccionado.",
+        "sources": [
+          {
+            "url": "https://www.apicta.id/faq/",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://www.apicta.id/program/",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://www.apicta.id/register/",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://www.apicta.id/awards/categories/",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://www.mtic.gov.bn/news-item/brunei-ict-awards-bicta-2026-ceremony/",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          }
+        ],
+        "evidence": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado."
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · programa de ingeniería y showcase",
         "group": "regional",
@@ -26340,7 +26540,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "278 perfiles de ligas, familias y programas. Se conservan los 46 itinerarios previos. Los formatos de Brasil están separados. Robofest LATAM y BajaBot se describen por sus categorías locales. La cobertura mundial es parcial.",
+    "methodology": "280 perfiles de ligas, familias y programas. Se conservan los 46 itinerarios previos. Los formatos de Brasil están separados. Robofest LATAM y BajaBot se describen por sus categorías locales. La cobertura mundial es parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

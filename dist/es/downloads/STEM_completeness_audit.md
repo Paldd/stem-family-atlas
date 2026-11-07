@@ -6,24 +6,24 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 8340; competiciones: 3372; eventos: 428; campamentos / programas: 4540. Perfiles de ligas y programas: 278. Fichas de exposiciones grandes y especializadas: 338 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 8384; competiciones: 3393; eventos: 438; campamentos / programas: 4553. Perfiles de ligas y programas: 280. Fichas de exposiciones grandes y especializadas: 348 — son ediciones y sedes, no cantidad de marcas únicas.
 
-Hay registros concretos para 171 de 249 países y territorios. Países auditados por completo: 0. La revisión histórica v51 añadió 21 fichas y 3 perfiles. Se conservan todas las fichas previas.
+Hay registros concretos para 178 de 249 países y territorios. Países auditados por completo: 0. La revisión histórica v51 añadió 21 fichas y 3 perfiles. Se conservan todas las fichas previas.
 
 ## Cobertura por continentes
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 33 | 1489 | 74 | 1165 |
+| América del Norte | 35 | 1491 | 75 | 1172 |
 | América del Sur | 12 | 237 | 30 | 197 |
 | Europa | 42 | 440 | 87 | 1372 |
 | África | 34 | 135 | 25 | 71 |
-| Asia | 44 | 826 | 96 | 1554 |
-| Oceanía | 6 | 129 | 24 | 168 |
+| Asia | 46 | 842 | 105 | 1557 |
+| Oceanía | 9 | 132 | 24 | 171 |
 
 Fichas interregionales o globales sin continente único: 136. América del Norte incluye Centroamérica y el Caribe. Las cifras reflejan el inventario de la base y la cobertura completa sigue pendiente.
 
-VEX: 521 de 3372 fichas de competiciones (15.5%). La cobertura está desequilibrada.
+VEX: 521 de 3393 fichas de competiciones (15.4%). La cobertura está desequilibrada.
 
 ## Lo que queda
 
@@ -134,7 +134,7 @@ VEX: 521 de 3372 fichas de competiciones (15.5%). La cobertura está desequilibr
 - **IOAI · Olimpiadas de IA**: 0 tarjetas, 0 con fechas exactas futuras. https://ioai-official.org/wp-content/uploads/2025/08/IOAI-regulations.pdf
 - **IOI - Olimpiadas de informática**: 0 tarjetas, 0 con fechas exactas futuras, solo perfil; no se ha añadido un calendario de etapas. https://ioinformatics.org/files/regulations24-web.pdf
 - *Regeneron ISEF**: 0 tarjetas, 0 con fechas exactas futuras. https://www.societyforscience.org/isef/international-rules/rules-for-all-projects/
-- **FIRST Global Challenge**: 8 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://first.global/fgc/
+- **FIRST Global Challenge**: 13 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://first.global/fgc/
 - **FIRA RoboWorld Cup / Youth**: 1 tarjeta, 0 con fechas exactas futuras. https://firaworldcup.org/news/fira-roboworld-cup-and-summit-2026-call-for-paper/
 - *Universal Robotics Challenge (URC)**: 1 tarjeta, 0 con fechas exactas futuras. https://www.urc21.org/en/overview.php
 - **World Robot Contest (CIE)**: 109 fichas, 96 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.worldrobotconference.com/contest/regulations/2632.html
@@ -304,6 +304,8 @@ VEX: 521 de 3372 fichas de competiciones (15.5%). La cobertura está desequilibr
 - **ENJOY AI Caribbean · Curaçao**: 7 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://enjoyaicaribbean.com/
 - **OECS Super Regional Robotics**: 2 fichas, 0 con fechas futuras exactas. Hay perfil y fichas. Cobertura local parcial. https://www.steamtournament.com/public-registration?tournament=126b27b2-cf70-443b-b54e-1233b10aaa9d
 - **iCode784 · NTRC Saint Vincent and the Grenadines**: 7 fichas, 7 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.ntrc.vc/general/ntrcs-i-code784-competition/
+- **CIPTA · Brunei and ASEAN Invention Awards**: 5 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://cipta.utb.edu.bn/
+- **APICTA · Asia Pacific ICT Alliance Awards**: 7 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.apicta.id/faq/
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 10 tarjetas, 0 con fechas exactas futuras. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -684,6 +686,16 @@ VEX: 521 de 3372 fichas de competiciones (15.5%). La cobertura está desequilibr
 - **St. Maarten Science Week 2027 · Awards** — Sint Maarten; 2027-03-20. el permiso de entrada de niños. https://www.smn-news.com/index.php/st-maarten-st-martin-news/52190-st-maarten-science-fair-foundation-announces-interest-from-10-schools-for-2027-honors-2026-sponsors.html
 - **Informática Habana 2026 · Feria Expositiva** — Cuba; 2026-03-24 – 2026-03-27. el permiso de entrada de niños. https://www.informaticahabana.cu/
 - **Informática Habana · próxima feria** — Cuba; fecha desconocida. Confirmar acceso infantil. https://www.informaticahabana.cu/
+- **Seria Energy Lab · Smart Science & Makerspace** — Brunéi. Fecha sin indicar. Con un adulto. Condiciones de admisión adulta por separado. https://seriaenergylab.com/plan-a-visit/
+- **APICTA 2026 · Beyond InnovAsia Exhibition** — Indonesia; 2026-12-08 – 2026-12-09. el permiso de entrada de niños. https://www.apicta.id/program/
+- **APICTA Awards 2026 · Award Ceremony** — Indonesia; 2026-12-11. el permiso de entrada de niños. https://www.apicta.id/faq/
+- **Digital Future Conference and Exhibition · DFCE 2026** — Brunéi; 2026-08-04 – 2026-08-06. el permiso de entrada de niños. https://aiti.gov.bn/digitalfutureconfex/
+- **Digital Future Conference and Exhibition · DFCE · next edition** — Brunéi; fecha desconocida. Confirmar acceso infantil. https://aiti.gov.bn/digitalfutureconfex/
+- **British Virgin Islands · Summer Robotics Camp Showcase** — Islas Vírgenes Británicas; fecha desconocida. Confirmar acceso infantil. https://www.gov.vg/news/vi-team-compete-first-global-robotics-competition-panama
+- **Bhutan Space Week 2026 · STEM & Space Technology** — Bután; 2026-02-17 – 2026-02-23. el permiso de entrada de niños. https://tech.gov.bt/dots-program-new/
+- **Bhutan Space Week · next edition** — Bután; fecha desconocida. Confirmar acceso infantil. https://tech.gov.bt/dots-program-new/
+- **Sarawak Science Centre · SSCiEX** — Malasia. Fecha sin indicar. Con un adulto. Condiciones de admisión adulta por separado. https://ssciex.org.my/home/faq/
+- **CySec Brunei 2026 · Resilient by Design** — Brunéi; 2026-09-15 – 2026-09-16. el permiso de entrada de niños. https://cysec.bcsa.bn/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

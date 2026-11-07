@@ -9558,6 +9558,214 @@ Limitaciones: El club Team X se prepara para FIRST LEGO League. El proveedor cit
 Fuente: https://innovate.wepala.com/competition
 Se ha comprobado: 2026-11-07
 
+### L674 · StudySmartable · Robotics & Innovation
+
+lugar: Brunéi · G9–10 Annajat Complex · Mata-Mata · Gadong
+Fecha: El centro publica reglas de admisión. Confirmar horario del grupo y duración.
+edad: Admisión desde 6 años según las reglas. La portada indica rango general de 4–16. El centro asigna el grupo.
+Matvey: Condicional. La edad encaja según las reglas. Confirmar grupo y acceso para visitantes.
+Oscar: Condicional. La edad encaja según las reglas. Confirmar grupo y acceso para visitantes.
+Formato: regular
+Idioma: Para participar hay que entender inglés. Confirmar el idioma de enseñanza del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La tarifa mensual incluye clases y materiales básicos. Inscripción aparte. Puede haber gastos de equipos y torneos. Confirmar importes.
+Acceso: Confirmar edad, horario, idioma y acceso de visitantes para el grupo concreto.
+Limitaciones: Clases regulares de robótica, programación, electrónica y proyectos de ingeniería. IA e IoT en los niveles avanzados.
+Fuente: https://studysmartable.com/admission/
+Se ha comprobado: 2026-11-07
+
+### L675 · SEL Young Innovators · SELYI
+
+lugar: Brunéi · Seria Energy Lab · Jalan Tengah · Seria
+Fecha: Fechas de la próxima convocatoria sin publicar.
+edad: Year 9–10 en el ciclo escolar de 2025.
+Matvey: Etapa para más adelante.
+Oscar: Etapa para más adelante.
+Formato: regular
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Tarifa de la convocatoria actual sin confirmar.
+Acceso: Confirmar edad, horario, idioma y acceso de visitantes para el grupo concreto.
+Limitaciones: Preparación escolar de programación, ingeniería e impresión 3D. El ciclo de 2025 culminó en el ROBIN nacional.
+Fuente: https://seriaenergylab.com/news/sel-young-innovators-selyi-empowering-bruneis-future-innovators/
+Se ha comprobado: 2026-11-07
+
+### L676 · BICTA Plus Bootcamp · Primary
+
+lugar: Brunéi · iCentre / Pusat Tingkatan Enam · Brunei
+Fecha: En 2026 las actividades fueron los sábados de mayo–junio. Nuevo calendario sin anunciar.
+edad: Categoría de primaria Year 4–6 según BICTA.
+Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión.
+Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión.
+Formato: holiday_workshop
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Gratis según BICTA Plus.
+Acceso: Confirmar edad, horario, idioma y acceso de visitantes para el grupo concreto.
+Limitaciones: Preparación gratuita de proyectos TIC mediante talleres. Las reglas requieren ciudadanía o residencia permanente de Brunéi.
+Fuente: https://www.bicta.gov.bn/bicta-plus/
+Se ha comprobado: 2026-11-07
+
+### L677 · TOYA Holiday Edition · Secret Agent Kindness Mission
+
+lugar: Bermudas · Western Zone / Old Prospect Primary / Eastern Zone · Bermuda
+Fecha: Se anuncian 11 días del 17 al 31 de diciembre de 2026 y el 4 de enero de 2027. Confirmar lista de días y horarios por sede.
+edad: Alumnado de Primary 1–5. Confirmar equivalencia de curso para menores de otro sistema escolar.
+Matvey: Confirmar curso escolar, idioma del grupo, acceso para visitantes y plazas.
+Oscar: Confirmar curso escolar, idioma del grupo, acceso para visitantes y plazas.
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 140 por menor o 4 vales públicos. La web indica la cifra con signo $. Misma tarifa si la asistencia es parcial.
+Acceso: Confirmar curso escolar, idioma del grupo, acceso para visitantes y plazas.
+Limitaciones: Programa diurno de invierno Secret Agent Kindness Mission. Retos STEM, acertijos, juegos y actividades generales de vacaciones.
+Fuente: https://www.ospbermuda.bm/
+Se ha comprobado: 2026-11-07
+
+### L678 · TOYA Holiday Edition · apertura de inscripción Primary 1–5
+
+lugar: Bermudas · Western Zone / Old Prospect Primary / Eastern Zone · Bermuda
+Fecha: 2026-11-23 国 2026-11-23
+edad: Alumnado de Primary 1–5. Confirmar equivalencia de curso para menores de otro sistema escolar.
+Matvey: Confirmar curso escolar, idioma del grupo, acceso para visitantes y plazas.
+Oscar: Confirmar curso escolar, idioma del grupo, acceso para visitantes y plazas.
+formato: programme_milestone
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 140 por menor o 4 vales públicos. La web indica la cifra con signo $. Misma tarifa si la asistencia es parcial.
+Acceso: Confirmar curso escolar, idioma del grupo, acceso para visitantes y plazas.
+Limitaciones: Se anuncian 11 días del 17 al 31 de diciembre de 2026 y el 4 de enero de 2027. Confirmar lista de días y horarios por sede.
+Fuente: https://www.ospbermuda.bm/
+Se ha comprobado: 2026-11-07
+
+### L679 · Connectech · After-school Tech
+
+lugar: Bermudas · Hamilton · Bermuda
+Fecha: Fechas de la próxima convocatoria sin publicar.
+edad: Desde 7 años.
+Matvey: Edad adecuada. Confirmar plaza e idioma de la actividad.
+Oscar: Por ahora no alcanza la edad mínima.
+Formato: regular
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Tarifa de la convocatoria actual sin confirmar.
+Acceso: Confirmar edad, horario, idioma y acceso de visitantes para el grupo concreto.
+Limitaciones: Programación, animación, juegos y robótica después de clase. El organizador indica que no hay grupos disponibles ahora.
+Fuente: https://www.connectech.bm/
+Se ha comprobado: 2026-11-07
+
+### L680 · Connectech · CubeSat Robotics Camp
+
+lugar: Bermudas · Bermuda
+Fecha: Fechas de la próxima convocatoria sin publicar.
+edad: Confirmar la edad en las reglas de la sesión concreta.
+Matvey: Confirmar la edad en las reglas de la sesión concreta.
+Oscar: Confirmar la edad en las reglas de la sesión concreta.
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Tarifa de la convocatoria actual sin confirmar.
+Acceso: Confirmar edad, horario, idioma y acceso de visitantes para el grupo concreto.
+Limitaciones: Campamento semanal con prototipo CubeSat, sensores, impresión 3D y análisis de datos. El organizador describe el programa de Pascua.
+Fuente: https://www.connectech.bm/robotics-club-cubesat/
+Se ha comprobado: 2026-11-07
+
+### L681 · BVI Summer Robotics Camp
+
+lugar: Islas Vírgenes Británicas · British Virgin Islands
+Fecha: Fechas de la próxima convocatoria sin publicar.
+edad: Confirmar la edad en las reglas de la sesión concreta.
+Matvey: Confirmar la edad en las reglas de la sesión concreta.
+Oscar: Confirmar la edad en las reglas de la sesión concreta.
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Tarifa de la convocatoria actual sin confirmar.
+Acceso: Confirmar edad, horario, idioma y acceso de visitantes para el grupo concreto.
+Limitaciones: Preparación pública de verano en robótica. En 2025 se realizó una exposición de proyectos. Nueva edad, fechas y tarifa sin anunciar.
+Fuente: https://www.gov.vg/news/vi-team-compete-first-global-robotics-competition-panama
+Se ha comprobado: 2026-11-07
+
+### L682 · St. Kitts and Nevis · Robo-Mindset Summer Camp
+
+lugar: San Cristóbal y Nieves · Basseterre
+Fecha: Fechas de la próxima convocatoria sin publicar.
+edad: Confirmar la edad en las reglas de la sesión concreta.
+Matvey: Confirmar la edad en las reglas de la sesión concreta.
+Oscar: Confirmar la edad en las reglas de la sesión concreta.
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Tarifa de la convocatoria actual sin confirmar.
+Acceso: Confirmar edad, horario, idioma y acceso de visitantes para el grupo concreto.
+Limitaciones: Campamento de dos semanas de la asociación de robótica. El ministerio confirmó una actividad de emprendimiento el 22 de julio de 2026.
+Fuente: https://education.gov.kn/2026/08/12/republic-bank-empowers-young-innovators-through-entrepreneurship-session-at-robo-mindset-summer-camp/
+Se ha comprobado: 2026-11-07
+
+### L683 · Cocobots · Cook Islands Robotics Club 2027
+
+lugar: Islas Cook · CEIT Robotics & Computer Lab · USP Takamoa · Rarotonga
+Fecha: Solicitud hasta el 28 de febrero de 2027. Actividades de marzo a septiembre, 1–2 veces por semana lectiva, 15:30–17:30. Orientación de marzo por confirmar.
+edad: Confirmar la edad en las reglas de la sesión concreta.
+Matvey: Confirmar la edad en las reglas de la sesión concreta.
+Oscar: Confirmar la edad en las reglas de la sesión concreta.
+Formato: regular
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 150 al año por menor según la página con signo $. Descuento del 50% para hermano adicional. Confirmar moneda y condiciones de factura.
+Acceso: Confirmar idioma de las actividades, acceso de visitantes y disponibilidad.
+Limitaciones: Club para principiantes y participantes con experiencia. Construcción y programación, VEX y REV Robotics, mentores y retos internos.
+Fuente: https://cocobots.org/home/register/
+Se ha comprobado: 2026-11-07
+
+### L684 · Cocobots · Kuki Code Avengers
+
+lugar: Islas Cook · CEIT Robotics & Computer Lab · USP Takamoa · Rarotonga
+Fecha: Fechas de la próxima convocatoria sin publicar.
+edad: 8–13 años según el programa principal. La edad de la sesión vacacional concreta puede variar.
+Matvey: Edad adecuada. Confirmar plaza e idioma de la actividad.
+Oscar: Por ahora no alcanza la edad mínima.
+Formato: regular
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Tarifa de la convocatoria actual sin confirmar.
+Acceso: Confirmar edad, horario, idioma y acceso de visitantes para el grupo concreto.
+Limitaciones: Programación, alfabetización digital, robótica y pequeñas competiciones educativas.
+Fuente: https://cocobots.org/code-avengers/
+Se ha comprobado: 2026-11-07
+
+### L685 · Cocobots · Kuki Code Avengers Holiday Program
+
+lugar: Islas Cook · CEIT Robotics & Computer Lab · USP Takamoa · Rarotonga
+Fecha: Fechas de la próxima convocatoria sin publicar.
+edad: En 2025, 8–10 años en la primera sesión y 8–12 en las otras.
+Matvey: Edad adecuada. Confirmar plaza e idioma de la actividad.
+Oscar: Por ahora no alcanza la edad mínima.
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Tarifa de la convocatoria actual sin confirmar.
+Acceso: Confirmar edad, horario, idioma y acceso de visitantes para el grupo concreto.
+Limitaciones: Programación, alfabetización digital, robótica y pequeñas competiciones educativas.
+Fuente: https://cocobots.org/events/
+Se ha comprobado: 2026-11-07
+
+### L686 · Bermuda Zoological Society · Science Club
+
+lugar: Bermudas · Bermuda
+Fecha: Fechas de la próxima convocatoria sin publicar.
+edad: 11–14 años.
+Matvey: Etapa para más adelante.
+Oscar: Etapa para más adelante.
+Formato: regular
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Tarifa de la convocatoria actual sin confirmar.
+Acceso: Confirmar edad, horario, idioma y acceso de visitantes para el grupo concreto.
+Limitaciones: Club científico de los sábados con investigación práctica. Otoño completo, consultar el invierno en diciembre.
+Fuente: https://bzs.bm/education/science-club/
+Se ha comprobado: 2026-11-07
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
