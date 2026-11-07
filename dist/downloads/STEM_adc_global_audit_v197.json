@@ -1,0 +1,102 @@
+{
+  "version": 197,
+  "checked": "2026-11-06",
+  "status": "partial-world-drone-competition-provider-audit",
+  "provider_list_snapshot_complete": true,
+  "provider_programmes_audited": [
+    "ADC"
+  ],
+  "other_recf_programmes_complete": false,
+  "provider_list_records": 211,
+  "provider_detailed_records": 204,
+  "provider_pre_release_records": 7,
+  "new_event_records": 210,
+  "new_competitions": 202,
+  "new_learning_events": 8,
+  "modified_prior_event_ids": [
+    "C1883",
+    "C031",
+    "C030"
+  ],
+  "changed_date_event_ids": [
+    "C1883"
+  ],
+  "refined_prior_festival_windows": [
+    "C1883"
+  ],
+  "updated_league_profiles": [
+    "drone"
+  ],
+  "new_league_profiles": 0,
+  "new_camp_dossiers": 0,
+  "source_request_scope": "captured-native-GET-attempts-only",
+  "native_source_capture_attempts": 236,
+  "successful_response_hashes_verified": 230,
+  "failed_capture_attempts": 6,
+  "unresolved_native_http_403_sources": 1,
+  "primary_reader_fallbacks": 1,
+  "unresolved_provider_detail_sources": 0,
+  "jrotc_restricted_provider_ids": [
+    63,
+    228,
+    248,
+    257,
+    343,
+    487,
+    565,
+    584,
+    683,
+    765,
+    771,
+    808,
+    1018,
+    1020,
+    1083
+  ],
+  "district_or_local_group_ids": [
+    63,
+    276,
+    804,
+    873
+  ],
+  "source_classification_conflicts": [
+    63,
+    228,
+    496,
+    873,
+    942
+  ],
+  "remote_event_provider_ids": [
+    920
+  ],
+  "learning_provider_ids": [
+    113,
+    276,
+    330,
+    613,
+    778,
+    779,
+    804,
+    814
+  ],
+  "local_team_exception_provider_ids": [
+    245,
+    246,
+    247
+  ],
+  "date_body_conflict_provider_ids": [
+    228
+  ],
+  "possible_duplicate_provider_pairs": [
+    [
+      182,
+      1057
+    ]
+  ],
+  "exact_event_rules_fully_audited": false,
+  "distinct_physical_events_proven": false,
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "all_original_18_requirements_retained": true,
+  "no_messages_forms_enrollment_agreements_or_payments": true
+}

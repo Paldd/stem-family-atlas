@@ -6,24 +6,24 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 6310; competiciones: 2337; eventos: 265; campamentos / programas: 3708. Perfiles de ligas y programas: 252. Fichas de exposiciones grandes y especializadas: 173 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 6520; competiciones: 2539; eventos: 265; campamentos / programas: 3716. Perfiles de ligas y programas: 252. Fichas de exposiciones grandes y especializadas: 173 — son ediciones y sedes, no cantidad de marcas únicas.
 
-Hay registros concretos de 157 de 249 países y territorios; países completamente auditados: 0. Pasada histórica v51: añadidas 21 fichas, 3 perfiles. Conservadas todas las fichas anteriores.
+Hay registros concretos de 158 de 249 países y territorios; países auditados por completo: 0. Revisión histórica v51: se añadieron 21 fichas y 3 perfiles. Todas las fichas anteriores se conservan.
 
 ## Cobertura por continentes
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 23 | 882 | 22 | 1035 |
-| América del Sur | 10 | 163 | 7 | 113 |
-| Europa | 42 | 392 | 55 | 1254 |
-| África | 34 | 112 | 15 | 68 |
-| Asia | 44 | 608 | 71 | 1113 |
-| Oceanía | 4 | 112 | 3 | 114 |
+| América del Norte | 23 | 1075 | 22 | 1043 |
+| América del Sur | 10 | 164 | 7 | 113 |
+| Europa | 42 | 394 | 55 | 1254 |
+| África | 34 | 114 | 15 | 68 |
+| Asia | 44 | 609 | 71 | 1113 |
+| Oceanía | 5 | 114 | 3 | 114 |
 
-Fichas interregionales / globales sin asignar a un continente: 84. América del Norte incluye América Central y el Caribe. Las cantidades reflejan inventario de la base, sin porcentaje de exhaustividad.
+Fichas interregionales / globales sin asignar a un continente: 85. América del Norte incluye América Central y el Caribe. Las cantidades reflejan el inventario de la base, no el porcentaje de cobertura completa.
 
-VEX: 518 de 2337 tarjetas de competiciones (22.2%). Es un desequilibrio evidente de cobertura.
+VEX: 518 de 2539 fichas de competiciones (20.4%). Esto muestra un sesgo claro de cobertura.
 
 ## Lo que queda
 
@@ -99,7 +99,7 @@ VEX: 518 de 2337 tarjetas de competiciones (22.2%). Es un desequilibrio evidente
 - *RoboCupJunior**: 4 tarjetas, 2 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://junior.robocup.org/
 - **MakeX**: 15 fichas, 11 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.makex.cc/en/2026-makex
 - **RECF Robotics**: 259 fichas, 216 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://recf.org/teams/recf-robotics-competition/
-- **RECF Aerial Drone**: 1 tarjeta, 0 con fechas exactas futuras. https://kb.roboticseducation.org/hc/en-us/articles/41294778999063-Aerial-Drone-Competition-Frequently-Asked-Questions-FAQ
+- **RECF Aerial Drone**: 204 fichas, 174 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://recf.org/teams/competition/aerial-drone-competition/
 - **WER**: 3 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.wermexico.com/competencia
 - **RoboMatrix / Infomatrix**: 59 fichas, 28 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://robomatrix.org/
 - **RoboRAVE**: 20 fichas, 18 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.roboraveinternational.org/eventos

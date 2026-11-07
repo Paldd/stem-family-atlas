@@ -2440,6 +2440,19 @@ Limitaciones: Idea de visita, no registro aceptado. Sin formularios enviados, me
 Fuente: https://www.gitexlatam.com/
 Se ha comprobado: 2026-11-05
 
+### C2437 · RECF ADC · Aerial Drone Competition Chile 2026 -
+
+Fecha: 2026-11-04 — 2026-11-04
+edad: ADC Fast Track 2026–2027: 12U / Elementary ≤12, 15U / Middle ≤15, 19U / High ≤19 al 6 de mayo de 2027; High además antes de graduarse de secundaria. Sin edad mínima global; se recomiendan 10–18 años. Verificar por separado grupo escolar local y preparación de menores. Elementary, Escuela media, La escuela secundaria
+Matvey: Condicional: sin edad mínima global, pero programa recomendado desde 10 años. El entrenador debe evaluar autonomía y seguridad; confirmar curso, admisión local de menores y plaza.
+Oscar: Condicional: sin edad mínima global, pero programa recomendado desde 10 años. El entrenador debe evaluar autonomía y seguridad; confirmar curso, admisión local de menores y plaza.
+Idioma: El texto inglés del portal y reglamento no confirma idioma oral de evaluación, entrevistas o enseñanza. Confirmar EN / ES / RU en la sede concreta.
+Acceso: Equipo ADC → comprobar grupo, restricciones locales y admisión extranjera → solicitud de etapa concreta. Inscripción abierta en el portal no equivale a participación familiar confirmada.
+Precio: USD 0.00 · Cuota por equipo para este evento; inscripción ADC de temporada USD 200, equipo y viaje aparte. Evento gratuito no significa temporada ni viaje gratuitos.
+Limitaciones: No se establece plaza clasificatoria de este registro; el nombre de una red internacional no convierte una etapa local en final mundial.
+Fuente: https://recfevents.org/Events/Details/623
+Se ha comprobado: 2026-11-06
+
 ### CP047-20270103-20270108 · Camp Mákemáke · 2027-01-03–2027-01-08
 
 Fecha: 2027-01-03 国 2027-01-08

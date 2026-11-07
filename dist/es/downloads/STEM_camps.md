@@ -8726,6 +8726,134 @@ Limitaciones: Ficha oficial comprobada como fuente de calendario y condiciones. 
 Fuente: https://recfevents.org/Events/Details/582
 Se ha comprobado: 2026-11-06
 
+### L622 · RECF ADC · Grenada High School Drone Class
+
+lugar: Estados Unidos · Grenada, Mississippi, Grenada La escuela secundaria Armory
+Fecha: 2026-09-26 — 2026-09-26
+edad: ADC Fast Track 2026–2027: 12U / Elementary ≤12, 15U / Middle ≤15, 19U / High ≤19 al 6 de mayo de 2027; High además antes de graduarse de secundaria. Sin edad mínima global; se recomiendan 10–18 años. Verificar por separado grupo escolar local y preparación de menores. La escuela secundaria
+Matvey: Más adelante / condicional: la fuente no incluye Elementary. El límite superior de edad no prueba admisión de primaria en Middle / High; requiere curso adecuado o excepción expresa del organizador.
+Oscar: Más adelante / condicional: la fuente no incluye Elementary. El límite superior de edad no prueba admisión de primaria en Middle / High; requiere curso adecuado o excepción expresa del organizador.
+formato: workshop
+Idioma: El texto inglés del portal y reglamento no confirma idioma oral de evaluación, entrevistas o enseñanza. Confirmar EN / ES / RU en la sede concreta.
+Marca de idioma: no clasificada; soporte: no declarada
+Precio: USD 50.00 · Cuota por equipo para este evento; inscripción ADC de temporada USD 200, equipo y viaje aparte. Evento gratuito no significa temporada ni viaje gratuitos.
+Acceso: Equipo ADC → comprobar grupo, restricciones locales y admisión extranjera → solicitud de etapa concreta. Inscripción abierta en el portal no equivale a participación familiar confirmada.
+Limitaciones: No se establece plaza clasificatoria de este registro; el nombre de una red internacional no convierte una etapa local en final mundial. Workshop breve / práctica educativa, no campamento residencial. Confirmar inscripción infantil individual, idioma y preparación mínima.
+Fuente: https://recfevents.org/Events/Details/113
+Se ha comprobado: 2026-11-06
+
+### L623 · RECF ADC · Fall CUSD K-8 Scrimmage
+
+lugar: Estados Unidos · Compton, CA, Tibby Elementary
+Fecha: 2026-10-17 — 2026-10-17
+edad: ADC Fast Track 2026–2027: 12U / Elementary ≤12, 15U / Middle ≤15, 19U / High ≤19 al 6 de mayo de 2027; High además antes de graduarse de secundaria. Sin edad mínima global; se recomiendan 10–18 años. Verificar por separado grupo escolar local y preparación de menores. Elementary, Escuela media
+Matvey: Condicional: programa dirigido al distrito / grupo local indicado; acceso familiar externo sin confirmar. Comprobar condición escolar y aprobación del organizador.
+Oscar: Condicional: programa dirigido al distrito / grupo local indicado; acceso familiar externo sin confirmar. Comprobar condición escolar y aprobación del organizador.
+formato: workshop
+Idioma: El texto inglés del portal y reglamento no confirma idioma oral de evaluación, entrevistas o enseñanza. Confirmar EN / ES / RU en la sede concreta.
+Marca de idioma: no clasificada; soporte: no declarada
+Precio: USD 0.00 · Cuota por equipo para este evento; inscripción ADC de temporada USD 200, equipo y viaje aparte. Evento gratuito no significa temporada ni viaje gratuitos.
+Acceso: Equipo ADC → comprobar grupo, restricciones locales y admisión extranjera → solicitud de etapa concreta. Inscripción abierta en el portal no equivale a participación familiar confirmada. Evento para equipos del distrito escolar / grupo local indicado. La marca general Open to all no confirma acceso familiar externo.
+Limitaciones: Scrimmage de práctica: comparar vuelos y prepararse. No tratar como clasificatorio, victoria internacional oficial ni garantía de premio. Evento para equipos del distrito escolar / grupo local indicado. La marca general Open to all no confirma acceso familiar externo. Workshop breve / práctica educativa, no campamento residencial. Confirmar inscripción infantil individual, idioma y preparación mínima.
+Fuente: https://recfevents.org/Events/Details/276
+Se ha comprobado: 2026-11-06
+
+### L624 · RECF ADC · Mescalero Apache ADC Turkey Shoot
+
+lugar: Estados Unidos · Mescalero, New Mexico, Mescalero Apache School
+Fecha: 2026-11-14 — 2026-11-14
+edad: ADC Fast Track 2026–2027: 12U / Elementary ≤12, 15U / Middle ≤15, 19U / High ≤19 al 6 de mayo de 2027; High además antes de graduarse de secundaria. Sin edad mínima global; se recomiendan 10–18 años. Verificar por separado grupo escolar local y preparación de menores. Elementary, Escuela media, La escuela secundaria
+Matvey: Condicional: sin edad mínima global, pero programa recomendado desde 10 años. El entrenador debe evaluar autonomía y seguridad; confirmar curso, admisión local de menores y plaza.
+Oscar: Condicional: sin edad mínima global, pero programa recomendado desde 10 años. El entrenador debe evaluar autonomía y seguridad; confirmar curso, admisión local de menores y plaza.
+formato: workshop
+Idioma: El texto inglés del portal y reglamento no confirma idioma oral de evaluación, entrevistas o enseñanza. Confirmar EN / ES / RU en la sede concreta.
+Marca de idioma: no clasificada; soporte: no declarada
+Precio: USD 25.00 · Cuota por equipo para este evento; inscripción ADC de temporada USD 200, equipo y viaje aparte. Evento gratuito no significa temporada ni viaje gratuitos.
+Acceso: Equipo ADC → comprobar grupo, restricciones locales y admisión extranjera → solicitud de etapa concreta. Inscripción abierta en el portal no equivale a participación familiar confirmada.
+Limitaciones: Scrimmage de práctica: comparar vuelos y prepararse. No tratar como clasificatorio, victoria internacional oficial ni garantía de premio. Workshop breve / práctica educativa, no campamento residencial. Confirmar inscripción infantil individual, idioma y preparación mínima.
+Fuente: https://recfevents.org/Events/Details/330
+Se ha comprobado: 2026-11-06
+
+### L625 · RECF ADC · Mescalero Apache ADC Scrimmage
+
+lugar: Estados Unidos · Mescalero, New Mexico, Mescalero Apache School (STEM)
+Fecha: 2026-10-10 国 2026-10-10
+edad: ADC Fast Track 2026–2027: 12U / Elementary ≤12, 15U / Middle ≤15, 19U / High ≤19 al 6 de mayo de 2027; High además antes de graduarse de secundaria. Sin edad mínima global; se recomiendan 10–18 años. Verificar por separado grupo escolar local y preparación de menores. Elementary, Escuela media, La escuela secundaria
+Matvey: Condicional: sin edad mínima global, pero programa recomendado desde 10 años. El entrenador debe evaluar autonomía y seguridad; confirmar curso, admisión local de menores y plaza.
+Oscar: Condicional: sin edad mínima global, pero programa recomendado desde 10 años. El entrenador debe evaluar autonomía y seguridad; confirmar curso, admisión local de menores y plaza.
+formato: workshop
+Idioma: El texto inglés del portal y reglamento no confirma idioma oral de evaluación, entrevistas o enseñanza. Confirmar EN / ES / RU en la sede concreta.
+Marca de idioma: no clasificada; soporte: no declarada
+Precio: USD 25.00 · Cuota por equipo para este evento; inscripción ADC de temporada USD 200, equipo y viaje aparte. Evento gratuito no significa temporada ni viaje gratuitos.
+Acceso: Equipo ADC → comprobar grupo, restricciones locales y admisión extranjera → solicitud de etapa concreta. Inscripción abierta en el portal no equivale a participación familiar confirmada.
+Limitaciones: No se establece plaza clasificatoria de este registro; el nombre de una red internacional no convierte una etapa local en final mundial. Workshop breve / práctica educativa, no campamento residencial. Confirmar inscripción infantil individual, idioma y preparación mínima.
+Fuente: https://recfevents.org/Events/Details/613
+Se ha comprobado: 2026-11-06
+
+### L626 · RECF ADC · Milpitas,CA November ADC Workshop
+
+lugar: Estados Unidos · Milpitas, California, India Community Center
+Fecha: 2026-11-01 — 2026-11-01
+edad: ADC Fast Track 2026–2027: 12U / Elementary ≤12, 15U / Middle ≤15, 19U / High ≤19 al 6 de mayo de 2027; High además antes de graduarse de secundaria. Sin edad mínima global; se recomiendan 10–18 años. Verificar por separado grupo escolar local y preparación de menores. Elementary, Escuela media, La escuela secundaria
+Matvey: Condicional: sin edad mínima global, pero programa recomendado desde 10 años. El entrenador debe evaluar autonomía y seguridad; confirmar curso, admisión local de menores y plaza.
+Oscar: Condicional: sin edad mínima global, pero programa recomendado desde 10 años. El entrenador debe evaluar autonomía y seguridad; confirmar curso, admisión local de menores y plaza.
+formato: workshop
+Idioma: El texto inglés del portal y reglamento no confirma idioma oral de evaluación, entrevistas o enseñanza. Confirmar EN / ES / RU en la sede concreta.
+Marca de idioma: no clasificada; soporte: no declarada
+Precio: USD 0.00 · Cuota por equipo para este evento; inscripción ADC de temporada USD 200, equipo y viaje aparte. Evento gratuito no significa temporada ni viaje gratuitos.
+Acceso: Equipo ADC → comprobar grupo, restricciones locales y admisión extranjera → solicitud de etapa concreta. Inscripción abierta en el portal no equivale a participación familiar confirmada.
+Limitaciones: No se establece plaza clasificatoria de este registro; el nombre de una red internacional no convierte una etapa local en final mundial. Workshop breve / práctica educativa, no campamento residencial. Confirmar inscripción infantil individual, idioma y preparación mínima.
+Fuente: https://recfevents.org/Events/Details/778
+Se ha comprobado: 2026-11-06
+
+### L627 · RECF ADC · Milpitas,CA December ADC Workshop
+
+lugar: Estados Unidos · Milpitas, California, India Community Center
+Fecha: 2026-12-06 — 2026-12-06
+edad: ADC Fast Track 2026–2027: 12U / Elementary ≤12, 15U / Middle ≤15, 19U / High ≤19 al 6 de mayo de 2027; High además antes de graduarse de secundaria. Sin edad mínima global; se recomiendan 10–18 años. Verificar por separado grupo escolar local y preparación de menores. Elementary, Escuela media, La escuela secundaria
+Matvey: Condicional: sin edad mínima global, pero programa recomendado desde 10 años. El entrenador debe evaluar autonomía y seguridad; confirmar curso, admisión local de menores y plaza.
+Oscar: Condicional: sin edad mínima global, pero programa recomendado desde 10 años. El entrenador debe evaluar autonomía y seguridad; confirmar curso, admisión local de menores y plaza.
+formato: workshop
+Idioma: El texto inglés del portal y reglamento no confirma idioma oral de evaluación, entrevistas o enseñanza. Confirmar EN / ES / RU en la sede concreta.
+Marca de idioma: no clasificada; soporte: no declarada
+Precio: USD 125.00 · Cuota por equipo para este evento; inscripción ADC de temporada USD 200, equipo y viaje aparte. Evento gratuito no significa temporada ni viaje gratuitos.
+Acceso: Equipo ADC → comprobar grupo, restricciones locales y admisión extranjera → solicitud de etapa concreta. Inscripción abierta en el portal no equivale a participación familiar confirmada.
+Limitaciones: No se establece plaza clasificatoria de este registro; el nombre de una red internacional no convierte una etapa local en final mundial. Workshop breve / práctica educativa, no campamento residencial. Confirmar inscripción infantil individual, idioma y preparación mínima.
+Fuente: https://recfevents.org/Events/Details/779
+Se ha comprobado: 2026-11-06
+
+### L628 · RECF ADC · San Juan Unified School District Workshop
+
+lugar: Estados Unidos · Sacramento, California, Choices Charter
+Fecha: 2026-10-16 — 2026-10-16
+edad: ADC Fast Track 2026–2027: 12U / Elementary ≤12, 15U / Middle ≤15, 19U / High ≤19 al 6 de mayo de 2027; High además antes de graduarse de secundaria. Sin edad mínima global; se recomiendan 10–18 años. Verificar por separado grupo escolar local y preparación de menores. Escuela media
+Matvey: Condicional: programa dirigido al distrito / grupo local indicado; acceso familiar externo sin confirmar. Comprobar condición escolar y aprobación del organizador.
+Oscar: Condicional: programa dirigido al distrito / grupo local indicado; acceso familiar externo sin confirmar. Comprobar condición escolar y aprobación del organizador.
+formato: workshop
+Idioma: El texto inglés del portal y reglamento no confirma idioma oral de evaluación, entrevistas o enseñanza. Confirmar EN / ES / RU en la sede concreta.
+Marca de idioma: no clasificada; soporte: no declarada
+Precio: USD 0.00 · Cuota por equipo para este evento; inscripción ADC de temporada USD 200, equipo y viaje aparte. Evento gratuito no significa temporada ni viaje gratuitos.
+Acceso: Equipo ADC → comprobar grupo, restricciones locales y admisión extranjera → solicitud de etapa concreta. Inscripción abierta en el portal no equivale a participación familiar confirmada. Evento para equipos del distrito escolar / grupo local indicado. La marca general Open to all no confirma acceso familiar externo.
+Limitaciones: No se establece plaza clasificatoria de este registro; el nombre de una red internacional no convierte una etapa local en final mundial. Evento para equipos del distrito escolar / grupo local indicado. La marca general Open to all no confirma acceso familiar externo. Workshop breve / práctica educativa, no campamento residencial. Confirmar inscripción infantil individual, idioma y preparación mínima.
+Fuente: https://recfevents.org/Events/Details/804
+Se ha comprobado: 2026-11-06
+
+### L629 · RECF ADC · HART Wars: A New Flight
+
+lugar: Estados Unidos · Cambria Heights, New York, Health, Arts, Robotics and Technology La escuela secundaria
+Fecha: 2026-12-19 - 2026-12-19
+edad: ADC Fast Track 2026–2027: 12U / Elementary ≤12, 15U / Middle ≤15, 19U / High ≤19 al 6 de mayo de 2027; High además antes de graduarse de secundaria. Sin edad mínima global; se recomiendan 10–18 años. Verificar por separado grupo escolar local y preparación de menores. La escuela secundaria
+Matvey: Más adelante / condicional: la fuente no incluye Elementary. El límite superior de edad no prueba admisión de primaria en Middle / High; requiere curso adecuado o excepción expresa del organizador.
+Oscar: Más adelante / condicional: la fuente no incluye Elementary. El límite superior de edad no prueba admisión de primaria en Middle / High; requiere curso adecuado o excepción expresa del organizador.
+formato: workshop
+Idioma: El texto inglés del portal y reglamento no confirma idioma oral de evaluación, entrevistas o enseñanza. Confirmar EN / ES / RU en la sede concreta.
+Marca de idioma: no clasificada; soporte: no declarada
+Precio: USD 100.00 · Cuota por equipo para este evento; inscripción ADC de temporada USD 200, equipo y viaje aparte. Evento gratuito no significa temporada ni viaje gratuitos.
+Acceso: Equipo ADC → comprobar grupo, restricciones locales y admisión extranjera → solicitud de etapa concreta. Inscripción abierta en el portal no equivale a participación familiar confirmada.
+Limitaciones: No se establece plaza clasificatoria de este registro; el nombre de una red internacional no convierte una etapa local en final mundial. Workshop breve / práctica educativa, no campamento residencial. Confirmar inscripción infantil individual, idioma y preparación mínima.
+Fuente: https://recfevents.org/Events/Details/814
+Se ha comprobado: 2026-11-06
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier

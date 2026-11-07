@@ -11899,6 +11899,61 @@
       "visitor_age_min": 18
     },
     {
+      "id": "C2437",
+      "block": "Competiciones",
+      "title": "RECF ADC · Aerial Drone Competition Chile 2026 -",
+      "country": "Chile",
+      "region": "América del Sur",
+      "city": "Santiago, Región Metropolitana de Santiago, Centro Espacial Nacional",
+      "start": "2026-11-04",
+      "end": "2026-11-04",
+      "period": "Fechas publicadas del evento; admisión y plaza aparte",
+      "date_status": "Confirmado",
+      "deadline": "2026-10-30",
+      "age": "ADC Fast Track 2026–2027: 12U / Elementary ≤12, 15U / Middle ≤15, 19U / High ≤19 al 6 de mayo de 2027; High además antes de graduarse de secundaria. Sin edad mínima global; se recomiendan 10–18 años. Verificar por separado grupo escolar local y preparación de menores. Elementary, Escuela media, La escuela secundaria",
+      "mat": "Condicional: sin edad mínima global, pero programa recomendado desde 10 años. El entrenador debe evaluar autonomía y seguridad; confirmar curso, admisión local de menores y plaza.",
+      "osc": "Condicional: sin edad mínima global, pero programa recomendado desde 10 años. El entrenador debe evaluar autonomía y seguridad; confirmar curso, admisión local de menores y plaza.",
+      "format": "Equipo registrado desde 1 alumno; se recomiendan 3–5 participantes, no es mínimo obligatorio. Hasta 3 alumnos de flight crew en pista, no tamaño máximo del equipo. El organizador local puede exigir composición más estricta.",
+      "entry": "Equipo ADC → comprobar grupo, restricciones locales y admisión extranjera → solicitud de etapa concreta. Inscripción abierta en el portal no equivale a participación familiar confirmada.",
+      "gear": "Manual 1.1: CoDrone EDU, CoDrone EDU JROTC Edition o Parrot Mambo; configuración de fábrica, repuestos idénticos permitidos y firmware aprobado. Mambo está descatalogado, pero sigue permitido. Otros drones no quedan autorizados automáticamente.",
+      "language": "El texto inglés del portal y reglamento no confirma idioma oral de evaluación, entrevistas o enseñanza. Confirmar EN / ES / RU en la sede concreta.",
+      "languages": [],
+      "language_certainty": "El texto inglés del portal y reglamento no confirma idioma oral de evaluación, entrevistas o enseñanza. Confirmar EN / ES / RU en la sede concreta.",
+      "cost": "USD 0.00 · Cuota por equipo para este evento; inscripción ADC de temporada USD 200, equipo y viaje aparte. Evento gratuito no significa temporada ni viaje gratuitos.",
+      "level": "C — evento local / regional",
+      "reward": "Premio y puesto se confirman mediante acta oficial; participación y certificado no equivalen a victoria.",
+      "priority": "P3 — confirmar condiciones de participación",
+      "action": "Entrenador: comprobar admisión local, grupo de edad, composición, idioma, estado de inscripción y manual vigente antes de planificar viaje.",
+      "source": "https://recfevents.org/Events/Details/623",
+      "proof": "Leída ficha pública: fechas, grupo escolar, tarifa y estado actual. No se confirman reglamento local completo ni aceptación del equipo.",
+      "checked": "2026-11-06",
+      "status": "Idea",
+      "note": "No se establece plaza clasificatoria de este registro; el nombre de una red internacional no convierte una etapa local en final mundial.",
+      "iso": [
+        "CHL"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "local",
+      "participation": "individual_or_team",
+      "admission_kind": "confirm_eligibility",
+      "evidence_level": "event_page",
+      "date_scope": "event_day",
+      "date_precision": "published_event",
+      "event_code": "ADC20261320",
+      "network": "RECF Aerial Drone",
+      "team_min": 1,
+      "references": [
+        {
+          "url": "https://games.recf.org/adc/1.1",
+          "label": "ADC Fast Track manual 1.1: composición, edad, drones y seguridad"
+        }
+      ],
+      "registration_status": "Evento finalizado; archivo de condiciones, no inscripción disponible ahora."
+    },
+    {
       "id": "CP047-20270103-20270108",
       "block": "Campamentos",
       "title": "Camp Mákemáke · 2027-01-03–2027-01-08",
