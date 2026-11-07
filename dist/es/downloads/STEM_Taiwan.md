@@ -1653,6 +1653,1163 @@ Limitaciones: Matvey: Condicional — exige curso escolar publicado. Cursos real
 Fuente: https://www.haloschool.tw/halocamp/
 Se ha comprobado: 2026-11-05
 
+### CP1507-20270201-20270203 · NTSEC · Early Science Lab · LSTK116101 · 2027-02-01–2027-02-03
+
+Fecha: 2027-02-01 国 2027-02-03
+edad: Grupos medio y mayor de preescolar.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · 2400 TWD por turno. Tarifa de miembro Science Member 2100 TWD. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Grupo para grados anteriores. Admisión según el documento escolar. Oscar: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Suplementos: La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso. Pago: Confirmar plaza, condiciones de pago y devolución con el organizador.
+Fuente: https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008181
+Se ha comprobado: 2026-11-07
+
+### CP1508-20270121-20270122 · NTSEC · Gigo Logic Robots · LLK116101 · 2027-01-21–2027-01-22
+
+Fecha: 2027-01-21 国 2027-01-22
+edad: Último grupo de preescolar o grados 1–2.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · 2800 TWD por turno. Tarifa de miembro Science Member 2500 TWD. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Grupo para grados anteriores. Admisión según el documento escolar. Oscar: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Suplementos: La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso. Pago: Confirmar plaza, condiciones de pago y devolución con el organizador.
+Fuente: https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008178
+Se ha comprobado: 2026-11-07
+
+### CP1509-20270201-20270203 · NTSEC · Artec Beginner Robotics · LPRE116301 · 2027-02-01–2027-02-03
+
+Fecha: 2027-02-01 国 2027-02-03
+edad: Último grupo de preescolar o grados 1–2.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · 6500 TWD por turno. Tarifa de miembro Science Member 6300 TWD. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Grupo para grados anteriores. Admisión según el documento escolar. Oscar: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Suplementos: La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso. Pago: Confirmar plaza, condiciones de pago y devolución con el organizador.
+Fuente: https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008165
+Se ha comprobado: 2026-11-07
+
+### CP1510-20270203-20270203 · NTSEC · Little Explorers Lab · LEK116101 · 2027-02-03–2027-02-03
+
+Fecha: 2027-02-03 — 2027-02-03
+edad: Último grupo de preescolar o grados 1–2.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · 1800 TWD por turno. Tarifa de miembro Science Member 1620 TWD. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Grupo para grados anteriores. Admisión según el documento escolar. Oscar: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Suplementos: La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso. Pago: Confirmar plaza, condiciones de pago y devolución con el organizador.
+Fuente: https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008176
+Se ha comprobado: 2026-11-07
+
+### CP1511-20270201-20270203 · NTSEC · Slime Science · LGL115301 · 2027-02-01–2027-02-03
+
+Fecha: 2027-02-01 国 2027-02-03
+edad: 1–2 de primaria.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · 7776 TWD por turno. Tarifa de miembro Science Member 7776 TWD. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Grupo para grados anteriores. Admisión según el documento escolar. Oscar: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Suplementos: La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso. Pago: Confirmar plaza, condiciones de pago y devolución con el organizador.
+Fuente: https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008139
+Se ha comprobado: 2026-11-07
+
+### CP1512-20270121-20270122 · NTSEC · Gigo Castle Engineering · LLE116101 · 2027-01-21–2027-01-22
+
+Fecha: 2027-01-21 国 2027-01-22
+edad: 1–4 de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · 2800 TWD por turno. Tarifa de miembro Science Member 2500 TWD. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Suplementos: La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso. Pago: Confirmar plaza, condiciones de pago y devolución con el organizador.
+Fuente: https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008179
+Se ha comprobado: 2026-11-07
+
+### CP1513-20270201-20270203 · NTSEC · Night Market Science · LVJ116301 · 2027-02-01–2027-02-03
+
+Fecha: 2027-02-01 国 2027-02-03
+edad: 1–4 de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · 6000 TWD por turno. Tarifa de miembro Science Member 5800 TWD. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Suplementos: La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso. Pago: Confirmar plaza, condiciones de pago y devolución con el organizador.
+Fuente: https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008166
+Se ha comprobado: 2026-11-07
+
+### CP1514-20270201-20270203 · NTSEC · Insect Tools Lab · LKE116301 · 2027-02-01–2027-02-03
+
+Fecha: 2027-02-01 国 2027-02-03
+edad: 1–4 de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · 6000 TWD por turno. Tarifa de miembro Science Member 5800 TWD. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Suplementos: La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso. Pago: Confirmar plaza, condiciones de pago y devolución con el organizador.
+Fuente: https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008167
+Se ha comprobado: 2026-11-07
+
+### CP1515-20270201-20270201 · NTSEC · Board Games and Maths · LEE116101 · 2027-02-01–2027-02-01
+
+Fecha: 2027-02-01 国 2027-02-01
+edad: 1–4 de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · 1800 TWD por turno. Tarifa de miembro Science Member 1620 TWD. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Suplementos: La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso. Pago: Confirmar plaza, condiciones de pago y devolución con el organizador.
+Fuente: https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008174
+Se ha comprobado: 2026-11-07
+
+### CP1516-20270121-20270122 · NTSEC · Zoo Science · LCE116301 · 2027-01-21–2027-01-22
+
+Fecha: 2027-01-21 国 2027-01-22
+edad: 1–6 de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · 4500 TWD por turno. Tarifa de miembro Science Member 4400 TWD. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Suplementos: La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso. Pago: Confirmar plaza, condiciones de pago y devolución con el organizador.
+Fuente: https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008164
+Se ha comprobado: 2026-11-07
+
+### CP1517-20270121-20270122 · NTSEC · Bubble Science Academy · LVE116101 · 2027-01-21–2027-01-22
+
+Fecha: 2027-01-21 国 2027-01-22
+edad: 1–6 de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · 2800 TWD por turno. Tarifa de miembro Science Member 2520 TWD. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Suplementos: La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso. Pago: Confirmar plaza, condiciones de pago y devolución con el organizador.
+Fuente: https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008168
+Se ha comprobado: 2026-11-07
+
+### CP1518-20270201-20270203 · NTSEC · Interstellar STEAM · LGE116101 · 2027-02-01–2027-02-03
+
+Fecha: 2027-02-01 国 2027-02-03
+edad: 1–6 de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · 4000 TWD por turno. Tarifa de miembro Science Member 4000 TWD. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Suplementos: La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso. Pago: Confirmar plaza, condiciones de pago y devolución con el organizador.
+Fuente: https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008169
+Se ha comprobado: 2026-11-07
+
+### CP1519-20270201-20270203 · NTSEC · Young Chinese Medicine Explorer · LGC115301 · 2027-02-01–2027-02-03
+
+Fecha: 2027-02-01 国 2027-02-03
+edad: 3–4 de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · 7200 TWD por turno. Tarifa de miembro Science Member 7000 TWD. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso. Pago: Confirmar plaza, condiciones de pago y devolución con el organizador.
+Fuente: https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008141
+Se ha comprobado: 2026-11-07
+
+### CP1520-20270121-20270122 · NTSEC · AI Animation · LJC116101 · 2027-01-21–2027-01-22
+
+Fecha: 2027-01-21 国 2027-01-22
+edad: 3–6 de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · 3000 TWD por turno. Tarifa de miembro Science Member 2700 TWD. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso. Pago: Confirmar plaza, condiciones de pago y devolución con el organizador.
+Fuente: https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008159
+Se ha comprobado: 2026-11-07
+
+### CP1521-20270121-20270122 · NTSEC · Disaster Preparedness Lab · LVC116101 · 2027-01-21–2027-01-22
+
+Fecha: 2027-01-21 国 2027-01-22
+edad: 3–6 de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · 3900 TWD por turno. Tarifa de miembro Science Member 3510 TWD. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso. Pago: Confirmar plaza, condiciones de pago y devolución con el organizador.
+Fuente: https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008160
+Se ha comprobado: 2026-11-07
+
+### CP1522-20270121-20270122 · NTSEC · Pokémon Nature Lab · LVC116102 · 2027-01-21–2027-01-22
+
+Fecha: 2027-01-21 国 2027-01-22
+edad: Prioridad para grados 3–6. Grados 1–2 solo si hay plazas.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · 3900 TWD por turno. Tarifa de miembro Science Member 3510 TWD. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: Si cursa 1–2, admisión según plazas tras prioridad de 3–6. Suplementos: La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso. Pago: Confirmar plaza, condiciones de pago y devolución con el organizador.
+Fuente: https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008161
+Se ha comprobado: 2026-11-07
+
+### CP1523-20270201-20270203 · NTSEC · AI Game Development · LJC116102 · 2027-02-01–2027-02-03
+
+Fecha: 2027-02-01 国 2027-02-03
+edad: 3–6 de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · 4500 TWD por turno. Tarifa de miembro Science Member 4050 TWD. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso. Pago: Confirmar plaza, condiciones de pago y devolución con el organizador.
+Fuente: https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008173
+Se ha comprobado: 2026-11-07
+
+### CP1524-20270201-20270203 · NTSEC · Taipei Science and Arts Adventure · LGH116102 · 2027-02-01–2027-02-03
+
+Fecha: 2027-02-01 国 2027-02-03
+edad: 3–6 de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · 5500 TWD por turno. Tarifa de miembro Science Member 4950 TWD. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso. Pago: Confirmar plaza, condiciones de pago y devolución con el organizador.
+Fuente: https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008171
+Se ha comprobado: 2026-11-07
+
+### CP1525-20270201-20270203 · NTSEC · AI Maker Mining Lab · LIC115301 · 2027-02-01–2027-02-03
+
+Fecha: 2027-02-01 国 2027-02-03
+edad: 3–6 de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · 7400 TWD por turno. Tarifa de miembro Science Member 7200 TWD. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso. Pago: Confirmar plaza, condiciones de pago y devolución con el organizador.
+Fuente: https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008137
+Se ha comprobado: 2026-11-07
+
+### CP1526-20270131-20270202 · NTSEC · Build a Quadcopter A · LGE116102 · 2027-01-31–2027-02-02
+
+Fecha: 2027-01-31 — 2027-02-02
+edad: Desde 3 de primaria hasta grado 12.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · 8800 TWD por turno. Tarifa de miembro Science Member 8800 TWD. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso. Pago: Confirmar plaza, condiciones de pago y devolución con el organizador.
+Fuente: https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008170
+Se ha comprobado: 2026-11-07
+
+### CP1527-20270201-20270203 · NTSEC · Drone Soccer A · LGH116101 · 2027-02-01–2027-02-03
+
+Fecha: 2027-02-01 国 2027-02-03
+edad: Desde 3 de primaria hasta grado 12.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · 8800 TWD por turno. Tarifa de miembro Science Member 8800 TWD. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso. Pago: Confirmar plaza, condiciones de pago y devolución con el organizador.
+Fuente: https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008162
+Se ha comprobado: 2026-11-07
+
+### CP1528-20270121-20270122 · NTSEC · Build a Claw Machine · LGC116301 · 2027-01-21–2027-01-22
+
+Fecha: 2027-01-21 国 2027-01-22
+edad: Desde 4 de primaria hasta grado 12.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · 4600 TWD por turno. Tarifa de miembro Science Member 4500 TWD. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso. Pago: Confirmar plaza, condiciones de pago y devolución con el organizador.
+Fuente: https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008163
+Se ha comprobado: 2026-11-07
+
+### CP1529-20270201-20270203 · NTSEC · Gigo micro:bit Robots · LLH116101 · 2027-02-01–2027-02-03
+
+Fecha: 2027-02-01 国 2027-02-03
+edad: 4–6 de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · 4000 TWD por turno. Tarifa de miembro Science Member 3600 TWD. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso. Pago: Confirmar plaza, condiciones de pago y devolución con el organizador.
+Fuente: https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008180
+Se ha comprobado: 2026-11-07
+
+### CP1530-20270201-20270203 · NTSEC · Biology Specimen Workshop · LFXX116101 · 2027-02-01–2027-02-03
+
+Fecha: 2027-02-01 国 2027-02-03
+edad: Desde 5 de primaria hasta adultos.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · 4500 TWD por turno. Tarifa de miembro Science Member 4050 TWD. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: El nivel es superior a la edad actual. Comprobar reglas del turno. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso. Pago: Confirmar plaza, condiciones de pago y devolución con el organizador.
+Fuente: https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008172
+Se ha comprobado: 2026-11-07
+
+### CP1531-20270121-20270122 · NTSEC · FPV Flight Training · LGXX116101 · 2027-01-21–2027-01-22
+
+Fecha: 2027-01-21 国 2027-01-22
+edad: Desde grado 5 hasta 8.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · 8800 TWD por turno. Tarifa de miembro Science Member 8800 TWD. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: El nivel es superior a la edad actual. Comprobar reglas del turno. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso. Pago: Confirmar plaza, condiciones de pago y devolución con el organizador.
+Fuente: https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008158
+Se ha comprobado: 2026-11-07
+
+### CP1532-20270202-20270202 · NTSEC · Finance and Economic Strategy · LEXX116102 · 2027-02-02–2027-02-02
+
+Fecha: 2027-02-02 — 2027-02-02
+edad: Desde grado 5 hasta 9.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · 1800 TWD por turno. Tarifa de miembro Science Member 1620 TWD. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: El nivel es superior a la edad actual. Comprobar reglas del turno. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso. Pago: Confirmar plaza, condiciones de pago y devolución con el organizador.
+Fuente: https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008175
+Se ha comprobado: 2026-11-07
+
+### CP1533-20270209-20270210 · NTSEC · Semiconductors and Electronic Games · LLXX116101 · 2027-02-09–2027-02-10
+
+Fecha: 2027-02-09 — 2027-02-10
+edad: Desde grado 5 hasta 9.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · 3600 TWD por turno. Tarifa de miembro Science Member 3240 TWD. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: El nivel es superior a la edad actual. Comprobar reglas del turno. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso. Pago: Confirmar plaza, condiciones de pago y devolución con el organizador.
+Fuente: https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008177
+Se ha comprobado: 2026-11-07
+
+### CP1534-20270122-20270122 · NSTM · Animal Care Science · Turno 1 en el calendario oficial · 2027-01-22–2027-01-22
+
+Fecha: 2027-01-22 — 2027-01-22
+edad: Grados escolares 4–6.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 1800 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015430&act_seq=3
+Se ha comprobado: 2026-11-07
+
+### CP1535-20270124-20270125 · NSTM · Science and Art · Turno 2 en el calendario oficial · 2027-01-24–2027-01-25
+
+Fecha: 2027-01-24 — 2027-01-25
+edad: Grados escolares 3–6.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 2800 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015416&act_seq=2
+Se ha comprobado: 2026-11-07
+
+### CP1536-20270125-20270125 · NSTM · Underwater ROV and Acoustics · Turno 3 en el calendario oficial · 2027-01-25–2027-01-25
+
+Fecha: 2027-01-25 ♫ 2027-01-25
+edad: Desde grado 7, incluidos adultos. El calendario indica secundaria básica y la ficha admite adultos expresamente.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 2800 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: El nivel es superior a la edad actual. Comprobar reglas del turno. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015408&act_seq=1
+Se ha comprobado: 2026-11-07
+
+### CP1537-20270127-20270127 · NSTM · Railways and Pineapple Science · Turno 4 en el calendario oficial · 2027-01-27–2027-01-27
+
+Fecha: 2027-01-27 — 2027-01-27
+edad: Grados escolares 3–6.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 1400 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015417&act_seq=1
+Se ha comprobado: 2026-11-07
+
+### CP1538-20270125-20270126 · NSTM · Kitchen Science in English · Turno 5 en el calendario oficial · 2027-01-25–2027-01-26
+
+Fecha: 2027-01-25 — 2027-01-26
+edad: Grados escolares 3–9.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: El organizador identifica este turno como íntegramente en inglés.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 5520 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015425&act_seq=1
+Se ha comprobado: 2026-11-07
+
+### CP1539-20270123-20270123 · NSTM · Forces and Airflow · Turno 6 en el calendario oficial · 2027-01-23–2027-01-23
+
+Fecha: 2027-01-23 — 2027-01-23
+edad: Grados escolares 1–2.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 1400 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Grupo para grados anteriores. Admisión según el documento escolar. Oscar: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015415&act_seq=1
+Se ha comprobado: 2026-11-07
+
+### CP1540-20270123-20270124 · NSTM · Pokémon Mezastar Coding · Turno 7 en el calendario oficial · 2027-01-23–2027-01-24
+
+Fecha: 2027-01-23 国 2027-01-24
+edad: Último grupo de preescolar hasta grado 2.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 3000 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Grupo para grados anteriores. Admisión según el documento escolar. Oscar: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015442&act_seq=1
+Se ha comprobado: 2026-11-07
+
+### CP1541-20270201-20270203 · NSTM · Chemistry Through Stories · Turno 8 en el calendario oficial · 2027-02-01–2027-02-03
+
+Fecha: 2027-02-01 国 2027-02-03
+edad: Grados escolares 1–3.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 4500 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015411&act_seq=3
+Se ha comprobado: 2026-11-07
+
+### CP1542-20270202-20270202 · NSTM · Little Fox AR Storybook · Turno 9 en el calendario oficial · 2027-02-02–2027-02-02
+
+Fecha: 2027-02-02 — 2027-02-02
+edad: Último grupo de preescolar hasta grado 1.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 1800 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Grupo para grados anteriores. Admisión según el documento escolar. Oscar: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015434&act_seq=1
+Se ha comprobado: 2026-11-07
+
+### CP1543-20270124-20270124 · NSTM · Air Transport Building Blocks · Turno 10 en el calendario oficial · 2027-01-24–2027-01-24
+
+Fecha: 2027-01-24 国 2027-01-24
+edad: Grados escolares 2–3.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 1850 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015418&act_seq=1
+Se ha comprobado: 2026-11-07
+
+### CP1544-20270125-20270125 · NSTM · Dinosaur Maze Blocks · Turno 11 en el calendario oficial · 2027-01-25–2027-01-25
+
+Fecha: 2027-01-25 ♫ 2027-01-25
+edad: Grados escolares 2–3.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 1850 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015419&act_seq=1
+Se ha comprobado: 2026-11-07
+
+### CP1545-20270126-20270126 · NSTM · Hero Rescue Maze · Turno 12 en el calendario oficial · 2027-01-26–2027-01-26
+
+Fecha: 2027-01-26 — 2027-01-26
+edad: Grados escolares 2–3.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 1850 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015420&act_seq=1
+Se ha comprobado: 2026-11-07
+
+### CP1546-20270127-20270127 · NSTM · LEGO SPM Mechanical Design · Turno 13 en el calendario oficial · 2027-01-27–2027-01-27
+
+Fecha: 2027-01-27 — 2027-01-27
+edad: Quienes ingresan a grados 3–6. Confirmar la regla con el museo.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 1400 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Confirmar grado actual y requisito de ingreso al grado indicado. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015444&act_seq=1
+Se ha comprobado: 2026-11-07
+
+### CP1547-20270130-20270130 · NSTM · Polar Explorer Blocks · Turno 14 en el calendario oficial · 2027-01-30–2027-01-30
+
+Fecha: 2027-01-30 国 2027-01-30
+edad: Grados escolares 2–4.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 1850 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015421&act_seq=1
+Se ha comprobado: 2026-11-07
+
+### CP1548-20270131-20270131 · NSTM · Rescue Mission Blocks · Turno 15 en el calendario oficial · 2027-01-31–2027-01-31
+
+Fecha: 2027-01-31 ♫ 2027-01-31
+edad: Grados escolares 2–4.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 1850 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015422&act_seq=1
+Se ha comprobado: 2026-11-07
+
+### CP1549-20270201-20270202 · NSTM · Apitor AI Technology Mission · Turno 16 en el calendario oficial · 2027-02-01–2027-02-02
+
+Fecha: 2027-02-01 — 2027-02-02
+edad: Quienes ingresan a grados 3–6. Confirmar la regla con el museo.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 6850 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Confirmar grado actual y requisito de ingreso al grado indicado. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015446&act_seq=1
+Se ha comprobado: 2026-11-07
+
+### CP1550-20270121-20270122 · NSTM · AI Fashion Design and Sewing · Turno 17 en el calendario oficial · 2027-01-21–2027-01-22
+
+Fecha: 2027-01-21 国 2027-01-22
+edad: Grados escolares 3–7.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 2950 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015448&act_seq=1
+Se ha comprobado: 2026-11-07
+
+### CP1550-20270128-20270129 · NSTM · AI Fashion Design and Sewing · Turno 20 en el calendario oficial · 2027-01-28–2027-01-29
+
+Fecha: 2027-01-28 - 2027-01-29
+edad: Grados escolares 3–7.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 2950 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015448&act_seq=2
+Se ha comprobado: 2026-11-07
+
+### CP1551-20270125-20270126 · NSTM · Scratch Game Animation · Turno 18 en el calendario oficial · 2027-01-25–2027-01-26
+
+Fecha: 2027-01-25 — 2027-01-26
+edad: Quienes ingresan a grados 3–6. Confirmar la regla con el museo.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 2800 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Confirmar grado actual y requisito de ingreso al grado indicado. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015443&act_seq=1
+Se ha comprobado: 2026-11-07
+
+### CP1552-20270127-20270128 · NSTM · Logic Quest and Puzzles · Turno 19 en el calendario oficial · 2027-01-27–2027-01-28
+
+Fecha: 2027-01-27 — 2027-01-28
+edad: Grados escolares 4–7.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 2900 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015411&act_seq=2
+Se ha comprobado: 2026-11-07
+
+### CP1553-20270130-20270131 · NSTM · Sketchbook Digital Drawing · Turno 21 en el calendario oficial · 2027-01-30–2027-01-31
+
+Fecha: 2027-01-30 国 2027-01-31
+edad: Grados escolares 5–9.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 2800 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: El nivel es superior a la edad actual. Comprobar reglas del turno. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015431&act_seq=1
+Se ha comprobado: 2026-11-07
+
+### CP1554-20270128-20270129 · NSTM · Number Sense · Turno 22 en el calendario oficial · 2027-01-28–2027-01-29
+
+Fecha: 2027-01-28 - 2027-01-29
+edad: Grados escolares 3–6.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 1900 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015438&act_seq=1
+Se ha comprobado: 2026-11-07
+
+### CP1555-20270130-20270130 · NSTM · Pharaoh Escape Room · Escuela media · Turno 23 en el calendario oficial · 2027-01-30–2027-01-30
+
+Fecha: 2027-01-30 国 2027-01-30
+edad: Grados escolares 7–9.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 1400 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: El nivel es superior a la edad actual. Comprobar reglas del turno. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015430&act_seq=8
+Se ha comprobado: 2026-11-07
+
+### CP1556-20270131-20270131 · NSTM · Pharaoh Escape Room · Primary · Turno 24 en el calendario oficial · 2027-01-31–2027-01-31
+
+Fecha: 2027-01-31 ♫ 2027-01-31
+edad: Quienes ingresan a grados 5–6. Confirmar la regla con el museo.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 1400 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: El nivel es superior a la edad actual. Comprobar reglas del turno. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015430&act_seq=9
+Se ha comprobado: 2026-11-07
+
+### CP1557-20270123-20270124 · NSTM · Escuela media Chemistry · Turno 25 en el calendario oficial · 2027-01-23–2027-01-24
+
+Fecha: 2027-01-23 国 2027-01-24
+edad: Grados escolares 7–9.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 2800 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: El nivel es superior a la edad actual. Comprobar reglas del turno. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015411&act_seq=1
+Se ha comprobado: 2026-11-07
+
+### CP1558-20270125-20270125 · NSTM · Egg Physics · Turno 26 en el calendario oficial · 2027-01-25–2027-01-25
+
+Fecha: 2027-01-25 ♫ 2027-01-25
+edad: Grados escolares 2–4.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 1400 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015340&act_seq=1
+Se ha comprobado: 2026-11-07
+
+### CP1559-20270127-20270127 · NSTM · Thermodynamics and Electromagnetism · Turno 27 en el calendario oficial · 2027-01-27–2027-01-27
+
+Fecha: 2027-01-27 — 2027-01-27
+edad: Grados escolares 3–9.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 1450 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015339&act_seq=1
+Se ha comprobado: 2026-11-07
+
+### CP1560-20270121-20270121 · NSTM · Doraemon Science · Turno 28 en el calendario oficial · 2027-01-21–2027-01-21
+
+Fecha: 2027-01-21 — 2027-01-21
+edad: Grados escolares 3–6.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 1400 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015335&act_seq=1
+Se ha comprobado: 2026-11-07
+
+### CP1561-20270121-20270122 · NSTM · Sports Science · Turno 29 en el calendario oficial · 2027-01-21–2027-01-22
+
+Fecha: 2027-01-21 国 2027-01-22
+edad: Grados escolares 3–6.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 3000 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015408&act_seq=3
+Se ha comprobado: 2026-11-07
+
+### CP1562-20270121-20270121 · NSTM · Hummingbird Gear Mechanisms · Turno 30 en el calendario oficial · 2027-01-21–2027-01-21
+
+Fecha: 2027-01-21 — 2027-01-21
+edad: Grados escolares 7–9.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 1400 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: El nivel es superior a la edad actual. Comprobar reglas del turno. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015430&act_seq=1
+Se ha comprobado: 2026-11-07
+
+### CP1563-20270121-20270122 · NSTM · Microscopy and Forensic Science · Turno 31 en el calendario oficial · 2027-01-21–2027-01-22
+
+Fecha: 2027-01-21 国 2027-01-22
+edad: Grados escolares 3–6.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 2600 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015414&act_seq=1
+Se ha comprobado: 2026-11-07
+
+### CP1564-20270122-20270122 · NSTM · Shape Cube Puzzles · Turno 32 en el calendario oficial · 2027-01-22–2027-01-22
+
+Fecha: 2027-01-22 — 2027-01-22
+edad: Grados escolares 3–6.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 1400 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015337&act_seq=1
+Se ha comprobado: 2026-11-07
+
+### CP1565-20270123-20270123 · NSTM · Ghibli-themed Cooking · Turno 33 en el calendario oficial · 2027-01-23–2027-01-23
+
+Fecha: 2027-01-23 — 2027-01-23
+edad: Grados escolares 3–9.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 1500 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015336&act_seq=1
+Se ha comprobado: 2026-11-07
+
+### CP1566-20270124-20270124 · NSTM · Demon Slayer-themed Cooking · Turno 34 en el calendario oficial · 2027-01-24–2027-01-24
+
+Fecha: 2027-01-24 国 2027-01-24
+edad: Grados escolares 3–9.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 1500 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015338&act_seq=1
+Se ha comprobado: 2026-11-07
+
+### CP1567-20270125-20270127 · NSTM · Water and Energy Science · Turno 35 en el calendario oficial · 2027-01-25–2027-01-27
+
+Fecha: 2027-01-25 国 2027-01-27
+edad: Grados escolares 3–9.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 1900 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015437&act_seq=1
+Se ha comprobado: 2026-11-07
+
+### CP1568-20270126-20270126 · NSTM · Rice Materials Lab · Turno 36 en el calendario oficial · 2027-01-26–2027-01-26
+
+Fecha: 2027-01-26 — 2027-01-26
+edad: Grados escolares 4–6.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 1400 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015430&act_seq=5
+Se ha comprobado: 2026-11-07
+
+### CP1569-20270128-20270128 · NSTM · Ocean Discovery · Turno 37 en el calendario oficial · 2027-01-28–2027-01-28
+
+Fecha: 2027-01-28 — 2027-01-28
+edad: Grados escolares 4–6.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 1400 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015430&act_seq=7
+Se ha comprobado: 2026-11-07
+
+### CP1570-20270128-20270129 · NSTM · JSPB Pneumatics · Turno 38 en el calendario oficial · 2027-01-28–2027-01-29
+
+Fecha: 2027-01-28 - 2027-01-29
+edad: Grados escolares 3–6.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 5200 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015424&act_seq=1
+Se ha comprobado: 2026-11-07
+
+### CP1571-20270201-20270202 · NSTM · Sphero indi Colour Coding · Turno 39 en el calendario oficial · 2027-02-01–2027-02-02
+
+Fecha: 2027-02-01 — 2027-02-02
+edad: Grados escolares 1–3.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 4200 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015428&act_seq=2
+Se ha comprobado: 2026-11-07
+
+### CP1572-20270123-20270123 · NSTM · Light and Shadow Science · Turno 40 en el calendario oficial · 2027-01-23–2027-01-23
+
+Fecha: 2027-01-23 — 2027-01-23
+edad: Grados escolares 2–3.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 1850 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015413&act_seq=1
+Se ha comprobado: 2026-11-07
+
+### CP1573-20270125-20270126 · NSTM · Space Exploration Mission · Turno 41 en el calendario oficial · 2027-01-25–2027-01-26
+
+Fecha: 2027-01-25 — 2027-01-26
+edad: Grados escolares 4–6.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 3600 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015427&act_seq=1
+Se ha comprobado: 2026-11-07
+
+### CP1574-20270125-20270129 · NSTM · Magic Science Investigators · Turno 42 en el calendario oficial · 2027-01-25–2027-01-29
+
+Fecha: 2027-01-25 国 2027-01-29
+edad: Grados escolares 1–4.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 6200 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015440&act_seq=1
+Se ha comprobado: 2026-11-07
+
+### CP1575-20270127-20270127 · NSTM · Elastic Mechanisms · Turno 43 en el calendario oficial · 2027-01-27–2027-01-27
+
+Fecha: 2027-01-27 — 2027-01-27
+edad: Grados escolares 2–5.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 1900 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015408&act_seq=4
+Se ha comprobado: 2026-11-07
+
+### CP1576-20270127-20270127 · NSTM · Light-up House · Turno 44 en el calendario oficial · 2027-01-27–2027-01-27
+
+Fecha: 2027-01-27 — 2027-01-27
+edad: Grados escolares 1–4.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 1800 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015426&act_seq=1
+Se ha comprobado: 2026-11-07
+
+### CP1577-20270128-20270129 · NSTM · Young Maker · Paper · Turno 45 en el calendario oficial · 2027-01-28–2027-01-29
+
+Fecha: 2027-01-28 - 2027-01-29
+edad: Grados escolares 3–6.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 3000 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015432&act_seq=1
+Se ha comprobado: 2026-11-07
+
+### CP1578-20270129-20270129 · NSTM · Jurassic Discovery · Turno 46 en el calendario oficial · 2027-01-29–2027-01-29
+
+Fecha: 2027-01-29 — 2027-01-29
+edad: Grados escolares 3–6.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 2000 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015408&act_seq=2
+Se ha comprobado: 2026-11-07
+
+### CP1579-20270201-20270201 · NSTM · Young Maker · Wired Car · Turno 47 en el calendario oficial · 2027-02-01–2027-02-01
+
+Fecha: 2027-02-01 国 2027-02-01
+edad: Grados escolares 5–9.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 1600 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: El nivel es superior a la edad actual. Comprobar reglas del turno. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015433&act_seq=1
+Se ha comprobado: 2026-11-07
+
+### CP1580-20270201-20270203 · NSTM · Earth and Rocks Lab · Turno 48 en el calendario oficial · 2027-02-01–2027-02-03
+
+Fecha: 2027-02-01 国 2027-02-03
+edad: Grados escolares 1–6.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 4450 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015441&act_seq=1
+Se ha comprobado: 2026-11-07
+
+### CP1581-20270202-20270203 · NSTM · Toy Science Workshop · Turno 49 en el calendario oficial · 2027-02-02–2027-02-03
+
+Fecha: 2027-02-02 — 2027-02-03
+edad: Grados escolares 3–6.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 2500 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015439&act_seq=1
+Se ha comprobado: 2026-11-07
+
+### CP1582-20270121-20270122 · NSTM · Junior Finance Lab · Turno 50 en el calendario oficial · 2027-01-21–2027-01-22
+
+Fecha: 2027-01-21 国 2027-01-22
+edad: Grados escolares 4–7.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 3500 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015429&act_seq=1
+Se ha comprobado: 2026-11-07
+
+### CP1583-20270125-20270127 · NSTM · Junior Cooking Lab · Turno 51 en el calendario oficial · 2027-01-25–2027-01-27
+
+Fecha: 2027-01-25 国 2027-01-27
+edad: Grados escolares 1–6.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 6900 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015423&act_seq=1
+Se ha comprobado: 2026-11-07
+
+### CP1584-20270128-20270129 · NSTM · Medicine and Humanities · Turno 52 en el calendario oficial · 2027-01-28–2027-01-29
+
+Fecha: 2027-01-28 - 2027-01-29
+edad: Grados escolares 3–7.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 4000 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015429&act_seq=2
+Se ha comprobado: 2026-11-07
+
+### CP1585-20270201-20270202 · NSTM · AI Virtual News Presenter · Turno 53 en el calendario oficial · 2027-02-01–2027-02-02
+
+Fecha: 2027-02-01 — 2027-02-02
+edad: Grados escolares 4–7.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 3500 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015428&act_seq=1
+Se ha comprobado: 2026-11-07
+
+### CP1586-20270127-20270127 · NSTM · Biochemistry Arena · Turno 54 en el calendario oficial · 2027-01-27–2027-01-27
+
+Fecha: 2027-01-27 — 2027-01-27
+edad: Grados escolares 4–6.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 1400 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015430&act_seq=6
+Se ha comprobado: 2026-11-07
+
+### CP1587-20270130-20270130 · NSTM · Beetle and Butterfly Specimens · Turno 55 en el calendario oficial · 2027-01-30–2027-01-30
+
+Fecha: 2027-01-30 国 2027-01-30
+edad: Grados escolares 3–7.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 2900 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015408&act_seq=5
+Se ha comprobado: 2026-11-07
+
+### CP1587-20270131-20270131 · NSTM · Beetle and Butterfly Specimens · Turno 56 en el calendario oficial · 2027-01-31–2027-01-31
+
+Fecha: 2027-01-31 ♫ 2027-01-31
+edad: Grados escolares 3–7.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 2900 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015408&act_seq=6
+Se ha comprobado: 2026-11-07
+
+### CP1588-20270121-20270123 · NSTM · Autonomous Vehicle and AI · Turno 57 en el calendario oficial · 2027-01-21–2027-01-23
+
+Fecha: 2027-01-21 — 2027-01-23
+edad: Quienes ingresan a grados 3–6. Confirmar la regla con el museo.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 3600 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Confirmar grado actual y requisito de ingreso al grado indicado. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015447&act_seq=1
+Se ha comprobado: 2026-11-07
+
+### CP1589-20270123-20270123 · NSTM · AI Drones and Robotics · Older · Turno 58 en el calendario oficial · 2027-01-23–2027-01-23
+
+Fecha: 2027-01-23 — 2027-01-23
+edad: Grados escolares 5–9.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 1900 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: El nivel es superior a la edad actual. Comprobar reglas del turno. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015448&act_seq=3
+Se ha comprobado: 2026-11-07
+
+### CP1589-20270130-20270130 · NSTM · AI Drones and Robotics · Older · Turno 60 en el calendario oficial · 2027-01-30–2027-01-30
+
+Fecha: 2027-01-30 国 2027-01-30
+edad: Grados escolares 5–9.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 1900 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: El nivel es superior a la edad actual. Comprobar reglas del turno. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015448&act_seq=4
+Se ha comprobado: 2026-11-07
+
+### CP1590-20270124-20270124 · NSTM · Robots and Drones · Younger · Turno 59 en el calendario oficial · 2027-01-24–2027-01-24
+
+Fecha: 2027-01-24 国 2027-01-24
+edad: Grados escolares 1–6.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 1900 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015448&act_seq=5
+Se ha comprobado: 2026-11-07
+
+### CP1590-20270131-20270131 · NSTM · Robots and Drones · Younger · Turno 62 en el calendario oficial · 2027-01-31–2027-01-31
+
+Fecha: 2027-01-31 ♫ 2027-01-31
+edad: Grados escolares 1–6.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 1900 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Oscar: Admisión posible por ciclo escolar. Confirmar equivalencia de grado. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015448&act_seq=6
+Se ha comprobado: 2026-11-07
+
+### CP1591-20270130-20270131 · NSTM · LEGO EV3 Coding · Turno 61 en el calendario oficial · 2027-01-30–2027-01-31
+
+Fecha: 2027-01-30 国 2027-01-31
+edad: Quienes ingresan a grados 3–6. Confirmar la regla con el museo.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+Precio: 2027 · 3200 TWD por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Confirmar grado actual y requisito de ingreso al grado indicado. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015445&act_seq=1
+Se ha comprobado: 2026-11-07
+
 ## ~ Comprobar de nuevo
 
 - The Grove: edad de ambos niños, acogida y apoyo extranjeros sin necesidad de chino.

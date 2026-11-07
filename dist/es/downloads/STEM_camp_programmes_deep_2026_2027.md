@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base a 2026-11-06. 1506 fichas en 91 países. Cada ficha indica la fecha de verificación de sus fuentes.
+Estado de la base: 2026-11-07. 1603 fichas en 91 países. Cada ficha indica las fechas de verificación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -111405,6 +111405,10262 @@ España · En línea desde Latinoamérica · operador Barcelona
 - [TechLab Kids · formato en línea e idioma español](https://academy.techlabkids.com/) · 2026-11-06
 
 - [TechLab Kids · calendario y tarifas separados del curso digital](https://academy.techlabkids.com/curso/curso-anual-programacion-y-creacion-digital/) · 2026-11-06
+
+## CP1507 · NTSEC · Early Science Lab
+
+Taiwán · National Taiwan Science Education Center · Taipei, Shilin
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grupos medio y mayor de preescolar.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Experimentos con luz, circuitos de papel e imanes.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 2400 TWD por turno. Tarifa de miembro Science Member 2100 TWD.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+**Pago:** Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+**Matvey:** Grupo para grados anteriores. Admisión según el documento escolar.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### LSTK116101
+
+**Fechas / estado:** 2027-02-01 — 2027-02-03
+
+**lugar:** National Taiwan Science Education Center · Taipei, Shilin
+
+**edad:** Grupos medio y mayor de preescolar.
+
+**Precio:** 2400 TWD por turno. Tarifa de miembro Science Member 2100 TWD.
+
+**Programa:** Experimentos con luz, circuitos de papel e imanes.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+- 2027-02-01 · 14:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-02-02 · 14:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-02-03 · 14:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** La tienda admite solicitudes. La plaza concreta requiere confirmación.
+
+**Matvey:** Grupo para grados anteriores. Admisión según el documento escolar.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+[fuente](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008181)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008181) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.ntsec.gov.tw/article/detail.aspx?a=6159) · 2026-11-07
+
+## CP1508 · NTSEC · Gigo Logic Robots
+
+Taiwán · National Taiwan Science Education Center · Taipei, Shilin
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Último grupo de preescolar o grados 1–2.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Montaje de robots educativos Gigo y código por bloques con bucles y condiciones.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 2800 TWD por turno. Tarifa de miembro Science Member 2500 TWD.
+
+**Incluido:** Robot educativo para uso en clase. El niño se lleva un juego Gigo separado.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+**Pago:** Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+**Matvey:** Grupo para grados anteriores. Admisión según el documento escolar.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### LLK116101
+
+**Fechas / estado:** 2027-01-21 — 2027-01-22
+
+**lugar:** National Taiwan Science Education Center · Taipei, Shilin
+
+**edad:** Último grupo de preescolar o grados 1–2.
+
+**Precio:** 2800 TWD por turno. Tarifa de miembro Science Member 2500 TWD.
+
+**Programa:** Montaje de robots educativos Gigo y código por bloques con bucles y condiciones.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+- 2027-01-21 · 09:30–12:30 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-01-22 · 09:30–12:30 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** La tienda admite solicitudes. La plaza concreta requiere confirmación.
+
+**Matvey:** Grupo para grados anteriores. Admisión según el documento escolar.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+[fuente](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008178)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008178) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.ntsec.gov.tw/article/detail.aspx?a=6159) · 2026-11-07
+
+## CP1509 · NTSEC · Artec Beginner Robotics
+
+Taiwán · National Taiwan Science Education Center · Taipei, Shilin
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Último grupo de preescolar o grados 1–2.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Piezas Artec, motores, sensores y lógica visual.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 6500 TWD por turno. Tarifa de miembro Science Member 6300 TWD.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+**Pago:** Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+**Matvey:** Grupo para grados anteriores. Admisión según el documento escolar.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### LPRE116301
+
+**Fechas / estado:** 2027-02-01 — 2027-02-03
+
+**lugar:** National Taiwan Science Education Center · Taipei, Shilin
+
+**edad:** Último grupo de preescolar o grados 1–2.
+
+**Precio:** 6500 TWD por turno. Tarifa de miembro Science Member 6300 TWD.
+
+**Programa:** Piezas Artec, motores, sensores y lógica visual.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+- 2027-02-01 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-02-02 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-02-03 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** La tienda admite solicitudes. La plaza concreta requiere confirmación.
+
+**Matvey:** Grupo para grados anteriores. Admisión según el documento escolar.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+[fuente](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008165)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008165) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.ntsec.gov.tw/article/detail.aspx?a=6159) · 2026-11-07
+
+## CP1510 · NTSEC · Little Explorers Lab
+
+Taiwán · National Taiwan Science Education Center · Taipei, Shilin
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Último grupo de preescolar o grados 1–2.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Retos narrativos sobre agua, enfriamiento y hielo.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 1800 TWD por turno. Tarifa de miembro Science Member 1620 TWD.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+**Pago:** Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+**Matvey:** Grupo para grados anteriores. Admisión según el documento escolar.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### LEK116101
+
+**Fechas / estado:** 2027-02-03 — 2027-02-03
+
+**lugar:** National Taiwan Science Education Center · Taipei, Shilin
+
+**edad:** Último grupo de preescolar o grados 1–2.
+
+**Precio:** 1800 TWD por turno. Tarifa de miembro Science Member 1620 TWD.
+
+**Programa:** Retos narrativos sobre agua, enfriamiento y hielo.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+- 2027-02-03 · 09:30–16:30 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** La tienda admite solicitudes. La plaza concreta requiere confirmación.
+
+**Matvey:** Grupo para grados anteriores. Admisión según el documento escolar.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+[fuente](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008176)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008176) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.ntsec.gov.tw/article/detail.aspx?a=6159) · 2026-11-07
+
+## CP1511 · NTSEC · Slime Science
+
+Taiwán · National Taiwan Science Education Center · Taipei, Shilin
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 1–2 de primaria.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Experimentos físicos y químicos con materiales.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 7776 TWD por turno. Tarifa de miembro Science Member 7776 TWD.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+**Pago:** Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+**Matvey:** Grupo para grados anteriores. Admisión según el documento escolar.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### LGL115301
+
+**Fechas / estado:** 2027-02-01 — 2027-02-03
+
+**lugar:** National Taiwan Science Education Center · Taipei, Shilin
+
+**edad:** 1–2 de primaria.
+
+**Precio:** 7776 TWD por turno. Tarifa de miembro Science Member 7776 TWD.
+
+**Programa:** Experimentos físicos y químicos con materiales.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+- 2027-02-01 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-02-02 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-02-03 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** La tienda admite solicitudes. La plaza concreta requiere confirmación.
+
+**Matvey:** Grupo para grados anteriores. Admisión según el documento escolar.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+[fuente](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008139)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008139) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.ntsec.gov.tw/article/detail.aspx?a=6159) · 2026-11-07
+
+## CP1512 · NTSEC · Gigo Castle Engineering
+
+Taiwán · National Taiwan Science Education Center · Taipei, Shilin
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 1–4 de primaria.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Modelos de mecanismos de palanca y experimentos de física.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 2800 TWD por turno. Tarifa de miembro Science Member 2500 TWD.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+**Pago:** Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### LLE116101
+
+**Fechas / estado:** 2027-01-21 — 2027-01-22
+
+**lugar:** National Taiwan Science Education Center · Taipei, Shilin
+
+**edad:** 1–4 de primaria.
+
+**Precio:** 2800 TWD por turno. Tarifa de miembro Science Member 2500 TWD.
+
+**Programa:** Modelos de mecanismos de palanca y experimentos de física.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+- 2027-01-21 · 13:30–16:30 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-01-22 · 13:30–16:30 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** La tienda admite solicitudes. La plaza concreta requiere confirmación.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+[fuente](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008179)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008179) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.ntsec.gov.tw/article/detail.aspx?a=6159) · 2026-11-07
+
+## CP1513 · NTSEC · Night Market Science
+
+Taiwán · National Taiwan Science Education Center · Taipei, Shilin
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 1–4 de primaria.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Mecánica de juguetes y juegos de mercado mediante montaje y pruebas. Calendario indica LVJ116301 y ficha de tienda LVE116301. Coinciden título, fechas y tarifa.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 6000 TWD por turno. Tarifa de miembro Science Member 5800 TWD.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+**Pago:** Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### LVJ116301
+
+**Fechas / estado:** 2027-02-01 — 2027-02-03
+
+**lugar:** National Taiwan Science Education Center · Taipei, Shilin
+
+**edad:** 1–4 de primaria.
+
+**Precio:** 6000 TWD por turno. Tarifa de miembro Science Member 5800 TWD.
+
+**Programa:** Mecánica de juguetes y juegos de mercado mediante montaje y pruebas. Calendario indica LVJ116301 y ficha de tienda LVE116301. Coinciden título, fechas y tarifa.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+- 2027-02-01 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-02-02 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-02-03 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** La tienda admite solicitudes. La plaza concreta requiere confirmación.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+[fuente](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008166)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008166) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.ntsec.gov.tw/article/detail.aspx?a=6159) · 2026-11-07
+
+## CP1514 · NTSEC · Insect Tools Lab
+
+Taiwán · National Taiwan Science Education Center · Taipei, Shilin
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 1–4 de primaria.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Observación de insectos y fabricación de herramientas de investigación.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 6000 TWD por turno. Tarifa de miembro Science Member 5800 TWD.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+**Pago:** Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### LKE116301
+
+**Fechas / estado:** 2027-02-01 — 2027-02-03
+
+**lugar:** National Taiwan Science Education Center · Taipei, Shilin
+
+**edad:** 1–4 de primaria.
+
+**Precio:** 6000 TWD por turno. Tarifa de miembro Science Member 5800 TWD.
+
+**Programa:** Observación de insectos y fabricación de herramientas de investigación.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+- 2027-02-01 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-02-02 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-02-03 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** La tienda admite solicitudes. La plaza concreta requiere confirmación.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+[fuente](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008167)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008167) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.ntsec.gov.tw/article/detail.aspx?a=6159) · 2026-11-07
+
+## CP1515 · NTSEC · Board Games and Maths
+
+Taiwán · National Taiwan Science Education Center · Taipei, Shilin
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 1–4 de primaria.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Juegos de mesa para estrategias matemáticas y manejo de números.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 1800 TWD por turno. Tarifa de miembro Science Member 1620 TWD.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+**Pago:** Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### LEE116101
+
+**Fechas / estado:** 2027-02-01 — 2027-02-01
+
+**lugar:** National Taiwan Science Education Center · Taipei, Shilin
+
+**edad:** 1–4 de primaria.
+
+**Precio:** 1800 TWD por turno. Tarifa de miembro Science Member 1620 TWD.
+
+**Programa:** Juegos de mesa para estrategias matemáticas y manejo de números.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+- 2027-02-01 · 09:30–16:30 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** La tienda admite solicitudes. La plaza concreta requiere confirmación.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+[fuente](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008174)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008174) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.ntsec.gov.tw/article/detail.aspx?a=6159) · 2026-11-07
+
+## CP1516 · NTSEC · Zoo Science
+
+Taiwán · National Taiwan Science Education Center · Taipei, Shilin
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 1–6 de primaria.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Primer día en el museo. Segundo día con salida al zoológico y programa alternativo por lluvia.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 4500 TWD por turno. Tarifa de miembro Science Member 4400 TWD.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+**Pago:** Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### LCE116301
+
+**Fechas / estado:** 2027-01-21 — 2027-01-22
+
+**lugar:** National Taiwan Science Education Center · Taipei, Shilin
+
+**edad:** 1–6 de primaria.
+
+**Precio:** 4500 TWD por turno. Tarifa de miembro Science Member 4400 TWD.
+
+**Programa:** Primer día en el museo. Segundo día con salida al zoológico y programa alternativo por lluvia.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+- 2027-01-21 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-01-22 · – ·  · Salida al zoológico. La hora de regreso depende del viaje.
+
+**Disponibilidad de plazas:** La tienda marca grupo completo. Confirmar lista de espera o plazas liberadas.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+[fuente](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008164)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008164) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.ntsec.gov.tw/article/detail.aspx?a=6159) · 2026-11-07
+
+## CP1517 · NTSEC · Bubble Science Academy
+
+Taiwán · National Taiwan Science Education Center · Taipei, Shilin
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 1–6 de primaria.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Experimentos con burbujas y sus propiedades físicas.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 2800 TWD por turno. Tarifa de miembro Science Member 2520 TWD.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+**Pago:** Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### LVE116101
+
+**Fechas / estado:** 2027-01-21 — 2027-01-22
+
+**lugar:** National Taiwan Science Education Center · Taipei, Shilin
+
+**edad:** 1–6 de primaria.
+
+**Precio:** 2800 TWD por turno. Tarifa de miembro Science Member 2520 TWD.
+
+**Programa:** Experimentos con burbujas y sus propiedades físicas.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+- 2027-01-21 · 13:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-01-22 · 13:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** La tienda admite solicitudes. La plaza concreta requiere confirmación.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+[fuente](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008168)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008168) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.ntsec.gov.tw/article/detail.aspx?a=6159) · 2026-11-07
+
+## CP1518 · NTSEC · Interstellar STEAM
+
+Taiwán · National Taiwan Science Education Center · Taipei, Shilin
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 1–6 de primaria.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Retos de ingeniería y experimentos de ciencias con temática espacial.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 4000 TWD por turno. Tarifa de miembro Science Member 4000 TWD.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+**Pago:** Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### LGE116101
+
+**Fechas / estado:** 2027-02-01 — 2027-02-03
+
+**lugar:** National Taiwan Science Education Center · Taipei, Shilin
+
+**edad:** 1–6 de primaria.
+
+**Precio:** 4000 TWD por turno. Tarifa de miembro Science Member 4000 TWD.
+
+**Programa:** Retos de ingeniería y experimentos de ciencias con temática espacial.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+- 2027-02-01 · 09:00–12:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-02-02 · 09:00–12:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-02-03 · 09:00–12:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** La tienda admite solicitudes. La plaza concreta requiere confirmación.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+[fuente](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008169)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008169) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.ntsec.gov.tw/article/detail.aspx?a=6159) · 2026-11-07
+
+## CP1519 · NTSEC · Young Chinese Medicine Explorer
+
+Taiwán · National Taiwan Science Education Center · Taipei, Shilin
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 3–4 de primaria.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Actividades educativas sobre historia y prácticas de medicina tradicional china.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 7200 TWD por turno. Tarifa de miembro Science Member 7000 TWD.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+**Pago:** Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### LGC115301
+
+**Fechas / estado:** 2027-02-01 — 2027-02-03
+
+**lugar:** National Taiwan Science Education Center · Taipei, Shilin
+
+**edad:** 3–4 de primaria.
+
+**Precio:** 7200 TWD por turno. Tarifa de miembro Science Member 7000 TWD.
+
+**Programa:** Actividades educativas sobre historia y prácticas de medicina tradicional china.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+- 2027-02-01 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-02-02 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-02-03 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** La tienda admite solicitudes. La plaza concreta requiere confirmación.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008141)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008141) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.ntsec.gov.tw/article/detail.aspx?a=6159) · 2026-11-07
+
+## CP1520 · NTSEC · AI Animation
+
+Taiwán · National Taiwan Science Education Center · Taipei, Shilin
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 3–6 de primaria.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Guion, imágenes, sonido y montaje de animación con herramientas de IA y Canva.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 3000 TWD por turno. Tarifa de miembro Science Member 2700 TWD.
+
+**Incluido:** La ficha publicada incluye almuerzo.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+**Pago:** Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### LJC116101
+
+**Fechas / estado:** 2027-01-21 — 2027-01-22
+
+**lugar:** National Taiwan Science Education Center · Taipei, Shilin
+
+**edad:** 3–6 de primaria.
+
+**Precio:** 3000 TWD por turno. Tarifa de miembro Science Member 2700 TWD.
+
+**Programa:** Guion, imágenes, sonido y montaje de animación con herramientas de IA y Canva.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+- 2027-01-21 · 09:30–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-01-22 · 09:30–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** La tienda admite solicitudes. La plaza concreta requiere confirmación.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008159)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008159) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.ntsec.gov.tw/article/detail.aspx?a=6159) · 2026-11-07
+
+## CP1521 · NTSEC · Disaster Preparedness Lab
+
+Taiwán · National Taiwan Science Education Center · Taipei, Shilin
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 3–6 de primaria.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Retos prácticos de preparación para emergencias.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 3900 TWD por turno. Tarifa de miembro Science Member 3510 TWD.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+**Pago:** Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### LVC116101
+
+**Fechas / estado:** 2027-01-21 — 2027-01-22
+
+**lugar:** National Taiwan Science Education Center · Taipei, Shilin
+
+**edad:** 3–6 de primaria.
+
+**Precio:** 3900 TWD por turno. Tarifa de miembro Science Member 3510 TWD.
+
+**Programa:** Retos prácticos de preparación para emergencias.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+- 2027-01-21 · 09:30–16:30 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-01-22 · 09:30–16:30 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** La tienda admite solicitudes. La plaza concreta requiere confirmación.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008160)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008160) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.ntsec.gov.tw/article/detail.aspx?a=6159) · 2026-11-07
+
+## CP1522 · NTSEC · Pokémon Nature Lab
+
+Taiwán · National Taiwan Science Education Center · Taipei, Shilin
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Prioridad para grados 3–6. Grados 1–2 solo si hay plazas.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Exploración de naturaleza con retos sobre Pokémon. Prioridad para el grupo mayor.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 3900 TWD por turno. Tarifa de miembro Science Member 3510 TWD.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+**Pago:** Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** Si cursa 1–2, admisión según plazas tras prioridad de 3–6.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### LVC116102
+
+**Fechas / estado:** 2027-01-21 — 2027-01-22
+
+**lugar:** National Taiwan Science Education Center · Taipei, Shilin
+
+**edad:** Prioridad para grados 3–6. Grados 1–2 solo si hay plazas.
+
+**Precio:** 3900 TWD por turno. Tarifa de miembro Science Member 3510 TWD.
+
+**Programa:** Exploración de naturaleza con retos sobre Pokémon. Prioridad para el grupo mayor.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+- 2027-01-21 · 09:30–16:30 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-01-22 · 09:30–16:30 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** La tienda admite solicitudes. La plaza concreta requiere confirmación.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** Si cursa 1–2, admisión según plazas tras prioridad de 3–6.
+
+[fuente](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008161)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008161) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.ntsec.gov.tw/article/detail.aspx?a=6159) · 2026-11-07
+
+## CP1523 · NTSEC · AI Game Development
+
+Taiwán · National Taiwan Science Education Center · Taipei, Shilin
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 3–6 de primaria.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Creación de juego inspirado en Plants vs. Zombies con ayuda de IA.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 4500 TWD por turno. Tarifa de miembro Science Member 4050 TWD.
+
+**Incluido:** La ficha publicada incluye almuerzo.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+**Pago:** Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### LJC116102
+
+**Fechas / estado:** 2027-02-01 — 2027-02-03
+
+**lugar:** National Taiwan Science Education Center · Taipei, Shilin
+
+**edad:** 3–6 de primaria.
+
+**Precio:** 4500 TWD por turno. Tarifa de miembro Science Member 4050 TWD.
+
+**Programa:** Creación de juego inspirado en Plants vs. Zombies con ayuda de IA.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+- 2027-02-01 · 09:30–16:30 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-02-02 · 09:30–16:30 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-02-03 · 09:30–16:30 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** La tienda admite solicitudes. La plaza concreta requiere confirmación.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008173)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008173) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.ntsec.gov.tw/article/detail.aspx?a=6159) · 2026-11-07
+
+## CP1524 · NTSEC · Taipei Science and Arts Adventure
+
+Taiwán · National Taiwan Science Education Center · Taipei, Shilin
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 3–6 de primaria.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Actividades de museo y retos en sedes vecinas con docente.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 5500 TWD por turno. Tarifa de miembro Science Member 4950 TWD.
+
+**Incluido:** La ficha publicada incluye almuerzo.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+**Pago:** Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### LGH116102
+
+**Fechas / estado:** 2027-02-01 — 2027-02-03
+
+**lugar:** National Taiwan Science Education Center · Taipei, Shilin
+
+**edad:** 3–6 de primaria.
+
+**Precio:** 5500 TWD por turno. Tarifa de miembro Science Member 4950 TWD.
+
+**Programa:** Actividades de museo y retos en sedes vecinas con docente.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+- 2027-02-01 · 09:30–16:30 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-02-02 · 09:30–16:30 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-02-03 · 09:30–16:30 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** La tienda admite solicitudes. La plaza concreta requiere confirmación.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008171)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008171) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.ntsec.gov.tw/article/detail.aspx?a=6159) · 2026-11-07
+
+## CP1525 · NTSEC · AI Maker Mining Lab
+
+Taiwán · National Taiwan Science Education Center · Taipei, Shilin
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 3–6 de primaria.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Retos con temática de minería, herramientas digitales y práctica de IA.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 7400 TWD por turno. Tarifa de miembro Science Member 7200 TWD.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+**Pago:** Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### LIC115301
+
+**Fechas / estado:** 2027-02-01 — 2027-02-03
+
+**lugar:** National Taiwan Science Education Center · Taipei, Shilin
+
+**edad:** 3–6 de primaria.
+
+**Precio:** 7400 TWD por turno. Tarifa de miembro Science Member 7200 TWD.
+
+**Programa:** Retos con temática de minería, herramientas digitales y práctica de IA.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+- 2027-02-01 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-02-02 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-02-03 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** La tienda admite solicitudes. La plaza concreta requiere confirmación.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008137)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008137) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.ntsec.gov.tw/article/detail.aspx?a=6159) · 2026-11-07
+
+## CP1526 · NTSEC · Build a Quadcopter A
+
+Taiwán · National Taiwan Science Education Center · Taipei, Shilin
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Desde 3 de primaria hasta grado 12.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Montaje, revisión y vuelo de prueba de cuadricóptero. El curso incluye 1 aparato.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 8800 TWD por turno. Tarifa de miembro Science Member 8800 TWD.
+
+**Incluido:** La tarifa indicada incluye 1 dron.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+**Pago:** Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### LGE116102
+
+**Fechas / estado:** 2027-01-31 — 2027-02-02
+
+**lugar:** National Taiwan Science Education Center · Taipei, Shilin
+
+**edad:** Desde 3 de primaria hasta grado 12.
+
+**Precio:** 8800 TWD por turno. Tarifa de miembro Science Member 8800 TWD.
+
+**Programa:** Montaje, revisión y vuelo de prueba de cuadricóptero. El curso incluye 1 aparato.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+- 2027-01-31 · 09:30–16:30 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-02-01 · 09:30–16:30 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-02-02 · 09:30–16:30 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** La tienda admite solicitudes. La plaza concreta requiere confirmación.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008170)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008170) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.ntsec.gov.tw/article/detail.aspx?a=6159) · 2026-11-07
+
+## CP1527 · NTSEC · Drone Soccer A
+
+Taiwán · National Taiwan Science Education Center · Taipei, Shilin
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Desde 3 de primaria hasta grado 12.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Práctica de manejo de dron para fútbol. El curso incluye 1 aparato.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 8800 TWD por turno. Tarifa de miembro Science Member 8800 TWD.
+
+**Incluido:** La tarifa indicada incluye 1 dron.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+**Pago:** Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### LGH116101
+
+**Fechas / estado:** 2027-02-01 — 2027-02-03
+
+**lugar:** National Taiwan Science Education Center · Taipei, Shilin
+
+**edad:** Desde 3 de primaria hasta grado 12.
+
+**Precio:** 8800 TWD por turno. Tarifa de miembro Science Member 8800 TWD.
+
+**Programa:** Práctica de manejo de dron para fútbol. El curso incluye 1 aparato.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+- 2027-02-01 · 09:30–16:30 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-02-02 · 09:30–16:30 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-02-03 · 09:30–16:30 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** La tienda admite solicitudes. La plaza concreta requiere confirmación.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008162)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008162) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.ntsec.gov.tw/article/detail.aspx?a=6159) · 2026-11-07
+
+## CP1528 · NTSEC · Build a Claw Machine
+
+Taiwán · National Taiwan Science Education Center · Taipei, Shilin
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Desde 4 de primaria hasta grado 12.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Diseño y montaje de máquina de juego con garra.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 4600 TWD por turno. Tarifa de miembro Science Member 4500 TWD.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+**Pago:** Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### LGC116301
+
+**Fechas / estado:** 2027-01-21 — 2027-01-22
+
+**lugar:** National Taiwan Science Education Center · Taipei, Shilin
+
+**edad:** Desde 4 de primaria hasta grado 12.
+
+**Precio:** 4600 TWD por turno. Tarifa de miembro Science Member 4500 TWD.
+
+**Programa:** Diseño y montaje de máquina de juego con garra.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+- 2027-01-21 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-01-22 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** La tienda admite solicitudes. La plaza concreta requiere confirmación.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008163)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008163) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.ntsec.gov.tw/article/detail.aspx?a=6159) · 2026-11-07
+
+## CP1529 · NTSEC · Gigo micro:bit Robots
+
+Taiwán · National Taiwan Science Education Center · Taipei, Shilin
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 4–6 de primaria.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Construcción Gigo y control de robot con micro:bit.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 4000 TWD por turno. Tarifa de miembro Science Member 3600 TWD.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+**Pago:** Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### LLH116101
+
+**Fechas / estado:** 2027-02-01 — 2027-02-03
+
+**lugar:** National Taiwan Science Education Center · Taipei, Shilin
+
+**edad:** 4–6 de primaria.
+
+**Precio:** 4000 TWD por turno. Tarifa de miembro Science Member 3600 TWD.
+
+**Programa:** Construcción Gigo y control de robot con micro:bit.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+- 2027-02-01 · 09:30–16:30 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-02-02 · 09:30–16:30 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-02-03 · 09:30–16:30 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** La tienda admite solicitudes. La plaza concreta requiere confirmación.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008180)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008180) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.ntsec.gov.tw/article/detail.aspx?a=6159) · 2026-11-07
+
+## CP1530 · NTSEC · Biology Specimen Workshop
+
+Taiwán · National Taiwan Science Education Center · Taipei, Shilin
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Desde 5 de primaria hasta adultos.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Taller de laboratorio sobre preparación de espécimen biológico educativo.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 4500 TWD por turno. Tarifa de miembro Science Member 4050 TWD.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+**Pago:** Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+**Matvey:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### LFXX116101
+
+**Fechas / estado:** 2027-02-01 — 2027-02-03
+
+**lugar:** National Taiwan Science Education Center · Taipei, Shilin
+
+**edad:** Desde 5 de primaria hasta adultos.
+
+**Precio:** 4500 TWD por turno. Tarifa de miembro Science Member 4050 TWD.
+
+**Programa:** Taller de laboratorio sobre preparación de espécimen biológico educativo.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+- 2027-02-01 · 09:30–16:30 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-02-02 · 09:30–16:30 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-02-03 · 09:30–16:30 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** La tienda admite solicitudes. La plaza concreta requiere confirmación.
+
+**Matvey:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008172)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008172) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.ntsec.gov.tw/article/detail.aspx?a=6159) · 2026-11-07
+
+## CP1531 · NTSEC · FPV Flight Training
+
+Taiwán · National Taiwan Science Education Center · Taipei, Shilin
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Desde grado 5 hasta 8.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Práctica de control de dron con vista en primera persona.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 8800 TWD por turno. Tarifa de miembro Science Member 8800 TWD.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+**Pago:** Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+**Matvey:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### LGXX116101
+
+**Fechas / estado:** 2027-01-21 — 2027-01-22
+
+**lugar:** National Taiwan Science Education Center · Taipei, Shilin
+
+**edad:** Desde grado 5 hasta 8.
+
+**Precio:** 8800 TWD por turno. Tarifa de miembro Science Member 8800 TWD.
+
+**Programa:** Práctica de control de dron con vista en primera persona.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+- 2027-01-21 · 09:30–16:30 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-01-22 · 09:30–16:30 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** La tienda admite solicitudes. La plaza concreta requiere confirmación.
+
+**Matvey:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008158)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008158) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.ntsec.gov.tw/article/detail.aspx?a=6159) · 2026-11-07
+
+## CP1532 · NTSEC · Finance and Economic Strategy
+
+Taiwán · National Taiwan Science Education Center · Taipei, Shilin
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Desde grado 5 hasta 9.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Retos lúdicos de educación financiera y estrategia económica.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 1800 TWD por turno. Tarifa de miembro Science Member 1620 TWD.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+**Pago:** Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+**Matvey:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### LEXX116102
+
+**Fechas / estado:** 2027-02-02 — 2027-02-02
+
+**lugar:** National Taiwan Science Education Center · Taipei, Shilin
+
+**edad:** Desde grado 5 hasta 9.
+
+**Precio:** 1800 TWD por turno. Tarifa de miembro Science Member 1620 TWD.
+
+**Programa:** Retos lúdicos de educación financiera y estrategia económica.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+- 2027-02-02 · 09:30–16:30 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** La tienda admite solicitudes. La plaza concreta requiere confirmación.
+
+**Matvey:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008175)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008175) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.ntsec.gov.tw/article/detail.aspx?a=6159) · 2026-11-07
+
+## CP1533 · NTSEC · Semiconductors and Electronic Games
+
+Taiwán · National Taiwan Science Education Center · Taipei, Shilin
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Desde grado 5 hasta 9.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Montaje de circuito electrónico para ruleta de juego.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 3600 TWD por turno. Tarifa de miembro Science Member 3240 TWD.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+**Pago:** Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+**Matvey:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### LLXX116101
+
+**Fechas / estado:** 2027-02-09 — 2027-02-10
+
+**lugar:** National Taiwan Science Education Center · Taipei, Shilin
+
+**edad:** Desde grado 5 hasta 9.
+
+**Precio:** 3600 TWD por turno. Tarifa de miembro Science Member 3240 TWD.
+
+**Programa:** Montaje de circuito electrónico para ruleta de juego.
+
+**Suplementos:** La entrada a exposición permanente se compra aparte cuando lo indica la ficha del curso.
+
+- 2027-02-09 · 10:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-02-10 · 10:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** La tienda admite solicitudes. La plaza concreta requiere confirmación.
+
+**Matvey:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008177)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008177) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.ntsec.gov.tw/article/detail.aspx?a=6159) · 2026-11-07
+
+## CP1534 · NSTM · Animal Care Science
+
+Taiwán · Kaohsiung · Yanchao Animal Care Park
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 4–6.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Cuidado de animales en sede externa.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 1800 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 1 en el calendario oficial
+
+**Fechas / estado:** 2027-01-22 — 2027-01-22
+
+**lugar:** Kaohsiung · Yanchao Animal Care Park
+
+**edad:** Grados escolares 4–6.
+
+**Precio:** 1800 TWD por turno.
+
+**Programa:** Cuidado de animales en sede externa.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-22 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015430&act_seq=3)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015430&act_seq=3) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1535 · NSTM · Science and Art
+
+Taiwán · National Science and Technology Museum · Kaohsiung · North Wing · 3F science classroom
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 3–6.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Experimentos científicos y actividades creativas.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 2800 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 2 en el calendario oficial
+
+**Fechas / estado:** 2027-01-24 — 2027-01-25
+
+**lugar:** National Science and Technology Museum · Kaohsiung · North Wing · 3F science classroom
+
+**edad:** Grados escolares 3–6.
+
+**Precio:** 2800 TWD por turno.
+
+**Programa:** Experimentos científicos y actividades creativas.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-24 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-01-25 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015416&act_seq=2)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015416&act_seq=2) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1536 · NSTM · Underwater ROV and Acoustics
+
+Taiwán · Kaohsiung · Taiwan Sailing School · Shaochuantou, Gushan
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Desde grado 7, incluidos adultos. El calendario indica secundaria básica y la ficha admite adultos expresamente.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Control de robot submarino, navegación con carta y grabación de sonidos portuarios. Se requieren al menos 6 participantes.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 2800 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 3 en el calendario oficial
+
+**Fechas / estado:** 2027-01-25 — 2027-01-25
+
+**lugar:** Kaohsiung · Taiwan Sailing School · Shaochuantou, Gushan
+
+**edad:** Desde grado 7, incluidos adultos. El calendario indica secundaria básica y la ficha admite adultos expresamente.
+
+**Precio:** 2800 TWD por turno.
+
+**Programa:** Control de robot submarino, navegación con carta y grabación de sonidos portuarios. Se requieren al menos 6 participantes.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-25 · 10:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015408&act_seq=1)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015408&act_seq=1) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1537 · NSTM · Railways and Pineapple Science
+
+Taiwán · Kaohsiung · Jiuqu Elementary School / pineapple factory · Dashu
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 3–6.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Salida a escuela y fábrica de piña con actividades científicas.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 1400 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 4 en el calendario oficial
+
+**Fechas / estado:** 2027-01-27 — 2027-01-27
+
+**lugar:** Kaohsiung · Jiuqu Elementary School / pineapple factory · Dashu
+
+**edad:** Grados escolares 3–6.
+
+**Precio:** 1400 TWD por turno.
+
+**Programa:** Salida a escuela y fábrica de piña con actividades científicas.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-27 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015417&act_seq=1)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015417&act_seq=1) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1538 · NSTM · Kitchen Science in English
+
+Taiwán · National Science and Technology Museum · Kaohsiung · North Wing · science of cooking
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 3–9.
+
+**Idioma:** El organizador identifica este turno como íntegramente en inglés.
+
+**Programa:** Experimentos culinarios con levadura y polvo de hornear. Sin menú especial ni sustitución de ingredientes.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 5520 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 5 en el calendario oficial
+
+**Fechas / estado:** 2027-01-25 — 2027-01-26
+
+**lugar:** National Science and Technology Museum · Kaohsiung · North Wing · science of cooking
+
+**edad:** Grados escolares 3–9.
+
+**Precio:** 5520 TWD por turno.
+
+**Programa:** Experimentos culinarios con levadura y polvo de hornear. Sin menú especial ni sustitución de ingredientes.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-25 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-01-26 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015425&act_seq=1)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015425&act_seq=1) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1539 · NSTM · Forces and Airflow
+
+Taiwán · National Science and Technology Museum · Kaohsiung · North Wing · 3F science classroom
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 1–2.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Experimentos con fuerzas y movimiento del aire.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 1400 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Grupo para grados anteriores. Admisión según el documento escolar.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 6 en el calendario oficial
+
+**Fechas / estado:** 2027-01-23 — 2027-01-23
+
+**lugar:** National Science and Technology Museum · Kaohsiung · North Wing · 3F science classroom
+
+**edad:** Grados escolares 1–2.
+
+**Precio:** 1400 TWD por turno.
+
+**Programa:** Experimentos con fuerzas y movimiento del aire.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-23 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Grupo para grados anteriores. Admisión según el documento escolar.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015415&act_seq=1)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015415&act_seq=1) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1540 · NSTM · Pokémon Mezastar Coding
+
+Taiwán · National Science and Technology Museum · Kaohsiung · South Wing · programming classroom
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Último grupo de preescolar hasta grado 2.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Retos de programación con temática Pokémon Mezastar.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 3000 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Grupo para grados anteriores. Admisión según el documento escolar.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 7 en el calendario oficial
+
+**Fechas / estado:** 2027-01-23 — 2027-01-24
+
+**lugar:** National Science and Technology Museum · Kaohsiung · South Wing · programming classroom
+
+**edad:** Último grupo de preescolar hasta grado 2.
+
+**Precio:** 3000 TWD por turno.
+
+**Programa:** Retos de programación con temática Pokémon Mezastar.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-23 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-01-24 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Grupo para grados anteriores. Admisión según el documento escolar.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015442&act_seq=1)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015442&act_seq=1) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1541 · NSTM · Chemistry Through Stories
+
+Taiwán · National Science and Technology Museum · Kaohsiung · North Wing · 4F biotechnology classroom
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 1–3.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Experimentos de química con historias de libros ilustrados.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 4500 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 8 en el calendario oficial
+
+**Fechas / estado:** 2027-02-01 — 2027-02-03
+
+**lugar:** National Science and Technology Museum · Kaohsiung · North Wing · 4F biotechnology classroom
+
+**edad:** Grados escolares 1–3.
+
+**Precio:** 4500 TWD por turno.
+
+**Programa:** Experimentos de química con historias de libros ilustrados.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-02-01 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-02-02 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-02-03 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015411&act_seq=3)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015411&act_seq=3) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1542 · NSTM · Little Fox AR Storybook
+
+Taiwán · National Science and Technology Museum · Kaohsiung · North Wing · 3F science classroom
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Último grupo de preescolar hasta grado 1.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Realidad aumentada, creación y grabación de historias. Incluye kit didáctico AR.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 1800 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables. Incluye kit de historia AR.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Grupo para grados anteriores. Admisión según el documento escolar.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 9 en el calendario oficial
+
+**Fechas / estado:** 2027-02-02 — 2027-02-02
+
+**lugar:** National Science and Technology Museum · Kaohsiung · North Wing · 3F science classroom
+
+**edad:** Último grupo de preescolar hasta grado 1.
+
+**Precio:** 1800 TWD por turno.
+
+**Programa:** Realidad aumentada, creación y grabación de historias. Incluye kit didáctico AR.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-02-02 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Grupo para grados anteriores. Admisión según el documento escolar.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015434&act_seq=1)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015434&act_seq=1) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1543 · NSTM · Air Transport Building Blocks
+
+Taiwán · National Science and Technology Museum · Kaohsiung · North Wing · 5F science classroom
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 2–3.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Montaje de modelos de transporte con bloques.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 1850 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 10 en el calendario oficial
+
+**Fechas / estado:** 2027-01-24 — 2027-01-24
+
+**lugar:** National Science and Technology Museum · Kaohsiung · North Wing · 5F science classroom
+
+**edad:** Grados escolares 2–3.
+
+**Precio:** 1850 TWD por turno.
+
+**Programa:** Montaje de modelos de transporte con bloques.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-24 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015418&act_seq=1)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015418&act_seq=1) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1544 · NSTM · Dinosaur Maze Blocks
+
+Taiwán · National Science and Technology Museum · Kaohsiung · North Wing · 1F media classroom
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 2–3.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Construcción de laberinto y retos de movimiento del modelo.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 1850 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 11 en el calendario oficial
+
+**Fechas / estado:** 2027-01-25 — 2027-01-25
+
+**lugar:** National Science and Technology Museum · Kaohsiung · North Wing · 1F media classroom
+
+**edad:** Grados escolares 2–3.
+
+**Precio:** 1850 TWD por turno.
+
+**Programa:** Construcción de laberinto y retos de movimiento del modelo.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-25 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015419&act_seq=1)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015419&act_seq=1) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1545 · NSTM · Hero Rescue Maze
+
+Taiwán · National Science and Technology Museum · Kaohsiung · North Wing · 1F media classroom
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 2–3.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Construcción y resolución de laberinto.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 1850 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 12 en el calendario oficial
+
+**Fechas / estado:** 2027-01-26 — 2027-01-26
+
+**lugar:** National Science and Technology Museum · Kaohsiung · North Wing · 1F media classroom
+
+**edad:** Grados escolares 2–3.
+
+**Precio:** 1850 TWD por turno.
+
+**Programa:** Construcción y resolución de laberinto.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-26 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015420&act_seq=1)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015420&act_seq=1) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1546 · NSTM · LEGO SPM Mechanical Design
+
+Taiwán · National Science and Technology Museum · Kaohsiung · South Wing · robotics classroom
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Quienes ingresan a grados 3–6. Confirmar la regla con el museo.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Construcción y prueba de modelos mecánicos LEGO SPM.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 1400 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Confirmar grado actual y requisito de ingreso al grado indicado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 13 en el calendario oficial
+
+**Fechas / estado:** 2027-01-27 — 2027-01-27
+
+**lugar:** National Science and Technology Museum · Kaohsiung · South Wing · robotics classroom
+
+**edad:** Quienes ingresan a grados 3–6. Confirmar la regla con el museo.
+
+**Precio:** 1400 TWD por turno.
+
+**Programa:** Construcción y prueba de modelos mecánicos LEGO SPM.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-27 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Confirmar grado actual y requisito de ingreso al grado indicado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015444&act_seq=1)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015444&act_seq=1) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1547 · NSTM · Polar Explorer Blocks
+
+Taiwán · National Science and Technology Museum · Kaohsiung · South Wing · S203
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 2–4.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Montaje de modelos con temática de expedición polar.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 1850 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 14 en el calendario oficial
+
+**Fechas / estado:** 2027-01-30 — 2027-01-30
+
+**lugar:** National Science and Technology Museum · Kaohsiung · South Wing · S203
+
+**edad:** Grados escolares 2–4.
+
+**Precio:** 1850 TWD por turno.
+
+**Programa:** Montaje de modelos con temática de expedición polar.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-30 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015421&act_seq=1)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015421&act_seq=1) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1548 · NSTM · Rescue Mission Blocks
+
+Taiwán · National Science and Technology Museum · Kaohsiung · South Wing · S203
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 2–4.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Montaje de modelos y retos de misión de rescate.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 1850 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 15 en el calendario oficial
+
+**Fechas / estado:** 2027-01-31 — 2027-01-31
+
+**lugar:** National Science and Technology Museum · Kaohsiung · South Wing · S203
+
+**edad:** Grados escolares 2–4.
+
+**Precio:** 1850 TWD por turno.
+
+**Programa:** Montaje de modelos y retos de misión de rescate.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-31 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015422&act_seq=1)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015422&act_seq=1) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1549 · NSTM · Apitor AI Technology Mission
+
+Taiwán · National Science and Technology Museum · Kaohsiung · South Wing · robotics classroom
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Quienes ingresan a grados 3–6. Confirmar la regla con el museo.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Montaje y programación por bloques de Apitor. Kit para llevar a casa. Tableta disponible si hace falta.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 6850 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables. Incluye kit Apitor para llevar a casa.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Confirmar grado actual y requisito de ingreso al grado indicado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 16 en el calendario oficial
+
+**Fechas / estado:** 2027-02-01 — 2027-02-02
+
+**lugar:** National Science and Technology Museum · Kaohsiung · South Wing · robotics classroom
+
+**edad:** Quienes ingresan a grados 3–6. Confirmar la regla con el museo.
+
+**Precio:** 6850 TWD por turno.
+
+**Programa:** Montaje y programación por bloques de Apitor. Kit para llevar a casa. Tableta disponible si hace falta.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-02-01 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-02-02 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Confirmar grado actual y requisito de ingreso al grado indicado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015446&act_seq=1)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015446&act_seq=1) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1550 · NSTM · AI Fashion Design and Sewing
+
+Taiwán · National Science and Technology Museum · Kaohsiung · North Wing · 1F media classroom
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 3–7.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Diseño con IA y práctica de costura.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 2950 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 17 en el calendario oficial
+
+**Fechas / estado:** 2027-01-21 — 2027-01-22
+
+**lugar:** National Science and Technology Museum · Kaohsiung · North Wing · 1F media classroom
+
+**edad:** Grados escolares 3–7.
+
+**Precio:** 2950 TWD por turno.
+
+**Programa:** Diseño con IA y práctica de costura.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-21 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-01-22 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015448&act_seq=1)
+
+### Turno 20 en el calendario oficial
+
+**Fechas / estado:** 2027-01-28 — 2027-01-29
+
+**lugar:** National Science and Technology Museum · Kaohsiung · North Wing · 1F media classroom
+
+**edad:** Grados escolares 3–7.
+
+**Precio:** 2950 TWD por turno.
+
+**Programa:** Diseño con IA y práctica de costura.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-28 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-01-29 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015448&act_seq=2)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015448&act_seq=1) · 2026-11-07
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015448&act_seq=2) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1551 · NSTM · Scratch Game Animation
+
+Taiwán · National Science and Technology Museum · Kaohsiung · South Wing · programming classroom
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Quienes ingresan a grados 3–6. Confirmar la regla con el museo.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Creación de juegos y animación en Scratch, con bucles y condiciones.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 2800 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Confirmar grado actual y requisito de ingreso al grado indicado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 18 en el calendario oficial
+
+**Fechas / estado:** 2027-01-25 — 2027-01-26
+
+**lugar:** National Science and Technology Museum · Kaohsiung · South Wing · programming classroom
+
+**edad:** Quienes ingresan a grados 3–6. Confirmar la regla con el museo.
+
+**Precio:** 2800 TWD por turno.
+
+**Programa:** Creación de juegos y animación en Scratch, con bucles y condiciones.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-25 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-01-26 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Confirmar grado actual y requisito de ingreso al grado indicado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015443&act_seq=1)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015443&act_seq=1) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1552 · NSTM · Logic Quest and Puzzles
+
+Taiwán · National Science and Technology Museum · Kaohsiung · South Wing · programming classroom
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 4–7.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Retos lógicos, acertijos y niveles.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 2900 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 19 en el calendario oficial
+
+**Fechas / estado:** 2027-01-27 — 2027-01-28
+
+**lugar:** National Science and Technology Museum · Kaohsiung · South Wing · programming classroom
+
+**edad:** Grados escolares 4–7.
+
+**Precio:** 2900 TWD por turno.
+
+**Programa:** Retos lógicos, acertijos y niveles.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-27 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-01-28 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015411&act_seq=2)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015411&act_seq=2) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1553 · NSTM · Sketchbook Digital Drawing
+
+Taiwán · National Science and Technology Museum · Kaohsiung · North Wing · 3F science classroom
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 5–9.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Dibujo digital en Sketchbook.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 2800 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 21 en el calendario oficial
+
+**Fechas / estado:** 2027-01-30 — 2027-01-31
+
+**lugar:** National Science and Technology Museum · Kaohsiung · North Wing · 3F science classroom
+
+**edad:** Grados escolares 5–9.
+
+**Precio:** 2800 TWD por turno.
+
+**Programa:** Dibujo digital en Sketchbook.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-30 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-01-31 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015431&act_seq=1)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015431&act_seq=1) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1554 · NSTM · Number Sense
+
+Taiwán · National Science and Technology Museum · Kaohsiung · North Wing · 3F science classroom
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 3–6.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Juegos matemáticos para desarrollar sentido numérico.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 1900 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 22 en el calendario oficial
+
+**Fechas / estado:** 2027-01-28 — 2027-01-29
+
+**lugar:** National Science and Technology Museum · Kaohsiung · North Wing · 3F science classroom
+
+**edad:** Grados escolares 3–6.
+
+**Precio:** 1900 TWD por turno.
+
+**Programa:** Juegos matemáticos para desarrollar sentido numérico.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-28 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-01-29 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015438&act_seq=1)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015438&act_seq=1) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1555 · NSTM · Pharaoh Escape Room · Middle School
+
+Taiwán · National Science and Technology Museum · Kaohsiung · North Wing · 5F science classroom
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 7–9.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Escape room matemático para secundaria básica.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 1400 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 23 en el calendario oficial
+
+**Fechas / estado:** 2027-01-30 — 2027-01-30
+
+**lugar:** National Science and Technology Museum · Kaohsiung · North Wing · 5F science classroom
+
+**edad:** Grados escolares 7–9.
+
+**Precio:** 1400 TWD por turno.
+
+**Programa:** Escape room matemático para secundaria básica.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-30 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015430&act_seq=8)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015430&act_seq=8) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1556 · NSTM · Pharaoh Escape Room · Primary
+
+Taiwán · National Science and Technology Museum · Kaohsiung · North Wing · 5F science classroom
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Quienes ingresan a grados 5–6. Confirmar la regla con el museo.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Escape room matemático para primaria.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 1400 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 24 en el calendario oficial
+
+**Fechas / estado:** 2027-01-31 — 2027-01-31
+
+**lugar:** National Science and Technology Museum · Kaohsiung · North Wing · 5F science classroom
+
+**edad:** Quienes ingresan a grados 5–6. Confirmar la regla con el museo.
+
+**Precio:** 1400 TWD por turno.
+
+**Programa:** Escape room matemático para primaria.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-31 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015430&act_seq=9)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015430&act_seq=9) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1557 · NSTM · Middle School Chemistry
+
+Taiwán · National Science and Technology Museum · Kaohsiung · North Wing · 4F water resources classroom
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 7–9.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Experimentos de química para secundaria básica.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 2800 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 25 en el calendario oficial
+
+**Fechas / estado:** 2027-01-23 — 2027-01-24
+
+**lugar:** National Science and Technology Museum · Kaohsiung · North Wing · 4F water resources classroom
+
+**edad:** Grados escolares 7–9.
+
+**Precio:** 2800 TWD por turno.
+
+**Programa:** Experimentos de química para secundaria básica.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-23 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-01-24 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015411&act_seq=1)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015411&act_seq=1) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1558 · NSTM · Egg Physics
+
+Taiwán · National Science and Technology Museum · Kaohsiung · North Wing · 5F science classroom
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 2–4.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Experimentos de física con un huevo.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 1400 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 26 en el calendario oficial
+
+**Fechas / estado:** 2027-01-25 — 2027-01-25
+
+**lugar:** National Science and Technology Museum · Kaohsiung · North Wing · 5F science classroom
+
+**edad:** Grados escolares 2–4.
+
+**Precio:** 1400 TWD por turno.
+
+**Programa:** Experimentos de física con un huevo.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-25 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015340&act_seq=1)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015340&act_seq=1) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1559 · NSTM · Thermodynamics and Electromagnetism
+
+Taiwán · National Science and Technology Museum · Kaohsiung · North Wing · 5F science classroom
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 3–9.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Experimentos con calor y electromagnetismo.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 1450 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 27 en el calendario oficial
+
+**Fechas / estado:** 2027-01-27 — 2027-01-27
+
+**lugar:** National Science and Technology Museum · Kaohsiung · North Wing · 5F science classroom
+
+**edad:** Grados escolares 3–9.
+
+**Precio:** 1450 TWD por turno.
+
+**Programa:** Experimentos con calor y electromagnetismo.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-27 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015339&act_seq=1)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015339&act_seq=1) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1560 · NSTM · Doraemon Science
+
+Taiwán · National Science and Technology Museum · Kaohsiung · North Wing · 5F science classroom
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 3–6.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Experimentos científicos con aventuras de temática Doraemon.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 1400 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 28 en el calendario oficial
+
+**Fechas / estado:** 2027-01-21 — 2027-01-21
+
+**lugar:** National Science and Technology Museum · Kaohsiung · North Wing · 5F science classroom
+
+**edad:** Grados escolares 3–6.
+
+**Precio:** 1400 TWD por turno.
+
+**Programa:** Experimentos científicos con aventuras de temática Doraemon.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-21 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015335&act_seq=1)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015335&act_seq=1) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1561 · NSTM · Sports Science
+
+Taiwán · National Science and Technology Museum · Kaohsiung · South Wing · S204
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 3–6.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Ciencia del movimiento, tiro con arco y ejercicios de espada china.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 3000 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 29 en el calendario oficial
+
+**Fechas / estado:** 2027-01-21 — 2027-01-22
+
+**lugar:** National Science and Technology Museum · Kaohsiung · South Wing · S204
+
+**edad:** Grados escolares 3–6.
+
+**Precio:** 3000 TWD por turno.
+
+**Programa:** Ciencia del movimiento, tiro con arco y ejercicios de espada china.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-21 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-01-22 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015408&act_seq=3)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015408&act_seq=3) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1562 · NSTM · Hummingbird Gear Mechanisms
+
+Taiwán · National Science and Technology Museum · Kaohsiung · North Wing · 3F science classroom
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 7–9.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Exploración de engranajes y montaje de un mecanismo.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 1400 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 30 en el calendario oficial
+
+**Fechas / estado:** 2027-01-21 — 2027-01-21
+
+**lugar:** National Science and Technology Museum · Kaohsiung · North Wing · 3F science classroom
+
+**edad:** Grados escolares 7–9.
+
+**Precio:** 1400 TWD por turno.
+
+**Programa:** Exploración de engranajes y montaje de un mecanismo.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-21 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015430&act_seq=1)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015430&act_seq=1) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1563 · NSTM · Microscopy and Forensic Science
+
+Taiwán · National Science and Technology Museum · Kaohsiung · North Wing · 4F biotechnology classroom
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 3–6.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Observaciones ampliadas y retos didácticos de ciencia forense.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 2600 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 31 en el calendario oficial
+
+**Fechas / estado:** 2027-01-21 — 2027-01-22
+
+**lugar:** National Science and Technology Museum · Kaohsiung · North Wing · 4F biotechnology classroom
+
+**edad:** Grados escolares 3–6.
+
+**Precio:** 2600 TWD por turno.
+
+**Programa:** Observaciones ampliadas y retos didácticos de ciencia forense.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-21 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-01-22 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015414&act_seq=1)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015414&act_seq=1) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1564 · NSTM · Shape Cube Puzzles
+
+Taiwán · National Science and Technology Museum · Kaohsiung · North Wing · 5F science classroom
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 3–6.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Acertijos espaciales, entre ellos pirámide y esfera.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 1400 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 32 en el calendario oficial
+
+**Fechas / estado:** 2027-01-22 — 2027-01-22
+
+**lugar:** National Science and Technology Museum · Kaohsiung · North Wing · 5F science classroom
+
+**edad:** Grados escolares 3–6.
+
+**Precio:** 1400 TWD por turno.
+
+**Programa:** Acertijos espaciales, entre ellos pirámide y esfera.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-22 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015337&act_seq=1)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015337&act_seq=1) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1565 · NSTM · Ghibli-themed Cooking
+
+Taiwán · National Science and Technology Museum · Kaohsiung · North Wing · science of cooking
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 3–9.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Turno de cocina inspirado en películas de animación.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 1500 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 33 en el calendario oficial
+
+**Fechas / estado:** 2027-01-23 — 2027-01-23
+
+**lugar:** National Science and Technology Museum · Kaohsiung · North Wing · science of cooking
+
+**edad:** Grados escolares 3–9.
+
+**Precio:** 1500 TWD por turno.
+
+**Programa:** Turno de cocina inspirado en películas de animación.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-23 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015336&act_seq=1)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015336&act_seq=1) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1566 · NSTM · Demon Slayer-themed Cooking
+
+Taiwán · National Science and Technology Museum · Kaohsiung · North Wing · science of cooking
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 3–9.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Práctica de cocina inspirada en anime.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 1500 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 34 en el calendario oficial
+
+**Fechas / estado:** 2027-01-24 — 2027-01-24
+
+**lugar:** National Science and Technology Museum · Kaohsiung · North Wing · science of cooking
+
+**edad:** Grados escolares 3–9.
+
+**Precio:** 1500 TWD por turno.
+
+**Programa:** Práctica de cocina inspirada en anime.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-24 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015338&act_seq=1)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015338&act_seq=1) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1567 · NSTM · Water and Energy Science
+
+Taiwán · National Science and Technology Museum · Kaohsiung · South Wing · S204
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 3–9.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Experimentos con agua, electricidad y ahorro energético.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 1900 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 35 en el calendario oficial
+
+**Fechas / estado:** 2027-01-25 — 2027-01-27
+
+**lugar:** National Science and Technology Museum · Kaohsiung · South Wing · S204
+
+**edad:** Grados escolares 3–9.
+
+**Precio:** 1900 TWD por turno.
+
+**Programa:** Experimentos con agua, electricidad y ahorro energético.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-25 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-01-26 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-01-27 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015437&act_seq=1)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015437&act_seq=1) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1568 · NSTM · Rice Materials Lab
+
+Taiwán · National Science and Technology Museum · Kaohsiung · North Wing · 5F science classroom
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 4–6.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Experimentos de textura y elaboración de productos de arroz.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 1400 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 36 en el calendario oficial
+
+**Fechas / estado:** 2027-01-26 — 2027-01-26
+
+**lugar:** National Science and Technology Museum · Kaohsiung · North Wing · 5F science classroom
+
+**edad:** Grados escolares 4–6.
+
+**Precio:** 1400 TWD por turno.
+
+**Programa:** Experimentos de textura y elaboración de productos de arroz.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-26 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015430&act_seq=5)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015430&act_seq=5) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1569 · NSTM · Ocean Discovery
+
+Taiwán · National Science and Technology Museum · Kaohsiung · North Wing · 4F biotechnology classroom
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 4–6.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Introducción al medio marino y sus organismos.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 1400 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 37 en el calendario oficial
+
+**Fechas / estado:** 2027-01-28 — 2027-01-28
+
+**lugar:** National Science and Technology Museum · Kaohsiung · North Wing · 4F biotechnology classroom
+
+**edad:** Grados escolares 4–6.
+
+**Precio:** 1400 TWD por turno.
+
+**Programa:** Introducción al medio marino y sus organismos.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-28 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015430&act_seq=7)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015430&act_seq=7) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1570 · NSTM · JSPB Pneumatics
+
+Taiwán · National Science and Technology Museum · Kaohsiung · North Wing · maker classroom
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 3–6.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Montaje y retos con equipo de juego neumático JSPB.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 5200 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 38 en el calendario oficial
+
+**Fechas / estado:** 2027-01-28 — 2027-01-29
+
+**lugar:** National Science and Technology Museum · Kaohsiung · North Wing · maker classroom
+
+**edad:** Grados escolares 3–6.
+
+**Precio:** 5200 TWD por turno.
+
+**Programa:** Montaje y retos con equipo de juego neumático JSPB.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-28 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-01-29 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015424&act_seq=1)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015424&act_seq=1) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1571 · NSTM · Sphero indi Colour Coding
+
+Taiwán · National Science and Technology Museum · Kaohsiung · South Wing · S204
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 1–3.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Control del robot Sphero indi mediante comandos de color.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 4200 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 39 en el calendario oficial
+
+**Fechas / estado:** 2027-02-01 — 2027-02-02
+
+**lugar:** National Science and Technology Museum · Kaohsiung · South Wing · S204
+
+**edad:** Grados escolares 1–3.
+
+**Precio:** 4200 TWD por turno.
+
+**Programa:** Control del robot Sphero indi mediante comandos de color.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-02-01 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-02-02 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015428&act_seq=2)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015428&act_seq=2) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1572 · NSTM · Light and Shadow Science
+
+Taiwán · National Science and Technology Museum · Kaohsiung · North Wing · 5F science classroom
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 2–3.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Experimentos con luz y sombra.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 1850 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 40 en el calendario oficial
+
+**Fechas / estado:** 2027-01-23 — 2027-01-23
+
+**lugar:** National Science and Technology Museum · Kaohsiung · North Wing · 5F science classroom
+
+**edad:** Grados escolares 2–3.
+
+**Precio:** 1850 TWD por turno.
+
+**Programa:** Experimentos con luz y sombra.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-23 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015413&act_seq=1)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015413&act_seq=1) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1573 · NSTM · Space Exploration Mission
+
+Taiwán · National Science and Technology Museum · Kaohsiung · North Wing · 3F science classroom
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 4–6.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Temática espacial con investigación y actividades prácticas.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 3600 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 41 en el calendario oficial
+
+**Fechas / estado:** 2027-01-25 — 2027-01-26
+
+**lugar:** National Science and Technology Museum · Kaohsiung · North Wing · 3F science classroom
+
+**edad:** Grados escolares 4–6.
+
+**Precio:** 3600 TWD por turno.
+
+**Programa:** Temática espacial con investigación y actividades prácticas.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-25 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-01-26 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015427&act_seq=1)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015427&act_seq=1) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1574 · NSTM · Magic Science Investigators
+
+Taiwán · National Science and Technology Museum · Kaohsiung · South Wing · S206
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 1–4.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Demostraciones científicas y experimentos prácticos.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 6200 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 42 en el calendario oficial
+
+**Fechas / estado:** 2027-01-25 — 2027-01-29
+
+**lugar:** National Science and Technology Museum · Kaohsiung · South Wing · S206
+
+**edad:** Grados escolares 1–4.
+
+**Precio:** 6200 TWD por turno.
+
+**Programa:** Demostraciones científicas y experimentos prácticos.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-25 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-01-26 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-01-27 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-01-28 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-01-29 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015440&act_seq=1)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015440&act_seq=1) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1575 · NSTM · Elastic Mechanisms
+
+Taiwán · National Science and Technology Museum · Kaohsiung · South Wing · S203
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 2–5.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Retos con materiales y mecanismos elásticos.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 1900 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 43 en el calendario oficial
+
+**Fechas / estado:** 2027-01-27 — 2027-01-27
+
+**lugar:** National Science and Technology Museum · Kaohsiung · South Wing · S203
+
+**edad:** Grados escolares 2–5.
+
+**Precio:** 1900 TWD por turno.
+
+**Programa:** Retos con materiales y mecanismos elásticos.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-27 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015408&act_seq=4)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015408&act_seq=4) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1576 · NSTM · Light-up House
+
+Taiwán · National Science and Technology Museum · Kaohsiung · North Wing · 3F science classroom
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 1–4.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Fabricación de un modelo de casa iluminada.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 1800 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 44 en el calendario oficial
+
+**Fechas / estado:** 2027-01-27 — 2027-01-27
+
+**lugar:** National Science and Technology Museum · Kaohsiung · North Wing · 3F science classroom
+
+**edad:** Grados escolares 1–4.
+
+**Precio:** 1800 TWD por turno.
+
+**Programa:** Fabricación de un modelo de casa iluminada.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-27 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015426&act_seq=1)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015426&act_seq=1) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1577 · NSTM · Young Maker · Paper
+
+Taiwán · National Science and Technology Museum · Kaohsiung · South Wing · S203
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 3–6.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Diseño y fabricación de proyectos de papel.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 3000 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 45 en el calendario oficial
+
+**Fechas / estado:** 2027-01-28 — 2027-01-29
+
+**lugar:** National Science and Technology Museum · Kaohsiung · South Wing · S203
+
+**edad:** Grados escolares 3–6.
+
+**Precio:** 3000 TWD por turno.
+
+**Programa:** Diseño y fabricación de proyectos de papel.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-28 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-01-29 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015432&act_seq=1)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015432&act_seq=1) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1578 · NSTM · Jurassic Discovery
+
+Taiwán · National Science and Technology Museum · Kaohsiung · North Wing · 4F biotechnology classroom
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 3–6.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Actividades sobre dinosaurios y vida antigua.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 2000 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 46 en el calendario oficial
+
+**Fechas / estado:** 2027-01-29 — 2027-01-29
+
+**lugar:** National Science and Technology Museum · Kaohsiung · North Wing · 4F biotechnology classroom
+
+**edad:** Grados escolares 3–6.
+
+**Precio:** 2000 TWD por turno.
+
+**Programa:** Actividades sobre dinosaurios y vida antigua.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-29 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015408&act_seq=2)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015408&act_seq=2) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1579 · NSTM · Young Maker · Wired Car
+
+Taiwán · National Science and Technology Museum · Kaohsiung · North Wing · 3F science classroom
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 5–9.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Montaje de un vehículo con control por cable.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 1600 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 47 en el calendario oficial
+
+**Fechas / estado:** 2027-02-01 — 2027-02-01
+
+**lugar:** National Science and Technology Museum · Kaohsiung · North Wing · 3F science classroom
+
+**edad:** Grados escolares 5–9.
+
+**Precio:** 1600 TWD por turno.
+
+**Programa:** Montaje de un vehículo con control por cable.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-02-01 · 09:00–16:30 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015433&act_seq=1)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015433&act_seq=1) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1580 · NSTM · Earth and Rocks Lab
+
+Taiwán · National Science and Technology Museum · Kaohsiung · North Wing · 5F science classroom
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 1–6.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Geología, propiedades de rocas y estudio de muestras.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 4450 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 48 en el calendario oficial
+
+**Fechas / estado:** 2027-02-01 — 2027-02-03
+
+**lugar:** National Science and Technology Museum · Kaohsiung · North Wing · 5F science classroom
+
+**edad:** Grados escolares 1–6.
+
+**Precio:** 4450 TWD por turno.
+
+**Programa:** Geología, propiedades de rocas y estudio de muestras.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-02-01 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-02-02 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-02-03 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015441&act_seq=1)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015441&act_seq=1) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1581 · NSTM · Toy Science Workshop
+
+Taiwán · National Science and Technology Museum · Kaohsiung · South Wing · S203
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 3–6.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Montaje de juguetes para estudiar principios científicos.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 2500 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 49 en el calendario oficial
+
+**Fechas / estado:** 2027-02-02 — 2027-02-03
+
+**lugar:** National Science and Technology Museum · Kaohsiung · South Wing · S203
+
+**edad:** Grados escolares 3–6.
+
+**Precio:** 2500 TWD por turno.
+
+**Programa:** Montaje de juguetes para estudiar principios científicos.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-02-02 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-02-03 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015439&act_seq=1)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015439&act_seq=1) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1582 · NSTM · Junior Finance Lab
+
+Taiwán · National Science and Technology Museum · Kaohsiung · South Wing · S205
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 4–7.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Retos lúdicos de educación financiera.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 3500 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 50 en el calendario oficial
+
+**Fechas / estado:** 2027-01-21 — 2027-01-22
+
+**lugar:** National Science and Technology Museum · Kaohsiung · South Wing · S205
+
+**edad:** Grados escolares 4–7.
+
+**Precio:** 3500 TWD por turno.
+
+**Programa:** Retos lúdicos de educación financiera.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-21 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-01-22 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015429&act_seq=1)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015429&act_seq=1) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1583 · NSTM · Junior Cooking Lab
+
+Taiwán · National Science and Technology Museum · Kaohsiung · North Wing · maker classroom
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 1–6.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Actividades prácticas de cocina.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 6900 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 51 en el calendario oficial
+
+**Fechas / estado:** 2027-01-25 — 2027-01-27
+
+**lugar:** National Science and Technology Museum · Kaohsiung · North Wing · maker classroom
+
+**edad:** Grados escolares 1–6.
+
+**Precio:** 6900 TWD por turno.
+
+**Programa:** Actividades prácticas de cocina.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-25 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-01-26 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-01-27 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015423&act_seq=1)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015423&act_seq=1) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1584 · NSTM · Medicine and Humanities
+
+Taiwán · National Science and Technology Museum · Kaohsiung · North Wing · 5F science classroom
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 3–7.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Introducción a la medicina y su dimensión humana.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 4000 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 52 en el calendario oficial
+
+**Fechas / estado:** 2027-01-28 — 2027-01-29
+
+**lugar:** National Science and Technology Museum · Kaohsiung · North Wing · 5F science classroom
+
+**edad:** Grados escolares 3–7.
+
+**Precio:** 4000 TWD por turno.
+
+**Programa:** Introducción a la medicina y su dimensión humana.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-28 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-01-29 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015429&act_seq=2)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015429&act_seq=2) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1585 · NSTM · AI Virtual News Presenter
+
+Taiwán · National Science and Technology Museum · Kaohsiung · South Wing · programming classroom
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 4–7.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Creación de un presentador virtual con herramientas de IA.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 3500 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 53 en el calendario oficial
+
+**Fechas / estado:** 2027-02-01 — 2027-02-02
+
+**lugar:** National Science and Technology Museum · Kaohsiung · South Wing · programming classroom
+
+**edad:** Grados escolares 4–7.
+
+**Precio:** 3500 TWD por turno.
+
+**Programa:** Creación de un presentador virtual con herramientas de IA.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-02-01 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-02-02 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015428&act_seq=1)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015428&act_seq=1) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1586 · NSTM · Biochemistry Arena
+
+Taiwán · National Science and Technology Museum · Kaohsiung · North Wing · 4F biotechnology classroom
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 4–6.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Experimentos didácticos de laboratorio en bioquímica.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 1400 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 54 en el calendario oficial
+
+**Fechas / estado:** 2027-01-27 — 2027-01-27
+
+**lugar:** National Science and Technology Museum · Kaohsiung · North Wing · 4F biotechnology classroom
+
+**edad:** Grados escolares 4–6.
+
+**Precio:** 1400 TWD por turno.
+
+**Programa:** Experimentos didácticos de laboratorio en bioquímica.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-27 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015430&act_seq=6)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015430&act_seq=6) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1587 · NSTM · Beetle and Butterfly Specimens
+
+Taiwán · National Science and Technology Museum · Kaohsiung · North Wing · 4F biotechnology classroom
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 3–7.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Preparación práctica de muestras didácticas de escarabajos y mariposas.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 2900 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 55 en el calendario oficial
+
+**Fechas / estado:** 2027-01-30 — 2027-01-30
+
+**lugar:** National Science and Technology Museum · Kaohsiung · North Wing · 4F biotechnology classroom
+
+**edad:** Grados escolares 3–7.
+
+**Precio:** 2900 TWD por turno.
+
+**Programa:** Preparación práctica de muestras didácticas de escarabajos y mariposas.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-30 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015408&act_seq=5)
+
+### Turno 56 en el calendario oficial
+
+**Fechas / estado:** 2027-01-31 — 2027-01-31
+
+**lugar:** National Science and Technology Museum · Kaohsiung · North Wing · 4F biotechnology classroom
+
+**edad:** Grados escolares 3–7.
+
+**Precio:** 2900 TWD por turno.
+
+**Programa:** Preparación práctica de muestras didácticas de escarabajos y mariposas.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-31 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015408&act_seq=6)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015408&act_seq=5) · 2026-11-07
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015408&act_seq=6) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1588 · NSTM · Autonomous Vehicle and AI
+
+Taiwán · National Science and Technology Museum · Kaohsiung · South Wing · S203
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Quienes ingresan a grados 3–6. Confirmar la regla con el museo.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Montaje y programación de vehículo didáctico con sensores de distancia y línea.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 3600 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Confirmar grado actual y requisito de ingreso al grado indicado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 57 en el calendario oficial
+
+**Fechas / estado:** 2027-01-21 — 2027-01-23
+
+**lugar:** National Science and Technology Museum · Kaohsiung · South Wing · S203
+
+**edad:** Quienes ingresan a grados 3–6. Confirmar la regla con el museo.
+
+**Precio:** 3600 TWD por turno.
+
+**Programa:** Montaje y programación de vehículo didáctico con sensores de distancia y línea.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-21 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-01-22 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-01-23 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Confirmar grado actual y requisito de ingreso al grado indicado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015447&act_seq=1)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015447&act_seq=1) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1589 · NSTM · AI Drones and Robotics · Older
+
+Taiwán · National Science and Technology Museum · Kaohsiung · South Wing · S205
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 5–9.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Control de dron y trabajo con robótica programable.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 1900 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 58 en el calendario oficial
+
+**Fechas / estado:** 2027-01-23 — 2027-01-23
+
+**lugar:** National Science and Technology Museum · Kaohsiung · South Wing · S205
+
+**edad:** Grados escolares 5–9.
+
+**Precio:** 1900 TWD por turno.
+
+**Programa:** Control de dron y trabajo con robótica programable.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-23 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015448&act_seq=3)
+
+### Turno 60 en el calendario oficial
+
+**Fechas / estado:** 2027-01-30 — 2027-01-30
+
+**lugar:** National Science and Technology Museum · Kaohsiung · South Wing · S205
+
+**edad:** Grados escolares 5–9.
+
+**Precio:** 1900 TWD por turno.
+
+**Programa:** Control de dron y trabajo con robótica programable.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-30 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015448&act_seq=4)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015448&act_seq=3) · 2026-11-07
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015448&act_seq=4) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1590 · NSTM · Robots and Drones · Younger
+
+Taiwán · National Science and Technology Museum · Kaohsiung · South Wing · S205
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 1–6.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Montaje de robot, programación con tarjetas y práctica con dron.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 1900 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 59 en el calendario oficial
+
+**Fechas / estado:** 2027-01-24 — 2027-01-24
+
+**lugar:** National Science and Technology Museum · Kaohsiung · South Wing · S205
+
+**edad:** Grados escolares 1–6.
+
+**Precio:** 1900 TWD por turno.
+
+**Programa:** Montaje de robot, programación con tarjetas y práctica con dron.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-24 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015448&act_seq=5)
+
+### Turno 62 en el calendario oficial
+
+**Fechas / estado:** 2027-01-31 — 2027-01-31
+
+**lugar:** National Science and Technology Museum · Kaohsiung · South Wing · S205
+
+**edad:** Grados escolares 1–6.
+
+**Precio:** 1900 TWD por turno.
+
+**Programa:** Montaje de robot, programación con tarjetas y práctica con dron.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-31 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+**Oscar:** Admisión posible por ciclo escolar. Confirmar equivalencia de grado.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015448&act_seq=6)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015448&act_seq=5) · 2026-11-07
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015448&act_seq=6) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1591 · NSTM · LEGO EV3 Coding
+
+Taiwán · National Science and Technology Museum · Kaohsiung · South Wing · programming classroom
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Quienes ingresan a grados 3–6. Confirmar la regla con el museo.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Montaje y programación de robot LEGO EV3.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas y horas publicadas para este turno.
+
+**Precio / año:** 2027 · 3200 TWD por turno.
+
+**Incluido:** Almuerzo incluido. El museo pide llevar cubiertos reutilizables.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**Matvey:** Confirmar grado actual y requisito de ingreso al grado indicado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar grado real y aceptación del documento escolar extranjero.
+
+- Confirmar idioma del grupo antes de inscribirse.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### Turno 61 en el calendario oficial
+
+**Fechas / estado:** 2027-01-30 — 2027-01-31
+
+**lugar:** National Science and Technology Museum · Kaohsiung · South Wing · programming classroom
+
+**edad:** Quienes ingresan a grados 3–6. Confirmar la regla con el museo.
+
+**Precio:** 3200 TWD por turno.
+
+**Programa:** Montaje y programación de robot LEGO EV3.
+
+**Suplementos:** Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo.
+
+**Pago:** Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
+
+**condiciones de participación:** Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite varios menores. Llegada habitual 20 minutos antes del inicio.
+
+- 2027-01-30 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+- 2027-01-31 · 09:00–16:00 · Asia/Taipei · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario y formulario de solicitud publicados. Plazas libres sin confirmar.
+
+**Matvey:** Confirmar grado actual y requisito de ingreso al grado indicado.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://serv.nstm.gov.tw/act_detail?act_no=0000015445&act_seq=1)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://serv.nstm.gov.tw/act_detail?act_no=0000015445&act_seq=1) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://education.nstm.gov.tw/wintercamp/) · 2026-11-07
+
+## CP1592 · Children’s Worklab / Robotics Connection · SPIKE Prime · Forum The Shopping Mall
+
+Singapur · Singapore · Forum The Shopping Mall
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 9+ años según fecha de nacimiento.
+
+**Idioma:** El organizador indica expresamente que todas las clases se imparten en inglés.
+
+**Programa:** Movimiento, sensores, retos de ingeniería y programación por bloques de LEGO SPIKE Prime. Niveles 2–4 tras los anteriores.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas, sedes y horarios publicados. Cada turno indica su duración.
+
+**Precio / año:** 2026/27 · $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. Al elegir este grupo matinal, la pareja familiar Apprentice y SPIKE Prime cuesta $999 por 2 menores según el PDF. Confirmar 2 plazas, moneda y GST.
+
+**Incluido:** La familia aporta refrigerio y bebida. Las piezas LEGO son material de clase.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Matvey:** Desde 9 años. Se aconseja Scratch. Grupos avanzados tras los niveles anteriores.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Edad en el primer día del turno según fecha de nacimiento.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-11-23 — 2026-11-26
+
+**lugar:** Singapore · Forum The Shopping Mall
+
+**edad:** 9+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Movimiento, sensores, retos de ingeniería y programación por bloques de LEGO SPIKE Prime. Niveles 2–4 tras los anteriores. Opciones de horario y sede: 09:30–12:00 · Forum The Shopping Mall.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-11-23 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-24 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-25 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-26 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Desde 9 años. Se aconseja Scratch. Grupos avanzados tras los niveles anteriores.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_e472ac12e25b4a82b585fbc19139c170.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-11-30 — 2026-12-03
+
+**lugar:** Singapore · Forum The Shopping Mall
+
+**edad:** 9+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Movimiento, sensores, retos de ingeniería y programación por bloques de LEGO SPIKE Prime. Niveles 2–4 tras los anteriores. Opciones de horario y sede: 09:30–12:00 · Forum The Shopping Mall.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-11-30 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-01 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-02 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-03 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Desde 9 años. Se aconseja Scratch. Grupos avanzados tras los niveles anteriores.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_e472ac12e25b4a82b585fbc19139c170.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-12-07 — 2026-12-10
+
+**lugar:** Singapore · Forum The Shopping Mall
+
+**edad:** 9+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Movimiento, sensores, retos de ingeniería y programación por bloques de LEGO SPIKE Prime. Niveles 2–4 tras los anteriores. Opciones de horario y sede: 09:30–12:00 · Forum The Shopping Mall.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-07 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-08 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-09 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-10 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Desde 9 años. Se aconseja Scratch. Grupos avanzados tras los niveles anteriores.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_e472ac12e25b4a82b585fbc19139c170.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-12-14 — 2026-12-17
+
+**lugar:** Singapore · Forum The Shopping Mall
+
+**edad:** 9+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Movimiento, sensores, retos de ingeniería y programación por bloques de LEGO SPIKE Prime. Niveles 2–4 tras los anteriores. Opciones de horario y sede: 09:30–12:00 · Forum The Shopping Mall.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-14 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-15 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-16 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-17 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Desde 9 años. Se aconseja Scratch. Grupos avanzados tras los niveles anteriores.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_e472ac12e25b4a82b585fbc19139c170.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**lugar:** Singapore · Forum The Shopping Mall
+
+**edad:** 9+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Movimiento, sensores, retos de ingeniería y programación por bloques de LEGO SPIKE Prime. Niveles 2–4 tras los anteriores. Opciones de horario y sede: 09:30–12:00 · Forum The Shopping Mall.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-21 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-22 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-23 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-24 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Desde 9 años. Se aconseja Scratch. Grupos avanzados tras los niveles anteriores.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_e472ac12e25b4a82b585fbc19139c170.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**lugar:** Singapore · Forum The Shopping Mall
+
+**edad:** 9+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Movimiento, sensores, retos de ingeniería y programación por bloques de LEGO SPIKE Prime. Niveles 2–4 tras los anteriores. Opciones de horario y sede: 09:30–12:00 · Forum The Shopping Mall.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-28 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-29 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-30 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-31 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Desde 9 años. Se aconseja Scratch. Grupos avanzados tras los niveles anteriores.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_e472ac12e25b4a82b585fbc19139c170.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2027-01-04 — 2027-01-07
+
+**lugar:** Singapore · Forum The Shopping Mall
+
+**edad:** 9+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Movimiento, sensores, retos de ingeniería y programación por bloques de LEGO SPIKE Prime. Niveles 2–4 tras los anteriores. Opciones de horario y sede: 09:30–12:00 · Forum The Shopping Mall.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2027-01-04 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-05 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-06 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-07 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Desde 9 años. Se aconseja Scratch. Grupos avanzados tras los niveles anteriores.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_e472ac12e25b4a82b585fbc19139c170.pdf)
+
+### Fuentes
+
+- [Horarios, sedes y tarifas oficiales](https://www.worklab.com.sg/_files/ugd/4223d1_e472ac12e25b4a82b585fbc19139c170.pdf) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.robotics.com.sg/holiday-camps) · 2026-11-07
+
+- [Horarios, sedes y tarifas oficiales](https://www.robotics.com.sg/_files/ugd/4223d1_89a5120173d046419a41c42be349b4e7.pdf) · 2026-11-07
+
+## CP1593 · Children’s Worklab / Robotics Connection · Apprentice · Forum The Shopping Mall
+
+Singapur · Singapore · Forum The Shopping Mall
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 4.5–7 años. El PDF distingue grupos de 5–6 y 6–7 años y temas para 7+.
+
+**Idioma:** El organizador indica expresamente que todas las clases se imparten en inglés.
+
+**Programa:** Montaje LEGO y primeros programas en entorno visual. Tema variable según semana y edad.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas, sedes y horarios publicados. Cada turno indica su duración.
+
+**Precio / año:** 2026/27 · $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. Al elegir este grupo matinal, la pareja familiar Apprentice y SPIKE Prime cuesta $999 por 2 menores según el PDF. Confirmar 2 plazas, moneda y GST.
+
+**Incluido:** La familia aporta refrigerio y bebida. Las piezas LEGO son material de clase.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Matvey:** Para esta edad existen Junior, Senior o SPIKE Prime.
+
+**Oscar:** A Oscar le corresponden grupos iniciales. Tema de 5–6 o 6–7 según fecha de nacimiento y nivel.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Edad en el primer día del turno según fecha de nacimiento.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-11-23 — 2026-11-26
+
+**lugar:** Singapore · Forum The Shopping Mall
+
+**edad:** 4.5–7 años. El PDF distingue grupos de 5–6 y 6–7 años y temas para 7+.
+
+**Precio:** $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Montaje LEGO y primeros programas en entorno visual. Tema variable según semana y edad. Opciones de horario y sede: 09:30–12:00 · Forum The Shopping Mall.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-11-23 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-24 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-25 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-26 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Para esta edad existen Junior, Senior o SPIKE Prime.
+
+**Oscar:** A Oscar le corresponden grupos iniciales. Tema de 5–6 o 6–7 según fecha de nacimiento y nivel.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-11-30 — 2026-12-03
+
+**lugar:** Singapore · Forum The Shopping Mall
+
+**edad:** 4.5–7 años. El PDF distingue grupos de 5–6 y 6–7 años y temas para 7+.
+
+**Precio:** $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Montaje LEGO y primeros programas en entorno visual. Tema variable según semana y edad. Opciones de horario y sede: 09:30–12:00 · Forum The Shopping Mall.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-11-30 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-01 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-02 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-03 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Para esta edad existen Junior, Senior o SPIKE Prime.
+
+**Oscar:** A Oscar le corresponden grupos iniciales. Tema de 5–6 o 6–7 según fecha de nacimiento y nivel.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-12-07 — 2026-12-10
+
+**lugar:** Singapore · Forum The Shopping Mall
+
+**edad:** 4.5–7 años. El PDF distingue grupos de 5–6 y 6–7 años y temas para 7+.
+
+**Precio:** $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Montaje LEGO y primeros programas en entorno visual. Tema variable según semana y edad. Opciones de horario y sede: 09:30–12:00 · Forum The Shopping Mall.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-07 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-08 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-09 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-10 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Para esta edad existen Junior, Senior o SPIKE Prime.
+
+**Oscar:** A Oscar le corresponden grupos iniciales. Tema de 5–6 o 6–7 según fecha de nacimiento y nivel.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-12-14 — 2026-12-17
+
+**lugar:** Singapore · Forum The Shopping Mall
+
+**edad:** 4.5–7 años. El PDF distingue grupos de 5–6 y 6–7 años y temas para 7+.
+
+**Precio:** $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Montaje LEGO y primeros programas en entorno visual. Tema variable según semana y edad. Opciones de horario y sede: 09:30–12:00 · Forum The Shopping Mall.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-14 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-15 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-16 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-17 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Para esta edad existen Junior, Senior o SPIKE Prime.
+
+**Oscar:** A Oscar le corresponden grupos iniciales. Tema de 5–6 o 6–7 según fecha de nacimiento y nivel.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**lugar:** Singapore · Forum The Shopping Mall
+
+**edad:** 4.5–7 años. El PDF distingue grupos de 5–6 y 6–7 años y temas para 7+.
+
+**Precio:** $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Montaje LEGO y primeros programas en entorno visual. Tema variable según semana y edad. Opciones de horario y sede: 09:30–12:00 · Forum The Shopping Mall.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-21 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-22 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-23 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-24 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Para esta edad existen Junior, Senior o SPIKE Prime.
+
+**Oscar:** A Oscar le corresponden grupos iniciales. Tema de 5–6 o 6–7 según fecha de nacimiento y nivel.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**lugar:** Singapore · Forum The Shopping Mall
+
+**edad:** 4.5–7 años. El PDF distingue grupos de 5–6 y 6–7 años y temas para 7+.
+
+**Precio:** $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Montaje LEGO y primeros programas en entorno visual. Tema variable según semana y edad. Opciones de horario y sede: 09:30–12:00 · Forum The Shopping Mall.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-28 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-29 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-30 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-31 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Para esta edad existen Junior, Senior o SPIKE Prime.
+
+**Oscar:** A Oscar le corresponden grupos iniciales. Tema de 5–6 o 6–7 según fecha de nacimiento y nivel.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2027-01-04 — 2027-01-07
+
+**lugar:** Singapore · Forum The Shopping Mall
+
+**edad:** 4.5–7 años. El PDF distingue grupos de 5–6 y 6–7 años y temas para 7+.
+
+**Precio:** $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Montaje LEGO y primeros programas en entorno visual. Tema variable según semana y edad. Opciones de horario y sede: 09:30–12:00 · Forum The Shopping Mall.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2027-01-04 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-05 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-06 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-07 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Para esta edad existen Junior, Senior o SPIKE Prime.
+
+**Oscar:** A Oscar le corresponden grupos iniciales. Tema de 5–6 o 6–7 según fecha de nacimiento y nivel.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf)
+
+### Fuentes
+
+- [Horarios, sedes y tarifas oficiales](https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.robotics.com.sg/holiday-camps) · 2026-11-07
+
+## CP1594 · Children’s Worklab / Robotics Connection · SPIKE Prime · UE Square
+
+Singapur · Singapore · UE Square
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 9+ años según fecha de nacimiento.
+
+**Idioma:** El organizador indica expresamente que todas las clases se imparten en inglés.
+
+**Programa:** Movimiento, sensores, retos de ingeniería y programación por bloques de LEGO SPIKE Prime. Niveles 2–4 tras los anteriores.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas, sedes y horarios publicados. Cada turno indica su duración.
+
+**Precio / año:** 2026/27 · $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. Al elegir este grupo matinal, la pareja familiar Apprentice y SPIKE Prime cuesta $999 por 2 menores según el PDF. Confirmar 2 plazas, moneda y GST.
+
+**Incluido:** La familia aporta refrigerio y bebida. Las piezas LEGO son material de clase.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Matvey:** Desde 9 años. Se aconseja Scratch. Grupos avanzados tras los niveles anteriores.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Edad en el primer día del turno según fecha de nacimiento.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-11-23 — 2026-11-26
+
+**lugar:** Singapore · UE Square
+
+**edad:** 9+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Movimiento, sensores, retos de ingeniería y programación por bloques de LEGO SPIKE Prime. Niveles 2–4 tras los anteriores. Opciones de horario y sede: 09:30–12:00 · UE Square.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-11-23 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-24 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-25 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-26 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Desde 9 años. Se aconseja Scratch. Grupos avanzados tras los niveles anteriores.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_e472ac12e25b4a82b585fbc19139c170.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-11-30 — 2026-12-03
+
+**lugar:** Singapore · UE Square
+
+**edad:** 9+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Movimiento, sensores, retos de ingeniería y programación por bloques de LEGO SPIKE Prime. Niveles 2–4 tras los anteriores. Opciones de horario y sede: 09:30–12:00 · UE Square.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-11-30 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-01 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-02 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-03 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Desde 9 años. Se aconseja Scratch. Grupos avanzados tras los niveles anteriores.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_e472ac12e25b4a82b585fbc19139c170.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-12-07 — 2026-12-10
+
+**lugar:** Singapore · UE Square
+
+**edad:** 9+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Movimiento, sensores, retos de ingeniería y programación por bloques de LEGO SPIKE Prime. Niveles 2–4 tras los anteriores. Opciones de horario y sede: 09:30–12:00 · UE Square.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-07 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-08 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-09 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-10 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Desde 9 años. Se aconseja Scratch. Grupos avanzados tras los niveles anteriores.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_e472ac12e25b4a82b585fbc19139c170.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-12-14 — 2026-12-17
+
+**lugar:** Singapore · UE Square
+
+**edad:** 9+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Movimiento, sensores, retos de ingeniería y programación por bloques de LEGO SPIKE Prime. Niveles 2–4 tras los anteriores. Opciones de horario y sede: 09:30–12:00 · UE Square.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-14 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-15 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-16 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-17 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Desde 9 años. Se aconseja Scratch. Grupos avanzados tras los niveles anteriores.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_e472ac12e25b4a82b585fbc19139c170.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**lugar:** Singapore · UE Square
+
+**edad:** 9+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Movimiento, sensores, retos de ingeniería y programación por bloques de LEGO SPIKE Prime. Niveles 2–4 tras los anteriores. Opciones de horario y sede: 09:30–12:00 · UE Square.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-21 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-22 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-23 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-24 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Desde 9 años. Se aconseja Scratch. Grupos avanzados tras los niveles anteriores.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_e472ac12e25b4a82b585fbc19139c170.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**lugar:** Singapore · UE Square
+
+**edad:** 9+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Movimiento, sensores, retos de ingeniería y programación por bloques de LEGO SPIKE Prime. Niveles 2–4 tras los anteriores. Opciones de horario y sede: 09:30–12:00 · UE Square.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-28 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-29 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-30 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-31 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Desde 9 años. Se aconseja Scratch. Grupos avanzados tras los niveles anteriores.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_e472ac12e25b4a82b585fbc19139c170.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2027-01-04 — 2027-01-07
+
+**lugar:** Singapore · UE Square
+
+**edad:** 9+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Movimiento, sensores, retos de ingeniería y programación por bloques de LEGO SPIKE Prime. Niveles 2–4 tras los anteriores. Opciones de horario y sede: 09:30–12:00 · UE Square.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2027-01-04 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-05 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-06 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-07 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Desde 9 años. Se aconseja Scratch. Grupos avanzados tras los niveles anteriores.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_e472ac12e25b4a82b585fbc19139c170.pdf)
+
+### Fuentes
+
+- [Horarios, sedes y tarifas oficiales](https://www.worklab.com.sg/_files/ugd/4223d1_e472ac12e25b4a82b585fbc19139c170.pdf) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.robotics.com.sg/holiday-camps) · 2026-11-07
+
+- [Horarios, sedes y tarifas oficiales](https://www.robotics.com.sg/_files/ugd/4223d1_89a5120173d046419a41c42be349b4e7.pdf) · 2026-11-07
+
+## CP1595 · Children’s Worklab / Robotics Connection · Apprentice · UE Square
+
+Singapur · Singapore · UE Square
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 4.5–7 años. El PDF distingue grupos de 5–6 y 6–7 años y temas para 7+.
+
+**Idioma:** El organizador indica expresamente que todas las clases se imparten en inglés.
+
+**Programa:** Montaje LEGO y primeros programas en entorno visual. Tema variable según semana y edad.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas, sedes y horarios publicados. Cada turno indica su duración.
+
+**Precio / año:** 2026/27 · $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. Al elegir este grupo matinal, la pareja familiar Apprentice y SPIKE Prime cuesta $999 por 2 menores según el PDF. Confirmar 2 plazas, moneda y GST.
+
+**Incluido:** La familia aporta refrigerio y bebida. Las piezas LEGO son material de clase.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Matvey:** Para esta edad existen Junior, Senior o SPIKE Prime.
+
+**Oscar:** A Oscar le corresponden grupos iniciales. Tema de 5–6 o 6–7 según fecha de nacimiento y nivel.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Edad en el primer día del turno según fecha de nacimiento.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-11-23 — 2026-11-26
+
+**lugar:** Singapore · UE Square
+
+**edad:** 4.5–7 años. El PDF distingue grupos de 5–6 y 6–7 años y temas para 7+.
+
+**Precio:** $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Montaje LEGO y primeros programas en entorno visual. Tema variable según semana y edad. Opciones de horario y sede: 09:30–12:00 · UE Square.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-11-23 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-24 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-25 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-26 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Para esta edad existen Junior, Senior o SPIKE Prime.
+
+**Oscar:** A Oscar le corresponden grupos iniciales. Tema de 5–6 o 6–7 según fecha de nacimiento y nivel.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-11-30 — 2026-12-03
+
+**lugar:** Singapore · UE Square
+
+**edad:** 4.5–7 años. El PDF distingue grupos de 5–6 y 6–7 años y temas para 7+.
+
+**Precio:** $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Montaje LEGO y primeros programas en entorno visual. Tema variable según semana y edad. Opciones de horario y sede: 09:30–12:00 · UE Square.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-11-30 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-01 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-02 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-03 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Para esta edad existen Junior, Senior o SPIKE Prime.
+
+**Oscar:** A Oscar le corresponden grupos iniciales. Tema de 5–6 o 6–7 según fecha de nacimiento y nivel.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-12-07 — 2026-12-10
+
+**lugar:** Singapore · UE Square
+
+**edad:** 4.5–7 años. El PDF distingue grupos de 5–6 y 6–7 años y temas para 7+.
+
+**Precio:** $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Montaje LEGO y primeros programas en entorno visual. Tema variable según semana y edad. Opciones de horario y sede: 09:30–12:00 · UE Square.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-07 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-08 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-09 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-10 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Para esta edad existen Junior, Senior o SPIKE Prime.
+
+**Oscar:** A Oscar le corresponden grupos iniciales. Tema de 5–6 o 6–7 según fecha de nacimiento y nivel.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-12-14 — 2026-12-17
+
+**lugar:** Singapore · UE Square
+
+**edad:** 4.5–7 años. El PDF distingue grupos de 5–6 y 6–7 años y temas para 7+.
+
+**Precio:** $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Montaje LEGO y primeros programas en entorno visual. Tema variable según semana y edad. Opciones de horario y sede: 09:30–12:00 · UE Square.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-14 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-15 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-16 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-17 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Para esta edad existen Junior, Senior o SPIKE Prime.
+
+**Oscar:** A Oscar le corresponden grupos iniciales. Tema de 5–6 o 6–7 según fecha de nacimiento y nivel.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**lugar:** Singapore · UE Square
+
+**edad:** 4.5–7 años. El PDF distingue grupos de 5–6 y 6–7 años y temas para 7+.
+
+**Precio:** $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Montaje LEGO y primeros programas en entorno visual. Tema variable según semana y edad. Opciones de horario y sede: 09:30–12:00 · UE Square.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-21 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-22 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-23 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-24 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Para esta edad existen Junior, Senior o SPIKE Prime.
+
+**Oscar:** A Oscar le corresponden grupos iniciales. Tema de 5–6 o 6–7 según fecha de nacimiento y nivel.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**lugar:** Singapore · UE Square
+
+**edad:** 4.5–7 años. El PDF distingue grupos de 5–6 y 6–7 años y temas para 7+.
+
+**Precio:** $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Montaje LEGO y primeros programas en entorno visual. Tema variable según semana y edad. Opciones de horario y sede: 09:30–12:00 · UE Square.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-28 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-29 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-30 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-31 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Para esta edad existen Junior, Senior o SPIKE Prime.
+
+**Oscar:** A Oscar le corresponden grupos iniciales. Tema de 5–6 o 6–7 según fecha de nacimiento y nivel.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2027-01-04 — 2027-01-07
+
+**lugar:** Singapore · UE Square
+
+**edad:** 4.5–7 años. El PDF distingue grupos de 5–6 y 6–7 años y temas para 7+.
+
+**Precio:** $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Montaje LEGO y primeros programas en entorno visual. Tema variable según semana y edad. Opciones de horario y sede: 09:30–12:00 · UE Square.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2027-01-04 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-05 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-06 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-07 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Para esta edad existen Junior, Senior o SPIKE Prime.
+
+**Oscar:** A Oscar le corresponden grupos iniciales. Tema de 5–6 o 6–7 según fecha de nacimiento y nivel.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf)
+
+### Fuentes
+
+- [Horarios, sedes y tarifas oficiales](https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.robotics.com.sg/holiday-camps) · 2026-11-07
+
+## CP1596 · Children’s Worklab / Robotics Connection · SPIKE Prime · Coronation Shopping Plaza
+
+Singapur · Singapore · Coronation Shopping Plaza
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 9+ años según fecha de nacimiento.
+
+**Idioma:** El organizador indica expresamente que todas las clases se imparten en inglés.
+
+**Programa:** Movimiento, sensores, retos de ingeniería y programación por bloques de LEGO SPIKE Prime. Niveles 2–4 tras los anteriores.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas, sedes y horarios publicados. Cada turno indica su duración.
+
+**Precio / año:** 2026/27 · $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. Al elegir este grupo matinal, la pareja familiar Apprentice y SPIKE Prime cuesta $999 por 2 menores según el PDF. Confirmar 2 plazas, moneda y GST.
+
+**Incluido:** La familia aporta refrigerio y bebida. Las piezas LEGO son material de clase.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Matvey:** Desde 9 años. Se aconseja Scratch. Grupos avanzados tras los niveles anteriores.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Edad en el primer día del turno según fecha de nacimiento.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-11-23 — 2026-11-26
+
+**lugar:** Singapore · Coronation Shopping Plaza
+
+**edad:** 9+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Movimiento, sensores, retos de ingeniería y programación por bloques de LEGO SPIKE Prime. Niveles 2–4 tras los anteriores. Opciones de horario y sede: 09:30–12:00 · Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-11-23 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-24 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-25 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-26 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Desde 9 años. Se aconseja Scratch. Grupos avanzados tras los niveles anteriores.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_e472ac12e25b4a82b585fbc19139c170.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-12-14 — 2026-12-17
+
+**lugar:** Singapore · Coronation Shopping Plaza
+
+**edad:** 9+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Movimiento, sensores, retos de ingeniería y programación por bloques de LEGO SPIKE Prime. Niveles 2–4 tras los anteriores. Opciones de horario y sede: 09:30–12:00 · Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-14 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-15 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-16 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-17 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Desde 9 años. Se aconseja Scratch. Grupos avanzados tras los niveles anteriores.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_e472ac12e25b4a82b585fbc19139c170.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**lugar:** Singapore · Coronation Shopping Plaza
+
+**edad:** 9+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Movimiento, sensores, retos de ingeniería y programación por bloques de LEGO SPIKE Prime. Niveles 2–4 tras los anteriores. Opciones de horario y sede: 09:30–12:00 · Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-21 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-22 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-23 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-24 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Desde 9 años. Se aconseja Scratch. Grupos avanzados tras los niveles anteriores.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_e472ac12e25b4a82b585fbc19139c170.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**lugar:** Singapore · Coronation Shopping Plaza
+
+**edad:** 9+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Movimiento, sensores, retos de ingeniería y programación por bloques de LEGO SPIKE Prime. Niveles 2–4 tras los anteriores. Opciones de horario y sede: 09:30–12:00 · Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-28 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-29 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-30 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-31 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Desde 9 años. Se aconseja Scratch. Grupos avanzados tras los niveles anteriores.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_e472ac12e25b4a82b585fbc19139c170.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2027-01-04 — 2027-01-07
+
+**lugar:** Singapore · Coronation Shopping Plaza
+
+**edad:** 9+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Movimiento, sensores, retos de ingeniería y programación por bloques de LEGO SPIKE Prime. Niveles 2–4 tras los anteriores. Opciones de horario y sede: 09:30–12:00 · Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2027-01-04 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-05 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-06 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-07 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Desde 9 años. Se aconseja Scratch. Grupos avanzados tras los niveles anteriores.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_e472ac12e25b4a82b585fbc19139c170.pdf)
+
+### Fuentes
+
+- [Horarios, sedes y tarifas oficiales](https://www.worklab.com.sg/_files/ugd/4223d1_e472ac12e25b4a82b585fbc19139c170.pdf) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.robotics.com.sg/holiday-camps) · 2026-11-07
+
+- [Horarios, sedes y tarifas oficiales](https://www.robotics.com.sg/_files/ugd/4223d1_89a5120173d046419a41c42be349b4e7.pdf) · 2026-11-07
+
+## CP1597 · Children’s Worklab / Robotics Connection · Apprentice · Coronation Shopping Plaza
+
+Singapur · Singapore · Coronation Shopping Plaza
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 4.5–7 años. El PDF distingue grupos de 5–6 y 6–7 años y temas para 7+.
+
+**Idioma:** El organizador indica expresamente que todas las clases se imparten en inglés.
+
+**Programa:** Montaje LEGO y primeros programas en entorno visual. Tema variable según semana y edad.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas, sedes y horarios publicados. Cada turno indica su duración.
+
+**Precio / año:** 2026/27 · $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. Al elegir este grupo matinal, la pareja familiar Apprentice y SPIKE Prime cuesta $999 por 2 menores según el PDF. Confirmar 2 plazas, moneda y GST.
+
+**Incluido:** La familia aporta refrigerio y bebida. Las piezas LEGO son material de clase.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Matvey:** Para esta edad existen Junior, Senior o SPIKE Prime.
+
+**Oscar:** A Oscar le corresponden grupos iniciales. Tema de 5–6 o 6–7 según fecha de nacimiento y nivel.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Edad en el primer día del turno según fecha de nacimiento.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-11-23 — 2026-11-26
+
+**lugar:** Singapore · Coronation Shopping Plaza
+
+**edad:** 4.5–7 años. El PDF distingue grupos de 5–6 y 6–7 años y temas para 7+.
+
+**Precio:** $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Montaje LEGO y primeros programas en entorno visual. Tema variable según semana y edad. Opciones de horario y sede: 09:30–12:00 · Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-11-23 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-24 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-25 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-26 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Para esta edad existen Junior, Senior o SPIKE Prime.
+
+**Oscar:** A Oscar le corresponden grupos iniciales. Tema de 5–6 o 6–7 según fecha de nacimiento y nivel.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-12-14 — 2026-12-17
+
+**lugar:** Singapore · Coronation Shopping Plaza
+
+**edad:** 4.5–7 años. El PDF distingue grupos de 5–6 y 6–7 años y temas para 7+.
+
+**Precio:** $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Montaje LEGO y primeros programas en entorno visual. Tema variable según semana y edad. Opciones de horario y sede: 09:30–12:00 · Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-14 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-15 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-16 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-17 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Para esta edad existen Junior, Senior o SPIKE Prime.
+
+**Oscar:** A Oscar le corresponden grupos iniciales. Tema de 5–6 o 6–7 según fecha de nacimiento y nivel.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**lugar:** Singapore · Coronation Shopping Plaza
+
+**edad:** 4.5–7 años. El PDF distingue grupos de 5–6 y 6–7 años y temas para 7+.
+
+**Precio:** $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Montaje LEGO y primeros programas en entorno visual. Tema variable según semana y edad. Opciones de horario y sede: 09:30–12:00 · Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-21 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-22 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-23 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-24 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Para esta edad existen Junior, Senior o SPIKE Prime.
+
+**Oscar:** A Oscar le corresponden grupos iniciales. Tema de 5–6 o 6–7 según fecha de nacimiento y nivel.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**lugar:** Singapore · Coronation Shopping Plaza
+
+**edad:** 4.5–7 años. El PDF distingue grupos de 5–6 y 6–7 años y temas para 7+.
+
+**Precio:** $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Montaje LEGO y primeros programas en entorno visual. Tema variable según semana y edad. Opciones de horario y sede: 09:30–12:00 · Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-28 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-29 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-30 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-31 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Para esta edad existen Junior, Senior o SPIKE Prime.
+
+**Oscar:** A Oscar le corresponden grupos iniciales. Tema de 5–6 o 6–7 según fecha de nacimiento y nivel.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2027-01-04 — 2027-01-07
+
+**lugar:** Singapore · Coronation Shopping Plaza
+
+**edad:** 4.5–7 años. El PDF distingue grupos de 5–6 y 6–7 años y temas para 7+.
+
+**Precio:** $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Montaje LEGO y primeros programas en entorno visual. Tema variable según semana y edad. Opciones de horario y sede: 09:30–12:00 · Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2027-01-04 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-05 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-06 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-07 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Para esta edad existen Junior, Senior o SPIKE Prime.
+
+**Oscar:** A Oscar le corresponden grupos iniciales. Tema de 5–6 o 6–7 según fecha de nacimiento y nivel.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf)
+
+### Fuentes
+
+- [Horarios, sedes y tarifas oficiales](https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.robotics.com.sg/holiday-camps) · 2026-11-07
+
+## CP1598 · Children’s Worklab / Robotics Connection · Apprentice · Otras opciones publicadas
+
+Singapur · Singapore
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 4.5–7 años. El PDF distingue grupos de 5–6 y 6–7 años y temas para 7+.
+
+**Idioma:** El organizador indica expresamente que todas las clases se imparten en inglés.
+
+**Programa:** Montaje LEGO y primeros programas en entorno visual. Tema variable según semana y edad.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas, sedes y horarios publicados. Cada turno indica su duración.
+
+**Precio / año:** 2026/27 · $449 por menor según el folleto. 3 medias jornadas / $499 por menor según el folleto. 4 medias jornadas / $549 por menor según el folleto. 5 medias jornadas El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Incluido:** La familia aporta refrigerio y bebida. Las piezas LEGO son material de clase.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Matvey:** Para esta edad existen Junior, Senior o SPIKE Prime.
+
+**Oscar:** A Oscar le corresponden grupos iniciales. Tema de 5–6 o 6–7 según fecha de nacimiento y nivel.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Edad en el primer día del turno según fecha de nacimiento.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2026-11-23 — 2026-11-25
+
+**lugar:** Singapore
+
+**edad:** 4.5–7 años. El PDF distingue grupos de 5–6 y 6–7 años y temas para 7+.
+
+**Precio:** $449 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Montaje LEGO y primeros programas en entorno visual. Tema variable según semana y edad. Opciones de horario y sede: 09:30–12:00 · Forum The Shopping Mall, UE Square, Shaw Centre, Coronation Shopping Plaza / 14:30–17:00 · Forum The Shopping Mall, UE Square, Shaw Centre, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Para esta edad existen Junior, Senior o SPIKE Prime.
+
+**Oscar:** A Oscar le corresponden grupos iniciales. Tema de 5–6 o 6–7 según fecha de nacimiento y nivel.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-11-23 — 2026-11-26
+
+**lugar:** Singapore
+
+**edad:** 4.5–7 años. El PDF distingue grupos de 5–6 y 6–7 años y temas para 7+.
+
+**Precio:** $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Montaje LEGO y primeros programas en entorno visual. Tema variable según semana y edad. Opciones de horario y sede: 09:30–12:00 · Shaw Centre / 14:30–17:00 · Forum The Shopping Mall, UE Square, Shaw Centre, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Para esta edad existen Junior, Senior o SPIKE Prime.
+
+**Oscar:** A Oscar le corresponden grupos iniciales. Tema de 5–6 o 6–7 según fecha de nacimiento y nivel.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf)
+
+### 5 medias jornadas
+
+**Fechas / estado:** 2026-11-23 — 2026-11-27
+
+**lugar:** Singapore
+
+**edad:** 4.5–7 años. El PDF distingue grupos de 5–6 y 6–7 años y temas para 7+.
+
+**Precio:** $549 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Montaje LEGO y primeros programas en entorno visual. Tema variable según semana y edad. Opciones de horario y sede: 09:30–12:00 · Forum The Shopping Mall, UE Square, Shaw Centre, Coronation Shopping Plaza / 14:30–17:00 · Forum The Shopping Mall, UE Square, Shaw Centre, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Para esta edad existen Junior, Senior o SPIKE Prime.
+
+**Oscar:** A Oscar le corresponden grupos iniciales. Tema de 5–6 o 6–7 según fecha de nacimiento y nivel.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf)
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2026-11-30 — 2026-12-02
+
+**lugar:** Singapore
+
+**edad:** 4.5–7 años. El PDF distingue grupos de 5–6 y 6–7 años y temas para 7+.
+
+**Precio:** $449 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Montaje LEGO y primeros programas en entorno visual. Tema variable según semana y edad. Opciones de horario y sede: 09:30–12:00 · Forum The Shopping Mall, UE Square, Shaw Centre / 14:30–17:00 · Shaw Centre.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Para esta edad existen Junior, Senior o SPIKE Prime.
+
+**Oscar:** A Oscar le corresponden grupos iniciales. Tema de 5–6 o 6–7 según fecha de nacimiento y nivel.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-11-30 — 2026-12-03
+
+**lugar:** Singapore
+
+**edad:** 4.5–7 años. El PDF distingue grupos de 5–6 y 6–7 años y temas para 7+.
+
+**Precio:** $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Montaje LEGO y primeros programas en entorno visual. Tema variable según semana y edad. Opciones de horario y sede: 09:30–12:00 · Shaw Centre / 14:30–17:00 · Shaw Centre.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Para esta edad existen Junior, Senior o SPIKE Prime.
+
+**Oscar:** A Oscar le corresponden grupos iniciales. Tema de 5–6 o 6–7 según fecha de nacimiento y nivel.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf)
+
+### 5 medias jornadas
+
+**Fechas / estado:** 2026-11-30 — 2026-12-04
+
+**lugar:** Singapore
+
+**edad:** 4.5–7 años. El PDF distingue grupos de 5–6 y 6–7 años y temas para 7+.
+
+**Precio:** $549 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Montaje LEGO y primeros programas en entorno visual. Tema variable según semana y edad. Opciones de horario y sede: 09:30–12:00 · Forum The Shopping Mall, UE Square, Shaw Centre / 14:30–17:00 · Shaw Centre.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Para esta edad existen Junior, Senior o SPIKE Prime.
+
+**Oscar:** A Oscar le corresponden grupos iniciales. Tema de 5–6 o 6–7 según fecha de nacimiento y nivel.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf)
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2026-12-07 — 2026-12-09
+
+**lugar:** Singapore
+
+**edad:** 4.5–7 años. El PDF distingue grupos de 5–6 y 6–7 años y temas para 7+.
+
+**Precio:** $449 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Montaje LEGO y primeros programas en entorno visual. Tema variable según semana y edad. Opciones de horario y sede: 09:30–12:00 · Forum The Shopping Mall, UE Square, Shaw Centre / 14:30–17:00 · Shaw Centre.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Para esta edad existen Junior, Senior o SPIKE Prime.
+
+**Oscar:** A Oscar le corresponden grupos iniciales. Tema de 5–6 o 6–7 según fecha de nacimiento y nivel.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-12-07 — 2026-12-10
+
+**lugar:** Singapore
+
+**edad:** 4.5–7 años. El PDF distingue grupos de 5–6 y 6–7 años y temas para 7+.
+
+**Precio:** $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Montaje LEGO y primeros programas en entorno visual. Tema variable según semana y edad. Opciones de horario y sede: 09:30–12:00 · Shaw Centre / 14:30–17:00 · Shaw Centre.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Para esta edad existen Junior, Senior o SPIKE Prime.
+
+**Oscar:** A Oscar le corresponden grupos iniciales. Tema de 5–6 o 6–7 según fecha de nacimiento y nivel.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf)
+
+### 5 medias jornadas
+
+**Fechas / estado:** 2026-12-07 — 2026-12-11
+
+**lugar:** Singapore
+
+**edad:** 4.5–7 años. El PDF distingue grupos de 5–6 y 6–7 años y temas para 7+.
+
+**Precio:** $549 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Montaje LEGO y primeros programas en entorno visual. Tema variable según semana y edad. Opciones de horario y sede: 09:30–12:00 · Forum The Shopping Mall, UE Square, Shaw Centre / 14:30–17:00 · Shaw Centre.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Para esta edad existen Junior, Senior o SPIKE Prime.
+
+**Oscar:** A Oscar le corresponden grupos iniciales. Tema de 5–6 o 6–7 según fecha de nacimiento y nivel.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf)
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2026-12-14 — 2026-12-16
+
+**lugar:** Singapore
+
+**edad:** 4.5–7 años. El PDF distingue grupos de 5–6 y 6–7 años y temas para 7+.
+
+**Precio:** $449 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Montaje LEGO y primeros programas en entorno visual. Tema variable según semana y edad. Opciones de horario y sede: 09:30–12:00 · Forum The Shopping Mall, UE Square, Shaw Centre, Coronation Shopping Plaza / 14:30–17:00 · Forum The Shopping Mall, UE Square, Shaw Centre, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Para esta edad existen Junior, Senior o SPIKE Prime.
+
+**Oscar:** A Oscar le corresponden grupos iniciales. Tema de 5–6 o 6–7 según fecha de nacimiento y nivel.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-12-14 — 2026-12-17
+
+**lugar:** Singapore
+
+**edad:** 4.5–7 años. El PDF distingue grupos de 5–6 y 6–7 años y temas para 7+.
+
+**Precio:** $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Montaje LEGO y primeros programas en entorno visual. Tema variable según semana y edad. Opciones de horario y sede: 09:30–12:00 · Shaw Centre / 14:30–17:00 · Forum The Shopping Mall, UE Square, Shaw Centre, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Para esta edad existen Junior, Senior o SPIKE Prime.
+
+**Oscar:** A Oscar le corresponden grupos iniciales. Tema de 5–6 o 6–7 según fecha de nacimiento y nivel.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf)
+
+### 5 medias jornadas
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**lugar:** Singapore
+
+**edad:** 4.5–7 años. El PDF distingue grupos de 5–6 y 6–7 años y temas para 7+.
+
+**Precio:** $549 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Montaje LEGO y primeros programas en entorno visual. Tema variable según semana y edad. Opciones de horario y sede: 09:30–12:00 · Forum The Shopping Mall, UE Square, Shaw Centre, Coronation Shopping Plaza / 14:30–17:00 · Forum The Shopping Mall, UE Square, Shaw Centre, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Para esta edad existen Junior, Senior o SPIKE Prime.
+
+**Oscar:** A Oscar le corresponden grupos iniciales. Tema de 5–6 o 6–7 según fecha de nacimiento y nivel.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf)
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2026-12-21 — 2026-12-23
+
+**lugar:** Singapore
+
+**edad:** 4.5–7 años. El PDF distingue grupos de 5–6 y 6–7 años y temas para 7+.
+
+**Precio:** $449 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Montaje LEGO y primeros programas en entorno visual. Tema variable según semana y edad. Opciones de horario y sede: 09:30–12:00 · Forum The Shopping Mall, UE Square, Shaw Centre, Coronation Shopping Plaza / 14:30–17:00 · Forum The Shopping Mall, UE Square, Shaw Centre, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Para esta edad existen Junior, Senior o SPIKE Prime.
+
+**Oscar:** A Oscar le corresponden grupos iniciales. Tema de 5–6 o 6–7 según fecha de nacimiento y nivel.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**lugar:** Singapore
+
+**edad:** 4.5–7 años. El PDF distingue grupos de 5–6 y 6–7 años y temas para 7+.
+
+**Precio:** $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Montaje LEGO y primeros programas en entorno visual. Tema variable según semana y edad. Opciones de horario y sede: 09:30–12:00 · Shaw Centre / 14:30–17:00 · Forum The Shopping Mall, UE Square, Shaw Centre, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Para esta edad existen Junior, Senior o SPIKE Prime.
+
+**Oscar:** A Oscar le corresponden grupos iniciales. Tema de 5–6 o 6–7 según fecha de nacimiento y nivel.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf)
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2026-12-28 — 2026-12-30
+
+**lugar:** Singapore
+
+**edad:** 4.5–7 años. El PDF distingue grupos de 5–6 y 6–7 años y temas para 7+.
+
+**Precio:** $449 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Montaje LEGO y primeros programas en entorno visual. Tema variable según semana y edad. Opciones de horario y sede: 09:30–12:00 · Forum The Shopping Mall, UE Square, Shaw Centre, Coronation Shopping Plaza / 14:30–17:00 · Forum The Shopping Mall, UE Square, Shaw Centre, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Para esta edad existen Junior, Senior o SPIKE Prime.
+
+**Oscar:** A Oscar le corresponden grupos iniciales. Tema de 5–6 o 6–7 según fecha de nacimiento y nivel.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**lugar:** Singapore
+
+**edad:** 4.5–7 años. El PDF distingue grupos de 5–6 y 6–7 años y temas para 7+.
+
+**Precio:** $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Montaje LEGO y primeros programas en entorno visual. Tema variable según semana y edad. Opciones de horario y sede: 09:30–12:00 · Shaw Centre / 14:30–17:00 · Forum The Shopping Mall, UE Square, Shaw Centre, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Para esta edad existen Junior, Senior o SPIKE Prime.
+
+**Oscar:** A Oscar le corresponden grupos iniciales. Tema de 5–6 o 6–7 según fecha de nacimiento y nivel.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf)
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2027-01-04 — 2027-01-06
+
+**lugar:** Singapore
+
+**edad:** 4.5–7 años. El PDF distingue grupos de 5–6 y 6–7 años y temas para 7+.
+
+**Precio:** $449 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Montaje LEGO y primeros programas en entorno visual. Tema variable según semana y edad. Opciones de horario y sede: 09:30–12:00 · Forum The Shopping Mall, UE Square, Shaw Centre, Coronation Shopping Plaza / 14:30–17:00 · Forum The Shopping Mall, UE Square, Shaw Centre, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Para esta edad existen Junior, Senior o SPIKE Prime.
+
+**Oscar:** A Oscar le corresponden grupos iniciales. Tema de 5–6 o 6–7 según fecha de nacimiento y nivel.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2027-01-04 — 2027-01-07
+
+**lugar:** Singapore
+
+**edad:** 4.5–7 años. El PDF distingue grupos de 5–6 y 6–7 años y temas para 7+.
+
+**Precio:** $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Montaje LEGO y primeros programas en entorno visual. Tema variable según semana y edad. Opciones de horario y sede: 09:30–12:00 · Shaw Centre / 14:30–17:00 · Forum The Shopping Mall, UE Square, Shaw Centre, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Para esta edad existen Junior, Senior o SPIKE Prime.
+
+**Oscar:** A Oscar le corresponden grupos iniciales. Tema de 5–6 o 6–7 según fecha de nacimiento y nivel.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf)
+
+### 5 medias jornadas
+
+**Fechas / estado:** 2027-01-04 — 2027-01-08
+
+**lugar:** Singapore
+
+**edad:** 4.5–7 años. El PDF distingue grupos de 5–6 y 6–7 años y temas para 7+.
+
+**Precio:** $549 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Montaje LEGO y primeros programas en entorno visual. Tema variable según semana y edad. Opciones de horario y sede: 09:30–12:00 · Forum The Shopping Mall, UE Square, Shaw Centre, Coronation Shopping Plaza / 14:30–17:00 · Forum The Shopping Mall, UE Square, Shaw Centre, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Para esta edad existen Junior, Senior o SPIKE Prime.
+
+**Oscar:** A Oscar le corresponden grupos iniciales. Tema de 5–6 o 6–7 según fecha de nacimiento y nivel.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf)
+
+### Fuentes
+
+- [Horarios, sedes y tarifas oficiales](https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.robotics.com.sg/holiday-camps) · 2026-11-07
+
+## CP1599 · Children’s Worklab / Robotics Connection · SPIKE Prime · Grupo de tarde
+
+Singapur · Singapore
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 9+ años según fecha de nacimiento.
+
+**Idioma:** El organizador indica expresamente que todas las clases se imparten en inglés.
+
+**Programa:** Movimiento, sensores, retos de ingeniería y programación por bloques de LEGO SPIKE Prime. Niveles 2–4 tras los anteriores.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas, sedes y horarios publicados. Cada turno indica su duración.
+
+**Precio / año:** 2026/27 · $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Incluido:** La familia aporta refrigerio y bebida. Las piezas LEGO son material de clase.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Matvey:** Desde 9 años. Se aconseja Scratch. Grupos avanzados tras los niveles anteriores.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Edad en el primer día del turno según fecha de nacimiento.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-11-23 — 2026-11-26
+
+**lugar:** Singapore
+
+**edad:** 9+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Movimiento, sensores, retos de ingeniería y programación por bloques de LEGO SPIKE Prime. Niveles 2–4 tras los anteriores. Opciones de horario y sede: 14:00–16:30 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-11-23 · 14:00–16:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-24 · 14:00–16:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-25 · 14:00–16:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-26 · 14:00–16:30 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Desde 9 años. Se aconseja Scratch. Grupos avanzados tras los niveles anteriores.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_e472ac12e25b4a82b585fbc19139c170.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-12-14 — 2026-12-17
+
+**lugar:** Singapore
+
+**edad:** 9+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Movimiento, sensores, retos de ingeniería y programación por bloques de LEGO SPIKE Prime. Niveles 2–4 tras los anteriores. Opciones de horario y sede: 14:00–16:30 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-14 · 14:00–16:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-15 · 14:00–16:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-16 · 14:00–16:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-17 · 14:00–16:30 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Desde 9 años. Se aconseja Scratch. Grupos avanzados tras los niveles anteriores.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_e472ac12e25b4a82b585fbc19139c170.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**lugar:** Singapore
+
+**edad:** 9+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Movimiento, sensores, retos de ingeniería y programación por bloques de LEGO SPIKE Prime. Niveles 2–4 tras los anteriores. Opciones de horario y sede: 14:00–16:30 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-21 · 14:00–16:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-22 · 14:00–16:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-23 · 14:00–16:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-24 · 14:00–16:30 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Desde 9 años. Se aconseja Scratch. Grupos avanzados tras los niveles anteriores.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_e472ac12e25b4a82b585fbc19139c170.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**lugar:** Singapore
+
+**edad:** 9+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Movimiento, sensores, retos de ingeniería y programación por bloques de LEGO SPIKE Prime. Niveles 2–4 tras los anteriores. Opciones de horario y sede: 14:00–16:30 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-28 · 14:00–16:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-29 · 14:00–16:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-30 · 14:00–16:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-31 · 14:00–16:30 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Desde 9 años. Se aconseja Scratch. Grupos avanzados tras los niveles anteriores.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_e472ac12e25b4a82b585fbc19139c170.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2027-01-04 — 2027-01-07
+
+**lugar:** Singapore
+
+**edad:** 9+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Movimiento, sensores, retos de ingeniería y programación por bloques de LEGO SPIKE Prime. Niveles 2–4 tras los anteriores. Opciones de horario y sede: 14:00–16:30 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2027-01-04 · 14:00–16:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-05 · 14:00–16:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-06 · 14:00–16:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-07 · 14:00–16:30 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Desde 9 años. Se aconseja Scratch. Grupos avanzados tras los niveles anteriores.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_e472ac12e25b4a82b585fbc19139c170.pdf)
+
+### Fuentes
+
+- [Horarios, sedes y tarifas oficiales](https://www.worklab.com.sg/_files/ugd/4223d1_e472ac12e25b4a82b585fbc19139c170.pdf) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.robotics.com.sg/holiday-camps) · 2026-11-07
+
+- [Horarios, sedes y tarifas oficiales](https://www.robotics.com.sg/_files/ugd/4223d1_89a5120173d046419a41c42be349b4e7.pdf) · 2026-11-07
+
+## CP1600 · Children’s Worklab / Robotics Connection · RoboCamp Junior / Senior
+
+Singapur · Singapore
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Junior 8–9 años, Senior 9+ años según el PDF. Confirmar el límite superior del nivel elegido.
+
+**Idioma:** El organizador indica expresamente que todas las clases se imparten en inglés.
+
+**Programa:** Práctica de montaje y programación LEGO. Los niveles Junior y Senior se eligen con el centro.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas, sedes y horarios publicados. Cada turno indica su duración.
+
+**Precio / año:** 2026/27 · $499 por menor según el folleto. 3 medias jornadas / $549 por menor según el folleto. 4 medias jornadas / $599 por menor según el folleto. 5 medias jornadas El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Incluido:** La familia aporta refrigerio y bebida. Las piezas LEGO son material de clase.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Matvey:** Con 9 años existen Junior y Senior. Confirmar nivel y plaza con el centro.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Edad en el primer día del turno según fecha de nacimiento.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2026-11-23 — 2026-11-25
+
+**lugar:** Singapore
+
+**edad:** Junior 8–9 años, Senior 9+ años según el PDF. Confirmar el límite superior del nivel elegido.
+
+**Precio:** $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Práctica de montaje y programación LEGO. Los niveles Junior y Senior se eligen con el centro. Opciones de horario y sede: 09:00–12:00 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza / 14:00–17:00 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Con 9 años existen Junior y Senior. Confirmar nivel y plaza con el centro.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_43494d988d8d484c96f66975aa07a403.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-11-23 — 2026-11-26
+
+**lugar:** Singapore
+
+**edad:** Junior 8–9 años, Senior 9+ años según el PDF. Confirmar el límite superior del nivel elegido.
+
+**Precio:** $549 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Práctica de montaje y programación LEGO. Los niveles Junior y Senior se eligen con el centro. Opciones de horario y sede: 09:00–12:00 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza / 14:00–17:00 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Con 9 años existen Junior y Senior. Confirmar nivel y plaza con el centro.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_43494d988d8d484c96f66975aa07a403.pdf)
+
+### 5 medias jornadas
+
+**Fechas / estado:** 2026-11-23 — 2026-11-27
+
+**lugar:** Singapore
+
+**edad:** Junior 8–9 años, Senior 9+ años según el PDF. Confirmar el límite superior del nivel elegido.
+
+**Precio:** $599 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Práctica de montaje y programación LEGO. Los niveles Junior y Senior se eligen con el centro. Opciones de horario y sede: 09:00–12:00 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza / 14:00–17:00 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Con 9 años existen Junior y Senior. Confirmar nivel y plaza con el centro.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_43494d988d8d484c96f66975aa07a403.pdf)
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2026-11-30 — 2026-12-02
+
+**lugar:** Singapore
+
+**edad:** Junior 8–9 años, Senior 9+ años según el PDF. Confirmar el límite superior del nivel elegido.
+
+**Precio:** $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Práctica de montaje y programación LEGO. Los niveles Junior y Senior se eligen con el centro. Opciones de horario y sede: 09:00–12:00 · Forum The Shopping Mall, UE Square.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-11-30 · 09:00–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-01 · 09:00–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-02 · 09:00–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Con 9 años existen Junior y Senior. Confirmar nivel y plaza con el centro.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_43494d988d8d484c96f66975aa07a403.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-11-30 — 2026-12-03
+
+**lugar:** Singapore
+
+**edad:** Junior 8–9 años, Senior 9+ años según el PDF. Confirmar el límite superior del nivel elegido.
+
+**Precio:** $549 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Práctica de montaje y programación LEGO. Los niveles Junior y Senior se eligen con el centro. Opciones de horario y sede: 09:00–12:00 · Forum The Shopping Mall, UE Square.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-11-30 · 09:00–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-01 · 09:00–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-02 · 09:00–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-03 · 09:00–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Con 9 años existen Junior y Senior. Confirmar nivel y plaza con el centro.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_43494d988d8d484c96f66975aa07a403.pdf)
+
+### 5 medias jornadas
+
+**Fechas / estado:** 2026-11-30 — 2026-12-04
+
+**lugar:** Singapore
+
+**edad:** Junior 8–9 años, Senior 9+ años según el PDF. Confirmar el límite superior del nivel elegido.
+
+**Precio:** $599 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Práctica de montaje y programación LEGO. Los niveles Junior y Senior se eligen con el centro. Opciones de horario y sede: 09:00–12:00 · Forum The Shopping Mall, UE Square.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-11-30 · 09:00–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-01 · 09:00–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-02 · 09:00–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-03 · 09:00–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-04 · 09:00–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Con 9 años existen Junior y Senior. Confirmar nivel y plaza con el centro.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_43494d988d8d484c96f66975aa07a403.pdf)
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2026-12-07 — 2026-12-09
+
+**lugar:** Singapore
+
+**edad:** Junior 8–9 años, Senior 9+ años según el PDF. Confirmar el límite superior del nivel elegido.
+
+**Precio:** $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Práctica de montaje y programación LEGO. Los niveles Junior y Senior se eligen con el centro. Opciones de horario y sede: 09:00–12:00 · Forum The Shopping Mall, UE Square.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-07 · 09:00–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-08 · 09:00–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-09 · 09:00–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Con 9 años existen Junior y Senior. Confirmar nivel y plaza con el centro.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_43494d988d8d484c96f66975aa07a403.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-12-07 — 2026-12-10
+
+**lugar:** Singapore
+
+**edad:** Junior 8–9 años, Senior 9+ años según el PDF. Confirmar el límite superior del nivel elegido.
+
+**Precio:** $549 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Práctica de montaje y programación LEGO. Los niveles Junior y Senior se eligen con el centro. Opciones de horario y sede: 09:00–12:00 · Forum The Shopping Mall, UE Square.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-07 · 09:00–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-08 · 09:00–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-09 · 09:00–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-10 · 09:00–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Con 9 años existen Junior y Senior. Confirmar nivel y plaza con el centro.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_43494d988d8d484c96f66975aa07a403.pdf)
+
+### 5 medias jornadas
+
+**Fechas / estado:** 2026-12-07 — 2026-12-11
+
+**lugar:** Singapore
+
+**edad:** Junior 8–9 años, Senior 9+ años según el PDF. Confirmar el límite superior del nivel elegido.
+
+**Precio:** $599 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Práctica de montaje y programación LEGO. Los niveles Junior y Senior se eligen con el centro. Opciones de horario y sede: 09:00–12:00 · Forum The Shopping Mall, UE Square.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-07 · 09:00–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-08 · 09:00–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-09 · 09:00–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-10 · 09:00–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-11 · 09:00–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Con 9 años existen Junior y Senior. Confirmar nivel y plaza con el centro.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_43494d988d8d484c96f66975aa07a403.pdf)
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2026-12-14 — 2026-12-16
+
+**lugar:** Singapore
+
+**edad:** Junior 8–9 años, Senior 9+ años según el PDF. Confirmar el límite superior del nivel elegido.
+
+**Precio:** $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Práctica de montaje y programación LEGO. Los niveles Junior y Senior se eligen con el centro. Opciones de horario y sede: 09:00–12:00 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza / 14:00–17:00 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Con 9 años existen Junior y Senior. Confirmar nivel y plaza con el centro.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_43494d988d8d484c96f66975aa07a403.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-12-14 — 2026-12-17
+
+**lugar:** Singapore
+
+**edad:** Junior 8–9 años, Senior 9+ años según el PDF. Confirmar el límite superior del nivel elegido.
+
+**Precio:** $549 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Práctica de montaje y programación LEGO. Los niveles Junior y Senior se eligen con el centro. Opciones de horario y sede: 09:00–12:00 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza / 14:00–17:00 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Con 9 años existen Junior y Senior. Confirmar nivel y plaza con el centro.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_43494d988d8d484c96f66975aa07a403.pdf)
+
+### 5 medias jornadas
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**lugar:** Singapore
+
+**edad:** Junior 8–9 años, Senior 9+ años según el PDF. Confirmar el límite superior del nivel elegido.
+
+**Precio:** $599 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Práctica de montaje y programación LEGO. Los niveles Junior y Senior se eligen con el centro. Opciones de horario y sede: 09:00–12:00 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza / 14:00–17:00 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Con 9 años existen Junior y Senior. Confirmar nivel y plaza con el centro.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_43494d988d8d484c96f66975aa07a403.pdf)
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2026-12-21 — 2026-12-23
+
+**lugar:** Singapore
+
+**edad:** Junior 8–9 años, Senior 9+ años según el PDF. Confirmar el límite superior del nivel elegido.
+
+**Precio:** $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Práctica de montaje y programación LEGO. Los niveles Junior y Senior se eligen con el centro. Opciones de horario y sede: 09:00–12:00 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza / 14:00–17:00 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Con 9 años existen Junior y Senior. Confirmar nivel y plaza con el centro.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_43494d988d8d484c96f66975aa07a403.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**lugar:** Singapore
+
+**edad:** Junior 8–9 años, Senior 9+ años según el PDF. Confirmar el límite superior del nivel elegido.
+
+**Precio:** $549 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Práctica de montaje y programación LEGO. Los niveles Junior y Senior se eligen con el centro. Opciones de horario y sede: 09:00–12:00 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza / 14:00–17:00 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Con 9 años existen Junior y Senior. Confirmar nivel y plaza con el centro.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_43494d988d8d484c96f66975aa07a403.pdf)
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2026-12-28 — 2026-12-30
+
+**lugar:** Singapore
+
+**edad:** Junior 8–9 años, Senior 9+ años según el PDF. Confirmar el límite superior del nivel elegido.
+
+**Precio:** $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Práctica de montaje y programación LEGO. Los niveles Junior y Senior se eligen con el centro. Opciones de horario y sede: 09:00–12:00 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza / 14:00–17:00 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Con 9 años existen Junior y Senior. Confirmar nivel y plaza con el centro.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_43494d988d8d484c96f66975aa07a403.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**lugar:** Singapore
+
+**edad:** Junior 8–9 años, Senior 9+ años según el PDF. Confirmar el límite superior del nivel elegido.
+
+**Precio:** $549 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Práctica de montaje y programación LEGO. Los niveles Junior y Senior se eligen con el centro. Opciones de horario y sede: 09:00–12:00 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza / 14:00–17:00 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Con 9 años existen Junior y Senior. Confirmar nivel y plaza con el centro.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_43494d988d8d484c96f66975aa07a403.pdf)
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2027-01-04 — 2027-01-06
+
+**lugar:** Singapore
+
+**edad:** Junior 8–9 años, Senior 9+ años según el PDF. Confirmar el límite superior del nivel elegido.
+
+**Precio:** $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Práctica de montaje y programación LEGO. Los niveles Junior y Senior se eligen con el centro. Opciones de horario y sede: 09:00–12:00 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza / 14:00–17:00 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Con 9 años existen Junior y Senior. Confirmar nivel y plaza con el centro.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_43494d988d8d484c96f66975aa07a403.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2027-01-04 — 2027-01-07
+
+**lugar:** Singapore
+
+**edad:** Junior 8–9 años, Senior 9+ años según el PDF. Confirmar el límite superior del nivel elegido.
+
+**Precio:** $549 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Práctica de montaje y programación LEGO. Los niveles Junior y Senior se eligen con el centro. Opciones de horario y sede: 09:00–12:00 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza / 14:00–17:00 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Con 9 años existen Junior y Senior. Confirmar nivel y plaza con el centro.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_43494d988d8d484c96f66975aa07a403.pdf)
+
+### 5 medias jornadas
+
+**Fechas / estado:** 2027-01-04 — 2027-01-08
+
+**lugar:** Singapore
+
+**edad:** Junior 8–9 años, Senior 9+ años según el PDF. Confirmar el límite superior del nivel elegido.
+
+**Precio:** $599 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Práctica de montaje y programación LEGO. Los niveles Junior y Senior se eligen con el centro. Opciones de horario y sede: 09:00–12:00 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza / 14:00–17:00 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Con 9 años existen Junior y Senior. Confirmar nivel y plaza con el centro.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_43494d988d8d484c96f66975aa07a403.pdf)
+
+### Fuentes
+
+- [Horarios, sedes y tarifas oficiales](https://www.robotics.com.sg/_files/ugd/4223d1_43494d988d8d484c96f66975aa07a403.pdf) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.robotics.com.sg/holiday-camps) · 2026-11-07
+
+## CP1601 · Children’s Worklab / Robotics Connection · 3D Modelling and Printing
+
+Singapur · Singapore
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 8+ años según fecha de nacimiento.
+
+**Idioma:** El organizador indica expresamente que todas las clases se imparten en inglés.
+
+**Programa:** Diseño en Tinkercad e impresión de pieza para llevar a casa. Camp 2 después de Camp 1.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas, sedes y horarios publicados. Cada turno indica su duración.
+
+**Precio / año:** 2026/27 · $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Incluido:** La familia aporta refrigerio y bebida. Las piezas LEGO son material de clase.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Edad en el primer día del turno según fecha de nacimiento.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-11-23 — 2026-11-26
+
+**lugar:** Singapore
+
+**edad:** 8+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Diseño en Tinkercad e impresión de pieza para llevar a casa. Camp 2 después de Camp 1. Opciones de horario y sede: 09:00–11:30 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza / 14:00–16:30 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_10c7fe684ddf4438a87cdf0fe43d2a0d.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-11-30 — 2026-12-03
+
+**lugar:** Singapore
+
+**edad:** 8+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Diseño en Tinkercad e impresión de pieza para llevar a casa. Camp 2 después de Camp 1. Opciones de horario y sede: 09:00–11:30 · Forum The Shopping Mall, UE Square.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-11-30 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-01 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-02 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-03 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_10c7fe684ddf4438a87cdf0fe43d2a0d.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-12-07 — 2026-12-10
+
+**lugar:** Singapore
+
+**edad:** 8+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Diseño en Tinkercad e impresión de pieza para llevar a casa. Camp 2 después de Camp 1. Opciones de horario y sede: 09:00–11:30 · Forum The Shopping Mall, UE Square.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-07 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-08 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-09 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-10 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_10c7fe684ddf4438a87cdf0fe43d2a0d.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-12-14 — 2026-12-17
+
+**lugar:** Singapore
+
+**edad:** 8+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Diseño en Tinkercad e impresión de pieza para llevar a casa. Camp 2 después de Camp 1. Opciones de horario y sede: 09:00–11:30 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza / 14:00–16:30 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_10c7fe684ddf4438a87cdf0fe43d2a0d.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**lugar:** Singapore
+
+**edad:** 8+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Diseño en Tinkercad e impresión de pieza para llevar a casa. Camp 2 después de Camp 1. Opciones de horario y sede: 09:00–11:30 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza / 14:00–16:30 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_10c7fe684ddf4438a87cdf0fe43d2a0d.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**lugar:** Singapore
+
+**edad:** 8+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Diseño en Tinkercad e impresión de pieza para llevar a casa. Camp 2 después de Camp 1. Opciones de horario y sede: 09:00–11:30 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza / 14:00–16:30 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_10c7fe684ddf4438a87cdf0fe43d2a0d.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2027-01-04 — 2027-01-07
+
+**lugar:** Singapore
+
+**edad:** 8+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Diseño en Tinkercad e impresión de pieza para llevar a casa. Camp 2 después de Camp 1. Opciones de horario y sede: 09:00–11:30 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza / 14:00–16:30 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_10c7fe684ddf4438a87cdf0fe43d2a0d.pdf)
+
+### Fuentes
+
+- [Horarios, sedes y tarifas oficiales](https://www.robotics.com.sg/_files/ugd/4223d1_10c7fe684ddf4438a87cdf0fe43d2a0d.pdf) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.robotics.com.sg/holiday-camps) · 2026-11-07
+
+## CP1602 · Children’s Worklab / Robotics Connection · Xplorers
+
+Singapur · Singapore
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 7+ años según fecha de nacimiento.
+
+**Idioma:** El organizador indica expresamente que todas las clases se imparten en inglés.
+
+**Programa:** Robótica LEGO por la mañana y stop motion por la tarde. Principiantes siguen un guion y participantes repetidores pueden crear el suyo.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas, sedes y horarios publicados. Cada turno indica su duración.
+
+**Precio / año:** 2026/27 · $599 por menor según el folleto. 3 días completos / $649 por menor según el folleto. 4 días completos / $699 por menor según el folleto. 5 días completos El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Incluido:** La familia aporta refrigerio y bebida. Las piezas LEGO son material de clase. Almuerzo incluido. Menú bajo consulta.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** Si ya cumplió 7 años al inicio del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Edad en el primer día del turno según fecha de nacimiento.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### 3 días completos
+
+**Fechas / estado:** 2026-11-23 — 2026-11-25
+
+**lugar:** Singapore
+
+**edad:** 7+ años según fecha de nacimiento.
+
+**Precio:** $599 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Robótica LEGO por la mañana y stop motion por la tarde. Principiantes siguen un guion y participantes repetidores pueden crear el suyo. Opciones de horario y sede: 09:00–15:00 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-11-23 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-24 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-25 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_672d92fcffaa45b3bf3d8bb06e5fa460.pdf)
+
+### 4 días completos
+
+**Fechas / estado:** 2026-11-23 — 2026-11-26
+
+**lugar:** Singapore
+
+**edad:** 7+ años según fecha de nacimiento.
+
+**Precio:** $649 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Robótica LEGO por la mañana y stop motion por la tarde. Principiantes siguen un guion y participantes repetidores pueden crear el suyo. Opciones de horario y sede: 09:00–15:00 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-11-23 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-24 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-25 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-26 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_672d92fcffaa45b3bf3d8bb06e5fa460.pdf)
+
+### 5 días completos
+
+**Fechas / estado:** 2026-11-23 — 2026-11-27
+
+**lugar:** Singapore
+
+**edad:** 7+ años según fecha de nacimiento.
+
+**Precio:** $699 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Robótica LEGO por la mañana y stop motion por la tarde. Principiantes siguen un guion y participantes repetidores pueden crear el suyo. Opciones de horario y sede: 09:00–15:00 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-11-23 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-24 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-25 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-26 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-27 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_672d92fcffaa45b3bf3d8bb06e5fa460.pdf)
+
+### 3 días completos
+
+**Fechas / estado:** 2026-11-30 — 2026-12-02
+
+**lugar:** Singapore
+
+**edad:** 7+ años según fecha de nacimiento.
+
+**Precio:** $599 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Robótica LEGO por la mañana y stop motion por la tarde. Principiantes siguen un guion y participantes repetidores pueden crear el suyo. Opciones de horario y sede: 09:00–15:00 · Forum The Shopping Mall, UE Square.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-11-30 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-01 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-02 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_672d92fcffaa45b3bf3d8bb06e5fa460.pdf)
+
+### 4 días completos
+
+**Fechas / estado:** 2026-11-30 — 2026-12-03
+
+**lugar:** Singapore
+
+**edad:** 7+ años según fecha de nacimiento.
+
+**Precio:** $649 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Robótica LEGO por la mañana y stop motion por la tarde. Principiantes siguen un guion y participantes repetidores pueden crear el suyo. Opciones de horario y sede: 09:00–15:00 · Forum The Shopping Mall, UE Square.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-11-30 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-01 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-02 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-03 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_672d92fcffaa45b3bf3d8bb06e5fa460.pdf)
+
+### 5 días completos
+
+**Fechas / estado:** 2026-11-30 — 2026-12-04
+
+**lugar:** Singapore
+
+**edad:** 7+ años según fecha de nacimiento.
+
+**Precio:** $699 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Robótica LEGO por la mañana y stop motion por la tarde. Principiantes siguen un guion y participantes repetidores pueden crear el suyo. Opciones de horario y sede: 09:00–15:00 · Forum The Shopping Mall, UE Square.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-11-30 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-01 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-02 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-03 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-04 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_672d92fcffaa45b3bf3d8bb06e5fa460.pdf)
+
+### 3 días completos
+
+**Fechas / estado:** 2026-12-07 — 2026-12-09
+
+**lugar:** Singapore
+
+**edad:** 7+ años según fecha de nacimiento.
+
+**Precio:** $599 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Robótica LEGO por la mañana y stop motion por la tarde. Principiantes siguen un guion y participantes repetidores pueden crear el suyo. Opciones de horario y sede: 09:00–15:00 · Forum The Shopping Mall, UE Square.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-07 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-08 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-09 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_672d92fcffaa45b3bf3d8bb06e5fa460.pdf)
+
+### 4 días completos
+
+**Fechas / estado:** 2026-12-07 — 2026-12-10
+
+**lugar:** Singapore
+
+**edad:** 7+ años según fecha de nacimiento.
+
+**Precio:** $649 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Robótica LEGO por la mañana y stop motion por la tarde. Principiantes siguen un guion y participantes repetidores pueden crear el suyo. Opciones de horario y sede: 09:00–15:00 · Forum The Shopping Mall, UE Square.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-07 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-08 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-09 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-10 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_672d92fcffaa45b3bf3d8bb06e5fa460.pdf)
+
+### 5 días completos
+
+**Fechas / estado:** 2026-12-07 — 2026-12-11
+
+**lugar:** Singapore
+
+**edad:** 7+ años según fecha de nacimiento.
+
+**Precio:** $699 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Robótica LEGO por la mañana y stop motion por la tarde. Principiantes siguen un guion y participantes repetidores pueden crear el suyo. Opciones de horario y sede: 09:00–15:00 · Forum The Shopping Mall, UE Square.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-07 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-08 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-09 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-10 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-11 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_672d92fcffaa45b3bf3d8bb06e5fa460.pdf)
+
+### 3 días completos
+
+**Fechas / estado:** 2026-12-14 — 2026-12-16
+
+**lugar:** Singapore
+
+**edad:** 7+ años según fecha de nacimiento.
+
+**Precio:** $599 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Robótica LEGO por la mañana y stop motion por la tarde. Principiantes siguen un guion y participantes repetidores pueden crear el suyo. Opciones de horario y sede: 09:00–15:00 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-14 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-15 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-16 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_672d92fcffaa45b3bf3d8bb06e5fa460.pdf)
+
+### 4 días completos
+
+**Fechas / estado:** 2026-12-14 — 2026-12-17
+
+**lugar:** Singapore
+
+**edad:** 7+ años según fecha de nacimiento.
+
+**Precio:** $649 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Robótica LEGO por la mañana y stop motion por la tarde. Principiantes siguen un guion y participantes repetidores pueden crear el suyo. Opciones de horario y sede: 09:00–15:00 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-14 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-15 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-16 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-17 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_672d92fcffaa45b3bf3d8bb06e5fa460.pdf)
+
+### 5 días completos
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**lugar:** Singapore
+
+**edad:** 7+ años según fecha de nacimiento.
+
+**Precio:** $699 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Robótica LEGO por la mañana y stop motion por la tarde. Principiantes siguen un guion y participantes repetidores pueden crear el suyo. Opciones de horario y sede: 09:00–15:00 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-14 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-15 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-16 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-17 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-18 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_672d92fcffaa45b3bf3d8bb06e5fa460.pdf)
+
+### 3 días completos
+
+**Fechas / estado:** 2026-12-21 — 2026-12-23
+
+**lugar:** Singapore
+
+**edad:** 7+ años según fecha de nacimiento.
+
+**Precio:** $599 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Robótica LEGO por la mañana y stop motion por la tarde. Principiantes siguen un guion y participantes repetidores pueden crear el suyo. Opciones de horario y sede: 09:00–15:00 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-21 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-22 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-23 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_672d92fcffaa45b3bf3d8bb06e5fa460.pdf)
+
+### 4 días completos
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**lugar:** Singapore
+
+**edad:** 7+ años según fecha de nacimiento.
+
+**Precio:** $649 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Robótica LEGO por la mañana y stop motion por la tarde. Principiantes siguen un guion y participantes repetidores pueden crear el suyo. Opciones de horario y sede: 09:00–15:00 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-21 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-22 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-23 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-24 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_672d92fcffaa45b3bf3d8bb06e5fa460.pdf)
+
+### 3 días completos
+
+**Fechas / estado:** 2026-12-28 — 2026-12-30
+
+**lugar:** Singapore
+
+**edad:** 7+ años según fecha de nacimiento.
+
+**Precio:** $599 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Robótica LEGO por la mañana y stop motion por la tarde. Principiantes siguen un guion y participantes repetidores pueden crear el suyo. Opciones de horario y sede: 09:00–15:00 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-28 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-29 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-30 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_672d92fcffaa45b3bf3d8bb06e5fa460.pdf)
+
+### 4 días completos
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**lugar:** Singapore
+
+**edad:** 7+ años según fecha de nacimiento.
+
+**Precio:** $649 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Robótica LEGO por la mañana y stop motion por la tarde. Principiantes siguen un guion y participantes repetidores pueden crear el suyo. Opciones de horario y sede: 09:00–15:00 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-28 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-29 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-30 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-31 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_672d92fcffaa45b3bf3d8bb06e5fa460.pdf)
+
+### 3 días completos
+
+**Fechas / estado:** 2027-01-04 — 2027-01-06
+
+**lugar:** Singapore
+
+**edad:** 7+ años según fecha de nacimiento.
+
+**Precio:** $599 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Robótica LEGO por la mañana y stop motion por la tarde. Principiantes siguen un guion y participantes repetidores pueden crear el suyo. Opciones de horario y sede: 09:00–15:00 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2027-01-04 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-05 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-06 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** Si ya cumplió 7 años al inicio del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_672d92fcffaa45b3bf3d8bb06e5fa460.pdf)
+
+### 4 días completos
+
+**Fechas / estado:** 2027-01-04 — 2027-01-07
+
+**lugar:** Singapore
+
+**edad:** 7+ años según fecha de nacimiento.
+
+**Precio:** $649 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Robótica LEGO por la mañana y stop motion por la tarde. Principiantes siguen un guion y participantes repetidores pueden crear el suyo. Opciones de horario y sede: 09:00–15:00 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2027-01-04 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-05 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-06 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-07 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** Si ya cumplió 7 años al inicio del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_672d92fcffaa45b3bf3d8bb06e5fa460.pdf)
+
+### 5 días completos
+
+**Fechas / estado:** 2027-01-04 — 2027-01-08
+
+**lugar:** Singapore
+
+**edad:** 7+ años según fecha de nacimiento.
+
+**Precio:** $699 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Robótica LEGO por la mañana y stop motion por la tarde. Principiantes siguen un guion y participantes repetidores pueden crear el suyo. Opciones de horario y sede: 09:00–15:00 · Forum The Shopping Mall, UE Square, Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2027-01-04 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-05 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-06 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-07 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-08 · 09:00–15:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** Si ya cumplió 7 años al inicio del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_672d92fcffaa45b3bf3d8bb06e5fa460.pdf)
+
+### Fuentes
+
+- [Horarios, sedes y tarifas oficiales](https://www.robotics.com.sg/_files/ugd/4223d1_672d92fcffaa45b3bf3d8bb06e5fa460.pdf) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.robotics.com.sg/holiday-camps) · 2026-11-07
+
+## CP1603 · Children’s Worklab / Robotics Connection · Robot Inventor
+
+Singapur · Singapore
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 10+ años según fecha de nacimiento.
+
+**Idioma:** El organizador indica expresamente que todas las clases se imparten en inglés.
+
+**Programa:** Montaje y programación de MINDSTORMS Robot Inventor. Se exige manejo fluido de Scratch.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas, sedes y horarios publicados. Cada turno indica su duración.
+
+**Precio / año:** 2026/27 · $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Incluido:** La familia aporta refrigerio y bebida. Las piezas LEGO son material de clase.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Matvey:** Si ya cumplió 10 años al inicio del turno y maneja Scratch con fluidez.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Edad en el primer día del turno según fecha de nacimiento.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-11-23 — 2026-11-26
+
+**lugar:** Singapore
+
+**edad:** 10+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Montaje y programación de MINDSTORMS Robot Inventor. Se exige manejo fluido de Scratch. Opciones de horario y sede: 09:30–12:00 · Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-11-23 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-24 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-25 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-26 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_9029e71d6d4b438086a4005f64786e11.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-12-14 — 2026-12-17
+
+**lugar:** Singapore
+
+**edad:** 10+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Montaje y programación de MINDSTORMS Robot Inventor. Se exige manejo fluido de Scratch. Opciones de horario y sede: 09:30–12:00 · Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-14 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-15 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-16 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-17 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_9029e71d6d4b438086a4005f64786e11.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**lugar:** Singapore
+
+**edad:** 10+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Montaje y programación de MINDSTORMS Robot Inventor. Se exige manejo fluido de Scratch. Opciones de horario y sede: 09:30–12:00 · Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-21 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-22 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-23 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-24 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_9029e71d6d4b438086a4005f64786e11.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**lugar:** Singapore
+
+**edad:** 10+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Montaje y programación de MINDSTORMS Robot Inventor. Se exige manejo fluido de Scratch. Opciones de horario y sede: 09:30–12:00 · Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-28 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-29 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-30 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-31 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_9029e71d6d4b438086a4005f64786e11.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2027-01-04 — 2027-01-07
+
+**lugar:** Singapore
+
+**edad:** 10+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Montaje y programación de MINDSTORMS Robot Inventor. Se exige manejo fluido de Scratch. Opciones de horario y sede: 09:30–12:00 · Coronation Shopping Plaza.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2027-01-04 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-05 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-06 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-07 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Si ya cumplió 10 años al inicio del turno y maneja Scratch con fluidez.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.robotics.com.sg/_files/ugd/4223d1_9029e71d6d4b438086a4005f64786e11.pdf)
+
+### Fuentes
+
+- [Horarios, sedes y tarifas oficiales](https://www.robotics.com.sg/_files/ugd/4223d1_9029e71d6d4b438086a4005f64786e11.pdf) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.robotics.com.sg/holiday-camps) · 2026-11-07
 
 ## ~ Comprobaciones no cerradas
 

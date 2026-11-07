@@ -4,11 +4,12 @@ const root=path.resolve(__dirname,'..'),clone=x=>JSON.parse(JSON.stringify(x)),c
 for(const lang of ['','es/']){
  const context={window:{},Intl,Date,Set,Map,WeakMap,URL};vm.createContext(context);vm.runInContext(fs.readFileSync(path.join(root,'dist',lang,'assets/camp-planning.js'),'utf8'),context);
  const M=context.window.STEM_CAMP_PLANNER,guide=JSON.parse(fs.readFileSync(path.join(root,'dist',lang,'downloads/STEM_camp_programmes_deep_2026_2027.json'),'utf8'));
- const day='2026-11-06',pairs=M.pairedSessions(guide.profiles,'',day);
+ const day='2026-11-06',profiles=guide.profiles.filter(p=>p.iso==='CRI');
+ const pairs=M.pairedSessions(profiles,'',day);
  assert.equal(pairs.length,5);assert(pairs.every(p=>p.price.amount===120000&&p.price.currency==='CRC'&&p.price.tax_included));
  assert(pairs.every(p=>p.matvey.profile.id!=='CP1124'&&p.matvey.profile.id!=='CP1125'));
- assert.equal(M.pairedSessions(guide.profiles,'2026-12',day).length,1);assert.equal(M.pairedSessions(guide.profiles,'2027-01',day).length,4);assert.equal(M.pairedSessions(guide.profiles,'2027-02',day).length,0);
- assert.equal(M.pairedSessions(guide.profiles,'','2027-02-01').length,0);
+ assert.equal(M.pairedSessions(profiles,'2026-12',day).length,1);assert.equal(M.pairedSessions(profiles,'2027-01',day).length,4);assert.equal(M.pairedSessions(profiles,'2027-02',day).length,0);
+ assert.equal(M.pairedSessions(profiles,'','2027-02-01').length,0);
  assert(pairs.every(p=>p.matvey.times.length===5&&p.matvey.times.every(t=>t[1]==='08:00'&&t[2]==='12:00'&&t[3]==='America/Costa_Rica')));
  const dec=pairs.find(p=>p.start==='2026-12-07');assert.equal(dec.matvey.profile.id,'CP1127');assert.equal(dec.oscar.profile.id,'CP1124');
  const seed=[clone(dec.matvey.profile),clone(dec.oscar.profile)];for(const p of seed)p.timing.session_details=p.timing.session_details.filter(v=>v.start==='2026-12-07');
@@ -27,6 +28,20 @@ for(const lang of ['','es/']){
  assert.equal(run(p=>{for(const a of p)a.pairing.fee.amount='60000';})[0].price.amount,120000);
  assert.equal(run(p=>p[0].timing.session_details.push(clone(p[0].timing.session_details[0]))).length,1);
  assert.equal(run(p=>delete p[1].pairing.fee)[0].price,null);
- checks.push({language:lang||'ru',real_family_pairs:5,month_and_past_filter:true,verified_shared_venue_required:true,exact_days_hours_timezone_required:true,variant_age_gate:true,invalid_dates_and_closed_groups_excluded:true,known_fee_units_only:true});
+ const singapore=guide.profiles.filter(p=>p.iso==='SGP');
+ const singaporePairs=M.pairedSessions(singapore,'',day);
+ assert.equal(singaporePairs.length,19);
+ assert.equal(M.pairedSessions(singapore,'2026-11',day).length,5);
+ assert.equal(M.pairedSessions(singapore,'2026-12',day).length,13);
+ assert.equal(M.pairedSessions(singapore,'2027-01',day).length,3);
+ assert(singaporePairs.every(p=>p.matvey.profile.slug.startsWith('worklab-yearend-spike-')&&
+   p.oscar.profile.slug.startsWith('worklab-yearend-apprentice-')&&
+   p.matvey.profile.confirmed_instruction_languages.join()==='EN'&&
+   p.oscar.profile.confirmed_instruction_languages.join()==='EN'&&p.price===null&&
+   p.matvey.times.length===4&&p.matvey.times.every(t=>t[1]==='09:30'&&t[2]==='12:00'&&t[3]==='Asia/Singapore')));
+ assert(singaporePairs.every(p=>!p.matvey.times.some(t=>['2026-12-25','2027-01-01'].includes(t[0]))));
+ assert.deepEqual(new Set(singaporePairs.map(p=>p.venue)),new Set([
+   'Singapore · Forum The Shopping Mall','Singapore · UE Square','Singapore · Coronation Shopping Plaza']));
+ checks.push({language:lang||'ru',singapore_family_pairs:19,real_family_pairs:5,month_and_past_filter:true,verified_shared_venue_required:true,exact_days_hours_timezone_required:true,variant_age_gate:true,invalid_dates_and_closed_groups_excluded:true,known_fee_units_only:true});
 }
 console.log(JSON.stringify(checks));
