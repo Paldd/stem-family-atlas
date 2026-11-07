@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 6956; competiciones: 2957; eventos: 266; campamentos / programas: 3733. Perfiles de ligas y programas: 257. Fichas de exposiciones grandes y especializadas: 174 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 6970; competiciones: 2958; eventos: 279; campamentos / programas: 3733. Perfiles de ligas y programas: 257. Fichas de exposiciones grandes y especializadas: 191 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros concretos de 158 de 249 países y territorios; países auditados por completo: 0. Revisión histórica v51: se añadieron 21 fichas y 3 perfiles. Todas las fichas anteriores se conservan.
 
@@ -14,16 +14,16 @@ Hay registros concretos de 158 de 249 países y territorios; países auditados p
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 23 | 1419 | 23 | 1057 |
+| América del Norte | 23 | 1420 | 28 | 1057 |
 | América del Sur | 10 | 167 | 7 | 113 |
-| Europa | 42 | 412 | 55 | 1256 |
+| Europa | 42 | 412 | 67 | 1256 |
 | África | 34 | 115 | 15 | 68 |
 | Asia | 44 | 635 | 71 | 1113 |
 | Oceanía | 5 | 119 | 3 | 114 |
 
 Fichas interregionales o mundiales sin continente asignado. Total 107. América del Norte incluye Centroamérica y el Caribe. Los recuentos representan el inventario de la base y su cobertura parcial.
 
-VEX figura en 518 de 2957 fichas de competición (17.5%). La cobertura tiene un sesgo marcado.
+VEX figura en 518 de 2958 fichas de competición (17.5%). La cobertura tiene un sesgo marcado.
 
 ## Lo que queda
 
@@ -353,6 +353,7 @@ VEX figura en 518 de 2957 fichas de competición (17.5%). La cobertura tiene un 
 
 ## Grandes exposiciones: tarjetas de identidad
 
+- **Feria Maker CENART 2026** — México; 2026-10-17 – 2026-10-18. con un adulto; condiciones de admisión adulta por separado. https://www.feriamaker.mx/actividades
 - **Maker Faire Rome 2026** Italia; 2026-10-23 2026-10-25 con adultos; condiciones de entrada de adultos separadas. https://makerfairerome.eu/en/tickets/
 - **Maker Faire Orlando 2026** — Estados Unidos; 2026-11-07 – 2026-11-08. con un adulto; condiciones de entrada adulta aparte. https://www.makerfaireorlando.com/attend/
 - **Maker Faire Shenzhen 2026** — China; 2026-12-12 – 2026-12-13. Acceso de los niños a la educación. https://www.shenzhenmakerfaire.com/
@@ -384,9 +385,12 @@ VEX figura en 518 de 2957 fichas de competición (17.5%). La cobertura tiene un 
 - **GAMERGY Madrid 2026** htm España; 2026-12-18 2026-12-20. https://www.ifema.es/gamergy
 - **Maker Faire Guangzhou 2026** China; 2026-10-17 2026-10-18. https://guangzhou.makerfaire.com/
 - **Maker Faire Monterrey / ITERA TEC 2026** — México; 2026-11-12. el permiso de entrada de niños. https://luma.com/i5cz5p70
+- **Maker Faire Mittleres Rheinland 2026** — Alemania; 2026-11-07 – 2026-11-08. con un adulto; condiciones de admisión adulta por separado. https://makerspace-myk.de/makerfaire/
+- **Maker Faire Olomouc 2026** — Chequia; 2026-11-15. con un adulto; condiciones de admisión adulta por separado. https://makerfaire.cz/olomouc/
 - **Rochester Maker Faire 2026** — Estados Unidos; 2026-11-21. con un adulto; condiciones de entrada adulta aparte. https://rochester.makerfaire.com/
 - **Ogaki Mini Maker Faire 2026** — Japón; 2026-12-05 – 2026-12-06. el permiso de entrada de niños. https://www.iamas.ac.jp/ommf2026/
 - **Sarawak Maker Faire 2026** — Malasia; 2026-12-09. el permiso de entrada de niños. https://www.makeramai.com/
+- **South Dallas Maker Faire 2027** — Estados Unidos; 2027-03-06. con un adulto; condiciones de admisión adulta por separado. https://fortworth.makerfaire.com/
 - **Buffalo Maker Faire — Summer 2027** — Estados Unidos; fecha desconocida. con un adulto; condiciones de entrada adulta aparte. https://buffalo.makerfaire.com/
 - **Maker Faire Hannover 2027** — Alemania; 2027-08-21 – 2027-08-22. con un adulto; condiciones de entrada adulta aparte. https://maker-faire.de/hannover/
 - **InnoCarnival Hong Kong 2026** China, Región Administrativa Especial de Hong Kong; 2026-10-24 Å 2026-11-01, con adultos; las condiciones de entrada de los adultos por separado. https://innocarnival.hk/en/About/
@@ -512,6 +516,19 @@ VEX figura en 518 de 2957 fichas de competición (17.5%). La cobertura tiene un 
 - **ROBOTICA + ROBOFIRST Ukraine · next festival watch** — Ucrania; fecha desconocida. Confirmar acceso infantil. http://robotica.in.ua/
 - **AI for Good Global Summit · Innovation Expo 2027** — Suiza; 2027-06-21 – 2027-06-24. con un adulto; condiciones de admisión adulta por separado. https://2027summit.aiforgood.itu.int/
 - **Universum UNAM · STEM Week** — México; 2026-11-07. con un adulto; condiciones de admisión adulta por separado. https://www.universum.unam.mx/actividades/e/393/stem-week
+- **FNCTI UCR 2026 · exposición pública** — Costa Rica; 2026-11-12. con un adulto; condiciones de admisión adulta por separado. https://www.ucr.ac.cr/noticias/2026/11/03/la-ucr-reunira-202-proyectos-estudiantiles-en-la-feria-nacional-de-ciencia-tecnologia-e-innovacion-2026.html
+- **Maker Faire Bilbao 2026 · talleres para familias** — España; 2026-11-21 – 2026-11-22. con un adulto; condiciones de admisión adulta por separado. https://bilbao.makerfaire.com/programa-2026/
+- **Maker Faire Salzburg 2026** — Austria; 2026-11-07. con un adulto; condiciones de admisión adulta por separado. https://www.makerdays.at/
+- **Maker Faire Gent 2027** — Bélgica; 2027-04-30 – 2027-05-02. con un adulto; condiciones de admisión adulta por separado. https://www.makerfairegent.be/
+- **Maker Faire Orange County 2027** — Estados Unidos; 2027-09-11 – 2027-09-12. con un adulto; condiciones de admisión adulta por separado. https://oc.makerfaire.com/tickets/
+- **Maker Faire Heilbronn 2027** — Alemania; 2027-02-06. el permiso de entrada de niños. https://www.experimenta.science/besuchen/veranstaltungskalender/maker-faire/?termin=1801908000
+- **Maker Faire Ruhr 2027** — Alemania; 2027-03-13 – 2027-03-14. con un adulto; condiciones de admisión adulta por separado. https://www.makerfaire-ruhr.com
+- **Maker Faire Solothurn 2027** — Suiza; 2027-03-13 – 2027-03-14. con un adulto; condiciones de admisión adulta por separado. https://makerfaire.ch/
+- **Maker Faire Minden-Lübbecke 2027** — Alemania; 2027-06-03 – 2027-06-05. el permiso de entrada de niños. https://maker-faire.de/en/alle-maker-faires/
+- **Maker Faire Lübeck 2027** — Alemania; 2027-07-10 – 2027-07-11. con un adulto; condiciones de admisión adulta por separado. https://makerfaire-luebeck.de/
+- **Maker Faire Prague 2027** — Chequia; 2027-05-22 – 2027-05-23. con un adulto; condiciones de admisión adulta por separado. https://makerfaire.cz/praha/
+- **Maker Faire Lake County 2027** — Estados Unidos; 2027-04-17. el permiso de entrada de niños. https://lakecounty.makerfaire.com/wp-content/uploads/sites/311/2026/04/Program2026.pdf
+- **INTERMODELLBAU Dortmund 2027** — Alemania; 2027-04-22 – 2027-04-25. con un adulto; condiciones de admisión adulta por separado. https://www.intermodellbau.de/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

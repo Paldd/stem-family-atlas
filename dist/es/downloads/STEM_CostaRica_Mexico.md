@@ -242,15 +242,15 @@ Comprobado: 2026-09-30
 ### E001 · Feria Maker CENART 2026
 
 Fecha: 2026-10-17 2026-10-18
-Edad: Todas las edades; talleres por grupo
-Sí.
-Sí.
+edad: Archivo 2026. El acceso general fue gratuito para todas las edades. Confirmar programa e inscripción de la próxima edición.
+Matvey: Sí para visita familiar. Confirmar condiciones del taller elegido.
+Oscar: Sí para visita familiar. Confirmar condiciones del taller elegido.
 Idioma: ES
-Entrada: Visita pública; grabación separada en talleres/ concursos
-Costo: entrada libre; parte de los talleres y materiales por separado
+Acceso: Visita a exposición de proyectos. Los talleres pueden exigir reserva aparte.
+Precio: Entrada general gratuita.
 Limitaciones: Actividades tecnológicas para todas las edades: Hebocon, Electrónico badge, LED Race, Robolution, autómata. Entrada general gratuita; Algunos materiales / workshops Pagos. Edad, No se han anunciado por separado el costo y la composición de cada ocupación. Ajolote 3D — Concursos separados C1131; Bambu QR — Lotería, no una victoria de ingeniería.
 Fuente: https://www.feriamaker.mx/actividades
-Comprobado: 2026-10-02
+Se ha comprobado: 2026-11-07
 
 ### E002 · Talent Land México 2027
 
@@ -267,7 +267,7 @@ Comprobado: 2026-09-29
 
 ### E003 · Maker Faire Costa Rica — 2027
 
-Fecha: 2027: fecha no declarada
+Fecha: La página de Cenfotec muestra la edición 2026. Nueva fecha 2027 sin publicar.
 Edad: programa familiar
 Sí.
 Sí.
@@ -276,7 +276,7 @@ Entrada: Festival público, Talleres / exhibitor por separado
 Costo: No publicado / Comprobar la edición actual
 Limitaciones: Confirmado San José 28.06.2026; en la página actual countdown SumoBot 26.09.2026. Antiguos Guanacaste 06.09 no considerar fecha universal.
 Fuente: https://eventos.ucenfotec.ac.cr/makerfaire
-Comprobado: 2026-09-29
+Se ha comprobado: 2026-11-07
 
 ### E004 · Expo STEAM Tecnikids — 2027
 
@@ -805,11 +805,11 @@ Edad: No se ha confirmado la admisión de niños o extranjeros
 Matway: Condicional: confirmar la entrada de los niños
 Oscar: Condicional: confirmar la entrada de niños
 Idioma: No se ha confirmado el idioma de actividad
-Acceso: Enlace actual de red oficial lleva a evento Tec de Monterrey en Luma. Elegir General y taller deseado por separado; comprobar edad infantil y acompañamiento. Sin registro realizado.
+Acceso: Para la feria elegir Acceso General gratuito. Los talleres requieren entrada aparte. Confirmar edades de 6 y 9 años y acompañamiento.
 Precio: General y Talking Robots tienen type=free en configuración pública de entradas. Confirmar materiales y otros gastos obligatorios de actividad elegida.
 Limitaciones: Enlace oficial nuevo y página anfitriona coinciden: jueves 12 de noviembre de 2026. Antiguos 29–30 de octubre / 19–20 de noviembre ya no son anuncio principal. Expo general 09:00–17:00, Talking Robots separado 17:00–18:00. Edad e instrucción EN/ES sin confirmar.
 Fuente: https://luma.com/i5cz5p70
-Se ha comprobado: 2026-11-04
+Se ha comprobado: 2026-11-07
 
 ### ~#L115 · Logiscool México - LEGO WeDo camp, futuro turno
 
@@ -2708,6 +2708,32 @@ Precio: Vía mexicana 940 MXN por persona. En PP, PK y PJ el acompañante tambi�
 Limitaciones: 11 de noviembre registro presencial e instalación de stands. 12–13 de noviembre exposición y evaluación. 14 de noviembre premiación. La convocatoria indica GTM-5, CDMX para la hora límite. Confirmar zona con el organizador.
 Fuente: https://expocienciasnacional.laredmex.org/wp-content/uploads/2026/06/Convocatoria-ECN-2026-NL.pdf
 Se ha comprobado: 2026-11-06
+
+### E267 · FNCTI UCR 2026 · exposición pública
+
+Fecha: 2026-11-12 — 2026-11-12
+edad: UCR invita al público, incluidos escolares. Exposición pública el 12 de noviembre de 08:30 a 12:00.
+Matvey: Sí para visita familiar. Confirmar condiciones del taller elegido.
+Oscar: Sí para visita familiar. Confirmar condiciones del taller elegido.
+Idioma: Confirmar idioma del taller o demostración concretos.
+Acceso: UCR invita al público, incluidos escolares. Exposición pública el 12 de noviembre de 08:30 a 12:00.
+Precio: La invitación UCR no indica precio ni requisito de entrada.
+Limitaciones: Por la tarde las actividades de IA y robótica son para participantes y docentes. La exposición pública termina a las 12:00.
+Fuente: https://www.ucr.ac.cr/noticias/2026/11/03/la-ucr-reunira-202-proyectos-estudiantiles-en-la-feria-nacional-de-ciencia-tecnologia-e-innovacion-2026.html
+Se ha comprobado: 2026-11-07
+
+### C2959 · Feria Nacional de Ciencia, Tecnología e Innovación UCR 2026 · final
+
+Fecha: 2026-11-11 — 2026-11-13
+edad: Primaria I y II Ciclos en categoría Quehacer científico y tecnológico. Los proyectos preescolares 2026 se limitan a fase del propio centro.
+Matvey: Condicional. Requiere ciclo escolar adecuado y clasificación regional.
+Oscar: Condicional si cursa primaria. Preescolar se limita a fase del centro.
+Idioma: Confirmar idioma del taller o demostración concretos.
+Acceso: El proyecto entra por un centro educativo de Costa Rica. Tras fase escolar siguen circuito, región y final nacional. Participan proyectos ya seleccionados.
+Precio: Tarifa de esta edición aún sin confirmar.
+Limitaciones: El anuncio UCR del 3 de noviembre indica 202 proyectos de 27 regiones educativas. La publicación anterior de la facultad indicaba 205 proyectos.
+Fuente: https://facultadeducacion.ucr.ac.cr/noticias/2026/10/26/feria-de-ciencia-y-tecnologia-reune-205-proyectos-en-2026
+Se ha comprobado: 2026-11-07
 
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02
 

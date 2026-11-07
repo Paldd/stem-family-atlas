@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 6956; соревнований: 2957; событий: 266; лагерей / программ: 3733. Профилей лиг и программ: 257. Карточек крупных и профильных выставок: 174 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 6970; соревнований: 2958; событий: 279; лагерей / программ: 3733. Профилей лиг и программ: 257. Карточек крупных и профильных выставок: 191 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 158 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -14,16 +14,16 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 
 | Континент | Страны / территории с записями | Соревнования | Крупные выставки | Лагеря / программы |
 |---|---:|---:|---:|---:|
-| Северная Америка | 23 | 1419 | 23 | 1057 |
+| Северная Америка | 23 | 1420 | 28 | 1057 |
 | Южная Америка | 10 | 167 | 7 | 113 |
-| Европа | 42 | 412 | 55 | 1256 |
+| Европа | 42 | 412 | 67 | 1256 |
 | Африка | 34 | 115 | 15 | 68 |
 | Азия | 44 | 635 | 71 | 1113 |
 | Океания | 5 | 119 | 3 | 114 |
 
 Межрегиональные / глобальные карточки, не приписанные одному континенту: 107. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
 
-VEX: 518 из 2957 карточек соревнований (17.5%). Это явный перекос охвата.
+VEX: 518 из 2958 карточек соревнований (17.5%). Это явный перекос охвата.
 
 ## Что осталось
 
@@ -353,6 +353,7 @@ VEX: 518 из 2957 карточек соревнований (17.5%). Это я�
 
 ## Крупные выставки: календарные карточки
 
+- **Feria Maker CENART 2026** — Мексика; 2026-10-17 – 2026-10-18. Со взрослым; условия взрослого входа отдельно. https://www.feriamaker.mx/actividades
 - **Maker Faire Rome 2026** — Италия; 2026-10-23 – 2026-10-25. Со взрослым; условия взрослого входа отдельно. https://makerfairerome.eu/en/tickets/
 - **Maker Faire Orlando 2026** — США; 2026-11-07 – 2026-11-08. Со взрослым; условия взрослого входа отдельно. https://www.makerfaireorlando.com/attend/
 - **Maker Faire Shenzhen 2026** — Китай; 2026-12-12 – 2026-12-13. Детский допуск уточнить. https://www.shenzhenmakerfaire.com/
@@ -384,9 +385,12 @@ VEX: 518 из 2957 карточек соревнований (17.5%). Это я�
 - **GAMERGY Madrid 2026** — Испания; 2026-12-18 – 2026-12-20. Детский допуск уточнить. https://www.ifema.es/gamergy
 - **Maker Faire Guangzhou 2026** — Китай; 2026-10-17 – 2026-10-18. Детский допуск уточнить. https://guangzhou.makerfaire.com/
 - **Maker Faire Monterrey / ITERA TEC 2026** — Мексика; 2026-11-12. Детский допуск уточнить. https://luma.com/i5cz5p70
+- **Maker Faire Mittleres Rheinland 2026** — Германия; 2026-11-07 – 2026-11-08. Со взрослым; условия взрослого входа отдельно. https://makerspace-myk.de/makerfaire/
+- **Maker Faire Olomouc 2026** — Чехия; 2026-11-15. Со взрослым; условия взрослого входа отдельно. https://makerfaire.cz/olomouc/
 - **Rochester Maker Faire 2026** — Соединенные Штаты Америки; 2026-11-21. Со взрослым; условия взрослого входа отдельно. https://rochester.makerfaire.com/
 - **Ogaki Mini Maker Faire 2026** — Япония; 2026-12-05 – 2026-12-06. Детский допуск уточнить. https://www.iamas.ac.jp/ommf2026/
 - **Sarawak Maker Faire 2026** — Малайзия; 2026-12-09. Детский допуск уточнить. https://www.makeramai.com/
+- **South Dallas Maker Faire 2027** — Соединенные Штаты Америки; 2027-03-06. Со взрослым; условия взрослого входа отдельно. https://fortworth.makerfaire.com/
 - **Buffalo Maker Faire — Summer 2027** — Соединенные Штаты Америки; дата неизвестна. Со взрослым; условия взрослого входа отдельно. https://buffalo.makerfaire.com/
 - **Maker Faire Hannover 2027** — Германия; 2027-08-21 – 2027-08-22. Со взрослым; условия взрослого входа отдельно. https://maker-faire.de/hannover/
 - **InnoCarnival Hong Kong 2026** — Китай, Специальный административный район Гонконг; 2026-10-24 – 2026-11-01. Со взрослым; условия взрослого входа отдельно. https://innocarnival.hk/en/About/
@@ -512,6 +516,19 @@ VEX: 518 из 2957 карточек соревнований (17.5%). Это я�
 - **ROBOTICA + ROBOFIRST Ukraine · next festival watch** — Украина; дата неизвестна. Детский допуск уточнить. http://robotica.in.ua/
 - **AI for Good Global Summit · Innovation Expo 2027** — Швейцария; 2027-06-21 – 2027-06-24. Со взрослым; условия взрослого входа отдельно. https://2027summit.aiforgood.itu.int/
 - **Universum UNAM · STEM Week** — Мексика; 2026-11-07. Со взрослым; условия взрослого входа отдельно. https://www.universum.unam.mx/actividades/e/393/stem-week
+- **FNCTI UCR 2026 · exposición pública** — Коста-Рика; 2026-11-12. Со взрослым; условия взрослого входа отдельно. https://www.ucr.ac.cr/noticias/2026/11/03/la-ucr-reunira-202-proyectos-estudiantiles-en-la-feria-nacional-de-ciencia-tecnologia-e-innovacion-2026.html
+- **Maker Faire Bilbao 2026 · talleres para familias** — Испания; 2026-11-21 – 2026-11-22. Со взрослым; условия взрослого входа отдельно. https://bilbao.makerfaire.com/programa-2026/
+- **Maker Faire Salzburg 2026** — Австрия; 2026-11-07. Со взрослым; условия взрослого входа отдельно. https://www.makerdays.at/
+- **Maker Faire Gent 2027** — Бельгия; 2027-04-30 – 2027-05-02. Со взрослым; условия взрослого входа отдельно. https://www.makerfairegent.be/
+- **Maker Faire Orange County 2027** — Соединенные Штаты Америки; 2027-09-11 – 2027-09-12. Со взрослым; условия взрослого входа отдельно. https://oc.makerfaire.com/tickets/
+- **Maker Faire Heilbronn 2027** — Германия; 2027-02-06. Детский допуск уточнить. https://www.experimenta.science/besuchen/veranstaltungskalender/maker-faire/?termin=1801908000
+- **Maker Faire Ruhr 2027** — Германия; 2027-03-13 – 2027-03-14. Со взрослым; условия взрослого входа отдельно. https://www.makerfaire-ruhr.com
+- **Maker Faire Solothurn 2027** — Швейцария; 2027-03-13 – 2027-03-14. Со взрослым; условия взрослого входа отдельно. https://makerfaire.ch/
+- **Maker Faire Minden-Lübbecke 2027** — Германия; 2027-06-03 – 2027-06-05. Детский допуск уточнить. https://maker-faire.de/en/alle-maker-faires/
+- **Maker Faire Lübeck 2027** — Германия; 2027-07-10 – 2027-07-11. Со взрослым; условия взрослого входа отдельно. https://makerfaire-luebeck.de/
+- **Maker Faire Prague 2027** — Чехия; 2027-05-22 – 2027-05-23. Со взрослым; условия взрослого входа отдельно. https://makerfaire.cz/praha/
+- **Maker Faire Lake County 2027** — Соединенные Штаты Америки; 2027-04-17. Детский допуск уточнить. https://lakecounty.makerfaire.com/wp-content/uploads/sites/311/2026/04/Program2026.pdf
+- **INTERMODELLBAU Dortmund 2027** — Германия; 2027-04-22 – 2027-04-25. Со взрослым; условия взрослого входа отдельно. https://www.intermodellbau.de/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors

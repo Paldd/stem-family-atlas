@@ -830,24 +830,24 @@
       "city": "CDMX, CENART",
       "start": "2026-10-17",
       "end": "2026-10-18",
-      "period": "",
+      "period": "17–18 de octubre de 2026, 10:00–18:00. Edición finalizada.",
       "date_status": "Confirmado",
       "deadline": "",
-      "age": "todas las edades; talleres por grupos",
-      "mat": "Sí",
-      "osc": "Sí",
+      "age": "Archivo 2026. El acceso general fue gratuito para todas las edades. Confirmar programa e inscripción de la próxima edición.",
+      "mat": "Sí para visita familiar. Confirmar condiciones del taller elegido.",
+      "osc": "Sí para visita familiar. Confirmar condiciones del taller elegido.",
       "format": "visita con el padre",
-      "entry": "visita pública; inscripción por separado en talleres / concursos",
+      "entry": "Visita a exposición de proyectos. Los talleres pueden exigir reserva aparte.",
       "gear": "No es necesario.",
       "language": "ES",
-      "cost": "entrada libre; parte de los talleres y materiales por separado",
+      "cost": "Entrada general gratuita.",
       "level": "E  evento educativo",
       "reward": "Impresiones y formación; no premio competitivo",
       "priority": "P1  visita familiar",
       "action": "padre: obtener las reglas actuales y la confirmación de la admisión antes de la reserva",
       "source": "https://www.feriamaker.mx/actividades",
-      "proof": "actual oficial Feria 2026: 17–18 de octubre / CENART, Actividades familiares; detalles de los distintos workshop ¿Qué hay de nuevo?.",
-      "checked": "2026-10-02",
+      "proof": "Fecha y condiciones de acceso cotejadas con fuente del organizador.",
+      "checked": "2026-11-07",
       "status": "Idea",
       "note": "Actividades tecnológicas para todas las edades: Hebocon, badge electrónico, LED Race, Robolution, autómata. la entrada general es gratuita; algunos materiales / workshops son de pago. la edad, las tragamonedas y el costo de cada clase no se anuncian por separado. Ajolote 3D  concurso separado C1131; Bambu QR  lotería, no una victoria de ingeniería.",
       "iso": [
@@ -871,8 +871,27 @@
         {
           "label": "Programa de talleres",
           "url": "https://www.feriamaker.mx/talleres"
+        },
+        {
+          "url": "https://cenart.gob.mx/eventos/feria-maker/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://www.gob.mx/cultura/prensa/feria-maker-2026-en-el-cenart-crear-experimentar-y-compartir-para-imaginar-otros-futuros",
+          "label": "Página oficial del organizador"
         }
-      ]
+      ],
+      "adult_entry": "Entrada general gratuita.",
+      "visitor_policy": "family",
+      "visitor_policy_note": "Archivo 2026. El acceso general fue gratuito para todas las edades. Confirmar programa e inscripción de la próxima edición.",
+      "exhibition_tier": "family_alternative",
+      "highlights": [
+        "Robótica, IA, electrónica, impresión 3D y programación."
+      ],
+      "exhibitors": [],
+      "exhibitor_note": "Programa y participantes de esta edición aún por confirmar.",
+      "exhibitor_directory_url": "https://cenart.gob.mx/eventos/feria-maker/",
+      "date_scope": "festival_window"
     },
     {
       "block": "Eventos",
@@ -926,7 +945,7 @@
       "city": "San José / plazas regionales",
       "start": "",
       "end": "",
-      "period": "temporada 2027: no se han anunciado fechas",
+      "period": "La página de Cenfotec muestra la edición 2026. Nueva fecha 2027 sin publicar.",
       "date_status": "No se ha anunciado",
       "deadline": "",
       "age": "programa familiar",
@@ -942,8 +961,8 @@
       "priority": "P1  acontecimientos locales",
       "action": "padre: obtener las reglas actuales y la confirmación de la admisión antes de la reserva",
       "source": "https://eventos.ucenfotec.ac.cr/makerfaire",
-      "proof": "la página oficial se ha leído; la fecha de la siguiente etapa no se encuentra",
-      "checked": "2026-09-29",
+      "proof": "Revisada página del organizador local. Sin anuncio confirmado de 2027 en ella.",
+      "checked": "2026-11-07",
       "status": "Idea",
       "note": "confirmado en San José 28.06.2026; en la página actual, un countdown separado de SumoBot 26.09.2026. el Guanacaste 06.09 antiguo no se considera una fecha universal.",
       "iso": [
@@ -3358,14 +3377,14 @@
       "city": "Monterrey · HUB de Innovación y Emprendimiento Eduardo Garza T. · Av. Eugenio Garza Sada 2501 Sur",
       "start": "2026-11-12",
       "end": "2026-11-12",
-      "period": "catálogo: 29–30.10.2026; Anuncio local: 19–20 noviembre sin año",
+      "period": "12 de noviembre de 2026. Exposición general 09:00–17:00 en HUB de Innovación y Emprendimiento.",
       "date_status": "Confirmado",
       "deadline": "",
       "age": "el permiso de entrada de niños / extranjeros no está confirmado",
       "mat": "condicionalmente: confirmar la entrada de los niños",
       "osc": "condicionalmente: confirmar la entrada de los niños",
       "format": "visita con el padre",
-      "entry": "Enlace actual de red oficial lleva a evento Tec de Monterrey en Luma. Elegir General y taller deseado por separado; comprobar edad infantil y acompañamiento. Sin registro realizado.",
+      "entry": "Para la feria elegir Acceso General gratuito. Los talleres requieren entrada aparte. Confirmar edades de 6 y 9 años y acompañamiento.",
       "gear": "No se necesita equipo para visitar",
       "language": "lenguaje de actividad no confirmado",
       "languages": [],
@@ -3376,10 +3395,10 @@
       "importance_reason": "evaluación editorial por el formato y la geografía publicados; no es un índice oficial.",
       "reward": "conocimiento de las tecnologías; la visita no es una victoria competitiva",
       "priority": "P2  México, sólo después de especificar las fechas",
-      "action": "Obtener un año, días reales, campus y edad en Innovaction Gym; luego planificar un viaje",
+      "action": "Confirmar acceso infantil a la exposición y reservar aparte el taller apropiado.",
       "source": "https://luma.com/i5cz5p70",
-      "proof": "Seguido enlace nuevo desde calendario oficial a Luma; leídos descripción anfitriona, fecha, sede y configuración pública de entradas. Conflicto antiguo resuelto por anuncio actual nuevo.",
-      "checked": "2026-11-04",
+      "proof": "Fecha y condiciones de acceso cotejadas con fuente del organizador.",
+      "checked": "2026-11-07",
       "status": "Idea",
       "note": "Enlace oficial nuevo y página anfitriona coinciden: jueves 12 de noviembre de 2026. Antiguos 29–30 de octubre / 19–20 de noviembre ya no son anuncio principal. Expo general 09:00–17:00, Talking Robots separado 17:00–18:00. Edad e instrucción EN/ES sin confirmar.",
       "themes": [
@@ -3411,7 +3430,7 @@
       ],
       "exhibitor_note": "Festival de proyectos y makers; no es un catálogo completo de empresas mundiales ni una final mundial de robótica.",
       "exhibitor_directory_url": "https://luma.com/i5cz5p70",
-      "adult_entry": "Enlace actual de red oficial lleva a evento Tec de Monterrey en Luma. Elegir General y taller deseado por separado; comprobar edad infantil y acompañamiento. Sin registro realizado.",
+      "adult_entry": "Para la feria elegir Acceso General gratuito. Los talleres requieren entrada aparte. Confirmar edades de 6 y 9 años y acompañamiento.",
       "related_ids": [
         "CP1163-20261112-20261112"
       ]
@@ -12003,6 +12022,149 @@
       },
       "team_min": 1,
       "team_max": 3
+    },
+    {
+      "id": "E267",
+      "block": "Eventos",
+      "title": "FNCTI UCR 2026 · exposición pública",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "iso": [
+        "CRI"
+      ],
+      "city": "UCR Sede Rodrigo Facio · Facultad de Educación y Educación Continua",
+      "start": "2026-11-12",
+      "end": "2026-11-12",
+      "deadline": "",
+      "period": "12 de noviembre de 2026, 08:30–12:00 hora local.",
+      "date_status": "Confirmado",
+      "age": "UCR invita al público, incluidos escolares. Exposición pública el 12 de noviembre de 08:30 a 12:00.",
+      "mat": "Sí para visita familiar. Confirmar condiciones del taller elegido.",
+      "osc": "Sí para visita familiar. Confirmar condiciones del taller elegido.",
+      "format": "Visita a exposición de proyectos. Los talleres pueden exigir reserva aparte.",
+      "entry": "UCR invita al público, incluidos escolares. Exposición pública el 12 de noviembre de 08:30 a 12:00.",
+      "gear": "Proyectos maker, demostraciones e inventos.",
+      "language": "Confirmar idioma del taller o demostración concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma del taller o demostración concretos.",
+      "cost": "La invitación UCR no indica precio ni requisito de entrada.",
+      "level": "Exposición familiar o festival maker",
+      "reward": "Demostraciones y conocimiento de proyectos.",
+      "priority": "P3 — visita según programa",
+      "action": "Elegir exposición matinal y comprobar ubicación de los proyectos en los dos edificios.",
+      "source": "https://www.ucr.ac.cr/noticias/2026/11/03/la-ucr-reunira-202-proyectos-estudiantiles-en-la-feria-nacional-de-ciencia-tecnologia-e-innovacion-2026.html",
+      "references": [
+        {
+          "url": "https://facultadeducacion.ucr.ac.cr/noticias/2026/10/26/feria-de-ciencia-y-tecnologia-reune-205-proyectos-en-2026",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://www.mep.go.cr/sites/default/files/2026-04/ManualFCTI2026.pdf",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "Fecha y condiciones de acceso cotejadas con fuente del organizador.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Por la tarde las actividades de IA y robótica son para participantes y docentes. La exposición pública termina a las 12:00.",
+      "themes": [
+        "science",
+        "technology",
+        "coding",
+        "engineering"
+      ],
+      "scope": "national",
+      "importance_reason": "Categoría editorial de visita familiar, con reglas de la edición concreta.",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "event_day",
+      "adult_entry": "UCR invita al público, incluidos escolares. Exposición pública el 12 de noviembre de 08:30 a 12:00.",
+      "visitor_policy": "family",
+      "visitor_policy_note": "UCR invita al público, incluidos escolares. Exposición pública el 12 de noviembre de 08:30 a 12:00.",
+      "exhibition_tier": "family_alternative",
+      "highlights": [
+        "Proyectos escolares de computación e ingeniería.",
+        "Proyectos de ciencias naturales y tecnología."
+      ],
+      "exhibitors": [],
+      "exhibitor_note": "El anuncio UCR del 3 de noviembre indica 202 proyectos de 27 regiones educativas. La publicación anterior de la facultad indicaba 205 proyectos.",
+      "exhibitor_directory_url": "https://www.ucr.ac.cr/noticias/2026/11/03/la-ucr-reunira-202-proyectos-estudiantiles-en-la-feria-nacional-de-ciencia-tecnologia-e-innovacion-2026.html",
+      "related_ids": [
+        "C2959"
+      ]
+    },
+    {
+      "id": "C2959",
+      "block": "Competiciones",
+      "title": "Feria Nacional de Ciencia, Tecnología e Innovación UCR 2026 · final",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "iso": [
+        "CRI"
+      ],
+      "city": "UCR Sede Rodrigo Facio · Facultad de Educación y Educación Continua",
+      "start": "2026-11-11",
+      "end": "2026-11-13",
+      "deadline": "",
+      "period": "",
+      "date_status": "Confirmado",
+      "age": "Primaria I y II Ciclos en categoría Quehacer científico y tecnológico. Los proyectos preescolares 2026 se limitan a fase del propio centro.",
+      "mat": "Condicional. Requiere ciclo escolar adecuado y clasificación regional.",
+      "osc": "Condicional si cursa primaria. Preescolar se limita a fase del centro.",
+      "format": "Un proyecto por estudiante. Individual o hasta 3 estudiantes del mismo centro.",
+      "entry": "El proyecto entra por un centro educativo de Costa Rica. Tras fase escolar siguen circuito, región y final nacional. Participan proyectos ya seleccionados.",
+      "gear": "Proyecto científico o tecnológico propio, materiales de investigación y defensa.",
+      "language": "Confirmar idioma del taller o demostración concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma del taller o demostración concretos.",
+      "cost": "Tarifa de esta edición aún sin confirmar.",
+      "level": "Final escolar nacional de Costa Rica",
+      "reward": "Premiación el 13 de noviembre a las 08:30. Consultar resultados publicados por UCR.",
+      "priority": "P2 — clasificación escolar",
+      "action": "Para el próximo ciclo comenzar por el centro y confirmar categoría. Exposición pública en ficha separada.",
+      "source": "https://facultadeducacion.ucr.ac.cr/noticias/2026/10/26/feria-de-ciencia-y-tecnologia-reune-205-proyectos-en-2026",
+      "references": [
+        {
+          "url": "https://www.ucr.ac.cr/noticias/2026/11/03/la-ucr-reunira-202-proyectos-estudiantiles-en-la-feria-nacional-de-ciencia-tecnologia-e-innovacion-2026.html",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://www.mep.go.cr/sites/default/files/2026-04/ManualFCTI2026.pdf",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://micitt.go.cr/servicios/ciencia-y-tecnologia-aprende-y-descubre/ferias-de-ciencia-y-tecnologia",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "Fecha y condiciones de acceso cotejadas con fuente del organizador.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "El anuncio UCR del 3 de noviembre indica 202 proyectos de 27 regiones educativas. La publicación anterior de la facultad indicaba 205 proyectos.",
+      "themes": [
+        "science",
+        "technology",
+        "coding",
+        "engineering"
+      ],
+      "scope": "national",
+      "importance_reason": "Final nacional tras clasificación escolar y regional.",
+      "participation": "individual_or_team",
+      "admission_kind": "qualifier",
+      "evidence_level": "rules",
+      "date_scope": "competition",
+      "team_min": 1,
+      "team_max": 3,
+      "availability": {
+        "status": "closed"
+      },
+      "registration_status": "Participación en final solo por clasificación 2026.",
+      "related_ids": [
+        "E267"
+      ]
     },
     {
       "id": "CP041-20270329-20270402",

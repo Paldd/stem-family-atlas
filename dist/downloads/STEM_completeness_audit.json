@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 6956,
-    "competition_cards": 2957,
-    "event_cards": 266,
+    "cards": 6970,
+    "competition_cards": 2958,
+    "event_cards": 279,
     "camp_cards": 3733,
     "league_profiles": 257,
-    "major_exhibition_cards": 174,
+    "major_exhibition_cards": 191,
     "vex_cards": 518,
     "countries_with_records": 158,
     "fully_audited_countries": 0
@@ -34,11 +34,11 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 2538,
+      "total": 2542,
       "countries_with_records": 23,
-      "competitions": 1419,
-      "events": 62,
-      "major_exhibitions": 23,
+      "competitions": 1420,
+      "events": 65,
+      "major_exhibitions": 28,
       "camps": 1057,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
@@ -62,11 +62,11 @@
       "regions": [
         "Европа"
       ],
-      "total": 1744,
+      "total": 1754,
       "countries_with_records": 42,
       "competitions": 412,
-      "events": 76,
-      "major_exhibitions": 55,
+      "events": 86,
+      "major_exhibitions": 67,
       "camps": 1256,
       "status": "Частично исследовано",
       "remaining": "CHE/ESP/FRA углублены повторно. Не закрыты все местные лиги, новые qualifiers 2027, преподавание на английском / испанском, иностранные квоты, текущие juniormentors и полные школьные протоколы 5–10 лет. Германия / Нидерланды / Бельгия: первый частичный проход; все местные клубы, языки, иностранные квоты и полные школьные результаты остаются открыты."
@@ -7039,6 +7039,17 @@
   ],
   "exhibition_inventory": [
     {
+      "id": "E001",
+      "name": "Feria Maker CENART 2026",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "start": "2026-10-17",
+      "end": "2026-10-18",
+      "visitor_policy": "family",
+      "source": "https://www.feriamaker.mx/actividades",
+      "new": false
+    },
+    {
       "id": "E005",
       "name": "Maker Faire Rome 2026",
       "country": "Италия",
@@ -7380,6 +7391,28 @@
       "new": false
     },
     {
+      "id": "E068",
+      "name": "Maker Faire Mittleres Rheinland 2026",
+      "country": "Германия",
+      "region": "Европа",
+      "start": "2026-11-07",
+      "end": "2026-11-08",
+      "visitor_policy": "family",
+      "source": "https://makerspace-myk.de/makerfaire/",
+      "new": false
+    },
+    {
+      "id": "E069",
+      "name": "Maker Faire Olomouc 2026",
+      "country": "Чехия",
+      "region": "Европа",
+      "start": "2026-11-15",
+      "end": "2026-11-15",
+      "visitor_policy": "family",
+      "source": "https://makerfaire.cz/olomouc/",
+      "new": false
+    },
+    {
       "id": "E070",
       "name": "Rochester Maker Faire 2026",
       "country": "Соединенные Штаты Америки",
@@ -7410,6 +7443,17 @@
       "end": "2026-12-09",
       "visitor_policy": "confirm_children",
       "source": "https://www.makeramai.com/",
+      "new": false
+    },
+    {
+      "id": "E074",
+      "name": "South Dallas Maker Faire 2027",
+      "country": "Соединенные Штаты Америки",
+      "region": "Северная Америка",
+      "start": "2027-03-06",
+      "end": "2027-03-06",
+      "visitor_policy": "family",
+      "source": "https://fortworth.makerfaire.com/",
       "new": false
     },
     {
@@ -8785,6 +8829,149 @@
       "end": "2026-11-07",
       "visitor_policy": "family",
       "source": "https://www.universum.unam.mx/actividades/e/393/stem-week",
+      "new": false
+    },
+    {
+      "id": "E267",
+      "name": "FNCTI UCR 2026 · exposición pública",
+      "country": "Коста-Рика",
+      "region": "Центральная Америка",
+      "start": "2026-11-12",
+      "end": "2026-11-12",
+      "visitor_policy": "family",
+      "source": "https://www.ucr.ac.cr/noticias/2026/11/03/la-ucr-reunira-202-proyectos-estudiantiles-en-la-feria-nacional-de-ciencia-tecnologia-e-innovacion-2026.html",
+      "new": false
+    },
+    {
+      "id": "E268",
+      "name": "Maker Faire Bilbao 2026 · talleres para familias",
+      "country": "Испания",
+      "region": "Европа",
+      "start": "2026-11-21",
+      "end": "2026-11-22",
+      "visitor_policy": "family",
+      "source": "https://bilbao.makerfaire.com/programa-2026/",
+      "new": false
+    },
+    {
+      "id": "E269",
+      "name": "Maker Faire Salzburg 2026",
+      "country": "Австрия",
+      "region": "Европа",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "visitor_policy": "family",
+      "source": "https://www.makerdays.at/",
+      "new": false
+    },
+    {
+      "id": "E270",
+      "name": "Maker Faire Gent 2027",
+      "country": "Бельгия",
+      "region": "Европа",
+      "start": "2027-04-30",
+      "end": "2027-05-02",
+      "visitor_policy": "family",
+      "source": "https://www.makerfairegent.be/",
+      "new": false
+    },
+    {
+      "id": "E271",
+      "name": "Maker Faire Orange County 2027",
+      "country": "Соединенные Штаты Америки",
+      "region": "Северная Америка",
+      "start": "2027-09-11",
+      "end": "2027-09-12",
+      "visitor_policy": "family",
+      "source": "https://oc.makerfaire.com/tickets/",
+      "new": false
+    },
+    {
+      "id": "E272",
+      "name": "Maker Faire Heilbronn 2027",
+      "country": "Германия",
+      "region": "Европа",
+      "start": "2027-02-06",
+      "end": "2027-02-06",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.experimenta.science/besuchen/veranstaltungskalender/maker-faire/?termin=1801908000",
+      "new": false
+    },
+    {
+      "id": "E273",
+      "name": "Maker Faire Ruhr 2027",
+      "country": "Германия",
+      "region": "Европа",
+      "start": "2027-03-13",
+      "end": "2027-03-14",
+      "visitor_policy": "family",
+      "source": "https://www.makerfaire-ruhr.com",
+      "new": false
+    },
+    {
+      "id": "E274",
+      "name": "Maker Faire Solothurn 2027",
+      "country": "Швейцария",
+      "region": "Европа",
+      "start": "2027-03-13",
+      "end": "2027-03-14",
+      "visitor_policy": "family",
+      "source": "https://makerfaire.ch/",
+      "new": false
+    },
+    {
+      "id": "E275",
+      "name": "Maker Faire Minden-Lübbecke 2027",
+      "country": "Германия",
+      "region": "Европа",
+      "start": "2027-06-03",
+      "end": "2027-06-05",
+      "visitor_policy": "confirm_children",
+      "source": "https://maker-faire.de/en/alle-maker-faires/",
+      "new": false
+    },
+    {
+      "id": "E276",
+      "name": "Maker Faire Lübeck 2027",
+      "country": "Германия",
+      "region": "Европа",
+      "start": "2027-07-10",
+      "end": "2027-07-11",
+      "visitor_policy": "family",
+      "source": "https://makerfaire-luebeck.de/",
+      "new": false
+    },
+    {
+      "id": "E277",
+      "name": "Maker Faire Prague 2027",
+      "country": "Чехия",
+      "region": "Европа",
+      "start": "2027-05-22",
+      "end": "2027-05-23",
+      "visitor_policy": "family",
+      "source": "https://makerfaire.cz/praha/",
+      "new": false
+    },
+    {
+      "id": "E278",
+      "name": "Maker Faire Lake County 2027",
+      "country": "Соединенные Штаты Америки",
+      "region": "Северная Америка",
+      "start": "2027-04-17",
+      "end": "2027-04-17",
+      "visitor_policy": "confirm_children",
+      "source": "https://lakecounty.makerfaire.com/wp-content/uploads/sites/311/2026/04/Program2026.pdf",
+      "new": false
+    },
+    {
+      "id": "E279",
+      "name": "INTERMODELLBAU Dortmund 2027",
+      "country": "Германия",
+      "region": "Европа",
+      "start": "2027-04-22",
+      "end": "2027-04-25",
+      "visitor_policy": "family",
+      "source": "https://www.intermodellbau.de/",
       "new": false
     },
     {
