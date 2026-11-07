@@ -21,6 +21,11 @@ for key in ['events', 'countries', 'schools', 'league_guide', 'development_route
 for key in ['events', 'schools']:
     ids = [row['id'] for row in web[key]]
     assert len(ids) == len(set(ids)), f'Duplicate IDs in {key}'
+events_by_id = {row['id']: row for row in web['events']}
+for alias in (row for row in web['events'] if row.get('canonical_event_id')):
+    target = events_by_id.get(alias['canonical_event_id'])
+    assert target and target['block'] == alias['block'] and not target.get('canonical_event_id'), (
+        f"Invalid canonical target for {alias['id']}: {alias['canonical_event_id']}")
 for profile in web['league_guide']['profiles']:
     assert profile['group'] in web['league_guide']['groups'], (
         f"Unknown league filter group: {profile['id']} / {profile['group']}")

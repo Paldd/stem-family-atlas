@@ -148,8 +148,11 @@ def enrich_v147(d):
         note=T('Совпадают город, даты и гостиница с Open, но это другая программа и пакет. Её гостиничные включения не перенесены на Open. Уровни Primary в анонсе и MS / 13+ в связанном challenge расходятся; точные дни докладов не объявлены.',
                'Comparte ciudad, fechas y hotel con Open, pero programa y paquete son distintos. Inclusiones hoteleras no se trasladan al Open. Primary del anuncio y MS / 13+ del challenge enlazado discrepan; días exactos de presentaciones sin anunciar.'),
         references=refs((T('Связанный Ruta challenge: возраст и состав','Ruta challenge enlazado: edad e integrantes'),'https://roboraveinternational.org/retos/ruta-roborave')),related_ids=['C082'],priority='P3 — '+T('возраст, срок и гостевой пакет уточнить','confirmar edad, plazo y paquete visitante'),evidence_level='event_page')
-    if route['id'] in idx:idx[route['id']].update(route)
-    else:d['events'].append(route);idx[route['id']]=route
+    if route['id'] not in idx:
+        d['events'].append(route)
+        idx[route['id']]=route
+    elif not idx[route['id']].get('canonical_event_id'):
+        idx[route['id']].update(route)
     fll_cr_language=T('Язык занятий и защиты местного BIOGLOW ещё не подтверждён. Глобальное описание не устанавливает язык конкретного потока Costa Rica.',
                      'Idioma de clases y defensa BIOGLOW local aún sin confirmar. Descripción global no determina idioma del grupo concreto Costa Rica.')
     cr=idx['C003'];cr.update(checked=CHECKED,source=GLOBAL_FLL,languages=[],language_mode='unconfirmed',language=fll_cr_language,language_certainty=fll_cr_language,

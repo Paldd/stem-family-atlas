@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 8399; competiciones: 3407; eventos: 439; campamentos / programas: 4553. Perfiles de ligas y programas: 285. Fichas de exposiciones grandes y especializadas: 348 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 8445; competiciones: 3451; eventos: 441; campamentos / programas: 4553. Perfiles de ligas y programas: 288. Fichas de exposiciones grandes y especializadas: 351 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros concretos para 178 de 249 países y territorios. Países auditados por completo: 0. La revisión histórica v51 añadió 21 fichas y 3 perfiles. Se conservan todas las fichas previas.
 
@@ -14,8 +14,8 @@ Hay registros concretos para 178 de 249 países y territorios. Países auditados
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 35 | 1491 | 75 | 1172 |
-| América del Sur | 12 | 237 | 30 | 197 |
+| América del Norte | 35 | 1523 | 78 | 1172 |
+| América del Sur | 12 | 249 | 30 | 197 |
 | Europa | 42 | 440 | 87 | 1372 |
 | África | 34 | 135 | 25 | 71 |
 | Asia | 46 | 852 | 105 | 1557 |
@@ -23,7 +23,7 @@ Hay registros concretos para 178 de 249 países y territorios. Países auditados
 
 Fichas interregionales o globales sin continente único: 136. América del Norte incluye Centroamérica y el Caribe. Las cifras reflejan el inventario de la base y la cobertura completa sigue pendiente.
 
-VEX: 521 de las 3407 fichas de competiciones (15.3%). Esta proporción refleja un desequilibrio de cobertura.
+VEX: 521 de las 3451 fichas de competiciones (15.1%). Esta proporción refleja un desequilibrio de cobertura.
 
 ## Lo que queda
 
@@ -311,6 +311,9 @@ VEX: 521 de las 3407 fichas de competiciones (15.3%). Esta proporción refleja u
 - **P@SHA ICT Awards · Pakistan**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://applications.pashaictawards.com/
 - **Hong Kong ICT Awards · Student Innovation**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.hkictawards.hk/wp-content/uploads/2026/04/08-SI-Award-Prospectus-HKICTA-2026-v2.pdf
 - **Young Computer Scientist · FITIS Sri Lanka**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://ycs.lk/
+- **Robotics by Olamí ORT**: 17 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.olamiort.edu.mx/robotics-convocatoria
+- **Liga Tabasqueña de Robótica de Competencia**: 8 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://laliga.lati.mx/wp-content/uploads/2026/09/Convocatoria-LTRC-3T-1.pdf
+- **Kanturobot Reloaded · UNE**: 9 fichas, 9 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://progluis.github.io/KantuRobot2026/
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 10 tarjetas, 0 con fechas exactas futuras. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -411,6 +414,7 @@ VEX: 521 de las 3407 fichas de competiciones (15.3%). Esta proporción refleja u
 - **Brasil Game Show 2026 — Días públicos** — Brasil; 2026-10-10 – 2026-10-12. Con un adulto; Las condiciones de entrada de los adultos por separado. https://www.brasilgameshow.com.br/ingressos/
 - **PAX Aus 2026** Australia; 2026-10-09 2026-10-11. Con un adulto; las condiciones de entrada de un adulto por separado. https://aus.paxsite.com/en-us/info/faq.html
 - **GAMERGY Madrid 2026** htm España; 2026-12-18 2026-12-20. https://www.ifema.es/gamergy
+- **World Science & Technology Expo — Ruta Científica Puerto Vallarta 2027** — México; 2027-02-25 – 2027-02-28. el permiso de entrada de niños. https://www.roboraveinternational.org/eventos/roborave-ruta-cientifica-puerto-vallarta-2027
 - **Maker Faire Guangzhou 2026** China; 2026-10-17 2026-10-18. https://guangzhou.makerfaire.com/
 - **Maker Faire Monterrey / ITERA TEC 2026** — México; 2026-11-12. el permiso de entrada de niños. https://luma.com/i5cz5p70
 - **Maker Faire Mittleres Rheinland 2026** — Alemania; 2026-11-07 – 2026-11-08. con un adulto; condiciones de admisión adulta por separado. https://makerspace-myk.de/makerfaire/
@@ -701,6 +705,8 @@ VEX: 521 de las 3407 fichas de competiciones (15.3%). Esta proporción refleja u
 - **Bhutan Space Week · next edition** — Bután; fecha desconocida. Confirmar acceso infantil. https://tech.gov.bt/dots-program-new/
 - **Sarawak Science Centre · SSCiEX** — Malasia. Fecha sin indicar. Con un adulto. Condiciones de admisión adulta por separado. https://ssciex.org.my/home/faq/
 - **CySec Brunei 2026 · Resilient by Design** — Brunéi; 2026-09-15 – 2026-09-16. el permiso de entrada de niños. https://cysec.bcsa.bn/
+- **Feria Científica del Ingenio Juvenil 2026 · SENACYT** — Panamá; 2026-10-14 – 2026-10-16. el permiso de entrada de niños. https://feriacientifica.senacyt.gob.pa/
+- **Feria Científica del Ingenio Juvenil · next edition** — Panamá; fecha desconocida. Confirmar acceso infantil. https://feriacientifica.senacyt.gob.pa/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

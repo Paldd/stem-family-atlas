@@ -8168,8 +8168,7 @@
         "C1204",
         "C1205",
         "C1206",
-        "C1207",
-        "E416"
+        "C1207"
       ],
       "iso": [
         "MEX"
@@ -9311,36 +9310,37 @@
       "period": "",
       "date_status": "Подтверждено",
       "deadline": "2026-09-30",
-      "age": "Указаны Primaria, родители и сопровождающие; нижний возраст/детский visitor ticket не опубликован",
-      "mat": "Условно",
-      "osc": "Условно",
-      "format": "Выставка/академическая программа и проекты; посещение семьи отдельно от соревновательной команды",
-      "entry": "Организатор заявляет пакет с отелем, питанием и доступом; для проекта нужны отдельные правила. Для семейного посещения подтвердить детскую цену и аккредитацию.",
-      "gear": "По регламенту выбранной категории",
-      "language": "ES; язык международных сессий подтвердить",
-      "languages": [
-        "ES"
-      ],
-      "language_certainty": "Язык сайта не доказывает язык судейства или преподавания.",
-      "cost": "Страница пакета: USD 580 за человека / coach; общий список: USD 650 без ясной единицы. Отель / питание относятся к Ruta, не автоматически к Robotics Open. Цена младших гостей и полный семейный счёт неизвестны.",
+      "age": "В общем приглашении указаны начальные школы. У технического Ruta RoboRAVE диапазоны 13–99 и MS 11–14 расходятся. Отдельная младшая категория проекта не подтверждена.",
+      "mat": "Родители и сопровождающие указаны в приглашении. Возрастной вход и гостевой тариф для ребёнка нужно подтвердить отдельно.",
+      "osc": "Родители и сопровождающие указаны в приглашении. Возрастной вход и гостевой тариф для ребёнка нужно подтвердить отдельно.",
+      "format": "Выставка проектов и научная программа.",
+      "entry": "Родители и сопровождающие указаны в приглашении. Возрастной вход и гостевой тариф для ребёнка нужно подтвердить отдельно.",
+      "gear": "",
+      "language": "Язык местного этапа уточнить.",
+      "languages": [],
+      "language_certainty": "Язык местного этапа уточнить.",
+      "cost": "Карточка Ruta показывает 580 USD за участника или тренера, общий список — 650 USD без уточнения единицы. В описании Ruta есть отель и питание. Тариф гостей и итоговая сумма не подтверждены.",
       "level": "Выставка / событие",
       "reward": "Знакомство с технологиями; посещение не является призовым результатом",
-      "priority": "P0 — проверить сегодняшнюю заявку проекта",
-      "action": "Подтвердить возраст/класс, иностранный вход, состав команды и места до планирования поездки",
+      "priority": "P3 — образовательное посещение",
+      "action": "Сверить возможность семейного визита, детский допуск и тариф до поездки.",
       "source": "https://www.roboraveinternational.org/eventos/roborave-ruta-cientifica-puerto-vallarta-2027",
-      "proof": "Прочитана отдельная official event page: 25–28.02.2027, родители/гости/Primaria, программа и пакет. Найдены противоречивые сроки регистрации 30.09 / 31.10 / 16.10–15.11.",
-      "checked": "2026-11-06",
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
+      "checked": "2026-11-07",
       "status": "Идея",
-      "note": "Совпадает по месту и датам с RoboRAVE Open C082; это связанная программа, не второй независимый повод для поездки. Сертификат участия не равен победе. Противоречивые сроки уточнить до оплаты.",
+      "note": "Ruta Científica и робототехнический Open проходят в одном отеле 25–28 февраля 2027. У них отдельные заявки, программы и условия оплаты.",
       "scope": "international",
       "themes": [
-        "technology"
+        "science",
+        "technology",
+        "engineering",
+        "ai"
       ],
       "participation": "visitor",
       "importance_reason": "Редакционная оценка по географии и формату; не официальный рейтинг.",
-      "deadline_label": "Заявка проекта — требует проверки актуальности",
-      "deadline_note": "Страница перечисляет 30.09 для проектов, 31.10 для оплаты и ещё интервал 16.10–15.11 для общего закрытия. Сроки противоречат друг другу.",
-      "registration_status": "Список событий пишет открытую регистрацию; текст одной страницы содержит закрытие 31 октября и интервал 16 октября–15 ноября 2026. На 6 ноября новый допуск семьи не подтверждён.",
+      "deadline_label": "Заявка проекта · архивный срок",
+      "deadline_note": "30 сентября 2026 — приём проектов, 15 октября — публикация принятых работ. 30 ноября — первая сдача проекта. По оплате указаны два срока, 31 октября и 15 ноября.",
+      "registration_status": "Список событий помечен открытым. Срок заявки проекта прошёл по опубликованному календарю. Возможность новой заявки и окончательный срок оплаты не подтверждены.",
       "related_ids": [
         "C082"
       ],
@@ -9348,7 +9348,36 @@
         "MEX"
       ],
       "visitor_policy": "confirm_children",
-      "visitor_policy_note": "Родители / сопровождающие приглашены, но объявление Primary расходится с MS / 13+ challenge. Посетительский допуск детей 6 / 9 и детский тариф отдельно не подтверждены."
+      "visitor_policy_note": "Родители и сопровождающие указаны в приглашении. Возрастной вход и гостевой тариф для ребёнка нужно подтвердить отдельно.",
+      "references": [
+        {
+          "url": "https://www.roboraveinternational.org/eventos/roborave-ruta-cientifica-puerto-vallarta-2027",
+          "label": "Официальные правила или календарь организатора."
+        },
+        {
+          "url": "https://www.roboraveinternational.org/retos/ruta-roborave",
+          "label": "Официальные правила или календарь организатора."
+        },
+        {
+          "url": "https://www.roboraveinternational.org/eventos",
+          "label": "Официальные правила или календарь организатора."
+        },
+        {
+          "url": "https://www.roboraveinternational.org/eventos/roborave-puerto-vallarta-open-2027",
+          "label": "Официальные правила или календарь организатора."
+        }
+      ],
+      "language_mode": "unconfirmed",
+      "adult_entry": "Взнос для этой категории уточнить.",
+      "date_conflict": "30 сентября 2026 — приём проектов, 15 октября — публикация принятых работ. 30 ноября — первая сдача проекта. По оплате указаны два срока, 31 октября и 15 ноября.",
+      "exhibition_tier": "profile",
+      "date_scope": "exhibition_window",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "exhibitor_directory_url": "https://www.roboraveinternational.org/eventos/roborave-ruta-cientifica-puerto-vallarta-2027",
+      "exhibitors": [],
+      "highlights": [],
+      "exhibitor_note": "В общем приглашении указаны начальные школы. У технического Ruta RoboRAVE диапазоны 13–99 и MS 11–14 расходятся. Отдельная младшая категория проекта не подтверждена."
     },
     {
       "block": "События",
@@ -112127,10 +112156,10 @@
       "level": "Международная научно-технологическая программа показа",
       "reward": "Сертификат участия и презентация проекта; не доказательство международной призовой победы.",
       "priority": "P3 — возраст, срок и гостевой пакет уточнить",
-      "action": "Подтвердить возраст/класс, иностранный вход, состав команды и места до планирования поездки",
+      "action": "Архивная карточка источника. Действующие сведения собраны в E041.",
       "source": "https://roboraveinternational.org/eventos/roborave-ruta-cientifica-puerto-vallarta-2027",
-      "proof": "Прочитаны отдельный анонс Ruta, включения и противоречивые сроки; связанный challenge проверен отдельно.",
-      "checked": "2026-11-06",
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
+      "checked": "2026-11-07",
       "status": "Идея",
       "note": "Совпадают город, даты и гостиница с Open, но это другая программа и пакет. Её гостиничные включения не перенесены на Open. Уровни Primary в анонсе и MS / 13+ в связанном challenge расходятся; точные дни докладов не объявлены.",
       "scope": "international",
@@ -112144,10 +112173,15 @@
         {
           "label": "Связанный Ruta challenge: возраст и состав",
           "url": "https://roboraveinternational.org/retos/ruta-roborave"
+        },
+        {
+          "url": "https://www.roboraveinternational.org/eventos/roborave-ruta-cientifica-puerto-vallarta-2027",
+          "label": "Официальные правила или календарь организатора."
         }
       ],
       "registration_status": "Список событий пишет открытую регистрацию; текст одной страницы содержит закрытие 31 октября и интервал 16 октября–15 ноября 2026. На 6 ноября новый допуск семьи не подтверждён.",
       "related_ids": [
+        "E041",
         "C082"
       ],
       "iso": [
@@ -112157,7 +112191,8 @@
       "evidence_level": "event_page",
       "date_scope": "festival_window",
       "visitor_policy": "confirm_children",
-      "visitor_policy_note": "Родители / сопровождающие приглашены, но объявление Primary расходится с MS / 13+ challenge. Посетительский допуск детей 6 / 9 и детский тариф отдельно не подтверждены."
+      "visitor_policy_note": "Родители / сопровождающие приглашены, но объявление Primary расходится с MS / 13+ challenge. Посетительский допуск детей 6 / 9 и детский тариф отдельно не подтверждены.",
+      "canonical_event_id": "E041"
     },
     {
       "id": "C1208",
@@ -221947,13 +221982,17 @@
       "period": "",
       "date_status": "Подтверждено",
       "checked": "2026-11-07",
-      "proof": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
       "status": "Идея",
       "source": "https://roboraveinternational.org/eventos/roborave-ruta-cientifica-puerto-vallarta-2027",
       "references": [
         {
           "url": "https://roboraveinternational.org/eventos/roborave-puerto-vallarta-open-2027",
           "label": "Правила и условия допуска"
+        },
+        {
+          "url": "https://www.roboraveinternational.org/eventos/roborave-ruta-cientifica-puerto-vallarta-2027",
+          "label": "Официальные правила или календарь организатора."
         }
       ],
       "age": "В общем описании упомянуты начальные школы, но карточка технического трека отмечена MS, HS и UP. Возраст и допуск проекта подтвердить.",
@@ -221970,7 +222009,7 @@
       "level": "Региональный этап",
       "reward": "",
       "priority": "P2 — участие по условиям",
-      "action": "Уточнить возрастной допуск, наличие места и точный режим доступа у организатора.",
+      "action": "Архивная карточка источника. Действующие сведения собраны в E041.",
       "note": "На странице одновременно стоят сроки 31 октября и 15 ноября 2026. Для проекта уточнить актуальный срок и возможность заявки.",
       "themes": [
         "engineering",
@@ -221993,9 +222032,11 @@
       "exhibitors": [],
       "highlights": [],
       "related_ids": [
+        "E041",
         "C082"
       ],
-      "exhibitor_note": "В общем описании упомянуты начальные школы, но карточка технического трека отмечена MS, HS и UP. Возраст и допуск проекта подтвердить."
+      "exhibitor_note": "В общем описании упомянуты начальные школы, но карточка технического трека отмечена MS, HS и UP. Возраст и допуск проекта подтвердить.",
+      "canonical_event_id": "E041"
     },
     {
       "id": "C3347",
@@ -228582,6 +228623,2709 @@
       "evidence_level": "event_page",
       "related_ids": [
         "C3386"
+      ]
+    },
+    {
+      "id": "C3409",
+      "block": "Соревнования",
+      "title": "Robotics by Olamí ORT 2026",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Colegio Olamí ORT · Cuajimalpa · Ciudad de México",
+      "iso": [
+        "MEX"
+      ],
+      "start": "2026-03-10",
+      "end": "2026-03-11",
+      "period": "",
+      "deadline": "2026-03-06",
+      "date_status": "Подтверждено",
+      "date_scope": "festival_window",
+      "age": "Учащиеся начальной школы.",
+      "mat": "Условно. Уточнить класс, местную школу и правила следующего отбора.",
+      "osc": "Условно. Уточнить класс, местную школу и правила следующего отбора.",
+      "format": "До 2 учеников на робота и взрослый наставник для несовершеннолетних.",
+      "entry": "Внешние команды допускались. В Junior нужен CURP. Прототипы регистрируются заранее.",
+      "gear": "Собственный цифровой проект и демонстрация работы.",
+      "language": "Язык местного этапа уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык местного этапа уточнить.",
+      "cost": "На странице 350 MXN за робота, в PDF диапазон 350–500 MXN. Точный тариф зависит от категории и условий.",
+      "level": "Открытый региональный турнир",
+      "importance_reason": "Подача заявки по правилам категории.",
+      "scope": "regional",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Архив сезона. Подача завершена.",
+      "source": "https://www.olamiort.edu.mx/robotics-convocatoria",
+      "references": [
+        {
+          "url": "https://www.olamiort.edu.mx/_files/ugd/41a133_7e10c13e740846d3a2add8e6573f3393.pdf",
+          "label": "Официальные правила или календарь организатора."
+        },
+        {
+          "url": "https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf",
+          "label": "Официальные правила или календарь организатора."
+        },
+        {
+          "url": "https://robotics.olamiort.edu.mx/",
+          "label": "Официальные правила или календарь организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "Предварительная запись закрывалась в 12:00. QR от школы или участника давал бесплатный вход зрителям.",
+      "themes": [
+        "robotics",
+        "coding",
+        "ai",
+        "engineering"
+      ],
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "deadline_note": "Последний день подачи, отдельно от судейства.",
+      "related_ids": [
+        "C3410",
+        "C3411",
+        "C3412",
+        "C3413",
+        "C3414",
+        "C3415",
+        "C3416",
+        "C3417",
+        "C3418",
+        "C3419",
+        "C3420",
+        "C3421",
+        "C3422",
+        "C3423",
+        "C3424",
+        "C3425"
+      ]
+    },
+    {
+      "id": "C3410",
+      "block": "Соревнования",
+      "title": "Robotics by Olamí ORT · next edition",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Colegio Olamí ORT · Cuajimalpa · Ciudad de México",
+      "iso": [
+        "MEX"
+      ],
+      "start": "",
+      "end": "",
+      "period": "Следующий набор пока не объявлен.",
+      "deadline": "",
+      "date_status": "Не объявлено",
+      "date_scope": "programme_watch",
+      "age": "Учащиеся начальной школы.",
+      "mat": "Условно. Уточнить класс, местную школу и правила следующего отбора.",
+      "osc": "Условно. Уточнить класс, местную школу и правила следующего отбора.",
+      "format": "До 2 учеников на робота и взрослый наставник для несовершеннолетних.",
+      "entry": "Внешние команды допускались. В Junior нужен CURP. Прототипы регистрируются заранее.",
+      "gear": "Собственный цифровой проект и демонстрация работы.",
+      "language": "Язык местного этапа уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык местного этапа уточнить.",
+      "cost": "Взнос для этой категории уточнить.",
+      "level": "Открытый региональный турнир",
+      "importance_reason": "Подача заявки по правилам категории.",
+      "scope": "regional",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Следить за публикацией нового регламента и сроков.",
+      "source": "https://www.olamiort.edu.mx/robotics-convocatoria",
+      "references": [
+        {
+          "url": "https://robotics.olamiort.edu.mx/",
+          "label": "Официальные правила или календарь организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "",
+      "themes": [
+        "robotics",
+        "coding",
+        "ai"
+      ],
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "related_ids": [
+        "C3409"
+      ]
+    },
+    {
+      "id": "C3411",
+      "block": "Соревнования",
+      "title": "Robotics by Olamí ORT 2026 · Sumo LEGO Primaria",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Colegio Olamí ORT · Cuajimalpa · Ciudad de México",
+      "iso": [
+        "MEX"
+      ],
+      "start": "2026-03-10",
+      "end": "2026-03-10",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "competition",
+      "age": "Учащиеся начальной школы.",
+      "mat": "Условно. Уточнить класс, местную школу и правила следующего отбора.",
+      "osc": "Условно. Уточнить класс, местную школу и правила следующего отбора.",
+      "format": "До 2 учеников на робота и взрослый наставник для несовершеннолетних.",
+      "entry": "Внешние команды допускались. В Junior нужен CURP. Прототипы регистрируются заранее.",
+      "gear": "LEGO",
+      "language": "Язык местного этапа уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык местного этапа уточнить.",
+      "cost": "На странице 350 MXN за робота, в PDF диапазон 350–500 MXN. Точный тариф зависит от категории и условий.",
+      "level": "Открытый региональный турнир",
+      "importance_reason": "Подача заявки по правилам категории.",
+      "scope": "regional",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Архив сезона. Подача завершена.",
+      "source": "https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf",
+      "references": [
+        {
+          "url": "https://www.olamiort.edu.mx/robotics-convocatoria",
+          "label": "Официальные правила или календарь организатора."
+        },
+        {
+          "url": "https://www.olamiort.edu.mx/_files/ugd/41a133_7e10c13e740846d3a2add8e6573f3393.pdf",
+          "label": "Официальные правила или календарь организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "В предварительном расписании начало блока 10:00–11:30 по местному времени.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "related_ids": [
+        "C3409",
+        "C3410"
+      ]
+    },
+    {
+      "id": "C3412",
+      "block": "Соревнования",
+      "title": "Robotics by Olamí ORT 2026 · Fútbol mBot2",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Colegio Olamí ORT · Cuajimalpa · Ciudad de México",
+      "iso": [
+        "MEX"
+      ],
+      "start": "2026-03-10",
+      "end": "2026-03-10",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "competition",
+      "age": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "mat": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "osc": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "format": "До 2 учеников на робота и взрослый наставник для несовершеннолетних.",
+      "entry": "Внешние команды допускались. В Junior нужен CURP. Прототипы регистрируются заранее.",
+      "gear": "mBot2",
+      "language": "Язык местного этапа уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык местного этапа уточнить.",
+      "cost": "На странице 350 MXN за робота, в PDF диапазон 350–500 MXN. Точный тариф зависит от категории и условий.",
+      "level": "Открытый региональный турнир",
+      "importance_reason": "Подача заявки по правилам категории.",
+      "scope": "regional",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Архив сезона. Подача завершена.",
+      "source": "https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf",
+      "references": [
+        {
+          "url": "https://www.olamiort.edu.mx/robotics-convocatoria",
+          "label": "Официальные правила или календарь организатора."
+        },
+        {
+          "url": "https://www.olamiort.edu.mx/_files/ugd/41a133_7e10c13e740846d3a2add8e6573f3393.pdf",
+          "label": "Официальные правила или календарь организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "В предварительном расписании начало блока 10:00–11:30 по местному времени.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "related_ids": [
+        "C3409",
+        "C3410"
+      ]
+    },
+    {
+      "id": "C3413",
+      "block": "Соревнования",
+      "title": "Robotics by Olamí ORT 2026 · Turbo Brush",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Colegio Olamí ORT · Cuajimalpa · Ciudad de México",
+      "iso": [
+        "MEX"
+      ],
+      "start": "2026-03-10",
+      "end": "2026-03-10",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "competition",
+      "age": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "mat": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "osc": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "format": "До 2 учеников на робота и взрослый наставник для несовершеннолетних.",
+      "entry": "Внешние команды допускались. В Junior нужен CURP. Прототипы регистрируются заранее.",
+      "gear": "Turbo Brush",
+      "language": "Язык местного этапа уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык местного этапа уточнить.",
+      "cost": "На странице 350 MXN за робота, в PDF диапазон 350–500 MXN. Точный тариф зависит от категории и условий.",
+      "level": "Открытый региональный турнир",
+      "importance_reason": "Подача заявки по правилам категории.",
+      "scope": "regional",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Архив сезона. Подача завершена.",
+      "source": "https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf",
+      "references": [
+        {
+          "url": "https://www.olamiort.edu.mx/robotics-convocatoria",
+          "label": "Официальные правила или календарь организатора."
+        },
+        {
+          "url": "https://www.olamiort.edu.mx/_files/ugd/41a133_7e10c13e740846d3a2add8e6573f3393.pdf",
+          "label": "Официальные правила или календарь организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "В предварительном расписании начало блока 10:00–11:30 по местному времени.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "related_ids": [
+        "C3409",
+        "C3410"
+      ]
+    },
+    {
+      "id": "C3414",
+      "block": "Соревнования",
+      "title": "Robotics by Olamí ORT 2026 · Touch and Play",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Colegio Olamí ORT · Cuajimalpa · Ciudad de México",
+      "iso": [
+        "MEX"
+      ],
+      "start": "2026-03-10",
+      "end": "2026-03-10",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "competition",
+      "age": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "mat": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "osc": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "format": "До 2 учеников на робота и взрослый наставник для несовершеннолетних.",
+      "entry": "Внешние команды допускались. В Junior нужен CURP. Прототипы регистрируются заранее.",
+      "gear": "Touch and Play",
+      "language": "Язык местного этапа уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык местного этапа уточнить.",
+      "cost": "На странице 350 MXN за робота, в PDF диапазон 350–500 MXN. Точный тариф зависит от категории и условий.",
+      "level": "Открытый региональный турнир",
+      "importance_reason": "Подача заявки по правилам категории.",
+      "scope": "regional",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Архив сезона. Подача завершена.",
+      "source": "https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf",
+      "references": [
+        {
+          "url": "https://www.olamiort.edu.mx/robotics-convocatoria",
+          "label": "Официальные правила или календарь организатора."
+        },
+        {
+          "url": "https://www.olamiort.edu.mx/_files/ugd/41a133_7e10c13e740846d3a2add8e6573f3393.pdf",
+          "label": "Официальные правила или календарь организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "В предварительном расписании начало блока 10:00–11:30 по местному времени.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "related_ids": [
+        "C3409",
+        "C3410"
+      ]
+    },
+    {
+      "id": "C3415",
+      "block": "Соревнования",
+      "title": "Robotics by Olamí ORT 2026 · Explore Space",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Colegio Olamí ORT · Cuajimalpa · Ciudad de México",
+      "iso": [
+        "MEX"
+      ],
+      "start": "2026-03-10",
+      "end": "2026-03-10",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "competition",
+      "age": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "mat": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "osc": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "format": "До 2 учеников на робота и взрослый наставник для несовершеннолетних.",
+      "entry": "Внешние команды допускались. В Junior нужен CURP. Прототипы регистрируются заранее.",
+      "gear": "Explore Space",
+      "language": "Язык местного этапа уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык местного этапа уточнить.",
+      "cost": "На странице 350 MXN за робота, в PDF диапазон 350–500 MXN. Точный тариф зависит от категории и условий.",
+      "level": "Открытый региональный турнир",
+      "importance_reason": "Подача заявки по правилам категории.",
+      "scope": "regional",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Архив сезона. Подача завершена.",
+      "source": "https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf",
+      "references": [
+        {
+          "url": "https://www.olamiort.edu.mx/robotics-convocatoria",
+          "label": "Официальные правила или календарь организатора."
+        },
+        {
+          "url": "https://www.olamiort.edu.mx/_files/ugd/41a133_7e10c13e740846d3a2add8e6573f3393.pdf",
+          "label": "Официальные правила или календарь организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "В предварительном расписании начало блока 10:00–11:30 по местному времени.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "related_ids": [
+        "C3409",
+        "C3410"
+      ]
+    },
+    {
+      "id": "C3416",
+      "block": "Соревнования",
+      "title": "Robotics by Olamí ORT 2026 · Seguidor de Línea LEGO",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Colegio Olamí ORT · Cuajimalpa · Ciudad de México",
+      "iso": [
+        "MEX"
+      ],
+      "start": "2026-03-10",
+      "end": "2026-03-10",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "competition",
+      "age": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "mat": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "osc": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "format": "До 2 учеников на робота и взрослый наставник для несовершеннолетних.",
+      "entry": "Внешние команды допускались. В Junior нужен CURP. Прототипы регистрируются заранее.",
+      "gear": "LEGO",
+      "language": "Язык местного этапа уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык местного этапа уточнить.",
+      "cost": "На странице 350 MXN за робота, в PDF диапазон 350–500 MXN. Точный тариф зависит от категории и условий.",
+      "level": "Открытый региональный турнир",
+      "importance_reason": "Подача заявки по правилам категории.",
+      "scope": "regional",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Архив сезона. Подача завершена.",
+      "source": "https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf",
+      "references": [
+        {
+          "url": "https://www.olamiort.edu.mx/robotics-convocatoria",
+          "label": "Официальные правила или календарь организатора."
+        },
+        {
+          "url": "https://www.olamiort.edu.mx/_files/ugd/41a133_7e10c13e740846d3a2add8e6573f3393.pdf",
+          "label": "Официальные правила или календарь организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "В предварительном расписании начало блока 10:00–11:30 по местному времени.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "related_ids": [
+        "C3409",
+        "C3410"
+      ]
+    },
+    {
+      "id": "C3417",
+      "block": "Соревнования",
+      "title": "Robotics by Olamí ORT 2026 · Sumo LEGO Bachillerato",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Colegio Olamí ORT · Cuajimalpa · Ciudad de México",
+      "iso": [
+        "MEX"
+      ],
+      "start": "2026-03-10",
+      "end": "2026-03-10",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "competition",
+      "age": "Старшая школа. Для начальной школы выделен отдельный Sumo LEGO.",
+      "mat": "Нет. Категория начинается со средней школы.",
+      "osc": "Нет. Категория начинается со средней школы.",
+      "format": "До 2 учеников на робота и взрослый наставник для несовершеннолетних.",
+      "entry": "Внешние команды допускались. В Junior нужен CURP. Прототипы регистрируются заранее.",
+      "gear": "LEGO",
+      "language": "Язык местного этапа уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык местного этапа уточнить.",
+      "cost": "На странице 350 MXN за робота, в PDF диапазон 350–500 MXN. Точный тариф зависит от категории и условий.",
+      "level": "Открытый региональный турнир",
+      "importance_reason": "Подача заявки по правилам категории.",
+      "scope": "regional",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Архив сезона. Подача завершена.",
+      "source": "https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf",
+      "references": [
+        {
+          "url": "https://www.olamiort.edu.mx/robotics-convocatoria",
+          "label": "Официальные правила или календарь организатора."
+        },
+        {
+          "url": "https://www.olamiort.edu.mx/_files/ugd/41a133_7e10c13e740846d3a2add8e6573f3393.pdf",
+          "label": "Официальные правила или календарь организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "В предварительном расписании начало блока 12:30–14:00 по местному времени.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "related_ids": [
+        "C3409",
+        "C3410"
+      ]
+    },
+    {
+      "id": "C3418",
+      "block": "Соревнования",
+      "title": "Robotics by Olamí ORT 2026 · Fútbol Kits Educativos",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Colegio Olamí ORT · Cuajimalpa · Ciudad de México",
+      "iso": [
+        "MEX"
+      ],
+      "start": "2026-03-10",
+      "end": "2026-03-10",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "competition",
+      "age": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "mat": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "osc": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "format": "До 2 учеников на робота и взрослый наставник для несовершеннолетних.",
+      "entry": "Внешние команды допускались. В Junior нужен CURP. Прототипы регистрируются заранее.",
+      "gear": "Kits educativos",
+      "language": "Язык местного этапа уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык местного этапа уточнить.",
+      "cost": "На странице 350 MXN за робота, в PDF диапазон 350–500 MXN. Точный тариф зависит от категории и условий.",
+      "level": "Открытый региональный турнир",
+      "importance_reason": "Подача заявки по правилам категории.",
+      "scope": "regional",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Архив сезона. Подача завершена.",
+      "source": "https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf",
+      "references": [
+        {
+          "url": "https://www.olamiort.edu.mx/robotics-convocatoria",
+          "label": "Официальные правила или календарь организатора."
+        },
+        {
+          "url": "https://www.olamiort.edu.mx/_files/ugd/41a133_7e10c13e740846d3a2add8e6573f3393.pdf",
+          "label": "Официальные правила или календарь организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "В предварительном расписании начало блока 12:30–14:00 по местному времени.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "related_ids": [
+        "C3409",
+        "C3410"
+      ]
+    },
+    {
+      "id": "C3419",
+      "block": "Соревнования",
+      "title": "Robotics by Olamí ORT 2026 · Carrera de Insectos Principiantes",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Colegio Olamí ORT · Cuajimalpa · Ciudad de México",
+      "iso": [
+        "MEX"
+      ],
+      "start": "2026-03-10",
+      "end": "2026-03-10",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "competition",
+      "age": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "mat": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "osc": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "format": "До 2 учеников на робота и взрослый наставник для несовершеннолетних.",
+      "entry": "Внешние команды допускались. В Junior нужен CURP. Прототипы регистрируются заранее.",
+      "gear": "Robot insecto",
+      "language": "Язык местного этапа уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык местного этапа уточнить.",
+      "cost": "На странице 350 MXN за робота, в PDF диапазон 350–500 MXN. Точный тариф зависит от категории и условий.",
+      "level": "Открытый региональный турнир",
+      "importance_reason": "Подача заявки по правилам категории.",
+      "scope": "regional",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Архив сезона. Подача завершена.",
+      "source": "https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf",
+      "references": [
+        {
+          "url": "https://www.olamiort.edu.mx/robotics-convocatoria",
+          "label": "Официальные правила или календарь организатора."
+        },
+        {
+          "url": "https://www.olamiort.edu.mx/_files/ugd/41a133_7e10c13e740846d3a2add8e6573f3393.pdf",
+          "label": "Официальные правила или календарь организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "В предварительном расписании начало блока 12:30–14:00 по местному времени.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "related_ids": [
+        "C3409",
+        "C3410"
+      ]
+    },
+    {
+      "id": "C3420",
+      "block": "Соревнования",
+      "title": "Robotics by Olamí ORT 2026 · Build LEGO",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Colegio Olamí ORT · Cuajimalpa · Ciudad de México",
+      "iso": [
+        "MEX"
+      ],
+      "start": "2026-03-10",
+      "end": "2026-03-10",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "competition",
+      "age": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "mat": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "osc": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "format": "До 2 учеников на робота и взрослый наставник для несовершеннолетних.",
+      "entry": "Внешние команды допускались. В Junior нужен CURP. Прототипы регистрируются заранее.",
+      "gear": "LEGO",
+      "language": "Язык местного этапа уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык местного этапа уточнить.",
+      "cost": "На странице 350 MXN за робота, в PDF диапазон 350–500 MXN. Точный тариф зависит от категории и условий.",
+      "level": "Открытый региональный турнир",
+      "importance_reason": "Подача заявки по правилам категории.",
+      "scope": "regional",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Архив сезона. Подача завершена.",
+      "source": "https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf",
+      "references": [
+        {
+          "url": "https://www.olamiort.edu.mx/robotics-convocatoria",
+          "label": "Официальные правила или календарь организатора."
+        },
+        {
+          "url": "https://www.olamiort.edu.mx/_files/ugd/41a133_7e10c13e740846d3a2add8e6573f3393.pdf",
+          "label": "Официальные правила или календарь организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "В предварительном расписании начало блока 12:30–14:00 по местному времени.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "related_ids": [
+        "C3409",
+        "C3410"
+      ]
+    },
+    {
+      "id": "C3421",
+      "block": "Соревнования",
+      "title": "Robotics by Olamí ORT 2026 · Ballon Battle",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Colegio Olamí ORT · Cuajimalpa · Ciudad de México",
+      "iso": [
+        "MEX"
+      ],
+      "start": "2026-03-10",
+      "end": "2026-03-10",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "competition",
+      "age": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "mat": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "osc": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "format": "До 2 учеников на робота и взрослый наставник для несовершеннолетних.",
+      "entry": "Внешние команды допускались. В Junior нужен CURP. Прототипы регистрируются заранее.",
+      "gear": "Ballon Battle",
+      "language": "Язык местного этапа уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык местного этапа уточнить.",
+      "cost": "На странице 350 MXN за робота, в PDF диапазон 350–500 MXN. Точный тариф зависит от категории и условий.",
+      "level": "Открытый региональный турнир",
+      "importance_reason": "Подача заявки по правилам категории.",
+      "scope": "regional",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Архив сезона. Подача завершена.",
+      "source": "https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf",
+      "references": [
+        {
+          "url": "https://www.olamiort.edu.mx/robotics-convocatoria",
+          "label": "Официальные правила или календарь организатора."
+        },
+        {
+          "url": "https://www.olamiort.edu.mx/_files/ugd/41a133_7e10c13e740846d3a2add8e6573f3393.pdf",
+          "label": "Официальные правила или календарь организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "В предварительном расписании начало блока 12:30–14:00 по местному времени.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "related_ids": [
+        "C3409",
+        "C3410"
+      ]
+    },
+    {
+      "id": "C3422",
+      "block": "Соревнования",
+      "title": "Robotics by Olamí ORT 2026 · Minisumo RC Junior",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Colegio Olamí ORT · Cuajimalpa · Ciudad de México",
+      "iso": [
+        "MEX"
+      ],
+      "start": "2026-03-10",
+      "end": "2026-03-10",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "competition",
+      "age": "Объявлен верхний возраст 15 на витрине и 16 в PDF. Минимум и отсечку нужно уточнить.",
+      "mat": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "osc": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "format": "До 2 учеников на робота и взрослый наставник для несовершеннолетних.",
+      "entry": "Внешние команды допускались. В Junior нужен CURP. Прототипы регистрируются заранее.",
+      "gear": "Mini Sumo RC",
+      "language": "Язык местного этапа уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык местного этапа уточнить.",
+      "cost": "На странице 350 MXN за робота, в PDF диапазон 350–500 MXN. Точный тариф зависит от категории и условий.",
+      "level": "Открытый региональный турнир",
+      "importance_reason": "Подача заявки по правилам категории.",
+      "scope": "regional",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Архив сезона. Подача завершена.",
+      "source": "https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf",
+      "references": [
+        {
+          "url": "https://www.olamiort.edu.mx/robotics-convocatoria",
+          "label": "Официальные правила или календарь организатора."
+        },
+        {
+          "url": "https://www.olamiort.edu.mx/_files/ugd/41a133_7e10c13e740846d3a2add8e6573f3393.pdf",
+          "label": "Официальные правила или календарь организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "В предварительном расписании начало блока 12:30–14:00 по местному времени.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "related_ids": [
+        "C3409",
+        "C3410"
+      ]
+    },
+    {
+      "id": "C3423",
+      "block": "Соревнования",
+      "title": "Robotics by Olamí ORT 2026 · Laberinto Kits Educativos",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Colegio Olamí ORT · Cuajimalpa · Ciudad de México",
+      "iso": [
+        "MEX"
+      ],
+      "start": "2026-03-10",
+      "end": "2026-03-10",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "competition",
+      "age": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "mat": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "osc": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "format": "До 2 учеников на робота и взрослый наставник для несовершеннолетних.",
+      "entry": "Внешние команды допускались. В Junior нужен CURP. Прототипы регистрируются заранее.",
+      "gear": "Kits educativos",
+      "language": "Язык местного этапа уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык местного этапа уточнить.",
+      "cost": "На странице 350 MXN за робота, в PDF диапазон 350–500 MXN. Точный тариф зависит от категории и условий.",
+      "level": "Открытый региональный турнир",
+      "importance_reason": "Подача заявки по правилам категории.",
+      "scope": "regional",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Архив сезона. Подача завершена.",
+      "source": "https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf",
+      "references": [
+        {
+          "url": "https://www.olamiort.edu.mx/robotics-convocatoria",
+          "label": "Официальные правила или календарь организатора."
+        },
+        {
+          "url": "https://www.olamiort.edu.mx/_files/ugd/41a133_7e10c13e740846d3a2add8e6573f3393.pdf",
+          "label": "Официальные правила или календарь организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "В предварительном расписании начало блока 15:30–16:00 по местному времени.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "related_ids": [
+        "C3409",
+        "C3410"
+      ]
+    },
+    {
+      "id": "C3424",
+      "block": "Соревнования",
+      "title": "Robotics by Olamí ORT 2026 · Fútbol Junior",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Colegio Olamí ORT · Cuajimalpa · Ciudad de México",
+      "iso": [
+        "MEX"
+      ],
+      "start": "2026-03-10",
+      "end": "2026-03-10",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "competition",
+      "age": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "mat": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "osc": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "format": "До 2 учеников на робота и взрослый наставник для несовершеннолетних.",
+      "entry": "Внешние команды допускались. В Junior нужен CURP. Прототипы регистрируются заранее.",
+      "gear": "Fútbol Junior",
+      "language": "Язык местного этапа уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык местного этапа уточнить.",
+      "cost": "На странице 350 MXN за робота, в PDF диапазон 350–500 MXN. Точный тариф зависит от категории и условий.",
+      "level": "Открытый региональный турнир",
+      "importance_reason": "Подача заявки по правилам категории.",
+      "scope": "regional",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Архив сезона. Подача завершена.",
+      "source": "https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf",
+      "references": [
+        {
+          "url": "https://www.olamiort.edu.mx/robotics-convocatoria",
+          "label": "Официальные правила или календарь организатора."
+        },
+        {
+          "url": "https://www.olamiort.edu.mx/_files/ugd/41a133_7e10c13e740846d3a2add8e6573f3393.pdf",
+          "label": "Официальные правила или календарь организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "В предварительном расписании начало блока 15:30–16:00 по местному времени.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "related_ids": [
+        "C3409",
+        "C3410"
+      ]
+    },
+    {
+      "id": "C3425",
+      "block": "Соревнования",
+      "title": "Robotics by Olamí ORT 2026 · IA Conducción Inteligente Juvenil",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Colegio Olamí ORT · Cuajimalpa · Ciudad de México",
+      "iso": [
+        "MEX"
+      ],
+      "start": "2026-03-10",
+      "end": "2026-03-10",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "competition",
+      "age": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "mat": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "osc": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "format": "До 2 учеников на робота и взрослый наставник для несовершеннолетних.",
+      "entry": "Внешние команды допускались. В Junior нужен CURP. Прототипы регистрируются заранее.",
+      "gear": "IA Conducción Inteligente",
+      "language": "Язык местного этапа уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык местного этапа уточнить.",
+      "cost": "На странице 350 MXN за робота, в PDF диапазон 350–500 MXN. Точный тариф зависит от категории и условий.",
+      "level": "Открытый региональный турнир",
+      "importance_reason": "Подача заявки по правилам категории.",
+      "scope": "regional",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Архив сезона. Подача завершена.",
+      "source": "https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf",
+      "references": [
+        {
+          "url": "https://www.olamiort.edu.mx/robotics-convocatoria",
+          "label": "Официальные правила или календарь организатора."
+        },
+        {
+          "url": "https://www.olamiort.edu.mx/_files/ugd/41a133_7e10c13e740846d3a2add8e6573f3393.pdf",
+          "label": "Официальные правила или календарь организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "В предварительном расписании начало блока 15:30–16:00 по местному времени.",
+      "themes": [
+        "robotics",
+        "ai"
+      ],
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "related_ids": [
+        "C3409",
+        "C3410"
+      ]
+    },
+    {
+      "id": "C3426",
+      "block": "Соревнования",
+      "title": "Liga Tabasqueña de Robótica · Temporada 3 2026",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Villahermosa · Tabasco",
+      "iso": [
+        "MEX"
+      ],
+      "start": "2026-10-09",
+      "end": "2026-10-30",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "festival_window",
+      "age": "Junior — начальная и средняя школа. Master — старшая школа и вуз, Sumo LEGO Master только старшая школа.",
+      "mat": "Условно. Уточнить класс, местную школу и правила следующего отбора.",
+      "osc": "Условно. Уточнить класс, местную школу и правила следующего отбора.",
+      "format": "Индивидуально или командой, по правилам отбора.",
+      "entry": "Действующая школьная справка, до 2 учеников и взрослый наставник. Можно собирать команду из разных школ.",
+      "gear": "Собственный цифровой проект и демонстрация работы.",
+      "language": "Язык местного этапа уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык местного этапа уточнить.",
+      "cost": "В сезоне 2026 взнос 300 MXN за команду на обе встречи. Правила следующего сезона уточнить.",
+      "level": "Открытый региональный турнир",
+      "importance_reason": "Подача заявки по правилам категории.",
+      "scope": "regional",
+      "reward": "Победители категории по итогам сезона получают путёвку на RoboMatrix Península в Канкуне.",
+      "priority": "P2 — участие по условиям",
+      "action": "Архив сезона. Подача завершена.",
+      "source": "https://laliga.lati.mx/wp-content/uploads/2026/09/Convocatoria-LTRC-3T-1.pdf",
+      "references": [
+        {
+          "url": "https://laliga.lati.mx/categorias/",
+          "label": "Официальные правила или календарь организатора."
+        },
+        {
+          "url": "https://laliga.lati.mx/",
+          "label": "Официальные правила или календарь организатора."
+        },
+        {
+          "url": "https://laliga.lati.mx/inscripciones/",
+          "label": "Официальные правила или календарь организатора."
+        },
+        {
+          "url": "https://laliga.lati.mx/fechas-y-sedes/",
+          "label": "Официальные правила или календарь организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "Две встречи в течение сезона. Для новой команды регистрация закрывалась за 5 дней до выбранной встречи.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "related_ids": [
+        "C3427",
+        "C3428",
+        "C3429",
+        "C3430",
+        "C3431",
+        "C3432",
+        "C3433"
+      ]
+    },
+    {
+      "id": "C3427",
+      "block": "Соревнования",
+      "title": "Liga Tabasqueña de Robótica · next season",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Villahermosa · Tabasco",
+      "iso": [
+        "MEX"
+      ],
+      "start": "",
+      "end": "",
+      "period": "Следующий набор пока не объявлен.",
+      "deadline": "",
+      "date_status": "Не объявлено",
+      "date_scope": "programme_watch",
+      "age": "Junior — начальная и средняя школа. Master — старшая школа и вуз, Sumo LEGO Master только старшая школа.",
+      "mat": "Условно. Уточнить класс, местную школу и правила следующего отбора.",
+      "osc": "Условно. Уточнить класс, местную школу и правила следующего отбора.",
+      "format": "Индивидуально или командой, по правилам отбора.",
+      "entry": "Действующая школьная справка, до 2 учеников и взрослый наставник. Можно собирать команду из разных школ.",
+      "gear": "Собственный цифровой проект и демонстрация работы.",
+      "language": "Язык местного этапа уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык местного этапа уточнить.",
+      "cost": "В сезоне 2026 взнос 300 MXN за команду на обе встречи. Правила следующего сезона уточнить.",
+      "level": "Открытый региональный турнир",
+      "importance_reason": "Подача заявки по правилам категории.",
+      "scope": "regional",
+      "reward": "Победители категории по итогам сезона получают путёвку на RoboMatrix Península в Канкуне.",
+      "priority": "P2 — участие по условиям",
+      "action": "Следить за публикацией нового регламента и сроков.",
+      "source": "https://laliga.lati.mx/",
+      "references": [
+        {
+          "url": "https://laliga.lati.mx/wp-content/uploads/2026/09/Convocatoria-LTRC-3T-1.pdf",
+          "label": "Официальные правила или календарь организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "related_ids": [
+        "C3426"
+      ]
+    },
+    {
+      "id": "C3428",
+      "block": "Соревнования",
+      "title": "Liga Tabasqueña 2026 · Jornada 1",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Universidad Olmeca · Tabasco",
+      "iso": [
+        "MEX"
+      ],
+      "start": "2026-10-09",
+      "end": "2026-10-09",
+      "period": "",
+      "deadline": "2026-10-04",
+      "date_status": "Подтверждено",
+      "date_scope": "competition",
+      "age": "Junior — начальная и средняя школа. Master — старшая школа и вуз, Sumo LEGO Master только старшая школа.",
+      "mat": "Условно. Уточнить класс, местную школу и правила следующего отбора.",
+      "osc": "Условно. Уточнить класс, местную школу и правила следующего отбора.",
+      "format": "Индивидуально или командой, по правилам отбора.",
+      "entry": "Действующая школьная справка, до 2 учеников и взрослый наставник. Можно собирать команду из разных школ.",
+      "gear": "Собственный цифровой проект и демонстрация работы.",
+      "language": "Язык местного этапа уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык местного этапа уточнить.",
+      "cost": "В сезоне 2026 взнос 300 MXN за команду на обе встречи. Правила следующего сезона уточнить.",
+      "level": "Открытый региональный турнир",
+      "importance_reason": "Подача заявки по правилам категории.",
+      "scope": "regional",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Архив сезона. Подача завершена.",
+      "source": "https://laliga.lati.mx/fechas-y-sedes/",
+      "references": [
+        {
+          "url": "https://laliga.lati.mx/wp-content/uploads/2026/09/Convocatoria-LTRC-3T-1.pdf",
+          "label": "Официальные правила или календарь организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "deadline_note": "Последний день подачи, отдельно от судейства.",
+      "related_ids": [
+        "C3426"
+      ]
+    },
+    {
+      "id": "C3429",
+      "block": "Соревнования",
+      "title": "Liga Tabasqueña 2026 · Jornada 2 · Teapa",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Instituto Tecnológico de la Región Sierra · Teapa",
+      "iso": [
+        "MEX"
+      ],
+      "start": "2026-10-30",
+      "end": "2026-10-30",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "competition",
+      "age": "Junior — начальная и средняя школа. Master — старшая школа и вуз, Sumo LEGO Master только старшая школа.",
+      "mat": "Условно. Уточнить класс, местную школу и правила следующего отбора.",
+      "osc": "Условно. Уточнить класс, местную школу и правила следующего отбора.",
+      "format": "Индивидуально или командой, по правилам отбора.",
+      "entry": "Действующая школьная справка, до 2 учеников и взрослый наставник. Можно собирать команду из разных школ.",
+      "gear": "Собственный цифровой проект и демонстрация работы.",
+      "language": "Язык местного этапа уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык местного этапа уточнить.",
+      "cost": "В сезоне 2026 взнос 300 MXN за команду на обе встречи. Правила следующего сезона уточнить.",
+      "level": "Открытый региональный турнир",
+      "importance_reason": "Подача заявки по правилам категории.",
+      "scope": "regional",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Архив сезона. Подача завершена.",
+      "source": "https://laliga.lati.mx/fechas-y-sedes/",
+      "references": [
+        {
+          "url": "https://laliga.lati.mx/wp-content/uploads/2026/09/Convocatoria-LTRC-3T-1.pdf",
+          "label": "Официальные правила или календарь организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "Robo Fut, Mini Sumo и следование по линии. Техосмотр в 08:00, награждение в 12:00.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "related_ids": [
+        "C3426"
+      ]
+    },
+    {
+      "id": "C3430",
+      "block": "Соревнования",
+      "title": "Liga Tabasqueña 2026 · Jornada 2 · LATI",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "LATI · Villahermosa",
+      "iso": [
+        "MEX"
+      ],
+      "start": "2026-10-30",
+      "end": "2026-10-30",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "competition",
+      "age": "Junior — начальная и средняя школа. Master — старшая школа и вуз, Sumo LEGO Master только старшая школа.",
+      "mat": "Условно. Уточнить класс, местную школу и правила следующего отбора.",
+      "osc": "Условно. Уточнить класс, местную школу и правила следующего отбора.",
+      "format": "Индивидуально или командой, по правилам отбора.",
+      "entry": "Действующая школьная справка, до 2 учеников и взрослый наставник. Можно собирать команду из разных школ.",
+      "gear": "Собственный цифровой проект и демонстрация работы.",
+      "language": "Язык местного этапа уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык местного этапа уточнить.",
+      "cost": "В сезоне 2026 взнос 300 MXN за команду на обе встречи. Правила следующего сезона уточнить.",
+      "level": "Открытый региональный турнир",
+      "importance_reason": "Подача заявки по правилам категории.",
+      "scope": "regional",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Архив сезона. Подача завершена.",
+      "source": "https://laliga.lati.mx/fechas-y-sedes/",
+      "references": [
+        {
+          "url": "https://laliga.lati.mx/wp-content/uploads/2026/09/Convocatoria-LTRC-3T-1.pdf",
+          "label": "Официальные правила или календарь организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "Sumo LEGO и Car Race. Техосмотр в 16:00, награждение в 18:00.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "related_ids": [
+        "C3426"
+      ]
+    },
+    {
+      "id": "C3431",
+      "block": "Соревнования",
+      "title": "Liga Tabasqueña · Junior · Sumo LEGO · 2026",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Villahermosa · Tabasco",
+      "iso": [
+        "MEX"
+      ],
+      "start": "2026-10-09",
+      "end": "2026-10-30",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "festival_window",
+      "age": "Junior — начальная и средняя школа.",
+      "mat": "Условно. Уточнить класс, местную школу и правила следующего отбора.",
+      "osc": "Условно. Уточнить класс, местную школу и правила следующего отбора.",
+      "format": "Индивидуально или командой, по правилам отбора.",
+      "entry": "Действующая школьная справка, до 2 учеников и взрослый наставник. Можно собирать команду из разных школ.",
+      "gear": "Sumo LEGO",
+      "language": "Язык местного этапа уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык местного этапа уточнить.",
+      "cost": "В сезоне 2026 взнос 300 MXN за команду на обе встречи. Правила следующего сезона уточнить.",
+      "level": "Открытый региональный турнир",
+      "importance_reason": "Подача заявки по правилам категории.",
+      "scope": "regional",
+      "reward": "Победители категории по итогам сезона получают путёвку на RoboMatrix Península в Канкуне.",
+      "priority": "P2 — участие по условиям",
+      "action": "Архив сезона. Подача завершена.",
+      "source": "https://laliga.lati.mx/wp-content/uploads/2026/09/Convocatoria-LTRC-3T-1.pdf",
+      "references": [
+        {
+          "url": "https://laliga.lati.mx/categorias/",
+          "label": "Официальные правила или календарь организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "Две встречи в течение сезона. Для новой команды регистрация закрывалась за 5 дней до выбранной встречи.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "related_ids": [
+        "C3426",
+        "C3427"
+      ]
+    },
+    {
+      "id": "C3432",
+      "block": "Соревнования",
+      "title": "Liga Tabasqueña · Junior · Seguidor de Línea Kit · 2026",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Villahermosa · Tabasco",
+      "iso": [
+        "MEX"
+      ],
+      "start": "2026-10-09",
+      "end": "2026-10-30",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "festival_window",
+      "age": "Junior — начальная и средняя школа.",
+      "mat": "Условно. Уточнить класс, местную школу и правила следующего отбора.",
+      "osc": "Условно. Уточнить класс, местную школу и правила следующего отбора.",
+      "format": "Индивидуально или командой, по правилам отбора.",
+      "entry": "Действующая школьная справка, до 2 учеников и взрослый наставник. Можно собирать команду из разных школ.",
+      "gear": "Seguidor de Línea Kit",
+      "language": "Язык местного этапа уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык местного этапа уточнить.",
+      "cost": "В сезоне 2026 взнос 300 MXN за команду на обе встречи. Правила следующего сезона уточнить.",
+      "level": "Открытый региональный турнир",
+      "importance_reason": "Подача заявки по правилам категории.",
+      "scope": "regional",
+      "reward": "Победители категории по итогам сезона получают путёвку на RoboMatrix Península в Канкуне.",
+      "priority": "P2 — участие по условиям",
+      "action": "Архив сезона. Подача завершена.",
+      "source": "https://laliga.lati.mx/wp-content/uploads/2026/09/Convocatoria-LTRC-3T-1.pdf",
+      "references": [
+        {
+          "url": "https://laliga.lati.mx/categorias/",
+          "label": "Официальные правила или календарь организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "Две встречи в течение сезона. Для новой команды регистрация закрывалась за 5 дней до выбранной встречи.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "related_ids": [
+        "C3426",
+        "C3427"
+      ]
+    },
+    {
+      "id": "C3433",
+      "block": "Соревнования",
+      "title": "Liga Tabasqueña · Junior · Car Race · 2026",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Villahermosa · Tabasco",
+      "iso": [
+        "MEX"
+      ],
+      "start": "2026-10-09",
+      "end": "2026-10-30",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "festival_window",
+      "age": "Junior — начальная и средняя школа.",
+      "mat": "Условно. Уточнить класс, местную школу и правила следующего отбора.",
+      "osc": "Условно. Уточнить класс, местную школу и правила следующего отбора.",
+      "format": "Индивидуально или командой, по правилам отбора.",
+      "entry": "Действующая школьная справка, до 2 учеников и взрослый наставник. Можно собирать команду из разных школ.",
+      "gear": "Car Race",
+      "language": "Язык местного этапа уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык местного этапа уточнить.",
+      "cost": "В сезоне 2026 взнос 300 MXN за команду на обе встречи. Правила следующего сезона уточнить.",
+      "level": "Открытый региональный турнир",
+      "importance_reason": "Подача заявки по правилам категории.",
+      "scope": "regional",
+      "reward": "Победители категории по итогам сезона получают путёвку на RoboMatrix Península в Канкуне.",
+      "priority": "P2 — участие по условиям",
+      "action": "Архив сезона. Подача завершена.",
+      "source": "https://laliga.lati.mx/wp-content/uploads/2026/09/Convocatoria-LTRC-3T-1.pdf",
+      "references": [
+        {
+          "url": "https://laliga.lati.mx/categorias/",
+          "label": "Официальные правила или календарь организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "Две встречи в течение сезона. Для новой команды регистрация закрывалась за 5 дней до выбранной встречи.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "related_ids": [
+        "C3426",
+        "C3427"
+      ]
+    },
+    {
+      "id": "C3434",
+      "block": "Соревнования",
+      "title": "MECAMEX 2026 · Mini Sumo Autónomo",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "UVM Querétaro · Juriquilla",
+      "iso": [
+        "MEX"
+      ],
+      "start": "2026-10-22",
+      "end": "2026-10-24",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "festival_window",
+      "age": "Студенты и школьники любого уровня, а также любители. Числовой минимум не указан.",
+      "mat": "Условно. Уточнить класс, местную школу и правила следующего отбора.",
+      "osc": "Условно. Уточнить класс, местную школу и правила следующего отбора.",
+      "format": "Открыто для участников клубов и независимых конкурсантов. На одного робота регистрируют оператора и помощника.",
+      "entry": "Открыто для участников клубов и независимых конкурсантов. На одного робота регистрируют оператора и помощника.",
+      "gear": "Mini Sumo Autónomo",
+      "language": "Язык местного этапа уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык местного этапа уточнить.",
+      "cost": "650 MXN за робота по прайсу 2026.",
+      "level": "Национальный отбор",
+      "importance_reason": "Подача заявки по правилам категории.",
+      "scope": "national",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Архив сезона. Подача завершена.",
+      "source": "https://www.mecamex.org/copia-de-competencia-de-rob%C3%B3tica",
+      "references": [
+        {
+          "url": "https://www.mecamex.org/events/mecamex-2026",
+          "label": "Официальные правила или календарь организатора."
+        },
+        {
+          "url": "https://www.mecamex.org/_files/ugd/7b7674_5a1288ef83fe4abd8457588f279aa65d.pdf",
+          "label": "Официальные правила или календарь организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "Это окно конгресса. В расписании конкретного робота день и возраст уточняются по категории.",
+      "themes": [
+        "robotics",
+        "engineering"
+      ],
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "related_ids": [
+        "C3440"
+      ]
+    },
+    {
+      "id": "C3435",
+      "block": "Соревнования",
+      "title": "MECAMEX 2026 · Mini Sumo RC",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "UVM Querétaro · Juriquilla",
+      "iso": [
+        "MEX"
+      ],
+      "start": "2026-10-22",
+      "end": "2026-10-24",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "festival_window",
+      "age": "Студенты и школьники любого уровня, а также любители. Числовой минимум не указан.",
+      "mat": "Условно. Уточнить класс, местную школу и правила следующего отбора.",
+      "osc": "Условно. Уточнить класс, местную школу и правила следующего отбора.",
+      "format": "Открыто для участников клубов и независимых конкурсантов. На одного робота регистрируют оператора и помощника.",
+      "entry": "Открыто для участников клубов и независимых конкурсантов. На одного робота регистрируют оператора и помощника.",
+      "gear": "Mini Sumo RC",
+      "language": "Язык местного этапа уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык местного этапа уточнить.",
+      "cost": "650 MXN за робота по прайсу 2026.",
+      "level": "Национальный отбор",
+      "importance_reason": "Подача заявки по правилам категории.",
+      "scope": "national",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Архив сезона. Подача завершена.",
+      "source": "https://www.mecamex.org/copia-de-competencia-de-rob%C3%B3tica",
+      "references": [
+        {
+          "url": "https://www.mecamex.org/events/mecamex-2026",
+          "label": "Официальные правила или календарь организатора."
+        },
+        {
+          "url": "https://www.mecamex.org/_files/ugd/7b7674_dc9e43296b984090a70f54a22b3b4390.pdf",
+          "label": "Официальные правила или календарь организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "Это окно конгресса. В расписании конкретного робота день и возраст уточняются по категории.",
+      "themes": [
+        "robotics",
+        "engineering"
+      ],
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "related_ids": [
+        "C3440"
+      ]
+    },
+    {
+      "id": "C3436",
+      "block": "Соревнования",
+      "title": "MECAMEX 2026 · Mini Sumo Amateur Autónomo",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "UVM Querétaro · Juriquilla",
+      "iso": [
+        "MEX"
+      ],
+      "start": "2026-10-22",
+      "end": "2026-10-24",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "festival_window",
+      "age": "Студенты и школьники любого уровня, а также любители. Числовой минимум не указан.",
+      "mat": "Условно. Уточнить класс, местную школу и правила следующего отбора.",
+      "osc": "Условно. Уточнить класс, местную школу и правила следующего отбора.",
+      "format": "Открыто для участников клубов и независимых конкурсантов. На одного робота регистрируют оператора и помощника.",
+      "entry": "Открыто для участников клубов и независимых конкурсантов. На одного робота регистрируют оператора и помощника.",
+      "gear": "Mini Sumo Amateur Autónomo",
+      "language": "Язык местного этапа уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык местного этапа уточнить.",
+      "cost": "450 MXN за робота по прайсу 2026.",
+      "level": "Национальный отбор",
+      "importance_reason": "Подача заявки по правилам категории.",
+      "scope": "national",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Архив сезона. Подача завершена.",
+      "source": "https://www.mecamex.org/copia-de-competencia-de-rob%C3%B3tica",
+      "references": [
+        {
+          "url": "https://www.mecamex.org/events/mecamex-2026",
+          "label": "Официальные правила или календарь организатора."
+        },
+        {
+          "url": "https://www.mecamex.org/_files/ugd/7b7674_2bdffa4727814254b6dfac99125744a9.pdf",
+          "label": "Официальные правила или календарь организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "Это окно конгресса. В расписании конкретного робота день и возраст уточняются по категории.",
+      "themes": [
+        "robotics",
+        "engineering"
+      ],
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "related_ids": [
+        "C3440"
+      ]
+    },
+    {
+      "id": "C3437",
+      "block": "Соревнования",
+      "title": "MECAMEX 2026 · Mini Sumo Amateur RC",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "UVM Querétaro · Juriquilla",
+      "iso": [
+        "MEX"
+      ],
+      "start": "2026-10-22",
+      "end": "2026-10-24",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "festival_window",
+      "age": "Студенты и школьники любого уровня, а также любители. Числовой минимум не указан.",
+      "mat": "Условно. Уточнить класс, местную школу и правила следующего отбора.",
+      "osc": "Условно. Уточнить класс, местную школу и правила следующего отбора.",
+      "format": "Открыто для участников клубов и независимых конкурсантов. На одного робота регистрируют оператора и помощника.",
+      "entry": "Открыто для участников клубов и независимых конкурсантов. На одного робота регистрируют оператора и помощника.",
+      "gear": "Mini Sumo Amateur RC",
+      "language": "Язык местного этапа уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык местного этапа уточнить.",
+      "cost": "450 MXN за робота по прайсу 2026.",
+      "level": "Национальный отбор",
+      "importance_reason": "Подача заявки по правилам категории.",
+      "scope": "national",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Архив сезона. Подача завершена.",
+      "source": "https://www.mecamex.org/copia-de-competencia-de-rob%C3%B3tica",
+      "references": [
+        {
+          "url": "https://www.mecamex.org/events/mecamex-2026",
+          "label": "Официальные правила или календарь организатора."
+        },
+        {
+          "url": "https://www.mecamex.org/_files/ugd/7b7674_8b596d687c224ca99d367fc3bbf0bfa9.pdf",
+          "label": "Официальные правила или календарь организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "Это окно конгресса. В расписании конкретного робота день и возраст уточняются по категории.",
+      "themes": [
+        "robotics",
+        "engineering"
+      ],
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "related_ids": [
+        "C3440"
+      ]
+    },
+    {
+      "id": "C3438",
+      "block": "Соревнования",
+      "title": "MECAMEX 2026 · Micro Sumo",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "UVM Querétaro · Juriquilla",
+      "iso": [
+        "MEX"
+      ],
+      "start": "2026-10-22",
+      "end": "2026-10-24",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "festival_window",
+      "age": "Студенты и школьники любого уровня, а также любители. Числовой минимум не указан.",
+      "mat": "Условно. Уточнить класс, местную школу и правила следующего отбора.",
+      "osc": "Условно. Уточнить класс, местную школу и правила следующего отбора.",
+      "format": "Открыто для участников клубов и независимых конкурсантов. На одного робота регистрируют оператора и помощника.",
+      "entry": "Открыто для участников клубов и независимых конкурсантов. На одного робота регистрируют оператора и помощника.",
+      "gear": "Micro Sumo",
+      "language": "Язык местного этапа уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык местного этапа уточнить.",
+      "cost": "450 MXN за робота по прайсу 2026.",
+      "level": "Национальный отбор",
+      "importance_reason": "Подача заявки по правилам категории.",
+      "scope": "national",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Архив сезона. Подача завершена.",
+      "source": "https://www.mecamex.org/copia-de-competencia-de-rob%C3%B3tica",
+      "references": [
+        {
+          "url": "https://www.mecamex.org/events/mecamex-2026",
+          "label": "Официальные правила или календарь организатора."
+        },
+        {
+          "url": "https://www.mecamex.org/_files/ugd/7b7674_13d5f316c13746c7a12d6b635dcc9fdd.pdf",
+          "label": "Официальные правила или календарь организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "Это окно конгресса. В расписании конкретного робота день и возраст уточняются по категории.",
+      "themes": [
+        "robotics",
+        "engineering"
+      ],
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "related_ids": [
+        "C3440"
+      ]
+    },
+    {
+      "id": "C3439",
+      "block": "Соревнования",
+      "title": "MECAMEX 2026 · Seguidor de Línea",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "UVM Querétaro · Juriquilla",
+      "iso": [
+        "MEX"
+      ],
+      "start": "2026-10-22",
+      "end": "2026-10-24",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "festival_window",
+      "age": "Студенты и школьники любого уровня, а также любители. Числовой минимум не указан.",
+      "mat": "Условно. Уточнить класс, местную школу и правила следующего отбора.",
+      "osc": "Условно. Уточнить класс, местную школу и правила следующего отбора.",
+      "format": "Открыто для участников клубов и независимых конкурсантов. На одного робота регистрируют оператора и помощника.",
+      "entry": "Открыто для участников клубов и независимых конкурсантов. На одного робота регистрируют оператора и помощника.",
+      "gear": "Seguidor de Línea",
+      "language": "Язык местного этапа уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык местного этапа уточнить.",
+      "cost": "550 MXN за робота по прайсу 2026.",
+      "level": "Национальный отбор",
+      "importance_reason": "Подача заявки по правилам категории.",
+      "scope": "national",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Архив сезона. Подача завершена.",
+      "source": "https://www.mecamex.org/copia-de-competencia-de-rob%C3%B3tica",
+      "references": [
+        {
+          "url": "https://www.mecamex.org/events/mecamex-2026",
+          "label": "Официальные правила или календарь организатора."
+        },
+        {
+          "url": "https://www.mecamex.org/_files/ugd/7b7674_a707daae83f844b7bce3a757fde54355.pdf",
+          "label": "Официальные правила или календарь организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "Это окно конгресса. В расписании конкретного робота день и возраст уточняются по категории.",
+      "themes": [
+        "robotics",
+        "engineering"
+      ],
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "related_ids": [
+        "C3440"
+      ]
+    },
+    {
+      "id": "C3440",
+      "block": "Соревнования",
+      "title": "MECAMEX · competencia de robótica · next edition",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "México",
+      "iso": [
+        "MEX"
+      ],
+      "start": "",
+      "end": "",
+      "period": "Следующий набор пока не объявлен.",
+      "deadline": "",
+      "date_status": "Не объявлено",
+      "date_scope": "programme_watch",
+      "age": "Студенты и школьники любого уровня, а также любители. Числовой минимум не указан.",
+      "mat": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "osc": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "format": "Индивидуально или командой, по правилам отбора.",
+      "entry": "Открыто для участников клубов и независимых конкурсантов. На одного робота регистрируют оператора и помощника.",
+      "gear": "Собственный цифровой проект и демонстрация работы.",
+      "language": "Язык местного этапа уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык местного этапа уточнить.",
+      "cost": "Взнос для этой категории уточнить.",
+      "level": "Национальный отбор",
+      "importance_reason": "Подача заявки по правилам категории.",
+      "scope": "national",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Следить за публикацией нового регламента и сроков.",
+      "source": "https://www.mecamex.org/copia-de-competencia-de-rob%C3%B3tica",
+      "references": [
+        {
+          "url": "https://www.mecamex.org/events/mecamex-2026",
+          "label": "Официальные правила или календарь организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "",
+      "themes": [
+        "robotics",
+        "engineering"
+      ],
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "related_ids": [
+        "C3434",
+        "C3435",
+        "C3436",
+        "C3437",
+        "C3438",
+        "C3439"
+      ]
+    },
+    {
+      "id": "C3441",
+      "block": "Соревнования",
+      "title": "Kanturobot Reloaded 2026 · Proyecto de Innovación Tecnológica",
+      "country": "Перу",
+      "region": "Южная Америка",
+      "city": "UNE · Rotonda de la Facultad de Tecnología · Chosica",
+      "iso": [
+        "PER"
+      ],
+      "start": "2026-11-10",
+      "end": "2026-11-10",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "competition",
+      "age": "Только средняя школа.",
+      "mat": "Нет. Категория начинается со средней школы.",
+      "osc": "Нет. Категория начинается со средней школы.",
+      "format": "Индивидуально или командой, по правилам отбора.",
+      "entry": "Для несовершеннолетних требуется разрешение родителя или опекуна. Приём иностранной команды и наличие места уточнить.",
+      "gear": "Proyecto de robótica",
+      "language": "Язык местного этапа уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык местного этапа уточнить.",
+      "cost": "30 PEN за заявку категории.",
+      "level": "Национальный отбор",
+      "importance_reason": "Подача заявки по правилам категории.",
+      "scope": "national",
+      "reward": "",
+      "priority": "P4 — будущая старшая ступень / младший допуск не подтверждён",
+      "action": "Сверить подтверждение регистрации и техосмотра по своей категории.",
+      "source": "https://progluis.github.io/KantuRobot2026/",
+      "references": [
+        {
+          "url": "https://progluis.github.io/KantuRobot2026/documentos/01_Reglamento_General_Kanturobot_Reloaded_2026.pdf",
+          "label": "Официальные правила или календарь организатора."
+        },
+        {
+          "url": "https://progluis.github.io/KantuRobot2026/documentos/10_Bases_Proyecto_Innovacion_Tecnologica_Escolar_Kanturobot_2026.pdf",
+          "label": "Официальные правила или календарь организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page"
+    },
+    {
+      "id": "C3442",
+      "block": "Соревнования",
+      "title": "Kanturobot Reloaded 2026 · Seguidor de Línea Escolar",
+      "country": "Перу",
+      "region": "Южная Америка",
+      "city": "UNE · Rotonda de la Facultad de Tecnología · Chosica",
+      "iso": [
+        "PER"
+      ],
+      "start": "2026-11-10",
+      "end": "2026-11-10",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "competition",
+      "age": "Только средняя школа.",
+      "mat": "Нет. Категория начинается со средней школы.",
+      "osc": "Нет. Категория начинается со средней школы.",
+      "format": "Индивидуально или командой, по правилам отбора.",
+      "entry": "Для несовершеннолетних требуется разрешение родителя или опекуна. Приём иностранной команды и наличие места уточнить.",
+      "gear": "LEGO / Arduino / ESP32",
+      "language": "Язык местного этапа уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык местного этапа уточнить.",
+      "cost": "30 PEN за заявку категории.",
+      "level": "Национальный отбор",
+      "importance_reason": "Подача заявки по правилам категории.",
+      "scope": "national",
+      "reward": "",
+      "priority": "P4 — будущая старшая ступень / младший допуск не подтверждён",
+      "action": "Сверить подтверждение регистрации и техосмотра по своей категории.",
+      "source": "https://progluis.github.io/KantuRobot2026/",
+      "references": [
+        {
+          "url": "https://progluis.github.io/KantuRobot2026/documentos/01_Reglamento_General_Kanturobot_Reloaded_2026.pdf",
+          "label": "Официальные правила или календарь организатора."
+        },
+        {
+          "url": "https://progluis.github.io/KantuRobot2026/documentos/02_Bases_Seguidor_Linea_Escolar_Kanturobot_2026.pdf",
+          "label": "Официальные правила или календарь организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page"
+    },
+    {
+      "id": "C3443",
+      "block": "Соревнования",
+      "title": "Kanturobot Reloaded 2026 · Robot Velocista",
+      "country": "Перу",
+      "region": "Южная Америка",
+      "city": "UNE · Rotonda de la Facultad de Tecnología · Chosica",
+      "iso": [
+        "PER"
+      ],
+      "start": "2026-11-10",
+      "end": "2026-11-10",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "competition",
+      "age": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "mat": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "osc": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "format": "Индивидуально или командой, по правилам отбора.",
+      "entry": "Для несовершеннолетних требуется разрешение родителя или опекуна. Приём иностранной команды и наличие места уточнить.",
+      "gear": "Robot Velocista",
+      "language": "Язык местного этапа уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык местного этапа уточнить.",
+      "cost": "50 PEN за заявку категории.",
+      "level": "Национальный отбор",
+      "importance_reason": "Подача заявки по правилам категории.",
+      "scope": "national",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Сверить подтверждение регистрации и техосмотра по своей категории.",
+      "source": "https://progluis.github.io/KantuRobot2026/",
+      "references": [
+        {
+          "url": "https://progluis.github.io/KantuRobot2026/documentos/01_Reglamento_General_Kanturobot_Reloaded_2026.pdf",
+          "label": "Официальные правила или календарь организатора."
+        },
+        {
+          "url": "https://progluis.github.io/KantuRobot2026/documentos/06_Bases_Robot_Velocista_Kanturobot_2026.pdf",
+          "label": "Официальные правила или календарь организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page"
+    },
+    {
+      "id": "C3444",
+      "block": "Соревнования",
+      "title": "Kanturobot Reloaded 2026 · Mini Sumo",
+      "country": "Перу",
+      "region": "Южная Америка",
+      "city": "UNE · Rotonda de la Facultad de Tecnología · Chosica",
+      "iso": [
+        "PER"
+      ],
+      "start": "2026-11-10",
+      "end": "2026-11-10",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "competition",
+      "age": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "mat": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "osc": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "format": "Индивидуально или командой, по правилам отбора.",
+      "entry": "Для несовершеннолетних требуется разрешение родителя или опекуна. Приём иностранной команды и наличие места уточнить.",
+      "gear": "Mini Sumo",
+      "language": "Язык местного этапа уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык местного этапа уточнить.",
+      "cost": "50 PEN за заявку категории.",
+      "level": "Национальный отбор",
+      "importance_reason": "Подача заявки по правилам категории.",
+      "scope": "national",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Сверить подтверждение регистрации и техосмотра по своей категории.",
+      "source": "https://progluis.github.io/KantuRobot2026/",
+      "references": [
+        {
+          "url": "https://progluis.github.io/KantuRobot2026/documentos/01_Reglamento_General_Kanturobot_Reloaded_2026.pdf",
+          "label": "Официальные правила или календарь организатора."
+        },
+        {
+          "url": "https://progluis.github.io/KantuRobot2026/documentos/07_Bases_Robot_Mini_Sumo_Kanturobot_2026.pdf",
+          "label": "Официальные правила или календарь организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page"
+    },
+    {
+      "id": "C3445",
+      "block": "Соревнования",
+      "title": "Kanturobot Reloaded 2026 · Robot Soccer",
+      "country": "Перу",
+      "region": "Южная Америка",
+      "city": "UNE · Rotonda de la Facultad de Tecnología · Chosica",
+      "iso": [
+        "PER"
+      ],
+      "start": "2026-11-10",
+      "end": "2026-11-10",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "competition",
+      "age": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "mat": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "osc": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+      "format": "Индивидуально или командой, по правилам отбора.",
+      "entry": "Для несовершеннолетних требуется разрешение родителя или опекуна. Приём иностранной команды и наличие места уточнить.",
+      "gear": "Robot Soccer",
+      "language": "Язык местного этапа уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык местного этапа уточнить.",
+      "cost": "50 PEN за заявку категории.",
+      "level": "Национальный отбор",
+      "importance_reason": "Подача заявки по правилам категории.",
+      "scope": "national",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Сверить подтверждение регистрации и техосмотра по своей категории.",
+      "source": "https://progluis.github.io/KantuRobot2026/",
+      "references": [
+        {
+          "url": "https://progluis.github.io/KantuRobot2026/documentos/01_Reglamento_General_Kanturobot_Reloaded_2026.pdf",
+          "label": "Официальные правила или календарь организатора."
+        },
+        {
+          "url": "https://progluis.github.io/KantuRobot2026/documentos/08_Bases_Robot_Soccer_Kanturobot_2026.pdf",
+          "label": "Официальные правила или календарь организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page"
+    },
+    {
+      "id": "C3446",
+      "block": "Соревнования",
+      "title": "Kanturobot Reloaded 2026 · Walking Race OTTO",
+      "country": "Перу",
+      "region": "Южная Америка",
+      "city": "UNE · Rotonda de la Facultad de Tecnología · Chosica",
+      "iso": [
+        "PER"
+      ],
+      "start": "2026-11-10",
+      "end": "2026-11-10",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "competition",
+      "age": "Допускаются разные возраста и уровни обучения. Числовой минимум не указан.",
+      "mat": "Условно. Нужны разрешение родителя и подтверждение заявки.",
+      "osc": "Условно. Нужны разрешение родителя и подтверждение заявки.",
+      "format": "Робота может собрать команда. На старт выходит один зарегистрированный пилот.",
+      "entry": "Для несовершеннолетних требуется разрешение родителя или опекуна. Приём иностранной команды и наличие места уточнить.",
+      "gear": "OTTO DIY · Bluetooth",
+      "language": "Язык местного этапа уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык местного этапа уточнить.",
+      "cost": "50 PEN за заявку категории.",
+      "level": "Национальный отбор",
+      "importance_reason": "Подача заявки по правилам категории.",
+      "scope": "national",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Сверить подтверждение регистрации и техосмотра по своей категории.",
+      "source": "https://progluis.github.io/KantuRobot2026/",
+      "references": [
+        {
+          "url": "https://progluis.github.io/KantuRobot2026/documentos/01_Reglamento_General_Kanturobot_Reloaded_2026.pdf",
+          "label": "Официальные правила или календарь организатора."
+        },
+        {
+          "url": "https://progluis.github.io/KantuRobot2026/documentos/03_Bases_Walking_Race_OTTO_Kanturobot_2026.pdf",
+          "label": "Официальные правила или календарь организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "Двуногий робот OTTO DIY, управление Bluetooth. Для награждения нужны не менее 4 допущенных роботов.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page"
+    },
+    {
+      "id": "C3447",
+      "block": "Соревнования",
+      "title": "Kanturobot Reloaded 2026 · Robot Humanoide",
+      "country": "Перу",
+      "region": "Южная Америка",
+      "city": "UNE · Rotonda de la Facultad de Tecnología · Chosica",
+      "iso": [
+        "PER"
+      ],
+      "start": "2026-11-10",
+      "end": "2026-11-10",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "competition",
+      "age": "Открытая категория без деления по возрасту. Для несовершеннолетних нужны разрешение и взрослый сопровождающий.",
+      "mat": "Условно. Нужны разрешение и взрослый сопровождающий.",
+      "osc": "Условно. Нужны разрешение и взрослый сопровождающий.",
+      "format": "До 3 участников в команде. На старт выходит один пилот.",
+      "entry": "Для несовершеннолетних требуется разрешение родителя или опекуна. Приём иностранной команды и наличие места уточнить.",
+      "gear": "Robot Humanoide",
+      "language": "Язык местного этапа уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык местного этапа уточнить.",
+      "cost": "50 PEN за заявку категории.",
+      "level": "Национальный отбор",
+      "importance_reason": "Подача заявки по правилам категории.",
+      "scope": "national",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Сверить подтверждение регистрации и техосмотра по своей категории.",
+      "source": "https://progluis.github.io/KantuRobot2026/",
+      "references": [
+        {
+          "url": "https://progluis.github.io/KantuRobot2026/documentos/01_Reglamento_General_Kanturobot_Reloaded_2026.pdf",
+          "label": "Официальные правила или календарь организатора."
+        },
+        {
+          "url": "https://progluis.github.io/KantuRobot2026/documentos/09_Bases_Humanoide_Kanturobot_2026.pdf",
+          "label": "Официальные правила или календарь организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page"
+    },
+    {
+      "id": "C3448",
+      "block": "Соревнования",
+      "title": "Kanturobot Reloaded 2026 · Warbot 1 lb",
+      "country": "Перу",
+      "region": "Южная Америка",
+      "city": "UNE · Rotonda de la Facultad de Tecnología · Chosica",
+      "iso": [
+        "PER"
+      ],
+      "start": "2026-11-10",
+      "end": "2026-11-10",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "competition",
+      "age": "Старше 18 лет по опубликованным правилам.",
+      "mat": "Нет. Категория для взрослых.",
+      "osc": "Нет. Категория для взрослых.",
+      "format": "Индивидуально или командой, по правилам отбора.",
+      "entry": "Для несовершеннолетних требуется разрешение родителя или опекуна. Приём иностранной команды и наличие места уточнить.",
+      "gear": "Warbot 1 lb",
+      "language": "Язык местного этапа уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык местного этапа уточнить.",
+      "cost": "50 PEN за заявку категории.",
+      "level": "Национальный отбор",
+      "importance_reason": "Подача заявки по правилам категории.",
+      "scope": "national",
+      "reward": "",
+      "priority": "P4 — будущая старшая ступень / младший допуск не подтверждён",
+      "action": "Сверить подтверждение регистрации и техосмотра по своей категории.",
+      "source": "https://progluis.github.io/KantuRobot2026/",
+      "references": [
+        {
+          "url": "https://progluis.github.io/KantuRobot2026/documentos/01_Reglamento_General_Kanturobot_Reloaded_2026.pdf",
+          "label": "Официальные правила или календарь организатора."
+        },
+        {
+          "url": "https://progluis.github.io/KantuRobot2026/documentos/04_Bases_Warbot_1lb_Kanturobot_2026.pdf",
+          "label": "Официальные правила или календарь организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page"
+    },
+    {
+      "id": "C3449",
+      "block": "Соревнования",
+      "title": "Kanturobot Reloaded 2026 · Warbot 120 lb",
+      "country": "Перу",
+      "region": "Южная Америка",
+      "city": "UNE · Rotonda de la Facultad de Tecnología · Chosica",
+      "iso": [
+        "PER"
+      ],
+      "start": "2026-11-10",
+      "end": "2026-11-10",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "competition",
+      "age": "Старше 18 лет по опубликованным правилам.",
+      "mat": "Нет. Категория для взрослых.",
+      "osc": "Нет. Категория для взрослых.",
+      "format": "Индивидуально или командой, по правилам отбора.",
+      "entry": "Для несовершеннолетних требуется разрешение родителя или опекуна. Приём иностранной команды и наличие места уточнить.",
+      "gear": "Warbot 120 lb",
+      "language": "Язык местного этапа уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык местного этапа уточнить.",
+      "cost": "100 PEN за заявку категории.",
+      "level": "Национальный отбор",
+      "importance_reason": "Подача заявки по правилам категории.",
+      "scope": "national",
+      "reward": "",
+      "priority": "P4 — будущая старшая ступень / младший допуск не подтверждён",
+      "action": "Сверить подтверждение регистрации и техосмотра по своей категории.",
+      "source": "https://progluis.github.io/KantuRobot2026/",
+      "references": [
+        {
+          "url": "https://progluis.github.io/KantuRobot2026/documentos/01_Reglamento_General_Kanturobot_Reloaded_2026.pdf",
+          "label": "Официальные правила или календарь организатора."
+        },
+        {
+          "url": "https://progluis.github.io/KantuRobot2026/documentos/05_Bases_Warbot_120lb_Kanturobot_2026.pdf",
+          "label": "Официальные правила или календарь организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page"
+    },
+    {
+      "id": "C3450",
+      "block": "Соревнования",
+      "title": "PUCP Pequeños Satélites 2026 · Primaria",
+      "country": "Перу",
+      "region": "Южная Америка",
+      "city": "PUCP · San Miguel · Lima",
+      "iso": [
+        "PER"
+      ],
+      "start": "2026-08-29",
+      "end": "2026-08-29",
+      "period": "",
+      "deadline": "2026-06-30",
+      "date_status": "Подтверждено",
+      "date_scope": "award_ceremony",
+      "age": "1–6 классы, три группы по два класса.",
+      "mat": "Условно. Уточнить класс, местную школу и правила следующего отбора.",
+      "osc": "Условно. Уточнить класс, местную школу и правила следующего отбора.",
+      "format": "Индивидуальный конкурс рисунка о космосе, выполненного от руки.",
+      "entry": "В 2026 нужны были гражданство Перу или легальное проживание и начальная школа округа Сан-Мигель.",
+      "gear": "",
+      "language": "Язык местного этапа уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык местного этапа уточнить.",
+      "cost": "Бесплатно по правилам 2026.",
+      "level": "Национальный отбор",
+      "importance_reason": "Подача заявки по правилам категории.",
+      "scope": "local",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Архив сезона. Подача завершена.",
+      "source": "https://competencia-satelites-escolar.pucp.edu.pe/",
+      "references": [
+        {
+          "url": "https://competencia-satelites-escolar.pucp.edu.pe/wp-content/uploads/2026/05/CNPS2026_Modalidad-Escolar_Bases-de-la-Competencia_v2.pdf",
+          "label": "Официальные правила или календарь организатора."
+        },
+        {
+          "url": "https://inras.pucp.edu.pe/news/more-than-300-schoolchildren-participated-in-the-first-edition-of-the-national-small-satellite-competition---primary-school-category",
+          "label": "Официальные правила или календарь организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "29 августа состоялись выставка финалистов и награждение. Приём рисунков завершился в июне.",
+      "themes": [
+        "space",
+        "science",
+        "art"
+      ],
+      "participation": "individual",
+      "admission_kind": "school",
+      "evidence_level": "event_page",
+      "deadline_note": "Последний день подачи, отдельно от судейства.",
+      "related_ids": [
+        "C3451"
+      ]
+    },
+    {
+      "id": "C3451",
+      "block": "Соревнования",
+      "title": "PUCP Pequeños Satélites 2027 · Primaria · convocatoria prevista",
+      "country": "Перу",
+      "region": "Южная Америка",
+      "city": "PUCP · San Miguel · Lima",
+      "iso": [
+        "PER"
+      ],
+      "start": "",
+      "end": "",
+      "period": "Начало подачи предварительно намечено на март 2027. Точный срок не опубликован.",
+      "deadline": "",
+      "date_status": "Не объявлено",
+      "date_scope": "programme_watch",
+      "age": "1–6 классы, три группы по два класса.",
+      "mat": "Условно. Уточнить класс, местную школу и правила следующего отбора.",
+      "osc": "Условно. Уточнить класс, местную школу и правила следующего отбора.",
+      "format": "Индивидуальный конкурс рисунка о космосе, выполненного от руки.",
+      "entry": "В 2026 нужны были гражданство Перу или легальное проживание и начальная школа округа Сан-Мигель.",
+      "gear": "",
+      "language": "Язык местного этапа уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык местного этапа уточнить.",
+      "cost": "Взнос для этой категории уточнить.",
+      "level": "Национальный отбор",
+      "importance_reason": "Подача заявки по правилам категории.",
+      "scope": "local",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Следить за публикацией нового регламента и сроков.",
+      "source": "https://es.linkedin.com/posts/vripucp_cnps2027-investigaci%C3%B3npucp-cienciaytecnolog%C3%ADa-activity-7518348163095785472-s8lU",
+      "references": [
+        {
+          "url": "https://competencia-satelites-escolar.pucp.edu.pe/wp-content/uploads/2026/05/CNPS2026_Modalidad-Escolar_Bases-de-la-Competencia_v2.pdf",
+          "label": "Официальные правила или календарь организатора."
+        },
+        {
+          "url": "https://inras.pucp.edu.pe/",
+          "label": "Официальные правила или календарь организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "Географию школ, формат и тариф нового сезона нужно сверить с отдельными правилами Primary.",
+      "themes": [
+        "space",
+        "science",
+        "art"
+      ],
+      "participation": "individual",
+      "admission_kind": "school",
+      "evidence_level": "event_page",
+      "related_ids": [
+        "C3450"
+      ]
+    },
+    {
+      "id": "C3452",
+      "block": "Соревнования",
+      "title": "UGEL Chucuito Juli 2026 · V Festival de Robótica Educativa",
+      "country": "Перу",
+      "region": "Южная Америка",
+      "city": "Juli · Puno",
+      "iso": [
+        "PER"
+      ],
+      "start": "",
+      "end": "",
+      "period": "4 ноября 2026 представили правила. Дата самого турнира в этом объявлении не указана.",
+      "deadline": "",
+      "date_status": "Не объявлено",
+      "date_scope": "programme_watch",
+      "age": "Дошкольные группы, начальная и средняя школа.",
+      "mat": "Условно. Уточнить класс, местную школу и правила следующего отбора.",
+      "osc": "Условно. Уточнить класс, местную школу и правила следующего отбора.",
+      "format": "Индивидуально или командой, по правилам отбора.",
+      "entry": "Фестиваль для местных учреждений с выданными комплектами робототехники. Участвуют дошкольные группы, начальные и средние школы.",
+      "gear": "Собственный цифровой проект и демонстрация работы.",
+      "language": "Язык местного этапа уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык местного этапа уточнить.",
+      "cost": "Взнос для этой категории уточнить.",
+      "level": "Национальный отбор",
+      "importance_reason": "Подача заявки по правилам категории.",
+      "scope": "regional",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Следить за публикацией нового регламента и сроков.",
+      "source": "https://ugelchucuito.edu.pe/portal/2026/11/02/lanzamiento-del-v-festival-y-concurso-de-robotica-educativa-2026/",
+      "references": [],
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "participation": "individual_or_team",
+      "admission_kind": "school",
+      "evidence_level": "event_page"
+    },
+    {
+      "id": "E440",
+      "block": "События",
+      "title": "Feria Científica del Ingenio Juvenil 2026 · SENACYT",
+      "country": "Панама",
+      "region": "Центральная Америка",
+      "city": "Marriott Panamá · Albrook Mall",
+      "iso": [
+        "PAN"
+      ],
+      "start": "2026-10-14",
+      "end": "2026-10-16",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "exhibition_window",
+      "age": "Школьные визиты с 4 класса. Допуск младших при посещении семьёй уточнить.",
+      "mat": "Школьные визиты с 4 класса. Допуск младших при посещении семьёй уточнить.",
+      "osc": "Школьные визиты с 4 класса. Допуск младших при посещении семьёй уточнить.",
+      "format": "",
+      "entry": "Школьные визиты с 4 класса. Допуск младших при посещении семьёй уточнить.",
+      "gear": "",
+      "language": "Язык местного этапа уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык местного этапа уточнить.",
+      "cost": "Вход был бесплатным в 2026.",
+      "level": "Национальный отбор",
+      "importance_reason": "Подача заявки по правилам категории.",
+      "scope": "national",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Архив сезона. Подача завершена.",
+      "source": "https://feriacientifica.senacyt.gob.pa/",
+      "references": [],
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "",
+      "themes": [
+        "science",
+        "engineering",
+        "technology"
+      ],
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "adult_entry": "Вход был бесплатным в 2026.",
+      "visitor_policy": "confirm_children",
+      "visitor_policy_note": "Школьные визиты с 4 класса. Допуск младших при посещении семьёй уточнить.",
+      "exhibition_tier": "family_alternative",
+      "related_ids": [
+        "E441"
+      ]
+    },
+    {
+      "id": "E441",
+      "block": "События",
+      "title": "Feria Científica del Ingenio Juvenil · next edition",
+      "country": "Панама",
+      "region": "Центральная Америка",
+      "city": "Panamá",
+      "iso": [
+        "PAN"
+      ],
+      "start": "",
+      "end": "",
+      "period": "Следующий набор пока не объявлен.",
+      "deadline": "",
+      "date_status": "Не объявлено",
+      "date_scope": "programme_watch",
+      "age": "Школьные визиты с 4 класса. Допуск младших при посещении семьёй уточнить.",
+      "mat": "Школьные визиты с 4 класса. Допуск младших при посещении семьёй уточнить.",
+      "osc": "Школьные визиты с 4 класса. Допуск младших при посещении семьёй уточнить.",
+      "format": "",
+      "entry": "Школьные визиты с 4 класса. Допуск младших при посещении семьёй уточнить.",
+      "gear": "",
+      "language": "Язык местного этапа уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык местного этапа уточнить.",
+      "cost": "Взнос для этой категории уточнить.",
+      "level": "Национальный отбор",
+      "importance_reason": "Подача заявки по правилам категории.",
+      "scope": "national",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Следить за публикацией нового регламента и сроков.",
+      "source": "https://feriacientifica.senacyt.gob.pa/",
+      "references": [],
+      "proof": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "",
+      "themes": [
+        "science",
+        "engineering",
+        "technology"
+      ],
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "visitor_policy": "confirm_children",
+      "visitor_policy_note": "Школьные визиты с 4 класса. Допуск младших при посещении семьёй уточнить.",
+      "exhibition_tier": "family_alternative",
+      "related_ids": [
+        "E440"
       ]
     },
     {
@@ -599356,7 +602100,7 @@
       "checked": "2026-09-29"
     }
   ],
-  "source_count": 7178,
+  "source_count": 7212,
   "sources": [
     {
       "url": "https://www.torneoluva.com",
@@ -642317,6 +645061,210 @@
       "title": "Официальные правила или календарь организатора.",
       "checked": "2026-11-07",
       "evidence": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска."
+    },
+    {
+      "url": "https://www.roboraveinternational.org/retos/ruta-roborave",
+      "title": "Официальные правила или календарь организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска."
+    },
+    {
+      "url": "https://www.olamiort.edu.mx/robotics-convocatoria",
+      "title": "Официальные правила или календарь организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска."
+    },
+    {
+      "url": "https://www.olamiort.edu.mx/_files/ugd/41a133_7e10c13e740846d3a2add8e6573f3393.pdf",
+      "title": "Официальные правила или календарь организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска."
+    },
+    {
+      "url": "https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf",
+      "title": "Официальные правила или календарь организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска."
+    },
+    {
+      "url": "https://robotics.olamiort.edu.mx/",
+      "title": "Официальные правила или календарь организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска."
+    },
+    {
+      "url": "https://laliga.lati.mx/",
+      "title": "Официальные правила или календарь организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска."
+    },
+    {
+      "url": "https://laliga.lati.mx/inscripciones/",
+      "title": "Официальные правила или календарь организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска."
+    },
+    {
+      "url": "https://laliga.lati.mx/fechas-y-sedes/",
+      "title": "Официальные правила или календарь организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска."
+    },
+    {
+      "url": "https://www.mecamex.org/copia-de-competencia-de-rob%C3%B3tica",
+      "title": "Официальные правила или календарь организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска."
+    },
+    {
+      "url": "https://www.mecamex.org/events/mecamex-2026",
+      "title": "Официальные правила или календарь организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска."
+    },
+    {
+      "url": "https://www.mecamex.org/_files/ugd/7b7674_5a1288ef83fe4abd8457588f279aa65d.pdf",
+      "title": "Официальные правила или календарь организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска."
+    },
+    {
+      "url": "https://www.mecamex.org/_files/ugd/7b7674_dc9e43296b984090a70f54a22b3b4390.pdf",
+      "title": "Официальные правила или календарь организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска."
+    },
+    {
+      "url": "https://www.mecamex.org/_files/ugd/7b7674_2bdffa4727814254b6dfac99125744a9.pdf",
+      "title": "Официальные правила или календарь организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска."
+    },
+    {
+      "url": "https://www.mecamex.org/_files/ugd/7b7674_8b596d687c224ca99d367fc3bbf0bfa9.pdf",
+      "title": "Официальные правила или календарь организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска."
+    },
+    {
+      "url": "https://www.mecamex.org/_files/ugd/7b7674_13d5f316c13746c7a12d6b635dcc9fdd.pdf",
+      "title": "Официальные правила или календарь организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска."
+    },
+    {
+      "url": "https://www.mecamex.org/_files/ugd/7b7674_a707daae83f844b7bce3a757fde54355.pdf",
+      "title": "Официальные правила или календарь организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска."
+    },
+    {
+      "url": "https://progluis.github.io/KantuRobot2026/",
+      "title": "Официальные правила или календарь организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска."
+    },
+    {
+      "url": "https://progluis.github.io/KantuRobot2026/documentos/01_Reglamento_General_Kanturobot_Reloaded_2026.pdf",
+      "title": "Официальные правила или календарь организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска."
+    },
+    {
+      "url": "https://progluis.github.io/KantuRobot2026/documentos/10_Bases_Proyecto_Innovacion_Tecnologica_Escolar_Kanturobot_2026.pdf",
+      "title": "Официальные правила или календарь организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска."
+    },
+    {
+      "url": "https://progluis.github.io/KantuRobot2026/documentos/02_Bases_Seguidor_Linea_Escolar_Kanturobot_2026.pdf",
+      "title": "Официальные правила или календарь организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска."
+    },
+    {
+      "url": "https://progluis.github.io/KantuRobot2026/documentos/06_Bases_Robot_Velocista_Kanturobot_2026.pdf",
+      "title": "Официальные правила или календарь организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска."
+    },
+    {
+      "url": "https://progluis.github.io/KantuRobot2026/documentos/07_Bases_Robot_Mini_Sumo_Kanturobot_2026.pdf",
+      "title": "Официальные правила или календарь организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска."
+    },
+    {
+      "url": "https://progluis.github.io/KantuRobot2026/documentos/08_Bases_Robot_Soccer_Kanturobot_2026.pdf",
+      "title": "Официальные правила или календарь организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска."
+    },
+    {
+      "url": "https://progluis.github.io/KantuRobot2026/documentos/03_Bases_Walking_Race_OTTO_Kanturobot_2026.pdf",
+      "title": "Официальные правила или календарь организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска."
+    },
+    {
+      "url": "https://progluis.github.io/KantuRobot2026/documentos/09_Bases_Humanoide_Kanturobot_2026.pdf",
+      "title": "Официальные правила или календарь организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска."
+    },
+    {
+      "url": "https://progluis.github.io/KantuRobot2026/documentos/04_Bases_Warbot_1lb_Kanturobot_2026.pdf",
+      "title": "Официальные правила или календарь организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска."
+    },
+    {
+      "url": "https://progluis.github.io/KantuRobot2026/documentos/05_Bases_Warbot_120lb_Kanturobot_2026.pdf",
+      "title": "Официальные правила или календарь организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска."
+    },
+    {
+      "url": "https://competencia-satelites-escolar.pucp.edu.pe/",
+      "title": "Официальные правила или календарь организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска."
+    },
+    {
+      "url": "https://competencia-satelites-escolar.pucp.edu.pe/wp-content/uploads/2026/05/CNPS2026_Modalidad-Escolar_Bases-de-la-Competencia_v2.pdf",
+      "title": "Официальные правила или календарь организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска."
+    },
+    {
+      "url": "https://inras.pucp.edu.pe/news/more-than-300-schoolchildren-participated-in-the-first-edition-of-the-national-small-satellite-competition---primary-school-category",
+      "title": "Официальные правила или календарь организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска."
+    },
+    {
+      "url": "https://es.linkedin.com/posts/vripucp_cnps2027-investigaci%C3%B3npucp-cienciaytecnolog%C3%ADa-activity-7518348163095785472-s8lU",
+      "title": "Официальные правила или календарь организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска."
+    },
+    {
+      "url": "https://inras.pucp.edu.pe/",
+      "title": "Официальные правила или календарь организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска."
+    },
+    {
+      "url": "https://ugelchucuito.edu.pe/portal/2026/11/02/lanzamiento-del-v-festival-y-concurso-de-robotica-educativa-2026/",
+      "title": "Официальные правила или календарь организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска."
+    },
+    {
+      "url": "https://feriacientifica.senacyt.gob.pa/",
+      "title": "Официальные правила или календарь организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска."
     }
   ],
   "wro_members": 108,
@@ -644812,10 +647760,10 @@
       "country": "Мексика",
       "region": "Северная Америка",
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
-      "competitions": 160,
+      "competitions": 192,
       "exhibitions": 35,
       "camps": 44,
-      "dated": 173,
+      "dated": 202,
       "organizer": "WRO Mexico / FUNDESTEAM México",
       "organizer_url": "https://wromexico.org/",
       "network_routes": 4,
@@ -644841,9 +647789,9 @@
       "region": "Центральная Америка",
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
       "competitions": 44,
-      "exhibitions": 1,
+      "exhibitions": 3,
       "camps": 11,
-      "dated": 37,
+      "dated": 38,
       "organizer": "Fundesteam",
       "organizer_url": "https://www.fundesteam.org/",
       "network_routes": 1,
@@ -645008,10 +647956,10 @@
       "country": "Перу",
       "region": "Южная Америка",
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
-      "competitions": 5,
+      "competitions": 17,
       "exhibitions": 0,
       "camps": 27,
-      "dated": 28,
+      "dated": 38,
       "organizer": "CONECTA - Center for Comprehensive Educational Development",
       "organizer_url": "https://cendeit.pe/",
       "network_routes": 2,
@@ -650218,13 +653166,13 @@
             "event_id": "C1150"
           },
           {
-            "name": "RoboRAVE · Ruta Científica Tecnológica Internacional 2027",
-            "age": "В общем описании упомянуты начальные школы, но карточка технического трека отмечена MS, HS и UP. Возраст и допуск проекта подтвердить.",
+            "name": "World Science & Technology Expo — Ruta Científica Puerto Vallarta 2027",
+            "age": "В общем приглашении указаны начальные школы. У технического Ruta RoboRAVE диапазоны 13–99 и MS 11–14 расходятся. Отдельная младшая категория проекта не подтверждена.",
             "age_rule": "Проверить конкретное событие, баннер, таблицу division и полный текст; местное правило не заменяется глобальным.",
-            "team": "Очный показ научных и технических проектов",
+            "team": "Выставка проектов и научная программа.",
             "hardware": "",
-            "entry": "В общем описании упомянуты начальные школы, но карточка технического трека отмечена MS, HS и UP. Возраст и допуск проекта подтвердить.",
-            "event_id": "E416"
+            "entry": "Родители и сопровождающие указаны в приглашении. Возрастной вход и гостевой тариф для ребёнка нужно подтвердить отдельно.",
+            "event_id": "E041"
           }
         ],
         "event_ids": [
@@ -650248,7 +653196,7 @@
           "C1148",
           "C1149",
           "C1150",
-          "E416"
+          "E041"
         ],
         "legacy_ids": [
           "C052"
@@ -668689,6 +671637,498 @@
         "evidence": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска."
       },
       {
+        "id": "olami-ort-mx",
+        "name": "Robotics by Olamí ORT",
+        "group": "regional",
+        "age_summary": "Учащиеся начальной школы.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Предварительная запись закрывалась в 12:00. QR от школы или участника давал бесплатный вход зрителям.",
+        "categories": [
+          {
+            "name": "Robotics by Olamí ORT 2026",
+            "age": "Учащиеся начальной школы.",
+            "age_rule": "Учащиеся начальной школы.",
+            "team": "До 2 учеников на робота и взрослый наставник для несовершеннолетних.",
+            "hardware": "Собственный цифровой проект и демонстрация работы.",
+            "entry": "Внешние команды допускались. В Junior нужен CURP. Прототипы регистрируются заранее.",
+            "event_id": "C3409"
+          },
+          {
+            "name": "Sumo LEGO Primaria",
+            "age": "Учащиеся начальной школы.",
+            "age_rule": "Учащиеся начальной школы.",
+            "team": "До 2 учеников на робота и взрослый наставник для несовершеннолетних.",
+            "hardware": "LEGO",
+            "entry": "Внешние команды допускались. В Junior нужен CURP. Прототипы регистрируются заранее.",
+            "event_id": "C3411"
+          },
+          {
+            "name": "Fútbol mBot2",
+            "age": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+            "age_rule": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+            "team": "До 2 учеников на робота и взрослый наставник для несовершеннолетних.",
+            "hardware": "mBot2",
+            "entry": "Внешние команды допускались. В Junior нужен CURP. Прототипы регистрируются заранее.",
+            "event_id": "C3412"
+          },
+          {
+            "name": "Turbo Brush",
+            "age": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+            "age_rule": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+            "team": "До 2 учеников на робота и взрослый наставник для несовершеннолетних.",
+            "hardware": "Turbo Brush",
+            "entry": "Внешние команды допускались. В Junior нужен CURP. Прототипы регистрируются заранее.",
+            "event_id": "C3413"
+          },
+          {
+            "name": "Touch and Play",
+            "age": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+            "age_rule": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+            "team": "До 2 учеников на робота и взрослый наставник для несовершеннолетних.",
+            "hardware": "Touch and Play",
+            "entry": "Внешние команды допускались. В Junior нужен CURP. Прототипы регистрируются заранее.",
+            "event_id": "C3414"
+          },
+          {
+            "name": "Explore Space",
+            "age": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+            "age_rule": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+            "team": "До 2 учеников на робота и взрослый наставник для несовершеннолетних.",
+            "hardware": "Explore Space",
+            "entry": "Внешние команды допускались. В Junior нужен CURP. Прототипы регистрируются заранее.",
+            "event_id": "C3415"
+          },
+          {
+            "name": "Seguidor de Línea LEGO",
+            "age": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+            "age_rule": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+            "team": "До 2 учеников на робота и взрослый наставник для несовершеннолетних.",
+            "hardware": "LEGO",
+            "entry": "Внешние команды допускались. В Junior нужен CURP. Прототипы регистрируются заранее.",
+            "event_id": "C3416"
+          },
+          {
+            "name": "Sumo LEGO Bachillerato",
+            "age": "Старшая школа. Для начальной школы выделен отдельный Sumo LEGO.",
+            "age_rule": "Старшая школа. Для начальной школы выделен отдельный Sumo LEGO.",
+            "team": "До 2 учеников на робота и взрослый наставник для несовершеннолетних.",
+            "hardware": "LEGO",
+            "entry": "Внешние команды допускались. В Junior нужен CURP. Прототипы регистрируются заранее.",
+            "event_id": "C3417"
+          },
+          {
+            "name": "Fútbol Kits Educativos",
+            "age": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+            "age_rule": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+            "team": "До 2 учеников на робота и взрослый наставник для несовершеннолетних.",
+            "hardware": "Kits educativos",
+            "entry": "Внешние команды допускались. В Junior нужен CURP. Прототипы регистрируются заранее.",
+            "event_id": "C3418"
+          },
+          {
+            "name": "Carrera de Insectos Principiantes",
+            "age": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+            "age_rule": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+            "team": "До 2 учеников на робота и взрослый наставник для несовершеннолетних.",
+            "hardware": "Robot insecto",
+            "entry": "Внешние команды допускались. В Junior нужен CURP. Прототипы регистрируются заранее.",
+            "event_id": "C3419"
+          },
+          {
+            "name": "Build LEGO",
+            "age": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+            "age_rule": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+            "team": "До 2 учеников на робота и взрослый наставник для несовершеннолетних.",
+            "hardware": "LEGO",
+            "entry": "Внешние команды допускались. В Junior нужен CURP. Прототипы регистрируются заранее.",
+            "event_id": "C3420"
+          },
+          {
+            "name": "Ballon Battle",
+            "age": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+            "age_rule": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+            "team": "До 2 учеников на робота и взрослый наставник для несовершеннолетних.",
+            "hardware": "Ballon Battle",
+            "entry": "Внешние команды допускались. В Junior нужен CURP. Прототипы регистрируются заранее.",
+            "event_id": "C3421"
+          },
+          {
+            "name": "Minisumo RC Junior",
+            "age": "Объявлен верхний возраст 15 на витрине и 16 в PDF. Минимум и отсечку нужно уточнить.",
+            "age_rule": "Объявлен верхний возраст 15 на витрине и 16 в PDF. Минимум и отсечку нужно уточнить.",
+            "team": "До 2 учеников на робота и взрослый наставник для несовершеннолетних.",
+            "hardware": "Mini Sumo RC",
+            "entry": "Внешние команды допускались. В Junior нужен CURP. Прототипы регистрируются заранее.",
+            "event_id": "C3422"
+          },
+          {
+            "name": "Laberinto Kits Educativos",
+            "age": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+            "age_rule": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+            "team": "До 2 учеников на робота и взрослый наставник для несовершеннолетних.",
+            "hardware": "Kits educativos",
+            "entry": "Внешние команды допускались. В Junior нужен CURP. Прототипы регистрируются заранее.",
+            "event_id": "C3423"
+          },
+          {
+            "name": "Fútbol Junior",
+            "age": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+            "age_rule": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+            "team": "До 2 учеников на робота и взрослый наставник для несовершеннолетних.",
+            "hardware": "Fútbol Junior",
+            "entry": "Внешние команды допускались. В Junior нужен CURP. Прототипы регистрируются заранее.",
+            "event_id": "C3424"
+          },
+          {
+            "name": "IA Conducción Inteligente Juvenil",
+            "age": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+            "age_rule": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+            "team": "До 2 учеников на робота и взрослый наставник для несовершеннолетних.",
+            "hardware": "IA Conducción Inteligente",
+            "entry": "Внешние команды допускались. В Junior нужен CURP. Прототипы регистрируются заранее.",
+            "event_id": "C3425"
+          },
+          {
+            "name": "next edition",
+            "age": "Учащиеся начальной школы.",
+            "age_rule": "Учащиеся начальной школы.",
+            "team": "До 2 учеников на робота и взрослый наставник для несовершеннолетних.",
+            "hardware": "Собственный цифровой проект и демонстрация работы.",
+            "entry": "Внешние команды допускались. В Junior нужен CURP. Прототипы регистрируются заранее.",
+            "event_id": "C3410"
+          }
+        ],
+        "event_ids": [
+          "C3409",
+          "C3411",
+          "C3412",
+          "C3413",
+          "C3414",
+          "C3415",
+          "C3416",
+          "C3417",
+          "C3418",
+          "C3419",
+          "C3420",
+          "C3421",
+          "C3422",
+          "C3423",
+          "C3424",
+          "C3425",
+          "C3410"
+        ],
+        "legacy_ids": [],
+        "route": "Внешние команды допускались. В Junior нужен CURP. Прототипы регистрируются заранее.",
+        "hardware": "Собственный цифровой проект и демонстрация работы.",
+        "language": "Язык местного этапа уточнить.",
+        "importance": "Открытый региональный турнир",
+        "strengths": [
+          "Предварительная запись закрывалась в 12:00. QR от школы или участника давал бесплатный вход зрителям."
+        ],
+        "requirements": [
+          "Внешние команды допускались. В Junior нужен CURP. Прототипы регистрируются заранее."
+        ],
+        "nuances": [
+          "Предварительная запись закрывалась в 12:00. QR от школы или участника давал бесплатный вход зрителям."
+        ],
+        "cost": "На странице 350 MXN за робота, в PDF диапазон 350–500 MXN. Точный тариф зависит от категории и условий.",
+        "award": "",
+        "sources": [
+          {
+            "title": "Официальные правила или календарь организатора.",
+            "url": "https://www.olamiort.edu.mx/robotics-convocatoria",
+            "checked": "2026-11-07"
+          },
+          {
+            "title": "Официальные правила или календарь организатора.",
+            "url": "https://www.olamiort.edu.mx/_files/ugd/41a133_7e10c13e740846d3a2add8e6573f3393.pdf",
+            "checked": "2026-11-07"
+          },
+          {
+            "title": "Официальные правила или календарь организатора.",
+            "url": "https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf",
+            "checked": "2026-11-07"
+          }
+        ],
+        "evidence": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска."
+      },
+      {
+        "id": "ltrc-tabasco",
+        "name": "Liga Tabasqueña de Robótica de Competencia",
+        "group": "regional",
+        "age_summary": "Junior — начальная и средняя школа. Master — старшая школа и вуз, Sumo LEGO Master только старшая школа.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Победители категории по итогам сезона получают путёвку на RoboMatrix Península в Канкуне.",
+        "categories": [
+          {
+            "name": "Temporada 3 2026",
+            "age": "Junior — начальная и средняя школа. Master — старшая школа и вуз, Sumo LEGO Master только старшая школа.",
+            "age_rule": "Junior — начальная и средняя школа. Master — старшая школа и вуз, Sumo LEGO Master только старшая школа.",
+            "team": "Индивидуально или командой, по правилам отбора.",
+            "hardware": "Собственный цифровой проект и демонстрация работы.",
+            "entry": "Действующая школьная справка, до 2 учеников и взрослый наставник. Можно собирать команду из разных школ.",
+            "event_id": "C3426"
+          },
+          {
+            "name": "Jornada 1",
+            "age": "Junior — начальная и средняя школа. Master — старшая школа и вуз, Sumo LEGO Master только старшая школа.",
+            "age_rule": "Junior — начальная и средняя школа. Master — старшая школа и вуз, Sumo LEGO Master только старшая школа.",
+            "team": "Индивидуально или командой, по правилам отбора.",
+            "hardware": "Собственный цифровой проект и демонстрация работы.",
+            "entry": "Действующая школьная справка, до 2 учеников и взрослый наставник. Можно собирать команду из разных школ.",
+            "event_id": "C3428"
+          },
+          {
+            "name": "Teapa",
+            "age": "Junior — начальная и средняя школа. Master — старшая школа и вуз, Sumo LEGO Master только старшая школа.",
+            "age_rule": "Junior — начальная и средняя школа. Master — старшая школа и вуз, Sumo LEGO Master только старшая школа.",
+            "team": "Индивидуально или командой, по правилам отбора.",
+            "hardware": "Собственный цифровой проект и демонстрация работы.",
+            "entry": "Действующая школьная справка, до 2 учеников и взрослый наставник. Можно собирать команду из разных школ.",
+            "event_id": "C3429"
+          },
+          {
+            "name": "LATI",
+            "age": "Junior — начальная и средняя школа. Master — старшая школа и вуз, Sumo LEGO Master только старшая школа.",
+            "age_rule": "Junior — начальная и средняя школа. Master — старшая школа и вуз, Sumo LEGO Master только старшая школа.",
+            "team": "Индивидуально или командой, по правилам отбора.",
+            "hardware": "Собственный цифровой проект и демонстрация работы.",
+            "entry": "Действующая школьная справка, до 2 учеников и взрослый наставник. Можно собирать команду из разных школ.",
+            "event_id": "C3430"
+          },
+          {
+            "name": "Sumo LEGO",
+            "age": "Junior — начальная и средняя школа.",
+            "age_rule": "Junior — начальная и средняя школа.",
+            "team": "Индивидуально или командой, по правилам отбора.",
+            "hardware": "Sumo LEGO",
+            "entry": "Действующая школьная справка, до 2 учеников и взрослый наставник. Можно собирать команду из разных школ.",
+            "event_id": "C3431"
+          },
+          {
+            "name": "Seguidor de Línea Kit",
+            "age": "Junior — начальная и средняя школа.",
+            "age_rule": "Junior — начальная и средняя школа.",
+            "team": "Индивидуально или командой, по правилам отбора.",
+            "hardware": "Seguidor de Línea Kit",
+            "entry": "Действующая школьная справка, до 2 учеников и взрослый наставник. Можно собирать команду из разных школ.",
+            "event_id": "C3432"
+          },
+          {
+            "name": "Car Race",
+            "age": "Junior — начальная и средняя школа.",
+            "age_rule": "Junior — начальная и средняя школа.",
+            "team": "Индивидуально или командой, по правилам отбора.",
+            "hardware": "Car Race",
+            "entry": "Действующая школьная справка, до 2 учеников и взрослый наставник. Можно собирать команду из разных школ.",
+            "event_id": "C3433"
+          },
+          {
+            "name": "next season",
+            "age": "Junior — начальная и средняя школа. Master — старшая школа и вуз, Sumo LEGO Master только старшая школа.",
+            "age_rule": "Junior — начальная и средняя школа. Master — старшая школа и вуз, Sumo LEGO Master только старшая школа.",
+            "team": "Индивидуально или командой, по правилам отбора.",
+            "hardware": "Собственный цифровой проект и демонстрация работы.",
+            "entry": "Действующая школьная справка, до 2 учеников и взрослый наставник. Можно собирать команду из разных школ.",
+            "event_id": "C3427"
+          }
+        ],
+        "event_ids": [
+          "C3426",
+          "C3428",
+          "C3429",
+          "C3430",
+          "C3431",
+          "C3432",
+          "C3433",
+          "C3427"
+        ],
+        "legacy_ids": [],
+        "route": "Действующая школьная справка, до 2 учеников и взрослый наставник. Можно собирать команду из разных школ.",
+        "hardware": "Собственный цифровой проект и демонстрация работы.",
+        "language": "Язык местного этапа уточнить.",
+        "importance": "Открытый региональный турнир",
+        "strengths": [
+          "Победители категории по итогам сезона получают путёвку на RoboMatrix Península в Канкуне."
+        ],
+        "requirements": [
+          "Действующая школьная справка, до 2 учеников и взрослый наставник. Можно собирать команду из разных школ."
+        ],
+        "nuances": [
+          "Две встречи в течение сезона. Для новой команды регистрация закрывалась за 5 дней до выбранной встречи."
+        ],
+        "cost": "В сезоне 2026 взнос 300 MXN за команду на обе встречи. Правила следующего сезона уточнить.",
+        "award": "Победители категории по итогам сезона получают путёвку на RoboMatrix Península в Канкуне.",
+        "sources": [
+          {
+            "title": "Официальные правила или календарь организатора.",
+            "url": "https://laliga.lati.mx/wp-content/uploads/2026/09/Convocatoria-LTRC-3T-1.pdf",
+            "checked": "2026-11-07"
+          },
+          {
+            "title": "Официальные правила или календарь организатора.",
+            "url": "https://laliga.lati.mx/",
+            "checked": "2026-11-07"
+          },
+          {
+            "title": "Официальные правила или календарь организатора.",
+            "url": "https://laliga.lati.mx/fechas-y-sedes/",
+            "checked": "2026-11-07"
+          }
+        ],
+        "evidence": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска."
+      },
+      {
+        "id": "kanturobot-peru",
+        "name": "Kanturobot Reloaded · UNE",
+        "group": "regional",
+        "age_summary": "Допускаются разные возраста и уровни обучения. Числовой минимум не указан.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen",
+          "adult"
+        ],
+        "summary": "Двуногий робот OTTO DIY, управление Bluetooth. Для награждения нужны не менее 4 допущенных роботов.",
+        "categories": [
+          {
+            "name": "Proyecto de Innovación Tecnológica",
+            "age": "Только средняя школа.",
+            "age_rule": "Только средняя школа.",
+            "team": "Индивидуально или командой, по правилам отбора.",
+            "hardware": "Proyecto de robótica",
+            "entry": "Для несовершеннолетних требуется разрешение родителя или опекуна. Приём иностранной команды и наличие места уточнить.",
+            "event_id": "C3441"
+          },
+          {
+            "name": "Seguidor de Línea Escolar",
+            "age": "Только средняя школа.",
+            "age_rule": "Только средняя школа.",
+            "team": "Индивидуально или командой, по правилам отбора.",
+            "hardware": "LEGO / Arduino / ESP32",
+            "entry": "Для несовершеннолетних требуется разрешение родителя или опекуна. Приём иностранной команды и наличие места уточнить.",
+            "event_id": "C3442"
+          },
+          {
+            "name": "Robot Velocista",
+            "age": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+            "age_rule": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+            "team": "Индивидуально или командой, по правилам отбора.",
+            "hardware": "Robot Velocista",
+            "entry": "Для несовершеннолетних требуется разрешение родителя или опекуна. Приём иностранной команды и наличие места уточнить.",
+            "event_id": "C3443"
+          },
+          {
+            "name": "Mini Sumo",
+            "age": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+            "age_rule": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+            "team": "Индивидуально или командой, по правилам отбора.",
+            "hardware": "Mini Sumo",
+            "entry": "Для несовершеннолетних требуется разрешение родителя или опекуна. Приём иностранной команды и наличие места уточнить.",
+            "event_id": "C3444"
+          },
+          {
+            "name": "Robot Soccer",
+            "age": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+            "age_rule": "Допуск для этого возраста по местным правилам ещё не подтверждён.",
+            "team": "Индивидуально или командой, по правилам отбора.",
+            "hardware": "Robot Soccer",
+            "entry": "Для несовершеннолетних требуется разрешение родителя или опекуна. Приём иностранной команды и наличие места уточнить.",
+            "event_id": "C3445"
+          },
+          {
+            "name": "Walking Race OTTO",
+            "age": "Допускаются разные возраста и уровни обучения. Числовой минимум не указан.",
+            "age_rule": "Допускаются разные возраста и уровни обучения. Числовой минимум не указан.",
+            "team": "Робота может собрать команда. На старт выходит один зарегистрированный пилот.",
+            "hardware": "OTTO DIY · Bluetooth",
+            "entry": "Для несовершеннолетних требуется разрешение родителя или опекуна. Приём иностранной команды и наличие места уточнить.",
+            "event_id": "C3446"
+          },
+          {
+            "name": "Robot Humanoide",
+            "age": "Открытая категория без деления по возрасту. Для несовершеннолетних нужны разрешение и взрослый сопровождающий.",
+            "age_rule": "Открытая категория без деления по возрасту. Для несовершеннолетних нужны разрешение и взрослый сопровождающий.",
+            "team": "До 3 участников в команде. На старт выходит один пилот.",
+            "hardware": "Robot Humanoide",
+            "entry": "Для несовершеннолетних требуется разрешение родителя или опекуна. Приём иностранной команды и наличие места уточнить.",
+            "event_id": "C3447"
+          },
+          {
+            "name": "Warbot 1 lb",
+            "age": "Старше 18 лет по опубликованным правилам.",
+            "age_rule": "Старше 18 лет по опубликованным правилам.",
+            "team": "Индивидуально или командой, по правилам отбора.",
+            "hardware": "Warbot 1 lb",
+            "entry": "Для несовершеннолетних требуется разрешение родителя или опекуна. Приём иностранной команды и наличие места уточнить.",
+            "event_id": "C3448"
+          },
+          {
+            "name": "Warbot 120 lb",
+            "age": "Старше 18 лет по опубликованным правилам.",
+            "age_rule": "Старше 18 лет по опубликованным правилам.",
+            "team": "Индивидуально или командой, по правилам отбора.",
+            "hardware": "Warbot 120 lb",
+            "entry": "Для несовершеннолетних требуется разрешение родителя или опекуна. Приём иностранной команды и наличие места уточнить.",
+            "event_id": "C3449"
+          }
+        ],
+        "event_ids": [
+          "C3441",
+          "C3442",
+          "C3443",
+          "C3444",
+          "C3445",
+          "C3446",
+          "C3447",
+          "C3448",
+          "C3449"
+        ],
+        "legacy_ids": [],
+        "route": "Для несовершеннолетних требуется разрешение родителя или опекуна. Приём иностранной команды и наличие места уточнить.",
+        "hardware": "Собственный цифровой проект и демонстрация работы.",
+        "language": "Язык местного этапа уточнить.",
+        "importance": "Национальный отбор",
+        "strengths": [
+          "Двуногий робот OTTO DIY, управление Bluetooth. Для награждения нужны не менее 4 допущенных роботов."
+        ],
+        "requirements": [
+          "Для несовершеннолетних требуется разрешение родителя или опекуна. Приём иностранной команды и наличие места уточнить."
+        ],
+        "nuances": [],
+        "cost": "50 PEN за заявку категории.",
+        "award": "",
+        "sources": [
+          {
+            "title": "Официальные правила или календарь организатора.",
+            "url": "https://progluis.github.io/KantuRobot2026/",
+            "checked": "2026-11-07"
+          },
+          {
+            "title": "Официальные правила или календарь организатора.",
+            "url": "https://progluis.github.io/KantuRobot2026/documentos/01_Reglamento_General_Kanturobot_Reloaded_2026.pdf",
+            "checked": "2026-11-07"
+          },
+          {
+            "title": "Официальные правила или календарь организатора.",
+            "url": "https://progluis.github.io/KantuRobot2026/documentos/03_Bases_Walking_Race_OTTO_Kanturobot_2026.pdf",
+            "checked": "2026-11-07"
+          }
+        ],
+        "evidence": "Сверено по первичным источникам. Отдельно указаны этап, набор и условия допуска."
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · инженерная программа и showcase",
         "group": "regional",
@@ -673943,7 +677383,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "Профили лиг, семейств и программ: 285; все 46 прежних маршрутов сохранены. Бразильские форматы разделены, местные Robofest LATAM и BajaBot описаны по своим категориям. Мировой охват частичный.",
+    "methodology": "Профили лиг, семейств и программ: 288; все 46 прежних маршрутов сохранены. Бразильские форматы разделены, местные Robofest LATAM и BajaBot описаны по своим категориям. Мировой охват частичный.",
     "common_gates": [
       "Возраст: проверить год рождения, дату отсечения и школьный класс. Общий возраст на сайте не заменяет регламент категории.",
       "Команда: минимум / максимум, возраст самого старшего, один ребёнок в одной команде, техническая роль каждого.",
@@ -674239,12 +677679,12 @@
       "fully_audited_countries": 0
     },
     "counts": {
-      "cards": 8399,
-      "competition_cards": 3407,
-      "event_cards": 439,
+      "cards": 8445,
+      "competition_cards": 3451,
+      "event_cards": 441,
       "camp_cards": 4553,
-      "league_profiles": 285,
-      "major_exhibition_cards": 348,
+      "league_profiles": 288,
+      "major_exhibition_cards": 351,
       "vex_cards": 521,
       "countries_with_records": 178,
       "fully_audited_countries": 0
@@ -674257,11 +677697,11 @@
           "Центральная Америка",
           "Карибский регион"
         ],
-        "total": 2775,
+        "total": 2809,
         "countries_with_records": 35,
-        "competitions": 1491,
-        "events": 112,
-        "major_exhibitions": 75,
+        "competitions": 1523,
+        "events": 114,
+        "major_exhibitions": 78,
         "camps": 1172,
         "status": "Частично исследовано",
         "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
@@ -674271,9 +677711,9 @@
         "regions": [
           "Южная Америка"
         ],
-        "total": 468,
+        "total": 480,
         "countries_with_records": 12,
-        "competitions": 237,
+        "competitions": 249,
         "events": 34,
         "major_exhibitions": 30,
         "camps": 197,
@@ -680694,6 +684134,79 @@
         "new": false
       },
       {
+        "id": "olami-ort-mx",
+        "name": "Robotics by Olamí ORT",
+        "group": "regional",
+        "event_ids": [
+          "C3409",
+          "C3410",
+          "C3411",
+          "C3412",
+          "C3413",
+          "C3414",
+          "C3415",
+          "C3416",
+          "C3417",
+          "C3418",
+          "C3419",
+          "C3420",
+          "C3421",
+          "C3422",
+          "C3423",
+          "C3424",
+          "C3425"
+        ],
+        "cards": 17,
+        "future_dated": 0,
+        "linked_card_count": 17,
+        "status": "Есть профиль и карточки; местный охват частичный",
+        "source": "https://www.olamiort.edu.mx/robotics-convocatoria",
+        "new": false
+      },
+      {
+        "id": "ltrc-tabasco",
+        "name": "Liga Tabasqueña de Robótica de Competencia",
+        "group": "regional",
+        "event_ids": [
+          "C3426",
+          "C3427",
+          "C3428",
+          "C3429",
+          "C3430",
+          "C3431",
+          "C3432",
+          "C3433"
+        ],
+        "cards": 8,
+        "future_dated": 0,
+        "linked_card_count": 8,
+        "status": "Есть профиль и карточки; местный охват частичный",
+        "source": "https://laliga.lati.mx/wp-content/uploads/2026/09/Convocatoria-LTRC-3T-1.pdf",
+        "new": false
+      },
+      {
+        "id": "kanturobot-peru",
+        "name": "Kanturobot Reloaded · UNE",
+        "group": "regional",
+        "event_ids": [
+          "C3441",
+          "C3442",
+          "C3443",
+          "C3444",
+          "C3445",
+          "C3446",
+          "C3447",
+          "C3448",
+          "C3449"
+        ],
+        "cards": 9,
+        "future_dated": 9,
+        "linked_card_count": 9,
+        "status": "Есть профиль и карточки; местный охват частичный",
+        "source": "https://progluis.github.io/KantuRobot2026/",
+        "new": false
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · инженерная программа и showcase",
         "group": "regional",
@@ -682317,6 +685830,17 @@
         "end": "2026-12-20",
         "visitor_policy": "confirm_children",
         "source": "https://www.ifema.es/gamergy",
+        "new": false
+      },
+      {
+        "id": "E041",
+        "name": "World Science & Technology Expo — Ruta Científica Puerto Vallarta 2027",
+        "country": "Мексика",
+        "region": "Северная Америка",
+        "start": "2027-02-25",
+        "end": "2027-02-28",
+        "visitor_policy": "confirm_children",
+        "source": "https://www.roboraveinternational.org/eventos/roborave-ruta-cientifica-puerto-vallarta-2027",
         "new": false
       },
       {
@@ -685507,6 +689031,28 @@
         "end": "2026-09-16",
         "visitor_policy": "confirm_children",
         "source": "https://cysec.bcsa.bn/",
+        "new": false
+      },
+      {
+        "id": "E440",
+        "name": "Feria Científica del Ingenio Juvenil 2026 · SENACYT",
+        "country": "Панама",
+        "region": "Центральная Америка",
+        "start": "2026-10-14",
+        "end": "2026-10-16",
+        "visitor_policy": "confirm_children",
+        "source": "https://feriacientifica.senacyt.gob.pa/",
+        "new": false
+      },
+      {
+        "id": "E441",
+        "name": "Feria Científica del Ingenio Juvenil · next edition",
+        "country": "Панама",
+        "region": "Центральная Америка",
+        "start": "",
+        "end": "",
+        "visitor_policy": "confirm_children",
+        "source": "https://feriacientifica.senacyt.gob.pa/",
         "new": false
       },
       {

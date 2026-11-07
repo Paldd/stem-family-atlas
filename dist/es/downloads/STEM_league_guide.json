@@ -3150,13 +3150,13 @@
             "event_id": "C1150"
           },
           {
-            "name": "RoboRAVE · Ruta Científica Tecnológica Internacional 2027",
-            "age": "La descripción general incluye primaria, pero la ficha técnica indica MS, HS y UP. Confirmar edad y admisión del proyecto.",
+            "name": "World Science & Technology Expo — Ruta Científica Puerto Vallarta 2027",
+            "age": "La invitación general menciona escuelas primarias. En el reto técnico Ruta RoboRAVE discrepan los rangos 13–99 y MS 11–14. No se ha confirmado una categoría de proyectos para primaria.",
             "age_rule": "Comprobar evento concreto, cabecera, tabla division y texto completo; regla local no se sustituye por global.",
-            "team": "Muestra presencial de proyectos científicos y técnicos",
+            "team": "Exposición de proyectos y programa científico.",
             "hardware": "",
-            "entry": "La descripción general incluye primaria, pero la ficha técnica indica MS, HS y UP. Confirmar edad y admisión del proyecto.",
-            "event_id": "E416"
+            "entry": "La invitación incluye a padres y acompañantes. Confirmar por separado la edad de acceso y la tarifa de visita infantil.",
+            "event_id": "E041"
           }
         ],
         "event_ids": [
@@ -3180,7 +3180,7 @@
           "C1148",
           "C1149",
           "C1150",
-          "E416"
+          "E041"
         ],
         "legacy_ids": [
           "C052"
@@ -21621,6 +21621,498 @@
         "evidence": "Cotejado con fuentes primarias. La fase, la convocatoria y las condiciones de acceso se indican por separado."
       },
       {
+        "id": "olami-ort-mx",
+        "name": "Robotics by Olamí ORT",
+        "group": "regional",
+        "age_summary": "Alumnos de primaria.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "La preinscripción cerraba a las 12:00. Un QR de una escuela o participante daba entrada gratuita a espectadores.",
+        "categories": [
+          {
+            "name": "Robotics by Olamí ORT 2026",
+            "age": "Alumnos de primaria.",
+            "age_rule": "Alumnos de primaria.",
+            "team": "Hasta 2 alumnos por robot y un mentor adulto para menores.",
+            "hardware": "Proyecto digital propio y demostración de funcionamiento.",
+            "entry": "Se admitían equipos externos. Junior exige CURP. Los prototipos se registran con antelación.",
+            "event_id": "C3409"
+          },
+          {
+            "name": "Sumo LEGO Primaria",
+            "age": "Alumnos de primaria.",
+            "age_rule": "Alumnos de primaria.",
+            "team": "Hasta 2 alumnos por robot y un mentor adulto para menores.",
+            "hardware": "LEGO",
+            "entry": "Se admitían equipos externos. Junior exige CURP. Los prototipos se registran con antelación.",
+            "event_id": "C3411"
+          },
+          {
+            "name": "Fútbol mBot2",
+            "age": "El reglamento local aún no confirma la admisión para esta edad.",
+            "age_rule": "El reglamento local aún no confirma la admisión para esta edad.",
+            "team": "Hasta 2 alumnos por robot y un mentor adulto para menores.",
+            "hardware": "mBot2",
+            "entry": "Se admitían equipos externos. Junior exige CURP. Los prototipos se registran con antelación.",
+            "event_id": "C3412"
+          },
+          {
+            "name": "Turbo Brush",
+            "age": "El reglamento local aún no confirma la admisión para esta edad.",
+            "age_rule": "El reglamento local aún no confirma la admisión para esta edad.",
+            "team": "Hasta 2 alumnos por robot y un mentor adulto para menores.",
+            "hardware": "Turbo Brush",
+            "entry": "Se admitían equipos externos. Junior exige CURP. Los prototipos se registran con antelación.",
+            "event_id": "C3413"
+          },
+          {
+            "name": "Touch and Play",
+            "age": "El reglamento local aún no confirma la admisión para esta edad.",
+            "age_rule": "El reglamento local aún no confirma la admisión para esta edad.",
+            "team": "Hasta 2 alumnos por robot y un mentor adulto para menores.",
+            "hardware": "Touch and Play",
+            "entry": "Se admitían equipos externos. Junior exige CURP. Los prototipos se registran con antelación.",
+            "event_id": "C3414"
+          },
+          {
+            "name": "Explore Space",
+            "age": "El reglamento local aún no confirma la admisión para esta edad.",
+            "age_rule": "El reglamento local aún no confirma la admisión para esta edad.",
+            "team": "Hasta 2 alumnos por robot y un mentor adulto para menores.",
+            "hardware": "Explore Space",
+            "entry": "Se admitían equipos externos. Junior exige CURP. Los prototipos se registran con antelación.",
+            "event_id": "C3415"
+          },
+          {
+            "name": "Seguidor de Línea LEGO",
+            "age": "El reglamento local aún no confirma la admisión para esta edad.",
+            "age_rule": "El reglamento local aún no confirma la admisión para esta edad.",
+            "team": "Hasta 2 alumnos por robot y un mentor adulto para menores.",
+            "hardware": "LEGO",
+            "entry": "Se admitían equipos externos. Junior exige CURP. Los prototipos se registran con antelación.",
+            "event_id": "C3416"
+          },
+          {
+            "name": "Sumo LEGO Bachillerato",
+            "age": "Bachillerato. Primaria tiene su propio Sumo LEGO.",
+            "age_rule": "Bachillerato. Primaria tiene su propio Sumo LEGO.",
+            "team": "Hasta 2 alumnos por robot y un mentor adulto para menores.",
+            "hardware": "LEGO",
+            "entry": "Se admitían equipos externos. Junior exige CURP. Los prototipos se registran con antelación.",
+            "event_id": "C3417"
+          },
+          {
+            "name": "Fútbol Kits Educativos",
+            "age": "El reglamento local aún no confirma la admisión para esta edad.",
+            "age_rule": "El reglamento local aún no confirma la admisión para esta edad.",
+            "team": "Hasta 2 alumnos por robot y un mentor adulto para menores.",
+            "hardware": "Kits educativos",
+            "entry": "Se admitían equipos externos. Junior exige CURP. Los prototipos se registran con antelación.",
+            "event_id": "C3418"
+          },
+          {
+            "name": "Carrera de Insectos Principiantes",
+            "age": "El reglamento local aún no confirma la admisión para esta edad.",
+            "age_rule": "El reglamento local aún no confirma la admisión para esta edad.",
+            "team": "Hasta 2 alumnos por robot y un mentor adulto para menores.",
+            "hardware": "Robot insecto",
+            "entry": "Se admitían equipos externos. Junior exige CURP. Los prototipos se registran con antelación.",
+            "event_id": "C3419"
+          },
+          {
+            "name": "Build LEGO",
+            "age": "El reglamento local aún no confirma la admisión para esta edad.",
+            "age_rule": "El reglamento local aún no confirma la admisión para esta edad.",
+            "team": "Hasta 2 alumnos por robot y un mentor adulto para menores.",
+            "hardware": "LEGO",
+            "entry": "Se admitían equipos externos. Junior exige CURP. Los prototipos se registran con antelación.",
+            "event_id": "C3420"
+          },
+          {
+            "name": "Ballon Battle",
+            "age": "El reglamento local aún no confirma la admisión para esta edad.",
+            "age_rule": "El reglamento local aún no confirma la admisión para esta edad.",
+            "team": "Hasta 2 alumnos por robot y un mentor adulto para menores.",
+            "hardware": "Ballon Battle",
+            "entry": "Se admitían equipos externos. Junior exige CURP. Los prototipos se registran con antelación.",
+            "event_id": "C3421"
+          },
+          {
+            "name": "Minisumo RC Junior",
+            "age": "La tienda indica edad máxima de 15 y el PDF de 16. Confirmar el mínimo y la fecha de corte.",
+            "age_rule": "La tienda indica edad máxima de 15 y el PDF de 16. Confirmar el mínimo y la fecha de corte.",
+            "team": "Hasta 2 alumnos por robot y un mentor adulto para menores.",
+            "hardware": "Mini Sumo RC",
+            "entry": "Se admitían equipos externos. Junior exige CURP. Los prototipos se registran con antelación.",
+            "event_id": "C3422"
+          },
+          {
+            "name": "Laberinto Kits Educativos",
+            "age": "El reglamento local aún no confirma la admisión para esta edad.",
+            "age_rule": "El reglamento local aún no confirma la admisión para esta edad.",
+            "team": "Hasta 2 alumnos por robot y un mentor adulto para menores.",
+            "hardware": "Kits educativos",
+            "entry": "Se admitían equipos externos. Junior exige CURP. Los prototipos se registran con antelación.",
+            "event_id": "C3423"
+          },
+          {
+            "name": "Fútbol Junior",
+            "age": "El reglamento local aún no confirma la admisión para esta edad.",
+            "age_rule": "El reglamento local aún no confirma la admisión para esta edad.",
+            "team": "Hasta 2 alumnos por robot y un mentor adulto para menores.",
+            "hardware": "Fútbol Junior",
+            "entry": "Se admitían equipos externos. Junior exige CURP. Los prototipos se registran con antelación.",
+            "event_id": "C3424"
+          },
+          {
+            "name": "IA Conducción Inteligente Juvenil",
+            "age": "El reglamento local aún no confirma la admisión para esta edad.",
+            "age_rule": "El reglamento local aún no confirma la admisión para esta edad.",
+            "team": "Hasta 2 alumnos por robot y un mentor adulto para menores.",
+            "hardware": "IA Conducción Inteligente",
+            "entry": "Se admitían equipos externos. Junior exige CURP. Los prototipos se registran con antelación.",
+            "event_id": "C3425"
+          },
+          {
+            "name": "next edition",
+            "age": "Alumnos de primaria.",
+            "age_rule": "Alumnos de primaria.",
+            "team": "Hasta 2 alumnos por robot y un mentor adulto para menores.",
+            "hardware": "Proyecto digital propio y demostración de funcionamiento.",
+            "entry": "Se admitían equipos externos. Junior exige CURP. Los prototipos se registran con antelación.",
+            "event_id": "C3410"
+          }
+        ],
+        "event_ids": [
+          "C3409",
+          "C3411",
+          "C3412",
+          "C3413",
+          "C3414",
+          "C3415",
+          "C3416",
+          "C3417",
+          "C3418",
+          "C3419",
+          "C3420",
+          "C3421",
+          "C3422",
+          "C3423",
+          "C3424",
+          "C3425",
+          "C3410"
+        ],
+        "legacy_ids": [],
+        "route": "Se admitían equipos externos. Junior exige CURP. Los prototipos se registran con antelación.",
+        "hardware": "Proyecto digital propio y demostración de funcionamiento.",
+        "language": "Confirmar idioma de la fase local.",
+        "importance": "Torneo regional abierto",
+        "strengths": [
+          "La preinscripción cerraba a las 12:00. Un QR de una escuela o participante daba entrada gratuita a espectadores."
+        ],
+        "requirements": [
+          "Se admitían equipos externos. Junior exige CURP. Los prototipos se registran con antelación."
+        ],
+        "nuances": [
+          "La preinscripción cerraba a las 12:00. Un QR de una escuela o participante daba entrada gratuita a espectadores."
+        ],
+        "cost": "La página indica 350 MXN por robot y el PDF un rango de 350–500 MXN. La tarifa exacta depende de la categoría y las condiciones.",
+        "award": "",
+        "sources": [
+          {
+            "title": "Reglamento o calendario oficial de la organización.",
+            "url": "https://www.olamiort.edu.mx/robotics-convocatoria",
+            "checked": "2026-11-07"
+          },
+          {
+            "title": "Reglamento o calendario oficial de la organización.",
+            "url": "https://www.olamiort.edu.mx/_files/ugd/41a133_7e10c13e740846d3a2add8e6573f3393.pdf",
+            "checked": "2026-11-07"
+          },
+          {
+            "title": "Reglamento o calendario oficial de la organización.",
+            "url": "https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf",
+            "checked": "2026-11-07"
+          }
+        ],
+        "evidence": "Cotejado con fuentes primarias. La fase, la convocatoria y las condiciones de acceso se indican por separado."
+      },
+      {
+        "id": "ltrc-tabasco",
+        "name": "Liga Tabasqueña de Robótica de Competencia",
+        "group": "regional",
+        "age_summary": "Junior — primaria y secundaria. Master — bachillerato y universidad, Sumo LEGO Master solo bachillerato.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Los ganadores de categoría al cierre de temporada obtienen plaza en RoboMatrix Península en Cancún.",
+        "categories": [
+          {
+            "name": "Temporada 3 2026",
+            "age": "Junior — primaria y secundaria. Master — bachillerato y universidad, Sumo LEGO Master solo bachillerato.",
+            "age_rule": "Junior — primaria y secundaria. Master — bachillerato y universidad, Sumo LEGO Master solo bachillerato.",
+            "team": "Individual o por equipos, según las reglas de selección.",
+            "hardware": "Proyecto digital propio y demostración de funcionamiento.",
+            "entry": "Constancia escolar vigente, hasta 2 alumnos y mentor adulto. Se permiten equipos de diferentes escuelas.",
+            "event_id": "C3426"
+          },
+          {
+            "name": "Jornada 1",
+            "age": "Junior — primaria y secundaria. Master — bachillerato y universidad, Sumo LEGO Master solo bachillerato.",
+            "age_rule": "Junior — primaria y secundaria. Master — bachillerato y universidad, Sumo LEGO Master solo bachillerato.",
+            "team": "Individual o por equipos, según las reglas de selección.",
+            "hardware": "Proyecto digital propio y demostración de funcionamiento.",
+            "entry": "Constancia escolar vigente, hasta 2 alumnos y mentor adulto. Se permiten equipos de diferentes escuelas.",
+            "event_id": "C3428"
+          },
+          {
+            "name": "Teapa",
+            "age": "Junior — primaria y secundaria. Master — bachillerato y universidad, Sumo LEGO Master solo bachillerato.",
+            "age_rule": "Junior — primaria y secundaria. Master — bachillerato y universidad, Sumo LEGO Master solo bachillerato.",
+            "team": "Individual o por equipos, según las reglas de selección.",
+            "hardware": "Proyecto digital propio y demostración de funcionamiento.",
+            "entry": "Constancia escolar vigente, hasta 2 alumnos y mentor adulto. Se permiten equipos de diferentes escuelas.",
+            "event_id": "C3429"
+          },
+          {
+            "name": "LATI",
+            "age": "Junior — primaria y secundaria. Master — bachillerato y universidad, Sumo LEGO Master solo bachillerato.",
+            "age_rule": "Junior — primaria y secundaria. Master — bachillerato y universidad, Sumo LEGO Master solo bachillerato.",
+            "team": "Individual o por equipos, según las reglas de selección.",
+            "hardware": "Proyecto digital propio y demostración de funcionamiento.",
+            "entry": "Constancia escolar vigente, hasta 2 alumnos y mentor adulto. Se permiten equipos de diferentes escuelas.",
+            "event_id": "C3430"
+          },
+          {
+            "name": "Sumo LEGO",
+            "age": "Junior — primaria y secundaria.",
+            "age_rule": "Junior — primaria y secundaria.",
+            "team": "Individual o por equipos, según las reglas de selección.",
+            "hardware": "Sumo LEGO",
+            "entry": "Constancia escolar vigente, hasta 2 alumnos y mentor adulto. Se permiten equipos de diferentes escuelas.",
+            "event_id": "C3431"
+          },
+          {
+            "name": "Seguidor de Línea Kit",
+            "age": "Junior — primaria y secundaria.",
+            "age_rule": "Junior — primaria y secundaria.",
+            "team": "Individual o por equipos, según las reglas de selección.",
+            "hardware": "Seguidor de Línea Kit",
+            "entry": "Constancia escolar vigente, hasta 2 alumnos y mentor adulto. Se permiten equipos de diferentes escuelas.",
+            "event_id": "C3432"
+          },
+          {
+            "name": "Car Race",
+            "age": "Junior — primaria y secundaria.",
+            "age_rule": "Junior — primaria y secundaria.",
+            "team": "Individual o por equipos, según las reglas de selección.",
+            "hardware": "Car Race",
+            "entry": "Constancia escolar vigente, hasta 2 alumnos y mentor adulto. Se permiten equipos de diferentes escuelas.",
+            "event_id": "C3433"
+          },
+          {
+            "name": "next season",
+            "age": "Junior — primaria y secundaria. Master — bachillerato y universidad, Sumo LEGO Master solo bachillerato.",
+            "age_rule": "Junior — primaria y secundaria. Master — bachillerato y universidad, Sumo LEGO Master solo bachillerato.",
+            "team": "Individual o por equipos, según las reglas de selección.",
+            "hardware": "Proyecto digital propio y demostración de funcionamiento.",
+            "entry": "Constancia escolar vigente, hasta 2 alumnos y mentor adulto. Se permiten equipos de diferentes escuelas.",
+            "event_id": "C3427"
+          }
+        ],
+        "event_ids": [
+          "C3426",
+          "C3428",
+          "C3429",
+          "C3430",
+          "C3431",
+          "C3432",
+          "C3433",
+          "C3427"
+        ],
+        "legacy_ids": [],
+        "route": "Constancia escolar vigente, hasta 2 alumnos y mentor adulto. Se permiten equipos de diferentes escuelas.",
+        "hardware": "Proyecto digital propio y demostración de funcionamiento.",
+        "language": "Confirmar idioma de la fase local.",
+        "importance": "Torneo regional abierto",
+        "strengths": [
+          "Los ganadores de categoría al cierre de temporada obtienen plaza en RoboMatrix Península en Cancún."
+        ],
+        "requirements": [
+          "Constancia escolar vigente, hasta 2 alumnos y mentor adulto. Se permiten equipos de diferentes escuelas."
+        ],
+        "nuances": [
+          "Dos jornadas durante la temporada. Para equipos nuevos la inscripción cerraba 5 días antes de la jornada elegida."
+        ],
+        "cost": "En 2026, cuota de 300 MXN por equipo para las dos jornadas. Confirmar reglas de la próxima temporada.",
+        "award": "Los ganadores de categoría al cierre de temporada obtienen plaza en RoboMatrix Península en Cancún.",
+        "sources": [
+          {
+            "title": "Reglamento o calendario oficial de la organización.",
+            "url": "https://laliga.lati.mx/wp-content/uploads/2026/09/Convocatoria-LTRC-3T-1.pdf",
+            "checked": "2026-11-07"
+          },
+          {
+            "title": "Reglamento o calendario oficial de la organización.",
+            "url": "https://laliga.lati.mx/",
+            "checked": "2026-11-07"
+          },
+          {
+            "title": "Reglamento o calendario oficial de la organización.",
+            "url": "https://laliga.lati.mx/fechas-y-sedes/",
+            "checked": "2026-11-07"
+          }
+        ],
+        "evidence": "Cotejado con fuentes primarias. La fase, la convocatoria y las condiciones de acceso se indican por separado."
+      },
+      {
+        "id": "kanturobot-peru",
+        "name": "Kanturobot Reloaded · UNE",
+        "group": "regional",
+        "age_summary": "Se admiten distintas edades y niveles educativos. No se indica mínimo numérico.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen",
+          "adult"
+        ],
+        "summary": "Robot bípedo OTTO DIY, control Bluetooth. Se requieren al menos 4 robots homologados para otorgar premios.",
+        "categories": [
+          {
+            "name": "Proyecto de Innovación Tecnológica",
+            "age": "Solo secundaria.",
+            "age_rule": "Solo secundaria.",
+            "team": "Individual o por equipos, según las reglas de selección.",
+            "hardware": "Proyecto de robótica",
+            "entry": "Los menores requieren autorización de un progenitor o tutor. Confirmar admisión de equipos extranjeros y disponibilidad.",
+            "event_id": "C3441"
+          },
+          {
+            "name": "Seguidor de Línea Escolar",
+            "age": "Solo secundaria.",
+            "age_rule": "Solo secundaria.",
+            "team": "Individual o por equipos, según las reglas de selección.",
+            "hardware": "LEGO / Arduino / ESP32",
+            "entry": "Los menores requieren autorización de un progenitor o tutor. Confirmar admisión de equipos extranjeros y disponibilidad.",
+            "event_id": "C3442"
+          },
+          {
+            "name": "Robot Velocista",
+            "age": "El reglamento local aún no confirma la admisión para esta edad.",
+            "age_rule": "El reglamento local aún no confirma la admisión para esta edad.",
+            "team": "Individual o por equipos, según las reglas de selección.",
+            "hardware": "Robot Velocista",
+            "entry": "Los menores requieren autorización de un progenitor o tutor. Confirmar admisión de equipos extranjeros y disponibilidad.",
+            "event_id": "C3443"
+          },
+          {
+            "name": "Mini Sumo",
+            "age": "El reglamento local aún no confirma la admisión para esta edad.",
+            "age_rule": "El reglamento local aún no confirma la admisión para esta edad.",
+            "team": "Individual o por equipos, según las reglas de selección.",
+            "hardware": "Mini Sumo",
+            "entry": "Los menores requieren autorización de un progenitor o tutor. Confirmar admisión de equipos extranjeros y disponibilidad.",
+            "event_id": "C3444"
+          },
+          {
+            "name": "Robot Soccer",
+            "age": "El reglamento local aún no confirma la admisión para esta edad.",
+            "age_rule": "El reglamento local aún no confirma la admisión para esta edad.",
+            "team": "Individual o por equipos, según las reglas de selección.",
+            "hardware": "Robot Soccer",
+            "entry": "Los menores requieren autorización de un progenitor o tutor. Confirmar admisión de equipos extranjeros y disponibilidad.",
+            "event_id": "C3445"
+          },
+          {
+            "name": "Walking Race OTTO",
+            "age": "Se admiten distintas edades y niveles educativos. No se indica mínimo numérico.",
+            "age_rule": "Se admiten distintas edades y niveles educativos. No se indica mínimo numérico.",
+            "team": "Un equipo puede construir el robot. Compite un único piloto registrado.",
+            "hardware": "OTTO DIY · Bluetooth",
+            "entry": "Los menores requieren autorización de un progenitor o tutor. Confirmar admisión de equipos extranjeros y disponibilidad.",
+            "event_id": "C3446"
+          },
+          {
+            "name": "Robot Humanoide",
+            "age": "Categoría abierta sin divisiones por edad. Los menores necesitan autorización y acompañamiento adulto.",
+            "age_rule": "Categoría abierta sin divisiones por edad. Los menores necesitan autorización y acompañamiento adulto.",
+            "team": "Hasta 3 integrantes en el equipo. Compite un piloto.",
+            "hardware": "Robot Humanoide",
+            "entry": "Los menores requieren autorización de un progenitor o tutor. Confirmar admisión de equipos extranjeros y disponibilidad.",
+            "event_id": "C3447"
+          },
+          {
+            "name": "Warbot 1 lb",
+            "age": "Mayores de 18 años según las reglas publicadas.",
+            "age_rule": "Mayores de 18 años según las reglas publicadas.",
+            "team": "Individual o por equipos, según las reglas de selección.",
+            "hardware": "Warbot 1 lb",
+            "entry": "Los menores requieren autorización de un progenitor o tutor. Confirmar admisión de equipos extranjeros y disponibilidad.",
+            "event_id": "C3448"
+          },
+          {
+            "name": "Warbot 120 lb",
+            "age": "Mayores de 18 años según las reglas publicadas.",
+            "age_rule": "Mayores de 18 años según las reglas publicadas.",
+            "team": "Individual o por equipos, según las reglas de selección.",
+            "hardware": "Warbot 120 lb",
+            "entry": "Los menores requieren autorización de un progenitor o tutor. Confirmar admisión de equipos extranjeros y disponibilidad.",
+            "event_id": "C3449"
+          }
+        ],
+        "event_ids": [
+          "C3441",
+          "C3442",
+          "C3443",
+          "C3444",
+          "C3445",
+          "C3446",
+          "C3447",
+          "C3448",
+          "C3449"
+        ],
+        "legacy_ids": [],
+        "route": "Los menores requieren autorización de un progenitor o tutor. Confirmar admisión de equipos extranjeros y disponibilidad.",
+        "hardware": "Proyecto digital propio y demostración de funcionamiento.",
+        "language": "Confirmar idioma de la fase local.",
+        "importance": "Selección nacional",
+        "strengths": [
+          "Robot bípedo OTTO DIY, control Bluetooth. Se requieren al menos 4 robots homologados para otorgar premios."
+        ],
+        "requirements": [
+          "Los menores requieren autorización de un progenitor o tutor. Confirmar admisión de equipos extranjeros y disponibilidad."
+        ],
+        "nuances": [],
+        "cost": "50 PEN por inscripción de categoría.",
+        "award": "",
+        "sources": [
+          {
+            "title": "Reglamento o calendario oficial de la organización.",
+            "url": "https://progluis.github.io/KantuRobot2026/",
+            "checked": "2026-11-07"
+          },
+          {
+            "title": "Reglamento o calendario oficial de la organización.",
+            "url": "https://progluis.github.io/KantuRobot2026/documentos/01_Reglamento_General_Kanturobot_Reloaded_2026.pdf",
+            "checked": "2026-11-07"
+          },
+          {
+            "title": "Reglamento o calendario oficial de la organización.",
+            "url": "https://progluis.github.io/KantuRobot2026/documentos/03_Bases_Walking_Race_OTTO_Kanturobot_2026.pdf",
+            "checked": "2026-11-07"
+          }
+        ],
+        "evidence": "Cotejado con fuentes primarias. La fase, la convocatoria y las condiciones de acceso se indican por separado."
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · programa de ingeniería y showcase",
         "group": "regional",
@@ -26875,7 +27367,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "Perfiles de ligas, familias de competiciones y programas: 285; se conservan las 46 rutas anteriores. Los formatos brasileños se distinguen y los Robofest LATAM y BajaBot locales se describen por categoría. La cobertura mundial es parcial.",
+    "methodology": "Perfiles de ligas, familias de competiciones y programas: 288; se conservan las 46 rutas anteriores. Los formatos brasileños se distinguen y los Robofest LATAM y BajaBot locales se describen por categoría. La cobertura mundial es parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

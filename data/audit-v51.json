@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 8399,
-    "competition_cards": 3407,
-    "event_cards": 439,
+    "cards": 8445,
+    "competition_cards": 3451,
+    "event_cards": 441,
     "camp_cards": 4553,
-    "league_profiles": 285,
-    "major_exhibition_cards": 348,
+    "league_profiles": 288,
+    "major_exhibition_cards": 351,
     "vex_cards": 521,
     "countries_with_records": 178,
     "fully_audited_countries": 0
@@ -34,11 +34,11 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 2775,
+      "total": 2809,
       "countries_with_records": 35,
-      "competitions": 1491,
-      "events": 112,
-      "major_exhibitions": 75,
+      "competitions": 1523,
+      "events": 114,
+      "major_exhibitions": 78,
       "camps": 1172,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
@@ -48,9 +48,9 @@
       "regions": [
         "Южная Америка"
       ],
-      "total": 468,
+      "total": 480,
       "countries_with_records": 12,
-      "competitions": 237,
+      "competitions": 249,
       "events": 34,
       "major_exhibitions": 30,
       "camps": 197,
@@ -6471,6 +6471,79 @@
       "new": false
     },
     {
+      "id": "olami-ort-mx",
+      "name": "Robotics by Olamí ORT",
+      "group": "regional",
+      "event_ids": [
+        "C3409",
+        "C3410",
+        "C3411",
+        "C3412",
+        "C3413",
+        "C3414",
+        "C3415",
+        "C3416",
+        "C3417",
+        "C3418",
+        "C3419",
+        "C3420",
+        "C3421",
+        "C3422",
+        "C3423",
+        "C3424",
+        "C3425"
+      ],
+      "cards": 17,
+      "future_dated": 0,
+      "linked_card_count": 17,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.olamiort.edu.mx/robotics-convocatoria",
+      "new": false
+    },
+    {
+      "id": "ltrc-tabasco",
+      "name": "Liga Tabasqueña de Robótica de Competencia",
+      "group": "regional",
+      "event_ids": [
+        "C3426",
+        "C3427",
+        "C3428",
+        "C3429",
+        "C3430",
+        "C3431",
+        "C3432",
+        "C3433"
+      ],
+      "cards": 8,
+      "future_dated": 0,
+      "linked_card_count": 8,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://laliga.lati.mx/wp-content/uploads/2026/09/Convocatoria-LTRC-3T-1.pdf",
+      "new": false
+    },
+    {
+      "id": "kanturobot-peru",
+      "name": "Kanturobot Reloaded · UNE",
+      "group": "regional",
+      "event_ids": [
+        "C3441",
+        "C3442",
+        "C3443",
+        "C3444",
+        "C3445",
+        "C3446",
+        "C3447",
+        "C3448",
+        "C3449"
+      ],
+      "cards": 9,
+      "future_dated": 9,
+      "linked_card_count": 9,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://progluis.github.io/KantuRobot2026/",
+      "new": false
+    },
+    {
       "id": "tech-challenge-project",
       "name": "The Tech Challenge · инженерная программа и showcase",
       "group": "regional",
@@ -8094,6 +8167,17 @@
       "end": "2026-12-20",
       "visitor_policy": "confirm_children",
       "source": "https://www.ifema.es/gamergy",
+      "new": false
+    },
+    {
+      "id": "E041",
+      "name": "World Science & Technology Expo — Ruta Científica Puerto Vallarta 2027",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "start": "2027-02-25",
+      "end": "2027-02-28",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.roboraveinternational.org/eventos/roborave-ruta-cientifica-puerto-vallarta-2027",
       "new": false
     },
     {
@@ -11284,6 +11368,28 @@
       "end": "2026-09-16",
       "visitor_policy": "confirm_children",
       "source": "https://cysec.bcsa.bn/",
+      "new": false
+    },
+    {
+      "id": "E440",
+      "name": "Feria Científica del Ingenio Juvenil 2026 · SENACYT",
+      "country": "Панама",
+      "region": "Центральная Америка",
+      "start": "2026-10-14",
+      "end": "2026-10-16",
+      "visitor_policy": "confirm_children",
+      "source": "https://feriacientifica.senacyt.gob.pa/",
+      "new": false
+    },
+    {
+      "id": "E441",
+      "name": "Feria Científica del Ingenio Juvenil · next edition",
+      "country": "Панама",
+      "region": "Центральная Америка",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://feriacientifica.senacyt.gob.pa/",
       "new": false
     },
     {

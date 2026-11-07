@@ -515,15 +515,15 @@ Se ha comprobado: 2026-11-07
 ### E041 · World Science & Technology Expo — Ruta Científica Puerto Vallarta 2027
 
 Fecha: 2027-02-25 ♫ 2027-02-28
-Edad: Se indican los padres y los acompañantes de la Primaria; no se ha publicado la edad mínima/vistor infantil
-Matway: Condicional
-Óscar: Condicional
-Idioma: ES; idioma de los períodos de sesiones internacionales
-Entrada: El organizador presenta un paquete de hotel, alimentación y acceso; el proyecto necesita normas separadas, y para la visita familiar, el precio y la acreditación de los niños.
-Precio: Página del paquete: USD 580 por persona / coach; lista general: USD 650 sin unidad clara. Hotel / comidas corresponden a Ruta, sin aplicarlos automáticamente a Robotics Open. Precio de visitantes menores y factura familiar completa desconocidos.
-Limitaciones: Coincide en el lugar y en la fecha con RoboRAVE Open C082; es un programa conectado que no es el segundo motivo independiente para viajar. El certificado de participación no es igual a la victoria.
+edad: La invitación general menciona escuelas primarias. En el reto técnico Ruta RoboRAVE discrepan los rangos 13–99 y MS 11–14. No se ha confirmado una categoría de proyectos para primaria.
+Matvey: La invitación incluye a padres y acompañantes. Confirmar por separado la edad de acceso y la tarifa de visita infantil.
+Oscar: La invitación incluye a padres y acompañantes. Confirmar por separado la edad de acceso y la tarifa de visita infantil.
+Idioma: Confirmar idioma de la fase local.
+Acceso: La invitación incluye a padres y acompañantes. Confirmar por separado la edad de acceso y la tarifa de visita infantil.
+Coste: La ficha Ruta muestra 580 USD por participante o entrenador, el listado general — 650 USD sin precisar unidad. Ruta describe hotel y comidas. Tarifa de invitados e importe final sin confirmar.
+Limitaciones: Ruta Científica y el Open de robótica se celebran en el mismo hotel del 25 al 28 de febrero de 2027. Tienen solicitudes, programas y condiciones de pago separados.
 Fuente: https://www.roboraveinternational.org/eventos/roborave-ruta-cientifica-puerto-vallarta-2027
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-07
 
 ### C180 · Torneo de Robótica VEX IQ - Sede Laguna Museo Acertijo Interactivo
 
@@ -1680,7 +1680,7 @@ Acceso: Solicitud Ruta separada y categoría de proyecto / visitante familiar. R
 Precio: Página del paquete: USD 580 por persona / coach; lista general: USD 650 sin unidad clara. Hotel / comidas corresponden a Ruta, sin aplicarlos automáticamente a Robotics Open. Precio de visitantes menores y factura familiar completa desconocidos.
 Limitaciones: Comparte ciudad, fechas y hotel con Open, pero programa y paquete son distintos. Inclusiones hoteleras no se trasladan al Open. Primary del anuncio y MS / 13+ del challenge enlazado discrepan; días exactos de presentaciones sin anunciar.
 Fuente: https://roboraveinternational.org/eventos/roborave-ruta-cientifica-puerto-vallarta-2027
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-07
 
 ### C1208 · Infomatrix Iberoamérica 2027
 
@@ -3266,6 +3266,422 @@ Acceso: La descripción general incluye primaria, pero la ficha técnica indica 
 Precio: La página indica USD 580 por participante o entrenador. Indica alojamiento y comidas. Confirmar tarifa de acompañante y entrada de visitante separada.
 Limitaciones: La página muestra a la vez plazos del 31 de octubre y 15 de noviembre de 2026. Confirmar plazo vigente y posibilidad de inscripción.
 Fuente: https://roboraveinternational.org/eventos/roborave-ruta-cientifica-puerto-vallarta-2027
+Se ha comprobado: 2026-11-07
+
+### C3409 · Robotics by Olamí ORT 2026
+
+Fecha: 2026-03-10 — 2026-03-11
+edad: Alumnos de primaria.
+Matvey: Condicional. Confirmar curso, escuela local y reglas de la próxima selección.
+Oscar: Condicional. Confirmar curso, escuela local y reglas de la próxima selección.
+Idioma: Confirmar idioma de la fase local.
+Acceso: Se admitían equipos externos. Junior exige CURP. Los prototipos se registran con antelación.
+Precio: La página indica 350 MXN por robot y el PDF un rango de 350–500 MXN. La tarifa exacta depende de la categoría y las condiciones.
+Limitaciones: La preinscripción cerraba a las 12:00. Un QR de una escuela o participante daba entrada gratuita a espectadores.
+Fuente: https://www.olamiort.edu.mx/robotics-convocatoria
+Se ha comprobado: 2026-11-07
+
+### C3410 · Robotics by Olamí ORT · next edition
+
+Fecha: La próxima convocatoria aún no se ha anunciado.
+edad: Alumnos de primaria.
+Matvey: Condicional. Confirmar curso, escuela local y reglas de la próxima selección.
+Oscar: Condicional. Confirmar curso, escuela local y reglas de la próxima selección.
+Idioma: Confirmar idioma de la fase local.
+Acceso: Se admitían equipos externos. Junior exige CURP. Los prototipos se registran con antelación.
+Precio: Confirmar la cuota de esta categoría.
+Limitaciones:
+Fuente: https://www.olamiort.edu.mx/robotics-convocatoria
+Se ha comprobado: 2026-11-07
+
+### C3411 · Robotics by Olamí ORT 2026 · Sumo LEGO Primaria
+
+Fecha: 2026-03-10 — 2026-03-10
+edad: Alumnos de primaria.
+Matvey: Condicional. Confirmar curso, escuela local y reglas de la próxima selección.
+Oscar: Condicional. Confirmar curso, escuela local y reglas de la próxima selección.
+Idioma: Confirmar idioma de la fase local.
+Acceso: Se admitían equipos externos. Junior exige CURP. Los prototipos se registran con antelación.
+Precio: La página indica 350 MXN por robot y el PDF un rango de 350–500 MXN. La tarifa exacta depende de la categoría y las condiciones.
+Limitaciones: El cronograma preliminar sitúa el bloque de 10:00–11:30 en hora local.
+Fuente: https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf
+Se ha comprobado: 2026-11-07
+
+### C3412 · Robotics by Olamí ORT 2026 · Fútbol mBot2
+
+Fecha: 2026-03-10 — 2026-03-10
+edad: El reglamento local aún no confirma la admisión para esta edad.
+Matvey: El reglamento local aún no confirma la admisión para esta edad.
+Oscar: El reglamento local aún no confirma la admisión para esta edad.
+Idioma: Confirmar idioma de la fase local.
+Acceso: Se admitían equipos externos. Junior exige CURP. Los prototipos se registran con antelación.
+Precio: La página indica 350 MXN por robot y el PDF un rango de 350–500 MXN. La tarifa exacta depende de la categoría y las condiciones.
+Limitaciones: El cronograma preliminar sitúa el bloque de 10:00–11:30 en hora local.
+Fuente: https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf
+Se ha comprobado: 2026-11-07
+
+### C3413 · Robotics by Olamí ORT 2026 · Turbo Brush
+
+Fecha: 2026-03-10 — 2026-03-10
+edad: El reglamento local aún no confirma la admisión para esta edad.
+Matvey: El reglamento local aún no confirma la admisión para esta edad.
+Oscar: El reglamento local aún no confirma la admisión para esta edad.
+Idioma: Confirmar idioma de la fase local.
+Acceso: Se admitían equipos externos. Junior exige CURP. Los prototipos se registran con antelación.
+Precio: La página indica 350 MXN por robot y el PDF un rango de 350–500 MXN. La tarifa exacta depende de la categoría y las condiciones.
+Limitaciones: El cronograma preliminar sitúa el bloque de 10:00–11:30 en hora local.
+Fuente: https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf
+Se ha comprobado: 2026-11-07
+
+### C3414 · Robotics by Olamí ORT 2026 · Touch and Play
+
+Fecha: 2026-03-10 — 2026-03-10
+edad: El reglamento local aún no confirma la admisión para esta edad.
+Matvey: El reglamento local aún no confirma la admisión para esta edad.
+Oscar: El reglamento local aún no confirma la admisión para esta edad.
+Idioma: Confirmar idioma de la fase local.
+Acceso: Se admitían equipos externos. Junior exige CURP. Los prototipos se registran con antelación.
+Precio: La página indica 350 MXN por robot y el PDF un rango de 350–500 MXN. La tarifa exacta depende de la categoría y las condiciones.
+Limitaciones: El cronograma preliminar sitúa el bloque de 10:00–11:30 en hora local.
+Fuente: https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf
+Se ha comprobado: 2026-11-07
+
+### C3415 · Robotics by Olamí ORT 2026 · Explore Space
+
+Fecha: 2026-03-10 — 2026-03-10
+edad: El reglamento local aún no confirma la admisión para esta edad.
+Matvey: El reglamento local aún no confirma la admisión para esta edad.
+Oscar: El reglamento local aún no confirma la admisión para esta edad.
+Idioma: Confirmar idioma de la fase local.
+Acceso: Se admitían equipos externos. Junior exige CURP. Los prototipos se registran con antelación.
+Precio: La página indica 350 MXN por robot y el PDF un rango de 350–500 MXN. La tarifa exacta depende de la categoría y las condiciones.
+Limitaciones: El cronograma preliminar sitúa el bloque de 10:00–11:30 en hora local.
+Fuente: https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf
+Se ha comprobado: 2026-11-07
+
+### C3416 · Robotics by Olamí ORT 2026 · Seguidor de Línea LEGO
+
+Fecha: 2026-03-10 — 2026-03-10
+edad: El reglamento local aún no confirma la admisión para esta edad.
+Matvey: El reglamento local aún no confirma la admisión para esta edad.
+Oscar: El reglamento local aún no confirma la admisión para esta edad.
+Idioma: Confirmar idioma de la fase local.
+Acceso: Se admitían equipos externos. Junior exige CURP. Los prototipos se registran con antelación.
+Precio: La página indica 350 MXN por robot y el PDF un rango de 350–500 MXN. La tarifa exacta depende de la categoría y las condiciones.
+Limitaciones: El cronograma preliminar sitúa el bloque de 10:00–11:30 en hora local.
+Fuente: https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf
+Se ha comprobado: 2026-11-07
+
+### C3417 · Robotics by Olamí ORT 2026 · Sumo LEGO Bachillerato
+
+Fecha: 2026-03-10 — 2026-03-10
+edad: Bachillerato. Primaria tiene su propio Sumo LEGO.
+Matvey: No. La categoría comienza en secundaria.
+Oscar: No. La categoría comienza en secundaria.
+Idioma: Confirmar idioma de la fase local.
+Acceso: Se admitían equipos externos. Junior exige CURP. Los prototipos se registran con antelación.
+Precio: La página indica 350 MXN por robot y el PDF un rango de 350–500 MXN. La tarifa exacta depende de la categoría y las condiciones.
+Limitaciones: El cronograma preliminar sitúa el bloque de 12:30–14:00 en hora local.
+Fuente: https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf
+Se ha comprobado: 2026-11-07
+
+### C3418 · Robotics by Olamí ORT 2026 · Fútbol Kits Educativos
+
+Fecha: 2026-03-10 — 2026-03-10
+edad: El reglamento local aún no confirma la admisión para esta edad.
+Matvey: El reglamento local aún no confirma la admisión para esta edad.
+Oscar: El reglamento local aún no confirma la admisión para esta edad.
+Idioma: Confirmar idioma de la fase local.
+Acceso: Se admitían equipos externos. Junior exige CURP. Los prototipos se registran con antelación.
+Precio: La página indica 350 MXN por robot y el PDF un rango de 350–500 MXN. La tarifa exacta depende de la categoría y las condiciones.
+Limitaciones: El cronograma preliminar sitúa el bloque de 12:30–14:00 en hora local.
+Fuente: https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf
+Se ha comprobado: 2026-11-07
+
+### C3419 · Robotics by Olamí ORT 2026 · Carrera de Insectos Principiantes
+
+Fecha: 2026-03-10 — 2026-03-10
+edad: El reglamento local aún no confirma la admisión para esta edad.
+Matvey: El reglamento local aún no confirma la admisión para esta edad.
+Oscar: El reglamento local aún no confirma la admisión para esta edad.
+Idioma: Confirmar idioma de la fase local.
+Acceso: Se admitían equipos externos. Junior exige CURP. Los prototipos se registran con antelación.
+Precio: La página indica 350 MXN por robot y el PDF un rango de 350–500 MXN. La tarifa exacta depende de la categoría y las condiciones.
+Limitaciones: El cronograma preliminar sitúa el bloque de 12:30–14:00 en hora local.
+Fuente: https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf
+Se ha comprobado: 2026-11-07
+
+### C3420 · Robotics by Olamí ORT 2026 · Build LEGO
+
+Fecha: 2026-03-10 — 2026-03-10
+edad: El reglamento local aún no confirma la admisión para esta edad.
+Matvey: El reglamento local aún no confirma la admisión para esta edad.
+Oscar: El reglamento local aún no confirma la admisión para esta edad.
+Idioma: Confirmar idioma de la fase local.
+Acceso: Se admitían equipos externos. Junior exige CURP. Los prototipos se registran con antelación.
+Precio: La página indica 350 MXN por robot y el PDF un rango de 350–500 MXN. La tarifa exacta depende de la categoría y las condiciones.
+Limitaciones: El cronograma preliminar sitúa el bloque de 12:30–14:00 en hora local.
+Fuente: https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf
+Se ha comprobado: 2026-11-07
+
+### C3421 · Robotics by Olamí ORT 2026 · Ballon Battle
+
+Fecha: 2026-03-10 — 2026-03-10
+edad: El reglamento local aún no confirma la admisión para esta edad.
+Matvey: El reglamento local aún no confirma la admisión para esta edad.
+Oscar: El reglamento local aún no confirma la admisión para esta edad.
+Idioma: Confirmar idioma de la fase local.
+Acceso: Se admitían equipos externos. Junior exige CURP. Los prototipos se registran con antelación.
+Precio: La página indica 350 MXN por robot y el PDF un rango de 350–500 MXN. La tarifa exacta depende de la categoría y las condiciones.
+Limitaciones: El cronograma preliminar sitúa el bloque de 12:30–14:00 en hora local.
+Fuente: https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf
+Se ha comprobado: 2026-11-07
+
+### C3422 · Robotics by Olamí ORT 2026 · Minisumo RC Junior
+
+Fecha: 2026-03-10 — 2026-03-10
+edad: La tienda indica edad máxima de 15 y el PDF de 16. Confirmar el mínimo y la fecha de corte.
+Matvey: El reglamento local aún no confirma la admisión para esta edad.
+Oscar: El reglamento local aún no confirma la admisión para esta edad.
+Idioma: Confirmar idioma de la fase local.
+Acceso: Se admitían equipos externos. Junior exige CURP. Los prototipos se registran con antelación.
+Precio: La página indica 350 MXN por robot y el PDF un rango de 350–500 MXN. La tarifa exacta depende de la categoría y las condiciones.
+Limitaciones: El cronograma preliminar sitúa el bloque de 12:30–14:00 en hora local.
+Fuente: https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf
+Se ha comprobado: 2026-11-07
+
+### C3423 · Robotics by Olamí ORT 2026 · Laberinto Kits Educativos
+
+Fecha: 2026-03-10 — 2026-03-10
+edad: El reglamento local aún no confirma la admisión para esta edad.
+Matvey: El reglamento local aún no confirma la admisión para esta edad.
+Oscar: El reglamento local aún no confirma la admisión para esta edad.
+Idioma: Confirmar idioma de la fase local.
+Acceso: Se admitían equipos externos. Junior exige CURP. Los prototipos se registran con antelación.
+Precio: La página indica 350 MXN por robot y el PDF un rango de 350–500 MXN. La tarifa exacta depende de la categoría y las condiciones.
+Limitaciones: El cronograma preliminar sitúa el bloque de 15:30–16:00 en hora local.
+Fuente: https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf
+Se ha comprobado: 2026-11-07
+
+### C3424 · Robotics by Olamí ORT 2026 · Fútbol Junior
+
+Fecha: 2026-03-10 — 2026-03-10
+edad: El reglamento local aún no confirma la admisión para esta edad.
+Matvey: El reglamento local aún no confirma la admisión para esta edad.
+Oscar: El reglamento local aún no confirma la admisión para esta edad.
+Idioma: Confirmar idioma de la fase local.
+Acceso: Se admitían equipos externos. Junior exige CURP. Los prototipos se registran con antelación.
+Precio: La página indica 350 MXN por robot y el PDF un rango de 350–500 MXN. La tarifa exacta depende de la categoría y las condiciones.
+Limitaciones: El cronograma preliminar sitúa el bloque de 15:30–16:00 en hora local.
+Fuente: https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf
+Se ha comprobado: 2026-11-07
+
+### C3425 · Robotics by Olamí ORT 2026 · IA Conducción Inteligente Juvenil
+
+Fecha: 2026-03-10 — 2026-03-10
+edad: El reglamento local aún no confirma la admisión para esta edad.
+Matvey: El reglamento local aún no confirma la admisión para esta edad.
+Oscar: El reglamento local aún no confirma la admisión para esta edad.
+Idioma: Confirmar idioma de la fase local.
+Acceso: Se admitían equipos externos. Junior exige CURP. Los prototipos se registran con antelación.
+Precio: La página indica 350 MXN por robot y el PDF un rango de 350–500 MXN. La tarifa exacta depende de la categoría y las condiciones.
+Limitaciones: El cronograma preliminar sitúa el bloque de 15:30–16:00 en hora local.
+Fuente: https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf
+Se ha comprobado: 2026-11-07
+
+### C3426 · Liga Tabasqueña de Robótica · Temporada 3 2026
+
+Fecha: 2026-10-09 — 2026-10-30
+edad: Junior — primaria y secundaria. Master — bachillerato y universidad, Sumo LEGO Master solo bachillerato.
+Matvey: Condicional. Confirmar curso, escuela local y reglas de la próxima selección.
+Oscar: Condicional. Confirmar curso, escuela local y reglas de la próxima selección.
+Idioma: Confirmar idioma de la fase local.
+Acceso: Constancia escolar vigente, hasta 2 alumnos y mentor adulto. Se permiten equipos de diferentes escuelas.
+Precio: En 2026, cuota de 300 MXN por equipo para las dos jornadas. Confirmar reglas de la próxima temporada.
+Limitaciones: Dos jornadas durante la temporada. Para equipos nuevos la inscripción cerraba 5 días antes de la jornada elegida.
+Fuente: https://laliga.lati.mx/wp-content/uploads/2026/09/Convocatoria-LTRC-3T-1.pdf
+Se ha comprobado: 2026-11-07
+
+### C3427 · Liga Tabasqueña de Robótica · next season
+
+Fecha: La próxima convocatoria aún no se ha anunciado.
+edad: Junior — primaria y secundaria. Master — bachillerato y universidad, Sumo LEGO Master solo bachillerato.
+Matvey: Condicional. Confirmar curso, escuela local y reglas de la próxima selección.
+Oscar: Condicional. Confirmar curso, escuela local y reglas de la próxima selección.
+Idioma: Confirmar idioma de la fase local.
+Acceso: Constancia escolar vigente, hasta 2 alumnos y mentor adulto. Se permiten equipos de diferentes escuelas.
+Precio: En 2026, cuota de 300 MXN por equipo para las dos jornadas. Confirmar reglas de la próxima temporada.
+Limitaciones:
+Fuente: https://laliga.lati.mx/
+Se ha comprobado: 2026-11-07
+
+### C3428 · Liga Tabasqueña 2026 · Jornada 1
+
+Fecha: 2026-10-09 — 2026-10-09
+edad: Junior — primaria y secundaria. Master — bachillerato y universidad, Sumo LEGO Master solo bachillerato.
+Matvey: Condicional. Confirmar curso, escuela local y reglas de la próxima selección.
+Oscar: Condicional. Confirmar curso, escuela local y reglas de la próxima selección.
+Idioma: Confirmar idioma de la fase local.
+Acceso: Constancia escolar vigente, hasta 2 alumnos y mentor adulto. Se permiten equipos de diferentes escuelas.
+Precio: En 2026, cuota de 300 MXN por equipo para las dos jornadas. Confirmar reglas de la próxima temporada.
+Limitaciones:
+Fuente: https://laliga.lati.mx/fechas-y-sedes/
+Se ha comprobado: 2026-11-07
+
+### C3429 · Liga Tabasqueña 2026 · Jornada 2 · Teapa
+
+Fecha: 2026-10-30 — 2026-10-30
+edad: Junior — primaria y secundaria. Master — bachillerato y universidad, Sumo LEGO Master solo bachillerato.
+Matvey: Condicional. Confirmar curso, escuela local y reglas de la próxima selección.
+Oscar: Condicional. Confirmar curso, escuela local y reglas de la próxima selección.
+Idioma: Confirmar idioma de la fase local.
+Acceso: Constancia escolar vigente, hasta 2 alumnos y mentor adulto. Se permiten equipos de diferentes escuelas.
+Precio: En 2026, cuota de 300 MXN por equipo para las dos jornadas. Confirmar reglas de la próxima temporada.
+Limitaciones: Robo Fut, Mini Sumo y seguimiento de línea. Homologación a las 08:00, premiación a las 12:00.
+Fuente: https://laliga.lati.mx/fechas-y-sedes/
+Se ha comprobado: 2026-11-07
+
+### C3430 · Liga Tabasqueña 2026 · Jornada 2 · LATI
+
+Fecha: 2026-10-30 — 2026-10-30
+edad: Junior — primaria y secundaria. Master — bachillerato y universidad, Sumo LEGO Master solo bachillerato.
+Matvey: Condicional. Confirmar curso, escuela local y reglas de la próxima selección.
+Oscar: Condicional. Confirmar curso, escuela local y reglas de la próxima selección.
+Idioma: Confirmar idioma de la fase local.
+Acceso: Constancia escolar vigente, hasta 2 alumnos y mentor adulto. Se permiten equipos de diferentes escuelas.
+Precio: En 2026, cuota de 300 MXN por equipo para las dos jornadas. Confirmar reglas de la próxima temporada.
+Limitaciones: Sumo LEGO y Car Race. Homologación a las 16:00, premiación a las 18:00.
+Fuente: https://laliga.lati.mx/fechas-y-sedes/
+Se ha comprobado: 2026-11-07
+
+### C3431 · Liga Tabasqueña · Junior · Sumo LEGO · 2026
+
+Fecha: 2026-10-09 — 2026-10-30
+edad: Junior — primaria y secundaria.
+Matvey: Condicional. Confirmar curso, escuela local y reglas de la próxima selección.
+Oscar: Condicional. Confirmar curso, escuela local y reglas de la próxima selección.
+Idioma: Confirmar idioma de la fase local.
+Acceso: Constancia escolar vigente, hasta 2 alumnos y mentor adulto. Se permiten equipos de diferentes escuelas.
+Precio: En 2026, cuota de 300 MXN por equipo para las dos jornadas. Confirmar reglas de la próxima temporada.
+Limitaciones: Dos jornadas durante la temporada. Para equipos nuevos la inscripción cerraba 5 días antes de la jornada elegida.
+Fuente: https://laliga.lati.mx/wp-content/uploads/2026/09/Convocatoria-LTRC-3T-1.pdf
+Se ha comprobado: 2026-11-07
+
+### C3432 · Liga Tabasqueña · Junior · Seguidor de Línea Kit · 2026
+
+Fecha: 2026-10-09 — 2026-10-30
+edad: Junior — primaria y secundaria.
+Matvey: Condicional. Confirmar curso, escuela local y reglas de la próxima selección.
+Oscar: Condicional. Confirmar curso, escuela local y reglas de la próxima selección.
+Idioma: Confirmar idioma de la fase local.
+Acceso: Constancia escolar vigente, hasta 2 alumnos y mentor adulto. Se permiten equipos de diferentes escuelas.
+Precio: En 2026, cuota de 300 MXN por equipo para las dos jornadas. Confirmar reglas de la próxima temporada.
+Limitaciones: Dos jornadas durante la temporada. Para equipos nuevos la inscripción cerraba 5 días antes de la jornada elegida.
+Fuente: https://laliga.lati.mx/wp-content/uploads/2026/09/Convocatoria-LTRC-3T-1.pdf
+Se ha comprobado: 2026-11-07
+
+### C3433 · Liga Tabasqueña · Junior · Car Race · 2026
+
+Fecha: 2026-10-09 — 2026-10-30
+edad: Junior — primaria y secundaria.
+Matvey: Condicional. Confirmar curso, escuela local y reglas de la próxima selección.
+Oscar: Condicional. Confirmar curso, escuela local y reglas de la próxima selección.
+Idioma: Confirmar idioma de la fase local.
+Acceso: Constancia escolar vigente, hasta 2 alumnos y mentor adulto. Se permiten equipos de diferentes escuelas.
+Precio: En 2026, cuota de 300 MXN por equipo para las dos jornadas. Confirmar reglas de la próxima temporada.
+Limitaciones: Dos jornadas durante la temporada. Para equipos nuevos la inscripción cerraba 5 días antes de la jornada elegida.
+Fuente: https://laliga.lati.mx/wp-content/uploads/2026/09/Convocatoria-LTRC-3T-1.pdf
+Se ha comprobado: 2026-11-07
+
+### C3434 · MECAMEX 2026 · Mini Sumo Autónomo
+
+Fecha: 2026-10-22 国 2026-10-24
+edad: Estudiantes de cualquier nivel educativo y aficionados. No se indica edad mínima numérica.
+Matvey: Condicional. Confirmar curso, escuela local y reglas de la próxima selección.
+Oscar: Condicional. Confirmar curso, escuela local y reglas de la próxima selección.
+Idioma: Confirmar idioma de la fase local.
+Acceso: Abierto a clubes y concursantes independientes. Se registra un operador y un asistente por robot.
+Precio: 650 MXN por robot según la tarifa de 2026.
+Limitaciones: Es la ventana del congreso. El día y la edad de cada robot se comprueban por categoría.
+Fuente: https://www.mecamex.org/copia-de-competencia-de-rob%C3%B3tica
+Se ha comprobado: 2026-11-07
+
+### C3435 · MECAMEX 2026 · Mini Sumo RC
+
+Fecha: 2026-10-22 国 2026-10-24
+edad: Estudiantes de cualquier nivel educativo y aficionados. No se indica edad mínima numérica.
+Matvey: Condicional. Confirmar curso, escuela local y reglas de la próxima selección.
+Oscar: Condicional. Confirmar curso, escuela local y reglas de la próxima selección.
+Idioma: Confirmar idioma de la fase local.
+Acceso: Abierto a clubes y concursantes independientes. Se registra un operador y un asistente por robot.
+Precio: 650 MXN por robot según la tarifa de 2026.
+Limitaciones: Es la ventana del congreso. El día y la edad de cada robot se comprueban por categoría.
+Fuente: https://www.mecamex.org/copia-de-competencia-de-rob%C3%B3tica
+Se ha comprobado: 2026-11-07
+
+### C3436 · MECAMEX 2026 · Mini Sumo Amateur Autónomo
+
+Fecha: 2026-10-22 国 2026-10-24
+edad: Estudiantes de cualquier nivel educativo y aficionados. No se indica edad mínima numérica.
+Matvey: Condicional. Confirmar curso, escuela local y reglas de la próxima selección.
+Oscar: Condicional. Confirmar curso, escuela local y reglas de la próxima selección.
+Idioma: Confirmar idioma de la fase local.
+Acceso: Abierto a clubes y concursantes independientes. Se registra un operador y un asistente por robot.
+Precio: 450 MXN por robot según la tarifa de 2026.
+Limitaciones: Es la ventana del congreso. El día y la edad de cada robot se comprueban por categoría.
+Fuente: https://www.mecamex.org/copia-de-competencia-de-rob%C3%B3tica
+Se ha comprobado: 2026-11-07
+
+### C3437 · MECAMEX 2026 · Mini Sumo Amateur RC
+
+Fecha: 2026-10-22 国 2026-10-24
+edad: Estudiantes de cualquier nivel educativo y aficionados. No se indica edad mínima numérica.
+Matvey: Condicional. Confirmar curso, escuela local y reglas de la próxima selección.
+Oscar: Condicional. Confirmar curso, escuela local y reglas de la próxima selección.
+Idioma: Confirmar idioma de la fase local.
+Acceso: Abierto a clubes y concursantes independientes. Se registra un operador y un asistente por robot.
+Precio: 450 MXN por robot según la tarifa de 2026.
+Limitaciones: Es la ventana del congreso. El día y la edad de cada robot se comprueban por categoría.
+Fuente: https://www.mecamex.org/copia-de-competencia-de-rob%C3%B3tica
+Se ha comprobado: 2026-11-07
+
+### C3438 · MECAMEX 2026 · Micro Sumo
+
+Fecha: 2026-10-22 国 2026-10-24
+edad: Estudiantes de cualquier nivel educativo y aficionados. No se indica edad mínima numérica.
+Matvey: Condicional. Confirmar curso, escuela local y reglas de la próxima selección.
+Oscar: Condicional. Confirmar curso, escuela local y reglas de la próxima selección.
+Idioma: Confirmar idioma de la fase local.
+Acceso: Abierto a clubes y concursantes independientes. Se registra un operador y un asistente por robot.
+Precio: 450 MXN por robot según la tarifa de 2026.
+Limitaciones: Es la ventana del congreso. El día y la edad de cada robot se comprueban por categoría.
+Fuente: https://www.mecamex.org/copia-de-competencia-de-rob%C3%B3tica
+Se ha comprobado: 2026-11-07
+
+### C3439 · MECAMEX 2026 · Seguidor de Línea
+
+Fecha: 2026-10-22 国 2026-10-24
+edad: Estudiantes de cualquier nivel educativo y aficionados. No se indica edad mínima numérica.
+Matvey: Condicional. Confirmar curso, escuela local y reglas de la próxima selección.
+Oscar: Condicional. Confirmar curso, escuela local y reglas de la próxima selección.
+Idioma: Confirmar idioma de la fase local.
+Acceso: Abierto a clubes y concursantes independientes. Se registra un operador y un asistente por robot.
+Precio: 550 MXN por robot según la tarifa de 2026.
+Limitaciones: Es la ventana del congreso. El día y la edad de cada robot se comprueban por categoría.
+Fuente: https://www.mecamex.org/copia-de-competencia-de-rob%C3%B3tica
+Se ha comprobado: 2026-11-07
+
+### C3440 · MECAMEX · competencia de robótica · next edition
+
+Fecha: La próxima convocatoria aún no se ha anunciado.
+edad: Estudiantes de cualquier nivel educativo y aficionados. No se indica edad mínima numérica.
+Matvey: El reglamento local aún no confirma la admisión para esta edad.
+Oscar: El reglamento local aún no confirma la admisión para esta edad.
+Idioma: Confirmar idioma de la fase local.
+Acceso: Abierto a clubes y concursantes independientes. Se registra un operador y un asistente por robot.
+Precio: Confirmar la cuota de esta categoría.
+Limitaciones:
+Fuente: https://www.mecamex.org/copia-de-competencia-de-rob%C3%B3tica
 Se ha comprobado: 2026-11-07
 
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02

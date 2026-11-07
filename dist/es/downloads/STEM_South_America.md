@@ -3233,6 +3233,162 @@ Limitaciones: Los metadatos y la admisión indican Middle School. La descripció
 Fuente: https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-5107.html
 Se ha comprobado: 2026-11-07
 
+### C3441 · Kanturobot Reloaded 2026 · Proyecto de Innovación Tecnológica
+
+Fecha: 2026-11-10 国 2026-11-10
+edad: Solo secundaria.
+Matvey: No. La categoría comienza en secundaria.
+Oscar: No. La categoría comienza en secundaria.
+Idioma: Confirmar idioma de la fase local.
+Acceso: Los menores requieren autorización de un progenitor o tutor. Confirmar admisión de equipos extranjeros y disponibilidad.
+Precio: 30 PEN por inscripción de categoría.
+Limitaciones:
+Fuente: https://progluis.github.io/KantuRobot2026/
+Se ha comprobado: 2026-11-07
+
+### C3442 · Kanturobot Reloaded 2026 · Seguidor de Línea Escolar
+
+Fecha: 2026-11-10 国 2026-11-10
+edad: Solo secundaria.
+Matvey: No. La categoría comienza en secundaria.
+Oscar: No. La categoría comienza en secundaria.
+Idioma: Confirmar idioma de la fase local.
+Acceso: Los menores requieren autorización de un progenitor o tutor. Confirmar admisión de equipos extranjeros y disponibilidad.
+Precio: 30 PEN por inscripción de categoría.
+Limitaciones:
+Fuente: https://progluis.github.io/KantuRobot2026/
+Se ha comprobado: 2026-11-07
+
+### C3443 · Kanturobot Reloaded 2026 · Robot Velocista
+
+Fecha: 2026-11-10 国 2026-11-10
+edad: El reglamento local aún no confirma la admisión para esta edad.
+Matvey: El reglamento local aún no confirma la admisión para esta edad.
+Oscar: El reglamento local aún no confirma la admisión para esta edad.
+Idioma: Confirmar idioma de la fase local.
+Acceso: Los menores requieren autorización de un progenitor o tutor. Confirmar admisión de equipos extranjeros y disponibilidad.
+Precio: 50 PEN por inscripción de categoría.
+Limitaciones:
+Fuente: https://progluis.github.io/KantuRobot2026/
+Se ha comprobado: 2026-11-07
+
+### C3444 · Kanturobot Reloaded 2026 · Mini Sumo
+
+Fecha: 2026-11-10 国 2026-11-10
+edad: El reglamento local aún no confirma la admisión para esta edad.
+Matvey: El reglamento local aún no confirma la admisión para esta edad.
+Oscar: El reglamento local aún no confirma la admisión para esta edad.
+Idioma: Confirmar idioma de la fase local.
+Acceso: Los menores requieren autorización de un progenitor o tutor. Confirmar admisión de equipos extranjeros y disponibilidad.
+Precio: 50 PEN por inscripción de categoría.
+Limitaciones:
+Fuente: https://progluis.github.io/KantuRobot2026/
+Se ha comprobado: 2026-11-07
+
+### C3445 · Kanturobot Reloaded 2026 · Robot Soccer
+
+Fecha: 2026-11-10 国 2026-11-10
+edad: El reglamento local aún no confirma la admisión para esta edad.
+Matvey: El reglamento local aún no confirma la admisión para esta edad.
+Oscar: El reglamento local aún no confirma la admisión para esta edad.
+Idioma: Confirmar idioma de la fase local.
+Acceso: Los menores requieren autorización de un progenitor o tutor. Confirmar admisión de equipos extranjeros y disponibilidad.
+Precio: 50 PEN por inscripción de categoría.
+Limitaciones:
+Fuente: https://progluis.github.io/KantuRobot2026/
+Se ha comprobado: 2026-11-07
+
+### C3446 · Kanturobot Reloaded 2026 · Walking Race OTTO
+
+Fecha: 2026-11-10 国 2026-11-10
+edad: Se admiten distintas edades y niveles educativos. No se indica mínimo numérico.
+Matvey: Condicional. Se requiere autorización parental y confirmación de la solicitud.
+Oscar: Condicional. Se requiere autorización parental y confirmación de la solicitud.
+Idioma: Confirmar idioma de la fase local.
+Acceso: Los menores requieren autorización de un progenitor o tutor. Confirmar admisión de equipos extranjeros y disponibilidad.
+Precio: 50 PEN por inscripción de categoría.
+Limitaciones: Robot bípedo OTTO DIY, control Bluetooth. Se requieren al menos 4 robots homologados para otorgar premios.
+Fuente: https://progluis.github.io/KantuRobot2026/
+Se ha comprobado: 2026-11-07
+
+### C3447 · Kanturobot Reloaded 2026 · Robot Humanoide
+
+Fecha: 2026-11-10 国 2026-11-10
+edad: Categoría abierta sin divisiones por edad. Los menores necesitan autorización y acompañamiento adulto.
+Matvey: Condicional. Se requiere autorización y acompañamiento adulto.
+Oscar: Condicional. Se requiere autorización y acompañamiento adulto.
+Idioma: Confirmar idioma de la fase local.
+Acceso: Los menores requieren autorización de un progenitor o tutor. Confirmar admisión de equipos extranjeros y disponibilidad.
+Precio: 50 PEN por inscripción de categoría.
+Limitaciones:
+Fuente: https://progluis.github.io/KantuRobot2026/
+Se ha comprobado: 2026-11-07
+
+### C3448 · Kanturobot Reloaded 2026 · Warbot 1 lb
+
+Fecha: 2026-11-10 国 2026-11-10
+edad: Mayores de 18 años según las reglas publicadas.
+Matvey: No. Categoría para adultos.
+Oscar: No. Categoría para adultos.
+Idioma: Confirmar idioma de la fase local.
+Acceso: Los menores requieren autorización de un progenitor o tutor. Confirmar admisión de equipos extranjeros y disponibilidad.
+Precio: 50 PEN por inscripción de categoría.
+Limitaciones:
+Fuente: https://progluis.github.io/KantuRobot2026/
+Se ha comprobado: 2026-11-07
+
+### C3449 · Kanturobot Reloaded 2026 · Warbot 120 lb
+
+Fecha: 2026-11-10 国 2026-11-10
+edad: Mayores de 18 años según las reglas publicadas.
+Matvey: No. Categoría para adultos.
+Oscar: No. Categoría para adultos.
+Idioma: Confirmar idioma de la fase local.
+Acceso: Los menores requieren autorización de un progenitor o tutor. Confirmar admisión de equipos extranjeros y disponibilidad.
+Precio: 100 PEN por inscripción de categoría.
+Limitaciones:
+Fuente: https://progluis.github.io/KantuRobot2026/
+Se ha comprobado: 2026-11-07
+
+### C3450 · PUCP Pequeños Satélites 2026 · Primaria
+
+Fecha: 2026-08-29 — 2026-08-29
+edad: Cursos 1–6, tres grupos de dos cursos.
+Matvey: Condicional. Confirmar curso, escuela local y reglas de la próxima selección.
+Oscar: Condicional. Confirmar curso, escuela local y reglas de la próxima selección.
+Idioma: Confirmar idioma de la fase local.
+Acceso: En 2026 se exigía nacionalidad peruana o residencia legal y una escuela primaria del distrito de San Miguel.
+Precio: Gratis según las reglas de 2026.
+Limitaciones: El 29 de agosto se celebraron la exposición de finalistas y la premiación. La recepción de dibujos terminó en junio.
+Fuente: https://competencia-satelites-escolar.pucp.edu.pe/
+Se ha comprobado: 2026-11-07
+
+### C3451 · PUCP Pequeños Satélites 2027 · Primaria · convocatoria prevista
+
+Fecha: Apertura prevista provisionalmente para marzo de 2027. Plazo exacto sin publicar.
+edad: Cursos 1–6, tres grupos de dos cursos.
+Matvey: Condicional. Confirmar curso, escuela local y reglas de la próxima selección.
+Oscar: Condicional. Confirmar curso, escuela local y reglas de la próxima selección.
+Idioma: Confirmar idioma de la fase local.
+Acceso: En 2026 se exigía nacionalidad peruana o residencia legal y una escuela primaria del distrito de San Miguel.
+Precio: Confirmar la cuota de esta categoría.
+Limitaciones: Confirmar centros admitidos, formato y tarifa de la nueva temporada en el reglamento específico de primaria.
+Fuente: https://es.linkedin.com/posts/vripucp_cnps2027-investigaci%C3%B3npucp-cienciaytecnolog%C3%ADa-activity-7518348163095785472-s8lU
+Se ha comprobado: 2026-11-07
+
+### C3452 · UGEL Chucuito Juli 2026 · V Festival de Robótica Educativa
+
+Fecha: El 4 de noviembre de 2026 se presentaron las bases. El anuncio no indica la fecha del torneo.
+edad: Educación inicial, primaria y secundaria.
+Matvey: Condicional. Confirmar curso, escuela local y reglas de la próxima selección.
+Oscar: Condicional. Confirmar curso, escuela local y reglas de la próxima selección.
+Idioma: Confirmar idioma de la fase local.
+Acceso: Festival para centros locales equipados con kits de robótica. Participan educación inicial, primaria y secundaria.
+Precio: Confirmar la cuota de esta categoría.
+Limitaciones:
+Fuente: https://ugelchucuito.edu.pe/portal/2026/11/02/lanzamiento-del-v-festival-y-concurso-de-robotica-educativa-2026/
+Se ha comprobado: 2026-11-07
+
 ### CP047-20270103-20270108 · Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08
 
 Fecha: 2027-01-03 国 2027-01-08

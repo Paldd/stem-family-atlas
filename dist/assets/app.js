@@ -19,7 +19,7 @@ const archived=e=>!!(e.end&&e.end<TODAY&&(!e.deadline||e.deadline<TODAY));
 const countryName=iso=>COUNTRIES.find(c=>c.iso===iso)?.country||features.find(f=>f.properties.id===iso)?.properties.name_long||iso;
 function fits(e){if(!state.kid)return true;if(state.kid==='both')return yes(e.mat)&&yes(e.osc);if(state.kid==='conditional')return /^Условно/.test(e.mat)||/^Условно/.test(e.osc);return yes(e[state.kid])}
 function filtered(){return EVENTS.filter(e=>
- (!e.canonical_event_id||['catalog','saved'].includes(state.view)||state.query.trim().toUpperCase()===e.id)&&
+ (!e.canonical_event_id||state.view==='saved'||state.query.trim().toUpperCase()===e.id)&&
  (!state.routeIsos.length||e.iso.some(i=>state.routeIsos.includes(i)))&&
  (!state.best||window.bestEventPick(e.id))&&
  (state.view!=='camps'||e.block==='Лагеря')&&(!state.campProjects||DATA.camp_focus.hack_event_ids.includes(e.id))&&

@@ -870,11 +870,11 @@
   ],
   "completion_rule": "No declarar el objetivo de las tarjetas de identificación completadas, la lista de 249 países o los puntos verdes de UI. Se requiere una cobertura de referencia y condiciones pertinentes demostradas, o información manifiestamente inaccesible o no declarada con fuentes verificadas.",
   "latest_validation": {
-    "version": 238,
+    "version": 239,
     "status": "implementation_snapshot",
-    "events": 8399,
-    "competitions": 3407,
-    "league_profiles": 285,
+    "events": 8445,
+    "competitions": 3451,
+    "league_profiles": 288,
     "camp_dossiers": 1854,
     "budget_offers": 301,
     "editorial_reviewed": 71,
@@ -926,11 +926,11 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 237,
+    "version": 238,
     "status": "implementation_snapshot",
-    "events": 8384,
-    "competitions": 3393,
-    "league_profiles": 280,
+    "events": 8399,
+    "competitions": 3407,
+    "league_profiles": 285,
     "camp_dossiers": 1854,
     "budget_offers": 301,
     "editorial_reviewed": 71,
@@ -940,7 +940,7 @@
     "schools": 80,
     "school_history_results": 356,
     "school_history_entities": 232,
-    "national_routes": 316
+    "national_routes": 330
   },
   "research_passes": [
     {
@@ -13757,10 +13757,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 238,
+    "prepared_ui_version": 239,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 237,
-    "previous_verified_commit": "4f7b489c3a9438f8dd5404774ab2c35ac924dc82"
+    "previous_verified_ui_version": 238,
+    "previous_verified_commit": "1a381e399066b570c34ffc3c5bdcf8b3ee539d8f"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20807,11 +20807,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 237,
-    "published_version": 237,
-    "latest_source_commit": "4f7b489c3a9438f8dd5404774ab2c35ac924dc82",
-    "published_commit": "4f7b489c3a9438f8dd5404774ab2c35ac924dc82",
-    "latest_workflow": 42413893885,
+    "latest_source_version": 238,
+    "published_version": 238,
+    "latest_source_commit": "1a381e399066b570c34ffc3c5bdcf8b3ee539d8f",
+    "published_commit": "1a381e399066b570c34ffc3c5bdcf8b3ee539d8f",
+    "latest_workflow": 42415647272,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -23714,5 +23714,93 @@
     ],
     "audit": "data/apicta-national-audit-v238.json",
     "source_receipts": "data/apicta-national-source-receipts-v238.json"
+  },
+  "latam_robotics_fair_v239": {
+    "version": 239,
+    "checked": "2026-11-07",
+    "previous_goal_turn_classification": "progress",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_competitions": 44,
+    "new_events": 2,
+    "event_ids": [
+      "C3409",
+      "C3410",
+      "C3411",
+      "C3412",
+      "C3413",
+      "C3414",
+      "C3415",
+      "C3416",
+      "C3417",
+      "C3418",
+      "C3419",
+      "C3420",
+      "C3421",
+      "C3422",
+      "C3423",
+      "C3424",
+      "C3425",
+      "C3426",
+      "C3427",
+      "C3428",
+      "C3429",
+      "C3430",
+      "C3431",
+      "C3432",
+      "C3433",
+      "C3434",
+      "C3435",
+      "C3436",
+      "C3437",
+      "C3438",
+      "C3439",
+      "C3440",
+      "C3441",
+      "C3442",
+      "C3443",
+      "C3444",
+      "C3445",
+      "C3446",
+      "C3447",
+      "C3448",
+      "C3449",
+      "C3450",
+      "C3451",
+      "C3452",
+      "E440",
+      "E441"
+    ],
+    "updated_ids": [
+      "E211",
+      "E416",
+      "E041",
+      "C082"
+    ],
+    "new_profiles": [
+      "olami-ort-mx",
+      "ltrc-tabasco",
+      "kanturobot-peru"
+    ],
+    "source_requests": 39,
+    "aliases": {
+      "E211": "E041",
+      "E416": "E041"
+    },
+    "notes": [
+      "30 de septiembre de 2026 — recepción de proyectos, 15 de octubre — publicación de trabajos admitidos. 30 de noviembre — entrega inicial. Para el pago aparecen dos plazos, 31 de octubre y 15 de noviembre.",
+      "La invitación general menciona escuelas primarias. En el reto técnico Ruta RoboRAVE discrepan los rangos 13–99 y MS 11–14. No se ha confirmado una categoría de proyectos para primaria.",
+      "La ficha Ruta muestra 580 USD por participante o entrenador, el listado general — 650 USD sin precisar unidad. Ruta describe hotel y comidas. Tarifa de invitados e importe final sin confirmar.",
+      "Se admitían equipos externos. Junior exige CURP. Los prototipos se registran con antelación.",
+      "Dos jornadas durante la temporada. Para equipos nuevos la inscripción cerraba 5 días antes de la jornada elegida.",
+      "Los ganadores de categoría al cierre de temporada obtienen plaza en RoboMatrix Península en Cancún.",
+      "Robot bípedo OTTO DIY, control Bluetooth. Se requieren al menos 4 robots homologados para otorgar premios.",
+      "En 2026 se exigía nacionalidad peruana o residencia legal y una escuela primaria del distrito de San Miguel.",
+      "Apertura prevista provisionalmente para marzo de 2027. Plazo exacto sin publicar.",
+      "El 4 de noviembre de 2026 se presentaron las bases. El anuncio no indica la fecha del torneo.",
+      "Visitas escolares desde 4.º curso. Confirmar acceso de menores en visita familiar."
+    ],
+    "audit": "data/latam-robotics-fair-audit-v239.json",
+    "source_receipts": "data/latam-robotics-fair-source-receipts-v239.json"
   }
 }

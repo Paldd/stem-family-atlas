@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 8399; соревнований: 3407; событий: 439; лагерей / программ: 4553. Профилей лиг и программ: 285. Карточек крупных и профильных выставок: 348 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 8445; соревнований: 3451; событий: 441; лагерей / программ: 4553. Профилей лиг и программ: 288. Карточек крупных и профильных выставок: 351 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 178 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -14,8 +14,8 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 
 | Континент | Страны / территории с записями | Соревнования | Крупные выставки | Лагеря / программы |
 |---|---:|---:|---:|---:|
-| Северная Америка | 35 | 1491 | 75 | 1172 |
-| Южная Америка | 12 | 237 | 30 | 197 |
+| Северная Америка | 35 | 1523 | 78 | 1172 |
+| Южная Америка | 12 | 249 | 30 | 197 |
 | Европа | 42 | 440 | 87 | 1372 |
 | Африка | 34 | 135 | 25 | 71 |
 | Азия | 46 | 852 | 105 | 1557 |
@@ -23,7 +23,7 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 
 Межрегиональные / глобальные карточки, не приписанные одному континенту: 136. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
 
-VEX: 521 из 3407 карточек соревнований (15.3%). Это явный перекос охвата.
+VEX: 521 из 3451 карточек соревнований (15.1%). Это явный перекос охвата.
 
 ## Что осталось
 
@@ -311,6 +311,9 @@ VEX: 521 из 3407 карточек соревнований (15.3%). Это я�
 - **P@SHA ICT Awards · Pakistan**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://applications.pashaictawards.com/
 - **Hong Kong ICT Awards · Student Innovation**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.hkictawards.hk/wp-content/uploads/2026/04/08-SI-Award-Prospectus-HKICTA-2026-v2.pdf
 - **Young Computer Scientist · FITIS Sri Lanka**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://ycs.lk/
+- **Robotics by Olamí ORT**: 17 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.olamiort.edu.mx/robotics-convocatoria
+- **Liga Tabasqueña de Robótica de Competencia**: 8 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://laliga.lati.mx/wp-content/uploads/2026/09/Convocatoria-LTRC-3T-1.pdf
+- **Kanturobot Reloaded · UNE**: 9 карточек, 9 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://progluis.github.io/KantuRobot2026/
 - **The Tech Challenge · инженерная программа и showcase**: 0 карточек, 0 с будущими точными датами. Учебная / посещаемая программа; конкурсных этапов нет. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · локальные дисциплины**: 10 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · младшая демонстрация и Mini Sumo**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -411,6 +414,7 @@ VEX: 521 из 3407 карточек соревнований (15.3%). Это я�
 - **Brasil Game Show 2026 — публичные дни** — Бразилия; 2026-10-10 – 2026-10-12. Со взрослым; условия взрослого входа отдельно. https://www.brasilgameshow.com.br/ingressos/
 - **PAX Aus 2026** — Австралия; 2026-10-09 – 2026-10-11. Со взрослым; условия взрослого входа отдельно. https://aus.paxsite.com/en-us/info/faq.html
 - **GAMERGY Madrid 2026** — Испания; 2026-12-18 – 2026-12-20. Детский допуск уточнить. https://www.ifema.es/gamergy
+- **World Science & Technology Expo — Ruta Científica Puerto Vallarta 2027** — Мексика; 2027-02-25 – 2027-02-28. Детский допуск уточнить. https://www.roboraveinternational.org/eventos/roborave-ruta-cientifica-puerto-vallarta-2027
 - **Maker Faire Guangzhou 2026** — Китай; 2026-10-17 – 2026-10-18. Детский допуск уточнить. https://guangzhou.makerfaire.com/
 - **Maker Faire Monterrey / ITERA TEC 2026** — Мексика; 2026-11-12. Детский допуск уточнить. https://luma.com/i5cz5p70
 - **Maker Faire Mittleres Rheinland 2026** — Германия; 2026-11-07 – 2026-11-08. Со взрослым; условия взрослого входа отдельно. https://makerspace-myk.de/makerfaire/
@@ -701,6 +705,8 @@ VEX: 521 из 3407 карточек соревнований (15.3%). Это я�
 - **Bhutan Space Week · next edition** — Бутан; дата неизвестна. Детский допуск уточнить. https://tech.gov.bt/dots-program-new/
 - **Sarawak Science Centre · SSCiEX** — Малайзия; дата неизвестна. Со взрослым; условия взрослого входа отдельно. https://ssciex.org.my/home/faq/
 - **CySec Brunei 2026 · Resilient by Design** — Бруней-Даруссалам; 2026-09-15 – 2026-09-16. Детский допуск уточнить. https://cysec.bcsa.bn/
+- **Feria Científica del Ingenio Juvenil 2026 · SENACYT** — Панама; 2026-10-14 – 2026-10-16. Детский допуск уточнить. https://feriacientifica.senacyt.gob.pa/
+- **Feria Científica del Ingenio Juvenil · next edition** — Панама; дата неизвестна. Детский допуск уточнить. https://feriacientifica.senacyt.gob.pa/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors
