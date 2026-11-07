@@ -580,8 +580,8 @@
       }
     ],
     "counts": {
-      "records": 3998,
-      "holiday": 3730,
+      "records": 4002,
+      "holiday": 3734,
       "regular": 114,
       "self_paced_materials": 2,
       "boarding": 1026,
@@ -309531,6 +309531,262 @@
         "label": "Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida."
       },
       "date_rule": "El horario incluye días lectivos consecutivos de la tabla de la semana elegida."
+    },
+    {
+      "id": "CP1612-20270104-20270115",
+      "block": "Campamentos",
+      "title": "Wonder Camps · Junior · Turno diurno · 2027-01-04–2027-01-15",
+      "country": "Chile",
+      "region": "América del Sur",
+      "city": "Santiago, Chile",
+      "start": "2027-01-04",
+      "end": "2027-01-15",
+      "period": "Dos turnos en enero de 2027. Clases de 09:00–13:15, puertas desde las 08:30.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "7–12 años. Grupos 7–9 y 10–12 años.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida.",
+      "gear": "Campamento general con actividades optativas. Incluye robótica, Scratch, 3D y Little Makers. Confirmar parrilla para el grupo de edad.",
+      "language": "Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.",
+      "cost": "2027 · $270000 por turno. Opción de 1 semana $150000. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida.",
+      "source": "https://www.wondercamps.cl/summerjuniorcamp",
+      "references": [
+        {
+          "url": "https://www.wondercamps.cl/summerjuniorcamp",
+          "label": "Calendario y condiciones oficiales de temporada"
+        },
+        {
+          "url": "https://www.wondercamps.cl/terms-conditions",
+          "label": "Reglas y condiciones de admisión"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Edad adecuada. El organizador confirma la plaza. Oscar: Si cumple 7 años al inicio del turno. Confirmar cómo se calcula la edad. Suplementos: Viaje y alojamiento familiar aparte. La página muestra el precio con $, confirmar código de moneda. Ordenador propio para robótica, 3D y Scratch. Pago: Plaza confirmada tras pago total. Las condiciones prevén devolución total si el organizador cancela el turno completo.",
+      "iso": [
+        "CHL"
+      ],
+      "themes": [
+        "general",
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_session",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "wonder-santiago-junior",
+      "camp_programme_id": "CP1612",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Horario publicado. Plazas e inicio del grupo según demanda."
+      }
+    },
+    {
+      "id": "CP1612-20270118-20270129",
+      "block": "Campamentos",
+      "title": "Wonder Camps · Junior · Turno diurno · 2027-01-18–2027-01-29",
+      "country": "Chile",
+      "region": "América del Sur",
+      "city": "Santiago, Chile",
+      "start": "2027-01-18",
+      "end": "2027-01-29",
+      "period": "Dos turnos en enero de 2027. Clases de 09:00–13:15, puertas desde las 08:30.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "7–12 años. Grupos 7–9 y 10–12 años.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida.",
+      "gear": "Campamento general con actividades optativas. Incluye robótica, Scratch, 3D y Little Makers. Confirmar parrilla para el grupo de edad.",
+      "language": "Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.",
+      "cost": "2027 · $270000 por turno. Opción de 1 semana $150000. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida.",
+      "source": "https://www.wondercamps.cl/summerjuniorcamp",
+      "references": [
+        {
+          "url": "https://www.wondercamps.cl/summerjuniorcamp",
+          "label": "Calendario y condiciones oficiales de temporada"
+        },
+        {
+          "url": "https://www.wondercamps.cl/terms-conditions",
+          "label": "Reglas y condiciones de admisión"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Edad adecuada. El organizador confirma la plaza. Oscar: Si cumple 7 años al inicio del turno. Confirmar cómo se calcula la edad. Suplementos: Viaje y alojamiento familiar aparte. La página muestra el precio con $, confirmar código de moneda. Ordenador propio para robótica, 3D y Scratch. Pago: Plaza confirmada tras pago total. Las condiciones prevén devolución total si el organizador cancela el turno completo.",
+      "iso": [
+        "CHL"
+      ],
+      "themes": [
+        "general",
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_session",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "wonder-santiago-junior",
+      "camp_programme_id": "CP1612",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Horario publicado. Plazas e inicio del grupo según demanda."
+      }
+    },
+    {
+      "id": "CP1613-20270104-20270115",
+      "block": "Campamentos",
+      "title": "Wonder Camps · Early Years · Turno diurno · 2027-01-04–2027-01-15",
+      "country": "Chile",
+      "region": "América del Sur",
+      "city": "Santiago, Chile",
+      "start": "2027-01-04",
+      "end": "2027-01-15",
+      "period": "Dos turnos en enero de 2027. Clases de 09:00–13:15, puertas desde las 08:30.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "3–6 años.",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida.",
+      "gear": "Programa general con juegos, arte y exploración de la naturaleza. Los turnos incluyen temas de dinosaurios, jardín y océano.",
+      "language": "Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.",
+      "cost": "2027 · $270000 por turno. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida.",
+      "source": "https://www.wondercamps.cl/summerearlyyears",
+      "references": [
+        {
+          "url": "https://www.wondercamps.cl/summerearlyyears",
+          "label": "Calendario y condiciones oficiales de temporada"
+        },
+        {
+          "url": "https://www.wondercamps.cl/terms-conditions",
+          "label": "Reglas y condiciones de admisión"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Edad superior al rango de este grupo. Oscar: Si al inicio aún tiene 6 años. Confirmar cómo se calcula la edad. Suplementos: Viaje y alojamiento familiar aparte. La página muestra el precio con $, confirmar código de moneda. Pago: Plaza confirmada tras pago total. Las condiciones prevén devolución total si el organizador cancela el turno completo.",
+      "iso": [
+        "CHL"
+      ],
+      "themes": [
+        "general",
+        "science"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_session",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "wonder-santiago-early-years",
+      "camp_programme_id": "CP1613",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Horario publicado. Plazas e inicio del grupo según demanda."
+      }
+    },
+    {
+      "id": "CP1613-20270118-20270129",
+      "block": "Campamentos",
+      "title": "Wonder Camps · Early Years · Turno diurno · 2027-01-18–2027-01-29",
+      "country": "Chile",
+      "region": "América del Sur",
+      "city": "Santiago, Chile",
+      "start": "2027-01-18",
+      "end": "2027-01-29",
+      "period": "Dos turnos en enero de 2027. Clases de 09:00–13:15, puertas desde las 08:30.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "3–6 años.",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida.",
+      "gear": "Programa general con juegos, arte y exploración de la naturaleza. Los turnos incluyen temas de dinosaurios, jardín y océano.",
+      "language": "Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.",
+      "cost": "2027 · $270000 por turno. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida.",
+      "source": "https://www.wondercamps.cl/summerearlyyears",
+      "references": [
+        {
+          "url": "https://www.wondercamps.cl/summerearlyyears",
+          "label": "Calendario y condiciones oficiales de temporada"
+        },
+        {
+          "url": "https://www.wondercamps.cl/terms-conditions",
+          "label": "Reglas y condiciones de admisión"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Edad superior al rango de este grupo. Oscar: Si al inicio aún tiene 6 años. Confirmar cómo se calcula la edad. Suplementos: Viaje y alojamiento familiar aparte. La página muestra el precio con $, confirmar código de moneda. Pago: Plaza confirmada tras pago total. Las condiciones prevén devolución total si el organizador cancela el turno completo.",
+      "iso": [
+        "CHL"
+      ],
+      "themes": [
+        "general",
+        "science"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_session",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "wonder-santiago-early-years",
+      "camp_programme_id": "CP1613",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Horario publicado. Plazas e inicio del grupo según demanda."
+      }
     },
     {
       "id": "L491",

@@ -28,7 +28,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E009@family-stem.local
-DTSTAMP:20261105T045755Z
+DTSTAMP:20261107T082208Z
 SUMMARY:[Exposición · confirmar admisión de menores] Maker Faire Shenz
  hen 2026
 DTSTART;VALUE=DATE:20261212
@@ -36,15 +36,14 @@ DTEND;VALUE=DATE:20261214
 DESCRIPTION:Idea de visita\; no es una inscripción aceptada. El formato 
  de Maker es potencialmente de interés para la familia\; el acceso actua
  l de los niños y el boleto local se confirman en el anfitrión. Entrada
-  de adultos: Confirmar reglas de entrada general e infantil 2026. Plazo 
- de propuesta maker 30 de octubre ya pasado\; ALPHA es pase pagado y rese
- rva de talleres aparte.. 12–13 de diciembre\, Vanke Design Commune\, N
- anshan. Noticia 28 de octubre anuncia primeros 98 puestos\, no número f
- inal de empresas. ALPHA puede incluir robots / IA\, pero edad e idioma s
- in confirmar. Empresas: Es un festival de proyectos y creadores\, no un 
- catálogo completo de compañías de robótica del mundo.. Fuente verifi
- cada el 2026-11-04.
-LOCATION:Shenzhen\, Vanke Design Commune\, China
+  de adultos: El organizador publicó fecha y sede del festival. ALPHA re
+ quiere pase separado. Confirmar edad e idioma del taller concreto.. 12
+ –13 de diciembre\, Vanke Design Commune\, Nanshan. Noticia 28 de octub
+ re anuncia primeros 98 puestos\, no número final de empresas. ALPHA pue
+ de incluir robots / IA\, pero edad e idioma sin confirmar. Empresas: Es 
+ un festival de proyectos y creadores\, no un catálogo completo de compa
+ ñías de robótica del mundo.. Fuente verificada el 2026-11-07.
+LOCATION:Vanke Cloud Design Commune · Nanshan\, Shenzhen\, China
 URL:https://www.shenzhenmakerfaire.com/
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
@@ -3066,6 +3065,83 @@ DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Condicional
 LOCATION:Miami Beach Convention Center · Miami Beach\, Florida\, Estados
   Unidos
 URL:https://www.xponential.org/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E290@family-stem.local
+DTSTAMP:20261107T082208Z
+SUMMARY:[Exposición · confirmar admisión de menores] Hangzhou Internat
+ ional Humanoid Robot & Robotics Technology Exhibition
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270530
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Condicional
+ . Confirmar edad de visitante y acompañamiento. Entrada de adultos: Exp
+ osición profesional. Confirmar registro de adultos y normas para menore
+ s para esta edición..  Empresas: Consultar la lista de expositores de e
+ sta edición en el catálogo del organizador.. Fuente verificada el 2026
+ -11-07.
+LOCATION:Hangzhou Grand Convention and Exhibition Center · 杭州大会
+ 展中心\, China
+URL:https://www.humanoidrobotshow.com.cn/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E291@family-stem.local
+DTSTAMP:20261107T082208Z
+SUMMARY:[Exposición · confirmar admisión de menores] SEAI Guangzhou ·
+  Robotics Industry Ecosystem / LET-a CeMAT
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270605
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Acceso desd
+ e 18 años en días profesionales. Confirmar edad para la jornada genera
+ l. Entrada de adultos: Días profesionales del 2 al 4 de junio\, 09:00
+ –17:00\, desde 18 años. La página china indica jornada general el 4 
+ de junio\, 09:00–16:00. La inglesa indica 2026 para la jornada general
+ . Confirmar acceso infantil y pabellones..  Empresas: Consultar la lista
+  de expositores de esta edición en el catálogo del organizador.. Fuent
+ e verificada el 2026-11-07.
+LOCATION:Canton Fair Complex · Area A\, Guangzhou\, China
+URL:https://seaigz.com/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E292@family-stem.local
+DTSTAMP:20261107T082208Z
+SUMMARY:[Exposición · confirmar admisión de menores] AGIC / GERX Shenz
+ hen 2027
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270904
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Condicional
+ . Confirmar edad de visitante y acompañamiento. Entrada de adultos: Exp
+ osición profesional. Confirmar registro de adultos y normas para menore
+ s para esta edición..  Empresas: Consultar la lista de expositores de e
+ sta edición en el catálogo del organizador.. Fuente verificada el 2026
+ -11-07.
+LOCATION:Shenzhen World Exhibition & Convention Center · Bao’an · hal
+ ls 9–13\, China
+URL:https://www.szaiexpo.com/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E293@family-stem.local
+DTSTAMP:20261107T082208Z
+SUMMARY:[Exposición · confirmar admisión de menores] ROBOTECH Shenzhen
+  2027
+DTSTART;VALUE=DATE:20271027
+DTEND;VALUE=DATE:20271030
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Condicional
+ . Confirmar edad de visitante y acompañamiento. Entrada de adultos: Exp
+ osición profesional. Confirmar registro de adultos y normas para menore
+ s para esta edición..  Empresas: Consultar la lista de expositores de e
+ sta edición en el catálogo del organizador.. Fuente verificada el 2026
+ -11-07.
+LOCATION:Shenzhen World Exhibition & Convention Center · Bao’an\, Chin
+ a
+URL:https://www.robotechasia.com/
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT

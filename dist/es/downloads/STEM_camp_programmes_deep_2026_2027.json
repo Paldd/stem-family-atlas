@@ -30,14 +30,14 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1611,
+    "dossiers": 1621,
     "countries": 91,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 211,
-      "published_2027": 443,
+      "published_2027": 445,
       "partial_2027": 131,
-      "next_unannounced": 330,
+      "next_unannounced": 338,
       "published_2026": 297,
       "partial_2026_27": 28,
       "partial_2026": 20,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 1,
       "confirmed_2027": 1
     },
-    "source_urls": 2331
+    "source_urls": 2336
   },
   "countries": [
     {
@@ -373,7 +373,7 @@
     },
     {
       "country": "Chile",
-      "count": 18
+      "count": 28
     },
     {
       "country": "Suiza",
@@ -262405,6 +262405,903 @@
           ]
         }
       ]
+    },
+    {
+      "id": "CP1612",
+      "slug": "wonder-santiago-junior",
+      "provider": "Wonder Camps · Junior",
+      "country": "Chile",
+      "iso": "CHL",
+      "place": "Santiago, Chile",
+      "themes": [
+        "general",
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "7–12 años. Grupos 7–9 y 10–12 años.",
+      "language": "Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.",
+      "confirmed_instruction_languages": [],
+      "programme": "Campamento general con actividades optativas. Incluye robótica, Scratch, 3D y Little Makers. Confirmar parrilla para el grupo de edad.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Dos turnos en enero de 2027. Clases de 09:00–13:15, puertas desde las 08:30.",
+        "sessions": [
+          [
+            "2027-01-04",
+            "2027-01-15"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-15",
+            "label": "Turno diurno",
+            "price": "$270000 por turno. Opción de 1 semana $150000.",
+            "source": "https://www.wondercamps.cl/summerjuniorcamp",
+            "place": "Santiago, Chile",
+            "age": "7–12 años. Grupos 7–9 y 10–12 años.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada. El organizador confirma la plaza."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Si cumple 7 años al inicio del turno. Confirmar cómo se calcula la edad."
+              }
+            },
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Horario publicado. Plazas e inicio del grupo según demanda."
+            },
+            "programme": "Campamento general con actividades optativas. Incluye robótica, Scratch, 3D y Little Makers. Confirmar parrilla para el grupo de edad.",
+            "entry": "Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida.",
+            "extras": "Viaje y alojamiento familiar aparte. La página muestra el precio con $, confirmar código de moneda. Ordenador propio para robótica, 3D y Scratch.",
+            "deposit": "Plaza confirmada tras pago total. Las condiciones prevén devolución total si el organizador cancela el turno completo.",
+            "questions": [
+              "Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida."
+            ]
+          },
+          {
+            "start": "2027-01-18",
+            "end": "2027-01-29",
+            "label": "Turno diurno",
+            "price": "$270000 por turno. Opción de 1 semana $150000.",
+            "source": "https://www.wondercamps.cl/summerjuniorcamp",
+            "place": "Santiago, Chile",
+            "age": "7–12 años. Grupos 7–9 y 10–12 años.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada. El organizador confirma la plaza."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Si cumple 7 años al inicio del turno. Confirmar cómo se calcula la edad."
+              }
+            },
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Horario publicado. Plazas e inicio del grupo según demanda."
+            },
+            "programme": "Campamento general con actividades optativas. Incluye robótica, Scratch, 3D y Little Makers. Confirmar parrilla para el grupo de edad.",
+            "entry": "Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida.",
+            "extras": "Viaje y alojamiento familiar aparte. La página muestra el precio con $, confirmar código de moneda. Ordenador propio para robótica, 3D y Scratch.",
+            "deposit": "Plaza confirmada tras pago total. Las condiciones prevén devolución total si el organizador cancela el turno completo.",
+            "questions": [
+              "Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida."
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "label": "$270000 por turno. Opción de 1 semana $150000.",
+        "included": "Fruta para la merienda.",
+        "extras": "Viaje y alojamiento familiar aparte. La página muestra el precio con $, confirmar código de moneda. Ordenador propio para robótica, 3D y Scratch.",
+        "deposit": "Plaza confirmada tras pago total. Las condiciones prevén devolución total si el organizador cancela el turno completo. Reembolso por cancelación familiar: más de 4 semanas — 100%, de 2 a 4 semanas — 75%, de 1 a 2 semanas — 50%, menos de 1 semana — sin devolución."
+      },
+      "accommodation": "Programa diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Edad adecuada. El organizador confirma la plaza."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Si cumple 7 años al inicio del turno. Confirmar cómo se calcula la edad."
+        }
+      },
+      "editorial_reason": "Ficha editorial para comparar programa, admisión escolar y presupuesto.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida."
+      ],
+      "sources": [
+        {
+          "url": "https://www.wondercamps.cl/summerjuniorcamp",
+          "title": "Calendario y condiciones oficiales de temporada",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.wondercamps.cl/terms-conditions",
+          "title": "Reglas y condiciones de admisión",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Horario publicado. Plazas e inicio del grupo según demanda."
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1612-20270104-20270115"
+          ]
+        },
+        {
+          "start": "2027-01-18",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1612-20270118-20270129"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1613",
+      "slug": "wonder-santiago-early-years",
+      "provider": "Wonder Camps · Early Years",
+      "country": "Chile",
+      "iso": "CHL",
+      "place": "Santiago, Chile",
+      "themes": [
+        "general",
+        "science"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "3–6 años.",
+      "language": "Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.",
+      "confirmed_instruction_languages": [],
+      "programme": "Programa general con juegos, arte y exploración de la naturaleza. Los turnos incluyen temas de dinosaurios, jardín y océano.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Dos turnos en enero de 2027. Clases de 09:00–13:15, puertas desde las 08:30.",
+        "sessions": [
+          [
+            "2027-01-04",
+            "2027-01-15"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-15",
+            "label": "Turno diurno",
+            "price": "$270000 por turno.",
+            "source": "https://www.wondercamps.cl/summerearlyyears",
+            "place": "Santiago, Chile",
+            "age": "3–6 años.",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Edad superior al rango de este grupo."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Si al inicio aún tiene 6 años. Confirmar cómo se calcula la edad."
+              }
+            },
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Horario publicado. Plazas e inicio del grupo según demanda."
+            },
+            "programme": "Programa general con juegos, arte y exploración de la naturaleza. Los turnos incluyen temas de dinosaurios, jardín y océano.",
+            "entry": "Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida.",
+            "extras": "Viaje y alojamiento familiar aparte. La página muestra el precio con $, confirmar código de moneda.",
+            "deposit": "Plaza confirmada tras pago total. Las condiciones prevén devolución total si el organizador cancela el turno completo.",
+            "questions": [
+              "Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida."
+            ]
+          },
+          {
+            "start": "2027-01-18",
+            "end": "2027-01-29",
+            "label": "Turno diurno",
+            "price": "$270000 por turno.",
+            "source": "https://www.wondercamps.cl/summerearlyyears",
+            "place": "Santiago, Chile",
+            "age": "3–6 años.",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Edad superior al rango de este grupo."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Si al inicio aún tiene 6 años. Confirmar cómo se calcula la edad."
+              }
+            },
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Horario publicado. Plazas e inicio del grupo según demanda."
+            },
+            "programme": "Programa general con juegos, arte y exploración de la naturaleza. Los turnos incluyen temas de dinosaurios, jardín y océano.",
+            "entry": "Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida.",
+            "extras": "Viaje y alojamiento familiar aparte. La página muestra el precio con $, confirmar código de moneda.",
+            "deposit": "Plaza confirmada tras pago total. Las condiciones prevén devolución total si el organizador cancela el turno completo.",
+            "questions": [
+              "Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida."
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "label": "$270000 por turno.",
+        "included": "Fruta para la merienda.",
+        "extras": "Viaje y alojamiento familiar aparte. La página muestra el precio con $, confirmar código de moneda.",
+        "deposit": "Plaza confirmada tras pago total. Las condiciones prevén devolución total si el organizador cancela el turno completo. Reembolso por cancelación familiar: más de 4 semanas — 100%, de 2 a 4 semanas — 75%, de 1 a 2 semanas — 50%, menos de 1 semana — sin devolución."
+      },
+      "accommodation": "Programa diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Edad superior al rango de este grupo."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Si al inicio aún tiene 6 años. Confirmar cómo se calcula la edad."
+        }
+      },
+      "editorial_reason": "Ficha editorial para comparar programa, admisión escolar y presupuesto.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida."
+      ],
+      "sources": [
+        {
+          "url": "https://www.wondercamps.cl/summerearlyyears",
+          "title": "Calendario y condiciones oficiales de temporada",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.wondercamps.cl/terms-conditions",
+          "title": "Reglas y condiciones de admisión",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Horario publicado. Plazas e inicio del grupo según demanda."
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1613-20270104-20270115"
+          ]
+        },
+        {
+          "start": "2027-01-18",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1613-20270118-20270129"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1614",
+      "slug": "wonder-santiago-tech-little-makers",
+      "provider": "Wonder Camps · Little Makers",
+      "country": "Chile",
+      "iso": "CHL",
+      "place": "Santiago, Chile",
+      "themes": [
+        "robotics",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "6–8 años, referencia del organizador.",
+      "language": "Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.",
+      "confirmed_instruction_languages": [],
+      "programme": "Motores, sensores, mecanismos y montaje de robot propio. Horario de clases publicado 09:00–13:00.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "La página en español indica 4–15 y 18–29 de enero sin año. La versión inglesa muestra otras fechas de enero. Confirmar horario de esta disciplina para 2027.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "label": "$290000 por turno en página en español. Confirmar tarifa de temporada.",
+        "included": "Fruta para la merienda.",
+        "extras": "Viaje y alojamiento familiar aparte. La página muestra el precio con $, confirmar código de moneda. Ordenador propio para las clases.",
+        "deposit": "Plaza confirmada tras pago total. Las condiciones prevén devolución total si el organizador cancela el turno completo. Reembolso por cancelación familiar: más de 4 semanas — 100%, de 2 a 4 semanas — 75%, de 1 a 2 semanas — 50%, menos de 1 semana — sin devolución."
+      },
+      "accommodation": "Programa diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Edad superior al rango de este grupo."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Confirmar plaza, condiciones de pago y devolución con el organizador."
+        }
+      },
+      "editorial_reason": "Ficha editorial para comparar programa, admisión escolar y presupuesto.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida."
+      ],
+      "sources": [
+        {
+          "url": "https://www.wondercamps.cl/summertechcamp",
+          "title": "Ficha del curso y tarifa publicada",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.wondercamps.cl/en/summertechcamp",
+          "title": "Horario e información de la exposición",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.wondercamps.cl/terms-conditions",
+          "title": "Reglas y condiciones de admisión",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar turno, grupo mínimo y plazas."
+      },
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1615",
+      "slug": "wonder-santiago-tech-3d-makers",
+      "provider": "Wonder Camps · 3D Makers",
+      "country": "Chile",
+      "iso": "CHL",
+      "place": "Santiago, Chile",
+      "themes": [
+        "engineering",
+        "design"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "10–12 años, referencia del organizador.",
+      "language": "Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.",
+      "confirmed_instruction_languages": [],
+      "programme": "Diseño en Tinkercad y creación de dispensador de dulces. Horario de clases publicado 09:00–13:00.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "La página en español indica 4–15 y 18–29 de enero sin año. La versión inglesa muestra otras fechas de enero. Confirmar horario de esta disciplina para 2027.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "label": "$290000 por turno en página en español. Confirmar tarifa de temporada.",
+        "included": "Fruta para la merienda.",
+        "extras": "Viaje y alojamiento familiar aparte. La página muestra el precio con $, confirmar código de moneda. Ordenador propio para las clases.",
+        "deposit": "Plaza confirmada tras pago total. Las condiciones prevén devolución total si el organizador cancela el turno completo. Reembolso por cancelación familiar: más de 4 semanas — 100%, de 2 a 4 semanas — 75%, de 1 a 2 semanas — 50%, menos de 1 semana — sin devolución."
+      },
+      "accommodation": "Programa diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Puede encajar si cumple 10 años al inicio del turno. La edad es orientativa."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "El nivel es superior a la edad actual. Comprobar reglas del turno."
+        }
+      },
+      "editorial_reason": "Ficha editorial para comparar programa, admisión escolar y presupuesto.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida."
+      ],
+      "sources": [
+        {
+          "url": "https://www.wondercamps.cl/summertechcamp",
+          "title": "Ficha del curso y tarifa publicada",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.wondercamps.cl/en/summertechcamp",
+          "title": "Horario e información de la exposición",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.wondercamps.cl/terms-conditions",
+          "title": "Reglas y condiciones de admisión",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar turno, grupo mínimo y plazas."
+      },
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1616",
+      "slug": "wonder-santiago-tech-intro-robotics",
+      "provider": "Wonder Camps · Introducción a la Robótica",
+      "country": "Chile",
+      "iso": "CHL",
+      "place": "Santiago, Chile",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "10–12 años, referencia del organizador.",
+      "language": "Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.",
+      "confirmed_instruction_languages": [],
+      "programme": "Circuitos, mecánica, C++, Arduino y robot Proxibot. Horario de clases publicado 09:00–13:00.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "La página en español indica 4–15 y 18–29 de enero sin año. La versión inglesa muestra otras fechas de enero. Confirmar horario de esta disciplina para 2027.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "label": "$290000 por turno en página en español. Confirmar tarifa de temporada.",
+        "included": "Fruta para la merienda.",
+        "extras": "Viaje y alojamiento familiar aparte. La página muestra el precio con $, confirmar código de moneda. Ordenador propio para las clases.",
+        "deposit": "Plaza confirmada tras pago total. Las condiciones prevén devolución total si el organizador cancela el turno completo. Reembolso por cancelación familiar: más de 4 semanas — 100%, de 2 a 4 semanas — 75%, de 1 a 2 semanas — 50%, menos de 1 semana — sin devolución."
+      },
+      "accommodation": "Programa diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Puede encajar si cumple 10 años al inicio del turno. La edad es orientativa."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "El nivel es superior a la edad actual. Comprobar reglas del turno."
+        }
+      },
+      "editorial_reason": "Ficha editorial para comparar programa, admisión escolar y presupuesto.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida."
+      ],
+      "sources": [
+        {
+          "url": "https://www.wondercamps.cl/summertechcamp",
+          "title": "Ficha del curso y tarifa publicada",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.wondercamps.cl/en/summertechcamp",
+          "title": "Horario e información de la exposición",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.wondercamps.cl/terms-conditions",
+          "title": "Reglas y condiciones de admisión",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar turno, grupo mínimo y plazas."
+      },
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1617",
+      "slug": "wonder-santiago-tech-unity",
+      "provider": "Wonder Camps · Diseño de Video Juego en Unity",
+      "country": "Chile",
+      "iso": "CHL",
+      "place": "Santiago, Chile",
+      "themes": [
+        "games",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "12–14 años, referencia del organizador.",
+      "language": "Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.",
+      "confirmed_instruction_languages": [],
+      "programme": "Videojuegos 2D y 3D, C#, física y diseño de niveles en Unity. Horario de clases publicado 09:00–13:00.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "La página en español indica 4–15 y 18–29 de enero sin año. La versión inglesa muestra otras fechas de enero. Confirmar horario de esta disciplina para 2027.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "label": "$360000 por turno en página en español. Confirmar tarifa de temporada.",
+        "included": "Fruta para la merienda.",
+        "extras": "Viaje y alojamiento familiar aparte. La página muestra el precio con $, confirmar código de moneda. Ordenador propio para las clases.",
+        "deposit": "Plaza confirmada tras pago total. Las condiciones prevén devolución total si el organizador cancela el turno completo. Reembolso por cancelación familiar: más de 4 semanas — 100%, de 2 a 4 semanas — 75%, de 1 a 2 semanas — 50%, menos de 1 semana — sin devolución."
+      },
+      "accommodation": "Programa diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "El nivel es superior a la edad actual. Comprobar reglas del turno."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "El nivel es superior a la edad actual. Comprobar reglas del turno."
+        }
+      },
+      "editorial_reason": "Ficha editorial para comparar programa, admisión escolar y presupuesto.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida."
+      ],
+      "sources": [
+        {
+          "url": "https://www.wondercamps.cl/summertechcamp",
+          "title": "Ficha del curso y tarifa publicada",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.wondercamps.cl/en/summertechcamp",
+          "title": "Horario e información de la exposición",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.wondercamps.cl/terms-conditions",
+          "title": "Reglas y condiciones de admisión",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar turno, grupo mínimo y plazas."
+      },
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1618",
+      "slug": "wonder-santiago-tech-scratch",
+      "provider": "Wonder Camps · Coding in Scratch",
+      "country": "Chile",
+      "iso": "CHL",
+      "place": "Santiago, Chile",
+      "themes": [
+        "coding",
+        "games"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "10–12 años, referencia del organizador.",
+      "language": "Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.",
+      "confirmed_instruction_languages": [],
+      "programme": "Algoritmos por bloques y videojuego propio en Scratch. Horario de clases publicado 09:00–13:00.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "La página en español indica 4–15 y 18–29 de enero sin año. La versión inglesa muestra otras fechas de enero. Confirmar horario de esta disciplina para 2027.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "label": "$290000 por turno en página en español. Confirmar tarifa de temporada.",
+        "included": "Fruta para la merienda.",
+        "extras": "Viaje y alojamiento familiar aparte. La página muestra el precio con $, confirmar código de moneda. Ordenador propio para las clases.",
+        "deposit": "Plaza confirmada tras pago total. Las condiciones prevén devolución total si el organizador cancela el turno completo. Reembolso por cancelación familiar: más de 4 semanas — 100%, de 2 a 4 semanas — 75%, de 1 a 2 semanas — 50%, menos de 1 semana — sin devolución."
+      },
+      "accommodation": "Programa diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Puede encajar si cumple 10 años al inicio del turno. La edad es orientativa."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "El nivel es superior a la edad actual. Comprobar reglas del turno."
+        }
+      },
+      "editorial_reason": "Ficha editorial para comparar programa, admisión escolar y presupuesto.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida."
+      ],
+      "sources": [
+        {
+          "url": "https://www.wondercamps.cl/summertechcamp",
+          "title": "Ficha del curso y tarifa publicada",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.wondercamps.cl/en/summertechcamp",
+          "title": "Horario e información de la exposición",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.wondercamps.cl/terms-conditions",
+          "title": "Reglas y condiciones de admisión",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar turno, grupo mínimo y plazas."
+      },
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1619",
+      "slug": "wonder-santiago-tech-ai",
+      "provider": "Wonder Camps · Smart Machines · Introducción a la Inteligencia Artificial",
+      "country": "Chile",
+      "iso": "CHL",
+      "place": "Santiago, Chile",
+      "themes": [
+        "ai",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "12–14 años, referencia del organizador.",
+      "language": "Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.",
+      "confirmed_instruction_languages": [],
+      "programme": "Datos, clasificación, entrenamiento de modelos y proyectos con chatbot e imágenes. Horario de clases publicado 09:00–13:00.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "La página en español indica 4–15 y 18–29 de enero sin año. La versión inglesa muestra otras fechas de enero. Confirmar horario de esta disciplina para 2027.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "label": "$360000 por turno en página en español. Confirmar tarifa de temporada.",
+        "included": "Fruta para la merienda.",
+        "extras": "Viaje y alojamiento familiar aparte. La página muestra el precio con $, confirmar código de moneda. Ordenador propio para las clases.",
+        "deposit": "Plaza confirmada tras pago total. Las condiciones prevén devolución total si el organizador cancela el turno completo. Reembolso por cancelación familiar: más de 4 semanas — 100%, de 2 a 4 semanas — 75%, de 1 a 2 semanas — 50%, menos de 1 semana — sin devolución."
+      },
+      "accommodation": "Programa diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "El nivel es superior a la edad actual. Comprobar reglas del turno."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "El nivel es superior a la edad actual. Comprobar reglas del turno."
+        }
+      },
+      "editorial_reason": "Ficha editorial para comparar programa, admisión escolar y presupuesto.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida."
+      ],
+      "sources": [
+        {
+          "url": "https://www.wondercamps.cl/summertechcamp",
+          "title": "Ficha del curso y tarifa publicada",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.wondercamps.cl/en/summertechcamp",
+          "title": "Horario e información de la exposición",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.wondercamps.cl/terms-conditions",
+          "title": "Reglas y condiciones de admisión",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar turno, grupo mínimo y plazas."
+      },
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1620",
+      "slug": "wonder-santiago-tech-python",
+      "provider": "Wonder Camps · Level Up with Python",
+      "country": "Chile",
+      "iso": "CHL",
+      "place": "Santiago, Chile",
+      "themes": [
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "12–14 años, referencia del organizador.",
+      "language": "Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.",
+      "confirmed_instruction_languages": [],
+      "programme": "Variables, bucles, funciones y proyectos interactivos en Python. Horario de clases publicado 09:00–13:00.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "La página en español indica 4–15 y 18–29 de enero sin año. La versión inglesa muestra otras fechas de enero. Confirmar horario de esta disciplina para 2027.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "label": "$290000 por turno en página en español. Confirmar tarifa de temporada.",
+        "included": "Fruta para la merienda.",
+        "extras": "Viaje y alojamiento familiar aparte. La página muestra el precio con $, confirmar código de moneda. Ordenador propio para las clases.",
+        "deposit": "Plaza confirmada tras pago total. Las condiciones prevén devolución total si el organizador cancela el turno completo. Reembolso por cancelación familiar: más de 4 semanas — 100%, de 2 a 4 semanas — 75%, de 1 a 2 semanas — 50%, menos de 1 semana — sin devolución."
+      },
+      "accommodation": "Programa diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "El nivel es superior a la edad actual. Comprobar reglas del turno."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "El nivel es superior a la edad actual. Comprobar reglas del turno."
+        }
+      },
+      "editorial_reason": "Ficha editorial para comparar programa, admisión escolar y presupuesto.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida."
+      ],
+      "sources": [
+        {
+          "url": "https://www.wondercamps.cl/summertechcamp",
+          "title": "Ficha del curso y tarifa publicada",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.wondercamps.cl/en/summertechcamp",
+          "title": "Horario e información de la exposición",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.wondercamps.cl/terms-conditions",
+          "title": "Reglas y condiciones de admisión",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar turno, grupo mínimo y plazas."
+      },
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1621",
+      "slug": "wonder-santiago-tech-advanced-robotics",
+      "provider": "Wonder Camps · Robótica Avanzada",
+      "country": "Chile",
+      "iso": "CHL",
+      "place": "Santiago, Chile",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "12–14 años, referencia del organizador.",
+      "language": "Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.",
+      "confirmed_instruction_languages": [],
+      "programme": "Seguimiento de línea, navegación y garra mecánica con servos. Horario de clases publicado 09:00–13:00.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "La página en español indica 4–15 y 18–29 de enero sin año. La versión inglesa muestra otras fechas de enero. Confirmar horario de esta disciplina para 2027.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "label": "$360000 por turno en página en español. Confirmar tarifa de temporada.",
+        "included": "Fruta para la merienda.",
+        "extras": "Viaje y alojamiento familiar aparte. La página muestra el precio con $, confirmar código de moneda. Ordenador propio para las clases.",
+        "deposit": "Plaza confirmada tras pago total. Las condiciones prevén devolución total si el organizador cancela el turno completo. Reembolso por cancelación familiar: más de 4 semanas — 100%, de 2 a 4 semanas — 75%, de 1 a 2 semanas — 50%, menos de 1 semana — sin devolución."
+      },
+      "accommodation": "Programa diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "El nivel es superior a la edad actual. Comprobar reglas del turno."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "El nivel es superior a la edad actual. Comprobar reglas del turno."
+        }
+      },
+      "editorial_reason": "Ficha editorial para comparar programa, admisión escolar y presupuesto.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida."
+      ],
+      "sources": [
+        {
+          "url": "https://www.wondercamps.cl/summertechcamp",
+          "title": "Ficha del curso y tarifa publicada",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.wondercamps.cl/en/summertechcamp",
+          "title": "Horario e información de la exposición",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.wondercamps.cl/terms-conditions",
+          "title": "Reglas y condiciones de admisión",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar turno, grupo mínimo y plazas."
+      },
+      "related_event_ids": [],
+      "calendar_links": []
     }
   ],
   "gaps": [
@@ -267730,7 +268627,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 204,
+  "version": 205,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -280965,7 +281862,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1611,
+      "total_dossiers": 1621,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -298590,6 +299487,26 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP1612",
+      "event_id": "CP1612-20270104-20270115",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1612",
+      "event_id": "CP1612-20270118-20270129",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1613",
+      "event_id": "CP1613-20270104-20270115",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1613",
+      "event_id": "CP1613-20270118-20270129",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -302373,10 +303290,14 @@
     "CP1611-20261228-20261231",
     "CP1611-20270104-20270106",
     "CP1611-20270104-20270107",
-    "CP1611-20270104-20270108"
+    "CP1611-20270104-20270108",
+    "CP1612-20270104-20270115",
+    "CP1612-20270118-20270129",
+    "CP1613-20270104-20270115",
+    "CP1613-20270118-20270129"
   ],
   "integration": {
-    "generated_sessions": 3353,
+    "generated_sessions": 3357,
     "reused_legacy_events": 69,
     "seasonal_windows": 60,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

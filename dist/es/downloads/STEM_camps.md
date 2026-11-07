@@ -62758,6 +62758,70 @@ Limitaciones: Matvey: El menor supera la edad máxima del programa. Oscar: El me
 Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_0a9b15e105484fe19584329fb1dfb409.pdf
 Se ha comprobado: 2026-11-07
 
+### CP1612-20270104-20270115 · Wonder Camps · Junior · Turno diurno · 2027-01-04–2027-01-15
+
+lugar: Chile · Santiago, Chile
+Fecha: 2027-01-04 — 2027-01-15
+edad: 7–12 años. Grupos 7–9 y 10–12 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · $270000 por turno. Opción de 1 semana $150000. · suplementos y condiciones en el dossier
+Acceso: Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida.
+Limitaciones: Matvey: Edad adecuada. El organizador confirma la plaza. Oscar: Si cumple 7 años al inicio del turno. Confirmar cómo se calcula la edad. Suplementos: Viaje y alojamiento familiar aparte. La página muestra el precio con $, confirmar código de moneda. Ordenador propio para robótica, 3D y Scratch. Pago: Plaza confirmada tras pago total. Las condiciones prevén devolución total si el organizador cancela el turno completo.
+Fuente: https://www.wondercamps.cl/summerjuniorcamp
+Se ha comprobado: 2026-11-07
+
+### CP1612-20270118-20270129 · Wonder Camps · Junior · Turno diurno · 2027-01-18–2027-01-29
+
+lugar: Chile · Santiago, Chile
+Fecha: 2027-01-18 — 2027-01-29
+edad: 7–12 años. Grupos 7–9 y 10–12 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · $270000 por turno. Opción de 1 semana $150000. · suplementos y condiciones en el dossier
+Acceso: Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida.
+Limitaciones: Matvey: Edad adecuada. El organizador confirma la plaza. Oscar: Si cumple 7 años al inicio del turno. Confirmar cómo se calcula la edad. Suplementos: Viaje y alojamiento familiar aparte. La página muestra el precio con $, confirmar código de moneda. Ordenador propio para robótica, 3D y Scratch. Pago: Plaza confirmada tras pago total. Las condiciones prevén devolución total si el organizador cancela el turno completo.
+Fuente: https://www.wondercamps.cl/summerjuniorcamp
+Se ha comprobado: 2026-11-07
+
+### CP1613-20270104-20270115 · Wonder Camps · Early Years · Turno diurno · 2027-01-04–2027-01-15
+
+lugar: Chile · Santiago, Chile
+Fecha: 2027-01-04 — 2027-01-15
+Edad: 3–6 años.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · $270000 por turno. · suplementos y condiciones en el dossier
+Acceso: Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida.
+Limitaciones: Matvey: Edad superior al rango de este grupo. Oscar: Si al inicio aún tiene 6 años. Confirmar cómo se calcula la edad. Suplementos: Viaje y alojamiento familiar aparte. La página muestra el precio con $, confirmar código de moneda. Pago: Plaza confirmada tras pago total. Las condiciones prevén devolución total si el organizador cancela el turno completo.
+Fuente: https://www.wondercamps.cl/summerearlyyears
+Se ha comprobado: 2026-11-07
+
+### CP1613-20270118-20270129 · Wonder Camps · Early Years · Turno diurno · 2027-01-18–2027-01-29
+
+lugar: Chile · Santiago, Chile
+Fecha: 2027-01-18 — 2027-01-29
+Edad: 3–6 años.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · $270000 por turno. · suplementos y condiciones en el dossier
+Acceso: Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida.
+Limitaciones: Matvey: Edad superior al rango de este grupo. Oscar: Si al inicio aún tiene 6 años. Confirmar cómo se calcula la edad. Suplementos: Viaje y alojamiento familiar aparte. La página muestra el precio con $, confirmar código de moneda. Pago: Plaza confirmada tras pago total. Las condiciones prevén devolución total si el organizador cancela el turno completo.
+Fuente: https://www.wondercamps.cl/summerearlyyears
+Se ha comprobado: 2026-11-07
+
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
 
 lugar: Letonia · EIS Campus · Piņķi

@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-07. 1611 fichas en 91 países. Cada ficha indica las fechas de verificación de sus fuentes.
+Estado de la base: 2026-11-07. 1621 fichas detalladas en 91 países. Cada ficha indica las fechas de verificación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -124001,6 +124001,534 @@ Singapur · Singapore
 - [Ficha del curso y tarifa publicada](https://www.worklab.com.sg/mycamp-junior) · 2026-11-07
 
 - [Calendario y condiciones oficiales de temporada](https://www.worklab.com.sg/holiday-camps) · 2026-11-07
+
+## CP1612 · Wonder Camps · Junior
+
+Chile · Santiago, Chile
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 7–12 años. Grupos 7–9 y 10–12 años.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Campamento general con actividades optativas. Incluye robótica, Scratch, 3D y Little Makers. Confirmar parrilla para el grupo de edad.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Dos turnos en enero de 2027. Clases de 09:00–13:15, puertas desde las 08:30.
+
+**Precio / año:** 2027 · $270000 por turno. Opción de 1 semana $150000.
+
+**Incluido:** Fruta para la merienda.
+
+**Suplementos:** Viaje y alojamiento familiar aparte. La página muestra el precio con $, confirmar código de moneda. Ordenador propio para robótica, 3D y Scratch.
+
+**Pago:** Plaza confirmada tras pago total. Las condiciones prevén devolución total si el organizador cancela el turno completo. Reembolso por cancelación familiar: más de 4 semanas — 100%, de 2 a 4 semanas — 75%, de 1 a 2 semanas — 50%, menos de 1 semana — sin devolución.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** Si cumple 7 años al inicio del turno. Confirmar cómo se calcula la edad.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida.
+
+### Turno diurno
+
+**Fechas / estado:** 2027-01-04 — 2027-01-15
+
+**lugar:** Santiago, Chile
+
+**edad:** 7–12 años. Grupos 7–9 y 10–12 años.
+
+**Precio:** $270000 por turno. Opción de 1 semana $150000.
+
+**Programa:** Campamento general con actividades optativas. Incluye robótica, Scratch, 3D y Little Makers. Confirmar parrilla para el grupo de edad.
+
+**Suplementos:** Viaje y alojamiento familiar aparte. La página muestra el precio con $, confirmar código de moneda. Ordenador propio para robótica, 3D y Scratch.
+
+**Pago:** Plaza confirmada tras pago total. Las condiciones prevén devolución total si el organizador cancela el turno completo.
+
+**condiciones de participación:** Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida.
+
+**Disponibilidad de plazas:** Horario publicado. Plazas e inicio del grupo según demanda.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** Si cumple 7 años al inicio del turno. Confirmar cómo se calcula la edad.
+
+- Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida.
+
+[fuente](https://www.wondercamps.cl/summerjuniorcamp)
+
+### Turno diurno
+
+**Fechas / estado:** 2027-01-18 — 2027-01-29
+
+**lugar:** Santiago, Chile
+
+**edad:** 7–12 años. Grupos 7–9 y 10–12 años.
+
+**Precio:** $270000 por turno. Opción de 1 semana $150000.
+
+**Programa:** Campamento general con actividades optativas. Incluye robótica, Scratch, 3D y Little Makers. Confirmar parrilla para el grupo de edad.
+
+**Suplementos:** Viaje y alojamiento familiar aparte. La página muestra el precio con $, confirmar código de moneda. Ordenador propio para robótica, 3D y Scratch.
+
+**Pago:** Plaza confirmada tras pago total. Las condiciones prevén devolución total si el organizador cancela el turno completo.
+
+**condiciones de participación:** Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida.
+
+**Disponibilidad de plazas:** Horario publicado. Plazas e inicio del grupo según demanda.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** Si cumple 7 años al inicio del turno. Confirmar cómo se calcula la edad.
+
+- Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida.
+
+[fuente](https://www.wondercamps.cl/summerjuniorcamp)
+
+### Fuentes
+
+- [Calendario y condiciones oficiales de temporada](https://www.wondercamps.cl/summerjuniorcamp) · 2026-11-07
+
+- [Reglas y condiciones de admisión](https://www.wondercamps.cl/terms-conditions) · 2026-11-07
+
+## CP1613 · Wonder Camps · Early Years
+
+Chile · Santiago, Chile
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 3–6 años.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Programa general con juegos, arte y exploración de la naturaleza. Los turnos incluyen temas de dinosaurios, jardín y océano.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Dos turnos en enero de 2027. Clases de 09:00–13:15, puertas desde las 08:30.
+
+**Precio / año:** 2027 · $270000 por turno.
+
+**Incluido:** Fruta para la merienda.
+
+**Suplementos:** Viaje y alojamiento familiar aparte. La página muestra el precio con $, confirmar código de moneda.
+
+**Pago:** Plaza confirmada tras pago total. Las condiciones prevén devolución total si el organizador cancela el turno completo. Reembolso por cancelación familiar: más de 4 semanas — 100%, de 2 a 4 semanas — 75%, de 1 a 2 semanas — 50%, menos de 1 semana — sin devolución.
+
+**Matvey:** Edad superior al rango de este grupo.
+
+**Oscar:** Si al inicio aún tiene 6 años. Confirmar cómo se calcula la edad.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida.
+
+### Turno diurno
+
+**Fechas / estado:** 2027-01-04 — 2027-01-15
+
+**lugar:** Santiago, Chile
+
+**edad:** 3–6 años.
+
+**Precio:** $270000 por turno.
+
+**Programa:** Programa general con juegos, arte y exploración de la naturaleza. Los turnos incluyen temas de dinosaurios, jardín y océano.
+
+**Suplementos:** Viaje y alojamiento familiar aparte. La página muestra el precio con $, confirmar código de moneda.
+
+**Pago:** Plaza confirmada tras pago total. Las condiciones prevén devolución total si el organizador cancela el turno completo.
+
+**condiciones de participación:** Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida.
+
+**Disponibilidad de plazas:** Horario publicado. Plazas e inicio del grupo según demanda.
+
+**Matvey:** Edad superior al rango de este grupo.
+
+**Oscar:** Si al inicio aún tiene 6 años. Confirmar cómo se calcula la edad.
+
+- Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida.
+
+[fuente](https://www.wondercamps.cl/summerearlyyears)
+
+### Turno diurno
+
+**Fechas / estado:** 2027-01-18 — 2027-01-29
+
+**lugar:** Santiago, Chile
+
+**edad:** 3–6 años.
+
+**Precio:** $270000 por turno.
+
+**Programa:** Programa general con juegos, arte y exploración de la naturaleza. Los turnos incluyen temas de dinosaurios, jardín y océano.
+
+**Suplementos:** Viaje y alojamiento familiar aparte. La página muestra el precio con $, confirmar código de moneda.
+
+**Pago:** Plaza confirmada tras pago total. Las condiciones prevén devolución total si el organizador cancela el turno completo.
+
+**condiciones de participación:** Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida.
+
+**Disponibilidad de plazas:** Horario publicado. Plazas e inicio del grupo según demanda.
+
+**Matvey:** Edad superior al rango de este grupo.
+
+**Oscar:** Si al inicio aún tiene 6 años. Confirmar cómo se calcula la edad.
+
+- Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida.
+
+[fuente](https://www.wondercamps.cl/summerearlyyears)
+
+### Fuentes
+
+- [Calendario y condiciones oficiales de temporada](https://www.wondercamps.cl/summerearlyyears) · 2026-11-07
+
+- [Reglas y condiciones de admisión](https://www.wondercamps.cl/terms-conditions) · 2026-11-07
+
+## CP1614 · Wonder Camps · Little Makers
+
+Chile · Santiago, Chile
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 6–8 años, referencia del organizador.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Motores, sensores, mecanismos y montaje de robot propio. Horario de clases publicado 09:00–13:00.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** La página en español indica 4–15 y 18–29 de enero sin año. La versión inglesa muestra otras fechas de enero. Confirmar horario de esta disciplina para 2027.
+
+**Precio / año:** sin establecer · $290000 por turno en página en español. Confirmar tarifa de temporada.
+
+**Incluido:** Fruta para la merienda.
+
+**Suplementos:** Viaje y alojamiento familiar aparte. La página muestra el precio con $, confirmar código de moneda. Ordenador propio para las clases.
+
+**Pago:** Plaza confirmada tras pago total. Las condiciones prevén devolución total si el organizador cancela el turno completo. Reembolso por cancelación familiar: más de 4 semanas — 100%, de 2 a 4 semanas — 75%, de 1 a 2 semanas — 50%, menos de 1 semana — sin devolución.
+
+**Matvey:** Edad superior al rango de este grupo.
+
+**Oscar:** Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida.
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://www.wondercamps.cl/summertechcamp) · 2026-11-07
+
+- [Horario e información de la exposición](https://www.wondercamps.cl/en/summertechcamp) · 2026-11-07
+
+- [Reglas y condiciones de admisión](https://www.wondercamps.cl/terms-conditions) · 2026-11-07
+
+## CP1615 · Wonder Camps · 3D Makers
+
+Chile · Santiago, Chile
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 10–12 años, referencia del organizador.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Diseño en Tinkercad y creación de dispensador de dulces. Horario de clases publicado 09:00–13:00.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** La página en español indica 4–15 y 18–29 de enero sin año. La versión inglesa muestra otras fechas de enero. Confirmar horario de esta disciplina para 2027.
+
+**Precio / año:** sin establecer · $290000 por turno en página en español. Confirmar tarifa de temporada.
+
+**Incluido:** Fruta para la merienda.
+
+**Suplementos:** Viaje y alojamiento familiar aparte. La página muestra el precio con $, confirmar código de moneda. Ordenador propio para las clases.
+
+**Pago:** Plaza confirmada tras pago total. Las condiciones prevén devolución total si el organizador cancela el turno completo. Reembolso por cancelación familiar: más de 4 semanas — 100%, de 2 a 4 semanas — 75%, de 1 a 2 semanas — 50%, menos de 1 semana — sin devolución.
+
+**Matvey:** Puede encajar si cumple 10 años al inicio del turno. La edad es orientativa.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida.
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://www.wondercamps.cl/summertechcamp) · 2026-11-07
+
+- [Horario e información de la exposición](https://www.wondercamps.cl/en/summertechcamp) · 2026-11-07
+
+- [Reglas y condiciones de admisión](https://www.wondercamps.cl/terms-conditions) · 2026-11-07
+
+## CP1616 · Wonder Camps · Introducción a la Robótica
+
+Chile · Santiago, Chile
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 10–12 años, referencia del organizador.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Circuitos, mecánica, C++, Arduino y robot Proxibot. Horario de clases publicado 09:00–13:00.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** La página en español indica 4–15 y 18–29 de enero sin año. La versión inglesa muestra otras fechas de enero. Confirmar horario de esta disciplina para 2027.
+
+**Precio / año:** sin establecer · $290000 por turno en página en español. Confirmar tarifa de temporada.
+
+**Incluido:** Fruta para la merienda.
+
+**Suplementos:** Viaje y alojamiento familiar aparte. La página muestra el precio con $, confirmar código de moneda. Ordenador propio para las clases.
+
+**Pago:** Plaza confirmada tras pago total. Las condiciones prevén devolución total si el organizador cancela el turno completo. Reembolso por cancelación familiar: más de 4 semanas — 100%, de 2 a 4 semanas — 75%, de 1 a 2 semanas — 50%, menos de 1 semana — sin devolución.
+
+**Matvey:** Puede encajar si cumple 10 años al inicio del turno. La edad es orientativa.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida.
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://www.wondercamps.cl/summertechcamp) · 2026-11-07
+
+- [Horario e información de la exposición](https://www.wondercamps.cl/en/summertechcamp) · 2026-11-07
+
+- [Reglas y condiciones de admisión](https://www.wondercamps.cl/terms-conditions) · 2026-11-07
+
+## CP1617 · Wonder Camps · Diseño de Video Juego en Unity
+
+Chile · Santiago, Chile
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 12–14 años, referencia del organizador.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Videojuegos 2D y 3D, C#, física y diseño de niveles en Unity. Horario de clases publicado 09:00–13:00.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** La página en español indica 4–15 y 18–29 de enero sin año. La versión inglesa muestra otras fechas de enero. Confirmar horario de esta disciplina para 2027.
+
+**Precio / año:** sin establecer · $360000 por turno en página en español. Confirmar tarifa de temporada.
+
+**Incluido:** Fruta para la merienda.
+
+**Suplementos:** Viaje y alojamiento familiar aparte. La página muestra el precio con $, confirmar código de moneda. Ordenador propio para las clases.
+
+**Pago:** Plaza confirmada tras pago total. Las condiciones prevén devolución total si el organizador cancela el turno completo. Reembolso por cancelación familiar: más de 4 semanas — 100%, de 2 a 4 semanas — 75%, de 1 a 2 semanas — 50%, menos de 1 semana — sin devolución.
+
+**Matvey:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida.
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://www.wondercamps.cl/summertechcamp) · 2026-11-07
+
+- [Horario e información de la exposición](https://www.wondercamps.cl/en/summertechcamp) · 2026-11-07
+
+- [Reglas y condiciones de admisión](https://www.wondercamps.cl/terms-conditions) · 2026-11-07
+
+## CP1618 · Wonder Camps · Coding in Scratch
+
+Chile · Santiago, Chile
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 10–12 años, referencia del organizador.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Algoritmos por bloques y videojuego propio en Scratch. Horario de clases publicado 09:00–13:00.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** La página en español indica 4–15 y 18–29 de enero sin año. La versión inglesa muestra otras fechas de enero. Confirmar horario de esta disciplina para 2027.
+
+**Precio / año:** sin establecer · $290000 por turno en página en español. Confirmar tarifa de temporada.
+
+**Incluido:** Fruta para la merienda.
+
+**Suplementos:** Viaje y alojamiento familiar aparte. La página muestra el precio con $, confirmar código de moneda. Ordenador propio para las clases.
+
+**Pago:** Plaza confirmada tras pago total. Las condiciones prevén devolución total si el organizador cancela el turno completo. Reembolso por cancelación familiar: más de 4 semanas — 100%, de 2 a 4 semanas — 75%, de 1 a 2 semanas — 50%, menos de 1 semana — sin devolución.
+
+**Matvey:** Puede encajar si cumple 10 años al inicio del turno. La edad es orientativa.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida.
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://www.wondercamps.cl/summertechcamp) · 2026-11-07
+
+- [Horario e información de la exposición](https://www.wondercamps.cl/en/summertechcamp) · 2026-11-07
+
+- [Reglas y condiciones de admisión](https://www.wondercamps.cl/terms-conditions) · 2026-11-07
+
+## CP1619 · Wonder Camps · Smart Machines · Introducción a la Inteligencia Artificial
+
+Chile · Santiago, Chile
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 12–14 años, referencia del organizador.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Datos, clasificación, entrenamiento de modelos y proyectos con chatbot e imágenes. Horario de clases publicado 09:00–13:00.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** La página en español indica 4–15 y 18–29 de enero sin año. La versión inglesa muestra otras fechas de enero. Confirmar horario de esta disciplina para 2027.
+
+**Precio / año:** sin establecer · $360000 por turno en página en español. Confirmar tarifa de temporada.
+
+**Incluido:** Fruta para la merienda.
+
+**Suplementos:** Viaje y alojamiento familiar aparte. La página muestra el precio con $, confirmar código de moneda. Ordenador propio para las clases.
+
+**Pago:** Plaza confirmada tras pago total. Las condiciones prevén devolución total si el organizador cancela el turno completo. Reembolso por cancelación familiar: más de 4 semanas — 100%, de 2 a 4 semanas — 75%, de 1 a 2 semanas — 50%, menos de 1 semana — sin devolución.
+
+**Matvey:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida.
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://www.wondercamps.cl/summertechcamp) · 2026-11-07
+
+- [Horario e información de la exposición](https://www.wondercamps.cl/en/summertechcamp) · 2026-11-07
+
+- [Reglas y condiciones de admisión](https://www.wondercamps.cl/terms-conditions) · 2026-11-07
+
+## CP1620 · Wonder Camps · Level Up with Python
+
+Chile · Santiago, Chile
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 12–14 años, referencia del organizador.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Variables, bucles, funciones y proyectos interactivos en Python. Horario de clases publicado 09:00–13:00.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** La página en español indica 4–15 y 18–29 de enero sin año. La versión inglesa muestra otras fechas de enero. Confirmar horario de esta disciplina para 2027.
+
+**Precio / año:** sin establecer · $290000 por turno en página en español. Confirmar tarifa de temporada.
+
+**Incluido:** Fruta para la merienda.
+
+**Suplementos:** Viaje y alojamiento familiar aparte. La página muestra el precio con $, confirmar código de moneda. Ordenador propio para las clases.
+
+**Pago:** Plaza confirmada tras pago total. Las condiciones prevén devolución total si el organizador cancela el turno completo. Reembolso por cancelación familiar: más de 4 semanas — 100%, de 2 a 4 semanas — 75%, de 1 a 2 semanas — 50%, menos de 1 semana — sin devolución.
+
+**Matvey:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida.
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://www.wondercamps.cl/summertechcamp) · 2026-11-07
+
+- [Horario e información de la exposición](https://www.wondercamps.cl/en/summertechcamp) · 2026-11-07
+
+- [Reglas y condiciones de admisión](https://www.wondercamps.cl/terms-conditions) · 2026-11-07
+
+## CP1621 · Wonder Camps · Robótica Avanzada
+
+Chile · Santiago, Chile
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 12–14 años, referencia del organizador.
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Seguimiento de línea, navegación y garra mecánica con servos. Horario de clases publicado 09:00–13:00.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** La página en español indica 4–15 y 18–29 de enero sin año. La versión inglesa muestra otras fechas de enero. Confirmar horario de esta disciplina para 2027.
+
+**Precio / año:** sin establecer · $360000 por turno en página en español. Confirmar tarifa de temporada.
+
+**Incluido:** Fruta para la merienda.
+
+**Suplementos:** Viaje y alojamiento familiar aparte. La página muestra el precio con $, confirmar código de moneda. Ordenador propio para las clases.
+
+**Pago:** Plaza confirmada tras pago total. Las condiciones prevén devolución total si el organizador cancela el turno completo. Reembolso por cancelación familiar: más de 4 semanas — 100%, de 2 a 4 semanas — 75%, de 1 a 2 semanas — 50%, menos de 1 semana — sin devolución.
+
+**Matvey:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida.
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://www.wondercamps.cl/summertechcamp) · 2026-11-07
+
+- [Horario e información de la exposición](https://www.wondercamps.cl/en/summertechcamp) · 2026-11-07
+
+- [Reglas y condiciones de admisión](https://www.wondercamps.cl/terms-conditions) · 2026-11-07
 
 ## ~ Comprobaciones no cerradas
 

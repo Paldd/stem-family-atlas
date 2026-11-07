@@ -657,16 +657,16 @@ Se ha comprobado: 2026-11-04
 
 ### C613 · MakeX México XII — Soccer / CK World Cup
 
-Fecha: Soccer / CK World Cup: próxima convocatoria sin anunciar; las fechas generales MakeX no son fechas de esta disciplina.
-Edad: 4–18 por página local
-Matway: Sí, por edad; autorización para confirmar
-Oscar: Sí por edad; autorización para confirmar
+Fecha: La ficha oficial indica próxima convocatoria. Fecha e inscripción aún sin publicar.
+edad: 4–18 años.
+Matvey: Edad dentro del rango. Convocatoria pendiente.
+Oscar: Edad dentro del rango. Convocatoria pendiente.
 Idioma: ES candidato; idioma del juez: confirmación
-Entrada: Abrir el registro de la categoría de referencia vinculada; confirmar primero la aceptación, la contribución y la verificación de la edad extranjera
-Costo: entrada del afiliado inscrito y coach incluida; contribución de la disciplina; entradas de la familia separadas
+Acceso: La ficha oficial indica próxima convocatoria. Fecha e inscripción aún sin publicar.
+Precio: La tienda muestra MXN 2999.99. Confirmar cuota de la nueva convocatoria y posibilidad de pago.
 Limitaciones: dos hermanos pueden formar un equipo mínimo de tamaño, pero se debe obtener un permiso extranjero por separado. No se ha recibido ninguna regla específica de la página. Fechas 27*29.11 ° ventana general del festival; no se ha encontrado un día preciso de esta disciplina. La contribución y el plazo de inscripción no se han publicado en las páginas que se leen.
 Fuente: https://www.creativakids.com/ck_world_cup.php
-Se ha comprobado: 2026-11-04
+Se ha comprobado: 2026-11-07
 
 ### C614 · MakeX México XII — Inspire Code Courier
 
@@ -2733,6 +2733,19 @@ Acceso: El proyecto entra por un centro educativo de Costa Rica. Tras fase escol
 Precio: Tarifa de esta edición aún sin confirmar.
 Limitaciones: El anuncio UCR del 3 de noviembre indica 202 proyectos de 27 regiones educativas. La publicación anterior de la facultad indicaba 205 proyectos.
 Fuente: https://facultadeducacion.ucr.ac.cr/noticias/2026/10/26/feria-de-ciencia-y-tecnologia-reune-205-proyectos-en-2026
+Se ha comprobado: 2026-11-07
+
+### C2970 · WRC Youth Robot Design · Guadalajara
+
+Fecha: 2026-11-27 2026-11-28
+edad: Las 3 disciplinas incluyen primaria. Para 太空探索 el reglamento indica corte a junio de 2026.
+Matvey: Condicional por grado. Confirmar equivalencia escolar, fecha de corte y reglas de solicitud local.
+Oscar: Condicional por grado. Confirmar equivalencia escolar, fecha de corte y reglas de solicitud local.
+Idioma: Inglés y español para arbitraje e instrucciones aún sin confirmar.
+Acceso: Confirmar con la sede la solicitud, admisión de equipo escolar extranjero, documento, idioma y equipo técnico.
+Precio: Confirmar cuota local, equipo técnico y viaje. El calendario carece de tarifa de la sede.
+Limitaciones: 星际巡航 · Primaria y secundaria. Reglamento indica condición de estudiante a julio de 2027. 1 participante y 1 mentor. 智能晶造 · Primaria y secundaria inferior. 1 participante, se permite 1 mentor. 太空探索 · Solo primaria. El PDF indica condición de estudiante a junio de 2026. Confirmar aplicación de este corte en la sede. 1 participante y 1 mentor.
+Fuente: https://wrc.cie.org.cn/contest/announcement/3692.html
 Se ha comprobado: 2026-11-07
 
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02

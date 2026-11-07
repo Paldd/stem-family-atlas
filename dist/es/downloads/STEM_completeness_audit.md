@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 7252; competiciones: 2965; eventos: 289; campamentos / programas: 3998. Perfiles de ligas y programas: 257. Fichas de exposiciones grandes y especializadas: 201 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 7356; competiciones: 3061; eventos: 293; campamentos / programas: 4002. Perfiles de ligas y programas: 257. Fichas de exposiciones grandes y especializadas: 205 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros concretos de 158 de 249 países y territorios; países auditados por completo: 0. Revisión histórica v51: se añadieron 21 fichas y 3 perfiles. Todas las fichas anteriores se conservan.
 
@@ -14,16 +14,16 @@ Hay registros concretos de 158 de 249 países y territorios; países auditados p
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 23 | 1421 | 31 | 1057 |
-| América del Sur | 10 | 167 | 7 | 113 |
+| América del Norte | 23 | 1422 | 31 | 1057 |
+| América del Sur | 10 | 167 | 7 | 117 |
 | Europa | 42 | 412 | 68 | 1256 |
 | África | 34 | 115 | 15 | 68 |
-| Asia | 44 | 640 | 77 | 1378 |
+| Asia | 44 | 735 | 81 | 1378 |
 | Oceanía | 5 | 119 | 3 | 114 |
 
 Fichas interregionales o globales sin un continente asignado: 108. América del Norte incluye Centroamérica y el Caribe. Las cantidades indican el inventario de la base y no el porcentaje de cobertura.
 
-VEX: 518 de 2965 fichas de competiciones (17.5%). La cobertura se concentra en esta liga.
+VEX: 518 de 3061 fichas de competiciones (16.9%). Es un desequilibrio de cobertura.
 
 ## Lo que queda
 
@@ -137,7 +137,7 @@ VEX: 518 de 2965 fichas de competiciones (17.5%). La cobertura se concentra en e
 - **FIRST Global Challenge**: 3 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://first.global/fgc/
 - **FIRA RoboWorld Cup / Youth**: 1 tarjeta, 0 con fechas exactas futuras. https://firaworldcup.org/news/fira-roboworld-cup-and-summit-2026-call-for-paper/
 - *Universal Robotics Challenge (URC)**: 1 tarjeta, 0 con fechas exactas futuras. https://www.urc21.org/en/overview.php
-- **World Robot Contest (CIE)**: 1 tarjeta, 0 con fechas exactas futuras. https://www.worldrobotconference.com/contest/regulations/2632.html
+- **World Robot Contest (CIE)**: 97 fichas, 96 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.worldrobotconference.com/contest/regulations/2632.html
 - **IAIO · International Artificial Intelligence Olympiad**: 1 tarjeta, 1 con fechas exactas futuras; perfil y tarjetas; cobertura local parcial. https://iaio-official.org/
 - **SeaPerch / RoboNation**: 1 tarjeta, 1 con fechas exactas futuras. https://seaperch.org/programs/2027-challenge/
 - **MATE ROV Competition**: 2 tarjetas, 1 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://materovcompetition.org/scout
@@ -539,6 +539,10 @@ VEX: 518 de 2965 fichas de competiciones (17.5%). La cobertura se concentra en e
 - **CoRL 2026 · Robot Learning Exhibits** — Estados Unidos; 2026-11-09 – 2026-11-11. el permiso de entrada de niños. https://2026.corl.org/program
 - **IEEE Humanoids 2026 · Exhibit Hall** — Estados Unidos; 2026-12-08 – 2026-12-09. el permiso de entrada de niños. https://humanoids.exhibitprospectus.com/
 - **XPONENTIAL 2027 · XPO Hall** — Estados Unidos; 2027-05-18 – 2027-05-20. el permiso de entrada de niños. https://www.xponential.org/
+- **Hangzhou International Humanoid Robot & Robotics Technology Exhibition** — China; 2027-05-27 – 2027-05-29. el permiso de entrada de niños. https://www.humanoidrobotshow.com.cn/
+- **SEAI Guangzhou · Robotics Industry Ecosystem / LET-a CeMAT** — China; 2027-06-02 – 2027-06-04. el permiso de entrada de niños. https://seaigz.com/
+- **AGIC / GERX Shenzhen 2027** — China; 2027-09-01 – 2027-09-03. el permiso de entrada de niños. https://www.szaiexpo.com/
+- **ROBOTECH Shenzhen 2027** — China; 2027-10-27 – 2027-10-29. el permiso de entrada de niños. https://www.robotechasia.com/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

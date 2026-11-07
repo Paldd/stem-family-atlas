@@ -2661,24 +2661,24 @@
       "city": "CDMX, Colegio Alemán Norte",
       "start": "",
       "end": "",
-      "period": "Soccer / CK World Cup: próxima convocatoria sin anunciar; las fechas generales MakeX no son fechas de esta disciplina.",
+      "period": "La ficha oficial indica próxima convocatoria. Fecha e inscripción aún sin publicar.",
       "date_status": "Próxima convocatoria pendiente",
       "deadline": "",
-      "age": "4–18 por la página local",
-      "mat": "Sí, por edad; confirmar la admisión",
-      "osc": "Sí, por edad; confirmar la admisión",
-      "format": "2–3 el alumno; la presencia de/condiciones coach confirmar por separado",
-      "entry": "abrir la inscripción de la categoría por referencia relacionada; primero confirmar la recepción extranjera, la contribución y la verificación de edad",
-      "gear": "mBot V2 es proporcionado por el organizador",
+      "age": "4–18 años.",
+      "mat": "Edad dentro del rango. Convocatoria pendiente.",
+      "osc": "Edad dentro del rango. Convocatoria pendiente.",
+      "format": "2–3 participantes.",
+      "entry": "La ficha oficial indica próxima convocatoria. Fecha e inscripción aún sin publicar.",
+      "gear": "mBot V2 proporcionado por la organización según ficha de disciplina.",
       "language": "ES candidato; lengua de juez para confirmar",
-      "cost": "la entrada del participante registrado y el coach incluido; el aporte de la disciplina se especifique; los boletos de la familia por separado",
+      "cost": "La tienda muestra MXN 2999.99. Confirmar cuota de la nueva convocatoria y posibilidad de pago.",
       "level": "C  Torneo nacional o abierto",
       "reward": "lugar o premio sólo por el protocolo oficial; el registro no garantiza la victoria",
       "priority": "P2 — seguir la próxima convocatoria",
-      "action": "Esperar fechas y reglas Soccer; para noviembre elegir disciplinas con horario publicado.",
+      "action": "La ficha oficial indica próxima convocatoria. Fecha e inscripción aún sin publicar.",
       "source": "https://www.creativakids.com/ck_world_cup.php",
-      "proof": "Releída la página Soccer; convocatoria separada de las disciplinas vigentes de noviembre.",
-      "checked": "2026-11-04",
+      "proof": "La ficha de disciplina y la tienda muestran información distinta. Estado según ficha de disciplina.",
+      "checked": "2026-11-07",
       "status": "Idea",
       "note": "dos hermanos pueden formar un equipo mínimo de tamaño, pero el permiso extranjero se debe obtener por separado. de la misma PDF no se ha encontrado ninguna regla de la página. Fechas 27–29.11 — ventana general del festival; No se ha encontrado el día exacto de la disciplina.. el importe del importe de la contribución y el plazo de registro no se publicaron en las páginas leídas.",
       "themes": [
@@ -2691,16 +2691,16 @@
       ],
       "participation": "team",
       "language_certainty": "Las páginas locales en español y los PDF globales en inglés no confirman el idioma de la entrevista.",
-      "admission_kind": "open_application",
+      "admission_kind": "unknown",
       "evidence_level": "event_page",
       "references": [
         {
-          "label": "fechas y lugar XII MakeX México",
-          "url": "https://www.creativakids.com/makex.php"
+          "url": "https://www.creativakids.com/ck_world_cup.php",
+          "label": "Reglas y condiciones de admisión"
         },
         {
-          "label": "registro de la categoría (enlace de la página; el formulario no verificado)",
-          "url": "https://forms.gle/hR3CRsanYTemE7En8"
+          "url": "https://creativashop.com/products/inscripcion-ck-worldcup-makex-mexico-2026",
+          "label": "Ficha del curso y tarifa publicada"
         }
       ],
       "related_ids": [
@@ -12165,6 +12165,71 @@
       "related_ids": [
         "E267"
       ]
+    },
+    {
+      "id": "C2970",
+      "block": "Competiciones",
+      "title": "WRC Youth Robot Design · Guadalajara",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Guadalajara, Jalisco, Mexico",
+      "start": "2026-11-27",
+      "end": "2026-11-28",
+      "deadline": "",
+      "period": "",
+      "date_status": "Confirmado",
+      "age": "Las 3 disciplinas incluyen primaria. Para 太空探索 el reglamento indica corte a junio de 2026.",
+      "mat": "Condicional por grado. Confirmar equivalencia escolar, fecha de corte y reglas de solicitud local.",
+      "osc": "Condicional por grado. Confirmar equivalencia escolar, fecha de corte y reglas de solicitud local.",
+      "format": "Pruebas individuales. 1 menor por solicitud, mentor según la disciplina.",
+      "entry": "Confirmar con la sede la solicitud, admisión de equipo escolar extranjero, documento, idioma y equipo técnico.",
+      "gear": "星际巡航 · Robot de piezas plásticas ensamblables, quedan excluidas las piezas impresas en 3D. 智能晶造 · Robot seguidor de línea y misiones temáticas de centro de datos. 太空探索 · 1 robot por equipo, tareas de misión espacial.",
+      "language": "Inglés y español para arbitraje e instrucciones aún sin confirmar.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Inglés y español para arbitraje e instrucciones aún sin confirmar.",
+      "cost": "Confirmar cuota local, equipo técnico y viaje. El calendario carece de tarifa de la sede.",
+      "level": "Campeonato internacional WRC Youth Robot Design",
+      "reward": "Resultado y premio según sede y posición en la disciplina. Confirmar la clasificación posterior por separado.",
+      "priority": "P1 — confirmar participación en México",
+      "action": "Confirmar con la sede la solicitud, admisión de equipo escolar extranjero, documento, idioma y equipo técnico.",
+      "source": "https://wrc.cie.org.cn/contest/announcement/3692.html",
+      "references": [
+        {
+          "url": "https://www.worldrobotconference.com/contest/YouthRobotDesignContest/3688.html",
+          "label": "Reglas y condiciones de admisión"
+        },
+        {
+          "url": "https://www.worldrobotconference.com/static/upload/file/20261020/1792489718136775.pdf",
+          "label": "星际巡航"
+        },
+        {
+          "url": "https://www.worldrobotconference.com/static/upload/file/20261030/1793353043115566.pdf",
+          "label": "智能晶造"
+        },
+        {
+          "url": "https://www.worldrobotconference.com/static/upload/file/20261020/1792489717668303.pdf",
+          "label": "太空探索"
+        }
+      ],
+      "proof": "El organizador publica fecha, sede y disciplinas. Solicitud y admisión se determinan por separado.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "星际巡航 · Primaria y secundaria. Reglamento indica condición de estudiante a julio de 2027. 1 participante y 1 mentor. 智能晶造 · Primaria y secundaria inferior. 1 participante, se permite 1 mentor. 太空探索 · Solo primaria. El PDF indica condición de estudiante a junio de 2026. Confirmar aplicación de este corte en la sede. 1 participante y 1 mentor.",
+      "themes": [
+        "robotics",
+        "engineering",
+        "coding"
+      ],
+      "scope": "international",
+      "importance_reason": "Red oficial World Robot Contest de robótica, programación y pruebas de ingeniería.",
+      "participation": "individual",
+      "admission_kind": "unknown",
+      "evidence_level": "event_page",
+      "date_scope": "competition"
     },
     {
       "id": "CP041-20270329-20270402",
