@@ -1,0 +1,66 @@
+{
+  "version": 196,
+  "checked": "2026-11-06",
+  "status": "partial-world-competition-provider-audit",
+  "provider_list_snapshot_complete": true,
+  "provider_programmes_audited": [
+    "Engage"
+  ],
+  "other_recf_programmes_complete": false,
+  "provider_list_records": 265,
+  "provider_detailed_records": 261,
+  "provider_pre_release_records": 4,
+  "preserved_existing_provider_event_ids": [
+    "C1041",
+    "C1039",
+    "C1040",
+    "C1042"
+  ],
+  "excluded_adult_training_ids": [
+    170,
+    172,
+    334
+  ],
+  "new_event_records": 258,
+  "new_competitions": 254,
+  "new_learning_events": 4,
+  "modified_prior_event_ids": [
+    "C030",
+    "C028",
+    "C032",
+    "C019",
+    "C029"
+  ],
+  "changed_date_event_ids": [
+    "C030"
+  ],
+  "updated_league_profiles": [
+    "recf",
+    "vex"
+  ],
+  "new_league_profiles": 0,
+  "new_camp_dossiers": 0,
+  "source_request_scope": "captured-native-GET-attempts-only",
+  "native_source_capture_attempts": 377,
+  "successful_response_hashes_verified": 292,
+  "failed_capture_attempts": 85,
+  "unresolved_native_http_403_sources": 2,
+  "primary_reader_fallbacks": 2,
+  "unresolved_provider_detail_sources": 0,
+  "admission_invitation_flags": 32,
+  "admission_school_only_flags": 1,
+  "source_classification_conflicts": [
+    714,
+    905,
+    911,
+    927
+  ],
+  "unknown_country_records": [
+    119
+  ],
+  "exact_event_rules_fully_audited": false,
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "all_original_18_requirements_retained": true,
+  "no_messages_forms_enrollment_agreements_or_payments": true
+}

@@ -51,6 +51,8 @@ jobs:
         run: node scripts/verify-nearby-editorial.cjs
       - name: Verify North America camp budgets, multiweek calendars and eligibility
         run: node scripts/verify-northamerica-editorial.cjs
+      - name: Verify the global RECF inventory and independent world routes
+        run: node scripts/verify-recf-global.cjs
       - name: Record the exact published source revision
         run: python3 scripts/write-release.py
       - name: Configure Pages

@@ -580,7 +580,7 @@
       }
     ],
     "counts": {
-      "records": 3704,
+      "records": 3708,
       "holiday": 3463,
       "regular": 108,
       "self_paced_materials": 2,
@@ -592,7 +592,7 @@
       "ru_instruction": 3,
       "language_lessons": 408,
       "camp_life_language": 226,
-      "language_unclassified": 119,
+      "language_unclassified": 123,
       "countries": 98
     },
     "validation": {
@@ -31099,6 +31099,222 @@
         {
           "label": "Kimama · Skimama enseñanza inglesa y edad",
           "url": "https://www.eng.campkimama.org/faq"
+        }
+      ]
+    },
+    {
+      "id": "L618",
+      "block": "Campamentos",
+      "title": "RECF Engage · Robot in 2 Days",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "Farmington, Utah, Wren Robotics Lab",
+      "start": "2026-08-07",
+      "end": "2026-08-07",
+      "period": "Fechas publicadas del evento; no confirmación de plaza",
+      "date_status": "Confirmado",
+      "deadline": "2026-08-05",
+      "age": "Engage: 12U / Elementary, 12 años o menos; 15U / Middle, 15 o menos al 6 de mayo de 2027 según manual 2.0. Equipo mínimo de 2 alumnos. Confirmar categoría escolar local y admisión de menores. Elementary",
+      "mat": "Condicional: se cumple el límite superior 12U; confirmar curso, función del niño, admisión del equipo y plaza.",
+      "osc": "Condicional: se cumple el límite superior 12U; confirmar curso, función del niño, admisión del equipo y plaza.",
+      "format": "Equipo desde 2 alumnos; adulto tramita inscripción",
+      "entry": "Equipo oficial RECF Engage → comprobar restricciones locales → solicitud del evento concreto. Inscripción RECF y plazas libres no prueban admisión extranjera ni plaza en final mundial.",
+      "gear": "Robot Engage Tier Takeover conforme al manual vigente; solo componentes VEX IQ / LEGO / otras opciones enumeradas. Usar piezas iguales no convierte un evento RECF en clasificación VEX Worlds.",
+      "language": "Las reglas RECF están disponibles en inglés; esto no confirma idioma oral de entrevistas ni apoyo a equipo extranjero menor.",
+      "languages": [],
+      "language_certainty": "Las reglas RECF están disponibles en inglés; esto no confirma idioma oral de entrevistas ni apoyo a equipo extranjero menor.",
+      "cost": "USD 50.00 · Cuota del equipo para este evento; inscripción de temporada, condiciones adicionales y viaje aparte. Cuota gratuita no significa viaje gratuito.",
+      "level": "D — formación",
+      "reward": "Evento educativo o de demostración; no resultado competitivo internacional.",
+      "priority": "P3 — confirmar condiciones de participación",
+      "action": "Entrenador: comprobar grupo de edad, composición, admisión extranjera, idioma, estado de inscripción y días reales de juego antes de reservar.",
+      "source": "https://recfevents.org/Events/Details/58",
+      "proof": "Ficha pública RECF: comprobadas fechas visibles y JSON-LD, precio, grupo escolar y estado actual. Reglamento completo de esta etapa local no confirmado.",
+      "checked": "2026-11-06",
+      "status": "Idea",
+      "note": "Ficha oficial comprobada como fuente de calendario y condiciones. Una red internacional no convierte un torneo local en final mundial; comprobar premios y resultados aparte. Scrimmage de práctica; no cuenta automáticamente como clasificatorio ni victoria internacional. Programa Workshops: confirmar contenido, nivel mínimo y admisión infantil individual; no se denomina competición.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "regional",
+      "importance_reason": "Etapa de red internacional RECF; alcance de esta sede determinado por evento local o regional. No es clasificación para VEX Worlds.",
+      "participation": "workshop",
+      "admission_kind": "confirm_eligibility",
+      "registration_status": "Evento finalizado; archivo de condiciones, no inscripción disponible ahora.",
+      "date_scope": "event_day",
+      "date_precision": "published_event",
+      "event_code": "ENG20269982",
+      "network": "RECF Engage",
+      "references": [
+        {
+          "url": "https://games.recf.org/engage/2.0",
+          "label": "Manual global Engage 2.0: edad y autonomía"
+        }
+      ]
+    },
+    {
+      "id": "L619",
+      "block": "Campamentos",
+      "title": "RECF Engage · Mustang Robotics Show & Tell",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "Golden Valley, Minnesota, Breck School",
+      "start": "2026-08-18",
+      "end": "2026-08-18",
+      "period": "Fechas publicadas del evento; no confirmación de plaza",
+      "date_status": "Confirmado",
+      "deadline": "2026-08-18",
+      "age": "Engage: 12U / Elementary, 12 años o menos; 15U / Middle, 15 o menos al 6 de mayo de 2027 según manual 2.0. Equipo mínimo de 2 alumnos. Confirmar categoría escolar local y admisión de menores. Elementary, Escuela media",
+      "mat": "Condicional: se cumple el límite superior 12U; confirmar curso, función del niño, admisión del equipo y plaza.",
+      "osc": "Condicional: se cumple el límite superior 12U; confirmar curso, función del niño, admisión del equipo y plaza.",
+      "format": "Equipo desde 2 alumnos; adulto tramita inscripción",
+      "entry": "Equipo oficial RECF Engage → comprobar restricciones locales → solicitud del evento concreto. Inscripción RECF y plazas libres no prueban admisión extranjera ni plaza en final mundial.",
+      "gear": "Robot Engage Tier Takeover conforme al manual vigente; solo componentes VEX IQ / LEGO / otras opciones enumeradas. Usar piezas iguales no convierte un evento RECF en clasificación VEX Worlds.",
+      "language": "Las reglas RECF están disponibles en inglés; esto no confirma idioma oral de entrevistas ni apoyo a equipo extranjero menor.",
+      "languages": [],
+      "language_certainty": "Las reglas RECF están disponibles en inglés; esto no confirma idioma oral de entrevistas ni apoyo a equipo extranjero menor.",
+      "cost": "USD 0.00 · Cuota del equipo para este evento; inscripción de temporada, condiciones adicionales y viaje aparte. Cuota gratuita no significa viaje gratuito.",
+      "level": "D — formación",
+      "reward": "Evento educativo o de demostración; no resultado competitivo internacional.",
+      "priority": "P3 — confirmar condiciones de participación",
+      "action": "Entrenador: comprobar grupo de edad, composición, admisión extranjera, idioma, estado de inscripción y días reales de juego antes de reservar.",
+      "source": "https://recfevents.org/Events/Details/218",
+      "proof": "Ficha pública RECF: comprobadas fechas visibles y JSON-LD, precio, grupo escolar y estado actual. Reglamento completo de esta etapa local no confirmado.",
+      "checked": "2026-11-06",
+      "status": "Idea",
+      "note": "Ficha oficial comprobada como fuente de calendario y condiciones. Una red internacional no convierte un torneo local en final mundial; comprobar premios y resultados aparte. La ficha estructurada no establece condición de clasificatorio; confirmar por separado el acceso a la final. Programa Workshops: confirmar contenido, nivel mínimo y admisión infantil individual; no se denomina competición.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "regional",
+      "importance_reason": "Etapa de red internacional RECF; alcance de esta sede determinado por evento local o regional. No es clasificación para VEX Worlds.",
+      "participation": "workshop",
+      "admission_kind": "confirm_eligibility",
+      "registration_status": "Evento finalizado; archivo de condiciones, no inscripción disponible ahora.",
+      "date_scope": "event_day",
+      "date_precision": "published_event",
+      "event_code": "ENG20264085",
+      "network": "RECF Engage",
+      "references": [
+        {
+          "url": "https://games.recf.org/engage/2.0",
+          "label": "Manual global Engage 2.0: edad y autonomía"
+        }
+      ]
+    },
+    {
+      "id": "L620",
+      "block": "Campamentos",
+      "title": "RECF Engage · September Programming Workshop",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "Farmington, Utah, Wren Robotics Lab",
+      "start": "2026-09-03",
+      "end": "2026-09-24",
+      "period": "Fechas publicadas del evento; no confirmación de plaza",
+      "date_status": "Confirmado",
+      "deadline": "2026-08-28",
+      "age": "Engage: 12U / Elementary, 12 años o menos; 15U / Middle, 15 o menos al 6 de mayo de 2027 según manual 2.0. Equipo mínimo de 2 alumnos. Confirmar categoría escolar local y admisión de menores. Elementary, Escuela media",
+      "mat": "Condicional: se cumple el límite superior 12U; confirmar curso, función del niño, admisión del equipo y plaza.",
+      "osc": "Condicional: se cumple el límite superior 12U; confirmar curso, función del niño, admisión del equipo y plaza.",
+      "format": "Equipo desde 2 alumnos; adulto tramita inscripción",
+      "entry": "Equipo oficial RECF Engage → comprobar restricciones locales → solicitud del evento concreto. Inscripción RECF y plazas libres no prueban admisión extranjera ni plaza en final mundial.",
+      "gear": "Robot Engage Tier Takeover conforme al manual vigente; solo componentes VEX IQ / LEGO / otras opciones enumeradas. Usar piezas iguales no convierte un evento RECF en clasificación VEX Worlds.",
+      "language": "Las reglas RECF están disponibles en inglés; esto no confirma idioma oral de entrevistas ni apoyo a equipo extranjero menor.",
+      "languages": [],
+      "language_certainty": "Las reglas RECF están disponibles en inglés; esto no confirma idioma oral de entrevistas ni apoyo a equipo extranjero menor.",
+      "cost": "USD 100.00 · Cuota del equipo para este evento; inscripción de temporada, condiciones adicionales y viaje aparte. Cuota gratuita no significa viaje gratuito.",
+      "level": "D — formación",
+      "reward": "Evento educativo o de demostración; no resultado competitivo internacional.",
+      "priority": "P3 — confirmar condiciones de participación",
+      "action": "Entrenador: comprobar grupo de edad, composición, admisión extranjera, idioma, estado de inscripción y días reales de juego antes de reservar.",
+      "source": "https://recfevents.org/Events/Details/340",
+      "proof": "Ficha pública RECF: comprobadas fechas visibles y JSON-LD, precio, grupo escolar y estado actual. Reglamento completo de esta etapa local no confirmado.",
+      "checked": "2026-11-06",
+      "status": "Idea",
+      "note": "Ficha oficial comprobada como fuente de calendario y condiciones. Una red internacional no convierte un torneo local en final mundial; comprobar premios y resultados aparte. Scrimmage de práctica; no cuenta automáticamente como clasificatorio ni victoria internacional. Programa Workshops: confirmar contenido, nivel mínimo y admisión infantil individual; no se denomina competición.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "regional",
+      "importance_reason": "Etapa de red internacional RECF; alcance de esta sede determinado por evento local o regional. No es clasificación para VEX Worlds.",
+      "participation": "workshop",
+      "admission_kind": "confirm_eligibility",
+      "registration_status": "Evento finalizado; archivo de condiciones, no inscripción disponible ahora.",
+      "date_scope": "event_window",
+      "date_precision": "published_event",
+      "event_code": "ENG20267067",
+      "network": "RECF Engage",
+      "references": [
+        {
+          "url": "https://games.recf.org/engage/2.0",
+          "label": "Manual global Engage 2.0: edad y autonomía"
+        }
+      ]
+    },
+    {
+      "id": "L621",
+      "block": "Campamentos",
+      "title": "RECF Engage · Roswell Robo Squad Multi-Day Learning Workshop & Driving Clinic",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "roswell, New Mexico, roswell mall",
+      "start": "2026-09-12",
+      "end": "2026-09-15",
+      "period": "Fechas publicadas del evento; no confirmación de plaza",
+      "date_status": "Confirmado",
+      "deadline": "2026-09-11",
+      "age": "Engage: 12U / Elementary, 12 años o menos; 15U / Middle, 15 o menos al 6 de mayo de 2027 según manual 2.0. Equipo mínimo de 2 alumnos. Confirmar categoría escolar local y admisión de menores. Elementary, Escuela media",
+      "mat": "Condicional: se cumple el límite superior 12U; confirmar curso, función del niño, admisión del equipo y plaza.",
+      "osc": "Condicional: se cumple el límite superior 12U; confirmar curso, función del niño, admisión del equipo y plaza.",
+      "format": "Equipo desde 2 alumnos; adulto tramita inscripción",
+      "entry": "Equipo oficial RECF Engage → comprobar restricciones locales → solicitud del evento concreto. Inscripción RECF y plazas libres no prueban admisión extranjera ni plaza en final mundial.",
+      "gear": "Robot Engage Tier Takeover conforme al manual vigente; solo componentes VEX IQ / LEGO / otras opciones enumeradas. Usar piezas iguales no convierte un evento RECF en clasificación VEX Worlds.",
+      "language": "Las reglas RECF están disponibles en inglés; esto no confirma idioma oral de entrevistas ni apoyo a equipo extranjero menor.",
+      "languages": [],
+      "language_certainty": "Las reglas RECF están disponibles en inglés; esto no confirma idioma oral de entrevistas ni apoyo a equipo extranjero menor.",
+      "cost": "USD 0.00 · Cuota del equipo para este evento; inscripción de temporada, condiciones adicionales y viaje aparte. Cuota gratuita no significa viaje gratuito.",
+      "level": "D — formación",
+      "reward": "Evento educativo o de demostración; no resultado competitivo internacional.",
+      "priority": "P3 — confirmar condiciones de participación",
+      "action": "Entrenador: comprobar grupo de edad, composición, admisión extranjera, idioma, estado de inscripción y días reales de juego antes de reservar.",
+      "source": "https://recfevents.org/Events/Details/582",
+      "proof": "Ficha pública RECF: comprobadas fechas visibles y JSON-LD, precio, grupo escolar y estado actual. Reglamento completo de esta etapa local no confirmado.",
+      "checked": "2026-11-06",
+      "status": "Idea",
+      "note": "Ficha oficial comprobada como fuente de calendario y condiciones. Una red internacional no convierte un torneo local en final mundial; comprobar premios y resultados aparte. La ficha estructurada no establece condición de clasificatorio; confirmar por separado el acceso a la final. Programa Workshops: confirmar contenido, nivel mínimo y admisión infantil individual; no se denomina competición.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "regional",
+      "importance_reason": "Etapa de red internacional RECF; alcance de esta sede determinado por evento local o regional. No es clasificación para VEX Worlds.",
+      "participation": "workshop",
+      "admission_kind": "confirm_eligibility",
+      "registration_status": "Evento finalizado; archivo de condiciones, no inscripción disponible ahora.",
+      "date_scope": "event_window",
+      "date_precision": "published_event",
+      "event_code": "ENG20263748",
+      "network": "RECF Engage",
+      "references": [
+        {
+          "url": "https://games.recf.org/engage/2.0",
+          "label": "Manual global Engage 2.0: edad y autonomía"
         }
       ]
     },

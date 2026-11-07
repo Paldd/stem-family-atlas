@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 6052; competiciones: 2083; eventos: 265; campamentos / programas: 3704. Perfiles de ligas y programas: 252. Fichas de exposiciones grandes y especializadas: 173 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 6310; competiciones: 2337; eventos: 265; campamentos / programas: 3708. Perfiles de ligas y programas: 252. Fichas de exposiciones grandes y especializadas: 173 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros concretos de 157 de 249 países y territorios; países completamente auditados: 0. Pasada histórica v51: añadidas 21 fichas, 3 perfiles. Conservadas todas las fichas anteriores.
 
@@ -14,16 +14,16 @@ Hay registros concretos de 157 de 249 países y territorios; países completamen
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 23 | 660 | 22 | 1031 |
+| América del Norte | 23 | 882 | 22 | 1035 |
 | América del Sur | 10 | 163 | 7 | 113 |
 | Europa | 42 | 392 | 55 | 1254 |
 | África | 34 | 112 | 15 | 68 |
-| Asia | 44 | 583 | 71 | 1113 |
-| Oceanía | 4 | 105 | 3 | 114 |
+| Asia | 44 | 608 | 71 | 1113 |
+| Oceanía | 4 | 112 | 3 | 114 |
 
 Fichas interregionales / globales sin asignar a un continente: 84. América del Norte incluye América Central y el Caribe. Las cantidades reflejan inventario de la base, sin porcentaje de exhaustividad.
 
-VEX: 518 de 2083 tarjetas de competencia (24.9%), lo que representa una clara distorsión de la cobertura.
+VEX: 518 de 2337 tarjetas de competiciones (22.2%). Es un desequilibrio evidente de cobertura.
 
 ## Lo que queda
 
@@ -98,7 +98,7 @@ VEX: 518 de 2083 tarjetas de competencia (24.9%), lo que representa una clara di
 - **VEX Robotics**: 518 fichas, 421 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.vexrobotics.com/official-path
 - *RoboCupJunior**: 4 tarjetas, 2 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://junior.robocup.org/
 - **MakeX**: 15 fichas, 11 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.makex.cc/en/2026-makex
-- **RECF Robotics**: 5 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://recf.org/teams/recf-robotics-competition/
+- **RECF Robotics**: 259 fichas, 216 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://recf.org/teams/recf-robotics-competition/
 - **RECF Aerial Drone**: 1 tarjeta, 0 con fechas exactas futuras. https://kb.roboticseducation.org/hc/en-us/articles/41294778999063-Aerial-Drone-Competition-Frequently-Asked-Questions-FAQ
 - **WER**: 3 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.wermexico.com/competencia
 - **RoboMatrix / Infomatrix**: 59 fichas, 28 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://robomatrix.org/

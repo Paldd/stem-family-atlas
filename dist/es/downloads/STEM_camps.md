@@ -8662,6 +8662,70 @@ Limitaciones: Skimama 7–18: publicados 4–11 diciembre 2026 y 13–20 abril 2
 Fuente: https://www.eng.campkimama.org/skimama
 Se ha comprobado: 2026-11-06
 
+### L618 · RECF Engage · Robot in 2 Days
+
+lugar: Estados Unidos · Farmington, Utah, Wren Robotics Lab
+Fecha: 2026-08-07 — 2026-08-07
+edad: Engage: 12U / Elementary, 12 años o menos; 15U / Middle, 15 o menos al 6 de mayo de 2027 según manual 2.0. Equipo mínimo de 2 alumnos. Confirmar categoría escolar local y admisión de menores. Elementary
+Matvey: Condicional: se cumple el límite superior 12U; confirmar curso, función del niño, admisión del equipo y plaza.
+Oscar: Condicional: se cumple el límite superior 12U; confirmar curso, función del niño, admisión del equipo y plaza.
+formato: workshop
+Idioma: Las reglas RECF están disponibles en inglés; esto no confirma idioma oral de entrevistas ni apoyo a equipo extranjero menor.
+Marca de idioma: no clasificada; soporte: no declarada
+Precio: USD 50.00 · Cuota del equipo para este evento; inscripción de temporada, condiciones adicionales y viaje aparte. Cuota gratuita no significa viaje gratuito.
+Acceso: Equipo oficial RECF Engage → comprobar restricciones locales → solicitud del evento concreto. Inscripción RECF y plazas libres no prueban admisión extranjera ni plaza en final mundial.
+Limitaciones: Ficha oficial comprobada como fuente de calendario y condiciones. Una red internacional no convierte un torneo local en final mundial; comprobar premios y resultados aparte. Scrimmage de práctica; no cuenta automáticamente como clasificatorio ni victoria internacional. Programa Workshops: confirmar contenido, nivel mínimo y admisión infantil individual; no se denomina competición.
+Fuente: https://recfevents.org/Events/Details/58
+Se ha comprobado: 2026-11-06
+
+### L619 · RECF Engage · Mustang Robotics Show & Tell
+
+lugar: Estados Unidos · Golden Valley, Minnesota, Breck School
+Fecha: 2026-08-18 — 2026-08-18
+edad: Engage: 12U / Elementary, 12 años o menos; 15U / Middle, 15 o menos al 6 de mayo de 2027 según manual 2.0. Equipo mínimo de 2 alumnos. Confirmar categoría escolar local y admisión de menores. Elementary, Escuela media
+Matvey: Condicional: se cumple el límite superior 12U; confirmar curso, función del niño, admisión del equipo y plaza.
+Oscar: Condicional: se cumple el límite superior 12U; confirmar curso, función del niño, admisión del equipo y plaza.
+formato: workshop
+Idioma: Las reglas RECF están disponibles en inglés; esto no confirma idioma oral de entrevistas ni apoyo a equipo extranjero menor.
+Marca de idioma: no clasificada; soporte: no declarada
+Precio: USD 0.00 · Cuota del equipo para este evento; inscripción de temporada, condiciones adicionales y viaje aparte. Cuota gratuita no significa viaje gratuito.
+Acceso: Equipo oficial RECF Engage → comprobar restricciones locales → solicitud del evento concreto. Inscripción RECF y plazas libres no prueban admisión extranjera ni plaza en final mundial.
+Limitaciones: Ficha oficial comprobada como fuente de calendario y condiciones. Una red internacional no convierte un torneo local en final mundial; comprobar premios y resultados aparte. La ficha estructurada no establece condición de clasificatorio; confirmar por separado el acceso a la final. Programa Workshops: confirmar contenido, nivel mínimo y admisión infantil individual; no se denomina competición.
+Fuente: https://recfevents.org/Events/Details/218
+Se ha comprobado: 2026-11-06
+
+### L620 · RECF Engage · September Programming Workshop
+
+lugar: Estados Unidos · Farmington, Utah, Wren Robotics Lab
+Fecha: 2026-09-03 — 2026-09-24
+edad: Engage: 12U / Elementary, 12 años o menos; 15U / Middle, 15 o menos al 6 de mayo de 2027 según manual 2.0. Equipo mínimo de 2 alumnos. Confirmar categoría escolar local y admisión de menores. Elementary, Escuela media
+Matvey: Condicional: se cumple el límite superior 12U; confirmar curso, función del niño, admisión del equipo y plaza.
+Oscar: Condicional: se cumple el límite superior 12U; confirmar curso, función del niño, admisión del equipo y plaza.
+formato: workshop
+Idioma: Las reglas RECF están disponibles en inglés; esto no confirma idioma oral de entrevistas ni apoyo a equipo extranjero menor.
+Marca de idioma: no clasificada; soporte: no declarada
+Precio: USD 100.00 · Cuota del equipo para este evento; inscripción de temporada, condiciones adicionales y viaje aparte. Cuota gratuita no significa viaje gratuito.
+Acceso: Equipo oficial RECF Engage → comprobar restricciones locales → solicitud del evento concreto. Inscripción RECF y plazas libres no prueban admisión extranjera ni plaza en final mundial.
+Limitaciones: Ficha oficial comprobada como fuente de calendario y condiciones. Una red internacional no convierte un torneo local en final mundial; comprobar premios y resultados aparte. Scrimmage de práctica; no cuenta automáticamente como clasificatorio ni victoria internacional. Programa Workshops: confirmar contenido, nivel mínimo y admisión infantil individual; no se denomina competición.
+Fuente: https://recfevents.org/Events/Details/340
+Se ha comprobado: 2026-11-06
+
+### L621 · RECF Engage · Roswell Robo Squad Multi-Day Learning Workshop & Driving Clinic
+
+lugar: Estados Unidos · roswell, New Mexico, roswell mall
+Fecha: 2026-09-12 — 2026-09-15
+edad: Engage: 12U / Elementary, 12 años o menos; 15U / Middle, 15 o menos al 6 de mayo de 2027 según manual 2.0. Equipo mínimo de 2 alumnos. Confirmar categoría escolar local y admisión de menores. Elementary, Escuela media
+Matvey: Condicional: se cumple el límite superior 12U; confirmar curso, función del niño, admisión del equipo y plaza.
+Oscar: Condicional: se cumple el límite superior 12U; confirmar curso, función del niño, admisión del equipo y plaza.
+formato: workshop
+Idioma: Las reglas RECF están disponibles en inglés; esto no confirma idioma oral de entrevistas ni apoyo a equipo extranjero menor.
+Marca de idioma: no clasificada; soporte: no declarada
+Precio: USD 0.00 · Cuota del equipo para este evento; inscripción de temporada, condiciones adicionales y viaje aparte. Cuota gratuita no significa viaje gratuito.
+Acceso: Equipo oficial RECF Engage → comprobar restricciones locales → solicitud del evento concreto. Inscripción RECF y plazas libres no prueban admisión extranjera ni plaza en final mundial.
+Limitaciones: Ficha oficial comprobada como fuente de calendario y condiciones. Una red internacional no convierte un torneo local en final mundial; comprobar premios y resultados aparte. La ficha estructurada no establece condición de clasificatorio; confirmar por separado el acceso a la final. Programa Workshops: confirmar contenido, nivel mínimo y admisión infantil individual; no se denomina competición.
+Fuente: https://recfevents.org/Events/Details/582
+Se ha comprobado: 2026-11-06
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier

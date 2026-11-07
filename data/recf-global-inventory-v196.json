@@ -1,0 +1,5365 @@
+{
+  "version": 196,
+  "checked": "2026-11-06",
+  "provider": "RECF Engage",
+  "list_snapshot": {
+    "current": 213,
+    "pre_release": 4,
+    "past": 48,
+    "total": 265,
+    "source": "https://recfevents.org/Events/ApprovedEvents?programTypeId=1"
+  },
+  "linked_events": [
+    {
+      "provider_id": 38,
+      "event_code": "ENG20265224",
+      "source": "https://recfevents.org/Events/Details/38",
+      "start": "2027-01-15",
+      "end": "2027-01-16",
+      "deadline": "2027-01-02",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Event full · wait list open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2085"
+    },
+    {
+      "provider_id": 51,
+      "event_code": "ENG20263514",
+      "source": "https://recfevents.org/Events/Details/51",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "deadline": "2026-10-30",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Event full"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2086"
+    },
+    {
+      "provider_id": 57,
+      "event_code": "ENG20266254",
+      "source": "https://recfevents.org/Events/Details/57",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "deadline": "2026-12-05",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2087"
+    },
+    {
+      "provider_id": 58,
+      "event_code": "ENG20269982",
+      "source": "https://recfevents.org/Events/Details/58",
+      "start": "2026-08-07",
+      "end": "2026-08-07",
+      "deadline": "2026-08-05",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Workshops",
+      "qualification": "Scrimmage",
+      "admission_flags": [],
+      "header_status": [
+        "Event ended"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "L618"
+    },
+    {
+      "provider_id": 60,
+      "event_code": "ENG20267936",
+      "source": "https://recfevents.org/Events/Details/60",
+      "start": "2026-11-09",
+      "end": "2027-01-25",
+      "deadline": "2026-11-08",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "League",
+      "qualification": "Qualifying Event",
+      "admission_flags": [
+        "invitation_or_prior_qualification"
+      ],
+      "header_status": [
+        "Invitational"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2088"
+    },
+    {
+      "provider_id": 65,
+      "event_code": "ENG20262873",
+      "source": "https://recfevents.org/Events/Details/65",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "deadline": "2026-11-01",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Registration closed"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2089"
+    },
+    {
+      "provider_id": 66,
+      "event_code": "ENG20265023",
+      "source": "https://recfevents.org/Events/Details/66",
+      "start": "2026-12-07",
+      "end": "2027-02-08",
+      "deadline": "2026-12-02",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Middle School",
+      "event_type": "League",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2090"
+    },
+    {
+      "provider_id": 79,
+      "event_code": "ENG20265076",
+      "source": "https://recfevents.org/Events/Details/79",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "deadline": "2026-12-04",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2091"
+    },
+    {
+      "provider_id": 96,
+      "event_code": "ENG20261694",
+      "source": "https://recfevents.org/Events/Details/96",
+      "start": "2026-12-17",
+      "end": "2026-12-17",
+      "deadline": "2026-12-10",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2092"
+    },
+    {
+      "provider_id": 97,
+      "event_code": "ENG20262328",
+      "source": "https://recfevents.org/Events/Details/97",
+      "start": "2026-11-05",
+      "end": "2026-11-05",
+      "deadline": "2026-10-30",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Event ended"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2093"
+    },
+    {
+      "provider_id": 99,
+      "event_code": "ENG20264409",
+      "source": "https://recfevents.org/Events/Details/99",
+      "start": "2026-10-03",
+      "end": "2026-10-04",
+      "deadline": "2026-09-11",
+      "country_iso": "TUR",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Event ended"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2094"
+    },
+    {
+      "provider_id": 119,
+      "event_code": "ENG20265192",
+      "source": "https://recfevents.org/Events/Details/119",
+      "start": "2026-07-14",
+      "end": "2026-07-14",
+      "deadline": "2026-07-14",
+      "country_iso": null,
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Event ended"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2095"
+    },
+    {
+      "provider_id": 120,
+      "event_code": "ENG20267668",
+      "source": "https://recfevents.org/Events/Details/120",
+      "start": "2026-10-24",
+      "end": "2026-10-24",
+      "deadline": "2026-10-21",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Scrimmage",
+      "admission_flags": [],
+      "header_status": [
+        "Event ended"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2096"
+    },
+    {
+      "provider_id": 122,
+      "event_code": "ENG20266760",
+      "source": "https://recfevents.org/Events/Details/122",
+      "start": "2027-02-18",
+      "end": "2027-02-19",
+      "deadline": "2027-02-07",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": "Event Region Championship",
+      "admission_flags": [
+        "invitation_or_prior_qualification"
+      ],
+      "header_status": [
+        "Invitational"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2097"
+    },
+    {
+      "provider_id": 123,
+      "event_code": "ENG20266608",
+      "source": "https://recfevents.org/Events/Details/123",
+      "start": "2027-02-19",
+      "end": "2027-02-20",
+      "deadline": "2027-02-07",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Middle School",
+      "event_type": "Tournament",
+      "qualification": "Event Region Championship",
+      "admission_flags": [
+        "invitation_or_prior_qualification"
+      ],
+      "header_status": [
+        "Invitational"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2098"
+    },
+    {
+      "provider_id": 124,
+      "event_code": "ENG20262424",
+      "source": "https://recfevents.org/Events/Details/124",
+      "start": "2026-10-24",
+      "end": "2026-10-24",
+      "deadline": "2026-10-16",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Event ended"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2099"
+    },
+    {
+      "provider_id": 128,
+      "event_code": "ENG20266601",
+      "source": "https://recfevents.org/Events/Details/128",
+      "start": "2026-10-10",
+      "end": "2026-10-10",
+      "deadline": "2026-10-08",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": true,
+      "grades": "Middle School",
+      "event_type": null,
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Event ended"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2100"
+    },
+    {
+      "provider_id": 130,
+      "event_code": "ENG20261913",
+      "source": "https://recfevents.org/Events/Details/130",
+      "start": "2026-11-23",
+      "end": "2026-11-24",
+      "deadline": "2026-11-06",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Signature Event",
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2101"
+    },
+    {
+      "provider_id": 139,
+      "event_code": "ENG20267168",
+      "source": "https://recfevents.org/Events/Details/139",
+      "start": "2026-12-20",
+      "end": "2026-12-20",
+      "deadline": "2026-12-05",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2102"
+    },
+    {
+      "provider_id": 144,
+      "event_code": "ENG20267187",
+      "source": "https://recfevents.org/Events/Details/144",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "deadline": "2026-10-30",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": true,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [
+        "school_only"
+      ],
+      "header_status": [
+        "Event full"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2103"
+    },
+    {
+      "provider_id": 148,
+      "event_code": "ENG20268057",
+      "source": "https://recfevents.org/Events/Details/148",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "deadline": "2026-12-01",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2104"
+    },
+    {
+      "provider_id": 153,
+      "event_code": "ENG20262982",
+      "source": "https://recfevents.org/Events/Details/153",
+      "start": "2027-02-13",
+      "end": "2027-02-13",
+      "deadline": "2027-02-05",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2105"
+    },
+    {
+      "provider_id": 155,
+      "event_code": "ENG20263536",
+      "source": "https://recfevents.org/Events/Details/155",
+      "start": "2027-02-13",
+      "end": "2027-02-13",
+      "deadline": "2027-02-05",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2106"
+    },
+    {
+      "provider_id": 160,
+      "event_code": "ENG20269351",
+      "source": "https://recfevents.org/Events/Details/160",
+      "start": "2026-12-04",
+      "end": "2026-12-04",
+      "deadline": "2026-11-27",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Event full · wait list open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2107"
+    },
+    {
+      "provider_id": 161,
+      "event_code": "ENG20264645",
+      "source": "https://recfevents.org/Events/Details/161",
+      "start": "2027-01-16",
+      "end": "2027-01-16",
+      "deadline": "2027-01-08",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Event full · wait list open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2108"
+    },
+    {
+      "provider_id": 162,
+      "event_code": "ENG20266592",
+      "source": "https://recfevents.org/Events/Details/162",
+      "start": "2027-01-29",
+      "end": "2027-01-29",
+      "deadline": "2027-01-22",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [
+        "invitation_or_prior_qualification"
+      ],
+      "header_status": [
+        "Invitational"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2109"
+    },
+    {
+      "provider_id": 164,
+      "event_code": "ENG20263323",
+      "source": "https://recfevents.org/Events/Details/164",
+      "start": "2027-01-09",
+      "end": "2027-01-09",
+      "deadline": "2026-12-18",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2110"
+    },
+    {
+      "provider_id": 165,
+      "event_code": "ENG20261883",
+      "source": "https://recfevents.org/Events/Details/165",
+      "start": "2027-01-23",
+      "end": "2027-01-23",
+      "deadline": "2027-01-15",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [
+        "invitation_or_prior_qualification"
+      ],
+      "header_status": [
+        "Invitational"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2111"
+    },
+    {
+      "provider_id": 168,
+      "event_code": "ENG20265864",
+      "source": "https://recfevents.org/Events/Details/168",
+      "start": "2026-08-30",
+      "end": "2026-08-30",
+      "deadline": "2026-08-22",
+      "country_iso": "VNM",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Scrimmage",
+      "admission_flags": [],
+      "header_status": [
+        "Event ended"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2112"
+    },
+    {
+      "provider_id": 170,
+      "event_code": "ENG20261905",
+      "source": "https://recfevents.org/Events/Details/170",
+      "start": "2026-09-10",
+      "end": "2026-09-10",
+      "deadline": "2026-09-07",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Workshops",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Event ended"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "excluded_reason": "adult_coach_or_volunteer_training"
+    },
+    {
+      "provider_id": 172,
+      "event_code": "ENG20264101",
+      "source": "https://recfevents.org/Events/Details/172",
+      "start": "2026-09-12",
+      "end": "2026-09-12",
+      "deadline": "2026-09-07",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Workshops",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Event ended"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "excluded_reason": "adult_coach_or_volunteer_training"
+    },
+    {
+      "provider_id": 177,
+      "event_code": "ENG20265516",
+      "source": "https://recfevents.org/Events/Details/177",
+      "start": "2027-02-19",
+      "end": "2027-02-21",
+      "deadline": "2027-01-30",
+      "country_iso": "VNM",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Signature Event",
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": "C1041"
+    },
+    {
+      "provider_id": 178,
+      "event_code": "ENG20266477",
+      "source": "https://recfevents.org/Events/Details/178",
+      "start": "2026-10-17",
+      "end": "2026-10-17",
+      "deadline": "2026-10-10",
+      "country_iso": "VNM",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Event ended"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": "C1039"
+    },
+    {
+      "provider_id": 188,
+      "event_code": "ENG20264650",
+      "source": "https://recfevents.org/Events/Details/188",
+      "start": "2026-10-16",
+      "end": "2026-10-16",
+      "deadline": "2026-10-09",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Event ended"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2113"
+    },
+    {
+      "provider_id": 190,
+      "event_code": "ENG20268255",
+      "source": "https://recfevents.org/Events/Details/190",
+      "start": "2026-12-11",
+      "end": "2026-12-11",
+      "deadline": "2026-12-04",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2114"
+    },
+    {
+      "provider_id": 212,
+      "event_code": "ENG20266119",
+      "source": "https://recfevents.org/Events/Details/212",
+      "start": "2027-02-17",
+      "end": "2027-02-17",
+      "deadline": "2027-02-05",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Middle School",
+      "event_type": "Tournament",
+      "qualification": "Event Region Championship",
+      "admission_flags": [
+        "invitation_or_prior_qualification"
+      ],
+      "header_status": [
+        "Invitational"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2115"
+    },
+    {
+      "provider_id": 213,
+      "event_code": "ENG20265788",
+      "source": "https://recfevents.org/Events/Details/213",
+      "start": "2027-02-17",
+      "end": "2027-02-17",
+      "deadline": "2027-02-05",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": "Event Region Championship",
+      "admission_flags": [
+        "invitation_or_prior_qualification"
+      ],
+      "header_status": [
+        "Invitational"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2116"
+    },
+    {
+      "provider_id": 215,
+      "event_code": "ENG20266552",
+      "source": "https://recfevents.org/Events/Details/215",
+      "start": "2027-01-16",
+      "end": "2027-01-16",
+      "deadline": "2026-12-18",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2117"
+    },
+    {
+      "provider_id": 218,
+      "event_code": "ENG20264085",
+      "source": "https://recfevents.org/Events/Details/218",
+      "start": "2026-08-18",
+      "end": "2026-08-18",
+      "deadline": "2026-08-18",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Workshops",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Event ended"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "L619"
+    },
+    {
+      "provider_id": 224,
+      "event_code": "ENG20264383",
+      "source": "https://recfevents.org/Events/Details/224",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "deadline": "2026-11-22",
+      "country_iso": "AUS",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2118"
+    },
+    {
+      "provider_id": 226,
+      "event_code": "ENG20263452",
+      "source": "https://recfevents.org/Events/Details/226",
+      "start": "2026-10-01",
+      "end": "2026-10-01",
+      "deadline": "2026-10-01",
+      "country_iso": "AUS",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Event ended"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2119"
+    },
+    {
+      "provider_id": 251,
+      "event_code": "ENG20266279",
+      "source": "https://recfevents.org/Events/Details/251",
+      "start": "2026-10-12",
+      "end": "2026-10-12",
+      "deadline": "2026-10-11",
+      "country_iso": "AUS",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Event ended"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2120"
+    },
+    {
+      "provider_id": 255,
+      "event_code": "ENG20264817",
+      "source": "https://recfevents.org/Events/Details/255",
+      "start": "2026-11-10",
+      "end": "2026-11-10",
+      "deadline": "2026-11-09",
+      "country_iso": "AUS",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2121"
+    },
+    {
+      "provider_id": 263,
+      "event_code": "ENG20262391",
+      "source": "https://recfevents.org/Events/Details/263",
+      "start": "2026-10-24",
+      "end": "2026-10-24",
+      "deadline": "2026-10-22",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Event ended"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2122"
+    },
+    {
+      "provider_id": 266,
+      "event_code": "ENG20267076",
+      "source": "https://recfevents.org/Events/Details/266",
+      "start": "2027-02-06",
+      "end": "2027-02-06",
+      "deadline": "2027-02-03",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": true,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2123"
+    },
+    {
+      "provider_id": 280,
+      "event_code": "ENG20263621",
+      "source": "https://recfevents.org/Events/Details/280",
+      "start": "2027-01-31",
+      "end": "2027-02-02",
+      "deadline": "2027-01-22",
+      "country_iso": "CHN",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Event Region Championship",
+      "admission_flags": [
+        "invitation_or_prior_qualification"
+      ],
+      "header_status": [
+        "Invitational"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2124"
+    },
+    {
+      "provider_id": 283,
+      "event_code": "ENG20268069",
+      "source": "https://recfevents.org/Events/Details/283",
+      "start": "2026-10-31",
+      "end": "2026-10-31",
+      "deadline": "2026-10-23",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Event ended"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2125"
+    },
+    {
+      "provider_id": 302,
+      "event_code": "ENG20262813",
+      "source": "https://recfevents.org/Events/Details/302",
+      "start": "2027-02-04",
+      "end": "2027-02-04",
+      "deadline": "2027-01-15",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [
+        "invitation_or_prior_qualification"
+      ],
+      "header_status": [
+        "Invitational"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2126"
+    },
+    {
+      "provider_id": 303,
+      "event_code": "ENG20267569",
+      "source": "https://recfevents.org/Events/Details/303",
+      "start": "2027-02-05",
+      "end": "2027-02-05",
+      "deadline": "2027-01-15",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [
+        "invitation_or_prior_qualification"
+      ],
+      "header_status": [
+        "Invitational"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2127"
+    },
+    {
+      "provider_id": 311,
+      "event_code": "ENG20266300",
+      "source": "https://recfevents.org/Events/Details/311",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "deadline": "2026-11-14",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Event full · wait list open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2128"
+    },
+    {
+      "provider_id": 315,
+      "event_code": "ENG20265555",
+      "source": "https://recfevents.org/Events/Details/315",
+      "start": "2026-10-01",
+      "end": "2026-10-02",
+      "deadline": "2026-09-30",
+      "country_iso": "CHN",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Event ended"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2129"
+    },
+    {
+      "provider_id": 318,
+      "event_code": "ENG20268907",
+      "source": "https://recfevents.org/Events/Details/318",
+      "start": "2026-10-17",
+      "end": "2026-10-17",
+      "deadline": "2026-10-15",
+      "country_iso": "AUS",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Event ended"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2130"
+    },
+    {
+      "provider_id": 320,
+      "event_code": "ENG20262852",
+      "source": "https://recfevents.org/Events/Details/320",
+      "start": "2026-10-20",
+      "end": "2026-10-20",
+      "deadline": "2026-10-01",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Event ended"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2131"
+    },
+    {
+      "provider_id": 321,
+      "event_code": "ENG20264998",
+      "source": "https://recfevents.org/Events/Details/321",
+      "start": "2026-12-13",
+      "end": "2026-12-13",
+      "deadline": "2026-12-11",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2132"
+    },
+    {
+      "provider_id": 334,
+      "event_code": "ENG20269543",
+      "source": "https://recfevents.org/Events/Details/334",
+      "start": "2026-08-22",
+      "end": "2026-08-22",
+      "deadline": "2026-08-21",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": null,
+      "event_type": "Workshops",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Event ended"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "excluded_reason": "adult_coach_or_volunteer_training"
+    },
+    {
+      "provider_id": 336,
+      "event_code": "ENG20262299",
+      "source": "https://recfevents.org/Events/Details/336",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "deadline": "2026-11-07",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2133"
+    },
+    {
+      "provider_id": 337,
+      "event_code": "ENG20263966",
+      "source": "https://recfevents.org/Events/Details/337",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "deadline": "2026-12-04",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Event full · wait list open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2134"
+    },
+    {
+      "provider_id": 338,
+      "event_code": "ENG20266386",
+      "source": "https://recfevents.org/Events/Details/338",
+      "start": "2027-01-23",
+      "end": "2027-01-23",
+      "deadline": "2027-01-16",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Event full · wait list open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2135"
+    },
+    {
+      "provider_id": 339,
+      "event_code": "ENG20265089",
+      "source": "https://recfevents.org/Events/Details/339",
+      "start": "2027-02-06",
+      "end": "2027-02-06",
+      "deadline": "2027-01-30",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Event full · wait list open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2136"
+    },
+    {
+      "provider_id": 340,
+      "event_code": "ENG20267067",
+      "source": "https://recfevents.org/Events/Details/340",
+      "start": "2026-09-03",
+      "end": "2026-09-24",
+      "deadline": "2026-08-28",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Workshops",
+      "qualification": "Scrimmage",
+      "admission_flags": [],
+      "header_status": [
+        "Event ended"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "L620"
+    },
+    {
+      "provider_id": 344,
+      "event_code": "ENG20264103",
+      "source": "https://recfevents.org/Events/Details/344",
+      "start": "2026-10-31",
+      "end": "2026-10-31",
+      "deadline": "2026-10-24",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Event ended"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2137"
+    },
+    {
+      "provider_id": 345,
+      "event_code": "ENG20265378",
+      "source": "https://recfevents.org/Events/Details/345",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "deadline": "2026-10-21",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Event full"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2138"
+    },
+    {
+      "provider_id": 346,
+      "event_code": "ENG20266894",
+      "source": "https://recfevents.org/Events/Details/346",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "deadline": "2026-11-27",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Registration opens soon"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2139"
+    },
+    {
+      "provider_id": 350,
+      "event_code": "ENG20265775",
+      "source": "https://recfevents.org/Events/Details/350",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "deadline": "2026-11-27",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2140"
+    },
+    {
+      "provider_id": 352,
+      "event_code": "ENG20263755",
+      "source": "https://recfevents.org/Events/Details/352",
+      "start": "2026-10-08",
+      "end": "2026-12-03",
+      "deadline": "2026-10-15",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "League",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Registration closed"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2141"
+    },
+    {
+      "provider_id": 353,
+      "event_code": "ENG20262382",
+      "source": "https://recfevents.org/Events/Details/353",
+      "start": "2027-01-23",
+      "end": "2027-01-23",
+      "deadline": "2027-01-04",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Event full · wait list open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2142"
+    },
+    {
+      "provider_id": 354,
+      "event_code": "ENG20267454",
+      "source": "https://recfevents.org/Events/Details/354",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "deadline": "2026-11-07",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2143"
+    },
+    {
+      "provider_id": 357,
+      "event_code": "ENG20261258",
+      "source": "https://recfevents.org/Events/Details/357",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "deadline": "2026-11-16",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Event full · wait list open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2144"
+    },
+    {
+      "provider_id": 359,
+      "event_code": "ENG20261700",
+      "source": "https://recfevents.org/Events/Details/359",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "deadline": "2026-11-02",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Scrimmage",
+      "admission_flags": [],
+      "header_status": [
+        "Registration closed"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2145"
+    },
+    {
+      "provider_id": 360,
+      "event_code": "ENG20264408",
+      "source": "https://recfevents.org/Events/Details/360",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "deadline": "2026-10-24",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Registration closed"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2146"
+    },
+    {
+      "provider_id": 361,
+      "event_code": "ENG20268526",
+      "source": "https://recfevents.org/Events/Details/361",
+      "start": "2026-12-13",
+      "end": "2026-12-13",
+      "deadline": "2026-12-06",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2147"
+    },
+    {
+      "provider_id": 362,
+      "event_code": "ENG20269104",
+      "source": "https://recfevents.org/Events/Details/362",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "deadline": "2026-11-16",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2148"
+    },
+    {
+      "provider_id": 366,
+      "event_code": "ENG20268683",
+      "source": "https://recfevents.org/Events/Details/366",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "deadline": "2026-10-30",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Registration closed"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2149"
+    },
+    {
+      "provider_id": 368,
+      "event_code": "ENG20265986",
+      "source": "https://recfevents.org/Events/Details/368",
+      "start": "2027-01-30",
+      "end": "2027-02-02",
+      "deadline": "2027-01-30",
+      "country_iso": "CHN",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": "Signature Event",
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2150"
+    },
+    {
+      "provider_id": 374,
+      "event_code": "ENG20262385",
+      "source": "https://recfevents.org/Events/Details/374",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "deadline": "2026-12-04",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2151"
+    },
+    {
+      "provider_id": 376,
+      "event_code": "ENG20266012",
+      "source": "https://recfevents.org/Events/Details/376",
+      "start": "2027-01-16",
+      "end": "2027-01-16",
+      "deadline": "2027-01-08",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2152"
+    },
+    {
+      "provider_id": 377,
+      "event_code": "ENG20268108",
+      "source": "https://recfevents.org/Events/Details/377",
+      "start": "2027-02-13",
+      "end": "2027-02-13",
+      "deadline": "2027-02-05",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2153"
+    },
+    {
+      "provider_id": 379,
+      "event_code": "ENG20269657",
+      "source": "https://recfevents.org/Events/Details/379",
+      "start": "2026-10-16",
+      "end": "2027-01-05",
+      "deadline": "2026-12-11",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Middle School",
+      "event_type": "League",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2154"
+    },
+    {
+      "provider_id": 384,
+      "event_code": "ENG20269240",
+      "source": "https://recfevents.org/Events/Details/384",
+      "start": "2027-01-09",
+      "end": "2027-01-09",
+      "deadline": "2026-12-01",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2155"
+    },
+    {
+      "provider_id": 395,
+      "event_code": "ENG20262959",
+      "source": "https://recfevents.org/Events/Details/395",
+      "start": "2026-11-16",
+      "end": "2027-02-01",
+      "deadline": "2026-11-13",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "League",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2156"
+    },
+    {
+      "provider_id": 429,
+      "event_code": "ENG20269097",
+      "source": "https://recfevents.org/Events/Details/429",
+      "start": "2027-01-31",
+      "end": "2027-01-31",
+      "deadline": "2027-01-25",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2157"
+    },
+    {
+      "provider_id": 430,
+      "event_code": "ENG20267522",
+      "source": "https://recfevents.org/Events/Details/430",
+      "start": "2027-02-06",
+      "end": "2027-02-06",
+      "deadline": "2027-01-31",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2158"
+    },
+    {
+      "provider_id": 431,
+      "event_code": "ENG20262279",
+      "source": "https://recfevents.org/Events/Details/431",
+      "start": "2027-02-06",
+      "end": "2027-02-06",
+      "deadline": "2027-01-31",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2159"
+    },
+    {
+      "provider_id": 432,
+      "event_code": "ENG20267605",
+      "source": "https://recfevents.org/Events/Details/432",
+      "start": "2026-10-05",
+      "end": "2026-10-07",
+      "deadline": "2026-10-05",
+      "country_iso": "CHN",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Event ended"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2160"
+    },
+    {
+      "provider_id": 439,
+      "event_code": "ENG20262687",
+      "source": "https://recfevents.org/Events/Details/439",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "deadline": "2026-11-13",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2161"
+    },
+    {
+      "provider_id": 440,
+      "event_code": "ENG20268738",
+      "source": "https://recfevents.org/Events/Details/440",
+      "start": "2026-10-24",
+      "end": "2026-10-24",
+      "deadline": "2026-10-17",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": "Qualifying Event",
+      "admission_flags": [],
+      "header_status": [
+        "Event ended"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2162"
+    },
+    {
+      "provider_id": 441,
+      "event_code": "ENG20268075",
+      "source": "https://recfevents.org/Events/Details/441",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "deadline": "2026-12-02",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2163"
+    },
+    {
+      "provider_id": 450,
+      "event_code": "ENG20263862",
+      "source": "https://recfevents.org/Events/Details/450",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "deadline": "2026-11-10",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Middle School",
+      "event_type": null,
+      "qualification": null,
+      "admission_flags": [
+        "invitation_or_prior_qualification"
+      ],
+      "header_status": [
+        "Invitational"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2164"
+    },
+    {
+      "provider_id": 452,
+      "event_code": "ENG20267406",
+      "source": "https://recfevents.org/Events/Details/452",
+      "start": "2027-01-23",
+      "end": "2027-01-23",
+      "deadline": "2027-01-21",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": true,
+      "grades": "Middle School",
+      "event_type": null,
+      "qualification": null,
+      "admission_flags": [
+        "invitation_or_prior_qualification"
+      ],
+      "header_status": [
+        "Invitational"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2165"
+    },
+    {
+      "provider_id": 453,
+      "event_code": "ENG20264859",
+      "source": "https://recfevents.org/Events/Details/453",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "deadline": "2026-12-09",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": true,
+      "grades": "Middle School",
+      "event_type": null,
+      "qualification": null,
+      "admission_flags": [
+        "invitation_or_prior_qualification"
+      ],
+      "header_status": [
+        "Invitational"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2166"
+    },
+    {
+      "provider_id": 454,
+      "event_code": "ENG20264459",
+      "source": "https://recfevents.org/Events/Details/454",
+      "start": "2027-02-06",
+      "end": "2027-02-06",
+      "deadline": "2027-02-03",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": true,
+      "grades": null,
+      "event_type": null,
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2167"
+    },
+    {
+      "provider_id": 455,
+      "event_code": "ENG20268859",
+      "source": "https://recfevents.org/Events/Details/455",
+      "start": "2027-02-20",
+      "end": "2027-02-20",
+      "deadline": "2027-02-12",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": true,
+      "grades": "Middle School",
+      "event_type": null,
+      "qualification": null,
+      "admission_flags": [
+        "invitation_or_prior_qualification"
+      ],
+      "header_status": [
+        "Invitational"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2168"
+    },
+    {
+      "provider_id": 456,
+      "event_code": "ENG20266251",
+      "source": "https://recfevents.org/Events/Details/456",
+      "start": "2027-02-21",
+      "end": "2027-02-21",
+      "deadline": "2027-02-12",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": true,
+      "grades": "Elementary",
+      "event_type": null,
+      "qualification": null,
+      "admission_flags": [
+        "invitation_or_prior_qualification"
+      ],
+      "header_status": [
+        "Invitational"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2169"
+    },
+    {
+      "provider_id": 460,
+      "event_code": "ENG20266589",
+      "source": "https://recfevents.org/Events/Details/460",
+      "start": "2026-12-30",
+      "end": "2026-12-30",
+      "deadline": "2026-12-04",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": null,
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2170"
+    },
+    {
+      "provider_id": 462,
+      "event_code": "ENG20263638",
+      "source": "https://recfevents.org/Events/Details/462",
+      "start": "2026-10-11",
+      "end": "2026-10-11",
+      "deadline": "2026-10-01",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": null,
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Event ended"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2171"
+    },
+    {
+      "provider_id": 463,
+      "event_code": "ENG20266353",
+      "source": "https://recfevents.org/Events/Details/463",
+      "start": "2027-01-23",
+      "end": "2027-01-23",
+      "deadline": "2027-01-15",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2172"
+    },
+    {
+      "provider_id": 465,
+      "event_code": "ENG20268599",
+      "source": "https://recfevents.org/Events/Details/465",
+      "start": "2026-12-03",
+      "end": "2027-01-23",
+      "deadline": "2026-11-27",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": null,
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2173"
+    },
+    {
+      "provider_id": 467,
+      "event_code": "ENG20264851",
+      "source": "https://recfevents.org/Events/Details/467",
+      "start": "2026-10-03",
+      "end": "2026-10-03",
+      "deadline": "2026-10-03",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": true,
+      "grades": "Elementary, Middle School",
+      "event_type": null,
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Event ended"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2174"
+    },
+    {
+      "provider_id": 470,
+      "event_code": "ENG20263476",
+      "source": "https://recfevents.org/Events/Details/470",
+      "start": "2026-10-24",
+      "end": "2026-10-24",
+      "deadline": "2026-10-10",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Event ended"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2175"
+    },
+    {
+      "provider_id": 471,
+      "event_code": "ENG20264369",
+      "source": "https://recfevents.org/Events/Details/471",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "deadline": "2026-11-21",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Event full · wait list open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2176"
+    },
+    {
+      "provider_id": 472,
+      "event_code": "ENG20269547",
+      "source": "https://recfevents.org/Events/Details/472",
+      "start": "2027-02-06",
+      "end": "2027-02-06",
+      "deadline": "2027-01-23",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Event full · wait list open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2177"
+    },
+    {
+      "provider_id": 476,
+      "event_code": "ENG20261898",
+      "source": "https://recfevents.org/Events/Details/476",
+      "start": "2026-09-26",
+      "end": "2026-09-27",
+      "deadline": "2026-09-25",
+      "country_iso": "CHN",
+      "geo_inferred_from_structured_region": true,
+      "grades": "Elementary, Middle School",
+      "event_type": null,
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Event ended"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2178"
+    },
+    {
+      "provider_id": 479,
+      "event_code": "ENG20262142",
+      "source": "https://recfevents.org/Events/Details/479",
+      "start": "2027-01-27",
+      "end": "2027-01-29",
+      "deadline": "2026-12-31",
+      "country_iso": "KOR",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [
+        "invitation_or_prior_qualification"
+      ],
+      "header_status": [
+        "Invitational"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2179"
+    },
+    {
+      "provider_id": 482,
+      "event_code": "ENG20268701",
+      "source": "https://recfevents.org/Events/Details/482",
+      "start": "2026-10-16",
+      "end": "2026-10-18",
+      "deadline": "2026-10-16",
+      "country_iso": "CHN",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": null,
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Event ended"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2180"
+    },
+    {
+      "provider_id": 486,
+      "event_code": "ENG20266312",
+      "source": "https://recfevents.org/Events/Details/486",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "deadline": "2026-12-01",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2181"
+    },
+    {
+      "provider_id": 489,
+      "event_code": "ENG20264148",
+      "source": "https://recfevents.org/Events/Details/489",
+      "start": "2026-11-22",
+      "end": "2026-11-22",
+      "deadline": "2026-11-21",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": true,
+      "grades": "Elementary, Middle School",
+      "event_type": null,
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2182"
+    },
+    {
+      "provider_id": 493,
+      "event_code": "ENG20266719",
+      "source": "https://recfevents.org/Events/Details/493",
+      "start": "2027-01-30",
+      "end": "2027-01-30",
+      "deadline": "2027-01-16",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2183"
+    },
+    {
+      "provider_id": 497,
+      "event_code": "ENG20262760",
+      "source": "https://recfevents.org/Events/Details/497",
+      "start": "2026-11-09",
+      "end": "2027-02-15",
+      "deadline": "2026-11-06",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "League",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2184"
+    },
+    {
+      "provider_id": 502,
+      "event_code": "ENG20264441",
+      "source": "https://recfevents.org/Events/Details/502",
+      "start": "2027-01-17",
+      "end": "2027-01-17",
+      "deadline": "2027-01-10",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2185"
+    },
+    {
+      "provider_id": 505,
+      "event_code": "ENG20266092",
+      "source": "https://recfevents.org/Events/Details/505",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "deadline": "2026-11-20",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": true,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2186"
+    },
+    {
+      "provider_id": 509,
+      "event_code": "ENG20261271",
+      "source": "https://recfevents.org/Events/Details/509",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "deadline": "2026-12-07",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2187"
+    },
+    {
+      "provider_id": 523,
+      "event_code": "ENG20265442",
+      "source": "https://recfevents.org/Events/Details/523",
+      "start": "2027-01-09",
+      "end": "2027-01-09",
+      "deadline": "2026-12-09",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration opens soon"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2188"
+    },
+    {
+      "provider_id": 534,
+      "event_code": "ENG20268357",
+      "source": "https://recfevents.org/Events/Details/534",
+      "start": "2026-10-19",
+      "end": "2026-10-19",
+      "deadline": "2026-10-12",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Event ended"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2189"
+    },
+    {
+      "provider_id": 537,
+      "event_code": "ENG20265915",
+      "source": "https://recfevents.org/Events/Details/537",
+      "start": "2026-12-01",
+      "end": "2026-12-01",
+      "deadline": "2026-11-17",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2190"
+    },
+    {
+      "provider_id": 538,
+      "event_code": "ENG20269905",
+      "source": "https://recfevents.org/Events/Details/538",
+      "start": "2027-01-11",
+      "end": "2027-01-11",
+      "deadline": "2026-12-28",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2191"
+    },
+    {
+      "provider_id": 540,
+      "event_code": "ENG20261249",
+      "source": "https://recfevents.org/Events/Details/540",
+      "start": "2026-10-20",
+      "end": "2026-10-20",
+      "deadline": "2026-10-12",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Event ended"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2192"
+    },
+    {
+      "provider_id": 541,
+      "event_code": "ENG20264588",
+      "source": "https://recfevents.org/Events/Details/541",
+      "start": "2026-12-02",
+      "end": "2026-12-02",
+      "deadline": "2026-11-18",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2193"
+    },
+    {
+      "provider_id": 542,
+      "event_code": "ENG20264921",
+      "source": "https://recfevents.org/Events/Details/542",
+      "start": "2027-01-12",
+      "end": "2027-01-12",
+      "deadline": "2026-12-29",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2194"
+    },
+    {
+      "provider_id": 543,
+      "event_code": "ENG20262940",
+      "source": "https://recfevents.org/Events/Details/543",
+      "start": "2027-02-11",
+      "end": "2027-02-11",
+      "deadline": "2027-01-28",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2195"
+    },
+    {
+      "provider_id": 553,
+      "event_code": "ENG20264424",
+      "source": "https://recfevents.org/Events/Details/553",
+      "start": "2027-02-10",
+      "end": "2027-02-10",
+      "deadline": "2027-01-30",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2196"
+    },
+    {
+      "provider_id": 558,
+      "event_code": "ENG20268571",
+      "source": "https://recfevents.org/Events/Details/558",
+      "start": "2027-01-30",
+      "end": "2027-01-30",
+      "deadline": "2027-01-18",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": null,
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2197"
+    },
+    {
+      "provider_id": 561,
+      "event_code": "ENG20262767",
+      "source": "https://recfevents.org/Events/Details/561",
+      "start": "2026-09-26",
+      "end": "2027-01-09",
+      "deadline": "2026-10-24",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "League",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration closed"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2198"
+    },
+    {
+      "provider_id": 564,
+      "event_code": "ENG20265647",
+      "source": "https://recfevents.org/Events/Details/564",
+      "start": "2026-10-29",
+      "end": "2027-02-19",
+      "deadline": "2026-10-16",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "League",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration closed"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2199"
+    },
+    {
+      "provider_id": 566,
+      "event_code": "ENG20264962",
+      "source": "https://recfevents.org/Events/Details/566",
+      "start": "2027-02-06",
+      "end": "2027-02-06",
+      "deadline": "2027-01-22",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2200"
+    },
+    {
+      "provider_id": 568,
+      "event_code": "ENG20268149",
+      "source": "https://recfevents.org/Events/Details/568",
+      "start": "2026-10-24",
+      "end": "2026-10-24",
+      "deadline": "2026-10-16",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Event ended"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2201"
+    },
+    {
+      "provider_id": 571,
+      "event_code": "ENG20263592",
+      "source": "https://recfevents.org/Events/Details/571",
+      "start": "2026-12-12",
+      "end": "2026-12-13",
+      "deadline": "2026-12-05",
+      "country_iso": "CHN",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2202"
+    },
+    {
+      "provider_id": 581,
+      "event_code": "ENG20269150",
+      "source": "https://recfevents.org/Events/Details/581",
+      "start": "2026-10-31",
+      "end": "2026-10-31",
+      "deadline": "2026-10-30",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Event ended"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2203"
+    },
+    {
+      "provider_id": 582,
+      "event_code": "ENG20263748",
+      "source": "https://recfevents.org/Events/Details/582",
+      "start": "2026-09-12",
+      "end": "2026-09-15",
+      "deadline": "2026-09-11",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Workshops",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Event ended"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "L621"
+    },
+    {
+      "provider_id": 586,
+      "event_code": "ENG20266214",
+      "source": "https://recfevents.org/Events/Details/586",
+      "start": "2027-01-09",
+      "end": "2027-01-09",
+      "deadline": "2026-12-23",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2204"
+    },
+    {
+      "provider_id": 588,
+      "event_code": "ENG20266474",
+      "source": "https://recfevents.org/Events/Details/588",
+      "start": "2027-02-06",
+      "end": "2027-02-06",
+      "deadline": "2027-01-29",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2205"
+    },
+    {
+      "provider_id": 602,
+      "event_code": "ENG20266706",
+      "source": "https://recfevents.org/Events/Details/602",
+      "start": "2026-09-18",
+      "end": "2026-09-18",
+      "deadline": "2026-09-18",
+      "country_iso": "VNM",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": null,
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Event ended"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2206"
+    },
+    {
+      "provider_id": 604,
+      "event_code": "ENG20267929",
+      "source": "https://recfevents.org/Events/Details/604",
+      "start": "2027-01-30",
+      "end": "2027-01-30",
+      "deadline": "2027-01-16",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Event full · wait list open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2207"
+    },
+    {
+      "provider_id": 606,
+      "event_code": "ENG20267634",
+      "source": "https://recfevents.org/Events/Details/606",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "deadline": "2026-11-02",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration closed"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2208"
+    },
+    {
+      "provider_id": 607,
+      "event_code": "ENG20269252",
+      "source": "https://recfevents.org/Events/Details/607",
+      "start": "2027-02-06",
+      "end": "2027-02-06",
+      "deadline": "2027-02-01",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2209"
+    },
+    {
+      "provider_id": 608,
+      "event_code": "ENG20267817",
+      "source": "https://recfevents.org/Events/Details/608",
+      "start": "2026-12-12",
+      "end": "2026-12-13",
+      "deadline": "2026-12-11",
+      "country_iso": "CHN",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2210"
+    },
+    {
+      "provider_id": 611,
+      "event_code": "ENG20264288",
+      "source": "https://recfevents.org/Events/Details/611",
+      "start": "2026-10-18",
+      "end": "2026-10-18",
+      "deadline": "2026-10-15",
+      "country_iso": "VNM",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": null,
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Event ended"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": "C1040"
+    },
+    {
+      "provider_id": 614,
+      "event_code": "ENG20265492",
+      "source": "https://recfevents.org/Events/Details/614",
+      "start": "",
+      "end": "",
+      "deadline": "2026-09-23",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": null,
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration closed"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2211"
+    },
+    {
+      "provider_id": 619,
+      "event_code": "ENG20267447",
+      "source": "https://recfevents.org/Events/Details/619",
+      "start": "2026-10-10",
+      "end": "2026-10-11",
+      "deadline": "2026-10-05",
+      "country_iso": "CHN",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": null,
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Event ended"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2212"
+    },
+    {
+      "provider_id": 621,
+      "event_code": "ENG20267939",
+      "source": "https://recfevents.org/Events/Details/621",
+      "start": "2026-12-07",
+      "end": "2026-12-07",
+      "deadline": "2026-11-07",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2213"
+    },
+    {
+      "provider_id": 624,
+      "event_code": "ENG20264087",
+      "source": "https://recfevents.org/Events/Details/624",
+      "start": "2027-01-07",
+      "end": "2027-01-07",
+      "deadline": "2026-12-07",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Event full · wait list open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2214"
+    },
+    {
+      "provider_id": 625,
+      "event_code": "ENG20265510",
+      "source": "https://recfevents.org/Events/Details/625",
+      "start": "2027-01-16",
+      "end": "2027-01-16",
+      "deadline": "2026-12-16",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2215"
+    },
+    {
+      "provider_id": 626,
+      "event_code": "ENG20265134",
+      "source": "https://recfevents.org/Events/Details/626",
+      "start": "2027-02-01",
+      "end": "2027-02-01",
+      "deadline": "2027-01-04",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [
+        "invitation_or_prior_qualification"
+      ],
+      "header_status": [
+        "Invitational"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2216"
+    },
+    {
+      "provider_id": 627,
+      "event_code": "ENG20261289",
+      "source": "https://recfevents.org/Events/Details/627",
+      "start": "2027-02-20",
+      "end": "2027-02-20",
+      "deadline": "2027-01-20",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2217"
+    },
+    {
+      "provider_id": 628,
+      "event_code": "ENG20269491",
+      "source": "https://recfevents.org/Events/Details/628",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "deadline": "2026-11-09",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Event full · wait list open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2218"
+    },
+    {
+      "provider_id": 630,
+      "event_code": "ENG20262066",
+      "source": "https://recfevents.org/Events/Details/630",
+      "start": "2027-01-22",
+      "end": "2027-01-23",
+      "deadline": "2027-01-17",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2219"
+    },
+    {
+      "provider_id": 641,
+      "event_code": "ENG20265162",
+      "source": "https://recfevents.org/Events/Details/641",
+      "start": "2027-01-30",
+      "end": "2027-01-30",
+      "deadline": "2027-01-16",
+      "country_iso": "AUS",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2220"
+    },
+    {
+      "provider_id": 660,
+      "event_code": "ENG20266572",
+      "source": "https://recfevents.org/Events/Details/660",
+      "start": "2026-09-26",
+      "end": "2026-09-26",
+      "deadline": "2026-09-24",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Event ended"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2221"
+    },
+    {
+      "provider_id": 662,
+      "event_code": "ENG20268419",
+      "source": "https://recfevents.org/Events/Details/662",
+      "start": "2026-10-24",
+      "end": "2026-10-24",
+      "deadline": "2026-10-23",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Event ended"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2222"
+    },
+    {
+      "provider_id": 668,
+      "event_code": "ENG20264304",
+      "source": "https://recfevents.org/Events/Details/668",
+      "start": "2027-01-16",
+      "end": "2027-01-16",
+      "deadline": "2027-01-10",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2223"
+    },
+    {
+      "provider_id": 671,
+      "event_code": "ENG20261450",
+      "source": "https://recfevents.org/Events/Details/671",
+      "start": "2027-02-20",
+      "end": "2027-02-20",
+      "deadline": "2027-02-12",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2224"
+    },
+    {
+      "provider_id": 678,
+      "event_code": "ENG20262584",
+      "source": "https://recfevents.org/Events/Details/678",
+      "start": "2027-01-30",
+      "end": "2027-01-30",
+      "deadline": "2027-01-25",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration opens soon"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2225"
+    },
+    {
+      "provider_id": 679,
+      "event_code": "ENG20263503",
+      "source": "https://recfevents.org/Events/Details/679",
+      "start": "2027-01-30",
+      "end": "2027-01-30",
+      "deadline": "2027-01-25",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration opens soon"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2226"
+    },
+    {
+      "provider_id": 686,
+      "event_code": "ENG20261306",
+      "source": "https://recfevents.org/Events/Details/686",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "deadline": "2026-11-27",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2227"
+    },
+    {
+      "provider_id": 690,
+      "event_code": "ENG20266338",
+      "source": "https://recfevents.org/Events/Details/690",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "deadline": "2026-11-28",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2228"
+    },
+    {
+      "provider_id": 694,
+      "event_code": "ENG20262825",
+      "source": "https://recfevents.org/Events/Details/694",
+      "start": "2027-03-12",
+      "end": "2027-03-12",
+      "deadline": "2027-03-07",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration opens soon"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2229"
+    },
+    {
+      "provider_id": 695,
+      "event_code": "ENG20263772",
+      "source": "https://recfevents.org/Events/Details/695",
+      "start": "2027-03-13",
+      "end": "2027-03-14",
+      "deadline": "2027-03-07",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration opens soon"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2230"
+    },
+    {
+      "provider_id": 704,
+      "event_code": "ENG20267093",
+      "source": "https://recfevents.org/Events/Details/704",
+      "start": "2027-03-22",
+      "end": "2027-03-24",
+      "deadline": "2027-02-19",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration opens soon"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2231"
+    },
+    {
+      "provider_id": 705,
+      "event_code": "ENG20263343",
+      "source": "https://recfevents.org/Events/Details/705",
+      "start": "2027-03-22",
+      "end": "2027-03-24",
+      "deadline": "2027-02-19",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration opens soon"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2232"
+    },
+    {
+      "provider_id": 709,
+      "event_code": "ENG20267135",
+      "source": "https://recfevents.org/Events/Details/709",
+      "start": "2027-01-22",
+      "end": "2027-01-24",
+      "deadline": "2026-12-31",
+      "country_iso": "KOR",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2233"
+    },
+    {
+      "provider_id": 712,
+      "event_code": "ENG20265040",
+      "source": "https://recfevents.org/Events/Details/712",
+      "start": "2027-01-23",
+      "end": "2027-01-23",
+      "deadline": "2026-12-18",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration opens soon"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2234"
+    },
+    {
+      "provider_id": 714,
+      "event_code": "ENG20266102",
+      "source": "https://recfevents.org/Events/Details/714",
+      "start": "2026-09-30",
+      "end": "2026-10-02",
+      "deadline": "2026-09-30",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Workshops",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Event ended"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2235"
+    },
+    {
+      "provider_id": 716,
+      "event_code": "ENG20267916",
+      "source": "https://recfevents.org/Events/Details/716",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "deadline": "2026-11-13",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2236"
+    },
+    {
+      "provider_id": 719,
+      "event_code": "ENG20266983",
+      "source": "https://recfevents.org/Events/Details/719",
+      "start": "2027-02-13",
+      "end": "2027-02-13",
+      "deadline": "2027-02-05",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2237"
+    },
+    {
+      "provider_id": 722,
+      "event_code": "ENG20268566",
+      "source": "https://recfevents.org/Events/Details/722",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "deadline": "2026-11-14",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2238"
+    },
+    {
+      "provider_id": 723,
+      "event_code": "ENG20268241",
+      "source": "https://recfevents.org/Events/Details/723",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "deadline": "2026-11-02",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Event full"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2239"
+    },
+    {
+      "provider_id": 724,
+      "event_code": "ENG20262518",
+      "source": "https://recfevents.org/Events/Details/724",
+      "start": "2027-01-16",
+      "end": "2027-01-16",
+      "deadline": "2027-01-06",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2240"
+    },
+    {
+      "provider_id": 729,
+      "event_code": "ENG20266084",
+      "source": "https://recfevents.org/Events/Details/729",
+      "start": "2027-02-20",
+      "end": "2027-02-20",
+      "deadline": "2027-02-12",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration opens soon"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2241"
+    },
+    {
+      "provider_id": 730,
+      "event_code": "ENG20261884",
+      "source": "https://recfevents.org/Events/Details/730",
+      "start": "2027-02-20",
+      "end": "2027-02-20",
+      "deadline": "2027-02-12",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration opens soon"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2242"
+    },
+    {
+      "provider_id": 735,
+      "event_code": "ENG20268744",
+      "source": "https://recfevents.org/Events/Details/735",
+      "start": "2026-12-19",
+      "end": "2026-12-19",
+      "deadline": "2026-12-05",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2243"
+    },
+    {
+      "provider_id": 736,
+      "event_code": "ENG20268405",
+      "source": "https://recfevents.org/Events/Details/736",
+      "start": "2027-02-13",
+      "end": "2027-02-13",
+      "deadline": "2027-01-30",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration opens soon"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2244"
+    },
+    {
+      "provider_id": 746,
+      "event_code": "ENG20261822",
+      "source": "https://recfevents.org/Events/Details/746",
+      "start": "2026-10-17",
+      "end": "2027-01-16",
+      "deadline": "2026-10-16",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "League",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration closed"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2245"
+    },
+    {
+      "provider_id": 747,
+      "event_code": "ENG20268465",
+      "source": "https://recfevents.org/Events/Details/747",
+      "start": "2027-02-13",
+      "end": "2027-02-13",
+      "deadline": "2027-01-30",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [
+        "invitation_or_prior_qualification"
+      ],
+      "header_status": [
+        "Invitational"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2246"
+    },
+    {
+      "provider_id": 748,
+      "event_code": "ENG20261485",
+      "source": "https://recfevents.org/Events/Details/748",
+      "start": "2027-02-13",
+      "end": "2027-02-13",
+      "deadline": "2027-01-30",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [
+        "invitation_or_prior_qualification"
+      ],
+      "header_status": [
+        "Invitational"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2247"
+    },
+    {
+      "provider_id": 751,
+      "event_code": "ENG20263161",
+      "source": "https://recfevents.org/Events/Details/751",
+      "start": "2027-02-05",
+      "end": "2027-02-06",
+      "deadline": "2027-01-25",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration opens soon"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2248"
+    },
+    {
+      "provider_id": 758,
+      "event_code": "ENG20264243",
+      "source": "https://recfevents.org/Events/Details/758",
+      "start": "2027-02-27",
+      "end": "2027-02-27",
+      "deadline": "2027-02-26",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration opens soon"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2249"
+    },
+    {
+      "provider_id": 759,
+      "event_code": "ENG20262616",
+      "source": "https://recfevents.org/Events/Details/759",
+      "start": "2026-11-02",
+      "end": "2027-02-15",
+      "deadline": "2026-10-31",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "League",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration closed"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2250"
+    },
+    {
+      "provider_id": 760,
+      "event_code": "ENG20266880",
+      "source": "https://recfevents.org/Events/Details/760",
+      "start": "2026-10-09",
+      "end": "2026-10-09",
+      "deadline": "2026-10-08",
+      "country_iso": "VNM",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Event ended"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": "C1042"
+    },
+    {
+      "provider_id": 761,
+      "event_code": "ENG20265932",
+      "source": "https://recfevents.org/Events/Details/761",
+      "start": "2026-10-23",
+      "end": "2026-12-03",
+      "deadline": "2026-10-21",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Middle School",
+      "event_type": "League",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Event full"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2251"
+    },
+    {
+      "provider_id": 763,
+      "event_code": "ENG20261054",
+      "source": "https://recfevents.org/Events/Details/763",
+      "start": "2027-01-20",
+      "end": "2027-03-11",
+      "deadline": "2027-01-22",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "League",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration opens soon"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2252"
+    },
+    {
+      "provider_id": 766,
+      "event_code": "ENG20267750",
+      "source": "https://recfevents.org/Events/Details/766",
+      "start": "2027-01-09",
+      "end": "2027-01-09",
+      "deadline": "2027-01-15",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2253"
+    },
+    {
+      "provider_id": 774,
+      "event_code": "ENG20267998",
+      "source": "https://recfevents.org/Events/Details/774",
+      "start": "2027-01-09",
+      "end": "2027-01-09",
+      "deadline": "2027-01-02",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2254"
+    },
+    {
+      "provider_id": 782,
+      "event_code": "ENG20269585",
+      "source": "https://recfevents.org/Events/Details/782",
+      "start": "2027-01-30",
+      "end": "2027-01-30",
+      "deadline": "2027-01-22",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2255"
+    },
+    {
+      "provider_id": 785,
+      "event_code": "ENG20263960",
+      "source": "https://recfevents.org/Events/Details/785",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "deadline": "2026-11-13",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": null,
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2256"
+    },
+    {
+      "provider_id": 788,
+      "event_code": "ENG20269831",
+      "source": "https://recfevents.org/Events/Details/788",
+      "start": "2027-01-09",
+      "end": "2027-01-09",
+      "deadline": "2026-12-31",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2257"
+    },
+    {
+      "provider_id": 789,
+      "event_code": "ENG20263970",
+      "source": "https://recfevents.org/Events/Details/789",
+      "start": "2026-10-08",
+      "end": "2026-12-12",
+      "deadline": "2026-10-28",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "League",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration closed"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2258"
+    },
+    {
+      "provider_id": 795,
+      "event_code": "ENG20263619",
+      "source": "https://recfevents.org/Events/Details/795",
+      "start": "2027-01-23",
+      "end": "2027-01-23",
+      "deadline": "2026-12-31",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2259"
+    },
+    {
+      "provider_id": 796,
+      "event_code": "ENG20266965",
+      "source": "https://recfevents.org/Events/Details/796",
+      "start": "2027-01-30",
+      "end": "2027-01-30",
+      "deadline": "2027-01-25",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Event full · wait list open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2260"
+    },
+    {
+      "provider_id": 805,
+      "event_code": "ENG20267345",
+      "source": "https://recfevents.org/Events/Details/805",
+      "start": "2026-10-24",
+      "end": "2026-10-24",
+      "deadline": "2026-10-23",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Event ended"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2261"
+    },
+    {
+      "provider_id": 811,
+      "event_code": "ENG20269018",
+      "source": "https://recfevents.org/Events/Details/811",
+      "start": "2026-10-30",
+      "end": "2026-10-31",
+      "deadline": "2026-10-29",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Event ended"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2262"
+    },
+    {
+      "provider_id": 813,
+      "event_code": "ENG20265037",
+      "source": "https://recfevents.org/Events/Details/813",
+      "start": "2026-10-06",
+      "end": "2026-12-01",
+      "deadline": "2026-10-27",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "League",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration closed"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2263"
+    },
+    {
+      "provider_id": 816,
+      "event_code": "ENG20265484",
+      "source": "https://recfevents.org/Events/Details/816",
+      "start": "2026-11-12",
+      "end": "2027-02-11",
+      "deadline": "2026-11-06",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "League",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Event full · wait list open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2264"
+    },
+    {
+      "provider_id": 833,
+      "event_code": "ENG20266664",
+      "source": "https://recfevents.org/Events/Details/833",
+      "start": "2027-01-09",
+      "end": "2027-01-09",
+      "deadline": "2026-12-22",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2265"
+    },
+    {
+      "provider_id": 834,
+      "event_code": "ENG20265820",
+      "source": "https://recfevents.org/Events/Details/834",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "deadline": "2026-11-14",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2266"
+    },
+    {
+      "provider_id": 835,
+      "event_code": "ENG20269928",
+      "source": "https://recfevents.org/Events/Details/835",
+      "start": "2027-01-09",
+      "end": "2027-01-09",
+      "deadline": "2026-12-18",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2267"
+    },
+    {
+      "provider_id": 838,
+      "event_code": "ENG20268207",
+      "source": "https://recfevents.org/Events/Details/838",
+      "start": "2026-11-11",
+      "end": "2026-11-11",
+      "deadline": "2026-11-11",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2268"
+    },
+    {
+      "provider_id": 839,
+      "event_code": "ENG20261692",
+      "source": "https://recfevents.org/Events/Details/839",
+      "start": "2026-11-12",
+      "end": "2026-11-12",
+      "deadline": "2026-11-12",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2269"
+    },
+    {
+      "provider_id": 840,
+      "event_code": "ENG20268267",
+      "source": "https://recfevents.org/Events/Details/840",
+      "start": "2026-12-02",
+      "end": "2026-12-02",
+      "deadline": "2026-12-02",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2270"
+    },
+    {
+      "provider_id": 841,
+      "event_code": "ENG20265556",
+      "source": "https://recfevents.org/Events/Details/841",
+      "start": "2026-12-03",
+      "end": "2026-12-03",
+      "deadline": "2026-12-03",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": null,
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2271"
+    },
+    {
+      "provider_id": 842,
+      "event_code": "ENG20269739",
+      "source": "https://recfevents.org/Events/Details/842",
+      "start": "2026-12-09",
+      "end": "2026-12-09",
+      "deadline": "2026-12-09",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": null,
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2272"
+    },
+    {
+      "provider_id": 843,
+      "event_code": "ENG20264606",
+      "source": "https://recfevents.org/Events/Details/843",
+      "start": "2026-12-10",
+      "end": "2026-12-10",
+      "deadline": "2026-12-10",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": null,
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2273"
+    },
+    {
+      "provider_id": 844,
+      "event_code": "ENG20262975",
+      "source": "https://recfevents.org/Events/Details/844",
+      "start": "2026-12-04",
+      "end": "2026-12-05",
+      "deadline": "2026-11-17",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": null,
+      "qualification": null,
+      "admission_flags": [
+        "invitation_or_prior_qualification"
+      ],
+      "header_status": [
+        "Invitational"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2274"
+    },
+    {
+      "provider_id": 849,
+      "event_code": "ENG20265030",
+      "source": "https://recfevents.org/Events/Details/849",
+      "start": "2027-02-24",
+      "end": "2027-02-25",
+      "deadline": "2027-02-15",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [
+        "invitation_or_prior_qualification"
+      ],
+      "header_status": [
+        "Invitational"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2275"
+    },
+    {
+      "provider_id": 850,
+      "event_code": "ENG20265018",
+      "source": "https://recfevents.org/Events/Details/850",
+      "start": "2027-02-26",
+      "end": "2027-02-27",
+      "deadline": "2027-02-15",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [
+        "invitation_or_prior_qualification"
+      ],
+      "header_status": [
+        "Invitational"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2276"
+    },
+    {
+      "provider_id": 856,
+      "event_code": "ENG20269829",
+      "source": "https://recfevents.org/Events/Details/856",
+      "start": "2027-02-20",
+      "end": "2027-02-20",
+      "deadline": "2027-01-01",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2277"
+    },
+    {
+      "provider_id": 857,
+      "event_code": "ENG20264501",
+      "source": "https://recfevents.org/Events/Details/857",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "deadline": "2026-10-21",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration closed"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2278"
+    },
+    {
+      "provider_id": 865,
+      "event_code": "ENG20269642",
+      "source": "https://recfevents.org/Events/Details/865",
+      "start": "2027-01-23",
+      "end": "2027-01-23",
+      "deadline": "2027-01-15",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2279"
+    },
+    {
+      "provider_id": 866,
+      "event_code": "ENG20267966",
+      "source": "https://recfevents.org/Events/Details/866",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "deadline": "2026-10-31",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration closed"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2280"
+    },
+    {
+      "provider_id": 868,
+      "event_code": "ENG20266936",
+      "source": "https://recfevents.org/Events/Details/868",
+      "start": "2027-01-30",
+      "end": "2027-01-30",
+      "deadline": "2027-01-23",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2281"
+    },
+    {
+      "provider_id": 869,
+      "event_code": "ENG20262153",
+      "source": "https://recfevents.org/Events/Details/869",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "deadline": "2026-11-13",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [
+        "invitation_or_prior_qualification"
+      ],
+      "header_status": [
+        "Invitational"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2282"
+    },
+    {
+      "provider_id": 874,
+      "event_code": "ENG20268897",
+      "source": "https://recfevents.org/Events/Details/874",
+      "start": "2026-12-11",
+      "end": "2026-12-11",
+      "deadline": "2026-12-07",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2283"
+    },
+    {
+      "provider_id": 879,
+      "event_code": "ENG20261156",
+      "source": "https://recfevents.org/Events/Details/879",
+      "start": "2027-01-09",
+      "end": "2027-01-09",
+      "deadline": "2027-01-02",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2284"
+    },
+    {
+      "provider_id": 890,
+      "event_code": "ENG20262149",
+      "source": "https://recfevents.org/Events/Details/890",
+      "start": "2027-01-15",
+      "end": "2027-01-15",
+      "deadline": "2027-01-08",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Scrimmage",
+      "qualification": null,
+      "admission_flags": [
+        "invitation_or_prior_qualification"
+      ],
+      "header_status": [
+        "Invitational"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2285"
+    },
+    {
+      "provider_id": 893,
+      "event_code": "ENG20261134",
+      "source": "https://recfevents.org/Events/Details/893",
+      "start": "2027-02-06",
+      "end": "2027-02-06",
+      "deadline": "2027-01-15",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration opens soon"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2286"
+    },
+    {
+      "provider_id": 905,
+      "event_code": "ENG20261911",
+      "source": "https://recfevents.org/Events/Details/905",
+      "start": "2026-10-11",
+      "end": "2026-10-11",
+      "deadline": "2026-10-11",
+      "country_iso": "CHN",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Workshops",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Event ended"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2287"
+    },
+    {
+      "provider_id": 907,
+      "event_code": "ENG20265326",
+      "source": "https://recfevents.org/Events/Details/907",
+      "start": "2026-11-20",
+      "end": "2026-11-22",
+      "deadline": "2026-11-18",
+      "country_iso": "CHN",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": null,
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2288"
+    },
+    {
+      "provider_id": 911,
+      "event_code": "ENG20262568",
+      "source": "https://recfevents.org/Events/Details/911",
+      "start": "2026-10-17",
+      "end": "2026-10-18",
+      "deadline": "2026-10-15",
+      "country_iso": "CHN",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Workshops",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Event ended"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2289"
+    },
+    {
+      "provider_id": 916,
+      "event_code": "ENG20262560",
+      "source": "https://recfevents.org/Events/Details/916",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "deadline": "2026-12-01",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2290"
+    },
+    {
+      "provider_id": 922,
+      "event_code": "ENG20268178",
+      "source": "https://recfevents.org/Events/Details/922",
+      "start": "2027-02-21",
+      "end": "2027-02-21",
+      "deadline": "2027-02-15",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": null,
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2291"
+    },
+    {
+      "provider_id": 923,
+      "event_code": "ENG20264807",
+      "source": "https://recfevents.org/Events/Details/923",
+      "start": "2026-10-24",
+      "end": "2027-02-06",
+      "deadline": "2026-11-21",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "League",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2292"
+    },
+    {
+      "provider_id": 927,
+      "event_code": "ENG20267991",
+      "source": "https://recfevents.org/Events/Details/927",
+      "start": "2026-10-17",
+      "end": "2026-10-17",
+      "deadline": "2026-10-15",
+      "country_iso": "CHN",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Workshops",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Event ended"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2293"
+    },
+    {
+      "provider_id": 931,
+      "event_code": "ENG20268642",
+      "source": "https://recfevents.org/Events/Details/931",
+      "start": "2027-01-17",
+      "end": "2027-01-17",
+      "deadline": "2027-01-09",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2294"
+    },
+    {
+      "provider_id": 934,
+      "event_code": "ENG20265084",
+      "source": "https://recfevents.org/Events/Details/934",
+      "start": "2027-01-17",
+      "end": "2027-01-17",
+      "deadline": "2027-01-09",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2295"
+    },
+    {
+      "provider_id": 935,
+      "event_code": "ENG20266397",
+      "source": "https://recfevents.org/Events/Details/935",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "deadline": "2026-12-04",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Event full · wait list open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2296"
+    },
+    {
+      "provider_id": 936,
+      "event_code": "ENG20263450",
+      "source": "https://recfevents.org/Events/Details/936",
+      "start": "2027-01-16",
+      "end": "2027-01-16",
+      "deadline": "2027-01-08",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2297"
+    },
+    {
+      "provider_id": 940,
+      "event_code": "ENG20269014",
+      "source": "https://recfevents.org/Events/Details/940",
+      "start": "2027-03-13",
+      "end": "2027-03-14",
+      "deadline": "2027-03-05",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [
+        "invitation_or_prior_qualification"
+      ],
+      "header_status": [
+        "Invitational"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2298"
+    },
+    {
+      "provider_id": 941,
+      "event_code": "ENG20266240",
+      "source": "https://recfevents.org/Events/Details/941",
+      "start": "2027-03-13",
+      "end": "2027-03-14",
+      "deadline": "2027-03-05",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [
+        "invitation_or_prior_qualification"
+      ],
+      "header_status": [
+        "Invitational"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2299"
+    },
+    {
+      "provider_id": 943,
+      "event_code": "ENG20261320",
+      "source": "https://recfevents.org/Events/Details/943",
+      "start": "2027-01-16",
+      "end": "2027-01-16",
+      "deadline": "2027-01-09",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2300"
+    },
+    {
+      "provider_id": 945,
+      "event_code": "ENG20266236",
+      "source": "https://recfevents.org/Events/Details/945",
+      "start": "2027-01-22",
+      "end": "2027-01-22",
+      "deadline": "2027-01-08",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2301"
+    },
+    {
+      "provider_id": 953,
+      "event_code": "ENG20261393",
+      "source": "https://recfevents.org/Events/Details/953",
+      "start": "2027-01-23",
+      "end": "2027-01-23",
+      "deadline": "2027-01-11",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2302"
+    },
+    {
+      "provider_id": 955,
+      "event_code": "ENG20265996",
+      "source": "https://recfevents.org/Events/Details/955",
+      "start": "2027-01-30",
+      "end": "2027-01-30",
+      "deadline": "2027-01-22",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2303"
+    },
+    {
+      "provider_id": 957,
+      "event_code": "ENG20263926",
+      "source": "https://recfevents.org/Events/Details/957",
+      "start": "2026-12-31",
+      "end": "2027-01-02",
+      "deadline": "2026-12-31",
+      "country_iso": "CHN",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2304"
+    },
+    {
+      "provider_id": 958,
+      "event_code": "ENG20261759",
+      "source": "https://recfevents.org/Events/Details/958",
+      "start": "2026-12-31",
+      "end": "2027-01-02",
+      "deadline": "2026-12-31",
+      "country_iso": "CHN",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2305"
+    },
+    {
+      "provider_id": 960,
+      "event_code": "ENG20269020",
+      "source": "https://recfevents.org/Events/Details/960",
+      "start": "2027-01-10",
+      "end": "2027-01-10",
+      "deadline": "2026-12-18",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2306"
+    },
+    {
+      "provider_id": 963,
+      "event_code": "ENG20266567",
+      "source": "https://recfevents.org/Events/Details/963",
+      "start": "2026-11-01",
+      "end": "2026-11-01",
+      "deadline": "2026-10-28",
+      "country_iso": "VNM",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Event ended"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2307"
+    },
+    {
+      "provider_id": 964,
+      "event_code": "ENG20269702",
+      "source": "https://recfevents.org/Events/Details/964",
+      "start": "2027-01-30",
+      "end": "2027-01-30",
+      "deadline": "2027-01-17",
+      "country_iso": "MMR",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Scrimmage",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2308"
+    },
+    {
+      "provider_id": 970,
+      "event_code": "ENG20262858",
+      "source": "https://recfevents.org/Events/Details/970",
+      "start": "2027-01-17",
+      "end": "2027-01-17",
+      "deadline": "2027-01-14",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2309"
+    },
+    {
+      "provider_id": 972,
+      "event_code": "ENG20268395",
+      "source": "https://recfevents.org/Events/Details/972",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "deadline": "2026-11-21",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2310"
+    },
+    {
+      "provider_id": 975,
+      "event_code": "ENG20263658",
+      "source": "https://recfevents.org/Events/Details/975",
+      "start": "2027-02-06",
+      "end": "2027-02-06",
+      "deadline": "2027-01-06",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2311"
+    },
+    {
+      "provider_id": 976,
+      "event_code": "ENG20265013",
+      "source": "https://recfevents.org/Events/Details/976",
+      "start": "2027-01-23",
+      "end": "2027-01-23",
+      "deadline": "2027-01-28",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2312"
+    },
+    {
+      "provider_id": 987,
+      "event_code": "ENG20266992",
+      "source": "https://recfevents.org/Events/Details/987",
+      "start": "2027-01-30",
+      "end": "2027-01-30",
+      "deadline": "2027-01-25",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2313"
+    },
+    {
+      "provider_id": 989,
+      "event_code": "ENG20267429",
+      "source": "https://recfevents.org/Events/Details/989",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "deadline": "2026-12-10",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": null,
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2314"
+    },
+    {
+      "provider_id": 993,
+      "event_code": "ENG20261608",
+      "source": "https://recfevents.org/Events/Details/993",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "deadline": "2026-11-28",
+      "country_iso": "KOR",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2315"
+    },
+    {
+      "provider_id": 994,
+      "event_code": "ENG20265760",
+      "source": "https://recfevents.org/Events/Details/994",
+      "start": "2026-11-07",
+      "end": "2026-11-08",
+      "deadline": "2026-11-07",
+      "country_iso": "VNM",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2316"
+    },
+    {
+      "provider_id": 999,
+      "event_code": "ENG20261940",
+      "source": "https://recfevents.org/Events/Details/999",
+      "start": "2027-01-24",
+      "end": "2027-01-24",
+      "deadline": "2027-01-15",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration opens soon"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2317"
+    },
+    {
+      "provider_id": 1005,
+      "event_code": "ENG20263599",
+      "source": "https://recfevents.org/Events/Details/1005",
+      "start": "2027-01-30",
+      "end": "2027-01-30",
+      "deadline": "2027-01-18",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration opens soon"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2318"
+    },
+    {
+      "provider_id": 1013,
+      "event_code": "ENG20267413",
+      "source": "https://recfevents.org/Events/Details/1013",
+      "start": "2026-11-16",
+      "end": "2027-02-22",
+      "deadline": "2026-11-15",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "League",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2319"
+    },
+    {
+      "provider_id": 1021,
+      "event_code": "ENG20265361",
+      "source": "https://recfevents.org/Events/Details/1021",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "deadline": "2026-12-04",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2320"
+    },
+    {
+      "provider_id": 1023,
+      "event_code": "ENG20261060",
+      "source": "https://recfevents.org/Events/Details/1023",
+      "start": "2027-02-27",
+      "end": "2027-02-27",
+      "deadline": "2027-02-15",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [
+        "invitation_or_prior_qualification"
+      ],
+      "header_status": [
+        "Invitational"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2321"
+    },
+    {
+      "provider_id": 1024,
+      "event_code": "ENG20266116",
+      "source": "https://recfevents.org/Events/Details/1024",
+      "start": "2027-02-27",
+      "end": "2027-02-27",
+      "deadline": "2027-02-15",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [
+        "invitation_or_prior_qualification"
+      ],
+      "header_status": [
+        "Invitational"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2322"
+    },
+    {
+      "provider_id": 1027,
+      "event_code": "ENG20261522",
+      "source": "https://recfevents.org/Events/Details/1027",
+      "start": "2027-03-06",
+      "end": "2027-03-06",
+      "deadline": "2027-02-28",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2323"
+    },
+    {
+      "provider_id": 1031,
+      "event_code": "ENG20265321",
+      "source": "https://recfevents.org/Events/Details/1031",
+      "start": "2027-01-24",
+      "end": "2027-01-24",
+      "deadline": "2027-01-17",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2324"
+    },
+    {
+      "provider_id": 1047,
+      "event_code": "ENG20266834",
+      "source": "https://recfevents.org/Events/Details/1047",
+      "start": "2027-03-14",
+      "end": "2027-03-14",
+      "deadline": "2027-02-07",
+      "country_iso": "AUS",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [
+        "invitation_or_prior_qualification"
+      ],
+      "header_status": [
+        "Invitational"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2325"
+    },
+    {
+      "provider_id": 1049,
+      "event_code": "ENG20268415",
+      "source": "https://recfevents.org/Events/Details/1049",
+      "start": "2027-01-30",
+      "end": "2027-01-30",
+      "deadline": "2027-01-23",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration opens soon"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2326"
+    },
+    {
+      "provider_id": 1051,
+      "event_code": "ENG20263300",
+      "source": "https://recfevents.org/Events/Details/1051",
+      "start": "2027-02-20",
+      "end": "2027-02-20",
+      "deadline": "2027-02-12",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration opens soon"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2327"
+    },
+    {
+      "provider_id": 1067,
+      "event_code": "ENG20269968",
+      "source": "https://recfevents.org/Events/Details/1067",
+      "start": "2026-11-11",
+      "end": "2026-11-11",
+      "deadline": "2026-11-09",
+      "country_iso": "VNM",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [
+        "invitation_or_prior_qualification"
+      ],
+      "header_status": [
+        "Invitational"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2328"
+    },
+    {
+      "provider_id": 1069,
+      "event_code": "ENG20269419",
+      "source": "https://recfevents.org/Events/Details/1069",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "deadline": "2026-12-03",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2329"
+    },
+    {
+      "provider_id": 1081,
+      "event_code": "ENG20264462",
+      "source": "https://recfevents.org/Events/Details/1081",
+      "start": "2027-01-09",
+      "end": "2027-01-09",
+      "deadline": "2027-01-04",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration opens soon"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2330"
+    },
+    {
+      "provider_id": 1084,
+      "event_code": "ENG20267374",
+      "source": "https://recfevents.org/Events/Details/1084",
+      "start": "2026-12-09",
+      "end": "2026-12-09",
+      "deadline": "2026-12-02",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration open"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2331"
+    },
+    {
+      "provider_id": 1104,
+      "event_code": "ENG20261521",
+      "source": "https://recfevents.org/Events/Details/1104",
+      "start": "2027-01-09",
+      "end": "2027-01-09",
+      "deadline": "2026-12-09",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [],
+      "header_status": [
+        "Registration opens soon"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2332"
+    },
+    {
+      "provider_id": 1122,
+      "event_code": "ENG20261340",
+      "source": "https://recfevents.org/Events/Details/1122",
+      "start": "2026-12-14",
+      "end": "2026-12-14",
+      "deadline": "2026-12-14",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [
+        "invitation_or_prior_qualification"
+      ],
+      "header_status": [
+        "Invitational"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2333"
+    },
+    {
+      "provider_id": 1124,
+      "event_code": "ENG20263549",
+      "source": "https://recfevents.org/Events/Details/1124",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "deadline": "2026-12-01",
+      "country_iso": "USA",
+      "geo_inferred_from_structured_region": false,
+      "grades": "Elementary, Middle School",
+      "event_type": "Tournament",
+      "qualification": null,
+      "admission_flags": [
+        "invitation_or_prior_qualification"
+      ],
+      "header_status": [
+        "Invitational"
+      ],
+      "date_source_agreement": true,
+      "existing_event_id": null,
+      "catalogue_id": "C2334"
+    }
+  ],
+  "preview_events": [
+    {
+      "event_code": "ENG20263572",
+      "catalogue_id": "C2335",
+      "source": "https://recfevents.org/Events/ApprovedEvents?programTypeId=1&view=upcoming",
+      "start": "2027-01-18",
+      "end": "2027-01-18",
+      "publication_release": "2026-11-10",
+      "details_not_yet_released": true
+    },
+    {
+      "event_code": "ENG20266179",
+      "catalogue_id": "C2336",
+      "source": "https://recfevents.org/Events/ApprovedEvents?programTypeId=1&view=upcoming",
+      "start": "2027-01-30",
+      "end": "2027-01-30",
+      "publication_release": "2026-12-01",
+      "details_not_yet_released": true
+    },
+    {
+      "event_code": "ENG20266401",
+      "catalogue_id": "C2337",
+      "source": "https://recfevents.org/Events/ApprovedEvents?programTypeId=1&view=upcoming",
+      "start": "2027-02-12",
+      "end": "2027-02-13",
+      "publication_release": "2026-12-11",
+      "details_not_yet_released": true
+    },
+    {
+      "event_code": "ENG20269880",
+      "catalogue_id": "C2338",
+      "source": "https://recfevents.org/Events/ApprovedEvents?programTypeId=1&view=upcoming",
+      "start": "2027-02-12",
+      "end": "2027-02-13",
+      "publication_release": "2026-12-11",
+      "details_not_yet_released": true
+    }
+  ],
+  "source_issues": [
+    {
+      "provider_id": 119,
+      "kind": "country_not_resolved",
+      "country": null,
+      "region": null
+    }
+  ],
+  "web_reader_evidence": [
+    {
+      "url": "https://www.vexworlds.com/",
+      "checked": "2026-11-06",
+      "native_http_status": 403,
+      "reader_status": "read",
+      "facts": {
+        "venue": "Las Vegas Convention Center",
+        "event_year": 2027,
+        "exact_dates_not_published": true
+      }
+    },
+    {
+      "url": "https://www.vexrobotics.com/official-path",
+      "checked": "2026-11-06",
+      "native_http_status": 403,
+      "reader_status": "read",
+      "facts": {
+        "official_registration_platform": "events.vex.com",
+        "recf_not_the_same_qualification": true
+      }
+    }
+  ]
+}
