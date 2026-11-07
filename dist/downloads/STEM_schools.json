@@ -154,13 +154,13 @@
       "Жильё семьи, иммиграция, школьные визы, поездки команды и полная смета ещё не оценены."
     ],
     "counts": {
-      "records": 71,
+      "records": 79,
       "countries": 27,
-      "public": 13,
-      "private": 58,
+      "public": 14,
+      "private": 65,
       "boarding": 11,
-      "world_result": 14,
-      "organizer_protocol": 14,
+      "world_result": 19,
+      "organizer_protocol": 20,
       "fully_audited_countries": 0
     },
     "coverage": [
@@ -861,7 +861,7 @@
         "iso": "BRA",
         "country": "Бразилия",
         "region": "Южная Америка",
-        "records": 1,
+        "records": 9,
         "status": "partial"
       },
       {
@@ -3187,7 +3187,7 @@
       "region": "Южная Америка",
       "city": "Jundiaí · São Paulo",
       "school_type": "private_industry",
-      "curriculum": "Школа сети SESI-SP. Точная связь действующей Heroes с кампусом / CE и младшими классами требует проверки.",
+      "curriculum": "SESI-SP, кампус Humberto Cereser CE 021. Связь Heroes подтверждена национальным отчётом 2025 и муниципалитетом Jundiaí.",
       "ib_programmes": [],
       "ages": "Сеть обучает школьников; конкретный младший класс и возраст вступления в Heroes не установлены.",
       "instruction_languages": [],
@@ -3195,7 +3195,7 @@
       "fit": {
         "mat": "unknown",
         "osc": "unknown",
-        "note": "Сильная команда подтверждена, но младший вход, язык и кампус для детей пока не установлены."
+        "note": "Возраст набора в команду зависит от класса, кампуса и сезона."
       },
       "boarding": "unknown",
       "boarding_note": "Пансион не подтверждён.",
@@ -3210,9 +3210,9 @@
           "award": "Champion’s Award",
           "team": "SESI Heroes · Jundiaí",
           "team_id": null,
-          "source": "https://www.sesisp.org.br/noticia/sesi-sp-brilha-no-mundial-de-robotica-nos-eua-e-conquista-o-maior-premio-com-equipe-de-jundiai",
-          "provenance": "school_operator_report",
-          "limit": "Houston 2025 Champion’s Award сохраняется как отдельный титул. Кампус CE 021 уточнён по сообщению оператора 2026; независимый протокол Houston 2025 и историческое прикрепление кампуса требуют сверки."
+          "source": "https://www.firstinspires.org/community-blog/teams-from-around-the-world-made-a-splash-at-firstchamp",
+          "provenance": "organizer_protocol",
+          "limit": "Главная комплексная судейская награда Challenge на мировом фестивале FIRST."
         },
         {
           "league": "FIRST LEGO League Challenge",
@@ -3257,14 +3257,79 @@
           "source": "https://jundiai.sesisp.org.br/noticia/sesi-jundiai-conquista-titulo-mundial-de-robotica-no-mexico-e-traz-quatro-premiacoes-para-o-brasil",
           "provenance": "school_operator_report",
           "limit": "Оператор называет конкретный кампус CE 021 и международный Open Guadalajara 27–30.05.2026. Champions и Innovation — оценённые награды Open; вторые места Robot Performance / Alliances не мировые титулы Houston."
+        },
+        {
+          "league": "FIRST LEGO League Challenge",
+          "season": 2024,
+          "stage": "Festival SESI · Brasil",
+          "award": "Champion’s Award · 3rd place",
+          "team": "SESI Heroes",
+          "team_id": null,
+          "source": "https://noticias.portaldaindustria.com.br/noticias/robotica/os-grandes-vencedores-do-festival-sesi-de-educacao-2023-2024/",
+          "provenance": "organizer_report",
+          "limit": "Национальная общая оценка Challenge. Порядок соответствует отчёту CNI / SESI."
+        },
+        {
+          "league": "FIRST LEGO League Challenge",
+          "season": 2025,
+          "stage": "Festival SESI · Brasil",
+          "award": "Champion’s Award · 1st place",
+          "team": "SESI Heroes",
+          "team_id": null,
+          "source": "https://noticias.portaldaindustria.com.br/noticias/robotica/os-grandes-vencedores-do-festival-sesi-de-educacao-2024-2025/",
+          "provenance": "organizer_report",
+          "limit": "Национальная общая оценка Challenge. Порядок соответствует отчёту CNI / SESI."
+        },
+        {
+          "league": "FIRST LEGO League Challenge",
+          "season": 2024,
+          "stage": "FIRST World Festival · Houston",
+          "award": "Innovation Project Award Finalist",
+          "team": "SESI Heroes",
+          "team_id": null,
+          "source": "https://community.firstinspires.org/its-time-for-a-firstchamp-curtain-call",
+          "provenance": "organizer_protocol",
+          "limit": "FIRST перечисляет финалистов без порядковых мест. Зафиксирован статус финалиста."
+        },
+        {
+          "league": "FIRST LEGO League Challenge",
+          "season": 2023,
+          "stage": "Festival SESI · Brasil",
+          "award": "Alliances · 1st place",
+          "team": "SESI Heroes",
+          "team_id": null,
+          "source": "https://noticias.portaldaindustria.com.br/noticias/robotica/os-grandes-vencedores-do-festival-sesi-de-robotica-2023/",
+          "provenance": "organizer_report",
+          "limit": "Альянс Halley и SESI Heroes выиграл отдельную категорию фестиваля."
+        },
+        {
+          "league": "FIRST LEGO League Challenge",
+          "season": 2024,
+          "stage": "Festival SESI · Brasil",
+          "award": "Qualification · FIRST World Festival",
+          "team": "SESI Heroes",
+          "team_id": null,
+          "source": "https://noticias.portaldaindustria.com.br/noticias/robotica/os-grandes-vencedores-do-festival-sesi-de-educacao-2023-2024/",
+          "provenance": "organizer_report",
+          "limit": "Место или приглашение на следующий этап по отчёту организатора. Итог турнира фиксируется отдельно."
+        },
+        {
+          "league": "FIRST LEGO League Challenge",
+          "season": 2025,
+          "stage": "Festival SESI · Brasil",
+          "award": "Qualification · FIRST World Festival",
+          "team": "SESI Heroes",
+          "team_id": null,
+          "source": "https://jundiai.sesisp.org.br/noticia/equipes-de-robotica-do-sesi-jundiai-se-preparam-para-o-mundial-em-houston",
+          "provenance": "school_operator_report",
+          "limit": "Место или приглашение на следующий этап по отчёту организатора. Итог турнира фиксируется отдельно."
         }
       ],
       "evidence": "world_result",
       "admissions": "Общая запись на 2027 закрыта: beneficiary 06–15.10.2026, non-beneficiary 19–21.10.2026 только при оставшихся местах; это не действующая открытая форма. Подтвердить класс, индивидуальный приём, язык именно команды, наставника, роль ребёнка и полную смету. Заявки, согласия, сообщения и оплаты не выполнялись.",
       "cost": "Плата, льготы сети и статус иностранного ребёнка не установлены.",
       "questions": [
-        "Установить точный действующий кампус Heroes, младший набор и язык.",
-        "Получить независимый FIRST протокол и результаты других сезонов."
+        "Условия набора и язык команды нужно подтвердить для конкретного класса и сезона."
       ],
       "sources": [
         {
@@ -3308,9 +3373,58 @@
           "claim": "Общая запись на 2027 закрыта: beneficiary 06–15.10.2026, non-beneficiary 19–21.10.2026 только при оставшихся местах; это не действующая открытая форма.",
           "kind": "school_operator",
           "checked": "2026-11-05"
+        },
+        {
+          "title": "Prefeitura de Jundiaí · SESI Heroes",
+          "url": "https://jundiai.sp.gov.br/noticias/2026/07/10/jundiai-comemora-titulo-mundial-conquistado-por-equipe-de-robotica-do-sesi/",
+          "claim": "SESI-SP, кампус Humberto Cereser CE 021. Связь Heroes подтверждена национальным отчётом 2025 и муниципалитетом Jundiaí.",
+          "kind": "government",
+          "checked": "2026-11-07"
+        },
+        {
+          "title": "SESI Jundiaí · FIRST World Festival 2025",
+          "url": "https://jundiai.sesisp.org.br/noticia/equipes-de-robotica-do-sesi-jundiai-se-preparam-para-o-mundial-em-houston",
+          "claim": "Место или приглашение на следующий этап по отчёту организатора. Итог турнира фиксируется отдельно.",
+          "kind": "school_operator",
+          "checked": "2026-11-07"
+        },
+        {
+          "title": "FIRST LEGO League Challenge · Festival SESI · Brasil",
+          "url": "https://noticias.portaldaindustria.com.br/noticias/robotica/os-grandes-vencedores-do-festival-sesi-de-educacao-2023-2024/",
+          "claim": "Национальная общая оценка Challenge. Порядок соответствует отчёту CNI / SESI.",
+          "kind": "organizer",
+          "checked": "2026-11-07"
+        },
+        {
+          "title": "FIRST LEGO League Challenge · Festival SESI · Brasil",
+          "url": "https://noticias.portaldaindustria.com.br/noticias/robotica/os-grandes-vencedores-do-festival-sesi-de-educacao-2024-2025/",
+          "claim": "Национальная общая оценка Challenge. Порядок соответствует отчёту CNI / SESI.",
+          "kind": "organizer",
+          "checked": "2026-11-07"
+        },
+        {
+          "title": "FIRST LEGO League Challenge · FIRST World Festival · Houston",
+          "url": "https://www.firstinspires.org/community-blog/teams-from-around-the-world-made-a-splash-at-firstchamp",
+          "claim": "Главная комплексная судейская награда Challenge на мировом фестивале FIRST.",
+          "kind": "organizer",
+          "checked": "2026-11-07"
+        },
+        {
+          "title": "FIRST LEGO League Challenge · FIRST World Festival · Houston",
+          "url": "https://community.firstinspires.org/its-time-for-a-firstchamp-curtain-call",
+          "claim": "Главная комплексная судейская награда Challenge на мировом фестивале FIRST.",
+          "kind": "organizer",
+          "checked": "2026-11-07"
+        },
+        {
+          "title": "FIRST LEGO League Challenge · Festival SESI · Brasil",
+          "url": "https://noticias.portaldaindustria.com.br/noticias/robotica/os-grandes-vencedores-do-festival-sesi-de-robotica-2023/",
+          "claim": "Национальная общая оценка Challenge. Порядок соответствует отчёту CNI / SESI.",
+          "kind": "organizer",
+          "checked": "2026-11-07"
         }
       ],
-      "checked": "2026-11-05",
+      "checked": "2026-11-07",
       "priority": 3,
       "research_status": "partial",
       "verification": "Документальная проверка; школа и место в команде не подтверждали приём детей."
@@ -7860,6 +7974,826 @@
       "priority": "research",
       "research_status": "partial",
       "verification": "Сеть ILBC сообщает о национальных победах Future Innovators Junior и Senior 2025 и Senior 2026, а также 5-м месте Senior на Open Asia & Pacific 2026. Это школьные отчёты; отдельный протокол организатора не проверен. Пятое место не является мировым подиумом, успех старших не доказывает технический приём младших."
+    },
+    {
+      "id": "S072",
+      "name": "Escola SESI-SP Araras · CE 303",
+      "iso": "BRA",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "city": "Araras · São Paulo",
+      "school_type": "private_industry",
+      "curriculum": "Школьная команда Los Atômicos выступала в FIRST LEGO League Challenge.",
+      "ib_programmes": [],
+      "ages": "Возраст набора в команду зависит от класса, кампуса и сезона.",
+      "instruction_languages": [],
+      "language_note": "Подтверждения преподавания на английском или испанском для нужного класса и команды пока нет.",
+      "fit": {
+        "mat": "unknown",
+        "osc": "unknown",
+        "note": "Возраст набора в команду зависит от класса, кампуса и сезона."
+      },
+      "boarding": "unknown",
+      "boarding_note": "Пансион не подтверждён.",
+      "programme": "Школьная команда Los Atômicos выступала в FIRST LEGO League Challenge.",
+      "labs": "Доступ к оборудованию для конкретного класса нужно уточнить.",
+      "ai": "Отдельный курс ИИ для нужной ступени пока не подтверждён.",
+      "results": [
+        {
+          "league": "FIRST LEGO League Challenge",
+          "season": 2024,
+          "stage": "Festival SESI · Brasil",
+          "award": "Champion’s Award · 1st place",
+          "team": "Los Atômicos",
+          "team_id": null,
+          "source": "https://noticias.portaldaindustria.com.br/noticias/robotica/os-grandes-vencedores-do-festival-sesi-de-educacao-2023-2024/",
+          "provenance": "organizer_report",
+          "limit": "Национальная общая оценка Challenge. Порядок соответствует отчёту CNI / SESI."
+        },
+        {
+          "league": "FIRST LEGO League Challenge",
+          "season": 2024,
+          "stage": "FIRST World Festival · Houston",
+          "award": "Champion’s Award",
+          "team": "Los Atômicos",
+          "team_id": null,
+          "source": "https://community.firstinspires.org/its-time-for-a-firstchamp-curtain-call",
+          "provenance": "organizer_protocol",
+          "limit": "Главная комплексная судейская награда Challenge на мировом фестивале FIRST."
+        },
+        {
+          "league": "FIRST LEGO League Challenge",
+          "season": 2024,
+          "stage": "Festival SESI · Brasil",
+          "award": "Qualification · FIRST World Festival",
+          "team": "Los Atômicos",
+          "team_id": null,
+          "source": "https://noticias.portaldaindustria.com.br/noticias/robotica/os-grandes-vencedores-do-festival-sesi-de-educacao-2023-2024/",
+          "provenance": "organizer_report",
+          "limit": "Место или приглашение на следующий этап по отчёту организатора. Итог турнира фиксируется отдельно."
+        }
+      ],
+      "evidence": "world_result",
+      "admissions": "Приём ведётся по классу и наличию мест. Условия кампуса и возможность участия в команде проверяются отдельно.",
+      "cost": "Стоимость, льготы и расходы на выезды уточняются у кампуса.",
+      "questions": [
+        "Условия набора и язык команды нужно подтвердить для конкретного класса и сезона."
+      ],
+      "sources": [
+        {
+          "title": "SESI-SP · campus directory",
+          "url": "https://araras.sesisp.org.br/unidades-escolares",
+          "claim": "Идентификация кампусов сети SESI-SP по номерам CE.",
+          "kind": "school_operator",
+          "checked": "2026-11-07"
+        },
+        {
+          "title": "Los Atômicos · SESI-SP",
+          "url": "https://www.sesisp.org.br/educacao/noticia/estudantes-do-sesi-sp-conquistam-1o-lugar-no-maior-torneio-de-robotica-do-mundo",
+          "claim": "Школьная команда Los Atômicos выступала в FIRST LEGO League Challenge.",
+          "kind": "school_operator",
+          "checked": "2026-11-07"
+        },
+        {
+          "title": "SESI-SP · processo seletivo",
+          "url": "https://araras.sesisp.org.br/processo-seletivo",
+          "claim": "Приём ведётся по классу и наличию мест. Условия кампуса и возможность участия в команде проверяются отдельно.",
+          "kind": "school_operator",
+          "checked": "2026-11-07"
+        },
+        {
+          "title": "FIRST LEGO League Challenge · Festival SESI · Brasil",
+          "url": "https://noticias.portaldaindustria.com.br/noticias/robotica/os-grandes-vencedores-do-festival-sesi-de-educacao-2023-2024/",
+          "claim": "Национальная общая оценка Challenge. Порядок соответствует отчёту CNI / SESI.",
+          "kind": "organizer",
+          "checked": "2026-11-07"
+        },
+        {
+          "title": "FIRST LEGO League Challenge · FIRST World Festival · Houston",
+          "url": "https://community.firstinspires.org/its-time-for-a-firstchamp-curtain-call",
+          "claim": "Главная комплексная судейская награда Challenge на мировом фестивале FIRST.",
+          "kind": "organizer",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "priority": 3,
+      "research_status": "partial",
+      "verification": "Документальная проверка; школа и место в команде не подтверждали приём детей."
+    },
+    {
+      "id": "S073",
+      "name": "Escola SESI-SP Hercilio Lorenzetti · CE 260",
+      "iso": "BRA",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "city": "Santa Cruz do Rio Pardo · São Paulo",
+      "school_type": "private_industry",
+      "curriculum": "Школьная команда Pardoboots выступала в FIRST LEGO League Challenge.",
+      "ib_programmes": [],
+      "ages": "Возраст набора в команду зависит от класса, кампуса и сезона.",
+      "instruction_languages": [],
+      "language_note": "Подтверждения преподавания на английском или испанском для нужного класса и команды пока нет.",
+      "fit": {
+        "mat": "unknown",
+        "osc": "unknown",
+        "note": "Возраст набора в команду зависит от класса, кампуса и сезона."
+      },
+      "boarding": "unknown",
+      "boarding_note": "Пансион не подтверждён.",
+      "programme": "Школьная команда Pardoboots выступала в FIRST LEGO League Challenge.",
+      "labs": "Доступ к оборудованию для конкретного класса нужно уточнить.",
+      "ai": "Отдельный курс ИИ для нужной ступени пока не подтверждён.",
+      "results": [
+        {
+          "league": "FIRST LEGO League Challenge",
+          "season": 2024,
+          "stage": "Festival SESI · Brasil",
+          "award": "Champion’s Award · 2nd place",
+          "team": "Pardoboots",
+          "team_id": null,
+          "source": "https://noticias.portaldaindustria.com.br/noticias/robotica/os-grandes-vencedores-do-festival-sesi-de-educacao-2023-2024/",
+          "provenance": "organizer_report",
+          "limit": "Национальная общая оценка Challenge. Порядок соответствует отчёту CNI / SESI."
+        },
+        {
+          "league": "FIRST LEGO League Challenge",
+          "season": 2024,
+          "stage": "FIRST World Festival · Houston",
+          "award": "Champion’s Award Finalist",
+          "team": "Pardoboots",
+          "team_id": null,
+          "source": "https://community.firstinspires.org/its-time-for-a-firstchamp-curtain-call",
+          "provenance": "organizer_protocol",
+          "limit": "FIRST перечисляет финалистов без порядковых мест. Зафиксирован статус финалиста."
+        },
+        {
+          "league": "FIRST LEGO League Challenge",
+          "season": 2024,
+          "stage": "Festival SESI · Brasil",
+          "award": "Qualification · FIRST World Festival",
+          "team": "Pardoboots",
+          "team_id": null,
+          "source": "https://noticias.portaldaindustria.com.br/noticias/robotica/os-grandes-vencedores-do-festival-sesi-de-educacao-2023-2024/",
+          "provenance": "organizer_report",
+          "limit": "Место или приглашение на следующий этап по отчёту организатора. Итог турнира фиксируется отдельно."
+        }
+      ],
+      "evidence": "world_result",
+      "admissions": "Приём ведётся по классу и наличию мест. Условия кампуса и возможность участия в команде проверяются отдельно.",
+      "cost": "Стоимость, льготы и расходы на выезды уточняются у кампуса.",
+      "questions": [
+        "Условия набора и язык команды нужно подтвердить для конкретного класса и сезона."
+      ],
+      "sources": [
+        {
+          "title": "SESI-SP · campus directory",
+          "url": "https://araras.sesisp.org.br/unidades-escolares",
+          "claim": "Идентификация кампусов сети SESI-SP по номерам CE.",
+          "kind": "school_operator",
+          "checked": "2026-11-07"
+        },
+        {
+          "title": "Pardoboots · SESI-SP",
+          "url": "https://www.sesisp.org.br/educacao/noticia/estudantes-do-sesi-sp-conquistam-1o-lugar-no-maior-torneio-de-robotica-do-mundo",
+          "claim": "Школьная команда Pardoboots выступала в FIRST LEGO League Challenge.",
+          "kind": "school_operator",
+          "checked": "2026-11-07"
+        },
+        {
+          "title": "SESI-SP · processo seletivo",
+          "url": "https://araras.sesisp.org.br/processo-seletivo",
+          "claim": "Приём ведётся по классу и наличию мест. Условия кампуса и возможность участия в команде проверяются отдельно.",
+          "kind": "school_operator",
+          "checked": "2026-11-07"
+        },
+        {
+          "title": "FIRST LEGO League Challenge · Festival SESI · Brasil",
+          "url": "https://noticias.portaldaindustria.com.br/noticias/robotica/os-grandes-vencedores-do-festival-sesi-de-educacao-2023-2024/",
+          "claim": "Национальная общая оценка Challenge. Порядок соответствует отчёту CNI / SESI.",
+          "kind": "organizer",
+          "checked": "2026-11-07"
+        },
+        {
+          "title": "FIRST LEGO League Challenge · FIRST World Festival · Houston",
+          "url": "https://community.firstinspires.org/its-time-for-a-firstchamp-curtain-call",
+          "claim": "Главная комплексная судейская награда Challenge на мировом фестивале FIRST.",
+          "kind": "organizer",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "priority": 3,
+      "research_status": "partial",
+      "verification": "Документальная проверка; школа и место в команде не подтверждали приём детей."
+    },
+    {
+      "id": "S074",
+      "name": "Escola SESI-SP Birigui · CE 148",
+      "iso": "BRA",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "city": "Birigui · São Paulo",
+      "school_type": "private_industry",
+      "curriculum": "Школьная команда Halley выступала в FIRST LEGO League Challenge.",
+      "ib_programmes": [],
+      "ages": "Возраст набора в команду зависит от класса, кампуса и сезона.",
+      "instruction_languages": [],
+      "language_note": "Подтверждения преподавания на английском или испанском для нужного класса и команды пока нет.",
+      "fit": {
+        "mat": "unknown",
+        "osc": "unknown",
+        "note": "Возраст набора в команду зависит от класса, кампуса и сезона."
+      },
+      "boarding": "unknown",
+      "boarding_note": "Пансион не подтверждён.",
+      "programme": "Школьная команда Halley выступала в FIRST LEGO League Challenge.",
+      "labs": "Доступ к оборудованию для конкретного класса нужно уточнить.",
+      "ai": "Отдельный курс ИИ для нужной ступени пока не подтверждён.",
+      "results": [
+        {
+          "league": "FIRST LEGO League Challenge",
+          "season": 2022,
+          "stage": "Festival SESI · Brasil",
+          "award": "Champion’s Award · 1st place",
+          "team": "Halley",
+          "team_id": null,
+          "source": "https://noticias.portaldaindustria.com.br/noticias/robotica/e-campeao-os-vencedores-do-festival-sesi-de-robotica-2022/",
+          "provenance": "organizer_report",
+          "limit": "Национальная общая оценка Challenge. Порядок соответствует отчёту CNI / SESI."
+        },
+        {
+          "league": "FIRST LEGO League Challenge",
+          "season": 2022,
+          "stage": "International Open · Rio de Janeiro",
+          "award": "Champion’s Award",
+          "team": "Halley",
+          "team_id": null,
+          "source": "https://noticias.portaldaindustria.com.br/noticias/educacao/conheca-as-equipes-vencedoras-do-first-lego-league-fll/",
+          "provenance": "organizer_report",
+          "limit": "Официальный результат отдельного международного Open в Рио-де-Жанейро."
+        },
+        {
+          "league": "FIRST LEGO League Challenge",
+          "season": 2023,
+          "stage": "Festival SESI · Brasil",
+          "award": "Robot Performance · 1st place",
+          "team": "Halley",
+          "team_id": null,
+          "source": "https://birigui.sesisp.org.br/noticia/alunos-de-birigui-conquistam-duas-premiacoes-no-festival-sesi-de-robotica-2023",
+          "provenance": "school_report",
+          "limit": "Школа указывает победу в отдельной категории фестиваля."
+        },
+        {
+          "league": "FIRST LEGO League Challenge",
+          "season": 2023,
+          "stage": "Festival SESI · Brasil",
+          "award": "Alliances · 1st place",
+          "team": "Halley",
+          "team_id": null,
+          "source": "https://birigui.sesisp.org.br/noticia/alunos-de-birigui-conquistam-duas-premiacoes-no-festival-sesi-de-robotica-2023",
+          "provenance": "school_report",
+          "limit": "Школа указывает победу в отдельной категории фестиваля."
+        }
+      ],
+      "evidence": "other_result",
+      "admissions": "Приём ведётся по классу и наличию мест. Условия кампуса и возможность участия в команде проверяются отдельно.",
+      "cost": "Стоимость, льготы и расходы на выезды уточняются у кампуса.",
+      "questions": [
+        "Условия набора и язык команды нужно подтвердить для конкретного класса и сезона."
+      ],
+      "sources": [
+        {
+          "title": "SESI-SP · campus directory",
+          "url": "https://araras.sesisp.org.br/unidades-escolares",
+          "claim": "Идентификация кампусов сети SESI-SP по номерам CE.",
+          "kind": "school_operator",
+          "checked": "2026-11-07"
+        },
+        {
+          "title": "Halley · SESI-SP",
+          "url": "https://www.sesisp.org.br/noticia/equipe-formada-apenas-por-meninas-conquista-o-1-lugar-no-festival-sesi-de-robotica",
+          "claim": "Школьная команда Halley выступала в FIRST LEGO League Challenge.",
+          "kind": "school_operator",
+          "checked": "2026-11-07"
+        },
+        {
+          "title": "SESI-SP · processo seletivo",
+          "url": "https://araras.sesisp.org.br/processo-seletivo",
+          "claim": "Приём ведётся по классу и наличию мест. Условия кампуса и возможность участия в команде проверяются отдельно.",
+          "kind": "school_operator",
+          "checked": "2026-11-07"
+        },
+        {
+          "title": "FIRST LEGO League Challenge · Festival SESI · Brasil",
+          "url": "https://noticias.portaldaindustria.com.br/noticias/robotica/e-campeao-os-vencedores-do-festival-sesi-de-robotica-2022/",
+          "claim": "Национальная общая оценка Challenge. Порядок соответствует отчёту CNI / SESI.",
+          "kind": "organizer",
+          "checked": "2026-11-07"
+        },
+        {
+          "title": "FIRST LEGO League Challenge · International Open · Rio de Janeiro",
+          "url": "https://noticias.portaldaindustria.com.br/noticias/educacao/conheca-as-equipes-vencedoras-do-first-lego-league-fll/",
+          "claim": "Официальный результат отдельного международного Open в Рио-де-Жанейро.",
+          "kind": "organizer",
+          "checked": "2026-11-07"
+        },
+        {
+          "title": "FIRST LEGO League Challenge · Festival SESI · Brasil",
+          "url": "https://birigui.sesisp.org.br/noticia/alunos-de-birigui-conquistam-duas-premiacoes-no-festival-sesi-de-robotica-2023",
+          "claim": "Школа указывает победу в отдельной категории фестиваля.",
+          "kind": "organizer",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "priority": 3,
+      "research_status": "partial",
+      "verification": "Документальная проверка; школа и место в команде не подтверждали приём детей."
+    },
+    {
+      "id": "S075",
+      "name": "Escola SESI de Referência de Itajaí",
+      "iso": "BRA",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "city": "Itajaí · Santa Catarina",
+      "school_type": "private_industry",
+      "curriculum": "Кампус SESI в Итажаи выставлял Pipeline Surfers в FLL Challenge. FIESC описывает общеобразовательные ступени и maker-занятия.",
+      "ib_programmes": [],
+      "ages": "Возраст набора в команду зависит от класса, кампуса и сезона.",
+      "instruction_languages": [],
+      "language_note": "Подтверждения преподавания на английском или испанском для нужного класса и команды пока нет.",
+      "fit": {
+        "mat": "unknown",
+        "osc": "unknown",
+        "note": "Возраст набора в команду зависит от класса, кампуса и сезона."
+      },
+      "boarding": "unknown",
+      "boarding_note": "Пансион не подтверждён.",
+      "programme": "Кампус SESI в Итажаи выставлял Pipeline Surfers в FLL Challenge. FIESC описывает общеобразовательные ступени и maker-занятия.",
+      "labs": "Доступ к оборудованию для конкретного класса нужно уточнить.",
+      "ai": "Отдельный курс ИИ для нужной ступени пока не подтверждён.",
+      "results": [
+        {
+          "league": "FIRST LEGO League Challenge",
+          "season": 2026,
+          "stage": "Festival SESI · Brasil",
+          "award": "Champion’s Award · 1st place",
+          "team": "Pipeline Surfers",
+          "team_id": null,
+          "source": "https://noticias.portaldaindustria.com.br/noticias/robotica/festival-sesi-de-educacao-20252026-veja-quem-sao-os-grandes-vencedores/",
+          "provenance": "organizer_report",
+          "limit": "Национальная общая оценка Challenge. Порядок соответствует отчёту CNI / SESI."
+        },
+        {
+          "league": "FIRST LEGO League Challenge",
+          "season": 2026,
+          "stage": "FIRST World Festival · Houston",
+          "award": "Champion’s Award Finalist",
+          "team": "Pipeline Surfers",
+          "team_id": null,
+          "source": "https://www.firstinspires.org/community-blog/teams-from-around-the-world-made-history-at-firstchamp",
+          "provenance": "organizer_protocol",
+          "limit": "FIRST перечисляет финалистов без порядковых мест. Зафиксирован статус финалиста."
+        },
+        {
+          "league": "FIRST LEGO League Challenge",
+          "season": 2026,
+          "stage": "Festival SESI · Brasil",
+          "award": "Qualification · FIRST World Festival",
+          "team": "Pipeline Surfers",
+          "team_id": null,
+          "source": "https://noticias.portaldaindustria.com.br/noticias/robotica/festival-sesi-de-educacao-20252026-veja-quem-sao-os-grandes-vencedores/",
+          "provenance": "organizer_report",
+          "limit": "Место или приглашение на следующий этап по отчёту организатора. Итог турнира фиксируется отдельно."
+        }
+      ],
+      "evidence": "world_result",
+      "admissions": "Приём ведётся по классу и наличию мест. Условия кампуса и возможность участия в команде проверяются отдельно.",
+      "cost": "Стоимость, льготы и расходы на выезды уточняются у кампуса.",
+      "questions": [
+        "Условия набора и язык команды нужно подтвердить для конкретного класса и сезона."
+      ],
+      "sources": [
+        {
+          "title": "FIESC · Pipeline Surfers",
+          "url": "https://www.fiesc.com.br/pt-br/imprensa/estudantes-da-escola-sesi-sc-estao-entre-os-5-melhores-do-planeta-em-robotica",
+          "claim": "Кампус SESI в Итажаи выставлял Pipeline Surfers в FLL Challenge. FIESC описывает общеобразовательные ступени и maker-занятия.",
+          "kind": "school_operator",
+          "checked": "2026-11-07"
+        },
+        {
+          "title": "FIESC · Escola S em Itajaí",
+          "url": "https://fiesc.com.br/pt-br/imprensa/escola-s-em-itajai-inicia-ano-letivo-em-novas-instalacoes",
+          "claim": "Кампус SESI в Итажаи выставлял Pipeline Surfers в FLL Challenge. FIESC описывает общеобразовательные ступени и maker-занятия.",
+          "kind": "school_operator",
+          "checked": "2026-11-07"
+        },
+        {
+          "title": "FIESC · Escola SESI de Referência",
+          "url": "https://fiesc.com.br/pt-br/imprensa/escola-sesi-de-referencia-em-itajai-recebe-certificacao-de-qualidade-em-gestao-escolar",
+          "claim": "Кампус SESI в Итажаи выставлял Pipeline Surfers в FLL Challenge. FIESC описывает общеобразовательные ступени и maker-занятия.",
+          "kind": "school_operator",
+          "checked": "2026-11-07"
+        },
+        {
+          "title": "FIRST LEGO League Challenge · Festival SESI · Brasil",
+          "url": "https://noticias.portaldaindustria.com.br/noticias/robotica/festival-sesi-de-educacao-20252026-veja-quem-sao-os-grandes-vencedores/",
+          "claim": "Национальная общая оценка Challenge. Порядок соответствует отчёту CNI / SESI.",
+          "kind": "organizer",
+          "checked": "2026-11-07"
+        },
+        {
+          "title": "FIRST LEGO League Challenge · FIRST World Festival · Houston",
+          "url": "https://www.firstinspires.org/community-blog/teams-from-around-the-world-made-history-at-firstchamp",
+          "claim": "FIRST перечисляет финалистов без порядковых мест. Зафиксирован статус финалиста.",
+          "kind": "organizer",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "priority": 3,
+      "research_status": "partial",
+      "verification": "Документальная проверка; школа и место в команде не подтверждали приём детей."
+    },
+    {
+      "id": "S076",
+      "name": "Escola SESI Taguatinga",
+      "iso": "BRA",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "city": "Taguatinga · Distrito Federal",
+      "school_type": "private_industry",
+      "curriculum": "ALBATROID представляет SESI Taguatinga. Результаты Challenge проверены по CNI и FIRST.",
+      "ib_programmes": [],
+      "ages": "Возраст набора в команду зависит от класса, кампуса и сезона.",
+      "instruction_languages": [],
+      "language_note": "Подтверждения преподавания на английском или испанском для нужного класса и команды пока нет.",
+      "fit": {
+        "mat": "unknown",
+        "osc": "unknown",
+        "note": "Возраст набора в команду зависит от класса, кампуса и сезона."
+      },
+      "boarding": "unknown",
+      "boarding_note": "Пансион не подтверждён.",
+      "programme": "ALBATROID представляет SESI Taguatinga. Результаты Challenge проверены по CNI и FIRST.",
+      "labs": "Доступ к оборудованию для конкретного класса нужно уточнить.",
+      "ai": "Отдельный курс ИИ для нужной ступени пока не подтверждён.",
+      "results": [
+        {
+          "league": "FIRST LEGO League Challenge",
+          "season": 2026,
+          "stage": "Festival SESI · Brasil",
+          "award": "Champion’s Award · 3rd place",
+          "team": "ALBATROID",
+          "team_id": null,
+          "source": "https://noticias.portaldaindustria.com.br/noticias/robotica/festival-sesi-de-educacao-20252026-veja-quem-sao-os-grandes-vencedores/",
+          "provenance": "organizer_report",
+          "limit": "Национальная общая оценка Challenge. Порядок соответствует отчёту CNI / SESI."
+        },
+        {
+          "league": "FIRST LEGO League Challenge",
+          "season": 2026,
+          "stage": "FIRST World Festival · Houston",
+          "award": "Rising All-Star Award",
+          "team": "ALBATROID",
+          "team_id": null,
+          "source": "https://www.firstinspires.org/community-blog/teams-from-around-the-world-made-history-at-firstchamp",
+          "provenance": "organizer_protocol",
+          "limit": "Именная награда в списке FIRST с несколькими получателями."
+        },
+        {
+          "league": "FIRST LEGO League Challenge",
+          "season": 2026,
+          "stage": "Festival SESI · Brasil",
+          "award": "Qualification · FIRST World Festival",
+          "team": "ALBATROID",
+          "team_id": null,
+          "source": "https://noticias.portaldaindustria.com.br/noticias/robotica/festival-sesi-de-educacao-20252026-veja-quem-sao-os-grandes-vencedores/",
+          "provenance": "organizer_report",
+          "limit": "Место или приглашение на следующий этап по отчёту организатора. Итог турнира фиксируется отдельно."
+        }
+      ],
+      "evidence": "world_result",
+      "admissions": "Приём ведётся по классу и наличию мест. Условия кампуса и возможность участия в команде проверяются отдельно.",
+      "cost": "Стоимость, льготы и расходы на выезды уточняются у кампуса.",
+      "questions": [
+        "Условия набора и язык команды нужно подтвердить для конкретного класса и сезона."
+      ],
+      "sources": [
+        {
+          "title": "SESI-DF · ALBATROID",
+          "url": "https://www.sistemafibra.org.br/sesi/39-noticias/destaques/2312-albatroid-e-premiada-como-estrela-em-ascensao-no-first-championship-2026",
+          "claim": "ALBATROID представляет SESI Taguatinga. Результаты Challenge проверены по CNI и FIRST.",
+          "kind": "school_operator",
+          "checked": "2026-11-07"
+        },
+        {
+          "title": "SESI-DF · Taguatinga",
+          "url": "https://www.sistemafibra.org.br/sesi/component/content/article?Itemid=127&id=82",
+          "claim": "Условия набора и язык команды нужно подтвердить для конкретного класса и сезона.",
+          "kind": "school_operator",
+          "checked": "2026-11-07"
+        },
+        {
+          "title": "FIRST LEGO League Challenge · Festival SESI · Brasil",
+          "url": "https://noticias.portaldaindustria.com.br/noticias/robotica/festival-sesi-de-educacao-20252026-veja-quem-sao-os-grandes-vencedores/",
+          "claim": "Национальная общая оценка Challenge. Порядок соответствует отчёту CNI / SESI.",
+          "kind": "organizer",
+          "checked": "2026-11-07"
+        },
+        {
+          "title": "FIRST LEGO League Challenge · FIRST World Festival · Houston",
+          "url": "https://www.firstinspires.org/community-blog/teams-from-around-the-world-made-history-at-firstchamp",
+          "claim": "FIRST перечисляет финалистов без порядковых мест. Зафиксирован статус финалиста.",
+          "kind": "organizer",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "priority": 3,
+      "research_status": "partial",
+      "verification": "Документальная проверка; школа и место в команде не подтверждали приём детей."
+    },
+    {
+      "id": "S077",
+      "name": "Colégio São José · Itajaí",
+      "iso": "BRA",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "city": "Itajaí · Santa Catarina",
+      "school_type": "private",
+      "curriculum": "Команда Maremoto состоит из учеников начальной ступени Ensino Fundamental Anos Iniciais. Школа описывает участие в FLL Explore.",
+      "ib_programmes": [],
+      "ages": "Ensino Fundamental Anos Iniciais",
+      "instruction_languages": [],
+      "language_note": "Подтверждения преподавания на английском или испанском для нужного класса и команды пока нет.",
+      "fit": {
+        "mat": "candidate",
+        "osc": "candidate",
+        "note": "Оскару подходит для проверки как младший формат. Для обоих детей школа должна подтвердить класс, возраст и набор именно в Explore."
+      },
+      "boarding": "unknown",
+      "boarding_note": "Пансион не подтверждён.",
+      "programme": "Команда Maremoto состоит из учеников начальной ступени Ensino Fundamental Anos Iniciais. Школа описывает участие в FLL Explore.",
+      "labs": "Доступ к оборудованию для конкретного класса нужно уточнить.",
+      "ai": "Отдельный курс ИИ для нужной ступени пока не подтверждён.",
+      "results": [
+        {
+          "league": "FIRST LEGO League Explore",
+          "season": 2025,
+          "stage": "FLL Explore · Curitiba",
+          "award": "Regional winner · school report",
+          "team": "Maremoto",
+          "team_id": null,
+          "source": "https://saojose.com.br/equipe-de-itajai-conquista-titulos-regional-e-nacional-de-robotica-e-e-convidada-a-representar-o-brasil-em-mundial-nos-estados-unidos/",
+          "provenance": "school_report",
+          "limit": "Результат младшего формата приведён по отчёту школы. Общий числовой рейтинг команд Explore не выводится."
+        },
+        {
+          "league": "FIRST LEGO League Explore",
+          "season": 2025,
+          "stage": "FLL Explore · São Paulo",
+          "award": "National winner · school report",
+          "team": "Maremoto",
+          "team_id": null,
+          "source": "https://saojose.com.br/equipe-de-itajai-conquista-titulos-regional-e-nacional-de-robotica-e-e-convidada-a-representar-o-brasil-em-mundial-nos-estados-unidos/",
+          "provenance": "school_report",
+          "limit": "Результат младшего формата приведён по отчёту школы. Общий числовой рейтинг команд Explore не выводится."
+        },
+        {
+          "league": "FIRST LEGO League Explore",
+          "season": 2026,
+          "stage": "FIRST World Festival · Houston",
+          "award": "Core Values Award",
+          "team": "Maremoto",
+          "team_id": null,
+          "source": "https://saojose.com.br/equipe-maremoto-conquista-o-core-values-award-e-emociona-com-valores-alem-da-robotica/",
+          "provenance": "school_report",
+          "limit": "Результат младшего формата приведён по отчёту школы. Общий числовой рейтинг команд Explore не выводится."
+        }
+      ],
+      "evidence": "world_result",
+      "admissions": "На странице школы опубликована информация о зачислении на 2027. Места по классам и участие в Explore нужно подтвердить.",
+      "cost": "Стоимость, льготы и расходы на выезды уточняются у кампуса.",
+      "questions": [
+        "Условия набора и язык команды нужно подтвердить для конкретного класса и сезона."
+      ],
+      "sources": [
+        {
+          "title": "Colégio São José · matrículas 2027",
+          "url": "https://saojose.com.br/matriculas/",
+          "claim": "Условия набора и язык команды нужно подтвердить для конкретного класса и сезона.",
+          "kind": "school",
+          "checked": "2026-11-07"
+        },
+        {
+          "title": "Colégio São José · Rede Santa Paulina",
+          "url": "https://saojose.com.br/quem-somos/",
+          "claim": "Команда Maremoto состоит из учеников начальной ступени Ensino Fundamental Anos Iniciais. Школа описывает участие в FLL Explore.",
+          "kind": "school",
+          "checked": "2026-11-07"
+        },
+        {
+          "title": "Colégio São José · FLL Explore",
+          "url": "https://saojose.com.br/equipe-de-itajai-conquista-titulos-regional-e-nacional-de-robotica-e-e-convidada-a-representar-o-brasil-em-mundial-nos-estados-unidos/",
+          "claim": "Команда Maremoto состоит из учеников начальной ступени Ensino Fundamental Anos Iniciais. Школа описывает участие в FLL Explore.",
+          "kind": "school",
+          "checked": "2026-11-07"
+        },
+        {
+          "title": "Colégio São José · Houston",
+          "url": "https://saojose.com.br/equipe-maremoto-conquista-o-core-values-award-e-emociona-com-valores-alem-da-robotica/",
+          "claim": "Команда Maremoto состоит из учеников начальной ступени Ensino Fundamental Anos Iniciais. Школа описывает участие в FLL Explore.",
+          "kind": "school",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "priority": 3,
+      "research_status": "partial",
+      "verification": "Документальная проверка; школа и место в команде не подтверждали приём детей."
+    },
+    {
+      "id": "S078",
+      "name": "Colégio Estadual Padre Cláudio Morelli",
+      "iso": "BRA",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "city": "Curitiba · Paraná",
+      "school_type": "public",
+      "curriculum": "Государственная школа штата Парана. Источники штата и FIRST связывают её с FRC и командой Roosters.",
+      "ib_programmes": [],
+      "ages": "FRC здесь ориентир на старшие классы. Подходящий младший клуб и доступ в него нужно проверить.",
+      "instruction_languages": [],
+      "language_note": "Подтверждения преподавания на английском или испанском для нужного класса и команды пока нет.",
+      "fit": {
+        "mat": "unknown",
+        "osc": "unknown",
+        "note": "FRC здесь ориентир на старшие классы. Подходящий младший клуб и доступ в него нужно проверить."
+      },
+      "boarding": "unknown",
+      "boarding_note": "Пансион не подтверждён.",
+      "programme": "Государственная школа штата Парана. Источники штата и FIRST связывают её с FRC и командой Roosters.",
+      "labs": "Доступ к оборудованию для конкретного класса нужно уточнить.",
+      "ai": "Отдельный курс ИИ для нужной ступени пока не подтверждён.",
+      "results": [
+        {
+          "league": "FIRST Robotics Competition",
+          "season": 2025,
+          "stage": "Regional Brazil · Festival SESI de Educação · BRBA",
+          "award": "Industrial Design Award",
+          "team": "Manna Roosters",
+          "team_id": "7033",
+          "source": "https://frc-events.firstinspires.org/2025/BRBA/awards",
+          "provenance": "organizer_protocol",
+          "limit": "Протокол конкретного FRC Regional в Бразилии. Уровень награды определён по протоколу FIRST."
+        },
+        {
+          "league": "FIRST Robotics Competition",
+          "season": 2023,
+          "stage": "Brazil Regional · BRBR",
+          "award": "Qualification · Festival Internacional SESI · Rio",
+          "team": "Roosters",
+          "team_id": null,
+          "source": "https://www.educacao.pr.gov.br/Noticia/Equipe-de-colegio-estadual-se-classifica-para-competicao-internacional-de-robotica",
+          "provenance": "institutional_primary_report",
+          "limit": "Место или приглашение на следующий этап по отчёту организатора. Итог турнира фиксируется отдельно."
+        }
+      ],
+      "evidence": "other_result",
+      "admissions": "Приём ведётся по классу и наличию мест. Условия кампуса и возможность участия в команде проверяются отдельно.",
+      "cost": "Стоимость, льготы и расходы на выезды уточняются у кампуса.",
+      "questions": [
+        "Условия набора и язык команды нужно подтвердить для конкретного класса и сезона."
+      ],
+      "sources": [
+        {
+          "title": "Secretaria da Educação do Paraná · robótica",
+          "url": "https://nrecornelioprocopio.educacao.pr.gov.br/noticias/seed/e7656201-c783-4722-800b-5e9e317a9272",
+          "claim": "Государственная школа штата Парана. Источники штата и FIRST связывают её с FRC и командой Roosters.",
+          "kind": "government",
+          "checked": "2026-11-07"
+        },
+        {
+          "title": "Secretaria da Educação do Paraná · Roosters",
+          "url": "https://www.educacao.pr.gov.br/Noticia/Equipe-de-colegio-estadual-se-classifica-para-competicao-internacional-de-robotica",
+          "claim": "Государственная школа штата Парана. Источники штата и FIRST связывают её с FRC и командой Roosters.",
+          "kind": "government",
+          "checked": "2026-11-07"
+        },
+        {
+          "title": "FIRST Robotics Competition · Regional Brazil · Festival SESI de Educação · BRBA",
+          "url": "https://frc-events.firstinspires.org/2025/BRBA/awards",
+          "claim": "Протокол конкретного FRC Regional в Бразилии. Уровень награды определён по протоколу FIRST.",
+          "kind": "organizer",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "priority": 3,
+      "research_status": "partial",
+      "verification": "Документальная проверка; школа и место в команде не подтверждали приём детей."
+    },
+    {
+      "id": "S079",
+      "name": "Escola SESI São Luís",
+      "iso": "BRA",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "city": "São Luís · Maranhão",
+      "school_type": "private_industry",
+      "curriculum": "UNIMATE из Maranhão выступает в FLL Challenge от Escola SESI São Luís.",
+      "ib_programmes": [],
+      "ages": "Возраст набора в команду зависит от класса, кампуса и сезона.",
+      "instruction_languages": [],
+      "language_note": "Подтверждения преподавания на английском или испанском для нужного класса и команды пока нет.",
+      "fit": {
+        "mat": "unknown",
+        "osc": "unknown",
+        "note": "Возраст набора в команду зависит от класса, кампуса и сезона."
+      },
+      "boarding": "unknown",
+      "boarding_note": "Пансион не подтверждён.",
+      "programme": "UNIMATE из Maranhão выступает в FLL Challenge от Escola SESI São Luís.",
+      "labs": "Доступ к оборудованию для конкретного класса нужно уточнить.",
+      "ai": "Отдельный курс ИИ для нужной ступени пока не подтверждён.",
+      "results": [
+        {
+          "league": "FIRST LEGO League Challenge",
+          "season": 2026,
+          "stage": "Festival SESI · Brasil",
+          "award": "Champion’s Award · 4th place",
+          "team": "UNIMATE · Maranhão",
+          "team_id": null,
+          "source": "https://noticias.portaldaindustria.com.br/noticias/robotica/festival-sesi-de-educacao-20252026-veja-quem-sao-os-grandes-vencedores/",
+          "provenance": "organizer_report",
+          "limit": "Национальная общая оценка Challenge. Порядок соответствует отчёту CNI / SESI."
+        },
+        {
+          "league": "FIRST LEGO League Challenge",
+          "season": 2025,
+          "stage": "Asia Pacific Open Championship · Sydney",
+          "award": "Motivate Award · 2nd place",
+          "team": "UNIMATE · Maranhão",
+          "team_id": null,
+          "source": "https://www.fiema.org.br/noticia/5549/equipe-unimate-do-sesi-ma-conquista-premio-internacional-de-robotica",
+          "provenance": "school_operator_report",
+          "limit": "FIEMA относит награду к FLL Asia Pacific Open Championship."
+        },
+        {
+          "league": "FIRST LEGO League Challenge",
+          "season": 2026,
+          "stage": "Festival SESI · Brasil",
+          "award": "Qualification · Canada Open",
+          "team": "UNIMATE · Maranhão",
+          "team_id": null,
+          "source": "https://www.fiema.org.br/noticia/6079/sesi-ma-leva-equipes-de-robotica-ao-canada-e-a-coreia-do-sul-2",
+          "provenance": "school_operator_report",
+          "limit": "Место или приглашение на следующий этап по отчёту организатора. Итог турнира фиксируется отдельно."
+        }
+      ],
+      "evidence": "other_result",
+      "admissions": "В извещении 03/2027 указаны Maternal, Infantil I и 6º ano. Приём заявок завершился 06.11.2026. Остальные классы и следующий набор требуют отдельной проверки.",
+      "cost": "Стоимость, льготы и расходы на выезды уточняются у кампуса.",
+      "questions": [
+        "Условия набора и язык команды нужно подтвердить для конкретного класса и сезона."
+      ],
+      "sources": [
+        {
+          "title": "FIEMA · UNIMATE",
+          "url": "https://www.fiema.org.br/noticia/6079/sesi-ma-leva-equipes-de-robotica-ao-canada-e-a-coreia-do-sul-2",
+          "claim": "UNIMATE из Maranhão выступает в FLL Challenge от Escola SESI São Luís.",
+          "kind": "school_operator",
+          "checked": "2026-11-07"
+        },
+        {
+          "title": "FIEMA · edital 03/2027",
+          "url": "https://www.fiema.org.br/edital/4795/edital-032027-escola-sesi-sao-luis-processo-seletivo-para-alunos-da-educacao-basica-regular-para-vagas-de-ampla-concorrencia-dependentes-da-industria-e-comunidade-em-geral",
+          "claim": "В извещении 03/2027 указаны Maternal, Infantil I и 6º ano. Приём заявок завершился 06.11.2026. Остальные классы и следующий набор требуют отдельной проверки.",
+          "kind": "school_operator",
+          "checked": "2026-11-07"
+        },
+        {
+          "title": "FIRST LEGO League Challenge · Festival SESI · Brasil",
+          "url": "https://noticias.portaldaindustria.com.br/noticias/robotica/festival-sesi-de-educacao-20252026-veja-quem-sao-os-grandes-vencedores/",
+          "claim": "Национальная общая оценка Challenge. Порядок соответствует отчёту CNI / SESI.",
+          "kind": "organizer",
+          "checked": "2026-11-07"
+        },
+        {
+          "title": "FIRST LEGO League Challenge · Asia Pacific Open Championship · Sydney",
+          "url": "https://www.fiema.org.br/noticia/5549/equipe-unimate-do-sesi-ma-conquista-premio-internacional-de-robotica",
+          "claim": "FIEMA относит награду к FLL Asia Pacific Open Championship.",
+          "kind": "organizer",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "priority": 3,
+      "research_status": "partial",
+      "verification": "Документальная проверка; школа и место в команде не подтверждали приём детей."
     }
   ]
 }

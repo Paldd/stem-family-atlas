@@ -870,7 +870,7 @@
   ],
   "completion_rule": "No declarar el objetivo de las tarjetas de identificación completadas, la lista de 249 países o los puntos verdes de UI. Se requiere una cobertura de referencia y condiciones pertinentes demostradas, o información manifiestamente inaccesible o no declarada con fuentes verificadas.",
   "latest_validation": {
-    "version": 207,
+    "version": 208,
     "status": "implementation_snapshot",
     "events": 7404,
     "competitions": 3101,
@@ -880,7 +880,10 @@
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
     "worldwide_complete": false,
-    "fully_audited_countries": 0
+    "fully_audited_countries": 0,
+    "schools": 79,
+    "school_history_results": 336,
+    "school_history_entities": 223
   },
   "completeness_audit": "data/audit-v51.json",
   "family_context": {
@@ -922,11 +925,11 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 206,
+    "version": 207,
     "status": "implementation_snapshot",
-    "events": 7368,
-    "competitions": 3073,
-    "league_profiles": 257,
+    "events": 7404,
+    "competitions": 3101,
+    "league_profiles": 258,
     "camp_dossiers": 1621,
     "budget_offers": 209,
     "editorial_reviewed": 71,
@@ -20799,11 +20802,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 206,
-    "latest_source_commit": "2045aaca90a4da79335df0d0f49535cbed241b79",
-    "published_version": 206,
-    "published_commit": "2045aaca90a4da79335df0d0f49535cbed241b79",
-    "latest_workflow": 42356770204,
+    "latest_source_version": 207,
+    "latest_source_commit": "952a82d05007a27dfa817b121c3197662248c407",
+    "published_version": 207,
+    "published_commit": "952a82d05007a27dfa817b121c3197662248c407",
+    "latest_workflow": 42359042823,
     "latest_workflow_conclusion": "success",
     "status": "latest-source-published-readback-verified"
   },
@@ -21602,5 +21605,46 @@
     "native": "data/latam-expo-sesi-fod-native-v207.json",
     "source_receipts": "data/latam-expo-sesi-fod-source-receipts-v207.json",
     "preserved_original_requirements": 18
+  },
+  "brazil_school_history_v208": {
+    "version": 208,
+    "checked": "2026-11-07",
+    "status": "selected-seasons-school-history",
+    "previous_goal_turn_classification": "progress",
+    "first_competition_years": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "new_school_dossiers": 8,
+    "new_history_records": 99,
+    "updated_history_records": 3,
+    "national_fll_champions_award_positions": 20,
+    "national_ftc_inspire_first_place_and_winning_alliance_entries": 18,
+    "selected_frc_regional_venues": 4,
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "old_event_count": 7404,
+    "event_count": 7404,
+    "source_requests": 42,
+    "direct_source_successes": 37,
+    "aggregate_levels": {
+      "national_other": 26,
+      "international_open_judged": 1,
+      "national_skills": 1,
+      "national_match": 15,
+      "world_finalist": 6,
+      "world_judged": 4,
+      "regional_judged": 10,
+      "regional_match": 13,
+      "qualification": 22,
+      "international_open_podium": 1
+    },
+    "native": "data/brazil-school-history-native-v208.json",
+    "audit": "data/brazil-school-history-audit-v208.json",
+    "inventory": "data/brazil-school-history-inventory-v208.json",
+    "source-receipts": "data/brazil-school-history-source-receipts-v208.json"
   }
 }

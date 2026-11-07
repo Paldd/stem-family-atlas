@@ -407,9 +407,9 @@ Lo que queda por comprobar es:
 
 Brasil · Jundiaí · São Paulo
 Tipo: Private_industry
-La conexión exacta de Heroes con el campus / CE y las clases menores requiere verificación.
+SESI-SP, campus Humberto Cereser CE 021. El informe nacional de 2025 y el municipio de Jundiaí confirman el vínculo de Heroes.
 Edad: La red enseña a los alumnos; no se ha determinado la edad de ingreso en el grupo de edad y el primer grado.
-Matway: unknown; Oscar: unknown. Se ha confirmado un equipo fuerte, pero aún no se ha instalado la entrada, el idioma y el campus para niños.
+Matvey: unknown; Oscar: unknown. La edad de incorporación al equipo depende del curso, el campus y la temporada.
 Idioma: EN/ES no está confirmado; el sitio web y la región funcionan en portugués; no se considera una opción en inglés.
 Pensión: No confirmado.
 Robotótica: SESI-SP: componente de aprendizaje de Programming & Robotics, diseños y equipos de selección. Heroes recibió el premio mundialmente valorado FLL.
@@ -418,23 +418,35 @@ IE: La red describe los proyectos AI en el calendario robotics; no se ha demostr
 Admisión: Inscripción general 2027 cerrada: beneficiary 06–15.10.2026, non-beneficiary 19–21.10.2026 solo con vacantes; no es formulario abierto vigente. Confirmar curso, admisión individual, idioma del equipo, mentor, función del niño y presupuesto completo. Sin solicitudes, consentimientos, mensajes ni pagos.
 Costo: No se han establecido las tarifas, los beneficios de la red y la condición jurídica del niño extranjero.
 
-- el resultado: 2025 · FIRST LEGO League Challenge · FIRST World Festival · Houston · Champion’s Award · SESI Heroes · Jundiaí. Houston 2025 Champion’s Award se conserva como título separado. Campus CE 021 aclarado por informe del operador 2026; protocolo independiente Houston 2025 y afiliación histórica del campus requieren cotejo. Fuente: https://www.sesisp.org.br/noticia/sesi-sp-brilha-no-mundial-de-robotica-nos-eua-e-conquista-o-maior-premio-com-equipe-de-jundiai
+- el resultado: 2025 · FIRST LEGO League Challenge · FIRST Festival Mundial · Houston . · Champion’s Award · Héroes de SESI · Jundiaí. Principal premio integral del jurado de Challenge en el festival mundial de FIRST. Fuente: https://www.firstinspires.org/community-blog/teams-from-around-the-world-made-a-splash-at-firstchamp
 - el resultado: 2026 · FIRST LEGO League Challenge · International Open · Guadalajara · México · Champions Award · SESI Heroes · CE 021. Operador identifica campus concreto CE 021 e International Open Guadalajara 27–30.05.2026. Champions e Innovation son premios evaluados del Open; segundos puestos Robot Performance / Alliances no son títulos mundiales Houston. Fuente: https://jundiai.sesisp.org.br/noticia/sesi-jundiai-conquista-titulo-mundial-de-robotica-no-mexico-e-traz-quatro-premiacoes-para-o-brasil
 - el resultado: 2026 · FIRST LEGO League Challenge · International Open · Guadalajara · México · Innovation Project · 1st place · SESI Heroes · CE 021. Operador identifica campus concreto CE 021 e International Open Guadalajara 27–30.05.2026. Champions e Innovation son premios evaluados del Open; segundos puestos Robot Performance / Alliances no son títulos mundiales Houston. Fuente: https://jundiai.sesisp.org.br/noticia/sesi-jundiai-conquista-titulo-mundial-de-robotica-no-mexico-e-traz-quatro-premiacoes-para-o-brasil
 - el resultado: 2026 · FIRST LEGO League Challenge · International Open · Guadalajara · México · Robot Performance · 2nd place · SESI Heroes · CE 021. Operador identifica campus concreto CE 021 e International Open Guadalajara 27–30.05.2026. Champions e Innovation son premios evaluados del Open; segundos puestos Robot Performance / Alliances no son títulos mundiales Houston. Fuente: https://jundiai.sesisp.org.br/noticia/sesi-jundiai-conquista-titulo-mundial-de-robotica-no-mexico-e-traz-quatro-premiacoes-para-o-brasil
 - el resultado: 2026 · FIRST LEGO League Challenge · International Open · Guadalajara · México · Alliances · 2nd place · SESI Heroes · CE 021. Operador identifica campus concreto CE 021 e International Open Guadalajara 27–30.05.2026. Champions e Innovation son premios evaluados del Open; segundos puestos Robot Performance / Alliances no son títulos mundiales Houston. Fuente: https://jundiai.sesisp.org.br/noticia/sesi-jundiai-conquista-titulo-mundial-de-robotica-no-mexico-e-traz-quatro-premiacoes-para-o-brasil
+- el resultado: 2024 · FIRST LEGO League Challenge · Festival SESI · Brasil · Champion’s Award · 3rd place · SESI Heroes. Evaluación general nacional de Challenge. El orden corresponde al informe de CNI / SESI. Fuente: https://noticias.portaldaindustria.com.br/noticias/robotica/os-grandes-vencedores-do-festival-sesi-de-educacao-2023-2024/
+- el resultado: 2025 · FIRST LEGO League Challenge · Festival SESI · Brasil · Champion’s Award · 1st place · SESI Heroes. Evaluación general nacional de Challenge. El orden corresponde al informe de CNI / SESI. Fuente: https://noticias.portaldaindustria.com.br/noticias/robotica/os-grandes-vencedores-do-festival-sesi-de-educacao-2024-2025/
+- el resultado: 2024 · FIRST LEGO League Challenge · FIRST Festival Mundial · Houston . · Finalista del Premio al Proyecto de Innovación · SESI Heroes. FIRST enumera finalistas sin asignarles puestos. Se registra la condición de finalista. Fuente: https://community.firstinspires.org/its-time-for-a-firstchamp-curtain-call
+- el resultado: 2023 · FIRST LEGO League Challenge · Festival SESI · Brasil · Alliances · 1st place · SESI Heroes. La alianza Halley y SESI Heroes ganó una categoría separada del festival. Fuente: https://noticias.portaldaindustria.com.br/noticias/robotica/os-grandes-vencedores-do-festival-sesi-de-robotica-2023/
+- el resultado: 2024 · FIRST LEGO League Challenge · Festival SESI · Brasil · Qualification · FIRST World Festival · SESI Heroes. Cupo o invitación a la siguiente etapa según el organizador. El resultado del torneo se registra por separado. Fuente: https://noticias.portaldaindustria.com.br/noticias/robotica/os-grandes-vencedores-do-festival-sesi-de-educacao-2023-2024/
+- el resultado: 2025 · FIRST LEGO League Challenge · Festival SESI · Brasil · Qualification · FIRST World Festival · SESI Heroes. Cupo o invitación a la siguiente etapa según el organizador. El resultado del torneo se registra por separado. Fuente: https://jundiai.sesisp.org.br/noticia/equipes-de-robotica-do-sesi-jundiai-se-preparam-para-o-mundial-em-houston
 
-Fuentes (comprobación 2026-11-05):
+Fuentes (revisión 2026-11-07):
 - SESI-SP at Worlds 2025: https://www.sesisp.org.br/noticia/sesi-sp-brilha-no-mundial-de-robotica-nos-eua-e-conquista-o-maior-premio-com-equipe-de-jundiai — Heroes Jundiaí: Champion’s Award 2025
 - Robótica Educacional: https://jundiai.sesisp.org.br/robotica-educacional-na-escola - Componente de capacitación, Programa de capacitación/Prototyping y proyectos de la red AI
 - SESI admission process: https://jundiai.sesisp.org.br/processo-seletivo ○ Prioridad, lottery / test; juego histórico 2026
 - Official FLL 2024 results: https://fllblog.wordpress.com/2024/04/26/its-time-for-a-firstchamp-curtain-call/ — Heroes Innovation Project Award Finalist
 - SESI Heroes Mexico Open 2026: https://jundiai.sesisp.org.br/noticia/sesi-jundiai-conquista-titulo-mundial-de-robotica-no-mexico-e-traz-quatro-premiacoes-para-o-brasil — Operador identifica campus concreto CE 021 e International Open Guadalajara 27–30.05.2026. Champions e Innovation son premios evaluados del Open; segundos puestos Robot Performance / Alliances no son títulos mundiales Houston.
 - SESI admission 2027: https://hotsite.sesisp.org.br/processoseletivo/ — Inscripción general 2027 cerrada: beneficiary 06–15.10.2026, non-beneficiary 19–21.10.2026 solo con vacantes; no es formulario abierto vigente.
+- Prefeitura de Jundiaí · SESI Heroes: https://jundiai.sp.gov.br/noticias/2026/07/10/jundiai-comemora-titulo-mundial-conquistado-por-equipe-de-robotica-do-sesi/ — SESI-SP, campus Humberto Cereser CE 021. El informe nacional de 2025 y el municipio de Jundiaí confirman el vínculo de Heroes.
+- SESI Jundiaí · FIRST World Festival 2025: https://jundiai.sesisp.org.br/noticia/equipes-de-robotica-do-sesi-jundiai-se-preparam-para-o-mundial-em-houston — Cupo o invitación a la siguiente etapa según el organizador. El resultado del torneo se registra por separado.
+- FIRST LEGO League Challenge · Festival SESI · Brasil: https://noticias.portaldaindustria.com.br/noticias/robotica/os-grandes-vencedores-do-festival-sesi-de-educacao-2023-2024/ — Evaluación general nacional de Challenge. El orden corresponde al informe de CNI / SESI.
+- FIRST LEGO League Challenge · Festival SESI · Brasil: https://noticias.portaldaindustria.com.br/noticias/robotica/os-grandes-vencedores-do-festival-sesi-de-educacao-2024-2025/ — Evaluación general nacional de Challenge. El orden corresponde al informe de CNI / SESI.
+- FIRST LEGO League Challenge · FIRST World Festival · Houston: https://www.firstinspires.org/community-blog/teams-from-around-the-world-made-a-splash-at-firstchamp — Principal premio integral del jurado de Challenge en el festival mundial de FIRST.
+- FIRST LEGO League Challenge · FIRST World Festival · Houston: https://community.firstinspires.org/its-time-for-a-firstchamp-curtain-call — Principal premio integral del jurado de Challenge en el festival mundial de FIRST.
+- FIRST LEGO League Challenge · Festival SESI · Brasil: https://noticias.portaldaindustria.com.br/noticias/robotica/os-grandes-vencedores-do-festival-sesi-de-robotica-2023/ — Evaluación general nacional de Challenge. El orden corresponde al informe de CNI / SESI.
 
 Lo que queda por comprobar es:
-- Instalar un campus de Heroes, un juego de segunda mano y un lenguaje.
-- Recibir un protocolo independiente del FIRST y los resultados de otras temporadas.
+- Las condiciones de admisión y el idioma del equipo deben confirmarse para el curso y la temporada concretos.
 
 ## S016 · Northlands Primary School
 
@@ -1976,6 +1988,234 @@ Fuentes (revisión 2026-11-06):
 Lo que queda por comprobar es:
 - Confirmar edad / curso real, plazas, idioma, admisión individual extranjera y factura final.
 - Alumnos internacionales previstos expresamente: pasaporte, expediente previo, screening / English y Mathematics, evaluación médica y cuotas. Procedimiento de revisión, sin plaza aceptada. Para familia confirmar campus, curso real y acceso de menores al equipo de robotics.
+
+## S072 · Escola SESI-SP Araras · CE 303
+
+Brasil · Araras · São Paulo
+Tipo: Private_industry
+El equipo escolar Los Atômicos compitió en FIRST LEGO League Challenge.
+edad: La edad de incorporación al equipo depende del curso, el campus y la temporada.
+Matvey: unknown; Oscar: unknown. La edad de incorporación al equipo depende del curso, el campus y la temporada.
+Idioma: Por ahora falta confirmar la enseñanza en inglés o español para el curso y el equipo de interés.
+Pensión: No confirmado.
+Robótica: El equipo escolar Los Atômicos compitió en FIRST LEGO League Challenge.
+Laboratorios: Hay que confirmar el acceso al equipo para el curso concreto.
+IA: Por ahora falta confirmar un curso específico de IA para la etapa de interés.
+Admisión: La admisión depende del curso y de las plazas. Las condiciones del campus y la posibilidad de entrar en el equipo se verifican por separado.
+Precio: Hay que confirmar con el campus los costes, las ayudas y los gastos de viajes.
+
+- el resultado: 2024 · FIRST LEGO League Challenge · Festival SESI · Brasil · Champion’s Award · 1st place · Los Atômicos. Evaluación general nacional de Challenge. El orden corresponde al informe de CNI / SESI. Fuente: https://noticias.portaldaindustria.com.br/noticias/robotica/os-grandes-vencedores-do-festival-sesi-de-educacao-2023-2024/
+- el resultado: 2024 · FIRST LEGO League Challenge · FIRST Festival Mundial · Houston . · Champion’s Award · Los Atômicos. Principal premio integral del jurado de Challenge en el festival mundial de FIRST. Fuente: https://community.firstinspires.org/its-time-for-a-firstchamp-curtain-call
+- el resultado: 2024 · FIRST LEGO League Challenge · Festival SESI · Brasil · Qualification · FIRST World Festival · Los Atômicos. Cupo o invitación a la siguiente etapa según el organizador. El resultado del torneo se registra por separado. Fuente: https://noticias.portaldaindustria.com.br/noticias/robotica/os-grandes-vencedores-do-festival-sesi-de-educacao-2023-2024/
+
+Fuentes (revisión 2026-11-07):
+- SESI-SP · campus directory: https://araras.sesisp.org.br/unidades-escolares — Identificación de los campus SESI-SP mediante números CE.
+- Los Atômicos · SESI-SP: https://www.sesisp.org.br/educacao/noticia/estudantes-do-sesi-sp-conquistam-1o-lugar-no-maior-torneio-de-robotica-do-mundo — El equipo escolar Los Atômicos compitió en FIRST LEGO League Challenge.
+- SESI-SP · processo seletivo: https://araras.sesisp.org.br/processo-seletivo — La admisión depende del curso y de las plazas. Las condiciones del campus y la posibilidad de entrar en el equipo se verifican por separado.
+- FIRST LEGO League Challenge · Festival SESI · Brasil: https://noticias.portaldaindustria.com.br/noticias/robotica/os-grandes-vencedores-do-festival-sesi-de-educacao-2023-2024/ — Evaluación general nacional de Challenge. El orden corresponde al informe de CNI / SESI.
+- FIRST LEGO League Challenge · FIRST World Festival · Houston: https://community.firstinspires.org/its-time-for-a-firstchamp-curtain-call — Principal premio integral del jurado de Challenge en el festival mundial de FIRST.
+
+Lo que queda por comprobar es:
+- Las condiciones de admisión y el idioma del equipo deben confirmarse para el curso y la temporada concretos.
+
+## S073 · Escola SESI-SP Hercilio Lorenzetti · CE 260
+
+Brasil · Santa Cruz do Rio Pardo · São Paulo
+Tipo: Private_industry
+El equipo escolar Pardoboots compitió en FIRST LEGO League Challenge.
+edad: La edad de incorporación al equipo depende del curso, el campus y la temporada.
+Matvey: unknown; Oscar: unknown. La edad de incorporación al equipo depende del curso, el campus y la temporada.
+Idioma: Por ahora falta confirmar la enseñanza en inglés o español para el curso y el equipo de interés.
+Pensión: No confirmado.
+Robótica: El equipo escolar Pardoboots compitió en FIRST LEGO League Challenge.
+Laboratorios: Hay que confirmar el acceso al equipo para el curso concreto.
+IA: Por ahora falta confirmar un curso específico de IA para la etapa de interés.
+Admisión: La admisión depende del curso y de las plazas. Las condiciones del campus y la posibilidad de entrar en el equipo se verifican por separado.
+Precio: Hay que confirmar con el campus los costes, las ayudas y los gastos de viajes.
+
+- el resultado: 2024 · FIRST LEGO League Challenge · Festival SESI · Brasil · Champion’s Award · 2nd place · Pardoboots. Evaluación general nacional de Challenge. El orden corresponde al informe de CNI / SESI. Fuente: https://noticias.portaldaindustria.com.br/noticias/robotica/os-grandes-vencedores-do-festival-sesi-de-educacao-2023-2024/
+- el resultado: 2024 · FIRST LEGO League Challenge · FIRST Festival Mundial · Houston . · Finalista del Premio Campeón · Pardoboots. FIRST enumera finalistas sin asignarles puestos. Se registra la condición de finalista. Fuente: https://community.firstinspires.org/its-time-for-a-firstchamp-curtain-call
+- el resultado: 2024 · FIRST LEGO League Challenge · Festival SESI · Brasil · Qualification · FIRST World Festival · Pardoboots. Cupo o invitación a la siguiente etapa según el organizador. El resultado del torneo se registra por separado. Fuente: https://noticias.portaldaindustria.com.br/noticias/robotica/os-grandes-vencedores-do-festival-sesi-de-educacao-2023-2024/
+
+Fuentes (revisión 2026-11-07):
+- SESI-SP · campus directory: https://araras.sesisp.org.br/unidades-escolares — Identificación de los campus SESI-SP mediante números CE.
+- Pardoboots · SESI-SP: https://www.sesisp.org.br/educacao/noticia/estudantes-do-sesi-sp-conquistam-1o-lugar-no-maior-torneio-de-robotica-do-mundo — El equipo escolar Pardoboots compitió en FIRST LEGO League Challenge.
+- SESI-SP · processo seletivo: https://araras.sesisp.org.br/processo-seletivo — La admisión depende del curso y de las plazas. Las condiciones del campus y la posibilidad de entrar en el equipo se verifican por separado.
+- FIRST LEGO League Challenge · Festival SESI · Brasil: https://noticias.portaldaindustria.com.br/noticias/robotica/os-grandes-vencedores-do-festival-sesi-de-educacao-2023-2024/ — Evaluación general nacional de Challenge. El orden corresponde al informe de CNI / SESI.
+- FIRST LEGO League Challenge · FIRST World Festival · Houston: https://community.firstinspires.org/its-time-for-a-firstchamp-curtain-call — Principal premio integral del jurado de Challenge en el festival mundial de FIRST.
+
+Lo que queda por comprobar es:
+- Las condiciones de admisión y el idioma del equipo deben confirmarse para el curso y la temporada concretos.
+
+## S074 · Escola SESI-SP Birigui · CE 148
+
+Brasil · Birigui · São Paulo
+Tipo: Private_industry
+El equipo escolar Halley compitió en FIRST LEGO League Challenge.
+edad: La edad de incorporación al equipo depende del curso, el campus y la temporada.
+Matvey: unknown; Oscar: unknown. La edad de incorporación al equipo depende del curso, el campus y la temporada.
+Idioma: Por ahora falta confirmar la enseñanza en inglés o español para el curso y el equipo de interés.
+Pensión: No confirmado.
+Robótica: El equipo escolar Halley compitió en FIRST LEGO League Challenge.
+Laboratorios: Hay que confirmar el acceso al equipo para el curso concreto.
+IA: Por ahora falta confirmar un curso específico de IA para la etapa de interés.
+Admisión: La admisión depende del curso y de las plazas. Las condiciones del campus y la posibilidad de entrar en el equipo se verifican por separado.
+Precio: Hay que confirmar con el campus los costes, las ayudas y los gastos de viajes.
+
+- el resultado: 2022 · FIRST LEGO League Challenge · Festival SESI · Brasil · Champion’s Award · 1st place · Halley. Evaluación general nacional de Challenge. El orden corresponde al informe de CNI / SESI. Fuente: https://noticias.portaldaindustria.com.br/noticias/robotica/e-campeao-os-vencedores-do-festival-sesi-de-robotica-2022/
+- el resultado: 2022 · FIRST LEGO League Challenge · International Open · Rio de Janeiro · Champion’s Award · Halley. Resultado oficial del Open internacional celebrado en Río de Janeiro. Fuente: https://noticias.portaldaindustria.com.br/noticias/educacao/conheca-as-equipes-vencedoras-do-first-lego-league-fll/
+- el resultado: 2023 · FIRST LEGO League Challenge · Festival SESI · Brasil · Robot Performance · 1st place · Halley. La escuela documenta la victoria en una categoría específica del festival. Fuente: https://birigui.sesisp.org.br/noticia/alunos-de-birigui-conquistam-duas-premiacoes-no-festival-sesi-de-robotica-2023
+- el resultado: 2023 · FIRST LEGO League Challenge · Festival SESI · Brasil · Alliances · 1st place · Halley. La escuela documenta la victoria en una categoría específica del festival. Fuente: https://birigui.sesisp.org.br/noticia/alunos-de-birigui-conquistam-duas-premiacoes-no-festival-sesi-de-robotica-2023
+
+Fuentes (revisión 2026-11-07):
+- SESI-SP · campus directory: https://araras.sesisp.org.br/unidades-escolares — Identificación de los campus SESI-SP mediante números CE.
+- Halley · SESI-SP: https://www.sesisp.org.br/noticia/equipe-formada-apenas-por-meninas-conquista-o-1-lugar-no-festival-sesi-de-robotica — El equipo escolar Halley compitió en FIRST LEGO League Challenge.
+- SESI-SP · processo seletivo: https://araras.sesisp.org.br/processo-seletivo — La admisión depende del curso y de las plazas. Las condiciones del campus y la posibilidad de entrar en el equipo se verifican por separado.
+- FIRST LEGO League Challenge · Festival SESI · Brasil: https://noticias.portaldaindustria.com.br/noticias/robotica/e-campeao-os-vencedores-do-festival-sesi-de-robotica-2022/ — Evaluación general nacional de Challenge. El orden corresponde al informe de CNI / SESI.
+- FIRST LEGO League Challenge · International Open · Rio de Janeiro: https://noticias.portaldaindustria.com.br/noticias/educacao/conheca-as-equipes-vencedoras-do-first-lego-league-fll/ — Resultado oficial del Open internacional celebrado en Río de Janeiro.
+- FIRST LEGO League Challenge · Festival SESI · Brasil: https://birigui.sesisp.org.br/noticia/alunos-de-birigui-conquistam-duas-premiacoes-no-festival-sesi-de-robotica-2023 — La escuela documenta la victoria en una categoría específica del festival.
+
+Lo que queda por comprobar es:
+- Las condiciones de admisión y el idioma del equipo deben confirmarse para el curso y la temporada concretos.
+
+## S075 · Escola SESI de Referência de Itajaí
+
+Brasil · Itajaí · Santa Catarina
+Tipo: Private_industry
+El campus SESI de Itajaí presentó a Pipeline Surfers en FLL Challenge. FIESC describe las etapas escolares y las actividades maker.
+edad: La edad de incorporación al equipo depende del curso, el campus y la temporada.
+Matvey: unknown; Oscar: unknown. La edad de incorporación al equipo depende del curso, el campus y la temporada.
+Idioma: Por ahora falta confirmar la enseñanza en inglés o español para el curso y el equipo de interés.
+Pensión: No confirmado.
+Robótica: El campus SESI de Itajaí presentó a Pipeline Surfers en FLL Challenge. FIESC describe las etapas escolares y las actividades maker.
+Laboratorios: Hay que confirmar el acceso al equipo para el curso concreto.
+IA: Por ahora falta confirmar un curso específico de IA para la etapa de interés.
+Admisión: La admisión depende del curso y de las plazas. Las condiciones del campus y la posibilidad de entrar en el equipo se verifican por separado.
+Precio: Hay que confirmar con el campus los costes, las ayudas y los gastos de viajes.
+
+- el resultado: 2026 · FIRST LEGO League Challenge · Festival SESI · Brasil · Champion’s Award · 1st place · Pipeline Surfers. Evaluación general nacional de Challenge. El orden corresponde al informe de CNI / SESI. Fuente: https://noticias.portaldaindustria.com.br/noticias/robotica/festival-sesi-de-educacao-20252026-veja-quem-sao-os-grandes-vencedores/
+- el resultado: 2026 · FIRST LEGO League Challenge · FIRST Festival Mundial · Houston . · Finalista del Premio Campeón · Pipeline Surfers. FIRST enumera finalistas sin asignarles puestos. Se registra la condición de finalista. Fuente: https://www.firstinspires.org/community-blog/teams-from-around-the-world-made-history-at-firstchamp
+- el resultado: 2026 · FIRST LEGO League Challenge · Festival SESI · Brasil · Qualification · FIRST World Festival · Pipeline Surfers. Cupo o invitación a la siguiente etapa según el organizador. El resultado del torneo se registra por separado. Fuente: https://noticias.portaldaindustria.com.br/noticias/robotica/festival-sesi-de-educacao-20252026-veja-quem-sao-os-grandes-vencedores/
+
+Fuentes (revisión 2026-11-07):
+- FIESC · Pipeline Surfers: https://www.fiesc.com.br/pt-br/imprensa/estudantes-da-escola-sesi-sc-estao-entre-os-5-melhores-do-planeta-em-robotica — El campus SESI de Itajaí presentó a Pipeline Surfers en FLL Challenge. FIESC describe las etapas escolares y las actividades maker.
+- FIESC · Escola S em Itajaí: https://fiesc.com.br/pt-br/imprensa/escola-s-em-itajai-inicia-ano-letivo-em-novas-instalacoes — El campus SESI de Itajaí presentó a Pipeline Surfers en FLL Challenge. FIESC describe las etapas escolares y las actividades maker.
+- FIESC · Escola SESI de Referência: https://fiesc.com.br/pt-br/imprensa/escola-sesi-de-referencia-em-itajai-recebe-certificacao-de-qualidade-em-gestao-escolar — El campus SESI de Itajaí presentó a Pipeline Surfers en FLL Challenge. FIESC describe las etapas escolares y las actividades maker.
+- FIRST LEGO League Challenge · Festival SESI · Brasil: https://noticias.portaldaindustria.com.br/noticias/robotica/festival-sesi-de-educacao-20252026-veja-quem-sao-os-grandes-vencedores/ — Evaluación general nacional de Challenge. El orden corresponde al informe de CNI / SESI.
+- FIRST LEGO League Challenge · FIRST World Festival · Houston: https://www.firstinspires.org/community-blog/teams-from-around-the-world-made-history-at-firstchamp — FIRST enumera finalistas sin asignarles puestos. Se registra la condición de finalista.
+
+Lo que queda por comprobar es:
+- Las condiciones de admisión y el idioma del equipo deben confirmarse para el curso y la temporada concretos.
+
+## S076 · Escola SESI Taguatinga
+
+Brasil · Taguatinga · Distrito Federal
+Tipo: Private_industry
+ALBATROID representa a SESI Taguatinga. Los resultados de Challenge se verificaron con CNI y FIRST.
+edad: La edad de incorporación al equipo depende del curso, el campus y la temporada.
+Matvey: unknown; Oscar: unknown. La edad de incorporación al equipo depende del curso, el campus y la temporada.
+Idioma: Por ahora falta confirmar la enseñanza en inglés o español para el curso y el equipo de interés.
+Pensión: No confirmado.
+Robótica: ALBATROID representa a SESI Taguatinga. Los resultados de Challenge se verificaron con CNI y FIRST.
+Laboratorios: Hay que confirmar el acceso al equipo para el curso concreto.
+IA: Por ahora falta confirmar un curso específico de IA para la etapa de interés.
+Admisión: La admisión depende del curso y de las plazas. Las condiciones del campus y la posibilidad de entrar en el equipo se verifican por separado.
+Precio: Hay que confirmar con el campus los costes, las ayudas y los gastos de viajes.
+
+- el resultado: 2026 · FIRST LEGO League Challenge · Festival SESI · Brasil · Champion’s Award · 3rd place · ALBATROID. Evaluación general nacional de Challenge. El orden corresponde al informe de CNI / SESI. Fuente: https://noticias.portaldaindustria.com.br/noticias/robotica/festival-sesi-de-educacao-20252026-veja-quem-sao-os-grandes-vencedores/
+- el resultado: 2026 · FIRST LEGO League Challenge · FIRST Festival Mundial · Houston . · Rising All-Star Award · ALBATROID. Premio nominal en la lista de FIRST con varios equipos galardonados. Fuente: https://www.firstinspires.org/community-blog/teams-from-around-the-world-made-history-at-firstchamp
+- el resultado: 2026 · FIRST LEGO League Challenge · Festival SESI · Brasil · Qualification · FIRST World Festival · ALBATROID. Cupo o invitación a la siguiente etapa según el organizador. El resultado del torneo se registra por separado. Fuente: https://noticias.portaldaindustria.com.br/noticias/robotica/festival-sesi-de-educacao-20252026-veja-quem-sao-os-grandes-vencedores/
+
+Fuentes (revisión 2026-11-07):
+- SESI-DF · ALBATROID: https://www.sistemafibra.org.br/sesi/39-noticias/destaques/2312-albatroid-e-premiada-como-estrela-em-ascensao-no-first-championship-2026 — ALBATROID representa a SESI Taguatinga. Los resultados de Challenge se verificaron con CNI y FIRST.
+- SESI-DF · Taguatinga: https://www.sistemafibra.org.br/sesi/component/content/article?Itemid=127&id=82 — Las condiciones de admisión y el idioma del equipo deben confirmarse para el curso y la temporada concretos.
+- FIRST LEGO League Challenge · Festival SESI · Brasil: https://noticias.portaldaindustria.com.br/noticias/robotica/festival-sesi-de-educacao-20252026-veja-quem-sao-os-grandes-vencedores/ — Evaluación general nacional de Challenge. El orden corresponde al informe de CNI / SESI.
+- FIRST LEGO League Challenge · FIRST World Festival · Houston: https://www.firstinspires.org/community-blog/teams-from-around-the-world-made-history-at-firstchamp — FIRST enumera finalistas sin asignarles puestos. Se registra la condición de finalista.
+
+Lo que queda por comprobar es:
+- Las condiciones de admisión y el idioma del equipo deben confirmarse para el curso y la temporada concretos.
+
+## S077 · Colégio São José · Itajaí
+
+Brasil · Itajaí · Santa Catarina
+Tipo: private
+El equipo Maremoto está integrado por alumnado de la etapa primaria Ensino Fundamental Anos Iniciais. La escuela documenta su participación en FLL Explore.
+edad: Ensino Fundamental Anos Iniciais
+Matvey: candidate; Oscar: candidate. Para Oscar vale la pena revisar el formato inicial. Para ambos niños, la escuela debe confirmar curso, edad e ingreso a Explore.
+Idioma: Por ahora falta confirmar la enseñanza en inglés o español para el curso y el equipo de interés.
+Pensión: No confirmado.
+Robótica: El equipo Maremoto está integrado por alumnado de la etapa primaria Ensino Fundamental Anos Iniciais. La escuela documenta su participación en FLL Explore.
+Laboratorios: Hay que confirmar el acceso al equipo para el curso concreto.
+IA: Por ahora falta confirmar un curso específico de IA para la etapa de interés.
+Admisión: La web escolar publica información de matrícula para 2027. Hay que confirmar plazas por curso y acceso a Explore.
+Precio: Hay que confirmar con el campus los costes, las ayudas y los gastos de viajes.
+
+- el resultado: 2025 · FIRST LEGO League Explore · FLL Explore · Curitiba · Regional winner · school report · Maremoto. El resultado de la modalidad inicial procede del informe escolar. No se infiere una clasificación numérica general de los equipos Explore. Fuente: https://saojose.com.br/equipe-de-itajai-conquista-titulos-regional-e-nacional-de-robotica-e-e-convidada-a-representar-o-brasil-em-mundial-nos-estados-unidos/
+- el resultado: 2025 · FIRST LEGO League Explore · FLL Explore · São Paulo · National winner · school report · Maremoto. El resultado de la modalidad inicial procede del informe escolar. No se infiere una clasificación numérica general de los equipos Explore. Fuente: https://saojose.com.br/equipe-de-itajai-conquista-titulos-regional-e-nacional-de-robotica-e-e-convidada-a-representar-o-brasil-em-mundial-nos-estados-unidos/
+- el resultado: 2026 · FIRST LEGO League Explore · FIRST Festival Mundial · Houston . · Core Values Award · Maremoto. El resultado de la modalidad inicial procede del informe escolar. No se infiere una clasificación numérica general de los equipos Explore. Fuente: https://saojose.com.br/equipe-maremoto-conquista-o-core-values-award-e-emociona-com-valores-alem-da-robotica/
+
+Fuentes (revisión 2026-11-07):
+- Colégio São José · matrículas 2027: https://saojose.com.br/matriculas/ — Las condiciones de admisión y el idioma del equipo deben confirmarse para el curso y la temporada concretos.
+- Colégio São José · Rede Santa Paulina: https://saojose.com.br/quem-somos/ — El equipo Maremoto está integrado por alumnado de la etapa primaria Ensino Fundamental Anos Iniciais. La escuela documenta su participación en FLL Explore.
+- Colégio São José · FLL Explore: https://saojose.com.br/equipe-de-itajai-conquista-titulos-regional-e-nacional-de-robotica-e-e-convidada-a-representar-o-brasil-em-mundial-nos-estados-unidos/ — El equipo Maremoto está integrado por alumnado de la etapa primaria Ensino Fundamental Anos Iniciais. La escuela documenta su participación en FLL Explore.
+- Colégio São José · Houston: https://saojose.com.br/equipe-maremoto-conquista-o-core-values-award-e-emociona-com-valores-alem-da-robotica/ — El equipo Maremoto está integrado por alumnado de la etapa primaria Ensino Fundamental Anos Iniciais. La escuela documenta su participación en FLL Explore.
+
+Lo que queda por comprobar es:
+- Las condiciones de admisión y el idioma del equipo deben confirmarse para el curso y la temporada concretos.
+
+## S078 · Colégio Estadual Padre Cláudio Morelli
+
+Brasil · Curitiba · Paraná
+Tipo: public
+Escuela pública del estado de Paraná. Las fuentes del estado y de FIRST la vinculan a FRC y al equipo Roosters.
+edad: Aquí FRC es una referencia para cursos superiores. Hay que verificar un club apropiado para primaria y su acceso.
+Matvey: unknown; Oscar: unknown. Aquí FRC es una referencia para cursos superiores. Hay que verificar un club apropiado para primaria y su acceso.
+Idioma: Por ahora falta confirmar la enseñanza en inglés o español para el curso y el equipo de interés.
+Pensión: No confirmado.
+Robótica: Escuela pública del estado de Paraná. Las fuentes del estado y de FIRST la vinculan a FRC y al equipo Roosters.
+Laboratorios: Hay que confirmar el acceso al equipo para el curso concreto.
+IA: Por ahora falta confirmar un curso específico de IA para la etapa de interés.
+Admisión: La admisión depende del curso y de las plazas. Las condiciones del campus y la posibilidad de entrar en el equipo se verifican por separado.
+Precio: Hay que confirmar con el campus los costes, las ayudas y los gastos de viajes.
+
+- el resultado: 2025 · FIRST Robotics Competition · Regional Brazil · Festival SESI de Educação · BRBA · Premio al diseño industrial · Manna Roosters. Protocolo del FRC Regional concreto en Brasil. El nivel del premio se basa en el protocolo de FIRST. Fuente: https://frc-events.firstinspires.org/2025/BRBA/awards
+- el resultado: 2023 · FIRST Robotics Competition · Brazil Regional · BRBR · Qualification · Festival Internacional SESI · Rio · Roosters. Cupo o invitación a la siguiente etapa según el organizador. El resultado del torneo se registra por separado. Fuente: https://www.educacao.pr.gov.br/Noticia/Equipe-de-colegio-estadual-se-classifica-para-competicao-internacional-de-robotica
+
+Fuentes (revisión 2026-11-07):
+- Secretaria da Educação do Paraná · robótica: https://nrecornelioprocopio.educacao.pr.gov.br/noticias/seed/e7656201-c783-4722-800b-5e9e317a9272 — Escuela pública del estado de Paraná. Las fuentes del estado y de FIRST la vinculan a FRC y al equipo Roosters.
+- Secretaria da Educação do Paraná · Roosters: https://www.educacao.pr.gov.br/Noticia/Equipe-de-colegio-estadual-se-classifica-para-competicao-internacional-de-robotica — Escuela pública del estado de Paraná. Las fuentes del estado y de FIRST la vinculan a FRC y al equipo Roosters.
+- FIRST Robotics Competition · Regional Brazil · Festival SESI de Educação · BRBA: https://frc-events.firstinspires.org/2025/BRBA/awards — Protocolo del FRC Regional concreto en Brasil. El nivel del premio se basa en el protocolo de FIRST.
+
+Lo que queda por comprobar es:
+- Las condiciones de admisión y el idioma del equipo deben confirmarse para el curso y la temporada concretos.
+
+## S079 · Escola SESI São Luís
+
+Brasil · São Luís · Maranhão
+Tipo: Private_industry
+UNIMATE de Maranhão compite en FLL Challenge por Escola SESI São Luís.
+edad: La edad de incorporación al equipo depende del curso, el campus y la temporada.
+Matvey: unknown; Oscar: unknown. La edad de incorporación al equipo depende del curso, el campus y la temporada.
+Idioma: Por ahora falta confirmar la enseñanza en inglés o español para el curso y el equipo de interés.
+Pensión: No confirmado.
+Robótica: UNIMATE de Maranhão compite en FLL Challenge por Escola SESI São Luís.
+Laboratorios: Hay que confirmar el acceso al equipo para el curso concreto.
+IA: Por ahora falta confirmar un curso específico de IA para la etapa de interés.
+Admisión: La convocatoria 03/2027 indica Maternal, Infantil I y 6º ano. El plazo cerró el 06.11.2026. Hay que verificar otros cursos y la próxima convocatoria por separado.
+Precio: Hay que confirmar con el campus los costes, las ayudas y los gastos de viajes.
+
+- el resultado: 2026 · FIRST LEGO League Challenge · Festival SESI · Brasil · Champion’s Award · 4th place · UNIMATE · Maranhão. Evaluación general nacional de Challenge. El orden corresponde al informe de CNI / SESI. Fuente: https://noticias.portaldaindustria.com.br/noticias/robotica/festival-sesi-de-educacao-20252026-veja-quem-sao-os-grandes-vencedores/
+- el resultado: 2025 · FIRST LEGO League Challenge · Asia Pacific Open Championship · Sydney · Motivate Award · 2nd place · UNIMATE · Maranhão. FIEMA sitúa el premio en FLL Asia Pacific Open Championship. Fuente: https://www.fiema.org.br/noticia/5549/equipe-unimate-do-sesi-ma-conquista-premio-internacional-de-robotica
+- el resultado: 2026 · FIRST LEGO League Challenge · Festival SESI · Brasil · Qualification · Canada Open · UNIMATE · Maranhão. Cupo o invitación a la siguiente etapa según el organizador. El resultado del torneo se registra por separado. Fuente: https://www.fiema.org.br/noticia/6079/sesi-ma-leva-equipes-de-robotica-ao-canada-e-a-coreia-do-sul-2
+
+Fuentes (revisión 2026-11-07):
+- FIEMA · UNIMATE: https://www.fiema.org.br/noticia/6079/sesi-ma-leva-equipes-de-robotica-ao-canada-e-a-coreia-do-sul-2 — UNIMATE de Maranhão compite en FLL Challenge por Escola SESI São Luís.
+- FIEMA · edital 03/2027: https://www.fiema.org.br/edital/4795/edital-032027-escola-sesi-sao-luis-processo-seletivo-para-alunos-da-educacao-basica-regular-para-vagas-de-ampla-concorrencia-dependentes-da-industria-e-comunidade-em-geral — La convocatoria 03/2027 indica Maternal, Infantil I y 6º ano. El plazo cerró el 06.11.2026. Hay que verificar otros cursos y la próxima convocatoria por separado.
+- FIRST LEGO League Challenge · Festival SESI · Brasil: https://noticias.portaldaindustria.com.br/noticias/robotica/festival-sesi-de-educacao-20252026-veja-quem-sao-os-grandes-vencedores/ — Evaluación general nacional de Challenge. El orden corresponde al informe de CNI / SESI.
+- FIRST LEGO League Challenge · Asia Pacific Open Championship · Sydney: https://www.fiema.org.br/noticia/5549/equipe-unimate-do-sesi-ma-conquista-premio-internacional-de-robotica — FIEMA sitúa el premio en FLL Asia Pacific Open Championship.
+
+Lo que queda por comprobar es:
+- Las condiciones de admisión y el idioma del equipo deben confirmarse para el curso y la temporada concretos.
 
 ## Lagunas de cobertura
 
