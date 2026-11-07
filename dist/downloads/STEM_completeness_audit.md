@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 7634; соревнований: 3190; событий: 335; лагерей / программ: 4109. Профилей лиг и программ: 268. Карточек крупных и профильных выставок: 247 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 7672; соревнований: 3196; событий: 348; лагерей / программ: 4128. Профилей лиг и программ: 268. Карточек крупных и профильных выставок: 260 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 158 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -19,11 +19,11 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 | Европа | 42 | 432 | 80 | 1298 |
 | Африка | 34 | 115 | 15 | 68 |
 | Азия | 44 | 777 | 89 | 1409 |
-| Океания | 5 | 119 | 3 | 114 |
+| Океания | 5 | 125 | 16 | 133 |
 
 Межрегиональные / глобальные карточки, не приписанные одному континенту: 114. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
 
-VEX: 518 из 3190 карточек соревнований (16.2%). Это явный перекос охвата.
+VEX: 518 из 3196 карточек соревнований (16.2%). Это явный перекос охвата.
 
 ## Что осталось
 
@@ -583,6 +583,19 @@ VEX: 518 из 3190 карточек соревнований (16.2%). Это я�
 - **METALTECH & AUTOMEX 2027 · Kuala Lumpur** — Малайзия; 2027-05-05 – 2027-05-08. Детям 6/9 нельзя. https://www.metaltech.com.my/automex-kuala-lumpur/
 - **AIMX 2027 · AI Malaysia World Expo** — Малайзия; 2027-04-20 – 2027-04-22. Детский допуск уточнить. https://aimalaysiaexpo.com/
 - **Seoul Robot & AI Museum · RAIM** — Республика Корея; дата неизвестна. Со взрослым; условия взрослого входа отдельно. https://science.seoul.go.kr/RAIM/content.do?key=2412270001&menuTy=sc_exhi
+- **Kiwibots VEX IQ Nationals · livestream** — Новая Зеландия; 2026-12-12 – 2026-12-13. Со взрослым; условия взрослого входа отдельно. https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-4916.html
+- **FIRST Southern Cross Regional · BIOCORE · public viewing** — Австралия; 2027-03-11 – 2027-03-14. Со взрослым; условия взрослого входа отдельно. https://www.firstaustralia.org/first-robotics-competition-biocore
+- **Avalon Australian International Airshow 2027 · public** — Австралия; 2027-02-26 – 2027-02-28. Со взрослым; условия взрослого входа отдельно. https://airshow.com.au/attend/plan-your-visit/tickets/
+- **Avalon Australian International Airshow 2027 · trade days** — Австралия; 2027-02-23 – 2027-02-26. Детям 6/9 нельзя. https://airshow.com.au/trade/trade-days/registration/
+- **Armageddon Expo 2027 · Wellington** — Новая Зеландия; 2027-03-26 – 2027-03-28. Со взрослым; условия взрослого входа отдельно. https://www.armageddonexpo.com/general-info/wellington/
+- **Armageddon Expo 2027 · Christchurch Autumn** — Новая Зеландия; 2027-04-10 – 2027-04-11. Со взрослым; условия взрослого входа отдельно. https://www.armageddonexpo.com/general-info/christchurch/
+- **Armageddon Expo 2027 · Auckland Winter** — Новая Зеландия; 2027-06-05 – 2027-06-07. Со взрослым; условия взрослого входа отдельно. https://www.armageddonexpo.com/
+- **Armageddon Expo 2027 · Palmerston North** — Новая Зеландия; 2027-08-07 – 2027-08-08. Со взрослым; условия взрослого входа отдельно. https://www.armageddonexpo.com/general-info/palmerston-north-armageddon-expo/
+- **Armageddon Expo 2027 · Auckland Spring** — Новая Зеландия; 2027-10-22 – 2027-10-25. Со взрослым; условия взрослого входа отдельно. https://www.armageddonexpo.com/
+- **Armageddon Expo 2027 · Christchurch Spring** — Новая Зеландия; 2027-11-27 – 2027-11-28. Детский допуск уточнить. https://www.armageddonexpo.com/exhibitors/book-stands/select/
+- **New Zealand International Science Festival 2027** — Новая Зеландия; 2027-07-09 – 2027-07-18. Со взрослым; условия взрослого входа отдельно. https://scifest.org.nz/
+- **Play Con Australia 2027 · tabletop games** — Австралия; 2027-07-02 – 2027-07-04. Со взрослым; условия взрослого входа отдельно. https://play-con.com/faq/
+- **PAX Aus · 2027** — Австралия; дата неизвестна. Детский допуск уточнить. https://aus.paxsite.com/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors

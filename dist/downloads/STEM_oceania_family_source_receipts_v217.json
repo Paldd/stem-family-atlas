@@ -1,0 +1,434 @@
+{
+  "captures": [
+    {
+      "key": "nz-steam-ed-holidays",
+      "url": "https://steamed.nz/holiday-programmes/",
+      "checked_at": "2026-11-07T12:35:09.231352+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://steamed.nz/holiday-programmes/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "nz-steam-ed-holidays.html",
+      "bytes": 352285,
+      "sha256": "e4c8584250d6adc8a7f0456762ec34af05b5a2bd84b931d8b55d8c3e6793daab"
+    },
+    {
+      "key": "waverley-robotics",
+      "url": "https://events.humanitix.com/robotics-and-coding-workshop-8-12-years-waverley-library",
+      "checked_at": "2026-11-07T12:35:09.234209+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://events.humanitix.com/robotics-and-coding-workshop-8-12-years-waverley-library",
+      "content_type": "text/html",
+      "file": "waverley-robotics.html",
+      "bytes": 210802,
+      "sha256": "8b59268673df812e546d99f5dca722fb94eb9ff6b2eecdd998f8610138900b60"
+    },
+    {
+      "key": "aus-fll-apoc",
+      "url": "https://www.firstaustralia.org/first-lego-league-apoc",
+      "checked_at": "2026-11-07T12:35:09.234539+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.firstaustralia.org/first-lego-league-apoc",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "aus-fll-apoc.html",
+      "bytes": 1438179,
+      "sha256": "ad7eab0e54d11dfeb403f7bf01b49b3f009f430222fc20d5dad09f96973dfc3f"
+    },
+    {
+      "key": "aus-frc-biocore",
+      "url": "https://www.firstaustralia.org/first-robotics-competition-biocore",
+      "checked_at": "2026-11-07T12:35:09.235895+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.firstaustralia.org/first-robotics-competition-biocore",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "aus-frc-biocore.html",
+      "bytes": 1352343,
+      "sha256": "69e0c1feb1bde5733cf3c703ace34d78dcf0b975d75468f85845d7586019ede7"
+    },
+    {
+      "key": "nz-vex-nationals",
+      "url": "https://www.kiwibots.co.nz/nationals",
+      "checked_at": "2026-11-07T12:35:09.241326+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.kiwibots.co.nz/nationals",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "nz-vex-nationals.html",
+      "bytes": 875579,
+      "sha256": "3a4c838b7f7bcbc7852f464102825fcaf27c1a3051ded5c7c58c31bbcdf3467f"
+    },
+    {
+      "key": "kids-upfront",
+      "url": "https://www.kidsupfront.com.au/page/holiday-camps",
+      "checked_at": "2026-11-07T12:35:09.241887+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.kidsupfront.com.au/page/holiday-camps",
+      "content_type": "text/html; charset=utf-8",
+      "file": "kids-upfront.html",
+      "bytes": 55154,
+      "sha256": "f464d70bdff61c396110d7994ec2a967e1f3b342d6c6be944b38ad86dbb61300"
+    },
+    {
+      "key": "nz-scifest",
+      "url": "https://scifest.org.nz/",
+      "checked_at": "2026-11-07T12:36:58.277292+00:00",
+      "transport": "curl",
+      "status": 403,
+      "final_url": "https://scifest.org.nz/",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "key": "armageddon-arcade-partner",
+      "url": "https://www.kiwibank.co.nz/about-us/community-partnerships/armageddon-expo/",
+      "checked_at": "2026-11-07T12:36:58.278913+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.kiwibank.co.nz/about-us/community-partnerships/armageddon-expo/",
+      "content_type": "text/html; charset=utf-8",
+      "file": "armageddon-arcade-partner.html",
+      "bytes": 300781,
+      "sha256": "62d758f6ddc43816b6591bf48da0b63a1e5d67713fafef311360f246844060f2"
+    },
+    {
+      "key": "avalon-vic",
+      "url": "https://www.premier.vic.gov.au/sites/default/files/2026-03/260323-Avalon-Airshow-To-Take-Flight-In-2027-.pdf",
+      "checked_at": "2026-11-07T12:36:58.282456+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.premier.vic.gov.au/sites/default/files/2026-03/260323-Avalon-Airshow-To-Take-Flight-In-2027-.pdf",
+      "content_type": "application/pdf",
+      "file": "avalon-vic.pdf",
+      "bytes": 234023,
+      "sha256": "acc4fea8815c62ff5e4cf798868a34e9929cb56e79c3bb0d73a5cbdccb27791f"
+    },
+    {
+      "key": "pax-aus",
+      "url": "https://aus.paxsite.com/",
+      "checked_at": "2026-11-07T12:36:58.283301+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://aus.paxsite.com/",
+      "content_type": "text/html;charset=utf-8",
+      "file": "pax-aus.html",
+      "bytes": 193385,
+      "sha256": "87e1d22ade8c51dc04d4ce2e47d7281243cc8e1eb283a7ad4023abda666cb60a"
+    },
+    {
+      "key": "play-con-faq",
+      "url": "https://play-con.com/faq/",
+      "checked_at": "2026-11-07T12:36:58.284654+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://play-con.com/faq/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "play-con-faq.html",
+      "bytes": 766210,
+      "sha256": "1b372e544f7a5adf862580677c8ce7315a4424ca660cd95fb70e43bfc22593c2"
+    },
+    {
+      "key": "steam-nz-venue",
+      "url": "https://steamed.nz/about-us/",
+      "checked_at": "2026-11-07T12:44:20.400556+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://steamed.nz/about-us/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "steam-nz-venue.html",
+      "bytes": 258753,
+      "sha256": "29ce494c4e625ef1c2fd924cfeb2ece9ae4aa389dd00a192d8bfa097139bdd58"
+    },
+    {
+      "key": "steam-nz-contact",
+      "url": "https://steamed.nz/contact-us/",
+      "checked_at": "2026-11-07T12:44:20.400813+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://steamed.nz/contact-us/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "steam-nz-contact.html",
+      "bytes": 239495,
+      "sha256": "f3cd3d71e5bada54f2b2389b1e3ebc1c24b6c01103187c08ebcd05339acb6a67"
+    },
+    {
+      "key": "frc-rules",
+      "url": "https://www.firstinspires.org/programs/frc/",
+      "checked_at": "2026-11-07T12:44:20.400905+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.firstinspires.org/programs/frc/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "frc-rules.html",
+      "bytes": 161310,
+      "sha256": "508bfa459c19ea651bc76461c759d85c55a255be9bba0d3d96ac126e7af7ef9b"
+    },
+    {
+      "key": "robocup-vic",
+      "url": "https://www.robocupjunior.org.au/challenge-regions/vic/",
+      "checked_at": "2026-11-07T12:44:20.402239+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.robocupjunior.org.au/challenge-regions/vic/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "robocup-vic.html",
+      "bytes": 163598,
+      "sha256": "a7d5d57f1fbe7b980a9f6825f0c6c0544813029860c4f35c0374324946a21816"
+    },
+    {
+      "key": "avalon-tickets",
+      "url": "https://airshow.com.au/attend/plan-your-visit/tickets/",
+      "checked_at": "2026-11-07T12:44:20.407212+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://airshow.com.au/attend/plan-your-visit/tickets/",
+      "content_type": "text/html; charset=utf-8",
+      "file": "avalon-tickets.html",
+      "bytes": 19275,
+      "sha256": "04f045dc2208f536156ff8cfe1a407a029edd0ea97988562a1817bdf4774d041"
+    },
+    {
+      "key": "avalon-dates",
+      "url": "https://airshow.com.au/about/news-media/latest-news/avalon-2027-dates-confirmed/",
+      "checked_at": "2026-11-07T12:44:20.410018+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://airshow.com.au/about/news-media/latest-news/avalon-2027-dates-confirmed/",
+      "content_type": "text/html; charset=utf-8",
+      "file": "avalon-dates.html",
+      "bytes": 16369,
+      "sha256": "292d1a9d6c292339523802225455ee752661791320a3a7a02a2b61396e35668e"
+    },
+    {
+      "key": "armageddon-dates",
+      "url": "https://www.armageddonexpo.com/exhibitors/book-stands/select/",
+      "checked_at": "2026-11-07T12:44:20.411853+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.armageddonexpo.com/exhibitors/book-stands/select/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "armageddon-dates.html",
+      "bytes": 49067,
+      "sha256": "6c1373cd27f2ed5fa55412205859372d65c952bb2b07ddec28fca558dec96c27"
+    },
+    {
+      "key": "armageddon-christchurch",
+      "url": "https://www.armageddonexpo.com/general-info/christchurch/",
+      "checked_at": "2026-11-07T12:44:20.783648+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.armageddonexpo.com/general-info/christchurch/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "armageddon-christchurch.html",
+      "bytes": 31162,
+      "sha256": "940e074db61b762a304c45283ddf7f40e8276f86b567ff73b793317489fe5613"
+    },
+    {
+      "key": "armageddon-wellington",
+      "url": "https://www.armageddonexpo.com/general-info/wellington/",
+      "checked_at": "2026-11-07T12:44:21.540184+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.armageddonexpo.com/general-info/wellington/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "armageddon-wellington.html",
+      "bytes": 31365,
+      "sha256": "c867e332f4261fdec9de89a23dd5bdc02874e2fff2fa0f2ab1227355c27d8f1e"
+    },
+    {
+      "key": "play-con",
+      "url": "https://play-con.com/",
+      "checked_at": "2026-11-07T12:44:21.816267+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://play-con.com/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "play-con.html",
+      "bytes": 808327,
+      "sha256": "a41274d88c7c39bdafa6028449bcb4f4ac1619298d35eb53353b814fe37e0e9c"
+    },
+    {
+      "key": "rcja-vic-calendar",
+      "url": "https://enter.robocupjunior.org.au/api/v1/public/states/VIC/allEventsDetailed?includeGlobal=True",
+      "checked_at": "2026-11-07T12:45:30.897009+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://enter.robocupjunior.org.au/api/v1/public/states/VIC/allEventsDetailed/?includeGlobal=True",
+      "content_type": "application/json",
+      "file": "rcja-vic-calendar.html",
+      "bytes": 54845,
+      "sha256": "80fce51812211ed19c796e9285c7f3fdce57dc3e33f297bc0070dcdb9d707372"
+    },
+    {
+      "key": "armageddon-home",
+      "url": "https://www.armageddonexpo.com/",
+      "checked_at": "2026-11-07T12:45:30.899816+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.armageddonexpo.com/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "armageddon-home.html",
+      "bytes": 36107,
+      "sha256": "36a295db19dc8fa4229416dfd10294cbba936bdd98cc979583711891fabad7e1"
+    },
+    {
+      "key": "armageddon-auckland-winter",
+      "url": "https://www.armageddonexpo.com/general-info/auckland-autumn/",
+      "checked_at": "2026-11-07T12:45:30.900186+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.armageddonexpo.com/general-info/auckland-autumn/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "armageddon-auckland-winter.html",
+      "bytes": 33934,
+      "sha256": "3414b7ca713016c4442f3b5357fb1c762ccd0f7cb2c1a4738209f9b837abae54"
+    },
+    {
+      "key": "armageddon-auckland-spring",
+      "url": "https://www.armageddonexpo.com/general-info/auckland-spring/",
+      "checked_at": "2026-11-07T12:45:30.901455+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.armageddonexpo.com/general-info/auckland-spring/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "armageddon-auckland-spring.html",
+      "bytes": 35689,
+      "sha256": "14ed553bb849f83bdc07db6f727f4be33bd2b23ba46d49948521b63a762260a5"
+    },
+    {
+      "key": "armageddon-palmerston",
+      "url": "https://www.armageddonexpo.com/general-info/palmerston-north-armageddon-expo/",
+      "checked_at": "2026-11-07T12:45:30.903164+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.armageddonexpo.com/general-info/palmerston-north-armageddon-expo/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "armageddon-palmerston.html",
+      "bytes": 30204,
+      "sha256": "87ad086a7b5b047d55aea53fa5e1f23d4a18a20a1bc190caed29df192ff53799"
+    },
+    {
+      "key": "avalon-trade",
+      "url": "https://airshow.com.au/trade/trade-days/registration/",
+      "checked_at": "2026-11-07T12:45:30.904591+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://airshow.com.au/trade/trade-days/registration/",
+      "content_type": "text/html; charset=utf-8",
+      "file": "avalon-trade.html",
+      "bytes": 30919,
+      "sha256": "b347b4538f9e5393c583cacae31ff723f9a043208a30f490023fce977bf4f217"
+    },
+    {
+      "key": "vex-nz-iq-e",
+      "url": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-4916.html",
+      "checked_at": "2026-11-07T12:45:30.906537+00:00",
+      "transport": "curl",
+      "status": 403,
+      "final_url": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-4916.html",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "key": "vex-nz-iq-m",
+      "url": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-4918.html",
+      "checked_at": "2026-11-07T12:45:30.909274+00:00",
+      "transport": "curl",
+      "status": 403,
+      "final_url": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-4918.html",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "key": "vex-nz-v5-h",
+      "url": "https://events.vex.com/robot-competitions/vex-robotics-competition/RE-V5RC-26-4929.html",
+      "checked_at": "2026-11-07T12:45:31.047476+00:00",
+      "transport": "curl",
+      "status": 403,
+      "final_url": "https://events.vex.com/robot-competitions/vex-robotics-competition/RE-V5RC-26-4929.html",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "key": "aicode-3d",
+      "url": "https://www.eventbrite.com.au/e/3d-modelling-robotics-3-day-jan-holiday-program-y3-y6-tickets-1999334329801",
+      "checked_at": "2026-11-07T12:46:37.411763+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.eventbrite.com.au/e/3d-modelling-robotics-3-day-jan-holiday-program-y3-y6-tickets-1999334329801",
+      "content_type": "text/html; charset=utf-8",
+      "file": "aicode-3d.html",
+      "bytes": 225900,
+      "sha256": "44158a347d18880cb59a98ba7bb21b6e2768858dd62e2deb27818caa2a135b3b"
+    },
+    {
+      "key": "stembuddy-jan",
+      "url": "https://www.trybooking.com/au/event/1660294",
+      "checked_at": "2026-11-07T12:46:37.412016+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.trybooking.com/au/event/1660294",
+      "content_type": "text/html; charset=utf-8",
+      "file": "stembuddy-jan.html",
+      "bytes": 99427,
+      "sha256": "cc5b04417f98ce1f68f6aa9c53f54fb6092deb4e06e5dcec63134344c4248788"
+    },
+    {
+      "key": "geelong-event",
+      "url": "https://enter.robocupjunior.org.au/events/370",
+      "checked_at": "2026-11-07T12:46:37.412150+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://enter.robocupjunior.org.au/accounts/login/?next=/events/370",
+      "content_type": "text/html; charset=utf-8",
+      "file": "geelong-event.html",
+      "bytes": 4778,
+      "sha256": "7f92f66ed71316cdcb8c4d142802edf1867396c270eb563ab899f79e4795713c"
+    },
+    {
+      "key": "kids-upfront-dates",
+      "url": "https://www.kidsupfront.com.au/page/future-camp-dates",
+      "checked_at": "2026-11-07T12:46:37.414485+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.kidsupfront.com.au/page/future-camp-dates",
+      "content_type": "text/html; charset=utf-8",
+      "file": "kids-upfront-dates.html",
+      "bytes": 15873,
+      "sha256": "04f640a81fb5a96942336ec4c5680423a2f1a6f46682efc93877fb15c73d612a"
+    }
+  ],
+  "public_web_observations": [
+    {
+      "url": "https://scifest.org.nz/",
+      "evidence": "Official current festival landing page confirms 9–18 July 2027 in Dunedin and programme to follow."
+    },
+    {
+      "url": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-4916.html",
+      "evidence": "Official event page confirms open tournament, December 11–13, NZD 275 in organizer narrative, on-site judging and planned Kiwibots stream."
+    },
+    {
+      "url": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-4918.html",
+      "evidence": "Official event header labels Middle School; copied Elementary text conflicts. Kiwibots Nationals confirms separate Elementary and Middle divisions."
+    },
+    {
+      "url": "https://events.vex.com/robot-competitions/vex-robotics-competition/RE-V5RC-26-4929.html",
+      "evidence": "Official event page confirms High School, Feb 19–21 Onehunga High School, NZD 275 directly invoiced, Friday inspection and digital notebook."
+    },
+    {
+      "url": "https://airshow.com.au/attend/plan-your-visit/tickets/",
+      "evidence": "Official ticket page confirms exclusive Ticketek public ticketing with sales announced for November 2026; price pending."
+    },
+    {
+      "url": "https://airshow.com.au/about/news-media/latest-news/avalon-2027-dates-confirmed/",
+      "evidence": "Official announcement confirms all-ages public programme from Feb 26 and trade component."
+    },
+    {
+      "url": "https://airshow.com.au/trade/trade-days/registration/",
+      "evidence": "Official trade information confirms industry accreditation and minimum age 16, price AUD 98 including GST, Feb 26 public access from noon."
+    },
+    {
+      "url": "https://www.eventbrite.com.au/e/3d-modelling-robotics-3-day-jan-holiday-program-y3-y6-tickets-1999334329801",
+      "evidence": "Aicode Australia organizer listing confirms Years 3–6, Jan 13–15 2027, 09:00–15:30, 3–5 Bennett St East Perth, 3D design and robotics."
+    }
+  ]
+}

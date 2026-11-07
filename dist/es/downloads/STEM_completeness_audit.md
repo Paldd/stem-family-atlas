@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 7634; competiciones: 3190; eventos: 335; campamentos / programas: 4109. Perfiles de ligas y programas: 268. Fichas de exposiciones grandes y especializadas: 247 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 7672; competiciones: 3196; eventos: 348; campamentos / programas: 4128. Perfiles de ligas y programas: 268. Fichas de exposiciones grandes y especializadas: 260 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros concretos de 158 de 249 países y territorios; países auditados por completo: 0. Revisión histórica v51: se añadieron 21 fichas y 3 perfiles. Todas las fichas anteriores se conservan.
 
@@ -19,11 +19,11 @@ Hay registros concretos de 158 de 249 países y territorios; países auditados p
 | Europa | 42 | 432 | 80 | 1298 |
 | África | 34 | 115 | 15 | 68 |
 | Asia | 44 | 777 | 89 | 1409 |
-| Oceanía | 5 | 119 | 3 | 114 |
+| Oceanía | 5 | 125 | 16 | 133 |
 
 Fichas interregionales o globales sin un único continente asignado: 114. América del Norte incluye Centroamérica y el Caribe. Las cifras muestran el inventario del atlas y no un porcentaje de exhaustividad.
 
-VEX: 518 de 3190 fichas de competiciones (16.2%). Hay un claro desequilibrio en la cobertura.
+VEX: 518 de 3196 fichas de competiciones (16.2%). La cobertura está sesgada hacia este circuito.
 
 ## Lo que queda
 
@@ -583,6 +583,19 @@ VEX: 518 de 3190 fichas de competiciones (16.2%). Hay un claro desequilibrio en 
 - **METALTECH & AUTOMEX 2027 · Kuala Lumpur** — Malasia; 2027-05-05 – 2027-05-08. Los niños del 6/9 no pueden. https://www.metaltech.com.my/automex-kuala-lumpur/
 - **AIMX 2027 · AI Malaysia World Expo** — Malasia; 2027-04-20 – 2027-04-22. el permiso de entrada de niños. https://aimalaysiaexpo.com/
 - **Seoul Robot & AI Museum · RAIM** — Corea del Sur; fecha sin indicar. Con un adulto; condiciones de admisión adulta por separado. https://science.seoul.go.kr/RAIM/content.do?key=2412270001&menuTy=sc_exhi
+- **Kiwibots VEX IQ Nationals · livestream** — Nueva Zelanda; 2026-12-12 – 2026-12-13. con un adulto; condiciones de admisión adulta por separado. https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-4916.html
+- **FIRST Southern Cross Regional · BIOCORE · public viewing** — Australia; 2027-03-11 – 2027-03-14. con un adulto; condiciones de admisión adulta por separado. https://www.firstaustralia.org/first-robotics-competition-biocore
+- **Avalon Australian International Airshow 2027 · public** — Australia; 2027-02-26 – 2027-02-28. con un adulto; condiciones de admisión adulta por separado. https://airshow.com.au/attend/plan-your-visit/tickets/
+- **Avalon Australian International Airshow 2027 · trade days** — Australia; 2027-02-23 – 2027-02-26. Los niños del 6/9 no pueden. https://airshow.com.au/trade/trade-days/registration/
+- **Armageddon Expo 2027 · Wellington** — Nueva Zelanda; 2027-03-26 – 2027-03-28. con un adulto; condiciones de admisión adulta por separado. https://www.armageddonexpo.com/general-info/wellington/
+- **Armageddon Expo 2027 · Christchurch Autumn** — Nueva Zelanda; 2027-04-10 – 2027-04-11. con un adulto; condiciones de admisión adulta por separado. https://www.armageddonexpo.com/general-info/christchurch/
+- **Armageddon Expo 2027 · Auckland Winter** — Nueva Zelanda; 2027-06-05 – 2027-06-07. con un adulto; condiciones de admisión adulta por separado. https://www.armageddonexpo.com/
+- **Armageddon Expo 2027 · Palmerston North** — Nueva Zelanda; 2027-08-07 – 2027-08-08. con un adulto; condiciones de admisión adulta por separado. https://www.armageddonexpo.com/general-info/palmerston-north-armageddon-expo/
+- **Armageddon Expo 2027 · Auckland Spring** — Nueva Zelanda; 2027-10-22 – 2027-10-25. con un adulto; condiciones de admisión adulta por separado. https://www.armageddonexpo.com/
+- **Armageddon Expo 2027 · Christchurch Spring** — Nueva Zelanda; 2027-11-27 – 2027-11-28. el permiso de entrada de niños. https://www.armageddonexpo.com/exhibitors/book-stands/select/
+- **New Zealand International Science Festival 2027** — Nueva Zelanda; 2027-07-09 – 2027-07-18. con un adulto; condiciones de admisión adulta por separado. https://scifest.org.nz/
+- **Play Con Australia 2027 · tabletop games** — Australia; 2027-07-02 – 2027-07-04. con un adulto; condiciones de admisión adulta por separado. https://play-con.com/faq/
+- **PAX Aus · 2027** — Australia; fecha desconocida. Confirmar acceso infantil. https://aus.paxsite.com/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

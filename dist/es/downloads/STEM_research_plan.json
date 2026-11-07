@@ -870,13 +870,13 @@
   ],
   "completion_rule": "No declarar el objetivo de las tarjetas de identificación completadas, la lista de 249 países o los puntos verdes de UI. Se requiere una cobertura de referencia y condiciones pertinentes demostradas, o información manifiestamente inaccesible o no declarada con fuentes verificadas.",
   "latest_validation": {
-    "version": 216,
+    "version": 217,
     "status": "implementation_snapshot",
-    "events": 7634,
-    "competitions": 3190,
+    "events": 7672,
+    "competitions": 3196,
     "league_profiles": 268,
-    "camp_dossiers": 1678,
-    "budget_offers": 231,
+    "camp_dossiers": 1686,
+    "budget_offers": 235,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
     "worldwide_complete": false,
@@ -925,12 +925,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 215,
+    "version": 216,
     "status": "implementation_snapshot",
-    "events": 7593,
-    "competitions": 3165,
-    "league_profiles": 265,
-    "camp_dossiers": 1671,
+    "events": 7634,
+    "competitions": 3190,
+    "league_profiles": 268,
+    "camp_dossiers": 1678,
     "budget_offers": 231,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -20805,11 +20805,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 215,
-    "published_version": 215,
-    "latest_source_commit": "d3a2e73e96673c9ed468d1e35b51fc5984b137f0",
-    "published_commit": "d3a2e73e96673c9ed468d1e35b51fc5984b137f0",
-    "latest_workflow": 42371684447,
+    "latest_source_version": 216,
+    "published_version": 216,
+    "latest_source_commit": "f22625d124f7612cab7d05a6a193dc78597c1c0b",
+    "published_commit": "f22625d124f7612cab7d05a6a193dc78597c1c0b",
+    "latest_workflow": 42373221117,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -22068,5 +22068,75 @@
     ],
     "audit": "data/korea-malaysia-audit-v216.json",
     "source_receipts": "data/korea-malaysia-source-receipts-v216.json"
+  },
+  "oceania_family_v217": {
+    "version": 217,
+    "checked": "2026-11-07",
+    "previous_goal_turn_classification": "progress",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_competitions": 6,
+    "new_exhibitions": 13,
+    "new_camp_dossiers": 8,
+    "new_dated_camp_variants": 19,
+    "updated_competitions": [
+      "C385"
+    ],
+    "rechecked_unchanged_competitions": [
+      "C1875"
+    ],
+    "updated_dossiers": [
+      "CP1265",
+      "CP1266",
+      "CP1267",
+      "CP1268",
+      "CP1269"
+    ],
+    "new_budget_offers": 4,
+    "new_events": [
+      "C3192",
+      "E336",
+      "C3193",
+      "C3194",
+      "C3195",
+      "C3196",
+      "E337",
+      "C3197",
+      "E338",
+      "E339",
+      "E340",
+      "E341",
+      "E342",
+      "E343",
+      "E344",
+      "E345",
+      "E346",
+      "E347",
+      "E348"
+    ],
+    "programme_ids": {
+      "waverley-library-robotics-jan2027": "CP1679",
+      "aicode-perth-3d-robotics-jan2027": "CP1680",
+      "stembuddy-ev3-drones-jan2027": "CP1681",
+      "stembuddy-pc-jan2027": "CP1682",
+      "stembuddy-ai-jan2027": "CP1683",
+      "stembuddy-electronics-jan2027": "CP1684",
+      "kids-up-front-sydney-jan2027": "CP1685",
+      "kids-up-front-melbourne-jan2027": "CP1686"
+    },
+    "source_requests": 34,
+    "limits": [
+      "STEAM-ED Tauranga sessions were already present. Rechecked the original provider timetable and venue, retained existing session IDs and no duplicates.",
+      "STEMBuddy published conflicting dates for modules beyond EV3. Those profiles have no confirmed calendar dates and no confirmed per-module fee.",
+      "Kids Up Front rates and programme group waitlists are campus- and age-specific. Instructional language and availability require confirmation.",
+      "VEX IQ Escuela media registration narrative still mentions Elementary School. Official Kiwibots national page lists separate divisions and Worlds allocations. The event listing currency marker differs from NZD in organizer text.",
+      "Southern Cross public viewing is free. Dates represent the overall window and daily agenda remains pending. APOC family package does not establish a spectator ticket policy.",
+      "Geelong event data list no current divisions. Its foreign eligibility cannot be inferred from the separate national open.",
+      "Avalon trade requires accreditation and minimum age 16. Public programme starts at noon 26 February and has its own ticketing.",
+      "Armageddon Christchurch Spring dates are organizer exhibitor-calendar evidence; visitor entry pending. Several city pages show prior-season ticket prices.",
+      "Young Engineers Melbourne South has contradictory September 2026 and January 2027 event details. The conflicting old schedule was not published as current."
+    ],
+    "audit": "data/oceania-family-audit-v217.json",
+    "source_receipts": "data/oceania-family-source-receipts-v217.json"
   }
 }

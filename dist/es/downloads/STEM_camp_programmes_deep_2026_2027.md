@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-07. 1678 fichas en 92 países. Cada ficha indica las fechas de verificación de sus fuentes.
+Estado de la base: 2026-11-07. 1686 fichas en 92 países. Cada ficha indica la fecha de comprobación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -97306,7 +97306,7 @@ Panamá · Campus Metropolitano Dr. Víctor Levi Sasso · confirmar sede de pró
 
 Nueva Zelanda · 671 Cameron Road · Tauranga South · Tauranga 3112
 
-**Se ha comprobado:** 2026-11-05
+**Se ha comprobado:** 2026-11-07
 
 * Edad:** 5*13
 
@@ -97372,11 +97372,17 @@ Nueva Zelanda · 671 Cameron Road · Tauranga South · Tauranga 3112
 
 - [Cartel original de dos páginas](https://s3-ap-southeast-2.amazonaws.com/enrolmy-nz/steam-ed/09183-docs/100/gau3doxr2zhqw56py84x.pdf) · 2026-11-05
 
+- [Página oficial del organizador](https://steamed.nz/holiday-programmes/) · 2026-11-07
+
+- [Página oficial del organizador](https://steamed.nz/about-us/) · 2026-11-07
+
+- [Página oficial del organizador](https://steamed.nz/contact-us/) · 2026-11-07
+
 ## CP1266 · STEAM-ED Tauranga · Arts / Science / Engineering
 
 Nueva Zelanda · 671 Cameron Road · Tauranga South · Tauranga 3112
 
-**Se ha comprobado:** 2026-11-05
+**Se ha comprobado:** 2026-11-07
 
 * Edad:** 5*13
 
@@ -97472,11 +97478,17 @@ Nueva Zelanda · 671 Cameron Road · Tauranga South · Tauranga 3112
 
 - [Cartel original de dos páginas](https://s3-ap-southeast-2.amazonaws.com/enrolmy-nz/steam-ed/09183-docs/100/gau3doxr2zhqw56py84x.pdf) · 2026-11-05
 
+- [Página oficial del organizador](https://steamed.nz/holiday-programmes/) · 2026-11-07
+
+- [Página oficial del organizador](https://steamed.nz/about-us/) · 2026-11-07
+
+- [Página oficial del organizador](https://steamed.nz/contact-us/) · 2026-11-07
+
 ## CP1267 · STEAM-ED Tauranga · Music & Dancing Robots
 
 Nueva Zelanda · 671 Cameron Road · Tauranga South · Tauranga 3112
 
-**Se ha comprobado:** 2026-11-05
+**Se ha comprobado:** 2026-11-07
 
 **Edad:** 8–13
 
@@ -97522,11 +97534,17 @@ Nueva Zelanda · 671 Cameron Road · Tauranga South · Tauranga 3112
 
 - [Cartel original de dos páginas](https://s3-ap-southeast-2.amazonaws.com/enrolmy-nz/steam-ed/09183-docs/100/gau3doxr2zhqw56py84x.pdf) · 2026-11-05
 
+- [Página oficial del organizador](https://steamed.nz/holiday-programmes/) · 2026-11-07
+
+- [Página oficial del organizador](https://steamed.nz/about-us/) · 2026-11-07
+
+- [Página oficial del organizador](https://steamed.nz/contact-us/) · 2026-11-07
+
 ## CP1268 · STEAM-ED Tauranga · Combat Robotics
 
 Nueva Zelanda · 671 Cameron Road · Tauranga South · Tauranga 3112
 
-**Se ha comprobado:** 2026-11-05
+**Se ha comprobado:** 2026-11-07
 
 **Edad:** 8–13
 
@@ -97572,11 +97590,17 @@ Nueva Zelanda · 671 Cameron Road · Tauranga South · Tauranga 3112
 
 - [Cartel original de dos páginas](https://s3-ap-southeast-2.amazonaws.com/enrolmy-nz/steam-ed/09183-docs/100/gau3doxr2zhqw56py84x.pdf) · 2026-11-05
 
+- [Página oficial del organizador](https://steamed.nz/holiday-programmes/) · 2026-11-07
+
+- [Página oficial del organizador](https://steamed.nz/about-us/) · 2026-11-07
+
+- [Página oficial del organizador](https://steamed.nz/contact-us/) · 2026-11-07
+
 ## CP1269 · STEAM-ED Tauranga · Minecraft Education
 
 Nueva Zelanda · 671 Cameron Road · Tauranga South · Tauranga 3112
 
-**Se ha comprobado:** 2026-11-05
+**Se ha comprobado:** 2026-11-07
 
 * Edad:** 7*13
 
@@ -97621,6 +97645,12 @@ Nueva Zelanda · 671 Cameron Road · Tauranga South · Tauranga 3112
 - [Ficha oficial enero 2027 y terms](https://enrolmy.com/steam-ed/activity/194-January_2027_Holidays) · 2026-11-05
 
 - [Cartel original de dos páginas](https://s3-ap-southeast-2.amazonaws.com/enrolmy-nz/steam-ed/09183-docs/100/gau3doxr2zhqw56py84x.pdf) · 2026-11-05
+
+- [Página oficial del organizador](https://steamed.nz/holiday-programmes/) · 2026-11-07
+
+- [Página oficial del organizador](https://steamed.nz/about-us/) · 2026-11-07
+
+- [Página oficial del organizador](https://steamed.nz/contact-us/) · 2026-11-07
 
 ## CP1270 · SCRATCHPAD · Roll Up Your Sleeves · Let Us Code
 
@@ -129627,6 +129657,840 @@ Malasia · ACE Idioma Centre · Mont Kiara · Kuala Lumpur
 - [Página oficial del organizador](https://www.acelanguagecentre.my/courses/winter-camp) · 2026-11-07
 
 - [Página oficial del organizador](https://www.acelanguagecentre.my/) · 2026-11-07
+
+## CP1679 · Waverley Library · Robotics and Coding Workshop
+
+Australia · Waverley Library · 32–48 Denison St · Bondi Junction NSW
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 8–12 años
+
+**Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar.
+
+**Programa:** Montaje y programación de un robot con luces, sensores y motores. Imparte Mad About Science.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Horario en hora local de la sede.
+
+**Precio / año:** 2027 · AUD 0 por General Admission. Inscripción previa obligatoria.
+
+**Incluido:** Montaje y programación de un robot con luces, sensores y motores. Imparte Mad About Science.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** No por ahora. Mínimo 8 años en el programa elegido.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Robotics and Coding Workshop
+
+**Fechas / estado:** 2027-01-19 — 2027-01-19
+
+**lugar:** Waverley Library · 32–48 Denison St · Bondi Junction NSW
+
+**edad:** 8–12 años
+
+**Precio:** AUD 0 por General Admission. Inscripción previa obligatoria.
+
+- 2027-01-19 · 10:30–12:00 · Australia/Sydney · Montaje y programación de un robot con luces, sensores y motores. Imparte Mad About Science.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** No por ahora. Mínimo 8 años en el programa elegido.
+
+[fuente](https://events.humanitix.com/robotics-and-coding-workshop-8-12-years-waverley-library)
+
+### Fuentes
+
+- [Página oficial del organizador](https://events.humanitix.com/robotics-and-coding-workshop-8-12-years-waverley-library) · 2026-11-07
+
+## CP1680 · Aicode Australia · 3D Modelling & Robotics
+
+Australia · Aicode Australia · Ground Floor · 3–5 Bennett St · East Perth
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 8–12 años y Years 3–6
+
+**Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar.
+
+**Programa:** 3 días. Modelo CAD, preparación para impresión 3D, programación de robots y presentación final.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Horario en hora local de la sede.
+
+**Precio / año:** 2027 · AUD 465 por 3 días, con materiales y comisión de Eventbrite incluidos.
+
+**Incluido:** 3 días. Modelo CAD, preparación para impresión 3D, programación de robots y presentación final.
+
+**Suplementos:** Llevar portátil, agua, refrigerio y almuerzo sin frutos secos.
+
+**Pago:** Si cancela la organización, reembolso total. Si cancela la familia con al menos 14 días, se retiene 1.8% de comisión. Para plazos de 7 días y 3 días se publican retenciones del 20% y 50%. Confirmar plazos intermedios.
+
+**Matvey:** Condicional por grado escolar. Confirmar equivalencia a Year 3 y plaza.
+
+**Oscar:** No por ahora. Mínimo 8 años en el programa elegido.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+- Llevar portátil, agua, refrigerio y almuerzo sin frutos secos.
+
+### 3D Modelling & Robotics
+
+**Fechas / estado:** 2027-01-13 — 2027-01-15
+
+**lugar:** Aicode Australia · Ground Floor · 3–5 Bennett St · East Perth
+
+**edad:** 8–12 años y Years 3–6
+
+**Precio:** AUD 465 por 3 días, con materiales y comisión de Eventbrite incluidos.
+
+- 2027-01-13 · 09:00–15:30 · Australia/Perth · 3 días. Modelo CAD, preparación para impresión 3D, programación de robots y presentación final.
+
+- 2027-01-14 · 09:00–15:30 · Australia/Perth · 3 días. Modelo CAD, preparación para impresión 3D, programación de robots y presentación final.
+
+- 2027-01-15 · 09:00–15:30 · Australia/Perth · 3 días. Modelo CAD, preparación para impresión 3D, programación de robots y presentación final.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Condicional por grado escolar. Confirmar equivalencia a Year 3 y plaza.
+
+**Oscar:** No por ahora. Mínimo 8 años en el programa elegido.
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+- Llevar portátil, agua, refrigerio y almuerzo sin frutos secos.
+
+[fuente](https://www.eventbrite.com.au/e/3d-modelling-robotics-3-day-jan-holiday-program-y3-y6-tickets-1999334329801)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.eventbrite.com.au/e/3d-modelling-robotics-3-day-jan-holiday-program-y3-y6-tickets-1999334329801) · 2026-11-07
+
+## CP1681 · STEMBuddy · EV3 Robotics & Autonomous Drones
+
+Australia · STEMBuddy · Narre Warren South VIC
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Years 1–8, admisión por grado escolar.
+
+**Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar.
+
+**Programa:** LEGO EV3, microdrones programables, sensores y misión autónoma de rescate.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 09:00–14:00. Confirmar grado, dirección, idioma, equipo y precio final.
+
+**Precio / año:** 2027 · La página muestra AUD 250–375 para distintas opciones. Confirmar tarifa de este módulo.
+
+**Incluido:** LEGO EV3, microdrones programables, sensores y misión autónoma de rescate.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Condicional por grado escolar. Confirmar equivalencia a Year 1 y plaza.
+
+**Oscar:** Condicional por grado escolar. Confirmar equivalencia a Year 1 y plaza.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### EV3 Robotics & Autonomous Drones
+
+**Fechas / estado:** 2027-01-11 — 2027-01-12
+
+**lugar:** STEMBuddy · Narre Warren South VIC
+
+**edad:** Years 1–8, admisión por grado escolar.
+
+**Precio:** La página muestra AUD 250–375 para distintas opciones. Confirmar tarifa de este módulo.
+
+- 2027-01-11 · 09:00–14:00 · Australia/Melbourne · LEGO EV3, microdrones programables, sensores y misión autónoma de rescate.
+
+- 2027-01-12 · 09:00–14:00 · Australia/Melbourne · LEGO EV3, microdrones programables, sensores y misión autónoma de rescate.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Condicional por grado escolar. Confirmar equivalencia a Year 1 y plaza.
+
+**Oscar:** Condicional por grado escolar. Confirmar equivalencia a Year 1 y plaza.
+
+[fuente](https://www.trybooking.com/au/event/1660294)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.trybooking.com/au/event/1660294) · 2026-11-07
+
+## CP1682 · STEMBuddy · PC Repair, Networking & Cyber Security
+
+Australia · STEMBuddy · Narre Warren South VIC
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Years 3 en adelante.
+
+**Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar.
+
+**Programa:** Montaje de PC, Ethernet, diagnóstico y ejercicio Capture The Flag.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Las fechas de la descripción y de la inscripción difieren. Este módulo requiere confirmar el horario.
+
+**Precio / año:** 2027 · La página muestra AUD 250–375 para distintas opciones. Confirmar tarifa de este módulo.
+
+**Incluido:** Montaje de PC, Ethernet, diagnóstico y ejercicio Capture The Flag.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Condicional por grado escolar. Confirmar equivalencia a Year 3 y plaza.
+
+**Oscar:** Más adelante. El módulo está dirigido a Year 3 en adelante.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+- Las fechas de la descripción y de la inscripción difieren. Este módulo requiere confirmar el horario.
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.trybooking.com/au/event/1660294) · 2026-11-07
+
+## CP1683 · STEMBuddy · Artificial Intelligence & Machine Learning
+
+Australia · STEMBuddy · Narre Warren South VIC
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Years 3 en adelante.
+
+**Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar.
+
+**Programa:** Visión artificial, Python, OpenCV y MediaPipe. Programación de control por gestos.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Las fechas de la descripción y de la inscripción difieren. Este módulo requiere confirmar el horario.
+
+**Precio / año:** 2027 · La página muestra AUD 250–375 para distintas opciones. Confirmar tarifa de este módulo.
+
+**Incluido:** Visión artificial, Python, OpenCV y MediaPipe. Programación de control por gestos.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Condicional por grado escolar. Confirmar equivalencia a Year 3 y plaza.
+
+**Oscar:** Más adelante. El módulo está dirigido a Year 3 en adelante.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+- Las fechas de la descripción y de la inscripción difieren. Este módulo requiere confirmar el horario.
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.trybooking.com/au/event/1660294) · 2026-11-07
+
+## CP1684 · STEMBuddy · Applied Electronics & Circuit Prototyping
+
+Australia · STEMBuddy · Narre Warren South VIC
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Years 5–10.
+
+**Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar.
+
+**Programa:** Microcontroladores, multímetros, actuadores y soldadura supervisada.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Las fechas de la descripción y de la inscripción difieren. Este módulo requiere confirmar el horario.
+
+**Precio / año:** 2027 · La página muestra AUD 250–375 para distintas opciones. Confirmar tarifa de este módulo.
+
+**Incluido:** Microcontroladores, multímetros, actuadores y soldadura supervisada.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Más adelante. El módulo está dirigido a Years 5–10.
+
+**Oscar:** Más adelante. El módulo está dirigido a Years 5–10.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+- Las fechas de la descripción y de la inscripción difieren. Este módulo requiere confirmar el horario.
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.trybooking.com/au/event/1660294) · 2026-11-07
+
+## CP1685 · Kids Up Front · Sydney
+
+Australia · Sydney
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 5–13 años. Grupos de edad separados.
+
+**Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar.
+
+**Programa:** Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 5 días, 09:00–15:00. Cuidado extendido incluido. Confirmar horario exacto de cuidado y plazas por edad.
+
+**Precio / año:** 2027 · AUD 480–495 por 5 días. La tarifa exacta figura en cada sede.
+
+**Incluido:** 5 días, 09:00–15:00. Cuidado extendido incluido. Confirmar horario exacto de cuidado y plazas por edad.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Confirmar plaza en el grupo de 5–6 o 7 años según cumpleaños.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Elf Alone
+
+**Fechas / estado:** 2027-01-04 — 2027-01-08
+
+**lugar:** Castle Cove Public School · Sydney
+
+**edad:** 5–13 años. Grupos de edad separados.
+
+**Precio:** AUD 495 por niño por 5 días.
+
+- 2027-01-04 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-05 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-06 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-07 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-08 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Confirmar plaza en el grupo de 5–6 o 7 años según cumpleaños.
+
+[fuente](https://www.kidsupfront.com.au/page/holiday-camps)
+
+### Elf Alone
+
+**Fechas / estado:** 2027-01-11 — 2027-01-15
+
+**lugar:** Castle Cove Public School · Sydney
+
+**edad:** 5–13 años. Grupos de edad separados.
+
+**Precio:** AUD 495 por niño por 5 días.
+
+- 2027-01-11 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-12 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-13 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-14 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-15 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+**Disponibilidad de plazas:** La organización marca el turno como completo. Hay lista de espera.
+
+**Matvey:** Al verificar, el grupo tiene lista de espera publicada.
+
+**Oscar:** Al verificar, el grupo tiene lista de espera publicada.
+
+[fuente](https://www.kidsupfront.com.au/page/holiday-camps)
+
+### Wonderland
+
+**Fechas / estado:** 2027-01-11 — 2027-01-15
+
+**lugar:** Denistone East Public School · Sydney
+
+**edad:** 5–13 años. Grupos de edad separados.
+
+**Precio:** AUD 495 por niño por 5 días.
+
+- 2027-01-11 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-12 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-13 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-14 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-15 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Confirmar plaza en el grupo de 5–6 o 7 años según cumpleaños.
+
+[fuente](https://www.kidsupfront.com.au/page/holiday-camps)
+
+### Elf Alone
+
+**Fechas / estado:** 2027-01-18 — 2027-01-22
+
+**lugar:** Epping North Public School · Sydney
+
+**edad:** 5–13 años. Grupos de edad separados.
+
+**Precio:** AUD 495 por niño por 5 días.
+
+- 2027-01-18 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-19 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-20 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-21 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-22 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Confirmar plaza en el grupo de 5–6 o 7 años según cumpleaños.
+
+[fuente](https://www.kidsupfront.com.au/page/holiday-camps)
+
+### Wonderland
+
+**Fechas / estado:** 2027-01-04 — 2027-01-08
+
+**lugar:** Marrickville Public School · Sydney
+
+**edad:** 5–13 años. Grupos de edad separados.
+
+**Precio:** AUD 480 por niño por 5 días.
+
+- 2027-01-04 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-05 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-06 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-07 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-08 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Confirmar plaza en el grupo de 5–6 o 7 años según cumpleaños.
+
+[fuente](https://www.kidsupfront.com.au/page/holiday-camps)
+
+### Wonderland
+
+**Fechas / estado:** 2027-01-18 — 2027-01-22
+
+**lugar:** Marrickville Public School · Sydney
+
+**edad:** 5–13 años. Grupos de edad separados.
+
+**Precio:** AUD 480 por niño por 5 días.
+
+- 2027-01-18 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-19 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-20 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-21 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-22 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Confirmar plaza en el grupo de 5–6 o 7 años según cumpleaños.
+
+[fuente](https://www.kidsupfront.com.au/page/holiday-camps)
+
+### Wonderland
+
+**Fechas / estado:** 2027-01-18 — 2027-01-22
+
+**lugar:** Pymble Public School · Sydney
+
+**edad:** 5–13 años. Grupos de edad separados.
+
+**Precio:** AUD 495 por niño por 5 días.
+
+- 2027-01-18 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-19 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-20 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-21 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-22 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Al verificar, el grupo tiene lista de espera publicada.
+
+**Oscar:** Confirmar plaza en el grupo de 5–6 o 7 años según cumpleaños.
+
+[fuente](https://www.kidsupfront.com.au/page/holiday-camps)
+
+### Wonderland
+
+**Fechas / estado:** 2027-01-11 — 2027-01-15
+
+**lugar:** Shore School · North Sydney · Sydney
+
+**edad:** 5–13 años. Grupos de edad separados.
+
+**Precio:** AUD 495 por niño por 5 días.
+
+- 2027-01-11 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-12 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-13 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-14 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-15 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Al verificar, el grupo tiene lista de espera publicada.
+
+**Oscar:** Confirmar plaza en el grupo de 5–6 o 7 años según cumpleaños.
+
+[fuente](https://www.kidsupfront.com.au/page/holiday-camps)
+
+### Wonderland
+
+**Fechas / estado:** 2027-01-04 — 2027-01-08
+
+**lugar:** Stella Maris College · Manly · Sydney
+
+**edad:** 5–13 años. Grupos de edad separados.
+
+**Precio:** AUD 495 por niño por 5 días.
+
+- 2027-01-04 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-05 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-06 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-07 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-08 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Confirmar plaza en el grupo de 5–6 o 7 años según cumpleaños.
+
+[fuente](https://www.kidsupfront.com.au/page/holiday-camps)
+
+### Wonderland
+
+**Fechas / estado:** 2027-01-11 — 2027-01-15
+
+**lugar:** Stella Maris College · Manly · Sydney
+
+**edad:** 5–13 años. Grupos de edad separados.
+
+**Precio:** AUD 495 por niño por 5 días.
+
+- 2027-01-11 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-12 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-13 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-14 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-15 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Al verificar, el grupo tiene lista de espera publicada.
+
+**Oscar:** Al verificar, el grupo tiene lista de espera publicada.
+
+[fuente](https://www.kidsupfront.com.au/page/holiday-camps)
+
+### Wonderland
+
+**Fechas / estado:** 2027-01-18 — 2027-01-22
+
+**lugar:** Stella Maris College · Manly · Sydney
+
+**edad:** 5–13 años. Grupos de edad separados.
+
+**Precio:** AUD 495 por niño por 5 días.
+
+- 2027-01-18 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-19 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-20 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-21 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-22 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Al verificar, el grupo tiene lista de espera publicada.
+
+[fuente](https://www.kidsupfront.com.au/page/holiday-camps)
+
+### Wonderland
+
+**Fechas / estado:** 2027-01-11 — 2027-01-15
+
+**lugar:** Strathfield North Public School · Sydney
+
+**edad:** 5–13 años. Grupos de edad separados.
+
+**Precio:** AUD 495 por niño por 5 días.
+
+- 2027-01-11 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-12 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-13 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-14 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-15 · 09:00–15:00 · Australia/Sydney · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Confirmar plaza en el grupo de 5–6 o 7 años según cumpleaños.
+
+[fuente](https://www.kidsupfront.com.au/page/holiday-camps)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.kidsupfront.com.au/page/holiday-camps) · 2026-11-07
+
+- [Página oficial del organizador](https://www.kidsupfront.com.au/page/future-camp-dates) · 2026-11-07
+
+## CP1686 · Kids Up Front · Melbourne
+
+Australia · Melbourne
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 5–13 años. Grupos de edad separados.
+
+**Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar.
+
+**Programa:** Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 5 días, 09:00–15:00. Cuidado extendido incluido. Confirmar horario exacto de cuidado y plazas por edad.
+
+**Precio / año:** 2027 · AUD 495 por niño por 5 días.
+
+**Incluido:** 5 días, 09:00–15:00. Cuidado extendido incluido. Confirmar horario exacto de cuidado y plazas por edad.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Confirmar plaza en el grupo de 5–6 o 7 años según cumpleaños.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Wonderland
+
+**Fechas / estado:** 2027-01-04 — 2027-01-08
+
+**lugar:** Northcote La escuela secundaria · Melbourne
+
+**edad:** 5–13 años. Grupos de edad separados.
+
+**Precio:** AUD 495 por niño por 5 días.
+
+- 2027-01-04 · 09:00–15:00 · Australia/Melbourne · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-05 · 09:00–15:00 · Australia/Melbourne · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-06 · 09:00–15:00 · Australia/Melbourne · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-07 · 09:00–15:00 · Australia/Melbourne · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-08 · 09:00–15:00 · Australia/Melbourne · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Confirmar plaza en el grupo de 5–6 o 7 años según cumpleaños.
+
+[fuente](https://www.kidsupfront.com.au/page/holiday-camps)
+
+### Wonderland
+
+**Fechas / estado:** 2027-01-11 — 2027-01-15
+
+**lugar:** Northcote La escuela secundaria · Melbourne
+
+**edad:** 5–13 años. Grupos de edad separados.
+
+**Precio:** AUD 495 por niño por 5 días.
+
+- 2027-01-11 · 09:00–15:00 · Australia/Melbourne · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-12 · 09:00–15:00 · Australia/Melbourne · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-13 · 09:00–15:00 · Australia/Melbourne · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-14 · 09:00–15:00 · Australia/Melbourne · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-15 · 09:00–15:00 · Australia/Melbourne · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Al verificar, el grupo tiene lista de espera publicada.
+
+**Oscar:** Confirmar plaza en el grupo de 5–6 o 7 años según cumpleaños.
+
+[fuente](https://www.kidsupfront.com.au/page/holiday-camps)
+
+### Wonderland
+
+**Fechas / estado:** 2027-01-18 — 2027-01-22
+
+**lugar:** Northcote La escuela secundaria · Melbourne
+
+**edad:** 5–13 años. Grupos de edad separados.
+
+**Precio:** AUD 495 por niño por 5 días.
+
+- 2027-01-18 · 09:00–15:00 · Australia/Melbourne · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-19 · 09:00–15:00 · Australia/Melbourne · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-20 · 09:00–15:00 · Australia/Melbourne · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-21 · 09:00–15:00 · Australia/Melbourne · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-22 · 09:00–15:00 · Australia/Melbourne · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Al verificar, el grupo tiene lista de espera publicada.
+
+**Oscar:** Al verificar, el grupo tiene lista de espera publicada.
+
+[fuente](https://www.kidsupfront.com.au/page/holiday-camps)
+
+### Wonderland
+
+**Fechas / estado:** 2027-01-18 — 2027-01-22
+
+**lugar:** Eltham College · Research VIC · Melbourne
+
+**edad:** 5–13 años. Grupos de edad separados.
+
+**Precio:** AUD 495 por niño por 5 días.
+
+- 2027-01-18 · 09:00–15:00 · Australia/Melbourne · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-19 · 09:00–15:00 · Australia/Melbourne · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-20 · 09:00–15:00 · Australia/Melbourne · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-21 · 09:00–15:00 · Australia/Melbourne · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+- 2027-01-22 · 09:00–15:00 · Australia/Melbourne · Programa diurno de teatro, danza y canto con función final para la familia el último día.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Confirmar plaza en el grupo de 5–6 o 7 años según cumpleaños.
+
+[fuente](https://www.kidsupfront.com.au/page/holiday-camps)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.kidsupfront.com.au/page/holiday-camps) · 2026-11-07
+
+- [Página oficial del organizador](https://www.kidsupfront.com.au/page/future-camp-dates) · 2026-11-07
 
 ## ~ Comprobaciones no cerradas
 

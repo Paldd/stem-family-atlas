@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 7634,
-    "competition_cards": 3190,
-    "event_cards": 335,
-    "camp_cards": 4109,
+    "cards": 7672,
+    "competition_cards": 3196,
+    "event_cards": 348,
+    "camp_cards": 4128,
     "league_profiles": 268,
-    "major_exhibition_cards": 247,
+    "major_exhibition_cards": 260,
     "vex_cards": 518,
     "countries_with_records": 158,
     "fully_audited_countries": 0
@@ -104,12 +104,12 @@
       "regions": [
         "Океания"
       ],
-      "total": 240,
+      "total": 278,
       "countries_with_records": 5,
-      "competitions": 119,
-      "events": 7,
-      "major_exhibitions": 3,
-      "camps": 114,
+      "competitions": 125,
+      "events": 20,
+      "major_exhibitions": 16,
+      "camps": 133,
       "status": "Частично исследовано",
       "remaining": "Добавлены Fiji tourist camp, NZ реальные учебные дни, Australian national game/video contests и закрытый школьный архив French Polynesia. Остаются языки / foreign admission лагерей, динамический RCJA calendar, другие острова и локальные турниры."
     }
@@ -9810,6 +9810,149 @@
       "new": false
     },
     {
+      "id": "E336",
+      "name": "Kiwibots VEX IQ Nationals · livestream",
+      "country": "Новая Зеландия",
+      "region": "Океания",
+      "start": "2026-12-12",
+      "end": "2026-12-13",
+      "visitor_policy": "family",
+      "source": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-4916.html",
+      "new": false
+    },
+    {
+      "id": "E337",
+      "name": "FIRST Southern Cross Regional · BIOCORE · public viewing",
+      "country": "Австралия",
+      "region": "Океания",
+      "start": "2027-03-11",
+      "end": "2027-03-14",
+      "visitor_policy": "family",
+      "source": "https://www.firstaustralia.org/first-robotics-competition-biocore",
+      "new": false
+    },
+    {
+      "id": "E338",
+      "name": "Avalon Australian International Airshow 2027 · public",
+      "country": "Австралия",
+      "region": "Океания",
+      "start": "2027-02-26",
+      "end": "2027-02-28",
+      "visitor_policy": "family",
+      "source": "https://airshow.com.au/attend/plan-your-visit/tickets/",
+      "new": false
+    },
+    {
+      "id": "E339",
+      "name": "Avalon Australian International Airshow 2027 · trade days",
+      "country": "Австралия",
+      "region": "Океания",
+      "start": "2027-02-23",
+      "end": "2027-02-26",
+      "visitor_policy": "adults_only",
+      "source": "https://airshow.com.au/trade/trade-days/registration/",
+      "new": false
+    },
+    {
+      "id": "E340",
+      "name": "Armageddon Expo 2027 · Wellington",
+      "country": "Новая Зеландия",
+      "region": "Океания",
+      "start": "2027-03-26",
+      "end": "2027-03-28",
+      "visitor_policy": "family",
+      "source": "https://www.armageddonexpo.com/general-info/wellington/",
+      "new": false
+    },
+    {
+      "id": "E341",
+      "name": "Armageddon Expo 2027 · Christchurch Autumn",
+      "country": "Новая Зеландия",
+      "region": "Океания",
+      "start": "2027-04-10",
+      "end": "2027-04-11",
+      "visitor_policy": "family",
+      "source": "https://www.armageddonexpo.com/general-info/christchurch/",
+      "new": false
+    },
+    {
+      "id": "E342",
+      "name": "Armageddon Expo 2027 · Auckland Winter",
+      "country": "Новая Зеландия",
+      "region": "Океания",
+      "start": "2027-06-05",
+      "end": "2027-06-07",
+      "visitor_policy": "family",
+      "source": "https://www.armageddonexpo.com/",
+      "new": false
+    },
+    {
+      "id": "E343",
+      "name": "Armageddon Expo 2027 · Palmerston North",
+      "country": "Новая Зеландия",
+      "region": "Океания",
+      "start": "2027-08-07",
+      "end": "2027-08-08",
+      "visitor_policy": "family",
+      "source": "https://www.armageddonexpo.com/general-info/palmerston-north-armageddon-expo/",
+      "new": false
+    },
+    {
+      "id": "E344",
+      "name": "Armageddon Expo 2027 · Auckland Spring",
+      "country": "Новая Зеландия",
+      "region": "Океания",
+      "start": "2027-10-22",
+      "end": "2027-10-25",
+      "visitor_policy": "family",
+      "source": "https://www.armageddonexpo.com/",
+      "new": false
+    },
+    {
+      "id": "E345",
+      "name": "Armageddon Expo 2027 · Christchurch Spring",
+      "country": "Новая Зеландия",
+      "region": "Океания",
+      "start": "2027-11-27",
+      "end": "2027-11-28",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.armageddonexpo.com/exhibitors/book-stands/select/",
+      "new": false
+    },
+    {
+      "id": "E346",
+      "name": "New Zealand International Science Festival 2027",
+      "country": "Новая Зеландия",
+      "region": "Океания",
+      "start": "2027-07-09",
+      "end": "2027-07-18",
+      "visitor_policy": "family",
+      "source": "https://scifest.org.nz/",
+      "new": false
+    },
+    {
+      "id": "E347",
+      "name": "Play Con Australia 2027 · tabletop games",
+      "country": "Австралия",
+      "region": "Океания",
+      "start": "2027-07-02",
+      "end": "2027-07-04",
+      "visitor_policy": "family",
+      "source": "https://play-con.com/faq/",
+      "new": false
+    },
+    {
+      "id": "E348",
+      "name": "PAX Aus · 2027",
+      "country": "Австралия",
+      "region": "Океания",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://aus.paxsite.com/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -12227,8 +12370,8 @@
       }
     ],
     "counts": {
-      "records": 4109,
-      "holiday": 3835,
+      "records": 4128,
+      "holiday": 3854,
       "regular": 120,
       "self_paced_materials": 2,
       "boarding": 1026,

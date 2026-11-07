@@ -53316,7 +53316,7 @@ Precio: 2027 · NZD 66 · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Traer lunch, snack, agua, calzado cerrado y ropa para manualidades. Pago: Ficha 2027: aviso de 7 días para devolución; cartel indica más de 7 días, con menos de 7 sin devolución salvo circunstancias acordadas / plaza cubierta desde waitlist. Confirmar límite de exactamente 7 días. Cancelación del organizador: devolución total. Terms generales antiguos 2025 indican NZD 60/día, curso elegido y cartel 2027 NZD 66. Recogida tardía NZD 10/15 minutos. OSCAR es subsidio, no nombre del niño ni descuento automático para familia extranjera.
 Fuente: https://enrolmy.com/steam-ed/activity/194-January_2027_Holidays
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-07
 
 ### CP1265-20270119-20270119-day-4 · STEAM-ED Tauranga · VEX Freestyle / Emergency Vehicles · Emergency Vehicles · 2027-01-19–2027-01-19
 
@@ -53332,7 +53332,7 @@ Precio: 2027 · NZD 66 · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Traer lunch, snack, agua, calzado cerrado y ropa para manualidades. Pago: Ficha 2027: aviso de 7 días para devolución; cartel indica más de 7 días, con menos de 7 sin devolución salvo circunstancias acordadas / plaza cubierta desde waitlist. Confirmar límite de exactamente 7 días. Cancelación del organizador: devolución total. Terms generales antiguos 2025 indican NZD 60/día, curso elegido y cartel 2027 NZD 66. Recogida tardía NZD 10/15 minutos. OSCAR es subsidio, no nombre del niño ni descuento automático para familia extranjera.
 Fuente: https://enrolmy.com/steam-ed/activity/194-January_2027_Holidays
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-07
 
 ### CP1265-20270129-20270129-day-12 · STEAM-ED Tauranga · VEX Freestyle / Emergency Vehicles · Freestyle Robotics · 2027-01-29–2027-01-29
 
@@ -53348,7 +53348,7 @@ Precio: 2027 · NZD 66 · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Traer lunch, snack, agua, calzado cerrado y ropa para manualidades. Pago: Ficha 2027: aviso de 7 días para devolución; cartel indica más de 7 días, con menos de 7 sin devolución salvo circunstancias acordadas / plaza cubierta desde waitlist. Confirmar límite de exactamente 7 días. Cancelación del organizador: devolución total. Terms generales antiguos 2025 indican NZD 60/día, curso elegido y cartel 2027 NZD 66. Recogida tardía NZD 10/15 minutos. OSCAR es subsidio, no nombre del niño ni descuento automático para familia extranjera.
 Fuente: https://enrolmy.com/steam-ed/activity/194-January_2027_Holidays
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-07
 
 ### CP1266-20270115-20270115-day-2 · STEAM-ED Tauranga · Arts / Science / Engineering · Polymer Clay Creations · 2027-01-15–2027-01-15
 
@@ -53364,7 +53364,7 @@ Precio: 2027 · NZD 66 · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Traer lunch, snack, agua, calzado cerrado y ropa para manualidades. Pago: Ficha 2027: aviso de 7 días para devolución; cartel indica más de 7 días, con menos de 7 sin devolución salvo circunstancias acordadas / plaza cubierta desde waitlist. Confirmar límite de exactamente 7 días. Cancelación del organizador: devolución total. Terms generales antiguos 2025 indican NZD 60/día, curso elegido y cartel 2027 NZD 66. Recogida tardía NZD 10/15 minutos. OSCAR es subsidio, no nombre del niño ni descuento automático para familia extranjera.
 Fuente: https://enrolmy.com/steam-ed/activity/194-January_2027_Holidays
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-07
 
 ### CP1266-20270118-20270118-day-3 · STEAM-ED Tauranga · Arts / Science / Engineering · ABCs of Bees · 2027-01-18–2027-01-18
 
@@ -53380,7 +53380,7 @@ Precio: 2027 · NZD 66 · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Traer lunch, snack, agua, calzado cerrado y ropa para manualidades. Pago: Ficha 2027: aviso de 7 días para devolución; cartel indica más de 7 días, con menos de 7 sin devolución salvo circunstancias acordadas / plaza cubierta desde waitlist. Confirmar límite de exactamente 7 días. Cancelación del organizador: devolución total. Terms generales antiguos 2025 indican NZD 60/día, curso elegido y cartel 2027 NZD 66. Recogida tardía NZD 10/15 minutos. OSCAR es subsidio, no nombre del niño ni descuento automático para familia extranjera.
 Fuente: https://enrolmy.com/steam-ed/activity/194-January_2027_Holidays
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-07
 
 ### CP1266-20270120-20270120-day-5 · STEAM-ED Tauranga · Arts / Science / Engineering · Design a Playground · 2027-01-20–2027-01-20
 
@@ -53396,7 +53396,7 @@ Precio: 2027 · NZD 66 · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Traer lunch, snack, agua, calzado cerrado y ropa para manualidades. Pago: Ficha 2027: aviso de 7 días para devolución; cartel indica más de 7 días, con menos de 7 sin devolución salvo circunstancias acordadas / plaza cubierta desde waitlist. Confirmar límite de exactamente 7 días. Cancelación del organizador: devolución total. Terms generales antiguos 2025 indican NZD 60/día, curso elegido y cartel 2027 NZD 66. Recogida tardía NZD 10/15 minutos. OSCAR es subsidio, no nombre del niño ni descuento automático para familia extranjera.
 Fuente: https://enrolmy.com/steam-ed/activity/194-January_2027_Holidays
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-07
 
 ### CP1266-20270125-20270125-day-8 · STEAM-ED Tauranga · Arts / Science / Engineering · Mark Rober Crunchlab · 2027-01-25–2027-01-25
 
@@ -53412,7 +53412,7 @@ Precio: 2027 · NZD 66 · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Traer lunch, snack, agua, calzado cerrado y ropa para manualidades. Pago: Ficha 2027: aviso de 7 días para devolución; cartel indica más de 7 días, con menos de 7 sin devolución salvo circunstancias acordadas / plaza cubierta desde waitlist. Confirmar límite de exactamente 7 días. Cancelación del organizador: devolución total. Terms generales antiguos 2025 indican NZD 60/día, curso elegido y cartel 2027 NZD 66. Recogida tardía NZD 10/15 minutos. OSCAR es subsidio, no nombre del niño ni descuento automático para familia extranjera.
 Fuente: https://enrolmy.com/steam-ed/activity/194-January_2027_Holidays
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-07
 
 ### CP1266-20270127-20270127-day-10 · STEAM-ED Tauranga · Arts / Science / Engineering · Build a Tiny House · 2027-01-27–2027-01-27
 
@@ -53428,7 +53428,7 @@ Precio: 2027 · NZD 66 · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Traer lunch, snack, agua, calzado cerrado y ropa para manualidades. Pago: Ficha 2027: aviso de 7 días para devolución; cartel indica más de 7 días, con menos de 7 sin devolución salvo circunstancias acordadas / plaza cubierta desde waitlist. Confirmar límite de exactamente 7 días. Cancelación del organizador: devolución total. Terms generales antiguos 2025 indican NZD 60/día, curso elegido y cartel 2027 NZD 66. Recogida tardía NZD 10/15 minutos. OSCAR es subsidio, no nombre del niño ni descuento automático para familia extranjera.
 Fuente: https://enrolmy.com/steam-ed/activity/194-January_2027_Holidays
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-07
 
 ### CP1266-20270128-20270128-day-11 · STEAM-ED Tauranga · Arts / Science / Engineering · Pasifika STEAM · 2027-01-28–2027-01-28
 
@@ -53444,7 +53444,7 @@ Precio: 2027 · NZD 66 · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Traer lunch, snack, agua, calzado cerrado y ropa para manualidades. Pago: Ficha 2027: aviso de 7 días para devolución; cartel indica más de 7 días, con menos de 7 sin devolución salvo circunstancias acordadas / plaza cubierta desde waitlist. Confirmar límite de exactamente 7 días. Cancelación del organizador: devolución total. Terms generales antiguos 2025 indican NZD 60/día, curso elegido y cartel 2027 NZD 66. Recogida tardía NZD 10/15 minutos. OSCAR es subsidio, no nombre del niño ni descuento automático para familia extranjera.
 Fuente: https://enrolmy.com/steam-ed/activity/194-January_2027_Holidays
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-07
 
 ### CP1267-20270121-20270121-day-6 · STEAM-ED Tauranga · Music & Dancing Robots · Create Music & Dancing Robots · 2027-01-21–2027-01-21
 
@@ -53460,7 +53460,7 @@ Precio: 2027 · NZD 66 · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Traer lunch, snack, agua, calzado cerrado y ropa para manualidades. Pago: Ficha 2027: aviso de 7 días para devolución; cartel indica más de 7 días, con menos de 7 sin devolución salvo circunstancias acordadas / plaza cubierta desde waitlist. Confirmar límite de exactamente 7 días. Cancelación del organizador: devolución total. Terms generales antiguos 2025 indican NZD 60/día, curso elegido y cartel 2027 NZD 66. Recogida tardía NZD 10/15 minutos. OSCAR es subsidio, no nombre del niño ni descuento automático para familia extranjera.
 Fuente: https://enrolmy.com/steam-ed/activity/194-January_2027_Holidays
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-07
 
 ### CP1268-20270126-20270126-day-9 · STEAM-ED Tauranga · Combat Robotics · Combat Robotics · 2027-01-26–2027-01-26
 
@@ -53476,7 +53476,7 @@ Precio: 2027 · NZD 66 · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Traer lunch, snack, agua, calzado cerrado y ropa para manualidades. Pago: Ficha 2027: aviso de 7 días para devolución; cartel indica más de 7 días, con menos de 7 sin devolución salvo circunstancias acordadas / plaza cubierta desde waitlist. Confirmar límite de exactamente 7 días. Cancelación del organizador: devolución total. Terms generales antiguos 2025 indican NZD 60/día, curso elegido y cartel 2027 NZD 66. Recogida tardía NZD 10/15 minutos. OSCAR es subsidio, no nombre del niño ni descuento automático para familia extranjera.
 Fuente: https://enrolmy.com/steam-ed/activity/194-January_2027_Holidays
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-07
 
 ### CP1269-20270122-20270122-day-7 · STEAM-ED Tauranga · Minecraft Education · Minecraft Mania · 2027-01-22–2027-01-22
 
@@ -53492,7 +53492,7 @@ Precio: 2027 · NZD 66 · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Traer lunch, snack, agua, calzado cerrado y ropa para manualidades. Pago: Ficha 2027: aviso de 7 días para devolución; cartel indica más de 7 días, con menos de 7 sin devolución salvo circunstancias acordadas / plaza cubierta desde waitlist. Confirmar límite de exactamente 7 días. Cancelación del organizador: devolución total. Terms generales antiguos 2025 indican NZD 60/día, curso elegido y cartel 2027 NZD 66. Recogida tardía NZD 10/15 minutos. OSCAR es subsidio, no nombre del niño ni descuento automático para familia extranjera.
 Fuente: https://enrolmy.com/steam-ed/activity/194-January_2027_Holidays
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-07
 
 ### CP1276-20270103-20270108-summer · Tōtara Springs · Summer Family Camp B · Summer Family Camp B · 2027-01-03–2027-01-08
 
@@ -64532,6 +64532,310 @@ Precio: 2027 · KRW 600000 por semana. 2 semanas a tarifa semanal suman KRW 1200
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Condicional si ya ha cumplido 7 años al comenzar el taller. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://doodlishcamp.com/
+Se ha comprobado: 2026-11-07
+
+### CP1679-20270119-20270119 · Waverley Library · Robotics and Coding Workshop · Robotics and Coding Workshop · 2027-01-19–2027-01-19
+
+lugar: Australia · Waverley Library · 32–48 Denison St · Bondi Junction NSW
+Fecha: 2027-01-19 — 2027-01-19
+Edad: 8 a 12 años
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 0 por General Admission. Inscripción previa obligatoria. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: No por ahora. Mínimo 8 años en el programa elegido. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://events.humanitix.com/robotics-and-coding-workshop-8-12-years-waverley-library
+Se ha comprobado: 2026-11-07
+
+### CP1680-20270113-20270115 · Aicode Australia · 3D Modelling & Robotics · 3D Modelling & Robotics · 2027-01-13–2027-01-15
+
+lugar: Australia · Aicode Australia · Ground Floor · 3–5 Bennett St · East Perth
+Fecha: 2027-01-13 — 2027-01-15
+edad: 8–12 años y Years 3–6
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 465 por 3 días, con materiales y comisión de Eventbrite incluidos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional por grado escolar. Confirmar equivalencia a Year 3 y plaza. Oscar: No por ahora. Mínimo 8 años en el programa elegido. Suplementos: Llevar portátil, agua, refrigerio y almuerzo sin frutos secos. Pago: Si cancela la organización, reembolso total. Si cancela la familia con al menos 14 días, se retiene 1.8% de comisión. Para plazos de 7 días y 3 días se publican retenciones del 20% y 50%. Confirmar plazos intermedios.
+Fuente: https://www.eventbrite.com.au/e/3d-modelling-robotics-3-day-jan-holiday-program-y3-y6-tickets-1999334329801
+Se ha comprobado: 2026-11-07
+
+### CP1681-20270111-20270112 · STEMBuddy · EV3 Robotics & Autonomous Drones · EV3 Robotics & Autonomous Drones · 2027-01-11–2027-01-12
+
+lugar: Australia · STEMBuddy · Narre Warren South VIC
+Fecha: 2027-01-11 — 2027-01-12
+edad: Years 1–8, admisión por grado escolar.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · La página muestra AUD 250–375 para distintas opciones. Confirmar tarifa de este módulo. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional por grado escolar. Confirmar equivalencia a Year 1 y plaza. Oscar: Condicional por grado escolar. Confirmar equivalencia a Year 1 y plaza. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.trybooking.com/au/event/1660294
+Se ha comprobado: 2026-11-07
+
+### CP1685-20270104-20270108-castle-cove-1 · Kids Up Front · Sydney · Elf Alone · 2027-01-04–2027-01-08
+
+lugar: Australia · Castle Cove Public School · Sydney
+Fecha: 2027-01-04 — 2027-01-08
+edad: 5–13 años. Grupos de edad separados.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 495 por niño por 5 días. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Confirmar plaza en el grupo de 5–6 o 7 años según cumpleaños. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.kidsupfront.com.au/page/holiday-camps
+Se ha comprobado: 2026-11-07
+
+### CP1685-20270111-20270115-castle-cove-2 · Kids Up Front · Sydney · Elf Alone · 2027-01-11–2027-01-15
+
+lugar: Australia · Castle Cove Public School · Sydney
+Fecha: 2027-01-11 — 2027-01-15
+edad: 5–13 años. Grupos de edad separados.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 495 por niño por 5 días. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Al verificar, el grupo tiene lista de espera publicada. Oscar: Al verificar, el grupo tiene lista de espera publicada. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.kidsupfront.com.au/page/holiday-camps
+Se ha comprobado: 2026-11-07
+
+### CP1685-20270111-20270115-denistone-east-2 · Kids Up Front · Sydney · Wonderland · 2027-01-11–2027-01-15
+
+lugar: Australia · Denistone East Public School · Sydney
+Fecha: 2027-01-11 — 2027-01-15
+edad: 5–13 años. Grupos de edad separados.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 495 por niño por 5 días. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Confirmar plaza en el grupo de 5–6 o 7 años según cumpleaños. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.kidsupfront.com.au/page/holiday-camps
+Se ha comprobado: 2026-11-07
+
+### CP1685-20270118-20270122-epping-north-3 · Kids Up Front · Sydney · Elf Alone · 2027-01-18–2027-01-22
+
+lugar: Australia · Epping North Public School · Sydney
+Fecha: 2027-01-18 国 2027-01-22
+edad: 5–13 años. Grupos de edad separados.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 495 por niño por 5 días. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Confirmar plaza en el grupo de 5–6 o 7 años según cumpleaños. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.kidsupfront.com.au/page/holiday-camps
+Se ha comprobado: 2026-11-07
+
+### CP1685-20270104-20270108-marrickville-1 · Kids Up Front · Sydney · Wonderland · 2027-01-04–2027-01-08
+
+lugar: Australia · Marrickville Public School · Sydney
+Fecha: 2027-01-04 — 2027-01-08
+edad: 5–13 años. Grupos de edad separados.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 480 por niño por 5 días. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Confirmar plaza en el grupo de 5–6 o 7 años según cumpleaños. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.kidsupfront.com.au/page/holiday-camps
+Se ha comprobado: 2026-11-07
+
+### CP1685-20270118-20270122-marrickville-3 · Kids Up Front · Sydney · Wonderland · 2027-01-18–2027-01-22
+
+lugar: Australia · Marrickville Public School · Sydney
+Fecha: 2027-01-18 国 2027-01-22
+edad: 5–13 años. Grupos de edad separados.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 480 por niño por 5 días. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Confirmar plaza en el grupo de 5–6 o 7 años según cumpleaños. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.kidsupfront.com.au/page/holiday-camps
+Se ha comprobado: 2026-11-07
+
+### CP1685-20270118-20270122-pymble-3 · Kids Up Front · Sydney · Wonderland · 2027-01-18–2027-01-22
+
+lugar: Australia · Pymble Public School · Sydney
+Fecha: 2027-01-18 国 2027-01-22
+edad: 5–13 años. Grupos de edad separados.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 495 por niño por 5 días. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Al verificar, el grupo tiene lista de espera publicada. Oscar: Confirmar plaza en el grupo de 5–6 o 7 años según cumpleaños. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.kidsupfront.com.au/page/holiday-camps
+Se ha comprobado: 2026-11-07
+
+### CP1685-20270111-20270115-shore-2 · Kids Up Front · Sydney · Wonderland · 2027-01-11–2027-01-15
+
+lugar: Australia · Shore School · North Sydney · Sydney
+Fecha: 2027-01-11 — 2027-01-15
+edad: 5–13 años. Grupos de edad separados.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 495 por niño por 5 días. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Al verificar, el grupo tiene lista de espera publicada. Oscar: Confirmar plaza en el grupo de 5–6 o 7 años según cumpleaños. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.kidsupfront.com.au/page/holiday-camps
+Se ha comprobado: 2026-11-07
+
+### CP1685-20270104-20270108-stella-maris-1 · Kids Up Front · Sydney · Wonderland · 2027-01-04–2027-01-08
+
+lugar: Australia · Stella Maris College · Manly · Sydney
+Fecha: 2027-01-04 — 2027-01-08
+edad: 5–13 años. Grupos de edad separados.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 495 por niño por 5 días. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Confirmar plaza en el grupo de 5–6 o 7 años según cumpleaños. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.kidsupfront.com.au/page/holiday-camps
+Se ha comprobado: 2026-11-07
+
+### CP1685-20270111-20270115-stella-maris-2 · Kids Up Front · Sydney · Wonderland · 2027-01-11–2027-01-15
+
+lugar: Australia · Stella Maris College · Manly · Sydney
+Fecha: 2027-01-11 — 2027-01-15
+edad: 5–13 años. Grupos de edad separados.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 495 por niño por 5 días. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Al verificar, el grupo tiene lista de espera publicada. Oscar: Al verificar, el grupo tiene lista de espera publicada. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.kidsupfront.com.au/page/holiday-camps
+Se ha comprobado: 2026-11-07
+
+### CP1685-20270118-20270122-stella-maris-3 · Kids Up Front · Sydney · Wonderland · 2027-01-18–2027-01-22
+
+lugar: Australia · Stella Maris College · Manly · Sydney
+Fecha: 2027-01-18 国 2027-01-22
+edad: 5–13 años. Grupos de edad separados.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 495 por niño por 5 días. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Al verificar, el grupo tiene lista de espera publicada. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.kidsupfront.com.au/page/holiday-camps
+Se ha comprobado: 2026-11-07
+
+### CP1685-20270111-20270115-strathfield-north-2 · Kids Up Front · Sydney · Wonderland · 2027-01-11–2027-01-15
+
+lugar: Australia · Strathfield North Public School · Sydney
+Fecha: 2027-01-11 — 2027-01-15
+edad: 5–13 años. Grupos de edad separados.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 495 por niño por 5 días. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Confirmar plaza en el grupo de 5–6 o 7 años según cumpleaños. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.kidsupfront.com.au/page/holiday-camps
+Se ha comprobado: 2026-11-07
+
+### CP1686-20270104-20270108-northcote-1 · Kids Up Front · Melbourne · Wonderland · 2027-01-04–2027-01-08
+
+lugar: Australia · Northcote La escuela secundaria · Melbourne
+Fecha: 2027-01-04 — 2027-01-08
+edad: 5–13 años. Grupos de edad separados.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 495 por niño por 5 días. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Confirmar plaza en el grupo de 5–6 o 7 años según cumpleaños. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.kidsupfront.com.au/page/holiday-camps
+Se ha comprobado: 2026-11-07
+
+### CP1686-20270111-20270115-northcote-2 · Kids Up Front · Melbourne · Wonderland · 2027-01-11–2027-01-15
+
+lugar: Australia · Northcote La escuela secundaria · Melbourne
+Fecha: 2027-01-11 — 2027-01-15
+edad: 5–13 años. Grupos de edad separados.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 495 por niño por 5 días. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Al verificar, el grupo tiene lista de espera publicada. Oscar: Confirmar plaza en el grupo de 5–6 o 7 años según cumpleaños. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.kidsupfront.com.au/page/holiday-camps
+Se ha comprobado: 2026-11-07
+
+### CP1686-20270118-20270122-northcote-3 · Kids Up Front · Melbourne · Wonderland · 2027-01-18–2027-01-22
+
+lugar: Australia · Northcote La escuela secundaria · Melbourne
+Fecha: 2027-01-18 国 2027-01-22
+edad: 5–13 años. Grupos de edad separados.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 495 por niño por 5 días. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Al verificar, el grupo tiene lista de espera publicada. Oscar: Al verificar, el grupo tiene lista de espera publicada. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.kidsupfront.com.au/page/holiday-camps
+Se ha comprobado: 2026-11-07
+
+### CP1686-20270118-20270122-eltham-3 · Kids Up Front · Melbourne · Wonderland · 2027-01-18–2027-01-22
+
+lugar: Australia · Eltham College · Research VIC · Melbourne
+Fecha: 2027-01-18 国 2027-01-22
+edad: 5–13 años. Grupos de edad separados.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 495 por niño por 5 días. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Confirmar plaza en el grupo de 5–6 o 7 años según cumpleaños. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.kidsupfront.com.au/page/holiday-camps
 Se ha comprobado: 2026-11-07
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
