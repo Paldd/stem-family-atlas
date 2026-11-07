@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 8041,
-    "competition_cards": 3302,
-    "event_cards": 392,
-    "camp_cards": 4347,
+    "cards": 8056,
+    "competition_cards": 3303,
+    "event_cards": 396,
+    "camp_cards": 4357,
     "league_profiles": 274,
-    "major_exhibition_cards": 304,
+    "major_exhibition_cards": 308,
     "vex_cards": 518,
     "countries_with_records": 161,
     "fully_audited_countries": 0
@@ -62,12 +62,12 @@
       "regions": [
         "Europa"
       ],
-      "total": 1862,
+      "total": 1877,
       "countries_with_records": 42,
-      "competitions": 434,
-      "events": 101,
-      "major_exhibitions": 82,
-      "camps": 1327,
+      "competitions": 435,
+      "events": 105,
+      "major_exhibitions": 86,
+      "camps": 1337,
       "status": "Se ha estudiado parcialmente",
       "remaining": "CHE/ESP/FRA se profundizan de nuevo. No están cerradas todas las ligas locales, Nuevos qualifiers 2027, enseñanza en inglés / en español, cuotas extranjeras, de la actualidad juniormentors y los protocolos escolares completos 5–10 años. Alemania / Países Bajos / Bélgica: el primer paso parcial; todos los clubes locales, lenguas, Cuotas extranjeras y resultados escolares completos permanecen abiertos."
     },
@@ -10582,6 +10582,50 @@
       "new": false
     },
     {
+      "id": "E393",
+      "name": "Automnales · Thymio 3 family robotics · Palexpo Genève",
+      "country": "Suiza",
+      "region": "Europa",
+      "start": "2026-11-06",
+      "end": "2026-11-15",
+      "visitor_policy": "family",
+      "source": "https://memento.epfl.ch/event/une-aventure-robotique-en-famille-aux-automnales-d/",
+      "new": false
+    },
+    {
+      "id": "E394",
+      "name": "L’ideatorio USI · Robot. Dagli automi all’intelligenza artificiale",
+      "country": "Suiza",
+      "region": "Europa",
+      "start": "2026-09-12",
+      "end": "2027-06-06",
+      "visitor_policy": "family",
+      "source": "https://ideatorio.usi.ch/event/robot-pubblico",
+      "new": false
+    },
+    {
+      "id": "E395",
+      "name": "Leukerbad Robot Carnival 2026 · Citywide demonstrations",
+      "country": "Suiza",
+      "region": "Europa",
+      "start": "2026-11-14",
+      "end": "2026-11-16",
+      "visitor_policy": "confirm_children",
+      "source": "https://luma.com/yo2pk18n",
+      "new": false
+    },
+    {
+      "id": "E396",
+      "name": "ETH Zürich RobotX · Open Lab Day",
+      "country": "Suiza",
+      "region": "Europa",
+      "start": "2026-11-27",
+      "end": "2026-11-27",
+      "visitor_policy": "confirm_children",
+      "source": "https://robotx.ethz.ch/education/open-lab-27-11-2026.html",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -12999,14 +13043,14 @@
       }
     ],
     "counts": {
-      "records": 4347,
-      "holiday": 4071,
+      "records": 4357,
+      "holiday": 4081,
       "regular": 120,
       "self_paced_materials": 2,
       "boarding": 1036,
-      "en_es_instruction": 1414,
+      "en_es_instruction": 1424,
       "en_es_support": 12,
-      "family_instruction": 1414,
+      "family_instruction": 1424,
       "family_support": 12,
       "ru_instruction": 4,
       "language_lessons": 410,

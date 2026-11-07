@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base al 2026-11-07. 1759 fichas en 104 países. Cada ficha indica cuándo se verificaron sus fuentes.
+Estado de la base al 2026-11-07. 1766 fichas en 104 países. Cada ficha indica cuándo se verificaron sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -138461,6 +138461,526 @@ Estados Unidos · 9127 W. Union Hills Dr. #301 · Peoria, Arizona
 - [Página oficial del organizador](https://scitechinstitute.org/event/icode-battle-of-the-bots-tournament-of-champions-1-day-camp-3/) · 2026-11-07
 
 - [Página oficial del organizador](https://cityofpeoriaaz.perfectmind.com/Contacts/BookMe4?widgetId=15f6af07-39c5-473e-b053-96653f77a406) · 2026-11-07
+
+## CP1760 · TechLabs Zürich · CrunchLabs Repeating XBow
+
+Suiza · TechLabs Zürich · Hohlstrasse 201 · 8004 Zürich
+
+**Se ha comprobado:** 2026-11-07
+
+* Edad:** 7*13
+
+**Idioma:** El organizador indica explícitamente inglés y alemán como idiomas de enseñanza.
+
+**Programa:** Construcción práctica de ingeniería. El participante se lleva su kit oficial CrunchLabs Build Box.
+
+**Alojamiento:** Taller diurno sin alojamiento.
+
+**Fechas / estado:** 22 de noviembre de 2026, 14:00–16:00. Edad de 7–13 años.
+
+**Precio / año:** 2026 · CHF 100 por taller infantil según tarifa publicada.
+
+**Incluido:** Construcción práctica de ingeniería. El participante se lleva su kit oficial CrunchLabs Build Box.
+
+**Suplementos:** No se publica el precio de la opción concreta.
+
+**Pago:** Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse.
+
+**Matvey:** Edad adecuada según la ficha. Confirmar plaza y admisión efectiva.
+
+**Oscar:** Para las fechas de 2026 la edad es inferior al mínimo de 7 años.
+
+**Motivo de la selección:** Condiciones publicadas por el organizador. Precio y plaza se comprueban por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse.
+
+### Repeating XBow
+
+**Fechas / estado:** 2026-11-22 — 2026-11-22
+
+**lugar:** TechLabs Zürich · Hohlstrasse 201 · 8004 Zürich
+
+* Edad:** 7*13
+
+**Precio:** CHF 100 por taller infantil según tarifa publicada.
+
+- 2026-11-22 · 14:00–16:00 · Europe/Zurich · Construcción práctica de ingeniería. El participante se lleva su kit oficial CrunchLabs Build Box.
+
+**Disponibilidad de plazas:** La página indica admisión de solicitudes. La plaza efectiva se confirma por separado.
+
+**Matvey:** Edad adecuada según la ficha. Confirmar plaza y admisión efectiva.
+
+**Oscar:** Para las fechas de 2026 la edad es inferior al mínimo de 7 años.
+
+[fuente](https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Workshops/Workshop%20%20CrunchLabs/Zurich%20%20TechLabs/Workshop.ed.9e9f44508f00_7738385431.ZH%20%20CrunchLabs%20Workshop%20%20Ages%207-13%20%202211%20Repeating%20XBow)
+
+### Fuentes
+
+- [Página oficial del organizador](https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Workshops/Workshop%20%20CrunchLabs/Zurich%20%20TechLabs/Workshop.ed.9e9f44508f00_7738385431.ZH%20%20CrunchLabs%20Workshop%20%20Ages%207-13%20%202211%20Repeating%20XBow) · 2026-11-07
+
+- [Página oficial del organizador](https://app1.edoobox.com/en/techlabs/techlabs.ch) · 2026-11-07
+
+- [Página oficial del organizador](https://www.techlabs.ch/terms-and-conditions) · 2026-11-07
+
+## CP1761 · TechLabs Zürich · CrunchLabs Bubble Factory
+
+Suiza · TechLabs Zürich · Hohlstrasse 201 · 8004 Zürich
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 4–6 años con adulto
+
+**Idioma:** El organizador indica explícitamente inglés y alemán como idiomas de enseñanza.
+
+**Programa:** Construcción práctica de ingeniería. El participante se lleva su kit oficial CrunchLabs Build Box.
+
+**Alojamiento:** Taller diurno sin alojamiento.
+
+**Fechas / estado:** 22 de noviembre de 2026, 16:00–18:00. Edad de 4–6 años con un adulto.
+
+**Precio / año:** 2026 · Tarifa de CHF 100 en la ficha. Condiciones y posible cargo separado por el adulto acompañante sin confirmar.
+
+**Incluido:** Construcción práctica de ingeniería. El participante se lleva su kit oficial CrunchLabs Build Box.
+
+**Suplementos:** Tarifa de CHF 100 en la ficha. Condiciones y posible cargo separado por el adulto acompañante sin confirmar.
+
+**Pago:** Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse.
+
+**Matvey:** Por encima del máximo de 6 años para este taller.
+
+**Oscar:** Condicional. Edad adecuada. Es obligatoria la presencia de un adulto en el taller.
+
+**Motivo de la selección:** Condiciones publicadas por el organizador. Precio y plaza se comprueban por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse.
+
+### Bubble Factory
+
+**Fechas / estado:** 2026-11-22 — 2026-11-22
+
+**lugar:** TechLabs Zürich · Hohlstrasse 201 · 8004 Zürich
+
+**edad:** 4–6 años con adulto
+
+**Precio:** Tarifa de CHF 100 en la ficha. Condiciones y posible cargo separado por el adulto acompañante sin confirmar.
+
+- 2026-11-22 · 16:00–18:00 · Europe/Zurich · Construcción práctica de ingeniería. El participante se lleva su kit oficial CrunchLabs Build Box.
+
+**Disponibilidad de plazas:** La página indica admisión de solicitudes. La plaza efectiva se confirma por separado.
+
+**Matvey:** Por encima del máximo de 6 años para este taller.
+
+**Oscar:** Condicional. Edad adecuada. Es obligatoria la presencia de un adulto en el taller.
+
+[fuente](https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Workshops/Workshop%20%20CrunchLabs/Zurich%20%20TechLabs/Workshop.ed.58dd1a541b26_7738405717.ZH%20%20CrunchLabs%20Workshop%20%20Ages%204-6%20%20Adult%20%202211%20Bubble%20Factory)
+
+### Fuentes
+
+- [Página oficial del organizador](https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Workshops/Workshop%20%20CrunchLabs/Zurich%20%20TechLabs/Workshop.ed.58dd1a541b26_7738405717.ZH%20%20CrunchLabs%20Workshop%20%20Ages%204-6%20%20Adult%20%202211%20Bubble%20Factory) · 2026-11-07
+
+- [Página oficial del organizador](https://app1.edoobox.com/en/techlabs/techlabs.ch) · 2026-11-07
+
+- [Página oficial del organizador](https://www.techlabs.ch/terms-and-conditions) · 2026-11-07
+
+## CP1762 · TechLabs Basel · CrunchLabs Air Ball
+
+Suiza · TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel
+
+**Se ha comprobado:** 2026-11-07
+
+* Edad:** 7*13
+
+**Idioma:** El organizador indica explícitamente inglés y alemán como idiomas de enseñanza.
+
+**Programa:** Construcción práctica de ingeniería. El participante se lleva su kit oficial CrunchLabs Build Box.
+
+**Alojamiento:** Taller diurno sin alojamiento.
+
+**Fechas / estado:** 22 de noviembre, 28 y 30 de diciembre de 2026. Cada vez de 14:00 a 16:00.
+
+**Precio / año:** 2026 · CHF 100 por taller infantil según tarifa publicada.
+
+**Incluido:** Construcción práctica de ingeniería. El participante se lleva su kit oficial CrunchLabs Build Box.
+
+**Suplementos:** No se publica el precio de la opción concreta.
+
+**Pago:** Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse.
+
+**Matvey:** Edad adecuada según la ficha. Confirmar plaza y admisión efectiva.
+
+**Oscar:** Para las fechas de 2026 la edad es inferior al mínimo de 7 años.
+
+**Motivo de la selección:** Condiciones publicadas por el organizador. Precio y plaza se comprueban por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse.
+
+### Air Ball
+
+**Fechas / estado:** 2026-11-22 — 2026-11-22
+
+**lugar:** TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel
+
+* Edad:** 7*13
+
+**Precio:** CHF 100 por taller infantil según tarifa publicada.
+
+- 2026-11-22 · 14:00–16:00 · Europe/Zurich · Construcción práctica de ingeniería. El participante se lleva su kit oficial CrunchLabs Build Box.
+
+**Disponibilidad de plazas:** La página indica admisión de solicitudes. La plaza efectiva se confirma por separado.
+
+**Matvey:** Edad adecuada según la ficha. Confirmar plaza y admisión efectiva.
+
+**Oscar:** Para las fechas de 2026 la edad es inferior al mínimo de 7 años.
+
+[fuente](https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Workshops/Workshop%20%20CrunchLabs/Basel%20TechLabs/Workshop.ed.21b4bcdf6d1e_7779254959.BS%20%20CrunchLabs%20Workshop%20%20Ages%207-13%20%202211%20Air%20Ball)
+
+### Air Ball
+
+**Fechas / estado:** 2026-12-28 — 2026-12-28
+
+**lugar:** TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel
+
+* Edad:** 7*13
+
+**Precio:** CHF 100 por taller infantil según tarifa publicada.
+
+- 2026-12-28 · 14:00–16:00 · Europe/Zurich · Construcción práctica de ingeniería. El participante se lleva su kit oficial CrunchLabs Build Box.
+
+**Disponibilidad de plazas:** La página indica admisión de solicitudes. La plaza efectiva se confirma por separado.
+
+**Matvey:** Edad adecuada según la ficha. Confirmar plaza y admisión efectiva.
+
+**Oscar:** Para las fechas de 2026 la edad es inferior al mínimo de 7 años.
+
+[fuente](https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Workshops/Workshop%20%20CrunchLabs/Basel%20TechLabs/Workshop.ed.975867656c33_7740136789.BS%20%20CrunchLabs%20Workshop%20%20Ages%207-13%20%202812%20Air%20Ball)
+
+### Air Ball
+
+**Fechas / estado:** 2026-12-30 — 2026-12-30
+
+**lugar:** TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel
+
+* Edad:** 7*13
+
+**Precio:** CHF 100 por taller infantil según tarifa publicada.
+
+- 2026-12-30 · 14:00–16:00 · Europe/Zurich · Construcción práctica de ingeniería. El participante se lleva su kit oficial CrunchLabs Build Box.
+
+**Disponibilidad de plazas:** La página indica admisión de solicitudes. La plaza efectiva se confirma por separado.
+
+**Matvey:** Edad adecuada según la ficha. Confirmar plaza y admisión efectiva.
+
+**Oscar:** Para las fechas de 2026 la edad es inferior al mínimo de 7 años.
+
+[fuente](https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Workshops/Workshop%20%20CrunchLabs/Basel%20TechLabs/Workshop.ed.dc3bd5299e9a_7846658575.BS%20%20CrunchLabs%20Workshop%20%20Ages%207-13%20%203012%20Air%20Ball)
+
+### Fuentes
+
+- [Página oficial del organizador](https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Workshops/Workshop%20%20CrunchLabs/Basel%20TechLabs/Workshop.ed.21b4bcdf6d1e_7779254959.BS%20%20CrunchLabs%20Workshop%20%20Ages%207-13%20%202211%20Air%20Ball) · 2026-11-07
+
+- [Página oficial del organizador](https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Workshops/Workshop%20%20CrunchLabs/Basel%20TechLabs/Workshop.ed.975867656c33_7740136789.BS%20%20CrunchLabs%20Workshop%20%20Ages%207-13%20%202812%20Air%20Ball) · 2026-11-07
+
+- [Página oficial del organizador](https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Workshops/Workshop%20%20CrunchLabs/Basel%20TechLabs/Workshop.ed.dc3bd5299e9a_7846658575.BS%20%20CrunchLabs%20Workshop%20%20Ages%207-13%20%203012%20Air%20Ball) · 2026-11-07
+
+- [Página oficial del organizador](https://www.techlabs.ch/terms-and-conditions) · 2026-11-07
+
+## CP1763 · TechLabs Basel · CrunchLabs Bubble Factory
+
+Suiza · TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel
+
+**Se ha comprobado:** 2026-11-07
+
+**Edad:** 7–11
+
+**Idioma:** El organizador indica explícitamente inglés y alemán como idiomas de enseñanza.
+
+**Programa:** Construcción práctica de ingeniería. El participante se lleva su kit oficial CrunchLabs Build Box.
+
+**Alojamiento:** Taller diurno sin alojamiento.
+
+**Fechas / estado:** 29 de diciembre de 2026, 14:00–16:00. Desde 7 años.
+
+**Precio / año:** 2026 · CHF 100 por taller infantil según tarifa publicada.
+
+**Incluido:** Construcción práctica de ingeniería. El participante se lleva su kit oficial CrunchLabs Build Box.
+
+**Suplementos:** No se publica el precio de la opción concreta.
+
+**Pago:** Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse.
+
+**Matvey:** Edad adecuada según la ficha. Confirmar plaza y admisión efectiva.
+
+**Oscar:** Para las fechas de 2026 la edad es inferior al mínimo de 7 años.
+
+**Motivo de la selección:** Condiciones publicadas por el organizador. Precio y plaza se comprueban por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse.
+
+### Bubble Factory
+
+**Fechas / estado:** 2026-12-29 — 2026-12-29
+
+**lugar:** TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel
+
+**Edad:** 7–11
+
+**Precio:** CHF 100 por taller infantil según tarifa publicada.
+
+- 2026-12-29 · 14:00–16:00 · Europe/Zurich · Construcción práctica de ingeniería. El participante se lleva su kit oficial CrunchLabs Build Box.
+
+**Disponibilidad de plazas:** La página indica admisión de solicitudes. La plaza efectiva se confirma por separado.
+
+**Matvey:** Edad adecuada según la ficha. Confirmar plaza y admisión efectiva.
+
+**Oscar:** Para las fechas de 2026 la edad es inferior al mínimo de 7 años.
+
+[fuente](https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Workshops/Workshop%20%20CrunchLabs/Basel%20TechLabs/Workshop.ed.3ffa1867fa3a_7805829619.BS%20%20CrunchLabs%20Workshop%20%20Ages%207-11%20%202912%20Bubble%20Factory)
+
+### Fuentes
+
+- [Página oficial del organizador](https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Workshops/Workshop%20%20CrunchLabs/Basel%20TechLabs/Workshop.ed.3ffa1867fa3a_7805829619.BS%20%20CrunchLabs%20Workshop%20%20Ages%207-11%20%202912%20Bubble%20Factory) · 2026-11-07
+
+- [Página oficial del organizador](https://www.techlabs.ch/terms-and-conditions) · 2026-11-07
+
+## CP1764 · TechLabs Basel · Build. Hack. Engineer
+
+Suiza · TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel
+
+**Se ha comprobado:** 2026-11-07
+
+* Edad:** 7*13
+
+**Idioma:** El organizador indica explícitamente inglés y alemán como idiomas de enseñanza.
+
+**Programa:** Cuatro días de retos de ingeniería, experimentos y trabajo en equipo. Las tarifas indican 4 Build Boxes para llevar.
+
+**Alojamiento:** Taller diurno sin alojamiento.
+
+**Fechas / estado:** 22–25 de marzo y 30 de marzo–2 de abril de 2027. La página muestra 4 días por turno, aunque el texto general habla de una semana completa.
+
+**Precio / año:** 2027 · CHF 596 por 4 mañanas y CHF 887.20 por 4 días completos. Opción de horario personalizado CHF 1 000. Confirmar aparte cómo se aplica el depósito.
+
+**Incluido:** Cuatro días de retos de ingeniería, experimentos y trabajo en equipo. Las tarifas indican 4 Build Boxes para llevar.
+
+**Suplementos:** No se publica el precio de la opción concreta.
+
+**Pago:** Las fichas de los turnos indican un depósito de CHF 350 no reembolsable al cancelar. La política general indica un depósito del 50%. Antes de pagar, confirmar condición aplicable, imputación a la tarifa y devolución.
+
+**Matvey:** Edad adecuada según la ficha. Confirmar plaza y admisión efectiva.
+
+**Oscar:** Condicional si cumple 7 años al inicio del turno. Confirmar la regla de la fecha elegida.
+
+**Motivo de la selección:** Condiciones publicadas por el organizador. Precio y plaza se comprueban por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse.
+
+### Mañana · 09:00–12:30
+
+**Fechas / estado:** 2027-03-22 — 2027-03-25
+
+**lugar:** TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel
+
+* Edad:** 7*13
+
+**Precio:** CHF 596 por 4 mañanas.
+
+- 2027-03-22 · 09:00–12:30 · Europe/Zurich · Cuatro días de retos de ingeniería, experimentos y trabajo en equipo. Las tarifas indican 4 Build Boxes para llevar.
+
+- 2027-03-23 · 09:00–12:30 · Europe/Zurich · Cuatro días de retos de ingeniería, experimentos y trabajo en equipo. Las tarifas indican 4 Build Boxes para llevar.
+
+- 2027-03-24 · 09:00–12:30 · Europe/Zurich · Cuatro días de retos de ingeniería, experimentos y trabajo en equipo. Las tarifas indican 4 Build Boxes para llevar.
+
+- 2027-03-25 · 09:00–12:30 · Europe/Zurich · Cuatro días de retos de ingeniería, experimentos y trabajo en equipo. Las tarifas indican 4 Build Boxes para llevar.
+
+**Disponibilidad de plazas:** La página indica admisión de solicitudes. La plaza efectiva se confirma por separado.
+
+**Matvey:** Edad adecuada según la ficha. Confirmar plaza y admisión efectiva.
+
+**Oscar:** Condicional si cumple 7 años al inicio del turno. Confirmar la regla de la fecha elegida.
+
+[fuente](https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Basel%20%20TechLabs%20ELYS/Camp.ed.02e494414911_7419787039.BS%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20March%2022-25)
+
+### Día completo · 09:00–17:00
+
+**Fechas / estado:** 2027-03-22 — 2027-03-25
+
+**lugar:** TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel
+
+* Edad:** 7*13
+
+**Precio:** CHF 887.20 por 4 días completos.
+
+- 2027-03-22 · 09:00–17:00 · Europe/Zurich · Cuatro días de retos de ingeniería, experimentos y trabajo en equipo. Las tarifas indican 4 Build Boxes para llevar.
+
+- 2027-03-23 · 09:00–17:00 · Europe/Zurich · Cuatro días de retos de ingeniería, experimentos y trabajo en equipo. Las tarifas indican 4 Build Boxes para llevar.
+
+- 2027-03-24 · 09:00–17:00 · Europe/Zurich · Cuatro días de retos de ingeniería, experimentos y trabajo en equipo. Las tarifas indican 4 Build Boxes para llevar.
+
+- 2027-03-25 · 09:00–17:00 · Europe/Zurich · Cuatro días de retos de ingeniería, experimentos y trabajo en equipo. Las tarifas indican 4 Build Boxes para llevar.
+
+**Disponibilidad de plazas:** La página indica admisión de solicitudes. La plaza efectiva se confirma por separado.
+
+**Matvey:** Edad adecuada según la ficha. Confirmar plaza y admisión efectiva.
+
+**Oscar:** Condicional si cumple 7 años al inicio del turno. Confirmar la regla de la fecha elegida.
+
+[fuente](https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Basel%20%20TechLabs%20ELYS/Camp.ed.02e494414911_7419787039.BS%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20March%2022-25)
+
+### Mañana · 09:00–12:30
+
+**Fechas / estado:** 2027-03-30 — 2027-04-02
+
+**lugar:** TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel
+
+* Edad:** 7*13
+
+**Precio:** CHF 596 por 4 mañanas.
+
+- 2027-03-30 · 09:00–12:30 · Europe/Zurich · Cuatro días de retos de ingeniería, experimentos y trabajo en equipo. Las tarifas indican 4 Build Boxes para llevar.
+
+- 2027-03-31 · 09:00–12:30 · Europe/Zurich · Cuatro días de retos de ingeniería, experimentos y trabajo en equipo. Las tarifas indican 4 Build Boxes para llevar.
+
+- 2027-04-01 · 09:00–12:30 · Europe/Zurich · Cuatro días de retos de ingeniería, experimentos y trabajo en equipo. Las tarifas indican 4 Build Boxes para llevar.
+
+- 2027-04-02 · 09:00–12:30 · Europe/Zurich · Cuatro días de retos de ingeniería, experimentos y trabajo en equipo. Las tarifas indican 4 Build Boxes para llevar.
+
+**Disponibilidad de plazas:** La página indica admisión de solicitudes. La plaza efectiva se confirma por separado.
+
+**Matvey:** Edad adecuada según la ficha. Confirmar plaza y admisión efectiva.
+
+**Oscar:** Condicional si cumple 7 años al inicio del turno. Confirmar la regla de la fecha elegida.
+
+[fuente](https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Basel%20%20TechLabs%20ELYS/Camp.ed.18ed03a8d11c_7756487305.BS%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20March%2030-Apr%202)
+
+### Día completo · 09:00–17:00
+
+**Fechas / estado:** 2027-03-30 — 2027-04-02
+
+**lugar:** TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel
+
+* Edad:** 7*13
+
+**Precio:** CHF 887.20 por 4 días completos.
+
+- 2027-03-30 · 09:00–17:00 · Europe/Zurich · Cuatro días de retos de ingeniería, experimentos y trabajo en equipo. Las tarifas indican 4 Build Boxes para llevar.
+
+- 2027-03-31 · 09:00–17:00 · Europe/Zurich · Cuatro días de retos de ingeniería, experimentos y trabajo en equipo. Las tarifas indican 4 Build Boxes para llevar.
+
+- 2027-04-01 · 09:00–17:00 · Europe/Zurich · Cuatro días de retos de ingeniería, experimentos y trabajo en equipo. Las tarifas indican 4 Build Boxes para llevar.
+
+- 2027-04-02 · 09:00–17:00 · Europe/Zurich · Cuatro días de retos de ingeniería, experimentos y trabajo en equipo. Las tarifas indican 4 Build Boxes para llevar.
+
+**Disponibilidad de plazas:** La página indica admisión de solicitudes. La plaza efectiva se confirma por separado.
+
+**Matvey:** Edad adecuada según la ficha. Confirmar plaza y admisión efectiva.
+
+**Oscar:** Condicional si cumple 7 años al inicio del turno. Confirmar la regla de la fecha elegida.
+
+[fuente](https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Basel%20%20TechLabs%20ELYS/Camp.ed.18ed03a8d11c_7756487305.BS%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20March%2030-Apr%202)
+
+### Fuentes
+
+- [Página oficial del organizador](https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Basel%20%20TechLabs%20ELYS/Camp.ed.02e494414911_7419787039.BS%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20March%2022-25) · 2026-11-07
+
+- [Página oficial del organizador](https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Basel%20%20TechLabs%20ELYS/Camp.ed.18ed03a8d11c_7756487305.BS%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20March%2030-Apr%202) · 2026-11-07
+
+- [Página oficial del organizador](https://www.techlabs.ch/terms-and-conditions) · 2026-11-07
+
+## CP1765 · Spark Science · Christmas Camp
+
+Suiza · Suurstoffi 41c · Risch-Rotkreuz
+
+**Se ha comprobado:** 2026-11-07
+
+**Edad:** 5–11
+
+**Idioma:** La política general confirma clases en inglés. Muchos miembros del equipo también hablan alemán.
+
+**Programa:** Experimentos, retos de ingeniería y juegos en equipo. Llevar almuerzo.
+
+**Alojamiento:** Taller diurno sin alojamiento.
+
+**Fechas / estado:** Ambas fichas muestran el periodo del 18 de diciembre de 2026 a las 09:30 al 21 de diciembre a las 16:00. Venta no disponible. Confirmar días incluidos e inscripción.
+
+**Precio / año:** 2026 · No se publica el precio de la opción concreta.
+
+**Incluido:** Experimentos, retos de ingeniería y juegos en equipo. Llevar almuerzo.
+
+**Suplementos:** No se publica el precio de la opción concreta.
+
+**Pago:** Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse.
+
+**Matvey:** Edad adecuada según la ficha. Confirmar plaza y admisión efectiva.
+
+**Oscar:** Edad adecuada según la ficha. Confirmar plaza y admisión efectiva.
+
+**Motivo de la selección:** Condiciones publicadas por el organizador. Precio y plaza se comprueban por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse.
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.sparkscience.ch/event-details/christmas-camp-2026-12-18-09-30) · 2026-11-07
+
+- [Página oficial del organizador](https://www.sparkscience.ch/event-details/christmas-camp-2026-12-21-09-30) · 2026-11-07
+
+- [Página oficial del organizador](https://www.sparkscience.ch/camps) · 2026-11-07
+
+## CP1766 · iD Tech · BattleBots Creator Camp
+
+Estados Unidos · Elegir campus en el catálogo del organizador
+
+**Se ha comprobado:** 2026-11-07
+
+**Edad:** 7–9
+
+**Idioma:** Se indica inglés como idioma de enseñanza.
+
+**Programa:** Creación de un personaje robot, diseño, programación, pruebas y combate formativo al estilo BattleBots.
+
+**Alojamiento:** Taller diurno sin alojamiento.
+
+**Fechas / estado:** La apertura general para verano de 2027 se anunció para el 8 de noviembre de 2026. Confirmar semanas, precios y plazas del campus elegido.
+
+**Precio / año:** 2027 · No se publica el precio de la opción concreta.
+
+**Incluido:** Creación de un personaje robot, diseño, programación, pruebas y combate formativo al estilo BattleBots.
+
+**Suplementos:** No se publica el precio de la opción concreta.
+
+**Pago:** Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse.
+
+**Matvey:** Condicional. Confirmar campus elegido, edad máxima y plaza.
+
+**Oscar:** La edad mínima general de 7 años se comprueba al 31 de diciembre del año del curso. Algunos cursos son más estrictos. Confirmar edad para el turno elegido.
+
+**Motivo de la selección:** Condiciones publicadas por el organizador. Precio y plaza se comprueban por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse.
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.idtech.com/courses/battlebots-creator-camp-invent-battle-and-take-home) · 2026-11-07
+
+- [Página oficial del organizador](https://www.idtech.com/Summer-Camps) · 2026-11-07
+
+- [Página oficial del organizador](https://idtechcamps.zohodesk.com/portal/en/kb/articles/can-you-make-an-age-exception) · 2026-11-07
+
+- [Página oficial del organizador](https://idtechcamps.zohodesk.com/portal/en/kb/articles/do-you-accept-international-students) · 2026-11-07
 
 ## ~ Comprobaciones no cerradas
 

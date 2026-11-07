@@ -30,17 +30,17 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1759,
+    "dossiers": 1766,
     "countries": 104,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 255,
-      "published_2027": 495,
-      "partial_2027": 136,
+      "published_2027": 496,
+      "partial_2027": 137,
       "next_unannounced": 353,
-      "published_2026": 307,
+      "published_2026": 311,
       "partial_2026_27": 28,
-      "partial_2026": 22,
+      "partial_2026": 23,
       "archive_next_unannounced": 138,
       "regular_programme": 17,
       "regular_2026_27": 2,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2509
+    "source_urls": 2522
   },
   "countries": [
     {
@@ -345,7 +345,7 @@
     },
     {
       "country": "Estados Unidos",
-      "count": 139
+      "count": 140
     },
     {
       "country": "El Salvador",
@@ -433,7 +433,7 @@
     },
     {
       "country": "Suiza",
-      "count": 140
+      "count": 146
     },
     {
       "country": "Suecia",
@@ -295626,6 +295626,1169 @@
       "catalog_participation": "day_camp",
       "related_event_ids": [],
       "calendar_links": []
+    },
+    {
+      "id": "CP1760",
+      "slug": "techlabs-zurich-crunchlabs-xbow",
+      "provider": "TechLabs Zürich · CrunchLabs Repeating XBow",
+      "country": "Suiza",
+      "iso": "CHE",
+      "place": "TechLabs Zürich · Hohlstrasse 201 · 8004 Zürich",
+      "age": "7–13",
+      "themes": [
+        "makers",
+        "technology",
+        "science"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "El organizador indica explícitamente inglés y alemán como idiomas de enseñanza.",
+      "confirmed_instruction_languages": [
+        "EN",
+        "DE"
+      ],
+      "programme": "Construcción práctica de ingeniería. El participante se lleva su kit oficial CrunchLabs Build Box.",
+      "timing": {
+        "status": "published_2026",
+        "label": "22 de noviembre de 2026, 14:00–16:00. Edad de 7–13 años.",
+        "sessions": [
+          [
+            "2026-11-22",
+            "2026-11-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "xbow",
+            "start": "2026-11-22",
+            "end": "2026-11-22",
+            "label": "Repeating XBow",
+            "place": "TechLabs Zürich · Hohlstrasse 201 · 8004 Zürich",
+            "age": "7–13",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según la ficha. Confirmar plaza y admisión efectiva."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Para las fechas de 2026 la edad es inferior al mínimo de 7 años."
+              }
+            },
+            "source": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Workshops/Workshop%20%20CrunchLabs/Zurich%20%20TechLabs/Workshop.ed.9e9f44508f00_7738385431.ZH%20%20CrunchLabs%20Workshop%20%20Ages%207-13%20%202211%20Repeating%20XBow",
+            "price": "CHF 100 por taller infantil según tarifa publicada.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "open",
+              "label": "La página indica admisión de solicitudes. La plaza efectiva se confirma por separado."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-22",
+                "topic": "Construcción práctica de ingeniería. El participante se lleva su kit oficial CrunchLabs Build Box.",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CHF",
+        "amount": 100,
+        "unit": "programme",
+        "label": "CHF 100 por taller infantil según tarifa publicada.",
+        "included": "Construcción práctica de ingeniería. El participante se lleva su kit oficial CrunchLabs Build Box.",
+        "extras": "No se publica el precio de la opción concreta.",
+        "deposit": "Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse."
+      },
+      "accommodation": "Taller diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Edad adecuada según la ficha. Confirmar plaza y admisión efectiva."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Para las fechas de 2026 la edad es inferior al mínimo de 7 años."
+        }
+      },
+      "editorial_reason": "Condiciones publicadas por el organizador. Precio y plaza se comprueban por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse."
+      ],
+      "sources": [
+        {
+          "url": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Workshops/Workshop%20%20CrunchLabs/Zurich%20%20TechLabs/Workshop.ed.9e9f44508f00_7738385431.ZH%20%20CrunchLabs%20Workshop%20%20Ages%207-13%20%202211%20Repeating%20XBow",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://app1.edoobox.com/en/techlabs/techlabs.ch",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.techlabs.ch/terms-and-conditions",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "open",
+        "label": "La página indica admisión de solicitudes. La plaza efectiva se confirma por separado."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-22",
+          "end": "2026-11-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1760-20261122-20261122"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1761",
+      "slug": "techlabs-zurich-crunchlabs-bubble",
+      "provider": "TechLabs Zürich · CrunchLabs Bubble Factory",
+      "country": "Suiza",
+      "iso": "CHE",
+      "place": "TechLabs Zürich · Hohlstrasse 201 · 8004 Zürich",
+      "age": "4–6 años con adulto",
+      "themes": [
+        "makers",
+        "technology",
+        "science"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "El organizador indica explícitamente inglés y alemán como idiomas de enseñanza.",
+      "confirmed_instruction_languages": [
+        "EN",
+        "DE"
+      ],
+      "programme": "Construcción práctica de ingeniería. El participante se lleva su kit oficial CrunchLabs Build Box.",
+      "timing": {
+        "status": "published_2026",
+        "label": "22 de noviembre de 2026, 16:00–18:00. Edad de 4–6 años con un adulto.",
+        "sessions": [
+          [
+            "2026-11-22",
+            "2026-11-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "bubble",
+            "start": "2026-11-22",
+            "end": "2026-11-22",
+            "label": "Bubble Factory",
+            "place": "TechLabs Zürich · Hohlstrasse 201 · 8004 Zürich",
+            "age": "4–6 años con adulto",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Por encima del máximo de 6 años para este taller."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Condicional. Edad adecuada. Es obligatoria la presencia de un adulto en el taller."
+              }
+            },
+            "source": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Workshops/Workshop%20%20CrunchLabs/Zurich%20%20TechLabs/Workshop.ed.58dd1a541b26_7738405717.ZH%20%20CrunchLabs%20Workshop%20%20Ages%204-6%20%20Adult%20%202211%20Bubble%20Factory",
+            "price": "Tarifa de CHF 100 en la ficha. Condiciones y posible cargo separado por el adulto acompañante sin confirmar.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "open",
+              "label": "La página indica admisión de solicitudes. La plaza efectiva se confirma por separado."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-22",
+                "topic": "Construcción práctica de ingeniería. El participante se lleva su kit oficial CrunchLabs Build Box.",
+                "start_time": "16:00",
+                "end_time": "18:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CHF",
+        "amount": 100,
+        "unit": "programme",
+        "label": "Tarifa de CHF 100 en la ficha. Condiciones y posible cargo separado por el adulto acompañante sin confirmar.",
+        "included": "Construcción práctica de ingeniería. El participante se lleva su kit oficial CrunchLabs Build Box.",
+        "extras": "Tarifa de CHF 100 en la ficha. Condiciones y posible cargo separado por el adulto acompañante sin confirmar.",
+        "deposit": "Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse."
+      },
+      "accommodation": "Taller diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Por encima del máximo de 6 años para este taller."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional. Edad adecuada. Es obligatoria la presencia de un adulto en el taller."
+        }
+      },
+      "editorial_reason": "Condiciones publicadas por el organizador. Precio y plaza se comprueban por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse."
+      ],
+      "sources": [
+        {
+          "url": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Workshops/Workshop%20%20CrunchLabs/Zurich%20%20TechLabs/Workshop.ed.58dd1a541b26_7738405717.ZH%20%20CrunchLabs%20Workshop%20%20Ages%204-6%20%20Adult%20%202211%20Bubble%20Factory",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://app1.edoobox.com/en/techlabs/techlabs.ch",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.techlabs.ch/terms-and-conditions",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "open",
+        "label": "La página indica admisión de solicitudes. La plaza efectiva se confirma por separado."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-22",
+          "end": "2026-11-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1761-20261122-20261122"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1762",
+      "slug": "techlabs-basel-crunchlabs-air",
+      "provider": "TechLabs Basel · CrunchLabs Air Ball",
+      "country": "Suiza",
+      "iso": "CHE",
+      "place": "TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel",
+      "age": "7–13",
+      "themes": [
+        "makers",
+        "technology",
+        "science"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "El organizador indica explícitamente inglés y alemán como idiomas de enseñanza.",
+      "confirmed_instruction_languages": [
+        "EN",
+        "DE"
+      ],
+      "programme": "Construcción práctica de ingeniería. El participante se lleva su kit oficial CrunchLabs Build Box.",
+      "timing": {
+        "status": "published_2026",
+        "label": "22 de noviembre, 28 y 30 de diciembre de 2026. Cada vez de 14:00 a 16:00.",
+        "sessions": [
+          [
+            "2026-11-22",
+            "2026-11-22"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-28"
+          ],
+          [
+            "2026-12-30",
+            "2026-12-30"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "air-2026-11-22",
+            "start": "2026-11-22",
+            "end": "2026-11-22",
+            "label": "Air Ball",
+            "place": "TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel",
+            "age": "7–13",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según la ficha. Confirmar plaza y admisión efectiva."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Para las fechas de 2026 la edad es inferior al mínimo de 7 años."
+              }
+            },
+            "source": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Workshops/Workshop%20%20CrunchLabs/Basel%20TechLabs/Workshop.ed.21b4bcdf6d1e_7779254959.BS%20%20CrunchLabs%20Workshop%20%20Ages%207-13%20%202211%20Air%20Ball",
+            "price": "CHF 100 por taller infantil según tarifa publicada.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "open",
+              "label": "La página indica admisión de solicitudes. La plaza efectiva se confirma por separado."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-22",
+                "topic": "Construcción práctica de ingeniería. El participante se lleva su kit oficial CrunchLabs Build Box.",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "air-2026-12-28",
+            "start": "2026-12-28",
+            "end": "2026-12-28",
+            "label": "Air Ball",
+            "place": "TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel",
+            "age": "7–13",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según la ficha. Confirmar plaza y admisión efectiva."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Para las fechas de 2026 la edad es inferior al mínimo de 7 años."
+              }
+            },
+            "source": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Workshops/Workshop%20%20CrunchLabs/Basel%20TechLabs/Workshop.ed.975867656c33_7740136789.BS%20%20CrunchLabs%20Workshop%20%20Ages%207-13%20%202812%20Air%20Ball",
+            "price": "CHF 100 por taller infantil según tarifa publicada.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "open",
+              "label": "La página indica admisión de solicitudes. La plaza efectiva se confirma por separado."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "topic": "Construcción práctica de ingeniería. El participante se lleva su kit oficial CrunchLabs Build Box.",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "air-2026-12-30",
+            "start": "2026-12-30",
+            "end": "2026-12-30",
+            "label": "Air Ball",
+            "place": "TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel",
+            "age": "7–13",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según la ficha. Confirmar plaza y admisión efectiva."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Para las fechas de 2026 la edad es inferior al mínimo de 7 años."
+              }
+            },
+            "source": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Workshops/Workshop%20%20CrunchLabs/Basel%20TechLabs/Workshop.ed.dc3bd5299e9a_7846658575.BS%20%20CrunchLabs%20Workshop%20%20Ages%207-13%20%203012%20Air%20Ball",
+            "price": "CHF 100 por taller infantil según tarifa publicada.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "open",
+              "label": "La página indica admisión de solicitudes. La plaza efectiva se confirma por separado."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-30",
+                "topic": "Construcción práctica de ingeniería. El participante se lleva su kit oficial CrunchLabs Build Box.",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CHF",
+        "amount": 100,
+        "unit": "programme",
+        "label": "CHF 100 por taller infantil según tarifa publicada.",
+        "included": "Construcción práctica de ingeniería. El participante se lleva su kit oficial CrunchLabs Build Box.",
+        "extras": "No se publica el precio de la opción concreta.",
+        "deposit": "Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse."
+      },
+      "accommodation": "Taller diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Edad adecuada según la ficha. Confirmar plaza y admisión efectiva."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Para las fechas de 2026 la edad es inferior al mínimo de 7 años."
+        }
+      },
+      "editorial_reason": "Condiciones publicadas por el organizador. Precio y plaza se comprueban por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse."
+      ],
+      "sources": [
+        {
+          "url": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Workshops/Workshop%20%20CrunchLabs/Basel%20TechLabs/Workshop.ed.21b4bcdf6d1e_7779254959.BS%20%20CrunchLabs%20Workshop%20%20Ages%207-13%20%202211%20Air%20Ball",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Workshops/Workshop%20%20CrunchLabs/Basel%20TechLabs/Workshop.ed.975867656c33_7740136789.BS%20%20CrunchLabs%20Workshop%20%20Ages%207-13%20%202812%20Air%20Ball",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Workshops/Workshop%20%20CrunchLabs/Basel%20TechLabs/Workshop.ed.dc3bd5299e9a_7846658575.BS%20%20CrunchLabs%20Workshop%20%20Ages%207-13%20%203012%20Air%20Ball",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.techlabs.ch/terms-and-conditions",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "open",
+        "label": "La página indica admisión de solicitudes. La plaza efectiva se confirma por separado."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-22",
+          "end": "2026-11-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1762-20261122-20261122"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-28",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1762-20261228-20261228"
+          ]
+        },
+        {
+          "start": "2026-12-30",
+          "end": "2026-12-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1762-20261230-20261230"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1763",
+      "slug": "techlabs-basel-crunchlabs-bubble",
+      "provider": "TechLabs Basel · CrunchLabs Bubble Factory",
+      "country": "Suiza",
+      "iso": "CHE",
+      "place": "TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel",
+      "age": "7–11",
+      "themes": [
+        "makers",
+        "technology",
+        "science"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "El organizador indica explícitamente inglés y alemán como idiomas de enseñanza.",
+      "confirmed_instruction_languages": [
+        "EN",
+        "DE"
+      ],
+      "programme": "Construcción práctica de ingeniería. El participante se lleva su kit oficial CrunchLabs Build Box.",
+      "timing": {
+        "status": "published_2026",
+        "label": "29 de diciembre de 2026, 14:00–16:00. Desde 7 años.",
+        "sessions": [
+          [
+            "2026-12-29",
+            "2026-12-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "bubble",
+            "start": "2026-12-29",
+            "end": "2026-12-29",
+            "label": "Bubble Factory",
+            "place": "TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel",
+            "age": "7–11",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según la ficha. Confirmar plaza y admisión efectiva."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Para las fechas de 2026 la edad es inferior al mínimo de 7 años."
+              }
+            },
+            "source": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Workshops/Workshop%20%20CrunchLabs/Basel%20TechLabs/Workshop.ed.3ffa1867fa3a_7805829619.BS%20%20CrunchLabs%20Workshop%20%20Ages%207-11%20%202912%20Bubble%20Factory",
+            "price": "CHF 100 por taller infantil según tarifa publicada.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "open",
+              "label": "La página indica admisión de solicitudes. La plaza efectiva se confirma por separado."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-29",
+                "topic": "Construcción práctica de ingeniería. El participante se lleva su kit oficial CrunchLabs Build Box.",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CHF",
+        "amount": 100,
+        "unit": "programme",
+        "label": "CHF 100 por taller infantil según tarifa publicada.",
+        "included": "Construcción práctica de ingeniería. El participante se lleva su kit oficial CrunchLabs Build Box.",
+        "extras": "No se publica el precio de la opción concreta.",
+        "deposit": "Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse."
+      },
+      "accommodation": "Taller diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Edad adecuada según la ficha. Confirmar plaza y admisión efectiva."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Para las fechas de 2026 la edad es inferior al mínimo de 7 años."
+        }
+      },
+      "editorial_reason": "Condiciones publicadas por el organizador. Precio y plaza se comprueban por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse."
+      ],
+      "sources": [
+        {
+          "url": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Workshops/Workshop%20%20CrunchLabs/Basel%20TechLabs/Workshop.ed.3ffa1867fa3a_7805829619.BS%20%20CrunchLabs%20Workshop%20%20Ages%207-11%20%202912%20Bubble%20Factory",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.techlabs.ch/terms-and-conditions",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "open",
+        "label": "La página indica admisión de solicitudes. La plaza efectiva se confirma por separado."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-29",
+          "end": "2026-12-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1763-20261229-20261229"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1764",
+      "slug": "techlabs-basel-crunchlabs-spring-2027",
+      "provider": "TechLabs Basel · Build. Hack. Engineer",
+      "country": "Suiza",
+      "iso": "CHE",
+      "place": "TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel",
+      "age": "7–13",
+      "themes": [
+        "makers",
+        "technology",
+        "science"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "El organizador indica explícitamente inglés y alemán como idiomas de enseñanza.",
+      "confirmed_instruction_languages": [
+        "EN",
+        "DE"
+      ],
+      "programme": "Cuatro días de retos de ingeniería, experimentos y trabajo en equipo. Las tarifas indican 4 Build Boxes para llevar.",
+      "timing": {
+        "status": "published_2027",
+        "label": "22–25 de marzo y 30 de marzo–2 de abril de 2027. La página muestra 4 días por turno, aunque el texto general habla de una semana completa.",
+        "sessions": [
+          [
+            "2027-03-22",
+            "2027-03-25"
+          ],
+          [
+            "2027-03-22",
+            "2027-03-25"
+          ],
+          [
+            "2027-03-30",
+            "2027-04-02"
+          ],
+          [
+            "2027-03-30",
+            "2027-04-02"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "am-2027-03-22",
+            "start": "2027-03-22",
+            "end": "2027-03-25",
+            "label": "Mañana · 09:00–12:30",
+            "place": "TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel",
+            "age": "7–13",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según la ficha. Confirmar plaza y admisión efectiva."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Condicional si cumple 7 años al inicio del turno. Confirmar la regla de la fecha elegida."
+              }
+            },
+            "source": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Basel%20%20TechLabs%20ELYS/Camp.ed.02e494414911_7419787039.BS%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20March%2022-25",
+            "price": "CHF 596 por 4 mañanas.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "open",
+              "label": "La página indica admisión de solicitudes. La plaza efectiva se confirma por separado."
+            },
+            "sessions": [
+              {
+                "date": "2027-03-22",
+                "topic": "Cuatro días de retos de ingeniería, experimentos y trabajo en equipo. Las tarifas indican 4 Build Boxes para llevar.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-23",
+                "topic": "Cuatro días de retos de ingeniería, experimentos y trabajo en equipo. Las tarifas indican 4 Build Boxes para llevar.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-24",
+                "topic": "Cuatro días de retos de ingeniería, experimentos y trabajo en equipo. Las tarifas indican 4 Build Boxes para llevar.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-25",
+                "topic": "Cuatro días de retos de ingeniería, experimentos y trabajo en equipo. Las tarifas indican 4 Build Boxes para llevar.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "full-2027-03-22",
+            "start": "2027-03-22",
+            "end": "2027-03-25",
+            "label": "Día completo · 09:00–17:00",
+            "place": "TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel",
+            "age": "7–13",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según la ficha. Confirmar plaza y admisión efectiva."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Condicional si cumple 7 años al inicio del turno. Confirmar la regla de la fecha elegida."
+              }
+            },
+            "source": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Basel%20%20TechLabs%20ELYS/Camp.ed.02e494414911_7419787039.BS%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20March%2022-25",
+            "price": "CHF 887.20 por 4 días completos.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "open",
+              "label": "La página indica admisión de solicitudes. La plaza efectiva se confirma por separado."
+            },
+            "sessions": [
+              {
+                "date": "2027-03-22",
+                "topic": "Cuatro días de retos de ingeniería, experimentos y trabajo en equipo. Las tarifas indican 4 Build Boxes para llevar.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-23",
+                "topic": "Cuatro días de retos de ingeniería, experimentos y trabajo en equipo. Las tarifas indican 4 Build Boxes para llevar.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-24",
+                "topic": "Cuatro días de retos de ingeniería, experimentos y trabajo en equipo. Las tarifas indican 4 Build Boxes para llevar.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-25",
+                "topic": "Cuatro días de retos de ingeniería, experimentos y trabajo en equipo. Las tarifas indican 4 Build Boxes para llevar.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "am-2027-03-30",
+            "start": "2027-03-30",
+            "end": "2027-04-02",
+            "label": "Mañana · 09:00–12:30",
+            "place": "TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel",
+            "age": "7–13",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según la ficha. Confirmar plaza y admisión efectiva."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Condicional si cumple 7 años al inicio del turno. Confirmar la regla de la fecha elegida."
+              }
+            },
+            "source": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Basel%20%20TechLabs%20ELYS/Camp.ed.18ed03a8d11c_7756487305.BS%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20March%2030-Apr%202",
+            "price": "CHF 596 por 4 mañanas.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "open",
+              "label": "La página indica admisión de solicitudes. La plaza efectiva se confirma por separado."
+            },
+            "sessions": [
+              {
+                "date": "2027-03-30",
+                "topic": "Cuatro días de retos de ingeniería, experimentos y trabajo en equipo. Las tarifas indican 4 Build Boxes para llevar.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-31",
+                "topic": "Cuatro días de retos de ingeniería, experimentos y trabajo en equipo. Las tarifas indican 4 Build Boxes para llevar.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-04-01",
+                "topic": "Cuatro días de retos de ingeniería, experimentos y trabajo en equipo. Las tarifas indican 4 Build Boxes para llevar.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-04-02",
+                "topic": "Cuatro días de retos de ingeniería, experimentos y trabajo en equipo. Las tarifas indican 4 Build Boxes para llevar.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "full-2027-03-30",
+            "start": "2027-03-30",
+            "end": "2027-04-02",
+            "label": "Día completo · 09:00–17:00",
+            "place": "TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel",
+            "age": "7–13",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según la ficha. Confirmar plaza y admisión efectiva."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Condicional si cumple 7 años al inicio del turno. Confirmar la regla de la fecha elegida."
+              }
+            },
+            "source": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Basel%20%20TechLabs%20ELYS/Camp.ed.18ed03a8d11c_7756487305.BS%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20March%2030-Apr%202",
+            "price": "CHF 887.20 por 4 días completos.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "open",
+              "label": "La página indica admisión de solicitudes. La plaza efectiva se confirma por separado."
+            },
+            "sessions": [
+              {
+                "date": "2027-03-30",
+                "topic": "Cuatro días de retos de ingeniería, experimentos y trabajo en equipo. Las tarifas indican 4 Build Boxes para llevar.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-31",
+                "topic": "Cuatro días de retos de ingeniería, experimentos y trabajo en equipo. Las tarifas indican 4 Build Boxes para llevar.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-04-01",
+                "topic": "Cuatro días de retos de ingeniería, experimentos y trabajo en equipo. Las tarifas indican 4 Build Boxes para llevar.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-04-02",
+                "topic": "Cuatro días de retos de ingeniería, experimentos y trabajo en equipo. Las tarifas indican 4 Build Boxes para llevar.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "CHF",
+        "amount": null,
+        "unit": "programme",
+        "label": "CHF 596 por 4 mañanas y CHF 887.20 por 4 días completos. Opción de horario personalizado CHF 1 000. Confirmar aparte cómo se aplica el depósito.",
+        "included": "Cuatro días de retos de ingeniería, experimentos y trabajo en equipo. Las tarifas indican 4 Build Boxes para llevar.",
+        "extras": "No se publica el precio de la opción concreta.",
+        "deposit": "Las fichas de los turnos indican un depósito de CHF 350 no reembolsable al cancelar. La política general indica un depósito del 50%. Antes de pagar, confirmar condición aplicable, imputación a la tarifa y devolución."
+      },
+      "accommodation": "Taller diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Edad adecuada según la ficha. Confirmar plaza y admisión efectiva."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional si cumple 7 años al inicio del turno. Confirmar la regla de la fecha elegida."
+        }
+      },
+      "editorial_reason": "Condiciones publicadas por el organizador. Precio y plaza se comprueban por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse."
+      ],
+      "sources": [
+        {
+          "url": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Basel%20%20TechLabs%20ELYS/Camp.ed.02e494414911_7419787039.BS%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20March%2022-25",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Basel%20%20TechLabs%20ELYS/Camp.ed.18ed03a8d11c_7756487305.BS%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20March%2030-Apr%202",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.techlabs.ch/terms-and-conditions",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "open",
+        "label": "La página indica admisión de solicitudes. La plaza efectiva se confirma por separado."
+      },
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-03-22",
+          "end": "2027-03-25",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1764-20270322-20270325-am-2027-03-22"
+          ]
+        },
+        {
+          "start": "2027-03-22",
+          "end": "2027-03-25",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1764-20270322-20270325-full-2027-03-22"
+          ]
+        },
+        {
+          "start": "2027-03-30",
+          "end": "2027-04-02",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1764-20270330-20270402-am-2027-03-30"
+          ]
+        },
+        {
+          "start": "2027-03-30",
+          "end": "2027-04-02",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1764-20270330-20270402-full-2027-03-30"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1765",
+      "slug": "spark-science-rotkreuz-christmas-2026",
+      "provider": "Spark Science · Christmas Camp",
+      "country": "Suiza",
+      "iso": "CHE",
+      "place": "Suurstoffi 41c · Risch-Rotkreuz",
+      "age": "5–11",
+      "themes": [
+        "makers",
+        "technology",
+        "science"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "La política general confirma clases en inglés. Muchos miembros del equipo también hablan alemán.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "Experimentos, retos de ingeniería y juegos en equipo. Llevar almuerzo.",
+      "timing": {
+        "status": "partial_2026",
+        "label": "Ambas fichas muestran el periodo del 18 de diciembre de 2026 a las 09:30 al 21 de diciembre a las 16:00. Venta no disponible. Confirmar días incluidos e inscripción.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "season_window"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CHF",
+        "amount": null,
+        "unit": "programme",
+        "label": "No se publica el precio de la opción concreta.",
+        "included": "Experimentos, retos de ingeniería y juegos en equipo. Llevar almuerzo.",
+        "extras": "No se publica el precio de la opción concreta.",
+        "deposit": "Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse."
+      },
+      "accommodation": "Taller diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Edad adecuada según la ficha. Confirmar plaza y admisión efectiva."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Edad adecuada según la ficha. Confirmar plaza y admisión efectiva."
+        }
+      },
+      "editorial_reason": "Condiciones publicadas por el organizador. Precio y plaza se comprueban por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sparkscience.ch/event-details/christmas-camp-2026-12-18-09-30",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.sparkscience.ch/event-details/christmas-camp-2026-12-21-09-30",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.sparkscience.ch/camps",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unavailable_online",
+        "label": "La venta de entradas no está disponible en la página pública."
+      },
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "confirmed_support_languages": [
+        "DE"
+      ],
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1766",
+      "slug": "idtech-battlebots-creator-2027",
+      "provider": "iD Tech · BattleBots Creator Camp",
+      "country": "Estados Unidos",
+      "iso": "USA",
+      "place": "Elegir campus en el catálogo del organizador",
+      "age": "7–9",
+      "themes": [
+        "robotics",
+        "coding",
+        "makers",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Se indica inglés como idioma de enseñanza.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "Creación de un personaje robot, diseño, programación, pruebas y combate formativo al estilo BattleBots.",
+      "timing": {
+        "status": "partial_2027",
+        "label": "La apertura general para verano de 2027 se anunció para el 8 de noviembre de 2026. Confirmar semanas, precios y plazas del campus elegido.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "season_window"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "USD",
+        "amount": null,
+        "unit": "programme",
+        "label": "No se publica el precio de la opción concreta.",
+        "included": "Creación de un personaje robot, diseño, programación, pruebas y combate formativo al estilo BattleBots.",
+        "extras": "No se publica el precio de la opción concreta.",
+        "deposit": "Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse."
+      },
+      "accommodation": "Taller diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Confirmar campus elegido, edad máxima y plaza."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "La edad mínima general de 7 años se comprueba al 31 de diciembre del año del curso. Algunos cursos son más estrictos. Confirmar edad para el turno elegido."
+        }
+      },
+      "editorial_reason": "Condiciones publicadas por el organizador. Precio y plaza se comprueban por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse."
+      ],
+      "sources": [
+        {
+          "url": "https://www.idtech.com/courses/battlebots-creator-camp-invent-battle-and-take-home",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.idtech.com/Summer-Camps",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://idtechcamps.zohodesk.com/portal/en/kb/articles/can-you-make-an-age-exception",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://idtechcamps.zohodesk.com/portal/en/kb/articles/do-you-accept-international-students",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "not_open_yet",
+        "label": "Se publicó la apertura general. Aún no se confirman turno concreto ni plazas."
+      },
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": []
     }
   ],
   "gaps": [
@@ -300951,7 +302114,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 228,
+  "version": 229,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -314186,7 +315349,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1759,
+      "total_dossiers": 1766,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -333566,6 +334729,56 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP1760",
+      "event_id": "CP1760-20261122-20261122",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1761",
+      "event_id": "CP1761-20261122-20261122",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1762",
+      "event_id": "CP1762-20261122-20261122",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1762",
+      "event_id": "CP1762-20261228-20261228",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1762",
+      "event_id": "CP1762-20261230-20261230",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1763",
+      "event_id": "CP1763-20261229-20261229",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1764",
+      "event_id": "CP1764-20270322-20270325-am-2027-03-22",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1764",
+      "event_id": "CP1764-20270322-20270325-full-2027-03-22",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1764",
+      "event_id": "CP1764-20270330-20270402-am-2027-03-30",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1764",
+      "event_id": "CP1764-20270330-20270402-full-2027-03-30",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -337686,10 +338899,20 @@
     "CP1754-20270126-20270126-day-2027-01-26",
     "CP1754-20270127-20270127-day-2027-01-27",
     "CP1754-20270128-20270128-day-2027-01-28",
-    "CP1754-20270129-20270129-day-2027-01-29"
+    "CP1754-20270129-20270129-day-2027-01-29",
+    "CP1760-20261122-20261122",
+    "CP1761-20261122-20261122",
+    "CP1762-20261122-20261122",
+    "CP1762-20261228-20261228",
+    "CP1762-20261230-20261230",
+    "CP1763-20261229-20261229",
+    "CP1764-20270322-20270325-am-2027-03-22",
+    "CP1764-20270322-20270325-full-2027-03-22",
+    "CP1764-20270330-20270402-am-2027-03-30",
+    "CP1764-20270330-20270402-full-2027-03-30"
   ],
   "integration": {
-    "generated_sessions": 3690,
+    "generated_sessions": 3700,
     "reused_legacy_events": 69,
     "seasonal_windows": 70,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

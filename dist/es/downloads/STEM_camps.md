@@ -68342,6 +68342,166 @@ Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e
 Fuente: https://form.jotform.com/hamiltonnorth/hp-rototuna-week2
 Se ha comprobado: 2026-11-07
 
+### CP1760-20261122-20261122 · TechLabs Zürich · CrunchLabs Repeating XBow · Repeating XBow · 2026-11-22–2026-11-22
+
+lugar: Suiza · TechLabs Zürich · Hohlstrasse 201 · 8004 Zürich
+Fecha: 2026-11-22 — 2026-11-22
+Edad: 7–13
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: El organizador indica explícitamente inglés y alemán como idiomas de enseñanza.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · CHF 100 por taller infantil según tarifa publicada. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según la ficha. Confirmar plaza y admisión efectiva. Oscar: Para las fechas de 2026 la edad es inferior al mínimo de 7 años. Suplementos: No se publica el precio de la opción concreta. Pago: Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse.
+Fuente: https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Workshops/Workshop%20%20CrunchLabs/Zurich%20%20TechLabs/Workshop.ed.9e9f44508f00_7738385431.ZH%20%20CrunchLabs%20Workshop%20%20Ages%207-13%20%202211%20Repeating%20XBow
+Se ha comprobado: 2026-11-07
+
+### CP1761-20261122-20261122 · TechLabs Zürich · CrunchLabs Bubble Factory · Bubble Factory · 2026-11-22–2026-11-22
+
+lugar: Suiza · TechLabs Zürich · Hohlstrasse 201 · 8004 Zürich
+Fecha: 2026-11-22 — 2026-11-22
+edad: 4–6 años con adulto
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador indica explícitamente inglés y alemán como idiomas de enseñanza.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · Tarifa de CHF 100 en la ficha. Condiciones y posible cargo separado por el adulto acompañante sin confirmar. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Por encima del máximo de 6 años para este taller. Oscar: Condicional. Edad adecuada. Es obligatoria la presencia de un adulto en el taller. Suplementos: Tarifa de CHF 100 en la ficha. Condiciones y posible cargo separado por el adulto acompañante sin confirmar. Pago: Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse.
+Fuente: https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Workshops/Workshop%20%20CrunchLabs/Zurich%20%20TechLabs/Workshop.ed.58dd1a541b26_7738405717.ZH%20%20CrunchLabs%20Workshop%20%20Ages%204-6%20%20Adult%20%202211%20Bubble%20Factory
+Se ha comprobado: 2026-11-07
+
+### CP1762-20261122-20261122 · TechLabs Basel · CrunchLabs Air Ball · Air Ball · 2026-11-22–2026-11-22
+
+lugar: Suiza · TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel
+Fecha: 2026-11-22 — 2026-11-22
+Edad: 7–13
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: El organizador indica explícitamente inglés y alemán como idiomas de enseñanza.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · CHF 100 por taller infantil según tarifa publicada. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según la ficha. Confirmar plaza y admisión efectiva. Oscar: Para las fechas de 2026 la edad es inferior al mínimo de 7 años. Suplementos: No se publica el precio de la opción concreta. Pago: Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse.
+Fuente: https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Workshops/Workshop%20%20CrunchLabs/Basel%20TechLabs/Workshop.ed.21b4bcdf6d1e_7779254959.BS%20%20CrunchLabs%20Workshop%20%20Ages%207-13%20%202211%20Air%20Ball
+Se ha comprobado: 2026-11-07
+
+### CP1762-20261228-20261228 · TechLabs Basel · CrunchLabs Air Ball · Air Ball · 2026-12-28–2026-12-28
+
+lugar: Suiza · TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel
+Fecha: 2026-12-28 — 2026-12-28
+Edad: 7–13
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: El organizador indica explícitamente inglés y alemán como idiomas de enseñanza.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · CHF 100 por taller infantil según tarifa publicada. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según la ficha. Confirmar plaza y admisión efectiva. Oscar: Para las fechas de 2026 la edad es inferior al mínimo de 7 años. Suplementos: No se publica el precio de la opción concreta. Pago: Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse.
+Fuente: https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Workshops/Workshop%20%20CrunchLabs/Basel%20TechLabs/Workshop.ed.975867656c33_7740136789.BS%20%20CrunchLabs%20Workshop%20%20Ages%207-13%20%202812%20Air%20Ball
+Se ha comprobado: 2026-11-07
+
+### CP1762-20261230-20261230 · TechLabs Basel · CrunchLabs Air Ball · Air Ball · 2026-12-30–2026-12-30
+
+lugar: Suiza · TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel
+Fecha: 2026-12-30 — 2026-12-30
+Edad: 7–13
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: El organizador indica explícitamente inglés y alemán como idiomas de enseñanza.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · CHF 100 por taller infantil según tarifa publicada. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según la ficha. Confirmar plaza y admisión efectiva. Oscar: Para las fechas de 2026 la edad es inferior al mínimo de 7 años. Suplementos: No se publica el precio de la opción concreta. Pago: Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse.
+Fuente: https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Workshops/Workshop%20%20CrunchLabs/Basel%20TechLabs/Workshop.ed.dc3bd5299e9a_7846658575.BS%20%20CrunchLabs%20Workshop%20%20Ages%207-13%20%203012%20Air%20Ball
+Se ha comprobado: 2026-11-07
+
+### CP1763-20261229-20261229 · TechLabs Basel · CrunchLabs Bubble Factory · Bubble Factory · 2026-12-29–2026-12-29
+
+lugar: Suiza · TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel
+Fecha: 2026-12-29 — 2026-12-29
+Edad: 7–11
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: El organizador indica explícitamente inglés y alemán como idiomas de enseñanza.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · CHF 100 por taller infantil según tarifa publicada. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según la ficha. Confirmar plaza y admisión efectiva. Oscar: Para las fechas de 2026 la edad es inferior al mínimo de 7 años. Suplementos: No se publica el precio de la opción concreta. Pago: Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse.
+Fuente: https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Workshops/Workshop%20%20CrunchLabs/Basel%20TechLabs/Workshop.ed.3ffa1867fa3a_7805829619.BS%20%20CrunchLabs%20Workshop%20%20Ages%207-11%20%202912%20Bubble%20Factory
+Se ha comprobado: 2026-11-07
+
+### CP1764-20270322-20270325-am-2027-03-22 · TechLabs Basel · Build. Hack. Engineer · Mañana · 09:00–12:30 · 2027-03-22–2027-03-25
+
+lugar: Suiza · TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel
+Fecha: 2027-03-22 — 2027-03-25
+Edad: 7–13
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El organizador indica explícitamente inglés y alemán como idiomas de enseñanza.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · CHF 596 por 4 mañanas. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según la ficha. Confirmar plaza y admisión efectiva. Oscar: Condicional si cumple 7 años al inicio del turno. Confirmar la regla de la fecha elegida. Suplementos: No se publica el precio de la opción concreta. Pago: Las fichas de los turnos indican un depósito de CHF 350 no reembolsable al cancelar. La política general indica un depósito del 50%. Antes de pagar, confirmar condición aplicable, imputación a la tarifa y devolución.
+Fuente: https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Basel%20%20TechLabs%20ELYS/Camp.ed.02e494414911_7419787039.BS%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20March%2022-25
+Se ha comprobado: 2026-11-07
+
+### CP1764-20270322-20270325-full-2027-03-22 · TechLabs Basel · Build. Hack. Engineer · Día completo · 09:00–17:00 · 2027-03-22–2027-03-25
+
+lugar: Suiza · TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel
+Fecha: 2027-03-22 — 2027-03-25
+Edad: 7–13
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El organizador indica explícitamente inglés y alemán como idiomas de enseñanza.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · CHF 887.20 por 4 días completos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según la ficha. Confirmar plaza y admisión efectiva. Oscar: Condicional si cumple 7 años al inicio del turno. Confirmar la regla de la fecha elegida. Suplementos: No se publica el precio de la opción concreta. Pago: Las fichas de los turnos indican un depósito de CHF 350 no reembolsable al cancelar. La política general indica un depósito del 50%. Antes de pagar, confirmar condición aplicable, imputación a la tarifa y devolución.
+Fuente: https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Basel%20%20TechLabs%20ELYS/Camp.ed.02e494414911_7419787039.BS%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20March%2022-25
+Se ha comprobado: 2026-11-07
+
+### CP1764-20270330-20270402-am-2027-03-30 · TechLabs Basel · Build. Hack. Engineer · Mañana · 09:00–12:30 · 2027-03-30–2027-04-02
+
+lugar: Suiza · TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel
+Fecha: 2027-03-30 - 2027-04-02
+Edad: 7–13
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El organizador indica explícitamente inglés y alemán como idiomas de enseñanza.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · CHF 596 por 4 mañanas. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según la ficha. Confirmar plaza y admisión efectiva. Oscar: Condicional si cumple 7 años al inicio del turno. Confirmar la regla de la fecha elegida. Suplementos: No se publica el precio de la opción concreta. Pago: Las fichas de los turnos indican un depósito de CHF 350 no reembolsable al cancelar. La política general indica un depósito del 50%. Antes de pagar, confirmar condición aplicable, imputación a la tarifa y devolución.
+Fuente: https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Basel%20%20TechLabs%20ELYS/Camp.ed.18ed03a8d11c_7756487305.BS%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20March%2030-Apr%202
+Se ha comprobado: 2026-11-07
+
+### CP1764-20270330-20270402-full-2027-03-30 · TechLabs Basel · Build. Hack. Engineer · Día completo · 09:00–17:00 · 2027-03-30–2027-04-02
+
+lugar: Suiza · TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel
+Fecha: 2027-03-30 - 2027-04-02
+Edad: 7–13
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El organizador indica explícitamente inglés y alemán como idiomas de enseñanza.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · CHF 887.20 por 4 días completos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según la ficha. Confirmar plaza y admisión efectiva. Oscar: Condicional si cumple 7 años al inicio del turno. Confirmar la regla de la fecha elegida. Suplementos: No se publica el precio de la opción concreta. Pago: Las fichas de los turnos indican un depósito de CHF 350 no reembolsable al cancelar. La política general indica un depósito del 50%. Antes de pagar, confirmar condición aplicable, imputación a la tarifa y devolución.
+Fuente: https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Basel%20%20TechLabs%20ELYS/Camp.ed.18ed03a8d11c_7756487305.BS%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20March%2030-Apr%202
+Se ha comprobado: 2026-11-07
+
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
 
 lugar: Letonia · EIS Campus · Piņķi

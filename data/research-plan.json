@@ -870,13 +870,13 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 228,
+    "version": 229,
     "status": "implementation_snapshot",
-    "events": 8041,
-    "competitions": 3302,
+    "events": 8056,
+    "competitions": 3303,
     "league_profiles": 274,
-    "camp_dossiers": 1759,
-    "budget_offers": 275,
+    "camp_dossiers": 1766,
+    "budget_offers": 276,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
     "worldwide_complete": false,
@@ -926,12 +926,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 227,
+    "version": 228,
     "status": "implementation_snapshot",
-    "events": 8027,
-    "competitions": 3294,
-    "league_profiles": 273,
-    "camp_dossiers": 1754,
+    "events": 8041,
+    "competitions": 3302,
+    "league_profiles": 274,
+    "camp_dossiers": 1759,
     "budget_offers": 275,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -20807,11 +20807,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 227,
-    "published_version": 227,
-    "latest_source_commit": "66822d2f4766ee7e1f112ed6e6b2f77b02368eda",
-    "published_commit": "66822d2f4766ee7e1f112ed6e6b2f77b02368eda",
-    "latest_workflow": 42393236432,
+    "latest_source_version": 228,
+    "published_version": 228,
+    "latest_source_commit": "c0ba63ebaf45dc9cfc011d69e9451fe6087c27ab",
+    "published_commit": "c0ba63ebaf45dc9cfc011d69e9451fe6087c27ab",
+    "latest_workflow": 42394763978,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -22918,5 +22918,54 @@
     ],
     "audit": "data/caribbean-family-routes-audit-v228.json",
     "source_receipts": "data/caribbean-family-routes-source-receipts-v228.json"
+  },
+  "swiss_english_family_v229": {
+    "version": 229,
+    "checked": "2026-11-07",
+    "previous_goal_turn_classification": "progress",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_competitions": 1,
+    "new_exhibitions": 4,
+    "new_dated_camp_variants": 10,
+    "new_leagues": 0,
+    "new_camp_dossiers": 7,
+    "new_budget_offers": 1,
+    "source_requests": 43,
+    "new_events": [
+      "E393",
+      "E394",
+      "E395",
+      "C3304",
+      "E396"
+    ],
+    "clusters": {
+      "geneva": "E393",
+      "cadro": "E394",
+      "leukerbad": "E395",
+      "hackathon": "C3304",
+      "eth": "E396"
+    },
+    "programme_ids": {
+      "techlabs-zurich-crunchlabs-xbow": "CP1760",
+      "techlabs-zurich-crunchlabs-bubble": "CP1761",
+      "techlabs-basel-crunchlabs-air": "CP1762",
+      "techlabs-basel-crunchlabs-bubble": "CP1763",
+      "techlabs-basel-crunchlabs-spring-2027": "CP1764",
+      "spark-science-rotkreuz-christmas-2026": "CP1765",
+      "idtech-battlebots-creator-2027": "CP1766"
+    },
+    "limits": [
+      "Zürich booking pages show two sequential two-hour workshops on 22 November at Hohlstrasse 201, CHF 100 each, EN and DE. The youngest group needs an adult. The adult fee and actual places are unconfirmed; two child tariffs sum to CHF 200.",
+      "Basel four individual workshops have separate dates, age 7–13 or 7–11, CHF 100 and EN/DE. The published booking buttons do not establish accepted enrollment.",
+      "Basel spring booking pages show exactly four days per block and both time options. The full-week boilerplate differs. CHF 350 special deposit versus the general 50% policy remains explicit; no double charge inferred.",
+      "Spark Christmas public pages show one aggregate window and no ticket sale. English is sourced to the programme policy. No exact attendance dates or budget are asserted. iD Tech Creator is distinct from existing Junior BattleBots, with 7–9 course age and general 31 December minimum-date rule. Booking opens 8 November; campus-specific inventory is pending.",
+      "EPFL Thymio booth activities are free, separate from Palexpo admission; standard children 0–13 free, adults CHF 15, all free with online registration on 10 November.",
+      "Cadro venue programme overrides varying tourism start dates. Swiss USI programme and tariffs were readable in the web reader while curl returned HTTP 403. Store only receipts and paraphrased checked facts. The event calendar is a weekend exhibition window with closures, not a set of daily timed appointments.",
+      "Leukerbad festival and hackathon are distinct. Public registration metadata displays free tickets; specific child entry and competition eligibility remain unconfirmed. ETH Open Lab is a student-oriented event with child access pending.",
+      "Existing Helvetic Zug/Zürich and earlier Swiss TechLabs, iD Tech and Swiss Robotics Day cards kept their stable identities; repeat sightings are not counted as new fixtures."
+    ],
+    "audit": "data/swiss-english-family-audit-v229.json",
+    "source_receipts": "data/swiss-english-family-source-receipts-v229.json"
   }
 }

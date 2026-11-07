@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 8041; соревнований: 3302; событий: 392; лагерей / программ: 4347. Профилей лиг и программ: 274. Карточек крупных и профильных выставок: 304 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 8056; соревнований: 3303; событий: 396; лагерей / программ: 4357. Профилей лиг и программ: 274. Карточек крупных и профильных выставок: 308 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 161 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -16,14 +16,14 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 |---|---:|---:|---:|---:|
 | Северная Америка | 24 | 1458 | 58 | 1077 |
 | Южная Америка | 11 | 222 | 21 | 142 |
-| Европа | 42 | 434 | 82 | 1327 |
+| Европа | 42 | 435 | 86 | 1337 |
 | Африка | 34 | 133 | 21 | 70 |
 | Азия | 44 | 825 | 96 | 1550 |
 | Океания | 6 | 129 | 24 | 168 |
 
 Межрегиональные / глобальные карточки, не приписанные одному континенту: 121. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
 
-VEX: 518 из 3302 карточек соревнований (15.7%). Это явный перекос охвата.
+VEX: 518 из 3303 карточек соревнований (15.7%). Это явный перекос охвата.
 
 ## Что осталось
 
@@ -646,6 +646,10 @@ VEX: 518 из 3302 карточек соревнований (15.7%). Это я�
 - **STEM Carib 2026 · Friday STEM Fun Afternoon** — Кайман острова; 2026-11-13. Со взрослым; условия взрослого входа отдельно. https://ucci.edu.ky/events/stem-carib-2026-conference-fun-afternoon
 - **STEM Carib 2026 · Student Breakout Sessions** — Кайман острова; 2026-11-11 – 2026-11-13. Детский допуск уточнить. https://ucci.edu.ky/stem-carib-conference
 - **Caribbean STEM Olympiads 2027 · Information Session 4** — Международный онлайн; 2026-11-15. Детский допуск уточнить. https://caribbeanscience.org/cso/
+- **Automnales · Thymio 3 family robotics · Palexpo Genève** — Швейцария; 2026-11-06 – 2026-11-15. Со взрослым; условия взрослого входа отдельно. https://memento.epfl.ch/event/une-aventure-robotique-en-famille-aux-automnales-d/
+- **L’ideatorio USI · Robot. Dagli automi all’intelligenza artificiale** — Швейцария; 2026-09-12 – 2027-06-06. Со взрослым; условия взрослого входа отдельно. https://ideatorio.usi.ch/event/robot-pubblico
+- **Leukerbad Robot Carnival 2026 · Citywide demonstrations** — Швейцария; 2026-11-14 – 2026-11-16. Детский допуск уточнить. https://luma.com/yo2pk18n
+- **ETH Zürich RobotX · Open Lab Day** — Швейцария; 2026-11-27. Детский допуск уточнить. https://robotx.ethz.ch/education/open-lab-27-11-2026.html
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors
