@@ -625,7 +625,35 @@
           "C1742",
           "C1743",
           "C1744",
-          "C1769"
+          "C1769",
+          "C3075",
+          "C3076",
+          "C3077",
+          "C3078",
+          "C3079",
+          "C3080",
+          "C3081",
+          "C3082",
+          "C3083",
+          "C3084",
+          "C3085",
+          "C3086",
+          "C3087",
+          "C3088",
+          "C3089",
+          "C3090",
+          "C3091",
+          "C3092",
+          "C3093",
+          "C3094",
+          "C3095",
+          "C3096",
+          "C3097",
+          "C3098",
+          "C3099",
+          "C3100",
+          "C3101",
+          "C3102"
         ],
         "legacy_ids": [
           "C003",
@@ -24031,6 +24059,120 @@
           }
         ],
         "evidence": "Informe oficial FIRST FY2025, página 41: Robot Éducatif Algérie marcado con punto rojo Challenge; sin verde Explore. Color y leyenda revisados visualmente. Historia de oferta 2025, no calendario 2026/27. Explore menor para Oscar sin confirmar; Matvey de nueve necesita reglas locales actuales y admisión escolar / de club."
+      },
+      {
+        "id": "first-brazil-sesi",
+        "name": "SESI Brasil · FIRST CANOPY / STEM Racing 2026/27",
+        "group": "regional",
+        "age_summary": "FLL Challenge en SESI: 9–15 años. FTC en SESI: 12–18 años.",
+        "age_tags": [
+          "9",
+          "10-12",
+          "teen",
+          "unknown"
+        ],
+        "summary": "Calendario brasileño SESI. Clasificatorias regionales y festival nacional de varias disciplinas.",
+        "categories": [
+          {
+            "name": "FLL Challenge · BIOGLOW",
+            "age": "FLL Challenge en SESI: 9–15 años.",
+            "age_rule": "FLL Challenge en SESI: 9–15 años.",
+            "team": "Equipos escolares y de clubes según condiciones del grupo de la sede.",
+            "hardware": "Grupo, equipamiento y reglas según disciplina elegida.",
+            "entry": "Clasificatoria por equipos. Confirmar registro de colegio o club, fecha de corte y admisión de equipo extranjero."
+          },
+          {
+            "name": "FTC · BIOBUZZ",
+            "age": "FTC en SESI: 12–18 años.",
+            "age_rule": "FTC en SESI: 12–18 años.",
+            "team": "Equipos escolares y de clubes según condiciones del grupo de la sede.",
+            "hardware": "Grupo, equipamiento y reglas según disciplina elegida.",
+            "entry": "Clasificatoria por equipos. Confirmar registro de colegio o club, fecha de corte y admisión de equipo extranjero."
+          },
+          {
+            "name": "FRC · BIOCORE",
+            "age": "FRC en SESI: 14–18 años.",
+            "age_rule": "FRC en SESI: 14–18 años.",
+            "team": "Equipos escolares y de clubes según condiciones del grupo de la sede.",
+            "hardware": "Grupo, equipamiento y reglas según disciplina elegida.",
+            "entry": "Clasificatoria por equipos. Confirmar registro de colegio o club, fecha de corte y admisión de equipo extranjero."
+          },
+          {
+            "name": "STEM Racing",
+            "age": "STEM Racing: programa SESI para sus estudiantes desde 9 años. Confirmar corte y tipo de equipo en la sede.",
+            "age_rule": "STEM Racing: programa SESI para sus estudiantes desde 9 años. Confirmar corte y tipo de equipo en la sede.",
+            "team": "Equipos escolares y de clubes según condiciones del grupo de la sede.",
+            "hardware": "Grupo, equipamiento y reglas según disciplina elegida.",
+            "entry": "Clasificatoria por equipos. Confirmar registro de colegio o club, fecha de corte y admisión de equipo extranjero."
+          }
+        ],
+        "event_ids": [
+          "C3075",
+          "C3076",
+          "C3077",
+          "C3078",
+          "C3079",
+          "C3080",
+          "C3081",
+          "C3082",
+          "C3083",
+          "C3084",
+          "C3085",
+          "C3086",
+          "C3087",
+          "C3088",
+          "C3089",
+          "C3090",
+          "C3091",
+          "C3092",
+          "C3093",
+          "C3094",
+          "C3095",
+          "C3096",
+          "C3097",
+          "C3098",
+          "C3099",
+          "C3100",
+          "C3101",
+          "C3102"
+        ],
+        "legacy_ids": [],
+        "route": "Elegir región y grupo. Confirmar grado, edad, documentos y tipo de equipo admitido. Verificar cupo de la siguiente etapa.",
+        "hardware": "Grupo, equipamiento y reglas según disciplina elegida.",
+        "language": "Confirmar idioma de arbitraje, documentos y apoyo a equipos extranjeros.",
+        "importance": "Solicitud y clasificación regional conducen al festival nacional según condiciones publicadas.",
+        "strengths": "Calendario brasileño SESI. Clasificatorias regionales y festival nacional de varias disciplinas.",
+        "requirements": [
+          "Clasificatoria por equipos. Confirmar registro de colegio o club, fecha de corte y admisión de equipo extranjero."
+        ],
+        "nuances": [
+          "El calendario distingue grupos SESI, escuelas públicas y ONG, escuelas privadas y equipos de garaje. Confirmar reglas de cada grupo."
+        ],
+        "cost": "Confirmar cuota, equipo y viaje con la organización de la categoría elegida.",
+        "award": "Los resultados FIRST pueden clasificar al FIRST Championship según cupos y reglas de la categoría.",
+        "sources": [
+          {
+            "url": "https://www.sesi.portaldaindustria.com.br/para-voce/robotica",
+            "title": "Categorías de edad de SESI",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://noticias.portaldaindustria.com.br/noticias/educacao/confira-o-calendario-de-competicoes-regionais-dos-torneios-sesi-de-robotica/",
+            "title": "Calendario de regiones y final de SESI",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://frc-events.firstinspires.org/2027/BRBA",
+            "title": "Horario e información de la exposición",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://www.sesi.portaldaindustria.com.br/para-voce/robotica/stem-racing",
+            "title": "Categorías de edad de SESI",
+            "checked": "2026-11-07"
+          }
+        ],
+        "evidence": "Cotejados rangos de edad locales y calendario SESI. Admisión de equipo extranjero pendiente de confirmar."
       }
     ],
     "legacy_count": 46,

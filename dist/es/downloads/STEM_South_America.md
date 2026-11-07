@@ -3740,6 +3740,409 @@ Limitaciones: Matvey: Edad superior al rango de este grupo. Oscar: Si al inicio 
 Fuente: https://www.wondercamps.cl/summerearlyyears
 Se ha comprobado: 2026-11-07
 
+### E298 · Brasil Game Show 2027 · public exhibition
+
+Fecha: 2027-10-09 — 2027-10-12
+edad: Menores de 12 años con representante legal. Con otro adulto desde 18 años se exige documento original del menor y autorización notarial del representante legal.
+Matvey: Sí, con padre, madre o representante legal según condiciones de la edición 2027.
+Oscar: Sí, con padre, madre o representante legal según condiciones de la edición 2027.
+Idioma: Confirmar idioma del taller o demostración concretos.
+Acceso: Menores de 12 años con representante legal. Con otro adulto desde 18 años se exige documento original del menor y autorización notarial del representante legal.
+Precio: Entrada reducida de un día de 179 BRL para el 9–10 de octubre o 139 BRL para el 11–12. Una opción de descuento es donar 1 kg de alimento no perecedero. Confirmar documentos y tarifa vigente.
+Limitaciones:
+Fuente: https://www.brasilgameshow.com.br/ingressos/
+Se ha comprobado: 2026-11-07
+
+### E299 · Bett Brasil 2027 · Education Technology
+
+Fecha: 2027-05-04 — 2027-05-07
+edad: Condicional. Confirmar edad de visitante y acompañamiento.
+Matvey: Condicional. Confirmar edad de visitante y acompañamiento.
+Oscar: Condicional. Confirmar edad de visitante y acompañamiento.
+Idioma: Confirmar idioma del taller o demostración concretos.
+Acceso: Feria profesional. Confirmar acceso de menores y condiciones de las demostraciones concretas.
+Precio: Acceso a la zona de exposición gratuito según la organización.
+Limitaciones:
+Fuente: https://brasil.bettshow.com/bett-blog/bett-brasil-abre-inscricoes-para-32%C2%AA-edicao-evento
+Se ha comprobado: 2026-11-07
+
+### E301 · Festival Regional SESI de Robótica · Santa Catarina public programme
+
+Fecha: 2026-12-04 — 2026-12-08
+edad: Sí para visita familiar. Confirmar condiciones del taller elegido.
+Matvey: Sí para visita familiar. Confirmar condiciones del taller elegido.
+Oscar: Sí para visita familiar. Confirmar condiciones del taller elegido.
+Idioma: Confirmar idioma del taller o demostración concretos.
+Acceso: Festival abierto al público. Entrada gratuita. Confirmar obtención de entrada y edad para talleres.
+Precio: Acceso a la zona de exposición gratuito según la organización.
+Limitaciones:
+Fuente: https://fiesc.com.br/pt-br/imprensa/festival-sesi-de-robotica-sera-realizado-em-sao-bento-do-sul-em-dezembro
+Se ha comprobado: 2026-11-07
+
+### C3075 · SESI CANOPY · Recife/PE · FLL, FTC
+
+Fecha: 2026-10-23 — 2026-10-24
+edad: FLL Challenge en SESI: 9–15 años. FTC en SESI: 12–18 años.
+Matvey: Condicional. Confirmar fecha de corte, colegio o club y grupos de la sede.
+Oscar: No por edad. Umbral de FLL Challenge de 9 años.
+Idioma: Confirmar idioma de arbitraje, documentos y apoyo a equipos extranjeros.
+Acceso: Archivo del calendario clasificatorio. Resultados y pruebas realizadas se verifican mediante actas.
+Precio: Confirmar cuota, equipo y viaje con la organización de la categoría elegida.
+Limitaciones: Se conserva el nombre del grupo del calendario. El acceso de colegios, clubes y equipos independientes depende del grupo.
+Fuente: https://noticias.portaldaindustria.com.br/noticias/educacao/confira-o-calendario-de-competicoes-regionais-dos-torneios-sesi-de-robotica/
+Se ha comprobado: 2026-11-07
+
+### C3076 · SESI CANOPY · Porto Alegre/RS · FLL, FTC
+
+Fecha: 2026-11-10 — 2026-11-11
+edad: FLL Challenge en SESI: 9–15 años. FTC en SESI: 12–18 años.
+Matvey: Condicional. Confirmar fecha de corte, colegio o club y grupos de la sede.
+Oscar: No por edad. Umbral de FLL Challenge de 9 años.
+Idioma: Confirmar idioma de arbitraje, documentos y apoyo a equipos extranjeros.
+Acceso: Clasificatoria por equipos. Confirmar registro de colegio o club, fecha de corte y admisión de equipo extranjero.
+Precio: Confirmar cuota, equipo y viaje con la organización de la categoría elegida.
+Limitaciones: Se conserva el nombre del grupo del calendario. El acceso de colegios, clubes y equipos independientes depende del grupo.
+Fuente: https://noticias.portaldaindustria.com.br/noticias/educacao/confira-o-calendario-de-competicoes-regionais-dos-torneios-sesi-de-robotica/
+Se ha comprobado: 2026-11-07
+
+### C3077 · SESI CANOPY · Goiânia/GO · FLL geral
+
+Fecha: 2026-11-11 — 2026-11-12
+edad: FLL Challenge en SESI: 9–15 años.
+Matvey: Condicional. Confirmar fecha de corte, colegio o club y grupos de la sede.
+Oscar: No por edad. Umbral de FLL Challenge de 9 años.
+Idioma: Confirmar idioma de arbitraje, documentos y apoyo a equipos extranjeros.
+Acceso: Clasificatoria por equipos. Confirmar registro de colegio o club, fecha de corte y admisión de equipo extranjero.
+Precio: Confirmar cuota, equipo y viaje con la organización de la categoría elegida.
+Limitaciones: Se conserva el nombre del grupo del calendario. El acceso de colegios, clubes y equipos independientes depende del grupo.
+Fuente: https://noticias.portaldaindustria.com.br/noticias/educacao/confira-o-calendario-de-competicoes-regionais-dos-torneios-sesi-de-robotica/
+Se ha comprobado: 2026-11-07
+
+### C3078 · SESI CANOPY · Goiânia/GO · FLL SESI, FTC
+
+Fecha: 2026-11-12 — 2026-11-13
+edad: FLL Challenge en SESI: 9–15 años. FTC en SESI: 12–18 años.
+Matvey: Condicional. Confirmar fecha de corte, colegio o club y grupos de la sede.
+Oscar: No por edad. Umbral de FLL Challenge de 9 años.
+Idioma: Confirmar idioma de arbitraje, documentos y apoyo a equipos extranjeros.
+Acceso: Clasificatoria por equipos. Confirmar registro de colegio o club, fecha de corte y admisión de equipo extranjero.
+Precio: Confirmar cuota, equipo y viaje con la organización de la categoría elegida.
+Limitaciones: Se conserva el nombre del grupo del calendario. El acceso de colegios, clubes y equipos independientes depende del grupo.
+Fuente: https://noticias.portaldaindustria.com.br/noticias/educacao/confira-o-calendario-de-competicoes-regionais-dos-torneios-sesi-de-robotica/
+Se ha comprobado: 2026-11-07
+
+### C3079 · SESI CANOPY · Pinhais/PR · FLL, FTC, STEM Racing
+
+Fecha: 2026-11-12 — 2026-11-13
+edad: FLL Challenge en SESI: 9–15 años. FTC en SESI: 12–18 años. STEM Racing: programa SESI para sus estudiantes desde 9 años. Confirmar corte y tipo de equipo en la sede.
+Matvey: Condicional. Confirmar fecha de corte, colegio o club y grupos de la sede.
+Oscar: En las edades publicadas por SESI los grupos iniciales empiezan desde 9 años. Confirmar grupos de la sede.
+Idioma: Confirmar idioma de arbitraje, documentos y apoyo a equipos extranjeros.
+Acceso: Clasificatoria por equipos. Confirmar registro de colegio o club, fecha de corte y admisión de equipo extranjero.
+Precio: Confirmar cuota, equipo y viaje con la organización de la categoría elegida.
+Limitaciones: Se conserva el nombre del grupo del calendario. El acceso de colegios, clubes y equipos independientes depende del grupo.
+Fuente: https://noticias.portaldaindustria.com.br/noticias/educacao/confira-o-calendario-de-competicoes-regionais-dos-torneios-sesi-de-robotica/
+Se ha comprobado: 2026-11-07
+
+### C3080 · SESI CANOPY · Vitória/ES · FLL, STEM Racing
+
+Fecha: 2026-11-12 — 2026-11-13
+edad: FLL Challenge en SESI: 9–15 años. STEM Racing: programa SESI para sus estudiantes desde 9 años. Confirmar corte y tipo de equipo en la sede.
+Matvey: Condicional. Confirmar fecha de corte, colegio o club y grupos de la sede.
+Oscar: En las edades publicadas por SESI los grupos iniciales empiezan desde 9 años. Confirmar grupos de la sede.
+Idioma: Confirmar idioma de arbitraje, documentos y apoyo a equipos extranjeros.
+Acceso: Clasificatoria por equipos. Confirmar registro de colegio o club, fecha de corte y admisión de equipo extranjero.
+Precio: Confirmar cuota, equipo y viaje con la organización de la categoría elegida.
+Limitaciones: Se conserva el nombre del grupo del calendario. El acceso de colegios, clubes y equipos independientes depende del grupo.
+Fuente: https://noticias.portaldaindustria.com.br/noticias/educacao/confira-o-calendario-de-competicoes-regionais-dos-torneios-sesi-de-robotica/
+Se ha comprobado: 2026-11-07
+
+### C3081 · SESI CANOPY · Manaus/AM · FLL
+
+Fecha: 2026-11-20 — 2026-11-21
+edad: FLL Challenge en SESI: 9–15 años.
+Matvey: Condicional. Confirmar fecha de corte, colegio o club y grupos de la sede.
+Oscar: No por edad. Umbral de FLL Challenge de 9 años.
+Idioma: Confirmar idioma de arbitraje, documentos y apoyo a equipos extranjeros.
+Acceso: Clasificatoria por equipos. Confirmar registro de colegio o club, fecha de corte y admisión de equipo extranjero.
+Precio: Confirmar cuota, equipo y viaje con la organización de la categoría elegida.
+Limitaciones: Se conserva el nombre del grupo del calendario. El acceso de colegios, clubes y equipos independientes depende del grupo.
+Fuente: https://noticias.portaldaindustria.com.br/noticias/educacao/confira-o-calendario-de-competicoes-regionais-dos-torneios-sesi-de-robotica/
+Se ha comprobado: 2026-11-07
+
+### C3082 · SESI CANOPY · Natal/RN · FLL
+
+Fecha: 2026-11-26 2026-11-27
+edad: FLL Challenge en SESI: 9–15 años.
+Matvey: Condicional. Confirmar fecha de corte, colegio o club y grupos de la sede.
+Oscar: No por edad. Umbral de FLL Challenge de 9 años.
+Idioma: Confirmar idioma de arbitraje, documentos y apoyo a equipos extranjeros.
+Acceso: Clasificatoria por equipos. Confirmar registro de colegio o club, fecha de corte y admisión de equipo extranjero.
+Precio: Confirmar cuota, equipo y viaje con la organización de la categoría elegida.
+Limitaciones: Se conserva el nombre del grupo del calendario. El acceso de colegios, clubes y equipos independientes depende del grupo.
+Fuente: https://noticias.portaldaindustria.com.br/noticias/educacao/confira-o-calendario-de-competicoes-regionais-dos-torneios-sesi-de-robotica/
+Se ha comprobado: 2026-11-07
+
+### C3083 · SESI CANOPY · Belo Horizonte/MG · FLL, FTC, STEM Racing
+
+Fecha: 2026-11-27 2026-11-28
+edad: FLL Challenge en SESI: 9–15 años. FTC en SESI: 12–18 años. STEM Racing: programa SESI para sus estudiantes desde 9 años. Confirmar corte y tipo de equipo en la sede.
+Matvey: Condicional. Confirmar fecha de corte, colegio o club y grupos de la sede.
+Oscar: En las edades publicadas por SESI los grupos iniciales empiezan desde 9 años. Confirmar grupos de la sede.
+Idioma: Confirmar idioma de arbitraje, documentos y apoyo a equipos extranjeros.
+Acceso: Clasificatoria por equipos. Confirmar registro de colegio o club, fecha de corte y admisión de equipo extranjero.
+Precio: Confirmar cuota, equipo y viaje con la organización de la categoría elegida.
+Limitaciones: Se conserva el nombre del grupo del calendario. El acceso de colegios, clubes y equipos independientes depende del grupo.
+Fuente: https://noticias.portaldaindustria.com.br/noticias/educacao/confira-o-calendario-de-competicoes-regionais-dos-torneios-sesi-de-robotica/
+Se ha comprobado: 2026-11-07
+
+### C3084 · SESI CANOPY · Fortaleza/CE · FLL, FTC
+
+Fecha: 2026-11-27 — 2026-11-29
+edad: FLL Challenge en SESI: 9–15 años. FTC en SESI: 12–18 años.
+Matvey: Condicional. Confirmar fecha de corte, colegio o club y grupos de la sede.
+Oscar: No por edad. Umbral de FLL Challenge de 9 años.
+Idioma: Confirmar idioma de arbitraje, documentos y apoyo a equipos extranjeros.
+Acceso: Clasificatoria por equipos. Confirmar registro de colegio o club, fecha de corte y admisión de equipo extranjero.
+Precio: Confirmar cuota, equipo y viaje con la organización de la categoría elegida.
+Limitaciones: Se conserva el nombre del grupo del calendario. El acceso de colegios, clubes y equipos independientes depende del grupo.
+Fuente: https://noticias.portaldaindustria.com.br/noticias/educacao/confira-o-calendario-de-competicoes-regionais-dos-torneios-sesi-de-robotica/
+Se ha comprobado: 2026-11-07
+
+### C3085 · SESI CANOPY · São Paulo/SP · FLL SESI 1
+
+Fecha: 2026-11-30 国 2026-12-01
+edad: FLL Challenge en SESI: 9–15 años.
+Matvey: Condicional. Confirmar fecha de corte, colegio o club y grupos de la sede.
+Oscar: No por edad. Umbral de FLL Challenge de 9 años.
+Idioma: Confirmar idioma de arbitraje, documentos y apoyo a equipos extranjeros.
+Acceso: Clasificatoria por equipos. Confirmar registro de colegio o club, fecha de corte y admisión de equipo extranjero.
+Precio: Confirmar cuota, equipo y viaje con la organización de la categoría elegida.
+Limitaciones: Se conserva el nombre del grupo del calendario. El acceso de colegios, clubes y equipos independientes depende del grupo.
+Fuente: https://noticias.portaldaindustria.com.br/noticias/educacao/confira-o-calendario-de-competicoes-regionais-dos-torneios-sesi-de-robotica/
+Se ha comprobado: 2026-11-07
+
+### C3086 · SESI CANOPY · Presidente Epitácio/SP · FLL SESI 1
+
+Fecha: 2026-11-30 国 2026-12-01
+edad: FLL Challenge en SESI: 9–15 años.
+Matvey: Condicional. Confirmar fecha de corte, colegio o club y grupos de la sede.
+Oscar: No por edad. Umbral de FLL Challenge de 9 años.
+Idioma: Confirmar idioma de arbitraje, documentos y apoyo a equipos extranjeros.
+Acceso: Clasificatoria por equipos. Confirmar registro de colegio o club, fecha de corte y admisión de equipo extranjero.
+Precio: Confirmar cuota, equipo y viaje con la organización de la categoría elegida.
+Limitaciones: Se conserva el nombre del grupo del calendario. El acceso de colegios, clubes y equipos independientes depende del grupo.
+Fuente: https://noticias.portaldaindustria.com.br/noticias/educacao/confira-o-calendario-de-competicoes-regionais-dos-torneios-sesi-de-robotica/
+Se ha comprobado: 2026-11-07
+
+### C3087 · SESI CANOPY · Presidente Epitácio/SP · FLL SESI 2
+
+Fecha: 2026-12-03 国 2026-12-04
+edad: FLL Challenge en SESI: 9–15 años.
+Matvey: Condicional. Confirmar fecha de corte, colegio o club y grupos de la sede.
+Oscar: No por edad. Umbral de FLL Challenge de 9 años.
+Idioma: Confirmar idioma de arbitraje, documentos y apoyo a equipos extranjeros.
+Acceso: Clasificatoria por equipos. Confirmar registro de colegio o club, fecha de corte y admisión de equipo extranjero.
+Precio: Confirmar cuota, equipo y viaje con la organización de la categoría elegida.
+Limitaciones: Se conserva el nombre del grupo del calendario. El acceso de colegios, clubes y equipos independientes depende del grupo.
+Fuente: https://noticias.portaldaindustria.com.br/noticias/educacao/confira-o-calendario-de-competicoes-regionais-dos-torneios-sesi-de-robotica/
+Se ha comprobado: 2026-11-07
+
+### C3088 · SESI CANOPY · Rio de Janeiro/RJ · FLL, FTC
+
+Fecha: 2026-12-03 国 2026-12-04
+edad: FLL Challenge en SESI: 9–15 años. FTC en SESI: 12–18 años.
+Matvey: Condicional. Confirmar fecha de corte, colegio o club y grupos de la sede.
+Oscar: No por edad. Umbral de FLL Challenge de 9 años.
+Idioma: Confirmar idioma de arbitraje, documentos y apoyo a equipos extranjeros.
+Acceso: Clasificatoria por equipos. Confirmar registro de colegio o club, fecha de corte y admisión de equipo extranjero.
+Precio: Confirmar cuota, equipo y viaje con la organización de la categoría elegida.
+Limitaciones: Se conserva el nombre del grupo del calendario. El acceso de colegios, clubes y equipos independientes depende del grupo.
+Fuente: https://noticias.portaldaindustria.com.br/noticias/educacao/confira-o-calendario-de-competicoes-regionais-dos-torneios-sesi-de-robotica/
+Se ha comprobado: 2026-11-07
+
+### C3089 · SESI CANOPY · São Bento do Sul/SC · FLL SESI
+
+Fecha: 2026-12-04 — 2026-12-05
+edad: FLL Challenge en SESI: 9–15 años.
+Matvey: Condicional. Confirmar fecha de corte, colegio o club y grupos de la sede.
+Oscar: No por edad. Umbral de FLL Challenge de 9 años.
+Idioma: Confirmar idioma de arbitraje, documentos y apoyo a equipos extranjeros.
+Acceso: Clasificatoria por equipos. Confirmar registro de colegio o club, fecha de corte y admisión de equipo extranjero.
+Precio: Confirmar cuota, equipo y viaje con la organización de la categoría elegida.
+Limitaciones: Se conserva el nombre del grupo del calendario. El acceso de colegios, clubes y equipos independientes depende del grupo.
+Fuente: https://noticias.portaldaindustria.com.br/noticias/educacao/confira-o-calendario-de-competicoes-regionais-dos-torneios-sesi-de-robotica/
+Se ha comprobado: 2026-11-07
+
+### C3090 · SESI CANOPY · São Bento do Sul/SC · FLL geral, FTC, STEM Racing
+
+Fecha: 2026-12-07 — 2026-12-08
+edad: FLL Challenge en SESI: 9–15 años. FTC en SESI: 12–18 años. STEM Racing: programa SESI para sus estudiantes desde 9 años. Confirmar corte y tipo de equipo en la sede.
+Matvey: Condicional. Confirmar fecha de corte, colegio o club y grupos de la sede.
+Oscar: En las edades publicadas por SESI los grupos iniciales empiezan desde 9 años. Confirmar grupos de la sede.
+Idioma: Confirmar idioma de arbitraje, documentos y apoyo a equipos extranjeros.
+Acceso: Clasificatoria por equipos. Confirmar registro de colegio o club, fecha de corte y admisión de equipo extranjero.
+Precio: Confirmar cuota, equipo y viaje con la organización de la categoría elegida.
+Limitaciones: Se conserva el nombre del grupo del calendario. El acceso de colegios, clubes y equipos independientes depende del grupo.
+Fuente: https://noticias.portaldaindustria.com.br/noticias/educacao/confira-o-calendario-de-competicoes-regionais-dos-torneios-sesi-de-robotica/
+Se ha comprobado: 2026-11-07
+
+### C3091 · SESI CANOPY · Salvador/BA · FLL, FTC, STEM Racing
+
+Fecha: 2026-12-10 国 2026-12-12
+edad: FLL Challenge en SESI: 9–15 años. FTC en SESI: 12–18 años. STEM Racing: programa SESI para sus estudiantes desde 9 años. Confirmar corte y tipo de equipo en la sede.
+Matvey: Condicional. Confirmar fecha de corte, colegio o club y grupos de la sede.
+Oscar: En las edades publicadas por SESI los grupos iniciales empiezan desde 9 años. Confirmar grupos de la sede.
+Idioma: Confirmar idioma de arbitraje, documentos y apoyo a equipos extranjeros.
+Acceso: Clasificatoria por equipos. Confirmar registro de colegio o club, fecha de corte y admisión de equipo extranjero.
+Precio: Confirmar cuota, equipo y viaje con la organización de la categoría elegida.
+Limitaciones: Se conserva el nombre del grupo del calendario. El acceso de colegios, clubes y equipos independientes depende del grupo.
+Fuente: https://noticias.portaldaindustria.com.br/noticias/educacao/confira-o-calendario-de-competicoes-regionais-dos-torneios-sesi-de-robotica/
+Se ha comprobado: 2026-11-07
+
+### C3092 · SESI CANOPY · Jundiaí/SP · FLL Públicas e ONGs
+
+Fecha: 2026-12-11 — 2026-12-11
+edad: FLL Challenge en SESI: 9–15 años.
+Matvey: Condicional. Confirmar fecha de corte, colegio o club y grupos de la sede.
+Oscar: No por edad. Umbral de FLL Challenge de 9 años.
+Idioma: Confirmar idioma de arbitraje, documentos y apoyo a equipos extranjeros.
+Acceso: Clasificatoria por equipos. Confirmar registro de colegio o club, fecha de corte y admisión de equipo extranjero.
+Precio: Confirmar cuota, equipo y viaje con la organización de la categoría elegida.
+Limitaciones: Se conserva el nombre del grupo del calendario. El acceso de colegios, clubes y equipos independientes depende del grupo.
+Fuente: https://noticias.portaldaindustria.com.br/noticias/educacao/confira-o-calendario-de-competicoes-regionais-dos-torneios-sesi-de-robotica/
+Se ha comprobado: 2026-11-07
+
+### C3093 · SESI CANOPY · Jundiaí/SP · FLL Particulares e garagem
+
+Fecha: 2026-12-12 — 2026-12-12
+edad: FLL Challenge en SESI: 9–15 años.
+Matvey: Condicional. Confirmar fecha de corte, colegio o club y grupos de la sede.
+Oscar: No por edad. Umbral de FLL Challenge de 9 años.
+Idioma: Confirmar idioma de arbitraje, documentos y apoyo a equipos extranjeros.
+Acceso: Clasificatoria por equipos. Confirmar registro de colegio o club, fecha de corte y admisión de equipo extranjero.
+Precio: Confirmar cuota, equipo y viaje con la organización de la categoría elegida.
+Limitaciones: Se conserva el nombre del grupo del calendario. El acceso de colegios, clubes y equipos independientes depende del grupo.
+Fuente: https://noticias.portaldaindustria.com.br/noticias/educacao/confira-o-calendario-de-competicoes-regionais-dos-torneios-sesi-de-robotica/
+Se ha comprobado: 2026-11-07
+
+### C3094 · SESI CANOPY · Jundiaí/SP · FTC
+
+Fecha: 2026-12-11 — 2026-12-12
+edad: FTC en SESI: 12–18 años.
+Matvey: No por edad. Umbral de FTC de 12 años.
+Oscar: No por edad. Umbral de FTC de 12 años.
+Idioma: Confirmar idioma de arbitraje, documentos y apoyo a equipos extranjeros.
+Acceso: Clasificatoria por equipos. Confirmar registro de colegio o club, fecha de corte y admisión de equipo extranjero.
+Precio: Confirmar cuota, equipo y viaje con la organización de la categoría elegida.
+Limitaciones: Se conserva el nombre del grupo del calendario. El acceso de colegios, clubes y equipos independientes depende del grupo.
+Fuente: https://noticias.portaldaindustria.com.br/noticias/educacao/confira-o-calendario-de-competicoes-regionais-dos-torneios-sesi-de-robotica/
+Se ha comprobado: 2026-11-07
+
+### C3095 · SESI CANOPY · Jundiaí/SP · FLL SESI 3
+
+Fecha: 2026-12-14 — 2026-12-15
+edad: FLL Challenge en SESI: 9–15 años.
+Matvey: Condicional. Confirmar fecha de corte, colegio o club y grupos de la sede.
+Oscar: No por edad. Umbral de FLL Challenge de 9 años.
+Idioma: Confirmar idioma de arbitraje, documentos y apoyo a equipos extranjeros.
+Acceso: Clasificatoria por equipos. Confirmar registro de colegio o club, fecha de corte y admisión de equipo extranjero.
+Precio: Confirmar cuota, equipo y viaje con la organización de la categoría elegida.
+Limitaciones: Se conserva el nombre del grupo del calendario. El acceso de colegios, clubes y equipos independientes depende del grupo.
+Fuente: https://noticias.portaldaindustria.com.br/noticias/educacao/confira-o-calendario-de-competicoes-regionais-dos-torneios-sesi-de-robotica/
+Se ha comprobado: 2026-11-07
+
+### C3096 · SESI CANOPY · Jundiaí/SP · FLL SESI 4, STEM Racing
+
+Fecha: 2026-12-15 — 2026-12-16
+edad: FLL Challenge en SESI: 9–15 años. STEM Racing: programa SESI para sus estudiantes desde 9 años. Confirmar corte y tipo de equipo en la sede.
+Matvey: Condicional. Confirmar fecha de corte, colegio o club y grupos de la sede.
+Oscar: En las edades publicadas por SESI los grupos iniciales empiezan desde 9 años. Confirmar grupos de la sede.
+Idioma: Confirmar idioma de arbitraje, documentos y apoyo a equipos extranjeros.
+Acceso: Clasificatoria por equipos. Confirmar registro de colegio o club, fecha de corte y admisión de equipo extranjero.
+Precio: Confirmar cuota, equipo y viaje con la organización de la categoría elegida.
+Limitaciones: Se conserva el nombre del grupo del calendario. El acceso de colegios, clubes y equipos independientes depende del grupo.
+Fuente: https://noticias.portaldaindustria.com.br/noticias/educacao/confira-o-calendario-de-competicoes-regionais-dos-torneios-sesi-de-robotica/
+Se ha comprobado: 2026-11-07
+
+### C3097 · SESI CANOPY · Belém/PA · FLL, FTC
+
+Fecha: 2027-01-27 — 2027-01-28
+edad: FLL Challenge en SESI: 9–15 años. FTC en SESI: 12–18 años.
+Matvey: Condicional. Confirmar fecha de corte, colegio o club y grupos de la sede.
+Oscar: No por edad. Umbral de FLL Challenge de 9 años.
+Idioma: Confirmar idioma de arbitraje, documentos y apoyo a equipos extranjeros.
+Acceso: Clasificatoria por equipos. Confirmar registro de colegio o club, fecha de corte y admisión de equipo extranjero.
+Precio: Confirmar cuota, equipo y viaje con la organización de la categoría elegida.
+Limitaciones: Se conserva el nombre del grupo del calendario. El acceso de colegios, clubes y equipos independientes depende del grupo.
+Fuente: https://noticias.portaldaindustria.com.br/noticias/educacao/confira-o-calendario-de-competicoes-regionais-dos-torneios-sesi-de-robotica/
+Se ha comprobado: 2026-11-07
+
+### C3098 · SESI CANOPY · A definir/PB · FLL, FTC, STEM Racing
+
+Fecha: 2027-01-29 - 2027-01-30
+edad: FLL Challenge en SESI: 9–15 años. FTC en SESI: 12–18 años. STEM Racing: programa SESI para sus estudiantes desde 9 años. Confirmar corte y tipo de equipo en la sede.
+Matvey: Condicional. Confirmar fecha de corte, colegio o club y grupos de la sede.
+Oscar: En las edades publicadas por SESI los grupos iniciales empiezan desde 9 años. Confirmar grupos de la sede.
+Idioma: Confirmar idioma de arbitraje, documentos y apoyo a equipos extranjeros.
+Acceso: Clasificatoria por equipos. Confirmar registro de colegio o club, fecha de corte y admisión de equipo extranjero.
+Precio: Confirmar cuota, equipo y viaje con la organización de la categoría elegida.
+Limitaciones: Se conserva el nombre del grupo del calendario. El acceso de colegios, clubes y equipos independientes depende del grupo.
+Fuente: https://noticias.portaldaindustria.com.br/noticias/educacao/confira-o-calendario-de-competicoes-regionais-dos-torneios-sesi-de-robotica/
+Se ha comprobado: 2026-11-07
+
+### C3099 · SESI CANOPY · São Luís/MA · FLL, FTC, STEM Racing
+
+Fecha: 2027-01-30 国 2027-01-31
+edad: FLL Challenge en SESI: 9–15 años. FTC en SESI: 12–18 años. STEM Racing: programa SESI para sus estudiantes desde 9 años. Confirmar corte y tipo de equipo en la sede.
+Matvey: Condicional. Confirmar fecha de corte, colegio o club y grupos de la sede.
+Oscar: En las edades publicadas por SESI los grupos iniciales empiezan desde 9 años. Confirmar grupos de la sede.
+Idioma: Confirmar idioma de arbitraje, documentos y apoyo a equipos extranjeros.
+Acceso: Clasificatoria por equipos. Confirmar registro de colegio o club, fecha de corte y admisión de equipo extranjero.
+Precio: Confirmar cuota, equipo y viaje con la organización de la categoría elegida.
+Limitaciones: Se conserva el nombre del grupo del calendario. El acceso de colegios, clubes y equipos independientes depende del grupo.
+Fuente: https://noticias.portaldaindustria.com.br/noticias/educacao/confira-o-calendario-de-competicoes-regionais-dos-torneios-sesi-de-robotica/
+Se ha comprobado: 2026-11-07
+
+### C3100 · SESI CANOPY · Brasília/DF · FLL, STEM Racing
+
+Fecha: 2027-02-03 — 2027-02-04
+edad: FLL Challenge en SESI: 9–15 años. STEM Racing: programa SESI para sus estudiantes desde 9 años. Confirmar corte y tipo de equipo en la sede.
+Matvey: Condicional. Confirmar fecha de corte, colegio o club y grupos de la sede.
+Oscar: En las edades publicadas por SESI los grupos iniciales empiezan desde 9 años. Confirmar grupos de la sede.
+Idioma: Confirmar idioma de arbitraje, documentos y apoyo a equipos extranjeros.
+Acceso: Clasificatoria por equipos. Confirmar registro de colegio o club, fecha de corte y admisión de equipo extranjero.
+Precio: Confirmar cuota, equipo y viaje con la organización de la categoría elegida.
+Limitaciones: Se conserva el nombre del grupo del calendario. El acceso de colegios, clubes y equipos independientes depende del grupo.
+Fuente: https://noticias.portaldaindustria.com.br/noticias/educacao/confira-o-calendario-de-competicoes-regionais-dos-torneios-sesi-de-robotica/
+Se ha comprobado: 2026-11-07
+
+### C3101 · SESI CANOPY · Campo Grande/MS · FLL, FTC
+
+Fecha: 2026-11-19 — 2026-11-20
+edad: FLL Challenge en SESI: 9–15 años. FTC en SESI: 12–18 años.
+Matvey: Condicional. Confirmar fecha de corte, colegio o club y grupos de la sede.
+Oscar: No por edad. Umbral de FLL Challenge de 9 años.
+Idioma: Confirmar idioma de arbitraje, documentos y apoyo a equipos extranjeros.
+Acceso: Clasificatoria por equipos. Confirmar registro de colegio o club, fecha de corte y admisión de equipo extranjero.
+Precio: Confirmar cuota, equipo y viaje con la organización de la categoría elegida.
+Limitaciones: Se conserva el nombre del grupo del calendario. El acceso de colegios, clubes y equipos independientes depende del grupo.
+Fuente: https://www.sesims.com.br/noticias/campo-grande-vai-sediar-seletiva-regional-de-robotica-do-sesi-em-novembro/49517
+Se ha comprobado: 2026-11-07
+
+### C3102 · 9º Festival SESI de Robótica · National final
+
+Fecha: 2027-03-18 - 2027-03-21
+edad: FLL Challenge en SESI: 9–15 años. FTC en SESI: 12–18 años. FRC en SESI: 14–18 años. STEM Racing: programa SESI para sus estudiantes desde 9 años. Confirmar corte y tipo de equipo en la sede.
+Matvey: Condicional. Confirmar fecha de corte, colegio o club y grupos de la sede.
+Oscar: En las edades publicadas por SESI los grupos iniciales empiezan desde 9 años. Confirmar grupos de la sede.
+Idioma: Confirmar idioma de arbitraje, documentos y apoyo a equipos extranjeros.
+Acceso: Festival nacional con varias disciplinas. Clasificación y cupos dependen de la categoría.
+Precio: Confirmar cuota, equipo y viaje con la organización de la categoría elegida.
+Limitaciones:
+Fuente: https://noticias.portaldaindustria.com.br/noticias/educacao/confira-o-calendario-de-competicoes-regionais-dos-torneios-sesi-de-robotica/
+Se ha comprobado: 2026-11-07
+
 ## ~ Comprobar de nuevo
 
 - Fiestas de cumpleaños precisas para el Programable 9 / 10 y CampoAventuras 9 por día de iniciación; clases para Chile / RoboRAVE.

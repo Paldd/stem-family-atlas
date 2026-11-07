@@ -3149,7 +3149,7 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2026/27 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Para esta fecha edad 9–9; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–6; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-07
 
 ### CP1124-20270111-20270115 · FOD Líderes del Futuro · Juguemos a crear Robots · Juguemos a crear Robots · 2027-01-11–2027-01-15
 
@@ -3162,7 +3162,7 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Para esta fecha edad 9–10; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-07
 
 ### CP1124-20270125-20270129 · FOD Líderes del Futuro · Juguemos a crear Robots · Juguemos a crear Robots · 2027-01-25–2027-01-29
 
@@ -3175,7 +3175,7 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Para esta fecha edad 9–10; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-07
 
 ### CP1125-20270118-20270122 · FOD Líderes del Futuro · Mis Historias Animadas · Mis Historias Animadas · 2027-01-18–2027-01-22
 
@@ -3188,7 +3188,7 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Para esta fecha edad 9–10; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-07
 
 ### CP1126-20270125-20270129 · FOD Líderes del Futuro · Creatividad y diseño con robótica · 7–9 · Creatividad y diseño con robótica · 7–9 · 2027-01-25–2027-01-29
 
@@ -3201,7 +3201,7 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Para esta fecha edad 9–10; curso 7–9. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 7–9. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-07
 
 ### CP1127-20261207-20261211 · FOD Líderes del Futuro · Nivel 1 · Principios de construcción y programación · Nivel 1 · Principios de construcción y programación · 2026-12-07–2026-12-11
 
@@ -3214,7 +3214,7 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2026/27 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Para esta fecha edad 9–9; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–6; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-07
 
 ### CP1127-20270111-20270115 · FOD Líderes del Futuro · Nivel 1 · Principios de construcción y programación · Nivel 1 · Principios de construcción y programación · 2027-01-11–2027-01-15
 
@@ -3227,7 +3227,7 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Para esta fecha edad 9–10; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-07
 
 ### CP1128-20270118-20270122 · FOD Líderes del Futuro · Nivel 2 · Sistemas inteligentes: sensores y engranajes · Nivel 2 · Sistemas inteligentes: sensores y engranajes · 2027-01-18–2027-01-22
 
@@ -3240,7 +3240,7 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Para esta fecha edad 9–10; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-07
 
 ### CP1129-20270125-20270129 · FOD Líderes del Futuro · Nivel 3 · Grados de libertad, sincronización y publicación · Nivel 3 · Grados de libertad, sincronización y publicación · 2027-01-25–2027-01-29
 
@@ -3253,7 +3253,7 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Para esta fecha edad 9–10; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-07
 
 ### CP1130-20270111-20270115 · FOD Líderes del Futuro · Nivel 4 · Líneas de procesamiento y acciones de datos · Nivel 4 · Líneas de procesamiento y acciones de datos · 2027-01-11–2027-01-15
 
@@ -3266,7 +3266,7 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Para esta fecha edad 9–10; curso 9–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 9–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-07
 
 ### CP1131-20270118-20270122 · FOD Líderes del Futuro · Creatividad y diseño con robótica · 10–12 · Creatividad y diseño con robótica · 10–12 · 2027-01-18–2027-01-22
 
@@ -3279,7 +3279,7 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Para esta fecha edad 9–10; curso 10–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 10–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-07
 
 ### CP1132-20261207-20261211 · FOD Líderes del Futuro · Nivel 1 · Edificaciones en 3D · Nivel 1 · Edificaciones en 3D · 2026-12-07–2026-12-11
 
@@ -3292,7 +3292,7 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2026/27 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Para esta fecha edad 9–9; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–6; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-07
 
 ### CP1132-20270111-20270115 · FOD Líderes del Futuro · Nivel 1 · Edificaciones en 3D · Nivel 1 · Edificaciones en 3D · 2027-01-11–2027-01-15
 
@@ -3305,7 +3305,7 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Para esta fecha edad 9–10; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-07
 
 ### CP1132-20270118-20270122 · FOD Líderes del Futuro · Nivel 1 · Edificaciones en 3D · Nivel 1 · Edificaciones en 3D · 2027-01-18–2027-01-22
 
@@ -3318,7 +3318,7 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Para esta fecha edad 9–10; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-07
 
 ### CP1133-20270125-20270129 · FOD Líderes del Futuro · Nivel 2 · Edificaciones en 3D · Nivel 2 · Edificaciones en 3D · 2027-01-25–2027-01-29
 
@@ -3331,7 +3331,7 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Para esta fecha edad 9–10; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-07
 
 ### CP1134-20270118-20270122 · FOD Líderes del Futuro · Nivel 1 · Makers, Microplacas programables · Nivel 1 · Makers, Microplacas programables · 2027-01-18–2027-01-22
 
@@ -3344,7 +3344,7 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Para esta fecha edad 9–10; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-07
 
 ### CP1135-20270125-20270129 · FOD Líderes del Futuro · Nivel 2 · Makers, Microplacas programables · Nivel 2 · Makers, Microplacas programables · 2027-01-25–2027-01-29
 
@@ -3357,7 +3357,7 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Para esta fecha edad 9–10; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-07
 
 ### CP1163-20261112-20261112 · Maker Faire Monterrey · Talking Robots · Talleres del festival · 2026-11-12–2026-11-12
 
@@ -4047,6 +4047,71 @@ Precio: de la $60; la moneda y el resultado dependen de la elección y no se han
 Limitaciones: El campo de fecha está vacío, todoElDia=true.0.2 horas API; unidad/bolígrafo de precisión, no asignar automáticamente 17/18. Catálogo y su propio public JSON, Atado por página, verificados 06.10.2026. Capacity — límite, no espacio disponible. Un precio vacío no significa que sea gratis.; lengua materna y la infancia admission Por separado. Campo «robot» no determina la complejidad técnica.
 Fuente: https://www.feriamaker.mx/talleres
 Comprobado: 2026-10-06
+
+### E294 · EXPOTEC · CEDES Don Bosco 2026
+
+Fecha: 2026-11-13 - 2026-11-15
+edad: Condicional. Confirmar edad de visitante y acompañamiento.
+Matvey: Condicional. Confirmar edad de visitante y acompañamiento.
+Oscar: Condicional. Confirmar edad de visitante y acompañamiento.
+Idioma: Confirmar idioma del taller o demostración concretos.
+Acceso: Muestra de proyectos escolares y programa abierto. Confirmar acceso a estands, horario de exposición y edad para talleres.
+Precio: Tarifa de esta edición aún sin confirmar.
+Limitaciones:
+Fuente: https://cedesdonbosco.ed.cr/expotec/
+Se ha comprobado: 2026-11-07
+
+### E295 · Feria Maker UNOi 2027
+
+Fecha: 2027-04-24 — 2027-04-24
+edad: Acceso para la comunidad UNOi: estudiantes, familias y personal de colegios afiliados. Visitantes con registro previo.
+Matvey: Acceso para la comunidad UNOi: estudiantes, familias y personal de colegios afiliados. Visitantes con registro previo.
+Oscar: Acceso para la comunidad UNOi: estudiantes, familias y personal de colegios afiliados. Visitantes con registro previo.
+Idioma: Confirmar idioma del taller o demostración concretos.
+Acceso: Acceso para la comunidad UNOi: estudiantes, familias y personal de colegios afiliados. Visitantes con registro previo.
+Precio: Tarifa de esta edición aún sin confirmar.
+Limitaciones: Exposición de proyectos, talleres y charlas. Selección del colegio separada de la visita.
+Fuente: https://feriamakerunoi.com/
+Se ha comprobado: 2026-11-07
+
+### E296 · AUTOMATECH Expo 2027
+
+Fecha: 2027-04-07 — 2027-04-08
+edad: Condicional. Confirmar edad de visitante y acompañamiento.
+Matvey: Condicional. Confirmar edad de visitante y acompañamiento.
+Oscar: Condicional. Confirmar edad de visitante y acompañamiento.
+Idioma: Confirmar idioma del taller o demostración concretos.
+Acceso: Feria profesional. Confirmar acceso de menores y condiciones de las demostraciones concretas.
+Precio: La organización publica registro gratuito de visitante.
+Limitaciones:
+Fuente: https://www.automatechexpo.com/
+Se ha comprobado: 2026-11-07
+
+### E297 · Expodrone Innovation & Technology Monterrey 2027
+
+Fecha: 2027-09-08 — 2027-09-10
+edad: Condicional. Confirmar edad de visitante y acompañamiento.
+Matvey: Condicional. Confirmar edad de visitante y acompañamiento.
+Oscar: Condicional. Confirmar edad de visitante y acompañamiento.
+Idioma: Confirmar idioma del taller o demostración concretos.
+Acceso: Profesionales y público general. Entrada general y talleres concretos según condiciones de la organización. Confirmar edad de menores.
+Precio: La página de visitantes indica 300 MXN. Algunos talleres y conferencias pueden tener condiciones y costes separados.
+Limitaciones:
+Fuente: https://expodronemty.com/
+Se ha comprobado: 2026-11-07
+
+### E300 · FICGAMES 2027 · Playtest exhibition
+
+Fecha: FICG 42 se anuncia del 6 al 13 de marzo de 2027. Días de la muestra Playtest aún por confirmar.
+edad: Muestra de demos para público y profesionales. Confirmar días, acceso de visitantes y edad infantil.
+Matvey: Muestra de demos para público y profesionales. Confirmar días, acceso de visitantes y edad infantil.
+Oscar: Muestra de demos para público y profesionales. Confirmar días, acceso de visitantes y edad infantil.
+Idioma: Confirmar idioma del taller o demostración concretos.
+Acceso: Muestra de demos para público y profesionales. Confirmar días, acceso de visitantes y edad infantil.
+Precio: Tarifa de esta edición aún sin confirmar.
+Limitaciones: Autores de Pitch y Playtest mayores de edad residentes en Latinoamérica. Convocatoria cerrada el 16 de octubre de 2026.
+Fuente: https://uniat.edu.mx/convocatoria-ficg-uniat/
+Se ha comprobado: 2026-11-07
 
 ### C079 · TecPro Challenge Virtual · Match 1 · 2026
 

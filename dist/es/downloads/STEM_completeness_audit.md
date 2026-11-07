@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 7368; competiciones: 3073; eventos: 293; campamentos / programas: 4002. Perfiles de ligas y programas: 257. Fichas de exposiciones grandes y especializadas: 205 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 7404; competiciones: 3101; eventos: 301; campamentos / programas: 4002. Perfiles de ligas y programas: 258. Fichas de exposiciones grandes y especializadas: 213 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros concretos de 158 de 249 países y territorios; países auditados por completo: 0. Revisión histórica v51: se añadieron 21 fichas y 3 perfiles. Todas las fichas anteriores se conservan.
 
@@ -14,8 +14,8 @@ Hay registros concretos de 158 de 249 países y territorios; países auditados p
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 23 | 1422 | 31 | 1057 |
-| América del Sur | 10 | 167 | 7 | 117 |
+| América del Norte | 23 | 1422 | 36 | 1057 |
+| América del Sur | 10 | 195 | 10 | 117 |
 | Europa | 42 | 412 | 68 | 1256 |
 | África | 34 | 115 | 15 | 68 |
 | Asia | 44 | 747 | 81 | 1378 |
@@ -23,7 +23,7 @@ Hay registros concretos de 158 de 249 países y territorios; países auditados p
 
 Fichas interregionales o globales sin un continente asignado: 108. América del Norte incluye Centroamérica y el Caribe. Las cantidades indican el inventario de la base y no el porcentaje de cobertura.
 
-VEX: 518 de 3073 fichas de competiciones (16.9%). Es un desequilibrio de cobertura.
+VEX: 518 de 3101 fichas de competiciones (16.7%). Es un desequilibrio de cobertura.
 
 ## Lo que queda
 
@@ -94,7 +94,7 @@ VEX: 518 de 3073 fichas de competiciones (16.9%). Es un desequilibrio de cobertu
 ## ~ Proyecciones de ligas y programas
 
 - **WRO**: 115 tarjetas, 6 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://wro-association.org/competition/categories/
-- **FIRST**. 284 fichas, 178 con fechas futuras exactas. Hay perfil y fichas con cobertura local parcial. https://www.firstinspires.org/programs/fll/
+- **FIRST**: 312 fichas, 205 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.firstinspires.org/programs/fll/
 - **VEX Robotics**. 518 fichas, 418 con fechas futuras exactas. Hay perfil y fichas con cobertura local parcial. https://www.vexrobotics.com/official-path
 - *RoboCupJunior**: 4 tarjetas, 2 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://junior.robocup.org/
 - **MakeX**: 15 fichas, 11 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.makex.cc/en/2026-makex
@@ -350,6 +350,7 @@ VEX: 518 de 3073 fichas de competiciones (16.9%). Es un desequilibrio de cobertu
 - **WRO · Zimbabwe / Girls in STEM Trust**: 2 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://girlsinstemtrust.org/
 - **WRO · Mozambique / Osuwela**: 2 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://drive.google.com/uc?export=download&id=12B27_qlYAcDiwe6UqNV1c7mqe34tl0Xi
 - **FIRST LEGO League · Algeria / Robot Éducatif Algérie**: 0 fichas, 0 con fechas futuras precisas. sólo el perfil; no se ha añadido el calendario de etapas. https://www.firstinspires.org/hubfs/web/about/report/annual_report_2025.pdf
+- **SESI Brasil · FIRST CANOPY / STEM Racing 2026/27**: 28 fichas, 27 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.sesi.portaldaindustria.com.br/para-voce/robotica
 
 ## Grandes exposiciones: tarjetas de identidad
 
@@ -558,6 +559,14 @@ VEX: 518 de 3073 fichas de competiciones (16.9%). Es un desequilibrio de cobertu
 - **Mozambique International AI Conference · announced programme** — Mozambique; fecha desconocida. el permiso de entrada de niños. https://amia.co.mz/en/eventos
 - **Games & Comic Con Dzaïr · 2027 date conflict** — Argelia; fecha desconocida. el permiso de entrada de niños. https://www.gccdz.com/
 - **FIBDA · gaming programme / next edition watch** — Argelia; fecha desconocida. el permiso de entrada de niños. https://www.fibda-dz.com/
+- **EXPOTEC · CEDES Don Bosco 2026** — Costa Rica; 2026-11-13 – 2026-11-15. el permiso de entrada de niños. https://cedesdonbosco.ed.cr/expotec/
+- **Feria Maker UNOi 2027** — México; 2027-04-24. el permiso de entrada de niños. https://feriamakerunoi.com/
+- **AUTOMATECH Expo 2027** — México; 2027-04-07 – 2027-04-08. el permiso de entrada de niños. https://www.automatechexpo.com/
+- **Expodrone Innovation & Technology Monterrey 2027** — México; 2027-09-08 – 2027-09-10. el permiso de entrada de niños. https://expodronemty.com/
+- **Brasil Game Show 2027 · public exhibition** — Brasil; 2027-10-09 – 2027-10-12. con un adulto; condiciones de admisión adulta por separado. https://www.brasilgameshow.com.br/ingressos/
+- **Bett Brasil 2027 · Education Technology** — Brasil; 2027-05-04 – 2027-05-07. el permiso de entrada de niños. https://brasil.bettshow.com/bett-blog/bett-brasil-abre-inscricoes-para-32%C2%AA-edicao-evento
+- **FICGAMES 2027 · Playtest exhibition** — México; fecha desconocida. Confirmar acceso infantil. https://uniat.edu.mx/convocatoria-ficg-uniat/
+- **Festival Regional SESI de Robótica · Santa Catarina public programme** — Brasil; 2026-12-04 – 2026-12-08. con un adulto; condiciones de admisión adulta por separado. https://fiesc.com.br/pt-br/imprensa/festival-sesi-de-robotica-sera-realizado-em-sao-bento-do-sul-em-dezembro
 
 ## ~ Añadida en esta versión
 

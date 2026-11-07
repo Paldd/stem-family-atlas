@@ -76812,7 +76812,7 @@ Singapur · Forum The Shopping Mall · #02-01/02 · 583 Orchard Road
 
 Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
 
-**Se ha comprobado:** 2026-11-06
+**Se ha comprobado:** 2026-11-07
 
 **edad:** 6–8 años; confirmar corte, curso escolar no sustituye edad
 
@@ -76842,7 +76842,7 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 
 FOD · Juguemos a crear Robots · edad y horario comprobados, nivel lectivo por aclarar
 
-**Análisis verificado:** 2026-11-06
+**Análisis verificado:** 2026-11-07
 
 **Ingeniería, robótica y programación:** Considerar como alternativa · Opción técnica cercana si el organizador confirma idioma de trabajo y dificultad suficiente. Comprobar tarea real y nivel antes de pagar.
 
@@ -76906,6 +76906,8 @@ FOD · Juguemos a crear Robots · edad y horario comprobados, nivel lectivo por 
 
 - 2026-12-11 · 08:00–12:00 · America/Costa_Rica · Juguemos a crear Robots
 
+**Disponibilidad de plazas:** FOD anuncia inscripciones. La organización confirma la plaza. La apertura del curso depende del mínimo de inscritos.
+
 **Matvey:** Para esta fecha edad 9–9; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza.
 
 **Oscar:** Para esta fecha edad 6–6; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza.
@@ -76929,6 +76931,8 @@ FOD · Juguemos a crear Robots · edad y horario comprobados, nivel lectivo por 
 - 2027-01-14 · 08:00–12:00 · America/Costa_Rica · Juguemos a crear Robots
 
 - 2027-01-15 · 08:00–12:00 · America/Costa_Rica · Juguemos a crear Robots
+
+**Disponibilidad de plazas:** FOD anuncia inscripciones. La organización confirma la plaza. La apertura del curso depende del mínimo de inscritos.
 
 **Matvey:** Para esta fecha edad 9–10; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza.
 
@@ -76954,6 +76958,8 @@ FOD · Juguemos a crear Robots · edad y horario comprobados, nivel lectivo por 
 
 - 2027-01-29 · 08:00–12:00 · America/Costa_Rica · Juguemos a crear Robots
 
+**Disponibilidad de plazas:** FOD anuncia inscripciones. La organización confirma la plaza. La apertura del curso depende del mínimo de inscritos.
+
 **Matvey:** Para esta fecha edad 9–10; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza.
 
 **Oscar:** Para esta fecha edad 6–7; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza.
@@ -76970,7 +76976,7 @@ FOD · Juguemos a crear Robots · edad y horario comprobados, nivel lectivo por 
 
 Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
 
-**Se ha comprobado:** 2026-11-06
+**Se ha comprobado:** 2026-11-07
 
 **edad:** 6–8 años; confirmar corte, curso escolar no sustituye edad
 
@@ -77000,7 +77006,7 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 
 FOD · Mis Historias Animadas · edad y horario comprobados, nivel lectivo por aclarar
 
-**Análisis verificado:** 2026-11-06
+**Análisis verificado:** 2026-11-07
 
 **Ingeniería, robótica y programación:** Considerar como alternativa · Opción técnica cercana si el organizador confirma idioma de trabajo y dificultad suficiente. Comprobar tarea real y nivel antes de pagar.
 
@@ -77062,6 +77068,8 @@ FOD · Mis Historias Animadas · edad y horario comprobados, nivel lectivo por a
 
 - 2027-01-22 · 08:00–12:00 · America/Costa_Rica · Mis Historias Animadas
 
+**Disponibilidad de plazas:** FOD anuncia inscripciones. La organización confirma la plaza. La apertura del curso depende del mínimo de inscritos.
+
 **Matvey:** Para esta fecha edad 9–10; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza.
 
 **Oscar:** Para esta fecha edad 6–7; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza.
@@ -77078,7 +77086,7 @@ FOD · Mis Historias Animadas · edad y horario comprobados, nivel lectivo por a
 
 Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
 
-**Se ha comprobado:** 2026-11-06
+**Se ha comprobado:** 2026-11-07
 
 **edad:** 7–9 años; confirmar corte, curso escolar no sustituye edad
 
@@ -77108,7 +77116,7 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 
 FOD · Creatividad y diseño con robótica · 7–9 · edad y horario comprobados, nivel lectivo por aclarar
 
-**Análisis verificado:** 2026-11-06
+**Análisis verificado:** 2026-11-07
 
 **Ingeniería, robótica y programación:** Considerar como alternativa · Opción técnica cercana si el organizador confirma idioma de trabajo y dificultad suficiente. Comprobar tarea real y nivel antes de pagar.
 
@@ -77170,6 +77178,8 @@ FOD · Creatividad y diseño con robótica · 7–9 · edad y horario comprobado
 
 - 2027-01-29 · 08:00–12:00 · America/Costa_Rica · Creatividad y diseño con robótica · 7–9
 
+**Disponibilidad de plazas:** FOD anuncia inscripciones. La organización confirma la plaza. La apertura del curso depende del mínimo de inscritos.
+
 **Matvey:** Para esta fecha edad 9–10; curso 7–9. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza.
 
 **Oscar:** Para esta fecha edad 6–7; curso 7–9. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza.
@@ -77186,7 +77196,7 @@ FOD · Creatividad y diseño con robótica · 7–9 · edad y horario comprobado
 
 Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
 
-**Se ha comprobado:** 2026-11-06
+**Se ha comprobado:** 2026-11-07
 
 **edad:** 9–12 años; confirmar corte, curso escolar no sustituye edad
 
@@ -77216,7 +77226,7 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 
 FOD · Nivel 1 · Principios de construcción y programación · edad y horario comprobados, nivel lectivo por aclarar
 
-**Análisis verificado:** 2026-11-06
+**Análisis verificado:** 2026-11-07
 
 **Ingeniería, robótica y programación:** Considerar como alternativa · Opción técnica cercana si el organizador confirma idioma de trabajo y dificultad suficiente. Comprobar tarea real y nivel antes de pagar.
 
@@ -77280,6 +77290,8 @@ FOD · Nivel 1 · Principios de construcción y programación · edad y horario 
 
 - 2026-12-11 · 08:00–12:00 · America/Costa_Rica · Nivel 1 · Principios de construcción y programación
 
+**Disponibilidad de plazas:** FOD anuncia inscripciones. La organización confirma la plaza. La apertura del curso depende del mínimo de inscritos.
+
 **Matvey:** Para esta fecha edad 9–9; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza.
 
 **Oscar:** Para esta fecha edad 6–6; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza.
@@ -77304,6 +77316,8 @@ FOD · Nivel 1 · Principios de construcción y programación · edad y horario 
 
 - 2027-01-15 · 08:00–12:00 · America/Costa_Rica · Nivel 1 · Principios de construcción y programación
 
+**Disponibilidad de plazas:** FOD anuncia inscripciones. La organización confirma la plaza. La apertura del curso depende del mínimo de inscritos.
+
 **Matvey:** Para esta fecha edad 9–10; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza.
 
 **Oscar:** Para esta fecha edad 6–7; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza.
@@ -77320,7 +77334,7 @@ FOD · Nivel 1 · Principios de construcción y programación · edad y horario 
 
 Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
 
-**Se ha comprobado:** 2026-11-06
+**Se ha comprobado:** 2026-11-07
 
 **edad:** 9–12 años; confirmar corte, curso escolar no sustituye edad
 
@@ -77350,7 +77364,7 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 
 FOD · Nivel 2 · Sistemas inteligentes: sensores y engranajes · edad y horario comprobados, nivel lectivo por aclarar
 
-**Análisis verificado:** 2026-11-06
+**Análisis verificado:** 2026-11-07
 
 **Ingeniería, robótica y programación:** Considerar como alternativa · Opción técnica cercana si el organizador confirma idioma de trabajo y dificultad suficiente. Comprobar tarea real y nivel antes de pagar.
 
@@ -77414,6 +77428,8 @@ FOD · Nivel 2 · Sistemas inteligentes: sensores y engranajes · edad y horario
 
 - 2027-01-22 · 08:00–12:00 · America/Costa_Rica · Nivel 2 · Sistemas inteligentes: sensores y engranajes
 
+**Disponibilidad de plazas:** FOD anuncia inscripciones. La organización confirma la plaza. La apertura del curso depende del mínimo de inscritos.
+
 **Matvey:** Para esta fecha edad 9–10; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza.
 
 **Oscar:** Para esta fecha edad 6–7; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza.
@@ -77430,7 +77446,7 @@ FOD · Nivel 2 · Sistemas inteligentes: sensores y engranajes · edad y horario
 
 Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
 
-**Se ha comprobado:** 2026-11-06
+**Se ha comprobado:** 2026-11-07
 
 **edad:** 9–12 años; confirmar corte, curso escolar no sustituye edad
 
@@ -77460,7 +77476,7 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 
 FOD · Nivel 3 · Grados de libertad, sincronización y publicación · edad y horario comprobados, nivel lectivo por aclarar
 
-**Análisis verificado:** 2026-11-06
+**Análisis verificado:** 2026-11-07
 
 **Ingeniería, robótica y programación:** Considerar como alternativa · Opción técnica cercana si el organizador confirma idioma de trabajo y dificultad suficiente. Comprobar tarea real y nivel antes de pagar.
 
@@ -77522,6 +77538,8 @@ FOD · Nivel 3 · Grados de libertad, sincronización y publicación · edad y h
 
 - 2027-01-29 · 13:00–17:00 · America/Costa_Rica · Nivel 3 · Grados de libertad, sincronización y publicación
 
+**Disponibilidad de plazas:** FOD anuncia inscripciones. La organización confirma la plaza. La apertura del curso depende del mínimo de inscritos.
+
 **Matvey:** Para esta fecha edad 9–10; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza.
 
 **Oscar:** Para esta fecha edad 6–7; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza.
@@ -77538,7 +77556,7 @@ FOD · Nivel 3 · Grados de libertad, sincronización y publicación · edad y h
 
 Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
 
-**Se ha comprobado:** 2026-11-06
+**Se ha comprobado:** 2026-11-07
 
 **edad:** 9–16 años; confirmar corte, curso escolar no sustituye edad
 
@@ -77568,7 +77586,7 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 
 FOD · Nivel 4 · Líneas de procesamiento y acciones de datos · edad y horario comprobados, nivel lectivo por aclarar
 
-**Análisis verificado:** 2026-11-06
+**Análisis verificado:** 2026-11-07
 
 **Ingeniería, robótica y programación:** Considerar como alternativa · Opción técnica cercana si el organizador confirma idioma de trabajo y dificultad suficiente. Comprobar tarea real y nivel antes de pagar.
 
@@ -77630,6 +77648,8 @@ FOD · Nivel 4 · Líneas de procesamiento y acciones de datos · edad y horario
 
 - 2027-01-15 · 13:00–17:00 · America/Costa_Rica · Nivel 4 · Líneas de procesamiento y acciones de datos
 
+**Disponibilidad de plazas:** FOD anuncia inscripciones. La organización confirma la plaza. La apertura del curso depende del mínimo de inscritos.
+
 **Matvey:** Para esta fecha edad 9–10; curso 9–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza.
 
 **Oscar:** Para esta fecha edad 6–7; curso 9–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza.
@@ -77646,7 +77666,7 @@ FOD · Nivel 4 · Líneas de procesamiento y acciones de datos · edad y horario
 
 Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
 
-**Se ha comprobado:** 2026-11-06
+**Se ha comprobado:** 2026-11-07
 
 **edad:** 10–12 años; confirmar corte, curso escolar no sustituye edad
 
@@ -77698,6 +77718,8 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 
 - 2027-01-22 · 08:00–12:00 · America/Costa_Rica · Creatividad y diseño con robótica · 10–12
 
+**Disponibilidad de plazas:** FOD anuncia inscripciones. La organización confirma la plaza. La apertura del curso depende del mínimo de inscritos.
+
 **Matvey:** Para esta fecha edad 9–10; curso 10–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza.
 
 **Oscar:** Para esta fecha edad 6–7; curso 10–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza.
@@ -77714,7 +77736,7 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 
 Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
 
-**Se ha comprobado:** 2026-11-06
+**Se ha comprobado:** 2026-11-07
 
 **edad:** 12–16 años; confirmar corte, curso escolar no sustituye edad
 
@@ -77766,6 +77788,8 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 
 - 2026-12-11 · 08:00–12:00 · America/Costa_Rica · Nivel 1 · Edificaciones en 3D
 
+**Disponibilidad de plazas:** FOD anuncia inscripciones. La organización confirma la plaza. La apertura del curso depende del mínimo de inscritos.
+
 **Matvey:** Para esta fecha edad 9–9; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza.
 
 **Oscar:** Para esta fecha edad 6–6; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza.
@@ -77789,6 +77813,8 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 - 2027-01-14 · 13:00–17:00 · America/Costa_Rica · Nivel 1 · Edificaciones en 3D
 
 - 2027-01-15 · 13:00–17:00 · America/Costa_Rica · Nivel 1 · Edificaciones en 3D
+
+**Disponibilidad de plazas:** FOD anuncia inscripciones. La organización confirma la plaza. La apertura del curso depende del mínimo de inscritos.
 
 **Matvey:** Para esta fecha edad 9–10; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza.
 
@@ -77814,6 +77840,8 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 
 - 2027-01-22 · 08:00–12:00 · America/Costa_Rica · Nivel 1 · Edificaciones en 3D
 
+**Disponibilidad de plazas:** FOD anuncia inscripciones. La organización confirma la plaza. La apertura del curso depende del mínimo de inscritos.
+
 **Matvey:** Para esta fecha edad 9–10; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza.
 
 **Oscar:** Para esta fecha edad 6–7; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza.
@@ -77830,7 +77858,7 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 
 Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
 
-**Se ha comprobado:** 2026-11-06
+**Se ha comprobado:** 2026-11-07
 
 **edad:** 12–16 años; confirmar corte, curso escolar no sustituye edad
 
@@ -77882,6 +77910,8 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 
 - 2027-01-29 · 08:00–12:00 · America/Costa_Rica · Nivel 2 · Edificaciones en 3D
 
+**Disponibilidad de plazas:** FOD anuncia inscripciones. La organización confirma la plaza. La apertura del curso depende del mínimo de inscritos.
+
 **Matvey:** Para esta fecha edad 9–10; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza.
 
 **Oscar:** Para esta fecha edad 6–7; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza.
@@ -77898,7 +77928,7 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 
 Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
 
-**Se ha comprobado:** 2026-11-06
+**Se ha comprobado:** 2026-11-07
 
 **edad:** 12–16 años; confirmar corte, curso escolar no sustituye edad
 
@@ -77950,6 +77980,8 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 
 - 2027-01-22 · 13:00–17:00 · America/Costa_Rica · Nivel 1 · Makers, Microplacas programables
 
+**Disponibilidad de plazas:** FOD anuncia inscripciones. La organización confirma la plaza. La apertura del curso depende del mínimo de inscritos.
+
 **Matvey:** Para esta fecha edad 9–10; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza.
 
 **Oscar:** Para esta fecha edad 6–7; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza.
@@ -77966,7 +77998,7 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 
 Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
 
-**Se ha comprobado:** 2026-11-06
+**Se ha comprobado:** 2026-11-07
 
 **edad:** 12–16 años; confirmar corte, curso escolar no sustituye edad
 
@@ -78017,6 +78049,8 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 - 2027-01-28 · 13:00–17:00 · America/Costa_Rica · Nivel 2 · Makers, Microplacas programables
 
 - 2027-01-29 · 13:00–17:00 · America/Costa_Rica · Nivel 2 · Makers, Microplacas programables
+
+**Disponibilidad de plazas:** FOD anuncia inscripciones. La organización confirma la plaza. La apertura del curso depende del mínimo de inscritos.
 
 **Matvey:** Para esta fecha edad 9–10; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza.
 

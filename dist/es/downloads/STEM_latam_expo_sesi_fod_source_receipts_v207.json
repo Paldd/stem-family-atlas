@@ -1,0 +1,225 @@
+[
+  {
+    "key": "sesi-infogram",
+    "url": "https://e.infogram.com/_/n2AbU6nKzulqZZasojY6?src=embed",
+    "checked_at": "2026-11-07T08:52:27.279825+00:00",
+    "transport": "curl",
+    "status": 200,
+    "final_url": "https://e.infogram.com/_/n2AbU6nKzulqZZasojY6?src=embed",
+    "content_type": "texto/html; carcasa=utf-8",
+    "bytes": 473639,
+    "sha256": "b66aa2e467a274eab89640996d040cfa67c60e7dd97fddf2fdb947739fe291ca"
+  },
+  {
+    "key": "sesi-national",
+    "url": "https://frc-events.firstinspires.org/2027/BRBA",
+    "checked_at": "2026-11-07T08:52:27.280109+00:00",
+    "transport": "curl",
+    "status": 200,
+    "final_url": "https://frc-events.firstinspires.org/2027/BRBA",
+    "content_type": "texto/html; carcasa=utf-8",
+    "bytes": 172665,
+    "sha256": "f36eb866478705608ef5765c2e0bd80748c510aa769cdea876e435c08fb6d852"
+  },
+  {
+    "key": "sesi-sc-fiesc",
+    "url": "https://fiesc.com.br/pt-br/imprensa/festival-sesi-de-robotica-sera-realizado-em-sao-bento-do-sul-em-dezembro",
+    "checked_at": "2026-11-07T08:52:27.281445+00:00",
+    "transport": "curl",
+    "status": 403,
+    "final_url": "https://fiesc.com.br/pt-br/imprensa/festival-sesi-de-robotica-sera-realizado-em-sao-bento-do-sul-em-dezembro",
+    "content_type": "texto/html; conjunto de caracteres=UTF-8"
+  },
+  {
+    "key": "sesi-ms",
+    "url": "https://www.sesims.com.br/noticias/campo-grande-vai-sediar-seletiva-regional-de-robotica-do-sesi-em-novembro/49517",
+    "checked_at": "2026-11-07T08:52:27.281682+00:00",
+    "transport": "curl",
+    "status": 200,
+    "final_url": "https://www.sesims.com.br/noticias/campo-grande-vai-sediar-seletiva-regional-de-robotica-do-sesi-em-novembro/49517",
+    "content_type": "texto/html; conjunto de caracteres=UTF-8",
+    "bytes": 45626,
+    "sha256": "4a7538194361d66bca2032108938206e7a08c43378ac15a0a258c05b9cd5b785"
+  },
+  {
+    "key": "sesi-fll",
+    "url": "https://www.portaldaindustria.com.br/sesi/canais/torneio-de-robotica/first-lego-league-brasil/",
+    "checked_at": "2026-11-07T08:52:27.283191+00:00",
+    "transport": "curl",
+    "result": "transport_error"
+  },
+  {
+    "key": "bgs-venue",
+    "url": "https://www.brasilgameshow.com.br/local-e-como-chegar/",
+    "checked_at": "2026-11-07T08:52:27.284662+00:00",
+    "transport": "curl",
+    "status": 200,
+    "final_url": "https://www.brasilgameshow.com.br/local-e-como-chegar/",
+    "content_type": "texto/html; conjunto de caracteres=UTF-8",
+    "bytes": 83667,
+    "sha256": "48675cadd5d6e090151864f32ecc9a3157fcc79030f84b3d14712fded0c9be35"
+  },
+  {
+    "key": "drone-visitors",
+    "url": "https://expodronemty.com/registro-visitantes-expo-dron/",
+    "checked_at": "2026-11-07T08:52:27.288656+00:00",
+    "transport": "curl",
+    "status": 200,
+    "final_url": "https://expodronemty.com/registro-visitantes-expo-dron/",
+    "content_type": "texto/html; conjunto de caracteres=UTF-8",
+    "bytes": 234689,
+    "sha256": "55ab0c27c7bc9ad335ed5e4d3b66de9e21bb2553b618820812f5d6c3c8911a6d"
+  },
+  {
+    "key": "bett",
+    "url": "https://brasil.bettshow.com/bett-blog/bett-brasil-abre-inscricoes-para-32%C2%AA-edicao-evento",
+    "checked_at": "2026-11-07T08:52:27.289431+00:00",
+    "transport": "curl",
+    "status": 200,
+    "final_url": "https://brasil.bettshow.com/bett-blog/bett-brasil-abre-inscricoes-para-32%C2%AA-edicao-evento",
+    "content_type": "text/html;charset=utf-8",
+    "bytes": 69199,
+    "sha256": "464042973042731d7f5d319df9d293ec15c67aeaf2edc66d32b056d6d63bc130"
+  },
+  {
+    "key": "bett-robo",
+    "url": "https://brasil.bettshow.com/expositores/robo-ciencia",
+    "checked_at": "2026-11-07T08:52:27.291086+00:00",
+    "transport": "curl",
+    "status": 200,
+    "final_url": "https://brasil.bettshow.com/expositores/robo-ciencia",
+    "content_type": "text/html;charset=utf-8",
+    "bytes": 50758,
+    "sha256": "48642cad0002b299d7a31d1e18a45a657099a743f7bd6dabe5afa1e4879bdde8"
+  },
+  {
+    "key": "sesi-rule",
+    "url": "https://www.sesi.portaldaindustria.com.br/para-voce/robotica",
+    "checked_at": "2026-11-07T09:00:29.103813+00:00",
+    "transport": "curl",
+    "status": 200,
+    "final_url": "https://www.sesi.portaldaindustria.com.br/para-voce/robotica",
+    "content_type": "texto/html;cártice=UTF-8",
+    "bytes": 1333853,
+    "sha256": "f6dfc4e0cc16aedef39dc62a536015b084f938d1e9437bbebb474f53ab43822d"
+  },
+  {
+    "key": "expotec",
+    "url": "https://cedesdonbosco.ed.cr/expotec/",
+    "checked_at": "2026-11-07T08:51:08.506966+00:00",
+    "transport": "curl",
+    "status": 200,
+    "final_url": "https://cedesdonbosco.ed.cr/expotec/",
+    "content_type": "texto/html; conjunto de caracteres=UTF-8",
+    "bytes": 351255,
+    "sha256": "834cb248d8947d5f48a3d5e9107ea791fb2292646fa20314efa8034f7a549ce8"
+  },
+  {
+    "key": "unoi",
+    "url": "https://feriamakerunoi.com/",
+    "checked_at": "2026-11-07T08:51:08.507212+00:00",
+    "transport": "curl",
+    "status": 200,
+    "final_url": "https://feriamakerunoi.com/",
+    "content_type": "text/html",
+    "bytes": 24065,
+    "sha256": "b32e734c6335dec2a1f581dfa547006a0fe61675dcadbe895179ca1231bfee36"
+  },
+  {
+    "key": "drone",
+    "url": "https://expodronemty.com/",
+    "checked_at": "2026-11-07T08:51:08.509663+00:00",
+    "transport": "curl",
+    "status": 200,
+    "final_url": "https://expodronemty.com/",
+    "content_type": "texto/html; conjunto de caracteres=UTF-8",
+    "bytes": 292829,
+    "sha256": "ee269d0e417bd837e0570959340b0d99ff25b48d7e5a6e3cffa47a8b918d623a"
+  },
+  {
+    "key": "automatech",
+    "url": "https://www.automatechexpo.com/",
+    "checked_at": "2026-11-07T08:51:08.510036+00:00",
+    "transport": "curl",
+    "status": 200,
+    "final_url": "https://www.automatechexpo.com/",
+    "content_type": "texto/html; conjunto de caracteres=UTF-8",
+    "bytes": 1476568,
+    "sha256": "1f0dded3c17dc54715fc8cb20d64d907145d35ef66a008e4af396aba713c2032"
+  },
+  {
+    "key": "bgs",
+    "url": "https://www.brasilgameshow.com.br/ingressos/",
+    "checked_at": "2026-11-07T08:51:08.510158+00:00",
+    "transport": "curl",
+    "status": 200,
+    "final_url": "https://www.brasilgameshow.com.br/ingressos/",
+    "content_type": "texto/html; conjunto de caracteres=UTF-8",
+    "bytes": 109990,
+    "sha256": "629d21e9c33174623794f15d970725247f48e4bd4b5c42da11f959dffc366516"
+  },
+  {
+    "key": "bgs-home",
+    "url": "https://www.brasilgameshow.com.br/",
+    "checked_at": "2026-11-07T08:51:08.511447+00:00",
+    "transport": "curl",
+    "status": 200,
+    "final_url": "https://www.brasilgameshow.com.br/",
+    "content_type": "texto/html; conjunto de caracteres=UTF-8",
+    "bytes": 244986,
+    "sha256": "1f9f1f9aa368cc3c35efeb7672b30796537516d6d738d013d6bcbc5e821deb42"
+  },
+  {
+    "key": "ficgames",
+    "url": "https://uniat.edu.mx/convocatoria-ficg-uniat/",
+    "checked_at": "2026-11-07T08:51:08.514443+00:00",
+    "transport": "curl",
+    "status": 200,
+    "final_url": "https://uniat.edu.mx/convocatoria-ficg-uniat/",
+    "content_type": "texto/html; conjunto de caracteres=UTF-8",
+    "bytes": 532506,
+    "sha256": "afac9b52ca9d07427f9a1e0dbefbcef29e701bd740f7cf3dc33c7c6158f16d06"
+  },
+  {
+    "key": "fod-news",
+    "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+    "checked_at": "2026-11-07T08:51:08.517368+00:00",
+    "transport": "curl",
+    "status": 200,
+    "final_url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+    "content_type": "texto/html; conjunto de caracteres=UTF-8",
+    "bytes": 429313,
+    "sha256": "97ce853041b407056ca7dac71a25b2731c5bf87b8fb6fe41418fb207ffd44496"
+  },
+  {
+    "key": "sesi-regional",
+    "url": "https://noticias.portaldaindustria.com.br/noticias/educacao/confira-o-calendario-de-competicoes-regionais-dos-torneios-sesi-de-robotica/",
+    "checked_at": "2026-11-07T08:51:08.519155+00:00",
+    "transport": "curl",
+    "status": 200,
+    "final_url": "https://noticias.portaldaindustria.com.br/noticias/educacao/confira-o-calendario-de-competicoes-regionais-dos-torneios-sesi-de-robotica/",
+    "content_type": "texto/html; carcasa=utf-8",
+    "bytes": 67036,
+    "sha256": "5c14876211e657632daca86a0c37caad672c84a3106feef7738b05c47f953bd0"
+  },
+  {
+    "key": "sesi-sc",
+    "url": "https://sesisc.org.br/robotica",
+    "checked_at": "2026-11-07T08:51:08.520911+00:00",
+    "transport": "curl",
+    "status": 403,
+    "final_url": "https://sesisc.org.br/robotica",
+    "content_type": "texto/html; conjunto de caracteres=UTF-8"
+  },
+  {
+    "key": "sesi-stem",
+    "url": "https://www.sesi.portaldaindustria.com.br/para-voce/robotica/stem-racing",
+    "checked_at": "2026-11-07T09:04:07.186268+00:00",
+    "transport": "curl",
+    "status": 200,
+    "final_url": "https://www.sesi.portaldaindustria.com.br/para-voce/robotica/stem-racing",
+    "content_type": "texto/html;cártice=UTF-8",
+    "bytes": 1451034,
+    "sha256": "e32cb6963b29630f0e06c1743e874b0ff10b2f0bf557d067c66291e5058a0e1e"
+  }
+]

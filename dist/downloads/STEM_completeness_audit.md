@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 7368; соревнований: 3073; событий: 293; лагерей / программ: 4002. Профилей лиг и программ: 257. Карточек крупных и профильных выставок: 205 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 7404; соревнований: 3101; событий: 301; лагерей / программ: 4002. Профилей лиг и программ: 258. Карточек крупных и профильных выставок: 213 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 158 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -14,8 +14,8 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 
 | Континент | Страны / территории с записями | Соревнования | Крупные выставки | Лагеря / программы |
 |---|---:|---:|---:|---:|
-| Северная Америка | 23 | 1422 | 31 | 1057 |
-| Южная Америка | 10 | 167 | 7 | 117 |
+| Северная Америка | 23 | 1422 | 36 | 1057 |
+| Южная Америка | 10 | 195 | 10 | 117 |
 | Европа | 42 | 412 | 68 | 1256 |
 | Африка | 34 | 115 | 15 | 68 |
 | Азия | 44 | 747 | 81 | 1378 |
@@ -23,7 +23,7 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 
 Межрегиональные / глобальные карточки, не приписанные одному континенту: 108. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
 
-VEX: 518 из 3073 карточек соревнований (16.9%). Это явный перекос охвата.
+VEX: 518 из 3101 карточек соревнований (16.7%). Это явный перекос охвата.
 
 ## Что осталось
 
@@ -94,7 +94,7 @@ VEX: 518 из 3073 карточек соревнований (16.9%). Это я�
 ## Профили лиг и программ
 
 - **WRO**: 115 карточек, 6 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://wro-association.org/competition/categories/
-- **FIRST**: 284 карточек, 178 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.firstinspires.org/programs/fll/
+- **FIRST**: 312 карточек, 205 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.firstinspires.org/programs/fll/
 - **VEX Robotics**: 518 карточек, 418 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.vexrobotics.com/official-path
 - **RoboCupJunior**: 4 карточек, 2 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://junior.robocup.org/
 - **MakeX**: 15 карточек, 11 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.makex.cc/en/2026-makex
@@ -350,6 +350,7 @@ VEX: 518 из 3073 карточек соревнований (16.9%). Это я�
 - **WRO · Zimbabwe / Girls in STEM Trust**: 2 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://girlsinstemtrust.org/
 - **WRO · Mozambique / Osuwela**: 2 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://drive.google.com/uc?export=download&id=12B27_qlYAcDiwe6UqNV1c7mqe34tl0Xi
 - **FIRST LEGO League · Algeria / Robot Éducatif Algérie**: 0 карточек, 0 с будущими точными датами. Только профиль; календарь этапов не добавлен. https://www.firstinspires.org/hubfs/web/about/report/annual_report_2025.pdf
+- **SESI Brasil · FIRST CANOPY / STEM Racing 2026/27**: 28 карточек, 27 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.sesi.portaldaindustria.com.br/para-voce/robotica
 
 ## Крупные выставки: календарные карточки
 
@@ -558,6 +559,14 @@ VEX: 518 из 3073 карточек соревнований (16.9%). Это я�
 - **Mozambique International AI Conference · announced programme** — Мозамбик; дата неизвестна. Детский допуск уточнить. https://amia.co.mz/en/eventos
 - **Games & Comic Con Dzaïr · 2027 date conflict** — Алжир; дата неизвестна. Детский допуск уточнить. https://www.gccdz.com/
 - **FIBDA · gaming programme / next edition watch** — Алжир; дата неизвестна. Детский допуск уточнить. https://www.fibda-dz.com/
+- **EXPOTEC · CEDES Don Bosco 2026** — Коста-Рика; 2026-11-13 – 2026-11-15. Детский допуск уточнить. https://cedesdonbosco.ed.cr/expotec/
+- **Feria Maker UNOi 2027** — Мексика; 2027-04-24. Детский допуск уточнить. https://feriamakerunoi.com/
+- **AUTOMATECH Expo 2027** — Мексика; 2027-04-07 – 2027-04-08. Детский допуск уточнить. https://www.automatechexpo.com/
+- **Expodrone Innovation & Technology Monterrey 2027** — Мексика; 2027-09-08 – 2027-09-10. Детский допуск уточнить. https://expodronemty.com/
+- **Brasil Game Show 2027 · public exhibition** — Бразилия; 2027-10-09 – 2027-10-12. Со взрослым; условия взрослого входа отдельно. https://www.brasilgameshow.com.br/ingressos/
+- **Bett Brasil 2027 · Education Technology** — Бразилия; 2027-05-04 – 2027-05-07. Детский допуск уточнить. https://brasil.bettshow.com/bett-blog/bett-brasil-abre-inscricoes-para-32%C2%AA-edicao-evento
+- **FICGAMES 2027 · Playtest exhibition** — Мексика; дата неизвестна. Детский допуск уточнить. https://uniat.edu.mx/convocatoria-ficg-uniat/
+- **Festival Regional SESI de Robótica · Santa Catarina public programme** — Бразилия; 2026-12-04 – 2026-12-08. Со взрослым; условия взрослого входа отдельно. https://fiesc.com.br/pt-br/imprensa/festival-sesi-de-robotica-sera-realizado-em-sao-bento-do-sul-em-dezembro
 
 ## Добавлено в этой версии
 
