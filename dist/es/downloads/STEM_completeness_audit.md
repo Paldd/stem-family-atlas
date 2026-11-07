@@ -6,24 +6,24 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 8555; competiciones: 3470; eventos: 455; campamentos / programas: 4630. Perfiles de ligas y programas: 288. Fichas de exposiciones grandes y especializadas: 365 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 8571; competiciones: 3473; eventos: 458; campamentos / programas: 4640. Perfiles de ligas y programas: 288. Fichas de exposiciones grandes y especializadas: 368 — son ediciones y sedes, no cantidad de marcas únicas.
 
-Hay registros específicos en 195 de 249 países y territorios; países auditados por completo: 0. Pasada archivada v51: se añadieron 21 fichas y 3 perfiles. Se conservaron todas las fichas anteriores.
+Hay registros específicos en 201 de 249 países y territorios; países auditados por completo: 0. Pasada archivada v51: se añadieron 21 fichas y 3 perfiles. Se conservaron todas las fichas anteriores.
 
 ## Cobertura por continentes
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 35 | 1524 | 79 | 1215 |
+| América del Norte | 37 | 1526 | 81 | 1216 |
 | América del Sur | 13 | 251 | 31 | 197 |
-| Europa | 46 | 444 | 87 | 1391 |
-| África | 43 | 142 | 27 | 76 |
-| Asia | 47 | 854 | 114 | 1565 |
-| Oceanía | 12 | 139 | 25 | 173 |
+| Europa | 48 | 444 | 88 | 1394 |
+| África | 44 | 142 | 27 | 78 |
+| Asia | 47 | 854 | 114 | 1569 |
+| Oceanía | 13 | 140 | 25 | 173 |
 
 Fichas interregionales o globales sin continente único: 136. América del Norte incluye Centroamérica y el Caribe. Las cifras reflejan el inventario de la base y la cobertura completa sigue pendiente.
 
-VEX: 521 de 3470 fichas de competiciones (15.0%). La cobertura se concentra en esta liga.
+VEX: 521 de 3473 fichas de competiciones (15.0%). La cobertura se concentra en esta liga.
 
 ## Lo que queda
 
@@ -721,6 +721,9 @@ VEX: 521 de 3470 fichas de competiciones (15.0%). La cobertura se concentra en e
 - **CGROBOTICS 2026 · démonstrations à Pointe-Noire** — Congo; 2026-11-13 – 2026-11-14. el permiso de entrada de niños. https://cgrobotics.crte.tech/jy-serai
 - **Arduino Day 2026 · University of Malawi** — Malaui; 2026-03-28. el permiso de entrada de niños. https://www.unima.ac.mw/news/single-post/unima-hosts-arduino-day-2026-07-04-2026
 - **National Science and Innovation Fair 2026 · public exhibition** — Islas Vírgenes Británicas; 2026-03-19 – 2026-03-20. con un adulto; condiciones de admisión adulta por separado. https://www.gov.vg/news/over-three-hundred-students-showcase-projects-national-science-and-innovation-fair
+- **Pelican Energy TCI National Science Fair 2027 · Public Exhibition** — Islas Turcas y Caicos; 2027-03-04. el permiso de entrada de niños. https://www.pelicanenergytcisciencefair.com/copy-of-projects/national-science-project-competition
+- **Monaco Robot Show 2027 · Living With Robots** — Mónaco; 2027-06-09 – 2027-06-10. el permiso de entrada de niños. https://monaco-robotshow.com/
+- **André Kuipers · SpaceBuzz y VR · Bonaire** — Caribe neerlandés; fecha desconocida. Confirmar acceso infantil. https://www.rijksdienstcn.com/actueel/nieuws/2026/mei/13/andre-kuipers-laat-jongeren-de-ruimte-beleven
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

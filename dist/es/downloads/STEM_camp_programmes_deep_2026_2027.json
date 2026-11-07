@@ -30,12 +30,12 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1873,
+    "dossiers": 1874,
     "countries": 121,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 261,
-      "published_2027": 509,
+      "published_2027": 510,
       "partial_2027": 141,
       "next_unannounced": 397,
       "published_2026": 341,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2738
+    "source_urls": 2739
   },
   "countries": [
     {
@@ -421,7 +421,7 @@
     },
     {
       "country": "Singapur",
-      "count": 175
+      "count": 176
     },
     {
       "country": "Sierra Leona",
@@ -317783,6 +317783,233 @@
           ]
         }
       ]
+    },
+    {
+      "id": "CP1874",
+      "slug": "gess-singapore-robotics-2027",
+      "provider": "GESS Singapore · Robotics & Coding",
+      "country": "Singapur",
+      "iso": "SGP",
+      "place": "GESS campus · E204",
+      "age": "La ficha de robótica indica 6–14 años. La descripción general admite desde Grade 5. Confirmar el criterio vigente.",
+      "programme": "Robots LEGO Education, programación visual Scratch, agarre, movimiento y detección de objetos.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "No se indica el idioma de la robótica. La página inglesa de GESS por sí sola no confirma el idioma del turno.",
+      "confirmed_instruction_languages": [],
+      "timing": {
+        "status": "published_2027",
+        "label": "Del 4 al 8 de enero, del 29 de marzo al 2 de abril, del 5 al 9 de abril y del 28 de junio al 2 de julio de 2027.",
+        "session_details": [
+          {
+            "variant_key": "january-e204",
+            "start": "2027-01-04",
+            "end": "2027-01-08",
+            "label": "Opciones 08:30–15:00, 08:30–11:30 o 12:00–15:00, hora local.",
+            "price": "Precio de la modalidad, comidas y reembolso bajo consulta.",
+            "source": "https://www.gess.edu.sg/en/experiential-learning/holiday-camps",
+            "date_scope": "day_camp_window",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+            },
+            "entry": "Inscripción con el operador del campamento. La escuela indica cierre 2 semanas antes del inicio. Confirmar acceso de participantes externos.",
+            "questions": [
+              "Condicional. Edad dentro de la ficha de robótica. Confirmar admisión por curso, idioma y disponibilidad."
+            ],
+            "formats": [
+              "day"
+            ]
+          },
+          {
+            "variant_key": "march-e204",
+            "start": "2027-03-29",
+            "end": "2027-04-02",
+            "label": "Opciones 08:30–15:00, 08:30–11:30 o 12:00–15:00, hora local.",
+            "price": "Precio de la modalidad, comidas y reembolso bajo consulta.",
+            "source": "https://www.gess.edu.sg/en/experiential-learning/holiday-camps",
+            "date_scope": "day_camp_window",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+            },
+            "entry": "Inscripción con el operador del campamento. La escuela indica cierre 2 semanas antes del inicio. Confirmar acceso de participantes externos.",
+            "questions": [
+              "Condicional. Edad dentro de la ficha de robótica. Confirmar admisión por curso, idioma y disponibilidad."
+            ],
+            "formats": [
+              "day"
+            ]
+          },
+          {
+            "variant_key": "april-e204",
+            "start": "2027-04-05",
+            "end": "2027-04-09",
+            "label": "Opciones 08:30–15:00, 08:30–11:30 o 12:00–15:00, hora local.",
+            "price": "Precio de la modalidad, comidas y reembolso bajo consulta.",
+            "source": "https://www.gess.edu.sg/en/experiential-learning/holiday-camps",
+            "date_scope": "day_camp_window",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+            },
+            "entry": "Inscripción con el operador del campamento. La escuela indica cierre 2 semanas antes del inicio. Confirmar acceso de participantes externos.",
+            "questions": [
+              "Condicional. Edad dentro de la ficha de robótica. Confirmar admisión por curso, idioma y disponibilidad."
+            ],
+            "formats": [
+              "day"
+            ]
+          },
+          {
+            "variant_key": "june-e204",
+            "start": "2027-06-28",
+            "end": "2027-07-02",
+            "label": "Opciones 08:30–15:00, 08:30–11:30 o 12:00–15:00, hora local.",
+            "price": "Precio de la modalidad, comidas y reembolso bajo consulta.",
+            "source": "https://www.gess.edu.sg/en/experiential-learning/holiday-camps",
+            "date_scope": "day_camp_window",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+            },
+            "entry": "Inscripción con el operador del campamento. La escuela indica cierre 2 semanas antes del inicio. Confirmar acceso de participantes externos.",
+            "questions": [
+              "Condicional. Edad dentro de la ficha de robótica. Confirmar admisión por curso, idioma y disponibilidad."
+            ],
+            "formats": [
+              "day"
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "sessions": [
+          [
+            "2027-01-04",
+            "2027-01-08"
+          ],
+          [
+            "2027-03-29",
+            "2027-04-02"
+          ],
+          [
+            "2027-04-05",
+            "2027-04-09"
+          ],
+          [
+            "2027-06-28",
+            "2027-07-02"
+          ]
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "SGD",
+        "amount": null,
+        "unit": "quote",
+        "label": "Precio de la modalidad, comidas y reembolso bajo consulta.",
+        "included": "Se utiliza material LEGO. Confirmar qué incluye el precio.",
+        "extras": "Precio de la modalidad, comidas y reembolso bajo consulta.",
+        "deposit": "Precio de la modalidad, comidas y reembolso bajo consulta."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Edad dentro de la ficha de robótica. Confirmar admisión por curso, idioma y disponibilidad."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional. Edad dentro de la ficha de robótica. Confirmar admisión por curso, idioma y disponibilidad."
+        }
+      },
+      "editorial_reason": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "shortlist": [],
+      "questions": [
+        "Inscripción con el operador del campamento. La escuela indica cierre 2 semanas antes del inicio. Confirmar acceso de participantes externos.",
+        "Condicional. Edad dentro de la ficha de robótica. Confirmar admisión por curso, idioma y disponibilidad."
+      ],
+      "sources": [
+        {
+          "url": "https://www.gess.edu.sg/en/experiential-learning/holiday-camps",
+          "title": "Página o reglamento oficial de la organización.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1874-20270104-20270108-january-e204"
+          ]
+        },
+        {
+          "start": "2027-03-29",
+          "end": "2027-04-02",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1874-20270329-20270402-march-e204"
+          ]
+        },
+        {
+          "start": "2027-04-05",
+          "end": "2027-04-09",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1874-20270405-20270409-april-e204"
+          ]
+        },
+        {
+          "start": "2027-06-28",
+          "end": "2027-07-02",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1874-20270628-20270702-june-e204"
+          ]
+        }
+      ]
     }
   ],
   "gaps": [
@@ -323108,7 +323335,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 244,
+  "version": 245,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -336343,7 +336570,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1873,
+      "total_dossiers": 1874,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -357083,6 +357310,26 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP1874",
+      "event_id": "CP1874-20270104-20270108-january-e204",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1874",
+      "event_id": "CP1874-20270329-20270402-march-e204",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1874",
+      "event_id": "CP1874-20270405-20270409-april-e204",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1874",
+      "event_id": "CP1874-20270628-20270702-june-e204",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -361444,10 +361691,14 @@
     "CP1873-20261221-20261225-week-1",
     "CP1873-20261228-20261231-week-2",
     "CP1873-20270104-20270108-week-3",
-    "CP1873-20261221-20270108-all-weeks"
+    "CP1873-20261221-20270108-all-weeks",
+    "CP1874-20270104-20270108-january-e204",
+    "CP1874-20270329-20270402-march-e204",
+    "CP1874-20270405-20270409-april-e204",
+    "CP1874-20270628-20270702-june-e204"
   ],
   "integration": {
-    "generated_sessions": 3931,
+    "generated_sessions": 3935,
     "reused_legacy_events": 73,
     "seasonal_windows": 73,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

@@ -9974,6 +9974,102 @@ Limitaciones: El informe estatal del 3 de julio de 2026 confirma la demostració
 Fuente: https://yapstate.gov.fm/post/pacioos-and-micronesian-conservation-coalition-bring-ocean-science-to-yap-students
 Se ha comprobado: 2026-11-07
 
+### L700 · Gibraltar Digital Skills Academy · KoduLab
+
+lugar: Gibraltar · Digital Skills Academy · Europort
+Fecha: Grupo documentado en el informe oficial de febrero de 2026. Confirmar horario y acceso de la próxima convocatoria.
+edad: Reception – Year 3.
+Matvey: Condicional. Hace falta el curso correspondiente y una plaza confirmada.
+Oscar: Condicional. Hace falta el curso correspondiente y una plaza confirmada.
+Formato: regular
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Acceso: La academia confirma el formato del curso. Comunica fechas, precio y plazas tras la solicitud. Confirmar curso e idioma de clase.
+Limitaciones: Clases de creación de videojuegos y programación. La fecha del informe no se añade como día de clase.
+Fuente: https://www.gibraltar.gov.gi/press-releases/visit-to-digital-skills-academy-662026-11663
+Se ha comprobado: 2026-11-07
+
+### L701 · Gibraltar Digital Skills Academy · Roblox Studio
+
+lugar: Gibraltar · Digital Skills Academy · Europort
+Fecha: Grupo documentado en el informe oficial de febrero de 2026. Confirmar horario y acceso de la próxima convocatoria.
+edad: Years 5–9.
+Matvey: Condicional. Hace falta el curso correspondiente y una plaza confirmada.
+Oscar: No por edad actual. Formato para cursos superiores.
+Formato: regular
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Acceso: La academia confirma el formato del curso. Comunica fechas, precio y plazas tras la solicitud. Confirmar curso e idioma de clase.
+Limitaciones: Clases de creación de videojuegos y programación. La fecha del informe no se añade como día de clase.
+Fuente: https://www.gibraltar.gov.gi/press-releases/visit-to-digital-skills-academy-662026-11663
+Se ha comprobado: 2026-11-07
+
+### L702 · Gibraltar Digital Skills Academy · Codeclub
+
+lugar: Gibraltar · Digital Skills Academy · Europort
+Fecha: Aún no se publican la próxima convocatoria ni su calendario.
+edad: Years 3–6.
+Matvey: Condicional. Hace falta el curso correspondiente y una plaza confirmada.
+Oscar: Condicional. Hace falta el curso correspondiente y una plaza confirmada.
+Formato: regular
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Acceso: La academia confirma el formato del curso. Comunica fechas, precio y plazas tras la solicitud. Confirmar curso e idioma de clase.
+Limitaciones: Consultar esta convocatoria por separado de los grupos archivados KoduLab y Roblox Studio.
+Fuente: https://www.digitalacademy.gi/courses/youth-development
+Se ha comprobado: 2026-11-07
+
+### L703 · Da Vinci Satellite · Galileo school programme · Bonaire
+
+lugar: Caribe neerlandés · Galileo ground station · Bonaire
+Fecha: 2025-02-24 — 2025-02-28
+edad: Programa por escuelas de Bonaire para Groep 8 y VWO 4 locales.
+Matvey: No por edad actual. Formato para cursos superiores.
+Oscar: No por edad actual. Formato para cursos superiores.
+Formato: regular
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Acceso: Programa por escuelas de Bonaire para Groep 8 y VWO 4 locales.
+Limitaciones: Las sesiones para escolares se celebraron en Bonaire. Docentes de Saba y San Eustaquio participaron en formación docente.
+Fuente: https://www.rijksdienstcn.com/actueel/nieuws/2025/februari/21/educatief-ruimtevaartprogramma-in-samenwerking-met-da-vinci-satellite-sgb-liseo-en-sterk-techniek-onderwijs
+Se ha comprobado: 2026-11-07
+
+### L704 · Uni-CV · Construindo Pontes através da Ciência · Santo Antão
+
+lugar: Cabo Verde · Santo Antão
+Fecha: 2026-05-11 — 2026-05-16
+edad: Talleres en escuelas de la isla. La edad depende del centro. Consultar nueva convocatoria con Casas da Ciência.
+Matvey: Confirmar edad y acceso con la organización.
+Oscar: Confirmar edad y acceso con la organización.
+Formato: regular
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Acceso: Talleres en escuelas de la isla. La edad depende del centro. Consultar nueva convocatoria con Casas da Ciência.
+Limitaciones: Archivo del 11 al 16 de mayo de 2026. Participaron varias escuelas. Hubo minicircuitos, impresión 3D y Makey Makey. El periodo del programa no es un turno para un solo grupo.
+Fuente: https://unicv.edu.cv/en/nots-geral/5674-v-edicao-do-bootcamp-de-ciencia-leva-experiencias-interativas-a-escolas-de-santo-antao
+Se ha comprobado: 2026-11-07
+
+### L705 · Uni-CV RS2Lab · Clube de Robótica · Abílio Duarte
+
+lugar: Cabo Verde · Escola Secundária Abílio Duarte
+Fecha: Aún no se publican la próxima convocatoria ni su calendario.
+edad: Secundaria. Franja de edad sin publicar.
+Matvey: No por edad actual. Formato para cursos superiores.
+Oscar: No por edad actual. Formato para cursos superiores.
+Formato: regular
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Acceso: Piloto escolar de RS2Lab para alumnado y profesorado de Escola Secundária Abílio Duarte.
+Limitaciones: Colaboración anunciada en febrero de 2026. Primero formación para poner en marcha el club. Convocatoria abierta y torneo sin confirmar.
+Fuente: https://unicv.edu.cv/pt/nots-geral/5502-uni-cv-aposta-na-robotica-educativa-com-formacao-em-escola-secundaria
+Se ha comprobado: 2026-11-07
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -72868,6 +72964,70 @@ Precio: 2026/27 · Precio bajo consulta por semana, materia o curso completo. ·
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Compatible con el grupo de 8–12 años. Confirmar disponibilidad. Oscar: Compatible con el grupo de 5–7 años. Confirmar disponibilidad. Suplementos: Confirmar factura final, comidas, supervisión y dos plazas. Pago: Confirmar reglas de pago y cancelación antes de reservar.
 Fuente: https://kidleaderhub.com/courses/winter-camp/
+Se ha comprobado: 2026-11-07
+
+### CP1874-20270104-20270108-january-e204 · GESS Singapore · Robotics & Coding · Opciones 08:30–15:00, 08:30–11:30 o 12:00–15:00, hora local. · 2027-01-04–2027-01-08
+
+Lugar: Singapur GESS campus · E204
+Fecha: 2027-01-04 — 2027-01-08
+edad: La ficha de robótica indica 6–14 años. La descripción general admite desde Grade 5. Confirmar el criterio vigente.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se indica el idioma de la robótica. La página inglesa de GESS por sí sola no confirma el idioma del turno.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Precio de la modalidad, comidas y reembolso bajo consulta. · suplementos y condiciones en el dossier
+Acceso: Inscripción con el operador del campamento. La escuela indica cierre 2 semanas antes del inicio. Confirmar acceso de participantes externos.
+Limitaciones: Matvey: Condicional. Edad dentro de la ficha de robótica. Confirmar admisión por curso, idioma y disponibilidad. Oscar: Condicional. Edad dentro de la ficha de robótica. Confirmar admisión por curso, idioma y disponibilidad. Suplementos: Precio de la modalidad, comidas y reembolso bajo consulta. Pago: Precio de la modalidad, comidas y reembolso bajo consulta.
+Fuente: https://www.gess.edu.sg/en/experiential-learning/holiday-camps
+Se ha comprobado: 2026-11-07
+
+### CP1874-20270329-20270402-march-e204 · GESS Singapore · Robotics & Coding · Opciones 08:30–15:00, 08:30–11:30 o 12:00–15:00, hora local. · 2027-03-29–2027-04-02
+
+Lugar: Singapur GESS campus · E204
+Fecha: 2027-03-29 - 2027-04-02
+edad: La ficha de robótica indica 6–14 años. La descripción general admite desde Grade 5. Confirmar el criterio vigente.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se indica el idioma de la robótica. La página inglesa de GESS por sí sola no confirma el idioma del turno.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Precio de la modalidad, comidas y reembolso bajo consulta. · suplementos y condiciones en el dossier
+Acceso: Inscripción con el operador del campamento. La escuela indica cierre 2 semanas antes del inicio. Confirmar acceso de participantes externos.
+Limitaciones: Matvey: Condicional. Edad dentro de la ficha de robótica. Confirmar admisión por curso, idioma y disponibilidad. Oscar: Condicional. Edad dentro de la ficha de robótica. Confirmar admisión por curso, idioma y disponibilidad. Suplementos: Precio de la modalidad, comidas y reembolso bajo consulta. Pago: Precio de la modalidad, comidas y reembolso bajo consulta.
+Fuente: https://www.gess.edu.sg/en/experiential-learning/holiday-camps
+Se ha comprobado: 2026-11-07
+
+### CP1874-20270405-20270409-april-e204 · GESS Singapore · Robotics & Coding · Opciones 08:30–15:00, 08:30–11:30 o 12:00–15:00, hora local. · 2027-04-05–2027-04-09
+
+Lugar: Singapur GESS campus · E204
+Fecha: 2027-04-05 — 2027-04-09
+edad: La ficha de robótica indica 6–14 años. La descripción general admite desde Grade 5. Confirmar el criterio vigente.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se indica el idioma de la robótica. La página inglesa de GESS por sí sola no confirma el idioma del turno.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Precio de la modalidad, comidas y reembolso bajo consulta. · suplementos y condiciones en el dossier
+Acceso: Inscripción con el operador del campamento. La escuela indica cierre 2 semanas antes del inicio. Confirmar acceso de participantes externos.
+Limitaciones: Matvey: Condicional. Edad dentro de la ficha de robótica. Confirmar admisión por curso, idioma y disponibilidad. Oscar: Condicional. Edad dentro de la ficha de robótica. Confirmar admisión por curso, idioma y disponibilidad. Suplementos: Precio de la modalidad, comidas y reembolso bajo consulta. Pago: Precio de la modalidad, comidas y reembolso bajo consulta.
+Fuente: https://www.gess.edu.sg/en/experiential-learning/holiday-camps
+Se ha comprobado: 2026-11-07
+
+### CP1874-20270628-20270702-june-e204 · GESS Singapore · Robotics & Coding · Opciones 08:30–15:00, 08:30–11:30 o 12:00–15:00, hora local. · 2027-06-28–2027-07-02
+
+Lugar: Singapur GESS campus · E204
+Fecha: 2027-06-28 — 2027-07-02
+edad: La ficha de robótica indica 6–14 años. La descripción general admite desde Grade 5. Confirmar el criterio vigente.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se indica el idioma de la robótica. La página inglesa de GESS por sí sola no confirma el idioma del turno.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Precio de la modalidad, comidas y reembolso bajo consulta. · suplementos y condiciones en el dossier
+Acceso: Inscripción con el operador del campamento. La escuela indica cierre 2 semanas antes del inicio. Confirmar acceso de participantes externos.
+Limitaciones: Matvey: Condicional. Edad dentro de la ficha de robótica. Confirmar admisión por curso, idioma y disponibilidad. Oscar: Condicional. Edad dentro de la ficha de robótica. Confirmar admisión por curso, idioma y disponibilidad. Suplementos: Precio de la modalidad, comidas y reembolso bajo consulta. Pago: Precio de la modalidad, comidas y reembolso bajo consulta.
+Fuente: https://www.gess.edu.sg/en/experiential-learning/holiday-camps
 Se ha comprobado: 2026-11-07
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

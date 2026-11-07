@@ -580,9 +580,9 @@
       }
     ],
     "counts": {
-      "records": 4630,
-      "holiday": 4332,
-      "regular": 139,
+      "records": 4640,
+      "holiday": 4336,
+      "regular": 145,
       "self_paced_materials": 2,
       "boarding": 1036,
       "en_es_instruction": 1432,
@@ -593,7 +593,7 @@
       "language_lessons": 410,
       "camp_life_language": 228,
       "language_unclassified": 137,
-      "countries": 124
+      "countries": 127
     },
     "validation": {
       "version": 51,
@@ -35670,6 +35670,315 @@
       "participation": "school_workshop",
       "admission_kind": "school",
       "evidence_level": "event_page"
+    },
+    {
+      "id": "L700",
+      "title": "Gibraltar Digital Skills Academy · KoduLab",
+      "block": "Campamentos",
+      "country": "Gibraltar",
+      "region": "Europa",
+      "iso": [
+        "GIB"
+      ],
+      "city": "Digital Skills Academy · Europort",
+      "start": "",
+      "end": "",
+      "period": "Grupo documentado en el informe oficial de febrero de 2026. Confirmar horario y acceso de la próxima convocatoria.",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "date_scope": "programme_watch",
+      "checked": "2026-11-07",
+      "source": "https://www.gibraltar.gov.gi/press-releases/visit-to-digital-skills-academy-662026-11663",
+      "references": [
+        {
+          "url": "https://www.digitalacademy.gi/courses",
+          "label": "Página o reglamento oficial de la organización."
+        }
+      ],
+      "proof": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "status": "Idea",
+      "age": "Reception – Year 3.",
+      "mat": "Condicional. Hace falta el curso correspondiente y una plaza confirmada.",
+      "osc": "Condicional. Hace falta el curso correspondiente y una plaza confirmada.",
+      "format": "Taller educativo presencial.",
+      "entry": "La academia confirma el formato del curso. Comunica fechas, precio y plazas tras la solicitud. Confirmar curso e idioma de clase.",
+      "gear": "Programación por bloques y creación del primer juego.",
+      "language": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "cost": "La tarifa exacta de la convocatoria elegida no está confirmada.",
+      "level": "Taller o programa formativo",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "Confirmar fechas, modalidad y acceso.",
+      "note": "Clases de creación de videojuegos y programación. La fecha del informe no se añade como día de clase.",
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Fase regional",
+      "participation": "regular",
+      "admission_kind": "program",
+      "evidence_level": "historical_program"
+    },
+    {
+      "id": "L701",
+      "title": "Gibraltar Digital Skills Academy · Roblox Studio",
+      "block": "Campamentos",
+      "country": "Gibraltar",
+      "region": "Europa",
+      "iso": [
+        "GIB"
+      ],
+      "city": "Digital Skills Academy · Europort",
+      "start": "",
+      "end": "",
+      "period": "Grupo documentado en el informe oficial de febrero de 2026. Confirmar horario y acceso de la próxima convocatoria.",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "date_scope": "programme_watch",
+      "checked": "2026-11-07",
+      "source": "https://www.gibraltar.gov.gi/press-releases/visit-to-digital-skills-academy-662026-11663",
+      "references": [
+        {
+          "url": "https://www.digitalacademy.gi/courses",
+          "label": "Página o reglamento oficial de la organización."
+        }
+      ],
+      "proof": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "status": "Idea",
+      "age": "Years 5–9.",
+      "mat": "Condicional. Hace falta el curso correspondiente y una plaza confirmada.",
+      "osc": "No por edad actual. Formato para cursos superiores.",
+      "format": "Taller educativo presencial.",
+      "entry": "La academia confirma el formato del curso. Comunica fechas, precio y plazas tras la solicitud. Confirmar curso e idioma de clase.",
+      "gear": "Creación de un mundo y programación de guiones en Roblox Studio.",
+      "language": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "cost": "La tarifa exacta de la convocatoria elegida no está confirmada.",
+      "level": "Taller o programa formativo",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "Confirmar fechas, modalidad y acceso.",
+      "note": "Clases de creación de videojuegos y programación. La fecha del informe no se añade como día de clase.",
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Fase regional",
+      "participation": "regular",
+      "admission_kind": "program",
+      "evidence_level": "historical_program"
+    },
+    {
+      "id": "L702",
+      "title": "Gibraltar Digital Skills Academy · Codeclub",
+      "block": "Campamentos",
+      "country": "Gibraltar",
+      "region": "Europa",
+      "iso": [
+        "GIB"
+      ],
+      "city": "Digital Skills Academy · Europort",
+      "start": "",
+      "end": "",
+      "period": "Aún no se publican la próxima convocatoria ni su calendario.",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "date_scope": "programme_watch",
+      "checked": "2026-11-07",
+      "source": "https://www.digitalacademy.gi/courses/youth-development",
+      "references": [
+        {
+          "url": "https://www.digitalacademy.gi/courses",
+          "label": "Página o reglamento oficial de la organización."
+        }
+      ],
+      "proof": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "status": "Idea",
+      "age": "Years 3–6.",
+      "mat": "Condicional. Hace falta el curso correspondiente y una plaza confirmada.",
+      "osc": "Condicional. Hace falta el curso correspondiente y una plaza confirmada.",
+      "format": "Taller educativo presencial.",
+      "entry": "La academia confirma el formato del curso. Comunica fechas, precio y plazas tras la solicitud. Confirmar curso e idioma de clase.",
+      "gear": "",
+      "language": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "cost": "La tarifa exacta de la convocatoria elegida no está confirmada.",
+      "level": "Taller o programa formativo",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "La academia confirma el formato del curso. Comunica fechas, precio y plazas tras la solicitud. Confirmar curso e idioma de clase.",
+      "note": "Consultar esta convocatoria por separado de los grupos archivados KoduLab y Roblox Studio.",
+      "themes": [
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Fase regional",
+      "participation": "regular",
+      "admission_kind": "program",
+      "evidence_level": "program"
+    },
+    {
+      "id": "L703",
+      "title": "Da Vinci Satellite · Galileo school programme · Bonaire",
+      "block": "Campamentos",
+      "country": "Caribe neerlandés",
+      "region": "Caribe",
+      "iso": [
+        "BES"
+      ],
+      "city": "Galileo ground station · Bonaire",
+      "start": "2025-02-24",
+      "end": "2025-02-28",
+      "period": "",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "date_scope": "day_camp_window",
+      "checked": "2026-11-07",
+      "source": "https://www.rijksdienstcn.com/actueel/nieuws/2025/februari/21/educatief-ruimtevaartprogramma-in-samenwerking-met-da-vinci-satellite-sgb-liseo-en-sterk-techniek-onderwijs",
+      "references": [],
+      "proof": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "status": "Idea",
+      "age": "Programa por escuelas de Bonaire para Groep 8 y VWO 4 locales.",
+      "mat": "No por edad actual. Formato para cursos superiores.",
+      "osc": "No por edad actual. Formato para cursos superiores.",
+      "format": "Taller educativo presencial.",
+      "entry": "Programa por escuelas de Bonaire para Groep 8 y VWO 4 locales.",
+      "gear": "",
+      "language": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "cost": "La tarifa exacta de la convocatoria elegida no está confirmada.",
+      "level": "Taller o programa formativo",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "Edición archivada. Confirmar condiciones de la próxima convocatoria.",
+      "note": "Las sesiones para escolares se celebraron en Bonaire. Docentes de Saba y San Eustaquio participaron en formación docente.",
+      "themes": [
+        "space",
+        "technology",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Fase regional",
+      "participation": "regular",
+      "admission_kind": "school_selection",
+      "evidence_level": "event_page"
+    },
+    {
+      "id": "L704",
+      "title": "Uni-CV · Construindo Pontes através da Ciência · Santo Antão",
+      "block": "Campamentos",
+      "country": "Cabo Verde",
+      "region": "África",
+      "iso": [
+        "CPV"
+      ],
+      "city": "Santo Antão",
+      "start": "2026-05-11",
+      "end": "2026-05-16",
+      "period": "",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "date_scope": "camp_window",
+      "checked": "2026-11-07",
+      "source": "https://unicv.edu.cv/en/nots-geral/5674-v-edicao-do-bootcamp-de-ciencia-leva-experiencias-interativas-a-escolas-de-santo-antao",
+      "references": [],
+      "proof": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "status": "Idea",
+      "age": "Talleres en escuelas de la isla. La edad depende del centro. Consultar nueva convocatoria con Casas da Ciência.",
+      "mat": "Confirmar edad y acceso con la organización.",
+      "osc": "Confirmar edad y acceso con la organización.",
+      "format": "Taller educativo presencial.",
+      "entry": "Talleres en escuelas de la isla. La edad depende del centro. Consultar nueva convocatoria con Casas da Ciência.",
+      "gear": "",
+      "language": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "cost": "La tarifa exacta de la convocatoria elegida no está confirmada.",
+      "level": "Taller o programa formativo",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "Edición archivada. Confirmar condiciones de la próxima convocatoria.",
+      "note": "Archivo del 11 al 16 de mayo de 2026. Participaron varias escuelas. Hubo minicircuitos, impresión 3D y Makey Makey. El periodo del programa no es un turno para un solo grupo.",
+      "themes": [
+        "technology",
+        "science",
+        "engineering",
+        "makers"
+      ],
+      "scope": "regional",
+      "importance_reason": "Fase regional",
+      "participation": "regular",
+      "admission_kind": "school_selection",
+      "evidence_level": "event_page",
+      "related_ids": [
+        "L705"
+      ]
+    },
+    {
+      "id": "L705",
+      "title": "Uni-CV RS2Lab · Clube de Robótica · Abílio Duarte",
+      "block": "Campamentos",
+      "country": "Cabo Verde",
+      "region": "África",
+      "iso": [
+        "CPV"
+      ],
+      "city": "Escola Secundária Abílio Duarte",
+      "start": "",
+      "end": "",
+      "period": "Aún no se publican la próxima convocatoria ni su calendario.",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "date_scope": "programme_watch",
+      "checked": "2026-11-07",
+      "source": "https://unicv.edu.cv/pt/nots-geral/5502-uni-cv-aposta-na-robotica-educativa-com-formacao-em-escola-secundaria",
+      "references": [],
+      "proof": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "status": "Idea",
+      "age": "Secundaria. Franja de edad sin publicar.",
+      "mat": "No por edad actual. Formato para cursos superiores.",
+      "osc": "No por edad actual. Formato para cursos superiores.",
+      "format": "Taller educativo presencial.",
+      "entry": "Piloto escolar de RS2Lab para alumnado y profesorado de Escola Secundária Abílio Duarte.",
+      "gear": "",
+      "language": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "cost": "La tarifa exacta de la convocatoria elegida no está confirmada.",
+      "level": "Taller o programa formativo",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "Confirmar fechas, modalidad y acceso.",
+      "note": "Colaboración anunciada en febrero de 2026. Primero formación para poner en marcha el club. Convocatoria abierta y torneo sin confirmar.",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Fase regional",
+      "participation": "regular",
+      "admission_kind": "school_selection",
+      "evidence_level": "event_page",
+      "related_ids": [
+        "L704"
+      ]
     },
     {
       "id": "CP001-20270606-20270619",
@@ -370628,6 +370937,274 @@
           "start_utc": "2027-01-08T02:00:00Z",
           "end_utc": "2027-01-08T08:15:00Z"
         }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+      }
+    },
+    {
+      "id": "CP1874-20270104-20270108-january-e204",
+      "block": "Campamentos",
+      "title": "GESS Singapore · Robotics & Coding · Opciones 08:30–15:00, 08:30–11:30 o 12:00–15:00, hora local. · 2027-01-04–2027-01-08",
+      "country": "Singapur",
+      "region": "Asia",
+      "city": "GESS campus · E204",
+      "start": "2027-01-04",
+      "end": "2027-01-08",
+      "period": "Del 4 al 8 de enero, del 29 de marzo al 2 de abril, del 5 al 9 de abril y del 28 de junio al 2 de julio de 2027.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "La ficha de robótica indica 6–14 años. La descripción general admite desde Grade 5. Confirmar el criterio vigente.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "Inscripción con el operador del campamento. La escuela indica cierre 2 semanas antes del inicio. Confirmar acceso de participantes externos.",
+      "gear": "Robots LEGO Education, programación visual Scratch, agarre, movimiento y detección de objetos.",
+      "language": "No se indica el idioma de la robótica. La página inglesa de GESS por sí sola no confirma el idioma del turno.",
+      "cost": "2027 · Precio de la modalidad, comidas y reembolso bajo consulta. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Condicional. Edad dentro de la ficha de robótica. Confirmar admisión por curso, idioma y disponibilidad.",
+      "source": "https://www.gess.edu.sg/en/experiential-learning/holiday-camps",
+      "references": [
+        {
+          "url": "https://www.gess.edu.sg/en/experiential-learning/holiday-camps",
+          "label": "Página o reglamento oficial de la organización."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Condicional. Edad dentro de la ficha de robótica. Confirmar admisión por curso, idioma y disponibilidad. Oscar: Condicional. Edad dentro de la ficha de robótica. Confirmar admisión por curso, idioma y disponibilidad. Suplementos: Precio de la modalidad, comidas y reembolso bajo consulta. Pago: Precio de la modalidad, comidas y reembolso bajo consulta.",
+      "iso": [
+        "SGP"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "No se indica el idioma de la robótica. La página inglesa de GESS por sí sola no confirma el idioma del turno.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "gess-singapore-robotics-2027",
+      "camp_programme_id": "CP1874",
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+      }
+    },
+    {
+      "id": "CP1874-20270329-20270402-march-e204",
+      "block": "Campamentos",
+      "title": "GESS Singapore · Robotics & Coding · Opciones 08:30–15:00, 08:30–11:30 o 12:00–15:00, hora local. · 2027-03-29–2027-04-02",
+      "country": "Singapur",
+      "region": "Asia",
+      "city": "GESS campus · E204",
+      "start": "2027-03-29",
+      "end": "2027-04-02",
+      "period": "Del 4 al 8 de enero, del 29 de marzo al 2 de abril, del 5 al 9 de abril y del 28 de junio al 2 de julio de 2027.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "La ficha de robótica indica 6–14 años. La descripción general admite desde Grade 5. Confirmar el criterio vigente.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "Inscripción con el operador del campamento. La escuela indica cierre 2 semanas antes del inicio. Confirmar acceso de participantes externos.",
+      "gear": "Robots LEGO Education, programación visual Scratch, agarre, movimiento y detección de objetos.",
+      "language": "No se indica el idioma de la robótica. La página inglesa de GESS por sí sola no confirma el idioma del turno.",
+      "cost": "2027 · Precio de la modalidad, comidas y reembolso bajo consulta. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Condicional. Edad dentro de la ficha de robótica. Confirmar admisión por curso, idioma y disponibilidad.",
+      "source": "https://www.gess.edu.sg/en/experiential-learning/holiday-camps",
+      "references": [
+        {
+          "url": "https://www.gess.edu.sg/en/experiential-learning/holiday-camps",
+          "label": "Página o reglamento oficial de la organización."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Condicional. Edad dentro de la ficha de robótica. Confirmar admisión por curso, idioma y disponibilidad. Oscar: Condicional. Edad dentro de la ficha de robótica. Confirmar admisión por curso, idioma y disponibilidad. Suplementos: Precio de la modalidad, comidas y reembolso bajo consulta. Pago: Precio de la modalidad, comidas y reembolso bajo consulta.",
+      "iso": [
+        "SGP"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "No se indica el idioma de la robótica. La página inglesa de GESS por sí sola no confirma el idioma del turno.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "gess-singapore-robotics-2027",
+      "camp_programme_id": "CP1874",
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+      }
+    },
+    {
+      "id": "CP1874-20270405-20270409-april-e204",
+      "block": "Campamentos",
+      "title": "GESS Singapore · Robotics & Coding · Opciones 08:30–15:00, 08:30–11:30 o 12:00–15:00, hora local. · 2027-04-05–2027-04-09",
+      "country": "Singapur",
+      "region": "Asia",
+      "city": "GESS campus · E204",
+      "start": "2027-04-05",
+      "end": "2027-04-09",
+      "period": "Del 4 al 8 de enero, del 29 de marzo al 2 de abril, del 5 al 9 de abril y del 28 de junio al 2 de julio de 2027.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "La ficha de robótica indica 6–14 años. La descripción general admite desde Grade 5. Confirmar el criterio vigente.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "Inscripción con el operador del campamento. La escuela indica cierre 2 semanas antes del inicio. Confirmar acceso de participantes externos.",
+      "gear": "Robots LEGO Education, programación visual Scratch, agarre, movimiento y detección de objetos.",
+      "language": "No se indica el idioma de la robótica. La página inglesa de GESS por sí sola no confirma el idioma del turno.",
+      "cost": "2027 · Precio de la modalidad, comidas y reembolso bajo consulta. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Condicional. Edad dentro de la ficha de robótica. Confirmar admisión por curso, idioma y disponibilidad.",
+      "source": "https://www.gess.edu.sg/en/experiential-learning/holiday-camps",
+      "references": [
+        {
+          "url": "https://www.gess.edu.sg/en/experiential-learning/holiday-camps",
+          "label": "Página o reglamento oficial de la organización."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Condicional. Edad dentro de la ficha de robótica. Confirmar admisión por curso, idioma y disponibilidad. Oscar: Condicional. Edad dentro de la ficha de robótica. Confirmar admisión por curso, idioma y disponibilidad. Suplementos: Precio de la modalidad, comidas y reembolso bajo consulta. Pago: Precio de la modalidad, comidas y reembolso bajo consulta.",
+      "iso": [
+        "SGP"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "No se indica el idioma de la robótica. La página inglesa de GESS por sí sola no confirma el idioma del turno.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "gess-singapore-robotics-2027",
+      "camp_programme_id": "CP1874",
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+      }
+    },
+    {
+      "id": "CP1874-20270628-20270702-june-e204",
+      "block": "Campamentos",
+      "title": "GESS Singapore · Robotics & Coding · Opciones 08:30–15:00, 08:30–11:30 o 12:00–15:00, hora local. · 2027-06-28–2027-07-02",
+      "country": "Singapur",
+      "region": "Asia",
+      "city": "GESS campus · E204",
+      "start": "2027-06-28",
+      "end": "2027-07-02",
+      "period": "Del 4 al 8 de enero, del 29 de marzo al 2 de abril, del 5 al 9 de abril y del 28 de junio al 2 de julio de 2027.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "La ficha de robótica indica 6–14 años. La descripción general admite desde Grade 5. Confirmar el criterio vigente.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "Inscripción con el operador del campamento. La escuela indica cierre 2 semanas antes del inicio. Confirmar acceso de participantes externos.",
+      "gear": "Robots LEGO Education, programación visual Scratch, agarre, movimiento y detección de objetos.",
+      "language": "No se indica el idioma de la robótica. La página inglesa de GESS por sí sola no confirma el idioma del turno.",
+      "cost": "2027 · Precio de la modalidad, comidas y reembolso bajo consulta. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Condicional. Edad dentro de la ficha de robótica. Confirmar admisión por curso, idioma y disponibilidad.",
+      "source": "https://www.gess.edu.sg/en/experiential-learning/holiday-camps",
+      "references": [
+        {
+          "url": "https://www.gess.edu.sg/en/experiential-learning/holiday-camps",
+          "label": "Página o reglamento oficial de la organización."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Condicional. Edad dentro de la ficha de robótica. Confirmar admisión por curso, idioma y disponibilidad. Oscar: Condicional. Edad dentro de la ficha de robótica. Confirmar admisión por curso, idioma y disponibilidad. Suplementos: Precio de la modalidad, comidas y reembolso bajo consulta. Pago: Precio de la modalidad, comidas y reembolso bajo consulta.",
+      "iso": [
+        "SGP"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "No se indica el idioma de la robótica. La página inglesa de GESS por sí sola no confirma el idioma del turno.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "gess-singapore-robotics-2027",
+      "camp_programme_id": "CP1874",
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
       ],
       "availability": {
         "status": "unconfirmed",

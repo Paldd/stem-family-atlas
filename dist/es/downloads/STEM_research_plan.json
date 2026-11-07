@@ -870,12 +870,12 @@
   ],
   "completion_rule": "No declarar el objetivo de las tarjetas de identificación completadas, la lista de 249 países o los puntos verdes de UI. Se requiere una cobertura de referencia y condiciones pertinentes demostradas, o información manifiestamente inaccesible o no declarada con fuentes verificadas.",
   "latest_validation": {
-    "version": 244,
+    "version": 245,
     "status": "implementation_snapshot",
-    "events": 8555,
-    "competitions": 3470,
+    "events": 8571,
+    "competitions": 3473,
     "league_profiles": 288,
-    "camp_dossiers": 1873,
+    "camp_dossiers": 1874,
     "budget_offers": 311,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 330,
-    "exhibitions_events": 455
+    "exhibitions_events": 458
   },
   "completeness_audit": "data/audit-v51.json",
   "family_context": {
@@ -927,13 +927,13 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 243,
+    "version": 244,
     "status": "implementation_snapshot",
-    "events": 8527,
-    "competitions": 3464,
+    "events": 8555,
+    "competitions": 3470,
     "league_profiles": 288,
-    "camp_dossiers": 1872,
-    "budget_offers": 307,
+    "camp_dossiers": 1873,
+    "budget_offers": 311,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
     "worldwide_complete": false,
@@ -942,7 +942,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 330,
-    "exhibitions_events": 452
+    "exhibitions_events": 455
   },
   "research_passes": [
     {
@@ -13759,10 +13759,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 244,
+    "prepared_ui_version": 245,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 243,
-    "previous_verified_commit": "8508ff0835b8fa806ec7589d8637600fa9f71e24"
+    "previous_verified_ui_version": 244,
+    "previous_verified_commit": "4eb32111157ac5f945c0b0da32ce57cdf377968d"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20809,11 +20809,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 243,
-    "published_version": 243,
-    "latest_source_commit": "8508ff0835b8fa806ec7589d8637600fa9f71e24",
-    "published_commit": "8508ff0835b8fa806ec7589d8637600fa9f71e24",
-    "latest_workflow": 42424846362,
+    "latest_source_version": 244,
+    "published_version": 244,
+    "latest_source_commit": "4eb32111157ac5f945c0b0da32ce57cdf377968d",
+    "published_commit": "4eb32111157ac5f945c0b0da32ce57cdf377968d",
+    "latest_workflow": 42426347479,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -24075,5 +24075,52 @@
     ],
     "audit": "data/regional-pathways-audit-v244.json",
     "source_receipts": "data/regional-pathways-source-receipts-v244.json"
+  },
+  "territory_technology_v245": {
+    "version": 245,
+    "checked": "2026-11-07",
+    "previous_goal_turn_classification": "progress",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "C3472",
+      "C3473",
+      "E456",
+      "E457",
+      "L700",
+      "L701",
+      "L702",
+      "E458",
+      "L703",
+      "C3474",
+      "L704",
+      "L705"
+    ],
+    "new_camp_dossiers": {
+      "gess-singapore-robotics-2027": "CP1874"
+    },
+    "new_camp_options": 4,
+    "new_geographic_coverage": [
+      "BES",
+      "CPV",
+      "GIB",
+      "MCO",
+      "SLB",
+      "TCA"
+    ],
+    "source_requests": 14,
+    "notes": [
+      "Solicitud escolar hasta el 16 de noviembre de 2026. Resumen del proyecto hasta el 20 de noviembre de 2026.",
+      "Muestra pública de proyectos de primaria y secundaria el 4 de marzo de 2027. Confirmar sede, horarios, precio y condiciones familiares.",
+      "La página de la feria anuncia del 9 al 10 de junio de 2027 en Mónaco. Confirmar dirección, horarios, entradas y lista final de robots.",
+      "Grupo documentado en el informe oficial de febrero de 2026. Confirmar horario y acceso de la próxima convocatoria.",
+      "Archivo de primavera de 2026. Informe publicado el 13 de mayo, sin día exacto de la actividad en biblioteca.",
+      "El perfil oficial del equipo indica Woodford International School. Confirmar selección local y convocatoria abierta.",
+      "Talleres en escuelas de la isla. La edad depende del centro. Consultar nueva convocatoria con Casas da Ciência.",
+      "La ficha de robótica indica 6–14 años. La descripción general admite desde Grade 5. Confirmar el criterio vigente.",
+      "Inscripción con el operador del campamento. La escuela indica cierre 2 semanas antes del inicio. Confirmar acceso de participantes externos."
+    ],
+    "audit": "data/territory-technology-audit-v245.json",
+    "source_receipts": "data/territory-technology-source-receipts-v245.json"
   }
 }

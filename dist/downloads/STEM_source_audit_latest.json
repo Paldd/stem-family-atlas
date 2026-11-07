@@ -16,14 +16,14 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 8555,
-    "competition_cards": 3470,
-    "event_cards": 455,
-    "camp_cards": 4630,
+    "cards": 8571,
+    "competition_cards": 3473,
+    "event_cards": 458,
+    "camp_cards": 4640,
     "league_profiles": 288,
-    "major_exhibition_cards": 365,
+    "major_exhibition_cards": 368,
     "vex_cards": 521,
-    "countries_with_records": 195,
+    "countries_with_records": 201,
     "fully_audited_countries": 0
   },
   "continents": [
@@ -34,12 +34,12 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 2854,
-      "countries_with_records": 35,
-      "competitions": 1524,
-      "events": 115,
-      "major_exhibitions": 79,
-      "camps": 1215,
+      "total": 2859,
+      "countries_with_records": 37,
+      "competitions": 1526,
+      "events": 117,
+      "major_exhibitions": 81,
+      "camps": 1216,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
     },
@@ -62,12 +62,12 @@
       "regions": [
         "Европа"
       ],
-      "total": 1942,
-      "countries_with_records": 46,
+      "total": 1946,
+      "countries_with_records": 48,
       "competitions": 444,
-      "events": 107,
-      "major_exhibitions": 87,
-      "camps": 1391,
+      "events": 108,
+      "major_exhibitions": 88,
+      "camps": 1394,
       "status": "Частично исследовано",
       "remaining": "CHE/ESP/FRA углублены повторно. Не закрыты все местные лиги, новые qualifiers 2027, преподавание на английском / испанском, иностранные квоты, текущие juniormentors и полные школьные протоколы 5–10 лет. Германия / Нидерланды / Бельгия: первый частичный проход; все местные клубы, языки, иностранные квоты и полные школьные результаты остаются открыты."
     },
@@ -76,12 +76,12 @@
       "regions": [
         "Африка"
       ],
-      "total": 253,
-      "countries_with_records": 43,
+      "total": 255,
+      "countries_with_records": 44,
       "competitions": 142,
       "events": 35,
       "major_exhibitions": 27,
-      "camps": 76,
+      "camps": 78,
       "status": "Частично исследовано",
       "remaining": "До расширения почти все соревнования были в South Africa. Добавлен PARC Senegal; Maghreb, East / West Africa и местные отборы остаются пробелами."
     },
@@ -90,12 +90,12 @@
       "regions": [
         "Азия"
       ],
-      "total": 2546,
+      "total": 2550,
       "countries_with_records": 47,
       "competitions": 854,
       "events": 127,
       "major_exhibitions": 114,
-      "camps": 1565,
+      "camps": 1569,
       "status": "Частично исследовано",
       "remaining": "Добавлены India camp candidates и первые Pakistan / Bangladesh / Sri Lanka маршруты. Не все national qualifiers, языки и иностранный приём закрыты; другие страны Азии исследованы частично."
     },
@@ -104,9 +104,9 @@
       "regions": [
         "Океания"
       ],
-      "total": 341,
-      "countries_with_records": 12,
-      "competitions": 139,
+      "total": 342,
+      "countries_with_records": 13,
+      "competitions": 140,
       "events": 29,
       "major_exhibitions": 25,
       "camps": 173,
@@ -11547,6 +11547,39 @@
       "new": false
     },
     {
+      "id": "E456",
+      "name": "Pelican Energy TCI National Science Fair 2027 · Public Exhibition",
+      "country": "Острова Теркс и Кайкос",
+      "region": "Карибский регион",
+      "start": "2027-03-04",
+      "end": "2027-03-04",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.pelicanenergytcisciencefair.com/copy-of-projects/national-science-project-competition",
+      "new": false
+    },
+    {
+      "id": "E457",
+      "name": "Monaco Robot Show 2027 · Living With Robots",
+      "country": "Монако",
+      "region": "Европа",
+      "start": "2027-06-09",
+      "end": "2027-06-10",
+      "visitor_policy": "confirm_children",
+      "source": "https://monaco-robotshow.com/",
+      "new": false
+    },
+    {
+      "id": "E458",
+      "name": "André Kuipers · SpaceBuzz y VR · Bonaire",
+      "country": "Бонайре, Синт-Эстатиус и Саба",
+      "region": "Карибский регион",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.rijksdienstcn.com/actueel/nieuws/2026/mei/13/andre-kuipers-laat-jongeren-de-ruimte-beleven",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -13964,9 +13997,9 @@
       }
     ],
     "counts": {
-      "records": 4630,
-      "holiday": 4332,
-      "regular": 139,
+      "records": 4640,
+      "holiday": 4336,
+      "regular": 145,
       "self_paced_materials": 2,
       "boarding": 1036,
       "en_es_instruction": 1432,
@@ -13977,7 +14010,7 @@
       "language_lessons": 410,
       "camp_life_language": 228,
       "language_unclassified": 137,
-      "countries": 124
+      "countries": 127
     },
     "validation": {
       "version": 51,

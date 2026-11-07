@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base al 2026-11-07. 1873 dosieres en 121 países. Las fechas de verificación de las fuentes constan en cada dosier.
+Estado de la base al 2026-11-07. 1874 dosieres en 121 países. Las fechas de verificación de las fuentes constan en cada dosier.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -147559,6 +147559,102 @@ Vietnam · Midtown · Phú Mỹ Hưng · Hồ Chí Minh
 - [Página o reglamento oficial de la organización.](https://kidleaderhub.com/courses/winter-camp/) · 2026-11-07
 
 - [Página o reglamento oficial de la organización.](https://kidleaderhub.com/winter-camp-tphcm/) · 2026-11-07
+
+## CP1874 · GESS Singapore · Robotics & Coding
+
+Singapur · GESS campus · E204
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** La ficha de robótica indica 6–14 años. La descripción general admite desde Grade 5. Confirmar el criterio vigente.
+
+**Idioma:** No se indica el idioma de la robótica. La página inglesa de GESS por sí sola no confirma el idioma del turno.
+
+**Programa:** Robots LEGO Education, programación visual Scratch, agarre, movimiento y detección de objetos.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Del 4 al 8 de enero, del 29 de marzo al 2 de abril, del 5 al 9 de abril y del 28 de junio al 2 de julio de 2027.
+
+**Precio / año:** 2027 · Precio de la modalidad, comidas y reembolso bajo consulta.
+
+**Incluido:** Se utiliza material LEGO. Confirmar qué incluye el precio.
+
+**Suplementos:** Precio de la modalidad, comidas y reembolso bajo consulta.
+
+**Pago:** Precio de la modalidad, comidas y reembolso bajo consulta.
+
+**Matvey:** Condicional. Edad dentro de la ficha de robótica. Confirmar admisión por curso, idioma y disponibilidad.
+
+**Oscar:** Condicional. Edad dentro de la ficha de robótica. Confirmar admisión por curso, idioma y disponibilidad.
+
+**Motivo de selección:** Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.
+
+### Antes de solicitar plaza
+
+- Inscripción con el operador del campamento. La escuela indica cierre 2 semanas antes del inicio. Confirmar acceso de participantes externos.
+
+- Condicional. Edad dentro de la ficha de robótica. Confirmar admisión por curso, idioma y disponibilidad.
+
+### Opciones 08:30–15:00, 08:30–11:30 o 12:00–15:00, hora local.
+
+**Fechas / estado:** 2027-01-04 — 2027-01-08
+
+**Precio:** Precio de la modalidad, comidas y reembolso bajo consulta.
+
+**condiciones de participación:** Inscripción con el operador del campamento. La escuela indica cierre 2 semanas antes del inicio. Confirmar acceso de participantes externos.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+- Condicional. Edad dentro de la ficha de robótica. Confirmar admisión por curso, idioma y disponibilidad.
+
+[fuente](https://www.gess.edu.sg/en/experiential-learning/holiday-camps)
+
+### Opciones 08:30–15:00, 08:30–11:30 o 12:00–15:00, hora local.
+
+**Fechas / estado:** 2027-03-29 — 2027-04-02
+
+**Precio:** Precio de la modalidad, comidas y reembolso bajo consulta.
+
+**condiciones de participación:** Inscripción con el operador del campamento. La escuela indica cierre 2 semanas antes del inicio. Confirmar acceso de participantes externos.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+- Condicional. Edad dentro de la ficha de robótica. Confirmar admisión por curso, idioma y disponibilidad.
+
+[fuente](https://www.gess.edu.sg/en/experiential-learning/holiday-camps)
+
+### Opciones 08:30–15:00, 08:30–11:30 o 12:00–15:00, hora local.
+
+**Fechas / estado:** 2027-04-05 — 2027-04-09
+
+**Precio:** Precio de la modalidad, comidas y reembolso bajo consulta.
+
+**condiciones de participación:** Inscripción con el operador del campamento. La escuela indica cierre 2 semanas antes del inicio. Confirmar acceso de participantes externos.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+- Condicional. Edad dentro de la ficha de robótica. Confirmar admisión por curso, idioma y disponibilidad.
+
+[fuente](https://www.gess.edu.sg/en/experiential-learning/holiday-camps)
+
+### Opciones 08:30–15:00, 08:30–11:30 o 12:00–15:00, hora local.
+
+**Fechas / estado:** 2027-06-28 — 2027-07-02
+
+**Precio:** Precio de la modalidad, comidas y reembolso bajo consulta.
+
+**condiciones de participación:** Inscripción con el operador del campamento. La escuela indica cierre 2 semanas antes del inicio. Confirmar acceso de participantes externos.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+- Condicional. Edad dentro de la ficha de robótica. Confirmar admisión por curso, idioma y disponibilidad.
+
+[fuente](https://www.gess.edu.sg/en/experiential-learning/holiday-camps)
+
+### Fuentes
+
+- [Página o reglamento oficial de la organización.](https://www.gess.edu.sg/en/experiential-learning/holiday-camps) · 2026-11-07
 
 ## ~ Comprobaciones no cerradas
 
