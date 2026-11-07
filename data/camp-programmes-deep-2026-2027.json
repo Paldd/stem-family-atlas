@@ -30,15 +30,15 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1647,
+    "dossiers": 1657,
     "countries": 92,
     "swiss": 137,
     "by_status": {
-      "published_2026_27": 225,
-      "published_2027": 450,
+      "published_2026_27": 233,
+      "published_2027": 453,
       "partial_2027": 131,
       "next_unannounced": 345,
-      "published_2026": 297,
+      "published_2026": 296,
       "partial_2026_27": 28,
       "partial_2026": 20,
       "archive_next_unannounced": 136,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 1,
       "confirmed_2027": 1
     },
-    "source_urls": 2372
+    "source_urls": 2383
   },
   "countries": [
     {
@@ -361,7 +361,7 @@
     },
     {
       "country": "Франция",
-      "count": 110
+      "count": 117
     },
     {
       "country": "Хорватия",
@@ -381,7 +381,7 @@
     },
     {
       "country": "Швейцария",
-      "count": 137
+      "count": 140
     },
     {
       "country": "Швеция",
@@ -93568,7 +93568,7 @@
       "provider": "TechLabs Basel · LEGO Inventors",
       "country": "Швейцария",
       "iso": "CHE",
-      "place": "TechLabs ELYS · Elsässerstrasse2154056Basel",
+      "place": "TechLabs ELYS · Elsässerstrasse 215 · Basel",
       "themes": [
         "robotics",
         "coding",
@@ -93577,17 +93577,28 @@
       "formats": [
         "day"
       ],
-      "age": "Baseloverview 6–8, конкретный booking 6–9; верхнюю границу согласовать",
-      "language": "EN/DE/FR интерфейс записи не является языком преподавания этой смены; EN/ES группу ещё подтвердить.",
-      "confirmed_instruction_languages": [],
-      "programme": "LEGO/Technic/WeDo: конструкции, моторы, датчики, простой код, испытания и переработка прототипов. Компьютерный проект превращается в физическую машину; не обещан личный LEGO-набор на вынос.",
+      "age": "В заголовке 6–9 лет, в описании 6–8. В 9 лет допуск уточнить у TechLabs.",
+      "language": "В карточке смены языки обучения — английский и немецкий. Долю английского и группу подтвердить.",
+      "confirmed_instruction_languages": [
+        "EN",
+        "DE"
+      ],
+      "programme": "LEGO Technic и WeDo, моторы, датчики, сборка и программирование моделей.",
       "timing": {
-        "status": "published_2026",
-        "label": "Booking:5–9 октября 2026, full; сейчас только waiting list. Видимый дневной список уже начинает 6 октября, заголовок явно 5–9. Следующий конкретный 2027 Lego-заезд не объявлен.",
+        "status": "published_2026_27",
+        "label": "Смены 8–12 и 15–19 февраля 2027 открыты для заявок. Смена 5–9 октября 2026 завершена.",
         "sessions": [
           [
             "2026-10-05",
             "2026-10-09"
+          ],
+          [
+            "2027-02-08",
+            "2027-02-12"
+          ],
+          [
+            "2027-02-15",
+            "2027-02-19"
           ]
         ],
         "session_details": [
@@ -93605,25 +93616,160 @@
               "status": "closed",
               "label": "Fully booked; waiting list possible"
             }
+          },
+          {
+            "start": "2027-02-08",
+            "end": "2027-02-12",
+            "label": "Дневная мастерская.",
+            "source": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Junior%20STEAM%20Camp/Lego%20STEM%20Camp/Basel%20%7C%20TechLabs%20ELYS/Camp.ed.c69aa724869c_7779904111.BS%20%20Lego%20Inventors%20Camp%20%20Age%206-9%20%20Feb%208-12",
+            "price": "CHF 495 за полдня 09:00–12:30 или CHF 859 за полный день 09:00–17:00 за неделю. Индивидуальный график — по отдельному счёту.",
+            "place": "TechLabs ELYS · Elsässerstrasse 215 · Basel",
+            "age": "В заголовке 6–9 лет, в описании 6–8. В 9 лет допуск уточнить у TechLabs.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Условно. Возраст конкретной группы и место подтвердить."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Условно, если к началу уже исполнилось 6 лет."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-02-08",
+                "topic": "LEGO Technic и WeDo, моторы, датчики, сборка и программирование моделей.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-09",
+                "topic": "LEGO Technic и WeDo, моторы, датчики, сборка и программирование моделей.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-10",
+                "topic": "LEGO Technic и WeDo, моторы, датчики, сборка и программирование моделей.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-11",
+                "topic": "LEGO Technic и WeDo, моторы, датчики, сборка и программирование моделей.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-12",
+                "topic": "LEGO Technic и WeDo, моторы, датчики, сборка и программирование моделей.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+            }
+          },
+          {
+            "start": "2027-02-15",
+            "end": "2027-02-19",
+            "label": "Дневная мастерская.",
+            "source": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Junior%20STEAM%20Camp/Lego%20STEM%20Camp/Basel%20%7C%20TechLabs%20ELYS/Camp.ed.c6a09210476a_7789932157.BS%20%20Lego%20Inventors%20Camp%20%20Age%206-9%20%20Feb%2015-19",
+            "price": "CHF 495 за полдня 09:00–12:30 или CHF 859 за полный день 09:00–17:00 за неделю. Индивидуальный график — по отдельному счёту.",
+            "place": "TechLabs ELYS · Elsässerstrasse 215 · Basel",
+            "age": "В заголовке 6–9 лет, в описании 6–8. В 9 лет допуск уточнить у TechLabs.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Условно. Возраст конкретной группы и место подтвердить."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Условно, если к началу уже исполнилось 6 лет."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-02-15",
+                "topic": "LEGO Technic и WeDo, моторы, датчики, сборка и программирование моделей.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-16",
+                "topic": "LEGO Technic и WeDo, моторы, датчики, сборка и программирование моделей.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-17",
+                "topic": "LEGO Technic и WeDo, моторы, датчики, сборка и программирование моделей.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-18",
+                "topic": "LEGO Technic и WeDo, моторы, датчики, сборка и программирование моделей.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-19",
+                "topic": "LEGO Technic и WeDo, моторы, датчики, сборка и программирование моделей.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+            }
           }
         ]
       },
       "price": {
-        "year": 2026,
-        "label": "CHF 450–924 в конкретном предложении; распределение half/full/доплат в обзорной странице не установлено.",
-        "included": "Half-day snack; full-day lunch/snack по FAQ, точный пакет подтвердить.",
-        "extras": "Early arrival 08:00–08:55 по pre-registration, lunch/addfull/customdays по индивидуальному счёту. Семейная дорога/жильё/kit неизвестны.",
-        "deposit": "TechLabs: 50% аванс в составе цены; остаток за 2 недели. Day: 100% возврат за 30+ дней, 50% за 14–30; граница 30 пересекается и условия менее 14 дней неясны. Overnight: 100% за 60+, 50% за 30–60, 20% менее 30; граница 60 тоже пересекается. Медицинский пропуск с подтверждением врача — пропорциональный возврат. Отмена оператором — полный возврат. Применимость договора 2027 подтвердить."
+        "year": 2027,
+        "currency": "CHF",
+        "amount": 859,
+        "unit": "per_child_course",
+        "label": "CHF 495 за полдня 09:00–12:30 или CHF 859 за полный день 09:00–17:00 за неделю. Индивидуальный график — по отдельному счёту.",
+        "included": "По общим правилам TechLabs перекус входит. В полном дне также обед и послеобеденный перекус.",
+        "extras": "CHF 1000 в форме — предварительная строка для индивидуального графика. Итоговую цену опций и условия отмены уточнить.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
       },
       "accommodation": "Без проживания: дети каждый день возвращаются семье; жильё родителей и поездка отдельно.",
       "family_fit": {
         "matvey": {
           "status": "conditional",
-          "detail": "В октябре 2026 8–9;9 лет есть в booking, но не в overview 6–8. Набор full/waitlist, не свободное место."
+          "detail": "Условно. Возраст конкретной группы и место подтвердить."
         },
         "oscar": {
           "status": "conditional",
-          "detail": "Только после 6-летия;5 лет не подходит. Full/waitlist, язык и группа неизвестны."
+          "detail": "Условно, если к началу уже исполнилось 6 лет."
         }
       },
       "editorial_reason": "Реальная младшая инженерная программа; текущую заполненную смену используем как доказательство курса, не доступную бронь.",
@@ -93646,20 +93792,51 @@
           "checked": "2026-10-06"
         },
         {
-          "title": "Суточный режим/питание/кастомные дни",
           "url": "https://www.techlabs.ch/camps",
-          "checked": "2026-10-06"
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
         },
         {
           "title": "Оплата/отмена/day versus overnight",
           "url": "https://www.techlabs.ch/terms-and-conditions",
           "checked": "2026-10-06"
+        },
+        {
+          "url": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Junior%20STEAM%20Camp/Lego%20STEM%20Camp/Basel%20%7C%20TechLabs%20ELYS/Camp.ed.c69aa724869c_7779904111.BS%20%20Lego%20Inventors%20Camp%20%20Age%206-9%20%20Feb%208-12",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Junior%20STEAM%20Camp/Lego%20STEM%20Camp/Basel%20%7C%20TechLabs%20ELYS/Camp.ed.c6a09210476a_7789932157.BS%20%20Lego%20Inventors%20Camp%20%20Age%206-9%20%20Feb%2015-19",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.techlabs.ch/basel",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://app1.edoobox.com/TechLabs/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
         }
       ],
-      "checked": "2026-10-06",
+      "checked": "2026-11-07",
       "availability": {
-        "status": "waitlist",
-        "label": "Текущая смена fully booked; waiting list"
+        "status": "open",
+        "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+      },
+      "language_evidence_role": "bilingual",
+      "pairing": {
+        "venue_id": "che-techlabs-basel-elys",
+        "verified_source": "https://www.techlabs.ch/basel",
+        "checked": "2026-11-07",
+        "fee": {
+          "amount": 859,
+          "currency": "CHF",
+          "unit": "per_child_course"
+        }
       }
     },
     {
@@ -234070,6 +234247,1573 @@
       },
       "programme_type": "general_day_camp",
       "catalog_participation": "day_camp"
+    },
+    {
+      "id": "CP1648",
+      "slug": "algora-saint-maur-junior",
+      "provider": "IT School Saint-Maur · Coding / IA · 6–8",
+      "country": "Франция",
+      "iso": "FRA",
+      "place": "IT School · Saint-Maur-des-Fossés",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "6–8",
+      "language": "Язык преподавания конкретной группы пока не подтверждён.",
+      "confirmed_instruction_languages": [],
+      "programme": "Scratch, программируемый робот, датчики, последовательности, циклы и условия. ИИ для этой группы не заявлен.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "21–24 декабря 2026, 09:30–16:30. В расписании и записи перечислены 4 дня, хотя вводный заголовок говорит о 5.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "Дневная мастерская.",
+            "source": "https://www.algora-saintmaurdesfosses.fr/produit/6-14-ans-stage-coding-ia-vacances-dhiver-2026-du-21-decembre-sur-4-jours-2-groupes-dage/",
+            "price": "EUR 239 за ребёнка за 4 дня, налог включён. Перекус включён, обед с собой.",
+            "place": "IT School · Saint-Maur-des-Fossés",
+            "age": "6–8",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Нет по возрасту для младшей группы."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Условно, если к началу уже исполнилось 6 лет."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Scratch, программируемый робот, датчики, последовательности, циклы и условия. ИИ для этой группы не заявлен.",
+                "start_time": "09:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "topic": "Scratch, программируемый робот, датчики, последовательности, циклы и условия. ИИ для этой группы не заявлен.",
+                "start_time": "09:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "topic": "Scratch, программируемый робот, датчики, последовательности, циклы и условия. ИИ для этой группы не заявлен.",
+                "start_time": "09:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "topic": "Scratch, программируемый робот, датчики, последовательности, циклы и условия. ИИ для этой группы не заявлен.",
+                "start_time": "09:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+            }
+          }
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "currency": "EUR",
+        "amount": 239,
+        "unit": "per_child_course",
+        "label": "EUR 239 за ребёнка за 4 дня, налог включён. Перекус включён, обед с собой.",
+        "included": "EUR 239 за ребёнка за 4 дня, налог включён. Перекус включён, обед с собой.",
+        "extras": "Цена не опубликована.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора.",
+        "tax_included": true
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Нет по возрасту для младшей группы."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно, если к началу уже исполнилось 6 лет."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://www.algora-saintmaurdesfosses.fr/produit/6-14-ans-stage-coding-ia-vacances-dhiver-2026-du-21-decembre-sur-4-jours-2-groupes-dage/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "open",
+        "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "pairing": {
+        "venue_id": "fra-it-school-saint-maur",
+        "verified_source": "https://www.algora-saintmaurdesfosses.fr/produit/6-14-ans-stage-coding-ia-vacances-dhiver-2026-du-21-decembre-sur-4-jours-2-groupes-dage/",
+        "checked": "2026-11-07",
+        "fee": {
+          "amount": 239,
+          "currency": "EUR",
+          "unit": "per_child_course",
+          "tax_included": true
+        }
+      }
+    },
+    {
+      "id": "CP1649",
+      "slug": "algora-saint-maur-senior",
+      "provider": "IT School Saint-Maur · Coding / IA · 9–14",
+      "country": "Франция",
+      "iso": "FRA",
+      "place": "IT School · Saint-Maur-des-Fossés",
+      "themes": [
+        "robotics",
+        "coding",
+        "ai"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "9–14",
+      "language": "Язык преподавания конкретной группы пока не подтверждён.",
+      "confirmed_instruction_languages": [],
+      "programme": "Scratch, робототехника и обучение моделей ИИ на примерах. Сверить инструменты и правила работы с камерой.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "21–24 декабря 2026, 09:30–16:30. В расписании и записи перечислены 4 дня, хотя вводный заголовок говорит о 5.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "Дневная мастерская.",
+            "source": "https://www.algora-saintmaurdesfosses.fr/produit/6-14-ans-stage-coding-ia-vacances-dhiver-2026-du-21-decembre-sur-4-jours-2-groupes-dage/",
+            "price": "EUR 239 за ребёнка за 4 дня, налог включён. Перекус включён, обед с собой.",
+            "place": "IT School · Saint-Maur-des-Fossés",
+            "age": "9–14",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Возраст выше текущего. Проверить возраст на первый день смены."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Scratch, робототехника и обучение моделей ИИ на примерах. Сверить инструменты и правила работы с камерой.",
+                "start_time": "09:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "topic": "Scratch, робототехника и обучение моделей ИИ на примерах. Сверить инструменты и правила работы с камерой.",
+                "start_time": "09:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "topic": "Scratch, робототехника и обучение моделей ИИ на примерах. Сверить инструменты и правила работы с камерой.",
+                "start_time": "09:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "topic": "Scratch, робототехника и обучение моделей ИИ на примерах. Сверить инструменты и правила работы с камерой.",
+                "start_time": "09:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+            }
+          }
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "currency": "EUR",
+        "amount": 239,
+        "unit": "per_child_course",
+        "label": "EUR 239 за ребёнка за 4 дня, налог включён. Перекус включён, обед с собой.",
+        "included": "EUR 239 за ребёнка за 4 дня, налог включён. Перекус включён, обед с собой.",
+        "extras": "Цена не опубликована.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора.",
+        "tax_included": true
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Возраст выше текущего. Проверить возраст на первый день смены."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://www.algora-saintmaurdesfosses.fr/produit/6-14-ans-stage-coding-ia-vacances-dhiver-2026-du-21-decembre-sur-4-jours-2-groupes-dage/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "open",
+        "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "pairing": {
+        "venue_id": "fra-it-school-saint-maur",
+        "verified_source": "https://www.algora-saintmaurdesfosses.fr/produit/6-14-ans-stage-coding-ia-vacances-dhiver-2026-du-21-decembre-sur-4-jours-2-groupes-dage/",
+        "checked": "2026-11-07",
+        "fee": {
+          "amount": 239,
+          "currency": "EUR",
+          "unit": "per_child_course",
+          "tax_included": true
+        }
+      }
+    },
+    {
+      "id": "CP1650",
+      "slug": "cite-paris-noel-3d",
+      "provider": "Cité des sciences · Impression et modélisation 3D",
+      "country": "Франция",
+      "iso": "FRA",
+      "place": "Cité des sciences et de l’industrie · Paris",
+      "themes": [
+        "design",
+        "engineering",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "6–8 / 9–11",
+      "language": "Организатор прямо указывает, что мастерские проходят только на французском.",
+      "confirmed_instruction_languages": [
+        "FR"
+      ],
+      "programme": "Моделирование объекта и печать собственной работы.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Дни занятий по календарю организатора.",
+        "sessions": [
+          [
+            "2026-12-28",
+            "2026-12-28"
+          ],
+          [
+            "2026-12-29",
+            "2026-12-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-28",
+            "end": "2026-12-28",
+            "label": "Дневная мастерская.",
+            "source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+            "price": "EUR 95 за день, EUR 85 по абонементу при наличии квоты.",
+            "place": "Cité des sciences et de l’industrie · Paris",
+            "age": "6–8",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Нет по возрасту для младшей группы."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Условно, если к началу уже исполнилось 6 лет."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "topic": "Моделирование объекта и печать собственной работы.",
+                "start_time": "10:00",
+                "end_time": "17:30",
+                "timezone": "Europe/Paris",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            }
+          },
+          {
+            "start": "2026-12-29",
+            "end": "2026-12-29",
+            "label": "Дневная мастерская.",
+            "source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+            "price": "EUR 95 за день, EUR 85 по абонементу при наличии квоты.",
+            "place": "Cité des sciences et de l’industrie · Paris",
+            "age": "9–11",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Возраст выше текущего. Проверить возраст на первый день смены."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-29",
+                "topic": "Моделирование объекта и печать собственной работы.",
+                "start_time": "10:00",
+                "end_time": "17:30",
+                "timezone": "Europe/Paris",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            }
+          }
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "currency": "EUR",
+        "amount": 95,
+        "unit": "per_child_course",
+        "label": "EUR 95 за день, EUR 85 по абонементу при наличии квоты.",
+        "included": "На полный день включён пикник, воду и при необходимости свой обед можно принести.",
+        "extras": "Цена не опубликована.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно, если к началу уже исполнилось 6 лет."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop"
+    },
+    {
+      "id": "CP1651",
+      "slug": "cite-paris-noel-coding",
+      "provider": "Cité des sciences · Initiation au codage",
+      "country": "Франция",
+      "iso": "FRA",
+      "place": "Cité des sciences et de l’industrie · Paris",
+      "themes": [
+        "coding",
+        "games",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "6–8 / 9–11",
+      "language": "Организатор прямо указывает, что мастерские проходят только на французском.",
+      "confirmed_instruction_languages": [
+        "FR"
+      ],
+      "programme": "Алгоритмы и знакомство с кодом через интерактивные проекты.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Дни занятий по календарю организатора.",
+        "sessions": [
+          [
+            "2026-12-22",
+            "2026-12-22"
+          ],
+          [
+            "2026-12-23",
+            "2026-12-23"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-22",
+            "end": "2026-12-22",
+            "label": "Дневная мастерская.",
+            "source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+            "price": "EUR 95 за день, EUR 85 по абонементу при наличии квоты.",
+            "place": "Cité des sciences et de l’industrie · Paris",
+            "age": "6–8",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Нет по возрасту для младшей группы."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Условно, если к началу уже исполнилось 6 лет."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-22",
+                "topic": "Алгоритмы и знакомство с кодом через интерактивные проекты.",
+                "start_time": "10:00",
+                "end_time": "17:30",
+                "timezone": "Europe/Paris",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            }
+          },
+          {
+            "start": "2026-12-23",
+            "end": "2026-12-23",
+            "label": "Дневная мастерская.",
+            "source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+            "price": "EUR 95 за день, EUR 85 по абонементу при наличии квоты.",
+            "place": "Cité des sciences et de l’industrie · Paris",
+            "age": "9–11",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Возраст выше текущего. Проверить возраст на первый день смены."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-23",
+                "topic": "Алгоритмы и знакомство с кодом через интерактивные проекты.",
+                "start_time": "10:00",
+                "end_time": "17:30",
+                "timezone": "Europe/Paris",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            }
+          }
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "currency": "EUR",
+        "amount": 95,
+        "unit": "per_child_course",
+        "label": "EUR 95 за день, EUR 85 по абонементу при наличии квоты.",
+        "included": "На полный день включён пикник, воду и при необходимости свой обед можно принести.",
+        "extras": "Цена не опубликована.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно, если к началу уже исполнилось 6 лет."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop"
+    },
+    {
+      "id": "CP1652",
+      "slug": "cite-paris-noel-ai",
+      "provider": "Cité des sciences · Intelligence artificielle",
+      "country": "Франция",
+      "iso": "FRA",
+      "place": "Cité des sciences et de l’industrie · Paris",
+      "themes": [
+        "ai",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "9–11",
+      "language": "Организатор прямо указывает, что мастерские проходят только на французском.",
+      "confirmed_instruction_languages": [
+        "FR"
+      ],
+      "programme": "Принципы ИИ, его возможности, ограничения и последствия.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Дни занятий по календарю организатора.",
+        "sessions": [
+          [
+            "2026-12-30",
+            "2026-12-30"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-30",
+            "end": "2026-12-30",
+            "label": "Дневная мастерская.",
+            "source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+            "price": "EUR 95 за день, EUR 85 по абонементу при наличии квоты.",
+            "place": "Cité des sciences et de l’industrie · Paris",
+            "age": "9–11",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Возраст выше текущего. Проверить возраст на первый день смены."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-30",
+                "topic": "Принципы ИИ, его возможности, ограничения и последствия.",
+                "start_time": "10:00",
+                "end_time": "17:30",
+                "timezone": "Europe/Paris",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            }
+          }
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "currency": "EUR",
+        "amount": 95,
+        "unit": "per_child_course",
+        "label": "EUR 95 за день, EUR 85 по абонементу при наличии квоты.",
+        "included": "На полный день включён пикник, воду и при необходимости свой обед можно принести.",
+        "extras": "Цена не опубликована.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Возраст выше текущего. Проверить возраст на первый день смены."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop"
+    },
+    {
+      "id": "CP1653",
+      "slug": "cite-paris-noel-robot",
+      "provider": "Cité des sciences · Un robot en balade",
+      "country": "Франция",
+      "iso": "FRA",
+      "place": "Cité des sciences et de l’industrie · Paris",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "9–11",
+      "language": "Организатор прямо указывает, что мастерские проходят только на французском.",
+      "confirmed_instruction_languages": [
+        "FR"
+      ],
+      "programme": "Полдня программирования учебного робота.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Дни занятий по календарю организатора.",
+        "sessions": [
+          [
+            "2026-12-22",
+            "2026-12-22"
+          ],
+          [
+            "2026-12-29",
+            "2026-12-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-22",
+            "end": "2026-12-22",
+            "label": "Дневная мастерская.",
+            "source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+            "price": "EUR 45 за полдня, EUR 35 по абонементу при наличии квоты.",
+            "place": "Cité des sciences et de l’industrie · Paris",
+            "age": "9–11",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Возраст выше текущего. Проверить возраст на первый день смены."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-22",
+                "topic": "Полдня программирования учебного робота.",
+                "start_time": "10:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Paris",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            }
+          },
+          {
+            "start": "2026-12-29",
+            "end": "2026-12-29",
+            "label": "Дневная мастерская.",
+            "source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+            "price": "EUR 45 за полдня, EUR 35 по абонементу при наличии квоты.",
+            "place": "Cité des sciences et de l’industrie · Paris",
+            "age": "9–11",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Возраст выше текущего. Проверить возраст на первый день смены."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-29",
+                "topic": "Полдня программирования учебного робота.",
+                "start_time": "10:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Paris",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            }
+          }
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "currency": "EUR",
+        "amount": 45,
+        "unit": "per_child_course",
+        "label": "EUR 45 за полдня, EUR 35 по абонементу при наличии квоты.",
+        "included": "Полудневная мастерская. Питание уточнить отдельно.",
+        "extras": "Цена не опубликована.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Возраст выше текущего. Проверить возраст на первый день смены."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop"
+    },
+    {
+      "id": "CP1654",
+      "slug": "silverbot-paris-lego-en",
+      "provider": "SilverBot · LEGO Engineering in English",
+      "country": "Франция",
+      "iso": "FRA",
+      "place": "Périscope · 83 avenue d’Italie · Paris",
+      "themes": [
+        "engineering",
+        "makers"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Возраст именно англоязычной мастерской организатор не указал.",
+      "language": "Вся мастерская LEGO Engineering проходит на английском.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "Построить и улучшить модель LEGO, исследовать движение и простые механизмы. После занятия общий перекус.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "19 декабря 2026, 10:00–11:30. 6 февраля и 17 апреля 2027 опубликованы без отдельных часов.",
+        "sessions": [
+          [
+            "2026-12-19",
+            "2026-12-19"
+          ],
+          [
+            "2027-02-06",
+            "2027-02-06"
+          ],
+          [
+            "2027-04-17",
+            "2027-04-17"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-19",
+            "end": "2026-12-19",
+            "label": "Дневная мастерская.",
+            "source": "https://www.silverbot.fr/stage-vacances",
+            "price": "EUR 25 за занятие по карточке организатора. Доступность места и тариф на выбранную дату уточнить.",
+            "place": "Périscope · 83 avenue d’Italie · Paris",
+            "age": "Возраст именно англоязычной мастерской организатор не указал.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Условно. Возраст конкретной группы и место подтвердить."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Условно. Возраст конкретной группы и место подтвердить."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-19",
+                "topic": "Построить и улучшить модель LEGO, исследовать движение и простые механизмы. После занятия общий перекус.",
+                "start_time": "10:00",
+                "end_time": "11:30",
+                "timezone": "Europe/Paris",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            }
+          },
+          {
+            "start": "2027-02-06",
+            "end": "2027-02-06",
+            "label": "Дневная мастерская.",
+            "source": "https://www.silverbot.fr/stage-vacances",
+            "price": "EUR 25 за занятие по карточке организатора. Доступность места и тариф на выбранную дату уточнить.",
+            "place": "Périscope · 83 avenue d’Italie · Paris",
+            "age": "Возраст именно англоязычной мастерской организатор не указал.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Условно. Возраст конкретной группы и место подтвердить."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Условно. Возраст конкретной группы и место подтвердить."
+              }
+            },
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "date_scope": "workshop_window"
+          },
+          {
+            "start": "2027-04-17",
+            "end": "2027-04-17",
+            "label": "Дневная мастерская.",
+            "source": "https://www.silverbot.fr/stage-vacances",
+            "price": "EUR 25 за занятие по карточке организатора. Доступность места и тариф на выбранную дату уточнить.",
+            "place": "Périscope · 83 avenue d’Italie · Paris",
+            "age": "Возраст именно англоязычной мастерской организатор не указал.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Условно. Возраст конкретной группы и место подтвердить."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Условно. Возраст конкретной группы и место подтвердить."
+              }
+            },
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "date_scope": "workshop_window"
+          }
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "currency": "EUR",
+        "amount": 25,
+        "unit": "per_child_course",
+        "label": "EUR 25 за занятие по карточке организатора. Доступность места и тариф на выбранную дату уточнить.",
+        "included": "Дневная программа без проживания.",
+        "extras": "Цена не опубликована.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Возраст конкретной группы и место подтвердить."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Возраст конкретной группы и место подтвердить."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://www.silverbot.fr/stage-vacances",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop"
+    },
+    {
+      "id": "CP1655",
+      "slug": "techlabs-basel-winter-cutebot",
+      "provider": "TechLabs Basel · Robotics · CuteBot",
+      "country": "Швейцария",
+      "iso": "CHE",
+      "place": "TechLabs ELYS · Elsässerstrasse 215 · Basel",
+      "themes": [
+        "robotics",
+        "coding",
+        "ai"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "8–12",
+      "language": "В карточке смены языки обучения — английский и немецкий. Долю английского и группу подтвердить.",
+      "confirmed_instruction_languages": [
+        "EN",
+        "DE"
+      ],
+      "programme": "ELECFREAKS Cutebot Pro, датчики, веб-пульт, объезд препятствий и зрение робота с ИИ.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Вариант полного дня в календаре 09:00–17:00. У организатора есть полудневный тариф 09:00–12:30.",
+        "sessions": [
+          [
+            "2027-02-15",
+            "2027-02-19"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-02-15",
+            "end": "2027-02-19",
+            "label": "Дневная мастерская.",
+            "source": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Robotics%20Camps/Robotics%20Camp%20CuteBot%20Edition/Basel%20%C2%A0TechLabs%20ELYS/Camp.ed.fd724a1d5a2a_7544904325.BS%20%20Robotics%20Camp%20CuteBot%20Edition%20%20Ages%208-12%20%20Feb%2015-19",
+            "price": "CHF 495 за полдня 09:00–12:30 или CHF 859 за полный день 09:00–17:00 за неделю. Индивидуальный график — по отдельному счёту.",
+            "place": "TechLabs ELYS · Elsässerstrasse 215 · Basel",
+            "age": "8–12",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Возраст выше текущего. Проверить возраст на первый день смены."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-02-15",
+                "topic": "ELECFREAKS Cutebot Pro, датчики, веб-пульт, объезд препятствий и зрение робота с ИИ.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-16",
+                "topic": "ELECFREAKS Cutebot Pro, датчики, веб-пульт, объезд препятствий и зрение робота с ИИ.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-17",
+                "topic": "ELECFREAKS Cutebot Pro, датчики, веб-пульт, объезд препятствий и зрение робота с ИИ.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-18",
+                "topic": "ELECFREAKS Cutebot Pro, датчики, веб-пульт, объезд препятствий и зрение робота с ИИ.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-19",
+                "topic": "ELECFREAKS Cutebot Pro, датчики, веб-пульт, объезд препятствий и зрение робота с ИИ.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+            }
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "currency": "CHF",
+        "amount": 859,
+        "unit": "per_child_course",
+        "label": "CHF 495 за полдня 09:00–12:30 или CHF 859 за полный день 09:00–17:00 за неделю. Индивидуальный график — по отдельному счёту.",
+        "included": "По общим правилам TechLabs перекус входит. В полном дне также обед и послеобеденный перекус.",
+        "extras": "CHF 1000 в форме — предварительная строка для индивидуального графика. Итоговую цену опций и условия отмены уточнить.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Возраст выше текущего. Проверить возраст на первый день смены."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Robotics%20Camps/Robotics%20Camp%20CuteBot%20Edition/Basel%20%C2%A0TechLabs%20ELYS/Camp.ed.fd724a1d5a2a_7544904325.BS%20%20Robotics%20Camp%20CuteBot%20Edition%20%20Ages%208-12%20%20Feb%2015-19",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.techlabs.ch/basel",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.techlabs.ch/camps",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://app1.edoobox.com/TechLabs/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "open",
+        "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+      },
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "language_evidence_role": "bilingual",
+      "pairing": {
+        "venue_id": "che-techlabs-basel-elys",
+        "verified_source": "https://www.techlabs.ch/basel",
+        "checked": "2026-11-07",
+        "fee": {
+          "amount": 859,
+          "currency": "CHF",
+          "unit": "per_child_course"
+        }
+      }
+    },
+    {
+      "id": "CP1656",
+      "slug": "techlabs-basel-winter-retro-arcade",
+      "provider": "TechLabs Basel · Retro Arcade",
+      "country": "Швейцария",
+      "iso": "CHE",
+      "place": "TechLabs ELYS · Elsässerstrasse 215 · Basel",
+      "themes": [
+        "games",
+        "coding",
+        "design"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Заголовок 8–13 лет, описание 9+. Для 8 лет допуск уточнить.",
+      "language": "В карточке смены языки обучения — английский и немецкий. Долю английского и группу подтвердить.",
+      "confirmed_instruction_languages": [
+        "EN",
+        "DE"
+      ],
+      "programme": "Своя игра на Microsoft MakeCode Arcade, блоки или JavaScript, тестирование на портативной консоли.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Вариант полного дня в календаре 09:00–17:00. У организатора есть полудневный тариф 09:00–12:30.",
+        "sessions": [
+          [
+            "2027-02-08",
+            "2027-02-12"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-02-08",
+            "end": "2027-02-12",
+            "label": "Дневная мастерская.",
+            "source": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Video%20Game%20Design%20Camps/Retro%20Arcade%20Design%20Lab/Basel%20%20TechLabs%20ELYS/Camp.ed.afa9e63180d8_7789925395.BS%20%20Video%20Game%20Design%20-Retro%20Arcade%20%20Ages%208-13%20%20Feb%208-12",
+            "price": "CHF 495 за полдня 09:00–12:30 или CHF 859 за полный день 09:00–17:00 за неделю. Индивидуальный график — по отдельному счёту.",
+            "place": "TechLabs ELYS · Elsässerstrasse 215 · Basel",
+            "age": "Заголовок 8–13 лет, описание 9+. Для 8 лет допуск уточнить.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Возраст выше текущего. Проверить возраст на первый день смены."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-02-08",
+                "topic": "Своя игра на Microsoft MakeCode Arcade, блоки или JavaScript, тестирование на портативной консоли.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-09",
+                "topic": "Своя игра на Microsoft MakeCode Arcade, блоки или JavaScript, тестирование на портативной консоли.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-10",
+                "topic": "Своя игра на Microsoft MakeCode Arcade, блоки или JavaScript, тестирование на портативной консоли.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-11",
+                "topic": "Своя игра на Microsoft MakeCode Arcade, блоки или JavaScript, тестирование на портативной консоли.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-12",
+                "topic": "Своя игра на Microsoft MakeCode Arcade, блоки или JavaScript, тестирование на портативной консоли.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+            }
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "currency": "CHF",
+        "amount": 859,
+        "unit": "per_child_course",
+        "label": "CHF 495 за полдня 09:00–12:30 или CHF 859 за полный день 09:00–17:00 за неделю. Индивидуальный график — по отдельному счёту.",
+        "included": "По общим правилам TechLabs перекус входит. В полном дне также обед и послеобеденный перекус.",
+        "extras": "CHF 1000 в форме — предварительная строка для индивидуального графика. Итоговую цену опций и условия отмены уточнить.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Возраст выше текущего. Проверить возраст на первый день смены."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Video%20Game%20Design%20Camps/Retro%20Arcade%20Design%20Lab/Basel%20%20TechLabs%20ELYS/Camp.ed.afa9e63180d8_7789925395.BS%20%20Video%20Game%20Design%20-Retro%20Arcade%20%20Ages%208-13%20%20Feb%208-12",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.techlabs.ch/basel",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.techlabs.ch/camps",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://app1.edoobox.com/TechLabs/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "open",
+        "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+      },
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "language_evidence_role": "bilingual",
+      "pairing": {
+        "venue_id": "che-techlabs-basel-elys",
+        "verified_source": "https://www.techlabs.ch/basel",
+        "checked": "2026-11-07",
+        "fee": {
+          "amount": 859,
+          "currency": "CHF",
+          "unit": "per_child_course"
+        }
+      }
+    },
+    {
+      "id": "CP1657",
+      "slug": "techlabs-basel-winter-minecraft",
+      "provider": "TechLabs Basel · MCreator Minecraft Modding",
+      "country": "Швейцария",
+      "iso": "CHE",
+      "place": "TechLabs ELYS · Elsässerstrasse 215 · Basel",
+      "themes": [
+        "games",
+        "coding",
+        "design"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "10–16",
+      "language": "В карточке смены языки обучения — английский и немецкий. Долю английского и группу подтвердить.",
+      "confirmed_instruction_languages": [
+        "EN",
+        "DE"
+      ],
+      "programme": "Моды и игровые механики в MCreator. Текст и видео инструментов на английском.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Вариант полного дня в календаре 09:00–17:00. У организатора есть полудневный тариф 09:00–12:30.",
+        "sessions": [
+          [
+            "2027-02-08",
+            "2027-02-12"
+          ],
+          [
+            "2027-02-15",
+            "2027-02-19"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-02-08",
+            "end": "2027-02-12",
+            "label": "Дневная мастерская.",
+            "source": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Video%20Game%20Design%20Camps/Minecraft%20Modding%20Camp/Basel%20%7C%20TechLabs%20ELYS/Camp.ed.6e5c55149f06_7721054425.BS%20%20MCreator%20Minecraft%20Modding%20Camp%20%20Age%2010-16%20%20Feb%208-12",
+            "price": "CHF 495 за полдня 09:00–12:30 или CHF 859 за полный день 09:00–17:00 за неделю. Индивидуальный график — по отдельному счёту.",
+            "place": "TechLabs ELYS · Elsässerstrasse 215 · Basel",
+            "age": "10–16",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Условно, если к смене уже исполнится 10 лет."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Возраст выше текущего. Проверить возраст на первый день смены."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-02-08",
+                "topic": "Моды и игровые механики в MCreator. Текст и видео инструментов на английском.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-09",
+                "topic": "Моды и игровые механики в MCreator. Текст и видео инструментов на английском.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-10",
+                "topic": "Моды и игровые механики в MCreator. Текст и видео инструментов на английском.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-11",
+                "topic": "Моды и игровые механики в MCreator. Текст и видео инструментов на английском.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-12",
+                "topic": "Моды и игровые механики в MCreator. Текст и видео инструментов на английском.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+            }
+          },
+          {
+            "start": "2027-02-15",
+            "end": "2027-02-19",
+            "label": "Дневная мастерская.",
+            "source": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Video%20Game%20Design%20Camps/Minecraft%20Modding%20Camp/Basel%20%7C%20TechLabs%20ELYS/Camp.ed.468b2644d3b3_7789837489.BS%20%20MCreator%20Minecraft%20Modding%20Camp%20%20Age%2010-16%20%20Feb%2015-19",
+            "price": "CHF 495 за полдня 09:00–12:30 или CHF 859 за полный день 09:00–17:00 за неделю. Индивидуальный график — по отдельному счёту.",
+            "place": "TechLabs ELYS · Elsässerstrasse 215 · Basel",
+            "age": "10–16",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Условно, если к смене уже исполнится 10 лет."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Возраст выше текущего. Проверить возраст на первый день смены."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-02-15",
+                "topic": "Моды и игровые механики в MCreator. Текст и видео инструментов на английском.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-16",
+                "topic": "Моды и игровые механики в MCreator. Текст и видео инструментов на английском.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-17",
+                "topic": "Моды и игровые механики в MCreator. Текст и видео инструментов на английском.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-18",
+                "topic": "Моды и игровые механики в MCreator. Текст и видео инструментов на английском.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-19",
+                "topic": "Моды и игровые механики в MCreator. Текст и видео инструментов на английском.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+            }
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "currency": "CHF",
+        "amount": 859,
+        "unit": "per_child_course",
+        "label": "CHF 495 за полдня 09:00–12:30 или CHF 859 за полный день 09:00–17:00 за неделю. Индивидуальный график — по отдельному счёту.",
+        "included": "По общим правилам TechLabs перекус входит. В полном дне также обед и послеобеденный перекус.",
+        "extras": "CHF 1000 в форме — предварительная строка для индивидуального графика. Итоговую цену опций и условия отмены уточнить.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно, если к смене уже исполнится 10 лет."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Возраст выше текущего. Проверить возраст на первый день смены."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Video%20Game%20Design%20Camps/Minecraft%20Modding%20Camp/Basel%20%7C%20TechLabs%20ELYS/Camp.ed.6e5c55149f06_7721054425.BS%20%20MCreator%20Minecraft%20Modding%20Camp%20%20Age%2010-16%20%20Feb%208-12",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Video%20Game%20Design%20Camps/Minecraft%20Modding%20Camp/Basel%20%7C%20TechLabs%20ELYS/Camp.ed.468b2644d3b3_7789837489.BS%20%20MCreator%20Minecraft%20Modding%20Camp%20%20Age%2010-16%20%20Feb%2015-19",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.techlabs.ch/basel",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.techlabs.ch/camps",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://app1.edoobox.com/TechLabs/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "open",
+        "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+      },
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "language_evidence_role": "bilingual",
+      "pairing": {
+        "venue_id": "che-techlabs-basel-elys",
+        "verified_source": "https://www.techlabs.ch/basel",
+        "checked": "2026-11-07",
+        "fee": {
+          "amount": 859,
+          "currency": "CHF",
+          "unit": "per_child_course"
+        }
+      }
     }
   ],
   "gaps": [
@@ -239395,7 +241139,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 212,
+  "version": 213,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -252630,7 +254374,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1647,
+      "total_dossiers": 1657,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,

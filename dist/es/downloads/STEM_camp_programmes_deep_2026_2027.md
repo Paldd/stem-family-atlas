@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-07. 1647 fichas en 92 países. Cada ficha indica las fechas de verificación de sus fuentes.
+Estado de la base: 2026-11-07. 1657 fichas en 92 países. Cada ficha indica las fechas de verificación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -59416,31 +59416,31 @@ Francia - París 15 - Centro Helen Doron
 
 ## CP822 · TechLabs Basel · LEGO Inventors
 
-Suiza · TechLabs ELYS · Elsässerstrasse2154056Basel
+Suiza · TechLabs ELYS · Elsässerstrasse 215 · Basel
 
-**Comprobado:** 2026-10-06
+**Se ha comprobado:** 2026-11-07
 
-**Edad:** Baseloverview 6–8, específicos booking 6–9; límite superior a acordar
+**edad:** El título indica 6–9 años y la descripción 6–8. Confirmar admisión a los 9 años con TechLabs.
 
-** Idioma:** EN/DE/FR la interfaz de grabación no es el idioma de enseñanza de este turno; EN/ES aún no ha sido confirmado por el grupo.
+**Idioma:** La ficha del turno indica inglés y alemán como idiomas de enseñanza. Confirmar proporción de inglés y grupo.
 
-** Programa:** LEGO/Technic/WeDo: diseño, motores, sensores, código sencillo, ensayo y procesamiento de prototipos: el proyecto informático se convierte en una máquina física; no se promete un juego personal de lanzamiento de LEGO.
+**Programa:** LEGO Technic y WeDo, motores, sensores, construcción y programación de modelos.
 
 ** Residencia: ** Sin hogar: los hijos regresan a la familia todos los días, los padres viven y los viajes por separado.
 
-**Fechas / situación:** Booking:5–9 octubre 2026, full; Ahora mismo. waiting list. La lista de tardes visible está empezando. 6 octubre, El título está claro 5–9. Siguiente caso 2027 Lego-No se ha anunciado ninguna carrera.
+**Fechas / estado:** Turnos del 8–12 y 15–19 de febrero de 2027 abiertos a solicitudes. Turno del 5–9 de octubre de 2026 finalizado.
 
-**Precio / año:** 2026 · CHF 450–924 en una propuesta concreta; Distribución half/full/No se ha instalado ningún complemento en la página de presentación.
+**Precio / año:** 2027 · CHF 495 por media jornada 09:00–12:30 o CHF 859 por jornada completa 09:00–17:00 durante la semana. Horario personalizado según factura separada.
 
-** Incluida:** Half-day snack; full-day lunch/snack para FAQ, paquete preciso de confirmación.
+**Incluido:** Según las reglas generales de TechLabs, se incluye merienda. La jornada completa incluye además comida y merienda de la tarde.
 
-** Prestación:** Early arrival 08:00-08:55 por preregistration, lunch/addfull/customdays por cuenta individual.
+**Suplementos:** CHF 1000 en el formulario es una opción preliminar de horario personalizado. Confirmar precio final de extras y cancelación.
 
-**Pago:** TechLabs: 50% un anticipo en el precio; Saldo 2 semanas. Day: 100% de devolución 30+ días, 50% por 14–30; frontera 30 y las condiciones son menos 14 días no claros. Overnight: 100% por 60+, 50% por 30–60, 20% menor que 30; frontera 60 También se está chocando.. Pases médicos con confirmación médica — Reembolso proporcional. Cancelación por el operador — Reintegro total. Aplicabilidad del tratado 2027 confirmar.
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 
-**Matvey:** En octubre 2026 8–9;9 Años de vida booking, pero no en overview 6–8. Contratación full/waitlist, No hay espacio disponible.
+**Matvey:** Condicional. Confirmar edad del grupo concreto y plaza.
 
-**Oscar:** Sólo después 6-años;5 años no encaja.. Full/waitlist, Idioma y grupo desconocidos.
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
 
 ** Por qué en la selección:** Programa de Ingeniería Jr. Real; se utiliza el cambio actual lleno como prueba de un curso no disponible.
 
@@ -59462,15 +59462,79 @@ Suiza · TechLabs ELYS · Elsässerstrasse2154056Basel
 
 [fuente](https://app1.edoobox.com/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Junior%20STEAM%20Camp/Lego%20STEM%20Camp/?edref=techlabs)
 
+### Taller diurno.
+
+**Fechas / estado:** 2027-02-08 — 2027-02-12
+
+**lugar:** TechLabs ELYS · Elsässerstrasse 215 · Basel
+
+**edad:** El título indica 6–9 años y la descripción 6–8. Confirmar admisión a los 9 años con TechLabs.
+
+**Precio:** CHF 495 por media jornada 09:00–12:30 o CHF 859 por jornada completa 09:00–17:00 durante la semana. Horario personalizado según factura separada.
+
+- 2027-02-08 · 09:00–17:00 · Europe/Zurich · LEGO Technic y WeDo, motores, sensores, construcción y programación de modelos.
+
+- 2027-02-09 · 09:00–17:00 · Europe/Zurich · LEGO Technic y WeDo, motores, sensores, construcción y programación de modelos.
+
+- 2027-02-10 · 09:00–17:00 · Europe/Zurich · LEGO Technic y WeDo, motores, sensores, construcción y programación de modelos.
+
+- 2027-02-11 · 09:00–17:00 · Europe/Zurich · LEGO Technic y WeDo, motores, sensores, construcción y programación de modelos.
+
+- 2027-02-12 · 09:00–17:00 · Europe/Zurich · LEGO Technic y WeDo, motores, sensores, construcción y programación de modelos.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** Condicional. Confirmar edad del grupo concreto y plaza.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Junior%20STEAM%20Camp/Lego%20STEM%20Camp/Basel%20%7C%20TechLabs%20ELYS/Camp.ed.c69aa724869c_7779904111.BS%20%20Lego%20Inventors%20Camp%20%20Age%206-9%20%20Feb%208-12)
+
+### Taller diurno.
+
+**Fechas / estado:** 2027-02-15 — 2027-02-19
+
+**lugar:** TechLabs ELYS · Elsässerstrasse 215 · Basel
+
+**edad:** El título indica 6–9 años y la descripción 6–8. Confirmar admisión a los 9 años con TechLabs.
+
+**Precio:** CHF 495 por media jornada 09:00–12:30 o CHF 859 por jornada completa 09:00–17:00 durante la semana. Horario personalizado según factura separada.
+
+- 2027-02-15 · 09:00–17:00 · Europe/Zurich · LEGO Technic y WeDo, motores, sensores, construcción y programación de modelos.
+
+- 2027-02-16 · 09:00–17:00 · Europe/Zurich · LEGO Technic y WeDo, motores, sensores, construcción y programación de modelos.
+
+- 2027-02-17 · 09:00–17:00 · Europe/Zurich · LEGO Technic y WeDo, motores, sensores, construcción y programación de modelos.
+
+- 2027-02-18 · 09:00–17:00 · Europe/Zurich · LEGO Technic y WeDo, motores, sensores, construcción y programación de modelos.
+
+- 2027-02-19 · 09:00–17:00 · Europe/Zurich · LEGO Technic y WeDo, motores, sensores, construcción y programación de modelos.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** Condicional. Confirmar edad del grupo concreto y plaza.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Junior%20STEAM%20Camp/Lego%20STEM%20Camp/Basel%20%7C%20TechLabs%20ELYS/Camp.ed.c6a09210476a_7789932157.BS%20%20Lego%20Inventors%20Camp%20%20Age%206-9%20%20Feb%2015-19)
+
 ### Fuentes
 
 - [de la misma LEGO booking:450–924/full/6–9/fecha de la entrega](https://app1.edoobox.com/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Junior%20STEAM%20Camp/Lego%20STEM%20Camp/?edref=techlabs) · 2026-10-06
 
 - [base: edad y direcciones concretas](https://www.techlabs.ch/basel/) · 2026-10-06
 
-- [régimen diario/alimentación/días de casta](https://www.techlabs.ch/camps) · 2026-10-06
+- [Página oficial del organizador](https://www.techlabs.ch/camps) · 2026-11-07
 
 - [pago/revocación/día versus overnight](https://www.techlabs.ch/terms-and-conditions) · 2026-10-06
+
+- [Página oficial del organizador](https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Junior%20STEAM%20Camp/Lego%20STEM%20Camp/Basel%20%7C%20TechLabs%20ELYS/Camp.ed.c69aa724869c_7779904111.BS%20%20Lego%20Inventors%20Camp%20%20Age%206-9%20%20Feb%208-12) · 2026-11-07
+
+- [Página oficial del organizador](https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Junior%20STEAM%20Camp/Lego%20STEM%20Camp/Basel%20%7C%20TechLabs%20ELYS/Camp.ed.c6a09210476a_7789932157.BS%20%20Lego%20Inventors%20Camp%20%20Age%206-9%20%20Feb%2015-19) · 2026-11-07
+
+- [Página oficial del organizador](https://www.techlabs.ch/basel) · 2026-11-07
+
+- [Página oficial del organizador](https://app1.edoobox.com/TechLabs/) · 2026-11-07
 
 ## CP823 · TechLabs Basel · Crazy Controllers AI Game Lab
 
@@ -126801,6 +126865,766 @@ España · Kids&Us La Vaguada · Plaza de Arteijo 9 · local 7 · Madrid
 ### Fuentes
 
 - [Página oficial del organizador](https://www.kidsandus.es/es/academias-ingles/kidsus-vaguada/ya-aqui-fun-week-navidad) · 2026-11-07
+
+## CP1648 · IT School Saint-Maur · Coding / IA · 6–8
+
+Francia · IT School · Saint-Maur-des-Fossés
+
+**Se ha comprobado:** 2026-11-07
+
+**Edad:** 6–8
+
+**Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar.
+
+**Programa:** Scratch, robot programable, sensores, secuencias, bucles y condiciones. La IA no se anuncia para este grupo.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 21–24 de diciembre de 2026, 09:30–16:30. Horario y reserva enumeran 4 días, aunque el encabezado introductorio dice 5.
+
+**Precio / año:** 2026 · EUR 239 por menor durante 4 días, impuestos incluidos. Merienda incluida, llevar comida.
+
+**Incluido:** EUR 239 por menor durante 4 días, impuestos incluidos. Merienda incluida, llevar comida.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Taller diurno.
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**lugar:** IT School · Saint-Maur-des-Fossés
+
+**Edad:** 6–8
+
+**Precio:** EUR 239 por menor durante 4 días, impuestos incluidos. Merienda incluida, llevar comida.
+
+- 2026-12-21 · 09:30–16:30 · Europe/Paris · Scratch, robot programable, sensores, secuencias, bucles y condiciones. La IA no se anuncia para este grupo.
+
+- 2026-12-22 · 09:30–16:30 · Europe/Paris · Scratch, robot programable, sensores, secuencias, bucles y condiciones. La IA no se anuncia para este grupo.
+
+- 2026-12-23 · 09:30–16:30 · Europe/Paris · Scratch, robot programable, sensores, secuencias, bucles y condiciones. La IA no se anuncia para este grupo.
+
+- 2026-12-24 · 09:30–16:30 · Europe/Paris · Scratch, robot programable, sensores, secuencias, bucles y condiciones. La IA no se anuncia para este grupo.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.algora-saintmaurdesfosses.fr/produit/6-14-ans-stage-coding-ia-vacances-dhiver-2026-du-21-decembre-sur-4-jours-2-groupes-dage/)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.algora-saintmaurdesfosses.fr/produit/6-14-ans-stage-coding-ia-vacances-dhiver-2026-du-21-decembre-sur-4-jours-2-groupes-dage/) · 2026-11-07
+
+## CP1649 · IT School Saint-Maur · Coding / IA · 9–14
+
+Francia · IT School · Saint-Maur-des-Fossés
+
+**Se ha comprobado:** 2026-11-07
+
+**Edad:** 9–14
+
+**Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar.
+
+**Programa:** Scratch, robótica y entrenamiento de modelos de IA con ejemplos. Confirmar herramientas y reglas de uso de cámara.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 21–24 de diciembre de 2026, 09:30–16:30. Horario y reserva enumeran 4 días, aunque el encabezado introductorio dice 5.
+
+**Precio / año:** 2026 · EUR 239 por menor durante 4 días, impuestos incluidos. Merienda incluida, llevar comida.
+
+**Incluido:** EUR 239 por menor durante 4 días, impuestos incluidos. Merienda incluida, llevar comida.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Taller diurno.
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**lugar:** IT School · Saint-Maur-des-Fossés
+
+**Edad:** 9–14
+
+**Precio:** EUR 239 por menor durante 4 días, impuestos incluidos. Merienda incluida, llevar comida.
+
+- 2026-12-21 · 09:30–16:30 · Europe/Paris · Scratch, robótica y entrenamiento de modelos de IA con ejemplos. Confirmar herramientas y reglas de uso de cámara.
+
+- 2026-12-22 · 09:30–16:30 · Europe/Paris · Scratch, robótica y entrenamiento de modelos de IA con ejemplos. Confirmar herramientas y reglas de uso de cámara.
+
+- 2026-12-23 · 09:30–16:30 · Europe/Paris · Scratch, robótica y entrenamiento de modelos de IA con ejemplos. Confirmar herramientas y reglas de uso de cámara.
+
+- 2026-12-24 · 09:30–16:30 · Europe/Paris · Scratch, robótica y entrenamiento de modelos de IA con ejemplos. Confirmar herramientas y reglas de uso de cámara.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+[fuente](https://www.algora-saintmaurdesfosses.fr/produit/6-14-ans-stage-coding-ia-vacances-dhiver-2026-du-21-decembre-sur-4-jours-2-groupes-dage/)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.algora-saintmaurdesfosses.fr/produit/6-14-ans-stage-coding-ia-vacances-dhiver-2026-du-21-decembre-sur-4-jours-2-groupes-dage/) · 2026-11-07
+
+## CP1650 · Cité des sciences · Impression et modélisation 3D
+
+Francia · Cité des sciences et de l’industrie · Paris
+
+**Se ha comprobado:** 2026-11-07
+
+**Edad:** 6–8 / 9–11
+
+**Idioma:** La organización indica expresamente que los talleres se imparten solo en francés.
+
+**Programa:** Modelado de un objeto e impresión del trabajo propio.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Días lectivos según calendario del organizador.
+
+**Precio / año:** 2026 · EUR 95 por día, EUR 85 con abono según cupo.
+
+**Incluido:** El día completo incluye pícnic; se puede llevar agua y comida propia si es necesario.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Taller diurno.
+
+**Fechas / estado:** 2026-12-28 — 2026-12-28
+
+**lugar:** Cité des sciences et de l’industrie · Paris
+
+**Edad:** 6–8
+
+**Precio:** EUR 95 por día, EUR 85 con abono según cupo.
+
+- 2026-12-28 · 10:00–17:30 · Europe/Paris · Modelado de un objeto e impresión del trabajo propio.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science)
+
+### Taller diurno.
+
+**Fechas / estado:** 2026-12-29 — 2026-12-29
+
+**lugar:** Cité des sciences et de l’industrie · Paris
+
+**Edad:** 9–11
+
+**Precio:** EUR 95 por día, EUR 85 con abono según cupo.
+
+- 2026-12-29 · 10:00–17:30 · Europe/Paris · Modelado de un objeto e impresión del trabajo propio.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+[fuente](https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science)
+
+### Fuentes
+
+- [Página oficial del organizador](https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science) · 2026-11-07
+
+## CP1651 · Cité des sciences · Initiation au codage
+
+Francia · Cité des sciences et de l’industrie · Paris
+
+**Se ha comprobado:** 2026-11-07
+
+**Edad:** 6–8 / 9–11
+
+**Idioma:** La organización indica expresamente que los talleres se imparten solo en francés.
+
+**Programa:** Algoritmos e introducción al código mediante proyectos interactivos.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Días lectivos según calendario del organizador.
+
+**Precio / año:** 2026 · EUR 95 por día, EUR 85 con abono según cupo.
+
+**Incluido:** El día completo incluye pícnic; se puede llevar agua y comida propia si es necesario.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Taller diurno.
+
+**Fechas / estado:** 2026-12-22 — 2026-12-22
+
+**lugar:** Cité des sciences et de l’industrie · Paris
+
+**Edad:** 6–8
+
+**Precio:** EUR 95 por día, EUR 85 con abono según cupo.
+
+- 2026-12-22 · 10:00–17:30 · Europe/Paris · Algoritmos e introducción al código mediante proyectos interactivos.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science)
+
+### Taller diurno.
+
+**Fechas / estado:** 2026-12-23 — 2026-12-23
+
+**lugar:** Cité des sciences et de l’industrie · Paris
+
+**Edad:** 9–11
+
+**Precio:** EUR 95 por día, EUR 85 con abono según cupo.
+
+- 2026-12-23 · 10:00–17:30 · Europe/Paris · Algoritmos e introducción al código mediante proyectos interactivos.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+[fuente](https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science)
+
+### Fuentes
+
+- [Página oficial del organizador](https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science) · 2026-11-07
+
+## CP1652 · Cité des sciences · Intelligence artificielle
+
+Francia · Cité des sciences et de l’industrie · Paris
+
+**Se ha comprobado:** 2026-11-07
+
+**Edad:** 9–11
+
+**Idioma:** La organización indica expresamente que los talleres se imparten solo en francés.
+
+**Programa:** Principios de IA, capacidades, límites y consecuencias.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Días lectivos según calendario del organizador.
+
+**Precio / año:** 2026 · EUR 95 por día, EUR 85 con abono según cupo.
+
+**Incluido:** El día completo incluye pícnic; se puede llevar agua y comida propia si es necesario.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Taller diurno.
+
+**Fechas / estado:** 2026-12-30 — 2026-12-30
+
+**lugar:** Cité des sciences et de l’industrie · Paris
+
+**Edad:** 9–11
+
+**Precio:** EUR 95 por día, EUR 85 con abono según cupo.
+
+- 2026-12-30 · 10:00–17:30 · Europe/Paris · Principios de IA, capacidades, límites y consecuencias.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+[fuente](https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science)
+
+### Fuentes
+
+- [Página oficial del organizador](https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science) · 2026-11-07
+
+## CP1653 · Cité des sciences · Un robot en balade
+
+Francia · Cité des sciences et de l’industrie · Paris
+
+**Se ha comprobado:** 2026-11-07
+
+**Edad:** 9–11
+
+**Idioma:** La organización indica expresamente que los talleres se imparten solo en francés.
+
+**Programa:** Media jornada de programación con un robot educativo.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Días lectivos según calendario del organizador.
+
+**Precio / año:** 2026 · EUR 45 por media jornada, EUR 35 con abono según cupo.
+
+**Incluido:** Taller de media jornada. Confirmar comida por separado.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Taller diurno.
+
+**Fechas / estado:** 2026-12-22 — 2026-12-22
+
+**lugar:** Cité des sciences et de l’industrie · Paris
+
+**Edad:** 9–11
+
+**Precio:** EUR 45 por media jornada, EUR 35 con abono según cupo.
+
+- 2026-12-22 · 10:00–13:30 · Europe/Paris · Media jornada de programación con un robot educativo.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+[fuente](https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science)
+
+### Taller diurno.
+
+**Fechas / estado:** 2026-12-29 — 2026-12-29
+
+**lugar:** Cité des sciences et de l’industrie · Paris
+
+**Edad:** 9–11
+
+**Precio:** EUR 45 por media jornada, EUR 35 con abono según cupo.
+
+- 2026-12-29 · 10:00–13:30 · Europe/Paris · Media jornada de programación con un robot educativo.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+[fuente](https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science)
+
+### Fuentes
+
+- [Página oficial del organizador](https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science) · 2026-11-07
+
+## CP1654 · SilverBot · LEGO Engineering in English
+
+Francia · Périscope · 83 avenue d’Italie · Paris
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** La organización no indica la edad del taller concreto en inglés.
+
+**Idioma:** Todo el taller LEGO Engineering se imparte en inglés.
+
+**Programa:** Construir y mejorar un modelo LEGO, explorar movimiento y mecanismos simples. Merienda común tras el taller.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 19 de diciembre de 2026, 10:00–11:30. 6 de febrero y 17 de abril de 2027 publicados sin horas separadas.
+
+**Precio / año:** 2026 · EUR 25 por sesión según la ficha del proveedor. Confirmar plaza y tarifa para la fecha elegida.
+
+**Incluido:** Programa diurno sin alojamiento.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Condicional. Confirmar edad del grupo concreto y plaza.
+
+**Oscar:** Condicional. Confirmar edad del grupo concreto y plaza.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Taller diurno.
+
+**Fechas / estado:** 2026-12-19 — 2026-12-19
+
+**lugar:** Périscope · 83 avenue d’Italie · Paris
+
+**edad:** La organización no indica la edad del taller concreto en inglés.
+
+**Precio:** EUR 25 por sesión según la ficha del proveedor. Confirmar plaza y tarifa para la fecha elegida.
+
+- 2026-12-19 · 10:00–11:30 · Europe/Paris · Construir y mejorar un modelo LEGO, explorar movimiento y mecanismos simples. Merienda común tras el taller.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Condicional. Confirmar edad del grupo concreto y plaza.
+
+**Oscar:** Condicional. Confirmar edad del grupo concreto y plaza.
+
+[fuente](https://www.silverbot.fr/stage-vacances)
+
+### Taller diurno.
+
+**Fechas / estado:** 2027-02-06 — 2027-02-06
+
+**lugar:** Périscope · 83 avenue d’Italie · Paris
+
+**edad:** La organización no indica la edad del taller concreto en inglés.
+
+**Precio:** EUR 25 por sesión según la ficha del proveedor. Confirmar plaza y tarifa para la fecha elegida.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Condicional. Confirmar edad del grupo concreto y plaza.
+
+**Oscar:** Condicional. Confirmar edad del grupo concreto y plaza.
+
+[fuente](https://www.silverbot.fr/stage-vacances)
+
+### Taller diurno.
+
+**Fechas / estado:** 2027-04-17 — 2027-04-17
+
+**lugar:** Périscope · 83 avenue d’Italie · Paris
+
+**edad:** La organización no indica la edad del taller concreto en inglés.
+
+**Precio:** EUR 25 por sesión según la ficha del proveedor. Confirmar plaza y tarifa para la fecha elegida.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Condicional. Confirmar edad del grupo concreto y plaza.
+
+**Oscar:** Condicional. Confirmar edad del grupo concreto y plaza.
+
+[fuente](https://www.silverbot.fr/stage-vacances)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.silverbot.fr/stage-vacances) · 2026-11-07
+
+## CP1655 · TechLabs Basel · Robotics · CuteBot
+
+Suiza · TechLabs ELYS · Elsässerstrasse 215 · Basel
+
+**Se ha comprobado:** 2026-11-07
+
+**Edad:** 8–12
+
+**Idioma:** La ficha del turno indica inglés y alemán como idiomas de enseñanza. Confirmar proporción de inglés y grupo.
+
+**Programa:** ELECFREAKS Cutebot Pro, sensores, control web, evasión de obstáculos y visión del robot con IA.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** La jornada completa del calendario es 09:00–17:00. La organización ofrece media jornada 09:00–12:30.
+
+**Precio / año:** 2027 · CHF 495 por media jornada 09:00–12:30 o CHF 859 por jornada completa 09:00–17:00 durante la semana. Horario personalizado según factura separada.
+
+**Incluido:** Según las reglas generales de TechLabs, se incluye merienda. La jornada completa incluye además comida y merienda de la tarde.
+
+**Suplementos:** CHF 1000 en el formulario es una opción preliminar de horario personalizado. Confirmar precio final de extras y cancelación.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Taller diurno.
+
+**Fechas / estado:** 2027-02-15 — 2027-02-19
+
+**lugar:** TechLabs ELYS · Elsässerstrasse 215 · Basel
+
+**Edad:** 8–12
+
+**Precio:** CHF 495 por media jornada 09:00–12:30 o CHF 859 por jornada completa 09:00–17:00 durante la semana. Horario personalizado según factura separada.
+
+- 2027-02-15 · 09:00–17:00 · Europe/Zurich · ELECFREAKS Cutebot Pro, sensores, control web, evasión de obstáculos y visión del robot con IA.
+
+- 2027-02-16 · 09:00–17:00 · Europe/Zurich · ELECFREAKS Cutebot Pro, sensores, control web, evasión de obstáculos y visión del robot con IA.
+
+- 2027-02-17 · 09:00–17:00 · Europe/Zurich · ELECFREAKS Cutebot Pro, sensores, control web, evasión de obstáculos y visión del robot con IA.
+
+- 2027-02-18 · 09:00–17:00 · Europe/Zurich · ELECFREAKS Cutebot Pro, sensores, control web, evasión de obstáculos y visión del robot con IA.
+
+- 2027-02-19 · 09:00–17:00 · Europe/Zurich · ELECFREAKS Cutebot Pro, sensores, control web, evasión de obstáculos y visión del robot con IA.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+[fuente](https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Robotics%20Camps/Robotics%20Camp%20CuteBot%20Edition/Basel%20%C2%A0TechLabs%20ELYS/Camp.ed.fd724a1d5a2a_7544904325.BS%20%20Robotics%20Camp%20CuteBot%20Edition%20%20Ages%208-12%20%20Feb%2015-19)
+
+### Fuentes
+
+- [Página oficial del organizador](https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Robotics%20Camps/Robotics%20Camp%20CuteBot%20Edition/Basel%20%C2%A0TechLabs%20ELYS/Camp.ed.fd724a1d5a2a_7544904325.BS%20%20Robotics%20Camp%20CuteBot%20Edition%20%20Ages%208-12%20%20Feb%2015-19) · 2026-11-07
+
+- [Página oficial del organizador](https://www.techlabs.ch/basel) · 2026-11-07
+
+- [Página oficial del organizador](https://www.techlabs.ch/camps) · 2026-11-07
+
+- [Página oficial del organizador](https://app1.edoobox.com/TechLabs/) · 2026-11-07
+
+## CP1656 · TechLabs Basel · Retro Arcade
+
+Suiza · TechLabs ELYS · Elsässerstrasse 215 · Basel
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Título 8–13 años, descripción 9+. Confirmar admisión a los 8 años.
+
+**Idioma:** La ficha del turno indica inglés y alemán como idiomas de enseñanza. Confirmar proporción de inglés y grupo.
+
+**Programa:** Juego propio con Microsoft MakeCode Arcade, bloques o JavaScript, pruebas en consola portátil.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** La jornada completa del calendario es 09:00–17:00. La organización ofrece media jornada 09:00–12:30.
+
+**Precio / año:** 2027 · CHF 495 por media jornada 09:00–12:30 o CHF 859 por jornada completa 09:00–17:00 durante la semana. Horario personalizado según factura separada.
+
+**Incluido:** Según las reglas generales de TechLabs, se incluye merienda. La jornada completa incluye además comida y merienda de la tarde.
+
+**Suplementos:** CHF 1000 en el formulario es una opción preliminar de horario personalizado. Confirmar precio final de extras y cancelación.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Taller diurno.
+
+**Fechas / estado:** 2027-02-08 — 2027-02-12
+
+**lugar:** TechLabs ELYS · Elsässerstrasse 215 · Basel
+
+**edad:** Título 8–13 años, descripción 9+. Confirmar admisión a los 8 años.
+
+**Precio:** CHF 495 por media jornada 09:00–12:30 o CHF 859 por jornada completa 09:00–17:00 durante la semana. Horario personalizado según factura separada.
+
+- 2027-02-08 · 09:00–17:00 · Europe/Zurich · Juego propio con Microsoft MakeCode Arcade, bloques o JavaScript, pruebas en consola portátil.
+
+- 2027-02-09 · 09:00–17:00 · Europe/Zurich · Juego propio con Microsoft MakeCode Arcade, bloques o JavaScript, pruebas en consola portátil.
+
+- 2027-02-10 · 09:00–17:00 · Europe/Zurich · Juego propio con Microsoft MakeCode Arcade, bloques o JavaScript, pruebas en consola portátil.
+
+- 2027-02-11 · 09:00–17:00 · Europe/Zurich · Juego propio con Microsoft MakeCode Arcade, bloques o JavaScript, pruebas en consola portátil.
+
+- 2027-02-12 · 09:00–17:00 · Europe/Zurich · Juego propio con Microsoft MakeCode Arcade, bloques o JavaScript, pruebas en consola portátil.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+[fuente](https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Video%20Game%20Design%20Camps/Retro%20Arcade%20Design%20Lab/Basel%20%20TechLabs%20ELYS/Camp.ed.afa9e63180d8_7789925395.BS%20%20Video%20Game%20Design%20-Retro%20Arcade%20%20Ages%208-13%20%20Feb%208-12)
+
+### Fuentes
+
+- [Página oficial del organizador](https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Video%20Game%20Design%20Camps/Retro%20Arcade%20Design%20Lab/Basel%20%20TechLabs%20ELYS/Camp.ed.afa9e63180d8_7789925395.BS%20%20Video%20Game%20Design%20-Retro%20Arcade%20%20Ages%208-13%20%20Feb%208-12) · 2026-11-07
+
+- [Página oficial del organizador](https://www.techlabs.ch/basel) · 2026-11-07
+
+- [Página oficial del organizador](https://www.techlabs.ch/camps) · 2026-11-07
+
+- [Página oficial del organizador](https://app1.edoobox.com/TechLabs/) · 2026-11-07
+
+## CP1657 · TechLabs Basel · MCreator Minecraft Modding
+
+Suiza · TechLabs ELYS · Elsässerstrasse 215 · Basel
+
+**Se ha comprobado:** 2026-11-07
+
+* Edad:** 10*16
+
+**Idioma:** La ficha del turno indica inglés y alemán como idiomas de enseñanza. Confirmar proporción de inglés y grupo.
+
+**Programa:** Mods y mecánicas de juego con MCreator. Textos y vídeos de herramientas en inglés.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** La jornada completa del calendario es 09:00–17:00. La organización ofrece media jornada 09:00–12:30.
+
+**Precio / año:** 2027 · CHF 495 por media jornada 09:00–12:30 o CHF 859 por jornada completa 09:00–17:00 durante la semana. Horario personalizado según factura separada.
+
+**Incluido:** Según las reglas generales de TechLabs, se incluye merienda. La jornada completa incluye además comida y merienda de la tarde.
+
+**Suplementos:** CHF 1000 en el formulario es una opción preliminar de horario personalizado. Confirmar precio final de extras y cancelación.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Condicional si ya ha cumplido 10 años al comenzar.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Taller diurno.
+
+**Fechas / estado:** 2027-02-08 — 2027-02-12
+
+**lugar:** TechLabs ELYS · Elsässerstrasse 215 · Basel
+
+* Edad:** 10*16
+
+**Precio:** CHF 495 por media jornada 09:00–12:30 o CHF 859 por jornada completa 09:00–17:00 durante la semana. Horario personalizado según factura separada.
+
+- 2027-02-08 · 09:00–17:00 · Europe/Zurich · Mods y mecánicas de juego con MCreator. Textos y vídeos de herramientas en inglés.
+
+- 2027-02-09 · 09:00–17:00 · Europe/Zurich · Mods y mecánicas de juego con MCreator. Textos y vídeos de herramientas en inglés.
+
+- 2027-02-10 · 09:00–17:00 · Europe/Zurich · Mods y mecánicas de juego con MCreator. Textos y vídeos de herramientas en inglés.
+
+- 2027-02-11 · 09:00–17:00 · Europe/Zurich · Mods y mecánicas de juego con MCreator. Textos y vídeos de herramientas en inglés.
+
+- 2027-02-12 · 09:00–17:00 · Europe/Zurich · Mods y mecánicas de juego con MCreator. Textos y vídeos de herramientas en inglés.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** Condicional si ya ha cumplido 10 años al comenzar.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+[fuente](https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Video%20Game%20Design%20Camps/Minecraft%20Modding%20Camp/Basel%20%7C%20TechLabs%20ELYS/Camp.ed.6e5c55149f06_7721054425.BS%20%20MCreator%20Minecraft%20Modding%20Camp%20%20Age%2010-16%20%20Feb%208-12)
+
+### Taller diurno.
+
+**Fechas / estado:** 2027-02-15 — 2027-02-19
+
+**lugar:** TechLabs ELYS · Elsässerstrasse 215 · Basel
+
+* Edad:** 10*16
+
+**Precio:** CHF 495 por media jornada 09:00–12:30 o CHF 859 por jornada completa 09:00–17:00 durante la semana. Horario personalizado según factura separada.
+
+- 2027-02-15 · 09:00–17:00 · Europe/Zurich · Mods y mecánicas de juego con MCreator. Textos y vídeos de herramientas en inglés.
+
+- 2027-02-16 · 09:00–17:00 · Europe/Zurich · Mods y mecánicas de juego con MCreator. Textos y vídeos de herramientas en inglés.
+
+- 2027-02-17 · 09:00–17:00 · Europe/Zurich · Mods y mecánicas de juego con MCreator. Textos y vídeos de herramientas en inglés.
+
+- 2027-02-18 · 09:00–17:00 · Europe/Zurich · Mods y mecánicas de juego con MCreator. Textos y vídeos de herramientas en inglés.
+
+- 2027-02-19 · 09:00–17:00 · Europe/Zurich · Mods y mecánicas de juego con MCreator. Textos y vídeos de herramientas en inglés.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** Condicional si ya ha cumplido 10 años al comenzar.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+[fuente](https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Video%20Game%20Design%20Camps/Minecraft%20Modding%20Camp/Basel%20%7C%20TechLabs%20ELYS/Camp.ed.468b2644d3b3_7789837489.BS%20%20MCreator%20Minecraft%20Modding%20Camp%20%20Age%2010-16%20%20Feb%2015-19)
+
+### Fuentes
+
+- [Página oficial del organizador](https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Video%20Game%20Design%20Camps/Minecraft%20Modding%20Camp/Basel%20%7C%20TechLabs%20ELYS/Camp.ed.6e5c55149f06_7721054425.BS%20%20MCreator%20Minecraft%20Modding%20Camp%20%20Age%2010-16%20%20Feb%208-12) · 2026-11-07
+
+- [Página oficial del organizador](https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Video%20Game%20Design%20Camps/Minecraft%20Modding%20Camp/Basel%20%7C%20TechLabs%20ELYS/Camp.ed.468b2644d3b3_7789837489.BS%20%20MCreator%20Minecraft%20Modding%20Camp%20%20Age%2010-16%20%20Feb%2015-19) · 2026-11-07
+
+- [Página oficial del organizador](https://www.techlabs.ch/basel) · 2026-11-07
+
+- [Página oficial del organizador](https://www.techlabs.ch/camps) · 2026-11-07
+
+- [Página oficial del organizador](https://app1.edoobox.com/TechLabs/) · 2026-11-07
 
 ## ~ Comprobaciones no cerradas
 

@@ -10246,7 +10246,10 @@
           "C917",
           "C918",
           "C919",
-          "C920"
+          "C920",
+          "C3137",
+          "C3138",
+          "C3139"
         ],
         "legacy_ids": [],
         "route": "proyecto de ingeniería propio en el transcurso de 6–8 meses → selección local → resultado del premio en la final nacional → Eurobot Junior por las reglas vigentes.",
@@ -10280,6 +10283,11 @@
             "title": "diferencia de edad en la descripción",
             "url": "https://www.coupederobotique.fr/levenement/la-coupe-junior/",
             "checked": "2026-10-01"
+          },
+          {
+            "url": "https://www.coupederobotique.fr/calendrier/",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
           }
         ],
         "evidence": "Las condiciones desconocidas de la próxima temporada y la admisión extranjera se han marcado por separado."
@@ -19233,6 +19241,117 @@
         "evidence": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado."
       },
       {
+        "id": "ftc-france-biobuzz",
+        "name": "FIRST Tech Challenge France · BIOBUZZ",
+        "group": "regional",
+        "age_summary": "12–18 años según Robotique FIRST France.",
+        "age_tags": [
+          "teen"
+        ],
+        "summary": "Equipo de 5–15 personas con mentor. El reto de temporada utiliza un robot FTC.",
+        "route": "Por centro, club o equipo independiente con mentor. Confirmar inscripción concreta y condiciones locales con la organización.",
+        "hardware": "Robot FTC, campo BIOBUZZ, cuaderno de ingeniería y entrevista ante el jurado.",
+        "language": "Confirmar el idioma del grupo o sede concretos.",
+        "importance": "Programa nacional",
+        "strengths": [
+          "Equipo de 5–15 personas con mentor. El reto de temporada utiliza un robot FTC."
+        ],
+        "requirements": [
+          "12–18 años según Robotique FIRST France."
+        ],
+        "nuances": [
+          "El calendario principal 2027 indica 32 equipos franceses y 4 internacionales. Confirmar plazas extranjeras y acceso de público."
+        ],
+        "cost": "Cuota de equipo EUR 270 según la página del programa. Confirmar viaje y otros gastos.",
+        "award": "La clasificación para la final nacional se determina según las reglas de FIRST.",
+        "categories": [
+          {
+            "name": "FIRST Tech Challenge France · Marnaz · BIOBUZZ 2027",
+            "age": "12–18 años según Robotique FIRST France.",
+            "team": "Equipo de 5–15 personas con mentor. El reto de temporada utiliza un robot FTC.",
+            "hardware": "Robot FTC, campo BIOBUZZ, cuaderno de ingeniería y entrevista ante el jurado.",
+            "age_rule": "12–18 años según Robotique FIRST France.",
+            "entry": "Por centro, club o equipo independiente con mentor. Confirmar inscripción concreta y condiciones locales con la organización."
+          },
+          {
+            "name": "FIRST Tech Challenge France · La Boisse · BIOBUZZ 2027",
+            "age": "12–18 años según Robotique FIRST France.",
+            "team": "Equipo de 5–15 personas con mentor. El reto de temporada utiliza un robot FTC.",
+            "hardware": "Robot FTC, campo BIOBUZZ, cuaderno de ingeniería y entrevista ante el jurado.",
+            "age_rule": "12–18 años según Robotique FIRST France.",
+            "entry": "Por centro, club o equipo independiente con mentor. Confirmar inscripción concreta y condiciones locales con la organización."
+          },
+          {
+            "name": "FIRST Tech Challenge France · Neuville-sur-Saône · BIOBUZZ 2027",
+            "age": "12–18 años según Robotique FIRST France.",
+            "team": "Equipo de 5–15 personas con mentor. El reto de temporada utiliza un robot FTC.",
+            "hardware": "Robot FTC, campo BIOBUZZ, cuaderno de ingeniería y entrevista ante el jurado.",
+            "age_rule": "12–18 años según Robotique FIRST France.",
+            "entry": "Por centro, club o equipo independiente con mentor. Confirmar inscripción concreta y condiciones locales con la organización."
+          },
+          {
+            "name": "FIRST Tech Challenge France · Valence · BIOBUZZ 2027",
+            "age": "12–18 años según Robotique FIRST France.",
+            "team": "Equipo de 5–15 personas con mentor. El reto de temporada utiliza un robot FTC.",
+            "hardware": "Robot FTC, campo BIOBUZZ, cuaderno de ingeniería y entrevista ante el jurado.",
+            "age_rule": "12–18 años según Robotique FIRST France.",
+            "entry": "Por centro, club o equipo independiente con mentor. Confirmar inscripción concreta y condiciones locales con la organización."
+          },
+          {
+            "name": "FIRST Tech Challenge France · Angers · BIOBUZZ 2027",
+            "age": "12–18 años según Robotique FIRST France.",
+            "team": "Equipo de 5–15 personas con mentor. El reto de temporada utiliza un robot FTC.",
+            "hardware": "Robot FTC, campo BIOBUZZ, cuaderno de ingeniería y entrevista ante el jurado.",
+            "age_rule": "12–18 años según Robotique FIRST France.",
+            "entry": "Por centro, club o equipo independiente con mentor. Confirmar inscripción concreta y condiciones locales con la organización."
+          },
+          {
+            "name": "FIRST Tech Challenge France · Levallois-Perret · BIOBUZZ 2027",
+            "age": "12–18 años según Robotique FIRST France.",
+            "team": "Equipo de 5–15 personas con mentor. El reto de temporada utiliza un robot FTC.",
+            "hardware": "Robot FTC, campo BIOBUZZ, cuaderno de ingeniería y entrevista ante el jurado.",
+            "age_rule": "12–18 años según Robotique FIRST France.",
+            "entry": "Por centro, club o equipo independiente con mentor. Confirmar inscripción concreta y condiciones locales con la organización."
+          },
+          {
+            "name": "FIRST Tech Challenge France · French Championship · BIOBUZZ 2027",
+            "age": "12–18 años según Robotique FIRST France.",
+            "team": "Equipo de 5–15 personas con mentor. El reto de temporada utiliza un robot FTC.",
+            "hardware": "Robot FTC, campo BIOBUZZ, cuaderno de ingeniería y entrevista ante el jurado.",
+            "age_rule": "12–18 años según Robotique FIRST France.",
+            "entry": "El equipo francés pasa por clasificación regional. Los equipos extranjeros tienen condiciones separadas."
+          }
+        ],
+        "event_ids": [
+          "C3130",
+          "C3131",
+          "C3132",
+          "C3133",
+          "C3134",
+          "C3135",
+          "C3136"
+        ],
+        "legacy_ids": [],
+        "sources": [
+          {
+            "url": "https://www.ledefirobotique.fr/",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://www.robotiquefirstfrance.org/ftc/",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://teamcenter.robotiquefirstfrance.org/biobuzz/",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          }
+        ],
+        "evidence": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado."
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · programa de ingeniería y showcase",
         "group": "regional",
@@ -24659,7 +24778,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "Perfiles de ligas, familias y programas: 264. Se conservaron las 46 rutas previas. Los formatos brasileños están separados, y Robofest LATAM y BajaBot locales se describen según sus categorías. La cobertura mundial es parcial.",
+    "methodology": "Perfiles de ligas, familias y programas: 265. Se conservaron las 46 rutas previas. Los formatos brasileños están separados, y Robofest LATAM y BajaBot locales se describen según sus categorías. La cobertura mundial es parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

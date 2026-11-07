@@ -1,0 +1,67 @@
+{
+  "version": 213,
+  "checked": "2026-11-07",
+  "previous_goal_turn_classification": "progress",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "new_competitions": 13,
+  "new_exhibitions": 8,
+  "new_camp_dossiers": 10,
+  "new_camp_calendar_rows": 18,
+  "updated_events": [
+    "C918",
+    "L423",
+    "L424"
+  ],
+  "updated_programme_ids": [
+    "CP822"
+  ],
+  "new_league_profiles": 1,
+  "new_budget_offers": 5,
+  "new_events": [
+    "E315",
+    "C3130",
+    "E316",
+    "C3131",
+    "E317",
+    "C3132",
+    "E318",
+    "C3133",
+    "E319",
+    "C3134",
+    "E320",
+    "C3135",
+    "E321",
+    "C3136",
+    "C3137",
+    "C3138",
+    "C3139",
+    "C3140",
+    "E322",
+    "C3141",
+    "C3142"
+  ],
+  "programme_ids": {
+    "algora-saint-maur-junior": "CP1648",
+    "algora-saint-maur-senior": "CP1649",
+    "cite-paris-noel-3d": "CP1650",
+    "cite-paris-noel-coding": "CP1651",
+    "cite-paris-noel-ai": "CP1652",
+    "cite-paris-noel-robot": "CP1653",
+    "silverbot-paris-lego-en": "CP1654",
+    "techlabs-basel-winter-cutebot": "CP1655",
+    "techlabs-basel-winter-retro-arcade": "CP1656",
+    "techlabs-basel-winter-minecraft": "CP1657"
+  },
+  "source_requests": 34,
+  "limits": [
+    "TechLabs LEGO Inventors header 6–9 differs from course description 6–8.",
+    "TechLabs Retro Arcade header 8–13 differs from description 9+.",
+    "TechLabs full-day schedule is the timed export. Half-day is a separate quoted price and time option.",
+    "Algora attendance and checkout specify 4 days despite a 5-day introduction.",
+    "Cité des sciences explicitly French-only. SilverBot English workshop age and space unconfirmed.",
+    "FTC France final visitor rules are still from 2026. Six 2027 regional pages explicitly admit families.",
+    "Occitanie rescheduled from 2027-03-27 to 2027-03-20 in organizer detail and current calendar.",
+    "Frankfurt team size conflicts across organizer PDF and announcement."
+  ]
+}

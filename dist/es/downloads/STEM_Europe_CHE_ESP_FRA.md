@@ -582,7 +582,7 @@ Matvey necesita el cumpleaños exacto antes de que el HIF; Oscar, las dos pistas
 
 ### ~#Francia · taller 8-11 y equipo 12+ ~ entradas diferentes
 
-MJC Blagnac es el miércoles. 8–11 y el lunes para el equipo 12+. Les Cours Circuits Lo ocuparon. 3-Es un lugar Occitanie 2026. el día regional siguiente oficial — 27 de marzo 2027.
+MJC Blagnac ofrece los miércoles para 8–11 años y los lunes para el equipo de 12+. Les Cours Circuits obtuvo el 3.er lugar en Occitanie 2026. La próxima jornada regional oficial es el 20 de marzo de 2027.
 
 El club April 2027 no sustituye a la fecha del organizador. EN / ES / RU no está probado; el taller menor no es una entrada automática en el equipo de premios.
 

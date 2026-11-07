@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 7498; competiciones: 3128; eventos: 314; campamentos / programas: 4056. Perfiles de ligas y programas: 264. Fichas de exposiciones grandes y especializadas: 226 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 7537; competiciones: 3141; eventos: 322; campamentos / programas: 4074. Perfiles de ligas y programas: 265. Fichas de exposiciones grandes y especializadas: 234 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros concretos de 158 de 249 países y territorios; países auditados por completo: 0. Revisión histórica v51: se añadieron 21 fichas y 3 perfiles. Todas las fichas anteriores se conservan.
 
@@ -16,14 +16,14 @@ Hay registros concretos de 158 de 249 países y territorios; países auditados p
 |---|---:|---:|---:|---:|
 | América del Norte | 23 | 1434 | 41 | 1063 |
 | América del Sur | 10 | 195 | 11 | 132 |
-| Europa | 42 | 419 | 72 | 1280 |
+| Europa | 42 | 432 | 80 | 1298 |
 | África | 34 | 115 | 15 | 68 |
 | Asia | 44 | 750 | 83 | 1387 |
 | Oceanía | 5 | 119 | 3 | 114 |
 
 Fichas interregionales o globales sin un único continente asignado: 114. América del Norte incluye Centroamérica y el Caribe. Las cifras muestran el inventario del atlas y no un porcentaje de exhaustividad.
 
-VEX: 518 de 3128 fichas de competencias (16.6%). La cobertura presenta un desequilibrio.
+VEX: 518 de 3141 fichas de competencias (16.5%). La cobertura presenta un desequilibrio.
 
 ## Lo que queda
 
@@ -183,7 +183,7 @@ VEX: 518 de 3128 fichas de competencias (16.6%). La cobertura presenta un desequ
 - **WRO Switzerland · Starter / Elementary**: 2 tarjetas, 0 con fechas exactas futuras. https://wro.swiss/en/information-on/categories-and-age-groups/
 - **WRO Spain · RoboBasic a partir de los 6 años / Elementary**: 4 tarjetas, 0 con fechas exactas futuras. https://www.wroboto.es/competicion/
 - **FIRST LEGO League · Switzerland / Spain / France**: 11 tarjetas, 4 con fechas exactas futuras. https://firstlegoleague.soy/inscripciones-bioglow/
-- *Coupe de France de Robotique Junior / Eurobot Junior**: 4 tarjetas, 3 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://www.coupederobotique.fr/participer-a-la-coupe-junior/
+- **Coupe de France de Robotique Junior / Eurobot Junior**: 7 fichas, 6 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.coupederobotique.fr/participer-a-la-coupe-junior/
 - **WRO India · Rutas nacionales**: 2 tarjetas, 0 con fechas exactas futuras; perfil y tarjetas; cobertura local parcial. https://wroindia.org/season-2026/
 - **WRO Pakistan / PSSEC**: 1 tarjeta, 0 con fechas exactas futuras. https://www.linkedin.com/company/wro-pak/
 - **WRO Sri Lanka / Burhani Serendib School**: 1 tarjeta, 0 con fechas exactas futuras. https://www.burhani.edu.lk/world-robot-olympiad-sri-lanka-nationals-2026/
@@ -288,6 +288,7 @@ VEX: 518 de 3128 fichas de competencias (16.6%). La cobertura presenta un desequ
 - **OICC · Olimpiada de Informática**: 1 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.oicc-oficial.org/inicio
 - **PRONAFECYT · Costa Rica**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.mep.go.cr/noticias/calendario-escolar-2027-clases-1o-marzo-30-noviembre
 - **Eurobot Spain · Junior / Novel**: 3 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.eurobot.es/inscripcion-de-equipo/
+- **FIRST Tech Challenge France · BIOBUZZ**: 7 fichas, 7 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.ledefirobotique.fr/
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 10 tarjetas, 0 con fechas exactas futuras. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -558,6 +559,14 @@ VEX: 518 de 3128 fichas de competencias (16.6%). La cobertura presenta un desequ
 - **Salón del Videojuego de Madrid 2026** — España; 2026-12-05 – 2026-12-06. con un adulto; condiciones de admisión adulta por separado. https://salonvideojuego.com/entradas/
 - **InterOcio 2027 · juegos y prototipos** — España; 2027-04-02 – 2027-04-04. con un adulto; condiciones de admisión adulta por separado. https://feriainterocio.com/
 - **La fira dels Invents · Desafío Robot 2027** — España; 2027-05-28. con un adulto; condiciones de admisión adulta por separado. https://cac.es/web/desafio-robot/
+- **Toulouse Space Festival 2027** — Francia; 2027-01-22 – 2027-01-24. con un adulto; condiciones de admisión adulta por separado. https://toulousespacefestival.com/edition/2027/
+- **Le Défi Robotique · public · Marnaz** — Francia; 2027-01-16. con un adulto; condiciones de admisión adulta por separado. https://www.ledefirobotique.fr/marnaz/
+- **Le Défi Robotique · public · La Boisse** — Francia; 2027-01-23. con un adulto; condiciones de admisión adulta por separado. https://www.ledefirobotique.fr/la-boisse/
+- **Le Défi Robotique · public · Neuville-sur-Saône** — Francia; 2027-01-30. con un adulto; condiciones de admisión adulta por separado. https://www.ledefirobotique.fr/neuville/
+- **Le Défi Robotique · public · Valence** — Francia; 2027-02-06. con un adulto; condiciones de admisión adulta por separado. https://www.ledefirobotique.fr/valence/
+- **Le Défi Robotique · public · Angers** — Francia; 2027-02-13. con un adulto; condiciones de admisión adulta por separado. https://www.ledefirobotique.fr/angers/
+- **Le Défi Robotique · public · Levallois-Perret** — Francia; 2027-02-27. con un adulto; condiciones de admisión adulta por separado. https://www.ledefirobotique.fr/levallois-perret/
+- **Lego Event Benzenschwil · visita familiar** — Suiza; 2027-03-13. Con un adulto. Consultar condiciones de entrada para adultos. https://www.lego-event-benzenschwil.ch/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors
