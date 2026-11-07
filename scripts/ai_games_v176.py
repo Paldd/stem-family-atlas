@@ -96,7 +96,15 @@ def make_events(d):
     return rows
 
 def enrich_v176(d):
-    rows=make_events(d);ids={e['id']for e in rows};d['events']=[e for e in d['events']if e['id']not in ids]+rows;d['asof']=CHECKED
+    # Keep later primary-source revisions of these generated events.
+    current_brainiacs = {
+        e['id']: e for e in d['events']
+        if e['source'].startswith(BRAIN) and e.get('checked', '') > CHECKED
+    }
+    rows = [current_brainiacs.get(e['id'], e) for e in make_events(d)]
+    ids = {e['id'] for e in rows}
+    d['events'] = [e for e in d['events'] if e['id'] not in ids] + rows
+    d['asof'] = CHECKED
     for ident in ['C843','C844']:
         e=next(e for e in d['events']if e['id']==ident);e.update(language=T('IKCC international: проекты только English; NKCC — отдельная национальная Romania программа.', 'IKCC international: proyectos solo English; NKCC es programa nacional Romania separado.'),languages=['EN'],language_mode='primary',note=IK_RULE+' '+IK_PRIV,checked=CHECKED)
         if ident=='C843':
@@ -113,6 +121,11 @@ def enrich_v176(d):
     e['checked']=CHECKED
     specs=[('moonhack','Moonhack · Code Club Australia','games',MOON,'Moonhack'),('yai-singapore','YAI Singapore · Youth AI Hackathon','ai',YAI,'YAI Singapore'),('wikko-ai-coding','Youth AI Coding · English / Chinese groups','ai',WIKKO,'Youth AI Coding'),('codefest-ai-games','CodeFest · AI Games / Web','games',FEST,'CodeFest'),('brainiacs-computing','Brainiacs · Coding & AI','ai',BRAIN+'coding','Brainiacs'),('whro-computer','WHRO Great Computer Challenge','regional',WHRO,'WHRO'),('dvla-code','DVLA Code Challenge','games',DVLA,'DVLA'),('codequest-junior','Junior Coderz · Code Quest','ai',QUEST,'Junior Coderz'),('innovaite-uae','UAE InnovAIte · national high school','advanced','https://www.uae-innovaite.com/','UAE InnovAIte'),('ikcc-own-code','IKCC · own-code Scratch international','games',IKCC,'IKCC')]
     for ident,name,group,url,prefix in specs:
+        if ident == 'brainiacs-computing' and any(
+            p['id'] == ident and any(s.get('checked', '') > CHECKED for s in p['sources'])
+            for p in d['league_guide']['profiles']
+        ):
+            continue
         ev=[e for e in d['events']if e['id']in['C843','C844']]if ident=='ikcc-own-code'else[e for e in rows if e['block']=='Соревнования'and e['title'].startswith(prefix)]
         tags=['6','9','10-12','teen']if ident in ['moonhack','yai-singapore','wikko-ai-coding','whro-computer','dvla-code']else['teen']if ident=='innovaite-uae'else['9','10-12','teen']
         p=programme(ident,name,group,T('Возраст / реальный класс зависит от категории.', 'Edad / curso real según categoría.'),tags,[e['id']for e in ev],summary=' '.join(dict.fromkeys(e['note']for e in ev)),categories=[dict(name=e['title'],age=e['age'],team=e['format'],hardware=e['gear'],age_rule=e['mat']+' / '+e['osc'],entry=e['note'])for e in ev],route=GATE,hardware=T('Оборудование и допустимый AI зависят от трека; см. конкретную карточку. Покупка робота не обязательна всем.', 'Equipo y AI permitido según track; ver ficha concreta. Comprar robot no es obligatorio para todos.'),language=LANG,cost=UNKNOWN,award=AWARD,requirements=[GATE],nuances=[AWARD,AI_ACCESS],sources=[source(name,url)],evidence=T('Проверены первичные страницы / правила. Новая локальная программа не объявлена лидером мира без ретроспективы результатов.', 'Verificadas páginas / reglas primarias. Programa local nuevo no declarado líder mundial sin retrospectiva de resultados.'))

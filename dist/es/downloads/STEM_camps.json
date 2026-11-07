@@ -580,8 +580,8 @@
       }
     ],
     "counts": {
-      "records": 4480,
-      "holiday": 4203,
+      "records": 4481,
+      "holiday": 4204,
       "regular": 120,
       "self_paced_materials": 2,
       "boarding": 1036,
@@ -33392,6 +33392,61 @@
       "admission_kind": "program",
       "evidence_level": "event_page",
       "date_scope": "programme_watch"
+    },
+    {
+      "id": "L658",
+      "block": "Campamentos",
+      "title": "Connecta · PlaySolve by Funpreneurs 2026",
+      "country": "Egipto",
+      "region": "África",
+      "iso": [
+        "EGY"
+      ],
+      "city": "Egypt International Exhibition Center · New Cairo · Hall 4",
+      "start": "2026-11-08",
+      "end": "2026-11-10",
+      "deadline": "",
+      "period": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://connectaict.com/innovation-arena",
+      "references": [
+        {
+          "url": "https://cairoict.com/connecta",
+          "label": "Reglas y condiciones de admisión"
+        }
+      ],
+      "age": "De 10 a 16 años. Inscripción por progenitor, tutor o escuela.",
+      "mat": "Etapa futura desde los 10 años.",
+      "osc": "Etapa futura desde los 10 años.",
+      "format": "Taller presencial de proyectos",
+      "entry": "De 10 a 16 años. Inscripción por progenitor, tutor o escuela.",
+      "gear": "",
+      "language": "Confirmar el idioma del grupo o sede concretos.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Inscripción gratuita para el pase.",
+      "level": "Etapa regional",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
+      "note": "Los menores investigan un problema de usuario y crean una solución con mentores. Confirmar horario del taller.",
+      "themes": [
+        "technology",
+        "engineering"
+      ],
+      "scope": "regional",
+      "importance_reason": "Etapa regional",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "festival_window",
+      "related_ids": [
+        "E413"
+      ]
     },
     {
       "id": "CP001-20270606-20270619",

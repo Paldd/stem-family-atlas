@@ -580,8 +580,8 @@
       }
     ],
     "counts": {
-      "records": 4480,
-      "holiday": 4203,
+      "records": 4481,
+      "holiday": 4204,
       "regular": 120,
       "self_paced_materials": 2,
       "boarding": 1036,
@@ -33392,6 +33392,61 @@
       "admission_kind": "program",
       "evidence_level": "event_page",
       "date_scope": "programme_watch"
+    },
+    {
+      "id": "L658",
+      "block": "Лагеря",
+      "title": "Connecta · PlaySolve by Funpreneurs 2026",
+      "country": "Египет",
+      "region": "Африка",
+      "iso": [
+        "EGY"
+      ],
+      "city": "Egypt International Exhibition Center · New Cairo · Hall 4",
+      "start": "2026-11-08",
+      "end": "2026-11-10",
+      "deadline": "",
+      "period": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-07",
+      "proof": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "status": "Идея",
+      "source": "https://connectaict.com/innovation-arena",
+      "references": [
+        {
+          "url": "https://cairoict.com/connecta",
+          "label": "Правила и условия допуска"
+        }
+      ],
+      "age": "От 10 до 16 лет. Ребёнка записывает родитель, опекун или школа.",
+      "mat": "Будущая ступень с 10 лет.",
+      "osc": "Будущая ступень с 10 лет.",
+      "format": "Очная проектная мастерская",
+      "entry": "От 10 до 16 лет. Ребёнка записывает родитель, опекун или школа.",
+      "gear": "",
+      "language": "Язык конкретной группы или площадки уточнить.",
+      "language_certainty": "Язык конкретной группы или площадки уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Бесплатная регистрация на пропуск.",
+      "level": "Региональный этап",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Уточнить возрастной допуск, наличие места и точный режим доступа у организатора.",
+      "note": "Дети исследуют задачу пользователя и создают решение с наставниками. Конкретное время мастерской уточнить.",
+      "themes": [
+        "technology",
+        "engineering"
+      ],
+      "scope": "regional",
+      "importance_reason": "Региональный этап",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "festival_window",
+      "related_ids": [
+        "E413"
+      ]
     },
     {
       "id": "CP001-20270606-20270619",

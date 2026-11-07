@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 8212; competiciones: 3323; eventos: 409; campamentos / programas: 4480. Perfiles de ligas y programas: 275. Fichas de exposiciones grandes y especializadas: 320 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 8235; competiciones: 3341; eventos: 413; campamentos / programas: 4481. Perfiles de ligas y programas: 276. Fichas de exposiciones grandes y especializadas: 324 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay fichas concretas en 161 de 249 países y territorios. Países con auditoría completa: 0. Revisión histórica v51: se añadieron 21 fichas y 3 perfiles. Se conservan las fichas anteriores.
 
@@ -17,13 +17,13 @@ Hay fichas concretas en 161 de 249 países y territorios. Países con auditoría
 | América del Norte | 24 | 1463 | 61 | 1146 |
 | América del Sur | 11 | 232 | 29 | 161 |
 | Europa | 42 | 440 | 87 | 1372 |
-| África | 34 | 133 | 21 | 70 |
-| Asia | 44 | 825 | 96 | 1550 |
+| África | 34 | 135 | 25 | 71 |
+| Asia | 44 | 826 | 96 | 1550 |
 | Oceanía | 6 | 129 | 24 | 168 |
 
-Fichas interregionales o mundiales sin un continente asignado: 121. América del Norte incluye Centroamérica y el Caribe. Las cifras representan el inventario de la base y no un porcentaje de cobertura.
+Fichas interregionales o globales sin continente único: 136. América del Norte incluye Centroamérica y el Caribe. Las cifras reflejan el inventario de la base y la cobertura completa sigue pendiente.
 
-VEX: 518 de 3323 fichas de competiciones (15.6%). El catálogo refleja una concentración clara.
+VEX: 518 de 3341 fichas de competiciones (15.5%). El catálogo refleja una concentración clara.
 
 ## Lo que queda
 
@@ -299,6 +299,8 @@ VEX: 518 de 3323 fichas de competiciones (15.6%). El catálogo refleja una conce
 - **Chaski Bots LAB · Ecuador**: 10 fichas, 10 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://chaskibots.com/torneo-de-robotica-2026-el-chaco/
 - **STRIPE Jamaica · Ride-Rush**: 6 fichas, 5 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.zedmakeylatechnologies.com/forum2026
 - **Classic Tetris World Championship**: 5 fichas, 5 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://thectwc.com/events/
+- **Brainiacs · Coding & AI**: 10 fichas, 10 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.brainiacsolympiad.com/en/olympiads/coding
+- **Global Robotics Challenge · GRC**: 13 fichas, 13 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.grc-championship.com/en
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 10 tarjetas, 0 con fechas exactas futuras. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -334,7 +336,6 @@ VEX: 518 de 3323 fichas de competiciones (15.6%). El catálogo refleja una conce
 - **YAI Singapore · Youth AI Hackathon**: 2 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://yai.sg/
 - **Youth AI Coding · English / Chinese groups**: 6 fichas, 2 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.wikkotech.com/airace/
 - **CodeFest · AI Games / Web**: 3 fichas, 2 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.codefest.sg/
-- **Brainiacs · Coding & AI**: 10 fichas, 10 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.brainiacsolympiad.com/en/olympiads/coding
 - **WHRO Great Computer Challenge**: 2 fichas, 2 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://education.whro.org/great-computer-challenge
 - **DVLA Code Challenge**: 1 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://stem.dvla.gov.uk/dvla-code-challenge/
 - **Junior Coderz · Code Quest**: 1 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://juniorcoderz.com/competition/
@@ -663,6 +664,10 @@ VEX: 518 de 3323 fichas de competiciones (15.6%). El catálogo refleja una conce
 - **SCWIST STEM Expo 2027** — Canadá; 2027-02-04 – 2027-02-05. con un adulto; condiciones de admisión adulta por separado. https://stemexpo.scwist.ca/about
 - **Terminal City Tabletop Convention 2027** — Canadá; 2027-03-19 – 2027-03-21. con un adulto; condiciones de admisión adulta por separado. https://terminalcitycon.ca/event-info/
 - **Breakout 2027 · Toronto** — Canadá; 2027-03-18 – 2027-03-21. con un adulto; condiciones de admisión adulta por separado. https://breakoutcon.com/
+- **Cairo ICT 2026 · AI in Action** — Egipto; 2026-11-07 – 2026-11-10. Los niños del 6/9 no pueden. https://cairoict.com/
+- **AIDC² Expo 2026 · AI, Data Centers & Cloud** — Egipto; 2026-11-07 – 2026-11-10. Los niños del 6/9 no pueden. https://cairoict.com/aidc
+- **PAFIX 2026 · Payments & Fintech Expo** — Egipto; 2026-11-07 – 2026-11-10. Los niños del 6/9 no pueden. https://cairoict.com/pafix
+- **Connecta 2026 · Cairo ICT Hall 4** — Egipto; 2026-11-08 – 2026-11-10. con un adulto; condiciones de admisión adulta por separado. https://cairoict.com/connecta
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

@@ -9302,6 +9302,22 @@ Limitaciones: La asistencia se anuncia como plan. Confirmar selección, plazas d
 Fuente: https://www.345robotics.org/programs/
 Se ha comprobado: 2026-11-07
 
+### L658 · Connecta · PlaySolve by Funpreneurs 2026
+
+lugar: Egipto · Egypt International Exhibition Center · New Cairo · Hall 4
+Fecha: 2026-11-08 — 2026-11-10
+edad: De 10 a 16 años. Inscripción por progenitor, tutor o escuela.
+Matvey: Etapa futura desde los 10 años.
+Oscar: Etapa futura desde los 10 años.
+Formato: holiday_workshop
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Inscripción gratuita para el pase.
+Acceso: De 10 a 16 años. Inscripción por progenitor, tutor o escuela.
+Limitaciones: Los menores investigan un problema de usuario y crean una solución con mentores. Confirmar horario del taller.
+Fuente: https://connectaict.com/innovation-arena
+Se ha comprobado: 2026-11-07
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier

@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 8212,
-    "competition_cards": 3323,
-    "event_cards": 409,
-    "camp_cards": 4480,
-    "league_profiles": 275,
-    "major_exhibition_cards": 320,
+    "cards": 8235,
+    "competition_cards": 3341,
+    "event_cards": 413,
+    "camp_cards": 4481,
+    "league_profiles": 276,
+    "major_exhibition_cards": 324,
     "vex_cards": 518,
     "countries_with_records": 161,
     "fully_audited_countries": 0
@@ -76,12 +76,12 @@
       "regions": [
         "África"
       ],
-      "total": 232,
+      "total": 239,
       "countries_with_records": 34,
-      "competitions": 133,
-      "events": 29,
-      "major_exhibitions": 21,
-      "camps": 70,
+      "competitions": 135,
+      "events": 33,
+      "major_exhibitions": 25,
+      "camps": 71,
       "status": "Se ha estudiado parcialmente",
       "remaining": "Antes de la ampliación casi todas las competiciones fueron en Sudáfrica. se añadió PARC Senegal; Maghreb, África Oriental / Oeste y selecciones locales siguen siendo vacíos."
     },
@@ -90,9 +90,9 @@
       "regions": [
         "Asia"
       ],
-      "total": 2483,
+      "total": 2484,
       "countries_with_records": 44,
-      "competitions": 825,
+      "competitions": 826,
       "events": 108,
       "major_exhibitions": 96,
       "camps": 1550,
@@ -6231,6 +6231,55 @@
       "new": false
     },
     {
+      "id": "brainiacs-computing",
+      "name": "Brainiacs · Coding & AI",
+      "group": "ai",
+      "event_ids": [
+        "C1785",
+        "C1786",
+        "C1787",
+        "C1788",
+        "C1789",
+        "C1790",
+        "C1791",
+        "C1792",
+        "C1793",
+        "C1794"
+      ],
+      "cards": 10,
+      "future_dated": 10,
+      "linked_card_count": 10,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://www.brainiacsolympiad.com/en/olympiads/coding",
+      "new": false
+    },
+    {
+      "id": "global-robotics-challenge",
+      "name": "Global Robotics Challenge · GRC",
+      "group": "international",
+      "event_ids": [
+        "C3328",
+        "C3329",
+        "C3330",
+        "C3331",
+        "C3332",
+        "C3333",
+        "C3334",
+        "C3335",
+        "C3336",
+        "C3337",
+        "C3338",
+        "C3339",
+        "C3340"
+      ],
+      "cards": 13,
+      "future_dated": 13,
+      "linked_card_count": 13,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://www.grc-championship.com/en",
+      "new": false
+    },
+    {
       "id": "tech-challenge-project",
       "name": "The Tech Challenge · programa de ingeniería y showcase",
       "group": "regional",
@@ -6944,29 +6993,6 @@
       "linked_card_count": 3,
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://www.codefest.sg/",
-      "new": false
-    },
-    {
-      "id": "brainiacs-computing",
-      "name": "Brainiacs · Coding & AI",
-      "group": "ai",
-      "event_ids": [
-        "C1785",
-        "C1786",
-        "C1787",
-        "C1788",
-        "C1789",
-        "C1790",
-        "C1791",
-        "C1792",
-        "C1793",
-        "C1794"
-      ],
-      "cards": 10,
-      "future_dated": 10,
-      "linked_card_count": 10,
-      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
-      "source": "https://www.brainiacsolympiad.com/en/olympiads/coding",
       "new": false
     },
     {
@@ -10776,6 +10802,50 @@
       "new": false
     },
     {
+      "id": "E410",
+      "name": "Cairo ICT 2026 · AI in Action",
+      "country": "Egipto",
+      "region": "África",
+      "start": "2026-11-07",
+      "end": "2026-11-10",
+      "visitor_policy": "adults_only",
+      "source": "https://cairoict.com/",
+      "new": false
+    },
+    {
+      "id": "E411",
+      "name": "AIDC² Expo 2026 · AI, Data Centers & Cloud",
+      "country": "Egipto",
+      "region": "África",
+      "start": "2026-11-07",
+      "end": "2026-11-10",
+      "visitor_policy": "adults_only",
+      "source": "https://cairoict.com/aidc",
+      "new": false
+    },
+    {
+      "id": "E412",
+      "name": "PAFIX 2026 · Payments & Fintech Expo",
+      "country": "Egipto",
+      "region": "África",
+      "start": "2026-11-07",
+      "end": "2026-11-10",
+      "visitor_policy": "adults_only",
+      "source": "https://cairoict.com/pafix",
+      "new": false
+    },
+    {
+      "id": "E413",
+      "name": "Connecta 2026 · Cairo ICT Hall 4",
+      "country": "Egipto",
+      "region": "África",
+      "start": "2026-11-08",
+      "end": "2026-11-10",
+      "visitor_policy": "family",
+      "source": "https://cairoict.com/connecta",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -12156,7 +12226,7 @@
       "official_alternative": "https://www.ykpaoschool.cn/News-and-Events/New-Stories/988"
     }
   ],
-  "interregional_cards": 121,
+  "interregional_cards": 136,
   "promoted_exhibition_ids": [],
   "focused_country": {
     "country": "Taiwán",
@@ -13193,8 +13263,8 @@
       }
     ],
     "counts": {
-      "records": 4480,
-      "holiday": 4203,
+      "records": 4481,
+      "holiday": 4204,
       "regular": 120,
       "self_paced_materials": 2,
       "boarding": 1036,
