@@ -3114,9 +3114,9 @@ Los programas no evaluados permanecen en el catálogo. Su posición no significa
 
 Las plazas, la admisión, el idioma del grupo y la preparación para alojarse sin los padres se verifican por separado. Una fecha o un botón de inscripción no prueban que haya plazas disponibles.
 
-Las reseñas externas deben tener su propia fuente y fecha. En esta revisión no se han investigado opiniones independientes; los testimonios publicados por el organizador no se presentan como independientes.
+En este pase no se investigaron reseñas independientes de padres; los testimonios del organizador no se denominan independientes. Directorios externos y evaluación del diseño del programa aparecen aparte, con límites de aplicación.
 
-Un registro externo puede confirmar el estatus de una escuela o centro de idiomas. Ese estatus no se aplica automáticamente a un turno de verano, otro campus, un grupo de inglés ni la calidad de su supervisión. Las fuentes institucionales se distinguen de las reseñas independientes de padres.
+Una fuente externa puede referirse a escuela, centro lingüístico, campamento, operador o diseño del programa. No acredita automáticamente turno concreto de 2027, campus, grupo menor, idioma ni calidad del cuidado.
 
 La valoración del contenido frente al precio total queda aplazada: aún no se conoce el presupuesto familiar completo con todos los gastos obligatorios. Una tarifa parcial y monedas distintas no permiten afirmar qué campamento ofrece el mejor precio.
 
@@ -6634,25 +6634,25 @@ Elecciones de sistema para un curso y una edad específicos; el nombre del campu
 
 Red de zonas diurnas de los Estados Unidos
 
-** Verificado:** 2026-10-04
+**Se ha comprobado:** 2026-11-06
 
 ** Edad:** Rising grades K*6
 
 ** Idioma: ** Idioma del emplazamiento y posibilidad de que la familia de invitados participe; la descripción en inglés no sustituye a la respuesta del operador.
 
-** Programa:** Gear Up 2027: mecanismos de robot de carga descompuesto, gajette brillante, diseño ambiental de alto elevador de motores, inventos y presentación final, es un programa maker/STEM, no una liga de robótica estacional.
+**Programa:** Gear Up 2027: prototipos y exposición emprendedora, torre ecológica con ascensor motorizado, mecanismos de robot de cuerda e inventos químico-biológicos. Es STEM diurno por proyectos, sin clasificación para una liga.
 
-** Residencia:** Plazas diurnas; no hay internado en el programa.
+**Alojamiento:** Programa diurno; el FAQ declara 1:8 participantes por Program Team Member, no necesariamente por docente adulto. No hay enfermera en la sede; se exige autonomía y cumplimiento de las normas del campamento concreto.
 
 ** Fechas/estado: ** El Programa 2027 ya se ha publicado; las fechas dependen del emplazamiento local seleccionado.
 
-**Cada año:** 2027 - De USD 290; precio exacto y duración local.
+**Precio / año:** 2027 · 2027: la portada indica desde USD 290 y el FAQ general desde USD 285. No hay una tarifa nacional única: hace falta campamento local, horario y factura.
 
-** Incluye:** Composición del juego y calendario del emplazamiento.
+**Incluido:** Materiales y camiseta incluidos; comida y horario ampliado dependen de la sede.
 
 ** Pagadero: ** Aclarar la alimentación/día ampliado.
 
-** Paga: ** Se puede verificar el plan de pago, las condiciones y la cancelación en el campamento local.
+**Pago:** USD 95 es la parte no reembolsable de la inscripción, no un suplemento automático sobre tuition. El FAQ exige cancelar antes del viernes tres semanas antes, Terms antes del domingo 23:59 ET tres semanas antes: aclarar la discrepancia. El seguro opcional de cancelación USD 30 por niño tiene condiciones propias. La garantía para inscripciones hasta el 30 de septiembre de 2026 ya no aplica a una solicitud nueva.
 
 ** Matwey: ** Seleccionar rising grade Kø6, no sólo edad.
 
@@ -6660,101 +6660,321 @@ Red de zonas diurnas de los Estados Unidos
 
 ** Por qué en la selección:** Uno de los primeros candidatos comunes de ingeniería disponibles para ambos; más creativo que competitivo.
 
+### Análisis editorial
+
+Inventos diurnos y proyectos emprendedores; elegir sede local real y nivel.
+
+**Análisis verificado:** 2026-11-06
+
+**Ingeniería, robótica y programación:** Considerar como alternativa · Adecuado para diseño y probar mecanismos tras elegir sede; buscar un equipo competitivo aparte.
+
+**de la empresa:** Considerar como alternativa · Hay prototipo y exposición emprendedora; es una primera presentación de ideas, no aceleración empresarial prometida.
+
+**Viaje familiar con campamento de día:** Hay que actualizar las pruebas · Confirmar primero el idioma oral de las actividades y del apoyo al niño en el grupo elegido.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · Gear Up 2027: prototipos y exposición emprendedora, torre ecológica con ascensor motorizado, mecanismos de robot de cuerda e inventos químico-biológicos. Es STEM diurno por proyectos, sin clasificación para una liga.
+
+[fuente oficial](https://www.invent.org/programs/camp-invention) · 2026-11-06
+
+[fuente oficial](https://www.invent.org/programs/faqs-for-parents) · 2026-11-06
+
+[fuente oficial](https://www.invent.org/terms-and-conditions) · 2026-11-06
+
+[fuente oficial](https://www.invent.org/programs/about-the-educators) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · Rising K–6; se desconocen cursos de ambos niños y equivalencia extranjera. La edad sola no acredita admisión.
+
+[fuente oficial](https://www.invent.org/programs/camp-invention) · 2026-11-06
+
+[fuente oficial](https://www.invent.org/programs/faqs-for-parents) · 2026-11-06
+
+[fuente oficial](https://www.invent.org/terms-and-conditions) · 2026-11-06
+
+[fuente oficial](https://www.invent.org/programs/about-the-educators) · 2026-11-06
+
+**Idioma del programa concreto:** no se ha establecido · El idioma de la web no acredita el de las actividades. Confirmar EN/ES/RU oral, apoyo a menores y grupo real; hasta entonces no se promete inmersión lingüística.
+
+[fuente oficial](https://www.invent.org/programs/camp-invention) · 2026-11-06
+
+[fuente oficial](https://www.invent.org/programs/faqs-for-parents) · 2026-11-06
+
+[fuente oficial](https://www.invent.org/terms-and-conditions) · 2026-11-06
+
+[fuente oficial](https://www.invent.org/programs/about-the-educators) · 2026-11-06
+
+**Instructores y grupo:** Pruebas parciales · El programa lo imparten educadores locales cualificados; 1:8 corresponde a toda la Program Team, no a un número garantizado de docentes adultos.
+
+[fuente oficial](https://www.invent.org/programs/camp-invention) · 2026-11-06
+
+[fuente oficial](https://www.invent.org/programs/faqs-for-parents) · 2026-11-06
+
+[fuente oficial](https://www.invent.org/terms-and-conditions) · 2026-11-06
+
+[fuente oficial](https://www.invent.org/programs/about-the-educators) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Pruebas parciales · Programa diurno; el FAQ declara 1:8 participantes por Program Team Member, no necesariamente por docente adulto. No hay enfermera en la sede; se exige autonomía y cumplimiento de las normas del campamento concreto.
+
+[fuente oficial](https://www.invent.org/programs/camp-invention) · 2026-11-06
+
+[fuente oficial](https://www.invent.org/programs/faqs-for-parents) · 2026-11-06
+
+[fuente oficial](https://www.invent.org/terms-and-conditions) · 2026-11-06
+
+[fuente oficial](https://www.invent.org/programs/about-the-educators) · 2026-11-06
+
+**Precio y condiciones:** Pruebas parciales · 2027: la portada indica desde USD 290 y el FAQ general desde USD 285. No hay una tarifa nacional única: hace falta campamento local, horario y factura. la alimentación/el día prolongado. USD 95 es la parte no reembolsable de la inscripción, no un suplemento automático sobre tuition. El FAQ exige cancelar antes del viernes tres semanas antes, Terms antes del domingo 23:59 ET tres semanas antes: aclarar la discrepancia. El seguro opcional de cancelación USD 30 por niño tiene condiciones propias. La garantía para inscripciones hasta el 30 de septiembre de 2026 ya no aplica a una solicitud nueva.
+
+[fuente oficial](https://www.invent.org/programs/camp-invention) · 2026-11-06
+
+[fuente oficial](https://www.invent.org/programs/faqs-for-parents) · 2026-11-06
+
+[fuente oficial](https://www.invent.org/terms-and-conditions) · 2026-11-06
+
+[fuente oficial](https://www.invent.org/programs/about-the-educators) · 2026-11-06
+
+**Pruebas independientes de reputación:** Pruebas parciales · STEMworks/WestEd califica el programa Accomplished en principios de diseño, pero Evaluation Developing; no consta fecha de evaluación ni inspección de sede 2027. USPTO confirma historia de colaboración, no cuidado independiente. Sin reseñas de padres.
+
+[fuente oficial](https://stemworks.wested.org/program/camp-invention/) · 2026-11-06
+
+[fuente oficial](https://www.uspto.gov/kids/camp-invention) · 2026-11-06
+
 ### Antes de solicitar plaza
 
-- encontrar un determinado camp 2027, para comprobar EN, permiso de no residente, el reloj y el precio.
+- Elegir sede local: rising K–6, idioma, fechas exactas y factura completa; resolver conflicto viernes/domingo de cancelación.
 
 ### Fuentes
 
-- [Gear Up 2027](https://www.invent.org/programs/camp-invention) · 2026-10-04
+- [Gear Up 2027](https://www.invent.org/programs/camp-invention) · 2026-11-06
+
+- [Fuente oficial del programa y condiciones](https://www.invent.org/programs/faqs-for-parents) · 2026-11-06
+
+- [Fuente oficial del programa y condiciones](https://www.invent.org/terms-and-conditions) · 2026-11-06
+
+- [Fuente oficial del programa y condiciones](https://www.invent.org/programs/about-the-educators) · 2026-11-06
+
+- [Fuente oficial del programa y condiciones](https://stemworks.wested.org/program/camp-invention/) · 2026-11-06
+
+- [Fuente oficial del programa y condiciones](https://www.uspto.gov/kids/camp-invention) · 2026-11-06
 
 ## CP036 · U.S. Space & Rocket Center · Space Camp
 
 · Huntsville / Alabama
 
-** Verificado:** 2026-10-04
+**Se ha comprobado:** 2026-11-06
 
 **Edad:** Junior Space Camp 9–11; en 9 Los años se necesitan ahora./Finalizado Grade 4
 
-** Idioma: ** El actual weeklong FAQ permite a los niños extranjeros y exige fluent conversational English; documentos de entrada válidos por separado.
+**Idioma:** Se admiten niños extranjeros; el weekly FAQ exige inglés conversacional fluido. No se promete traducción ni grupo separado en español.
 
 ** Programa:** Simuladores espaciales, modelo de cohete, ingeniería de la colonia marciana y misiones de mando: STEM-pansion espacial; robot building ○ separado Robotics Camp.
 
-** Vivienda:** 6 días de internado en el centro; revisión de las condiciones de las habitaciones/reommate.
+**Alojamiento:** Residencia semanal: llegada el domingo desde las 14:30 y graduación el viernes desde las 09:00; no son seis jornadas lectivas completas. Alojamiento por edad, sexo y programa; no se permite ir a casa a diario. Enfermeras 24/7 según el organizador. Teléfonos en fundas proporcionadas, acceso antes de dormir; los teléfonos del campamento solo permiten llamadas nacionales.
 
 **Fechas / situación:** 2027: 14–19.03 y semanas de verano 30.05–03.09. Cada semana real, elegir en un calendario oficial.
 
-**Capital/año:**2027 · No se ha establecido en la página de lectura la tarifa completa de las semanas de Space Camp.
+**Precio / año:** 2027 · Catálogo oficial actual de 2027: USD 1699 por niño y semana; confirmar el contenido final de la factura.
 
 ** Incluida:** Paquete de alojamiento/pita.
 
-** Prestación:** Airport HSV round-trip USD120; extra arrival/departure day por USD150, si es necesario; seguro/gastos personales por separado.
+**Suplementos:** HSV: USD 100 por traslado de ida y vuelta o 50 por trayecto. Día de llegada anticipada y de salida tardía a USD 100 cada uno; entrega temprana del domingo USD 40. Son servicios según necesidad; vuelos, póliza y gastos personales aparte.
 
-**Pago:** FAQ: al cancelar con8+ semanas de antelación, devolución del90% de la matrícula pagada menos USD100 de inscripción no reembolsable; confirmar cancelaciones tardías y calendario de pago. Un cambio gratuito; después USD25; solicitarlo al menos2 semanas antes.
+**Pago:** Cancelación con ocho semanas o más: 90% del tuition pagado menos USD 200 de inscripción no reembolsable; confirmar en factura si la inscripción está incluida en USD 1699. Un cambio gratuito, el siguiente USD 25, solicitud con al menos dos semanas. Los formularios médicos y de transporte se exigen 30 días antes; no es cierre de inscripción.
 
-**Matvey:** La edad encaja; Si aún así 9 años — Ver la reclamación 4 Clase.
+**Matvey:** En 2027 tendrá 9–10 años; a los nueve se exige cursar o haber terminado Grade 4. El curso es desconocido y la experiencia externa no sustituye el requisito escolar.
 
 *Oscar:** Menos de 9 años.
 
 ** Por qué en la selección: ** Un sólido programa espacial temático para Matway; la edad y la clase escolar son igualmente importantes.
 
+### Análisis editorial
+
+Experiencia de ingeniería espacial para Matvey tras comprobar curso escolar.
+
+**Análisis verificado:** 2026-11-06
+
+**Ingeniería, robótica y programación:** Considerar como alternativa · Candidato técnico con contenido para Matvey tras confirmar curso, dificultad adecuada y factura; construir la trayectoria competitiva mundial por separado.
+
+**Práctica de idiomas:** Considerar como alternativa · Hay inglés conversacional confirmado y admisión internacional; es práctica dentro de un programa técnico, no clases de idioma.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · Simuladores de misión, cohete modelo, ingeniería marciana y trabajo de tripulación. La temática espacial no implica robótica avanzada ni acceso a una liga.
+
+[fuente oficial](https://rocketcenter.com/spacecamp/space-camp/) · 2026-11-06
+
+[fuente oficial](https://rocketcenter.com/Help/FAQ/camps/weeklong/) · 2026-11-06
+
+[fuente oficial](https://rocketcenter.com/spacecamp/) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · Edad 9–11; a los nueve se exige cursar o terminar Grade 4. Oscar aún no tiene nueve en 2027; experiencia competitiva no anula requisito escolar.
+
+[fuente oficial](https://rocketcenter.com/spacecamp/space-camp/) · 2026-11-06
+
+[fuente oficial](https://rocketcenter.com/Help/FAQ/camps/weeklong/) · 2026-11-06
+
+[fuente oficial](https://rocketcenter.com/spacecamp/) · 2026-11-06
+
+**Idioma del programa concreto:** Condiciones concretas publicadas · Se admiten niños extranjeros; el weekly FAQ exige inglés conversacional fluido. No se promete traducción ni grupo separado en español.
+
+[fuente oficial](https://rocketcenter.com/spacecamp/space-camp/) · 2026-11-06
+
+[fuente oficial](https://rocketcenter.com/Help/FAQ/camps/weeklong/) · 2026-11-06
+
+[fuente oficial](https://rocketcenter.com/spacecamp/) · 2026-11-06
+
+**Instructores y grupo:** Pruebas parciales · Se publican funciones de formación y servicio médico; docentes y proporción de adultos de la semana elegida aún no establecidos.
+
+[fuente oficial](https://rocketcenter.com/spacecamp/space-camp/) · 2026-11-06
+
+[fuente oficial](https://rocketcenter.com/Help/FAQ/camps/weeklong/) · 2026-11-06
+
+[fuente oficial](https://rocketcenter.com/spacecamp/) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Pruebas parciales · Residencia semanal: llegada el domingo desde las 14:30 y graduación el viernes desde las 09:00; no son seis jornadas lectivas completas. Alojamiento por edad, sexo y programa; no se permite ir a casa a diario. Enfermeras 24/7 según el organizador. Teléfonos en fundas proporcionadas, acceso antes de dormir; los teléfonos del campamento solo permiten llamadas nacionales.
+
+[fuente oficial](https://rocketcenter.com/spacecamp/space-camp/) · 2026-11-06
+
+[fuente oficial](https://rocketcenter.com/Help/FAQ/camps/weeklong/) · 2026-11-06
+
+[fuente oficial](https://rocketcenter.com/spacecamp/) · 2026-11-06
+
+**Precio y condiciones:** Pruebas parciales · Catálogo oficial actual de 2027: USD 1699 por niño y semana; confirmar el contenido final de la factura. HSV: USD 100 por traslado de ida y vuelta o 50 por trayecto. Día de llegada anticipada y de salida tardía a USD 100 cada uno; entrega temprana del domingo USD 40. Son servicios según necesidad; vuelos, póliza y gastos personales aparte. Cancelación con ocho semanas o más: 90% del tuition pagado menos USD 200 de inscripción no reembolsable; confirmar en factura si la inscripción está incluida en USD 1699. Un cambio gratuito, el siguiente USD 25, solicitud con al menos dos semanas. Los formularios médicos y de transporte se exigen 30 días antes; no es cierre de inscripción.
+
+[fuente oficial](https://rocketcenter.com/spacecamp/space-camp/) · 2026-11-06
+
+[fuente oficial](https://rocketcenter.com/Help/FAQ/camps/weeklong/) · 2026-11-06
+
+[fuente oficial](https://rocketcenter.com/spacecamp/) · 2026-11-06
+
+**Pruebas independientes de reputación:** Pruebas parciales · El directorio oficial ACA muestra Space Camp como Accredited Member. Es estado del campamento, no reseña de padres, inspección de semana elegida ni confirmación de calidad del itinerario robótico concreto.
+
+[fuente oficial](https://find.acacamps.org/camp_profile.php?camp_id=5271) · 2026-11-06
+
 ### Antes de solicitar plaza
 
-- Obtenga el precio de la semana, las reglas de Grado 4, EN y el presupuesto completo de la transferencia.
+- Confirmar Grade 4 para un niño de nueve años, contenido de USD 1699, admisión y suplementos obligatorios.
 
 ### Fuentes
 
-- [Space Camp 2027](https://rocketcenter.com/spacecamp/space-camp/) · 2026-10-04
+- [Space Camp 2027](https://rocketcenter.com/spacecamp/space-camp/) · 2026-11-06
 
-- [semana de actualidad FAQ: extranjeros / fluent EN / transfer / devolución](https://rocketcenter.com/Help/FAQ/camps/weeklong/) · 2026-10-04
+- [semana de actualidad FAQ: extranjeros / fluent EN / transfer / devolución](https://rocketcenter.com/Help/FAQ/camps/weeklong/) · 2026-11-06
+
+- [Fuente oficial del programa y condiciones](https://rocketcenter.com/spacecamp/) · 2026-11-06
+
+- [Fuente oficial del programa y condiciones](https://find.acacamps.org/camp_profile.php?camp_id=5271) · 2026-11-06
 
 ## CP037 · U.S. Space & Rocket Center · Robotics
 
 · Huntsville / Alabama
 
-** Verificado:** 2026-10-04
+**Se ha comprobado:** 2026-11-06
 
 **Edad:** 9–11; en 9 años que se requieren en curso o terminados Grade 4
 
-** Idioma: ** El actual weeklong FAQ permite a los niños extranjeros y exige fluent conversational English; documentos de entrada válidos por separado.
+**Idioma:** Se admiten niños extranjeros; el weekly FAQ exige inglés conversacional fluido. No se promete traducción ni grupo separado en español.
 
-** Programa: ** VEX Robotics: Ingeniería, programación y wireless control; el robot de tierra en el marco del desafío, LED flashlight de series de circuit, robot submarino, simulación de los vuelos de drones RealFlight. 6 días / 5 noches, domingo, viernes; concurso final de estudios, no de la Liga Mundial.
+**Programa:** VEX Robotics: retos terrestres, robot submarino, linterna LED y simulador de dron RealFlight. No se conoce la plataforma concreta VEX IQ/V5; no se promete volar un dron real. El concurso interno no da acceso automático a una liga mundial.
 
-** Residencia: ** Pasantía semanal del Centro.
+**Alojamiento:** Residencia semanal: llegada el domingo desde las 14:30 y graduación el viernes desde las 09:00; no son seis jornadas lectivas completas. Alojamiento por edad, sexo y programa; no se permite ir a casa a diario. Enfermeras 24/7 según el organizador. Teléfonos en fundas proporcionadas, acceso antes de dormir; los teléfonos del campamento solo permiten llamadas nacionales.
 
 **Fechas / situación:** 2027: Visitas semanales 30.05–20.08; publicado 12 semanas, domingo–Viernes.
 
-**Precio / año:** 2027 · USD 1 799 se muestra en el directorio oficial actual junto al turno más cercano 2027; Comprobar la semana seleccionada.
+**Precio / año:** 2027 · Catálogo oficial actual de 2027: USD 1699 por niño y semana; confirmar el contenido final de la factura.
 
 ** Incluye:** Paquete de alojamiento/pita y equipo de verificación de la inscripción.
 
-** Prestación:** Airport HSV round-trip USD120; extra arrival/departure day por USD150, si es necesario; seguro/gastos personales por separado.
+**Suplementos:** HSV: USD 100 por traslado de ida y vuelta o 50 por trayecto. Día de llegada anticipada y de salida tardía a USD 100 cada uno; entrega temprana del domingo USD 40. Son servicios según necesidad; vuelos, póliza y gastos personales aparte.
 
-**Pago:** FAQ: al cancelar con8+ semanas de antelación, devolución del90% de la matrícula pagada menos USD100 de inscripción no reembolsable; confirmar cancelaciones tardías y calendario de pago. Un cambio gratuito; después USD25; solicitarlo al menos2 semanas antes.
+**Pago:** Cancelación con ocho semanas o más: 90% del tuition pagado menos USD 200 de inscripción no reembolsable; confirmar en factura si la inscripción está incluida en USD 1699. Un cambio gratuito, el siguiente USD 25, solicitud con al menos dos semanas. Los formularios médicos y de transporte se exigen 30 días antes; no es cierre de inscripción.
 
-**Matvey:** 9–11 Definitiva., Pero si no lo es, 9 A la carrera — demandado por el actual/Finalizado Grade 4. Clase exacta desconocida.
+**Matvey:** En 2027 tendrá 9–10 años; a los nueve se exige cursar o haber terminado Grade 4. El curso es desconocido y la experiencia externa no sustituye el requisito escolar.
 
 *Oscar: ** Hasta los 9 años de edad no están disponibles.
 
 ** Por qué en la selección: ** Primer candidato de internado estadounidense para la semana de robot técnico de Matway: fecha y edad publicadas.
 
+### Análisis editorial
+
+Residencia robótica para Matvey; comprobar Grade 4 y dificultad real.
+
+**Análisis verificado:** 2026-11-06
+
+**Ingeniería, robótica y programación:** Considerar primero · Candidato técnico con contenido para Matvey tras confirmar curso, dificultad adecuada y factura; construir la trayectoria competitiva mundial por separado.
+
+**Práctica de idiomas:** Considerar como alternativa · Hay inglés conversacional confirmado y admisión internacional; es práctica dentro de un programa técnico, no clases de idioma.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · VEX Robotics: retos terrestres, robot submarino, linterna LED y simulador de dron RealFlight. No se conoce la plataforma concreta VEX IQ/V5; no se promete volar un dron real. El concurso interno no da acceso automático a una liga mundial.
+
+[fuente oficial](https://rocketcenter.com/robotics/) · 2026-11-06
+
+[fuente oficial](https://rocketcenter.com/Help/FAQ/camps/weeklong/) · 2026-11-06
+
+[fuente oficial](https://rocketcenter.com/spacecamp/) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · Edad 9–11; a los nueve se exige cursar o terminar Grade 4. Oscar aún no tiene nueve en 2027; experiencia competitiva no anula requisito escolar.
+
+[fuente oficial](https://rocketcenter.com/robotics/) · 2026-11-06
+
+[fuente oficial](https://rocketcenter.com/Help/FAQ/camps/weeklong/) · 2026-11-06
+
+[fuente oficial](https://rocketcenter.com/spacecamp/) · 2026-11-06
+
+**Idioma del programa concreto:** Condiciones concretas publicadas · Se admiten niños extranjeros; el weekly FAQ exige inglés conversacional fluido. No se promete traducción ni grupo separado en español.
+
+[fuente oficial](https://rocketcenter.com/robotics/) · 2026-11-06
+
+[fuente oficial](https://rocketcenter.com/Help/FAQ/camps/weeklong/) · 2026-11-06
+
+[fuente oficial](https://rocketcenter.com/spacecamp/) · 2026-11-06
+
+**Instructores y grupo:** Pruebas parciales · Se publican funciones de formación y servicio médico; docentes y proporción de adultos de la semana elegida aún no establecidos.
+
+[fuente oficial](https://rocketcenter.com/robotics/) · 2026-11-06
+
+[fuente oficial](https://rocketcenter.com/Help/FAQ/camps/weeklong/) · 2026-11-06
+
+[fuente oficial](https://rocketcenter.com/spacecamp/) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Pruebas parciales · Residencia semanal: llegada el domingo desde las 14:30 y graduación el viernes desde las 09:00; no son seis jornadas lectivas completas. Alojamiento por edad, sexo y programa; no se permite ir a casa a diario. Enfermeras 24/7 según el organizador. Teléfonos en fundas proporcionadas, acceso antes de dormir; los teléfonos del campamento solo permiten llamadas nacionales.
+
+[fuente oficial](https://rocketcenter.com/robotics/) · 2026-11-06
+
+[fuente oficial](https://rocketcenter.com/Help/FAQ/camps/weeklong/) · 2026-11-06
+
+[fuente oficial](https://rocketcenter.com/spacecamp/) · 2026-11-06
+
+**Precio y condiciones:** Pruebas parciales · Catálogo oficial actual de 2027: USD 1699 por niño y semana; confirmar el contenido final de la factura. HSV: USD 100 por traslado de ida y vuelta o 50 por trayecto. Día de llegada anticipada y de salida tardía a USD 100 cada uno; entrega temprana del domingo USD 40. Son servicios según necesidad; vuelos, póliza y gastos personales aparte. Cancelación con ocho semanas o más: 90% del tuition pagado menos USD 200 de inscripción no reembolsable; confirmar en factura si la inscripción está incluida en USD 1699. Un cambio gratuito, el siguiente USD 25, solicitud con al menos dos semanas. Los formularios médicos y de transporte se exigen 30 días antes; no es cierre de inscripción.
+
+[fuente oficial](https://rocketcenter.com/robotics/) · 2026-11-06
+
+[fuente oficial](https://rocketcenter.com/Help/FAQ/camps/weeklong/) · 2026-11-06
+
+[fuente oficial](https://rocketcenter.com/spacecamp/) · 2026-11-06
+
+**Pruebas independientes de reputación:** Pruebas parciales · El directorio oficial ACA muestra Space Camp como Accredited Member. Es estado del campamento, no reseña de padres, inspección de semana elegida ni confirmación de calidad del itinerario robótico concreto.
+
+[fuente oficial](https://find.acacamps.org/camp_profile.php?camp_id=5271) · 2026-11-06
+
 ### Antes de solicitar plaza
 
-- Confirmar el paquete, el resultado de la toma a casa, el grado 4, el idioma y el precio final.
+- Confirmar Grade 4, plataforma VEX concreta y dificultad para tres años de experiencia; base USD 1699 e inscripción.
 
 ### Fuentes
 
-- [Robotics 2027](https://rocketcenter.com/robotics/) · 2026-10-04
+- [Robotics 2027](https://rocketcenter.com/robotics/) · 2026-11-06
 
 - [edad y precio](https://rocketcenter.com/SpaceCamp?field_age_group_target_id=All&field_space_camp_program_categor_target_id=2062) · 2026-10-04
 
-- [semana de actualidad FAQ: extranjeros / fluent EN / transfer / devolución](https://rocketcenter.com/Help/FAQ/camps/weeklong/) · 2026-10-04
+- [semana de actualidad FAQ: extranjeros / fluent EN / transfer / devolución](https://rocketcenter.com/Help/FAQ/camps/weeklong/) · 2026-11-06
+
+- [Fuente oficial del programa y condiciones](https://rocketcenter.com/spacecamp/) · 2026-11-06
+
+- [Fuente oficial del programa y condiciones](https://find.acacamps.org/camp_profile.php?camp_id=5271) · 2026-11-06
 
 ## CP038 · U.S. Space & Rocket Center · Family Aviation
 
 · Huntsville / Alabama
 
-** Verificado:** 2026-10-04
+**Se ha comprobado:** 2026-11-06
 
 * Edad: ** Niños 7*18 con al menos un adulto que paga.
 
@@ -6762,15 +6982,15 @@ Red de zonas diurnas de los Estados Unidos
 
 ** Programa:** 3 días / 2 noches: simulador F-18, supervivencia básica, cursos de agua/comandancia y exposiciones aéreas: programa conjunto de la familia; internado independiente para niños y otros productos.
 
-** Residencia:** Puertas familiares conjuntas en el centro.
+**Alojamiento:** Programa familiar de aviación acompañado, no residencia infantil independiente. El adulto participa y paga; el niño debe tener 7–18 años.
 
 **Fechas / situación:** 2027: 11–13.06; 30.07–01.08; 27–29.08.
 
-**Cabe/año:**2027 · La tarifa familiar completa no está establecida en la página de lectura.
+**Precio / año:** 2027 · USD 799 con alojamiento o 699 sin alojamiento POR CADA participante, incluido el adulto. Un adulto y dos niños: 2397 o 2097; el cuarto participante se paga aparte.
 
-*Incluido:** Noche de Friday/Saturday, comida desde la cena del viernes hasta el desayuno del domingo.
+**Incluido:** En la opción USD 799: dos noches de viernes y sábado, comidas desde la cena del viernes hasta el desayuno del domingo. En la opción 699 el hotel no está incluido.
 
-** Pagadero: ** Contabilizar a cada adulto pagador y a cada camino al centro.
+**Suplementos:** Se requiere al menos un adulto de pago. Vuelos, transporte familiar, seguro y hotel con alojamiento externo aparte; las tarifas semanales de traslado no se aplican automáticamente aquí.
 
 ** Pago: ** Pago y cancelación de ________________ por la composición de la familia o la visita.
 
@@ -6780,37 +7000,93 @@ Red de zonas diurnas de los Estados Unidos
 
 ** Por qué en la selección:** Candidato a la primera experiencia conjunta de pasar la noche y SEM cuando Oscar cumpla 7.
 
+### Análisis editorial
+
+Viaje corto de aviación con adulto si Oscar ya tiene siete.
+
+**Análisis verificado:** 2026-11-06
+
+**Actividades generales de esparcimiento:** Considerar como alternativa · Se puede empezar con viaje técnico acompañado y valorar interés por aviación.
+
+**Primer internado:** Este análisis responde a otro objetivo · Es estancia con adulto de pago, no primera pernocta independiente del niño.
+
+**Práctica de idiomas:** Hay que actualizar las pruebas · Confirmar primero el idioma oral de las actividades y del apoyo al niño en el grupo elegido.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · Simuladores F18, supervivencia, retos acuáticos, cuerdas bajas e historia de aviación. La familia participa junta; no es concurso mundial de robótica.
+
+[fuente oficial](https://rocketcenter.com/SpaceCamp/Family) · 2026-11-06
+
+[fuente oficial](https://rocketcenter.com/spacecamp/) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · Niño de 7–18 y mínimo un adulto de pago. Matvey cumple por edad, Oscar solo después de cumplir siete al llegar.
+
+[fuente oficial](https://rocketcenter.com/SpaceCamp/Family) · 2026-11-06
+
+[fuente oficial](https://rocketcenter.com/spacecamp/) · 2026-11-06
+
+**Idioma del programa concreto:** no se ha establecido · El idioma de la web no acredita el de las actividades. Confirmar EN/ES/RU oral, apoyo a menores y grupo real; hasta entonces no se promete inmersión lingüística.
+
+[fuente oficial](https://rocketcenter.com/SpaceCamp/Family) · 2026-11-06
+
+[fuente oficial](https://rocketcenter.com/spacecamp/) · 2026-11-06
+
+**Instructores y grupo:** Pruebas parciales · Equipo del centro; no se publican instructores concretos ni proporción de participantes. El acompañamiento familiar no se sustituye por residencia semanal.
+
+[fuente oficial](https://rocketcenter.com/SpaceCamp/Family) · 2026-11-06
+
+[fuente oficial](https://rocketcenter.com/spacecamp/) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Pruebas parciales · Programa familiar de aviación acompañado, no residencia infantil independiente. El adulto participa y paga; el niño debe tener 7–18 años.
+
+[fuente oficial](https://rocketcenter.com/SpaceCamp/Family) · 2026-11-06
+
+[fuente oficial](https://rocketcenter.com/spacecamp/) · 2026-11-06
+
+**Precio y condiciones:** Pruebas parciales · USD 799 con alojamiento o 699 sin alojamiento POR CADA participante, incluido el adulto. Un adulto y dos niños: 2397 o 2097; el cuarto participante se paga aparte. Se requiere al menos un adulto de pago. Vuelos, transporte familiar, seguro y hotel con alojamiento externo aparte; las tarifas semanales de traslado no se aplican automáticamente aquí. pago y cancelación  por la composición de la familia/acuerdo.
+
+[fuente oficial](https://rocketcenter.com/SpaceCamp/Family) · 2026-11-06
+
+[fuente oficial](https://rocketcenter.com/spacecamp/) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · No se han establecido reseñas independientes de padres ni evaluación externa del turno concreto. Biografías, testimonios y afirmaciones del organizador no constituyen una comprobación independiente.
+
+[fuente oficial](https://rocketcenter.com/SpaceCamp/Family) · 2026-11-06
+
+[fuente oficial](https://rocketcenter.com/spacecamp/) · 2026-11-06
+
 ### Antes de solicitar plaza
 
-- confirmar el costo para dos niños y adultos, el número de entrada, la habitación y el horario.
+- Oscar debe tener siete; confirmar al menos un adulto de pago, onsite/offsite, idioma y reglas familiares de cancelación por separado.
 
 ### Fuentes
 
-- [Family Aviation 2027](https://rocketcenter.com/SpaceCamp/Family) · 2026-10-04
+- [Family Aviation 2027](https://rocketcenter.com/SpaceCamp/Family) · 2026-11-06
+
+- [Fuente oficial del programa y condiciones](https://rocketcenter.com/spacecamp/) · 2026-11-06
 
 ## CP039 · ILSC Junior · UBC Residence
 
 Canadá · Vancouver / UBC Totem Park
 
-** Verificado:** 2026-10-04
+**Se ha comprobado:** 2026-11-06
 
 **Edad:** 9–17
 
-** Idioma: ** Inglés, 15 horas / 17 clases por semana; campamento general y viajes.
+**Idioma:** Inglés: 15 horas semanales, cinco niveles, máximo 18 por clase; clases de 09:00–12:00 entre semana. La inmersión en francés corresponde a Montréal, no a UBC.
 
 ** Programa:** Inglés, deportes/cultura/creación, excursiones urbanas y naturales, programa del ILSC en UBC: ILSC indica claramente que la universidad no lo administra ni endorses.
 
-** Residencia:** UBC Totem Park, single/shared room, baños comunes; aproximadamente 1 bathroom por 6 estudiantes.
+**Alojamiento:** Residencia o paquete diurno en el recinto de UBC, edad 9–17. El organizador indica 1:15 de personal por niños; confirmar el equipo nocturno del grupo menor. Habitaciones individuales o dobles según disponibilidad, baños compartidos. Oscar tendrá menos de nueve durante todo 2027.
 
-**Fechas / situación:** 2027: 27.06–08.08, weekly starts 27.06, 04/11/18/25.07, 01.08; 1–6 semanas.
+**Fechas / estado:** 21 opciones permitidas de estancia de 1–6 semanas del 27 de junio al 8 de agosto de 2027. Las fechas de paquetes se calculan con los inicios dominicales publicados; no se confirma plaza individual.
 
-**Cabe/año:** 2027 · Costo de la duración seleccionada y día/board del paquete no confirmado.
+**Precio / año:** 2027 · Tarifa oficial 2027, CAD: residencia de 1/2/3/4/5/6 semanas 3235/5780/8025/10270/12515/14760; paquete diurno 1605/2795/3985/5175/6365/7555. Son duraciones alternativas, no campamentos distintos.
 
-** Incluida:** Paquete de internación: tres comidas; day-only lunch/dinner, sin desayuno/vivir/airport transfer.
+**Incluido:** Inscripción incluida. Residencia: alojamiento, tres comidas, inglés, actividades, traslado aeroportuario, seguro médico y carta de custodia. Day-only: clases y actividades SIN comida, alojamiento, aeropuerto ni carta de custodia. ILSC opera en el recinto de UBC; la universidad no gestiona el programa ni avala su calidad.
 
-** Pagadero: ** Salario de lavandería CAD 2.50/load; comprobar el registro, el seguro y la transferencia.
+**Suplementos:** La residencia exige CAD 100 en efectivo como garantía reembolsable por daños, una vez por estancia. Si hay dieta especial disponible: 50 por semana. Comidas diurnas opcionales 180 por semana. Servicio UM de 75 por trayecto para residencia, más tasas de aerolínea. Lavandería 2.50 por carga; vuelos, impuestos, seguro de viaje y gastos personales aparte.
 
-** Paga: ** Las condiciones de cancelación y pago deben verificarse.
+**Pago:** CAD 350 de anticipo no reembolsable forman parte del paquete, no se suman al precio. Saldo dos semanas antes. Canadá: cancelación en los primeros siete días con margen de 30 días, devolución mayor entre 75% del precio o precio menos 350; después, con 30 días o más 75%, menos de 30 días 60%. Tras comenzar, antes del 10% del programa devolución del 50%, con 10–30% devolución del 30%, por encima del 30% sin devolución. Denegación de visa: se retienen 350. Confirmar aplicación de condiciones e importe de factura.
 
 * Matwey:** 9*10 es adecuado.
 
@@ -6818,13 +7094,363 @@ Canadá · Vancouver / UBC Totem Park
 
 ** Por qué en la selección:** Primer candidato anglófono común canadiense Matway, con fechas publicadas de 2027.
 
+### Análisis editorial
+
+Inglés en el recinto de UBC para Matvey; Oscar aún es menor del mínimo.
+
+**Análisis verificado:** 2026-11-06
+
+**Práctica de idiomas:** Considerar primero · Candidato lingüístico para Matvey con horas de inglés y tarifa por duración conocidas; Oscar necesita opción de otra edad.
+
+**Viaje familiar con campamento de día:** Considerar como alternativa · El paquete diurno permite vivir con la familia; comida, alojamiento y viaje adulto se calculan aparte.
+
+**Ingeniería, robótica y programación:** Este análisis responde a otro objetivo · Es una estancia general, lingüística o creativa; no se ha establecido un intensivo de robótica ni preparación para una clasificación de liga.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · Inglés 15 horas semanales más excursiones y actividades generales. Máximo 18 por clase, cinco niveles; no es intensivo robótico.
+
+[fuente oficial](https://www.ilsc.com/language-schools/programs/junior/residences/ubc) · 2026-11-06
+
+[fuente oficial](https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · Edad 9–17. Matvey de 9–10 cumple; Oscar de 6–7 no cumple durante todo 2027. Hay 21 opciones de duración de 1–6 semanas, no 21 campamentos.
+
+[fuente oficial](https://www.ilsc.com/language-schools/programs/junior/residences/ubc) · 2026-11-06
+
+[fuente oficial](https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf) · 2026-11-06
+
+**Idioma del programa concreto:** Condiciones concretas publicadas · Inglés: 15 horas semanales, cinco niveles, máximo 18 por clase; clases de 09:00–12:00 entre semana. La inmersión en francés corresponde a Montréal, no a UBC.
+
+[fuente oficial](https://www.ilsc.com/language-schools/programs/junior/residences/ubc) · 2026-11-06
+
+[fuente oficial](https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf) · 2026-11-06
+
+**Instructores y grupo:** Pruebas parciales · El organizador indica docentes y 1:15 student:staff; hay que comprobar equipo nocturno menor y asignación de habitaciones.
+
+[fuente oficial](https://www.ilsc.com/language-schools/programs/junior/residences/ubc) · 2026-11-06
+
+[fuente oficial](https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Pruebas parciales · Residencia o paquete diurno en el recinto de UBC, edad 9–17. El organizador indica 1:15 de personal por niños; confirmar el equipo nocturno del grupo menor. Habitaciones individuales o dobles según disponibilidad, baños compartidos. Oscar tendrá menos de nueve durante todo 2027.
+
+[fuente oficial](https://www.ilsc.com/language-schools/programs/junior/residences/ubc) · 2026-11-06
+
+[fuente oficial](https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf) · 2026-11-06
+
+**Precio y condiciones:** Pruebas parciales · Tarifa oficial 2027, CAD: residencia de 1/2/3/4/5/6 semanas 3235/5780/8025/10270/12515/14760; paquete diurno 1605/2795/3985/5175/6365/7555. Son duraciones alternativas, no campamentos distintos. La residencia exige CAD 100 en efectivo como garantía reembolsable por daños, una vez por estancia. Si hay dieta especial disponible: 50 por semana. Comidas diurnas opcionales 180 por semana. Servicio UM de 75 por trayecto para residencia, más tasas de aerolínea. Lavandería 2.50 por carga; vuelos, impuestos, seguro de viaje y gastos personales aparte. CAD 350 de anticipo no reembolsable forman parte del paquete, no se suman al precio. Saldo dos semanas antes. Canadá: cancelación en los primeros siete días con margen de 30 días, devolución mayor entre 75% del precio o precio menos 350; después, con 30 días o más 75%, menos de 30 días 60%. Tras comenzar, antes del 10% del programa devolución del 50%, con 10–30% devolución del 30%, por encima del 30% sin devolución. Denegación de visa: se retienen 350. Confirmar aplicación de condiciones e importe de factura.
+
+[fuente oficial](https://www.ilsc.com/language-schools/programs/junior/residences/ubc) · 2026-11-06
+
+[fuente oficial](https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · No se han establecido reseñas independientes de padres ni evaluación externa del turno concreto. Biografías, testimonios y afirmaciones del organizador no constituyen una comprobación independiente.
+
+[fuente oficial](https://www.ilsc.com/language-schools/programs/junior/residences/ubc) · 2026-11-06
+
+[fuente oficial](https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf) · 2026-11-06
+
 ### Antes de solicitar plaza
 
-- obtener el precio completo/room type/transfer; no ser considerado una academia selectiva de la universidad.
+- Elegir duración y day/boarding; Oscar es menor de nueve. Confirmar plaza de Matvey, cuidado nocturno, una sola garantía de 100 y factura sin volver a sumar 350.
+
+### 1 sem. · residencia / paquete diurno
+
+**Fechas / estado:** 2027-06-27 — 2027-07-04
+
+**Edad:** 9–17
+
+**Precio:** CAD 3235 residencia o 1605 diurno; inscripción incluida, garantía reembolsable de 100 solo en residencia y una vez por estancia
+
+* Matwey:** 9*10 es adecuado.
+
+*Oscar: ** Hasta los 9 años de edad no están disponibles.
+
+[fuente](https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf)
+
+### 1 sem. · residencia / paquete diurno
+
+**Fechas / estado:** 2027-07-04 — 2027-07-11
+
+**Edad:** 9–17
+
+**Precio:** CAD 3235 residencia o 1605 diurno; inscripción incluida, garantía reembolsable de 100 solo en residencia y una vez por estancia
+
+* Matwey:** 9*10 es adecuado.
+
+*Oscar: ** Hasta los 9 años de edad no están disponibles.
+
+[fuente](https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf)
+
+### 1 sem. · residencia / paquete diurno
+
+**Fechas / estado:** 2027-07-11 — 2027-07-18
+
+**Edad:** 9–17
+
+**Precio:** CAD 3235 residencia o 1605 diurno; inscripción incluida, garantía reembolsable de 100 solo en residencia y una vez por estancia
+
+* Matwey:** 9*10 es adecuado.
+
+*Oscar: ** Hasta los 9 años de edad no están disponibles.
+
+[fuente](https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf)
+
+### 1 sem. · residencia / paquete diurno
+
+**Fechas / estado:** 2027-07-18 — 2027-07-25
+
+**Edad:** 9–17
+
+**Precio:** CAD 3235 residencia o 1605 diurno; inscripción incluida, garantía reembolsable de 100 solo en residencia y una vez por estancia
+
+* Matwey:** 9*10 es adecuado.
+
+*Oscar: ** Hasta los 9 años de edad no están disponibles.
+
+[fuente](https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf)
+
+### 1 sem. · residencia / paquete diurno
+
+**Fechas / estado:** 2027-07-25 — 2027-08-01
+
+**Edad:** 9–17
+
+**Precio:** CAD 3235 residencia o 1605 diurno; inscripción incluida, garantía reembolsable de 100 solo en residencia y una vez por estancia
+
+* Matwey:** 9*10 es adecuado.
+
+*Oscar: ** Hasta los 9 años de edad no están disponibles.
+
+[fuente](https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf)
+
+### 1 sem. · residencia / paquete diurno
+
+**Fechas / estado:** 2027-08-01 — 2027-08-08
+
+**Edad:** 9–17
+
+**Precio:** CAD 3235 residencia o 1605 diurno; inscripción incluida, garantía reembolsable de 100 solo en residencia y una vez por estancia
+
+* Matwey:** 9*10 es adecuado.
+
+*Oscar: ** Hasta los 9 años de edad no están disponibles.
+
+[fuente](https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf)
+
+### 2 sem. · residencia / paquete diurno
+
+**Fechas / estado:** 2027-06-27 — 2027-07-11
+
+**Edad:** 9–17
+
+**Precio:** CAD 5780 residencia o 2795 diurno; inscripción incluida, garantía reembolsable de 100 solo en residencia y una vez por estancia
+
+* Matwey:** 9*10 es adecuado.
+
+*Oscar: ** Hasta los 9 años de edad no están disponibles.
+
+[fuente](https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf)
+
+### 2 sem. · residencia / paquete diurno
+
+**Fechas / estado:** 2027-07-04 — 2027-07-18
+
+**Edad:** 9–17
+
+**Precio:** CAD 5780 residencia o 2795 diurno; inscripción incluida, garantía reembolsable de 100 solo en residencia y una vez por estancia
+
+* Matwey:** 9*10 es adecuado.
+
+*Oscar: ** Hasta los 9 años de edad no están disponibles.
+
+[fuente](https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf)
+
+### 2 sem. · residencia / paquete diurno
+
+**Fechas / estado:** 2027-07-11 — 2027-07-25
+
+**Edad:** 9–17
+
+**Precio:** CAD 5780 residencia o 2795 diurno; inscripción incluida, garantía reembolsable de 100 solo en residencia y una vez por estancia
+
+* Matwey:** 9*10 es adecuado.
+
+*Oscar: ** Hasta los 9 años de edad no están disponibles.
+
+[fuente](https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf)
+
+### 2 sem. · residencia / paquete diurno
+
+**Fechas / estado:** 2027-07-18 — 2027-08-01
+
+**Edad:** 9–17
+
+**Precio:** CAD 5780 residencia o 2795 diurno; inscripción incluida, garantía reembolsable de 100 solo en residencia y una vez por estancia
+
+* Matwey:** 9*10 es adecuado.
+
+*Oscar: ** Hasta los 9 años de edad no están disponibles.
+
+[fuente](https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf)
+
+### 2 sem. · residencia / paquete diurno
+
+**Fechas / estado:** 2027-07-25 — 2027-08-08
+
+**Edad:** 9–17
+
+**Precio:** CAD 5780 residencia o 2795 diurno; inscripción incluida, garantía reembolsable de 100 solo en residencia y una vez por estancia
+
+* Matwey:** 9*10 es adecuado.
+
+*Oscar: ** Hasta los 9 años de edad no están disponibles.
+
+[fuente](https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf)
+
+### 3 sem. · residencia / paquete diurno
+
+**Fechas / estado:** 2027-06-27 — 2027-07-18
+
+**Edad:** 9–17
+
+**Precio:** CAD 8025 residencia o 3985 diurno; inscripción incluida, garantía reembolsable de 100 solo en residencia y una vez por estancia
+
+* Matwey:** 9*10 es adecuado.
+
+*Oscar: ** Hasta los 9 años de edad no están disponibles.
+
+[fuente](https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf)
+
+### 3 sem. · residencia / paquete diurno
+
+**Fechas / estado:** 2027-07-04 — 2027-07-25
+
+**Edad:** 9–17
+
+**Precio:** CAD 8025 residencia o 3985 diurno; inscripción incluida, garantía reembolsable de 100 solo en residencia y una vez por estancia
+
+* Matwey:** 9*10 es adecuado.
+
+*Oscar: ** Hasta los 9 años de edad no están disponibles.
+
+[fuente](https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf)
+
+### 3 sem. · residencia / paquete diurno
+
+**Fechas / estado:** 2027-07-11 — 2027-08-01
+
+**Edad:** 9–17
+
+**Precio:** CAD 8025 residencia o 3985 diurno; inscripción incluida, garantía reembolsable de 100 solo en residencia y una vez por estancia
+
+* Matwey:** 9*10 es adecuado.
+
+*Oscar: ** Hasta los 9 años de edad no están disponibles.
+
+[fuente](https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf)
+
+### 3 sem. · residencia / paquete diurno
+
+**Fechas / estado:** 2027-07-18 — 2027-08-08
+
+**Edad:** 9–17
+
+**Precio:** CAD 8025 residencia o 3985 diurno; inscripción incluida, garantía reembolsable de 100 solo en residencia y una vez por estancia
+
+* Matwey:** 9*10 es adecuado.
+
+*Oscar: ** Hasta los 9 años de edad no están disponibles.
+
+[fuente](https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf)
+
+### 4 sem. · residencia / paquete diurno
+
+**Fechas / estado:** 2027-06-27 — 2027-07-25
+
+**Edad:** 9–17
+
+**Precio:** CAD 10270 residencia o 5175 diurno; inscripción incluida, garantía reembolsable de 100 solo en residencia y una vez por estancia
+
+* Matwey:** 9*10 es adecuado.
+
+*Oscar: ** Hasta los 9 años de edad no están disponibles.
+
+[fuente](https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf)
+
+### 4 sem. · residencia / paquete diurno
+
+**Fechas / estado:** 2027-07-04 — 2027-08-01
+
+**Edad:** 9–17
+
+**Precio:** CAD 10270 residencia o 5175 diurno; inscripción incluida, garantía reembolsable de 100 solo en residencia y una vez por estancia
+
+* Matwey:** 9*10 es adecuado.
+
+*Oscar: ** Hasta los 9 años de edad no están disponibles.
+
+[fuente](https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf)
+
+### 4 sem. · residencia / paquete diurno
+
+**Fechas / estado:** 2027-07-11 — 2027-08-08
+
+**Edad:** 9–17
+
+**Precio:** CAD 10270 residencia o 5175 diurno; inscripción incluida, garantía reembolsable de 100 solo en residencia y una vez por estancia
+
+* Matwey:** 9*10 es adecuado.
+
+*Oscar: ** Hasta los 9 años de edad no están disponibles.
+
+[fuente](https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf)
+
+### 5 sem. · residencia / paquete diurno
+
+**Fechas / estado:** 2027-06-27 — 2027-08-01
+
+**Edad:** 9–17
+
+**Precio:** CAD 12515 residencia o 6365 diurno; inscripción incluida, garantía reembolsable de 100 solo en residencia y una vez por estancia
+
+* Matwey:** 9*10 es adecuado.
+
+*Oscar: ** Hasta los 9 años de edad no están disponibles.
+
+[fuente](https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf)
+
+### 5 sem. · residencia / paquete diurno
+
+**Fechas / estado:** 2027-07-04 — 2027-08-08
+
+**Edad:** 9–17
+
+**Precio:** CAD 12515 residencia o 6365 diurno; inscripción incluida, garantía reembolsable de 100 solo en residencia y una vez por estancia
+
+* Matwey:** 9*10 es adecuado.
+
+*Oscar: ** Hasta los 9 años de edad no están disponibles.
+
+[fuente](https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf)
+
+### 6 sem. · residencia / paquete diurno
+
+**Fechas / estado:** 2027-06-27 — 2027-08-08
+
+**Edad:** 9–17
+
+**Precio:** CAD 14760 residencia o 7555 diurno; inscripción incluida, garantía reembolsable de 100 solo en residencia y una vez por estancia
+
+* Matwey:** 9*10 es adecuado.
+
+*Oscar: ** Hasta los 9 años de edad no están disponibles.
+
+[fuente](https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf)
 
 ### Fuentes
 
-- [UBC Junior 2027](https://www.ilsc.com/language-schools/programs/junior/residences/ubc) · 2026-10-04
+- [UBC Junior 2027](https://www.ilsc.com/language-schools/programs/junior/residences/ubc) · 2026-11-06
+
+- [Fuente oficial del programa y condiciones](https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf) · 2026-11-06
 
 ## CP040 · Daedalos Academy
 
@@ -10268,7 +10894,7 @@ Singapur · Singapore · 583 Orchard Road, #13-01
 
 Canadá · Rosseau Lake College / Muskoka
 
-** Verificado:** 2026-10-04
+**Se ha comprobado:** 2026-11-06
 
 **Edad:** 9–13 en 01.06.2027; 8/14 Exclusión por escrito
 
@@ -10276,17 +10902,17 @@ Canadá · Rosseau Lake College / Muskoka
 
 **Programa:** Intermediate/advanced LEGO: construir y programar rescue-los robots en julio, resolver las cuestiones diarias Challenge Series en agosto. FLL-type tareas — de la escuela, No es un recorrido selectivo FLL.
 
-**Alojamiento:** Habitación 2–3 Niños, bedding; Funcionarios Brick Labs/RLC. Salida North York, no residente en Toronto.
+**Alojamiento:** 32 participantes por semana, habitaciones de 2–3, ropa de cama, comidas, meriendas y autobús desde North York incluidos. Cada día tres bloques de construcción y tres bloques obligatorios al aire libre; no se permiten teléfonos ni portátiles personales. Personal de Brick Labs y equipo exterior cualificado de RLC; aclarar número de adultos nocturnos.
 
 **Fechas / situación:** 2027: 25–30.07 y 15–20.08; Sunday–Friday.
 
-**Precio / año:** 2027 · $1 650 / Niño / Semana; la moneda de la cuenta final.
+**Precio / año:** 2027 · CAD 1650 por niño y semana de 2027. La moneda CAD se confirma en la configuración pública de inscripción de Brick Labs; aclarar impuestos finales y factura.
 
 ** Incluida:** Coach del North York, internado, meals/snacks, materiales y actividades principales.
 
 **Gastos adicionales:** Vuelo/carretera hasta el North York, Seguro separado. Day visit $150/El día no prueba otra edad..
 
-**Pago:** Deposit $650 Entra $1 650; Saldo $1 000 antes 01.03.2027. Antes 31.12.2026 Reintegro completo; 01.01–28.02 50%; c 01.03 No.. Fechas de frontera.
+**Pago:** CAD 650 forman parte de 1650, saldo de 1000 hasta el 1 de marzo de 2027; formularios hasta el 1 de abril. Reglas específicas de 2027: hasta el 31 de diciembre de 2026 devolución completa, del 1 de enero al 28 de febrero de 2027 devolución del 50%, desde el 1 de marzo sin devolución. La página general antigua de cancelación 2025/2026 no sustituye las condiciones de esta estancia.
 
 **Matvey:** 2017 corresponde 9–13 en 01.06.2027; necesita un nivel de pista., EN y preparación para el internado.
 
@@ -10294,9 +10920,77 @@ Canadá · Rosseau Lake College / Muskoka
 
 ** Por qué en la selección:** 2027 internados específicos para Matway; los paquetes técnicos y creativos están separados.
 
+### Análisis editorial
+
+Brick Labs · semana robótica con programa exterior obligatorio
+
+**Análisis verificado:** 2026-11-06
+
+**Ingeniería, robótica y programación:** Considerar como alternativa · Para Matvey comprobar reto real y nivel tras tres años de experiencia; confirmar idioma y preparación para residencia.
+
+**Actividades generales de esparcimiento:** Considerar como alternativa · Construcción combinada con naturaleza obligatoria; opción adecuada solo si el niño desea ambos bloques.
+
+**Práctica de idiomas:** Hay que actualizar las pruebas · Confirmar primero el idioma oral de las actividades y del apoyo al niño en el grupo elegido.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · Robótica LEGO intermedia y avanzada: rescate y pruebas de tipo FLL. No se nombra el modelo del kit; asistir al campamento no da clasificación FLL.
+
+[fuente oficial](https://bricklabs.ca/over-night-camp-2026/) · 2026-11-06
+
+[fuente oficial](https://app.acuityscheduling.com/schedule.php?owner=13584246&appointmentType=98136580) · 2026-11-06
+
+[fuente oficial](https://bricklabs.ca/cancellation-policy/) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · Edad 9–13 al 1 de junio de 2027; excepciones solo para 8/14 con acuerdo. Matvey cumple por edad; Oscar incluso con siete queda fuera de la excepción publicada.
+
+[fuente oficial](https://bricklabs.ca/over-night-camp-2026/) · 2026-11-06
+
+[fuente oficial](https://app.acuityscheduling.com/schedule.php?owner=13584246&appointmentType=98136580) · 2026-11-06
+
+[fuente oficial](https://bricklabs.ca/cancellation-policy/) · 2026-11-06
+
+**Idioma del programa concreto:** no se ha establecido · El idioma de la web no acredita el de las actividades. Confirmar EN/ES/RU oral, apoyo a menores y grupo real; hasta entonces no se promete inmersión lingüística.
+
+[fuente oficial](https://bricklabs.ca/over-night-camp-2026/) · 2026-11-06
+
+[fuente oficial](https://app.acuityscheduling.com/schedule.php?owner=13584246&appointmentType=98136580) · 2026-11-06
+
+[fuente oficial](https://bricklabs.ca/cancellation-policy/) · 2026-11-06
+
+**Instructores y grupo:** Pruebas parciales · Personal de Brick Labs e instructores exteriores RLC con primeros auxilios y cualificación acuática declarados. No se conocen nombres reales, proporción de adultos ni equipo nocturno.
+
+[fuente oficial](https://bricklabs.ca/over-night-camp-2026/) · 2026-11-06
+
+[fuente oficial](https://app.acuityscheduling.com/schedule.php?owner=13584246&appointmentType=98136580) · 2026-11-06
+
+[fuente oficial](https://bricklabs.ca/cancellation-policy/) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Pruebas parciales · 32 participantes por semana, habitaciones de 2–3, ropa de cama, comidas, meriendas y autobús desde North York incluidos. Cada día tres bloques de construcción y tres bloques obligatorios al aire libre; no se permiten teléfonos ni portátiles personales. Personal de Brick Labs y equipo exterior cualificado de RLC; aclarar número de adultos nocturnos.
+
+[fuente oficial](https://bricklabs.ca/over-night-camp-2026/) · 2026-11-06
+
+[fuente oficial](https://app.acuityscheduling.com/schedule.php?owner=13584246&appointmentType=98136580) · 2026-11-06
+
+[fuente oficial](https://bricklabs.ca/cancellation-policy/) · 2026-11-06
+
+**Precio y condiciones:** Pruebas parciales · CAD 1650 por niño y semana de 2027. La moneda CAD se confirma en la configuración pública de inscripción de Brick Labs; aclarar impuestos finales y factura. el vuelo/el camino hasta North York, seguro por separado. Day visit $150/No hay prueba de otro día de edad menor. CAD 650 forman parte de 1650, saldo de 1000 hasta el 1 de marzo de 2027; formularios hasta el 1 de abril. Reglas específicas de 2027: hasta el 31 de diciembre de 2026 devolución completa, del 1 de enero al 28 de febrero de 2027 devolución del 50%, desde el 1 de marzo sin devolución. La página general antigua de cancelación 2025/2026 no sustituye las condiciones de esta estancia.
+
+[fuente oficial](https://bricklabs.ca/over-night-camp-2026/) · 2026-11-06
+
+[fuente oficial](https://app.acuityscheduling.com/schedule.php?owner=13584246&appointmentType=98136580) · 2026-11-06
+
+[fuente oficial](https://bricklabs.ca/cancellation-policy/) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · No se han establecido reseñas independientes de padres ni evaluación externa del turno concreto. Biografías, testimonios y afirmaciones del organizador no constituyen una comprobación independiente.
+
+[fuente oficial](https://bricklabs.ca/over-night-camp-2026/) · 2026-11-06
+
+[fuente oficial](https://app.acuityscheduling.com/schedule.php?owner=13584246&appointmentType=98136580) · 2026-11-06
+
+[fuente oficial](https://bricklabs.ca/cancellation-policy/) · 2026-11-06
+
 ### Antes de solicitar plaza
 
-- confirmar el EN, la moneda/impuestos, el seguro, el nivel y el lugar; la factura final antes de pagar.
+- Confirmar idioma oral, nivel de robótica, equipo nocturno, impuestos de CAD 1650 e imputación del anticipo de 650.
 
 ### Natural Disaster Response
 
@@ -10304,7 +10998,7 @@ Canadá · Rosseau Lake College / Muskoka
 
 **lugar:** Rosseau Lake College / Muskoka
 
-**Precio:** $1 650 / semana · confirma la moneda
+**Precio:** CAD 1650 por semana; anticipo de 650 incluido en el total
 
 [fuente](https://bricklabs.ca/over-night-camp-2026/)
 
@@ -10314,19 +11008,23 @@ Canadá · Rosseau Lake College / Muskoka
 
 **lugar:** Rosseau Lake College / Muskoka
 
-**Precio:** $1 650 / semana · confirma la moneda
+**Precio:** CAD 1650 por semana; anticipo de 650 incluido en el total
 
 [fuente](https://bricklabs.ca/over-night-camp-2026/)
 
 ### Fuentes
 
-- [2027: edad para el 1 de junio, cuatro pistas, tarifa, coach y cancelación](https://bricklabs.ca/over-night-camp-2026/) · 2026-10-04
+- [2027: edad para el 1 de junio, cuatro pistas, tarifa, coach y cancelación](https://bricklabs.ca/over-night-camp-2026/) · 2026-11-06
+
+- [Fuente oficial del programa y condiciones](https://app.acuityscheduling.com/schedule.php?owner=13584246&appointmentType=98136580) · 2026-11-06
+
+- [Fuente oficial del programa y condiciones](https://bricklabs.ca/cancellation-policy/) · 2026-11-06
 
 ## CP080 · Brick Labs · Creative Builders
 
 Canadá · Rosseau Lake College / Muskoka
 
-** Verificado:** 2026-10-04
+**Se ha comprobado:** 2026-11-06
 
 **Edad:** 9–13 en 01.06.2027; 8/14 Exclusión por escrito
 
@@ -10334,17 +11032,17 @@ Canadá · Rosseau Lake College / Muskoka
 
 ** Programa:** Diseño creativo: Inspired by Muskoka, julio, Macro Scale Characters, agosto; actividad outdoor, no se indica el programa de robots.
 
-**Alojamiento:** Habitación 2–3 Niños, bedding; Funcionarios Brick Labs/RLC. Salida North York, no residente en Toronto.
+**Alojamiento:** 32 participantes por semana, habitaciones de 2–3, ropa de cama, comidas, meriendas y autobús desde North York incluidos. Cada día tres bloques de construcción y tres bloques obligatorios al aire libre; no se permiten teléfonos ni portátiles personales. Personal de Brick Labs y equipo exterior cualificado de RLC; aclarar número de adultos nocturnos.
 
 **Fechas / situación:** 2027: 25–30.07 y 15–20.08; Sunday–Friday.
 
-**Precio / año:** 2027 · $1 650 / Niño / Semana; la moneda de la cuenta final.
+**Precio / año:** 2027 · CAD 1650 por niño y semana de 2027. La moneda CAD se confirma en la configuración pública de inscripción de Brick Labs; aclarar impuestos finales y factura.
 
 ** Incluida:** Coach del North York, internado, meals/snacks, materiales y actividades principales.
 
 **Gastos adicionales:** Vuelo/carretera hasta el North York, Seguro separado. Day visit $150/El día no prueba otra edad..
 
-**Pago:** Deposit $650 Entra $1 650; Saldo $1 000 antes 01.03.2027. Antes 31.12.2026 Reintegro completo; 01.01–28.02 50%; c 01.03 No.. Fechas de frontera.
+**Pago:** CAD 650 forman parte de 1650, saldo de 1000 hasta el 1 de marzo de 2027; formularios hasta el 1 de abril. Reglas específicas de 2027: hasta el 31 de diciembre de 2026 devolución completa, del 1 de enero al 28 de febrero de 2027 devolución del 50%, desde el 1 de marzo sin devolución. La página general antigua de cancelación 2025/2026 no sustituye las condiciones de esta estancia.
 
 **Matvey:** 2017 corresponde 9–13 en 01.06.2027; necesita un nivel de pista., EN y preparación para el internado.
 
@@ -10352,9 +11050,77 @@ Canadá · Rosseau Lake College / Muskoka
 
 ** Por qué en la selección:** 2027 internados específicos para Matway; los paquetes técnicos y creativos están separados.
 
+### Análisis editorial
+
+Brick Labs · construcción creativa LEGO con programa exterior
+
+**Análisis verificado:** 2026-11-06
+
+**Ingeniería, robótica y programación:** Este análisis responde a otro objetivo · Es una estancia general, lingüística o creativa; no se ha establecido un intensivo de robótica ni preparación para una clasificación de liga.
+
+**Actividades generales de esparcimiento:** Considerar como alternativa · Construcción combinada con naturaleza obligatoria; opción adecuada solo si el niño desea ambos bloques.
+
+**Práctica de idiomas:** Hay que actualizar las pruebas · Confirmar primero el idioma oral de las actividades y del apoyo al niño en el grupo elegido.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · Grandes displays LEGO de Muskoka en julio y macropersonajes en agosto. Es construcción creativa, no curso prometido de programación de robots.
+
+[fuente oficial](https://bricklabs.ca/over-night-camp-2026/) · 2026-11-06
+
+[fuente oficial](https://app.acuityscheduling.com/schedule.php?owner=13584246&appointmentType=98136580) · 2026-11-06
+
+[fuente oficial](https://bricklabs.ca/cancellation-policy/) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · Edad 9–13 al 1 de junio de 2027; excepciones solo para 8/14 con acuerdo. Matvey cumple por edad; Oscar incluso con siete queda fuera de la excepción publicada.
+
+[fuente oficial](https://bricklabs.ca/over-night-camp-2026/) · 2026-11-06
+
+[fuente oficial](https://app.acuityscheduling.com/schedule.php?owner=13584246&appointmentType=98136580) · 2026-11-06
+
+[fuente oficial](https://bricklabs.ca/cancellation-policy/) · 2026-11-06
+
+**Idioma del programa concreto:** no se ha establecido · El idioma de la web no acredita el de las actividades. Confirmar EN/ES/RU oral, apoyo a menores y grupo real; hasta entonces no se promete inmersión lingüística.
+
+[fuente oficial](https://bricklabs.ca/over-night-camp-2026/) · 2026-11-06
+
+[fuente oficial](https://app.acuityscheduling.com/schedule.php?owner=13584246&appointmentType=98136580) · 2026-11-06
+
+[fuente oficial](https://bricklabs.ca/cancellation-policy/) · 2026-11-06
+
+**Instructores y grupo:** Pruebas parciales · Personal de Brick Labs e instructores exteriores RLC con primeros auxilios y cualificación acuática declarados. No se conocen nombres reales, proporción de adultos ni equipo nocturno.
+
+[fuente oficial](https://bricklabs.ca/over-night-camp-2026/) · 2026-11-06
+
+[fuente oficial](https://app.acuityscheduling.com/schedule.php?owner=13584246&appointmentType=98136580) · 2026-11-06
+
+[fuente oficial](https://bricklabs.ca/cancellation-policy/) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Pruebas parciales · 32 participantes por semana, habitaciones de 2–3, ropa de cama, comidas, meriendas y autobús desde North York incluidos. Cada día tres bloques de construcción y tres bloques obligatorios al aire libre; no se permiten teléfonos ni portátiles personales. Personal de Brick Labs y equipo exterior cualificado de RLC; aclarar número de adultos nocturnos.
+
+[fuente oficial](https://bricklabs.ca/over-night-camp-2026/) · 2026-11-06
+
+[fuente oficial](https://app.acuityscheduling.com/schedule.php?owner=13584246&appointmentType=98136580) · 2026-11-06
+
+[fuente oficial](https://bricklabs.ca/cancellation-policy/) · 2026-11-06
+
+**Precio y condiciones:** Pruebas parciales · CAD 1650 por niño y semana de 2027. La moneda CAD se confirma en la configuración pública de inscripción de Brick Labs; aclarar impuestos finales y factura. el vuelo/el camino hasta North York, seguro por separado. Day visit $150/No hay prueba de otro día de edad menor. CAD 650 forman parte de 1650, saldo de 1000 hasta el 1 de marzo de 2027; formularios hasta el 1 de abril. Reglas específicas de 2027: hasta el 31 de diciembre de 2026 devolución completa, del 1 de enero al 28 de febrero de 2027 devolución del 50%, desde el 1 de marzo sin devolución. La página general antigua de cancelación 2025/2026 no sustituye las condiciones de esta estancia.
+
+[fuente oficial](https://bricklabs.ca/over-night-camp-2026/) · 2026-11-06
+
+[fuente oficial](https://app.acuityscheduling.com/schedule.php?owner=13584246&appointmentType=98136580) · 2026-11-06
+
+[fuente oficial](https://bricklabs.ca/cancellation-policy/) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · No se han establecido reseñas independientes de padres ni evaluación externa del turno concreto. Biografías, testimonios y afirmaciones del organizador no constituyen una comprobación independiente.
+
+[fuente oficial](https://bricklabs.ca/over-night-camp-2026/) · 2026-11-06
+
+[fuente oficial](https://app.acuityscheduling.com/schedule.php?owner=13584246&appointmentType=98136580) · 2026-11-06
+
+[fuente oficial](https://bricklabs.ca/cancellation-policy/) · 2026-11-06
+
 ### Antes de solicitar plaza
 
-- confirmar el EN, la moneda/impuestos, el seguro, el nivel y el lugar; la factura final antes de pagar.
+- Confirmar idioma oral, itinerario creativo, equipo nocturno, impuestos de CAD 1650 e imputación del anticipo de 650.
 
 ### Display Builder · Inspired by Muskoka
 
@@ -10362,7 +11128,7 @@ Canadá · Rosseau Lake College / Muskoka
 
 **lugar:** Rosseau Lake College / Muskoka
 
-**Precio:** $1 650 / semana · confirma la moneda
+**Precio:** CAD 1650 por semana; anticipo de 650 incluido en el total
 
 [fuente](https://bricklabs.ca/over-night-camp-2026/)
 
@@ -10372,35 +11138,39 @@ Canadá · Rosseau Lake College / Muskoka
 
 **lugar:** Rosseau Lake College / Muskoka
 
-**Precio:** $1 650 / semana · confirma la moneda
+**Precio:** CAD 1650 por semana; anticipo de 650 incluido en el total
 
 [fuente](https://bricklabs.ca/over-night-camp-2026/)
 
 ### Fuentes
 
-- [2027: edad para el 1 de junio, cuatro pistas, tarifa, coach y cancelación](https://bricklabs.ca/over-night-camp-2026/) · 2026-10-04
+- [2027: edad para el 1 de junio, cuatro pistas, tarifa, coach y cancelación](https://bricklabs.ca/over-night-camp-2026/) · 2026-11-06
+
+- [Fuente oficial del programa y condiciones](https://app.acuityscheduling.com/schedule.php?owner=13584246&appointmentType=98136580) · 2026-11-06
+
+- [Fuente oficial del programa y condiciones](https://bricklabs.ca/cancellation-policy/) · 2026-11-06
 
 ## CP081 · Next Robotics · IQ Summer Camp
 
 Canadá · 4114 MacLeod Trail SE / Calgary
 
-** Verificado:** 2026-10-04
+**Se ha comprobado:** 2026-11-06
 
 **Edad:** Grades 3–6 septiembre 2027; La edad no sustituye a la clase
 
 ** Idioma: ** En la enseñanza/la vida en los campamentos no se define expresamente en las fuentes que se leen; se confirma al operador.
 
-**Programa:** Primaria VEX IQ: ensamblado, programación, Gestión y trabajo en grupo. 09–16. Equipo de clubs — otro formato anual Grades 4–7, con experiencia/selección; Un campamento de una semana no garantiza un lugar en él..
+**Programa:** Curso diurno introductorio de VEX IQ para Grades 3–6 en septiembre de 2027, 09:00–16:00; no exige experiencia y proporciona equipo. La experiencia familiar de tres años requiere comprobar dificultad. El equipo anual Grades 4–7 tiene selección aparte; una semana de campamento no implica plaza en el equipo.
 
 ** Vivir: ** Diurno; se necesita un hogar familiar separado en Calgary.
 
 **Fechas / situación:** 2027: 05–09.07, 19–23.07, 26–30.07.
 
-**Precio / año:** 2027 · Community special: $315 ($300 + GST) en una semana; El precio puede cambiar.. la moneda de la cuenta.
+**Precio / año:** sin establecer · La tarifa actual de 2027 no está confirmada. Antes se citaban 315 por semana y 2% por tarjeta, pero el programa actual y el formulario público no muestran esas cifras. La oferta antigua se conserva solo en el historial.
 
 ** Incluye: ** El equipo de capacitación es proporcionado por el club.
 
-** Prestación:** Card processing +2%; alimentación/seguro, vivienda de los padres y caminos separados.
+**Suplementos:** Se desconocen comida, horario ampliado, impuestos, seguro y comisión de la factura actual; alojamiento adulto y viaje aparte.
 
 ** Pago: ** Paga por Checkout. FAQ: no hay devolución después de la inscripción; credit únicamente por decisión individual.
 
@@ -10410,9 +11180,75 @@ Canadá · 4114 MacLeod Trail SE / Calgary
 
 ** Por qué en la selección:** Candidato de introducción de VEX, con una ruta separada para el equipo de temporada.
 
+### Análisis editorial
+
+VEX IQ diurno: comprobar curso, dificultad y nueva factura; precio antiguo sin confirmar.
+
+**Análisis verificado:** 2026-11-06
+
+**Ingeniería, robótica y programación:** Considerar como alternativa · Considerar tras revisar tarea: el nivel inicial puede resultar insuficiente para la experiencia actual. La liga de equipo tiene selección aparte.
+
+**Viaje familiar con campamento de día:** Hay que actualizar las pruebas · Confirmar primero el idioma oral de las actividades y del apoyo al niño en el grupo elegido.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · Curso diurno introductorio de VEX IQ para Grades 3–6 en septiembre de 2027, 09:00–16:00; no exige experiencia y proporciona equipo. La experiencia familiar de tres años requiere comprobar dificultad. El equipo anual Grades 4–7 tiene selección aparte; una semana de campamento no implica plaza en el equipo.
+
+[fuente oficial](https://www.nextrobotics.ca/programs-1) · 2026-11-06
+
+[fuente oficial](https://www.nextrobotics.ca/faq) · 2026-11-06
+
+[fuente oficial](https://robotics.dreamclass.io/pages/admissions-v2/form/AUZGae) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · Se exigen Grades 3–6 en septiembre de 2027. Cursos exactos de ambos desconocidos; la edad de Oscar no acredita tercer curso.
+
+[fuente oficial](https://www.nextrobotics.ca/programs-1) · 2026-11-06
+
+[fuente oficial](https://www.nextrobotics.ca/faq) · 2026-11-06
+
+[fuente oficial](https://robotics.dreamclass.io/pages/admissions-v2/form/AUZGae) · 2026-11-06
+
+**Idioma del programa concreto:** no se ha establecido · El idioma de la web no acredita el de las actividades. Confirmar EN/ES/RU oral, apoyo a menores y grupo real; hasta entonces no se promete inmersión lingüística.
+
+[fuente oficial](https://www.nextrobotics.ca/programs-1) · 2026-11-06
+
+[fuente oficial](https://www.nextrobotics.ca/faq) · 2026-11-06
+
+[fuente oficial](https://robotics.dreamclass.io/pages/admissions-v2/form/AUZGae) · 2026-11-06
+
+**Instructores y grupo:** Pruebas parciales · El club proporciona equipo lectivo; no se detallan instructor del turno, número de adultos ni apoyo a menores.
+
+[fuente oficial](https://www.nextrobotics.ca/programs-1) · 2026-11-06
+
+[fuente oficial](https://www.nextrobotics.ca/faq) · 2026-11-06
+
+[fuente oficial](https://robotics.dreamclass.io/pages/admissions-v2/form/AUZGae) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Pruebas parciales · No es hora de trabajar durante el día, es necesario tener una casa de familia en Calgary.
+
+[fuente oficial](https://www.nextrobotics.ca/programs-1) · 2026-11-06
+
+[fuente oficial](https://www.nextrobotics.ca/faq) · 2026-11-06
+
+[fuente oficial](https://robotics.dreamclass.io/pages/admissions-v2/form/AUZGae) · 2026-11-06
+
+**Precio y condiciones:** Pruebas parciales · La tarifa actual de 2027 no está confirmada. Antes se citaban 315 por semana y 2% por tarjeta, pero el programa actual y el formulario público no muestran esas cifras. La oferta antigua se conserva solo en el historial. Se desconocen comida, horario ampliado, impuestos, seguro y comisión de la factura actual; alojamiento adulto y viaje aparte. Pagamiento al momento del checkout. FAQ: no hay devolución después de la inscripción; crédito solo por decisión individual.
+
+[fuente oficial](https://www.nextrobotics.ca/programs-1) · 2026-11-06
+
+[fuente oficial](https://www.nextrobotics.ca/faq) · 2026-11-06
+
+[fuente oficial](https://robotics.dreamclass.io/pages/admissions-v2/form/AUZGae) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · No se han establecido reseñas independientes de padres ni evaluación externa del turno concreto. Biografías, testimonios y afirmaciones del organizador no constituyen una comprobación independiente.
+
+[fuente oficial](https://www.nextrobotics.ca/programs-1) · 2026-11-06
+
+[fuente oficial](https://www.nextrobotics.ca/faq) · 2026-11-06
+
+[fuente oficial](https://robotics.dreamclass.io/pages/admissions-v2/form/AUZGae) · 2026-11-06
+
 ### Antes de solicitar plaza
 
-- Confirmar el nivel de clase, la norma EN, la moneda, la comida, el pago total y la disponibilidad de plazas.
+- Se requieren precio actual 2027, idioma, Grade 3–6 y ejemplo de reto; no dar por automáticos los antiguos 315 ni la selección de equipo.
 
 ### IQ Robotics · Grades 3–6
 
@@ -10420,7 +11256,7 @@ Canadá · 4114 MacLeod Trail SE / Calgary
 
 **lugar:** 4114 MacLeod Trail SE / Calgary
 
-**Precio:** $315 con GST + 2% de tarjeta
+**Precio:** 2027: precio actual no confirmado; no tratar los antiguos 315 como tarifa vigente
 
 [fuente](https://www.nextrobotics.ca/programs-1)
 
@@ -10430,7 +11266,7 @@ Canadá · 4114 MacLeod Trail SE / Calgary
 
 **lugar:** 4114 MacLeod Trail SE / Calgary
 
-**Precio:** $315 con GST + 2% de tarjeta
+**Precio:** 2027: precio actual no confirmado; no tratar los antiguos 315 como tarifa vigente
 
 [fuente](https://www.nextrobotics.ca/programs-1)
 
@@ -10440,17 +11276,17 @@ Canadá · 4114 MacLeod Trail SE / Calgary
 
 **lugar:** 4114 MacLeod Trail SE / Calgary
 
-**Precio:** $315 con GST + 2% de tarjeta
+**Precio:** 2027: precio actual no confirmado; no tratar los antiguos 315 como tarifa vigente
 
 [fuente](https://www.nextrobotics.ca/programs-1)
 
 ### Fuentes
 
-- [tres semanas exactas / clase / horario](https://www.nextrobotics.ca/programs-1) · 2026-10-04
+- [tres semanas exactas / clase / horario](https://www.nextrobotics.ca/programs-1) · 2026-11-06
 
-- [paquete abierto 2027: GST , card fee y precio](https://robotics.dreamclass.io/pages/admissions-v2/form/AUZGae) · 2026-10-04
+- [paquete abierto 2027: GST , card fee y precio](https://robotics.dreamclass.io/pages/admissions-v2/form/AUZGae) · 2026-11-06
 
-- [conjunto / comando / cancelación](https://www.nextrobotics.ca/faq) · 2026-10-04
+- [conjunto / comando / cancelación](https://www.nextrobotics.ca/faq) · 2026-11-06
 
 ## CP082 · YRES · Sports & STEAM Adventure
 
@@ -10532,7 +11368,7 @@ Canadá · York Region / Ontario · emplazamientos exactos TBD
 
 Canadá · Algonquin Park / Ontario
 
-** Verificado:** 2026-10-04
+**Se ha comprobado:** 2026-11-06
 
 **Edad:** 2 semanas: Finalizadas Grades1–5; Las primeras carreras también Grades6–7. Meses completos 7–15.
 
@@ -10540,7 +11376,7 @@ Canadá · Algonquin Park / Ontario
 
 ** Programa:** Outdoor, canoeing, deporte y creatividad; campamento común; no se ha confirmado la formación de robotics/AI.
 
-**Alojamiento:** Cabin-internado. B 6/8-week Paquete 27–29.07 Niños que abandonan camp; Los padres organizan dos noches y el camino por separado.
+**Alojamiento:** Residencia en bosque sin pantallas; el organizador declara monitores que viven con los niños, médico y tres enfermeras 24/7. La oficina informa a padres nuevos durante los primeros tres días; no hay llamadas ordinarias al niño. Son datos del organizador, no inspección independiente del turno.
 
 **Fechas / situación:** 2027: 01–14.07 /29.07–11.08 (2 semanas); 01–27.07 /29.07–23.08; 01.07–11.08 /01.07–23.08. Longitud 6/8-Los paquetes de una semana tienen una pausa obligatoria de dos días fuera del campamento.
 
@@ -10548,19 +11384,97 @@ Canadá · Algonquin Park / Ontario
 
 ** Incluye:** Programa, laundry, comida y pensión.
 
-** Pagadero:** Toronto/Pearson bus CAD175/dirección; changeover CAD95/dirección: Optional kit CAD200; medical insurance obligatoria, camp option CAD200.
+**Suplementos:** HST no incluido. Autobús Toronto/Pearson CAD 175 por trayecto, cambio de turno 95; alquiler opcional 150. Cobertura médica obligatoria: póliza existente apta u opción del campamento 200, sin sumar automáticamente dos seguros. Para 6/8 semanas hay dos noches de cambio fuera del campamento.
 
 **Pago:** CAD1 000 por adelantado a la cuenta de paquete. Cancelación: antes Dec1 CAD300; Dec1–Feb1 CAD500; Feb1–May1 CAD1 000; después May1 sin retorno.
 
 **Mateway:** Elija la clase/la duración permisible y confirme EN, natación, preparación para la noche.
 
-**Oscar:** Para 2 Se necesitan semanas para completarlas. Grade1; para un mes completo mínimo 7. Ver primero Mini.
+**Oscar:** Dos semanas requieren haber terminado Grade 1–5; la inscripción ordinaria del directorio parte de siete años. No prometer excepción a Oscar con seis solo por el curso; confirmar primero edad y curso.
 
 ** Por qué en la selección:** Pasión general canadiense de valor publicado; un paquete largo requiere una interrupción de la logística familiar.
 
+### Análisis editorial
+
+Arowhon · residencia general en bosque; edad y curso antes que duración
+
+**Análisis verificado:** 2026-11-06
+
+**Actividades generales de esparcimiento:** Considerar como alternativa · Naturaleza y autonomía tras comprobar idioma, edad, natación y preparación para comunicación limitada.
+
+**Primer internado:** Este análisis responde a otro objetivo · El Mini corto tiene condiciones propias de edad y transporte; la tarifa regular no sustituye sus reglas.
+
+**Ingeniería, robótica y programación:** Este análisis responde a otro objetivo · Es una estancia general, lingüística o creativa; no se ha establecido un intensivo de robótica ni preparación para una clasificación de liga.
+
+**Práctica de idiomas:** Hay que actualizar las pruebas · Confirmar primero el idioma oral de las actividades y del apoyo al niño en el grupo elegido.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · Bosque, agua, deporte, creatividad y autonomía. Es estancia general, no formación técnica; English Riding es estilo de equitación, no prueba del idioma.
+
+[fuente oficial](https://camparowhon.com/programs/rates-dates/) · 2026-11-06
+
+[fuente oficial](https://camparowhon.com/ourteam/faq/) · 2026-11-06
+
+[fuente oficial](https://camparowhon.com/programs/mini-camp/) · 2026-11-06
+
+[fuente oficial](https://ontariocampsassociation.ca/program/camp-arowhon/) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · Dos semanas para Grades 1–5 terminados o primerizos Grades 6–7; edad ordinaria desde siete. Confirmar ambas condiciones para Oscar, no solo curso escolar.
+
+[fuente oficial](https://camparowhon.com/programs/rates-dates/) · 2026-11-06
+
+[fuente oficial](https://camparowhon.com/ourteam/faq/) · 2026-11-06
+
+[fuente oficial](https://camparowhon.com/programs/mini-camp/) · 2026-11-06
+
+[fuente oficial](https://ontariocampsassociation.ca/program/camp-arowhon/) · 2026-11-06
+
+**Idioma del programa concreto:** no se ha establecido · El idioma de la web no acredita el de las actividades. Confirmar EN/ES/RU oral, apoyo a menores y grupo real; hasta entonces no se promete inmersión lingüística.
+
+[fuente oficial](https://camparowhon.com/programs/rates-dates/) · 2026-11-06
+
+[fuente oficial](https://camparowhon.com/ourteam/faq/) · 2026-11-06
+
+[fuente oficial](https://camparowhon.com/programs/mini-camp/) · 2026-11-06
+
+[fuente oficial](https://ontariocampsassociation.ca/program/camp-arowhon/) · 2026-11-06
+
+**Instructores y grupo:** Pruebas parciales · El organizador describe monitores residentes, médico y enfermeras. No se conocen personal concreto, equipo nocturno ni proporción de adultos de la estancia elegida.
+
+[fuente oficial](https://camparowhon.com/programs/rates-dates/) · 2026-11-06
+
+[fuente oficial](https://camparowhon.com/ourteam/faq/) · 2026-11-06
+
+[fuente oficial](https://camparowhon.com/programs/mini-camp/) · 2026-11-06
+
+[fuente oficial](https://ontariocampsassociation.ca/program/camp-arowhon/) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Pruebas parciales · Residencia en bosque sin pantallas; el organizador declara monitores que viven con los niños, médico y tres enfermeras 24/7. La oficina informa a padres nuevos durante los primeros tres días; no hay llamadas ordinarias al niño. Son datos del organizador, no inspección independiente del turno.
+
+[fuente oficial](https://camparowhon.com/programs/rates-dates/) · 2026-11-06
+
+[fuente oficial](https://camparowhon.com/ourteam/faq/) · 2026-11-06
+
+[fuente oficial](https://camparowhon.com/programs/mini-camp/) · 2026-11-06
+
+[fuente oficial](https://ontariocampsassociation.ca/program/camp-arowhon/) · 2026-11-06
+
+**Precio y condiciones:** Pruebas parciales · CAD5 200/2 semanas; CAD10 200/el primer mes; CAD8 800/el segundo; CAD13 800/6 semanas; CAD14 750/todo el verano. +HST. HST no incluido. Autobús Toronto/Pearson CAD 175 por trayecto, cambio de turno 95; alquiler opcional 150. Cobertura médica obligatoria: póliza existente apta u opción del campamento 200, sin sumar automáticamente dos seguros. Para 6/8 semanas hay dos noches de cambio fuera del campamento. CAD1 000 por adelantado a la cuenta del paquete. cancelación: hasta Dec1 CAD300; Dec1Feb1 CAD500; Feb1May1 CAD1 000; después de May1 sin devolución.
+
+[fuente oficial](https://camparowhon.com/programs/rates-dates/) · 2026-11-06
+
+[fuente oficial](https://camparowhon.com/ourteam/faq/) · 2026-11-06
+
+[fuente oficial](https://camparowhon.com/programs/mini-camp/) · 2026-11-06
+
+[fuente oficial](https://ontariocampsassociation.ca/program/camp-arowhon/) · 2026-11-06
+
+**Pruebas independientes de reputación:** Pruebas parciales · Arowhon figura en el directorio oficial OCA como campamento infantil ordinario 7–15. Es registro del campamento, no el antiguo alquiler para 500 huéspedes; no consta inspección separada de Mini 2027 ni reseñas de padres.
+
+[fuente oficial](https://ontariocampsassociation.ca/program/camp-arowhon/) · 2026-11-06
+
 ### Antes de solicitar plaza
 
-- Confirmar el EN, la clase, el HST/toda la factura, el seguro y la logística de dos noches de paquete largo.
+- Confirmar edad y curso terminado, idioma, HST, póliza y aplicación del descuento al hermano; para estancias largas, alojamiento en las dos noches de cambio.
 
 ### Inicio · 2 semanas
 
@@ -10624,15 +11538,19 @@ Canadá · Algonquin Park / Ontario
 
 ### Fuentes
 
-- [2027 paquetes / HST / transfer / changeover / cancelación](https://camparowhon.com/programs/rates-dates/) · 2026-10-04
+- [2027 paquetes / HST / transfer / changeover / cancelación](https://camparowhon.com/programs/rates-dates/) · 2026-11-06
 
-- [vida en el campo y la admisión](https://camparowhon.com/ourteam/faq/) · 2026-10-04
+- [vida en el campo y la admisión](https://camparowhon.com/ourteam/faq/) · 2026-11-06
+
+- [Fuente oficial del programa y condiciones](https://camparowhon.com/programs/mini-camp/) · 2026-11-06
+
+- [Fuente oficial del programa y condiciones](https://ontariocampsassociation.ca/program/camp-arowhon/) · 2026-11-06
 
 ## CP085 · Camp Arowhon · Mini Camp
 
 Canadá · Algonquin Park / Ontario
 
-** Verificado:** 2026-10-04
+**Se ha comprobado:** 2026-11-06
 
 **Edad:** 6–9; Finalizadas SK–Grade 3. SEO title 6–11 no sustituye a la regla general 6–9.
 
@@ -10640,7 +11558,7 @@ Canadá · Algonquin Park / Ontario
 
 ** Programa:** Conocer brevemente a un ex-Pansion: canoe, water activities, climbing/crafts y cabin life with counsellors.
 
-** Vivienda: ** Cabins de madera, counsellors viven con niños; duchas al lado.
+**Alojamiento:** Residencia en bosque sin pantallas; el organizador declara monitores que viven con los niños, médico y tres enfermeras 24/7. La oficina informa a padres nuevos durante los primeros tres días; no hay llamadas ordinarias al niño. Son datos del organizador, no inspección independiente del turno.
 
 **Fechas / situación:** 13–16.08.2027, 3 Noche..
 
@@ -10658,9 +11576,87 @@ Canadá · Algonquin Park / Ontario
 
 ** Por qué en la selección:** Primer internado independiente para Oscar; para una carrera conjunta, comprobar la frontera superior de Matway.
 
+### Análisis editorial
+
+Arowhon · Mini corto para primera residencia en bosque
+
+**Análisis verificado:** 2026-11-06
+
+**Actividades generales de esparcimiento:** Considerar como alternativa · Naturaleza y autonomía tras comprobar idioma, edad, natación y preparación para comunicación limitada.
+
+**Primer internado:** Considerar como alternativa · El Mini corto tiene condiciones propias de edad y transporte; la tarifa regular no sustituye sus reglas.
+
+**Ingeniería, robótica y programación:** Este análisis responde a otro objetivo · Es una estancia general, lingüística o creativa; no se ha establecido un intensivo de robótica ni preparación para una clasificación de liga.
+
+**Práctica de idiomas:** Hay que actualizar las pruebas · Confirmar primero el idioma oral de las actividades y del apoyo al niño en el grupo elegido.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · Bosque, agua, deporte, creatividad y autonomía. Es estancia general, no formación técnica; English Riding es estilo de equitación, no prueba del idioma.
+
+[fuente oficial](https://camparowhon.com/programs/rates-dates/) · 2026-11-06
+
+[fuente oficial](https://camparowhon.com/ourteam/faq/) · 2026-11-06
+
+[fuente oficial](https://camparowhon.com/programs/mini-camp/) · 2026-11-06
+
+[fuente oficial](https://ontariocampsassociation.ca/program/camp-arowhon/) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · Mini de 6–9 y SK–Grade 3 terminado. Oscar cumple por edad; Matvey solo si aún tiene nueve y curso dentro del rango.
+
+[fuente oficial](https://camparowhon.com/programs/rates-dates/) · 2026-11-06
+
+[fuente oficial](https://camparowhon.com/ourteam/faq/) · 2026-11-06
+
+[fuente oficial](https://camparowhon.com/programs/mini-camp/) · 2026-11-06
+
+[fuente oficial](https://ontariocampsassociation.ca/program/camp-arowhon/) · 2026-11-06
+
+**Idioma del programa concreto:** no se ha establecido · El idioma de la web no acredita el de las actividades. Confirmar EN/ES/RU oral, apoyo a menores y grupo real; hasta entonces no se promete inmersión lingüística.
+
+[fuente oficial](https://camparowhon.com/programs/rates-dates/) · 2026-11-06
+
+[fuente oficial](https://camparowhon.com/ourteam/faq/) · 2026-11-06
+
+[fuente oficial](https://camparowhon.com/programs/mini-camp/) · 2026-11-06
+
+[fuente oficial](https://ontariocampsassociation.ca/program/camp-arowhon/) · 2026-11-06
+
+**Instructores y grupo:** Pruebas parciales · El organizador describe monitores residentes, médico y enfermeras. No se conocen personal concreto, equipo nocturno ni proporción de adultos de la estancia elegida.
+
+[fuente oficial](https://camparowhon.com/programs/rates-dates/) · 2026-11-06
+
+[fuente oficial](https://camparowhon.com/ourteam/faq/) · 2026-11-06
+
+[fuente oficial](https://camparowhon.com/programs/mini-camp/) · 2026-11-06
+
+[fuente oficial](https://ontariocampsassociation.ca/program/camp-arowhon/) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Pruebas parciales · Residencia en bosque sin pantallas; el organizador declara monitores que viven con los niños, médico y tres enfermeras 24/7. La oficina informa a padres nuevos durante los primeros tres días; no hay llamadas ordinarias al niño. Son datos del organizador, no inspección independiente del turno.
+
+[fuente oficial](https://camparowhon.com/programs/rates-dates/) · 2026-11-06
+
+[fuente oficial](https://camparowhon.com/ourteam/faq/) · 2026-11-06
+
+[fuente oficial](https://camparowhon.com/programs/mini-camp/) · 2026-11-06
+
+[fuente oficial](https://ontariocampsassociation.ca/program/camp-arowhon/) · 2026-11-06
+
+**Precio y condiciones:** Pruebas parciales · CAD700 / Mini Camp; el resultado fiscal se confirma. Mini bus CAD100/dirección  Tarifa diferente a la del bus regular; asegúrese por separado. No se requiere un depósito para el Mini.
+
+[fuente oficial](https://camparowhon.com/programs/rates-dates/) · 2026-11-06
+
+[fuente oficial](https://camparowhon.com/ourteam/faq/) · 2026-11-06
+
+[fuente oficial](https://camparowhon.com/programs/mini-camp/) · 2026-11-06
+
+[fuente oficial](https://ontariocampsassociation.ca/program/camp-arowhon/) · 2026-11-06
+
+**Pruebas independientes de reputación:** Pruebas parciales · Arowhon figura en el directorio oficial OCA como campamento infantil ordinario 7–15. Es registro del campamento, no el antiguo alquiler para 500 huéspedes; no consta inspección separada de Mini 2027 ni reseñas de padres.
+
+[fuente oficial](https://ontariocampsassociation.ca/program/camp-arowhon/) · 2026-11-06
+
 ### Antes de solicitar plaza
 
-- Confirmar el EN, los cumpleaños/classes, la HST, la alimentación, el seguro y la cancelación de Mini por separado.
+- Matvey solo si aún tiene nueve y el curso encaja; confirmar SK–Grade 3, idioma, HST, seguro y cancelación propia de Mini.
 
 ### Mini 3 noches / 4 días
 
@@ -10674,15 +11670,19 @@ Canadá · Algonquin Park / Ontario
 
 ### Fuentes
 
-- [Mini: de hecho6–9, clase, bus y cabins](https://camparowhon.com/programs/mini-camp/) · 2026-10-04
+- [Mini: de hecho6–9, clase, bus y cabins](https://camparowhon.com/programs/mini-camp/) · 2026-11-06
 
-- [2027 fecha / precio; exclusión de Mini de regular cancellation](https://camparowhon.com/programs/rates-dates/) · 2026-10-04
+- [2027 fecha / precio; exclusión de Mini de regular cancellation](https://camparowhon.com/programs/rates-dates/) · 2026-11-06
+
+- [Fuente oficial del programa y condiciones](https://camparowhon.com/ourteam/faq/) · 2026-11-06
+
+- [Fuente oficial del programa y condiciones](https://ontariocampsassociation.ca/program/camp-arowhon/) · 2026-11-06
 
 ## CP086 · Catalina Sea Camp · One Week
 
 · Catalina Island / California · Ejecución de Long Beach
 
-** Verificado:** 2026-10-04
+**Se ha comprobado:** 2026-11-06
 
 **Edad:** 8–13; individuales 18-Paquetes de día12–17 No esta pista.
 
@@ -10690,11 +11690,11 @@ Canadá · Algonquin Park / Ontario
 
 ** Programa:** Science labs, snorkeling, botes, naturaleza y adventure.
 
-** Retención:** Dorm-style housing; main page indica Toyon Bay, el modelo de calendario de llegada de Fox Landing ○ confirmar el lugar exacto de la semana.
+**Alojamiento:** Residencia marina semanal. El organizador declara instructores acuáticos con Lifeguard/CPR/AED/primeros auxilios y enfermera residente 24/7. Sin llamadas ordinarias ni visitas; padres contactan con la oficina. El campus exacto es contradictorio y requiere confirmación.
 
 **Fechas / situación:** 2027: 12–18.06, 19–25.06, 26.06–02.07.
 
-**Precio / año:** 2027 · USD3 750 / 7 días; ajuste USD300 antes 31.10.2026 exige que se compruebe el registro.
+**Precio / año:** 2027 · USD 3750 por semana de 2027; descuento anticipado actual de 150 hasta el 31 de enero, precio anticipado de 3600. El antiguo descuento de 300 hasta octubre terminó y se conserva en el historial.
 
 ** Incluida:** Programa de alojamiento y tiempo de trabajo; inclusión exacta de boat/equipo en la invoice.
 
@@ -10708,9 +11708,73 @@ Canadá · Algonquin Park / Ontario
 
 ** Por qué en la selección:** Science-pansion marina de Matway; otro operador que no sea Catalina Island Camps.
 
+### Análisis editorial
+
+Ciencia marina y aventura para Matvey; aclarar campus y condiciones acuáticas.
+
+**Análisis verificado:** 2026-11-06
+
+**Actividades generales de esparcimiento:** Considerar como alternativa · Candidato marino temático para Matvey tras comprobar idioma, agua y sede exacta; buscar otro programa para Oscar.
+
+**Ingeniería, robótica y programación:** Este análisis responde a otro objetivo · Es una estancia general, lingüística o creativa; no se ha establecido un intensivo de robótica ni preparación para una clasificación de liga.
+
+**Práctica de idiomas:** Hay que actualizar las pruebas · Confirmar primero el idioma oral de las actividades y del apoyo al niño en el grupo elegido.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · Laboratorios marinos, observación, snorkel, barco y naturaleza. Es STEM marino general, no robótica; no se promete certificación de buceo al participante semanal.
+
+[fuente oficial](https://catalinaseacamp.org/dates-rates/) · 2026-11-06
+
+[fuente oficial](https://catalinaseacamp.org/programs/1-week-programs/) · 2026-11-06
+
+[fuente oficial](https://catalinaseacamp.org/health-and-safety/) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · Programa semanal 8–13: Matvey cumple, Oscar tendrá menos de ocho todo 2027. Plazas anunciadas por grupos no prueban admisión individual.
+
+[fuente oficial](https://catalinaseacamp.org/dates-rates/) · 2026-11-06
+
+[fuente oficial](https://catalinaseacamp.org/programs/1-week-programs/) · 2026-11-06
+
+[fuente oficial](https://catalinaseacamp.org/health-and-safety/) · 2026-11-06
+
+**Idioma del programa concreto:** no se ha establecido · El idioma de la web no acredita el de las actividades. Confirmar EN/ES/RU oral, apoyo a menores y grupo real; hasta entonces no se promete inmersión lingüística.
+
+[fuente oficial](https://catalinaseacamp.org/dates-rates/) · 2026-11-06
+
+[fuente oficial](https://catalinaseacamp.org/programs/1-week-programs/) · 2026-11-06
+
+[fuente oficial](https://catalinaseacamp.org/health-and-safety/) · 2026-11-06
+
+**Instructores y grupo:** Pruebas parciales · Se publica cualificación acuática de instructores y enfermera residente; no se conoce personal real semanal ni proporción nocturna de adultos.
+
+[fuente oficial](https://catalinaseacamp.org/dates-rates/) · 2026-11-06
+
+[fuente oficial](https://catalinaseacamp.org/programs/1-week-programs/) · 2026-11-06
+
+[fuente oficial](https://catalinaseacamp.org/health-and-safety/) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Pruebas parciales · Residencia marina semanal. El organizador declara instructores acuáticos con Lifeguard/CPR/AED/primeros auxilios y enfermera residente 24/7. Sin llamadas ordinarias ni visitas; padres contactan con la oficina. El campus exacto es contradictorio y requiere confirmación.
+
+[fuente oficial](https://catalinaseacamp.org/dates-rates/) · 2026-11-06
+
+[fuente oficial](https://catalinaseacamp.org/programs/1-week-programs/) · 2026-11-06
+
+[fuente oficial](https://catalinaseacamp.org/health-and-safety/) · 2026-11-06
+
+**Precio y condiciones:** Pruebas parciales · USD 3750 por semana de 2027; descuento anticipado actual de 150 hasta el 31 de enero, precio anticipado de 3600. El antiguo descuento de 300 hasta octubre terminó y se conserva en el historial. Buscar el transporte por carretera/aeropuerto, el seguro, las electives y los suplementos. USD300 el anticipo no reembolsable se incluye en tuition; pago completo hasta el 1 mayo. hasta 1 febrero se retendrán adicionalmente100, Feb1–Apr30 200; May1–14 25%, May15–31 50%, después de 1 de junio 100%. base de combinación de retenciones para especificar.
+
+[fuente oficial](https://catalinaseacamp.org/dates-rates/) · 2026-11-06
+
+[fuente oficial](https://catalinaseacamp.org/programs/1-week-programs/) · 2026-11-06
+
+[fuente oficial](https://catalinaseacamp.org/health-and-safety/) · 2026-11-06
+
+**Pruebas independientes de reputación:** Pruebas parciales · El directorio oficial ACA muestra Catalina Sea Camp como Accredited Member y Guided Discoveries como operador. Petición directa 403; registro leído en representación del buscador con rastreo de unas tres semanas. No es inspección separada de semana 2027 ni reseñas de padres.
+
+[fuente oficial](https://find.acacamps.org/camp_profile.php?camp_id=2026) · 2026-11-06
+
 ### Antes de solicitar plaza
 
-- Confirmar el EN, la bahía específica, las tarifas de barco/equipamiento, el permiso de agua, el seguro y la factura final.
+- Confirmar idioma, Toyon Bay o Fox Landing, barco, normas acuáticas y factura completa; descuento anticipado de 150 hasta el 31 de enero.
 
 ### One Week · ages8–13
 
@@ -10744,11 +11808,15 @@ Canadá · Algonquin Park / Ontario
 
 ### Fuentes
 
-- [2027: semanas exactas / precio / pago / cancelación](https://catalinaseacamp.org/dates-rates/) · 2026-10-04
+- [2027: semanas exactas / precio / pago / cancelación](https://catalinaseacamp.org/dates-rates/) · 2026-11-06
 
-- [Junior marine science / alojamiento / horario](https://catalinaseacamp.org/programs/1-week-programs/) · 2026-10-04
+- [Junior marine science / alojamiento / horario](https://catalinaseacamp.org/programs/1-week-programs/) · 2026-11-06
 
 - [FAQ / organización](https://catalinaseacamp.org/catalina-island-faqs/) · 2026-10-04
+
+- [Fuente oficial del programa y condiciones](https://catalinaseacamp.org/health-and-safety/) · 2026-11-06
+
+- [Fuente oficial del programa y condiciones](https://find.acacamps.org/camp_profile.php?camp_id=2026) · 2026-11-06
 
 ## CP087 · Lavner Tech Revolution · LEGO Engineering & Coding
 
@@ -14860,7 +15928,7 @@ España · Alicante · MiCampus 2026; el emplazamiento 2027 aún no ha sido conf
 
 · Idyllwild, California · 26800 Saunders Meadow Rd
 
-** Verificado:** 2026-10-05
+**Se ha comprobado:** 2026-11-06
 
 **Edad:** Mínimo 7. Rates/header: 7–13; Tarjeta At a Glance/Parent Guide: 7–12 — El límite superior se separa.
 
@@ -14868,11 +15936,11 @@ España · Alicante · MiCampus 2026; el emplazamiento 2027 aún no ha sido conf
 
 ** Programa:** 7 días / 6 noches: ciencia y actividad STEM, junto con outdoors, creatividad, cocina y actividades electorales. El guía de padres 2027 describe explícitamente a STEM como parte de un campamento común.
 
-** Residencia:** Pasión; preparación para dormir, bedding y vigilancia en el paquete 2027.
+**Alojamiento:** Residencia de verano con enfermera registrada y EMT las 24 horas según el organizador; socorristas y personal formado. No se trasladan al turno de verano las reglas de medicación de una visita escolar acompañada.
 
-**Fechas / situación:** Cambio de turno coherente 2027: 12–18 junio, 19–25 junio, 25–31 julio. Agosto: rates 1–7 agosto, At a Glance 2–7 — El día de la llegada, especificar; No se ha añadido un cambio de turno en el calendario exacto. Viejo astrocampsummer.org se queda en 2026/8+.
+**Fechas / estado:** Tarifa actual 2027: 12–18 de junio, 19–25 de junio y 25–31 de julio. Ahora no se publica opción de agosto; la antigua discrepancia de 1/2 de agosto queda en el historial y no crea una estancia nueva.
 
-**Precio / año:** 2027 · USD 2 900 / Semana; en rates ajuste USD 250 antes 31 octubre. Aplicación a la solicitud seleccionada para confirmar.
+**Precio / año:** 2027 · USD 2900 por semana de 2027; descuento anticipado actual de 150 hasta el 31 de enero, precio anticipado de 2750. La antigua tarifa de octubre no se aplica automáticamente.
 
 ** Incluida:** Vivienda, alimentación, actividades básicas y equipo; el Junior FAQ no establece nuevos programas obligatorios.
 
@@ -14886,9 +15954,105 @@ España · Alicante · MiCampus 2026; el emplazamiento 2027 aún no ha sido conf
 
 ** Por qué en la selección:** Pabellón científico de corta duración, con fechas reales y tarifas básicas transparentes; la admisión de ambos depende del cumpleaños del menor.
 
+### Análisis editorial
+
+Residencia STEM general para ambos solo después de los siete de Oscar.
+
+**Análisis verificado:** 2026-11-06
+
+**Actividades generales de esparcimiento:** Considerar como alternativa · Estancia científica general con actividades elegibles; el niño debe querer también exterior y residencia.
+
+**Ingeniería, robótica y programación:** Este análisis responde a otro objetivo · Es una estancia general, lingüística o creativa; no se ha establecido un intensivo de robótica ni preparación para una clasificación de liga.
+
+**Práctica de idiomas:** Hay que actualizar las pruebas · Confirmar primero el idioma oral de las actividades y del apoyo al niño en el grupo elegido.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · Astronomía, ciencia y elección de actividades exteriores, artísticas y de cocina. No consta semana robótica ni resultado técnico garantizado.
+
+[fuente oficial](https://astrocamp.org/camp-dates-rates/) · 2026-11-06
+
+[fuente oficial](https://astrocamp.org/camp-overview/one-week-sessions/) · 2026-11-06
+
+[fuente oficial](https://astrocamp.org/parent-guide/) · 2026-11-06
+
+[fuente oficial](https://astrocamp.org/travel/) · 2026-11-06
+
+[fuente oficial](https://astrocamp.org/health-safety/) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · Páginas principales 7–13, Parent Guide aún 7–12: límite superior contradictorio, mínimo siete común. Matvey cumple por edad; Oscar solo después de los siete.
+
+[fuente oficial](https://astrocamp.org/camp-dates-rates/) · 2026-11-06
+
+[fuente oficial](https://astrocamp.org/camp-overview/one-week-sessions/) · 2026-11-06
+
+[fuente oficial](https://astrocamp.org/parent-guide/) · 2026-11-06
+
+[fuente oficial](https://astrocamp.org/travel/) · 2026-11-06
+
+[fuente oficial](https://astrocamp.org/health-safety/) · 2026-11-06
+
+**Idioma del programa concreto:** no se ha establecido · El idioma de la web no acredita el de las actividades. Confirmar EN/ES/RU oral, apoyo a menores y grupo real; hasta entonces no se promete inmersión lingüística.
+
+[fuente oficial](https://astrocamp.org/camp-dates-rates/) · 2026-11-06
+
+[fuente oficial](https://astrocamp.org/camp-overview/one-week-sessions/) · 2026-11-06
+
+[fuente oficial](https://astrocamp.org/parent-guide/) · 2026-11-06
+
+[fuente oficial](https://astrocamp.org/travel/) · 2026-11-06
+
+[fuente oficial](https://astrocamp.org/health-safety/) · 2026-11-06
+
+**Instructores y grupo:** Pruebas parciales · El organizador describe personal formado, socorristas, enfermera de verano y EMT; se desconoce personal de semana concreta.
+
+[fuente oficial](https://astrocamp.org/camp-dates-rates/) · 2026-11-06
+
+[fuente oficial](https://astrocamp.org/camp-overview/one-week-sessions/) · 2026-11-06
+
+[fuente oficial](https://astrocamp.org/parent-guide/) · 2026-11-06
+
+[fuente oficial](https://astrocamp.org/travel/) · 2026-11-06
+
+[fuente oficial](https://astrocamp.org/health-safety/) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Pruebas parciales · Residencia de verano con enfermera registrada y EMT las 24 horas según el organizador; socorristas y personal formado. No se trasladan al turno de verano las reglas de medicación de una visita escolar acompañada.
+
+[fuente oficial](https://astrocamp.org/camp-dates-rates/) · 2026-11-06
+
+[fuente oficial](https://astrocamp.org/camp-overview/one-week-sessions/) · 2026-11-06
+
+[fuente oficial](https://astrocamp.org/parent-guide/) · 2026-11-06
+
+[fuente oficial](https://astrocamp.org/travel/) · 2026-11-06
+
+[fuente oficial](https://astrocamp.org/health-safety/) · 2026-11-06
+
+**Precio y condiciones:** Pruebas parciales · USD 2900 por semana de 2027; descuento anticipado actual de 150 hasta el 31 de enero, precio anticipado de 2750. La antigua tarifa de octubre no se aplica automáticamente. vuelo, seguro y transferencia ONT USD 60 a cada lado sin indicar el año de viaje-page; el resultado 2027 se confirma. USD 300 un anticipo no reembolsable a la cuenta del precio; balance May 1. hasta Feb 1 ¿Qué más ? USD 100 cancellation fee, Feb–Apr USD 200; May 1–14 retenerse 25%, May 15–31 50%, después de June 1 100%. el operador permite una sobretaja regulada hasta el USD 150 con la posibilidad de rechazar. exclusión por separado financial aid no se aplica a la solicitud normal.
+
+[fuente oficial](https://astrocamp.org/camp-dates-rates/) · 2026-11-06
+
+[fuente oficial](https://astrocamp.org/camp-overview/one-week-sessions/) · 2026-11-06
+
+[fuente oficial](https://astrocamp.org/parent-guide/) · 2026-11-06
+
+[fuente oficial](https://astrocamp.org/travel/) · 2026-11-06
+
+[fuente oficial](https://astrocamp.org/health-safety/) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · No se han establecido reseñas independientes de padres ni evaluación externa del turno concreto. Biografías, testimonios y afirmaciones del organizador no constituyen una comprobación independiente.
+
+[fuente oficial](https://astrocamp.org/camp-dates-rates/) · 2026-11-06
+
+[fuente oficial](https://astrocamp.org/camp-overview/one-week-sessions/) · 2026-11-06
+
+[fuente oficial](https://astrocamp.org/parent-guide/) · 2026-11-06
+
+[fuente oficial](https://astrocamp.org/travel/) · 2026-11-06
+
+[fuente oficial](https://astrocamp.org/health-safety/) · 2026-11-06
+
 ### Antes de solicitar plaza
 
-- Confirmar el EN de las clases, la admisión internacional, el inicio exacto de agosto, la edad en la fecha y el paquete final de transfer/insurance.
+- Oscar debe tener siete; confirmar idioma, edad 7–13 o 7–12, actividades concretas y traslado ONT; agosto no anunciado.
 
 ### Junior · 7 días / 6 noches
 
@@ -14922,31 +16086,33 @@ España · Alicante · MiCampus 2026; el emplazamiento 2027 aún no ha sido conf
 
 ### Fuentes
 
-- [2027: cambios, tarifas, pago y cancelación](https://astrocamp.org/camp-dates-rates/) · 2026-10-05
+- [2027: cambios, tarifas, pago y cancelación](https://astrocamp.org/camp-dates-rates/) · 2026-11-06
 
-- [Junior: inclusión y diferencia de fecha/edad](https://astrocamp.org/camp-overview/one-week-sessions/) · 2026-10-05
+- [Junior: inclusión y diferencia de fecha/edad](https://astrocamp.org/camp-overview/one-week-sessions/) · 2026-11-06
 
-- [guía de los padres exactamente 2027](https://astrocamp.org/parent-guide/) · 2026-10-05
+- [guía de los padres exactamente 2027](https://astrocamp.org/parent-guide/) · 2026-11-06
 
-- [ONT transfer y las slots de vuelo permitidas](https://astrocamp.org/travel/) · 2026-10-05
+- [ONT transfer y las slots de vuelo permitidas](https://astrocamp.org/travel/) · 2026-11-06
+
+- [Fuente oficial del programa y condiciones](https://astrocamp.org/health-safety/) · 2026-11-06
 
 ## CP143 · French Woods Festival · Performing Arts Boarding
 
 · Hancock, New York · 199 Bouchoux Brook Rd
 
-** Verificado:** 2026-10-05
+**Se ha comprobado:** 2026-11-06
 
 **Edad:** 7–17; condiciones del programa under nine especificar
 
-** Idioma: ** En la inmersión EN se describe claramente la comunicación en las casas y en las actividades seleccionadas todo el día con los native speakers, es un campo común/arteal, no es un campo de trabajo separado por ESL lessons o una máquina robótica inglesa.
+**Idioma:** El organizador describe expresamente inmersión en inglés para niños extranjeros; proporciona ropa de cama, toallas y lavandería semanal. No es un curso de inglés separado prometido ni garantía de composición del grupo.
 
 ** Programa:** Música, teatro, danza, circo, artes visuales, deportes y otras actividades, seis períodos: tres majors permanentes y tres minors diarios. El menú específico cambia por turnos.
 
-** Residencia:** Pasión; Campers extranjeros son aceptados directamente. El vuelo EWR, el staff recibe a un niño; la página internacional describe la reunión después de Customs.
+**Alojamiento:** Monitores formados de Junior Lodge acompañan a los menores durante el día y ayudan a elegir actividades; las cabañas menores tienen baños propios. Se prohíben dispositivos personales con conexión celular/WiFi; quienes llegan en avión entregan teléfonos a la oficina hasta salir. El correo de cabaña tras 48 horas corresponde a Sessions 1–4; aclarar por separado comunicación y excepciones de la corta Session 5.
 
 **Fechas / estado de la ciudad:** 2027: cuatro de base 3-turnos semanales 6–27 de junio / 27 de junio–18 de julio / 18 de julio–8 de agosto / 8–29 de agosto; las combinaciones 6/9/12 la semana también se publicó.
 
-**Precio / año:** 2027 · 3 semanas early USD 6 700 / 8 000 / 8 800 / 6 700. Después Dec 1: 6 900 / 8 400 / 8 400 / 7 100. Session 3 early Subir late — La discrepancia no se corregía con una suposición.
+**Precio / año:** 2027 · 2027, tres semanas: anticipadas de USD 6700/8000/8000/6700 por sesión, después del 1 de diciembre 6900/8400/8400/7100. La antigua discrepancia de Session 3 queda corregida por la tabla oficial actual: 8000, no los antiguos 8800. Las opciones más largas tienen tarifa propia.
 
 ** Incluye:** Programa de pensiones y actividades seleccionadas; composición completa específica, opciones de pago y exenciones.
 
@@ -14960,9 +16126,149 @@ España · Alicante · MiCampus 2026; el emplazamiento 2027 aún no ha sido conf
 
 ** Por qué en la selección:** Un internado común y de contenido creativo con pruebas directas de la vida en los campamentos ingleses y de la composición internacional.
 
+### Análisis editorial
+
+French Woods · residencia creativa larga con inmersión en inglés
+
+**Análisis verificado:** 2026-11-06
+
+**Actividades generales de esparcimiento:** Considerar como alternativa · Para niños que desean teatro, música, cine o creatividad; el programa no sustituye una liga de ingeniería.
+
+**Práctica de idiomas:** Considerar como alternativa · Inmersión en inglés de participantes internacionales confirmada; comprobar apoyo al menor y composición real del grupo.
+
+**Primer internado:** Este análisis responde a otro objetivo · La prueba semanal exige admisión, anticipo y comunicación propios; no equivale a sesión ordinaria de tres semanas.
+
+**Ingeniería, robótica y programación:** Este análisis responde a otro objetivo · Es una estancia general, lingüística o creativa; no se ha establecido un intensivo de robótica ni preparación para una clasificación de liga.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · Teatro, música, cine, teatro técnico, creatividad y deporte. En sesión ordinaria de tres semanas hay tres major elegidos y tres minor diarios; ejemplos no garantizan todas las actividades de prueba.
+
+[fuente oficial](https://frenchwoods.com/dates-and-rates.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/international-campers.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/program-french-woods.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/transportation.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/session5.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/younger-campers.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/important-staff-bios.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/cell-wi-fi-electronics-policy.htm) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · Normalmente 7–17; Oscar necesita siete y confirmación de programa under-nine. Matvey cumple por edad, pero tres semanas exigen preparación para residencia.
+
+[fuente oficial](https://frenchwoods.com/dates-and-rates.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/international-campers.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/program-french-woods.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/transportation.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/session5.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/younger-campers.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/important-staff-bios.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/cell-wi-fi-electronics-policy.htm) · 2026-11-06
+
+**Idioma del programa concreto:** Condiciones concretas publicadas · El organizador describe expresamente inmersión en inglés para niños extranjeros; proporciona ropa de cama, toallas y lavandería semanal. No es un curso de inglés separado prometido ni garantía de composición del grupo.
+
+[fuente oficial](https://frenchwoods.com/dates-and-rates.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/international-campers.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/program-french-woods.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/transportation.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/session5.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/younger-campers.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/important-staff-bios.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/cell-wi-fi-electronics-policy.htm) · 2026-11-06
+
+**Instructores y grupo:** Pruebas parciales · Biografías públicas describen responsables artísticos experimentados; Junior Lodge acompaña a menores. No es equipo nominal del turno 2027 ni evaluación independiente.
+
+[fuente oficial](https://frenchwoods.com/dates-and-rates.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/international-campers.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/program-french-woods.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/transportation.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/session5.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/younger-campers.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/important-staff-bios.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/cell-wi-fi-electronics-policy.htm) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Pruebas parciales · Monitores formados de Junior Lodge acompañan a los menores durante el día y ayudan a elegir actividades; las cabañas menores tienen baños propios. Se prohíben dispositivos personales con conexión celular/WiFi; quienes llegan en avión entregan teléfonos a la oficina hasta salir. El correo de cabaña tras 48 horas corresponde a Sessions 1–4; aclarar por separado comunicación y excepciones de la corta Session 5.
+
+[fuente oficial](https://frenchwoods.com/dates-and-rates.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/international-campers.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/program-french-woods.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/transportation.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/session5.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/younger-campers.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/important-staff-bios.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/cell-wi-fi-electronics-policy.htm) · 2026-11-06
+
+**Precio y condiciones:** Pruebas parciales · 2027, tres semanas: anticipadas de USD 6700/8000/8000/6700 por sesión, después del 1 de diciembre 6900/8400/8400/7100. La antigua discrepancia de Session 3 queda corregida por la tabla oficial actual: 8000, no los antiguos 8800. Las opciones más largas tienen tarifa propia. No se ha encontrado el precio confirmado del traslado; se proporciona a los niños internacionales ropa de cama/tobles y lavandería semanal. Early rate hasta Dec 1; el anticipo total USD 1 750 por niño. hasta Dec 1 2026 devolución menos 550, hasta Mar 1 2027 menos 800; devoluciones no se otorgan hasta May 1 2027.
+
+[fuente oficial](https://frenchwoods.com/dates-and-rates.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/international-campers.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/program-french-woods.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/transportation.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/session5.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/younger-campers.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/important-staff-bios.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/cell-wi-fi-electronics-policy.htm) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · No se han establecido reseñas independientes de padres ni evaluación externa del turno concreto. Biografías, testimonios y afirmaciones del organizador no constituyen una comprobación independiente.
+
+[fuente oficial](https://frenchwoods.com/dates-and-rates.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/international-campers.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/program-french-woods.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/transportation.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/session5.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/younger-campers.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/important-staff-bios.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/cell-wi-fi-electronics-policy.htm) · 2026-11-06
+
 ### Antes de solicitar plaza
 
-- revisar el precio de la Sesión 3, las condiciones de la sub-nueva, la cuenta completa y el traslado/revocación; la disponibilidad de las majors concretas no se ha prometido.
+- Confirmar condiciones under-nine de Oscar, factura completa, comunicación con el niño y preparación para tres semanas. Session 3 early actual de 8000.
 
 ### Sesión 1 · 3 semanas
 
@@ -14990,7 +16296,7 @@ España · Alicante · MiCampus 2026; el emplazamiento 2027 aún no ha sido conf
 
 **lugar:** Hancock, New York · 199 Bouchoux Brook Rd
 
-**Precio:** USD 8 800 / después de Dec 1 8 400 · confirmar
+**Precio:** USD 8000 hasta el 1 de diciembre / 8400 después; discrepancia anterior resuelta
 
 [fuente](https://frenchwoods.com/dates-and-rates.htm)
 
@@ -15068,27 +16374,35 @@ España · Alicante · MiCampus 2026; el emplazamiento 2027 aún no ha sido conf
 
 - [edad y composición internacional](https://frenchwoods.com/) · 2026-10-05
 
-- [el cuadro exacto 2027](https://frenchwoods.com/dates-and-rates.htm) · 2026-10-05
+- [el cuadro exacto 2027](https://frenchwoods.com/dates-and-rates.htm) · 2026-11-06
 
-- [EN- sumergimiento y campers extranjeros](https://frenchwoods.com/international-campers.htm) · 2026-10-05
+- [EN- sumergimiento y campers extranjeros](https://frenchwoods.com/international-campers.htm) · 2026-11-06
 
-- [Majors/minors y menú cambiante](https://frenchwoods.com/program-french-woods.htm) · 2026-10-05
+- [Majors/minors y menú cambiante](https://frenchwoods.com/program-french-woods.htm) · 2026-11-06
 
-- [transfer y EWR](https://frenchwoods.com/transportation.htm) · 2026-10-05
+- [transfer y EWR](https://frenchwoods.com/transportation.htm) · 2026-11-06
+
+- [Fuente oficial del programa y condiciones](https://frenchwoods.com/session5.htm) · 2026-11-06
+
+- [Fuente oficial del programa y condiciones](https://frenchwoods.com/younger-campers.htm) · 2026-11-06
+
+- [Fuente oficial del programa y condiciones](https://frenchwoods.com/important-staff-bios.htm) · 2026-11-06
+
+- [Fuente oficial del programa y condiciones](https://frenchwoods.com/cell-wi-fi-electronics-policy.htm) · 2026-11-06
 
 ## CP144 · French Woods Festival · One-Week Trial
 
 · Hancock, New York · 199 Bouchoux Brook Rd
 
-** Verificado:** 2026-10-05
+**Se ha comprobado:** 2026-11-06
 
 * Edad:** Campamento principal 7*17; semana de prueba para los nuevos campamentos; under nine para negociar
 
-** Idioma: ** En la inmersión EN se describe claramente la comunicación en las casas y en las actividades seleccionadas todo el día con los native speakers, es un campo común/arteal, no es un campo de trabajo separado por ESL lessons o una máquina robótica inglesa.
+**Idioma:** El organizador describe expresamente inmersión en inglés para niños extranjeros; proporciona ropa de cama, toallas y lavandería semanal. No es un curso de inglés separado prometido ni garantía de composición del grupo.
 
 ** Programa:** Conocer brevemente la misma elección de majors/minors creativos. La página de presentación también menciona los regresos, pero el cuadro 2027 llama Session 5 para los nuevos campers: eligibility confirmar. La mayoría de los viajes después del show del sábado; la tabla de tarifas termina el domingo.
 
-** Residencia:** Pasión 1 semana; formato corto no elimina la edad mínima y la armonización under-nine.
+**Alojamiento:** Monitores formados de Junior Lodge acompañan a los menores durante el día y ayudan a elegir actividades; las cabañas menores tienen baños propios. Se prohíben dispositivos personales con conexión celular/WiFi; quienes llegan en avión entregan teléfonos a la oficina hasta salir. El correo de cabaña tras 48 horas corresponde a Sessions 1–4; aclarar por separado comunicación y excepciones de la corta Session 5.
 
 **Fechas / situación:** 30 agosto–5 septiembre 2027 hasta rates; Fecha efectiva de salida al final de la semana de prueba.
 
@@ -15106,9 +16420,149 @@ España · Alicante · MiCampus 2026; el emplazamiento 2027 aún no ha sido conf
 
 ** Por qué en la selección: ** Una muestra más blanda de la pensión internacional común antes de los largos turnos; un precio evidente de un formato diferente.
 
+### Análisis editorial
+
+French Woods · prueba creativa corta con anticipo sin resolver
+
+**Análisis verificado:** 2026-11-06
+
+**Actividades generales de esparcimiento:** Considerar como alternativa · Para niños que desean teatro, música, cine o creatividad; el programa no sustituye una liga de ingeniería.
+
+**Práctica de idiomas:** Considerar como alternativa · Inmersión en inglés de participantes internacionales confirmada; comprobar apoyo al menor y composición real del grupo.
+
+**Primer internado:** Considerar como alternativa · La prueba semanal exige admisión, anticipo y comunicación propios; no equivale a sesión ordinaria de tres semanas.
+
+**Ingeniería, robótica y programación:** Este análisis responde a otro objetivo · Es una estancia general, lingüística o creativa; no se ha establecido un intensivo de robótica ni preparación para una clasificación de liga.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · Teatro, música, cine, teatro técnico, creatividad y deporte. En sesión ordinaria de tres semanas hay tres major elegidos y tres minor diarios; ejemplos no garantizan todas las actividades de prueba.
+
+[fuente oficial](https://frenchwoods.com/dates-and-rates.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/international-campers.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/program-french-woods.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/transportation.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/session5.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/younger-campers.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/important-staff-bios.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/cell-wi-fi-electronics-policy.htm) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · Normalmente 7–17, condiciones under-nine aparte. Oscar solo después de los siete; Trial 2027 se indica para nuevos y la página general antigua admite repetidores: conflicto sin resolver.
+
+[fuente oficial](https://frenchwoods.com/dates-and-rates.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/international-campers.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/program-french-woods.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/transportation.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/session5.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/younger-campers.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/important-staff-bios.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/cell-wi-fi-electronics-policy.htm) · 2026-11-06
+
+**Idioma del programa concreto:** Condiciones concretas publicadas · El organizador describe expresamente inmersión en inglés para niños extranjeros; proporciona ropa de cama, toallas y lavandería semanal. No es un curso de inglés separado prometido ni garantía de composición del grupo.
+
+[fuente oficial](https://frenchwoods.com/dates-and-rates.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/international-campers.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/program-french-woods.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/transportation.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/session5.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/younger-campers.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/important-staff-bios.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/cell-wi-fi-electronics-policy.htm) · 2026-11-06
+
+**Instructores y grupo:** Pruebas parciales · Biografías públicas describen responsables artísticos experimentados; Junior Lodge acompaña a menores. No es equipo nominal del turno 2027 ni evaluación independiente.
+
+[fuente oficial](https://frenchwoods.com/dates-and-rates.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/international-campers.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/program-french-woods.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/transportation.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/session5.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/younger-campers.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/important-staff-bios.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/cell-wi-fi-electronics-policy.htm) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Pruebas parciales · Monitores formados de Junior Lodge acompañan a los menores durante el día y ayudan a elegir actividades; las cabañas menores tienen baños propios. Se prohíben dispositivos personales con conexión celular/WiFi; quienes llegan en avión entregan teléfonos a la oficina hasta salir. El correo de cabaña tras 48 horas corresponde a Sessions 1–4; aclarar por separado comunicación y excepciones de la corta Session 5.
+
+[fuente oficial](https://frenchwoods.com/dates-and-rates.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/international-campers.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/program-french-woods.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/transportation.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/session5.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/younger-campers.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/important-staff-bios.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/cell-wi-fi-electronics-policy.htm) · 2026-11-06
+
+**Precio y condiciones:** Pruebas parciales · USD 2 000 early / USD 2 400 después del 1 de diciembre . No se ha encontrado el precio confirmado del traslado; se proporciona a los niños internacionales ropa de cama/tobles y lavandería semanal. la prueba sin especificar el año de la página dice USD 250 depósito, la tabla general 2027 USD 1 750: el adiantamiento / devolución de prueba aplicable aún no se sabe. no hacemos ambas contribuciones.
+
+[fuente oficial](https://frenchwoods.com/dates-and-rates.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/international-campers.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/program-french-woods.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/transportation.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/session5.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/younger-campers.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/important-staff-bios.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/cell-wi-fi-electronics-policy.htm) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · No se han establecido reseñas independientes de padres ni evaluación externa del turno concreto. Biografías, testimonios y afirmaciones del organizador no constituyen una comprobación independiente.
+
+[fuente oficial](https://frenchwoods.com/dates-and-rates.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/international-campers.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/program-french-woods.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/transportation.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/session5.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/younger-campers.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/important-staff-bios.htm) · 2026-11-06
+
+[fuente oficial](https://frenchwoods.com/cell-wi-fi-electronics-policy.htm) · 2026-11-06
+
 ### Antes de solicitar plaza
 
-- confirmar la edad mínima, es decir, el Trial, la admisión de los niños nuevos/que regresan, el adelanto y el día final de salida/transferencia.
+- Confirmar admisión under-nine y new-camper, anticipo aplicable de 250 o 1750 y comunicación de Session 5. No sumar ambos anticipos.
 
 ### Session 5 · new campers / Trial
 
@@ -15122,15 +16576,23 @@ España · Alicante · MiCampus 2026; el emplazamiento 2027 aún no ha sido conf
 
 ### Fuentes
 
-- [2027: precio de prueba y fechas separadas](https://frenchwoods.com/dates-and-rates.htm) · 2026-10-05
+- [2027: precio de prueba y fechas separadas](https://frenchwoods.com/dates-and-rates.htm) · 2026-11-06
 
-- [programa de prueba y otro depósito](https://frenchwoods.com/session5.htm) · 2026-10-05
+- [programa de prueba y otro depósito](https://frenchwoods.com/session5.htm) · 2026-11-06
 
 - [edad del campamento principal](https://frenchwoods.com/) · 2026-10-05
 
-- [Convivencia en inglés en el campamento](https://frenchwoods.com/international-campers.htm) · 2026-10-05
+- [Convivencia en inglés en el campamento](https://frenchwoods.com/international-campers.htm) · 2026-11-06
 
-- [EWR y transporte](https://frenchwoods.com/transportation.htm) · 2026-10-05
+- [EWR y transporte](https://frenchwoods.com/transportation.htm) · 2026-11-06
+
+- [Fuente oficial del programa y condiciones](https://frenchwoods.com/program-french-woods.htm) · 2026-11-06
+
+- [Fuente oficial del programa y condiciones](https://frenchwoods.com/younger-campers.htm) · 2026-11-06
+
+- [Fuente oficial del programa y condiciones](https://frenchwoods.com/important-staff-bios.htm) · 2026-11-06
+
+- [Fuente oficial del programa y condiciones](https://frenchwoods.com/cell-wi-fi-electronics-policy.htm) · 2026-11-06
 
 ## CP145 · TIC · Robotics & Athletics
 

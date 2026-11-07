@@ -4,6 +4,7 @@ import zipfile
 from xml.sax.saxutils import escape
 
 HEADERS={
+ 'venue_status':'Estado del recinto',
  'previous_programme':'Descripción anterior del programa','previous_source_checks':'Historial de verificación de fuentes','source_refresh':'Actualización de fuentes',
  'local_calendar_key':'Clave del calendario local','local_programme':'Programa local','season':'Temporada',
  'route_iso':'ISO del país de la ruta',

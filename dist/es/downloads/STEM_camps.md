@@ -10062,13 +10062,13 @@ Edad: Junior Space Camp 9–11; en 9 Los años se necesitan ahora./Finalizado Gr
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: No ahora; la edad futura
 Formato: residente
-Idioma: El actual weeklong FAQ permite a los niños extranjeros y exige fluent conversational English; documentos de entrada válidos por separado.
+Idioma: Se admiten niños extranjeros; el weekly FAQ exige inglés conversacional fluido. No se promete traducción ni grupo separado en español.
 Marca de idioma: primary; soporte: no declarado
-Costo: 2027 - No se ha establecido en la página de lectura la tarifa completa del Campus Espacial seleccionado.
+Precio: 2027 · Catálogo oficial actual de 2027: USD 1699 por niño y semana; confirmar el contenido final de la factura.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: La edad es la adecuada; Si aún no lo es 9 años — Ver la reclamación 4 Clase. Oscar: Más joven 9 años. Gastos adicionales: Airport HSV round-trip USD120; extra arrival/departure day hastaUSD150 Cartillas aéreas, según sea necesario; Seguro/Gastos personales por separado. Pago: FAQ: en caso de cancelación8+semanas 90% Pagadas tuition MenosUSD100 non-refundable registration fee; Supresión tardía y calendario de pagos. Una transferencia gratuita, más tardeUSD25; solicitud mínima por2semanas.
+Limitaciones: Matvey: En 2027 tendrá 9–10 años; a los nueve se exige cursar o haber terminado Grade 4. El curso es desconocido y la experiencia externa no sustituye el requisito escolar. Oscar: más joven 9 años. Suplementos: HSV: USD 100 por traslado de ida y vuelta o 50 por trayecto. Día de llegada anticipada y de salida tardía a USD 100 cada uno; entrega temprana del domingo USD 40. Son servicios según necesidad; vuelos, póliza y gastos personales aparte. Pago: Cancelación con ocho semanas o más: 90% del tuition pagado menos USD 200 de inscripción no reembolsable; confirmar en factura si la inscripción está incluida en USD 1699. Un cambio gratuito, el siguiente USD 25, solicitud con al menos dos semanas. Los formularios médicos y de transporte se exigen 30 días antes; no es cierre de inscripción.
 Fuente: https://rocketcenter.com/spacecamp/space-camp/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-06
 
 ### CP036-20270530-20270604 · U.S. Space & Rocket Center · Space Camp · 2027-05-30–2027-06-04
 
@@ -10078,13 +10078,13 @@ Edad: Junior Space Camp 9–11; en 9 Los años se necesitan ahora./Finalizado Gr
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: No ahora; la edad futura
 Formato: residente
-Idioma: El actual weeklong FAQ permite a los niños extranjeros y exige fluent conversational English; documentos de entrada válidos por separado.
+Idioma: Se admiten niños extranjeros; el weekly FAQ exige inglés conversacional fluido. No se promete traducción ni grupo separado en español.
 Marca de idioma: primary; soporte: no declarado
-Costo: 2027 - No se ha establecido en la página de lectura la tarifa completa del Campus Espacial seleccionado.
+Precio: 2027 · Catálogo oficial actual de 2027: USD 1699 por niño y semana; confirmar el contenido final de la factura.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: La edad es la adecuada; Si aún no lo es 9 años — Ver la reclamación 4 Clase. Oscar: Más joven 9 años. Gastos adicionales: Airport HSV round-trip USD120; extra arrival/departure day hastaUSD150 Cartillas aéreas, según sea necesario; Seguro/Gastos personales por separado. Pago: FAQ: en caso de cancelación8+semanas 90% Pagadas tuition MenosUSD100 non-refundable registration fee; Supresión tardía y calendario de pagos. Una transferencia gratuita, más tardeUSD25; solicitud mínima por2semanas.
+Limitaciones: Matvey: En 2027 tendrá 9–10 años; a los nueve se exige cursar o haber terminado Grade 4. El curso es desconocido y la experiencia externa no sustituye el requisito escolar. Oscar: más joven 9 años. Suplementos: HSV: USD 100 por traslado de ida y vuelta o 50 por trayecto. Día de llegada anticipada y de salida tardía a USD 100 cada uno; entrega temprana del domingo USD 40. Son servicios según necesidad; vuelos, póliza y gastos personales aparte. Pago: Cancelación con ocho semanas o más: 90% del tuition pagado menos USD 200 de inscripción no reembolsable; confirmar en factura si la inscripción está incluida en USD 1699. Un cambio gratuito, el siguiente USD 25, solicitud con al menos dos semanas. Los formularios médicos y de transporte se exigen 30 días antes; no es cierre de inscripción.
 Fuente: https://rocketcenter.com/spacecamp/space-camp/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-06
 
 ### CP036-20270606-20270611 · U.S. Space & Rocket Center · Space Camp · 2027-06-06–2027-06-11
 
@@ -10094,13 +10094,13 @@ Edad: Junior Space Camp 9–11; en 9 Los años se necesitan ahora./Finalizado Gr
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: No ahora; la edad futura
 Formato: residente
-Idioma: El actual weeklong FAQ permite a los niños extranjeros y exige fluent conversational English; documentos de entrada válidos por separado.
+Idioma: Se admiten niños extranjeros; el weekly FAQ exige inglés conversacional fluido. No se promete traducción ni grupo separado en español.
 Marca de idioma: primary; soporte: no declarado
-Costo: 2027 - No se ha establecido en la página de lectura la tarifa completa del Campus Espacial seleccionado.
+Precio: 2027 · Catálogo oficial actual de 2027: USD 1699 por niño y semana; confirmar el contenido final de la factura.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: La edad es la adecuada; Si aún no lo es 9 años — Ver la reclamación 4 Clase. Oscar: Más joven 9 años. Gastos adicionales: Airport HSV round-trip USD120; extra arrival/departure day hastaUSD150 Cartillas aéreas, según sea necesario; Seguro/Gastos personales por separado. Pago: FAQ: en caso de cancelación8+semanas 90% Pagadas tuition MenosUSD100 non-refundable registration fee; Supresión tardía y calendario de pagos. Una transferencia gratuita, más tardeUSD25; solicitud mínima por2semanas.
+Limitaciones: Matvey: En 2027 tendrá 9–10 años; a los nueve se exige cursar o haber terminado Grade 4. El curso es desconocido y la experiencia externa no sustituye el requisito escolar. Oscar: más joven 9 años. Suplementos: HSV: USD 100 por traslado de ida y vuelta o 50 por trayecto. Día de llegada anticipada y de salida tardía a USD 100 cada uno; entrega temprana del domingo USD 40. Son servicios según necesidad; vuelos, póliza y gastos personales aparte. Pago: Cancelación con ocho semanas o más: 90% del tuition pagado menos USD 200 de inscripción no reembolsable; confirmar en factura si la inscripción está incluida en USD 1699. Un cambio gratuito, el siguiente USD 25, solicitud con al menos dos semanas. Los formularios médicos y de transporte se exigen 30 días antes; no es cierre de inscripción.
 Fuente: https://rocketcenter.com/spacecamp/space-camp/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-06
 
 ### CP036-20270613-20270618 · U.S. Space & Rocket Center · Space Camp · 2027-06-13–2027-06-18
 
@@ -10110,13 +10110,13 @@ Edad: Junior Space Camp 9–11; en 9 Los años se necesitan ahora./Finalizado Gr
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: No ahora; la edad futura
 Formato: residente
-Idioma: El actual weeklong FAQ permite a los niños extranjeros y exige fluent conversational English; documentos de entrada válidos por separado.
+Idioma: Se admiten niños extranjeros; el weekly FAQ exige inglés conversacional fluido. No se promete traducción ni grupo separado en español.
 Marca de idioma: primary; soporte: no declarado
-Costo: 2027 - No se ha establecido en la página de lectura la tarifa completa del Campus Espacial seleccionado.
+Precio: 2027 · Catálogo oficial actual de 2027: USD 1699 por niño y semana; confirmar el contenido final de la factura.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: La edad es la adecuada; Si aún no lo es 9 años — Ver la reclamación 4 Clase. Oscar: Más joven 9 años. Gastos adicionales: Airport HSV round-trip USD120; extra arrival/departure day hastaUSD150 Cartillas aéreas, según sea necesario; Seguro/Gastos personales por separado. Pago: FAQ: en caso de cancelación8+semanas 90% Pagadas tuition MenosUSD100 non-refundable registration fee; Supresión tardía y calendario de pagos. Una transferencia gratuita, más tardeUSD25; solicitud mínima por2semanas.
+Limitaciones: Matvey: En 2027 tendrá 9–10 años; a los nueve se exige cursar o haber terminado Grade 4. El curso es desconocido y la experiencia externa no sustituye el requisito escolar. Oscar: más joven 9 años. Suplementos: HSV: USD 100 por traslado de ida y vuelta o 50 por trayecto. Día de llegada anticipada y de salida tardía a USD 100 cada uno; entrega temprana del domingo USD 40. Son servicios según necesidad; vuelos, póliza y gastos personales aparte. Pago: Cancelación con ocho semanas o más: 90% del tuition pagado menos USD 200 de inscripción no reembolsable; confirmar en factura si la inscripción está incluida en USD 1699. Un cambio gratuito, el siguiente USD 25, solicitud con al menos dos semanas. Los formularios médicos y de transporte se exigen 30 días antes; no es cierre de inscripción.
 Fuente: https://rocketcenter.com/spacecamp/space-camp/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-06
 
 ### CP036-20270620-20270625 · U.S. Space & Rocket Center · Space Camp · 2027-06-20–2027-06-25
 
@@ -10126,13 +10126,13 @@ Edad: Junior Space Camp 9–11; en 9 Los años se necesitan ahora./Finalizado Gr
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: No ahora; la edad futura
 Formato: residente
-Idioma: El actual weeklong FAQ permite a los niños extranjeros y exige fluent conversational English; documentos de entrada válidos por separado.
+Idioma: Se admiten niños extranjeros; el weekly FAQ exige inglés conversacional fluido. No se promete traducción ni grupo separado en español.
 Marca de idioma: primary; soporte: no declarado
-Costo: 2027 - No se ha establecido en la página de lectura la tarifa completa del Campus Espacial seleccionado.
+Precio: 2027 · Catálogo oficial actual de 2027: USD 1699 por niño y semana; confirmar el contenido final de la factura.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: La edad es la adecuada; Si aún no lo es 9 años — Ver la reclamación 4 Clase. Oscar: Más joven 9 años. Gastos adicionales: Airport HSV round-trip USD120; extra arrival/departure day hastaUSD150 Cartillas aéreas, según sea necesario; Seguro/Gastos personales por separado. Pago: FAQ: en caso de cancelación8+semanas 90% Pagadas tuition MenosUSD100 non-refundable registration fee; Supresión tardía y calendario de pagos. Una transferencia gratuita, más tardeUSD25; solicitud mínima por2semanas.
+Limitaciones: Matvey: En 2027 tendrá 9–10 años; a los nueve se exige cursar o haber terminado Grade 4. El curso es desconocido y la experiencia externa no sustituye el requisito escolar. Oscar: más joven 9 años. Suplementos: HSV: USD 100 por traslado de ida y vuelta o 50 por trayecto. Día de llegada anticipada y de salida tardía a USD 100 cada uno; entrega temprana del domingo USD 40. Son servicios según necesidad; vuelos, póliza y gastos personales aparte. Pago: Cancelación con ocho semanas o más: 90% del tuition pagado menos USD 200 de inscripción no reembolsable; confirmar en factura si la inscripción está incluida en USD 1699. Un cambio gratuito, el siguiente USD 25, solicitud con al menos dos semanas. Los formularios médicos y de transporte se exigen 30 días antes; no es cierre de inscripción.
 Fuente: https://rocketcenter.com/spacecamp/space-camp/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-06
 
 ### CP036-20270627-20270702 · U.S. Space & Rocket Center · Space Camp · 2027-06-27–2027-07-02
 
@@ -10142,13 +10142,13 @@ Edad: Junior Space Camp 9–11; en 9 Los años se necesitan ahora./Finalizado Gr
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: No ahora; la edad futura
 Formato: residente
-Idioma: El actual weeklong FAQ permite a los niños extranjeros y exige fluent conversational English; documentos de entrada válidos por separado.
+Idioma: Se admiten niños extranjeros; el weekly FAQ exige inglés conversacional fluido. No se promete traducción ni grupo separado en español.
 Marca de idioma: primary; soporte: no declarado
-Costo: 2027 - No se ha establecido en la página de lectura la tarifa completa del Campus Espacial seleccionado.
+Precio: 2027 · Catálogo oficial actual de 2027: USD 1699 por niño y semana; confirmar el contenido final de la factura.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: La edad es la adecuada; Si aún no lo es 9 años — Ver la reclamación 4 Clase. Oscar: Más joven 9 años. Gastos adicionales: Airport HSV round-trip USD120; extra arrival/departure day hastaUSD150 Cartillas aéreas, según sea necesario; Seguro/Gastos personales por separado. Pago: FAQ: en caso de cancelación8+semanas 90% Pagadas tuition MenosUSD100 non-refundable registration fee; Supresión tardía y calendario de pagos. Una transferencia gratuita, más tardeUSD25; solicitud mínima por2semanas.
+Limitaciones: Matvey: En 2027 tendrá 9–10 años; a los nueve se exige cursar o haber terminado Grade 4. El curso es desconocido y la experiencia externa no sustituye el requisito escolar. Oscar: más joven 9 años. Suplementos: HSV: USD 100 por traslado de ida y vuelta o 50 por trayecto. Día de llegada anticipada y de salida tardía a USD 100 cada uno; entrega temprana del domingo USD 40. Son servicios según necesidad; vuelos, póliza y gastos personales aparte. Pago: Cancelación con ocho semanas o más: 90% del tuition pagado menos USD 200 de inscripción no reembolsable; confirmar en factura si la inscripción está incluida en USD 1699. Un cambio gratuito, el siguiente USD 25, solicitud con al menos dos semanas. Los formularios médicos y de transporte se exigen 30 días antes; no es cierre de inscripción.
 Fuente: https://rocketcenter.com/spacecamp/space-camp/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-06
 
 ### CP036-20270704-20270709 · U.S. Space & Rocket Center · Space Camp · 2027-07-04–2027-07-09
 
@@ -10158,13 +10158,13 @@ Edad: Junior Space Camp 9–11; en 9 Los años se necesitan ahora./Finalizado Gr
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: No ahora; la edad futura
 Formato: residente
-Idioma: El actual weeklong FAQ permite a los niños extranjeros y exige fluent conversational English; documentos de entrada válidos por separado.
+Idioma: Se admiten niños extranjeros; el weekly FAQ exige inglés conversacional fluido. No se promete traducción ni grupo separado en español.
 Marca de idioma: primary; soporte: no declarado
-Costo: 2027 - No se ha establecido en la página de lectura la tarifa completa del Campus Espacial seleccionado.
+Precio: 2027 · Catálogo oficial actual de 2027: USD 1699 por niño y semana; confirmar el contenido final de la factura.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: La edad es la adecuada; Si aún no lo es 9 años — Ver la reclamación 4 Clase. Oscar: Más joven 9 años. Gastos adicionales: Airport HSV round-trip USD120; extra arrival/departure day hastaUSD150 Cartillas aéreas, según sea necesario; Seguro/Gastos personales por separado. Pago: FAQ: en caso de cancelación8+semanas 90% Pagadas tuition MenosUSD100 non-refundable registration fee; Supresión tardía y calendario de pagos. Una transferencia gratuita, más tardeUSD25; solicitud mínima por2semanas.
+Limitaciones: Matvey: En 2027 tendrá 9–10 años; a los nueve se exige cursar o haber terminado Grade 4. El curso es desconocido y la experiencia externa no sustituye el requisito escolar. Oscar: más joven 9 años. Suplementos: HSV: USD 100 por traslado de ida y vuelta o 50 por trayecto. Día de llegada anticipada y de salida tardía a USD 100 cada uno; entrega temprana del domingo USD 40. Son servicios según necesidad; vuelos, póliza y gastos personales aparte. Pago: Cancelación con ocho semanas o más: 90% del tuition pagado menos USD 200 de inscripción no reembolsable; confirmar en factura si la inscripción está incluida en USD 1699. Un cambio gratuito, el siguiente USD 25, solicitud con al menos dos semanas. Los formularios médicos y de transporte se exigen 30 días antes; no es cierre de inscripción.
 Fuente: https://rocketcenter.com/spacecamp/space-camp/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-06
 
 ### CP036-20270711-20270716 · U.S. Space & Rocket Center · Space Camp · 2027-07-11–2027-07-16
 
@@ -10174,13 +10174,13 @@ Edad: Junior Space Camp 9–11; en 9 Los años se necesitan ahora./Finalizado Gr
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: No ahora; la edad futura
 Formato: residente
-Idioma: El actual weeklong FAQ permite a los niños extranjeros y exige fluent conversational English; documentos de entrada válidos por separado.
+Idioma: Se admiten niños extranjeros; el weekly FAQ exige inglés conversacional fluido. No se promete traducción ni grupo separado en español.
 Marca de idioma: primary; soporte: no declarado
-Costo: 2027 - No se ha establecido en la página de lectura la tarifa completa del Campus Espacial seleccionado.
+Precio: 2027 · Catálogo oficial actual de 2027: USD 1699 por niño y semana; confirmar el contenido final de la factura.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: La edad es la adecuada; Si aún no lo es 9 años — Ver la reclamación 4 Clase. Oscar: Más joven 9 años. Gastos adicionales: Airport HSV round-trip USD120; extra arrival/departure day hastaUSD150 Cartillas aéreas, según sea necesario; Seguro/Gastos personales por separado. Pago: FAQ: en caso de cancelación8+semanas 90% Pagadas tuition MenosUSD100 non-refundable registration fee; Supresión tardía y calendario de pagos. Una transferencia gratuita, más tardeUSD25; solicitud mínima por2semanas.
+Limitaciones: Matvey: En 2027 tendrá 9–10 años; a los nueve se exige cursar o haber terminado Grade 4. El curso es desconocido y la experiencia externa no sustituye el requisito escolar. Oscar: más joven 9 años. Suplementos: HSV: USD 100 por traslado de ida y vuelta o 50 por trayecto. Día de llegada anticipada y de salida tardía a USD 100 cada uno; entrega temprana del domingo USD 40. Son servicios según necesidad; vuelos, póliza y gastos personales aparte. Pago: Cancelación con ocho semanas o más: 90% del tuition pagado menos USD 200 de inscripción no reembolsable; confirmar en factura si la inscripción está incluida en USD 1699. Un cambio gratuito, el siguiente USD 25, solicitud con al menos dos semanas. Los formularios médicos y de transporte se exigen 30 días antes; no es cierre de inscripción.
 Fuente: https://rocketcenter.com/spacecamp/space-camp/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-06
 
 ### CP036-20270718-20270723 · U.S. Space & Rocket Center · Space Camp · 2027-07-18–2027-07-23
 
@@ -10190,13 +10190,13 @@ Edad: Junior Space Camp 9–11; en 9 Los años se necesitan ahora./Finalizado Gr
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: No ahora; la edad futura
 Formato: residente
-Idioma: El actual weeklong FAQ permite a los niños extranjeros y exige fluent conversational English; documentos de entrada válidos por separado.
+Idioma: Se admiten niños extranjeros; el weekly FAQ exige inglés conversacional fluido. No se promete traducción ni grupo separado en español.
 Marca de idioma: primary; soporte: no declarado
-Costo: 2027 - No se ha establecido en la página de lectura la tarifa completa del Campus Espacial seleccionado.
+Precio: 2027 · Catálogo oficial actual de 2027: USD 1699 por niño y semana; confirmar el contenido final de la factura.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: La edad es la adecuada; Si aún no lo es 9 años — Ver la reclamación 4 Clase. Oscar: Más joven 9 años. Gastos adicionales: Airport HSV round-trip USD120; extra arrival/departure day hastaUSD150 Cartillas aéreas, según sea necesario; Seguro/Gastos personales por separado. Pago: FAQ: en caso de cancelación8+semanas 90% Pagadas tuition MenosUSD100 non-refundable registration fee; Supresión tardía y calendario de pagos. Una transferencia gratuita, más tardeUSD25; solicitud mínima por2semanas.
+Limitaciones: Matvey: En 2027 tendrá 9–10 años; a los nueve se exige cursar o haber terminado Grade 4. El curso es desconocido y la experiencia externa no sustituye el requisito escolar. Oscar: más joven 9 años. Suplementos: HSV: USD 100 por traslado de ida y vuelta o 50 por trayecto. Día de llegada anticipada y de salida tardía a USD 100 cada uno; entrega temprana del domingo USD 40. Son servicios según necesidad; vuelos, póliza y gastos personales aparte. Pago: Cancelación con ocho semanas o más: 90% del tuition pagado menos USD 200 de inscripción no reembolsable; confirmar en factura si la inscripción está incluida en USD 1699. Un cambio gratuito, el siguiente USD 25, solicitud con al menos dos semanas. Los formularios médicos y de transporte se exigen 30 días antes; no es cierre de inscripción.
 Fuente: https://rocketcenter.com/spacecamp/space-camp/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-06
 
 ### CP036-20270725-20270730 · U.S. Space & Rocket Center · Space Camp · 2027-07-25–2027-07-30
 
@@ -10206,13 +10206,13 @@ Edad: Junior Space Camp 9–11; en 9 Los años se necesitan ahora./Finalizado Gr
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: No ahora; la edad futura
 Formato: residente
-Idioma: El actual weeklong FAQ permite a los niños extranjeros y exige fluent conversational English; documentos de entrada válidos por separado.
+Idioma: Se admiten niños extranjeros; el weekly FAQ exige inglés conversacional fluido. No se promete traducción ni grupo separado en español.
 Marca de idioma: primary; soporte: no declarado
-Costo: 2027 - No se ha establecido en la página de lectura la tarifa completa del Campus Espacial seleccionado.
+Precio: 2027 · Catálogo oficial actual de 2027: USD 1699 por niño y semana; confirmar el contenido final de la factura.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: La edad es la adecuada; Si aún no lo es 9 años — Ver la reclamación 4 Clase. Oscar: Más joven 9 años. Gastos adicionales: Airport HSV round-trip USD120; extra arrival/departure day hastaUSD150 Cartillas aéreas, según sea necesario; Seguro/Gastos personales por separado. Pago: FAQ: en caso de cancelación8+semanas 90% Pagadas tuition MenosUSD100 non-refundable registration fee; Supresión tardía y calendario de pagos. Una transferencia gratuita, más tardeUSD25; solicitud mínima por2semanas.
+Limitaciones: Matvey: En 2027 tendrá 9–10 años; a los nueve se exige cursar o haber terminado Grade 4. El curso es desconocido y la experiencia externa no sustituye el requisito escolar. Oscar: más joven 9 años. Suplementos: HSV: USD 100 por traslado de ida y vuelta o 50 por trayecto. Día de llegada anticipada y de salida tardía a USD 100 cada uno; entrega temprana del domingo USD 40. Son servicios según necesidad; vuelos, póliza y gastos personales aparte. Pago: Cancelación con ocho semanas o más: 90% del tuition pagado menos USD 200 de inscripción no reembolsable; confirmar en factura si la inscripción está incluida en USD 1699. Un cambio gratuito, el siguiente USD 25, solicitud con al menos dos semanas. Los formularios médicos y de transporte se exigen 30 días antes; no es cierre de inscripción.
 Fuente: https://rocketcenter.com/spacecamp/space-camp/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-06
 
 ### CP036-20270801-20270806 · U.S. Space & Rocket Center · Space Camp · 2027-08-01–2027-08-06
 
@@ -10222,13 +10222,13 @@ Edad: Junior Space Camp 9–11; en 9 Los años se necesitan ahora./Finalizado Gr
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: No ahora; la edad futura
 Formato: residente
-Idioma: El actual weeklong FAQ permite a los niños extranjeros y exige fluent conversational English; documentos de entrada válidos por separado.
+Idioma: Se admiten niños extranjeros; el weekly FAQ exige inglés conversacional fluido. No se promete traducción ni grupo separado en español.
 Marca de idioma: primary; soporte: no declarado
-Costo: 2027 - No se ha establecido en la página de lectura la tarifa completa del Campus Espacial seleccionado.
+Precio: 2027 · Catálogo oficial actual de 2027: USD 1699 por niño y semana; confirmar el contenido final de la factura.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: La edad es la adecuada; Si aún no lo es 9 años — Ver la reclamación 4 Clase. Oscar: Más joven 9 años. Gastos adicionales: Airport HSV round-trip USD120; extra arrival/departure day hastaUSD150 Cartillas aéreas, según sea necesario; Seguro/Gastos personales por separado. Pago: FAQ: en caso de cancelación8+semanas 90% Pagadas tuition MenosUSD100 non-refundable registration fee; Supresión tardía y calendario de pagos. Una transferencia gratuita, más tardeUSD25; solicitud mínima por2semanas.
+Limitaciones: Matvey: En 2027 tendrá 9–10 años; a los nueve se exige cursar o haber terminado Grade 4. El curso es desconocido y la experiencia externa no sustituye el requisito escolar. Oscar: más joven 9 años. Suplementos: HSV: USD 100 por traslado de ida y vuelta o 50 por trayecto. Día de llegada anticipada y de salida tardía a USD 100 cada uno; entrega temprana del domingo USD 40. Son servicios según necesidad; vuelos, póliza y gastos personales aparte. Pago: Cancelación con ocho semanas o más: 90% del tuition pagado menos USD 200 de inscripción no reembolsable; confirmar en factura si la inscripción está incluida en USD 1699. Un cambio gratuito, el siguiente USD 25, solicitud con al menos dos semanas. Los formularios médicos y de transporte se exigen 30 días antes; no es cierre de inscripción.
 Fuente: https://rocketcenter.com/spacecamp/space-camp/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-06
 
 ### CP036-20270808-20270813 · U.S. Space & Rocket Center · Space Camp · 2027-08-08–2027-08-13
 
@@ -10238,13 +10238,13 @@ Edad: Junior Space Camp 9–11; en 9 Los años se necesitan ahora./Finalizado Gr
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: No ahora; la edad futura
 Formato: residente
-Idioma: El actual weeklong FAQ permite a los niños extranjeros y exige fluent conversational English; documentos de entrada válidos por separado.
+Idioma: Se admiten niños extranjeros; el weekly FAQ exige inglés conversacional fluido. No se promete traducción ni grupo separado en español.
 Marca de idioma: primary; soporte: no declarado
-Costo: 2027 - No se ha establecido en la página de lectura la tarifa completa del Campus Espacial seleccionado.
+Precio: 2027 · Catálogo oficial actual de 2027: USD 1699 por niño y semana; confirmar el contenido final de la factura.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: La edad es la adecuada; Si aún no lo es 9 años — Ver la reclamación 4 Clase. Oscar: Más joven 9 años. Gastos adicionales: Airport HSV round-trip USD120; extra arrival/departure day hastaUSD150 Cartillas aéreas, según sea necesario; Seguro/Gastos personales por separado. Pago: FAQ: en caso de cancelación8+semanas 90% Pagadas tuition MenosUSD100 non-refundable registration fee; Supresión tardía y calendario de pagos. Una transferencia gratuita, más tardeUSD25; solicitud mínima por2semanas.
+Limitaciones: Matvey: En 2027 tendrá 9–10 años; a los nueve se exige cursar o haber terminado Grade 4. El curso es desconocido y la experiencia externa no sustituye el requisito escolar. Oscar: más joven 9 años. Suplementos: HSV: USD 100 por traslado de ida y vuelta o 50 por trayecto. Día de llegada anticipada y de salida tardía a USD 100 cada uno; entrega temprana del domingo USD 40. Son servicios según necesidad; vuelos, póliza y gastos personales aparte. Pago: Cancelación con ocho semanas o más: 90% del tuition pagado menos USD 200 de inscripción no reembolsable; confirmar en factura si la inscripción está incluida en USD 1699. Un cambio gratuito, el siguiente USD 25, solicitud con al menos dos semanas. Los formularios médicos y de transporte se exigen 30 días antes; no es cierre de inscripción.
 Fuente: https://rocketcenter.com/spacecamp/space-camp/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-06
 
 ### CP036-20270815-20270820 · U.S. Space & Rocket Center · Space Camp · 2027-08-15–2027-08-20
 
@@ -10254,13 +10254,13 @@ Edad: Junior Space Camp 9–11; en 9 Los años se necesitan ahora./Finalizado Gr
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: No ahora; la edad futura
 Formato: residente
-Idioma: El actual weeklong FAQ permite a los niños extranjeros y exige fluent conversational English; documentos de entrada válidos por separado.
+Idioma: Se admiten niños extranjeros; el weekly FAQ exige inglés conversacional fluido. No se promete traducción ni grupo separado en español.
 Marca de idioma: primary; soporte: no declarado
-Costo: 2027 - No se ha establecido en la página de lectura la tarifa completa del Campus Espacial seleccionado.
+Precio: 2027 · Catálogo oficial actual de 2027: USD 1699 por niño y semana; confirmar el contenido final de la factura.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: La edad es la adecuada; Si aún no lo es 9 años — Ver la reclamación 4 Clase. Oscar: Más joven 9 años. Gastos adicionales: Airport HSV round-trip USD120; extra arrival/departure day hastaUSD150 Cartillas aéreas, según sea necesario; Seguro/Gastos personales por separado. Pago: FAQ: en caso de cancelación8+semanas 90% Pagadas tuition MenosUSD100 non-refundable registration fee; Supresión tardía y calendario de pagos. Una transferencia gratuita, más tardeUSD25; solicitud mínima por2semanas.
+Limitaciones: Matvey: En 2027 tendrá 9–10 años; a los nueve se exige cursar o haber terminado Grade 4. El curso es desconocido y la experiencia externa no sustituye el requisito escolar. Oscar: más joven 9 años. Suplementos: HSV: USD 100 por traslado de ida y vuelta o 50 por trayecto. Día de llegada anticipada y de salida tardía a USD 100 cada uno; entrega temprana del domingo USD 40. Son servicios según necesidad; vuelos, póliza y gastos personales aparte. Pago: Cancelación con ocho semanas o más: 90% del tuition pagado menos USD 200 de inscripción no reembolsable; confirmar en factura si la inscripción está incluida en USD 1699. Un cambio gratuito, el siguiente USD 25, solicitud con al menos dos semanas. Los formularios médicos y de transporte se exigen 30 días antes; no es cierre de inscripción.
 Fuente: https://rocketcenter.com/spacecamp/space-camp/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-06
 
 ### CP036-20270822-20270827 · U.S. Space & Rocket Center · Space Camp · 2027-08-22–2027-08-27
 
@@ -10270,13 +10270,13 @@ Edad: Junior Space Camp 9–11; en 9 Los años se necesitan ahora./Finalizado Gr
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: No ahora; la edad futura
 Formato: residente
-Idioma: El actual weeklong FAQ permite a los niños extranjeros y exige fluent conversational English; documentos de entrada válidos por separado.
+Idioma: Se admiten niños extranjeros; el weekly FAQ exige inglés conversacional fluido. No se promete traducción ni grupo separado en español.
 Marca de idioma: primary; soporte: no declarado
-Costo: 2027 - No se ha establecido en la página de lectura la tarifa completa del Campus Espacial seleccionado.
+Precio: 2027 · Catálogo oficial actual de 2027: USD 1699 por niño y semana; confirmar el contenido final de la factura.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: La edad es la adecuada; Si aún no lo es 9 años — Ver la reclamación 4 Clase. Oscar: Más joven 9 años. Gastos adicionales: Airport HSV round-trip USD120; extra arrival/departure day hastaUSD150 Cartillas aéreas, según sea necesario; Seguro/Gastos personales por separado. Pago: FAQ: en caso de cancelación8+semanas 90% Pagadas tuition MenosUSD100 non-refundable registration fee; Supresión tardía y calendario de pagos. Una transferencia gratuita, más tardeUSD25; solicitud mínima por2semanas.
+Limitaciones: Matvey: En 2027 tendrá 9–10 años; a los nueve se exige cursar o haber terminado Grade 4. El curso es desconocido y la experiencia externa no sustituye el requisito escolar. Oscar: más joven 9 años. Suplementos: HSV: USD 100 por traslado de ida y vuelta o 50 por trayecto. Día de llegada anticipada y de salida tardía a USD 100 cada uno; entrega temprana del domingo USD 40. Son servicios según necesidad; vuelos, póliza y gastos personales aparte. Pago: Cancelación con ocho semanas o más: 90% del tuition pagado menos USD 200 de inscripción no reembolsable; confirmar en factura si la inscripción está incluida en USD 1699. Un cambio gratuito, el siguiente USD 25, solicitud con al menos dos semanas. Los formularios médicos y de transporte se exigen 30 días antes; no es cierre de inscripción.
 Fuente: https://rocketcenter.com/spacecamp/space-camp/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-06
 
 ### CP036-20270829-20270903 · U.S. Space & Rocket Center · Space Camp · 2027-08-29–2027-09-03
 
@@ -10286,13 +10286,13 @@ Edad: Junior Space Camp 9–11; en 9 Los años se necesitan ahora./Finalizado Gr
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: No ahora; la edad futura
 Formato: residente
-Idioma: El actual weeklong FAQ permite a los niños extranjeros y exige fluent conversational English; documentos de entrada válidos por separado.
+Idioma: Se admiten niños extranjeros; el weekly FAQ exige inglés conversacional fluido. No se promete traducción ni grupo separado en español.
 Marca de idioma: primary; soporte: no declarado
-Costo: 2027 - No se ha establecido en la página de lectura la tarifa completa del Campus Espacial seleccionado.
+Precio: 2027 · Catálogo oficial actual de 2027: USD 1699 por niño y semana; confirmar el contenido final de la factura.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: La edad es la adecuada; Si aún no lo es 9 años — Ver la reclamación 4 Clase. Oscar: Más joven 9 años. Gastos adicionales: Airport HSV round-trip USD120; extra arrival/departure day hastaUSD150 Cartillas aéreas, según sea necesario; Seguro/Gastos personales por separado. Pago: FAQ: en caso de cancelación8+semanas 90% Pagadas tuition MenosUSD100 non-refundable registration fee; Supresión tardía y calendario de pagos. Una transferencia gratuita, más tardeUSD25; solicitud mínima por2semanas.
+Limitaciones: Matvey: En 2027 tendrá 9–10 años; a los nueve se exige cursar o haber terminado Grade 4. El curso es desconocido y la experiencia externa no sustituye el requisito escolar. Oscar: más joven 9 años. Suplementos: HSV: USD 100 por traslado de ida y vuelta o 50 por trayecto. Día de llegada anticipada y de salida tardía a USD 100 cada uno; entrega temprana del domingo USD 40. Son servicios según necesidad; vuelos, póliza y gastos personales aparte. Pago: Cancelación con ocho semanas o más: 90% del tuition pagado menos USD 200 de inscripción no reembolsable; confirmar en factura si la inscripción está incluida en USD 1699. Un cambio gratuito, el siguiente USD 25, solicitud con al menos dos semanas. Los formularios médicos y de transporte se exigen 30 días antes; no es cierre de inscripción.
 Fuente: https://rocketcenter.com/spacecamp/space-camp/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-06
 
 ### CP037-20270530-20270604 · U.S. Space & Rocket Center · Robotics · 2027-05-30–2027-06-04
 
@@ -10302,13 +10302,13 @@ Edad: 9–11; en 9 años que se requieren en curso o terminados Grade 4
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: No ahora; la edad futura
 Formato: residente
-Idioma: El actual weeklong FAQ permite a los niños extranjeros y exige fluent conversational English; documentos de entrada válidos por separado.
+Idioma: Se admiten niños extranjeros; el weekly FAQ exige inglés conversacional fluido. No se promete traducción ni grupo separado en español.
 Marca de idioma: primary; soporte: no declarado
-Precio: 2027 · USD 1 799 se muestra en el directorio oficial actual junto al turno más cercano 2027; Comprobar la semana seleccionada.
+Precio: 2027 · Catálogo oficial actual de 2027: USD 1699 por niño y semana; confirmar el contenido final de la factura.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: 9–11 Ajustado, Pero si aún no lo es 9 A la carrera — demandado por el actual/Finalizado Grade 4. Clase exacta desconocida. Oscar: Antes 9 años no disponibles. Gastos adicionales: Airport HSV round-trip USD120; extra arrival/departure day hastaUSD150 Cartillas aéreas, según sea necesario; Seguro/Gastos personales por separado. Pago: FAQ: en caso de cancelación8+semanas 90% Pagadas tuition MenosUSD100 non-refundable registration fee; Supresión tardía y calendario de pagos. Una transferencia gratuita, más tardeUSD25; solicitud mínima por2semanas.
+Limitaciones: Matvey: En 2027 tendrá 9–10 años; a los nueve se exige cursar o haber terminado Grade 4. El curso es desconocido y la experiencia externa no sustituye el requisito escolar. Oscar: No se puede acceder hasta los 9 años. Suplementos: HSV: USD 100 por traslado de ida y vuelta o 50 por trayecto. Día de llegada anticipada y de salida tardía a USD 100 cada uno; entrega temprana del domingo USD 40. Son servicios según necesidad; vuelos, póliza y gastos personales aparte. Pago: Cancelación con ocho semanas o más: 90% del tuition pagado menos USD 200 de inscripción no reembolsable; confirmar en factura si la inscripción está incluida en USD 1699. Un cambio gratuito, el siguiente USD 25, solicitud con al menos dos semanas. Los formularios médicos y de transporte se exigen 30 días antes; no es cierre de inscripción.
 Fuente: https://rocketcenter.com/robotics/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-06
 
 ### CP037-20270606-20270611 · U.S. Space & Rocket Center · Robotics · 2027-06-06–2027-06-11
 
@@ -10318,13 +10318,13 @@ Edad: 9–11; en 9 años que se requieren en curso o terminados Grade 4
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: No ahora; la edad futura
 Formato: residente
-Idioma: El actual weeklong FAQ permite a los niños extranjeros y exige fluent conversational English; documentos de entrada válidos por separado.
+Idioma: Se admiten niños extranjeros; el weekly FAQ exige inglés conversacional fluido. No se promete traducción ni grupo separado en español.
 Marca de idioma: primary; soporte: no declarado
-Precio: 2027 · USD 1 799 se muestra en el directorio oficial actual junto al turno más cercano 2027; Comprobar la semana seleccionada.
+Precio: 2027 · Catálogo oficial actual de 2027: USD 1699 por niño y semana; confirmar el contenido final de la factura.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: 9–11 Ajustado, Pero si aún no lo es 9 A la carrera — demandado por el actual/Finalizado Grade 4. Clase exacta desconocida. Oscar: Antes 9 años no disponibles. Gastos adicionales: Airport HSV round-trip USD120; extra arrival/departure day hastaUSD150 Cartillas aéreas, según sea necesario; Seguro/Gastos personales por separado. Pago: FAQ: en caso de cancelación8+semanas 90% Pagadas tuition MenosUSD100 non-refundable registration fee; Supresión tardía y calendario de pagos. Una transferencia gratuita, más tardeUSD25; solicitud mínima por2semanas.
+Limitaciones: Matvey: En 2027 tendrá 9–10 años; a los nueve se exige cursar o haber terminado Grade 4. El curso es desconocido y la experiencia externa no sustituye el requisito escolar. Oscar: No se puede acceder hasta los 9 años. Suplementos: HSV: USD 100 por traslado de ida y vuelta o 50 por trayecto. Día de llegada anticipada y de salida tardía a USD 100 cada uno; entrega temprana del domingo USD 40. Son servicios según necesidad; vuelos, póliza y gastos personales aparte. Pago: Cancelación con ocho semanas o más: 90% del tuition pagado menos USD 200 de inscripción no reembolsable; confirmar en factura si la inscripción está incluida en USD 1699. Un cambio gratuito, el siguiente USD 25, solicitud con al menos dos semanas. Los formularios médicos y de transporte se exigen 30 días antes; no es cierre de inscripción.
 Fuente: https://rocketcenter.com/robotics/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-06
 
 ### CP037-20270613-20270618 · U.S. Space & Rocket Center · Robotics · 2027-06-13–2027-06-18
 
@@ -10334,13 +10334,13 @@ Edad: 9–11; en 9 años que se requieren en curso o terminados Grade 4
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: No ahora; la edad futura
 Formato: residente
-Idioma: El actual weeklong FAQ permite a los niños extranjeros y exige fluent conversational English; documentos de entrada válidos por separado.
+Idioma: Se admiten niños extranjeros; el weekly FAQ exige inglés conversacional fluido. No se promete traducción ni grupo separado en español.
 Marca de idioma: primary; soporte: no declarado
-Precio: 2027 · USD 1 799 se muestra en el directorio oficial actual junto al turno más cercano 2027; Comprobar la semana seleccionada.
+Precio: 2027 · Catálogo oficial actual de 2027: USD 1699 por niño y semana; confirmar el contenido final de la factura.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: 9–11 Ajustado, Pero si aún no lo es 9 A la carrera — demandado por el actual/Finalizado Grade 4. Clase exacta desconocida. Oscar: Antes 9 años no disponibles. Gastos adicionales: Airport HSV round-trip USD120; extra arrival/departure day hastaUSD150 Cartillas aéreas, según sea necesario; Seguro/Gastos personales por separado. Pago: FAQ: en caso de cancelación8+semanas 90% Pagadas tuition MenosUSD100 non-refundable registration fee; Supresión tardía y calendario de pagos. Una transferencia gratuita, más tardeUSD25; solicitud mínima por2semanas.
+Limitaciones: Matvey: En 2027 tendrá 9–10 años; a los nueve se exige cursar o haber terminado Grade 4. El curso es desconocido y la experiencia externa no sustituye el requisito escolar. Oscar: No se puede acceder hasta los 9 años. Suplementos: HSV: USD 100 por traslado de ida y vuelta o 50 por trayecto. Día de llegada anticipada y de salida tardía a USD 100 cada uno; entrega temprana del domingo USD 40. Son servicios según necesidad; vuelos, póliza y gastos personales aparte. Pago: Cancelación con ocho semanas o más: 90% del tuition pagado menos USD 200 de inscripción no reembolsable; confirmar en factura si la inscripción está incluida en USD 1699. Un cambio gratuito, el siguiente USD 25, solicitud con al menos dos semanas. Los formularios médicos y de transporte se exigen 30 días antes; no es cierre de inscripción.
 Fuente: https://rocketcenter.com/robotics/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-06
 
 ### CP037-20270620-20270625 · U.S. Space & Rocket Center · Robotics · 2027-06-20–2027-06-25
 
@@ -10350,13 +10350,13 @@ Edad: 9–11; en 9 años que se requieren en curso o terminados Grade 4
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: No ahora; la edad futura
 Formato: residente
-Idioma: El actual weeklong FAQ permite a los niños extranjeros y exige fluent conversational English; documentos de entrada válidos por separado.
+Idioma: Se admiten niños extranjeros; el weekly FAQ exige inglés conversacional fluido. No se promete traducción ni grupo separado en español.
 Marca de idioma: primary; soporte: no declarado
-Precio: 2027 · USD 1 799 se muestra en el directorio oficial actual junto al turno más cercano 2027; Comprobar la semana seleccionada.
+Precio: 2027 · Catálogo oficial actual de 2027: USD 1699 por niño y semana; confirmar el contenido final de la factura.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: 9–11 Ajustado, Pero si aún no lo es 9 A la carrera — demandado por el actual/Finalizado Grade 4. Clase exacta desconocida. Oscar: Antes 9 años no disponibles. Gastos adicionales: Airport HSV round-trip USD120; extra arrival/departure day hastaUSD150 Cartillas aéreas, según sea necesario; Seguro/Gastos personales por separado. Pago: FAQ: en caso de cancelación8+semanas 90% Pagadas tuition MenosUSD100 non-refundable registration fee; Supresión tardía y calendario de pagos. Una transferencia gratuita, más tardeUSD25; solicitud mínima por2semanas.
+Limitaciones: Matvey: En 2027 tendrá 9–10 años; a los nueve se exige cursar o haber terminado Grade 4. El curso es desconocido y la experiencia externa no sustituye el requisito escolar. Oscar: No se puede acceder hasta los 9 años. Suplementos: HSV: USD 100 por traslado de ida y vuelta o 50 por trayecto. Día de llegada anticipada y de salida tardía a USD 100 cada uno; entrega temprana del domingo USD 40. Son servicios según necesidad; vuelos, póliza y gastos personales aparte. Pago: Cancelación con ocho semanas o más: 90% del tuition pagado menos USD 200 de inscripción no reembolsable; confirmar en factura si la inscripción está incluida en USD 1699. Un cambio gratuito, el siguiente USD 25, solicitud con al menos dos semanas. Los formularios médicos y de transporte se exigen 30 días antes; no es cierre de inscripción.
 Fuente: https://rocketcenter.com/robotics/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-06
 
 ### CP037-20270627-20270702 · U.S. Space & Rocket Center · Robotics · 2027-06-27–2027-07-02
 
@@ -10366,13 +10366,13 @@ Edad: 9–11; en 9 años que se requieren en curso o terminados Grade 4
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: No ahora; la edad futura
 Formato: residente
-Idioma: El actual weeklong FAQ permite a los niños extranjeros y exige fluent conversational English; documentos de entrada válidos por separado.
+Idioma: Se admiten niños extranjeros; el weekly FAQ exige inglés conversacional fluido. No se promete traducción ni grupo separado en español.
 Marca de idioma: primary; soporte: no declarado
-Precio: 2027 · USD 1 799 se muestra en el directorio oficial actual junto al turno más cercano 2027; Comprobar la semana seleccionada.
+Precio: 2027 · Catálogo oficial actual de 2027: USD 1699 por niño y semana; confirmar el contenido final de la factura.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: 9–11 Ajustado, Pero si aún no lo es 9 A la carrera — demandado por el actual/Finalizado Grade 4. Clase exacta desconocida. Oscar: Antes 9 años no disponibles. Gastos adicionales: Airport HSV round-trip USD120; extra arrival/departure day hastaUSD150 Cartillas aéreas, según sea necesario; Seguro/Gastos personales por separado. Pago: FAQ: en caso de cancelación8+semanas 90% Pagadas tuition MenosUSD100 non-refundable registration fee; Supresión tardía y calendario de pagos. Una transferencia gratuita, más tardeUSD25; solicitud mínima por2semanas.
+Limitaciones: Matvey: En 2027 tendrá 9–10 años; a los nueve se exige cursar o haber terminado Grade 4. El curso es desconocido y la experiencia externa no sustituye el requisito escolar. Oscar: No se puede acceder hasta los 9 años. Suplementos: HSV: USD 100 por traslado de ida y vuelta o 50 por trayecto. Día de llegada anticipada y de salida tardía a USD 100 cada uno; entrega temprana del domingo USD 40. Son servicios según necesidad; vuelos, póliza y gastos personales aparte. Pago: Cancelación con ocho semanas o más: 90% del tuition pagado menos USD 200 de inscripción no reembolsable; confirmar en factura si la inscripción está incluida en USD 1699. Un cambio gratuito, el siguiente USD 25, solicitud con al menos dos semanas. Los formularios médicos y de transporte se exigen 30 días antes; no es cierre de inscripción.
 Fuente: https://rocketcenter.com/robotics/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-06
 
 ### CP037-20270704-20270709 · U.S. Space & Rocket Center · Robotics · 2027-07-04–2027-07-09
 
@@ -10382,13 +10382,13 @@ Edad: 9–11; en 9 años que se requieren en curso o terminados Grade 4
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: No ahora; la edad futura
 Formato: residente
-Idioma: El actual weeklong FAQ permite a los niños extranjeros y exige fluent conversational English; documentos de entrada válidos por separado.
+Idioma: Se admiten niños extranjeros; el weekly FAQ exige inglés conversacional fluido. No se promete traducción ni grupo separado en español.
 Marca de idioma: primary; soporte: no declarado
-Precio: 2027 · USD 1 799 se muestra en el directorio oficial actual junto al turno más cercano 2027; Comprobar la semana seleccionada.
+Precio: 2027 · Catálogo oficial actual de 2027: USD 1699 por niño y semana; confirmar el contenido final de la factura.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: 9–11 Ajustado, Pero si aún no lo es 9 A la carrera — demandado por el actual/Finalizado Grade 4. Clase exacta desconocida. Oscar: Antes 9 años no disponibles. Gastos adicionales: Airport HSV round-trip USD120; extra arrival/departure day hastaUSD150 Cartillas aéreas, según sea necesario; Seguro/Gastos personales por separado. Pago: FAQ: en caso de cancelación8+semanas 90% Pagadas tuition MenosUSD100 non-refundable registration fee; Supresión tardía y calendario de pagos. Una transferencia gratuita, más tardeUSD25; solicitud mínima por2semanas.
+Limitaciones: Matvey: En 2027 tendrá 9–10 años; a los nueve se exige cursar o haber terminado Grade 4. El curso es desconocido y la experiencia externa no sustituye el requisito escolar. Oscar: No se puede acceder hasta los 9 años. Suplementos: HSV: USD 100 por traslado de ida y vuelta o 50 por trayecto. Día de llegada anticipada y de salida tardía a USD 100 cada uno; entrega temprana del domingo USD 40. Son servicios según necesidad; vuelos, póliza y gastos personales aparte. Pago: Cancelación con ocho semanas o más: 90% del tuition pagado menos USD 200 de inscripción no reembolsable; confirmar en factura si la inscripción está incluida en USD 1699. Un cambio gratuito, el siguiente USD 25, solicitud con al menos dos semanas. Los formularios médicos y de transporte se exigen 30 días antes; no es cierre de inscripción.
 Fuente: https://rocketcenter.com/robotics/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-06
 
 ### CP037-20270711-20270716 · U.S. Space & Rocket Center · Robotics · 2027-07-11–2027-07-16
 
@@ -10398,13 +10398,13 @@ Edad: 9–11; en 9 años que se requieren en curso o terminados Grade 4
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: No ahora; la edad futura
 Formato: residente
-Idioma: El actual weeklong FAQ permite a los niños extranjeros y exige fluent conversational English; documentos de entrada válidos por separado.
+Idioma: Se admiten niños extranjeros; el weekly FAQ exige inglés conversacional fluido. No se promete traducción ni grupo separado en español.
 Marca de idioma: primary; soporte: no declarado
-Precio: 2027 · USD 1 799 se muestra en el directorio oficial actual junto al turno más cercano 2027; Comprobar la semana seleccionada.
+Precio: 2027 · Catálogo oficial actual de 2027: USD 1699 por niño y semana; confirmar el contenido final de la factura.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: 9–11 Ajustado, Pero si aún no lo es 9 A la carrera — demandado por el actual/Finalizado Grade 4. Clase exacta desconocida. Oscar: Antes 9 años no disponibles. Gastos adicionales: Airport HSV round-trip USD120; extra arrival/departure day hastaUSD150 Cartillas aéreas, según sea necesario; Seguro/Gastos personales por separado. Pago: FAQ: en caso de cancelación8+semanas 90% Pagadas tuition MenosUSD100 non-refundable registration fee; Supresión tardía y calendario de pagos. Una transferencia gratuita, más tardeUSD25; solicitud mínima por2semanas.
+Limitaciones: Matvey: En 2027 tendrá 9–10 años; a los nueve se exige cursar o haber terminado Grade 4. El curso es desconocido y la experiencia externa no sustituye el requisito escolar. Oscar: No se puede acceder hasta los 9 años. Suplementos: HSV: USD 100 por traslado de ida y vuelta o 50 por trayecto. Día de llegada anticipada y de salida tardía a USD 100 cada uno; entrega temprana del domingo USD 40. Son servicios según necesidad; vuelos, póliza y gastos personales aparte. Pago: Cancelación con ocho semanas o más: 90% del tuition pagado menos USD 200 de inscripción no reembolsable; confirmar en factura si la inscripción está incluida en USD 1699. Un cambio gratuito, el siguiente USD 25, solicitud con al menos dos semanas. Los formularios médicos y de transporte se exigen 30 días antes; no es cierre de inscripción.
 Fuente: https://rocketcenter.com/robotics/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-06
 
 ### CP037-20270718-20270723 · U.S. Space & Rocket Center · Robotics · 2027-07-18–2027-07-23
 
@@ -10414,13 +10414,13 @@ Edad: 9–11; en 9 años que se requieren en curso o terminados Grade 4
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: No ahora; la edad futura
 Formato: residente
-Idioma: El actual weeklong FAQ permite a los niños extranjeros y exige fluent conversational English; documentos de entrada válidos por separado.
+Idioma: Se admiten niños extranjeros; el weekly FAQ exige inglés conversacional fluido. No se promete traducción ni grupo separado en español.
 Marca de idioma: primary; soporte: no declarado
-Precio: 2027 · USD 1 799 se muestra en el directorio oficial actual junto al turno más cercano 2027; Comprobar la semana seleccionada.
+Precio: 2027 · Catálogo oficial actual de 2027: USD 1699 por niño y semana; confirmar el contenido final de la factura.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: 9–11 Ajustado, Pero si aún no lo es 9 A la carrera — demandado por el actual/Finalizado Grade 4. Clase exacta desconocida. Oscar: Antes 9 años no disponibles. Gastos adicionales: Airport HSV round-trip USD120; extra arrival/departure day hastaUSD150 Cartillas aéreas, según sea necesario; Seguro/Gastos personales por separado. Pago: FAQ: en caso de cancelación8+semanas 90% Pagadas tuition MenosUSD100 non-refundable registration fee; Supresión tardía y calendario de pagos. Una transferencia gratuita, más tardeUSD25; solicitud mínima por2semanas.
+Limitaciones: Matvey: En 2027 tendrá 9–10 años; a los nueve se exige cursar o haber terminado Grade 4. El curso es desconocido y la experiencia externa no sustituye el requisito escolar. Oscar: No se puede acceder hasta los 9 años. Suplementos: HSV: USD 100 por traslado de ida y vuelta o 50 por trayecto. Día de llegada anticipada y de salida tardía a USD 100 cada uno; entrega temprana del domingo USD 40. Son servicios según necesidad; vuelos, póliza y gastos personales aparte. Pago: Cancelación con ocho semanas o más: 90% del tuition pagado menos USD 200 de inscripción no reembolsable; confirmar en factura si la inscripción está incluida en USD 1699. Un cambio gratuito, el siguiente USD 25, solicitud con al menos dos semanas. Los formularios médicos y de transporte se exigen 30 días antes; no es cierre de inscripción.
 Fuente: https://rocketcenter.com/robotics/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-06
 
 ### CP037-20270725-20270730 · U.S. Space & Rocket Center · Robotics · 2027-07-25–2027-07-30
 
@@ -10430,13 +10430,13 @@ Edad: 9–11; en 9 años que se requieren en curso o terminados Grade 4
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: No ahora; la edad futura
 Formato: residente
-Idioma: El actual weeklong FAQ permite a los niños extranjeros y exige fluent conversational English; documentos de entrada válidos por separado.
+Idioma: Se admiten niños extranjeros; el weekly FAQ exige inglés conversacional fluido. No se promete traducción ni grupo separado en español.
 Marca de idioma: primary; soporte: no declarado
-Precio: 2027 · USD 1 799 se muestra en el directorio oficial actual junto al turno más cercano 2027; Comprobar la semana seleccionada.
+Precio: 2027 · Catálogo oficial actual de 2027: USD 1699 por niño y semana; confirmar el contenido final de la factura.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: 9–11 Ajustado, Pero si aún no lo es 9 A la carrera — demandado por el actual/Finalizado Grade 4. Clase exacta desconocida. Oscar: Antes 9 años no disponibles. Gastos adicionales: Airport HSV round-trip USD120; extra arrival/departure day hastaUSD150 Cartillas aéreas, según sea necesario; Seguro/Gastos personales por separado. Pago: FAQ: en caso de cancelación8+semanas 90% Pagadas tuition MenosUSD100 non-refundable registration fee; Supresión tardía y calendario de pagos. Una transferencia gratuita, más tardeUSD25; solicitud mínima por2semanas.
+Limitaciones: Matvey: En 2027 tendrá 9–10 años; a los nueve se exige cursar o haber terminado Grade 4. El curso es desconocido y la experiencia externa no sustituye el requisito escolar. Oscar: No se puede acceder hasta los 9 años. Suplementos: HSV: USD 100 por traslado de ida y vuelta o 50 por trayecto. Día de llegada anticipada y de salida tardía a USD 100 cada uno; entrega temprana del domingo USD 40. Son servicios según necesidad; vuelos, póliza y gastos personales aparte. Pago: Cancelación con ocho semanas o más: 90% del tuition pagado menos USD 200 de inscripción no reembolsable; confirmar en factura si la inscripción está incluida en USD 1699. Un cambio gratuito, el siguiente USD 25, solicitud con al menos dos semanas. Los formularios médicos y de transporte se exigen 30 días antes; no es cierre de inscripción.
 Fuente: https://rocketcenter.com/robotics/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-06
 
 ### CP037-20270801-20270806 · U.S. Space & Rocket Center · Robotics · 2027-08-01–2027-08-06
 
@@ -10446,13 +10446,13 @@ Edad: 9–11; en 9 años que se requieren en curso o terminados Grade 4
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: No ahora; la edad futura
 Formato: residente
-Idioma: El actual weeklong FAQ permite a los niños extranjeros y exige fluent conversational English; documentos de entrada válidos por separado.
+Idioma: Se admiten niños extranjeros; el weekly FAQ exige inglés conversacional fluido. No se promete traducción ni grupo separado en español.
 Marca de idioma: primary; soporte: no declarado
-Precio: 2027 · USD 1 799 se muestra en el directorio oficial actual junto al turno más cercano 2027; Comprobar la semana seleccionada.
+Precio: 2027 · Catálogo oficial actual de 2027: USD 1699 por niño y semana; confirmar el contenido final de la factura.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: 9–11 Ajustado, Pero si aún no lo es 9 A la carrera — demandado por el actual/Finalizado Grade 4. Clase exacta desconocida. Oscar: Antes 9 años no disponibles. Gastos adicionales: Airport HSV round-trip USD120; extra arrival/departure day hastaUSD150 Cartillas aéreas, según sea necesario; Seguro/Gastos personales por separado. Pago: FAQ: en caso de cancelación8+semanas 90% Pagadas tuition MenosUSD100 non-refundable registration fee; Supresión tardía y calendario de pagos. Una transferencia gratuita, más tardeUSD25; solicitud mínima por2semanas.
+Limitaciones: Matvey: En 2027 tendrá 9–10 años; a los nueve se exige cursar o haber terminado Grade 4. El curso es desconocido y la experiencia externa no sustituye el requisito escolar. Oscar: No se puede acceder hasta los 9 años. Suplementos: HSV: USD 100 por traslado de ida y vuelta o 50 por trayecto. Día de llegada anticipada y de salida tardía a USD 100 cada uno; entrega temprana del domingo USD 40. Son servicios según necesidad; vuelos, póliza y gastos personales aparte. Pago: Cancelación con ocho semanas o más: 90% del tuition pagado menos USD 200 de inscripción no reembolsable; confirmar en factura si la inscripción está incluida en USD 1699. Un cambio gratuito, el siguiente USD 25, solicitud con al menos dos semanas. Los formularios médicos y de transporte se exigen 30 días antes; no es cierre de inscripción.
 Fuente: https://rocketcenter.com/robotics/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-06
 
 ### CP037-20270808-20270813 · U.S. Space & Rocket Center · Robotics · 2027-08-08–2027-08-13
 
@@ -10462,13 +10462,13 @@ Edad: 9–11; en 9 años que se requieren en curso o terminados Grade 4
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: No ahora; la edad futura
 Formato: residente
-Idioma: El actual weeklong FAQ permite a los niños extranjeros y exige fluent conversational English; documentos de entrada válidos por separado.
+Idioma: Se admiten niños extranjeros; el weekly FAQ exige inglés conversacional fluido. No se promete traducción ni grupo separado en español.
 Marca de idioma: primary; soporte: no declarado
-Precio: 2027 · USD 1 799 se muestra en el directorio oficial actual junto al turno más cercano 2027; Comprobar la semana seleccionada.
+Precio: 2027 · Catálogo oficial actual de 2027: USD 1699 por niño y semana; confirmar el contenido final de la factura.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: 9–11 Ajustado, Pero si aún no lo es 9 A la carrera — demandado por el actual/Finalizado Grade 4. Clase exacta desconocida. Oscar: Antes 9 años no disponibles. Gastos adicionales: Airport HSV round-trip USD120; extra arrival/departure day hastaUSD150 Cartillas aéreas, según sea necesario; Seguro/Gastos personales por separado. Pago: FAQ: en caso de cancelación8+semanas 90% Pagadas tuition MenosUSD100 non-refundable registration fee; Supresión tardía y calendario de pagos. Una transferencia gratuita, más tardeUSD25; solicitud mínima por2semanas.
+Limitaciones: Matvey: En 2027 tendrá 9–10 años; a los nueve se exige cursar o haber terminado Grade 4. El curso es desconocido y la experiencia externa no sustituye el requisito escolar. Oscar: No se puede acceder hasta los 9 años. Suplementos: HSV: USD 100 por traslado de ida y vuelta o 50 por trayecto. Día de llegada anticipada y de salida tardía a USD 100 cada uno; entrega temprana del domingo USD 40. Son servicios según necesidad; vuelos, póliza y gastos personales aparte. Pago: Cancelación con ocho semanas o más: 90% del tuition pagado menos USD 200 de inscripción no reembolsable; confirmar en factura si la inscripción está incluida en USD 1699. Un cambio gratuito, el siguiente USD 25, solicitud con al menos dos semanas. Los formularios médicos y de transporte se exigen 30 días antes; no es cierre de inscripción.
 Fuente: https://rocketcenter.com/robotics/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-06
 
 ### CP037-20270815-20270820 · U.S. Space & Rocket Center · Robotics · 2027-08-15–2027-08-20
 
@@ -10478,13 +10478,13 @@ Edad: 9–11; en 9 años que se requieren en curso o terminados Grade 4
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: No ahora; la edad futura
 Formato: residente
-Idioma: El actual weeklong FAQ permite a los niños extranjeros y exige fluent conversational English; documentos de entrada válidos por separado.
+Idioma: Se admiten niños extranjeros; el weekly FAQ exige inglés conversacional fluido. No se promete traducción ni grupo separado en español.
 Marca de idioma: primary; soporte: no declarado
-Precio: 2027 · USD 1 799 se muestra en el directorio oficial actual junto al turno más cercano 2027; Comprobar la semana seleccionada.
+Precio: 2027 · Catálogo oficial actual de 2027: USD 1699 por niño y semana; confirmar el contenido final de la factura.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: 9–11 Ajustado, Pero si aún no lo es 9 A la carrera — demandado por el actual/Finalizado Grade 4. Clase exacta desconocida. Oscar: Antes 9 años no disponibles. Gastos adicionales: Airport HSV round-trip USD120; extra arrival/departure day hastaUSD150 Cartillas aéreas, según sea necesario; Seguro/Gastos personales por separado. Pago: FAQ: en caso de cancelación8+semanas 90% Pagadas tuition MenosUSD100 non-refundable registration fee; Supresión tardía y calendario de pagos. Una transferencia gratuita, más tardeUSD25; solicitud mínima por2semanas.
+Limitaciones: Matvey: En 2027 tendrá 9–10 años; a los nueve se exige cursar o haber terminado Grade 4. El curso es desconocido y la experiencia externa no sustituye el requisito escolar. Oscar: No se puede acceder hasta los 9 años. Suplementos: HSV: USD 100 por traslado de ida y vuelta o 50 por trayecto. Día de llegada anticipada y de salida tardía a USD 100 cada uno; entrega temprana del domingo USD 40. Son servicios según necesidad; vuelos, póliza y gastos personales aparte. Pago: Cancelación con ocho semanas o más: 90% del tuition pagado menos USD 200 de inscripción no reembolsable; confirmar en factura si la inscripción está incluida en USD 1699. Un cambio gratuito, el siguiente USD 25, solicitud con al menos dos semanas. Los formularios médicos y de transporte se exigen 30 días antes; no es cierre de inscripción.
 Fuente: https://rocketcenter.com/robotics/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-06
 
 ### CP038-20270611-20270613 · U.S. Space & Rocket Center · Family Aviation · 2027-06-11–2027-06-13
 
@@ -10496,11 +10496,11 @@ Matway: Sí, por edad; inscripción separada
 Formato: residente
 Idioma: No se ha confirmado el idioma ni el volumen de traducción; el programa inglés se ha armonizado.
 Marca de idioma: unconfirmed; apoyo: no declarado
-Costo: 2027 - La tarifa familiar completa no está establecida en la página de lectura.
+Precio: 2027 · USD 799 con alojamiento o 699 sin alojamiento POR CADA participante, incluido el adulto. Un adulto y dos niños: 2397 o 2097; el cuarto participante se paga aparte.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matway: La edad de 7+ es la adecuada para el padre. Oscar: Después de 7 años; no se ha cumplido el mínimo. Los pagos adicionales: Contar con cada adulto que paga y cada camino hasta el centro. Paga: Paga y desconectar por familia o viaje.
+Limitaciones: Matvey: 7+ es ideal para los padres. Oscar: después de cumplir 7 años; antes de eso, no se ha cumplido el mínimo. Suplementos: Se requiere al menos un adulto de pago. Vuelos, transporte familiar, seguro y hotel con alojamiento externo aparte; las tarifas semanales de traslado no se aplican automáticamente aquí. Pago: pago y cancelación  por la composición de la familia/acuerdo.
 Fuente: https://rocketcenter.com/SpaceCamp/Family
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-06
 
 ### CP038-20270730-20270801 · U.S. Space & Rocket Center · Family Aviation · 2027-07-30–2027-08-01
 
@@ -10512,11 +10512,11 @@ Matway: Sí, por edad; inscripción separada
 Formato: residente
 Idioma: No se ha confirmado el idioma ni el volumen de traducción; el programa inglés se ha armonizado.
 Marca de idioma: unconfirmed; apoyo: no declarado
-Costo: 2027 - La tarifa familiar completa no está establecida en la página de lectura.
+Precio: 2027 · USD 799 con alojamiento o 699 sin alojamiento POR CADA participante, incluido el adulto. Un adulto y dos niños: 2397 o 2097; el cuarto participante se paga aparte.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matway: La edad de 7+ es la adecuada para el padre. Oscar: Después de 7 años; no se ha cumplido el mínimo. Los pagos adicionales: Contar con cada adulto que paga y cada camino hasta el centro. Paga: Paga y desconectar por familia o viaje.
+Limitaciones: Matvey: 7+ es ideal para los padres. Oscar: después de cumplir 7 años; antes de eso, no se ha cumplido el mínimo. Suplementos: Se requiere al menos un adulto de pago. Vuelos, transporte familiar, seguro y hotel con alojamiento externo aparte; las tarifas semanales de traslado no se aplican automáticamente aquí. Pago: pago y cancelación  por la composición de la familia/acuerdo.
 Fuente: https://rocketcenter.com/SpaceCamp/Family
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-06
 
 ### CP038-20270827-20270829 · U.S. Space & Rocket Center · Family Aviation · 2027-08-27–2027-08-29
 
@@ -10528,11 +10528,347 @@ Matway: Sí, por edad; inscripción separada
 Formato: residente
 Idioma: No se ha confirmado el idioma ni el volumen de traducción; el programa inglés se ha armonizado.
 Marca de idioma: unconfirmed; apoyo: no declarado
-Costo: 2027 - La tarifa familiar completa no está establecida en la página de lectura.
+Precio: 2027 · USD 799 con alojamiento o 699 sin alojamiento POR CADA participante, incluido el adulto. Un adulto y dos niños: 2397 o 2097; el cuarto participante se paga aparte.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matway: La edad de 7+ es la adecuada para el padre. Oscar: Después de 7 años; no se ha cumplido el mínimo. Los pagos adicionales: Contar con cada adulto que paga y cada camino hasta el centro. Paga: Paga y desconectar por familia o viaje.
+Limitaciones: Matvey: 7+ es ideal para los padres. Oscar: después de cumplir 7 años; antes de eso, no se ha cumplido el mínimo. Suplementos: Se requiere al menos un adulto de pago. Vuelos, transporte familiar, seguro y hotel con alojamiento externo aparte; las tarifas semanales de traslado no se aplican automáticamente aquí. Pago: pago y cancelación  por la composición de la familia/acuerdo.
 Fuente: https://rocketcenter.com/SpaceCamp/Family
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-06
+
+### CP039-20270627-20270704 · ILSC Junior · UBC Residence · 1 sem. · residencia / paquete diurno · 2027-06-27–2027-07-04
+
+lugar: Canadá · Vancouver / UBC Totem Park
+Fecha: 2027-06-27 — 2027-07-04
+Edad: 9–17
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: mixed_camp
+Idioma: Inglés: 15 horas semanales, cinco niveles, máximo 18 por clase; clases de 09:00–12:00 entre semana. La inmersión en francés corresponde a Montréal, no a UBC.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · CAD 3235 residencia o 1605 diurno; inscripción incluida, garantía reembolsable de 100 solo en residencia y una vez por estancia · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: 9 a 10 es muy bueno. Oscar: No se puede acceder hasta los 9 años. Suplementos: La residencia exige CAD 100 en efectivo como garantía reembolsable por daños, una vez por estancia. Si hay dieta especial disponible: 50 por semana. Comidas diurnas opcionales 180 por semana. Servicio UM de 75 por trayecto para residencia, más tasas de aerolínea. Lavandería 2.50 por carga; vuelos, impuestos, seguro de viaje y gastos personales aparte. Pago: CAD 350 de anticipo no reembolsable forman parte del paquete, no se suman al precio. Saldo dos semanas antes. Canadá: cancelación en los primeros siete días con margen de 30 días, devolución mayor entre 75% del precio o precio menos 350; después, con 30 días o más 75%, menos de 30 días 60%. Tras comenzar, antes del 10% del programa devolución del 50%, con 10–30% devolución del 30%, por encima del 30% sin devolución. Denegación de visa: se retienen 350. Confirmar aplicación de condiciones e importe de factura.
+Fuente: https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf
+Se ha comprobado: 2026-11-06
+
+### CP039-20270704-20270711 · ILSC Junior · UBC Residence · 1 sem. · residencia / paquete diurno · 2027-07-04–2027-07-11
+
+lugar: Canadá · Vancouver / UBC Totem Park
+Fecha: 2027-07-04 — 2027-07-11
+Edad: 9–17
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: mixed_camp
+Idioma: Inglés: 15 horas semanales, cinco niveles, máximo 18 por clase; clases de 09:00–12:00 entre semana. La inmersión en francés corresponde a Montréal, no a UBC.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · CAD 3235 residencia o 1605 diurno; inscripción incluida, garantía reembolsable de 100 solo en residencia y una vez por estancia · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: 9 a 10 es muy bueno. Oscar: No se puede acceder hasta los 9 años. Suplementos: La residencia exige CAD 100 en efectivo como garantía reembolsable por daños, una vez por estancia. Si hay dieta especial disponible: 50 por semana. Comidas diurnas opcionales 180 por semana. Servicio UM de 75 por trayecto para residencia, más tasas de aerolínea. Lavandería 2.50 por carga; vuelos, impuestos, seguro de viaje y gastos personales aparte. Pago: CAD 350 de anticipo no reembolsable forman parte del paquete, no se suman al precio. Saldo dos semanas antes. Canadá: cancelación en los primeros siete días con margen de 30 días, devolución mayor entre 75% del precio o precio menos 350; después, con 30 días o más 75%, menos de 30 días 60%. Tras comenzar, antes del 10% del programa devolución del 50%, con 10–30% devolución del 30%, por encima del 30% sin devolución. Denegación de visa: se retienen 350. Confirmar aplicación de condiciones e importe de factura.
+Fuente: https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf
+Se ha comprobado: 2026-11-06
+
+### CP039-20270711-20270718 · ILSC Junior · UBC Residence · 1 sem. · residencia / paquete diurno · 2027-07-11–2027-07-18
+
+lugar: Canadá · Vancouver / UBC Totem Park
+Fecha: 2027-07-11 — 2027-07-18
+Edad: 9–17
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: mixed_camp
+Idioma: Inglés: 15 horas semanales, cinco niveles, máximo 18 por clase; clases de 09:00–12:00 entre semana. La inmersión en francés corresponde a Montréal, no a UBC.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · CAD 3235 residencia o 1605 diurno; inscripción incluida, garantía reembolsable de 100 solo en residencia y una vez por estancia · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: 9 a 10 es muy bueno. Oscar: No se puede acceder hasta los 9 años. Suplementos: La residencia exige CAD 100 en efectivo como garantía reembolsable por daños, una vez por estancia. Si hay dieta especial disponible: 50 por semana. Comidas diurnas opcionales 180 por semana. Servicio UM de 75 por trayecto para residencia, más tasas de aerolínea. Lavandería 2.50 por carga; vuelos, impuestos, seguro de viaje y gastos personales aparte. Pago: CAD 350 de anticipo no reembolsable forman parte del paquete, no se suman al precio. Saldo dos semanas antes. Canadá: cancelación en los primeros siete días con margen de 30 días, devolución mayor entre 75% del precio o precio menos 350; después, con 30 días o más 75%, menos de 30 días 60%. Tras comenzar, antes del 10% del programa devolución del 50%, con 10–30% devolución del 30%, por encima del 30% sin devolución. Denegación de visa: se retienen 350. Confirmar aplicación de condiciones e importe de factura.
+Fuente: https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf
+Se ha comprobado: 2026-11-06
+
+### CP039-20270718-20270725 · ILSC Junior · UBC Residence · 1 sem. · residencia / paquete diurno · 2027-07-18–2027-07-25
+
+lugar: Canadá · Vancouver / UBC Totem Park
+Fecha: 2027-07-18 2027-07-25
+Edad: 9–17
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: mixed_camp
+Idioma: Inglés: 15 horas semanales, cinco niveles, máximo 18 por clase; clases de 09:00–12:00 entre semana. La inmersión en francés corresponde a Montréal, no a UBC.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · CAD 3235 residencia o 1605 diurno; inscripción incluida, garantía reembolsable de 100 solo en residencia y una vez por estancia · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: 9 a 10 es muy bueno. Oscar: No se puede acceder hasta los 9 años. Suplementos: La residencia exige CAD 100 en efectivo como garantía reembolsable por daños, una vez por estancia. Si hay dieta especial disponible: 50 por semana. Comidas diurnas opcionales 180 por semana. Servicio UM de 75 por trayecto para residencia, más tasas de aerolínea. Lavandería 2.50 por carga; vuelos, impuestos, seguro de viaje y gastos personales aparte. Pago: CAD 350 de anticipo no reembolsable forman parte del paquete, no se suman al precio. Saldo dos semanas antes. Canadá: cancelación en los primeros siete días con margen de 30 días, devolución mayor entre 75% del precio o precio menos 350; después, con 30 días o más 75%, menos de 30 días 60%. Tras comenzar, antes del 10% del programa devolución del 50%, con 10–30% devolución del 30%, por encima del 30% sin devolución. Denegación de visa: se retienen 350. Confirmar aplicación de condiciones e importe de factura.
+Fuente: https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf
+Se ha comprobado: 2026-11-06
+
+### CP039-20270725-20270801 · ILSC Junior · UBC Residence · 1 sem. · residencia / paquete diurno · 2027-07-25–2027-08-01
+
+lugar: Canadá · Vancouver / UBC Totem Park
+Fecha: 2027-07-25 - 2027-08-01
+Edad: 9–17
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: mixed_camp
+Idioma: Inglés: 15 horas semanales, cinco niveles, máximo 18 por clase; clases de 09:00–12:00 entre semana. La inmersión en francés corresponde a Montréal, no a UBC.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · CAD 3235 residencia o 1605 diurno; inscripción incluida, garantía reembolsable de 100 solo en residencia y una vez por estancia · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: 9 a 10 es muy bueno. Oscar: No se puede acceder hasta los 9 años. Suplementos: La residencia exige CAD 100 en efectivo como garantía reembolsable por daños, una vez por estancia. Si hay dieta especial disponible: 50 por semana. Comidas diurnas opcionales 180 por semana. Servicio UM de 75 por trayecto para residencia, más tasas de aerolínea. Lavandería 2.50 por carga; vuelos, impuestos, seguro de viaje y gastos personales aparte. Pago: CAD 350 de anticipo no reembolsable forman parte del paquete, no se suman al precio. Saldo dos semanas antes. Canadá: cancelación en los primeros siete días con margen de 30 días, devolución mayor entre 75% del precio o precio menos 350; después, con 30 días o más 75%, menos de 30 días 60%. Tras comenzar, antes del 10% del programa devolución del 50%, con 10–30% devolución del 30%, por encima del 30% sin devolución. Denegación de visa: se retienen 350. Confirmar aplicación de condiciones e importe de factura.
+Fuente: https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf
+Se ha comprobado: 2026-11-06
+
+### CP039-20270801-20270808 · ILSC Junior · UBC Residence · 1 sem. · residencia / paquete diurno · 2027-08-01–2027-08-08
+
+lugar: Canadá · Vancouver / UBC Totem Park
+Fecha: 2027-08-01 — 2027-08-08
+Edad: 9–17
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: mixed_camp
+Idioma: Inglés: 15 horas semanales, cinco niveles, máximo 18 por clase; clases de 09:00–12:00 entre semana. La inmersión en francés corresponde a Montréal, no a UBC.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · CAD 3235 residencia o 1605 diurno; inscripción incluida, garantía reembolsable de 100 solo en residencia y una vez por estancia · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: 9 a 10 es muy bueno. Oscar: No se puede acceder hasta los 9 años. Suplementos: La residencia exige CAD 100 en efectivo como garantía reembolsable por daños, una vez por estancia. Si hay dieta especial disponible: 50 por semana. Comidas diurnas opcionales 180 por semana. Servicio UM de 75 por trayecto para residencia, más tasas de aerolínea. Lavandería 2.50 por carga; vuelos, impuestos, seguro de viaje y gastos personales aparte. Pago: CAD 350 de anticipo no reembolsable forman parte del paquete, no se suman al precio. Saldo dos semanas antes. Canadá: cancelación en los primeros siete días con margen de 30 días, devolución mayor entre 75% del precio o precio menos 350; después, con 30 días o más 75%, menos de 30 días 60%. Tras comenzar, antes del 10% del programa devolución del 50%, con 10–30% devolución del 30%, por encima del 30% sin devolución. Denegación de visa: se retienen 350. Confirmar aplicación de condiciones e importe de factura.
+Fuente: https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf
+Se ha comprobado: 2026-11-06
+
+### CP039-20270627-20270711 · ILSC Junior · UBC Residence · 2 sem. · residencia / paquete diurno · 2027-06-27–2027-07-11
+
+lugar: Canadá · Vancouver / UBC Totem Park
+Fecha: 2027-06-27 — 2027-07-11
+Edad: 9–17
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: mixed_camp
+Idioma: Inglés: 15 horas semanales, cinco niveles, máximo 18 por clase; clases de 09:00–12:00 entre semana. La inmersión en francés corresponde a Montréal, no a UBC.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · CAD 5780 residencia o 2795 diurno; inscripción incluida, garantía reembolsable de 100 solo en residencia y una vez por estancia · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: 9 a 10 es muy bueno. Oscar: No se puede acceder hasta los 9 años. Suplementos: La residencia exige CAD 100 en efectivo como garantía reembolsable por daños, una vez por estancia. Si hay dieta especial disponible: 50 por semana. Comidas diurnas opcionales 180 por semana. Servicio UM de 75 por trayecto para residencia, más tasas de aerolínea. Lavandería 2.50 por carga; vuelos, impuestos, seguro de viaje y gastos personales aparte. Pago: CAD 350 de anticipo no reembolsable forman parte del paquete, no se suman al precio. Saldo dos semanas antes. Canadá: cancelación en los primeros siete días con margen de 30 días, devolución mayor entre 75% del precio o precio menos 350; después, con 30 días o más 75%, menos de 30 días 60%. Tras comenzar, antes del 10% del programa devolución del 50%, con 10–30% devolución del 30%, por encima del 30% sin devolución. Denegación de visa: se retienen 350. Confirmar aplicación de condiciones e importe de factura.
+Fuente: https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf
+Se ha comprobado: 2026-11-06
+
+### CP039-20270704-20270718 · ILSC Junior · UBC Residence · 2 sem. · residencia / paquete diurno · 2027-07-04–2027-07-18
+
+lugar: Canadá · Vancouver / UBC Totem Park
+Fecha: 2027-07-04 — 2027-07-18
+Edad: 9–17
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: mixed_camp
+Idioma: Inglés: 15 horas semanales, cinco niveles, máximo 18 por clase; clases de 09:00–12:00 entre semana. La inmersión en francés corresponde a Montréal, no a UBC.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · CAD 5780 residencia o 2795 diurno; inscripción incluida, garantía reembolsable de 100 solo en residencia y una vez por estancia · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: 9 a 10 es muy bueno. Oscar: No se puede acceder hasta los 9 años. Suplementos: La residencia exige CAD 100 en efectivo como garantía reembolsable por daños, una vez por estancia. Si hay dieta especial disponible: 50 por semana. Comidas diurnas opcionales 180 por semana. Servicio UM de 75 por trayecto para residencia, más tasas de aerolínea. Lavandería 2.50 por carga; vuelos, impuestos, seguro de viaje y gastos personales aparte. Pago: CAD 350 de anticipo no reembolsable forman parte del paquete, no se suman al precio. Saldo dos semanas antes. Canadá: cancelación en los primeros siete días con margen de 30 días, devolución mayor entre 75% del precio o precio menos 350; después, con 30 días o más 75%, menos de 30 días 60%. Tras comenzar, antes del 10% del programa devolución del 50%, con 10–30% devolución del 30%, por encima del 30% sin devolución. Denegación de visa: se retienen 350. Confirmar aplicación de condiciones e importe de factura.
+Fuente: https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf
+Se ha comprobado: 2026-11-06
+
+### CP039-20270711-20270725 · ILSC Junior · UBC Residence · 2 sem. · residencia / paquete diurno · 2027-07-11–2027-07-25
+
+lugar: Canadá · Vancouver / UBC Totem Park
+Fecha: 2027-07-11 - 2027-07-25
+Edad: 9–17
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: mixed_camp
+Idioma: Inglés: 15 horas semanales, cinco niveles, máximo 18 por clase; clases de 09:00–12:00 entre semana. La inmersión en francés corresponde a Montréal, no a UBC.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · CAD 5780 residencia o 2795 diurno; inscripción incluida, garantía reembolsable de 100 solo en residencia y una vez por estancia · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: 9 a 10 es muy bueno. Oscar: No se puede acceder hasta los 9 años. Suplementos: La residencia exige CAD 100 en efectivo como garantía reembolsable por daños, una vez por estancia. Si hay dieta especial disponible: 50 por semana. Comidas diurnas opcionales 180 por semana. Servicio UM de 75 por trayecto para residencia, más tasas de aerolínea. Lavandería 2.50 por carga; vuelos, impuestos, seguro de viaje y gastos personales aparte. Pago: CAD 350 de anticipo no reembolsable forman parte del paquete, no se suman al precio. Saldo dos semanas antes. Canadá: cancelación en los primeros siete días con margen de 30 días, devolución mayor entre 75% del precio o precio menos 350; después, con 30 días o más 75%, menos de 30 días 60%. Tras comenzar, antes del 10% del programa devolución del 50%, con 10–30% devolución del 30%, por encima del 30% sin devolución. Denegación de visa: se retienen 350. Confirmar aplicación de condiciones e importe de factura.
+Fuente: https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf
+Se ha comprobado: 2026-11-06
+
+### CP039-20270718-20270801 · ILSC Junior · UBC Residence · 2 sem. · residencia / paquete diurno · 2027-07-18–2027-08-01
+
+lugar: Canadá · Vancouver / UBC Totem Park
+Fecha: 2027-07-18 — 2027-08-01
+Edad: 9–17
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: mixed_camp
+Idioma: Inglés: 15 horas semanales, cinco niveles, máximo 18 por clase; clases de 09:00–12:00 entre semana. La inmersión en francés corresponde a Montréal, no a UBC.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · CAD 5780 residencia o 2795 diurno; inscripción incluida, garantía reembolsable de 100 solo en residencia y una vez por estancia · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: 9 a 10 es muy bueno. Oscar: No se puede acceder hasta los 9 años. Suplementos: La residencia exige CAD 100 en efectivo como garantía reembolsable por daños, una vez por estancia. Si hay dieta especial disponible: 50 por semana. Comidas diurnas opcionales 180 por semana. Servicio UM de 75 por trayecto para residencia, más tasas de aerolínea. Lavandería 2.50 por carga; vuelos, impuestos, seguro de viaje y gastos personales aparte. Pago: CAD 350 de anticipo no reembolsable forman parte del paquete, no se suman al precio. Saldo dos semanas antes. Canadá: cancelación en los primeros siete días con margen de 30 días, devolución mayor entre 75% del precio o precio menos 350; después, con 30 días o más 75%, menos de 30 días 60%. Tras comenzar, antes del 10% del programa devolución del 50%, con 10–30% devolución del 30%, por encima del 30% sin devolución. Denegación de visa: se retienen 350. Confirmar aplicación de condiciones e importe de factura.
+Fuente: https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf
+Se ha comprobado: 2026-11-06
+
+### CP039-20270725-20270808 · ILSC Junior · UBC Residence · 2 sem. · residencia / paquete diurno · 2027-07-25–2027-08-08
+
+lugar: Canadá · Vancouver / UBC Totem Park
+Fecha: 2027-07-25 ♫ 2027-08-08
+Edad: 9–17
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: mixed_camp
+Idioma: Inglés: 15 horas semanales, cinco niveles, máximo 18 por clase; clases de 09:00–12:00 entre semana. La inmersión en francés corresponde a Montréal, no a UBC.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · CAD 5780 residencia o 2795 diurno; inscripción incluida, garantía reembolsable de 100 solo en residencia y una vez por estancia · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: 9 a 10 es muy bueno. Oscar: No se puede acceder hasta los 9 años. Suplementos: La residencia exige CAD 100 en efectivo como garantía reembolsable por daños, una vez por estancia. Si hay dieta especial disponible: 50 por semana. Comidas diurnas opcionales 180 por semana. Servicio UM de 75 por trayecto para residencia, más tasas de aerolínea. Lavandería 2.50 por carga; vuelos, impuestos, seguro de viaje y gastos personales aparte. Pago: CAD 350 de anticipo no reembolsable forman parte del paquete, no se suman al precio. Saldo dos semanas antes. Canadá: cancelación en los primeros siete días con margen de 30 días, devolución mayor entre 75% del precio o precio menos 350; después, con 30 días o más 75%, menos de 30 días 60%. Tras comenzar, antes del 10% del programa devolución del 50%, con 10–30% devolución del 30%, por encima del 30% sin devolución. Denegación de visa: se retienen 350. Confirmar aplicación de condiciones e importe de factura.
+Fuente: https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf
+Se ha comprobado: 2026-11-06
+
+### CP039-20270627-20270718 · ILSC Junior · UBC Residence · 3 sem. · residencia / paquete diurno · 2027-06-27–2027-07-18
+
+lugar: Canadá · Vancouver / UBC Totem Park
+Fecha: 2027-06-27 2027-07-18
+Edad: 9–17
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: mixed_camp
+Idioma: Inglés: 15 horas semanales, cinco niveles, máximo 18 por clase; clases de 09:00–12:00 entre semana. La inmersión en francés corresponde a Montréal, no a UBC.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · CAD 8025 residencia o 3985 diurno; inscripción incluida, garantía reembolsable de 100 solo en residencia y una vez por estancia · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: 9 a 10 es muy bueno. Oscar: No se puede acceder hasta los 9 años. Suplementos: La residencia exige CAD 100 en efectivo como garantía reembolsable por daños, una vez por estancia. Si hay dieta especial disponible: 50 por semana. Comidas diurnas opcionales 180 por semana. Servicio UM de 75 por trayecto para residencia, más tasas de aerolínea. Lavandería 2.50 por carga; vuelos, impuestos, seguro de viaje y gastos personales aparte. Pago: CAD 350 de anticipo no reembolsable forman parte del paquete, no se suman al precio. Saldo dos semanas antes. Canadá: cancelación en los primeros siete días con margen de 30 días, devolución mayor entre 75% del precio o precio menos 350; después, con 30 días o más 75%, menos de 30 días 60%. Tras comenzar, antes del 10% del programa devolución del 50%, con 10–30% devolución del 30%, por encima del 30% sin devolución. Denegación de visa: se retienen 350. Confirmar aplicación de condiciones e importe de factura.
+Fuente: https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf
+Se ha comprobado: 2026-11-06
+
+### CP039-20270704-20270725 · ILSC Junior · UBC Residence · 3 sem. · residencia / paquete diurno · 2027-07-04–2027-07-25
+
+lugar: Canadá · Vancouver / UBC Totem Park
+Fecha: 2027-07-04 - 2027-07-25
+Edad: 9–17
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: mixed_camp
+Idioma: Inglés: 15 horas semanales, cinco niveles, máximo 18 por clase; clases de 09:00–12:00 entre semana. La inmersión en francés corresponde a Montréal, no a UBC.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · CAD 8025 residencia o 3985 diurno; inscripción incluida, garantía reembolsable de 100 solo en residencia y una vez por estancia · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: 9 a 10 es muy bueno. Oscar: No se puede acceder hasta los 9 años. Suplementos: La residencia exige CAD 100 en efectivo como garantía reembolsable por daños, una vez por estancia. Si hay dieta especial disponible: 50 por semana. Comidas diurnas opcionales 180 por semana. Servicio UM de 75 por trayecto para residencia, más tasas de aerolínea. Lavandería 2.50 por carga; vuelos, impuestos, seguro de viaje y gastos personales aparte. Pago: CAD 350 de anticipo no reembolsable forman parte del paquete, no se suman al precio. Saldo dos semanas antes. Canadá: cancelación en los primeros siete días con margen de 30 días, devolución mayor entre 75% del precio o precio menos 350; después, con 30 días o más 75%, menos de 30 días 60%. Tras comenzar, antes del 10% del programa devolución del 50%, con 10–30% devolución del 30%, por encima del 30% sin devolución. Denegación de visa: se retienen 350. Confirmar aplicación de condiciones e importe de factura.
+Fuente: https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf
+Se ha comprobado: 2026-11-06
+
+### CP039-20270711-20270801 · ILSC Junior · UBC Residence · 3 sem. · residencia / paquete diurno · 2027-07-11–2027-08-01
+
+lugar: Canadá · Vancouver / UBC Totem Park
+Fecha: 2027-07-11 — 2027-08-01
+Edad: 9–17
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: mixed_camp
+Idioma: Inglés: 15 horas semanales, cinco niveles, máximo 18 por clase; clases de 09:00–12:00 entre semana. La inmersión en francés corresponde a Montréal, no a UBC.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · CAD 8025 residencia o 3985 diurno; inscripción incluida, garantía reembolsable de 100 solo en residencia y una vez por estancia · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: 9 a 10 es muy bueno. Oscar: No se puede acceder hasta los 9 años. Suplementos: La residencia exige CAD 100 en efectivo como garantía reembolsable por daños, una vez por estancia. Si hay dieta especial disponible: 50 por semana. Comidas diurnas opcionales 180 por semana. Servicio UM de 75 por trayecto para residencia, más tasas de aerolínea. Lavandería 2.50 por carga; vuelos, impuestos, seguro de viaje y gastos personales aparte. Pago: CAD 350 de anticipo no reembolsable forman parte del paquete, no se suman al precio. Saldo dos semanas antes. Canadá: cancelación en los primeros siete días con margen de 30 días, devolución mayor entre 75% del precio o precio menos 350; después, con 30 días o más 75%, menos de 30 días 60%. Tras comenzar, antes del 10% del programa devolución del 50%, con 10–30% devolución del 30%, por encima del 30% sin devolución. Denegación de visa: se retienen 350. Confirmar aplicación de condiciones e importe de factura.
+Fuente: https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf
+Se ha comprobado: 2026-11-06
+
+### CP039-20270718-20270808 · ILSC Junior · UBC Residence · 3 sem. · residencia / paquete diurno · 2027-07-18–2027-08-08
+
+lugar: Canadá · Vancouver / UBC Totem Park
+Fecha: 2027-07-18 — 2027-08-08
+Edad: 9–17
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: mixed_camp
+Idioma: Inglés: 15 horas semanales, cinco niveles, máximo 18 por clase; clases de 09:00–12:00 entre semana. La inmersión en francés corresponde a Montréal, no a UBC.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · CAD 8025 residencia o 3985 diurno; inscripción incluida, garantía reembolsable de 100 solo en residencia y una vez por estancia · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: 9 a 10 es muy bueno. Oscar: No se puede acceder hasta los 9 años. Suplementos: La residencia exige CAD 100 en efectivo como garantía reembolsable por daños, una vez por estancia. Si hay dieta especial disponible: 50 por semana. Comidas diurnas opcionales 180 por semana. Servicio UM de 75 por trayecto para residencia, más tasas de aerolínea. Lavandería 2.50 por carga; vuelos, impuestos, seguro de viaje y gastos personales aparte. Pago: CAD 350 de anticipo no reembolsable forman parte del paquete, no se suman al precio. Saldo dos semanas antes. Canadá: cancelación en los primeros siete días con margen de 30 días, devolución mayor entre 75% del precio o precio menos 350; después, con 30 días o más 75%, menos de 30 días 60%. Tras comenzar, antes del 10% del programa devolución del 50%, con 10–30% devolución del 30%, por encima del 30% sin devolución. Denegación de visa: se retienen 350. Confirmar aplicación de condiciones e importe de factura.
+Fuente: https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf
+Se ha comprobado: 2026-11-06
+
+### CP039-20270627-20270725 · ILSC Junior · UBC Residence · 4 sem. · residencia / paquete diurno · 2027-06-27–2027-07-25
+
+lugar: Canadá · Vancouver / UBC Totem Park
+Fecha: 2027-06-27 — 2027-07-25
+Edad: 9–17
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: mixed_camp
+Idioma: Inglés: 15 horas semanales, cinco niveles, máximo 18 por clase; clases de 09:00–12:00 entre semana. La inmersión en francés corresponde a Montréal, no a UBC.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · CAD 10270 residencia o 5175 diurno; inscripción incluida, garantía reembolsable de 100 solo en residencia y una vez por estancia · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: 9 a 10 es muy bueno. Oscar: No se puede acceder hasta los 9 años. Suplementos: La residencia exige CAD 100 en efectivo como garantía reembolsable por daños, una vez por estancia. Si hay dieta especial disponible: 50 por semana. Comidas diurnas opcionales 180 por semana. Servicio UM de 75 por trayecto para residencia, más tasas de aerolínea. Lavandería 2.50 por carga; vuelos, impuestos, seguro de viaje y gastos personales aparte. Pago: CAD 350 de anticipo no reembolsable forman parte del paquete, no se suman al precio. Saldo dos semanas antes. Canadá: cancelación en los primeros siete días con margen de 30 días, devolución mayor entre 75% del precio o precio menos 350; después, con 30 días o más 75%, menos de 30 días 60%. Tras comenzar, antes del 10% del programa devolución del 50%, con 10–30% devolución del 30%, por encima del 30% sin devolución. Denegación de visa: se retienen 350. Confirmar aplicación de condiciones e importe de factura.
+Fuente: https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf
+Se ha comprobado: 2026-11-06
+
+### CP039-20270704-20270801 · ILSC Junior · UBC Residence · 4 sem. · residencia / paquete diurno · 2027-07-04–2027-08-01
+
+lugar: Canadá · Vancouver / UBC Totem Park
+Fecha: 2027-07-04 — 2027-08-01
+Edad: 9–17
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: mixed_camp
+Idioma: Inglés: 15 horas semanales, cinco niveles, máximo 18 por clase; clases de 09:00–12:00 entre semana. La inmersión en francés corresponde a Montréal, no a UBC.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · CAD 10270 residencia o 5175 diurno; inscripción incluida, garantía reembolsable de 100 solo en residencia y una vez por estancia · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: 9 a 10 es muy bueno. Oscar: No se puede acceder hasta los 9 años. Suplementos: La residencia exige CAD 100 en efectivo como garantía reembolsable por daños, una vez por estancia. Si hay dieta especial disponible: 50 por semana. Comidas diurnas opcionales 180 por semana. Servicio UM de 75 por trayecto para residencia, más tasas de aerolínea. Lavandería 2.50 por carga; vuelos, impuestos, seguro de viaje y gastos personales aparte. Pago: CAD 350 de anticipo no reembolsable forman parte del paquete, no se suman al precio. Saldo dos semanas antes. Canadá: cancelación en los primeros siete días con margen de 30 días, devolución mayor entre 75% del precio o precio menos 350; después, con 30 días o más 75%, menos de 30 días 60%. Tras comenzar, antes del 10% del programa devolución del 50%, con 10–30% devolución del 30%, por encima del 30% sin devolución. Denegación de visa: se retienen 350. Confirmar aplicación de condiciones e importe de factura.
+Fuente: https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf
+Se ha comprobado: 2026-11-06
+
+### CP039-20270711-20270808 · ILSC Junior · UBC Residence · 4 sem. · residencia / paquete diurno · 2027-07-11–2027-08-08
+
+lugar: Canadá · Vancouver / UBC Totem Park
+Fecha: 2027-07-11 — 2027-08-08
+Edad: 9–17
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: mixed_camp
+Idioma: Inglés: 15 horas semanales, cinco niveles, máximo 18 por clase; clases de 09:00–12:00 entre semana. La inmersión en francés corresponde a Montréal, no a UBC.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · CAD 10270 residencia o 5175 diurno; inscripción incluida, garantía reembolsable de 100 solo en residencia y una vez por estancia · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: 9 a 10 es muy bueno. Oscar: No se puede acceder hasta los 9 años. Suplementos: La residencia exige CAD 100 en efectivo como garantía reembolsable por daños, una vez por estancia. Si hay dieta especial disponible: 50 por semana. Comidas diurnas opcionales 180 por semana. Servicio UM de 75 por trayecto para residencia, más tasas de aerolínea. Lavandería 2.50 por carga; vuelos, impuestos, seguro de viaje y gastos personales aparte. Pago: CAD 350 de anticipo no reembolsable forman parte del paquete, no se suman al precio. Saldo dos semanas antes. Canadá: cancelación en los primeros siete días con margen de 30 días, devolución mayor entre 75% del precio o precio menos 350; después, con 30 días o más 75%, menos de 30 días 60%. Tras comenzar, antes del 10% del programa devolución del 50%, con 10–30% devolución del 30%, por encima del 30% sin devolución. Denegación de visa: se retienen 350. Confirmar aplicación de condiciones e importe de factura.
+Fuente: https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf
+Se ha comprobado: 2026-11-06
+
+### CP039-20270627-20270801 · ILSC Junior · UBC Residence · 5 sem. · residencia / paquete diurno · 2027-06-27–2027-08-01
+
+lugar: Canadá · Vancouver / UBC Totem Park
+Fecha: 2027-06-27 — 2027-08-01
+Edad: 9–17
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: mixed_camp
+Idioma: Inglés: 15 horas semanales, cinco niveles, máximo 18 por clase; clases de 09:00–12:00 entre semana. La inmersión en francés corresponde a Montréal, no a UBC.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · CAD 12515 residencia o 6365 diurno; inscripción incluida, garantía reembolsable de 100 solo en residencia y una vez por estancia · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: 9 a 10 es muy bueno. Oscar: No se puede acceder hasta los 9 años. Suplementos: La residencia exige CAD 100 en efectivo como garantía reembolsable por daños, una vez por estancia. Si hay dieta especial disponible: 50 por semana. Comidas diurnas opcionales 180 por semana. Servicio UM de 75 por trayecto para residencia, más tasas de aerolínea. Lavandería 2.50 por carga; vuelos, impuestos, seguro de viaje y gastos personales aparte. Pago: CAD 350 de anticipo no reembolsable forman parte del paquete, no se suman al precio. Saldo dos semanas antes. Canadá: cancelación en los primeros siete días con margen de 30 días, devolución mayor entre 75% del precio o precio menos 350; después, con 30 días o más 75%, menos de 30 días 60%. Tras comenzar, antes del 10% del programa devolución del 50%, con 10–30% devolución del 30%, por encima del 30% sin devolución. Denegación de visa: se retienen 350. Confirmar aplicación de condiciones e importe de factura.
+Fuente: https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf
+Se ha comprobado: 2026-11-06
+
+### CP039-20270704-20270808 · ILSC Junior · UBC Residence · 5 sem. · residencia / paquete diurno · 2027-07-04–2027-08-08
+
+lugar: Canadá · Vancouver / UBC Totem Park
+Fecha: 2027-07-04 — 2027-08-08
+Edad: 9–17
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: mixed_camp
+Idioma: Inglés: 15 horas semanales, cinco niveles, máximo 18 por clase; clases de 09:00–12:00 entre semana. La inmersión en francés corresponde a Montréal, no a UBC.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · CAD 12515 residencia o 6365 diurno; inscripción incluida, garantía reembolsable de 100 solo en residencia y una vez por estancia · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: 9 a 10 es muy bueno. Oscar: No se puede acceder hasta los 9 años. Suplementos: La residencia exige CAD 100 en efectivo como garantía reembolsable por daños, una vez por estancia. Si hay dieta especial disponible: 50 por semana. Comidas diurnas opcionales 180 por semana. Servicio UM de 75 por trayecto para residencia, más tasas de aerolínea. Lavandería 2.50 por carga; vuelos, impuestos, seguro de viaje y gastos personales aparte. Pago: CAD 350 de anticipo no reembolsable forman parte del paquete, no se suman al precio. Saldo dos semanas antes. Canadá: cancelación en los primeros siete días con margen de 30 días, devolución mayor entre 75% del precio o precio menos 350; después, con 30 días o más 75%, menos de 30 días 60%. Tras comenzar, antes del 10% del programa devolución del 50%, con 10–30% devolución del 30%, por encima del 30% sin devolución. Denegación de visa: se retienen 350. Confirmar aplicación de condiciones e importe de factura.
+Fuente: https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf
+Se ha comprobado: 2026-11-06
+
+### CP039-20270627-20270808 · ILSC Junior · UBC Residence · 6 sem. · residencia / paquete diurno · 2027-06-27–2027-08-08
+
+lugar: Canadá · Vancouver / UBC Totem Park
+Fecha: 2027-06-27 — 2027-08-08
+Edad: 9–17
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: mixed_camp
+Idioma: Inglés: 15 horas semanales, cinco niveles, máximo 18 por clase; clases de 09:00–12:00 entre semana. La inmersión en francés corresponde a Montréal, no a UBC.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · CAD 14760 residencia o 7555 diurno; inscripción incluida, garantía reembolsable de 100 solo en residencia y una vez por estancia · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: 9 a 10 es muy bueno. Oscar: No se puede acceder hasta los 9 años. Suplementos: La residencia exige CAD 100 en efectivo como garantía reembolsable por daños, una vez por estancia. Si hay dieta especial disponible: 50 por semana. Comidas diurnas opcionales 180 por semana. Servicio UM de 75 por trayecto para residencia, más tasas de aerolínea. Lavandería 2.50 por carga; vuelos, impuestos, seguro de viaje y gastos personales aparte. Pago: CAD 350 de anticipo no reembolsable forman parte del paquete, no se suman al precio. Saldo dos semanas antes. Canadá: cancelación en los primeros siete días con margen de 30 días, devolución mayor entre 75% del precio o precio menos 350; después, con 30 días o más 75%, menos de 30 días 60%. Tras comenzar, antes del 10% del programa devolución del 50%, con 10–30% devolución del 30%, por encima del 30% sin devolución. Denegación de visa: se retienen 350. Confirmar aplicación de condiciones e importe de factura.
+Fuente: https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf
+Se ha comprobado: 2026-11-06
 
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02
 
@@ -12320,11 +12656,11 @@ Matway: Condicional; comprobar la edad, clase y admisión
 Formato: residente
 Idioma: La enseñanza/vida de campo no está claramente definida en las fuentes que se leen; confirma al operador.
 Marca de idioma: unconfirmed; apoyo: no declarado
-Precio: 2027 · $1 650 / Semana · moneda de confirmación · y condiciones del expediente
+Precio: 2027 · CAD 1650 por semana; anticipo de 650 incluido en el total · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: 2017 corresponde 9–13 en 01.06.2027; Necesitas un nivel de pista., EN y preparación para el internado. Oscar: B 2027 Sólo 6–7, mínimo estándar 9; Exclusión de la lista de excepciones 8/14. Gastos adicionales: Vuelo/carretera hasta el North York, Seguro separado. Day visit $150/No hay prueba de que sea más joven.. Pago: Deposit $650 Entra en $1 650; Saldo $1 000 antes 01.03.2027. Antes 31.12.2026 devolución completa; 01.01–28.02 50%; c 01.03 No.. Fechas de frontera.
+Limitaciones: Matvey: 2017 corresponde 9–13 en el 01.06.2027; Necesitamos un nivel de pista, EN y la preparación para el pensión. Oscar: en el 2027 Sólo que 6–7, el mínimo estándar 9; la excepción se describe sólo para 8/14. Suplementos: el vuelo/el camino hasta North York, seguro por separado. Day visit $150/No hay prueba de otro día de edad menor. Pago: CAD 650 forman parte de 1650, saldo de 1000 hasta el 1 de marzo de 2027; formularios hasta el 1 de abril. Reglas específicas de 2027: hasta el 31 de diciembre de 2026 devolución completa, del 1 de enero al 28 de febrero de 2027 devolución del 50%, desde el 1 de marzo sin devolución. La página general antigua de cancelación 2025/2026 no sustituye las condiciones de esta estancia.
 Fuente: https://bricklabs.ca/over-night-camp-2026/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-06
 
 ### CP079-20270815-20270820 · Brick Labs · Robotics · Challenge Series · 2027-08-15–2027-08-20
 
@@ -12336,11 +12672,11 @@ Matway: Condicional; comprobar la edad, clase y admisión
 Formato: residente
 Idioma: La enseñanza/vida de campo no está claramente definida en las fuentes que se leen; confirma al operador.
 Marca de idioma: unconfirmed; apoyo: no declarado
-Precio: 2027 · $1 650 / Semana · moneda de confirmación · y condiciones del expediente
+Precio: 2027 · CAD 1650 por semana; anticipo de 650 incluido en el total · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: 2017 corresponde 9–13 en 01.06.2027; Necesitas un nivel de pista., EN y preparación para el internado. Oscar: B 2027 Sólo 6–7, mínimo estándar 9; Exclusión de la lista de excepciones 8/14. Gastos adicionales: Vuelo/carretera hasta el North York, Seguro separado. Day visit $150/No hay prueba de que sea más joven.. Pago: Deposit $650 Entra en $1 650; Saldo $1 000 antes 01.03.2027. Antes 31.12.2026 devolución completa; 01.01–28.02 50%; c 01.03 No.. Fechas de frontera.
+Limitaciones: Matvey: 2017 corresponde 9–13 en el 01.06.2027; Necesitamos un nivel de pista, EN y la preparación para el pensión. Oscar: en el 2027 Sólo que 6–7, el mínimo estándar 9; la excepción se describe sólo para 8/14. Suplementos: el vuelo/el camino hasta North York, seguro por separado. Day visit $150/No hay prueba de otro día de edad menor. Pago: CAD 650 forman parte de 1650, saldo de 1000 hasta el 1 de marzo de 2027; formularios hasta el 1 de abril. Reglas específicas de 2027: hasta el 31 de diciembre de 2026 devolución completa, del 1 de enero al 28 de febrero de 2027 devolución del 50%, desde el 1 de marzo sin devolución. La página general antigua de cancelación 2025/2026 no sustituye las condiciones de esta estancia.
 Fuente: https://bricklabs.ca/over-night-camp-2026/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-06
 
 ### CP080-20270725-20270730 · Brick Labs · Creative Builders · Display Builder · Inspired by Muskoka · 2027-07-25–2027-07-30
 
@@ -12352,11 +12688,11 @@ Matway: Condicional; comprobar la edad, clase y admisión
 Formato: residente
 Idioma: La enseñanza/vida de campo no está claramente definida en las fuentes que se leen; confirma al operador.
 Marca de idioma: unconfirmed; apoyo: no declarado
-Precio: 2027 · $1 650 / Semana · moneda de confirmación · y condiciones del expediente
+Precio: 2027 · CAD 1650 por semana; anticipo de 650 incluido en el total · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: 2017 corresponde 9–13 en 01.06.2027; Necesitas un nivel de pista., EN y preparación para el internado. Oscar: B 2027 Sólo 6–7, mínimo estándar 9; Exclusión de la lista de excepciones 8/14. Gastos adicionales: Vuelo/carretera hasta el North York, Seguro separado. Day visit $150/No hay prueba de que sea más joven.. Pago: Deposit $650 Entra en $1 650; Saldo $1 000 antes 01.03.2027. Antes 31.12.2026 devolución completa; 01.01–28.02 50%; c 01.03 No.. Fechas de frontera.
+Limitaciones: Matvey: 2017 corresponde 9–13 en el 01.06.2027; Necesitamos un nivel de pista, EN y la preparación para el pensión. Oscar: en el 2027 Sólo que 6–7, el mínimo estándar 9; la excepción se describe sólo para 8/14. Suplementos: el vuelo/el camino hasta North York, seguro por separado. Day visit $150/No hay prueba de otro día de edad menor. Pago: CAD 650 forman parte de 1650, saldo de 1000 hasta el 1 de marzo de 2027; formularios hasta el 1 de abril. Reglas específicas de 2027: hasta el 31 de diciembre de 2026 devolución completa, del 1 de enero al 28 de febrero de 2027 devolución del 50%, desde el 1 de marzo sin devolución. La página general antigua de cancelación 2025/2026 no sustituye las condiciones de esta estancia.
 Fuente: https://bricklabs.ca/over-night-camp-2026/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-06
 
 ### CP080-20270815-20270820 · Brick Labs · Creative Builders · Macro Scale Characters · 2027-08-15–2027-08-20
 
@@ -12368,11 +12704,11 @@ Matway: Condicional; comprobar la edad, clase y admisión
 Formato: residente
 Idioma: La enseñanza/vida de campo no está claramente definida en las fuentes que se leen; confirma al operador.
 Marca de idioma: unconfirmed; apoyo: no declarado
-Precio: 2027 · $1 650 / Semana · moneda de confirmación · y condiciones del expediente
+Precio: 2027 · CAD 1650 por semana; anticipo de 650 incluido en el total · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: 2017 corresponde 9–13 en 01.06.2027; Necesitas un nivel de pista., EN y preparación para el internado. Oscar: B 2027 Sólo 6–7, mínimo estándar 9; Exclusión de la lista de excepciones 8/14. Gastos adicionales: Vuelo/carretera hasta el North York, Seguro separado. Day visit $150/No hay prueba de que sea más joven.. Pago: Deposit $650 Entra en $1 650; Saldo $1 000 antes 01.03.2027. Antes 31.12.2026 devolución completa; 01.01–28.02 50%; c 01.03 No.. Fechas de frontera.
+Limitaciones: Matvey: 2017 corresponde 9–13 en el 01.06.2027; Necesitamos un nivel de pista, EN y la preparación para el pensión. Oscar: en el 2027 Sólo que 6–7, el mínimo estándar 9; la excepción se describe sólo para 8/14. Suplementos: el vuelo/el camino hasta North York, seguro por separado. Day visit $150/No hay prueba de otro día de edad menor. Pago: CAD 650 forman parte de 1650, saldo de 1000 hasta el 1 de marzo de 2027; formularios hasta el 1 de abril. Reglas específicas de 2027: hasta el 31 de diciembre de 2026 devolución completa, del 1 de enero al 28 de febrero de 2027 devolución del 50%, desde el 1 de marzo sin devolución. La página general antigua de cancelación 2025/2026 no sustituye las condiciones de esta estancia.
 Fuente: https://bricklabs.ca/over-night-camp-2026/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-06
 
 ### CP081-20270705-20270709 · Next Robotics · IQ Summer Camp · IQ Robotics · Grades 3–6 · 2027-07-05–2027-07-09
 
@@ -12384,11 +12720,11 @@ Matway: Condicional; comprobar la edad, clase y admisión
 Formato: day_camp
 Idioma: La enseñanza/vida de campo no está claramente definida en las fuentes que se leen; confirma al operador.
 Marca de idioma: unconfirmed; apoyo: no declarado
-Costo: 2027 $315 con GST +2% card fee · subpagos y condiciones en el expediente
+Precio: 2027 · 2027: precio actual no confirmado; no tratar los antiguos 315 como tarifa vigente · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Sólo encaja con el Grade 3–6 en Sep 2027; Clase actual desconocida. Oscar: Lo necesito. Grade 3–6 en Sep 2027; Edad 6–7 No confirma por sí mismo la admisión. Gastos adicionales: Card processing +2%; Nutrición/El seguro de salud, la vivienda de los padres y el camino por separado. Pago: Pago en virtud de checkout. FAQ: no se devuelve después de la inscripción; credit Sólo por decisión individual.
+Limitaciones: Matvey: sólo es adecuado cuando Grade 3–6 en el Sep 2027; no se conoce el curso actual. Oscar: Necesitamos Grade 3–6 en el Sep 2027; edad 6–7 no confirma el permiso por sí mismo. Suplementos: Se desconocen comida, horario ampliado, impuestos, seguro y comisión de la factura actual; alojamiento adulto y viaje aparte. Pago: Pagamiento al momento del checkout. FAQ: no hay devolución después de la inscripción; crédito solo por decisión individual.
 Fuente: https://www.nextrobotics.ca/programs-1
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-06
 
 ### CP081-20270719-20270723 · Next Robotics · IQ Summer Camp · IQ Robotics · Grades 3–6 · 2027-07-19–2027-07-23
 
@@ -12400,11 +12736,11 @@ Matway: Condicional; comprobar la edad, clase y admisión
 Formato: day_camp
 Idioma: La enseñanza/vida de campo no está claramente definida en las fuentes que se leen; confirma al operador.
 Marca de idioma: unconfirmed; apoyo: no declarado
-Costo: 2027 $315 con GST +2% card fee · subpagos y condiciones en el expediente
+Precio: 2027 · 2027: precio actual no confirmado; no tratar los antiguos 315 como tarifa vigente · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Sólo encaja con el Grade 3–6 en Sep 2027; Clase actual desconocida. Oscar: Lo necesito. Grade 3–6 en Sep 2027; Edad 6–7 No confirma por sí mismo la admisión. Gastos adicionales: Card processing +2%; Nutrición/El seguro de salud, la vivienda de los padres y el camino por separado. Pago: Pago en virtud de checkout. FAQ: no se devuelve después de la inscripción; credit Sólo por decisión individual.
+Limitaciones: Matvey: sólo es adecuado cuando Grade 3–6 en el Sep 2027; no se conoce el curso actual. Oscar: Necesitamos Grade 3–6 en el Sep 2027; edad 6–7 no confirma el permiso por sí mismo. Suplementos: Se desconocen comida, horario ampliado, impuestos, seguro y comisión de la factura actual; alojamiento adulto y viaje aparte. Pago: Pagamiento al momento del checkout. FAQ: no hay devolución después de la inscripción; crédito solo por decisión individual.
 Fuente: https://www.nextrobotics.ca/programs-1
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-06
 
 ### CP081-20270726-20270730 · Next Robotics · IQ Summer Camp · IQ Robotics · Grades 3–6 · 2027-07-26–2027-07-30
 
@@ -12416,11 +12752,11 @@ Matway: Condicional; comprobar la edad, clase y admisión
 Formato: day_camp
 Idioma: La enseñanza/vida de campo no está claramente definida en las fuentes que se leen; confirma al operador.
 Marca de idioma: unconfirmed; apoyo: no declarado
-Costo: 2027 $315 con GST +2% card fee · subpagos y condiciones en el expediente
+Precio: 2027 · 2027: precio actual no confirmado; no tratar los antiguos 315 como tarifa vigente · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Sólo encaja con el Grade 3–6 en Sep 2027; Clase actual desconocida. Oscar: Lo necesito. Grade 3–6 en Sep 2027; Edad 6–7 No confirma por sí mismo la admisión. Gastos adicionales: Card processing +2%; Nutrición/El seguro de salud, la vivienda de los padres y el camino por separado. Pago: Pago en virtud de checkout. FAQ: no se devuelve después de la inscripción; credit Sólo por decisión individual.
+Limitaciones: Matvey: sólo es adecuado cuando Grade 3–6 en el Sep 2027; no se conoce el curso actual. Oscar: Necesitamos Grade 3–6 en el Sep 2027; edad 6–7 no confirma el permiso por sí mismo. Suplementos: Se desconocen comida, horario ampliado, impuestos, seguro y comisión de la factura actual; alojamiento adulto y viaje aparte. Pago: Pagamiento al momento del checkout. FAQ: no hay devolución después de la inscripción; crédito solo por decisión individual.
 Fuente: https://www.nextrobotics.ca/programs-1
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-06
 
 ### CP084-20270701-20270714 · Camp Arowhon · Regular Sessions · Starter · 2 semanas · 2027-07-01 国2027-07-14
 
@@ -12434,9 +12770,9 @@ Idioma: La enseñanza/vida de campo no está claramente definida en las fuentes 
 Marca de idioma: unconfirmed; apoyo: no declarado
 Costo: 2027 - CAD5 200 + HST - pagos complementarios y condiciones de archivo
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Seleccionar clase válida/y confirmar EN, natación, Preparación para la noche. Oscar: Para 2 Se necesita un número de semanas ya terminado Grade1; Mínimo mes de duración 7. Ver primero Mini. Gastos adicionales: Toronto/Pearson bus CAD175/dirección; changeover CAD95/dirección. Optional kit CAD200; medical insurance Obligatoria, camp option CAD200. Pago: CAD1 000 por adelantado a la cuenta de paquete. Cancelación: antes Dec1 CAD300; Dec1–Feb1 CAD500; Feb1–May1 CAD1 000; después May1 sin retorno.
+Limitaciones: Matvey: Seleccionar la clase/tiempo de duración permitido y confirmar el EN, la navegación, la preparación para la noche. Oscar: Dos semanas requieren haber terminado Grade 1–5; la inscripción ordinaria del directorio parte de siete años. No prometer excepción a Oscar con seis solo por el curso; confirmar primero edad y curso. Suplementos: HST no incluido. Autobús Toronto/Pearson CAD 175 por trayecto, cambio de turno 95; alquiler opcional 150. Cobertura médica obligatoria: póliza existente apta u opción del campamento 200, sin sumar automáticamente dos seguros. Para 6/8 semanas hay dos noches de cambio fuera del campamento. Pago: CAD1 000 por adelantado a la cuenta del paquete. cancelación: hasta Dec1 CAD300; Dec1Feb1 CAD500; Feb1May1 CAD1 000; después de May1 sin devolución.
 Fuente: https://camparowhon.com/programs/rates-dates/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-06
 
 ### CP084-20270729-20270811 · Camp Arowhon · Regular Sessions · Starter · 2 semanas · 2027-07-29 encaminados2027-08-11
 
@@ -12450,9 +12786,9 @@ Idioma: La enseñanza/vida de campo no está claramente definida en las fuentes 
 Marca de idioma: unconfirmed; apoyo: no declarado
 Costo: 2027 - CAD5 200 + HST - pagos complementarios y condiciones de archivo
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Seleccionar clase válida/y confirmar EN, natación, Preparación para la noche. Oscar: Para 2 Se necesita un número de semanas ya terminado Grade1; Mínimo mes de duración 7. Ver primero Mini. Gastos adicionales: Toronto/Pearson bus CAD175/dirección; changeover CAD95/dirección. Optional kit CAD200; medical insurance Obligatoria, camp option CAD200. Pago: CAD1 000 por adelantado a la cuenta de paquete. Cancelación: antes Dec1 CAD300; Dec1–Feb1 CAD500; Feb1–May1 CAD1 000; después May1 sin retorno.
+Limitaciones: Matvey: Seleccionar la clase/tiempo de duración permitido y confirmar el EN, la navegación, la preparación para la noche. Oscar: Dos semanas requieren haber terminado Grade 1–5; la inscripción ordinaria del directorio parte de siete años. No prometer excepción a Oscar con seis solo por el curso; confirmar primero edad y curso. Suplementos: HST no incluido. Autobús Toronto/Pearson CAD 175 por trayecto, cambio de turno 95; alquiler opcional 150. Cobertura médica obligatoria: póliza existente apta u opción del campamento 200, sin sumar automáticamente dos seguros. Para 6/8 semanas hay dos noches de cambio fuera del campamento. Pago: CAD1 000 por adelantado a la cuenta del paquete. cancelación: hasta Dec1 CAD300; Dec1Feb1 CAD500; Feb1May1 CAD1 000; después de May1 sin devolución.
 Fuente: https://camparowhon.com/programs/rates-dates/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-06
 
 ### CP084-20270701-20270727 · Camp Arowhon · Regular Sessions · First Session · 2027-07-01–2027-07-27
 
@@ -12466,9 +12802,9 @@ Idioma: La enseñanza/vida de campo no está claramente definida en las fuentes 
 Marca de idioma: unconfirmed; apoyo: no declarado
 Costo: 2027 - CAD10 200 + HST - pagos complementarios y condiciones de archivo
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Seleccionar clase válida/y confirmar EN, natación, Preparación para la noche. Oscar: Para 2 Se necesita un número de semanas ya terminado Grade1; Mínimo mes de duración 7. Ver primero Mini. Gastos adicionales: Toronto/Pearson bus CAD175/dirección; changeover CAD95/dirección. Optional kit CAD200; medical insurance Obligatoria, camp option CAD200. Pago: CAD1 000 por adelantado a la cuenta de paquete. Cancelación: antes Dec1 CAD300; Dec1–Feb1 CAD500; Feb1–May1 CAD1 000; después May1 sin retorno.
+Limitaciones: Matvey: Seleccionar la clase/tiempo de duración permitido y confirmar el EN, la navegación, la preparación para la noche. Oscar: Dos semanas requieren haber terminado Grade 1–5; la inscripción ordinaria del directorio parte de siete años. No prometer excepción a Oscar con seis solo por el curso; confirmar primero edad y curso. Suplementos: HST no incluido. Autobús Toronto/Pearson CAD 175 por trayecto, cambio de turno 95; alquiler opcional 150. Cobertura médica obligatoria: póliza existente apta u opción del campamento 200, sin sumar automáticamente dos seguros. Para 6/8 semanas hay dos noches de cambio fuera del campamento. Pago: CAD1 000 por adelantado a la cuenta del paquete. cancelación: hasta Dec1 CAD300; Dec1Feb1 CAD500; Feb1May1 CAD1 000; después de May1 sin devolución.
 Fuente: https://camparowhon.com/programs/rates-dates/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-06
 
 ### CP084-20270729-20270823 · Camp Arowhon · Regular Sessions · Second Session · 2027-07-29–2027-08-23
 
@@ -12482,9 +12818,9 @@ Idioma: La enseñanza/vida de campo no está claramente definida en las fuentes 
 Marca de idioma: unconfirmed; apoyo: no declarado
 Costo: 2027 - CAD8 800 + HST - pagos complementarios y condiciones de los expedientes
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Seleccionar clase válida/y confirmar EN, natación, Preparación para la noche. Oscar: Para 2 Se necesita un número de semanas ya terminado Grade1; Mínimo mes de duración 7. Ver primero Mini. Gastos adicionales: Toronto/Pearson bus CAD175/dirección; changeover CAD95/dirección. Optional kit CAD200; medical insurance Obligatoria, camp option CAD200. Pago: CAD1 000 por adelantado a la cuenta de paquete. Cancelación: antes Dec1 CAD300; Dec1–Feb1 CAD500; Feb1–May1 CAD1 000; después May1 sin retorno.
+Limitaciones: Matvey: Seleccionar la clase/tiempo de duración permitido y confirmar el EN, la navegación, la preparación para la noche. Oscar: Dos semanas requieren haber terminado Grade 1–5; la inscripción ordinaria del directorio parte de siete años. No prometer excepción a Oscar con seis solo por el curso; confirmar primero edad y curso. Suplementos: HST no incluido. Autobús Toronto/Pearson CAD 175 por trayecto, cambio de turno 95; alquiler opcional 150. Cobertura médica obligatoria: póliza existente apta u opción del campamento 200, sin sumar automáticamente dos seguros. Para 6/8 semanas hay dos noches de cambio fuera del campamento. Pago: CAD1 000 por adelantado a la cuenta del paquete. cancelación: hasta Dec1 CAD300; Dec1Feb1 CAD500; Feb1May1 CAD1 000; después de May1 sin devolución.
 Fuente: https://camparowhon.com/programs/rates-dates/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-06
 
 ### CP084-20270701-20270811 · Camp Arowhon · Regular Sessions · 6 semanas · Interrupción de dos noches · 2027-07-01–2027-08-11
 
@@ -12498,9 +12834,9 @@ Idioma: La enseñanza/vida de campo no está claramente definida en las fuentes 
 Marca de idioma: unconfirmed; apoyo: no declarado
 Costo: 2027 - CAD13 800 + HST - Suplementos y condiciones del expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Seleccionar clase válida/y confirmar EN, natación, Preparación para la noche. Oscar: Para 2 Se necesita un número de semanas ya terminado Grade1; Mínimo mes de duración 7. Ver primero Mini. Gastos adicionales: Toronto/Pearson bus CAD175/dirección; changeover CAD95/dirección. Optional kit CAD200; medical insurance Obligatoria, camp option CAD200. Pago: CAD1 000 por adelantado a la cuenta de paquete. Cancelación: antes Dec1 CAD300; Dec1–Feb1 CAD500; Feb1–May1 CAD1 000; después May1 sin retorno.
+Limitaciones: Matvey: Seleccionar la clase/tiempo de duración permitido y confirmar el EN, la navegación, la preparación para la noche. Oscar: Dos semanas requieren haber terminado Grade 1–5; la inscripción ordinaria del directorio parte de siete años. No prometer excepción a Oscar con seis solo por el curso; confirmar primero edad y curso. Suplementos: HST no incluido. Autobús Toronto/Pearson CAD 175 por trayecto, cambio de turno 95; alquiler opcional 150. Cobertura médica obligatoria: póliza existente apta u opción del campamento 200, sin sumar automáticamente dos seguros. Para 6/8 semanas hay dos noches de cambio fuera del campamento. Pago: CAD1 000 por adelantado a la cuenta del paquete. cancelación: hasta Dec1 CAD300; Dec1Feb1 CAD500; Feb1May1 CAD1 000; después de May1 sin devolución.
 Fuente: https://camparowhon.com/programs/rates-dates/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-06
 
 ### CP084-20270701-20270823 · Camp Arowhon · Regular Sessions · Full Summer · Interrupción de dos noches · 2027-07-01–2027-08-23
 
@@ -12514,9 +12850,9 @@ Idioma: La enseñanza/vida de campo no está claramente definida en las fuentes 
 Marca de idioma: unconfirmed; apoyo: no declarado
 Costo: 2027 - CAD14 750 + HST - pagos complementarios y condiciones de archivo
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Seleccionar clase válida/y confirmar EN, natación, Preparación para la noche. Oscar: Para 2 Se necesita un número de semanas ya terminado Grade1; Mínimo mes de duración 7. Ver primero Mini. Gastos adicionales: Toronto/Pearson bus CAD175/dirección; changeover CAD95/dirección. Optional kit CAD200; medical insurance Obligatoria, camp option CAD200. Pago: CAD1 000 por adelantado a la cuenta de paquete. Cancelación: antes Dec1 CAD300; Dec1–Feb1 CAD500; Feb1–May1 CAD1 000; después May1 sin retorno.
+Limitaciones: Matvey: Seleccionar la clase/tiempo de duración permitido y confirmar el EN, la navegación, la preparación para la noche. Oscar: Dos semanas requieren haber terminado Grade 1–5; la inscripción ordinaria del directorio parte de siete años. No prometer excepción a Oscar con seis solo por el curso; confirmar primero edad y curso. Suplementos: HST no incluido. Autobús Toronto/Pearson CAD 175 por trayecto, cambio de turno 95; alquiler opcional 150. Cobertura médica obligatoria: póliza existente apta u opción del campamento 200, sin sumar automáticamente dos seguros. Para 6/8 semanas hay dos noches de cambio fuera del campamento. Pago: CAD1 000 por adelantado a la cuenta del paquete. cancelación: hasta Dec1 CAD300; Dec1Feb1 CAD500; Feb1May1 CAD1 000; después de May1 sin devolución.
 Fuente: https://camparowhon.com/programs/rates-dates/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-06
 
 ### CP085-20270813-20270816 · Camp Arowhon · Mini Camp · Mini · 3 noches / 4 días · 2027-08-13-2027-08-16
 
@@ -12532,7 +12868,7 @@ Costo: 2027 - CAD700 - Valor fiscal de la confirmación de los pagos y las condi
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Solo si hay más. 9 o se recibió una exención por escrito; después 10 estándar Mini No encaja.. Oscar: Edad6–7 corresponde, Pero necesitas una completa. SK–Grade 3, EN y preparación para las tres noches. Gastos adicionales: Mini bus CAD100/dirección — otro tipo, No, no lo es. regular bus; confirmación separada de la póliza. Pago: Para Mini Depósito no necesario. Cuadro de retención regular camp a Mini no se aplica; Aclarar la cuestión de la abolición.
 Fuente: https://camparowhon.com/programs/mini-camp/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-06
 
 ### CP086-20270612-20270618 · Catalina Sea Camp · One Week · One Week · ages8–13 · 2027-06-12–2027-06-18
 
@@ -12548,7 +12884,7 @@ Costo: 2027 - USD3 750 / 7 días - pagos complementarios y condiciones de archiv
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Edad8–13 Ajustado; Sí, lo necesito. EN, readiness y normas sobre el agua. Oscar: B 2027 menor de edad8. Gastos adicionales: Carretera/airport shuttle, Seguro, elective fees y los pagos adicionales para aclarar. Pago: USD300 Anticipo no reembolsable se incluye en el tuition; Pago total antes de 1 mayo. Antes 1 Febrero100, Feb1–Apr30 200; May1–14 25%, May15–31 50%, después 1 junio 100%. Base de la combinación de retenciones en garantía.
 Fuente: https://catalinaseacamp.org/dates-rates/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-06
 
 ### CP086-20270619-20270625 · Catalina Sea Camp · One Week · One Week · ages8–13 · 2027-06-19–2027-06-25
 
@@ -12564,7 +12900,7 @@ Costo: 2027 - USD3 750 / 7 días - pagos complementarios y condiciones de archiv
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Edad8–13 Ajustado; Sí, lo necesito. EN, readiness y normas sobre el agua. Oscar: B 2027 menor de edad8. Gastos adicionales: Carretera/airport shuttle, Seguro, elective fees y los pagos adicionales para aclarar. Pago: USD300 Anticipo no reembolsable se incluye en el tuition; Pago total antes de 1 mayo. Antes 1 Febrero100, Feb1–Apr30 200; May1–14 25%, May15–31 50%, después 1 junio 100%. Base de la combinación de retenciones en garantía.
 Fuente: https://catalinaseacamp.org/dates-rates/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-06
 
 ### CP086-20270626-20270702 · Catalina Sea Camp · One Week · One Week · ages8–13 · 2027-06-26–2027-07-02
 
@@ -12580,7 +12916,7 @@ Costo: 2027 - USD3 750 / 7 días - pagos complementarios y condiciones de archiv
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Edad8–13 Ajustado; Sí, lo necesito. EN, readiness y normas sobre el agua. Oscar: B 2027 menor de edad8. Gastos adicionales: Carretera/airport shuttle, Seguro, elective fees y los pagos adicionales para aclarar. Pago: USD300 Anticipo no reembolsable se incluye en el tuition; Pago total antes de 1 mayo. Antes 1 Febrero100, Feb1–Apr30 200; May1–14 25%, May15–31 50%, después 1 junio 100%. Base de la combinación de retenciones en garantía.
 Fuente: https://catalinaseacamp.org/dates-rates/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-06
 
 ### CP094-20270718-20270731 · Ojo Ciego · Verano 2027 · Verano · Completamente 2-Un internado de una semana · 2027-07-18–2027-07-31
 
@@ -14052,7 +14388,7 @@ Precio: 2027 · USD 2 900 · y condiciones del expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10 en 2027: está en ambas fronteras menores publicadas; La lengua y la admisión extranjera todavía necesitan. Oscar: Sólo después 7-el primer día; en 6 No se permite la entrada en vigor de la Ley de la Corte Penal Internacional. Gastos adicionales: Vuelo, seguro y seguro ONT transfer USD 60 a cada lado sin indicación del año travel-page; Total 2027 confirmar. LAX transfer no propuesta; sin autorización flight slots se puede pagar por adelantado. Pago: USD 300 Anticipo no reembolsable del precio; balance May 1. Antes Feb 1 Más. USD 100 cancellation fee, Feb–Apr USD 200; May 1–14 retención 25%, May 15–31 50%, después June 1 100%. El operador permite un aumento controlado antes de USD 150 con la posibilidad de rechazar. Exclusión separada financial aid no se aplica a la solicitud ordinaria.
 Fuente: https://astrocamp.org/camp-dates-rates/
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP142-20270619-20270625 · AstroCamp · One-Week Discovery · Junior · 7 días / 6 noches · 2027-06-19 CLAIM2027-06-25
 
@@ -14068,7 +14404,7 @@ Precio: 2027 · USD 2 900 · y condiciones del expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10 en 2027: está en ambas fronteras menores publicadas; La lengua y la admisión extranjera todavía necesitan. Oscar: Sólo después 7-el primer día; en 6 No se permite la entrada en vigor de la Ley de la Corte Penal Internacional. Gastos adicionales: Vuelo, seguro y seguro ONT transfer USD 60 a cada lado sin indicación del año travel-page; Total 2027 confirmar. LAX transfer no propuesta; sin autorización flight slots se puede pagar por adelantado. Pago: USD 300 Anticipo no reembolsable del precio; balance May 1. Antes Feb 1 Más. USD 100 cancellation fee, Feb–Apr USD 200; May 1–14 retención 25%, May 15–31 50%, después June 1 100%. El operador permite un aumento controlado antes de USD 150 con la posibilidad de rechazar. Exclusión separada financial aid no se aplica a la solicitud ordinaria.
 Fuente: https://astrocamp.org/camp-dates-rates/
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP142-20270725-20270731 · AstroCamp · One-Week Discovery · Junior · 7 días / 6 noches · 2027-07-25-2027-07-31
 
@@ -14084,7 +14420,7 @@ Precio: 2027 · USD 2 900 · y condiciones del expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10 en 2027: está en ambas fronteras menores publicadas; La lengua y la admisión extranjera todavía necesitan. Oscar: Sólo después 7-el primer día; en 6 No se permite la entrada en vigor de la Ley de la Corte Penal Internacional. Gastos adicionales: Vuelo, seguro y seguro ONT transfer USD 60 a cada lado sin indicación del año travel-page; Total 2027 confirmar. LAX transfer no propuesta; sin autorización flight slots se puede pagar por adelantado. Pago: USD 300 Anticipo no reembolsable del precio; balance May 1. Antes Feb 1 Más. USD 100 cancellation fee, Feb–Apr USD 200; May 1–14 retención 25%, May 15–31 50%, después June 1 100%. El operador permite un aumento controlado antes de USD 150 con la posibilidad de rechazar. Exclusión separada financial aid no se aplica a la solicitud ordinaria.
 Fuente: https://astrocamp.org/camp-dates-rates/
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP143-20270606-20270627 · French Woods Festival · Performing Arts Boarding · Session 1 · 3 semanas · 2027-06-06–2027-06-27
 
@@ -14094,13 +14430,13 @@ Edad: 7–17; condiciones del programa under nine especificar
 Matway: Sí, por edad; inscripción separada
 Óscar: Condicional; comprobar la edad, la clase y la admisión
 Formato: residente
-Idioma: En la inmersión se describe claramente la comunicación en las casas y en las actividades seleccionadas todo el día con los native speakers, un campamento común y creativo que no es una unidad de ESL lessons o una máquina robótica inglesa.
+Idioma: El organizador describe expresamente inmersión en inglés para niños extranjeros; proporciona ropa de cama, toallas y lavandería semanal. No es un curso de inglés separado prometido ni garantía de composición del grupo.
 Marca de idioma: camp_life; soporte: no declarado
 Precio: 2027 · USD 6 700 / después Dec 1 6 900 · y condiciones del expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Edad 9–10 Ajustado; seleccionar programa y estado de preparación para 3+ Semanas. Oscar: Después 7-años; Condiciones under-nine programme y dormir con más precisión. Gastos adicionales: Vuelo, UM/baggage fees, camp airport/bus transfer, Seguro y otros derechos obligatorios en el contrato completo. Price confirmado transfer No encontrado; se concede a los niños internacionales bedding/towels Lavandería semanal. Pago: Early rate antes Dec 1; Anticipo total USD 1 750 Por niño. Antes Dec 1 2026 devuelve menos 550, antes Mar 1 2027 Menos 800; No se han recibido reembolsos antes de May 1 2027. Condiciones de la cancelación tardía y under-nine special programme Necesito uno por separado..
 Fuente: https://frenchwoods.com/dates-and-rates.htm
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP143-20270627-20270718 · French Woods Festival · Performing Arts Boarding · Session 2 · 3 semanas · 2027-06-27–2027-07-18
 
@@ -14110,13 +14446,13 @@ Edad: 7–17; condiciones del programa under nine especificar
 Matway: Sí, por edad; inscripción separada
 Óscar: Condicional; comprobar la edad, la clase y la admisión
 Formato: residente
-Idioma: En la inmersión se describe claramente la comunicación en las casas y en las actividades seleccionadas todo el día con los native speakers, un campamento común y creativo que no es una unidad de ESL lessons o una máquina robótica inglesa.
+Idioma: El organizador describe expresamente inmersión en inglés para niños extranjeros; proporciona ropa de cama, toallas y lavandería semanal. No es un curso de inglés separado prometido ni garantía de composición del grupo.
 Marca de idioma: camp_life; soporte: no declarado
 Precio: 2027 · USD 8 000 / después Dec 1 8 400 · y condiciones del expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Edad 9–10 Ajustado; seleccionar programa y estado de preparación para 3+ Semanas. Oscar: Después 7-años; Condiciones under-nine programme y dormir con más precisión. Gastos adicionales: Vuelo, UM/baggage fees, camp airport/bus transfer, Seguro y otros derechos obligatorios en el contrato completo. Price confirmado transfer No encontrado; se concede a los niños internacionales bedding/towels Lavandería semanal. Pago: Early rate antes Dec 1; Anticipo total USD 1 750 Por niño. Antes Dec 1 2026 devuelve menos 550, antes Mar 1 2027 Menos 800; No se han recibido reembolsos antes de May 1 2027. Condiciones de la cancelación tardía y under-nine special programme Necesito uno por separado..
 Fuente: https://frenchwoods.com/dates-and-rates.htm
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP143-20270718-20270808 · French Woods Festival · Performing Arts Boarding · Session 3 · 3 semanas · 2027-07-18–2027-08-08
 
@@ -14126,13 +14462,13 @@ Edad: 7–17; condiciones del programa under nine especificar
 Matway: Sí, por edad; inscripción separada
 Óscar: Condicional; comprobar la edad, la clase y la admisión
 Formato: residente
-Idioma: En la inmersión se describe claramente la comunicación en las casas y en las actividades seleccionadas todo el día con los native speakers, un campamento común y creativo que no es una unidad de ESL lessons o una máquina robótica inglesa.
+Idioma: El organizador describe expresamente inmersión en inglés para niños extranjeros; proporciona ropa de cama, toallas y lavandería semanal. No es un curso de inglés separado prometido ni garantía de composición del grupo.
 Marca de idioma: camp_life; soporte: no declarado
-Precio: 2027 · USD 8 800 / después Dec 1 8 400 · confirmar · y condiciones del expediente
+Precio: 2027 · USD 8000 hasta el 1 de diciembre / 8400 después; discrepancia anterior resuelta · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Edad 9–10 Ajustado; seleccionar programa y estado de preparación para 3+ Semanas. Oscar: Después 7-años; Condiciones under-nine programme y dormir con más precisión. Gastos adicionales: Vuelo, UM/baggage fees, camp airport/bus transfer, Seguro y otros derechos obligatorios en el contrato completo. Price confirmado transfer No encontrado; se concede a los niños internacionales bedding/towels Lavandería semanal. Pago: Early rate antes Dec 1; Anticipo total USD 1 750 Por niño. Antes Dec 1 2026 devuelve menos 550, antes Mar 1 2027 Menos 800; No se han recibido reembolsos antes de May 1 2027. Condiciones de la cancelación tardía y under-nine special programme Necesito uno por separado..
 Fuente: https://frenchwoods.com/dates-and-rates.htm
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP143-20270808-20270829 · French Woods Festival · Performing Arts Boarding · Session 4 · 3 semanas · 2027-08-08–2027-08-29
 
@@ -14142,13 +14478,13 @@ Edad: 7–17; condiciones del programa under nine especificar
 Matway: Sí, por edad; inscripción separada
 Óscar: Condicional; comprobar la edad, la clase y la admisión
 Formato: residente
-Idioma: En la inmersión se describe claramente la comunicación en las casas y en las actividades seleccionadas todo el día con los native speakers, un campamento común y creativo que no es una unidad de ESL lessons o una máquina robótica inglesa.
+Idioma: El organizador describe expresamente inmersión en inglés para niños extranjeros; proporciona ropa de cama, toallas y lavandería semanal. No es un curso de inglés separado prometido ni garantía de composición del grupo.
 Marca de idioma: camp_life; soporte: no declarado
 Precio: 2027 · USD 6 700 / después Dec 1 7 100 · y condiciones del expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Edad 9–10 Ajustado; seleccionar programa y estado de preparación para 3+ Semanas. Oscar: Después 7-años; Condiciones under-nine programme y dormir con más precisión. Gastos adicionales: Vuelo, UM/baggage fees, camp airport/bus transfer, Seguro y otros derechos obligatorios en el contrato completo. Price confirmado transfer No encontrado; se concede a los niños internacionales bedding/towels Lavandería semanal. Pago: Early rate antes Dec 1; Anticipo total USD 1 750 Por niño. Antes Dec 1 2026 devuelve menos 550, antes Mar 1 2027 Menos 800; No se han recibido reembolsos antes de May 1 2027. Condiciones de la cancelación tardía y under-nine special programme Necesito uno por separado..
 Fuente: https://frenchwoods.com/dates-and-rates.htm
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP143-20270606-20270718 · French Woods Festival · Performing Arts Boarding · Sessions 1–2 · 6 semanas · 2027-06-06–2027-07-18
 
@@ -14158,13 +14494,13 @@ Edad: 7–17; condiciones del programa under nine especificar
 Matway: Sí, por edad; inscripción separada
 Óscar: Condicional; comprobar la edad, la clase y la admisión
 Formato: residente
-Idioma: En la inmersión se describe claramente la comunicación en las casas y en las actividades seleccionadas todo el día con los native speakers, un campamento común y creativo que no es una unidad de ESL lessons o una máquina robótica inglesa.
+Idioma: El organizador describe expresamente inmersión en inglés para niños extranjeros; proporciona ropa de cama, toallas y lavandería semanal. No es un curso de inglés separado prometido ni garantía de composición del grupo.
 Marca de idioma: camp_life; soporte: no declarado
 Precio: 2027 · USD 11 800 / 12 000 · y condiciones del expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Edad 9–10 Ajustado; seleccionar programa y estado de preparación para 3+ Semanas. Oscar: Después 7-años; Condiciones under-nine programme y dormir con más precisión. Gastos adicionales: Vuelo, UM/baggage fees, camp airport/bus transfer, Seguro y otros derechos obligatorios en el contrato completo. Price confirmado transfer No encontrado; se concede a los niños internacionales bedding/towels Lavandería semanal. Pago: Early rate antes Dec 1; Anticipo total USD 1 750 Por niño. Antes Dec 1 2026 devuelve menos 550, antes Mar 1 2027 Menos 800; No se han recibido reembolsos antes de May 1 2027. Condiciones de la cancelación tardía y under-nine special programme Necesito uno por separado..
 Fuente: https://frenchwoods.com/dates-and-rates.htm
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP143-20270627-20270808 · French Woods Festival · Performing Arts Boarding · Sessions 2–3 · 6 semanas · 2027-06-27–2027-08-08
 
@@ -14174,13 +14510,13 @@ Edad: 7–17; condiciones del programa under nine especificar
 Matway: Sí, por edad; inscripción separada
 Óscar: Condicional; comprobar la edad, la clase y la admisión
 Formato: residente
-Idioma: En la inmersión se describe claramente la comunicación en las casas y en las actividades seleccionadas todo el día con los native speakers, un campamento común y creativo que no es una unidad de ESL lessons o una máquina robótica inglesa.
+Idioma: El organizador describe expresamente inmersión en inglés para niños extranjeros; proporciona ropa de cama, toallas y lavandería semanal. No es un curso de inglés separado prometido ni garantía de composición del grupo.
 Marca de idioma: camp_life; soporte: no declarado
 Precio: 2027 · USD 12 600 / 12 800 · y condiciones del expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Edad 9–10 Ajustado; seleccionar programa y estado de preparación para 3+ Semanas. Oscar: Después 7-años; Condiciones under-nine programme y dormir con más precisión. Gastos adicionales: Vuelo, UM/baggage fees, camp airport/bus transfer, Seguro y otros derechos obligatorios en el contrato completo. Price confirmado transfer No encontrado; se concede a los niños internacionales bedding/towels Lavandería semanal. Pago: Early rate antes Dec 1; Anticipo total USD 1 750 Por niño. Antes Dec 1 2026 devuelve menos 550, antes Mar 1 2027 Menos 800; No se han recibido reembolsos antes de May 1 2027. Condiciones de la cancelación tardía y under-nine special programme Necesito uno por separado..
 Fuente: https://frenchwoods.com/dates-and-rates.htm
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP143-20270718-20270829 · French Woods Festival · Performing Arts Boarding · Sessions 3–4 · 6 semanas · 2027-07-18–2027-08-29
 
@@ -14190,13 +14526,13 @@ Edad: 7–17; condiciones del programa under nine especificar
 Matway: Sí, por edad; inscripción separada
 Óscar: Condicional; comprobar la edad, la clase y la admisión
 Formato: residente
-Idioma: En la inmersión se describe claramente la comunicación en las casas y en las actividades seleccionadas todo el día con los native speakers, un campamento común y creativo que no es una unidad de ESL lessons o una máquina robótica inglesa.
+Idioma: El organizador describe expresamente inmersión en inglés para niños extranjeros; proporciona ropa de cama, toallas y lavandería semanal. No es un curso de inglés separado prometido ni garantía de composición del grupo.
 Marca de idioma: camp_life; soporte: no declarado
 Precio: 2027 · USD 11 800 / 12 000 · y condiciones del expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Edad 9–10 Ajustado; seleccionar programa y estado de preparación para 3+ Semanas. Oscar: Después 7-años; Condiciones under-nine programme y dormir con más precisión. Gastos adicionales: Vuelo, UM/baggage fees, camp airport/bus transfer, Seguro y otros derechos obligatorios en el contrato completo. Price confirmado transfer No encontrado; se concede a los niños internacionales bedding/towels Lavandería semanal. Pago: Early rate antes Dec 1; Anticipo total USD 1 750 Por niño. Antes Dec 1 2026 devuelve menos 550, antes Mar 1 2027 Menos 800; No se han recibido reembolsos antes de May 1 2027. Condiciones de la cancelación tardía y under-nine special programme Necesito uno por separado..
 Fuente: https://frenchwoods.com/dates-and-rates.htm
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP143-20270606-20270808 · French Woods Festival · Performing Arts Boarding · Sessions 1–3 · 9 semanas · 2027-06-06–2027-08-08
 
@@ -14206,13 +14542,13 @@ Edad: 7–17; condiciones del programa under nine especificar
 Matway: Sí, por edad; inscripción separada
 Óscar: Condicional; comprobar la edad, la clase y la admisión
 Formato: residente
-Idioma: En la inmersión se describe claramente la comunicación en las casas y en las actividades seleccionadas todo el día con los native speakers, un campamento común y creativo que no es una unidad de ESL lessons o una máquina robótica inglesa.
+Idioma: El organizador describe expresamente inmersión en inglés para niños extranjeros; proporciona ropa de cama, toallas y lavandería semanal. No es un curso de inglés separado prometido ni garantía de composición del grupo.
 Marca de idioma: camp_life; soporte: no declarado
 Precio: 2027 · USD 14 600 / 14 800 · y condiciones del expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Edad 9–10 Ajustado; seleccionar programa y estado de preparación para 3+ Semanas. Oscar: Después 7-años; Condiciones under-nine programme y dormir con más precisión. Gastos adicionales: Vuelo, UM/baggage fees, camp airport/bus transfer, Seguro y otros derechos obligatorios en el contrato completo. Price confirmado transfer No encontrado; se concede a los niños internacionales bedding/towels Lavandería semanal. Pago: Early rate antes Dec 1; Anticipo total USD 1 750 Por niño. Antes Dec 1 2026 devuelve menos 550, antes Mar 1 2027 Menos 800; No se han recibido reembolsos antes de May 1 2027. Condiciones de la cancelación tardía y under-nine special programme Necesito uno por separado..
 Fuente: https://frenchwoods.com/dates-and-rates.htm
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP143-20270627-20270829 · French Woods Festival · Performing Arts Boarding · Sessions 2–4 · 9 semanas · 2027-06-27–2027-08-29
 
@@ -14222,13 +14558,13 @@ Edad: 7–17; condiciones del programa under nine especificar
 Matway: Sí, por edad; inscripción separada
 Óscar: Condicional; comprobar la edad, la clase y la admisión
 Formato: residente
-Idioma: En la inmersión se describe claramente la comunicación en las casas y en las actividades seleccionadas todo el día con los native speakers, un campamento común y creativo que no es una unidad de ESL lessons o una máquina robótica inglesa.
+Idioma: El organizador describe expresamente inmersión en inglés para niños extranjeros; proporciona ropa de cama, toallas y lavandería semanal. No es un curso de inglés separado prometido ni garantía de composición del grupo.
 Marca de idioma: camp_life; soporte: no declarado
 Precio: 2027 · USD 14 600 / 14 800 · y condiciones del expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Edad 9–10 Ajustado; seleccionar programa y estado de preparación para 3+ Semanas. Oscar: Después 7-años; Condiciones under-nine programme y dormir con más precisión. Gastos adicionales: Vuelo, UM/baggage fees, camp airport/bus transfer, Seguro y otros derechos obligatorios en el contrato completo. Price confirmado transfer No encontrado; se concede a los niños internacionales bedding/towels Lavandería semanal. Pago: Early rate antes Dec 1; Anticipo total USD 1 750 Por niño. Antes Dec 1 2026 devuelve menos 550, antes Mar 1 2027 Menos 800; No se han recibido reembolsos antes de May 1 2027. Condiciones de la cancelación tardía y under-nine special programme Necesito uno por separado..
 Fuente: https://frenchwoods.com/dates-and-rates.htm
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP143-20270606-20270829 · French Woods Festival · Performing Arts Boarding · Sessions 1–4 · 12 semanas · 2027-06-06–2027-08-29
 
@@ -14238,13 +14574,13 @@ Edad: 7–17; condiciones del programa under nine especificar
 Matway: Sí, por edad; inscripción separada
 Óscar: Condicional; comprobar la edad, la clase y la admisión
 Formato: residente
-Idioma: En la inmersión se describe claramente la comunicación en las casas y en las actividades seleccionadas todo el día con los native speakers, un campamento común y creativo que no es una unidad de ESL lessons o una máquina robótica inglesa.
+Idioma: El organizador describe expresamente inmersión en inglés para niños extranjeros; proporciona ropa de cama, toallas y lavandería semanal. No es un curso de inglés separado prometido ni garantía de composición del grupo.
 Marca de idioma: camp_life; soporte: no declarado
 Precio: 2027 · USD 16 700 / 16 900 · y condiciones del expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Edad 9–10 Ajustado; seleccionar programa y estado de preparación para 3+ Semanas. Oscar: Después 7-años; Condiciones under-nine programme y dormir con más precisión. Gastos adicionales: Vuelo, UM/baggage fees, camp airport/bus transfer, Seguro y otros derechos obligatorios en el contrato completo. Price confirmado transfer No encontrado; se concede a los niños internacionales bedding/towels Lavandería semanal. Pago: Early rate antes Dec 1; Anticipo total USD 1 750 Por niño. Antes Dec 1 2026 devuelve menos 550, antes Mar 1 2027 Menos 800; No se han recibido reembolsos antes de May 1 2027. Condiciones de la cancelación tardía y under-nine special programme Necesito uno por separado..
 Fuente: https://frenchwoods.com/dates-and-rates.htm
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP144-20270830-20270905 · French Woods Festival · One-Week Trial · Session 5 · new campers / Trial · 2027-08-30–2027-09-05
 
@@ -14254,13 +14590,13 @@ Edad: Campamento principal 7*17; semana de prueba para los nuevos campamentos; u
 Matway: Sí, por edad; inscripción separada
 Óscar: Condicional; comprobar la edad, la clase y la admisión
 Formato: residente
-Idioma: En la inmersión se describe claramente la comunicación en las casas y en las actividades seleccionadas todo el día con los native speakers, un campamento común y creativo que no es una unidad de ESL lessons o una máquina robótica inglesa.
+Idioma: El organizador describe expresamente inmersión en inglés para niños extranjeros; proporciona ropa de cama, toallas y lavandería semanal. No es un curso de inglés separado prometido ni garantía de composición del grupo.
 Marca de idioma: camp_life; soporte: no declarado
 Precio: 2027 · USD 2 000 / después Dec 1 2 400 · y condiciones del expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10: Candidato para el primer turno de creatividad. Oscar: Sólo después 7-años; Acceso escrito under nine Y la preparación para dormir.. Gastos adicionales: Vuelo, UM/baggage fees, camp airport/bus transfer, Seguro y otros derechos obligatorios en el contrato completo. Price confirmado transfer No encontrado; se concede a los niños internacionales bedding/towels Lavandería semanal. Pago: Probable sin especificar año-page Dice USD 250 deposit, Cuadro general 2027 USD 1 750: aplicable trial anticipos/No se han recibido aún. No abonemos ambas cuotas.
 Fuente: https://frenchwoods.com/dates-and-rates.htm
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP146-20270630-20270706 · Camp Ponacka · First Grade One Week · First Grade · 1 semana · 2027-06-30-2027-07-06
 

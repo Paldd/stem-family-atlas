@@ -1,0 +1,2684 @@
+{
+  "version": 195,
+  "checked": "2026-11-06",
+  "modified_raw_profile_ids": [
+    "CP035",
+    "CP036",
+    "CP037",
+    "CP038",
+    "CP039",
+    "CP079",
+    "CP080",
+    "CP081",
+    "CP084",
+    "CP085",
+    "CP086",
+    "CP142",
+    "CP143",
+    "CP144"
+  ],
+  "previous_raw_profiles": {
+    "CP035": {
+      "id": "CP035",
+      "slug": "camp-invention",
+      "provider": "Camp Invention · Gear Up 2027",
+      "country": "США",
+      "iso": "USA",
+      "place": "Сеть дневных площадок USA",
+      "themes": [
+        "science",
+        "robotics",
+        "entrepreneurship"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Rising grades K–6",
+      "language": "Язык конкретной площадки и возможность участия гостевой семьи уточнить. Англоязычное описание не заменяет ответ оператора.",
+      "confirmed_instruction_languages": [],
+      "programme": "Gear Up 2027: механизмы разобранного заводного робота, светящийся гаджет, экологическая высотная конструкция с моторным лифтом, изобретения и финальная презентация. Это maker/STEM программа, не сезонная лига робототехники.",
+      "timing": {
+        "status": "partial_2027",
+        "label": "Программа 2027 уже опубликована; даты зависят от выбранной местной площадки.",
+        "sessions": []
+      },
+      "price": {
+        "year": 2027,
+        "label": "От USD 290; точная цена и длительность по local camp.",
+        "included": "Состав комплекта и расписание — по площадке.",
+        "extras": "Питание/продлённый день уточнить.",
+        "deposit": "Можно payment plan, условия и отмену проверять по местному лагерю."
+      },
+      "accommodation": "Дневные площадки; пансиона в этой программе нет.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Подобрать rising grade K–6, не только возраст."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Подходит при rising Kindergarten/Grade1 и выполнении правил площадки."
+        }
+      },
+      "editorial_reason": "Один из первых доступных общих инженерных кандидатов для обоих; сильнее по изобретательству, чем по соревновательной тренировке.",
+      "shortlist": [
+        "technical",
+        "both",
+        "general"
+      ],
+      "questions": [
+        "Найти конкретный camp 2027, проверить EN, нерезидентский допуск, часы и цену."
+      ],
+      "sources": [
+        {
+          "title": "Gear Up 2027",
+          "url": "https://www.invent.org/programs/camp-invention",
+          "checked": "2026-10-04"
+        }
+      ],
+      "checked": "2026-10-04"
+    },
+    "CP036": {
+      "id": "CP036",
+      "slug": "space-camp",
+      "provider": "U.S. Space & Rocket Center · Space Camp",
+      "country": "США",
+      "iso": "USA",
+      "place": "Huntsville / Alabama",
+      "themes": [
+        "science",
+        "general"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "Младший Space Camp 9–11; в 9 лет нужен текущий/завершённый Grade 4",
+      "language": "Текущий weeklong FAQ допускает иностранных детей и требует fluent conversational English; действительные въездные документы отдельно.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "Космические симуляторы, модель ракеты, инженерия марсианской колонии и командные миссии. Это космический STEM-пансион; robot building — отдельный Robotics Camp.",
+      "timing": {
+        "status": "published_2027",
+        "label": "2027: 14–19.03 и летние недели 30.05–03.09. Каждую реальную неделю выбирать в официальном календаре.",
+        "sessions": [
+          [
+            "2027-03-14",
+            "2027-03-19"
+          ],
+          [
+            "2027-05-30",
+            "2027-06-04"
+          ],
+          [
+            "2027-06-06",
+            "2027-06-11"
+          ],
+          [
+            "2027-06-13",
+            "2027-06-18"
+          ],
+          [
+            "2027-06-20",
+            "2027-06-25"
+          ],
+          [
+            "2027-06-27",
+            "2027-07-02"
+          ],
+          [
+            "2027-07-04",
+            "2027-07-09"
+          ],
+          [
+            "2027-07-11",
+            "2027-07-16"
+          ],
+          [
+            "2027-07-18",
+            "2027-07-23"
+          ],
+          [
+            "2027-07-25",
+            "2027-07-30"
+          ],
+          [
+            "2027-08-01",
+            "2027-08-06"
+          ],
+          [
+            "2027-08-08",
+            "2027-08-13"
+          ],
+          [
+            "2027-08-15",
+            "2027-08-20"
+          ],
+          [
+            "2027-08-22",
+            "2027-08-27"
+          ],
+          [
+            "2027-08-29",
+            "2027-09-03"
+          ]
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "label": "Полный тариф выбранной Space Camp недели в прочитанной странице не установлен.",
+        "included": "Пакет проживания/питания уточнить.",
+        "extras": "Airport HSV round-trip USD120; extra arrival/departure day поUSD150 при необходимости авиарасписания; страховка/личные расходы отдельно.",
+        "deposit": "FAQ: при отмене за8+недель 90% оплаченного tuition минусUSD100 non-refundable registration fee; позднюю отмену и график оплаты уточнить. Один перенос бесплатный, затемUSD25; запрос минимум за2недели."
+      },
+      "accommodation": "6-дневный пансион центра; условия комнат/roommate проверять.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст подходит; если ещё 9 лет — проверить требование 4 класса."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Младше 9 лет."
+        }
+      },
+      "editorial_reason": "Сильная тематическая космическая программа для Матвея; возраст и школьный класс одинаково важны.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Получить цену недели, правила по Grade 4, EN и полную смету трансфера."
+      ],
+      "sources": [
+        {
+          "title": "Space Camp 2027",
+          "url": "https://rocketcenter.com/spacecamp/space-camp/",
+          "checked": "2026-10-04"
+        },
+        {
+          "title": "Текущий weeklong FAQ: иностранцы / fluent EN / transfer / возврат",
+          "url": "https://rocketcenter.com/Help/FAQ/camps/weeklong/",
+          "checked": "2026-10-04"
+        }
+      ],
+      "checked": "2026-10-04"
+    },
+    "CP037": {
+      "id": "CP037",
+      "slug": "space-robotics",
+      "provider": "U.S. Space & Rocket Center · Robotics",
+      "country": "США",
+      "iso": "USA",
+      "place": "Huntsville / Alabama",
+      "themes": [
+        "robotics",
+        "coding",
+        "science"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "9–11; в 9 лет требуется текущий или завершённый Grade 4",
+      "language": "Текущий weeklong FAQ допускает иностранных детей и требует fluent conversational English; действительные въездные документы отдельно.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "VEX Robotics: инженерия, программирование и wireless control; land-робот на Challenge Table. LED flashlight из series circuit, подводный robot, симуляция полётов дронов RealFlight. 6 дней / 5 ночей, воскресенье–пятница; финальный конкурс учебный, не титул мировой лиги.",
+      "timing": {
+        "status": "published_2027",
+        "label": "2027: недельные заезды 30.05–20.08; опубликованы 12 недель, воскресенье–пятница.",
+        "sessions": [
+          [
+            "2027-05-30",
+            "2027-06-04"
+          ],
+          [
+            "2027-06-06",
+            "2027-06-11"
+          ],
+          [
+            "2027-06-13",
+            "2027-06-18"
+          ],
+          [
+            "2027-06-20",
+            "2027-06-25"
+          ],
+          [
+            "2027-06-27",
+            "2027-07-02"
+          ],
+          [
+            "2027-07-04",
+            "2027-07-09"
+          ],
+          [
+            "2027-07-11",
+            "2027-07-16"
+          ],
+          [
+            "2027-07-18",
+            "2027-07-23"
+          ],
+          [
+            "2027-07-25",
+            "2027-07-30"
+          ],
+          [
+            "2027-08-01",
+            "2027-08-06"
+          ],
+          [
+            "2027-08-08",
+            "2027-08-13"
+          ],
+          [
+            "2027-08-15",
+            "2027-08-20"
+          ]
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "label": "USD 1 799 указан в текущем официальном каталоге рядом с ближайшей сменой 2027; проверить выбранную неделю.",
+        "included": "Пакет проживания/питания и оборудование подтвердить по регистрации.",
+        "extras": "Airport HSV round-trip USD120; extra arrival/departure day поUSD150 при необходимости авиарасписания; страховка/личные расходы отдельно.",
+        "deposit": "FAQ: при отмене за8+недель 90% оплаченного tuition минусUSD100 non-refundable registration fee; позднюю отмену и график оплаты уточнить. Один перенос бесплатный, затемUSD25; запрос минимум за2недели."
+      },
+      "accommodation": "Недельный пансион центра.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "9–11 подходит, но если ещё 9 на заезд — требуется текущий/завершённый Grade 4. Точный класс неизвестен."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "До 9 лет недоступно."
+        }
+      },
+      "editorial_reason": "Первый американский пансион-кандидат для недели именно робототехники Матвея: опубликованы даты и возраст.",
+      "shortlist": [
+        "technical",
+        "boarding"
+      ],
+      "questions": [
+        "Подтвердить комплект, take-home результат, Grade 4, язык и окончательную цену."
+      ],
+      "sources": [
+        {
+          "title": "Robotics 2027",
+          "url": "https://rocketcenter.com/robotics/",
+          "checked": "2026-10-04"
+        },
+        {
+          "title": "Возраст и цена",
+          "url": "https://rocketcenter.com/SpaceCamp?field_age_group_target_id=All&field_space_camp_program_categor_target_id=2062",
+          "checked": "2026-10-04"
+        },
+        {
+          "title": "Текущий weeklong FAQ: иностранцы / fluent EN / transfer / возврат",
+          "url": "https://rocketcenter.com/Help/FAQ/camps/weeklong/",
+          "checked": "2026-10-04"
+        }
+      ],
+      "checked": "2026-10-04"
+    },
+    "CP038": {
+      "id": "CP038",
+      "slug": "family-aviation",
+      "provider": "U.S. Space & Rocket Center · Family Aviation",
+      "country": "США",
+      "iso": "USA",
+      "place": "Huntsville / Alabama",
+      "themes": [
+        "science",
+        "general"
+      ],
+      "formats": [
+        "family"
+      ],
+      "age": "Дети 7–18 с минимум одним оплачивающим взрослым",
+      "language": "Язык и объём перевода не подтверждены; английскую программу согласовать.",
+      "confirmed_instruction_languages": [],
+      "programme": "3 дня / 2 ночи: симулятор F-18, основы выживания, водные/командные занятия и авиационные экспонаты. Это совместная семейная программа; самостоятельный детский пансион — другой продукт.",
+      "timing": {
+        "status": "published_2027",
+        "label": "2027: 11–13.06; 30.07–01.08; 27–29.08.",
+        "sessions": [
+          [
+            "2027-06-11",
+            "2027-06-13"
+          ],
+          [
+            "2027-07-30",
+            "2027-08-01"
+          ],
+          [
+            "2027-08-27",
+            "2027-08-29"
+          ]
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "label": "Полный семейный тариф не установлен в прочитанной странице.",
+        "included": "Ночёвки Friday/Saturday, питание от пятничного ужина до воскресного завтрака.",
+        "extras": "Учитывать каждого оплачивающего взрослого и дорогу до центра.",
+        "deposit": "Оплата и отмена — по составу семьи/заезду."
+      },
+      "accommodation": "Совместные ночёвки семьи в центре.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Возраст 7+ подходит с родителем."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "После 7-летия; до этого минимум не выполнен."
+        }
+      },
+      "editorial_reason": "Кандидат на совместный первый опыт ночёвок и STEM-поездки, когда Оскару исполнится 7.",
+      "shortlist": [
+        "general",
+        "both"
+      ],
+      "questions": [
+        "Подтвердить стоимость для двух детей и взрослых, EN, комнату и расписание."
+      ],
+      "sources": [
+        {
+          "title": "Family Aviation 2027",
+          "url": "https://rocketcenter.com/SpaceCamp/Family",
+          "checked": "2026-10-04"
+        }
+      ],
+      "checked": "2026-10-04"
+    },
+    "CP039": {
+      "id": "CP039",
+      "slug": "ilsc-ubc",
+      "provider": "ILSC Junior · UBC Residence",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "Vancouver / UBC Totem Park",
+      "themes": [
+        "general",
+        "languages",
+        "sport"
+      ],
+      "formats": [
+        "day",
+        "boarding"
+      ],
+      "age": "9–17",
+      "language": "Английский 15 часов / 17 уроков в неделю; общий лагерь и поездки.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "Английский, спорт/культура/творчество, городские и природные экскурсии. Это программа ILSC на территории UBC: ILSC прямо указывает, что университет её не управляет и не endorses.",
+      "timing": {
+        "status": "published_2027",
+        "label": "2027: 27.06–08.08, weekly starts 27.06, 04/11/18/25.07, 01.08; 1–6 недель.",
+        "sessions": [
+          [
+            "2027-06-27",
+            "2027-08-08"
+          ]
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "label": "Цена выбранной длительности и day/board пакета не подтверждена.",
+        "included": "Пансионный пакет: три приёма пищи; day-only lunch/dinner, без завтрака/проживания/airport transfer.",
+        "extras": "Прачечная CAD 2.50/load; проверить регистрацию, страховку, трансфер.",
+        "deposit": "Условия отмены и оплаты требуют проверки."
+      },
+      "accommodation": "UBC Totem Park, single/shared room, санузлы общие; заявлено примерно 1 bathroom на 6 студентов.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "9–10 подходит."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "До 9 лет недоступно."
+        }
+      },
+      "editorial_reason": "Первый канадский общий англоязычный пансион-кандидат Матвея с опубликованными датами 2027.",
+      "shortlist": [
+        "general",
+        "boarding"
+      ],
+      "questions": [
+        "Получить полный прайс/room type/transfer; не считать университетской селективной академией."
+      ],
+      "sources": [
+        {
+          "title": "UBC Junior 2027",
+          "url": "https://www.ilsc.com/language-schools/programs/junior/residences/ubc",
+          "checked": "2026-10-04"
+        }
+      ],
+      "checked": "2026-10-04"
+    },
+    "CP079": {
+      "id": "CP079",
+      "slug": "bricklabs-robotics",
+      "provider": "Brick Labs · Robotics",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "Rosseau Lake College / Muskoka",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "9–13 на 01.06.2027; 8/14 только с письменным исключением",
+      "language": "EN преподавания/лагерной жизни прямо не установлен в прочитанных источниках; подтвердить у оператора.",
+      "confirmed_instruction_languages": [],
+      "programme": "Intermediate/advanced LEGO: строить и программировать rescue-роботов в июле, решать ежедневные Challenge Series в августе. FLL-type задачи — учебные, не отборочный тур FLL.",
+      "timing": {
+        "status": "published_2027",
+        "label": "2027: 25–30.07 и 15–20.08; Sunday–Friday.",
+        "sessions": [
+          [
+            "2027-07-25",
+            "2027-07-30"
+          ],
+          [
+            "2027-08-15",
+            "2027-08-20"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-07-25",
+            "end": "2027-07-30",
+            "label": "Natural Disaster Response",
+            "price": "$1 650 / неделя · валюту подтвердить",
+            "place": "Rosseau Lake College / Muskoka",
+            "source": "https://bricklabs.ca/over-night-camp-2026/",
+            "formats": [
+              "boarding"
+            ],
+            "proof": "Тело официальной страницы — 2027, хотя URL содержит 2026. Трек и цена относятся именно к выбранной неделе."
+          },
+          {
+            "start": "2027-08-15",
+            "end": "2027-08-20",
+            "label": "Challenge Series",
+            "price": "$1 650 / неделя · валюту подтвердить",
+            "place": "Rosseau Lake College / Muskoka",
+            "source": "https://bricklabs.ca/over-night-camp-2026/",
+            "formats": [
+              "boarding"
+            ],
+            "proof": "Тело официальной страницы — 2027, хотя URL содержит 2026. Трек и цена относятся именно к выбранной неделе."
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "label": "$1 650 / ребёнок / неделя; валюту окончательного счёта подтвердить.",
+        "included": "Coach из North York, пансион, meals/snacks, материалы и основные активности.",
+        "extras": "Перелёт/дорога до North York, страховка отдельно. Day visit $150/день не доказывает иной младший возраст.",
+        "deposit": "Deposit $650 входит в $1 650; остаток $1 000 до 01.03.2027. До 31.12.2026 возврат полный; 01.01–28.02 50%; с 01.03 нет. Граничные даты уточнить."
+      },
+      "accommodation": "Комнаты 2–3 ребёнка, bedding; сотрудники Brick Labs/RLC. Отъезд из North York, не проживание в Toronto.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "2017 соответствует 9–13 на 01.06.2027; нужны уровень трека, EN и готовность к пансиону."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "В 2027 только 6–7, стандартный минимум 9; исключение описано лишь для 8/14."
+        }
+      },
+      "editorial_reason": "Конкретный 2027 пансион для Матвея; технический и творческий пакеты разделены.",
+      "shortlist": [
+        "technical",
+        "boarding"
+      ],
+      "questions": [
+        "Подтвердить EN, валюту/налоги, страховку, уровень и места; итоговый invoice до оплаты."
+      ],
+      "sources": [
+        {
+          "title": "2027: возраст на 1 июня, четыре трека, тариф, coach и отмена",
+          "url": "https://bricklabs.ca/over-night-camp-2026/",
+          "checked": "2026-10-04"
+        }
+      ],
+      "checked": "2026-10-04"
+    },
+    "CP080": {
+      "id": "CP080",
+      "slug": "bricklabs-creative",
+      "provider": "Brick Labs · Creative Builders",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "Rosseau Lake College / Muskoka",
+      "themes": [
+        "general",
+        "science"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "9–13 на 01.06.2027; 8/14 только с письменным исключением",
+      "language": "EN преподавания/лагерной жизни прямо не установлен в прочитанных источниках; подтвердить у оператора.",
+      "confirmed_instruction_languages": [],
+      "programme": "Творческое конструирование: Inspired by Muskoka в июле, Macro Scale Characters в августе; outdoor-активности. Программирование роботов в этом треке не заявлено.",
+      "timing": {
+        "status": "published_2027",
+        "label": "2027: 25–30.07 и 15–20.08; Sunday–Friday.",
+        "sessions": [
+          [
+            "2027-07-25",
+            "2027-07-30"
+          ],
+          [
+            "2027-08-15",
+            "2027-08-20"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-07-25",
+            "end": "2027-07-30",
+            "label": "Display Builder · Inspired by Muskoka",
+            "price": "$1 650 / неделя · валюту подтвердить",
+            "place": "Rosseau Lake College / Muskoka",
+            "source": "https://bricklabs.ca/over-night-camp-2026/",
+            "formats": [
+              "boarding"
+            ],
+            "proof": "Тело официальной страницы — 2027, хотя URL содержит 2026. Трек и цена относятся именно к выбранной неделе."
+          },
+          {
+            "start": "2027-08-15",
+            "end": "2027-08-20",
+            "label": "Macro Scale Characters",
+            "price": "$1 650 / неделя · валюту подтвердить",
+            "place": "Rosseau Lake College / Muskoka",
+            "source": "https://bricklabs.ca/over-night-camp-2026/",
+            "formats": [
+              "boarding"
+            ],
+            "proof": "Тело официальной страницы — 2027, хотя URL содержит 2026. Трек и цена относятся именно к выбранной неделе."
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "label": "$1 650 / ребёнок / неделя; валюту окончательного счёта подтвердить.",
+        "included": "Coach из North York, пансион, meals/snacks, материалы и основные активности.",
+        "extras": "Перелёт/дорога до North York, страховка отдельно. Day visit $150/день не доказывает иной младший возраст.",
+        "deposit": "Deposit $650 входит в $1 650; остаток $1 000 до 01.03.2027. До 31.12.2026 возврат полный; 01.01–28.02 50%; с 01.03 нет. Граничные даты уточнить."
+      },
+      "accommodation": "Комнаты 2–3 ребёнка, bedding; сотрудники Brick Labs/RLC. Отъезд из North York, не проживание в Toronto.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "2017 соответствует 9–13 на 01.06.2027; нужны уровень трека, EN и готовность к пансиону."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "В 2027 только 6–7, стандартный минимум 9; исключение описано лишь для 8/14."
+        }
+      },
+      "editorial_reason": "Конкретный 2027 пансион для Матвея; технический и творческий пакеты разделены.",
+      "shortlist": [
+        "general",
+        "boarding"
+      ],
+      "questions": [
+        "Подтвердить EN, валюту/налоги, страховку, уровень и места; итоговый invoice до оплаты."
+      ],
+      "sources": [
+        {
+          "title": "2027: возраст на 1 июня, четыре трека, тариф, coach и отмена",
+          "url": "https://bricklabs.ca/over-night-camp-2026/",
+          "checked": "2026-10-04"
+        }
+      ],
+      "checked": "2026-10-04"
+    },
+    "CP081": {
+      "id": "CP081",
+      "slug": "next-robotics",
+      "provider": "Next Robotics · IQ Summer Camp",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "4114 MacLeod Trail SE / Calgary",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Grades 3–6 в сентябре 2027; возраст в годах не заменяет класс",
+      "language": "EN преподавания/лагерной жизни прямо не установлен в прочитанных источниках; подтвердить у оператора.",
+      "confirmed_instruction_languages": [],
+      "programme": "Начальный VEX IQ: сборка, программирование, управление и работа в группе. 09–16. Клубная команда — другой годовой формат Grades 4–7, с опытом/отбором; недельный лагерь не гарантирует место в ней.",
+      "timing": {
+        "status": "published_2027",
+        "label": "2027: 05–09.07, 19–23.07, 26–30.07.",
+        "sessions": [
+          [
+            "2027-07-05",
+            "2027-07-09"
+          ],
+          [
+            "2027-07-19",
+            "2027-07-23"
+          ],
+          [
+            "2027-07-26",
+            "2027-07-30"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-07-05",
+            "end": "2027-07-09",
+            "label": "IQ Robotics · Grades 3–6",
+            "price": "$315 с GST +2% card fee",
+            "place": "4114 MacLeod Trail SE / Calgary",
+            "source": "https://www.nextrobotics.ca/programs-1",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "day_camp_window",
+            "proof": "Недели в программе; цена в открытой Introduction формы. Данные ребёнка не вводились; заявку не отправляли."
+          },
+          {
+            "start": "2027-07-19",
+            "end": "2027-07-23",
+            "label": "IQ Robotics · Grades 3–6",
+            "price": "$315 с GST +2% card fee",
+            "place": "4114 MacLeod Trail SE / Calgary",
+            "source": "https://www.nextrobotics.ca/programs-1",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "day_camp_window",
+            "proof": "Недели в программе; цена в открытой Introduction формы. Данные ребёнка не вводились; заявку не отправляли."
+          },
+          {
+            "start": "2027-07-26",
+            "end": "2027-07-30",
+            "label": "IQ Robotics · Grades 3–6",
+            "price": "$315 с GST +2% card fee",
+            "place": "4114 MacLeod Trail SE / Calgary",
+            "source": "https://www.nextrobotics.ca/programs-1",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "day_camp_window",
+            "proof": "Недели в программе; цена в открытой Introduction формы. Данные ребёнка не вводились; заявку не отправляли."
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "label": "Community special: $315 ($300 + GST) за неделю; цена может измениться. Валюту счёта подтвердить.",
+        "included": "Учебный комплект предоставляет клуб.",
+        "extras": "Card processing +2%; питание/страховку уточнить, жильё родителей и дорога отдельно.",
+        "deposit": "Оплата при checkout. FAQ: возврата после регистрации нет; credit только по индивидуальному решению."
+      },
+      "accommodation": "Дневной; нужен отдельный семейный быт в Calgary.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Подходит только при Grade 3–6 в Sep 2027; текущий класс неизвестен."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Нужен Grade 3–6 в Sep 2027; возраст 6–7 сам по себе допуска не подтверждает."
+        }
+      },
+      "editorial_reason": "Практический вводный VEX-кандидат с отдельным маршрутом в сезонную команду.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Подтвердить школьный класс, EN, валюту, питание, полный платёж и наличие мест."
+      ],
+      "sources": [
+        {
+          "title": "Три точные недели / класс / расписание",
+          "url": "https://www.nextrobotics.ca/programs-1",
+          "checked": "2026-10-04"
+        },
+        {
+          "title": "Открытый пакет 2027: GST, card fee и цена",
+          "url": "https://robotics.dreamclass.io/pages/admissions-v2/form/AUZGae",
+          "checked": "2026-10-04"
+        },
+        {
+          "title": "Комплект / команды / отмена",
+          "url": "https://www.nextrobotics.ca/faq",
+          "checked": "2026-10-04"
+        }
+      ],
+      "checked": "2026-10-04"
+    },
+    "CP084": {
+      "id": "CP084",
+      "slug": "arowhon-regular",
+      "provider": "Camp Arowhon · Regular Sessions",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "Algonquin Park / Ontario",
+      "themes": [
+        "general",
+        "sport"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "2 недели: завершённые Grades1–5; первые заезды также Grades6–7. Полные месяцы 7–15.",
+      "language": "EN преподавания/лагерной жизни прямо не установлен в прочитанных источниках; подтвердить у оператора.",
+      "confirmed_instruction_languages": [],
+      "programme": "Outdoor, canoeing, спорт и творчество; общий лагерь. Учебного robotics/AI-трека не подтверждено.",
+      "timing": {
+        "status": "published_2027",
+        "label": "2027: 01–14.07 /29.07–11.08 (2 недели); 01–27.07 /29.07–23.08; 01.07–11.08 /01.07–23.08. Длинные 6/8-недельные пакеты имеют обязательный двухночный перерыв вне лагеря.",
+        "sessions": [
+          [
+            "2027-07-01",
+            "2027-07-14"
+          ],
+          [
+            "2027-07-29",
+            "2027-08-11"
+          ],
+          [
+            "2027-07-01",
+            "2027-07-27"
+          ],
+          [
+            "2027-07-29",
+            "2027-08-23"
+          ],
+          [
+            "2027-07-01",
+            "2027-08-11"
+          ],
+          [
+            "2027-07-01",
+            "2027-08-23"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-07-01",
+            "end": "2027-07-14",
+            "label": "Starter · 2 недели",
+            "price": "CAD5 200 +HST",
+            "place": "Algonquin Park / Ontario",
+            "source": "https://camparowhon.com/programs/rates-dates/",
+            "formats": [
+              "boarding"
+            ],
+            "proof": "Точные 2027 границы пакета. 6/8 недель включают двухночный перерыв вне лагеря 27–29.07; это не непрерывный пансион."
+          },
+          {
+            "start": "2027-07-29",
+            "end": "2027-08-11",
+            "label": "Starter · 2 недели",
+            "price": "CAD5 200 +HST",
+            "place": "Algonquin Park / Ontario",
+            "source": "https://camparowhon.com/programs/rates-dates/",
+            "formats": [
+              "boarding"
+            ],
+            "proof": "Точные 2027 границы пакета. 6/8 недель включают двухночный перерыв вне лагеря 27–29.07; это не непрерывный пансион."
+          },
+          {
+            "start": "2027-07-01",
+            "end": "2027-07-27",
+            "label": "First Session",
+            "price": "CAD10 200 +HST",
+            "place": "Algonquin Park / Ontario",
+            "source": "https://camparowhon.com/programs/rates-dates/",
+            "formats": [
+              "boarding"
+            ],
+            "proof": "Точные 2027 границы пакета. 6/8 недель включают двухночный перерыв вне лагеря 27–29.07; это не непрерывный пансион."
+          },
+          {
+            "start": "2027-07-29",
+            "end": "2027-08-23",
+            "label": "Second Session",
+            "price": "CAD8 800 +HST",
+            "place": "Algonquin Park / Ontario",
+            "source": "https://camparowhon.com/programs/rates-dates/",
+            "formats": [
+              "boarding"
+            ],
+            "proof": "Точные 2027 границы пакета. 6/8 недель включают двухночный перерыв вне лагеря 27–29.07; это не непрерывный пансион."
+          },
+          {
+            "start": "2027-07-01",
+            "end": "2027-08-11",
+            "label": "6 недель · двухночный перерыв",
+            "price": "CAD13 800 +HST",
+            "place": "Algonquin Park / Ontario",
+            "source": "https://camparowhon.com/programs/rates-dates/",
+            "formats": [
+              "boarding"
+            ],
+            "proof": "Точные 2027 границы пакета. 6/8 недель включают двухночный перерыв вне лагеря 27–29.07; это не непрерывный пансион.",
+            "date_scope": "programme_window_with_break"
+          },
+          {
+            "start": "2027-07-01",
+            "end": "2027-08-23",
+            "label": "Full Summer · двухночный перерыв",
+            "price": "CAD14 750 +HST",
+            "place": "Algonquin Park / Ontario",
+            "source": "https://camparowhon.com/programs/rates-dates/",
+            "formats": [
+              "boarding"
+            ],
+            "proof": "Точные 2027 границы пакета. 6/8 недель включают двухночный перерыв вне лагеря 27–29.07; это не непрерывный пансион.",
+            "date_scope": "programme_window_with_break"
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "label": "CAD5 200/2 недели; CAD10 200/первый месяц; CAD8 800/второй; CAD13 800/6 недель; CAD14 750/всё лето. +HST.",
+        "included": "Программа, laundry, еда и пансион.",
+        "extras": "Toronto/Pearson bus CAD175/направление; changeover CAD95/направление. Optional kit CAD200; medical insurance обязательна, camp option CAD200.",
+        "deposit": "CAD1 000 аванс в счёт пакета. Отмена: до Dec1 CAD300; Dec1–Feb1 CAD500; Feb1–May1 CAD1 000; после May1 без возврата."
+      },
+      "accommodation": "Cabin-пансион. В 6/8-week пакете 27–29.07 дети покидают camp; родители организуют две ночи и дорогу отдельно.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Выбрать допустимый класс/длительность и подтвердить EN, плавание, готовность к ночёвкам."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Для 2 недель нужен уже завершённый Grade1; для полного месяца минимум 7. Рассмотреть сначала Mini."
+        }
+      },
+      "editorial_reason": "Общий канадский пансион с опубликованной стоимостью; длинный пакет требует семейной логистики перерыва.",
+      "shortlist": [
+        "general",
+        "boarding"
+      ],
+      "questions": [
+        "Подтвердить EN, класс, HST/весь invoice, страхование и двухночную логистику длинного пакета."
+      ],
+      "sources": [
+        {
+          "title": "2027 пакеты / HST / трансфер / changeover / отмена",
+          "url": "https://camparowhon.com/programs/rates-dates/",
+          "checked": "2026-10-04"
+        },
+        {
+          "title": "Лагерная жизнь и допуск",
+          "url": "https://camparowhon.com/ourteam/faq/",
+          "checked": "2026-10-04"
+        }
+      ],
+      "checked": "2026-10-04"
+    },
+    "CP085": {
+      "id": "CP085",
+      "slug": "arowhon-mini",
+      "provider": "Camp Arowhon · Mini Camp",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "Algonquin Park / Ontario",
+      "themes": [
+        "general",
+        "sport"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "6–9; завершённые SK–Grade 3. SEO title 6–11 не заменяет основное правило 6–9.",
+      "language": "EN преподавания/лагерной жизни прямо не установлен в прочитанных источниках; подтвердить у оператора.",
+      "confirmed_instruction_languages": [],
+      "programme": "Короткое знакомство с outdoor-пансионом: canoe, water activities, climbing/crafts и cabin life с counsellors.",
+      "timing": {
+        "status": "published_2027",
+        "label": "13–16.08.2027, 3 ночи.",
+        "sessions": [
+          [
+            "2027-08-13",
+            "2027-08-16"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-08-13",
+            "end": "2027-08-16",
+            "label": "Mini · 3 ночи / 4 дня",
+            "price": "CAD700 · налоговый итог подтвердить",
+            "place": "Algonquin Park / Ontario",
+            "source": "https://camparowhon.com/programs/mini-camp/",
+            "formats": [
+              "boarding"
+            ],
+            "proof": "Официальная Mini-программа; bus100 в каждую сторону и отдельные условия отмены."
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "label": "CAD700 / Mini Camp; налоговый итог подтвердить.",
+        "included": "Короткий camp stay; детальное включение питания/материалов подтвердить.",
+        "extras": "Mini bus CAD100/направление — другой тариф, чем regular bus; страховку отдельно подтвердить.",
+        "deposit": "Для Mini депозит не требуется. Таблица удержаний regular camp к Mini не применяется; собственную отмену уточнить."
+      },
+      "accommodation": "Деревянные cabins, counsellors живут с детьми; душевые рядом.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Только если ещё 9 на заезд или получено письменное исключение; после 10 стандартный Mini не подходит."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Возраст6–7 соответствует, но нужны завершённый SK–Grade 3, EN и готовность к трём ночам."
+        }
+      },
+      "editorial_reason": "Первый короткий самостоятельный пансион для Оскара; для совместного заезда проверить верхнюю границу Матвея.",
+      "shortlist": [
+        "general",
+        "boarding"
+      ],
+      "questions": [
+        "Подтвердить EN, birthdays/classes, HST, питание, страховку и отдельную отмену Mini."
+      ],
+      "sources": [
+        {
+          "title": "Mini: реальные6–9, класс, bus и cabins",
+          "url": "https://camparowhon.com/programs/mini-camp/",
+          "checked": "2026-10-04"
+        },
+        {
+          "title": "2027 дата/цена; исключение Mini из regular cancellation",
+          "url": "https://camparowhon.com/programs/rates-dates/",
+          "checked": "2026-10-04"
+        }
+      ],
+      "checked": "2026-10-04"
+    },
+    "CP086": {
+      "id": "CP086",
+      "slug": "catalina-sea-junior",
+      "provider": "Catalina Sea Camp · One Week",
+      "country": "США",
+      "iso": "USA",
+      "place": "Catalina Island / California · отправление Long Beach",
+      "themes": [
+        "science",
+        "general",
+        "sport"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "8–13; отдельные 18-дневные пакеты12–17 не этот трек",
+      "language": "EN преподавания/лагерной жизни прямо не установлен в прочитанных источниках; подтвердить у оператора.",
+      "confirmed_instruction_languages": [],
+      "programme": "Морские science labs, snorkeling, лодки, природа и adventure. Диплом scuba не гарантирован младшей недельной программой; это не robotics camp.",
+      "timing": {
+        "status": "published_2027",
+        "label": "2027: 12–18.06, 19–25.06, 26.06–02.07.",
+        "sessions": [
+          [
+            "2027-06-12",
+            "2027-06-18"
+          ],
+          [
+            "2027-06-19",
+            "2027-06-25"
+          ],
+          [
+            "2027-06-26",
+            "2027-07-02"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-06-12",
+            "end": "2027-06-18",
+            "label": "One Week · ages8–13",
+            "price": "USD3 750 / 7 дней",
+            "place": "Catalina Island / California · отправление Long Beach",
+            "source": "https://catalinaseacamp.org/dates-rates/",
+            "formats": [
+              "boarding"
+            ],
+            "proof": "Точная младшая неделя2027; скидка/места изменяемы, final venue и полный пакет отдельно."
+          },
+          {
+            "start": "2027-06-19",
+            "end": "2027-06-25",
+            "label": "One Week · ages8–13",
+            "price": "USD3 750 / 7 дней",
+            "place": "Catalina Island / California · отправление Long Beach",
+            "source": "https://catalinaseacamp.org/dates-rates/",
+            "formats": [
+              "boarding"
+            ],
+            "proof": "Точная младшая неделя2027; скидка/места изменяемы, final venue и полный пакет отдельно."
+          },
+          {
+            "start": "2027-06-26",
+            "end": "2027-07-02",
+            "label": "One Week · ages8–13",
+            "price": "USD3 750 / 7 дней",
+            "place": "Catalina Island / California · отправление Long Beach",
+            "source": "https://catalinaseacamp.org/dates-rates/",
+            "formats": [
+              "boarding"
+            ],
+            "proof": "Точная младшая неделя2027; скидка/места изменяемы, final venue и полный пакет отдельно."
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "label": "USD3 750 / 7 дней; скидка USD300 до 31.10.2026 требует проверки при записи.",
+        "included": "Программа с проживанием и meal times; точное включение boat/оборудования получить в invoice.",
+        "extras": "Дорога/airport shuttle, страховка, elective fees и доплаты уточнить.",
+        "deposit": "USD300 невозвратный аванс входит в tuition; полная оплата до 1 мая. До 1 февраля дополнительно удерживают100, Feb1–Apr30 200; May1–14 25%, May15–31 50%, после 1 июня 100%. Базу сочетания удержаний уточнить."
+      },
+      "accommodation": "Dorm-style housing; main page указывает Toyon Bay, образец расписания прибытие Fox Landing — точную площадку недели подтвердить.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст8–13 подходит; нужны EN, readiness и правила водных занятий."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "В 2027 младше8."
+        }
+      },
+      "editorial_reason": "Содержательный морской science-пансион Матвею; другой оператор, чем Catalina Island Camps.",
+      "shortlist": [
+        "general",
+        "boarding"
+      ],
+      "questions": [
+        "Подтвердить EN, конкретную бухту, boat/equipment fees, водный допуск, страхование и конечный invoice."
+      ],
+      "sources": [
+        {
+          "title": "2027: точные недели / цена / оплата / отмена",
+          "url": "https://catalinaseacamp.org/dates-rates/",
+          "checked": "2026-10-04"
+        },
+        {
+          "title": "Junior marine science / lodging / расписание",
+          "url": "https://catalinaseacamp.org/programs/1-week-programs/",
+          "checked": "2026-10-04"
+        },
+        {
+          "title": "FAQ / организация",
+          "url": "https://catalinaseacamp.org/catalina-island-faqs/",
+          "checked": "2026-10-04"
+        }
+      ],
+      "checked": "2026-10-04"
+    },
+    "CP142": {
+      "id": "CP142",
+      "slug": "astrocamp-junior",
+      "provider": "AstroCamp · One-Week Discovery",
+      "country": "США",
+      "iso": "USA",
+      "place": "Idyllwild, California · 26800 Saunders Meadow Rd",
+      "themes": [
+        "general",
+        "science",
+        "sport"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "Минимум 7. Rates/header: 7–13; карточка At a Glance/Parent Guide: 7–12 — верхний предел расходится.",
+      "language": "Прямого утверждения об английском всех занятий и приёме иностранного ребёнка в прочитанных FAQ нет; английский сайт не считается доказательством.",
+      "confirmed_instruction_languages": [],
+      "programme": "7 дней / 6 ночей: наука и STEM-активности вместе с outdoors, творчеством, кулинарией и выборными занятиями. Родительский гид 2027 прямо описывает STEM как часть общего лагеря. Не отдельный робототехнический интенсив; школьные лаборатории нельзя автоматически обещать каждому summer camper.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Непротиворечивые смены 2027: 12–18 июня, 19–25 июня, 25–31 июля. Август: rates 1–7 августа, At a Glance 2–7 — день приезда уточнить; спорная смена не добавлена в точный календарь. Старый astrocampsummer.org остаётся на 2026/8+.",
+        "sessions": [
+          [
+            "2027-06-12",
+            "2027-06-18"
+          ],
+          [
+            "2027-06-19",
+            "2027-06-25"
+          ],
+          [
+            "2027-07-25",
+            "2027-07-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-06-12",
+            "end": "2027-06-18",
+            "label": "Junior · 7 дней / 6 ночей",
+            "price": "USD 2 900",
+            "place": "Idyllwild, California · 26800 Saunders Meadow Rd",
+            "source": "https://astrocamp.org/camp-dates-rates/",
+            "formats": [
+              "boarding"
+            ]
+          },
+          {
+            "start": "2027-06-19",
+            "end": "2027-06-25",
+            "label": "Junior · 7 дней / 6 ночей",
+            "price": "USD 2 900",
+            "place": "Idyllwild, California · 26800 Saunders Meadow Rd",
+            "source": "https://astrocamp.org/camp-dates-rates/",
+            "formats": [
+              "boarding"
+            ]
+          },
+          {
+            "start": "2027-07-25",
+            "end": "2027-07-31",
+            "label": "Junior · 7 дней / 6 ночей",
+            "price": "USD 2 900",
+            "place": "Idyllwild, California · 26800 Saunders Meadow Rd",
+            "source": "https://astrocamp.org/camp-dates-rates/",
+            "formats": [
+              "boarding"
+            ]
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "label": "USD 2 900 / неделя; на rates скидка USD 250 до 31 октября. Применение к выбранной заявке подтвердить.",
+        "included": "Проживание, питание, основные активности и оборудование; Junior FAQ не заявляет дополнительных обязательных program fees.",
+        "extras": "Перелёт, страховка и ONT transfer USD 60 в каждую сторону по без указания года travel-page; итог 2027 подтвердить. LAX transfer не предлагается; вне разрешённых flight slots возможна доплата.",
+        "deposit": "USD 300 невозвратный аванс в счёт цены; balance May 1. До Feb 1 ещё USD 100 cancellation fee, Feb–Apr USD 200; May 1–14 удержание 25%, May 15–31 50%, после June 1 100%. Оператор допускает регулируемую надбавку до USD 150 с возможностью отказаться. Отдельное исключение financial aid не распространяем на обычную заявку."
+      },
+      "accommodation": "Пансион; готовность к ночёвкам, bedding и присмотр проверить в пакете 2027.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "9–10 в 2027: входит в обе опубликованные младшие границы; язык и иностранный допуск ещё нужны."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Только после 7-летия к первому дню; в 6 лет не допускается."
+        }
+      },
+      "editorial_reason": "Научно-приключенческий короткий пансион с реальными датами и прозрачным базовым тарифом; допуск обоих зависит от дня рождения младшего.",
+      "shortlist": [
+        "general",
+        "boarding"
+      ],
+      "questions": [
+        "Подтвердить EN занятий, международный допуск, точный августовский старт, возраст на дату и окончательный transfer/insurance пакет."
+      ],
+      "sources": [
+        {
+          "title": "2027: смены, тарифы, оплата и отмена",
+          "url": "https://astrocamp.org/camp-dates-rates/",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "Junior: включения и расхождения дат/возраста",
+          "url": "https://astrocamp.org/camp-overview/one-week-sessions/",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "Гид родителей именно 2027",
+          "url": "https://astrocamp.org/parent-guide/",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "ONT transfer и допустимые flight slots",
+          "url": "https://astrocamp.org/travel/",
+          "checked": "2026-10-05"
+        }
+      ],
+      "checked": "2026-10-05"
+    },
+    "CP143": {
+      "id": "CP143",
+      "slug": "frenchwoods-regular",
+      "provider": "French Woods Festival · Performing Arts Boarding",
+      "country": "США",
+      "iso": "USA",
+      "place": "Hancock, New York · 199 Bouchoux Brook Rd",
+      "themes": [
+        "general",
+        "art",
+        "sport"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "7–17; отдельные условия программы under nine уточнить",
+      "language": "EN-погружение прямо описано: общение в домиках и выбранных активностях весь день с native speakers. Это общий/творческий лагерь, не отдельные ESL lessons или английская робототехника.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "Музыка, театр, танец, цирк, изобразительное искусство, спорт и другие electives. Шесть периодов: три постоянных majors и три ежедневных minors. Конкретное меню меняется по смене. Финальные спектакли/показы — лагерная практика, не международная победа.",
+      "timing": {
+        "status": "published_2027",
+        "label": "2027: четыре базовые 3-недельные смены 6–27 июня / 27 июня–18 июля / 18 июля–8 августа / 8–29 августа; сочетания 6/9/12 недель тоже опубликованы.",
+        "sessions": [
+          [
+            "2027-06-06",
+            "2027-06-27"
+          ],
+          [
+            "2027-06-27",
+            "2027-07-18"
+          ],
+          [
+            "2027-07-18",
+            "2027-08-08"
+          ],
+          [
+            "2027-08-08",
+            "2027-08-29"
+          ],
+          [
+            "2027-06-06",
+            "2027-07-18"
+          ],
+          [
+            "2027-06-27",
+            "2027-08-08"
+          ],
+          [
+            "2027-07-18",
+            "2027-08-29"
+          ],
+          [
+            "2027-06-06",
+            "2027-08-08"
+          ],
+          [
+            "2027-06-27",
+            "2027-08-29"
+          ],
+          [
+            "2027-06-06",
+            "2027-08-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-06-06",
+            "end": "2027-06-27",
+            "label": "Session 1 · 3 недели",
+            "price": "USD 6 700 / после Dec 1 6 900",
+            "place": "Hancock, New York · 199 Bouchoux Brook Rd",
+            "source": "https://frenchwoods.com/dates-and-rates.htm",
+            "formats": [
+              "boarding"
+            ]
+          },
+          {
+            "start": "2027-06-27",
+            "end": "2027-07-18",
+            "label": "Session 2 · 3 недели",
+            "price": "USD 8 000 / после Dec 1 8 400",
+            "place": "Hancock, New York · 199 Bouchoux Brook Rd",
+            "source": "https://frenchwoods.com/dates-and-rates.htm",
+            "formats": [
+              "boarding"
+            ]
+          },
+          {
+            "start": "2027-07-18",
+            "end": "2027-08-08",
+            "label": "Session 3 · 3 недели",
+            "price": "USD 8 800 / после Dec 1 8 400 · подтвердить",
+            "place": "Hancock, New York · 199 Bouchoux Brook Rd",
+            "source": "https://frenchwoods.com/dates-and-rates.htm",
+            "formats": [
+              "boarding"
+            ]
+          },
+          {
+            "start": "2027-08-08",
+            "end": "2027-08-29",
+            "label": "Session 4 · 3 недели",
+            "price": "USD 6 700 / после Dec 1 7 100",
+            "place": "Hancock, New York · 199 Bouchoux Brook Rd",
+            "source": "https://frenchwoods.com/dates-and-rates.htm",
+            "formats": [
+              "boarding"
+            ]
+          },
+          {
+            "start": "2027-06-06",
+            "end": "2027-07-18",
+            "label": "Sessions 1–2 · 6 недель",
+            "price": "USD 11 800 / 12 000",
+            "place": "Hancock, New York · 199 Bouchoux Brook Rd",
+            "source": "https://frenchwoods.com/dates-and-rates.htm",
+            "formats": [
+              "boarding"
+            ]
+          },
+          {
+            "start": "2027-06-27",
+            "end": "2027-08-08",
+            "label": "Sessions 2–3 · 6 недель",
+            "price": "USD 12 600 / 12 800",
+            "place": "Hancock, New York · 199 Bouchoux Brook Rd",
+            "source": "https://frenchwoods.com/dates-and-rates.htm",
+            "formats": [
+              "boarding"
+            ]
+          },
+          {
+            "start": "2027-07-18",
+            "end": "2027-08-29",
+            "label": "Sessions 3–4 · 6 недель",
+            "price": "USD 11 800 / 12 000",
+            "place": "Hancock, New York · 199 Bouchoux Brook Rd",
+            "source": "https://frenchwoods.com/dates-and-rates.htm",
+            "formats": [
+              "boarding"
+            ]
+          },
+          {
+            "start": "2027-06-06",
+            "end": "2027-08-08",
+            "label": "Sessions 1–3 · 9 недель",
+            "price": "USD 14 600 / 14 800",
+            "place": "Hancock, New York · 199 Bouchoux Brook Rd",
+            "source": "https://frenchwoods.com/dates-and-rates.htm",
+            "formats": [
+              "boarding"
+            ]
+          },
+          {
+            "start": "2027-06-27",
+            "end": "2027-08-29",
+            "label": "Sessions 2–4 · 9 недель",
+            "price": "USD 14 600 / 14 800",
+            "place": "Hancock, New York · 199 Bouchoux Brook Rd",
+            "source": "https://frenchwoods.com/dates-and-rates.htm",
+            "formats": [
+              "boarding"
+            ]
+          },
+          {
+            "start": "2027-06-06",
+            "end": "2027-08-29",
+            "label": "Sessions 1–4 · 12 недель",
+            "price": "USD 16 700 / 16 900",
+            "place": "Hancock, New York · 199 Bouchoux Brook Rd",
+            "source": "https://frenchwoods.com/dates-and-rates.htm",
+            "formats": [
+              "boarding"
+            ]
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "label": "3 недели early USD 6 700 / 8 000 / 8 800 / 6 700. После Dec 1: 6 900 / 8 400 / 8 400 / 7 100. Session 3 early выше late — расхождение не исправляем догадкой.",
+        "included": "Пансионная программа и выбранные активности; конкретный полный состав, платные опции и исключения подтвердить.",
+        "extras": "Перелёт, UM/baggage fees, camp airport/bus transfer, страховка и остальные обязательные сборы в полном договоре уточнить. Подтверждённый прайс transfer не найден; международным детям предоставляются bedding/towels и еженедельная прачечная.",
+        "deposit": "Early rate до Dec 1; общий аванс USD 1 750 на ребёнка. До Dec 1 2026 возврат минус 550, до Mar 1 2027 минус 800; возвраты не выдаются до May 1 2027. Условия поздней отмены и under-nine special programme нужны отдельно."
+      },
+      "accommodation": "Пансион; иностранные campers прямо принимаются. Прилёт EWR, staff встречает ребёнка; международная страница описывает встречу после Customs.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Возраст 9–10 подходит; выбрать программу и готовность к 3+ неделям."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "После 7-летия; условия under-nine programme и ночёвок уточнить."
+        }
+      },
+      "editorial_reason": "Содержательный общий творческий пансион с прямым доказательством английской лагерной жизни и международного состава.",
+      "shortlist": [
+        "general",
+        "boarding",
+        "both"
+      ],
+      "questions": [
+        "Сверить Session 3 тариф, under-nine условия, полный счёт и перенос/отмену; availability конкретных majors не обещана."
+      ],
+      "sources": [
+        {
+          "title": "Возраст и международный состав",
+          "url": "https://frenchwoods.com/",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "Точная таблица 2027",
+          "url": "https://frenchwoods.com/dates-and-rates.htm",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "EN-погружение и иностранные campers",
+          "url": "https://frenchwoods.com/international-campers.htm",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "Majors/minors и меняющееся меню",
+          "url": "https://frenchwoods.com/program-french-woods.htm",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "Трансфер и EWR",
+          "url": "https://frenchwoods.com/transportation.htm",
+          "checked": "2026-10-05"
+        }
+      ],
+      "checked": "2026-10-05",
+      "language_evidence_role": "camp_life"
+    },
+    "CP144": {
+      "id": "CP144",
+      "slug": "frenchwoods-trial",
+      "provider": "French Woods Festival · One-Week Trial",
+      "country": "США",
+      "iso": "USA",
+      "place": "Hancock, New York · 199 Bouchoux Brook Rd",
+      "themes": [
+        "general",
+        "art",
+        "sport"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "Основной лагерь 7–17; пробная неделя для новых campers; under nine согласовать",
+      "language": "EN-погружение прямо описано: общение в домиках и выбранных активностях весь день с native speakers. Это общий/творческий лагерь, не отдельные ESL lessons или английская робототехника.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "Короткое знакомство с тем же выбором творческих majors/minors. Пробная страница также упоминает возвращающихся, но таблица 2027 называет Session 5 для новых campers: eligibility подтвердить. Большинство уезжает после субботнего показа; таблица тарифов задаёт конец в воскресенье.",
+      "timing": {
+        "status": "published_2027",
+        "label": "30 августа–5 сентября 2027 по rates; фактический день отъезда в конце пробной недели выбрать отдельно.",
+        "sessions": [
+          [
+            "2027-08-30",
+            "2027-09-05"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-08-30",
+            "end": "2027-09-05",
+            "label": "Session 5 · new campers / Trial",
+            "price": "USD 2 000 / после Dec 1 2 400",
+            "place": "Hancock, New York · 199 Bouchoux Brook Rd",
+            "source": "https://frenchwoods.com/dates-and-rates.htm",
+            "formats": [
+              "boarding"
+            ]
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "label": "USD 2 000 early / USD 2 400 после Dec 1.",
+        "included": "Пробная пансионная творческая программа; полный состав тарифа подтвердить.",
+        "extras": "Перелёт, UM/baggage fees, camp airport/bus transfer, страховка и остальные обязательные сборы в полном договоре уточнить. Подтверждённый прайс transfer не найден; международным детям предоставляются bedding/towels и еженедельная прачечная.",
+        "deposit": "Пробная без указания года-page говорит USD 250 deposit, общая таблица 2027 USD 1 750: применимый trial аванс/возвраты ещё неизвестны. Не складываем оба взноса."
+      },
+      "accommodation": "Пансион 1 неделя; короткий формат не отменяет минимальный возраст и согласование under-nine.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "9–10: кандидат на первую короткую творческую смену."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Только после 7-летия; письменный допуск under nine и готовность к ночёвкам нужны."
+        }
+      },
+      "editorial_reason": "Более мягкая проба общего международного пансиона перед длинными сменами; явная цена отдельного формата.",
+      "shortlist": [
+        "general",
+        "boarding",
+        "both"
+      ],
+      "questions": [
+        "Подтвердить минимальный возраст именно Trial, допуск новых / возвращающихся детей, аванс и окончательный день вывоза/transfer."
+      ],
+      "sources": [
+        {
+          "title": "2027: отдельная пробная цена и даты",
+          "url": "https://frenchwoods.com/dates-and-rates.htm",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "Пробная программа и другой deposit",
+          "url": "https://frenchwoods.com/session5.htm",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "Возраст основного лагеря",
+          "url": "https://frenchwoods.com/",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "Английская лагерная жизнь",
+          "url": "https://frenchwoods.com/international-campers.htm",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "EWR и перевозка",
+          "url": "https://frenchwoods.com/transportation.htm",
+          "checked": "2026-10-05"
+        }
+      ],
+      "checked": "2026-10-05",
+      "language_evidence_role": "camp_life"
+    }
+  },
+  "new_budget_offer_ids": [
+    "ussrc-space-matvey-2027",
+    "ussrc-robotics-matvey-2027",
+    "aviation-family-onsite-three-2027",
+    "aviation-family-offsite-three-2027",
+    "ilsc-ubc-1w-boarding-matvey-2027",
+    "ilsc-ubc-1w-day-matvey-2027",
+    "ilsc-ubc-2w-boarding-matvey-2027",
+    "bricklabs-robotics-matvey-2027",
+    "bricklabs-creative-matvey-2027",
+    "arowhon-mini-two-2027",
+    "arowhon-regular-two-weeks-two-2027",
+    "catalina-one-week-matvey-2027",
+    "astrocamp-one-week-two-2027",
+    "frenchwoods-session1-early-two-2027",
+    "frenchwoods-trial-early-two-2027"
+  ],
+  "budget_offers": [
+    {
+      "id": "ussrc-space-matvey-2027",
+      "slug": "space-camp",
+      "label": "USSRC · космос · Матвей",
+      "currency": "USD",
+      "price_year": 2027,
+      "children": [
+        "matvey"
+      ],
+      "base_by_child": {
+        "matvey": 1699
+      },
+      "discount_second": 0,
+      "required": [],
+      "unknown_required": [
+        {
+          "id": "invoice_extras",
+          "label": "Налоги и остальные обязательные условия полного счёта",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [],
+      "sources": [
+        "https://rocketcenter.com/spacecamp/space-camp/",
+        "https://rocketcenter.com/Help/FAQ/camps/weeklong/",
+        "https://rocketcenter.com/spacecamp/",
+        "https://find.acacamps.org/camp_profile.php?camp_id=5271"
+      ],
+      "sessions": [
+        [
+          "2027-03-14",
+          "2027-03-19"
+        ],
+        [
+          "2027-05-30",
+          "2027-06-04"
+        ],
+        [
+          "2027-06-06",
+          "2027-06-11"
+        ],
+        [
+          "2027-06-13",
+          "2027-06-18"
+        ],
+        [
+          "2027-06-20",
+          "2027-06-25"
+        ],
+        [
+          "2027-06-27",
+          "2027-07-02"
+        ],
+        [
+          "2027-07-04",
+          "2027-07-09"
+        ],
+        [
+          "2027-07-11",
+          "2027-07-16"
+        ],
+        [
+          "2027-07-18",
+          "2027-07-23"
+        ],
+        [
+          "2027-07-25",
+          "2027-07-30"
+        ],
+        [
+          "2027-08-01",
+          "2027-08-06"
+        ],
+        [
+          "2027-08-08",
+          "2027-08-13"
+        ],
+        [
+          "2027-08-15",
+          "2027-08-20"
+        ],
+        [
+          "2027-08-22",
+          "2027-08-27"
+        ],
+        [
+          "2027-08-29",
+          "2027-09-03"
+        ]
+      ],
+      "gate": "Подтвердить Grade 4 для девятилетнего, состав USD 1699, зачисление и все обязательные доплаты.",
+      "deposit_note": "Отмена за восемь недель и более: 90% оплаченного tuition минус USD 200 невозвратной регистрации; входит ли регистрация в USD 1699, подтвердить счётом. Один перенос бесплатный, следующий USD 25, запрос минимум за две недели. Медицинские и транспортные формы нужны за 30 дней — это не закрытие регистрации.",
+      "included": "Пакет проживания/питания уточнить.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Частичный семейный расчёт, не окончательный счёт. Неизвестные обязательные расходы и дорога не равны нулю; допуск, язык и наличие мест подтвердить.",
+      "checked": "2026-11-06",
+      "format": "boarding"
+    },
+    {
+      "id": "ussrc-robotics-matvey-2027",
+      "slug": "space-robotics",
+      "label": "USSRC · робототехника · Матвей",
+      "currency": "USD",
+      "price_year": 2027,
+      "children": [
+        "matvey"
+      ],
+      "base_by_child": {
+        "matvey": 1699
+      },
+      "discount_second": 0,
+      "required": [],
+      "unknown_required": [
+        {
+          "id": "invoice_extras",
+          "label": "Налоги и остальные обязательные условия полного счёта",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [],
+      "sources": [
+        "https://rocketcenter.com/robotics/",
+        "https://rocketcenter.com/SpaceCamp?field_age_group_target_id=All&field_space_camp_program_categor_target_id=2062",
+        "https://rocketcenter.com/Help/FAQ/camps/weeklong/",
+        "https://rocketcenter.com/spacecamp/",
+        "https://find.acacamps.org/camp_profile.php?camp_id=5271"
+      ],
+      "sessions": [
+        [
+          "2027-05-30",
+          "2027-06-04"
+        ],
+        [
+          "2027-06-06",
+          "2027-06-11"
+        ],
+        [
+          "2027-06-13",
+          "2027-06-18"
+        ],
+        [
+          "2027-06-20",
+          "2027-06-25"
+        ],
+        [
+          "2027-06-27",
+          "2027-07-02"
+        ],
+        [
+          "2027-07-04",
+          "2027-07-09"
+        ],
+        [
+          "2027-07-11",
+          "2027-07-16"
+        ],
+        [
+          "2027-07-18",
+          "2027-07-23"
+        ],
+        [
+          "2027-07-25",
+          "2027-07-30"
+        ],
+        [
+          "2027-08-01",
+          "2027-08-06"
+        ],
+        [
+          "2027-08-08",
+          "2027-08-13"
+        ],
+        [
+          "2027-08-15",
+          "2027-08-20"
+        ]
+      ],
+      "gate": "Подтвердить Grade 4, точную платформу VEX и сложность для трёхлетнего опыта; базу USD 1699 и регистрацию.",
+      "deposit_note": "Отмена за восемь недель и более: 90% оплаченного tuition минус USD 200 невозвратной регистрации; входит ли регистрация в USD 1699, подтвердить счётом. Один перенос бесплатный, следующий USD 25, запрос минимум за две недели. Медицинские и транспортные формы нужны за 30 дней — это не закрытие регистрации.",
+      "included": "Пакет проживания/питания и оборудование подтвердить по регистрации.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Частичный семейный расчёт, не окончательный счёт. Неизвестные обязательные расходы и дорога не равны нулю; допуск, язык и наличие мест подтвердить.",
+      "checked": "2026-11-06",
+      "format": "boarding"
+    },
+    {
+      "id": "aviation-family-onsite-three-2027",
+      "slug": "family-aviation",
+      "label": "Family Aviation · один взрослый и двое детей · с проживанием",
+      "currency": "USD",
+      "price_year": 2027,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "base_by_child": {
+        "matvey": 799,
+        "oscar": 799
+      },
+      "discount_second": 0,
+      "required": [
+        {
+          "id": "adult_participant",
+          "label": "Обязательный оплачивающий взрослый",
+          "min": 1,
+          "unit": "participant",
+          "amount": 799
+        }
+      ],
+      "unknown_required": [
+        {
+          "id": "invoice_extras",
+          "label": "Налоги и остальные обязательные условия полного счёта",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [
+        {
+          "id": "second_adult",
+          "label": "Второй взрослый участник",
+          "min": 0,
+          "unit": "participant",
+          "amount": 799
+        }
+      ],
+      "sources": [
+        "https://rocketcenter.com/SpaceCamp/Family",
+        "https://rocketcenter.com/spacecamp/"
+      ],
+      "sessions": [
+        [
+          "2027-06-11",
+          "2027-06-13"
+        ],
+        [
+          "2027-07-30",
+          "2027-08-01"
+        ],
+        [
+          "2027-08-27",
+          "2027-08-29"
+        ]
+      ],
+      "gate": "Оскару уже семь; минимум один оплачивающий взрослый, onsite/offsite, язык и семейные правила отмены отдельно подтвердить.",
+      "deposit_note": "Оплата и отмена — по составу семьи/заезду.",
+      "included": "В варианте USD 799: две ночи пятницы и субботы, питание с пятничного ужина до воскресного завтрака. В варианте 699 гостиница не включена.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Частичный семейный расчёт, не окончательный счёт. Неизвестные обязательные расходы и дорога не равны нулю; допуск, язык и наличие мест подтвердить.",
+      "checked": "2026-11-06",
+      "format": "family"
+    },
+    {
+      "id": "aviation-family-offsite-three-2027",
+      "slug": "family-aviation",
+      "label": "Family Aviation · один взрослый и двое детей · без гостиницы",
+      "currency": "USD",
+      "price_year": 2027,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "base_by_child": {
+        "matvey": 699,
+        "oscar": 699
+      },
+      "discount_second": 0,
+      "required": [
+        {
+          "id": "adult_participant",
+          "label": "Обязательный оплачивающий взрослый",
+          "min": 1,
+          "unit": "participant",
+          "amount": 699
+        }
+      ],
+      "unknown_required": [
+        {
+          "id": "invoice_extras",
+          "label": "Налоги и остальные обязательные условия полного счёта",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [
+        {
+          "id": "second_adult",
+          "label": "Второй взрослый участник",
+          "min": 0,
+          "unit": "participant",
+          "amount": 699
+        }
+      ],
+      "sources": [
+        "https://rocketcenter.com/SpaceCamp/Family",
+        "https://rocketcenter.com/spacecamp/"
+      ],
+      "sessions": [
+        [
+          "2027-06-11",
+          "2027-06-13"
+        ],
+        [
+          "2027-07-30",
+          "2027-08-01"
+        ],
+        [
+          "2027-08-27",
+          "2027-08-29"
+        ]
+      ],
+      "gate": "Оскару уже семь; минимум один оплачивающий взрослый, onsite/offsite, язык и семейные правила отмены отдельно подтвердить.",
+      "deposit_note": "Оплата и отмена — по составу семьи/заезду.",
+      "included": "В варианте USD 799: две ночи пятницы и субботы, питание с пятничного ужина до воскресного завтрака. В варианте 699 гостиница не включена.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Частичный семейный расчёт, не окончательный счёт. Неизвестные обязательные расходы и дорога не равны нулю; допуск, язык и наличие мест подтвердить.",
+      "checked": "2026-11-06",
+      "format": "family"
+    },
+    {
+      "id": "ilsc-ubc-1w-boarding-matvey-2027",
+      "slug": "ilsc-ubc",
+      "label": "ILSC UBC · 1 нед. · Матвей · пансион",
+      "currency": "CAD",
+      "price_year": 2027,
+      "children": [
+        "matvey"
+      ],
+      "base_by_child": {
+        "matvey": 3235
+      },
+      "discount_second": 0,
+      "required": [
+        {
+          "id": "refundable_damage_cash",
+          "label": "Возвратный залог наличными один раз за весь заезд",
+          "min": 1,
+          "unit": "stay",
+          "amount": 100,
+          "refundable": true,
+          "once_per_stay": true
+        }
+      ],
+      "unknown_required": [
+        {
+          "id": "invoice_extras",
+          "label": "Налоги и остальные обязательные условия полного счёта",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [],
+      "sources": [
+        "https://www.ilsc.com/language-schools/programs/junior/residences/ubc",
+        "https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf"
+      ],
+      "sessions": [
+        [
+          "2027-06-27",
+          "2027-07-04"
+        ],
+        [
+          "2027-07-04",
+          "2027-07-11"
+        ],
+        [
+          "2027-07-11",
+          "2027-07-18"
+        ],
+        [
+          "2027-07-18",
+          "2027-07-25"
+        ],
+        [
+          "2027-07-25",
+          "2027-08-01"
+        ],
+        [
+          "2027-08-01",
+          "2027-08-08"
+        ]
+      ],
+      "gate": "Выбрать продолжительность и day/boarding; Оскар младше девяти. Подтвердить место Матвея, ночной присмотр, один залог 100 и полный счёт без повторного добавления 350.",
+      "deposit_note": "CAD 350 невозвратного аванса входят в пакет, не прибавляются к цене. Остаток за две недели. Канада: отказ в первые семь дней при запасе 30 дней — больший возврат из 75% цены или цены минус 350; далее за 30 дней и более 75%, менее 30 дней 60%. После начала до 10% программы возврат 50%, 10–30% возврат 30%, свыше 30% возврата нет. Отказ в визе: удерживают 350. Применимость условий и сумму счёта подтвердить.",
+      "included": "Регистрация включена. Пансион: проживание, три приёма пищи, английский, активности, аэропортовый трансфер, медицинская страховка и письмо опекуна. Day-only: занятия и активности БЕЗ еды, проживания, аэропорта и письма опекуна. ILSC работает на территории UBC; университет не управляет программой и не подтверждает её качество.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Частичный семейный расчёт, не окончательный счёт. Неизвестные обязательные расходы и дорога не равны нулю; допуск, язык и наличие мест подтвердить.",
+      "checked": "2026-11-06",
+      "format": "boarding"
+    },
+    {
+      "id": "ilsc-ubc-1w-day-matvey-2027",
+      "slug": "ilsc-ubc",
+      "label": "ILSC UBC · 1 нед. · Матвей · дневной",
+      "currency": "CAD",
+      "price_year": 2027,
+      "children": [
+        "matvey"
+      ],
+      "base_by_child": {
+        "matvey": 1605
+      },
+      "discount_second": 0,
+      "required": [],
+      "unknown_required": [
+        {
+          "id": "invoice_extras",
+          "label": "Налоги и остальные обязательные условия полного счёта",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [
+        {
+          "id": "day_meals",
+          "label": "Питание дневного пакета",
+          "min": 0,
+          "unit": "stay",
+          "amount": 180
+        }
+      ],
+      "sources": [
+        "https://www.ilsc.com/language-schools/programs/junior/residences/ubc",
+        "https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf"
+      ],
+      "sessions": [
+        [
+          "2027-06-27",
+          "2027-07-04"
+        ],
+        [
+          "2027-07-04",
+          "2027-07-11"
+        ],
+        [
+          "2027-07-11",
+          "2027-07-18"
+        ],
+        [
+          "2027-07-18",
+          "2027-07-25"
+        ],
+        [
+          "2027-07-25",
+          "2027-08-01"
+        ],
+        [
+          "2027-08-01",
+          "2027-08-08"
+        ]
+      ],
+      "gate": "Выбрать продолжительность и day/boarding; Оскар младше девяти. Подтвердить место Матвея, ночной присмотр, один залог 100 и полный счёт без повторного добавления 350.",
+      "deposit_note": "CAD 350 невозвратного аванса входят в пакет, не прибавляются к цене. Остаток за две недели. Канада: отказ в первые семь дней при запасе 30 дней — больший возврат из 75% цены или цены минус 350; далее за 30 дней и более 75%, менее 30 дней 60%. После начала до 10% программы возврат 50%, 10–30% возврат 30%, свыше 30% возврата нет. Отказ в визе: удерживают 350. Применимость условий и сумму счёта подтвердить.",
+      "included": "Регистрация включена. Пансион: проживание, три приёма пищи, английский, активности, аэропортовый трансфер, медицинская страховка и письмо опекуна. Day-only: занятия и активности БЕЗ еды, проживания, аэропорта и письма опекуна. ILSC работает на территории UBC; университет не управляет программой и не подтверждает её качество.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Частичный семейный расчёт, не окончательный счёт. Неизвестные обязательные расходы и дорога не равны нулю; допуск, язык и наличие мест подтвердить.",
+      "checked": "2026-11-06",
+      "format": "day"
+    },
+    {
+      "id": "ilsc-ubc-2w-boarding-matvey-2027",
+      "slug": "ilsc-ubc",
+      "label": "ILSC UBC · 2 нед. · Матвей · пансион",
+      "currency": "CAD",
+      "price_year": 2027,
+      "children": [
+        "matvey"
+      ],
+      "base_by_child": {
+        "matvey": 5780
+      },
+      "discount_second": 0,
+      "required": [
+        {
+          "id": "refundable_damage_cash",
+          "label": "Возвратный залог наличными один раз за весь заезд",
+          "min": 1,
+          "unit": "stay",
+          "amount": 100,
+          "refundable": true,
+          "once_per_stay": true
+        }
+      ],
+      "unknown_required": [
+        {
+          "id": "invoice_extras",
+          "label": "Налоги и остальные обязательные условия полного счёта",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [],
+      "sources": [
+        "https://www.ilsc.com/language-schools/programs/junior/residences/ubc",
+        "https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf"
+      ],
+      "sessions": [
+        [
+          "2027-06-27",
+          "2027-07-11"
+        ],
+        [
+          "2027-07-04",
+          "2027-07-18"
+        ],
+        [
+          "2027-07-11",
+          "2027-07-25"
+        ],
+        [
+          "2027-07-18",
+          "2027-08-01"
+        ],
+        [
+          "2027-07-25",
+          "2027-08-08"
+        ]
+      ],
+      "gate": "Выбрать продолжительность и day/boarding; Оскар младше девяти. Подтвердить место Матвея, ночной присмотр, один залог 100 и полный счёт без повторного добавления 350.",
+      "deposit_note": "CAD 350 невозвратного аванса входят в пакет, не прибавляются к цене. Остаток за две недели. Канада: отказ в первые семь дней при запасе 30 дней — больший возврат из 75% цены или цены минус 350; далее за 30 дней и более 75%, менее 30 дней 60%. После начала до 10% программы возврат 50%, 10–30% возврат 30%, свыше 30% возврата нет. Отказ в визе: удерживают 350. Применимость условий и сумму счёта подтвердить.",
+      "included": "Регистрация включена. Пансион: проживание, три приёма пищи, английский, активности, аэропортовый трансфер, медицинская страховка и письмо опекуна. Day-only: занятия и активности БЕЗ еды, проживания, аэропорта и письма опекуна. ILSC работает на территории UBC; университет не управляет программой и не подтверждает её качество.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Частичный семейный расчёт, не окончательный счёт. Неизвестные обязательные расходы и дорога не равны нулю; допуск, язык и наличие мест подтвердить.",
+      "checked": "2026-11-06",
+      "format": "boarding"
+    },
+    {
+      "id": "bricklabs-robotics-matvey-2027",
+      "slug": "bricklabs-robotics",
+      "label": "Brick Labs · Матвей · робототехника",
+      "currency": "CAD",
+      "price_year": 2027,
+      "children": [
+        "matvey"
+      ],
+      "base_by_child": {
+        "matvey": 1650
+      },
+      "discount_second": 0,
+      "required": [],
+      "unknown_required": [
+        {
+          "id": "invoice_extras",
+          "label": "Налоги и остальные обязательные условия полного счёта",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [],
+      "sources": [
+        "https://bricklabs.ca/over-night-camp-2026/",
+        "https://app.acuityscheduling.com/schedule.php?owner=13584246&appointmentType=98136580",
+        "https://bricklabs.ca/cancellation-policy/"
+      ],
+      "sessions": [
+        [
+          "2027-07-25",
+          "2027-07-30"
+        ],
+        [
+          "2027-08-15",
+          "2027-08-20"
+        ]
+      ],
+      "gate": "Подтвердить устный язык, уровень робототехники, ночную команду, налоги CAD 1650 и зачёт аванса 650.",
+      "deposit_note": "CAD 650 входят в 1650, остаток 1000 до 1 марта 2027; формы до 1 апреля. Специальные правила 2027: до 31 декабря 2026 полный возврат, с 1 января по 28 февраля 2027 возврат 50%, с 1 марта возврата нет. Общая старая страница отмены 2025/2026 не заменяет условия этого заезда.",
+      "included": "Coach из North York, пансион, meals/snacks, материалы и основные активности.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Частичный семейный расчёт, не окончательный счёт. Неизвестные обязательные расходы и дорога не равны нулю; допуск, язык и наличие мест подтвердить.",
+      "checked": "2026-11-06",
+      "format": "boarding"
+    },
+    {
+      "id": "bricklabs-creative-matvey-2027",
+      "slug": "bricklabs-creative",
+      "label": "Brick Labs · Матвей · творческий трек",
+      "currency": "CAD",
+      "price_year": 2027,
+      "children": [
+        "matvey"
+      ],
+      "base_by_child": {
+        "matvey": 1650
+      },
+      "discount_second": 0,
+      "required": [],
+      "unknown_required": [
+        {
+          "id": "invoice_extras",
+          "label": "Налоги и остальные обязательные условия полного счёта",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [],
+      "sources": [
+        "https://bricklabs.ca/over-night-camp-2026/",
+        "https://app.acuityscheduling.com/schedule.php?owner=13584246&appointmentType=98136580",
+        "https://bricklabs.ca/cancellation-policy/"
+      ],
+      "sessions": [
+        [
+          "2027-07-25",
+          "2027-07-30"
+        ],
+        [
+          "2027-08-15",
+          "2027-08-20"
+        ]
+      ],
+      "gate": "Подтвердить устный язык, творческий трек, ночную команду, налоги CAD 1650 и зачёт аванса 650.",
+      "deposit_note": "CAD 650 входят в 1650, остаток 1000 до 1 марта 2027; формы до 1 апреля. Специальные правила 2027: до 31 декабря 2026 полный возврат, с 1 января по 28 февраля 2027 возврат 50%, с 1 марта возврата нет. Общая старая страница отмены 2025/2026 не заменяет условия этого заезда.",
+      "included": "Coach из North York, пансион, meals/snacks, материалы и основные активности.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Частичный семейный расчёт, не окончательный счёт. Неизвестные обязательные расходы и дорога не равны нулю; допуск, язык и наличие мест подтвердить.",
+      "checked": "2026-11-06",
+      "format": "boarding"
+    },
+    {
+      "id": "arowhon-mini-two-2027",
+      "slug": "arowhon-mini",
+      "label": "Arowhon Mini · оба ребёнка при выполнении возраста и класса",
+      "currency": "CAD",
+      "price_year": 2027,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "base_by_child": {
+        "matvey": 700,
+        "oscar": 700
+      },
+      "discount_second": 0,
+      "required": [],
+      "unknown_required": [
+        {
+          "id": "invoice_extras",
+          "label": "Налоги и остальные обязательные условия полного счёта",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [
+        {
+          "id": "mini_bus_return_two",
+          "label": "Автобус Mini туда-обратно обоим",
+          "min": 0,
+          "unit": "family",
+          "amount": 400
+        }
+      ],
+      "sources": [
+        "https://camparowhon.com/programs/mini-camp/",
+        "https://camparowhon.com/programs/rates-dates/",
+        "https://camparowhon.com/ourteam/faq/",
+        "https://ontariocampsassociation.ca/program/camp-arowhon/"
+      ],
+      "sessions": [
+        [
+          "2027-08-13",
+          "2027-08-16"
+        ]
+      ],
+      "gate": "Матвей только если ещё девять и класс подходит; подтвердить SK–Grade 3, язык, HST, страхование и собственную отмену Mini.",
+      "deposit_note": "Для Mini депозит не требуется. Таблица удержаний regular camp к Mini не применяется; собственную отмену уточнить.",
+      "included": "Короткий camp stay; детальное включение питания/материалов подтвердить.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Частичный семейный расчёт, не окончательный счёт. Неизвестные обязательные расходы и дорога не равны нулю; допуск, язык и наличие мест подтвердить.",
+      "checked": "2026-11-06",
+      "format": "boarding"
+    },
+    {
+      "id": "arowhon-regular-two-weeks-two-2027",
+      "slug": "arowhon-regular",
+      "label": "Arowhon · две недели · двое · скидку брату подтвердить",
+      "currency": "CAD",
+      "price_year": 2027,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "base_by_child": {
+        "matvey": 5200,
+        "oscar": 5050
+      },
+      "discount_second": 0,
+      "required": [],
+      "unknown_required": [
+        {
+          "id": "invoice_extras",
+          "label": "Налоги и остальные обязательные условия полного счёта",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [
+        {
+          "id": "regular_bus_return_two",
+          "label": "Автобус regular туда-обратно обоим",
+          "min": 0,
+          "unit": "family",
+          "amount": 700
+        }
+      ],
+      "sources": [
+        "https://camparowhon.com/programs/rates-dates/",
+        "https://camparowhon.com/ourteam/faq/",
+        "https://camparowhon.com/programs/mini-camp/",
+        "https://ontariocampsassociation.ca/program/camp-arowhon/"
+      ],
+      "sessions": [
+        [
+          "2027-07-01",
+          "2027-07-14"
+        ],
+        [
+          "2027-07-29",
+          "2027-08-11"
+        ]
+      ],
+      "gate": "Подтвердить возраст и завершённый класс, язык, HST, страховой полис и применимость скидки брату; у длинных заездов жильё в две ночи смены. В сумму условно включена скидка CAD 150 второму ребёнку; без подтверждения счёта не считать её гарантированной. HST и подходящий страховой полис отдельно.",
+      "deposit_note": "CAD1 000 аванс в счёт пакета. Отмена: до Dec1 CAD300; Dec1–Feb1 CAD500; Feb1–May1 CAD1 000; после May1 без возврата.",
+      "included": "Программа, laundry, еда и пансион.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Частичный семейный расчёт, не окончательный счёт. Неизвестные обязательные расходы и дорога не равны нулю; допуск, язык и наличие мест подтвердить.",
+      "checked": "2026-11-06",
+      "format": "boarding"
+    },
+    {
+      "id": "catalina-one-week-matvey-2027",
+      "slug": "catalina-sea-junior",
+      "label": "Catalina · Матвей · обычный тариф",
+      "currency": "USD",
+      "price_year": 2027,
+      "children": [
+        "matvey"
+      ],
+      "base_by_child": {
+        "matvey": 3750
+      },
+      "discount_second": 0,
+      "required": [],
+      "unknown_required": [
+        {
+          "id": "invoice_extras",
+          "label": "Налоги и остальные обязательные условия полного счёта",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [],
+      "sources": [
+        "https://catalinaseacamp.org/dates-rates/",
+        "https://catalinaseacamp.org/programs/1-week-programs/",
+        "https://catalinaseacamp.org/catalina-island-faqs/",
+        "https://catalinaseacamp.org/health-and-safety/",
+        "https://find.acacamps.org/camp_profile.php?camp_id=2026"
+      ],
+      "sessions": [
+        [
+          "2027-06-12",
+          "2027-06-18"
+        ],
+        [
+          "2027-06-19",
+          "2027-06-25"
+        ],
+        [
+          "2027-06-26",
+          "2027-07-02"
+        ]
+      ],
+      "gate": "Подтвердить язык, Toyon Bay или Fox Landing, лодку, водные правила и полный счёт; ранняя скидка 150 до 31 января.",
+      "deposit_note": "USD300 невозвратный аванс входит в tuition; полная оплата до 1 мая. До 1 февраля дополнительно удерживают100, Feb1–Apr30 200; May1–14 25%, May15–31 50%, после 1 июня 100%. Базу сочетания удержаний уточнить.",
+      "included": "Программа с проживанием и meal times; точное включение boat/оборудования получить в invoice.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Частичный семейный расчёт, не окончательный счёт. Неизвестные обязательные расходы и дорога не равны нулю; допуск, язык и наличие мест подтвердить.",
+      "checked": "2026-11-06",
+      "format": "boarding"
+    },
+    {
+      "id": "astrocamp-one-week-two-2027",
+      "slug": "astrocamp-junior",
+      "label": "AstroCamp · оба ребёнка · обычный тариф",
+      "currency": "USD",
+      "price_year": 2027,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "base_by_child": {
+        "matvey": 2900,
+        "oscar": 2900
+      },
+      "discount_second": 0,
+      "required": [],
+      "unknown_required": [
+        {
+          "id": "invoice_extras",
+          "label": "Налоги и остальные обязательные условия полного счёта",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [
+        {
+          "id": "ont_return_two",
+          "label": "ONT трансфер туда-обратно обоим",
+          "min": 0,
+          "unit": "family",
+          "amount": 240
+        }
+      ],
+      "sources": [
+        "https://astrocamp.org/camp-dates-rates/",
+        "https://astrocamp.org/camp-overview/one-week-sessions/",
+        "https://astrocamp.org/parent-guide/",
+        "https://astrocamp.org/travel/",
+        "https://astrocamp.org/health-safety/"
+      ],
+      "sessions": [
+        [
+          "2027-06-12",
+          "2027-06-18"
+        ],
+        [
+          "2027-06-19",
+          "2027-06-25"
+        ],
+        [
+          "2027-07-25",
+          "2027-07-31"
+        ]
+      ],
+      "gate": "Оскару уже семь; язык, возраст 7–13 или 7–12, конкретные активности и трансфер ONT подтвердить; август не объявлен.",
+      "deposit_note": "USD 300 невозвратный аванс в счёт цены; balance May 1. До Feb 1 ещё USD 100 cancellation fee, Feb–Apr USD 200; May 1–14 удержание 25%, May 15–31 50%, после June 1 100%. Оператор допускает регулируемую надбавку до USD 150 с возможностью отказаться. Отдельное исключение financial aid не распространяем на обычную заявку.",
+      "included": "Проживание, питание, основные активности и оборудование; Junior FAQ не заявляет дополнительных обязательных program fees.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Частичный семейный расчёт, не окончательный счёт. Неизвестные обязательные расходы и дорога не равны нулю; допуск, язык и наличие мест подтвердить.",
+      "checked": "2026-11-06",
+      "format": "boarding"
+    },
+    {
+      "id": "frenchwoods-session1-early-two-2027",
+      "slug": "frenchwoods-regular",
+      "label": "French Woods · Session 1 · двое · ранняя цена",
+      "currency": "USD",
+      "price_year": 2027,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "base_by_child": {
+        "matvey": 6700,
+        "oscar": 6700
+      },
+      "discount_second": 0,
+      "required": [],
+      "unknown_required": [
+        {
+          "id": "invoice_extras",
+          "label": "Налоги и остальные обязательные условия полного счёта",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [],
+      "sources": [
+        "https://frenchwoods.com/",
+        "https://frenchwoods.com/dates-and-rates.htm",
+        "https://frenchwoods.com/international-campers.htm",
+        "https://frenchwoods.com/program-french-woods.htm",
+        "https://frenchwoods.com/transportation.htm",
+        "https://frenchwoods.com/session5.htm",
+        "https://frenchwoods.com/younger-campers.htm",
+        "https://frenchwoods.com/important-staff-bios.htm",
+        "https://frenchwoods.com/cell-wi-fi-electronics-policy.htm"
+      ],
+      "sessions": [
+        [
+          "2027-06-06",
+          "2027-06-27"
+        ]
+      ],
+      "gate": "Подтвердить under-nine условия Оскара, полный счёт, связь с ребёнком и готовность к трём неделям. Текущий Session 3 early 8000. Цена действительна только при выполнении условий до 1 декабря 2026; under-nine допуск и дополнительные платежи Оскара ещё неизвестны.",
+      "deposit_note": "Early rate до Dec 1; общий аванс USD 1 750 на ребёнка. До Dec 1 2026 возврат минус 550, до Mar 1 2027 минус 800; возвраты не выдаются до May 1 2027. Условия поздней отмены и under-nine special programme нужны отдельно.",
+      "included": "Пансионная программа и выбранные активности; конкретный полный состав, платные опции и исключения подтвердить.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Частичный семейный расчёт, не окончательный счёт. Неизвестные обязательные расходы и дорога не равны нулю; допуск, язык и наличие мест подтвердить.",
+      "checked": "2026-11-06",
+      "format": "boarding"
+    },
+    {
+      "id": "frenchwoods-trial-early-two-2027",
+      "slug": "frenchwoods-trial",
+      "label": "French Woods · Trial · двое · ранняя цена",
+      "currency": "USD",
+      "price_year": 2027,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "base_by_child": {
+        "matvey": 2000,
+        "oscar": 2000
+      },
+      "discount_second": 0,
+      "required": [],
+      "unknown_required": [
+        {
+          "id": "invoice_extras",
+          "label": "Налоги и остальные обязательные условия полного счёта",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [],
+      "sources": [
+        "https://frenchwoods.com/dates-and-rates.htm",
+        "https://frenchwoods.com/session5.htm",
+        "https://frenchwoods.com/",
+        "https://frenchwoods.com/international-campers.htm",
+        "https://frenchwoods.com/transportation.htm",
+        "https://frenchwoods.com/program-french-woods.htm",
+        "https://frenchwoods.com/younger-campers.htm",
+        "https://frenchwoods.com/important-staff-bios.htm",
+        "https://frenchwoods.com/cell-wi-fi-electronics-policy.htm"
+      ],
+      "sessions": [
+        [
+          "2027-08-30",
+          "2027-09-05"
+        ]
+      ],
+      "gate": "Подтвердить under-nine и new-camper допуск, применимый аванс 250 или 1750 и правила связи Session 5. Оба аванса не складывать. Цена действительна только при выполнении условий до 1 декабря 2026; under-nine допуск и дополнительные платежи Оскара ещё неизвестны.",
+      "deposit_note": "Пробная без указания года-page говорит USD 250 deposit, общая таблица 2027 USD 1 750: применимый trial аванс/возвраты ещё неизвестны. Не складываем оба взноса.",
+      "included": "Пробная пансионная творческая программа; полный состав тарифа подтвердить.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Частичный семейный расчёт, не окончательный счёт. Неизвестные обязательные расходы и дорога не равны нулю; допуск, язык и наличие мест подтвердить.",
+      "checked": "2026-11-06",
+      "format": "boarding"
+    }
+  ],
+  "deadline_updates": [
+    {
+      "event_id": "CP086-20270612-20270618",
+      "deadline": "2027-01-31",
+      "deadline_label": "Конец раннего тарифа; не закрытие приёма"
+    },
+    {
+      "event_id": "CP142-20270612-20270618",
+      "deadline": "2027-01-31",
+      "deadline_label": "Конец раннего тарифа; не закрытие приёма"
+    },
+    {
+      "event_id": "CP143-20270606-20270627",
+      "deadline": "2026-12-01",
+      "deadline_label": "Конец раннего тарифа; не закрытие приёма"
+    },
+    {
+      "event_id": "CP144-20270830-20270905",
+      "deadline": "2026-12-01",
+      "deadline_label": "Конец раннего тарифа; не закрытие приёма"
+    }
+  ],
+  "verified_session_programmes": [
+    "CP039"
+  ],
+  "new_calendar_event_ids": [
+    "CP039-20270627-20270704",
+    "CP039-20270704-20270711",
+    "CP039-20270711-20270718",
+    "CP039-20270718-20270725",
+    "CP039-20270725-20270801",
+    "CP039-20270801-20270808",
+    "CP039-20270627-20270711",
+    "CP039-20270704-20270718",
+    "CP039-20270711-20270725",
+    "CP039-20270718-20270801",
+    "CP039-20270725-20270808",
+    "CP039-20270627-20270718",
+    "CP039-20270704-20270725",
+    "CP039-20270711-20270801",
+    "CP039-20270718-20270808",
+    "CP039-20270627-20270725",
+    "CP039-20270704-20270801",
+    "CP039-20270711-20270808",
+    "CP039-20270627-20270801",
+    "CP039-20270704-20270808",
+    "CP039-20270627-20270808"
+  ],
+  "event_updates": []
+}

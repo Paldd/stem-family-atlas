@@ -1,0 +1,2684 @@
+{
+  "version": 195,
+  "checked": "2026-11-06",
+  "modified_raw_profile_ids": [
+    "CP035",
+    "CP036",
+    "CP037",
+    "CP038",
+    "CP039",
+    "CP079",
+    "CP080",
+    "CP081",
+    "CP084",
+    "CP085",
+    "CP086",
+    "CP142",
+    "CP143",
+    "CP144"
+  ],
+  "previous_raw_profiles": {
+    "CP035": {
+      "id": "CP035",
+      "slug": "camp-invention",
+      "provider": "Camp Invention · Gear Up 2027",
+      "country": "Estados Unidos",
+      "iso": "USA",
+      "place": "red de plazas diurnas de EE.UU.",
+      "themes": [
+        "science",
+        "robotics",
+        "entrepreneurship"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Grados de aumento K6",
+      "language": "La lengua de la plataforma en particular y la posibilidad de la participación de la familia invitada para aclarar. la descripción en inglés no sustituye la respuesta del operador.",
+      "confirmed_instruction_languages": [],
+      "programme": "Gear Up 2027: los mecanismos de un robot de fábrica desmontado, un gadget que se ilumina, una construcción de altura ecológica con elevador de motor, el invento y la presentación final. Es un programa maker/STEM, no una liga de robotica de temporada.",
+      "timing": {
+        "status": "partial_2027",
+        "label": "El programa 2027 ya ha sido publicado; las fechas dependen de la plataforma local elegida.",
+        "sessions": []
+      },
+      "price": {
+        "year": 2027,
+        "label": "de USD 290; precio exacto y duración por local camp.",
+        "included": "el conjunto y el horario  por la plaza.",
+        "extras": "la alimentación/el día prolongado.",
+        "deposit": "Se puede consultar el plan de pago, las condiciones y la cancelación por el campo local."
+      },
+      "accommodation": "No hay un alojamiento en este programa.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "No sólo la edad, sino el grado ascendente K6."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Es adecuado para el Kindergarten/Grade1 ascendente y para el cumplimiento de las reglas del patio."
+        }
+      },
+      "editorial_reason": "uno de los primeros candidatos de ingeniería general disponibles para ambos; más fuerte en inventiva que en entrenamiento competitivo.",
+      "shortlist": [
+        "technical",
+        "both",
+        "general"
+      ],
+      "questions": [
+        "encontrar un determinado camp 2027, para comprobar EN, permiso de no residente, el reloj y el precio."
+      ],
+      "sources": [
+        {
+          "title": "Gear Up 2027",
+          "url": "https://www.invent.org/programs/camp-invention",
+          "checked": "2026-10-04"
+        }
+      ],
+      "checked": "2026-10-04"
+    },
+    "CP036": {
+      "id": "CP036",
+      "slug": "space-camp",
+      "provider": "U.S. Space & Rocket Center · Space Camp",
+      "country": "Estados Unidos",
+      "iso": "USA",
+      "place": "Huntsville / Alabama",
+      "themes": [
+        "science",
+        "general"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "el menor Space Camp 9–11; en el 9 años necesita corriente/finalizado Grade 4",
+      "language": "La FAQ de semana en curso permite a los niños extranjeros y requiere un fluido de conversación en inglés; documentos de entrada válidos por separado.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "simuladores espaciales, modelo de cohete, ingeniería de la colonia marciana y misiones de equipo.",
+      "timing": {
+        "status": "published_2027",
+        "label": "2027: 14–19.03 y las semanas de verano 30.05–03.09. cada semana real elegir en el calendario oficial.",
+        "sessions": [
+          [
+            "2027-03-14",
+            "2027-03-19"
+          ],
+          [
+            "2027-05-30",
+            "2027-06-04"
+          ],
+          [
+            "2027-06-06",
+            "2027-06-11"
+          ],
+          [
+            "2027-06-13",
+            "2027-06-18"
+          ],
+          [
+            "2027-06-20",
+            "2027-06-25"
+          ],
+          [
+            "2027-06-27",
+            "2027-07-02"
+          ],
+          [
+            "2027-07-04",
+            "2027-07-09"
+          ],
+          [
+            "2027-07-11",
+            "2027-07-16"
+          ],
+          [
+            "2027-07-18",
+            "2027-07-23"
+          ],
+          [
+            "2027-07-25",
+            "2027-07-30"
+          ],
+          [
+            "2027-08-01",
+            "2027-08-06"
+          ],
+          [
+            "2027-08-08",
+            "2027-08-13"
+          ],
+          [
+            "2027-08-15",
+            "2027-08-20"
+          ],
+          [
+            "2027-08-22",
+            "2027-08-27"
+          ],
+          [
+            "2027-08-29",
+            "2027-09-03"
+          ]
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "label": "No se establece el precio completo de la semana de Space Camp que se ha elegido en la página que se lee.",
+        "included": "el paquete de alojamiento/alimento.",
+        "extras": "Airport HSV round-trip USD120; extra arrival/departure day por USD150 si es necesario una matrícula aérea; seguro/gastuos personales por separado.",
+        "deposit": "FAQ: al cancelar con8+ semanas de antelación, devolución del90% de la matrícula pagada menos USD100 de inscripción no reembolsable; confirmar cancelaciones tardías y calendario de pago. Un cambio gratuito; después USD25; solicitarlo al menos2 semanas antes."
+      },
+      "accommodation": "Pensión de 6 días del centro; condiciones de habitaciones/roommate comprobar.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "La edad es adecuada; si aún tienes 9 años, comprueba el requisito de la 4a clase."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "más joven 9 años."
+        }
+      },
+      "editorial_reason": "un programa espacial temático fuerte para Matvey; la edad y el nivel escolar son iguales.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Obtenga el precio de la semana, las reglas de Grado 4, EN y el presupuesto completo de la transferencia."
+      ],
+      "sources": [
+        {
+          "title": "Space Camp 2027",
+          "url": "https://rocketcenter.com/spacecamp/space-camp/",
+          "checked": "2026-10-04"
+        },
+        {
+          "title": "semana de actualidad FAQ: extranjeros / fluent EN / transfer / devolución",
+          "url": "https://rocketcenter.com/Help/FAQ/camps/weeklong/",
+          "checked": "2026-10-04"
+        }
+      ],
+      "checked": "2026-10-04"
+    },
+    "CP037": {
+      "id": "CP037",
+      "slug": "space-robotics",
+      "provider": "U.S. Space & Rocket Center · Robotics",
+      "country": "Estados Unidos",
+      "iso": "USA",
+      "place": "Huntsville / Alabama",
+      "themes": [
+        "robotics",
+        "coding",
+        "science"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "9–11; en el 9 años se requiere actual o completado Grade 4",
+      "language": "La FAQ de semana en curso permite a los niños extranjeros y requiere un fluido de conversación en inglés; documentos de entrada válidos por separado.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "VEX Robotics: ingeniería, programación y control wireless; land-robot en Challenge Table. LED flashlight de series circuit, robot submarino, simulación de vuelos de drones RealFlight. 6 días / 5 noches, domingo viernes; concurso final de entrenamiento, no título de la liga mundial.",
+      "timing": {
+        "status": "published_2027",
+        "label": "2027: Las carreras semanales 30.05–20.08; publicados 12 una semana, el domingo–el viernes.",
+        "sessions": [
+          [
+            "2027-05-30",
+            "2027-06-04"
+          ],
+          [
+            "2027-06-06",
+            "2027-06-11"
+          ],
+          [
+            "2027-06-13",
+            "2027-06-18"
+          ],
+          [
+            "2027-06-20",
+            "2027-06-25"
+          ],
+          [
+            "2027-06-27",
+            "2027-07-02"
+          ],
+          [
+            "2027-07-04",
+            "2027-07-09"
+          ],
+          [
+            "2027-07-11",
+            "2027-07-16"
+          ],
+          [
+            "2027-07-18",
+            "2027-07-23"
+          ],
+          [
+            "2027-07-25",
+            "2027-07-30"
+          ],
+          [
+            "2027-08-01",
+            "2027-08-06"
+          ],
+          [
+            "2027-08-08",
+            "2027-08-13"
+          ],
+          [
+            "2027-08-15",
+            "2027-08-20"
+          ]
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "label": "USD 1 799 se indica en el catálogo oficial actual junto al cambio más próximo 2027; comprobar la semana seleccionada.",
+        "included": "el paquete de alojamiento/alimento y el equipo confirmen por registro.",
+        "extras": "Airport HSV round-trip USD120; extra arrival/departure day por USD150 si es necesario una matrícula aérea; seguro/gastuos personales por separado.",
+        "deposit": "FAQ: al cancelar con8+ semanas de antelación, devolución del90% de la matrícula pagada menos USD100 de inscripción no reembolsable; confirmar cancelaciones tardías y calendario de pago. Un cambio gratuito; después USD25; solicitarlo al menos2 semanas antes."
+      },
+      "accommodation": "una semana de pensión en el centro.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "9–11 Es muy bueno., Pero si aún 9 en el acceso — Se requiere un/finalizado Grade 4. No se conoce la clase exacta.."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No se puede acceder hasta los 9 años."
+        }
+      },
+      "editorial_reason": "El primer candidato de la semana en la pensión de Estados Unidos es Matvey Robotics:",
+      "shortlist": [
+        "technical",
+        "boarding"
+      ],
+      "questions": [
+        "Confirmar el paquete, el resultado de la toma a casa, el grado 4, el idioma y el precio final."
+      ],
+      "sources": [
+        {
+          "title": "Robotics 2027",
+          "url": "https://rocketcenter.com/robotics/",
+          "checked": "2026-10-04"
+        },
+        {
+          "title": "edad y precio",
+          "url": "https://rocketcenter.com/SpaceCamp?field_age_group_target_id=All&field_space_camp_program_categor_target_id=2062",
+          "checked": "2026-10-04"
+        },
+        {
+          "title": "semana de actualidad FAQ: extranjeros / fluent EN / transfer / devolución",
+          "url": "https://rocketcenter.com/Help/FAQ/camps/weeklong/",
+          "checked": "2026-10-04"
+        }
+      ],
+      "checked": "2026-10-04"
+    },
+    "CP038": {
+      "id": "CP038",
+      "slug": "family-aviation",
+      "provider": "U.S. Space & Rocket Center · Family Aviation",
+      "country": "Estados Unidos",
+      "iso": "USA",
+      "place": "Huntsville / Alabama",
+      "themes": [
+        "science",
+        "general"
+      ],
+      "formats": [
+        "family"
+      ],
+      "age": "niños 7–18 con al menos un adulto pagador",
+      "language": "el idioma y el volumen de traducción no están confirmados; el programa de inglés debe ser acordado.",
+      "confirmed_instruction_languages": [],
+      "programme": "3 días / 2 noches: simulador F-18, bases de supervivencia, actividades acuáticas/de equipo y exhibiciones de aviación. es un programa familiar conjunto; pensión infantil independiente  otro producto.",
+      "timing": {
+        "status": "published_2027",
+        "label": "2027: 11–13.06; 30.07–01.08; 27–29.08.",
+        "sessions": [
+          [
+            "2027-06-11",
+            "2027-06-13"
+          ],
+          [
+            "2027-07-30",
+            "2027-08-01"
+          ],
+          [
+            "2027-08-27",
+            "2027-08-29"
+          ]
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "label": "No hay un precio familiar completo en la página que se lee.",
+        "included": "Noches de viernes/sábado, comida de viernes a domingo.",
+        "extras": "Tener en cuenta a cada adulto que pague y el camino hacia el centro.",
+        "deposit": "pago y cancelación  por la composición de la familia/acuerdo."
+      },
+      "accommodation": "No. No. No. No. No. No.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "7+ es ideal para los padres."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "después de cumplir 7 años; antes de eso, no se ha cumplido el mínimo."
+        }
+      },
+      "editorial_reason": "Candidato a la primera experiencia conjunta de noche y viaje STEM cuando Oscar cumpla 7 años.",
+      "shortlist": [
+        "general",
+        "both"
+      ],
+      "questions": [
+        "confirmar el costo para dos niños y adultos, el número de entrada, la habitación y el horario."
+      ],
+      "sources": [
+        {
+          "title": "Family Aviation 2027",
+          "url": "https://rocketcenter.com/SpaceCamp/Family",
+          "checked": "2026-10-04"
+        }
+      ],
+      "checked": "2026-10-04"
+    },
+    "CP039": {
+      "id": "CP039",
+      "slug": "ilsc-ubc",
+      "provider": "ILSC Junior · UBC Residence",
+      "country": "Canadá",
+      "iso": "CAN",
+      "place": "Vancouver / UBC Totem Park",
+      "themes": [
+        "general",
+        "languages",
+        "sport"
+      ],
+      "formats": [
+        "day",
+        "boarding"
+      ],
+      "age": "9–17",
+      "language": "15 horas / 17 clases de inglés a la semana; campamento y viajes comunes.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "El programa ILSC en el territorio de la UBC: ILSC indica directamente que la universidad no lo gestiona ni lo endosa.",
+      "timing": {
+        "status": "published_2027",
+        "label": "2027: 27.06–08.08, weekly starts 27.06, 04/11/18/25.07, 01.08; 1–6 una semana.",
+        "sessions": [
+          [
+            "2027-06-27",
+            "2027-08-08"
+          ]
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "label": "El precio de la duración y el día/board del paquete no se confirmó.",
+        "included": "paquete de pensión: tres comidas; día-sólo almuerzo/ Cena, sin desayuno/vivencia/ transferencia aeroportuaria.",
+        "extras": "Lavar la ropa CAD 2.50/load; comprobar la inscripción, el seguro, el traslado.",
+        "deposit": "Las condiciones de cancelación y pago requieren una verificación."
+      },
+      "accommodation": "UBC Totem Park, single/shared room, sants comunes; se declaró aproximadamente 1 baño por 6 estudiantes.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "9 a 10 es muy bueno."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No se puede acceder hasta los 9 años."
+        }
+      },
+      "editorial_reason": "La primera pensión general de inglés canadiense candidata Matvey con fechas publicadas de 2027.",
+      "shortlist": [
+        "general",
+        "boarding"
+      ],
+      "questions": [
+        "obtener el precio completo/room type/transfer; no ser considerado una academia selectiva de la universidad."
+      ],
+      "sources": [
+        {
+          "title": "UBC Junior 2027",
+          "url": "https://www.ilsc.com/language-schools/programs/junior/residences/ubc",
+          "checked": "2026-10-04"
+        }
+      ],
+      "checked": "2026-10-04"
+    },
+    "CP079": {
+      "id": "CP079",
+      "slug": "bricklabs-robotics",
+      "provider": "Brick Labs · Robotics",
+      "country": "Canadá",
+      "iso": "CAN",
+      "place": "Rosseau Lake College / Muskoka",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "9–13 en el 01.06.2027; 8/14 con excepción escrita",
+      "language": "La EN de enseñanza/vida de campamento no está directamente fijada en las fuentes leídas; confirme en el operador.",
+      "confirmed_instruction_languages": [],
+      "programme": "Intermediate/advanced LEGO: construir y programar robots de rescate en julio, resolver los Challenge Series diarios en agosto. FLL-type tareas  Curricular, no selectivo FLL.",
+      "timing": {
+        "status": "published_2027",
+        "label": "2027: 25–30.07 y 15–20.08; Sunday–Friday.",
+        "sessions": [
+          [
+            "2027-07-25",
+            "2027-07-30"
+          ],
+          [
+            "2027-08-15",
+            "2027-08-20"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-07-25",
+            "end": "2027-07-30",
+            "label": "Respuesta a los desastres naturales",
+            "price": "$1 650 / semana · confirma la moneda",
+            "place": "Rosseau Lake College / Muskoka",
+            "source": "https://bricklabs.ca/over-night-camp-2026/",
+            "formats": [
+              "boarding"
+            ],
+            "proof": "El cuerpo de la página oficial  2027, aunque la URL contiene 2026."
+          },
+          {
+            "start": "2027-08-15",
+            "end": "2027-08-20",
+            "label": "Serie de desafíos",
+            "price": "$1 650 / semana · confirma la moneda",
+            "place": "Rosseau Lake College / Muskoka",
+            "source": "https://bricklabs.ca/over-night-camp-2026/",
+            "formats": [
+              "boarding"
+            ],
+            "proof": "El cuerpo de la página oficial  2027, aunque la URL contiene 2026."
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "label": "$1 650 / el niño / la semana; la moneda del cuento final se confirme.",
+        "included": "Coach de North York, pensión, comidas/snacks, materiales y actividades básicas.",
+        "extras": "el vuelo/el camino hasta North York, seguro por separado. Day visit $150/No hay prueba de otro día de edad menor.",
+        "deposit": "Deposit $650 se incluye en $1 650; el resto $1 000 hasta 01.03.2027. hasta 31.12.2026 el retorno completo; 01.01–28.02 50%; de la 01.03 No , no .. las fechas límite de especificar."
+      },
+      "accommodation": "de las habitaciones 2–3 el niño, bedding; de los empleados Brick Labs/RLC. el viaje de North York, no residencia en Toronto.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "2017 corresponde 9–13 en el 01.06.2027; Necesitamos un nivel de pista, EN y la preparación para el pensión."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "en el 2027 Sólo que 6–7, el mínimo estándar 9; la excepción se describe sólo para 8/14."
+        }
+      },
+      "editorial_reason": "2027 en particular, el alojamiento para Matvey; los paquetes técnicos y creativos están divididos.",
+      "shortlist": [
+        "technical",
+        "boarding"
+      ],
+      "questions": [
+        "confirmar el EN, la moneda/impuestos, el seguro, el nivel y el lugar; la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "title": "2027: edad para el 1 de junio, cuatro pistas, tarifa, coach y cancelación",
+          "url": "https://bricklabs.ca/over-night-camp-2026/",
+          "checked": "2026-10-04"
+        }
+      ],
+      "checked": "2026-10-04"
+    },
+    "CP080": {
+      "id": "CP080",
+      "slug": "bricklabs-creative",
+      "provider": "Brick Labs · Creative Builders",
+      "country": "Canadá",
+      "iso": "CAN",
+      "place": "Rosseau Lake College / Muskoka",
+      "themes": [
+        "general",
+        "science"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "9–13 en el 01.06.2027; 8/14 con excepción escrita",
+      "language": "La EN de enseñanza/vida de campamento no está directamente fijada en las fuentes leídas; confirme en el operador.",
+      "confirmed_instruction_languages": [],
+      "programme": "Diseño creativo: Inspired by Muskoka en julio, Macro Scale Characters en agosto; actividades al aire libre.",
+      "timing": {
+        "status": "published_2027",
+        "label": "2027: 25–30.07 y 15–20.08; Sunday–Friday.",
+        "sessions": [
+          [
+            "2027-07-25",
+            "2027-07-30"
+          ],
+          [
+            "2027-08-15",
+            "2027-08-20"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-07-25",
+            "end": "2027-07-30",
+            "label": "Constructor de pantallas · Inspirado por Muskoka",
+            "price": "$1 650 / semana · confirma la moneda",
+            "place": "Rosseau Lake College / Muskoka",
+            "source": "https://bricklabs.ca/over-night-camp-2026/",
+            "formats": [
+              "boarding"
+            ],
+            "proof": "El cuerpo de la página oficial  2027, aunque la URL contiene 2026."
+          },
+          {
+            "start": "2027-08-15",
+            "end": "2027-08-20",
+            "label": "Personajes de la escala macro",
+            "price": "$1 650 / semana · confirma la moneda",
+            "place": "Rosseau Lake College / Muskoka",
+            "source": "https://bricklabs.ca/over-night-camp-2026/",
+            "formats": [
+              "boarding"
+            ],
+            "proof": "El cuerpo de la página oficial  2027, aunque la URL contiene 2026."
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "label": "$1 650 / el niño / la semana; la moneda del cuento final se confirme.",
+        "included": "Coach de North York, pensión, comidas/snacks, materiales y actividades básicas.",
+        "extras": "el vuelo/el camino hasta North York, seguro por separado. Day visit $150/No hay prueba de otro día de edad menor.",
+        "deposit": "Deposit $650 se incluye en $1 650; el resto $1 000 hasta 01.03.2027. hasta 31.12.2026 el retorno completo; 01.01–28.02 50%; de la 01.03 No , no .. las fechas límite de especificar."
+      },
+      "accommodation": "de las habitaciones 2–3 el niño, bedding; de los empleados Brick Labs/RLC. el viaje de North York, no residencia en Toronto.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "2017 corresponde 9–13 en el 01.06.2027; Necesitamos un nivel de pista, EN y la preparación para el pensión."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "en el 2027 Sólo que 6–7, el mínimo estándar 9; la excepción se describe sólo para 8/14."
+        }
+      },
+      "editorial_reason": "2027 en particular, el alojamiento para Matvey; los paquetes técnicos y creativos están divididos.",
+      "shortlist": [
+        "general",
+        "boarding"
+      ],
+      "questions": [
+        "confirmar el EN, la moneda/impuestos, el seguro, el nivel y el lugar; la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "title": "2027: edad para el 1 de junio, cuatro pistas, tarifa, coach y cancelación",
+          "url": "https://bricklabs.ca/over-night-camp-2026/",
+          "checked": "2026-10-04"
+        }
+      ],
+      "checked": "2026-10-04"
+    },
+    "CP081": {
+      "id": "CP081",
+      "slug": "next-robotics",
+      "provider": "Next Robotics · IQ Summer Camp",
+      "country": "Canadá",
+      "iso": "CAN",
+      "place": "4114 MacLeod Trail SE / Calgary",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Grades 3–6 en septiembre 2027; La edad en años no sustituye a la clase",
+      "language": "La EN de enseñanza/vida de campamento no está directamente fijada en las fuentes leídas; confirme en el operador.",
+      "confirmed_instruction_languages": [],
+      "programme": "el primer VEX IQ: la montaje, programación, gestión y trabajo en grupo. 09–16. equipo de clubes — otro formato anual Grades 4–7, con experiencia/por selección; El campamento de una semana no garantiza su lugar..",
+      "timing": {
+        "status": "published_2027",
+        "label": "2027: 05–09.07, 19–23.07, 26–30.07.",
+        "sessions": [
+          [
+            "2027-07-05",
+            "2027-07-09"
+          ],
+          [
+            "2027-07-19",
+            "2027-07-23"
+          ],
+          [
+            "2027-07-26",
+            "2027-07-30"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-07-05",
+            "end": "2027-07-09",
+            "label": "Inteligencia intelectual · Grados 3–6",
+            "price": "$315 con GST + 2% de tarjeta",
+            "place": "4114 MacLeod Trail SE / Calgary",
+            "source": "https://www.nextrobotics.ca/programs-1",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "day_camp_window",
+            "proof": "No se introducía información del niño; no se envió la solicitud."
+          },
+          {
+            "start": "2027-07-19",
+            "end": "2027-07-23",
+            "label": "Inteligencia intelectual · Grados 3–6",
+            "price": "$315 con GST + 2% de tarjeta",
+            "place": "4114 MacLeod Trail SE / Calgary",
+            "source": "https://www.nextrobotics.ca/programs-1",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "day_camp_window",
+            "proof": "No se introducía información del niño; no se envió la solicitud."
+          },
+          {
+            "start": "2027-07-26",
+            "end": "2027-07-30",
+            "label": "Inteligencia intelectual · Grados 3–6",
+            "price": "$315 con GST + 2% de tarjeta",
+            "place": "4114 MacLeod Trail SE / Calgary",
+            "source": "https://www.nextrobotics.ca/programs-1",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "day_camp_window",
+            "proof": "No se introducía información del niño; no se envió la solicitud."
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "label": "Community special: $315 ($300 + GST) por semana; el precio puede cambiar.",
+        "included": "El club ofrece un conjunto de clases.",
+        "extras": "Card processing +2%; alimentación/aseguro aclarar, vivienda de los padres y camino por separado.",
+        "deposit": "Pagamiento al momento del checkout. FAQ: no hay devolución después de la inscripción; crédito solo por decisión individual."
+      },
+      "accommodation": "No es hora de trabajar durante el día, es necesario tener una casa de familia en Calgary.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "sólo es adecuado cuando Grade 3–6 en el Sep 2027; no se conoce el curso actual."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Necesitamos Grade 3–6 en el Sep 2027; edad 6–7 no confirma el permiso por sí mismo."
+        }
+      },
+      "editorial_reason": "Un candidato VEX de inicio práctico con un itinerario por separado para el equipo de temporada.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Confirmar el nivel de clase, la norma EN, la moneda, la comida, el pago total y la disponibilidad de plazas."
+      ],
+      "sources": [
+        {
+          "title": "tres semanas exactas / clase / horario",
+          "url": "https://www.nextrobotics.ca/programs-1",
+          "checked": "2026-10-04"
+        },
+        {
+          "title": "paquete abierto 2027: GST , card fee y precio",
+          "url": "https://robotics.dreamclass.io/pages/admissions-v2/form/AUZGae",
+          "checked": "2026-10-04"
+        },
+        {
+          "title": "conjunto / comando / cancelación",
+          "url": "https://www.nextrobotics.ca/faq",
+          "checked": "2026-10-04"
+        }
+      ],
+      "checked": "2026-10-04"
+    },
+    "CP084": {
+      "id": "CP084",
+      "slug": "arowhon-regular",
+      "provider": "Camp Arowhon · Regular Sessions",
+      "country": "Canadá",
+      "iso": "CAN",
+      "place": "Algonquin Park / Ontario",
+      "themes": [
+        "general",
+        "sport"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "2 las semanas: finalizadas Grades1–5; las primeras entradas también Grades6–7. meses llenos 7–15.",
+      "language": "La EN de enseñanza/vida de campamento no está directamente fijada en las fuentes leídas; confirme en el operador.",
+      "confirmed_instruction_languages": [],
+      "programme": "Outdoor, canoeing, deporte y creatividad; campamento común. de robotics/AI-track no se ha confirmado.",
+      "timing": {
+        "status": "published_2027",
+        "label": "2027: 01–14.07 /29.07–11.08 (2 las semanas); 01–27.07 /29.07–23.08; 01.07–11.08 /01.07–23.08. de largo 6/8-los paquetes semanales tienen un descanso obligatorio de dos noches fuera del campamento.",
+        "sessions": [
+          [
+            "2027-07-01",
+            "2027-07-14"
+          ],
+          [
+            "2027-07-29",
+            "2027-08-11"
+          ],
+          [
+            "2027-07-01",
+            "2027-07-27"
+          ],
+          [
+            "2027-07-29",
+            "2027-08-23"
+          ],
+          [
+            "2027-07-01",
+            "2027-08-11"
+          ],
+          [
+            "2027-07-01",
+            "2027-08-23"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-07-01",
+            "end": "2027-07-14",
+            "label": "Inicio · 2 semanas",
+            "price": "CAD5 200 +HST",
+            "place": "Algonquin Park / Ontario",
+            "source": "https://camparowhon.com/programs/rates-dates/",
+            "formats": [
+              "boarding"
+            ],
+            "proof": "de la misma 2027 límites del paquete. 6/8 Las semanas incluyen un descanso de dos noches fuera del campo 27–29.07; No es una pensión permanente.."
+          },
+          {
+            "start": "2027-07-29",
+            "end": "2027-08-11",
+            "label": "Inicio · 2 semanas",
+            "price": "CAD5 200 +HST",
+            "place": "Algonquin Park / Ontario",
+            "source": "https://camparowhon.com/programs/rates-dates/",
+            "formats": [
+              "boarding"
+            ],
+            "proof": "de la misma 2027 límites del paquete. 6/8 Las semanas incluyen un descanso de dos noches fuera del campo 27–29.07; No es una pensión permanente.."
+          },
+          {
+            "start": "2027-07-01",
+            "end": "2027-07-27",
+            "label": "Primera sesión",
+            "price": "CAD10 200 +HST",
+            "place": "Algonquin Park / Ontario",
+            "source": "https://camparowhon.com/programs/rates-dates/",
+            "formats": [
+              "boarding"
+            ],
+            "proof": "de la misma 2027 límites del paquete. 6/8 Las semanas incluyen un descanso de dos noches fuera del campo 27–29.07; No es una pensión permanente.."
+          },
+          {
+            "start": "2027-07-29",
+            "end": "2027-08-23",
+            "label": "Sección II",
+            "price": "CAD8 800 +HST",
+            "place": "Algonquin Park / Ontario",
+            "source": "https://camparowhon.com/programs/rates-dates/",
+            "formats": [
+              "boarding"
+            ],
+            "proof": "de la misma 2027 límites del paquete. 6/8 Las semanas incluyen un descanso de dos noches fuera del campo 27–29.07; No es una pensión permanente.."
+          },
+          {
+            "start": "2027-07-01",
+            "end": "2027-08-11",
+            "label": "6 semanas · un descanso de dos noches",
+            "price": "CAD13 800 +HST",
+            "place": "Algonquin Park / Ontario",
+            "source": "https://camparowhon.com/programs/rates-dates/",
+            "formats": [
+              "boarding"
+            ],
+            "proof": "de la misma 2027 límites del paquete. 6/8 Las semanas incluyen un descanso de dos noches fuera del campo 27–29.07; No es una pensión permanente..",
+            "date_scope": "programme_window_with_break"
+          },
+          {
+            "start": "2027-07-01",
+            "end": "2027-08-23",
+            "label": "Full Summer · un descanso de dos noches",
+            "price": "CAD14 750 +HST",
+            "place": "Algonquin Park / Ontario",
+            "source": "https://camparowhon.com/programs/rates-dates/",
+            "formats": [
+              "boarding"
+            ],
+            "proof": "de la misma 2027 límites del paquete. 6/8 Las semanas incluyen un descanso de dos noches fuera del campo 27–29.07; No es una pensión permanente..",
+            "date_scope": "programme_window_with_break"
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "label": "CAD5 200/2 semanas; CAD10 200/el primer mes; CAD8 800/el segundo; CAD13 800/6 semanas; CAD14 750/todo el verano. +HST.",
+        "included": "programa, lavandería, comida y pensión.",
+        "extras": "Toronto/Pearson bus CAD175/dirección; changeover CAD95/dirección. Optional kit CAD200; medical insurance obligatorio, camp option CAD200.",
+        "deposit": "CAD1 000 por adelantado a la cuenta del paquete. cancelación: hasta Dec1 CAD300; Dec1Feb1 CAD500; Feb1May1 CAD1 000; después de May1 sin devolución."
+      },
+      "accommodation": "Cabin-el pensión. en el 6/8-week en el paquete 27–29.07 Los niños se van camp; Los padres organizan dos noches y el camino por separado.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Seleccionar la clase/tiempo de duración permitido y confirmar el EN, la navegación, la preparación para la noche."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Para 2 semanas, necesitas un Grade1 completado, para un mes completo, al menos 7."
+        }
+      },
+      "editorial_reason": "un pensión general canadiense con un valor publicado; un paquete largo requiere una pausa logística familiar.",
+      "shortlist": [
+        "general",
+        "boarding"
+      ],
+      "questions": [
+        "Confirmar el EN, la clase, el HST/toda la factura, el seguro y la logística de dos noches de paquete largo."
+      ],
+      "sources": [
+        {
+          "title": "2027 paquetes / HST / transfer / changeover / cancelación",
+          "url": "https://camparowhon.com/programs/rates-dates/",
+          "checked": "2026-10-04"
+        },
+        {
+          "title": "vida en el campo y la admisión",
+          "url": "https://camparowhon.com/ourteam/faq/",
+          "checked": "2026-10-04"
+        }
+      ],
+      "checked": "2026-10-04"
+    },
+    "CP085": {
+      "id": "CP085",
+      "slug": "arowhon-mini",
+      "provider": "Camp Arowhon · Mini Camp",
+      "country": "Canadá",
+      "iso": "CAN",
+      "place": "Algonquin Park / Ontario",
+      "themes": [
+        "general",
+        "sport"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "6–9; finalizadas SK–Grade 3. SEO title 6–11 no sustituye la regla principal 6–9.",
+      "language": "La EN de enseñanza/vida de campamento no está directamente fijada en las fuentes leídas; confirme en el operador.",
+      "confirmed_instruction_languages": [],
+      "programme": "un breve conocimiento del alojamiento al aire libre: canoe, water activities, climbing/crafts y cabin life con counsellors.",
+      "timing": {
+        "status": "published_2027",
+        "label": "13–16.08.2027, 3 de noche.",
+        "sessions": [
+          [
+            "2027-08-13",
+            "2027-08-16"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-08-13",
+            "end": "2027-08-16",
+            "label": "Mini 3 noches / 4 días",
+            "price": "CAD700 · el resultado fiscal se confirma",
+            "place": "Algonquin Park / Ontario",
+            "source": "https://camparowhon.com/programs/mini-camp/",
+            "formats": [
+              "boarding"
+            ],
+            "proof": "Mini-programa oficial; bus100 en cada lado y condiciones de cancelación separadas."
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "label": "CAD700 / Mini Camp; el resultado fiscal se confirma.",
+        "included": "camp stay corto; el acceso detallado a la alimentación/materiales debe ser confirmado.",
+        "extras": "Mini bus CAD100/dirección  Tarifa diferente a la del bus regular; asegúrese por separado.",
+        "deposit": "No se requiere un depósito para el Mini."
+      },
+      "accommodation": "cabinas de madera, consejeros con niños; ducha cerca.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Sólo si hay 9 más para la carrera o se obtiene una excepción por escrito; después de 10, el Mini estándar no es adecuado."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Edad6–7 corresponde, pero necesitamos un trabajo terminado. SK–Grade 3, EN y estar preparados para las tres noches.."
+        }
+      },
+      "editorial_reason": "La primera pequeña casa de alojamiento independiente para Oscar; para la carrera conjunta de comprobar la frontera superior de Matvey.",
+      "shortlist": [
+        "general",
+        "boarding"
+      ],
+      "questions": [
+        "Confirmar el EN, los cumpleaños/classes, la HST, la alimentación, el seguro y la cancelación de Mini por separado."
+      ],
+      "sources": [
+        {
+          "title": "Mini: de hecho6–9, clase, bus y cabins",
+          "url": "https://camparowhon.com/programs/mini-camp/",
+          "checked": "2026-10-04"
+        },
+        {
+          "title": "2027 fecha / precio; exclusión de Mini de regular cancellation",
+          "url": "https://camparowhon.com/programs/rates-dates/",
+          "checked": "2026-10-04"
+        }
+      ],
+      "checked": "2026-10-04"
+    },
+    "CP086": {
+      "id": "CP086",
+      "slug": "catalina-sea-junior",
+      "provider": "Catalina Sea Camp · One Week",
+      "country": "Estados Unidos",
+      "iso": "USA",
+      "place": "Catalina Island / California · salida de Long Beach",
+      "themes": [
+        "science",
+        "general",
+        "sport"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "8–13; de los diferentes 18-paquetes diarios12–17 No es esta pista.",
+      "language": "La EN de enseñanza/vida de campamento no está directamente fijada en las fuentes leídas; confirme en el operador.",
+      "confirmed_instruction_languages": [],
+      "programme": "laboratorios de ciencia marina, snorkeling, barcos, naturaleza y aventura. El título de buceo no está garantizado por un programa de una semana menor; no es un campo de robótica.",
+      "timing": {
+        "status": "published_2027",
+        "label": "2027: 12–18.06, 19–25.06, 26.06–02.07.",
+        "sessions": [
+          [
+            "2027-06-12",
+            "2027-06-18"
+          ],
+          [
+            "2027-06-19",
+            "2027-06-25"
+          ],
+          [
+            "2027-06-26",
+            "2027-07-02"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-06-12",
+            "end": "2027-06-18",
+            "label": "One Week · edades8–13",
+            "price": "USD3 750 / 7 días",
+            "place": "Catalina Island / California · salida de Long Beach",
+            "source": "https://catalinaseacamp.org/dates-rates/",
+            "formats": [
+              "boarding"
+            ],
+            "proof": "semana menor exacta2027; el descuento/posición es variable, el final venue y el paquete completo por separado."
+          },
+          {
+            "start": "2027-06-19",
+            "end": "2027-06-25",
+            "label": "One Week · edades8–13",
+            "price": "USD3 750 / 7 días",
+            "place": "Catalina Island / California · salida de Long Beach",
+            "source": "https://catalinaseacamp.org/dates-rates/",
+            "formats": [
+              "boarding"
+            ],
+            "proof": "semana menor exacta2027; el descuento/posición es variable, el final venue y el paquete completo por separado."
+          },
+          {
+            "start": "2027-06-26",
+            "end": "2027-07-02",
+            "label": "One Week · edades8–13",
+            "price": "USD3 750 / 7 días",
+            "place": "Catalina Island / California · salida de Long Beach",
+            "source": "https://catalinaseacamp.org/dates-rates/",
+            "formats": [
+              "boarding"
+            ],
+            "proof": "semana menor exacta2027; el descuento/posición es variable, el final venue y el paquete completo por separado."
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "label": "USD3 750 / 7 días; el descuento de USD300 hasta el 31.10.2026 requiere una verificación al registrarse.",
+        "included": "programa con horario de alojamiento y horario de comida; incluye exactamente el barco/equipamiento en la factura.",
+        "extras": "Buscar el transporte por carretera/aeropuerto, el seguro, las electives y los suplementos.",
+        "deposit": "USD300 el anticipo no reembolsable se incluye en tuition; pago completo hasta el 1 mayo. hasta 1 febrero se retendrán adicionalmente100, Feb1–Apr30 200; May1–14 25%, May15–31 50%, después de 1 de junio 100%. base de combinación de retenciones para especificar."
+      },
+      "accommodation": "Dorm-style housing; main page indica Toyon Bay, modelo de horario de llegada de Fox Landing  la zona exacta de la semana confirmar.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Edad8–13 Es muy bueno.; ¿Qué es lo que se necesita? EN, readiness y las reglas de las actividades acuáticas."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "en 2027 a los 8 menores."
+        }
+      },
+      "editorial_reason": "el mantenimiento de la ciencia marina de Matvey; otro operador que Catalina Island Camps.",
+      "shortlist": [
+        "general",
+        "boarding"
+      ],
+      "questions": [
+        "Confirmar el EN, la bahía específica, las tarifas de barco/equipamiento, el permiso de agua, el seguro y la factura final."
+      ],
+      "sources": [
+        {
+          "title": "2027: semanas exactas / precio / pago / cancelación",
+          "url": "https://catalinaseacamp.org/dates-rates/",
+          "checked": "2026-10-04"
+        },
+        {
+          "title": "Junior marine science / alojamiento / horario",
+          "url": "https://catalinaseacamp.org/programs/1-week-programs/",
+          "checked": "2026-10-04"
+        },
+        {
+          "title": "FAQ / organización",
+          "url": "https://catalinaseacamp.org/catalina-island-faqs/",
+          "checked": "2026-10-04"
+        }
+      ],
+      "checked": "2026-10-04"
+    },
+    "CP142": {
+      "id": "CP142",
+      "slug": "astrocamp-junior",
+      "provider": "AstroCamp · One-Week Discovery",
+      "country": "Estados Unidos",
+      "iso": "USA",
+      "place": "Idyllwild, California · 26800 Saunders Meadow Rd",
+      "themes": [
+        "general",
+        "science",
+        "sport"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "por lo menos 7. Rates/header: 7–13; la tarjeta At a Glance/Parent Guide: 7–12 — el límite superior se desvía.",
+      "language": "No hay ninguna afirmación directa sobre el inglés en todas las clases y la recepción de un niño extranjero en las preguntas frecuentes; el sitio web de inglés no es considerado como prueba.",
+      "confirmed_instruction_languages": [],
+      "programme": "7 días / 6 noches: ciencia y actividades STEM junto con el outdoors, la creatividad, la cocina y las actividades selectivas. El guía parental 2027 describe directamente STEM como parte del campamento general. no es un intenso robótico separado; los laboratorios escolares no se pueden prometer automáticamente a cada campista de verano.",
+      "timing": {
+        "status": "published_2027",
+        "label": "cambios no contradictorios 2027: 12–18 de junio, 19–25 de junio, 25–31 de julio. agosto: rates 1–7 de agosto, At a Glance 2–7 — el día de la llegada; el cambio controvertido no se ha añadido al calendario exacto. viejo astrocampsummer.org se queda en 2026/8+.",
+        "sessions": [
+          [
+            "2027-06-12",
+            "2027-06-18"
+          ],
+          [
+            "2027-06-19",
+            "2027-06-25"
+          ],
+          [
+            "2027-07-25",
+            "2027-07-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-06-12",
+            "end": "2027-06-18",
+            "label": "Junior · 7 días / 6 noches",
+            "price": "USD 2 900",
+            "place": "Idyllwild, California · 26800 Saunders Meadow Rd",
+            "source": "https://astrocamp.org/camp-dates-rates/",
+            "formats": [
+              "boarding"
+            ]
+          },
+          {
+            "start": "2027-06-19",
+            "end": "2027-06-25",
+            "label": "Junior · 7 días / 6 noches",
+            "price": "USD 2 900",
+            "place": "Idyllwild, California · 26800 Saunders Meadow Rd",
+            "source": "https://astrocamp.org/camp-dates-rates/",
+            "formats": [
+              "boarding"
+            ]
+          },
+          {
+            "start": "2027-07-25",
+            "end": "2027-07-31",
+            "label": "Junior · 7 días / 6 noches",
+            "price": "USD 2 900",
+            "place": "Idyllwild, California · 26800 Saunders Meadow Rd",
+            "source": "https://astrocamp.org/camp-dates-rates/",
+            "formats": [
+              "boarding"
+            ]
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "label": "USD 2 900 / semana; a las tarifas de descuento USD 250 hasta el 31 de octubre. la aplicación a la solicitud seleccionada confirme.",
+        "included": "alojamiento, alimentación, actividades y equipos básicos; Junior FAQ no declara cargos de programa obligatorios adicionales.",
+        "extras": "vuelo, seguro y transferencia ONT USD 60 a cada lado sin indicar el año de viaje-page; el resultado 2027 se confirma.",
+        "deposit": "USD 300 un anticipo no reembolsable a la cuenta del precio; balance May 1. hasta Feb 1 ¿Qué más ? USD 100 cancellation fee, Feb–Apr USD 200; May 1–14 retenerse 25%, May 15–31 50%, después de June 1 100%. el operador permite una sobretaja regulada hasta el USD 150 con la posibilidad de rechazar. exclusión por separado financial aid no se aplica a la solicitud normal."
+      },
+      "accommodation": "la pensión; la preparación para las noches, la ropa de cama y el cuidado para comprobar en el paquete 2027.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "9–10 en el 2027: entra en las dos fronteras menores publicadas; El idioma y el permiso extranjero son necesarios.."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "sólo después de cumplir 7 años hasta el primer día; no se permite a los 6 años."
+        }
+      },
+      "editorial_reason": "una pensión científica y aventurera corta con fechas reales y un precio básico transparente; la admisión de ambos depende del día de nacimiento del menor.",
+      "shortlist": [
+        "general",
+        "boarding"
+      ],
+      "questions": [
+        "Confirmar el EN de las clases, la admisión internacional, el inicio exacto de agosto, la edad en la fecha y el paquete final de transfer/insurance."
+      ],
+      "sources": [
+        {
+          "title": "2027: cambios, tarifas, pago y cancelación",
+          "url": "https://astrocamp.org/camp-dates-rates/",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "Junior: inclusión y diferencia de fecha/edad",
+          "url": "https://astrocamp.org/camp-overview/one-week-sessions/",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "guía de los padres exactamente 2027",
+          "url": "https://astrocamp.org/parent-guide/",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "ONT transfer y las slots de vuelo permitidas",
+          "url": "https://astrocamp.org/travel/",
+          "checked": "2026-10-05"
+        }
+      ],
+      "checked": "2026-10-05"
+    },
+    "CP143": {
+      "id": "CP143",
+      "slug": "frenchwoods-regular",
+      "provider": "French Woods Festival · Performing Arts Boarding",
+      "country": "Estados Unidos",
+      "iso": "USA",
+      "place": "Hancock, New York · 199 Bouchoux Brook Rd",
+      "themes": [
+        "general",
+        "art",
+        "sport"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "7–17; las condiciones del programa under nine aclarar",
+      "language": "El inmersión en la lengua inglesa se describe claramente: la comunicación en las casas y las actividades seleccionadas durante todo el día con los hablantes nativos. Es un campo general/creativo, no clases de ESL o robótica de inglés.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "música, teatro, danza, circo, arte visual, deporte y otros electives. seis períodos: tres majors permanentes y tres minors diarios. el menú concreto cambia por turno.",
+      "timing": {
+        "status": "published_2027",
+        "label": "2027: cuatro de base 3-turnos semanales 6–27 de junio / 27 de junio–18 de julio / 18 de julio–8 de agosto / 8–29 de agosto; las combinaciones 6/9/12 la semana también se publicó.",
+        "sessions": [
+          [
+            "2027-06-06",
+            "2027-06-27"
+          ],
+          [
+            "2027-06-27",
+            "2027-07-18"
+          ],
+          [
+            "2027-07-18",
+            "2027-08-08"
+          ],
+          [
+            "2027-08-08",
+            "2027-08-29"
+          ],
+          [
+            "2027-06-06",
+            "2027-07-18"
+          ],
+          [
+            "2027-06-27",
+            "2027-08-08"
+          ],
+          [
+            "2027-07-18",
+            "2027-08-29"
+          ],
+          [
+            "2027-06-06",
+            "2027-08-08"
+          ],
+          [
+            "2027-06-27",
+            "2027-08-29"
+          ],
+          [
+            "2027-06-06",
+            "2027-08-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-06-06",
+            "end": "2027-06-27",
+            "label": "Sesión 1 · 3 semanas",
+            "price": "USD 6 700 / después de Dec 1 6 900",
+            "place": "Hancock, New York · 199 Bouchoux Brook Rd",
+            "source": "https://frenchwoods.com/dates-and-rates.htm",
+            "formats": [
+              "boarding"
+            ]
+          },
+          {
+            "start": "2027-06-27",
+            "end": "2027-07-18",
+            "label": "Sesión 2 · 3 semanas",
+            "price": "USD 8 000 / después de Dec 1 8 400",
+            "place": "Hancock, New York · 199 Bouchoux Brook Rd",
+            "source": "https://frenchwoods.com/dates-and-rates.htm",
+            "formats": [
+              "boarding"
+            ]
+          },
+          {
+            "start": "2027-07-18",
+            "end": "2027-08-08",
+            "label": "Sesión 3 · 3 semanas",
+            "price": "USD 8 800 / después de Dec 1 8 400 · confirmar",
+            "place": "Hancock, New York · 199 Bouchoux Brook Rd",
+            "source": "https://frenchwoods.com/dates-and-rates.htm",
+            "formats": [
+              "boarding"
+            ]
+          },
+          {
+            "start": "2027-08-08",
+            "end": "2027-08-29",
+            "label": "Sesión 4 · 3 semanas",
+            "price": "USD 6 700 / después de Dec 1 7 100",
+            "place": "Hancock, New York · 199 Bouchoux Brook Rd",
+            "source": "https://frenchwoods.com/dates-and-rates.htm",
+            "formats": [
+              "boarding"
+            ]
+          },
+          {
+            "start": "2027-06-06",
+            "end": "2027-07-18",
+            "label": "Sessions 1–2 · 6 una semana",
+            "price": "USD 11 800 / 12 000",
+            "place": "Hancock, New York · 199 Bouchoux Brook Rd",
+            "source": "https://frenchwoods.com/dates-and-rates.htm",
+            "formats": [
+              "boarding"
+            ]
+          },
+          {
+            "start": "2027-06-27",
+            "end": "2027-08-08",
+            "label": "Sessions 2–3 · 6 una semana",
+            "price": "USD 12 600 / 12 800",
+            "place": "Hancock, New York · 199 Bouchoux Brook Rd",
+            "source": "https://frenchwoods.com/dates-and-rates.htm",
+            "formats": [
+              "boarding"
+            ]
+          },
+          {
+            "start": "2027-07-18",
+            "end": "2027-08-29",
+            "label": "Sessions 3–4 · 6 una semana",
+            "price": "USD 11 800 / 12 000",
+            "place": "Hancock, New York · 199 Bouchoux Brook Rd",
+            "source": "https://frenchwoods.com/dates-and-rates.htm",
+            "formats": [
+              "boarding"
+            ]
+          },
+          {
+            "start": "2027-06-06",
+            "end": "2027-08-08",
+            "label": "Sessions 1–3 · 9 una semana",
+            "price": "USD 14 600 / 14 800",
+            "place": "Hancock, New York · 199 Bouchoux Brook Rd",
+            "source": "https://frenchwoods.com/dates-and-rates.htm",
+            "formats": [
+              "boarding"
+            ]
+          },
+          {
+            "start": "2027-06-27",
+            "end": "2027-08-29",
+            "label": "Sessions 2–4 · 9 una semana",
+            "price": "USD 14 600 / 14 800",
+            "place": "Hancock, New York · 199 Bouchoux Brook Rd",
+            "source": "https://frenchwoods.com/dates-and-rates.htm",
+            "formats": [
+              "boarding"
+            ]
+          },
+          {
+            "start": "2027-06-06",
+            "end": "2027-08-29",
+            "label": "Sessions 1–4 · 12 una semana",
+            "price": "USD 16 700 / 16 900",
+            "place": "Hancock, New York · 199 Bouchoux Brook Rd",
+            "source": "https://frenchwoods.com/dates-and-rates.htm",
+            "formats": [
+              "boarding"
+            ]
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "label": "3 semanas early USD 6 700 / 8 000 / 8 800 / 6 700. después de Dec 1: 6 900 / 8 400 / 8 400 / 7 100. Session 3 early superior late  la diferencia no se corrige con la adivinación.",
+        "included": "el programa de pensiones y las actividades seleccionadas; el conjunto completo concreto, las opciones de pago y las excepciones confirmar.",
+        "extras": "No se ha encontrado el precio confirmado del traslado; se proporciona a los niños internacionales ropa de cama/tobles y lavandería semanal.",
+        "deposit": "Early rate hasta Dec 1; el anticipo total USD 1 750 por niño. hasta Dec 1 2026 devolución menos 550, hasta Mar 1 2027 menos 800; devoluciones no se otorgan hasta May 1 2027."
+      },
+      "accommodation": "El camping de la casa de campo; los campistas extranjeros son aceptados directamente.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "9 a 10 años es adecuado; elegir un programa y estar listo para 3+ semanas."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "después de los 7 años; especificar las condiciones del programa de noches y de la noche."
+        }
+      },
+      "editorial_reason": "una pensión creativa general con una prueba directa de la vida campista inglesa y el equipo internacional.",
+      "shortlist": [
+        "general",
+        "boarding",
+        "both"
+      ],
+      "questions": [
+        "revisar el precio de la Sesión 3, las condiciones de la sub-nueva, la cuenta completa y el traslado/revocación; la disponibilidad de las majors concretas no se ha prometido."
+      ],
+      "sources": [
+        {
+          "title": "edad y composición internacional",
+          "url": "https://frenchwoods.com/",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "el cuadro exacto 2027",
+          "url": "https://frenchwoods.com/dates-and-rates.htm",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "EN- sumergimiento y campers extranjeros",
+          "url": "https://frenchwoods.com/international-campers.htm",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "Majors/minors y menú cambiante",
+          "url": "https://frenchwoods.com/program-french-woods.htm",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "transfer y EWR",
+          "url": "https://frenchwoods.com/transportation.htm",
+          "checked": "2026-10-05"
+        }
+      ],
+      "checked": "2026-10-05",
+      "language_evidence_role": "camp_life"
+    },
+    "CP144": {
+      "id": "CP144",
+      "slug": "frenchwoods-trial",
+      "provider": "French Woods Festival · One-Week Trial",
+      "country": "Estados Unidos",
+      "iso": "USA",
+      "place": "Hancock, New York · 199 Bouchoux Brook Rd",
+      "themes": [
+        "general",
+        "art",
+        "sport"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "el campo principal 7–17; semana de prueba para los nuevos campers; under nine de acuerdo",
+      "language": "El inmersión en la lengua inglesa se describe claramente: la comunicación en las casas y las actividades seleccionadas durante todo el día con los hablantes nativos. Es un campo general/creativo, no clases de ESL o robótica de inglés.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "La página de prueba también menciona a los que regresan, pero la tabla 2027 llama a Session 5 para los nuevos campers: eligibility confirm. la mayoría se va después del sábado; la tabla de tarifas termina el domingo.",
+      "timing": {
+        "status": "published_2027",
+        "label": "30 de agosto  5 de septiembre de 2027 por tarifas; el día de salida real al final de la semana de prueba se elija por separado.",
+        "sessions": [
+          [
+            "2027-08-30",
+            "2027-09-05"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-08-30",
+            "end": "2027-09-05",
+            "label": "Sesión 5 · nuevos campistas / Prueba",
+            "price": "USD 2 000 / después de Dec 1 2 400",
+            "place": "Hancock, New York · 199 Bouchoux Brook Rd",
+            "source": "https://frenchwoods.com/dates-and-rates.htm",
+            "formats": [
+              "boarding"
+            ]
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "label": "USD 2 000 early / USD 2 400 después del 1 de diciembre .",
+        "included": "programa de pensión de prueba; el contenido completo del precio debe ser confirmado.",
+        "extras": "No se ha encontrado el precio confirmado del traslado; se proporciona a los niños internacionales ropa de cama/tobles y lavandería semanal.",
+        "deposit": "la prueba sin especificar el año de la página dice USD 250 depósito, la tabla general 2027 USD 1 750: el adiantamiento / devolución de prueba aplicable aún no se sabe. no hacemos ambas contribuciones."
+      },
+      "accommodation": "1 semana de pensión; el formato corto no anula la edad mínima y el acuerdo de under-nine.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "9–10: candidato a la primera turna corta de trabajo."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "sólo después 7-años; permiso por escrito under nine y la preparación para las noches es necesaria.."
+        }
+      },
+      "editorial_reason": "una prueba más suave del pensión internacional común ante los cambios largos; un claro precio de un formato individual.",
+      "shortlist": [
+        "general",
+        "boarding",
+        "both"
+      ],
+      "questions": [
+        "confirmar la edad mínima, es decir, el Trial, la admisión de los niños nuevos/que regresan, el adelanto y el día final de salida/transferencia."
+      ],
+      "sources": [
+        {
+          "title": "2027: precio de prueba y fechas separadas",
+          "url": "https://frenchwoods.com/dates-and-rates.htm",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "programa de prueba y otro depósito",
+          "url": "https://frenchwoods.com/session5.htm",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "edad del campamento principal",
+          "url": "https://frenchwoods.com/",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "Convivencia en inglés en el campamento",
+          "url": "https://frenchwoods.com/international-campers.htm",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "EWR y transporte",
+          "url": "https://frenchwoods.com/transportation.htm",
+          "checked": "2026-10-05"
+        }
+      ],
+      "checked": "2026-10-05",
+      "language_evidence_role": "camp_life"
+    }
+  },
+  "new_budget_offer_ids": [
+    "ussrc-space-matvey-2027",
+    "ussrc-robotics-matvey-2027",
+    "aviation-family-onsite-three-2027",
+    "aviation-family-offsite-three-2027",
+    "ilsc-ubc-1w-boarding-matvey-2027",
+    "ilsc-ubc-1w-day-matvey-2027",
+    "ilsc-ubc-2w-boarding-matvey-2027",
+    "bricklabs-robotics-matvey-2027",
+    "bricklabs-creative-matvey-2027",
+    "arowhon-mini-two-2027",
+    "arowhon-regular-two-weeks-two-2027",
+    "catalina-one-week-matvey-2027",
+    "astrocamp-one-week-two-2027",
+    "frenchwoods-session1-early-two-2027",
+    "frenchwoods-trial-early-two-2027"
+  ],
+  "budget_offers": [
+    {
+      "id": "ussrc-space-matvey-2027",
+      "slug": "space-camp",
+      "label": "USSRC · espacio · Matvey",
+      "currency": "USD",
+      "price_year": 2027,
+      "children": [
+        "matvey"
+      ],
+      "base_by_child": {
+        "matvey": 1699
+      },
+      "discount_second": 0,
+      "required": [],
+      "unknown_required": [
+        {
+          "id": "invoice_extras",
+          "label": "Impuestos y demás condiciones obligatorias de factura completa",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [],
+      "sources": [
+        "https://rocketcenter.com/spacecamp/space-camp/",
+        "https://rocketcenter.com/Help/FAQ/camps/weeklong/",
+        "https://rocketcenter.com/spacecamp/",
+        "https://find.acacamps.org/camp_profile.php?camp_id=5271"
+      ],
+      "sessions": [
+        [
+          "2027-03-14",
+          "2027-03-19"
+        ],
+        [
+          "2027-05-30",
+          "2027-06-04"
+        ],
+        [
+          "2027-06-06",
+          "2027-06-11"
+        ],
+        [
+          "2027-06-13",
+          "2027-06-18"
+        ],
+        [
+          "2027-06-20",
+          "2027-06-25"
+        ],
+        [
+          "2027-06-27",
+          "2027-07-02"
+        ],
+        [
+          "2027-07-04",
+          "2027-07-09"
+        ],
+        [
+          "2027-07-11",
+          "2027-07-16"
+        ],
+        [
+          "2027-07-18",
+          "2027-07-23"
+        ],
+        [
+          "2027-07-25",
+          "2027-07-30"
+        ],
+        [
+          "2027-08-01",
+          "2027-08-06"
+        ],
+        [
+          "2027-08-08",
+          "2027-08-13"
+        ],
+        [
+          "2027-08-15",
+          "2027-08-20"
+        ],
+        [
+          "2027-08-22",
+          "2027-08-27"
+        ],
+        [
+          "2027-08-29",
+          "2027-09-03"
+        ]
+      ],
+      "gate": "Confirmar Grade 4 para un niño de nueve años, contenido de USD 1699, admisión y suplementos obligatorios.",
+      "deposit_note": "Cancelación con ocho semanas o más: 90% del tuition pagado menos USD 200 de inscripción no reembolsable; confirmar en factura si la inscripción está incluida en USD 1699. Un cambio gratuito, el siguiente USD 25, solicitud con al menos dos semanas. Los formularios médicos y de transporte se exigen 30 días antes; no es cierre de inscripción.",
+      "included": "el paquete de alojamiento/alimento.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Cálculo familiar parcial, no factura final. Costes obligatorios desconocidos y viaje no equivalen a cero; confirmar admisión, idioma y plazas.",
+      "checked": "2026-11-06",
+      "format": "boarding"
+    },
+    {
+      "id": "ussrc-robotics-matvey-2027",
+      "slug": "space-robotics",
+      "label": "USSRC · robótica · Matvey",
+      "currency": "USD",
+      "price_year": 2027,
+      "children": [
+        "matvey"
+      ],
+      "base_by_child": {
+        "matvey": 1699
+      },
+      "discount_second": 0,
+      "required": [],
+      "unknown_required": [
+        {
+          "id": "invoice_extras",
+          "label": "Impuestos y demás condiciones obligatorias de factura completa",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [],
+      "sources": [
+        "https://rocketcenter.com/robotics/",
+        "https://rocketcenter.com/SpaceCamp?field_age_group_target_id=All&field_space_camp_program_categor_target_id=2062",
+        "https://rocketcenter.com/Help/FAQ/camps/weeklong/",
+        "https://rocketcenter.com/spacecamp/",
+        "https://find.acacamps.org/camp_profile.php?camp_id=5271"
+      ],
+      "sessions": [
+        [
+          "2027-05-30",
+          "2027-06-04"
+        ],
+        [
+          "2027-06-06",
+          "2027-06-11"
+        ],
+        [
+          "2027-06-13",
+          "2027-06-18"
+        ],
+        [
+          "2027-06-20",
+          "2027-06-25"
+        ],
+        [
+          "2027-06-27",
+          "2027-07-02"
+        ],
+        [
+          "2027-07-04",
+          "2027-07-09"
+        ],
+        [
+          "2027-07-11",
+          "2027-07-16"
+        ],
+        [
+          "2027-07-18",
+          "2027-07-23"
+        ],
+        [
+          "2027-07-25",
+          "2027-07-30"
+        ],
+        [
+          "2027-08-01",
+          "2027-08-06"
+        ],
+        [
+          "2027-08-08",
+          "2027-08-13"
+        ],
+        [
+          "2027-08-15",
+          "2027-08-20"
+        ]
+      ],
+      "gate": "Confirmar Grade 4, plataforma VEX concreta y dificultad para tres años de experiencia; base USD 1699 e inscripción.",
+      "deposit_note": "Cancelación con ocho semanas o más: 90% del tuition pagado menos USD 200 de inscripción no reembolsable; confirmar en factura si la inscripción está incluida en USD 1699. Un cambio gratuito, el siguiente USD 25, solicitud con al menos dos semanas. Los formularios médicos y de transporte se exigen 30 días antes; no es cierre de inscripción.",
+      "included": "el paquete de alojamiento/alimento y el equipo confirmen por registro.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Cálculo familiar parcial, no factura final. Costes obligatorios desconocidos y viaje no equivalen a cero; confirmar admisión, idioma y plazas.",
+      "checked": "2026-11-06",
+      "format": "boarding"
+    },
+    {
+      "id": "aviation-family-onsite-three-2027",
+      "slug": "family-aviation",
+      "label": "Family Aviation · un adulto y dos niños · con alojamiento",
+      "currency": "USD",
+      "price_year": 2027,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "base_by_child": {
+        "matvey": 799,
+        "oscar": 799
+      },
+      "discount_second": 0,
+      "required": [
+        {
+          "id": "adult_participant",
+          "label": "Adulto participante de pago obligatorio",
+          "min": 1,
+          "unit": "participant",
+          "amount": 799
+        }
+      ],
+      "unknown_required": [
+        {
+          "id": "invoice_extras",
+          "label": "Impuestos y demás condiciones obligatorias de factura completa",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [
+        {
+          "id": "second_adult",
+          "label": "Segundo adulto participante",
+          "min": 0,
+          "unit": "participant",
+          "amount": 799
+        }
+      ],
+      "sources": [
+        "https://rocketcenter.com/SpaceCamp/Family",
+        "https://rocketcenter.com/spacecamp/"
+      ],
+      "sessions": [
+        [
+          "2027-06-11",
+          "2027-06-13"
+        ],
+        [
+          "2027-07-30",
+          "2027-08-01"
+        ],
+        [
+          "2027-08-27",
+          "2027-08-29"
+        ]
+      ],
+      "gate": "Oscar debe tener siete; confirmar al menos un adulto de pago, onsite/offsite, idioma y reglas familiares de cancelación por separado.",
+      "deposit_note": "pago y cancelación  por la composición de la familia/acuerdo.",
+      "included": "En la opción USD 799: dos noches de viernes y sábado, comidas desde la cena del viernes hasta el desayuno del domingo. En la opción 699 el hotel no está incluido.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Cálculo familiar parcial, no factura final. Costes obligatorios desconocidos y viaje no equivalen a cero; confirmar admisión, idioma y plazas.",
+      "checked": "2026-11-06",
+      "format": "family"
+    },
+    {
+      "id": "aviation-family-offsite-three-2027",
+      "slug": "family-aviation",
+      "label": "Family Aviation · un adulto y dos niños · sin hotel",
+      "currency": "USD",
+      "price_year": 2027,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "base_by_child": {
+        "matvey": 699,
+        "oscar": 699
+      },
+      "discount_second": 0,
+      "required": [
+        {
+          "id": "adult_participant",
+          "label": "Adulto participante de pago obligatorio",
+          "min": 1,
+          "unit": "participant",
+          "amount": 699
+        }
+      ],
+      "unknown_required": [
+        {
+          "id": "invoice_extras",
+          "label": "Impuestos y demás condiciones obligatorias de factura completa",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [
+        {
+          "id": "second_adult",
+          "label": "Segundo adulto participante",
+          "min": 0,
+          "unit": "participant",
+          "amount": 699
+        }
+      ],
+      "sources": [
+        "https://rocketcenter.com/SpaceCamp/Family",
+        "https://rocketcenter.com/spacecamp/"
+      ],
+      "sessions": [
+        [
+          "2027-06-11",
+          "2027-06-13"
+        ],
+        [
+          "2027-07-30",
+          "2027-08-01"
+        ],
+        [
+          "2027-08-27",
+          "2027-08-29"
+        ]
+      ],
+      "gate": "Oscar debe tener siete; confirmar al menos un adulto de pago, onsite/offsite, idioma y reglas familiares de cancelación por separado.",
+      "deposit_note": "pago y cancelación  por la composición de la familia/acuerdo.",
+      "included": "En la opción USD 799: dos noches de viernes y sábado, comidas desde la cena del viernes hasta el desayuno del domingo. En la opción 699 el hotel no está incluido.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Cálculo familiar parcial, no factura final. Costes obligatorios desconocidos y viaje no equivalen a cero; confirmar admisión, idioma y plazas.",
+      "checked": "2026-11-06",
+      "format": "family"
+    },
+    {
+      "id": "ilsc-ubc-1w-boarding-matvey-2027",
+      "slug": "ilsc-ubc",
+      "label": "ILSC UBC · 1 sem. · Matvey · residencia",
+      "currency": "CAD",
+      "price_year": 2027,
+      "children": [
+        "matvey"
+      ],
+      "base_by_child": {
+        "matvey": 3235
+      },
+      "discount_second": 0,
+      "required": [
+        {
+          "id": "refundable_damage_cash",
+          "label": "Garantía reembolsable en efectivo una vez por estancia",
+          "min": 1,
+          "unit": "stay",
+          "amount": 100,
+          "refundable": true,
+          "once_per_stay": true
+        }
+      ],
+      "unknown_required": [
+        {
+          "id": "invoice_extras",
+          "label": "Impuestos y demás condiciones obligatorias de factura completa",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [],
+      "sources": [
+        "https://www.ilsc.com/language-schools/programs/junior/residences/ubc",
+        "https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf"
+      ],
+      "sessions": [
+        [
+          "2027-06-27",
+          "2027-07-04"
+        ],
+        [
+          "2027-07-04",
+          "2027-07-11"
+        ],
+        [
+          "2027-07-11",
+          "2027-07-18"
+        ],
+        [
+          "2027-07-18",
+          "2027-07-25"
+        ],
+        [
+          "2027-07-25",
+          "2027-08-01"
+        ],
+        [
+          "2027-08-01",
+          "2027-08-08"
+        ]
+      ],
+      "gate": "Elegir duración y day/boarding; Oscar es menor de nueve. Confirmar plaza de Matvey, cuidado nocturno, una sola garantía de 100 y factura sin volver a sumar 350.",
+      "deposit_note": "CAD 350 de anticipo no reembolsable forman parte del paquete, no se suman al precio. Saldo dos semanas antes. Canadá: cancelación en los primeros siete días con margen de 30 días, devolución mayor entre 75% del precio o precio menos 350; después, con 30 días o más 75%, menos de 30 días 60%. Tras comenzar, antes del 10% del programa devolución del 50%, con 10–30% devolución del 30%, por encima del 30% sin devolución. Denegación de visa: se retienen 350. Confirmar aplicación de condiciones e importe de factura.",
+      "included": "Inscripción incluida. Residencia: alojamiento, tres comidas, inglés, actividades, traslado aeroportuario, seguro médico y carta de custodia. Day-only: clases y actividades SIN comida, alojamiento, aeropuerto ni carta de custodia. ILSC opera en el recinto de UBC; la universidad no gestiona el programa ni avala su calidad.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Cálculo familiar parcial, no factura final. Costes obligatorios desconocidos y viaje no equivalen a cero; confirmar admisión, idioma y plazas.",
+      "checked": "2026-11-06",
+      "format": "boarding"
+    },
+    {
+      "id": "ilsc-ubc-1w-day-matvey-2027",
+      "slug": "ilsc-ubc",
+      "label": "ILSC UBC · 1 sem. · Matvey · diurno",
+      "currency": "CAD",
+      "price_year": 2027,
+      "children": [
+        "matvey"
+      ],
+      "base_by_child": {
+        "matvey": 1605
+      },
+      "discount_second": 0,
+      "required": [],
+      "unknown_required": [
+        {
+          "id": "invoice_extras",
+          "label": "Impuestos y demás condiciones obligatorias de factura completa",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [
+        {
+          "id": "day_meals",
+          "label": "Comidas del paquete diurno",
+          "min": 0,
+          "unit": "stay",
+          "amount": 180
+        }
+      ],
+      "sources": [
+        "https://www.ilsc.com/language-schools/programs/junior/residences/ubc",
+        "https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf"
+      ],
+      "sessions": [
+        [
+          "2027-06-27",
+          "2027-07-04"
+        ],
+        [
+          "2027-07-04",
+          "2027-07-11"
+        ],
+        [
+          "2027-07-11",
+          "2027-07-18"
+        ],
+        [
+          "2027-07-18",
+          "2027-07-25"
+        ],
+        [
+          "2027-07-25",
+          "2027-08-01"
+        ],
+        [
+          "2027-08-01",
+          "2027-08-08"
+        ]
+      ],
+      "gate": "Elegir duración y day/boarding; Oscar es menor de nueve. Confirmar plaza de Matvey, cuidado nocturno, una sola garantía de 100 y factura sin volver a sumar 350.",
+      "deposit_note": "CAD 350 de anticipo no reembolsable forman parte del paquete, no se suman al precio. Saldo dos semanas antes. Canadá: cancelación en los primeros siete días con margen de 30 días, devolución mayor entre 75% del precio o precio menos 350; después, con 30 días o más 75%, menos de 30 días 60%. Tras comenzar, antes del 10% del programa devolución del 50%, con 10–30% devolución del 30%, por encima del 30% sin devolución. Denegación de visa: se retienen 350. Confirmar aplicación de condiciones e importe de factura.",
+      "included": "Inscripción incluida. Residencia: alojamiento, tres comidas, inglés, actividades, traslado aeroportuario, seguro médico y carta de custodia. Day-only: clases y actividades SIN comida, alojamiento, aeropuerto ni carta de custodia. ILSC opera en el recinto de UBC; la universidad no gestiona el programa ni avala su calidad.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Cálculo familiar parcial, no factura final. Costes obligatorios desconocidos y viaje no equivalen a cero; confirmar admisión, idioma y plazas.",
+      "checked": "2026-11-06",
+      "format": "day"
+    },
+    {
+      "id": "ilsc-ubc-2w-boarding-matvey-2027",
+      "slug": "ilsc-ubc",
+      "label": "ILSC UBC · 2 sem. · Matvey · residencia",
+      "currency": "CAD",
+      "price_year": 2027,
+      "children": [
+        "matvey"
+      ],
+      "base_by_child": {
+        "matvey": 5780
+      },
+      "discount_second": 0,
+      "required": [
+        {
+          "id": "refundable_damage_cash",
+          "label": "Garantía reembolsable en efectivo una vez por estancia",
+          "min": 1,
+          "unit": "stay",
+          "amount": 100,
+          "refundable": true,
+          "once_per_stay": true
+        }
+      ],
+      "unknown_required": [
+        {
+          "id": "invoice_extras",
+          "label": "Impuestos y demás condiciones obligatorias de factura completa",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [],
+      "sources": [
+        "https://www.ilsc.com/language-schools/programs/junior/residences/ubc",
+        "https://www.ilsc.com/hubfs/pricing/official-pricelists/ilsc-junior-official-pricing.pdf"
+      ],
+      "sessions": [
+        [
+          "2027-06-27",
+          "2027-07-11"
+        ],
+        [
+          "2027-07-04",
+          "2027-07-18"
+        ],
+        [
+          "2027-07-11",
+          "2027-07-25"
+        ],
+        [
+          "2027-07-18",
+          "2027-08-01"
+        ],
+        [
+          "2027-07-25",
+          "2027-08-08"
+        ]
+      ],
+      "gate": "Elegir duración y day/boarding; Oscar es menor de nueve. Confirmar plaza de Matvey, cuidado nocturno, una sola garantía de 100 y factura sin volver a sumar 350.",
+      "deposit_note": "CAD 350 de anticipo no reembolsable forman parte del paquete, no se suman al precio. Saldo dos semanas antes. Canadá: cancelación en los primeros siete días con margen de 30 días, devolución mayor entre 75% del precio o precio menos 350; después, con 30 días o más 75%, menos de 30 días 60%. Tras comenzar, antes del 10% del programa devolución del 50%, con 10–30% devolución del 30%, por encima del 30% sin devolución. Denegación de visa: se retienen 350. Confirmar aplicación de condiciones e importe de factura.",
+      "included": "Inscripción incluida. Residencia: alojamiento, tres comidas, inglés, actividades, traslado aeroportuario, seguro médico y carta de custodia. Day-only: clases y actividades SIN comida, alojamiento, aeropuerto ni carta de custodia. ILSC opera en el recinto de UBC; la universidad no gestiona el programa ni avala su calidad.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Cálculo familiar parcial, no factura final. Costes obligatorios desconocidos y viaje no equivalen a cero; confirmar admisión, idioma y plazas.",
+      "checked": "2026-11-06",
+      "format": "boarding"
+    },
+    {
+      "id": "bricklabs-robotics-matvey-2027",
+      "slug": "bricklabs-robotics",
+      "label": "Brick Labs · Matvey · robótica",
+      "currency": "CAD",
+      "price_year": 2027,
+      "children": [
+        "matvey"
+      ],
+      "base_by_child": {
+        "matvey": 1650
+      },
+      "discount_second": 0,
+      "required": [],
+      "unknown_required": [
+        {
+          "id": "invoice_extras",
+          "label": "Impuestos y demás condiciones obligatorias de factura completa",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [],
+      "sources": [
+        "https://bricklabs.ca/over-night-camp-2026/",
+        "https://app.acuityscheduling.com/schedule.php?owner=13584246&appointmentType=98136580",
+        "https://bricklabs.ca/cancellation-policy/"
+      ],
+      "sessions": [
+        [
+          "2027-07-25",
+          "2027-07-30"
+        ],
+        [
+          "2027-08-15",
+          "2027-08-20"
+        ]
+      ],
+      "gate": "Confirmar idioma oral, nivel de robótica, equipo nocturno, impuestos de CAD 1650 e imputación del anticipo de 650.",
+      "deposit_note": "CAD 650 forman parte de 1650, saldo de 1000 hasta el 1 de marzo de 2027; formularios hasta el 1 de abril. Reglas específicas de 2027: hasta el 31 de diciembre de 2026 devolución completa, del 1 de enero al 28 de febrero de 2027 devolución del 50%, desde el 1 de marzo sin devolución. La página general antigua de cancelación 2025/2026 no sustituye las condiciones de esta estancia.",
+      "included": "Coach de North York, pensión, comidas/snacks, materiales y actividades básicas.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Cálculo familiar parcial, no factura final. Costes obligatorios desconocidos y viaje no equivalen a cero; confirmar admisión, idioma y plazas.",
+      "checked": "2026-11-06",
+      "format": "boarding"
+    },
+    {
+      "id": "bricklabs-creative-matvey-2027",
+      "slug": "bricklabs-creative",
+      "label": "Brick Labs · Matvey · itinerario creativo",
+      "currency": "CAD",
+      "price_year": 2027,
+      "children": [
+        "matvey"
+      ],
+      "base_by_child": {
+        "matvey": 1650
+      },
+      "discount_second": 0,
+      "required": [],
+      "unknown_required": [
+        {
+          "id": "invoice_extras",
+          "label": "Impuestos y demás condiciones obligatorias de factura completa",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [],
+      "sources": [
+        "https://bricklabs.ca/over-night-camp-2026/",
+        "https://app.acuityscheduling.com/schedule.php?owner=13584246&appointmentType=98136580",
+        "https://bricklabs.ca/cancellation-policy/"
+      ],
+      "sessions": [
+        [
+          "2027-07-25",
+          "2027-07-30"
+        ],
+        [
+          "2027-08-15",
+          "2027-08-20"
+        ]
+      ],
+      "gate": "Confirmar idioma oral, itinerario creativo, equipo nocturno, impuestos de CAD 1650 e imputación del anticipo de 650.",
+      "deposit_note": "CAD 650 forman parte de 1650, saldo de 1000 hasta el 1 de marzo de 2027; formularios hasta el 1 de abril. Reglas específicas de 2027: hasta el 31 de diciembre de 2026 devolución completa, del 1 de enero al 28 de febrero de 2027 devolución del 50%, desde el 1 de marzo sin devolución. La página general antigua de cancelación 2025/2026 no sustituye las condiciones de esta estancia.",
+      "included": "Coach de North York, pensión, comidas/snacks, materiales y actividades básicas.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Cálculo familiar parcial, no factura final. Costes obligatorios desconocidos y viaje no equivalen a cero; confirmar admisión, idioma y plazas.",
+      "checked": "2026-11-06",
+      "format": "boarding"
+    },
+    {
+      "id": "arowhon-mini-two-2027",
+      "slug": "arowhon-mini",
+      "label": "Arowhon Mini · ambos niños si cumplen edad y curso",
+      "currency": "CAD",
+      "price_year": 2027,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "base_by_child": {
+        "matvey": 700,
+        "oscar": 700
+      },
+      "discount_second": 0,
+      "required": [],
+      "unknown_required": [
+        {
+          "id": "invoice_extras",
+          "label": "Impuestos y demás condiciones obligatorias de factura completa",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [
+        {
+          "id": "mini_bus_return_two",
+          "label": "Autobús Mini de ida y vuelta para ambos",
+          "min": 0,
+          "unit": "family",
+          "amount": 400
+        }
+      ],
+      "sources": [
+        "https://camparowhon.com/programs/mini-camp/",
+        "https://camparowhon.com/programs/rates-dates/",
+        "https://camparowhon.com/ourteam/faq/",
+        "https://ontariocampsassociation.ca/program/camp-arowhon/"
+      ],
+      "sessions": [
+        [
+          "2027-08-13",
+          "2027-08-16"
+        ]
+      ],
+      "gate": "Matvey solo si aún tiene nueve y el curso encaja; confirmar SK–Grade 3, idioma, HST, seguro y cancelación propia de Mini.",
+      "deposit_note": "No se requiere un depósito para el Mini.",
+      "included": "camp stay corto; el acceso detallado a la alimentación/materiales debe ser confirmado.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Cálculo familiar parcial, no factura final. Costes obligatorios desconocidos y viaje no equivalen a cero; confirmar admisión, idioma y plazas.",
+      "checked": "2026-11-06",
+      "format": "boarding"
+    },
+    {
+      "id": "arowhon-regular-two-weeks-two-2027",
+      "slug": "arowhon-regular",
+      "label": "Arowhon · dos semanas · ambos · confirmar descuento de hermano",
+      "currency": "CAD",
+      "price_year": 2027,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "base_by_child": {
+        "matvey": 5200,
+        "oscar": 5050
+      },
+      "discount_second": 0,
+      "required": [],
+      "unknown_required": [
+        {
+          "id": "invoice_extras",
+          "label": "Impuestos y demás condiciones obligatorias de factura completa",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [
+        {
+          "id": "regular_bus_return_two",
+          "label": "Autobús regular de ida y vuelta para ambos",
+          "min": 0,
+          "unit": "family",
+          "amount": 700
+        }
+      ],
+      "sources": [
+        "https://camparowhon.com/programs/rates-dates/",
+        "https://camparowhon.com/ourteam/faq/",
+        "https://camparowhon.com/programs/mini-camp/",
+        "https://ontariocampsassociation.ca/program/camp-arowhon/"
+      ],
+      "sessions": [
+        [
+          "2027-07-01",
+          "2027-07-14"
+        ],
+        [
+          "2027-07-29",
+          "2027-08-11"
+        ]
+      ],
+      "gate": "Confirmar edad y curso terminado, idioma, HST, póliza y aplicación del descuento al hermano; para estancias largas, alojamiento en las dos noches de cambio. La suma incluye condicionalmente descuento de CAD 150 al segundo niño; no considerarlo garantizado sin factura confirmada. HST y póliza apta aparte.",
+      "deposit_note": "CAD1 000 por adelantado a la cuenta del paquete. cancelación: hasta Dec1 CAD300; Dec1Feb1 CAD500; Feb1May1 CAD1 000; después de May1 sin devolución.",
+      "included": "programa, lavandería, comida y pensión.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Cálculo familiar parcial, no factura final. Costes obligatorios desconocidos y viaje no equivalen a cero; confirmar admisión, idioma y plazas.",
+      "checked": "2026-11-06",
+      "format": "boarding"
+    },
+    {
+      "id": "catalina-one-week-matvey-2027",
+      "slug": "catalina-sea-junior",
+      "label": "Catalina · Matvey · tarifa ordinaria",
+      "currency": "USD",
+      "price_year": 2027,
+      "children": [
+        "matvey"
+      ],
+      "base_by_child": {
+        "matvey": 3750
+      },
+      "discount_second": 0,
+      "required": [],
+      "unknown_required": [
+        {
+          "id": "invoice_extras",
+          "label": "Impuestos y demás condiciones obligatorias de factura completa",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [],
+      "sources": [
+        "https://catalinaseacamp.org/dates-rates/",
+        "https://catalinaseacamp.org/programs/1-week-programs/",
+        "https://catalinaseacamp.org/catalina-island-faqs/",
+        "https://catalinaseacamp.org/health-and-safety/",
+        "https://find.acacamps.org/camp_profile.php?camp_id=2026"
+      ],
+      "sessions": [
+        [
+          "2027-06-12",
+          "2027-06-18"
+        ],
+        [
+          "2027-06-19",
+          "2027-06-25"
+        ],
+        [
+          "2027-06-26",
+          "2027-07-02"
+        ]
+      ],
+      "gate": "Confirmar idioma, Toyon Bay o Fox Landing, barco, normas acuáticas y factura completa; descuento anticipado de 150 hasta el 31 de enero.",
+      "deposit_note": "USD300 el anticipo no reembolsable se incluye en tuition; pago completo hasta el 1 mayo. hasta 1 febrero se retendrán adicionalmente100, Feb1–Apr30 200; May1–14 25%, May15–31 50%, después de 1 de junio 100%. base de combinación de retenciones para especificar.",
+      "included": "programa con horario de alojamiento y horario de comida; incluye exactamente el barco/equipamiento en la factura.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Cálculo familiar parcial, no factura final. Costes obligatorios desconocidos y viaje no equivalen a cero; confirmar admisión, idioma y plazas.",
+      "checked": "2026-11-06",
+      "format": "boarding"
+    },
+    {
+      "id": "astrocamp-one-week-two-2027",
+      "slug": "astrocamp-junior",
+      "label": "AstroCamp · ambos niños · tarifa ordinaria",
+      "currency": "USD",
+      "price_year": 2027,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "base_by_child": {
+        "matvey": 2900,
+        "oscar": 2900
+      },
+      "discount_second": 0,
+      "required": [],
+      "unknown_required": [
+        {
+          "id": "invoice_extras",
+          "label": "Impuestos y demás condiciones obligatorias de factura completa",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [
+        {
+          "id": "ont_return_two",
+          "label": "Traslado ONT de ida y vuelta para ambos",
+          "min": 0,
+          "unit": "family",
+          "amount": 240
+        }
+      ],
+      "sources": [
+        "https://astrocamp.org/camp-dates-rates/",
+        "https://astrocamp.org/camp-overview/one-week-sessions/",
+        "https://astrocamp.org/parent-guide/",
+        "https://astrocamp.org/travel/",
+        "https://astrocamp.org/health-safety/"
+      ],
+      "sessions": [
+        [
+          "2027-06-12",
+          "2027-06-18"
+        ],
+        [
+          "2027-06-19",
+          "2027-06-25"
+        ],
+        [
+          "2027-07-25",
+          "2027-07-31"
+        ]
+      ],
+      "gate": "Oscar debe tener siete; confirmar idioma, edad 7–13 o 7–12, actividades concretas y traslado ONT; agosto no anunciado.",
+      "deposit_note": "USD 300 un anticipo no reembolsable a la cuenta del precio; balance May 1. hasta Feb 1 ¿Qué más ? USD 100 cancellation fee, Feb–Apr USD 200; May 1–14 retenerse 25%, May 15–31 50%, después de June 1 100%. el operador permite una sobretaja regulada hasta el USD 150 con la posibilidad de rechazar. exclusión por separado financial aid no se aplica a la solicitud normal.",
+      "included": "alojamiento, alimentación, actividades y equipos básicos; Junior FAQ no declara cargos de programa obligatorios adicionales.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Cálculo familiar parcial, no factura final. Costes obligatorios desconocidos y viaje no equivalen a cero; confirmar admisión, idioma y plazas.",
+      "checked": "2026-11-06",
+      "format": "boarding"
+    },
+    {
+      "id": "frenchwoods-session1-early-two-2027",
+      "slug": "frenchwoods-regular",
+      "label": "French Woods · Session 1 · ambos · precio anticipado",
+      "currency": "USD",
+      "price_year": 2027,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "base_by_child": {
+        "matvey": 6700,
+        "oscar": 6700
+      },
+      "discount_second": 0,
+      "required": [],
+      "unknown_required": [
+        {
+          "id": "invoice_extras",
+          "label": "Impuestos y demás condiciones obligatorias de factura completa",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [],
+      "sources": [
+        "https://frenchwoods.com/",
+        "https://frenchwoods.com/dates-and-rates.htm",
+        "https://frenchwoods.com/international-campers.htm",
+        "https://frenchwoods.com/program-french-woods.htm",
+        "https://frenchwoods.com/transportation.htm",
+        "https://frenchwoods.com/session5.htm",
+        "https://frenchwoods.com/younger-campers.htm",
+        "https://frenchwoods.com/important-staff-bios.htm",
+        "https://frenchwoods.com/cell-wi-fi-electronics-policy.htm"
+      ],
+      "sessions": [
+        [
+          "2027-06-06",
+          "2027-06-27"
+        ]
+      ],
+      "gate": "Confirmar condiciones under-nine de Oscar, factura completa, comunicación con el niño y preparación para tres semanas. Session 3 early actual de 8000. Precio válido solo si se cumplen condiciones hasta el 1 de diciembre de 2026; admisión under-nine y pagos adicionales de Oscar aún desconocidos.",
+      "deposit_note": "Early rate hasta Dec 1; el anticipo total USD 1 750 por niño. hasta Dec 1 2026 devolución menos 550, hasta Mar 1 2027 menos 800; devoluciones no se otorgan hasta May 1 2027.",
+      "included": "el programa de pensiones y las actividades seleccionadas; el conjunto completo concreto, las opciones de pago y las excepciones confirmar.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Cálculo familiar parcial, no factura final. Costes obligatorios desconocidos y viaje no equivalen a cero; confirmar admisión, idioma y plazas.",
+      "checked": "2026-11-06",
+      "format": "boarding"
+    },
+    {
+      "id": "frenchwoods-trial-early-two-2027",
+      "slug": "frenchwoods-trial",
+      "label": "French Woods · Trial · ambos · precio anticipado",
+      "currency": "USD",
+      "price_year": 2027,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "base_by_child": {
+        "matvey": 2000,
+        "oscar": 2000
+      },
+      "discount_second": 0,
+      "required": [],
+      "unknown_required": [
+        {
+          "id": "invoice_extras",
+          "label": "Impuestos y demás condiciones obligatorias de factura completa",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [],
+      "sources": [
+        "https://frenchwoods.com/dates-and-rates.htm",
+        "https://frenchwoods.com/session5.htm",
+        "https://frenchwoods.com/",
+        "https://frenchwoods.com/international-campers.htm",
+        "https://frenchwoods.com/transportation.htm",
+        "https://frenchwoods.com/program-french-woods.htm",
+        "https://frenchwoods.com/younger-campers.htm",
+        "https://frenchwoods.com/important-staff-bios.htm",
+        "https://frenchwoods.com/cell-wi-fi-electronics-policy.htm"
+      ],
+      "sessions": [
+        [
+          "2027-08-30",
+          "2027-09-05"
+        ]
+      ],
+      "gate": "Confirmar admisión under-nine y new-camper, anticipo aplicable de 250 o 1750 y comunicación de Session 5. No sumar ambos anticipos. Precio válido solo si se cumplen condiciones hasta el 1 de diciembre de 2026; admisión under-nine y pagos adicionales de Oscar aún desconocidos.",
+      "deposit_note": "la prueba sin especificar el año de la página dice USD 250 depósito, la tabla general 2027 USD 1 750: el adiantamiento / devolución de prueba aplicable aún no se sabe. no hacemos ambas contribuciones.",
+      "included": "programa de pensión de prueba; el contenido completo del precio debe ser confirmado.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Cálculo familiar parcial, no factura final. Costes obligatorios desconocidos y viaje no equivalen a cero; confirmar admisión, idioma y plazas.",
+      "checked": "2026-11-06",
+      "format": "boarding"
+    }
+  ],
+  "deadline_updates": [
+    {
+      "event_id": "CP086-20270612-20270618",
+      "deadline": "2027-01-31",
+      "deadline_label": "Fin de tarifa anticipada; no cierre de inscripción"
+    },
+    {
+      "event_id": "CP142-20270612-20270618",
+      "deadline": "2027-01-31",
+      "deadline_label": "Fin de tarifa anticipada; no cierre de inscripción"
+    },
+    {
+      "event_id": "CP143-20270606-20270627",
+      "deadline": "2026-12-01",
+      "deadline_label": "Fin de tarifa anticipada; no cierre de inscripción"
+    },
+    {
+      "event_id": "CP144-20270830-20270905",
+      "deadline": "2026-12-01",
+      "deadline_label": "Fin de tarifa anticipada; no cierre de inscripción"
+    }
+  ],
+  "verified_session_programmes": [
+    "CP039"
+  ],
+  "new_calendar_event_ids": [
+    "CP039-20270627-20270704",
+    "CP039-20270704-20270711",
+    "CP039-20270711-20270718",
+    "CP039-20270718-20270725",
+    "CP039-20270725-20270801",
+    "CP039-20270801-20270808",
+    "CP039-20270627-20270711",
+    "CP039-20270704-20270718",
+    "CP039-20270711-20270725",
+    "CP039-20270718-20270801",
+    "CP039-20270725-20270808",
+    "CP039-20270627-20270718",
+    "CP039-20270704-20270725",
+    "CP039-20270711-20270801",
+    "CP039-20270718-20270808",
+    "CP039-20270627-20270725",
+    "CP039-20270704-20270801",
+    "CP039-20270711-20270808",
+    "CP039-20270627-20270801",
+    "CP039-20270704-20270808",
+    "CP039-20270627-20270808"
+  ],
+  "event_updates": []
+}

@@ -87,7 +87,20 @@ def integrate(catalog, dossier_report):
                 sources.add(s['url'])
         p['related_event_ids']=[i for i in RELATED.get(p['slug'],[]) if i in original]
         p['calendar_links']=[]
-        p['timing']['precision']=p['timing']['precision'] if p['timing'].get('precision') in ['announced_month','published_sessions_and_announced_month'] else 'season_window' if p['slug'] in SEASON_WINDOWS or p['timing'].get('precision')=='season_window' else 'published_sessions'
+        verified_session_source=p['timing'].get('verified_session_source')
+        if verified_session_source:
+            # Only an explicitly sourced session calendar can replace a broad
+            # season window. Every calculated option needs its own date rule.
+            variants=p['timing'].get('session_details',[])
+            assert verified_session_source in {s['url'] for s in p['sources']}
+            assert variants and [[v['start'],v['end']] for v in variants]==p['timing']['sessions']
+            assert len({(v['start'],v['end']) for v in variants})==len(variants)
+            assert all(v.get('source')==verified_session_source and
+                       v.get('date_precision')=='published_rule' and v.get('date_rule')
+                       for v in variants)
+            p['timing']['precision']='published_sessions'
+        else:
+            p['timing']['precision']=p['timing']['precision'] if p['timing'].get('precision') in ['announced_month','published_sessions_and_announced_month'] else 'season_window' if p['slug'] in SEASON_WINDOWS or p['timing'].get('precision')=='season_window' else 'published_sessions'
         # Opt-in keys preserve different campuses sharing the same dates.
         # Legacy IDs and their first matching dated variant stay unchanged.
         if p['timing'].get('variant_keyed'):

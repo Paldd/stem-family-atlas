@@ -49,6 +49,8 @@ jobs:
         run: node scripts/verify-asia-editorial.cjs
       - name: Verify CR and Mexico camp tariffs, deposits and admission conflicts
         run: node scripts/verify-nearby-editorial.cjs
+      - name: Verify North America camp budgets, multiweek calendars and eligibility
+        run: node scripts/verify-northamerica-editorial.cjs
       - name: Record the exact published source revision
         run: python3 scripts/write-release.py
       - name: Configure Pages
