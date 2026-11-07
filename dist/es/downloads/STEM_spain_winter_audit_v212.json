@@ -1,0 +1,48 @@
+{
+  "version": 212,
+  "checked": "2026-11-07",
+  "previous_goal_turn_classification": "progress",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "new_competitions": 7,
+  "new_exhibitions": 4,
+  "new_camp_dossiers": 9,
+  "new_camp_calendar_rows": 23,
+  "new_undated_camp_cards": 1,
+  "new_league_profiles": 1,
+  "new_budget_offers": 7,
+  "new_events": [
+    "L652",
+    "C3123",
+    "C3124",
+    "C3125",
+    "C3126",
+    "C3127",
+    "E311",
+    "E312",
+    "E313",
+    "E314",
+    "C3128",
+    "C3129"
+  ],
+  "programme_ids": {
+    "iber-actur-lego": "CP1639",
+    "iber-actur-360": "CP1640",
+    "iber-actur-minecraft": "CP1641",
+    "iber-actur-art": "CP1642",
+    "digikids-getafe-winter-2026": "CP1643",
+    "salamanca-tech-navidad-2026": "CP1644",
+    "pulediamante-parquesol-navidad": "CP1645",
+    "tbkids-barcelona-navidad-2026": "CP1646",
+    "kidsus-vaguada-winter-2026": "CP1647"
+  },
+  "source_requests": 35,
+  "limits": [
+    "DigiKids dates agree on the live operator homepage and the detailed activity schedule. One line contains a typo, while indexed text has an older date set.",
+    "DigiKids workshop age and teaching language require confirmation.",
+    "Valladolid holiday listing has an unclear year in the heading. No dated session was created.",
+    "Salamanca registration is closed and local eligibility applies.",
+    "Eurobot competition dates and Spanish regional minimum age are not established.",
+    "Valencia primary pupils may visit the public exhibition. Published contest eligibility lists secondary and older categories."
+  ]
+}

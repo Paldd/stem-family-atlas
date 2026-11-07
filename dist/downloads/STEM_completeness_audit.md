@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 7463; соревнований: 3121; событий: 310; лагерей / программ: 4032. Профилей лиг и программ: 263. Карточек крупных и профильных выставок: 222 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 7498; соревнований: 3128; событий: 314; лагерей / программ: 4056. Профилей лиг и программ: 264. Карточек крупных и профильных выставок: 226 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 158 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -14,16 +14,16 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 
 | Континент | Страны / территории с записями | Соревнования | Крупные выставки | Лагеря / программы |
 |---|---:|---:|---:|---:|
-| Северная Америка | 23 | 1432 | 41 | 1063 |
+| Северная Америка | 23 | 1434 | 41 | 1063 |
 | Южная Америка | 10 | 195 | 11 | 132 |
-| Европа | 42 | 414 | 68 | 1256 |
+| Европа | 42 | 419 | 72 | 1280 |
 | Африка | 34 | 115 | 15 | 68 |
 | Азия | 44 | 750 | 83 | 1387 |
 | Океания | 5 | 119 | 3 | 114 |
 
 Межрегиональные / глобальные карточки, не приписанные одному континенту: 114. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
 
-VEX: 518 из 3121 карточек соревнований (16.6%). Это явный перекос охвата.
+VEX: 518 из 3128 карточек соревнований (16.6%). Это явный перекос охвата.
 
 ## Что осталось
 
@@ -284,9 +284,10 @@ VEX: 518 из 3121 карточек соревнований (16.6%). Это я�
 - **International Scratch Creative Programming Olympiad**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://creativeprogramming.org/
 - **Brainiacs · Robotics**: 5 карточек, 5 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.brainiacsolympiad.com/en/olympiads/robotics
 - **STEMATHLON Greece 2027**: 2 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://portal.stem.edu.gr/en/contests/
-- **NASA Space Apps Challenge**: 5 карточек, 5 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.spaceappschallenge.org/2026/
+- **NASA Space Apps Challenge**: 7 карточек, 7 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.spaceappschallenge.org/2026/
 - **OICC · Olimpiada de Informática**: 1 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.oicc-oficial.org/inicio
 - **PRONAFECYT · Costa Rica**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.mep.go.cr/noticias/calendario-escolar-2027-clases-1o-marzo-30-noviembre
+- **Eurobot Spain · Junior / Novel**: 3 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.eurobot.es/inscripcion-de-equipo/
 - **The Tech Challenge · инженерная программа и showcase**: 0 карточек, 0 с будущими точными датами. Учебная / посещаемая программа; конкурсных этапов нет. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · локальные дисциплины**: 10 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · младшая демонстрация и Mini Sumo**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -553,6 +554,10 @@ VEX: 518 из 3121 карточек соревнований (16.6%). Это я�
 - **Game Conference MX 2026 · Indie Spot** — Мексика; 2026-11-13 – 2026-11-14. Детский допуск уточнить. https://www.gameconferencemx.com/faq
 - **Pixelatl 2026 · actividades públicas Zapopan** — Мексика; 2026-11-07 – 2026-11-08. Со взрослым; условия взрослого входа отдельно. https://www.elfestival.mx/es/2026/post/edicion-2026/dos-sedes
 - **Pixelatl 2026 · VMX Videogame Showroom** — Мексика; 2026-11-10 – 2026-11-14. Детский допуск уточнить. https://elfestival.mx/Account/bitacora/c9629abb-f722-40ce-a317-b6c80d783f3f/Presenta_tu_juego_en_el_Festival
+- **Conoce Eurobot Spain 2027 · Semana de la Ciencia** — Испания; 2026-11-25. Со взрослым; условия взрослого входа отдельно. https://semanacienciamadrid.org/actividad/conoce-la-competicion-de-robotica-eurobot-spain
+- **Salón del Videojuego de Madrid 2026** — Испания; 2026-12-05 – 2026-12-06. Со взрослым; условия взрослого входа отдельно. https://salonvideojuego.com/entradas/
+- **InterOcio 2027 · juegos y prototipos** — Испания; 2027-04-02 – 2027-04-04. Со взрослым; условия взрослого входа отдельно. https://feriainterocio.com/
+- **La fira dels Invents · Desafío Robot 2027** — Испания; 2027-05-28. Со взрослым; условия взрослого входа отдельно. https://cac.es/web/desafio-robot/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors

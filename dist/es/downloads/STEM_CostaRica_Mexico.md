@@ -2969,6 +2969,19 @@ Limitaciones: El organizador indica matrícula abierta. Confirmar fechas, horari
 Fuente: https://www.citc.cr/cursos/jovenes-ingenieros/algoc/
 Se ha comprobado: 2026-11-07
 
+### C3128 · NASA Space Apps Challenge 2026 · Chihuahua
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Todas las edades. El participante menor de 18 años debe ser inscrito y acompañado durante todo el evento por su madre, padre o tutor legal.
+Matvey: Condicional. La edad permite participar con inscripción y acompañamiento permanente del representante legal. Confirmar plaza y modalidad.
+Oscar: Condicional. La edad permite participar con inscripción y acompañamiento permanente del representante legal. Confirmar plaza y modalidad.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: El representante legal inscribe a cada niño, elige una sede y lo acompaña. El equipo envía un proyecto conjunto.
+Precio: Participación gratuita.
+Limitaciones: Sede presencial. Confirmar horario local, admisión y plaza disponible.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/chihuahua/
+Se ha comprobado: 2026-11-07
+
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02
 
 Fecha: 2027-03-29 - 2027-04-02

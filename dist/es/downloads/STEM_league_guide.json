@@ -18961,6 +18961,22 @@
             "hardware": "Datos abiertos de NASA y socios. Se puede crear un prototipo, relato interactivo, juego o visualización según el reto elegido.",
             "age_rule": "Condicional. La ficha local enumera bachillerato y universidad. Confirmar admisión de primaria; Universal en línea aplica las normas generales.",
             "entry": "El representante legal inscribe a cada niño, elige una sede y lo acompaña. El equipo envía un proyecto conjunto."
+          },
+          {
+            "name": "NASA Space Apps Challenge 2026 · Chihuahua",
+            "age": "Todas las edades. El participante menor de 18 años debe ser inscrito y acompañado durante todo el evento por su madre, padre o tutor legal.",
+            "team": "Inscripción individual, luego proyecto individual o en un equipo de hasta 6 personas.",
+            "hardware": "Datos abiertos de NASA y socios. Se puede crear un prototipo, relato interactivo, juego o visualización según el reto elegido.",
+            "age_rule": "Todas las edades. El participante menor de 18 años debe ser inscrito y acompañado durante todo el evento por su madre, padre o tutor legal.",
+            "entry": "El representante legal inscribe a cada niño, elige una sede y lo acompaña. El equipo envía un proyecto conjunto."
+          },
+          {
+            "name": "NASA Space Apps Challenge 2026 · Houston",
+            "age": "Todas las edades. El participante menor de 18 años debe ser inscrito y acompañado durante todo el evento por su madre, padre o tutor legal.",
+            "team": "Inscripción individual, luego proyecto individual o en un equipo de hasta 6 personas.",
+            "hardware": "Datos abiertos de NASA y socios. Se puede crear un prototipo, relato interactivo, juego o visualización según el reto elegido.",
+            "age_rule": "Todas las edades. El participante menor de 18 años debe ser inscrito y acompañado durante todo el evento por su madre, padre o tutor legal.",
+            "entry": "El representante legal inscribe a cada niño, elige una sede y lo acompaña. El equipo envía un proyecto conjunto."
           }
         ],
         "event_ids": [
@@ -18968,7 +18984,9 @@
           "C3116",
           "C3117",
           "C3118",
-          "C3119"
+          "C3119",
+          "C3128",
+          "C3129"
         ],
         "legacy_ids": [],
         "route": "El representante legal inscribe a cada niño, elige una sede y lo acompaña. El equipo envía un proyecto conjunto.",
@@ -19124,6 +19142,90 @@
           },
           {
             "url": "https://www.mep.go.cr/sites/default/files/2026-04/ManualFCTI2026.pdf",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          }
+        ],
+        "evidence": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado."
+      },
+      {
+        "id": "eurobot-spain",
+        "name": "Eurobot Spain · Junior / Novel",
+        "group": "regional",
+        "age_summary": "Según el reglamento general de la final Junior, hasta 18 años inclusive. La organización de España confirma el mínimo y las reglas de admisión del equipo.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Primera temporada con clasificación regional Junior. Inscripción por la sede regional correspondiente. Confirmar apertura y fecha en Madrid.",
+        "route": "Acceso a la final nacional Junior mediante clasificación regional. Fecha y tarifa de la final aún sin confirmar.",
+        "hardware": "Robot telecontrolado según reglas Junior. Los menores diseñan, construyen y explican el robot. El adulto supervisa el trabajo.",
+        "language": "El reglamento versión 1.4 se publica en español. Confirmar idioma del jurado y admisión de equipos de otro país.",
+        "importance": "Etapa regional",
+        "strengths": [
+          "Mínimo 2 participantes jóvenes y un supervisor adulto según el reglamento general."
+        ],
+        "requirements": [
+          "Según el reglamento general de la final Junior, hasta 18 años inclusive. La organización de España confirma el mínimo y las reglas de admisión del equipo."
+        ],
+        "nuances": [
+          "Solicitud directa a la sede nacional, sin pasar por la clasificación regional Junior. Ventana y fecha aún sin publicar."
+        ],
+        "cost": "Precio sin publicar.",
+        "award": "La clasificación regional lleva a la final nacional Junior.",
+        "categories": [
+          {
+            "name": "Eurobot Spain 2027 · Junior · Madrid Regional",
+            "age": "Según el reglamento general de la final Junior, hasta 18 años inclusive. La organización de España confirma el mínimo y las reglas de admisión del equipo.",
+            "team": "Mínimo 2 participantes jóvenes y un supervisor adulto según el reglamento general.",
+            "hardware": "Robot telecontrolado según reglas Junior. Los menores diseñan, construyen y explican el robot. El adulto supervisa el trabajo.",
+            "age_rule": "Según el reglamento general de la final Junior, hasta 18 años inclusive. La organización de España confirma el mínimo y las reglas de admisión del equipo.",
+            "entry": "Primera temporada con clasificación regional Junior. Inscripción por la sede regional correspondiente. Confirmar apertura y fecha en Madrid."
+          },
+          {
+            "name": "Eurobot Spain 2027 · Junior · Final Nacional",
+            "age": "Según el reglamento general de la final Junior, hasta 18 años inclusive. La organización de España confirma el mínimo y las reglas de admisión del equipo.",
+            "team": "Mínimo 2 participantes jóvenes y un supervisor adulto según el reglamento general.",
+            "hardware": "Robot telecontrolado según reglas Junior. Los menores diseñan, construyen y explican el robot. El adulto supervisa el trabajo.",
+            "age_rule": "Según el reglamento general de la final Junior, hasta 18 años inclusive. La organización de España confirma el mínimo y las reglas de admisión del equipo.",
+            "entry": "Acceso a la final nacional Junior mediante clasificación regional. Fecha y tarifa de la final aún sin confirmar."
+          },
+          {
+            "name": "Eurobot Spain 2027 · Novel",
+            "age": "Condicional. La organización indica Novel como opción para primaria. Confirmar edad, integrantes y anexo de reglas.",
+            "team": "Categoría por equipos Novel.",
+            "hardware": "Condicional. La organización indica Novel como opción para primaria. Confirmar edad, integrantes y anexo de reglas.",
+            "age_rule": "Condicional. La organización indica Novel como opción para primaria. Confirmar edad, integrantes y anexo de reglas.",
+            "entry": "Solicitud directa a la sede nacional, sin pasar por la clasificación regional Junior. Ventana y fecha aún sin publicar."
+          }
+        ],
+        "event_ids": [
+          "C3123",
+          "C3124",
+          "C3125",
+          "E311"
+        ],
+        "legacy_ids": [],
+        "sources": [
+          {
+            "url": "https://www.eurobot.es/inscripcion-de-equipo/",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://www.eurobot.es/eurobot-spain-2027/normativa-2027/",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://www.eurobot.es/documentos/2027/EurobotJunior_general.pdf",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://www.eurobot.es/ya-llega-eurobot-2027-la-leyenda-de-camelot/",
             "title": "Página oficial del organizador",
             "checked": "2026-11-07"
           }
@@ -24557,7 +24659,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "Perfiles de ligas, familias y programas: 263. Se conservaron las 46 rutas previas. Los formatos brasileños están separados, y Robofest LATAM y BajaBot locales se describen según sus categorías. La cobertura mundial es parcial.",
+    "methodology": "Perfiles de ligas, familias y programas: 264. Se conservaron las 46 rutas previas. Los formatos brasileños están separados, y Robofest LATAM y BajaBot locales se describen según sus categorías. La cobertura mundial es parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

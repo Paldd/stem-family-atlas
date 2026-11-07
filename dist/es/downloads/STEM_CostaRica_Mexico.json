@@ -13230,6 +13230,67 @@
       "provider": "CITC"
     },
     {
+      "id": "C3128",
+      "block": "Competiciones",
+      "title": "NASA Space Apps Challenge 2026 · Chihuahua",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Parque Tecnológico Orión · Chihuahua",
+      "start": "2026-11-14",
+      "end": "2026-11-15",
+      "deadline": "",
+      "period": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://www.spaceappschallenge.org/2026/local-events/chihuahua/",
+      "references": [
+        {
+          "url": "https://www.nasaspace.app/",
+          "label": "Reglas y condiciones de admisión"
+        },
+        {
+          "url": "https://www.spaceappschallenge.org/2026/",
+          "label": "Reglas y condiciones de admisión"
+        },
+        {
+          "url": "https://www.spaceappschallenge.org/legal/",
+          "label": "Reglas y condiciones de admisión"
+        }
+      ],
+      "age": "Todas las edades. El participante menor de 18 años debe ser inscrito y acompañado durante todo el evento por su madre, padre o tutor legal.",
+      "mat": "Condicional. La edad permite participar con inscripción y acompañamiento permanente del representante legal. Confirmar plaza y modalidad.",
+      "osc": "Condicional. La edad permite participar con inscripción y acompañamiento permanente del representante legal. Confirmar plaza y modalidad.",
+      "format": "Inscripción individual, luego proyecto individual o en un equipo de hasta 6 personas.",
+      "entry": "El representante legal inscribe a cada niño, elige una sede y lo acompaña. El equipo envía un proyecto conjunto.",
+      "gear": "Datos abiertos de NASA y socios. Se puede crear un prototipo, relato interactivo, juego o visualización según el reto elegido.",
+      "language": "Confirmar el idioma del grupo o sede concretos.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Participación gratuita.",
+      "level": "Hackatón internacional con sedes locales",
+      "reward": "Certificado tras enviar el proyecto. La evaluación internacional requiere clasificación; el certificado no implica un premio.",
+      "priority": "P2 — participación según condiciones",
+      "action": "Elegir una modalidad, verificar inscripción y presencia del representante legal y preparar un papel adecuado para el niño en el proyecto.",
+      "note": "Sede presencial. Confirmar horario local, admisión y plaza disponible.",
+      "themes": [
+        "coding",
+        "technology",
+        "science"
+      ],
+      "scope": "regional",
+      "importance_reason": "Retos de NASA y selección internacional común tras la evaluación local del proyecto.",
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "competition"
+    },
+    {
       "id": "CP041-20270329-20270402",
       "block": "Campamentos",
       "title": "Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02",

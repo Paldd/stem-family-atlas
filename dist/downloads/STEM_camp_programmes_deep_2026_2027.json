@@ -30,14 +30,14 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1638,
+    "dossiers": 1647,
     "countries": 92,
     "swiss": 137,
     "by_status": {
-      "published_2026_27": 219,
-      "published_2027": 448,
+      "published_2026_27": 225,
+      "published_2027": 450,
       "partial_2027": 131,
-      "next_unannounced": 344,
+      "next_unannounced": 345,
       "published_2026": 297,
       "partial_2026_27": 28,
       "partial_2026": 20,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 1,
       "confirmed_2027": 1
     },
-    "source_urls": 2358
+    "source_urls": 2372
   },
   "countries": [
     {
@@ -173,7 +173,7 @@
     },
     {
       "country": "Испания",
-      "count": 105
+      "count": 114
     },
     {
       "country": "Италия",
@@ -266633,6 +266633,1871 @@
         "L651"
       ],
       "calendar_links": []
+    },
+    {
+      "id": "CP1639",
+      "slug": "iber-actur-lego",
+      "provider": "Fundación Ibercaja Actur · Navidad LEGO · Robótica para el futuro",
+      "country": "Испания",
+      "iso": "ESP",
+      "place": "Fundación Ibercaja Actur · Antón García Abril 1 · Zaragoza",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "7–12 лет.",
+      "language": "Язык преподавания конкретной группы пока не подтверждён.",
+      "confirmed_instruction_languages": [],
+      "programme": "LEGO Education, моторы, датчики, механика и программирование робота.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Даты и часы опубликованы. Лимит группы 10 участников.",
+        "sessions": [
+          [
+            "2027-01-04",
+            "2027-01-05"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-05",
+            "label": "Дневная мастерская.",
+            "source": "https://www.fundacionibercaja.es/actividades/cursos-y-talleres/navidad-lego-robotica-para-el-futuro-zaragoza-navidad-2026/",
+            "price": "EUR 55 за курс. EUR 45 по условиям оплаты картой Ibercaja или для братьев и сестёр, записанных на праздничные мастерские. Сверить применение тарифа.",
+            "place": "Fundación Ibercaja Actur · Antón García Abril 1 · Zaragoza",
+            "age": "7–12 лет.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Условно, если к началу мастерской уже исполнится 7 лет."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "topic": "LEGO Education, моторы, датчики, механика и программирование робота.",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-05",
+                "topic": "LEGO Education, моторы, датчики, механика и программирование робота.",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+            }
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "EUR",
+        "amount": 55,
+        "unit": "per_child_course",
+        "label": "EUR 55 за курс. EUR 45 по условиям оплаты картой Ibercaja или для братьев и сестёр, записанных на праздничные мастерские. Сверить применение тарифа.",
+        "included": "Присмотр с 08:00 до 14:30 включён. Занятия с 09:00 до 13:30. Перекус с собой.",
+        "extras": "Дополнительные материалы и условия отмены уточнить.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно, если к началу мастерской уже исполнится 7 лет."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://www.fundacionibercaja.es/actividades/cursos-y-talleres/navidad-lego-robotica-para-el-futuro-zaragoza-navidad-2026/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.fundacionibercaja.es/actividades/ciclos-y-programas/navidad-dulce-navidad-campus-navideno-para-ninos-navidad-2026/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "open",
+        "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-05",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1639-20270104-20270105"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1640",
+      "slug": "iber-actur-360",
+      "provider": "Fundación Ibercaja Actur · Navidad 360º · La magia te rodea",
+      "country": "Испания",
+      "iso": "ESP",
+      "place": "Fundación Ibercaja Actur · Antón García Abril 1 · Zaragoza",
+      "themes": [
+        "ai",
+        "coding",
+        "technology",
+        "creative"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "7–12 лет.",
+      "language": "Язык преподавания конкретной группы пока не подтверждён.",
+      "confirmed_instruction_languages": [],
+      "programme": "3D-дизайн, программирование и ИИ. Организатор указывает Meta Quest 3S. Для ребёнка младше 10 лет заранее подтвердить доступную альтернативу VR. У Meta детские управляемые аккаунты с 10 лет.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Даты и часы опубликованы. Лимит группы 12 участников.",
+        "sessions": [
+          [
+            "2026-12-23",
+            "2026-12-24"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-23",
+            "end": "2026-12-24",
+            "label": "Дневная мастерская.",
+            "source": "https://www.fundacionibercaja.es/actividades/cursos-y-talleres/navidad-360-la-magia-te-rodea-navidad-2026/",
+            "price": "EUR 55 за курс. EUR 45 по условиям оплаты картой Ibercaja или для братьев и сестёр, записанных на праздничные мастерские. Сверить применение тарифа.",
+            "place": "Fundación Ibercaja Actur · Antón García Abril 1 · Zaragoza",
+            "age": "7–12 лет.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Возраст подходит по диапазону. Уточнить альтернативу VR для детей младше 10 лет."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Условно, если к началу мастерской уже исполнится 7 лет."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-23",
+                "topic": "3D-дизайн, программирование и ИИ. Организатор указывает Meta Quest 3S. Для ребёнка младше 10 лет заранее подтвердить доступную альтернативу VR. У Meta детские управляемые аккаунты с 10 лет.",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "topic": "3D-дизайн, программирование и ИИ. Организатор указывает Meta Quest 3S. Для ребёнка младше 10 лет заранее подтвердить доступную альтернативу VR. У Meta детские управляемые аккаунты с 10 лет.",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+            }
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "EUR",
+        "amount": 55,
+        "unit": "per_child_course",
+        "label": "EUR 55 за курс. EUR 45 по условиям оплаты картой Ibercaja или для братьев и сестёр, записанных на праздничные мастерские. Сверить применение тарифа.",
+        "included": "Присмотр с 08:00 до 14:30 включён. Занятия с 09:00 до 13:30. Перекус с собой.",
+        "extras": "Дополнительные материалы и условия отмены уточнить.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст подходит по диапазону. Уточнить альтернативу VR для детей младше 10 лет."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно, если к началу мастерской уже исполнится 7 лет."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://www.fundacionibercaja.es/actividades/cursos-y-talleres/navidad-360-la-magia-te-rodea-navidad-2026/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.fundacionibercaja.es/actividades/ciclos-y-programas/navidad-dulce-navidad-campus-navideno-para-ninos-navidad-2026/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://developers.meta.com/vr/meta-accounts-for-children/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "open",
+        "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-23",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1640-20261223-20261224"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1641",
+      "slug": "iber-actur-minecraft",
+      "provider": "Fundación Ibercaja Actur · Minecraft · El secreto de los mundos helados",
+      "country": "Испания",
+      "iso": "ESP",
+      "place": "Fundación Ibercaja Actur · Antón García Abril 1 · Zaragoza",
+      "themes": [
+        "games",
+        "coding",
+        "creative"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "8–12 лет.",
+      "language": "Язык преподавания конкретной группы пока не подтверждён.",
+      "confirmed_instruction_languages": [],
+      "programme": "Тематический Minecraft-проект. Сверить редакцию игры, требование к аккаунту и правила совместной игры.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Дни занятий по календарю организатора.",
+        "sessions": [
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "Дневная мастерская.",
+            "source": "https://www.fundacionibercaja.es/actividades/cursos-y-talleres/minecraft-el-secreto-de-los-mundos-helados-navidad-2026/",
+            "price": "EUR 99 за курс. EUR 85 по условиям оплаты картой Ibercaja или для братьев и сестёр, записанных на праздничные мастерские. Сверить применение тарифа.",
+            "place": "Fundación Ibercaja Actur · Antón García Abril 1 · Zaragoza",
+            "age": "8–12 лет.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Нет сейчас. Минимум 8 лет на выбранной программе."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "topic": "Тематический Minecraft-проект. Сверить редакцию игры, требование к аккаунту и правила совместной игры.",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "topic": "Тематический Minecraft-проект. Сверить редакцию игры, требование к аккаунту и правила совместной игры.",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-30",
+                "topic": "Тематический Minecraft-проект. Сверить редакцию игры, требование к аккаунту и правила совместной игры.",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-31",
+                "topic": "Тематический Minecraft-проект. Сверить редакцию игры, требование к аккаунту и правила совместной игры.",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+            }
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "EUR",
+        "amount": 99,
+        "unit": "per_child_course",
+        "label": "EUR 99 за курс. EUR 85 по условиям оплаты картой Ibercaja или для братьев и сестёр, записанных на праздничные мастерские. Сверить применение тарифа.",
+        "included": "Присмотр с 08:00 до 14:30 включён. Занятия с 09:00 до 13:30. Перекус с собой.",
+        "extras": "Дополнительные материалы и условия отмены уточнить.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет сейчас. Минимум 8 лет на выбранной программе."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://www.fundacionibercaja.es/actividades/cursos-y-talleres/minecraft-el-secreto-de-los-mundos-helados-navidad-2026/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.fundacionibercaja.es/actividades/ciclos-y-programas/navidad-dulce-navidad-campus-navideno-para-ninos-navidad-2026/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "open",
+        "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1641-20261228-20261231"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1642",
+      "slug": "iber-actur-art",
+      "provider": "Fundación Ibercaja Actur · Iníciate en el Arte digital",
+      "country": "Испания",
+      "iso": "ESP",
+      "place": "Fundación Ibercaja Actur · Antón García Abril 1 · Zaragoza",
+      "themes": [
+        "art",
+        "design",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "7–13 лет.",
+      "language": "Язык преподавания конкретной группы пока не подтверждён.",
+      "confirmed_instruction_languages": [],
+      "programme": "Цифровой рисунок на графических планшетах, работа с цветом, слоями и проектом.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Даты и часы опубликованы. Лимит группы 10 участников.",
+        "sessions": [
+          [
+            "2027-01-04",
+            "2027-01-05"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-05",
+            "label": "Дневная мастерская.",
+            "source": "https://www.fundacionibercaja.es/actividades/cursos-y-talleres/iniciate-en-el-arte-digital-esperando-a-los-reyes-navidad-2026/",
+            "price": "EUR 55 за курс. EUR 45 по условиям оплаты картой Ibercaja или для братьев и сестёр, записанных на праздничные мастерские. Сверить применение тарифа.",
+            "place": "Fundación Ibercaja Actur · Antón García Abril 1 · Zaragoza",
+            "age": "7–13 лет.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Условно, если к началу мастерской уже исполнится 7 лет."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "topic": "Цифровой рисунок на графических планшетах, работа с цветом, слоями и проектом.",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-05",
+                "topic": "Цифровой рисунок на графических планшетах, работа с цветом, слоями и проектом.",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+            }
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "EUR",
+        "amount": 55,
+        "unit": "per_child_course",
+        "label": "EUR 55 за курс. EUR 45 по условиям оплаты картой Ibercaja или для братьев и сестёр, записанных на праздничные мастерские. Сверить применение тарифа.",
+        "included": "Присмотр с 08:00 до 14:30 включён. Занятия с 09:00 до 13:30. Перекус с собой.",
+        "extras": "Дополнительные материалы и условия отмены уточнить.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно, если к началу мастерской уже исполнится 7 лет."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://www.fundacionibercaja.es/actividades/cursos-y-talleres/iniciate-en-el-arte-digital-esperando-a-los-reyes-navidad-2026/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.fundacionibercaja.es/actividades/ciclos-y-programas/navidad-dulce-navidad-campus-navideno-para-ninos-navidad-2026/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "open",
+        "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-05",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1642-20270104-20270105"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1643",
+      "slug": "digikids-getafe-winter-2026",
+      "provider": "DigiKids Getafe · Talleres de Navidad 2026/27",
+      "country": "Испания",
+      "iso": "ESP",
+      "place": "Getafe · DigiKids Getafe Centro / Los Molinos",
+      "themes": [
+        "robotics",
+        "coding",
+        "ai",
+        "games",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Возрастные пределы зимних групп пока не указаны.",
+      "language": "Язык преподавания конкретной группы пока не подтверждён.",
+      "confirmed_instruction_languages": [],
+      "programme": "Игры на Scratch, Python или Unity, LEGO Education SPIKE, ИИ, 3D-печать, Roblox Studio, дроны и VR по программе. Распределение тем по дням и возрастам уточнить.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "23, 28, 29 и 30 декабря 2026, 4 и 5 января 2027. Время 09:30–13:30. Конкретную площадку на каждый день подтвердить.",
+        "sessions": [
+          [
+            "2026-12-23",
+            "2026-12-23"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-28"
+          ],
+          [
+            "2026-12-29",
+            "2026-12-29"
+          ],
+          [
+            "2026-12-30",
+            "2026-12-30"
+          ],
+          [
+            "2027-01-04",
+            "2027-01-04"
+          ],
+          [
+            "2027-01-05",
+            "2027-01-05"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-23",
+            "end": "2026-12-23",
+            "label": "Один день по выбору.",
+            "source": "https://digikids.es/talleres-de-navidad/",
+            "price": "EUR 30 / 55 / 80 / 105 / 130 / 155 за 1 / 2 / 3 / 4 / 5 / 6 дней на ребёнка.",
+            "place": "Getafe · DigiKids Getafe Centro / Los Molinos",
+            "age": "Возрастные пределы зимних групп пока не указаны.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Условно. Возрастную группу и язык подтвердить до записи."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Условно. Возрастную группу и язык подтвердить до записи."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-23",
+                "topic": "Игры на Scratch, Python или Unity, LEGO Education SPIKE, ИИ, 3D-печать, Roblox Studio, дроны и VR по программе. Распределение тем по дням и возрастам уточнить.",
+                "start_time": "09:30",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+            }
+          },
+          {
+            "start": "2026-12-28",
+            "end": "2026-12-28",
+            "label": "Один день по выбору.",
+            "source": "https://digikids.es/talleres-de-navidad/",
+            "price": "EUR 30 / 55 / 80 / 105 / 130 / 155 за 1 / 2 / 3 / 4 / 5 / 6 дней на ребёнка.",
+            "place": "Getafe · DigiKids Getafe Centro / Los Molinos",
+            "age": "Возрастные пределы зимних групп пока не указаны.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Условно. Возрастную группу и язык подтвердить до записи."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Условно. Возрастную группу и язык подтвердить до записи."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "topic": "Игры на Scratch, Python или Unity, LEGO Education SPIKE, ИИ, 3D-печать, Roblox Studio, дроны и VR по программе. Распределение тем по дням и возрастам уточнить.",
+                "start_time": "09:30",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+            }
+          },
+          {
+            "start": "2026-12-29",
+            "end": "2026-12-29",
+            "label": "Один день по выбору.",
+            "source": "https://digikids.es/talleres-de-navidad/",
+            "price": "EUR 30 / 55 / 80 / 105 / 130 / 155 за 1 / 2 / 3 / 4 / 5 / 6 дней на ребёнка.",
+            "place": "Getafe · DigiKids Getafe Centro / Los Molinos",
+            "age": "Возрастные пределы зимних групп пока не указаны.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Условно. Возрастную группу и язык подтвердить до записи."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Условно. Возрастную группу и язык подтвердить до записи."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-29",
+                "topic": "Игры на Scratch, Python или Unity, LEGO Education SPIKE, ИИ, 3D-печать, Roblox Studio, дроны и VR по программе. Распределение тем по дням и возрастам уточнить.",
+                "start_time": "09:30",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+            }
+          },
+          {
+            "start": "2026-12-30",
+            "end": "2026-12-30",
+            "label": "Один день по выбору.",
+            "source": "https://digikids.es/talleres-de-navidad/",
+            "price": "EUR 30 / 55 / 80 / 105 / 130 / 155 за 1 / 2 / 3 / 4 / 5 / 6 дней на ребёнка.",
+            "place": "Getafe · DigiKids Getafe Centro / Los Molinos",
+            "age": "Возрастные пределы зимних групп пока не указаны.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Условно. Возрастную группу и язык подтвердить до записи."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Условно. Возрастную группу и язык подтвердить до записи."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-30",
+                "topic": "Игры на Scratch, Python или Unity, LEGO Education SPIKE, ИИ, 3D-печать, Roblox Studio, дроны и VR по программе. Распределение тем по дням и возрастам уточнить.",
+                "start_time": "09:30",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+            }
+          },
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-04",
+            "label": "Один день по выбору.",
+            "source": "https://digikids.es/talleres-de-navidad/",
+            "price": "EUR 30 / 55 / 80 / 105 / 130 / 155 за 1 / 2 / 3 / 4 / 5 / 6 дней на ребёнка.",
+            "place": "Getafe · DigiKids Getafe Centro / Los Molinos",
+            "age": "Возрастные пределы зимних групп пока не указаны.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Условно. Возрастную группу и язык подтвердить до записи."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Условно. Возрастную группу и язык подтвердить до записи."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "topic": "Игры на Scratch, Python или Unity, LEGO Education SPIKE, ИИ, 3D-печать, Roblox Studio, дроны и VR по программе. Распределение тем по дням и возрастам уточнить.",
+                "start_time": "09:30",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+            }
+          },
+          {
+            "start": "2027-01-05",
+            "end": "2027-01-05",
+            "label": "Один день по выбору.",
+            "source": "https://digikids.es/talleres-de-navidad/",
+            "price": "EUR 30 / 55 / 80 / 105 / 130 / 155 за 1 / 2 / 3 / 4 / 5 / 6 дней на ребёнка.",
+            "place": "Getafe · DigiKids Getafe Centro / Los Molinos",
+            "age": "Возрастные пределы зимних групп пока не указаны.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Условно. Возрастную группу и язык подтвердить до записи."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Условно. Возрастную группу и язык подтвердить до записи."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-05",
+                "topic": "Игры на Scratch, Python или Unity, LEGO Education SPIKE, ИИ, 3D-печать, Roblox Studio, дроны и VR по программе. Распределение тем по дням и возрастам уточнить.",
+                "start_time": "09:30",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+            }
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "EUR",
+        "amount": 30,
+        "unit": "per_child_day",
+        "label": "EUR 30 / 55 / 80 / 105 / 130 / 155 за 1 / 2 / 3 / 4 / 5 / 6 дней на ребёнка.",
+        "included": "Базовые занятия 09:30–13:30.",
+        "extras": "Ранний приём 08:30–09:30 и поздний выезд 13:30–14:30 стоят по EUR 5 за ребёнка в день. На афише указано 10% при бронировании до 30 ноября. Точное время и условия скидки уточнить.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Возрастную группу и язык подтвердить до записи."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Возрастную группу и язык подтвердить до записи."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://digikids.es/talleres-de-navidad/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://digikids.es/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-2.png",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-3.png",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "open",
+        "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-23",
+          "end": "2026-12-23",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1643-20261223-20261223"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-28",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1643-20261228-20261228"
+          ]
+        },
+        {
+          "start": "2026-12-29",
+          "end": "2026-12-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1643-20261229-20261229"
+          ]
+        },
+        {
+          "start": "2026-12-30",
+          "end": "2026-12-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1643-20261230-20261230"
+          ]
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-04",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1643-20270104-20270104"
+          ]
+        },
+        {
+          "start": "2027-01-05",
+          "end": "2027-01-05",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1643-20270105-20270105"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1644",
+      "slug": "salamanca-tech-navidad-2026",
+      "provider": "Salamanca Tech · Navidad 2026/27",
+      "country": "Испания",
+      "iso": "ESP",
+      "place": "Centro Tormes+ · Avenida de Lasalle 131 · Salamanca",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Годы рождения 2015–2020. Нужна регистрация по месту жительства в Саламанке у ребёнка или опекуна, либо место работы опекуна в городе.",
+      "language": "Язык преподавания конкретной группы пока не подтверждён.",
+      "confirmed_instruction_languages": [],
+      "programme": "Робототехника, программирование, создание прототипов, 3D-печать и STEAM. Заявку на братьев и сестёр подают одной семьёй.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Первая смена 23, 28, 29 и 30 декабря, вторая 4, 5, 7 и 8 января. Вход 07:45–09:00, выход 14:00–15:15. По 120 мест. Приём завершился 03.11.2026 в 10:00.",
+        "sessions": [
+          [
+            "2026-12-23",
+            "2026-12-30"
+          ],
+          [
+            "2027-01-04",
+            "2027-01-08"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-23",
+            "end": "2026-12-30",
+            "label": "Дневная мастерская.",
+            "source": "https://tormesplus.com/junior/campamentos-salamanca-tech",
+            "price": "Цена не опубликована.",
+            "place": "Centro Tormes+ · Avenida de Lasalle 131 · Salamanca",
+            "age": "Годы рождения 2015–2020. Нужна регистрация по месту жительства в Саламанке у ребёнка или опекуна, либо место работы опекуна в городе.",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Приём новых заявок на эту смену завершён."
+              },
+              "oscar": {
+                "status": "not_eligible",
+                "detail": "Приём новых заявок на эту смену завершён."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-23",
+                "topic": "Робототехника, программирование, создание прототипов, 3D-печать и STEAM. Заявку на братьев и сестёр подают одной семьёй.",
+                "start_time": "07:45",
+                "end_time": "15:15",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-28",
+                "topic": "Робототехника, программирование, создание прототипов, 3D-печать и STEAM. Заявку на братьев и сестёр подают одной семьёй.",
+                "start_time": "07:45",
+                "end_time": "15:15",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "topic": "Робототехника, программирование, создание прототипов, 3D-печать и STEAM. Заявку на братьев и сестёр подают одной семьёй.",
+                "start_time": "07:45",
+                "end_time": "15:15",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-30",
+                "topic": "Робототехника, программирование, создание прототипов, 3D-печать и STEAM. Заявку на братьев и сестёр подают одной семьёй.",
+                "start_time": "07:45",
+                "end_time": "15:15",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "closed",
+              "label": "Приём новых заявок на эту смену завершён."
+            },
+            "admission_kind": "closed",
+            "entry": "Приём новых заявок на эту смену завершён."
+          },
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-08",
+            "label": "Дневная мастерская.",
+            "source": "https://tormesplus.com/junior/campamentos-salamanca-tech",
+            "price": "Цена не опубликована.",
+            "place": "Centro Tormes+ · Avenida de Lasalle 131 · Salamanca",
+            "age": "Годы рождения 2015–2020. Нужна регистрация по месту жительства в Саламанке у ребёнка или опекуна, либо место работы опекуна в городе.",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Приём новых заявок на эту смену завершён."
+              },
+              "oscar": {
+                "status": "not_eligible",
+                "detail": "Приём новых заявок на эту смену завершён."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "topic": "Робототехника, программирование, создание прототипов, 3D-печать и STEAM. Заявку на братьев и сестёр подают одной семьёй.",
+                "start_time": "07:45",
+                "end_time": "15:15",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-05",
+                "topic": "Робототехника, программирование, создание прототипов, 3D-печать и STEAM. Заявку на братьев и сестёр подают одной семьёй.",
+                "start_time": "07:45",
+                "end_time": "15:15",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-07",
+                "topic": "Робототехника, программирование, создание прототипов, 3D-печать и STEAM. Заявку на братьев и сестёр подают одной семьёй.",
+                "start_time": "07:45",
+                "end_time": "15:15",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-08",
+                "topic": "Робототехника, программирование, создание прототипов, 3D-печать и STEAM. Заявку на братьев и сестёр подают одной семьёй.",
+                "start_time": "07:45",
+                "end_time": "15:15",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "closed",
+              "label": "Приём новых заявок на эту смену завершён."
+            },
+            "admission_kind": "closed",
+            "entry": "Приём новых заявок на эту смену завершён."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "label": "Цена не опубликована.",
+        "included": "Цена не опубликована.",
+        "extras": "Цена не опубликована.",
+        "deposit": "Приём новых заявок на эту смену завершён."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Приём новых заявок на эту смену завершён."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Приём новых заявок на эту смену завершён."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://tormesplus.com/junior/campamentos-salamanca-tech",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "closed",
+        "label": "Приём новых заявок на эту смену завершён."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-23",
+          "end": "2026-12-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1644-20261223-20261230"
+          ]
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1644-20270104-20270108"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1645",
+      "slug": "pulediamante-parquesol-navidad",
+      "provider": "PuleDiamante · Navidades Tecnológicas",
+      "country": "Испания",
+      "iso": "ESP",
+      "place": "Centro de Estudios PLANFORM · Manuel Azaña 22 · Parquesol, Valladolid",
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "От 5 лет, группы по возрасту и уровню.",
+      "language": "Язык преподавания конкретной группы пока не подтверждён.",
+      "confirmed_instruction_languages": [],
+      "programme": "LEGO, программирование, образовательные игры, задачи STEAM и VR по программе.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Карточка даёт 22, 23, 26, 29, 30 декабря и 2, 5, 7 января, 09:00–14:00, но год в заголовке указан неоднозначно. Подтвердить сезон до выбора дней.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "EUR",
+        "amount": 15,
+        "unit": "per_child_day",
+        "label": "EUR 15 за день с НДС по витрине. Тариф и календарь нужного сезона подтвердить.",
+        "included": "Дневная программа без проживания.",
+        "extras": "Цена не опубликована.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://pulediamante.es/navidades-tecnologicas-valladolid",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [
+        "L652"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1646",
+      "slug": "tbkids-barcelona-navidad-2026",
+      "provider": "TBKids Barcelona · Vacaciones cósmicas",
+      "country": "Испания",
+      "iso": "ESP",
+      "place": "TBKids Barcelona · Carrer de Còrsega 98 · L’Eixample",
+      "themes": [
+        "robotics",
+        "coding",
+        "design",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "4–16 лет. Robot Jr 4–6, Robot Plus 6–8, Robot Pro 9–12, Tech Genius с 13 лет. На группу нужно минимум 5 заявок.",
+      "language": "Язык преподавания конкретной группы пока не подтверждён.",
+      "confirmed_instruction_languages": [],
+      "programme": "Робототехника, программирование, LEGO и 3D-дизайн в космической теме. Конкретные платформы и язык подтвердить по группе.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "10 отдельных дней с 22 декабря 2026 по 7 января 2027. Выбираются только опубликованные дни.",
+        "sessions": [
+          [
+            "2026-12-22",
+            "2026-12-22"
+          ],
+          [
+            "2026-12-23",
+            "2026-12-23"
+          ],
+          [
+            "2026-12-24",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-28"
+          ],
+          [
+            "2026-12-29",
+            "2026-12-29"
+          ],
+          [
+            "2026-12-30",
+            "2026-12-30"
+          ],
+          [
+            "2026-12-31",
+            "2026-12-31"
+          ],
+          [
+            "2027-01-04",
+            "2027-01-04"
+          ],
+          [
+            "2027-01-05",
+            "2027-01-05"
+          ],
+          [
+            "2027-01-07",
+            "2027-01-07"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-22",
+            "end": "2026-12-22",
+            "label": "Один день по выбору.",
+            "source": "https://tbkids.es/casal-navidad-barcelona/",
+            "price": "EUR 45 / 88 / 131 / 174 / 217 за 1 / 2 / 3 / 4 / 5 дней. Далее EUR 43 за дополнительный день. Скидка 5% на второго ребёнка.",
+            "place": "TBKids Barcelona · Carrer de Còrsega 98 · L’Eixample",
+            "age": "4–16 лет. Robot Jr 4–6, Robot Plus 6–8, Robot Pro 9–12, Tech Genius с 13 лет. На группу нужно минимум 5 заявок.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "По возрасту подходит Robot Pro 9–12. Подтвердить группу и уровень."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "По возрасту 6 лет подходят Robot Jr и Robot Plus. Подтвердить распределение по уровню."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-22",
+                "topic": "Робототехника, программирование, LEGO и 3D-дизайн в космической теме. Конкретные платформы и язык подтвердить по группе.",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+            }
+          },
+          {
+            "start": "2026-12-23",
+            "end": "2026-12-23",
+            "label": "Один день по выбору.",
+            "source": "https://tbkids.es/casal-navidad-barcelona/",
+            "price": "EUR 45 / 88 / 131 / 174 / 217 за 1 / 2 / 3 / 4 / 5 дней. Далее EUR 43 за дополнительный день. Скидка 5% на второго ребёнка.",
+            "place": "TBKids Barcelona · Carrer de Còrsega 98 · L’Eixample",
+            "age": "4–16 лет. Robot Jr 4–6, Robot Plus 6–8, Robot Pro 9–12, Tech Genius с 13 лет. На группу нужно минимум 5 заявок.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "По возрасту подходит Robot Pro 9–12. Подтвердить группу и уровень."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "По возрасту 6 лет подходят Robot Jr и Robot Plus. Подтвердить распределение по уровню."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-23",
+                "topic": "Робототехника, программирование, LEGO и 3D-дизайн в космической теме. Конкретные платформы и язык подтвердить по группе.",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+            }
+          },
+          {
+            "start": "2026-12-24",
+            "end": "2026-12-24",
+            "label": "Один день по выбору.",
+            "source": "https://tbkids.es/casal-navidad-barcelona/",
+            "price": "EUR 45 / 88 / 131 / 174 / 217 за 1 / 2 / 3 / 4 / 5 дней. Далее EUR 43 за дополнительный день. Скидка 5% на второго ребёнка.",
+            "place": "TBKids Barcelona · Carrer de Còrsega 98 · L’Eixample",
+            "age": "4–16 лет. Robot Jr 4–6, Robot Plus 6–8, Robot Pro 9–12, Tech Genius с 13 лет. На группу нужно минимум 5 заявок.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "По возрасту подходит Robot Pro 9–12. Подтвердить группу и уровень."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "По возрасту 6 лет подходят Robot Jr и Robot Plus. Подтвердить распределение по уровню."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-24",
+                "topic": "Робототехника, программирование, LEGO и 3D-дизайн в космической теме. Конкретные платформы и язык подтвердить по группе.",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+            }
+          },
+          {
+            "start": "2026-12-28",
+            "end": "2026-12-28",
+            "label": "Один день по выбору.",
+            "source": "https://tbkids.es/casal-navidad-barcelona/",
+            "price": "EUR 45 / 88 / 131 / 174 / 217 за 1 / 2 / 3 / 4 / 5 дней. Далее EUR 43 за дополнительный день. Скидка 5% на второго ребёнка.",
+            "place": "TBKids Barcelona · Carrer de Còrsega 98 · L’Eixample",
+            "age": "4–16 лет. Robot Jr 4–6, Robot Plus 6–8, Robot Pro 9–12, Tech Genius с 13 лет. На группу нужно минимум 5 заявок.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "По возрасту подходит Robot Pro 9–12. Подтвердить группу и уровень."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "По возрасту 6 лет подходят Robot Jr и Robot Plus. Подтвердить распределение по уровню."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "topic": "Робототехника, программирование, LEGO и 3D-дизайн в космической теме. Конкретные платформы и язык подтвердить по группе.",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+            }
+          },
+          {
+            "start": "2026-12-29",
+            "end": "2026-12-29",
+            "label": "Один день по выбору.",
+            "source": "https://tbkids.es/casal-navidad-barcelona/",
+            "price": "EUR 45 / 88 / 131 / 174 / 217 за 1 / 2 / 3 / 4 / 5 дней. Далее EUR 43 за дополнительный день. Скидка 5% на второго ребёнка.",
+            "place": "TBKids Barcelona · Carrer de Còrsega 98 · L’Eixample",
+            "age": "4–16 лет. Robot Jr 4–6, Robot Plus 6–8, Robot Pro 9–12, Tech Genius с 13 лет. На группу нужно минимум 5 заявок.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "По возрасту подходит Robot Pro 9–12. Подтвердить группу и уровень."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "По возрасту 6 лет подходят Robot Jr и Robot Plus. Подтвердить распределение по уровню."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-29",
+                "topic": "Робототехника, программирование, LEGO и 3D-дизайн в космической теме. Конкретные платформы и язык подтвердить по группе.",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+            }
+          },
+          {
+            "start": "2026-12-30",
+            "end": "2026-12-30",
+            "label": "Один день по выбору.",
+            "source": "https://tbkids.es/casal-navidad-barcelona/",
+            "price": "EUR 45 / 88 / 131 / 174 / 217 за 1 / 2 / 3 / 4 / 5 дней. Далее EUR 43 за дополнительный день. Скидка 5% на второго ребёнка.",
+            "place": "TBKids Barcelona · Carrer de Còrsega 98 · L’Eixample",
+            "age": "4–16 лет. Robot Jr 4–6, Robot Plus 6–8, Robot Pro 9–12, Tech Genius с 13 лет. На группу нужно минимум 5 заявок.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "По возрасту подходит Robot Pro 9–12. Подтвердить группу и уровень."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "По возрасту 6 лет подходят Robot Jr и Robot Plus. Подтвердить распределение по уровню."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-30",
+                "topic": "Робототехника, программирование, LEGO и 3D-дизайн в космической теме. Конкретные платформы и язык подтвердить по группе.",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+            }
+          },
+          {
+            "start": "2026-12-31",
+            "end": "2026-12-31",
+            "label": "Один день по выбору.",
+            "source": "https://tbkids.es/casal-navidad-barcelona/",
+            "price": "EUR 45 / 88 / 131 / 174 / 217 за 1 / 2 / 3 / 4 / 5 дней. Далее EUR 43 за дополнительный день. Скидка 5% на второго ребёнка.",
+            "place": "TBKids Barcelona · Carrer de Còrsega 98 · L’Eixample",
+            "age": "4–16 лет. Robot Jr 4–6, Robot Plus 6–8, Robot Pro 9–12, Tech Genius с 13 лет. На группу нужно минимум 5 заявок.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "По возрасту подходит Robot Pro 9–12. Подтвердить группу и уровень."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "По возрасту 6 лет подходят Robot Jr и Robot Plus. Подтвердить распределение по уровню."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-31",
+                "topic": "Робототехника, программирование, LEGO и 3D-дизайн в космической теме. Конкретные платформы и язык подтвердить по группе.",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+            }
+          },
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-04",
+            "label": "Один день по выбору.",
+            "source": "https://tbkids.es/casal-navidad-barcelona/",
+            "price": "EUR 45 / 88 / 131 / 174 / 217 за 1 / 2 / 3 / 4 / 5 дней. Далее EUR 43 за дополнительный день. Скидка 5% на второго ребёнка.",
+            "place": "TBKids Barcelona · Carrer de Còrsega 98 · L’Eixample",
+            "age": "4–16 лет. Robot Jr 4–6, Robot Plus 6–8, Robot Pro 9–12, Tech Genius с 13 лет. На группу нужно минимум 5 заявок.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "По возрасту подходит Robot Pro 9–12. Подтвердить группу и уровень."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "По возрасту 6 лет подходят Robot Jr и Robot Plus. Подтвердить распределение по уровню."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "topic": "Робототехника, программирование, LEGO и 3D-дизайн в космической теме. Конкретные платформы и язык подтвердить по группе.",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+            }
+          },
+          {
+            "start": "2027-01-05",
+            "end": "2027-01-05",
+            "label": "Один день по выбору.",
+            "source": "https://tbkids.es/casal-navidad-barcelona/",
+            "price": "EUR 45 / 88 / 131 / 174 / 217 за 1 / 2 / 3 / 4 / 5 дней. Далее EUR 43 за дополнительный день. Скидка 5% на второго ребёнка.",
+            "place": "TBKids Barcelona · Carrer de Còrsega 98 · L’Eixample",
+            "age": "4–16 лет. Robot Jr 4–6, Robot Plus 6–8, Robot Pro 9–12, Tech Genius с 13 лет. На группу нужно минимум 5 заявок.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "По возрасту подходит Robot Pro 9–12. Подтвердить группу и уровень."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "По возрасту 6 лет подходят Robot Jr и Robot Plus. Подтвердить распределение по уровню."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-05",
+                "topic": "Робототехника, программирование, LEGO и 3D-дизайн в космической теме. Конкретные платформы и язык подтвердить по группе.",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+            }
+          },
+          {
+            "start": "2027-01-07",
+            "end": "2027-01-07",
+            "label": "Один день по выбору.",
+            "source": "https://tbkids.es/casal-navidad-barcelona/",
+            "price": "EUR 45 / 88 / 131 / 174 / 217 за 1 / 2 / 3 / 4 / 5 дней. Далее EUR 43 за дополнительный день. Скидка 5% на второго ребёнка.",
+            "place": "TBKids Barcelona · Carrer de Còrsega 98 · L’Eixample",
+            "age": "4–16 лет. Robot Jr 4–6, Robot Plus 6–8, Robot Pro 9–12, Tech Genius с 13 лет. На группу нужно минимум 5 заявок.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "По возрасту подходит Robot Pro 9–12. Подтвердить группу и уровень."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "По возрасту 6 лет подходят Robot Jr и Robot Plus. Подтвердить распределение по уровню."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-07",
+                "topic": "Робототехника, программирование, LEGO и 3D-дизайн в космической теме. Конкретные платформы и язык подтвердить по группе.",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+            }
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "EUR",
+        "amount": 45,
+        "unit": "per_child_day",
+        "label": "EUR 45 / 88 / 131 / 174 / 217 за 1 / 2 / 3 / 4 / 5 дней. Далее EUR 43 за дополнительный день. Скидка 5% на второго ребёнка.",
+        "included": "Занятия 09:00–13:30. Вход 08:00–09:00 и присмотр до 14:00 включены.",
+        "extras": "Присмотр за обедом 14:00–15:00 — EUR 6 в день, еда с собой. Ludotech 15:00–16:00 — EUR 12 в день.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "По возрасту подходит Robot Pro 9–12. Подтвердить группу и уровень."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "По возрасту 6 лет подходят Robot Jr и Robot Plus. Подтвердить распределение по уровню."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://tbkids.es/casal-navidad-barcelona/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "open",
+        "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-22",
+          "end": "2026-12-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1646-20261222-20261222"
+          ]
+        },
+        {
+          "start": "2026-12-23",
+          "end": "2026-12-23",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1646-20261223-20261223"
+          ]
+        },
+        {
+          "start": "2026-12-24",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1646-20261224-20261224"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-28",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1646-20261228-20261228"
+          ]
+        },
+        {
+          "start": "2026-12-29",
+          "end": "2026-12-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1646-20261229-20261229"
+          ]
+        },
+        {
+          "start": "2026-12-30",
+          "end": "2026-12-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1646-20261230-20261230"
+          ]
+        },
+        {
+          "start": "2026-12-31",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1646-20261231-20261231"
+          ]
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-04",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1646-20270104-20270104"
+          ]
+        },
+        {
+          "start": "2027-01-05",
+          "end": "2027-01-05",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1646-20270105-20270105"
+          ]
+        },
+        {
+          "start": "2027-01-07",
+          "end": "2027-01-07",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1646-20270107-20270107"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1647",
+      "slug": "kidsus-vaguada-winter-2026",
+      "provider": "Kids&Us La Vaguada · The Perfect Christmas",
+      "country": "Испания",
+      "iso": "ESP",
+      "place": "Kids&Us La Vaguada · Plaza de Arteijo 9 · local 7 · Madrid",
+      "themes": [
+        "general",
+        "languages",
+        "creative"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "3–10 лет. Принимают детей, которые не учатся в Kids&Us.",
+      "language": "Все занятия проходят на английском.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "Общий дневной лагерь: творчество, музыка, рассказы и командные игры на английском.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Занятия 09:00–13:00. Вход с 08:45, выход до 13:30.",
+        "sessions": [
+          [
+            "2026-12-28",
+            "2026-12-30"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-28",
+            "end": "2026-12-30",
+            "label": "Дневная мастерская.",
+            "source": "https://www.kidsandus.es/es/academias-ingles/kidsus-vaguada/ya-aqui-fun-week-navidad",
+            "price": "EUR 110 за 3 дня для внешнего ученика или EUR 95 для ученика Kids&Us.",
+            "place": "Kids&Us La Vaguada · Plaza de Arteijo 9 · local 7 · Madrid",
+            "age": "3–10 лет. Принимают детей, которые не учатся в Kids&Us.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "topic": "Общий дневной лагерь: творчество, музыка, рассказы и командные игры на английском.",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "topic": "Общий дневной лагерь: творчество, музыка, рассказы и командные игры на английском.",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-30",
+                "topic": "Общий дневной лагерь: творчество, музыка, рассказы и командные игры на английском.",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+            }
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "EUR",
+        "amount": 110,
+        "unit": "per_child_course",
+        "label": "EUR 110 за 3 дня для внешнего ученика или EUR 95 для ученика Kids&Us.",
+        "included": "Занятия 09:00–13:00. Вход с 08:45, выход до 13:30.",
+        "extras": "Цена не опубликована.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://www.kidsandus.es/es/academias-ingles/kidsus-vaguada/ya-aqui-fun-week-navidad",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "open",
+        "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+      },
+      "programme_type": "general_day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1647-20261228-20261230"
+          ]
+        }
+      ]
     }
   ],
   "gaps": [
@@ -271958,7 +273823,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 211,
+  "version": 212,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -285193,7 +287058,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1638,
+      "total_dossiers": 1647,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -303018,6 +304883,126 @@
       "relation": "related_track_or_operator"
     },
     {
+      "programme_id": "CP1639",
+      "event_id": "CP1639-20270104-20270105",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1640",
+      "event_id": "CP1640-20261223-20261224",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1641",
+      "event_id": "CP1641-20261228-20261231",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1642",
+      "event_id": "CP1642-20270104-20270105",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1643",
+      "event_id": "CP1643-20261223-20261223",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1643",
+      "event_id": "CP1643-20261228-20261228",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1643",
+      "event_id": "CP1643-20261229-20261229",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1643",
+      "event_id": "CP1643-20261230-20261230",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1643",
+      "event_id": "CP1643-20270104-20270104",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1643",
+      "event_id": "CP1643-20270105-20270105",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1644",
+      "event_id": "CP1644-20261223-20261230",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1644",
+      "event_id": "CP1644-20270104-20270108",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1645",
+      "event_id": "L652",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP1646",
+      "event_id": "CP1646-20261222-20261222",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1646",
+      "event_id": "CP1646-20261223-20261223",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1646",
+      "event_id": "CP1646-20261224-20261224",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1646",
+      "event_id": "CP1646-20261228-20261228",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1646",
+      "event_id": "CP1646-20261229-20261229",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1646",
+      "event_id": "CP1646-20261230-20261230",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1646",
+      "event_id": "CP1646-20261231-20261231",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1646",
+      "event_id": "CP1646-20270104-20270104",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1646",
+      "event_id": "CP1646-20270105-20270105",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1646",
+      "event_id": "CP1646-20270107-20270107",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1647",
+      "event_id": "CP1647-20261228-20261230",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -306829,10 +308814,33 @@
     "CP1631-20261214-20261218",
     "CP1631-20261221-20261224",
     "CP1632-20261214-20261218",
-    "CP1632-20261221-20261225"
+    "CP1632-20261221-20261225",
+    "CP1639-20270104-20270105",
+    "CP1640-20261223-20261224",
+    "CP1641-20261228-20261231",
+    "CP1642-20270104-20270105",
+    "CP1643-20261223-20261223",
+    "CP1643-20261228-20261228",
+    "CP1643-20261229-20261229",
+    "CP1643-20261230-20261230",
+    "CP1643-20270104-20270104",
+    "CP1643-20270105-20270105",
+    "CP1644-20261223-20261230",
+    "CP1644-20270104-20270108",
+    "CP1646-20261222-20261222",
+    "CP1646-20261223-20261223",
+    "CP1646-20261224-20261224",
+    "CP1646-20261228-20261228",
+    "CP1646-20261229-20261229",
+    "CP1646-20261230-20261230",
+    "CP1646-20261231-20261231",
+    "CP1646-20270104-20270104",
+    "CP1646-20270105-20270105",
+    "CP1646-20270107-20270107",
+    "CP1647-20261228-20261230"
   ],
   "integration": {
-    "generated_sessions": 3381,
+    "generated_sessions": 3404,
     "reused_legacy_events": 69,
     "seasonal_windows": 60,
     "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."

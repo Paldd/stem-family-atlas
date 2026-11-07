@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 7463,
-    "competition_cards": 3121,
-    "event_cards": 310,
-    "camp_cards": 4032,
-    "league_profiles": 263,
-    "major_exhibition_cards": 222,
+    "cards": 7498,
+    "competition_cards": 3128,
+    "event_cards": 314,
+    "camp_cards": 4056,
+    "league_profiles": 264,
+    "major_exhibition_cards": 226,
     "vex_cards": 518,
     "countries_with_records": 158,
     "fully_audited_countries": 0
@@ -34,9 +34,9 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 2573,
+      "total": 2575,
       "countries_with_records": 23,
-      "competitions": 1432,
+      "competitions": 1434,
       "events": 78,
       "major_exhibitions": 41,
       "camps": 1063,
@@ -62,12 +62,12 @@
       "regions": [
         "Европа"
       ],
-      "total": 1757,
+      "total": 1790,
       "countries_with_records": 42,
-      "competitions": 414,
-      "events": 87,
-      "major_exhibitions": 68,
-      "camps": 1256,
+      "competitions": 419,
+      "events": 91,
+      "major_exhibitions": 72,
+      "camps": 1280,
       "status": "Частично исследовано",
       "remaining": "CHE/ESP/FRA углублены повторно. Не закрыты все местные лиги, новые qualifiers 2027, преподавание на английском / испанском, иностранные квоты, текущие juniormentors и полные школьные протоколы 5–10 лет. Германия / Нидерланды / Бельгия: первый частичный проход; все местные клубы, языки, иностранные квоты и полные школьные результаты остаются открыты."
     },
@@ -5928,11 +5928,13 @@
         "C3116",
         "C3117",
         "C3118",
-        "C3119"
+        "C3119",
+        "C3128",
+        "C3129"
       ],
-      "cards": 5,
-      "future_dated": 5,
-      "linked_card_count": 5,
+      "cards": 7,
+      "future_dated": 7,
+      "linked_card_count": 7,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.spaceappschallenge.org/2026/",
       "new": false
@@ -5963,6 +5965,22 @@
       "linked_card_count": 1,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.mep.go.cr/noticias/calendario-escolar-2027-clases-1o-marzo-30-noviembre",
+      "new": false
+    },
+    {
+      "id": "eurobot-spain",
+      "name": "Eurobot Spain · Junior / Novel",
+      "group": "regional",
+      "event_ids": [
+        "C3123",
+        "C3124",
+        "C3125"
+      ],
+      "cards": 3,
+      "future_dated": 0,
+      "linked_card_count": 4,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.eurobot.es/inscripcion-de-equipo/",
       "new": false
     },
     {
@@ -9433,6 +9451,50 @@
       "new": false
     },
     {
+      "id": "E311",
+      "name": "Conoce Eurobot Spain 2027 · Semana de la Ciencia",
+      "country": "Испания",
+      "region": "Европа",
+      "start": "2026-11-25",
+      "end": "2026-11-25",
+      "visitor_policy": "family",
+      "source": "https://semanacienciamadrid.org/actividad/conoce-la-competicion-de-robotica-eurobot-spain",
+      "new": false
+    },
+    {
+      "id": "E312",
+      "name": "Salón del Videojuego de Madrid 2026",
+      "country": "Испания",
+      "region": "Европа",
+      "start": "2026-12-05",
+      "end": "2026-12-06",
+      "visitor_policy": "family",
+      "source": "https://salonvideojuego.com/entradas/",
+      "new": false
+    },
+    {
+      "id": "E313",
+      "name": "InterOcio 2027 · juegos y prototipos",
+      "country": "Испания",
+      "region": "Европа",
+      "start": "2027-04-02",
+      "end": "2027-04-04",
+      "visitor_policy": "family",
+      "source": "https://feriainterocio.com/",
+      "new": false
+    },
+    {
+      "id": "E314",
+      "name": "La fira dels Invents · Desafío Robot 2027",
+      "country": "Испания",
+      "region": "Европа",
+      "start": "2027-05-28",
+      "end": "2027-05-28",
+      "visitor_policy": "family",
+      "source": "https://cac.es/web/desafio-robot/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -11850,14 +11912,14 @@
       }
     ],
     "counts": {
-      "records": 4032,
-      "holiday": 3758,
+      "records": 4056,
+      "holiday": 3782,
       "regular": 120,
       "self_paced_materials": 2,
       "boarding": 1026,
-      "en_es_instruction": 1259,
+      "en_es_instruction": 1260,
       "en_es_support": 12,
-      "family_instruction": 1259,
+      "family_instruction": 1260,
       "family_support": 12,
       "ru_instruction": 3,
       "language_lessons": 408,

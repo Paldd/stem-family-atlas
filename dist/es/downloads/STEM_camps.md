@@ -9206,6 +9206,22 @@ Limitaciones: El organizador indica matrícula abierta. Confirmar fechas, horari
 Fuente: https://www.citc.cr/cursos/jovenes-ingenieros/algoc/
 Se ha comprobado: 2026-11-07
 
+### L652 · PuleDiamante · Navidades Tecnológicas
+
+lugar: España · Centro de Estudios PLANFORM · Manuel Azaña 22 · Parquesol, Valladolid
+Fecha: La ficha indica 22, 23, 26, 29, 30 de diciembre y 2, 5, 7 de enero, 09:00–14:00, pero el año del título es ambiguo. Confirmar temporada antes de elegir los días.
+edad: Desde 5 años, grupos por edad y nivel.
+Matvey: Condicional. Confirmar grupo de edad e idioma antes de inscribirse.
+Oscar: Condicional. Confirmar grupo de edad e idioma antes de inscribirse.
+Formato: holiday_workshop
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: EUR 15 por día con IVA según la tienda. Confirmar tarifa y calendario de la temporada elegida.
+Acceso: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Restricciones: La ficha indica 22, 23, 26, 29, 30 de diciembre y 2, 5, 7 de enero, 09:00–14:00, pero el año del título es ambiguo. Confirmar temporada antes de elegir los días.
+Fuente: https://pulediamante.es/navidades-tecnologicas-valladolid
+Se ha comprobado: 2026-11-07
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -63300,6 +63316,374 @@ Precio: 2026/27 · JPY 19800 por día. Semana: 88000 para socios, 99000 para no 
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Con la edad indicada de 9 años el grupo de 4–8 no encaja. Para edades límite, confirmar la fecha de corte. Oscar: Edad adecuada. El organizador confirma la plaza. Suplementos: Primer día desde 27500, primera semana desde 106700 con inscripción única de campamentos. Chino 15:00–15:45 por 3300 aparte. Actividad de tarde 12100 para socios o participantes de ese día, 14300 para el resto. Pago: Pago y confirmación mediante el organizador. Verificar plaza y condiciones de reembolso.
 Fuente: https://www.luminasoiree.com/en/wintercamp2026
+Se ha comprobado: 2026-11-07
+
+### CP1639-20270104-20270105 · Fundación Ibercaja Actur · Navidad LEGO · Robótica para el futuro · Taller diurno. · 2027-01-04–2027-01-05
+
+lugar: España · Fundación Ibercaja Actur · Antón García Abril 1 · Zaragoza
+Fecha: 2027-01-04 — 2027-01-05
+Edad: 7 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 55 por curso. EUR 45 según condiciones de pago con tarjeta Ibercaja o para hermanos inscritos en talleres navideños. Confirmar aplicación. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Condicional si ya ha cumplido 7 años al comenzar el taller. Suplementos: Confirmar materiales adicionales y condiciones de cancelación. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.fundacionibercaja.es/actividades/cursos-y-talleres/navidad-lego-robotica-para-el-futuro-zaragoza-navidad-2026/
+Se ha comprobado: 2026-11-07
+
+### CP1640-20261223-20261224 · Fundación Ibercaja Actur · Navidad 360º · La magia te rodea · Taller diurno. · 2026-12-23–2026-12-24
+
+lugar: España · Fundación Ibercaja Actur · Antón García Abril 1 · Zaragoza
+Fecha: 2026-12-23 国 2026-12-24
+Edad: 7 a 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 55 por curso. EUR 45 según condiciones de pago con tarjeta Ibercaja o para hermanos inscritos en talleres navideños. Confirmar aplicación. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad encaja en el rango. Confirmar alternativa a la RV para menores de 10 años. Oscar: Condicional si ya ha cumplido 7 años al comenzar el taller. Suplementos: Confirmar materiales adicionales y condiciones de cancelación. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.fundacionibercaja.es/actividades/cursos-y-talleres/navidad-360-la-magia-te-rodea-navidad-2026/
+Se ha comprobado: 2026-11-07
+
+### CP1641-20261228-20261231 · Fundación Ibercaja Actur · Minecraft · El secreto de los mundos helados · Taller diurno. · 2026-12-28–2026-12-31
+
+lugar: España · Fundación Ibercaja Actur · Antón García Abril 1 · Zaragoza
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 8 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 99 por curso. EUR 85 según condiciones de pago con tarjeta Ibercaja o para hermanos inscritos en talleres navideños. Confirmar aplicación. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: No por ahora. Mínimo 8 años en el programa elegido. Suplementos: Confirmar materiales adicionales y condiciones de cancelación. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.fundacionibercaja.es/actividades/cursos-y-talleres/minecraft-el-secreto-de-los-mundos-helados-navidad-2026/
+Se ha comprobado: 2026-11-07
+
+### CP1642-20270104-20270105 · Fundación Ibercaja Actur · Iníciate en el Arte digital · Taller diurno. · 2027-01-04–2027-01-05
+
+lugar: España · Fundación Ibercaja Actur · Antón García Abril 1 · Zaragoza
+Fecha: 2027-01-04 — 2027-01-05
+Edad: 7–13 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 55 por curso. EUR 45 según condiciones de pago con tarjeta Ibercaja o para hermanos inscritos en talleres navideños. Confirmar aplicación. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Condicional si ya ha cumplido 7 años al comenzar el taller. Suplementos: Confirmar materiales adicionales y condiciones de cancelación. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.fundacionibercaja.es/actividades/cursos-y-talleres/iniciate-en-el-arte-digital-esperando-a-los-reyes-navidad-2026/
+Se ha comprobado: 2026-11-07
+
+### CP1643-20261223-20261223 · DigiKids Getafe · Talleres de Navidad 2026/27 · Un día a elegir. · 2026-12-23–2026-12-23
+
+lugar: España · Getafe · DigiKids Getafe Centro / Los Molinos
+Fecha: 2026-12-23 — 2026-12-23
+edad: Los límites de edad de los grupos de invierno aún no se indican.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 30 / 55 / 80 / 105 / 130 / 155 por 1 / 2 / 3 / 4 / 5 / 6 días por menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar grupo de edad e idioma antes de inscribirse. Oscar: Condicional. Confirmar grupo de edad e idioma antes de inscribirse. Suplementos: Entrada temprana 08:30–09:30 y recogida tardía 13:30–14:30 cuestan EUR 5 cada una por menor y día. El cartel indica 10% al reservar antes del 30 de noviembre. Confirmar hora límite y condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://digikids.es/talleres-de-navidad/
+Se ha comprobado: 2026-11-07
+
+### CP1643-20261228-20261228 · DigiKids Getafe · Talleres de Navidad 2026/27 · Un día a elegir. · 2026-12-28–2026-12-28
+
+lugar: España · Getafe · DigiKids Getafe Centro / Los Molinos
+Fecha: 2026-12-28 — 2026-12-28
+edad: Los límites de edad de los grupos de invierno aún no se indican.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 30 / 55 / 80 / 105 / 130 / 155 por 1 / 2 / 3 / 4 / 5 / 6 días por menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar grupo de edad e idioma antes de inscribirse. Oscar: Condicional. Confirmar grupo de edad e idioma antes de inscribirse. Suplementos: Entrada temprana 08:30–09:30 y recogida tardía 13:30–14:30 cuestan EUR 5 cada una por menor y día. El cartel indica 10% al reservar antes del 30 de noviembre. Confirmar hora límite y condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://digikids.es/talleres-de-navidad/
+Se ha comprobado: 2026-11-07
+
+### CP1643-20261229-20261229 · DigiKids Getafe · Talleres de Navidad 2026/27 · Un día a elegir. · 2026-12-29–2026-12-29
+
+lugar: España · Getafe · DigiKids Getafe Centro / Los Molinos
+Fecha: 2026-12-29 — 2026-12-29
+edad: Los límites de edad de los grupos de invierno aún no se indican.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 30 / 55 / 80 / 105 / 130 / 155 por 1 / 2 / 3 / 4 / 5 / 6 días por menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar grupo de edad e idioma antes de inscribirse. Oscar: Condicional. Confirmar grupo de edad e idioma antes de inscribirse. Suplementos: Entrada temprana 08:30–09:30 y recogida tardía 13:30–14:30 cuestan EUR 5 cada una por menor y día. El cartel indica 10% al reservar antes del 30 de noviembre. Confirmar hora límite y condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://digikids.es/talleres-de-navidad/
+Se ha comprobado: 2026-11-07
+
+### CP1643-20261230-20261230 · DigiKids Getafe · Talleres de Navidad 2026/27 · Un día a elegir. · 2026-12-30–2026-12-30
+
+lugar: España · Getafe · DigiKids Getafe Centro / Los Molinos
+Fecha: 2026-12-30 — 2026-12-30
+edad: Los límites de edad de los grupos de invierno aún no se indican.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 30 / 55 / 80 / 105 / 130 / 155 por 1 / 2 / 3 / 4 / 5 / 6 días por menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar grupo de edad e idioma antes de inscribirse. Oscar: Condicional. Confirmar grupo de edad e idioma antes de inscribirse. Suplementos: Entrada temprana 08:30–09:30 y recogida tardía 13:30–14:30 cuestan EUR 5 cada una por menor y día. El cartel indica 10% al reservar antes del 30 de noviembre. Confirmar hora límite y condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://digikids.es/talleres-de-navidad/
+Se ha comprobado: 2026-11-07
+
+### CP1643-20270104-20270104 · DigiKids Getafe · Talleres de Navidad 2026/27 · Un día a elegir. · 2027-01-04–2027-01-04
+
+lugar: España · Getafe · DigiKids Getafe Centro / Los Molinos
+Fecha: 2027-01-04 — 2027-01-04
+edad: Los límites de edad de los grupos de invierno aún no se indican.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 30 / 55 / 80 / 105 / 130 / 155 por 1 / 2 / 3 / 4 / 5 / 6 días por menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar grupo de edad e idioma antes de inscribirse. Oscar: Condicional. Confirmar grupo de edad e idioma antes de inscribirse. Suplementos: Entrada temprana 08:30–09:30 y recogida tardía 13:30–14:30 cuestan EUR 5 cada una por menor y día. El cartel indica 10% al reservar antes del 30 de noviembre. Confirmar hora límite y condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://digikids.es/talleres-de-navidad/
+Se ha comprobado: 2026-11-07
+
+### CP1643-20270105-20270105 · DigiKids Getafe · Talleres de Navidad 2026/27 · Un día a elegir. · 2027-01-05–2027-01-05
+
+lugar: España · Getafe · DigiKids Getafe Centro / Los Molinos
+Fecha: 2027-01-05 — 2027-01-05
+edad: Los límites de edad de los grupos de invierno aún no se indican.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 30 / 55 / 80 / 105 / 130 / 155 por 1 / 2 / 3 / 4 / 5 / 6 días por menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar grupo de edad e idioma antes de inscribirse. Oscar: Condicional. Confirmar grupo de edad e idioma antes de inscribirse. Suplementos: Entrada temprana 08:30–09:30 y recogida tardía 13:30–14:30 cuestan EUR 5 cada una por menor y día. El cartel indica 10% al reservar antes del 30 de noviembre. Confirmar hora límite y condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://digikids.es/talleres-de-navidad/
+Se ha comprobado: 2026-11-07
+
+### CP1644-20261223-20261230 · Salamanca Tech · Navidad 2026/27 · Taller diurno. · 2026-12-23–2026-12-30
+
+lugar: España · Centro Tormes+ · Avenida de Lasalle 131 · Salamanca
+Fecha: 2026-12-23 — 2026-12-30
+edad: Años de nacimiento 2015–2020. El menor o tutor debe estar empadronado en Salamanca, o el tutor debe trabajar en la ciudad.
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio sin publicar. · suplementos y condiciones en el dossier
+Acceso: Finalizó la recepción de nuevas solicitudes para este turno.
+Limitaciones: Matvey: Finalizó la recepción de nuevas solicitudes para este turno. Oscar: Finalizó la recepción de nuevas solicitudes para este turno. Suplementos: Precio sin publicar. Pago: Finalizó la recepción de nuevas solicitudes para este turno.
+Fuente: https://tormesplus.com/junior/campamentos-salamanca-tech
+Se ha comprobado: 2026-11-07
+
+### CP1644-20270104-20270108 · Salamanca Tech · Navidad 2026/27 · Taller diurno. · 2027-01-04–2027-01-08
+
+lugar: España · Centro Tormes+ · Avenida de Lasalle 131 · Salamanca
+Fecha: 2027-01-04 — 2027-01-08
+edad: Años de nacimiento 2015–2020. El menor o tutor debe estar empadronado en Salamanca, o el tutor debe trabajar en la ciudad.
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Precio sin publicar. · suplementos y condiciones en el dossier
+Acceso: Finalizó la recepción de nuevas solicitudes para este turno.
+Limitaciones: Matvey: Finalizó la recepción de nuevas solicitudes para este turno. Oscar: Finalizó la recepción de nuevas solicitudes para este turno. Suplementos: Precio sin publicar. Pago: Finalizó la recepción de nuevas solicitudes para este turno.
+Fuente: https://tormesplus.com/junior/campamentos-salamanca-tech
+Se ha comprobado: 2026-11-07
+
+### CP1646-20261222-20261222 · TBKids Barcelona · Vacaciones cósmicas · Un día a elegir. · 2026-12-22–2026-12-22
+
+lugar: España · TBKids Barcelona · Carrer de Còrsega 98 · L’Eixample
+Fecha: 2026-12-22 — 2026-12-22
+edad: 4–16 años. Robot Jr 4–6, Robot Plus 6–8, Robot Pro 9–12, Tech Genius desde 13 años. Mínimo 5 inscripciones por grupo.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 45 / 88 / 131 / 174 / 217 por 1 / 2 / 3 / 4 / 5 días. Después EUR 43 por día adicional. Descuento 5% para el segundo hermano. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Por edad encaja Robot Pro 9–12. Confirmar grupo y nivel. Oscar: Con 6 años encaja Robot Jr o Robot Plus. Confirmar asignación según nivel. Suplementos: Cuidado en comedor 14:00–15:00 por EUR 6 al día, comida de casa. Ludotech 15:00–16:00 por EUR 12 al día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://tbkids.es/casal-navidad-barcelona/
+Se ha comprobado: 2026-11-07
+
+### CP1646-20261223-20261223 · TBKids Barcelona · Vacaciones cósmicas · Un día a elegir. · 2026-12-23–2026-12-23
+
+lugar: España · TBKids Barcelona · Carrer de Còrsega 98 · L’Eixample
+Fecha: 2026-12-23 — 2026-12-23
+edad: 4–16 años. Robot Jr 4–6, Robot Plus 6–8, Robot Pro 9–12, Tech Genius desde 13 años. Mínimo 5 inscripciones por grupo.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 45 / 88 / 131 / 174 / 217 por 1 / 2 / 3 / 4 / 5 días. Después EUR 43 por día adicional. Descuento 5% para el segundo hermano. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Por edad encaja Robot Pro 9–12. Confirmar grupo y nivel. Oscar: Con 6 años encaja Robot Jr o Robot Plus. Confirmar asignación según nivel. Suplementos: Cuidado en comedor 14:00–15:00 por EUR 6 al día, comida de casa. Ludotech 15:00–16:00 por EUR 12 al día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://tbkids.es/casal-navidad-barcelona/
+Se ha comprobado: 2026-11-07
+
+### CP1646-20261224-20261224 · TBKids Barcelona · Vacaciones cósmicas · Un día a elegir. · 2026-12-24–2026-12-24
+
+lugar: España · TBKids Barcelona · Carrer de Còrsega 98 · L’Eixample
+Fecha: 2026-12-24 — 2026-12-24
+edad: 4–16 años. Robot Jr 4–6, Robot Plus 6–8, Robot Pro 9–12, Tech Genius desde 13 años. Mínimo 5 inscripciones por grupo.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 45 / 88 / 131 / 174 / 217 por 1 / 2 / 3 / 4 / 5 días. Después EUR 43 por día adicional. Descuento 5% para el segundo hermano. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Por edad encaja Robot Pro 9–12. Confirmar grupo y nivel. Oscar: Con 6 años encaja Robot Jr o Robot Plus. Confirmar asignación según nivel. Suplementos: Cuidado en comedor 14:00–15:00 por EUR 6 al día, comida de casa. Ludotech 15:00–16:00 por EUR 12 al día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://tbkids.es/casal-navidad-barcelona/
+Se ha comprobado: 2026-11-07
+
+### CP1646-20261228-20261228 · TBKids Barcelona · Vacaciones cósmicas · Un día a elegir. · 2026-12-28–2026-12-28
+
+lugar: España · TBKids Barcelona · Carrer de Còrsega 98 · L’Eixample
+Fecha: 2026-12-28 — 2026-12-28
+edad: 4–16 años. Robot Jr 4–6, Robot Plus 6–8, Robot Pro 9–12, Tech Genius desde 13 años. Mínimo 5 inscripciones por grupo.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 45 / 88 / 131 / 174 / 217 por 1 / 2 / 3 / 4 / 5 días. Después EUR 43 por día adicional. Descuento 5% para el segundo hermano. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Por edad encaja Robot Pro 9–12. Confirmar grupo y nivel. Oscar: Con 6 años encaja Robot Jr o Robot Plus. Confirmar asignación según nivel. Suplementos: Cuidado en comedor 14:00–15:00 por EUR 6 al día, comida de casa. Ludotech 15:00–16:00 por EUR 12 al día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://tbkids.es/casal-navidad-barcelona/
+Se ha comprobado: 2026-11-07
+
+### CP1646-20261229-20261229 · TBKids Barcelona · Vacaciones cósmicas · Un día a elegir. · 2026-12-29–2026-12-29
+
+lugar: España · TBKids Barcelona · Carrer de Còrsega 98 · L’Eixample
+Fecha: 2026-12-29 — 2026-12-29
+edad: 4–16 años. Robot Jr 4–6, Robot Plus 6–8, Robot Pro 9–12, Tech Genius desde 13 años. Mínimo 5 inscripciones por grupo.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 45 / 88 / 131 / 174 / 217 por 1 / 2 / 3 / 4 / 5 días. Después EUR 43 por día adicional. Descuento 5% para el segundo hermano. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Por edad encaja Robot Pro 9–12. Confirmar grupo y nivel. Oscar: Con 6 años encaja Robot Jr o Robot Plus. Confirmar asignación según nivel. Suplementos: Cuidado en comedor 14:00–15:00 por EUR 6 al día, comida de casa. Ludotech 15:00–16:00 por EUR 12 al día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://tbkids.es/casal-navidad-barcelona/
+Se ha comprobado: 2026-11-07
+
+### CP1646-20261230-20261230 · TBKids Barcelona · Vacaciones cósmicas · Un día a elegir. · 2026-12-30–2026-12-30
+
+lugar: España · TBKids Barcelona · Carrer de Còrsega 98 · L’Eixample
+Fecha: 2026-12-30 — 2026-12-30
+edad: 4–16 años. Robot Jr 4–6, Robot Plus 6–8, Robot Pro 9–12, Tech Genius desde 13 años. Mínimo 5 inscripciones por grupo.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 45 / 88 / 131 / 174 / 217 por 1 / 2 / 3 / 4 / 5 días. Después EUR 43 por día adicional. Descuento 5% para el segundo hermano. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Por edad encaja Robot Pro 9–12. Confirmar grupo y nivel. Oscar: Con 6 años encaja Robot Jr o Robot Plus. Confirmar asignación según nivel. Suplementos: Cuidado en comedor 14:00–15:00 por EUR 6 al día, comida de casa. Ludotech 15:00–16:00 por EUR 12 al día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://tbkids.es/casal-navidad-barcelona/
+Se ha comprobado: 2026-11-07
+
+### CP1646-20261231-20261231 · TBKids Barcelona · Vacaciones cósmicas · Un día a elegir. · 2026-12-31–2026-12-31
+
+lugar: España · TBKids Barcelona · Carrer de Còrsega 98 · L’Eixample
+Fecha: 2026-12-31 — 2026-12-31
+edad: 4–16 años. Robot Jr 4–6, Robot Plus 6–8, Robot Pro 9–12, Tech Genius desde 13 años. Mínimo 5 inscripciones por grupo.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 45 / 88 / 131 / 174 / 217 por 1 / 2 / 3 / 4 / 5 días. Después EUR 43 por día adicional. Descuento 5% para el segundo hermano. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Por edad encaja Robot Pro 9–12. Confirmar grupo y nivel. Oscar: Con 6 años encaja Robot Jr o Robot Plus. Confirmar asignación según nivel. Suplementos: Cuidado en comedor 14:00–15:00 por EUR 6 al día, comida de casa. Ludotech 15:00–16:00 por EUR 12 al día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://tbkids.es/casal-navidad-barcelona/
+Se ha comprobado: 2026-11-07
+
+### CP1646-20270104-20270104 · TBKids Barcelona · Vacaciones cósmicas · Un día a elegir. · 2027-01-04–2027-01-04
+
+lugar: España · TBKids Barcelona · Carrer de Còrsega 98 · L’Eixample
+Fecha: 2027-01-04 — 2027-01-04
+edad: 4–16 años. Robot Jr 4–6, Robot Plus 6–8, Robot Pro 9–12, Tech Genius desde 13 años. Mínimo 5 inscripciones por grupo.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 45 / 88 / 131 / 174 / 217 por 1 / 2 / 3 / 4 / 5 días. Después EUR 43 por día adicional. Descuento 5% para el segundo hermano. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Por edad encaja Robot Pro 9–12. Confirmar grupo y nivel. Oscar: Con 6 años encaja Robot Jr o Robot Plus. Confirmar asignación según nivel. Suplementos: Cuidado en comedor 14:00–15:00 por EUR 6 al día, comida de casa. Ludotech 15:00–16:00 por EUR 12 al día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://tbkids.es/casal-navidad-barcelona/
+Se ha comprobado: 2026-11-07
+
+### CP1646-20270105-20270105 · TBKids Barcelona · Vacaciones cósmicas · Un día a elegir. · 2027-01-05–2027-01-05
+
+lugar: España · TBKids Barcelona · Carrer de Còrsega 98 · L’Eixample
+Fecha: 2027-01-05 — 2027-01-05
+edad: 4–16 años. Robot Jr 4–6, Robot Plus 6–8, Robot Pro 9–12, Tech Genius desde 13 años. Mínimo 5 inscripciones por grupo.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 45 / 88 / 131 / 174 / 217 por 1 / 2 / 3 / 4 / 5 días. Después EUR 43 por día adicional. Descuento 5% para el segundo hermano. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Por edad encaja Robot Pro 9–12. Confirmar grupo y nivel. Oscar: Con 6 años encaja Robot Jr o Robot Plus. Confirmar asignación según nivel. Suplementos: Cuidado en comedor 14:00–15:00 por EUR 6 al día, comida de casa. Ludotech 15:00–16:00 por EUR 12 al día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://tbkids.es/casal-navidad-barcelona/
+Se ha comprobado: 2026-11-07
+
+### CP1646-20270107-20270107 · TBKids Barcelona · Vacaciones cósmicas · Un día a elegir. · 2027-01-07–2027-01-07
+
+lugar: España · TBKids Barcelona · Carrer de Còrsega 98 · L’Eixample
+Fecha: 2027-01-07 — 2027-01-07
+edad: 4–16 años. Robot Jr 4–6, Robot Plus 6–8, Robot Pro 9–12, Tech Genius desde 13 años. Mínimo 5 inscripciones por grupo.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 45 / 88 / 131 / 174 / 217 por 1 / 2 / 3 / 4 / 5 días. Después EUR 43 por día adicional. Descuento 5% para el segundo hermano. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Por edad encaja Robot Pro 9–12. Confirmar grupo y nivel. Oscar: Con 6 años encaja Robot Jr o Robot Plus. Confirmar asignación según nivel. Suplementos: Cuidado en comedor 14:00–15:00 por EUR 6 al día, comida de casa. Ludotech 15:00–16:00 por EUR 12 al día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://tbkids.es/casal-navidad-barcelona/
+Se ha comprobado: 2026-11-07
+
+### CP1647-20261228-20261230 · Kids&Us La Vaguada · The Perfect Christmas · Taller diurno. · 2026-12-28–2026-12-30
+
+lugar: España · Kids&Us La Vaguada · Plaza de Arteijo 9 · local 7 · Madrid
+Fecha: 2026-12-28 — 2026-12-30
+edad: 3–10 años. Admiten a menores que no estudian en Kids&Us.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Todas las actividades se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · EUR 110 por 3 días para no alumnos o EUR 95 para alumnos de Kids&Us. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.kidsandus.es/es/academias-ingles/kidsus-vaguada/ya-aqui-fun-week-navidad
 Se ha comprobado: 2026-11-07
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

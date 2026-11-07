@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 7463; competiciones: 3121; eventos: 310; campamentos / programas: 4032. Perfiles de ligas y programas: 263. Fichas de exposiciones grandes y especializadas: 222 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 7498; competiciones: 3128; eventos: 314; campamentos / programas: 4056. Perfiles de ligas y programas: 264. Fichas de exposiciones grandes y especializadas: 226 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros concretos de 158 de 249 países y territorios; países auditados por completo: 0. Revisión histórica v51: se añadieron 21 fichas y 3 perfiles. Todas las fichas anteriores se conservan.
 
@@ -14,16 +14,16 @@ Hay registros concretos de 158 de 249 países y territorios; países auditados p
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 23 | 1432 | 41 | 1063 |
+| América del Norte | 23 | 1434 | 41 | 1063 |
 | América del Sur | 10 | 195 | 11 | 132 |
-| Europa | 42 | 414 | 68 | 1256 |
+| Europa | 42 | 419 | 72 | 1280 |
 | África | 34 | 115 | 15 | 68 |
 | Asia | 44 | 750 | 83 | 1387 |
 | Oceanía | 5 | 119 | 3 | 114 |
 
 Fichas interregionales o globales sin un único continente asignado: 114. América del Norte incluye Centroamérica y el Caribe. Las cifras muestran el inventario del atlas y no un porcentaje de exhaustividad.
 
-VEX: 518 de 3121 fichas de competencias (16.6%). La cobertura presenta un desequilibrio.
+VEX: 518 de 3128 fichas de competencias (16.6%). La cobertura presenta un desequilibrio.
 
 ## Lo que queda
 
@@ -284,9 +284,10 @@ VEX: 518 de 3121 fichas de competencias (16.6%). La cobertura presenta un desequ
 - **International Scratch Creative Programming Olympiad**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://creativeprogramming.org/
 - **Brainiacs · Robotics**: 5 fichas, 5 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.brainiacsolympiad.com/en/olympiads/robotics
 - **STEMATHLON Greece 2027**: 2 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://portal.stem.edu.gr/en/contests/
-- **NASA Space Apps Challenge**: 5 fichas, 5 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.spaceappschallenge.org/2026/
+- **NASA Space Apps Challenge**: 7 fichas, 7 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.spaceappschallenge.org/2026/
 - **OICC · Olimpiada de Informática**: 1 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.oicc-oficial.org/inicio
 - **PRONAFECYT · Costa Rica**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.mep.go.cr/noticias/calendario-escolar-2027-clases-1o-marzo-30-noviembre
+- **Eurobot Spain · Junior / Novel**: 3 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.eurobot.es/inscripcion-de-equipo/
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 10 tarjetas, 0 con fechas exactas futuras. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -553,6 +554,10 @@ VEX: 518 de 3121 fichas de competencias (16.6%). La cobertura presenta un desequ
 - **Game Conference MX 2026 · Indie Spot** — México; 2026-11-13 – 2026-11-14. el permiso de entrada de niños. https://www.gameconferencemx.com/faq
 - **Pixelatl 2026 · actividades públicas Zapopan** — México; 2026-11-07 – 2026-11-08. con un adulto; condiciones de admisión adulta por separado. https://www.elfestival.mx/es/2026/post/edicion-2026/dos-sedes
 - **Pixelatl 2026 · VMX Videogame Showroom** — México; 2026-11-10 – 2026-11-14. el permiso de entrada de niños. https://elfestival.mx/Account/bitacora/c9629abb-f722-40ce-a317-b6c80d783f3f/Presenta_tu_juego_en_el_Festival
+- **Conoce Eurobot Spain 2027 · Semana de la Ciencia** — España; 2026-11-25. con un adulto; condiciones de admisión adulta por separado. https://semanacienciamadrid.org/actividad/conoce-la-competicion-de-robotica-eurobot-spain
+- **Salón del Videojuego de Madrid 2026** — España; 2026-12-05 – 2026-12-06. con un adulto; condiciones de admisión adulta por separado. https://salonvideojuego.com/entradas/
+- **InterOcio 2027 · juegos y prototipos** — España; 2027-04-02 – 2027-04-04. con un adulto; condiciones de admisión adulta por separado. https://feriainterocio.com/
+- **La fira dels Invents · Desafío Robot 2027** — España; 2027-05-28. con un adulto; condiciones de admisión adulta por separado. https://cac.es/web/desafio-robot/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

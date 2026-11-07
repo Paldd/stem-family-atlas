@@ -580,14 +580,14 @@
       }
     ],
     "counts": {
-      "records": 4032,
-      "holiday": 3758,
+      "records": 4056,
+      "holiday": 3782,
       "regular": 120,
       "self_paced_materials": 2,
       "boarding": 1026,
-      "en_es_instruction": 1259,
+      "en_es_instruction": 1260,
       "en_es_support": 12,
-      "family_instruction": 1259,
+      "family_instruction": 1260,
       "family_support": 12,
       "ru_instruction": 3,
       "language_lessons": 408,
@@ -33046,6 +33046,55 @@
       "evidence_level": "program",
       "date_scope": "regular_program",
       "provider": "CITC"
+    },
+    {
+      "id": "L652",
+      "block": "Campamentos",
+      "title": "PuleDiamante · Navidades Tecnológicas",
+      "country": "España",
+      "region": "Europa",
+      "iso": [
+        "ESP"
+      ],
+      "city": "Centro de Estudios PLANFORM · Manuel Azaña 22 · Parquesol, Valladolid",
+      "start": "",
+      "end": "",
+      "deadline": "",
+      "period": "La ficha indica 22, 23, 26, 29, 30 de diciembre y 2, 5, 7 de enero, 09:00–14:00, pero el año del título es ambiguo. Confirmar temporada antes de elegir los días.",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://pulediamante.es/navidades-tecnologicas-valladolid",
+      "references": [],
+      "age": "Desde 5 años, grupos por edad y nivel.",
+      "mat": "Condicional. Confirmar grupo de edad e idioma antes de inscribirse.",
+      "osc": "Condicional. Confirmar grupo de edad e idioma antes de inscribirse.",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "gear": "LEGO, programación, juegos educativos, retos STEAM y RV según el programa.",
+      "language": "Confirmar el idioma del grupo o sede concretos.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "EUR 15 por día con IVA según la tienda. Confirmar tarifa y calendario de la temporada elegida.",
+      "level": "Programa vacacional local",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
+      "note": "La ficha indica 22, 23, 26, 29, 30 de diciembre y 2, 5, 7 de enero, 09:00–14:00, pero el año del título es ambiguo. Confirmar temporada antes de elegir los días.",
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Etapa regional",
+      "participation": "holiday_workshop",
+      "admission_kind": "confirm_eligibility",
+      "evidence_level": "program",
+      "date_scope": "regular_program"
     },
     {
       "id": "CP001-20270606-20270619",
@@ -312966,6 +313015,1919 @@
       "availability": {
         "status": "unconfirmed",
         "label": "Enviar una solicitud y esperar la confirmación de plaza del proveedor."
+      }
+    },
+    {
+      "id": "CP1639-20270104-20270105",
+      "block": "Campamentos",
+      "title": "Fundación Ibercaja Actur · Navidad LEGO · Robótica para el futuro · Taller diurno. · 2027-01-04–2027-01-05",
+      "country": "España",
+      "region": "Europa",
+      "city": "Fundación Ibercaja Actur · Antón García Abril 1 · Zaragoza",
+      "start": "2027-01-04",
+      "end": "2027-01-05",
+      "period": "Fechas y horario publicados. Aforo de 10 participantes.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "7–12 años.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "LEGO Education, motores, sensores, mecanismos y programación del robot.",
+      "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "cost": "2027 · EUR 55 por curso. EUR 45 según condiciones de pago con tarjeta Ibercaja o para hermanos inscritos en talleres navideños. Confirmar aplicación. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "source": "https://www.fundacionibercaja.es/actividades/cursos-y-talleres/navidad-lego-robotica-para-el-futuro-zaragoza-navidad-2026/",
+      "references": [
+        {
+          "url": "https://www.fundacionibercaja.es/actividades/cursos-y-talleres/navidad-lego-robotica-para-el-futuro-zaragoza-navidad-2026/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://www.fundacionibercaja.es/actividades/ciclos-y-programas/navidad-dulce-navidad-campus-navideno-para-ninos-navidad-2026/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Condicional si ya ha cumplido 7 años al comenzar el taller. Suplementos: Confirmar materiales adicionales y condiciones de cancelación. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "iber-actur-lego",
+      "camp_programme_id": "CP1639",
+      "sessions": [
+        {
+          "date": "2027-01-04",
+          "topic": "LEGO Education, motores, sensores, mecanismos y programación del robot.",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2027-01-04T08:00:00Z",
+          "end_utc": "2027-01-04T12:30:00Z"
+        },
+        {
+          "date": "2027-01-05",
+          "topic": "LEGO Education, motores, sensores, mecanismos y programación del robot.",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2027-01-05T08:00:00Z",
+          "end_utc": "2027-01-05T12:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "open",
+        "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+      }
+    },
+    {
+      "id": "CP1640-20261223-20261224",
+      "block": "Campamentos",
+      "title": "Fundación Ibercaja Actur · Navidad 360º · La magia te rodea · Taller diurno. · 2026-12-23–2026-12-24",
+      "country": "España",
+      "region": "Europa",
+      "city": "Fundación Ibercaja Actur · Antón García Abril 1 · Zaragoza",
+      "start": "2026-12-23",
+      "end": "2026-12-24",
+      "period": "Fechas y horario publicados. Aforo de 12 participantes.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "7–12 años.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Diseño 3D, programación e IA. El organizador indica Meta Quest 3S. Para menores de 10 años, confirmar antes una alternativa a la RV. Meta ofrece cuentas infantiles administradas desde los 10 años.",
+      "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "cost": "2026/27 · EUR 55 por curso. EUR 45 según condiciones de pago con tarjeta Ibercaja o para hermanos inscritos en talleres navideños. Confirmar aplicación. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "source": "https://www.fundacionibercaja.es/actividades/cursos-y-talleres/navidad-360-la-magia-te-rodea-navidad-2026/",
+      "references": [
+        {
+          "url": "https://www.fundacionibercaja.es/actividades/cursos-y-talleres/navidad-360-la-magia-te-rodea-navidad-2026/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://www.fundacionibercaja.es/actividades/ciclos-y-programas/navidad-dulce-navidad-campus-navideno-para-ninos-navidad-2026/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://developers.meta.com/vr/meta-accounts-for-children/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: La edad encaja en el rango. Confirmar alternativa a la RV para menores de 10 años. Oscar: Condicional si ya ha cumplido 7 años al comenzar el taller. Suplementos: Confirmar materiales adicionales y condiciones de cancelación. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "ai",
+        "coding",
+        "technology",
+        "creative"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "iber-actur-360",
+      "camp_programme_id": "CP1640",
+      "sessions": [
+        {
+          "date": "2026-12-23",
+          "topic": "Diseño 3D, programación e IA. El organizador indica Meta Quest 3S. Para menores de 10 años, confirmar antes una alternativa a la RV. Meta ofrece cuentas infantiles administradas desde los 10 años.",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-23T08:00:00Z",
+          "end_utc": "2026-12-23T12:30:00Z"
+        },
+        {
+          "date": "2026-12-24",
+          "topic": "Diseño 3D, programación e IA. El organizador indica Meta Quest 3S. Para menores de 10 años, confirmar antes una alternativa a la RV. Meta ofrece cuentas infantiles administradas desde los 10 años.",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-24T08:00:00Z",
+          "end_utc": "2026-12-24T12:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "open",
+        "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+      }
+    },
+    {
+      "id": "CP1641-20261228-20261231",
+      "block": "Campamentos",
+      "title": "Fundación Ibercaja Actur · Minecraft · El secreto de los mundos helados · Taller diurno. · 2026-12-28–2026-12-31",
+      "country": "España",
+      "region": "Europa",
+      "city": "Fundación Ibercaja Actur · Antón García Abril 1 · Zaragoza",
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "period": "Días lectivos según calendario del organizador.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "8–12 años.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Proyecto temático en Minecraft. Confirmar edición del juego, requisitos de cuenta y reglas de juego compartido.",
+      "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "cost": "2026/27 · EUR 99 por curso. EUR 85 según condiciones de pago con tarjeta Ibercaja o para hermanos inscritos en talleres navideños. Confirmar aplicación. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "source": "https://www.fundacionibercaja.es/actividades/cursos-y-talleres/minecraft-el-secreto-de-los-mundos-helados-navidad-2026/",
+      "references": [
+        {
+          "url": "https://www.fundacionibercaja.es/actividades/cursos-y-talleres/minecraft-el-secreto-de-los-mundos-helados-navidad-2026/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://www.fundacionibercaja.es/actividades/ciclos-y-programas/navidad-dulce-navidad-campus-navideno-para-ninos-navidad-2026/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: No por ahora. Mínimo 8 años en el programa elegido. Suplementos: Confirmar materiales adicionales y condiciones de cancelación. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "games",
+        "coding",
+        "creative"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "iber-actur-minecraft",
+      "camp_programme_id": "CP1641",
+      "sessions": [
+        {
+          "date": "2026-12-28",
+          "topic": "Proyecto temático en Minecraft. Confirmar edición del juego, requisitos de cuenta y reglas de juego compartido.",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-28T08:00:00Z",
+          "end_utc": "2026-12-28T12:30:00Z"
+        },
+        {
+          "date": "2026-12-29",
+          "topic": "Proyecto temático en Minecraft. Confirmar edición del juego, requisitos de cuenta y reglas de juego compartido.",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-29T08:00:00Z",
+          "end_utc": "2026-12-29T12:30:00Z"
+        },
+        {
+          "date": "2026-12-30",
+          "topic": "Proyecto temático en Minecraft. Confirmar edición del juego, requisitos de cuenta y reglas de juego compartido.",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-30T08:00:00Z",
+          "end_utc": "2026-12-30T12:30:00Z"
+        },
+        {
+          "date": "2026-12-31",
+          "topic": "Proyecto temático en Minecraft. Confirmar edición del juego, requisitos de cuenta y reglas de juego compartido.",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-31T08:00:00Z",
+          "end_utc": "2026-12-31T12:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "open",
+        "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+      }
+    },
+    {
+      "id": "CP1642-20270104-20270105",
+      "block": "Campamentos",
+      "title": "Fundación Ibercaja Actur · Iníciate en el Arte digital · Taller diurno. · 2027-01-04–2027-01-05",
+      "country": "España",
+      "region": "Europa",
+      "city": "Fundación Ibercaja Actur · Antón García Abril 1 · Zaragoza",
+      "start": "2027-01-04",
+      "end": "2027-01-05",
+      "period": "Fechas y horario publicados. Aforo de 10 participantes.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "7–13 años.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Dibujo digital con tabletas gráficas, trabajo con color, capas y proyecto.",
+      "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "cost": "2027 · EUR 55 por curso. EUR 45 según condiciones de pago con tarjeta Ibercaja o para hermanos inscritos en talleres navideños. Confirmar aplicación. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "source": "https://www.fundacionibercaja.es/actividades/cursos-y-talleres/iniciate-en-el-arte-digital-esperando-a-los-reyes-navidad-2026/",
+      "references": [
+        {
+          "url": "https://www.fundacionibercaja.es/actividades/cursos-y-talleres/iniciate-en-el-arte-digital-esperando-a-los-reyes-navidad-2026/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://www.fundacionibercaja.es/actividades/ciclos-y-programas/navidad-dulce-navidad-campus-navideno-para-ninos-navidad-2026/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Condicional si ya ha cumplido 7 años al comenzar el taller. Suplementos: Confirmar materiales adicionales y condiciones de cancelación. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "art",
+        "design",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "iber-actur-art",
+      "camp_programme_id": "CP1642",
+      "sessions": [
+        {
+          "date": "2027-01-04",
+          "topic": "Dibujo digital con tabletas gráficas, trabajo con color, capas y proyecto.",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2027-01-04T08:00:00Z",
+          "end_utc": "2027-01-04T12:30:00Z"
+        },
+        {
+          "date": "2027-01-05",
+          "topic": "Dibujo digital con tabletas gráficas, trabajo con color, capas y proyecto.",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2027-01-05T08:00:00Z",
+          "end_utc": "2027-01-05T12:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "open",
+        "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+      }
+    },
+    {
+      "id": "CP1643-20261223-20261223",
+      "block": "Campamentos",
+      "title": "DigiKids Getafe · Talleres de Navidad 2026/27 · Un día a elegir. · 2026-12-23–2026-12-23",
+      "country": "España",
+      "region": "Europa",
+      "city": "Getafe · DigiKids Getafe Centro / Los Molinos",
+      "start": "2026-12-23",
+      "end": "2026-12-23",
+      "period": "23, 28, 29 y 30 de diciembre de 2026, 4 y 5 de enero de 2027. Horario 09:30–13:30. Confirmar sede concreta de cada día.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Los límites de edad de los grupos de invierno aún no se indican.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Juegos con Scratch, Python o Unity, LEGO Education SPIKE, IA, impresión 3D, Roblox Studio, drones y RV según el programa. Confirmar reparto por días y edades.",
+      "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "cost": "2026/27 · EUR 30 / 55 / 80 / 105 / 130 / 155 por 1 / 2 / 3 / 4 / 5 / 6 días por menor. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "source": "https://digikids.es/talleres-de-navidad/",
+      "references": [
+        {
+          "url": "https://digikids.es/talleres-de-navidad/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://digikids.es/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-2.png",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-3.png",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Condicional. Confirmar grupo de edad e idioma antes de inscribirse. Oscar: Condicional. Confirmar grupo de edad e idioma antes de inscribirse. Suplementos: Entrada temprana 08:30–09:30 y recogida tardía 13:30–14:30 cuestan EUR 5 cada una por menor y día. El cartel indica 10% al reservar antes del 30 de noviembre. Confirmar hora límite y condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "ai",
+        "games",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "digikids-getafe-winter-2026",
+      "camp_programme_id": "CP1643",
+      "sessions": [
+        {
+          "date": "2026-12-23",
+          "topic": "Juegos con Scratch, Python o Unity, LEGO Education SPIKE, IA, impresión 3D, Roblox Studio, drones y RV según el programa. Confirmar reparto por días y edades.",
+          "start_time": "09:30",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-23T08:30:00Z",
+          "end_utc": "2026-12-23T12:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "open",
+        "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+      }
+    },
+    {
+      "id": "CP1643-20261228-20261228",
+      "block": "Campamentos",
+      "title": "DigiKids Getafe · Talleres de Navidad 2026/27 · Un día a elegir. · 2026-12-28–2026-12-28",
+      "country": "España",
+      "region": "Europa",
+      "city": "Getafe · DigiKids Getafe Centro / Los Molinos",
+      "start": "2026-12-28",
+      "end": "2026-12-28",
+      "period": "23, 28, 29 y 30 de diciembre de 2026, 4 y 5 de enero de 2027. Horario 09:30–13:30. Confirmar sede concreta de cada día.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Los límites de edad de los grupos de invierno aún no se indican.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Juegos con Scratch, Python o Unity, LEGO Education SPIKE, IA, impresión 3D, Roblox Studio, drones y RV según el programa. Confirmar reparto por días y edades.",
+      "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "cost": "2026/27 · EUR 30 / 55 / 80 / 105 / 130 / 155 por 1 / 2 / 3 / 4 / 5 / 6 días por menor. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "source": "https://digikids.es/talleres-de-navidad/",
+      "references": [
+        {
+          "url": "https://digikids.es/talleres-de-navidad/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://digikids.es/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-2.png",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-3.png",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Condicional. Confirmar grupo de edad e idioma antes de inscribirse. Oscar: Condicional. Confirmar grupo de edad e idioma antes de inscribirse. Suplementos: Entrada temprana 08:30–09:30 y recogida tardía 13:30–14:30 cuestan EUR 5 cada una por menor y día. El cartel indica 10% al reservar antes del 30 de noviembre. Confirmar hora límite y condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "ai",
+        "games",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "digikids-getafe-winter-2026",
+      "camp_programme_id": "CP1643",
+      "sessions": [
+        {
+          "date": "2026-12-28",
+          "topic": "Juegos con Scratch, Python o Unity, LEGO Education SPIKE, IA, impresión 3D, Roblox Studio, drones y RV según el programa. Confirmar reparto por días y edades.",
+          "start_time": "09:30",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-28T08:30:00Z",
+          "end_utc": "2026-12-28T12:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "open",
+        "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+      }
+    },
+    {
+      "id": "CP1643-20261229-20261229",
+      "block": "Campamentos",
+      "title": "DigiKids Getafe · Talleres de Navidad 2026/27 · Un día a elegir. · 2026-12-29–2026-12-29",
+      "country": "España",
+      "region": "Europa",
+      "city": "Getafe · DigiKids Getafe Centro / Los Molinos",
+      "start": "2026-12-29",
+      "end": "2026-12-29",
+      "period": "23, 28, 29 y 30 de diciembre de 2026, 4 y 5 de enero de 2027. Horario 09:30–13:30. Confirmar sede concreta de cada día.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Los límites de edad de los grupos de invierno aún no se indican.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Juegos con Scratch, Python o Unity, LEGO Education SPIKE, IA, impresión 3D, Roblox Studio, drones y RV según el programa. Confirmar reparto por días y edades.",
+      "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "cost": "2026/27 · EUR 30 / 55 / 80 / 105 / 130 / 155 por 1 / 2 / 3 / 4 / 5 / 6 días por menor. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "source": "https://digikids.es/talleres-de-navidad/",
+      "references": [
+        {
+          "url": "https://digikids.es/talleres-de-navidad/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://digikids.es/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-2.png",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-3.png",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Condicional. Confirmar grupo de edad e idioma antes de inscribirse. Oscar: Condicional. Confirmar grupo de edad e idioma antes de inscribirse. Suplementos: Entrada temprana 08:30–09:30 y recogida tardía 13:30–14:30 cuestan EUR 5 cada una por menor y día. El cartel indica 10% al reservar antes del 30 de noviembre. Confirmar hora límite y condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "ai",
+        "games",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "digikids-getafe-winter-2026",
+      "camp_programme_id": "CP1643",
+      "sessions": [
+        {
+          "date": "2026-12-29",
+          "topic": "Juegos con Scratch, Python o Unity, LEGO Education SPIKE, IA, impresión 3D, Roblox Studio, drones y RV según el programa. Confirmar reparto por días y edades.",
+          "start_time": "09:30",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-29T08:30:00Z",
+          "end_utc": "2026-12-29T12:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "open",
+        "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+      }
+    },
+    {
+      "id": "CP1643-20261230-20261230",
+      "block": "Campamentos",
+      "title": "DigiKids Getafe · Talleres de Navidad 2026/27 · Un día a elegir. · 2026-12-30–2026-12-30",
+      "country": "España",
+      "region": "Europa",
+      "city": "Getafe · DigiKids Getafe Centro / Los Molinos",
+      "start": "2026-12-30",
+      "end": "2026-12-30",
+      "period": "23, 28, 29 y 30 de diciembre de 2026, 4 y 5 de enero de 2027. Horario 09:30–13:30. Confirmar sede concreta de cada día.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Los límites de edad de los grupos de invierno aún no se indican.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Juegos con Scratch, Python o Unity, LEGO Education SPIKE, IA, impresión 3D, Roblox Studio, drones y RV según el programa. Confirmar reparto por días y edades.",
+      "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "cost": "2026/27 · EUR 30 / 55 / 80 / 105 / 130 / 155 por 1 / 2 / 3 / 4 / 5 / 6 días por menor. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "source": "https://digikids.es/talleres-de-navidad/",
+      "references": [
+        {
+          "url": "https://digikids.es/talleres-de-navidad/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://digikids.es/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-2.png",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-3.png",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Condicional. Confirmar grupo de edad e idioma antes de inscribirse. Oscar: Condicional. Confirmar grupo de edad e idioma antes de inscribirse. Suplementos: Entrada temprana 08:30–09:30 y recogida tardía 13:30–14:30 cuestan EUR 5 cada una por menor y día. El cartel indica 10% al reservar antes del 30 de noviembre. Confirmar hora límite y condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "ai",
+        "games",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "digikids-getafe-winter-2026",
+      "camp_programme_id": "CP1643",
+      "sessions": [
+        {
+          "date": "2026-12-30",
+          "topic": "Juegos con Scratch, Python o Unity, LEGO Education SPIKE, IA, impresión 3D, Roblox Studio, drones y RV según el programa. Confirmar reparto por días y edades.",
+          "start_time": "09:30",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-30T08:30:00Z",
+          "end_utc": "2026-12-30T12:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "open",
+        "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+      }
+    },
+    {
+      "id": "CP1643-20270104-20270104",
+      "block": "Campamentos",
+      "title": "DigiKids Getafe · Talleres de Navidad 2026/27 · Un día a elegir. · 2027-01-04–2027-01-04",
+      "country": "España",
+      "region": "Europa",
+      "city": "Getafe · DigiKids Getafe Centro / Los Molinos",
+      "start": "2027-01-04",
+      "end": "2027-01-04",
+      "period": "23, 28, 29 y 30 de diciembre de 2026, 4 y 5 de enero de 2027. Horario 09:30–13:30. Confirmar sede concreta de cada día.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Los límites de edad de los grupos de invierno aún no se indican.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Juegos con Scratch, Python o Unity, LEGO Education SPIKE, IA, impresión 3D, Roblox Studio, drones y RV según el programa. Confirmar reparto por días y edades.",
+      "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "cost": "2027 · EUR 30 / 55 / 80 / 105 / 130 / 155 por 1 / 2 / 3 / 4 / 5 / 6 días por menor. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "source": "https://digikids.es/talleres-de-navidad/",
+      "references": [
+        {
+          "url": "https://digikids.es/talleres-de-navidad/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://digikids.es/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-2.png",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-3.png",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Condicional. Confirmar grupo de edad e idioma antes de inscribirse. Oscar: Condicional. Confirmar grupo de edad e idioma antes de inscribirse. Suplementos: Entrada temprana 08:30–09:30 y recogida tardía 13:30–14:30 cuestan EUR 5 cada una por menor y día. El cartel indica 10% al reservar antes del 30 de noviembre. Confirmar hora límite y condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "ai",
+        "games",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "digikids-getafe-winter-2026",
+      "camp_programme_id": "CP1643",
+      "sessions": [
+        {
+          "date": "2027-01-04",
+          "topic": "Juegos con Scratch, Python o Unity, LEGO Education SPIKE, IA, impresión 3D, Roblox Studio, drones y RV según el programa. Confirmar reparto por días y edades.",
+          "start_time": "09:30",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2027-01-04T08:30:00Z",
+          "end_utc": "2027-01-04T12:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "open",
+        "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+      }
+    },
+    {
+      "id": "CP1643-20270105-20270105",
+      "block": "Campamentos",
+      "title": "DigiKids Getafe · Talleres de Navidad 2026/27 · Un día a elegir. · 2027-01-05–2027-01-05",
+      "country": "España",
+      "region": "Europa",
+      "city": "Getafe · DigiKids Getafe Centro / Los Molinos",
+      "start": "2027-01-05",
+      "end": "2027-01-05",
+      "period": "23, 28, 29 y 30 de diciembre de 2026, 4 y 5 de enero de 2027. Horario 09:30–13:30. Confirmar sede concreta de cada día.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Los límites de edad de los grupos de invierno aún no se indican.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Juegos con Scratch, Python o Unity, LEGO Education SPIKE, IA, impresión 3D, Roblox Studio, drones y RV según el programa. Confirmar reparto por días y edades.",
+      "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "cost": "2027 · EUR 30 / 55 / 80 / 105 / 130 / 155 por 1 / 2 / 3 / 4 / 5 / 6 días por menor. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "source": "https://digikids.es/talleres-de-navidad/",
+      "references": [
+        {
+          "url": "https://digikids.es/talleres-de-navidad/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://digikids.es/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-2.png",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-3.png",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Condicional. Confirmar grupo de edad e idioma antes de inscribirse. Oscar: Condicional. Confirmar grupo de edad e idioma antes de inscribirse. Suplementos: Entrada temprana 08:30–09:30 y recogida tardía 13:30–14:30 cuestan EUR 5 cada una por menor y día. El cartel indica 10% al reservar antes del 30 de noviembre. Confirmar hora límite y condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "ai",
+        "games",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "digikids-getafe-winter-2026",
+      "camp_programme_id": "CP1643",
+      "sessions": [
+        {
+          "date": "2027-01-05",
+          "topic": "Juegos con Scratch, Python o Unity, LEGO Education SPIKE, IA, impresión 3D, Roblox Studio, drones y RV según el programa. Confirmar reparto por días y edades.",
+          "start_time": "09:30",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2027-01-05T08:30:00Z",
+          "end_utc": "2027-01-05T12:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "open",
+        "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+      }
+    },
+    {
+      "id": "CP1644-20261223-20261230",
+      "block": "Campamentos",
+      "title": "Salamanca Tech · Navidad 2026/27 · Taller diurno. · 2026-12-23–2026-12-30",
+      "country": "España",
+      "region": "Europa",
+      "city": "Centro Tormes+ · Avenida de Lasalle 131 · Salamanca",
+      "start": "2026-12-23",
+      "end": "2026-12-30",
+      "period": "Primer turno 23, 28, 29 y 30 de diciembre, segundo 4, 5, 7 y 8 de enero. Entrada 07:45–09:00, salida 14:00–15:15. 120 plazas por turno. Inscripción cerrada el 03.11.2026 a las 10:00.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Años de nacimiento 2015–2020. El menor o tutor debe estar empadronado en Salamanca, o el tutor debe trabajar en la ciudad.",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "no según las condiciones de la pista seleccionada",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Finalizó la recepción de nuevas solicitudes para este turno.",
+      "gear": "Robótica, programación, prototipos, impresión 3D y STEAM. Los hermanos se inscriben en una solicitud familiar.",
+      "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "cost": "2026/27 · Precio sin publicar. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "source": "https://tormesplus.com/junior/campamentos-salamanca-tech",
+      "references": [
+        {
+          "url": "https://tormesplus.com/junior/campamentos-salamanca-tech",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Finalizó la recepción de nuevas solicitudes para este turno. Oscar: Finalizó la recepción de nuevas solicitudes para este turno. Suplementos: Precio sin publicar. Pago: Finalizó la recepción de nuevas solicitudes para este turno.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "participation": "holiday_workshop",
+      "admission_kind": "closed",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "salamanca-tech-navidad-2026",
+      "camp_programme_id": "CP1644",
+      "sessions": [
+        {
+          "date": "2026-12-23",
+          "topic": "Robótica, programación, prototipos, impresión 3D y STEAM. Los hermanos se inscriben en una solicitud familiar.",
+          "start_time": "07:45",
+          "end_time": "15:15",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-23T06:45:00Z",
+          "end_utc": "2026-12-23T14:15:00Z"
+        },
+        {
+          "date": "2026-12-28",
+          "topic": "Robótica, programación, prototipos, impresión 3D y STEAM. Los hermanos se inscriben en una solicitud familiar.",
+          "start_time": "07:45",
+          "end_time": "15:15",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-28T06:45:00Z",
+          "end_utc": "2026-12-28T14:15:00Z"
+        },
+        {
+          "date": "2026-12-29",
+          "topic": "Robótica, programación, prototipos, impresión 3D y STEAM. Los hermanos se inscriben en una solicitud familiar.",
+          "start_time": "07:45",
+          "end_time": "15:15",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-29T06:45:00Z",
+          "end_utc": "2026-12-29T14:15:00Z"
+        },
+        {
+          "date": "2026-12-30",
+          "topic": "Robótica, programación, prototipos, impresión 3D y STEAM. Los hermanos se inscriben en una solicitud familiar.",
+          "start_time": "07:45",
+          "end_time": "15:15",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-30T06:45:00Z",
+          "end_utc": "2026-12-30T14:15:00Z"
+        }
+      ],
+      "availability": {
+        "status": "closed",
+        "label": "Finalizó la recepción de nuevas solicitudes para este turno."
+      }
+    },
+    {
+      "id": "CP1644-20270104-20270108",
+      "block": "Campamentos",
+      "title": "Salamanca Tech · Navidad 2026/27 · Taller diurno. · 2027-01-04–2027-01-08",
+      "country": "España",
+      "region": "Europa",
+      "city": "Centro Tormes+ · Avenida de Lasalle 131 · Salamanca",
+      "start": "2027-01-04",
+      "end": "2027-01-08",
+      "period": "Primer turno 23, 28, 29 y 30 de diciembre, segundo 4, 5, 7 y 8 de enero. Entrada 07:45–09:00, salida 14:00–15:15. 120 plazas por turno. Inscripción cerrada el 03.11.2026 a las 10:00.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Años de nacimiento 2015–2020. El menor o tutor debe estar empadronado en Salamanca, o el tutor debe trabajar en la ciudad.",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "no según las condiciones de la pista seleccionada",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Finalizó la recepción de nuevas solicitudes para este turno.",
+      "gear": "Robótica, programación, prototipos, impresión 3D y STEAM. Los hermanos se inscriben en una solicitud familiar.",
+      "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "cost": "2027 · Precio sin publicar. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "source": "https://tormesplus.com/junior/campamentos-salamanca-tech",
+      "references": [
+        {
+          "url": "https://tormesplus.com/junior/campamentos-salamanca-tech",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Finalizó la recepción de nuevas solicitudes para este turno. Oscar: Finalizó la recepción de nuevas solicitudes para este turno. Suplementos: Precio sin publicar. Pago: Finalizó la recepción de nuevas solicitudes para este turno.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "participation": "holiday_workshop",
+      "admission_kind": "closed",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "salamanca-tech-navidad-2026",
+      "camp_programme_id": "CP1644",
+      "sessions": [
+        {
+          "date": "2027-01-04",
+          "topic": "Robótica, programación, prototipos, impresión 3D y STEAM. Los hermanos se inscriben en una solicitud familiar.",
+          "start_time": "07:45",
+          "end_time": "15:15",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2027-01-04T06:45:00Z",
+          "end_utc": "2027-01-04T14:15:00Z"
+        },
+        {
+          "date": "2027-01-05",
+          "topic": "Robótica, programación, prototipos, impresión 3D y STEAM. Los hermanos se inscriben en una solicitud familiar.",
+          "start_time": "07:45",
+          "end_time": "15:15",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2027-01-05T06:45:00Z",
+          "end_utc": "2027-01-05T14:15:00Z"
+        },
+        {
+          "date": "2027-01-07",
+          "topic": "Robótica, programación, prototipos, impresión 3D y STEAM. Los hermanos se inscriben en una solicitud familiar.",
+          "start_time": "07:45",
+          "end_time": "15:15",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2027-01-07T06:45:00Z",
+          "end_utc": "2027-01-07T14:15:00Z"
+        },
+        {
+          "date": "2027-01-08",
+          "topic": "Robótica, programación, prototipos, impresión 3D y STEAM. Los hermanos se inscriben en una solicitud familiar.",
+          "start_time": "07:45",
+          "end_time": "15:15",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2027-01-08T06:45:00Z",
+          "end_utc": "2027-01-08T14:15:00Z"
+        }
+      ],
+      "availability": {
+        "status": "closed",
+        "label": "Finalizó la recepción de nuevas solicitudes para este turno."
+      }
+    },
+    {
+      "id": "CP1646-20261222-20261222",
+      "block": "Campamentos",
+      "title": "TBKids Barcelona · Vacaciones cósmicas · Un día a elegir. · 2026-12-22–2026-12-22",
+      "country": "España",
+      "region": "Europa",
+      "city": "TBKids Barcelona · Carrer de Còrsega 98 · L’Eixample",
+      "start": "2026-12-22",
+      "end": "2026-12-22",
+      "period": "10 días separados del 22 de diciembre de 2026 al 7 de enero de 2027. Solo se eligen los días publicados.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "4–16 años. Robot Jr 4–6, Robot Plus 6–8, Robot Pro 9–12, Tech Genius desde 13 años. Mínimo 5 inscripciones por grupo.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Robótica, programación, LEGO y diseño 3D con temática espacial. Confirmar plataformas e idioma por grupo.",
+      "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "cost": "2026/27 · EUR 45 / 88 / 131 / 174 / 217 por 1 / 2 / 3 / 4 / 5 días. Después EUR 43 por día adicional. Descuento 5% para el segundo hermano. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "source": "https://tbkids.es/casal-navidad-barcelona/",
+      "references": [
+        {
+          "url": "https://tbkids.es/casal-navidad-barcelona/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Por edad encaja Robot Pro 9–12. Confirmar grupo y nivel. Oscar: Con 6 años encaja Robot Jr o Robot Plus. Confirmar asignación según nivel. Suplementos: Cuidado en comedor 14:00–15:00 por EUR 6 al día, comida de casa. Ludotech 15:00–16:00 por EUR 12 al día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "design",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "tbkids-barcelona-navidad-2026",
+      "camp_programme_id": "CP1646",
+      "sessions": [
+        {
+          "date": "2026-12-22",
+          "topic": "Robótica, programación, LEGO y diseño 3D con temática espacial. Confirmar plataformas e idioma por grupo.",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-22T08:00:00Z",
+          "end_utc": "2026-12-22T12:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "open",
+        "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+      }
+    },
+    {
+      "id": "CP1646-20261223-20261223",
+      "block": "Campamentos",
+      "title": "TBKids Barcelona · Vacaciones cósmicas · Un día a elegir. · 2026-12-23–2026-12-23",
+      "country": "España",
+      "region": "Europa",
+      "city": "TBKids Barcelona · Carrer de Còrsega 98 · L’Eixample",
+      "start": "2026-12-23",
+      "end": "2026-12-23",
+      "period": "10 días separados del 22 de diciembre de 2026 al 7 de enero de 2027. Solo se eligen los días publicados.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "4–16 años. Robot Jr 4–6, Robot Plus 6–8, Robot Pro 9–12, Tech Genius desde 13 años. Mínimo 5 inscripciones por grupo.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Robótica, programación, LEGO y diseño 3D con temática espacial. Confirmar plataformas e idioma por grupo.",
+      "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "cost": "2026/27 · EUR 45 / 88 / 131 / 174 / 217 por 1 / 2 / 3 / 4 / 5 días. Después EUR 43 por día adicional. Descuento 5% para el segundo hermano. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "source": "https://tbkids.es/casal-navidad-barcelona/",
+      "references": [
+        {
+          "url": "https://tbkids.es/casal-navidad-barcelona/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Por edad encaja Robot Pro 9–12. Confirmar grupo y nivel. Oscar: Con 6 años encaja Robot Jr o Robot Plus. Confirmar asignación según nivel. Suplementos: Cuidado en comedor 14:00–15:00 por EUR 6 al día, comida de casa. Ludotech 15:00–16:00 por EUR 12 al día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "design",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "tbkids-barcelona-navidad-2026",
+      "camp_programme_id": "CP1646",
+      "sessions": [
+        {
+          "date": "2026-12-23",
+          "topic": "Robótica, programación, LEGO y diseño 3D con temática espacial. Confirmar plataformas e idioma por grupo.",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-23T08:00:00Z",
+          "end_utc": "2026-12-23T12:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "open",
+        "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+      }
+    },
+    {
+      "id": "CP1646-20261224-20261224",
+      "block": "Campamentos",
+      "title": "TBKids Barcelona · Vacaciones cósmicas · Un día a elegir. · 2026-12-24–2026-12-24",
+      "country": "España",
+      "region": "Europa",
+      "city": "TBKids Barcelona · Carrer de Còrsega 98 · L’Eixample",
+      "start": "2026-12-24",
+      "end": "2026-12-24",
+      "period": "10 días separados del 22 de diciembre de 2026 al 7 de enero de 2027. Solo se eligen los días publicados.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "4–16 años. Robot Jr 4–6, Robot Plus 6–8, Robot Pro 9–12, Tech Genius desde 13 años. Mínimo 5 inscripciones por grupo.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Robótica, programación, LEGO y diseño 3D con temática espacial. Confirmar plataformas e idioma por grupo.",
+      "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "cost": "2026/27 · EUR 45 / 88 / 131 / 174 / 217 por 1 / 2 / 3 / 4 / 5 días. Después EUR 43 por día adicional. Descuento 5% para el segundo hermano. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "source": "https://tbkids.es/casal-navidad-barcelona/",
+      "references": [
+        {
+          "url": "https://tbkids.es/casal-navidad-barcelona/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Por edad encaja Robot Pro 9–12. Confirmar grupo y nivel. Oscar: Con 6 años encaja Robot Jr o Robot Plus. Confirmar asignación según nivel. Suplementos: Cuidado en comedor 14:00–15:00 por EUR 6 al día, comida de casa. Ludotech 15:00–16:00 por EUR 12 al día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "design",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "tbkids-barcelona-navidad-2026",
+      "camp_programme_id": "CP1646",
+      "sessions": [
+        {
+          "date": "2026-12-24",
+          "topic": "Robótica, programación, LEGO y diseño 3D con temática espacial. Confirmar plataformas e idioma por grupo.",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-24T08:00:00Z",
+          "end_utc": "2026-12-24T12:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "open",
+        "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+      }
+    },
+    {
+      "id": "CP1646-20261228-20261228",
+      "block": "Campamentos",
+      "title": "TBKids Barcelona · Vacaciones cósmicas · Un día a elegir. · 2026-12-28–2026-12-28",
+      "country": "España",
+      "region": "Europa",
+      "city": "TBKids Barcelona · Carrer de Còrsega 98 · L’Eixample",
+      "start": "2026-12-28",
+      "end": "2026-12-28",
+      "period": "10 días separados del 22 de diciembre de 2026 al 7 de enero de 2027. Solo se eligen los días publicados.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "4–16 años. Robot Jr 4–6, Robot Plus 6–8, Robot Pro 9–12, Tech Genius desde 13 años. Mínimo 5 inscripciones por grupo.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Robótica, programación, LEGO y diseño 3D con temática espacial. Confirmar plataformas e idioma por grupo.",
+      "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "cost": "2026/27 · EUR 45 / 88 / 131 / 174 / 217 por 1 / 2 / 3 / 4 / 5 días. Después EUR 43 por día adicional. Descuento 5% para el segundo hermano. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "source": "https://tbkids.es/casal-navidad-barcelona/",
+      "references": [
+        {
+          "url": "https://tbkids.es/casal-navidad-barcelona/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Por edad encaja Robot Pro 9–12. Confirmar grupo y nivel. Oscar: Con 6 años encaja Robot Jr o Robot Plus. Confirmar asignación según nivel. Suplementos: Cuidado en comedor 14:00–15:00 por EUR 6 al día, comida de casa. Ludotech 15:00–16:00 por EUR 12 al día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "design",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "tbkids-barcelona-navidad-2026",
+      "camp_programme_id": "CP1646",
+      "sessions": [
+        {
+          "date": "2026-12-28",
+          "topic": "Robótica, programación, LEGO y diseño 3D con temática espacial. Confirmar plataformas e idioma por grupo.",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-28T08:00:00Z",
+          "end_utc": "2026-12-28T12:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "open",
+        "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+      }
+    },
+    {
+      "id": "CP1646-20261229-20261229",
+      "block": "Campamentos",
+      "title": "TBKids Barcelona · Vacaciones cósmicas · Un día a elegir. · 2026-12-29–2026-12-29",
+      "country": "España",
+      "region": "Europa",
+      "city": "TBKids Barcelona · Carrer de Còrsega 98 · L’Eixample",
+      "start": "2026-12-29",
+      "end": "2026-12-29",
+      "period": "10 días separados del 22 de diciembre de 2026 al 7 de enero de 2027. Solo se eligen los días publicados.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "4–16 años. Robot Jr 4–6, Robot Plus 6–8, Robot Pro 9–12, Tech Genius desde 13 años. Mínimo 5 inscripciones por grupo.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Robótica, programación, LEGO y diseño 3D con temática espacial. Confirmar plataformas e idioma por grupo.",
+      "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "cost": "2026/27 · EUR 45 / 88 / 131 / 174 / 217 por 1 / 2 / 3 / 4 / 5 días. Después EUR 43 por día adicional. Descuento 5% para el segundo hermano. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "source": "https://tbkids.es/casal-navidad-barcelona/",
+      "references": [
+        {
+          "url": "https://tbkids.es/casal-navidad-barcelona/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Por edad encaja Robot Pro 9–12. Confirmar grupo y nivel. Oscar: Con 6 años encaja Robot Jr o Robot Plus. Confirmar asignación según nivel. Suplementos: Cuidado en comedor 14:00–15:00 por EUR 6 al día, comida de casa. Ludotech 15:00–16:00 por EUR 12 al día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "design",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "tbkids-barcelona-navidad-2026",
+      "camp_programme_id": "CP1646",
+      "sessions": [
+        {
+          "date": "2026-12-29",
+          "topic": "Robótica, programación, LEGO y diseño 3D con temática espacial. Confirmar plataformas e idioma por grupo.",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-29T08:00:00Z",
+          "end_utc": "2026-12-29T12:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "open",
+        "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+      }
+    },
+    {
+      "id": "CP1646-20261230-20261230",
+      "block": "Campamentos",
+      "title": "TBKids Barcelona · Vacaciones cósmicas · Un día a elegir. · 2026-12-30–2026-12-30",
+      "country": "España",
+      "region": "Europa",
+      "city": "TBKids Barcelona · Carrer de Còrsega 98 · L’Eixample",
+      "start": "2026-12-30",
+      "end": "2026-12-30",
+      "period": "10 días separados del 22 de diciembre de 2026 al 7 de enero de 2027. Solo se eligen los días publicados.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "4–16 años. Robot Jr 4–6, Robot Plus 6–8, Robot Pro 9–12, Tech Genius desde 13 años. Mínimo 5 inscripciones por grupo.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Robótica, programación, LEGO y diseño 3D con temática espacial. Confirmar plataformas e idioma por grupo.",
+      "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "cost": "2026/27 · EUR 45 / 88 / 131 / 174 / 217 por 1 / 2 / 3 / 4 / 5 días. Después EUR 43 por día adicional. Descuento 5% para el segundo hermano. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "source": "https://tbkids.es/casal-navidad-barcelona/",
+      "references": [
+        {
+          "url": "https://tbkids.es/casal-navidad-barcelona/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Por edad encaja Robot Pro 9–12. Confirmar grupo y nivel. Oscar: Con 6 años encaja Robot Jr o Robot Plus. Confirmar asignación según nivel. Suplementos: Cuidado en comedor 14:00–15:00 por EUR 6 al día, comida de casa. Ludotech 15:00–16:00 por EUR 12 al día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "design",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "tbkids-barcelona-navidad-2026",
+      "camp_programme_id": "CP1646",
+      "sessions": [
+        {
+          "date": "2026-12-30",
+          "topic": "Robótica, programación, LEGO y diseño 3D con temática espacial. Confirmar plataformas e idioma por grupo.",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-30T08:00:00Z",
+          "end_utc": "2026-12-30T12:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "open",
+        "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+      }
+    },
+    {
+      "id": "CP1646-20261231-20261231",
+      "block": "Campamentos",
+      "title": "TBKids Barcelona · Vacaciones cósmicas · Un día a elegir. · 2026-12-31–2026-12-31",
+      "country": "España",
+      "region": "Europa",
+      "city": "TBKids Barcelona · Carrer de Còrsega 98 · L’Eixample",
+      "start": "2026-12-31",
+      "end": "2026-12-31",
+      "period": "10 días separados del 22 de diciembre de 2026 al 7 de enero de 2027. Solo se eligen los días publicados.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "4–16 años. Robot Jr 4–6, Robot Plus 6–8, Robot Pro 9–12, Tech Genius desde 13 años. Mínimo 5 inscripciones por grupo.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Robótica, programación, LEGO y diseño 3D con temática espacial. Confirmar plataformas e idioma por grupo.",
+      "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "cost": "2026/27 · EUR 45 / 88 / 131 / 174 / 217 por 1 / 2 / 3 / 4 / 5 días. Después EUR 43 por día adicional. Descuento 5% para el segundo hermano. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "source": "https://tbkids.es/casal-navidad-barcelona/",
+      "references": [
+        {
+          "url": "https://tbkids.es/casal-navidad-barcelona/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Por edad encaja Robot Pro 9–12. Confirmar grupo y nivel. Oscar: Con 6 años encaja Robot Jr o Robot Plus. Confirmar asignación según nivel. Suplementos: Cuidado en comedor 14:00–15:00 por EUR 6 al día, comida de casa. Ludotech 15:00–16:00 por EUR 12 al día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "design",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "tbkids-barcelona-navidad-2026",
+      "camp_programme_id": "CP1646",
+      "sessions": [
+        {
+          "date": "2026-12-31",
+          "topic": "Robótica, programación, LEGO y diseño 3D con temática espacial. Confirmar plataformas e idioma por grupo.",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-31T08:00:00Z",
+          "end_utc": "2026-12-31T12:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "open",
+        "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+      }
+    },
+    {
+      "id": "CP1646-20270104-20270104",
+      "block": "Campamentos",
+      "title": "TBKids Barcelona · Vacaciones cósmicas · Un día a elegir. · 2027-01-04–2027-01-04",
+      "country": "España",
+      "region": "Europa",
+      "city": "TBKids Barcelona · Carrer de Còrsega 98 · L’Eixample",
+      "start": "2027-01-04",
+      "end": "2027-01-04",
+      "period": "10 días separados del 22 de diciembre de 2026 al 7 de enero de 2027. Solo se eligen los días publicados.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "4–16 años. Robot Jr 4–6, Robot Plus 6–8, Robot Pro 9–12, Tech Genius desde 13 años. Mínimo 5 inscripciones por grupo.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Robótica, programación, LEGO y diseño 3D con temática espacial. Confirmar plataformas e idioma por grupo.",
+      "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "cost": "2027 · EUR 45 / 88 / 131 / 174 / 217 por 1 / 2 / 3 / 4 / 5 días. Después EUR 43 por día adicional. Descuento 5% para el segundo hermano. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "source": "https://tbkids.es/casal-navidad-barcelona/",
+      "references": [
+        {
+          "url": "https://tbkids.es/casal-navidad-barcelona/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Por edad encaja Robot Pro 9–12. Confirmar grupo y nivel. Oscar: Con 6 años encaja Robot Jr o Robot Plus. Confirmar asignación según nivel. Suplementos: Cuidado en comedor 14:00–15:00 por EUR 6 al día, comida de casa. Ludotech 15:00–16:00 por EUR 12 al día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "design",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "tbkids-barcelona-navidad-2026",
+      "camp_programme_id": "CP1646",
+      "sessions": [
+        {
+          "date": "2027-01-04",
+          "topic": "Robótica, programación, LEGO y diseño 3D con temática espacial. Confirmar plataformas e idioma por grupo.",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2027-01-04T08:00:00Z",
+          "end_utc": "2027-01-04T12:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "open",
+        "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+      }
+    },
+    {
+      "id": "CP1646-20270105-20270105",
+      "block": "Campamentos",
+      "title": "TBKids Barcelona · Vacaciones cósmicas · Un día a elegir. · 2027-01-05–2027-01-05",
+      "country": "España",
+      "region": "Europa",
+      "city": "TBKids Barcelona · Carrer de Còrsega 98 · L’Eixample",
+      "start": "2027-01-05",
+      "end": "2027-01-05",
+      "period": "10 días separados del 22 de diciembre de 2026 al 7 de enero de 2027. Solo se eligen los días publicados.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "4–16 años. Robot Jr 4–6, Robot Plus 6–8, Robot Pro 9–12, Tech Genius desde 13 años. Mínimo 5 inscripciones por grupo.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Robótica, programación, LEGO y diseño 3D con temática espacial. Confirmar plataformas e idioma por grupo.",
+      "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "cost": "2027 · EUR 45 / 88 / 131 / 174 / 217 por 1 / 2 / 3 / 4 / 5 días. Después EUR 43 por día adicional. Descuento 5% para el segundo hermano. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "source": "https://tbkids.es/casal-navidad-barcelona/",
+      "references": [
+        {
+          "url": "https://tbkids.es/casal-navidad-barcelona/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Por edad encaja Robot Pro 9–12. Confirmar grupo y nivel. Oscar: Con 6 años encaja Robot Jr o Robot Plus. Confirmar asignación según nivel. Suplementos: Cuidado en comedor 14:00–15:00 por EUR 6 al día, comida de casa. Ludotech 15:00–16:00 por EUR 12 al día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "design",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "tbkids-barcelona-navidad-2026",
+      "camp_programme_id": "CP1646",
+      "sessions": [
+        {
+          "date": "2027-01-05",
+          "topic": "Robótica, programación, LEGO y diseño 3D con temática espacial. Confirmar plataformas e idioma por grupo.",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2027-01-05T08:00:00Z",
+          "end_utc": "2027-01-05T12:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "open",
+        "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+      }
+    },
+    {
+      "id": "CP1646-20270107-20270107",
+      "block": "Campamentos",
+      "title": "TBKids Barcelona · Vacaciones cósmicas · Un día a elegir. · 2027-01-07–2027-01-07",
+      "country": "España",
+      "region": "Europa",
+      "city": "TBKids Barcelona · Carrer de Còrsega 98 · L’Eixample",
+      "start": "2027-01-07",
+      "end": "2027-01-07",
+      "period": "10 días separados del 22 de diciembre de 2026 al 7 de enero de 2027. Solo se eligen los días publicados.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "4–16 años. Robot Jr 4–6, Robot Plus 6–8, Robot Pro 9–12, Tech Genius desde 13 años. Mínimo 5 inscripciones por grupo.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Robótica, programación, LEGO y diseño 3D con temática espacial. Confirmar plataformas e idioma por grupo.",
+      "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "cost": "2027 · EUR 45 / 88 / 131 / 174 / 217 por 1 / 2 / 3 / 4 / 5 días. Después EUR 43 por día adicional. Descuento 5% para el segundo hermano. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "source": "https://tbkids.es/casal-navidad-barcelona/",
+      "references": [
+        {
+          "url": "https://tbkids.es/casal-navidad-barcelona/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Por edad encaja Robot Pro 9–12. Confirmar grupo y nivel. Oscar: Con 6 años encaja Robot Jr o Robot Plus. Confirmar asignación según nivel. Suplementos: Cuidado en comedor 14:00–15:00 por EUR 6 al día, comida de casa. Ludotech 15:00–16:00 por EUR 12 al día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "design",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "tbkids-barcelona-navidad-2026",
+      "camp_programme_id": "CP1646",
+      "sessions": [
+        {
+          "date": "2027-01-07",
+          "topic": "Robótica, programación, LEGO y diseño 3D con temática espacial. Confirmar plataformas e idioma por grupo.",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2027-01-07T08:00:00Z",
+          "end_utc": "2027-01-07T12:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "open",
+        "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+      }
+    },
+    {
+      "id": "CP1647-20261228-20261230",
+      "block": "Campamentos",
+      "title": "Kids&Us La Vaguada · The Perfect Christmas · Taller diurno. · 2026-12-28–2026-12-30",
+      "country": "España",
+      "region": "Europa",
+      "city": "Kids&Us La Vaguada · Plaza de Arteijo 9 · local 7 · Madrid",
+      "start": "2026-12-28",
+      "end": "2026-12-30",
+      "period": "Actividades 09:00–13:00. Entrada desde 08:45, recogida hasta 13:30.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "3–10 años. Admiten a menores que no estudian en Kids&Us.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Campamento diurno general: creatividad, música, cuentos y juegos de equipo en inglés.",
+      "language": "Todas las actividades se imparten en inglés.",
+      "cost": "2026/27 · EUR 110 por 3 días para no alumnos o EUR 95 para alumnos de Kids&Us. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "source": "https://www.kidsandus.es/es/academias-ingles/kidsus-vaguada/ya-aqui-fun-week-navidad",
+      "references": [
+        {
+          "url": "https://www.kidsandus.es/es/academias-ingles/kidsus-vaguada/ya-aqui-fun-week-navidad",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "general",
+        "languages",
+        "creative"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Todas las actividades se imparten en inglés.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "kidsus-vaguada-winter-2026",
+      "camp_programme_id": "CP1647",
+      "sessions": [
+        {
+          "date": "2026-12-28",
+          "topic": "Campamento diurno general: creatividad, música, cuentos y juegos de equipo en inglés.",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-28T08:00:00Z",
+          "end_utc": "2026-12-28T12:00:00Z"
+        },
+        {
+          "date": "2026-12-29",
+          "topic": "Campamento diurno general: creatividad, música, cuentos y juegos de equipo en inglés.",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-29T08:00:00Z",
+          "end_utc": "2026-12-29T12:00:00Z"
+        },
+        {
+          "date": "2026-12-30",
+          "topic": "Campamento diurno general: creatividad, música, cuentos y juegos de equipo en inglés.",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-30T08:00:00Z",
+          "end_utc": "2026-12-30T12:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "open",
+        "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
       }
     },
     {
