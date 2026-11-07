@@ -580,7 +580,7 @@
       }
     ],
     "counts": {
-      "records": 3732,
+      "records": 3733,
       "holiday": 3465,
       "regular": 114,
       "self_paced_materials": 2,
@@ -32641,6 +32641,62 @@
       "date_scope": "programme",
       "camp_programme_id": "CP1506",
       "camp_dossier_slug": "techlabkids-online-digital"
+    },
+    {
+      "id": "L645",
+      "block": "Campamentos",
+      "title": "Moonhack 2026 · Global project submission",
+      "country": "el mundo / las plataformas nacionales",
+      "region": "Global",
+      "city": "En línea desde cualquier país · operador Code Club Australia",
+      "start": "2026-10-14",
+      "end": "2026-11-14",
+      "period": "Se aceptan proyectos del 14 de octubre al 14 de noviembre de 2026.",
+      "date_status": "Confirmado",
+      "deadline": "2026-11-14",
+      "age": "La portada recomienda 7–15 años. El formulario enumera 6–8 y 9–11 años. Confirmar admisión para 6 años.",
+      "mat": "Sí por edad recomendada. Un adulto envía el proyecto.",
+      "osc": "Condicional. 6 años figura en el grupo del formulario y queda por debajo de la recomendación de portada.",
+      "format": "Proyecto autónomo con actividades del organizador. Materiales disponibles a distancia.",
+      "entry": "Un adulto puede enviar enlace, captura o archivo. La muestra del proyecto requiere consentimiento separado.",
+      "gear": "Opciones Scratch, IA, Python o micro:bit. Equipo según proyecto elegido.",
+      "language": "Idioma web no acredita idioma de defensa / enseñanza; confirmar EN / ES / RU para grupo elegido.",
+      "cost": "Participación gratuita según las bases del organizador.",
+      "level": "D — formación",
+      "reward": "Entrega y posible muestra del proyecto. Concurso con premios sujeto a residencia australiana.",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Elegir proyecto, probarlo y, si se desea, enviarlo hasta el 14 de noviembre de 2026.",
+      "source": "https://moonhack.com/",
+      "proof": "El formulario del organizador distingue entrega mundial y concurso con premios.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "El formulario separa la autorización de muestra y la inscripción al concurso con premios.",
+      "iso": [],
+      "themes": [
+        "games",
+        "coding",
+        "ai",
+        "technology"
+      ],
+      "scope": "international",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma web no acredita idioma de defensa / enseñanza; confirmar EN / ES / RU para grupo elegido.",
+      "participation": "online",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "submission_window",
+      "references": [
+        {
+          "url": "https://moonhack.com/submit/",
+          "label": "Moonhack · condiciones de entrega, muestra y premios"
+        },
+        {
+          "url": "https://moonhack.com/projects/",
+          "label": "Moonhack · proyectos de temporada"
+        }
+      ],
+      "registration_status": "El organizador publica formulario de entrega. Confirmación de cada trabajo por separado."
     },
     {
       "id": "CP001-20270606-20270619",

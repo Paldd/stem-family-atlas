@@ -1,0 +1,1135 @@
+{
+  "version": 201,
+  "checked": "2026-11-07",
+  "source": "https://www.bebras.org/countries",
+  "source_api": "https://www.bebras.org/api/pages/countries",
+  "source_published_at": "2024-11-03T12:48:00.783Z",
+  "source_updated_at": "2026-09-07T13:29:27.824Z",
+  "directory_cards": [
+    {
+      "provider_id": 80,
+      "name": "Algeria",
+      "isos": [
+        "DZA"
+      ],
+      "membership": "full",
+      "listed_url": "https://alawael.education/concours-elkoundous/",
+      "native_status": 404,
+      "resolved_url": "https://alawael.education/concours-elkoundous/",
+      "link_status": "unconfirmed_link"
+    },
+    {
+      "provider_id": 137,
+      "name": "Argentina",
+      "isos": [
+        "ARG"
+      ],
+      "membership": "full",
+      "listed_url": "",
+      "native_status": null,
+      "resolved_url": "",
+      "link_status": "no_listed_url"
+    },
+    {
+      "provider_id": 195,
+      "name": "Armenia",
+      "isos": [
+        "ARM"
+      ],
+      "membership": "full",
+      "listed_url": "https://bebras.am/",
+      "native_status": 200,
+      "resolved_url": "https://www.bebras.am/hy",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 81,
+      "name": "Australia",
+      "isos": [
+        "AUS"
+      ],
+      "membership": "full",
+      "listed_url": "https://www.amt.edu.au/bebras",
+      "native_status": 200,
+      "resolved_url": "https://amt.edu.au/bebras",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 82,
+      "name": "Austria",
+      "isos": [
+        "AUT"
+      ],
+      "membership": "full",
+      "listed_url": "https://www.ocg.at/biber-der-informatik",
+      "native_status": 200,
+      "resolved_url": "https://www.ocg.at/biber-der-informatik",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 138,
+      "name": "Azerbaijan",
+      "isos": [
+        "AZE"
+      ],
+      "membership": "full",
+      "listed_url": "https://bebras.az/",
+      "native_status": 200,
+      "resolved_url": "https://bebras.az/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 83,
+      "name": "Belarus",
+      "isos": [
+        "BLR"
+      ],
+      "membership": "full",
+      "listed_url": "",
+      "native_status": null,
+      "resolved_url": "",
+      "link_status": "no_listed_url"
+    },
+    {
+      "provider_id": 84,
+      "name": "Belgium",
+      "isos": [
+        "BEL"
+      ],
+      "membership": "full",
+      "listed_url": "https://www.bebras.be/",
+      "native_status": 200,
+      "resolved_url": "https://www.bebras.be/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 85,
+      "name": "Bosnia and Herzegovina",
+      "isos": [
+        "BIH"
+      ],
+      "membership": "full",
+      "listed_url": "http://www.dabar-informaticar.ba/",
+      "native_status": 200,
+      "resolved_url": "https://www.dabar-informaticar.ba/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 139,
+      "name": "Brazil",
+      "isos": [
+        "BRA"
+      ],
+      "membership": "full",
+      "listed_url": "https://bebrasbrasil.com.br/",
+      "native_status": 200,
+      "resolved_url": "https://www.bebrasbrasil.com.br/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 86,
+      "name": "Bulgaria",
+      "isos": [
+        "BGR"
+      ],
+      "membership": "full",
+      "listed_url": "http://www.math.bas.bg/bbr/",
+      "native_status": 200,
+      "resolved_url": "https://www.math.bas.bg/bbr/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 87,
+      "name": "Canada",
+      "isos": [
+        "CAN"
+      ],
+      "membership": "full",
+      "listed_url": "http://www.cemc.uwaterloo.ca/contests/bcc.html",
+      "native_status": 200,
+      "resolved_url": "https://cemc.uwaterloo.ca/contests/bcc",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 88,
+      "name": "China",
+      "isos": [
+        "CHN"
+      ],
+      "membership": "full",
+      "listed_url": "https://www.seedasdan.asia/en/bebras-en/",
+      "native_status": 200,
+      "resolved_url": "https://www.seedasdan.asia/en/bebras-en/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 196,
+      "name": "Colombia",
+      "isos": [
+        "COL"
+      ],
+      "membership": "full",
+      "listed_url": "",
+      "native_status": null,
+      "resolved_url": "",
+      "link_status": "no_listed_url"
+    },
+    {
+      "provider_id": 90,
+      "name": "Croatia",
+      "isos": [
+        "HRV"
+      ],
+      "membership": "full",
+      "listed_url": "http://ucitelji.hr/dabar/",
+      "native_status": 403,
+      "resolved_url": "https://ucitelji.hr/dabar/",
+      "link_status": "unconfirmed_link"
+    },
+    {
+      "provider_id": 89,
+      "name": "Cyprus",
+      "isos": [
+        "CYP"
+      ],
+      "membership": "full",
+      "listed_url": "http://www.bebras.org.cy/",
+      "native_status": 200,
+      "resolved_url": "https://www.bebras.org.cy/el/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 91,
+      "name": "Czechia",
+      "isos": [
+        "CZE"
+      ],
+      "membership": "full",
+      "listed_url": "http://www.ibobr.cz/",
+      "native_status": 200,
+      "resolved_url": "https://www.ibobr.cz/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 92,
+      "name": "Egypt",
+      "isos": [
+        "EGY"
+      ],
+      "membership": "full",
+      "listed_url": "https://www.beaveregypt.org/",
+      "native_status": 200,
+      "resolved_url": "https://www.beaveregypt.org/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 93,
+      "name": "Estonia",
+      "isos": [
+        "EST"
+      ],
+      "membership": "full",
+      "listed_url": "http://kobras.eio.ee/",
+      "native_status": 200,
+      "resolved_url": "https://kobras.eio.ee/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 94,
+      "name": "Finland",
+      "isos": [
+        "FIN"
+      ],
+      "membership": "full",
+      "listed_url": "https://majava-kilpailu.fi/",
+      "native_status": 200,
+      "resolved_url": "https://majava-kilpailu.fi/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 95,
+      "name": "France",
+      "isos": [
+        "FRA"
+      ],
+      "membership": "full",
+      "listed_url": "http://castor-informatique.fr/",
+      "native_status": 200,
+      "resolved_url": "https://castor-informatique.fr/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 96,
+      "name": "Germany",
+      "isos": [
+        "DEU"
+      ],
+      "membership": "full",
+      "listed_url": "http://www.informatik-biber.de/",
+      "native_status": 200,
+      "resolved_url": "https://bwinf.de/biber/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 197,
+      "name": "Greece",
+      "isos": [
+        "GRC"
+      ],
+      "membership": "full",
+      "listed_url": "",
+      "native_status": null,
+      "resolved_url": "",
+      "link_status": "no_listed_url"
+    },
+    {
+      "provider_id": 97,
+      "name": "Hungary",
+      "isos": [
+        "HUN"
+      ],
+      "membership": "full",
+      "listed_url": "http://e-hod.elte.hu/",
+      "native_status": 200,
+      "resolved_url": "https://e-hod.elte.hu/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 98,
+      "name": "Iceland",
+      "isos": [
+        "ISL"
+      ],
+      "membership": "full",
+      "listed_url": "http://www.bebras.is/",
+      "native_status": 200,
+      "resolved_url": "https://www.bebras.is/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 99,
+      "name": "India",
+      "isos": [
+        "IND"
+      ],
+      "membership": "full",
+      "listed_url": "https://www.bebras.in/",
+      "native_status": 200,
+      "resolved_url": "https://www.bebras.in/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 100,
+      "name": "Indonesia",
+      "isos": [
+        "IDN"
+      ],
+      "membership": "full",
+      "listed_url": "http://bebras.or.id/",
+      "native_status": 200,
+      "resolved_url": "https://bebras.or.id/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 101,
+      "name": "Iran",
+      "isos": [
+        "IRN"
+      ],
+      "membership": "full",
+      "listed_url": "http://bebras.ir/",
+      "native_status": 200,
+      "resolved_url": "https://bebras.ir/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 102,
+      "name": "Ireland",
+      "isos": [
+        "IRL"
+      ],
+      "membership": "full",
+      "listed_url": "https://ics.ie/bebras/",
+      "native_status": 200,
+      "resolved_url": "https://ics.ie/bebras/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 103,
+      "name": "Italy",
+      "isos": [
+        "ITA"
+      ],
+      "membership": "full",
+      "listed_url": "http://www.bebras.it/",
+      "native_status": null,
+      "resolved_url": "",
+      "link_status": "unconfirmed_link"
+    },
+    {
+      "provider_id": 198,
+      "name": "Jamaica",
+      "isos": [
+        "JAM"
+      ],
+      "membership": "full",
+      "listed_url": "",
+      "native_status": null,
+      "resolved_url": "",
+      "link_status": "no_listed_url"
+    },
+    {
+      "provider_id": 104,
+      "name": "Japan",
+      "isos": [
+        "JPN"
+      ],
+      "membership": "full",
+      "listed_url": "http://bebras.eplang.jp/",
+      "native_status": 200,
+      "resolved_url": "https://bebras.eplang.jp/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 105,
+      "name": "Latvia",
+      "isos": [
+        "LVA"
+      ],
+      "membership": "full",
+      "listed_url": "https://www.visma.lv/bebrs/",
+      "native_status": 200,
+      "resolved_url": "https://www.visma.com/",
+      "link_status": "different_destination"
+    },
+    {
+      "provider_id": 106,
+      "name": "Lithuania",
+      "isos": [
+        "LTU"
+      ],
+      "membership": "full",
+      "listed_url": "http://www.bebras.lt/",
+      "native_status": 200,
+      "resolved_url": "https://bebras.lt/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 107,
+      "name": "Malaysia",
+      "isos": [
+        "MYS"
+      ],
+      "membership": "full",
+      "listed_url": "http://beaver.my/",
+      "native_status": 200,
+      "resolved_url": "https://beaver.my/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 199,
+      "name": "Mexico",
+      "isos": [
+        "MEX"
+      ],
+      "membership": "full",
+      "listed_url": "",
+      "native_status": null,
+      "resolved_url": "",
+      "link_status": "no_listed_url"
+    },
+    {
+      "provider_id": 149,
+      "name": "Montenegro",
+      "isos": [
+        "MNE"
+      ],
+      "membership": "full",
+      "listed_url": "https://www.igramiranje.me/dabar/odabru",
+      "native_status": 200,
+      "resolved_url": "https://www.igramiranje.me/dabar/odabru",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 108,
+      "name": "Netherlands",
+      "isos": [
+        "NLD"
+      ],
+      "membership": "full",
+      "listed_url": "http://www.beverwedstrijd.nl/",
+      "native_status": 200,
+      "resolved_url": "https://www.beverwedstrijd.nl/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 109,
+      "name": "New Zealand",
+      "isos": [
+        "NZL"
+      ],
+      "membership": "full",
+      "listed_url": "http://www.beaverchallenge.org.nz/",
+      "native_status": null,
+      "resolved_url": "",
+      "link_status": "unconfirmed_link"
+    },
+    {
+      "provider_id": 110,
+      "name": "North Macedonia",
+      "isos": [
+        "MKD"
+      ],
+      "membership": "full",
+      "listed_url": "https://talent.mk/",
+      "native_status": 200,
+      "resolved_url": "https://dabar2025.talent.mk/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 111,
+      "name": "Pakistan",
+      "isos": [
+        "PAK"
+      ],
+      "membership": "full",
+      "listed_url": "https://illuminedminds.org",
+      "native_status": 200,
+      "resolved_url": "https://illuminedminds.org/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 200,
+      "name": "Paraguay",
+      "isos": [
+        "PRY"
+      ],
+      "membership": "full",
+      "listed_url": "",
+      "native_status": null,
+      "resolved_url": "",
+      "link_status": "no_listed_url"
+    },
+    {
+      "provider_id": 112,
+      "name": "Philippines",
+      "isos": [
+        "PHL"
+      ],
+      "membership": "full",
+      "listed_url": "https://bebras.amsliphil.com/",
+      "native_status": 200,
+      "resolved_url": "https://bebras.amsliphil.com/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 113,
+      "name": "Poland",
+      "isos": [
+        "POL"
+      ],
+      "membership": "full",
+      "listed_url": "http://www.bobr.edu.pl/",
+      "native_status": 200,
+      "resolved_url": "https://www.bobr.edu.pl/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 114,
+      "name": "Portugal",
+      "isos": [
+        "PRT"
+      ],
+      "membership": "full",
+      "listed_url": "http://bebras.dcc.fc.up.pt/",
+      "native_status": 200,
+      "resolved_url": "https://bebras.dcc.fc.up.pt/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 201,
+      "name": "Puerto Rico",
+      "isos": [
+        "PRI"
+      ],
+      "membership": "full",
+      "listed_url": "https://www.uprm.edu/oipr/",
+      "native_status": 200,
+      "resolved_url": "https://www.uprm.edu/oipr/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 115,
+      "name": "Romania",
+      "isos": [
+        "ROU"
+      ],
+      "membership": "full",
+      "listed_url": "http://concurs.bebras.ro/",
+      "native_status": 200,
+      "resolved_url": "https://concurs.bebras.ro/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 116,
+      "name": "Russian Federation",
+      "isos": [
+        "RUS"
+      ],
+      "membership": "full",
+      "listed_url": "",
+      "native_status": null,
+      "resolved_url": "",
+      "link_status": "no_listed_url"
+    },
+    {
+      "provider_id": 117,
+      "name": "Saudi Arabia",
+      "isos": [
+        "SAU"
+      ],
+      "membership": "full",
+      "listed_url": "http://english.bebrasksa.org/",
+      "native_status": 200,
+      "resolved_url": "https://english.bebrasksa.org/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 118,
+      "name": "Serbia",
+      "isos": [
+        "SRB"
+      ],
+      "membership": "full",
+      "listed_url": "http://dabar.edu.rs/",
+      "native_status": 200,
+      "resolved_url": "https://dabar.edu.rs/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 119,
+      "name": "Singapore",
+      "isos": [
+        "SGP"
+      ],
+      "membership": "full",
+      "listed_url": "http://bebras.simcc.org/",
+      "native_status": 403,
+      "resolved_url": "https://bebras.simcc.org/",
+      "link_status": "unconfirmed_link"
+    },
+    {
+      "provider_id": 120,
+      "name": "Slovakia",
+      "isos": [
+        "SVK"
+      ],
+      "membership": "full",
+      "listed_url": "http://ibobor.sk/",
+      "native_status": 200,
+      "resolved_url": "https://ibobor.sk/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 121,
+      "name": "Slovenia",
+      "isos": [
+        "SVN"
+      ],
+      "membership": "full",
+      "listed_url": "http://tekmovanja.acm.si/bober",
+      "native_status": 200,
+      "resolved_url": "https://tekmovanja.acm.si/bober",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 122,
+      "name": "Republic of South Africa",
+      "isos": [
+        "ZAF"
+      ],
+      "membership": "full",
+      "listed_url": "http://challenge.beaver.org.za/",
+      "native_status": 200,
+      "resolved_url": "https://challenge.beaver.org.za/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 123,
+      "name": "South Korea",
+      "isos": [
+        "KOR"
+      ],
+      "membership": "full",
+      "listed_url": "http://bebras.kr/",
+      "native_status": 200,
+      "resolved_url": "https://www.bebras.kr/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 124,
+      "name": "Spain",
+      "isos": [
+        "ESP"
+      ],
+      "membership": "full",
+      "listed_url": "http://bebras.ehu.eus/",
+      "native_status": 200,
+      "resolved_url": "https://bebras.ehu.eus/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 125,
+      "name": "Sweden",
+      "isos": [
+        "SWE"
+      ],
+      "membership": "full",
+      "listed_url": "https://www.bebras.se/",
+      "native_status": 200,
+      "resolved_url": "https://www.bebras.se/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 126,
+      "name": "Switzerland",
+      "isos": [
+        "CHE"
+      ],
+      "membership": "full",
+      "listed_url": "http://www.informatik-biber.ch/",
+      "native_status": 200,
+      "resolved_url": "https://www.informatik-biber.ch/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 127,
+      "name": "Syria",
+      "isos": [
+        "SYR"
+      ],
+      "membership": "full",
+      "listed_url": "",
+      "native_status": null,
+      "resolved_url": "",
+      "link_status": "no_listed_url"
+    },
+    {
+      "provider_id": 128,
+      "name": "Taiwan",
+      "isos": [
+        "TWN"
+      ],
+      "membership": "full",
+      "listed_url": "https://bebras.csie.ntnu.edu.tw/",
+      "native_status": 200,
+      "resolved_url": "https://bebras.csie.ntnu.edu.tw/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 129,
+      "name": "Thailand",
+      "isos": [
+        "THA"
+      ],
+      "membership": "full",
+      "listed_url": "https://www.bebras.in.th/wordpress/en/main_en/",
+      "native_status": 200,
+      "resolved_url": "https://www.bebras.in.th/wordpress/en/main_en-2/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 130,
+      "name": "Türkiye",
+      "isos": [
+        "TUR"
+      ],
+      "membership": "full",
+      "listed_url": "http://www.bilgekunduz.org/",
+      "native_status": null,
+      "resolved_url": "",
+      "link_status": "unconfirmed_link"
+    },
+    {
+      "provider_id": 131,
+      "name": "Ukraine",
+      "isos": [
+        "UKR"
+      ],
+      "membership": "full",
+      "listed_url": "http://bober.net.ua/",
+      "native_status": 200,
+      "resolved_url": "https://bober.net.ua/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 132,
+      "name": "United Kingdom",
+      "isos": [
+        "GBR"
+      ],
+      "membership": "full",
+      "listed_url": "http://www.bebras.uk/",
+      "native_status": 200,
+      "resolved_url": "https://www.bebras.uk/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 133,
+      "name": "Uruguay",
+      "isos": [
+        "URY"
+      ],
+      "membership": "full",
+      "listed_url": "https://www.ceibal.edu.uy/bebras",
+      "native_status": 403,
+      "resolved_url": "https://www.ceibal.edu.uy/bebras",
+      "link_status": "unconfirmed_link"
+    },
+    {
+      "provider_id": 134,
+      "name": "United States of America",
+      "isos": [
+        "USA"
+      ],
+      "membership": "full",
+      "listed_url": "http://www.bebraschallenge.org/",
+      "native_status": 200,
+      "resolved_url": "https://bebraschallenge.org/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 135,
+      "name": "Uzbekistan",
+      "isos": [
+        "UZB"
+      ],
+      "membership": "full",
+      "listed_url": "https://www.uzbcdc.uz/contests/bebras",
+      "native_status": 200,
+      "resolved_url": "https://www.uzbcdc.uz/contests/bebras",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 136,
+      "name": "Vietnam",
+      "isos": [
+        "VNM"
+      ],
+      "membership": "full",
+      "listed_url": "http://www.bebras.vn/",
+      "native_status": 200,
+      "resolved_url": "https://www.bebras.vn/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 158,
+      "name": "Afghanistan",
+      "isos": [
+        "AFG"
+      ],
+      "membership": "provisional",
+      "listed_url": "",
+      "native_status": null,
+      "resolved_url": "",
+      "link_status": "no_listed_url"
+    },
+    {
+      "provider_id": 185,
+      "name": "Bolivia",
+      "isos": [
+        "BOL"
+      ],
+      "membership": "provisional",
+      "listed_url": "https://bebras.org.bo/",
+      "native_status": 200,
+      "resolved_url": "https://bebras.org.bo/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 167,
+      "name": "Botswana",
+      "isos": [
+        "BWA"
+      ],
+      "membership": "provisional",
+      "listed_url": "",
+      "native_status": null,
+      "resolved_url": "",
+      "link_status": "no_listed_url"
+    },
+    {
+      "provider_id": 186,
+      "name": "Cameroon",
+      "isos": [
+        "CMR"
+      ],
+      "membership": "provisional",
+      "listed_url": "https://promomaths.com",
+      "native_status": 200,
+      "resolved_url": "https://www.promomaths.com/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 160,
+      "name": "Costa Rica",
+      "isos": [
+        "CRI"
+      ],
+      "membership": "provisional",
+      "listed_url": "http://www.cangurocr.org",
+      "native_status": null,
+      "resolved_url": "",
+      "link_status": "unconfirmed_link"
+    },
+    {
+      "provider_id": 161,
+      "name": "Denmark",
+      "isos": [
+        "DNK"
+      ],
+      "membership": "provisional",
+      "listed_url": "https://bebras.dk/",
+      "native_status": 200,
+      "resolved_url": "https://bebras.dk/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 171,
+      "name": "Dominican Republic",
+      "isos": [
+        "DOM"
+      ],
+      "membership": "provisional",
+      "listed_url": "",
+      "native_status": null,
+      "resolved_url": "",
+      "link_status": "no_listed_url"
+    },
+    {
+      "provider_id": 187,
+      "name": "Ecuador",
+      "isos": [
+        "ECU"
+      ],
+      "membership": "provisional",
+      "listed_url": "",
+      "native_status": null,
+      "resolved_url": "",
+      "link_status": "no_listed_url"
+    },
+    {
+      "provider_id": 188,
+      "name": "Ghana",
+      "isos": [
+        "GHA"
+      ],
+      "membership": "provisional",
+      "listed_url": "",
+      "native_status": null,
+      "resolved_url": "",
+      "link_status": "no_listed_url"
+    },
+    {
+      "provider_id": 189,
+      "name": "Hong Kong & Macao",
+      "isos": [
+        "HKG",
+        "MAC"
+      ],
+      "membership": "provisional",
+      "listed_url": "https://bebrashk.aseeder.asia/",
+      "native_status": 200,
+      "resolved_url": "https://bebrashk.aseeder.asia/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 173,
+      "name": "Republic of Kazakhstan",
+      "isos": [
+        "KAZ"
+      ],
+      "membership": "provisional",
+      "listed_url": "",
+      "native_status": null,
+      "resolved_url": "",
+      "link_status": "no_listed_url"
+    },
+    {
+      "provider_id": 163,
+      "name": "Kosovo",
+      "isos": [],
+      "membership": "provisional",
+      "listed_url": "",
+      "native_status": null,
+      "resolved_url": "",
+      "link_status": "no_listed_url"
+    },
+    {
+      "provider_id": 172,
+      "name": "Libya",
+      "isos": [
+        "LBY"
+      ],
+      "membership": "provisional",
+      "listed_url": "",
+      "native_status": null,
+      "resolved_url": "",
+      "link_status": "no_listed_url"
+    },
+    {
+      "provider_id": 190,
+      "name": "Luxembourg",
+      "isos": [
+        "LUX"
+      ],
+      "membership": "provisional",
+      "listed_url": "https://bebras.lu/",
+      "native_status": 200,
+      "resolved_url": "https://bebras.lu/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 164,
+      "name": "Malta",
+      "isos": [
+        "MLT"
+      ],
+      "membership": "provisional",
+      "listed_url": "https://computationalthinking.mt/",
+      "native_status": 200,
+      "resolved_url": "https://www.computationalthinking.mt/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 174,
+      "name": "Myanmar",
+      "isos": [
+        "MMR"
+      ],
+      "membership": "provisional",
+      "listed_url": "",
+      "native_status": null,
+      "resolved_url": "",
+      "link_status": "no_listed_url"
+    },
+    {
+      "provider_id": 191,
+      "name": "Mongolia",
+      "isos": [
+        "MNG"
+      ],
+      "membership": "provisional",
+      "listed_url": "",
+      "native_status": null,
+      "resolved_url": "",
+      "link_status": "no_listed_url"
+    },
+    {
+      "provider_id": 166,
+      "name": "Namibia",
+      "isos": [
+        "NAM"
+      ],
+      "membership": "provisional",
+      "listed_url": "https://www.bebrasnamibia.com/",
+      "native_status": 200,
+      "resolved_url": "https://www.bebrasnamibia.com/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 175,
+      "name": "Norway",
+      "isos": [
+        "NOR"
+      ],
+      "membership": "provisional",
+      "listed_url": "",
+      "native_status": null,
+      "resolved_url": "",
+      "link_status": "no_listed_url"
+    },
+    {
+      "provider_id": 192,
+      "name": "Palestine",
+      "isos": [
+        "PSE"
+      ],
+      "membership": "provisional",
+      "listed_url": "",
+      "native_status": null,
+      "resolved_url": "",
+      "link_status": "no_listed_url"
+    },
+    {
+      "provider_id": 155,
+      "name": "Peru",
+      "isos": [
+        "PER"
+      ],
+      "membership": "provisional",
+      "listed_url": "https://bebras.pe/",
+      "native_status": 200,
+      "resolved_url": "https://bebras.pe/",
+      "link_status": "https_response_only"
+    },
+    {
+      "provider_id": 193,
+      "name": "Sri Lanka",
+      "isos": [
+        "LKA"
+      ],
+      "membership": "provisional",
+      "listed_url": "",
+      "native_status": null,
+      "resolved_url": "",
+      "link_status": "no_listed_url"
+    },
+    {
+      "provider_id": 194,
+      "name": "Tanzania",
+      "isos": [
+        "TZA"
+      ],
+      "membership": "provisional",
+      "listed_url": "",
+      "native_status": null,
+      "resolved_url": "",
+      "link_status": "no_listed_url"
+    }
+  ],
+  "dated_bebras_event_ids": [
+    "C2934",
+    "C2935",
+    "C2936",
+    "C2937",
+    "C2938",
+    "C2939",
+    "C2940",
+    "C2941",
+    "C2942",
+    "C2943",
+    "C2944",
+    "C2945",
+    "C2946",
+    "C2947",
+    "C2948",
+    "C2949",
+    "C2950",
+    "C2951",
+    "C2952",
+    "C2953",
+    "C2954",
+    "C2955",
+    "C2956"
+  ],
+  "moonhack_global_submission_id": "L645",
+  "scratch_archived_final_id": "C2958",
+  "fia_submission_window_id": "C2957",
+  "historical_directory_statistics_period": [
+    "2025-11",
+    "2026-04"
+  ],
+  "all_directory_cards_checked": true,
+  "all_member_season_rules_checked": false
+}

@@ -2453,6 +2453,45 @@ Limitaciones: No se establece plaza clasificatoria de este registro; el nombre d
 Fuente: https://recfevents.org/Events/Details/623
 Se ha comprobado: 2026-11-06
 
+### C2947 · Desafio Bebras Brasil 2026 · Pre-Primary / Primary
+
+Fecha: 2026-10-01 — 2026-10-07
+edad: Pre-Primary · 3 de EFI. Primary · 4–5 de EFI.
+Matvey: Condicional con el grado adecuado y un centro participante.
+Oscar: No por la edad habitual del grado. Comprobar el grado real.
+Idioma: Prueba en portugués según las bases.
+Acceso: Inscripción solo por centro brasileño con MEC/INEP. Prueba en el centro por internet o en papel.
+Precio: Paquete básico por centro. 280 BRL público, 580 BRL privado. Medallas y paquetes ampliados aparte.
+Limitaciones:
+Fuente: https://www.bebrasbrasil.com.br/regulamento
+Se ha comprobado: 2026-11-07
+
+### C2948 · Bebras Bolivia 2026 · Guacamayo / Capibara
+
+Fecha: 2026-11-16 — 2026-11-20
+edad: Guacamayo · 5–8 años. Capibara · 8–10 años. Confirmar edades límite con el centro.
+Matvey: Condicional con el grado adecuado y un centro participante.
+Oscar: Condicional con el grado adecuado y un centro participante.
+Idioma: Confirmar idioma de la prueba para el grupo elegido.
+Acceso: El coordinador escolar registra participantes y fija el horario de la prueba.
+Precio: Participación gratuita según las bases del organizador.
+Limitaciones:
+Fuente: https://bebras.org.bo/
+Se ha comprobado: 2026-11-07
+
+### C2949 · Desafío Bebras Perú 2026 · escolar
+
+Fecha: 2026-11-09 — 2026-11-20
+edad: Desde 3 de primaria hasta 4 de secundaria. Participantes de centros de Perú.
+Matvey: Condicional con el grado adecuado y un centro participante.
+Oscar: No por la edad habitual del grado. Comprobar el grado real.
+Idioma: Confirmar idioma de la prueba para el grupo elegido.
+Acceso: El coordinador escolar registra participantes y fija el horario de la prueba.
+Precio: Participación gratuita según las bases del organizador.
+Limitaciones:
+Fuente: https://bebras.pe/
+Se ha comprobado: 2026-11-07
+
 ### CP047-20270103-20270108 · Camp Mákemáke · 2027-01-03–2027-01-08
 
 Fecha: 2027-01-03 国 2027-01-08

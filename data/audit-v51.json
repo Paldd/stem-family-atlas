@@ -16,11 +16,11 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 6930,
-    "competition_cards": 2932,
+    "cards": 6956,
+    "competition_cards": 2957,
     "event_cards": 266,
-    "camp_cards": 3732,
-    "league_profiles": 256,
+    "camp_cards": 3733,
+    "league_profiles": 257,
     "major_exhibition_cards": 174,
     "vex_cards": 518,
     "countries_with_records": 158,
@@ -34,9 +34,9 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 2537,
+      "total": 2538,
       "countries_with_records": 23,
-      "competitions": 1418,
+      "competitions": 1419,
       "events": 62,
       "major_exhibitions": 23,
       "camps": 1057,
@@ -48,9 +48,9 @@
       "regions": [
         "Южная Америка"
       ],
-      "total": 287,
+      "total": 290,
       "countries_with_records": 10,
-      "competitions": 164,
+      "competitions": 167,
       "events": 10,
       "major_exhibitions": 7,
       "camps": 113,
@@ -62,9 +62,9 @@
       "regions": [
         "Европа"
       ],
-      "total": 1726,
+      "total": 1744,
       "countries_with_records": 42,
-      "competitions": 394,
+      "competitions": 412,
       "events": 76,
       "major_exhibitions": 55,
       "camps": 1256,
@@ -76,9 +76,9 @@
       "regions": [
         "Африка"
       ],
-      "total": 205,
+      "total": 206,
       "countries_with_records": 34,
-      "competitions": 114,
+      "competitions": 115,
       "events": 23,
       "major_exhibitions": 15,
       "camps": 68,
@@ -90,9 +90,9 @@
       "regions": [
         "Азия"
       ],
-      "total": 1830,
+      "total": 1831,
       "countries_with_records": 44,
-      "competitions": 634,
+      "competitions": 635,
       "events": 83,
       "major_exhibitions": 71,
       "camps": 1113,
@@ -104,9 +104,9 @@
       "regions": [
         "Океания"
       ],
-      "total": 239,
+      "total": 240,
       "countries_with_records": 5,
-      "competitions": 118,
+      "competitions": 119,
       "events": 7,
       "major_exhibitions": 3,
       "camps": 114,
@@ -534,7 +534,7 @@
         "C1769"
       ],
       "cards": 284,
-      "future_dated": 183,
+      "future_dated": 178,
       "linked_card_count": 284,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.firstinspires.org/programs/fll/",
@@ -1065,7 +1065,7 @@
         "C1158"
       ],
       "cards": 518,
-      "future_dated": 421,
+      "future_dated": 418,
       "linked_card_count": 518,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.vexrobotics.com/official-path",
@@ -1747,7 +1747,7 @@
         "C2929"
       ],
       "cards": 624,
-      "future_dated": 528,
+      "future_dated": 527,
       "linked_card_count": 633,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://recf.org/teams/recf-robotics-competition/",
@@ -2351,11 +2351,35 @@
         "C1291",
         "C1292",
         "C1293",
-        "C1294"
+        "C1294",
+        "C1438",
+        "C2934",
+        "C2935",
+        "C2936",
+        "C2937",
+        "C2938",
+        "C2939",
+        "C2940",
+        "C2941",
+        "C2942",
+        "C2943",
+        "C2944",
+        "C2945",
+        "C2946",
+        "C2947",
+        "C2948",
+        "C2949",
+        "C2950",
+        "C2951",
+        "C2952",
+        "C2953",
+        "C2954",
+        "C2955",
+        "C2956"
       ],
-      "cards": 27,
-      "future_dated": 25,
-      "linked_card_count": 27,
+      "cards": 51,
+      "future_dated": 48,
+      "linked_card_count": 51,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.bebras.org/countries",
       "new": false
@@ -5627,7 +5651,7 @@
         "C2895"
       ],
       "cards": 356,
-      "future_dated": 306,
+      "future_dated": 305,
       "linked_card_count": 361,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://recf.org/teams/recf-robotics-competition/",
@@ -5706,6 +5730,20 @@
       "linked_card_count": 0,
       "status": "Только профиль; календарь этапов не добавлен",
       "source": "https://games.recf.org/launch-robotics/1.1",
+      "new": false
+    },
+    {
+      "id": "creative-scratch-olympiad",
+      "name": "International Scratch Creative Programming Olympiad",
+      "group": "international",
+      "event_ids": [
+        "C2958"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "linked_card_count": 1,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://creativeprogramming.org/",
       "new": false
     },
     {
@@ -5819,7 +5857,7 @@
         "C1538"
       ],
       "cards": 55,
-      "future_dated": 28,
+      "future_dated": 23,
       "linked_card_count": 55,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://hjernekraft.org/no",
@@ -6369,7 +6407,7 @@
       ],
       "cards": 1,
       "future_dated": 1,
-      "linked_card_count": 1,
+      "linked_card_count": 2,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://moonhack.com/",
       "new": false
@@ -6534,7 +6572,7 @@
         "C1857"
       ],
       "cards": 8,
-      "future_dated": 8,
+      "future_dated": 7,
       "linked_card_count": 8,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.firstaustralia.org/first-lego-league-explore",
@@ -6580,7 +6618,7 @@
         "C1855"
       ],
       "cards": 33,
-      "future_dated": 33,
+      "future_dated": 28,
       "linked_card_count": 33,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.firstaustralia.org/first-lego-league-challenge",
@@ -6622,7 +6660,7 @@
         "C1851"
       ],
       "cards": 12,
-      "future_dated": 12,
+      "future_dated": 11,
       "linked_card_count": 12,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.firstaustralia.org/first-tech-challenge",
@@ -9987,7 +10025,7 @@
       "official_alternative": "https://www.ykpaoschool.cn/News-and-Events/New-Stories/988"
     }
   ],
-  "interregional_cards": 106,
+  "interregional_cards": 107,
   "promoted_exhibition_ids": [],
   "focused_country": {
     "country": "Тайвань",
@@ -11024,7 +11062,7 @@
       }
     ],
     "counts": {
-      "records": 3732,
+      "records": 3733,
       "holiday": 3465,
       "regular": 114,
       "self_paced_materials": 2,
@@ -13232,5 +13270,5 @@
     "source_receipts": "33 HTTP requests,3failed;17primary bodies read plus2LATI summaries; PDF relevant pages visually inspected; shell-only pages not declared read"
   },
   "updated_profile_ids": [],
-  "calendar_counts_asof": "2026-11-06"
+  "calendar_counts_asof": "2026-11-07"
 }

@@ -9094,6 +9094,22 @@ Limitaciones: La ficha del curso digital indica febrero de 2026 para Latinoamér
 Fuente: https://academy.techlabkids.com/programacion-y-creacion-digital/
 Se ha comprobado: 2026-11-06
 
+### L645 · Moonhack 2026 · Global project submission
+
+lugar: el mundo / las plataformas nacionales · En línea desde cualquier país · operador Code Club Australia
+Fecha: 2026-10-14 — 2026-11-14
+edad: La portada recomienda 7–15 años. El formulario enumera 6–8 y 9–11 años. Confirmar admisión para 6 años.
+Matvey: Sí por edad recomendada. Un adulto envía el proyecto.
+Oscar: Condicional. 6 años figura en el grupo del formulario y queda por debajo de la recomendación de portada.
+Formato: online
+Idioma: Idioma web no acredita idioma de defensa / enseñanza; confirmar EN / ES / RU para grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Participación gratuita según las bases del organizador.
+Acceso: Un adulto puede enviar enlace, captura o archivo. La muestra del proyecto requiere consentimiento separado.
+Limitaciones: El formulario separa la autorización de muestra y la inscripción al concurso con premios.
+Fuente: https://moonhack.com/
+Se ha comprobado: 2026-11-07
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier

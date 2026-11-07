@@ -4384,7 +4384,7 @@
           "10-12",
           "teen"
         ],
-        "summary": "y las tareas individuales para el pensamiento computacional.",
+        "summary": "Problemas de pensamiento computacional. Acceso, idioma, edad y formato de equipo varían por país.",
         "categories": [
           {
             "name": "Bebras  Pensamiento computacional",
@@ -4700,7 +4700,31 @@
           "C1291",
           "C1292",
           "C1293",
-          "C1294"
+          "C1294",
+          "C1438",
+          "C2934",
+          "C2935",
+          "C2936",
+          "C2937",
+          "C2938",
+          "C2939",
+          "C2940",
+          "C2941",
+          "C2942",
+          "C2943",
+          "C2944",
+          "C2945",
+          "C2946",
+          "C2947",
+          "C2948",
+          "C2949",
+          "C2950",
+          "C2951",
+          "C2952",
+          "C2953",
+          "C2954",
+          "C2955",
+          "C2956"
         ],
         "legacy_ids": [
           "C040"
@@ -4718,7 +4742,8 @@
         "nuances": [
           "No se puede llamar una medalla internacional el certificado Bebras.",
           "En línea no implica acceso doméstico o internacional. UK Gold top 10% nacional, Waterloo Distinction top 25% escolar y porcentajes regionales chinos no se comparan como medallas mundiales iguales. Sin discutir tareas y soluciones oficiales antes de cerrar periodo nacional.",
-          "México 2026: gratis, modalidad familiar, 9–30 de noviembre. Costa Rica 2026: 4000 CRC, solo escuela, plazo de registro 16 de octubre. No trasladar reglas entre países."
+          "México 2026: gratis, modalidad familiar, 9–30 de noviembre. Costa Rica 2026: 4000 CRC, solo escuela, plazo de registro 16 de octubre. No trasladar reglas entre países.",
+          "Directorio de país no confirma temporada. Los grupos iniciales pueden tener solo clasificación escolar."
         ],
         "cost": "Tarifas nacionales distintas: México / USA / UK / India gratis; Costa Rica 4000 CRC mediante escuela; Waterloo mínimo CAD 35 por pedido escolar. Sin kit robótico para Bebras. Otros importes y reembolsos en ficha concreta.",
         "award": "Conservar puntuación concreta y tipo de reconocimiento nacional. Certificado de participación no equivale a puesto premiado ni victoria en final mundial.",
@@ -4847,6 +4872,11 @@
             "title": "China level table",
             "url": "https://seed-static.seedasdan.com/wordpress/2025/06/bebras%E8%80%83%E8%AF%95%E6%97%B6%E9%97%B4.png",
             "checked": "2026-11-05"
+          },
+          {
+            "url": "https://www.bebras.org/countries",
+            "title": "Captura del directorio de miembros nacionales",
+            "checked": "2026-11-07"
           }
         ],
         "evidence": "v157: verificados documentos nacionales concretos y tablas clave; sin auditoría mundial completa de Bebras. Tareas ordinarias no son proyecto AI; suplemento AI específico localizado en Korea."
@@ -18051,6 +18081,65 @@
         "evidence": "Leídas reglas actuales y fichas oficiales; admisión familiar individual y exhaustividad mundial sin confirmar."
       },
       {
+        "id": "creative-scratch-olympiad",
+        "name": "International Scratch Creative Programming Olympiad",
+        "group": "international",
+        "age_summary": "ScratchKid · 7–8 años. ScratchChild · 9–10 años. Edad calculada al 3 de octubre de 2026.",
+        "age_tags": [
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Olimpiada independiente con fases nacionales y final internacional.",
+        "categories": [
+          {
+            "name": "Scratch Final 2026",
+            "age": "ScratchKid · 7–8 años. ScratchChild · 9–10 años. Edad calculada al 3 de octubre de 2026.",
+            "team": "Final individual en línea. En Scratch se exigían tareas algorítmica y creativa.",
+            "hardware": "Scratch o RobboScratch. Material físico corresponde a disciplina RobboScratch separada.",
+            "age_rule": "ScratchKid · 7–8 años. ScratchChild · 9–10 años. Edad calculada al 3 de octubre de 2026.",
+            "event_id": "C2958",
+            "entry": "Clasificación nacional individual o acceso por resultado de final 2025. Para países sin etapa nacional hubo fase conjunta en 2026.",
+            "language": "Final 2026 oficialmente en inglés.",
+            "note": "Resultados preliminares publicados. Protocolo final previsto para el 12 de noviembre de 2026.",
+            "source": "https://docs.google.com/document/d/e/2PACX-1vQoISumugasanFMxLWdU1vUJYl2o-wO6k8gDUaaaxo9qYp89wWTxnlB-3R1MmjOuw/pub",
+            "checked": "2026-11-07"
+          }
+        ],
+        "event_ids": [
+          "C2958"
+        ],
+        "legacy_ids": [],
+        "route": "Clasificación nacional individual o acceso por resultado de final 2025. Para países sin etapa nacional hubo fase conjunta en 2026.",
+        "hardware": "Scratch o RobboScratch. Material físico corresponde a disciplina RobboScratch separada.",
+        "language": "Final 2026 oficialmente en inglés.",
+        "importance": "Final internacional de programación creativa",
+        "strengths": [
+          "Scratch o RobboScratch. Material físico corresponde a disciplina RobboScratch separada."
+        ],
+        "requirements": [
+          "Clasificación nacional individual o acceso por resultado de final 2025. Para países sin etapa nacional hubo fase conjunta en 2026."
+        ],
+        "nuances": [
+          "Seguir bases 2027 y comprobar etapa nacional o conjunta."
+        ],
+        "cost": "Cuota de final 2026 de 20 EUR.",
+        "award": "Resultados preliminares publicados. Protocolo final previsto para el 12 de noviembre de 2026.",
+        "sources": [
+          {
+            "url": "https://creativeprogramming.org/",
+            "title": "International Scratch Creative Programming Olympiad",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://docs.google.com/document/d/e/2PACX-1vQoISumugasanFMxLWdU1vUJYl2o-wO6k8gDUaaaxo9qYp89wWTxnlB-3R1MmjOuw/pub",
+            "title": "Fuente oficial de reglas y plazos",
+            "checked": "2026-11-07"
+          }
+        ],
+        "evidence": "rules"
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · programa de ingeniería y showcase",
         "group": "regional",
@@ -20563,47 +20652,58 @@
         "id": "moonhack",
         "name": "Moonhack · Code Club Australia",
         "group": "games",
-        "age_summary": "Edad / curso real según categoría.",
+        "age_summary": "La portada recomienda 7–15 años. El formulario enumera 6–8 y 9–11 años. Confirmar admisión para 6 años.",
         "age_tags": [
           "6",
           "9",
           "10-12",
           "teen"
         ],
-        "summary": "Code Club Australia / Telstra Foundation: envíos hasta 14 de noviembre, resultados 20 de noviembre 2026. Familia puede organizar Moonhackathon en casa. Siete proyectos: juegos Scratch, AI Profile Protector, Python quiz, micro:bit; permite desarrollar ejemplo, criterios valoran extensión propia de idea y código. 7–15 descrito como suitable, no prohibición absoluta leída para menores: Matvey candidato, admisión competitiva de Oscar con 6 y condiciones de premios por confirmar. Sin fechas 2027.",
+        "summary": "El formulario del organizador distingue entrega mundial y concurso con premios.",
         "categories": [
           {
-            "name": "Moonhack 2026 · global coding & AI challenge",
-            "age": "7–15 recomendado; admisión competitiva exacta por anunciar",
+            "name": "Moonhack · Global project submission",
+            "age": "La portada recomienda 7–15 años. El formulario enumera 6–8 y 9–11 años. Confirmar admisión para 6 años.",
             "team": "Equipo; composición exacta según reglamento de categoría.",
             "hardware": "Computador, software y herramientas AI permitidas según disciplina elegida. Robot físico solo donde se indica expresamente.",
-            "age_rule": "Candidato por recomendación 7–15; formato de envío aparte. / 6 años por debajo de recomendación 7–15; confirmar derecho a resultado competitivo, recurso lectivo aparte.",
-            "entry": "Code Club Australia / Telstra Foundation: envíos hasta 14 de noviembre, resultados 20 de noviembre 2026. Familia puede organizar Moonhackathon en casa. Siete proyectos: juegos Scratch, AI Profile Protector, Python quiz, micro:bit; permite desarrollar ejemplo, criterios valoran extensión propia de idea y código. 7–15 descrito como suitable, no prohibición absoluta leída para menores: Matvey candidato, admisión competitiva de Oscar con 6 y condiciones de premios por confirmar. Sin fechas 2027."
+            "age_rule": "La portada recomienda 7–15 años. El formulario enumera 6–8 y 9–11 años. Confirmar admisión para 6 años.",
+            "entry": "Un adulto puede enviar enlace, captura o archivo. La muestra del proyecto requiere consentimiento separado.",
+            "event_id": "L645",
+            "language": "Idioma web no acredita idioma de defensa / enseñanza; confirmar EN / ES / RU para grupo elegido.",
+            "note": "El formulario separa la autorización de muestra y la inscripción al concurso con premios.",
+            "checked": "2026-11-07"
           }
         ],
         "event_ids": [
-          "C1771"
+          "C1771",
+          "L645"
         ],
         "legacy_ids": [],
-        "route": "Ser candidato por edad no significa solicitud aceptada. Confirmar curso real, edad al corte, admisión extranjera, equipo, idioma operativo, plazas y factura completa. Sin cuentas creadas, consentimientos, solicitudes, mensajes ni pagos.",
+        "route": "Un adulto puede enviar enlace, captura o archivo. La muestra del proyecto requiere consentimiento separado.",
         "hardware": "Equipo y AI permitido según track; ver ficha concreta. Comprar robot no es obligatorio para todos.",
         "language": "Idioma web no acredita idioma de defensa / enseñanza; confirmar EN / ES / RU para grupo elegido.",
         "importance": "",
         "strengths": "",
         "requirements": [
-          "Ser candidato por edad no significa solicitud aceptada. Confirmar curso real, edad al corte, admisión extranjera, equipo, idioma operativo, plazas y factura completa. Sin cuentas creadas, consentimientos, solicitudes, mensajes ni pagos."
+          "Un adulto puede enviar enlace, captura o archivo. La muestra del proyecto requiere consentimiento separado.",
+          "Concurso con premios solo para residentes de Australia, con consentimiento separado de adulto."
         ],
         "nuances": [
-          "Certificado de envío / participación, pase a final y victoria competitiva son estados distintos. Autodescripción del organizador no acredita posición en ranking mundial.",
-          "Edad del concurso no autoriza cuenta personal en cualquier servicio AI. Acordar acceso adulto permitido, condiciones de herramientas elegidas y declaración de ayuda antes de preparar."
+          "El formulario separa la autorización de muestra y la inscripción al concurso con premios.",
+          "Entrega hasta el 14 de noviembre de 2026. Anuncio de ganadores previsto para el 20 de noviembre de 2026."
         ],
-        "cost": "Tarifa exacta y factura final sin publicar / confirmar; desconocido no equivale a cero.",
-        "award": "Certificado de envío / participación, pase a final y victoria competitiva son estados distintos. Autodescripción del organizador no acredita posición en ranking mundial.",
+        "cost": "Participación gratuita según las bases del organizador.",
+        "award": "Entrega y posible muestra del proyecto. Concurso con premios sujeto a residencia australiana.",
         "sources": [
           {
             "title": "Moonhack · Code Club Australia",
             "url": "https://moonhack.com/",
             "checked": "2026-11-06"
+          },
+          {
+            "url": "https://moonhack.com/submit/",
+            "title": "Moonhack · condiciones de entrega, muestra y premios",
+            "checked": "2026-11-07"
           }
         ],
         "evidence": "Verificadas páginas / reglas primarias. Programa local nuevo no declarado líder mundial sin retrospectiva de resultados."
@@ -23352,7 +23452,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "Perfiles de ligas, familias y programas: 256; se conservan las 46 rutas anteriores. Los formatos brasileños están separados y Robofest LATAM y BajaBot locales se describen por sus categorías. Cobertura mundial parcial.",
+    "methodology": "257 perfiles de ligas, familias y programas. Se conservan las 46 rutas anteriores. Los formatos brasileños se distinguen y Robofest LATAM y BajaBot locales se detallan por categoría. Cobertura mundial parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",
