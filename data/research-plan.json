@@ -870,20 +870,20 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 208,
+    "version": 209,
     "status": "implementation_snapshot",
-    "events": 7404,
-    "competitions": 3101,
+    "events": 7422,
+    "competitions": 3102,
     "league_profiles": 258,
-    "camp_dossiers": 1621,
-    "budget_offers": 209,
+    "camp_dossiers": 1627,
+    "budget_offers": 210,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
     "worldwide_complete": false,
     "fully_audited_countries": 0,
-    "schools": 79,
-    "school_history_results": 336,
-    "school_history_entities": 223
+    "schools": 80,
+    "school_history_results": 356,
+    "school_history_entities": 232
   },
   "completeness_audit": "data/audit-v51.json",
   "family_context": {
@@ -925,7 +925,7 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 207,
+    "version": 208,
     "status": "implementation_snapshot",
     "events": 7404,
     "competitions": 3101,
@@ -935,7 +935,10 @@
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
     "worldwide_complete": false,
-    "fully_audited_countries": 0
+    "fully_audited_countries": 0,
+    "schools": 79,
+    "school_history_results": 336,
+    "school_history_entities": 223
   },
   "research_passes": [
     {
@@ -20802,11 +20805,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 207,
-    "latest_source_commit": "952a82d05007a27dfa817b121c3197662248c407",
-    "published_version": 207,
-    "published_commit": "952a82d05007a27dfa817b121c3197662248c407",
-    "latest_workflow": 42359042823,
+    "latest_source_version": 208,
+    "latest_source_commit": "767c949cd72dbe7ef90c065fe5698bb65f8a3d0a",
+    "published_version": 208,
+    "published_commit": "767c949cd72dbe7ef90c065fe5698bb65f8a3d0a",
+    "latest_workflow": 42360787368,
     "latest_workflow_conclusion": "success",
     "status": "latest-source-published-readback-verified"
   },
@@ -21646,5 +21649,29 @@
     "audit": "data/brazil-school-history-audit-v208.json",
     "inventory": "data/brazil-school-history-inventory-v208.json",
     "source-receipts": "data/brazil-school-history-source-receipts-v208.json"
+  },
+  "paraguay_costa_rica_v209": {
+    "version": 209,
+    "checked": "2026-11-07",
+    "status": "selected-paraguay-costa-rica-audit",
+    "previous_goal_turn_classification": "progress",
+    "new_camp_dossiers": 6,
+    "new_camp_calendar_rows": 15,
+    "parallel_sibling_weeks": 6,
+    "new_budget_offers": 1,
+    "new_exhibitions": 2,
+    "new_competitions": 1,
+    "new_school_dossiers": 1,
+    "new_history_records": 20,
+    "updated_history_records": 1,
+    "source_requests": 26,
+    "direct_source_successes": 24,
+    "official_index_fallbacks": 2,
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "native": "data/paraguay-costa-rica-native-v209.json",
+    "audit": "data/paraguay-costa-rica-audit-v209.json",
+    "inventory": "data/paraguay-costa-rica-inventory-v209.json",
+    "source-receipts": "data/paraguay-costa-rica-source-receipts-v209.json"
   }
 }

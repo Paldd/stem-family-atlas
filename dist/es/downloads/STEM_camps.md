@@ -2694,7 +2694,7 @@ Limitaciones: No se requiere experiencia previa. El certificado de curso no es u
 Fuente: https://www.wecode.edu.uy/verano
 Comprobado: 2026-10-01
 
-### L161 · Minds of Tomorrow Paraguay · Colonias de Tecnología · futuras vacaciones
+### L161 · Minds of Tomorrow Paraguay · calendario de turnos 2026–2027
 
 Lugar: Paraguay · Asunción · Guardería Lullabies, 2-Planta · Austria 2400 / Herminio Maldonado, entrada B
 Fecha: No se han anunciado las siguientes fechas:
@@ -2704,11 +2704,11 @@ Oscar: Sí, por edad 5–12; Contratación futura, lengua y aceptación extranje
 Formato: day_camp
 Idioma: Idioma de la ocupación/Juez ES/EN no confirmado
 Marca de idioma: no clasificada; soporte: no declarada
-Precio: Total FAQ: Gs250 000 por día / Gs1 200 000 por semana. Cuenta corriente, Comida y cuidado ampliado.
-la entrada: confirmar los días de verano y la lengua. página del segundo semestre informa de la nueva plataforma de 1 de agosto 2026 en lugar de la dirección antigua Mayor Rivarola 465.
-Limitaciones: Los temas pueden incluir la robótica, Codificación y proyectos de ingeniería; programa de cada día cambia. Fechas de verano antiguas 2025–2026 no arrastrados a 2027. La página común guarda la dirección antigua.
-Fuente: https://www.mindsoftomorrowparaguay.com/colonias-tecnologia
-Comprobado: 2026-10-01
+Precio: PYG 1200000 por semana completa, 1000000 para el hermano. Tarifa media semana: 850000 / 700000. Día completo: 250000 / 220000. Medio día: 175000 / 150000.
+Acceso: Elegir el programa concreto en la sección de campamentos. Cada turno muestra sus propias fechas, horarios y condiciones.
+Limitaciones: Vista general del programa. Fechas y precios se desglosan por fichas de turno.
+Fuente: https://www.mindsoftomorrowparaguay.com/colonia-verano-2026-2027
+Se ha comprobado: 2026-11-07
 
 ### L162 · Minds of Tomorrow Paraguay · Colonia Halloween · 31 October 2026
 
@@ -62820,6 +62820,246 @@ Precio: 2027 · $270000 por turno. · suplementos y condiciones en el dossier
 Acceso: Confirmar dirección, idioma del grupo, plaza disponible, forma de pago y precio de la actividad elegida.
 Limitaciones: Matvey: Edad superior al rango de este grupo. Oscar: Si al inicio aún tiene 6 años. Confirmar cómo se calcula la edad. Suplementos: Viaje y alojamiento familiar aparte. La página muestra el precio con $, confirmar código de moneda. Pago: Plaza confirmada tras pago total. Las condiciones prevén devolución total si el organizador cancela el turno completo.
 Fuente: https://www.wondercamps.cl/summerearlyyears
+Se ha comprobado: 2026-11-07
+
+### CP1622-20261130-20261204 · Minds of Tomorrow Paraguay · Retro Lab · Día completo · 09:00–15:30 · 2026-11-30–2026-12-04
+
+lugar: Paraguay · Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies
+Fecha: 2026-11-30 — 2026-12-04
+Edad: 5*12
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · PYG 1200000 por semana completa, 1000000 para el hermano. Tarifa media semana: 850000 / 700000. Día completo: 250000 / 220000. Medio día: 175000 / 150000. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad publicada encaja. Hay que confirmar idioma y plaza. Oscar: La edad publicada encaja. Hay que confirmar idioma y plaza. Suplementos: Cuidado extendido a solicitud 15:30–17:00, PYG 45000 por hora y menor. Descuento publicado del 10% para inscritos actuales en after school. Confirmar combinación de descuentos, impuestos, comida y alcance exacto de media semana. Pago: Solicitud mediante el contacto del proveedor. Confirmar anticipo, factura final y cancelación.
+Fuente: https://www.mindsoftomorrowparaguay.com/retro-lab
+Se ha comprobado: 2026-11-07
+
+### CP1622-20270111-20270115 · Minds of Tomorrow Paraguay · Retro Lab · Día completo · 09:00–15:30 · 2027-01-11–2027-01-15
+
+lugar: Paraguay · Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies
+Fecha: 2027-01-11 — 2027-01-15
+Edad: 5*12
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · PYG 1200000 por semana completa, 1000000 para el hermano. Tarifa media semana: 850000 / 700000. Día completo: 250000 / 220000. Medio día: 175000 / 150000. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad publicada encaja. Hay que confirmar idioma y plaza. Oscar: La edad publicada encaja. Hay que confirmar idioma y plaza. Suplementos: Cuidado extendido a solicitud 15:30–17:00, PYG 45000 por hora y menor. Descuento publicado del 10% para inscritos actuales en after school. Confirmar combinación de descuentos, impuestos, comida y alcance exacto de media semana. Pago: Solicitud mediante el contacto del proveedor. Confirmar anticipo, factura final y cancelación.
+Fuente: https://www.mindsoftomorrowparaguay.com/retro-lab
+Se ha comprobado: 2026-11-07
+
+### CP1622-20270201-20270205 · Minds of Tomorrow Paraguay · Retro Lab · Día completo · 09:00–15:30 · 2027-02-01–2027-02-05
+
+lugar: Paraguay · Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies
+Fecha: 2027-02-01 国 2027-02-05
+Edad: 5*12
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · PYG 1200000 por semana completa, 1000000 para el hermano. Tarifa media semana: 850000 / 700000. Día completo: 250000 / 220000. Medio día: 175000 / 150000. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad publicada encaja. Hay que confirmar idioma y plaza. Oscar: La edad publicada encaja. Hay que confirmar idioma y plaza. Suplementos: Cuidado extendido a solicitud 15:30–17:00, PYG 45000 por hora y menor. Descuento publicado del 10% para inscritos actuales en after school. Confirmar combinación de descuentos, impuestos, comida y alcance exacto de media semana. Pago: Solicitud mediante el contacto del proveedor. Confirmar anticipo, factura final y cancelación.
+Fuente: https://www.mindsoftomorrowparaguay.com/retro-lab
+Se ha comprobado: 2026-11-07
+
+### CP1623-20261207-20261211 · Minds of Tomorrow Paraguay · Movie Lab · Día completo · 09:00–15:30 · 2026-12-07–2026-12-11
+
+lugar: Paraguay · Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies
+Fecha: 2026-12-07 — 2026-12-11
+Edad: 5*12
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · PYG 1200000 por semana completa, 1000000 para el hermano. Tarifa media semana: 850000 / 700000. Día completo: 250000 / 220000. Medio día: 175000 / 150000. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad publicada encaja. Hay que confirmar idioma y plaza. Oscar: La edad publicada encaja. Hay que confirmar idioma y plaza. Suplementos: Cuidado extendido a solicitud 15:30–17:00, PYG 45000 por hora y menor. Descuento publicado del 10% para inscritos actuales en after school. Confirmar combinación de descuentos, impuestos, comida y alcance exacto de media semana. Pago: Solicitud mediante el contacto del proveedor. Confirmar anticipo, factura final y cancelación.
+Fuente: https://www.mindsoftomorrowparaguay.com/movie-lab
+Se ha comprobado: 2026-11-07
+
+### CP1623-20270118-20270122 · Minds of Tomorrow Paraguay · Movie Lab · Día completo · 09:00–15:30 · 2027-01-18–2027-01-22
+
+lugar: Paraguay · Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies
+Fecha: 2027-01-18 国 2027-01-22
+Edad: 5*12
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · PYG 1200000 por semana completa, 1000000 para el hermano. Tarifa media semana: 850000 / 700000. Día completo: 250000 / 220000. Medio día: 175000 / 150000. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad publicada encaja. Hay que confirmar idioma y plaza. Oscar: La edad publicada encaja. Hay que confirmar idioma y plaza. Suplementos: Cuidado extendido a solicitud 15:30–17:00, PYG 45000 por hora y menor. Descuento publicado del 10% para inscritos actuales en after school. Confirmar combinación de descuentos, impuestos, comida y alcance exacto de media semana. Pago: Solicitud mediante el contacto del proveedor. Confirmar anticipo, factura final y cancelación.
+Fuente: https://www.mindsoftomorrowparaguay.com/movie-lab
+Se ha comprobado: 2026-11-07
+
+### CP1623-20270208-20270212 · Minds of Tomorrow Paraguay · Movie Lab · Día completo · 09:00–15:30 · 2027-02-08–2027-02-12
+
+lugar: Paraguay · Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies
+Fecha: 2027-02-08 — 2027-02-12
+Edad: 5*12
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · PYG 1200000 por semana completa, 1000000 para el hermano. Tarifa media semana: 850000 / 700000. Día completo: 250000 / 220000. Medio día: 175000 / 150000. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad publicada encaja. Hay que confirmar idioma y plaza. Oscar: La edad publicada encaja. Hay que confirmar idioma y plaza. Suplementos: Cuidado extendido a solicitud 15:30–17:00, PYG 45000 por hora y menor. Descuento publicado del 10% para inscritos actuales en after school. Confirmar combinación de descuentos, impuestos, comida y alcance exacto de media semana. Pago: Solicitud mediante el contacto del proveedor. Confirmar anticipo, factura final y cancelación.
+Fuente: https://www.mindsoftomorrowparaguay.com/movie-lab
+Se ha comprobado: 2026-11-07
+
+### CP1624-20261214-20261218 · Minds of Tomorrow Paraguay · Escape Lab · Día completo · 09:00–15:30 · 2026-12-14–2026-12-18
+
+lugar: Paraguay · Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 5*12
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · PYG 1200000 por semana completa, 1000000 para el hermano. Tarifa media semana: 850000 / 700000. Día completo: 250000 / 220000. Medio día: 175000 / 150000. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad publicada encaja. Hay que confirmar idioma y plaza. Oscar: La edad publicada encaja. Hay que confirmar idioma y plaza. Suplementos: Cuidado extendido a solicitud 15:30–17:00, PYG 45000 por hora y menor. Descuento publicado del 10% para inscritos actuales en after school. Confirmar combinación de descuentos, impuestos, comida y alcance exacto de media semana. Pago: Solicitud mediante el contacto del proveedor. Confirmar anticipo, factura final y cancelación.
+Fuente: https://www.mindsoftomorrowparaguay.com/escape-lab
+Se ha comprobado: 2026-11-07
+
+### CP1624-20270125-20270129 · Minds of Tomorrow Paraguay · Escape Lab · Día completo · 09:00–15:30 · 2027-01-25–2027-01-29
+
+lugar: Paraguay · Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies
+Fecha: 2027-01-25 国 2027-01-29
+Edad: 5*12
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · PYG 1200000 por semana completa, 1000000 para el hermano. Tarifa media semana: 850000 / 700000. Día completo: 250000 / 220000. Medio día: 175000 / 150000. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad publicada encaja. Hay que confirmar idioma y plaza. Oscar: La edad publicada encaja. Hay que confirmar idioma y plaza. Suplementos: Cuidado extendido a solicitud 15:30–17:00, PYG 45000 por hora y menor. Descuento publicado del 10% para inscritos actuales en after school. Confirmar combinación de descuentos, impuestos, comida y alcance exacto de media semana. Pago: Solicitud mediante el contacto del proveedor. Confirmar anticipo, factura final y cancelación.
+Fuente: https://www.mindsoftomorrowparaguay.com/escape-lab
+Se ha comprobado: 2026-11-07
+
+### CP1624-20270215-20270219 · Minds of Tomorrow Paraguay · Escape Lab · Día completo · 09:00–15:30 · 2027-02-15–2027-02-19
+
+lugar: Paraguay · Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies
+Fecha: 2027-02-15 国 2027-02-19
+Edad: 5*12
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · PYG 1200000 por semana completa, 1000000 para el hermano. Tarifa media semana: 850000 / 700000. Día completo: 250000 / 220000. Medio día: 175000 / 150000. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad publicada encaja. Hay que confirmar idioma y plaza. Oscar: La edad publicada encaja. Hay que confirmar idioma y plaza. Suplementos: Cuidado extendido a solicitud 15:30–17:00, PYG 45000 por hora y menor. Descuento publicado del 10% para inscritos actuales en after school. Confirmar combinación de descuentos, impuestos, comida y alcance exacto de media semana. Pago: Solicitud mediante el contacto del proveedor. Confirmar anticipo, factura final y cancelación.
+Fuente: https://www.mindsoftomorrowparaguay.com/escape-lab
+Se ha comprobado: 2026-11-07
+
+### CP1625-20270111-20270115 · Minds of Tomorrow Paraguay · PyGamers · Día completo · 09:00–15:30 · 2027-01-11–2027-01-15
+
+lugar: Paraguay · Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies
+Fecha: 2027-01-11 — 2027-01-15
+Edad: 8–12
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · PYG 1200000 por semana completa, 1000000 para el hermano. Tarifa media semana: 850000 / 700000. Día completo: 250000 / 220000. Medio día: 175000 / 150000. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad publicada encaja. Hay que confirmar idioma y plaza. Oscar: El programa requiere 8 años cumplidos al inicio. Considerar el grupo inicial paralelo. Suplementos: Cuidado extendido a solicitud 15:30–17:00, PYG 45000 por hora y menor. Descuento publicado del 10% para inscritos actuales en after school. Confirmar combinación de descuentos, impuestos, comida y alcance exacto de media semana. Pago: Solicitud mediante el contacto del proveedor. Confirmar anticipo, factura final y cancelación.
+Fuente: https://www.mindsoftomorrowparaguay.com/pygamers
+Se ha comprobado: 2026-11-07
+
+### CP1625-20270201-20270205 · Minds of Tomorrow Paraguay · PyGamers · Día completo · 09:00–15:30 · 2027-02-01–2027-02-05
+
+lugar: Paraguay · Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies
+Fecha: 2027-02-01 国 2027-02-05
+Edad: 8–12
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · PYG 1200000 por semana completa, 1000000 para el hermano. Tarifa media semana: 850000 / 700000. Día completo: 250000 / 220000. Medio día: 175000 / 150000. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad publicada encaja. Hay que confirmar idioma y plaza. Oscar: El programa requiere 8 años cumplidos al inicio. Considerar el grupo inicial paralelo. Suplementos: Cuidado extendido a solicitud 15:30–17:00, PYG 45000 por hora y menor. Descuento publicado del 10% para inscritos actuales en after school. Confirmar combinación de descuentos, impuestos, comida y alcance exacto de media semana. Pago: Solicitud mediante el contacto del proveedor. Confirmar anticipo, factura final y cancelación.
+Fuente: https://www.mindsoftomorrowparaguay.com/pygamers
+Se ha comprobado: 2026-11-07
+
+### CP1626-20270118-20270122 · Minds of Tomorrow Paraguay · LEGO League · Día completo · 09:00–15:30 · 2027-01-18–2027-01-22
+
+lugar: Paraguay · Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies
+Fecha: 2027-01-18 国 2027-01-22
+Edad: 8–12
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · PYG 1200000 por semana completa, 1000000 para el hermano. Tarifa media semana: 850000 / 700000. Día completo: 250000 / 220000. Medio día: 175000 / 150000. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad publicada encaja. Hay que confirmar idioma y plaza. Oscar: El programa requiere 8 años cumplidos al inicio. Considerar el grupo inicial paralelo. Suplementos: Cuidado extendido a solicitud 15:30–17:00, PYG 45000 por hora y menor. Descuento publicado del 10% para inscritos actuales en after school. Confirmar combinación de descuentos, impuestos, comida y alcance exacto de media semana. Pago: Solicitud mediante el contacto del proveedor. Confirmar anticipo, factura final y cancelación.
+Fuente: https://www.mindsoftomorrowparaguay.com/colonia-lego-league
+Se ha comprobado: 2026-11-07
+
+### CP1626-20270208-20270212 · Minds of Tomorrow Paraguay · LEGO League · Día completo · 09:00–15:30 · 2027-02-08–2027-02-12
+
+lugar: Paraguay · Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies
+Fecha: 2027-02-08 — 2027-02-12
+Edad: 8–12
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · PYG 1200000 por semana completa, 1000000 para el hermano. Tarifa media semana: 850000 / 700000. Día completo: 250000 / 220000. Medio día: 175000 / 150000. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad publicada encaja. Hay que confirmar idioma y plaza. Oscar: El programa requiere 8 años cumplidos al inicio. Considerar el grupo inicial paralelo. Suplementos: Cuidado extendido a solicitud 15:30–17:00, PYG 45000 por hora y menor. Descuento publicado del 10% para inscritos actuales en after school. Confirmar combinación de descuentos, impuestos, comida y alcance exacto de media semana. Pago: Solicitud mediante el contacto del proveedor. Confirmar anticipo, factura final y cancelación.
+Fuente: https://www.mindsoftomorrowparaguay.com/colonia-lego-league
+Se ha comprobado: 2026-11-07
+
+### CP1627-20270125-20270129 · Minds of Tomorrow Paraguay · Eco Tech Inventores · Día completo · 09:00–15:30 · 2027-01-25–2027-01-29
+
+lugar: Paraguay · Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies
+Fecha: 2027-01-25 国 2027-01-29
+Edad: 8–12
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · PYG 1200000 por semana completa, 1000000 para el hermano. Tarifa media semana: 850000 / 700000. Día completo: 250000 / 220000. Medio día: 175000 / 150000. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad publicada encaja. Hay que confirmar idioma y plaza. Oscar: El programa requiere 8 años cumplidos al inicio. Considerar el grupo inicial paralelo. Suplementos: Cuidado extendido a solicitud 15:30–17:00, PYG 45000 por hora y menor. Descuento publicado del 10% para inscritos actuales en after school. Confirmar combinación de descuentos, impuestos, comida y alcance exacto de media semana. Pago: Solicitud mediante el contacto del proveedor. Confirmar anticipo, factura final y cancelación.
+Fuente: https://www.mindsoftomorrowparaguay.com/eco-tech-inventores
+Se ha comprobado: 2026-11-07
+
+### CP1627-20270215-20270219 · Minds of Tomorrow Paraguay · Eco Tech Inventores · Día completo · 09:00–15:30 · 2027-02-15–2027-02-19
+
+lugar: Paraguay · Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies
+Fecha: 2027-02-15 国 2027-02-19
+Edad: 8–12
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · PYG 1200000 por semana completa, 1000000 para el hermano. Tarifa media semana: 850000 / 700000. Día completo: 250000 / 220000. Medio día: 175000 / 150000. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad publicada encaja. Hay que confirmar idioma y plaza. Oscar: El programa requiere 8 años cumplidos al inicio. Considerar el grupo inicial paralelo. Suplementos: Cuidado extendido a solicitud 15:30–17:00, PYG 45000 por hora y menor. Descuento publicado del 10% para inscritos actuales en after school. Confirmar combinación de descuentos, impuestos, comida y alcance exacto de media semana. Pago: Solicitud mediante el contacto del proveedor. Confirmar anticipo, factura final y cancelación.
+Fuente: https://www.mindsoftomorrowparaguay.com/eco-tech-inventores
 Se ha comprobado: 2026-11-07
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

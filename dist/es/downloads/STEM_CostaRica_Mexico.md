@@ -4113,6 +4113,32 @@ Limitaciones: Autores de Pitch y Playtest mayores de edad residentes en Latinoam
 Fuente: https://uniat.edu.mx/convocatoria-ficg-uniat/
 Se ha comprobado: 2026-11-07
 
+### E303 · Claro Tech Summit 2026
+
+Fecha: 2026-11-10 国 2026-11-10
+edad: Condicional. Confirmar edad de visitante y acompañamiento.
+Matvey: Condicional. Confirmar edad de visitante y acompañamiento.
+Oscar: Condicional. Confirmar edad de visitante y acompañamiento.
+Idioma: Confirmar idioma del taller o demostración concretos.
+Acceso: Registro previo gratuito para público profesional. Cupo limitado.
+Precio: Acceso gratuito con registro previo y plaza disponible.
+Limitaciones:
+Fuente: https://techsummit.claro.cr/
+Se ha comprobado: 2026-11-07
+
+### C3103 · Hackathon MODI Kit + IA · K-Lab TEC
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: El organizador forma equipos de 3–4 personas. El anuncio público no indica edad mínima.
+Matvey: Condicional. Confirmar edad, idioma de trabajo y plazas con K-Lab. La solicitud se rige por las condiciones del organizador.
+Oscar: Condicional. Confirmar edad, idioma de trabajo y plazas con K-Lab. La solicitud se rige por las condiciones del organizador.
+Idioma: Confirmar idioma del taller o demostración concretos.
+Acceso: El organizador forma equipos de 3–4 personas. El anuncio público no indica edad mínima.
+Precio: Precio de participación sin indicar. El anuncio incluye almuerzo.
+Limitaciones:
+Fuente: https://tec.ac.cr/hackathon-modi-kit-ia
+Se ha comprobado: 2026-11-07
+
 ### C079 · TecPro Challenge Virtual · Match 1 · 2026
 
 Fecha: 2026-10-10 国 2026-10-10

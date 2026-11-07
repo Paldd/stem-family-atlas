@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 7404; competiciones: 3101; eventos: 301; campamentos / programas: 4002. Perfiles de ligas y programas: 258. Fichas de exposiciones grandes y especializadas: 213 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 7422; competiciones: 3102; eventos: 303; campamentos / programas: 4017. Perfiles de ligas y programas: 258. Fichas de exposiciones grandes y especializadas: 215 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros concretos de 158 de 249 países y territorios; países auditados por completo: 0. Revisión histórica v51: se añadieron 21 fichas y 3 perfiles. Todas las fichas anteriores se conservan.
 
@@ -14,8 +14,8 @@ Hay registros concretos de 158 de 249 países y territorios; países auditados p
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 23 | 1422 | 36 | 1057 |
-| América del Sur | 10 | 195 | 10 | 117 |
+| América del Norte | 23 | 1423 | 37 | 1057 |
+| América del Sur | 10 | 195 | 11 | 132 |
 | Europa | 42 | 412 | 68 | 1256 |
 | África | 34 | 115 | 15 | 68 |
 | Asia | 44 | 747 | 81 | 1378 |
@@ -23,7 +23,7 @@ Hay registros concretos de 158 de 249 países y territorios; países auditados p
 
 Fichas interregionales o globales sin un continente asignado: 108. América del Norte incluye Centroamérica y el Caribe. Las cantidades indican el inventario de la base y no el porcentaje de cobertura.
 
-VEX: 518 de 3101 fichas de competiciones (16.7%). Es un desequilibrio de cobertura.
+VEX: 518 de 3102 fichas de competiciones (16.7%). Es un claro desequilibrio de cobertura.
 
 ## Lo que queda
 
@@ -567,6 +567,8 @@ VEX: 518 de 3101 fichas de competiciones (16.7%). Es un desequilibrio de cobertu
 - **Bett Brasil 2027 · Education Technology** — Brasil; 2027-05-04 – 2027-05-07. el permiso de entrada de niños. https://brasil.bettshow.com/bett-blog/bett-brasil-abre-inscricoes-para-32%C2%AA-edicao-evento
 - **FICGAMES 2027 · Playtest exhibition** — México; fecha desconocida. Confirmar acceso infantil. https://uniat.edu.mx/convocatoria-ficg-uniat/
 - **Festival Regional SESI de Robótica · Santa Catarina public programme** — Brasil; 2026-12-04 – 2026-12-08. con un adulto; condiciones de admisión adulta por separado. https://fiesc.com.br/pt-br/imprensa/festival-sesi-de-robotica-sera-realizado-em-sao-bento-do-sul-em-dezembro
+- **MICSUR Paraguay 2026 · Videojuegos y Futuro Digital** — Paraguay; 2026-11-19 – 2026-11-22. el permiso de entrada de niños. https://micsur.cultura.gov.py/
+- **Claro Tech Summit 2026** — Costa Rica; 2026-11-10. el permiso de entrada de niños. https://techsummit.claro.cr/
 
 ## ~ Añadida en esta versión
 

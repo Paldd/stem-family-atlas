@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 7404,
-    "competition_cards": 3101,
-    "event_cards": 301,
-    "camp_cards": 4002,
+    "cards": 7422,
+    "competition_cards": 3102,
+    "event_cards": 303,
+    "camp_cards": 4017,
     "league_profiles": 258,
-    "major_exhibition_cards": 213,
+    "major_exhibition_cards": 215,
     "vex_cards": 518,
     "countries_with_records": 158,
     "fully_audited_countries": 0
@@ -34,11 +34,11 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 2552,
+      "total": 2554,
       "countries_with_records": 23,
-      "competitions": 1422,
-      "events": 73,
-      "major_exhibitions": 36,
+      "competitions": 1423,
+      "events": 74,
+      "major_exhibitions": 37,
       "camps": 1057,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
@@ -48,12 +48,12 @@
       "regions": [
         "Южная Америка"
       ],
-      "total": 325,
+      "total": 341,
       "countries_with_records": 10,
       "competitions": 195,
-      "events": 13,
-      "major_exhibitions": 10,
-      "camps": 117,
+      "events": 14,
+      "major_exhibitions": 11,
+      "camps": 132,
       "status": "Частично исследовано",
       "remaining": "Много карточек Ecuador и региональных маршрутов Chile; Brazil, Perú и другие страны требуют местных этапов, квот и календарей."
     },
@@ -9557,6 +9557,28 @@
       "visitor_policy": "family",
       "source": "https://fiesc.com.br/pt-br/imprensa/festival-sesi-de-robotica-sera-realizado-em-sao-bento-do-sul-em-dezembro",
       "new": false
+    },
+    {
+      "id": "E302",
+      "name": "MICSUR Paraguay 2026 · Videojuegos y Futuro Digital",
+      "country": "Парагвай",
+      "region": "Южная Америка",
+      "start": "2026-11-19",
+      "end": "2026-11-22",
+      "visitor_policy": "confirm_children",
+      "source": "https://micsur.cultura.gov.py/",
+      "new": false
+    },
+    {
+      "id": "E303",
+      "name": "Claro Tech Summit 2026",
+      "country": "Коста-Рика",
+      "region": "Центральная Америка",
+      "start": "2026-11-10",
+      "end": "2026-11-10",
+      "visitor_policy": "confirm_children",
+      "source": "https://techsummit.claro.cr/",
+      "new": false
     }
   ],
   "known_backlog": [
@@ -11668,8 +11690,8 @@
       }
     ],
     "counts": {
-      "records": 4002,
-      "holiday": 3734,
+      "records": 4017,
+      "holiday": 3749,
       "regular": 114,
       "self_paced_materials": 2,
       "boarding": 1026,
@@ -11886,10 +11908,10 @@
       "Жильё семьи, иммиграция, школьные визы, поездки команды и полная смета ещё не оценены."
     ],
     "counts": {
-      "records": 79,
-      "countries": 27,
+      "records": 80,
+      "countries": 28,
       "public": 14,
-      "private": 65,
+      "private": 66,
       "boarding": 11,
       "world_result": 19,
       "organizer_protocol": 20,
@@ -12642,8 +12664,8 @@
         "iso": "PRY",
         "country": "Парагвай",
         "region": "Южная Америка",
-        "records": 0,
-        "status": "unresearched"
+        "records": 1,
+        "status": "partial"
       },
       {
         "iso": "PER",

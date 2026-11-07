@@ -2217,6 +2217,36 @@ Fuentes (revisión 2026-11-07):
 Lo que queda por comprobar es:
 - Las condiciones de admisión y el idioma del equipo deben confirmarse para el curso y la temporada concretos.
 
+## S080 · The American School of Asunción · ASA
+
+Paraguay · Asunción
+Tipo: private
+Escuela privada diurna. En primaria combina currículos estadounidense y paraguayo desde K4 hasta Grade 5.
+edad: K4–Grade 5
+Matvey: candidate; Oscar: candidate. Confirmar curso, plazas, idioma del grupo y reglas de ingreso al equipo.
+Idioma: Inglés para materias troncales y artes. Lengua y ciencias sociales se imparten a diario en español. Hay que confirmar aparte el idioma del equipo FLL.
+Internado: Programa diurno sin alojamiento.
+Robótica: El equipo de primaria FLL Explore recibió tres premios en 2026. En 2024 el colegio informó de tres equipos Explore de primaria y dos equipos Challenge de secundaria media.
+Laboratorios: La escuela tiene proyectos tecnológicos y equipos de competición. El acceso de primaria al material depende del grupo.
+IA: Curso de IA para el grado de interés aún sin confirmar.
+Admisión: Preinscripción K4 o K5–12. La plaza depende del curso, prioridad y decisión escolar. Se requieren 4 años para K4 y 5 años para K5 al 1 de septiembre.
+Precio: Hay que confirmar la tarifa escolar completa actual, cuota de ingreso y gastos del equipo.
+
+- el resultado: 2026 · FIRST LEGO League Explore · FIRST LEGO League Paraguay · Asunción · Coding Award · ASA Elementary Explore. Premio Explore según el informe de primaria. No se atribuye nivel de final internacional. Fuente: https://www.asa.edu.py/news/elementary-robotics-team-secures-three-awards-at-first-lego-league-festival
+- el resultado: 2026 · FIRST LEGO League Explore · FIRST LEGO League Paraguay · Asunción · Core Values Award · ASA Elementary Explore. Premio Explore según el informe de primaria. No se atribuye nivel de final internacional. Fuente: https://www.asa.edu.py/news/elementary-robotics-team-secures-three-awards-at-first-lego-league-festival
+- el resultado: 2026 · FIRST LEGO League Explore · FIRST LEGO League Paraguay · Asunción · Team Model Award · ASA Elementary Explore. Premio Explore según el informe de primaria. No se atribuye nivel de final internacional. Fuente: https://www.asa.edu.py/news/elementary-robotics-team-secures-three-awards-at-first-lego-league-festival
+
+Fuentes (revisión 2026-11-07):
+- ASA · Elementary: https://www.asa.edu.py/p/elementary-school — Inglés para materias troncales y artes. Lengua y ciencias sociales se imparten a diario en español. Hay que confirmar aparte el idioma del equipo FLL.
+- ASA · Admissions: https://asa.edu.py/index.php/p/admissions — Preinscripción K4 o K5–12. La plaza depende del curso, prioridad y decisión escolar. Se requieren 4 años para K4 y 5 años para K5 al 1 de septiembre.
+- ASA · FLL 2024: https://www.asa.edu.py/news/first-lego-league-national-competition — El equipo de primaria FLL Explore recibió tres premios en 2026. En 2024 el colegio informó de tres equipos Explore de primaria y dos equipos Challenge de secundaria media.
+- ASA · Explore 2026: https://www.asa.edu.py/news/elementary-robotics-team-secures-three-awards-at-first-lego-league-festival — Premio Explore según el informe de primaria. No se atribuye nivel de final internacional.
+- Office of Overseas Schools · ASA 2023–24: https://2021-2025.state.gov/the-american-school-of-asuncion-fact-sheet/ — Escuela privada diurna. En primaria combina currículos estadounidense y paraguayo desde K4 hasta Grade 5.
+
+Lo que queda por comprobar es:
+- Confirmar curso, plazas, idioma del grupo y reglas de ingreso al equipo.
+- Confirmar préstamo de kits y dispositivos, comida, impuestos, pago y reembolso.
+
 ## Lagunas de cobertura
 
 - 32 expedientes escolares; no se ha completado la auditoría completa mundial y nacional de las escuelas.

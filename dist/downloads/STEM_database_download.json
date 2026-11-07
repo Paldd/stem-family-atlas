@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "download": "STEM_database.zip",
-  "archive_bytes": 6214053,
-  "archive_sha256": "cd8d0051cb695b5d698edab7c60105b604a70f3b0337a5f6e5097092390d70e6",
+  "archive_bytes": 6236443,
+  "archive_sha256": "ff70c59132d6697595bca28434d5d89f5c217df59792311a0be2036e595186e4",
   "sqlite_entry": "STEM_database.sqlite",
-  "sqlite_bytes": 67871744,
-  "sqlite_sha256": "00a7672591ef7279dec8985ea82ddf403a31525564b47f37b67969ecc808c8ac",
+  "sqlite_bytes": 68121600,
+  "sqlite_sha256": "8b20da174b17f44df87560d624cfdbc08ed5381ff5fc324de0cac29a329c8c63",
   "raw_download_available": false,
   "complete_database": true,
   "instructions": "Распакуйте архив: внутри полная база SQLite и README. Сжатие без удаления записей."

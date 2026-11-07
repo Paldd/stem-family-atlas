@@ -30,12 +30,12 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1621,
-    "countries": 91,
+    "dossiers": 1627,
+    "countries": 92,
     "swiss": 137,
     "by_status": {
-      "published_2026_27": 211,
-      "published_2027": 445,
+      "published_2026_27": 214,
+      "published_2027": 448,
       "partial_2027": 131,
       "next_unannounced": 338,
       "published_2026": 297,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 1,
       "confirmed_2027": 1
     },
-    "source_urls": 2336
+    "source_urls": 2343
   },
   "countries": [
     {
@@ -278,6 +278,10 @@
     {
       "country": "Панама",
       "count": 9
+    },
+    {
+      "country": "Парагвай",
+      "count": 6
     },
     {
       "country": "Перу",
@@ -229489,6 +229493,1571 @@
         "status": "unconfirmed",
         "label": "Уточнить смену, минимальный набор и наличие мест."
       }
+    },
+    {
+      "id": "CP1622",
+      "slug": "mot-asuncion-retro",
+      "provider": "Minds of Tomorrow Paraguay · Retro Lab",
+      "country": "Парагвай",
+      "iso": "PRY",
+      "place": "Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies",
+      "themes": [
+        "games",
+        "coding",
+        "design",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "5–12",
+      "language": "Английский и испанский язык преподавания пока не подтверждены. Уточнить язык группы и помощь иностранному ребёнку.",
+      "confirmed_instruction_languages": [],
+      "programme": "Программирование аркадных игр, цифровой дизайн, звук и технологические проекты в ретростиле.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Полный день 09:00–15:30. Полдня 09:00–12:00 или 12:30–15:30. Даты и часы по местному времени Асунсьона.",
+        "sessions": [
+          [
+            "2026-11-30",
+            "2026-12-04"
+          ],
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ],
+          [
+            "2027-02-01",
+            "2027-02-05"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-11-30",
+            "end": "2026-12-04",
+            "label": "Полный день · 09:00–15:30",
+            "price": "PYG 1200000 за полную неделю, 1000000 за второго ребёнка. Тариф media semana: 850000 / 700000. Полный день: 250000 / 220000. Полдня: 175000 / 150000.",
+            "source": "https://www.mindsoftomorrowparaguay.com/retro-lab",
+            "place": "Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies",
+            "age": "5–12",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Опубликованный возраст подходит. Язык и место нужно подтвердить."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Опубликованный возраст подходит. Язык и место нужно подтвердить."
+              }
+            },
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Опубликованы смены и контакт для заявки. Свободное место в группе уточнить."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-11-30",
+                "topic": "Программирование аркадных игр, цифровой дизайн, звук и технологические проекты в ретростиле.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-01",
+                "topic": "Программирование аркадных игр, цифровой дизайн, звук и технологические проекты в ретростиле.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-02",
+                "topic": "Программирование аркадных игр, цифровой дизайн, звук и технологические проекты в ретростиле.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-03",
+                "topic": "Программирование аркадных игр, цифровой дизайн, звук и технологические проекты в ретростиле.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-04",
+                "topic": "Программирование аркадных игр, цифровой дизайн, звук и технологические проекты в ретростиле.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "label": "Полный день · 09:00–15:30",
+            "price": "PYG 1200000 за полную неделю, 1000000 за второго ребёнка. Тариф media semana: 850000 / 700000. Полный день: 250000 / 220000. Полдня: 175000 / 150000.",
+            "source": "https://www.mindsoftomorrowparaguay.com/retro-lab",
+            "place": "Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies",
+            "age": "5–12",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Опубликованный возраст подходит. Язык и место нужно подтвердить."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Опубликованный возраст подходит. Язык и место нужно подтвердить."
+              }
+            },
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Опубликованы смены и контакт для заявки. Свободное место в группе уточнить."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "topic": "Программирование аркадных игр, цифровой дизайн, звук и технологические проекты в ретростиле.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-12",
+                "topic": "Программирование аркадных игр, цифровой дизайн, звук и технологические проекты в ретростиле.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-13",
+                "topic": "Программирование аркадных игр, цифровой дизайн, звук и технологические проекты в ретростиле.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-14",
+                "topic": "Программирование аркадных игр, цифровой дизайн, звук и технологические проекты в ретростиле.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-15",
+                "topic": "Программирование аркадных игр, цифровой дизайн, звук и технологические проекты в ретростиле.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "start": "2027-02-01",
+            "end": "2027-02-05",
+            "label": "Полный день · 09:00–15:30",
+            "price": "PYG 1200000 за полную неделю, 1000000 за второго ребёнка. Тариф media semana: 850000 / 700000. Полный день: 250000 / 220000. Полдня: 175000 / 150000.",
+            "source": "https://www.mindsoftomorrowparaguay.com/retro-lab",
+            "place": "Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies",
+            "age": "5–12",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Опубликованный возраст подходит. Язык и место нужно подтвердить."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Опубликованный возраст подходит. Язык и место нужно подтвердить."
+              }
+            },
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Опубликованы смены и контакт для заявки. Свободное место в группе уточнить."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-02-01",
+                "topic": "Программирование аркадных игр, цифровой дизайн, звук и технологические проекты в ретростиле.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-02",
+                "topic": "Программирование аркадных игр, цифровой дизайн, звук и технологические проекты в ретростиле.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-03",
+                "topic": "Программирование аркадных игр, цифровой дизайн, звук и технологические проекты в ретростиле.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-04",
+                "topic": "Программирование аркадных игр, цифровой дизайн, звук и технологические проекты в ретростиле.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-05",
+                "topic": "Программирование аркадных игр, цифровой дизайн, звук и технологические проекты в ретростиле.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              }
+            ]
+          }
+        ]
+      },
+      "price": {
+        "season": "2026/27",
+        "currency": "PYG",
+        "amount": 1200000,
+        "unit": "child_week",
+        "label": "PYG 1200000 за полную неделю, 1000000 за второго ребёнка. Тариф media semana: 850000 / 700000. Полный день: 250000 / 220000. Полдня: 175000 / 150000.",
+        "included": "Программа и часы опубликованы. Доступ к оборудованию, расходники и состав питания уточнить.",
+        "extras": "Продлёнка по запросу 15:30–17:00, PYG 45000 за час на ребёнка. Для участников текущего after school опубликована скидка 10%. Совместимость скидок, налоги, питание и точный объём media semana уточнить.",
+        "deposit": "Заявка через контакт оператора. Аванс, окончательный счёт и правила отмены уточнить.",
+        "year": 2026
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Опубликованный возраст подходит. Язык и место нужно подтвердить."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Опубликованный возраст подходит. Язык и место нужно подтвердить."
+        }
+      },
+      "editorial_reason": "Редакционная карточка для сравнения программы, школьного допуска и бюджета.",
+      "shortlist": [],
+      "questions": [
+        "Уточнить язык занятий, свободное место и условия для иностранной семьи.",
+        "Уточнить выдачу наборов и устройств, питание, налоги, оплату и возврат.",
+        "Уточнить, действует ли тариф второго ребёнка при выборе разных программ."
+      ],
+      "sources": [
+        {
+          "url": "https://www.mindsoftomorrowparaguay.com/retro-lab",
+          "title": "Конкретная смена, адрес и таблица цен",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.mindsoftomorrowparaguay.com/colonia-verano-2026-2027",
+          "title": "Официальный календарь и правила сезона",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Опубликованы смены и контакт для заявки. Свободное место в группе уточнить."
+      },
+      "pairing": {
+        "venue_id": "pry-mot-austria-2400",
+        "verified_source": "https://www.mindsoftomorrowparaguay.com/retro-lab",
+        "checked": "2026-11-07",
+        "fee": {
+          "currency": "PYG",
+          "amount": 1200000,
+          "unit": "per_child_course",
+          "tax_included": null
+        }
+      }
+    },
+    {
+      "id": "CP1623",
+      "slug": "mot-asuncion-movie",
+      "provider": "Minds of Tomorrow Paraguay · Movie Lab",
+      "country": "Парагвай",
+      "iso": "PRY",
+      "place": "Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies",
+      "themes": [
+        "robotics",
+        "coding",
+        "design",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "5–12",
+      "language": "Английский и испанский язык преподавания пока не подтверждены. Уточнить язык группы и помощь иностранному ребёнку.",
+      "confirmed_instruction_languages": [],
+      "programme": "Робототехника, программирование и цифровой дизайн на примере сцен, персонажей и эффектов кино.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Полный день 09:00–15:30. Полдня 09:00–12:00 или 12:30–15:30. Даты и часы по местному времени Асунсьона.",
+        "sessions": [
+          [
+            "2026-12-07",
+            "2026-12-11"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-22"
+          ],
+          [
+            "2027-02-08",
+            "2027-02-12"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-07",
+            "end": "2026-12-11",
+            "label": "Полный день · 09:00–15:30",
+            "price": "PYG 1200000 за полную неделю, 1000000 за второго ребёнка. Тариф media semana: 850000 / 700000. Полный день: 250000 / 220000. Полдня: 175000 / 150000.",
+            "source": "https://www.mindsoftomorrowparaguay.com/movie-lab",
+            "place": "Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies",
+            "age": "5–12",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Опубликованный возраст подходит. Язык и место нужно подтвердить."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Опубликованный возраст подходит. Язык и место нужно подтвердить."
+              }
+            },
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Опубликованы смены и контакт для заявки. Свободное место в группе уточнить."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-07",
+                "topic": "Робототехника, программирование и цифровой дизайн на примере сцен, персонажей и эффектов кино.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-08",
+                "topic": "Робототехника, программирование и цифровой дизайн на примере сцен, персонажей и эффектов кино.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-09",
+                "topic": "Робототехника, программирование и цифровой дизайн на примере сцен, персонажей и эффектов кино.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-10",
+                "topic": "Робототехника, программирование и цифровой дизайн на примере сцен, персонажей и эффектов кино.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-11",
+                "topic": "Робототехника, программирование и цифровой дизайн на примере сцен, персонажей и эффектов кино.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "start": "2027-01-18",
+            "end": "2027-01-22",
+            "label": "Полный день · 09:00–15:30",
+            "price": "PYG 1200000 за полную неделю, 1000000 за второго ребёнка. Тариф media semana: 850000 / 700000. Полный день: 250000 / 220000. Полдня: 175000 / 150000.",
+            "source": "https://www.mindsoftomorrowparaguay.com/movie-lab",
+            "place": "Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies",
+            "age": "5–12",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Опубликованный возраст подходит. Язык и место нужно подтвердить."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Опубликованный возраст подходит. Язык и место нужно подтвердить."
+              }
+            },
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Опубликованы смены и контакт для заявки. Свободное место в группе уточнить."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "topic": "Робототехника, программирование и цифровой дизайн на примере сцен, персонажей и эффектов кино.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-19",
+                "topic": "Робототехника, программирование и цифровой дизайн на примере сцен, персонажей и эффектов кино.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-20",
+                "topic": "Робототехника, программирование и цифровой дизайн на примере сцен, персонажей и эффектов кино.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-21",
+                "topic": "Робототехника, программирование и цифровой дизайн на примере сцен, персонажей и эффектов кино.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-22",
+                "topic": "Робототехника, программирование и цифровой дизайн на примере сцен, персонажей и эффектов кино.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "start": "2027-02-08",
+            "end": "2027-02-12",
+            "label": "Полный день · 09:00–15:30",
+            "price": "PYG 1200000 за полную неделю, 1000000 за второго ребёнка. Тариф media semana: 850000 / 700000. Полный день: 250000 / 220000. Полдня: 175000 / 150000.",
+            "source": "https://www.mindsoftomorrowparaguay.com/movie-lab",
+            "place": "Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies",
+            "age": "5–12",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Опубликованный возраст подходит. Язык и место нужно подтвердить."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Опубликованный возраст подходит. Язык и место нужно подтвердить."
+              }
+            },
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Опубликованы смены и контакт для заявки. Свободное место в группе уточнить."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-02-08",
+                "topic": "Робототехника, программирование и цифровой дизайн на примере сцен, персонажей и эффектов кино.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-09",
+                "topic": "Робототехника, программирование и цифровой дизайн на примере сцен, персонажей и эффектов кино.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-10",
+                "topic": "Робототехника, программирование и цифровой дизайн на примере сцен, персонажей и эффектов кино.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-11",
+                "topic": "Робототехника, программирование и цифровой дизайн на примере сцен, персонажей и эффектов кино.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-12",
+                "topic": "Робототехника, программирование и цифровой дизайн на примере сцен, персонажей и эффектов кино.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              }
+            ]
+          }
+        ]
+      },
+      "price": {
+        "season": "2026/27",
+        "currency": "PYG",
+        "amount": 1200000,
+        "unit": "child_week",
+        "label": "PYG 1200000 за полную неделю, 1000000 за второго ребёнка. Тариф media semana: 850000 / 700000. Полный день: 250000 / 220000. Полдня: 175000 / 150000.",
+        "included": "Программа и часы опубликованы. Доступ к оборудованию, расходники и состав питания уточнить.",
+        "extras": "Продлёнка по запросу 15:30–17:00, PYG 45000 за час на ребёнка. Для участников текущего after school опубликована скидка 10%. Совместимость скидок, налоги, питание и точный объём media semana уточнить.",
+        "deposit": "Заявка через контакт оператора. Аванс, окончательный счёт и правила отмены уточнить.",
+        "year": 2026
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Опубликованный возраст подходит. Язык и место нужно подтвердить."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Опубликованный возраст подходит. Язык и место нужно подтвердить."
+        }
+      },
+      "editorial_reason": "Редакционная карточка для сравнения программы, школьного допуска и бюджета.",
+      "shortlist": [],
+      "questions": [
+        "Уточнить язык занятий, свободное место и условия для иностранной семьи.",
+        "Уточнить выдачу наборов и устройств, питание, налоги, оплату и возврат.",
+        "Уточнить, действует ли тариф второго ребёнка при выборе разных программ."
+      ],
+      "sources": [
+        {
+          "url": "https://www.mindsoftomorrowparaguay.com/movie-lab",
+          "title": "Конкретная смена, адрес и таблица цен",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.mindsoftomorrowparaguay.com/colonia-verano-2026-2027",
+          "title": "Официальный календарь и правила сезона",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Опубликованы смены и контакт для заявки. Свободное место в группе уточнить."
+      },
+      "pairing": {
+        "venue_id": "pry-mot-austria-2400",
+        "verified_source": "https://www.mindsoftomorrowparaguay.com/movie-lab",
+        "checked": "2026-11-07",
+        "fee": {
+          "currency": "PYG",
+          "amount": 1200000,
+          "unit": "per_child_course",
+          "tax_included": null
+        }
+      }
+    },
+    {
+      "id": "CP1624",
+      "slug": "mot-asuncion-escape",
+      "provider": "Minds of Tomorrow Paraguay · Escape Lab",
+      "country": "Парагвай",
+      "iso": "PRY",
+      "place": "Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "5–12",
+      "language": "Английский и испанский язык преподавания пока не подтверждены. Уточнить язык группы и помощь иностранному ребёнку.",
+      "confirmed_instruction_languages": [],
+      "programme": "Кодирование, роботы, сигнальные системы и логические задачи в формате квеста.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Полный день 09:00–15:30. Полдня 09:00–12:00 или 12:30–15:30. Даты и часы по местному времени Асунсьона.",
+        "sessions": [
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ],
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ],
+          [
+            "2027-02-15",
+            "2027-02-19"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "Полный день · 09:00–15:30",
+            "price": "PYG 1200000 за полную неделю, 1000000 за второго ребёнка. Тариф media semana: 850000 / 700000. Полный день: 250000 / 220000. Полдня: 175000 / 150000.",
+            "source": "https://www.mindsoftomorrowparaguay.com/escape-lab",
+            "place": "Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies",
+            "age": "5–12",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Опубликованный возраст подходит. Язык и место нужно подтвердить."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Опубликованный возраст подходит. Язык и место нужно подтвердить."
+              }
+            },
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Опубликованы смены и контакт для заявки. Свободное место в группе уточнить."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "topic": "Кодирование, роботы, сигнальные системы и логические задачи в формате квеста.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-15",
+                "topic": "Кодирование, роботы, сигнальные системы и логические задачи в формате квеста.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-16",
+                "topic": "Кодирование, роботы, сигнальные системы и логические задачи в формате квеста.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-17",
+                "topic": "Кодирование, роботы, сигнальные системы и логические задачи в формате квеста.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-18",
+                "topic": "Кодирование, роботы, сигнальные системы и логические задачи в формате квеста.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Полный день · 09:00–15:30",
+            "price": "PYG 1200000 за полную неделю, 1000000 за второго ребёнка. Тариф media semana: 850000 / 700000. Полный день: 250000 / 220000. Полдня: 175000 / 150000.",
+            "source": "https://www.mindsoftomorrowparaguay.com/escape-lab",
+            "place": "Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies",
+            "age": "5–12",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Опубликованный возраст подходит. Язык и место нужно подтвердить."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Опубликованный возраст подходит. Язык и место нужно подтвердить."
+              }
+            },
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Опубликованы смены и контакт для заявки. Свободное место в группе уточнить."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "topic": "Кодирование, роботы, сигнальные системы и логические задачи в формате квеста.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-26",
+                "topic": "Кодирование, роботы, сигнальные системы и логические задачи в формате квеста.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-27",
+                "topic": "Кодирование, роботы, сигнальные системы и логические задачи в формате квеста.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-28",
+                "topic": "Кодирование, роботы, сигнальные системы и логические задачи в формате квеста.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-29",
+                "topic": "Кодирование, роботы, сигнальные системы и логические задачи в формате квеста.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "start": "2027-02-15",
+            "end": "2027-02-19",
+            "label": "Полный день · 09:00–15:30",
+            "price": "PYG 1200000 за полную неделю, 1000000 за второго ребёнка. Тариф media semana: 850000 / 700000. Полный день: 250000 / 220000. Полдня: 175000 / 150000.",
+            "source": "https://www.mindsoftomorrowparaguay.com/escape-lab",
+            "place": "Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies",
+            "age": "5–12",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Опубликованный возраст подходит. Язык и место нужно подтвердить."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Опубликованный возраст подходит. Язык и место нужно подтвердить."
+              }
+            },
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Опубликованы смены и контакт для заявки. Свободное место в группе уточнить."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-02-15",
+                "topic": "Кодирование, роботы, сигнальные системы и логические задачи в формате квеста.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-16",
+                "topic": "Кодирование, роботы, сигнальные системы и логические задачи в формате квеста.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-17",
+                "topic": "Кодирование, роботы, сигнальные системы и логические задачи в формате квеста.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-18",
+                "topic": "Кодирование, роботы, сигнальные системы и логические задачи в формате квеста.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-19",
+                "topic": "Кодирование, роботы, сигнальные системы и логические задачи в формате квеста.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              }
+            ]
+          }
+        ]
+      },
+      "price": {
+        "season": "2026/27",
+        "currency": "PYG",
+        "amount": 1200000,
+        "unit": "child_week",
+        "label": "PYG 1200000 за полную неделю, 1000000 за второго ребёнка. Тариф media semana: 850000 / 700000. Полный день: 250000 / 220000. Полдня: 175000 / 150000.",
+        "included": "Программа и часы опубликованы. Доступ к оборудованию, расходники и состав питания уточнить.",
+        "extras": "Продлёнка по запросу 15:30–17:00, PYG 45000 за час на ребёнка. Для участников текущего after school опубликована скидка 10%. Совместимость скидок, налоги, питание и точный объём media semana уточнить.",
+        "deposit": "Заявка через контакт оператора. Аванс, окончательный счёт и правила отмены уточнить.",
+        "year": 2026
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Опубликованный возраст подходит. Язык и место нужно подтвердить."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Опубликованный возраст подходит. Язык и место нужно подтвердить."
+        }
+      },
+      "editorial_reason": "Редакционная карточка для сравнения программы, школьного допуска и бюджета.",
+      "shortlist": [],
+      "questions": [
+        "Уточнить язык занятий, свободное место и условия для иностранной семьи.",
+        "Уточнить выдачу наборов и устройств, питание, налоги, оплату и возврат.",
+        "Уточнить, действует ли тариф второго ребёнка при выборе разных программ."
+      ],
+      "sources": [
+        {
+          "url": "https://www.mindsoftomorrowparaguay.com/escape-lab",
+          "title": "Конкретная смена, адрес и таблица цен",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.mindsoftomorrowparaguay.com/colonia-verano-2026-2027",
+          "title": "Официальный календарь и правила сезона",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Опубликованы смены и контакт для заявки. Свободное место в группе уточнить."
+      },
+      "pairing": {
+        "venue_id": "pry-mot-austria-2400",
+        "verified_source": "https://www.mindsoftomorrowparaguay.com/escape-lab",
+        "checked": "2026-11-07",
+        "fee": {
+          "currency": "PYG",
+          "amount": 1200000,
+          "unit": "per_child_course",
+          "tax_included": null
+        }
+      }
+    },
+    {
+      "id": "CP1625",
+      "slug": "mot-asuncion-pygamers",
+      "provider": "Minds of Tomorrow Paraguay · PyGamers",
+      "country": "Парагвай",
+      "iso": "PRY",
+      "place": "Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies",
+      "themes": [
+        "games",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "8–12",
+      "language": "Английский и испанский язык преподавания пока не подтверждены. Уточнить язык группы и помощь иностранному ребёнку.",
+      "confirmed_instruction_languages": [],
+      "programme": "Разработка игр на Arduino PyGamer с экраном, кнопками, звуком и датчиками.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Полный день 09:00–15:30. Полдня 09:00–12:00 или 12:30–15:30. Даты и часы по местному времени Асунсьона.",
+        "sessions": [
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ],
+          [
+            "2027-02-01",
+            "2027-02-05"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "label": "Полный день · 09:00–15:30",
+            "price": "PYG 1200000 за полную неделю, 1000000 за второго ребёнка. Тариф media semana: 850000 / 700000. Полный день: 250000 / 220000. Полдня: 175000 / 150000.",
+            "source": "https://www.mindsoftomorrowparaguay.com/pygamers",
+            "place": "Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies",
+            "age": "8–12",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Опубликованный возраст подходит. Язык и место нужно подтвердить."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Для программы нужно минимум 8 лет к началу смены. Рассмотреть параллельную младшую группу."
+              }
+            },
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Опубликованы смены и контакт для заявки. Свободное место в группе уточнить."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "topic": "Разработка игр на Arduino PyGamer с экраном, кнопками, звуком и датчиками.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-12",
+                "topic": "Разработка игр на Arduino PyGamer с экраном, кнопками, звуком и датчиками.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-13",
+                "topic": "Разработка игр на Arduino PyGamer с экраном, кнопками, звуком и датчиками.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-14",
+                "topic": "Разработка игр на Arduino PyGamer с экраном, кнопками, звуком и датчиками.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-15",
+                "topic": "Разработка игр на Arduino PyGamer с экраном, кнопками, звуком и датчиками.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "start": "2027-02-01",
+            "end": "2027-02-05",
+            "label": "Полный день · 09:00–15:30",
+            "price": "PYG 1200000 за полную неделю, 1000000 за второго ребёнка. Тариф media semana: 850000 / 700000. Полный день: 250000 / 220000. Полдня: 175000 / 150000.",
+            "source": "https://www.mindsoftomorrowparaguay.com/pygamers",
+            "place": "Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies",
+            "age": "8–12",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Опубликованный возраст подходит. Язык и место нужно подтвердить."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Для программы нужно минимум 8 лет к началу смены. Рассмотреть параллельную младшую группу."
+              }
+            },
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Опубликованы смены и контакт для заявки. Свободное место в группе уточнить."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-02-01",
+                "topic": "Разработка игр на Arduino PyGamer с экраном, кнопками, звуком и датчиками.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-02",
+                "topic": "Разработка игр на Arduino PyGamer с экраном, кнопками, звуком и датчиками.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-03",
+                "topic": "Разработка игр на Arduino PyGamer с экраном, кнопками, звуком и датчиками.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-04",
+                "topic": "Разработка игр на Arduino PyGamer с экраном, кнопками, звуком и датчиками.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-05",
+                "topic": "Разработка игр на Arduino PyGamer с экраном, кнопками, звуком и датчиками.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              }
+            ]
+          }
+        ]
+      },
+      "price": {
+        "season": "2026/27",
+        "currency": "PYG",
+        "amount": 1200000,
+        "unit": "child_week",
+        "label": "PYG 1200000 за полную неделю, 1000000 за второго ребёнка. Тариф media semana: 850000 / 700000. Полный день: 250000 / 220000. Полдня: 175000 / 150000.",
+        "included": "Программа и часы опубликованы. Доступ к оборудованию, расходники и состав питания уточнить.",
+        "extras": "Продлёнка по запросу 15:30–17:00, PYG 45000 за час на ребёнка. Для участников текущего after school опубликована скидка 10%. Совместимость скидок, налоги, питание и точный объём media semana уточнить.",
+        "deposit": "Заявка через контакт оператора. Аванс, окончательный счёт и правила отмены уточнить.",
+        "year": 2027
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Опубликованный возраст подходит. Язык и место нужно подтвердить."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Для программы нужно минимум 8 лет к началу смены. Рассмотреть параллельную младшую группу."
+        }
+      },
+      "editorial_reason": "Редакционная карточка для сравнения программы, школьного допуска и бюджета.",
+      "shortlist": [],
+      "questions": [
+        "Уточнить язык занятий, свободное место и условия для иностранной семьи.",
+        "Уточнить выдачу наборов и устройств, питание, налоги, оплату и возврат.",
+        "Уточнить, действует ли тариф второго ребёнка при выборе разных программ."
+      ],
+      "sources": [
+        {
+          "url": "https://www.mindsoftomorrowparaguay.com/pygamers",
+          "title": "Конкретная смена, адрес и таблица цен",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.mindsoftomorrowparaguay.com/colonia-verano-2026-2027",
+          "title": "Официальный календарь и правила сезона",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Опубликованы смены и контакт для заявки. Свободное место в группе уточнить."
+      },
+      "pairing": {
+        "venue_id": "pry-mot-austria-2400",
+        "verified_source": "https://www.mindsoftomorrowparaguay.com/pygamers",
+        "checked": "2026-11-07",
+        "fee": {
+          "currency": "PYG",
+          "amount": 1200000,
+          "unit": "per_child_course",
+          "tax_included": null
+        }
+      }
+    },
+    {
+      "id": "CP1626",
+      "slug": "mot-asuncion-lego",
+      "provider": "Minds of Tomorrow Paraguay · LEGO League",
+      "country": "Парагвай",
+      "iso": "PRY",
+      "place": "Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "8–12",
+      "language": "Английский и испанский язык преподавания пока не подтверждены. Уточнить язык группы и помощь иностранному ребёнку.",
+      "confirmed_instruction_languages": [],
+      "programme": "LEGO Education SPIKE Prime: механизмы, датчики, программирование и выполнение миссий в дневном лагере. Официальный отбор FIRST проходит отдельно.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Полный день 09:00–15:30. Полдня 09:00–12:00 или 12:30–15:30. Даты и часы по местному времени Асунсьона.",
+        "sessions": [
+          [
+            "2027-01-18",
+            "2027-01-22"
+          ],
+          [
+            "2027-02-08",
+            "2027-02-12"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-18",
+            "end": "2027-01-22",
+            "label": "Полный день · 09:00–15:30",
+            "price": "PYG 1200000 за полную неделю, 1000000 за второго ребёнка. Тариф media semana: 850000 / 700000. Полный день: 250000 / 220000. Полдня: 175000 / 150000.",
+            "source": "https://www.mindsoftomorrowparaguay.com/colonia-lego-league",
+            "place": "Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies",
+            "age": "8–12",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Опубликованный возраст подходит. Язык и место нужно подтвердить."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Для программы нужно минимум 8 лет к началу смены. Рассмотреть параллельную младшую группу."
+              }
+            },
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Опубликованы смены и контакт для заявки. Свободное место в группе уточнить."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "topic": "LEGO Education SPIKE Prime: механизмы, датчики, программирование и выполнение миссий в дневном лагере. Официальный отбор FIRST проходит отдельно.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-19",
+                "topic": "LEGO Education SPIKE Prime: механизмы, датчики, программирование и выполнение миссий в дневном лагере. Официальный отбор FIRST проходит отдельно.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-20",
+                "topic": "LEGO Education SPIKE Prime: механизмы, датчики, программирование и выполнение миссий в дневном лагере. Официальный отбор FIRST проходит отдельно.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-21",
+                "topic": "LEGO Education SPIKE Prime: механизмы, датчики, программирование и выполнение миссий в дневном лагере. Официальный отбор FIRST проходит отдельно.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-22",
+                "topic": "LEGO Education SPIKE Prime: механизмы, датчики, программирование и выполнение миссий в дневном лагере. Официальный отбор FIRST проходит отдельно.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "start": "2027-02-08",
+            "end": "2027-02-12",
+            "label": "Полный день · 09:00–15:30",
+            "price": "PYG 1200000 за полную неделю, 1000000 за второго ребёнка. Тариф media semana: 850000 / 700000. Полный день: 250000 / 220000. Полдня: 175000 / 150000.",
+            "source": "https://www.mindsoftomorrowparaguay.com/colonia-lego-league",
+            "place": "Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies",
+            "age": "8–12",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Опубликованный возраст подходит. Язык и место нужно подтвердить."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Для программы нужно минимум 8 лет к началу смены. Рассмотреть параллельную младшую группу."
+              }
+            },
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Опубликованы смены и контакт для заявки. Свободное место в группе уточнить."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-02-08",
+                "topic": "LEGO Education SPIKE Prime: механизмы, датчики, программирование и выполнение миссий в дневном лагере. Официальный отбор FIRST проходит отдельно.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-09",
+                "topic": "LEGO Education SPIKE Prime: механизмы, датчики, программирование и выполнение миссий в дневном лагере. Официальный отбор FIRST проходит отдельно.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-10",
+                "topic": "LEGO Education SPIKE Prime: механизмы, датчики, программирование и выполнение миссий в дневном лагере. Официальный отбор FIRST проходит отдельно.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-11",
+                "topic": "LEGO Education SPIKE Prime: механизмы, датчики, программирование и выполнение миссий в дневном лагере. Официальный отбор FIRST проходит отдельно.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-12",
+                "topic": "LEGO Education SPIKE Prime: механизмы, датчики, программирование и выполнение миссий в дневном лагере. Официальный отбор FIRST проходит отдельно.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              }
+            ]
+          }
+        ]
+      },
+      "price": {
+        "season": "2026/27",
+        "currency": "PYG",
+        "amount": 1200000,
+        "unit": "child_week",
+        "label": "PYG 1200000 за полную неделю, 1000000 за второго ребёнка. Тариф media semana: 850000 / 700000. Полный день: 250000 / 220000. Полдня: 175000 / 150000.",
+        "included": "Программа и часы опубликованы. Доступ к оборудованию, расходники и состав питания уточнить.",
+        "extras": "Продлёнка по запросу 15:30–17:00, PYG 45000 за час на ребёнка. Для участников текущего after school опубликована скидка 10%. Совместимость скидок, налоги, питание и точный объём media semana уточнить.",
+        "deposit": "Заявка через контакт оператора. Аванс, окончательный счёт и правила отмены уточнить.",
+        "year": 2027
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Опубликованный возраст подходит. Язык и место нужно подтвердить."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Для программы нужно минимум 8 лет к началу смены. Рассмотреть параллельную младшую группу."
+        }
+      },
+      "editorial_reason": "Редакционная карточка для сравнения программы, школьного допуска и бюджета.",
+      "shortlist": [],
+      "questions": [
+        "Уточнить язык занятий, свободное место и условия для иностранной семьи.",
+        "Уточнить выдачу наборов и устройств, питание, налоги, оплату и возврат.",
+        "Уточнить, действует ли тариф второго ребёнка при выборе разных программ."
+      ],
+      "sources": [
+        {
+          "url": "https://www.mindsoftomorrowparaguay.com/colonia-lego-league",
+          "title": "Конкретная смена, адрес и таблица цен",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.mindsoftomorrowparaguay.com/colonia-verano-2026-2027",
+          "title": "Официальный календарь и правила сезона",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Опубликованы смены и контакт для заявки. Свободное место в группе уточнить."
+      },
+      "pairing": {
+        "venue_id": "pry-mot-austria-2400",
+        "verified_source": "https://www.mindsoftomorrowparaguay.com/colonia-lego-league",
+        "checked": "2026-11-07",
+        "fee": {
+          "currency": "PYG",
+          "amount": 1200000,
+          "unit": "per_child_course",
+          "tax_included": null
+        }
+      }
+    },
+    {
+      "id": "CP1627",
+      "slug": "mot-asuncion-eco",
+      "provider": "Minds of Tomorrow Paraguay · Eco Tech Inventores",
+      "country": "Парагвай",
+      "iso": "PRY",
+      "place": "Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies",
+      "themes": [
+        "robotics",
+        "engineering",
+        "coding",
+        "science"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "8–12",
+      "language": "Английский и испанский язык преподавания пока не подтверждены. Уточнить язык группы и помощь иностранному ребёнку.",
+      "confirmed_instruction_languages": [],
+      "programme": "Проектирование экологических решений, роботы, программирование и эксперименты с возобновляемой энергией.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Полный день 09:00–15:30. Полдня 09:00–12:00 или 12:30–15:30. Даты и часы по местному времени Асунсьона.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ],
+          [
+            "2027-02-15",
+            "2027-02-19"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Полный день · 09:00–15:30",
+            "price": "PYG 1200000 за полную неделю, 1000000 за второго ребёнка. Тариф media semana: 850000 / 700000. Полный день: 250000 / 220000. Полдня: 175000 / 150000.",
+            "source": "https://www.mindsoftomorrowparaguay.com/eco-tech-inventores",
+            "place": "Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies",
+            "age": "8–12",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Опубликованный возраст подходит. Язык и место нужно подтвердить."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Для программы нужно минимум 8 лет к началу смены. Рассмотреть параллельную младшую группу."
+              }
+            },
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Опубликованы смены и контакт для заявки. Свободное место в группе уточнить."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "topic": "Проектирование экологических решений, роботы, программирование и эксперименты с возобновляемой энергией.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-26",
+                "topic": "Проектирование экологических решений, роботы, программирование и эксперименты с возобновляемой энергией.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-27",
+                "topic": "Проектирование экологических решений, роботы, программирование и эксперименты с возобновляемой энергией.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-28",
+                "topic": "Проектирование экологических решений, роботы, программирование и эксперименты с возобновляемой энергией.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-29",
+                "topic": "Проектирование экологических решений, роботы, программирование и эксперименты с возобновляемой энергией.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "start": "2027-02-15",
+            "end": "2027-02-19",
+            "label": "Полный день · 09:00–15:30",
+            "price": "PYG 1200000 за полную неделю, 1000000 за второго ребёнка. Тариф media semana: 850000 / 700000. Полный день: 250000 / 220000. Полдня: 175000 / 150000.",
+            "source": "https://www.mindsoftomorrowparaguay.com/eco-tech-inventores",
+            "place": "Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies",
+            "age": "8–12",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Опубликованный возраст подходит. Язык и место нужно подтвердить."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Для программы нужно минимум 8 лет к началу смены. Рассмотреть параллельную младшую группу."
+              }
+            },
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Опубликованы смены и контакт для заявки. Свободное место в группе уточнить."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-02-15",
+                "topic": "Проектирование экологических решений, роботы, программирование и эксперименты с возобновляемой энергией.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-16",
+                "topic": "Проектирование экологических решений, роботы, программирование и эксперименты с возобновляемой энергией.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-17",
+                "topic": "Проектирование экологических решений, роботы, программирование и эксперименты с возобновляемой энергией.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-18",
+                "topic": "Проектирование экологических решений, роботы, программирование и эксперименты с возобновляемой энергией.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-19",
+                "topic": "Проектирование экологических решений, роботы, программирование и эксперименты с возобновляемой энергией.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Asuncion",
+                "ical_timed": true
+              }
+            ]
+          }
+        ]
+      },
+      "price": {
+        "season": "2026/27",
+        "currency": "PYG",
+        "amount": 1200000,
+        "unit": "child_week",
+        "label": "PYG 1200000 за полную неделю, 1000000 за второго ребёнка. Тариф media semana: 850000 / 700000. Полный день: 250000 / 220000. Полдня: 175000 / 150000.",
+        "included": "Программа и часы опубликованы. Доступ к оборудованию, расходники и состав питания уточнить.",
+        "extras": "Продлёнка по запросу 15:30–17:00, PYG 45000 за час на ребёнка. Для участников текущего after school опубликована скидка 10%. Совместимость скидок, налоги, питание и точный объём media semana уточнить.",
+        "deposit": "Заявка через контакт оператора. Аванс, окончательный счёт и правила отмены уточнить.",
+        "year": 2027
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Опубликованный возраст подходит. Язык и место нужно подтвердить."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Для программы нужно минимум 8 лет к началу смены. Рассмотреть параллельную младшую группу."
+        }
+      },
+      "editorial_reason": "Редакционная карточка для сравнения программы, школьного допуска и бюджета.",
+      "shortlist": [],
+      "questions": [
+        "Уточнить язык занятий, свободное место и условия для иностранной семьи.",
+        "Уточнить выдачу наборов и устройств, питание, налоги, оплату и возврат.",
+        "Уточнить, действует ли тариф второго ребёнка при выборе разных программ."
+      ],
+      "sources": [
+        {
+          "url": "https://www.mindsoftomorrowparaguay.com/eco-tech-inventores",
+          "title": "Конкретная смена, адрес и таблица цен",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.mindsoftomorrowparaguay.com/colonia-verano-2026-2027",
+          "title": "Официальный календарь и правила сезона",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Опубликованы смены и контакт для заявки. Свободное место в группе уточнить."
+      },
+      "pairing": {
+        "venue_id": "pry-mot-austria-2400",
+        "verified_source": "https://www.mindsoftomorrowparaguay.com/eco-tech-inventores",
+        "checked": "2026-11-07",
+        "fee": {
+          "currency": "PYG",
+          "amount": 1200000,
+          "unit": "per_child_course",
+          "tax_included": null
+        }
+      }
     }
   ],
   "gaps": [
@@ -234814,7 +236383,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 207,
+  "version": 209,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -248049,7 +249618,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1621,
+      "total_dossiers": 1627,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,

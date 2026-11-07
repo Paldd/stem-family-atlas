@@ -154,10 +154,10 @@
       "Жильё семьи, иммиграция, школьные визы, поездки команды и полная смета ещё не оценены."
     ],
     "counts": {
-      "records": 79,
-      "countries": 27,
+      "records": 80,
+      "countries": 28,
       "public": 14,
-      "private": 65,
+      "private": 66,
       "boarding": 11,
       "world_result": 19,
       "organizer_protocol": 20,
@@ -910,8 +910,8 @@
         "iso": "PRY",
         "country": "Парагвай",
         "region": "Южная Америка",
-        "records": 0,
-        "status": "unresearched"
+        "records": 1,
+        "status": "partial"
       },
       {
         "iso": "PER",
@@ -8792,6 +8792,116 @@
       ],
       "checked": "2026-11-07",
       "priority": 3,
+      "research_status": "partial",
+      "verification": "Документальная проверка; школа и место в команде не подтверждали приём детей."
+    },
+    {
+      "id": "S080",
+      "name": "The American School of Asunción · ASA",
+      "iso": "PRY",
+      "country": "Парагвай",
+      "region": "Южная Америка",
+      "city": "Asunción",
+      "school_type": "private",
+      "curriculum": "Частная дневная школа. На начальной ступени американская и парагвайская программы, от K4 до Grade 5.",
+      "ib_programmes": [],
+      "ages": "K4–Grade 5",
+      "instruction_languages": [
+        "EN",
+        "ES"
+      ],
+      "language_note": "Английский для основных предметов и искусства. Ежедневно на испанском преподаются язык и социальные дисциплины. Язык команды FLL требует отдельного подтверждения.",
+      "fit": {
+        "mat": "candidate",
+        "osc": "candidate",
+        "note": "Проверить класс, места, язык группы и правила набора в команду."
+      },
+      "boarding": "no",
+      "boarding_note": "Дневная программа без проживания.",
+      "programme": "Начальная команда FLL Explore получила три награды в 2026. В 2024 школа сообщила о трёх начальных командах Explore и двух командах Challenge средней ступени.",
+      "labs": "Школа ведёт проекты по технологиям и соревновательные команды. Доступ младших к оборудованию зависит от группы.",
+      "ai": "Курс ИИ для нужного класса пока не подтверждён.",
+      "results": [
+        {
+          "league": "FIRST LEGO League Explore",
+          "season": 2026,
+          "stage": "FIRST LEGO League Paraguay · Asunción",
+          "award": "Coding Award",
+          "team": "ASA Elementary Explore",
+          "team_id": null,
+          "source": "https://www.asa.edu.py/news/elementary-robotics-team-secures-three-awards-at-first-lego-league-festival",
+          "provenance": "school_report",
+          "limit": "Награда Explore по отчёту начальной школы. Уровень международного финала не заявлен."
+        },
+        {
+          "league": "FIRST LEGO League Explore",
+          "season": 2026,
+          "stage": "FIRST LEGO League Paraguay · Asunción",
+          "award": "Core Values Award",
+          "team": "ASA Elementary Explore",
+          "team_id": null,
+          "source": "https://www.asa.edu.py/news/elementary-robotics-team-secures-three-awards-at-first-lego-league-festival",
+          "provenance": "school_report",
+          "limit": "Награда Explore по отчёту начальной школы. Уровень международного финала не заявлен."
+        },
+        {
+          "league": "FIRST LEGO League Explore",
+          "season": 2026,
+          "stage": "FIRST LEGO League Paraguay · Asunción",
+          "award": "Team Model Award",
+          "team": "ASA Elementary Explore",
+          "team_id": null,
+          "source": "https://www.asa.edu.py/news/elementary-robotics-team-secures-three-awards-at-first-lego-league-festival",
+          "provenance": "school_report",
+          "limit": "Награда Explore по отчёту начальной школы. Уровень международного финала не заявлен."
+        }
+      ],
+      "evidence": "other_result",
+      "admissions": "Предварительная регистрация K4 или K5–12. Место зависит от класса, приоритета приёма и решения школы. Для K4 нужно 4 года, для K5 — 5 лет к 1 сентября.",
+      "cost": "Актуальный полный тариф школы, вступительный взнос и расходы на команду нужно подтвердить.",
+      "questions": [
+        "Проверить класс, места, язык группы и правила набора в команду.",
+        "Уточнить выдачу наборов и устройств, питание, налоги, оплату и возврат."
+      ],
+      "sources": [
+        {
+          "url": "https://www.asa.edu.py/p/elementary-school",
+          "title": "ASA · Elementary",
+          "claim": "Английский для основных предметов и искусства. Ежедневно на испанском преподаются язык и социальные дисциплины. Язык команды FLL требует отдельного подтверждения.",
+          "kind": "school",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://asa.edu.py/index.php/p/admissions",
+          "title": "ASA · Admissions",
+          "claim": "Предварительная регистрация K4 или K5–12. Место зависит от класса, приоритета приёма и решения школы. Для K4 нужно 4 года, для K5 — 5 лет к 1 сентября.",
+          "kind": "school",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.asa.edu.py/news/first-lego-league-national-competition",
+          "title": "ASA · FLL 2024",
+          "claim": "Начальная команда FLL Explore получила три награды в 2026. В 2024 школа сообщила о трёх начальных командах Explore и двух командах Challenge средней ступени.",
+          "kind": "school",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.asa.edu.py/news/elementary-robotics-team-secures-three-awards-at-first-lego-league-festival",
+          "title": "ASA · Explore 2026",
+          "claim": "Награда Explore по отчёту начальной школы. Уровень международного финала не заявлен.",
+          "kind": "school",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://2021-2025.state.gov/the-american-school-of-asuncion-fact-sheet/",
+          "title": "Office of Overseas Schools · ASA 2023–24",
+          "claim": "Частная дневная школа. На начальной ступени американская и парагвайская программы, от K4 до Grade 5.",
+          "kind": "government",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "priority": 2,
       "research_status": "partial",
       "verification": "Документальная проверка; школа и место в команде не подтверждали приём детей."
     }

@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-07. 1621 fichas detalladas en 91 países. Cada ficha indica las fechas de verificación de sus fuentes.
+Estado de la base: 2026-11-07. 1627 fichas en 92 países. Cada ficha indica las fechas de verificación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -124563,6 +124563,690 @@ Chile · Santiago, Chile
 - [Horario e información de la exposición](https://www.wondercamps.cl/en/summertechcamp) · 2026-11-07
 
 - [Reglas y condiciones de admisión](https://www.wondercamps.cl/terms-conditions) · 2026-11-07
+
+## CP1622 · Minds of Tomorrow Paraguay · Retro Lab
+
+Paraguay · Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies
+
+**Se ha comprobado:** 2026-11-07
+
+**Edad:** 5–12
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Programación de juegos arcade, diseño digital, sonido y proyectos tecnológicos de estilo retro.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Día completo 09:00–15:30. Medio día 09:00–12:00 o 12:30–15:30. Fechas y horas locales de Asunción.
+
+**Precio / año:** 2026/27 · PYG 1200000 por semana completa, 1000000 para el hermano. Tarifa media semana: 850000 / 700000. Día completo: 250000 / 220000. Medio día: 175000 / 150000.
+
+**Incluido:** Se publican programa y horarios. Confirmar acceso al equipo, consumibles y contenido de las comidas.
+
+**Suplementos:** Cuidado extendido a solicitud 15:30–17:00, PYG 45000 por hora y menor. Descuento publicado del 10% para inscritos actuales en after school. Confirmar combinación de descuentos, impuestos, comida y alcance exacto de media semana.
+
+**Pago:** Solicitud mediante el contacto del proveedor. Confirmar anticipo, factura final y cancelación.
+
+**Matvey:** La edad publicada encaja. Hay que confirmar idioma y plaza.
+
+**Oscar:** La edad publicada encaja. Hay que confirmar idioma y plaza.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar idioma de clase, plaza y condiciones para una familia extranjera.
+
+- Confirmar préstamo de kits y dispositivos, comida, impuestos, pago y reembolso.
+
+- Confirmar si se aplica la tarifa de hermano en programas diferentes.
+
+### Día completo · 09:00–15:30
+
+**Fechas / estado:** 2026-11-30 — 2026-12-04
+
+**lugar:** Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies
+
+**Edad:** 5–12
+
+**Precio:** PYG 1200000 por semana completa, 1000000 para el hermano. Tarifa media semana: 850000 / 700000. Día completo: 250000 / 220000. Medio día: 175000 / 150000.
+
+- 2026-11-30 · 09:00–15:30 · America/Asuncion · Programación de juegos arcade, diseño digital, sonido y proyectos tecnológicos de estilo retro.
+
+- 2026-12-01 · 09:00–15:30 · America/Asuncion · Programación de juegos arcade, diseño digital, sonido y proyectos tecnológicos de estilo retro.
+
+- 2026-12-02 · 09:00–15:30 · America/Asuncion · Programación de juegos arcade, diseño digital, sonido y proyectos tecnológicos de estilo retro.
+
+- 2026-12-03 · 09:00–15:30 · America/Asuncion · Programación de juegos arcade, diseño digital, sonido y proyectos tecnológicos de estilo retro.
+
+- 2026-12-04 · 09:00–15:30 · America/Asuncion · Programación de juegos arcade, diseño digital, sonido y proyectos tecnológicos de estilo retro.
+
+**Disponibilidad de plazas:** Se publican turnos y contacto de solicitud. Confirmar plaza en el grupo.
+
+**Matvey:** La edad publicada encaja. Hay que confirmar idioma y plaza.
+
+**Oscar:** La edad publicada encaja. Hay que confirmar idioma y plaza.
+
+[fuente](https://www.mindsoftomorrowparaguay.com/retro-lab)
+
+### Día completo · 09:00–15:30
+
+**Fechas / estado:** 2027-01-11 — 2027-01-15
+
+**lugar:** Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies
+
+**Edad:** 5–12
+
+**Precio:** PYG 1200000 por semana completa, 1000000 para el hermano. Tarifa media semana: 850000 / 700000. Día completo: 250000 / 220000. Medio día: 175000 / 150000.
+
+- 2027-01-11 · 09:00–15:30 · America/Asuncion · Programación de juegos arcade, diseño digital, sonido y proyectos tecnológicos de estilo retro.
+
+- 2027-01-12 · 09:00–15:30 · America/Asuncion · Programación de juegos arcade, diseño digital, sonido y proyectos tecnológicos de estilo retro.
+
+- 2027-01-13 · 09:00–15:30 · America/Asuncion · Programación de juegos arcade, diseño digital, sonido y proyectos tecnológicos de estilo retro.
+
+- 2027-01-14 · 09:00–15:30 · America/Asuncion · Programación de juegos arcade, diseño digital, sonido y proyectos tecnológicos de estilo retro.
+
+- 2027-01-15 · 09:00–15:30 · America/Asuncion · Programación de juegos arcade, diseño digital, sonido y proyectos tecnológicos de estilo retro.
+
+**Disponibilidad de plazas:** Se publican turnos y contacto de solicitud. Confirmar plaza en el grupo.
+
+**Matvey:** La edad publicada encaja. Hay que confirmar idioma y plaza.
+
+**Oscar:** La edad publicada encaja. Hay que confirmar idioma y plaza.
+
+[fuente](https://www.mindsoftomorrowparaguay.com/retro-lab)
+
+### Día completo · 09:00–15:30
+
+**Fechas / estado:** 2027-02-01 — 2027-02-05
+
+**lugar:** Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies
+
+**Edad:** 5–12
+
+**Precio:** PYG 1200000 por semana completa, 1000000 para el hermano. Tarifa media semana: 850000 / 700000. Día completo: 250000 / 220000. Medio día: 175000 / 150000.
+
+- 2027-02-01 · 09:00–15:30 · America/Asuncion · Programación de juegos arcade, diseño digital, sonido y proyectos tecnológicos de estilo retro.
+
+- 2027-02-02 · 09:00–15:30 · America/Asuncion · Programación de juegos arcade, diseño digital, sonido y proyectos tecnológicos de estilo retro.
+
+- 2027-02-03 · 09:00–15:30 · America/Asuncion · Programación de juegos arcade, diseño digital, sonido y proyectos tecnológicos de estilo retro.
+
+- 2027-02-04 · 09:00–15:30 · America/Asuncion · Programación de juegos arcade, diseño digital, sonido y proyectos tecnológicos de estilo retro.
+
+- 2027-02-05 · 09:00–15:30 · America/Asuncion · Programación de juegos arcade, diseño digital, sonido y proyectos tecnológicos de estilo retro.
+
+**Disponibilidad de plazas:** Se publican turnos y contacto de solicitud. Confirmar plaza en el grupo.
+
+**Matvey:** La edad publicada encaja. Hay que confirmar idioma y plaza.
+
+**Oscar:** La edad publicada encaja. Hay que confirmar idioma y plaza.
+
+[fuente](https://www.mindsoftomorrowparaguay.com/retro-lab)
+
+### Fuentes
+
+- [Turno concreto, dirección y tabla de precios](https://www.mindsoftomorrowparaguay.com/retro-lab) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.mindsoftomorrowparaguay.com/colonia-verano-2026-2027) · 2026-11-07
+
+## CP1623 · Minds of Tomorrow Paraguay · Movie Lab
+
+Paraguay · Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies
+
+**Se ha comprobado:** 2026-11-07
+
+**Edad:** 5–12
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Robótica, programación y diseño digital mediante escenas, personajes y efectos del cine.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Día completo 09:00–15:30. Medio día 09:00–12:00 o 12:30–15:30. Fechas y horas locales de Asunción.
+
+**Precio / año:** 2026/27 · PYG 1200000 por semana completa, 1000000 para el hermano. Tarifa media semana: 850000 / 700000. Día completo: 250000 / 220000. Medio día: 175000 / 150000.
+
+**Incluido:** Se publican programa y horarios. Confirmar acceso al equipo, consumibles y contenido de las comidas.
+
+**Suplementos:** Cuidado extendido a solicitud 15:30–17:00, PYG 45000 por hora y menor. Descuento publicado del 10% para inscritos actuales en after school. Confirmar combinación de descuentos, impuestos, comida y alcance exacto de media semana.
+
+**Pago:** Solicitud mediante el contacto del proveedor. Confirmar anticipo, factura final y cancelación.
+
+**Matvey:** La edad publicada encaja. Hay que confirmar idioma y plaza.
+
+**Oscar:** La edad publicada encaja. Hay que confirmar idioma y plaza.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar idioma de clase, plaza y condiciones para una familia extranjera.
+
+- Confirmar préstamo de kits y dispositivos, comida, impuestos, pago y reembolso.
+
+- Confirmar si se aplica la tarifa de hermano en programas diferentes.
+
+### Día completo · 09:00–15:30
+
+**Fechas / estado:** 2026-12-07 — 2026-12-11
+
+**lugar:** Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies
+
+**Edad:** 5–12
+
+**Precio:** PYG 1200000 por semana completa, 1000000 para el hermano. Tarifa media semana: 850000 / 700000. Día completo: 250000 / 220000. Medio día: 175000 / 150000.
+
+- 2026-12-07 · 09:00–15:30 · America/Asuncion · Robótica, programación y diseño digital mediante escenas, personajes y efectos del cine.
+
+- 2026-12-08 · 09:00–15:30 · America/Asuncion · Robótica, programación y diseño digital mediante escenas, personajes y efectos del cine.
+
+- 2026-12-09 · 09:00–15:30 · America/Asuncion · Robótica, programación y diseño digital mediante escenas, personajes y efectos del cine.
+
+- 2026-12-10 · 09:00–15:30 · America/Asuncion · Robótica, programación y diseño digital mediante escenas, personajes y efectos del cine.
+
+- 2026-12-11 · 09:00–15:30 · America/Asuncion · Robótica, programación y diseño digital mediante escenas, personajes y efectos del cine.
+
+**Disponibilidad de plazas:** Se publican turnos y contacto de solicitud. Confirmar plaza en el grupo.
+
+**Matvey:** La edad publicada encaja. Hay que confirmar idioma y plaza.
+
+**Oscar:** La edad publicada encaja. Hay que confirmar idioma y plaza.
+
+[fuente](https://www.mindsoftomorrowparaguay.com/movie-lab)
+
+### Día completo · 09:00–15:30
+
+**Fechas / estado:** 2027-01-18 — 2027-01-22
+
+**lugar:** Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies
+
+**Edad:** 5–12
+
+**Precio:** PYG 1200000 por semana completa, 1000000 para el hermano. Tarifa media semana: 850000 / 700000. Día completo: 250000 / 220000. Medio día: 175000 / 150000.
+
+- 2027-01-18 · 09:00–15:30 · America/Asuncion · Robótica, programación y diseño digital mediante escenas, personajes y efectos del cine.
+
+- 2027-01-19 · 09:00–15:30 · America/Asuncion · Robótica, programación y diseño digital mediante escenas, personajes y efectos del cine.
+
+- 2027-01-20 · 09:00–15:30 · America/Asuncion · Robótica, programación y diseño digital mediante escenas, personajes y efectos del cine.
+
+- 2027-01-21 · 09:00–15:30 · America/Asuncion · Robótica, programación y diseño digital mediante escenas, personajes y efectos del cine.
+
+- 2027-01-22 · 09:00–15:30 · America/Asuncion · Robótica, programación y diseño digital mediante escenas, personajes y efectos del cine.
+
+**Disponibilidad de plazas:** Se publican turnos y contacto de solicitud. Confirmar plaza en el grupo.
+
+**Matvey:** La edad publicada encaja. Hay que confirmar idioma y plaza.
+
+**Oscar:** La edad publicada encaja. Hay que confirmar idioma y plaza.
+
+[fuente](https://www.mindsoftomorrowparaguay.com/movie-lab)
+
+### Día completo · 09:00–15:30
+
+**Fechas / estado:** 2027-02-08 — 2027-02-12
+
+**lugar:** Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies
+
+**Edad:** 5–12
+
+**Precio:** PYG 1200000 por semana completa, 1000000 para el hermano. Tarifa media semana: 850000 / 700000. Día completo: 250000 / 220000. Medio día: 175000 / 150000.
+
+- 2027-02-08 · 09:00–15:30 · America/Asuncion · Robótica, programación y diseño digital mediante escenas, personajes y efectos del cine.
+
+- 2027-02-09 · 09:00–15:30 · America/Asuncion · Robótica, programación y diseño digital mediante escenas, personajes y efectos del cine.
+
+- 2027-02-10 · 09:00–15:30 · America/Asuncion · Robótica, programación y diseño digital mediante escenas, personajes y efectos del cine.
+
+- 2027-02-11 · 09:00–15:30 · America/Asuncion · Robótica, programación y diseño digital mediante escenas, personajes y efectos del cine.
+
+- 2027-02-12 · 09:00–15:30 · America/Asuncion · Robótica, programación y diseño digital mediante escenas, personajes y efectos del cine.
+
+**Disponibilidad de plazas:** Se publican turnos y contacto de solicitud. Confirmar plaza en el grupo.
+
+**Matvey:** La edad publicada encaja. Hay que confirmar idioma y plaza.
+
+**Oscar:** La edad publicada encaja. Hay que confirmar idioma y plaza.
+
+[fuente](https://www.mindsoftomorrowparaguay.com/movie-lab)
+
+### Fuentes
+
+- [Turno concreto, dirección y tabla de precios](https://www.mindsoftomorrowparaguay.com/movie-lab) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.mindsoftomorrowparaguay.com/colonia-verano-2026-2027) · 2026-11-07
+
+## CP1624 · Minds of Tomorrow Paraguay · Escape Lab
+
+Paraguay · Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies
+
+**Se ha comprobado:** 2026-11-07
+
+**Edad:** 5–12
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Programación, robots, sistemas de alarma y retos de lógica en formato de escape.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Día completo 09:00–15:30. Medio día 09:00–12:00 o 12:30–15:30. Fechas y horas locales de Asunción.
+
+**Precio / año:** 2026/27 · PYG 1200000 por semana completa, 1000000 para el hermano. Tarifa media semana: 850000 / 700000. Día completo: 250000 / 220000. Medio día: 175000 / 150000.
+
+**Incluido:** Se publican programa y horarios. Confirmar acceso al equipo, consumibles y contenido de las comidas.
+
+**Suplementos:** Cuidado extendido a solicitud 15:30–17:00, PYG 45000 por hora y menor. Descuento publicado del 10% para inscritos actuales en after school. Confirmar combinación de descuentos, impuestos, comida y alcance exacto de media semana.
+
+**Pago:** Solicitud mediante el contacto del proveedor. Confirmar anticipo, factura final y cancelación.
+
+**Matvey:** La edad publicada encaja. Hay que confirmar idioma y plaza.
+
+**Oscar:** La edad publicada encaja. Hay que confirmar idioma y plaza.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar idioma de clase, plaza y condiciones para una familia extranjera.
+
+- Confirmar préstamo de kits y dispositivos, comida, impuestos, pago y reembolso.
+
+- Confirmar si se aplica la tarifa de hermano en programas diferentes.
+
+### Día completo · 09:00–15:30
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**lugar:** Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies
+
+**Edad:** 5–12
+
+**Precio:** PYG 1200000 por semana completa, 1000000 para el hermano. Tarifa media semana: 850000 / 700000. Día completo: 250000 / 220000. Medio día: 175000 / 150000.
+
+- 2026-12-14 · 09:00–15:30 · America/Asuncion · Programación, robots, sistemas de alarma y retos de lógica en formato de escape.
+
+- 2026-12-15 · 09:00–15:30 · America/Asuncion · Programación, robots, sistemas de alarma y retos de lógica en formato de escape.
+
+- 2026-12-16 · 09:00–15:30 · America/Asuncion · Programación, robots, sistemas de alarma y retos de lógica en formato de escape.
+
+- 2026-12-17 · 09:00–15:30 · America/Asuncion · Programación, robots, sistemas de alarma y retos de lógica en formato de escape.
+
+- 2026-12-18 · 09:00–15:30 · America/Asuncion · Programación, robots, sistemas de alarma y retos de lógica en formato de escape.
+
+**Disponibilidad de plazas:** Se publican turnos y contacto de solicitud. Confirmar plaza en el grupo.
+
+**Matvey:** La edad publicada encaja. Hay que confirmar idioma y plaza.
+
+**Oscar:** La edad publicada encaja. Hay que confirmar idioma y plaza.
+
+[fuente](https://www.mindsoftomorrowparaguay.com/escape-lab)
+
+### Día completo · 09:00–15:30
+
+**Fechas / estado:** 2027-01-25 — 2027-01-29
+
+**lugar:** Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies
+
+**Edad:** 5–12
+
+**Precio:** PYG 1200000 por semana completa, 1000000 para el hermano. Tarifa media semana: 850000 / 700000. Día completo: 250000 / 220000. Medio día: 175000 / 150000.
+
+- 2027-01-25 · 09:00–15:30 · America/Asuncion · Programación, robots, sistemas de alarma y retos de lógica en formato de escape.
+
+- 2027-01-26 · 09:00–15:30 · America/Asuncion · Programación, robots, sistemas de alarma y retos de lógica en formato de escape.
+
+- 2027-01-27 · 09:00–15:30 · America/Asuncion · Programación, robots, sistemas de alarma y retos de lógica en formato de escape.
+
+- 2027-01-28 · 09:00–15:30 · America/Asuncion · Programación, robots, sistemas de alarma y retos de lógica en formato de escape.
+
+- 2027-01-29 · 09:00–15:30 · America/Asuncion · Programación, robots, sistemas de alarma y retos de lógica en formato de escape.
+
+**Disponibilidad de plazas:** Se publican turnos y contacto de solicitud. Confirmar plaza en el grupo.
+
+**Matvey:** La edad publicada encaja. Hay que confirmar idioma y plaza.
+
+**Oscar:** La edad publicada encaja. Hay que confirmar idioma y plaza.
+
+[fuente](https://www.mindsoftomorrowparaguay.com/escape-lab)
+
+### Día completo · 09:00–15:30
+
+**Fechas / estado:** 2027-02-15 — 2027-02-19
+
+**lugar:** Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies
+
+**Edad:** 5–12
+
+**Precio:** PYG 1200000 por semana completa, 1000000 para el hermano. Tarifa media semana: 850000 / 700000. Día completo: 250000 / 220000. Medio día: 175000 / 150000.
+
+- 2027-02-15 · 09:00–15:30 · America/Asuncion · Programación, robots, sistemas de alarma y retos de lógica en formato de escape.
+
+- 2027-02-16 · 09:00–15:30 · America/Asuncion · Programación, robots, sistemas de alarma y retos de lógica en formato de escape.
+
+- 2027-02-17 · 09:00–15:30 · America/Asuncion · Programación, robots, sistemas de alarma y retos de lógica en formato de escape.
+
+- 2027-02-18 · 09:00–15:30 · America/Asuncion · Programación, robots, sistemas de alarma y retos de lógica en formato de escape.
+
+- 2027-02-19 · 09:00–15:30 · America/Asuncion · Programación, robots, sistemas de alarma y retos de lógica en formato de escape.
+
+**Disponibilidad de plazas:** Se publican turnos y contacto de solicitud. Confirmar plaza en el grupo.
+
+**Matvey:** La edad publicada encaja. Hay que confirmar idioma y plaza.
+
+**Oscar:** La edad publicada encaja. Hay que confirmar idioma y plaza.
+
+[fuente](https://www.mindsoftomorrowparaguay.com/escape-lab)
+
+### Fuentes
+
+- [Turno concreto, dirección y tabla de precios](https://www.mindsoftomorrowparaguay.com/escape-lab) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.mindsoftomorrowparaguay.com/colonia-verano-2026-2027) · 2026-11-07
+
+## CP1625 · Minds of Tomorrow Paraguay · PyGamers
+
+Paraguay · Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies
+
+**Se ha comprobado:** 2026-11-07
+
+**Edad:** 8–12
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Desarrollo de juegos con Arduino PyGamer, pantalla, botones, sonido y sensores.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Día completo 09:00–15:30. Medio día 09:00–12:00 o 12:30–15:30. Fechas y horas locales de Asunción.
+
+**Precio / año:** 2026/27 · PYG 1200000 por semana completa, 1000000 para el hermano. Tarifa media semana: 850000 / 700000. Día completo: 250000 / 220000. Medio día: 175000 / 150000.
+
+**Incluido:** Se publican programa y horarios. Confirmar acceso al equipo, consumibles y contenido de las comidas.
+
+**Suplementos:** Cuidado extendido a solicitud 15:30–17:00, PYG 45000 por hora y menor. Descuento publicado del 10% para inscritos actuales en after school. Confirmar combinación de descuentos, impuestos, comida y alcance exacto de media semana.
+
+**Pago:** Solicitud mediante el contacto del proveedor. Confirmar anticipo, factura final y cancelación.
+
+**Matvey:** La edad publicada encaja. Hay que confirmar idioma y plaza.
+
+**Oscar:** El programa requiere 8 años cumplidos al inicio. Considerar el grupo inicial paralelo.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar idioma de clase, plaza y condiciones para una familia extranjera.
+
+- Confirmar préstamo de kits y dispositivos, comida, impuestos, pago y reembolso.
+
+- Confirmar si se aplica la tarifa de hermano en programas diferentes.
+
+### Día completo · 09:00–15:30
+
+**Fechas / estado:** 2027-01-11 — 2027-01-15
+
+**lugar:** Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies
+
+**Edad:** 8–12
+
+**Precio:** PYG 1200000 por semana completa, 1000000 para el hermano. Tarifa media semana: 850000 / 700000. Día completo: 250000 / 220000. Medio día: 175000 / 150000.
+
+- 2027-01-11 · 09:00–15:30 · America/Asuncion · Desarrollo de juegos con Arduino PyGamer, pantalla, botones, sonido y sensores.
+
+- 2027-01-12 · 09:00–15:30 · America/Asuncion · Desarrollo de juegos con Arduino PyGamer, pantalla, botones, sonido y sensores.
+
+- 2027-01-13 · 09:00–15:30 · America/Asuncion · Desarrollo de juegos con Arduino PyGamer, pantalla, botones, sonido y sensores.
+
+- 2027-01-14 · 09:00–15:30 · America/Asuncion · Desarrollo de juegos con Arduino PyGamer, pantalla, botones, sonido y sensores.
+
+- 2027-01-15 · 09:00–15:30 · America/Asuncion · Desarrollo de juegos con Arduino PyGamer, pantalla, botones, sonido y sensores.
+
+**Disponibilidad de plazas:** Se publican turnos y contacto de solicitud. Confirmar plaza en el grupo.
+
+**Matvey:** La edad publicada encaja. Hay que confirmar idioma y plaza.
+
+**Oscar:** El programa requiere 8 años cumplidos al inicio. Considerar el grupo inicial paralelo.
+
+[fuente](https://www.mindsoftomorrowparaguay.com/pygamers)
+
+### Día completo · 09:00–15:30
+
+**Fechas / estado:** 2027-02-01 — 2027-02-05
+
+**lugar:** Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies
+
+**Edad:** 8–12
+
+**Precio:** PYG 1200000 por semana completa, 1000000 para el hermano. Tarifa media semana: 850000 / 700000. Día completo: 250000 / 220000. Medio día: 175000 / 150000.
+
+- 2027-02-01 · 09:00–15:30 · America/Asuncion · Desarrollo de juegos con Arduino PyGamer, pantalla, botones, sonido y sensores.
+
+- 2027-02-02 · 09:00–15:30 · America/Asuncion · Desarrollo de juegos con Arduino PyGamer, pantalla, botones, sonido y sensores.
+
+- 2027-02-03 · 09:00–15:30 · America/Asuncion · Desarrollo de juegos con Arduino PyGamer, pantalla, botones, sonido y sensores.
+
+- 2027-02-04 · 09:00–15:30 · America/Asuncion · Desarrollo de juegos con Arduino PyGamer, pantalla, botones, sonido y sensores.
+
+- 2027-02-05 · 09:00–15:30 · America/Asuncion · Desarrollo de juegos con Arduino PyGamer, pantalla, botones, sonido y sensores.
+
+**Disponibilidad de plazas:** Se publican turnos y contacto de solicitud. Confirmar plaza en el grupo.
+
+**Matvey:** La edad publicada encaja. Hay que confirmar idioma y plaza.
+
+**Oscar:** El programa requiere 8 años cumplidos al inicio. Considerar el grupo inicial paralelo.
+
+[fuente](https://www.mindsoftomorrowparaguay.com/pygamers)
+
+### Fuentes
+
+- [Turno concreto, dirección y tabla de precios](https://www.mindsoftomorrowparaguay.com/pygamers) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.mindsoftomorrowparaguay.com/colonia-verano-2026-2027) · 2026-11-07
+
+## CP1626 · Minds of Tomorrow Paraguay · LEGO League
+
+Paraguay · Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies
+
+**Se ha comprobado:** 2026-11-07
+
+**Edad:** 8–12
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** LEGO Education SPIKE Prime: mecanismos, sensores, programación y misiones en campamento diurno. La clasificación oficial de FIRST se realiza aparte.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Día completo 09:00–15:30. Medio día 09:00–12:00 o 12:30–15:30. Fechas y horas locales de Asunción.
+
+**Precio / año:** 2026/27 · PYG 1200000 por semana completa, 1000000 para el hermano. Tarifa media semana: 850000 / 700000. Día completo: 250000 / 220000. Medio día: 175000 / 150000.
+
+**Incluido:** Se publican programa y horarios. Confirmar acceso al equipo, consumibles y contenido de las comidas.
+
+**Suplementos:** Cuidado extendido a solicitud 15:30–17:00, PYG 45000 por hora y menor. Descuento publicado del 10% para inscritos actuales en after school. Confirmar combinación de descuentos, impuestos, comida y alcance exacto de media semana.
+
+**Pago:** Solicitud mediante el contacto del proveedor. Confirmar anticipo, factura final y cancelación.
+
+**Matvey:** La edad publicada encaja. Hay que confirmar idioma y plaza.
+
+**Oscar:** El programa requiere 8 años cumplidos al inicio. Considerar el grupo inicial paralelo.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar idioma de clase, plaza y condiciones para una familia extranjera.
+
+- Confirmar préstamo de kits y dispositivos, comida, impuestos, pago y reembolso.
+
+- Confirmar si se aplica la tarifa de hermano en programas diferentes.
+
+### Día completo · 09:00–15:30
+
+**Fechas / estado:** 2027-01-18 — 2027-01-22
+
+**lugar:** Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies
+
+**Edad:** 8–12
+
+**Precio:** PYG 1200000 por semana completa, 1000000 para el hermano. Tarifa media semana: 850000 / 700000. Día completo: 250000 / 220000. Medio día: 175000 / 150000.
+
+- 2027-01-18 · 09:00–15:30 · America/Asuncion · LEGO Education SPIKE Prime: mecanismos, sensores, programación y misiones en campamento diurno. La clasificación oficial de FIRST se realiza aparte.
+
+- 2027-01-19 · 09:00–15:30 · America/Asuncion · LEGO Education SPIKE Prime: mecanismos, sensores, programación y misiones en campamento diurno. La clasificación oficial de FIRST se realiza aparte.
+
+- 2027-01-20 · 09:00–15:30 · America/Asuncion · LEGO Education SPIKE Prime: mecanismos, sensores, programación y misiones en campamento diurno. La clasificación oficial de FIRST se realiza aparte.
+
+- 2027-01-21 · 09:00–15:30 · America/Asuncion · LEGO Education SPIKE Prime: mecanismos, sensores, programación y misiones en campamento diurno. La clasificación oficial de FIRST se realiza aparte.
+
+- 2027-01-22 · 09:00–15:30 · America/Asuncion · LEGO Education SPIKE Prime: mecanismos, sensores, programación y misiones en campamento diurno. La clasificación oficial de FIRST se realiza aparte.
+
+**Disponibilidad de plazas:** Se publican turnos y contacto de solicitud. Confirmar plaza en el grupo.
+
+**Matvey:** La edad publicada encaja. Hay que confirmar idioma y plaza.
+
+**Oscar:** El programa requiere 8 años cumplidos al inicio. Considerar el grupo inicial paralelo.
+
+[fuente](https://www.mindsoftomorrowparaguay.com/colonia-lego-league)
+
+### Día completo · 09:00–15:30
+
+**Fechas / estado:** 2027-02-08 — 2027-02-12
+
+**lugar:** Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies
+
+**Edad:** 8–12
+
+**Precio:** PYG 1200000 por semana completa, 1000000 para el hermano. Tarifa media semana: 850000 / 700000. Día completo: 250000 / 220000. Medio día: 175000 / 150000.
+
+- 2027-02-08 · 09:00–15:30 · America/Asuncion · LEGO Education SPIKE Prime: mecanismos, sensores, programación y misiones en campamento diurno. La clasificación oficial de FIRST se realiza aparte.
+
+- 2027-02-09 · 09:00–15:30 · America/Asuncion · LEGO Education SPIKE Prime: mecanismos, sensores, programación y misiones en campamento diurno. La clasificación oficial de FIRST se realiza aparte.
+
+- 2027-02-10 · 09:00–15:30 · America/Asuncion · LEGO Education SPIKE Prime: mecanismos, sensores, programación y misiones en campamento diurno. La clasificación oficial de FIRST se realiza aparte.
+
+- 2027-02-11 · 09:00–15:30 · America/Asuncion · LEGO Education SPIKE Prime: mecanismos, sensores, programación y misiones en campamento diurno. La clasificación oficial de FIRST se realiza aparte.
+
+- 2027-02-12 · 09:00–15:30 · America/Asuncion · LEGO Education SPIKE Prime: mecanismos, sensores, programación y misiones en campamento diurno. La clasificación oficial de FIRST se realiza aparte.
+
+**Disponibilidad de plazas:** Se publican turnos y contacto de solicitud. Confirmar plaza en el grupo.
+
+**Matvey:** La edad publicada encaja. Hay que confirmar idioma y plaza.
+
+**Oscar:** El programa requiere 8 años cumplidos al inicio. Considerar el grupo inicial paralelo.
+
+[fuente](https://www.mindsoftomorrowparaguay.com/colonia-lego-league)
+
+### Fuentes
+
+- [Turno concreto, dirección y tabla de precios](https://www.mindsoftomorrowparaguay.com/colonia-lego-league) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.mindsoftomorrowparaguay.com/colonia-verano-2026-2027) · 2026-11-07
+
+## CP1627 · Minds of Tomorrow Paraguay · Eco Tech Inventores
+
+Paraguay · Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies
+
+**Se ha comprobado:** 2026-11-07
+
+**Edad:** 8–12
+
+**Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
+
+**Programa:** Diseño de soluciones ambientales, robots, programación y experimentos con energía renovable.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Día completo 09:00–15:30. Medio día 09:00–12:00 o 12:30–15:30. Fechas y horas locales de Asunción.
+
+**Precio / año:** 2026/27 · PYG 1200000 por semana completa, 1000000 para el hermano. Tarifa media semana: 850000 / 700000. Día completo: 250000 / 220000. Medio día: 175000 / 150000.
+
+**Incluido:** Se publican programa y horarios. Confirmar acceso al equipo, consumibles y contenido de las comidas.
+
+**Suplementos:** Cuidado extendido a solicitud 15:30–17:00, PYG 45000 por hora y menor. Descuento publicado del 10% para inscritos actuales en after school. Confirmar combinación de descuentos, impuestos, comida y alcance exacto de media semana.
+
+**Pago:** Solicitud mediante el contacto del proveedor. Confirmar anticipo, factura final y cancelación.
+
+**Matvey:** La edad publicada encaja. Hay que confirmar idioma y plaza.
+
+**Oscar:** El programa requiere 8 años cumplidos al inicio. Considerar el grupo inicial paralelo.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar idioma de clase, plaza y condiciones para una familia extranjera.
+
+- Confirmar préstamo de kits y dispositivos, comida, impuestos, pago y reembolso.
+
+- Confirmar si se aplica la tarifa de hermano en programas diferentes.
+
+### Día completo · 09:00–15:30
+
+**Fechas / estado:** 2027-01-25 — 2027-01-29
+
+**lugar:** Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies
+
+**Edad:** 8–12
+
+**Precio:** PYG 1200000 por semana completa, 1000000 para el hermano. Tarifa media semana: 850000 / 700000. Día completo: 250000 / 220000. Medio día: 175000 / 150000.
+
+- 2027-01-25 · 09:00–15:30 · America/Asuncion · Diseño de soluciones ambientales, robots, programación y experimentos con energía renovable.
+
+- 2027-01-26 · 09:00–15:30 · America/Asuncion · Diseño de soluciones ambientales, robots, programación y experimentos con energía renovable.
+
+- 2027-01-27 · 09:00–15:30 · America/Asuncion · Diseño de soluciones ambientales, robots, programación y experimentos con energía renovable.
+
+- 2027-01-28 · 09:00–15:30 · America/Asuncion · Diseño de soluciones ambientales, robots, programación y experimentos con energía renovable.
+
+- 2027-01-29 · 09:00–15:30 · America/Asuncion · Diseño de soluciones ambientales, robots, programación y experimentos con energía renovable.
+
+**Disponibilidad de plazas:** Se publican turnos y contacto de solicitud. Confirmar plaza en el grupo.
+
+**Matvey:** La edad publicada encaja. Hay que confirmar idioma y plaza.
+
+**Oscar:** El programa requiere 8 años cumplidos al inicio. Considerar el grupo inicial paralelo.
+
+[fuente](https://www.mindsoftomorrowparaguay.com/eco-tech-inventores)
+
+### Día completo · 09:00–15:30
+
+**Fechas / estado:** 2027-02-15 — 2027-02-19
+
+**lugar:** Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guardería Lullabies
+
+**Edad:** 8–12
+
+**Precio:** PYG 1200000 por semana completa, 1000000 para el hermano. Tarifa media semana: 850000 / 700000. Día completo: 250000 / 220000. Medio día: 175000 / 150000.
+
+- 2027-02-15 · 09:00–15:30 · America/Asuncion · Diseño de soluciones ambientales, robots, programación y experimentos con energía renovable.
+
+- 2027-02-16 · 09:00–15:30 · America/Asuncion · Diseño de soluciones ambientales, robots, programación y experimentos con energía renovable.
+
+- 2027-02-17 · 09:00–15:30 · America/Asuncion · Diseño de soluciones ambientales, robots, programación y experimentos con energía renovable.
+
+- 2027-02-18 · 09:00–15:30 · America/Asuncion · Diseño de soluciones ambientales, robots, programación y experimentos con energía renovable.
+
+- 2027-02-19 · 09:00–15:30 · America/Asuncion · Diseño de soluciones ambientales, robots, programación y experimentos con energía renovable.
+
+**Disponibilidad de plazas:** Se publican turnos y contacto de solicitud. Confirmar plaza en el grupo.
+
+**Matvey:** La edad publicada encaja. Hay que confirmar idioma y plaza.
+
+**Oscar:** El programa requiere 8 años cumplidos al inicio. Considerar el grupo inicial paralelo.
+
+[fuente](https://www.mindsoftomorrowparaguay.com/eco-tech-inventores)
+
+### Fuentes
+
+- [Turno concreto, dirección y tabla de precios](https://www.mindsoftomorrowparaguay.com/eco-tech-inventores) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.mindsoftomorrowparaguay.com/colonia-verano-2026-2027) · 2026-11-07
 
 ## ~ Comprobaciones no cerradas
 

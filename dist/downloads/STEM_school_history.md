@@ -140,6 +140,23 @@ IQ Elementary 2022–2026: полностью извлечены три выбр
 - https://frc-events.firstinspires.org/2025/BRBA/awards
 - https://frc-events.firstinspires.org/2026/BRBA/awards
 
+### Costa Rica · FLL UNEARTHED
+
+Опубликованы первые 3 места Explore и первые 3 места Challenge в Картаго за 2026. Привязка к школам и ранние сезоны остаются частичными.
+
+- https://delfino.cr/2026/03/festival-nacional-de-robotica-se-realizo-el-21-de-marzo
+
+### Paraguay · FLL Challenge / Explore
+
+2026: первая тройка Challenge сверена по отчётам местного партнёра. Explore ASA и международные результаты 2024–2026 проверены выборочно.
+
+- https://fll.robotica.com.py/2026/02/17/campeones-nacionales-rumbo-al-mundial-%F0%9F%8F%86%F0%9F%A4%96%F0%9F%87%B5%F0%9F%87%BE/
+- https://fll.robotica.com.py/2026/02/17/gran-logro-para-ciudad-del-este-%F0%9F%9A%80%F0%9F%A4%96/
+- https://fll.robotica.com.py/2026/02/17/orgullo-nacional-rumbo-a-estados-unidos-%F0%9F%87%B5%F0%9F%87%BE%F0%9F%A4%96%E2%9C%A8/
+- https://www.asa.edu.py/news/elementary-robotics-team-secures-three-awards-at-first-lego-league-festival
+- https://www.firstinspires.org/community-blog/teams-from-around-the-world-made-a-splash-at-firstchamp
+- https://www.firstinspires.org/community-blog/teams-from-around-the-world-made-history-at-firstchamp
+
 ## Семейные маршруты
 
 ### Сейчас · 6 и 9 лет
@@ -165,6 +182,10 @@ St. Joseph: доказанный титул, но клуб Grades 3–8 и за�
 ### Бразилия · Explore, Challenge и старшие команды
 
 Для Оскара проверить школьный Explore и язык группы в Colégio São José. Для Матвея сверить возраст, класс и место в Challenge в SESI. Итажаи даёт два разных школьных маршрута. FRC в Curitiba подходит для более старшей ступени. До решения о переезде подтвердить уроки, наставника и языковую поддержку.
+
+### Парагвай · английский и испанский в начальной школе
+
+ASA подтверждает начальную команду Explore и занятия на английском и испанском. Для Матвея проверить текущую группу и переход в Challenge, для Оскара младший набор. Результаты Colegio Liberty относятся к Challenge. Язык их команды и открытый набор уточнить.
 
 ## Результаты и ссылки
 
@@ -437,7 +458,7 @@ St. Joseph: доказанный титул, но клуб Grades 3–8 и за�
 - 2026 · Starbots · Gómez Palacio · FLL / FIRST LEGO League Challenge · FIRST World Festival · Houston · Core Values Finalist · organizer_protocol. FIRST перечисляет финалистов без порядковых мест. Зафиксирован статус финалиста. Источник: https://www.firstinspires.org/community-blog/teams-from-around-the-world-made-history-at-firstchamp
 - 2026 · Escuela Secundaria Héroes de la Independencia · Toluca · FLL / FIRST LEGO League Challenge · FIRST World Festival · Houston · Motivate Award · organizer_protocol. Именная награда в списке FIRST с несколькими получателями. Источник: https://www.firstinspires.org/community-blog/teams-from-around-the-world-made-history-at-firstchamp
 - 2024 · Centro de Innovación Educativa Piensa · Ciudad del Este · FLL / FIRST LEGO League Challenge · FIRST World Festival · Houston · Champion’s Award Finalist · organizer_protocol. FIRST перечисляет финалистов без порядковых мест. Зафиксирован статус финалиста. Источник: https://community.firstinspires.org/its-time-for-a-firstchamp-curtain-call
-- 2026 · Eagles Tech · Asunción · FLL / FIRST LEGO League Challenge · FIRST World Festival · Houston · Core Values Finalist · organizer_protocol. FIRST перечисляет финалистов без порядковых мест. Зафиксирован статус финалиста. Источник: https://www.firstinspires.org/community-blog/teams-from-around-the-world-made-history-at-firstchamp
+- 2026 · Colegio Liberty · Eagles Tech · FLL / FIRST LEGO League Challenge · FIRST World Festival · Houston · Core Values Finalist · organizer_protocol. FIRST подтверждает статус финалиста Core Values. Местный партнёр связывает Eagles Tech с Colegio Liberty. Источник: https://www.firstinspires.org/community-blog/teams-from-around-the-world-made-history-at-firstchamp
 - 2025 · Colégio São José · Itajaí · FLL / FIRST LEGO League Explore · FLL Explore · Curitiba · Regional winner · school report · school_report. Результат младшего формата приведён по отчёту школы. Общий числовой рейтинг команд Explore не выводится. Источник: https://saojose.com.br/equipe-de-itajai-conquista-titulos-regional-e-nacional-de-robotica-e-e-convidada-a-representar-o-brasil-em-mundial-nos-estados-unidos/
 - 2025 · Colégio São José · Itajaí · FLL / FIRST LEGO League Explore · FLL Explore · São Paulo · National winner · school report · school_report. Результат младшего формата приведён по отчёту школы. Общий числовой рейтинг команд Explore не выводится. Источник: https://saojose.com.br/equipe-de-itajai-conquista-titulos-regional-e-nacional-de-robotica-e-e-convidada-a-representar-o-brasil-em-mundial-nos-estados-unidos/
 - 2026 · Colégio São José · Itajaí · FLL / FIRST LEGO League Explore · FIRST World Festival · Houston · Core Values Award · school_report. Результат младшего формата приведён по отчёту школы. Общий числовой рейтинг команд Explore не выводится. Источник: https://saojose.com.br/equipe-maremoto-conquista-o-core-values-award-e-emociona-com-valores-alem-da-robotica/
@@ -504,6 +525,26 @@ St. Joseph: доказанный титул, но клуб Grades 3–8 и за�
 - 2024 · Amigos Droids · FTC / FIRST Tech Challenge · Festival SESI · Brasil · Qualification · FIRST Championship · organizer_report. Место или приглашение на следующий этап по отчёту организатора. Итог турнира фиксируется отдельно. Источник: https://noticias.portaldaindustria.com.br/noticias/robotica/os-grandes-vencedores-do-festival-sesi-de-educacao-2023-2024/
 - 2024 · Tech Zeus · FTC / FIRST Tech Challenge · Festival SESI · Brasil · Qualification · FIRST Championship · organizer_report. Место или приглашение на следующий этап по отчёту организатора. Итог турнира фиксируется отдельно. Источник: https://noticias.portaldaindustria.com.br/noticias/robotica/os-grandes-vencedores-do-festival-sesi-de-educacao-2023-2024/
 - 2024 · Everest · FTC / FIRST Tech Challenge · Festival SESI · Brasil · Qualification · FIRST Championship · organizer_report. Место или приглашение на следующий этап по отчёту организатора. Итог турнира фиксируется отдельно. Источник: https://noticias.portaldaindustria.com.br/noticias/robotica/os-grandes-vencedores-do-festival-sesi-de-educacao-2023-2024/
+- 2026 · The DIG-GIG · FLL / FIRST LEGO League Explore · Festival Nacional de Robótica · Cartago · Overall ranking · 1st place · season_partner_report. Delfino.cr приводит места со ссылкой на организатора. Это опубликованный отчёт о национальном фестивале 21.03.2026. Источник: https://delfino.cr/2026/03/festival-nacional-de-robotica-se-realizo-el-21-de-marzo
+- 2026 · BoscoArqueólogos · FLL / FIRST LEGO League Explore · Festival Nacional de Robótica · Cartago · Overall ranking · 2nd place · season_partner_report. Delfino.cr приводит места со ссылкой на организатора. Это опубликованный отчёт о национальном фестивале 21.03.2026. Источник: https://delfino.cr/2026/03/festival-nacional-de-robotica-se-realizo-el-21-de-marzo
+- 2026 · Ar.Y.I. · FLL / FIRST LEGO League Explore · Festival Nacional de Robótica · Cartago · Overall ranking · 3rd place · season_partner_report. Delfino.cr приводит места со ссылкой на организатора. Это опубликованный отчёт о национальном фестивале 21.03.2026. Источник: https://delfino.cr/2026/03/festival-nacional-de-robotica-se-realizo-el-21-de-marzo
+- 2026 · Samabot · FLL / FIRST LEGO League Challenge · Festival Nacional de Robótica · Cartago · Overall ranking · 1st place · season_partner_report. Delfino.cr приводит места со ссылкой на организатора. Это опубликованный отчёт о национальном фестивале 21.03.2026. Источник: https://delfino.cr/2026/03/festival-nacional-de-robotica-se-realizo-el-21-de-marzo
+- 2026 · Rise Technic Brains · FLL / FIRST LEGO League Challenge · Festival Nacional de Robótica · Cartago · Overall ranking · 2nd place · season_partner_report. Delfino.cr приводит места со ссылкой на организатора. Это опубликованный отчёт о национальном фестивале 21.03.2026. Источник: https://delfino.cr/2026/03/festival-nacional-de-robotica-se-realizo-el-21-de-marzo
+- 2026 · STEAM ClubHouse Sales Cartago · FLL / FIRST LEGO League Challenge · Festival Nacional de Robótica · Cartago · Overall ranking · 3rd place · season_partner_report. Delfino.cr приводит места со ссылкой на организатора. Это опубликованный отчёт о национальном фестивале 21.03.2026. Источник: https://delfino.cr/2026/03/festival-nacional-de-robotica-se-realizo-el-21-de-marzo
+- 2026 · Colegio Liberty · Eagles Tech · FLL / FIRST LEGO League Challenge · FIRST LEGO League Paraguay · Asunción · Overall ranking · 1st place · organizer_report. Учреждение названо местным оператором в отчёте сезона. Возраст и набор в команду проверяются отдельно. Источник: https://fll.robotica.com.py/2026/02/17/campeones-nacionales-rumbo-al-mundial-%F0%9F%8F%86%F0%9F%A4%96%F0%9F%87%B5%F0%9F%87%BE/
+- 2026 · Colegio Liberty · Eagles Tech · FLL / FIRST LEGO League Challenge · FIRST LEGO League Paraguay · Asunción · Robot Performance Award · 495 points · organizer_report. Учреждение названо местным оператором в отчёте сезона. Возраст и набор в команду проверяются отдельно. Источник: https://fll.robotica.com.py/2026/02/17/campeones-nacionales-rumbo-al-mundial-%F0%9F%8F%86%F0%9F%A4%96%F0%9F%87%B5%F0%9F%87%BE/
+- 2026 · Colegio Liberty · Eagles Tech · FLL / FIRST LEGO League Challenge · FIRST LEGO League Paraguay · Asunción · Qualification · FIRST World Festival · Houston · organizer_report. Квалификация по сообщению местного оператора. Итог следующего турнира учитывается отдельно. Источник: https://fll.robotica.com.py/2026/02/17/campeones-nacionales-rumbo-al-mundial-%F0%9F%8F%86%F0%9F%A4%96%F0%9F%87%B5%F0%9F%87%BE/
+- 2026 · ICI School · Ciudad del Este · FLL / FIRST LEGO League Challenge · FIRST LEGO League Paraguay · Asunción · Overall ranking · 2nd place · organizer_report. Учреждение названо местным оператором в отчёте сезона. Возраст и набор в команду проверяются отдельно. Источник: https://fll.robotica.com.py/2026/02/17/gran-logro-para-ciudad-del-este-%F0%9F%9A%80%F0%9F%A4%96/
+- 2026 · ICI School · Ciudad del Este · FLL / FIRST LEGO League Challenge · FIRST LEGO League Paraguay · Asunción · Innovation Project · 1st place · organizer_report. Учреждение названо местным оператором в отчёте сезона. Возраст и набор в команду проверяются отдельно. Источник: https://fll.robotica.com.py/2026/02/17/gran-logro-para-ciudad-del-este-%F0%9F%9A%80%F0%9F%A4%96/
+- 2026 · ICI School · Ciudad del Este · FLL / FIRST LEGO League Challenge · FIRST LEGO League Paraguay · Asunción · Robot Game · 3rd place · organizer_report. Учреждение названо местным оператором в отчёте сезона. Возраст и набор в команду проверяются отдельно. Источник: https://fll.robotica.com.py/2026/02/17/gran-logro-para-ciudad-del-este-%F0%9F%9A%80%F0%9F%A4%96/
+- 2026 · ICI School · Ciudad del Este · FLL / FIRST LEGO League Challenge · FIRST LEGO League Paraguay · Asunción · Qualification · International Open · Guadalajara · organizer_report. Квалификация по сообщению местного оператора. Итог следующего турнира учитывается отдельно. Источник: https://fll.robotica.com.py/2026/02/17/gran-logro-para-ciudad-del-este-%F0%9F%9A%80%F0%9F%A4%96/
+- 2026 · Colegio Cristo Rey · Asunción · FLL / FIRST LEGO League Challenge · FIRST LEGO League Paraguay · Asunción · Overall ranking · 3rd place · organizer_report. Учреждение названо местным оператором в отчёте сезона. Возраст и набор в команду проверяются отдельно. Источник: https://fll.robotica.com.py/2026/02/17/orgullo-nacional-rumbo-a-estados-unidos-%F0%9F%87%B5%F0%9F%87%BE%F0%9F%A4%96%E2%9C%A8/
+- 2026 · Colegio Cristo Rey · Asunción · FLL / FIRST LEGO League Challenge · FIRST LEGO League Paraguay · Asunción · Rising Star Award · organizer_report. Учреждение названо местным оператором в отчёте сезона. Возраст и набор в команду проверяются отдельно. Источник: https://fll.robotica.com.py/2026/02/17/orgullo-nacional-rumbo-a-estados-unidos-%F0%9F%87%B5%F0%9F%87%BE%F0%9F%A4%96%E2%9C%A8/
+- 2026 · Colegio Cristo Rey · Asunción · FLL / FIRST LEGO League Challenge · FIRST LEGO League Paraguay · Asunción · Qualification · International Open · Atlanta · organizer_report. Квалификация по сообщению местного оператора. Итог следующего турнира учитывается отдельно. Источник: https://fll.robotica.com.py/2026/02/17/orgullo-nacional-rumbo-a-estados-unidos-%F0%9F%87%B5%F0%9F%87%BE%F0%9F%A4%96%E2%9C%A8/
+- 2025 · Centro de Innovación Educativa Piensa · Ciudad del Este · FLL / FIRST LEGO League Challenge · FIRST World Festival · Houston · Breakthrough Award · organizer_protocol. FIRST перечисляет несколько получателей Breakthrough Award. Команда и категория подтверждены протоколом. Источник: https://www.firstinspires.org/community-blog/teams-from-around-the-world-made-a-splash-at-firstchamp
+- 2026 · The American School of Asunción · ASA · FLL / FIRST LEGO League Explore · FIRST LEGO League Paraguay · Asunción · Coding Award · school_report. Награда Explore по отчёту начальной школы. Уровень международного финала не заявлен. Источник: https://www.asa.edu.py/news/elementary-robotics-team-secures-three-awards-at-first-lego-league-festival
+- 2026 · The American School of Asunción · ASA · FLL / FIRST LEGO League Explore · FIRST LEGO League Paraguay · Asunción · Core Values Award · school_report. Награда Explore по отчёту начальной школы. Уровень международного финала не заявлен. Источник: https://www.asa.edu.py/news/elementary-robotics-team-secures-three-awards-at-first-lego-league-festival
+- 2026 · The American School of Asunción · ASA · FLL / FIRST LEGO League Explore · FIRST LEGO League Paraguay · Asunción · Team Model Award · school_report. Награда Explore по отчёту начальной школы. Уровень международного финала не заявлен. Источник: https://www.asa.edu.py/news/elementary-robotics-team-secures-three-awards-at-first-lego-league-festival
 
 ## Пробелы
 

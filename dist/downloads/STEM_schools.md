@@ -2217,6 +2217,36 @@ UNIMATE из Maranhão выступает в FLL Challenge от Escola SESI São
 Осталось проверить:
 - Условия набора и язык команды нужно подтвердить для конкретного класса и сезона.
 
+## S080 · The American School of Asunción · ASA
+
+Парагвай · Asunción
+Тип: private
+Частная дневная школа. На начальной ступени американская и парагвайская программы, от K4 до Grade 5.
+Возраст: K4–Grade 5
+Матвей: candidate; Оскар: candidate. Проверить класс, места, язык группы и правила набора в команду.
+Язык: Английский для основных предметов и искусства. Ежедневно на испанском преподаются язык и социальные дисциплины. Язык команды FLL требует отдельного подтверждения.
+Пансион: Дневная программа без проживания.
+Робототехника: Начальная команда FLL Explore получила три награды в 2026. В 2024 школа сообщила о трёх начальных командах Explore и двух командах Challenge средней ступени.
+Лаборатории: Школа ведёт проекты по технологиям и соревновательные команды. Доступ младших к оборудованию зависит от группы.
+ИИ: Курс ИИ для нужного класса пока не подтверждён.
+Приём: Предварительная регистрация K4 или K5–12. Место зависит от класса, приоритета приёма и решения школы. Для K4 нужно 4 года, для K5 — 5 лет к 1 сентября.
+Стоимость: Актуальный полный тариф школы, вступительный взнос и расходы на команду нужно подтвердить.
+
+- Результат: 2026 · FIRST LEGO League Explore · FIRST LEGO League Paraguay · Asunción · Coding Award · ASA Elementary Explore. Награда Explore по отчёту начальной школы. Уровень международного финала не заявлен. Источник: https://www.asa.edu.py/news/elementary-robotics-team-secures-three-awards-at-first-lego-league-festival
+- Результат: 2026 · FIRST LEGO League Explore · FIRST LEGO League Paraguay · Asunción · Core Values Award · ASA Elementary Explore. Награда Explore по отчёту начальной школы. Уровень международного финала не заявлен. Источник: https://www.asa.edu.py/news/elementary-robotics-team-secures-three-awards-at-first-lego-league-festival
+- Результат: 2026 · FIRST LEGO League Explore · FIRST LEGO League Paraguay · Asunción · Team Model Award · ASA Elementary Explore. Награда Explore по отчёту начальной школы. Уровень международного финала не заявлен. Источник: https://www.asa.edu.py/news/elementary-robotics-team-secures-three-awards-at-first-lego-league-festival
+
+Источники (проверка 2026-11-07):
+- ASA · Elementary: https://www.asa.edu.py/p/elementary-school — Английский для основных предметов и искусства. Ежедневно на испанском преподаются язык и социальные дисциплины. Язык команды FLL требует отдельного подтверждения.
+- ASA · Admissions: https://asa.edu.py/index.php/p/admissions — Предварительная регистрация K4 или K5–12. Место зависит от класса, приоритета приёма и решения школы. Для K4 нужно 4 года, для K5 — 5 лет к 1 сентября.
+- ASA · FLL 2024: https://www.asa.edu.py/news/first-lego-league-national-competition — Начальная команда FLL Explore получила три награды в 2026. В 2024 школа сообщила о трёх начальных командах Explore и двух командах Challenge средней ступени.
+- ASA · Explore 2026: https://www.asa.edu.py/news/elementary-robotics-team-secures-three-awards-at-first-lego-league-festival — Награда Explore по отчёту начальной школы. Уровень международного финала не заявлен.
+- Office of Overseas Schools · ASA 2023–24: https://2021-2025.state.gov/the-american-school-of-asuncion-fact-sheet/ — Частная дневная школа. На начальной ступени американская и парагвайская программы, от K4 до Grade 5.
+
+Осталось проверить:
+- Проверить класс, места, язык группы и правила набора в команду.
+- Уточнить выдачу наборов и устройств, питание, налоги, оплату и возврат.
+
 ## Пробелы охвата
 
 - 32 школьных досье; полный мировой и национальный школьный аудит не завершён.

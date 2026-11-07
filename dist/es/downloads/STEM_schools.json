@@ -154,10 +154,10 @@
       "El hogar familiar, la inmigración, las visas escolares, los viajes del equipo y el total de la cuenta aún no se han evaluado."
     ],
     "counts": {
-      "records": 79,
-      "countries": 27,
+      "records": 80,
+      "countries": 28,
       "public": 14,
-      "private": 65,
+      "private": 66,
       "boarding": 11,
       "world_result": 19,
       "organizer_protocol": 20,
@@ -910,8 +910,8 @@
         "iso": "PRY",
         "country": "Paraguay",
         "region": "América del Sur",
-        "records": 0,
-        "status": "unresearched"
+        "records": 1,
+        "status": "partial"
       },
       {
         "iso": "PER",
@@ -8792,6 +8792,116 @@
       ],
       "checked": "2026-11-07",
       "priority": 3,
+      "research_status": "partial",
+      "verification": "la escuela y el puesto en el equipo no confirmaron la admisión de los niños."
+    },
+    {
+      "id": "S080",
+      "name": "The American School of Asunción · ASA",
+      "iso": "PRY",
+      "country": "Paraguay",
+      "region": "América del Sur",
+      "city": "Asunción",
+      "school_type": "private",
+      "curriculum": "Escuela privada diurna. En primaria combina currículos estadounidense y paraguayo desde K4 hasta Grade 5.",
+      "ib_programmes": [],
+      "ages": "K4–Grade 5",
+      "instruction_languages": [
+        "EN",
+        "ES"
+      ],
+      "language_note": "Inglés para materias troncales y artes. Lengua y ciencias sociales se imparten a diario en español. Hay que confirmar aparte el idioma del equipo FLL.",
+      "fit": {
+        "mat": "candidate",
+        "osc": "candidate",
+        "note": "Confirmar curso, plazas, idioma del grupo y reglas de ingreso al equipo."
+      },
+      "boarding": "no",
+      "boarding_note": "Programa diurno sin alojamiento.",
+      "programme": "El equipo de primaria FLL Explore recibió tres premios en 2026. En 2024 el colegio informó de tres equipos Explore de primaria y dos equipos Challenge de secundaria media.",
+      "labs": "La escuela tiene proyectos tecnológicos y equipos de competición. El acceso de primaria al material depende del grupo.",
+      "ai": "Curso de IA para el grado de interés aún sin confirmar.",
+      "results": [
+        {
+          "league": "FIRST LEGO League Explore",
+          "season": 2026,
+          "stage": "FIRST LEGO League Paraguay · Asunción",
+          "award": "Coding Award",
+          "team": "ASA Elementary Explore",
+          "team_id": null,
+          "source": "https://www.asa.edu.py/news/elementary-robotics-team-secures-three-awards-at-first-lego-league-festival",
+          "provenance": "school_report",
+          "limit": "Premio Explore según el informe de primaria. No se atribuye nivel de final internacional."
+        },
+        {
+          "league": "FIRST LEGO League Explore",
+          "season": 2026,
+          "stage": "FIRST LEGO League Paraguay · Asunción",
+          "award": "Core Values Award",
+          "team": "ASA Elementary Explore",
+          "team_id": null,
+          "source": "https://www.asa.edu.py/news/elementary-robotics-team-secures-three-awards-at-first-lego-league-festival",
+          "provenance": "school_report",
+          "limit": "Premio Explore según el informe de primaria. No se atribuye nivel de final internacional."
+        },
+        {
+          "league": "FIRST LEGO League Explore",
+          "season": 2026,
+          "stage": "FIRST LEGO League Paraguay · Asunción",
+          "award": "Team Model Award",
+          "team": "ASA Elementary Explore",
+          "team_id": null,
+          "source": "https://www.asa.edu.py/news/elementary-robotics-team-secures-three-awards-at-first-lego-league-festival",
+          "provenance": "school_report",
+          "limit": "Premio Explore según el informe de primaria. No se atribuye nivel de final internacional."
+        }
+      ],
+      "evidence": "other_result",
+      "admissions": "Preinscripción K4 o K5–12. La plaza depende del curso, prioridad y decisión escolar. Se requieren 4 años para K4 y 5 años para K5 al 1 de septiembre.",
+      "cost": "Hay que confirmar la tarifa escolar completa actual, cuota de ingreso y gastos del equipo.",
+      "questions": [
+        "Confirmar curso, plazas, idioma del grupo y reglas de ingreso al equipo.",
+        "Confirmar préstamo de kits y dispositivos, comida, impuestos, pago y reembolso."
+      ],
+      "sources": [
+        {
+          "url": "https://www.asa.edu.py/p/elementary-school",
+          "title": "ASA · Elementary",
+          "claim": "Inglés para materias troncales y artes. Lengua y ciencias sociales se imparten a diario en español. Hay que confirmar aparte el idioma del equipo FLL.",
+          "kind": "school",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://asa.edu.py/index.php/p/admissions",
+          "title": "ASA · Admissions",
+          "claim": "Preinscripción K4 o K5–12. La plaza depende del curso, prioridad y decisión escolar. Se requieren 4 años para K4 y 5 años para K5 al 1 de septiembre.",
+          "kind": "school",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.asa.edu.py/news/first-lego-league-national-competition",
+          "title": "ASA · FLL 2024",
+          "claim": "El equipo de primaria FLL Explore recibió tres premios en 2026. En 2024 el colegio informó de tres equipos Explore de primaria y dos equipos Challenge de secundaria media.",
+          "kind": "school",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.asa.edu.py/news/elementary-robotics-team-secures-three-awards-at-first-lego-league-festival",
+          "title": "ASA · Explore 2026",
+          "claim": "Premio Explore según el informe de primaria. No se atribuye nivel de final internacional.",
+          "kind": "school",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://2021-2025.state.gov/the-american-school-of-asuncion-fact-sheet/",
+          "title": "Office of Overseas Schools · ASA 2023–24",
+          "claim": "Escuela privada diurna. En primaria combina currículos estadounidense y paraguayo desde K4 hasta Grade 5.",
+          "kind": "government",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "priority": 2,
       "research_status": "partial",
       "verification": "la escuela y el puesto en el equipo no confirmaron la admisión de los niños."
     }
