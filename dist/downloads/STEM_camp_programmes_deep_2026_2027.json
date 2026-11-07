@@ -30,25 +30,25 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1861,
-    "countries": 117,
+    "dossiers": 1866,
+    "countries": 121,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 261,
       "published_2027": 509,
       "partial_2027": 141,
-      "next_unannounced": 396,
+      "next_unannounced": 397,
       "published_2026": 334,
       "partial_2026_27": 32,
       "partial_2026": 23,
-      "archive_next_unannounced": 138,
+      "archive_next_unannounced": 142,
       "regular_programme": 19,
       "regular_2026_27": 2,
       "historical_2026_next_season_unknown": 1,
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2707
+    "source_urls": 2718
   },
   "countries": [
     {
@@ -94,6 +94,10 @@
     {
       "country": "Бельгия",
       "count": 2
+    },
+    {
+      "country": "Бенин",
+      "count": 1
     },
     {
       "country": "Бермудские острова",
@@ -156,6 +160,10 @@
       "count": 11
     },
     {
+      "country": "Гернси",
+      "count": 2
+    },
+    {
       "country": "Гондурас",
       "count": 2
     },
@@ -178,6 +186,10 @@
     {
       "country": "Демократическая Республика Конго",
       "count": 2
+    },
+    {
+      "country": "Джерси",
+      "count": 1
     },
     {
       "country": "Доминика",
@@ -226,6 +238,10 @@
     {
       "country": "Камбоджа",
       "count": 3
+    },
+    {
+      "country": "Камерун",
+      "count": 1
     },
     {
       "country": "Канада",
@@ -313033,6 +313049,486 @@
         "L688"
       ],
       "calendar_links": []
+    },
+    {
+      "id": "CP1862",
+      "slug": "jersey-college-creative-minds-robotics",
+      "provider": "Jersey College · Creative Minds",
+      "country": "Джерси",
+      "iso": "JEY",
+      "place": "Jersey College · St Saviour",
+      "age": "Девочки и мальчики в школьных Years 1–6.",
+      "themes": [
+        "robotics",
+        "coding",
+        "makers",
+        "games"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы и бронирование на английском. Язык новой смены уточнить.",
+      "confirmed_instruction_languages": [],
+      "programme": "Роботы, программирование, лабиринты, инженерный проект, творчество и игры на улице.",
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "26–30 октября 2026, 09:00–17:00. Смена завершена. Следующие даты не опубликованы.",
+        "sessions": [
+          [
+            "2026-10-26",
+            "2026-10-30"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-10-26",
+            "end": "2026-10-30",
+            "label": "26–30 октября 2026, 09:00–17:00. Смена завершена. Следующие даты не опубликованы.",
+            "source": "https://jerseycollegeforgirls.com/jcf/programmes/creative-minds",
+            "price": "365 GBP за смену. 310 GBP для действующих Little Leopards. Обеды и перекусы включены.",
+            "date_scope": "camp_window",
+            "availability": {
+              "status": "closed",
+              "label": "Набор на этот выпуск завершён."
+            }
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "amount": 365,
+        "currency": "GBP",
+        "unit": "session",
+        "label": "365 GBP за смену. 310 GBP для действующих Little Leopards. Обеды и перекусы включены.",
+        "included": "Обед и перекусы.",
+        "year": 2026,
+        "extras": "Проверить обязательные доплаты и возврат перед оплатой.",
+        "deposit": "Проверить обязательные доплаты и возврат перед оплатой."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Подтвердить соответствие класса и набор."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Подтвердить соответствие класса и набор."
+        }
+      },
+      "editorial_reason": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Наличие мест и правила следующего набора уточнить."
+      ],
+      "sources": [
+        {
+          "url": "https://jerseycollegeforgirls.com/jcf/programmes/creative-minds",
+          "title": "Официальная страница или регламент организатора.",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://shop.jerseycollege.je/collections/creative-minds",
+          "title": "Официальная страница или регламент организатора.",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://jerseycollegeforgirls.com/jcf/programmes/creative-minds/cm-terms-and-conditions",
+          "title": "Официальная страница или регламент организатора.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [
+        "L693"
+      ],
+      "calendar_links": [
+        {
+          "start": "2026-10-26",
+          "end": "2026-10-30",
+          "kind": "existing_programme",
+          "event_ids": [
+            "L693"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1863",
+      "slug": "guernsey-library-twine-game-design",
+      "provider": "Guille-Allès Fab Lab · Twine Game Design",
+      "country": "Гернси",
+      "iso": "GGY",
+      "place": "Guille-Allès Library · St Peter Port",
+      "age": "9–16 лет.",
+      "themes": [
+        "games",
+        "coding",
+        "art"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык проведения уточнить для выбранной группы или этапа.",
+      "confirmed_instruction_languages": [],
+      "programme": "Интерактивная история и основы разработки игр в Twine. Подходит новичкам.",
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "29 октября 2026, 13:00–15:30. Новая смена не объявлена.",
+        "sessions": [
+          [
+            "2026-10-29",
+            "2026-10-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-10-29",
+            "end": "2026-10-29",
+            "label": "29 октября 2026, 13:00–15:30. Новая смена не объявлена.",
+            "source": "https://www.library.gg/events/event/code-club-halloween-story-creation-and-game-development",
+            "price": "5 GBP за мастерскую.",
+            "date_scope": "workshop_window",
+            "availability": {
+              "status": "closed",
+              "label": "Набор на этот выпуск завершён."
+            }
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "amount": 5,
+        "currency": "GBP",
+        "unit": "session",
+        "label": "5 GBP за мастерскую.",
+        "included": "",
+        "year": 2026,
+        "extras": "Проверить обязательные доплаты и возврат перед оплатой.",
+        "deposit": "Проверить обязательные доплаты и возврат перед оплатой."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Подходит по возрасту прошлой мастерской. Дату нового занятия проверить."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Нет. Опубликованный минимум 9 лет."
+        }
+      },
+      "editorial_reason": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Наличие мест и правила следующего набора уточнить."
+      ],
+      "sources": [
+        {
+          "url": "https://www.library.gg/events/event/code-club-halloween-story-creation-and-game-development",
+          "title": "Официальная страница или регламент организатора.",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.library.gg/fablab",
+          "title": "Официальная страница или регламент организатора.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [
+        "L694"
+      ],
+      "calendar_links": [
+        {
+          "start": "2026-10-29",
+          "end": "2026-10-29",
+          "kind": "existing_programme",
+          "event_ids": [
+            "L694"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1864",
+      "slug": "guernsey-library-sphero-taster",
+      "provider": "Guille-Allès Fab Lab · Meet the Robots",
+      "country": "Гернси",
+      "iso": "GGY",
+      "place": "Guille-Allès Library · St Peter Port",
+      "age": "Прошедший ознакомительный сеанс был открыт всем возрастам.",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык проведения уточнить для выбранной группы или этапа.",
+      "confirmed_instruction_languages": [],
+      "programme": "8 заданий с Sphero Bolt+ для семей и начинающих.",
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "18 февраля 2026, 14:00–16:00. Требовалась бронь, новый сеанс не объявлен.",
+        "sessions": [
+          [
+            "2026-02-18",
+            "2026-02-18"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-02-18",
+            "end": "2026-02-18",
+            "label": "18 февраля 2026, 14:00–16:00. Требовалась бронь, новый сеанс не объявлен.",
+            "source": "https://www.library.gg/events/event/meet-robots-taster-session",
+            "price": "Бесплатно.",
+            "date_scope": "workshop_window",
+            "availability": {
+              "status": "closed",
+              "label": "Набор на этот выпуск завершён."
+            }
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "amount": 0,
+        "currency": "GBP",
+        "unit": "session",
+        "label": "Бесплатно.",
+        "included": "",
+        "year": 2026,
+        "extras": "Проверить обязательные доплаты и возврат перед оплатой.",
+        "deposit": "Проверить обязательные доплаты и возврат перед оплатой."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст и доступ уточнить у организатора."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Возраст и доступ уточнить у организатора."
+        }
+      },
+      "editorial_reason": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Наличие мест и правила следующего набора уточнить."
+      ],
+      "sources": [
+        {
+          "url": "https://www.library.gg/events/event/meet-robots-taster-session",
+          "title": "Официальная страница или регламент организатора.",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.library.gg/fablab",
+          "title": "Официальная страница или регламент организатора.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [
+        "L695"
+      ],
+      "calendar_links": [
+        {
+          "start": "2026-02-18",
+          "end": "2026-02-18",
+          "kind": "existing_programme",
+          "event_ids": [
+            "L695"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1865",
+      "slug": "giiyo-douala-summer-tech-bootcamp",
+      "provider": "Giiyo Tech · Douala Summer Tech Bootcamp",
+      "country": "Камерун",
+      "iso": "CMR",
+      "place": "Olive Bilingual School · Bonaberi, Douala",
+      "age": "Анонс 8–17 лет. В фактической июльской группе были дети 7–16 лет.",
+      "themes": [
+        "coding",
+        "ai",
+        "robotics",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык проведения уточнить для выбранной группы или этапа.",
+      "confirmed_instruction_languages": [],
+      "programme": "Веб-проекты, основы ИИ и кодирование. В анонсе также робототехника и 3D, состав нового потока уточнить.",
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "Отчёт о прошедшей группе даёт 29 июня — 29 июля 2026. Первоначальный анонс указывал 29 июня — 29 августа 2026.",
+        "sessions": [
+          [
+            "2026-06-29",
+            "2026-07-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-06-29",
+            "end": "2026-07-29",
+            "label": "Отчёт о прошедшей группе даёт 29 июня — 29 июля 2026. Первоначальный анонс указывал 29 июня — 29 августа 2026.",
+            "source": "https://www.giiyotech.com/blog/inside-the-giiyo-tech-july-2026-summer-bootcamp-in-douala",
+            "price": "В анонсе 50000 XAF за 8 недель. Фактическая июльская группа завершилась раньше, её итоговый тариф не подтверждён.",
+            "date_scope": "camp_window",
+            "availability": {
+              "status": "closed",
+              "label": "Набор на этот выпуск завершён."
+            }
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "amount": null,
+        "currency": "XAF",
+        "unit": "programme",
+        "label": "В анонсе 50000 XAF за 8 недель. Фактическая июльская группа завершилась раньше, её итоговый тариф не подтверждён.",
+        "included": "",
+        "year": 2026,
+        "extras": "Проверить обязательные доплаты и возврат перед оплатой.",
+        "deposit": "Проверить обязательные доплаты и возврат перед оплатой."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст и доступ уточнить у организатора."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Нет. Даже нижняя граница 7 лет из отчёта выше текущего возраста."
+        }
+      },
+      "editorial_reason": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Наличие мест и правила следующего набора уточнить."
+      ],
+      "sources": [
+        {
+          "url": "https://www.giiyotech.com/blog/inside-the-giiyo-tech-july-2026-summer-bootcamp-in-douala",
+          "title": "Официальная страница или регламент организатора.",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.giiyotech.com/blog/best-summer-tech-bootcamp-for-kids-in-douala-2026",
+          "title": "Официальная страница или регламент организатора.",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.giiyotech.com/programs",
+          "title": "Официальная страница или регламент организатора.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [
+        "L696"
+      ],
+      "calendar_links": [
+        {
+          "start": "2026-06-29",
+          "end": "2026-07-29",
+          "kind": "existing_programme",
+          "event_ids": [
+            "L696"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1866",
+      "slug": "graines2genie-cotonou-kids-coding-camp",
+      "provider": "GRAINES2GENIE · Kids Coding Camp",
+      "country": "Бенин",
+      "iso": "BEN",
+      "place": "Kids Coding Academy · Cotonou",
+      "age": "Возраст и доступ уточнить у организатора.",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Франкоязычная страница. Преподавание на EN или ES не подтверждено.",
+      "confirmed_instruction_languages": [],
+      "programme": "Летние интенсивы по программированию и робототехнике, открытые также детям вне Academy.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Следующий набор и календарь ещё не опубликованы.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "amount": null,
+        "currency": "XOF",
+        "unit": "programme",
+        "label": "Точный тариф выбранного набора не подтверждён.",
+        "included": "",
+        "year": null,
+        "extras": "Проверить обязательные доплаты и возврат перед оплатой.",
+        "deposit": "Проверить обязательные доплаты и возврат перед оплатой."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст и доступ уточнить у организатора."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Возраст и доступ уточнить у организатора."
+        }
+      },
+      "editorial_reason": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Наличие мест и правила следующего набора уточнить."
+      ],
+      "sources": [
+        {
+          "url": "https://graines2genie.com/",
+          "title": "Официальная страница или регламент организатора.",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://graines2genie.com/client/accueil/formation",
+          "title": "Официальная страница или регламент организатора.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [
+        "L697"
+      ],
+      "calendar_links": []
     }
   ],
   "gaps": [
@@ -318358,7 +318854,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 240,
+  "version": 242,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -331593,7 +332089,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1861,
+      "total_dossiers": 1866,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -352048,6 +352544,31 @@
       "relation": "related_track_or_operator"
     },
     {
+      "programme_id": "CP1862",
+      "event_id": "L693",
+      "relation": "existing_programme"
+    },
+    {
+      "programme_id": "CP1863",
+      "event_id": "L694",
+      "relation": "existing_programme"
+    },
+    {
+      "programme_id": "CP1864",
+      "event_id": "L695",
+      "relation": "existing_programme"
+    },
+    {
+      "programme_id": "CP1865",
+      "event_id": "L696",
+      "relation": "existing_programme"
+    },
+    {
+      "programme_id": "CP1866",
+      "event_id": "L697",
+      "relation": "related_track_or_operator"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -356361,7 +356882,7 @@
   ],
   "integration": {
     "generated_sessions": 3879,
-    "reused_legacy_events": 69,
+    "reused_legacy_events": 73,
     "seasonal_windows": 73,
     "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."
   }

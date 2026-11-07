@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-07. 1861 fichas en 117 países. Las fechas de verificación de las fuentes figuran en cada ficha.
+Estado de la base: 2026-11-07. 1866 fichas en 121 países. Las fechas de cotejo de las fuentes se indican en cada ficha.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -145967,6 +145967,242 @@ Panamá · Boston School International · Main Campus · Panamá
 ### Fuentes
 
 - [Página oficial del organizador](https://bostonschool.edu.pa/wp-content/uploads/2026/01/After-School-BSI-2026.pdf) · 2026-11-07
+
+## CP1862 · Jersey College · Creative Minds
+
+Jersey · Jersey College · St Saviour
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Niñas y niños en los cursos escolares Years 1–6.
+
+**Idioma:** Materiales y reservas en inglés. Confirmar el idioma del nuevo turno.
+
+**Programa:** Robots, programación, laberintos, proyecto de ingeniería, creatividad y juegos al aire libre.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 26–30 de octubre de 2026, 09:00–17:00. Turno finalizado. Próximas fechas sin publicar.
+
+**Precio / año:** 2026 · 365 GBP por turno. 310 GBP para miembros actuales de Little Leopards. Almuerzos y refrigerios incluidos.
+
+**Incluido:** Almuerzo y refrigerios.
+
+**Suplementos:** Confirmar suplementos obligatorios y reembolso antes de pagar.
+
+**Pago:** Confirmar suplementos obligatorios y reembolso antes de pagar.
+
+**Matvey:** Condicional. Confirmar equivalencia de curso y convocatoria.
+
+**Oscar:** Condicional. Confirmar equivalencia de curso y convocatoria.
+
+**Motivo de selección:** Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.
+
+### Antes de solicitar plaza
+
+- Confirmar plazas y reglas de la próxima convocatoria.
+
+### 26–30 de octubre de 2026, 09:00–17:00. Turno finalizado. Próximas fechas sin publicar.
+
+**Fechas / estado:** 2026-10-26 — 2026-10-30
+
+**Precio:** 365 GBP por turno. 310 GBP para miembros actuales de Little Leopards. Almuerzos y refrigerios incluidos.
+
+**Disponibilidad de plazas:** La convocatoria de esta edición ha cerrado.
+
+[fuente](https://jerseycollegeforgirls.com/jcf/programmes/creative-minds)
+
+### Fuentes
+
+- [Página o reglamento oficial de la organización.](https://jerseycollegeforgirls.com/jcf/programmes/creative-minds) · 2026-11-07
+
+- [Página o reglamento oficial de la organización.](https://shop.jerseycollege.je/collections/creative-minds) · 2026-11-07
+
+- [Página o reglamento oficial de la organización.](https://jerseycollegeforgirls.com/jcf/programmes/creative-minds/cm-terms-and-conditions) · 2026-11-07
+
+## CP1863 · Guille-Allès Fab Lab · Twine Game Design
+
+Guernesey · Guille-Allès Library · St Peter Port
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 9–16 años.
+
+**Idioma:** Confirmar idioma de la actividad para el grupo o etapa elegidos.
+
+**Programa:** Historia interactiva y fundamentos de desarrollo de videojuegos en Twine. Para principiantes.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 29 de octubre de 2026, 13:00–15:30. Sin nueva sesión anunciada.
+
+**Precio / año:** 2026 · 5 GBP por taller.
+
+**Suplementos:** Confirmar suplementos obligatorios y reembolso antes de pagar.
+
+**Pago:** Confirmar suplementos obligatorios y reembolso antes de pagar.
+
+**Matvey:** Condicional. Cumple la edad del taller anterior. Confirmar fecha de nueva actividad.
+
+**Oscar:** No. Edad mínima publicada de 9 años.
+
+**Motivo de selección:** Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.
+
+### Antes de solicitar plaza
+
+- Confirmar plazas y reglas de la próxima convocatoria.
+
+### 29 de octubre de 2026, 13:00–15:30. Sin nueva sesión anunciada.
+
+**Fechas / estado:** 2026-10-29 — 2026-10-29
+
+**Precio:** 5 GBP por taller.
+
+**Disponibilidad de plazas:** La convocatoria de esta edición ha cerrado.
+
+[fuente](https://www.library.gg/events/event/code-club-halloween-story-creation-and-game-development)
+
+### Fuentes
+
+- [Página o reglamento oficial de la organización.](https://www.library.gg/events/event/code-club-halloween-story-creation-and-game-development) · 2026-11-07
+
+- [Página o reglamento oficial de la organización.](https://www.library.gg/fablab) · 2026-11-07
+
+## CP1864 · Guille-Allès Fab Lab · Meet the Robots
+
+Guernesey · Guille-Allès Library · St Peter Port
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** La sesión de introducción pasada se abrió a todas las edades.
+
+**Idioma:** Confirmar idioma de la actividad para el grupo o etapa elegidos.
+
+**Programa:** 8 retos con Sphero Bolt+ para familias y principiantes.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 18 de febrero de 2026, 14:00–16:00. Requería reserva. Sin nueva sesión anunciada.
+
+**Precio / año:** 2026 · Gratis.
+
+**Suplementos:** Confirmar suplementos obligatorios y reembolso antes de pagar.
+
+**Pago:** Confirmar suplementos obligatorios y reembolso antes de pagar.
+
+**Matvey:** Confirmar edad y acceso con la organización.
+
+**Oscar:** Confirmar edad y acceso con la organización.
+
+**Motivo de selección:** Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.
+
+### Antes de solicitar plaza
+
+- Confirmar plazas y reglas de la próxima convocatoria.
+
+### 18 de febrero de 2026, 14:00–16:00. Requería reserva. Sin nueva sesión anunciada.
+
+**Fechas / estado:** 2026-02-18 — 2026-02-18
+
+**Precio:** Gratis.
+
+**Disponibilidad de plazas:** La convocatoria de esta edición ha cerrado.
+
+[fuente](https://www.library.gg/events/event/meet-robots-taster-session)
+
+### Fuentes
+
+- [Página o reglamento oficial de la organización.](https://www.library.gg/events/event/meet-robots-taster-session) · 2026-11-07
+
+- [Página o reglamento oficial de la organización.](https://www.library.gg/fablab) · 2026-11-07
+
+## CP1865 · Giiyo Tech · Douala Summer Tech Bootcamp
+
+Camerún · Olive Bilingual School · Bonaberi, Douala
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Anuncio de 8–17 años. El grupo real de julio tuvo estudiantes de 7–16 años.
+
+**Idioma:** Confirmar idioma de la actividad para el grupo o etapa elegidos.
+
+**Programa:** Proyectos web, fundamentos de IA y programación. El anuncio también incluía robótica y 3D. Confirmar contenido del nuevo grupo.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** El informe del grupo realizado indica del 29 de junio al 29 de julio de 2026. El anuncio inicial indicaba del 29 de junio al 29 de agosto de 2026.
+
+**Precio / año:** 2026 · El anuncio indicaba 50000 XAF por 8 semanas. El grupo real de julio terminó antes y su tarifa final no está confirmada.
+
+**Suplementos:** Confirmar suplementos obligatorios y reembolso antes de pagar.
+
+**Pago:** Confirmar suplementos obligatorios y reembolso antes de pagar.
+
+**Matvey:** Confirmar edad y acceso con la organización.
+
+**Oscar:** No. Incluso el mínimo de 7 años del informe supera su edad actual.
+
+**Motivo de selección:** Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.
+
+### Antes de solicitar plaza
+
+- Confirmar plazas y reglas de la próxima convocatoria.
+
+### El informe del grupo realizado indica del 29 de junio al 29 de julio de 2026. El anuncio inicial indicaba del 29 de junio al 29 de agosto de 2026.
+
+**Fechas / estado:** 2026-06-29 — 2026-07-29
+
+**Precio:** El anuncio indicaba 50000 XAF por 8 semanas. El grupo real de julio terminó antes y su tarifa final no está confirmada.
+
+**Disponibilidad de plazas:** La convocatoria de esta edición ha cerrado.
+
+[fuente](https://www.giiyotech.com/blog/inside-the-giiyo-tech-july-2026-summer-bootcamp-in-douala)
+
+### Fuentes
+
+- [Página o reglamento oficial de la organización.](https://www.giiyotech.com/blog/inside-the-giiyo-tech-july-2026-summer-bootcamp-in-douala) · 2026-11-07
+
+- [Página o reglamento oficial de la organización.](https://www.giiyotech.com/blog/best-summer-tech-bootcamp-for-kids-in-douala-2026) · 2026-11-07
+
+- [Página o reglamento oficial de la organización.](https://www.giiyotech.com/programs) · 2026-11-07
+
+## CP1866 · GRAINES2GENIE · Kids Coding Camp
+
+Benín · Kids Coding Academy · Cotonou
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Confirmar edad y acceso con la organización.
+
+**Idioma:** Página en francés. La enseñanza en EN o ES no está confirmada.
+
+**Programa:** Intensivos de verano de programación y robótica, también abiertos a niños ajenos a Academy.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Aún no se publican la próxima convocatoria ni su calendario.
+
+**Precio / año:** sin establecer · La tarifa exacta de la convocatoria elegida no está confirmada.
+
+**Suplementos:** Confirmar suplementos obligatorios y reembolso antes de pagar.
+
+**Pago:** Confirmar suplementos obligatorios y reembolso antes de pagar.
+
+**Matvey:** Confirmar edad y acceso con la organización.
+
+**Oscar:** Confirmar edad y acceso con la organización.
+
+**Motivo de selección:** Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.
+
+### Antes de solicitar plaza
+
+- Confirmar plazas y reglas de la próxima convocatoria.
+
+### Fuentes
+
+- [Página o reglamento oficial de la organización.](https://graines2genie.com/) · 2026-11-07
+
+- [Página o reglamento oficial de la organización.](https://graines2genie.com/client/accueil/formation) · 2026-11-07
 
 ## ~ Comprobaciones no cerradas
 

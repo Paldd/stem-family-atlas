@@ -4,6 +4,11 @@ import re
 
 # Explicit relations: a shared operator/domain is not proof of an identical track.
 RELATED = {
+    'jersey-college-creative-minds-robotics': ['L693'],
+    'guernsey-library-twine-game-design': ['L694'],
+    'guernsey-library-sphero-taster': ['L695'],
+    'giiyo-douala-summer-tech-bootcamp': ['L696'],
+    'graines2genie-cotonou-kids-coding-camp': ['L697'],
     'bsi-panama-robotics': ['L687'],
     'bsi-panama-minar-y-crear': ['L688'],
     'la-garenne': ['L249','L250','L251','L252','L253','L254'],
@@ -26,6 +31,10 @@ RELATED = {
     'worklab-ai':['L429','L434','L439','L444'],
 }
 REUSE_DATES = {
+    'jersey-college-creative-minds-robotics': RELATED['jersey-college-creative-minds-robotics'],
+    'guernsey-library-twine-game-design': RELATED['guernsey-library-twine-game-design'],
+    'guernsey-library-sphero-taster': RELATED['guernsey-library-sphero-taster'],
+    'giiyo-douala-summer-tech-bootcamp': RELATED['giiyo-douala-summer-tech-bootcamp'],
     'brillantmont':['L168','L169'], 'abi-paris':['L229'],
     'tokyo-coding':['L201'], 'harrow-appi':['L202'],
     'programable':['L147','L148'],

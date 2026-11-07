@@ -6,24 +6,24 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 8468; competiciones: 3451; eventos: 450; campamentos / programas: 4567. Perfiles de ligas y programas: 288. Fichas de exposiciones grandes y especializadas: 360 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 8487; competiciones: 3460; eventos: 451; campamentos / programas: 4576. Perfiles de ligas y programas: 288. Fichas de exposiciones grandes y especializadas: 361 — son ediciones y sedes, no cantidad de marcas únicas.
 
-Hay registros concretos para 178 de 249 países y territorios. Países auditados por completo: 0. La revisión histórica v51 añadió 21 fichas y 3 perfiles. Se conservan todas las fichas previas.
+Hay registros específicos para 187 de 249 países y territorios. Países con auditoría completa: 0. Revisión histórica v51: se añadieron 21 fichas y 3 perfiles. Se conservaron las fichas anteriores.
 
 ## Cobertura por continentes
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
 | América del Norte | 35 | 1523 | 78 | 1186 |
-| América del Sur | 12 | 249 | 30 | 197 |
-| Europa | 42 | 440 | 87 | 1372 |
-| África | 34 | 135 | 25 | 71 |
+| América del Sur | 13 | 251 | 31 | 197 |
+| Europa | 45 | 443 | 87 | 1376 |
+| África | 38 | 138 | 25 | 76 |
 | Asia | 46 | 852 | 114 | 1557 |
-| Oceanía | 9 | 136 | 24 | 171 |
+| Oceanía | 10 | 137 | 24 | 171 |
 
 Fichas interregionales o globales sin continente único: 136. América del Norte incluye Centroamérica y el Caribe. Las cifras reflejan el inventario de la base y la cobertura completa sigue pendiente.
 
-VEX: 521 de las 3451 fichas de competiciones (15.1%). Esta proporción refleja un desequilibrio de cobertura.
+VEX: 521 de 3460 fichas de competiciones (15.1%). La cobertura tiene una concentración clara.
 
 ## Lo que queda
 
@@ -716,6 +716,7 @@ VEX: 521 de las 3451 fichas de competiciones (15.1%). Esta proporción refleja u
 - **Beijing Future Science and Technology Museum** — China; fecha sin determinar. Con un adulto; condiciones de admisión adulta por separado. https://www.beijing.gov.cn/gate/big5/www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202610/t20261001_4888580.html
 - **NTSEC · Journey of the Curiosity Ball** — Taiwán; 2026-11-07 – 2027-11-14. el permiso de entrada de niños. https://www.ntsec.gov.tw/article/detail.aspx?a=6182
 - **Shanghai Science Festival · next edition** — China; fecha desconocida. Confirmar acceso infantil. https://english.shanghai.gov.cn/en-Latest-WhatsNew/20260525/37620a3cc53c448b810f4c7d41384866.html
+- **Guyaspace Expérience · Spaceport Museum** — Guayana Francesa; fecha sin determinar. Con un adulto; condiciones de admisión adulta por separado. https://visite.centrespatialguyanais.cnes.fr/index.php/en/guyaspace-experience
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

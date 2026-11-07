@@ -870,12 +870,12 @@
   ],
   "completion_rule": "No declarar el objetivo de las tarjetas de identificación completadas, la lista de 249 países o los puntos verdes de UI. Se requiere una cobertura de referencia y condiciones pertinentes demostradas, o información manifiestamente inaccesible o no declarada con fuentes verificadas.",
   "latest_validation": {
-    "version": 241,
+    "version": 242,
     "status": "implementation_snapshot",
-    "events": 8468,
-    "competitions": 3451,
+    "events": 8487,
+    "competitions": 3460,
     "league_profiles": 288,
-    "camp_dossiers": 1861,
+    "camp_dossiers": 1866,
     "budget_offers": 302,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 330,
-    "exhibitions_events": 450
+    "exhibitions_events": 451
   },
   "completeness_audit": "data/audit-v51.json",
   "family_context": {
@@ -927,9 +927,9 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 240,
+    "version": 241,
     "status": "implementation_snapshot",
-    "events": 8459,
+    "events": 8468,
     "competitions": 3451,
     "league_profiles": 288,
     "camp_dossiers": 1861,
@@ -941,7 +941,8 @@
     "schools": 80,
     "school_history_results": 356,
     "school_history_entities": 232,
-    "national_routes": 330
+    "national_routes": 330,
+    "exhibitions_events": 450
   },
   "research_passes": [
     {
@@ -13758,7 +13759,7 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 241,
+    "prepared_ui_version": 242,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
     "previous_verified_ui_version": 240,
     "previous_verified_commit": "4bd316ec431fd73579ec4baee94368f94f77b24f"
@@ -20808,13 +20809,13 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 240,
+    "latest_source_version": 241,
     "published_version": 240,
-    "latest_source_commit": "4bd316ec431fd73579ec4baee94368f94f77b24f",
+    "latest_source_commit": "9309f8c6fcd87d9898a8d8caad75ad6ade9d9588",
     "published_commit": "4bd316ec431fd73579ec4baee94368f94f77b24f",
-    "latest_workflow": 42418597918,
-    "latest_workflow_conclusion": "success",
-    "status": "local-main-and-pages-match"
+    "latest_workflow": 42420236424,
+    "latest_workflow_conclusion": "failure",
+    "status": "pages-sync-timeout-after-retry"
   },
   "nearby_wro_v191": {
     "version": 191,
@@ -23900,5 +23901,69 @@
     ],
     "audit": "data/east-asia-visitor-audit-v241.json",
     "source_receipts": "data/east-asia-visitor-source-receipts-v241.json"
+  },
+  "regional_eligibility_v242": {
+    "version": 242,
+    "checked": "2026-11-07",
+    "previous_goal_turn_classification": "progress",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "C3453",
+      "C3454",
+      "C3455",
+      "L689",
+      "C3456",
+      "C3457",
+      "E451",
+      "C3458",
+      "C3459",
+      "C3460",
+      "C3461",
+      "L690",
+      "L691",
+      "L692",
+      "L693",
+      "L694",
+      "L695",
+      "L696",
+      "L697"
+    ],
+    "new_camp_dossiers": {
+      "jersey-college-creative-minds-robotics": "CP1862",
+      "guernsey-library-twine-game-design": "CP1863",
+      "guernsey-library-sphero-taster": "CP1864",
+      "giiyo-douala-summer-tech-bootcamp": "CP1865",
+      "graines2genie-cotonou-kids-coding-camp": "CP1866"
+    },
+    "new_geographic_coverage": [
+      "AGO",
+      "BEN",
+      "CMR",
+      "GGY",
+      "GUF",
+      "IMN",
+      "JEY",
+      "REU",
+      "WSM"
+    ],
+    "linked_dossier_events": {
+      "jersey-college-creative-minds-robotics": "L693",
+      "guernsey-library-twine-game-design": "L694",
+      "guernsey-library-sphero-taster": "L695",
+      "giiyo-douala-summer-tech-bootcamp": "L696",
+      "graines2genie-cotonou-kids-coding-camp": "L697"
+    },
+    "source_requests": 34,
+    "notes": [
+      "Registro a través de escuelas locales. Convocatoria anunciada hasta finales de octubre de 2026. Confirmar acceso tardío con Digital Jersey.",
+      "Solo mediante solicitud de un aula de Cycle 2, CP–CE2, en un centro local.",
+      "Dos talleres de noviembre de 2 días por escuelas anfitrionas. El formulario familiar recoge interés para una actividad futura.",
+      "Museo plenamente bilingüe, francés e inglés. Confirmar idioma de cada taller.",
+      "Página en francés. La enseñanza en EN o ES no está confirmada.",
+      "El formulario de fase nacional distingue instituciones y grupos independientes. Confirmar calendario y edad de la edición actual."
+    ],
+    "audit": "data/regional-eligibility-audit-v242.json",
+    "source_receipts": "data/regional-eligibility-source-receipts-v242.json"
   }
 }

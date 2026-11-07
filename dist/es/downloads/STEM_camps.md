@@ -9798,6 +9798,150 @@ Limitaciones: Construcción con bloques virtuales y resolución de problemas en 
 Fuente: https://bostonschool.edu.pa/wp-content/uploads/2026/01/After-School-BSI-2026.pdf
 Se ha comprobado: 2026-11-07
 
+### L689 · NOUT RoboCup · Réunion
+
+lugar: Reunión · Académie de La Réunion · Saint-Denis
+Fecha: Aún no se publican la próxima convocatoria ni su calendario.
+edad: Confirmar edad y acceso con la organización.
+Matvey: Confirmar edad y acceso con la organización.
+Oscar: Confirmar edad y acceso con la organización.
+Formato: regular
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Acceso: Mediante la escuela y un mentor.
+Limitaciones: La academia confirma el proyecto local de robótica. Confirmar edad, composición de equipos y fecha de la próxima fase local.
+Fuente: https://www.ac-reunion.fr/nout-robocup-133754
+Se ha comprobado: 2026-11-07
+
+### L690 · Isle of Man Code Club · Saturday sessions
+
+lugar: Isla de Man · St Matthew’s Church Hall · North Quay, Douglas
+Fecha: Sábados de 16:00 a 18:00. Confirmar próxima reunión y edad del grupo.
+edad: Confirmar edad y acceso con la organización.
+Matvey: Confirmar edad y acceso con la organización.
+Oscar: Confirmar edad y acceso con la organización.
+Formato: regular
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Acceso: Sábados de 16:00 a 18:00. Confirmar próxima reunión y edad del grupo.
+Limitaciones: El club ofrece actividades y prepara equipos de robótica. La cuota de membresía no se usa como tarifa de las sesiones.
+Fuente: https://codeclub.im/faq/
+Se ha comprobado: 2026-11-07
+
+### L691 · Giiyo Tech · Build Your First Robot
+
+lugar: Camerún · Écoles partenaires · Cameroun
+Fecha: Dos talleres de noviembre de 2 días por escuelas anfitrionas. El formulario familiar recoge interés para una actividad futura.
+edad: 7–19 años.
+Matvey: Condicional. Edad adecuada, acceso a través de la escuela.
+Oscar: No. Edad mínima publicada de 7 años.
+Formato: holiday_workshop
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Hay plazas financiadas, al menos 15 para niñas por taller. La tarifa general familiar no se ha publicado.
+Acceso: Dos talleres de noviembre de 2 días por escuelas anfitrionas. El formulario familiar recoge interés para una actividad futura.
+Limitaciones: Dos talleres de noviembre de 2 días por escuelas anfitrionas. El formulario familiar recoge interés para una actividad futura.
+Fuente: https://www.giiyotech.com/fr/programmes/premier-robot
+Se ha comprobado: 2026-11-07
+
+### L692 · GRAINES2GENIE · Kids Coding Academy · CE1–CM2
+
+lugar: Benín · Kids Coding Academy · Quartier Habitat, Cotonou
+Fecha: Curso 2026–2027, sesiones de 1,5 horas el miércoles o sábado.
+edad: Convocatoria general de 7 a 17 años. Itinerario de primaria CE1–CM2.
+Matvey: Condicional. Confirmar curso, edad e idioma del grupo.
+Oscar: No. Edad mínima publicada de 7 años.
+Formato: regular
+Idioma: Página en francés. La enseñanza en EN o ES no está confirmada.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Desde 17500 XOF al mes. Confirmar tarifa de la modalidad y descuento familiar.
+Acceso: La organización anuncia inscripciones para el curso. Hasta 12 estudiantes por grupo.
+Limitaciones: Página en francés. La enseñanza en EN o ES no está confirmada.
+Fuente: https://graines2genie.com/
+Se ha comprobado: 2026-11-07
+
+### L693 · Jersey College · Creative Minds
+
+lugar: Jersey · Jersey College · St Saviour
+Fecha: 2026-10-26 2026-10-30
+edad: Niñas y niños en los cursos escolares Years 1–6.
+Matvey: Condicional. Confirmar equivalencia de curso y convocatoria.
+Oscar: Condicional. Confirmar equivalencia de curso y convocatoria.
+Formato: day_camp
+Idioma: Materiales y reservas en inglés. Confirmar el idioma del nuevo turno.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 365 GBP por turno. 310 GBP para miembros actuales de Little Leopards. Almuerzos y refrigerios incluidos.
+Acceso: La convocatoria de esta edición ha cerrado.
+Limitaciones: 26–30 de octubre de 2026, 09:00–17:00. Turno finalizado. Próximas fechas sin publicar.
+Fuente: https://jerseycollegeforgirls.com/jcf/programmes/creative-minds
+Se ha comprobado: 2026-11-07
+
+### L694 · Guille-Allès Fab Lab · Twine Game Design
+
+lugar: Guernesey · Guille-Allès Library · St Peter Port
+Fecha: 2026-10-29 — 2026-10-29
+Edad: 9*16 años.
+Matvey: Condicional. Cumple la edad del taller anterior. Confirmar fecha de nueva actividad.
+Oscar: No. Edad mínima publicada de 9 años.
+Formato: holiday_workshop
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 5 GBP por taller.
+Acceso: La convocatoria de esta edición ha cerrado.
+Limitaciones: 29 de octubre de 2026, 13:00–15:30. Sin nueva sesión anunciada.
+Fuente: https://www.library.gg/events/event/code-club-halloween-story-creation-and-game-development
+Se ha comprobado: 2026-11-07
+
+### L695 · Guille-Allès Fab Lab · Meet the Robots
+
+lugar: Guernesey · Guille-Allès Library · St Peter Port
+Fecha: 2026-02-18 — 2026-02-18
+edad: La sesión de introducción pasada se abrió a todas las edades.
+Matvey: Confirmar edad y acceso con la organización.
+Oscar: Confirmar edad y acceso con la organización.
+Formato: holiday_workshop
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Gratuito.
+Acceso: La convocatoria de esta edición ha cerrado.
+Limitaciones: 18 de febrero de 2026, 14:00–16:00. Requería reserva. Sin nueva sesión anunciada.
+Fuente: https://www.library.gg/events/event/meet-robots-taster-session
+Se ha comprobado: 2026-11-07
+
+### L696 · Giiyo Tech · Douala Summer Tech Bootcamp
+
+lugar: Camerún · Olive Bilingual School · Bonaberi, Douala
+Fecha: 2026-06-29 — 2026-07-29
+edad: Anuncio de 8–17 años. El grupo real de julio tuvo estudiantes de 7–16 años.
+Matvey: Confirmar edad y acceso con la organización.
+Oscar: No. Incluso el mínimo de 7 años del informe supera su edad actual.
+Formato: day_camp
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: El anuncio indicaba 50000 XAF por 8 semanas. El grupo real de julio terminó antes y su tarifa final no está confirmada.
+Acceso: La convocatoria de esta edición ha cerrado.
+Limitaciones: El informe del grupo realizado indica del 29 de junio al 29 de julio de 2026. El anuncio inicial indicaba del 29 de junio al 29 de agosto de 2026.
+Fuente: https://www.giiyotech.com/blog/inside-the-giiyo-tech-july-2026-summer-bootcamp-in-douala
+Se ha comprobado: 2026-11-07
+
+### L697 · GRAINES2GENIE · Kids Coding Camp
+
+lugar: Benín · Kids Coding Academy · Cotonou
+Fecha: Aún no se publican la próxima convocatoria ni su calendario.
+edad: Confirmar edad y acceso con la organización.
+Matvey: Confirmar edad y acceso con la organización.
+Oscar: Confirmar edad y acceso con la organización.
+Formato: day_camp
+Idioma: Página en francés. La enseñanza en EN o ES no está confirmada.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Acceso: Aún no se publican la próxima convocatoria ni su calendario.
+Limitaciones: Aún no se publican la próxima convocatoria ni su calendario.
+Fuente: https://graines2genie.com/
+Se ha comprobado: 2026-11-07
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier

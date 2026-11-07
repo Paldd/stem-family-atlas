@@ -16,14 +16,14 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 8468,
-    "competition_cards": 3451,
-    "event_cards": 450,
-    "camp_cards": 4567,
+    "cards": 8487,
+    "competition_cards": 3460,
+    "event_cards": 451,
+    "camp_cards": 4576,
     "league_profiles": 288,
-    "major_exhibition_cards": 360,
+    "major_exhibition_cards": 361,
     "vex_cards": 521,
-    "countries_with_records": 178,
+    "countries_with_records": 187,
     "fully_audited_countries": 0
   },
   "continents": [
@@ -48,11 +48,11 @@
       "regions": [
         "Южная Америка"
       ],
-      "total": 480,
-      "countries_with_records": 12,
-      "competitions": 249,
-      "events": 34,
-      "major_exhibitions": 30,
+      "total": 483,
+      "countries_with_records": 13,
+      "competitions": 251,
+      "events": 35,
+      "major_exhibitions": 31,
       "camps": 197,
       "status": "Частично исследовано",
       "remaining": "Много карточек Ecuador и региональных маршрутов Chile; Brazil, Perú и другие страны требуют местных этапов, квот и календарей."
@@ -62,12 +62,12 @@
       "regions": [
         "Европа"
       ],
-      "total": 1919,
-      "countries_with_records": 42,
-      "competitions": 440,
+      "total": 1926,
+      "countries_with_records": 45,
+      "competitions": 443,
       "events": 107,
       "major_exhibitions": 87,
-      "camps": 1372,
+      "camps": 1376,
       "status": "Частично исследовано",
       "remaining": "CHE/ESP/FRA углублены повторно. Не закрыты все местные лиги, новые qualifiers 2027, преподавание на английском / испанском, иностранные квоты, текущие juniormentors и полные школьные протоколы 5–10 лет. Германия / Нидерланды / Бельгия: первый частичный проход; все местные клубы, языки, иностранные квоты и полные школьные результаты остаются открыты."
     },
@@ -76,12 +76,12 @@
       "regions": [
         "Африка"
       ],
-      "total": 239,
-      "countries_with_records": 34,
-      "competitions": 135,
+      "total": 247,
+      "countries_with_records": 38,
+      "competitions": 138,
       "events": 33,
       "major_exhibitions": 25,
-      "camps": 71,
+      "camps": 76,
       "status": "Частично исследовано",
       "remaining": "До расширения почти все соревнования были в South Africa. Добавлен PARC Senegal; Maghreb, East / West Africa и местные отборы остаются пробелами."
     },
@@ -104,9 +104,9 @@
       "regions": [
         "Океания"
       ],
-      "total": 335,
-      "countries_with_records": 9,
-      "competitions": 136,
+      "total": 336,
+      "countries_with_records": 10,
+      "competitions": 137,
       "events": 28,
       "major_exhibitions": 24,
       "camps": 171,
@@ -11492,6 +11492,17 @@
       "new": false
     },
     {
+      "id": "E451",
+      "name": "Guyaspace Expérience · Spaceport Museum",
+      "country": "Французская Гвиана",
+      "region": "Южная Америка",
+      "start": "",
+      "end": "",
+      "visitor_policy": "family",
+      "source": "https://visite.centrespatialguyanais.cnes.fr/index.php/en/guyaspace-experience",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -13909,9 +13920,9 @@
       }
     ],
     "counts": {
-      "records": 4567,
-      "holiday": 4274,
-      "regular": 135,
+      "records": 4576,
+      "holiday": 4280,
+      "regular": 138,
       "self_paced_materials": 2,
       "boarding": 1036,
       "en_es_instruction": 1428,
@@ -13922,7 +13933,7 @@
       "language_lessons": 410,
       "camp_life_language": 228,
       "language_unclassified": 137,
-      "countries": 116
+      "countries": 122
     },
     "validation": {
       "version": 51,

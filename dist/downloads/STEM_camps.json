@@ -580,9 +580,9 @@
       }
     ],
     "counts": {
-      "records": 4567,
-      "holiday": 4274,
-      "regular": 135,
+      "records": 4576,
+      "holiday": 4280,
+      "regular": 138,
       "self_paced_materials": 2,
       "boarding": 1036,
       "en_es_instruction": 1428,
@@ -593,7 +593,7 @@
       "language_lessons": 410,
       "camp_life_language": 228,
       "language_unclassified": 137,
-      "countries": 116
+      "countries": 122
     },
     "validation": {
       "version": 51,
@@ -35047,6 +35047,528 @@
       "admission_kind": "school",
       "evidence_level": "event_page",
       "date_scope": "programme_watch"
+    },
+    {
+      "id": "L689",
+      "title": "NOUT RoboCup · Réunion",
+      "block": "Лагеря",
+      "country": "Реюньон",
+      "region": "Африка",
+      "iso": [
+        "REU"
+      ],
+      "city": "Académie de La Réunion · Saint-Denis",
+      "start": "",
+      "end": "",
+      "period": "Следующий набор и календарь ещё не опубликованы.",
+      "deadline": "",
+      "date_status": "Не объявлено",
+      "date_scope": "programme_watch",
+      "checked": "2026-11-07",
+      "source": "https://www.ac-reunion.fr/nout-robocup-133754",
+      "references": [],
+      "proof": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "status": "Идея",
+      "age": "Возраст и доступ уточнить у организатора.",
+      "mat": "Возраст и доступ уточнить у организатора.",
+      "osc": "Возраст и доступ уточнить у организатора.",
+      "format": "Через школу и наставника.",
+      "entry": "Через школу и наставника.",
+      "gear": "",
+      "language": "Язык проведения уточнить для выбранной группы или этапа.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык проведения уточнить для выбранной группы или этапа.",
+      "cost": "Точный тариф выбранного набора не подтверждён.",
+      "level": "Мастерская или учебная программа",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Следующий набор и календарь ещё не опубликованы.",
+      "note": "Академия подтверждает местный проект по робототехнике. Возраст, состав команд и дату нового местного этапа уточнить.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Региональный этап",
+      "participation": "regular",
+      "admission_kind": "school_selection",
+      "evidence_level": "event_page"
+    },
+    {
+      "id": "L690",
+      "title": "Isle of Man Code Club · Saturday sessions",
+      "block": "Лагеря",
+      "country": "Остров Мэн",
+      "region": "Европа",
+      "iso": [
+        "IMN"
+      ],
+      "city": "St Matthew’s Church Hall · North Quay, Douglas",
+      "start": "",
+      "end": "",
+      "period": "По субботам 16:00–18:00. Сверить ближайшую встречу и возраст группы.",
+      "deadline": "",
+      "date_status": "Не объявлено",
+      "date_scope": "programme_watch",
+      "checked": "2026-11-07",
+      "source": "https://codeclub.im/faq/",
+      "references": [
+        {
+          "url": "https://codeclub.im/",
+          "label": "Официальная страница или регламент организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "status": "Идея",
+      "age": "Возраст и доступ уточнить у организатора.",
+      "mat": "Возраст и доступ уточнить у организатора.",
+      "osc": "Возраст и доступ уточнить у организатора.",
+      "format": "Мастерская или учебная программа",
+      "entry": "По субботам 16:00–18:00. Сверить ближайшую встречу и возраст группы.",
+      "gear": "",
+      "language": "Язык проведения уточнить для выбранной группы или этапа.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык проведения уточнить для выбранной группы или этапа.",
+      "cost": "Точный тариф выбранного набора не подтверждён.",
+      "level": "Мастерская или учебная программа",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Возраст и доступ уточнить у организатора.",
+      "note": "У клуба есть отдельные занятия и подготовка робототехнических команд. Стоимость членства не принята за цену занятий.",
+      "themes": [
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Региональный этап",
+      "participation": "regular",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "related_ids": [
+        "C3461"
+      ]
+    },
+    {
+      "id": "L691",
+      "title": "Giiyo Tech · Build Your First Robot",
+      "block": "Лагеря",
+      "country": "Камерун",
+      "region": "Африка",
+      "iso": [
+        "CMR"
+      ],
+      "city": "Écoles partenaires · Cameroun",
+      "start": "",
+      "end": "",
+      "period": "Два ноябрьских занятия по 2 дня через школы. Форма семьи собирает интерес к будущему занятию.",
+      "deadline": "",
+      "date_status": "Не объявлено",
+      "date_scope": "programme_watch",
+      "checked": "2026-11-07",
+      "source": "https://www.giiyotech.com/fr/programmes/premier-robot",
+      "references": [
+        {
+          "url": "https://www.giiyotech.com/programs",
+          "label": "Официальная страница или регламент организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "status": "Идея",
+      "age": "7–19 лет.",
+      "mat": "Условно. Возраст подходит, допуск через школу.",
+      "osc": "Нет. Опубликованный минимум 7 лет.",
+      "format": "Дневной формат без проживания.",
+      "entry": "Два ноябрьских занятия по 2 дня через школы. Форма семьи собирает интерес к будущему занятию.",
+      "gear": "Наборы остаются у организатора. Личный компьютер обычно не нужен.",
+      "language": "Язык проведения уточнить для выбранной группы или этапа.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык проведения уточнить для выбранной группы или этапа.",
+      "cost": "Есть места с финансированием, минимум 15 для девочек на мастерскую. Общий тариф семьи не опубликован.",
+      "level": "Мастерская или учебная программа",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Проверить школу, дату и язык до поездки.",
+      "note": "Два ноябрьских занятия по 2 дня через школы. Форма семьи собирает интерес к будущему занятию.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Региональный этап",
+      "participation": "holiday_workshop",
+      "admission_kind": "school",
+      "evidence_level": "event_page",
+      "related_ids": [
+        "L696"
+      ]
+    },
+    {
+      "id": "L692",
+      "title": "GRAINES2GENIE · Kids Coding Academy · CE1–CM2",
+      "block": "Лагеря",
+      "country": "Бенин",
+      "region": "Африка",
+      "iso": [
+        "BEN"
+      ],
+      "city": "Kids Coding Academy · Quartier Habitat, Cotonou",
+      "start": "",
+      "end": "",
+      "period": "Учебный год 2026–2027, занятия по 1,5 часа в среду или субботу.",
+      "deadline": "",
+      "date_status": "Не объявлено",
+      "date_scope": "programme_watch",
+      "checked": "2026-11-07",
+      "source": "https://graines2genie.com/",
+      "references": [
+        {
+          "url": "https://graines2genie.com/client/accueil/formation",
+          "label": "Официальная страница или регламент организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "status": "Идея",
+      "age": "Основной набор от 7 до 17 лет. Младшее направление CE1–CM2.",
+      "mat": "Условно. Проверить класс, возраст и язык группы.",
+      "osc": "Нет. Опубликованный минимум 7 лет.",
+      "format": "Мастерская или учебная программа",
+      "entry": "Организатор указывает набор на учебный год. До 12 учащихся в группе.",
+      "gear": "micro:bit, блочное программирование, светодиоды, датчики и первый робот.",
+      "language": "Франкоязычная страница. Преподавание на EN или ES не подтверждено.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Франкоязычная страница. Преподавание на EN или ES не подтверждено.",
+      "cost": "От 17500 XOF в месяц. Точный тариф формата и семейную скидку уточнить.",
+      "level": "Мастерская или учебная программа",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Уточнить условия для конкретной группы.",
+      "note": "Франкоязычная страница. Преподавание на EN или ES не подтверждено.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Региональный этап",
+      "participation": "regular",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "related_ids": [
+        "L697"
+      ]
+    },
+    {
+      "id": "L693",
+      "title": "Jersey College · Creative Minds",
+      "block": "Лагеря",
+      "country": "Джерси",
+      "region": "Европа",
+      "iso": [
+        "JEY"
+      ],
+      "city": "Jersey College · St Saviour",
+      "start": "2026-10-26",
+      "end": "2026-10-30",
+      "period": "26–30 октября 2026, 09:00–17:00. Смена завершена. Следующие даты не опубликованы.",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "camp_window",
+      "checked": "2026-11-07",
+      "source": "https://jerseycollegeforgirls.com/jcf/programmes/creative-minds",
+      "references": [
+        {
+          "url": "https://shop.jerseycollege.je/collections/creative-minds",
+          "label": "Официальная страница или регламент организатора."
+        },
+        {
+          "url": "https://jerseycollegeforgirls.com/jcf/programmes/creative-minds/cm-terms-and-conditions",
+          "label": "Официальная страница или регламент организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "status": "Идея",
+      "age": "Девочки и мальчики в школьных Years 1–6.",
+      "mat": "Условно. Подтвердить соответствие класса и набор.",
+      "osc": "Условно. Подтвердить соответствие класса и набор.",
+      "format": "Дневной формат без проживания.",
+      "entry": "Набор на этот выпуск завершён.",
+      "gear": "Роботы, программирование, лабиринты, инженерный проект, творчество и игры на улице.",
+      "language": "Материалы и бронирование на английском. Язык новой смены уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Материалы и бронирование на английском. Язык новой смены уточнить.",
+      "cost": "365 GBP за смену. 310 GBP для действующих Little Leopards. Обеды и перекусы включены.",
+      "level": "Мастерская или учебная программа",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Набор на этот выпуск завершён.",
+      "note": "26–30 октября 2026, 09:00–17:00. Смена завершена. Следующие даты не опубликованы.",
+      "themes": [
+        "robotics",
+        "coding",
+        "makers",
+        "games"
+      ],
+      "scope": "local",
+      "importance_reason": "Региональный этап",
+      "participation": "day_camp",
+      "admission_kind": "program",
+      "evidence_level": "program",
+      "camp_dossier_slug": "jersey-college-creative-minds-robotics",
+      "camp_programme_id": "CP1862",
+      "availability": {
+        "status": "closed",
+        "label": "Набор на этот выпуск завершён."
+      },
+      "related_ids": [
+        "C3453"
+      ]
+    },
+    {
+      "id": "L694",
+      "title": "Guille-Allès Fab Lab · Twine Game Design",
+      "block": "Лагеря",
+      "country": "Гернси",
+      "region": "Европа",
+      "iso": [
+        "GGY"
+      ],
+      "city": "Guille-Allès Library · St Peter Port",
+      "start": "2026-10-29",
+      "end": "2026-10-29",
+      "period": "29 октября 2026, 13:00–15:30. Новая смена не объявлена.",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "workshop_window",
+      "checked": "2026-11-07",
+      "source": "https://www.library.gg/events/event/code-club-halloween-story-creation-and-game-development",
+      "references": [
+        {
+          "url": "https://www.library.gg/fablab",
+          "label": "Официальная страница или регламент организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "status": "Идея",
+      "age": "9–16 лет.",
+      "mat": "Условно. Подходит по возрасту прошлой мастерской. Дату нового занятия проверить.",
+      "osc": "Нет. Опубликованный минимум 9 лет.",
+      "format": "Дневной формат без проживания.",
+      "entry": "Набор на этот выпуск завершён.",
+      "gear": "Интерактивная история и основы разработки игр в Twine. Подходит новичкам.",
+      "language": "Язык проведения уточнить для выбранной группы или этапа.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык проведения уточнить для выбранной группы или этапа.",
+      "cost": "5 GBP за мастерскую.",
+      "level": "Мастерская или учебная программа",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Набор на этот выпуск завершён.",
+      "note": "29 октября 2026, 13:00–15:30. Новая смена не объявлена.",
+      "themes": [
+        "games",
+        "coding",
+        "art"
+      ],
+      "scope": "local",
+      "importance_reason": "Региональный этап",
+      "participation": "holiday_workshop",
+      "admission_kind": "program",
+      "evidence_level": "program",
+      "camp_dossier_slug": "guernsey-library-twine-game-design",
+      "camp_programme_id": "CP1863",
+      "availability": {
+        "status": "closed",
+        "label": "Набор на этот выпуск завершён."
+      }
+    },
+    {
+      "id": "L695",
+      "title": "Guille-Allès Fab Lab · Meet the Robots",
+      "block": "Лагеря",
+      "country": "Гернси",
+      "region": "Европа",
+      "iso": [
+        "GGY"
+      ],
+      "city": "Guille-Allès Library · St Peter Port",
+      "start": "2026-02-18",
+      "end": "2026-02-18",
+      "period": "18 февраля 2026, 14:00–16:00. Требовалась бронь, новый сеанс не объявлен.",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "workshop_window",
+      "checked": "2026-11-07",
+      "source": "https://www.library.gg/events/event/meet-robots-taster-session",
+      "references": [
+        {
+          "url": "https://www.library.gg/fablab",
+          "label": "Официальная страница или регламент организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "status": "Идея",
+      "age": "Прошедший ознакомительный сеанс был открыт всем возрастам.",
+      "mat": "Возраст и доступ уточнить у организатора.",
+      "osc": "Возраст и доступ уточнить у организатора.",
+      "format": "Дневной формат без проживания.",
+      "entry": "Набор на этот выпуск завершён.",
+      "gear": "8 заданий с Sphero Bolt+ для семей и начинающих.",
+      "language": "Язык проведения уточнить для выбранной группы или этапа.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык проведения уточнить для выбранной группы или этапа.",
+      "cost": "Бесплатно.",
+      "level": "Мастерская или учебная программа",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Набор на этот выпуск завершён.",
+      "note": "18 февраля 2026, 14:00–16:00. Требовалась бронь, новый сеанс не объявлен.",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Региональный этап",
+      "participation": "holiday_workshop",
+      "admission_kind": "program",
+      "evidence_level": "program",
+      "camp_dossier_slug": "guernsey-library-sphero-taster",
+      "camp_programme_id": "CP1864",
+      "availability": {
+        "status": "closed",
+        "label": "Набор на этот выпуск завершён."
+      }
+    },
+    {
+      "id": "L696",
+      "title": "Giiyo Tech · Douala Summer Tech Bootcamp",
+      "block": "Лагеря",
+      "country": "Камерун",
+      "region": "Африка",
+      "iso": [
+        "CMR"
+      ],
+      "city": "Olive Bilingual School · Bonaberi, Douala",
+      "start": "2026-06-29",
+      "end": "2026-07-29",
+      "period": "Отчёт о прошедшей группе даёт 29 июня — 29 июля 2026. Первоначальный анонс указывал 29 июня — 29 августа 2026.",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "camp_window",
+      "checked": "2026-11-07",
+      "source": "https://www.giiyotech.com/blog/inside-the-giiyo-tech-july-2026-summer-bootcamp-in-douala",
+      "references": [
+        {
+          "url": "https://www.giiyotech.com/blog/best-summer-tech-bootcamp-for-kids-in-douala-2026",
+          "label": "Официальная страница или регламент организатора."
+        },
+        {
+          "url": "https://www.giiyotech.com/programs",
+          "label": "Официальная страница или регламент организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "status": "Идея",
+      "age": "Анонс 8–17 лет. В фактической июльской группе были дети 7–16 лет.",
+      "mat": "Возраст и доступ уточнить у организатора.",
+      "osc": "Нет. Даже нижняя граница 7 лет из отчёта выше текущего возраста.",
+      "format": "Дневной формат без проживания.",
+      "entry": "Набор на этот выпуск завершён.",
+      "gear": "Веб-проекты, основы ИИ и кодирование. В анонсе также робототехника и 3D, состав нового потока уточнить.",
+      "language": "Язык проведения уточнить для выбранной группы или этапа.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык проведения уточнить для выбранной группы или этапа.",
+      "cost": "В анонсе 50000 XAF за 8 недель. Фактическая июльская группа завершилась раньше, её итоговый тариф не подтверждён.",
+      "level": "Мастерская или учебная программа",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Набор на этот выпуск завершён.",
+      "note": "Отчёт о прошедшей группе даёт 29 июня — 29 июля 2026. Первоначальный анонс указывал 29 июня — 29 августа 2026.",
+      "themes": [
+        "coding",
+        "ai",
+        "robotics",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Региональный этап",
+      "participation": "day_camp",
+      "admission_kind": "program",
+      "evidence_level": "program",
+      "camp_dossier_slug": "giiyo-douala-summer-tech-bootcamp",
+      "camp_programme_id": "CP1865",
+      "availability": {
+        "status": "closed",
+        "label": "Набор на этот выпуск завершён."
+      },
+      "related_ids": [
+        "L691"
+      ]
+    },
+    {
+      "id": "L697",
+      "title": "GRAINES2GENIE · Kids Coding Camp",
+      "block": "Лагеря",
+      "country": "Бенин",
+      "region": "Африка",
+      "iso": [
+        "BEN"
+      ],
+      "city": "Kids Coding Academy · Cotonou",
+      "start": "",
+      "end": "",
+      "period": "Следующий набор и календарь ещё не опубликованы.",
+      "deadline": "",
+      "date_status": "Не объявлено",
+      "date_scope": "programme_watch",
+      "checked": "2026-11-07",
+      "source": "https://graines2genie.com/",
+      "references": [
+        {
+          "url": "https://graines2genie.com/client/accueil/formation",
+          "label": "Официальная страница или регламент организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "status": "Идея",
+      "age": "Возраст и доступ уточнить у организатора.",
+      "mat": "Возраст и доступ уточнить у организатора.",
+      "osc": "Возраст и доступ уточнить у организатора.",
+      "format": "Дневной формат без проживания.",
+      "entry": "Следующий набор и календарь ещё не опубликованы.",
+      "gear": "Летние интенсивы по программированию и робототехнике, открытые также детям вне Academy.",
+      "language": "Франкоязычная страница. Преподавание на EN или ES не подтверждено.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Франкоязычная страница. Преподавание на EN или ES не подтверждено.",
+      "cost": "Точный тариф выбранного набора не подтверждён.",
+      "level": "Мастерская или учебная программа",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Следующий набор и календарь ещё не опубликованы.",
+      "note": "Следующий набор и календарь ещё не опубликованы.",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Региональный этап",
+      "participation": "day_camp",
+      "admission_kind": "program",
+      "evidence_level": "program",
+      "camp_dossier_slug": "graines2genie-cotonou-kids-coding-camp",
+      "camp_programme_id": "CP1866",
+      "related_ids": [
+        "L692"
+      ]
     },
     {
       "id": "CP001-20270606-20270619",
