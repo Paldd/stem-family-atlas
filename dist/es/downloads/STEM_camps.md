@@ -53812,7 +53812,7 @@ Precio: 2027 · AUD 215 · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
 Fuente: https://www.trybooking.com/au/event/1661016
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-07
 
 ### CP1282-20270111-20270111-eastwood-11 · Young Engineers NSW · LEGO Engineering / Robotics · Eastwood Heights Public School · 9A Lincoln St · Eastwood NSW 2122 · 1 día · 2027-01-11–2027-01-11
 
@@ -53828,7 +53828,7 @@ Precio: 2027 · AUD 120 · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
 Fuente: https://www.trybooking.com/au/event/1661016
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-07
 
 ### CP1282-20270112-20270112-eastwood-12 · Young Engineers NSW · LEGO Engineering / Robotics · Eastwood Heights Public School · 9A Lincoln St · Eastwood NSW 2122 · 1 día · 2027-01-12–2027-01-12
 
@@ -53844,7 +53844,7 @@ Precio: 2027 · AUD 120 · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
 Fuente: https://www.trybooking.com/au/event/1661016
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-07
 
 ### CP1282-20270113-20270114-samuel-gilbert-two-day · Young Engineers NSW · LEGO Engineering / Robotics · Samuel Gilbert Public School · Ridgecrop Dr · Castle Hill NSW 2154 · 2 días · 2027-01-13–2027-01-14
 
@@ -53860,7 +53860,7 @@ Precio: 2027 · AUD 215 · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
 Fuente: https://www.trybooking.com/au/event/1661016
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-07
 
 ### CP1282-20270113-20270113-samuel-gilbert-13 · Young Engineers NSW · LEGO Engineering / Robotics · Samuel Gilbert Public School · Ridgecrop Dr · Castle Hill NSW 2154 · 1 día · 2027-01-13–2027-01-13
 
@@ -53876,7 +53876,7 @@ Precio: 2027 · AUD 120 · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
 Fuente: https://www.trybooking.com/au/event/1661016
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-07
 
 ### CP1282-20270114-20270114-samuel-gilbert-14 · Young Engineers NSW · LEGO Engineering / Robotics · Samuel Gilbert Public School · Ridgecrop Dr · Castle Hill NSW 2154 · 1 día · 2027-01-14–2027-01-14
 
@@ -53892,7 +53892,7 @@ Precio: 2027 · AUD 120 · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
 Fuente: https://www.trybooking.com/au/event/1661016
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-07
 
 ### CP1282-20270118-20270119-baulkham-two-day · Young Engineers NSW · LEGO Engineering / Robotics · Baulkham Hills North Public School · 2 Girralong Ave · NSW 2153 · 2 días · 2027-01-18–2027-01-19
 
@@ -53908,7 +53908,7 @@ Precio: 2027 · AUD 215 · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
 Fuente: https://www.trybooking.com/au/event/1661016
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-07
 
 ### CP1282-20270118-20270118-baulkham-18 · Young Engineers NSW · LEGO Engineering / Robotics · Baulkham Hills North Public School · 2 Girralong Ave · NSW 2153 · 1 día · 2027-01-18–2027-01-18
 
@@ -53924,7 +53924,7 @@ Precio: 2027 · AUD 120 · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
 Fuente: https://www.trybooking.com/au/event/1661016
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-07
 
 ### CP1282-20270119-20270119-baulkham-19 · Young Engineers NSW · LEGO Engineering / Robotics · Baulkham Hills North Public School · 2 Girralong Ave · NSW 2153 · 1 día · 2027-01-19–2027-01-19
 
@@ -53940,7 +53940,7 @@ Precio: 2027 · AUD 120 · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
 Fuente: https://www.trybooking.com/au/event/1661016
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-07
 
 ### CP1282-20270120-20270121-oakhill-two-day · Young Engineers NSW · LEGO Engineering / Robotics · Oakhill Drive Public School · 1–5 Oakhill Dr · Castle Hill NSW 2154 · 2 días · 2027-01-20–2027-01-21
 
@@ -53956,7 +53956,7 @@ Precio: 2027 · AUD 215 · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
 Fuente: https://www.trybooking.com/au/event/1661016
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-07
 
 ### CP1282-20270120-20270120-oakhill-20 · Young Engineers NSW · LEGO Engineering / Robotics · Oakhill Drive Public School · 1–5 Oakhill Dr · Castle Hill NSW 2154 · 1 día · 2027-01-20–2027-01-20
 
@@ -53972,7 +53972,7 @@ Precio: 2027 · AUD 120 · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
 Fuente: https://www.trybooking.com/au/event/1661016
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-07
 
 ### CP1282-20270121-20270121-oakhill-21 · Young Engineers NSW · LEGO Engineering / Robotics · Oakhill Drive Public School · 1–5 Oakhill Dr · Castle Hill NSW 2154 · 1 día · 2027-01-21–2027-01-21
 
@@ -53988,7 +53988,7 @@ Precio: 2027 · AUD 120 · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
 Fuente: https://www.trybooking.com/au/event/1661016
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-07
 
 ### CP1283-20270111-20270111-paper-11 · SK Robotics EDGE · Paper Circuits · Paper Circuits · 2027-01-11–2027-01-11
 
@@ -64698,16 +64698,16 @@ Se ha comprobado: 2026-11-07
 
 lugar: Australia · STEMBuddy · Narre Warren South VIC
 Fecha: 2027-01-11 — 2027-01-12
-edad: Years 1–8, admisión por grado escolar.
+edad: La oferta indica desde 7 años y la descripción indica Years 1–8.
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: Condicional; comprobar la edad, la clase y la admisión
 Formato: holiday_workshop
 Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
 Marca de idioma: unconfirmed; apoyo: no declarado
-Precio: 2027 · La página muestra AUD 250–375 para distintas opciones. Confirmar tarifa de este módulo. · suplementos y condiciones en el dossier
+Precio: 2027 · AUD 250 en la opción actual. Confirmar posibles comisiones. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Condicional por grado escolar. Confirmar equivalencia a Year 1 y plaza. Oscar: Condicional por grado escolar. Confirmar equivalencia a Year 1 y plaza. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
-Fuente: https://www.trybooking.com/au/event/1660294
+Limitaciones: Matvey: Condicional. Confirmar días reales, edad y curso escolar del grupo antes de pagar. Oscar: Condicional. Confirmar días reales, edad y curso escolar del grupo antes de pagar. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.trybooking.com/au/apiv2/events/1660294/sessions?month=1&year=2027
 Se ha comprobado: 2026-11-07
 
 ### CP1685-20270104-20270108-castle-cove-1 · Kids Up Front · Sydney · Elf Alone · 2027-01-04–2027-01-08
@@ -67780,6 +67780,550 @@ Precio: 2027 · TWD 10800 hasta el 5 de diciembre, TWD 12000 hasta el 30 de dici
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Condicional. Confirmar edad del grupo concreto y plaza. Oscar: Por debajo del curso escolar publicado. Suplementos: Se recomienda portátil propio con cargador. Consultar alquiler con antelación si hace falta. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://www.singularmaker.com.tw/article_d.php?id=1728&lang=tw&tb=1
+Se ha comprobado: 2026-11-07
+
+### CP1751-20270112-20270112-rhodes · Young Engineers · Inner Sydney Robotics & Engineering · Rhodes Recreation Centre · 2027-01-12–2027-01-12
+
+lugar: Australia · Rhodes Recreation Centre
+Fecha: 2027-01-12 — 2027-01-12
+edad: Kindergarten a Year 6. La organización confirma el grupo de edad.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 135 en la oferta sin bono, AUD 85 con un NSW Active & Creative Kids Voucher válido. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar edad del grupo concreto y plaza. Oscar: Condicional. Confirmar edad del grupo concreto y plaza. Suplementos: Llevar agua, almuerzo y meriendas. En jornada completa se puede llegar desde las 08:30. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.trybooking.com/au/apiv2/events/1674465/sessions?month=1&year=2027
+Se ha comprobado: 2026-11-07
+
+### CP1751-20270114-20270114-chatswood · Young Engineers · Inner Sydney Robotics & Engineering · Chatswood Library · 2027-01-14–2027-01-14
+
+lugar: Australia · Chatswood Library
+Fecha: 2027-01-14 — 2027-01-14
+edad: Kindergarten a Year 6. La organización confirma el grupo de edad.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 75 en la oferta sin bono, AUD 25 con un NSW Active & Creative Kids Voucher válido. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar edad del grupo concreto y plaza. Oscar: Condicional. Confirmar edad del grupo concreto y plaza. Suplementos: Llevar agua, almuerzo y meriendas. En jornada completa se puede llegar desde las 08:30. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.trybooking.com/au/apiv2/events/1674465/sessions?month=1&year=2027
+Se ha comprobado: 2026-11-07
+
+### CP1751-20270119-20270119-north-ryde · Young Engineers · Inner Sydney Robotics & Engineering · North Ryde Anglican Church · 2027-01-19–2027-01-19
+
+lugar: Australia · North Ryde Anglican Church
+Fecha: 2027-01-19 — 2027-01-19
+edad: Kindergarten a Year 6. La organización confirma el grupo de edad.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 135 en la oferta sin bono, AUD 85 con un NSW Active & Creative Kids Voucher válido. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar edad del grupo concreto y plaza. Oscar: Condicional. Confirmar edad del grupo concreto y plaza. Suplementos: Llevar agua, almuerzo y meriendas. En jornada completa se puede llegar desde las 08:30. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.trybooking.com/au/apiv2/events/1674465/sessions?month=1&year=2027
+Se ha comprobado: 2026-11-07
+
+### CP1751-20270121-20270121-gladesville · Young Engineers · Inner Sydney Robotics & Engineering · Boronia Park Uniting Church · Gladesville · 2027-01-21–2027-01-21
+
+lugar: Australia · Boronia Park Uniting Church · Gladesville
+Fecha: 2027-01-21 — 2027-01-21
+edad: Kindergarten a Year 6. La organización confirma el grupo de edad.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 135 en la oferta sin bono, AUD 85 con un NSW Active & Creative Kids Voucher válido. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar edad del grupo concreto y plaza. Oscar: Condicional. Confirmar edad del grupo concreto y plaza. Suplementos: Llevar agua, almuerzo y meriendas. En jornada completa se puede llegar desde las 08:30. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.trybooking.com/au/apiv2/events/1674465/sessions?month=1&year=2027
+Se ha comprobado: 2026-11-07
+
+### CP1753-20261216-20261216-day-2026-12-16 · Bricks 4 Kidz · Hamilton Central · Un día · 2026-12-16–2026-12-16
+
+Lugar: Nueva Zelandia Waikato Sport Fishing Club · 499 Grantham Street · Hamilton Central
+Fecha: 2026-12-16 — 2026-12-16
+edad: 5–14
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Suplementos: Llegada desde las 08:00 y recogida hasta las 17:00 por NZD 8 por niño por opción y día. Almuerzo NZD 10.80 por niño y día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://form.jotform.com/hamiltonnorth/central-dec
+Se ha comprobado: 2026-11-07
+
+### CP1753-20261217-20261217-day-2026-12-17 · Bricks 4 Kidz · Hamilton Central · Un día · 2026-12-17–2026-12-17
+
+Lugar: Nueva Zelandia Waikato Sport Fishing Club · 499 Grantham Street · Hamilton Central
+Fecha: 2026-12-17 — 2026-12-17
+edad: 5–14
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Suplementos: Llegada desde las 08:00 y recogida hasta las 17:00 por NZD 8 por niño por opción y día. Almuerzo NZD 10.80 por niño y día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://form.jotform.com/hamiltonnorth/central-dec
+Se ha comprobado: 2026-11-07
+
+### CP1753-20261218-20261218-day-2026-12-18 · Bricks 4 Kidz · Hamilton Central · Un día · 2026-12-18–2026-12-18
+
+Lugar: Nueva Zelandia Waikato Sport Fishing Club · 499 Grantham Street · Hamilton Central
+Fecha: 2026-12-18 — 2026-12-18
+edad: 5–14
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Suplementos: Llegada desde las 08:00 y recogida hasta las 17:00 por NZD 8 por niño por opción y día. Almuerzo NZD 10.80 por niño y día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://form.jotform.com/hamiltonnorth/central-dec
+Se ha comprobado: 2026-11-07
+
+### CP1753-20270118-20270122-week1 · Bricks 4 Kidz · Hamilton Central · Semana completa · 2027-01-18–2027-01-22
+
+Lugar: Nueva Zelandia Waikato Sport Fishing Club · 499 Grantham Street · Hamilton Central
+Fecha: 2027-01-18 国 2027-01-22
+edad: 5–14
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · NZD 360 por niño por paquete semanal. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Suplementos: Llegada desde las 08:00 y recogida hasta las 17:00 por NZD 8 por niño por opción y día. Almuerzo NZD 10.80 por niño y día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://form.jotform.com/hamiltonnorth/hp-city-week1
+Se ha comprobado: 2026-11-07
+
+### CP1753-20270118-20270118-day-2027-01-18 · Bricks 4 Kidz · Hamilton Central · Un día · 2027-01-18–2027-01-18
+
+Lugar: Nueva Zelandia Waikato Sport Fishing Club · 499 Grantham Street · Hamilton Central
+Fecha: 2027-01-18 国 2027-01-18
+edad: 5–14
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Suplementos: Llegada desde las 08:00 y recogida hasta las 17:00 por NZD 8 por niño por opción y día. Almuerzo NZD 10.80 por niño y día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://form.jotform.com/hamiltonnorth/hp-city-week1
+Se ha comprobado: 2026-11-07
+
+### CP1753-20270119-20270119-day-2027-01-19 · Bricks 4 Kidz · Hamilton Central · Un día · 2027-01-19–2027-01-19
+
+Lugar: Nueva Zelandia Waikato Sport Fishing Club · 499 Grantham Street · Hamilton Central
+Fecha: 2027-01-19 — 2027-01-19
+edad: 5–14
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Suplementos: Llegada desde las 08:00 y recogida hasta las 17:00 por NZD 8 por niño por opción y día. Almuerzo NZD 10.80 por niño y día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://form.jotform.com/hamiltonnorth/hp-city-week1
+Se ha comprobado: 2026-11-07
+
+### CP1753-20270120-20270120-day-2027-01-20 · Bricks 4 Kidz · Hamilton Central · Un día · 2027-01-20–2027-01-20
+
+Lugar: Nueva Zelandia Waikato Sport Fishing Club · 499 Grantham Street · Hamilton Central
+Fecha: 2027-01-20 — 2027-01-20
+edad: 5–14
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Suplementos: Llegada desde las 08:00 y recogida hasta las 17:00 por NZD 8 por niño por opción y día. Almuerzo NZD 10.80 por niño y día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://form.jotform.com/hamiltonnorth/hp-city-week1
+Se ha comprobado: 2026-11-07
+
+### CP1753-20270121-20270121-day-2027-01-21 · Bricks 4 Kidz · Hamilton Central · Un día · 2027-01-21–2027-01-21
+
+Lugar: Nueva Zelandia Waikato Sport Fishing Club · 499 Grantham Street · Hamilton Central
+Fecha: 2027-01-21 — 2027-01-21
+edad: 5–14
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Suplementos: Llegada desde las 08:00 y recogida hasta las 17:00 por NZD 8 por niño por opción y día. Almuerzo NZD 10.80 por niño y día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://form.jotform.com/hamiltonnorth/hp-city-week1
+Se ha comprobado: 2026-11-07
+
+### CP1753-20270122-20270122-day-2027-01-22 · Bricks 4 Kidz · Hamilton Central · Un día · 2027-01-22–2027-01-22
+
+Lugar: Nueva Zelandia Waikato Sport Fishing Club · 499 Grantham Street · Hamilton Central
+Fecha: 2027-01-22 — 2027-01-22
+edad: 5–14
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Suplementos: Llegada desde las 08:00 y recogida hasta las 17:00 por NZD 8 por niño por opción y día. Almuerzo NZD 10.80 por niño y día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://form.jotform.com/hamiltonnorth/hp-city-week1
+Se ha comprobado: 2026-11-07
+
+### CP1753-20270125-20270129-week2 · Bricks 4 Kidz · Hamilton Central · Semana completa · 2027-01-25–2027-01-29
+
+Lugar: Nueva Zelandia Waikato Sport Fishing Club · 499 Grantham Street · Hamilton Central
+Fecha: 2027-01-25 国 2027-01-29
+edad: 5–14
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · NZD 330 por niño por paquete semanal. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Suplementos: Llegada desde las 08:00 y recogida hasta las 17:00 por NZD 8 por niño por opción y día. Almuerzo NZD 10.80 por niño y día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://form.jotform.com/hamiltonnorth/hp-city-week2
+Se ha comprobado: 2026-11-07
+
+### CP1753-20270125-20270125-day-2027-01-25 · Bricks 4 Kidz · Hamilton Central · Un día · 2027-01-25–2027-01-25
+
+Lugar: Nueva Zelandia Waikato Sport Fishing Club · 499 Grantham Street · Hamilton Central
+Fecha: 2027-01-25 ♫ 2027-01-25
+edad: 5–14
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Suplementos: Llegada desde las 08:00 y recogida hasta las 17:00 por NZD 8 por niño por opción y día. Almuerzo NZD 10.80 por niño y día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://form.jotform.com/hamiltonnorth/hp-city-week2
+Se ha comprobado: 2026-11-07
+
+### CP1753-20270126-20270126-day-2027-01-26 · Bricks 4 Kidz · Hamilton Central · Un día · 2027-01-26–2027-01-26
+
+Lugar: Nueva Zelandia Waikato Sport Fishing Club · 499 Grantham Street · Hamilton Central
+Fecha: 2027-01-26 — 2027-01-26
+edad: 5–14
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Suplementos: Llegada desde las 08:00 y recogida hasta las 17:00 por NZD 8 por niño por opción y día. Almuerzo NZD 10.80 por niño y día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://form.jotform.com/hamiltonnorth/hp-city-week2
+Se ha comprobado: 2026-11-07
+
+### CP1753-20270127-20270127-day-2027-01-27 · Bricks 4 Kidz · Hamilton Central · Un día · 2027-01-27–2027-01-27
+
+Lugar: Nueva Zelandia Waikato Sport Fishing Club · 499 Grantham Street · Hamilton Central
+Fecha: 2027-01-27 — 2027-01-27
+edad: 5–14
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Suplementos: Llegada desde las 08:00 y recogida hasta las 17:00 por NZD 8 por niño por opción y día. Almuerzo NZD 10.80 por niño y día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://form.jotform.com/hamiltonnorth/hp-city-week2
+Se ha comprobado: 2026-11-07
+
+### CP1753-20270128-20270128-day-2027-01-28 · Bricks 4 Kidz · Hamilton Central · Un día · 2027-01-28–2027-01-28
+
+Lugar: Nueva Zelandia Waikato Sport Fishing Club · 499 Grantham Street · Hamilton Central
+Fecha: 2027-01-28 — 2027-01-28
+edad: 5–14
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Suplementos: Llegada desde las 08:00 y recogida hasta las 17:00 por NZD 8 por niño por opción y día. Almuerzo NZD 10.80 por niño y día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://form.jotform.com/hamiltonnorth/hp-city-week2
+Se ha comprobado: 2026-11-07
+
+### CP1753-20270129-20270129-day-2027-01-29 · Bricks 4 Kidz · Hamilton Central · Un día · 2027-01-29–2027-01-29
+
+Lugar: Nueva Zelandia Waikato Sport Fishing Club · 499 Grantham Street · Hamilton Central
+Fecha: 2027-01-29 — 2027-01-29
+edad: 5–14
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Suplementos: Llegada desde las 08:00 y recogida hasta las 17:00 por NZD 8 por niño por opción y día. Almuerzo NZD 10.80 por niño y día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://form.jotform.com/hamiltonnorth/hp-city-week2
+Se ha comprobado: 2026-11-07
+
+### CP1754-20261216-20261216-day-2026-12-16 · Bricks 4 Kidz · Rototuna · Un día · 2026-12-16–2026-12-16
+
+Lugar: Nueva Zelandia Rototuna La escuela secundaria · 56 Kimbrae Drive · Rototuna North
+Fecha: 2026-12-16 — 2026-12-16
+edad: 5–14
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Suplementos: Llegada desde las 08:00 y recogida hasta las 17:00 por NZD 8 por niño por opción y día. Almuerzo NZD 10.80 por niño y día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://form.jotform.com/hamiltonnorth/Rototuna-dec
+Se ha comprobado: 2026-11-07
+
+### CP1754-20261217-20261217-day-2026-12-17 · Bricks 4 Kidz · Rototuna · Un día · 2026-12-17–2026-12-17
+
+Lugar: Nueva Zelandia Rototuna La escuela secundaria · 56 Kimbrae Drive · Rototuna North
+Fecha: 2026-12-17 — 2026-12-17
+edad: 5–14
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Suplementos: Llegada desde las 08:00 y recogida hasta las 17:00 por NZD 8 por niño por opción y día. Almuerzo NZD 10.80 por niño y día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://form.jotform.com/hamiltonnorth/Rototuna-dec
+Se ha comprobado: 2026-11-07
+
+### CP1754-20261218-20261218-day-2026-12-18 · Bricks 4 Kidz · Rototuna · Un día · 2026-12-18–2026-12-18
+
+Lugar: Nueva Zelandia Rototuna La escuela secundaria · 56 Kimbrae Drive · Rototuna North
+Fecha: 2026-12-18 — 2026-12-18
+edad: 5–14
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Suplementos: Llegada desde las 08:00 y recogida hasta las 17:00 por NZD 8 por niño por opción y día. Almuerzo NZD 10.80 por niño y día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://form.jotform.com/hamiltonnorth/Rototuna-dec
+Se ha comprobado: 2026-11-07
+
+### CP1754-20270118-20270122-week1 · Bricks 4 Kidz · Rototuna · Semana completa · 2027-01-18–2027-01-22
+
+Lugar: Nueva Zelandia Rototuna La escuela secundaria · 56 Kimbrae Drive · Rototuna North
+Fecha: 2027-01-18 国 2027-01-22
+edad: 5–14
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · NZD 330 por niño por paquete semanal. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Suplementos: Llegada desde las 08:00 y recogida hasta las 17:00 por NZD 8 por niño por opción y día. Almuerzo NZD 10.80 por niño y día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://form.jotform.com/hamiltonnorth/hp-rototuna-week1
+Se ha comprobado: 2026-11-07
+
+### CP1754-20270118-20270118-day-2027-01-18 · Bricks 4 Kidz · Rototuna · Un día · 2027-01-18–2027-01-18
+
+Lugar: Nueva Zelandia Rototuna La escuela secundaria · 56 Kimbrae Drive · Rototuna North
+Fecha: 2027-01-18 国 2027-01-18
+edad: 5–14
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Suplementos: Llegada desde las 08:00 y recogida hasta las 17:00 por NZD 8 por niño por opción y día. Almuerzo NZD 10.80 por niño y día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://form.jotform.com/hamiltonnorth/hp-rototuna-week1
+Se ha comprobado: 2026-11-07
+
+### CP1754-20270119-20270119-day-2027-01-19 · Bricks 4 Kidz · Rototuna · Un día · 2027-01-19–2027-01-19
+
+Lugar: Nueva Zelandia Rototuna La escuela secundaria · 56 Kimbrae Drive · Rototuna North
+Fecha: 2027-01-19 — 2027-01-19
+edad: 5–14
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Suplementos: Llegada desde las 08:00 y recogida hasta las 17:00 por NZD 8 por niño por opción y día. Almuerzo NZD 10.80 por niño y día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://form.jotform.com/hamiltonnorth/hp-rototuna-week1
+Se ha comprobado: 2026-11-07
+
+### CP1754-20270120-20270120-day-2027-01-20 · Bricks 4 Kidz · Rototuna · Un día · 2027-01-20–2027-01-20
+
+Lugar: Nueva Zelandia Rototuna La escuela secundaria · 56 Kimbrae Drive · Rototuna North
+Fecha: 2027-01-20 — 2027-01-20
+edad: 5–14
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Suplementos: Llegada desde las 08:00 y recogida hasta las 17:00 por NZD 8 por niño por opción y día. Almuerzo NZD 10.80 por niño y día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://form.jotform.com/hamiltonnorth/hp-rototuna-week1
+Se ha comprobado: 2026-11-07
+
+### CP1754-20270121-20270121-day-2027-01-21 · Bricks 4 Kidz · Rototuna · Un día · 2027-01-21–2027-01-21
+
+Lugar: Nueva Zelandia Rototuna La escuela secundaria · 56 Kimbrae Drive · Rototuna North
+Fecha: 2027-01-21 — 2027-01-21
+edad: 5–14
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Suplementos: Llegada desde las 08:00 y recogida hasta las 17:00 por NZD 8 por niño por opción y día. Almuerzo NZD 10.80 por niño y día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://form.jotform.com/hamiltonnorth/hp-rototuna-week1
+Se ha comprobado: 2026-11-07
+
+### CP1754-20270122-20270122-day-2027-01-22 · Bricks 4 Kidz · Rototuna · Un día · 2027-01-22–2027-01-22
+
+Lugar: Nueva Zelandia Rototuna La escuela secundaria · 56 Kimbrae Drive · Rototuna North
+Fecha: 2027-01-22 — 2027-01-22
+edad: 5–14
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Suplementos: Llegada desde las 08:00 y recogida hasta las 17:00 por NZD 8 por niño por opción y día. Almuerzo NZD 10.80 por niño y día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://form.jotform.com/hamiltonnorth/hp-rototuna-week1
+Se ha comprobado: 2026-11-07
+
+### CP1754-20270125-20270129-week2 · Bricks 4 Kidz · Rototuna · Semana completa · 2027-01-25–2027-01-29
+
+Lugar: Nueva Zelandia Rototuna La escuela secundaria · 56 Kimbrae Drive · Rototuna North
+Fecha: 2027-01-25 国 2027-01-29
+edad: 5–14
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · NZD 330 por niño por paquete semanal. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Suplementos: Llegada desde las 08:00 y recogida hasta las 17:00 por NZD 8 por niño por opción y día. Almuerzo NZD 10.80 por niño y día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://form.jotform.com/hamiltonnorth/hp-rototuna-week2
+Se ha comprobado: 2026-11-07
+
+### CP1754-20270125-20270125-day-2027-01-25 · Bricks 4 Kidz · Rototuna · Un día · 2027-01-25–2027-01-25
+
+Lugar: Nueva Zelandia Rototuna La escuela secundaria · 56 Kimbrae Drive · Rototuna North
+Fecha: 2027-01-25 ♫ 2027-01-25
+edad: 5–14
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Suplementos: Llegada desde las 08:00 y recogida hasta las 17:00 por NZD 8 por niño por opción y día. Almuerzo NZD 10.80 por niño y día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://form.jotform.com/hamiltonnorth/hp-rototuna-week2
+Se ha comprobado: 2026-11-07
+
+### CP1754-20270126-20270126-day-2027-01-26 · Bricks 4 Kidz · Rototuna · Un día · 2027-01-26–2027-01-26
+
+Lugar: Nueva Zelandia Rototuna La escuela secundaria · 56 Kimbrae Drive · Rototuna North
+Fecha: 2027-01-26 — 2027-01-26
+edad: 5–14
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Suplementos: Llegada desde las 08:00 y recogida hasta las 17:00 por NZD 8 por niño por opción y día. Almuerzo NZD 10.80 por niño y día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://form.jotform.com/hamiltonnorth/hp-rototuna-week2
+Se ha comprobado: 2026-11-07
+
+### CP1754-20270127-20270127-day-2027-01-27 · Bricks 4 Kidz · Rototuna · Un día · 2027-01-27–2027-01-27
+
+Lugar: Nueva Zelandia Rototuna La escuela secundaria · 56 Kimbrae Drive · Rototuna North
+Fecha: 2027-01-27 — 2027-01-27
+edad: 5–14
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Suplementos: Llegada desde las 08:00 y recogida hasta las 17:00 por NZD 8 por niño por opción y día. Almuerzo NZD 10.80 por niño y día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://form.jotform.com/hamiltonnorth/hp-rototuna-week2
+Se ha comprobado: 2026-11-07
+
+### CP1754-20270128-20270128-day-2027-01-28 · Bricks 4 Kidz · Rototuna · Un día · 2027-01-28–2027-01-28
+
+Lugar: Nueva Zelandia Rototuna La escuela secundaria · 56 Kimbrae Drive · Rototuna North
+Fecha: 2027-01-28 — 2027-01-28
+edad: 5–14
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Suplementos: Llegada desde las 08:00 y recogida hasta las 17:00 por NZD 8 por niño por opción y día. Almuerzo NZD 10.80 por niño y día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://form.jotform.com/hamiltonnorth/hp-rototuna-week2
+Se ha comprobado: 2026-11-07
+
+### CP1754-20270129-20270129-day-2027-01-29 · Bricks 4 Kidz · Rototuna · Un día · 2027-01-29–2027-01-29
+
+Lugar: Nueva Zelandia Rototuna La escuela secundaria · 56 Kimbrae Drive · Rototuna North
+Fecha: 2027-01-29 — 2027-01-29
+edad: 5–14
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Suplementos: Llegada desde las 08:00 y recogida hasta las 17:00 por NZD 8 por niño por opción y día. Almuerzo NZD 10.80 por niño y día. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://form.jotform.com/hamiltonnorth/hp-rototuna-week2
 Se ha comprobado: 2026-11-07
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

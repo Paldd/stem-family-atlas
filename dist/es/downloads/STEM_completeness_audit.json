@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 7963,
-    "competition_cards": 3271,
-    "event_cards": 380,
-    "camp_cards": 4312,
+    "cards": 8003,
+    "competition_cards": 3272,
+    "event_cards": 385,
+    "camp_cards": 4346,
     "league_profiles": 270,
-    "major_exhibition_cards": 292,
+    "major_exhibition_cards": 297,
     "vex_cards": 518,
     "countries_with_records": 159,
     "fully_audited_countries": 0
@@ -104,12 +104,12 @@
       "regions": [
         "Oceanía"
       ],
-      "total": 285,
+      "total": 325,
       "countries_with_records": 6,
-      "competitions": 128,
-      "events": 23,
-      "major_exhibitions": 19,
-      "camps": 134,
+      "competitions": 129,
+      "events": 28,
+      "major_exhibitions": 24,
+      "camps": 168,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido fijian tourist camp, nz días de estudio reales, australian national game/video contests y archivo escolar cerrado de french polynesia. se quedan lenguas / foreign admission camps, un calendario dinámico RCJA, otras islas y torneos locales."
     }
@@ -10370,6 +10370,61 @@
       "new": false
     },
     {
+      "id": "E381",
+      "name": "iSTREAM Australia 2027 · Gaming & Creator Expo",
+      "country": "Australia",
+      "region": "Oceanía",
+      "start": "2027-01-23",
+      "end": "2027-01-24",
+      "visitor_policy": "family",
+      "source": "https://www.istreamaustralia.com/faqs",
+      "new": false
+    },
+    {
+      "id": "E382",
+      "name": "Brickvention 2027 · Public Expo",
+      "country": "Australia",
+      "region": "Oceanía",
+      "start": "2027-01-16",
+      "end": "2027-01-17",
+      "visitor_policy": "family",
+      "source": "https://events.humanitix.com/brickvention2027",
+      "new": false
+    },
+    {
+      "id": "E383",
+      "name": "INTERFACEXpo 2027 · Lincoln / Christchurch",
+      "country": "Nueva Zelanda",
+      "region": "Oceanía",
+      "start": "2027-05-13",
+      "end": "2027-05-13",
+      "visitor_policy": "confirm_children",
+      "source": "https://interfacexpo.nz/",
+      "new": false
+    },
+    {
+      "id": "E384",
+      "name": "INTERFACEXpo 2027 · Rotorua",
+      "country": "Nueva Zelanda",
+      "region": "Oceanía",
+      "start": "2027-05-18",
+      "end": "2027-05-18",
+      "visitor_policy": "confirm_children",
+      "source": "https://interfacexpo.nz/",
+      "new": false
+    },
+    {
+      "id": "E385",
+      "name": "INTERFACEXpo 2027 · Auckland",
+      "country": "Nueva Zelanda",
+      "region": "Oceanía",
+      "start": "2027-05-20",
+      "end": "2027-05-20",
+      "visitor_policy": "confirm_children",
+      "source": "https://interfacexpo.nz/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -12787,8 +12842,8 @@
       }
     ],
     "counts": {
-      "records": 4312,
-      "holiday": 4037,
+      "records": 4346,
+      "holiday": 4071,
       "regular": 120,
       "self_paced_materials": 2,
       "boarding": 1036,

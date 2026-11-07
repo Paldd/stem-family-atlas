@@ -1,0 +1,65 @@
+{
+  "version": 226,
+  "checked": "2026-11-07",
+  "previous_goal_turn_classification": "progress",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "new_competitions": 1,
+  "new_exhibitions": 5,
+  "new_camp_dossiers": 4,
+  "new_dated_camp_variants": 34,
+  "new_budget_offers": 7,
+  "new_events": [
+    "E381",
+    "E382",
+    "E383",
+    "E384",
+    "E385",
+    "C3273"
+  ],
+  "updated_camp_dossiers": [
+    "CP1282",
+    "CP1681",
+    "CP1682",
+    "CP1683",
+    "CP1684"
+  ],
+  "programme_ids": {
+    "young-engineers-inner-sydney-jan2027": "CP1751",
+    "young-engineers-melbourne-south-jan2027": "CP1752",
+    "bricks4kidz-hamilton-city-2026-27": "CP1753",
+    "bricks4kidz-hamilton-rototuna-2026-27": "CP1754"
+  },
+  "source_requests": 64,
+  "rechecked_unchanged": [
+    "CP1283",
+    "CP1284",
+    "CP1285",
+    "CP1286",
+    "CP1287",
+    "CP1288",
+    "C385",
+    "C3192",
+    "C3197",
+    "C1857",
+    "C083",
+    "E117",
+    "E363",
+    "E340",
+    "E341",
+    "E342",
+    "E343",
+    "E344",
+    "E345"
+  ],
+  "limits": [
+    "TryBooking public January session lists exposed five sets of booking options. Section-level GET returned HTTP 412, so SK prices are still the event-wide range and not per activity.",
+    "Hills Sydney lists twelve active booking alternatives. Daily activity hours follow organiser and single-day prices; 08:59 package metadata is not a teaching time. Inner Sydney current ranges match venue descriptions and NSW voucher amounts.",
+    "Melbourne South advertises a broad 11–22 January booking window, with stale September details. No precise attendance or site calendar published.",
+    "STEMBuddy EV3 11–12 January is independently corroborated with AUD 250. Other booking date and age labels conflict with prose. Preserve original profile IDs and leave disputed days outside calendar.",
+    "Hamilton official pages and six public selectors corroborate two venues, 26 day options and four January week packages. NZD 69 per day, week 330/360. Food and additional care priced separately. Teaching language remains unverified.",
+    "iSTREAM dates confirmed with published child policy. Use Oztix rates and flag venue conflict; opening time differs. Brickvention active seller supersedes earlier promotional from-price and assigns a timed admission.",
+    "INTERFACEXpo is professional educational technology, with family entry unknown. FUSE is a national school interest route, date and age pending.",
+    "C083 still describes Guanajuato 21–22 May as tentative. Kiwibots, FIRST Australia, RoboCup Geelong and Armageddon have retained identities. Taipei Game Show child ticket page still carries 2026 terms."
+  ]
+}

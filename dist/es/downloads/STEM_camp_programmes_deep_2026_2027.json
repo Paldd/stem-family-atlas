@@ -30,13 +30,13 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1750,
+    "dossiers": 1754,
     "countries": 102,
     "swiss": 137,
     "by_status": {
-      "published_2026_27": 253,
-      "published_2027": 494,
-      "partial_2027": 134,
+      "published_2026_27": 255,
+      "published_2027": 495,
+      "partial_2027": 135,
       "next_unannounced": 352,
       "published_2026": 307,
       "partial_2026_27": 28,
@@ -48,12 +48,12 @@
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2488
+    "source_urls": 2501
   },
   "countries": [
     {
       "country": "Australia",
-      "count": 21
+      "count": 23
     },
     {
       "country": "Austria",
@@ -289,7 +289,7 @@
     },
     {
       "country": "Nueva Zelanda",
-      "count": 16
+      "count": 18
     },
     {
       "country": "Nueva Caledonia",
@@ -205987,7 +205987,7 @@
       "language_evidence_role": "unconfirmed",
       "timing": {
         "status": "published_2026_27",
-        "label": "Cuatro campus exactos de dos días: 11–12, 13–14, 18–19, 20–21 de enero de 2027; también opción de un día. Ventana publicitaria hasta 22 de enero no prueba clase el 22. Drop-off 08:45–09:00, pickup 14:45–15:00; calendario de jornada principal 09–15.",
+        "label": "Cuatro campus exactos de dos días: 11–12, 13–14, 18–19, 20–21 de enero de 2027; también opción de un día. Ventana publicitaria hasta 22 de enero no prueba clase el 22. Drop-off 08:45–09:00, pickup 14:45–15:00; calendario de jornada principal 09–15. La oferta de reservas confirma 12 opciones en 4 escuelas. Tarifa de un día AUD 120, paquete de 2 días AUD 215 por niño. Confirmar plazas y comisiones.",
         "sessions": [
           [
             "2027-01-11",
@@ -206073,7 +206073,11 @@
                 "start_utc": "2027-01-11T22:00:00Z",
                 "end_utc": "2027-01-12T04:00:00Z"
               }
-            ]
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            }
           },
           {
             "start": "2027-01-11",
@@ -206099,7 +206103,11 @@
                 "start_utc": "2027-01-10T22:00:00Z",
                 "end_utc": "2027-01-11T04:00:00Z"
               }
-            ]
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            }
           },
           {
             "start": "2027-01-12",
@@ -206125,7 +206133,11 @@
                 "start_utc": "2027-01-11T22:00:00Z",
                 "end_utc": "2027-01-12T04:00:00Z"
               }
-            ]
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            }
           },
           {
             "start": "2027-01-13",
@@ -206161,7 +206173,11 @@
                 "start_utc": "2027-01-13T22:00:00Z",
                 "end_utc": "2027-01-14T04:00:00Z"
               }
-            ]
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            }
           },
           {
             "start": "2027-01-13",
@@ -206187,7 +206203,11 @@
                 "start_utc": "2027-01-12T22:00:00Z",
                 "end_utc": "2027-01-13T04:00:00Z"
               }
-            ]
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            }
           },
           {
             "start": "2027-01-14",
@@ -206213,7 +206233,11 @@
                 "start_utc": "2027-01-13T22:00:00Z",
                 "end_utc": "2027-01-14T04:00:00Z"
               }
-            ]
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            }
           },
           {
             "start": "2027-01-18",
@@ -206249,7 +206273,11 @@
                 "start_utc": "2027-01-18T22:00:00Z",
                 "end_utc": "2027-01-19T04:00:00Z"
               }
-            ]
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            }
           },
           {
             "start": "2027-01-18",
@@ -206275,7 +206303,11 @@
                 "start_utc": "2027-01-17T22:00:00Z",
                 "end_utc": "2027-01-18T04:00:00Z"
               }
-            ]
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            }
           },
           {
             "start": "2027-01-19",
@@ -206301,7 +206333,11 @@
                 "start_utc": "2027-01-18T22:00:00Z",
                 "end_utc": "2027-01-19T04:00:00Z"
               }
-            ]
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            }
           },
           {
             "start": "2027-01-20",
@@ -206337,7 +206373,11 @@
                 "start_utc": "2027-01-20T22:00:00Z",
                 "end_utc": "2027-01-21T04:00:00Z"
               }
-            ]
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            }
           },
           {
             "start": "2027-01-20",
@@ -206363,7 +206403,11 @@
                 "start_utc": "2027-01-19T22:00:00Z",
                 "end_utc": "2027-01-20T04:00:00Z"
               }
-            ]
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            }
           },
           {
             "start": "2027-01-21",
@@ -206389,7 +206433,11 @@
                 "start_utc": "2027-01-20T22:00:00Z",
                 "end_utc": "2027-01-21T04:00:00Z"
               }
-            ]
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            }
           }
         ],
         "variant_keyed": true,
@@ -206426,9 +206474,14 @@
           "title": "January 2027 · organiser listing and four actual school venues",
           "url": "https://www.trybooking.com/au/event/1661016",
           "checked": "2026-11-05"
+        },
+        {
+          "url": "https://www.trybooking.com/au/apiv2/events/1661016/sessions?month=1&year=2027",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
         }
       ],
-      "checked": "2026-11-05",
+      "checked": "2026-11-07",
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -276209,13 +276262,13 @@
       "formats": [
         "day"
       ],
-      "age": "Years 1–8, admisión por grado escolar.",
+      "age": "La oferta indica desde 7 años y la descripción indica Years 1–8.",
       "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
       "confirmed_instruction_languages": [],
       "programme": "LEGO EV3, microdrones programables, sensores y misión autónoma de rescate.",
       "timing": {
         "status": "published_2027",
-        "label": "09:00–14:00. Confirmar grado, dirección, idioma, equipo y precio final.",
+        "label": "Fechas coincidentes: 11–12 de enero de 2027, 09:00–14:00. Confirmar edad al inicio y curso escolar.",
         "sessions": [
           [
             "2027-01-11",
@@ -276227,18 +276280,18 @@
             "start": "2027-01-11",
             "end": "2027-01-12",
             "label": "EV3 Robotics & Autonomous Drones",
-            "source": "https://www.trybooking.com/au/event/1660294",
-            "price": "La página muestra AUD 250–375 para distintas opciones. Confirmar tarifa de este módulo.",
+            "source": "https://www.trybooking.com/au/apiv2/events/1660294/sessions?month=1&year=2027",
+            "price": "AUD 250 en la opción actual. Confirmar posibles comisiones.",
             "place": "STEMBuddy · Narre Warren South VIC",
-            "age": "Years 1–8, admisión por grado escolar.",
+            "age": "La oferta indica desde 7 años y la descripción indica Years 1–8.",
             "family_fit": {
               "matvey": {
                 "status": "conditional",
-                "detail": "Condicional por grado escolar. Confirmar equivalencia a Year 1 y plaza."
+                "detail": "Condicional. Confirmar días reales, edad y curso escolar del grupo antes de pagar."
               },
               "oscar": {
                 "status": "conditional",
-                "detail": "Condicional por grado escolar. Confirmar equivalencia a Year 1 y plaza."
+                "detail": "Condicional. Confirmar días reales, edad y curso escolar del grupo antes de pagar."
               }
             },
             "date_scope": "session_days",
@@ -276271,9 +276324,9 @@
       "price": {
         "year": 2027,
         "currency": "AUD",
-        "amount": null,
+        "amount": 250,
         "unit": "course",
-        "label": "La página muestra AUD 250–375 para distintas opciones. Confirmar tarifa de este módulo.",
+        "label": "AUD 250 en la opción actual. Confirmar posibles comisiones.",
         "included": "LEGO EV3, microdrones programables, sensores y misión autónoma de rescate.",
         "extras": "Precio sin publicar.",
         "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
@@ -276282,21 +276335,27 @@
       "family_fit": {
         "matvey": {
           "status": "conditional",
-          "detail": "Condicional por grado escolar. Confirmar equivalencia a Year 1 y plaza."
+          "detail": "Condicional. Confirmar días reales, edad y curso escolar del grupo antes de pagar."
         },
         "oscar": {
           "status": "conditional",
-          "detail": "Condicional por grado escolar. Confirmar equivalencia a Year 1 y plaza."
+          "detail": "Condicional. Confirmar días reales, edad y curso escolar del grupo antes de pagar."
         }
       },
       "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
       "shortlist": [],
       "questions": [
+        "Condicional. Confirmar días reales, edad y curso escolar del grupo antes de pagar.",
         "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
       ],
       "sources": [
         {
           "url": "https://www.trybooking.com/au/event/1660294",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.trybooking.com/au/apiv2/events/1660294/sessions?month=1&year=2027",
           "title": "Página oficial del organizador",
           "checked": "2026-11-07"
         }
@@ -276334,26 +276393,56 @@
       "formats": [
         "day"
       ],
-      "age": "Years 3 en adelante.",
+      "age": "La oferta indica desde 10 años y la descripción indica Years 3+.",
       "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
       "confirmed_instruction_languages": [],
       "programme": "Montaje de PC, Ethernet, diagnóstico y ejercicio Capture The Flag.",
       "timing": {
         "status": "partial_2027",
-        "label": "Las fechas de la descripción y de la inscripción difieren. Este módulo requiere confirmar el horario.",
-        "sessions": [],
-        "session_details": [],
+        "label": "Oferta de reservas del 13–15 de enero de 2027, descripción 13 y 17–18 de enero. Confirmar días reales.",
+        "sessions": [
+          [
+            "2027-01-13",
+            "2027-01-15"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-13",
+            "end": "2027-01-15",
+            "label": "Oferta de reservas del 13–15 de enero de 2027, descripción 13 y 17–18 de enero. Confirmar días reales.",
+            "source": "https://www.trybooking.com/au/apiv2/events/1660294/sessions?month=1&year=2027",
+            "price": "AUD 375 en la opción actual. Confirmar posibles comisiones.",
+            "place": "STEMBuddy · Narre Warren South VIC",
+            "age": "La oferta indica desde 10 años y la descripción indica Years 3+.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Condicional. Confirmar días reales, edad y curso escolar del grupo antes de pagar."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Por debajo de la edad mínima en la oferta de reservas."
+              }
+            },
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar disponibilidad y admisión."
+            },
+            "date_scope": "camp_window"
+          }
+        ],
         "announced_months": [
           "2027-01"
         ],
-        "precision": "published_sessions"
+        "precision": "season_window"
       },
       "price": {
         "year": 2027,
         "currency": "AUD",
-        "amount": null,
+        "amount": 375,
         "unit": "course",
-        "label": "La página muestra AUD 250–375 para distintas opciones. Confirmar tarifa de este módulo.",
+        "label": "AUD 375 en la opción actual. Confirmar posibles comisiones.",
         "included": "Montaje de PC, Ethernet, diagnóstico y ejercicio Capture The Flag.",
         "extras": "Precio sin publicar.",
         "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
@@ -276362,22 +276451,27 @@
       "family_fit": {
         "matvey": {
           "status": "conditional",
-          "detail": "Condicional por grado escolar. Confirmar equivalencia a Year 3 y plaza."
+          "detail": "Condicional. Confirmar días reales, edad y curso escolar del grupo antes de pagar."
         },
         "oscar": {
           "status": "later",
-          "detail": "Más adelante. El módulo está dirigido a Year 3 en adelante."
+          "detail": "Por debajo de la edad mínima en la oferta de reservas."
         }
       },
       "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
       "shortlist": [],
       "questions": [
-        "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
-        "Las fechas de la descripción y de la inscripción difieren. Este módulo requiere confirmar el horario."
+        "Condicional. Confirmar días reales, edad y curso escolar del grupo antes de pagar.",
+        "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
       ],
       "sources": [
         {
           "url": "https://www.trybooking.com/au/event/1660294",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.trybooking.com/au/apiv2/events/1660294/sessions?month=1&year=2027",
           "title": "Página oficial del organizador",
           "checked": "2026-11-07"
         }
@@ -276390,7 +276484,14 @@
       "programme_type": "holiday_workshop",
       "catalog_participation": "holiday_workshop",
       "related_event_ids": [],
-      "calendar_links": []
+      "calendar_links": [
+        {
+          "start": "2027-01-13",
+          "end": "2027-01-15",
+          "kind": "season_window",
+          "event_ids": []
+        }
+      ]
     },
     {
       "id": "CP1683",
@@ -276407,26 +276508,56 @@
       "formats": [
         "day"
       ],
-      "age": "Years 3 en adelante.",
+      "age": "La oferta indica desde 9 años y la descripción indica Years 3+.",
       "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
       "confirmed_instruction_languages": [],
       "programme": "Visión artificial, Python, OpenCV y MediaPipe. Programación de control por gestos.",
       "timing": {
         "status": "partial_2027",
-        "label": "Las fechas de la descripción y de la inscripción difieren. Este módulo requiere confirmar el horario.",
-        "sessions": [],
-        "session_details": [],
+        "label": "Oferta de reservas del 18–19 de enero de 2027, descripción del 19–20 de enero. Confirmar días reales.",
+        "sessions": [
+          [
+            "2027-01-18",
+            "2027-01-19"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-18",
+            "end": "2027-01-19",
+            "label": "Oferta de reservas del 18–19 de enero de 2027, descripción del 19–20 de enero. Confirmar días reales.",
+            "source": "https://www.trybooking.com/au/apiv2/events/1660294/sessions?month=1&year=2027",
+            "price": "AUD 250 en la opción actual. Confirmar posibles comisiones.",
+            "place": "STEMBuddy · Narre Warren South VIC",
+            "age": "La oferta indica desde 9 años y la descripción indica Years 3+.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Condicional. Confirmar días reales, edad y curso escolar del grupo antes de pagar."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Por debajo de la edad mínima en la oferta de reservas."
+              }
+            },
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar disponibilidad y admisión."
+            },
+            "date_scope": "camp_window"
+          }
+        ],
         "announced_months": [
           "2027-01"
         ],
-        "precision": "published_sessions"
+        "precision": "season_window"
       },
       "price": {
         "year": 2027,
         "currency": "AUD",
-        "amount": null,
+        "amount": 250,
         "unit": "course",
-        "label": "La página muestra AUD 250–375 para distintas opciones. Confirmar tarifa de este módulo.",
+        "label": "AUD 250 en la opción actual. Confirmar posibles comisiones.",
         "included": "Visión artificial, Python, OpenCV y MediaPipe. Programación de control por gestos.",
         "extras": "Precio sin publicar.",
         "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
@@ -276435,22 +276566,27 @@
       "family_fit": {
         "matvey": {
           "status": "conditional",
-          "detail": "Condicional por grado escolar. Confirmar equivalencia a Year 3 y plaza."
+          "detail": "Condicional. Confirmar días reales, edad y curso escolar del grupo antes de pagar."
         },
         "oscar": {
           "status": "later",
-          "detail": "Más adelante. El módulo está dirigido a Year 3 en adelante."
+          "detail": "Por debajo de la edad mínima en la oferta de reservas."
         }
       },
       "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
       "shortlist": [],
       "questions": [
-        "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
-        "Las fechas de la descripción y de la inscripción difieren. Este módulo requiere confirmar el horario."
+        "Condicional. Confirmar días reales, edad y curso escolar del grupo antes de pagar.",
+        "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
       ],
       "sources": [
         {
           "url": "https://www.trybooking.com/au/event/1660294",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.trybooking.com/au/apiv2/events/1660294/sessions?month=1&year=2027",
           "title": "Página oficial del organizador",
           "checked": "2026-11-07"
         }
@@ -276463,7 +276599,14 @@
       "programme_type": "holiday_workshop",
       "catalog_participation": "holiday_workshop",
       "related_event_ids": [],
-      "calendar_links": []
+      "calendar_links": [
+        {
+          "start": "2027-01-18",
+          "end": "2027-01-19",
+          "kind": "season_window",
+          "event_ids": []
+        }
+      ]
     },
     {
       "id": "CP1684",
@@ -276479,26 +276622,56 @@
       "formats": [
         "day"
       ],
-      "age": "Years 5–10.",
+      "age": "La oferta indica desde 9 años y la descripción indica Years 5–10.",
       "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
       "confirmed_instruction_languages": [],
       "programme": "Microcontroladores, multímetros, actuadores y soldadura supervisada.",
       "timing": {
         "status": "partial_2027",
-        "label": "Las fechas de la descripción y de la inscripción difieren. Este módulo requiere confirmar el horario.",
-        "sessions": [],
-        "session_details": [],
+        "label": "Oferta de reservas del 20–22 de enero de 2027, descripción del 21–23 de enero. Confirmar días reales.",
+        "sessions": [
+          [
+            "2027-01-20",
+            "2027-01-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-20",
+            "end": "2027-01-22",
+            "label": "Oferta de reservas del 20–22 de enero de 2027, descripción del 21–23 de enero. Confirmar días reales.",
+            "source": "https://www.trybooking.com/au/apiv2/events/1660294/sessions?month=1&year=2027",
+            "price": "AUD 375 en la opción actual. Confirmar posibles comisiones.",
+            "place": "STEMBuddy · Narre Warren South VIC",
+            "age": "La oferta indica desde 9 años y la descripción indica Years 5–10.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Condicional. Confirmar días reales, edad y curso escolar del grupo antes de pagar."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Por debajo de la edad mínima en la oferta de reservas."
+              }
+            },
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar disponibilidad y admisión."
+            },
+            "date_scope": "camp_window"
+          }
+        ],
         "announced_months": [
           "2027-01"
         ],
-        "precision": "published_sessions"
+        "precision": "season_window"
       },
       "price": {
         "year": 2027,
         "currency": "AUD",
-        "amount": null,
+        "amount": 375,
         "unit": "course",
-        "label": "La página muestra AUD 250–375 para distintas opciones. Confirmar tarifa de este módulo.",
+        "label": "AUD 375 en la opción actual. Confirmar posibles comisiones.",
         "included": "Microcontroladores, multímetros, actuadores y soldadura supervisada.",
         "extras": "Precio sin publicar.",
         "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
@@ -276506,23 +276679,28 @@
       "accommodation": "Programa diurno sin alojamiento.",
       "family_fit": {
         "matvey": {
-          "status": "later",
-          "detail": "Más adelante. El módulo está dirigido a Years 5–10."
+          "status": "conditional",
+          "detail": "Condicional. Confirmar días reales, edad y curso escolar del grupo antes de pagar."
         },
         "oscar": {
           "status": "later",
-          "detail": "Más adelante. El módulo está dirigido a Years 5–10."
+          "detail": "Por debajo de la edad mínima en la oferta de reservas."
         }
       },
       "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
       "shortlist": [],
       "questions": [
-        "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
-        "Las fechas de la descripción y de la inscripción difieren. Este módulo requiere confirmar el horario."
+        "Condicional. Confirmar días reales, edad y curso escolar del grupo antes de pagar.",
+        "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
       ],
       "sources": [
         {
           "url": "https://www.trybooking.com/au/event/1660294",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.trybooking.com/au/apiv2/events/1660294/sessions?month=1&year=2027",
           "title": "Página oficial del organizador",
           "checked": "2026-11-07"
         }
@@ -276535,7 +276713,14 @@
       "programme_type": "holiday_workshop",
       "catalog_participation": "holiday_workshop",
       "related_event_ids": [],
-      "calendar_links": []
+      "calendar_links": [
+        {
+          "start": "2027-01-20",
+          "end": "2027-01-22",
+          "kind": "season_window",
+          "event_ids": []
+        }
+      ]
     },
     {
       "id": "CP1685",
@@ -292978,6 +293163,2092 @@
           ]
         }
       ]
+    },
+    {
+      "id": "CP1751",
+      "slug": "young-engineers-inner-sydney-jan2027",
+      "provider": "Young Engineers · Inner Sydney Robotics & Engineering",
+      "country": "Australia",
+      "iso": "AUS",
+      "place": "Inner Sydney · four venues",
+      "themes": [
+        "robotics",
+        "makers",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Kindergarten a Year 6. La organización confirma el grupo de edad.",
+      "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "confirmed_instruction_languages": [],
+      "programme": "Construcción de modelos LEGO motorizados, retos de mecánica, circuitos y movimiento. Grupos por edad y experiencia.",
+      "timing": {
+        "status": "published_2027",
+        "label": "12, 19 y 21 de enero de 2027 de 09:00 a 15:00. 14 de enero de 2027 de 09:30 a 12:00. Sede indicada por día.",
+        "sessions": [
+          [
+            "2027-01-12",
+            "2027-01-12"
+          ],
+          [
+            "2027-01-14",
+            "2027-01-14"
+          ],
+          [
+            "2027-01-19",
+            "2027-01-19"
+          ],
+          [
+            "2027-01-21",
+            "2027-01-21"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-12",
+            "end": "2027-01-12",
+            "label": "Rhodes Recreation Centre",
+            "source": "https://www.trybooking.com/au/apiv2/events/1674465/sessions?month=1&year=2027",
+            "price": "AUD 135 en la oferta sin bono, AUD 85 con un NSW Active & Creative Kids Voucher válido.",
+            "place": "Rhodes Recreation Centre",
+            "age": "Kindergarten a Year 6. La organización confirma el grupo de edad.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Condicional. Confirmar edad del grupo concreto y plaza."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Condicional. Confirmar edad del grupo concreto y plaza."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-12",
+                "topic": "Construcción de modelos LEGO motorizados, retos de mecánica, circuitos y movimiento. Grupos por edad y experiencia.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Australia/Sydney",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            },
+            "variant_key": "rhodes"
+          },
+          {
+            "start": "2027-01-14",
+            "end": "2027-01-14",
+            "label": "Chatswood Library",
+            "source": "https://www.trybooking.com/au/apiv2/events/1674465/sessions?month=1&year=2027",
+            "price": "AUD 75 en la oferta sin bono, AUD 25 con un NSW Active & Creative Kids Voucher válido.",
+            "place": "Chatswood Library",
+            "age": "Kindergarten a Year 6. La organización confirma el grupo de edad.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Condicional. Confirmar edad del grupo concreto y plaza."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Condicional. Confirmar edad del grupo concreto y plaza."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-14",
+                "topic": "Construcción de modelos LEGO motorizados, retos de mecánica, circuitos y movimiento. Grupos por edad y experiencia.",
+                "start_time": "09:30",
+                "end_time": "12:00",
+                "timezone": "Australia/Sydney",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            },
+            "variant_key": "chatswood"
+          },
+          {
+            "start": "2027-01-19",
+            "end": "2027-01-19",
+            "label": "North Ryde Anglican Church",
+            "source": "https://www.trybooking.com/au/apiv2/events/1674465/sessions?month=1&year=2027",
+            "price": "AUD 135 en la oferta sin bono, AUD 85 con un NSW Active & Creative Kids Voucher válido.",
+            "place": "North Ryde Anglican Church",
+            "age": "Kindergarten a Year 6. La organización confirma el grupo de edad.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Condicional. Confirmar edad del grupo concreto y plaza."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Condicional. Confirmar edad del grupo concreto y plaza."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-19",
+                "topic": "Construcción de modelos LEGO motorizados, retos de mecánica, circuitos y movimiento. Grupos por edad y experiencia.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Australia/Sydney",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            },
+            "variant_key": "north-ryde"
+          },
+          {
+            "start": "2027-01-21",
+            "end": "2027-01-21",
+            "label": "Boronia Park Uniting Church · Gladesville",
+            "source": "https://www.trybooking.com/au/apiv2/events/1674465/sessions?month=1&year=2027",
+            "price": "AUD 135 en la oferta sin bono, AUD 85 con un NSW Active & Creative Kids Voucher válido.",
+            "place": "Boronia Park Uniting Church · Gladesville",
+            "age": "Kindergarten a Year 6. La organización confirma el grupo de edad.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Condicional. Confirmar edad del grupo concreto y plaza."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Condicional. Confirmar edad del grupo concreto y plaza."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-21",
+                "topic": "Construcción de modelos LEGO motorizados, retos de mecánica, circuitos y movimiento. Grupos por edad y experiencia.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Australia/Sydney",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            },
+            "variant_key": "gladesville"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "AUD",
+        "amount": null,
+        "unit": "day",
+        "label": "AUD 75 en la oferta sin bono, AUD 25 con un NSW Active & Creative Kids Voucher válido. AUD 135 en la oferta sin bono, AUD 85 con un NSW Active & Creative Kids Voucher válido.",
+        "included": "Construcción de modelos LEGO motorizados, retos de mecánica, circuitos y movimiento. Grupos por edad y experiencia.",
+        "extras": "Llevar agua, almuerzo y meriendas. En jornada completa se puede llegar desde las 08:30.",
+        "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      },
+      "accommodation": "Programa diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Confirmar edad del grupo concreto y plaza."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional. Confirmar edad del grupo concreto y plaza."
+        }
+      },
+      "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      ],
+      "sources": [
+        {
+          "url": "https://www.trybooking.com/au/event/1674465",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.trybooking.com/au/apiv2/events/1674465/sessions?month=1&year=2027",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "open",
+        "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-12",
+          "end": "2027-01-12",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1751-20270112-20270112-rhodes"
+          ]
+        },
+        {
+          "start": "2027-01-14",
+          "end": "2027-01-14",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1751-20270114-20270114-chatswood"
+          ]
+        },
+        {
+          "start": "2027-01-19",
+          "end": "2027-01-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1751-20270119-20270119-north-ryde"
+          ]
+        },
+        {
+          "start": "2027-01-21",
+          "end": "2027-01-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1751-20270121-20270121-gladesville"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1752",
+      "slug": "young-engineers-melbourne-south-jan2027",
+      "provider": "Young Engineers · Melbourne South LEGO Robotics",
+      "country": "Australia",
+      "iso": "AUS",
+      "place": "Young Engineers · Melbourne South",
+      "themes": [
+        "robotics",
+        "coding",
+        "makers"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Desde Prep; el curso máximo difiere en la descripción.",
+      "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "confirmed_instruction_languages": [],
+      "programme": "Construcción de modelos LEGO motorizados, retos de mecánica, circuitos y movimiento. Grupos por edad y experiencia.",
+      "timing": {
+        "status": "partial_2027",
+        "label": "La oferta muestra el periodo general del 11–22 de enero de 2027 y rango AUD 125–309. La descripción contiene fechas de septiembre de 2026 y diferentes cursos máximos. Confirmar días, horas y sede.",
+        "sessions": [
+          [
+            "2027-01-11",
+            "2027-01-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-11",
+            "end": "2027-01-22",
+            "label": "La oferta muestra el periodo general del 11–22 de enero de 2027 y rango AUD 125–309. La descripción contiene fechas de septiembre de 2026 y diferentes cursos máximos. Confirmar días, horas y sede.",
+            "source": "https://www.trybooking.com/au/apiv2/events/1666748/sessions?month=1&year=2027",
+            "price": "La oferta muestra el periodo general del 11–22 de enero de 2027 y rango AUD 125–309. La descripción contiene fechas de septiembre de 2026 y diferentes cursos máximos. Confirmar días, horas y sede.",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar disponibilidad y admisión."
+            }
+          }
+        ],
+        "precision": "season_window"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "AUD",
+        "amount": null,
+        "unit": "programme",
+        "label": "La oferta muestra el periodo general del 11–22 de enero de 2027 y rango AUD 125–309. La descripción contiene fechas de septiembre de 2026 y diferentes cursos máximos. Confirmar días, horas y sede.",
+        "included": "Construcción de modelos LEGO motorizados, retos de mecánica, circuitos y movimiento. Grupos por edad y experiencia.",
+        "extras": "Precio sin publicar.",
+        "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      },
+      "accommodation": "Programa diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Confirmar edad del grupo concreto y plaza."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional. Confirmar edad del grupo concreto y plaza."
+        }
+      },
+      "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      ],
+      "sources": [
+        {
+          "url": "https://www.trybooking.com/au/event/1666748",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.trybooking.com/au/apiv2/events/1666748/sessions?month=1&year=2027",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-11",
+          "end": "2027-01-22",
+          "kind": "season_window",
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "id": "CP1753",
+      "slug": "bricks4kidz-hamilton-city-2026-27",
+      "provider": "Bricks 4 Kidz · Hamilton Central",
+      "country": "Nueva Zelanda",
+      "iso": "NZL",
+      "place": "Waikato Sport Fishing Club · 499 Grantham Street · Hamilton Central",
+      "themes": [
+        "robotics",
+        "makers",
+        "coding",
+        "general"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "5–14",
+      "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "confirmed_instruction_languages": [],
+      "programme": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "09:00–16:00. Días sueltos del 16–18 de diciembre de 2026, 18–22 y 25–29 de enero de 2027. Semana completa disponible para los turnos de enero.",
+        "sessions": [
+          [
+            "2026-12-16",
+            "2026-12-16"
+          ],
+          [
+            "2026-12-17",
+            "2026-12-17"
+          ],
+          [
+            "2026-12-18",
+            "2026-12-18"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-22"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-18"
+          ],
+          [
+            "2027-01-19",
+            "2027-01-19"
+          ],
+          [
+            "2027-01-20",
+            "2027-01-20"
+          ],
+          [
+            "2027-01-21",
+            "2027-01-21"
+          ],
+          [
+            "2027-01-22",
+            "2027-01-22"
+          ],
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ],
+          [
+            "2027-01-25",
+            "2027-01-25"
+          ],
+          [
+            "2027-01-26",
+            "2027-01-26"
+          ],
+          [
+            "2027-01-27",
+            "2027-01-27"
+          ],
+          [
+            "2027-01-28",
+            "2027-01-28"
+          ],
+          [
+            "2027-01-29",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-16",
+            "end": "2026-12-16",
+            "label": "Un día",
+            "source": "https://form.jotform.com/hamiltonnorth/central-dec",
+            "price": "NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.",
+            "place": "Waikato Sport Fishing Club · 499 Grantham Street · Hamilton Central",
+            "age": "5–14",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-16",
+                "topic": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            },
+            "variant_key": "day-2026-12-16"
+          },
+          {
+            "start": "2026-12-17",
+            "end": "2026-12-17",
+            "label": "Un día",
+            "source": "https://form.jotform.com/hamiltonnorth/central-dec",
+            "price": "NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.",
+            "place": "Waikato Sport Fishing Club · 499 Grantham Street · Hamilton Central",
+            "age": "5–14",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-17",
+                "topic": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            },
+            "variant_key": "day-2026-12-17"
+          },
+          {
+            "start": "2026-12-18",
+            "end": "2026-12-18",
+            "label": "Un día",
+            "source": "https://form.jotform.com/hamiltonnorth/central-dec",
+            "price": "NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.",
+            "place": "Waikato Sport Fishing Club · 499 Grantham Street · Hamilton Central",
+            "age": "5–14",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-18",
+                "topic": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            },
+            "variant_key": "day-2026-12-18"
+          },
+          {
+            "start": "2027-01-18",
+            "end": "2027-01-22",
+            "label": "Semana completa",
+            "source": "https://form.jotform.com/hamiltonnorth/hp-city-week1",
+            "price": "NZD 360 por niño por paquete semanal.",
+            "place": "Waikato Sport Fishing Club · 499 Grantham Street · Hamilton Central",
+            "age": "5–14",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "topic": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-19",
+                "topic": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-20",
+                "topic": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-21",
+                "topic": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-22",
+                "topic": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            },
+            "variant_key": "week1"
+          },
+          {
+            "start": "2027-01-18",
+            "end": "2027-01-18",
+            "label": "Un día",
+            "source": "https://form.jotform.com/hamiltonnorth/hp-city-week1",
+            "price": "NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.",
+            "place": "Waikato Sport Fishing Club · 499 Grantham Street · Hamilton Central",
+            "age": "5–14",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "topic": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            },
+            "variant_key": "day-2027-01-18"
+          },
+          {
+            "start": "2027-01-19",
+            "end": "2027-01-19",
+            "label": "Un día",
+            "source": "https://form.jotform.com/hamiltonnorth/hp-city-week1",
+            "price": "NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.",
+            "place": "Waikato Sport Fishing Club · 499 Grantham Street · Hamilton Central",
+            "age": "5–14",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-19",
+                "topic": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            },
+            "variant_key": "day-2027-01-19"
+          },
+          {
+            "start": "2027-01-20",
+            "end": "2027-01-20",
+            "label": "Un día",
+            "source": "https://form.jotform.com/hamiltonnorth/hp-city-week1",
+            "price": "NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.",
+            "place": "Waikato Sport Fishing Club · 499 Grantham Street · Hamilton Central",
+            "age": "5–14",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-20",
+                "topic": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            },
+            "variant_key": "day-2027-01-20"
+          },
+          {
+            "start": "2027-01-21",
+            "end": "2027-01-21",
+            "label": "Un día",
+            "source": "https://form.jotform.com/hamiltonnorth/hp-city-week1",
+            "price": "NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.",
+            "place": "Waikato Sport Fishing Club · 499 Grantham Street · Hamilton Central",
+            "age": "5–14",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-21",
+                "topic": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            },
+            "variant_key": "day-2027-01-21"
+          },
+          {
+            "start": "2027-01-22",
+            "end": "2027-01-22",
+            "label": "Un día",
+            "source": "https://form.jotform.com/hamiltonnorth/hp-city-week1",
+            "price": "NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.",
+            "place": "Waikato Sport Fishing Club · 499 Grantham Street · Hamilton Central",
+            "age": "5–14",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-22",
+                "topic": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            },
+            "variant_key": "day-2027-01-22"
+          },
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Semana completa",
+            "source": "https://form.jotform.com/hamiltonnorth/hp-city-week2",
+            "price": "NZD 330 por niño por paquete semanal.",
+            "place": "Waikato Sport Fishing Club · 499 Grantham Street · Hamilton Central",
+            "age": "5–14",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "topic": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-26",
+                "topic": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-27",
+                "topic": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-28",
+                "topic": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-29",
+                "topic": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            },
+            "variant_key": "week2"
+          },
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-25",
+            "label": "Un día",
+            "source": "https://form.jotform.com/hamiltonnorth/hp-city-week2",
+            "price": "NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.",
+            "place": "Waikato Sport Fishing Club · 499 Grantham Street · Hamilton Central",
+            "age": "5–14",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "topic": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            },
+            "variant_key": "day-2027-01-25"
+          },
+          {
+            "start": "2027-01-26",
+            "end": "2027-01-26",
+            "label": "Un día",
+            "source": "https://form.jotform.com/hamiltonnorth/hp-city-week2",
+            "price": "NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.",
+            "place": "Waikato Sport Fishing Club · 499 Grantham Street · Hamilton Central",
+            "age": "5–14",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-26",
+                "topic": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            },
+            "variant_key": "day-2027-01-26"
+          },
+          {
+            "start": "2027-01-27",
+            "end": "2027-01-27",
+            "label": "Un día",
+            "source": "https://form.jotform.com/hamiltonnorth/hp-city-week2",
+            "price": "NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.",
+            "place": "Waikato Sport Fishing Club · 499 Grantham Street · Hamilton Central",
+            "age": "5–14",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-27",
+                "topic": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            },
+            "variant_key": "day-2027-01-27"
+          },
+          {
+            "start": "2027-01-28",
+            "end": "2027-01-28",
+            "label": "Un día",
+            "source": "https://form.jotform.com/hamiltonnorth/hp-city-week2",
+            "price": "NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.",
+            "place": "Waikato Sport Fishing Club · 499 Grantham Street · Hamilton Central",
+            "age": "5–14",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-28",
+                "topic": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            },
+            "variant_key": "day-2027-01-28"
+          },
+          {
+            "start": "2027-01-29",
+            "end": "2027-01-29",
+            "label": "Un día",
+            "source": "https://form.jotform.com/hamiltonnorth/hp-city-week2",
+            "price": "NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.",
+            "place": "Waikato Sport Fishing Club · 499 Grantham Street · Hamilton Central",
+            "age": "5–14",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-29",
+                "topic": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            },
+            "variant_key": "day-2027-01-29"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "NZD",
+        "amount": null,
+        "unit": "programme",
+        "label": "NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte. Paquetes semanales por fechas · NZD 360 y NZD 330. Cada fecha ofrece días sueltos con su propio precio.",
+        "included": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+        "extras": "Llegada desde las 08:00 y recogida hasta las 17:00 por NZD 8 por niño por opción y día. Almuerzo NZD 10.80 por niño y día.",
+        "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      },
+      "accommodation": "Programa diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+        }
+      },
+      "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      ],
+      "sources": [
+        {
+          "url": "https://www.bricks4kidz.co.nz/hamilton-north/holiday-programme/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://form.jotform.com/hamiltonnorth/central-dec",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://form.jotform.com/hamiltonnorth/hp-city-week1",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://form.jotform.com/hamiltonnorth/hp-city-week2",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "open",
+        "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-16",
+          "end": "2026-12-16",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1753-20261216-20261216-day-2026-12-16"
+          ]
+        },
+        {
+          "start": "2026-12-17",
+          "end": "2026-12-17",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1753-20261217-20261217-day-2026-12-17"
+          ]
+        },
+        {
+          "start": "2026-12-18",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1753-20261218-20261218-day-2026-12-18"
+          ]
+        },
+        {
+          "start": "2027-01-18",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1753-20270118-20270122-week1"
+          ]
+        },
+        {
+          "start": "2027-01-18",
+          "end": "2027-01-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1753-20270118-20270118-day-2027-01-18"
+          ]
+        },
+        {
+          "start": "2027-01-19",
+          "end": "2027-01-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1753-20270119-20270119-day-2027-01-19"
+          ]
+        },
+        {
+          "start": "2027-01-20",
+          "end": "2027-01-20",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1753-20270120-20270120-day-2027-01-20"
+          ]
+        },
+        {
+          "start": "2027-01-21",
+          "end": "2027-01-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1753-20270121-20270121-day-2027-01-21"
+          ]
+        },
+        {
+          "start": "2027-01-22",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1753-20270122-20270122-day-2027-01-22"
+          ]
+        },
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1753-20270125-20270129-week2"
+          ]
+        },
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-25",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1753-20270125-20270125-day-2027-01-25"
+          ]
+        },
+        {
+          "start": "2027-01-26",
+          "end": "2027-01-26",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1753-20270126-20270126-day-2027-01-26"
+          ]
+        },
+        {
+          "start": "2027-01-27",
+          "end": "2027-01-27",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1753-20270127-20270127-day-2027-01-27"
+          ]
+        },
+        {
+          "start": "2027-01-28",
+          "end": "2027-01-28",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1753-20270128-20270128-day-2027-01-28"
+          ]
+        },
+        {
+          "start": "2027-01-29",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1753-20270129-20270129-day-2027-01-29"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1754",
+      "slug": "bricks4kidz-hamilton-rototuna-2026-27",
+      "provider": "Bricks 4 Kidz · Rototuna",
+      "country": "Nueva Zelanda",
+      "iso": "NZL",
+      "place": "Rototuna High School · 56 Kimbrae Drive · Rototuna North",
+      "themes": [
+        "robotics",
+        "makers",
+        "coding",
+        "general"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "5–14",
+      "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "confirmed_instruction_languages": [],
+      "programme": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "09:00–16:00. Días sueltos del 16–18 de diciembre de 2026, 18–22 y 25–29 de enero de 2027. Semana completa disponible para los turnos de enero.",
+        "sessions": [
+          [
+            "2026-12-16",
+            "2026-12-16"
+          ],
+          [
+            "2026-12-17",
+            "2026-12-17"
+          ],
+          [
+            "2026-12-18",
+            "2026-12-18"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-22"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-18"
+          ],
+          [
+            "2027-01-19",
+            "2027-01-19"
+          ],
+          [
+            "2027-01-20",
+            "2027-01-20"
+          ],
+          [
+            "2027-01-21",
+            "2027-01-21"
+          ],
+          [
+            "2027-01-22",
+            "2027-01-22"
+          ],
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ],
+          [
+            "2027-01-25",
+            "2027-01-25"
+          ],
+          [
+            "2027-01-26",
+            "2027-01-26"
+          ],
+          [
+            "2027-01-27",
+            "2027-01-27"
+          ],
+          [
+            "2027-01-28",
+            "2027-01-28"
+          ],
+          [
+            "2027-01-29",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-16",
+            "end": "2026-12-16",
+            "label": "Un día",
+            "source": "https://form.jotform.com/hamiltonnorth/Rototuna-dec",
+            "price": "NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.",
+            "place": "Rototuna High School · 56 Kimbrae Drive · Rototuna North",
+            "age": "5–14",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-16",
+                "topic": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            },
+            "variant_key": "day-2026-12-16"
+          },
+          {
+            "start": "2026-12-17",
+            "end": "2026-12-17",
+            "label": "Un día",
+            "source": "https://form.jotform.com/hamiltonnorth/Rototuna-dec",
+            "price": "NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.",
+            "place": "Rototuna High School · 56 Kimbrae Drive · Rototuna North",
+            "age": "5–14",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-17",
+                "topic": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            },
+            "variant_key": "day-2026-12-17"
+          },
+          {
+            "start": "2026-12-18",
+            "end": "2026-12-18",
+            "label": "Un día",
+            "source": "https://form.jotform.com/hamiltonnorth/Rototuna-dec",
+            "price": "NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.",
+            "place": "Rototuna High School · 56 Kimbrae Drive · Rototuna North",
+            "age": "5–14",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-18",
+                "topic": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            },
+            "variant_key": "day-2026-12-18"
+          },
+          {
+            "start": "2027-01-18",
+            "end": "2027-01-22",
+            "label": "Semana completa",
+            "source": "https://form.jotform.com/hamiltonnorth/hp-rototuna-week1",
+            "price": "NZD 330 por niño por paquete semanal.",
+            "place": "Rototuna High School · 56 Kimbrae Drive · Rototuna North",
+            "age": "5–14",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "topic": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-19",
+                "topic": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-20",
+                "topic": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-21",
+                "topic": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-22",
+                "topic": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            },
+            "variant_key": "week1"
+          },
+          {
+            "start": "2027-01-18",
+            "end": "2027-01-18",
+            "label": "Un día",
+            "source": "https://form.jotform.com/hamiltonnorth/hp-rototuna-week1",
+            "price": "NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.",
+            "place": "Rototuna High School · 56 Kimbrae Drive · Rototuna North",
+            "age": "5–14",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "topic": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            },
+            "variant_key": "day-2027-01-18"
+          },
+          {
+            "start": "2027-01-19",
+            "end": "2027-01-19",
+            "label": "Un día",
+            "source": "https://form.jotform.com/hamiltonnorth/hp-rototuna-week1",
+            "price": "NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.",
+            "place": "Rototuna High School · 56 Kimbrae Drive · Rototuna North",
+            "age": "5–14",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-19",
+                "topic": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            },
+            "variant_key": "day-2027-01-19"
+          },
+          {
+            "start": "2027-01-20",
+            "end": "2027-01-20",
+            "label": "Un día",
+            "source": "https://form.jotform.com/hamiltonnorth/hp-rototuna-week1",
+            "price": "NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.",
+            "place": "Rototuna High School · 56 Kimbrae Drive · Rototuna North",
+            "age": "5–14",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-20",
+                "topic": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            },
+            "variant_key": "day-2027-01-20"
+          },
+          {
+            "start": "2027-01-21",
+            "end": "2027-01-21",
+            "label": "Un día",
+            "source": "https://form.jotform.com/hamiltonnorth/hp-rototuna-week1",
+            "price": "NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.",
+            "place": "Rototuna High School · 56 Kimbrae Drive · Rototuna North",
+            "age": "5–14",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-21",
+                "topic": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            },
+            "variant_key": "day-2027-01-21"
+          },
+          {
+            "start": "2027-01-22",
+            "end": "2027-01-22",
+            "label": "Un día",
+            "source": "https://form.jotform.com/hamiltonnorth/hp-rototuna-week1",
+            "price": "NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.",
+            "place": "Rototuna High School · 56 Kimbrae Drive · Rototuna North",
+            "age": "5–14",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-22",
+                "topic": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            },
+            "variant_key": "day-2027-01-22"
+          },
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Semana completa",
+            "source": "https://form.jotform.com/hamiltonnorth/hp-rototuna-week2",
+            "price": "NZD 330 por niño por paquete semanal.",
+            "place": "Rototuna High School · 56 Kimbrae Drive · Rototuna North",
+            "age": "5–14",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "topic": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-26",
+                "topic": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-27",
+                "topic": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-28",
+                "topic": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-29",
+                "topic": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            },
+            "variant_key": "week2"
+          },
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-25",
+            "label": "Un día",
+            "source": "https://form.jotform.com/hamiltonnorth/hp-rototuna-week2",
+            "price": "NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.",
+            "place": "Rototuna High School · 56 Kimbrae Drive · Rototuna North",
+            "age": "5–14",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "topic": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            },
+            "variant_key": "day-2027-01-25"
+          },
+          {
+            "start": "2027-01-26",
+            "end": "2027-01-26",
+            "label": "Un día",
+            "source": "https://form.jotform.com/hamiltonnorth/hp-rototuna-week2",
+            "price": "NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.",
+            "place": "Rototuna High School · 56 Kimbrae Drive · Rototuna North",
+            "age": "5–14",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-26",
+                "topic": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            },
+            "variant_key": "day-2027-01-26"
+          },
+          {
+            "start": "2027-01-27",
+            "end": "2027-01-27",
+            "label": "Un día",
+            "source": "https://form.jotform.com/hamiltonnorth/hp-rototuna-week2",
+            "price": "NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.",
+            "place": "Rototuna High School · 56 Kimbrae Drive · Rototuna North",
+            "age": "5–14",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-27",
+                "topic": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            },
+            "variant_key": "day-2027-01-27"
+          },
+          {
+            "start": "2027-01-28",
+            "end": "2027-01-28",
+            "label": "Un día",
+            "source": "https://form.jotform.com/hamiltonnorth/hp-rototuna-week2",
+            "price": "NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.",
+            "place": "Rototuna High School · 56 Kimbrae Drive · Rototuna North",
+            "age": "5–14",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-28",
+                "topic": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            },
+            "variant_key": "day-2027-01-28"
+          },
+          {
+            "start": "2027-01-29",
+            "end": "2027-01-29",
+            "label": "Un día",
+            "source": "https://form.jotform.com/hamiltonnorth/hp-rototuna-week2",
+            "price": "NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.",
+            "place": "Rototuna High School · 56 Kimbrae Drive · Rototuna North",
+            "age": "5–14",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-29",
+                "topic": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            },
+            "variant_key": "day-2027-01-29"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "NZD",
+        "amount": null,
+        "unit": "programme",
+        "label": "NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte. Paquetes semanales por fechas · NZD 330 y NZD 330. Cada fecha ofrece días sueltos con su propio precio.",
+        "included": "Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.",
+        "extras": "Llegada desde las 08:00 y recogida hasta las 17:00 por NZD 8 por niño por opción y día. Almuerzo NZD 10.80 por niño y día.",
+        "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      },
+      "accommodation": "Programa diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+        }
+      },
+      "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      ],
+      "sources": [
+        {
+          "url": "https://www.bricks4kidz.co.nz/hamilton-north/holiday-programme/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://form.jotform.com/hamiltonnorth/Rototuna-dec",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://form.jotform.com/hamiltonnorth/hp-rototuna-week1",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://form.jotform.com/hamiltonnorth/hp-rototuna-week2",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "open",
+        "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-16",
+          "end": "2026-12-16",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1754-20261216-20261216-day-2026-12-16"
+          ]
+        },
+        {
+          "start": "2026-12-17",
+          "end": "2026-12-17",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1754-20261217-20261217-day-2026-12-17"
+          ]
+        },
+        {
+          "start": "2026-12-18",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1754-20261218-20261218-day-2026-12-18"
+          ]
+        },
+        {
+          "start": "2027-01-18",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1754-20270118-20270122-week1"
+          ]
+        },
+        {
+          "start": "2027-01-18",
+          "end": "2027-01-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1754-20270118-20270118-day-2027-01-18"
+          ]
+        },
+        {
+          "start": "2027-01-19",
+          "end": "2027-01-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1754-20270119-20270119-day-2027-01-19"
+          ]
+        },
+        {
+          "start": "2027-01-20",
+          "end": "2027-01-20",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1754-20270120-20270120-day-2027-01-20"
+          ]
+        },
+        {
+          "start": "2027-01-21",
+          "end": "2027-01-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1754-20270121-20270121-day-2027-01-21"
+          ]
+        },
+        {
+          "start": "2027-01-22",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1754-20270122-20270122-day-2027-01-22"
+          ]
+        },
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1754-20270125-20270129-week2"
+          ]
+        },
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-25",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1754-20270125-20270125-day-2027-01-25"
+          ]
+        },
+        {
+          "start": "2027-01-26",
+          "end": "2027-01-26",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1754-20270126-20270126-day-2027-01-26"
+          ]
+        },
+        {
+          "start": "2027-01-27",
+          "end": "2027-01-27",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1754-20270127-20270127-day-2027-01-27"
+          ]
+        },
+        {
+          "start": "2027-01-28",
+          "end": "2027-01-28",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1754-20270128-20270128-day-2027-01-28"
+          ]
+        },
+        {
+          "start": "2027-01-29",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1754-20270129-20270129-day-2027-01-29"
+          ]
+        }
+      ]
     }
   ],
   "gaps": [
@@ -298303,7 +300574,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 225,
+  "version": 226,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -311538,7 +313809,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1750,
+      "total_dossiers": 1754,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -330748,6 +333019,176 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP1751",
+      "event_id": "CP1751-20270112-20270112-rhodes",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1751",
+      "event_id": "CP1751-20270114-20270114-chatswood",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1751",
+      "event_id": "CP1751-20270119-20270119-north-ryde",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1751",
+      "event_id": "CP1751-20270121-20270121-gladesville",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1753",
+      "event_id": "CP1753-20261216-20261216-day-2026-12-16",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1753",
+      "event_id": "CP1753-20261217-20261217-day-2026-12-17",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1753",
+      "event_id": "CP1753-20261218-20261218-day-2026-12-18",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1753",
+      "event_id": "CP1753-20270118-20270122-week1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1753",
+      "event_id": "CP1753-20270118-20270118-day-2027-01-18",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1753",
+      "event_id": "CP1753-20270119-20270119-day-2027-01-19",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1753",
+      "event_id": "CP1753-20270120-20270120-day-2027-01-20",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1753",
+      "event_id": "CP1753-20270121-20270121-day-2027-01-21",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1753",
+      "event_id": "CP1753-20270122-20270122-day-2027-01-22",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1753",
+      "event_id": "CP1753-20270125-20270129-week2",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1753",
+      "event_id": "CP1753-20270125-20270125-day-2027-01-25",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1753",
+      "event_id": "CP1753-20270126-20270126-day-2027-01-26",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1753",
+      "event_id": "CP1753-20270127-20270127-day-2027-01-27",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1753",
+      "event_id": "CP1753-20270128-20270128-day-2027-01-28",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1753",
+      "event_id": "CP1753-20270129-20270129-day-2027-01-29",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1754",
+      "event_id": "CP1754-20261216-20261216-day-2026-12-16",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1754",
+      "event_id": "CP1754-20261217-20261217-day-2026-12-17",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1754",
+      "event_id": "CP1754-20261218-20261218-day-2026-12-18",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1754",
+      "event_id": "CP1754-20270118-20270122-week1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1754",
+      "event_id": "CP1754-20270118-20270118-day-2027-01-18",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1754",
+      "event_id": "CP1754-20270119-20270119-day-2027-01-19",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1754",
+      "event_id": "CP1754-20270120-20270120-day-2027-01-20",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1754",
+      "event_id": "CP1754-20270121-20270121-day-2027-01-21",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1754",
+      "event_id": "CP1754-20270122-20270122-day-2027-01-22",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1754",
+      "event_id": "CP1754-20270125-20270129-week2",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1754",
+      "event_id": "CP1754-20270125-20270125-day-2027-01-25",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1754",
+      "event_id": "CP1754-20270126-20270126-day-2027-01-26",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1754",
+      "event_id": "CP1754-20270127-20270127-day-2027-01-27",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1754",
+      "event_id": "CP1754-20270128-20270128-day-2027-01-28",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1754",
+      "event_id": "CP1754-20270129-20270129-day-2027-01-29",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -334834,12 +337275,46 @@
     "CP1747-20270201-20270203",
     "CP1748-20270201-20270203",
     "CP1749-20270125-20270129",
-    "CP1750-20270125-20270129"
+    "CP1750-20270125-20270129",
+    "CP1751-20270112-20270112-rhodes",
+    "CP1751-20270114-20270114-chatswood",
+    "CP1751-20270119-20270119-north-ryde",
+    "CP1751-20270121-20270121-gladesville",
+    "CP1753-20261216-20261216-day-2026-12-16",
+    "CP1753-20261217-20261217-day-2026-12-17",
+    "CP1753-20261218-20261218-day-2026-12-18",
+    "CP1753-20270118-20270122-week1",
+    "CP1753-20270118-20270118-day-2027-01-18",
+    "CP1753-20270119-20270119-day-2027-01-19",
+    "CP1753-20270120-20270120-day-2027-01-20",
+    "CP1753-20270121-20270121-day-2027-01-21",
+    "CP1753-20270122-20270122-day-2027-01-22",
+    "CP1753-20270125-20270129-week2",
+    "CP1753-20270125-20270125-day-2027-01-25",
+    "CP1753-20270126-20270126-day-2027-01-26",
+    "CP1753-20270127-20270127-day-2027-01-27",
+    "CP1753-20270128-20270128-day-2027-01-28",
+    "CP1753-20270129-20270129-day-2027-01-29",
+    "CP1754-20261216-20261216-day-2026-12-16",
+    "CP1754-20261217-20261217-day-2026-12-17",
+    "CP1754-20261218-20261218-day-2026-12-18",
+    "CP1754-20270118-20270122-week1",
+    "CP1754-20270118-20270118-day-2027-01-18",
+    "CP1754-20270119-20270119-day-2027-01-19",
+    "CP1754-20270120-20270120-day-2027-01-20",
+    "CP1754-20270121-20270121-day-2027-01-21",
+    "CP1754-20270122-20270122-day-2027-01-22",
+    "CP1754-20270125-20270129-week2",
+    "CP1754-20270125-20270125-day-2027-01-25",
+    "CP1754-20270126-20270126-day-2027-01-26",
+    "CP1754-20270127-20270127-day-2027-01-27",
+    "CP1754-20270128-20270128-day-2027-01-28",
+    "CP1754-20270129-20270129-day-2027-01-29"
   ],
   "integration": {
-    "generated_sessions": 3656,
+    "generated_sessions": 3690,
     "reused_legacy_events": 69,
-    "seasonal_windows": 66,
+    "seasonal_windows": 70,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."
   }
 }

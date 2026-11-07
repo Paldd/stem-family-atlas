@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-07. 1750 dosieres en 102 países. Las fechas de verificación de cada fuente figuran en su dosier.
+Estado de la base al 2026-11-07. 1754 fichas en 102 países. Cada ficha indica cuándo se verificaron sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -98398,7 +98398,7 @@ Australia · Level 1 · 55 Woolley Street · Dickson ACT 2602
 
 Australia · Eastwood / Castle Hill / Baulkham Hills · NSW
 
-**Se ha comprobado:** 2026-11-05
+**Se ha comprobado:** 2026-11-07
 
 **edad:** Kindergarten–Year 6
 
@@ -98408,7 +98408,7 @@ Australia · Eastwood / Castle Hill / Baulkham Hills · NSW
 
 **Alojamiento:** Programa diurno sin residencia.
 
-**Fechas / estado:** Cuatro campus exactos de dos días: 11–12, 13–14, 18–19, 20–21 de enero de 2027; también opción de un día. Ventana publicitaria hasta 22 de enero no prueba clase el 22. Drop-off 08:45–09:00, pickup 14:45–15:00; calendario de jornada principal 09–15.
+**Fechas / estado:** Cuatro campus exactos de dos días: 11–12, 13–14, 18–19, 20–21 de enero de 2027; también opción de un día. Ventana publicitaria hasta 22 de enero no prueba clase el 22. Drop-off 08:45–09:00, pickup 14:45–15:00; calendario de jornada principal 09–15. La oferta de reservas confirma 12 opciones en 4 escuelas. Tarifa de un día AUD 120, paquete de 2 días AUD 215 por niño. Confirmar plazas y comisiones.
 
 **Precio / año:** 2027 · AUD 120 por un día o 215 por dos; dos single day cuestan 240. Paquete de dos días alternativo a días individuales, no tres compras obligatorias. Confirmar booking fees finales.
 
@@ -98440,6 +98440,8 @@ Australia · Eastwood / Castle Hill / Baulkham Hills · NSW
 
 - 2027-01-12 · 09:00–15:00 · Australia/Sydney · Mecánica LEGO y visual coding; mayores / experimentados pueden explorar SPIKE Prime, Scratch, sensores y Arduino inicial. No garantiza todos los módulos a cada niño. Admite principiantes, dispositivos y robotics equipment incluidos.
 
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
 [fuente](https://www.trybooking.com/au/event/1661016)
 
 ### Eastwood Heights Public School · 9A Lincoln St · Eastwood NSW 2122 · 1 día
@@ -98452,6 +98454,8 @@ Australia · Eastwood / Castle Hill / Baulkham Hills · NSW
 
 - 2027-01-11 · 09:00–15:00 · Australia/Sydney · Mecánica LEGO y visual coding; mayores / experimentados pueden explorar SPIKE Prime, Scratch, sensores y Arduino inicial. No garantiza todos los módulos a cada niño. Admite principiantes, dispositivos y robotics equipment incluidos.
 
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
 [fuente](https://www.trybooking.com/au/event/1661016)
 
 ### Eastwood Heights Public School · 9A Lincoln St · Eastwood NSW 2122 · 1 día
@@ -98463,6 +98467,8 @@ Australia · Eastwood / Castle Hill / Baulkham Hills · NSW
 **Precio:** AUD 120
 
 - 2027-01-12 · 09:00–15:00 · Australia/Sydney · Mecánica LEGO y visual coding; mayores / experimentados pueden explorar SPIKE Prime, Scratch, sensores y Arduino inicial. No garantiza todos los módulos a cada niño. Admite principiantes, dispositivos y robotics equipment incluidos.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
 
 [fuente](https://www.trybooking.com/au/event/1661016)
 
@@ -98478,6 +98484,8 @@ Australia · Eastwood / Castle Hill / Baulkham Hills · NSW
 
 - 2027-01-14 · 09:00–15:00 · Australia/Sydney · Mecánica LEGO y visual coding; mayores / experimentados pueden explorar SPIKE Prime, Scratch, sensores y Arduino inicial. No garantiza todos los módulos a cada niño. Admite principiantes, dispositivos y robotics equipment incluidos.
 
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
 [fuente](https://www.trybooking.com/au/event/1661016)
 
 ### Samuel Gilbert Public School · Ridgecrop Dr · Castle Hill NSW 2154 · 1 día
@@ -98490,6 +98498,8 @@ Australia · Eastwood / Castle Hill / Baulkham Hills · NSW
 
 - 2027-01-13 · 09:00–15:00 · Australia/Sydney · Mecánica LEGO y visual coding; mayores / experimentados pueden explorar SPIKE Prime, Scratch, sensores y Arduino inicial. No garantiza todos los módulos a cada niño. Admite principiantes, dispositivos y robotics equipment incluidos.
 
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
 [fuente](https://www.trybooking.com/au/event/1661016)
 
 ### Samuel Gilbert Public School · Ridgecrop Dr · Castle Hill NSW 2154 · 1 día
@@ -98501,6 +98511,8 @@ Australia · Eastwood / Castle Hill / Baulkham Hills · NSW
 **Precio:** AUD 120
 
 - 2027-01-14 · 09:00–15:00 · Australia/Sydney · Mecánica LEGO y visual coding; mayores / experimentados pueden explorar SPIKE Prime, Scratch, sensores y Arduino inicial. No garantiza todos los módulos a cada niño. Admite principiantes, dispositivos y robotics equipment incluidos.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
 
 [fuente](https://www.trybooking.com/au/event/1661016)
 
@@ -98516,6 +98528,8 @@ Australia · Eastwood / Castle Hill / Baulkham Hills · NSW
 
 - 2027-01-19 · 09:00–15:00 · Australia/Sydney · Mecánica LEGO y visual coding; mayores / experimentados pueden explorar SPIKE Prime, Scratch, sensores y Arduino inicial. No garantiza todos los módulos a cada niño. Admite principiantes, dispositivos y robotics equipment incluidos.
 
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
 [fuente](https://www.trybooking.com/au/event/1661016)
 
 ### Baulkham Hills North Public School · 2 Girralong Ave · NSW 2153 · 1 día
@@ -98528,6 +98542,8 @@ Australia · Eastwood / Castle Hill / Baulkham Hills · NSW
 
 - 2027-01-18 · 09:00–15:00 · Australia/Sydney · Mecánica LEGO y visual coding; mayores / experimentados pueden explorar SPIKE Prime, Scratch, sensores y Arduino inicial. No garantiza todos los módulos a cada niño. Admite principiantes, dispositivos y robotics equipment incluidos.
 
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
 [fuente](https://www.trybooking.com/au/event/1661016)
 
 ### Baulkham Hills North Public School · 2 Girralong Ave · NSW 2153 · 1 día
@@ -98539,6 +98555,8 @@ Australia · Eastwood / Castle Hill / Baulkham Hills · NSW
 **Precio:** AUD 120
 
 - 2027-01-19 · 09:00–15:00 · Australia/Sydney · Mecánica LEGO y visual coding; mayores / experimentados pueden explorar SPIKE Prime, Scratch, sensores y Arduino inicial. No garantiza todos los módulos a cada niño. Admite principiantes, dispositivos y robotics equipment incluidos.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
 
 [fuente](https://www.trybooking.com/au/event/1661016)
 
@@ -98554,6 +98572,8 @@ Australia · Eastwood / Castle Hill / Baulkham Hills · NSW
 
 - 2027-01-21 · 09:00–15:00 · Australia/Sydney · Mecánica LEGO y visual coding; mayores / experimentados pueden explorar SPIKE Prime, Scratch, sensores y Arduino inicial. No garantiza todos los módulos a cada niño. Admite principiantes, dispositivos y robotics equipment incluidos.
 
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
 [fuente](https://www.trybooking.com/au/event/1661016)
 
 ### Oakhill Drive Public School · 1–5 Oakhill Dr · Castle Hill NSW 2154 · 1 día
@@ -98565,6 +98585,8 @@ Australia · Eastwood / Castle Hill / Baulkham Hills · NSW
 **Precio:** AUD 120
 
 - 2027-01-20 · 09:00–15:00 · Australia/Sydney · Mecánica LEGO y visual coding; mayores / experimentados pueden explorar SPIKE Prime, Scratch, sensores y Arduino inicial. No garantiza todos los módulos a cada niño. Admite principiantes, dispositivos y robotics equipment incluidos.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
 
 [fuente](https://www.trybooking.com/au/event/1661016)
 
@@ -98578,11 +98600,15 @@ Australia · Eastwood / Castle Hill / Baulkham Hills · NSW
 
 - 2027-01-21 · 09:00–15:00 · Australia/Sydney · Mecánica LEGO y visual coding; mayores / experimentados pueden explorar SPIKE Prime, Scratch, sensores y Arduino inicial. No garantiza todos los módulos a cada niño. Admite principiantes, dispositivos y robotics equipment incluidos.
 
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
 [fuente](https://www.trybooking.com/au/event/1661016)
 
 ### Fuentes
 
 - [January 2027 · organiser listing and four actual school venues](https://www.trybooking.com/au/event/1661016) · 2026-11-05
+
+- [Página oficial del organizador](https://www.trybooking.com/au/apiv2/events/1661016/sessions?month=1&year=2027) · 2026-11-07
 
 ## CP1283 · SK Robotics EDGE · Paper Circuits
 
@@ -129946,7 +129972,7 @@ Australia · STEMBuddy · Narre Warren South VIC
 
 **Se ha comprobado:** 2026-11-07
 
-**edad:** Years 1–8, admisión por grado escolar.
+**edad:** La oferta indica desde 7 años y la descripción indica Years 1–8.
 
 **Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar.
 
@@ -129954,9 +129980,9 @@ Australia · STEMBuddy · Narre Warren South VIC
 
 **Alojamiento:** Programa diurno sin alojamiento.
 
-**Fechas / estado:** 09:00–14:00. Confirmar grado, dirección, idioma, equipo y precio final.
+**Fechas / estado:** Fechas coincidentes: 11–12 de enero de 2027, 09:00–14:00. Confirmar edad al inicio y curso escolar.
 
-**Precio / año:** 2027 · La página muestra AUD 250–375 para distintas opciones. Confirmar tarifa de este módulo.
+**Precio / año:** 2027 · AUD 250 en la opción actual. Confirmar posibles comisiones.
 
 **Incluido:** LEGO EV3, microdrones programables, sensores y misión autónoma de rescate.
 
@@ -129964,13 +129990,15 @@ Australia · STEMBuddy · Narre Warren South VIC
 
 **Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 
-**Matvey:** Condicional por grado escolar. Confirmar equivalencia a Year 1 y plaza.
+**Matvey:** Condicional. Confirmar días reales, edad y curso escolar del grupo antes de pagar.
 
-**Oscar:** Condicional por grado escolar. Confirmar equivalencia a Year 1 y plaza.
+**Oscar:** Condicional. Confirmar días reales, edad y curso escolar del grupo antes de pagar.
 
 **Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
 
 ### Antes de solicitar plaza
+
+- Condicional. Confirmar días reales, edad y curso escolar del grupo antes de pagar.
 
 - Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 
@@ -129980,9 +130008,9 @@ Australia · STEMBuddy · Narre Warren South VIC
 
 **lugar:** STEMBuddy · Narre Warren South VIC
 
-**edad:** Years 1–8, admisión por grado escolar.
+**edad:** La oferta indica desde 7 años y la descripción indica Years 1–8.
 
-**Precio:** La página muestra AUD 250–375 para distintas opciones. Confirmar tarifa de este módulo.
+**Precio:** AUD 250 en la opción actual. Confirmar posibles comisiones.
 
 - 2027-01-11 · 09:00–14:00 · Australia/Melbourne · LEGO EV3, microdrones programables, sensores y misión autónoma de rescate.
 
@@ -129990,15 +130018,17 @@ Australia · STEMBuddy · Narre Warren South VIC
 
 **Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
 
-**Matvey:** Condicional por grado escolar. Confirmar equivalencia a Year 1 y plaza.
+**Matvey:** Condicional. Confirmar días reales, edad y curso escolar del grupo antes de pagar.
 
-**Oscar:** Condicional por grado escolar. Confirmar equivalencia a Year 1 y plaza.
+**Oscar:** Condicional. Confirmar días reales, edad y curso escolar del grupo antes de pagar.
 
-[fuente](https://www.trybooking.com/au/event/1660294)
+[fuente](https://www.trybooking.com/au/apiv2/events/1660294/sessions?month=1&year=2027)
 
 ### Fuentes
 
 - [Página oficial del organizador](https://www.trybooking.com/au/event/1660294) · 2026-11-07
+
+- [Página oficial del organizador](https://www.trybooking.com/au/apiv2/events/1660294/sessions?month=1&year=2027) · 2026-11-07
 
 ## CP1682 · STEMBuddy · PC Repair, Networking & Cyber Security
 
@@ -130006,7 +130036,7 @@ Australia · STEMBuddy · Narre Warren South VIC
 
 **Se ha comprobado:** 2026-11-07
 
-**edad:** Years 3 en adelante.
+**edad:** La oferta indica desde 10 años y la descripción indica Years 3+.
 
 **Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar.
 
@@ -130014,9 +130044,9 @@ Australia · STEMBuddy · Narre Warren South VIC
 
 **Alojamiento:** Programa diurno sin alojamiento.
 
-**Fechas / estado:** Las fechas de la descripción y de la inscripción difieren. Este módulo requiere confirmar el horario.
+**Fechas / estado:** Oferta de reservas del 13–15 de enero de 2027, descripción 13 y 17–18 de enero. Confirmar días reales.
 
-**Precio / año:** 2027 · La página muestra AUD 250–375 para distintas opciones. Confirmar tarifa de este módulo.
+**Precio / año:** 2027 · AUD 375 en la opción actual. Confirmar posibles comisiones.
 
 **Incluido:** Montaje de PC, Ethernet, diagnóstico y ejercicio Capture The Flag.
 
@@ -130024,21 +130054,41 @@ Australia · STEMBuddy · Narre Warren South VIC
 
 **Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 
-**Matvey:** Condicional por grado escolar. Confirmar equivalencia a Year 3 y plaza.
+**Matvey:** Condicional. Confirmar días reales, edad y curso escolar del grupo antes de pagar.
 
-**Oscar:** Más adelante. El módulo está dirigido a Year 3 en adelante.
+**Oscar:** Por debajo de la edad mínima en la oferta de reservas.
 
 **Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
 
 ### Antes de solicitar plaza
 
+- Condicional. Confirmar días reales, edad y curso escolar del grupo antes de pagar.
+
 - Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 
-- Las fechas de la descripción y de la inscripción difieren. Este módulo requiere confirmar el horario.
+### Oferta de reservas del 13–15 de enero de 2027, descripción 13 y 17–18 de enero. Confirmar días reales.
+
+**Fechas / estado:** 2027-01-13 — 2027-01-15
+
+**lugar:** STEMBuddy · Narre Warren South VIC
+
+**edad:** La oferta indica desde 10 años y la descripción indica Years 3+.
+
+**Precio:** AUD 375 en la opción actual. Confirmar posibles comisiones.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Condicional. Confirmar días reales, edad y curso escolar del grupo antes de pagar.
+
+**Oscar:** Por debajo de la edad mínima en la oferta de reservas.
+
+[fuente](https://www.trybooking.com/au/apiv2/events/1660294/sessions?month=1&year=2027)
 
 ### Fuentes
 
 - [Página oficial del organizador](https://www.trybooking.com/au/event/1660294) · 2026-11-07
+
+- [Página oficial del organizador](https://www.trybooking.com/au/apiv2/events/1660294/sessions?month=1&year=2027) · 2026-11-07
 
 ## CP1683 · STEMBuddy · Artificial Intelligence & Machine Learning
 
@@ -130046,7 +130096,7 @@ Australia · STEMBuddy · Narre Warren South VIC
 
 **Se ha comprobado:** 2026-11-07
 
-**edad:** Years 3 en adelante.
+**edad:** La oferta indica desde 9 años y la descripción indica Years 3+.
 
 **Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar.
 
@@ -130054,9 +130104,9 @@ Australia · STEMBuddy · Narre Warren South VIC
 
 **Alojamiento:** Programa diurno sin alojamiento.
 
-**Fechas / estado:** Las fechas de la descripción y de la inscripción difieren. Este módulo requiere confirmar el horario.
+**Fechas / estado:** Oferta de reservas del 18–19 de enero de 2027, descripción del 19–20 de enero. Confirmar días reales.
 
-**Precio / año:** 2027 · La página muestra AUD 250–375 para distintas opciones. Confirmar tarifa de este módulo.
+**Precio / año:** 2027 · AUD 250 en la opción actual. Confirmar posibles comisiones.
 
 **Incluido:** Visión artificial, Python, OpenCV y MediaPipe. Programación de control por gestos.
 
@@ -130064,21 +130114,41 @@ Australia · STEMBuddy · Narre Warren South VIC
 
 **Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 
-**Matvey:** Condicional por grado escolar. Confirmar equivalencia a Year 3 y plaza.
+**Matvey:** Condicional. Confirmar días reales, edad y curso escolar del grupo antes de pagar.
 
-**Oscar:** Más adelante. El módulo está dirigido a Year 3 en adelante.
+**Oscar:** Por debajo de la edad mínima en la oferta de reservas.
 
 **Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
 
 ### Antes de solicitar plaza
 
+- Condicional. Confirmar días reales, edad y curso escolar del grupo antes de pagar.
+
 - Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 
-- Las fechas de la descripción y de la inscripción difieren. Este módulo requiere confirmar el horario.
+### Oferta de reservas del 18–19 de enero de 2027, descripción del 19–20 de enero. Confirmar días reales.
+
+**Fechas / estado:** 2027-01-18 — 2027-01-19
+
+**lugar:** STEMBuddy · Narre Warren South VIC
+
+**edad:** La oferta indica desde 9 años y la descripción indica Years 3+.
+
+**Precio:** AUD 250 en la opción actual. Confirmar posibles comisiones.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Condicional. Confirmar días reales, edad y curso escolar del grupo antes de pagar.
+
+**Oscar:** Por debajo de la edad mínima en la oferta de reservas.
+
+[fuente](https://www.trybooking.com/au/apiv2/events/1660294/sessions?month=1&year=2027)
 
 ### Fuentes
 
 - [Página oficial del organizador](https://www.trybooking.com/au/event/1660294) · 2026-11-07
+
+- [Página oficial del organizador](https://www.trybooking.com/au/apiv2/events/1660294/sessions?month=1&year=2027) · 2026-11-07
 
 ## CP1684 · STEMBuddy · Applied Electronics & Circuit Prototyping
 
@@ -130086,7 +130156,7 @@ Australia · STEMBuddy · Narre Warren South VIC
 
 **Se ha comprobado:** 2026-11-07
 
-**edad:** Years 5–10.
+**edad:** La oferta indica desde 9 años y la descripción indica Years 5–10.
 
 **Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar.
 
@@ -130094,9 +130164,9 @@ Australia · STEMBuddy · Narre Warren South VIC
 
 **Alojamiento:** Programa diurno sin alojamiento.
 
-**Fechas / estado:** Las fechas de la descripción y de la inscripción difieren. Este módulo requiere confirmar el horario.
+**Fechas / estado:** Oferta de reservas del 20–22 de enero de 2027, descripción del 21–23 de enero. Confirmar días reales.
 
-**Precio / año:** 2027 · La página muestra AUD 250–375 para distintas opciones. Confirmar tarifa de este módulo.
+**Precio / año:** 2027 · AUD 375 en la opción actual. Confirmar posibles comisiones.
 
 **Incluido:** Microcontroladores, multímetros, actuadores y soldadura supervisada.
 
@@ -130104,21 +130174,41 @@ Australia · STEMBuddy · Narre Warren South VIC
 
 **Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 
-**Matvey:** Más adelante. El módulo está dirigido a Years 5–10.
+**Matvey:** Condicional. Confirmar días reales, edad y curso escolar del grupo antes de pagar.
 
-**Oscar:** Más adelante. El módulo está dirigido a Years 5–10.
+**Oscar:** Por debajo de la edad mínima en la oferta de reservas.
 
 **Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
 
 ### Antes de solicitar plaza
 
+- Condicional. Confirmar días reales, edad y curso escolar del grupo antes de pagar.
+
 - Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 
-- Las fechas de la descripción y de la inscripción difieren. Este módulo requiere confirmar el horario.
+### Oferta de reservas del 20–22 de enero de 2027, descripción del 21–23 de enero. Confirmar días reales.
+
+**Fechas / estado:** 2027-01-20 — 2027-01-22
+
+**lugar:** STEMBuddy · Narre Warren South VIC
+
+**edad:** La oferta indica desde 9 años y la descripción indica Years 5–10.
+
+**Precio:** AUD 375 en la opción actual. Confirmar posibles comisiones.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Condicional. Confirmar días reales, edad y curso escolar del grupo antes de pagar.
+
+**Oscar:** Por debajo de la edad mínima en la oferta de reservas.
+
+[fuente](https://www.trybooking.com/au/apiv2/events/1660294/sessions?month=1&year=2027)
 
 ### Fuentes
 
 - [Página oficial del organizador](https://www.trybooking.com/au/event/1660294) · 2026-11-07
+
+- [Página oficial del organizador](https://www.trybooking.com/au/apiv2/events/1660294/sessions?month=1&year=2027) · 2026-11-07
 
 ## CP1685 · Kids Up Front · Sydney
 
@@ -137285,6 +137375,896 @@ Taiwán · Singular Maker · 56 Nanjing East Road Sec. 5, 2F-1 · Songshan · Ta
 ### Fuentes
 
 - [Página oficial del organizador](https://www.singularmaker.com.tw/article_d.php?id=1728&lang=tw&tb=1) · 2026-11-07
+
+## CP1751 · Young Engineers · Inner Sydney Robotics & Engineering
+
+Australia · Inner Sydney · four venues
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Kindergarten a Year 6. La organización confirma el grupo de edad.
+
+**Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar.
+
+**Programa:** Construcción de modelos LEGO motorizados, retos de mecánica, circuitos y movimiento. Grupos por edad y experiencia.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 12, 19 y 21 de enero de 2027 de 09:00 a 15:00. 14 de enero de 2027 de 09:30 a 12:00. Sede indicada por día.
+
+**Precio / año:** 2027 · AUD 75 en la oferta sin bono, AUD 25 con un NSW Active & Creative Kids Voucher válido. AUD 135 en la oferta sin bono, AUD 85 con un NSW Active & Creative Kids Voucher válido.
+
+**Incluido:** Construcción de modelos LEGO motorizados, retos de mecánica, circuitos y movimiento. Grupos por edad y experiencia.
+
+**Suplementos:** Llevar agua, almuerzo y meriendas. En jornada completa se puede llegar desde las 08:30.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Condicional. Confirmar edad del grupo concreto y plaza.
+
+**Oscar:** Condicional. Confirmar edad del grupo concreto y plaza.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Rhodes Recreation Centre
+
+**Fechas / estado:** 2027-01-12 — 2027-01-12
+
+**lugar:** Rhodes Recreation Centre
+
+**edad:** Kindergarten a Year 6. La organización confirma el grupo de edad.
+
+**Precio:** AUD 135 en la oferta sin bono, AUD 85 con un NSW Active & Creative Kids Voucher válido.
+
+- 2027-01-12 · 09:00–15:00 · Australia/Sydney · Construcción de modelos LEGO motorizados, retos de mecánica, circuitos y movimiento. Grupos por edad y experiencia.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** Condicional. Confirmar edad del grupo concreto y plaza.
+
+**Oscar:** Condicional. Confirmar edad del grupo concreto y plaza.
+
+[fuente](https://www.trybooking.com/au/apiv2/events/1674465/sessions?month=1&year=2027)
+
+### Chatswood Library
+
+**Fechas / estado:** 2027-01-14 — 2027-01-14
+
+**lugar:** Chatswood Library
+
+**edad:** Kindergarten a Year 6. La organización confirma el grupo de edad.
+
+**Precio:** AUD 75 en la oferta sin bono, AUD 25 con un NSW Active & Creative Kids Voucher válido.
+
+- 2027-01-14 · 09:30–12:00 · Australia/Sydney · Construcción de modelos LEGO motorizados, retos de mecánica, circuitos y movimiento. Grupos por edad y experiencia.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** Condicional. Confirmar edad del grupo concreto y plaza.
+
+**Oscar:** Condicional. Confirmar edad del grupo concreto y plaza.
+
+[fuente](https://www.trybooking.com/au/apiv2/events/1674465/sessions?month=1&year=2027)
+
+### North Ryde Anglican Church
+
+**Fechas / estado:** 2027-01-19 — 2027-01-19
+
+**lugar:** North Ryde Anglican Church
+
+**edad:** Kindergarten a Year 6. La organización confirma el grupo de edad.
+
+**Precio:** AUD 135 en la oferta sin bono, AUD 85 con un NSW Active & Creative Kids Voucher válido.
+
+- 2027-01-19 · 09:00–15:00 · Australia/Sydney · Construcción de modelos LEGO motorizados, retos de mecánica, circuitos y movimiento. Grupos por edad y experiencia.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** Condicional. Confirmar edad del grupo concreto y plaza.
+
+**Oscar:** Condicional. Confirmar edad del grupo concreto y plaza.
+
+[fuente](https://www.trybooking.com/au/apiv2/events/1674465/sessions?month=1&year=2027)
+
+### Boronia Park Uniting Church · Gladesville
+
+**Fechas / estado:** 2027-01-21 — 2027-01-21
+
+**lugar:** Boronia Park Uniting Church · Gladesville
+
+**edad:** Kindergarten a Year 6. La organización confirma el grupo de edad.
+
+**Precio:** AUD 135 en la oferta sin bono, AUD 85 con un NSW Active & Creative Kids Voucher válido.
+
+- 2027-01-21 · 09:00–15:00 · Australia/Sydney · Construcción de modelos LEGO motorizados, retos de mecánica, circuitos y movimiento. Grupos por edad y experiencia.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** Condicional. Confirmar edad del grupo concreto y plaza.
+
+**Oscar:** Condicional. Confirmar edad del grupo concreto y plaza.
+
+[fuente](https://www.trybooking.com/au/apiv2/events/1674465/sessions?month=1&year=2027)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.trybooking.com/au/event/1674465) · 2026-11-07
+
+- [Página oficial del organizador](https://www.trybooking.com/au/apiv2/events/1674465/sessions?month=1&year=2027) · 2026-11-07
+
+## CP1752 · Young Engineers · Melbourne South LEGO Robotics
+
+Australia · Young Engineers · Melbourne South
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Desde Prep; el curso máximo difiere en la descripción.
+
+**Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar.
+
+**Programa:** Construcción de modelos LEGO motorizados, retos de mecánica, circuitos y movimiento. Grupos por edad y experiencia.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** La oferta muestra el periodo general del 11–22 de enero de 2027 y rango AUD 125–309. La descripción contiene fechas de septiembre de 2026 y diferentes cursos máximos. Confirmar días, horas y sede.
+
+**Precio / año:** 2027 · La oferta muestra el periodo general del 11–22 de enero de 2027 y rango AUD 125–309. La descripción contiene fechas de septiembre de 2026 y diferentes cursos máximos. Confirmar días, horas y sede.
+
+**Incluido:** Construcción de modelos LEGO motorizados, retos de mecánica, circuitos y movimiento. Grupos por edad y experiencia.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Condicional. Confirmar edad del grupo concreto y plaza.
+
+**Oscar:** Condicional. Confirmar edad del grupo concreto y plaza.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### La oferta muestra el periodo general del 11–22 de enero de 2027 y rango AUD 125–309. La descripción contiene fechas de septiembre de 2026 y diferentes cursos máximos. Confirmar días, horas y sede.
+
+**Fechas / estado:** 2027-01-11 — 2027-01-22
+
+**Precio:** La oferta muestra el periodo general del 11–22 de enero de 2027 y rango AUD 125–309. La descripción contiene fechas de septiembre de 2026 y diferentes cursos máximos. Confirmar días, horas y sede.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+[fuente](https://www.trybooking.com/au/apiv2/events/1666748/sessions?month=1&year=2027)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.trybooking.com/au/event/1666748) · 2026-11-07
+
+- [Página oficial del organizador](https://www.trybooking.com/au/apiv2/events/1666748/sessions?month=1&year=2027) · 2026-11-07
+
+## CP1753 · Bricks 4 Kidz · Hamilton Central
+
+Nueva Zelanda · Waikato Sport Fishing Club · 499 Grantham Street · Hamilton Central
+
+**Se ha comprobado:** 2026-11-07
+
+**Edad:** 5–14
+
+**Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar.
+
+**Programa:** Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 09:00–16:00. Días sueltos del 16–18 de diciembre de 2026, 18–22 y 25–29 de enero de 2027. Semana completa disponible para los turnos de enero.
+
+**Precio / año:** 2027 · NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte. Paquetes semanales por fechas · NZD 360 y NZD 330. Cada fecha ofrece días sueltos con su propio precio.
+
+**Incluido:** Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+**Suplementos:** Llegada desde las 08:00 y recogida hasta las 17:00 por NZD 8 por niño por opción y día. Almuerzo NZD 10.80 por niño y día.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Un día
+
+**Fechas / estado:** 2026-12-16 — 2026-12-16
+
+**lugar:** Waikato Sport Fishing Club · 499 Grantham Street · Hamilton Central
+
+**Edad:** 5–14
+
+**Precio:** NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.
+
+- 2026-12-16 · 09:00–16:00 · Pacific/Auckland · Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+[fuente](https://form.jotform.com/hamiltonnorth/central-dec)
+
+### Un día
+
+**Fechas / estado:** 2026-12-17 — 2026-12-17
+
+**lugar:** Waikato Sport Fishing Club · 499 Grantham Street · Hamilton Central
+
+**Edad:** 5–14
+
+**Precio:** NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.
+
+- 2026-12-17 · 09:00–16:00 · Pacific/Auckland · Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+[fuente](https://form.jotform.com/hamiltonnorth/central-dec)
+
+### Un día
+
+**Fechas / estado:** 2026-12-18 — 2026-12-18
+
+**lugar:** Waikato Sport Fishing Club · 499 Grantham Street · Hamilton Central
+
+**Edad:** 5–14
+
+**Precio:** NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.
+
+- 2026-12-18 · 09:00–16:00 · Pacific/Auckland · Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+[fuente](https://form.jotform.com/hamiltonnorth/central-dec)
+
+### Semana completa
+
+**Fechas / estado:** 2027-01-18 — 2027-01-22
+
+**lugar:** Waikato Sport Fishing Club · 499 Grantham Street · Hamilton Central
+
+**Edad:** 5–14
+
+**Precio:** NZD 360 por niño por paquete semanal.
+
+- 2027-01-18 · 09:00–16:00 · Pacific/Auckland · Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+- 2027-01-19 · 09:00–16:00 · Pacific/Auckland · Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+- 2027-01-20 · 09:00–16:00 · Pacific/Auckland · Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+- 2027-01-21 · 09:00–16:00 · Pacific/Auckland · Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+- 2027-01-22 · 09:00–16:00 · Pacific/Auckland · Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+[fuente](https://form.jotform.com/hamiltonnorth/hp-city-week1)
+
+### Un día
+
+**Fechas / estado:** 2027-01-18 — 2027-01-18
+
+**lugar:** Waikato Sport Fishing Club · 499 Grantham Street · Hamilton Central
+
+**Edad:** 5–14
+
+**Precio:** NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.
+
+- 2027-01-18 · 09:00–16:00 · Pacific/Auckland · Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+[fuente](https://form.jotform.com/hamiltonnorth/hp-city-week1)
+
+### Un día
+
+**Fechas / estado:** 2027-01-19 — 2027-01-19
+
+**lugar:** Waikato Sport Fishing Club · 499 Grantham Street · Hamilton Central
+
+**Edad:** 5–14
+
+**Precio:** NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.
+
+- 2027-01-19 · 09:00–16:00 · Pacific/Auckland · Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+[fuente](https://form.jotform.com/hamiltonnorth/hp-city-week1)
+
+### Un día
+
+**Fechas / estado:** 2027-01-20 — 2027-01-20
+
+**lugar:** Waikato Sport Fishing Club · 499 Grantham Street · Hamilton Central
+
+**Edad:** 5–14
+
+**Precio:** NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.
+
+- 2027-01-20 · 09:00–16:00 · Pacific/Auckland · Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+[fuente](https://form.jotform.com/hamiltonnorth/hp-city-week1)
+
+### Un día
+
+**Fechas / estado:** 2027-01-21 — 2027-01-21
+
+**lugar:** Waikato Sport Fishing Club · 499 Grantham Street · Hamilton Central
+
+**Edad:** 5–14
+
+**Precio:** NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.
+
+- 2027-01-21 · 09:00–16:00 · Pacific/Auckland · Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+[fuente](https://form.jotform.com/hamiltonnorth/hp-city-week1)
+
+### Un día
+
+**Fechas / estado:** 2027-01-22 — 2027-01-22
+
+**lugar:** Waikato Sport Fishing Club · 499 Grantham Street · Hamilton Central
+
+**Edad:** 5–14
+
+**Precio:** NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.
+
+- 2027-01-22 · 09:00–16:00 · Pacific/Auckland · Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+[fuente](https://form.jotform.com/hamiltonnorth/hp-city-week1)
+
+### Semana completa
+
+**Fechas / estado:** 2027-01-25 — 2027-01-29
+
+**lugar:** Waikato Sport Fishing Club · 499 Grantham Street · Hamilton Central
+
+**Edad:** 5–14
+
+**Precio:** NZD 330 por niño por paquete semanal.
+
+- 2027-01-25 · 09:00–16:00 · Pacific/Auckland · Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+- 2027-01-26 · 09:00–16:00 · Pacific/Auckland · Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+- 2027-01-27 · 09:00–16:00 · Pacific/Auckland · Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+- 2027-01-28 · 09:00–16:00 · Pacific/Auckland · Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+- 2027-01-29 · 09:00–16:00 · Pacific/Auckland · Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+[fuente](https://form.jotform.com/hamiltonnorth/hp-city-week2)
+
+### Un día
+
+**Fechas / estado:** 2027-01-25 — 2027-01-25
+
+**lugar:** Waikato Sport Fishing Club · 499 Grantham Street · Hamilton Central
+
+**Edad:** 5–14
+
+**Precio:** NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.
+
+- 2027-01-25 · 09:00–16:00 · Pacific/Auckland · Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+[fuente](https://form.jotform.com/hamiltonnorth/hp-city-week2)
+
+### Un día
+
+**Fechas / estado:** 2027-01-26 — 2027-01-26
+
+**lugar:** Waikato Sport Fishing Club · 499 Grantham Street · Hamilton Central
+
+**Edad:** 5–14
+
+**Precio:** NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.
+
+- 2027-01-26 · 09:00–16:00 · Pacific/Auckland · Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+[fuente](https://form.jotform.com/hamiltonnorth/hp-city-week2)
+
+### Un día
+
+**Fechas / estado:** 2027-01-27 — 2027-01-27
+
+**lugar:** Waikato Sport Fishing Club · 499 Grantham Street · Hamilton Central
+
+**Edad:** 5–14
+
+**Precio:** NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.
+
+- 2027-01-27 · 09:00–16:00 · Pacific/Auckland · Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+[fuente](https://form.jotform.com/hamiltonnorth/hp-city-week2)
+
+### Un día
+
+**Fechas / estado:** 2027-01-28 — 2027-01-28
+
+**lugar:** Waikato Sport Fishing Club · 499 Grantham Street · Hamilton Central
+
+**Edad:** 5–14
+
+**Precio:** NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.
+
+- 2027-01-28 · 09:00–16:00 · Pacific/Auckland · Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+[fuente](https://form.jotform.com/hamiltonnorth/hp-city-week2)
+
+### Un día
+
+**Fechas / estado:** 2027-01-29 — 2027-01-29
+
+**lugar:** Waikato Sport Fishing Club · 499 Grantham Street · Hamilton Central
+
+**Edad:** 5–14
+
+**Precio:** NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.
+
+- 2027-01-29 · 09:00–16:00 · Pacific/Auckland · Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+[fuente](https://form.jotform.com/hamiltonnorth/hp-city-week2)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.bricks4kidz.co.nz/hamilton-north/holiday-programme/) · 2026-11-07
+
+- [Página oficial del organizador](https://form.jotform.com/hamiltonnorth/central-dec) · 2026-11-07
+
+- [Página oficial del organizador](https://form.jotform.com/hamiltonnorth/hp-city-week1) · 2026-11-07
+
+- [Página oficial del organizador](https://form.jotform.com/hamiltonnorth/hp-city-week2) · 2026-11-07
+
+## CP1754 · Bricks 4 Kidz · Rototuna
+
+Nueva Zelanda · Rototuna La escuela secundaria · 56 Kimbrae Drive · Rototuna North
+
+**Se ha comprobado:** 2026-11-07
+
+**Edad:** 5–14
+
+**Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar.
+
+**Programa:** Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 09:00–16:00. Días sueltos del 16–18 de diciembre de 2026, 18–22 y 25–29 de enero de 2027. Semana completa disponible para los turnos de enero.
+
+**Precio / año:** 2027 · NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte. Paquetes semanales por fechas · NZD 330 y NZD 330. Cada fecha ofrece días sueltos con su propio precio.
+
+**Incluido:** Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+**Suplementos:** Llegada desde las 08:00 y recogida hasta las 17:00 por NZD 8 por niño por opción y día. Almuerzo NZD 10.80 por niño y día.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Un día
+
+**Fechas / estado:** 2026-12-16 — 2026-12-16
+
+**lugar:** Rototuna La escuela secundaria · 56 Kimbrae Drive · Rototuna North
+
+**Edad:** 5–14
+
+**Precio:** NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.
+
+- 2026-12-16 · 09:00–16:00 · Pacific/Auckland · Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+[fuente](https://form.jotform.com/hamiltonnorth/Rototuna-dec)
+
+### Un día
+
+**Fechas / estado:** 2026-12-17 — 2026-12-17
+
+**lugar:** Rototuna La escuela secundaria · 56 Kimbrae Drive · Rototuna North
+
+**Edad:** 5–14
+
+**Precio:** NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.
+
+- 2026-12-17 · 09:00–16:00 · Pacific/Auckland · Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+[fuente](https://form.jotform.com/hamiltonnorth/Rototuna-dec)
+
+### Un día
+
+**Fechas / estado:** 2026-12-18 — 2026-12-18
+
+**lugar:** Rototuna La escuela secundaria · 56 Kimbrae Drive · Rototuna North
+
+**Edad:** 5–14
+
+**Precio:** NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.
+
+- 2026-12-18 · 09:00–16:00 · Pacific/Auckland · Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+[fuente](https://form.jotform.com/hamiltonnorth/Rototuna-dec)
+
+### Semana completa
+
+**Fechas / estado:** 2027-01-18 — 2027-01-22
+
+**lugar:** Rototuna La escuela secundaria · 56 Kimbrae Drive · Rototuna North
+
+**Edad:** 5–14
+
+**Precio:** NZD 330 por niño por paquete semanal.
+
+- 2027-01-18 · 09:00–16:00 · Pacific/Auckland · Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+- 2027-01-19 · 09:00–16:00 · Pacific/Auckland · Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+- 2027-01-20 · 09:00–16:00 · Pacific/Auckland · Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+- 2027-01-21 · 09:00–16:00 · Pacific/Auckland · Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+- 2027-01-22 · 09:00–16:00 · Pacific/Auckland · Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+[fuente](https://form.jotform.com/hamiltonnorth/hp-rototuna-week1)
+
+### Un día
+
+**Fechas / estado:** 2027-01-18 — 2027-01-18
+
+**lugar:** Rototuna La escuela secundaria · 56 Kimbrae Drive · Rototuna North
+
+**Edad:** 5–14
+
+**Precio:** NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.
+
+- 2027-01-18 · 09:00–16:00 · Pacific/Auckland · Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+[fuente](https://form.jotform.com/hamiltonnorth/hp-rototuna-week1)
+
+### Un día
+
+**Fechas / estado:** 2027-01-19 — 2027-01-19
+
+**lugar:** Rototuna La escuela secundaria · 56 Kimbrae Drive · Rototuna North
+
+**Edad:** 5–14
+
+**Precio:** NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.
+
+- 2027-01-19 · 09:00–16:00 · Pacific/Auckland · Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+[fuente](https://form.jotform.com/hamiltonnorth/hp-rototuna-week1)
+
+### Un día
+
+**Fechas / estado:** 2027-01-20 — 2027-01-20
+
+**lugar:** Rototuna La escuela secundaria · 56 Kimbrae Drive · Rototuna North
+
+**Edad:** 5–14
+
+**Precio:** NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.
+
+- 2027-01-20 · 09:00–16:00 · Pacific/Auckland · Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+[fuente](https://form.jotform.com/hamiltonnorth/hp-rototuna-week1)
+
+### Un día
+
+**Fechas / estado:** 2027-01-21 — 2027-01-21
+
+**lugar:** Rototuna La escuela secundaria · 56 Kimbrae Drive · Rototuna North
+
+**Edad:** 5–14
+
+**Precio:** NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.
+
+- 2027-01-21 · 09:00–16:00 · Pacific/Auckland · Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+[fuente](https://form.jotform.com/hamiltonnorth/hp-rototuna-week1)
+
+### Un día
+
+**Fechas / estado:** 2027-01-22 — 2027-01-22
+
+**lugar:** Rototuna La escuela secundaria · 56 Kimbrae Drive · Rototuna North
+
+**Edad:** 5–14
+
+**Precio:** NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.
+
+- 2027-01-22 · 09:00–16:00 · Pacific/Auckland · Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+[fuente](https://form.jotform.com/hamiltonnorth/hp-rototuna-week1)
+
+### Semana completa
+
+**Fechas / estado:** 2027-01-25 — 2027-01-29
+
+**lugar:** Rototuna La escuela secundaria · 56 Kimbrae Drive · Rototuna North
+
+**Edad:** 5–14
+
+**Precio:** NZD 330 por niño por paquete semanal.
+
+- 2027-01-25 · 09:00–16:00 · Pacific/Auckland · Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+- 2027-01-26 · 09:00–16:00 · Pacific/Auckland · Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+- 2027-01-27 · 09:00–16:00 · Pacific/Auckland · Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+- 2027-01-28 · 09:00–16:00 · Pacific/Auckland · Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+- 2027-01-29 · 09:00–16:00 · Pacific/Auckland · Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+[fuente](https://form.jotform.com/hamiltonnorth/hp-rototuna-week2)
+
+### Un día
+
+**Fechas / estado:** 2027-01-25 — 2027-01-25
+
+**lugar:** Rototuna La escuela secundaria · 56 Kimbrae Drive · Rototuna North
+
+**Edad:** 5–14
+
+**Precio:** NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.
+
+- 2027-01-25 · 09:00–16:00 · Pacific/Auckland · Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+[fuente](https://form.jotform.com/hamiltonnorth/hp-rototuna-week2)
+
+### Un día
+
+**Fechas / estado:** 2027-01-26 — 2027-01-26
+
+**lugar:** Rototuna La escuela secundaria · 56 Kimbrae Drive · Rototuna North
+
+**Edad:** 5–14
+
+**Precio:** NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.
+
+- 2027-01-26 · 09:00–16:00 · Pacific/Auckland · Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+[fuente](https://form.jotform.com/hamiltonnorth/hp-rototuna-week2)
+
+### Un día
+
+**Fechas / estado:** 2027-01-27 — 2027-01-27
+
+**lugar:** Rototuna La escuela secundaria · 56 Kimbrae Drive · Rototuna North
+
+**Edad:** 5–14
+
+**Precio:** NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.
+
+- 2027-01-27 · 09:00–16:00 · Pacific/Auckland · Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+[fuente](https://form.jotform.com/hamiltonnorth/hp-rototuna-week2)
+
+### Un día
+
+**Fechas / estado:** 2027-01-28 — 2027-01-28
+
+**lugar:** Rototuna La escuela secundaria · 56 Kimbrae Drive · Rototuna North
+
+**Edad:** 5–14
+
+**Precio:** NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.
+
+- 2027-01-28 · 09:00–16:00 · Pacific/Auckland · Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+[fuente](https://form.jotform.com/hamiltonnorth/hp-rototuna-week2)
+
+### Un día
+
+**Fechas / estado:** 2027-01-29 — 2027-01-29
+
+**lugar:** Rototuna La escuela secundaria · 56 Kimbrae Drive · Rototuna North
+
+**Edad:** 5–14
+
+**Precio:** NZD 69 por niño y día. Almuerzo y cuidado ampliado aparte.
+
+- 2027-01-29 · 09:00–16:00 · Pacific/Auckland · Retos de ingeniería LEGO, robótica inicial, programación, actividades creativas y juegos. Temas distintos por día.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+[fuente](https://form.jotform.com/hamiltonnorth/hp-rototuna-week2)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.bricks4kidz.co.nz/hamilton-north/holiday-programme/) · 2026-11-07
+
+- [Página oficial del organizador](https://form.jotform.com/hamiltonnorth/Rototuna-dec) · 2026-11-07
+
+- [Página oficial del organizador](https://form.jotform.com/hamiltonnorth/hp-rototuna-week1) · 2026-11-07
+
+- [Página oficial del organizador](https://form.jotform.com/hamiltonnorth/hp-rototuna-week2) · 2026-11-07
 
 ## ~ Comprobaciones no cerradas
 

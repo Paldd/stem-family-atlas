@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 7963; competiciones: 3271; eventos: 380; campamentos / programas: 4312. Perfiles de ligas y programas: 270. Fichas de exposiciones grandes y especializadas: 292 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 8003; competiciones: 3272; eventos: 385; campamentos / programas: 4346. Perfiles de ligas y programas: 270. Fichas de exposiciones grandes y especializadas: 297 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros para 159 de 249 países y territorios. Países con auditoría completa: 0. La revisión histórica v51 agregó 21 fichas y 3 perfiles. Se conservaron las fichas previas.
 
@@ -19,11 +19,11 @@ Hay registros para 159 de 249 países y territorios. Países con auditoría comp
 | Europa | 42 | 434 | 82 | 1327 |
 | África | 34 | 133 | 21 | 70 |
 | Asia | 44 | 824 | 96 | 1550 |
-| Oceanía | 6 | 128 | 19 | 134 |
+| Oceanía | 6 | 129 | 24 | 168 |
 
 Fichas interregionales o globales sin continente único: 117. América del Norte incluye América Central y el Caribe. Las cifras muestran el inventario de la base y no un porcentaje de cobertura completa.
 
-VEX: 518 de 3271 fichas de competición (15.8%). Esto muestra un sesgo de cobertura.
+VEX: 518 de 3272 fichas de competición (15.8%). El catálogo presenta un sesgo de cobertura.
 
 ## Lo que queda
 
@@ -630,6 +630,11 @@ VEX: 518 de 3271 fichas de competición (15.8%). Esto muestra un sesgo de cobert
 - **COMEX Global Technology Show 2027** — Omán; 2027-02-01 – 2027-02-04. el permiso de entrada de niños. https://comex-global.com/
 - **Kuwait AI Summit 2027** — Kuwait; 2027-01-11 – 2027-01-12. el permiso de entrada de niños. https://www.kwaisummit.com/
 - **Alem Tech Fest 2027 · Expo & Hour of AI** — Kazajistán; 2027-02-18 – 2027-02-21. con un adulto; condiciones de admisión adulta por separado. https://alemtechfest.kz/en/
+- **iSTREAM Australia 2027 · Gaming & Creator Expo** — Australia; 2027-01-23 – 2027-01-24. con un adulto; condiciones de admisión adulta por separado. https://www.istreamaustralia.com/faqs
+- **Brickvention 2027 · Public Expo** — Australia; 2027-01-16 – 2027-01-17. con un adulto; condiciones de admisión adulta por separado. https://events.humanitix.com/brickvention2027
+- **INTERFACEXpo 2027 · Lincoln / Christchurch** — Nueva Zelanda; 2027-05-13. el permiso de entrada de niños. https://interfacexpo.nz/
+- **INTERFACEXpo 2027 · Rotorua** — Nueva Zelanda; 2027-05-18. el permiso de entrada de niños. https://interfacexpo.nz/
+- **INTERFACEXpo 2027 · Auckland** — Nueva Zelanda; 2027-05-20. el permiso de entrada de niños. https://interfacexpo.nz/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors
