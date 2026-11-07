@@ -4,6 +4,8 @@ import re
 
 # Explicit relations: a shared operator/domain is not proof of an identical track.
 RELATED = {
+    'bsi-panama-robotics': ['L687'],
+    'bsi-panama-minar-y-crear': ['L688'],
     'la-garenne': ['L249','L250','L251','L252','L253','L254'],
     'aiglon': ['L419'], 'rosenberg': ['L447','L448'],
     'brillantmont': ['L168','L169'], 'abi-paris': ['L229'],

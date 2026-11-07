@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base al 2026-11-07. 1854 fichas en 117 países. Cada ficha indica las fechas de verificación de las fuentes.
+Estado de la base: 2026-11-07. 1861 fichas en 117 países. Las fechas de verificación de las fuentes figuran en cada ficha.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -11974,7 +11974,7 @@ Red de campus universitarios y escolares USA
 
 Costa Rica · Guachipelín de Escazú / San José
 
-** Verificado:** 2026-10-04
+**Se ha comprobado:** 2026-11-07
 
 **Edad:** 2–8
 
@@ -12006,7 +12006,7 @@ Costa Rica · Guachipelín de Escazú / San José
 
 ### Fuentes
 
-- [Edad 2–8 / niños externos / el reloj / contenido](https://www.mountviewcr.com/cs-camp/) · 2026-10-04
+- [Página oficial del organizador](https://www.mountviewcr.com/cs-camp/) · 2026-11-07
 
 ## CP090 · CENFOTEC · Ruta Makers Lab
 
@@ -26942,7 +26942,7 @@ Loma Ridge Elementary · 500 Tomato Springs, Irvine, CA 92618
 
 Panamá · Playa del Pueblo, Isla Saboga · Isla Perlas; Marina Flamenco ○ envío ferry
 
-**Se ha comprobado:** 2026-11-06
+**Se ha comprobado:** 2026-11-07
 
 * Edad:** 7*16
 
@@ -26994,7 +26994,7 @@ Panamá · Playa del Pueblo, Isla Saboga · Isla Perlas; Marina Flamenco ○ env
 
 ### Fuentes
 
-- [programa, edad y precio base completo](https://www.sailingclubpanama.com/campamentos-verano-panama/) · 2026-11-06
+- [Página oficial del organizador](https://www.sailingclubpanama.com/campamentos-verano-panama/) · 2026-11-07
 
 - [forma de febrero 11–14/2027, se leía sin enviar](https://forms.gle/qHJMvZZzjpid4Ns6A) · 2026-11-06
 
@@ -30850,7 +30850,7 @@ Costa Rica · Puntarenas · UCR Sede del Pacífico
 
 Panamá · Panama City · Campus Dr Victor Levi Sasso
 
-** Verificado:** 2026-10-05
+**Se ha comprobado:** 2026-11-07
 
 **Edad:** Archivo:Participantes8–13; Uno.6No es una regla de acogida.
 
@@ -30883,6 +30883,8 @@ Panamá · Panama City · Campus Dr Victor Levi Sasso
 ### Fuentes
 
 - [el informe inicial del año real](https://sostenible.utp.ac.pa/noticia/actividad-tecno-camp-2026-utp) · 2026-10-05
+
+- [Página oficial del organizador](https://utp.ac.pa/node/44944) · 2026-11-07
 
 ## CP361 · Galileo Cuenca · robotics vacacional / fechas de la disputa
 
@@ -58792,7 +58794,7 @@ Brasil · Escola Arca · Lauro de Freitas, Bahia · Dirección completa aún no 
 
 Panamá · Hotel Campestre · El Valle de Antón
 
-**Se ha comprobado:** 2026-11-06
+**Se ha comprobado:** 2026-11-07
 
 * Edad:** 4*10
 
@@ -58836,9 +58838,9 @@ Panamá · Hotel Campestre · El Valle de Antón
 
 ### Fuentes
 
-- [2027 precio / composición / hermanos / noche / cancelación](https://www.cacaocamps.com/day-camp-el-valle/) · 2026-11-06
+- [Página oficial del organizador](https://www.cacaocamps.com/day-camp-el-valle/) · 2026-11-07
 
-- [Homepage confirma 4–8January2027](https://www.cacaocamps.com/) · 2026-11-06
+- [Página oficial del organizador](https://www.cacaocamps.com/) · 2026-11-07
 
 - [operador/asegurador/vivencia](https://www.cacaocamps.com/conocenos/) · 2026-10-06
 
@@ -80604,7 +80606,7 @@ Uganda · Kampala · Kansanga Complex, Level 2, near KIU
 
 Costa Rica · Heredia · Santa Bárbara · San Juan; dirección escolar, sede de campamento concreto aún por confirmar.
 
-**Se ha comprobado:** 2026-11-04
+**Se ha comprobado:** 2026-11-07
 
 **edad:** Edad / curso del programa elegido sin indicar; no trasladar rango escolar.
 
@@ -80614,7 +80616,7 @@ Costa Rica · Heredia · Santa Bárbara · San Juan; dirección escolar, sede de
 
 **Alojamiento:** Modalidad diurna 07:00–16:00; confirmar días exactos, festivos y ampliación.
 
-**Fechas / estado:** Formulario actual: 2–18 de diciembre de 2026 y 4–29 de enero de 2027. Caché de búsqueda contenía otros días finales / iniciales; horario diario desconocido. Hasta confirmar vínculo del formulario con colegio, ventanas excluidas del calendario de sesiones confirmadas.
+**Fechas / estado:** El formulario actual muestra 2–18 de diciembre de 2026 y 4–29 de enero de 2027. La copia de búsqueda indica otros días. Confirmar vínculo del formulario con la escuela y horario de actividades.
 
 **Precio / año:** 2026 · Formulario público no indica importe, unidad de pago ni descuentos; no considerar programa gratuito.
 
@@ -80636,17 +80638,19 @@ Costa Rica · Heredia · Santa Bárbara · San Juan; dirección escolar, sede de
 
 - Obtener precio final, inclusiones, equipo, comida, transporte, seguros y cancelación escrita de sesión elegida.
 
+- El Camp en inglés, English Program y STEAM pueden ser programas distintos. Confirmar idioma y paquete del grupo concreto.
+
 ### Fuentes
 
-- [Formulario público actual: programas y periodos](https://form.jotform.com/252805351014851) · 2026-11-04
+- [Página oficial del organizador](https://form.jotform.com/252805351014851) · 2026-11-07
 
-- [Web escolar: operador, dirección y modalidades lingüísticas generales](https://complejonewhope.co.cr/quienes-somos/) · 2026-11-04
+- [Página oficial del organizador](https://complejonewhope.co.cr/quienes-somos/) · 2026-11-07
 
 ## CP1159 · New Hope · English Program
 
 Costa Rica · Heredia · Santa Bárbara · San Juan; dirección escolar, sede de campamento concreto aún por confirmar.
 
-**Se ha comprobado:** 2026-11-04
+**Se ha comprobado:** 2026-11-07
 
 **edad:** Edad / curso del programa elegido sin indicar; no trasladar rango escolar.
 
@@ -80656,7 +80660,7 @@ Costa Rica · Heredia · Santa Bárbara · San Juan; dirección escolar, sede de
 
 **Alojamiento:** Modalidad diurna 07:00–12:00; confirmar días exactos, festivos y ampliación.
 
-**Fechas / estado:** Formulario actual: 2–18 de diciembre de 2026 y 4–29 de enero de 2027. Caché de búsqueda contenía otros días finales / iniciales; horario diario desconocido. Hasta confirmar vínculo del formulario con colegio, ventanas excluidas del calendario de sesiones confirmadas.
+**Fechas / estado:** El formulario actual muestra 2–18 de diciembre de 2026 y 4–29 de enero de 2027. La copia de búsqueda indica otros días. Confirmar vínculo del formulario con la escuela y horario de actividades.
 
 **Precio / año:** 2026 · Formulario público no indica importe, unidad de pago ni descuentos; no considerar programa gratuito.
 
@@ -80678,17 +80682,19 @@ Costa Rica · Heredia · Santa Bárbara · San Juan; dirección escolar, sede de
 
 - Obtener precio final, inclusiones, equipo, comida, transporte, seguros y cancelación escrita de sesión elegida.
 
+- El Camp en inglés, English Program y STEAM pueden ser programas distintos. Confirmar idioma y paquete del grupo concreto.
+
 ### Fuentes
 
-- [Formulario público actual: programas y periodos](https://form.jotform.com/252805351014851) · 2026-11-04
+- [Página oficial del organizador](https://form.jotform.com/252805351014851) · 2026-11-07
 
-- [Web escolar: operador, dirección y modalidades lingüísticas generales](https://complejonewhope.co.cr/quienes-somos/) · 2026-11-04
+- [Página oficial del organizador](https://complejonewhope.co.cr/quienes-somos/) · 2026-11-07
 
 ## CP1160 · New Hope · Sports Program
 
 Costa Rica · Heredia · Santa Bárbara · San Juan; dirección escolar, sede de campamento concreto aún por confirmar.
 
-**Se ha comprobado:** 2026-11-04
+**Se ha comprobado:** 2026-11-07
 
 **edad:** Edad / curso del programa elegido sin indicar; no trasladar rango escolar.
 
@@ -80698,7 +80704,7 @@ Costa Rica · Heredia · Santa Bárbara · San Juan; dirección escolar, sede de
 
 **Alojamiento:** Modalidad diurna 07:00–12:00; confirmar días exactos, festivos y ampliación.
 
-**Fechas / estado:** Formulario actual: 2–18 de diciembre de 2026 y 4–29 de enero de 2027. Caché de búsqueda contenía otros días finales / iniciales; horario diario desconocido. Hasta confirmar vínculo del formulario con colegio, ventanas excluidas del calendario de sesiones confirmadas.
+**Fechas / estado:** El formulario actual muestra 2–18 de diciembre de 2026 y 4–29 de enero de 2027. La copia de búsqueda indica otros días. Confirmar vínculo del formulario con la escuela y horario de actividades.
 
 **Precio / año:** 2026 · Formulario público no indica importe, unidad de pago ni descuentos; no considerar programa gratuito.
 
@@ -80720,11 +80726,13 @@ Costa Rica · Heredia · Santa Bárbara · San Juan; dirección escolar, sede de
 
 - Obtener precio final, inclusiones, equipo, comida, transporte, seguros y cancelación escrita de sesión elegida.
 
+- El Camp en inglés, English Program y STEAM pueden ser programas distintos. Confirmar idioma y paquete del grupo concreto.
+
 ### Fuentes
 
-- [Formulario público actual: programas y periodos](https://form.jotform.com/252805351014851) · 2026-11-04
+- [Página oficial del organizador](https://form.jotform.com/252805351014851) · 2026-11-07
 
-- [Web escolar: operador, dirección y modalidades lingüísticas generales](https://complejonewhope.co.cr/quienes-somos/) · 2026-11-04
+- [Página oficial del organizador](https://complejonewhope.co.cr/quienes-somos/) · 2026-11-07
 
 ## CP1161 · ALPHA Camp · Maker Faire Shenzhen 2026
 
@@ -97148,7 +97156,7 @@ Colombia · Santa Marta · Av. del Libertador #19–97
 
 México · En línea · zona horaria sin anunciar
 
-**Se ha comprobado:** 2026-11-05
+**Se ha comprobado:** 2026-11-07
 
 * Edad:** 10*13
 
@@ -97180,7 +97188,7 @@ México · En línea · zona horaria sin anunciar
 
 ### Fuentes
 
-- [Specific winter course / five sessions / MXN](https://cultivatec.com.mx/curso-robotics-winter-camp.html) · 2026-11-05
+- [Página oficial del organizador](https://cultivatec.com.mx/curso-robotics-winter-camp.html) · 2026-11-07
 
 - [Operator and separate school courses](https://cultivatec.com.mx/) · 2026-11-05
 
@@ -110318,7 +110326,7 @@ Esuatini · Simunye
 
 México · Blvd. Miguel Hidalgo 43 · El Centenario · Hermosillo, Sonora
 
-**Se ha comprobado:** 2026-11-06
+**Se ha comprobado:** 2026-11-07
 
 **Edad:** 9–12
 
@@ -110392,7 +110400,7 @@ México · Blvd. Miguel Hidalgo 43 · El Centenario · Hermosillo, Sonora
 
 ### Fuentes
 
-- [DIMEX · programme and borrowed equipment](https://dimexideas.com/club-de-robotica/) · 2026-11-06
+- [Página oficial del organizador](https://dimexideas.com/club-de-robotica/) · 2026-11-07
 
 - [DIMEX · linked form closed](https://forms.gle/DhRdVdkJTHwZjrCD6) · 2026-11-06
 
@@ -145563,6 +145571,402 @@ Bermudas · Bermuda
 ### Fuentes
 
 - [Página oficial del organizador](https://bzs.bm/education/science-club/) · 2026-11-07
+
+## CP1855 · ADEC · Kids Camp Escalante 2026
+
+Costa Rica · Olmos Preschool · Escalante · San José
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** La organización indica grupos KG1, KG2, KG3 y OPTs. Los niveles habituales de Olmos Preschool llegan hasta 5 años.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Programa diurno en una sede preescolar. El horario no indica clases de robótica ni un módulo técnico separado.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** 30 de noviembre – 11 de diciembre de 2026, excepto 1 de diciembre. Solicitudes hasta el 20 de noviembre.
+
+**Precio / año:** 2026 · Por día: 12000 para KG1 sin comida, 14000 para KG2, KG3 y OPTs con comida. Cuidados ampliados 3500 por día. La página no indica moneda.
+
+**Incluido:** 07:30–14:30, recepción desde 06:30. Cuidados ampliados 14:30–17:00.
+
+**Suplementos:** Traslado, comidas no incluidas y gastos familiares por separado.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Según las edades de Olmos, ambos superan el rango habitual. Excepciones del campamento y admisión externa sin publicar.
+
+**Oscar:** Según las edades de Olmos, ambos superan el rango habitual. Excepciones del campamento y admisión externa sin publicar.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar curso escolar, idioma de las actividades y plaza para cada menor.
+
+### 07:30–14:30, recepción desde 06:30. Cuidados ampliados 14:30–17:00.
+
+**Fechas / estado:** 2026-11-30 — 2026-12-11
+
+**Precio:** Por día: 12000 para KG1 sin comida, 14000 para KG2, KG3 y OPTs con comida. Cuidados ampliados 3500 por día. La página no indica moneda.
+
+**Disponibilidad de plazas:** Fechas publicadas. Confirmar disponibilidad y condiciones de inscripción.
+
+[fuente](https://colegiosadec.org/site/kids-camp-escalante/)
+
+### Fuentes
+
+- [Página oficial del organizador](https://colegiosadec.org/site/kids-camp-escalante/) · 2026-11-07
+
+- [Página oficial del organizador](https://colegiosadec.org/olmos-preschool/) · 2026-11-07
+
+- [Página oficial del organizador](https://colegiosadec.org/site/sobrenosotros/) · 2026-11-07
+
+## CP1856 · Barça Academy · Campus Panamá 2027
+
+Panamá · COS Sports Plaza · Ciudad de Panamá
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 6–18 años según las preguntas frecuentes del organizador local.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Cinco días de entrenamiento de 3 horas. Equipación oficial, agua, diploma y seguro durante entrenamientos.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** 11–15 de enero de 2027. La organización publica 15:00–18:00 y 18:00–21:00. Confirmar asignación de grupo por edad.
+
+**Precio / año:** 2027 · 430 USD por menor. Descuento de 5% para el segundo hermano, base para dos de 838.50 USD.
+
+**Incluido:** Cinco días de entrenamiento de 3 horas. Equipación oficial, agua, diploma y seguro durante entrenamientos.
+
+**Suplementos:** Traslado, comidas no incluidas y gastos familiares por separado.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Ambos cumplen la edad. Confirmar grupo, idioma del entrenador, dos plazas e importe final.
+
+**Oscar:** Ambos cumplen la edad. Confirmar grupo, idioma del entrenador, dos plazas e importe final.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar curso escolar, idioma de las actividades y plaza para cada menor.
+
+### 11–15 de enero de 2027. La organización publica 15:00–18:00 y 18:00–21:00. Confirmar asignación de grupo por edad.
+
+**Fechas / estado:** 2027-01-11 — 2027-01-15
+
+**Precio:** 430 USD por menor. Descuento de 5% para el segundo hermano, base para dos de 838.50 USD.
+
+**Disponibilidad de plazas:** Fechas publicadas. Confirmar disponibilidad y condiciones de inscripción.
+
+[fuente](https://campuspanama.barcaacademy.com/locaciones-julio-2026/)
+
+### Fuentes
+
+- [Página oficial del organizador](https://campuspanama.barcaacademy.com/locaciones-julio-2026/) · 2026-11-07
+
+- [Página oficial del organizador](https://barcaacademy.fcbarcelona.com/en/news/3823431/ciudad-de-panama-camp) · 2026-11-07
+
+- [Página oficial del organizador](https://campuspanama.barcaacademy.com/faq/) · 2026-11-07
+
+- [Página oficial del organizador](https://campuspanama.barcaacademy.com/producto/inscripcion-jugador-ciudad-de-panama/) · 2026-11-07
+
+## CP1857 · Museo Kaluz · Taller de Vitrales
+
+México · Museo Kaluz · Centro Histórico · Ciudad de México
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** El organizador invita a público de todas las edades. Confirmar acompañamiento de menores.
+
+**Idioma:** La página pública describe el programa. Confirmar idioma de trabajo del grupo concreto.
+
+**Programa:** Pintura sobre vidrio y diseño propio. La tarifa indica acceso a las exposiciones.
+
+**Alojamiento:** Taller presencial breve sin alojamiento.
+
+**Fechas / estado:** Inicio a las 14:00. Hora de cierre sin indicar.
+
+**Precio / año:** 2026 · La página muestra una tarifa de $ 350. No indica código de moneda.
+
+**Incluido:** Pintura sobre vidrio y diseño propio. La tarifa indica acceso a las exposiciones.
+
+**Suplementos:** Confirmar moneda, entrada del acompañante y disponibilidad.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento.
+
+**Oscar:** Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento.
+
+### Inicio a las 14:00. Hora de cierre sin indicar.
+
+**Fechas / estado:** 2026-12-19 — 2026-12-19
+
+**Precio:** La página muestra una tarifa de $ 350. No indica código de moneda.
+
+**Disponibilidad de plazas:** Fechas publicadas. Confirmar disponibilidad y condiciones de inscripción.
+
+[fuente](https://museokaluz.org/actividades/programa-vacacional-celebra-a-traves-del-arte/)
+
+### Inicio a las 14:00. Hora de cierre sin indicar.
+
+**Fechas / estado:** 2026-12-26 — 2026-12-26
+
+**Precio:** La página muestra una tarifa de $ 350. No indica código de moneda.
+
+**Disponibilidad de plazas:** Fechas publicadas. Confirmar disponibilidad y condiciones de inscripción.
+
+[fuente](https://museokaluz.org/actividades/programa-vacacional-celebra-a-traves-del-arte/)
+
+### Inicio a las 14:00. Hora de cierre sin indicar.
+
+**Fechas / estado:** 2027-01-03 — 2027-01-03
+
+**Precio:** La página muestra una tarifa de $ 350. No indica código de moneda.
+
+**Disponibilidad de plazas:** Fechas publicadas. Confirmar disponibilidad y condiciones de inscripción.
+
+[fuente](https://museokaluz.org/actividades/programa-vacacional-celebra-a-traves-del-arte/)
+
+### Fuentes
+
+- [Página oficial del organizador](https://museokaluz.org/actividades/programa-vacacional-celebra-a-traves-del-arte/) · 2026-11-07
+
+## CP1858 · Museo Kaluz · Dijes y Pulseras
+
+México · Museo Kaluz · Centro Histórico · Ciudad de México
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** El organizador invita a público de todas las edades. Confirmar acompañamiento de menores.
+
+**Idioma:** La página pública describe el programa. Confirmar idioma de trabajo del grupo concreto.
+
+**Programa:** Diseño de dijes y pulseras. Incluye exposición de simbolismo y art nouveau mexicanos.
+
+**Alojamiento:** Taller presencial breve sin alojamiento.
+
+**Fechas / estado:** Horario publicado 13:00–16:00. Confirmar duración de la actividad.
+
+**Precio / año:** 2026 · La página muestra una tarifa de $ 150. No indica código de moneda.
+
+**Incluido:** Diseño de dijes y pulseras. Incluye exposición de simbolismo y art nouveau mexicanos.
+
+**Suplementos:** Confirmar moneda, entrada del acompañante y disponibilidad.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento.
+
+**Oscar:** Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento.
+
+### Horario publicado 13:00–16:00. Confirmar duración de la actividad.
+
+**Fechas / estado:** 2026-12-19 — 2026-12-19
+
+**Precio:** La página muestra una tarifa de $ 150. No indica código de moneda.
+
+**Disponibilidad de plazas:** Fechas publicadas. Confirmar disponibilidad y condiciones de inscripción.
+
+[fuente](https://museokaluz.org/actividades/programa-vacacional-celebra-a-traves-del-arte/)
+
+### Horario publicado 13:00–16:00. Confirmar duración de la actividad.
+
+**Fechas / estado:** 2026-12-26 — 2026-12-26
+
+**Precio:** La página muestra una tarifa de $ 150. No indica código de moneda.
+
+**Disponibilidad de plazas:** Fechas publicadas. Confirmar disponibilidad y condiciones de inscripción.
+
+[fuente](https://museokaluz.org/actividades/programa-vacacional-celebra-a-traves-del-arte/)
+
+### Horario publicado 13:00–16:00. Confirmar duración de la actividad.
+
+**Fechas / estado:** 2027-01-03 — 2027-01-03
+
+**Precio:** La página muestra una tarifa de $ 150. No indica código de moneda.
+
+**Disponibilidad de plazas:** Fechas publicadas. Confirmar disponibilidad y condiciones de inscripción.
+
+[fuente](https://museokaluz.org/actividades/programa-vacacional-celebra-a-traves-del-arte/)
+
+### Fuentes
+
+- [Página oficial del organizador](https://museokaluz.org/actividades/programa-vacacional-celebra-a-traves-del-arte/) · 2026-11-07
+
+## CP1859 · Museo Kaluz · De Manta y Color · Tote Bag
+
+México · Museo Kaluz · Centro Histórico · Ciudad de México
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** El organizador invita a público de todas las edades. Confirmar acompañamiento de menores.
+
+**Idioma:** La página pública describe el programa. Confirmar idioma de trabajo del grupo concreto.
+
+**Programa:** Pintura de bolsa con color, forma y textura. Incluye exposición de simbolismo y art nouveau mexicanos.
+
+**Alojamiento:** Taller presencial breve sin alojamiento.
+
+**Fechas / estado:** Horario publicado 12:00–16:00. Confirmar duración de la actividad.
+
+**Precio / año:** 2026 · La página muestra una tarifa de $ 220. No indica código de moneda.
+
+**Incluido:** Pintura de bolsa con color, forma y textura. Incluye exposición de simbolismo y art nouveau mexicanos.
+
+**Suplementos:** Confirmar moneda, entrada del acompañante y disponibilidad.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento.
+
+**Oscar:** Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento.
+
+### Horario publicado 12:00–16:00. Confirmar duración de la actividad.
+
+**Fechas / estado:** 2026-12-19 — 2026-12-19
+
+**Precio:** La página muestra una tarifa de $ 220. No indica código de moneda.
+
+**Disponibilidad de plazas:** Fechas publicadas. Confirmar disponibilidad y condiciones de inscripción.
+
+[fuente](https://museokaluz.org/actividades/programa-vacacional-celebra-a-traves-del-arte/)
+
+### Horario publicado 12:00–16:00. Confirmar duración de la actividad.
+
+**Fechas / estado:** 2026-12-26 — 2026-12-26
+
+**Precio:** La página muestra una tarifa de $ 220. No indica código de moneda.
+
+**Disponibilidad de plazas:** Fechas publicadas. Confirmar disponibilidad y condiciones de inscripción.
+
+[fuente](https://museokaluz.org/actividades/programa-vacacional-celebra-a-traves-del-arte/)
+
+### Horario publicado 12:00–16:00. Confirmar duración de la actividad.
+
+**Fechas / estado:** 2026-12-27 — 2026-12-27
+
+**Precio:** La página muestra una tarifa de $ 220. No indica código de moneda.
+
+**Disponibilidad de plazas:** Fechas publicadas. Confirmar disponibilidad y condiciones de inscripción.
+
+[fuente](https://museokaluz.org/actividades/programa-vacacional-celebra-a-traves-del-arte/)
+
+### Horario publicado 12:00–16:00. Confirmar duración de la actividad.
+
+**Fechas / estado:** 2027-01-02 — 2027-01-02
+
+**Precio:** La página muestra una tarifa de $ 220. No indica código de moneda.
+
+**Disponibilidad de plazas:** Fechas publicadas. Confirmar disponibilidad y condiciones de inscripción.
+
+[fuente](https://museokaluz.org/actividades/programa-vacacional-celebra-a-traves-del-arte/)
+
+### Fuentes
+
+- [Página oficial del organizador](https://museokaluz.org/actividades/programa-vacacional-celebra-a-traves-del-arte/) · 2026-11-07
+
+## CP1860 · Boston School International · Robótica
+
+Panamá · Boston School International · Main Campus · Panamá
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Edad, horarios y días figuran pendientes de definición.
+
+**Idioma:** La página pública describe el programa. Confirmar idioma de trabajo del grupo concreto.
+
+**Programa:** Robótica escolar. Se describe el área, sin programa del grupo concreto.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** Publicación del curso escolar 2026–2027. Fechas de inicio y plazas disponibles sin anunciar.
+
+**Cabe/año:** no se ha fijado el precio.
+
+**Incluido:** Robótica escolar. Se describe el área, sin programa del grupo concreto.
+
+**Suplementos:** Traslado, comidas no incluidas y gastos familiares por separado.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Confirmar curso escolar, idioma de las actividades y plaza para cada menor.
+
+**Oscar:** Confirmar curso escolar, idioma de las actividades y plaza para cada menor.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- El catálogo escolar lo clasifica como actividad extraescolar. Confirmar admisión externa y convocatoria del grupo.
+
+### Fuentes
+
+- [Página oficial del organizador](https://bostonschool.edu.pa/wp-content/uploads/2026/01/After-School-BSI-2026.pdf) · 2026-11-07
+
+## CP1861 · Boston School International · Minar y Crear
+
+Panamá · Boston School International · Main Campus · Panamá
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** G2–G6. Confirmar equivalencia de curso con la escuela.
+
+**Idioma:** La página pública describe el programa. Confirmar idioma de trabajo del grupo concreto.
+
+**Programa:** Construcción con bloques virtuales y resolución de problemas en un videojuego. No se indica nombre de la plataforma.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** El catálogo indica miércoles y viernes, dos horarios 12:30–13:30 y 15:00–16:30. Confirmar correspondencia de día y hora.
+
+**Cabe/año:** no se ha fijado el precio.
+
+**Incluido:** Construcción con bloques virtuales y resolución de problemas en un videojuego. No se indica nombre de la plataforma.
+
+**Suplementos:** Traslado, comidas no incluidas y gastos familiares por separado.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Confirmar curso escolar, idioma de las actividades y plaza para cada menor.
+
+**Oscar:** Confirmar curso escolar, idioma de las actividades y plaza para cada menor.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- El catálogo escolar lo clasifica como actividad extraescolar. Confirmar admisión externa y convocatoria del grupo.
+
+### Fuentes
+
+- [Página oficial del organizador](https://bostonschool.edu.pa/wp-content/uploads/2026/01/After-School-BSI-2026.pdf) · 2026-11-07
 
 ## ~ Comprobaciones no cerradas
 

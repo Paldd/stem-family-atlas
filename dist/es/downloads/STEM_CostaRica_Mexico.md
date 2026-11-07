@@ -4631,7 +4631,7 @@ Acceso: Seis clases semanales de 2 horas: montaje de Arduino Uno sin soldar, pro
 Precio: 2026/27 · MXN 850 / 6 × 2 h · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Matvey tiene 9 años y cumple edad; inscripción cerrada impide considerar plaza disponible. Oscar: Oscar tiene 6 años, por debajo de edad mínima de 9 años. Suplementos: Viaje, alojamiento familiar, comidas fuera de inclusiones y seguro aparte; factura final completa sin establecer. Pago: Precio completo publicado; devolución sin detallar, formulario cerrado.
 Fuente: https://dimexideas.com/club-de-robotica/
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-07
 
 ### CP1477-20261106-20261211-friday-b · DIMEX · Mi Primer Robot · 2026 · Mi Primer Robot · friday-b · 17:00–19:00 · 2026-11-06–2026-12-11
 
@@ -4644,7 +4644,7 @@ Acceso: Seis clases semanales de 2 horas: montaje de Arduino Uno sin soldar, pro
 Precio: 2026/27 · MXN 850 / 6 × 2 h · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Matvey tiene 9 años y cumple edad; inscripción cerrada impide considerar plaza disponible. Oscar: Oscar tiene 6 años, por debajo de edad mínima de 9 años. Suplementos: Viaje, alojamiento familiar, comidas fuera de inclusiones y seguro aparte; factura final completa sin establecer. Pago: Precio completo publicado; devolución sin detallar, formulario cerrado.
 Fuente: https://dimexideas.com/club-de-robotica/
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-07
 
 ### CP1477-20261107-20261212-saturday-c · DIMEX · Mi Primer Robot · 2026 · Mi Primer Robot · saturday-c · 10:00–12:00 · 2026-11-07–2026-12-12
 
@@ -4657,7 +4657,7 @@ Acceso: Seis clases semanales de 2 horas: montaje de Arduino Uno sin soldar, pro
 Precio: 2026/27 · MXN 850 / 6 × 2 h · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Matvey tiene 9 años y cumple edad; inscripción cerrada impide considerar plaza disponible. Oscar: Oscar tiene 6 años, por debajo de edad mínima de 9 años. Suplementos: Viaje, alojamiento familiar, comidas fuera de inclusiones y seguro aparte; factura final completa sin establecer. Pago: Precio completo publicado; devolución sin detallar, formulario cerrado.
 Fuente: https://dimexideas.com/club-de-robotica/
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-07
 
 ### CP1671-20270111-20270115 · Barça Academy · San José · Taller diurno. · 2027-01-11–2027-01-15
 
@@ -4670,6 +4670,149 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2027 · Precio sin publicar. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://barcaacademycampscostarica.com/camps-costa-rica/
+Se ha comprobado: 2026-11-07
+
+### CP1855-20261130-20261211-dec26 · ADEC · Kids Camp Escalante 2026 · 07:30–14:30, recepción desde 06:30. Cuidados ampliados 14:30–17:00. · 2026-11-30–2026-12-11
+
+Fecha: 2026-11-30 — 2026-12-11
+edad: La organización indica grupos KG1, KG2, KG3 y OPTs. Los niveles habituales de Olmos Preschool llegan hasta 5 años.
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2026/27 · Por día: 12000 para KG1 sin comida, 14000 para KG2, KG3 y OPTs con comida. Cuidados ampliados 3500 por día. La página no indica moneda. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Según las edades de Olmos, ambos superan el rango habitual. Excepciones del campamento y admisión externa sin publicar. Oscar: Según las edades de Olmos, ambos superan el rango habitual. Excepciones del campamento y admisión externa sin publicar. Suplementos: Traslado, comidas no incluidas y gastos familiares por separado. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.
+Fuente: https://colegiosadec.org/site/kids-camp-escalante/
+Se ha comprobado: 2026-11-07
+
+### CP1857-20261219-20261219-20261219 · Museo Kaluz · Taller de Vitrales · Inicio a las 14:00. Hora de cierre sin indicar. · 2026-12-19–2026-12-19
+
+Fecha: 2026-12-19 - 2026-12-19
+edad: El organizador invita a público de todas las edades. Confirmar acompañamiento de menores.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: La página pública describe el programa. Confirmar idioma de trabajo del grupo concreto.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2026/27 · La página muestra una tarifa de $ 350. No indica código de moneda. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento. Oscar: Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento. Suplementos: Confirmar moneda, entrada del acompañante y disponibilidad. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.
+Fuente: https://museokaluz.org/actividades/programa-vacacional-celebra-a-traves-del-arte/
+Se ha comprobado: 2026-11-07
+
+### CP1857-20261226-20261226-20261226 · Museo Kaluz · Taller de Vitrales · Inicio a las 14:00. Hora de cierre sin indicar. · 2026-12-26–2026-12-26
+
+Fecha: 2026-12-26 - 2026-12-26
+edad: El organizador invita a público de todas las edades. Confirmar acompañamiento de menores.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: La página pública describe el programa. Confirmar idioma de trabajo del grupo concreto.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2026/27 · La página muestra una tarifa de $ 350. No indica código de moneda. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento. Oscar: Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento. Suplementos: Confirmar moneda, entrada del acompañante y disponibilidad. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.
+Fuente: https://museokaluz.org/actividades/programa-vacacional-celebra-a-traves-del-arte/
+Se ha comprobado: 2026-11-07
+
+### CP1857-20270103-20270103-20270103 · Museo Kaluz · Taller de Vitrales · Inicio a las 14:00. Hora de cierre sin indicar. · 2027-01-03–2027-01-03
+
+Fecha: 2027-01-03 — 2027-01-03
+edad: El organizador invita a público de todas las edades. Confirmar acompañamiento de menores.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: La página pública describe el programa. Confirmar idioma de trabajo del grupo concreto.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · La página muestra una tarifa de $ 350. No indica código de moneda. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento. Oscar: Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento. Suplementos: Confirmar moneda, entrada del acompañante y disponibilidad. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.
+Fuente: https://museokaluz.org/actividades/programa-vacacional-celebra-a-traves-del-arte/
+Se ha comprobado: 2026-11-07
+
+### CP1858-20261219-20261219-20261219 · Museo Kaluz · Dijes y Pulseras · Horario publicado 13:00–16:00. Confirmar duración de la actividad. · 2026-12-19–2026-12-19
+
+Fecha: 2026-12-19 - 2026-12-19
+edad: El organizador invita a público de todas las edades. Confirmar acompañamiento de menores.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: La página pública describe el programa. Confirmar idioma de trabajo del grupo concreto.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2026/27 · La página muestra una tarifa de $ 150. No indica código de moneda. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento. Oscar: Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento. Suplementos: Confirmar moneda, entrada del acompañante y disponibilidad. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.
+Fuente: https://museokaluz.org/actividades/programa-vacacional-celebra-a-traves-del-arte/
+Se ha comprobado: 2026-11-07
+
+### CP1858-20261226-20261226-20261226 · Museo Kaluz · Dijes y Pulseras · Horario publicado 13:00–16:00. Confirmar duración de la actividad. · 2026-12-26–2026-12-26
+
+Fecha: 2026-12-26 - 2026-12-26
+edad: El organizador invita a público de todas las edades. Confirmar acompañamiento de menores.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: La página pública describe el programa. Confirmar idioma de trabajo del grupo concreto.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2026/27 · La página muestra una tarifa de $ 150. No indica código de moneda. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento. Oscar: Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento. Suplementos: Confirmar moneda, entrada del acompañante y disponibilidad. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.
+Fuente: https://museokaluz.org/actividades/programa-vacacional-celebra-a-traves-del-arte/
+Se ha comprobado: 2026-11-07
+
+### CP1858-20270103-20270103-20270103 · Museo Kaluz · Dijes y Pulseras · Horario publicado 13:00–16:00. Confirmar duración de la actividad. · 2027-01-03–2027-01-03
+
+Fecha: 2027-01-03 — 2027-01-03
+edad: El organizador invita a público de todas las edades. Confirmar acompañamiento de menores.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: La página pública describe el programa. Confirmar idioma de trabajo del grupo concreto.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · La página muestra una tarifa de $ 150. No indica código de moneda. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento. Oscar: Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento. Suplementos: Confirmar moneda, entrada del acompañante y disponibilidad. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.
+Fuente: https://museokaluz.org/actividades/programa-vacacional-celebra-a-traves-del-arte/
+Se ha comprobado: 2026-11-07
+
+### CP1859-20261219-20261219-20261219 · Museo Kaluz · De Manta y Color · Tote Bag · Horario publicado 12:00–16:00. Confirmar duración de la actividad. · 2026-12-19–2026-12-19
+
+Fecha: 2026-12-19 - 2026-12-19
+edad: El organizador invita a público de todas las edades. Confirmar acompañamiento de menores.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: La página pública describe el programa. Confirmar idioma de trabajo del grupo concreto.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2026/27 · La página muestra una tarifa de $ 220. No indica código de moneda. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento. Oscar: Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento. Suplementos: Confirmar moneda, entrada del acompañante y disponibilidad. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.
+Fuente: https://museokaluz.org/actividades/programa-vacacional-celebra-a-traves-del-arte/
+Se ha comprobado: 2026-11-07
+
+### CP1859-20261226-20261226-20261226 · Museo Kaluz · De Manta y Color · Tote Bag · Horario publicado 12:00–16:00. Confirmar duración de la actividad. · 2026-12-26–2026-12-26
+
+Fecha: 2026-12-26 - 2026-12-26
+edad: El organizador invita a público de todas las edades. Confirmar acompañamiento de menores.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: La página pública describe el programa. Confirmar idioma de trabajo del grupo concreto.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2026/27 · La página muestra una tarifa de $ 220. No indica código de moneda. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento. Oscar: Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento. Suplementos: Confirmar moneda, entrada del acompañante y disponibilidad. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.
+Fuente: https://museokaluz.org/actividades/programa-vacacional-celebra-a-traves-del-arte/
+Se ha comprobado: 2026-11-07
+
+### CP1859-20261227-20261227-20261227 · Museo Kaluz · De Manta y Color · Tote Bag · Horario publicado 12:00–16:00. Confirmar duración de la actividad. · 2026-12-27–2026-12-27
+
+Fecha: 2026-12-27 - 2026-12-27
+edad: El organizador invita a público de todas las edades. Confirmar acompañamiento de menores.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: La página pública describe el programa. Confirmar idioma de trabajo del grupo concreto.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2026/27 · La página muestra una tarifa de $ 220. No indica código de moneda. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento. Oscar: Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento. Suplementos: Confirmar moneda, entrada del acompañante y disponibilidad. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.
+Fuente: https://museokaluz.org/actividades/programa-vacacional-celebra-a-traves-del-arte/
+Se ha comprobado: 2026-11-07
+
+### CP1859-20270102-20270102-20270102 · Museo Kaluz · De Manta y Color · Tote Bag · Horario publicado 12:00–16:00. Confirmar duración de la actividad. · 2027-01-02–2027-01-02
+
+Fecha: 2027-01-02 — 2027-01-02
+edad: El organizador invita a público de todas las edades. Confirmar acompañamiento de menores.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: La página pública describe el programa. Confirmar idioma de trabajo del grupo concreto.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · La página muestra una tarifa de $ 220. No indica código de moneda. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento. Oscar: Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento. Suplementos: Confirmar moneda, entrada del acompañante y disponibilidad. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.
+Fuente: https://museokaluz.org/actividades/programa-vacacional-celebra-a-traves-del-arte/
 Se ha comprobado: 2026-11-07
 
 ### C1155 · XVIII Campeonato Nacional de Robótica y STEM · VEX IQ Middle

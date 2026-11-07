@@ -60,10 +60,14 @@ for file,spec in manifest.items():
         result=result.replace('PRODID:-//STEM Atlas//Family calendar//RU','PRODID:-//STEM Atlas//Family calendar//ES')
         result=re.sub(r'const yes=s=>[^\n]+;', "const yes=s=>window.STEM_FIT_TEXT.yes.includes(s), no=s=>window.STEM_FIT_TEXT.no.includes(s), maybe=s=>window.STEM_FIT_TEXT.maybe.includes(s);",result,count=1)
         result=result.replace('/^Condicional/.test(e.mat)','window.STEM_FIT_TEXT.conditional.includes(e.mat)').replace('/^Condicional/.test(e.osc)','window.STEM_FIT_TEXT.conditional.includes(e.osc)')
-        old="Object.values(e).join(' ').toLocaleLowerCase('es').includes(state.query.toLocaleLowerCase('es'))"
-        new="foldSearch(Object.values(e).join(' ')+' '+e.themes.map(t=>DIRECTIONS.labels[t]||t).join(' ')).includes(foldSearch(state.query))"
-        assert old in result,'Refresh Spanish search adaptation'
-        result=result.replace(old,new)
+        search_adaptations={
+            "const query=state.query.toLocaleLowerCase('es')": "const query=foldSearch(state.query)",
+            "Object.values(e).join(' ').toLocaleLowerCase('es').includes(query)":
+                "foldSearch(Object.values(e).join(' ')+' '+e.themes.map(t=>DIRECTIONS.labels[t]||t).join(' ')).includes(query)",
+        }
+        for old,new in search_adaptations.items():
+            assert result.count(old)==1,'Refresh Spanish search adaptation: '+old
+            result=result.replace(old,new,1)
         fold="const foldSearch=s=>String(s).normalize('NFD').replace(/[\\u0300-\\u036f]/g,'').toLocaleLowerCase('es');"
         assert result.startswith("'use strict';")
         result=result.replace("'use strict';","'use strict';\n"+fold,1)

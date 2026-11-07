@@ -9766,6 +9766,38 @@ Limitaciones: Club científico de los sábados con investigación práctica. Oto
 Fuente: https://bzs.bm/education/science-club/
 Se ha comprobado: 2026-11-07
 
+### L687 · Boston School International · Robótica
+
+lugar: Panamá · Boston School International · Main Campus · Panamá
+Fecha: Publicación del curso escolar 2026–2027. Fechas de inicio y plazas disponibles sin anunciar.
+edad: Edad, horarios y días figuran pendientes de definición.
+Matvey: Confirmar curso escolar, idioma de las actividades y plaza para cada menor.
+Oscar: Confirmar curso escolar, idioma de las actividades y plaza para cada menor.
+Formato: regular
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Precio sin publicar.
+Acceso: El catálogo escolar lo clasifica como actividad extraescolar. Confirmar admisión externa y convocatoria del grupo.
+Limitaciones: Robótica escolar. Se describe el área, sin programa del grupo concreto.
+Fuente: https://bostonschool.edu.pa/wp-content/uploads/2026/01/After-School-BSI-2026.pdf
+Se ha comprobado: 2026-11-07
+
+### L688 · Boston School International · Minar y Crear
+
+lugar: Panamá · Boston School International · Main Campus · Panamá
+Fecha: El catálogo indica miércoles y viernes, dos horarios 12:30–13:30 y 15:00–16:30. Confirmar correspondencia de día y hora.
+edad: G2–G6. Confirmar equivalencia de curso con la escuela.
+Matvey: Confirmar curso escolar, idioma de las actividades y plaza para cada menor.
+Oscar: Confirmar curso escolar, idioma de las actividades y plaza para cada menor.
+Formato: regular
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Precio sin publicar.
+Acceso: El catálogo escolar lo clasifica como actividad extraescolar. Confirmar admisión externa y convocatoria del grupo.
+Limitaciones: Construcción con bloques virtuales y resolución de problemas en un videojuego. No se indica nombre de la plataforma.
+Fuente: https://bostonschool.edu.pa/wp-content/uploads/2026/01/After-School-BSI-2026.pdf
+Se ha comprobado: 2026-11-07
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -21460,7 +21492,7 @@ Costo: 2027 - USD 650; anticipo de 200 al precio de los pagos - y condiciones de
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10 Ajustado; Idioma, natación, de seguros y admisión extranjera. Oscar: Sólo después 7-El verano para el comienzo de la carrera; Adiós. 6 No se ha alcanzado la edad mínima. Gastos adicionales: USD 50 sibling o return/multiweek, no se suman; Una cuenta y seguro individuales para aclarar. Camino a la carretera Panamá Por separado. Pago: USD 200 anticipos a la cuenta 650, sin pago; Posible asignación de fechas ACH. No se ha resuelto la cancelación.
 Fuente: https://www.sailingclubpanama.com/campamentos-verano-panama/
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-07
 
 ### CP301-20270325-20270328 · Sailing Club Panamá · Sea Camp 2027 · Sea Camp · 4 días / 3 Noche. · 2027-03-25–2027-03-28
 
@@ -21476,7 +21508,7 @@ Costo: 2027 - USD 650; anticipo de 200 al precio de los pagos - y condiciones de
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10 Ajustado; Idioma, natación, de seguros y admisión extranjera. Oscar: Sólo después 7-El verano para el comienzo de la carrera; Adiós. 6 No se ha alcanzado la edad mínima. Gastos adicionales: USD 50 sibling o return/multiweek, no se suman; Una cuenta y seguro individuales para aclarar. Camino a la carretera Panamá Por separado. Pago: USD 200 anticipos a la cuenta 650, sin pago; Posible asignación de fechas ACH. No se ha resuelto la cancelación.
 Fuente: https://www.sailingclubpanama.com/campamentos-verano-panama/
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-07
 
 ### CP302-20270124-20270131 · La Llanada Panamá · Sleepaway · El Valle · Sleepaway ·7 noches · 2027-01-24-2027-01-31
 
@@ -36276,7 +36308,7 @@ Costo: 2027 · B/834.60 por dos con sibling discount; night+75/hijo · subvencio
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: a Matvey 9–10 en 2027, dentro de 4–10; Edad/de la fecha de la confirmación. Oscar: a Oscar 6–7 en 2027, dentro de 4–10; Idioma/preparación para el cambio climático optional night Por separado. Gastos adicionales: Sleeping bag/pillow Tuyos. Una noche de opción para dos.+150; Su día/Edad/Total de alimentos desconocidos. Carretera/vivienda familiar/Seguro fuera del campamento por separado; Tarifa semanal, incluso en los pases. Pago: Denegación del AD 1 diciembre 2026: devolución 60%;2–15 diciembre:30%;c 16 diciembre:none incluida la enfermedad/Exclusión. 1 diciembre no se describió. Se puede trasladar el lugar a un niño de la misma edad o credit el futuro camp. 30 diciembre — Duración del pago optional night, no es un plazo de inscripción general.
 Fuente: https://www.cacaocamps.com/day-camp-el-valle/
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-07
 
 ### CP814-20270805-20270808 · Berkana · Tyrskamp · Day / Boarding · 4 días · day or boarding; precio del formulario para especificar · 2027-08-05-2027-08-08
 
@@ -58916,7 +58948,7 @@ Precio: 2026/27 · MXN 850 / 6 × 2 h · suplementos y condiciones en el dossier
 Acceso: Seis clases semanales de 2 horas: montaje de Arduino Uno sin soldar, programación por bloques, sensores de línea y carrera familiar final. Un ordenador por pareja. Robot, ordenador y materiales se prestan y permanecen en DIMEX. Plazo del 5 de noviembre de 2026 vencido; formulario vinculado ya no admite respuestas. Curso vigente con inscripción cerrada; siguiente convocatoria sin anunciar.
 Limitaciones: Matvey: Matvey tiene 9 años y cumple edad; inscripción cerrada impide considerar plaza disponible. Oscar: Oscar tiene 6 años, por debajo de edad mínima de 9 años. Suplementos: Viaje, alojamiento familiar, comidas fuera de inclusiones y seguro aparte; factura final completa sin establecer. Pago: Precio completo publicado; devolución sin detallar, formulario cerrado.
 Fuente: https://dimexideas.com/club-de-robotica/
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-07
 
 ### CP1477-20261106-20261211-friday-b · DIMEX · Mi Primer Robot · 2026 · Mi Primer Robot · friday-b · 17:00–19:00 · 2026-11-06–2026-12-11
 
@@ -58932,7 +58964,7 @@ Precio: 2026/27 · MXN 850 / 6 × 2 h · suplementos y condiciones en el dossier
 Acceso: Seis clases semanales de 2 horas: montaje de Arduino Uno sin soldar, programación por bloques, sensores de línea y carrera familiar final. Un ordenador por pareja. Robot, ordenador y materiales se prestan y permanecen en DIMEX. Plazo del 5 de noviembre de 2026 vencido; formulario vinculado ya no admite respuestas. Curso vigente con inscripción cerrada; siguiente convocatoria sin anunciar.
 Limitaciones: Matvey: Matvey tiene 9 años y cumple edad; inscripción cerrada impide considerar plaza disponible. Oscar: Oscar tiene 6 años, por debajo de edad mínima de 9 años. Suplementos: Viaje, alojamiento familiar, comidas fuera de inclusiones y seguro aparte; factura final completa sin establecer. Pago: Precio completo publicado; devolución sin detallar, formulario cerrado.
 Fuente: https://dimexideas.com/club-de-robotica/
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-07
 
 ### CP1477-20261107-20261212-saturday-c · DIMEX · Mi Primer Robot · 2026 · Mi Primer Robot · saturday-c · 10:00–12:00 · 2026-11-07–2026-12-12
 
@@ -58948,7 +58980,7 @@ Precio: 2026/27 · MXN 850 / 6 × 2 h · suplementos y condiciones en el dossier
 Acceso: Seis clases semanales de 2 horas: montaje de Arduino Uno sin soldar, programación por bloques, sensores de línea y carrera familiar final. Un ordenador por pareja. Robot, ordenador y materiales se prestan y permanecen en DIMEX. Plazo del 5 de noviembre de 2026 vencido; formulario vinculado ya no admite respuestas. Curso vigente con inscripción cerrada; siguiente convocatoria sin anunciar.
 Limitaciones: Matvey: Matvey tiene 9 años y cumple edad; inscripción cerrada impide considerar plaza disponible. Oscar: Oscar tiene 6 años, por debajo de edad mínima de 9 años. Suplementos: Viaje, alojamiento familiar, comidas fuera de inclusiones y seguro aparte; factura final completa sin establecer. Pago: Precio completo publicado; devolución sin detallar, formulario cerrado.
 Fuente: https://dimexideas.com/club-de-robotica/
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-07
 
 ### CP1480-20261228-20261231-alcantarilla · MMM Academy · Navidad 2026 · Navidad · 09:00–14:00 · 2026-12-28–2026-12-31
 
@@ -71636,6 +71668,198 @@ Precio: 2026/27 · 3 500 HKD por curso y menor. · suplementos y condiciones en 
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Condicional. En la página del campamento 9–11 años. En la ficha del curso 10–13 años. Confirmar admisión con 9 años. Oscar: Por ahora no alcanza la edad mínima. Suplementos: Se requiere portátil con cargador. Confirmar condiciones de pago y devolución. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.
 Fuente: https://blueinnotechnology.com/3d-inventions/
+Se ha comprobado: 2026-11-07
+
+### CP1855-20261130-20261211-dec26 · ADEC · Kids Camp Escalante 2026 · 07:30–14:30, recepción desde 06:30. Cuidados ampliados 14:30–17:00. · 2026-11-30–2026-12-11
+
+Lugar: Costa Rica Olmos Preschool · Escalante · San José
+Fecha: 2026-11-30 — 2026-12-11
+edad: La organización indica grupos KG1, KG2, KG3 y OPTs. Los niveles habituales de Olmos Preschool llegan hasta 5 años.
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Por día: 12000 para KG1 sin comida, 14000 para KG2, KG3 y OPTs con comida. Cuidados ampliados 3500 por día. La página no indica moneda. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Según las edades de Olmos, ambos superan el rango habitual. Excepciones del campamento y admisión externa sin publicar. Oscar: Según las edades de Olmos, ambos superan el rango habitual. Excepciones del campamento y admisión externa sin publicar. Suplementos: Traslado, comidas no incluidas y gastos familiares por separado. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.
+Fuente: https://colegiosadec.org/site/kids-camp-escalante/
+Se ha comprobado: 2026-11-07
+
+### CP1856-20270111-20270115-jan27 · Barça Academy · Campus Panamá 2027 · 11–15 de enero de 2027. La organización publica 15:00–18:00 y 18:00–21:00. Confirmar asignación de grupo por edad. · 2027-01-11–2027-01-15
+
+lugar: Panamá · COS Sports Plaza · Ciudad de Panamá
+Fecha: 2027-01-11 — 2027-01-15
+edad: 6–18 años según las preguntas frecuentes del organizador local.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 430 USD por menor. Descuento de 5% para el segundo hermano, base para dos de 838.50 USD. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Ambos cumplen la edad. Confirmar grupo, idioma del entrenador, dos plazas e importe final. Oscar: Ambos cumplen la edad. Confirmar grupo, idioma del entrenador, dos plazas e importe final. Suplementos: Traslado, comidas no incluidas y gastos familiares por separado. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.
+Fuente: https://campuspanama.barcaacademy.com/locaciones-julio-2026/
+Se ha comprobado: 2026-11-07
+
+### CP1857-20261219-20261219-20261219 · Museo Kaluz · Taller de Vitrales · Inicio a las 14:00. Hora de cierre sin indicar. · 2026-12-19–2026-12-19
+
+Lugar: México Museo Kaluz · Centro Histórico · Ciudad de México
+Fecha: 2026-12-19 - 2026-12-19
+edad: El organizador invita a público de todas las edades. Confirmar acompañamiento de menores.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: La página pública describe el programa. Confirmar idioma de trabajo del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · La página muestra una tarifa de $ 350. No indica código de moneda. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento. Oscar: Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento. Suplementos: Confirmar moneda, entrada del acompañante y disponibilidad. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.
+Fuente: https://museokaluz.org/actividades/programa-vacacional-celebra-a-traves-del-arte/
+Se ha comprobado: 2026-11-07
+
+### CP1857-20261226-20261226-20261226 · Museo Kaluz · Taller de Vitrales · Inicio a las 14:00. Hora de cierre sin indicar. · 2026-12-26–2026-12-26
+
+Lugar: México Museo Kaluz · Centro Histórico · Ciudad de México
+Fecha: 2026-12-26 - 2026-12-26
+edad: El organizador invita a público de todas las edades. Confirmar acompañamiento de menores.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: La página pública describe el programa. Confirmar idioma de trabajo del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · La página muestra una tarifa de $ 350. No indica código de moneda. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento. Oscar: Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento. Suplementos: Confirmar moneda, entrada del acompañante y disponibilidad. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.
+Fuente: https://museokaluz.org/actividades/programa-vacacional-celebra-a-traves-del-arte/
+Se ha comprobado: 2026-11-07
+
+### CP1857-20270103-20270103-20270103 · Museo Kaluz · Taller de Vitrales · Inicio a las 14:00. Hora de cierre sin indicar. · 2027-01-03–2027-01-03
+
+Lugar: México Museo Kaluz · Centro Histórico · Ciudad de México
+Fecha: 2027-01-03 — 2027-01-03
+edad: El organizador invita a público de todas las edades. Confirmar acompañamiento de menores.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: La página pública describe el programa. Confirmar idioma de trabajo del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · La página muestra una tarifa de $ 350. No indica código de moneda. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento. Oscar: Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento. Suplementos: Confirmar moneda, entrada del acompañante y disponibilidad. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.
+Fuente: https://museokaluz.org/actividades/programa-vacacional-celebra-a-traves-del-arte/
+Se ha comprobado: 2026-11-07
+
+### CP1858-20261219-20261219-20261219 · Museo Kaluz · Dijes y Pulseras · Horario publicado 13:00–16:00. Confirmar duración de la actividad. · 2026-12-19–2026-12-19
+
+Lugar: México Museo Kaluz · Centro Histórico · Ciudad de México
+Fecha: 2026-12-19 - 2026-12-19
+edad: El organizador invita a público de todas las edades. Confirmar acompañamiento de menores.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: La página pública describe el programa. Confirmar idioma de trabajo del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · La página muestra una tarifa de $ 150. No indica código de moneda. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento. Oscar: Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento. Suplementos: Confirmar moneda, entrada del acompañante y disponibilidad. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.
+Fuente: https://museokaluz.org/actividades/programa-vacacional-celebra-a-traves-del-arte/
+Se ha comprobado: 2026-11-07
+
+### CP1858-20261226-20261226-20261226 · Museo Kaluz · Dijes y Pulseras · Horario publicado 13:00–16:00. Confirmar duración de la actividad. · 2026-12-26–2026-12-26
+
+Lugar: México Museo Kaluz · Centro Histórico · Ciudad de México
+Fecha: 2026-12-26 - 2026-12-26
+edad: El organizador invita a público de todas las edades. Confirmar acompañamiento de menores.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: La página pública describe el programa. Confirmar idioma de trabajo del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · La página muestra una tarifa de $ 150. No indica código de moneda. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento. Oscar: Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento. Suplementos: Confirmar moneda, entrada del acompañante y disponibilidad. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.
+Fuente: https://museokaluz.org/actividades/programa-vacacional-celebra-a-traves-del-arte/
+Se ha comprobado: 2026-11-07
+
+### CP1858-20270103-20270103-20270103 · Museo Kaluz · Dijes y Pulseras · Horario publicado 13:00–16:00. Confirmar duración de la actividad. · 2027-01-03–2027-01-03
+
+Lugar: México Museo Kaluz · Centro Histórico · Ciudad de México
+Fecha: 2027-01-03 — 2027-01-03
+edad: El organizador invita a público de todas las edades. Confirmar acompañamiento de menores.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: La página pública describe el programa. Confirmar idioma de trabajo del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · La página muestra una tarifa de $ 150. No indica código de moneda. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento. Oscar: Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento. Suplementos: Confirmar moneda, entrada del acompañante y disponibilidad. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.
+Fuente: https://museokaluz.org/actividades/programa-vacacional-celebra-a-traves-del-arte/
+Se ha comprobado: 2026-11-07
+
+### CP1859-20261219-20261219-20261219 · Museo Kaluz · De Manta y Color · Tote Bag · Horario publicado 12:00–16:00. Confirmar duración de la actividad. · 2026-12-19–2026-12-19
+
+Lugar: México Museo Kaluz · Centro Histórico · Ciudad de México
+Fecha: 2026-12-19 - 2026-12-19
+edad: El organizador invita a público de todas las edades. Confirmar acompañamiento de menores.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: La página pública describe el programa. Confirmar idioma de trabajo del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · La página muestra una tarifa de $ 220. No indica código de moneda. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento. Oscar: Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento. Suplementos: Confirmar moneda, entrada del acompañante y disponibilidad. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.
+Fuente: https://museokaluz.org/actividades/programa-vacacional-celebra-a-traves-del-arte/
+Se ha comprobado: 2026-11-07
+
+### CP1859-20261226-20261226-20261226 · Museo Kaluz · De Manta y Color · Tote Bag · Horario publicado 12:00–16:00. Confirmar duración de la actividad. · 2026-12-26–2026-12-26
+
+Lugar: México Museo Kaluz · Centro Histórico · Ciudad de México
+Fecha: 2026-12-26 - 2026-12-26
+edad: El organizador invita a público de todas las edades. Confirmar acompañamiento de menores.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: La página pública describe el programa. Confirmar idioma de trabajo del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · La página muestra una tarifa de $ 220. No indica código de moneda. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento. Oscar: Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento. Suplementos: Confirmar moneda, entrada del acompañante y disponibilidad. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.
+Fuente: https://museokaluz.org/actividades/programa-vacacional-celebra-a-traves-del-arte/
+Se ha comprobado: 2026-11-07
+
+### CP1859-20261227-20261227-20261227 · Museo Kaluz · De Manta y Color · Tote Bag · Horario publicado 12:00–16:00. Confirmar duración de la actividad. · 2026-12-27–2026-12-27
+
+Lugar: México Museo Kaluz · Centro Histórico · Ciudad de México
+Fecha: 2026-12-27 - 2026-12-27
+edad: El organizador invita a público de todas las edades. Confirmar acompañamiento de menores.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: La página pública describe el programa. Confirmar idioma de trabajo del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · La página muestra una tarifa de $ 220. No indica código de moneda. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento. Oscar: Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento. Suplementos: Confirmar moneda, entrada del acompañante y disponibilidad. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.
+Fuente: https://museokaluz.org/actividades/programa-vacacional-celebra-a-traves-del-arte/
+Se ha comprobado: 2026-11-07
+
+### CP1859-20270102-20270102-20270102 · Museo Kaluz · De Manta y Color · Tote Bag · Horario publicado 12:00–16:00. Confirmar duración de la actividad. · 2027-01-02–2027-01-02
+
+Lugar: México Museo Kaluz · Centro Histórico · Ciudad de México
+Fecha: 2027-01-02 — 2027-01-02
+edad: El organizador invita a público de todas las edades. Confirmar acompañamiento de menores.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: La página pública describe el programa. Confirmar idioma de trabajo del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · La página muestra una tarifa de $ 220. No indica código de moneda. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento. Oscar: Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento. Suplementos: Confirmar moneda, entrada del acompañante y disponibilidad. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.
+Fuente: https://museokaluz.org/actividades/programa-vacacional-celebra-a-traves-del-arte/
 Se ha comprobado: 2026-11-07
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

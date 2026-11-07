@@ -870,13 +870,13 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 239,
+    "version": 240,
     "status": "implementation_snapshot",
-    "events": 8445,
+    "events": 8459,
     "competitions": 3451,
     "league_profiles": 288,
-    "camp_dossiers": 1854,
-    "budget_offers": 301,
+    "camp_dossiers": 1861,
+    "budget_offers": 302,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
     "worldwide_complete": false,
@@ -926,11 +926,11 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 238,
+    "version": 239,
     "status": "implementation_snapshot",
-    "events": 8399,
-    "competitions": 3407,
-    "league_profiles": 285,
+    "events": 8445,
+    "competitions": 3451,
+    "league_profiles": 288,
     "camp_dossiers": 1854,
     "budget_offers": 301,
     "editorial_reviewed": 71,
@@ -13757,10 +13757,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 239,
+    "prepared_ui_version": 240,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 238,
-    "previous_verified_commit": "1a381e399066b570c34ffc3c5bdcf8b3ee539d8f"
+    "previous_verified_ui_version": 239,
+    "previous_verified_commit": "e73f360dd4193c3cc558b3fec78651a5acd190b9"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20807,11 +20807,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 238,
-    "published_version": 238,
-    "latest_source_commit": "1a381e399066b570c34ffc3c5bdcf8b3ee539d8f",
-    "published_commit": "1a381e399066b570c34ffc3c5bdcf8b3ee539d8f",
-    "latest_workflow": 42415647272,
+    "latest_source_version": 239,
+    "published_version": 239,
+    "latest_source_commit": "e73f360dd4193c3cc558b3fec78651a5acd190b9",
+    "published_commit": "e73f360dd4193c3cc558b3fec78651a5acd190b9",
+    "latest_workflow": 42417125868,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -23802,5 +23802,52 @@
     ],
     "audit": "data/latam-robotics-fair-audit-v239.json",
     "source_receipts": "data/latam-robotics-fair-source-receipts-v239.json"
+  },
+  "nearby_holidays_search_v240": {
+    "version": 240,
+    "checked": "2026-11-07",
+    "previous_goal_turn_classification": "progress",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "source_requests": 18,
+    "new_learning_cards": 2,
+    "new_dated_camp_variants": 12,
+    "new_camp_dossiers": 7,
+    "new_family_budget_offers": 1,
+    "refreshed_camp_dossiers": [
+      "CP1158",
+      "CP1159",
+      "CP1160",
+      "CP811",
+      "CP360",
+      "CP301",
+      "CP089",
+      "CP1477",
+      "CP1257"
+    ],
+    "programme_ids": {
+      "adec-kids-camp-escalante-2026": "CP1855",
+      "barca-academy-panama-january-2027": "CP1856",
+      "museo-kaluz-winter-vitrales": "CP1857",
+      "museo-kaluz-winter-dijes": "CP1858",
+      "museo-kaluz-winter-tote": "CP1859",
+      "bsi-panama-robotics": "CP1860",
+      "bsi-panama-minar-y-crear": "CP1861"
+    },
+    "linked_learning_cards": {
+      "bsi-panama-robotics": "L687",
+      "bsi-panama-minar-y-crear": "L688"
+    },
+    "notes": [
+      "30 ноября – 11 декабря 2026, кроме 1 декабря. Заявки до 20 ноября.",
+      "По возрастам Olmos оба старше обычной линейки. Исключения для лагеря и внешний приём не опубликованы.",
+      "430 USD на ребёнка. Второму брату скидка 5%, базовая сумма за двоих 838.50 USD.",
+      "11–15 января 2027. Организатор публикует 15:00–18:00 и 18:00–21:00. Назначение группы по возрасту уточнить.",
+      "Организатор приглашает посетителей всех возрастов. Сопровождение ребёнка уточнить.",
+      "В каталоге школы это занятия после уроков. Допуск внешних детей и набор конкретной группы уточнить.",
+      "Проверка полнотекстового запроса выполняется после фильтров. Ссылки на досье и счётчики стран используют индексы."
+    ],
+    "audit": "data/nearby-holidays-search-audit-v240.json",
+    "source_receipts": "data/nearby-holidays-search-source-receipts-v240.json"
   }
 }
