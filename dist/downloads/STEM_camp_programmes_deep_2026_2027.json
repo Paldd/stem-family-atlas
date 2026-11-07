@@ -30,17 +30,17 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1731,
+    "dossiers": 1735,
     "countries": 99,
     "swiss": 137,
     "by_status": {
-      "published_2026_27": 252,
+      "published_2026_27": 253,
       "published_2027": 487,
       "partial_2027": 134,
       "next_unannounced": 352,
-      "published_2026": 297,
+      "published_2026": 301,
       "partial_2026_27": 28,
-      "partial_2026": 20,
+      "partial_2026": 19,
       "archive_next_unannounced": 137,
       "regular_programme": 16,
       "regular_2026_27": 2,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2467
+    "source_urls": 2472
   },
   "countries": [
     {
@@ -293,7 +293,7 @@
     },
     {
       "country": "ОАЭ",
-      "count": 2
+      "count": 6
     },
     {
       "country": "Панама",
@@ -163632,10 +163632,154 @@
       "language_evidence_role": "unconfirmed",
       "programme": "Cadets 5–7: танцующий / рисующий робот, простые музыкальные цепи, Ferris wheel, механический корабль и анимация. Python старшего Architects 12+ сюда не переносится.",
       "timing": {
-        "status": "partial_2026",
-        "label": "КОНФЛИКТ: основная страница 14–25 декабря 2026, связанная winter.uwr.ae 14–30 декабря. Обе обещают две недели, пять дней в неделю, 09:00–13:00. Точные смены и площадки не согласованы; в календарь даты не поставлены.",
-        "sessions": [],
-        "session_details": [],
+        "status": "published_2026",
+        "label": "Обе страницы теперь указывают 14–25 декабря 2026, понедельник–пятница, 09:00–13:00. Смены 14–18 и 21–25 декабря. Подтвердить наличие обеих возрастных групп на одной площадке.",
+        "sessions": [
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-25"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "The Robot Band",
+            "source": "https://uniqueworldrobotics.com/winter-camp/",
+            "price": "Тариф не опубликован; бесплатным не считать.",
+            "place": "Dubai · Al Karama / JVC",
+            "age": "5–7",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Матвею 9, Cadets максимум 7."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Оскару 6, подходит Cadets 5–7 по возрасту."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "topic": "The Robot Band",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-15",
+                "topic": "The Robot Band",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-16",
+                "topic": "The Robot Band",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-17",
+                "topic": "The Robot Band",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-18",
+                "topic": "The Robot Band",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "variant_key": "band"
+          },
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-25",
+            "label": "Build Your Own Carnival",
+            "source": "https://uniqueworldrobotics.com/winter-camp/",
+            "price": "Тариф не опубликован; бесплатным не считать.",
+            "place": "Dubai · Al Karama / JVC",
+            "age": "5–7",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Матвею 9, Cadets максимум 7."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Оскару 6, подходит Cadets 5–7 по возрасту."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Build Your Own Carnival",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "topic": "Build Your Own Carnival",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "topic": "Build Your Own Carnival",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "topic": "Build Your Own Carnival",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-25",
+                "topic": "Build Your Own Carnival",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "variant_key": "carnival"
+          }
+        ],
         "variant_keyed": true,
         "precision": "published_sessions"
       },
@@ -163667,24 +163811,45 @@
       "questions": [
         "Подтвердить язык преподавателя, иностранный индивидуальный приём, уровень после трёх лет соревнований и место. Заявки и оплаты не выполнялись.",
         "Сайт и материалы на английском; отдельное прямое подтверждение языка преподавания для этой смены не найдено. EN/ES обучение пока не подтверждено.",
-        "КОНФЛИКТ: основная страница 14–25 декабря 2026, связанная winter.uwr.ae 14–30 декабря. Обе обещают две недели, пять дней в неделю, 09:00–13:00. Точные смены и площадки не согласованы; в календарь даты не поставлены.",
+        "Возрастные группы работают по общему расписанию лагеря. Распределение по площадкам и язык подтвердить перед поездкой.",
         "Обязателен заряженный ноутбук или iPad с зарядкой / адаптерами. Для iPad перечислены LEGO Education SPIKE, Microbit, MatataCode (VinciBot), PictoBlox / Junior. Еда, вода и блокнот с собой; питание не предоставляется. Дополнительные материалы могут сообщить позднее."
       ],
       "sources": [
         {
-          "title": "Winter Camp 2026",
           "url": "https://uniqueworldrobotics.com/winter-camp/",
-          "checked": "2026-11-05"
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
         },
         {
-          "title": "Linked winter page · conflicting final day",
           "url": "https://winter.uwr.ae/",
-          "checked": "2026-11-05"
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
         }
       ],
-      "checked": "2026-11-05",
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      },
       "related_event_ids": [],
-      "calendar_links": []
+      "calendar_links": [
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1190-20261214-20261218-band"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-25",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1190-20261221-20261225-carnival"
+          ]
+        }
+      ]
     },
     {
       "id": "CP1191",
@@ -163707,10 +163872,154 @@
       "language_evidence_role": "unconfirmed",
       "programme": "Pioneers 8–11: robot drummer, управление рисунком через AI / лицо, синхронизированные робосветильники, механический корабль и 3D art. Сложность конкретного проекта согласовать.",
       "timing": {
-        "status": "partial_2026",
-        "label": "КОНФЛИКТ: основная страница 14–25 декабря 2026, связанная winter.uwr.ae 14–30 декабря. Обе обещают две недели, пять дней в неделю, 09:00–13:00. Точные смены и площадки не согласованы; в календарь даты не поставлены.",
-        "sessions": [],
-        "session_details": [],
+        "status": "published_2026",
+        "label": "Обе страницы теперь указывают 14–25 декабря 2026, понедельник–пятница, 09:00–13:00. Смены 14–18 и 21–25 декабря. Подтвердить наличие обеих возрастных групп на одной площадке.",
+        "sessions": [
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-25"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "The Robot Band",
+            "source": "https://uniqueworldrobotics.com/winter-camp/",
+            "price": "Тариф не опубликован; бесплатным не считать.",
+            "place": "Dubai · Al Karama / JVC",
+            "age": "8–11",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Матвею 9, подходит Pioneers 8–11 по возрасту."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Оскару 6, Pioneers начинается с 8; выбирать Cadets."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "topic": "The Robot Band",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-15",
+                "topic": "The Robot Band",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-16",
+                "topic": "The Robot Band",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-17",
+                "topic": "The Robot Band",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-18",
+                "topic": "The Robot Band",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "variant_key": "band"
+          },
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-25",
+            "label": "Build Your Own Carnival",
+            "source": "https://uniqueworldrobotics.com/winter-camp/",
+            "price": "Тариф не опубликован; бесплатным не считать.",
+            "place": "Dubai · Al Karama / JVC",
+            "age": "8–11",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Матвею 9, подходит Pioneers 8–11 по возрасту."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Оскару 6, Pioneers начинается с 8; выбирать Cadets."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Build Your Own Carnival",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "topic": "Build Your Own Carnival",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "topic": "Build Your Own Carnival",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "topic": "Build Your Own Carnival",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-25",
+                "topic": "Build Your Own Carnival",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "variant_key": "carnival"
+          }
+        ],
         "variant_keyed": true,
         "precision": "published_sessions"
       },
@@ -163742,24 +164051,45 @@
       "questions": [
         "Подтвердить язык преподавателя, иностранный индивидуальный приём, уровень после трёх лет соревнований и место. Заявки и оплаты не выполнялись.",
         "Сайт и материалы на английском; отдельное прямое подтверждение языка преподавания для этой смены не найдено. EN/ES обучение пока не подтверждено.",
-        "КОНФЛИКТ: основная страница 14–25 декабря 2026, связанная winter.uwr.ae 14–30 декабря. Обе обещают две недели, пять дней в неделю, 09:00–13:00. Точные смены и площадки не согласованы; в календарь даты не поставлены.",
+        "Возрастные группы работают по общему расписанию лагеря. Распределение по площадкам и язык подтвердить перед поездкой.",
         "Обязателен заряженный ноутбук или iPad с зарядкой / адаптерами. Для iPad перечислены LEGO Education SPIKE, Microbit, MatataCode (VinciBot), PictoBlox / Junior. Еда, вода и блокнот с собой; питание не предоставляется. Дополнительные материалы могут сообщить позднее."
       ],
       "sources": [
         {
-          "title": "Winter Camp 2026",
           "url": "https://uniqueworldrobotics.com/winter-camp/",
-          "checked": "2026-11-05"
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
         },
         {
-          "title": "Linked winter page · conflicting final day",
           "url": "https://winter.uwr.ae/",
-          "checked": "2026-11-05"
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
         }
       ],
-      "checked": "2026-11-05",
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      },
       "related_event_ids": [],
-      "calendar_links": []
+      "calendar_links": [
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1191-20261214-20261218-band"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-25",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1191-20261221-20261225-carnival"
+          ]
+        }
+      ]
     },
     {
       "id": "CP1192",
@@ -289271,6 +289601,1024 @@
           ]
         }
       ]
+    },
+    {
+      "id": "CP1732",
+      "slug": "programmers-zone-yas-winter-2026",
+      "provider": "Programmers Zone · Winter Camp",
+      "country": "ОАЭ",
+      "iso": "ARE",
+      "place": "Yas Creative Hub · Yas Island · Abu Dhabi",
+      "themes": [
+        "robotics",
+        "coding",
+        "ai",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "8–13 лет. В 6–7 лет принимают вместе со старшим братом или сестрой.",
+      "language": "Язык преподавания конкретной группы пока не подтверждён.",
+      "confirmed_instruction_languages": [],
+      "programme": "Робототехника, электроника, ИИ, 3D-печать, приложения, блочное программирование и Python. До 12 детей на занятии. Сертификат по завершении.",
+      "timing": {
+        "status": "published_2026",
+        "label": "14–18 или 21–25 декабря 2026. Утро 08:30–11:30, день 12:00–15:00, полный день 08:30–15:00 с перерывом.",
+        "sessions": [
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ],
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ],
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-25"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-25"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-25"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "Утро",
+            "source": "https://programmerszone.ae/en/services/winter-camp",
+            "price": "Полдня · AED 650 до 30 ноября, AED 750 с 1 по 10 декабря, AED 800 с 11 декабря.",
+            "place": "Yas Creative Hub · Yas Island · Abu Dhabi",
+            "age": "8–13 лет. В 6–7 лет принимают вместе со старшим братом или сестрой.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "В 6–7 лет записываться вместе с Матвеем. Подтвердить одно расписание и места для обоих."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "topic": "Робототехника, электроника, ИИ, 3D-печать, приложения, блочное программирование и Python. До 12 детей на занятии. Сертификат по завершении.",
+                "start_time": "08:30",
+                "end_time": "11:30",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-15",
+                "topic": "Робототехника, электроника, ИИ, 3D-печать, приложения, блочное программирование и Python. До 12 детей на занятии. Сертификат по завершении.",
+                "start_time": "08:30",
+                "end_time": "11:30",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-16",
+                "topic": "Робототехника, электроника, ИИ, 3D-печать, приложения, блочное программирование и Python. До 12 детей на занятии. Сертификат по завершении.",
+                "start_time": "08:30",
+                "end_time": "11:30",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-17",
+                "topic": "Робототехника, электроника, ИИ, 3D-печать, приложения, блочное программирование и Python. До 12 детей на занятии. Сертификат по завершении.",
+                "start_time": "08:30",
+                "end_time": "11:30",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-18",
+                "topic": "Робототехника, электроника, ИИ, 3D-печать, приложения, блочное программирование и Python. До 12 детей на занятии. Сертификат по завершении.",
+                "start_time": "08:30",
+                "end_time": "11:30",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "variant_key": "2026-12-14-am"
+          },
+          {
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "День",
+            "source": "https://programmerszone.ae/en/services/winter-camp",
+            "price": "Полдня · AED 650 до 30 ноября, AED 750 с 1 по 10 декабря, AED 800 с 11 декабря.",
+            "place": "Yas Creative Hub · Yas Island · Abu Dhabi",
+            "age": "8–13 лет. В 6–7 лет принимают вместе со старшим братом или сестрой.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "В 6–7 лет записываться вместе с Матвеем. Подтвердить одно расписание и места для обоих."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "topic": "Робототехника, электроника, ИИ, 3D-печать, приложения, блочное программирование и Python. До 12 детей на занятии. Сертификат по завершении.",
+                "start_time": "12:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-15",
+                "topic": "Робототехника, электроника, ИИ, 3D-печать, приложения, блочное программирование и Python. До 12 детей на занятии. Сертификат по завершении.",
+                "start_time": "12:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-16",
+                "topic": "Робототехника, электроника, ИИ, 3D-печать, приложения, блочное программирование и Python. До 12 детей на занятии. Сертификат по завершении.",
+                "start_time": "12:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-17",
+                "topic": "Робототехника, электроника, ИИ, 3D-печать, приложения, блочное программирование и Python. До 12 детей на занятии. Сертификат по завершении.",
+                "start_time": "12:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-18",
+                "topic": "Робототехника, электроника, ИИ, 3D-печать, приложения, блочное программирование и Python. До 12 детей на занятии. Сертификат по завершении.",
+                "start_time": "12:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "variant_key": "2026-12-14-pm"
+          },
+          {
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "Полный день",
+            "source": "https://programmerszone.ae/en/services/winter-camp",
+            "price": "Полный день · AED 1150 до 30 ноября, AED 1200 с 1 по 10 декабря, AED 1250 с 11 декабря.",
+            "place": "Yas Creative Hub · Yas Island · Abu Dhabi",
+            "age": "8–13 лет. В 6–7 лет принимают вместе со старшим братом или сестрой.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "В 6–7 лет записываться вместе с Матвеем. Подтвердить одно расписание и места для обоих."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "topic": "Робототехника, электроника, ИИ, 3D-печать, приложения, блочное программирование и Python. До 12 детей на занятии. Сертификат по завершении.",
+                "start_time": "08:30",
+                "end_time": "15:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-15",
+                "topic": "Робототехника, электроника, ИИ, 3D-печать, приложения, блочное программирование и Python. До 12 детей на занятии. Сертификат по завершении.",
+                "start_time": "08:30",
+                "end_time": "15:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-16",
+                "topic": "Робототехника, электроника, ИИ, 3D-печать, приложения, блочное программирование и Python. До 12 детей на занятии. Сертификат по завершении.",
+                "start_time": "08:30",
+                "end_time": "15:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-17",
+                "topic": "Робототехника, электроника, ИИ, 3D-печать, приложения, блочное программирование и Python. До 12 детей на занятии. Сертификат по завершении.",
+                "start_time": "08:30",
+                "end_time": "15:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-18",
+                "topic": "Робототехника, электроника, ИИ, 3D-печать, приложения, блочное программирование и Python. До 12 детей на занятии. Сертификат по завершении.",
+                "start_time": "08:30",
+                "end_time": "15:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "variant_key": "2026-12-14-full"
+          },
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-25",
+            "label": "Утро",
+            "source": "https://programmerszone.ae/en/services/winter-camp",
+            "price": "Полдня · AED 650 до 30 ноября, AED 750 с 1 по 10 декабря, AED 800 с 11 декабря.",
+            "place": "Yas Creative Hub · Yas Island · Abu Dhabi",
+            "age": "8–13 лет. В 6–7 лет принимают вместе со старшим братом или сестрой.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "В 6–7 лет записываться вместе с Матвеем. Подтвердить одно расписание и места для обоих."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Робототехника, электроника, ИИ, 3D-печать, приложения, блочное программирование и Python. До 12 детей на занятии. Сертификат по завершении.",
+                "start_time": "08:30",
+                "end_time": "11:30",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "topic": "Робототехника, электроника, ИИ, 3D-печать, приложения, блочное программирование и Python. До 12 детей на занятии. Сертификат по завершении.",
+                "start_time": "08:30",
+                "end_time": "11:30",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "topic": "Робототехника, электроника, ИИ, 3D-печать, приложения, блочное программирование и Python. До 12 детей на занятии. Сертификат по завершении.",
+                "start_time": "08:30",
+                "end_time": "11:30",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "topic": "Робототехника, электроника, ИИ, 3D-печать, приложения, блочное программирование и Python. До 12 детей на занятии. Сертификат по завершении.",
+                "start_time": "08:30",
+                "end_time": "11:30",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-25",
+                "topic": "Робототехника, электроника, ИИ, 3D-печать, приложения, блочное программирование и Python. До 12 детей на занятии. Сертификат по завершении.",
+                "start_time": "08:30",
+                "end_time": "11:30",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "variant_key": "2026-12-21-am"
+          },
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-25",
+            "label": "День",
+            "source": "https://programmerszone.ae/en/services/winter-camp",
+            "price": "Полдня · AED 650 до 30 ноября, AED 750 с 1 по 10 декабря, AED 800 с 11 декабря.",
+            "place": "Yas Creative Hub · Yas Island · Abu Dhabi",
+            "age": "8–13 лет. В 6–7 лет принимают вместе со старшим братом или сестрой.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "В 6–7 лет записываться вместе с Матвеем. Подтвердить одно расписание и места для обоих."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Робототехника, электроника, ИИ, 3D-печать, приложения, блочное программирование и Python. До 12 детей на занятии. Сертификат по завершении.",
+                "start_time": "12:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "topic": "Робототехника, электроника, ИИ, 3D-печать, приложения, блочное программирование и Python. До 12 детей на занятии. Сертификат по завершении.",
+                "start_time": "12:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "topic": "Робототехника, электроника, ИИ, 3D-печать, приложения, блочное программирование и Python. До 12 детей на занятии. Сертификат по завершении.",
+                "start_time": "12:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "topic": "Робототехника, электроника, ИИ, 3D-печать, приложения, блочное программирование и Python. До 12 детей на занятии. Сертификат по завершении.",
+                "start_time": "12:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-25",
+                "topic": "Робототехника, электроника, ИИ, 3D-печать, приложения, блочное программирование и Python. До 12 детей на занятии. Сертификат по завершении.",
+                "start_time": "12:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "variant_key": "2026-12-21-pm"
+          },
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-25",
+            "label": "Полный день",
+            "source": "https://programmerszone.ae/en/services/winter-camp",
+            "price": "Полный день · AED 1150 до 30 ноября, AED 1200 с 1 по 10 декабря, AED 1250 с 11 декабря.",
+            "place": "Yas Creative Hub · Yas Island · Abu Dhabi",
+            "age": "8–13 лет. В 6–7 лет принимают вместе со старшим братом или сестрой.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "В 6–7 лет записываться вместе с Матвеем. Подтвердить одно расписание и места для обоих."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Робототехника, электроника, ИИ, 3D-печать, приложения, блочное программирование и Python. До 12 детей на занятии. Сертификат по завершении.",
+                "start_time": "08:30",
+                "end_time": "15:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "topic": "Робототехника, электроника, ИИ, 3D-печать, приложения, блочное программирование и Python. До 12 детей на занятии. Сертификат по завершении.",
+                "start_time": "08:30",
+                "end_time": "15:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "topic": "Робототехника, электроника, ИИ, 3D-печать, приложения, блочное программирование и Python. До 12 детей на занятии. Сертификат по завершении.",
+                "start_time": "08:30",
+                "end_time": "15:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "topic": "Робототехника, электроника, ИИ, 3D-печать, приложения, блочное программирование и Python. До 12 детей на занятии. Сертификат по завершении.",
+                "start_time": "08:30",
+                "end_time": "15:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-25",
+                "topic": "Робототехника, электроника, ИИ, 3D-печать, приложения, блочное программирование и Python. До 12 детей на занятии. Сертификат по завершении.",
+                "start_time": "08:30",
+                "end_time": "15:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "variant_key": "2026-12-21-full"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "AED",
+        "amount": null,
+        "unit": "week",
+        "label": "Полдня · AED 650 до 30 ноября, AED 750 с 1 по 10 декабря, AED 800 с 11 декабря. Полный день · AED 1150 до 30 ноября, AED 1200 с 1 по 10 декабря, AED 1250 с 11 декабря. На двоих за неделю до 30 ноября со скидкой 10% при совместной записи · AED 1170 полдня, AED 2070 полный день. Наличие мест и итог к оплате подтвердить.",
+        "included": "Цены за ребёнка за неделю, НДС 5% включён. Скидка 10% на каждого ребёнка при совместной записи братьев и сестёр или 10% за обе недели. Один промокод на заявку.",
+        "extras": "Свой планшет или ноутбук, вода и перекус. На полный день также взять обед.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "В 6–7 лет записываться вместе с Матвеем. Подтвердить одно расписание и места для обоих."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора.",
+        "В 6–7 лет записываться вместе с Матвеем. Подтвердить одно расписание и места для обоих."
+      ],
+      "sources": [
+        {
+          "url": "https://programmerszone.ae/en/services/winter-camp",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1732-20261214-20261218-2026-12-14-am"
+          ]
+        },
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1732-20261214-20261218-2026-12-14-pm"
+          ]
+        },
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1732-20261214-20261218-2026-12-14-full"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-25",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1732-20261221-20261225-2026-12-21-am"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-25",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1732-20261221-20261225-2026-12-21-pm"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-25",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1732-20261221-20261225-2026-12-21-full"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1733",
+      "slug": "la-folie-handprint-dubai-winter-2026",
+      "provider": "La Folie × HandPrint · Winter Camp",
+      "country": "ОАЭ",
+      "iso": "ARE",
+      "place": "HandPrint · Al Wanes Street · Umm Suqeim 1 · Dubai",
+      "themes": [
+        "science",
+        "general",
+        "languages",
+        "games",
+        "sport"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "HandPrint · группа 6–12 лет.",
+      "language": "Организатор подтверждает английский с арабским и французским. Испаноязычные сотрудники есть в команде, занятия на испанском для смены не заявлены.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "Дневная программа с практическим STEM, творчеством, играми и спортом. Расписание отдельных проектов по робототехнике уточнить.",
+      "timing": {
+        "status": "published_2026",
+        "label": "14–18, 21–24 и 28–31 декабря 2026, 09:00–13:00. 25 декабря лагерь закрыт.",
+        "sessions": [
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "Дневная смена HandPrint",
+            "source": "https://www.lafolie.me/services-detail/kids-winter-camp-dubai.html",
+            "price": "AED 290 за день. AED 1350 за 14–18 декабря или AED 1160 за 4 дня другой недели. Тарифы за ребёнка без НДС 5%.",
+            "place": "HandPrint · Al Wanes Street · Umm Suqeim 1 · Dubai",
+            "age": "HandPrint · группа 6–12 лет.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Возраст подходит для группы 6–12 лет. Английский подтверждён."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Возраст подходит для группы 6–12 лет. Английский подтверждён."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "topic": "Дневная программа с практическим STEM, творчеством, играми и спортом. Расписание отдельных проектов по робототехнике уточнить.",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-15",
+                "topic": "Дневная программа с практическим STEM, творчеством, играми и спортом. Расписание отдельных проектов по робототехнике уточнить.",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-16",
+                "topic": "Дневная программа с практическим STEM, творчеством, играми и спортом. Расписание отдельных проектов по робототехнике уточнить.",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-17",
+                "topic": "Дневная программа с практическим STEM, творчеством, играми и спортом. Расписание отдельных проектов по робототехнике уточнить.",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-18",
+                "topic": "Дневная программа с практическим STEM, творчеством, играми и спортом. Расписание отдельных проектов по робототехнике уточнить.",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+            }
+          },
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "Дневная смена HandPrint",
+            "source": "https://www.lafolie.me/services-detail/kids-winter-camp-dubai.html",
+            "price": "AED 290 за день. AED 1350 за 14–18 декабря или AED 1160 за 4 дня другой недели. Тарифы за ребёнка без НДС 5%.",
+            "place": "HandPrint · Al Wanes Street · Umm Suqeim 1 · Dubai",
+            "age": "HandPrint · группа 6–12 лет.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Возраст подходит для группы 6–12 лет. Английский подтверждён."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Возраст подходит для группы 6–12 лет. Английский подтверждён."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Дневная программа с практическим STEM, творчеством, играми и спортом. Расписание отдельных проектов по робототехнике уточнить.",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "topic": "Дневная программа с практическим STEM, творчеством, играми и спортом. Расписание отдельных проектов по робототехнике уточнить.",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "topic": "Дневная программа с практическим STEM, творчеством, играми и спортом. Расписание отдельных проектов по робототехнике уточнить.",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "topic": "Дневная программа с практическим STEM, творчеством, играми и спортом. Расписание отдельных проектов по робототехнике уточнить.",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+            }
+          },
+          {
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "Дневная смена HandPrint",
+            "source": "https://www.lafolie.me/services-detail/kids-winter-camp-dubai.html",
+            "price": "AED 290 за день. AED 1350 за 14–18 декабря или AED 1160 за 4 дня другой недели. Тарифы за ребёнка без НДС 5%.",
+            "place": "HandPrint · Al Wanes Street · Umm Suqeim 1 · Dubai",
+            "age": "HandPrint · группа 6–12 лет.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Возраст подходит для группы 6–12 лет. Английский подтверждён."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Возраст подходит для группы 6–12 лет. Английский подтверждён."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "topic": "Дневная программа с практическим STEM, творчеством, играми и спортом. Расписание отдельных проектов по робототехнике уточнить.",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "topic": "Дневная программа с практическим STEM, творчеством, играми и спортом. Расписание отдельных проектов по робототехнике уточнить.",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-30",
+                "topic": "Дневная программа с практическим STEM, творчеством, играми и спортом. Расписание отдельных проектов по робототехнике уточнить.",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-31",
+                "topic": "Дневная программа с практическим STEM, творчеством, играми и спортом. Расписание отдельных проектов по робототехнике уточнить.",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Dubai",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+            }
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "AED",
+        "amount": null,
+        "unit": "day",
+        "label": "AED 290 за день. AED 1350 за 14–18 декабря или AED 1160 за 4 дня другой недели. Тарифы за ребёнка без НДС 5%. С НДС 5% за двоих · AED 609 за день, AED 2835 за первую неделю, AED 2436 за 4 дня второй или третьей недели.",
+        "included": "Организатор подтверждает английский с арабским и французским. Испаноязычные сотрудники есть в команде, занятия на испанском для смены не заявлены.",
+        "extras": "Цена не опубликована.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Возраст подходит для группы 6–12 лет. Английский подтверждён."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Возраст подходит для группы 6–12 лет. Английский подтверждён."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://www.lafolie.me/services-detail/kids-winter-camp-dubai.html",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.lafolie.me/camps.html?location=grip",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "open",
+        "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1733-20261214-20261218"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1733-20261221-20261224"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1733-20261228-20261231"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1734",
+      "slug": "terra-expo-city-dubai-winter-2026",
+      "provider": "Terra · Expo City Camps Winter Edition",
+      "country": "ОАЭ",
+      "iso": "ARE",
+      "place": "Terra · Expo City Dubai",
+      "themes": [
+        "science",
+        "general",
+        "adventure"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "5–11",
+      "language": "Язык преподавания конкретной группы пока не подтверждён.",
+      "confirmed_instruction_languages": [],
+      "programme": "Природа, экология, исследование и игры. Подробное расписание ещё не опубликовано.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Общий период 14 декабря 2026 — 1 января 2027, 09:00–14:00. Выбор дня, недели или трёх недель. Подтвердить рабочие дни и даты выбранной смены.",
+        "sessions": [
+          [
+            "2026-12-14",
+            "2027-01-01"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-14",
+            "end": "2027-01-01",
+            "label": "Общий период 14 декабря 2026 — 1 января 2027, 09:00–14:00. Выбор дня, недели или трёх недель. Подтвердить рабочие дни и даты выбранной смены.",
+            "source": "https://terra.expocitydubai.com/en/poi/expo-city-winter-camp",
+            "price": "AED 190 день, AED 845 неделя, AED 1800 три недели. Объявлена скидка 20% на день или неделю при покупке до 6 декабря 2026. Продажи пока анонсированы.",
+            "availability": {
+              "status": "announced",
+              "label": "Организатор обещает открыть запись. Ссылка и полная программа ожидаются."
+            }
+          }
+        ],
+        "precision": "season_window"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "AED",
+        "amount": null,
+        "unit": "programme",
+        "label": "AED 190 день, AED 845 неделя, AED 1800 три недели. Объявлена скидка 20% на день или неделю при покупке до 6 декабря 2026. Продажи пока анонсированы.",
+        "included": "Природа, экология, исследование и игры. Подробное расписание ещё не опубликовано.",
+        "extras": "Цена не опубликована.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://terra.expocitydubai.com/en/poi/expo-city-winter-camp",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "announced",
+        "label": "Организатор обещает открыть запись. Ссылка и полная программа ожидаются."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-14",
+          "end": "2027-01-01",
+          "kind": "season_window",
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "id": "CP1735",
+      "slug": "ascend-dubai-junior-winter-2026",
+      "provider": "Ascend EdTech · Junior Winter Camp",
+      "country": "ОАЭ",
+      "iso": "ARE",
+      "place": "Ascend EdTech · Sport Society Mall · Mirdif · Dubai",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding",
+        "games"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "6–12",
+      "language": "Язык преподавания конкретной группы пока не подтверждён.",
+      "confirmed_instruction_languages": [],
+      "programme": "Пять дней, 20 часов. 10 часов робототехники и ИИ, 10 часов создания игр в Minecraft. Компьютеры и наборы на месте, итоговая презентация и сертификат.",
+      "timing": {
+        "status": "partial_2026",
+        "label": "Объявлен декабрь 2026. Точные даты, часы и тариф организатор сообщает по запросу.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "announced_month",
+        "announced_months": [
+          "2026-12"
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "currency": "AED",
+        "amount": null,
+        "unit": "programme",
+        "label": "Цена не опубликована.",
+        "included": "Пять дней, 20 часов. 10 часов робототехники и ИИ, 10 часов создания игр в Minecraft. Компьютеры и наборы на месте, итоговая презентация и сертификат.",
+        "extras": "Цена не опубликована.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://ascendedu.online/events-workshops/winter-camp-2026/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "interest",
+        "label": "Можно заявить интерес. Даты и зачисление организатор подтверждает отдельно."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": []
     }
   ],
   "gaps": [
@@ -294596,7 +295944,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 222,
+  "version": 223,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -307831,7 +309179,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1731,
+      "total_dossiers": 1735,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -320001,6 +321349,26 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP1190",
+      "event_id": "CP1190-20261214-20261218-band",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1190",
+      "event_id": "CP1190-20261221-20261225-carnival",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1191",
+      "event_id": "CP1191-20261214-20261218-band",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1191",
+      "event_id": "CP1191-20261221-20261225-carnival",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1192",
       "event_id": "CP1192-20261214-20261218-package",
       "relation": "catalogue_session"
@@ -326901,6 +328269,51 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP1732",
+      "event_id": "CP1732-20261214-20261218-2026-12-14-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1732",
+      "event_id": "CP1732-20261214-20261218-2026-12-14-pm",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1732",
+      "event_id": "CP1732-20261214-20261218-2026-12-14-full",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1732",
+      "event_id": "CP1732-20261221-20261225-2026-12-21-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1732",
+      "event_id": "CP1732-20261221-20261225-2026-12-21-pm",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1732",
+      "event_id": "CP1732-20261221-20261225-2026-12-21-full",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1733",
+      "event_id": "CP1733-20261214-20261218",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1733",
+      "event_id": "CP1733-20261221-20261224",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1733",
+      "event_id": "CP1733-20261228-20261231",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -329612,6 +331025,10 @@
     "CP1187-20270104-20270108",
     "CP1188-20270116-20270116",
     "CP1189-20270213-20270213",
+    "CP1190-20261214-20261218-band",
+    "CP1190-20261221-20261225-carnival",
+    "CP1191-20261214-20261218-band",
+    "CP1191-20261221-20261225-carnival",
     "CP1192-20261214-20261218-package",
     "CP1193-20261214-20261218-package",
     "CP1194-20261221-20261222-package",
@@ -330959,12 +332376,21 @@
     "CP1731-20270508-20270509",
     "CP1731-20270522-20270523",
     "CP1731-20270605-20270606",
-    "CP1731-20270624-20270627"
+    "CP1731-20270624-20270627",
+    "CP1732-20261214-20261218-2026-12-14-am",
+    "CP1732-20261214-20261218-2026-12-14-pm",
+    "CP1732-20261214-20261218-2026-12-14-full",
+    "CP1732-20261221-20261225-2026-12-21-am",
+    "CP1732-20261221-20261225-2026-12-21-pm",
+    "CP1732-20261221-20261225-2026-12-21-full",
+    "CP1733-20261214-20261218",
+    "CP1733-20261221-20261224",
+    "CP1733-20261228-20261231"
   ],
   "integration": {
-    "generated_sessions": 3628,
+    "generated_sessions": 3641,
     "reused_legacy_events": 69,
-    "seasonal_windows": 63,
+    "seasonal_windows": 64,
     "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."
   }
 }

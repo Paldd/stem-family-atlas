@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 7889,
-    "competition_cards": 3232,
-    "event_cards": 374,
-    "camp_cards": 4283,
-    "league_profiles": 268,
-    "major_exhibition_cards": 286,
+    "cards": 7916,
+    "competition_cards": 3243,
+    "event_cards": 377,
+    "camp_cards": 4296,
+    "league_profiles": 269,
+    "major_exhibition_cards": 289,
     "vex_cards": 518,
     "countries_with_records": 159,
     "fully_audited_countries": 0
@@ -90,12 +90,12 @@
       "regions": [
         "Asia"
       ],
-      "total": 2413,
+      "total": 2440,
       "countries_with_records": 44,
-      "competitions": 786,
-      "events": 102,
-      "major_exhibitions": 90,
-      "camps": 1525,
+      "competitions": 797,
+      "events": 105,
+      "major_exhibitions": 93,
+      "camps": 1538,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido India camp candidates y las primeras rutas de Pakistán / Bangladesh / Sri Lanka. no todos los nacionales calificados, las lenguas y la admisión extranjera están cerrados; otros países asiáticos han sido parcialmente investigados."
     },
@@ -6070,6 +6070,30 @@
       "new": false
     },
     {
+      "id": "fll-uae-bioglow-2027",
+      "name": "FIRST LEGO League UAE · BIOGLOW Founders 2026/27",
+      "group": "regional",
+      "event_ids": [
+        "C3234",
+        "C3235",
+        "C3236",
+        "C3237",
+        "C3238",
+        "C3239",
+        "C3240",
+        "C3241",
+        "C3242",
+        "C3243",
+        "C3244"
+      ],
+      "cards": 11,
+      "future_dated": 9,
+      "linked_card_count": 11,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://www.flluae.org/",
+      "new": false
+    },
+    {
       "id": "tech-challenge-project",
       "name": "The Tech Challenge · programa de ingeniería y showcase",
       "group": "regional",
@@ -10241,6 +10265,39 @@
       "new": false
     },
     {
+      "id": "E375",
+      "name": "Dubai Esports and Games Festival 2027",
+      "country": "Emiratos Árabes Unidos",
+      "region": "Asia",
+      "start": "2027-04-09",
+      "end": "2027-04-25",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.dubaiesportsfestival.com/en",
+      "new": false
+    },
+    {
+      "id": "E376",
+      "name": "Intersec Global 2027",
+      "country": "Emiratos Árabes Unidos",
+      "region": "Asia",
+      "start": "2027-01-12",
+      "end": "2027-01-14",
+      "visitor_policy": "adults_only",
+      "source": "https://intersecglobal.ae.messefrankfurt.com/dubai/en/why-visit-us/FAQ.html",
+      "new": false
+    },
+    {
+      "id": "E377",
+      "name": "CODE DXB 2027",
+      "country": "Emiratos Árabes Unidos",
+      "region": "Asia",
+      "start": "2027-04-01",
+      "end": "2027-04-02",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.codeexpodxb.com/faq",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -12658,14 +12715,14 @@
       }
     ],
     "counts": {
-      "records": 4283,
-      "holiday": 4008,
+      "records": 4296,
+      "holiday": 4021,
       "regular": 120,
       "self_paced_materials": 2,
       "boarding": 1036,
-      "en_es_instruction": 1410,
+      "en_es_instruction": 1413,
       "en_es_support": 12,
-      "family_instruction": 1410,
+      "family_instruction": 1413,
       "family_support": 12,
       "ru_instruction": 4,
       "language_lessons": 410,

@@ -1926,23 +1926,22 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E175@family-stem.local
-DTSTAMP:20261006T205843Z
+DTSTAMP:20261107T152204Z
 SUMMARY:[Exposición · confirmar admisión de menores] Web Summit Qatar2
  027
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270204
-DESCRIPTION:Idea de visita\; no es una inscripción aceptada. QatarlocalV
- enueFAQ: over18. de las empresas Terms§5.1 se permite youth4–17\, Per
- o ...§5.1.3 deja la decisión a cada uno event/year/location\; exclusi
- ón Qatar2027 No se ha recibido. Entrada de adultos: elegir visitorbadge
-  y obtener la regla de la edición actual para niños 6/9\; el studentba
- dge no es un boleto infantil automáticamente.. 31 de enero3 de febrero 
- de 2027\, DECC. local FAQ18+ tiene ventaja sobre el General Conditional 
- Youth Ticket. exclusión para 6/9 no se ha confirmado\; la grabación ha
-  sido eliminada del ICS familiar\, se conserva en el calendario de la ex
- posición para adultos. Empresas: la lista de exposiciones antes de viaj
- ar\; no todas las compañías del mundo prometieron.. Fuente verificada 
- el 2026-10-02.
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Visita diur
+ na posible según la regla publicada del Youth Ticket. Night Summit solo
+  para 18+. Confirmar precio y emisión de entradas infantiles para 2027.
+  Entrada de adultos: Condicional. La ayuda de Web Summit Qatar admite me
+ nores de 18 años con Youth Ticket y adulto con entrada durante toda la 
+ visita. Confirmar disponibilidad para ambos niños en la edición de 202
+ 7.. Visita diurna posible según la regla publicada del Youth Ticket. Ni
+ ght Summit solo para 18+. Confirmar precio y emisión de entradas infant
+ iles para 2027. Empresas: la lista de exposiciones antes de viajar\; no 
+ todas las compañías del mundo prometieron.. Fuente verificada el 2026-
+ 11-07.
 LOCATION:Doha Exhibition and Convention Center(DECC)\, Catar
 URL:https://qatar.websummit.com/
 STATUS:TENTATIVE
@@ -4307,6 +4306,67 @@ DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Programa te
  rolladores.. Fuente verificada el 2026-11-07.
 LOCATION:Tecnológico de Monterrey · Campus Ciudad de México\, México
 URL:https://gdg.community.dev/events/details/google-gdg-cdmx-presents-devfest-2026-ciudad-de-mexico/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E375@family-stem.local
+DTSTAMP:20261107T152204Z
+SUMMARY:[Exposición · confirmar admisión de menores] Dubai Esports and
+  Games Festival 2027
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270426
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Condicional
+ . Confirmar entrada infantil y reglas de acompañamiento. Entrada de adu
+ ltos: Condicional. Confirmar entrada infantil y reglas de acompañamient
+ o.. Festival general en toda la ciudad. Confirmar por separado fechas y 
+ entradas de GameExpo y torneos concretos en el programa de 2027. Empresa
+ s: Festival general en toda la ciudad. Confirmar por separado fechas y e
+ ntradas de GameExpo y torneos concretos en el programa de 2027.. Fuente 
+ verificada el 2026-11-07.
+LOCATION:Dubai · multiple venues\, Emiratos Árabes Unidos
+URL:https://www.dubaiesportsfestival.com/en
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E376@family-stem.local
+DTSTAMP:20261107T152003Z
+SUMMARY:[Exposición · niños de 6/9 años no admitidos] Intersec Global
+  2027
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270115
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Entrada par
+ a profesionales acreditados de 18+. La organización no admite menores e
+ n los pabellones. Entrada de adultos: Entrada para profesionales acredit
+ ados de 18+. La organización no admite menores en los pabellones.. Feri
+ a profesional de tecnologías de seguridad\, ciberseguridad y protecció
+ n. Registro gratuito para visitantes que cumplen los requisitos. Empresa
+ s: Feria profesional de tecnologías de seguridad\, ciberseguridad y pro
+ tección. Registro gratuito para visitantes que cumplen los requisitos..
+  Fuente verificada el 2026-11-07.
+LOCATION:Dubai World Trade Centre\, Emiratos Árabes Unidos
+URL:https://intersecglobal.ae.messefrankfurt.com/dubai/en/why-visit-us/FAQ.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E377@family-stem.local
+DTSTAMP:20261107T152003Z
+SUMMARY:[Exposición · confirmar admisión de menores] CODE DXB 2027
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270403
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Programa pa
+ ra profesionales de tecnología\, recursos humanos y capacitación labor
+ al. Confirmar edad mínima y acceso infantil. Entrada de adultos: Progra
+ ma para profesionales de tecnología\, recursos humanos y capacitación 
+ laboral. Confirmar edad mínima y acceso infantil.. Exposición de soluc
+ iones de IA para selección y formación corporativa. Exposición desde 
+ las 09:30\, programa de 10:00–16:00. Empresas: Exposición de solucion
+ es de IA para selección y formación corporativa. Exposición desde las
+  09:30\, programa de 10:00–16:00.. Fuente verificada el 2026-11-07.
+LOCATION:The Agenda · Dubai Media City\, Emiratos Árabes Unidos
+URL:https://www.codeexpodxb.com/faq
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT

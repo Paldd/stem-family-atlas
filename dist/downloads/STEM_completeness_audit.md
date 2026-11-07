@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 7889; соревнований: 3232; событий: 374; лагерей / программ: 4283. Профилей лиг и программ: 268. Карточек крупных и профильных выставок: 286 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 7916; соревнований: 3243; событий: 377; лагерей / программ: 4296. Профилей лиг и программ: 269. Карточек крупных и профильных выставок: 289 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 159 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -18,12 +18,12 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 | Южная Америка | 10 | 204 | 19 | 142 |
 | Европа | 42 | 434 | 82 | 1327 |
 | Африка | 34 | 133 | 21 | 70 |
-| Азия | 44 | 786 | 90 | 1525 |
+| Азия | 44 | 797 | 93 | 1538 |
 | Океания | 6 | 128 | 19 | 134 |
 
 Межрегиональные / глобальные карточки, не приписанные одному континенту: 116. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
 
-VEX: 518 из 3232 карточек соревнований (16.0%). Это явный перекос охвата.
+VEX: 518 из 3243 карточек соревнований (16.0%). Это явный перекос охвата.
 
 ## Что осталось
 
@@ -292,6 +292,7 @@ VEX: 518 из 3232 карточек соревнований (16.0%). Это я�
 - **RoboCup Korea Open · RCJ / RCAP / Basic**: 9 карточек, 9 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://robocupkorea.org/notices/40bb8588-54e0-81a0-9c14-c54109c9dd97
 - **ENJOY AI Korea**: 11 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://enjoyaikorea.org/en
 - **World Robot Contest Malaysia · IntelekEDU**: 2 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://intelek.edu.my/competitions/
+- **FIRST LEGO League UAE · BIOGLOW Founders 2026/27**: 11 карточек, 9 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.flluae.org/
 - **The Tech Challenge · инженерная программа и showcase**: 0 карточек, 0 с будущими точными датами. Учебная / посещаемая программа; конкурсных этапов нет. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · локальные дисциплины**: 10 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · младшая демонстрация и Mini Sumo**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -622,6 +623,9 @@ VEX: 518 из 3232 карточек соревнований (16.0%). Это я�
 - **MEGA GAME LAB · Mexican tabletop prototypes** — Мексика; 2026-11-14. Со взрослым; условия взрослого входа отдельно. https://megaxp.com.mx/mega-game-lab/
 - **Tulum Innovation Fest 2026** — Мексика; 2026-12-09 – 2026-12-12. Детский допуск уточнить. https://www.tuluminnovationfest.com/
 - **DevFest Ciudad de México 2026** — Мексика; 2026-12-09. Детский допуск уточнить. https://gdg.community.dev/events/details/google-gdg-cdmx-presents-devfest-2026-ciudad-de-mexico/
+- **Dubai Esports and Games Festival 2027** — Объединенные Арабские Эмираты; 2027-04-09 – 2027-04-25. Детский допуск уточнить. https://www.dubaiesportsfestival.com/en
+- **Intersec Global 2027** — Объединенные Арабские Эмираты; 2027-01-12 – 2027-01-14. Детям 6/9 нельзя. https://intersecglobal.ae.messefrankfurt.com/dubai/en/why-visit-us/FAQ.html
+- **CODE DXB 2027** — Объединенные Арабские Эмираты; 2027-04-01 – 2027-04-02. Детский допуск уточнить. https://www.codeexpodxb.com/faq
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors

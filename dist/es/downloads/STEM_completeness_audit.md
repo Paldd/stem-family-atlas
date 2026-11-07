@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 7889; competiciones: 3232; eventos: 374; campamentos / programas: 4283. Perfiles de ligas y programas: 268. Fichas de exposiciones grandes y especializadas: 286 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 7916; competiciones: 3243; eventos: 377; campamentos / programas: 4296. Perfiles de ligas y programas: 269. Fichas de exposiciones grandes y especializadas: 289 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros para 159 de 249 países y territorios. Países con auditoría completa: 0. La revisión histórica v51 agregó 21 fichas y 3 perfiles. Se conservaron las fichas previas.
 
@@ -18,12 +18,12 @@ Hay registros para 159 de 249 países y territorios. Países con auditoría comp
 | América del Sur | 10 | 204 | 19 | 142 |
 | Europa | 42 | 434 | 82 | 1327 |
 | África | 34 | 133 | 21 | 70 |
-| Asia | 44 | 786 | 90 | 1525 |
+| Asia | 44 | 797 | 93 | 1538 |
 | Oceanía | 6 | 128 | 19 | 134 |
 
 Fichas interregionales / mundiales sin un solo continente asignado: 116. América del Norte incluye Centroamérica y el Caribe. Las cifras muestran el inventario de la base y no el porcentaje de cobertura.
 
-VEX: 518 de 3232 fichas de competiciones (16.0%). La cobertura está claramente desequilibrada.
+VEX: 518 de 3243 fichas de competición (16.0%). Esto muestra un sesgo de cobertura.
 
 ## Lo que queda
 
@@ -292,6 +292,7 @@ VEX: 518 de 3232 fichas de competiciones (16.0%). La cobertura está claramente 
 - **RoboCup Korea Open · RCJ / RCAP / Basic**: 9 fichas, 9 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://robocupkorea.org/notices/40bb8588-54e0-81a0-9c14-c54109c9dd97
 - **ENJOY AI Korea**: 11 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://enjoyaikorea.org/en
 - **World Robot Contest Malaysia · IntelekEDU**: 2 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://intelek.edu.my/competitions/
+- **FIRST LEGO League UAE · BIOGLOW Founders 2026/27**: 11 fichas, 9 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.flluae.org/
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 10 tarjetas, 0 con fechas exactas futuras. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -622,6 +623,9 @@ VEX: 518 de 3232 fichas de competiciones (16.0%). La cobertura está claramente 
 - **MEGA GAME LAB · Mexican tabletop prototypes** — México; 2026-11-14. con un adulto; condiciones de admisión adulta por separado. https://megaxp.com.mx/mega-game-lab/
 - **Tulum Innovation Fest 2026** — México; 2026-12-09 – 2026-12-12. el permiso de entrada de niños. https://www.tuluminnovationfest.com/
 - **DevFest Ciudad de México 2026** — México; 2026-12-09. el permiso de entrada de niños. https://gdg.community.dev/events/details/google-gdg-cdmx-presents-devfest-2026-ciudad-de-mexico/
+- **Dubai Esports and Games Festival 2027** — Emiratos Árabes Unidos; 2027-04-09 – 2027-04-25. el permiso de entrada de niños. https://www.dubaiesportsfestival.com/en
+- **Intersec Global 2027** — Emiratos Árabes Unidos; 2027-01-12 – 2027-01-14. Los niños del 6/9 no pueden. https://intersecglobal.ae.messefrankfurt.com/dubai/en/why-visit-us/FAQ.html
+- **CODE DXB 2027** — Emiratos Árabes Unidos; 2027-04-01 – 2027-04-02. el permiso de entrada de niños. https://www.codeexpodxb.com/faq
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

@@ -870,13 +870,13 @@
   ],
   "completion_rule": "No declarar el objetivo de las tarjetas de identificación completadas, la lista de 249 países o los puntos verdes de UI. Se requiere una cobertura de referencia y condiciones pertinentes demostradas, o información manifiestamente inaccesible o no declarada con fuentes verificadas.",
   "latest_validation": {
-    "version": 222,
+    "version": 223,
     "status": "implementation_snapshot",
-    "events": 7889,
-    "competitions": 3232,
-    "league_profiles": 268,
-    "camp_dossiers": 1731,
-    "budget_offers": 258,
+    "events": 7916,
+    "competitions": 3243,
+    "league_profiles": 269,
+    "camp_dossiers": 1735,
+    "budget_offers": 262,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
     "worldwide_complete": false,
@@ -926,13 +926,13 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 221,
+    "version": 222,
     "status": "implementation_snapshot",
-    "events": 7853,
-    "competitions": 3230,
+    "events": 7889,
+    "competitions": 3232,
     "league_profiles": 268,
-    "camp_dossiers": 1722,
-    "budget_offers": 246,
+    "camp_dossiers": 1731,
+    "budget_offers": 258,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
     "worldwide_complete": false,
@@ -20807,11 +20807,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 221,
-    "published_version": 221,
-    "latest_source_commit": "0a1d9b669a61af0910a718c9624b075c8a6ee13e",
-    "published_commit": "0a1d9b669a61af0910a718c9624b075c8a6ee13e",
-    "latest_workflow": 42382929970,
+    "latest_source_version": 222,
+    "published_version": 222,
+    "latest_source_commit": "1ef1a4b1102802aa41f07c0a430d53de8f208e85",
+    "published_commit": "1ef1a4b1102802aa41f07c0a430d53de8f208e85",
+    "latest_workflow": 42384561509,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -22461,5 +22461,75 @@
     ],
     "audit": "data/winter-sarria-family-audit-v222.json",
     "source_receipts": "data/winter-sarria-family-source-receipts-v222.json"
+  },
+  "gulf_family_v223": {
+    "version": 223,
+    "checked": "2026-11-07",
+    "previous_goal_turn_classification": "progress",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_competitions": 11,
+    "new_exhibitions": 3,
+    "new_league_profiles": 1,
+    "new_camp_dossiers": 4,
+    "new_dated_camp_variants": 13,
+    "new_budget_offers": 4,
+    "new_events": [
+      "C3234",
+      "C3235",
+      "C3236",
+      "C3237",
+      "C3238",
+      "C3239",
+      "C3240",
+      "C3241",
+      "C3242",
+      "C3243",
+      "C3244",
+      "E375",
+      "E376",
+      "E377"
+    ],
+    "fll_uae_regional_slots": [
+      "C3235",
+      "C3236",
+      "C3237",
+      "C3238",
+      "C3240",
+      "C3241",
+      "C3242",
+      "C3243",
+      "C3244"
+    ],
+    "fll_uae_category_routes": [
+      "C3234",
+      "C3239"
+    ],
+    "updated_camp_dossiers": [
+      "CP1190",
+      "CP1191"
+    ],
+    "updated_event_ids": [
+      "E175"
+    ],
+    "programme_ids": {
+      "programmers-zone-yas-winter-2026": "CP1732",
+      "la-folie-handprint-dubai-winter-2026": "CP1733",
+      "terra-expo-city-dubai-winter-2026": "CP1734",
+      "ascend-dubai-junior-winter-2026": "CP1735"
+    },
+    "source_requests": 30,
+    "limits": [
+      "FLL UAE lists nine assigned regional slots and two categories. Exact venue, reporting time, local or foreign team approval, judge language and final dates remain unconfirmed. Explore is non-ranked.",
+      "Programmers Zone accepts ages 6–7 with an older sibling. Published fees include VAT. Family offers use pre-discount base and display the calculated sibling discount separately. Teaching language is unconfirmed.",
+      "UWR host and linked winter pages now agree. Weekly Monday-to-Friday attendance dates follow the published range and cadence. Confirm both groups at a single campus. Spring language evidence does not establish winter instruction language.",
+      "La Folie HandPrint explicitly confirms English and dates. The camp includes STEM among broader activities. VAT-inclusive rates are arithmetic from the published tax-exclusive fees. Detailed robotics activities and schedule are not inferred.",
+      "Terra is a season window and Ascend is an announced month. Neither creates a dated attendance entry. ESM third-week contradiction and LearnGate year/length discrepancies were left out of dated rows.",
+      "DEF dates refer to the citywide festival. GameExpo has no separately verified 2027 slot in this release. CODE DXB and DEF child access is pending. Intersec is explicitly trade and 18+.",
+      "Qatar-specific support confirms a conditional Youth Ticket process. Sale, price and issuance for the 2027 edition remain pending. Keep the family calendar gate.",
+      "Kuwait and Qatar robotics pages were rechecked. Stale season text and unavailable source captures do not replace existing routes or dates."
+    ],
+    "audit": "data/gulf-family-audit-v223.json",
+    "source_receipts": "data/gulf-family-source-receipts-v223.json"
   }
 }

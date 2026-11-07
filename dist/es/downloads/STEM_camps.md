@@ -45750,6 +45750,70 @@ Limitaciones: Matvey: Sin edad propia publicada del taller. Exige equipo ya insc
 Fuente: https://www.robofest.net/rms/sites/2027/WS_GAME_VEXIQ_VEXcode
 Se ha comprobado: 2026-11-05
 
+### CP1190-20261214-20261218-band · Unique World Robotics · Cadets · The Robot Band · 2026-12-14–2026-12-18
+
+lugar: Emiratos Árabes Unidos · Dubai · Al Karama / JVC
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 5–7
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Tarifa sin publicar; no considerar gratuito. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Matvey tiene 9, Cadets máximo 7. Oscar: Oscar tiene 6, cumple Cadets 5–7 por edad. Suplementos: Obligatorio portátil o iPad cargado con cargador / adaptadores. Para iPad se indican LEGO Education SPIKE, Microbit, MatataCode (VinciBot), PictoBlox / Junior. Llevar comida, agua y cuaderno; sin comida incluida. Pueden comunicar materiales adicionales después. Pago: Precio, impuestos, devoluciones y reglas de sede elegida sin establecer.
+Fuente: https://uniqueworldrobotics.com/winter-camp/
+Se ha comprobado: 2026-11-07
+
+### CP1190-20261221-20261225-carnival · Unique World Robotics · Cadets · Build Your Own Carnival · 2026-12-21–2026-12-25
+
+lugar: Emiratos Árabes Unidos · Dubai · Al Karama / JVC
+Fecha: 2026-12-21 — 2026-12-25
+Edad: 5–7
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Tarifa sin publicar; no considerar gratuito. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Matvey tiene 9, Cadets máximo 7. Oscar: Oscar tiene 6, cumple Cadets 5–7 por edad. Suplementos: Obligatorio portátil o iPad cargado con cargador / adaptadores. Para iPad se indican LEGO Education SPIKE, Microbit, MatataCode (VinciBot), PictoBlox / Junior. Llevar comida, agua y cuaderno; sin comida incluida. Pueden comunicar materiales adicionales después. Pago: Precio, impuestos, devoluciones y reglas de sede elegida sin establecer.
+Fuente: https://uniqueworldrobotics.com/winter-camp/
+Se ha comprobado: 2026-11-07
+
+### CP1191-20261214-20261218-band · Unique World Robotics · Pioneers · The Robot Band · 2026-12-14–2026-12-18
+
+lugar: Emiratos Árabes Unidos · Dubai · Al Karama / JVC
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 8–11
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Tarifa sin publicar; no considerar gratuito. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Matvey tiene 9, cumple Pioneers 8–11 por edad. Oscar: Oscar tiene 6, Pioneers desde 8; elegir Cadets. Suplementos: Obligatorio portátil o iPad cargado con cargador / adaptadores. Para iPad se indican LEGO Education SPIKE, Microbit, MatataCode (VinciBot), PictoBlox / Junior. Llevar comida, agua y cuaderno; sin comida incluida. Pueden comunicar materiales adicionales después. Pago: Precio, impuestos, devoluciones y reglas de sede elegida sin establecer.
+Fuente: https://uniqueworldrobotics.com/winter-camp/
+Se ha comprobado: 2026-11-07
+
+### CP1191-20261221-20261225-carnival · Unique World Robotics · Pioneers · Build Your Own Carnival · 2026-12-21–2026-12-25
+
+lugar: Emiratos Árabes Unidos · Dubai · Al Karama / JVC
+Fecha: 2026-12-21 — 2026-12-25
+Edad: 8–11
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Tarifa sin publicar; no considerar gratuito. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Matvey tiene 9, cumple Pioneers 8–11 por edad. Oscar: Oscar tiene 6, Pioneers desde 8; elegir Cadets. Suplementos: Obligatorio portátil o iPad cargado con cargador / adaptadores. Para iPad se indican LEGO Education SPIKE, Microbit, MatataCode (VinciBot), PictoBlox / Junior. Llevar comida, agua y cuaderno; sin comida incluida. Pueden comunicar materiales adicionales después. Pago: Precio, impuestos, devoluciones y reglas de sede elegida sin establecer.
+Fuente: https://uniqueworldrobotics.com/winter-camp/
+Se ha comprobado: 2026-11-07
+
 ### CP1192-20261214-20261218-package · BlueShift · Junior 5–8 · Junior · 2026-12-14–2026-12-18
 
 Lugar: Gran Bretaña London · Notting Hill Prep
@@ -67316,6 +67380,150 @@ Precio: 2027 · End of Year Camp · EUR 240 por niño · noches 3 · suplementos
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Sí por edad. Confirmar plaza y condiciones de participación. Oscar: Sí por edad. Confirmar plaza y condiciones de participación. Suplementos: Para grupos de 5 niños o más se puede consultar descuento. Confirmar traslado y condiciones de cancelación. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://cbssummercamp.eu/cbs-outdoor-adventures/
+Se ha comprobado: 2026-11-07
+
+### CP1732-20261214-20261218-2026-12-14-am · Programmers Zone · Winter Camp · Mañana · 2026-12-14–2026-12-18
+
+lugar: Emiratos Árabes Unidos · Yas Creative Hub · Yas Island · Abu Dhabi
+Fecha: 2026-12-14 - 2026-12-18
+edad: 8–13 años. A los 6–7 años admiten junto a un hermano o hermana mayor.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Media jornada · AED 650 hasta el 30 de noviembre, AED 750 del 1 al 10 de diciembre, AED 800 desde el 11 de diciembre. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: A los 6–7 años inscribirse junto a Matvey. Confirmar el mismo horario y plazas para ambos. Suplementos: Llevar tableta u ordenador portátil, agua y merienda. Para jornada completa, llevar también almuerzo. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://programmerszone.ae/en/services/winter-camp
+Se ha comprobado: 2026-11-07
+
+### CP1732-20261214-20261218-2026-12-14-pm · Programmers Zone · Winter Camp · Tarde · 2026-12-14–2026-12-18
+
+lugar: Emiratos Árabes Unidos · Yas Creative Hub · Yas Island · Abu Dhabi
+Fecha: 2026-12-14 - 2026-12-18
+edad: 8–13 años. A los 6–7 años admiten junto a un hermano o hermana mayor.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Media jornada · AED 650 hasta el 30 de noviembre, AED 750 del 1 al 10 de diciembre, AED 800 desde el 11 de diciembre. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: A los 6–7 años inscribirse junto a Matvey. Confirmar el mismo horario y plazas para ambos. Suplementos: Llevar tableta u ordenador portátil, agua y merienda. Para jornada completa, llevar también almuerzo. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://programmerszone.ae/en/services/winter-camp
+Se ha comprobado: 2026-11-07
+
+### CP1732-20261214-20261218-2026-12-14-full · Programmers Zone · Winter Camp · Jornada completa · 2026-12-14–2026-12-18
+
+lugar: Emiratos Árabes Unidos · Yas Creative Hub · Yas Island · Abu Dhabi
+Fecha: 2026-12-14 - 2026-12-18
+edad: 8–13 años. A los 6–7 años admiten junto a un hermano o hermana mayor.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Jornada completa · AED 1150 hasta el 30 de noviembre, AED 1200 del 1 al 10 de diciembre, AED 1250 desde el 11 de diciembre. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: A los 6–7 años inscribirse junto a Matvey. Confirmar el mismo horario y plazas para ambos. Suplementos: Llevar tableta u ordenador portátil, agua y merienda. Para jornada completa, llevar también almuerzo. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://programmerszone.ae/en/services/winter-camp
+Se ha comprobado: 2026-11-07
+
+### CP1732-20261221-20261225-2026-12-21-am · Programmers Zone · Winter Camp · Mañana · 2026-12-21–2026-12-25
+
+lugar: Emiratos Árabes Unidos · Yas Creative Hub · Yas Island · Abu Dhabi
+Fecha: 2026-12-21 — 2026-12-25
+edad: 8–13 años. A los 6–7 años admiten junto a un hermano o hermana mayor.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Media jornada · AED 650 hasta el 30 de noviembre, AED 750 del 1 al 10 de diciembre, AED 800 desde el 11 de diciembre. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: A los 6–7 años inscribirse junto a Matvey. Confirmar el mismo horario y plazas para ambos. Suplementos: Llevar tableta u ordenador portátil, agua y merienda. Para jornada completa, llevar también almuerzo. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://programmerszone.ae/en/services/winter-camp
+Se ha comprobado: 2026-11-07
+
+### CP1732-20261221-20261225-2026-12-21-pm · Programmers Zone · Winter Camp · Tarde · 2026-12-21–2026-12-25
+
+lugar: Emiratos Árabes Unidos · Yas Creative Hub · Yas Island · Abu Dhabi
+Fecha: 2026-12-21 — 2026-12-25
+edad: 8–13 años. A los 6–7 años admiten junto a un hermano o hermana mayor.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Media jornada · AED 650 hasta el 30 de noviembre, AED 750 del 1 al 10 de diciembre, AED 800 desde el 11 de diciembre. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: A los 6–7 años inscribirse junto a Matvey. Confirmar el mismo horario y plazas para ambos. Suplementos: Llevar tableta u ordenador portátil, agua y merienda. Para jornada completa, llevar también almuerzo. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://programmerszone.ae/en/services/winter-camp
+Se ha comprobado: 2026-11-07
+
+### CP1732-20261221-20261225-2026-12-21-full · Programmers Zone · Winter Camp · Jornada completa · 2026-12-21–2026-12-25
+
+lugar: Emiratos Árabes Unidos · Yas Creative Hub · Yas Island · Abu Dhabi
+Fecha: 2026-12-21 — 2026-12-25
+edad: 8–13 años. A los 6–7 años admiten junto a un hermano o hermana mayor.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Jornada completa · AED 1150 hasta el 30 de noviembre, AED 1200 del 1 al 10 de diciembre, AED 1250 desde el 11 de diciembre. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: A los 6–7 años inscribirse junto a Matvey. Confirmar el mismo horario y plazas para ambos. Suplementos: Llevar tableta u ordenador portátil, agua y merienda. Para jornada completa, llevar también almuerzo. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://programmerszone.ae/en/services/winter-camp
+Se ha comprobado: 2026-11-07
+
+### CP1733-20261214-20261218 · La Folie × HandPrint · Winter Camp · Turno diurno HandPrint · 2026-12-14–2026-12-18
+
+lugar: Emiratos Árabes Unidos · HandPrint · Al Wanes Street · Umm Suqeim 1 · Dubai
+Fecha: 2026-12-14 - 2026-12-18
+edad: HandPrint · grupo de 6–12 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: La organización confirma inglés con árabe y francés. Hay personal hispanohablante, pero no se anuncian clases en español para el turno.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · AED 290 por día. AED 1350 del 14–18 de diciembre o AED 1160 por 4 días de otra semana. Precios por niño sin IVA del 5%. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada para el grupo de 6–12 años. Inglés confirmado. Oscar: Edad adecuada para el grupo de 6–12 años. Inglés confirmado. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.lafolie.me/services-detail/kids-winter-camp-dubai.html
+Se ha comprobado: 2026-11-07
+
+### CP1733-20261221-20261224 · La Folie × HandPrint · Winter Camp · Turno diurno HandPrint · 2026-12-21–2026-12-24
+
+lugar: Emiratos Árabes Unidos · HandPrint · Al Wanes Street · Umm Suqeim 1 · Dubai
+Fecha: 2026-12-21 - 2026-12-24
+edad: HandPrint · grupo de 6–12 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: La organización confirma inglés con árabe y francés. Hay personal hispanohablante, pero no se anuncian clases en español para el turno.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · AED 290 por día. AED 1350 del 14–18 de diciembre o AED 1160 por 4 días de otra semana. Precios por niño sin IVA del 5%. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada para el grupo de 6–12 años. Inglés confirmado. Oscar: Edad adecuada para el grupo de 6–12 años. Inglés confirmado. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.lafolie.me/services-detail/kids-winter-camp-dubai.html
+Se ha comprobado: 2026-11-07
+
+### CP1733-20261228-20261231 · La Folie × HandPrint · Winter Camp · Turno diurno HandPrint · 2026-12-28–2026-12-31
+
+lugar: Emiratos Árabes Unidos · HandPrint · Al Wanes Street · Umm Suqeim 1 · Dubai
+Fecha: 2026-12-28 - 2026-12-31
+edad: HandPrint · grupo de 6–12 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: La organización confirma inglés con árabe y francés. Hay personal hispanohablante, pero no se anuncian clases en español para el turno.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · AED 290 por día. AED 1350 del 14–18 de diciembre o AED 1160 por 4 días de otra semana. Precios por niño sin IVA del 5%. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada para el grupo de 6–12 años. Inglés confirmado. Oscar: Edad adecuada para el grupo de 6–12 años. Inglés confirmado. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.lafolie.me/services-detail/kids-winter-camp-dubai.html
 Se ha comprobado: 2026-11-07
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

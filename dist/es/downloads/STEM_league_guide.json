@@ -19712,6 +19712,84 @@
         "evidence": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado."
       },
       {
+        "id": "fll-uae-bioglow-2027",
+        "name": "FIRST LEGO League UAE · BIOGLOW Founders 2026/27",
+        "group": "regional",
+        "age_summary": "Explore 6–10 · Challenge 9–16",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Dos categorías Founders en la temporada BIOGLOW. Explore 6–10 con proyecto y muestra, Challenge 9–16 con partidas puntuables. ATLAB asigna las etapas de enero.",
+        "categories": [
+          {
+            "name": "Explore Founders",
+            "age": "6–10",
+            "team": "Equipo de 2–6 niños, 1–2 entrenadores adultos.",
+            "hardware": "LEGO SPIKE Essential o WeDo 2.0 según la descripción del formato, más el kit oficial de temporada.",
+            "age_rule": "La organización publicó el rango de edad. Confirmar fecha de corte y admisión del equipo.",
+            "entry": "Registrar un equipo con entrenador y kit oficial de temporada. La organización asigna la etapa. Confirmar admisión de equipos extranjeros, cuota, fecha de cálculo de edad e idioma de evaluación."
+          },
+          {
+            "name": "Challenge Founders",
+            "age": "9–16",
+            "team": "Equipo de 2–10 niños, 1–2 entrenadores adultos.",
+            "hardware": "LEGO SPIKE Prime y kit oficial de temporada. Programación por bloques o Python.",
+            "age_rule": "La organización publicó el rango de edad. Confirmar fecha de corte y admisión del equipo.",
+            "entry": "Registrar un equipo con entrenador y kit oficial de temporada. La organización asigna la etapa. Confirmar admisión de equipos extranjeros, cuota, fecha de cálculo de edad e idioma de evaluación."
+          }
+        ],
+        "event_ids": [
+          "C3234",
+          "C3239",
+          "C3235",
+          "C3236",
+          "C3237",
+          "C3238",
+          "C3240",
+          "C3241",
+          "C3242",
+          "C3243",
+          "C3244"
+        ],
+        "legacy_ids": [],
+        "route": "Los mejores equipos de Challenge avanzan a la final nacional. La ventana de febrero–marzo de 2027 es provisional. Confirmar por separado la clasificación internacional.",
+        "hardware": "LEGO SPIKE Essential o WeDo 2.0 según la descripción del formato, más el kit oficial de temporada. LEGO SPIKE Prime y kit oficial de temporada. Programación por bloques o Python.",
+        "language": "Confirmar el idioma del grupo o sede concretos.",
+        "importance": "Programa nacional",
+        "strengths": "Dos categorías Founders en la temporada BIOGLOW. Explore 6–10 con proyecto y muestra, Challenge 9–16 con partidas puntuables. ATLAB asigna las etapas de enero.",
+        "requirements": [
+          "Registrar un equipo con entrenador y kit oficial de temporada. La organización asigna la etapa. Confirmar admisión de equipos extranjeros, cuota, fecha de cálculo de edad e idioma de evaluación.",
+          "Según las preguntas frecuentes, cada participante puede inscribirse en un solo equipo por temporada."
+        ],
+        "nuances": [
+          "La organización publicó la fecha. Confirmará la hora de llegada y el recinto al entrenador tras confirmar la inscripción.",
+          "Los mejores equipos de Challenge avanzan a la final nacional. La ventana de febrero–marzo de 2027 es provisional. Confirmar por separado la clasificación internacional."
+        ],
+        "cost": "Precio sin publicar.",
+        "award": "El equipo presenta un modelo y un póster. Todos los equipos reciben reconocimiento sin clasificación. Partidas con robot autónomo, diseño de ingeniería, proyecto de innovación y trabajo en equipo. Premios según la evaluación.",
+        "sources": [
+          {
+            "url": "https://www.flluae.org/",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://www.flluae.org/faq",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://www.flluae.org/categories",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          }
+        ],
+        "evidence": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado."
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · programa de ingeniería y showcase",
         "group": "regional",
@@ -25138,7 +25216,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "Perfiles de ligas, familias y programas: 268; se conservaron las 46 rutas anteriores. Los formatos brasileños se distinguen y Robofest LATAM y BajaBot se describen por categorías. La cobertura mundial es parcial.",
+    "methodology": "Perfiles de ligas, familias y programas: 269. Se conservan las 46 rutas anteriores. Los formatos brasileños están separados y Robofest LATAM y BajaBot se describen por categorías. La cobertura mundial es parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

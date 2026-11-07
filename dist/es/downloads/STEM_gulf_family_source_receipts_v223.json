@@ -1,0 +1,363 @@
+{
+  "captures": [
+    {
+      "key": "flluae",
+      "url": "https://www.flluae.org/",
+      "checked_at": "2026-11-07T15:08:56.821571+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.flluae.org/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "file": "flluae.html",
+      "bytes": 39177,
+      "sha256": "8b6a8685dee5201cb363b8398e87ab18c1736ed645d593ff900fe00f6f5bfa95"
+    },
+    {
+      "key": "terra",
+      "url": "https://terra.expocitydubai.com/en/poi/expo-city-winter-camp",
+      "checked_at": "2026-11-07T15:08:56.821828+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://terra.expocitydubai.com/en/poi/expo-city-winter-camp",
+      "content_type": "texto/html; carcasa=utf-8",
+      "file": "terra.html",
+      "bytes": 94871,
+      "sha256": "5e596f2333b14f0db86b34c36f7747d88e9eee775490c9b0a73ee2232e58739e"
+    },
+    {
+      "key": "uwr",
+      "url": "https://uniqueworldrobotics.com/winter-camp/",
+      "checked_at": "2026-11-07T15:08:56.824241+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://uniqueworldrobotics.com/winter-camp/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "file": "uwr.html",
+      "bytes": 116911,
+      "sha256": "305e992d171caa777e8cb591b6db191ad2d100427aa11fb9e100193e2787ad4f"
+    },
+    {
+      "key": "programmers",
+      "url": "https://programmerszone.ae/en/services/winter-camp",
+      "checked_at": "2026-11-07T15:08:56.824471+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://programmerszone.ae/en/services/winter-camp",
+      "content_type": "texto/html; carcasa=utf-8",
+      "file": "programmers.html",
+      "bytes": 263752,
+      "sha256": "662ef5eecf1751cc18dc8e1632ad0be29395a92d4b673554f84e9bf61d940438"
+    },
+    {
+      "key": "ascend",
+      "url": "https://ascendedu.online/events-workshops/winter-camp-2026/",
+      "checked_at": "2026-11-07T15:08:56.827186+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://ascendedu.online/events-workshops/winter-camp-2026/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "file": "ascend.html",
+      "bytes": 236071,
+      "sha256": "ad7f3bc6255f90ed8ca698b29244b4a048d9f97c9b445c9b15943e1f58193ae1"
+    },
+    {
+      "key": "learngate",
+      "url": "https://learngate.ae/winter-camp-dubai/",
+      "checked_at": "2026-11-07T15:08:56.828046+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://learngate.ae/winter-camp-dubai/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "file": "learngate.html",
+      "bytes": 464105,
+      "sha256": "a5c3793eeb822c607a23c0a7c440470eea582d9345da77b5fe8e20e44e34cee6"
+    },
+    {
+      "key": "esm",
+      "url": "https://esm.ae/holidaycamps/winter-camp/",
+      "checked_at": "2026-11-07T15:08:56.830797+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://esm.ae/holidaycamps/winter-camp/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "file": "esm.html",
+      "bytes": 187974,
+      "sha256": "b0b571622cb8c9eb7b40e1c8e47c907b7e6d1cdf7bc4a09e30e71540579d4469"
+    },
+    {
+      "key": "mdx",
+      "url": "https://www.mdx.ac.ae/winter-camp",
+      "checked_at": "2026-11-07T15:08:56.832430+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.mdx.ac.ae/winter-camp",
+      "content_type": "texto/html; carcasa=utf-8",
+      "file": "mdx.html",
+      "bytes": 526459,
+      "sha256": "89b391514d653938009e13680a2ee67a735ec704b570c48448903c49b0d92c23"
+    },
+    {
+      "key": "labfuture",
+      "url": "https://www.laboffuture.com/winter-camp",
+      "checked_at": "2026-11-07T15:08:56.834400+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.laboffuture.com/winter-camp",
+      "content_type": "texto/html; carcasa=utf-8",
+      "file": "labfuture.html",
+      "bytes": 63224,
+      "sha256": "4aa582d660f72345afc35d5995abc9c604724931f238ef87c054eaf2aec19495"
+    },
+    {
+      "key": "flluae-faq",
+      "url": "https://www.flluae.org/faq",
+      "checked_at": "2026-11-07T15:10:28.369889+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.flluae.org/faq",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "file": "flluae-faq.html",
+      "bytes": 20275,
+      "sha256": "8c982bf7cc46b5b71cb672d65b53542313897e6935fd5600a810a61a10a8a333"
+    },
+    {
+      "key": "flluae-categories",
+      "url": "https://www.flluae.org/categories",
+      "checked_at": "2026-11-07T15:10:28.370402+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.flluae.org/categories",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "file": "flluae-categories.html",
+      "bytes": 33050,
+      "sha256": "38b848e37466ba586b00dbf5fd942d25cee1a21b8f039fb2acaff49b0c0bfb95"
+    },
+    {
+      "key": "flluae-resources",
+      "url": "https://www.flluae.org/resources",
+      "checked_at": "2026-11-07T15:10:28.373030+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.flluae.org/resources",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "file": "flluae-resources.html",
+      "bytes": 29212,
+      "sha256": "c529113ee3a0da996090c692688ccfd32be409141e918f0b2cac5af8677f6a52"
+    },
+    {
+      "key": "uwr-landing",
+      "url": "https://winter.uwr.ae/",
+      "checked_at": "2026-11-07T15:10:28.373432+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://winter.uwr.ae/",
+      "content_type": "texto/html; carcasa=utf-8",
+      "file": "uwr-landing.html",
+      "bytes": 85154,
+      "sha256": "67cd5b98a0c68f527cb75fd43f9d07957500230acdf5db85c156177a9186fda2"
+    },
+    {
+      "key": "uwr-spring",
+      "url": "https://uniqueworldrobotics.com/course/future-tech-spring-camp-dubai-2026-ai-robotics-for-kids/",
+      "checked_at": "2026-11-07T15:10:28.374582+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://uniqueworldrobotics.com/course/future-tech-spring-camp-dubai-2026-ai-robotics-for-kids/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "file": "uwr-spring.html",
+      "bytes": 134437,
+      "sha256": "bfea16e93a862f2803d2f02e623299cc7cf88349e519cd9b01c80b56a6bbeb7a"
+    },
+    {
+      "key": "def",
+      "url": "https://www.dubaiesportsfestival.com/en/",
+      "checked_at": "2026-11-07T15:10:28.376029+00:00",
+      "transport": "curl",
+      "status": 403,
+      "final_url": "https://www.dubaiesportsfestival.com/en/",
+      "content_type": "text/html"
+    },
+    {
+      "key": "gameexpo",
+      "url": "https://www.dubaiesportsfestival.com/en/game-expo",
+      "checked_at": "2026-11-07T15:10:28.376444+00:00",
+      "transport": "curl",
+      "status": 403,
+      "final_url": "https://www.dubaiesportsfestival.com/en/game-expo",
+      "content_type": "text/html"
+    },
+    {
+      "key": "intersec",
+      "url": "https://intersecglobal.ae.messefrankfurt.com/dubai/en/why-visit-us/FAQ.html",
+      "checked_at": "2026-11-07T15:10:28.376738+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://intersecglobal.ae.messefrankfurt.com/dubai/en/why-visit-us/FAQ.html",
+      "content_type": "text/html;charset=utf-8",
+      "file": "intersec.html",
+      "bytes": 145083,
+      "sha256": "aed6eebb47922e896c1c4357d2f0813ddd74aba78d17a9b577b7a33ac891a151"
+    },
+    {
+      "key": "qatar-robot",
+      "url": "https://robotics.qa/en/competition/",
+      "checked_at": "2026-11-07T15:10:28.378956+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://robotics.qa/en/competition/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "file": "qatar-robot.html",
+      "bytes": 647377,
+      "sha256": "71ba3ab11d81fc735b2c44096e583444bec499fa25d8381f3a58944239fa5661"
+    },
+    {
+      "key": "knrc",
+      "url": "https://theknrc.com/",
+      "checked_at": "2026-11-07T15:10:28.379521+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://theknrc.com/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "file": "knrc.html",
+      "bytes": 74848,
+      "sha256": "f6661582d21a4034701dbb5027ec64f93f85d4e95bc2b59827e8079bfb51e8da"
+    },
+    {
+      "key": "wro-kwt",
+      "url": "https://wro-kuwait.org/",
+      "checked_at": "2026-11-07T15:10:29.344531+00:00",
+      "transport": "curl",
+      "status": 403,
+      "final_url": "https://wro-kuwait.org/",
+      "content_type": "text/html"
+    },
+    {
+      "key": "lafolie",
+      "url": "https://www.lafolie.me/services-detail/kids-winter-camp-dubai.html",
+      "checked_at": "2026-11-07T15:15:38.254951+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.lafolie.me/services-detail/kids-winter-camp-dubai.html",
+      "content_type": "text/html",
+      "file": "lafolie.html",
+      "bytes": 54836,
+      "sha256": "65260c8287319de89a1a599eb9d7dc1b0078504b83aebf80767088bd68b31e29"
+    },
+    {
+      "key": "lafolie-camps",
+      "url": "https://www.lafolie.me/camps.html?location=grip",
+      "checked_at": "2026-11-07T15:15:38.255314+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.lafolie.me/camps.html?location=grip",
+      "content_type": "text/html",
+      "file": "lafolie-camps.html",
+      "bytes": 174059,
+      "sha256": "43fe4cd6720c0977b4eeeefc7d85d6bbfb73b75303323477be772e3da964ac02"
+    },
+    {
+      "key": "def-retry",
+      "url": "https://www.dubaiesportsfestival.com/en/",
+      "checked_at": "2026-11-07T15:15:38.257077+00:00",
+      "transport": "curl",
+      "status": 403,
+      "final_url": "https://www.dubaiesportsfestival.com/en/",
+      "content_type": "text/html"
+    },
+    {
+      "key": "def-visitdubai",
+      "url": "https://www.visitdubai.com/en/whats-on/dubai-events-calendar/dubai-esports-and-games-festival",
+      "checked_at": "2026-11-07T15:15:38.260247+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.visitdubai.com/en/festivals-and-events/dubai-events-calendar/dubai-esports-and-games-festival",
+      "content_type": "texto/html; carcasa=utf-8",
+      "file": "def-visitdubai.html",
+      "bytes": 446383,
+      "sha256": "05bb9cb06beda6d542bed334c9fbd387844a1011ff9c5e8aca7f0b49074e5b29"
+    },
+    {
+      "key": "code-dxb",
+      "url": "https://www.codeexpodxb.com/faq",
+      "checked_at": "2026-11-07T15:15:38.260598+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.codeexpodxb.com/faq",
+      "content_type": "texto/html; carcasa=utf-8",
+      "file": "code-dxb.html",
+      "bytes": 128512,
+      "sha256": "0e5dc4efc5bb1bf48af4014006266059479cbea766c7bd04d251ba9b87a81a23"
+    },
+    {
+      "key": "funrobotics",
+      "url": "https://www.fun-robotics.com/kidsprograms/",
+      "checked_at": "2026-11-07T15:15:38.263992+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.fun-robotics.com/kidsprograms/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "file": "funrobotics.html",
+      "bytes": 153528,
+      "sha256": "3d5e07b8c985f3bac21334aca72d42e2b453d0007c8b8eeb5ada90f6b6bf0afc"
+    },
+    {
+      "key": "websummitqatar",
+      "url": "https://qatar.websummit.com/",
+      "checked_at": "2026-11-07T15:15:38.265721+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://qatar.websummit.com/",
+      "content_type": "texto/html; carcasa=utf-8",
+      "file": "websummitqatar.html",
+      "bytes": 391091,
+      "sha256": "ee69011f9174077468414ea3b777c0f796c093feecb093e0866e36d823a7e287"
+    },
+    {
+      "key": "qatar-venue",
+      "url": "https://qatar.websummit.com/essentials/venue/",
+      "checked_at": "2026-11-07T15:15:53.175950+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://qatar.websummit.com/essentials/venue/",
+      "content_type": "texto/html; carcasa=utf-8",
+      "file": "qatar-venue.html",
+      "bytes": 104203,
+      "sha256": "bf16a1e802864125dd2b0d504886634ec4f89fef4d0e4b1ca967ceaccf490abc"
+    },
+    {
+      "key": "qatar-under18",
+      "url": "https://support-qatar.websummit.com/hc/en-us/articles/35345575089693-Attendees-under-18",
+      "checked_at": "2026-11-07T15:15:53.177404+00:00",
+      "transport": "curl",
+      "status": 403,
+      "final_url": "https://support-qatar.websummit.com/hc/en-us/articles/35345575089693-Attendees-under-18",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8"
+    },
+    {
+      "key": "def-canonical",
+      "url": "https://www.dubaiesportsfestival.com/en",
+      "checked_at": "2026-11-07T15:15:53.177876+00:00",
+      "transport": "curl",
+      "status": 403,
+      "final_url": "https://www.dubaiesportsfestival.com/en",
+      "content_type": "text/html"
+    }
+  ],
+  "web_observations": [
+    {
+      "url": "https://www.dubaiesportsfestival.com/en",
+      "checked": "2026-11-07",
+      "evidence": "Organizer indexed page announces citywide festival 9–25 April 2027. The GameExpo passage refers to the 2026 edition. Direct capture returned 403."
+    },
+    {
+      "url": "https://www.dubaiesportsfestival.com/en/game-expo",
+      "checked": "2026-11-07",
+      "evidence": "Organizer GameExpo page checked via Web. Exact 2027 standalone event and child ticket were not established from current primary evidence. Direct capture returned 403."
+    },
+    {
+      "url": "https://support-qatar.websummit.com/hc/en-us/articles/35345575089693-Attendees-under-18",
+      "checked": "2026-11-07",
+      "evidence": "Local Qatar support page updated April 13, 2026 documents registered Youth Ticket plus ticketed chaperone throughout. Evening events 18+. Availability for Jan 2027 is unverified. Direct capture returned 403."
+    }
+  ]
+}

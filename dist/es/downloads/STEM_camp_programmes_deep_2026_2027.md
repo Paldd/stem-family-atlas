@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-07. 1731 fichas en 99 países y territorios. Cada ficha incluye las fechas de verificación de sus fuentes.
+Estado de la base: 2026-11-07. 1735 dosieres en 99 países. Las fechas de verificación de cada fuente figuran en su dosier.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -84336,7 +84336,7 @@ Estados Unidos · CS Robotics Lab · Room J234 · 21000 W 10 Mile Road · Southf
 
 Emiratos Árabes Unidos · Dubai · Al Karama / JVC
 
-**Se ha comprobado:** 2026-11-05
+**Se ha comprobado:** 2026-11-07
 
 **Edad:** 5–7
 
@@ -84346,7 +84346,7 @@ Emiratos Árabes Unidos · Dubai · Al Karama / JVC
 
 **Alojamiento:** Diurno: UWR Al Karama o ERYX Circle Mall JVC; confirmar sede del grupo.
 
-**Fechas / estado:** CONFLICTO: página principal 14–25 de diciembre de 2026, winter.uwr.ae enlazada 14–30 de diciembre. Ambas anuncian dos semanas, cinco días semanales, 09:00–13:00. Sesiones y sedes exactas sin conciliar; sin fechas en calendario.
+**Fechas / estado:** Ambas páginas indican ahora 14–25 de diciembre de 2026, lunes a viernes, 09:00–13:00. Turnos del 14–18 y del 21–25 de diciembre. Confirmar que ambos grupos de edad estén disponibles en una misma sede.
 
 **Precio / año:** 2026 · Tarifa sin publicar; no considerar gratuito.
 
@@ -84368,21 +84368,77 @@ Emiratos Árabes Unidos · Dubai · Al Karama / JVC
 
 - Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
 
-- CONFLICTO: página principal 14–25 de diciembre de 2026, winter.uwr.ae enlazada 14–30 de diciembre. Ambas anuncian dos semanas, cinco días semanales, 09:00–13:00. Sesiones y sedes exactas sin conciliar; sin fechas en calendario.
+- Los grupos de edad siguen el horario general del campamento. Confirmar asignación de sedes e idioma antes de viajar.
 
 - Obligatorio portátil o iPad cargado con cargador / adaptadores. Para iPad se indican LEGO Education SPIKE, Microbit, MatataCode (VinciBot), PictoBlox / Junior. Llevar comida, agua y cuaderno; sin comida incluida. Pueden comunicar materiales adicionales después.
 
+### The Robot Band
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**lugar:** Dubai · Al Karama / JVC
+
+**Edad:** 5–7
+
+**Precio:** Tarifa sin publicar; no considerar gratuito.
+
+- 2026-12-14 · 09:00–13:00 · Asia/Dubai · The Robot Band
+
+- 2026-12-15 · 09:00–13:00 · Asia/Dubai · The Robot Band
+
+- 2026-12-16 · 09:00–13:00 · Asia/Dubai · The Robot Band
+
+- 2026-12-17 · 09:00–13:00 · Asia/Dubai · The Robot Band
+
+- 2026-12-18 · 09:00–13:00 · Asia/Dubai · The Robot Band
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Matvey tiene 9, Cadets máximo 7.
+
+**Oscar:** Oscar tiene 6, cumple Cadets 5–7 por edad.
+
+[fuente](https://uniqueworldrobotics.com/winter-camp/)
+
+### Build Your Own Carnival
+
+**Fechas / estado:** 2026-12-21 — 2026-12-25
+
+**lugar:** Dubai · Al Karama / JVC
+
+**Edad:** 5–7
+
+**Precio:** Tarifa sin publicar; no considerar gratuito.
+
+- 2026-12-21 · 09:00–13:00 · Asia/Dubai · Build Your Own Carnival
+
+- 2026-12-22 · 09:00–13:00 · Asia/Dubai · Build Your Own Carnival
+
+- 2026-12-23 · 09:00–13:00 · Asia/Dubai · Build Your Own Carnival
+
+- 2026-12-24 · 09:00–13:00 · Asia/Dubai · Build Your Own Carnival
+
+- 2026-12-25 · 09:00–13:00 · Asia/Dubai · Build Your Own Carnival
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Matvey tiene 9, Cadets máximo 7.
+
+**Oscar:** Oscar tiene 6, cumple Cadets 5–7 por edad.
+
+[fuente](https://uniqueworldrobotics.com/winter-camp/)
+
 ### Fuentes
 
-- [Winter Camp 2026](https://uniqueworldrobotics.com/winter-camp/) · 2026-11-05
+- [Página oficial del organizador](https://uniqueworldrobotics.com/winter-camp/) · 2026-11-07
 
-- [Linked winter page · conflicting final day](https://winter.uwr.ae/) · 2026-11-05
+- [Página oficial del organizador](https://winter.uwr.ae/) · 2026-11-07
 
 ## CP1191 · Unique World Robotics · Pioneers
 
 Emiratos Árabes Unidos · Dubai · Al Karama / JVC
 
-**Se ha comprobado:** 2026-11-05
+**Se ha comprobado:** 2026-11-07
 
 **Edad:** 8–11
 
@@ -84392,7 +84448,7 @@ Emiratos Árabes Unidos · Dubai · Al Karama / JVC
 
 **Alojamiento:** Diurno: UWR Al Karama o ERYX Circle Mall JVC; confirmar sede del grupo.
 
-**Fechas / estado:** CONFLICTO: página principal 14–25 de diciembre de 2026, winter.uwr.ae enlazada 14–30 de diciembre. Ambas anuncian dos semanas, cinco días semanales, 09:00–13:00. Sesiones y sedes exactas sin conciliar; sin fechas en calendario.
+**Fechas / estado:** Ambas páginas indican ahora 14–25 de diciembre de 2026, lunes a viernes, 09:00–13:00. Turnos del 14–18 y del 21–25 de diciembre. Confirmar que ambos grupos de edad estén disponibles en una misma sede.
 
 **Precio / año:** 2026 · Tarifa sin publicar; no considerar gratuito.
 
@@ -84414,15 +84470,71 @@ Emiratos Árabes Unidos · Dubai · Al Karama / JVC
 
 - Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
 
-- CONFLICTO: página principal 14–25 de diciembre de 2026, winter.uwr.ae enlazada 14–30 de diciembre. Ambas anuncian dos semanas, cinco días semanales, 09:00–13:00. Sesiones y sedes exactas sin conciliar; sin fechas en calendario.
+- Los grupos de edad siguen el horario general del campamento. Confirmar asignación de sedes e idioma antes de viajar.
 
 - Obligatorio portátil o iPad cargado con cargador / adaptadores. Para iPad se indican LEGO Education SPIKE, Microbit, MatataCode (VinciBot), PictoBlox / Junior. Llevar comida, agua y cuaderno; sin comida incluida. Pueden comunicar materiales adicionales después.
 
+### The Robot Band
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**lugar:** Dubai · Al Karama / JVC
+
+**Edad:** 8–11
+
+**Precio:** Tarifa sin publicar; no considerar gratuito.
+
+- 2026-12-14 · 09:00–13:00 · Asia/Dubai · The Robot Band
+
+- 2026-12-15 · 09:00–13:00 · Asia/Dubai · The Robot Band
+
+- 2026-12-16 · 09:00–13:00 · Asia/Dubai · The Robot Band
+
+- 2026-12-17 · 09:00–13:00 · Asia/Dubai · The Robot Band
+
+- 2026-12-18 · 09:00–13:00 · Asia/Dubai · The Robot Band
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Matvey tiene 9, cumple Pioneers 8–11 por edad.
+
+**Oscar:** Oscar tiene 6, Pioneers desde 8; elegir Cadets.
+
+[fuente](https://uniqueworldrobotics.com/winter-camp/)
+
+### Build Your Own Carnival
+
+**Fechas / estado:** 2026-12-21 — 2026-12-25
+
+**lugar:** Dubai · Al Karama / JVC
+
+**Edad:** 8–11
+
+**Precio:** Tarifa sin publicar; no considerar gratuito.
+
+- 2026-12-21 · 09:00–13:00 · Asia/Dubai · Build Your Own Carnival
+
+- 2026-12-22 · 09:00–13:00 · Asia/Dubai · Build Your Own Carnival
+
+- 2026-12-23 · 09:00–13:00 · Asia/Dubai · Build Your Own Carnival
+
+- 2026-12-24 · 09:00–13:00 · Asia/Dubai · Build Your Own Carnival
+
+- 2026-12-25 · 09:00–13:00 · Asia/Dubai · Build Your Own Carnival
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Matvey tiene 9, cumple Pioneers 8–11 por edad.
+
+**Oscar:** Oscar tiene 6, Pioneers desde 8; elegir Cadets.
+
+[fuente](https://uniqueworldrobotics.com/winter-camp/)
+
 ### Fuentes
 
-- [Winter Camp 2026](https://uniqueworldrobotics.com/winter-camp/) · 2026-11-05
+- [Página oficial del organizador](https://uniqueworldrobotics.com/winter-camp/) · 2026-11-07
 
-- [Linked winter page · conflicting final day](https://winter.uwr.ae/) · 2026-11-05
+- [Página oficial del organizador](https://winter.uwr.ae/) · 2026-11-07
 
 ## CP1192 · BlueShift · Junior 5–8
 
@@ -135751,6 +135863,420 @@ España · CBS The British School of Seville · Bollullos de la Mitación
 - [Página oficial del organizador](https://cbssummercamp.eu/cbs-outdoor-adventures/) · 2026-11-07
 
 - [Página oficial del organizador](https://cbssummercamp.eu/noticias/mini-campamentos-ingles-sevilla-outdoor-adventures-2026-2027/) · 2026-11-07
+
+## CP1732 · Programmers Zone · Winter Camp
+
+Emiratos Árabes Unidos · Yas Creative Hub · Yas Island · Abu Dhabi
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 8–13 años. A los 6–7 años admiten junto a un hermano o hermana mayor.
+
+**Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar.
+
+**Programa:** Robótica, electrónica, IA, impresión 3D, aplicaciones, programación por bloques y Python. Hasta 12 niños por sesión. Certificado al finalizar.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 14–18 o 21–25 de diciembre de 2026. Mañana 08:30–11:30, tarde 12:00–15:00, jornada completa 08:30–15:00 con pausa.
+
+**Precio / año:** 2026 · Media jornada · AED 650 hasta el 30 de noviembre, AED 750 del 1 al 10 de diciembre, AED 800 desde el 11 de diciembre. Jornada completa · AED 1150 hasta el 30 de noviembre, AED 1200 del 1 al 10 de diciembre, AED 1250 desde el 11 de diciembre. Para dos por semana hasta el 30 de noviembre con descuento del 10% por reserva conjunta · AED 1170 media jornada, AED 2070 jornada completa. Confirmar plazas e importe final.
+
+**Incluido:** Precios por niño por semana, IVA del 5% incluido. Descuento del 10% para cada hermano en una reserva conjunta o del 10% al reservar ambas semanas. Un código por reserva.
+
+**Suplementos:** Llevar tableta u ordenador portátil, agua y merienda. Para jornada completa, llevar también almuerzo.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** A los 6–7 años inscribirse junto a Matvey. Confirmar el mismo horario y plazas para ambos.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+- A los 6–7 años inscribirse junto a Matvey. Confirmar el mismo horario y plazas para ambos.
+
+### Mañana
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**lugar:** Yas Creative Hub · Yas Island · Abu Dhabi
+
+**edad:** 8–13 años. A los 6–7 años admiten junto a un hermano o hermana mayor.
+
+**Precio:** Media jornada · AED 650 hasta el 30 de noviembre, AED 750 del 1 al 10 de diciembre, AED 800 desde el 11 de diciembre.
+
+- 2026-12-14 · 08:30–11:30 · Asia/Dubai · Robótica, electrónica, IA, impresión 3D, aplicaciones, programación por bloques y Python. Hasta 12 niños por sesión. Certificado al finalizar.
+
+- 2026-12-15 · 08:30–11:30 · Asia/Dubai · Robótica, electrónica, IA, impresión 3D, aplicaciones, programación por bloques y Python. Hasta 12 niños por sesión. Certificado al finalizar.
+
+- 2026-12-16 · 08:30–11:30 · Asia/Dubai · Robótica, electrónica, IA, impresión 3D, aplicaciones, programación por bloques y Python. Hasta 12 niños por sesión. Certificado al finalizar.
+
+- 2026-12-17 · 08:30–11:30 · Asia/Dubai · Robótica, electrónica, IA, impresión 3D, aplicaciones, programación por bloques y Python. Hasta 12 niños por sesión. Certificado al finalizar.
+
+- 2026-12-18 · 08:30–11:30 · Asia/Dubai · Robótica, electrónica, IA, impresión 3D, aplicaciones, programación por bloques y Python. Hasta 12 niños por sesión. Certificado al finalizar.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** A los 6–7 años inscribirse junto a Matvey. Confirmar el mismo horario y plazas para ambos.
+
+[fuente](https://programmerszone.ae/en/services/winter-camp)
+
+### Tarde
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**lugar:** Yas Creative Hub · Yas Island · Abu Dhabi
+
+**edad:** 8–13 años. A los 6–7 años admiten junto a un hermano o hermana mayor.
+
+**Precio:** Media jornada · AED 650 hasta el 30 de noviembre, AED 750 del 1 al 10 de diciembre, AED 800 desde el 11 de diciembre.
+
+- 2026-12-14 · 12:00–15:00 · Asia/Dubai · Robótica, electrónica, IA, impresión 3D, aplicaciones, programación por bloques y Python. Hasta 12 niños por sesión. Certificado al finalizar.
+
+- 2026-12-15 · 12:00–15:00 · Asia/Dubai · Robótica, electrónica, IA, impresión 3D, aplicaciones, programación por bloques y Python. Hasta 12 niños por sesión. Certificado al finalizar.
+
+- 2026-12-16 · 12:00–15:00 · Asia/Dubai · Robótica, electrónica, IA, impresión 3D, aplicaciones, programación por bloques y Python. Hasta 12 niños por sesión. Certificado al finalizar.
+
+- 2026-12-17 · 12:00–15:00 · Asia/Dubai · Robótica, electrónica, IA, impresión 3D, aplicaciones, programación por bloques y Python. Hasta 12 niños por sesión. Certificado al finalizar.
+
+- 2026-12-18 · 12:00–15:00 · Asia/Dubai · Robótica, electrónica, IA, impresión 3D, aplicaciones, programación por bloques y Python. Hasta 12 niños por sesión. Certificado al finalizar.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** A los 6–7 años inscribirse junto a Matvey. Confirmar el mismo horario y plazas para ambos.
+
+[fuente](https://programmerszone.ae/en/services/winter-camp)
+
+### Jornada completa
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**lugar:** Yas Creative Hub · Yas Island · Abu Dhabi
+
+**edad:** 8–13 años. A los 6–7 años admiten junto a un hermano o hermana mayor.
+
+**Precio:** Jornada completa · AED 1150 hasta el 30 de noviembre, AED 1200 del 1 al 10 de diciembre, AED 1250 desde el 11 de diciembre.
+
+- 2026-12-14 · 08:30–15:00 · Asia/Dubai · Robótica, electrónica, IA, impresión 3D, aplicaciones, programación por bloques y Python. Hasta 12 niños por sesión. Certificado al finalizar.
+
+- 2026-12-15 · 08:30–15:00 · Asia/Dubai · Robótica, electrónica, IA, impresión 3D, aplicaciones, programación por bloques y Python. Hasta 12 niños por sesión. Certificado al finalizar.
+
+- 2026-12-16 · 08:30–15:00 · Asia/Dubai · Robótica, electrónica, IA, impresión 3D, aplicaciones, programación por bloques y Python. Hasta 12 niños por sesión. Certificado al finalizar.
+
+- 2026-12-17 · 08:30–15:00 · Asia/Dubai · Robótica, electrónica, IA, impresión 3D, aplicaciones, programación por bloques y Python. Hasta 12 niños por sesión. Certificado al finalizar.
+
+- 2026-12-18 · 08:30–15:00 · Asia/Dubai · Robótica, electrónica, IA, impresión 3D, aplicaciones, programación por bloques y Python. Hasta 12 niños por sesión. Certificado al finalizar.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** A los 6–7 años inscribirse junto a Matvey. Confirmar el mismo horario y plazas para ambos.
+
+[fuente](https://programmerszone.ae/en/services/winter-camp)
+
+### Mañana
+
+**Fechas / estado:** 2026-12-21 — 2026-12-25
+
+**lugar:** Yas Creative Hub · Yas Island · Abu Dhabi
+
+**edad:** 8–13 años. A los 6–7 años admiten junto a un hermano o hermana mayor.
+
+**Precio:** Media jornada · AED 650 hasta el 30 de noviembre, AED 750 del 1 al 10 de diciembre, AED 800 desde el 11 de diciembre.
+
+- 2026-12-21 · 08:30–11:30 · Asia/Dubai · Robótica, electrónica, IA, impresión 3D, aplicaciones, programación por bloques y Python. Hasta 12 niños por sesión. Certificado al finalizar.
+
+- 2026-12-22 · 08:30–11:30 · Asia/Dubai · Robótica, electrónica, IA, impresión 3D, aplicaciones, programación por bloques y Python. Hasta 12 niños por sesión. Certificado al finalizar.
+
+- 2026-12-23 · 08:30–11:30 · Asia/Dubai · Robótica, electrónica, IA, impresión 3D, aplicaciones, programación por bloques y Python. Hasta 12 niños por sesión. Certificado al finalizar.
+
+- 2026-12-24 · 08:30–11:30 · Asia/Dubai · Robótica, electrónica, IA, impresión 3D, aplicaciones, programación por bloques y Python. Hasta 12 niños por sesión. Certificado al finalizar.
+
+- 2026-12-25 · 08:30–11:30 · Asia/Dubai · Robótica, electrónica, IA, impresión 3D, aplicaciones, programación por bloques y Python. Hasta 12 niños por sesión. Certificado al finalizar.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** A los 6–7 años inscribirse junto a Matvey. Confirmar el mismo horario y plazas para ambos.
+
+[fuente](https://programmerszone.ae/en/services/winter-camp)
+
+### Tarde
+
+**Fechas / estado:** 2026-12-21 — 2026-12-25
+
+**lugar:** Yas Creative Hub · Yas Island · Abu Dhabi
+
+**edad:** 8–13 años. A los 6–7 años admiten junto a un hermano o hermana mayor.
+
+**Precio:** Media jornada · AED 650 hasta el 30 de noviembre, AED 750 del 1 al 10 de diciembre, AED 800 desde el 11 de diciembre.
+
+- 2026-12-21 · 12:00–15:00 · Asia/Dubai · Robótica, electrónica, IA, impresión 3D, aplicaciones, programación por bloques y Python. Hasta 12 niños por sesión. Certificado al finalizar.
+
+- 2026-12-22 · 12:00–15:00 · Asia/Dubai · Robótica, electrónica, IA, impresión 3D, aplicaciones, programación por bloques y Python. Hasta 12 niños por sesión. Certificado al finalizar.
+
+- 2026-12-23 · 12:00–15:00 · Asia/Dubai · Robótica, electrónica, IA, impresión 3D, aplicaciones, programación por bloques y Python. Hasta 12 niños por sesión. Certificado al finalizar.
+
+- 2026-12-24 · 12:00–15:00 · Asia/Dubai · Robótica, electrónica, IA, impresión 3D, aplicaciones, programación por bloques y Python. Hasta 12 niños por sesión. Certificado al finalizar.
+
+- 2026-12-25 · 12:00–15:00 · Asia/Dubai · Robótica, electrónica, IA, impresión 3D, aplicaciones, programación por bloques y Python. Hasta 12 niños por sesión. Certificado al finalizar.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** A los 6–7 años inscribirse junto a Matvey. Confirmar el mismo horario y plazas para ambos.
+
+[fuente](https://programmerszone.ae/en/services/winter-camp)
+
+### Jornada completa
+
+**Fechas / estado:** 2026-12-21 — 2026-12-25
+
+**lugar:** Yas Creative Hub · Yas Island · Abu Dhabi
+
+**edad:** 8–13 años. A los 6–7 años admiten junto a un hermano o hermana mayor.
+
+**Precio:** Jornada completa · AED 1150 hasta el 30 de noviembre, AED 1200 del 1 al 10 de diciembre, AED 1250 desde el 11 de diciembre.
+
+- 2026-12-21 · 08:30–15:00 · Asia/Dubai · Robótica, electrónica, IA, impresión 3D, aplicaciones, programación por bloques y Python. Hasta 12 niños por sesión. Certificado al finalizar.
+
+- 2026-12-22 · 08:30–15:00 · Asia/Dubai · Robótica, electrónica, IA, impresión 3D, aplicaciones, programación por bloques y Python. Hasta 12 niños por sesión. Certificado al finalizar.
+
+- 2026-12-23 · 08:30–15:00 · Asia/Dubai · Robótica, electrónica, IA, impresión 3D, aplicaciones, programación por bloques y Python. Hasta 12 niños por sesión. Certificado al finalizar.
+
+- 2026-12-24 · 08:30–15:00 · Asia/Dubai · Robótica, electrónica, IA, impresión 3D, aplicaciones, programación por bloques y Python. Hasta 12 niños por sesión. Certificado al finalizar.
+
+- 2026-12-25 · 08:30–15:00 · Asia/Dubai · Robótica, electrónica, IA, impresión 3D, aplicaciones, programación por bloques y Python. Hasta 12 niños por sesión. Certificado al finalizar.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** A los 6–7 años inscribirse junto a Matvey. Confirmar el mismo horario y plazas para ambos.
+
+[fuente](https://programmerszone.ae/en/services/winter-camp)
+
+### Fuentes
+
+- [Página oficial del organizador](https://programmerszone.ae/en/services/winter-camp) · 2026-11-07
+
+## CP1733 · La Folie × HandPrint · Winter Camp
+
+Emiratos Árabes Unidos · HandPrint · Al Wanes Street · Umm Suqeim 1 · Dubai
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** HandPrint · grupo de 6–12 años.
+
+**Idioma:** La organización confirma inglés con árabe y francés. Hay personal hispanohablante, pero no se anuncian clases en español para el turno.
+
+**Programa:** Programa diurno con STEM práctico, creatividad, juegos y deporte. Confirmar el horario de proyectos concretos de robótica.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 14–18, 21–24 y 28–31 de diciembre de 2026, 09:00–13:00. El campamento cierra el 25 de diciembre.
+
+**Precio / año:** 2026 · AED 290 por día. AED 1350 del 14–18 de diciembre o AED 1160 por 4 días de otra semana. Precios por niño sin IVA del 5%. Con IVA del 5% para dos · AED 609 por día, AED 2835 por la primera semana, AED 2436 por 4 días de la segunda o tercera semana.
+
+**Incluido:** La organización confirma inglés con árabe y francés. Hay personal hispanohablante, pero no se anuncian clases en español para el turno.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Edad adecuada para el grupo de 6–12 años. Inglés confirmado.
+
+**Oscar:** Edad adecuada para el grupo de 6–12 años. Inglés confirmado.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Turno diurno HandPrint
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**lugar:** HandPrint · Al Wanes Street · Umm Suqeim 1 · Dubai
+
+**edad:** HandPrint · grupo de 6–12 años.
+
+**Precio:** AED 290 por día. AED 1350 del 14–18 de diciembre o AED 1160 por 4 días de otra semana. Precios por niño sin IVA del 5%.
+
+- 2026-12-14 · 09:00–13:00 · Asia/Dubai · Programa diurno con STEM práctico, creatividad, juegos y deporte. Confirmar el horario de proyectos concretos de robótica.
+
+- 2026-12-15 · 09:00–13:00 · Asia/Dubai · Programa diurno con STEM práctico, creatividad, juegos y deporte. Confirmar el horario de proyectos concretos de robótica.
+
+- 2026-12-16 · 09:00–13:00 · Asia/Dubai · Programa diurno con STEM práctico, creatividad, juegos y deporte. Confirmar el horario de proyectos concretos de robótica.
+
+- 2026-12-17 · 09:00–13:00 · Asia/Dubai · Programa diurno con STEM práctico, creatividad, juegos y deporte. Confirmar el horario de proyectos concretos de robótica.
+
+- 2026-12-18 · 09:00–13:00 · Asia/Dubai · Programa diurno con STEM práctico, creatividad, juegos y deporte. Confirmar el horario de proyectos concretos de robótica.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** Edad adecuada para el grupo de 6–12 años. Inglés confirmado.
+
+**Oscar:** Edad adecuada para el grupo de 6–12 años. Inglés confirmado.
+
+[fuente](https://www.lafolie.me/services-detail/kids-winter-camp-dubai.html)
+
+### Turno diurno HandPrint
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**lugar:** HandPrint · Al Wanes Street · Umm Suqeim 1 · Dubai
+
+**edad:** HandPrint · grupo de 6–12 años.
+
+**Precio:** AED 290 por día. AED 1350 del 14–18 de diciembre o AED 1160 por 4 días de otra semana. Precios por niño sin IVA del 5%.
+
+- 2026-12-21 · 09:00–13:00 · Asia/Dubai · Programa diurno con STEM práctico, creatividad, juegos y deporte. Confirmar el horario de proyectos concretos de robótica.
+
+- 2026-12-22 · 09:00–13:00 · Asia/Dubai · Programa diurno con STEM práctico, creatividad, juegos y deporte. Confirmar el horario de proyectos concretos de robótica.
+
+- 2026-12-23 · 09:00–13:00 · Asia/Dubai · Programa diurno con STEM práctico, creatividad, juegos y deporte. Confirmar el horario de proyectos concretos de robótica.
+
+- 2026-12-24 · 09:00–13:00 · Asia/Dubai · Programa diurno con STEM práctico, creatividad, juegos y deporte. Confirmar el horario de proyectos concretos de robótica.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** Edad adecuada para el grupo de 6–12 años. Inglés confirmado.
+
+**Oscar:** Edad adecuada para el grupo de 6–12 años. Inglés confirmado.
+
+[fuente](https://www.lafolie.me/services-detail/kids-winter-camp-dubai.html)
+
+### Turno diurno HandPrint
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**lugar:** HandPrint · Al Wanes Street · Umm Suqeim 1 · Dubai
+
+**edad:** HandPrint · grupo de 6–12 años.
+
+**Precio:** AED 290 por día. AED 1350 del 14–18 de diciembre o AED 1160 por 4 días de otra semana. Precios por niño sin IVA del 5%.
+
+- 2026-12-28 · 09:00–13:00 · Asia/Dubai · Programa diurno con STEM práctico, creatividad, juegos y deporte. Confirmar el horario de proyectos concretos de robótica.
+
+- 2026-12-29 · 09:00–13:00 · Asia/Dubai · Programa diurno con STEM práctico, creatividad, juegos y deporte. Confirmar el horario de proyectos concretos de robótica.
+
+- 2026-12-30 · 09:00–13:00 · Asia/Dubai · Programa diurno con STEM práctico, creatividad, juegos y deporte. Confirmar el horario de proyectos concretos de robótica.
+
+- 2026-12-31 · 09:00–13:00 · Asia/Dubai · Programa diurno con STEM práctico, creatividad, juegos y deporte. Confirmar el horario de proyectos concretos de robótica.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** Edad adecuada para el grupo de 6–12 años. Inglés confirmado.
+
+**Oscar:** Edad adecuada para el grupo de 6–12 años. Inglés confirmado.
+
+[fuente](https://www.lafolie.me/services-detail/kids-winter-camp-dubai.html)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.lafolie.me/services-detail/kids-winter-camp-dubai.html) · 2026-11-07
+
+- [Página oficial del organizador](https://www.lafolie.me/camps.html?location=grip) · 2026-11-07
+
+## CP1734 · Terra · Expo City Camps Winter Edition
+
+Emiratos Árabes Unidos · Terra · Expo City Dubai
+
+**Se ha comprobado:** 2026-11-07
+
+**Edad:** 5–11
+
+**Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar.
+
+**Programa:** Naturaleza, ecología, exploración y juegos. Horario detallado aún sin publicar.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Periodo general del 14 de diciembre de 2026 al 1 de enero de 2027, 09:00–14:00. Elegir día, semana o tres semanas. Confirmar días lectivos y fechas del turno.
+
+**Precio / año:** 2026 · AED 190 por día, AED 845 por semana, AED 1800 por tres semanas. Se anuncia un descuento del 20% para día o semana hasta el 6 de diciembre de 2026. Venta anunciada.
+
+**Incluido:** Naturaleza, ecología, exploración y juegos. Horario detallado aún sin publicar.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Periodo general del 14 de diciembre de 2026 al 1 de enero de 2027, 09:00–14:00. Elegir día, semana o tres semanas. Confirmar días lectivos y fechas del turno.
+
+**Fechas / estado:** 2026-12-14 — 2027-01-01
+
+**Precio:** AED 190 por día, AED 845 por semana, AED 1800 por tres semanas. Se anuncia un descuento del 20% para día o semana hasta el 6 de diciembre de 2026. Venta anunciada.
+
+**Disponibilidad de plazas:** La organización anuncia la apertura de reservas. Enlace y programa completo pendientes.
+
+[fuente](https://terra.expocitydubai.com/en/poi/expo-city-winter-camp)
+
+### Fuentes
+
+- [Página oficial del organizador](https://terra.expocitydubai.com/en/poi/expo-city-winter-camp) · 2026-11-07
+
+## CP1735 · Ascend EdTech · Junior Winter Camp
+
+Emiratos Árabes Unidos · Ascend EdTech · Sport Society Mall · Mirdif · Dubai
+
+**Se ha comprobado:** 2026-11-07
+
+**Edad:** 6–12
+
+**Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar.
+
+**Programa:** Cinco días, 20 horas. 10 horas de robótica e IA, 10 horas de creación de juegos en Minecraft. Equipos y kits incluidos, presentación final y certificado.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Anunciado para diciembre de 2026. La organización comunica fechas, horarios y tarifa previa consulta.
+
+**Precio / año:** 2026 · Precio sin publicar.
+
+**Incluido:** Cinco días, 20 horas. 10 horas de robótica e IA, 10 horas de creación de juegos en Minecraft. Equipos y kits incluidos, presentación final y certificado.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Fuentes
+
+- [Página oficial del organizador](https://ascendedu.online/events-workshops/winter-camp-2026/) · 2026-11-07
 
 ## ~ Comprobaciones no cerradas
 
