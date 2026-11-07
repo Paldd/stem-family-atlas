@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 7445,
-    "competition_cards": 3113,
-    "event_cards": 306,
-    "camp_cards": 4026,
-    "league_profiles": 260,
-    "major_exhibition_cards": 218,
+    "cards": 7463,
+    "competition_cards": 3121,
+    "event_cards": 310,
+    "camp_cards": 4032,
+    "league_profiles": 263,
+    "major_exhibition_cards": 222,
     "vex_cards": 518,
     "countries_with_records": 158,
     "fully_audited_countries": 0
@@ -34,12 +34,12 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 2556,
+      "total": 2573,
       "countries_with_records": 23,
-      "competitions": 1425,
-      "events": 74,
-      "major_exhibitions": 37,
-      "camps": 1057,
+      "competitions": 1432,
+      "events": 78,
+      "major_exhibitions": 41,
+      "camps": 1063,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
     },
@@ -2538,11 +2538,12 @@
         "C1176",
         "C1177",
         "C1178",
-        "C1179"
+        "C1179",
+        "C3122"
       ],
-      "cards": 10,
+      "cards": 11,
       "future_dated": 9,
-      "linked_card_count": 10,
+      "linked_card_count": 11,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.robojam.live/",
       "new": false
@@ -5916,6 +5917,52 @@
       "linked_card_count": 2,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://portal.stem.edu.gr/en/contests/",
+      "new": false
+    },
+    {
+      "id": "nasa-space-apps",
+      "name": "NASA Space Apps Challenge",
+      "group": "international",
+      "event_ids": [
+        "C3115",
+        "C3116",
+        "C3117",
+        "C3118",
+        "C3119"
+      ],
+      "cards": 5,
+      "future_dated": 5,
+      "linked_card_count": 5,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.spaceappschallenge.org/2026/",
+      "new": false
+    },
+    {
+      "id": "oicc-centroamerica",
+      "name": "OICC · Olimpiada de Informática",
+      "group": "regional",
+      "event_ids": [
+        "C3120"
+      ],
+      "cards": 1,
+      "future_dated": 1,
+      "linked_card_count": 1,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.oicc-oficial.org/inicio",
+      "new": false
+    },
+    {
+      "id": "pronafecyt-costa-rica",
+      "name": "PRONAFECYT · Costa Rica",
+      "group": "regional",
+      "event_ids": [
+        "C3121"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "linked_card_count": 1,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.mep.go.cr/noticias/calendario-escolar-2027-clases-1o-marzo-30-noviembre",
       "new": false
     },
     {
@@ -9342,6 +9389,50 @@
       "new": false
     },
     {
+      "id": "E307",
+      "name": "PVR Asian Festival 2026 · Gaming",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "start": "2026-11-14",
+      "end": "2026-11-15",
+      "visitor_policy": "family",
+      "source": "https://festivalespvr.com/planea-tu-visita-pvr-asian-festival-2026/",
+      "new": false
+    },
+    {
+      "id": "E308",
+      "name": "Game Conference MX 2026 · Indie Spot",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "start": "2026-11-13",
+      "end": "2026-11-14",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.gameconferencemx.com/faq",
+      "new": false
+    },
+    {
+      "id": "E309",
+      "name": "Pixelatl 2026 · actividades públicas Zapopan",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "start": "2026-11-07",
+      "end": "2026-11-08",
+      "visitor_policy": "family",
+      "source": "https://www.elfestival.mx/es/2026/post/edicion-2026/dos-sedes",
+      "new": false
+    },
+    {
+      "id": "E310",
+      "name": "Pixelatl 2026 · VMX Videogame Showroom",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "start": "2026-11-10",
+      "end": "2026-11-14",
+      "visitor_policy": "confirm_children",
+      "source": "https://elfestival.mx/Account/bitacora/c9629abb-f722-40ce-a317-b6c80d783f3f/Presenta_tu_juego_en_el_Festival",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -10722,7 +10813,7 @@
       "official_alternative": "https://www.ykpaoschool.cn/News-and-Events/New-Stories/988"
     }
   ],
-  "interregional_cards": 113,
+  "interregional_cards": 114,
   "promoted_exhibition_ids": [],
   "focused_country": {
     "country": "Тайвань",
@@ -11759,9 +11850,9 @@
       }
     ],
     "counts": {
-      "records": 4026,
+      "records": 4032,
       "holiday": 3758,
-      "regular": 114,
+      "regular": 120,
       "self_paced_materials": 2,
       "boarding": 1026,
       "en_es_instruction": 1259,

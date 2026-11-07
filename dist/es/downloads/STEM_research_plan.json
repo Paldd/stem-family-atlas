@@ -870,12 +870,12 @@
   ],
   "completion_rule": "No declarar el objetivo de las tarjetas de identificación completadas, la lista de 249 países o los puntos verdes de UI. Se requiere una cobertura de referencia y condiciones pertinentes demostradas, o información manifiestamente inaccesible o no declarada con fuentes verificadas.",
   "latest_validation": {
-    "version": 210,
+    "version": 211,
     "status": "implementation_snapshot",
-    "events": 7445,
-    "competitions": 3113,
-    "league_profiles": 260,
-    "camp_dossiers": 1632,
+    "events": 7463,
+    "competitions": 3121,
+    "league_profiles": 263,
+    "camp_dossiers": 1638,
     "budget_offers": 212,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -925,13 +925,13 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 209,
+    "version": 210,
     "status": "implementation_snapshot",
-    "events": 7422,
-    "competitions": 3102,
-    "league_profiles": 258,
-    "camp_dossiers": 1627,
-    "budget_offers": 210,
+    "events": 7445,
+    "competitions": 3113,
+    "league_profiles": 260,
+    "camp_dossiers": 1632,
+    "budget_offers": 212,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
     "worldwide_complete": false,
@@ -20805,13 +20805,13 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 209,
-    "latest_source_commit": "ce9fa8a2794be2f1d3450977a8b9fb37e14f4fca",
-    "published_version": 208,
-    "published_commit": "767c949cd72dbe7ef90c065fe5698bb65f8a3d0a",
-    "latest_workflow": 42362191160,
-    "latest_workflow_conclusion": "failure",
-    "status": "v209-build-verified-pages-deployment-timeout-twice"
+    "latest_source_version": 210,
+    "published_version": 210,
+    "latest_source_commit": "f98c751cfa9c861895b286d953fcf7b2685c95aa",
+    "published_commit": "f98c751cfa9c861895b286d953fcf7b2685c95aa",
+    "latest_workflow": 42365144402,
+    "latest_workflow_conclusion": "success",
+    "status": "local-main-and-pages-match"
   },
   "nearby_wro_v191": {
     "version": 191,
@@ -21694,5 +21694,58 @@
     "audit": "data/junior-japan-winter-audit-v210.json",
     "inventory": "data/junior-japan-winter-inventory-v210.json",
     "source-receipts": "data/junior-japan-winter-source-receipts-v210.json"
+  },
+  "nearby_nasa_citc_v211": {
+    "version": 211,
+    "checked": "2026-11-07",
+    "previous_goal_turn_classification": "progress",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_competitions": 8,
+    "new_exhibitions": 4,
+    "new_regular_learning": 6,
+    "new_camp_dossiers": 6,
+    "new_league_profiles": 3,
+    "updated_events": [
+      "C3103"
+    ],
+    "new_events": [
+      "C3115",
+      "C3116",
+      "C3117",
+      "C3118",
+      "C3119",
+      "C3120",
+      "C3121",
+      "C3122",
+      "E307",
+      "E308",
+      "E309",
+      "E310",
+      "L646",
+      "L647",
+      "L648",
+      "L649",
+      "L650",
+      "L651"
+    ],
+    "programme_links": {
+      "citc-san-jose-smartivo": "L646",
+      "citc-san-jose-algoplay": "L647",
+      "citc-san-jose-bricks-challenge": "L648",
+      "citc-san-jose-galileo-technic": "L649",
+      "citc-san-jose-robotoys": "L650",
+      "citc-san-jose-algoc": "L651"
+    },
+    "source_requests": 37,
+    "limits": [
+      "NASA directory includes more than 500 local events; this release verifies selected venues plus Universal.",
+      "Cartago local form disabled. Cartago, San José and Ensenada venue listings show a waitlist.",
+      "OICC national delegation registration is separate from public training.",
+      "PRONAFECYT 2027 and RoboJam Bajío 2027 remain undated.",
+      "CITC weekly lessons have published age ranges and duration; language, dates, seats and price require confirmation."
+    ],
+    "audit": "data/nearby-nasa-citc-audit-v211.json",
+    "source_receipts": "data/nearby-nasa-citc-source-receipts-v211.json"
   }
 }

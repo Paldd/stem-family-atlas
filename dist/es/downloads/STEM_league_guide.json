@@ -5595,7 +5595,8 @@
           "C1176",
           "C1177",
           "C1178",
-          "C1179"
+          "C1179",
+          "C3122"
         ],
         "legacy_ids": [
           "C685"
@@ -7151,7 +7152,7 @@
             "age": "K–4 / 5–8 / 9–12",
             "team": "Equipo",
             "hardware": "ROV SCOUT",
-            "entry": "la etapa regional",
+            "entry": "Etapa regional",
             "age_rule": "K4: el coordinador está aprobado"
           },
           {
@@ -18909,6 +18910,227 @@
         "evidence": "Reglas y calendario verificados con el organizador. Las condiciones pendientes figuran en las fichas."
       },
       {
+        "id": "nasa-space-apps",
+        "name": "NASA Space Apps Challenge",
+        "group": "international",
+        "age_summary": "Todas las edades. El participante menor de 18 años debe ser inscrito y acompañado durante todo el evento por su madre, padre o tutor legal.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Retos de NASA y selección internacional común tras la evaluación local del proyecto.",
+        "categories": [
+          {
+            "name": "NASA Space Apps Challenge 2026 · Universal Event",
+            "age": "Todas las edades. El participante menor de 18 años debe ser inscrito y acompañado durante todo el evento por su madre, padre o tutor legal.",
+            "team": "Sede internacional en línea. Proyecto individual o equipo de hasta 6 personas.",
+            "hardware": "Datos abiertos de NASA y socios. Se puede crear un prototipo, relato interactivo, juego o visualización según el reto elegido.",
+            "age_rule": "Todas las edades. El participante menor de 18 años debe ser inscrito y acompañado durante todo el evento por su madre, padre o tutor legal.",
+            "entry": "El representante legal inscribe a cada niño, elige una sede y lo acompaña. El equipo envía un proyecto conjunto."
+          },
+          {
+            "name": "NASA Space Apps Challenge 2026 · Cartago",
+            "age": "Todas las edades. El participante menor de 18 años debe ser inscrito y acompañado durante todo el evento por su madre, padre o tutor legal.",
+            "team": "Inscripción individual, luego proyecto individual o en un equipo de hasta 6 personas.",
+            "hardware": "Datos abiertos de NASA y socios. Se puede crear un prototipo, relato interactivo, juego o visualización según el reto elegido.",
+            "age_rule": "Todas las edades. El participante menor de 18 años debe ser inscrito y acompañado durante todo el evento por su madre, padre o tutor legal.",
+            "entry": "El representante legal inscribe a cada niño, elige una sede y lo acompaña. El equipo envía un proyecto conjunto."
+          },
+          {
+            "name": "NASA Space Apps Challenge 2026 · San José",
+            "age": "Todas las edades. El participante menor de 18 años debe ser inscrito y acompañado durante todo el evento por su madre, padre o tutor legal.",
+            "team": "Inscripción individual, luego proyecto individual o en un equipo de hasta 6 personas.",
+            "hardware": "Datos abiertos de NASA y socios. Se puede crear un prototipo, relato interactivo, juego o visualización según el reto elegido.",
+            "age_rule": "Todas las edades. El participante menor de 18 años debe ser inscrito y acompañado durante todo el evento por su madre, padre o tutor legal.",
+            "entry": "El representante legal inscribe a cada niño, elige una sede y lo acompaña. El equipo envía un proyecto conjunto."
+          },
+          {
+            "name": "NASA Space Apps Challenge 2026 · Ensenada",
+            "age": "Todas las edades. El participante menor de 18 años debe ser inscrito y acompañado durante todo el evento por su madre, padre o tutor legal.",
+            "team": "Inscripción individual, luego proyecto individual o en un equipo de hasta 6 personas.",
+            "hardware": "Datos abiertos de NASA y socios. Se puede crear un prototipo, relato interactivo, juego o visualización según el reto elegido.",
+            "age_rule": "Todas las edades. El participante menor de 18 años debe ser inscrito y acompañado durante todo el evento por su madre, padre o tutor legal.",
+            "entry": "El representante legal inscribe a cada niño, elige una sede y lo acompaña. El equipo envía un proyecto conjunto."
+          },
+          {
+            "name": "NASA Space Apps Challenge 2026 · Puerto Vallarta",
+            "age": "Condicional. La ficha local enumera bachillerato y universidad. Confirmar admisión de primaria; Universal en línea aplica las normas generales.",
+            "team": "En línea en la ficha de la sede. Equipos de 3–5 según la descripción local.",
+            "hardware": "Datos abiertos de NASA y socios. Se puede crear un prototipo, relato interactivo, juego o visualización según el reto elegido.",
+            "age_rule": "Condicional. La ficha local enumera bachillerato y universidad. Confirmar admisión de primaria; Universal en línea aplica las normas generales.",
+            "entry": "El representante legal inscribe a cada niño, elige una sede y lo acompaña. El equipo envía un proyecto conjunto."
+          }
+        ],
+        "event_ids": [
+          "C3115",
+          "C3116",
+          "C3117",
+          "C3118",
+          "C3119"
+        ],
+        "legacy_ids": [],
+        "route": "El representante legal inscribe a cada niño, elige una sede y lo acompaña. El equipo envía un proyecto conjunto.",
+        "hardware": "Datos abiertos de NASA y socios. Se puede crear un prototipo, relato interactivo, juego o visualización según el reto elegido.",
+        "language": "Confirmar el idioma del grupo o sede concretos.",
+        "importance": "Retos de NASA y selección internacional común tras la evaluación local del proyecto.",
+        "strengths": [
+          "Retos de NASA y selección internacional común tras la evaluación local del proyecto."
+        ],
+        "requirements": [
+          "El representante legal inscribe a cada niño, elige una sede y lo acompaña. El equipo envía un proyecto conjunto."
+        ],
+        "nuances": [
+          "La sede en línea es una opción si no hay alternativa presencial. Verificar la hora de entrega según la zona horaria de la sede elegida."
+        ],
+        "cost": "Participación gratuita.",
+        "award": "Certificado tras enviar el proyecto. La evaluación internacional requiere clasificación; el certificado no implica un premio.",
+        "sources": [
+          {
+            "url": "https://www.spaceappschallenge.org/2026/",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://www.spaceappschallenge.org/legal/",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://science.nasa.gov/universe/nasa-welcomes-all-ages-experience-levels-for-space-apps-challenge/",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://www.spaceappschallenge.org/2026/local-events/",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          }
+        ],
+        "evidence": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado."
+      },
+      {
+        "id": "oicc-centroamerica",
+        "name": "OICC · Olimpiada de Informática",
+        "group": "regional",
+        "age_summary": "Menor de 16 años al 31 de diciembre del año anterior. Hasta 4 participantes por país. Se requiere selección y admisión por la delegación.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Competencia de delegaciones de Centroamérica, el Caribe y países invitados.",
+        "categories": [
+          {
+            "name": "Olimpiada de Informática de Centroamérica y el Caribe · OICC 2026",
+            "age": "Menor de 16 años al 31 de diciembre del año anterior. Hasta 4 participantes por país. Se requiere selección y admisión por la delegación.",
+            "team": "Programación individual en la sede de la delegación. 3 problemas en 4 horas.",
+            "hardware": "C++ o Python en el evaluador DMOJ. La IA generativa y el autocompletado basado en ella están prohibidos.",
+            "age_rule": "Menor de 16 años al 31 de diciembre del año anterior. Hasta 4 participantes por país. Se requiere selección y admisión por la delegación.",
+            "entry": "Inscribe el representante del país hasta el 7 de noviembre de 2026. Confirmar selección local y delegación admisible."
+          }
+        ],
+        "event_ids": [
+          "C3120"
+        ],
+        "legacy_ids": [],
+        "route": "Inscribe el representante del país hasta el 7 de noviembre de 2026. Confirmar selección local y delegación admisible.",
+        "hardware": "C++ o Python en el evaluador DMOJ. La IA generativa y el autocompletado basado en ella están prohibidos.",
+        "language": "Enunciados en español según el reglamento técnico.",
+        "importance": "Competencia de delegaciones de Centroamérica, el Caribe y países invitados.",
+        "strengths": [
+          "Competencia de delegaciones de Centroamérica, el Caribe y países invitados."
+        ],
+        "requirements": [
+          "Inscribe el representante del país hasta el 7 de noviembre de 2026. Confirmar selección local y delegación admisible."
+        ],
+        "nuances": [
+          "Práctica el 14 de noviembre. Concurso real el 21 de noviembre. Clausura el 28 de noviembre. Costa Rica y México figuran en las reglas."
+        ],
+        "cost": "Precio sin publicar.",
+        "award": "Certificados, medallas y becas de formación según el reglamento.",
+        "sources": [
+          {
+            "url": "https://www.oicc-oficial.org/inicio",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://www.oicc-oficial.org/reglamentos/general",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://www.oicc-oficial.org/reglamentos/t%C3%A9cnico",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          }
+        ],
+        "evidence": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado."
+      },
+      {
+        "id": "pronafecyt-costa-rica",
+        "name": "PRONAFECYT · Costa Rica",
+        "group": "regional",
+        "age_summary": "El programa incluye preescolar, primaria y secundaria. Confirmar reglas del centro educativo y categoría del proyecto.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Programa nacional",
+        "categories": [
+          {
+            "name": "PRONAFECYT · Feria de Ciencia, Tecnología e Innovación · Costa Rica 2027",
+            "age": "El programa incluye preescolar, primaria y secundaria. Confirmar reglas del centro educativo y categoría del proyecto.",
+            "team": "Proyecto escolar con docente. En el sistema vigente, tras la fase institucional vienen la circuital, regional y nacional.",
+            "hardware": "Proyecto de investigación o tecnología con docente tutor.",
+            "age_rule": "El programa incluye preescolar, primaria y secundaria. Confirmar reglas del centro educativo y categoría del proyecto.",
+            "entry": "Proyecto escolar con docente. En el sistema vigente, tras la fase institucional vienen la circuital, regional y nacional."
+          }
+        ],
+        "event_ids": [
+          "C3121"
+        ],
+        "legacy_ids": [],
+        "route": "Proyecto escolar con docente. En el sistema vigente, tras la fase institucional vienen la circuital, regional y nacional.",
+        "hardware": "Proyecto de investigación o tecnología con docente tutor.",
+        "language": "Confirmar el idioma del grupo o sede concretos.",
+        "importance": "Programa nacional",
+        "strengths": [
+          "Programa nacional"
+        ],
+        "requirements": [
+          "Proyecto escolar con docente. En el sistema vigente, tras la fase institucional vienen la circuital, regional y nacional."
+        ],
+        "nuances": [
+          "El reglamento 2026 describe la secuencia general de etapas. Confirmar por separado fechas, cupos y procedimientos de 2027."
+        ],
+        "cost": "Precio sin publicar.",
+        "award": "Resultados según reglas de la etapa correspondiente.",
+        "sources": [
+          {
+            "url": "https://www.mep.go.cr/noticias/calendario-escolar-2027-clases-1o-marzo-30-noviembre",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://micitt.go.cr/servicios/ciencia-y-tecnologia-aprende-y-descubre/ferias-de-ciencia-y-tecnologia",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://www.mep.go.cr/sites/default/files/2026-04/ManualFCTI2026.pdf",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          }
+        ],
+        "evidence": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado."
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · programa de ingeniería y showcase",
         "group": "regional",
@@ -24335,7 +24557,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "Hay 260 fichas de ligas, familias y programas. Se conservan las 46 rutas previas. Se distinguen los formatos brasileños y se describen Robofest LATAM y BajaBot por sus categorías. Cobertura mundial parcial.",
+    "methodology": "Perfiles de ligas, familias y programas: 263. Se conservaron las 46 rutas previas. Los formatos brasileños están separados, y Robofest LATAM y BajaBot locales se describen según sus categorías. La cobertura mundial es parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

@@ -9110,6 +9110,102 @@ Limitaciones: El formulario separa la autorización de muestra y la inscripción
 Fuente: https://moonhack.com/
 Se ha comprobado: 2026-11-07
 
+### L646 · CITC · Jóvenes Ingenieros · Smartivo
+
+Lugar: Costa Rica CITC · San Francisco de Dos Ríos · Avenida 68A y diagonal 66 · San José
+Fecha: Semanal, sesión de 45 minutos.
+Edad: 4–6 años.
+Matvey: No por edad indicada para este grupo.
+Oscar: Condicional. La edad encaja según la ficha; confirmar grupo y nivel.
+Formato: regular
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar. La página en español no establece el idioma de clase.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: El centro facilita tarifa, equipo y condiciones de pago previa consulta.
+Acceso: CITC permite solicitar una clase de prueba. Confirmar idioma, dificultad, materiales y precio final.
+Limitaciones: El organizador indica matrícula abierta. Confirmar fechas, horario y disponibilidad del grupo concreto.
+Fuente: https://www.citc.cr/cursos/jovenes-ingenieros/smartivo/
+Se ha comprobado: 2026-11-07
+
+### L647 · CITC · Jóvenes Ingenieros · AlgoPlay
+
+Lugar: Costa Rica CITC · San Francisco de Dos Ríos · Avenida 68A y diagonal 66 · San José
+Fecha: Semanal, sesión de 75 minutos.
+Edad: 6 a 10 años.
+Matvey: Condicional. La edad encaja según la ficha; confirmar grupo y nivel.
+Oscar: Condicional. La edad encaja según la ficha; confirmar grupo y nivel.
+Formato: regular
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar. La página en español no establece el idioma de clase.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: El centro facilita tarifa, equipo y condiciones de pago previa consulta.
+Acceso: CITC permite solicitar una clase de prueba. Confirmar idioma, dificultad, materiales y precio final.
+Limitaciones: El organizador indica matrícula abierta. Confirmar fechas, horario y disponibilidad del grupo concreto.
+Fuente: https://www.citc.cr/cursos/jovenes-ingenieros/algoplay/
+Se ha comprobado: 2026-11-07
+
+### L648 · CITC · Jóvenes Ingenieros · Bricks Challenge
+
+Lugar: Costa Rica CITC · San Francisco de Dos Ríos · Avenida 68A y diagonal 66 · San José
+Fecha: Semanal, sesión de 75 minutos.
+Edad: 6 a 10 años.
+Matvey: Condicional. La edad encaja según la ficha; confirmar grupo y nivel.
+Oscar: Condicional. La edad encaja según la ficha; confirmar grupo y nivel.
+Formato: regular
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar. La página en español no establece el idioma de clase.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: El centro facilita tarifa, equipo y condiciones de pago previa consulta.
+Acceso: CITC permite solicitar una clase de prueba. Confirmar idioma, dificultad, materiales y precio final.
+Limitaciones: El organizador indica matrícula abierta. Confirmar fechas, horario y disponibilidad del grupo concreto.
+Fuente: https://www.citc.cr/cursos/jovenes-ingenieros/bricks-challenge/
+Se ha comprobado: 2026-11-07
+
+### L649 · CITC · Jóvenes Ingenieros · Galileo Technic
+
+Lugar: Costa Rica CITC · San Francisco de Dos Ríos · Avenida 68A y diagonal 66 · San José
+Fecha: Semanal, sesión de 75 minutos.
+Edad: 7 a 10 años.
+Matvey: Condicional. La edad encaja según la ficha; confirmar grupo y nivel.
+Oscar: Condicional para una temporada futura al alcanzar la edad mínima.
+Formato: regular
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar. La página en español no establece el idioma de clase.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: El centro facilita tarifa, equipo y condiciones de pago previa consulta.
+Acceso: CITC permite solicitar una clase de prueba. Confirmar idioma, dificultad, materiales y precio final.
+Limitaciones: El organizador indica matrícula abierta. Confirmar fechas, horario y disponibilidad del grupo concreto.
+Fuente: https://www.citc.cr/cursos/jovenes-ingenieros/galileo-technic/
+Se ha comprobado: 2026-11-07
+
+### L650 · CITC · Jóvenes Ingenieros · RoboToys
+
+Lugar: Costa Rica CITC · San Francisco de Dos Ríos · Avenida 68A y diagonal 66 · San José
+Fecha: Semanal, sesión de 75 minutos.
+Edad: 9 a 12 años.
+Matvey: Condicional. La edad encaja según la ficha; confirmar grupo y nivel.
+Oscar: Condicional para una temporada futura al alcanzar la edad mínima.
+Formato: regular
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar. La página en español no establece el idioma de clase.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: El centro facilita tarifa, equipo y condiciones de pago previa consulta.
+Acceso: CITC permite solicitar una clase de prueba. Confirmar idioma, dificultad, materiales y precio final.
+Limitaciones: El organizador indica matrícula abierta. Confirmar fechas, horario y disponibilidad del grupo concreto.
+Fuente: https://www.citc.cr/cursos/jovenes-ingenieros/robotoys/
+Se ha comprobado: 2026-11-07
+
+### L651 · CITC · Jóvenes Ingenieros · AlgoC
+
+Lugar: Costa Rica CITC · San Francisco de Dos Ríos · Avenida 68A y diagonal 66 · San José
+Fecha: Semanal, sesión de 90 minutos.
+edad: 13–18 años.
+Matvey: Condicional para una temporada futura al alcanzar la edad mínima.
+Oscar: Condicional para una temporada futura al alcanzar la edad mínima.
+Formato: regular
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar. La página en español no establece el idioma de clase.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: El centro facilita tarifa, equipo y condiciones de pago previa consulta.
+Acceso: CITC permite solicitar una clase de prueba. Confirmar idioma, dificultad, materiales y precio final.
+Limitaciones: El organizador indica matrícula abierta. Confirmar fechas, horario y disponibilidad del grupo concreto.
+Fuente: https://www.citc.cr/cursos/jovenes-ingenieros/algoc/
+Se ha comprobado: 2026-11-07
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier

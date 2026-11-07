@@ -74,6 +74,12 @@ RELATED.update({
     'tech-science-kids-robominds-bioglow': ['L642'],
     'techlabkids-online-scratch': ['L643'],
     'techlabkids-online-digital': ['L644'],
+    'citc-san-jose-smartivo': ['L646'],
+    'citc-san-jose-algoplay': ['L647'],
+    'citc-san-jose-bricks-challenge': ['L648'],
+    'citc-san-jose-galileo-technic': ['L649'],
+    'citc-san-jose-robotoys': ['L650'],
+    'citc-san-jose-algoc': ['L651'],
 })
 FIT = {'candidate':'Да по возрасту; зачисление отдельно',
        'conditional':'Условно; проверить возраст, класс и допуск',

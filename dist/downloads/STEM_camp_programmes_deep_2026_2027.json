@@ -30,14 +30,14 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1632,
+    "dossiers": 1638,
     "countries": 92,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 219,
       "published_2027": 448,
       "partial_2027": 131,
-      "next_unannounced": 338,
+      "next_unannounced": 344,
       "published_2026": 297,
       "partial_2026_27": 28,
       "partial_2026": 20,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 1,
       "confirmed_2027": 1
     },
-    "source_urls": 2350
+    "source_urls": 2358
   },
   "countries": [
     {
@@ -201,7 +201,7 @@
     },
     {
       "country": "Коста-Рика",
-      "count": 46
+      "count": 52
     },
     {
       "country": "Кувейт",
@@ -266205,6 +266205,434 @@
           ]
         }
       ]
+    },
+    {
+      "id": "CP1633",
+      "slug": "citc-san-jose-smartivo",
+      "provider": "CITC · Jóvenes Ingenieros · Smartivo",
+      "country": "Коста-Рика",
+      "iso": "CRI",
+      "place": "CITC · San Francisco de Dos Ríos · Avenida 68A y diagonal 66 · San José",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "4–6 лет.",
+      "language": "Язык преподавания конкретной группы пока не подтверждён. Испанская страница не устанавливает язык занятия.",
+      "confirmed_instruction_languages": [],
+      "programme": "GoAlgo, команды движения, света и звука, условия и циклы. 36 занятий.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Еженедельно, занятие 45 минут. Организатор показывает открытый набор. Даты, часы и наличие места в конкретной группе уточнить.",
+        "sessions": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "label": "Цена не опубликована.",
+        "included": "Тариф, оборудование и условия оплаты центр сообщает по запросу.",
+        "extras": "Тариф, оборудование и условия оплаты центр сообщает по запросу.",
+        "deposit": "Тариф, оборудование и условия оплаты центр сообщает по запросу."
+      },
+      "accommodation": "Очные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Нет по заявленному возрасту для этой группы."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Возраст подходит по карточке, группа и уровень требуют подтверждения."
+        }
+      },
+      "editorial_reason": "Местная база для практики. Следующий шаг зависит от уровня ребёнка и результата пробного занятия.",
+      "shortlist": [],
+      "questions": [
+        "CITC предлагает запросить пробное занятие. Проверить язык группы, сложность, набор материалов и окончательную цену."
+      ],
+      "sources": [
+        {
+          "url": "https://www.citc.cr/cursos/jovenes-ingenieros/smartivo/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.citc.cr/cursos/jovenes-ingenieros/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.citc.cr/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "regular_learning",
+      "related_event_ids": [
+        "L646"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1634",
+      "slug": "citc-san-jose-algoplay",
+      "provider": "CITC · Jóvenes Ingenieros · AlgoPlay",
+      "country": "Коста-Рика",
+      "iso": "CRI",
+      "place": "CITC · San Francisco de Dos Ríos · Avenida 68A y diagonal 66 · San José",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "6–10 лет.",
+      "language": "Язык преподавания конкретной группы пока не подтверждён. Испанская страница не устанавливает язык занятия.",
+      "confirmed_instruction_languages": [],
+      "programme": "Моторизованные модели, блоки GoAlgo, датчики, циклы и отладка.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Еженедельно, занятие 75 минут. Организатор показывает открытый набор. Даты, часы и наличие места в конкретной группе уточнить.",
+        "sessions": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "label": "Цена не опубликована.",
+        "included": "Тариф, оборудование и условия оплаты центр сообщает по запросу.",
+        "extras": "Тариф, оборудование и условия оплаты центр сообщает по запросу.",
+        "deposit": "Тариф, оборудование и условия оплаты центр сообщает по запросу."
+      },
+      "accommodation": "Очные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Возраст подходит по карточке, группа и уровень требуют подтверждения."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Возраст подходит по карточке, группа и уровень требуют подтверждения."
+        }
+      },
+      "editorial_reason": "Местная база для практики. Следующий шаг зависит от уровня ребёнка и результата пробного занятия.",
+      "shortlist": [],
+      "questions": [
+        "CITC предлагает запросить пробное занятие. Проверить язык группы, сложность, набор материалов и окончательную цену."
+      ],
+      "sources": [
+        {
+          "url": "https://www.citc.cr/cursos/jovenes-ingenieros/algoplay/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.citc.cr/cursos/jovenes-ingenieros/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.citc.cr/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "regular_learning",
+      "related_event_ids": [
+        "L647"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1635",
+      "slug": "citc-san-jose-bricks-challenge",
+      "provider": "CITC · Jóvenes Ingenieros · Bricks Challenge",
+      "country": "Коста-Рика",
+      "iso": "CRI",
+      "place": "CITC · San Francisco de Dos Ríos · Avenida 68A y diagonal 66 · San José",
+      "themes": [
+        "engineering",
+        "science"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "6–10 лет.",
+      "language": "Язык преподавания конкретной группы пока не подтверждён. Испанская страница не устанавливает язык занятия.",
+      "confirmed_instruction_languages": [],
+      "programme": "Механика и физика: рычаги, энергия, модели подъёмников и машин.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Еженедельно, занятие 75 минут. Организатор показывает открытый набор. Даты, часы и наличие места в конкретной группе уточнить.",
+        "sessions": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "label": "Цена не опубликована.",
+        "included": "Тариф, оборудование и условия оплаты центр сообщает по запросу.",
+        "extras": "Тариф, оборудование и условия оплаты центр сообщает по запросу.",
+        "deposit": "Тариф, оборудование и условия оплаты центр сообщает по запросу."
+      },
+      "accommodation": "Очные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Возраст подходит по карточке, группа и уровень требуют подтверждения."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Возраст подходит по карточке, группа и уровень требуют подтверждения."
+        }
+      },
+      "editorial_reason": "Местная база для практики. Следующий шаг зависит от уровня ребёнка и результата пробного занятия.",
+      "shortlist": [],
+      "questions": [
+        "CITC предлагает запросить пробное занятие. Проверить язык группы, сложность, набор материалов и окончательную цену."
+      ],
+      "sources": [
+        {
+          "url": "https://www.citc.cr/cursos/jovenes-ingenieros/bricks-challenge/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.citc.cr/cursos/jovenes-ingenieros/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.citc.cr/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "regular_learning",
+      "related_event_ids": [
+        "L648"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1636",
+      "slug": "citc-san-jose-galileo-technic",
+      "provider": "CITC · Jóvenes Ingenieros · Galileo Technic",
+      "country": "Коста-Рика",
+      "iso": "CRI",
+      "place": "CITC · San Francisco de Dos Ríos · Avenida 68A y diagonal 66 · San José",
+      "themes": [
+        "engineering",
+        "science"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "7–10 лет.",
+      "language": "Язык преподавания конкретной группы пока не подтверждён. Испанская страница не устанавливает язык занятия.",
+      "confirmed_instruction_languages": [],
+      "programme": "Продвинутая механика: ременные передачи, оси и баланс, построение моделей.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Еженедельно, занятие 75 минут. Организатор показывает открытый набор. Даты, часы и наличие места в конкретной группе уточнить.",
+        "sessions": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "label": "Цена не опубликована.",
+        "included": "Тариф, оборудование и условия оплаты центр сообщает по запросу.",
+        "extras": "Тариф, оборудование и условия оплаты центр сообщает по запросу.",
+        "deposit": "Тариф, оборудование и условия оплаты центр сообщает по запросу."
+      },
+      "accommodation": "Очные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Возраст подходит по карточке, группа и уровень требуют подтверждения."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Условно для будущего сезона после достижения минимального возраста."
+        }
+      },
+      "editorial_reason": "Местная база для практики. Следующий шаг зависит от уровня ребёнка и результата пробного занятия.",
+      "shortlist": [],
+      "questions": [
+        "CITC предлагает запросить пробное занятие. Проверить язык группы, сложность, набор материалов и окончательную цену."
+      ],
+      "sources": [
+        {
+          "url": "https://www.citc.cr/cursos/jovenes-ingenieros/galileo-technic/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.citc.cr/cursos/jovenes-ingenieros/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.citc.cr/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "regular_learning",
+      "related_event_ids": [
+        "L649"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1637",
+      "slug": "citc-san-jose-robotoys",
+      "provider": "CITC · Jóvenes Ingenieros · RoboToys",
+      "country": "Коста-Рика",
+      "iso": "CRI",
+      "place": "CITC · San Francisco de Dos Ríos · Avenida 68A y diagonal 66 · San José",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "9–12 лет.",
+      "language": "Язык преподавания конкретной группы пока не подтверждён. Испанская страница не устанавливает язык занятия.",
+      "confirmed_instruction_languages": [],
+      "programme": "Сборка роботизированных моделей и команды на учебном языке платформы.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Еженедельно, занятие 75 минут. Организатор показывает открытый набор. Даты, часы и наличие места в конкретной группе уточнить.",
+        "sessions": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "label": "Цена не опубликована.",
+        "included": "Тариф, оборудование и условия оплаты центр сообщает по запросу.",
+        "extras": "Тариф, оборудование и условия оплаты центр сообщает по запросу.",
+        "deposit": "Тариф, оборудование и условия оплаты центр сообщает по запросу."
+      },
+      "accommodation": "Очные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Возраст подходит по карточке, группа и уровень требуют подтверждения."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Условно для будущего сезона после достижения минимального возраста."
+        }
+      },
+      "editorial_reason": "Местная база для практики. Следующий шаг зависит от уровня ребёнка и результата пробного занятия.",
+      "shortlist": [],
+      "questions": [
+        "CITC предлагает запросить пробное занятие. Проверить язык группы, сложность, набор материалов и окончательную цену."
+      ],
+      "sources": [
+        {
+          "url": "https://www.citc.cr/cursos/jovenes-ingenieros/robotoys/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.citc.cr/cursos/jovenes-ingenieros/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.citc.cr/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "regular_learning",
+      "related_event_ids": [
+        "L650"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1638",
+      "slug": "citc-san-jose-algoc",
+      "provider": "CITC · Jóvenes Ingenieros · AlgoC",
+      "country": "Коста-Рика",
+      "iso": "CRI",
+      "place": "CITC · San Francisco de Dos Ríos · Avenida 68A y diagonal 66 · San José",
+      "themes": [
+        "robotics",
+        "coding",
+        "ai"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "13–18 лет.",
+      "language": "Язык преподавания конкретной группы пока не подтверждён. Испанская страница не устанавливает язык занятия.",
+      "confirmed_instruction_languages": [],
+      "programme": "C, Arduino IDE, датчики, Practivo и введение в программирование с ИИ.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Еженедельно, занятие 90 минут. Организатор показывает открытый набор. Даты, часы и наличие места в конкретной группе уточнить.",
+        "sessions": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "label": "Цена не опубликована.",
+        "included": "Тариф, оборудование и условия оплаты центр сообщает по запросу.",
+        "extras": "Тариф, оборудование и условия оплаты центр сообщает по запросу.",
+        "deposit": "Тариф, оборудование и условия оплаты центр сообщает по запросу."
+      },
+      "accommodation": "Очные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Условно для будущего сезона после достижения минимального возраста."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Условно для будущего сезона после достижения минимального возраста."
+        }
+      },
+      "editorial_reason": "Местная база для практики. Следующий шаг зависит от уровня ребёнка и результата пробного занятия.",
+      "shortlist": [],
+      "questions": [
+        "CITC предлагает запросить пробное занятие. Проверить язык группы, сложность, набор материалов и окончательную цену."
+      ],
+      "sources": [
+        {
+          "url": "https://www.citc.cr/cursos/jovenes-ingenieros/algoc/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.citc.cr/cursos/jovenes-ingenieros/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.citc.cr/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "regular_learning",
+      "related_event_ids": [
+        "L651"
+      ],
+      "calendar_links": []
     }
   ],
   "gaps": [
@@ -271530,7 +271958,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 210,
+  "version": 211,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -284765,7 +285193,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1632,
+      "total_dossiers": 1638,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -302558,6 +302986,36 @@
       "programme_id": "CP1632",
       "event_id": "CP1632-20261221-20261225",
       "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1633",
+      "event_id": "L646",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP1634",
+      "event_id": "L647",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP1635",
+      "event_id": "L648",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP1636",
+      "event_id": "L649",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP1637",
+      "event_id": "L650",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP1638",
+      "event_id": "L651",
+      "relation": "related_track_or_operator"
     },
     {
       "programme_id": "CP1294",

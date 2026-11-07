@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-07. 1632 fichas en 92 países. Cada ficha indica las fechas de verificación de sus fuentes.
+Estado de la base: 2026-11-07. 1638 fichas en 92 países. Cada ficha indica las fechas de verificación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -125699,6 +125699,258 @@ Japón · Tokyo · 4F Bird’s Eye · 1-6-13 Azabudai, Minato-ku
 ### Fuentes
 
 - [Ficha del curso y tarifa publicada](https://www.luminasoiree.com/en/wintercamp2026) · 2026-11-07
+
+## CP1633 · CITC · Jóvenes Ingenieros · Smartivo
+
+Costa Rica · CITC · San Francisco de Dos Ríos · Avenida 68A y diagonal 66 · San José
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 4–6 años.
+
+**Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar. La página en español no establece el idioma de clase.
+
+**Programa:** GoAlgo, órdenes de movimiento, luz y sonido, condiciones y bucles. 36 clases.
+
+**Alojamiento:** Clases presenciales sin alojamiento.
+
+**Fechas / estado:** Semanal, sesión de 45 minutos. El organizador indica matrícula abierta. Confirmar fechas, horario y disponibilidad del grupo concreto.
+
+**Cabe/año:** no se ha fijado el precio.
+
+**Incluido:** El centro facilita tarifa, equipo y condiciones de pago previa consulta.
+
+**Suplementos:** El centro facilita tarifa, equipo y condiciones de pago previa consulta.
+
+**Pago:** El centro facilita tarifa, equipo y condiciones de pago previa consulta.
+
+**Matvey:** No por edad indicada para este grupo.
+
+**Oscar:** Condicional. La edad encaja según la ficha; confirmar grupo y nivel.
+
+**Motivo de selección:** Base local de práctica. El siguiente paso depende del nivel del niño y de la clase de prueba.
+
+### Antes de solicitar plaza
+
+- CITC permite solicitar una clase de prueba. Confirmar idioma, dificultad, materiales y precio final.
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.citc.cr/cursos/jovenes-ingenieros/smartivo/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.citc.cr/cursos/jovenes-ingenieros/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.citc.cr/) · 2026-11-07
+
+## CP1634 · CITC · Jóvenes Ingenieros · AlgoPlay
+
+Costa Rica · CITC · San Francisco de Dos Ríos · Avenida 68A y diagonal 66 · San José
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 6–10 años.
+
+**Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar. La página en español no establece el idioma de clase.
+
+**Programa:** Modelos motorizados, bloques GoAlgo, sensores, bucles y depuración.
+
+**Alojamiento:** Clases presenciales sin alojamiento.
+
+**Fechas / estado:** Semanal, sesión de 75 minutos. El organizador indica matrícula abierta. Confirmar fechas, horario y disponibilidad del grupo concreto.
+
+**Cabe/año:** no se ha fijado el precio.
+
+**Incluido:** El centro facilita tarifa, equipo y condiciones de pago previa consulta.
+
+**Suplementos:** El centro facilita tarifa, equipo y condiciones de pago previa consulta.
+
+**Pago:** El centro facilita tarifa, equipo y condiciones de pago previa consulta.
+
+**Matvey:** Condicional. La edad encaja según la ficha; confirmar grupo y nivel.
+
+**Oscar:** Condicional. La edad encaja según la ficha; confirmar grupo y nivel.
+
+**Motivo de selección:** Base local de práctica. El siguiente paso depende del nivel del niño y de la clase de prueba.
+
+### Antes de solicitar plaza
+
+- CITC permite solicitar una clase de prueba. Confirmar idioma, dificultad, materiales y precio final.
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.citc.cr/cursos/jovenes-ingenieros/algoplay/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.citc.cr/cursos/jovenes-ingenieros/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.citc.cr/) · 2026-11-07
+
+## CP1635 · CITC · Jóvenes Ingenieros · Bricks Challenge
+
+Costa Rica · CITC · San Francisco de Dos Ríos · Avenida 68A y diagonal 66 · San José
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 6–10 años.
+
+**Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar. La página en español no establece el idioma de clase.
+
+**Programa:** Mecánica y física: palancas, energía, modelos de elevadores y máquinas.
+
+**Alojamiento:** Clases presenciales sin alojamiento.
+
+**Fechas / estado:** Semanal, sesión de 75 minutos. El organizador indica matrícula abierta. Confirmar fechas, horario y disponibilidad del grupo concreto.
+
+**Cabe/año:** no se ha fijado el precio.
+
+**Incluido:** El centro facilita tarifa, equipo y condiciones de pago previa consulta.
+
+**Suplementos:** El centro facilita tarifa, equipo y condiciones de pago previa consulta.
+
+**Pago:** El centro facilita tarifa, equipo y condiciones de pago previa consulta.
+
+**Matvey:** Condicional. La edad encaja según la ficha; confirmar grupo y nivel.
+
+**Oscar:** Condicional. La edad encaja según la ficha; confirmar grupo y nivel.
+
+**Motivo de selección:** Base local de práctica. El siguiente paso depende del nivel del niño y de la clase de prueba.
+
+### Antes de solicitar plaza
+
+- CITC permite solicitar una clase de prueba. Confirmar idioma, dificultad, materiales y precio final.
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.citc.cr/cursos/jovenes-ingenieros/bricks-challenge/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.citc.cr/cursos/jovenes-ingenieros/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.citc.cr/) · 2026-11-07
+
+## CP1636 · CITC · Jóvenes Ingenieros · Galileo Technic
+
+Costa Rica · CITC · San Francisco de Dos Ríos · Avenida 68A y diagonal 66 · San José
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 7–10 años.
+
+**Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar. La página en español no establece el idioma de clase.
+
+**Programa:** Mecánica avanzada: transmisiones por correa, ejes, equilibrio y construcción de modelos.
+
+**Alojamiento:** Clases presenciales sin alojamiento.
+
+**Fechas / estado:** Semanal, sesión de 75 minutos. El organizador indica matrícula abierta. Confirmar fechas, horario y disponibilidad del grupo concreto.
+
+**Cabe/año:** no se ha fijado el precio.
+
+**Incluido:** El centro facilita tarifa, equipo y condiciones de pago previa consulta.
+
+**Suplementos:** El centro facilita tarifa, equipo y condiciones de pago previa consulta.
+
+**Pago:** El centro facilita tarifa, equipo y condiciones de pago previa consulta.
+
+**Matvey:** Condicional. La edad encaja según la ficha; confirmar grupo y nivel.
+
+**Oscar:** Condicional para una temporada futura al alcanzar la edad mínima.
+
+**Motivo de selección:** Base local de práctica. El siguiente paso depende del nivel del niño y de la clase de prueba.
+
+### Antes de solicitar plaza
+
+- CITC permite solicitar una clase de prueba. Confirmar idioma, dificultad, materiales y precio final.
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.citc.cr/cursos/jovenes-ingenieros/galileo-technic/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.citc.cr/cursos/jovenes-ingenieros/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.citc.cr/) · 2026-11-07
+
+## CP1637 · CITC · Jóvenes Ingenieros · RoboToys
+
+Costa Rica · CITC · San Francisco de Dos Ríos · Avenida 68A y diagonal 66 · San José
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 9–12 años.
+
+**Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar. La página en español no establece el idioma de clase.
+
+**Programa:** Construcción de modelos robóticos y órdenes en el lenguaje didáctico de la plataforma.
+
+**Alojamiento:** Clases presenciales sin alojamiento.
+
+**Fechas / estado:** Semanal, sesión de 75 minutos. El organizador indica matrícula abierta. Confirmar fechas, horario y disponibilidad del grupo concreto.
+
+**Cabe/año:** no se ha fijado el precio.
+
+**Incluido:** El centro facilita tarifa, equipo y condiciones de pago previa consulta.
+
+**Suplementos:** El centro facilita tarifa, equipo y condiciones de pago previa consulta.
+
+**Pago:** El centro facilita tarifa, equipo y condiciones de pago previa consulta.
+
+**Matvey:** Condicional. La edad encaja según la ficha; confirmar grupo y nivel.
+
+**Oscar:** Condicional para una temporada futura al alcanzar la edad mínima.
+
+**Motivo de selección:** Base local de práctica. El siguiente paso depende del nivel del niño y de la clase de prueba.
+
+### Antes de solicitar plaza
+
+- CITC permite solicitar una clase de prueba. Confirmar idioma, dificultad, materiales y precio final.
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.citc.cr/cursos/jovenes-ingenieros/robotoys/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.citc.cr/cursos/jovenes-ingenieros/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.citc.cr/) · 2026-11-07
+
+## CP1638 · CITC · Jóvenes Ingenieros · AlgoC
+
+Costa Rica · CITC · San Francisco de Dos Ríos · Avenida 68A y diagonal 66 · San José
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 13–18 años.
+
+**Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar. La página en español no establece el idioma de clase.
+
+**Programa:** C, Arduino IDE, sensores, Practivo e introducción a programación con IA.
+
+**Alojamiento:** Clases presenciales sin alojamiento.
+
+**Fechas / estado:** Semanal, sesión de 90 minutos. El organizador indica matrícula abierta. Confirmar fechas, horario y disponibilidad del grupo concreto.
+
+**Cabe/año:** no se ha fijado el precio.
+
+**Incluido:** El centro facilita tarifa, equipo y condiciones de pago previa consulta.
+
+**Suplementos:** El centro facilita tarifa, equipo y condiciones de pago previa consulta.
+
+**Pago:** El centro facilita tarifa, equipo y condiciones de pago previa consulta.
+
+**Matvey:** Condicional para una temporada futura al alcanzar la edad mínima.
+
+**Oscar:** Condicional para una temporada futura al alcanzar la edad mínima.
+
+**Motivo de selección:** Base local de práctica. El siguiente paso depende del nivel del niño y de la clase de prueba.
+
+### Antes de solicitar plaza
+
+- CITC permite solicitar una clase de prueba. Confirmar idioma, dificultad, materiales y precio final.
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.citc.cr/cursos/jovenes-ingenieros/algoc/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.citc.cr/cursos/jovenes-ingenieros/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.citc.cr/) · 2026-11-07
 
 ## ~ Comprobaciones no cerradas
 

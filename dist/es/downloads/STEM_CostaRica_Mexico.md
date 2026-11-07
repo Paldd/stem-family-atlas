@@ -2748,6 +2748,227 @@ Limitaciones: 星际巡航 · Primaria y secundaria. Reglamento indica condició
 Fuente: https://wrc.cie.org.cn/contest/announcement/3692.html
 Se ha comprobado: 2026-11-07
 
+### C3116 · NASA Space Apps Challenge 2026 · Cartago
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Todas las edades. El participante menor de 18 años debe ser inscrito y acompañado durante todo el evento por su madre, padre o tutor legal.
+Matvey: Condicional. La edad permite participar con inscripción y acompañamiento permanente del representante legal. Confirmar plaza y modalidad.
+Oscar: Condicional. La edad permite participar con inscripción y acompañamiento permanente del representante legal. Confirmar plaza y modalidad.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: El representante legal inscribe a cada niño, elige una sede y lo acompaña. El equipo envía un proyecto conjunto.
+Precio: Participación gratuita.
+Limitaciones: El TEC confirma las jornadas presenciales. El formulario local del TEC está deshabilitado y la plataforma de NASA muestra lista de espera. Confirmar admisión, plaza presencial o virtual y horario exacto. La norma de NASA exige acompañamiento permanente del menor.
+Fuente: https://www.tec.ac.cr/tecnologico-costa-rica-sera-sede-nasa-space-apps-challenge-cartago-2026
+Se ha comprobado: 2026-11-07
+
+### C3117 · NASA Space Apps Challenge 2026 · San José
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Todas las edades. El participante menor de 18 años debe ser inscrito y acompañado durante todo el evento por su madre, padre o tutor legal.
+Matvey: Condicional. La edad permite participar con inscripción y acompañamiento permanente del representante legal. Confirmar plaza y modalidad.
+Oscar: Condicional. La edad permite participar con inscripción y acompañamiento permanente del representante legal. Confirmar plaza y modalidad.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: El representante legal inscribe a cada niño, elige una sede y lo acompaña. El equipo envía un proyecto conjunto.
+Precio: Participación gratuita.
+Limitaciones: La sede confirma programa el 14 y 15 de noviembre. NASA muestra lista de espera. Confirmar plaza, horario y acompañamiento.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/san-jose-costa-rica/
+Se ha comprobado: 2026-11-07
+
+### C3118 · NASA Space Apps Challenge 2026 · Ensenada
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Todas las edades. El participante menor de 18 años debe ser inscrito y acompañado durante todo el evento por su madre, padre o tutor legal.
+Matvey: Condicional. La edad permite participar con inscripción y acompañamiento permanente del representante legal. Confirmar plaza y modalidad.
+Oscar: Condicional. La edad permite participar con inscripción y acompañamiento permanente del representante legal. Confirmar plaza y modalidad.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: El representante legal inscribe a cada niño, elige una sede y lo acompaña. El equipo envía un proyecto conjunto.
+Precio: Participación gratuita.
+Limitaciones: Sede presencial. Se publica un límite de 120 participantes; la plataforma muestra lista de espera. Confirmar admisión por edad en la sede y plaza.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/ensenada/
+Se ha comprobado: 2026-11-07
+
+### C3119 · NASA Space Apps Challenge 2026 · Puerto Vallarta
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Condicional. La ficha local enumera bachillerato y universidad. Confirmar admisión de primaria; Universal en línea aplica las normas generales.
+Matvey: Condicional. La ficha local enumera bachillerato y universidad. Confirmar admisión de primaria; Universal en línea aplica las normas generales.
+Oscar: Condicional. La ficha local enumera bachillerato y universidad. Confirmar admisión de primaria; Universal en línea aplica las normas generales.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: El representante legal inscribe a cada niño, elige una sede y lo acompaña. El equipo envía un proyecto conjunto.
+Precio: Participación gratuita.
+Limitaciones: La plataforma indica Virtual y Arena Virtual iXsteam. El texto en inglés de la misma ficha menciona modalidad presencial y categorías mayores. Confirmar admisión y modalidad con la sede.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/puerto-vallarta/
+Se ha comprobado: 2026-11-07
+
+### C3120 · Olimpiada de Informática de Centroamérica y el Caribe · OICC 2026
+
+Fecha: 2026-11-21 — 2026-11-21
+edad: Menor de 16 años al 31 de diciembre del año anterior. Hasta 4 participantes por país. Se requiere selección y admisión por la delegación.
+Matvey: Condicional por edad. Se requiere selección nacional y preparación para resolver problemas en C++ o Python.
+Oscar: Condicional por edad. Se requiere selección nacional y preparación para resolver problemas en C++ o Python.
+Idioma: Enunciados en español según el reglamento técnico.
+Acceso: Inscribe el representante del país hasta el 7 de noviembre de 2026. Confirmar selección local y delegación admisible.
+Precio: Precio sin publicar.
+Limitaciones: Práctica el 14 de noviembre. Concurso real el 21 de noviembre. Clausura el 28 de noviembre. Costa Rica y México figuran en las reglas.
+Fuente: https://www.oicc-oficial.org/inicio
+Se ha comprobado: 2026-11-07
+
+### C3121 · PRONAFECYT · Feria de Ciencia, Tecnología e Innovación · Costa Rica 2027
+
+Fecha: El MEP confirma la feria en el curso 2027. Las fechas de etapas aún no se publican en este anuncio.
+edad: El programa incluye preescolar, primaria y secundaria. Confirmar reglas del centro educativo y categoría del proyecto.
+Matvey: Condicional. Posible vía escolar con docente. Confirmar en el centro la admisión y selección para 2027.
+Oscar: Condicional. Posible vía escolar con docente. Confirmar en el centro la admisión y selección para 2027.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: Proyecto escolar con docente. En el sistema vigente, tras la fase institucional vienen la circuital, regional y nacional.
+Precio: Precio sin publicar.
+Limitaciones: El reglamento 2026 describe la secuencia general de etapas. Confirmar por separado fechas, cupos y procedimientos de 2027.
+Fuente: https://www.mep.go.cr/noticias/calendario-escolar-2027-clases-1o-marzo-30-noviembre
+Se ha comprobado: 2026-11-07
+
+### C3122 · RoboJam MX Bajío 2027
+
+Fecha: Edición 2027 anunciada, fechas por definir.
+edad: Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.
+Matvey: Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.
+Oscar: Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: La organización indica apertura a equipos de cualquier país. Categorías e inscripción de Bajío aún sin publicar.
+Precio: Precio sin publicar.
+Limitaciones: Tarifas y plazos de Norestense no aplican a Bajío.
+Fuente: https://www.robojam.live/mexico
+Se ha comprobado: 2026-11-07
+
+### E307 · PVR Asian Festival 2026 · Gaming
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Niños de 0–11 años gratis con un adulto con entrada vigente. Pueden solicitar comprobante de edad.
+Matvey: Sí para visita familiar siguiendo las reglas de acceso.
+Oscar: Sí para visita familiar siguiendo las reglas de acceso.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: Niños de 0–11 años gratis con un adulto con entrada vigente. Pueden solicitar comprobante de edad.
+Precio: La página indica pase de dos días de adulto por MXN 150 más cargo de servicio en preventa. Confirmar fase vigente.
+Limitaciones: Zona de juego, juego libre y demostraciones. Torneos de cartas confirmados. Confirmar títulos de videojuegos, reglas de actividades y horarios.
+Fuente: https://festivalespvr.com/planea-tu-visita-pvr-asian-festival-2026/
+Se ha comprobado: 2026-11-07
+
+### E308 · Game Conference MX 2026 · Indie Spot
+
+Fecha: 2026-11-13 — 2026-11-14
+edad: Condicional. El organizador debe confirmar edad de visitantes y acompañamiento.
+Matvey: Condicional. El organizador debe confirmar edad de visitantes y acompañamiento.
+Oscar: Condicional. El organizador debe confirmar edad de visitantes y acompañamiento.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: Condicional. El organizador debe confirmar edad de visitantes y acompañamiento.
+Precio: Player MXN 259 por ambos días, IVA incluido según el organizador.
+Limitaciones: Player incluye Indie Spot, demos de juegos y Player Stage. GCMX Party solo 18+. Confirmar edad mínima para la exposición diurna antes de comprar.
+Fuente: https://www.gameconferencemx.com/faq
+Se ha comprobado: 2026-11-07
+
+### E309 · Pixelatl 2026 · actividades públicas Zapopan
+
+Fecha: 2026-11-07 — 2026-11-08
+edad: Sí para visita familiar siguiendo las reglas de acceso.
+Matvey: Sí para visita familiar siguiendo las reglas de acceso.
+Oscar: Sí para visita familiar siguiendo las reglas de acceso.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: Hay una zona abierta y talleres para niños. Algunas actividades requieren pase Campus e inscripción separada.
+Precio: Precio sin publicar.
+Limitaciones: La apertura fue el 6 de noviembre. Esta ficha recoge 7–8 de noviembre, días principales de Zapopan según la página de sedes.
+Fuente: https://www.elfestival.mx/es/2026/post/edicion-2026/dos-sedes
+Se ha comprobado: 2026-11-07
+
+### E310 · Pixelatl 2026 · VMX Videogame Showroom
+
+Fecha: 2026-11-10 — 2026-11-14
+edad: Condicional. El organizador debe confirmar edad de visitantes y acompañamiento.
+Matvey: Condicional. El organizador debe confirmar edad de visitantes y acompañamiento.
+Oscar: Condicional. El organizador debe confirmar edad de visitantes y acompañamiento.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: Condicional. El organizador debe confirmar edad de visitantes y acompañamiento.
+Precio: Campus MXN 1000 por día o 2800 por el festival. Confirmar acceso a VMX con el pase elegido y edad de los niños.
+Limitaciones: Videojuegos mexicanos en VMX Showroom. La convocatoria separada para desarrolladores cerró el 5 de octubre. Confirmar el acceso familiar al showroom.
+Fuente: https://elfestival.mx/Account/bitacora/c9629abb-f722-40ce-a317-b6c80d783f3f/Presenta_tu_juego_en_el_Festival
+Se ha comprobado: 2026-11-07
+
+### L646 · CITC · Jóvenes Ingenieros · Smartivo
+
+Fecha: Semanal, sesión de 45 minutos.
+Edad: 4–6 años.
+Matvey: No por edad indicada para este grupo.
+Oscar: Condicional. La edad encaja según la ficha; confirmar grupo y nivel.
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar. La página en español no establece el idioma de clase.
+Acceso: CITC permite solicitar una clase de prueba. Confirmar idioma, dificultad, materiales y precio final.
+Precio: El centro facilita tarifa, equipo y condiciones de pago previa consulta.
+Limitaciones: El organizador indica matrícula abierta. Confirmar fechas, horario y disponibilidad del grupo concreto.
+Fuente: https://www.citc.cr/cursos/jovenes-ingenieros/smartivo/
+Se ha comprobado: 2026-11-07
+
+### L647 · CITC · Jóvenes Ingenieros · AlgoPlay
+
+Fecha: Semanal, sesión de 75 minutos.
+Edad: 6 a 10 años.
+Matvey: Condicional. La edad encaja según la ficha; confirmar grupo y nivel.
+Oscar: Condicional. La edad encaja según la ficha; confirmar grupo y nivel.
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar. La página en español no establece el idioma de clase.
+Acceso: CITC permite solicitar una clase de prueba. Confirmar idioma, dificultad, materiales y precio final.
+Precio: El centro facilita tarifa, equipo y condiciones de pago previa consulta.
+Limitaciones: El organizador indica matrícula abierta. Confirmar fechas, horario y disponibilidad del grupo concreto.
+Fuente: https://www.citc.cr/cursos/jovenes-ingenieros/algoplay/
+Se ha comprobado: 2026-11-07
+
+### L648 · CITC · Jóvenes Ingenieros · Bricks Challenge
+
+Fecha: Semanal, sesión de 75 minutos.
+Edad: 6 a 10 años.
+Matvey: Condicional. La edad encaja según la ficha; confirmar grupo y nivel.
+Oscar: Condicional. La edad encaja según la ficha; confirmar grupo y nivel.
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar. La página en español no establece el idioma de clase.
+Acceso: CITC permite solicitar una clase de prueba. Confirmar idioma, dificultad, materiales y precio final.
+Precio: El centro facilita tarifa, equipo y condiciones de pago previa consulta.
+Limitaciones: El organizador indica matrícula abierta. Confirmar fechas, horario y disponibilidad del grupo concreto.
+Fuente: https://www.citc.cr/cursos/jovenes-ingenieros/bricks-challenge/
+Se ha comprobado: 2026-11-07
+
+### L649 · CITC · Jóvenes Ingenieros · Galileo Technic
+
+Fecha: Semanal, sesión de 75 minutos.
+Edad: 7 a 10 años.
+Matvey: Condicional. La edad encaja según la ficha; confirmar grupo y nivel.
+Oscar: Condicional para una temporada futura al alcanzar la edad mínima.
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar. La página en español no establece el idioma de clase.
+Acceso: CITC permite solicitar una clase de prueba. Confirmar idioma, dificultad, materiales y precio final.
+Precio: El centro facilita tarifa, equipo y condiciones de pago previa consulta.
+Limitaciones: El organizador indica matrícula abierta. Confirmar fechas, horario y disponibilidad del grupo concreto.
+Fuente: https://www.citc.cr/cursos/jovenes-ingenieros/galileo-technic/
+Se ha comprobado: 2026-11-07
+
+### L650 · CITC · Jóvenes Ingenieros · RoboToys
+
+Fecha: Semanal, sesión de 75 minutos.
+Edad: 9 a 12 años.
+Matvey: Condicional. La edad encaja según la ficha; confirmar grupo y nivel.
+Oscar: Condicional para una temporada futura al alcanzar la edad mínima.
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar. La página en español no establece el idioma de clase.
+Acceso: CITC permite solicitar una clase de prueba. Confirmar idioma, dificultad, materiales y precio final.
+Precio: El centro facilita tarifa, equipo y condiciones de pago previa consulta.
+Limitaciones: El organizador indica matrícula abierta. Confirmar fechas, horario y disponibilidad del grupo concreto.
+Fuente: https://www.citc.cr/cursos/jovenes-ingenieros/robotoys/
+Se ha comprobado: 2026-11-07
+
+### L651 · CITC · Jóvenes Ingenieros · AlgoC
+
+Fecha: Semanal, sesión de 90 minutos.
+edad: 13–18 años.
+Matvey: Condicional para una temporada futura al alcanzar la edad mínima.
+Oscar: Condicional para una temporada futura al alcanzar la edad mínima.
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar. La página en español no establece el idioma de clase.
+Acceso: CITC permite solicitar una clase de prueba. Confirmar idioma, dificultad, materiales y precio final.
+Precio: El centro facilita tarifa, equipo y condiciones de pago previa consulta.
+Limitaciones: El organizador indica matrícula abierta. Confirmar fechas, horario y disponibilidad del grupo concreto.
+Fuente: https://www.citc.cr/cursos/jovenes-ingenieros/algoc/
+Se ha comprobado: 2026-11-07
+
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02
 
 Fecha: 2027-03-29 - 2027-04-02
@@ -4133,9 +4354,9 @@ edad: El organizador forma equipos de 3–4 personas. El anuncio público no ind
 Matvey: Condicional. Confirmar edad, idioma de trabajo y plazas con K-Lab. La solicitud se rige por las condiciones del organizador.
 Oscar: Condicional. Confirmar edad, idioma de trabajo y plazas con K-Lab. La solicitud se rige por las condiciones del organizador.
 Idioma: Confirmar idioma del taller o demostración concretos.
-Acceso: El organizador forma equipos de 3–4 personas. El anuncio público no indica edad mínima.
+Acceso: TEC convoca al público general, con cupos limitados. La organización forma equipos de 3–4 personas. Confirmar edad mínima y acompañamiento.
 Precio: Precio de participación sin indicar. El anuncio incluye almuerzo.
-Limitaciones:
+Limitaciones: Primer día: formación en IA física y MODI. Segundo día: desarrollo, presentaciones y premios. Incluye almuerzo.
 Fuente: https://tec.ac.cr/hackathon-modi-kit-ia
 Se ha comprobado: 2026-11-07
 
