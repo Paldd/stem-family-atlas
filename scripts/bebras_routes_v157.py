@@ -137,7 +137,7 @@ def enrich_v157(d):
   'Docente registra centro, recibe instrucciones PDF de ViLLE y da de alta alumnos. Sin comunicar día concreto por anticipado. ES / EN / EU / CA disponibles a elección. Confirmar acceso de escuela / familia extranjera.'),note=T('Старт не означает открытую регистрацию ученика без школы. Интерактивные примеры на странице сами помечены как неофициальный прототип, не доказательство допуска или результата.',
   'Inicio no implica inscripción estudiantil sin escuela. Ejemplos interactivos de página marcados como prototipo no oficial, sin probar admisión ni resultado.'))
  for ident,url in [('C1050',CH),('C1056',FR)]:
-  e=rows[ident];e.update(checked=CHECKED,date_scope='assessment_window',osc=T('Условно: нужен опубликованный школьный минимум и язык; текущий класс не установлен.','Condicional: exige mínimo escolar publicado e idioma; curso actual sin establecer.'));e['references']=list({r['url']:r for r in e.get('references',[])+[ref('Current national announcement',url)]}.values())
+  e=rows[ident];e.update(checked=max(e.get('checked',''),CHECKED),date_scope='assessment_window',osc=T('Условно: нужен опубликованный школьный минимум и язык; текущий класс не установлен.','Condicional: exige mínimo escolar publicado e idioma; curso actual sin establecer.'));e['references']=list({r['url']:r for r in e.get('references',[])+[ref('Current national announcement',url)]}.values())
  rows['C1050']['cost']=FREE
  rows['C1056']['cost']=FREE
  rows['C1056']['note'] += '' if 'v157' in rows['C1056']['note'] else ' '+T('v157: даты 8 ноября–19 декабря взяты из повторённого объявления 2026; шаблонный текст о четырёх неделях ему не соответствует. CM1 и французский маршрут не заменяются возрастом 9.',

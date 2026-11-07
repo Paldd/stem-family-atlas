@@ -14486,6 +14486,246 @@ Limitaciones: Matvey: La edad es la adecuada; Acordar un apoyo suficiente en ing
 Fuente: https://www.bricksandrobots.nl/en/vakantiekampen/p/eindhoven-19-okt-2026
 Comprobado: 2026-10-05
 
+### CP103-20261221-20261222-christmas-ams-both · Bricks & Robots · campamentos de robótica · Amsterdam · 2 días · 2026-12-21–2026-12-22
+
+lugar: Países Bajos · Amsterdam · Oudeschans 46A
+Fecha: 2026-12-21 — 2026-12-22
+edad: 5.5–12 años en las fichas navideñas.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma principal es neerlandés. Los instructores usan ambos idiomas con niños anglófonos. Confirmar grupo y apoyo suficiente en EN.
+Marca lingüística: support; support: EN
+Precio: 2026/27 · 250 EUR por paquete de 2 días por niño. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad compatible para Navidad. Confirmar plaza y apoyo en inglés. Oscar: Edad compatible para Navidad. Confirmar plaza y apoyo en inglés. Suplementos: Llevar almuerzo, refrigerio y agua. Viaje y alojamiento aparte. Pago: Al cancelar con más de 7 días retienen 35 EUR. Después es posible reembolso si hay sustituto.
+Fuente: https://www.bricksandrobots.nl/en/vakantiekampen/p/amsterdam-kerstvakantie
+Se ha comprobado: 2026-11-07
+
+### CP103-20261221-20261221-christmas-ams-mon · Bricks & Robots · campamentos de robótica · Amsterdam · 1 días · 2026-12-21–2026-12-21
+
+lugar: Países Bajos · Amsterdam · Oudeschans 46A
+Fecha: 2026-12-21 — 2026-12-21
+edad: 5.5–12 años en las fichas navideñas.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma principal es neerlandés. Los instructores usan ambos idiomas con niños anglófonos. Confirmar grupo y apoyo suficiente en EN.
+Marca lingüística: support; support: EN
+Precio: 2026/27 · 140 EUR por paquete de 1 días por niño. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad compatible para Navidad. Confirmar plaza y apoyo en inglés. Oscar: Edad compatible para Navidad. Confirmar plaza y apoyo en inglés. Suplementos: Llevar almuerzo, refrigerio y agua. Viaje y alojamiento aparte. Pago: Al cancelar con más de 7 días retienen 35 EUR. Después es posible reembolso si hay sustituto.
+Fuente: https://www.bricksandrobots.nl/en/vakantiekampen/p/amsterdam-kerstvakantie
+Se ha comprobado: 2026-11-07
+
+### CP103-20261222-20261222-christmas-ams-tue · Bricks & Robots · campamentos de robótica · Amsterdam · 1 días · 2026-12-22–2026-12-22
+
+lugar: Países Bajos · Amsterdam · Oudeschans 46A
+Fecha: 2026-12-22 — 2026-12-22
+edad: 5.5–12 años en las fichas navideñas.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma principal es neerlandés. Los instructores usan ambos idiomas con niños anglófonos. Confirmar grupo y apoyo suficiente en EN.
+Marca lingüística: support; support: EN
+Precio: 2026/27 · 140 EUR por paquete de 1 días por niño. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad compatible para Navidad. Confirmar plaza y apoyo en inglés. Oscar: Edad compatible para Navidad. Confirmar plaza y apoyo en inglés. Suplementos: Llevar almuerzo, refrigerio y agua. Viaje y alojamiento aparte. Pago: Al cancelar con más de 7 días retienen 35 EUR. Después es posible reembolso si hay sustituto.
+Fuente: https://www.bricksandrobots.nl/en/vakantiekampen/p/amsterdam-kerstvakantie
+Se ha comprobado: 2026-11-07
+
+### CP103-20261221-20261222-christmas-dhg-both · Bricks & Robots · campamentos de robótica · Den Haag · 2 días · 2026-12-21–2026-12-22
+
+lugar: Países Bajos · Den Haag · Boekhorststraat 128
+Fecha: 2026-12-21 — 2026-12-22
+edad: 5.5–12 años en las fichas navideñas.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma principal es neerlandés. Los instructores usan ambos idiomas con niños anglófonos. Confirmar grupo y apoyo suficiente en EN.
+Marca lingüística: support; support: EN
+Precio: 2026/27 · 275 EUR por paquete de 2 días por niño. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad compatible para Navidad. Confirmar plaza y apoyo en inglés. Oscar: Edad compatible para Navidad. Confirmar plaza y apoyo en inglés. Suplementos: Llevar almuerzo, refrigerio y agua. Viaje y alojamiento aparte. Pago: Al cancelar con más de 7 días retienen 35 EUR. Después es posible reembolso si hay sustituto.
+Fuente: https://www.bricksandrobots.nl/en/vakantiekampen/p/den-haag-kerstvakantie
+Se ha comprobado: 2026-11-07
+
+### CP103-20261221-20261221-christmas-dhg-mon · Bricks & Robots · campamentos de robótica · Den Haag · 1 días · 2026-12-21–2026-12-21
+
+lugar: Países Bajos · Den Haag · Boekhorststraat 128
+Fecha: 2026-12-21 — 2026-12-21
+edad: 5.5–12 años en las fichas navideñas.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma principal es neerlandés. Los instructores usan ambos idiomas con niños anglófonos. Confirmar grupo y apoyo suficiente en EN.
+Marca lingüística: support; support: EN
+Precio: 2026/27 · 150 EUR por paquete de 1 días por niño. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad compatible para Navidad. Confirmar plaza y apoyo en inglés. Oscar: Edad compatible para Navidad. Confirmar plaza y apoyo en inglés. Suplementos: Llevar almuerzo, refrigerio y agua. Viaje y alojamiento aparte. Pago: Al cancelar con más de 7 días retienen 35 EUR. Después es posible reembolso si hay sustituto.
+Fuente: https://www.bricksandrobots.nl/en/vakantiekampen/p/den-haag-kerstvakantie
+Se ha comprobado: 2026-11-07
+
+### CP103-20261222-20261222-christmas-dhg-tue · Bricks & Robots · campamentos de robótica · Den Haag · 1 días · 2026-12-22–2026-12-22
+
+lugar: Países Bajos · Den Haag · Boekhorststraat 128
+Fecha: 2026-12-22 — 2026-12-22
+edad: 5.5–12 años en las fichas navideñas.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma principal es neerlandés. Los instructores usan ambos idiomas con niños anglófonos. Confirmar grupo y apoyo suficiente en EN.
+Marca lingüística: support; support: EN
+Precio: 2026/27 · 150 EUR por paquete de 1 días por niño. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad compatible para Navidad. Confirmar plaza y apoyo en inglés. Oscar: Edad compatible para Navidad. Confirmar plaza y apoyo en inglés. Suplementos: Llevar almuerzo, refrigerio y agua. Viaje y alojamiento aparte. Pago: Al cancelar con más de 7 días retienen 35 EUR. Después es posible reembolso si hay sustituto.
+Fuente: https://www.bricksandrobots.nl/en/vakantiekampen/p/den-haag-kerstvakantie
+Se ha comprobado: 2026-11-07
+
+### CP103-20261221-20261222-christmas-rtd-both · Bricks & Robots · campamentos de robótica · Rotterdam · 2 días · 2026-12-21–2026-12-22
+
+lugar: Países Bajos · Rotterdam · Mathenesserdijk 410C
+Fecha: 2026-12-21 — 2026-12-22
+edad: 5.5–12 años en las fichas navideñas.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma principal es neerlandés. Los instructores usan ambos idiomas con niños anglófonos. Confirmar grupo y apoyo suficiente en EN.
+Marca lingüística: support; support: EN
+Precio: 2026/27 · 150 EUR por paquete de 2 días por niño. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad compatible para Navidad. Confirmar plaza y apoyo en inglés. Oscar: Edad compatible para Navidad. Confirmar plaza y apoyo en inglés. Suplementos: Llevar almuerzo, refrigerio y agua. Viaje y alojamiento aparte. Pago: Al cancelar con más de 7 días retienen 35 EUR. Después es posible reembolso si hay sustituto.
+Fuente: https://www.bricksandrobots.nl/en/vakantiekampen/p/rotterdam-kerstvakantie
+Se ha comprobado: 2026-11-07
+
+### CP103-20261221-20261221-christmas-rtd-mon · Bricks & Robots · campamentos de robótica · Rotterdam · 1 días · 2026-12-21–2026-12-21
+
+lugar: Países Bajos · Rotterdam · Mathenesserdijk 410C
+Fecha: 2026-12-21 — 2026-12-21
+edad: 5.5–12 años en las fichas navideñas.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma principal es neerlandés. Los instructores usan ambos idiomas con niños anglófonos. Confirmar grupo y apoyo suficiente en EN.
+Marca lingüística: support; support: EN
+Precio: 2026/27 · 85 EUR por paquete de 1 días por niño. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad compatible para Navidad. Confirmar plaza y apoyo en inglés. Oscar: Edad compatible para Navidad. Confirmar plaza y apoyo en inglés. Suplementos: Llevar almuerzo, refrigerio y agua. Viaje y alojamiento aparte. Pago: Al cancelar con más de 7 días retienen 35 EUR. Después es posible reembolso si hay sustituto.
+Fuente: https://www.bricksandrobots.nl/en/vakantiekampen/p/rotterdam-kerstvakantie
+Se ha comprobado: 2026-11-07
+
+### CP103-20261222-20261222-christmas-rtd-tue · Bricks & Robots · campamentos de robótica · Rotterdam · 1 días · 2026-12-22–2026-12-22
+
+lugar: Países Bajos · Rotterdam · Mathenesserdijk 410C
+Fecha: 2026-12-22 — 2026-12-22
+edad: 5.5–12 años en las fichas navideñas.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma principal es neerlandés. Los instructores usan ambos idiomas con niños anglófonos. Confirmar grupo y apoyo suficiente en EN.
+Marca lingüística: support; support: EN
+Precio: 2026/27 · 85 EUR por paquete de 1 días por niño. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad compatible para Navidad. Confirmar plaza y apoyo en inglés. Oscar: Edad compatible para Navidad. Confirmar plaza y apoyo en inglés. Suplementos: Llevar almuerzo, refrigerio y agua. Viaje y alojamiento aparte. Pago: Al cancelar con más de 7 días retienen 35 EUR. Después es posible reembolso si hay sustituto.
+Fuente: https://www.bricksandrobots.nl/en/vakantiekampen/p/rotterdam-kerstvakantie
+Se ha comprobado: 2026-11-07
+
+### CP103-20261221-20261222-christmas-utr-both · Bricks & Robots · campamentos de robótica · Utrecht · 2 días · 2026-12-21–2026-12-22
+
+lugar: Países Bajos · Utrecht · Europalaan 2B
+Fecha: 2026-12-21 — 2026-12-22
+edad: 5.5–12 años en las fichas navideñas.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma principal es neerlandés. Los instructores usan ambos idiomas con niños anglófonos. Confirmar grupo y apoyo suficiente en EN.
+Marca lingüística: support; support: EN
+Precio: 2026/27 · 250 EUR por paquete de 2 días por niño. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad compatible para Navidad. Confirmar plaza y apoyo en inglés. Oscar: Edad compatible para Navidad. Confirmar plaza y apoyo en inglés. Suplementos: Llevar almuerzo, refrigerio y agua. Viaje y alojamiento aparte. Pago: Al cancelar con más de 7 días retienen 35 EUR. Después es posible reembolso si hay sustituto.
+Fuente: https://www.bricksandrobots.nl/en/vakantiekampen/p/utrecht-kerstvakantie
+Se ha comprobado: 2026-11-07
+
+### CP103-20261221-20261221-christmas-utr-mon · Bricks & Robots · campamentos de robótica · Utrecht · 1 días · 2026-12-21–2026-12-21
+
+lugar: Países Bajos · Utrecht · Europalaan 2B
+Fecha: 2026-12-21 — 2026-12-21
+edad: 5.5–12 años en las fichas navideñas.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma principal es neerlandés. Los instructores usan ambos idiomas con niños anglófonos. Confirmar grupo y apoyo suficiente en EN.
+Marca lingüística: support; support: EN
+Precio: 2026/27 · 140 EUR por paquete de 1 días por niño. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad compatible para Navidad. Confirmar plaza y apoyo en inglés. Oscar: Edad compatible para Navidad. Confirmar plaza y apoyo en inglés. Suplementos: Llevar almuerzo, refrigerio y agua. Viaje y alojamiento aparte. Pago: Al cancelar con más de 7 días retienen 35 EUR. Después es posible reembolso si hay sustituto.
+Fuente: https://www.bricksandrobots.nl/en/vakantiekampen/p/utrecht-kerstvakantie
+Se ha comprobado: 2026-11-07
+
+### CP103-20261222-20261222-christmas-utr-tue · Bricks & Robots · campamentos de robótica · Utrecht · 1 días · 2026-12-22–2026-12-22
+
+lugar: Países Bajos · Utrecht · Europalaan 2B
+Fecha: 2026-12-22 — 2026-12-22
+edad: 5.5–12 años en las fichas navideñas.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma principal es neerlandés. Los instructores usan ambos idiomas con niños anglófonos. Confirmar grupo y apoyo suficiente en EN.
+Marca lingüística: support; support: EN
+Precio: 2026/27 · 140 EUR por paquete de 1 días por niño. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad compatible para Navidad. Confirmar plaza y apoyo en inglés. Oscar: Edad compatible para Navidad. Confirmar plaza y apoyo en inglés. Suplementos: Llevar almuerzo, refrigerio y agua. Viaje y alojamiento aparte. Pago: Al cancelar con más de 7 días retienen 35 EUR. Después es posible reembolso si hay sustituto.
+Fuente: https://www.bricksandrobots.nl/en/vakantiekampen/p/utrecht-kerstvakantie
+Se ha comprobado: 2026-11-07
+
+### CP103-20261221-20261222-christmas-ein-both · Bricks & Robots · campamentos de robótica · Eindhoven · 2 días · 2026-12-21–2026-12-22
+
+lugar: Países Bajos · Eindhoven · Hurksestraat 19
+Fecha: 2026-12-21 — 2026-12-22
+edad: 5.5–12 años en las fichas navideñas.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma principal es neerlandés. Los instructores usan ambos idiomas con niños anglófonos. Confirmar grupo y apoyo suficiente en EN.
+Marca lingüística: support; support: EN
+Precio: 2026/27 · 250 EUR por paquete de 2 días por niño. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad compatible para Navidad. Confirmar plaza y apoyo en inglés. Oscar: Edad compatible para Navidad. Confirmar plaza y apoyo en inglés. Suplementos: Llevar almuerzo, refrigerio y agua. Viaje y alojamiento aparte. Pago: Al cancelar con más de 7 días retienen 35 EUR. Después es posible reembolso si hay sustituto.
+Fuente: https://www.bricksandrobots.nl/en/vakantiekampen/p/eindhoven-kerstvakantie
+Se ha comprobado: 2026-11-07
+
+### CP103-20261221-20261221-christmas-ein-mon · Bricks & Robots · campamentos de robótica · Eindhoven · 1 días · 2026-12-21–2026-12-21
+
+lugar: Países Bajos · Eindhoven · Hurksestraat 19
+Fecha: 2026-12-21 — 2026-12-21
+edad: 5.5–12 años en las fichas navideñas.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma principal es neerlandés. Los instructores usan ambos idiomas con niños anglófonos. Confirmar grupo y apoyo suficiente en EN.
+Marca lingüística: support; support: EN
+Precio: 2026/27 · 140 EUR por paquete de 1 días por niño. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad compatible para Navidad. Confirmar plaza y apoyo en inglés. Oscar: Edad compatible para Navidad. Confirmar plaza y apoyo en inglés. Suplementos: Llevar almuerzo, refrigerio y agua. Viaje y alojamiento aparte. Pago: Al cancelar con más de 7 días retienen 35 EUR. Después es posible reembolso si hay sustituto.
+Fuente: https://www.bricksandrobots.nl/en/vakantiekampen/p/eindhoven-kerstvakantie
+Se ha comprobado: 2026-11-07
+
+### CP103-20261222-20261222-christmas-ein-tue · Bricks & Robots · campamentos de robótica · Eindhoven · 1 días · 2026-12-22–2026-12-22
+
+lugar: Países Bajos · Eindhoven · Hurksestraat 19
+Fecha: 2026-12-22 — 2026-12-22
+edad: 5.5–12 años en las fichas navideñas.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma principal es neerlandés. Los instructores usan ambos idiomas con niños anglófonos. Confirmar grupo y apoyo suficiente en EN.
+Marca lingüística: support; support: EN
+Precio: 2026/27 · 140 EUR por paquete de 1 días por niño. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad compatible para Navidad. Confirmar plaza y apoyo en inglés. Oscar: Edad compatible para Navidad. Confirmar plaza y apoyo en inglés. Suplementos: Llevar almuerzo, refrigerio y agua. Viaje y alojamiento aparte. Pago: Al cancelar con más de 7 días retienen 35 EUR. Después es posible reembolso si hay sustituto.
+Fuente: https://www.bricksandrobots.nl/en/vakantiekampen/p/eindhoven-kerstvakantie
+Se ha comprobado: 2026-11-07
+
 ### CP107-20270104-20270106 · FOSC Helsinki · inglés outdoor-kanicula · Enero · 3 días · 2027-01-04________________2027-01-06
 
 Lugar: Finlandia · Helsinki · Selkämerenpusito
@@ -72564,6 +72804,70 @@ Precio: 2026/27 · 598 SGD por turno y menor. La organización indica que no se 
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad. Oscar: Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad. Suplementos: Traslado por solicitud separada, sin tarifa publicada. Pago: Confirmación tras pago íntegro y formulario. Turno sujeto a un mínimo de 3 participantes. Si no se alcanza, se anuncia devolución o traslado. Cancelaciones ordinarias bajo reglas aparte.
 Fuente: https://www.wonderswork.com.sg/school-holiday-camp/
+Se ha comprobado: 2026-11-07
+
+### CP1873-20261221-20261225-week-1 · Kid LEADER Hub · Winter Camp · Semana 1 · 2026-12-21–2026-12-25
+
+lugar: Vietnam · Midtown · Phú Mỹ Hưng · Hồ Chí Minh
+Fecha: 2026-12-21 — 2026-12-25
+edad: 5–7 años en el grupo menor y 8–12 en el mayor.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Inglés para conversar, aprender y presentar durante todo el programa según la organización.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · Precio bajo consulta por semana, materia o curso completo. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Compatible con el grupo de 8–12 años. Confirmar disponibilidad. Oscar: Compatible con el grupo de 5–7 años. Confirmar disponibilidad. Suplementos: Confirmar factura final, comidas, supervisión y dos plazas. Pago: Confirmar reglas de pago y cancelación antes de reservar.
+Fuente: https://kidleaderhub.com/courses/winter-camp/
+Se ha comprobado: 2026-11-07
+
+### CP1873-20261228-20261231-week-2 · Kid LEADER Hub · Winter Camp · Semana 2 · 2026-12-28–2026-12-31
+
+lugar: Vietnam · Midtown · Phú Mỹ Hưng · Hồ Chí Minh
+Fecha: 2026-12-28 - 2026-12-31
+edad: 5–7 años en el grupo menor y 8–12 en el mayor.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Inglés para conversar, aprender y presentar durante todo el programa según la organización.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · Precio bajo consulta por semana, materia o curso completo. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Compatible con el grupo de 8–12 años. Confirmar disponibilidad. Oscar: Compatible con el grupo de 5–7 años. Confirmar disponibilidad. Suplementos: Confirmar factura final, comidas, supervisión y dos plazas. Pago: Confirmar reglas de pago y cancelación antes de reservar.
+Fuente: https://kidleaderhub.com/courses/winter-camp/
+Se ha comprobado: 2026-11-07
+
+### CP1873-20270104-20270108-week-3 · Kid LEADER Hub · Winter Camp · Semana 3 · 2027-01-04–2027-01-08
+
+lugar: Vietnam · Midtown · Phú Mỹ Hưng · Hồ Chí Minh
+Fecha: 2027-01-04 — 2027-01-08
+edad: 5–7 años en el grupo menor y 8–12 en el mayor.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Inglés para conversar, aprender y presentar durante todo el programa según la organización.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · Precio bajo consulta por semana, materia o curso completo. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Compatible con el grupo de 8–12 años. Confirmar disponibilidad. Oscar: Compatible con el grupo de 5–7 años. Confirmar disponibilidad. Suplementos: Confirmar factura final, comidas, supervisión y dos plazas. Pago: Confirmar reglas de pago y cancelación antes de reservar.
+Fuente: https://kidleaderhub.com/courses/winter-camp/
+Se ha comprobado: 2026-11-07
+
+### CP1873-20261221-20270108-all-weeks · Kid LEADER Hub · Winter Camp · Curso completo, 14 días · 2026-12-21–2027-01-08
+
+lugar: Vietnam · Midtown · Phú Mỹ Hưng · Hồ Chí Minh
+Fecha: 2026-12-21 — 2027-01-08
+edad: 5–7 años en el grupo menor y 8–12 en el mayor.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Inglés para conversar, aprender y presentar durante todo el programa según la organización.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · Precio bajo consulta por semana, materia o curso completo. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Compatible con el grupo de 8–12 años. Confirmar disponibilidad. Oscar: Compatible con el grupo de 5–7 años. Confirmar disponibilidad. Suplementos: Confirmar factura final, comidas, supervisión y dos plazas. Pago: Confirmar reglas de pago y cancelación antes de reservar.
+Fuente: https://kidleaderhub.com/courses/winter-camp/
 Se ha comprobado: 2026-11-07
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

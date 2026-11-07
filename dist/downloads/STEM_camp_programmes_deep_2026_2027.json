@@ -30,7 +30,7 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1872,
+    "dossiers": 1873,
     "countries": 121,
     "swiss": 137,
     "by_status": {
@@ -38,7 +38,7 @@
       "published_2027": 509,
       "partial_2027": 141,
       "next_unannounced": 397,
-      "published_2026": 340,
+      "published_2026": 341,
       "partial_2026_27": 32,
       "partial_2026": 23,
       "archive_next_unannounced": 142,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2730
+    "source_urls": 2738
   },
   "countries": [
     {
@@ -133,7 +133,7 @@
     },
     {
       "country": "Вьетнам",
-      "count": 4
+      "count": 5
     },
     {
       "country": "Гаити",
@@ -17454,7 +17454,7 @@
     {
       "id": "CP103",
       "slug": "bricks-robots-nl",
-      "provider": "Bricks & Robots · осенние робототехнические лагеря",
+      "provider": "Bricks & Robots · робототехнические лагеря",
       "country": "Нидерланды",
       "iso": "NLD",
       "place": "Amsterdam / Den Haag / Rotterdam / Utrecht / Eindhoven",
@@ -17465,13 +17465,13 @@
       "formats": [
         "day"
       ],
-      "age": "6–12 в Amsterdam/Rotterdam; 5.5–12 в остальных площадках",
-      "language": "Основной язык голландский; для английских детей используют оба языка и стараются собрать группы по языку/возрасту. Это подтверждённая поддержка EN, а не полный английский курс.",
+      "age": "Возраст зависит от площадки и сезона. На Рождество 5.5–12 лет.",
+      "language": "Основной язык нидерландский. Для англоязычных детей инструкторы используют оба языка. Группу и достаточную поддержку EN согласовать.",
       "confirmed_instruction_languages": [],
       "programme": "LEGO Education: сборка и программирование в парах, ежедневные проекты и командные задачи. Свои наборы не нужны.",
       "timing": {
         "status": "published_2026",
-        "label": "12–15 октября 2026 Amsterdam; 19–22 октября остальные города. Rotterdam закрыт. В трёх городах также есть варианты 19–20 / 21–22 октября. Следующий сезон 2027 пока не опубликован.",
+        "label": "Архив октября 2026 сохранён. Рождественские варианты на 21 и 22 декабря 2026. Февральские страницы требуют сверки дат с кодами товаров.",
         "sessions": [
           [
             "2026-10-12",
@@ -17492,6 +17492,66 @@
           [
             "2026-10-19",
             "2026-10-22"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-22"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-21"
+          ],
+          [
+            "2026-12-22",
+            "2026-12-22"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-22"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-21"
+          ],
+          [
+            "2026-12-22",
+            "2026-12-22"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-22"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-21"
+          ],
+          [
+            "2026-12-22",
+            "2026-12-22"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-22"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-21"
+          ],
+          [
+            "2026-12-22",
+            "2026-12-22"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-22"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-21"
+          ],
+          [
+            "2026-12-22",
+            "2026-12-22"
           ]
         ],
         "session_details": [
@@ -17568,6 +17628,611 @@
             ],
             "age": "5.5–12",
             "date_scope": "day_camp_window"
+          },
+          {
+            "variant_key": "christmas-ams-both",
+            "start": "2026-12-21",
+            "end": "2026-12-22",
+            "label": "Amsterdam · 2 дн.",
+            "price": "250 EUR за пакет 2 дн. на ребёнка.",
+            "source": "https://www.bricksandrobots.nl/en/vakantiekampen/p/amsterdam-kerstvakantie",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Даты опубликованы. Наличие мест и зачисление не подтверждены."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Amsterdam",
+                "ical_timed": true,
+                "topic": "Сборка и программирование LEGO. Новый робот в каждый учебный день.",
+                "start_utc": "2026-12-21T08:00:00Z",
+                "end_utc": "2026-12-21T15:00:00Z"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Amsterdam",
+                "ical_timed": true,
+                "topic": "Сборка и программирование LEGO. Новый робот в каждый учебный день.",
+                "start_utc": "2026-12-22T08:00:00Z",
+                "end_utc": "2026-12-22T15:00:00Z"
+              }
+            ],
+            "place": "Amsterdam · Oudeschans 46A",
+            "age": "5.5–12 лет по карточкам рождественской смены.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Возраст подходит на рождественскую смену. Подтвердить место и английскую поддержку."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Возраст подходит на рождественскую смену. Подтвердить место и английскую поддержку."
+              }
+            }
+          },
+          {
+            "variant_key": "christmas-ams-mon",
+            "start": "2026-12-21",
+            "end": "2026-12-21",
+            "label": "Amsterdam · 1 дн.",
+            "price": "140 EUR за пакет 1 дн. на ребёнка.",
+            "source": "https://www.bricksandrobots.nl/en/vakantiekampen/p/amsterdam-kerstvakantie",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Даты опубликованы. Наличие мест и зачисление не подтверждены."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Amsterdam",
+                "ical_timed": true,
+                "topic": "Сборка и программирование LEGO. Новый робот в каждый учебный день.",
+                "start_utc": "2026-12-21T08:00:00Z",
+                "end_utc": "2026-12-21T15:00:00Z"
+              }
+            ],
+            "place": "Amsterdam · Oudeschans 46A",
+            "age": "5.5–12 лет по карточкам рождественской смены.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Возраст подходит на рождественскую смену. Подтвердить место и английскую поддержку."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Возраст подходит на рождественскую смену. Подтвердить место и английскую поддержку."
+              }
+            }
+          },
+          {
+            "variant_key": "christmas-ams-tue",
+            "start": "2026-12-22",
+            "end": "2026-12-22",
+            "label": "Amsterdam · 1 дн.",
+            "price": "140 EUR за пакет 1 дн. на ребёнка.",
+            "source": "https://www.bricksandrobots.nl/en/vakantiekampen/p/amsterdam-kerstvakantie",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Даты опубликованы. Наличие мест и зачисление не подтверждены."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Amsterdam",
+                "ical_timed": true,
+                "topic": "Сборка и программирование LEGO. Новый робот в каждый учебный день.",
+                "start_utc": "2026-12-22T08:00:00Z",
+                "end_utc": "2026-12-22T15:00:00Z"
+              }
+            ],
+            "place": "Amsterdam · Oudeschans 46A",
+            "age": "5.5–12 лет по карточкам рождественской смены.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Возраст подходит на рождественскую смену. Подтвердить место и английскую поддержку."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Возраст подходит на рождественскую смену. Подтвердить место и английскую поддержку."
+              }
+            }
+          },
+          {
+            "variant_key": "christmas-dhg-both",
+            "start": "2026-12-21",
+            "end": "2026-12-22",
+            "label": "Den Haag · 2 дн.",
+            "price": "275 EUR за пакет 2 дн. на ребёнка.",
+            "source": "https://www.bricksandrobots.nl/en/vakantiekampen/p/den-haag-kerstvakantie",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Даты опубликованы. Наличие мест и зачисление не подтверждены."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Amsterdam",
+                "ical_timed": true,
+                "topic": "Сборка и программирование LEGO. Новый робот в каждый учебный день.",
+                "start_utc": "2026-12-21T08:00:00Z",
+                "end_utc": "2026-12-21T15:00:00Z"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Amsterdam",
+                "ical_timed": true,
+                "topic": "Сборка и программирование LEGO. Новый робот в каждый учебный день.",
+                "start_utc": "2026-12-22T08:00:00Z",
+                "end_utc": "2026-12-22T15:00:00Z"
+              }
+            ],
+            "place": "Den Haag · Boekhorststraat 128",
+            "age": "5.5–12 лет по карточкам рождественской смены.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Возраст подходит на рождественскую смену. Подтвердить место и английскую поддержку."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Возраст подходит на рождественскую смену. Подтвердить место и английскую поддержку."
+              }
+            }
+          },
+          {
+            "variant_key": "christmas-dhg-mon",
+            "start": "2026-12-21",
+            "end": "2026-12-21",
+            "label": "Den Haag · 1 дн.",
+            "price": "150 EUR за пакет 1 дн. на ребёнка.",
+            "source": "https://www.bricksandrobots.nl/en/vakantiekampen/p/den-haag-kerstvakantie",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Даты опубликованы. Наличие мест и зачисление не подтверждены."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Amsterdam",
+                "ical_timed": true,
+                "topic": "Сборка и программирование LEGO. Новый робот в каждый учебный день.",
+                "start_utc": "2026-12-21T08:00:00Z",
+                "end_utc": "2026-12-21T15:00:00Z"
+              }
+            ],
+            "place": "Den Haag · Boekhorststraat 128",
+            "age": "5.5–12 лет по карточкам рождественской смены.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Возраст подходит на рождественскую смену. Подтвердить место и английскую поддержку."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Возраст подходит на рождественскую смену. Подтвердить место и английскую поддержку."
+              }
+            }
+          },
+          {
+            "variant_key": "christmas-dhg-tue",
+            "start": "2026-12-22",
+            "end": "2026-12-22",
+            "label": "Den Haag · 1 дн.",
+            "price": "150 EUR за пакет 1 дн. на ребёнка.",
+            "source": "https://www.bricksandrobots.nl/en/vakantiekampen/p/den-haag-kerstvakantie",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Даты опубликованы. Наличие мест и зачисление не подтверждены."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Amsterdam",
+                "ical_timed": true,
+                "topic": "Сборка и программирование LEGO. Новый робот в каждый учебный день.",
+                "start_utc": "2026-12-22T08:00:00Z",
+                "end_utc": "2026-12-22T15:00:00Z"
+              }
+            ],
+            "place": "Den Haag · Boekhorststraat 128",
+            "age": "5.5–12 лет по карточкам рождественской смены.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Возраст подходит на рождественскую смену. Подтвердить место и английскую поддержку."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Возраст подходит на рождественскую смену. Подтвердить место и английскую поддержку."
+              }
+            }
+          },
+          {
+            "variant_key": "christmas-rtd-both",
+            "start": "2026-12-21",
+            "end": "2026-12-22",
+            "label": "Rotterdam · 2 дн.",
+            "price": "150 EUR за пакет 2 дн. на ребёнка.",
+            "source": "https://www.bricksandrobots.nl/en/vakantiekampen/p/rotterdam-kerstvakantie",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "closed",
+              "label": "Вариант без свободных мест при проверке витрины."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Amsterdam",
+                "ical_timed": true,
+                "topic": "Сборка и программирование LEGO. Новый робот в каждый учебный день.",
+                "start_utc": "2026-12-21T08:00:00Z",
+                "end_utc": "2026-12-21T12:00:00Z"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Amsterdam",
+                "ical_timed": true,
+                "topic": "Сборка и программирование LEGO. Новый робот в каждый учебный день.",
+                "start_utc": "2026-12-22T08:00:00Z",
+                "end_utc": "2026-12-22T12:00:00Z"
+              }
+            ],
+            "place": "Rotterdam · Mathenesserdijk 410C",
+            "age": "5.5–12 лет по карточкам рождественской смены.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Возраст подходит на рождественскую смену. Подтвердить место и английскую поддержку."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Возраст подходит на рождественскую смену. Подтвердить место и английскую поддержку."
+              }
+            }
+          },
+          {
+            "variant_key": "christmas-rtd-mon",
+            "start": "2026-12-21",
+            "end": "2026-12-21",
+            "label": "Rotterdam · 1 дн.",
+            "price": "85 EUR за пакет 1 дн. на ребёнка.",
+            "source": "https://www.bricksandrobots.nl/en/vakantiekampen/p/rotterdam-kerstvakantie",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "closed",
+              "label": "Вариант без свободных мест при проверке витрины."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Amsterdam",
+                "ical_timed": true,
+                "topic": "Сборка и программирование LEGO. Новый робот в каждый учебный день.",
+                "start_utc": "2026-12-21T08:00:00Z",
+                "end_utc": "2026-12-21T12:00:00Z"
+              }
+            ],
+            "place": "Rotterdam · Mathenesserdijk 410C",
+            "age": "5.5–12 лет по карточкам рождественской смены.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Возраст подходит на рождественскую смену. Подтвердить место и английскую поддержку."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Возраст подходит на рождественскую смену. Подтвердить место и английскую поддержку."
+              }
+            }
+          },
+          {
+            "variant_key": "christmas-rtd-tue",
+            "start": "2026-12-22",
+            "end": "2026-12-22",
+            "label": "Rotterdam · 1 дн.",
+            "price": "85 EUR за пакет 1 дн. на ребёнка.",
+            "source": "https://www.bricksandrobots.nl/en/vakantiekampen/p/rotterdam-kerstvakantie",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "closed",
+              "label": "Вариант без свободных мест при проверке витрины."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Amsterdam",
+                "ical_timed": true,
+                "topic": "Сборка и программирование LEGO. Новый робот в каждый учебный день.",
+                "start_utc": "2026-12-22T08:00:00Z",
+                "end_utc": "2026-12-22T12:00:00Z"
+              }
+            ],
+            "place": "Rotterdam · Mathenesserdijk 410C",
+            "age": "5.5–12 лет по карточкам рождественской смены.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Возраст подходит на рождественскую смену. Подтвердить место и английскую поддержку."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Возраст подходит на рождественскую смену. Подтвердить место и английскую поддержку."
+              }
+            }
+          },
+          {
+            "variant_key": "christmas-utr-both",
+            "start": "2026-12-21",
+            "end": "2026-12-22",
+            "label": "Utrecht · 2 дн.",
+            "price": "250 EUR за пакет 2 дн. на ребёнка.",
+            "source": "https://www.bricksandrobots.nl/en/vakantiekampen/p/utrecht-kerstvakantie",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Даты опубликованы. Наличие мест и зачисление не подтверждены."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Amsterdam",
+                "ical_timed": true,
+                "topic": "Сборка и программирование LEGO. Новый робот в каждый учебный день.",
+                "start_utc": "2026-12-21T08:00:00Z",
+                "end_utc": "2026-12-21T15:00:00Z"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Amsterdam",
+                "ical_timed": true,
+                "topic": "Сборка и программирование LEGO. Новый робот в каждый учебный день.",
+                "start_utc": "2026-12-22T08:00:00Z",
+                "end_utc": "2026-12-22T15:00:00Z"
+              }
+            ],
+            "place": "Utrecht · Europalaan 2B",
+            "age": "5.5–12 лет по карточкам рождественской смены.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Возраст подходит на рождественскую смену. Подтвердить место и английскую поддержку."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Возраст подходит на рождественскую смену. Подтвердить место и английскую поддержку."
+              }
+            }
+          },
+          {
+            "variant_key": "christmas-utr-mon",
+            "start": "2026-12-21",
+            "end": "2026-12-21",
+            "label": "Utrecht · 1 дн.",
+            "price": "140 EUR за пакет 1 дн. на ребёнка.",
+            "source": "https://www.bricksandrobots.nl/en/vakantiekampen/p/utrecht-kerstvakantie",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Даты опубликованы. Наличие мест и зачисление не подтверждены."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Amsterdam",
+                "ical_timed": true,
+                "topic": "Сборка и программирование LEGO. Новый робот в каждый учебный день.",
+                "start_utc": "2026-12-21T08:00:00Z",
+                "end_utc": "2026-12-21T15:00:00Z"
+              }
+            ],
+            "place": "Utrecht · Europalaan 2B",
+            "age": "5.5–12 лет по карточкам рождественской смены.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Возраст подходит на рождественскую смену. Подтвердить место и английскую поддержку."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Возраст подходит на рождественскую смену. Подтвердить место и английскую поддержку."
+              }
+            }
+          },
+          {
+            "variant_key": "christmas-utr-tue",
+            "start": "2026-12-22",
+            "end": "2026-12-22",
+            "label": "Utrecht · 1 дн.",
+            "price": "140 EUR за пакет 1 дн. на ребёнка.",
+            "source": "https://www.bricksandrobots.nl/en/vakantiekampen/p/utrecht-kerstvakantie",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Даты опубликованы. Наличие мест и зачисление не подтверждены."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Amsterdam",
+                "ical_timed": true,
+                "topic": "Сборка и программирование LEGO. Новый робот в каждый учебный день.",
+                "start_utc": "2026-12-22T08:00:00Z",
+                "end_utc": "2026-12-22T15:00:00Z"
+              }
+            ],
+            "place": "Utrecht · Europalaan 2B",
+            "age": "5.5–12 лет по карточкам рождественской смены.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Возраст подходит на рождественскую смену. Подтвердить место и английскую поддержку."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Возраст подходит на рождественскую смену. Подтвердить место и английскую поддержку."
+              }
+            }
+          },
+          {
+            "variant_key": "christmas-ein-both",
+            "start": "2026-12-21",
+            "end": "2026-12-22",
+            "label": "Eindhoven · 2 дн.",
+            "price": "250 EUR за пакет 2 дн. на ребёнка.",
+            "source": "https://www.bricksandrobots.nl/en/vakantiekampen/p/eindhoven-kerstvakantie",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Даты опубликованы. Наличие мест и зачисление не подтверждены."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Amsterdam",
+                "ical_timed": true,
+                "topic": "Сборка и программирование LEGO. Новый робот в каждый учебный день.",
+                "start_utc": "2026-12-21T08:00:00Z",
+                "end_utc": "2026-12-21T15:00:00Z"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Amsterdam",
+                "ical_timed": true,
+                "topic": "Сборка и программирование LEGO. Новый робот в каждый учебный день.",
+                "start_utc": "2026-12-22T08:00:00Z",
+                "end_utc": "2026-12-22T15:00:00Z"
+              }
+            ],
+            "place": "Eindhoven · Hurksestraat 19",
+            "age": "5.5–12 лет по карточкам рождественской смены.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Возраст подходит на рождественскую смену. Подтвердить место и английскую поддержку."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Возраст подходит на рождественскую смену. Подтвердить место и английскую поддержку."
+              }
+            }
+          },
+          {
+            "variant_key": "christmas-ein-mon",
+            "start": "2026-12-21",
+            "end": "2026-12-21",
+            "label": "Eindhoven · 1 дн.",
+            "price": "140 EUR за пакет 1 дн. на ребёнка.",
+            "source": "https://www.bricksandrobots.nl/en/vakantiekampen/p/eindhoven-kerstvakantie",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Даты опубликованы. Наличие мест и зачисление не подтверждены."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Amsterdam",
+                "ical_timed": true,
+                "topic": "Сборка и программирование LEGO. Новый робот в каждый учебный день.",
+                "start_utc": "2026-12-21T08:00:00Z",
+                "end_utc": "2026-12-21T15:00:00Z"
+              }
+            ],
+            "place": "Eindhoven · Hurksestraat 19",
+            "age": "5.5–12 лет по карточкам рождественской смены.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Возраст подходит на рождественскую смену. Подтвердить место и английскую поддержку."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Возраст подходит на рождественскую смену. Подтвердить место и английскую поддержку."
+              }
+            }
+          },
+          {
+            "variant_key": "christmas-ein-tue",
+            "start": "2026-12-22",
+            "end": "2026-12-22",
+            "label": "Eindhoven · 1 дн.",
+            "price": "140 EUR за пакет 1 дн. на ребёнка.",
+            "source": "https://www.bricksandrobots.nl/en/vakantiekampen/p/eindhoven-kerstvakantie",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Даты опубликованы. Наличие мест и зачисление не подтверждены."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Amsterdam",
+                "ical_timed": true,
+                "topic": "Сборка и программирование LEGO. Новый робот в каждый учебный день.",
+                "start_utc": "2026-12-22T08:00:00Z",
+                "end_utc": "2026-12-22T15:00:00Z"
+              }
+            ],
+            "place": "Eindhoven · Hurksestraat 19",
+            "age": "5.5–12 лет по карточкам рождественской смены.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Возраст подходит на рождественскую смену. Подтвердить место и английскую поддержку."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Возраст подходит на рождественскую смену. Подтвердить место и английскую поддержку."
+              }
+            }
           }
         ],
         "variant_keyed": true,
@@ -17575,20 +18240,20 @@
       },
       "price": {
         "year": 2026,
-        "label": "Amsterdam EUR 395 / 4 дня; Rotterdam EUR 275 / 4 утра; остальные от EUR 250, пакет требует расчёта.",
-        "included": "LEGO-оборудование и занятия; дневные часы 09–16, Rotterdam 09–13.",
-        "extras": "Ланч/перекусы с собой; семья, дорога и парковка отдельно.",
-        "deposit": "Отмена более чем за 7 дней: возврат минус EUR 35; позже без возврата, кроме замены участника."
+        "label": "Рождественские цены указаны по каждому варианту. Октябрьские цены сохранены в архивных карточках.",
+        "included": "LEGO и занятия включены.",
+        "extras": "Принести обед, перекус и воду. Дорога и жильё отдельно.",
+        "deposit": "При отмене более чем за 7 дней удерживают 35 EUR. Позже возврат возможен при замене участника."
       },
       "accommodation": "Дневной формат; жильё и сопровождение семьи вне лагеря.",
       "family_fit": {
         "matvey": {
           "status": "conditional",
-          "detail": "Возраст подходит; согласовать достаточную английскую поддержку."
+          "detail": "Возраст подходит на рождественскую смену. Подтвердить место и английскую поддержку."
         },
         "oscar": {
           "status": "conditional",
-          "detail": "При 6-летии к смене; в трёх городах минимум 5.5. Нужна английская поддержка."
+          "detail": "Возраст подходит на рождественскую смену. Подтвердить место и английскую поддержку."
         }
       },
       "editorial_reason": "Ближайшая европейская LEGO-практика для обоих с точными площадками; языковое условие существенно.",
@@ -17597,7 +18262,7 @@
         "both"
       ],
       "questions": [
-        "Подтвердить EN-группу, наличие мест и цену выбранных 2/4 дней; Rotterdam сейчас только ожидание."
+        "Подтвердить английскую поддержку, две свободные позиции и итоговый счёт перед бронированием."
       ],
       "sources": [
         {
@@ -17629,10 +18294,53 @@
           "title": "Eindhoven · PLAN-B, Hurksestraat 19",
           "url": "https://www.bricksandrobots.nl/en/vakantiekampen/p/eindhoven-19-okt-2026",
           "checked": "2026-10-05"
+        },
+        {
+          "url": "https://www.bricksandrobots.nl/en/vakantiekampen/p/amsterdam-kerstvakantie",
+          "title": "Официальная страница или регламент организатора.",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.bricksandrobots.nl/en/vakantiekampen/p/den-haag-kerstvakantie",
+          "title": "Официальная страница или регламент организатора.",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.bricksandrobots.nl/en/vakantiekampen/p/rotterdam-kerstvakantie",
+          "title": "Официальная страница или регламент организатора.",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.bricksandrobots.nl/en/vakantiekampen/p/utrecht-kerstvakantie",
+          "title": "Официальная страница или регламент организатора.",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.bricksandrobots.nl/en/vakantiekampen/p/eindhoven-kerstvakantie",
+          "title": "Официальная страница или регламент организатора.",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.bricksandrobots.nl/en/vakantiekampen/p/den-haag-voorjaarsvakantie",
+          "title": "Официальная страница или регламент организатора.",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.bricksandrobots.nl/en/vakantiekampen/p/eindhoven-voorjaarsvakantie",
+          "title": "Официальная страница или регламент организатора.",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.bricksandrobots.nl/en/vakantiekampen/p/utrecht-voorjaarsvakantie",
+          "title": "Официальная страница или регламент организатора.",
+          "checked": "2026-11-07"
         }
       ],
-      "checked": "2026-10-05",
+      "checked": "2026-11-07",
       "language_evidence_role": "support",
+      "confirmed_support_languages": [
+        "EN"
+      ],
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -17673,6 +18381,126 @@
           "kind": "catalogue_session",
           "event_ids": [
             "CP103-20261019-20261022-eindhoven-4days"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP103-20261221-20261222-christmas-ams-both"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP103-20261221-20261221-christmas-ams-mon"
+          ]
+        },
+        {
+          "start": "2026-12-22",
+          "end": "2026-12-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP103-20261222-20261222-christmas-ams-tue"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP103-20261221-20261222-christmas-dhg-both"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP103-20261221-20261221-christmas-dhg-mon"
+          ]
+        },
+        {
+          "start": "2026-12-22",
+          "end": "2026-12-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP103-20261222-20261222-christmas-dhg-tue"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP103-20261221-20261222-christmas-rtd-both"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP103-20261221-20261221-christmas-rtd-mon"
+          ]
+        },
+        {
+          "start": "2026-12-22",
+          "end": "2026-12-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP103-20261222-20261222-christmas-rtd-tue"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP103-20261221-20261222-christmas-utr-both"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP103-20261221-20261221-christmas-utr-mon"
+          ]
+        },
+        {
+          "start": "2026-12-22",
+          "end": "2026-12-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP103-20261222-20261222-christmas-utr-tue"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP103-20261221-20261222-christmas-ein-both"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP103-20261221-20261221-christmas-ein-mon"
+          ]
+        },
+        {
+          "start": "2026-12-22",
+          "end": "2026-12-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP103-20261222-20261222-christmas-ein-tue"
           ]
         }
       ]
@@ -316485,6 +317313,476 @@
           ]
         }
       ]
+    },
+    {
+      "id": "CP1873",
+      "slug": "kid-leader-hub-winter-2026",
+      "provider": "Kid LEADER Hub · Winter Camp",
+      "country": "Вьетнам",
+      "iso": "VNM",
+      "place": "Midtown · Phú Mỹ Hưng · Hồ Chí Minh",
+      "age": "5–7 лет в младшей группе и 8–12 лет в старшей.",
+      "programme": "Младшие собирают LEGO SPIKE и создают игры в Scratch Jr. Старшие работают с датчиками, двигателями и Minecraft Education. В расписании также научные эксперименты, творчество и командные игры.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Английский для общения, занятий и презентаций в течение всей программы по описанию организатора.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2026",
+        "label": "21 декабря 2026 — 8 января 2027, по будням 09:00–15:15. 1 января занятий нет.",
+        "session_details": [
+          {
+            "variant_key": "week-1",
+            "start": "2026-12-21",
+            "end": "2026-12-25",
+            "label": "Неделя 1",
+            "price": "Цена по запросу за неделю, предмет или весь курс.",
+            "source": "https://kidleaderhub.com/courses/winter-camp/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Даты опубликованы. Наличие мест и зачисление не подтверждены."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "15:15",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "ical_timed": true,
+                "topic": "Младшие собирают LEGO SPIKE и создают игры в Scratch Jr. Старшие работают с датчиками, двигателями и Minecraft Education. В расписании также научные эксперименты, творчество и командные игры.",
+                "start_utc": "2026-12-21T02:00:00Z",
+                "end_utc": "2026-12-21T08:15:00Z"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "15:15",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "ical_timed": true,
+                "topic": "Младшие собирают LEGO SPIKE и создают игры в Scratch Jr. Старшие работают с датчиками, двигателями и Minecraft Education. В расписании также научные эксперименты, творчество и командные игры.",
+                "start_utc": "2026-12-22T02:00:00Z",
+                "end_utc": "2026-12-22T08:15:00Z"
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "09:00",
+                "end_time": "15:15",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "ical_timed": true,
+                "topic": "Младшие собирают LEGO SPIKE и создают игры в Scratch Jr. Старшие работают с датчиками, двигателями и Minecraft Education. В расписании также научные эксперименты, творчество и командные игры.",
+                "start_utc": "2026-12-23T02:00:00Z",
+                "end_utc": "2026-12-23T08:15:00Z"
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "09:00",
+                "end_time": "15:15",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "ical_timed": true,
+                "topic": "Младшие собирают LEGO SPIKE и создают игры в Scratch Jr. Старшие работают с датчиками, двигателями и Minecraft Education. В расписании также научные эксперименты, творчество и командные игры.",
+                "start_utc": "2026-12-24T02:00:00Z",
+                "end_utc": "2026-12-24T08:15:00Z"
+              },
+              {
+                "date": "2026-12-25",
+                "start_time": "09:00",
+                "end_time": "15:15",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "ical_timed": true,
+                "topic": "Младшие собирают LEGO SPIKE и создают игры в Scratch Jr. Старшие работают с датчиками, двигателями и Minecraft Education. В расписании также научные эксперименты, творчество и командные игры.",
+                "start_utc": "2026-12-25T02:00:00Z",
+                "end_utc": "2026-12-25T08:15:00Z"
+              }
+            ]
+          },
+          {
+            "variant_key": "week-2",
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "Неделя 2",
+            "price": "Цена по запросу за неделю, предмет или весь курс.",
+            "source": "https://kidleaderhub.com/courses/winter-camp/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Даты опубликованы. Наличие мест и зачисление не подтверждены."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "09:00",
+                "end_time": "15:15",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "ical_timed": true,
+                "topic": "Младшие собирают LEGO SPIKE и создают игры в Scratch Jr. Старшие работают с датчиками, двигателями и Minecraft Education. В расписании также научные эксперименты, творчество и командные игры.",
+                "start_utc": "2026-12-28T02:00:00Z",
+                "end_utc": "2026-12-28T08:15:00Z"
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:00",
+                "end_time": "15:15",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "ical_timed": true,
+                "topic": "Младшие собирают LEGO SPIKE и создают игры в Scratch Jr. Старшие работают с датчиками, двигателями и Minecraft Education. В расписании также научные эксперименты, творчество и командные игры.",
+                "start_utc": "2026-12-29T02:00:00Z",
+                "end_utc": "2026-12-29T08:15:00Z"
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "09:00",
+                "end_time": "15:15",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "ical_timed": true,
+                "topic": "Младшие собирают LEGO SPIKE и создают игры в Scratch Jr. Старшие работают с датчиками, двигателями и Minecraft Education. В расписании также научные эксперименты, творчество и командные игры.",
+                "start_utc": "2026-12-30T02:00:00Z",
+                "end_utc": "2026-12-30T08:15:00Z"
+              },
+              {
+                "date": "2026-12-31",
+                "start_time": "09:00",
+                "end_time": "15:15",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "ical_timed": true,
+                "topic": "Младшие собирают LEGO SPIKE и создают игры в Scratch Jr. Старшие работают с датчиками, двигателями и Minecraft Education. В расписании также научные эксперименты, творчество и командные игры.",
+                "start_utc": "2026-12-31T02:00:00Z",
+                "end_utc": "2026-12-31T08:15:00Z"
+              }
+            ]
+          },
+          {
+            "variant_key": "week-3",
+            "start": "2027-01-04",
+            "end": "2027-01-08",
+            "label": "Неделя 3",
+            "price": "Цена по запросу за неделю, предмет или весь курс.",
+            "source": "https://kidleaderhub.com/courses/winter-camp/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Даты опубликованы. Наличие мест и зачисление не подтверждены."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "start_time": "09:00",
+                "end_time": "15:15",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "ical_timed": true,
+                "topic": "Младшие собирают LEGO SPIKE и создают игры в Scratch Jr. Старшие работают с датчиками, двигателями и Minecraft Education. В расписании также научные эксперименты, творчество и командные игры.",
+                "start_utc": "2027-01-04T02:00:00Z",
+                "end_utc": "2027-01-04T08:15:00Z"
+              },
+              {
+                "date": "2027-01-05",
+                "start_time": "09:00",
+                "end_time": "15:15",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "ical_timed": true,
+                "topic": "Младшие собирают LEGO SPIKE и создают игры в Scratch Jr. Старшие работают с датчиками, двигателями и Minecraft Education. В расписании также научные эксперименты, творчество и командные игры.",
+                "start_utc": "2027-01-05T02:00:00Z",
+                "end_utc": "2027-01-05T08:15:00Z"
+              },
+              {
+                "date": "2027-01-06",
+                "start_time": "09:00",
+                "end_time": "15:15",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "ical_timed": true,
+                "topic": "Младшие собирают LEGO SPIKE и создают игры в Scratch Jr. Старшие работают с датчиками, двигателями и Minecraft Education. В расписании также научные эксперименты, творчество и командные игры.",
+                "start_utc": "2027-01-06T02:00:00Z",
+                "end_utc": "2027-01-06T08:15:00Z"
+              },
+              {
+                "date": "2027-01-07",
+                "start_time": "09:00",
+                "end_time": "15:15",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "ical_timed": true,
+                "topic": "Младшие собирают LEGO SPIKE и создают игры в Scratch Jr. Старшие работают с датчиками, двигателями и Minecraft Education. В расписании также научные эксперименты, творчество и командные игры.",
+                "start_utc": "2027-01-07T02:00:00Z",
+                "end_utc": "2027-01-07T08:15:00Z"
+              },
+              {
+                "date": "2027-01-08",
+                "start_time": "09:00",
+                "end_time": "15:15",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "ical_timed": true,
+                "topic": "Младшие собирают LEGO SPIKE и создают игры в Scratch Jr. Старшие работают с датчиками, двигателями и Minecraft Education. В расписании также научные эксперименты, творчество и командные игры.",
+                "start_utc": "2027-01-08T02:00:00Z",
+                "end_utc": "2027-01-08T08:15:00Z"
+              }
+            ]
+          },
+          {
+            "variant_key": "all-weeks",
+            "start": "2026-12-21",
+            "end": "2027-01-08",
+            "label": "Полный курс, 14 дней",
+            "price": "Цена по запросу за неделю, предмет или весь курс.",
+            "source": "https://kidleaderhub.com/courses/winter-camp/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Даты опубликованы. Наличие мест и зачисление не подтверждены."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "15:15",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "ical_timed": true,
+                "topic": "Младшие собирают LEGO SPIKE и создают игры в Scratch Jr. Старшие работают с датчиками, двигателями и Minecraft Education. В расписании также научные эксперименты, творчество и командные игры.",
+                "start_utc": "2026-12-21T02:00:00Z",
+                "end_utc": "2026-12-21T08:15:00Z"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "15:15",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "ical_timed": true,
+                "topic": "Младшие собирают LEGO SPIKE и создают игры в Scratch Jr. Старшие работают с датчиками, двигателями и Minecraft Education. В расписании также научные эксперименты, творчество и командные игры.",
+                "start_utc": "2026-12-22T02:00:00Z",
+                "end_utc": "2026-12-22T08:15:00Z"
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "09:00",
+                "end_time": "15:15",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "ical_timed": true,
+                "topic": "Младшие собирают LEGO SPIKE и создают игры в Scratch Jr. Старшие работают с датчиками, двигателями и Minecraft Education. В расписании также научные эксперименты, творчество и командные игры.",
+                "start_utc": "2026-12-23T02:00:00Z",
+                "end_utc": "2026-12-23T08:15:00Z"
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "09:00",
+                "end_time": "15:15",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "ical_timed": true,
+                "topic": "Младшие собирают LEGO SPIKE и создают игры в Scratch Jr. Старшие работают с датчиками, двигателями и Minecraft Education. В расписании также научные эксперименты, творчество и командные игры.",
+                "start_utc": "2026-12-24T02:00:00Z",
+                "end_utc": "2026-12-24T08:15:00Z"
+              },
+              {
+                "date": "2026-12-25",
+                "start_time": "09:00",
+                "end_time": "15:15",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "ical_timed": true,
+                "topic": "Младшие собирают LEGO SPIKE и создают игры в Scratch Jr. Старшие работают с датчиками, двигателями и Minecraft Education. В расписании также научные эксперименты, творчество и командные игры.",
+                "start_utc": "2026-12-25T02:00:00Z",
+                "end_utc": "2026-12-25T08:15:00Z"
+              },
+              {
+                "date": "2026-12-28",
+                "start_time": "09:00",
+                "end_time": "15:15",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "ical_timed": true,
+                "topic": "Младшие собирают LEGO SPIKE и создают игры в Scratch Jr. Старшие работают с датчиками, двигателями и Minecraft Education. В расписании также научные эксперименты, творчество и командные игры.",
+                "start_utc": "2026-12-28T02:00:00Z",
+                "end_utc": "2026-12-28T08:15:00Z"
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:00",
+                "end_time": "15:15",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "ical_timed": true,
+                "topic": "Младшие собирают LEGO SPIKE и создают игры в Scratch Jr. Старшие работают с датчиками, двигателями и Minecraft Education. В расписании также научные эксперименты, творчество и командные игры.",
+                "start_utc": "2026-12-29T02:00:00Z",
+                "end_utc": "2026-12-29T08:15:00Z"
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "09:00",
+                "end_time": "15:15",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "ical_timed": true,
+                "topic": "Младшие собирают LEGO SPIKE и создают игры в Scratch Jr. Старшие работают с датчиками, двигателями и Minecraft Education. В расписании также научные эксперименты, творчество и командные игры.",
+                "start_utc": "2026-12-30T02:00:00Z",
+                "end_utc": "2026-12-30T08:15:00Z"
+              },
+              {
+                "date": "2026-12-31",
+                "start_time": "09:00",
+                "end_time": "15:15",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "ical_timed": true,
+                "topic": "Младшие собирают LEGO SPIKE и создают игры в Scratch Jr. Старшие работают с датчиками, двигателями и Minecraft Education. В расписании также научные эксперименты, творчество и командные игры.",
+                "start_utc": "2026-12-31T02:00:00Z",
+                "end_utc": "2026-12-31T08:15:00Z"
+              },
+              {
+                "date": "2027-01-04",
+                "start_time": "09:00",
+                "end_time": "15:15",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "ical_timed": true,
+                "topic": "Младшие собирают LEGO SPIKE и создают игры в Scratch Jr. Старшие работают с датчиками, двигателями и Minecraft Education. В расписании также научные эксперименты, творчество и командные игры.",
+                "start_utc": "2027-01-04T02:00:00Z",
+                "end_utc": "2027-01-04T08:15:00Z"
+              },
+              {
+                "date": "2027-01-05",
+                "start_time": "09:00",
+                "end_time": "15:15",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "ical_timed": true,
+                "topic": "Младшие собирают LEGO SPIKE и создают игры в Scratch Jr. Старшие работают с датчиками, двигателями и Minecraft Education. В расписании также научные эксперименты, творчество и командные игры.",
+                "start_utc": "2027-01-05T02:00:00Z",
+                "end_utc": "2027-01-05T08:15:00Z"
+              },
+              {
+                "date": "2027-01-06",
+                "start_time": "09:00",
+                "end_time": "15:15",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "ical_timed": true,
+                "topic": "Младшие собирают LEGO SPIKE и создают игры в Scratch Jr. Старшие работают с датчиками, двигателями и Minecraft Education. В расписании также научные эксперименты, творчество и командные игры.",
+                "start_utc": "2027-01-06T02:00:00Z",
+                "end_utc": "2027-01-06T08:15:00Z"
+              },
+              {
+                "date": "2027-01-07",
+                "start_time": "09:00",
+                "end_time": "15:15",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "ical_timed": true,
+                "topic": "Младшие собирают LEGO SPIKE и создают игры в Scratch Jr. Старшие работают с датчиками, двигателями и Minecraft Education. В расписании также научные эксперименты, творчество и командные игры.",
+                "start_utc": "2027-01-07T02:00:00Z",
+                "end_utc": "2027-01-07T08:15:00Z"
+              },
+              {
+                "date": "2027-01-08",
+                "start_time": "09:00",
+                "end_time": "15:15",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "ical_timed": true,
+                "topic": "Младшие собирают LEGO SPIKE и создают игры в Scratch Jr. Старшие работают с датчиками, двигателями и Minecraft Education. В расписании также научные эксперименты, творчество и командные игры.",
+                "start_utc": "2027-01-08T02:00:00Z",
+                "end_utc": "2027-01-08T08:15:00Z"
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-25"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ],
+          [
+            "2027-01-04",
+            "2027-01-08"
+          ],
+          [
+            "2026-12-21",
+            "2027-01-08"
+          ]
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "VND",
+        "amount": null,
+        "unit": "quote",
+        "label": "Цена по запросу за неделю, предмет или весь курс.",
+        "included": "Организатор предоставляет оборудование и материалы для занятий.",
+        "extras": "Подтвердить итоговый счёт, питание, сопровождение и наличие двух мест.",
+        "deposit": "Правила оплаты и отмены уточнить до брони."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Подходит группа 8–12 лет. Наличие места уточнить."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Подходит группа 5–7 лет. Наличие места уточнить."
+        }
+      },
+      "editorial_reason": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "shortlist": [
+        "technical",
+        "both"
+      ],
+      "questions": [
+        "Подтвердить итоговый счёт, питание, сопровождение и наличие двух мест."
+      ],
+      "sources": [
+        {
+          "url": "https://kidleaderhub.com/courses/winter-camp/",
+          "title": "Официальная страница или регламент организатора.",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://kidleaderhub.com/winter-camp-tphcm/",
+          "title": "Официальная страница или регламент организатора.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "science",
+        "engineering"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-25",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1873-20261221-20261225-week-1"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1873-20261228-20261231-week-2"
+          ]
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1873-20270104-20270108-week-3"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2027-01-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1873-20261221-20270108-all-weeks"
+          ]
+        }
+      ]
     }
   ],
   "gaps": [
@@ -321810,7 +323108,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 243,
+  "version": 244,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -335045,7 +336343,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1872,
+      "total_dossiers": 1873,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -336772,6 +338070,81 @@
     {
       "programme_id": "CP103",
       "event_id": "CP103-20261019-20261022-eindhoven-4days",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP103",
+      "event_id": "CP103-20261221-20261222-christmas-ams-both",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP103",
+      "event_id": "CP103-20261221-20261221-christmas-ams-mon",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP103",
+      "event_id": "CP103-20261222-20261222-christmas-ams-tue",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP103",
+      "event_id": "CP103-20261221-20261222-christmas-dhg-both",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP103",
+      "event_id": "CP103-20261221-20261221-christmas-dhg-mon",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP103",
+      "event_id": "CP103-20261222-20261222-christmas-dhg-tue",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP103",
+      "event_id": "CP103-20261221-20261222-christmas-rtd-both",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP103",
+      "event_id": "CP103-20261221-20261221-christmas-rtd-mon",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP103",
+      "event_id": "CP103-20261222-20261222-christmas-rtd-tue",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP103",
+      "event_id": "CP103-20261221-20261222-christmas-utr-both",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP103",
+      "event_id": "CP103-20261221-20261221-christmas-utr-mon",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP103",
+      "event_id": "CP103-20261222-20261222-christmas-utr-tue",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP103",
+      "event_id": "CP103-20261221-20261222-christmas-ein-both",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP103",
+      "event_id": "CP103-20261221-20261221-christmas-ein-mon",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP103",
+      "event_id": "CP103-20261222-20261222-christmas-ein-tue",
       "relation": "catalogue_session"
     },
     {
@@ -355690,6 +357063,26 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP1873",
+      "event_id": "CP1873-20261221-20261225-week-1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1873",
+      "event_id": "CP1873-20261228-20261231-week-2",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1873",
+      "event_id": "CP1873-20270104-20270108-week-3",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1873",
+      "event_id": "CP1873-20261221-20270108-all-weeks",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -356403,6 +357796,21 @@
     "CP103-20261019-20261022-rotterdam-4days",
     "CP103-20261019-20261022-utrecht-4days",
     "CP103-20261019-20261022-eindhoven-4days",
+    "CP103-20261221-20261222-christmas-ams-both",
+    "CP103-20261221-20261221-christmas-ams-mon",
+    "CP103-20261222-20261222-christmas-ams-tue",
+    "CP103-20261221-20261222-christmas-dhg-both",
+    "CP103-20261221-20261221-christmas-dhg-mon",
+    "CP103-20261222-20261222-christmas-dhg-tue",
+    "CP103-20261221-20261222-christmas-rtd-both",
+    "CP103-20261221-20261221-christmas-rtd-mon",
+    "CP103-20261222-20261222-christmas-rtd-tue",
+    "CP103-20261221-20261222-christmas-utr-both",
+    "CP103-20261221-20261221-christmas-utr-mon",
+    "CP103-20261222-20261222-christmas-utr-tue",
+    "CP103-20261221-20261222-christmas-ein-both",
+    "CP103-20261221-20261221-christmas-ein-mon",
+    "CP103-20261222-20261222-christmas-ein-tue",
     "CP107-20270104-20270106",
     "CP107-20270222-20270226",
     "CP107-20270325-20270329",
@@ -360032,10 +361440,14 @@
     "CP1872-20261123-20261125-camp1",
     "CP1872-20261207-20261209-camp2",
     "CP1872-20261214-20261216-camp3",
-    "CP1872-20261221-20261223-camp4"
+    "CP1872-20261221-20261223-camp4",
+    "CP1873-20261221-20261225-week-1",
+    "CP1873-20261228-20261231-week-2",
+    "CP1873-20270104-20270108-week-3",
+    "CP1873-20261221-20270108-all-weeks"
   ],
   "integration": {
-    "generated_sessions": 3912,
+    "generated_sessions": 3931,
     "reused_legacy_events": 73,
     "seasonal_windows": 73,
     "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."

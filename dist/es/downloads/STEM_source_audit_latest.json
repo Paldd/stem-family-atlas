@@ -16,14 +16,14 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 8527,
-    "competition_cards": 3464,
-    "event_cards": 452,
-    "camp_cards": 4611,
+    "cards": 8555,
+    "competition_cards": 3470,
+    "event_cards": 455,
+    "camp_cards": 4630,
     "league_profiles": 288,
-    "major_exhibition_cards": 362,
+    "major_exhibition_cards": 365,
     "vex_cards": 521,
-    "countries_with_records": 190,
+    "countries_with_records": 195,
     "fully_audited_countries": 0
   },
   "continents": [
@@ -34,11 +34,11 @@
         "América Central",
         "Caribe"
       ],
-      "total": 2852,
+      "total": 2854,
       "countries_with_records": 35,
-      "competitions": 1523,
-      "events": 114,
-      "major_exhibitions": 78,
+      "competitions": 1524,
+      "events": 115,
+      "major_exhibitions": 79,
       "camps": 1215,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
@@ -62,12 +62,12 @@
       "regions": [
         "Europa"
       ],
-      "total": 1926,
-      "countries_with_records": 45,
-      "competitions": 443,
+      "total": 1942,
+      "countries_with_records": 46,
+      "competitions": 444,
       "events": 107,
       "major_exhibitions": 87,
-      "camps": 1376,
+      "camps": 1391,
       "status": "Se ha estudiado parcialmente",
       "remaining": "CHE/ESP/FRA se profundizan de nuevo. No están cerradas todas las ligas locales, Nuevos qualifiers 2027, enseñanza en inglés / en español, cuotas extranjeras, de la actualidad juniormentors y los protocolos escolares completos 5–10 años. Alemania / Países Bajos / Bélgica: el primer paso parcial; todos los clubes locales, lenguas, Cuotas extranjeras y resultados escolares completos permanecen abiertos."
     },
@@ -76,11 +76,11 @@
       "regions": [
         "África"
       ],
-      "total": 247,
-      "countries_with_records": 38,
-      "competitions": 138,
-      "events": 33,
-      "major_exhibitions": 25,
+      "total": 253,
+      "countries_with_records": 43,
+      "competitions": 142,
+      "events": 35,
+      "major_exhibitions": 27,
       "camps": 76,
       "status": "Se ha estudiado parcialmente",
       "remaining": "Antes de la ampliación casi todas las competiciones fueron en Sudáfrica. se añadió PARC Senegal; Maghreb, África Oriental / Oeste y selecciones locales siguen siendo vacíos."
@@ -90,12 +90,12 @@
       "regions": [
         "Asia"
       ],
-      "total": 2542,
+      "total": 2546,
       "countries_with_records": 47,
       "competitions": 854,
       "events": 127,
       "major_exhibitions": 114,
-      "camps": 1561,
+      "camps": 1565,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido India camp candidates y las primeras rutas de Pakistán / Bangladesh / Sri Lanka. no todos los nacionales calificados, las lenguas y la admisión extranjera están cerrados; otros países asiáticos han sido parcialmente investigados."
     },
@@ -11514,6 +11514,39 @@
       "new": false
     },
     {
+      "id": "E453",
+      "name": "CGROBOTICS 2026 · démonstrations à Pointe-Noire",
+      "country": "Congo",
+      "region": "África",
+      "start": "2026-11-13",
+      "end": "2026-11-14",
+      "visitor_policy": "confirm_children",
+      "source": "https://cgrobotics.crte.tech/jy-serai",
+      "new": false
+    },
+    {
+      "id": "E454",
+      "name": "Arduino Day 2026 · University of Malawi",
+      "country": "Malaui",
+      "region": "África",
+      "start": "2026-03-28",
+      "end": "2026-03-28",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.unima.ac.mw/news/single-post/unima-hosts-arduino-day-2026-07-04-2026",
+      "new": false
+    },
+    {
+      "id": "E455",
+      "name": "National Science and Innovation Fair 2026 · public exhibition",
+      "country": "Islas Vírgenes Británicas",
+      "region": "Caribe",
+      "start": "2026-03-19",
+      "end": "2026-03-20",
+      "visitor_policy": "family",
+      "source": "https://www.gov.vg/news/over-three-hundred-students-showcase-projects-national-science-and-innovation-fair",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -13931,15 +13964,15 @@
       }
     ],
     "counts": {
-      "records": 4611,
-      "holiday": 4313,
+      "records": 4630,
+      "holiday": 4332,
       "regular": 139,
       "self_paced_materials": 2,
       "boarding": 1036,
-      "en_es_instruction": 1428,
-      "en_es_support": 12,
-      "family_instruction": 1428,
-      "family_support": 12,
+      "en_es_instruction": 1432,
+      "en_es_support": 27,
+      "family_instruction": 1432,
+      "family_support": 27,
       "ru_instruction": 4,
       "language_lessons": 410,
       "camp_life_language": 228,

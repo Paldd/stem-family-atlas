@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-07. 1872 fichas en 121 países. Las fechas de cotejo de las fuentes se indican en cada ficha.
+Estado de la base al 2026-11-07. 1873 dosieres en 121 países. Las fechas de verificación de las fuentes constan en cada dosier.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -208,7 +208,7 @@ GowReads: 26–29 de octubre 2026, 5–14 años, de la enseñanza en EN. Bricks 
 
 - GowReads · Autumn STEAM & Sports · Suecia · El campo más cercano, claramente inglés, STEAM para ambos, con un terreno y un precio publicados.
 
-- Bricks & Robots · Campamentos robóticos de otoño · Países Bajos · La práctica más cercana de Europa, LEGO, para ambos con zonas exactas; la condición lingüística es esencial.
+- Bricks & Robots · campamentos de robótica · Países Bajos · La práctica europea más próxima para LEGO es que ambos tienen plataformas precisas; la lenguaje es esencial.
 
 ### Europa septentrional - Ciencia y construcción familiar
 
@@ -1066,7 +1066,7 @@ NewTechKids8–12, Dutch/English; tres líneas de calendario existentes están l
 
 - NewTechKids · After Christmas robots & art · Países Bajos · Los días cortos de otoño y Navidad más próximos de Matway; la línea actual L134 está vinculada sin duplicar el calendario.
 
-- Bricks & Robots · Campamentos robóticos de otoño · Países Bajos · La práctica más cercana de Europa, LEGO, para ambos con zonas exactas; la condición lingüística es esencial.
+- Bricks & Robots · campamentos de robótica · Países Bajos · La práctica europea más próxima para LEGO es que ambos tienen plataformas precisas; la lenguaje es esencial.
 
 ### Suiza - Junto con dos hermanos
 
@@ -12652,39 +12652,39 @@ Colombia - Operador en Valledupar / Cesar; hotel de temporada no instalado
 
 - [tablas publicadas de cancelación](https://campoaventuras.com/legal.php?seccion=cancelacion) · 2026-10-04
 
-## CP103 · Bricks & Robots · campamentos de robotecnia de otoño
+## CP103 · Bricks & Robots · campamentos de robótica
 
 Países Bajos · Amsterdam / Den Haag / Rotterdam / Utrecht / Eindhoven
 
-** Verificado:** 2026-10-05
+**Se ha comprobado:** 2026-11-07
 
-**Edad:** 6–12 en Amsterdam/Rotterdam; 5.5–12 en el resto de los emplazamientos
+**edad:** La edad depende de sede y temporada. En Navidad 5.5–12 años.
 
-** Idioma:** Idioma principal neerlandés; los niños ingleses utilizan ambos idiomas y tratan de reunir grupos de idioma/edad, lo que constituye un apoyo confirmado a la EN y no a un curso completo de inglés.
+**Idioma:** El idioma principal es neerlandés. Los instructores usan ambos idiomas con niños anglófonos. Confirmar grupo y apoyo suficiente en EN.
 
 ** Programa:** LEGO Education: ensamblaje y programación en parejas, proyectos diarios y tareas de mando.
 
 ** Residencia:** Formato diario; alojamiento y acompañamiento de la familia fuera del campamento.
 
-**Fechas / situación:** 12–15 octubre 2026 Amsterdam; 19–22 Otras ciudades. Rotterdam Cerrado. Tres ciudades también tienen opciones. 19–20 / 21–22 octubre. La próxima temporada. 2027 No se ha publicado aún.
+**Fechas / estado:** Se conserva el archivo de octubre de 2026. Opciones navideñas el 21 y 22 de diciembre de 2026. Las páginas de febrero requieren cotejar fechas con códigos de producto.
 
-**Cena/año:**2026 · Amsterdam EUR 395 / 4 días; Rotterdam EUR 275 / 4 horas; el resto de EUR 250, el paquete requiere un cálculo.
+**Precio / año:** 2026 · Precios navideños por opción. Precios de octubre conservados en fichas de archivo.
 
-**Activado:** LEGO-Equipo y ocupaciones; Horas diarias 09–16, Rotterdam 09–13.
+**Incluido:** LEGO y actividades incluidos.
 
-** Pagadero:** Lunch/regalo con él; familia, carretera y estacionamiento separados.
+**Suplementos:** Llevar almuerzo, refrigerio y agua. Viaje y alojamiento aparte.
 
-**Pago:** Retirar por más de 7 días: devuelve menos EUR 35; más tarde sin retorno, excepto la sustitución de un afiliado.
+**Pago:** Al cancelar con más de 7 días retienen 35 EUR. Después es posible reembolso si hay sustituto.
 
-** Matwey: ** La edad es adecuada; se acuerda un apoyo suficiente en inglés.
+**Matvey:** Edad compatible para Navidad. Confirmar plaza y apoyo en inglés.
 
-**Oscar: ** Con 6 años de servicio; en tres ciudades, al menos 5.5.
+**Oscar:** Edad compatible para Navidad. Confirmar plaza y apoyo en inglés.
 
 ** Por qué en la selección:** La práctica más cercana de la UE, LEGO, para ambos con lugares precisos; la condición lingüística es importante.
 
 ### Antes de solicitar plaza
 
-- Confirmar el grupo EN, la disponibilidad de asientos y el precio de los 2/4 días elegidos; Rotterdam ahora es sólo una espera.
+- Confirmar apoyo en inglés, dos plazas disponibles y factura final antes de reservar.
 
 ### Amsterdam · 4 días
 
@@ -12748,6 +12748,316 @@ Países Bajos · Amsterdam / Den Haag / Rotterdam / Utrecht / Eindhoven
 
 [fuente](https://www.bricksandrobots.nl/en/vakantiekampen/p/eindhoven-19-okt-2026)
 
+### Amsterdam · 2 días
+
+**Fechas / estado:** 2026-12-21 — 2026-12-22
+
+**lugar:** Amsterdam · Oudeschans 46A
+
+**edad:** 5.5–12 años en las fichas navideñas.
+
+**Precio:** 250 EUR por paquete de 2 días por niño.
+
+- 2026-12-21 · 09:00–16:00 · Europe/Amsterdam · Montaje y programación con LEGO. Un robot nuevo cada día lectivo.
+
+- 2026-12-22 · 09:00–16:00 · Europe/Amsterdam · Montaje y programación con LEGO. Un robot nuevo cada día lectivo.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+**Matvey:** Edad compatible para Navidad. Confirmar plaza y apoyo en inglés.
+
+**Oscar:** Edad compatible para Navidad. Confirmar plaza y apoyo en inglés.
+
+[fuente](https://www.bricksandrobots.nl/en/vakantiekampen/p/amsterdam-kerstvakantie)
+
+### Amsterdam · 1 días
+
+**Fechas / estado:** 2026-12-21 — 2026-12-21
+
+**lugar:** Amsterdam · Oudeschans 46A
+
+**edad:** 5.5–12 años en las fichas navideñas.
+
+**Precio:** 140 EUR por paquete de 1 días por niño.
+
+- 2026-12-21 · 09:00–16:00 · Europe/Amsterdam · Montaje y programación con LEGO. Un robot nuevo cada día lectivo.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+**Matvey:** Edad compatible para Navidad. Confirmar plaza y apoyo en inglés.
+
+**Oscar:** Edad compatible para Navidad. Confirmar plaza y apoyo en inglés.
+
+[fuente](https://www.bricksandrobots.nl/en/vakantiekampen/p/amsterdam-kerstvakantie)
+
+### Amsterdam · 1 días
+
+**Fechas / estado:** 2026-12-22 — 2026-12-22
+
+**lugar:** Amsterdam · Oudeschans 46A
+
+**edad:** 5.5–12 años en las fichas navideñas.
+
+**Precio:** 140 EUR por paquete de 1 días por niño.
+
+- 2026-12-22 · 09:00–16:00 · Europe/Amsterdam · Montaje y programación con LEGO. Un robot nuevo cada día lectivo.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+**Matvey:** Edad compatible para Navidad. Confirmar plaza y apoyo en inglés.
+
+**Oscar:** Edad compatible para Navidad. Confirmar plaza y apoyo en inglés.
+
+[fuente](https://www.bricksandrobots.nl/en/vakantiekampen/p/amsterdam-kerstvakantie)
+
+### Den Haag · 2 días
+
+**Fechas / estado:** 2026-12-21 — 2026-12-22
+
+**lugar:** Den Haag · Boekhorststraat 128
+
+**edad:** 5.5–12 años en las fichas navideñas.
+
+**Precio:** 275 EUR por paquete de 2 días por niño.
+
+- 2026-12-21 · 09:00–16:00 · Europe/Amsterdam · Montaje y programación con LEGO. Un robot nuevo cada día lectivo.
+
+- 2026-12-22 · 09:00–16:00 · Europe/Amsterdam · Montaje y programación con LEGO. Un robot nuevo cada día lectivo.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+**Matvey:** Edad compatible para Navidad. Confirmar plaza y apoyo en inglés.
+
+**Oscar:** Edad compatible para Navidad. Confirmar plaza y apoyo en inglés.
+
+[fuente](https://www.bricksandrobots.nl/en/vakantiekampen/p/den-haag-kerstvakantie)
+
+### Den Haag · 1 días
+
+**Fechas / estado:** 2026-12-21 — 2026-12-21
+
+**lugar:** Den Haag · Boekhorststraat 128
+
+**edad:** 5.5–12 años en las fichas navideñas.
+
+**Precio:** 150 EUR por paquete de 1 días por niño.
+
+- 2026-12-21 · 09:00–16:00 · Europe/Amsterdam · Montaje y programación con LEGO. Un robot nuevo cada día lectivo.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+**Matvey:** Edad compatible para Navidad. Confirmar plaza y apoyo en inglés.
+
+**Oscar:** Edad compatible para Navidad. Confirmar plaza y apoyo en inglés.
+
+[fuente](https://www.bricksandrobots.nl/en/vakantiekampen/p/den-haag-kerstvakantie)
+
+### Den Haag · 1 días
+
+**Fechas / estado:** 2026-12-22 — 2026-12-22
+
+**lugar:** Den Haag · Boekhorststraat 128
+
+**edad:** 5.5–12 años en las fichas navideñas.
+
+**Precio:** 150 EUR por paquete de 1 días por niño.
+
+- 2026-12-22 · 09:00–16:00 · Europe/Amsterdam · Montaje y programación con LEGO. Un robot nuevo cada día lectivo.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+**Matvey:** Edad compatible para Navidad. Confirmar plaza y apoyo en inglés.
+
+**Oscar:** Edad compatible para Navidad. Confirmar plaza y apoyo en inglés.
+
+[fuente](https://www.bricksandrobots.nl/en/vakantiekampen/p/den-haag-kerstvakantie)
+
+### Rotterdam · 2 días
+
+**Fechas / estado:** 2026-12-21 — 2026-12-22
+
+**lugar:** Rotterdam · Mathenesserdijk 410C
+
+**edad:** 5.5–12 años en las fichas navideñas.
+
+**Precio:** 150 EUR por paquete de 2 días por niño.
+
+- 2026-12-21 · 09:00–13:00 · Europe/Amsterdam · Montaje y programación con LEGO. Un robot nuevo cada día lectivo.
+
+- 2026-12-22 · 09:00–13:00 · Europe/Amsterdam · Montaje y programación con LEGO. Un robot nuevo cada día lectivo.
+
+**Disponibilidad de plazas:** Opción sin plazas al consultar la tienda.
+
+**Matvey:** Edad compatible para Navidad. Confirmar plaza y apoyo en inglés.
+
+**Oscar:** Edad compatible para Navidad. Confirmar plaza y apoyo en inglés.
+
+[fuente](https://www.bricksandrobots.nl/en/vakantiekampen/p/rotterdam-kerstvakantie)
+
+### Rotterdam · 1 días
+
+**Fechas / estado:** 2026-12-21 — 2026-12-21
+
+**lugar:** Rotterdam · Mathenesserdijk 410C
+
+**edad:** 5.5–12 años en las fichas navideñas.
+
+**Precio:** 85 EUR por paquete de 1 días por niño.
+
+- 2026-12-21 · 09:00–13:00 · Europe/Amsterdam · Montaje y programación con LEGO. Un robot nuevo cada día lectivo.
+
+**Disponibilidad de plazas:** Opción sin plazas al consultar la tienda.
+
+**Matvey:** Edad compatible para Navidad. Confirmar plaza y apoyo en inglés.
+
+**Oscar:** Edad compatible para Navidad. Confirmar plaza y apoyo en inglés.
+
+[fuente](https://www.bricksandrobots.nl/en/vakantiekampen/p/rotterdam-kerstvakantie)
+
+### Rotterdam · 1 días
+
+**Fechas / estado:** 2026-12-22 — 2026-12-22
+
+**lugar:** Rotterdam · Mathenesserdijk 410C
+
+**edad:** 5.5–12 años en las fichas navideñas.
+
+**Precio:** 85 EUR por paquete de 1 días por niño.
+
+- 2026-12-22 · 09:00–13:00 · Europe/Amsterdam · Montaje y programación con LEGO. Un robot nuevo cada día lectivo.
+
+**Disponibilidad de plazas:** Opción sin plazas al consultar la tienda.
+
+**Matvey:** Edad compatible para Navidad. Confirmar plaza y apoyo en inglés.
+
+**Oscar:** Edad compatible para Navidad. Confirmar plaza y apoyo en inglés.
+
+[fuente](https://www.bricksandrobots.nl/en/vakantiekampen/p/rotterdam-kerstvakantie)
+
+### Utrecht · 2 días
+
+**Fechas / estado:** 2026-12-21 — 2026-12-22
+
+**lugar:** Utrecht · Europalaan 2B
+
+**edad:** 5.5–12 años en las fichas navideñas.
+
+**Precio:** 250 EUR por paquete de 2 días por niño.
+
+- 2026-12-21 · 09:00–16:00 · Europe/Amsterdam · Montaje y programación con LEGO. Un robot nuevo cada día lectivo.
+
+- 2026-12-22 · 09:00–16:00 · Europe/Amsterdam · Montaje y programación con LEGO. Un robot nuevo cada día lectivo.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+**Matvey:** Edad compatible para Navidad. Confirmar plaza y apoyo en inglés.
+
+**Oscar:** Edad compatible para Navidad. Confirmar plaza y apoyo en inglés.
+
+[fuente](https://www.bricksandrobots.nl/en/vakantiekampen/p/utrecht-kerstvakantie)
+
+### Utrecht · 1 días
+
+**Fechas / estado:** 2026-12-21 — 2026-12-21
+
+**lugar:** Utrecht · Europalaan 2B
+
+**edad:** 5.5–12 años en las fichas navideñas.
+
+**Precio:** 140 EUR por paquete de 1 días por niño.
+
+- 2026-12-21 · 09:00–16:00 · Europe/Amsterdam · Montaje y programación con LEGO. Un robot nuevo cada día lectivo.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+**Matvey:** Edad compatible para Navidad. Confirmar plaza y apoyo en inglés.
+
+**Oscar:** Edad compatible para Navidad. Confirmar plaza y apoyo en inglés.
+
+[fuente](https://www.bricksandrobots.nl/en/vakantiekampen/p/utrecht-kerstvakantie)
+
+### Utrecht · 1 días
+
+**Fechas / estado:** 2026-12-22 — 2026-12-22
+
+**lugar:** Utrecht · Europalaan 2B
+
+**edad:** 5.5–12 años en las fichas navideñas.
+
+**Precio:** 140 EUR por paquete de 1 días por niño.
+
+- 2026-12-22 · 09:00–16:00 · Europe/Amsterdam · Montaje y programación con LEGO. Un robot nuevo cada día lectivo.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+**Matvey:** Edad compatible para Navidad. Confirmar plaza y apoyo en inglés.
+
+**Oscar:** Edad compatible para Navidad. Confirmar plaza y apoyo en inglés.
+
+[fuente](https://www.bricksandrobots.nl/en/vakantiekampen/p/utrecht-kerstvakantie)
+
+### Eindhoven · 2 días
+
+**Fechas / estado:** 2026-12-21 — 2026-12-22
+
+**lugar:** Eindhoven · Hurksestraat 19
+
+**edad:** 5.5–12 años en las fichas navideñas.
+
+**Precio:** 250 EUR por paquete de 2 días por niño.
+
+- 2026-12-21 · 09:00–16:00 · Europe/Amsterdam · Montaje y programación con LEGO. Un robot nuevo cada día lectivo.
+
+- 2026-12-22 · 09:00–16:00 · Europe/Amsterdam · Montaje y programación con LEGO. Un robot nuevo cada día lectivo.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+**Matvey:** Edad compatible para Navidad. Confirmar plaza y apoyo en inglés.
+
+**Oscar:** Edad compatible para Navidad. Confirmar plaza y apoyo en inglés.
+
+[fuente](https://www.bricksandrobots.nl/en/vakantiekampen/p/eindhoven-kerstvakantie)
+
+### Eindhoven · 1 días
+
+**Fechas / estado:** 2026-12-21 — 2026-12-21
+
+**lugar:** Eindhoven · Hurksestraat 19
+
+**edad:** 5.5–12 años en las fichas navideñas.
+
+**Precio:** 140 EUR por paquete de 1 días por niño.
+
+- 2026-12-21 · 09:00–16:00 · Europe/Amsterdam · Montaje y programación con LEGO. Un robot nuevo cada día lectivo.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+**Matvey:** Edad compatible para Navidad. Confirmar plaza y apoyo en inglés.
+
+**Oscar:** Edad compatible para Navidad. Confirmar plaza y apoyo en inglés.
+
+[fuente](https://www.bricksandrobots.nl/en/vakantiekampen/p/eindhoven-kerstvakantie)
+
+### Eindhoven · 1 días
+
+**Fechas / estado:** 2026-12-22 — 2026-12-22
+
+**lugar:** Eindhoven · Hurksestraat 19
+
+**edad:** 5.5–12 años en las fichas navideñas.
+
+**Precio:** 140 EUR por paquete de 1 días por niño.
+
+- 2026-12-22 · 09:00–16:00 · Europe/Amsterdam · Montaje y programación con LEGO. Un robot nuevo cada día lectivo.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+**Matvey:** Edad compatible para Navidad. Confirmar plaza y apoyo en inglés.
+
+**Oscar:** Edad compatible para Navidad. Confirmar plaza y apoyo en inglés.
+
+[fuente](https://www.bricksandrobots.nl/en/vakantiekampen/p/eindhoven-kerstvakantie)
+
 ### Fuentes
 
 - [calendario de las plataformas](https://www.bricksandrobots.nl/en/vakantiekampen) · 2026-10-05
@@ -12761,6 +13071,22 @@ Países Bajos · Amsterdam / Den Haag / Rotterdam / Utrecht / Eindhoven
 - [Utrecht · Vechtclub XL, Europalaan 2B](https://www.bricksandrobots.nl/en/vakantiekampen/p/utrecht-19-okt-2026) · 2026-10-05
 
 - [Eindhoven · PLAN-B, Hurksestraat 19](https://www.bricksandrobots.nl/en/vakantiekampen/p/eindhoven-19-okt-2026) · 2026-10-05
+
+- [Página o reglamento oficial de la organización.](https://www.bricksandrobots.nl/en/vakantiekampen/p/amsterdam-kerstvakantie) · 2026-11-07
+
+- [Página o reglamento oficial de la organización.](https://www.bricksandrobots.nl/en/vakantiekampen/p/den-haag-kerstvakantie) · 2026-11-07
+
+- [Página o reglamento oficial de la organización.](https://www.bricksandrobots.nl/en/vakantiekampen/p/rotterdam-kerstvakantie) · 2026-11-07
+
+- [Página o reglamento oficial de la organización.](https://www.bricksandrobots.nl/en/vakantiekampen/p/utrecht-kerstvakantie) · 2026-11-07
+
+- [Página o reglamento oficial de la organización.](https://www.bricksandrobots.nl/en/vakantiekampen/p/eindhoven-kerstvakantie) · 2026-11-07
+
+- [Página o reglamento oficial de la organización.](https://www.bricksandrobots.nl/en/vakantiekampen/p/den-haag-voorjaarsvakantie) · 2026-11-07
+
+- [Página o reglamento oficial de la organización.](https://www.bricksandrobots.nl/en/vakantiekampen/p/eindhoven-voorjaarsvakantie) · 2026-11-07
+
+- [Página o reglamento oficial de la organización.](https://www.bricksandrobots.nl/en/vakantiekampen/p/utrecht-voorjaarsvakantie) · 2026-11-07
 
 ## CP104 · Heureka · vacaciones científicas 2027
 
@@ -147097,6 +147423,142 @@ Singapur · Furama Riverfront Hotel · #01-05 · 405 Havelock Road
 - [Página o reglamento oficial de la organización.](https://www.wonderswork.com.sg/faqs/) · 2026-11-07
 
 - [Página o reglamento oficial de la organización.](https://www.wonderswork.com.sg/register/) · 2026-11-07
+
+## CP1873 · Kid LEADER Hub · Winter Camp
+
+Vietnam · Midtown · Phú Mỹ Hưng · Hồ Chí Minh
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 5–7 años en el grupo menor y 8–12 en el mayor.
+
+**Idioma:** Inglés para conversar, aprender y presentar durante todo el programa según la organización.
+
+**Programa:** Los menores montan LEGO SPIKE y crean juegos en Scratch Jr. Los mayores trabajan con sensores, motores y Minecraft Education. El programa incluye experimentos, arte y juegos en equipo.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Del 21 de diciembre de 2026 al 8 de enero de 2027, de lunes a viernes, 09:00–15:15. Sin clase el 1 de enero.
+
+**Precio / año:** 2026 · Precio bajo consulta por semana, materia o curso completo.
+
+**Incluido:** La organización aporta equipo y materiales para las actividades.
+
+**Suplementos:** Confirmar factura final, comidas, supervisión y dos plazas.
+
+**Pago:** Confirmar reglas de pago y cancelación antes de reservar.
+
+**Matvey:** Compatible con el grupo de 8–12 años. Confirmar disponibilidad.
+
+**Oscar:** Compatible con el grupo de 5–7 años. Confirmar disponibilidad.
+
+**Motivo de selección:** Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.
+
+### Antes de solicitar plaza
+
+- Confirmar factura final, comidas, supervisión y dos plazas.
+
+### la semana 1
+
+**Fechas / estado:** 2026-12-21 — 2026-12-25
+
+**Precio:** Precio bajo consulta por semana, materia o curso completo.
+
+- 2026-12-21 · 09:00–15:15 · Asia/Ho_Chi_Minh · Los menores montan LEGO SPIKE y crean juegos en Scratch Jr. Los mayores trabajan con sensores, motores y Minecraft Education. El programa incluye experimentos, arte y juegos en equipo.
+
+- 2026-12-22 · 09:00–15:15 · Asia/Ho_Chi_Minh · Los menores montan LEGO SPIKE y crean juegos en Scratch Jr. Los mayores trabajan con sensores, motores y Minecraft Education. El programa incluye experimentos, arte y juegos en equipo.
+
+- 2026-12-23 · 09:00–15:15 · Asia/Ho_Chi_Minh · Los menores montan LEGO SPIKE y crean juegos en Scratch Jr. Los mayores trabajan con sensores, motores y Minecraft Education. El programa incluye experimentos, arte y juegos en equipo.
+
+- 2026-12-24 · 09:00–15:15 · Asia/Ho_Chi_Minh · Los menores montan LEGO SPIKE y crean juegos en Scratch Jr. Los mayores trabajan con sensores, motores y Minecraft Education. El programa incluye experimentos, arte y juegos en equipo.
+
+- 2026-12-25 · 09:00–15:15 · Asia/Ho_Chi_Minh · Los menores montan LEGO SPIKE y crean juegos en Scratch Jr. Los mayores trabajan con sensores, motores y Minecraft Education. El programa incluye experimentos, arte y juegos en equipo.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+[fuente](https://kidleaderhub.com/courses/winter-camp/)
+
+### la semana 2
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**Precio:** Precio bajo consulta por semana, materia o curso completo.
+
+- 2026-12-28 · 09:00–15:15 · Asia/Ho_Chi_Minh · Los menores montan LEGO SPIKE y crean juegos en Scratch Jr. Los mayores trabajan con sensores, motores y Minecraft Education. El programa incluye experimentos, arte y juegos en equipo.
+
+- 2026-12-29 · 09:00–15:15 · Asia/Ho_Chi_Minh · Los menores montan LEGO SPIKE y crean juegos en Scratch Jr. Los mayores trabajan con sensores, motores y Minecraft Education. El programa incluye experimentos, arte y juegos en equipo.
+
+- 2026-12-30 · 09:00–15:15 · Asia/Ho_Chi_Minh · Los menores montan LEGO SPIKE y crean juegos en Scratch Jr. Los mayores trabajan con sensores, motores y Minecraft Education. El programa incluye experimentos, arte y juegos en equipo.
+
+- 2026-12-31 · 09:00–15:15 · Asia/Ho_Chi_Minh · Los menores montan LEGO SPIKE y crean juegos en Scratch Jr. Los mayores trabajan con sensores, motores y Minecraft Education. El programa incluye experimentos, arte y juegos en equipo.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+[fuente](https://kidleaderhub.com/courses/winter-camp/)
+
+### la semana 3
+
+**Fechas / estado:** 2027-01-04 — 2027-01-08
+
+**Precio:** Precio bajo consulta por semana, materia o curso completo.
+
+- 2027-01-04 · 09:00–15:15 · Asia/Ho_Chi_Minh · Los menores montan LEGO SPIKE y crean juegos en Scratch Jr. Los mayores trabajan con sensores, motores y Minecraft Education. El programa incluye experimentos, arte y juegos en equipo.
+
+- 2027-01-05 · 09:00–15:15 · Asia/Ho_Chi_Minh · Los menores montan LEGO SPIKE y crean juegos en Scratch Jr. Los mayores trabajan con sensores, motores y Minecraft Education. El programa incluye experimentos, arte y juegos en equipo.
+
+- 2027-01-06 · 09:00–15:15 · Asia/Ho_Chi_Minh · Los menores montan LEGO SPIKE y crean juegos en Scratch Jr. Los mayores trabajan con sensores, motores y Minecraft Education. El programa incluye experimentos, arte y juegos en equipo.
+
+- 2027-01-07 · 09:00–15:15 · Asia/Ho_Chi_Minh · Los menores montan LEGO SPIKE y crean juegos en Scratch Jr. Los mayores trabajan con sensores, motores y Minecraft Education. El programa incluye experimentos, arte y juegos en equipo.
+
+- 2027-01-08 · 09:00–15:15 · Asia/Ho_Chi_Minh · Los menores montan LEGO SPIKE y crean juegos en Scratch Jr. Los mayores trabajan con sensores, motores y Minecraft Education. El programa incluye experimentos, arte y juegos en equipo.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+[fuente](https://kidleaderhub.com/courses/winter-camp/)
+
+### Curso completo, 14 días
+
+**Fechas / estado:** 2026-12-21 — 2027-01-08
+
+**Precio:** Precio bajo consulta por semana, materia o curso completo.
+
+- 2026-12-21 · 09:00–15:15 · Asia/Ho_Chi_Minh · Los menores montan LEGO SPIKE y crean juegos en Scratch Jr. Los mayores trabajan con sensores, motores y Minecraft Education. El programa incluye experimentos, arte y juegos en equipo.
+
+- 2026-12-22 · 09:00–15:15 · Asia/Ho_Chi_Minh · Los menores montan LEGO SPIKE y crean juegos en Scratch Jr. Los mayores trabajan con sensores, motores y Minecraft Education. El programa incluye experimentos, arte y juegos en equipo.
+
+- 2026-12-23 · 09:00–15:15 · Asia/Ho_Chi_Minh · Los menores montan LEGO SPIKE y crean juegos en Scratch Jr. Los mayores trabajan con sensores, motores y Minecraft Education. El programa incluye experimentos, arte y juegos en equipo.
+
+- 2026-12-24 · 09:00–15:15 · Asia/Ho_Chi_Minh · Los menores montan LEGO SPIKE y crean juegos en Scratch Jr. Los mayores trabajan con sensores, motores y Minecraft Education. El programa incluye experimentos, arte y juegos en equipo.
+
+- 2026-12-25 · 09:00–15:15 · Asia/Ho_Chi_Minh · Los menores montan LEGO SPIKE y crean juegos en Scratch Jr. Los mayores trabajan con sensores, motores y Minecraft Education. El programa incluye experimentos, arte y juegos en equipo.
+
+- 2026-12-28 · 09:00–15:15 · Asia/Ho_Chi_Minh · Los menores montan LEGO SPIKE y crean juegos en Scratch Jr. Los mayores trabajan con sensores, motores y Minecraft Education. El programa incluye experimentos, arte y juegos en equipo.
+
+- 2026-12-29 · 09:00–15:15 · Asia/Ho_Chi_Minh · Los menores montan LEGO SPIKE y crean juegos en Scratch Jr. Los mayores trabajan con sensores, motores y Minecraft Education. El programa incluye experimentos, arte y juegos en equipo.
+
+- 2026-12-30 · 09:00–15:15 · Asia/Ho_Chi_Minh · Los menores montan LEGO SPIKE y crean juegos en Scratch Jr. Los mayores trabajan con sensores, motores y Minecraft Education. El programa incluye experimentos, arte y juegos en equipo.
+
+- 2026-12-31 · 09:00–15:15 · Asia/Ho_Chi_Minh · Los menores montan LEGO SPIKE y crean juegos en Scratch Jr. Los mayores trabajan con sensores, motores y Minecraft Education. El programa incluye experimentos, arte y juegos en equipo.
+
+- 2027-01-04 · 09:00–15:15 · Asia/Ho_Chi_Minh · Los menores montan LEGO SPIKE y crean juegos en Scratch Jr. Los mayores trabajan con sensores, motores y Minecraft Education. El programa incluye experimentos, arte y juegos en equipo.
+
+- 2027-01-05 · 09:00–15:15 · Asia/Ho_Chi_Minh · Los menores montan LEGO SPIKE y crean juegos en Scratch Jr. Los mayores trabajan con sensores, motores y Minecraft Education. El programa incluye experimentos, arte y juegos en equipo.
+
+- 2027-01-06 · 09:00–15:15 · Asia/Ho_Chi_Minh · Los menores montan LEGO SPIKE y crean juegos en Scratch Jr. Los mayores trabajan con sensores, motores y Minecraft Education. El programa incluye experimentos, arte y juegos en equipo.
+
+- 2027-01-07 · 09:00–15:15 · Asia/Ho_Chi_Minh · Los menores montan LEGO SPIKE y crean juegos en Scratch Jr. Los mayores trabajan con sensores, motores y Minecraft Education. El programa incluye experimentos, arte y juegos en equipo.
+
+- 2027-01-08 · 09:00–15:15 · Asia/Ho_Chi_Minh · Los menores montan LEGO SPIKE y crean juegos en Scratch Jr. Los mayores trabajan con sensores, motores y Minecraft Education. El programa incluye experimentos, arte y juegos en equipo.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+[fuente](https://kidleaderhub.com/courses/winter-camp/)
+
+### Fuentes
+
+- [Página o reglamento oficial de la organización.](https://kidleaderhub.com/courses/winter-camp/) · 2026-11-07
+
+- [Página o reglamento oficial de la organización.](https://kidleaderhub.com/winter-camp-tphcm/) · 2026-11-07
 
 ## ~ Comprobaciones no cerradas
 

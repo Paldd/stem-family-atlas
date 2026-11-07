@@ -870,13 +870,13 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 243,
+    "version": 244,
     "status": "implementation_snapshot",
-    "events": 8527,
-    "competitions": 3464,
+    "events": 8555,
+    "competitions": 3470,
     "league_profiles": 288,
-    "camp_dossiers": 1872,
-    "budget_offers": 307,
+    "camp_dossiers": 1873,
+    "budget_offers": 311,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
     "worldwide_complete": false,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 330,
-    "exhibitions_events": 452
+    "exhibitions_events": 455
   },
   "completeness_audit": "data/audit-v51.json",
   "family_context": {
@@ -927,13 +927,13 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 242,
+    "version": 243,
     "status": "implementation_snapshot",
-    "events": 8487,
-    "competitions": 3460,
+    "events": 8527,
+    "competitions": 3464,
     "league_profiles": 288,
-    "camp_dossiers": 1866,
-    "budget_offers": 302,
+    "camp_dossiers": 1872,
+    "budget_offers": 307,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
     "worldwide_complete": false,
@@ -942,7 +942,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 330,
-    "exhibitions_events": 451
+    "exhibitions_events": 452
   },
   "research_passes": [
     {
@@ -13759,10 +13759,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 243,
+    "prepared_ui_version": 244,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 242,
-    "previous_verified_commit": "01ecbf5d1eeed0ef0848af45d37fa6d715f5ecfe"
+    "previous_verified_ui_version": 243,
+    "previous_verified_commit": "8508ff0835b8fa806ec7589d8637600fa9f71e24"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20809,11 +20809,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 242,
-    "published_version": 242,
-    "latest_source_commit": "01ecbf5d1eeed0ef0848af45d37fa6d715f5ecfe",
-    "published_commit": "01ecbf5d1eeed0ef0848af45d37fa6d715f5ecfe",
-    "latest_workflow": 42423274527,
+    "latest_source_version": 243,
+    "published_version": 243,
+    "latest_source_commit": "8508ff0835b8fa806ec7589d8637600fa9f71e24",
+    "published_commit": "8508ff0835b8fa806ec7589d8637600fa9f71e24",
+    "latest_workflow": 42424846362,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -24018,5 +24018,62 @@
     ],
     "audit": "data/winter-pacific-audit-v243.json",
     "source_receipts": "data/winter-pacific-source-receipts-v243.json"
+  },
+  "regional_pathways_v244": {
+    "version": 244,
+    "checked": "2026-11-07",
+    "previous_goal_turn_classification": "progress",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "C3466",
+      "E453",
+      "C3467",
+      "E454",
+      "C3468",
+      "C3469",
+      "C3470",
+      "C3471",
+      "E455"
+    ],
+    "refreshed_events": [
+      "C1056",
+      "C3373",
+      "C1770"
+    ],
+    "new_camp_dossiers": {
+      "kid-leader-hub-winter-2026": "CP1873"
+    },
+    "refreshed_dossiers": [
+      "CP103"
+    ],
+    "new_camp_options": 19,
+    "new_budget_offers": [
+      "bricks-ams-christmas-family",
+      "bricks-dhg-christmas-family",
+      "bricks-utr-christmas-family",
+      "bricks-ein-christmas-family"
+    ],
+    "new_geographic_coverage": [
+      "COG",
+      "DJI",
+      "GAB",
+      "MWI",
+      "SYC"
+    ],
+    "source_requests": 33,
+    "notes": [
+      "В состязании команду представляют 3 человека. На сайте заявки допускают до 3 записей, а регламент разрешает расширенную команду поддержки. Для несовершеннолетних нужно письменное согласие.",
+      "Заявка бесплатна. За CGBot команда платит 25000 XAF. Форма показывает комиссию 875 XAF и итог 25875 XAF.",
+      "Срок в регламенте истёк 30 октября 2026. Наличие формы не подтверждает поздний набор.",
+      "Есть отдельная форма присутствия с обязательными именем, фото и email. Условия входа, возраст детей и билет организатору нужно подтвердить отдельно.",
+      "Финал в одну из суббот мая 2027 на кампусе UIB. День пока не объявлен.",
+      "Министерство приглашало семьи и посетителей на выставку 19–20 марта 2026. Голосование публики было очным.",
+      "Английский для общения, занятий и презентаций в течение всей программы по описанию организатора.",
+      "Архив октября 2026 сохранён. Рождественские варианты на 21 и 22 декабря 2026. Февральские страницы требуют сверки дат с кодами товаров.",
+      "Основной язык нидерландский. Для англоязычных детей инструкторы используют оба языка. Группу и достаточную поддержку EN согласовать."
+    ],
+    "audit": "data/regional-pathways-audit-v244.json",
+    "source_receipts": "data/regional-pathways-source-receipts-v244.json"
   }
 }

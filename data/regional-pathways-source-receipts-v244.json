@@ -1,0 +1,301 @@
+{
+  "captures": [
+    {
+      "key": "cg-full-rule",
+      "url": "https://cgrobotics.crte.tech/reglement",
+      "checked_at": "2026-11-07T23:28:58.776539+00:00",
+      "status": 200,
+      "final_url": "https://cgrobotics.crte.tech/reglement",
+      "bytes": 15398,
+      "sha256": "057341b537c40ee6aeb1a916592efdb9c553f4c56172747b74c0de99569c6f4c"
+    },
+    {
+      "key": "cg-national-rules",
+      "url": "https://cgrobotics.crte.tech/concours",
+      "checked_at": "2026-11-07T23:22:28.312793+00:00",
+      "status": 200,
+      "final_url": "https://cgrobotics.crte.tech/concours",
+      "bytes": 15379,
+      "sha256": "bab86e83a8425edf95e973c9f5116b5d859542b193b32dd7456f7d2cdf99adcd"
+    },
+    {
+      "key": "cg-national-registration",
+      "url": "https://cgrobotics.crte.tech/inscription",
+      "checked_at": "2026-11-07T23:22:28.314180+00:00",
+      "status": 200,
+      "final_url": "https://cgrobotics.crte.tech/inscription",
+      "bytes": 24017,
+      "sha256": "8f3e091774018c36b4e6063586b0dfc97f23969bdf403d8f0dfded231a806375"
+    },
+    {
+      "key": "cg-national-visitor",
+      "url": "https://cgrobotics.crte.tech/jy-serai",
+      "checked_at": "2026-11-07T23:22:28.317129+00:00",
+      "status": 200,
+      "final_url": "https://cgrobotics.crte.tech/jy-serai",
+      "bytes": 16866,
+      "sha256": "b9c5459a24cf5875f891ad65a93d0f09134ed1b1828d09bda7ace99e3894119f"
+    },
+    {
+      "key": "ga-ai-science-fair",
+      "url": "https://ga.ecolesmaarif.org/announcements/5-eme-foire-scientifique-et-conference-sur-lia",
+      "checked_at": "2026-11-07T23:22:28.317623+00:00",
+      "status": 200,
+      "final_url": "https://ga.ecolesmaarif.org/announcements/5-eme-foire-scientifique-et-conference-sur-lia",
+      "bytes": 136143,
+      "sha256": "ed8670be620c56fc9982a40ea8410b66924541f858439a8d5bbde5ed3ac54c2b"
+    },
+    {
+      "key": "ga-expo-results",
+      "url": "https://ga.ecolesmaarif.org/news/5eme-mse-23mai-202605251505",
+      "checked_at": "2026-11-07T23:28:58.779976+00:00",
+      "status": 200,
+      "final_url": "https://ga.ecolesmaarif.org/news/5eme-mse-23mai-202605251505",
+      "bytes": 140844,
+      "sha256": "f991ef5fdc325cc97d74e8925a5d762b3a87b6e504f8ddfecaab4aed1ea8102c"
+    },
+    {
+      "key": "mw-unima-arduino",
+      "url": "https://www.unima.ac.mw/news/single-post/unima-hosts-arduino-day-2026-07-04-2026",
+      "checked_at": "2026-11-07T23:22:28.323126+00:00",
+      "status": 200,
+      "final_url": "https://www.unima.ac.mw/news/single-post/unima-hosts-arduino-day-2026-07-04-2026",
+      "bytes": 637702,
+      "sha256": "c51ab29f07b15b857346ef01f4348f57410ca79c10aeef23ed64acf0ee0cc11b"
+    },
+    {
+      "key": "sc-fg-2026",
+      "url": "https://edu.gov.sc/event/register-now-first-global-robotic-challenge-selection-2026/",
+      "checked_at": "2026-11-07T23:28:58.781281+00:00",
+      "status": 200,
+      "final_url": "https://edu.gov.sc/event/register-now-first-global-robotic-challenge-selection-2026/",
+      "bytes": 147388,
+      "sha256": "88b906dc5eac9aebce45fb831c739dc8eaeee8b895927f22bf50fb6c31b54bdd"
+    },
+    {
+      "key": "sc-fg-team",
+      "url": "https://first.global/2026-nations/seychelles-2026/",
+      "checked_at": "2026-11-07T23:28:58.783773+00:00",
+      "status": 200,
+      "final_url": "https://first.global/2026-nations/seychelles-2026/",
+      "bytes": 165260,
+      "sha256": "322cb9b62e98ab86de6d084158c0a40508d9584a48498bb72a26be11aefad76b"
+    },
+    {
+      "key": "sc-fg-2024",
+      "url": "https://edu.gov.sc/2024/09/the-1st-global-challenge/",
+      "checked_at": "2026-11-07T23:28:58.781543+00:00",
+      "status": 200,
+      "final_url": "https://edu.gov.sc/2024/09/the-1st-global-challenge/",
+      "bytes": 137680,
+      "sha256": "38cab9fa4d9976ecaf18c993e30f47af4e308d25a42e1779b0aee42a6df59ef5"
+    },
+    {
+      "key": "dj-fg-team",
+      "url": "https://first.global/2026-nations/djibouti-2026/",
+      "checked_at": "2026-11-07T23:29:56.533652+00:00",
+      "status": 200,
+      "final_url": "https://first.global/2026-nations/djibouti-2026/",
+      "bytes": 166167,
+      "sha256": "f9a53d93205bd4f07f3880a3d35e43664009d7762c6353860d9b015b4a2e9634"
+    },
+    {
+      "key": "dj-ctid-robotics",
+      "url": "https://robotics.ctid-djibouti.org/",
+      "checked_at": "2026-11-07T23:22:29.550833+00:00",
+      "status": 200,
+      "final_url": "https://robotics.ctid-djibouti.org/",
+      "bytes": 155978,
+      "sha256": "2a0d4713e74ecd2ab8dfae546f549a8202490f69053f4f37ce1e5c2bd67ffa23"
+    },
+    {
+      "key": "dj-ctid-league",
+      "url": "https://ctid-djibouti.org/ligue/",
+      "checked_at": "2026-11-07T23:22:28.327218+00:00",
+      "status": 200,
+      "final_url": "https://ctid-djibouti.org/ligue/",
+      "bytes": 121941,
+      "sha256": "434deb91667e749420fb146982523fd7ff7bc67bb33db85889ae5f80a2fcc27c"
+    },
+    {
+      "key": "es-balearic-uib",
+      "url": "https://eps.uib.es/meet-robotics-challenge-2027/",
+      "checked_at": "2026-11-07T23:19:58.531413+00:00",
+      "status": 200,
+      "final_url": "https://eps.uib.es/meet-robotics-challenge/",
+      "bytes": 78543,
+      "sha256": "f6c9d57f6f6ec781d9719a1134b2e359e9f1327e3cdf2ed1e779022b7df481be"
+    },
+    {
+      "key": "es-balearic-rules",
+      "url": "https://caib.es/sites/tecnologieseducacio/ca/meet_robotics_challenge_20262027/",
+      "checked_at": "2026-11-07T23:19:58.530334+00:00",
+      "status": 200,
+      "final_url": "https://caib.es/sites/tecnologieseducacio/ca/meet_robotics_challenge_20262027/",
+      "bytes": 58971,
+      "sha256": "f00d9bd8b3adcd0b51d8291bb74af85e5fd89f65650e4bc1d5af15b6ad556cf5"
+    },
+    {
+      "key": "vg-fair",
+      "url": "https://www.gov.vg/news/over-three-hundred-students-showcase-projects-national-science-and-innovation-fair",
+      "checked_at": "2026-11-07T23:28:58.790236+00:00",
+      "status": 200,
+      "final_url": "https://www.gov.vg/news/over-three-hundred-students-showcase-projects-national-science-and-innovation-fair",
+      "bytes": 45259,
+      "sha256": "319359d91310d1ffcf4de322684a6c7eb78922f42db39f843f3330d5e4da6221"
+    },
+    {
+      "key": "vg-fair-open",
+      "url": "https://gov.vg/print/pdf/node/2678",
+      "checked_at": "2026-11-07T23:28:58.794085+00:00",
+      "status": 200,
+      "final_url": "https://gov.vg/print/pdf/node/2678",
+      "bytes": 18950377,
+      "sha256": "7bce96f2ce92b90e8d8508aae8264f293fe4e982616f1e857de28ce692ba401f"
+    },
+    {
+      "key": "vg-fair-results",
+      "url": "https://gov.vg/news/young-innovators-awarded-2026-national-science-fair",
+      "checked_at": "2026-11-07T23:28:58.791238+00:00",
+      "status": 200,
+      "final_url": "https://gov.vg/news/young-innovators-awarded-2026-national-science-fair",
+      "bytes": 48465,
+      "sha256": "99e363398ad01b3e14c2b9891d57aff465b463122f8c80284b67fc59311bce30"
+    },
+    {
+      "key": "gp-castor",
+      "url": "https://pedagogie.ac-guadeloupe.fr/index.php/inscription_concours_castor_informatique_2026",
+      "checked_at": "2026-11-07T23:28:58.806240+00:00",
+      "status": 200,
+      "final_url": "https://pedagogie.ac-guadeloupe.fr/index.php/inscription_concours_castor_informatique_2026",
+      "bytes": 77620,
+      "sha256": "def56041dbb26ff92fd8d628208153bb38d54c71719d6442235ba9ee8a08ee10"
+    },
+    {
+      "key": "gp-academy-cs",
+      "url": "https://pedagogie.ac-guadeloupe.fr/index.php/concours_et_evenements_informatiques_annee_scolaire_2026_2027",
+      "checked_at": "2026-11-07T23:19:58.516119+00:00",
+      "status": 200,
+      "final_url": "https://pedagogie.ac-guadeloupe.fr/index.php/concours_et_evenements_informatiques_annee_scolaire_2026_2027",
+      "bytes": 79309,
+      "sha256": "b24802f8572b42721e906780ab0a7bed180d28b5cc8a883a8947066bf14bc28e"
+    },
+    {
+      "key": "sx-btp-team",
+      "url": "https://btp.sx/btp-powers-sxm-youth-for-regional-robotics-challenge-148.html",
+      "checked_at": "2026-11-07T23:19:58.516734+00:00",
+      "status": 200,
+      "final_url": "https://btp.sx/btp-powers-sxm-youth-for-regional-robotics-challenge-148.html",
+      "bytes": 34827,
+      "sha256": "d5e4e9766e7c1c077f24b5366bbd61f12c793a9b0520ba08cbe726a2d7da050c"
+    },
+    {
+      "key": "sx-btp-result",
+      "url": "https://btp.sx/btp-congratulates-robotics-team-on-outstanding-achievement-151.html",
+      "checked_at": "2026-11-07T23:19:58.519545+00:00",
+      "status": 200,
+      "final_url": "https://btp.sx/btp-congratulates-robotics-team-on-outstanding-achievement-151.html",
+      "bytes": 32665,
+      "sha256": "408d0509b6c7494c6555782d01521a746f8b6cf7087f0510c2b09d8b696ce56b"
+    },
+    {
+      "key": "vn-kid-leader",
+      "url": "https://kidleaderhub.com/courses/winter-camp/",
+      "checked_at": "2026-11-07T23:29:56.529439+00:00",
+      "status": 200,
+      "final_url": "https://kidleaderhub.com/courses/winter-camp/",
+      "bytes": 137329,
+      "sha256": "ba19530428d0744fd199405baab23b42e0e5641acf9851aefec988942a365c6e"
+    },
+    {
+      "key": "vn-kid-leader-detail",
+      "url": "https://kidleaderhub.com/winter-camp-tphcm/",
+      "checked_at": "2026-11-07T23:29:56.529737+00:00",
+      "status": 200,
+      "final_url": "https://kidleaderhub.com/winter-camp-tphcm/",
+      "bytes": 138119,
+      "sha256": "376195ff99b7db95d13697fd0413ce32fd3f9d5f5bda21d9f46d4e1778ff3953"
+    },
+    {
+      "key": "nl-bricks-ams",
+      "url": "https://www.bricksandrobots.nl/en/vakantiekampen/p/amsterdam-kerstvakantie",
+      "checked_at": "2026-11-07T23:29:56.533455+00:00",
+      "status": 200,
+      "final_url": "https://www.bricksandrobots.nl/en/vakantiekampen/p/amsterdam-kerstvakantie",
+      "bytes": 800177,
+      "sha256": "91bcc84b5121d3b72a869db52f4eac96d0422671b59062a8fce701d98fe8c04d"
+    },
+    {
+      "key": "nl-bricks-haag",
+      "url": "https://www.bricksandrobots.nl/en/vakantiekampen/p/den-haag-kerstvakantie",
+      "checked_at": "2026-11-07T23:29:56.531152+00:00",
+      "status": 200,
+      "final_url": "https://www.bricksandrobots.nl/en/vakantiekampen/p/den-haag-kerstvakantie",
+      "bytes": 1051316,
+      "sha256": "743218cc16d28e529487b005aaafe272d6aa412d40b0b13632d3483469ce4577"
+    },
+    {
+      "key": "nl-rotterdam-kerstvakantie",
+      "url": "https://www.bricksandrobots.nl/en/vakantiekampen/p/rotterdam-kerstvakantie",
+      "checked_at": "2026-11-07T23:30:24.504427+00:00",
+      "status": 200,
+      "final_url": "https://www.bricksandrobots.nl/en/vakantiekampen/p/rotterdam-kerstvakantie",
+      "bytes": 1033854,
+      "sha256": "04782c3274468272cea11eddf1129f4008d725532e23ad19194c9c1050d609d7"
+    },
+    {
+      "key": "nl-utrecht-kerstvakantie",
+      "url": "https://www.bricksandrobots.nl/en/vakantiekampen/p/utrecht-kerstvakantie",
+      "checked_at": "2026-11-07T23:30:24.504522+00:00",
+      "status": 200,
+      "final_url": "https://www.bricksandrobots.nl/en/vakantiekampen/p/utrecht-kerstvakantie",
+      "bytes": 1218407,
+      "sha256": "b754ffcea6b8dc977278019762dbe024635c3a30115d55d9c2e5b8decea15a3e"
+    },
+    {
+      "key": "nl-eindhoven-kerstvakantie",
+      "url": "https://www.bricksandrobots.nl/en/vakantiekampen/p/eindhoven-kerstvakantie",
+      "checked_at": "2026-11-07T23:30:24.504153+00:00",
+      "status": 200,
+      "final_url": "https://www.bricksandrobots.nl/en/vakantiekampen/p/eindhoven-kerstvakantie",
+      "bytes": 443892,
+      "sha256": "ae0b05ed1cdb64da010dc147782dd25f867ed8d42af1bb3a686010a885b222e3"
+    },
+    {
+      "key": "nl-den-haag-voorjaarsvakantie",
+      "url": "https://www.bricksandrobots.nl/en/vakantiekampen/p/den-haag-voorjaarsvakantie",
+      "checked_at": "2026-11-07T23:30:24.506083+00:00",
+      "status": 200,
+      "final_url": "https://www.bricksandrobots.nl/en/vakantiekampen/p/den-haag-voorjaarsvakantie",
+      "bytes": 1462255,
+      "sha256": "d93ce2b13d24ee77f09e1acc5b11312db60d62fbcf6f6819f815cbad7d44b823"
+    },
+    {
+      "key": "nl-eindhoven-voorjaarsvakantie",
+      "url": "https://www.bricksandrobots.nl/en/vakantiekampen/p/eindhoven-voorjaarsvakantie",
+      "checked_at": "2026-11-07T23:30:24.509621+00:00",
+      "status": 200,
+      "final_url": "https://www.bricksandrobots.nl/en/vakantiekampen/p/eindhoven-voorjaarsvakantie",
+      "bytes": 443831,
+      "sha256": "5b30d086b94412cad97ebc6b1913c4f13ce565e2bd6b9547feb47b82514d6762"
+    },
+    {
+      "key": "nl-utrecht-voorjaarsvakantie",
+      "url": "https://www.bricksandrobots.nl/en/vakantiekampen/p/utrecht-voorjaarsvakantie",
+      "checked_at": "2026-11-07T23:30:24.513131+00:00",
+      "status": 200,
+      "final_url": "https://www.bricksandrobots.nl/en/vakantiekampen/p/utrecht-voorjaarsvakantie",
+      "bytes": 443741,
+      "sha256": "c93cad21747e3898c3b25a1591f18513faba1202ad43dcd620a49be39d46a808"
+    },
+    {
+      "key": "nl-bricks-camps",
+      "url": "https://www.bricksandrobots.nl/en/vakantiekampen",
+      "checked_at": "2026-11-07T23:29:36.622587+00:00",
+      "status": 200,
+      "final_url": "https://www.bricksandrobots.nl/en/vakantiekampen",
+      "bytes": 1321479,
+      "sha256": "ebc5a40b9d9dd7e8f4cf480ca8ccc7e9fb319d3cfecd654acb4246513378c6af"
+    }
+  ]
+}
