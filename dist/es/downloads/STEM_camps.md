@@ -45160,7 +45160,7 @@ Se ha comprobado: 2026-11-05
 
 ### CP1183-20261207-20261211 · TechLab Kids Chile · Kids WeDo · Robotics AM · Human Evolution · Robotics AM · 2026-12-07–2026-12-11
 
-lugar: Chile · Vitacura · Santiago
+lugar: Chile · Av. Vitacura 3568 · Oficina 611 · Vitacura · Santiago
 Fecha: 2026-12-07 — 2026-12-11
 edad: Kids 6–8; grupo mayor 9–11 separado.
 Matway: No según la pista seleccionada
@@ -45172,11 +45172,11 @@ Precio: 2026/27 · CLP 115000 / niño / semana · suplementos y condiciones en e
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Familia informó que Matvey tiene 9 años: Kids admite hasta 8, necesita Junior separado. A inicio de 2027 tiene 9–10. Oscar: Familia informó que Oscar tiene 6 años: en diciembre de 2026 e inicio de 2027 cumple rango 6–8. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
 Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-navidad-2026/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-07
 
 ### CP1183-20261214-20261218 · TechLab Kids Chile · Kids WeDo · Robotics AM · EVO BOTS · Robotics AM · 2026-12-14–2026-12-18
 
-lugar: Chile · Vitacura · Santiago
+lugar: Chile · Av. Vitacura 3568 · Oficina 611 · Vitacura · Santiago
 Fecha: 2026-12-14 - 2026-12-18
 edad: Kids 6–8; grupo mayor 9–11 separado.
 Matway: No según la pista seleccionada
@@ -45188,11 +45188,11 @@ Precio: 2026/27 · CLP 115000 / niño / semana · suplementos y condiciones en e
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Familia informó que Matvey tiene 9 años: Kids admite hasta 8, necesita Junior separado. A inicio de 2027 tiene 9–10. Oscar: Familia informó que Oscar tiene 6 años: en diciembre de 2026 e inicio de 2027 cumple rango 6–8. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
 Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-navidad-2026/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-07
 
 ### CP1183-20270104-20270108 · TechLab Kids Chile · Kids WeDo · Robotics AM · A · Earth · Robotics AM · 2027-01-04–2027-01-08
 
-lugar: Chile · Vitacura · Santiago
+lugar: Chile · Av. Vitacura 3568 · Oficina 611 · Vitacura · Santiago
 Fecha: 2027-01-04 — 2027-01-08
 edad: Kids 6–8; grupo mayor 9–11 separado.
 Matway: No según la pista seleccionada
@@ -45204,11 +45204,11 @@ Precio: 2027 · CLP 115000 / niño / semana · suplementos y condiciones en el d
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Familia informó que Matvey tiene 9 años: Kids admite hasta 8, necesita Junior separado. A inicio de 2027 tiene 9–10. Oscar: Familia informó que Oscar tiene 6 años: en diciembre de 2026 e inicio de 2027 cumple rango 6–8. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
 Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-07
 
 ### CP1183-20270111-20270115 · TechLab Kids Chile · Kids WeDo · Robotics AM · B · Ocean · Robotics AM · 2027-01-11–2027-01-15
 
-lugar: Chile · Vitacura · Santiago
+lugar: Chile · Av. Vitacura 3568 · Oficina 611 · Vitacura · Santiago
 Fecha: 2027-01-11 — 2027-01-15
 edad: Kids 6–8; grupo mayor 9–11 separado.
 Matway: No según la pista seleccionada
@@ -45220,11 +45220,11 @@ Precio: 2027 · CLP 115000 / niño / semana · suplementos y condiciones en el d
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Familia informó que Matvey tiene 9 años: Kids admite hasta 8, necesita Junior separado. A inicio de 2027 tiene 9–10. Oscar: Familia informó que Oscar tiene 6 años: en diciembre de 2026 e inicio de 2027 cumple rango 6–8. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
 Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-07
 
 ### CP1183-20270118-20270122 · TechLab Kids Chile · Kids WeDo · Robotics AM · C · Space · Robotics AM · 2027-01-18–2027-01-22
 
-lugar: Chile · Vitacura · Santiago
+lugar: Chile · Av. Vitacura 3568 · Oficina 611 · Vitacura · Santiago
 Fecha: 2027-01-18 国 2027-01-22
 edad: Kids 6–8; grupo mayor 9–11 separado.
 Matway: No según la pista seleccionada
@@ -45236,11 +45236,11 @@ Precio: 2027 · CLP 115000 / niño / semana · suplementos y condiciones en el d
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Familia informó que Matvey tiene 9 años: Kids admite hasta 8, necesita Junior separado. A inicio de 2027 tiene 9–10. Oscar: Familia informó que Oscar tiene 6 años: en diciembre de 2026 e inicio de 2027 cumple rango 6–8. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
 Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-07
 
 ### CP1183-20270125-20270129 · TechLab Kids Chile · Kids WeDo · Robotics AM · A · Earth · Robotics AM · 2027-01-25–2027-01-29
 
-lugar: Chile · Vitacura · Santiago
+lugar: Chile · Av. Vitacura 3568 · Oficina 611 · Vitacura · Santiago
 Fecha: 2027-01-25 国 2027-01-29
 edad: Kids 6–8; grupo mayor 9–11 separado.
 Matway: No según la pista seleccionada
@@ -45252,11 +45252,11 @@ Precio: 2027 · CLP 115000 / niño / semana · suplementos y condiciones en el d
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Familia informó que Matvey tiene 9 años: Kids admite hasta 8, necesita Junior separado. A inicio de 2027 tiene 9–10. Oscar: Familia informó que Oscar tiene 6 años: en diciembre de 2026 e inicio de 2027 cumple rango 6–8. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
 Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-07
 
 ### CP1183-20270201-20270205 · TechLab Kids Chile · Kids WeDo · Robotics AM · B · Ocean · Robotics AM · 2027-02-01–2027-02-05
 
-lugar: Chile · Vitacura · Santiago
+lugar: Chile · Av. Vitacura 3568 · Oficina 611 · Vitacura · Santiago
 Fecha: 2027-02-01 国 2027-02-05
 edad: Kids 6–8; grupo mayor 9–11 separado.
 Matway: No según la pista seleccionada
@@ -45268,11 +45268,11 @@ Precio: 2027 · CLP 115000 / niño / semana · suplementos y condiciones en el d
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Familia informó que Matvey tiene 9 años: Kids admite hasta 8, necesita Junior separado. A inicio de 2027 tiene 9–10. Oscar: Familia informó que Oscar tiene 6 años: en diciembre de 2026 e inicio de 2027 cumple rango 6–8. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
 Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-07
 
 ### CP1183-20270208-20270212 · TechLab Kids Chile · Kids WeDo · Robotics AM · C · Space · Robotics AM · 2027-02-08–2027-02-12
 
-lugar: Chile · Vitacura · Santiago
+lugar: Chile · Av. Vitacura 3568 · Oficina 611 · Vitacura · Santiago
 Fecha: 2027-02-08 — 2027-02-12
 edad: Kids 6–8; grupo mayor 9–11 separado.
 Matway: No según la pista seleccionada
@@ -45284,11 +45284,11 @@ Precio: 2027 · CLP 115000 / niño / semana · suplementos y condiciones en el d
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Familia informó que Matvey tiene 9 años: Kids admite hasta 8, necesita Junior separado. A inicio de 2027 tiene 9–10. Oscar: Familia informó que Oscar tiene 6 años: en diciembre de 2026 e inicio de 2027 cumple rango 6–8. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
 Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-07
 
 ### CP1183-20270215-20270219 · TechLab Kids Chile · Kids WeDo · Robotics AM · A · Earth · Robotics AM · 2027-02-15–2027-02-19
 
-lugar: Chile · Vitacura · Santiago
+lugar: Chile · Av. Vitacura 3568 · Oficina 611 · Vitacura · Santiago
 Fecha: 2027-02-15 国 2027-02-19
 edad: Kids 6–8; grupo mayor 9–11 separado.
 Matway: No según la pista seleccionada
@@ -45300,11 +45300,11 @@ Precio: 2027 · CLP 115000 / niño / semana · suplementos y condiciones en el d
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Familia informó que Matvey tiene 9 años: Kids admite hasta 8, necesita Junior separado. A inicio de 2027 tiene 9–10. Oscar: Familia informó que Oscar tiene 6 años: en diciembre de 2026 e inicio de 2027 cumple rango 6–8. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
 Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-07
 
 ### CP1183-20270222-20270226 · TechLab Kids Chile · Kids WeDo · Robotics AM · B · Ocean · Robotics AM · 2027-02-22–2027-02-26
 
-lugar: Chile · Vitacura · Santiago
+lugar: Chile · Av. Vitacura 3568 · Oficina 611 · Vitacura · Santiago
 Fecha: 2027-02-22 国 2027-02-26
 edad: Kids 6–8; grupo mayor 9–11 separado.
 Matway: No según la pista seleccionada
@@ -45316,11 +45316,11 @@ Precio: 2027 · CLP 115000 / niño / semana · suplementos y condiciones en el d
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Familia informó que Matvey tiene 9 años: Kids admite hasta 8, necesita Junior separado. A inicio de 2027 tiene 9–10. Oscar: Familia informó que Oscar tiene 6 años: en diciembre de 2026 e inicio de 2027 cumple rango 6–8. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
 Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-07
 
 ### CP1184-20261207-20261211 · TechLab Kids Chile · Junior EV3 · Robotics AM · Human Evolution · Robotics AM · 2026-12-07–2026-12-11
 
-lugar: Chile · Vitacura · Santiago
+lugar: Chile · Av. Vitacura 3568 · Oficina 611 · Vitacura · Santiago
 Fecha: 2026-12-07 — 2026-12-11
 edad: Junior 9–11; texto inferior también dice 9+, confirmar límite superior del grupo EV3 separado.
 Matway: Sí, por edad; inscripción separada
@@ -45332,11 +45332,11 @@ Precio: 2026/27 · CLP 115000 / niño / semana · suplementos y condiciones en e
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Familia informó que Matvey tiene 9 años: diciembre de 2026 y enero–febrero de 2027 cumplen Junior 9–11. Acordar dificultad tras competiciones. Oscar: Oscar menor de 9; existe Kids 6–8 separado. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
 Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-navidad-2026/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-07
 
 ### CP1184-20261214-20261218 · TechLab Kids Chile · Junior EV3 · Robotics AM · EVO BOTS · Robotics AM · 2026-12-14–2026-12-18
 
-lugar: Chile · Vitacura · Santiago
+lugar: Chile · Av. Vitacura 3568 · Oficina 611 · Vitacura · Santiago
 Fecha: 2026-12-14 - 2026-12-18
 edad: Junior 9–11; texto inferior también dice 9+, confirmar límite superior del grupo EV3 separado.
 Matway: Sí, por edad; inscripción separada
@@ -45348,11 +45348,11 @@ Precio: 2026/27 · CLP 115000 / niño / semana · suplementos y condiciones en e
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Familia informó que Matvey tiene 9 años: diciembre de 2026 y enero–febrero de 2027 cumplen Junior 9–11. Acordar dificultad tras competiciones. Oscar: Oscar menor de 9; existe Kids 6–8 separado. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
 Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-navidad-2026/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-07
 
 ### CP1184-20270104-20270108 · TechLab Kids Chile · Junior EV3 · Robotics AM · A · Earth · Robotics AM · 2027-01-04–2027-01-08
 
-lugar: Chile · Vitacura · Santiago
+lugar: Chile · Av. Vitacura 3568 · Oficina 611 · Vitacura · Santiago
 Fecha: 2027-01-04 — 2027-01-08
 edad: Junior 9–11; texto inferior también dice 9+, confirmar límite superior del grupo EV3 separado.
 Matway: Sí, por edad; inscripción separada
@@ -45364,11 +45364,11 @@ Precio: 2027 · CLP 115000 / niño / semana · suplementos y condiciones en el d
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Familia informó que Matvey tiene 9 años: diciembre de 2026 y enero–febrero de 2027 cumplen Junior 9–11. Acordar dificultad tras competiciones. Oscar: Oscar menor de 9; existe Kids 6–8 separado. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
 Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-07
 
 ### CP1184-20270111-20270115 · TechLab Kids Chile · Junior EV3 · Robotics AM · B · Ocean · Robotics AM · 2027-01-11–2027-01-15
 
-lugar: Chile · Vitacura · Santiago
+lugar: Chile · Av. Vitacura 3568 · Oficina 611 · Vitacura · Santiago
 Fecha: 2027-01-11 — 2027-01-15
 edad: Junior 9–11; texto inferior también dice 9+, confirmar límite superior del grupo EV3 separado.
 Matway: Sí, por edad; inscripción separada
@@ -45380,11 +45380,11 @@ Precio: 2027 · CLP 115000 / niño / semana · suplementos y condiciones en el d
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Familia informó que Matvey tiene 9 años: diciembre de 2026 y enero–febrero de 2027 cumplen Junior 9–11. Acordar dificultad tras competiciones. Oscar: Oscar menor de 9; existe Kids 6–8 separado. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
 Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-07
 
 ### CP1184-20270118-20270122 · TechLab Kids Chile · Junior EV3 · Robotics AM · C · Space · Robotics AM · 2027-01-18–2027-01-22
 
-lugar: Chile · Vitacura · Santiago
+lugar: Chile · Av. Vitacura 3568 · Oficina 611 · Vitacura · Santiago
 Fecha: 2027-01-18 国 2027-01-22
 edad: Junior 9–11; texto inferior también dice 9+, confirmar límite superior del grupo EV3 separado.
 Matway: Sí, por edad; inscripción separada
@@ -45396,11 +45396,11 @@ Precio: 2027 · CLP 115000 / niño / semana · suplementos y condiciones en el d
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Familia informó que Matvey tiene 9 años: diciembre de 2026 y enero–febrero de 2027 cumplen Junior 9–11. Acordar dificultad tras competiciones. Oscar: Oscar menor de 9; existe Kids 6–8 separado. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
 Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-07
 
 ### CP1184-20270125-20270129 · TechLab Kids Chile · Junior EV3 · Robotics AM · A · Earth · Robotics AM · 2027-01-25–2027-01-29
 
-lugar: Chile · Vitacura · Santiago
+lugar: Chile · Av. Vitacura 3568 · Oficina 611 · Vitacura · Santiago
 Fecha: 2027-01-25 国 2027-01-29
 edad: Junior 9–11; texto inferior también dice 9+, confirmar límite superior del grupo EV3 separado.
 Matway: Sí, por edad; inscripción separada
@@ -45412,11 +45412,11 @@ Precio: 2027 · CLP 115000 / niño / semana · suplementos y condiciones en el d
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Familia informó que Matvey tiene 9 años: diciembre de 2026 y enero–febrero de 2027 cumplen Junior 9–11. Acordar dificultad tras competiciones. Oscar: Oscar menor de 9; existe Kids 6–8 separado. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
 Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-07
 
 ### CP1184-20270201-20270205 · TechLab Kids Chile · Junior EV3 · Robotics AM · B · Ocean · Robotics AM · 2027-02-01–2027-02-05
 
-lugar: Chile · Vitacura · Santiago
+lugar: Chile · Av. Vitacura 3568 · Oficina 611 · Vitacura · Santiago
 Fecha: 2027-02-01 国 2027-02-05
 edad: Junior 9–11; texto inferior también dice 9+, confirmar límite superior del grupo EV3 separado.
 Matway: Sí, por edad; inscripción separada
@@ -45428,11 +45428,11 @@ Precio: 2027 · CLP 115000 / niño / semana · suplementos y condiciones en el d
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Familia informó que Matvey tiene 9 años: diciembre de 2026 y enero–febrero de 2027 cumplen Junior 9–11. Acordar dificultad tras competiciones. Oscar: Oscar menor de 9; existe Kids 6–8 separado. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
 Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-07
 
 ### CP1184-20270208-20270212 · TechLab Kids Chile · Junior EV3 · Robotics AM · C · Space · Robotics AM · 2027-02-08–2027-02-12
 
-lugar: Chile · Vitacura · Santiago
+lugar: Chile · Av. Vitacura 3568 · Oficina 611 · Vitacura · Santiago
 Fecha: 2027-02-08 — 2027-02-12
 edad: Junior 9–11; texto inferior también dice 9+, confirmar límite superior del grupo EV3 separado.
 Matway: Sí, por edad; inscripción separada
@@ -45444,11 +45444,11 @@ Precio: 2027 · CLP 115000 / niño / semana · suplementos y condiciones en el d
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Familia informó que Matvey tiene 9 años: diciembre de 2026 y enero–febrero de 2027 cumplen Junior 9–11. Acordar dificultad tras competiciones. Oscar: Oscar menor de 9; existe Kids 6–8 separado. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
 Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-07
 
 ### CP1184-20270215-20270219 · TechLab Kids Chile · Junior EV3 · Robotics AM · A · Earth · Robotics AM · 2027-02-15–2027-02-19
 
-lugar: Chile · Vitacura · Santiago
+lugar: Chile · Av. Vitacura 3568 · Oficina 611 · Vitacura · Santiago
 Fecha: 2027-02-15 国 2027-02-19
 edad: Junior 9–11; texto inferior también dice 9+, confirmar límite superior del grupo EV3 separado.
 Matway: Sí, por edad; inscripción separada
@@ -45460,11 +45460,11 @@ Precio: 2027 · CLP 115000 / niño / semana · suplementos y condiciones en el d
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Familia informó que Matvey tiene 9 años: diciembre de 2026 y enero–febrero de 2027 cumplen Junior 9–11. Acordar dificultad tras competiciones. Oscar: Oscar menor de 9; existe Kids 6–8 separado. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
 Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-07
 
 ### CP1184-20270222-20270226 · TechLab Kids Chile · Junior EV3 · Robotics AM · B · Ocean · Robotics AM · 2027-02-22–2027-02-26
 
-lugar: Chile · Vitacura · Santiago
+lugar: Chile · Av. Vitacura 3568 · Oficina 611 · Vitacura · Santiago
 Fecha: 2027-02-22 国 2027-02-26
 edad: Junior 9–11; texto inferior también dice 9+, confirmar límite superior del grupo EV3 separado.
 Matway: Sí, por edad; inscripción separada
@@ -45476,7 +45476,7 @@ Precio: 2027 · CLP 115000 / niño / semana · suplementos y condiciones en el d
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Familia informó que Matvey tiene 9 años: diciembre de 2026 y enero–febrero de 2027 cumplen Junior 9–11. Acordar dificultad tras competiciones. Oscar: Oscar menor de 9; existe Kids 6–8 separado. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
 Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-07
 
 ### CP1185-20261207-20261211 · TechLab Kids Chile · Scratch / MakeCode · PM · Human Evolution · Coding PM · 2026-12-07–2026-12-11
 
@@ -64852,6 +64852,102 @@ Precio: 2026/27 · XPF 38000 por 5 sesiones matutinas. · suplementos y condicio
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Edad adecuada. Confirmar plaza e idioma del taller. Oscar: No por ahora. Módulo desde 9 años. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://polykids.pf/camp-jeu-video
+Se ha comprobado: 2026-11-07
+
+### CP1693-20270105-20270114 · CleverBrain · Verano KIDS · 5–6 · Explorar y crear · 2027-01-05–2027-01-14
+
+lugar: Chile · Espacio Fundadores · Av. Fundadores 642 · Placilla de Peñuelas · Valparaíso
+Fecha: 2027-01-05 — 2027-01-14
+Edad: 5–6 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CLP 110000 por ciclo hasta el 30 de noviembre de 2026. Desde el 1 de diciembre CLP 137000 sujeto a plazas. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad del programa menor. Datos de TEENS pendientes por separado. Oscar: Condicional. Adecuado si tiene 6 años al iniciar el ciclo. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.cleverbrainacademy.com/verano-2027-kids/
+Se ha comprobado: 2026-11-07
+
+### CP1693-20270118-20270128 · CleverBrain · Verano KIDS · 5–6 · Nuevos desafíos · 2027-01-18–2027-01-28
+
+lugar: Chile · Espacio Fundadores · Av. Fundadores 642 · Placilla de Peñuelas · Valparaíso
+Fecha: 2027-01-18 — 2027-01-28
+Edad: 5–6 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CLP 110000 por ciclo hasta el 30 de noviembre de 2026. Desde el 1 de diciembre CLP 137000 sujeto a plazas. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad del programa menor. Datos de TEENS pendientes por separado. Oscar: Condicional. Adecuado si tiene 6 años al iniciar el ciclo. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.cleverbrainacademy.com/verano-2027-kids/
+Se ha comprobado: 2026-11-07
+
+### CP1694-20270105-20270114 · CleverBrain · Verano KIDS · 7–8 · Explorar y crear · 2027-01-05–2027-01-14
+
+lugar: Chile · Espacio Fundadores · Av. Fundadores 642 · Placilla de Peñuelas · Valparaíso
+Fecha: 2027-01-05 — 2027-01-14
+Edad: 7–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CLP 110000 por ciclo hasta el 30 de noviembre de 2026. Desde el 1 de diciembre CLP 137000 sujeto a plazas. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad del programa menor. Datos de TEENS pendientes por separado. Oscar: Condicional si ya cumplió 7 años al iniciar el ciclo. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.cleverbrainacademy.com/verano-2027-kids/
+Se ha comprobado: 2026-11-07
+
+### CP1694-20270118-20270128 · CleverBrain · Verano KIDS · 7–8 · Nuevos desafíos · 2027-01-18–2027-01-28
+
+lugar: Chile · Espacio Fundadores · Av. Fundadores 642 · Placilla de Peñuelas · Valparaíso
+Fecha: 2027-01-18 — 2027-01-28
+Edad: 7–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CLP 110000 por ciclo hasta el 30 de noviembre de 2026. Desde el 1 de diciembre CLP 137000 sujeto a plazas. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad del programa menor. Datos de TEENS pendientes por separado. Oscar: Condicional si ya cumplió 7 años al iniciar el ciclo. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.cleverbrainacademy.com/verano-2027-kids/
+Se ha comprobado: 2026-11-07
+
+### CP1696-20270104-20270129 · Rukantú · Taller de verano · Enero · 2027-01-04–2027-01-29
+
+lugar: Chile · Jardín Infantil Rukantú · Salesianos 1284 · San Miguel · Santiago
+Fecha: 2027-01-04 — 2027-01-29
+edad: 2–6 años. Confirmar edad al inicio del periodo elegido.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Incluye actividad lúdica de inglés. Confirmar idioma de las demás actividades.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · CLP 370000 por jornada completa en enero más inscripción CLP 65000. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el programa menor. Oscar: Condicional. Adecuado si tiene 6 años al iniciar el ciclo. Suplementos: Camiseta incluida con inscripción de enero o ambos periodos. Solo en febrero cuesta CLP 15000 por separado. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://jardininfantilrukantu.cl/taller-de-verano-rukantu/
+Se ha comprobado: 2026-11-07
+
+### CP1696-20270201-20270212 · Rukantú · Taller de verano · Febrero · 2027-02-01–2027-02-12
+
+lugar: Chile · Jardín Infantil Rukantú · Salesianos 1284 · San Miguel · Santiago
+Fecha: 2027-02-01 — 2027-02-12
+edad: 2–6 años. Confirmar edad al inicio del periodo elegido.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Incluye actividad lúdica de inglés. Confirmar idioma de las demás actividades.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · CLP 200000 por jornada completa en febrero más inscripción CLP 35000 al elegir solo febrero. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el programa menor. Oscar: Condicional. Adecuado si tiene 6 años al iniciar el ciclo. Suplementos: Camiseta incluida con inscripción de enero o ambos periodos. Solo en febrero cuesta CLP 15000 por separado. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://jardininfantilrukantu.cl/taller-de-verano-rukantu/
 Se ha comprobado: 2026-11-07
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

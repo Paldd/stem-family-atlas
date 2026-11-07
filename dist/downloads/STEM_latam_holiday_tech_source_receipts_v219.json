@@ -1,0 +1,390 @@
+{
+  "captures": [
+    {
+      "key": "clever-kids",
+      "url": "https://www.cleverbrainacademy.com/verano-2027-kids/",
+      "checked_at": "2026-11-07T13:21:25.394427+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.cleverbrainacademy.com/verano-2027-kids/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "clever-kids.html",
+      "bytes": 180667,
+      "sha256": "99a3b85071aca67250c3fb936e0854f65306bb3371ff9ec554fce10e15660e0a"
+    },
+    {
+      "key": "pirque",
+      "url": "https://www.summercampirque.cl/programas/",
+      "checked_at": "2026-11-07T13:21:25.397524+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.summercampirque.cl/programas/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "pirque.html",
+      "bytes": 196677,
+      "sha256": "50ef25c849647e3edb691d3752877a76f51f7419c6109a780a109f4b0025be59"
+    },
+    {
+      "key": "pirque-home",
+      "url": "https://www.summercampirque.cl/",
+      "checked_at": "2026-11-07T13:21:25.398681+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.summercampirque.cl/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "pirque-home.html",
+      "bytes": 196376,
+      "sha256": "7aef7c703f6d562dfd2b81cdb0ebeaec255b888850eb5b7a7544f9f3cb45e0b2"
+    },
+    {
+      "key": "astranautas",
+      "url": "https://www.astranautas.com/",
+      "checked_at": "2026-11-07T13:21:25.407157+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.astranautas.com/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "astranautas.html",
+      "bytes": 336744,
+      "sha256": "3e36fd327e81aca3315ab74a1004f7f09f41abce27092b16cd68106dc40073ae"
+    },
+    {
+      "key": "troonic",
+      "url": "https://troonic.com/troonic-camp-2027/",
+      "checked_at": "2026-11-07T13:21:25.407519+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://troonic.com/troonic-camp-2027/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "troonic.html",
+      "bytes": 117762,
+      "sha256": "36c1ce0285027685ff5a4f70d7c422bf06d1657d1544bb183acec21794cf7127"
+    },
+    {
+      "key": "mot-lego",
+      "url": "https://reed-groundhog-7jew.squarespace.com/colonia-lego-league",
+      "checked_at": "2026-11-07T13:21:25.422655+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://reed-groundhog-7jew.squarespace.com/colonia-lego-league",
+      "content_type": "text/html;charset=utf-8",
+      "file": "mot-lego.html",
+      "bytes": 450346,
+      "sha256": "394d63741372563cf0604c55749f264edad92f4632f79079555ae6fa1992e718"
+    },
+    {
+      "key": "mot-eco",
+      "url": "https://reed-groundhog-7jew.squarespace.com/eco-tech-inventores",
+      "checked_at": "2026-11-07T13:21:25.429277+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://reed-groundhog-7jew.squarespace.com/eco-tech-inventores",
+      "content_type": "text/html;charset=utf-8",
+      "file": "mot-eco.html",
+      "bytes": 562032,
+      "sha256": "6af1ba6a8065a308cdec7690f40e0f94296487150153c941ec0028bec784896c"
+    },
+    {
+      "key": "liota",
+      "url": "https://liotacamps.com/",
+      "checked_at": "2026-11-07T13:21:27.580722+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://liotacamps.com/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "liota.html",
+      "bytes": 368878,
+      "sha256": "9d3486880f0eb8d9668bafb99cf9da68000a1f3a4977027c4db6fa223987b1c0"
+    },
+    {
+      "key": "clever-teens",
+      "url": "https://www.cleverbrainacademy.com/verano-2027-teens/",
+      "checked_at": "2026-11-07T13:22:02.940486+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.cleverbrainacademy.com/verano-2027-teens/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "clever-teens.html",
+      "bytes": 170400,
+      "sha256": "0042d319bb2d4953a6289e62902f1181c972ec6f29e234efe971e175d75b4e37"
+    },
+    {
+      "key": "rukantu",
+      "url": "https://jardininfantilrukantu.cl/taller-de-verano-rukantu/",
+      "checked_at": "2026-11-07T13:22:02.940743+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://jardininfantilrukantu.cl/taller-de-verano-rukantu/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "rukantu.html",
+      "bytes": 186731,
+      "sha256": "de247be9fde09760085db0555f543a51b46da2977c1d5d6b66aaf06896b7b422"
+    },
+    {
+      "key": "programable",
+      "url": "https://programable.com.ar/colonia-tecno-2027/",
+      "checked_at": "2026-11-07T13:22:02.942190+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://programable.com.ar/colonia-tecno-2027/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "programable.html",
+      "bytes": 575755,
+      "sha256": "cb001826665d170c37c37c3b07fcd89fb187096a91fdf22db47512e19d5776e7"
+    },
+    {
+      "key": "mot-operator",
+      "url": "https://www.mindsoftomorrowparaguay.com/colonia-verano-2026-2027",
+      "checked_at": "2026-11-07T13:22:02.943908+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.mindsoftomorrowparaguay.com/colonia-verano-2026-2027",
+      "content_type": "text/html;charset=utf-8",
+      "file": "mot-operator.html",
+      "bytes": 1139301,
+      "sha256": "fdc9ea80a05953a95d4cb0479d649499370f7de6be77490b31d2b1ad0a473088"
+    },
+    {
+      "key": "fll-cr",
+      "url": "https://fundacionsteam.org/cmsevents/festival-nacional-de-robotica/",
+      "checked_at": "2026-11-07T13:22:44.778187+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://fundacionsteam.org/cmsevents/festival-nacional-de-robotica/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "fll-cr.html",
+      "bytes": 151150,
+      "sha256": "d843bb34021a5ec0c342e374094fd6b834b10aeeeda3c24b15b03095ecba7ab3"
+    },
+    {
+      "key": "nerdearla",
+      "url": "https://nerdearla.com/?lang=es",
+      "checked_at": "2026-11-07T13:22:44.778508+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://nerdearla.com/?lang=es",
+      "content_type": "text/html; charset=utf-8",
+      "file": "nerdearla.html",
+      "bytes": 122416,
+      "sha256": "9f075987575b1958f9fbffe742681b5df3426ab36aa8717893aab875ba5fbe20"
+    },
+    {
+      "key": "ia-fest-chile",
+      "url": "https://achiag.cl/fest/",
+      "checked_at": "2026-11-07T13:22:44.781761+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://achiag.cl/fest/",
+      "content_type": "text/html",
+      "file": "ia-fest-chile.html",
+      "bytes": 147320,
+      "sha256": "6843126a927101dcc889785ceaba05cc63d7d3f4b518ca1da056db0b6d560b6b"
+    },
+    {
+      "key": "cenart-gamejam",
+      "url": "https://cenart.gob.mx/eventos/encuentro-global-game-jam-2026/",
+      "checked_at": "2026-11-07T13:22:44.782176+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://cenart.gob.mx/eventos/encuentro-global-game-jam-2026/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "cenart-gamejam.html",
+      "bytes": 115578,
+      "sha256": "0eef33f5bfd8ee08f911ce019ca72708583585654d2d276a2251c907f1e899e6"
+    },
+    {
+      "key": "ggj-home",
+      "url": "https://globalgamejam.org/",
+      "checked_at": "2026-11-07T13:22:44.782279+00:00",
+      "transport": "curl",
+      "status": 403,
+      "final_url": "https://globalgamejam.org/",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "key": "ggj-participation",
+      "url": "https://globalgamejam.org/who-can-participate-ggj",
+      "checked_at": "2026-11-07T13:22:44.789956+00:00",
+      "transport": "curl",
+      "status": 403,
+      "final_url": "https://globalgamejam.org/who-can-participate-ggj",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "key": "mci-chile",
+      "url": "https://cursos.mcielectronics.cl/eventos/",
+      "checked_at": "2026-11-07T13:22:44.797623+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://cursos.mcielectronics.cl/eventos/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "mci-chile.html",
+      "bytes": 403125,
+      "sha256": "667371c3fdbee0ddad3a68bc89e32008244be6f94018a5ee12df6a2c1bbc990f"
+    },
+    {
+      "key": "nerdearla-mex",
+      "url": "https://nerdearla.com/mexico/",
+      "checked_at": "2026-11-07T13:23:38.902185+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://nerdearla.com/mexico/",
+      "content_type": "text/html; charset=utf-8",
+      "file": "nerdearla-mex.html",
+      "bytes": 79001,
+      "sha256": "3a157d18078c97d07eb2b95cd01d7e08a04cb3c441c7315974427e7ce375c729"
+    },
+    {
+      "key": "nerdearla-mex-kit",
+      "url": "https://nerdearla.com/mexico/community_media_kit/",
+      "checked_at": "2026-11-07T13:23:38.902420+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://nerdearla.com/mexico/community_media_kit/",
+      "content_type": "text/html; charset=utf-8",
+      "file": "nerdearla-mex-kit.html",
+      "bytes": 40937,
+      "sha256": "bd8956ae26f311ffa5d40777871c7222c1ef7b1f504274d9385eef0a22910226"
+    },
+    {
+      "key": "nerdearla-mex-agenda",
+      "url": "https://nerdearla.com/mexico/schedule/",
+      "checked_at": "2026-11-07T13:23:38.903655+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://nerdearla.com/mexico/schedule/",
+      "content_type": "text/html; charset=utf-8",
+      "file": "nerdearla-mex-agenda.html",
+      "bytes": 183406,
+      "sha256": "76a1e0ce68448dea1274ab0b440b9e1d3c5891c6a343ac57199bc8a177406524"
+    },
+    {
+      "key": "nerdearla-chile",
+      "url": "https://nerdearla.com/chile/",
+      "checked_at": "2026-11-07T13:23:38.905225+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://nerdearla.com/chile/",
+      "content_type": "text/html; charset=utf-8",
+      "file": "nerdearla-chile.html",
+      "bytes": 61716,
+      "sha256": "b8c5920712c8715898416215438cecfdc1005b7e1ed2ddd5c5436d071d140727"
+    },
+    {
+      "key": "nerdearla-madrid",
+      "url": "https://nerdearla.com/sp/2027/",
+      "checked_at": "2026-11-07T13:23:38.906928+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://nerdearla.com/sp/2027/",
+      "content_type": "text/html; charset=utf-8",
+      "file": "nerdearla-madrid.html",
+      "bytes": 58390,
+      "sha256": "fbff55e05ecd9bafecfcb6697b1684e3398bb9303012d4f540227590b764533b"
+    },
+    {
+      "key": "mci-expo",
+      "url": "https://mcielectronics.cl/mci-expo/",
+      "checked_at": "2026-11-07T13:23:38.907152+00:00",
+      "transport": "curl",
+      "status": 403,
+      "final_url": "https://mcielectronics.cl/mci-expo/",
+      "content_type": "text/html; charset=iso-8859-1"
+    },
+    {
+      "key": "ggj-policy-current",
+      "url": "https://globalgamejam.org/ar/node/317",
+      "checked_at": "2026-11-07T13:23:38.910754+00:00",
+      "transport": "curl",
+      "status": 403,
+      "final_url": "https://globalgamejam.org/ar/node/317",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "key": "techlab-no-www",
+      "url": "https://www.techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+      "checked_at": "2026-11-07T13:23:38.912292+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "techlab-no-www.html",
+      "bytes": 1738232,
+      "sha256": "9318ddef7a71b558a3b43ec4aac1b269f168b1ff07c6c1d0027f257691f681cc"
+    },
+    {
+      "key": "techlab-navidad",
+      "url": "https://www.techlabkids.cl/producto/taller-vacaciones-de-navidad-2026/",
+      "checked_at": "2026-11-07T13:25:16.512979+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://techlabkids.cl/producto/taller-vacaciones-de-navidad-2026/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "techlab-navidad.html",
+      "bytes": 1733212,
+      "sha256": "42d85cdec792c62ca2a8548a86c90df4324a8c01990000a64cdf372984d2eeab"
+    },
+    {
+      "key": "techlab-policy",
+      "url": "https://www.techlabkids.cl/politica-reserva-descuentos-cancelaciones-devoluciones/",
+      "checked_at": "2026-11-07T13:25:16.514560+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://techlabkids.cl/politica-reserva-descuentos-cancelaciones-devoluciones/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "techlab-policy.html",
+      "bytes": 1574573,
+      "sha256": "193b2b9965e2ab5e8d62d555dbe8554a45bb03751ff84e5492c83b9cefc5eca1"
+    },
+    {
+      "key": "ia-summit-chile",
+      "url": "https://achiag.cl/summit/",
+      "checked_at": "2026-11-07T13:25:16.514815+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://achiag.cl/summit/",
+      "content_type": "text/html",
+      "file": "ia-summit-chile.html",
+      "bytes": 132400,
+      "sha256": "00d8d8f3ffae8abd2bfde38e2e1320cef453d429783324633b67570b67d6d6cd"
+    },
+    {
+      "key": "nerdearla-arg",
+      "url": "https://nerdearla.com/argentina/",
+      "checked_at": "2026-11-07T13:25:16.514938+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://nerdearla.com/argentina/",
+      "content_type": "text/html; charset=utf-8",
+      "file": "nerdearla-arg.html",
+      "bytes": 133452,
+      "sha256": "38f878031a14a8df359b27d33de16ad6621cd9784904e178d6473e8ff8bb3ed8"
+    }
+  ],
+  "public_web_observations": [
+    {
+      "url": "https://mcielectronics.cl/mci-expo/",
+      "evidence": "Official MCI Expo dates November 20, 2026 09:30–18:30 at Hotel Le Méridien, Santiago. Free general exhibit registration and paid Business Pass, maker robotics, educational hardware and AI. Children terms not explicit."
+    },
+    {
+      "url": "https://globalgamejam.org/",
+      "evidence": "Organizer window Jan 25–31, 2027; participant registration opens Dec 1, 2026."
+    },
+    {
+      "url": "https://globalgamejam.org/ar/node/317",
+      "evidence": "Current policies separate minimum age 13 for individual web account, local underage guardian approval exceptions, and GGJ Next typically ages 12–17."
+    },
+    {
+      "url": "https://globalgamejam.org/who-can-participate-ggj",
+      "evidence": "Global FAQ distinguishes guardians, local organizer discretion and GGJ Next."
+    },
+    {
+      "url": "https://fundacionsteam.org/wp-content/uploads/2020/08/Precios-FLL-2027-1024x1024.png",
+      "evidence": "Visually read official posted tariff image. Explore CRC 70000/120000/175000 for 1/3/5 teams with 1/3/5 kits; Challenge CRC 220000/265000/295000 with one kit per package."
+    },
+    {
+      "url": "https://www.uandes.cl/actualidad/eventos/349476/",
+      "evidence": "UAndes official date Nov 7 2026, all-public entry with advance registration. Header 09:00–12:00; detail starts 09:30."
+    }
+  ]
+}

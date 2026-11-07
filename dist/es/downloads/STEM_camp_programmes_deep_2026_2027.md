@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-07. 1692 fichas en 96 países. Cada ficha indica la fecha de comprobación de sus fuentes.
+Estado de la base: 2026-11-07. 1697 fichas en 96 países. Cada ficha indica la fecha de comprobación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -83278,9 +83278,9 @@ Estados Unidos · Hofstra University · Long Island, New York
 
 ## CP1183 · TechLab Kids Chile · Kids WeDo · Robotics AM
 
-Chile · Vitacura · Santiago
+Chile · Av. Vitacura 3568 · Oficina 611 · Vitacura · Santiago
 
-**Se ha comprobado:** 2026-11-05
+**Se ha comprobado:** 2026-11-07
 
 **edad:** Kids 6–8; grupo mayor 9–11 separado.
 
@@ -83315,6 +83315,10 @@ Chile · Vitacura · Santiago
 - Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
 
 - Confirmar admisión extranjera individual, plaza y dificultad adecuada. Sin registro, pago ni consentimiento de paseo o fotos.
+
+- Los grupos Kids 6–8 y Junior 9–11 coinciden en la misma sede. Tarifa matutina CLP 115000 por niño por semana elegida. Para dos CLP 230000 antes de posibles descuentos. Confirmar plazas, idioma y factura final.
+
+- El operador publica inscripción a los programas. Confirmar plaza en cada uno de los dos grupos.
 
 ### Human Evolution · Robotics AM
 
@@ -83536,11 +83540,17 @@ Chile · Vitacura · Santiago
 
 - [Feriado oficial del 8 de diciembre de 2026](https://csigo.cancilleria.gob.ar/es/feriados-2026-1) · 2026-11-05
 
+- [Página oficial del organizador](https://www.techlabkids.cl/producto/taller-vacaciones-de-verano-2027/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.techlabkids.cl/producto/taller-vacaciones-de-navidad-2026/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.techlabkids.cl/politica-reserva-descuentos-cancelaciones-devoluciones/) · 2026-11-07
+
 ## CP1184 · TechLab Kids Chile · Junior EV3 · Robotics AM
 
-Chile · Vitacura · Santiago
+Chile · Av. Vitacura 3568 · Oficina 611 · Vitacura · Santiago
 
-**Se ha comprobado:** 2026-11-05
+**Se ha comprobado:** 2026-11-07
 
 **edad:** Junior 9–11; texto inferior también dice 9+, confirmar límite superior del grupo EV3 separado.
 
@@ -83575,6 +83585,10 @@ Chile · Vitacura · Santiago
 - Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
 
 - Confirmar admisión extranjera individual, plaza y dificultad adecuada. Sin registro, pago ni consentimiento de paseo o fotos.
+
+- Los grupos Kids 6–8 y Junior 9–11 coinciden en la misma sede. Tarifa matutina CLP 115000 por niño por semana elegida. Para dos CLP 230000 antes de posibles descuentos. Confirmar plazas, idioma y factura final.
+
+- El operador publica inscripción a los programas. Confirmar plaza en cada uno de los dos grupos.
 
 ### Human Evolution · Robotics AM
 
@@ -83795,6 +83809,12 @@ Chile · Vitacura · Santiago
 - [Reglas de pago, cancelación y descuentos](https://techlabkids.cl/politica-reserva-descuentos-cancelaciones-devoluciones/) · 2026-11-05
 
 - [Feriado oficial del 8 de diciembre de 2026](https://csigo.cancilleria.gob.ar/es/feriados-2026-1) · 2026-11-05
+
+- [Página oficial del organizador](https://www.techlabkids.cl/producto/taller-vacaciones-de-verano-2027/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.techlabkids.cl/producto/taller-vacaciones-de-navidad-2026/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.techlabkids.cl/politica-reserva-descuentos-cancelaciones-devoluciones/) · 2026-11-07
 
 ## CP1185 · TechLab Kids Chile · Scratch / MakeCode · PM
 
@@ -130769,6 +130789,390 @@ Guam · Guam
 ### Fuentes
 
 - [Página oficial del organizador](https://chooron.ai/educationContent_en/camp.php) · 2026-11-07
+
+## CP1693 · CleverBrain · Verano KIDS · 5–6
+
+Chile · Espacio Fundadores · Av. Fundadores 642 · Placilla de Peñuelas · Valparaíso
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 5–6 años
+
+**Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar.
+
+**Programa:** ExploraLab, dibujo y construcciones sencillas con bloques y cartón. Cocina sencilla, cuentos y programación sin computadora mediante secuencias y lógica.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 8 días lectivos por ciclo, 14:30–18:00. Hasta 12 niños por grupo. Se requiere autonomía en higiene.
+
+**Precio / año:** 2027 · CLP 110000 por ciclo hasta el 30 de noviembre de 2026. Desde el 1 de diciembre CLP 137000 sujeto a plazas.
+
+**Incluido:** Clases del bloque de edad elegido. Confirmar materiales, refrigerio y reembolso.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** No por edad del programa menor. Datos de TEENS pendientes por separado.
+
+**Oscar:** Condicional. Adecuado si tiene 6 años al iniciar el ciclo.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar edad el primer día, plaza, idioma y pago final.
+
+### Explorar y crear
+
+**Fechas / estado:** 2027-01-05 — 2027-01-14
+
+**lugar:** Espacio Fundadores · Av. Fundadores 642 · Placilla de Peñuelas · Valparaíso
+
+**edad:** 5–6 años
+
+**Precio:** CLP 110000 por ciclo hasta el 30 de noviembre de 2026. Desde el 1 de diciembre CLP 137000 sujeto a plazas.
+
+**Programa:** ExploraLab, dibujo y construcciones sencillas con bloques y cartón.
+
+- 2027-01-05 · 14:30–18:00 · America/Santiago · ExploraLab, dibujo y construcciones sencillas con bloques y cartón.
+
+- 2027-01-06 · 14:30–18:00 · America/Santiago · ExploraLab, dibujo y construcciones sencillas con bloques y cartón.
+
+- 2027-01-07 · 14:30–18:00 · America/Santiago · ExploraLab, dibujo y construcciones sencillas con bloques y cartón.
+
+- 2027-01-08 · 14:30–18:00 · America/Santiago · ExploraLab, dibujo y construcciones sencillas con bloques y cartón.
+
+- 2027-01-11 · 14:30–18:00 · America/Santiago · ExploraLab, dibujo y construcciones sencillas con bloques y cartón.
+
+- 2027-01-12 · 14:30–18:00 · America/Santiago · ExploraLab, dibujo y construcciones sencillas con bloques y cartón.
+
+- 2027-01-13 · 14:30–18:00 · America/Santiago · ExploraLab, dibujo y construcciones sencillas con bloques y cartón.
+
+- 2027-01-14 · 14:30–18:00 · America/Santiago · ExploraLab, dibujo y construcciones sencillas con bloques y cartón.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad del programa menor. Datos de TEENS pendientes por separado.
+
+**Oscar:** Condicional. Adecuado si tiene 6 años al iniciar el ciclo.
+
+- Confirmar edad el primer día, plaza, idioma y pago final.
+
+[fuente](https://www.cleverbrainacademy.com/verano-2027-kids/)
+
+### Nuevos desafíos
+
+**Fechas / estado:** 2027-01-18 — 2027-01-28
+
+**lugar:** Espacio Fundadores · Av. Fundadores 642 · Placilla de Peñuelas · Valparaíso
+
+**edad:** 5–6 años
+
+**Precio:** CLP 110000 por ciclo hasta el 30 de noviembre de 2026. Desde el 1 de diciembre CLP 137000 sujeto a plazas.
+
+**Programa:** Cocina sencilla, cuentos y programación sin computadora mediante secuencias y lógica.
+
+- 2027-01-18 · 14:30–18:00 · America/Santiago · Cocina sencilla, cuentos y programación sin computadora mediante secuencias y lógica.
+
+- 2027-01-19 · 14:30–18:00 · America/Santiago · Cocina sencilla, cuentos y programación sin computadora mediante secuencias y lógica.
+
+- 2027-01-20 · 14:30–18:00 · America/Santiago · Cocina sencilla, cuentos y programación sin computadora mediante secuencias y lógica.
+
+- 2027-01-21 · 14:30–18:00 · America/Santiago · Cocina sencilla, cuentos y programación sin computadora mediante secuencias y lógica.
+
+- 2027-01-25 · 14:30–18:00 · America/Santiago · Cocina sencilla, cuentos y programación sin computadora mediante secuencias y lógica.
+
+- 2027-01-26 · 14:30–18:00 · America/Santiago · Cocina sencilla, cuentos y programación sin computadora mediante secuencias y lógica.
+
+- 2027-01-27 · 14:30–18:00 · America/Santiago · Cocina sencilla, cuentos y programación sin computadora mediante secuencias y lógica.
+
+- 2027-01-28 · 14:30–18:00 · America/Santiago · Cocina sencilla, cuentos y programación sin computadora mediante secuencias y lógica.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad del programa menor. Datos de TEENS pendientes por separado.
+
+**Oscar:** Condicional. Adecuado si tiene 6 años al iniciar el ciclo.
+
+- Confirmar edad el primer día, plaza, idioma y pago final.
+
+[fuente](https://www.cleverbrainacademy.com/verano-2027-kids/)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.cleverbrainacademy.com/verano-2027-kids/) · 2026-11-07
+
+## CP1694 · CleverBrain · Verano KIDS · 7–8
+
+Chile · Espacio Fundadores · Av. Fundadores 642 · Placilla de Peñuelas · Valparaíso
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 7–8 años
+
+**Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar.
+
+**Programa:** ExploraLab, dibujo y construcciones sencillas con bloques y cartón. Cocina sencilla, cuentos y programación sin computadora mediante secuencias y lógica.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 8 días lectivos por ciclo, 14:30–18:00. Hasta 12 niños por grupo. Se requiere autonomía en higiene.
+
+**Precio / año:** 2027 · CLP 110000 por ciclo hasta el 30 de noviembre de 2026. Desde el 1 de diciembre CLP 137000 sujeto a plazas.
+
+**Incluido:** Clases del bloque de edad elegido. Confirmar materiales, refrigerio y reembolso.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** No por edad del programa menor. Datos de TEENS pendientes por separado.
+
+**Oscar:** Condicional si ya cumplió 7 años al iniciar el ciclo.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar edad el primer día, plaza, idioma y pago final.
+
+### Explorar y crear
+
+**Fechas / estado:** 2027-01-05 — 2027-01-14
+
+**lugar:** Espacio Fundadores · Av. Fundadores 642 · Placilla de Peñuelas · Valparaíso
+
+**edad:** 7–8 años
+
+**Precio:** CLP 110000 por ciclo hasta el 30 de noviembre de 2026. Desde el 1 de diciembre CLP 137000 sujeto a plazas.
+
+**Programa:** Cocina sencilla, cuentos y programación sin computadora mediante secuencias y lógica.
+
+- 2027-01-05 · 14:30–18:00 · America/Santiago · Cocina sencilla, cuentos y programación sin computadora mediante secuencias y lógica.
+
+- 2027-01-06 · 14:30–18:00 · America/Santiago · Cocina sencilla, cuentos y programación sin computadora mediante secuencias y lógica.
+
+- 2027-01-07 · 14:30–18:00 · America/Santiago · Cocina sencilla, cuentos y programación sin computadora mediante secuencias y lógica.
+
+- 2027-01-08 · 14:30–18:00 · America/Santiago · Cocina sencilla, cuentos y programación sin computadora mediante secuencias y lógica.
+
+- 2027-01-11 · 14:30–18:00 · America/Santiago · Cocina sencilla, cuentos y programación sin computadora mediante secuencias y lógica.
+
+- 2027-01-12 · 14:30–18:00 · America/Santiago · Cocina sencilla, cuentos y programación sin computadora mediante secuencias y lógica.
+
+- 2027-01-13 · 14:30–18:00 · America/Santiago · Cocina sencilla, cuentos y programación sin computadora mediante secuencias y lógica.
+
+- 2027-01-14 · 14:30–18:00 · America/Santiago · Cocina sencilla, cuentos y programación sin computadora mediante secuencias y lógica.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad del programa menor. Datos de TEENS pendientes por separado.
+
+**Oscar:** Condicional si ya cumplió 7 años al iniciar el ciclo.
+
+- Confirmar edad el primer día, plaza, idioma y pago final.
+
+[fuente](https://www.cleverbrainacademy.com/verano-2027-kids/)
+
+### Nuevos desafíos
+
+**Fechas / estado:** 2027-01-18 — 2027-01-28
+
+**lugar:** Espacio Fundadores · Av. Fundadores 642 · Placilla de Peñuelas · Valparaíso
+
+**edad:** 7–8 años
+
+**Precio:** CLP 110000 por ciclo hasta el 30 de noviembre de 2026. Desde el 1 de diciembre CLP 137000 sujeto a plazas.
+
+**Programa:** ExploraLab, dibujo y construcciones sencillas con bloques y cartón.
+
+- 2027-01-18 · 14:30–18:00 · America/Santiago · ExploraLab, dibujo y construcciones sencillas con bloques y cartón.
+
+- 2027-01-19 · 14:30–18:00 · America/Santiago · ExploraLab, dibujo y construcciones sencillas con bloques y cartón.
+
+- 2027-01-20 · 14:30–18:00 · America/Santiago · ExploraLab, dibujo y construcciones sencillas con bloques y cartón.
+
+- 2027-01-21 · 14:30–18:00 · America/Santiago · ExploraLab, dibujo y construcciones sencillas con bloques y cartón.
+
+- 2027-01-25 · 14:30–18:00 · America/Santiago · ExploraLab, dibujo y construcciones sencillas con bloques y cartón.
+
+- 2027-01-26 · 14:30–18:00 · America/Santiago · ExploraLab, dibujo y construcciones sencillas con bloques y cartón.
+
+- 2027-01-27 · 14:30–18:00 · America/Santiago · ExploraLab, dibujo y construcciones sencillas con bloques y cartón.
+
+- 2027-01-28 · 14:30–18:00 · America/Santiago · ExploraLab, dibujo y construcciones sencillas con bloques y cartón.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad del programa menor. Datos de TEENS pendientes por separado.
+
+**Oscar:** Condicional si ya cumplió 7 años al iniciar el ciclo.
+
+- Confirmar edad el primer día, plaza, idioma y pago final.
+
+[fuente](https://www.cleverbrainacademy.com/verano-2027-kids/)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.cleverbrainacademy.com/verano-2027-kids/) · 2026-11-07
+
+## CP1695 · CleverBrain · Verano TEENS
+
+Chile · Espacio Fundadores · Av. Fundadores 642 · Placilla de Peñuelas · Valparaíso
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** El operador anunció el programa de verano TEENS 2027. Edad, contenido, horario y tarifa aún sin publicar.
+
+**Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar.
+
+**Programa:** El operador anunció el programa de verano TEENS 2027. Edad, contenido, horario y tarifa aún sin publicar.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** El operador anunció el programa de verano TEENS 2027. Edad, contenido, horario y tarifa aún sin publicar.
+
+**Precio / año:** 2027 · Precio sin publicar.
+
+**Incluido:** El operador anunció el programa de verano TEENS 2027. Edad, contenido, horario y tarifa aún sin publicar.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.
+
+**Oscar:** Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.cleverbrainacademy.com/verano-2027-teens/) · 2026-11-07
+
+## CP1696 · Rukantú · Taller de verano
+
+Chile · Jardín Infantil Rukantú · Salesianos 1284 · San Miguel · Santiago
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 2–6 años. Confirmar edad al inicio del periodo elegido.
+
+**Idioma:** Incluye actividad lúdica de inglés. Confirmar idioma de las demás actividades.
+
+**Programa:** Vacaciones diurnas con juegos acuáticos, arte, circo e inglés lúdico.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 4–29 de enero y 1–12 de febrero de 2027. Confirmar horario de la tarifa elegida y días de actividad.
+
+**Precio / año:** 2027 · Enero: CLP 250000 / 300000 media jornada sin comida / con comida, 320000 por ¾ de jornada, 370000 por jornada completa. Febrero: CLP 130000 / 160000, 170000 y 200000 respectivamente. Inscripción CLP 65000 para enero o ambos periodos, CLP 35000 solo febrero.
+
+**Incluido:** Vacaciones diurnas con juegos acuáticos, arte, circo e inglés lúdico.
+
+**Suplementos:** Camiseta incluida con inscripción de enero o ambos periodos. Solo en febrero cuesta CLP 15000 por separado.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** No por edad para el programa menor.
+
+**Oscar:** Condicional. Adecuado si tiene 6 años al iniciar el ciclo.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Enero
+
+**Fechas / estado:** 2027-01-04 — 2027-01-29
+
+**lugar:** Jardín Infantil Rukantú · Salesianos 1284 · San Miguel · Santiago
+
+**edad:** 2–6 años. Confirmar edad al inicio del periodo elegido.
+
+**Precio:** CLP 370000 por jornada completa en enero más inscripción CLP 65000.
+
+**Programa:** Vacaciones diurnas con juegos acuáticos, arte, circo e inglés lúdico.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el programa menor.
+
+**Oscar:** Condicional. Adecuado si tiene 6 años al iniciar el ciclo.
+
+[fuente](https://jardininfantilrukantu.cl/taller-de-verano-rukantu/)
+
+### Febrero
+
+**Fechas / estado:** 2027-02-01 — 2027-02-12
+
+**lugar:** Jardín Infantil Rukantú · Salesianos 1284 · San Miguel · Santiago
+
+**edad:** 2–6 años. Confirmar edad al inicio del periodo elegido.
+
+**Precio:** CLP 200000 por jornada completa en febrero más inscripción CLP 35000 al elegir solo febrero.
+
+**Programa:** Vacaciones diurnas con juegos acuáticos, arte, circo e inglés lúdico.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el programa menor.
+
+**Oscar:** Condicional. Adecuado si tiene 6 años al iniciar el ciclo.
+
+[fuente](https://jardininfantilrukantu.cl/taller-de-verano-rukantu/)
+
+### Fuentes
+
+- [Página oficial del organizador](https://jardininfantilrukantu.cl/taller-de-verano-rukantu/) · 2026-11-07
+
+## CP1697 · SummerCamp Pirque
+
+Chile · Av. Virginia Subercaseaux · Pirque · Región Metropolitana
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 4–12 años. A los 4 años se requiere autonomía para ir al baño.
+
+**Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar.
+
+**Programa:** Programa diurno general con natación, juegos, arte y movimiento.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** El operador publica periodo 5–30 de enero de 2027 y horario entre semana 09:00–13:00. Confirmar fechas de bloques semanales.
+
+**Precio / año:** 2027 · CLP 80000 por semana o CLP 150000 por dos semanas por niño.
+
+**Incluido:** Programa diurno general con natación, juegos, arte y movimiento.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.summercampirque.cl/programas/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.summercampirque.cl/) · 2026-11-07
 
 ## ~ Comprobaciones no cerradas
 

@@ -30,14 +30,14 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1692,
+    "dossiers": 1697,
     "countries": 97,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 233,
-      "published_2027": 477,
-      "partial_2027": 133,
-      "next_unannounced": 348,
+      "published_2027": 480,
+      "partial_2027": 134,
+      "next_unannounced": 349,
       "published_2026": 297,
       "partial_2026_27": 28,
       "partial_2026": 20,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2417
+    "source_urls": 2425
   },
   "countries": [
     {
@@ -397,7 +397,7 @@
     },
     {
       "country": "Чили",
-      "count": 28
+      "count": 33
     },
     {
       "country": "Швейцария",
@@ -160291,7 +160291,7 @@
       "provider": "TechLab Kids Chile · Kids WeDo · Robotics AM",
       "country": "Чили",
       "iso": "CHL",
-      "place": "Vitacura · Santiago",
+      "place": "Av. Vitacura 3568 · Oficina 611 · Vitacura · Santiago",
       "themes": [
         "robotics",
         "coding"
@@ -161070,7 +161070,9 @@
         "Сайт и учебное описание по-испански; отдельного прямого подтверждения языка преподавания ES или EN не найдено. До ответа организатора не включать в фильтр подтверждённого EN/ES преподавания.",
         "7–11 декабря — опубликованная неделя, но 8 декабря 2026 официальный праздник Чили. Отдельное подтверждение работы во вторник не найдено: неделя показана окном, без выдуманных ежедневных часов и без заявления, что лагерь закрыт. Согласовать фактические дни и цену этой недели.",
         "Объявлена скидка 5%: братьям/сёстрам либо за две и более недели одним заказом. Основания не складываются. Общая политика запрещает накопление скидок; рождественская карточка исключает отдельные дни и рассрочку. Базу скидки, распределение между детьми и совместимость с резервом 50% подтвердить в счёте; в семейных сметах оставлена полная цена.",
-        "Подтвердить индивидуальный иностранный приём, свободное место и подходящую сложность. Регистрация, оплата, согласие на прогулку и фото не выполнялись."
+        "Подтвердить индивидуальный иностранный приём, свободное место и подходящую сложность. Регистрация, оплата, согласие на прогулку и фото не выполнялись.",
+        "Группы Kids 6–8 и Junior 9–11 идут параллельно на одной площадке. Утренний тариф CLP 115000 за ребёнка за выбранную неделю. Для двоих CLP 230000 до возможной скидки. Места, язык и окончательный счёт уточнить.",
+        "Организатор публикует запись на программы. Наличие места в каждой из двух групп требуется подтвердить."
       ],
       "sources": [
         {
@@ -161092,9 +161094,35 @@
           "title": "Официальный праздник 8 декабря 2026",
           "url": "https://csigo.cancilleria.gob.ar/es/feriados-2026-1",
           "checked": "2026-11-05"
+        },
+        {
+          "url": "https://www.techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.techlabkids.cl/producto/taller-vacaciones-de-navidad-2026/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.techlabkids.cl/politica-reserva-descuentos-cancelaciones-devoluciones/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
         }
       ],
-      "checked": "2026-11-05",
+      "checked": "2026-11-07",
+      "pairing": {
+        "venue_id": "chl-techlab-vitacura-3568-oficina-611",
+        "verified_source": "https://www.techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+        "checked": "2026-11-06",
+        "fee": {
+          "currency": "CLP",
+          "amount": 115000,
+          "unit": "per_child_course",
+          "tax_included": null
+        }
+      },
       "related_event_ids": [
         "L033"
       ],
@@ -161187,7 +161215,7 @@
       "provider": "TechLab Kids Chile · Junior EV3 · Robotics AM",
       "country": "Чили",
       "iso": "CHL",
-      "place": "Vitacura · Santiago",
+      "place": "Av. Vitacura 3568 · Oficina 611 · Vitacura · Santiago",
       "themes": [
         "robotics",
         "coding"
@@ -161966,7 +161994,9 @@
         "Сайт и учебное описание по-испански; отдельного прямого подтверждения языка преподавания ES или EN не найдено. До ответа организатора не включать в фильтр подтверждённого EN/ES преподавания.",
         "7–11 декабря — опубликованная неделя, но 8 декабря 2026 официальный праздник Чили. Отдельное подтверждение работы во вторник не найдено: неделя показана окном, без выдуманных ежедневных часов и без заявления, что лагерь закрыт. Согласовать фактические дни и цену этой недели.",
         "Объявлена скидка 5%: братьям/сёстрам либо за две и более недели одним заказом. Основания не складываются. Общая политика запрещает накопление скидок; рождественская карточка исключает отдельные дни и рассрочку. Базу скидки, распределение между детьми и совместимость с резервом 50% подтвердить в счёте; в семейных сметах оставлена полная цена.",
-        "Подтвердить индивидуальный иностранный приём, свободное место и подходящую сложность. Регистрация, оплата, согласие на прогулку и фото не выполнялись."
+        "Подтвердить индивидуальный иностранный приём, свободное место и подходящую сложность. Регистрация, оплата, согласие на прогулку и фото не выполнялись.",
+        "Группы Kids 6–8 и Junior 9–11 идут параллельно на одной площадке. Утренний тариф CLP 115000 за ребёнка за выбранную неделю. Для двоих CLP 230000 до возможной скидки. Места, язык и окончательный счёт уточнить.",
+        "Организатор публикует запись на программы. Наличие места в каждой из двух групп требуется подтвердить."
       ],
       "sources": [
         {
@@ -161988,9 +162018,35 @@
           "title": "Официальный праздник 8 декабря 2026",
           "url": "https://csigo.cancilleria.gob.ar/es/feriados-2026-1",
           "checked": "2026-11-05"
+        },
+        {
+          "url": "https://www.techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.techlabkids.cl/producto/taller-vacaciones-de-navidad-2026/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.techlabkids.cl/politica-reserva-descuentos-cancelaciones-devoluciones/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
         }
       ],
-      "checked": "2026-11-05",
+      "checked": "2026-11-07",
+      "pairing": {
+        "venue_id": "chl-techlab-vitacura-3568-oficina-611",
+        "verified_source": "https://www.techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+        "checked": "2026-11-06",
+        "fee": {
+          "currency": "CLP",
+          "amount": 115000,
+          "unit": "per_child_course",
+          "tax_included": null
+        }
+      },
       "related_event_ids": [
         "L033"
       ],
@@ -278014,6 +278070,873 @@
       "language_evidence_role": "language_lessons",
       "related_event_ids": [],
       "calendar_links": []
+    },
+    {
+      "id": "CP1693",
+      "slug": "cleverbrain-valparaiso-kids-5-6",
+      "provider": "CleverBrain · Verano KIDS · 5–6",
+      "country": "Чили",
+      "iso": "CHL",
+      "place": "Espacio Fundadores · Av. Fundadores 642 · Placilla de Peñuelas · Valparaíso",
+      "themes": [
+        "science",
+        "engineering",
+        "coding",
+        "art",
+        "general"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "5–6 лет",
+      "language": "Язык преподавания конкретной группы пока не подтверждён.",
+      "confirmed_instruction_languages": [],
+      "programme": "ExploraLab, рисование и простые инженерные конструкции из блоков и картона. Приготовление простых блюд, истории и программирование без компьютера через последовательности и логику.",
+      "timing": {
+        "status": "published_2027",
+        "label": "8 учебных дней за цикл, 14:30–18:00. До 12 детей в группе. Требуется самостоятельность в гигиене.",
+        "sessions": [
+          [
+            "2027-01-05",
+            "2027-01-14"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-28"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-05",
+            "end": "2027-01-14",
+            "label": "Explorar y crear",
+            "source": "https://www.cleverbrainacademy.com/verano-2027-kids/",
+            "price": "CLP 110000 за цикл до 30 ноября 2026. С 1 декабря CLP 137000 при наличии мест.",
+            "place": "Espacio Fundadores · Av. Fundadores 642 · Placilla de Peñuelas · Valparaíso",
+            "age": "5–6 лет",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Нет по возрасту младшей программы. Данные TEENS ожидаются отдельно."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Условно. Подходит при возрасте 6 лет на начало цикла."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-05",
+                "topic": "ExploraLab, рисование и простые инженерные конструкции из блоков и картона.",
+                "start_time": "14:30",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-06",
+                "topic": "ExploraLab, рисование и простые инженерные конструкции из блоков и картона.",
+                "start_time": "14:30",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-07",
+                "topic": "ExploraLab, рисование и простые инженерные конструкции из блоков и картона.",
+                "start_time": "14:30",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-08",
+                "topic": "ExploraLab, рисование и простые инженерные конструкции из блоков и картона.",
+                "start_time": "14:30",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-11",
+                "topic": "ExploraLab, рисование и простые инженерные конструкции из блоков и картона.",
+                "start_time": "14:30",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-12",
+                "topic": "ExploraLab, рисование и простые инженерные конструкции из блоков и картона.",
+                "start_time": "14:30",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-13",
+                "topic": "ExploraLab, рисование и простые инженерные конструкции из блоков и картона.",
+                "start_time": "14:30",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-14",
+                "topic": "ExploraLab, рисование и простые инженерные конструкции из блоков и картона.",
+                "start_time": "14:30",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "programme": "ExploraLab, рисование и простые инженерные конструкции из блоков и картона.",
+            "questions": [
+              "Проверить возраст на первый день, место, язык и итоговую оплату."
+            ]
+          },
+          {
+            "start": "2027-01-18",
+            "end": "2027-01-28",
+            "label": "Nuevos desafíos",
+            "source": "https://www.cleverbrainacademy.com/verano-2027-kids/",
+            "price": "CLP 110000 за цикл до 30 ноября 2026. С 1 декабря CLP 137000 при наличии мест.",
+            "place": "Espacio Fundadores · Av. Fundadores 642 · Placilla de Peñuelas · Valparaíso",
+            "age": "5–6 лет",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Нет по возрасту младшей программы. Данные TEENS ожидаются отдельно."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Условно. Подходит при возрасте 6 лет на начало цикла."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "topic": "Приготовление простых блюд, истории и программирование без компьютера через последовательности и логику.",
+                "start_time": "14:30",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-19",
+                "topic": "Приготовление простых блюд, истории и программирование без компьютера через последовательности и логику.",
+                "start_time": "14:30",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-20",
+                "topic": "Приготовление простых блюд, истории и программирование без компьютера через последовательности и логику.",
+                "start_time": "14:30",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-21",
+                "topic": "Приготовление простых блюд, истории и программирование без компьютера через последовательности и логику.",
+                "start_time": "14:30",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-25",
+                "topic": "Приготовление простых блюд, истории и программирование без компьютера через последовательности и логику.",
+                "start_time": "14:30",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-26",
+                "topic": "Приготовление простых блюд, истории и программирование без компьютера через последовательности и логику.",
+                "start_time": "14:30",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-27",
+                "topic": "Приготовление простых блюд, истории и программирование без компьютера через последовательности и логику.",
+                "start_time": "14:30",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-28",
+                "topic": "Приготовление простых блюд, истории и программирование без компьютера через последовательности и логику.",
+                "start_time": "14:30",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "programme": "Приготовление простых блюд, истории и программирование без компьютера через последовательности и логику.",
+            "questions": [
+              "Проверить возраст на первый день, место, язык и итоговую оплату."
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "CLP",
+        "amount": 137000,
+        "unit": "per_child_course",
+        "label": "CLP 110000 за цикл до 30 ноября 2026. С 1 декабря CLP 137000 при наличии мест.",
+        "included": "Занятия выбранного возрастного блока. Состав материалов, перекус и возврат уточнить.",
+        "extras": "Цена не опубликована.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Нет по возрасту младшей программы. Данные TEENS ожидаются отдельно."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Подходит при возрасте 6 лет на начало цикла."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Проверить возраст на первый день, место, язык и итоговую оплату."
+      ],
+      "sources": [
+        {
+          "url": "https://www.cleverbrainacademy.com/verano-2027-kids/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-05",
+          "end": "2027-01-14",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1693-20270105-20270114"
+          ]
+        },
+        {
+          "start": "2027-01-18",
+          "end": "2027-01-28",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1693-20270118-20270128"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1694",
+      "slug": "cleverbrain-valparaiso-kids-7-8",
+      "provider": "CleverBrain · Verano KIDS · 7–8",
+      "country": "Чили",
+      "iso": "CHL",
+      "place": "Espacio Fundadores · Av. Fundadores 642 · Placilla de Peñuelas · Valparaíso",
+      "themes": [
+        "science",
+        "engineering",
+        "coding",
+        "art",
+        "general"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "7–8 лет",
+      "language": "Язык преподавания конкретной группы пока не подтверждён.",
+      "confirmed_instruction_languages": [],
+      "programme": "ExploraLab, рисование и простые инженерные конструкции из блоков и картона. Приготовление простых блюд, истории и программирование без компьютера через последовательности и логику.",
+      "timing": {
+        "status": "published_2027",
+        "label": "8 учебных дней за цикл, 14:30–18:00. До 12 детей в группе. Требуется самостоятельность в гигиене.",
+        "sessions": [
+          [
+            "2027-01-05",
+            "2027-01-14"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-28"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-05",
+            "end": "2027-01-14",
+            "label": "Explorar y crear",
+            "source": "https://www.cleverbrainacademy.com/verano-2027-kids/",
+            "price": "CLP 110000 за цикл до 30 ноября 2026. С 1 декабря CLP 137000 при наличии мест.",
+            "place": "Espacio Fundadores · Av. Fundadores 642 · Placilla de Peñuelas · Valparaíso",
+            "age": "7–8 лет",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Нет по возрасту младшей программы. Данные TEENS ожидаются отдельно."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Условно, если к началу цикла уже исполнилось 7 лет."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-05",
+                "topic": "Приготовление простых блюд, истории и программирование без компьютера через последовательности и логику.",
+                "start_time": "14:30",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-06",
+                "topic": "Приготовление простых блюд, истории и программирование без компьютера через последовательности и логику.",
+                "start_time": "14:30",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-07",
+                "topic": "Приготовление простых блюд, истории и программирование без компьютера через последовательности и логику.",
+                "start_time": "14:30",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-08",
+                "topic": "Приготовление простых блюд, истории и программирование без компьютера через последовательности и логику.",
+                "start_time": "14:30",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-11",
+                "topic": "Приготовление простых блюд, истории и программирование без компьютера через последовательности и логику.",
+                "start_time": "14:30",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-12",
+                "topic": "Приготовление простых блюд, истории и программирование без компьютера через последовательности и логику.",
+                "start_time": "14:30",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-13",
+                "topic": "Приготовление простых блюд, истории и программирование без компьютера через последовательности и логику.",
+                "start_time": "14:30",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-14",
+                "topic": "Приготовление простых блюд, истории и программирование без компьютера через последовательности и логику.",
+                "start_time": "14:30",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "programme": "Приготовление простых блюд, истории и программирование без компьютера через последовательности и логику.",
+            "questions": [
+              "Проверить возраст на первый день, место, язык и итоговую оплату."
+            ]
+          },
+          {
+            "start": "2027-01-18",
+            "end": "2027-01-28",
+            "label": "Nuevos desafíos",
+            "source": "https://www.cleverbrainacademy.com/verano-2027-kids/",
+            "price": "CLP 110000 за цикл до 30 ноября 2026. С 1 декабря CLP 137000 при наличии мест.",
+            "place": "Espacio Fundadores · Av. Fundadores 642 · Placilla de Peñuelas · Valparaíso",
+            "age": "7–8 лет",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Нет по возрасту младшей программы. Данные TEENS ожидаются отдельно."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Условно, если к началу цикла уже исполнилось 7 лет."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "topic": "ExploraLab, рисование и простые инженерные конструкции из блоков и картона.",
+                "start_time": "14:30",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-19",
+                "topic": "ExploraLab, рисование и простые инженерные конструкции из блоков и картона.",
+                "start_time": "14:30",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-20",
+                "topic": "ExploraLab, рисование и простые инженерные конструкции из блоков и картона.",
+                "start_time": "14:30",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-21",
+                "topic": "ExploraLab, рисование и простые инженерные конструкции из блоков и картона.",
+                "start_time": "14:30",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-25",
+                "topic": "ExploraLab, рисование и простые инженерные конструкции из блоков и картона.",
+                "start_time": "14:30",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-26",
+                "topic": "ExploraLab, рисование и простые инженерные конструкции из блоков и картона.",
+                "start_time": "14:30",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-27",
+                "topic": "ExploraLab, рисование и простые инженерные конструкции из блоков и картона.",
+                "start_time": "14:30",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-28",
+                "topic": "ExploraLab, рисование и простые инженерные конструкции из блоков и картона.",
+                "start_time": "14:30",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "programme": "ExploraLab, рисование и простые инженерные конструкции из блоков и картона.",
+            "questions": [
+              "Проверить возраст на первый день, место, язык и итоговую оплату."
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "CLP",
+        "amount": 137000,
+        "unit": "per_child_course",
+        "label": "CLP 110000 за цикл до 30 ноября 2026. С 1 декабря CLP 137000 при наличии мест.",
+        "included": "Занятия выбранного возрастного блока. Состав материалов, перекус и возврат уточнить.",
+        "extras": "Цена не опубликована.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Нет по возрасту младшей программы. Данные TEENS ожидаются отдельно."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно, если к началу цикла уже исполнилось 7 лет."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Проверить возраст на первый день, место, язык и итоговую оплату."
+      ],
+      "sources": [
+        {
+          "url": "https://www.cleverbrainacademy.com/verano-2027-kids/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-05",
+          "end": "2027-01-14",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1694-20270105-20270114"
+          ]
+        },
+        {
+          "start": "2027-01-18",
+          "end": "2027-01-28",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1694-20270118-20270128"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1695",
+      "slug": "cleverbrain-valparaiso-teens",
+      "provider": "CleverBrain · Verano TEENS",
+      "country": "Чили",
+      "iso": "CHL",
+      "place": "Espacio Fundadores · Av. Fundadores 642 · Placilla de Peñuelas · Valparaíso",
+      "themes": [
+        "general"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Оператор анонсировал летнюю программу TEENS 2027. Возраст, содержание, расписание и цена пока не опубликованы.",
+      "language": "Язык преподавания конкретной группы пока не подтверждён.",
+      "confirmed_instruction_languages": [],
+      "programme": "Оператор анонсировал летнюю программу TEENS 2027. Возраст, содержание, расписание и цена пока не опубликованы.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Оператор анонсировал летнюю программу TEENS 2027. Возраст, содержание, расписание и цена пока не опубликованы.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "CLP",
+        "amount": null,
+        "unit": "course",
+        "label": "Цена не опубликована.",
+        "included": "Оператор анонсировал летнюю программу TEENS 2027. Возраст, содержание, расписание и цена пока не опубликованы.",
+        "extras": "Цена не опубликована.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Уточнить возрастной допуск, наличие места и точный режим доступа у организатора."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Уточнить возрастной допуск, наличие места и точный режим доступа у организатора."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://www.cleverbrainacademy.com/verano-2027-teens/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1696",
+      "slug": "rukantu-santiago-summer-2027",
+      "provider": "Rukantú · Taller de verano",
+      "country": "Чили",
+      "iso": "CHL",
+      "place": "Jardín Infantil Rukantú · Salesianos 1284 · San Miguel · Santiago",
+      "themes": [
+        "general",
+        "art",
+        "music",
+        "language"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "2–6 лет. Возраст на начало выбранного периода уточнить.",
+      "language": "Есть игровое занятие английским. Язык остальных активностей подтвердить.",
+      "confirmed_instruction_languages": [],
+      "programme": "Дневные каникулы с играми на воде, искусством, цирком и английским в игровой форме.",
+      "timing": {
+        "status": "published_2027",
+        "label": "4–29 января и 1–12 февраля 2027. Часы выбранного тарифа и отдельные дни занятий уточнить.",
+        "sessions": [
+          [
+            "2027-01-04",
+            "2027-01-29"
+          ],
+          [
+            "2027-02-01",
+            "2027-02-12"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-29",
+            "label": "Январь",
+            "price": "CLP 370000 за полный день в январе плюс регистрация CLP 65000.",
+            "place": "Jardín Infantil Rukantú · Salesianos 1284 · San Miguel · Santiago",
+            "age": "2–6 лет. Возраст на начало выбранного периода уточнить.",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Нет по возрасту для младшей программы."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Условно. Подходит при возрасте 6 лет на начало цикла."
+              }
+            },
+            "source": "https://jardininfantilrukantu.cl/taller-de-verano-rukantu/",
+            "date_scope": "camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "programme": "Дневные каникулы с играми на воде, искусством, цирком и английским в игровой форме."
+          },
+          {
+            "start": "2027-02-01",
+            "end": "2027-02-12",
+            "label": "Февраль",
+            "price": "CLP 200000 за полный день в феврале плюс регистрация CLP 35000 при выборе только февраля.",
+            "place": "Jardín Infantil Rukantú · Salesianos 1284 · San Miguel · Santiago",
+            "age": "2–6 лет. Возраст на начало выбранного периода уточнить.",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Нет по возрасту для младшей программы."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Условно. Подходит при возрасте 6 лет на начало цикла."
+              }
+            },
+            "source": "https://jardininfantilrukantu.cl/taller-de-verano-rukantu/",
+            "date_scope": "camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "programme": "Дневные каникулы с играми на воде, искусством, цирком и английским в игровой форме."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "CLP",
+        "amount": null,
+        "unit": "period",
+        "label": "Январь: CLP 250000 / 300000 полдня без питания / с питанием, 320000 за ¾ дня, 370000 за полный день. Февраль: CLP 130000 / 160000, 170000 и 200000 соответственно. Запись CLP 65000 за январь или оба периода, CLP 35000 за один февраль.",
+        "included": "Дневные каникулы с играми на воде, искусством, цирком и английским в игровой форме.",
+        "extras": "Футболка включена в запись за январь или оба периода. Для одного февраля она отдельно за CLP 15000.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Нет по возрасту для младшей программы."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Подходит при возрасте 6 лет на начало цикла."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://jardininfantilrukantu.cl/taller-de-verano-rukantu/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      },
+      "programme_type": "general_multiactivity",
+      "catalog_participation": "holiday_workshop",
+      "confirmed_support_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "language_lessons",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1696-20270104-20270129"
+          ]
+        },
+        {
+          "start": "2027-02-01",
+          "end": "2027-02-12",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1696-20270201-20270212"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1697",
+      "slug": "summercamp-pirque-jan2027",
+      "provider": "SummerCamp Pirque",
+      "country": "Чили",
+      "iso": "CHL",
+      "place": "Av. Virginia Subercaseaux · Pirque · Región Metropolitana",
+      "themes": [
+        "general",
+        "art",
+        "sport"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "4–12 лет. Для 4 лет требуется самостоятельность в туалете.",
+      "language": "Язык преподавания конкретной группы пока не подтверждён.",
+      "confirmed_instruction_languages": [],
+      "programme": "Общая дневная программа с плаванием, играми, искусством и движением.",
+      "timing": {
+        "status": "partial_2027",
+        "label": "Оператор публикует окно 5–30 января 2027 и часы по будням 09:00–13:00. Даты недельных блоков подтвердить.",
+        "sessions": [],
+        "session_details": [],
+        "announced_months": [
+          "2027-01"
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "CLP",
+        "amount": 80000,
+        "unit": "child_week",
+        "label": "CLP 80000 за неделю или CLP 150000 за две недели на ребёнка.",
+        "included": "Общая дневная программа с плаванием, играми, искусством и движением.",
+        "extras": "Цена не опубликована.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://www.summercampirque.cl/programas/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.summercampirque.cl/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      },
+      "programme_type": "general_multiactivity",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": []
     }
   ],
   "gaps": [
@@ -283339,7 +284262,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 218,
+  "version": 219,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -296574,7 +297497,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1692,
+      "total_dossiers": 1697,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -314889,6 +315812,36 @@
       "relation": "related_track_or_operator"
     },
     {
+      "programme_id": "CP1693",
+      "event_id": "CP1693-20270105-20270114",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1693",
+      "event_id": "CP1693-20270118-20270128",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1694",
+      "event_id": "CP1694-20270105-20270114",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1694",
+      "event_id": "CP1694-20270118-20270128",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1696",
+      "event_id": "CP1696-20270104-20270129",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1696",
+      "event_id": "CP1696-20270201-20270212",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -318796,10 +319749,16 @@
     "CP1686-20270111-20270115-northcote-2",
     "CP1686-20270118-20270122-northcote-3",
     "CP1686-20270118-20270122-eltham-3",
-    "CP1687-20261214-20261218"
+    "CP1687-20261214-20261218",
+    "CP1693-20270105-20270114",
+    "CP1693-20270118-20270128",
+    "CP1694-20270105-20270114",
+    "CP1694-20270118-20270128",
+    "CP1696-20270104-20270129",
+    "CP1696-20270201-20270212"
   ],
   "integration": {
-    "generated_sessions": 3477,
+    "generated_sessions": 3483,
     "reused_legacy_events": 69,
     "seasonal_windows": 60,
     "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."

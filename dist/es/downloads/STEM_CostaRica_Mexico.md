@@ -3112,6 +3112,32 @@ Limitaciones: Festival profesional para directivos. Las entradas presencial y en
 Fuente: https://needed.education/nevo2027/
 Se ha comprobado: 2026-11-07
 
+### E353 · Nerdearla · México 2026
+
+Fecha: 2026-11-18 — 2026-11-21
+edad: Entrada gratuita con inscripción. Confirmar admisión infantil y edad de talleres con la sede.
+Matvey: Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.
+Oscar: Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: Entrada gratuita con inscripción. Confirmar admisión infantil y edad de talleres con la sede.
+Precio: Gratuito.
+Limitaciones: Periodo general 18–21 de noviembre de 2026. El 18 de noviembre hay transmisión, el 19–20 de noviembre programa presencial y transmisión. Confirmar modalidad del 21 de noviembre en el horario.
+Fuente: https://nerdearla.com/mexico/
+Se ha comprobado: 2026-11-07
+
+### C3204 · Global Game Jam 2027 · CENART Centro Multimedia
+
+Fecha: 2027-01-29 — 2027-01-31
+edad: La organización local indica público mayor de edad. Acceso familiar como espectador sin anunciar.
+Matvey: No según la edad de admisión publicada por la sede.
+Oscar: No según la edad de admisión publicada por la sede.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: 29–31 de enero de 2027, gratuito y presencial. Inscripción del 1 de diciembre de 2026 al 28 de enero de 2027. El encabezado conserva 2026, el horario corresponde a enero de 2027.
+Precio: Gratuito.
+Limitaciones: 29–31 de enero de 2027, gratuito y presencial. Inscripción del 1 de diciembre de 2026 al 28 de enero de 2027. El encabezado conserva 2026, el horario corresponde a enero de 2027.
+Fuente: https://cenart.gob.mx/eventos/encuentro-global-game-jam-2026/
+Se ha comprobado: 2026-11-07
+
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02
 
 Fecha: 2027-03-29 - 2027-04-02

@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 7681; competiciones: 3200; eventos: 352; campamentos / programas: 4129. Perfiles de ligas y programas: 268. Fichas de exposiciones grandes y especializadas: 264 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 7701; competiciones: 3204; eventos: 362; campamentos / programas: 4135. Perfiles de ligas y programas: 268. Fichas de exposiciones grandes y especializadas: 274 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros para 159 de 249 países y territorios. Países con auditoría completa: 0. La revisión histórica v51 agregó 21 fichas y 3 perfiles. Se conservaron las fichas previas.
 
@@ -14,16 +14,16 @@ Hay registros para 159 de 249 países y territorios. Países con auditoría comp
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 23 | 1448 | 48 | 1072 |
-| América del Sur | 10 | 203 | 11 | 136 |
-| Europa | 42 | 433 | 81 | 1298 |
+| América del Norte | 23 | 1449 | 49 | 1072 |
+| América del Sur | 10 | 204 | 19 | 142 |
+| Europa | 42 | 433 | 82 | 1298 |
 | África | 34 | 115 | 15 | 68 |
 | Asia | 44 | 778 | 89 | 1409 |
 | Oceanía | 6 | 128 | 19 | 134 |
 
-Fichas interregionales / mundiales sin asignar a un solo continente: 113. América del Norte incluye América Central y el Caribe. Las cifras muestran el inventario de la base, no un porcentaje de cobertura.
+Fichas interregionales o globales sin un solo continente asignado: 115. América del Norte incluye Centroamérica y el Caribe. Las cifras cuentan las fichas del catálogo.
 
-VEX: 518 de 3200 fichas de competiciones (16.2%). La cobertura está sesgada hacia este circuito.
+VEX: 518 de 3204 fichas de competiciones (16.2%). La cobertura está sesgada hacia este circuito.
 
 ## Lo que queda
 
@@ -600,6 +600,16 @@ VEX: 518 de 3200 fichas de competiciones (16.2%). La cobertura está sesgada hac
 - **University of Guam · Tech Fest 2026** — Guam; 2026-03-05. el permiso de entrada de niños. https://www.uog.edu/charter-day/2026/schedule
 - **NASA Guam Space Grant · STEM Saturday · Discovering Drones** — Guam; fecha desconocida. Confirmar acceso infantil. https://www.uog.edu/nasa-guam-space-grant/stem-saturday
 - **Fête de la science · Nārama · Polynésie française 2026** — Polinesia Francesa; 2026-10-02 – 2026-10-16. el permiso de entrada de niños. https://forco.upf.pf/fr/actualites/35eme-edition-de-la-fete-de-la-science-appel-participation
+- **Nerdearla · México 2026** — México; 2026-11-18 – 2026-11-21. el permiso de entrada de niños. https://nerdearla.com/mexico/
+- **Nerdearla · Chile 2027** — Chile; 2027-04-15 – 2027-04-17. el permiso de entrada de niños. https://nerdearla.com/chile/
+- **Nerdearla · España 2027** — España; 2027-11-03 – 2027-11-05. el permiso de entrada de niños. https://nerdearla.com/sp/2027/
+- **Nerdearla · Argentina 2027** — Argentina; fecha desconocida. Confirmar acceso infantil. https://nerdearla.com/?lang=es
+- **MCI Expo 2026** — Chile; 2026-11-20. el permiso de entrada de niños. https://mcielectronics.cl/mci-expo/
+- **Encuentro de Robótica Uandes 2026** — Chile; 2026-11-07. con un adulto; condiciones de admisión adulta por separado. https://www.uandes.cl/actualidad/eventos/349476/
+- **Feria EdTech · The School of the Future 2026** — Chile; 2026-11-27 – 2026-11-28. el permiso de entrada de niños. https://cursos.mcielectronics.cl/eventos/
+- **ExpoInnova 2026 · SLEP Gabriela Mistral** — Chile; 2026-12-04. el permiso de entrada de niños. https://cursos.mcielectronics.cl/eventos/
+- **IA Fest Chile 2027 · ACHIAG** — Chile; fecha desconocida. Confirmar acceso infantil. https://achiag.cl/fest/
+- **IA Summit Chile 2027 · ACHIAG** — Chile; fecha desconocida. Confirmar acceso infantil. https://achiag.cl/summit/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

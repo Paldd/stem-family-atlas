@@ -13866,6 +13866,126 @@
       "exhibitors": []
     },
     {
+      "id": "E353",
+      "block": "Eventos",
+      "title": "Nerdearla · México 2026",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Expo Reforma · Ciudad de México",
+      "start": "2026-11-18",
+      "end": "2026-11-21",
+      "deadline": "",
+      "period": "Periodo general 18–21 de noviembre de 2026. El 18 de noviembre hay transmisión, el 19–20 de noviembre programa presencial y transmisión. Confirmar modalidad del 21 de noviembre en el horario.",
+      "date_status": "Confirmado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://nerdearla.com/mexico/",
+      "references": [
+        {
+          "url": "https://nerdearla.com/mexico/schedule/",
+          "label": "Reglas y condiciones de admisión"
+        },
+        {
+          "url": "https://nerdearla.com/mexico/community_media_kit/",
+          "label": "Reglas y condiciones de admisión"
+        }
+      ],
+      "age": "Entrada gratuita con inscripción. Confirmar admisión infantil y edad de talleres con la sede.",
+      "mat": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
+      "osc": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
+      "format": "Conferencia tecnológica con charlas, talleres y transmisión. Incluye desarrollo, IA y tecnologías digitales.",
+      "entry": "Entrada gratuita con inscripción. Confirmar admisión infantil y edad de talleres con la sede.",
+      "gear": "Conferencia tecnológica con charlas, talleres y transmisión. Incluye desarrollo, IA y tecnologías digitales.",
+      "language": "Confirmar el idioma del grupo o sede concretos.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Gratuito.",
+      "level": "Feria familiar o evento público",
+      "reward": "",
+      "priority": "P3 — visita según programa",
+      "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
+      "note": "Periodo general 18–21 de noviembre de 2026. El 18 de noviembre hay transmisión, el 19–20 de noviembre programa presencial y transmisión. Confirmar modalidad del 21 de noviembre en el horario.",
+      "themes": [
+        "ai",
+        "coding",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Etapa regional",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "exhibition_tier": "profile",
+      "adult_entry": "Entrada gratuita con inscripción. Confirmar admisión infantil y edad de talleres con la sede.",
+      "visitor_policy": "confirm_children",
+      "visitor_policy_note": "Entrada gratuita con inscripción. Confirmar admisión infantil y edad de talleres con la sede.",
+      "exhibitor_note": "Conferencia tecnológica con charlas, talleres y transmisión. Incluye desarrollo, IA y tecnologías digitales.",
+      "exhibitor_directory_url": "https://nerdearla.com/mexico/",
+      "highlights": [],
+      "exhibitors": []
+    },
+    {
+      "id": "C3204",
+      "block": "Competiciones",
+      "title": "Global Game Jam 2027 · CENART Centro Multimedia",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "CENART · Centro Multimedia · Ciudad de México",
+      "start": "2027-01-29",
+      "end": "2027-01-31",
+      "deadline": "2027-01-28",
+      "period": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://cenart.gob.mx/eventos/encuentro-global-game-jam-2026/",
+      "references": [
+        {
+          "url": "https://globalgamejam.org/",
+          "label": "Reglas y condiciones de admisión"
+        }
+      ],
+      "age": "La organización local indica público mayor de edad. Acceso familiar como espectador sin anunciar.",
+      "mat": "No según la edad de admisión publicada por la sede.",
+      "osc": "No según la edad de admisión publicada por la sede.",
+      "format": "Desarrollo colaborativo de videojuegos y juegos de mesa. Equipos y posibles premios según la sede.",
+      "entry": "29–31 de enero de 2027, gratuito y presencial. Inscripción del 1 de diciembre de 2026 al 28 de enero de 2027. El encabezado conserva 2026, el horario corresponde a enero de 2027.",
+      "gear": "",
+      "language": "Confirmar el idioma del grupo o sede concretos.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Gratuito.",
+      "level": "Etapa regional",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
+      "note": "29–31 de enero de 2027, gratuito y presencial. Inscripción del 1 de diciembre de 2026 al 28 de enero de 2027. El encabezado conserva 2026, el horario corresponde a enero de 2027.",
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Etapa regional",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "competition",
+      "registration_opens": "2026-12-01",
+      "parent_event_id": "C3203"
+    },
+    {
       "id": "CP041-20270329-20270402",
       "block": "Campamentos",
       "title": "Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02",

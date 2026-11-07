@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 7681,
-    "competition_cards": 3200,
-    "event_cards": 352,
-    "camp_cards": 4129,
+    "cards": 7701,
+    "competition_cards": 3204,
+    "event_cards": 362,
+    "camp_cards": 4135,
     "league_profiles": 268,
-    "major_exhibition_cards": 264,
+    "major_exhibition_cards": 274,
     "vex_cards": 518,
     "countries_with_records": 159,
     "fully_audited_countries": 0
@@ -34,11 +34,11 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 2605,
+      "total": 2607,
       "countries_with_records": 23,
-      "competitions": 1448,
-      "events": 85,
-      "major_exhibitions": 48,
+      "competitions": 1449,
+      "events": 86,
+      "major_exhibitions": 49,
       "camps": 1072,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
@@ -48,12 +48,12 @@
       "regions": [
         "Южная Америка"
       ],
-      "total": 353,
+      "total": 368,
       "countries_with_records": 10,
-      "competitions": 203,
-      "events": 14,
-      "major_exhibitions": 11,
-      "camps": 136,
+      "competitions": 204,
+      "events": 22,
+      "major_exhibitions": 19,
+      "camps": 142,
       "status": "Частично исследовано",
       "remaining": "Много карточек Ecuador и региональных маршрутов Chile; Brazil, Perú и другие страны требуют местных этапов, квот и календарей."
     },
@@ -62,11 +62,11 @@
       "regions": [
         "Европа"
       ],
-      "total": 1831,
+      "total": 1832,
       "countries_with_records": 42,
       "competitions": 433,
-      "events": 100,
-      "major_exhibitions": 81,
+      "events": 101,
+      "major_exhibitions": 82,
       "camps": 1298,
       "status": "Частично исследовано",
       "remaining": "CHE/ESP/FRA углублены повторно. Не закрыты все местные лиги, новые qualifiers 2027, преподавание на английском / испанском, иностранные квоты, текущие juniormentors и полные школьные протоколы 5–10 лет. Германия / Нидерланды / Бельгия: первый частичный проход; все местные клубы, языки, иностранные квоты и полные школьные результаты остаются открыты."
@@ -9999,6 +9999,116 @@
       "new": false
     },
     {
+      "id": "E353",
+      "name": "Nerdearla · México 2026",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "start": "2026-11-18",
+      "end": "2026-11-21",
+      "visitor_policy": "confirm_children",
+      "source": "https://nerdearla.com/mexico/",
+      "new": false
+    },
+    {
+      "id": "E354",
+      "name": "Nerdearla · Chile 2027",
+      "country": "Чили",
+      "region": "Южная Америка",
+      "start": "2027-04-15",
+      "end": "2027-04-17",
+      "visitor_policy": "confirm_children",
+      "source": "https://nerdearla.com/chile/",
+      "new": false
+    },
+    {
+      "id": "E355",
+      "name": "Nerdearla · España 2027",
+      "country": "Испания",
+      "region": "Европа",
+      "start": "2027-11-03",
+      "end": "2027-11-05",
+      "visitor_policy": "confirm_children",
+      "source": "https://nerdearla.com/sp/2027/",
+      "new": false
+    },
+    {
+      "id": "E356",
+      "name": "Nerdearla · Argentina 2027",
+      "country": "Аргентина",
+      "region": "Южная Америка",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://nerdearla.com/?lang=es",
+      "new": false
+    },
+    {
+      "id": "E357",
+      "name": "MCI Expo 2026",
+      "country": "Чили",
+      "region": "Южная Америка",
+      "start": "2026-11-20",
+      "end": "2026-11-20",
+      "visitor_policy": "confirm_children",
+      "source": "https://mcielectronics.cl/mci-expo/",
+      "new": false
+    },
+    {
+      "id": "E358",
+      "name": "Encuentro de Robótica Uandes 2026",
+      "country": "Чили",
+      "region": "Южная Америка",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "visitor_policy": "family",
+      "source": "https://www.uandes.cl/actualidad/eventos/349476/",
+      "new": false
+    },
+    {
+      "id": "E359",
+      "name": "Feria EdTech · The School of the Future 2026",
+      "country": "Чили",
+      "region": "Южная Америка",
+      "start": "2026-11-27",
+      "end": "2026-11-28",
+      "visitor_policy": "confirm_children",
+      "source": "https://cursos.mcielectronics.cl/eventos/",
+      "new": false
+    },
+    {
+      "id": "E360",
+      "name": "ExpoInnova 2026 · SLEP Gabriela Mistral",
+      "country": "Чили",
+      "region": "Южная Америка",
+      "start": "2026-12-04",
+      "end": "2026-12-04",
+      "visitor_policy": "confirm_children",
+      "source": "https://cursos.mcielectronics.cl/eventos/",
+      "new": false
+    },
+    {
+      "id": "E361",
+      "name": "IA Fest Chile 2027 · ACHIAG",
+      "country": "Чили",
+      "region": "Южная Америка",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://achiag.cl/fest/",
+      "new": false
+    },
+    {
+      "id": "E362",
+      "name": "IA Summit Chile 2027 · ACHIAG",
+      "country": "Чили",
+      "region": "Южная Америка",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://achiag.cl/summit/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -11379,7 +11489,7 @@
       "official_alternative": "https://www.ykpaoschool.cn/News-and-Events/New-Stories/988"
     }
   ],
-  "interregional_cards": 113,
+  "interregional_cards": 115,
   "promoted_exhibition_ids": [],
   "focused_country": {
     "country": "Тайвань",
@@ -12416,8 +12526,8 @@
       }
     ],
     "counts": {
-      "records": 4129,
-      "holiday": 3855,
+      "records": 4135,
+      "holiday": 3861,
       "regular": 120,
       "self_paced_materials": 2,
       "boarding": 1026,
@@ -12426,7 +12536,7 @@
       "family_instruction": 1291,
       "family_support": 12,
       "ru_instruction": 3,
-      "language_lessons": 408,
+      "language_lessons": 410,
       "camp_life_language": 228,
       "language_unclassified": 137,
       "countries": 99
