@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 8459; competiciones: 3451; eventos: 441; campamentos / programas: 4567. Perfiles de ligas y programas: 288. Fichas de exposiciones grandes y especializadas: 351 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 8468; competiciones: 3451; eventos: 450; campamentos / programas: 4567. Perfiles de ligas y programas: 288. Fichas de exposiciones grandes y especializadas: 360 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros concretos para 178 de 249 países y territorios. Países auditados por completo: 0. La revisión histórica v51 añadió 21 fichas y 3 perfiles. Se conservan todas las fichas previas.
 
@@ -18,7 +18,7 @@ Hay registros concretos para 178 de 249 países y territorios. Países auditados
 | América del Sur | 12 | 249 | 30 | 197 |
 | Europa | 42 | 440 | 87 | 1372 |
 | África | 34 | 135 | 25 | 71 |
-| Asia | 46 | 852 | 105 | 1557 |
+| Asia | 46 | 852 | 114 | 1557 |
 | Oceanía | 9 | 136 | 24 | 171 |
 
 Fichas interregionales o globales sin continente único: 136. América del Norte incluye Centroamérica y el Caribe. Las cifras reflejan el inventario de la base y la cobertura completa sigue pendiente.
@@ -398,8 +398,8 @@ VEX: 521 de las 3451 fichas de competiciones (15.1%). Esta proporción refleja u
 - **MWC Barcelona 2027** España; 2027-03-01 2027-03-04 No se permite a los niños 6/9 https://www.mwcbarcelona.com/virtual-assistance/va-venue-information
 - **GITEX Global 2026 ○ Exposición** - Estados Unidos de América; 2026-12-08 BWC 2026-12-11. https://www.gitex.com/
 - **automatica 2027** - Alemania; 2027-06-22 - 2027-06-25. https://automatica-munich.com/en/trade-fair/plan-your-visit/opening-hours/
-- **TAIREX 2027** Taiwán; 2027-03-18 2027-03-21; no se permite a los niños 6/9. https://www.chanchao.com.tw/expoDetail.asp?id=TAIREX2027
-- **TAIROS / Automation Taipei 2027** Taiwán; 2027-08-04 2027-08-07 No se permite a los niños 6/9 https://www.chanchao.com.tw/expoDetail.asp?id=ROBOT2027
+- **TAIREX 2027** Taiwán; 2027-03-18 2027-03-21; no se permite a los niños 6/9. https://tairex.chanchao.com.tw/VisitorInfo
+- **TAIROS / Automation Taipei 2027** Taiwán; 2027-08-04 2027-08-07 No se permite a los niños 6/9 https://tairos.chanchao.com.tw/en/VisitorInfo
 - **Touch Taiwan 2027** — Taiwán; 2027-04-21 – 2027-04-23. Niños 6/9 No puedes.. https://www.touchtaiwan.com/visitor.asp
 - **COMPUTEX 2027** — Taiwán; 2027-06-01 – 2027-06-04. Los niños del 6/9 no pueden. https://www.computextaipei.com.tw/en/news/035C3CADA83D9EAA/info.html
 - **Smart City Summit & Expo 2027** Taiwán; 2027-03-16 2027-03-19. https://smartcity.org.tw/smartcity.php
@@ -516,7 +516,7 @@ VEX: 521 de las 3451 fichas de competiciones (15.1%). Esta proporción refleja u
 - **Industrial Transformation Asia-Pacific 2026** — Singapur; 2026-10-21 – 2026-10-22. Acceso de los niños a la educación. https://industrial-transformation.com/ticketing-options/
 - **Industrial Transformation Asia-Pacific 2027** Singapur; 2027-07-20 BWC 2027-07-22. https://industrial-transformation.com/ticketing-options/
 - **GITEX AI ASIA 2027** ○ Singapur; 2027-04-29 2027-04-30; los niños 6/9 no pueden. https://gitexasia.com/
-- **TIMTOS 2027 · Taipei Int'l Machine Tool Show** — Taiwán; 2027-03-02 – 2027-03-06. Los niños del 6/9 no pueden. https://cloudcdn.taiwantradeshows.com.tw/2027/timtos/kit-en/application-kit-en.pdf
+- **TIMTOS 2027 · Taipei Int'l Machine Tool Show** — Taiwán; 2027-03-02 – 2027-03-06. Los niños del 6/9 no pueden. https://www.timtos.com.tw/en/menu/24D4D472FDE8F915D0636733C6861689/info.html
 - **Maker Faire Lynchburg 2027** — Estados Unidos; 2027-03-14. con un adulto; condiciones de entrada adulta aparte. https://lynchburg.makerfaire.com/
 - **Maker Faire Ulaanbaatar 2027** — Mongolia; 2027-05-08 – 2027-05-09. el permiso de entrada de niños. https://makerfaire.com/upcoming-faires/
 - **Maker Faire Trieste 2027** — Italia; 2027-05-22 – 2027-05-23. el permiso de entrada de niños. https://trieste.makerfaire.com/en/home-page/
@@ -707,6 +707,15 @@ VEX: 521 de las 3451 fichas de competiciones (15.1%). Esta proporción refleja u
 - **CySec Brunei 2026 · Resilient by Design** — Brunéi; 2026-09-15 – 2026-09-16. el permiso de entrada de niños. https://cysec.bcsa.bn/
 - **Feria Científica del Ingenio Juvenil 2026 · SENACYT** — Panamá; 2026-10-14 – 2026-10-16. el permiso de entrada de niños. https://feriacientifica.senacyt.gob.pa/
 - **Feria Científica del Ingenio Juvenil · next edition** — Panamá; fecha desconocida. Confirmar acceso infantil. https://feriacientifica.senacyt.gob.pa/
+- **Miraikan · Transformation** — Japón; 2027-04-23 – 2027-08-31. el permiso de entrada de niños. https://www.miraikan.jst.go.jp/news/press/202609084737.html
+- **TEPIA Advanced Technology Gallery** — Japón; fecha sin determinar. Con un adulto; condiciones de admisión adulta por separado. https://www.tepia.jp/exhibition/personal
+- **TEPIA Winter 2026 · Robots and making** — Japón; 2026-11-21 – 2026-12-25. con un adulto; condiciones de admisión adulta por separado. https://www.tepia.jp/exhibition/event/2026winter
+- **NEXT BUSINESS EXPO 2027 · Physical AI & Robotics** — Japón; 2027-02-18 – 2027-02-19. el permiso de entrada de niños. https://www.next-business-expo.jp/physical-ai/
+- **Seoul RAIM · Robot City** — Corea del Sur; 2026-08-28 – 2026-12-05. con un adulto; condiciones de admisión adulta por separado. https://science.seoul.go.kr/RAIM/bbsctt/view.do?bbscttSn=2609010004&key=2304100015&sc_bbsctt_adit_iem_cn=%ED%98%84%EC%9E%AC
+- **Shanghai Science and Technology Museum** — China; fecha sin determinar. Con un adulto; condiciones de admisión adulta por separado. https://en.sstm.org.cn/tickets/policy
+- **Beijing Future Science and Technology Museum** — China; fecha sin determinar. Con un adulto; condiciones de admisión adulta por separado. https://www.beijing.gov.cn/gate/big5/www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202610/t20261001_4888580.html
+- **NTSEC · Journey of the Curiosity Ball** — Taiwán; 2026-11-07 – 2027-11-14. el permiso de entrada de niños. https://www.ntsec.gov.tw/article/detail.aspx?a=6182
+- **Shanghai Science Festival · next edition** — China; fecha desconocida. Confirmar acceso infantil. https://english.shanghai.gov.cn/en-Latest-WhatsNew/20260525/37620a3cc53c448b810f4c7d41384866.html
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

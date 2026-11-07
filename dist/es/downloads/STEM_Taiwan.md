@@ -114,10 +114,10 @@ Matway: No
 Oscar: No
 Idioma: ZH / EN
 Acceso: Entrada desde los 12 años. El organizador no admite a menores de 12 años.
-Precio: QR personal tras el registro previo. En la sede hay un pase de un día por TWD 300.
+Precio: Cada visitante necesita su QR propio tras registrarse. La entrada presencial de un día por 300 TWD se indica como alternativa para quienes no deseen completar el formulario. Entrada desde los 12 años.
 Limitaciones: Horario 10:00–18:00, último día hasta las 17:00.
-Fuente: https://www.chanchao.com.tw/expoDetail.asp?id=TAIREX2027
-Se ha comprobado: 2026-11-05
+Fuente: https://tairex.chanchao.com.tw/VisitorInfo
+Se ha comprobado: 2026-11-07
 
 ### E021 · TAIROS / Automation Taipei 2027
 
@@ -127,10 +127,10 @@ Matway: No
 Oscar: No
 Idioma: ZH / EN
 Acceso: Entrada desde los 12 años. El organizador no admite a menores de 12 años.
-Precio: QR personal tras visitor registration; alternativa presencial publicada de NT$300 si no se desea formulario de miembro. Comprobar condiciones de registro anticipado gratuito para opción elegida.
+Precio: Cada visitante necesita su QR propio tras registrarse. La entrada presencial de un día por 300 TWD se indica como alternativa para quienes no deseen completar el formulario. Entrada desde los 12 años.
 Limitaciones: Horario 10:00–17:00, último día hasta las 16:00.
-Fuente: https://www.chanchao.com.tw/expoDetail.asp?id=ROBOT2027
-Se ha comprobado: 2026-11-05
+Fuente: https://tairos.chanchao.com.tw/en/VisitorInfo
+Se ha comprobado: 2026-11-07
 
 ### E022 · Touch Taiwan 2027
 
@@ -156,7 +156,7 @@ Acceso: Ruta de padres según reglas vigentes de 18+. Confirmar visitor registra
 Costo: No publicado / Comprobar la edición actual
 Limitaciones: Fechas 1–4 de junio de 2027 confirmadas antes; reglas generales de entrada 18+ verificadas aparte ahora. Entrada adulta no permite acceso infantil.
 Fuente: https://www.computextaipei.com.tw/en/news/035C3CADA83D9EAA/info.html
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-07
 
 ### E024 · Smart City Summit & Expo 2027
 
@@ -174,15 +174,15 @@ Comprobado: 2026-10-01
 ### E025 · AI EXPO Taiwan 2027
 
 Fecha: 2027-03-24 — 2027-03-26
-edad: Entrada infantil de 6 / 9 años sin establecer.
-Matway: Condicional
-Óscar: Condicional
+edad: Confirmar con la organización la admisión infantil antes del viaje.
+Matvey: Confirmar con la organización la admisión infantil antes del viaje.
+Oscar: Confirmar con la organización la admisión infantil antes del viaje.
 Idioma: Enseñanza o evaluación EN / ES / RU de este programa sin confirmar. Idioma de página / reglamento no acredita idioma de comunicación.
-Acceso: Visitor pre-registration separado de exhibitor interest. Exposición B2B; formulario de interés no es entrada ni acceso infantil confirmado.
-Precio: Precio completo y condiciones de convocatoria elegida sin establecer; gastos desconocidos no equivalen a cero.
-Limitaciones: Confirmar plaza, admisión extranjera individual, idioma del grupo concreto, nivel y factura completa. Edad / fecha no significan admisión. Sin formularios, consentimientos, mensajes ni pagos.
+Acceso: La organización permite solicitar por adelantado el derecho de visita. La edad infantil, la tarifa y las condiciones de emisión del pase aún no están confirmadas.
+Precio: El precio para visitantes aún no se ha publicado.
+Limitaciones: Fechas del 24 al 26 de marzo de 2027. El interés anticipado, la tarifa de un stand y la entrada de visitante se registran por separado.
 Fuente: https://ai-expo.tw/en/exhibit.html
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-07
 
 ### E027 · Maker Faire Taipei 2026
 
@@ -571,8 +571,8 @@ Idioma: Fact sheet oficial EN; confirmar idioma de cada foro
 Acceso: Ruta solo para adultos de la familia; verificar registro de visitante en la web oficial. El interés tecnológico no da acceso infantil.
 Precio: FAQ 2027: entrada gratuita tras online pre-registration, QR se cambia por visitor badge obligatorio. Precio de stand no es entrada de visitante.
 Limitaciones: FAQ actual enumera TaiNEX 1 y 2; application kit verificado antes también nombraba TWTC Hall 1. Discrepancia de recintos requiere plano actual antes del viaje. 7–9 de marzo son desmontaje según kit, no días de visita adicionales.
-Fuente: https://cloudcdn.taiwantradeshows.com.tw/2027/timtos/kit-en/application-kit-en.pdf
-Se ha comprobado: 2026-11-05
+Fuente: https://www.timtos.com.tw/en/menu/24D4D472FDE8F915D0636733C6861689/info.html
+Se ha comprobado: 2026-11-07
 
 ### C1184 · Taiwan Robofest 2027 · festival nacional / clasificación
 
@@ -832,6 +832,19 @@ Acceso: Alumno de una escuela local con credencial o constancia de estudios. Equ
 Precio: Confirmar la cuota de esta categoría.
 Limitaciones: Segunda ronda presencial en inglés. De 25 minutos, 3 para montar, 10 para la demostración, 10 para preguntas y 2 para desmontar.
 Fuente: https://app.apicta.tw/pdf/2026_APICTA_Awards_Guideline.pdf
+Se ha comprobado: 2026-11-07
+
+### E449 · NTSEC · Journey of the Curiosity Ball
+
+Fecha: 2026-11-07 — 2027-11-14
+edad: Exposición pública con instalaciones interactivas. Confirmar tarifa infantil y límites de cada instalación.
+Matvey: Confirmar con la organización la admisión infantil antes del viaje.
+Oscar: Confirmar con la organización la admisión infantil antes del viaje.
+Idioma: Confirmar el idioma de la visita o del taller para la sesión elegida.
+Acceso: Exposición pública con instalaciones interactivas. Confirmar tarifa infantil y límites de cada instalación.
+Precio: La entrada incluye una bola para el recorrido y acceso a las salas permanentes de las plantas 3–6. Confirmar en taquilla la tarifa de la fecha elegida. La oferta anticipada de 240 TWD ha terminado.
+Limitaciones: 09:00–17:00 entre semana, 09:00–18:00 en festivos y vacaciones escolares. Consultar el calendario del museo para lunes y víspera del Año Nuevo Lunar.
+Fuente: https://www.ntsec.gov.tw/article/detail.aspx?a=6182
 Se ha comprobado: 2026-11-07
 
 ### CP025-20270705-20270710 · Camp Taiwan · Verano 2027 · El juego aún no está abierto. · 2027-07-05–2027-07-10

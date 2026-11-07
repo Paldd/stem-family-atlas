@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 8459,
+    "cards": 8468,
     "competition_cards": 3451,
-    "event_cards": 441,
+    "event_cards": 450,
     "camp_cards": 4567,
     "league_profiles": 288,
-    "major_exhibition_cards": 351,
+    "major_exhibition_cards": 360,
     "vex_cards": 521,
     "countries_with_records": 178,
     "fully_audited_countries": 0
@@ -90,11 +90,11 @@
       "regions": [
         "Азия"
       ],
-      "total": 2527,
+      "total": 2536,
       "countries_with_records": 46,
       "competitions": 852,
-      "events": 118,
-      "major_exhibitions": 105,
+      "events": 127,
+      "major_exhibitions": 114,
       "camps": 1557,
       "status": "Частично исследовано",
       "remaining": "Добавлены India camp candidates и первые Pakistan / Bangladesh / Sri Lanka маршруты. Не все national qualifiers, языки и иностранный приём закрыты; другие страны Азии исследованы частично."
@@ -8001,7 +8001,7 @@
       "start": "2027-03-18",
       "end": "2027-03-21",
       "visitor_policy": "adults_only",
-      "source": "https://www.chanchao.com.tw/expoDetail.asp?id=TAIREX2027",
+      "source": "https://tairex.chanchao.com.tw/VisitorInfo",
       "new": false
     },
     {
@@ -8012,7 +8012,7 @@
       "start": "2027-08-04",
       "end": "2027-08-07",
       "visitor_policy": "adults_only",
-      "source": "https://www.chanchao.com.tw/expoDetail.asp?id=ROBOT2027",
+      "source": "https://tairos.chanchao.com.tw/en/VisitorInfo",
       "new": false
     },
     {
@@ -9299,7 +9299,7 @@
       "start": "2027-03-02",
       "end": "2027-03-06",
       "visitor_policy": "adults_only",
-      "source": "https://cloudcdn.taiwantradeshows.com.tw/2027/timtos/kit-en/application-kit-en.pdf",
+      "source": "https://www.timtos.com.tw/en/menu/24D4D472FDE8F915D0636733C6861689/info.html",
       "new": false
     },
     {
@@ -11390,6 +11390,105 @@
       "end": "",
       "visitor_policy": "confirm_children",
       "source": "https://feriacientifica.senacyt.gob.pa/",
+      "new": false
+    },
+    {
+      "id": "E442",
+      "name": "Miraikan · Transformation",
+      "country": "Япония",
+      "region": "Азия",
+      "start": "2027-04-23",
+      "end": "2027-08-31",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.miraikan.jst.go.jp/news/press/202609084737.html",
+      "new": false
+    },
+    {
+      "id": "E443",
+      "name": "TEPIA Advanced Technology Gallery",
+      "country": "Япония",
+      "region": "Азия",
+      "start": "",
+      "end": "",
+      "visitor_policy": "family",
+      "source": "https://www.tepia.jp/exhibition/personal",
+      "new": false
+    },
+    {
+      "id": "E444",
+      "name": "TEPIA Winter 2026 · Robots and making",
+      "country": "Япония",
+      "region": "Азия",
+      "start": "2026-11-21",
+      "end": "2026-12-25",
+      "visitor_policy": "family",
+      "source": "https://www.tepia.jp/exhibition/event/2026winter",
+      "new": false
+    },
+    {
+      "id": "E445",
+      "name": "NEXT BUSINESS EXPO 2027 · Physical AI & Robotics",
+      "country": "Япония",
+      "region": "Азия",
+      "start": "2027-02-18",
+      "end": "2027-02-19",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.next-business-expo.jp/physical-ai/",
+      "new": false
+    },
+    {
+      "id": "E446",
+      "name": "Seoul RAIM · Robot City",
+      "country": "Республика Корея",
+      "region": "Азия",
+      "start": "2026-08-28",
+      "end": "2026-12-05",
+      "visitor_policy": "family",
+      "source": "https://science.seoul.go.kr/RAIM/bbsctt/view.do?bbscttSn=2609010004&key=2304100015&sc_bbsctt_adit_iem_cn=%ED%98%84%EC%9E%AC",
+      "new": false
+    },
+    {
+      "id": "E447",
+      "name": "Shanghai Science and Technology Museum",
+      "country": "Китай",
+      "region": "Азия",
+      "start": "",
+      "end": "",
+      "visitor_policy": "family",
+      "source": "https://en.sstm.org.cn/tickets/policy",
+      "new": false
+    },
+    {
+      "id": "E448",
+      "name": "Beijing Future Science and Technology Museum",
+      "country": "Китай",
+      "region": "Азия",
+      "start": "",
+      "end": "",
+      "visitor_policy": "family",
+      "source": "https://www.beijing.gov.cn/gate/big5/www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202610/t20261001_4888580.html",
+      "new": false
+    },
+    {
+      "id": "E449",
+      "name": "NTSEC · Journey of the Curiosity Ball",
+      "country": "Тайвань",
+      "region": "Азия",
+      "start": "2026-11-07",
+      "end": "2027-11-14",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.ntsec.gov.tw/article/detail.aspx?a=6182",
+      "new": false
+    },
+    {
+      "id": "E450",
+      "name": "Shanghai Science Festival · next edition",
+      "country": "Китай",
+      "region": "Азия",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://english.shanghai.gov.cn/en-Latest-WhatsNew/20260525/37620a3cc53c448b810f4c7d41384866.html",
       "new": false
     },
     {

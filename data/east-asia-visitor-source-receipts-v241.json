@@ -1,0 +1,320 @@
+{
+  "captures": [
+    {
+      "key": "jp-miraikan-special",
+      "url": "https://www.miraikan.jst.go.jp/news/press/202609084737.html",
+      "checked_at": "2026-11-07T22:11:46.739407+00:00",
+      "status": 200,
+      "final_url": "https://www.miraikan.jst.go.jp/news/press/202609084737.html",
+      "bytes": 46053,
+      "sha256": "b2ca45056888a426d2ebe6ee5c75b1142d64b8a09aec0451d1fd890cd207b16e"
+    },
+    {
+      "key": "jp-miraikan-renewal",
+      "url": "https://www.miraikan.jst.go.jp/en/news/general/202609164750.html",
+      "checked_at": "2026-11-07T22:02:19.036401+00:00",
+      "status": 200,
+      "final_url": "https://www.miraikan.jst.go.jp/en/news/general/202609164750.html",
+      "bytes": 37351,
+      "sha256": "864e09e002113deeb77b5077b1a7d68abbb7b63681bfed7b038a2f70c86c346d"
+    },
+    {
+      "key": "jp-miraikan-visit",
+      "url": "https://www.miraikan.jst.go.jp/en/visit/",
+      "checked_at": "2026-11-07T22:02:19.037750+00:00",
+      "status": 200,
+      "final_url": "https://www.miraikan.jst.go.jp/en/visit/",
+      "bytes": 43433,
+      "sha256": "ca8668db95be780a4c23ffe93a301f11e841acbc7b13295f035785730169173c"
+    },
+    {
+      "key": "jp-miraikan-robots",
+      "url": "https://www.miraikan.jst.go.jp/en/exhibitions/future/hellorobots/?tabs=2",
+      "checked_at": "2026-11-07T22:02:19.036661+00:00",
+      "status": 200,
+      "final_url": "https://www.miraikan.jst.go.jp/en/exhibitions/future/hellorobots/?tabs=2",
+      "bytes": 80494,
+      "sha256": "83f120fa21bdfa8fc5baa3ab898e711317b478abea13902b61a773ae8765aefe"
+    },
+    {
+      "key": "jp-tepia-visit",
+      "url": "https://www.tepia.jp/exhibition/personal",
+      "checked_at": "2026-11-07T22:11:46.744050+00:00",
+      "status": 200,
+      "final_url": "https://www.tepia.jp/exhibition/personal",
+      "bytes": 18551,
+      "sha256": "b26050fb64d6498d8e33aa47ece577d3aac4e9f7ced51e5b64833e7244fd58ac"
+    },
+    {
+      "key": "jp-tepia-home",
+      "url": "https://www.tepia.jp/exhibition",
+      "checked_at": "2026-11-07T22:11:46.741633+00:00",
+      "status": 200,
+      "final_url": "https://www.tepia.jp/exhibition",
+      "bytes": 46466,
+      "sha256": "50967534ee4f30ad022a88f9e1a9a6d61e3f177b678267f0d8c579c1c76c0977"
+    },
+    {
+      "key": "jp-tepia-workshop",
+      "url": "https://www.tepia.jp/exhibition/programming_workshop",
+      "checked_at": "2026-11-07T22:11:46.744231+00:00",
+      "status": 200,
+      "final_url": "https://www.tepia.jp/exhibition/programming_workshop",
+      "bytes": 21166,
+      "sha256": "ed236ec090f07b42c5dda57aded1bb61ef0cf20eee0b0cd59817f5a670ff9e3f"
+    },
+    {
+      "key": "jp-tepia-lab",
+      "url": "https://www.tepia.jp/exhibition/labo",
+      "checked_at": "2026-11-07T22:11:46.747648+00:00",
+      "status": 200,
+      "final_url": "https://www.tepia.jp/exhibition/labo",
+      "bytes": 17660,
+      "sha256": "e74dd98bf3028cf6f3babb817f1be233183a8b0b7a7387a0c1a11bf9eb72d131"
+    },
+    {
+      "key": "jp-tepia-winter",
+      "url": "https://www.tepia.jp/exhibition/event/2026winter",
+      "checked_at": "2026-11-07T22:12:15.983836+00:00",
+      "status": 200,
+      "final_url": "https://www.tepia.jp/exhibition/event/2026winter",
+      "bytes": 29848,
+      "sha256": "4bbb62d5f475d4478fd04f60dd69ea859e429a3140ac8c34af54a464fc7617d6"
+    },
+    {
+      "key": "jp-physicalai",
+      "url": "https://www.next-business-expo.jp/physical-ai/",
+      "checked_at": "2026-11-07T21:59:47.009591+00:00",
+      "status": 200,
+      "final_url": "https://www.next-business-expo.jp/physical-ai/",
+      "bytes": 43400,
+      "sha256": "5b8b89201674f55767526e78bc35a08ae52c2194a37649f2c1a16da95361ee15"
+    },
+    {
+      "key": "jp-next-business",
+      "url": "https://www.next-business-expo.jp/",
+      "checked_at": "2026-11-07T21:59:47.009909+00:00",
+      "status": 200,
+      "final_url": "https://www.next-business-expo.jp/",
+      "bytes": 105784,
+      "sha256": "c332aceb695f8318ef0857155c38fe921f9fecd81d11a36e77822f1454f79bda"
+    },
+    {
+      "key": "jp-next-business-visit",
+      "url": "https://hub.next-business-expo.jp/visit/2027-winter",
+      "checked_at": "2026-11-07T22:11:50.099693+00:00",
+      "status": 200,
+      "final_url": "https://hub.next-business-expo.jp/visit/2027-winter",
+      "bytes": 85528,
+      "sha256": "8869518991ee0ed41a8d2a0711691a79256bc69880a89f27dede278ad56381df"
+    },
+    {
+      "key": "kr-raim-city",
+      "url": "https://science.seoul.go.kr/RAIM/bbsctt/view.do?bbscttSn=2609010004&key=2304100015&sc_bbsctt_adit_iem_cn=%ED%98%84%EC%9E%AC",
+      "checked_at": "2026-11-07T22:11:46.752682+00:00",
+      "status": 200,
+      "final_url": "https://science.seoul.go.kr/RAIM/bbsctt/view.do?bbscttSn=2609010004&key=2304100015&sc_bbsctt_adit_iem_cn=%ED%98%84%EC%9E%AC",
+      "bytes": 73270,
+      "sha256": "b372b99cd7448c852cc79c9f5002082798aab3fa86620c384e3ba6036b6e6193"
+    },
+    {
+      "key": "kr-raim-home",
+      "url": "https://science.seoul.go.kr/RAIM/main.do",
+      "checked_at": "2026-11-07T22:12:15.986323+00:00",
+      "status": 200,
+      "final_url": "https://science.seoul.go.kr/RAIM/main.do",
+      "bytes": 84217,
+      "sha256": "1542513c255db6964b78e9d7ef3f859b018045f47b137790a9b8b865eac25014"
+    },
+    {
+      "key": "kr-raim-en",
+      "url": "https://visitseoulraim.com/",
+      "checked_at": "2026-11-07T22:11:46.758942+00:00",
+      "status": 200,
+      "final_url": "https://visitseoulraim.com/",
+      "bytes": 53889,
+      "sha256": "be7fb45062c7e8c99400ee1676327887b945e4e297ad6206cfba3a2273f3d125"
+    },
+    {
+      "key": "cn-shanghai-tickets",
+      "url": "https://en.sstm.org.cn/tickets/policy",
+      "checked_at": "2026-11-07T22:11:48.416185+00:00",
+      "status": 200,
+      "final_url": "https://en.sstm.org.cn/tickets/policy",
+      "bytes": 25305,
+      "sha256": "42defc528dc6e9e5bd4a2cfbc45cb31fa171d8bcae090a104f66c0503f299477"
+    },
+    {
+      "key": "cn-shanghai-museum",
+      "url": "https://english.shanghai.gov.cn/en-FamilyFun-travelinshanghai/20260213/c9c344065fa74b07b4acf77cf54d4d75.html",
+      "checked_at": "2026-11-07T22:11:48.593179+00:00",
+      "status": 200,
+      "final_url": "https://english.shanghai.gov.cn/en-FamilyFun-travelinshanghai/20260213/c9c344065fa74b07b4acf77cf54d4d75.html",
+      "bytes": 20164,
+      "sha256": "d1eaca488a05aff2ddda9cb0ee858bd80442c45c23baf2608e9cca47b499e007"
+    },
+    {
+      "key": "cn-shanghai-festival",
+      "url": "https://english.shanghai.gov.cn/en-Latest-WhatsNew/20260525/37620a3cc53c448b810f4c7d41384866.html",
+      "checked_at": "2026-11-07T22:12:15.987527+00:00",
+      "status": 200,
+      "final_url": "https://english.shanghai.gov.cn/en-Latest-WhatsNew/20260525/37620a3cc53c448b810f4c7d41384866.html",
+      "bytes": 22115,
+      "sha256": "d104d8397cc62eaaa7b069e7c51ae46308af14879dd05b2b3f208fe1b2f05acb"
+    },
+    {
+      "key": "cn-beijing-opening",
+      "url": "https://www.beijing.gov.cn/gate/big5/www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202610/t20261001_4888580.html",
+      "checked_at": "2026-11-07T22:11:48.890014+00:00",
+      "status": 200,
+      "final_url": "https://www.beijing.gov.cn/gate/big5/www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202610/t20261001_4888580.html",
+      "bytes": 41957,
+      "sha256": "0b84196205efc513b41bac86b9b8622a972dc9956ca17b37913f01532ba9b156"
+    },
+    {
+      "key": "cn-beijing-en",
+      "url": "https://english.beijing.gov.cn/consuminginbeijing/onedayinbeijing/museums/updatesofmuseums/202608/t20260828_4840572.html",
+      "checked_at": "2026-11-07T22:11:48.891602+00:00",
+      "status": 200,
+      "final_url": "https://english.beijing.gov.cn/consuminginbeijing/onedayinbeijing/museums/updatesofmuseums/202608/t20260828_4840572.html",
+      "bytes": 14250,
+      "sha256": "08ae68e1be4ce5cd86b951ac02e9c3404d5477b6ffa20b81794f4cb324e2510a"
+    },
+    {
+      "key": "tw-ntsec-curiosity",
+      "url": "https://www.ntsec.gov.tw/article/detail.aspx?a=6182",
+      "checked_at": "2026-11-07T22:11:48.891879+00:00",
+      "status": 200,
+      "final_url": "https://www.ntsec.gov.tw/article/detail.aspx?a=6182",
+      "bytes": 291791,
+      "sha256": "6c408e330d94fc5aeb71ab6fe0eb5ec2df35b9a85b3b498289da3fbcced59a34"
+    },
+    {
+      "key": "tw-ntsec-curiosity-ticket",
+      "url": "https://ntsec.fonticket.com/",
+      "checked_at": "2026-11-07T22:11:49.903589+00:00",
+      "status": 200,
+      "final_url": "https://ntsec.fonticket.com/",
+      "bytes": 137163,
+      "sha256": "51cd2e2bf9f6ccac57c58ca6042f41eb4912af2e392a8d3bebbfa56a077a87a6"
+    },
+    {
+      "key": "kr-raim-ko",
+      "url": "https://science.seoul.go.kr/RAIM/content.do?key=2412270001&menuTy=sc_exhi",
+      "checked_at": "2026-11-07T22:11:46.760394+00:00",
+      "status": 200,
+      "final_url": "https://science.seoul.go.kr/RAIM/content.do?key=2412270001&menuTy=sc_exhi",
+      "bytes": 76423,
+      "sha256": "a1520aab37992756f9457ed3bb4a62fe5562693d24b1c2d909dd349c97e67c3e"
+    },
+    {
+      "key": "tw-ai-expo-visitor",
+      "url": "https://ai-expo.tw/early_visit.html",
+      "checked_at": "2026-11-07T22:11:49.961346+00:00",
+      "status": 200,
+      "final_url": "https://ai-expo.tw/early_visit.html",
+      "bytes": 42564,
+      "sha256": "4c9a45c81ecf51e2eb3cca0e6a59e29dbad391831af20aaa7acabeb61aa2fadd"
+    },
+    {
+      "key": "tw-ai-expo",
+      "url": "https://ai-expo.tw/en/exhibit.html",
+      "checked_at": "2026-11-07T21:59:47.008338+00:00",
+      "status": 200,
+      "final_url": "https://ai-expo.tw/en/exhibit.html",
+      "bytes": 94153,
+      "sha256": "651f9b6733ecf12a4b4412a81bce09fee4d1c84f66589cfff3aa362e4a692245"
+    },
+    {
+      "key": "tw-atairex-visitor",
+      "url": "https://tairex.chanchao.com.tw/VisitorInfo",
+      "checked_at": "2026-11-07T22:11:49.916307+00:00",
+      "status": 403,
+      "final_url": "https://tairex.chanchao.com.tw/VisitorInfo"
+    },
+    {
+      "key": "tw-tairos-visitor",
+      "url": "https://tairos.chanchao.com.tw/en/VisitorInfo",
+      "checked_at": "2026-11-07T22:11:49.930953+00:00",
+      "status": 403,
+      "final_url": "https://tairos.chanchao.com.tw/en/VisitorInfo"
+    },
+    {
+      "key": "tw-timtos",
+      "url": "https://www.timtos.com.tw/en/menu/24D4D472FDE8F915D0636733C6861689/info.html",
+      "checked_at": "2026-11-07T21:59:47.006452+00:00",
+      "status": 200,
+      "final_url": "https://www.timtos.com.tw/en/menu/24D4D472FDE8F915D0636733C6861689/info.html",
+      "bytes": 103446,
+      "sha256": "dd32cf68b766e0575050ebc28c9854300040ad61d00598588151ff64be2e1f06"
+    },
+    {
+      "key": "tw-computex-admission",
+      "url": "https://www.computextaipei.com.tw/en/menu/C73E8F9D0454124DD0636733C6861689/info.html",
+      "checked_at": "2026-11-07T22:11:49.989546+00:00",
+      "status": 200,
+      "final_url": "https://www.computextaipei.com.tw/en/menu/C73E8F9D0454124DD0636733C6861689/info.html",
+      "bytes": 84542,
+      "sha256": "41b18a5533693a4d477e0d371788c4e77097f78929dcfa5320b1b0be59a9c9ad"
+    },
+    {
+      "key": "tw-computex",
+      "url": "https://my.computex.biz/2027/show/Info.aspx?content=registrationInfoForForeign",
+      "checked_at": "2026-11-07T21:59:47.005055+00:00",
+      "status": 200,
+      "final_url": "https://my.computex.biz/2027/show/Info.aspx?content=registrationInfoForForeign",
+      "bytes": 48100,
+      "sha256": "29cde3941d1919029be6dceba305ca876fc6846d44967ab1c38112ee56a81baa"
+    },
+    {
+      "key": "kr-stk-faq",
+      "url": "https://smarttechkorea.com/faq",
+      "checked_at": "2026-11-07T22:11:46.770405+00:00",
+      "status": 200,
+      "final_url": "https://smarttechkorea.com/faq",
+      "bytes": 604226,
+      "sha256": "b8d3cefcd640f6ffb2759f121ee8db0bd5758085185f85e41c0dbddf60358a6f"
+    },
+    {
+      "key": "kr-stk-visit",
+      "url": "https://en.smarttechkorea.com/visitorguide",
+      "checked_at": "2026-11-07T22:11:46.772393+00:00",
+      "status": 200,
+      "final_url": "https://en.smarttechkorea.com/visitorguide",
+      "bytes": 862271,
+      "sha256": "2656a66789cf8728537c9fcee466f626e77925cd942dfa66b7a59c3aefb1ceed"
+    },
+    {
+      "key": "kr-stk-home",
+      "url": "https://en.smarttechkorea.com/Exhibition",
+      "checked_at": "2026-11-07T22:12:15.984120+00:00",
+      "status": 200,
+      "final_url": "https://en.smarttechkorea.com/Exhibition",
+      "bytes": 1218055,
+      "sha256": "8c5f99f3954256e37920eba3f1206a0fb3bca6e34c24f80a84689a667f2f66ce"
+    },
+    {
+      "key": "jp-tokyo-robo-faq",
+      "url": "https://www.fiweek.jp/tokyo/ja-jp/visit/faq.html",
+      "checked_at": "2026-11-07T22:11:50.099549+00:00",
+      "status": 200,
+      "final_url": "https://www.fiweek.jp/tokyo/ja-jp/visit/faq.html",
+      "bytes": 164714,
+      "sha256": "1eee21efcb61d4881c6e14de1ff4ca85770e1e942f9f0e888fbfdc93c4fd692a"
+    }
+  ],
+  "observations": [
+    {
+      "url": "https://tairex.chanchao.com.tw/VisitorInfo",
+      "checked": "2026-11-07",
+      "method": "Чтение страницы организатора через веб.",
+      "facts": "Каждому посетителю нужен собственный QR после регистрации. Однодневный билет на месте за 300 TWD указан как альтернатива для тех, кто не хочет заполнять анкету. Вход с 12 лет."
+    },
+    {
+      "url": "https://tairos.chanchao.com.tw/en/VisitorInfo",
+      "checked": "2026-11-07",
+      "method": "Чтение страницы организатора через веб.",
+      "facts": "Каждому посетителю нужен собственный QR после регистрации. Однодневный билет на месте за 300 TWD указан как альтернатива для тех, кто не хочет заполнять анкету. Вход с 12 лет."
+    }
+  ]
+}

@@ -83,7 +83,10 @@ def enrich_v152(d):
                   'BTC 2026 · precios, niños, entradas online y documentos'))
 
     for ident,minimum,url in [('E020',12,TAIREX),('E021',12,AUTOMATION),('E022',18,TOUCH),('E201',12,TIMTOS)]:
-        e=rows[ident];e.update(checked=CHECKED,visitor_age_min=minimum)
+        e=rows[ident]
+        if e.get('checked', '') > CHECKED:
+            continue
+        e.update(checked=CHECKED,visitor_age_min=minimum)
         e['visitor_policy_note']=T('Действующие правила 2027: вход младше '+str(minimum)+' запрещён. Матвей и Оскар не допускаются; профессиональная регистрация взрослого этого не меняет.',
                                   'Reglas vigentes de 2027: entrada prohibida a menores de '+str(minimum)+'. Matvey y Oscar no admitidos; registro profesional adulto no cambia esta regla.')
         e['proof']=T('Свежая официальная страница конкретного выпуска подтверждает даты и возрастное ограничение; билет экспонента не подменяет visitor registration.',
@@ -91,41 +94,44 @@ def enrich_v152(d):
         ref(e,url,T('Правила посетителей 2027 и возрастной порог '+str(minimum)+'+',
                     'Reglas de visitantes 2027 y edad mínima de '+str(minimum)+'+'))
     e=rows['E021']
-    e['cost']=T('Персональный QR после visitor registration; опубликована альтернатива на месте NT$300 при отказе от членской анкеты. Условия бесплатной предварительной регистрации перепроверить в выбранном потоке.',
-                'QR personal tras visitor registration; alternativa presencial publicada de NT$300 si no se desea formulario de miembro. Comprobar condiciones de registro anticipado gratuito para opción elegida.')
-    e['adult_entry']=T('Отдельный QR каждому; 4–6 августа 10:00–17:00, 7 августа до 16:00. Вход NT$300 через VIP counter — вариант по опубликованным условиям обработки данных. Дети младше 12 не допускаются.',
-                       'QR separado por persona; 4–6 de agosto 10:00–17:00, 7 de agosto hasta 16:00. Entrada NT$300 vía VIP counter es opción según condiciones publicadas sobre datos. Menores de 12 no admitidos.')
+    if e.get('checked', '') <= CHECKED:
+        e['cost']=T('Персональный QR после visitor registration; опубликована альтернатива на месте NT$300 при отказе от членской анкеты. Условия бесплатной предварительной регистрации перепроверить в выбранном потоке.',
+                    'QR personal tras visitor registration; alternativa presencial publicada de NT$300 si no se desea formulario de miembro. Comprobar condiciones de registro anticipado gratuito para opción elegida.')
+        e['adult_entry']=T('Отдельный QR каждому; 4–6 августа 10:00–17:00, 7 августа до 16:00. Вход NT$300 через VIP counter — вариант по опубликованным условиям обработки данных. Дети младше 12 не допускаются.',
+                           'QR separado por persona; 4–6 de agosto 10:00–17:00, 7 de agosto hasta 16:00. Entrada NT$300 vía VIP counter es opción según condiciones publicadas sobre datos. Menores de 12 no admitidos.')
     e=rows['E022']
     e['cost']=T('Персональная visitor registration / QR; при сомнениях о передаче данных опубликован однодневный билет на месте NT$300 через VIP service counter. Только 18+.',
                 'Visitor registration / QR personal; si existen dudas sobre entrega de datos se publica entrada presencial de un día NT$300 vía VIP service counter. Solo 18+.')
     e['adult_entry']=T('21–22 апреля 10:00–17:00, 23 апреля до 16:00; TaiNEX 1, этаж 4. QR персональный, либо опубликованная однодневная альтернатива NT$300. Младше 18 вход запрещён.',
                        '21–22 de abril 10:00–17:00, 23 de abril hasta 16:00; TaiNEX 1, planta 4. QR personal o alternativa publicada de un día NT$300. Entrada prohibida a menores de 18.')
     e=rows['E201']
-    e['cost']=T('FAQ 2027: вход бесплатный после online pre-registration, QR обменивают на обязательный visitor badge. Стоимость стенда не входной билет.',
-                'FAQ 2027: entrada gratuita tras online pre-registration, QR se cambia por visitor badge obligatorio. Precio de stand no es entrada de visitante.')
-    e['adult_entry']=T('Trade professionals, buyers и enthusiasts; бесплатная предварительная регистрация и badge. 2–6 марта 10:00–18:00. Младше 12 строго запрещено без исключений.',
-                       'Trade professionals, buyers y enthusiasts; registro anticipado gratuito y badge. 2–6 de marzo 10:00–18:00. Menores de 12 estrictamente prohibidos sin excepciones.')
-    e['note']=T('Текущий FAQ перечисляет TaiNEX 1 и 2; ранее проверенный application kit также называл TWTC Hall 1. Это расхождение площадок требует актуальной карты перед поездкой. 7–9 марта — демонтаж по kit, не дополнительные дни посещения.',
-                'FAQ actual enumera TaiNEX 1 y 2; application kit verificado antes también nombraba TWTC Hall 1. Discrepancia de recintos requiere plano actual antes del viaje. 7–9 de marzo son desmontaje según kit, no días de visita adicionales.')
-    e['city']=T('Taipei · TaiNEX 1/2 по FAQ; TWTC Hall 1 в kit — проверить карту',
-                'Taipei · TaiNEX 1/2 según FAQ; TWTC Hall 1 en kit — comprobar plano')
+    if e.get('checked', '') <= CHECKED:
+        e['cost']=T('FAQ 2027: вход бесплатный после online pre-registration, QR обменивают на обязательный visitor badge. Стоимость стенда не входной билет.',
+                    'FAQ 2027: entrada gratuita tras online pre-registration, QR se cambia por visitor badge obligatorio. Precio de stand no es entrada de visitante.')
+        e['adult_entry']=T('Trade professionals, buyers и enthusiasts; бесплатная предварительная регистрация и badge. 2–6 марта 10:00–18:00. Младше 12 строго запрещено без исключений.',
+                           'Trade professionals, buyers y enthusiasts; registro anticipado gratuito y badge. 2–6 de marzo 10:00–18:00. Menores de 12 estrictamente prohibidos sin excepciones.')
+        e['note']=T('Текущий FAQ перечисляет TaiNEX 1 и 2; ранее проверенный application kit также называл TWTC Hall 1. Это расхождение площадок требует актуальной карты перед поездкой. 7–9 марта — демонтаж по kit, не дополнительные дни посещения.',
+                    'FAQ actual enumera TaiNEX 1 y 2; application kit verificado antes también nombraba TWTC Hall 1. Discrepancia de recintos requiere plano actual antes del viaje. 7–9 de marzo son desmontaje según kit, no días de visita adicionales.')
+        e['city']=T('Taipei · TaiNEX 1/2 по FAQ; TWTC Hall 1 в kit — проверить карту',
+                    'Taipei · TaiNEX 1/2 según FAQ; TWTC Hall 1 en kit — comprobar plano')
 
     e=rows['E023']
-    e.update(checked=CHECKED,visitor_policy='adults_only',visitor_age_min=18,
-        age=T('18+ по действующим общим Admission Guidelines; отдельную редакцию 2027 перепроверить.',
-              '18+ según Admission Guidelines generales vigentes; comprobar edición específica de 2027.'),
-        mat='Нет',osc='Нет',priority='P4 — '+T('по действующему правилу только взрослые','solo adultos según regla vigente'),
-        proof=T('Общие Admission Guidelines, изменённые 3 февраля 2026 и действующие на сайте, запрещают вход младше 18 во время выставки. Это отдельная страница правил, а не только исторический Visitor Information 2026.',
-                'Admission Guidelines generales modificadas el 3 de febrero de 2026 y vigentes en web prohíben entrada a menores de 18 durante exposición. Página de reglas distinta del Visitor Information histórico de 2026.'),
-        visitor_policy_note=T('Текущие общие правила организатора запрещают младше 18; детям 6/9 поездка не подходит. Год отдельной редакции 2027 в Guidelines не указан: перед поездкой взрослых проверить обновления. Не переносить публичный день и цены 2026 на 2027.',
-                              'Reglas generales actuales del organizador prohíben menores de 18; viaje no adecuado para niños de 6/9. Guidelines no indica edición específica de 2027: comprobar cambios antes del viaje adulto. No trasladar día público ni precios de 2026 a 2027.'),
-        entry=T('Маршрут родителей по действующим правилам 18+. Visitor registration, цены и дни доступа именно 2027 ещё подтвердить.',
-                'Ruta de padres según reglas vigentes de 18+. Confirmar visitor registration, precios y días de acceso específicos de 2027.'),
-        note=T('Даты 1–4 июня 2027 подтверждены ранее; общие правила входа 18+ проверены отдельно сейчас. Билет взрослого не разрешает вход ребёнка.',
-               'Fechas 1–4 de junio de 2027 confirmadas antes; reglas generales de entrada 18+ verificadas aparte ahora. Entrada adulta no permite acceso infantil.'))
-    e['adult_entry']=e['entry']
-    ref(e,COMPUTEX,T('Действующие общие Admission Guidelines · запрет до 18',
-                     'Admission Guidelines generales vigentes · prohibición para menores de 18'))
+    if e.get('checked', '') <= CHECKED:
+        e.update(checked=CHECKED,visitor_policy='adults_only',visitor_age_min=18,
+            age=T('18+ по действующим общим Admission Guidelines; отдельную редакцию 2027 перепроверить.',
+                  '18+ según Admission Guidelines generales vigentes; comprobar edición específica de 2027.'),
+            mat='Нет',osc='Нет',priority='P4 — '+T('по действующему правилу только взрослые','solo adultos según regla vigente'),
+            proof=T('Общие Admission Guidelines, изменённые 3 февраля 2026 и действующие на сайте, запрещают вход младше 18 во время выставки. Это отдельная страница правил, а не только исторический Visitor Information 2026.',
+                    'Admission Guidelines generales modificadas el 3 de febrero de 2026 y vigentes en web prohíben entrada a menores de 18 durante exposición. Página de reglas distinta del Visitor Information histórico de 2026.'),
+            visitor_policy_note=T('Текущие общие правила организатора запрещают младше 18; детям 6/9 поездка не подходит. Год отдельной редакции 2027 в Guidelines не указан: перед поездкой взрослых проверить обновления. Не переносить публичный день и цены 2026 на 2027.',
+                                  'Reglas generales actuales del organizador prohíben menores de 18; viaje no adecuado para niños de 6/9. Guidelines no indica edición específica de 2027: comprobar cambios antes del viaje adulto. No trasladar día público ni precios de 2026 a 2027.'),
+            entry=T('Маршрут родителей по действующим правилам 18+. Visitor registration, цены и дни доступа именно 2027 ещё подтвердить.',
+                    'Ruta de padres según reglas vigentes de 18+. Confirmar visitor registration, precios y días de acceso específicos de 2027.'),
+            note=T('Даты 1–4 июня 2027 подтверждены ранее; общие правила входа 18+ проверены отдельно сейчас. Билет взрослого не разрешает вход ребёнка.',
+                   'Fechas 1–4 de junio de 2027 confirmadas antes; reglas generales de entrada 18+ verificadas aparte ahora. Entrada adulta no permite acceso infantil.'))
+        e['adult_entry']=e['entry']
+        ref(e,COMPUTEX,T('Действующие общие Admission Guidelines · запрет до 18',
+                         'Admission Guidelines generales vigentes · prohibición para menores de 18'))
     sources={s['url']:s for s in d['sources']}
     for ident in ['E028','E219','E118','E020','E021','E022','E023','E201']:
         record=next(e for e in d['events'] if e['id']==ident)

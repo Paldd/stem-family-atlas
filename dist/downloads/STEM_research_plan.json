@@ -870,9 +870,9 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 240,
+    "version": 241,
     "status": "implementation_snapshot",
-    "events": 8459,
+    "events": 8468,
     "competitions": 3451,
     "league_profiles": 288,
     "camp_dossiers": 1861,
@@ -884,7 +884,8 @@
     "schools": 80,
     "school_history_results": 356,
     "school_history_entities": 232,
-    "national_routes": 330
+    "national_routes": 330,
+    "exhibitions_events": 450
   },
   "completeness_audit": "data/audit-v51.json",
   "family_context": {
@@ -926,13 +927,13 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 239,
+    "version": 240,
     "status": "implementation_snapshot",
-    "events": 8445,
+    "events": 8459,
     "competitions": 3451,
     "league_profiles": 288,
-    "camp_dossiers": 1854,
-    "budget_offers": 301,
+    "camp_dossiers": 1861,
+    "budget_offers": 302,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
     "worldwide_complete": false,
@@ -13757,10 +13758,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 240,
+    "prepared_ui_version": 241,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 239,
-    "previous_verified_commit": "e73f360dd4193c3cc558b3fec78651a5acd190b9"
+    "previous_verified_ui_version": 240,
+    "previous_verified_commit": "4bd316ec431fd73579ec4baee94368f94f77b24f"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20807,11 +20808,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 239,
-    "published_version": 239,
-    "latest_source_commit": "e73f360dd4193c3cc558b3fec78651a5acd190b9",
-    "published_commit": "e73f360dd4193c3cc558b3fec78651a5acd190b9",
-    "latest_workflow": 42417125868,
+    "latest_source_version": 240,
+    "published_version": 240,
+    "latest_source_commit": "4bd316ec431fd73579ec4baee94368f94f77b24f",
+    "published_commit": "4bd316ec431fd73579ec4baee94368f94f77b24f",
+    "latest_workflow": 42418597918,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -23849,5 +23850,55 @@
     ],
     "audit": "data/nearby-holidays-search-audit-v240.json",
     "source_receipts": "data/nearby-holidays-search-source-receipts-v240.json"
+  },
+  "east_asia_visitor_v241": {
+    "version": 241,
+    "checked": "2026-11-07",
+    "previous_goal_turn_classification": "progress",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "E442",
+      "E443",
+      "E444",
+      "E445",
+      "E446",
+      "E447",
+      "E448",
+      "E449",
+      "E450"
+    ],
+    "refreshed_event_ids": [
+      "E335",
+      "E025",
+      "E020",
+      "E021",
+      "E201",
+      "E023",
+      "E331",
+      "E282"
+    ],
+    "countries": [
+      "JPN",
+      "CHN",
+      "KOR",
+      "TWN"
+    ],
+    "new_dated_exhibitions": 5,
+    "new_family_exhibitions": 5,
+    "source_requests": 34,
+    "notes": [
+      "Музей полностью закрыт с 1 октября 2026 по 22 апреля 2027. Открытие 23 апреля вместе со спецвыставкой. Заявлены обновление робота Keparan и детской зоны. Опубликованный тариф постоянной экспозиции не определяет цену спецвыставки.",
+      "Сеансы 09:30–11:30, 13:00–15:00, 15:00–17:00 в дни работы. Запись открывается за 1 месяц. Закрыто с 26 декабря 2026 по 6 января 2027 включительно. Открывается 7 января.",
+      "Брелок с лазерной резкой доступен всем 22 ноября, 5 и 13 декабря, записаться у стойки. Генератор 6 декабря для 3–6 классов, в 3–4 классах нужен взрослый. Scratch с ИИ 12 декабря для 4 класса начальной школы — 3 класса средней, заявка до 4 декабря 09:00 JST. Для Матвея сверить класс. Для Оскара ориентир — семейная мастерская и брелок.",
+      "Вход на 1F и 2F свободный. В будни постоянная выставка 3F по экскурсии, в выходные регистрация в киоске на месте. Англоязычная экскурсия в среду 15:40. Онлайн-запись для иностранцев без корейского номера тестируется до конца декабря 2026. Расписание 2027 проверить отдельно.",
+      "Корейская карточка указывает в ноябре и декабре 19:00–21:00 в дни работы, англоязычная заметка указывает пятницу и субботу 18:00–20:00. Перед поездкой подтвердить конкретный вечер. График сеансов внутри отдельный.",
+      "Каждому посетителю нужен собственный QR после регистрации. Однодневный билет на месте за 300 TWD указан как альтернатива для тех, кто не хочет заполнять анкету. Вход с 12 лет.",
+      "Деловая выставка. Корейский FAQ на 2027 запрещает вход младше 18. Студенты вузов могут регистрироваться. Дети 6 и 9 лет не допускаются.",
+      "Предрегистрация до 26 мая 2027 бесплатно. На месте корейский FAQ указывает 20000 KRW, англоязычная инструкция 20 USD. Валюту и применимый тариф сверить для своего потока.",
+      "Организатор предлагает предварительно оставить заявку на право посещения. Детский возраст, цена и условия выдачи пропуска пока не подтверждены."
+    ],
+    "audit": "data/east-asia-visitor-audit-v241.json",
+    "source_receipts": "data/east-asia-visitor-source-receipts-v241.json"
   }
 }

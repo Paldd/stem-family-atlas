@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 8459; соревнований: 3451; событий: 441; лагерей / программ: 4567. Профилей лиг и программ: 288. Карточек крупных и профильных выставок: 351 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 8468; соревнований: 3451; событий: 450; лагерей / программ: 4567. Профилей лиг и программ: 288. Карточек крупных и профильных выставок: 360 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 178 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -18,7 +18,7 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 | Южная Америка | 12 | 249 | 30 | 197 |
 | Европа | 42 | 440 | 87 | 1372 |
 | Африка | 34 | 135 | 25 | 71 |
-| Азия | 46 | 852 | 105 | 1557 |
+| Азия | 46 | 852 | 114 | 1557 |
 | Океания | 9 | 136 | 24 | 171 |
 
 Межрегиональные / глобальные карточки, не приписанные одному континенту: 136. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
@@ -398,8 +398,8 @@ VEX: 521 из 3451 карточек соревнований (15.1%). Это я�
 - **MWC Barcelona 2027** — Испания; 2027-03-01 – 2027-03-04. Детям 6/9 нельзя. https://www.mwcbarcelona.com/virtual-assistance/va-venue-information
 - **GITEX Global 2026 — выставка** — ОАЭ; 2026-12-08 – 2026-12-11. Детский допуск уточнить. https://www.gitex.com/
 - **automatica 2027** — Германия; 2027-06-22 – 2027-06-25. Детский допуск уточнить. https://automatica-munich.com/en/trade-fair/plan-your-visit/opening-hours/
-- **TAIREX 2027** — Тайвань; 2027-03-18 – 2027-03-21. Детям 6/9 нельзя. https://www.chanchao.com.tw/expoDetail.asp?id=TAIREX2027
-- **TAIROS / Automation Taipei 2027** — Тайвань; 2027-08-04 – 2027-08-07. Детям 6/9 нельзя. https://www.chanchao.com.tw/expoDetail.asp?id=ROBOT2027
+- **TAIREX 2027** — Тайвань; 2027-03-18 – 2027-03-21. Детям 6/9 нельзя. https://tairex.chanchao.com.tw/VisitorInfo
+- **TAIROS / Automation Taipei 2027** — Тайвань; 2027-08-04 – 2027-08-07. Детям 6/9 нельзя. https://tairos.chanchao.com.tw/en/VisitorInfo
 - **Touch Taiwan 2027** — Тайвань; 2027-04-21 – 2027-04-23. Детям 6/9 нельзя. https://www.touchtaiwan.com/visitor.asp
 - **COMPUTEX 2027** — Тайвань; 2027-06-01 – 2027-06-04. Детям 6/9 нельзя. https://www.computextaipei.com.tw/en/news/035C3CADA83D9EAA/info.html
 - **Smart City Summit & Expo 2027** — Тайвань; 2027-03-16 – 2027-03-19. Детский допуск уточнить. https://smartcity.org.tw/smartcity.php
@@ -516,7 +516,7 @@ VEX: 521 из 3451 карточек соревнований (15.1%). Это я�
 - **Industrial Transformation Asia-Pacific 2026** — Сингапур; 2026-10-21 – 2026-10-22. Детский допуск уточнить. https://industrial-transformation.com/ticketing-options/
 - **Industrial Transformation Asia-Pacific 2027** — Сингапур; 2027-07-20 – 2027-07-22. Детский допуск уточнить. https://industrial-transformation.com/ticketing-options/
 - **GITEX AI ASIA 2027** — Сингапур; 2027-04-29 – 2027-04-30. Детям 6/9 нельзя. https://gitexasia.com/
-- **TIMTOS 2027 · Taipei Int'l Machine Tool Show** — Тайвань; 2027-03-02 – 2027-03-06. Детям 6/9 нельзя. https://cloudcdn.taiwantradeshows.com.tw/2027/timtos/kit-en/application-kit-en.pdf
+- **TIMTOS 2027 · Taipei Int'l Machine Tool Show** — Тайвань; 2027-03-02 – 2027-03-06. Детям 6/9 нельзя. https://www.timtos.com.tw/en/menu/24D4D472FDE8F915D0636733C6861689/info.html
 - **Maker Faire Lynchburg 2027** — США; 2027-03-14. Со взрослым; условия взрослого входа отдельно. https://lynchburg.makerfaire.com/
 - **Maker Faire Ulaanbaatar 2027** — Монголия; 2027-05-08 – 2027-05-09. Детский допуск уточнить. https://makerfaire.com/upcoming-faires/
 - **Maker Faire Trieste 2027** — Италия; 2027-05-22 – 2027-05-23. Детский допуск уточнить. https://trieste.makerfaire.com/en/home-page/
@@ -707,6 +707,15 @@ VEX: 521 из 3451 карточек соревнований (15.1%). Это я�
 - **CySec Brunei 2026 · Resilient by Design** — Бруней-Даруссалам; 2026-09-15 – 2026-09-16. Детский допуск уточнить. https://cysec.bcsa.bn/
 - **Feria Científica del Ingenio Juvenil 2026 · SENACYT** — Панама; 2026-10-14 – 2026-10-16. Детский допуск уточнить. https://feriacientifica.senacyt.gob.pa/
 - **Feria Científica del Ingenio Juvenil · next edition** — Панама; дата неизвестна. Детский допуск уточнить. https://feriacientifica.senacyt.gob.pa/
+- **Miraikan · Transformation** — Япония; 2027-04-23 – 2027-08-31. Детский допуск уточнить. https://www.miraikan.jst.go.jp/news/press/202609084737.html
+- **TEPIA Advanced Technology Gallery** — Япония; дата неизвестна. Со взрослым; условия взрослого входа отдельно. https://www.tepia.jp/exhibition/personal
+- **TEPIA Winter 2026 · Robots and making** — Япония; 2026-11-21 – 2026-12-25. Со взрослым; условия взрослого входа отдельно. https://www.tepia.jp/exhibition/event/2026winter
+- **NEXT BUSINESS EXPO 2027 · Physical AI & Robotics** — Япония; 2027-02-18 – 2027-02-19. Детский допуск уточнить. https://www.next-business-expo.jp/physical-ai/
+- **Seoul RAIM · Robot City** — Республика Корея; 2026-08-28 – 2026-12-05. Со взрослым; условия взрослого входа отдельно. https://science.seoul.go.kr/RAIM/bbsctt/view.do?bbscttSn=2609010004&key=2304100015&sc_bbsctt_adit_iem_cn=%ED%98%84%EC%9E%AC
+- **Shanghai Science and Technology Museum** — Китай; дата неизвестна. Со взрослым; условия взрослого входа отдельно. https://en.sstm.org.cn/tickets/policy
+- **Beijing Future Science and Technology Museum** — Китай; дата неизвестна. Со взрослым; условия взрослого входа отдельно. https://www.beijing.gov.cn/gate/big5/www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202610/t20261001_4888580.html
+- **NTSEC · Journey of the Curiosity Ball** — Тайвань; 2026-11-07 – 2027-11-14. Детский допуск уточнить. https://www.ntsec.gov.tw/article/detail.aspx?a=6182
+- **Shanghai Science Festival · next edition** — Китай; дата неизвестна. Детский допуск уточнить. https://english.shanghai.gov.cn/en-Latest-WhatsNew/20260525/37620a3cc53c448b810f4c7d41384866.html
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors
