@@ -1812,7 +1812,7 @@
       "city": "Гуанахуато; площадка уточняется",
       "start": "",
       "end": "",
-      "period": "21–22 мая 2027 указаны как tentative; не включены в календарь подтверждённых дат.",
+      "period": "21–22 мая 2027 — предварительная дата. Регистрация ещё не объявлена.",
       "date_status": "Предварительные даты",
       "deadline": "",
       "age": "a-MAZE-ing 8–15; другие дисциплины — отдельные рамки",
@@ -1834,7 +1834,7 @@
       "action": "Подтвердить возраст/класс, иностранный вход, состав команды и места до планирования поездки",
       "source": "https://www.roboraveinternational.org/en/events/roborave-guanajuato-open-2027",
       "proof": "Повторно прочитаны actualevent page и actuala-MAZE-ing:8–15лет,2–4students. Остальные категории и международная квота проверяются отдельно.",
-      "checked": "2026-11-04",
+      "checked": "2026-11-07",
       "status": "Идея",
       "note": "Название Open / International и текст NATIONAL расходятся; список сети классифицирует этап как National. Тело явно называет даты tentative; ожидаемые 100 команд не фактический список. Площадка и тариф ещё неизвестны.",
       "scope": "national",
@@ -1852,6 +1852,10 @@
         {
           "label": "Текущий календарь сети",
           "url": "https://www.roboraveinternational.org/en/events"
+        },
+        {
+          "url": "https://www.roboraveinternational.org/eventos/roborave-guanajuato-open-2027",
+          "label": "Официальная страница организатора"
         }
       ],
       "registration_status": "Общий список: To be announced; кнопка Register не подтверждает открытый набор.",

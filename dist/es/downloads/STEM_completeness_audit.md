@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 7422; competiciones: 3102; eventos: 303; campamentos / programas: 4017. Perfiles de ligas y programas: 258. Fichas de exposiciones grandes y especializadas: 215 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 7445; competiciones: 3113; eventos: 306; campamentos / programas: 4026. Perfiles de ligas y programas: 260. Fichas de exposiciones grandes y especializadas: 218 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros concretos de 158 de 249 países y territorios; países auditados por completo: 0. Revisión histórica v51: se añadieron 21 fichas y 3 perfiles. Todas las fichas anteriores se conservan.
 
@@ -14,16 +14,16 @@ Hay registros concretos de 158 de 249 países y territorios; países auditados p
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 23 | 1423 | 37 | 1057 |
+| América del Norte | 23 | 1425 | 37 | 1057 |
 | América del Sur | 10 | 195 | 11 | 132 |
-| Europa | 42 | 412 | 68 | 1256 |
+| Europa | 42 | 414 | 68 | 1256 |
 | África | 34 | 115 | 15 | 68 |
-| Asia | 44 | 747 | 81 | 1378 |
+| Asia | 44 | 750 | 83 | 1387 |
 | Oceanía | 5 | 119 | 3 | 114 |
 
-Fichas interregionales o globales sin un continente asignado: 108. América del Norte incluye Centroamérica y el Caribe. Las cantidades indican el inventario de la base y no el porcentaje de cobertura.
+Fichas interregionales / mundiales sin asignar a un solo continente: 113. América del Norte incluye América Central y el Caribe. Las cifras muestran el inventario de la base, no un porcentaje de cobertura.
 
-VEX: 518 de 3102 fichas de competiciones (16.7%). Es un claro desequilibrio de cobertura.
+VEX: 518 de 3113 fichas de competiciones (16.6%). Es un claro desequilibrio de cobertura.
 
 ## Lo que queda
 
@@ -96,7 +96,7 @@ VEX: 518 de 3102 fichas de competiciones (16.7%). Es un claro desequilibrio de c
 - **WRO**: 115 tarjetas, 6 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://wro-association.org/competition/categories/
 - **FIRST**: 312 fichas, 205 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.firstinspires.org/programs/fll/
 - **VEX Robotics**. 518 fichas, 418 con fechas futuras exactas. Hay perfil y fichas con cobertura local parcial. https://www.vexrobotics.com/official-path
-- *RoboCupJunior**: 4 tarjetas, 2 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://junior.robocup.org/
+- **RoboCupJunior**: 7 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://junior.robocup.org/
 - **MakeX**: 15 fichas, 11 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.makex.cc/en/2026-makex
 - **RECF Robotics**. 624 fichas, 527 con fechas futuras exactas. Hay perfil y fichas con cobertura local parcial. https://recf.org/teams/recf-robotics-competition/
 - **RECF Aerial Drone**: 204 fichas, 174 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://recf.org/teams/competition/aerial-drone-competition/
@@ -115,7 +115,7 @@ VEX: 518 de 3102 fichas de competiciones (16.7%). Es un claro desequilibrio de c
 - **Robofest · Azerbaijan**: 1 tarjeta, 0 con fechas exactas futuras. https://robofestinternational.org/sumo-strike-junior-6-10-yas/
 - **WAICY**: 4 tarjetas, 0 con fechas exactas futuras. https://www.waicy.org/waicy-2026/
 - **Codeavour**: 4 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://codeavour.org/
-- **Coolest Projects**: 1 tarjeta, 0 con fechas exactas futuras. https://online.coolestprojects.org/help
+- **Coolest Projects**: 1 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://online.coolestprojects.org/help
 - **Bebras**: 51 fichas, 48 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.bebras.org/countries
 - **ACSL**: 1 tarjeta, 0 con fechas exactas futuras. https://www.acsl.org/get-started/divisions
 - **Torneo Mexicano de Robótica**: 1 tarjeta, 1 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://femexrobotica.org/tmr2026/index.php/participantes/inscripciones
@@ -282,6 +282,8 @@ VEX: 518 de 3102 fichas de competiciones (16.7%). Es un claro desequilibrio de c
 - **RECF ADC Pro · Off Grid**: 28 fichas, 22 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://games.recf.org/pro/2.0
 - **RECF Launch · Crossfield**: 0 fichas, 0 con fechas futuras precisas. sólo el perfil; no se ha añadido el calendario de etapas. https://games.recf.org/launch-robotics/1.1
 - **International Scratch Creative Programming Olympiad**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://creativeprogramming.org/
+- **Brainiacs · Robotics**: 5 fichas, 5 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.brainiacsolympiad.com/en/olympiads/robotics
+- **STEMATHLON Greece 2027**: 2 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://portal.stem.edu.gr/en/contests/
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 10 tarjetas, 0 con fechas exactas futuras. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -569,6 +571,9 @@ VEX: 518 de 3102 fichas de competiciones (16.7%). Es un claro desequilibrio de c
 - **Festival Regional SESI de Robótica · Santa Catarina public programme** — Brasil; 2026-12-04 – 2026-12-08. con un adulto; condiciones de admisión adulta por separado. https://fiesc.com.br/pt-br/imprensa/festival-sesi-de-robotica-sera-realizado-em-sao-bento-do-sul-em-dezembro
 - **MICSUR Paraguay 2026 · Videojuegos y Futuro Digital** — Paraguay; 2026-11-19 – 2026-11-22. el permiso de entrada de niños. https://micsur.cultura.gov.py/
 - **Claro Tech Summit 2026** — Costa Rica; 2026-11-10. el permiso de entrada de niños. https://techsummit.claro.cr/
+- **Rescue Robot Forum 2026 · Kobe** — Japón; 2026-12-05. el permiso de entrada de niños. https://www.city.kobe.lg.jp/a93457/press/2026/1102resucon.html
+- **4th AI Robot-Driven Science Symposium · AIRDS** — Japón; 2026-12-17. el permiso de entrada de niños. https://airds.or.jp/en/event/symposium-4th/
+- **Coolest Projects Online 2027 · Celebration livestream** — Internacional en línea; 2027-06-23. con un adulto; condiciones de admisión adulta por separado. https://online.coolestprojects.org/cp-online-2027
 
 ## ~ Añadida en esta versión
 

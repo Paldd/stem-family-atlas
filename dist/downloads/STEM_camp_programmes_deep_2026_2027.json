@@ -30,11 +30,11 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1627,
+    "dossiers": 1632,
     "countries": 92,
     "swiss": 137,
     "by_status": {
-      "published_2026_27": 214,
+      "published_2026_27": 219,
       "published_2027": 448,
       "partial_2027": 131,
       "next_unannounced": 338,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 1,
       "confirmed_2027": 1
     },
-    "source_urls": 2343
+    "source_urls": 2350
   },
   "countries": [
     {
@@ -417,7 +417,7 @@
     },
     {
       "country": "Япония",
-      "count": 83
+      "count": 88
     }
   ],
   "profiles": [
@@ -265143,6 +265143,1068 @@
           ]
         }
       ]
+    },
+    {
+      "id": "CP1628",
+      "slug": "kreateish-tokyo-winter-2026",
+      "provider": "KreateIsh · Imagine, Create & Build",
+      "country": "Япония",
+      "iso": "JPN",
+      "place": "Tokyo · Monzen-Nakacho Studio 2F · 1-22-28 Tomioka, Koto-ku",
+      "themes": [
+        "engineering",
+        "design",
+        "ai",
+        "creative",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "6–12",
+      "language": "Вся смена на английском. Нужно понимать инструкции на английском.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "Изготовление проектов, инженерная задача Polar Rescue, комиксы и короткие фильмы, проект для сообщества. На главной странице заявлен ИИ. Инструменты ИИ уточнить.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "21–24 декабря, ежедневно 09:00–15:00 JST. Заявки до 01.12.2026, опубликованный лимит 15 детей.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "Дневная смена",
+            "price": "JPY 35000 за 4 дня или 9000 за один день. Обед 1000 в день по желанию, можно принести свой. Продлёнка 15:00–18:00 стоит 3000 в день.",
+            "source": "https://www.kreateish.com/event-details/kreateish-winter-camp-2026-imagine-create-build",
+            "place": "Tokyo · Monzen-Nakacho Studio 2F · 1-22-28 Tomioka, Koto-ku",
+            "age": "6–12",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Возраст подходит. Место подтверждает организатор."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Возраст подходит, если к первому дню уже исполнилось 6 лет."
+              }
+            },
+            "availability": {
+              "status": "open",
+              "label": "Организатор принимает заявки. Наличие места в выбранной смене нужно подтвердить."
+            },
+            "deadline": "2026-12-01",
+            "deadline_label": "Приём заявок",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Изготовление проектов, инженерная задача Polar Rescue, комиксы и короткие фильмы, проект для сообщества. На главной странице заявлен ИИ. Инструменты ИИ уточнить.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "topic": "Изготовление проектов, инженерная задача Polar Rescue, комиксы и короткие фильмы, проект для сообщества. На главной странице заявлен ИИ. Инструменты ИИ уточнить.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "topic": "Изготовление проектов, инженерная задача Polar Rescue, комиксы и короткие фильмы, проект для сообщества. На главной странице заявлен ИИ. Инструменты ИИ уточнить.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "topic": "Изготовление проектов, инженерная задача Polar Rescue, комиксы и короткие фильмы, проект для сообщества. На главной странице заявлен ИИ. Инструменты ИИ уточнить.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "season": "Winter 2026",
+        "currency": "JPY",
+        "amount": 35000,
+        "unit": "child_four_days",
+        "label": "JPY 35000 за 4 дня или 9000 за один день. Обед 1000 в день по желанию, можно принести свой. Продлёнка 15:00–18:00 стоит 3000 в день.",
+        "included": "Опубликована цена за занятие и отдельные доплаты. Готовые проекты можно забрать домой.",
+        "extras": "JPY 35000 за 4 дня или 9000 за один день. Обед 1000 в день по желанию, можно принести свой. Продлёнка 15:00–18:00 стоит 3000 в день.",
+        "deposit": "Оплата и подтверждение через организатора. Проверить наличие места и условия возврата."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Возраст подходит. Место подтверждает организатор."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Возраст подходит, если к первому дню уже исполнилось 6 лет."
+        }
+      },
+      "editorial_reason": "Редакционная карточка для сравнения программы, школьного допуска и бюджета.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить возраст, место, язык группы и условия отмены выбранной смены.",
+        "Уточнить, что нужно принести, состав материалов, страховку и налоги."
+      ],
+      "sources": [
+        {
+          "url": "https://www.kreateish.com/event-details/kreateish-winter-camp-2026-imagine-create-build",
+          "title": "Карточка курса и опубликованный тариф",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.kreateish.com/",
+          "title": "Карточка курса и опубликованный тариф",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "open",
+        "label": "Организатор принимает заявки. Наличие места в выбранной смене нужно подтвердить."
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1628-20261221-20261224"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1629",
+      "slug": "mirai-robo-winter-azabudai",
+      "provider": "Mirai Minds · Robo-Winter Lab",
+      "country": "Япония",
+      "iso": "JPN",
+      "place": "Tokyo · FanFan Chinese Academy · Azabudai",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "5–8 лет, Kindergarten–Grade 3. Школу и отсечение возраста сверить по конкретной группе.",
+      "language": "Общий сайт описывает двуязычную среду. Язык технических заданий этой группы нужно подтвердить.",
+      "confirmed_instruction_languages": [],
+      "programme": "Дети проектируют, собирают, программируют и проверяют робота для зимних миссий. Подходит начинающим. Модель набора уточнить.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Две отдельные смены 14–18 и 21–24 декабря 2026, 09:00–14:00 JST. Можно выбрать одну или обе.",
+        "sessions": [
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "Дневная смена",
+            "price": "JPY 55000 за выбранную неделю. На странице обе недели доступны для запроса отдельно.",
+            "source": "https://miraiminds.jp/classes/robo-winter-lab/",
+            "place": "Tokyo · FanFan Chinese Academy · Azabudai",
+            "age": "5–8 лет, Kindergarten–Grade 3. Школу и отсечение возраста сверить по конкретной группе.",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "По заявленному возрасту 9 лет группа 5–8 не подходит. При пограничном возрасте уточнить дату отсечения."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "5–8 лет, Kindergarten–Grade 3. Школу и отсечение возраста сверить по конкретной группе."
+              }
+            },
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Подать запрос и дождаться подтверждения места от организатора."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "topic": "Дети проектируют, собирают, программируют и проверяют робота для зимних миссий. Подходит начинающим. Модель набора уточнить.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-15",
+                "topic": "Дети проектируют, собирают, программируют и проверяют робота для зимних миссий. Подходит начинающим. Модель набора уточнить.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-16",
+                "topic": "Дети проектируют, собирают, программируют и проверяют робота для зимних миссий. Подходит начинающим. Модель набора уточнить.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-17",
+                "topic": "Дети проектируют, собирают, программируют и проверяют робота для зимних миссий. Подходит начинающим. Модель набора уточнить.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-18",
+                "topic": "Дети проектируют, собирают, программируют и проверяют робота для зимних миссий. Подходит начинающим. Модель набора уточнить.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "Дневная смена",
+            "price": "JPY 55000 за выбранную неделю. На странице обе недели доступны для запроса отдельно.",
+            "source": "https://miraiminds.jp/classes/robo-winter-lab/",
+            "place": "Tokyo · FanFan Chinese Academy · Azabudai",
+            "age": "5–8 лет, Kindergarten–Grade 3. Школу и отсечение возраста сверить по конкретной группе.",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "По заявленному возрасту 9 лет группа 5–8 не подходит. При пограничном возрасте уточнить дату отсечения."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "5–8 лет, Kindergarten–Grade 3. Школу и отсечение возраста сверить по конкретной группе."
+              }
+            },
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Подать запрос и дождаться подтверждения места от организатора."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Дети проектируют, собирают, программируют и проверяют робота для зимних миссий. Подходит начинающим. Модель набора уточнить.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "topic": "Дети проектируют, собирают, программируют и проверяют робота для зимних миссий. Подходит начинающим. Модель набора уточнить.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "topic": "Дети проектируют, собирают, программируют и проверяют робота для зимних миссий. Подходит начинающим. Модель набора уточнить.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "topic": "Дети проектируют, собирают, программируют и проверяют робота для зимних миссий. Подходит начинающим. Модель набора уточнить.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "season": "Winter 2026",
+        "currency": "JPY",
+        "amount": 55000,
+        "unit": "child_week",
+        "label": "JPY 55000 за выбранную неделю. На странице обе недели доступны для запроса отдельно.",
+        "included": "Обед с собой. Уточнить выдачу оборудования, налоги и возврат.",
+        "extras": "Обед с собой. Уточнить выдачу оборудования, налоги и возврат.",
+        "deposit": "Оплата и подтверждение через организатора. Проверить наличие места и условия возврата."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "По заявленному возрасту 9 лет группа 5–8 не подходит. При пограничном возрасте уточнить дату отсечения."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "5–8 лет, Kindergarten–Grade 3. Школу и отсечение возраста сверить по конкретной группе."
+        }
+      },
+      "editorial_reason": "Редакционная карточка для сравнения программы, школьного допуска и бюджета.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить возраст, место, язык группы и условия отмены выбранной смены.",
+        "Уточнить, что нужно принести, состав материалов, страховку и налоги."
+      ],
+      "sources": [
+        {
+          "url": "https://miraiminds.jp/classes/robo-winter-lab/",
+          "title": "Карточка курса и опубликованный тариф",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://miraiminds.jp/camps/",
+          "title": "Карточка курса и опубликованный тариф",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Подать запрос и дождаться подтверждения места от организатора."
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1629-20261214-20261218"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1629-20261221-20261224"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1630",
+      "slug": "mirai-young-authors-ichigaya",
+      "provider": "Mirai Minds · Young Authors Winter Camp",
+      "country": "Япония",
+      "iso": "JPN",
+      "place": "Tokyo · Mirai Minds + Cambridge Centre · Ichigaya",
+      "themes": [
+        "language",
+        "art",
+        "creative"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "5–8 лет, Kindergarten–Grade 3. Школу и отсечение возраста сверить по конкретной группе.",
+      "language": "Организатор указывает практику письма и речи на английском.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "Ребёнок пишет и иллюстрирует собственную книгу и представляет её семье.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Две отдельные смены 14–18 и 21–24 декабря 2026, 09:00–14:00 JST. Можно выбрать одну или обе.",
+        "sessions": [
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "Дневная смена",
+            "price": "JPY 55000 за выбранную неделю. На странице обе недели доступны для запроса отдельно.",
+            "source": "https://miraiminds.jp/classes/young-authors-winter-camp/",
+            "place": "Tokyo · Mirai Minds + Cambridge Centre · Ichigaya",
+            "age": "5–8 лет, Kindergarten–Grade 3. Школу и отсечение возраста сверить по конкретной группе.",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "По заявленному возрасту 9 лет группа 5–8 не подходит. При пограничном возрасте уточнить дату отсечения."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "5–8 лет, Kindergarten–Grade 3. Школу и отсечение возраста сверить по конкретной группе."
+              }
+            },
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Подать запрос и дождаться подтверждения места от организатора."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "topic": "Ребёнок пишет и иллюстрирует собственную книгу и представляет её семье.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-15",
+                "topic": "Ребёнок пишет и иллюстрирует собственную книгу и представляет её семье.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-16",
+                "topic": "Ребёнок пишет и иллюстрирует собственную книгу и представляет её семье.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-17",
+                "topic": "Ребёнок пишет и иллюстрирует собственную книгу и представляет её семье.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-18",
+                "topic": "Ребёнок пишет и иллюстрирует собственную книгу и представляет её семье.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "Дневная смена",
+            "price": "JPY 55000 за выбранную неделю. На странице обе недели доступны для запроса отдельно.",
+            "source": "https://miraiminds.jp/classes/young-authors-winter-camp/",
+            "place": "Tokyo · Mirai Minds + Cambridge Centre · Ichigaya",
+            "age": "5–8 лет, Kindergarten–Grade 3. Школу и отсечение возраста сверить по конкретной группе.",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "По заявленному возрасту 9 лет группа 5–8 не подходит. При пограничном возрасте уточнить дату отсечения."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "5–8 лет, Kindergarten–Grade 3. Школу и отсечение возраста сверить по конкретной группе."
+              }
+            },
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Подать запрос и дождаться подтверждения места от организатора."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Ребёнок пишет и иллюстрирует собственную книгу и представляет её семье.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "topic": "Ребёнок пишет и иллюстрирует собственную книгу и представляет её семье.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "topic": "Ребёнок пишет и иллюстрирует собственную книгу и представляет её семье.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "topic": "Ребёнок пишет и иллюстрирует собственную книгу и представляет её семье.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "season": "Winter 2026",
+        "currency": "JPY",
+        "amount": 55000,
+        "unit": "child_week",
+        "label": "JPY 55000 за выбранную неделю. На странице обе недели доступны для запроса отдельно.",
+        "included": "Обед с собой. Уточнить выдачу оборудования, налоги и возврат.",
+        "extras": "Обед с собой. Уточнить выдачу оборудования, налоги и возврат.",
+        "deposit": "Оплата и подтверждение через организатора. Проверить наличие места и условия возврата."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "По заявленному возрасту 9 лет группа 5–8 не подходит. При пограничном возрасте уточнить дату отсечения."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "5–8 лет, Kindergarten–Grade 3. Школу и отсечение возраста сверить по конкретной группе."
+        }
+      },
+      "editorial_reason": "Редакционная карточка для сравнения программы, школьного допуска и бюджета.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить возраст, место, язык группы и условия отмены выбранной смены.",
+        "Уточнить, что нужно принести, состав материалов, страховку и налоги."
+      ],
+      "sources": [
+        {
+          "url": "https://miraiminds.jp/classes/young-authors-winter-camp/",
+          "title": "Карточка курса и опубликованный тариф",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://miraiminds.jp/camps/",
+          "title": "Карточка курса и опубликованный тариф",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Подать запрос и дождаться подтверждения места от организатора."
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1630-20261214-20261218"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1630-20261221-20261224"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1631",
+      "slug": "mirai-winter-wonderland-kawasaki",
+      "provider": "Mirai Minds · Winter Wonderland Camp",
+      "country": "Япония",
+      "iso": "JPN",
+      "place": "Kawasaki · Kohana International School",
+      "themes": [
+        "language",
+        "art",
+        "general"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "5–8 лет, Kindergarten–Grade 3. Школу и отсечение возраста сверить по конкретной группе.",
+      "language": "Организатор прямо указывает, что все занятия проходят на английском.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "Зимние истории, творчество, песни и театр на английском.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Две отдельные смены 14–18 и 21–24 декабря 2026, 09:00–14:00 JST. Можно выбрать одну или обе.",
+        "sessions": [
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "Дневная смена",
+            "price": "JPY 33000 за выбранную неделю. На странице обе недели доступны для запроса отдельно.",
+            "source": "https://miraiminds.jp/classes/winter-wonderland-camp/",
+            "place": "Kawasaki · Kohana International School",
+            "age": "5–8 лет, Kindergarten–Grade 3. Школу и отсечение возраста сверить по конкретной группе.",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "По заявленному возрасту 9 лет группа 5–8 не подходит. При пограничном возрасте уточнить дату отсечения."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "5–8 лет, Kindergarten–Grade 3. Школу и отсечение возраста сверить по конкретной группе."
+              }
+            },
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Подать запрос и дождаться подтверждения места от организатора."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "topic": "Зимние истории, творчество, песни и театр на английском.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-15",
+                "topic": "Зимние истории, творчество, песни и театр на английском.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-16",
+                "topic": "Зимние истории, творчество, песни и театр на английском.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-17",
+                "topic": "Зимние истории, творчество, песни и театр на английском.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-18",
+                "topic": "Зимние истории, творчество, песни и театр на английском.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "Дневная смена",
+            "price": "JPY 33000 за выбранную неделю. На странице обе недели доступны для запроса отдельно.",
+            "source": "https://miraiminds.jp/classes/winter-wonderland-camp/",
+            "place": "Kawasaki · Kohana International School",
+            "age": "5–8 лет, Kindergarten–Grade 3. Школу и отсечение возраста сверить по конкретной группе.",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "По заявленному возрасту 9 лет группа 5–8 не подходит. При пограничном возрасте уточнить дату отсечения."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "5–8 лет, Kindergarten–Grade 3. Школу и отсечение возраста сверить по конкретной группе."
+              }
+            },
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Подать запрос и дождаться подтверждения места от организатора."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Зимние истории, творчество, песни и театр на английском.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "topic": "Зимние истории, творчество, песни и театр на английском.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "topic": "Зимние истории, творчество, песни и театр на английском.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "topic": "Зимние истории, творчество, песни и театр на английском.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "season": "Winter 2026",
+        "currency": "JPY",
+        "amount": 33000,
+        "unit": "child_week",
+        "label": "JPY 33000 за выбранную неделю. На странице обе недели доступны для запроса отдельно.",
+        "included": "Обед с собой. Уточнить выдачу оборудования, налоги и возврат.",
+        "extras": "Обед с собой. Уточнить выдачу оборудования, налоги и возврат.",
+        "deposit": "Оплата и подтверждение через организатора. Проверить наличие места и условия возврата."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "По заявленному возрасту 9 лет группа 5–8 не подходит. При пограничном возрасте уточнить дату отсечения."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "5–8 лет, Kindergarten–Grade 3. Школу и отсечение возраста сверить по конкретной группе."
+        }
+      },
+      "editorial_reason": "Редакционная карточка для сравнения программы, школьного допуска и бюджета.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить возраст, место, язык группы и условия отмены выбранной смены.",
+        "Уточнить, что нужно принести, состав материалов, страховку и налоги."
+      ],
+      "sources": [
+        {
+          "url": "https://miraiminds.jp/classes/winter-wonderland-camp/",
+          "title": "Карточка курса и опубликованный тариф",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://miraiminds.jp/camps/",
+          "title": "Карточка курса и опубликованный тариф",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Подать запрос и дождаться подтверждения места от организатора."
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1631-20261214-20261218"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1631-20261221-20261224"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1632",
+      "slug": "lumina-azabudai-winter-2026",
+      "provider": "Lumina Soirée · Tokyo Winter Camp",
+      "country": "Япония",
+      "iso": "JPN",
+      "place": "Tokyo · 4F Bird’s Eye · 1-6-13 Azabudai, Minato-ku",
+      "themes": [
+        "general",
+        "art",
+        "language",
+        "creative"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "4–8",
+      "language": "На месте минимум один сотрудник, говорящий по-английски и по-японски. Язык конкретного занятия уточнить.",
+      "confirmed_instruction_languages": [],
+      "programme": "Дневная творческая программа с искусством, играми и выступлениями.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "14–18 или 21–25 декабря 2026, 09:00–15:00 JST. Можно запросить один день или неделю.",
+        "sessions": [
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-25"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "Дневная смена",
+            "price": "JPY 19800 за день. Неделя: 88000 для членов, 99000 для остальных. При первой записи добавить 7700 только для лагерей или 11000 за членство. Налоги включены.",
+            "source": "https://www.luminasoiree.com/en/wintercamp2026",
+            "place": "Tokyo · 4F Bird’s Eye · 1-6-13 Azabudai, Minato-ku",
+            "age": "4–8",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "По заявленному возрасту 9 лет группа 4–8 не подходит. При пограничном возрасте уточнить дату отсечения."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Возраст подходит. Место подтверждает организатор."
+              }
+            },
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Подать запрос и дождаться подтверждения места от организатора."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "topic": "Дневная творческая программа с искусством, играми и выступлениями.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-15",
+                "topic": "Дневная творческая программа с искусством, играми и выступлениями.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-16",
+                "topic": "Дневная творческая программа с искусством, играми и выступлениями.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-17",
+                "topic": "Дневная творческая программа с искусством, играми и выступлениями.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-18",
+                "topic": "Дневная творческая программа с искусством, играми и выступлениями.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-25",
+            "label": "Дневная смена",
+            "price": "JPY 19800 за день. Неделя: 88000 для членов, 99000 для остальных. При первой записи добавить 7700 только для лагерей или 11000 за членство. Налоги включены.",
+            "source": "https://www.luminasoiree.com/en/wintercamp2026",
+            "place": "Tokyo · 4F Bird’s Eye · 1-6-13 Azabudai, Minato-ku",
+            "age": "4–8",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "По заявленному возрасту 9 лет группа 4–8 не подходит. При пограничном возрасте уточнить дату отсечения."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Возраст подходит. Место подтверждает организатор."
+              }
+            },
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Подать запрос и дождаться подтверждения места от организатора."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Дневная творческая программа с искусством, играми и выступлениями.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "topic": "Дневная творческая программа с искусством, играми и выступлениями.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "topic": "Дневная творческая программа с искусством, играми и выступлениями.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "topic": "Дневная творческая программа с искусством, играми и выступлениями.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-25",
+                "topic": "Дневная творческая программа с искусством, играми и выступлениями.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "season": "Winter 2026",
+        "currency": "JPY",
+        "amount": 99000,
+        "unit": "child_week_nonmember",
+        "label": "JPY 19800 за день. Неделя: 88000 для членов, 99000 для остальных. При первой записи добавить 7700 только для лагерей или 11000 за членство. Налоги включены.",
+        "included": "Занятия, материалы и перекусы включены. Условия обеда уточнить.",
+        "extras": "Первый день от 27500, первая неделя от 106700 с разовой регистрацией для лагерей. Китайский 15:00–15:45 за 3300 отдельно. Вечернее мероприятие 12100 для членов или детей той же смены, 14300 для остальных.",
+        "deposit": "Оплата и подтверждение через организатора. Проверить наличие места и условия возврата.",
+        "tax_included": true
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "По заявленному возрасту 9 лет группа 4–8 не подходит. При пограничном возрасте уточнить дату отсечения."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Возраст подходит. Место подтверждает организатор."
+        }
+      },
+      "editorial_reason": "Редакционная карточка для сравнения программы, школьного допуска и бюджета.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить возраст, место, язык группы и условия отмены выбранной смены.",
+        "Уточнить, что нужно принести, состав материалов, страховку и налоги."
+      ],
+      "sources": [
+        {
+          "url": "https://www.luminasoiree.com/en/wintercamp2026",
+          "title": "Карточка курса и опубликованный тариф",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Подать запрос и дождаться подтверждения места от организатора."
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1632-20261214-20261218"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-25",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1632-20261221-20261225"
+          ]
+        }
+      ]
     }
   ],
   "gaps": [
@@ -270468,7 +271530,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 209,
+  "version": 210,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -283703,7 +284765,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1627,
+      "total_dossiers": 1632,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -301453,6 +302515,51 @@
       "relation": "related_track_or_operator"
     },
     {
+      "programme_id": "CP1628",
+      "event_id": "CP1628-20261221-20261224",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1629",
+      "event_id": "CP1629-20261214-20261218",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1629",
+      "event_id": "CP1629-20261221-20261224",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1630",
+      "event_id": "CP1630-20261214-20261218",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1630",
+      "event_id": "CP1630-20261221-20261224",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1631",
+      "event_id": "CP1631-20261214-20261218",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1631",
+      "event_id": "CP1631-20261221-20261224",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1632",
+      "event_id": "CP1632-20261214-20261218",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1632",
+      "event_id": "CP1632-20261221-20261225",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -305255,10 +306362,19 @@
     "CP1626-20270118-20270122",
     "CP1626-20270208-20270212",
     "CP1627-20270125-20270129",
-    "CP1627-20270215-20270219"
+    "CP1627-20270215-20270219",
+    "CP1628-20261221-20261224",
+    "CP1629-20261214-20261218",
+    "CP1629-20261221-20261224",
+    "CP1630-20261214-20261218",
+    "CP1630-20261221-20261224",
+    "CP1631-20261214-20261218",
+    "CP1631-20261221-20261224",
+    "CP1632-20261214-20261218",
+    "CP1632-20261221-20261225"
   ],
   "integration": {
-    "generated_sessions": 3372,
+    "generated_sessions": 3381,
     "reused_legacy_events": 69,
     "seasonal_windows": 60,
     "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."

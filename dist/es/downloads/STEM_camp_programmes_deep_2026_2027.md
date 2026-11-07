@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-07. 1627 fichas en 92 países. Cada ficha indica las fechas de verificación de sus fuentes.
+Estado de la base: 2026-11-07. 1632 fichas en 92 países. Cada ficha indica las fechas de verificación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -125247,6 +125247,458 @@ Paraguay · Asunción · Minds of Tomorrow Tech Studio · Austria 2400 · Guarde
 - [Turno concreto, dirección y tabla de precios](https://www.mindsoftomorrowparaguay.com/eco-tech-inventores) · 2026-11-07
 
 - [Calendario y condiciones oficiales de temporada](https://www.mindsoftomorrowparaguay.com/colonia-verano-2026-2027) · 2026-11-07
+
+## CP1628 · KreateIsh · Imagine, Create & Build
+
+Japón · Tokyo · Monzen-Nakacho Studio 2F · 1-22-28 Tomioka, Koto-ku
+
+**Se ha comprobado:** 2026-11-07
+
+**Edad:** 6–12
+
+**Idioma:** Todo el turno es en inglés. Hay que entender instrucciones en inglés.
+
+**Programa:** Creación de proyectos, reto de ingeniería Polar Rescue, cómics y cortos, proyecto comunitario. La página principal anuncia IA. Confirmar las herramientas de IA.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 21–24 de diciembre, a diario 09:00–15:00 JST. Solicitudes hasta el 01.12.2026, cupo publicado de 15 niños.
+
+**Precio / año:** Winter 2026 · JPY 35000 por 4 días o 9000 por un día. Almuerzo opcional 1000 por día. También se puede traer de casa. Cuidado de 15:00–18:00 por 3000 al día.
+
+**Incluido:** Se publica el precio de la actividad y los extras por separado. Los proyectos terminados se pueden llevar a casa.
+
+**Suplementos:** JPY 35000 por 4 días o 9000 por un día. Almuerzo opcional 1000 por día. También se puede traer de casa. Cuidado de 15:00–18:00 por 3000 al día.
+
+**Pago:** Pago y confirmación mediante el organizador. Verificar plaza y condiciones de reembolso.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** La edad encaja si ya cumplió 6 años al comenzar el primer día.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar edad, plaza, idioma del grupo y cancelación del turno elegido.
+
+- Confirmar qué llevar, materiales incluidos, seguro e impuestos.
+
+### Turno diurno
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**lugar:** Tokyo · Monzen-Nakacho Studio 2F · 1-22-28 Tomioka, Koto-ku
+
+**Edad:** 6–12
+
+**Precio:** JPY 35000 por 4 días o 9000 por un día. Almuerzo opcional 1000 por día. También se puede traer de casa. Cuidado de 15:00–18:00 por 3000 al día.
+
+- 2026-12-21 · 09:00–15:00 · Asia/Tokyo · Creación de proyectos, reto de ingeniería Polar Rescue, cómics y cortos, proyecto comunitario. La página principal anuncia IA. Confirmar las herramientas de IA.
+
+- 2026-12-22 · 09:00–15:00 · Asia/Tokyo · Creación de proyectos, reto de ingeniería Polar Rescue, cómics y cortos, proyecto comunitario. La página principal anuncia IA. Confirmar las herramientas de IA.
+
+- 2026-12-23 · 09:00–15:00 · Asia/Tokyo · Creación de proyectos, reto de ingeniería Polar Rescue, cómics y cortos, proyecto comunitario. La página principal anuncia IA. Confirmar las herramientas de IA.
+
+- 2026-12-24 · 09:00–15:00 · Asia/Tokyo · Creación de proyectos, reto de ingeniería Polar Rescue, cómics y cortos, proyecto comunitario. La página principal anuncia IA. Confirmar las herramientas de IA.
+
+**Disponibilidad de plazas:** El proveedor recibe solicitudes. Hay que confirmar plaza en el turno elegido.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** La edad encaja si ya cumplió 6 años al comenzar el primer día.
+
+[fuente](https://www.kreateish.com/event-details/kreateish-winter-camp-2026-imagine-create-build)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://www.kreateish.com/event-details/kreateish-winter-camp-2026-imagine-create-build) · 2026-11-07
+
+- [Ficha del curso y tarifa publicada](https://www.kreateish.com/) · 2026-11-07
+
+## CP1629 · Mirai Minds · Robo-Winter Lab
+
+Japón · Tokyo · FanFan Chinese Academy · Azabudai
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 5–8 años, Kindergarten–Grade 3. Confirmar curso y corte de edad para el grupo concreto.
+
+**Idioma:** La web general describe un entorno bilingüe. Hay que confirmar el idioma de las actividades técnicas de este grupo.
+
+**Programa:** Los niños diseñan, construyen, programan y prueban un robot para misiones de invierno. Apto para principiantes. Confirmar modelo del kit.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Dos turnos separados 14–18 y 21–24 de diciembre de 2026, 09:00–14:00 JST. Se puede elegir uno o ambos.
+
+**Precio / año:** Winter 2026 · JPY 55000 por la semana elegida. La web permite solicitar cada semana por separado.
+
+**Incluido:** Llevar almuerzo. Confirmar material prestado, impuestos y reembolso.
+
+**Suplementos:** Llevar almuerzo. Confirmar material prestado, impuestos y reembolso.
+
+**Pago:** Pago y confirmación mediante el organizador. Verificar plaza y condiciones de reembolso.
+
+**Matvey:** Con la edad indicada de 9 años el grupo de 5–8 no encaja. Para edades límite, confirmar la fecha de corte.
+
+**Oscar:** 5–8 años, Kindergarten–Grade 3. Confirmar curso y corte de edad para el grupo concreto.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar edad, plaza, idioma del grupo y cancelación del turno elegido.
+
+- Confirmar qué llevar, materiales incluidos, seguro e impuestos.
+
+### Turno diurno
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**lugar:** Tokyo · FanFan Chinese Academy · Azabudai
+
+**edad:** 5–8 años, Kindergarten–Grade 3. Confirmar curso y corte de edad para el grupo concreto.
+
+**Precio:** JPY 55000 por la semana elegida. La web permite solicitar cada semana por separado.
+
+- 2026-12-14 · 09:00–14:00 · Asia/Tokyo · Los niños diseñan, construyen, programan y prueban un robot para misiones de invierno. Apto para principiantes. Confirmar modelo del kit.
+
+- 2026-12-15 · 09:00–14:00 · Asia/Tokyo · Los niños diseñan, construyen, programan y prueban un robot para misiones de invierno. Apto para principiantes. Confirmar modelo del kit.
+
+- 2026-12-16 · 09:00–14:00 · Asia/Tokyo · Los niños diseñan, construyen, programan y prueban un robot para misiones de invierno. Apto para principiantes. Confirmar modelo del kit.
+
+- 2026-12-17 · 09:00–14:00 · Asia/Tokyo · Los niños diseñan, construyen, programan y prueban un robot para misiones de invierno. Apto para principiantes. Confirmar modelo del kit.
+
+- 2026-12-18 · 09:00–14:00 · Asia/Tokyo · Los niños diseñan, construyen, programan y prueban un robot para misiones de invierno. Apto para principiantes. Confirmar modelo del kit.
+
+**Disponibilidad de plazas:** Enviar una solicitud y esperar la confirmación de plaza del proveedor.
+
+**Matvey:** Con la edad indicada de 9 años el grupo de 5–8 no encaja. Para edades límite, confirmar la fecha de corte.
+
+**Oscar:** 5–8 años, Kindergarten–Grade 3. Confirmar curso y corte de edad para el grupo concreto.
+
+[fuente](https://miraiminds.jp/classes/robo-winter-lab/)
+
+### Turno diurno
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**lugar:** Tokyo · FanFan Chinese Academy · Azabudai
+
+**edad:** 5–8 años, Kindergarten–Grade 3. Confirmar curso y corte de edad para el grupo concreto.
+
+**Precio:** JPY 55000 por la semana elegida. La web permite solicitar cada semana por separado.
+
+- 2026-12-21 · 09:00–14:00 · Asia/Tokyo · Los niños diseñan, construyen, programan y prueban un robot para misiones de invierno. Apto para principiantes. Confirmar modelo del kit.
+
+- 2026-12-22 · 09:00–14:00 · Asia/Tokyo · Los niños diseñan, construyen, programan y prueban un robot para misiones de invierno. Apto para principiantes. Confirmar modelo del kit.
+
+- 2026-12-23 · 09:00–14:00 · Asia/Tokyo · Los niños diseñan, construyen, programan y prueban un robot para misiones de invierno. Apto para principiantes. Confirmar modelo del kit.
+
+- 2026-12-24 · 09:00–14:00 · Asia/Tokyo · Los niños diseñan, construyen, programan y prueban un robot para misiones de invierno. Apto para principiantes. Confirmar modelo del kit.
+
+**Disponibilidad de plazas:** Enviar una solicitud y esperar la confirmación de plaza del proveedor.
+
+**Matvey:** Con la edad indicada de 9 años el grupo de 5–8 no encaja. Para edades límite, confirmar la fecha de corte.
+
+**Oscar:** 5–8 años, Kindergarten–Grade 3. Confirmar curso y corte de edad para el grupo concreto.
+
+[fuente](https://miraiminds.jp/classes/robo-winter-lab/)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://miraiminds.jp/classes/robo-winter-lab/) · 2026-11-07
+
+- [Ficha del curso y tarifa publicada](https://miraiminds.jp/camps/) · 2026-11-07
+
+## CP1630 · Mirai Minds · Young Authors Winter Camp
+
+Japón · Tokyo · Mirai Minds + Cambridge Centre · Ichigaya
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 5–8 años, Kindergarten–Grade 3. Confirmar curso y corte de edad para el grupo concreto.
+
+**Idioma:** El proveedor indica práctica de escritura y expresión oral en inglés.
+
+**Programa:** El menor escribe e ilustra su propio libro y lo presenta a su familia.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Dos turnos separados 14–18 y 21–24 de diciembre de 2026, 09:00–14:00 JST. Se puede elegir uno o ambos.
+
+**Precio / año:** Winter 2026 · JPY 55000 por la semana elegida. La web permite solicitar cada semana por separado.
+
+**Incluido:** Llevar almuerzo. Confirmar material prestado, impuestos y reembolso.
+
+**Suplementos:** Llevar almuerzo. Confirmar material prestado, impuestos y reembolso.
+
+**Pago:** Pago y confirmación mediante el organizador. Verificar plaza y condiciones de reembolso.
+
+**Matvey:** Con la edad indicada de 9 años el grupo de 5–8 no encaja. Para edades límite, confirmar la fecha de corte.
+
+**Oscar:** 5–8 años, Kindergarten–Grade 3. Confirmar curso y corte de edad para el grupo concreto.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar edad, plaza, idioma del grupo y cancelación del turno elegido.
+
+- Confirmar qué llevar, materiales incluidos, seguro e impuestos.
+
+### Turno diurno
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**lugar:** Tokyo · Mirai Minds + Cambridge Centre · Ichigaya
+
+**edad:** 5–8 años, Kindergarten–Grade 3. Confirmar curso y corte de edad para el grupo concreto.
+
+**Precio:** JPY 55000 por la semana elegida. La web permite solicitar cada semana por separado.
+
+- 2026-12-14 · 09:00–14:00 · Asia/Tokyo · El menor escribe e ilustra su propio libro y lo presenta a su familia.
+
+- 2026-12-15 · 09:00–14:00 · Asia/Tokyo · El menor escribe e ilustra su propio libro y lo presenta a su familia.
+
+- 2026-12-16 · 09:00–14:00 · Asia/Tokyo · El menor escribe e ilustra su propio libro y lo presenta a su familia.
+
+- 2026-12-17 · 09:00–14:00 · Asia/Tokyo · El menor escribe e ilustra su propio libro y lo presenta a su familia.
+
+- 2026-12-18 · 09:00–14:00 · Asia/Tokyo · El menor escribe e ilustra su propio libro y lo presenta a su familia.
+
+**Disponibilidad de plazas:** Enviar una solicitud y esperar la confirmación de plaza del proveedor.
+
+**Matvey:** Con la edad indicada de 9 años el grupo de 5–8 no encaja. Para edades límite, confirmar la fecha de corte.
+
+**Oscar:** 5–8 años, Kindergarten–Grade 3. Confirmar curso y corte de edad para el grupo concreto.
+
+[fuente](https://miraiminds.jp/classes/young-authors-winter-camp/)
+
+### Turno diurno
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**lugar:** Tokyo · Mirai Minds + Cambridge Centre · Ichigaya
+
+**edad:** 5–8 años, Kindergarten–Grade 3. Confirmar curso y corte de edad para el grupo concreto.
+
+**Precio:** JPY 55000 por la semana elegida. La web permite solicitar cada semana por separado.
+
+- 2026-12-21 · 09:00–14:00 · Asia/Tokyo · El menor escribe e ilustra su propio libro y lo presenta a su familia.
+
+- 2026-12-22 · 09:00–14:00 · Asia/Tokyo · El menor escribe e ilustra su propio libro y lo presenta a su familia.
+
+- 2026-12-23 · 09:00–14:00 · Asia/Tokyo · El menor escribe e ilustra su propio libro y lo presenta a su familia.
+
+- 2026-12-24 · 09:00–14:00 · Asia/Tokyo · El menor escribe e ilustra su propio libro y lo presenta a su familia.
+
+**Disponibilidad de plazas:** Enviar una solicitud y esperar la confirmación de plaza del proveedor.
+
+**Matvey:** Con la edad indicada de 9 años el grupo de 5–8 no encaja. Para edades límite, confirmar la fecha de corte.
+
+**Oscar:** 5–8 años, Kindergarten–Grade 3. Confirmar curso y corte de edad para el grupo concreto.
+
+[fuente](https://miraiminds.jp/classes/young-authors-winter-camp/)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://miraiminds.jp/classes/young-authors-winter-camp/) · 2026-11-07
+
+- [Ficha del curso y tarifa publicada](https://miraiminds.jp/camps/) · 2026-11-07
+
+## CP1631 · Mirai Minds · Winter Wonderland Camp
+
+Japón · Kawasaki · Kohana International School
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 5–8 años, Kindergarten–Grade 3. Confirmar curso y corte de edad para el grupo concreto.
+
+**Idioma:** El organizador indica expresamente que todas las clases se imparten en inglés.
+
+**Programa:** Cuentos de invierno, manualidades, canciones y teatro en inglés.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Dos turnos separados 14–18 y 21–24 de diciembre de 2026, 09:00–14:00 JST. Se puede elegir uno o ambos.
+
+**Precio / año:** Winter 2026 · JPY 33000 por la semana elegida. La web permite solicitar cada semana por separado.
+
+**Incluido:** Llevar almuerzo. Confirmar material prestado, impuestos y reembolso.
+
+**Suplementos:** Llevar almuerzo. Confirmar material prestado, impuestos y reembolso.
+
+**Pago:** Pago y confirmación mediante el organizador. Verificar plaza y condiciones de reembolso.
+
+**Matvey:** Con la edad indicada de 9 años el grupo de 5–8 no encaja. Para edades límite, confirmar la fecha de corte.
+
+**Oscar:** 5–8 años, Kindergarten–Grade 3. Confirmar curso y corte de edad para el grupo concreto.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar edad, plaza, idioma del grupo y cancelación del turno elegido.
+
+- Confirmar qué llevar, materiales incluidos, seguro e impuestos.
+
+### Turno diurno
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**lugar:** Kawasaki · Kohana International School
+
+**edad:** 5–8 años, Kindergarten–Grade 3. Confirmar curso y corte de edad para el grupo concreto.
+
+**Precio:** JPY 33000 por la semana elegida. La web permite solicitar cada semana por separado.
+
+- 2026-12-14 · 09:00–14:00 · Asia/Tokyo · Cuentos de invierno, manualidades, canciones y teatro en inglés.
+
+- 2026-12-15 · 09:00–14:00 · Asia/Tokyo · Cuentos de invierno, manualidades, canciones y teatro en inglés.
+
+- 2026-12-16 · 09:00–14:00 · Asia/Tokyo · Cuentos de invierno, manualidades, canciones y teatro en inglés.
+
+- 2026-12-17 · 09:00–14:00 · Asia/Tokyo · Cuentos de invierno, manualidades, canciones y teatro en inglés.
+
+- 2026-12-18 · 09:00–14:00 · Asia/Tokyo · Cuentos de invierno, manualidades, canciones y teatro en inglés.
+
+**Disponibilidad de plazas:** Enviar una solicitud y esperar la confirmación de plaza del proveedor.
+
+**Matvey:** Con la edad indicada de 9 años el grupo de 5–8 no encaja. Para edades límite, confirmar la fecha de corte.
+
+**Oscar:** 5–8 años, Kindergarten–Grade 3. Confirmar curso y corte de edad para el grupo concreto.
+
+[fuente](https://miraiminds.jp/classes/winter-wonderland-camp/)
+
+### Turno diurno
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**lugar:** Kawasaki · Kohana International School
+
+**edad:** 5–8 años, Kindergarten–Grade 3. Confirmar curso y corte de edad para el grupo concreto.
+
+**Precio:** JPY 33000 por la semana elegida. La web permite solicitar cada semana por separado.
+
+- 2026-12-21 · 09:00–14:00 · Asia/Tokyo · Cuentos de invierno, manualidades, canciones y teatro en inglés.
+
+- 2026-12-22 · 09:00–14:00 · Asia/Tokyo · Cuentos de invierno, manualidades, canciones y teatro en inglés.
+
+- 2026-12-23 · 09:00–14:00 · Asia/Tokyo · Cuentos de invierno, manualidades, canciones y teatro en inglés.
+
+- 2026-12-24 · 09:00–14:00 · Asia/Tokyo · Cuentos de invierno, manualidades, canciones y teatro en inglés.
+
+**Disponibilidad de plazas:** Enviar una solicitud y esperar la confirmación de plaza del proveedor.
+
+**Matvey:** Con la edad indicada de 9 años el grupo de 5–8 no encaja. Para edades límite, confirmar la fecha de corte.
+
+**Oscar:** 5–8 años, Kindergarten–Grade 3. Confirmar curso y corte de edad para el grupo concreto.
+
+[fuente](https://miraiminds.jp/classes/winter-wonderland-camp/)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://miraiminds.jp/classes/winter-wonderland-camp/) · 2026-11-07
+
+- [Ficha del curso y tarifa publicada](https://miraiminds.jp/camps/) · 2026-11-07
+
+## CP1632 · Lumina Soirée · Tokyo Winter Camp
+
+Japón · Tokyo · 4F Bird’s Eye · 1-6-13 Azabudai, Minato-ku
+
+**Se ha comprobado:** 2026-11-07
+
+**Edad:** 4–8
+
+**Idioma:** Hay al menos un miembro del personal que habla inglés y japonés. Confirmar el idioma de cada actividad.
+
+**Programa:** Programa creativo diurno de arte, juegos y expresión oral.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 14–18 o 21–25 de diciembre de 2026, 09:00–15:00 JST. Se puede solicitar un día o una semana.
+
+**Precio / año:** Winter 2026 · JPY 19800 por día. Semana: 88000 para socios, 99000 para no socios. Primera inscripción: añadir 7700 para campamentos o 11000 por membresía. Impuestos incluidos.
+
+**Incluido:** Incluye actividades, materiales y meriendas. Confirmar las condiciones del almuerzo.
+
+**Suplementos:** Primer día desde 27500, primera semana desde 106700 con inscripción única de campamentos. Chino 15:00–15:45 por 3300 aparte. Actividad de tarde 12100 para socios o participantes de ese día, 14300 para el resto.
+
+**Pago:** Pago y confirmación mediante el organizador. Verificar plaza y condiciones de reembolso.
+
+**Matvey:** Con la edad indicada de 9 años el grupo de 4–8 no encaja. Para edades límite, confirmar la fecha de corte.
+
+**Oscar:** Edad adecuada. El organizador confirma la plaza.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Confirmar edad, plaza, idioma del grupo y cancelación del turno elegido.
+
+- Confirmar qué llevar, materiales incluidos, seguro e impuestos.
+
+### Turno diurno
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**lugar:** Tokyo · 4F Bird’s Eye · 1-6-13 Azabudai, Minato-ku
+
+**Edad:** 4–8
+
+**Precio:** JPY 19800 por día. Semana: 88000 para socios, 99000 para no socios. Primera inscripción: añadir 7700 para campamentos o 11000 por membresía. Impuestos incluidos.
+
+- 2026-12-14 · 09:00–15:00 · Asia/Tokyo · Programa creativo diurno de arte, juegos y expresión oral.
+
+- 2026-12-15 · 09:00–15:00 · Asia/Tokyo · Programa creativo diurno de arte, juegos y expresión oral.
+
+- 2026-12-16 · 09:00–15:00 · Asia/Tokyo · Programa creativo diurno de arte, juegos y expresión oral.
+
+- 2026-12-17 · 09:00–15:00 · Asia/Tokyo · Programa creativo diurno de arte, juegos y expresión oral.
+
+- 2026-12-18 · 09:00–15:00 · Asia/Tokyo · Programa creativo diurno de arte, juegos y expresión oral.
+
+**Disponibilidad de plazas:** Enviar una solicitud y esperar la confirmación de plaza del proveedor.
+
+**Matvey:** Con la edad indicada de 9 años el grupo de 4–8 no encaja. Para edades límite, confirmar la fecha de corte.
+
+**Oscar:** Edad adecuada. El organizador confirma la plaza.
+
+[fuente](https://www.luminasoiree.com/en/wintercamp2026)
+
+### Turno diurno
+
+**Fechas / estado:** 2026-12-21 — 2026-12-25
+
+**lugar:** Tokyo · 4F Bird’s Eye · 1-6-13 Azabudai, Minato-ku
+
+**Edad:** 4–8
+
+**Precio:** JPY 19800 por día. Semana: 88000 para socios, 99000 para no socios. Primera inscripción: añadir 7700 para campamentos o 11000 por membresía. Impuestos incluidos.
+
+- 2026-12-21 · 09:00–15:00 · Asia/Tokyo · Programa creativo diurno de arte, juegos y expresión oral.
+
+- 2026-12-22 · 09:00–15:00 · Asia/Tokyo · Programa creativo diurno de arte, juegos y expresión oral.
+
+- 2026-12-23 · 09:00–15:00 · Asia/Tokyo · Programa creativo diurno de arte, juegos y expresión oral.
+
+- 2026-12-24 · 09:00–15:00 · Asia/Tokyo · Programa creativo diurno de arte, juegos y expresión oral.
+
+- 2026-12-25 · 09:00–15:00 · Asia/Tokyo · Programa creativo diurno de arte, juegos y expresión oral.
+
+**Disponibilidad de plazas:** Enviar una solicitud y esperar la confirmación de plaza del proveedor.
+
+**Matvey:** Con la edad indicada de 9 años el grupo de 4–8 no encaja. Para edades límite, confirmar la fecha de corte.
+
+**Oscar:** Edad adecuada. El organizador confirma la plaza.
+
+[fuente](https://www.luminasoiree.com/en/wintercamp2026)
+
+### Fuentes
+
+- [Ficha del curso y tarifa publicada](https://www.luminasoiree.com/en/wintercamp2026) · 2026-11-07
 
 ## ~ Comprobaciones no cerradas
 

@@ -63062,6 +63062,150 @@ Limitaciones: Matvey: La edad publicada encaja. Hay que confirmar idioma y plaza
 Fuente: https://www.mindsoftomorrowparaguay.com/eco-tech-inventores
 Se ha comprobado: 2026-11-07
 
+### CP1628-20261221-20261224 · KreateIsh · Imagine, Create & Build · Turno diurno · 2026-12-21–2026-12-24
+
+Lugar: Japón · Tokyo · Monzen-Nakacho Studio 2F · 1-22-28 Tomioka, Koto-ku
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 6*12
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Todo el turno es en inglés. Hay que entender instrucciones en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · JPY 35000 por 4 días o 9000 por un día. Almuerzo opcional 1000 por día. También se puede traer de casa. Cuidado de 15:00–18:00 por 3000 al día. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada. El organizador confirma la plaza. Oscar: La edad encaja si ya cumplió 6 años al comenzar el primer día. Suplementos: JPY 35000 por 4 días o 9000 por un día. Almuerzo opcional 1000 por día. También se puede traer de casa. Cuidado de 15:00–18:00 por 3000 al día. Pago: Pago y confirmación mediante el organizador. Verificar plaza y condiciones de reembolso.
+Fuente: https://www.kreateish.com/event-details/kreateish-winter-camp-2026-imagine-create-build
+Se ha comprobado: 2026-11-07
+
+### CP1629-20261214-20261218 · Mirai Minds · Robo-Winter Lab · Turno diurno · 2026-12-14–2026-12-18
+
+Lugar: Japón · Tokyo · FanFan Chinese Academy · Azabudai
+Fecha: 2026-12-14 - 2026-12-18
+edad: 5–8 años, Kindergarten–Grade 3. Confirmar curso y corte de edad para el grupo concreto.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: La web general describe un entorno bilingüe. Hay que confirmar el idioma de las actividades técnicas de este grupo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · JPY 55000 por la semana elegida. La web permite solicitar cada semana por separado. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Con la edad indicada de 9 años el grupo de 5–8 no encaja. Para edades límite, confirmar la fecha de corte. Oscar: 5–8 años, Kindergarten–Grade 3. Confirmar curso y corte de edad para el grupo concreto. Suplementos: Llevar almuerzo. Confirmar material prestado, impuestos y reembolso. Pago: Pago y confirmación mediante el organizador. Verificar plaza y condiciones de reembolso.
+Fuente: https://miraiminds.jp/classes/robo-winter-lab/
+Se ha comprobado: 2026-11-07
+
+### CP1629-20261221-20261224 · Mirai Minds · Robo-Winter Lab · Turno diurno · 2026-12-21–2026-12-24
+
+Lugar: Japón · Tokyo · FanFan Chinese Academy · Azabudai
+Fecha: 2026-12-21 - 2026-12-24
+edad: 5–8 años, Kindergarten–Grade 3. Confirmar curso y corte de edad para el grupo concreto.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: La web general describe un entorno bilingüe. Hay que confirmar el idioma de las actividades técnicas de este grupo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · JPY 55000 por la semana elegida. La web permite solicitar cada semana por separado. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Con la edad indicada de 9 años el grupo de 5–8 no encaja. Para edades límite, confirmar la fecha de corte. Oscar: 5–8 años, Kindergarten–Grade 3. Confirmar curso y corte de edad para el grupo concreto. Suplementos: Llevar almuerzo. Confirmar material prestado, impuestos y reembolso. Pago: Pago y confirmación mediante el organizador. Verificar plaza y condiciones de reembolso.
+Fuente: https://miraiminds.jp/classes/robo-winter-lab/
+Se ha comprobado: 2026-11-07
+
+### CP1630-20261214-20261218 · Mirai Minds · Young Authors Winter Camp · Turno diurno · 2026-12-14–2026-12-18
+
+Lugar: Japón · Tokyo · Mirai Minds + Cambridge Centre · Ichigaya
+Fecha: 2026-12-14 - 2026-12-18
+edad: 5–8 años, Kindergarten–Grade 3. Confirmar curso y corte de edad para el grupo concreto.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El proveedor indica práctica de escritura y expresión oral en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · JPY 55000 por la semana elegida. La web permite solicitar cada semana por separado. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Con la edad indicada de 9 años el grupo de 5–8 no encaja. Para edades límite, confirmar la fecha de corte. Oscar: 5–8 años, Kindergarten–Grade 3. Confirmar curso y corte de edad para el grupo concreto. Suplementos: Llevar almuerzo. Confirmar material prestado, impuestos y reembolso. Pago: Pago y confirmación mediante el organizador. Verificar plaza y condiciones de reembolso.
+Fuente: https://miraiminds.jp/classes/young-authors-winter-camp/
+Se ha comprobado: 2026-11-07
+
+### CP1630-20261221-20261224 · Mirai Minds · Young Authors Winter Camp · Turno diurno · 2026-12-21–2026-12-24
+
+Lugar: Japón · Tokyo · Mirai Minds + Cambridge Centre · Ichigaya
+Fecha: 2026-12-21 - 2026-12-24
+edad: 5–8 años, Kindergarten–Grade 3. Confirmar curso y corte de edad para el grupo concreto.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El proveedor indica práctica de escritura y expresión oral en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · JPY 55000 por la semana elegida. La web permite solicitar cada semana por separado. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Con la edad indicada de 9 años el grupo de 5–8 no encaja. Para edades límite, confirmar la fecha de corte. Oscar: 5–8 años, Kindergarten–Grade 3. Confirmar curso y corte de edad para el grupo concreto. Suplementos: Llevar almuerzo. Confirmar material prestado, impuestos y reembolso. Pago: Pago y confirmación mediante el organizador. Verificar plaza y condiciones de reembolso.
+Fuente: https://miraiminds.jp/classes/young-authors-winter-camp/
+Se ha comprobado: 2026-11-07
+
+### CP1631-20261214-20261218 · Mirai Minds · Winter Wonderland Camp · Turno diurno · 2026-12-14–2026-12-18
+
+Lugar: Japón Kawasaki · Kohana International School
+Fecha: 2026-12-14 - 2026-12-18
+edad: 5–8 años, Kindergarten–Grade 3. Confirmar curso y corte de edad para el grupo concreto.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · JPY 33000 por la semana elegida. La web permite solicitar cada semana por separado. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Con la edad indicada de 9 años el grupo de 5–8 no encaja. Para edades límite, confirmar la fecha de corte. Oscar: 5–8 años, Kindergarten–Grade 3. Confirmar curso y corte de edad para el grupo concreto. Suplementos: Llevar almuerzo. Confirmar material prestado, impuestos y reembolso. Pago: Pago y confirmación mediante el organizador. Verificar plaza y condiciones de reembolso.
+Fuente: https://miraiminds.jp/classes/winter-wonderland-camp/
+Se ha comprobado: 2026-11-07
+
+### CP1631-20261221-20261224 · Mirai Minds · Winter Wonderland Camp · Turno diurno · 2026-12-21–2026-12-24
+
+Lugar: Japón Kawasaki · Kohana International School
+Fecha: 2026-12-21 - 2026-12-24
+edad: 5–8 años, Kindergarten–Grade 3. Confirmar curso y corte de edad para el grupo concreto.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · JPY 33000 por la semana elegida. La web permite solicitar cada semana por separado. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Con la edad indicada de 9 años el grupo de 5–8 no encaja. Para edades límite, confirmar la fecha de corte. Oscar: 5–8 años, Kindergarten–Grade 3. Confirmar curso y corte de edad para el grupo concreto. Suplementos: Llevar almuerzo. Confirmar material prestado, impuestos y reembolso. Pago: Pago y confirmación mediante el organizador. Verificar plaza y condiciones de reembolso.
+Fuente: https://miraiminds.jp/classes/winter-wonderland-camp/
+Se ha comprobado: 2026-11-07
+
+### CP1632-20261214-20261218 · Lumina Soirée · Tokyo Winter Camp · Turno diurno · 2026-12-14–2026-12-18
+
+Lugar: Japón · Tokyo · 4F Bird’s Eye · 1-6-13 Azabudai, Minato-ku
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 4–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Hay al menos un miembro del personal que habla inglés y japonés. Confirmar el idioma de cada actividad.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · JPY 19800 por día. Semana: 88000 para socios, 99000 para no socios. Primera inscripción: añadir 7700 para campamentos o 11000 por membresía. Impuestos incluidos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Con la edad indicada de 9 años el grupo de 4–8 no encaja. Para edades límite, confirmar la fecha de corte. Oscar: Edad adecuada. El organizador confirma la plaza. Suplementos: Primer día desde 27500, primera semana desde 106700 con inscripción única de campamentos. Chino 15:00–15:45 por 3300 aparte. Actividad de tarde 12100 para socios o participantes de ese día, 14300 para el resto. Pago: Pago y confirmación mediante el organizador. Verificar plaza y condiciones de reembolso.
+Fuente: https://www.luminasoiree.com/en/wintercamp2026
+Se ha comprobado: 2026-11-07
+
+### CP1632-20261221-20261225 · Lumina Soirée · Tokyo Winter Camp · Turno diurno · 2026-12-21–2026-12-25
+
+Lugar: Japón · Tokyo · 4F Bird’s Eye · 1-6-13 Azabudai, Minato-ku
+Fecha: 2026-12-21 — 2026-12-25
+Edad: 4–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Hay al menos un miembro del personal que habla inglés y japonés. Confirmar el idioma de cada actividad.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · JPY 19800 por día. Semana: 88000 para socios, 99000 para no socios. Primera inscripción: añadir 7700 para campamentos o 11000 por membresía. Impuestos incluidos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Con la edad indicada de 9 años el grupo de 4–8 no encaja. Para edades límite, confirmar la fecha de corte. Oscar: Edad adecuada. El organizador confirma la plaza. Suplementos: Primer día desde 27500, primera semana desde 106700 con inscripción única de campamentos. Chino 15:00–15:45 por 3300 aparte. Actividad de tarde 12100 para socios o participantes de ese día, 14300 para el resto. Pago: Pago y confirmación mediante el organizador. Verificar plaza y condiciones de reembolso.
+Fuente: https://www.luminasoiree.com/en/wintercamp2026
+Se ha comprobado: 2026-11-07
+
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
 
 lugar: Letonia · EIS Campus · Piņķi
@@ -64441,18 +64585,18 @@ Se ha comprobado: 2026-11-06
 ### C039 · Coolest Projects Online 2027
 
 lugar: en línea / mundo
-Fecha: Apertura de envíos en enero 2027; día exacto aún sin publicar.
-Edad: hasta los 18 años
+Fecha: 2027-01-13 — 2027-01-13
+edad: 18 or under
 Matway: Sí, por edad
 Oscar: Sí por edad
 Formato: individual_or_team
-Idioma: EN
-Marca de idioma: no clasificada; soporte: no declarada
-Costo: Comprobar 2027
-Entrada: Cargar el proyecto en línea; un adulto ayuda con el consentimiento y los datos
-Limitaciones: FAQ ahora indica January 2027 para apertura. Sin fecha exacta de cierre. Admite proyectos digitales ya creados o nuevos, no solo iniciados durante ventana. Moderation, feedback personal, certificate y VIP favourites; es showcase, no ranking obligatorio de campeones. Sin proyectos comerciales / captación de dinero y datos. No trasladar aquí regla IKCC que prohíbe código antiguo.
-Fuente: https://online.coolestprojects.org/help
-Se ha comprobado: 2026-11-06
+Idioma: El proyecto se muestra o presenta en inglés. Se permite traducción, subtítulos o tarjetas.
+Marca de idioma: primary; soporte: no declarado
+Precio: Participación gratuita.
+Acceso: Envío en línea desde cualquier país, individual o hasta 5 integrantes. Para menores de 13, un mentor adulto registra el proyecto.
+Limitaciones: Recepción de proyectos desde 13.01.2027. No consta el cierre. Emisión pública 23.06.2027. Los participantes reciben comentarios y certificado, y el jurado destaca algunos proyectos.
+Fuente: https://online.coolestprojects.org/cp-online-2027
+Se ha comprobado: 2026-11-07
 
 ### C840 · iCode Math Hackathon · Penang2026 Blockly Junior Final
 
@@ -64506,17 +64650,17 @@ Comprobado: 2026-10-01
 
 Lugar: Paz - Online · international
 Fecha: 2027-01-03 — 2027-01-03
-Edad: Categorías generales 7–8 / 9–10 / 11–12 / 13–14; cuadro de categorías 2027 confirmar. Edad del primer día de inscripción.
-Matwey: Condicionalmente ○ la edad total es de 9 a 10; la categoría 2027 debe anunciarse
-Oscar: Condicional — debe cumplirse la edad 7 el primer día de la inscripción y abrir la categoría 7–8
+edad: 7–8 / 9–10 / 11–12 / 13–14. Edad el primer día de registro.
+Matvey: Sí por edad. Categoría 9–10, confirmar curso y documentos.
+Oscar: Condicional. Al 03.01.2027 debe haber cumplido 7 años.
 Formato: individual
 Idioma: IKCC international: proyectos solo English; NKCC es programa nacional Romania separado.
 Marca de idioma: primary; soporte: no declarado
 Costo: Gratuidad de Rules; creación de cuentas y registro en el concurso ○ actos individuales
 Entrada: Niños independientes y coding clubs. Se exige un documento de la escuela con nombre, escuela/ciudad/país, clase y DOB, así como una guía adulta/consentimiento de los padres. Las restricciones actuales de algunos países se refieren a Bangladesh, Cambodia, India e Indonesia; la lista puede cambiar.
-Limitaciones: IKCC Rules actualizadas: proyectos internacionales solo en inglés. AI prohibido para idea, historia, código, personajes, fondos, imágenes, sonidos y cualquier parte. Niño crea proyecto por sí mismo solo durante ventana del concurso; sin código antiguo, remix ni tutorial rehecho. Requiere Scratch SHARE-link público, no archivo sb3. No trasladar aquí proyecto AI de CodeFest / WAICY. Requiere documento escolar oficial con datos del niño y guide adulto / consentimiento. Organizador prevé publicar nombre / apellido, edad, colegio, ciudad / país y proyecto; foto opcional. Sin documentos enviados. Confirmar categorías del concurso concreto 2027. Ventana 3–31 de enero 2027; resultados 15 de febrero. Homepage ya muestra Galactic Police!, pero al lado dice tema announced January 3 y soon: no adivinar tarea final ni empezar proyecto antes.
+Limitaciones: IKCC Rules actualizadas: proyectos internacionales solo en inglés. AI prohibido para idea, historia, código, personajes, fondos, imágenes, sonidos y cualquier parte. Niño crea proyecto por sí mismo solo durante ventana del concurso; sin código antiguo, remix ni tutorial rehecho. Requiere Scratch SHARE-link público, no archivo sb3. No trasladar aquí proyecto AI de CodeFest / WAICY. Requiere documento escolar oficial con datos del niño y guide adulto / consentimiento. Organizador prevé publicar nombre / apellido, edad, colegio, ciudad / país y proyecto; foto opcional. Sin documentos enviados. La página de 2027 publica los grupos 7–8 / 9–10 / 11–12 / 13–14. Ventana 3–31 de enero 2027; resultados 15 de febrero. Homepage ya muestra Galactic Police!, pero al lado dice tema announced January 3 y soon: no adivinar tarea final ni empezar proyecto antes.
 Fuente: https://www.ikcc.info/en/rules-pag3
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-07
 
 ### ~#C844 · IKCC · World Scratch Coding 2027 · Inicio
 

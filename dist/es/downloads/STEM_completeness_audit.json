@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 7422,
-    "competition_cards": 3102,
-    "event_cards": 303,
-    "camp_cards": 4017,
-    "league_profiles": 258,
-    "major_exhibition_cards": 215,
+    "cards": 7445,
+    "competition_cards": 3113,
+    "event_cards": 306,
+    "camp_cards": 4026,
+    "league_profiles": 260,
+    "major_exhibition_cards": 218,
     "vex_cards": 518,
     "countries_with_records": 158,
     "fully_audited_countries": 0
@@ -34,9 +34,9 @@
         "América Central",
         "Caribe"
       ],
-      "total": 2554,
+      "total": 2556,
       "countries_with_records": 23,
-      "competitions": 1423,
+      "competitions": 1425,
       "events": 74,
       "major_exhibitions": 37,
       "camps": 1057,
@@ -62,9 +62,9 @@
       "regions": [
         "Europa"
       ],
-      "total": 1755,
+      "total": 1757,
       "countries_with_records": 42,
-      "competitions": 412,
+      "competitions": 414,
       "events": 87,
       "major_exhibitions": 68,
       "camps": 1256,
@@ -90,12 +90,12 @@
       "regions": [
         "Asia"
       ],
-      "total": 2218,
+      "total": 2232,
       "countries_with_records": 44,
-      "competitions": 747,
-      "events": 93,
-      "major_exhibitions": 81,
-      "camps": 1378,
+      "competitions": 750,
+      "events": 95,
+      "major_exhibitions": 83,
+      "camps": 1387,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido India camp candidates y las primeras rutas de Pakistán / Bangladesh / Sri Lanka. no todos los nacionales calificados, las lenguas y la admisión extranjera están cerrados; otros países asiáticos han sido parcialmente investigados."
     },
@@ -1107,11 +1107,14 @@
         "C041",
         "C042",
         "C046",
-        "C775"
+        "C775",
+        "C3109",
+        "C3110",
+        "C3111"
       ],
-      "cards": 4,
-      "future_dated": 2,
-      "linked_card_count": 4,
+      "cards": 7,
+      "future_dated": 3,
+      "linked_card_count": 7,
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://junior.robocup.org/",
       "new": false
@@ -2342,7 +2345,7 @@
         "C039"
       ],
       "cards": 1,
-      "future_dated": 0,
+      "future_dated": 1,
       "linked_card_count": 2,
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://online.coolestprojects.org/help",
@@ -5880,6 +5883,39 @@
       "linked_card_count": 1,
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://creativeprogramming.org/",
+      "new": false
+    },
+    {
+      "id": "brainiacs-robotics",
+      "name": "Brainiacs · Robotics",
+      "group": "international",
+      "event_ids": [
+        "C3104",
+        "C3105",
+        "C3106",
+        "C3107",
+        "C3108"
+      ],
+      "cards": 5,
+      "future_dated": 5,
+      "linked_card_count": 5,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://www.brainiacsolympiad.com/en/olympiads/robotics",
+      "new": false
+    },
+    {
+      "id": "stemathlon-greece-2027",
+      "name": "STEMATHLON Greece 2027",
+      "group": "regional",
+      "event_ids": [
+        "C3112",
+        "C3113"
+      ],
+      "cards": 2,
+      "future_dated": 0,
+      "linked_card_count": 2,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://portal.stem.edu.gr/en/contests/",
       "new": false
     },
     {
@@ -9579,6 +9615,39 @@
       "visitor_policy": "confirm_children",
       "source": "https://techsummit.claro.cr/",
       "new": false
+    },
+    {
+      "id": "E304",
+      "name": "Rescue Robot Forum 2026 · Kobe",
+      "country": "Japón",
+      "region": "Asia",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.city.kobe.lg.jp/a93457/press/2026/1102resucon.html",
+      "new": false
+    },
+    {
+      "id": "E305",
+      "name": "4th AI Robot-Driven Science Symposium · AIRDS",
+      "country": "Japón",
+      "region": "Asia",
+      "start": "2026-12-17",
+      "end": "2026-12-17",
+      "visitor_policy": "confirm_children",
+      "source": "https://airds.or.jp/en/event/symposium-4th/",
+      "new": false
+    },
+    {
+      "id": "E306",
+      "name": "Coolest Projects Online 2027 · Celebration livestream",
+      "country": "Internacional en línea",
+      "region": "Internacional en línea",
+      "start": "2027-06-23",
+      "end": "2027-06-23",
+      "visitor_policy": "family",
+      "source": "https://online.coolestprojects.org/cp-online-2027",
+      "new": false
     }
   ],
   "known_backlog": [
@@ -10653,7 +10722,7 @@
       "official_alternative": "https://www.ykpaoschool.cn/News-and-Events/New-Stories/988"
     }
   ],
-  "interregional_cards": 108,
+  "interregional_cards": 113,
   "promoted_exhibition_ids": [],
   "focused_country": {
     "country": "Taiwán",
@@ -11690,14 +11759,14 @@
       }
     ],
     "counts": {
-      "records": 4017,
-      "holiday": 3749,
+      "records": 4026,
+      "holiday": 3758,
       "regular": 114,
       "self_paced_materials": 2,
       "boarding": 1026,
-      "en_es_instruction": 1254,
+      "en_es_instruction": 1259,
       "en_es_support": 12,
-      "family_instruction": 1254,
+      "family_instruction": 1259,
       "family_support": 12,
       "ru_instruction": 3,
       "language_lessons": 408,

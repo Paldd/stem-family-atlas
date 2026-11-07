@@ -501,7 +501,7 @@ Se ha comprobado: 2026-11-04
 
 ### C083 · RoboRAVE Guanajuato Open 2027
 
-Fecha: 21–22 de mayo de 2027 figuran como tentative; no incluidos en calendario de fechas confirmadas.
+Fecha: 21–22 de mayo de 2027 es fecha preliminar. Registro aún sin anunciar.
 Edad: a-MAZE-ing 8–15; Otras disciplinas — marco específico
 Matvey: Condicional: challenge y edades locales aún sin anunciar.
 Oscar: Condicional: vía menor desde 6/7 sin anunciar; ES global empieza en 8.
@@ -510,7 +510,7 @@ Entrada: En primer lugar, RRID gratis, luego un equipo y un permiso de pago para
 Costo: No se ha publicado el valor actual
 Limitaciones: Nombre Open / International y texto NATIONAL difieren; lista de red clasifica etapa National. Texto califica fechas de tentative; 100 equipos esperados no son lista real. Sede y tarifa aún desconocidas.
 Fuente: https://www.roboraveinternational.org/en/events/roborave-guanajuato-open-2027
-Se ha comprobado: 2026-11-04
+Se ha comprobado: 2026-11-07
 
 ### E041 · World Science & Technology Expo — Ruta Científica Puerto Vallarta 2027
 

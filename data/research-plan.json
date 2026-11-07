@@ -870,13 +870,13 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 209,
+    "version": 210,
     "status": "implementation_snapshot",
-    "events": 7422,
-    "competitions": 3102,
-    "league_profiles": 258,
-    "camp_dossiers": 1627,
-    "budget_offers": 210,
+    "events": 7445,
+    "competitions": 3113,
+    "league_profiles": 260,
+    "camp_dossiers": 1632,
+    "budget_offers": 212,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
     "worldwide_complete": false,
@@ -925,20 +925,20 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 208,
+    "version": 209,
     "status": "implementation_snapshot",
-    "events": 7404,
-    "competitions": 3101,
+    "events": 7422,
+    "competitions": 3102,
     "league_profiles": 258,
-    "camp_dossiers": 1621,
-    "budget_offers": 209,
+    "camp_dossiers": 1627,
+    "budget_offers": 210,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
     "worldwide_complete": false,
     "fully_audited_countries": 0,
-    "schools": 79,
-    "school_history_results": 336,
-    "school_history_entities": 223
+    "schools": 80,
+    "school_history_results": 356,
+    "school_history_entities": 232
   },
   "research_passes": [
     {
@@ -20805,13 +20805,13 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 208,
-    "latest_source_commit": "767c949cd72dbe7ef90c065fe5698bb65f8a3d0a",
+    "latest_source_version": 209,
+    "latest_source_commit": "ce9fa8a2794be2f1d3450977a8b9fb37e14f4fca",
     "published_version": 208,
     "published_commit": "767c949cd72dbe7ef90c065fe5698bb65f8a3d0a",
-    "latest_workflow": 42360787368,
-    "latest_workflow_conclusion": "success",
-    "status": "latest-source-published-readback-verified"
+    "latest_workflow": 42362191160,
+    "latest_workflow_conclusion": "failure",
+    "status": "v209-build-verified-pages-deployment-timeout-twice"
   },
   "nearby_wro_v191": {
     "version": 191,
@@ -21673,5 +21673,26 @@
     "audit": "data/paraguay-costa-rica-audit-v209.json",
     "inventory": "data/paraguay-costa-rica-inventory-v209.json",
     "source-receipts": "data/paraguay-costa-rica-source-receipts-v209.json"
+  },
+  "junior_japan_winter_v210": {
+    "version": 210,
+    "checked": "2026-11-07",
+    "status": "selected-global-junior-and-japan-winter-audit",
+    "previous_goal_turn_classification": "progress",
+    "new_camp_dossiers": 5,
+    "new_camp_calendar_rows": 9,
+    "new_budget_offers": 2,
+    "new_exhibitions": 3,
+    "new_competitions": 11,
+    "new_league_profiles": 2,
+    "calendar_updates": 3,
+    "source_requests": 21,
+    "direct_source_successes": 21,
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "native": "data/junior-japan-winter-native-v210.json",
+    "audit": "data/junior-japan-winter-audit-v210.json",
+    "inventory": "data/junior-japan-winter-inventory-v210.json",
+    "source-receipts": "data/junior-japan-winter-source-receipts-v210.json"
   }
 }

@@ -1494,7 +1494,10 @@
           "C041",
           "C042",
           "C046",
-          "C775"
+          "C775",
+          "C3109",
+          "C3110",
+          "C3111"
         ],
         "legacy_ids": [
           "C041",
@@ -18751,6 +18754,161 @@
         "evidence": "rules"
       },
       {
+        "id": "brainiacs-robotics",
+        "name": "Brainiacs · Robotics",
+        "group": "international",
+        "age_summary": "Grades 1–6 / Grades 7–12",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Robot físico, dos modalidades y cuatro rondas clasificatorias alternativas en línea.",
+        "categories": [
+          {
+            "name": "Brainiacs Robotics Olympiad · Online Round 1",
+            "age": "Grades 1–6 / Grades 7–12",
+            "team": "Individual o equipo de 2 personas.",
+            "hardware": "Robot autónomo para Line Following o Robot Sumo. Confirmar el reglamento técnico de la disciplina elegida.",
+            "age_rule": "Condicional. Confirmar curso y requisitos de admisión con el organizador. / Condicional. Confirmar curso y requisitos de admisión con el organizador.",
+            "entry": "Preparar y mostrar el funcionamiento del robot en un vídeo de hasta 5 minutos. Se puede elegir una de 4 rondas en línea."
+          },
+          {
+            "name": "Brainiacs Robotics Olympiad · Online Round 2",
+            "age": "Grades 1–6 / Grades 7–12",
+            "team": "Individual o equipo de 2 personas.",
+            "hardware": "Robot autónomo para Line Following o Robot Sumo. Confirmar el reglamento técnico de la disciplina elegida.",
+            "age_rule": "Condicional. Confirmar curso y requisitos de admisión con el organizador. / Condicional. Confirmar curso y requisitos de admisión con el organizador.",
+            "entry": "Preparar y mostrar el funcionamiento del robot en un vídeo de hasta 5 minutos. Se puede elegir una de 4 rondas en línea."
+          },
+          {
+            "name": "Brainiacs Robotics Olympiad · Online Round 3",
+            "age": "Grades 1–6 / Grades 7–12",
+            "team": "Individual o equipo de 2 personas.",
+            "hardware": "Robot autónomo para Line Following o Robot Sumo. Confirmar el reglamento técnico de la disciplina elegida.",
+            "age_rule": "Condicional. Confirmar curso y requisitos de admisión con el organizador. / Condicional. Confirmar curso y requisitos de admisión con el organizador.",
+            "entry": "Preparar y mostrar el funcionamiento del robot en un vídeo de hasta 5 minutos. Se puede elegir una de 4 rondas en línea."
+          },
+          {
+            "name": "Brainiacs Robotics Olympiad · Online Round 4",
+            "age": "Grades 1–6 / Grades 7–12",
+            "team": "Individual o equipo de 2 personas.",
+            "hardware": "Robot autónomo para Line Following o Robot Sumo. Confirmar el reglamento técnico de la disciplina elegida.",
+            "age_rule": "Condicional. Confirmar curso y requisitos de admisión con el organizador. / Condicional. Confirmar curso y requisitos de admisión con el organizador.",
+            "entry": "Preparar y mostrar el funcionamiento del robot en un vídeo de hasta 5 minutos. Se puede elegir una de 4 rondas en línea."
+          },
+          {
+            "name": "Brainiacs Robotics Olympiad · Global Round 2027",
+            "age": "Grades 1–6 / Grades 7–12",
+            "team": "Individual o equipo de 2 personas.",
+            "hardware": "Robot autónomo para Line Following o Robot Sumo. Confirmar el reglamento técnico de la disciplina elegida.",
+            "age_rule": "Condicional. Confirmar curso y requisitos de admisión con el organizador. / Condicional. Confirmar curso y requisitos de admisión con el organizador.",
+            "entry": "Ventana general de la final 25–31 de marzo. Robótica ocupa 2 días consecutivos, pendientes de fecha exacta. Plazo ordinario 23.01.2027, tardío 20.02.2027."
+          }
+        ],
+        "event_ids": [
+          "C3104",
+          "C3105",
+          "C3106",
+          "C3107",
+          "C3108"
+        ],
+        "legacy_ids": [],
+        "route": "Preparar y mostrar el funcionamiento del robot en un vídeo de hasta 5 minutos. Se puede elegir una de 4 rondas en línea.",
+        "hardware": "Robot autónomo para Line Following o Robot Sumo. Confirmar el reglamento técnico de la disciplina elegida.",
+        "language": "La fase previa usa inglés y el idioma oficial del país de la etapa. La final mundial se celebra en inglés.",
+        "importance": "Ruta internacional mediante clasificación por vídeo",
+        "strengths": [
+          "Robot físico, dos modalidades y cuatro rondas clasificatorias alternativas en línea."
+        ],
+        "requirements": [
+          "Preparar y mostrar el funcionamiento del robot en un vídeo de hasta 5 minutos. Se puede elegir una de 4 rondas en línea."
+        ],
+        "nuances": [
+          "Ventana general de la final 25–31 de marzo. Robótica ocupa 2 días consecutivos, pendientes de fecha exacta. Plazo ordinario 23.01.2027, tardío 20.02.2027."
+        ],
+        "cost": "Consultar la tarifa actual de la etapa y los gastos de equipo y viaje.",
+        "award": "Umbral de clasificación del 40%. Las medallas preliminares se asignan por rangos de puntuación.",
+        "sources": [
+          {
+            "url": "https://www.brainiacsolympiad.com/en/olympiads/robotics",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          }
+        ],
+        "evidence": "Reglas y calendario verificados con el organizador. Las condiciones pendientes figuran en las fichas."
+      },
+      {
+        "id": "stemathlon-greece-2027",
+        "name": "STEMATHLON Greece 2027",
+        "group": "regional",
+        "age_summary": "Categorías de primaria y superiores por curso. La ficha Open Elementary indica Grades 3–6 en el encabezado y Grades 4–6 en el texto.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Robótica educativa y tema de IA. Fechas regionales y finales aún preliminares.",
+        "categories": [
+          {
+            "name": "STEMATHLON Greece 2027 · Regional contests",
+            "age": "Categorías de primaria y superiores por curso. La ficha Open Elementary indica Grades 3–6 en el encabezado y Grades 4–6 en el texto.",
+            "team": "Disciplina de ingeniería por equipos.",
+            "hardware": "Categorías por curso y disciplina, desde proyectos de primaria hasta fútbol robótico y drones.",
+            "age_rule": "Condicional. Confirmar curso y requisitos de admisión con el organizador. / Condicional. Confirmar curso y requisitos de admisión con el organizador.",
+            "entry": "Confirmar curso, reglas para equipos extranjeros, idioma de presentación y etapa local. Las fechas del programa son preliminares."
+          },
+          {
+            "name": "STEMATHLON Greece 2027 · Panhellenic and International Final",
+            "age": "Categorías de primaria y superiores por curso. La ficha Open Elementary indica Grades 3–6 en el encabezado y Grades 4–6 en el texto.",
+            "team": "Disciplina de ingeniería por equipos.",
+            "hardware": "Categorías por curso y disciplina, desde proyectos de primaria hasta fútbol robótico y drones.",
+            "age_rule": "Condicional. Confirmar curso y requisitos de admisión con el organizador. / Condicional. Confirmar curso y requisitos de admisión con el organizador.",
+            "entry": "Confirmar curso, reglas para equipos extranjeros, idioma de presentación y etapa local. Las fechas del programa son preliminares."
+          }
+        ],
+        "event_ids": [
+          "C3112",
+          "C3113"
+        ],
+        "legacy_ids": [],
+        "route": "Confirmar curso, reglas para equipos extranjeros, idioma de presentación y etapa local. Las fechas del programa son preliminares.",
+        "hardware": "Categorías por curso y disciplina, desde proyectos de primaria hasta fútbol robótico y drones.",
+        "language": "Confirmar idioma del taller o demostración concretos.",
+        "importance": "Liga nacional con etapas regionales",
+        "strengths": [
+          "Robótica educativa y tema de IA. Fechas regionales y finales aún preliminares."
+        ],
+        "requirements": [
+          "Confirmar curso, reglas para equipos extranjeros, idioma de presentación y etapa local. Las fechas del programa son preliminares."
+        ],
+        "nuances": [
+          "Confirmar curso, reglas para equipos extranjeros, idioma de presentación y etapa local. Las fechas del programa son preliminares."
+        ],
+        "cost": "El organizador propone una aportación voluntaria de EUR 10–40 por equipo. Material y viaje aparte.",
+        "award": "Premios por categoría y reglamento de la etapa.",
+        "sources": [
+          {
+            "url": "https://portal.stem.edu.gr/en/contests/",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://stem.edu.gr/en/national-stem-contest-2027/",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://stem.edu.gr/en/open-category-3rd-6th-grade-2027/",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          }
+        ],
+        "evidence": "Reglas y calendario verificados con el organizador. Las condiciones pendientes figuran en las fichas."
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · programa de ingeniería y showcase",
         "group": "regional",
@@ -21881,10 +22039,10 @@
         "categories": [
           {
             "name": "IKCC · World Game Coding 2027 · comienzo",
-            "age": "las categorías generales 7–8 / 9–10 / 11–12 / 13–14; conjunto de categorías 2027 - ¿Qué es eso ?. edad en el primer día de registro.",
+            "age": "7–8 / 9–10 / 11–12 / 13–14. Edad el primer día de registro.",
             "team": "proyecto Scratch 3.0 individual; guía para adultos es obligatorio, no hay solicitud de mando general",
             "hardware": "Scratch 3.0: juego",
-            "age_rule": "Condicional — edad general 9–10 Es muy bueno.; categoría 2027 debe ser anunciado / Condicional — tiene que cumplir la edad 7 años en el primer día de registro y abrir la categoría 7–8",
+            "age_rule": "Sí por edad. Categoría 9–10, confirmar curso y documentos. / Condicional. Al 03.01.2027 debe haber cumplido 7 años.",
             "entry": "IKCC Rules actualizadas: proyectos internacionales solo en inglés. AI prohibido para idea, historia, código, personajes, fondos, imágenes, sonidos y cualquier parte. Niño crea proyecto por sí mismo solo durante ventana del concurso; sin código antiguo, remix ni tutorial rehecho. Requiere Scratch SHARE-link público, no archivo sb3. No trasladar aquí proyecto AI de CodeFest / WAICY. Requiere documento escolar oficial con datos del niño y guide adulto / consentimiento. Organizador prevé publicar nombre / apellido, edad, colegio, ciudad / país y proyecto; foto opcional. Sin documentos enviados. Confirmar categorías del concurso concreto 2027. Ventana 3–31 de enero 2027; resultados 15 de febrero. Homepage ya muestra Galactic Police!, pero al lado dice tema announced January 3 y soon: no adivinar tarea final ni empezar proyecto antes."
           },
           {
@@ -24177,7 +24335,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "Perfiles de ligas, familias y programas: 258. Se conservan las 46 rutas previas. Los formatos brasileños se distinguen, y Robofest LATAM y BajaBot se describen por categoría. Cobertura mundial parcial.",
+    "methodology": "Hay 260 fichas de ligas, familias y programas. Se conservan las 46 rutas previas. Se distinguen los formatos brasileños y se describen Robofest LATAM y BajaBot por sus categorías. Cobertura mundial parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",
