@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 7916; competiciones: 3243; eventos: 377; campamentos / programas: 4296. Perfiles de ligas y programas: 269. Fichas de exposiciones grandes y especializadas: 289 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 7931; competiciones: 3248; eventos: 379; campamentos / programas: 4304. Perfiles de ligas y programas: 269. Fichas de exposiciones grandes y especializadas: 291 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros para 159 de 249 países y territorios. Países con auditoría completa: 0. La revisión histórica v51 agregó 21 fichas y 3 perfiles. Se conservaron las fichas previas.
 
@@ -14,16 +14,16 @@ Hay registros para 159 de 249 países y territorios. Países con auditoría comp
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 23 | 1450 | 54 | 1072 |
+| América del Norte | 23 | 1450 | 54 | 1076 |
 | América del Sur | 10 | 204 | 19 | 142 |
 | Europa | 42 | 434 | 82 | 1327 |
 | África | 34 | 133 | 21 | 70 |
-| Asia | 44 | 797 | 93 | 1538 |
+| Asia | 44 | 801 | 95 | 1542 |
 | Oceanía | 6 | 128 | 19 | 134 |
 
-Fichas interregionales / mundiales sin un solo continente asignado: 116. América del Norte incluye Centroamérica y el Caribe. Las cifras muestran el inventario de la base y no el porcentaje de cobertura.
+Fichas interregionales o globales sin continente único: 117. América del Norte incluye América Central y el Caribe. Las cifras muestran el inventario de la base y no un porcentaje de cobertura completa.
 
-VEX: 518 de 3243 fichas de competición (16.0%). Esto muestra un sesgo de cobertura.
+VEX: 518 de 3248 fichas de competición (15.9%). Esto muestra un sesgo de cobertura.
 
 ## Lo que queda
 
@@ -139,7 +139,7 @@ VEX: 518 de 3243 fichas de competición (16.0%). Esto muestra un sesgo de cobert
 - *Universal Robotics Challenge (URC)**: 1 tarjeta, 0 con fechas exactas futuras. https://www.urc21.org/en/overview.php
 - **World Robot Contest (CIE)**: 109 fichas, 96 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.worldrobotconference.com/contest/regulations/2632.html
 - **IAIO · International Artificial Intelligence Olympiad**: 1 tarjeta, 1 con fechas exactas futuras; perfil y tarjetas; cobertura local parcial. https://iaio-official.org/
-- **SeaPerch / RoboNation**: 1 tarjeta, 1 con fechas exactas futuras. https://seaperch.org/programs/2027-challenge/
+- **SeaPerch / RoboNation**: 4 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://seaperch.org/programs/2027-challenge/
 - **MATE ROV Competition**: 2 tarjetas, 1 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://materovcompetition.org/scout
 - **ICYS · Young Scientifics**: 1 tarjeta, 1 con fechas exactas futuras. https://icysconference.com/
 - **PARC · Pan-African Robotics Competition**: 1 tarjeta, 1 con fechas exactas futuras. https://www.parcrobotics.org/
@@ -626,6 +626,8 @@ VEX: 518 de 3243 fichas de competición (16.0%). Esto muestra un sesgo de cobert
 - **Dubai Esports and Games Festival 2027** — Emiratos Árabes Unidos; 2027-04-09 – 2027-04-25. el permiso de entrada de niños. https://www.dubaiesportsfestival.com/en
 - **Intersec Global 2027** — Emiratos Árabes Unidos; 2027-01-12 – 2027-01-14. Los niños del 6/9 no pueden. https://intersecglobal.ae.messefrankfurt.com/dubai/en/why-visit-us/FAQ.html
 - **CODE DXB 2027** — Emiratos Árabes Unidos; 2027-04-01 – 2027-04-02. el permiso de entrada de niños. https://www.codeexpodxb.com/faq
+- **COMEX Global Technology Show 2027** — Omán; 2027-02-01 – 2027-02-04. el permiso de entrada de niños. https://comex-global.com/
+- **Kuwait AI Summit 2027** — Kuwait; 2027-01-11 – 2027-01-12. el permiso de entrada de niños. https://www.kwaisummit.com/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

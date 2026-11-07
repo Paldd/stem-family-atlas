@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 7916,
-    "competition_cards": 3243,
-    "event_cards": 377,
-    "camp_cards": 4296,
+    "cards": 7931,
+    "competition_cards": 3248,
+    "event_cards": 379,
+    "camp_cards": 4304,
     "league_profiles": 269,
-    "major_exhibition_cards": 289,
+    "major_exhibition_cards": 291,
     "vex_cards": 518,
     "countries_with_records": 159,
     "fully_audited_countries": 0
@@ -34,12 +34,12 @@
         "América Central",
         "Caribe"
       ],
-      "total": 2613,
+      "total": 2617,
       "countries_with_records": 23,
       "competitions": 1450,
       "events": 91,
       "major_exhibitions": 54,
-      "camps": 1072,
+      "camps": 1076,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
     },
@@ -90,12 +90,12 @@
       "regions": [
         "Asia"
       ],
-      "total": 2440,
+      "total": 2450,
       "countries_with_records": 44,
-      "competitions": 797,
-      "events": 105,
-      "major_exhibitions": 93,
-      "camps": 1538,
+      "competitions": 801,
+      "events": 107,
+      "major_exhibitions": 95,
+      "camps": 1542,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido India camp candidates y las primeras rutas de Pakistán / Bangladesh / Sri Lanka. no todos los nacionales calificados, las lenguas y la admisión extranjera están cerrados; otros países asiáticos han sido parcialmente investigados."
     },
@@ -2880,11 +2880,14 @@
       "name": "SeaPerch / RoboNation",
       "group": "international",
       "event_ids": [
-        "C767"
+        "C767",
+        "C3245",
+        "C3246",
+        "C3247"
       ],
-      "cards": 1,
-      "future_dated": 1,
-      "linked_card_count": 1,
+      "cards": 4,
+      "future_dated": 3,
+      "linked_card_count": 4,
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://seaperch.org/programs/2027-challenge/",
       "new": false
@@ -10298,6 +10301,28 @@
       "new": false
     },
     {
+      "id": "E378",
+      "name": "COMEX Global Technology Show 2027",
+      "country": "Omán",
+      "region": "Asia",
+      "start": "2027-02-01",
+      "end": "2027-02-04",
+      "visitor_policy": "confirm_children",
+      "source": "https://comex-global.com/",
+      "new": false
+    },
+    {
+      "id": "E379",
+      "name": "Kuwait AI Summit 2027",
+      "country": "Kuwait",
+      "region": "Asia",
+      "start": "2027-01-11",
+      "end": "2027-01-12",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.kwaisummit.com/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -11678,7 +11703,7 @@
       "official_alternative": "https://www.ykpaoschool.cn/News-and-Events/New-Stories/988"
     }
   ],
-  "interregional_cards": 116,
+  "interregional_cards": 117,
   "promoted_exhibition_ids": [],
   "focused_country": {
     "country": "Taiwán",
@@ -12715,8 +12740,8 @@
       }
     ],
     "counts": {
-      "records": 4296,
-      "holiday": 4021,
+      "records": 4304,
+      "holiday": 4029,
       "regular": 120,
       "self_paced_materials": 2,
       "boarding": 1036,
@@ -12728,7 +12753,7 @@
       "language_lessons": 410,
       "camp_life_language": 228,
       "language_unclassified": 137,
-      "countries": 100
+      "countries": 102
     },
     "validation": {
       "version": 51,

@@ -1,0 +1,407 @@
+{
+  "captures": [
+    {
+      "key": "next-seaperch-west-asia",
+      "url": "https://seaperchwestasia.org/",
+      "checked_at": "2026-11-07T15:27:39.455086+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://seaperchwestasia.org/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "next-seaperch-west-asia.html",
+      "bytes": 170214,
+      "sha256": "71716d15f29b5a98215dadb8744c234c737dbf9c588de9a9b63368207dc668bd"
+    },
+    {
+      "key": "next-seaperch-details",
+      "url": "https://seaperchwestasia.org/2027-challenge-details/",
+      "checked_at": "2026-11-07T15:27:39.456308+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://seaperchwestasia.org/2027-challenge-details/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "next-seaperch-details.html",
+      "bytes": 145052,
+      "sha256": "76a4ffed28e8670836ee6af08dde0a270568979124b7408f469d246f21bc7ca4"
+    },
+    {
+      "key": "next-seaperch-manual",
+      "url": "https://seaperchwestasia.org/2027-challenge-manual/",
+      "checked_at": "2026-11-07T15:27:39.456684+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://seaperchwestasia.org/2027-challenge-manual/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "next-seaperch-manual.html",
+      "bytes": 149490,
+      "sha256": "c01f34ed2d862dc0ad6a71a8db6f2cf088d116b21921d7fab7dd838f4187a64a"
+    },
+    {
+      "key": "next-seaperch-policy",
+      "url": "https://seaperchwestasia.org/rules-and-refund-policy/",
+      "checked_at": "2026-11-07T15:27:39.456818+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://seaperchwestasia.org/rules-and-refund-policy/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "next-seaperch-policy.html",
+      "bytes": 125620,
+      "sha256": "2cd642832b405ae7d136f5c493e8bbab3e0fc791fbcf0f40a56e36b12b60b95a"
+    },
+    {
+      "key": "next-seaperch-faq",
+      "url": "https://seaperchwestasia.org/faq/",
+      "checked_at": "2026-11-07T15:27:39.456951+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://seaperchwestasia.org/faq/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "next-seaperch-faq.html",
+      "bytes": 129956,
+      "sha256": "2f07e8b8bc0980de67c580aef509eccd2e19a5e9306de94f1d41c0cf32e56205"
+    },
+    {
+      "key": "next-seaperch-world",
+      "url": "https://seaperch.org/programs/2027-challenge/",
+      "checked_at": "2026-11-07T15:27:39.457046+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://seaperch.org/programs/2027-challenge/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "next-seaperch-world.html",
+      "bytes": 207617,
+      "sha256": "1fdd6c28f7ee224e14702edc5884fb4b66a5f7ecc58cbb92af41666a93ee6fb4"
+    },
+    {
+      "key": "next-curioo-riyadh",
+      "url": "https://curioo.sa/en/autumn-program",
+      "checked_at": "2026-11-07T15:27:39.457129+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://curioo.sa/en/autumn-program",
+      "content_type": "text/html; charset=utf-8",
+      "file": "next-curioo-riyadh.html",
+      "bytes": 390140,
+      "sha256": "6fa774e45c4d6c247a01cf22a52f743a65df0335e2cd63c326a12f9134831c42"
+    },
+    {
+      "key": "next-curioo-news",
+      "url": "https://curioo.sa/en/curiookids-autumn-program-launch",
+      "checked_at": "2026-11-07T15:27:39.464780+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://curioo.sa/en/curiookids-autumn-program-launch",
+      "content_type": "text/html; charset=utf-8",
+      "file": "next-curioo-news.html",
+      "bytes": 373642,
+      "sha256": "915fddd490cb5016196df70240cd470c3a543fcd7c1f645605bd752ee1d62d98"
+    },
+    {
+      "key": "next-olioli-doha",
+      "url": "https://olioli.qa/winter-camps/",
+      "checked_at": "2026-11-07T15:27:39.466313+00:00",
+      "transport": "curl",
+      "status": 406,
+      "final_url": "https://olioli.qa/winter-camps/",
+      "content_type": "text/html; charset=iso-8859-1"
+    },
+    {
+      "key": "next-olioli-archive",
+      "url": "https://olioli.qa/wp-content/uploads/2025/11/Inventshop-Winter-Camp-Doha-2025-Camp-Activity-Overview.pdf",
+      "checked_at": "2026-11-07T15:27:39.467781+00:00",
+      "transport": "curl",
+      "status": 406,
+      "final_url": "https://olioli.qa/wp-content/uploads/2025/11/Inventshop-Winter-Camp-Doha-2025-Camp-Activity-Overview.pdf",
+      "content_type": "text/html; charset=iso-8859-1"
+    },
+    {
+      "key": "next-doha-qf-mukhayamna",
+      "url": "https://www.educationcity.qa/class/mukhayamna-winter-camp",
+      "checked_at": "2026-11-07T15:27:40.005479+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.educationcity.qa/class/mukhayamna-winter-camp",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "next-doha-qf-mukhayamna.html",
+      "bytes": 364765,
+      "sha256": "21631b1b4c4cd2b306699882b1984eb28fff9ded00957a2ce31843ff48f97d1d"
+    },
+    {
+      "key": "next-qatar-stp-events",
+      "url": "https://qstp.qa/events/",
+      "checked_at": "2026-11-07T15:27:40.077747+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://qstp.qa/events/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "next-qatar-stp-events.html",
+      "bytes": 286462,
+      "sha256": "5b4a0381a29dd3a063ca1cc78b31623ed15fe9f2058bbed903c33f9f42f5ee7a"
+    },
+    {
+      "key": "next-tes-kuwait",
+      "url": "https://tes.edu.kw/educamp/",
+      "checked_at": "2026-11-07T15:27:40.705527+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://tes.edu.kw/educamp/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "next-tes-kuwait.html",
+      "bytes": 76660,
+      "sha256": "e6cd4485d7ac038df07cee67da99a37171944fe8d504e32a27328da6258eeb85"
+    },
+    {
+      "key": "next-muscat-blueballoonia",
+      "url": "https://blueballoonia.com/blueballoonia-seasonal-camp-en/",
+      "checked_at": "2026-11-07T15:27:40.995169+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://blueballoonia.com/blueballoonia-seasonal-camp-en/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "next-muscat-blueballoonia.html",
+      "bytes": 988758,
+      "sha256": "379eca2b1c35781a6330975046b30db55d6516b2dcb41f2f1003d4b7ca17cca4"
+    },
+    {
+      "key": "next-inventor",
+      "url": "https://inventor-camps.jumbula.com/",
+      "checked_at": "2026-11-07T15:27:41.622657+00:00",
+      "transport": "curl",
+      "status": 403,
+      "final_url": "https://inventor-camps.jumbula.com/",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "key": "next-trampo",
+      "url": "https://trampo.om/camps/winter",
+      "checked_at": "2026-11-07T15:27:41.827767+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://trampo.om/camps/winter",
+      "content_type": "text/html; charset=utf-8",
+      "file": "next-trampo.html",
+      "bytes": 66596,
+      "sha256": "a9296693f562a56bdaaaa14b4b7cd81f163e2ab803674e3d0721d48630a37e4c"
+    },
+    {
+      "key": "next-comex-oman",
+      "url": "https://comex-global.com/",
+      "checked_at": "2026-11-07T15:28:40.865209+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://comex-global.com/",
+      "content_type": "text/html",
+      "file": "next-comex-oman.html",
+      "bytes": 74414,
+      "sha256": "93dda3a12f7cd9a1d0b98314fdcadf1e01ee4070f3a02bdec3c1249dc19503be"
+    },
+    {
+      "key": "next-comex-venue",
+      "url": "https://ocec.om/event/comex-global-technology-show-2027/",
+      "checked_at": "2026-11-07T15:28:40.865494+00:00",
+      "transport": "curl",
+      "error": "curl: (28) Operation timed out after 19005 milliseconds with 0 bytes received\n"
+    },
+    {
+      "key": "next-kuwait-ai-summit",
+      "url": "https://www.kwaisummit.com/",
+      "checked_at": "2026-11-07T15:28:40.866843+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.kwaisummit.com/",
+      "content_type": "text/html; charset=utf-8",
+      "file": "next-kuwait-ai-summit.html",
+      "bytes": 27421,
+      "sha256": "fb2550ab68d8bda39b46ab4c51e8a3fc92a33498f12ea5101b2ed2d421bd548c"
+    },
+    {
+      "key": "next-nasa-space-apps-doha",
+      "url": "https://qstp.qa/events/nasa-space-apps-challenge-doha-2026/",
+      "checked_at": "2026-11-07T15:28:40.869598+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://qstp.qa/events/nasa-space-apps-challenge-doha-2026/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "next-nasa-space-apps-doha.html",
+      "bytes": 202315,
+      "sha256": "3f896c622f949822e1c22217d4cef9f7623658bb7d78067bc85d9ebde5aa7749"
+    },
+    {
+      "key": "next-nasa-space-apps-world",
+      "url": "https://www.spaceappschallenge.org/2026/",
+      "checked_at": "2026-11-07T15:28:40.871084+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.spaceappschallenge.org/2026/",
+      "content_type": "text/html; charset=utf-8",
+      "file": "next-nasa-space-apps-world.html",
+      "bytes": 87697,
+      "sha256": "c64dded121977040e34a8ce0ca83f0abcdc6343ca3e3009803f6a71186947910"
+    },
+    {
+      "key": "next-qatar-nextgen-founders",
+      "url": "https://qstp.qa/events/nextgen-founders-hackathon/",
+      "checked_at": "2026-11-07T15:28:40.871991+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://qstp.qa/events/nextgen-founders-hackathon/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "next-qatar-nextgen-founders.html",
+      "bytes": 196118,
+      "sha256": "fcc085938deeb269ffefd0438f976554e3a16334405b5820c42da8cfafaa86cf"
+    },
+    {
+      "key": "sea-eligibility",
+      "url": "https://robonation.gitbook.io/seaperch-challenge-resources/section-1-competition-overview/1.1-eligibility-and-qualifying",
+      "checked_at": "2026-11-07T15:32:33.993698+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://robonation.gitbook.io/seaperch-challenge-resources/section-1-competition-overview/1.1-eligibility-and-qualifying",
+      "content_type": "text/html; charset=utf-8",
+      "file": "sea-eligibility.html",
+      "bytes": 384856,
+      "sha256": "c24fbc5b34b6f45c097d28e83ec3179b78b9d50d75a20f9012e78d251b3518a5"
+    },
+    {
+      "key": "sea-classes",
+      "url": "https://robonation.gitbook.io/seaperch-challenge-resources/section-1-competition-overview/1.5-competition-classes",
+      "checked_at": "2026-11-07T15:32:33.993975+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://robonation.gitbook.io/seaperch-challenge-resources/section-1-competition-overview/1.5-competition-classes",
+      "content_type": "text/html; charset=utf-8",
+      "file": "sea-classes.html",
+      "bytes": 612325,
+      "sha256": "f31698120a29406e1f9850fcbbf58cc0b7d415a26a6bb1e20ccf394c3001ef0e"
+    },
+    {
+      "key": "comex-esports",
+      "url": "https://comex-global.com/gx-player-registration.html",
+      "checked_at": "2026-11-07T15:32:33.995150+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://comex-global.com/gx-player-registration.html",
+      "content_type": "text/html",
+      "file": "comex-esports.html",
+      "bytes": 47139,
+      "sha256": "7180f12df13c7fdefab8f0d9173f9330d4651aeedf420241a80d8dd7b9d6d084"
+    },
+    {
+      "key": "qf-ar",
+      "url": "https://www.educationcity.qa/ar/class/mukhayamna-winter-camp",
+      "checked_at": "2026-11-07T15:32:33.997484+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.educationcity.qa/ar/class/mukhayamna-winter-camp",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "qf-ar.html",
+      "bytes": 366019,
+      "sha256": "211f56e91773a612369a07e25b067d09e7ea8511aa2e2070caeda66bffad20b0"
+    },
+    {
+      "key": "inventor-junior",
+      "url": "https://inventor-camps.jumbula.com/WINTERCAMP20262027/InventorSTEMCampJuniorGroup457yo",
+      "checked_at": "2026-11-07T15:32:33.999166+00:00",
+      "transport": "curl",
+      "status": 403,
+      "final_url": "https://inventor-camps.jumbula.com/WINTERCAMP20262027/InventorSTEMCampJuniorGroup457yo",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "key": "inventor-senior",
+      "url": "https://inventor-camps.jumbula.com/WINTERCAMP20262027/InventorSTEMCampSeniorGroup912yo",
+      "checked_at": "2026-11-07T15:32:33.999554+00:00",
+      "transport": "curl",
+      "status": 403,
+      "final_url": "https://inventor-camps.jumbula.com/WINTERCAMP20262027/InventorSTEMCampSeniorGroup912yo",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "key": "inventor-faq",
+      "url": "https://stemschoolinventor.ca/camp-faq/",
+      "checked_at": "2026-11-07T15:32:34.002275+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://stemschoolinventor.ca/camp-faq/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "inventor-faq.html",
+      "bytes": 50135,
+      "sha256": "5ba1a2e1887446d39c9b6cd387dae630564f5ec20fb6450a7c825cf8d3a2b9cf"
+    },
+    {
+      "key": "fod-season",
+      "url": "https://survey.zohopublic.com/zs/SjzWbS",
+      "checked_at": "2026-11-07T15:33:25.540739+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://survey.zohopublic.com/zs/SjzWbS",
+      "content_type": "text/html;charset=UTF-8",
+      "file": "fod-season.html",
+      "bytes": 321756,
+      "sha256": "afc00b79d71dd5dcacf13fc101ae2b47a3cec4b19679d2dcf9e06746486c9360"
+    },
+    {
+      "key": "fod-home",
+      "url": "https://fod.ac.cr/",
+      "checked_at": "2026-11-07T15:33:25.541048+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://fod.ac.cr/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "fod-home.html",
+      "bytes": 675888,
+      "sha256": "9b1f56fbdea8c9f4fed1f1c350af555c46f8ea150d321e1124b460722967b96c"
+    },
+    {
+      "key": "coyote",
+      "url": "https://www.campcoyote.mx/",
+      "checked_at": "2026-11-07T15:33:25.542700+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.campcoyote.mx/",
+      "content_type": "text/html; charset=utf-8",
+      "file": "coyote.html",
+      "bytes": 85689,
+      "sha256": "1faa2604935431301bf4265c7d5d676d1a512f63bf59db53b4c68062f2f678c1"
+    },
+    {
+      "key": "liota",
+      "url": "https://liotacamps.com/",
+      "checked_at": "2026-11-07T15:33:25.544480+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://liotacamps.com/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "liota.html",
+      "bytes": 368878,
+      "sha256": "9d3486880f0eb8d9668bafb99cf9da68000a1f3a4977027c4db6fa223987b1c0"
+    }
+  ],
+  "web_observations": [
+    {
+      "url": "https://ocec.om/event/comex-global-technology-show-2027/",
+      "checked": "2026-11-07",
+      "evidence": "The venue calendar returned 1–4 February 2027, 10–19, halls 1–5 through Web. Organizer agrees on dates but gives 10–21. Direct transport did not capture the venue page."
+    },
+    {
+      "url": "https://inventor-camps.jumbula.com/",
+      "checked": "2026-11-07",
+      "evidence": "Provider registration hub states winter 2026–27 weeks December 21–24 and 28–31 and open registration. Direct capture returned 403."
+    },
+    {
+      "url": "https://inventor-camps.jumbula.com/WINTERCAMP20262027/InventorSTEMCampJuniorGroup457yo",
+      "checked": "2026-11-07",
+      "evidence": "Organizer registration listing corroborates both four-day weeks, weekday hours, address, CAD 312 and optional 24/24/42 extended care. Direct capture returned 403."
+    },
+    {
+      "url": "https://inventor-camps.jumbula.com/WINTERCAMP20262027/InventorSTEMCampSeniorGroup912yo",
+      "checked": "2026-11-07",
+      "evidence": "Organizer registration listing corroborates both four-day weeks, weekday hours, address, CAD 359 and optional 24/24/42 extended care. Direct capture returned 403."
+    },
+    {
+      "url": "https://olioli.qa/wp-content/uploads/2025/11/Inventshop-Winter-Camp-Doha-2025-Camp-Activity-Overview.pdf",
+      "checked": "2026-11-07",
+      "evidence": "Organizer winter page links the full programme PDF named Doha-2025. The yearless dates on the landing page were not used for 2026."
+    }
+  ]
+}

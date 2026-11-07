@@ -9270,6 +9270,22 @@ Limitaciones: Clases en directo en Zoom. Temas según edad y nivel. Horarios en 
 Fuente: https://robotexonline.com/english
 Se ha comprobado: 2026-11-07
 
+### L656 · CURIOOkids Riyadh · Autumn Makers Lab · inicio
+
+lugar: Arabia Saudí · CURIOOkids · Sondos Landmark Mall · Irqah · Riyadh
+Fecha: 2026-11-15 — 2026-11-15
+Edad: 6–9
+Matvey: Condicional. Confirmar edad al inicio y plaza.
+Oscar: Condicional. Confirmar edad al inicio y plaza.
+Formato: day_camp
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Precio sin publicar.
+Acceso: Autumn Makers Lab para 6–9 años. Robots, código, retos de ingeniería y presentación de idea de negocio. La organización indica 9 días desde el 15 de noviembre de 2026. Confirmar fechas completas, horario, idioma y tarifa.
+Limitaciones: Autumn Makers Lab para 6–9 años. Robots, código, retos de ingeniería y presentación de idea de negocio. La organización indica 9 días desde el 15 de noviembre de 2026. Confirmar fechas completas, horario, idioma y tarifa.
+Fuente: https://curioo.sa/en/autumn-program
+Se ha comprobado: 2026-11-07
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -67524,6 +67540,118 @@ Precio: 2026/27 · AED 290 por día. AED 1350 del 14–18 de diciembre o AED 116
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Edad adecuada para el grupo de 6–12 años. Inglés confirmado. Oscar: Edad adecuada para el grupo de 6–12 años. Inglés confirmado. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://www.lafolie.me/services-detail/kids-winter-camp-dubai.html
+Se ha comprobado: 2026-11-07
+
+### CP1736-20261220-20261224 · Qatar Foundation · Mukhayamna Winter Camp · 6–8 · 20–24 de diciembre de 2026, 09:00–13:30. Cinco días, de domingo a jueves. · 2026-12-20–2026-12-24
+
+lugar: Catar · Education City · Qatar Foundation · Doha
+Fecha: 2026-12-20 — 2026-12-24
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · QAR 1500 por niño y turno. Los dos grupos de edad cuestan QAR 3000 en total. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Suplementos: Precio sin publicar. Pago: Al cancelar con 7 días naturales o más se reembolsa el importe menos QAR 250. Con 0–6 días o durante el turno no hay reembolso.
+Fuente: https://www.educationcity.qa/class/mukhayamna-winter-camp
+Se ha comprobado: 2026-11-07
+
+### CP1737-20261220-20261224 · Qatar Foundation · Mukhayamna Winter Camp · 9–11 · 20–24 de diciembre de 2026, 09:00–13:30. Cinco días, de domingo a jueves. · 2026-12-20–2026-12-24
+
+lugar: Catar · Education City · Qatar Foundation · Doha
+Fecha: 2026-12-20 — 2026-12-24
+Edad: 9–11
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · QAR 1500 por niño y turno. Los dos grupos de edad cuestan QAR 3000 en total. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Precio sin publicar. Pago: Al cancelar con 7 días naturales o más se reembolsa el importe menos QAR 250. Con 0–6 días o durante el turno no hay reembolso.
+Fuente: https://www.educationcity.qa/class/mukhayamna-winter-camp
+Se ha comprobado: 2026-11-07
+
+### CP1738-20261220-20261224 · The English School · TES Winter EDUcamp · 20–24 de diciembre de 2026, 09:30–14:30. Cuidado ampliado de 08:30–09:30 y 14:30–15:30 con precio aparte. · 2026-12-20–2026-12-24
+
+lugar: Kuwait · The English School · Kuwait
+Fecha: 2026-12-20 — 2026-12-24
+edad: De KG a Year 10 en el sistema escolar. Confirmar asignación por curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · KWD 110 por 5 días o KWD 27.50 por día. Descuento del 10% para el segundo niño. Con ambos admitidos, KWD 209 por semana. Cuidado ampliado KWD 6 por niño por mañana o tarde. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Se exige vínculo con TES e inscripción por el SOCS parental. Puede ser alumno de TES, hermano de un alumno, hijo de personal o amigo invitado con vínculo confirmado. Oscar: Condicional. Se exige vínculo con TES e inscripción por el SOCS parental. Puede ser alumno de TES, hermano de un alumno, hijo de personal o amigo invitado con vínculo confirmado. Suplementos: Llevar almuerzo sin frutos secos, agua y ropa deportiva. Confirmar cuidado ampliado y reembolso. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://tes.edu.kw/educamp/
+Se ha comprobado: 2026-11-07
+
+### CP1740-20261221-20261224 · Inventor STEM School · Winter Junior · 21–24 o 28–31 de diciembre de 2026. Lunes a miércoles 09:00–16:00, jueves 09:00–14:00. Cuidado ampliado solo lunes a miércoles. · 2026-12-21–2026-12-24
+
+lugar: Canadá · 4503 Boul Saint-Jean · Dollard-des-Ormeaux · Québec
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 5–7
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: La organización publica materiales en inglés y francés. Confirmar idioma de enseñanza del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 312 por niño y turno. Confirmar impuestos y suplementos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Suplementos: Cuidado ampliado por 3 días y niño · CAD 24 por la mañana o después de clase, CAD 42 juntos. Llevar 2 meriendas y 1 almuerzo sin frutos secos. Pago: Al cancelar con 21 días o más, crédito íntegro. Con 10–20 días se deducen CAD 50 y después CAD 100. Reembolso a tarjeta con un 3% adicional.
+Fuente: https://inventor-camps.jumbula.com/WINTERCAMP20262027/InventorSTEMCampJuniorGroup457yo
+Se ha comprobado: 2026-11-07
+
+### CP1740-20261228-20261231 · Inventor STEM School · Winter Junior · 21–24 o 28–31 de diciembre de 2026. Lunes a miércoles 09:00–16:00, jueves 09:00–14:00. Cuidado ampliado solo lunes a miércoles. · 2026-12-28–2026-12-31
+
+lugar: Canadá · 4503 Boul Saint-Jean · Dollard-des-Ormeaux · Québec
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 5–7
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: La organización publica materiales en inglés y francés. Confirmar idioma de enseñanza del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 312 por niño y turno. Confirmar impuestos y suplementos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Suplementos: Cuidado ampliado por 3 días y niño · CAD 24 por la mañana o después de clase, CAD 42 juntos. Llevar 2 meriendas y 1 almuerzo sin frutos secos. Pago: Al cancelar con 21 días o más, crédito íntegro. Con 10–20 días se deducen CAD 50 y después CAD 100. Reembolso a tarjeta con un 3% adicional.
+Fuente: https://inventor-camps.jumbula.com/WINTERCAMP20262027/InventorSTEMCampJuniorGroup457yo
+Se ha comprobado: 2026-11-07
+
+### CP1741-20261221-20261224 · Inventor STEM School · Winter Senior · 21–24 o 28–31 de diciembre de 2026. Lunes a miércoles 09:00–16:00, jueves 09:00–14:00. Cuidado ampliado solo lunes a miércoles. · 2026-12-21–2026-12-24
+
+lugar: Canadá · 4503 Boul Saint-Jean · Dollard-des-Ormeaux · Québec
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 9*12
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La organización publica materiales en inglés y francés. Confirmar idioma de enseñanza del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 359 por niño y turno. Confirmar impuestos y suplementos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Cuidado ampliado por 3 días y niño · CAD 24 por la mañana o después de clase, CAD 42 juntos. Llevar 2 meriendas y 1 almuerzo sin frutos secos. Pago: Al cancelar con 21 días o más, crédito íntegro. Con 10–20 días se deducen CAD 50 y después CAD 100. Reembolso a tarjeta con un 3% adicional.
+Fuente: https://inventor-camps.jumbula.com/WINTERCAMP20262027/InventorSTEMCampSeniorGroup912yo
+Se ha comprobado: 2026-11-07
+
+### CP1741-20261228-20261231 · Inventor STEM School · Winter Senior · 21–24 o 28–31 de diciembre de 2026. Lunes a miércoles 09:00–16:00, jueves 09:00–14:00. Cuidado ampliado solo lunes a miércoles. · 2026-12-28–2026-12-31
+
+lugar: Canadá · 4503 Boul Saint-Jean · Dollard-des-Ormeaux · Québec
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 9*12
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La organización publica materiales en inglés y francés. Confirmar idioma de enseñanza del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 359 por niño y turno. Confirmar impuestos y suplementos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Cuidado ampliado por 3 días y niño · CAD 24 por la mañana o después de clase, CAD 42 juntos. Llevar 2 meriendas y 1 almuerzo sin frutos secos. Pago: Al cancelar con 21 días o más, crédito íntegro. Con 10–20 días se deducen CAD 50 y después CAD 100. Reembolso a tarjeta con un 3% adicional.
+Fuente: https://inventor-camps.jumbula.com/WINTERCAMP20262027/InventorSTEMCampSeniorGroup912yo
 Se ha comprobado: 2026-11-07
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

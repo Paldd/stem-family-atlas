@@ -7109,7 +7109,10 @@
           }
         ],
         "event_ids": [
-          "C767"
+          "C767",
+          "C3247",
+          "C3245",
+          "C3246"
         ],
         "legacy_ids": [],
         "route": "recoger ROV → piscina y documentación → selección regional o Wild Card → final.",
@@ -7129,19 +7132,24 @@
         "award": "El resultado oficial y la recompensa de la etapa seleccionada.",
         "sources": [
           {
-            "title": "Temporada 2027",
             "url": "https://seaperch.org/programs/2027-challenge/",
-            "checked": "2026-09-30"
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
           },
           {
-            "title": "Eligibility / Wild Card",
             "url": "https://robonation.gitbook.io/seaperch-challenge-resources/section-1-competition-overview/1.1-eligibility-and-qualifying",
-            "checked": "2026-09-30"
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
           },
           {
             "title": "Competition classes",
             "url": "https://robonation.gitbook.io/seaperch-challenge-resources/section-1-competition-overview/1.5-competition-classes",
             "checked": "2026-09-30"
+          },
+          {
+            "url": "https://seaperchwestasia.org/2027-challenge-details/",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
           }
         ],
         "evidence": "la fuente original se ha leído 30.09.2026. la admisión de la familia y la representación nacional no se han confirmado."

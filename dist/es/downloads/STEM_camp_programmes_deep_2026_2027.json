@@ -30,17 +30,17 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1735,
-    "countries": 99,
+    "dossiers": 1742,
+    "countries": 102,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 253,
       "published_2027": 487,
       "partial_2027": 134,
       "next_unannounced": 352,
-      "published_2026": 301,
+      "published_2026": 306,
       "partial_2026_27": 28,
-      "partial_2026": 19,
+      "partial_2026": 21,
       "archive_next_unannounced": 137,
       "regular_programme": 16,
       "regular_2026_27": 2,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2472
+    "source_urls": 2480
   },
   "countries": [
     {
@@ -197,7 +197,11 @@
     },
     {
       "country": "Canadá",
-      "count": 165
+      "count": 167
+    },
+    {
+      "country": "Catar",
+      "count": 2
     },
     {
       "country": "Kenia",
@@ -217,7 +221,7 @@
     },
     {
       "country": "Kuwait",
-      "count": 4
+      "count": 5
     },
     {
       "country": "Letonia",
@@ -296,6 +300,10 @@
       "count": 6
     },
     {
+      "country": "Omán",
+      "count": 1
+    },
+    {
       "country": "Panamá",
       "count": 9
     },
@@ -330,6 +338,10 @@
     {
       "country": "El Salvador",
       "count": 4
+    },
+    {
+      "country": "Arabia Saudí",
+      "count": 1
     },
     {
       "country": "Singapur",
@@ -290619,6 +290631,1123 @@
       "catalog_participation": "day_camp",
       "related_event_ids": [],
       "calendar_links": []
+    },
+    {
+      "id": "CP1736",
+      "slug": "qf-mukhayamna-winter-6-8",
+      "provider": "Qatar Foundation · Mukhayamna Winter Camp · 6–8",
+      "country": "Catar",
+      "iso": "QAT",
+      "place": "Education City · Qatar Foundation · Doha",
+      "themes": [
+        "science",
+        "general",
+        "art"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "6–8",
+      "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "confirmed_instruction_languages": [],
+      "programme": "Sostenibilidad, creatividad, cultura y actividades prácticas. Confirmar edificio e idioma de cada grupo.",
+      "timing": {
+        "status": "published_2026",
+        "label": "20–24 de diciembre de 2026, 09:00–13:30. Cinco días, de domingo a jueves.",
+        "sessions": [
+          [
+            "2026-12-20",
+            "2026-12-24"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-20",
+            "end": "2026-12-24",
+            "label": "20–24 de diciembre de 2026, 09:00–13:30. Cinco días, de domingo a jueves.",
+            "source": "https://www.educationcity.qa/class/mukhayamna-winter-camp",
+            "price": "QAR 1500 por niño y turno. Los dos grupos de edad cuestan QAR 3000 en total.",
+            "place": "Education City · Qatar Foundation · Doha",
+            "age": "6–8",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "No por edad para el grupo menor."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-20",
+                "topic": "Sostenibilidad, creatividad, cultura y actividades prácticas. Confirmar edificio e idioma de cada grupo.",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Asia/Qatar",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-21",
+                "topic": "Sostenibilidad, creatividad, cultura y actividades prácticas. Confirmar edificio e idioma de cada grupo.",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Asia/Qatar",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "topic": "Sostenibilidad, creatividad, cultura y actividades prácticas. Confirmar edificio e idioma de cada grupo.",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Asia/Qatar",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "topic": "Sostenibilidad, creatividad, cultura y actividades prácticas. Confirmar edificio e idioma de cada grupo.",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Asia/Qatar",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "topic": "Sostenibilidad, creatividad, cultura y actividades prácticas. Confirmar edificio e idioma de cada grupo.",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Asia/Qatar",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar disponibilidad y admisión."
+            }
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "QAR",
+        "amount": 1500,
+        "unit": "session",
+        "label": "QAR 1500 por niño y turno. Los dos grupos de edad cuestan QAR 3000 en total.",
+        "included": "Sostenibilidad, creatividad, cultura y actividades prácticas. Confirmar edificio e idioma de cada grupo.",
+        "extras": "Precio sin publicar.",
+        "deposit": "Al cancelar con 7 días naturales o más se reembolsa el importe menos QAR 250. Con 0–6 días o durante el turno no hay reembolso."
+      },
+      "accommodation": "Programa diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "No por edad para el grupo menor."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+        }
+      },
+      "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar idioma, edificio exacto de ambos grupos, plazas y forma de inscribir a los dos niños.",
+        "Al cancelar con 7 días naturales o más se reembolsa el importe menos QAR 250. Con 0–6 días o durante el turno no hay reembolso."
+      ],
+      "sources": [
+        {
+          "url": "https://www.educationcity.qa/class/mukhayamna-winter-camp",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.educationcity.qa/ar/class/mukhayamna-winter-camp",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-20",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1736-20261220-20261224"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1737",
+      "slug": "qf-mukhayamna-winter-9-11",
+      "provider": "Qatar Foundation · Mukhayamna Winter Camp · 9–11",
+      "country": "Catar",
+      "iso": "QAT",
+      "place": "Education City · Qatar Foundation · Doha",
+      "themes": [
+        "science",
+        "general",
+        "art"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "9–11",
+      "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "confirmed_instruction_languages": [],
+      "programme": "Sostenibilidad, creatividad, cultura y actividades prácticas. Confirmar edificio e idioma de cada grupo.",
+      "timing": {
+        "status": "published_2026",
+        "label": "20–24 de diciembre de 2026, 09:00–13:30. Cinco días, de domingo a jueves.",
+        "sessions": [
+          [
+            "2026-12-20",
+            "2026-12-24"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-20",
+            "end": "2026-12-24",
+            "label": "20–24 de diciembre de 2026, 09:00–13:30. Cinco días, de domingo a jueves.",
+            "source": "https://www.educationcity.qa/class/mukhayamna-winter-camp",
+            "price": "QAR 1500 por niño y turno. Los dos grupos de edad cuestan QAR 3000 en total.",
+            "place": "Education City · Qatar Foundation · Doha",
+            "age": "9–11",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Edad mínima superior a la actual. Confirmar edad el primer día del turno."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-20",
+                "topic": "Sostenibilidad, creatividad, cultura y actividades prácticas. Confirmar edificio e idioma de cada grupo.",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Asia/Qatar",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-21",
+                "topic": "Sostenibilidad, creatividad, cultura y actividades prácticas. Confirmar edificio e idioma de cada grupo.",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Asia/Qatar",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "topic": "Sostenibilidad, creatividad, cultura y actividades prácticas. Confirmar edificio e idioma de cada grupo.",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Asia/Qatar",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "topic": "Sostenibilidad, creatividad, cultura y actividades prácticas. Confirmar edificio e idioma de cada grupo.",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Asia/Qatar",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "topic": "Sostenibilidad, creatividad, cultura y actividades prácticas. Confirmar edificio e idioma de cada grupo.",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Asia/Qatar",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar disponibilidad y admisión."
+            }
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "QAR",
+        "amount": 1500,
+        "unit": "session",
+        "label": "QAR 1500 por niño y turno. Los dos grupos de edad cuestan QAR 3000 en total.",
+        "included": "Sostenibilidad, creatividad, cultura y actividades prácticas. Confirmar edificio e idioma de cada grupo.",
+        "extras": "Precio sin publicar.",
+        "deposit": "Al cancelar con 7 días naturales o más se reembolsa el importe menos QAR 250. Con 0–6 días o durante el turno no hay reembolso."
+      },
+      "accommodation": "Programa diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Edad mínima superior a la actual. Confirmar edad el primer día del turno."
+        }
+      },
+      "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar idioma, edificio exacto de ambos grupos, plazas y forma de inscribir a los dos niños.",
+        "Al cancelar con 7 días naturales o más se reembolsa el importe menos QAR 250. Con 0–6 días o durante el turno no hay reembolso."
+      ],
+      "sources": [
+        {
+          "url": "https://www.educationcity.qa/class/mukhayamna-winter-camp",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.educationcity.qa/ar/class/mukhayamna-winter-camp",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-20",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1737-20261220-20261224"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1738",
+      "slug": "tes-educamp-kuwait-winter-2026",
+      "provider": "The English School · TES Winter EDUcamp",
+      "country": "Kuwait",
+      "iso": "KWT",
+      "place": "The English School · Kuwait",
+      "themes": [
+        "science",
+        "general",
+        "sport"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "De KG a Year 10 en el sistema escolar. Confirmar asignación por curso.",
+      "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "confirmed_instruction_languages": [],
+      "programme": "Campamento general del colegio. Juegos, deporte, STEAM creativo y retos de equipo. Confirmar proyectos técnicos concretos.",
+      "timing": {
+        "status": "published_2026",
+        "label": "20–24 de diciembre de 2026, 09:30–14:30. Cuidado ampliado de 08:30–09:30 y 14:30–15:30 con precio aparte.",
+        "sessions": [
+          [
+            "2026-12-20",
+            "2026-12-24"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-20",
+            "end": "2026-12-24",
+            "label": "20–24 de diciembre de 2026, 09:30–14:30. Cuidado ampliado de 08:30–09:30 y 14:30–15:30 con precio aparte.",
+            "source": "https://tes.edu.kw/educamp/",
+            "price": "KWD 110 por 5 días o KWD 27.50 por día. Descuento del 10% para el segundo niño. Con ambos admitidos, KWD 209 por semana. Cuidado ampliado KWD 6 por niño por mañana o tarde.",
+            "place": "The English School · Kuwait",
+            "age": "De KG a Year 10 en el sistema escolar. Confirmar asignación por curso.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Condicional. Se exige vínculo con TES e inscripción por el SOCS parental. Puede ser alumno de TES, hermano de un alumno, hijo de personal o amigo invitado con vínculo confirmado."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Condicional. Se exige vínculo con TES e inscripción por el SOCS parental. Puede ser alumno de TES, hermano de un alumno, hijo de personal o amigo invitado con vínculo confirmado."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-20",
+                "topic": "Campamento general del colegio. Juegos, deporte, STEAM creativo y retos de equipo. Confirmar proyectos técnicos concretos.",
+                "start_time": "09:30",
+                "end_time": "14:30",
+                "timezone": "Asia/Kuwait",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-21",
+                "topic": "Campamento general del colegio. Juegos, deporte, STEAM creativo y retos de equipo. Confirmar proyectos técnicos concretos.",
+                "start_time": "09:30",
+                "end_time": "14:30",
+                "timezone": "Asia/Kuwait",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "topic": "Campamento general del colegio. Juegos, deporte, STEAM creativo y retos de equipo. Confirmar proyectos técnicos concretos.",
+                "start_time": "09:30",
+                "end_time": "14:30",
+                "timezone": "Asia/Kuwait",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "topic": "Campamento general del colegio. Juegos, deporte, STEAM creativo y retos de equipo. Confirmar proyectos técnicos concretos.",
+                "start_time": "09:30",
+                "end_time": "14:30",
+                "timezone": "Asia/Kuwait",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "topic": "Campamento general del colegio. Juegos, deporte, STEAM creativo y retos de equipo. Confirmar proyectos técnicos concretos.",
+                "start_time": "09:30",
+                "end_time": "14:30",
+                "timezone": "Asia/Kuwait",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar disponibilidad y admisión."
+            }
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "KWD",
+        "amount": 110,
+        "unit": "week",
+        "label": "KWD 110 por 5 días o KWD 27.50 por día. Descuento del 10% para el segundo niño. Con ambos admitidos, KWD 209 por semana. Cuidado ampliado KWD 6 por niño por mañana o tarde.",
+        "included": "Campamento general del colegio. Juegos, deporte, STEAM creativo y retos de equipo. Confirmar proyectos técnicos concretos.",
+        "extras": "Llevar almuerzo sin frutos secos, agua y ropa deportiva. Confirmar cuidado ampliado y reembolso.",
+        "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      },
+      "accommodation": "Programa diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Se exige vínculo con TES e inscripción por el SOCS parental. Puede ser alumno de TES, hermano de un alumno, hijo de personal o amigo invitado con vínculo confirmado."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional. Se exige vínculo con TES e inscripción por el SOCS parental. Puede ser alumno de TES, hermano de un alumno, hijo de personal o amigo invitado con vínculo confirmado."
+        }
+      },
+      "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
+      "shortlist": [],
+      "questions": [
+        "Condicional. Se exige vínculo con TES e inscripción por el SOCS parental. Puede ser alumno de TES, hermano de un alumno, hijo de personal o amigo invitado con vínculo confirmado.",
+        "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      ],
+      "sources": [
+        {
+          "url": "https://tes.edu.kw/educamp/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-20",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1738-20261220-20261224"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1739",
+      "slug": "curioo-riyadh-autumn-makers-2026",
+      "provider": "CURIOOkids · Autumn Makers Lab",
+      "country": "Arabia Saudí",
+      "iso": "SAU",
+      "place": "CURIOOkids · Sondos Landmark Mall · Irqah · Riyadh",
+      "themes": [
+        "robotics",
+        "coding",
+        "makers",
+        "entrepreneurship"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "6–9",
+      "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "confirmed_instruction_languages": [],
+      "programme": "Autumn Makers Lab para 6–9 años. Robots, código, retos de ingeniería y presentación de idea de negocio. La organización indica 9 días desde el 15 de noviembre de 2026. Confirmar fechas completas, horario, idioma y tarifa.",
+      "timing": {
+        "status": "partial_2026",
+        "label": "Autumn Makers Lab para 6–9 años. Robots, código, retos de ingeniería y presentación de idea de negocio. La organización indica 9 días desde el 15 de noviembre de 2026. Confirmar fechas completas, horario, idioma y tarifa.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "announced_month",
+        "announced_months": [
+          "2026-11"
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "currency": "SAR",
+        "amount": null,
+        "unit": "programme",
+        "label": "Precio sin publicar.",
+        "included": "Autumn Makers Lab para 6–9 años. Robots, código, retos de ingeniería y presentación de idea de negocio. La organización indica 9 días desde el 15 de noviembre de 2026. Confirmar fechas completas, horario, idioma y tarifa.",
+        "extras": "Precio sin publicar.",
+        "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      },
+      "accommodation": "Programa diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+        }
+      },
+      "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      ],
+      "sources": [
+        {
+          "url": "https://curioo.sa/en/autumn-program",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://curioo.sa/en/curiookids-autumn-program-launch",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "interest",
+        "label": "La organización recibe solicitudes y contacta para confirmar la plaza."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1740",
+      "slug": "inventor-montreal-winter-junior-2026",
+      "provider": "Inventor STEM School · Winter Junior",
+      "country": "Canadá",
+      "iso": "CAN",
+      "place": "4503 Boul Saint-Jean · Dollard-des-Ormeaux · Québec",
+      "themes": [
+        "coding",
+        "games",
+        "science",
+        "makers"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "5–7",
+      "language": "La organización publica materiales en inglés y francés. Confirmar idioma de enseñanza del grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "programme": "Grupo junior. LEGO, ScratchJr, historias interactivas, juegos y experimentos. La reserva indica 5–7 y la descripción 4.5–7.",
+      "timing": {
+        "status": "published_2026",
+        "label": "21–24 o 28–31 de diciembre de 2026. Lunes a miércoles 09:00–16:00, jueves 09:00–14:00. Cuidado ampliado solo lunes a miércoles.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "21–24 o 28–31 de diciembre de 2026. Lunes a miércoles 09:00–16:00, jueves 09:00–14:00. Cuidado ampliado solo lunes a miércoles.",
+            "source": "https://inventor-camps.jumbula.com/WINTERCAMP20262027/InventorSTEMCampJuniorGroup457yo",
+            "price": "CAD 312 por niño y turno. Confirmar impuestos y suplementos.",
+            "place": "4503 Boul Saint-Jean · Dollard-des-Ormeaux · Québec",
+            "age": "5–7",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "No por edad para el grupo menor."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Grupo junior. LEGO, ScratchJr, historias interactivas, juegos y experimentos. La reserva indica 5–7 y la descripción 4.5–7.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "topic": "Grupo junior. LEGO, ScratchJr, historias interactivas, juegos y experimentos. La reserva indica 5–7 y la descripción 4.5–7.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "topic": "Grupo junior. LEGO, ScratchJr, historias interactivas, juegos y experimentos. La reserva indica 5–7 y la descripción 4.5–7.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "topic": "Grupo junior. LEGO, ScratchJr, historias interactivas, juegos y experimentos. La reserva indica 5–7 y la descripción 4.5–7.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            }
+          },
+          {
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "21–24 o 28–31 de diciembre de 2026. Lunes a miércoles 09:00–16:00, jueves 09:00–14:00. Cuidado ampliado solo lunes a miércoles.",
+            "source": "https://inventor-camps.jumbula.com/WINTERCAMP20262027/InventorSTEMCampJuniorGroup457yo",
+            "price": "CAD 312 por niño y turno. Confirmar impuestos y suplementos.",
+            "place": "4503 Boul Saint-Jean · Dollard-des-Ormeaux · Québec",
+            "age": "5–7",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "No por edad para el grupo menor."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "topic": "Grupo junior. LEGO, ScratchJr, historias interactivas, juegos y experimentos. La reserva indica 5–7 y la descripción 4.5–7.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "topic": "Grupo junior. LEGO, ScratchJr, historias interactivas, juegos y experimentos. La reserva indica 5–7 y la descripción 4.5–7.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-30",
+                "topic": "Grupo junior. LEGO, ScratchJr, historias interactivas, juegos y experimentos. La reserva indica 5–7 y la descripción 4.5–7.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-31",
+                "topic": "Grupo junior. LEGO, ScratchJr, historias interactivas, juegos y experimentos. La reserva indica 5–7 y la descripción 4.5–7.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            }
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CAD",
+        "amount": 312,
+        "unit": "session",
+        "label": "CAD 312 por niño y turno. Confirmar impuestos y suplementos.",
+        "included": "Grupo junior. LEGO, ScratchJr, historias interactivas, juegos y experimentos. La reserva indica 5–7 y la descripción 4.5–7.",
+        "extras": "Cuidado ampliado por 3 días y niño · CAD 24 por la mañana o después de clase, CAD 42 juntos. Llevar 2 meriendas y 1 almuerzo sin frutos secos.",
+        "deposit": "Al cancelar con 21 días o más, crédito íntegro. Con 10–20 días se deducen CAD 50 y después CAD 100. Reembolso a tarjeta con un 3% adicional."
+      },
+      "accommodation": "Programa diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "No por edad para el grupo menor."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+        }
+      },
+      "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Confirmar plazas en ambos grupos la misma semana, idioma de enseñanza y total con impuestos.",
+        "Al cancelar con 21 días o más, crédito íntegro. Con 10–20 días se deducen CAD 50 y después CAD 100. Reembolso a tarjeta con un 3% adicional."
+      ],
+      "sources": [
+        {
+          "url": "https://inventor-camps.jumbula.com/WINTERCAMP20262027/InventorSTEMCampJuniorGroup457yo",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://stemschoolinventor.ca/camp-faq/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "open",
+        "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "pairing": {
+        "venue_id": "inventor-dollard-4503-saint-jean",
+        "verified_source": "https://inventor-camps.jumbula.com/WINTERCAMP20262027/InventorSTEMCampJuniorGroup457yo",
+        "checked": "2026-11-06",
+        "fee": {
+          "amount": 312,
+          "currency": "CAD",
+          "unit": "per_child_course"
+        }
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1740-20261221-20261224"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1740-20261228-20261231"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1741",
+      "slug": "inventor-montreal-winter-senior-2026",
+      "provider": "Inventor STEM School · Winter Senior",
+      "country": "Canadá",
+      "iso": "CAN",
+      "place": "4503 Boul Saint-Jean · Dollard-des-Ormeaux · Québec",
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "science"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "9–12",
+      "language": "La organización publica materiales en inglés y francés. Confirmar idioma de enseñanza del grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "programme": "Grupo sénior. Robots LEGO Education SPIKE Prime, Minecraft Education Edition, trabajo en equipo y experimentos.",
+      "timing": {
+        "status": "published_2026",
+        "label": "21–24 o 28–31 de diciembre de 2026. Lunes a miércoles 09:00–16:00, jueves 09:00–14:00. Cuidado ampliado solo lunes a miércoles.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "21–24 o 28–31 de diciembre de 2026. Lunes a miércoles 09:00–16:00, jueves 09:00–14:00. Cuidado ampliado solo lunes a miércoles.",
+            "source": "https://inventor-camps.jumbula.com/WINTERCAMP20262027/InventorSTEMCampSeniorGroup912yo",
+            "price": "CAD 359 por niño y turno. Confirmar impuestos y suplementos.",
+            "place": "4503 Boul Saint-Jean · Dollard-des-Ormeaux · Québec",
+            "age": "9–12",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Edad mínima superior a la actual. Confirmar edad el primer día del turno."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Grupo sénior. Robots LEGO Education SPIKE Prime, Minecraft Education Edition, trabajo en equipo y experimentos.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "topic": "Grupo sénior. Robots LEGO Education SPIKE Prime, Minecraft Education Edition, trabajo en equipo y experimentos.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "topic": "Grupo sénior. Robots LEGO Education SPIKE Prime, Minecraft Education Edition, trabajo en equipo y experimentos.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "topic": "Grupo sénior. Robots LEGO Education SPIKE Prime, Minecraft Education Edition, trabajo en equipo y experimentos.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            }
+          },
+          {
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "21–24 o 28–31 de diciembre de 2026. Lunes a miércoles 09:00–16:00, jueves 09:00–14:00. Cuidado ampliado solo lunes a miércoles.",
+            "source": "https://inventor-camps.jumbula.com/WINTERCAMP20262027/InventorSTEMCampSeniorGroup912yo",
+            "price": "CAD 359 por niño y turno. Confirmar impuestos y suplementos.",
+            "place": "4503 Boul Saint-Jean · Dollard-des-Ormeaux · Québec",
+            "age": "9–12",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Edad mínima superior a la actual. Confirmar edad el primer día del turno."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "topic": "Grupo sénior. Robots LEGO Education SPIKE Prime, Minecraft Education Edition, trabajo en equipo y experimentos.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "topic": "Grupo sénior. Robots LEGO Education SPIKE Prime, Minecraft Education Edition, trabajo en equipo y experimentos.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-30",
+                "topic": "Grupo sénior. Robots LEGO Education SPIKE Prime, Minecraft Education Edition, trabajo en equipo y experimentos.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-31",
+                "topic": "Grupo sénior. Robots LEGO Education SPIKE Prime, Minecraft Education Edition, trabajo en equipo y experimentos.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+            }
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CAD",
+        "amount": 359,
+        "unit": "session",
+        "label": "CAD 359 por niño y turno. Confirmar impuestos y suplementos.",
+        "included": "Grupo sénior. Robots LEGO Education SPIKE Prime, Minecraft Education Edition, trabajo en equipo y experimentos.",
+        "extras": "Cuidado ampliado por 3 días y niño · CAD 24 por la mañana o después de clase, CAD 42 juntos. Llevar 2 meriendas y 1 almuerzo sin frutos secos.",
+        "deposit": "Al cancelar con 21 días o más, crédito íntegro. Con 10–20 días se deducen CAD 50 y después CAD 100. Reembolso a tarjeta con un 3% adicional."
+      },
+      "accommodation": "Programa diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Edad mínima superior a la actual. Confirmar edad el primer día del turno."
+        }
+      },
+      "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Confirmar plazas en ambos grupos la misma semana, idioma de enseñanza y total con impuestos.",
+        "Al cancelar con 21 días o más, crédito íntegro. Con 10–20 días se deducen CAD 50 y después CAD 100. Reembolso a tarjeta con un 3% adicional."
+      ],
+      "sources": [
+        {
+          "url": "https://inventor-camps.jumbula.com/WINTERCAMP20262027/InventorSTEMCampSeniorGroup912yo",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://stemschoolinventor.ca/camp-faq/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "open",
+        "label": "El organizador admite solicitudes. Confirmar la plaza concreta."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "pairing": {
+        "venue_id": "inventor-dollard-4503-saint-jean",
+        "verified_source": "https://inventor-camps.jumbula.com/WINTERCAMP20262027/InventorSTEMCampSeniorGroup912yo",
+        "checked": "2026-11-06",
+        "fee": {
+          "amount": 359,
+          "currency": "CAD",
+          "unit": "per_child_course"
+        }
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1741-20261221-20261224"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1741-20261228-20261231"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1742",
+      "slug": "blueballoonia-muscat-winter-2026",
+      "provider": "BlueBalloonia · Winter Camp",
+      "country": "Omán",
+      "iso": "OMN",
+      "place": "BlueBalloonia · Muscat",
+      "themes": [
+        "general"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Edad de los turnos de invierno aún sin indicar.",
+      "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "confirmed_instruction_languages": [],
+      "programme": "La organización anunció del 20–24 y del 27–31 de diciembre de 2026. Sede, edad, idioma, programa, horarios y precios pendientes.",
+      "timing": {
+        "status": "partial_2026",
+        "label": "La organización anunció del 20–24 y del 27–31 de diciembre de 2026. Sede, edad, idioma, programa, horarios y precios pendientes.",
+        "sessions": [
+          [
+            "2026-12-20",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-27",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-20",
+            "end": "2026-12-24",
+            "label": "La organización anunció del 20–24 y del 27–31 de diciembre de 2026. Sede, edad, idioma, programa, horarios y precios pendientes.",
+            "source": "https://blueballoonia.com/blueballoonia-seasonal-camp-en/",
+            "price": "Precio sin publicar.",
+            "availability": {
+              "status": "announced",
+              "label": "La organización anunció del 20–24 y del 27–31 de diciembre de 2026. Sede, edad, idioma, programa, horarios y precios pendientes."
+            }
+          },
+          {
+            "start": "2026-12-27",
+            "end": "2026-12-31",
+            "label": "La organización anunció del 20–24 y del 27–31 de diciembre de 2026. Sede, edad, idioma, programa, horarios y precios pendientes.",
+            "source": "https://blueballoonia.com/blueballoonia-seasonal-camp-en/",
+            "price": "Precio sin publicar.",
+            "availability": {
+              "status": "announced",
+              "label": "La organización anunció del 20–24 y del 27–31 de diciembre de 2026. Sede, edad, idioma, programa, horarios y precios pendientes."
+            }
+          }
+        ],
+        "precision": "season_window"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "OMR",
+        "amount": null,
+        "unit": "programme",
+        "label": "Precio sin publicar.",
+        "included": "La organización anunció del 20–24 y del 27–31 de diciembre de 2026. Sede, edad, idioma, programa, horarios y precios pendientes.",
+        "extras": "Precio sin publicar.",
+        "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      },
+      "accommodation": "Programa diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Condicional. Confirmar grupo de edad e idioma antes de inscribirse."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Condicional. Confirmar grupo de edad e idioma antes de inscribirse."
+        }
+      },
+      "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      ],
+      "sources": [
+        {
+          "url": "https://blueballoonia.com/blueballoonia-seasonal-camp-en/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "announced",
+        "label": "La organización anunció del 20–24 y del 27–31 de diciembre de 2026. Sede, edad, idioma, programa, horarios y precios pendientes."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-20",
+          "end": "2026-12-24",
+          "kind": "season_window",
+          "event_ids": []
+        },
+        {
+          "start": "2026-12-27",
+          "end": "2026-12-31",
+          "kind": "season_window",
+          "event_ids": []
+        }
+      ]
     }
   ],
   "gaps": [
@@ -295944,7 +297073,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 223,
+  "version": 224,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -309179,7 +310308,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1735,
+      "total_dossiers": 1742,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -328314,6 +329443,41 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP1736",
+      "event_id": "CP1736-20261220-20261224",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1737",
+      "event_id": "CP1737-20261220-20261224",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1738",
+      "event_id": "CP1738-20261220-20261224",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1740",
+      "event_id": "CP1740-20261221-20261224",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1740",
+      "event_id": "CP1740-20261228-20261231",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1741",
+      "event_id": "CP1741-20261221-20261224",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1741",
+      "event_id": "CP1741-20261228-20261231",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -332385,12 +333549,19 @@
     "CP1732-20261221-20261225-2026-12-21-full",
     "CP1733-20261214-20261218",
     "CP1733-20261221-20261224",
-    "CP1733-20261228-20261231"
+    "CP1733-20261228-20261231",
+    "CP1736-20261220-20261224",
+    "CP1737-20261220-20261224",
+    "CP1738-20261220-20261224",
+    "CP1740-20261221-20261224",
+    "CP1740-20261228-20261231",
+    "CP1741-20261221-20261224",
+    "CP1741-20261228-20261231"
   ],
   "integration": {
-    "generated_sessions": 3641,
+    "generated_sessions": 3648,
     "reused_legacy_events": 69,
-    "seasonal_windows": 64,
+    "seasonal_windows": 66,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."
   }
 }

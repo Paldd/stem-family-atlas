@@ -30,17 +30,17 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1735,
-    "countries": 99,
+    "dossiers": 1742,
+    "countries": 102,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 253,
       "published_2027": 487,
       "partial_2027": 134,
       "next_unannounced": 352,
-      "published_2026": 301,
+      "published_2026": 306,
       "partial_2026_27": 28,
-      "partial_2026": 19,
+      "partial_2026": 21,
       "archive_next_unannounced": 137,
       "regular_programme": 16,
       "regular_2026_27": 2,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2472
+    "source_urls": 2480
   },
   "countries": [
     {
@@ -197,7 +197,11 @@
     },
     {
       "country": "Канада",
-      "count": 165
+      "count": 167
+    },
+    {
+      "country": "Катар",
+      "count": 2
     },
     {
       "country": "Кения",
@@ -217,7 +221,7 @@
     },
     {
       "country": "Кувейт",
-      "count": 4
+      "count": 5
     },
     {
       "country": "Латвия",
@@ -296,6 +300,10 @@
       "count": 6
     },
     {
+      "country": "Оман",
+      "count": 1
+    },
+    {
       "country": "Панама",
       "count": 9
     },
@@ -330,6 +338,10 @@
     {
       "country": "Сальвадор",
       "count": 4
+    },
+    {
+      "country": "Саудовская Аравия",
+      "count": 1
     },
     {
       "country": "Сингапур",
@@ -253944,6 +253956,1030 @@
       },
       "programme_type": "holiday_camp",
       "catalog_participation": "day_camp"
+    },
+    {
+      "id": "CP1736",
+      "slug": "qf-mukhayamna-winter-6-8",
+      "provider": "Qatar Foundation · Mukhayamna Winter Camp · 6–8",
+      "country": "Катар",
+      "iso": "QAT",
+      "place": "Education City · Qatar Foundation · Doha",
+      "themes": [
+        "science",
+        "general",
+        "art"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "6–8",
+      "language": "Язык преподавания конкретной группы пока не подтверждён.",
+      "confirmed_instruction_languages": [],
+      "programme": "Устойчивое развитие, творчество, культура и практические задания. Точный корпус и язык каждой группы уточнить.",
+      "timing": {
+        "status": "published_2026",
+        "label": "20–24 декабря 2026, 09:00–13:30. Пять дней, воскресенье–четверг.",
+        "sessions": [
+          [
+            "2026-12-20",
+            "2026-12-24"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-20",
+            "end": "2026-12-24",
+            "label": "20–24 декабря 2026, 09:00–13:30. Пять дней, воскресенье–четверг.",
+            "source": "https://www.educationcity.qa/class/mukhayamna-winter-camp",
+            "price": "QAR 1500 за ребёнка за смену. Две возрастные группы стоят QAR 3000 вместе.",
+            "place": "Education City · Qatar Foundation · Doha",
+            "age": "6–8",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Нет по возрасту для младшей группы."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-20",
+                "topic": "Устойчивое развитие, творчество, культура и практические задания. Точный корпус и язык каждой группы уточнить.",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Asia/Qatar",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-21",
+                "topic": "Устойчивое развитие, творчество, культура и практические задания. Точный корпус и язык каждой группы уточнить.",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Asia/Qatar",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "topic": "Устойчивое развитие, творчество, культура и практические задания. Точный корпус и язык каждой группы уточнить.",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Asia/Qatar",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "topic": "Устойчивое развитие, творчество, культура и практические задания. Точный корпус и язык каждой группы уточнить.",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Asia/Qatar",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "topic": "Устойчивое развитие, творчество, культура и практические задания. Точный корпус и язык каждой группы уточнить.",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Asia/Qatar",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            }
+          }
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "currency": "QAR",
+        "amount": 1500,
+        "unit": "session",
+        "label": "QAR 1500 за ребёнка за смену. Две возрастные группы стоят QAR 3000 вместе.",
+        "included": "Устойчивое развитие, творчество, культура и практические задания. Точный корпус и язык каждой группы уточнить.",
+        "extras": "Цена не опубликована.",
+        "deposit": "При отмене за 7 календарных дней или раньше возвращают сумму за вычетом QAR 250. За 0–6 дней и во время смены возврата нет."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Нет по возрасту для младшей группы."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить язык, точное здание обеих групп, наличие мест и способ записи обоих детей.",
+        "При отмене за 7 календарных дней или раньше возвращают сумму за вычетом QAR 250. За 0–6 дней и во время смены возврата нет."
+      ],
+      "sources": [
+        {
+          "url": "https://www.educationcity.qa/class/mukhayamna-winter-camp",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.educationcity.qa/ar/class/mukhayamna-winter-camp",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp"
+    },
+    {
+      "id": "CP1737",
+      "slug": "qf-mukhayamna-winter-9-11",
+      "provider": "Qatar Foundation · Mukhayamna Winter Camp · 9–11",
+      "country": "Катар",
+      "iso": "QAT",
+      "place": "Education City · Qatar Foundation · Doha",
+      "themes": [
+        "science",
+        "general",
+        "art"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "9–11",
+      "language": "Язык преподавания конкретной группы пока не подтверждён.",
+      "confirmed_instruction_languages": [],
+      "programme": "Устойчивое развитие, творчество, культура и практические задания. Точный корпус и язык каждой группы уточнить.",
+      "timing": {
+        "status": "published_2026",
+        "label": "20–24 декабря 2026, 09:00–13:30. Пять дней, воскресенье–четверг.",
+        "sessions": [
+          [
+            "2026-12-20",
+            "2026-12-24"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-20",
+            "end": "2026-12-24",
+            "label": "20–24 декабря 2026, 09:00–13:30. Пять дней, воскресенье–четверг.",
+            "source": "https://www.educationcity.qa/class/mukhayamna-winter-camp",
+            "price": "QAR 1500 за ребёнка за смену. Две возрастные группы стоят QAR 3000 вместе.",
+            "place": "Education City · Qatar Foundation · Doha",
+            "age": "9–11",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Возраст выше текущего. Проверить возраст на первый день смены."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-20",
+                "topic": "Устойчивое развитие, творчество, культура и практические задания. Точный корпус и язык каждой группы уточнить.",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Asia/Qatar",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-21",
+                "topic": "Устойчивое развитие, творчество, культура и практические задания. Точный корпус и язык каждой группы уточнить.",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Asia/Qatar",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "topic": "Устойчивое развитие, творчество, культура и практические задания. Точный корпус и язык каждой группы уточнить.",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Asia/Qatar",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "topic": "Устойчивое развитие, творчество, культура и практические задания. Точный корпус и язык каждой группы уточнить.",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Asia/Qatar",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "topic": "Устойчивое развитие, творчество, культура и практические задания. Точный корпус и язык каждой группы уточнить.",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Asia/Qatar",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            }
+          }
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "currency": "QAR",
+        "amount": 1500,
+        "unit": "session",
+        "label": "QAR 1500 за ребёнка за смену. Две возрастные группы стоят QAR 3000 вместе.",
+        "included": "Устойчивое развитие, творчество, культура и практические задания. Точный корпус и язык каждой группы уточнить.",
+        "extras": "Цена не опубликована.",
+        "deposit": "При отмене за 7 календарных дней или раньше возвращают сумму за вычетом QAR 250. За 0–6 дней и во время смены возврата нет."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Возраст выше текущего. Проверить возраст на первый день смены."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить язык, точное здание обеих групп, наличие мест и способ записи обоих детей.",
+        "При отмене за 7 календарных дней или раньше возвращают сумму за вычетом QAR 250. За 0–6 дней и во время смены возврата нет."
+      ],
+      "sources": [
+        {
+          "url": "https://www.educationcity.qa/class/mukhayamna-winter-camp",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.educationcity.qa/ar/class/mukhayamna-winter-camp",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp"
+    },
+    {
+      "id": "CP1738",
+      "slug": "tes-educamp-kuwait-winter-2026",
+      "provider": "The English School · TES Winter EDUcamp",
+      "country": "Кувейт",
+      "iso": "KWT",
+      "place": "The English School · Kuwait",
+      "themes": [
+        "science",
+        "general",
+        "sport"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "От KG до Year 10 по школьной системе. Распределение по годам обучения уточнить.",
+      "language": "Язык преподавания конкретной группы пока не подтверждён.",
+      "confirmed_instruction_languages": [],
+      "programme": "Общий лагерь школы. Игры, спорт, творческий STEAM и командные задачи. Программа отдельных технических проектов уточняется.",
+      "timing": {
+        "status": "published_2026",
+        "label": "20–24 декабря 2026, 09:30–14:30. Продлёнка 08:30–09:30 и 14:30–15:30 по отдельной цене.",
+        "sessions": [
+          [
+            "2026-12-20",
+            "2026-12-24"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-20",
+            "end": "2026-12-24",
+            "label": "20–24 декабря 2026, 09:30–14:30. Продлёнка 08:30–09:30 и 14:30–15:30 по отдельной цене.",
+            "source": "https://tes.edu.kw/educamp/",
+            "price": "KWD 110 за 5 дней или KWD 27.50 за день. Скидка 10% второму ребёнку. При допуске обоих KWD 209 за неделю. Продлёнка KWD 6 за ребёнка за утро или вечер.",
+            "place": "The English School · Kuwait",
+            "age": "От KG до Year 10 по школьной системе. Распределение по годам обучения уточнить.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Условно. Нужна связь с TES и запись через родительский SOCS. Подходит школьник TES, брат или сестра ученика, ребёнок сотрудника либо приглашённый друг с подтверждённой связью."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Условно. Нужна связь с TES и запись через родительский SOCS. Подходит школьник TES, брат или сестра ученика, ребёнок сотрудника либо приглашённый друг с подтверждённой связью."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-20",
+                "topic": "Общий лагерь школы. Игры, спорт, творческий STEAM и командные задачи. Программа отдельных технических проектов уточняется.",
+                "start_time": "09:30",
+                "end_time": "14:30",
+                "timezone": "Asia/Kuwait",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-21",
+                "topic": "Общий лагерь школы. Игры, спорт, творческий STEAM и командные задачи. Программа отдельных технических проектов уточняется.",
+                "start_time": "09:30",
+                "end_time": "14:30",
+                "timezone": "Asia/Kuwait",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "topic": "Общий лагерь школы. Игры, спорт, творческий STEAM и командные задачи. Программа отдельных технических проектов уточняется.",
+                "start_time": "09:30",
+                "end_time": "14:30",
+                "timezone": "Asia/Kuwait",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "topic": "Общий лагерь школы. Игры, спорт, творческий STEAM и командные задачи. Программа отдельных технических проектов уточняется.",
+                "start_time": "09:30",
+                "end_time": "14:30",
+                "timezone": "Asia/Kuwait",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "topic": "Общий лагерь школы. Игры, спорт, творческий STEAM и командные задачи. Программа отдельных технических проектов уточняется.",
+                "start_time": "09:30",
+                "end_time": "14:30",
+                "timezone": "Asia/Kuwait",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            }
+          }
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "currency": "KWD",
+        "amount": 110,
+        "unit": "week",
+        "label": "KWD 110 за 5 дней или KWD 27.50 за день. Скидка 10% второму ребёнку. При допуске обоих KWD 209 за неделю. Продлёнка KWD 6 за ребёнка за утро или вечер.",
+        "included": "Общий лагерь школы. Игры, спорт, творческий STEAM и командные задачи. Программа отдельных технических проектов уточняется.",
+        "extras": "Обед без орехов, вода и спортивная одежда с собой. Проверить детали продлёнки и возврата.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Нужна связь с TES и запись через родительский SOCS. Подходит школьник TES, брат или сестра ученика, ребёнок сотрудника либо приглашённый друг с подтверждённой связью."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Нужна связь с TES и запись через родительский SOCS. Подходит школьник TES, брат или сестра ученика, ребёнок сотрудника либо приглашённый друг с подтверждённой связью."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Условно. Нужна связь с TES и запись через родительский SOCS. Подходит школьник TES, брат или сестра ученика, ребёнок сотрудника либо приглашённый друг с подтверждённой связью.",
+        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://tes.edu.kw/educamp/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp"
+    },
+    {
+      "id": "CP1739",
+      "slug": "curioo-riyadh-autumn-makers-2026",
+      "provider": "CURIOOkids · Autumn Makers Lab",
+      "country": "Саудовская Аравия",
+      "iso": "SAU",
+      "place": "CURIOOkids · Sondos Landmark Mall · Irqah · Riyadh",
+      "themes": [
+        "robotics",
+        "coding",
+        "makers",
+        "entrepreneurship"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "6–9",
+      "language": "Язык преподавания конкретной группы пока не подтверждён.",
+      "confirmed_instruction_languages": [],
+      "programme": "Autumn Makers Lab для 6–9 лет. Роботы, код, инженерные задания и презентация бизнес-идеи. Организатор указывает 9 дней со старта 15 ноября 2026. Полные даты, часы, язык и тариф уточнить.",
+      "timing": {
+        "status": "partial_2026",
+        "label": "Autumn Makers Lab для 6–9 лет. Роботы, код, инженерные задания и презентация бизнес-идеи. Организатор указывает 9 дней со старта 15 ноября 2026. Полные даты, часы, язык и тариф уточнить.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "announced_month",
+        "announced_months": [
+          "2026-11"
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "currency": "SAR",
+        "amount": null,
+        "unit": "programme",
+        "label": "Цена не опубликована.",
+        "included": "Autumn Makers Lab для 6–9 лет. Роботы, код, инженерные задания и презентация бизнес-идеи. Организатор указывает 9 дней со старта 15 ноября 2026. Полные даты, часы, язык и тариф уточнить.",
+        "extras": "Цена не опубликована.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://curioo.sa/en/autumn-program",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://curioo.sa/en/curiookids-autumn-program-launch",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "interest",
+        "label": "Организатор принимает заявки и связывается для подтверждения места."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp"
+    },
+    {
+      "id": "CP1740",
+      "slug": "inventor-montreal-winter-junior-2026",
+      "provider": "Inventor STEM School · Winter Junior",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "4503 Boul Saint-Jean · Dollard-des-Ormeaux · Québec",
+      "themes": [
+        "coding",
+        "games",
+        "science",
+        "makers"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "5–7",
+      "language": "Организатор публикует материалы на английском и французском. Язык преподавателя выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "programme": "Младшая группа. LEGO, ScratchJr, интерактивные истории, игры и научные опыты. Форма бронирования показывает 5–7, описание 4.5–7.",
+      "timing": {
+        "status": "published_2026",
+        "label": "21–24 или 28–31 декабря 2026. Понедельник–среда 09:00–16:00, четверг 09:00–14:00. Продлёнка только понедельник–среда.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "21–24 или 28–31 декабря 2026. Понедельник–среда 09:00–16:00, четверг 09:00–14:00. Продлёнка только понедельник–среда.",
+            "source": "https://inventor-camps.jumbula.com/WINTERCAMP20262027/InventorSTEMCampJuniorGroup457yo",
+            "price": "CAD 312 за ребёнка за смену. Налоги и доплаты уточнить.",
+            "place": "4503 Boul Saint-Jean · Dollard-des-Ormeaux · Québec",
+            "age": "5–7",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Нет по возрасту для младшей группы."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Младшая группа. LEGO, ScratchJr, интерактивные истории, игры и научные опыты. Форма бронирования показывает 5–7, описание 4.5–7.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "topic": "Младшая группа. LEGO, ScratchJr, интерактивные истории, игры и научные опыты. Форма бронирования показывает 5–7, описание 4.5–7.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "topic": "Младшая группа. LEGO, ScratchJr, интерактивные истории, игры и научные опыты. Форма бронирования показывает 5–7, описание 4.5–7.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "topic": "Младшая группа. LEGO, ScratchJr, интерактивные истории, игры и научные опыты. Форма бронирования показывает 5–7, описание 4.5–7.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+            }
+          },
+          {
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "21–24 или 28–31 декабря 2026. Понедельник–среда 09:00–16:00, четверг 09:00–14:00. Продлёнка только понедельник–среда.",
+            "source": "https://inventor-camps.jumbula.com/WINTERCAMP20262027/InventorSTEMCampJuniorGroup457yo",
+            "price": "CAD 312 за ребёнка за смену. Налоги и доплаты уточнить.",
+            "place": "4503 Boul Saint-Jean · Dollard-des-Ormeaux · Québec",
+            "age": "5–7",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Нет по возрасту для младшей группы."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "topic": "Младшая группа. LEGO, ScratchJr, интерактивные истории, игры и научные опыты. Форма бронирования показывает 5–7, описание 4.5–7.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "topic": "Младшая группа. LEGO, ScratchJr, интерактивные истории, игры и научные опыты. Форма бронирования показывает 5–7, описание 4.5–7.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-30",
+                "topic": "Младшая группа. LEGO, ScratchJr, интерактивные истории, игры и научные опыты. Форма бронирования показывает 5–7, описание 4.5–7.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-31",
+                "topic": "Младшая группа. LEGO, ScratchJr, интерактивные истории, игры и научные опыты. Форма бронирования показывает 5–7, описание 4.5–7.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+            }
+          }
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CAD",
+        "amount": 312,
+        "unit": "session",
+        "label": "CAD 312 за ребёнка за смену. Налоги и доплаты уточнить.",
+        "included": "Младшая группа. LEGO, ScratchJr, интерактивные истории, игры и научные опыты. Форма бронирования показывает 5–7, описание 4.5–7.",
+        "extras": "Продлёнка за 3 дня на ребёнка · CAD 24 утром или после занятий, CAD 42 вместе. С собой 2 перекуса и 1 обед без орехов.",
+        "deposit": "При отмене за 21 день и раньше полный кредит. За 10–20 дней удерживают CAD 50, позже CAD 100. За возврат на карту дополнительно 3%."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Нет по возрасту для младшей группы."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Подтвердить места в обеих группах на одной неделе, язык преподавателя и итог с налогами.",
+        "При отмене за 21 день и раньше полный кредит. За 10–20 дней удерживают CAD 50, позже CAD 100. За возврат на карту дополнительно 3%."
+      ],
+      "sources": [
+        {
+          "url": "https://inventor-camps.jumbula.com/WINTERCAMP20262027/InventorSTEMCampJuniorGroup457yo",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://stemschoolinventor.ca/camp-faq/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "open",
+        "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "pairing": {
+        "venue_id": "inventor-dollard-4503-saint-jean",
+        "verified_source": "https://inventor-camps.jumbula.com/WINTERCAMP20262027/InventorSTEMCampJuniorGroup457yo",
+        "checked": "2026-11-07",
+        "fee": {
+          "amount": 312,
+          "currency": "CAD",
+          "unit": "per_child_course"
+        }
+      }
+    },
+    {
+      "id": "CP1741",
+      "slug": "inventor-montreal-winter-senior-2026",
+      "provider": "Inventor STEM School · Winter Senior",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "4503 Boul Saint-Jean · Dollard-des-Ormeaux · Québec",
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "science"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "9–12",
+      "language": "Организатор публикует материалы на английском и французском. Язык преподавателя выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "programme": "Старшая группа. Роботы LEGO Education SPIKE Prime, Minecraft Education Edition, командная работа и эксперименты.",
+      "timing": {
+        "status": "published_2026",
+        "label": "21–24 или 28–31 декабря 2026. Понедельник–среда 09:00–16:00, четверг 09:00–14:00. Продлёнка только понедельник–среда.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "21–24 или 28–31 декабря 2026. Понедельник–среда 09:00–16:00, четверг 09:00–14:00. Продлёнка только понедельник–среда.",
+            "source": "https://inventor-camps.jumbula.com/WINTERCAMP20262027/InventorSTEMCampSeniorGroup912yo",
+            "price": "CAD 359 за ребёнка за смену. Налоги и доплаты уточнить.",
+            "place": "4503 Boul Saint-Jean · Dollard-des-Ormeaux · Québec",
+            "age": "9–12",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Возраст выше текущего. Проверить возраст на первый день смены."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Старшая группа. Роботы LEGO Education SPIKE Prime, Minecraft Education Edition, командная работа и эксперименты.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "topic": "Старшая группа. Роботы LEGO Education SPIKE Prime, Minecraft Education Edition, командная работа и эксперименты.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "topic": "Старшая группа. Роботы LEGO Education SPIKE Prime, Minecraft Education Edition, командная работа и эксперименты.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "topic": "Старшая группа. Роботы LEGO Education SPIKE Prime, Minecraft Education Edition, командная работа и эксперименты.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+            }
+          },
+          {
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "21–24 или 28–31 декабря 2026. Понедельник–среда 09:00–16:00, четверг 09:00–14:00. Продлёнка только понедельник–среда.",
+            "source": "https://inventor-camps.jumbula.com/WINTERCAMP20262027/InventorSTEMCampSeniorGroup912yo",
+            "price": "CAD 359 за ребёнка за смену. Налоги и доплаты уточнить.",
+            "place": "4503 Boul Saint-Jean · Dollard-des-Ormeaux · Québec",
+            "age": "9–12",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Возраст выше текущего. Проверить возраст на первый день смены."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "topic": "Старшая группа. Роботы LEGO Education SPIKE Prime, Minecraft Education Edition, командная работа и эксперименты.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "topic": "Старшая группа. Роботы LEGO Education SPIKE Prime, Minecraft Education Edition, командная работа и эксперименты.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-30",
+                "topic": "Старшая группа. Роботы LEGO Education SPIKE Prime, Minecraft Education Edition, командная работа и эксперименты.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-31",
+                "topic": "Старшая группа. Роботы LEGO Education SPIKE Prime, Minecraft Education Edition, командная работа и эксперименты.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "open",
+              "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+            }
+          }
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CAD",
+        "amount": 359,
+        "unit": "session",
+        "label": "CAD 359 за ребёнка за смену. Налоги и доплаты уточнить.",
+        "included": "Старшая группа. Роботы LEGO Education SPIKE Prime, Minecraft Education Edition, командная работа и эксперименты.",
+        "extras": "Продлёнка за 3 дня на ребёнка · CAD 24 утром или после занятий, CAD 42 вместе. С собой 2 перекуса и 1 обед без орехов.",
+        "deposit": "При отмене за 21 день и раньше полный кредит. За 10–20 дней удерживают CAD 50, позже CAD 100. За возврат на карту дополнительно 3%."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Возраст выше текущего. Проверить возраст на первый день смены."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Подтвердить места в обеих группах на одной неделе, язык преподавателя и итог с налогами.",
+        "При отмене за 21 день и раньше полный кредит. За 10–20 дней удерживают CAD 50, позже CAD 100. За возврат на карту дополнительно 3%."
+      ],
+      "sources": [
+        {
+          "url": "https://inventor-camps.jumbula.com/WINTERCAMP20262027/InventorSTEMCampSeniorGroup912yo",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://stemschoolinventor.ca/camp-faq/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "open",
+        "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "pairing": {
+        "venue_id": "inventor-dollard-4503-saint-jean",
+        "verified_source": "https://inventor-camps.jumbula.com/WINTERCAMP20262027/InventorSTEMCampSeniorGroup912yo",
+        "checked": "2026-11-07",
+        "fee": {
+          "amount": 359,
+          "currency": "CAD",
+          "unit": "per_child_course"
+        }
+      }
+    },
+    {
+      "id": "CP1742",
+      "slug": "blueballoonia-muscat-winter-2026",
+      "provider": "BlueBalloonia · Winter Camp",
+      "country": "Оман",
+      "iso": "OMN",
+      "place": "BlueBalloonia · Muscat",
+      "themes": [
+        "general"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Возраст для зимних смен пока не указан.",
+      "language": "Язык преподавания конкретной группы пока не подтверждён.",
+      "confirmed_instruction_languages": [],
+      "programme": "Организатор объявил 20–24 и 27–31 декабря 2026. Филиал, возраст, язык, программа, часы и цены ожидаются.",
+      "timing": {
+        "status": "partial_2026",
+        "label": "Организатор объявил 20–24 и 27–31 декабря 2026. Филиал, возраст, язык, программа, часы и цены ожидаются.",
+        "sessions": [
+          [
+            "2026-12-20",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-27",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-20",
+            "end": "2026-12-24",
+            "label": "Организатор объявил 20–24 и 27–31 декабря 2026. Филиал, возраст, язык, программа, часы и цены ожидаются.",
+            "source": "https://blueballoonia.com/blueballoonia-seasonal-camp-en/",
+            "price": "Цена не опубликована.",
+            "availability": {
+              "status": "announced",
+              "label": "Организатор объявил 20–24 и 27–31 декабря 2026. Филиал, возраст, язык, программа, часы и цены ожидаются."
+            }
+          },
+          {
+            "start": "2026-12-27",
+            "end": "2026-12-31",
+            "label": "Организатор объявил 20–24 и 27–31 декабря 2026. Филиал, возраст, язык, программа, часы и цены ожидаются.",
+            "source": "https://blueballoonia.com/blueballoonia-seasonal-camp-en/",
+            "price": "Цена не опубликована.",
+            "availability": {
+              "status": "announced",
+              "label": "Организатор объявил 20–24 и 27–31 декабря 2026. Филиал, возраст, язык, программа, часы и цены ожидаются."
+            }
+          }
+        ],
+        "precision": "season_window"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "OMR",
+        "amount": null,
+        "unit": "programme",
+        "label": "Цена не опубликована.",
+        "included": "Организатор объявил 20–24 и 27–31 декабря 2026. Филиал, возраст, язык, программа, часы и цены ожидаются.",
+        "extras": "Цена не опубликована.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Условно. Возрастную группу и язык подтвердить до записи."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Условно. Возрастную группу и язык подтвердить до записи."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://blueballoonia.com/blueballoonia-seasonal-camp-en/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "announced",
+        "label": "Организатор объявил 20–24 и 27–31 декабря 2026. Филиал, возраст, язык, программа, часы и цены ожидаются."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp"
     }
   ],
   "gaps": [
@@ -259269,7 +260305,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 223,
+  "version": 224,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -272504,7 +273540,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1735,
+      "total_dossiers": 1742,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,

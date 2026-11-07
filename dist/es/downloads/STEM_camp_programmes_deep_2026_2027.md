@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-07. 1735 dosieres en 99 países. Las fechas de verificación de cada fuente figuran en su dosier.
+Estado de la base: 2026-11-07. 1742 dosieres en 102 países. Las fechas de verificación de cada fuente figuran en su dosier.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -136277,6 +136277,500 @@ Emiratos Árabes Unidos · Ascend EdTech · Sport Society Mall · Mirdif · Duba
 ### Fuentes
 
 - [Página oficial del organizador](https://ascendedu.online/events-workshops/winter-camp-2026/) · 2026-11-07
+
+## CP1736 · Qatar Foundation · Mukhayamna Winter Camp · 6–8
+
+Catar · Education City · Qatar Foundation · Doha
+
+**Se ha comprobado:** 2026-11-07
+
+**Edad:** 6–8
+
+**Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar.
+
+**Programa:** Sostenibilidad, creatividad, cultura y actividades prácticas. Confirmar edificio e idioma de cada grupo.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 20–24 de diciembre de 2026, 09:00–13:30. Cinco días, de domingo a jueves.
+
+**Precio / año:** 2026 · QAR 1500 por niño y turno. Los dos grupos de edad cuestan QAR 3000 en total.
+
+**Incluido:** Sostenibilidad, creatividad, cultura y actividades prácticas. Confirmar edificio e idioma de cada grupo.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Al cancelar con 7 días naturales o más se reembolsa el importe menos QAR 250. Con 0–6 días o durante el turno no hay reembolso.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar idioma, edificio exacto de ambos grupos, plazas y forma de inscribir a los dos niños.
+
+- Al cancelar con 7 días naturales o más se reembolsa el importe menos QAR 250. Con 0–6 días o durante el turno no hay reembolso.
+
+### 20–24 de diciembre de 2026, 09:00–13:30. Cinco días, de domingo a jueves.
+
+**Fechas / estado:** 2026-12-20 — 2026-12-24
+
+**lugar:** Education City · Qatar Foundation · Doha
+
+**Edad:** 6–8
+
+**Precio:** QAR 1500 por niño y turno. Los dos grupos de edad cuestan QAR 3000 en total.
+
+- 2026-12-20 · 09:00–13:30 · Asia/Qatar · Sostenibilidad, creatividad, cultura y actividades prácticas. Confirmar edificio e idioma de cada grupo.
+
+- 2026-12-21 · 09:00–13:30 · Asia/Qatar · Sostenibilidad, creatividad, cultura y actividades prácticas. Confirmar edificio e idioma de cada grupo.
+
+- 2026-12-22 · 09:00–13:30 · Asia/Qatar · Sostenibilidad, creatividad, cultura y actividades prácticas. Confirmar edificio e idioma de cada grupo.
+
+- 2026-12-23 · 09:00–13:30 · Asia/Qatar · Sostenibilidad, creatividad, cultura y actividades prácticas. Confirmar edificio e idioma de cada grupo.
+
+- 2026-12-24 · 09:00–13:30 · Asia/Qatar · Sostenibilidad, creatividad, cultura y actividades prácticas. Confirmar edificio e idioma de cada grupo.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+[fuente](https://www.educationcity.qa/class/mukhayamna-winter-camp)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.educationcity.qa/class/mukhayamna-winter-camp) · 2026-11-07
+
+- [Página oficial del organizador](https://www.educationcity.qa/ar/class/mukhayamna-winter-camp) · 2026-11-07
+
+## CP1737 · Qatar Foundation · Mukhayamna Winter Camp · 9–11
+
+Catar · Education City · Qatar Foundation · Doha
+
+**Se ha comprobado:** 2026-11-07
+
+**Edad:** 9–11
+
+**Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar.
+
+**Programa:** Sostenibilidad, creatividad, cultura y actividades prácticas. Confirmar edificio e idioma de cada grupo.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 20–24 de diciembre de 2026, 09:00–13:30. Cinco días, de domingo a jueves.
+
+**Precio / año:** 2026 · QAR 1500 por niño y turno. Los dos grupos de edad cuestan QAR 3000 en total.
+
+**Incluido:** Sostenibilidad, creatividad, cultura y actividades prácticas. Confirmar edificio e idioma de cada grupo.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Al cancelar con 7 días naturales o más se reembolsa el importe menos QAR 250. Con 0–6 días o durante el turno no hay reembolso.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar idioma, edificio exacto de ambos grupos, plazas y forma de inscribir a los dos niños.
+
+- Al cancelar con 7 días naturales o más se reembolsa el importe menos QAR 250. Con 0–6 días o durante el turno no hay reembolso.
+
+### 20–24 de diciembre de 2026, 09:00–13:30. Cinco días, de domingo a jueves.
+
+**Fechas / estado:** 2026-12-20 — 2026-12-24
+
+**lugar:** Education City · Qatar Foundation · Doha
+
+**Edad:** 9–11
+
+**Precio:** QAR 1500 por niño y turno. Los dos grupos de edad cuestan QAR 3000 en total.
+
+- 2026-12-20 · 09:00–13:30 · Asia/Qatar · Sostenibilidad, creatividad, cultura y actividades prácticas. Confirmar edificio e idioma de cada grupo.
+
+- 2026-12-21 · 09:00–13:30 · Asia/Qatar · Sostenibilidad, creatividad, cultura y actividades prácticas. Confirmar edificio e idioma de cada grupo.
+
+- 2026-12-22 · 09:00–13:30 · Asia/Qatar · Sostenibilidad, creatividad, cultura y actividades prácticas. Confirmar edificio e idioma de cada grupo.
+
+- 2026-12-23 · 09:00–13:30 · Asia/Qatar · Sostenibilidad, creatividad, cultura y actividades prácticas. Confirmar edificio e idioma de cada grupo.
+
+- 2026-12-24 · 09:00–13:30 · Asia/Qatar · Sostenibilidad, creatividad, cultura y actividades prácticas. Confirmar edificio e idioma de cada grupo.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+[fuente](https://www.educationcity.qa/class/mukhayamna-winter-camp)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.educationcity.qa/class/mukhayamna-winter-camp) · 2026-11-07
+
+- [Página oficial del organizador](https://www.educationcity.qa/ar/class/mukhayamna-winter-camp) · 2026-11-07
+
+## CP1738 · The English School · TES Winter EDUcamp
+
+Kuwait · The English School · Kuwait
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** De KG a Year 10 en el sistema escolar. Confirmar asignación por curso.
+
+**Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar.
+
+**Programa:** Campamento general del colegio. Juegos, deporte, STEAM creativo y retos de equipo. Confirmar proyectos técnicos concretos.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 20–24 de diciembre de 2026, 09:30–14:30. Cuidado ampliado de 08:30–09:30 y 14:30–15:30 con precio aparte.
+
+**Precio / año:** 2026 · KWD 110 por 5 días o KWD 27.50 por día. Descuento del 10% para el segundo niño. Con ambos admitidos, KWD 209 por semana. Cuidado ampliado KWD 6 por niño por mañana o tarde.
+
+**Incluido:** Campamento general del colegio. Juegos, deporte, STEAM creativo y retos de equipo. Confirmar proyectos técnicos concretos.
+
+**Suplementos:** Llevar almuerzo sin frutos secos, agua y ropa deportiva. Confirmar cuidado ampliado y reembolso.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Condicional. Se exige vínculo con TES e inscripción por el SOCS parental. Puede ser alumno de TES, hermano de un alumno, hijo de personal o amigo invitado con vínculo confirmado.
+
+**Oscar:** Condicional. Se exige vínculo con TES e inscripción por el SOCS parental. Puede ser alumno de TES, hermano de un alumno, hijo de personal o amigo invitado con vínculo confirmado.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Condicional. Se exige vínculo con TES e inscripción por el SOCS parental. Puede ser alumno de TES, hermano de un alumno, hijo de personal o amigo invitado con vínculo confirmado.
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### 20–24 de diciembre de 2026, 09:30–14:30. Cuidado ampliado de 08:30–09:30 y 14:30–15:30 con precio aparte.
+
+**Fechas / estado:** 2026-12-20 — 2026-12-24
+
+**lugar:** The English School · Kuwait
+
+**edad:** De KG a Year 10 en el sistema escolar. Confirmar asignación por curso.
+
+**Precio:** KWD 110 por 5 días o KWD 27.50 por día. Descuento del 10% para el segundo niño. Con ambos admitidos, KWD 209 por semana. Cuidado ampliado KWD 6 por niño por mañana o tarde.
+
+- 2026-12-20 · 09:30–14:30 · Asia/Kuwait · Campamento general del colegio. Juegos, deporte, STEAM creativo y retos de equipo. Confirmar proyectos técnicos concretos.
+
+- 2026-12-21 · 09:30–14:30 · Asia/Kuwait · Campamento general del colegio. Juegos, deporte, STEAM creativo y retos de equipo. Confirmar proyectos técnicos concretos.
+
+- 2026-12-22 · 09:30–14:30 · Asia/Kuwait · Campamento general del colegio. Juegos, deporte, STEAM creativo y retos de equipo. Confirmar proyectos técnicos concretos.
+
+- 2026-12-23 · 09:30–14:30 · Asia/Kuwait · Campamento general del colegio. Juegos, deporte, STEAM creativo y retos de equipo. Confirmar proyectos técnicos concretos.
+
+- 2026-12-24 · 09:30–14:30 · Asia/Kuwait · Campamento general del colegio. Juegos, deporte, STEAM creativo y retos de equipo. Confirmar proyectos técnicos concretos.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Condicional. Se exige vínculo con TES e inscripción por el SOCS parental. Puede ser alumno de TES, hermano de un alumno, hijo de personal o amigo invitado con vínculo confirmado.
+
+**Oscar:** Condicional. Se exige vínculo con TES e inscripción por el SOCS parental. Puede ser alumno de TES, hermano de un alumno, hijo de personal o amigo invitado con vínculo confirmado.
+
+[fuente](https://tes.edu.kw/educamp/)
+
+### Fuentes
+
+- [Página oficial del organizador](https://tes.edu.kw/educamp/) · 2026-11-07
+
+## CP1739 · CURIOOkids · Autumn Makers Lab
+
+Arabia Saudí · CURIOOkids · Sondos Landmark Mall · Irqah · Riyadh
+
+**Se ha comprobado:** 2026-11-07
+
+**Edad:** 6–9
+
+**Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar.
+
+**Programa:** Autumn Makers Lab para 6–9 años. Robots, código, retos de ingeniería y presentación de idea de negocio. La organización indica 9 días desde el 15 de noviembre de 2026. Confirmar fechas completas, horario, idioma y tarifa.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Autumn Makers Lab para 6–9 años. Robots, código, retos de ingeniería y presentación de idea de negocio. La organización indica 9 días desde el 15 de noviembre de 2026. Confirmar fechas completas, horario, idioma y tarifa.
+
+**Precio / año:** 2026 · Precio sin publicar.
+
+**Incluido:** Autumn Makers Lab para 6–9 años. Robots, código, retos de ingeniería y presentación de idea de negocio. La organización indica 9 días desde el 15 de noviembre de 2026. Confirmar fechas completas, horario, idioma y tarifa.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Fuentes
+
+- [Página oficial del organizador](https://curioo.sa/en/autumn-program) · 2026-11-07
+
+- [Página oficial del organizador](https://curioo.sa/en/curiookids-autumn-program-launch) · 2026-11-07
+
+## CP1740 · Inventor STEM School · Winter Junior
+
+Canadá · 4503 Boul Saint-Jean · Dollard-des-Ormeaux · Québec
+
+**Se ha comprobado:** 2026-11-07
+
+**Edad:** 5–7
+
+**Idioma:** La organización publica materiales en inglés y francés. Confirmar idioma de enseñanza del grupo elegido.
+
+**Programa:** Grupo junior. LEGO, ScratchJr, historias interactivas, juegos y experimentos. La reserva indica 5–7 y la descripción 4.5–7.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 21–24 o 28–31 de diciembre de 2026. Lunes a miércoles 09:00–16:00, jueves 09:00–14:00. Cuidado ampliado solo lunes a miércoles.
+
+**Precio / año:** 2026 · CAD 312 por niño y turno. Confirmar impuestos y suplementos.
+
+**Incluido:** Grupo junior. LEGO, ScratchJr, historias interactivas, juegos y experimentos. La reserva indica 5–7 y la descripción 4.5–7.
+
+**Suplementos:** Cuidado ampliado por 3 días y niño · CAD 24 por la mañana o después de clase, CAD 42 juntos. Llevar 2 meriendas y 1 almuerzo sin frutos secos.
+
+**Pago:** Al cancelar con 21 días o más, crédito íntegro. Con 10–20 días se deducen CAD 50 y después CAD 100. Reembolso a tarjeta con un 3% adicional.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plazas en ambos grupos la misma semana, idioma de enseñanza y total con impuestos.
+
+- Al cancelar con 21 días o más, crédito íntegro. Con 10–20 días se deducen CAD 50 y después CAD 100. Reembolso a tarjeta con un 3% adicional.
+
+### 21–24 o 28–31 de diciembre de 2026. Lunes a miércoles 09:00–16:00, jueves 09:00–14:00. Cuidado ampliado solo lunes a miércoles.
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**lugar:** 4503 Boul Saint-Jean · Dollard-des-Ormeaux · Québec
+
+**Edad:** 5–7
+
+**Precio:** CAD 312 por niño y turno. Confirmar impuestos y suplementos.
+
+- 2026-12-21 · 09:00–16:00 · America/Toronto · Grupo junior. LEGO, ScratchJr, historias interactivas, juegos y experimentos. La reserva indica 5–7 y la descripción 4.5–7.
+
+- 2026-12-22 · 09:00–16:00 · America/Toronto · Grupo junior. LEGO, ScratchJr, historias interactivas, juegos y experimentos. La reserva indica 5–7 y la descripción 4.5–7.
+
+- 2026-12-23 · 09:00–16:00 · America/Toronto · Grupo junior. LEGO, ScratchJr, historias interactivas, juegos y experimentos. La reserva indica 5–7 y la descripción 4.5–7.
+
+- 2026-12-24 · 09:00–14:00 · America/Toronto · Grupo junior. LEGO, ScratchJr, historias interactivas, juegos y experimentos. La reserva indica 5–7 y la descripción 4.5–7.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+[fuente](https://inventor-camps.jumbula.com/WINTERCAMP20262027/InventorSTEMCampJuniorGroup457yo)
+
+### 21–24 o 28–31 de diciembre de 2026. Lunes a miércoles 09:00–16:00, jueves 09:00–14:00. Cuidado ampliado solo lunes a miércoles.
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**lugar:** 4503 Boul Saint-Jean · Dollard-des-Ormeaux · Québec
+
+**Edad:** 5–7
+
+**Precio:** CAD 312 por niño y turno. Confirmar impuestos y suplementos.
+
+- 2026-12-28 · 09:00–16:00 · America/Toronto · Grupo junior. LEGO, ScratchJr, historias interactivas, juegos y experimentos. La reserva indica 5–7 y la descripción 4.5–7.
+
+- 2026-12-29 · 09:00–16:00 · America/Toronto · Grupo junior. LEGO, ScratchJr, historias interactivas, juegos y experimentos. La reserva indica 5–7 y la descripción 4.5–7.
+
+- 2026-12-30 · 09:00–16:00 · America/Toronto · Grupo junior. LEGO, ScratchJr, historias interactivas, juegos y experimentos. La reserva indica 5–7 y la descripción 4.5–7.
+
+- 2026-12-31 · 09:00–14:00 · America/Toronto · Grupo junior. LEGO, ScratchJr, historias interactivas, juegos y experimentos. La reserva indica 5–7 y la descripción 4.5–7.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+[fuente](https://inventor-camps.jumbula.com/WINTERCAMP20262027/InventorSTEMCampJuniorGroup457yo)
+
+### Fuentes
+
+- [Página oficial del organizador](https://inventor-camps.jumbula.com/WINTERCAMP20262027/InventorSTEMCampJuniorGroup457yo) · 2026-11-07
+
+- [Página oficial del organizador](https://stemschoolinventor.ca/camp-faq/) · 2026-11-07
+
+## CP1741 · Inventor STEM School · Winter Senior
+
+Canadá · 4503 Boul Saint-Jean · Dollard-des-Ormeaux · Québec
+
+**Se ha comprobado:** 2026-11-07
+
+**Edad:** 9–12
+
+**Idioma:** La organización publica materiales en inglés y francés. Confirmar idioma de enseñanza del grupo elegido.
+
+**Programa:** Grupo sénior. Robots LEGO Education SPIKE Prime, Minecraft Education Edition, trabajo en equipo y experimentos.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 21–24 o 28–31 de diciembre de 2026. Lunes a miércoles 09:00–16:00, jueves 09:00–14:00. Cuidado ampliado solo lunes a miércoles.
+
+**Precio / año:** 2026 · CAD 359 por niño y turno. Confirmar impuestos y suplementos.
+
+**Incluido:** Grupo sénior. Robots LEGO Education SPIKE Prime, Minecraft Education Edition, trabajo en equipo y experimentos.
+
+**Suplementos:** Cuidado ampliado por 3 días y niño · CAD 24 por la mañana o después de clase, CAD 42 juntos. Llevar 2 meriendas y 1 almuerzo sin frutos secos.
+
+**Pago:** Al cancelar con 21 días o más, crédito íntegro. Con 10–20 días se deducen CAD 50 y después CAD 100. Reembolso a tarjeta con un 3% adicional.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plazas en ambos grupos la misma semana, idioma de enseñanza y total con impuestos.
+
+- Al cancelar con 21 días o más, crédito íntegro. Con 10–20 días se deducen CAD 50 y después CAD 100. Reembolso a tarjeta con un 3% adicional.
+
+### 21–24 o 28–31 de diciembre de 2026. Lunes a miércoles 09:00–16:00, jueves 09:00–14:00. Cuidado ampliado solo lunes a miércoles.
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**lugar:** 4503 Boul Saint-Jean · Dollard-des-Ormeaux · Québec
+
+**Edad:** 9–12
+
+**Precio:** CAD 359 por niño y turno. Confirmar impuestos y suplementos.
+
+- 2026-12-21 · 09:00–16:00 · America/Toronto · Grupo sénior. Robots LEGO Education SPIKE Prime, Minecraft Education Edition, trabajo en equipo y experimentos.
+
+- 2026-12-22 · 09:00–16:00 · America/Toronto · Grupo sénior. Robots LEGO Education SPIKE Prime, Minecraft Education Edition, trabajo en equipo y experimentos.
+
+- 2026-12-23 · 09:00–16:00 · America/Toronto · Grupo sénior. Robots LEGO Education SPIKE Prime, Minecraft Education Edition, trabajo en equipo y experimentos.
+
+- 2026-12-24 · 09:00–14:00 · America/Toronto · Grupo sénior. Robots LEGO Education SPIKE Prime, Minecraft Education Edition, trabajo en equipo y experimentos.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+[fuente](https://inventor-camps.jumbula.com/WINTERCAMP20262027/InventorSTEMCampSeniorGroup912yo)
+
+### 21–24 o 28–31 de diciembre de 2026. Lunes a miércoles 09:00–16:00, jueves 09:00–14:00. Cuidado ampliado solo lunes a miércoles.
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**lugar:** 4503 Boul Saint-Jean · Dollard-des-Ormeaux · Québec
+
+**Edad:** 9–12
+
+**Precio:** CAD 359 por niño y turno. Confirmar impuestos y suplementos.
+
+- 2026-12-28 · 09:00–16:00 · America/Toronto · Grupo sénior. Robots LEGO Education SPIKE Prime, Minecraft Education Edition, trabajo en equipo y experimentos.
+
+- 2026-12-29 · 09:00–16:00 · America/Toronto · Grupo sénior. Robots LEGO Education SPIKE Prime, Minecraft Education Edition, trabajo en equipo y experimentos.
+
+- 2026-12-30 · 09:00–16:00 · America/Toronto · Grupo sénior. Robots LEGO Education SPIKE Prime, Minecraft Education Edition, trabajo en equipo y experimentos.
+
+- 2026-12-31 · 09:00–14:00 · America/Toronto · Grupo sénior. Robots LEGO Education SPIKE Prime, Minecraft Education Edition, trabajo en equipo y experimentos.
+
+**Disponibilidad de plazas:** El organizador admite solicitudes. Confirmar la plaza concreta.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+[fuente](https://inventor-camps.jumbula.com/WINTERCAMP20262027/InventorSTEMCampSeniorGroup912yo)
+
+### Fuentes
+
+- [Página oficial del organizador](https://inventor-camps.jumbula.com/WINTERCAMP20262027/InventorSTEMCampSeniorGroup912yo) · 2026-11-07
+
+- [Página oficial del organizador](https://stemschoolinventor.ca/camp-faq/) · 2026-11-07
+
+## CP1742 · BlueBalloonia · Winter Camp
+
+Omán · BlueBalloonia · Muscat
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Edad de los turnos de invierno aún sin indicar.
+
+**Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar.
+
+**Programa:** La organización anunció del 20–24 y del 27–31 de diciembre de 2026. Sede, edad, idioma, programa, horarios y precios pendientes.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** La organización anunció del 20–24 y del 27–31 de diciembre de 2026. Sede, edad, idioma, programa, horarios y precios pendientes.
+
+**Precio / año:** 2026 · Precio sin publicar.
+
+**Incluido:** La organización anunció del 20–24 y del 27–31 de diciembre de 2026. Sede, edad, idioma, programa, horarios y precios pendientes.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Condicional. Confirmar grupo de edad e idioma antes de inscribirse.
+
+**Oscar:** Condicional. Confirmar grupo de edad e idioma antes de inscribirse.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### La organización anunció del 20–24 y del 27–31 de diciembre de 2026. Sede, edad, idioma, programa, horarios y precios pendientes.
+
+**Fechas / estado:** 2026-12-20 — 2026-12-24
+
+**Precio:** Precio sin publicar.
+
+**Disponibilidad de plazas:** La organización anunció del 20–24 y del 27–31 de diciembre de 2026. Sede, edad, idioma, programa, horarios y precios pendientes.
+
+[fuente](https://blueballoonia.com/blueballoonia-seasonal-camp-en/)
+
+### La organización anunció del 20–24 y del 27–31 de diciembre de 2026. Sede, edad, idioma, programa, horarios y precios pendientes.
+
+**Fechas / estado:** 2026-12-27 — 2026-12-31
+
+**Precio:** Precio sin publicar.
+
+**Disponibilidad de plazas:** La organización anunció del 20–24 y del 27–31 de diciembre de 2026. Sede, edad, idioma, programa, horarios y precios pendientes.
+
+[fuente](https://blueballoonia.com/blueballoonia-seasonal-camp-en/)
+
+### Fuentes
+
+- [Página oficial del organizador](https://blueballoonia.com/blueballoonia-seasonal-camp-en/) · 2026-11-07
 
 ## ~ Comprobaciones no cerradas
 

@@ -870,13 +870,13 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 223,
+    "version": 224,
     "status": "implementation_snapshot",
-    "events": 7916,
-    "competitions": 3243,
+    "events": 7931,
+    "competitions": 3248,
     "league_profiles": 269,
-    "camp_dossiers": 1735,
-    "budget_offers": 262,
+    "camp_dossiers": 1742,
+    "budget_offers": 265,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
     "worldwide_complete": false,
@@ -926,13 +926,13 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 222,
+    "version": 223,
     "status": "implementation_snapshot",
-    "events": 7889,
-    "competitions": 3232,
-    "league_profiles": 268,
-    "camp_dossiers": 1731,
-    "budget_offers": 258,
+    "events": 7916,
+    "competitions": 3243,
+    "league_profiles": 269,
+    "camp_dossiers": 1735,
+    "budget_offers": 262,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
     "worldwide_complete": false,
@@ -20807,11 +20807,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 222,
-    "published_version": 222,
-    "latest_source_commit": "1ef1a4b1102802aa41f07c0a430d53de8f208e85",
-    "published_commit": "1ef1a4b1102802aa41f07c0a430d53de8f208e85",
-    "latest_workflow": 42384561509,
+    "latest_source_version": 223,
+    "published_version": 223,
+    "latest_source_commit": "56fc5e3f1009bfdfdd91840d03b26007fc67b7a2",
+    "published_commit": "56fc5e3f1009bfdfdd91840d03b26007fc67b7a2",
+    "latest_workflow": 42386412353,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -22531,5 +22531,73 @@
     ],
     "audit": "data/gulf-family-audit-v223.json",
     "source_receipts": "data/gulf-family-source-receipts-v223.json"
+  },
+  "sea_gulf_family_v224": {
+    "version": 224,
+    "checked": "2026-11-07",
+    "previous_goal_turn_classification": "progress",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_competitions": 5,
+    "new_exhibitions": 2,
+    "new_camp_dossiers": 7,
+    "new_dated_camp_variants": 7,
+    "new_budget_offers": 3,
+    "new_events": [
+      "C3245",
+      "C3246",
+      "C3247",
+      "E378",
+      "C3248",
+      "E379",
+      "C3249",
+      "L656"
+    ],
+    "updated_event_ids": [
+      "C767"
+    ],
+    "updated_league_ids": [
+      "seaperch"
+    ],
+    "programme_ids": {
+      "qf-mukhayamna-winter-6-8": "CP1736",
+      "qf-mukhayamna-winter-9-11": "CP1737",
+      "tes-educamp-kuwait-winter-2026": "CP1738",
+      "curioo-riyadh-autumn-makers-2026": "CP1739",
+      "inventor-montreal-winter-junior-2026": "CP1740",
+      "inventor-montreal-winter-senior-2026": "CP1741",
+      "blueballoonia-muscat-winter-2026": "CP1742"
+    },
+    "source_requests": 33,
+    "rechecked_unchanged": [
+      "CP096",
+      "CP613",
+      "CP614",
+      "CP615",
+      "CP1124",
+      "CP1125",
+      "CP1126",
+      "CP1127",
+      "CP1128",
+      "CP1129",
+      "CP1130",
+      "CP1131",
+      "CP1132",
+      "CP1133",
+      "CP1134",
+      "CP1135"
+    ],
+    "limits": [
+      "SeaPerch West Asia class is based on grade, FAQ describes ages mainly 10–16 and countries in the region. No acceptance from Costa Rica or Mexico established. Regional English/Arabic and World English distinguished.",
+      "SeaPerch regional registration and technical submission have separate deadlines. The world final keeps C767 with its invitation-only registration deadline and a separate Wild Card application record.",
+      "COMEX date and venue match; closing hours conflict. Esports is an undated interest route pending exact schedule and eligibility. Kuwait AI Summit dates are for the conference; workshop days remain a distinct note.",
+      "Qatar Foundation two age groups each list 20–24 December and QAR 1500. No same-building or teaching-language confirmation. Kuwait TES requires a school link and uses conditional budgeting.",
+      "CURIOOkids supplies the exact first day but not the full list of nine days. BlueBalloonia announces two windows with ages and branch pending. Neither is expanded into inferred daily attendance.",
+      "Inventor STEM School confirms two sibling timetable matches at a single Montreal-area address. Registration pages are bilingual; oral teaching language and applicable taxes are unconfirmed.",
+      "Read back the public FOD registration selector without submitting it. Current course times, CRC 60000 incl tax and same site already match the twelve Costa Rica dossiers. Coyote current base, early price and credit conditions are already present.",
+      "OliOli Doha linked programme is the 2025 archive. QSTP NextGen Founders is restricted to ages 18–30. NASA Doha prioritises adults but the official page does not specify an absolute minimum age."
+    ],
+    "audit": "data/sea-gulf-family-audit-v224.json",
+    "source_receipts": "data/sea-gulf-family-source-receipts-v224.json"
   }
 }
