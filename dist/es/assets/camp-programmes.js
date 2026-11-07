@@ -40,8 +40,8 @@
   if(!cs.child)return true;
   const keys=cs.child==='both'?['matvey','oscar']:[cs.child];
   const eligible=fit=>keys.every(k=>['candidate','conditional'].includes(fit?.[k]?.status));
-  const variants=p.timing.session_details||[];
-  if(cs.month&&variants.length)return variants.some(v=>M.matchesMonth({sessions:[[v.start,v.end]]},cs.month)&&eligible(v.family_fit||p.family_fit));
+  const variants=p.timing.session_details||[],announced=p.timing.announced_variants||[];
+  if(cs.month&&(variants.length||announced.length))return variants.some(v=>M.matchesMonth({sessions:[[v.start,v.end]]},cs.month)&&eligible(v.family_fit||p.family_fit))||announced.some(v=>(v.announced_months||[]).includes(cs.month)&&eligible(v.family_fit));
   return eligible(p.family_fit);
  }
  function filtered(ignoreChild=false){return M.sortProfiles(guide.profiles.filter(p=>(!cs.query||M.searchText(p).includes(foldSearch(cs.query)))&&(!cs.country||p.iso===cs.country)&&(!cs.review||guide.editorial_selection?.reviews.some(r=>r.programme_id===p.id))&&D.matches(p.themes,cs.theme)&&(!cs.format||p.formats.includes(cs.format))&&(!cs.phase||(cs.phase==='2027'?['published_2027','published_2026_27','partial_2027','partial_2026_27'].includes(p.timing.status):p.timing.status===cs.phase))&&matchesLanguage(p,cs.language)&&M.matchesMonth(p,cs.month)&&(ignoreChild||editorialGoal()==='future'||matchesChild(p))),cs.sort,cs.child,undefined,guide.editorial_selection);}

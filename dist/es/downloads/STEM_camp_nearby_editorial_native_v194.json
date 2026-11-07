@@ -1,0 +1,2422 @@
+{
+  "version": 194,
+  "checked": "2026-11-06",
+  "modified_raw_profile_ids": [
+    "CP094",
+    "CP591",
+    "CP612",
+    "CP613",
+    "CP614",
+    "CP615",
+    "CP1124",
+    "CP1125",
+    "CP1126",
+    "CP1127",
+    "CP1128",
+    "CP1129",
+    "CP1130"
+  ],
+  "previous_raw_profiles": {
+    "CP094": {
+      "id": "CP094",
+      "slug": "ojo-ciego",
+      "provider": "Ojo Ciego · Verano 2027",
+      "country": "México",
+      "iso": "MEX",
+      "place": "ExHacienda OjoCiego /SanDiego de laUnión /Guanajuato",
+      "themes": [
+        "general",
+        "sport"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "7–14; 15–16 de la misma transition",
+      "language": "No se establece el idioma de las clases; el sitio web no confirma la enseñanza ES o EN.",
+      "confirmed_instruction_languages": [],
+      "programme": "Outdoor/deporte/creatividad/juegos nocturnos, kayak/climbing/arco ery. formación robótica no declarada. máximo 40 campers y ratio 1: 4  declaraciones del operador, no evaluación independiente. teléfonos/llamadas habituales están prohibidos, a los padres fotos diarias.",
+      "timing": {
+        "status": "published_2027",
+        "label": "18–31.07.2027. Hay un paquete. 1 la semana, Pero sus límites precisos aún no se han definido..",
+        "sessions": [
+          [
+            "2027-07-18",
+            "2027-07-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-07-18",
+            "end": "2027-07-31",
+            "label": "Verano · pensión completa de 2 semanas",
+            "price": "MXN 20 550/niño",
+            "place": "ExHacienda OjoCiego /SanDiego de laUnión /Guanajuato",
+            "source": "https://www.ojociego.com.mx/fechas-precios.html",
+            "formats": [
+              "boarding"
+            ],
+            "proof": "la recta HTMLprogramme/pricing/FAQ que dan 2027 y 20 550. Web-reader ¿Qué dinero hay? 2026/18 000; en la base de la fuente recta fresca. las fronteras 1 semanas no inventadas."
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "label": "MXN 12 000/1 de semana; MXN 20 550/2 de semana.",
+        "included": "Programa residencial, alimentación, programa de la, accident cover 150 000 MXN, nursing y shirt/photos. Programme/FAQ se describe 3 meals+snack+tiendita; pricing escribe 5 meals — aclarar.",
+        "extras": "La FAQ promete un 20% a los primeros hermanos: base/aplicabilidad para obtener en el cálculo.",
+        "deposit": "el primer pago de MXN 2 500 para la reserva; claramente no se establece el cuento en 20 550. después del 10 de julio los adelantos no se devuelven; la salida temprana sin devolución. las condiciones finales 2027 confirmar."
+      },
+      "accommodation": "Cabinas por edad/sex con agua caliente; personal duerme con niños. máximo 8 campers+2 instructors por cabina por programa.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Edad 7–14 Es muy bueno.; - ¿Qué es ? ES/EN y la preparación para 1/2 las semanas."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "sólo después de cumplir 7 años para el 18 de julio; la fecha exacta de nacimiento no se conoce."
+        }
+      },
+      "editorial_reason": "un pensión mexicano general con un paquete de 2027 publicado; sólo es adecuado para los hermanos en el 7o aniversario de Oscar.",
+      "shortlist": [
+        "general",
+        "boarding"
+      ],
+      "questions": [
+        "confirmar el idioma, edad para entrar, las fronteras 1 las semanas, el traslado, sibling discount y el cuento del adelanto."
+      ],
+      "sources": [
+        {
+          "title": "programa directo fresco 2027",
+          "url": "https://www.ojociego.com.mx/verano.html",
+          "checked": "2026-10-04"
+        },
+        {
+          "title": "2027: tarifas / fechas",
+          "url": "https://www.ojociego.com.mx/fechas-precios.html",
+          "checked": "2026-10-04"
+        },
+        {
+          "title": "edad / avance / cancelación / comunicación",
+          "url": "https://www.ojociego.com.mx/faq.html",
+          "checked": "2026-10-04"
+        }
+      ],
+      "checked": "2026-10-04"
+    },
+    "CP591": {
+      "id": "CP591",
+      "slug": "santa-ursula-general",
+      "provider": "Camp Santa Úrsula · Verano",
+      "country": "México",
+      "iso": "MEX",
+      "place": "Camino a Portezuelo s/n, Planta del Carmen, Cerro de San Pedro, San Luis Potosí, México",
+      "themes": [
+        "general",
+        "sport",
+        "science",
+        "art"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "Es decir, summer7–15; general activityrule minimum6 no se cancela 7-el permiso de verano",
+      "language": "El principal ES/EN/RU y la asistencia permanente a un grupo concreto no se han confirmado. su propio internationalblog distingue directamente a los campistas extranjeros y a la bilingualimmersion; el historial de la composición internacional no es el ENcurriculum.",
+      "confirmed_instruction_languages": [],
+      "programme": "general outdoor el pensión: de los equipos/deporte, bicicletas/kayak/Navegación/horse, forest/biodiversity, practicalworkshops y nightgames. Robótica/AI/coding no se declararon. Cada equipo instructor+assistant, en la noche instructor con una escolta. Medicalservice24 h; summerpage amenities No garantiza a todos los niños attraction — age/safetyrules. por reglamento el sueño es común 22:30; Actividades diarias 10–22 de la break, No , no . 12 h las lecciones. Los teléfonos se entregan antes de irse ., los mensajes de los padres sólo websystem; No se le promete a un niño llamadas ordinarias..",
+      "timing": {
+        "status": "published_2027",
+        "label": "Datados 2027 pricecards:10–16 July;17–23 July;10–23 Julyextended. viejo hero11–24 July2026 y home16–23 July Se separan; se utiliza una 2027 card, Se necesita una confirmación por escrito.",
+        "sessions": [
+          [
+            "2027-07-10",
+            "2027-07-16"
+          ],
+          [
+            "2027-07-17",
+            "2027-07-23"
+          ],
+          [
+            "2027-07-10",
+            "2027-07-23"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-07-10",
+            "end": "2027-07-16",
+            "variant_key": "summer-2027-07-10-2027-07-16",
+            "label": "Verano1 ·7 días",
+            "price": "51 700 MXN",
+            "source": "https://www.campsantaursula.com/campamentos-de-verano",
+            "place": "Camino a Portezuelo s/n, Planta del Carmen, Cerro de San Pedro, San Luis Potosí, México"
+          },
+          {
+            "start": "2027-07-17",
+            "end": "2027-07-23",
+            "variant_key": "summer-2027-07-17-2027-07-23",
+            "label": "Verano2 ·7 días",
+            "price": "51 700 MXN",
+            "source": "https://www.campsantaursula.com/campamentos-de-verano",
+            "place": "Camino a Portezuelo s/n, Planta del Carmen, Cerro de San Pedro, San Luis Potosí, México"
+          },
+          {
+            "start": "2027-07-10",
+            "end": "2027-07-23",
+            "variant_key": "summer-2027-07-10-2027-07-23",
+            "label": "Extendido · 14 días",
+            "price": "98 500 MXN",
+            "source": "https://www.campsantaursula.com/campamentos-de-verano",
+            "place": "Camino a Portezuelo s/n, Planta del Carmen, Cerro de San Pedro, San Luis Potosí, México"
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "label": "MXN51 700/7 días por 10–16 o 17–23 July;98 500/14 días por 10–23 July. dos individuos weeks103 400, extended de bajo precio 4 900; la diferencia de paquete, no es una acción adicional.",
+        "included": "Summerpage24 hmedical; contrato propio: accident policy hasta 150 000 MXN por participante, sólo vigente hasta la salida del campamento.",
+        "extras": "la carretera/transfer No se prometió. los gastos superiores 150 000 MXN y los padres pagan por la exención del póliz; las enfermedades/los gastos preexistentes no son cubiertos por la póliza; medicalservice24 h No , no . allmedicalexpensecoverage. el conjunto de los activities puede ser sustituido. para los dos 7 days103 400 o extended197 000 hasta el camino/de otra cosa., si Oscar Ya lo he hecho. 7.",
+        "deposit": "Contract: cancelación habitual≥15 días, salud/seguridad excepción≥3 días; opciones de transferencia a otro participante/credit1 año/50%cashrefund. otra vez ≤3 días en general 0  igual a 3 días en conflicto. Latearrival/earlydeparture0. Operatorforce-majeure trasladado 1 año, luego refundado si no es posible; después suspension0. tarifas pueden cambiarse con notificación/acceptance, fullpaydeadline es necesario; no se ha firmado."
+      },
+      "accommodation": "Requests de alojamiento compartido máximo 3 campers, no garantía de habitaciones separadas.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "en verano 2027 ¿Qué es lo que va a ser? 9–10: summer7–15 por edad se adapta; lugar, las lenguas y la disposición de la proponción para confirmar."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "en verano 2027 ¿Qué es lo que va a ser? 6–7: sólo después 7-años, Necesitamos algo preciso. DOB. Minimum6 en el activityreglamento No se permite summer."
+        }
+      },
+      "editorial_reason": "el pensión general mexicano con fechas/precios medial 2027 y contrato leído; no confirmado de la técnica de trabajo/campamento bilingüe.",
+      "shortlist": [],
+      "questions": [
+        "DOB Oscar/lenguaje, límite exacto 17 July, cohort/inclusions y fullinvoice; cancelación exacto 3 días, transfer, medical policy/limite de cobertura y contactrule."
+      ],
+      "sources": [
+        {
+          "title": "Summer2027 age/date/pricecards concretos",
+          "url": "https://www.campsantaursula.com/campamentos-de-verano",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "Contract/cancel/medicaldeductible",
+          "url": "https://www.campsantaursula.com/terminos-y-condiciones-campamento-de-verano",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "Behaviour/phones/activityage, no es summeradmission",
+          "url": "https://www.campsantaursula.com/reglamento",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "Internationalcommunity no languageimmersion",
+          "url": "https://www.campsantaursula.com/post/un-campamento-con-experiencia-internacional-sin-salir-de-mexico",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "Security/nooffsite",
+          "url": "https://www.campsantaursula.com/seguridad",
+          "checked": "2026-10-05"
+        }
+      ],
+      "checked": "2026-10-05"
+    },
+    "CP612": {
+      "id": "CP612",
+      "slug": "tamarindo-elementary",
+      "provider": "Explornatura · Learn Spanish Summer Camp Elementary",
+      "country": "Costa Rica",
+      "iso": "CRI",
+      "place": "Tamarindo, Guanacaste; shuttle: Ali’s Treehouse Preschool",
+      "themes": [
+        "general",
+        "languages",
+        "sport",
+        "art"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Elementary 5–10; vecinos Pre-K y Middle School — grupos separados",
+      "language": "confirmado 10 horas de clases de español por semana. Bilingual staff y un profesor separado EN/ES mencionados, Pero el lenguaje del día, apoyo en inglés a un grupo concreto y las clases técnicas en EN No se confirmó.",
+      "confirmed_instruction_languages": [
+        "ES"
+      ],
+      "programme": "Programa de idiomas diarios: 10 horas de español a la semana, grupos por edad/nivel, creatividad, cocina, playa y naturaleza; una clase de surf con tabla y un viaje a la noche. para los niños que ya hablan español compruebe tareas avanzadas/native-speaker: es el descanso y la práctica del idioma, la robótica y la IA no se declaran. Elementary 10 horas, no las 16 horas del grupo mayor vecino.",
+      "timing": {
+        "status": "published_2027",
+        "label": "los nueve lunes claramente enumerados 2027: 14/21/28 de junio, 5/12/19/26 de julio, 2/9 de agosto. campamento de día de la–¿Qué es esto ? 08–14; los fines de los viernes se calculan según esta regla. las viejas semanas ocultas 2026 No se ha trasladado.",
+        "sessions": [
+          [
+            "2027-06-14",
+            "2027-06-18"
+          ],
+          [
+            "2027-06-21",
+            "2027-06-25"
+          ],
+          [
+            "2027-06-28",
+            "2027-07-02"
+          ],
+          [
+            "2027-07-05",
+            "2027-07-09"
+          ],
+          [
+            "2027-07-12",
+            "2027-07-16"
+          ],
+          [
+            "2027-07-19",
+            "2027-07-23"
+          ],
+          [
+            "2027-07-26",
+            "2027-07-30"
+          ],
+          [
+            "2027-08-02",
+            "2027-08-06"
+          ],
+          [
+            "2027-08-09",
+            "2027-08-13"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-06-14",
+            "end": "2027-06-18",
+            "variant_key": "week-1",
+            "label": "Elementary · ¿Qué es esto ?–¿Qué es esto ? 08–14",
+            "price": "$797/semana; moneda, registro y impuestos especificar",
+            "source": "https://learnspanishsummercamp.com/kids-summer-camp-ws",
+            "place": "Tamarindo, Guanacaste; shuttle: Ali’s Treehouse Preschool",
+            "date_precision": "published_rule",
+            "date_rule": "El sitio claramente enumera nueve Monday starts2027 y la regla Monday through Friday08–14; final de cada semana se calcula como el lunes+4días."
+          },
+          {
+            "start": "2027-06-21",
+            "end": "2027-06-25",
+            "variant_key": "week-2",
+            "label": "Elementary · ¿Qué es esto ?–¿Qué es esto ? 08–14",
+            "price": "$797/semana; moneda, registro y impuestos especificar",
+            "source": "https://learnspanishsummercamp.com/kids-summer-camp-ws",
+            "place": "Tamarindo, Guanacaste; shuttle: Ali’s Treehouse Preschool",
+            "date_precision": "published_rule",
+            "date_rule": "El sitio claramente enumera nueve Monday starts2027 y la regla Monday through Friday08–14; final de cada semana se calcula como el lunes+4días."
+          },
+          {
+            "start": "2027-06-28",
+            "end": "2027-07-02",
+            "variant_key": "week-3",
+            "label": "Elementary · ¿Qué es esto ?–¿Qué es esto ? 08–14",
+            "price": "$797/semana; moneda, registro y impuestos especificar",
+            "source": "https://learnspanishsummercamp.com/kids-summer-camp-ws",
+            "place": "Tamarindo, Guanacaste; shuttle: Ali’s Treehouse Preschool",
+            "date_precision": "published_rule",
+            "date_rule": "El sitio claramente enumera nueve Monday starts2027 y la regla Monday through Friday08–14; final de cada semana se calcula como el lunes+4días."
+          },
+          {
+            "start": "2027-07-05",
+            "end": "2027-07-09",
+            "variant_key": "week-4",
+            "label": "Elementary · ¿Qué es esto ?–¿Qué es esto ? 08–14",
+            "price": "$797/semana; moneda, registro y impuestos especificar",
+            "source": "https://learnspanishsummercamp.com/kids-summer-camp-ws",
+            "place": "Tamarindo, Guanacaste; shuttle: Ali’s Treehouse Preschool",
+            "date_precision": "published_rule",
+            "date_rule": "El sitio claramente enumera nueve Monday starts2027 y la regla Monday through Friday08–14; final de cada semana se calcula como el lunes+4días."
+          },
+          {
+            "start": "2027-07-12",
+            "end": "2027-07-16",
+            "variant_key": "week-5",
+            "label": "Elementary · ¿Qué es esto ?–¿Qué es esto ? 08–14",
+            "price": "$797/semana; moneda, registro y impuestos especificar",
+            "source": "https://learnspanishsummercamp.com/kids-summer-camp-ws",
+            "place": "Tamarindo, Guanacaste; shuttle: Ali’s Treehouse Preschool",
+            "date_precision": "published_rule",
+            "date_rule": "El sitio claramente enumera nueve Monday starts2027 y la regla Monday through Friday08–14; final de cada semana se calcula como el lunes+4días."
+          },
+          {
+            "start": "2027-07-19",
+            "end": "2027-07-23",
+            "variant_key": "week-6",
+            "label": "Elementary · ¿Qué es esto ?–¿Qué es esto ? 08–14",
+            "price": "$797/semana; moneda, registro y impuestos especificar",
+            "source": "https://learnspanishsummercamp.com/kids-summer-camp-ws",
+            "place": "Tamarindo, Guanacaste; shuttle: Ali’s Treehouse Preschool",
+            "date_precision": "published_rule",
+            "date_rule": "El sitio claramente enumera nueve Monday starts2027 y la regla Monday through Friday08–14; final de cada semana se calcula como el lunes+4días."
+          },
+          {
+            "start": "2027-07-26",
+            "end": "2027-07-30",
+            "variant_key": "week-7",
+            "label": "Elementary · ¿Qué es esto ?–¿Qué es esto ? 08–14",
+            "price": "$797/semana; moneda, registro y impuestos especificar",
+            "source": "https://learnspanishsummercamp.com/kids-summer-camp-ws",
+            "place": "Tamarindo, Guanacaste; shuttle: Ali’s Treehouse Preschool",
+            "date_precision": "published_rule",
+            "date_rule": "El sitio claramente enumera nueve Monday starts2027 y la regla Monday through Friday08–14; final de cada semana se calcula como el lunes+4días."
+          },
+          {
+            "start": "2027-08-02",
+            "end": "2027-08-06",
+            "variant_key": "week-8",
+            "label": "Elementary · ¿Qué es esto ?–¿Qué es esto ? 08–14",
+            "price": "$797/semana; moneda, registro y impuestos especificar",
+            "source": "https://learnspanishsummercamp.com/kids-summer-camp-ws",
+            "place": "Tamarindo, Guanacaste; shuttle: Ali’s Treehouse Preschool",
+            "date_precision": "published_rule",
+            "date_rule": "El sitio claramente enumera nueve Monday starts2027 y la regla Monday through Friday08–14; final de cada semana se calcula como el lunes+4días."
+          },
+          {
+            "start": "2027-08-09",
+            "end": "2027-08-13",
+            "variant_key": "week-9",
+            "label": "Elementary · ¿Qué es esto ?–¿Qué es esto ? 08–14",
+            "price": "$797/semana; moneda, registro y impuestos especificar",
+            "source": "https://learnspanishsummercamp.com/kids-summer-camp-ws",
+            "place": "Tamarindo, Guanacaste; shuttle: Ali’s Treehouse Preschool",
+            "date_precision": "published_rule",
+            "date_rule": "El sitio claramente enumera nueve Monday starts2027 y la regla Monday through Friday08–14; final de cada semana se calcula como el lunes+4días."
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "label": "en la página actual $797/el niño/la semana; Dos de ellos. $1 594 por el campamento. de la moneda, los impuestos y el cuento final. vivienda en una página separada: 1-bedroom $155/la noche, Studio $170, 2-bedroom $205; por lo menos 6 de noche. el ejemplo condicional de dos hijos + 6 de noche 1-bedroom: $2 524 hasta los cobros no establecidos y en la misma moneda.",
+        "included": "10 horas de español, clases enumeradas, una lección de surf con tabla, un viaje semanal, un desayuno y un almuerzo. No 24/7 alojamiento para Elementary.",
+        "extras": "alojamiento familiar, vuelo, transfer airport, extra surf/lecciones/niña y cursos de padres por separado. Shuttle pickup 07:40/drop14:00, el precio no se indica. alojamiento 1-bedroom/Studio hasta 4 personas; 2bedroom hasta 5. descuentos de alojamiento 14+ noches 15%, 28+ 30%, disponibilidad y año de tarifa confirme.",
+        "deposit": "de las relaciones terms se aplican para la selección Nov2025–temporada 2026, por lo que no se han entregado por el contrato 2027. en ellos $100 — 50% de la que no se devuelva registration fee, y no un cobro completo comprobado; 50% de pago, el resto por 8 una semana, cancellation200/student y de vuelta. de la actualidad hold100/credit25 no se acepta el precio del precio total o el descuento garantizado. ¿Qué es lo que se necesita? terms2027 y la suma final de registro."
+      },
+      "accommodation": "campamento de día; Los padres viven separados.. la vivienda del sitio: su propia cocina/las camas, por lo menos 6 de noche; número de la kitchenette el máximo 2 de la persona no es la habitación familiar en 4. de las declaraciones ratio5:1 y surf1:2 — información del operador, no es una verificación independiente. Under6 car seat rule no se aplica automáticamente al vuelo 2027 Oscar 6–7.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "En 2027 la edad entra en el rango publicado; el nivel del grupo, la recepción extranjera, el idioma y el lugar de trabajo aún se confirmarán."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "En 2027 la edad entra en el rango publicado; el nivel del grupo, la recepción extranjera, el idioma y el lugar de trabajo aún se confirmarán."
+        }
+      },
+      "editorial_reason": "cerca de casa es una opción común para ambos con fechas reales de 2027; la utilidad de la parte lingüística depende del nivel de su español.",
+      "shortlist": [
+        "both",
+        "general",
+        "local"
+      ],
+      "questions": [
+        "confirmar el grupo avanzado/native Spanish, el apoyo EN, el lugar, la cuenta completa en la moneda indicada, la vivienda/transporte y el contrato 2027."
+      ],
+      "sources": [
+        {
+          "title": "el programa Kids actual2027",
+          "url": "https://learnspanishsummercamp.com/kids-summer-camp-ws",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "Términos con manifiesta aplicación para 2026",
+          "url": "https://learnspanishsummercamp.com/terms623610-258659",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "alojamiento y tarifas nocturnas",
+          "url": "https://learnspanishsummercamp.com/beachfront-lodging-options",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "docentes nombrados",
+          "url": "https://learnspanishsummercamp.com/our-staff",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "Servicios adicionales",
+          "url": "https://learnspanishsummercamp.com/services",
+          "checked": "2026-10-05"
+        }
+      ],
+      "checked": "2026-10-05",
+      "language_evidence_role": "language_lessons"
+    },
+    "CP613": {
+      "id": "CP613",
+      "slug": "coyote-short",
+      "provider": "Camp Coyote · pensión corta de otoño e invierno",
+      "country": "México",
+      "iso": "MEX",
+      "place": "Km15 Carr. Zapotlanejo–Tototlán, Zapotlanejo, Jalisco",
+      "themes": [
+        "general",
+        "sport",
+        "art"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "6–14; campamento individual",
+      "language": "No se ha establecido el idioma EN/ES/RU de las actividades y acompañamiento concretos.",
+      "confirmed_instruction_languages": [],
+      "programme": "Autumn: naturaleza, caballos, obstáculos, hoses y questas. Winter: tiro con arco, bicicleta, caballos, creatividad y cocina. diferentes rotaciones de edad; actividades acuáticas/alturas concretas confirmar. programa general, sin la tecnología de los robots declarada.",
+      "timing": {
+        "status": "published_2026",
+        "label": "30 Oct–2 Nov2026:4 días 3 de noche; 21–23 Dec2026:3 días 2 de noche. su propia página escribe cupos abiertos, No es una confirmación de la matrícula..",
+        "sessions": [
+          [
+            "2026-10-30",
+            "2026-11-02"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-23"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-10-30",
+            "end": "2026-11-02",
+            "variant_key": "autumn",
+            "label": "Autumn · 4 días 3 noches",
+            "price": "MXN4 000/niño; dos 7 200; el adelanto 1 200 entra en el precio",
+            "source": "https://www.campcoyote.mx/",
+            "place": "Km15 Carr. Zapotlanejo–Tototlán, Zapotlanejo, Jalisco",
+            "availability": {
+              "status": "closed",
+              "label": "Otoño 2026 terminado; edición nueva aún sin fecha.",
+              "checked": "2026-11-06"
+            }
+          },
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-23",
+            "variant_key": "winter",
+            "label": "Invierno 3 días 2 noches",
+            "price": "MXN3 300/niños; early2 805 hasta 20 Nov; dos 5 940 sin early; adelanto 990",
+            "source": "https://www.campcoyote.mx/",
+            "place": "Km15 Carr. Zapotlanejo–Tototlán, Zapotlanejo, Jalisco",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Para esta fecha edad 9–9; curso 6–14. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Para esta fecha edad 6–6; curso 6–14. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
+              }
+            }
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "label": "Autumn MXN4 000/niños, adelanto 1 200; dos hermanos 7 200 por familia. Winter3 300, early2 805 hasta 20 Nov; dos 5 940, early dos 5 610 si se aplica. Winter adelanto 990/niños. se elige un descuento; earlydeadline no es la fecha de registro.",
+        "included": "Glamping, comida y descanso descritos; el paquete final se confirma.",
+        "extras": "el viaje/el vuelo, de seguro, el completo de las actividades pagadas y el transfer. de la escuela private groups minimum15/edad 5–18/el precio 1100+ — otro producto. los campamentos públicos individuales comienzan en 6, No , no . 5.",
+        "deposit": "30% de antelación no devuelta, el resto en efectivo al ingresar. cancelación/transferencia hasta 7 días: pago por un vaucar por más de un antelación del resto de 6 meses en los servicios del grupo, no cash refund. la certificación médica permite una transferencia hasta 1 año. los descuentos no se suman; el contrato final individual, la recepción extranjera y el lugar no se confirman."
+      },
+      "accommodation": "un pensión en las casas glamping: el acceso 11:00 el primer día / la salida 15:00 de la última; zonas separadas por suelo. la descripción promete 4–6 niños con conductor, tabla 3–4: la capacidad es diferente. la cama está encendida, Pero la lista de cosas pide una manta./el dormitorio/la almohada: especificar el conjunto. cinco comidas, incluyendo 2 un aperitivo; las alergias se informan con anticipación. paramédico y acompañamiento las veinticuatro horas, hospital en 12 en minutos — de los datos de la empresa. teléfono cerca 1 h/día bajo control.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Para esta fecha edad 9–9; curso 6–14. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Para esta fecha edad 6–6; curso 6–14. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
+        }
+      },
+      "editorial_reason": "una pequeña pensión común cerca de Guadalajara; candidato a los Oscar después de los 6 años.",
+      "shortlist": [
+        "general",
+        "boarding",
+        "local"
+      ],
+      "questions": [
+        "confirmar el DOB/lenguaje exacto, la preparación para la noche, el lugar, la habitación/cama, el transporte, el seguro y el contrato/cuenta completo; la cantidad del adelanto se incluye en el precio."
+      ],
+      "sources": [
+        {
+          "title": "Las propias estaciones, precios dinámicos y FAQ abiertos",
+          "url": "https://www.campcoyote.mx/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Read-only Autumn form",
+          "url": "https://www.campcoyote.mx/inscripcionescamp?program=oto%C3%B1o",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "Read-only Winter form",
+          "url": "https://www.campcoyote.mx/inscripcionescamp?program=invierno",
+          "checked": "2026-10-05"
+        }
+      ],
+      "checked": "2026-11-06"
+    },
+    "CP614": {
+      "id": "CP614",
+      "slug": "coyote-junior",
+      "provider": "Camp Coyote · Pascua / Verano Basic",
+      "country": "México",
+      "iso": "MEX",
+      "place": "Km15 Carr. Zapotlanejo–Tototlán, Zapotlanejo, Jalisco",
+      "themes": [
+        "general",
+        "sport",
+        "art"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "6–14; las dos temporadas 6 días 5 de noche",
+      "language": "No se ha establecido el idioma EN/ES/RU de las actividades y acompañamiento concretos.",
+      "confirmed_instruction_languages": [],
+      "programme": "Pascua: juegos, Easter crafts, caballos/coaster. Basic: primera noche, grupos menores, lake games, obstáculos y cuestas. es un outdoor general, sin curso de IA/robotía.",
+      "timing": {
+        "status": "partial_2027",
+        "label": "Pascua:29 de marzo–3 de abril 2027 en el calendario del operador. en otros bloques se quedan esperando las fechas y la marca REF.2026: el precio y apertura del conjunto confirmar. Basic: agosto 2027, No hay días precisos..",
+        "sessions": [
+          [
+            "2027-03-29",
+            "2027-04-03"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-03-29",
+            "end": "2027-04-03",
+            "variant_key": "pascua",
+            "label": "Pascua · 6 días 5 noches",
+            "price": "MXN6 500 / temprano 5 525, pero REF.2026; el precio final 2027 no se conoce",
+            "source": "https://www.campcoyote.mx/",
+            "place": "Km15 Carr. Zapotlanejo–Tototlán, Zapotlanejo, Jalisco",
+            "availability": {
+              "status": "waitlist",
+              "label": "en su propia página la hoja de espera; los lugares y el tarifa final2027 no se confirman",
+              "checked": "2026-10-05"
+            },
+            "proof": "la fecha exacta de su propia tarjeta visible. otros bloques aún están esperando a los horarios, aREF.2026/lista de espera se guardan; el conjunto no se ha anunciado abierto."
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": null,
+        "label": "En el precio actual MXN6 500, el precio temprano es 5 525; Pascua dos 11 700/avance 1 950 por niño. en el sitio se encuentra y 5 300, y la tarjeta Pascua conserva REF.2026: se necesita un tarifa escrita 2027. para Summer descuentos a hermanos/avance no se indican en la tabla.",
+        "included": "Glamping, alimentación y actividad general; el paquete completo confirme.",
+        "extras": "el viaje/el vuelo, de seguro, el completo de las actividades pagadas y el transfer. de la escuela private groups minimum15/edad 5–18/el precio 1100+ — otro producto. los campamentos públicos individuales comienzan en 6, No , no . 5.",
+        "deposit": "30% de antelación no devuelta, el resto en efectivo al ingresar. cancelación/transferencia hasta 7 días: pago por un vaucar por más de un antelación del resto de 6 meses en los servicios del grupo, no cash refund. la certificación médica permite una transferencia hasta 1 año. los descuentos no se suman; el contrato final individual, la recepción extranjera y el lugar no se confirman."
+      },
+      "accommodation": "un pensión en las casas glamping: el acceso 11:00 el primer día / la salida 15:00 de la última; zonas separadas por suelo. la descripción promete 4–6 niños con conductor, tabla 3–4: la capacidad es diferente. la cama está encendida, Pero la lista de cosas pide una manta./el dormitorio/la almohada: especificar el conjunto. cinco comidas, incluyendo 2 un aperitivo; las alergias se informan con anticipación. paramédico y acompañamiento las veinticuatro horas, hospital en 12 en minutos — de los datos de la empresa. teléfono cerca 1 h/día bajo control.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "En 2027 la edad entra en el rango publicado; el nivel del grupo, la recepción extranjera, el idioma y el lugar de trabajo aún se confirmarán."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "En 2027 la edad entra en el rango publicado; el nivel del grupo, la recepción extranjera, el idioma y el lugar de trabajo aún se confirmarán."
+        }
+      },
+      "editorial_reason": "una pensión común más larga para ambos; una opción separada del primer viaje, mientras que con una lista de espera y un conflicto de tarifa.",
+      "shortlist": [
+        "general",
+        "boarding"
+      ],
+      "questions": [
+        "confirmar el DOB/lenguaje exacto, la preparación para la noche, el lugar, la habitación/cama, el transporte, el seguro y el contrato/cuenta completo; la cantidad del adelanto se incluye en el precio."
+      ],
+      "sources": [
+        {
+          "title": "Las propias estaciones, precios dinámicos y FAQ abiertos",
+          "url": "https://www.campcoyote.mx/",
+          "checked": "2026-10-05"
+        }
+      ],
+      "checked": "2026-10-05",
+      "availability": {
+        "status": "waitlist",
+        "label": "en su propia página la hoja de espera; los lugares y el tarifa final2027 no se confirman",
+        "checked": "2026-10-05"
+      }
+    },
+    "CP615": {
+      "id": "CP615",
+      "slug": "coyote-pro",
+      "provider": "Camp Coyote · Verano Pro",
+      "country": "México",
+      "iso": "MEX",
+      "place": "Km15 Carr. Zapotlanejo–Tototlán, Zapotlanejo, Jalisco",
+      "themes": [
+        "general",
+        "sport"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "9–17; 8 días 7 de noche",
+      "language": "No se ha establecido el idioma EN/ES/RU de las actividades y acompañamiento concretos.",
+      "confirmed_instruction_languages": [],
+      "programme": "Los más complejos de los equipos físicos y de los equipos, las tareas de la línea de seguridad, las rotación de edad y los juegos nocturnos.",
+      "timing": {
+        "status": "partial_2027",
+        "label": "Julio 2027 sin días específicos, lista de espera.",
+        "sessions": []
+      },
+      "price": {
+        "year": 2027,
+        "label": "El precio actual es de MXN8 500, el precio anterior es de 7 225 sin fecha de publicación; en el sitio web se encuentra también 7 100.",
+        "included": "Glamping, comida y aventuras; la composición exacta del paquete confirmar.",
+        "extras": "el viaje/el vuelo, de seguro, el completo de las actividades pagadas y el transfer. de la escuela private groups minimum15/edad 5–18/el precio 1100+ — otro producto. los campamentos públicos individuales comienzan en 6, No , no . 5.",
+        "deposit": "30% de antelación no devuelta, el resto en efectivo al ingresar. cancelación/transferencia hasta 7 días: pago por un vaucar por más de un antelación del resto de 6 meses en los servicios del grupo, no cash refund. la certificación médica permite una transferencia hasta 1 año. los descuentos no se suman; el contrato final individual, la recepción extranjera y el lugar no se confirman."
+      },
+      "accommodation": "un pensión en las casas glamping: el acceso 11:00 el primer día / la salida 15:00 de la última; zonas separadas por suelo. la descripción promete 4–6 niños con conductor, tabla 3–4: la capacidad es diferente. la cama está encendida, Pero la lista de cosas pide una manta./el dormitorio/la almohada: especificar el conjunto. cinco comidas, incluyendo 2 un aperitivo; las alergias se informan con anticipación. paramédico y acompañamiento las veinticuatro horas, hospital en 12 en minutos — de los datos de la empresa. teléfono cerca 1 h/día bajo control.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "en el 2027 ¿Qué es lo que va a ser? 9–10: de la cantidad gate9+ se ejecuta; lenguaje/actividad física/los lugares aún acordar."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "en el 2027 ¿Qué es lo que va a ser? 6–7, por lo menos 9."
+        }
+      },
+      "editorial_reason": "Matvey, un gran track general, un horario de verano preciso y un contrato.",
+      "shortlist": [
+        "general",
+        "boarding"
+      ],
+      "questions": [
+        "confirmar el DOB/lenguaje exacto, la preparación para la noche, el lugar, la habitación/cama, el transporte, el seguro y el contrato/cuenta completo; la cantidad del adelanto se incluye en el precio."
+      ],
+      "sources": [
+        {
+          "title": "Las propias estaciones, precios dinámicos y FAQ abiertos",
+          "url": "https://www.campcoyote.mx/",
+          "checked": "2026-10-05"
+        }
+      ],
+      "checked": "2026-10-05",
+      "availability": {
+        "status": "waitlist",
+        "label": "Summer Pro: lista de espera propia, días precisos aún no publicados",
+        "checked": "2026-10-05"
+      }
+    },
+    "CP1124": {
+      "id": "CP1124",
+      "slug": "fod-juguemos-robots-2026-27",
+      "provider": "FOD Líderes del Futuro · Juguemos a crear Robots",
+      "country": "Costa Rica",
+      "iso": "CRI",
+      "place": "Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "6–8 años; confirmar corte, curso escolar no sustituye edad",
+      "language": "Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.",
+      "confirmed_instruction_languages": [],
+      "programme": "Formulario publica nombre, edad, fechas y horario. Temario detallado, versión del equipo / dispositivo, tamaño de grupo y resultados docentes sin detallar. 5 días de 4 horas = 20 horas de estancia; pausas sin describir.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Diciembre 2026 — enero 2027; cursos concretos de 5 días según horario publicado.",
+        "sessions": [
+          [
+            "2026-12-07",
+            "2026-12-11"
+          ],
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ],
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-07",
+            "end": "2026-12-11",
+            "label": "Juguemos a crear Robots",
+            "source": "https://survey.zohopublic.com/zs/SjzWbS",
+            "price": "60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos.",
+            "age": "6–8 años según opción del formulario",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Para esta fecha edad 9–9; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Para esta fecha edad 6–6; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-07",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Juguemos a crear Robots",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              },
+              {
+                "date": "2026-12-08",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Juguemos a crear Robots",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              },
+              {
+                "date": "2026-12-09",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Juguemos a crear Robots",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              },
+              {
+                "date": "2026-12-10",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Juguemos a crear Robots",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              },
+              {
+                "date": "2026-12-11",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Juguemos a crear Robots",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              }
+            ],
+            "proof": "Leídas opciones públicas del formulario del operador: edad, fechas y horas exactas. Sin datos familiares ni envío."
+          },
+          {
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "label": "Juguemos a crear Robots",
+            "source": "https://survey.zohopublic.com/zs/SjzWbS",
+            "price": "60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos.",
+            "age": "6–8 años según opción del formulario",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Para esta fecha edad 9–10; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Para esta fecha edad 6–7; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Juguemos a crear Robots",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              },
+              {
+                "date": "2027-01-12",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Juguemos a crear Robots",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              },
+              {
+                "date": "2027-01-13",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Juguemos a crear Robots",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              },
+              {
+                "date": "2027-01-14",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Juguemos a crear Robots",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              },
+              {
+                "date": "2027-01-15",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Juguemos a crear Robots",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              }
+            ],
+            "proof": "Leídas opciones públicas del formulario del operador: edad, fechas y horas exactas. Sin datos familiares ni envío."
+          },
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Juguemos a crear Robots",
+            "source": "https://survey.zohopublic.com/zs/SjzWbS",
+            "price": "60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos.",
+            "age": "6–8 años según opción del formulario",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Para esta fecha edad 9–10; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Para esta fecha edad 6–7; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Juguemos a crear Robots",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              },
+              {
+                "date": "2027-01-26",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Juguemos a crear Robots",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              },
+              {
+                "date": "2027-01-27",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Juguemos a crear Robots",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              },
+              {
+                "date": "2027-01-28",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Juguemos a crear Robots",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              },
+              {
+                "date": "2027-01-29",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Juguemos a crear Robots",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              }
+            ],
+            "proof": "Leídas opciones públicas del formulario del operador: edad, fechas y horas exactas. Sin datos familiares ni envío."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "season": "2026/27",
+        "currency": "CRC",
+        "amount": 60000,
+        "tax_included": true,
+        "unit": "course",
+        "label": "60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos.",
+        "included": "Precio de curso con impuesto; confirmar contenido del kit y préstamo de dispositivo.",
+        "extras": "Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar.",
+        "deposit": "100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar."
+      },
+      "accommodation": "Curso diurno en sede central FOD; sin alojamiento nocturno.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Edad revisada por turno con edades actuales conocidas de 9 y 6. Grupos de edades distintas pueden coincidir en sede y horario; apertura y ambas plazas aparte."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Edad revisada por turno con edades actuales conocidas de 9 y 6. Grupos de edades distintas pueden coincidir en sede y horario; apertura y ambas plazas aparte."
+        }
+      },
+      "editorial_reason": "Opción próxima con horario y precio concretos; curso educativo, sin premio internacional ni ranking mundial demostrado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar idioma docente, admisión con pasaporte / DIMEX, plaza, corte de edad y nivel.",
+        "Aclarar robot, dispositivo, materiales, comida e importe total; comprobar preparación para niveles superiores.",
+        "La familia revisa pago, cancelación y elección de consentimiento de imagen; formulario no completado ni enviado."
+      ],
+      "sources": [
+        {
+          "title": "Anuncio oficial de temporada",
+          "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Programa público, fechas y condiciones de precio",
+          "url": "https://survey.zohopublic.com/zs/SjzWbS",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "pairing": {
+        "venue_id": "fod-central-francisco-peralta",
+        "verified_source": "https://survey.zohopublic.com/zs/SjzWbS",
+        "checked": "2026-11-06",
+        "fee": {
+          "amount": 60000,
+          "currency": "CRC",
+          "unit": "per_child_course",
+          "tax_included": true
+        }
+      }
+    },
+    "CP1125": {
+      "id": "CP1125",
+      "slug": "fod-historias-animadas-2026-27",
+      "provider": "FOD Líderes del Futuro · Mis Historias Animadas",
+      "country": "Costa Rica",
+      "iso": "CRI",
+      "place": "Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta",
+      "themes": [
+        "coding",
+        "arts"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "6–8 años; confirmar corte, curso escolar no sustituye edad",
+      "language": "Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.",
+      "confirmed_instruction_languages": [],
+      "programme": "Formulario publica nombre, edad, fechas y horario. Temario detallado, versión del equipo / dispositivo, tamaño de grupo y resultados docentes sin detallar. 5 días de 4 horas = 20 horas de estancia; pausas sin describir.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Diciembre 2026 — enero 2027; cursos concretos de 5 días según horario publicado.",
+        "sessions": [
+          [
+            "2027-01-18",
+            "2027-01-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-18",
+            "end": "2027-01-22",
+            "label": "Mis Historias Animadas",
+            "source": "https://survey.zohopublic.com/zs/SjzWbS",
+            "price": "60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos.",
+            "age": "6–8 años según opción del formulario",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Para esta fecha edad 9–10; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Para esta fecha edad 6–7; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Mis Historias Animadas",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              },
+              {
+                "date": "2027-01-19",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Mis Historias Animadas",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              },
+              {
+                "date": "2027-01-20",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Mis Historias Animadas",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              },
+              {
+                "date": "2027-01-21",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Mis Historias Animadas",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              },
+              {
+                "date": "2027-01-22",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Mis Historias Animadas",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              }
+            ],
+            "proof": "Leídas opciones públicas del formulario del operador: edad, fechas y horas exactas. Sin datos familiares ni envío."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "season": "2026/27",
+        "currency": "CRC",
+        "amount": 60000,
+        "tax_included": true,
+        "unit": "course",
+        "label": "60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos.",
+        "included": "Precio de curso con impuesto; confirmar contenido del kit y préstamo de dispositivo.",
+        "extras": "Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar.",
+        "deposit": "100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar."
+      },
+      "accommodation": "Curso diurno en sede central FOD; sin alojamiento nocturno.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Edad revisada por turno con edades actuales conocidas de 9 y 6. Grupos de edades distintas pueden coincidir en sede y horario; apertura y ambas plazas aparte."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Edad revisada por turno con edades actuales conocidas de 9 y 6. Grupos de edades distintas pueden coincidir en sede y horario; apertura y ambas plazas aparte."
+        }
+      },
+      "editorial_reason": "Opción próxima con horario y precio concretos; curso educativo, sin premio internacional ni ranking mundial demostrado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar idioma docente, admisión con pasaporte / DIMEX, plaza, corte de edad y nivel.",
+        "Aclarar robot, dispositivo, materiales, comida e importe total; comprobar preparación para niveles superiores.",
+        "La familia revisa pago, cancelación y elección de consentimiento de imagen; formulario no completado ni enviado."
+      ],
+      "sources": [
+        {
+          "title": "Anuncio oficial de temporada",
+          "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Programa público, fechas y condiciones de precio",
+          "url": "https://survey.zohopublic.com/zs/SjzWbS",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "pairing": {
+        "venue_id": "fod-central-francisco-peralta",
+        "verified_source": "https://survey.zohopublic.com/zs/SjzWbS",
+        "checked": "2026-11-06",
+        "fee": {
+          "amount": 60000,
+          "currency": "CRC",
+          "unit": "per_child_course",
+          "tax_included": true
+        }
+      }
+    },
+    "CP1126": {
+      "id": "CP1126",
+      "slug": "fod-creatividad-7-9-2026-27",
+      "provider": "FOD Líderes del Futuro · Creatividad y diseño con robótica · 7–9",
+      "country": "Costa Rica",
+      "iso": "CRI",
+      "place": "Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta",
+      "themes": [
+        "robotics",
+        "makers"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "7–9 años; confirmar corte, curso escolar no sustituye edad",
+      "language": "Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.",
+      "confirmed_instruction_languages": [],
+      "programme": "Formulario publica nombre, edad, fechas y horario. Temario detallado, versión del equipo / dispositivo, tamaño de grupo y resultados docentes sin detallar. 5 días de 4 horas = 20 horas de estancia; pausas sin describir.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Diciembre 2026 — enero 2027; cursos concretos de 5 días según horario publicado.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Creatividad y diseño con robótica · 7–9",
+            "source": "https://survey.zohopublic.com/zs/SjzWbS",
+            "price": "60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos.",
+            "age": "7–9 años según opción del formulario",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Para esta fecha edad 9–10; curso 7–9. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Para esta fecha edad 6–7; curso 7–9. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Creatividad y diseño con robótica · 7–9",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              },
+              {
+                "date": "2027-01-26",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Creatividad y diseño con robótica · 7–9",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              },
+              {
+                "date": "2027-01-27",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Creatividad y diseño con robótica · 7–9",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              },
+              {
+                "date": "2027-01-28",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Creatividad y diseño con robótica · 7–9",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              },
+              {
+                "date": "2027-01-29",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Creatividad y diseño con robótica · 7–9",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              }
+            ],
+            "proof": "Leídas opciones públicas del formulario del operador: edad, fechas y horas exactas. Sin datos familiares ni envío."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "season": "2026/27",
+        "currency": "CRC",
+        "amount": 60000,
+        "tax_included": true,
+        "unit": "course",
+        "label": "60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos.",
+        "included": "Precio de curso con impuesto; confirmar contenido del kit y préstamo de dispositivo.",
+        "extras": "Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar.",
+        "deposit": "100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar."
+      },
+      "accommodation": "Curso diurno en sede central FOD; sin alojamiento nocturno.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Edad revisada por turno con edades actuales conocidas de 9 y 6. Grupos de edades distintas pueden coincidir en sede y horario; apertura y ambas plazas aparte."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Edad revisada por turno con edades actuales conocidas de 9 y 6. Grupos de edades distintas pueden coincidir en sede y horario; apertura y ambas plazas aparte."
+        }
+      },
+      "editorial_reason": "Opción próxima con horario y precio concretos; curso educativo, sin premio internacional ni ranking mundial demostrado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar idioma docente, admisión con pasaporte / DIMEX, plaza, corte de edad y nivel.",
+        "Aclarar robot, dispositivo, materiales, comida e importe total; comprobar preparación para niveles superiores.",
+        "La familia revisa pago, cancelación y elección de consentimiento de imagen; formulario no completado ni enviado."
+      ],
+      "sources": [
+        {
+          "title": "Anuncio oficial de temporada",
+          "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Programa público, fechas y condiciones de precio",
+          "url": "https://survey.zohopublic.com/zs/SjzWbS",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "pairing": {
+        "venue_id": "fod-central-francisco-peralta",
+        "verified_source": "https://survey.zohopublic.com/zs/SjzWbS",
+        "checked": "2026-11-06",
+        "fee": {
+          "amount": 60000,
+          "currency": "CRC",
+          "unit": "per_child_course",
+          "tax_included": true
+        }
+      }
+    },
+    "CP1127": {
+      "id": "CP1127",
+      "slug": "fod-robotica-nivel-1-2026-27",
+      "provider": "FOD Líderes del Futuro · Nivel 1 · Principios de construcción y programación",
+      "country": "Costa Rica",
+      "iso": "CRI",
+      "place": "Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "9–12 años; confirmar corte, curso escolar no sustituye edad",
+      "language": "Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.",
+      "confirmed_instruction_languages": [],
+      "programme": "Formulario publica nombre, edad, fechas y horario. Temario detallado, versión del equipo / dispositivo, tamaño de grupo y resultados docentes sin detallar. 5 días de 4 horas = 20 horas de estancia; pausas sin describir.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Diciembre 2026 — enero 2027; cursos concretos de 5 días según horario publicado.",
+        "sessions": [
+          [
+            "2026-12-07",
+            "2026-12-11"
+          ],
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-07",
+            "end": "2026-12-11",
+            "label": "Nivel 1 · Principios de construcción y programación",
+            "source": "https://survey.zohopublic.com/zs/SjzWbS",
+            "price": "60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos.",
+            "age": "9–12 años según opción del formulario",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Para esta fecha edad 9–9; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Para esta fecha edad 6–6; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-07",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Principios de construcción y programación",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              },
+              {
+                "date": "2026-12-08",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Principios de construcción y programación",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              },
+              {
+                "date": "2026-12-09",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Principios de construcción y programación",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              },
+              {
+                "date": "2026-12-10",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Principios de construcción y programación",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              },
+              {
+                "date": "2026-12-11",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Principios de construcción y programación",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              }
+            ],
+            "proof": "Leídas opciones públicas del formulario del operador: edad, fechas y horas exactas. Sin datos familiares ni envío."
+          },
+          {
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "label": "Nivel 1 · Principios de construcción y programación",
+            "source": "https://survey.zohopublic.com/zs/SjzWbS",
+            "price": "60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos.",
+            "age": "9–12 años según opción del formulario",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Para esta fecha edad 9–10; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Para esta fecha edad 6–7; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Principios de construcción y programación",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              },
+              {
+                "date": "2027-01-12",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Principios de construcción y programación",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              },
+              {
+                "date": "2027-01-13",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Principios de construcción y programación",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              },
+              {
+                "date": "2027-01-14",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Principios de construcción y programación",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              },
+              {
+                "date": "2027-01-15",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Principios de construcción y programación",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              }
+            ],
+            "proof": "Leídas opciones públicas del formulario del operador: edad, fechas y horas exactas. Sin datos familiares ni envío."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "season": "2026/27",
+        "currency": "CRC",
+        "amount": 60000,
+        "tax_included": true,
+        "unit": "course",
+        "label": "60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos.",
+        "included": "Precio de curso con impuesto; confirmar contenido del kit y préstamo de dispositivo.",
+        "extras": "Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar.",
+        "deposit": "100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar."
+      },
+      "accommodation": "Curso diurno en sede central FOD; sin alojamiento nocturno.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Edad revisada por turno con edades actuales conocidas de 9 y 6. Grupos de edades distintas pueden coincidir en sede y horario; apertura y ambas plazas aparte."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Edad revisada por turno con edades actuales conocidas de 9 y 6. Grupos de edades distintas pueden coincidir en sede y horario; apertura y ambas plazas aparte."
+        }
+      },
+      "editorial_reason": "Opción próxima con horario y precio concretos; curso educativo, sin premio internacional ni ranking mundial demostrado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar idioma docente, admisión con pasaporte / DIMEX, plaza, corte de edad y nivel.",
+        "Aclarar robot, dispositivo, materiales, comida e importe total; comprobar preparación para niveles superiores.",
+        "La familia revisa pago, cancelación y elección de consentimiento de imagen; formulario no completado ni enviado."
+      ],
+      "sources": [
+        {
+          "title": "Anuncio oficial de temporada",
+          "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Programa público, fechas y condiciones de precio",
+          "url": "https://survey.zohopublic.com/zs/SjzWbS",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "pairing": {
+        "venue_id": "fod-central-francisco-peralta",
+        "verified_source": "https://survey.zohopublic.com/zs/SjzWbS",
+        "checked": "2026-11-06",
+        "fee": {
+          "amount": 60000,
+          "currency": "CRC",
+          "unit": "per_child_course",
+          "tax_included": true
+        }
+      }
+    },
+    "CP1128": {
+      "id": "CP1128",
+      "slug": "fod-robotica-nivel-2-2026-27",
+      "provider": "FOD Líderes del Futuro · Nivel 2 · Sistemas inteligentes: sensores y engranajes",
+      "country": "Costa Rica",
+      "iso": "CRI",
+      "place": "Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "9–12 años; confirmar corte, curso escolar no sustituye edad",
+      "language": "Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.",
+      "confirmed_instruction_languages": [],
+      "programme": "Formulario publica nombre, edad, fechas y horario. Temario detallado, versión del equipo / dispositivo, tamaño de grupo y resultados docentes sin detallar. 5 días de 4 horas = 20 horas de estancia; pausas sin describir.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Diciembre 2026 — enero 2027; cursos concretos de 5 días según horario publicado.",
+        "sessions": [
+          [
+            "2027-01-18",
+            "2027-01-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-18",
+            "end": "2027-01-22",
+            "label": "Nivel 2 · Sistemas inteligentes: sensores y engranajes",
+            "source": "https://survey.zohopublic.com/zs/SjzWbS",
+            "price": "60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos.",
+            "age": "9–12 años según opción del formulario",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Para esta fecha edad 9–10; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Para esta fecha edad 6–7; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 2 · Sistemas inteligentes: sensores y engranajes",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              },
+              {
+                "date": "2027-01-19",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 2 · Sistemas inteligentes: sensores y engranajes",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              },
+              {
+                "date": "2027-01-20",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 2 · Sistemas inteligentes: sensores y engranajes",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              },
+              {
+                "date": "2027-01-21",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 2 · Sistemas inteligentes: sensores y engranajes",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              },
+              {
+                "date": "2027-01-22",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 2 · Sistemas inteligentes: sensores y engranajes",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              }
+            ],
+            "proof": "Leídas opciones públicas del formulario del operador: edad, fechas y horas exactas. Sin datos familiares ni envío."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "season": "2026/27",
+        "currency": "CRC",
+        "amount": 60000,
+        "tax_included": true,
+        "unit": "course",
+        "label": "60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos.",
+        "included": "Precio de curso con impuesto; confirmar contenido del kit y préstamo de dispositivo.",
+        "extras": "Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar.",
+        "deposit": "100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar."
+      },
+      "accommodation": "Curso diurno en sede central FOD; sin alojamiento nocturno.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Edad revisada por turno con edades actuales conocidas de 9 y 6. Grupos de edades distintas pueden coincidir en sede y horario; apertura y ambas plazas aparte."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Edad revisada por turno con edades actuales conocidas de 9 y 6. Grupos de edades distintas pueden coincidir en sede y horario; apertura y ambas plazas aparte."
+        }
+      },
+      "editorial_reason": "Opción próxima con horario y precio concretos; curso educativo, sin premio internacional ni ranking mundial demostrado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar idioma docente, admisión con pasaporte / DIMEX, plaza, corte de edad y nivel.",
+        "Aclarar robot, dispositivo, materiales, comida e importe total; comprobar preparación para niveles superiores.",
+        "La familia revisa pago, cancelación y elección de consentimiento de imagen; formulario no completado ni enviado."
+      ],
+      "sources": [
+        {
+          "title": "Anuncio oficial de temporada",
+          "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Programa público, fechas y condiciones de precio",
+          "url": "https://survey.zohopublic.com/zs/SjzWbS",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "pairing": {
+        "venue_id": "fod-central-francisco-peralta",
+        "verified_source": "https://survey.zohopublic.com/zs/SjzWbS",
+        "checked": "2026-11-06",
+        "fee": {
+          "amount": 60000,
+          "currency": "CRC",
+          "unit": "per_child_course",
+          "tax_included": true
+        }
+      }
+    },
+    "CP1129": {
+      "id": "CP1129",
+      "slug": "fod-robotica-nivel-3-2026-27",
+      "provider": "FOD Líderes del Futuro · Nivel 3 · Grados de libertad, sincronización y publicación",
+      "country": "Costa Rica",
+      "iso": "CRI",
+      "place": "Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "9–12 años; confirmar corte, curso escolar no sustituye edad",
+      "language": "Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.",
+      "confirmed_instruction_languages": [],
+      "programme": "Formulario publica nombre, edad, fechas y horario. Temario detallado, versión del equipo / dispositivo, tamaño de grupo y resultados docentes sin detallar. 5 días de 4 horas = 20 horas de estancia; pausas sin describir.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Diciembre 2026 — enero 2027; cursos concretos de 5 días según horario publicado.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Nivel 3 · Grados de libertad, sincronización y publicación",
+            "source": "https://survey.zohopublic.com/zs/SjzWbS",
+            "price": "60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos.",
+            "age": "9–12 años según opción del formulario",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Para esta fecha edad 9–10; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Para esta fecha edad 6–7; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "start_time": "13:00",
+                "end_time": "17:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 3 · Grados de libertad, sincronización y publicación",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              },
+              {
+                "date": "2027-01-26",
+                "start_time": "13:00",
+                "end_time": "17:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 3 · Grados de libertad, sincronización y publicación",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              },
+              {
+                "date": "2027-01-27",
+                "start_time": "13:00",
+                "end_time": "17:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 3 · Grados de libertad, sincronización y publicación",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              },
+              {
+                "date": "2027-01-28",
+                "start_time": "13:00",
+                "end_time": "17:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 3 · Grados de libertad, sincronización y publicación",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              },
+              {
+                "date": "2027-01-29",
+                "start_time": "13:00",
+                "end_time": "17:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 3 · Grados de libertad, sincronización y publicación",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              }
+            ],
+            "proof": "Leídas opciones públicas del formulario del operador: edad, fechas y horas exactas. Sin datos familiares ni envío."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "season": "2026/27",
+        "currency": "CRC",
+        "amount": 60000,
+        "tax_included": true,
+        "unit": "course",
+        "label": "60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos.",
+        "included": "Precio de curso con impuesto; confirmar contenido del kit y préstamo de dispositivo.",
+        "extras": "Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar.",
+        "deposit": "100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar."
+      },
+      "accommodation": "Curso diurno en sede central FOD; sin alojamiento nocturno.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Edad revisada por turno con edades actuales conocidas de 9 y 6. Grupos de edades distintas pueden coincidir en sede y horario; apertura y ambas plazas aparte."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Edad revisada por turno con edades actuales conocidas de 9 y 6. Grupos de edades distintas pueden coincidir en sede y horario; apertura y ambas plazas aparte."
+        }
+      },
+      "editorial_reason": "Opción próxima con horario y precio concretos; curso educativo, sin premio internacional ni ranking mundial demostrado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar idioma docente, admisión con pasaporte / DIMEX, plaza, corte de edad y nivel.",
+        "Aclarar robot, dispositivo, materiales, comida e importe total; comprobar preparación para niveles superiores.",
+        "La familia revisa pago, cancelación y elección de consentimiento de imagen; formulario no completado ni enviado."
+      ],
+      "sources": [
+        {
+          "title": "Anuncio oficial de temporada",
+          "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Programa público, fechas y condiciones de precio",
+          "url": "https://survey.zohopublic.com/zs/SjzWbS",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "pairing": {
+        "venue_id": "fod-central-francisco-peralta",
+        "verified_source": "https://survey.zohopublic.com/zs/SjzWbS",
+        "checked": "2026-11-06",
+        "fee": {
+          "amount": 60000,
+          "currency": "CRC",
+          "unit": "per_child_course",
+          "tax_included": true
+        }
+      }
+    },
+    "CP1130": {
+      "id": "CP1130",
+      "slug": "fod-robotica-nivel-4-2026-27",
+      "provider": "FOD Líderes del Futuro · Nivel 4 · Líneas de procesamiento y acciones de datos",
+      "country": "Costa Rica",
+      "iso": "CRI",
+      "place": "Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "9–16 años; confirmar corte, curso escolar no sustituye edad",
+      "language": "Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.",
+      "confirmed_instruction_languages": [],
+      "programme": "Formulario publica nombre, edad, fechas y horario. Temario detallado, versión del equipo / dispositivo, tamaño de grupo y resultados docentes sin detallar. 5 días de 4 horas = 20 horas de estancia; pausas sin describir.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Diciembre 2026 — enero 2027; cursos concretos de 5 días según horario publicado.",
+        "sessions": [
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "label": "Nivel 4 · Líneas de procesamiento y acciones de datos",
+            "source": "https://survey.zohopublic.com/zs/SjzWbS",
+            "price": "60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos.",
+            "age": "9–16 años según opción del formulario",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Para esta fecha edad 9–10; curso 9–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Para esta fecha edad 6–7; curso 9–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "start_time": "13:00",
+                "end_time": "17:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 4 · Líneas de procesamiento y acciones de datos",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              },
+              {
+                "date": "2027-01-12",
+                "start_time": "13:00",
+                "end_time": "17:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 4 · Líneas de procesamiento y acciones de datos",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              },
+              {
+                "date": "2027-01-13",
+                "start_time": "13:00",
+                "end_time": "17:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 4 · Líneas de procesamiento y acciones de datos",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              },
+              {
+                "date": "2027-01-14",
+                "start_time": "13:00",
+                "end_time": "17:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 4 · Líneas de procesamiento y acciones de datos",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              },
+              {
+                "date": "2027-01-15",
+                "start_time": "13:00",
+                "end_time": "17:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 4 · Líneas de procesamiento y acciones de datos",
+                "time_note": "Hora local; pausas dentro del bloque sin describir"
+              }
+            ],
+            "proof": "Leídas opciones públicas del formulario del operador: edad, fechas y horas exactas. Sin datos familiares ni envío."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "season": "2026/27",
+        "currency": "CRC",
+        "amount": 60000,
+        "tax_included": true,
+        "unit": "course",
+        "label": "60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos.",
+        "included": "Precio de curso con impuesto; confirmar contenido del kit y préstamo de dispositivo.",
+        "extras": "Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar.",
+        "deposit": "100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar."
+      },
+      "accommodation": "Curso diurno en sede central FOD; sin alojamiento nocturno.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Edad revisada por turno con edades actuales conocidas de 9 y 6. Grupos de edades distintas pueden coincidir en sede y horario; apertura y ambas plazas aparte."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Edad revisada por turno con edades actuales conocidas de 9 y 6. Grupos de edades distintas pueden coincidir en sede y horario; apertura y ambas plazas aparte."
+        }
+      },
+      "editorial_reason": "Opción próxima con horario y precio concretos; curso educativo, sin premio internacional ni ranking mundial demostrado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar idioma docente, admisión con pasaporte / DIMEX, plaza, corte de edad y nivel.",
+        "Aclarar robot, dispositivo, materiales, comida e importe total; comprobar preparación para niveles superiores.",
+        "La familia revisa pago, cancelación y elección de consentimiento de imagen; formulario no completado ni enviado."
+      ],
+      "sources": [
+        {
+          "title": "Anuncio oficial de temporada",
+          "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Programa público, fechas y condiciones de precio",
+          "url": "https://survey.zohopublic.com/zs/SjzWbS",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "pairing": {
+        "venue_id": "fod-central-francisco-peralta",
+        "verified_source": "https://survey.zohopublic.com/zs/SjzWbS",
+        "checked": "2026-11-06",
+        "fee": {
+          "amount": 60000,
+          "currency": "CRC",
+          "unit": "per_child_course",
+          "tax_included": true
+        }
+      }
+    }
+  },
+  "new_budget_offer_ids": [
+    "coyote-winter-two-siblings-2026",
+    "coyote-pascua-two-siblings-2027",
+    "ojo-ciego-two-weeks-two-2027",
+    "santa-ursula-seven-days-two-2027",
+    "santa-ursula-extended-two-2027",
+    "fod-family-parallel-2027-01-25"
+  ],
+  "modified_budget_offer_ids": [
+    "fod-family-parallel-2027-01-18"
+  ],
+  "previous_budget_offers": {
+    "fod-family-parallel-2027-01-18": {
+      "id": "fod-family-parallel-2027-01-18",
+      "slug": "fod-historias-animadas-2026-27",
+      "label": "FOD · grupos distintos de ambos niños · 2027-01-18",
+      "currency": "CRC",
+      "price_year": 2027,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "base_by_child": {
+        "matvey": 60000,
+        "oscar": 60000
+      },
+      "discount_second": 0,
+      "required": [],
+      "unknown_required": [
+        {
+          "id": "materials",
+          "label": "Dispositivo / materiales y suplementos obligatorios según factura final",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [],
+      "sources": [
+        "https://survey.zohopublic.com/zs/SjzWbS"
+      ],
+      "sessions": [
+        [
+          "2027-01-18",
+          "2027-01-22"
+        ]
+      ],
+      "gate": "Matvey 9–12; Oscar 6–8. Cursos diferentes en una sede confirmada, ambos 08:00–12:00, cinco días. Confirmar ambas plazas, idioma de trabajo y nivel.",
+      "deposit_note": "100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.",
+      "included": "Dos cursos de CRC 60000 con IVAI: parte publicada CRC 120000. Dos medias jornadas paralelas, no día completo de cuidado.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos. Transporte, gastos parentales, seguro, comidas fuera de inclusiones y suplementos desconocidos aparte; campo vacío no equivale a cero.",
+      "checked": "2026-11-06",
+      "format": "day",
+      "programme_ids": [
+        "CP1128",
+        "CP1125"
+      ]
+    }
+  },
+  "budget_offers": [
+    {
+      "id": "coyote-winter-two-siblings-2026",
+      "slug": "coyote-short",
+      "label": "Coyote · invierno · dos hermanos · tarifa familiar",
+      "currency": "MXN",
+      "price_year": 2026,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "base_by_child": {
+        "matvey": 2970,
+        "oscar": 2970
+      },
+      "discount_second": 0,
+      "required": [],
+      "unknown_required": [
+        {
+          "id": "invoice_extras",
+          "label": "Cargos obligatorios finales, seguro y condiciones de factura",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [],
+      "sources": [
+        "https://www.campcoyote.mx/",
+        "https://www.campcoyote.mx/inscripcionescamp?program=oto%C3%B1o",
+        "https://www.campcoyote.mx/inscripcionescamp?program=invierno",
+        "https://docs.google.com/spreadsheets/d/e/2PACX-1vQmamoxIz52nN7VHT4ABvzFkF0NF2swOSttUOSxPB74rMk8O5QOZhnzq8lPru6nUK05qvr9sl-D8L4K/pub?gid=1739074332&single=true&output=csv",
+        "https://www.campcoyote.mx/enroll.js"
+      ],
+      "sessions": [
+        [
+          "2026-12-21",
+          "2026-12-23"
+        ]
+      ],
+      "gate": "Ambas edades 6–14 encajan; confirmar idioma, preparación para dos noches y plazas reales.",
+      "deposit_note": "El anticipo del 30% no es reembolsable y forma parte del total; saldo en efectivo al llegar. Hasta siete días antes se permite cancelar/cambiar: lo pagado por encima del anticipo se devuelve como bono por seis meses, no en dinero. Con justificante médico se puede aplazar hasta un año. Los descuentos no se acumulan; confirmar admisión, contrato final y plazas.",
+      "included": "Dos participantes con descuento del 10% sobre la base ordinaria total. El anticipo de 1980 forma parte de 5940, saldo de 3960; el precio anticipado no se acumula con el familiar.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Cálculo familiar parcial, no oferta final. Confirmar edad, idioma, plazas, contenido del paquete y factura. Los costes desconocidos no equivalen a cero.",
+      "checked": "2026-11-06",
+      "format": "boarding",
+      "payment_schedule": {
+        "advance": 1980,
+        "balance": 3960,
+        "included_in_total": true
+      }
+    },
+    {
+      "id": "coyote-pascua-two-siblings-2027",
+      "slug": "coyote-junior",
+      "label": "Coyote · Pascua · dos hermanos · confirmar estado de inscripción",
+      "currency": "MXN",
+      "price_year": 2027,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "base_by_child": {
+        "matvey": 5850,
+        "oscar": 5850
+      },
+      "discount_second": 0,
+      "required": [],
+      "unknown_required": [
+        {
+          "id": "invoice_extras",
+          "label": "Cargos obligatorios finales, seguro y condiciones de factura",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [],
+      "sources": [
+        "https://www.campcoyote.mx/",
+        "https://docs.google.com/spreadsheets/d/e/2PACX-1vQmamoxIz52nN7VHT4ABvzFkF0NF2swOSttUOSxPB74rMk8O5QOZhnzq8lPru6nUK05qvr9sl-D8L4K/pub?gid=1739074332&single=true&output=csv",
+        "https://www.campcoyote.mx/enroll.js"
+      ],
+      "sessions": [
+        [
+          "2027-03-29",
+          "2027-04-03"
+        ]
+      ],
+      "gate": "Pascua: la tarjeta HTML y el enlace siguen indicando lista de espera, mientras la tabla pública conectada marca la misma edición como Ok. La fecha coincide, pero no se confirman inscripción abierta ni plazas; antes del viaje hace falta respuesta del organizador.",
+      "deposit_note": "El anticipo del 30% no es reembolsable y forma parte del total; saldo en efectivo al llegar. Hasta siete días antes se permite cancelar/cambiar: lo pagado por encima del anticipo se devuelve como bono por seis meses, no en dinero. Con justificante médico se puede aplazar hasta un año. Los descuentos no se acumulan; confirmar admisión, contrato final y plazas.",
+      "included": "Dos participantes, seis días y cinco noches, descuento familiar del 10% de la base. El anticipo de 3900 forma parte de 11700, saldo de 7800.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Cálculo familiar parcial, no oferta final. Confirmar edad, idioma, plazas, contenido del paquete y factura. Los costes desconocidos no equivalen a cero.",
+      "checked": "2026-11-06",
+      "format": "boarding",
+      "payment_schedule": {
+        "advance": 3900,
+        "balance": 7800,
+        "included_in_total": true
+      },
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Pascua: la tarjeta HTML y el enlace siguen indicando lista de espera, mientras la tabla pública conectada marca la misma edición como Ok. La fecha coincide, pero no se confirman inscripción abierta ni plazas; antes del viaje hace falta respuesta del organizador.",
+        "checked": "2026-11-06"
+      }
+    },
+    {
+      "id": "ojo-ciego-two-weeks-two-2027",
+      "slug": "ojo-ciego",
+      "label": "Ojo Ciego · dos semanas · ambos niños · sin descuento sin confirmar",
+      "currency": "MXN",
+      "price_year": 2027,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "base_by_child": {
+        "matvey": 20550,
+        "oscar": 20550
+      },
+      "discount_second": 0,
+      "required": [],
+      "unknown_required": [
+        {
+          "id": "invoice_extras",
+          "label": "Cargos obligatorios finales, seguro y condiciones de factura",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [],
+      "sources": [
+        "https://www.ojociego.com.mx/verano.html",
+        "https://www.ojociego.com.mx/fechas-precios.html",
+        "https://www.ojociego.com.mx/faq.html",
+        "https://www.ojociego.com.mx/staff.html",
+        "https://www.ojociego.com.mx/seguridad.html"
+      ],
+      "sessions": [
+        [
+          "2027-07-18",
+          "2027-07-31"
+        ]
+      ],
+      "gate": "Oscar debe haber cumplido 7 años; Matvey está en el rango 7–14. Aclarar idioma, imputación de reserva de 2500 y aplicación del descuento al hermano.",
+      "deposit_note": "el primer pago de MXN 2 500 para la reserva; claramente no se establece el cuento en 20 550. después del 10 de julio los adelantos no se devuelven; la salida temprana sin devolución. las condiciones finales 2027 confirmar.",
+      "included": "Dos tarifas base de dos semanas, alojamiento, alimentación y actividades generales. El descuento al hermano no se incluye en este cálculo.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Cálculo familiar parcial, no oferta final. Confirmar edad, idioma, plazas, contenido del paquete y factura. Los costes desconocidos no equivalen a cero.",
+      "checked": "2026-11-06",
+      "format": "boarding"
+    },
+    {
+      "id": "santa-ursula-seven-days-two-2027",
+      "slug": "santa-ursula-general",
+      "label": "Santa Úrsula · siete días · ambos niños",
+      "currency": "MXN",
+      "price_year": 2027,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "base_by_child": {
+        "matvey": 51700,
+        "oscar": 51700
+      },
+      "discount_second": 0,
+      "required": [],
+      "unknown_required": [
+        {
+          "id": "invoice_extras",
+          "label": "Cargos obligatorios finales, seguro y condiciones de factura",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [],
+      "sources": [
+        "https://www.campsantaursula.com/campamentos-de-verano",
+        "https://www.campsantaursula.com/terminos-y-condiciones-campamento-de-verano",
+        "https://www.campsantaursula.com/reglamento",
+        "https://www.campsantaursula.com/post/un-campamento-con-experiencia-internacional-sin-salir-de-mexico",
+        "https://www.campsantaursula.com/seguridad",
+        "https://www.campsantaursula.com/post/seleccion-preparacion-staff-campamento-verano",
+        "https://www.campsantaursula.com/staff",
+        "https://www.campsantaursula.com/"
+      ],
+      "sessions": [
+        [
+          "2027-07-10",
+          "2027-07-16"
+        ],
+        [
+          "2027-07-17",
+          "2027-07-23"
+        ]
+      ],
+      "gate": "Oscar debe tener 7 años al llegar; confirmar autonomía personal e idioma de trabajo para ambos. No se deben equiparar dos semanas separadas con la tarifa del turno extendido.",
+      "deposit_note": "Contract: cancelación habitual≥15 días, salud/seguridad excepción≥3 días; opciones de transferencia a otro participante/credit1 año/50%cashrefund. otra vez ≤3 días en general 0  igual a 3 días en conflicto. Latearrival/earlydeparture0. Operatorforce-majeure trasladado 1 año, luego refundado si no es posible; después suspension0. tarifas pueden cambiarse con notificación/acceptance, fullpaydeadline es necesario; no se ha firmado.",
+      "included": "Paquete de duración elegida: alojamiento, comidas, actividades anunciadas y cuidado. Cobertura de accidentes limitada, sin enfermedades.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Cálculo familiar parcial, no oferta final. Confirmar edad, idioma, plazas, contenido del paquete y factura. Los costes desconocidos no equivalen a cero.",
+      "checked": "2026-11-06",
+      "format": "boarding"
+    },
+    {
+      "id": "santa-ursula-extended-two-2027",
+      "slug": "santa-ursula-general",
+      "label": "Santa Úrsula · turno extendido · ambos niños",
+      "currency": "MXN",
+      "price_year": 2027,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "base_by_child": {
+        "matvey": 98500,
+        "oscar": 98500
+      },
+      "discount_second": 0,
+      "required": [],
+      "unknown_required": [
+        {
+          "id": "invoice_extras",
+          "label": "Cargos obligatorios finales, seguro y condiciones de factura",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [],
+      "sources": [
+        "https://www.campsantaursula.com/campamentos-de-verano",
+        "https://www.campsantaursula.com/terminos-y-condiciones-campamento-de-verano",
+        "https://www.campsantaursula.com/reglamento",
+        "https://www.campsantaursula.com/post/un-campamento-con-experiencia-internacional-sin-salir-de-mexico",
+        "https://www.campsantaursula.com/seguridad",
+        "https://www.campsantaursula.com/post/seleccion-preparacion-staff-campamento-verano",
+        "https://www.campsantaursula.com/staff",
+        "https://www.campsantaursula.com/"
+      ],
+      "sessions": [
+        [
+          "2027-07-10",
+          "2027-07-23"
+        ]
+      ],
+      "gate": "Oscar debe tener 7 años al llegar; confirmar autonomía personal e idioma de trabajo para ambos. No se deben equiparar dos semanas separadas con la tarifa del turno extendido.",
+      "deposit_note": "Contract: cancelación habitual≥15 días, salud/seguridad excepción≥3 días; opciones de transferencia a otro participante/credit1 año/50%cashrefund. otra vez ≤3 días en general 0  igual a 3 días en conflicto. Latearrival/earlydeparture0. Operatorforce-majeure trasladado 1 año, luego refundado si no es posible; después suspension0. tarifas pueden cambiarse con notificación/acceptance, fullpaydeadline es necesario; no se ha firmado.",
+      "included": "Paquete de duración elegida: alojamiento, comidas, actividades anunciadas y cuidado. Cobertura de accidentes limitada, sin enfermedades.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Cálculo familiar parcial, no oferta final. Confirmar edad, idioma, plazas, contenido del paquete y factura. Los costes desconocidos no equivalen a cero.",
+      "checked": "2026-11-06",
+      "format": "boarding"
+    },
+    {
+      "id": "fod-family-parallel-2027-01-25",
+      "slug": "fod-juguemos-robots-2026-27",
+      "label": "FOD · 25–29 de enero · dos grupos de edad por la mañana",
+      "currency": "CRC",
+      "price_year": 2027,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "base_by_child": {
+        "matvey": 60000,
+        "oscar": 60000
+      },
+      "discount_second": 0,
+      "required": [],
+      "unknown_required": [
+        {
+          "id": "invoice_extras",
+          "label": "Cargos obligatorios finales, seguro y condiciones de factura",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [],
+      "sources": [
+        "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+        "https://survey.zohopublic.com/zs/SjzWbS"
+      ],
+      "sessions": [
+        [
+          "2027-01-25",
+          "2027-01-29"
+        ]
+      ],
+      "gate": "Matvey solo si aún tiene 9 años: CP1126 7–9. Oscar CP1124 6–8. Ambos cursos 08:00–12:00 en la misma sede; confirmar edad exacta, idioma, plazas y nivel. Nivel 3 es por la tarde y no forma parte de esta pareja.",
+      "deposit_note": "100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.",
+      "included": "Dos cursos a CRC 60000 con IVAI. Son clases de mañana, no cuidado de jornada completa ni acceso automático a la siguiente liga.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Cálculo familiar parcial, no oferta final. Confirmar edad, idioma, plazas, contenido del paquete y factura. Los costes desconocidos no equivalen a cero.",
+      "checked": "2026-11-06",
+      "format": "day"
+    },
+    {
+      "id": "fod-family-parallel-2027-01-18",
+      "slug": "fod-historias-animadas-2026-27",
+      "label": "FOD · grupos distintos de ambos niños · 2027-01-18",
+      "currency": "CRC",
+      "price_year": 2027,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "base_by_child": {
+        "matvey": 60000,
+        "oscar": 60000
+      },
+      "discount_second": 0,
+      "required": [],
+      "unknown_required": [
+        {
+          "id": "materials",
+          "label": "Dispositivo / materiales y suplementos obligatorios según factura final",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [],
+      "sources": [
+        "https://survey.zohopublic.com/zs/SjzWbS"
+      ],
+      "sessions": [
+        [
+          "2027-01-18",
+          "2027-01-22"
+        ]
+      ],
+      "gate": "Matvey: CP1128 Nivel 2, 9–12; Oscar: CP1125, 6–8. Ambos 08:00–12:00, misma sede. La edad encaja, pero confirmar admisión de Matvey a Nivel 2, idioma y ambas plazas; experiencia externa no equivale a convalidación automática.",
+      "deposit_note": "100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.",
+      "included": "Dos cursos de CRC 60000 con IVAI: parte publicada CRC 120000. Dos medias jornadas paralelas, no día completo de cuidado.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Opción de planificación, no solicitud aceptada. Confirmar edad, nivel, idioma, plazas y factura final. Sin formularios, cuentas, mensajes, consentimientos ni pagos. Transporte, gastos parentales, seguro, comidas fuera de inclusiones y suplementos desconocidos aparte; campo vacío no equivale a cero.",
+      "checked": "2026-11-06",
+      "format": "day",
+      "programme_ids": [
+        "CP1128",
+        "CP1125"
+      ]
+    }
+  ],
+  "deadline_updates": [
+    {
+      "event_id": "CP613-20261221-20261223-winter",
+      "deadline": "2026-11-20",
+      "deadline_label": "Fin de tarifa anticipada; no cierre de inscripción"
+    },
+    {
+      "event_id": "CP614-20270329-20270403-pascua",
+      "deadline": "2027-02-15",
+      "deadline_label": "Fin de tarifa anticipada; no cierre de inscripción"
+    }
+  ],
+  "event_updates": [
+    {
+      "programme_id": "CP612",
+      "fields": {
+        "cost": "Precio de la página: $797 por niño y semana, $1594 por ambos. Las condiciones implican una inscripción completa de $200 por participante: si se añade al curso, ambos sumarían $1994; con seis noches de alojamiento a $155, $2924. Es aritmética condicional, no factura: confirmar moneda, inclusión de inscripción, impuestos y disponibilidad del alojamiento."
+      }
+    },
+    {
+      "programme_id": "CP614",
+      "fields": {
+        "cost": "Tarifa actual de MXN 6500; anticipada de 5525 hasta el 15 de febrero de 2027, ambos a 11700 según cálculo familiar.",
+        "registration_status": "Pascua: la tarjeta HTML y el enlace siguen indicando lista de espera, mientras la tabla pública conectada marca la misma edición como Ok. La fecha coincide, pero no se confirman inscripción abierta ni plazas; antes del viaje hace falta respuesta del organizador."
+      }
+    }
+  ],
+  "fod_level_schedule_note": "Los niveles 1–4 no forman una inscripción secuencial confirmada esta temporada: Nivel 4 se ofrece el 11–15 de enero de 2027, antes de Nivel 3 el 25–29 de enero de 2027. No se establecen niveles previos obligatorios ni convalidación de tres años de experiencia externa; el organizador asigna el nivel.",
+  "coyote_admission_conflict": "Pascua: la tarjeta HTML y el enlace siguen indicando lista de espera, mientras la tabla pública conectada marca la misma edición como Ok. La fecha coincide, pero no se confirman inscripción abierta ni plazas; antes del viaje hace falta respuesta del organizador."
+}

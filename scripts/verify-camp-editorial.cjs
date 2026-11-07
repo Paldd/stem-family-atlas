@@ -27,6 +27,13 @@ for(const lang of ['', 'es/']){
  const young=Array.from(U.filtered().map(p=>p.id));assert(!young.includes('CP012')&&!young.includes('CP622'),'Older technical courses must not pass Oscar filter');
  reset();Object.assign(U.state,{country:'CAN',child:'oscar',review:'reviewed',sort:'recommend_future'});assert(U.filtered().some(p=>p.id==='CP152'),'Future routes must remain visible for the selected child despite current age');
  reset();
+ Object.assign(U.state,{country:'MEX',child:'both',month:'2027-08',review:'reviewed'});
+ assert(U.filtered().some(p=>p.id==='CP614'),'Announced Basic month must remain findable with both children despite dated Pascua variants');
+ const seasonalGuide=structuredClone(guide),seasonal=seasonalGuide.profiles.find(p=>p.id==='CP614');
+ seasonal.timing.announced_variants[0].family_fit.oscar={status:'later',detail:'Fixture: age gate differs by variant'};
+ U.setGuide(seasonalGuide);assert(!U.filtered().some(p=>p.id==='CP614'),'The announced variant age gate must not inherit another season admission');
+ U.state.month='2027-03';assert(U.filtered().some(p=>p.id==='CP614'),'Dated Pascua retains its own age rule');
+ U.setGuide(guide);reset();
  const p={id:'synthetic',provider:'Fixture',family_fit:{matvey:{status:'candidate'},oscar:{status:'candidate'}},confirmed_instruction_languages:['EN'],timing:{sessions:[['2027-07-01','2027-07-07']]},price:{currency:'USD',amount:1}};
  const make=(id,patch={})=>({...structuredClone(p),id,...patch});
  const ready=make('ready'),tooYoung=make('too-young',{family_fit:{matvey:{status:'candidate'},oscar:{status:'later'}}}),support=make('support',{confirmed_instruction_languages:[],confirmed_support_languages:['EN']}),archive=make('archive',{timing:{status:'published_2027',sessions:[['2026-07-01','2026-07-07']]}});

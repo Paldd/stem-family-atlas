@@ -3751,7 +3751,7 @@
     ]
   },
   "assets/camp-programmes.js": {
-    "sha256": "8838f868b8aab63ad76d95db5c237273f8953a1af6ca26b2d9910535f0e2b6a1",
+    "sha256": "f62ccd567c0e7a0be5ff6a35c6dab252e2f8c2fa5ba094f0e3cc6e97a26940da",
     "tokens": [
       {
         "start": 279,
@@ -4209,848 +4209,848 @@
         "type": "template"
       },
       {
-        "start": 9256,
-        "end": 9274,
+        "start": 9406,
+        "end": 9424,
         "raw": "' · налог включён'",
         "value": " · налог включён",
         "type": "literal"
       },
       {
-        "start": 9119,
-        "end": 9164,
+        "start": 9269,
+        "end": 9314,
         "raw": "<p><b>Опубликованная часть за два курса:</b> ",
         "value": "<p><b>Опубликованная часть за два курса:</b> ",
         "type": "template"
       },
       {
-        "start": 9278,
-        "end": 9337,
+        "start": 9428,
+        "end": 9487,
         "raw": ". Поездка, питание и неподтверждённые доплаты отдельно.</p>",
         "value": ". Поездка, питание и неподтверждённые доплаты отдельно.</p>",
         "type": "template"
       },
       {
-        "start": 8805,
-        "end": 8840,
+        "start": 8955,
+        "end": 8990,
         "raw": " учебных дней</p><p><b>Матвей:</b> ",
         "value": " учебных дней</p><p><b>Матвей:</b> ",
         "type": "template"
       },
       {
-        "start": 8953,
-        "end": 8982,
+        "start": 9103,
+        "end": 9132,
         "raw": "</small></p><p><b>Оскар:</b> ",
         "value": "</small></p><p><b>Оскар:</b> ",
         "type": "template"
       },
       {
-        "start": 9413,
-        "end": 9479,
+        "start": 9563,
+        "end": 9629,
         "raw": "\">Программа Матвея ↗</button> <button type=\"button\" data-cp-open=\"",
         "value": "\">Программа Матвея ↗</button> <button type=\"button\" data-cp-open=\"",
         "type": "template"
       },
       {
-        "start": 9491,
-        "end": 9530,
+        "start": 9641,
+        "end": 9680,
         "raw": "\">Программа Оскара ↗</button></article>",
         "value": "\">Программа Оскара ↗</button></article>",
         "type": "template"
       },
       {
-        "start": 9545,
-        "end": 9695,
+        "start": 9695,
+        "end": 9845,
         "raw": "'<p class=\"cp-note\">Для выбранных условий совпадающие группы пока не проверены. Отсутствие сценария не означает, что таких программ в стране нет.</p>'",
         "value": "<p class=\"cp-note\">Для выбранных условий совпадающие группы пока не проверены. Отсутствие сценария не означает, что таких программ в стране нет.</p>",
         "type": "literal"
       },
       {
-        "start": 8060,
-        "end": 8098,
+        "start": 8210,
+        "end": 8248,
         "raw": "<summary>Разные группы в одно время · ",
         "value": "<summary>Разные группы в одно время · ",
         "type": "template"
       },
       {
-        "start": 8113,
-        "end": 8452,
+        "start": 8263,
+        "end": 8602,
         "raw": " сценариев для двух детей</summary><p class=\"cp-note\">Сопоставлены только программы с проверенным общим местом, одинаковыми днями и часами. Это совпадение расписания: возраст, уровень, язык, запуск группы и два свободных места подтверждаются отдельно. Фильтры страны, месяца, темы и языка действуют и здесь.</p><div class=\"cp-family-grid\">",
         "value": " сценариев для двух детей</summary><p class=\"cp-note\">Сопоставлены только программы с проверенным общим местом, одинаковыми днями и часами. Это совпадение расписания: возраст, уровень, язык, запуск группы и два свободных места подтверждаются отдельно. Фильтры страны, месяца, темы и языка действуют и здесь.</p><div class=\"cp-family-grid\">",
         "type": "template"
       },
       {
-        "start": 10285,
-        "end": 10348,
+        "start": 10435,
+        "end": 10498,
         "raw": "<details class=\"cp-map-panel\"><summary>Лагеря на карте стран · ",
         "value": "<details class=\"cp-map-panel\"><summary>Лагеря на карте стран · ",
         "type": "template"
       },
       {
-        "start": 10373,
-        "end": 10720,
+        "start": 10523,
+        "end": 10870,
         "raw": " направлений</summary><p class=\"cp-note\">Карта показывает страны с подробными досье. Это обзор направлений: точные координаты кампусов пока не отмечены. Нажмите страну на карте или выберите кнопку.</p><svg id=\"cp-country-map\" viewBox=\"0 0 960 440\" role=\"img\" aria-label=\"Карта стран с подробными досье лагерей\"></svg><div class=\"cp-map-countries\">",
         "value": " направлений</summary><p class=\"cp-note\">Карта показывает страны с подробными досье. Это обзор направлений: точные координаты кампусов пока не отмечены. Нажмите страну на карте или выберите кнопку.</p><svg id=\"cp-country-map\" viewBox=\"0 0 960 440\" role=\"img\" aria-label=\"Карта стран с подробными досье лагерей\"></svg><div class=\"cp-map-countries\">",
         "type": "template"
       },
       {
-        "start": 11880,
-        "end": 11886,
+        "start": 12030,
+        "end": 12036,
         "raw": " досье",
         "value": " досье",
         "type": "template"
       },
       {
-        "start": 12207,
-        "end": 12219,
+        "start": 12357,
+        "end": 12369,
         "raw": "'Сингапур: '",
         "value": "Сингапур: ",
         "type": "literal"
       },
       {
-        "start": 12238,
-        "end": 12246,
+        "start": 12388,
+        "end": 12396,
         "raw": "' досье'",
         "value": " досье",
         "type": "literal"
       },
       {
-        "start": 13520,
-        "end": 13572,
+        "start": 13670,
+        "end": 13722,
         "raw": "\">Программа, цена и ограничения ↗</button></article>",
         "value": "\">Программа, цена и ограничения ↗</button></article>",
         "type": "template"
       },
       {
-        "start": 13676,
-        "end": 13685,
+        "start": 13826,
+        "end": 13835,
         "raw": " · тариф ",
         "value": " · тариф ",
         "type": "template"
       },
       {
-        "start": 14173,
-        "end": 14187,
+        "start": 14323,
+        "end": 14337,
         "raw": "'Набор закрыт'",
         "value": "Набор закрыт",
         "type": "literal"
       },
       {
-        "start": 14228,
-        "end": 14249,
+        "start": 14378,
+        "end": 14399,
         "raw": "'Набор ещё не открыт'",
         "value": "Набор ещё не открыт",
         "type": "literal"
       },
       {
-        "start": 14286,
-        "end": 14301,
+        "start": 14436,
+        "end": 14451,
         "raw": "'Лист ожидания'",
         "value": "Лист ожидания",
         "type": "literal"
       },
       {
-        "start": 14750,
-        "end": 14758,
+        "start": 14900,
+        "end": 14908,
         "raw": "'Матвей'",
         "value": "Матвей",
         "type": "literal"
       },
       {
-        "start": 14759,
-        "end": 14766,
+        "start": 14909,
+        "end": 14916,
         "raw": "'Оскар'",
         "value": "Оскар",
         "type": "literal"
       },
       {
-        "start": 15142,
-        "end": 15168,
+        "start": 15292,
+        "end": 15318,
         "raw": "'Что делают и чему учатся'",
         "value": "Что делают и чему учатся",
         "type": "literal"
       },
       {
-        "start": 15187,
-        "end": 15221,
+        "start": 15337,
+        "end": 15371,
         "raw": "'Язык жизни и технических занятий'",
         "value": "Язык жизни и технических занятий",
         "type": "literal"
       },
       {
-        "start": 15239,
-        "end": 15252,
+        "start": 15389,
+        "end": 15402,
         "raw": "'Когда ехать'",
         "value": "Когда ехать",
         "type": "literal"
       },
       {
-        "start": 15274,
-        "end": 15286,
+        "start": 15424,
+        "end": 15436,
         "raw": "'Проживание'",
         "value": "Проживание",
         "type": "literal"
       },
       {
-        "start": 15309,
-        "end": 15326,
+        "start": 15459,
+        "end": 15476,
         "raw": "'Включено в цену'",
         "value": "Включено в цену",
         "type": "literal"
       },
       {
-        "start": 15350,
-        "end": 15378,
+        "start": 15500,
+        "end": 15528,
         "raw": "'Доплаты и семейные расходы'",
         "value": "Доплаты и семейные расходы",
         "type": "literal"
       },
       {
-        "start": 15400,
-        "end": 15425,
+        "start": 15550,
+        "end": 15575,
         "raw": "'Оплата, депозит, отмена'",
         "value": "Оплата, депозит, отмена",
         "type": "literal"
       },
       {
-        "start": 14556,
-        "end": 14597,
+        "start": 14706,
+        "end": 14747,
         "raw": "</p><p class=\"cp-mini-price\"><b>Стоимость",
         "value": "</p><p class=\"cp-mini-price\"><b>Стоимость",
         "type": "template"
       },
       {
-        "start": 15011,
-        "end": 15021,
+        "start": 15161,
+        "end": 15171,
         "raw": ">Сравнить ",
         "value": ">Сравнить ",
         "type": "template"
       },
       {
-        "start": 15037,
-        "end": 15137,
+        "start": 15187,
+        "end": 15287,
         "raw": "</label></div><details class=\"cp-dossier\"><summary>Все условия и официальные источники</summary><dl>",
         "value": "</label></div><details class=\"cp-dossier\"><summary>Все условия и официальные источники</summary><dl>",
         "type": "template"
       },
       {
-        "start": 15490,
-        "end": 15514,
+        "start": 15640,
+        "end": 15664,
         "raw": "<b>Перед заявкой</b><ul>",
         "value": "<b>Перед заявкой</b><ul>",
         "type": "template"
       },
       {
-        "start": 15564,
-        "end": 15632,
+        "start": 15714,
+        "end": 15782,
         "raw": "</ul><div class=\"cp-sources\"><span>Официальные источники · проверка ",
         "value": "</ul><div class=\"cp-sources\"><span>Официальные источники · проверка ",
         "type": "template"
       },
       {
-        "start": 15844,
-        "end": 15910,
+        "start": 15994,
+        "end": 16060,
         "raw": "#camps\">Прямая ссылка на это досье ↗</a></div></details></article>",
         "value": "#camps\">Прямая ссылка на это досье ↗</a></div></details></article>",
         "type": "template"
       },
       {
-        "start": 16177,
-        "end": 16247,
+        "start": 16327,
+        "end": 16397,
         "raw": "' · опубликованный период или объявленный месяц соответствует фильтру'",
         "value": " · опубликованный период или объявленный месяц соответствует фильтру",
         "type": "literal"
       },
       {
-        "start": 16258,
-        "end": 16313,
+        "start": 16408,
+        "end": 16463,
         "raw": "'; возрастные условия проверены по сменам этого месяца'",
         "value": "; возрастные условия проверены по сменам этого месяца",
         "type": "literal"
       },
       {
-        "start": 16132,
-        "end": 16136,
+        "start": 16282,
+        "end": 16286,
         "raw": " из ",
         "value": " из ",
         "type": "template"
       },
       {
-        "start": 16160,
-        "end": 16166,
+        "start": 16310,
+        "end": 16316,
         "raw": " досье",
         "value": " досье",
         "type": "template"
       },
       {
-        "start": 16321,
-        "end": 16371,
+        "start": 16471,
+        "end": 16521,
         "raw": ". Кандидат по возрасту ещё не означает зачисление.",
         "value": ". Кандидат по возрасту ещё не означает зачисление.",
         "type": "template"
       },
       {
-        "start": 16655,
-        "end": 16718,
+        "start": 16805,
+        "end": 16868,
         "raw": "\">Рассчитать стоимость</button><label class=\"cp-compare-label\">",
         "value": "\">Рассчитать стоимость</button><label class=\"cp-compare-label\">",
         "type": "template"
       },
       {
-        "start": 16738,
-        "end": 16966,
+        "start": 16888,
+        "end": 17116,
         "raw": "'<p class=\"cp-note\">По этим условиям нет досье с подходящим опубликованным периодом. Снимите месяц, чтобы увидеть программы без новых дат, или измените другие фильтры. Неизвестный язык не считается английским автоматически.</p>'",
         "value": "<p class=\"cp-note\">По этим условиям нет досье с подходящим опубликованным периодом. Снимите месяц, чтобы увидеть программы без новых дат, или измените другие фильтры. Неизвестный язык не считается английским автоматически.</p>",
         "type": "literal"
       },
       {
-        "start": 17058,
-        "end": 17090,
+        "start": 17208,
+        "end": 17240,
         "raw": "Показать все оставшиеся досье · ",
         "value": "Показать все оставшиеся досье · ",
         "type": "template"
       },
       {
-        "start": 18022,
-        "end": 18043,
+        "start": 18172,
+        "end": 18193,
         "raw": "'Редакционный разбор'",
         "value": "Редакционный разбор",
         "type": "literal"
       },
       {
-        "start": 18204,
-        "end": 18225,
+        "start": 18354,
+        "end": 18375,
         "raw": "'Редакционный разбор'",
         "value": "Редакционный разбор",
         "type": "literal"
       },
       {
-        "start": 18294,
-        "end": 18303,
+        "start": 18444,
+        "end": 18453,
         "raw": "'Возраст'",
         "value": "Возраст",
         "type": "literal"
       },
       {
-        "start": 18315,
-        "end": 18321,
+        "start": 18465,
+        "end": 18471,
         "raw": "'Язык'",
         "value": "Язык",
         "type": "literal"
       },
       {
-        "start": 18338,
-        "end": 18344,
+        "start": 18488,
+        "end": 18494,
         "raw": "'Даты'",
         "value": "Даты",
         "type": "literal"
       },
       {
-        "start": 18365,
-        "end": 18376,
+        "start": 18515,
+        "end": 18526,
         "raw": "'Стоимость'",
         "value": "Стоимость",
         "type": "literal"
       },
       {
-        "start": 18413,
-        "end": 18432,
+        "start": 18563,
+        "end": 18582,
         "raw": "'Год не установлен'",
         "value": "Год не установлен",
         "type": "literal"
       },
       {
-        "start": 18456,
-        "end": 18465,
+        "start": 18606,
+        "end": 18615,
         "raw": "'Доплаты'",
         "value": "Доплаты",
         "type": "literal"
       },
       {
-        "start": 18486,
-        "end": 18494,
+        "start": 18636,
+        "end": 18644,
         "raw": "'Матвей'",
         "value": "Матвей",
         "type": "literal"
       },
       {
-        "start": 18527,
-        "end": 18534,
+        "start": 18677,
+        "end": 18684,
         "raw": "'Оскар'",
         "value": "Оскар",
         "type": "literal"
       },
       {
-        "start": 18566,
-        "end": 18578,
+        "start": 18716,
+        "end": 18728,
         "raw": "'Проживание'",
         "value": "Проживание",
         "type": "literal"
       },
       {
-        "start": 17432,
-        "end": 17484,
+        "start": 17582,
+        "end": 17634,
         "raw": "<div class=\"cp-compare-head\"><h4>Сравнить условия · ",
         "value": "<div class=\"cp-compare-head\"><h4>Сравнить условия · ",
         "type": "template"
       },
       {
-        "start": 17502,
-        "end": 17911,
+        "start": 17652,
+        "end": 18061,
         "raw": "/4</h4><button class=\"cp-clear\" data-cp-clear>Очистить сравнение</button></div><p class=\"cp-note\">Цены остаются в исходной валюте и с годом тарифа. Для полной семейной сметы добавьте дорогу, жильё родителей, страховку, обязательные fee/tax и выбранные опции.</p><div class=\"cp-compare-table-wrap\" tabindex=\"0\" role=\"region\" aria-label=\"Таблица сравнения лагерей\"><table><thead><tr><th scope=\"col\">Условие</th>",
         "value": "/4</h4><button class=\"cp-clear\" data-cp-clear>Очистить сравнение</button></div><p class=\"cp-note\">Цены остаются в исходной валюте и с годом тарифа. Для полной семейной сметы добавьте дорогу, жильё родителей, страховку, обязательные fee/tax и выбранные опции.</p><div class=\"cp-compare-table-wrap\" tabindex=\"0\" role=\"region\" aria-label=\"Таблица сравнения лагерей\"><table><thead><tr><th scope=\"col\">Условие</th>",
         "type": "template"
       },
       {
-        "start": 20043,
-        "end": 20061,
+        "start": 20193,
+        "end": 20211,
         "raw": "'Сезонное окно · '",
         "value": "Сезонное окно · ",
         "type": "literal"
       },
       {
-        "start": 20101,
-        "end": 20118,
+        "start": 20251,
+        "end": 20268,
         "raw": "'Начало курса · '",
         "value": "Начало курса · ",
         "type": "literal"
       },
       {
-        "start": 20156,
-        "end": 20167,
+        "start": 20306,
+        "end": 20317,
         "raw": "'Кружок · '",
         "value": "Кружок · ",
         "type": "literal"
       },
       {
-        "start": 20192,
-        "end": 20205,
+        "start": 20342,
+        "end": 20355,
         "raw": "' занятий · '",
         "value": " занятий · ",
         "type": "literal"
       },
       {
-        "start": 20303,
-        "end": 20321,
+        "start": 20453,
+        "end": 20471,
         "raw": "/^Начало курса · /",
         "value": "^Начало курса · ",
         "type": "regex"
       },
       {
-        "start": 20533,
-        "end": 20546,
+        "start": 20683,
+        "end": 20696,
         "raw": "' · Мест нет'",
         "value": " · Мест нет",
         "type": "literal"
       },
       {
-        "start": 20620,
-        "end": 20644,
+        "start": 20770,
+        "end": 20794,
         "raw": "' · Набор ещё не открыт'",
         "value": " · Набор ещё не открыт",
         "type": "literal"
       },
       {
-        "start": 19242,
-        "end": 19696,
+        "start": 19392,
+        "end": 19846,
         "raw": "<details class=\"cp-calendar\"><summary>Календарь опубликованных дат · осень, зима, весна и лето</summary><p>Точные смены, сезонные окна и начало курса имеют разные сроки. У еженедельных курсов перечислены отдельные учебные дни. Метка «Начало курса» означает, что известен только старт, а полный период ещё уточняется. У iD Tech, ILC и других набор 2027 ещё требует отдельных дат; наличие даты не означает свободное место.</p><div class=\"cp-calendar-grid\">",
         "value": "<details class=\"cp-calendar\"><summary>Календарь опубликованных дат · осень, зима, весна и лето</summary><p>Точные смены, сезонные окна и начало курса имеют разные сроки. У еженедельных курсов перечислены отдельные учебные дни. Метка «Начало курса» означает, что известен только старт, а полный период ещё уточняется. У iD Tech, ILC и других набор 2027 ещё требует отдельных дат; наличие даты не означает свободное место.</p><div class=\"cp-calendar-grid\">",
         "type": "template"
       },
       {
-        "start": 20978,
-        "end": 21005,
+        "start": 21128,
+        "end": 21155,
         "raw": "'Семейный выбор по странам'",
         "value": "Семейный выбор по странам",
         "type": "literal"
       },
       {
-        "start": 21208,
-        "end": 21463,
+        "start": 21358,
+        "end": 21613,
         "raw": "<div class=\"cp-family-heading\"><div><p class=\"section-kicker\">СЕМЕЙНЫЙ ВЫБОР · 2026–2027</p><h4>Каникулы с пользой для каждого</h4><p>Выбор по возрасту, программе и языку. Полные условия, цены и источники — в досье.</p></div><span class=\"cp-family-count\">",
         "value": "<div class=\"cp-family-heading\"><div><p class=\"section-kicker\">СЕМЕЙНЫЙ ВЫБОР · 2026–2027</p><h4>Каникулы с пользой для каждого</h4><p>Выбор по возрасту, программе и языку. Полные условия, цены и источники — в досье.</p></div><span class=\"cp-family-count\">",
         "type": "template"
       },
       {
-        "start": 21492,
-        "end": 21527,
+        "start": 21642,
+        "end": 21677,
         "raw": "<small>программа на сравнение<br>в ",
         "value": "<small>программа на сравнение<br>в ",
         "type": "template"
       },
       {
-        "start": 21555,
-        "end": 21702,
+        "start": 21705,
+        "end": 21852,
         "raw": " странах</small></span></div><div class=\"cp-family-filters\"><label>Страна<select data-family-country><option value=\"\">Все выбранные страны</option>",
         "value": " странах</small></span></div><div class=\"cp-family-filters\"><label>Страна<select data-family-country><option value=\"\">Все выбранные страны</option>",
         "type": "template"
       },
       {
-        "start": 21790,
-        "end": 22566,
+        "start": 21940,
+        "end": 22716,
         "raw": "</select></label><label>Для кого<select data-family-child><option value=\"both\">Оба ребёнка</option><option value=\"matvey\">Матвей · 2017</option><option value=\"oscar\">Оскар · 2020</option><option value=\"all\">Все, включая будущий маршрут</option></select></label><label>Задача<select data-family-goal><option value=\"\">Любая</option><option value=\"general\">Общий отдых и самостоятельность</option><option value=\"technical\">Техника и проекты</option><option value=\"boarding\">Рассмотреть пансион</option><option value=\"future\">Будущая возрастная ступень</option></select></label></div><p class=\"cp-family-results\" role=\"status\" aria-live=\"polite\"></p><div class=\"cp-family-grid\"></div><details class=\"cp-family-method\"><summary>Как оценивать качество и строить маршрут</summary><p>",
         "value": "</select></label><label>Для кого<select data-family-child><option value=\"both\">Оба ребёнка</option><option value=\"matvey\">Матвей · 2017</option><option value=\"oscar\">Оскар · 2020</option><option value=\"all\">Все, включая будущий маршрут</option></select></label><label>Задача<select data-family-goal><option value=\"\">Любая</option><option value=\"general\">Общий отдых и самостоятельность</option><option value=\"technical\">Техника и проекты</option><option value=\"boarding\">Рассмотреть пансион</option><option value=\"future\">Будущая возрастная ступень</option></select></label></div><p class=\"cp-family-results\" role=\"status\" aria-live=\"polite\"></p><div class=\"cp-family-grid\"></div><details class=\"cp-family-method\"><summary>Как оценивать качество и строить маршрут</summary><p>",
         "type": "template"
       },
       {
-        "start": 22753,
-        "end": 22896,
+        "start": 22903,
+        "end": 23046,
         "raw": "</ol><a href=\"downloads/STEM_лагеря_Япония_Тайвань_зима_v136.md\" download>Подробный семейный разбор с программами и источниками ↓</a></details>",
         "value": "</ol><a href=\"downloads/STEM_лагеря_Япония_Тайвань_зима_v136.md\" download>Подробный семейный разбор с программами и источниками ↓</a></details>",
         "type": "template"
       },
       {
-        "start": 23574,
-        "end": 23696,
+        "start": 23724,
+        "end": 23846,
         "raw": " вариантов для сравнения. Возрастной кандидат ещё не означает свободное место, подходящий язык или подтверждённый пансион.",
         "value": " вариантов для сравнения. Возрастной кандидат ещё не означает свободное место, подходящий язык или подтверждённый пансион.",
         "type": "template"
       },
       {
-        "start": 23945,
-        "end": 23962,
+        "start": 24095,
+        "end": 24112,
         "raw": "'Формат уточнить'",
         "value": "Формат уточнить",
         "type": "literal"
       },
       {
-        "start": 24188,
-        "end": 24196,
+        "start": 24338,
+        "end": 24346,
         "raw": "'Матвей'",
         "value": "Матвей",
         "type": "literal"
       },
       {
-        "start": 24197,
-        "end": 24204,
+        "start": 24347,
+        "end": 24354,
         "raw": "'Оскар'",
         "value": "Оскар",
         "type": "literal"
       },
       {
-        "start": 24246,
-        "end": 24256,
+        "start": 24396,
+        "end": 24406,
         "raw": "'Уточнить'",
         "value": "Уточнить",
         "type": "literal"
       },
       {
-        "start": 24522,
-        "end": 24541,
+        "start": 24672,
+        "end": 24691,
         "raw": "'год не установлен'",
         "value": "год не установлен",
         "type": "literal"
       },
       {
-        "start": 24327,
-        "end": 24400,
+        "start": 24477,
+        "end": 24550,
         "raw": "</p><details><summary>Даты, язык и стоимость</summary><p><b>Возраст:</b> ",
         "value": "</p><details><summary>Даты, язык и стоимость</summary><p><b>Возраст:</b> ",
         "type": "template"
       },
       {
-        "start": 24411,
-        "end": 24431,
+        "start": 24561,
+        "end": 24581,
         "raw": "</p><p><b>Даты:</b> ",
         "value": "</p><p><b>Даты:</b> ",
         "type": "template"
       },
       {
-        "start": 24451,
-        "end": 24471,
+        "start": 24601,
+        "end": 24621,
         "raw": "</p><p><b>Язык:</b> ",
         "value": "</p><p><b>Язык:</b> ",
         "type": "template"
       },
       {
-        "start": 24487,
-        "end": 24504,
+        "start": 24637,
+        "end": 24654,
         "raw": "</p><p><b>Цена · ",
         "value": "</p><p><b>Цена · ",
         "type": "template"
       },
       {
-        "start": 24568,
-        "end": 24591,
+        "start": 24718,
+        "end": 24741,
         "raw": "</p><p><b>Доплаты:</b> ",
         "value": "</p><p><b>Доплаты:</b> ",
         "type": "template"
       },
       {
-        "start": 24611,
-        "end": 24633,
+        "start": 24761,
+        "end": 24783,
         "raw": "</p><p><b>Отмена:</b> ",
         "value": "</p><p><b>Отмена:</b> ",
         "type": "template"
       },
       {
-        "start": 24654,
-        "end": 24676,
+        "start": 24804,
+        "end": 24826,
         "raw": "</p><p><b>Матвей:</b> ",
         "value": "</p><p><b>Матвей:</b> ",
         "type": "template"
       },
       {
-        "start": 24708,
-        "end": 24729,
+        "start": 24858,
+        "end": 24879,
         "raw": "</p><p><b>Оскар:</b> ",
         "value": "</p><p><b>Оскар:</b> ",
         "type": "template"
       },
       {
-        "start": 24760,
-        "end": 24808,
+        "start": 24910,
+        "end": 24958,
         "raw": "</p><p class=\"cp-family-source\">Досье проверено ",
         "value": "</p><p class=\"cp-family-source\">Досье проверено ",
         "type": "template"
       },
       {
-        "start": 24831,
-        "end": 24949,
+        "start": 24981,
+        "end": 25099,
         "raw": ". Источники и полный состав пакета — в досье.</p></details><button type=\"button\" class=\"cp-family-open\" data-cp-open=\"",
         "value": ". Источники и полный состав пакета — в досье.</p></details><button type=\"button\" class=\"cp-family-open\" data-cp-open=\"",
         "type": "template"
       },
       {
-        "start": 24961,
-        "end": 25004,
+        "start": 25111,
+        "end": 25154,
         "raw": "\">Открыть полное досье →</button></article>",
         "value": "\">Открыть полное досье →</button></article>",
         "type": "template"
       },
       {
-        "start": 25017,
-        "end": 25202,
+        "start": 25167,
+        "end": 25352,
         "raw": "'<p class=\"cp-note\">В этой подборке подходящий вариант пока не подтверждён. Попробуйте «Все, включая будущий маршрут» или полный каталог ниже: страна остаётся в плане исследования.</p>'",
         "value": "<p class=\"cp-note\">В этой подборке подходящий вариант пока не подтверждён. Попробуйте «Все, включая будущий маршрут» или полный каталог ниже: страна остаётся в плане исследования.</p>",
         "type": "literal"
       },
       {
-        "start": 25424,
-        "end": 25443,
+        "start": 25574,
+        "end": 25593,
         "raw": "'Лагеря и пансионы'",
         "value": "Лагеря и пансионы",
         "type": "literal"
       },
       {
-        "start": 25498,
-        "end": 25518,
+        "start": 25648,
+        "end": 25668,
         "raw": "'КАНИКУЛЫ 2026–2027'",
         "value": "КАНИКУЛЫ 2026–2027",
         "type": "literal"
       },
       {
-        "start": 25562,
-        "end": 25663,
+        "start": 25712,
+        "end": 25813,
         "raw": "'Выберите страну, месяц, тему и формат. Возрастные условия каждого ребёнка и год цены видны в досье.'",
         "value": "Выберите страну, месяц, тему и формат. Возрастные условия каждого ребёнка и год цены видны в досье.",
         "type": "literal"
       },
       {
-        "start": 25788,
-        "end": 25821,
+        "start": 25938,
+        "end": 25971,
         "raw": "'Подбор лагеря по условиям семьи'",
         "value": "Подбор лагеря по условиям семьи",
         "type": "literal"
       },
       {
-        "start": 25932,
-        "end": 25946,
+        "start": 26082,
+        "end": 26096,
         "raw": "'Ваши условия'",
         "value": "Ваши условия",
         "type": "literal"
       },
       {
-        "start": 26040,
-        "end": 26202,
+        "start": 26190,
+        "end": 26352,
         "raw": "'В 2027 Матвею будет 9–10, Оскару 6–7. Порог 7/10 лет зависит от дня рождения; школьные программы — от класса. Место и язык конкретного потока нужно подтвердить.'",
         "value": "В 2027 Матвею будет 9–10, Оскару 6–7. Порог 7/10 лет зависит от дня рождения; школьные программы — от класса. Место и язык конкретного потока нужно подтвердить.",
         "type": "literal"
       },
       {
-        "start": 27116,
-        "end": 27138,
+        "start": 27266,
+        "end": 27288,
         "raw": "\">Редакционный выбор: ",
         "value": "\">Редакционный выбор: ",
         "type": "template"
       },
       {
-        "start": 26320,
-        "end": 26446,
+        "start": 26470,
+        "end": 26596,
         "raw": "<label>Месяц опубликованного периода<select data-cp-filter=\"month\"><option value=\"\">Любой месяц / даты ещё неизвестны</option>",
         "value": "<label>Месяц опубликованного периода<select data-cp-filter=\"month\"><option value=\"\">Любой месяц / даты ещё неизвестны</option>",
         "type": "template"
       },
       {
-        "start": 26706,
-        "end": 27001,
+        "start": 26856,
+        "end": 27151,
         "raw": "</select></label><label>Порядок рассмотрения<select data-cp-filter=\"sort\"><option value=\"upcoming\">Ближайшие опубликованные даты</option><option value=\"age\">Сначала кандидаты по возрасту</option><option value=\"name\">Название лагеря А–Я</option><option value=\"listed\">Порядок справочника</option>",
         "value": "</select></label><label>Порядок рассмотрения<select data-cp-filter=\"sort\"><option value=\"upcoming\">Ближайшие опубликованные даты</option><option value=\"age\">Сначала кандидаты по возрасту</option><option value=\"name\">Название лагеря А–Я</option><option value=\"listed\">Порядок справочника</option>",
         "type": "template"
       },
       {
-        "start": 27170,
-        "end": 27373,
+        "start": 27320,
+        "end": 27523,
         "raw": "</select></label><label>Охват разбора<select data-cp-filter=\"review\"><option value=\"\">Все программы, включая неоценённые</option><option value=\"reviewed\">С редакционным разбором</option></select></label>",
         "value": "</select></label><label>Охват разбора<select data-cp-filter=\"review\"><option value=\"\">Все программы, включая неоценённые</option><option value=\"reviewed\">С редакционным разбором</option></select></label>",
         "type": "template"
       },
       {
-        "start": 27608,
-        "end": 27838,
+        "start": 27758,
+        "end": 27988,
         "raw": "'<label>Ссылка на этот подбор<input id=\"cp-share-url\" type=\"text\" readonly spellcheck=\"false\"></label><button type=\"button\" data-cp-copy-link>Копировать ссылку</button><p id=\"cp-share-status\" role=\"status\" aria-live=\"polite\"></p>'",
         "value": "<label>Ссылка на этот подбор<input id=\"cp-share-url\" type=\"text\" readonly spellcheck=\"false\"></label><button type=\"button\" data-cp-copy-link>Копировать ссылку</button><p id=\"cp-share-status\" role=\"status\" aria-live=\"polite\"></p>",
         "type": "literal"
       },
       {
-        "start": 28103,
-        "end": 28151,
+        "start": 28253,
+        "end": 28301,
         "raw": "'<summary>Подборки по целям и странам</summary>'",
         "value": "<summary>Подборки по целям и странам</summary>",
         "type": "literal"
       },
       {
-        "start": 28249,
-        "end": 28283,
+        "start": 28399,
+        "end": 28433,
         "raw": "'Какую задачу решаем на каникулах'",
         "value": "Какую задачу решаем на каникулах",
         "type": "literal"
       },
       {
-        "start": 28462,
-        "end": 28502,
+        "start": 28612,
+        "end": 28652,
         "raw": "Сценарий<select data-cp-scenario-select>",
         "value": "Сценарий<select data-cp-scenario-select>",
         "type": "template"
       },
       {
-        "start": 29353,
-        "end": 29991,
+        "start": 29503,
+        "end": 30141,
         "raw": "<div class=\"cp-intro\"><div><p class=\"section-kicker\">ПОДРОБНЫЙ ВЫБОР</p><h3>Одни каникулы.<br>Много путей расти.</h3><p>Общие и тематические лагеря, инженерные курсы и каникулярные пансионы. Выбирайте по стране и цели, сравнивайте реальную программу и условия каждого ребёнка.</p><div class=\"cp-linkrow\"><a href=\"downloads/STEM_camp_programmes_deep_2026_2027.md\" download>Подробный отчёт с источниками ↓</a><a href=\"downloads/STEM_camp_programmes_deep_2026_2027.json\" download>Скачать реестр досье ↓</a><a href=\"downloads/STEM_подтвержденные_даты.ics\" download>Общий семейный календарь .ics ↓</a></div></div><div class=\"cp-stats\"><div><b>",
         "value": "<div class=\"cp-intro\"><div><p class=\"section-kicker\">ПОДРОБНЫЙ ВЫБОР</p><h3>Одни каникулы.<br>Много путей расти.</h3><p>Общие и тематические лагеря, инженерные курсы и каникулярные пансионы. Выбирайте по стране и цели, сравнивайте реальную программу и условия каждого ребёнка.</p><div class=\"cp-linkrow\"><a href=\"downloads/STEM_camp_programmes_deep_2026_2027.md\" download>Подробный отчёт с источниками ↓</a><a href=\"downloads/STEM_camp_programmes_deep_2026_2027.json\" download>Скачать реестр досье ↓</a><a href=\"downloads/STEM_подтвержденные_даты.ics\" download>Общий семейный календарь .ics ↓</a></div></div><div class=\"cp-stats\"><div><b>",
         "type": "template"
       },
       {
-        "start": 30015,
-        "end": 30070,
+        "start": 30165,
+        "end": 30220,
         "raw": "</b><span>подробных досье программ</span></div><div><b>",
         "value": "</b><span>подробных досье программ</span></div><div><b>",
         "type": "template"
       },
       {
-        "start": 30095,
-        "end": 30139,
+        "start": 30245,
+        "end": 30289,
         "raw": "</b><span>стран с досье</span></div><div><b>",
         "value": "</b><span>стран с досье</span></div><div><b>",
         "type": "template"
       },
       {
-        "start": 30160,
-        "end": 30215,
+        "start": 30310,
+        "end": 30365,
         "raw": "</b><span>досье программ Швейцарии</span></div><div><b>",
         "value": "</b><span>досье программ Швейцарии</span></div><div><b>",
         "type": "template"
       },
       {
-        "start": 30242,
-        "end": 30734,
+        "start": 30392,
+        "end": 30884,
         "raw": "</b><span>официальных источников в досье</span></div></div></div><p class=\"cp-note\">В 2027 Матвею будет 9–10, Оскару 6–7. Для границ 7/10 лет нужны точные дни рождения, для школьных программ — классы. У некоторых курсов возраст считается до конца года; правило в досье. Полный мировой каталог продолжает собираться; цена 2026 и неизвестный язык отмечены явно.</p><h3 class=\"cp-choice-title\">Сначала выберите цель</h3><div class=\"cp-scenarios\" role=\"group\" aria-label=\"Сценарии выбора лагеря\">",
         "value": "</b><span>официальных источников в досье</span></div></div></div><p class=\"cp-note\">В 2027 Матвею будет 9–10, Оскару 6–7. Для границ 7/10 лет нужны точные дни рождения, для школьных программ — классы. У некоторых курсов возраст считается до конца года; правило в досье. Полный мировой каталог продолжает собираться; цена 2026 и неизвестный язык отмечены явно.</p><h3 class=\"cp-choice-title\">Сначала выберите цель</h3><div class=\"cp-scenarios\" role=\"group\" aria-label=\"Сценарии выбора лагеря\">",
         "type": "template"
       },
       {
-        "start": 30976,
-        "end": 31171,
+        "start": 31126,
+        "end": 31321,
         "raw": "<div class=\"cp-filter-top\"><h3>Досье по вашим условиям</h3><button class=\"cp-reset\" data-cp-reset>Сбросить фильтры справочника</button></div><div class=\"cp-filters\"><div id=\"cp-direction-legend\">",
         "value": "<div class=\"cp-filter-top\"><h3>Досье по вашим условиям</h3><button class=\"cp-reset\" data-cp-reset>Сбросить фильтры справочника</button></div><div class=\"cp-filters\"><div id=\"cp-direction-legend\">",
         "type": "template"
       },
       {
-        "start": 31200,
-        "end": 31392,
+        "start": 31350,
+        "end": 31542,
         "raw": "</div><label>Название или тема<input type=\"search\" data-cp-filter=\"query\" placeholder=\"Например: Python, Швейцария…\"></label><label>Страна<select data-cp-filter=\"country\"><option value=\"\">Все ",
         "value": "</div><label>Название или тема<input type=\"search\" data-cp-filter=\"query\" placeholder=\"Например: Python, Швейцария…\"></label><label>Страна<select data-cp-filter=\"country\"><option value=\"\">Все ",
         "type": "template"
       },
       {
-        "start": 31417,
-        "end": 31432,
+        "start": 31567,
+        "end": 31582,
         "raw": " стран</option>",
         "value": " стран</option>",
         "type": "template"
       },
       {
-        "start": 31517,
-        "end": 31621,
+        "start": 31667,
+        "end": 31771,
         "raw": "</select></label><label>Тематика<select data-cp-filter=\"theme\"><option value=\"\">Все направления</option>",
         "value": "</select></label><label>Тематика<select data-cp-filter=\"theme\"><option value=\"\">Все направления</option>",
         "type": "template"
       },
       {
-        "start": 31635,
-        "end": 31752,
+        "start": 31785,
+        "end": 31902,
         "raw": "</select></label><label>Формат<select data-cp-filter=\"format\"><option value=\"\">День, пансион, семья и онлайн</option>",
         "value": "</select></label><label>Формат<select data-cp-filter=\"format\"><option value=\"\">День, пансион, семья и онлайн</option>",
         "type": "template"
       },
       {
-        "start": 31841,
-        "end": 33404,
+        "start": 31991,
+        "end": 33554,
         "raw": "</select></label><label>Предварительный возрастной подбор<select data-cp-filter=\"child\"><option value=\"\">Все возраста и будущие ступени</option><option value=\"both\">Для обоих · с условиями</option><option value=\"matvey\">Матвей · с условиями</option><option value=\"oscar\">Оскар · с условиями</option></select></label><label>Статус дат<select data-cp-filter=\"phase\"><option value=\"\">Все статусы дат</option><option value=\"2027\">Есть даты / окно / программа 2027</option><option value=\"published_2026\">Опубликована программа 2026</option><option value=\"partial_2026\">2026 · детали неполные</option><option value=\"next_unannounced\">Следующая смена не объявлена</option><option value=\"archive_next_unannounced\">Архив · новый набор не объявлен</option></select></label><label>Прямо подтверждённый язык<select data-cp-filter=\"language\"><option value=\"\">Все, включая требующие проверки</option><option value=\"EN\">EN подтверждён · роль в досье</option><option value=\"ES\">ES подтверждён · роль в досье</option><option value=\"RU\">RU подтверждён · роль в досье</option><option value=\"EN-support\">Английский с переводом / поддержкой</option></select></label></div><p id=\"cp-results\" class=\"cp-result\" role=\"status\" aria-live=\"polite\"></p><div id=\"cp-compare\" class=\"cp-compare\" hidden></div><p id=\"cp-compare-msg\" class=\"cp-compare-msg\" role=\"status\" aria-live=\"polite\"></p><div id=\"cp-grid\" class=\"cp-grid\"></div><button id=\"cp-more\" class=\"cp-more\">Показать все досье</button><details class=\"cp-methodology\"><summary>Как сделан отбор и что ещё требует проверки</summary><ul>",
         "value": "</select></label><label>Предварительный возрастной подбор<select data-cp-filter=\"child\"><option value=\"\">Все возраста и будущие ступени</option><option value=\"both\">Для обоих · с условиями</option><option value=\"matvey\">Матвей · с условиями</option><option value=\"oscar\">Оскар · с условиями</option></select></label><label>Статус дат<select data-cp-filter=\"phase\"><option value=\"\">Все статусы дат</option><option value=\"2027\">Есть даты / окно / программа 2027</option><option value=\"published_2026\">Опубликована программа 2026</option><option value=\"partial_2026\">2026 · детали неполные</option><option value=\"next_unannounced\">Следующая смена не объявлена</option><option value=\"archive_next_unannounced\">Архив · новый набор не объявлен</option></select></label><label>Прямо подтверждённый язык<select data-cp-filter=\"language\"><option value=\"\">Все, включая требующие проверки</option><option value=\"EN\">EN подтверждён · роль в досье</option><option value=\"ES\">ES подтверждён · роль в досье</option><option value=\"RU\">RU подтверждён · роль в досье</option><option value=\"EN-support\">Английский с переводом / поддержкой</option></select></label></div><p id=\"cp-results\" class=\"cp-result\" role=\"status\" aria-live=\"polite\"></p><div id=\"cp-compare\" class=\"cp-compare\" hidden></div><p id=\"cp-compare-msg\" class=\"cp-compare-msg\" role=\"status\" aria-live=\"polite\"></p><div id=\"cp-grid\" class=\"cp-grid\"></div><button id=\"cp-more\" class=\"cp-more\">Показать все досье</button><details class=\"cp-methodology\"><summary>Как сделан отбор и что ещё требует проверки</summary><ul>",
         "type": "template"
       },
       {
-        "start": 33493,
-        "end": 48023,
+        "start": 33643,
+        "end": 48173,
         "raw": "</p><p><a href=\"downloads/STEM_east_asia_winter_audit_v159.json\" download>Азия зимой: группы, даты, языки и цены ↓</a> · <a href=\"downloads/STEM_east_asia_winter_source_receipts_v159.json\" download>Первичные источники зимней Азии ↓</a> · <a href=\"downloads/STEM_east_asia_winter_native_schedules_v159.json\" download>Фактические варианты ESF и Camp Asia ↓</a> · <a href=\"downloads/STEM_asia_camps_audit_v128.json\" download>Азия: подробная новая проверка ↓</a> · <a href=\"downloads/STEM_asia_camps_source_receipts_v128.json\" download>Первичные источники ↓</a> · <a href=\"downloads/STEM_europe_camps_audit_v127.json\" download>Европа: программы и новые каникулы ↓</a> · <a href=\"downloads/STEM_europe_camps_source_receipts_v127.json\" download>Первичные источники ↓</a> · <a href=\"downloads/STEM_americas_camps_audit_v126.json\" download>Америка: смены, классы и семейные цены ↓</a> · <a href=\"downloads/STEM_americas_camps_source_receipts_v126.json\" download>Источники и ограничения ↓</a> · <a href=\"downloads/STEM_asia_camps_audit_v125.json\" download>Азия: зимние программы, классы и цены ↓</a> · <a href=\"downloads/STEM_asia_camps_source_receipts_v125.json\" download>Источники и расхождения ↓</a> · <a href=\"downloads/STEM_europe_camps_audit_v124.json\" download>Европа: младшие группы, ближайшие смены и смета ↓</a> · <a href=\"downloads/STEM_europe_camps_source_receipts_v124.json\" download>Источники и ограничения ↓</a> · <a href=\"downloads/STEM_latam_camps_audit_v123.json\" download>Латинская Америка: 18 новых досье и условия участия ↓</a> · <a href=\"downloads/STEM_latam_camps_source_receipts_v123.json\" download>Источники и ограничения ↓</a> · <a href=\"downloads/STEM_northamerica_camps_audit_v122.json\" download>США и Канада: 17 досье и 58 вариантов 2027 ↓</a> · <a href=\"downloads/STEM_northamerica_camps_source_receipts_v122.json\" download>Источники и ограничения проверки ↓</a> · <a href=\"downloads/STEM_asia_camps_audit_v121.json\" download>Азия: 18 новых досье и 40 датированных вариантов ↓</a> · <a href=\"downloads/STEM_asia_camps_source_receipts_v121.json\" download>Программы и границы проверки ↓</a> · <a href=\"downloads/STEM_europe_camps_audit_v120.json\" download>Франция / Испания: 7 новых досье и 8 смет ↓</a> · <a href=\"downloads/STEM_europe_camps_source_receipts_v120.json\" download>Программы, тарифы и границы проверки ↓</a> · <a href=\"downloads/STEM_swiss_camp_budgets_audit_v119.json\" download>Швейцария: 8 новых летних и зимних смет ↓</a> · <a href=\"downloads/STEM_swiss_camp_budget_source_receipts_v119.json\" download>Тарифы, договоры и границы проверки ↓</a> · <a href=\"downloads/STEM_latam_camps_audit_v117.json\" download>Латинская Америка: дневные, пансионные и семейные программы ↓</a> · <a href=\"downloads/STEM_latam_camps_source_receipts_v117.json\" download>Первичные источники и ограничения проверки ↓</a> · <a href=\"downloads/STEM_asia_camps_audit_v116.json\" download>Сингапур, Корея, Япония и Тайвань: смены, языки и пансионы ↓</a> · <a href=\"downloads/STEM_asia_camps_source_receipts_v116.json\" download>Первичные источники и ограничения проверки ↓</a> · <a href=\"downloads/STEM_europe_camps_audit_v115.json\" download>Швейцария, Франция и Испания: зимние и школьные программы ↓</a> · <a href=\"downloads/STEM_europe_camps_source_receipts_v115.json\" download>Первичные страницы и ограничения проверки ↓</a> · <a href=\"downloads/STEM_northamerica_camps_audit_v114.json\" download>США и Канада: программы, цены и возрастные ограничения ↓</a> · <a href=\"downloads/STEM_northamerica_camps_source_receipts_v114.json\" download>Первичные страницы и ограничения доказательств ↓</a> · <a href=\"downloads/STEM_latam_camps_audit_v113.json\" download>Латинская Америка: новые пансионы и возрастные условия ↓</a> · <a href=\"downloads/STEM_latam_camps_source_receipts_v113.json\" download>Первичные страницы и проверенные брошюры ↓</a> · <a href=\"downloads/STEM_asia_camps_audit_v112.json\" download>Азия: новые смены, возраст и состав цены ↓</a> · <a href=\"downloads/STEM_asia_camps_source_receipts_v112.json\" download>Первичные страницы и проверенные PDF Азии ↓</a> · <a href=\"downloads/STEM_europe_camps_audit_v111.json\" download>Европа: новые смены, языки и семейная стоимость ↓</a> · <a href=\"downloads/STEM_europe_camps_source_receipts_v111.json\" download>Первичные страницы, афиши и PDF Европы ↓</a> · <a href=\"downloads/STEM_americas_camp_audit_v106.json\" download>Америка: ближайшие технические и общие программы ↓</a> · <a href=\"downloads/STEM_americas_camp_source_receipts_v106.json\" download>Проверенные источники Америки ↓</a> · <a href=\"downloads/STEM_asia_camp_audit_v105.json\" download>Азия: новые подробные программы и условия ↓</a> · <a href=\"downloads/STEM_asia_camp_source_receipts_v105.json\" download>Проверенные источники Азии ↓</a> · <a href=\"downloads/STEM_europe_camp_audit_v104.json\" download>Европа: подробные программы и условия ↓</a> · <a href=\"downloads/STEM_europe_camp_source_receipts_v104.json\" download>Проверенные источники Европы ↓</a> · <a href=\"downloads/STEM_americas_camp_audit_v103.json\" download>Америка: зима2026 и лето2027 ↓</a> · <a href=\"downloads/STEM_americas_camp_source_receipts_v103.json\" download>Проверенные источники Америки ↓</a> · <a href=\"downloads/STEM_asia_camp_audit_v102.json\" download>Азия: зимняя техника и Тайвань2027 ↓</a> · <a href=\"downloads/STEM_asia_camp_source_receipts_v102.json\" download>Источники нового азиатского прохода ↓</a> · <a href=\"downloads/STEM_europe_camp_audit_v101.json\" download>Европа: пансионы, английские каникулы и цены 2027 ↓</a> · <a href=\"downloads/STEM_europe_camp_source_receipts_v101.json\" download>Источники нового европейского прохода ↓</a> · <a href=\"downloads/STEM_europe_camp_audit_v100.json\" download>Европа: технические треки и английские каникулы ↓</a> · <a href=\"downloads/STEM_europe_camp_source_receipts_v100.json\" download>Проверенные страницы и брошюры ↓</a> · <a href=\"downloads/STEM_asia_camp_audit_v98.json\" download>Азия: зимние программы, классы, языки и полная смета ↓</a> · <a href=\"downloads/STEM_asia_camp_source_receipts_v98.json\" download>Проверенные страницы и брошюры ↓</a> · <a href=\"downloads/STEM_americas_camp_audit_v97.json\" download>Канада и США: пансионы, STEM, классы и смета ↓</a> · <a href=\"downloads/STEM_americas_camp_source_receipts_v97.json\" download>Проверенные страницы и ограничения источников ↓</a> · <a href=\"downloads/STEM_france_spain_camp_audit_v96.json\" download>Франция и Испания: программы, языки и полная смета ↓</a> · <a href=\"downloads/STEM_france_spain_camp_source_receipts_v96.json\" download>Страницы и сезонные брошюры ↓</a> · <a href=\"downloads/STEM_asia_camp_audit_v95.json\" download>Азия: новые программы, цены и возрастные уровни ↓</a> · <a href=\"downloads/STEM_asia_camp_source_receipts_v95.json\" download>Первичные страницы, формы и архивы ↓</a> · <a href=\"downloads/STEM_europe_camp_audit_v94.json\" download>Европа: возраст, договор и семейная смета ↓</a> · <a href=\"downloads/STEM_europe_camp_source_receipts_v94.json\" download>Первичные источники и годы PDF ↓</a> · <a href=\"downloads/STEM_americas_camp_audit_v93.json\" download>Америка: новые сезоны и подробный прайс ↓</a> · <a href=\"downloads/STEM_americas_camp_source_receipts_v93.json\" download>Первичные источники и расхождения ↓</a> · <a href=\"downloads/STEM_asia_camp_audit_v92.json\" download>Азия и Австралия: новые сезоны и семейные условия ↓</a> · <a href=\"downloads/STEM_asia_camp_source_receipts_v92.json\" download>Источники и границы проверки ↓</a> · <a href=\"downloads/STEM_europe_camp_audit_v91.json\" download>Европа: программы, младшие группы и полный счёт ↓</a> · <a href=\"downloads/STEM_europe_camp_source_receipts_v91.json\" download>Источники и границы проверки ↓</a> · <a href=\"downloads/STEM_americas_camp_audit_v90.json\" download>Америка: зимние смены, пансионы и полная стоимость ↓</a> · <a href=\"downloads/STEM_americas_camp_source_receipts_v90.json\" download>Источники и границы проверки ↓</a> · <a href=\"downloads/STEM_asia_camp_audit_v89.json\" download>Япония / Тайвань / Сингапур / Корея: новая проверка ↓</a> · <a href=\"downloads/STEM_asia_camp_source_receipts_v89.json\" download>Источники и границы проверки ↓</a> · <a href=\"downloads/STEM_europe_camp_audit_v88.json\" download>Швейцария / Франция / Испания: программы и условия ↓</a> · <a href=\"downloads/STEM_europe_camp_source_receipts_v88.json\" download>Источники нового прохода ↓</a> · <a href=\"downloads/STEM_americas_camp_audit_v87.json\" download>США / Канада / Мексика: программы и ограничения ↓</a> · <a href=\"downloads/STEM_americas_camp_source_receipts_v87.json\" download>Источники нового прохода ↓</a> · <a href=\"downloads/STEM_asia_camp_audit_v86.json\" download>Азия: программы, языки и полная смета ↓</a> · <a href=\"downloads/STEM_asia_camp_source_receipts_v86.json\" download>Источники проверки Азии ↓</a> · <a href=\"downloads/STEM_europe_camp_audit_v85.json\" download>Европа: смены, цены и пансионы 2027 ↓</a> · <a href=\"downloads/STEM_europe_camp_source_receipts_v85.json\" download>Источники проверки Европы ↓</a> · <a href=\"downloads/STEM_americas_camp_audit_v84.json\" download>Америка: классы, пансионы и семейные программы ↓</a> · <a href=\"downloads/STEM_americas_camp_source_receipts_v84.json\" download>Источники проверки программ Америки ↓</a> · <a href=\"downloads/STEM_asia_camp_audit_v83.json\" download>Азия: программы, возраст и условия ↓</a> · <a href=\"downloads/STEM_asia_camp_source_receipts_v83.json\" download>Источники проверки азиатских программ ↓</a> · <a href=\"downloads/STEM_europe_camp_audit_v82.json\" download>Швейцария, Франция, Испания: программы и условия ↓</a> · <a href=\"downloads/STEM_europe_camp_source_receipts_v82.json\" download>Источники проверки этих программ ↓</a> · <a href=\"downloads/STEM_europe_camp_audit_v81.json\" download>Европа: группы, язык и пансионы2027 ↓</a> · <a href=\"downloads/STEM_europe_camp_source_receipts_v81.json\" download>Источники европейской проверки ↓</a> · <a href=\"downloads/STEM_americas_camp_audit_v80.json\" download>Америка: программы, пансионы и цены ↓</a> · <a href=\"downloads/STEM_americas_camp_source_receipts_v80.json\" download>Источники проверки Америки ↓</a> · <a href=\"downloads/STEM_asia_camp_audit_v79.json\" download>Азия: подробные программы и допуск ↓</a> · <a href=\"downloads/STEM_asia_camp_source_receipts_v79.json\" download>Источники проверки Азии ↓</a> · <a href=\"downloads/STEM_europe_camp_audit_v78.json\" download>Европа: подробная проверка программ ↓</a> · <a href=\"downloads/STEM_europe_camp_source_receipts_v78.json\" download>Источники проверки Европы ↓</a> · <a href=\"downloads/STEM_americas_camp_audit_v77.json\" download>Америка: программы и договоры ↓</a> · <a href=\"downloads/STEM_americas_camp_source_receipts_v77.json\" download>Источники проверки Америки ↓</a> · <a href=\"downloads/STEM_asia_camp_audit_v76.json\" download>Азия: программы, классы и цены ↓</a> · <a href=\"downloads/STEM_asia_camp_source_receipts_v76.json\" download>Источники проверки Азии ↓</a> · <a href=\"downloads/STEM_europe_camp_audit_v75.json\" download>Швейцария / Франция / Испания: новые программы ↓</a> · <a href=\"downloads/STEM_europe_camp_source_receipts_v75.json\" download>Документы и источники новой проверки ↓</a> · <a href=\"downloads/STEM_latam_camp_audit_v74.json\" download>Коста-Рика, Мексика и LATAM · аудит v74 ↓</a><a href=\"downloads/STEM_latam_camp_source_receipts_v74.json\" download>Источники LATAM v74 ↓</a><a href=\"downloads/STEM_northamerica_camp_audit_v73.json\" download>США / Канада: пансионы2027, зимняя техника и возрастные ограничения ↓</a> · <a href=\"downloads/STEM_northamerica_camp_source_receipts_v73.json\" download>Первичные сайты, реальные формы смен и найденные конфликты ↓</a> · <a href=\"downloads/STEM_asia_camp_audit_v72.json\" download>Азия: реальные зимние смены, школьные уровни и ограничения ↓</a> · <a href=\"downloads/STEM_asia_camp_source_receipts_v72.json\" download>Прочитанные азиатские сайты и четыре PDF ↓</a> · <a href=\"downloads/STEM_france_spain_europe_camp_audit_v71.json\" download>Франция / Испания / Европа: осень, зима и новые пансионы 2027 ↓</a> · <a href=\"downloads/STEM_france_spain_europe_camp_source_receipts_v71.json\" download>Прочитанные сайты, реальные карточки и ограничения ↓</a> · <a href=\"downloads/STEM_swiss_europe_camp_audit_v70.json\" download>Швейцария 2027: новые пансионы, лето, зима и Пасха ↓</a> · <a href=\"downloads/STEM_swiss_europe_camp_source_receipts_v70.json\" download>Швейцарские сайты, PDF и CLL Брюссель ↓</a> · <a href=\"downloads/STEM_latam_camp_audit_v69.json\" download>Латинская Америка: новые программы, январь и возрастные уровни ↓</a> · <a href=\"downloads/STEM_latam_camp_source_receipts_v69.json\" download>Первичные источники Латинской Америки ↓</a> · <a href=\"downloads/STEM_northamerica_camp_audit_v68.json\" download>США / Канада: программы 2027 и зимние мастерские ↓</a> · <a href=\"downloads/STEM_northamerica_camp_source_receipts_v68.json\" download>Первичные источники США / Канады ↓</a> · <a href=\"downloads/STEM_asia_camp_audit_v67.json\" download>Япония / Сингапур / Тайвань / Корея: новые программы ↓</a> · <a href=\"downloads/STEM_asia_camp_source_receipts_v67.json\" download>Проверенные страницы и PDF нового прохода ↓</a> · <a href=\"downloads/STEM_france_spain_camp_audit_v66.json\" download>Франция / Испания и уточнённый La Garenne 2027 ↓</a> · <a href=\"downloads/STEM_france_spain_camp_source_receipts_v66.json\" download>Первичные источники нового прохода ↓</a> · <a href=\"downloads/STEM_swiss_camp_audit_v65.json\" download>Швейцария: новые программы и зимние ограничения ↓</a> · <a href=\"downloads/STEM_swiss_camp_source_receipts_v65.json\" download>Новые швейцарские источники ↓</a> · <a href=\"downloads/STEM_northamerica_camp_audit_v64.json\" download>США / Канада: новая проверка ↓</a> · <a href=\"downloads/STEM_northamerica_camp_source_receipts_v64.json\" download>Источники США / Канады ↓</a> · <a href=\"downloads/STEM_europe_camp_audit_v63.json\" download>Глубокая Европа: программы и нюансы ↓</a> · <a href=\"downloads/STEM_europe_camp_source_receipts_v63.json\" download>Новые европейские источники ↓</a> · <a href=\"downloads/STEM_asia_camp_audit_v62.json\" download>Новая проверка Азии ↓</a> · <a href=\"downloads/STEM_asia_camp_source_receipts_v62.json\" download>Источники Азии ↓</a> · <a href=\"downloads/STEM_europe_camp_audit_v61.json\" download>Европа ↓</a> · <a href=\"downloads/STEM_europe_camp_source_receipts_v61.json\" download>Доказательства источников ↓</a> · <a href=\"downloads/STEM_latam_camp_audit_v60.json\" download>Латинская Америка ↓</a></p>",
         "value": "</p><p><a href=\"downloads/STEM_east_asia_winter_audit_v159.json\" download>Азия зимой: группы, даты, языки и цены ↓</a> · <a href=\"downloads/STEM_east_asia_winter_source_receipts_v159.json\" download>Первичные источники зимней Азии ↓</a> · <a href=\"downloads/STEM_east_asia_winter_native_schedules_v159.json\" download>Фактические варианты ESF и Camp Asia ↓</a> · <a href=\"downloads/STEM_asia_camps_audit_v128.json\" download>Азия: подробная новая проверка ↓</a> · <a href=\"downloads/STEM_asia_camps_source_receipts_v128.json\" download>Первичные источники ↓</a> · <a href=\"downloads/STEM_europe_camps_audit_v127.json\" download>Европа: программы и новые каникулы ↓</a> · <a href=\"downloads/STEM_europe_camps_source_receipts_v127.json\" download>Первичные источники ↓</a> · <a href=\"downloads/STEM_americas_camps_audit_v126.json\" download>Америка: смены, классы и семейные цены ↓</a> · <a href=\"downloads/STEM_americas_camps_source_receipts_v126.json\" download>Источники и ограничения ↓</a> · <a href=\"downloads/STEM_asia_camps_audit_v125.json\" download>Азия: зимние программы, классы и цены ↓</a> · <a href=\"downloads/STEM_asia_camps_source_receipts_v125.json\" download>Источники и расхождения ↓</a> · <a href=\"downloads/STEM_europe_camps_audit_v124.json\" download>Европа: младшие группы, ближайшие смены и смета ↓</a> · <a href=\"downloads/STEM_europe_camps_source_receipts_v124.json\" download>Источники и ограничения ↓</a> · <a href=\"downloads/STEM_latam_camps_audit_v123.json\" download>Латинская Америка: 18 новых досье и условия участия ↓</a> · <a href=\"downloads/STEM_latam_camps_source_receipts_v123.json\" download>Источники и ограничения ↓</a> · <a href=\"downloads/STEM_northamerica_camps_audit_v122.json\" download>США и Канада: 17 досье и 58 вариантов 2027 ↓</a> · <a href=\"downloads/STEM_northamerica_camps_source_receipts_v122.json\" download>Источники и ограничения проверки ↓</a> · <a href=\"downloads/STEM_asia_camps_audit_v121.json\" download>Азия: 18 новых досье и 40 датированных вариантов ↓</a> · <a href=\"downloads/STEM_asia_camps_source_receipts_v121.json\" download>Программы и границы проверки ↓</a> · <a href=\"downloads/STEM_europe_camps_audit_v120.json\" download>Франция / Испания: 7 новых досье и 8 смет ↓</a> · <a href=\"downloads/STEM_europe_camps_source_receipts_v120.json\" download>Программы, тарифы и границы проверки ↓</a> · <a href=\"downloads/STEM_swiss_camp_budgets_audit_v119.json\" download>Швейцария: 8 новых летних и зимних смет ↓</a> · <a href=\"downloads/STEM_swiss_camp_budget_source_receipts_v119.json\" download>Тарифы, договоры и границы проверки ↓</a> · <a href=\"downloads/STEM_latam_camps_audit_v117.json\" download>Латинская Америка: дневные, пансионные и семейные программы ↓</a> · <a href=\"downloads/STEM_latam_camps_source_receipts_v117.json\" download>Первичные источники и ограничения проверки ↓</a> · <a href=\"downloads/STEM_asia_camps_audit_v116.json\" download>Сингапур, Корея, Япония и Тайвань: смены, языки и пансионы ↓</a> · <a href=\"downloads/STEM_asia_camps_source_receipts_v116.json\" download>Первичные источники и ограничения проверки ↓</a> · <a href=\"downloads/STEM_europe_camps_audit_v115.json\" download>Швейцария, Франция и Испания: зимние и школьные программы ↓</a> · <a href=\"downloads/STEM_europe_camps_source_receipts_v115.json\" download>Первичные страницы и ограничения проверки ↓</a> · <a href=\"downloads/STEM_northamerica_camps_audit_v114.json\" download>США и Канада: программы, цены и возрастные ограничения ↓</a> · <a href=\"downloads/STEM_northamerica_camps_source_receipts_v114.json\" download>Первичные страницы и ограничения доказательств ↓</a> · <a href=\"downloads/STEM_latam_camps_audit_v113.json\" download>Латинская Америка: новые пансионы и возрастные условия ↓</a> · <a href=\"downloads/STEM_latam_camps_source_receipts_v113.json\" download>Первичные страницы и проверенные брошюры ↓</a> · <a href=\"downloads/STEM_asia_camps_audit_v112.json\" download>Азия: новые смены, возраст и состав цены ↓</a> · <a href=\"downloads/STEM_asia_camps_source_receipts_v112.json\" download>Первичные страницы и проверенные PDF Азии ↓</a> · <a href=\"downloads/STEM_europe_camps_audit_v111.json\" download>Европа: новые смены, языки и семейная стоимость ↓</a> · <a href=\"downloads/STEM_europe_camps_source_receipts_v111.json\" download>Первичные страницы, афиши и PDF Европы ↓</a> · <a href=\"downloads/STEM_americas_camp_audit_v106.json\" download>Америка: ближайшие технические и общие программы ↓</a> · <a href=\"downloads/STEM_americas_camp_source_receipts_v106.json\" download>Проверенные источники Америки ↓</a> · <a href=\"downloads/STEM_asia_camp_audit_v105.json\" download>Азия: новые подробные программы и условия ↓</a> · <a href=\"downloads/STEM_asia_camp_source_receipts_v105.json\" download>Проверенные источники Азии ↓</a> · <a href=\"downloads/STEM_europe_camp_audit_v104.json\" download>Европа: подробные программы и условия ↓</a> · <a href=\"downloads/STEM_europe_camp_source_receipts_v104.json\" download>Проверенные источники Европы ↓</a> · <a href=\"downloads/STEM_americas_camp_audit_v103.json\" download>Америка: зима2026 и лето2027 ↓</a> · <a href=\"downloads/STEM_americas_camp_source_receipts_v103.json\" download>Проверенные источники Америки ↓</a> · <a href=\"downloads/STEM_asia_camp_audit_v102.json\" download>Азия: зимняя техника и Тайвань2027 ↓</a> · <a href=\"downloads/STEM_asia_camp_source_receipts_v102.json\" download>Источники нового азиатского прохода ↓</a> · <a href=\"downloads/STEM_europe_camp_audit_v101.json\" download>Европа: пансионы, английские каникулы и цены 2027 ↓</a> · <a href=\"downloads/STEM_europe_camp_source_receipts_v101.json\" download>Источники нового европейского прохода ↓</a> · <a href=\"downloads/STEM_europe_camp_audit_v100.json\" download>Европа: технические треки и английские каникулы ↓</a> · <a href=\"downloads/STEM_europe_camp_source_receipts_v100.json\" download>Проверенные страницы и брошюры ↓</a> · <a href=\"downloads/STEM_asia_camp_audit_v98.json\" download>Азия: зимние программы, классы, языки и полная смета ↓</a> · <a href=\"downloads/STEM_asia_camp_source_receipts_v98.json\" download>Проверенные страницы и брошюры ↓</a> · <a href=\"downloads/STEM_americas_camp_audit_v97.json\" download>Канада и США: пансионы, STEM, классы и смета ↓</a> · <a href=\"downloads/STEM_americas_camp_source_receipts_v97.json\" download>Проверенные страницы и ограничения источников ↓</a> · <a href=\"downloads/STEM_france_spain_camp_audit_v96.json\" download>Франция и Испания: программы, языки и полная смета ↓</a> · <a href=\"downloads/STEM_france_spain_camp_source_receipts_v96.json\" download>Страницы и сезонные брошюры ↓</a> · <a href=\"downloads/STEM_asia_camp_audit_v95.json\" download>Азия: новые программы, цены и возрастные уровни ↓</a> · <a href=\"downloads/STEM_asia_camp_source_receipts_v95.json\" download>Первичные страницы, формы и архивы ↓</a> · <a href=\"downloads/STEM_europe_camp_audit_v94.json\" download>Европа: возраст, договор и семейная смета ↓</a> · <a href=\"downloads/STEM_europe_camp_source_receipts_v94.json\" download>Первичные источники и годы PDF ↓</a> · <a href=\"downloads/STEM_americas_camp_audit_v93.json\" download>Америка: новые сезоны и подробный прайс ↓</a> · <a href=\"downloads/STEM_americas_camp_source_receipts_v93.json\" download>Первичные источники и расхождения ↓</a> · <a href=\"downloads/STEM_asia_camp_audit_v92.json\" download>Азия и Австралия: новые сезоны и семейные условия ↓</a> · <a href=\"downloads/STEM_asia_camp_source_receipts_v92.json\" download>Источники и границы проверки ↓</a> · <a href=\"downloads/STEM_europe_camp_audit_v91.json\" download>Европа: программы, младшие группы и полный счёт ↓</a> · <a href=\"downloads/STEM_europe_camp_source_receipts_v91.json\" download>Источники и границы проверки ↓</a> · <a href=\"downloads/STEM_americas_camp_audit_v90.json\" download>Америка: зимние смены, пансионы и полная стоимость ↓</a> · <a href=\"downloads/STEM_americas_camp_source_receipts_v90.json\" download>Источники и границы проверки ↓</a> · <a href=\"downloads/STEM_asia_camp_audit_v89.json\" download>Япония / Тайвань / Сингапур / Корея: новая проверка ↓</a> · <a href=\"downloads/STEM_asia_camp_source_receipts_v89.json\" download>Источники и границы проверки ↓</a> · <a href=\"downloads/STEM_europe_camp_audit_v88.json\" download>Швейцария / Франция / Испания: программы и условия ↓</a> · <a href=\"downloads/STEM_europe_camp_source_receipts_v88.json\" download>Источники нового прохода ↓</a> · <a href=\"downloads/STEM_americas_camp_audit_v87.json\" download>США / Канада / Мексика: программы и ограничения ↓</a> · <a href=\"downloads/STEM_americas_camp_source_receipts_v87.json\" download>Источники нового прохода ↓</a> · <a href=\"downloads/STEM_asia_camp_audit_v86.json\" download>Азия: программы, языки и полная смета ↓</a> · <a href=\"downloads/STEM_asia_camp_source_receipts_v86.json\" download>Источники проверки Азии ↓</a> · <a href=\"downloads/STEM_europe_camp_audit_v85.json\" download>Европа: смены, цены и пансионы 2027 ↓</a> · <a href=\"downloads/STEM_europe_camp_source_receipts_v85.json\" download>Источники проверки Европы ↓</a> · <a href=\"downloads/STEM_americas_camp_audit_v84.json\" download>Америка: классы, пансионы и семейные программы ↓</a> · <a href=\"downloads/STEM_americas_camp_source_receipts_v84.json\" download>Источники проверки программ Америки ↓</a> · <a href=\"downloads/STEM_asia_camp_audit_v83.json\" download>Азия: программы, возраст и условия ↓</a> · <a href=\"downloads/STEM_asia_camp_source_receipts_v83.json\" download>Источники проверки азиатских программ ↓</a> · <a href=\"downloads/STEM_europe_camp_audit_v82.json\" download>Швейцария, Франция, Испания: программы и условия ↓</a> · <a href=\"downloads/STEM_europe_camp_source_receipts_v82.json\" download>Источники проверки этих программ ↓</a> · <a href=\"downloads/STEM_europe_camp_audit_v81.json\" download>Европа: группы, язык и пансионы2027 ↓</a> · <a href=\"downloads/STEM_europe_camp_source_receipts_v81.json\" download>Источники европейской проверки ↓</a> · <a href=\"downloads/STEM_americas_camp_audit_v80.json\" download>Америка: программы, пансионы и цены ↓</a> · <a href=\"downloads/STEM_americas_camp_source_receipts_v80.json\" download>Источники проверки Америки ↓</a> · <a href=\"downloads/STEM_asia_camp_audit_v79.json\" download>Азия: подробные программы и допуск ↓</a> · <a href=\"downloads/STEM_asia_camp_source_receipts_v79.json\" download>Источники проверки Азии ↓</a> · <a href=\"downloads/STEM_europe_camp_audit_v78.json\" download>Европа: подробная проверка программ ↓</a> · <a href=\"downloads/STEM_europe_camp_source_receipts_v78.json\" download>Источники проверки Европы ↓</a> · <a href=\"downloads/STEM_americas_camp_audit_v77.json\" download>Америка: программы и договоры ↓</a> · <a href=\"downloads/STEM_americas_camp_source_receipts_v77.json\" download>Источники проверки Америки ↓</a> · <a href=\"downloads/STEM_asia_camp_audit_v76.json\" download>Азия: программы, классы и цены ↓</a> · <a href=\"downloads/STEM_asia_camp_source_receipts_v76.json\" download>Источники проверки Азии ↓</a> · <a href=\"downloads/STEM_europe_camp_audit_v75.json\" download>Швейцария / Франция / Испания: новые программы ↓</a> · <a href=\"downloads/STEM_europe_camp_source_receipts_v75.json\" download>Документы и источники новой проверки ↓</a> · <a href=\"downloads/STEM_latam_camp_audit_v74.json\" download>Коста-Рика, Мексика и LATAM · аудит v74 ↓</a><a href=\"downloads/STEM_latam_camp_source_receipts_v74.json\" download>Источники LATAM v74 ↓</a><a href=\"downloads/STEM_northamerica_camp_audit_v73.json\" download>США / Канада: пансионы2027, зимняя техника и возрастные ограничения ↓</a> · <a href=\"downloads/STEM_northamerica_camp_source_receipts_v73.json\" download>Первичные сайты, реальные формы смен и найденные конфликты ↓</a> · <a href=\"downloads/STEM_asia_camp_audit_v72.json\" download>Азия: реальные зимние смены, школьные уровни и ограничения ↓</a> · <a href=\"downloads/STEM_asia_camp_source_receipts_v72.json\" download>Прочитанные азиатские сайты и четыре PDF ↓</a> · <a href=\"downloads/STEM_france_spain_europe_camp_audit_v71.json\" download>Франция / Испания / Европа: осень, зима и новые пансионы 2027 ↓</a> · <a href=\"downloads/STEM_france_spain_europe_camp_source_receipts_v71.json\" download>Прочитанные сайты, реальные карточки и ограничения ↓</a> · <a href=\"downloads/STEM_swiss_europe_camp_audit_v70.json\" download>Швейцария 2027: новые пансионы, лето, зима и Пасха ↓</a> · <a href=\"downloads/STEM_swiss_europe_camp_source_receipts_v70.json\" download>Швейцарские сайты, PDF и CLL Брюссель ↓</a> · <a href=\"downloads/STEM_latam_camp_audit_v69.json\" download>Латинская Америка: новые программы, январь и возрастные уровни ↓</a> · <a href=\"downloads/STEM_latam_camp_source_receipts_v69.json\" download>Первичные источники Латинской Америки ↓</a> · <a href=\"downloads/STEM_northamerica_camp_audit_v68.json\" download>США / Канада: программы 2027 и зимние мастерские ↓</a> · <a href=\"downloads/STEM_northamerica_camp_source_receipts_v68.json\" download>Первичные источники США / Канады ↓</a> · <a href=\"downloads/STEM_asia_camp_audit_v67.json\" download>Япония / Сингапур / Тайвань / Корея: новые программы ↓</a> · <a href=\"downloads/STEM_asia_camp_source_receipts_v67.json\" download>Проверенные страницы и PDF нового прохода ↓</a> · <a href=\"downloads/STEM_france_spain_camp_audit_v66.json\" download>Франция / Испания и уточнённый La Garenne 2027 ↓</a> · <a href=\"downloads/STEM_france_spain_camp_source_receipts_v66.json\" download>Первичные источники нового прохода ↓</a> · <a href=\"downloads/STEM_swiss_camp_audit_v65.json\" download>Швейцария: новые программы и зимние ограничения ↓</a> · <a href=\"downloads/STEM_swiss_camp_source_receipts_v65.json\" download>Новые швейцарские источники ↓</a> · <a href=\"downloads/STEM_northamerica_camp_audit_v64.json\" download>США / Канада: новая проверка ↓</a> · <a href=\"downloads/STEM_northamerica_camp_source_receipts_v64.json\" download>Источники США / Канады ↓</a> · <a href=\"downloads/STEM_europe_camp_audit_v63.json\" download>Глубокая Европа: программы и нюансы ↓</a> · <a href=\"downloads/STEM_europe_camp_source_receipts_v63.json\" download>Новые европейские источники ↓</a> · <a href=\"downloads/STEM_asia_camp_audit_v62.json\" download>Новая проверка Азии ↓</a> · <a href=\"downloads/STEM_asia_camp_source_receipts_v62.json\" download>Источники Азии ↓</a> · <a href=\"downloads/STEM_europe_camp_audit_v61.json\" download>Европа ↓</a> · <a href=\"downloads/STEM_europe_camp_source_receipts_v61.json\" download>Доказательства источников ↓</a> · <a href=\"downloads/STEM_latam_camp_audit_v60.json\" download>Латинская Америка ↓</a></p>",
         "type": "template"
       },
       {
-        "start": 48623,
-        "end": 48686,
+        "start": 48773,
+        "end": 48836,
         "raw": "'Можно сравнить до четырёх лагерей. Уберите один из выбранных.'",
         "value": "Можно сравнить до четырёх лагерей. Уберите один из выбранных.",
         "type": "literal"
       },
       {
-        "start": 48849,
-        "end": 48857,
+        "start": 48999,
+        "end": 49007,
         "raw": "Выбрано ",
         "value": "Выбрано ",
         "type": "template"
       },
       {
-        "start": 48875,
-        "end": 48913,
+        "start": 49025,
+        "end": 49063,
         "raw": "/4. Таблица сравнения — над каталогом.",
         "value": "/4. Таблица сравнения — над каталогом.",
         "type": "template"
       },
       {
-        "start": 49587,
-        "end": 49648,
+        "start": 49737,
+        "end": 49798,
         "raw": "'Ссылка скопирована. Фильтры откроются на другом устройстве.'",
         "value": "Ссылка скопирована. Фильтры откроются на другом устройстве.",
         "type": "literal"
       },
       {
-        "start": 49736,
-        "end": 49777,
+        "start": 49886,
+        "end": 49927,
         "raw": "'Ссылка выделена: скопируйте её вручную.'",
         "value": "Ссылка выделена: скопируйте её вручную.",
         "type": "literal"
       },
       {
-        "start": 50231,
-        "end": 50251,
+        "start": 50381,
+        "end": 50401,
         "raw": "'Сравнение очищено.'",
         "value": "Сравнение очищено.",
         "type": "literal"
       },
       {
-        "start": 50445,
-        "end": 50611,
+        "start": 50595,
+        "end": 50761,
         "raw": "'<p class=\"cp-note\">Подробный справочник сейчас не загрузился. <a href=\"downloads/STEM_camp_programmes_deep_2026_2027.md\">Открыть полный отчёт с источниками</a>.</p>'",
         "value": "<p class=\"cp-note\">Подробный справочник сейчас не загрузился. <a href=\"downloads/STEM_camp_programmes_deep_2026_2027.md\">Открыть полный отчёт с источниками</a>.</p>",
         "type": "literal"

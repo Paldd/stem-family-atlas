@@ -20,7 +20,7 @@ HEADERS={
  'programme':'Programa','place':'Lugar','accommodation':'Alojamiento','price':'Precio y condiciones',
  'family_fit':'Requisitos para la familia','timing':'Calendario','sources':'Fuentes oficiales',
  'pairing':'Grupos simultáneos: sede y tarifa verificadas',
- 'archive_offers':'Ofertas archivadas',
+ 'archive_offers':'Ofertas archivadas','previous_price_terms':'Condiciones de precios anteriores',
  'questions':'Preguntas pendientes','school_type':'Tipo de colegio','results':'Resultados',
  'requirements':'Requisitos','awards':'Premios','age_rule':'Regla de edad','age_range':'Edades',
  'format_rule':'Regla del formato','entry_route':'Vía de participación','availability':'Disponibilidad'

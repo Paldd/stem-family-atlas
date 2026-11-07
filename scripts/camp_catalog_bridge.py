@@ -87,7 +87,7 @@ def integrate(catalog, dossier_report):
                 sources.add(s['url'])
         p['related_event_ids']=[i for i in RELATED.get(p['slug'],[]) if i in original]
         p['calendar_links']=[]
-        p['timing']['precision']='season_window' if p['slug'] in SEASON_WINDOWS or p['timing'].get('precision')=='season_window' else 'published_sessions'
+        p['timing']['precision']=p['timing']['precision'] if p['timing'].get('precision') in ['announced_month','published_sessions_and_announced_month'] else 'season_window' if p['slug'] in SEASON_WINDOWS or p['timing'].get('precision')=='season_window' else 'published_sessions'
         # Opt-in keys preserve different campuses sharing the same dates.
         # Legacy IDs and their first matching dated variant stay unchanged.
         if p['timing'].get('variant_keyed'):

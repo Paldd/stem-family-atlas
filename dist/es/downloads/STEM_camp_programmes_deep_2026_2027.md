@@ -3100,7 +3100,7 @@ resultado = el precio del cambio elegido + obligatorio fee/tax + opciones elegid
 
 ## Selección editorial por objetivos
 
-Primer conjunto de análisis detallados. Es una valoración editorial, no una clasificación mundial oficial ni una lista completa de los mejores campamentos.
+Análisis editoriales detallados de una parte del catálogo. Es una selección explicable según el objetivo familiar, no una clasificación mundial oficial; los demás programas siguen en investigación.
 
 Primero elija país, tema, formato, niño y período. El orden editorial se aplica únicamente a los programas que cumplen esos filtros. El filtro «Con análisis editorial» muestra la parte del catálogo que ya se ha analizado.
 
@@ -11030,7 +11030,7 @@ México · CDMX / Estado de México · plantel específico
 
 México · ExHacienda OjoCiego / San Diego de la Unión / Guanajuato
 
-** Verificado:** 2026-10-04
+**Se ha comprobado:** 2026-11-06
 
 **Edad:** 7–14; 15–16 separado transition
 
@@ -11056,6 +11056,54 @@ México · ExHacienda OjoCiego / San Diego de la Unión / Guanajuato
 
 **Por qué en la selección:** Pensión general mexicana publicada 2027 Paquete; ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ 7-El verano de Oscar.
 
+### Análisis editorial
+
+Residencia general en Guanajuato con duración elegible; para una primera estancia importan la edad mínima de siete años y las restricciones de comunicación.
+
+**Análisis verificado:** 2026-11-06
+
+**Actividades generales de esparcimiento:** Considerar como alternativa · Considerar para autonomía, naturaleza y convivencia tras confirmar idioma y preparación para las restricciones de comunicación.
+
+**Primer internado:** Considerar como alternativa · Valorar primero una semana, autonomía del niño y comunicación mediante la oficina; la distribución por edad no garantiza que los hermanos duerman juntos.
+
+**Ingeniería, robótica y programación:** Este análisis responde a otro objetivo · Es una estancia general; no se ha establecido formación específica en robótica, IA o programación.
+
+**Práctica de idiomas:** Hay que actualizar las pruebas · Hasta conocer el idioma del grupo concreto, no se puede prometer inmersión en inglés o español.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · Deporte, naturaleza, creatividad, juegos nocturnos, kayak y escalada. Es un campamento general de aventura, sin intensivo técnico anunciado.
+
+[fuente oficial](https://www.ojociego.com.mx/verano.html) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · Verano 2027: 7–14 años, 18–31 de julio; se puede elegir una o dos semanas. Matvey cumple por edad; Oscar solo después de cumplir siete años. El grupo 15–16 corresponde a otro formato.
+
+[fuente oficial](https://www.ojociego.com.mx/verano.html) · 2026-11-06
+
+[fuente oficial](https://www.ojociego.com.mx/faq.html) · 2026-11-06
+
+**Idioma del programa concreto:** no se ha establecido · El idioma de la web y la presencia de extranjeros no confirman el idioma de las actividades. Hay que aclarar el ES/EN/RU de trabajo y el apoyo del grupo concreto.
+
+**Instructores y grupo:** Pruebas parciales · El organizador declara 1:4, monitores en las mismas cabañas y formación en primeros auxilios. Su página describe funciones y principalmente antiguos participantes; no se conoce el personal del turno elegido.
+
+[fuente oficial](https://www.ojociego.com.mx/verano.html) · 2026-11-06
+
+[fuente oficial](https://www.ojociego.com.mx/staff.html) · 2026-11-06
+
+[fuente oficial](https://www.ojociego.com.mx/seguridad.html) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Condiciones concretas publicadas · Cabañas por edad y sexo; el programa indica ocho niños y dos instructores por cabaña. No hay teléfonos personales, llamadas ordinarias ni visitas entre llegada y clausura. Hay cartas y comunicación de padres con la oficina; se anuncia paramédico 24/7.
+
+[fuente oficial](https://www.ojociego.com.mx/verano.html) · 2026-11-06
+
+[fuente oficial](https://www.ojociego.com.mx/faq.html) · 2026-11-06
+
+**Precio y condiciones:** Pruebas parciales · MXN 12000 por semana o 20550 por dos por niño; base para ambos de 41100 por dos semanas. Las preguntas frecuentes anuncian 20% al primer hermano, pero falta aclarar su aplicación a la factura. Reserva de 2500, comisión de tarjeta e imputación de la reserva requieren cálculo. Después del 10 de julio no se devuelve el depósito; salida anticipada sin reembolso.
+
+[fuente oficial](https://www.ojociego.com.mx/fechas-precios.html) · 2026-11-06
+
+[fuente oficial](https://www.ojociego.com.mx/faq.html) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · No se han establecido reseñas independientes de padres ni una evaluación externa de este turno. Los testimonios y afirmaciones del organizador no constituyen una comprobación independiente.
+
 ### Antes de solicitar plaza
 
 - confirmar el idioma, edad para entrar, las fronteras 1 las semanas, el traslado, sibling discount y el cuento del adelanto.
@@ -11072,11 +11120,15 @@ México · ExHacienda OjoCiego / San Diego de la Unión / Guanajuato
 
 ### Fuentes
 
-- [programa directo fresco 2027](https://www.ojociego.com.mx/verano.html) · 2026-10-04
+- [programa directo fresco 2027](https://www.ojociego.com.mx/verano.html) · 2026-11-06
 
-- [2027: tarifas / fechas](https://www.ojociego.com.mx/fechas-precios.html) · 2026-10-04
+- [2027: tarifas / fechas](https://www.ojociego.com.mx/fechas-precios.html) · 2026-11-06
 
-- [edad / avance / cancelación / comunicación](https://www.ojociego.com.mx/faq.html) · 2026-10-04
+- [edad / avance / cancelación / comunicación](https://www.ojociego.com.mx/faq.html) · 2026-11-06
+
+- [Ojo Ciego · equipo y formación](https://www.ojociego.com.mx/staff.html) · 2026-11-06
+
+- [Ojo Ciego · medidas de seguridad publicadas](https://www.ojociego.com.mx/seguridad.html) · 2026-11-06
 
 ## CP095 · Rancho Aventura · Verano 2027
 
@@ -43960,7 +44012,7 @@ Canadá · Markham, Ontario ○ Wintercampaddress precisa
 
 México - Camino a Portezuelo s/n, Planta del Carmen, Cerro de San Pedro, San Luis Potosí, México
 
-** Verificado:** 2026-10-05
+**Se ha comprobado:** 2026-11-06
 
 **Edad:** Exacto. summer7–15; Total activityrule minimum6 no cancela 7-autorización de verano
 
@@ -43985,6 +44037,62 @@ México - Camino a Portezuelo s/n, Planta del Carmen, Cerro de San Pedro, San Lu
 **Oscar:** Verano 2027 Sí, lo será. 6–7: sólo después de 7-años, es preciso. DOB. Minimum6 en activityreglamento no permitido summer.
 
 ** Por qué en la selección:** Pasión General Mexicana con 2027 fechas/precios reales y contrato leído; equipo de ensayo no confirmado/campamento de rehabilitación.
+
+### Análisis editorial
+
+Residencia de verano con numerosas actividades generales; una comunidad internacional no equivale a un intensivo de idiomas o tecnología.
+
+**Análisis verificado:** 2026-11-06
+
+**Actividades generales de esparcimiento:** Considerar como alternativa · Estancia general con estructura de cuidado publicada; comparar con otras residencias según autonomía del niño, comunicación y factura final.
+
+**Primer internado:** Considerar como alternativa · Para una primera residencia, comprobar autonomía personal y preparación para pocos mensajes; el menor solo puede asistir después de cumplir siete años.
+
+**Ingeniería, robótica y programación:** Este análisis responde a otro objetivo · Es una estancia general; no se ha establecido formación específica en robótica, IA o programación.
+
+**Práctica de idiomas:** Hay que actualizar las pruebas · Hasta conocer el idioma del grupo concreto, no se puede prometer inmersión en inglés o español.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · Deporte, juegos de equipo, bicicleta, agua, naturaleza y creatividad. Las actividades pueden cambiar por clima u organización; el acceso a cada una depende de sus normas.
+
+[fuente oficial](https://www.campsantaursula.com/campamentos-de-verano) · 2026-11-06
+
+[fuente oficial](https://www.campsantaursula.com/terminos-y-condiciones-campamento-de-verano) · 2026-11-06
+
+[fuente oficial](https://www.campsantaursula.com/reglamento) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · El programa de verano concreto acepta 7–15 años. Matvey cumple; Oscar debe haber cumplido siete al llegar. El mínimo general de seis años para ciertas actividades no cambia el umbral de verano.
+
+[fuente oficial](https://www.campsantaursula.com/campamentos-de-verano) · 2026-11-06
+
+[fuente oficial](https://www.campsantaursula.com/reglamento) · 2026-11-06
+
+**Idioma del programa concreto:** Pruebas parciales · El propio organizador distingue comunidad internacional e inmersión bilingüe formal. No se confirman el idioma del grupo elegido, las horas de inglés ni el apoyo permanente.
+
+[fuente oficial](https://www.campsantaursula.com/post/un-campamento-con-experiencia-internacional-sin-salir-de-mexico) · 2026-11-06
+
+**Instructores y grupo:** Pruebas parciales · Cada equipo tiene instructor y auxiliar; por la noche el instructor duerme con el equipo. Se publican selección y formación del personal, pero faltan el número de niños y los adultos asignados.
+
+[fuente oficial](https://www.campsantaursula.com/campamentos-de-verano) · 2026-11-06
+
+[fuente oficial](https://www.campsantaursula.com/post/seleccion-preparacion-staff-campamento-verano) · 2026-11-06
+
+[fuente oficial](https://www.campsantaursula.com/staff) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Condiciones concretas publicadas · El niño debe asearse, vestirse e ir al baño solo: no se promete ayuda individual en esas tareas. No hay llamadas a los niños; los mensajes por la web se limitan a tres por semana en cada dirección. El seguro de accidentes hasta MXN 150000 no cubre enfermedades.
+
+[fuente oficial](https://www.campsantaursula.com/campamentos-de-verano) · 2026-11-06
+
+[fuente oficial](https://www.campsantaursula.com/terminos-y-condiciones-campamento-de-verano) · 2026-11-06
+
+[fuente oficial](https://www.campsantaursula.com/) · 2026-11-06
+
+**Precio y condiciones:** Condiciones concretas publicadas · MXN 51700 por 10–16 o 17–23 de julio de 2027; 98500 por 10–23 de julio. Ambos pagan 103400 por un turno o 197000 por el extendido. Dos semanas separadas cuestan 103400 por niño; la diferencia de 4900 con el extendido es precio de paquete. Viaje y gastos fuera de cobertura aparte.
+
+[fuente oficial](https://www.campsantaursula.com/campamentos-de-verano) · 2026-11-06
+
+[fuente oficial](https://www.campsantaursula.com/terminos-y-condiciones-campamento-de-verano) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · No se han establecido reseñas independientes de padres ni una evaluación externa de este turno. Los testimonios y afirmaciones del organizador no constituyen una comprobación independiente.
 
 ### Antes de solicitar plaza
 
@@ -44022,15 +44130,21 @@ México - Camino a Portezuelo s/n, Planta del Carmen, Cerro de San Pedro, San Lu
 
 ### Fuentes
 
-- [Summer2027 age/date/pricecards concretos](https://www.campsantaursula.com/campamentos-de-verano) · 2026-10-05
+- [Summer2027 age/date/pricecards concretos](https://www.campsantaursula.com/campamentos-de-verano) · 2026-11-06
 
-- [Contract/cancel/medicaldeductible](https://www.campsantaursula.com/terminos-y-condiciones-campamento-de-verano) · 2026-10-05
+- [Contract/cancel/medicaldeductible](https://www.campsantaursula.com/terminos-y-condiciones-campamento-de-verano) · 2026-11-06
 
-- [Behaviour/phones/activityage, no es summeradmission](https://www.campsantaursula.com/reglamento) · 2026-10-05
+- [Behaviour/phones/activityage, no es summeradmission](https://www.campsantaursula.com/reglamento) · 2026-11-06
 
-- [Internationalcommunity no languageimmersion](https://www.campsantaursula.com/post/un-campamento-con-experiencia-internacional-sin-salir-de-mexico) · 2026-10-05
+- [Internationalcommunity no languageimmersion](https://www.campsantaursula.com/post/un-campamento-con-experiencia-internacional-sin-salir-de-mexico) · 2026-11-06
 
 - [Security/nooffsite](https://www.campsantaursula.com/seguridad) · 2026-10-05
+
+- [Santa Úrsula · selección y preparación del personal](https://www.campsantaursula.com/post/seleccion-preparacion-staff-campamento-verano) · 2026-11-06
+
+- [Santa Úrsula · funciones y formación del equipo](https://www.campsantaursula.com/staff) · 2026-11-06
+
+- [Santa Úrsula · portada actual](https://www.campsantaursula.com/) · 2026-11-06
 
 ## CP592 · Avanza · Fundación Real Madrid Football Clinics
 
@@ -45074,7 +45188,7 @@ Filipinas · 28 Emilio Osmeña St, Cebu City; Mactan-Cebuairportmeeting
 
 Costa Rica · Tamarindo, Guanacaste; shuttle: Ali-Issed Treehouse Preschool
 
-** Verificado:** 2026-10-05
+**Se ha comprobado:** 2026-11-06
 
 ** Edad:** Elementary 5 CLAIM10; grupos de pre-K y Middle School ○
 
@@ -45086,19 +45200,77 @@ Costa Rica · Tamarindo, Guanacaste; shuttle: Ali-Issed Treehouse Preschool
 
 **Fechas / situación:** Nueve lunes claramente enumerados 2027: 14/21/28 junio, 5/12/19/26 julio, 2/9 agosto. Campamento diurno de Pn–Pt 08–14; El número de días de clausura se ha calculado de conformidad con esta regla.. Las semanas antiguas ocultas 2026 no arrastrados.
 
-**Precio / año:** 2027 · En la página actual $797/Niño/Semana; Dos. $1 594 por campamento. Moneda, impuestos y la cuenta final. Vivienda en una página separada: 1-bedroom $155/Noche, Studio $170, 2-bedroom $205; mínimo 6 noches. Un ejemplo de dos hijos + 6 noches 1-bedroom: $2 524 hasta cargos no establecidos y en la misma moneda.
+**Precio / año:** 2027 · Precio de la página: $797 por niño y semana, $1594 por ambos. Las condiciones implican una inscripción completa de $200 por participante: si se añade al curso, ambos sumarían $1994; con seis noches de alojamiento a $155, $2924. Es aritmética condicional, no factura: confirmar moneda, inclusión de inscripción, impuestos y disponibilidad del alojamiento.
 
 **Activado:** 10 (c), Actividades enumeradas, Uno. surf lesson con tabla, weekly field trip, Almorzar y almorzar. No. 24/7 Pensión de asilo Elementary.
 
 **Gastos adicionales:** Vivienda familiar, Vuelo, airport transfer, extra surf/Experiencia adquirida/NEA y cursos de paternidad. Shuttle pickup 07:40/drop14:00, No se indica el valor. Vivienda 1-bedroom/Studio antes 4 Personas; 2-bedroom antes 5. Desagravios de vivienda 14+ noches 15%, 28+ 30%, Accesibilidad y año de la tarifa.
 
-**Pago:** Afiliados terms en vigor para la contratación Nov2025–temporada 2026, Por consiguiente, no se han expedido contratos 2027. En ellos $100 — 50% no reembolsable registration fee, No se ha demostrado que haya una tasa completa; 50% pago, Saldo 8 semanas, cancellation200/student y diversos reembolsos. Actual hold100/credit25 no se aplica a la tarifa completa o a la reducción garantizada. Necesito terms2027 y el importe final del registro.
+**Pago:** Las condiciones actuales de Regular Enrollment se aplican a solicitudes desde el 01.11.2026 hasta el fin de la temporada 2027. La inscripción no es reembolsable: $100 se describen como su mitad, es decir, el importe completo es $200; confirmar si está incluido en el curso, la moneda y los impuestos. Primero se paga el 50% del precio total descontando $100, y el saldo ocho semanas antes. Antes de ese plazo se retienen $200 por alumno y el resto del depósito se devuelve en 30 días. Después, con pago completo, se devuelve el 50% recibido menos $200; si solo se pagó el primer 50%, no hay devolución. Tras el inicio no hay reembolso. Cambios del programa familiar: $100 por familia; alojamiento y extras tienen condiciones separadas. Las reglas anticipadas hasta el 31.10.2026 ya no se aplican a una nueva solicitud ordinaria.
 
 **Mateway: ** En 2027, la edad entra en el rango publicado; nivel de grupo, aceptación extranjera, idioma y lugar de entrada aún no se ha confirmado.
 
 **Oscar:** En 2027, la edad entra en el rango publicado; nivel de grupo, aceptación extranjera, idioma y lugar de entrada aún no ha sido confirmado.
 
 ** Por qué en la selección:** Una versión común cercana a la casa con fechas reales de 2027; la utilidad de la parte lingüística depende de su nivel de español.
+
+### Análisis editorial
+
+Español diurno y aventura en Tamarindo; para niños que ya hablan español conviene comprobar primero el grupo avanzado.
+
+**Análisis verificado:** 2026-11-06
+
+**Actividades generales de esparcimiento:** Considerar como alternativa · Opción de vacaciones familiares junto al mar con campamento diurno y alojamiento de los padres por separado.
+
+**Práctica de idiomas:** Considerar como alternativa · Pedir primero el programa del grupo avanzado o cercano al nivel nativo de español; las clases básicas pueden repetir conocimientos.
+
+**Viaje familiar con campamento de día:** Considerar como alternativa · Ambas edades encajan, pero hay que confirmar grupos, transporte, cuidado adicional y factura final.
+
+**Ingeniería, robótica y programación:** Este análisis responde a otro objetivo · Es una estancia general; no se ha establecido formación específica en robótica, IA o programación.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · Elementary incluye diez horas de español semanales, creatividad, naturaleza, una clase de surf con tabla y una excursión. Es una estancia lingüística; no se anuncia programa técnico.
+
+[fuente oficial](https://learnspanishsummercamp.com/kids-summer-camp-ws) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · El grupo 5–10 corresponde a ambos en 2027 por edad. Hay nueve semanas del 14 de junio al 13 de agosto; la distribución por nivel y edad no garantiza el mismo grupo para los hermanos.
+
+[fuente oficial](https://learnspanishsummercamp.com/kids-summer-camp-ws) · 2026-11-06
+
+[fuente oficial](https://learnspanishsummercamp.com/faq) · 2026-11-06
+
+**Idioma del programa concreto:** Pruebas parciales · Las clases de español están confirmadas; las preguntas frecuentes aceptan niveles inicial, intermedio y avanzado. Se citan personal bilingüe y un docente de inglés/español, pero no inglés todo el día ni un grupo garantizado para nativos de español.
+
+[fuente oficial](https://learnspanishsummercamp.com/kids-summer-camp-ws) · 2026-11-06
+
+[fuente oficial](https://learnspanishsummercamp.com/our-staff) · 2026-11-06
+
+[fuente oficial](https://learnspanishsummercamp.com/faq) · 2026-11-06
+
+**Instructores y grupo:** Pruebas parciales · El organizador declara 6:1 y publica perfiles de docentes, directora académica y socorrista. No se confirman el personal de cada semana ni su distribución por idioma.
+
+[fuente oficial](https://learnspanishsummercamp.com/our-staff) · 2026-11-06
+
+[fuente oficial](https://learnspanishsummercamp.com/faq) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Condiciones concretas publicadas · Día 08:00–14:00 entre semana, con almuerzo y tentempié. El autobús desde Tamarindo recoge a las 07:40 y regresa a las 14:00; confirmar tarifa. Cuidado posterior y alojamiento familiar aparte; el texto general 24/7 no convierte Elementary en residencia infantil.
+
+[fuente oficial](https://learnspanishsummercamp.com/kids-summer-camp-ws) · 2026-11-06
+
+[fuente oficial](https://learnspanishsummercamp.com/beachfront-lodging-options) · 2026-11-06
+
+[fuente oficial](https://learnspanishsummercamp.com/services) · 2026-11-06
+
+[fuente oficial](https://learnspanishsummercamp.com/faq) · 2026-11-06
+
+**Precio y condiciones:** Pruebas parciales · Las condiciones actuales de Regular Enrollment se aplican a solicitudes desde el 01.11.2026 hasta el fin de la temporada 2027. La inscripción no es reembolsable: $100 se describen como su mitad, es decir, el importe completo es $200; confirmar si está incluido en el curso, la moneda y los impuestos. Primero se paga el 50% del precio total descontando $100, y el saldo ocho semanas antes. Antes de ese plazo se retienen $200 por alumno y el resto del depósito se devuelve en 30 días. Después, con pago completo, se devuelve el 50% recibido menos $200; si solo se pagó el primer 50%, no hay devolución. Tras el inicio no hay reembolso. Cambios del programa familiar: $100 por familia; alojamiento y extras tienen condiciones separadas. Las reglas anticipadas hasta el 31.10.2026 ya no se aplican a una nueva solicitud ordinaria.
+
+[fuente oficial](https://learnspanishsummercamp.com/kids-summer-camp-ws) · 2026-11-06
+
+[fuente oficial](https://learnspanishsummercamp.com/terms623610-258659) · 2026-11-06
+
+[fuente oficial](https://learnspanishsummercamp.com/beachfront-lodging-options) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · No se han establecido reseñas independientes de padres ni una evaluación externa de este turno. Los testimonios y afirmaciones del organizador no constituyen una comprobación independiente.
 
 ### Antes de solicitar plaza
 
@@ -45196,15 +45368,17 @@ Costa Rica · Tamarindo, Guanacaste; shuttle: Ali-Issed Treehouse Preschool
 
 ### Fuentes
 
-- [el programa Kids actual2027](https://learnspanishsummercamp.com/kids-summer-camp-ws) · 2026-10-05
+- [el programa Kids actual2027](https://learnspanishsummercamp.com/kids-summer-camp-ws) · 2026-11-06
 
-- [Términos con manifiesta aplicación para 2026](https://learnspanishsummercamp.com/terms623610-258659) · 2026-10-05
+- [Términos con manifiesta aplicación para 2026](https://learnspanishsummercamp.com/terms623610-258659) · 2026-11-06
 
-- [alojamiento y tarifas nocturnas](https://learnspanishsummercamp.com/beachfront-lodging-options) · 2026-10-05
+- [alojamiento y tarifas nocturnas](https://learnspanishsummercamp.com/beachfront-lodging-options) · 2026-11-06
 
-- [docentes nombrados](https://learnspanishsummercamp.com/our-staff) · 2026-10-05
+- [docentes nombrados](https://learnspanishsummercamp.com/our-staff) · 2026-11-06
 
-- [Servicios adicionales](https://learnspanishsummercamp.com/services) · 2026-10-05
+- [Servicios adicionales](https://learnspanishsummercamp.com/services) · 2026-11-06
+
+- [Explornatura · niveles de idioma, cuidado y transporte](https://learnspanishsummercamp.com/faq) · 2026-11-06
 
 ## CP613 · Camp Coyote · pensión corta de otoño e invierno
 
@@ -45218,23 +45392,67 @@ México · Km15 Carr. Zapotlanejo-Tototlán, Zapotlanejo, Jalisco
 
 ** Programa:** Autumn: naturaleza, caballos, obstáculos, fuego y fuego. Winter: tiro con arco, bicicleta, caballos, creatividad y cocina.
 
-**Alojamiento:** un pensión en las casas glamping: el acceso 11:00 el primer día / la salida 15:00 de la última; zonas separadas por suelo. la descripción promete 4–6 niños con conductor, tabla 3–4: la capacidad es diferente. la cama está encendida, Pero la lista de cosas pide una manta./el dormitorio/la almohada: especificar el conjunto. cinco comidas, incluyendo 2 un aperitivo; las alergias se informan con anticipación. paramédico y acompañamiento las veinticuatro horas, hospital en 12 en minutos — de los datos de la empresa. teléfono cerca 1 h/día bajo control.
+**Alojamiento:** Glamping de cuatro niños, zonas separadas por sexo y rondas nocturnas. Las preguntas frecuentes anuncian cinco comidas, personal sanitario y adaptación del menú a alergias declaradas. El personal guarda el teléfono y lo entrega aproximadamente una hora al día; confirmar presencia nocturna exacta del adulto en la cabaña y personal del turno.
 
-**Fechas / situación:** 30 Oct–2 Nov2026:4 días 3 Noche.; 21–23 Dec2026:3 días 2 Noche.. Escribe su propia página. cupos abiertos, Esto no es una confirmación de admisión..
+**Fechas / estado:** El otoño del 30 de octubre–2 de noviembre de 2026 terminó y el siguiente no tiene fecha. Invierno 21–23 de diciembre de 2026, tres días y dos noches; el sitio anuncia inscripción abierta, sin confirmar plaza individual.
 
-**Precio / año:** 2026 · Autumn MXN4 000/Niño, anticipos 1 200; Dos hermanos 7 200 Por la familia. Winter3 300, early2 805 antes 20 Nov; Dos 5 940, early Dos. 5 610 si procede. Winter anticipos 990/Niño. Se selecciona un descuento; earlydeadline no se ha inscrito.
+**Precio / año:** 2026 · Invierno 21–23 de diciembre de 2026: MXN 3300 por niño; anticipado de 2805 hasta el 20 de noviembre. El cálculo público aplica para dos hermanos un 10% a la base total: 5940, anticipo de 1980 y saldo de 3960. Elige el descuento familiar en vez del anticipado; no se prometen 5610 por ambos. La tarifa antigua de otoño de 4000 se conserva como historial.
 
 ** Incluida** Glamping, comida y descanso descrito; composición del paquete final de confirmación.
 
-**Gastos adicionales:** Viajes/Vuelo, seguro, Total de activos pagados y transferencia. Escolares private groups minimum15/Edad 5–18/Tarifa 1100+ — Otro producto. Los campamentos públicos individuales comienzan con 6, no 5.
+**Suplementos:** No se han establecido viaje, traslado, póliza de seguro ni posibles cargos obligatorios. Los grupos escolares privados son otro producto, no inscripción individual familiar.
 
-**Pago:** Anticipo 30% No reembolsable, Saldo en efectivo de la carrera. Cancelación/arrastrar a 7 días: Saldo pagado por encima del anticipo 6 meses por servicios del grupo, no cash refund. El certificado médico permite el transporte a 1 años. No se suman los descuentos; Un contrato final separado, Recepción y lugares extranjeros no confirmados.
+**Pago:** El anticipo del 30% no es reembolsable y forma parte del total; saldo en efectivo al llegar. Hasta siete días antes se permite cancelar/cambiar: lo pagado por encima del anticipo se devuelve como bono por seis meses, no en dinero. Con justificante médico se puede aplazar hasta un año. Los descuentos no se acumulan; confirmar admisión, contrato final y plazas.
 
 **Matvey:** Para esta fecha edad 9–9; curso 6–14. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza.
 
 **Oscar:** Para esta fecha edad 6–6; curso 6–14. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza.
 
 **Por qué en la selección:** Una pensión común corta junto a la Guadalajara; Candidato a los dos después de 6-El verano de Oscar.
+
+### Análisis editorial
+
+Residencia general corta en invierno: ambas edades encajan, pero faltan idioma y contrato.
+
+**Análisis verificado:** 2026-11-06
+
+**Actividades generales de esparcimiento:** Considerar como alternativa · Considerar como estancia general tras confirmar idioma, preparación para pernoctar, estado de inscripción y factura completa.
+
+**Ingeniería, robótica y programación:** Este análisis responde a otro objetivo · Es una estancia general; no se ha establecido formación específica en robótica, IA o programación.
+
+**Práctica de idiomas:** Hay que actualizar las pruebas · Hasta conocer el idioma del grupo concreto, no se puede prometer inmersión en inglés o español.
+
+**Primer internado:** Considerar como alternativa · Dos noches cortas permiten valorar una primera estancia independiente, si los niños están preparados y el idioma está confirmado.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · Aventura de invierno, caballos, arco, creatividad y cocina. Es una estancia general de tres días y dos noches, no preparación en robótica.
+
+[fuente oficial](https://www.campcoyote.mx/) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · El invierno individual acepta 6–14 años; ambos niños cumplen por edad. El mínimo de cinco años del producto escolar de grupos no se aplica aquí.
+
+[fuente oficial](https://www.campcoyote.mx/) · 2026-11-06
+
+[fuente oficial](https://docs.google.com/spreadsheets/d/e/2PACX-1vQmamoxIz52nN7VHT4ABvzFkF0NF2swOSttUOSxPB74rMk8O5QOZhnzq8lPru6nUK05qvr9sl-D8L4K/pub?gid=1739074332&single=true&output=csv) · 2026-11-06
+
+**Idioma del programa concreto:** no se ha establecido · El idioma de la web y la presencia de extranjeros no confirman el idioma de las actividades. Hay que aclarar el ES/EN/RU de trabajo y el apoyo del grupo concreto.
+
+**Instructores y grupo:** Pruebas parciales · Se anuncian monitores formados y coordinadores por edad; el formato general 1:8 publicado corresponde a grupos escolares cerrados, no al personal confirmado del campamento individual de invierno.
+
+[fuente oficial](https://www.campcoyote.mx/) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Pruebas parciales · Glamping de cuatro niños, zonas separadas por sexo y rondas nocturnas. Las preguntas frecuentes anuncian cinco comidas, personal sanitario y adaptación del menú a alergias declaradas. El personal guarda el teléfono y lo entrega aproximadamente una hora al día; confirmar presencia nocturna exacta del adulto en la cabaña y personal del turno.
+
+[fuente oficial](https://www.campcoyote.mx/) · 2026-11-06
+
+**Precio y condiciones:** Pruebas parciales · Invierno: MXN 3300 por niño, anticipado de 2805 hasta el 20 de noviembre de 2026. Para dos hermanos el cálculo elige 5940, con anticipo de 1980 incluido. No se suman tarifas anticipada y familiar.
+
+[fuente oficial](https://www.campcoyote.mx/) · 2026-11-06
+
+[fuente oficial](https://docs.google.com/spreadsheets/d/e/2PACX-1vQmamoxIz52nN7VHT4ABvzFkF0NF2swOSttUOSxPB74rMk8O5QOZhnzq8lPru6nUK05qvr9sl-D8L4K/pub?gid=1739074332&single=true&output=csv) · 2026-11-06
+
+[fuente oficial](https://www.campcoyote.mx/enroll.js) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · No se han establecido reseñas independientes de padres ni una evaluación externa de este turno. Los testimonios y afirmaciones del organizador no constituyen una comprobación independiente.
 
 ### Antes de solicitar plaza
 
@@ -45258,7 +45476,7 @@ México · Km15 Carr. Zapotlanejo-Tototlán, Zapotlanejo, Jalisco
 
 **lugar:** Km15 Carr. Zapotlanejo–Tototlán, Zapotlanejo, Jalisco
 
-**Precio:** MXN3 300/niños; early2 805 hasta 20 Nov; dos 5 940 sin early; adelanto 990
+**Precio:** MXN 3300 por niño; 2805 anticipado hasta el 20 de noviembre; ambos según cálculo familiar 5940, anticipo de 1980 incluido en el total.
 
 **Matvey:** Para esta fecha edad 9–9; curso 6–14. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza.
 
@@ -45274,11 +45492,15 @@ México · Km15 Carr. Zapotlanejo-Tototlán, Zapotlanejo, Jalisco
 
 - [Read-only Winter form](https://www.campcoyote.mx/inscripcionescamp?program=invierno) · 2026-10-05
 
+- [Coyote · tabla pública de precios del sitio](https://docs.google.com/spreadsheets/d/e/2PACX-1vQmamoxIz52nN7VHT4ABvzFkF0NF2swOSttUOSxPB74rMk8O5QOZhnzq8lPru6nUK05qvr9sl-D8L4K/pub?gid=1739074332&single=true&output=csv) · 2026-11-06
+
+- [Coyote · reglas públicas de cálculo del precio](https://www.campcoyote.mx/enroll.js) · 2026-11-06
+
 ## CP614 · Camp Coyote · Pascua / Verano Basic
 
 México · Km15 Carr. Zapotlanejo-Tototlán, Zapotlanejo, Jalisco
 
-** Verificado:** 2026-10-05
+**Se ha comprobado:** 2026-11-06
 
 **Edad:** 6–14; las dos estaciones 6 días 5 noches
 
@@ -45286,23 +45508,65 @@ México · Km15 Carr. Zapotlanejo-Tototlán, Zapotlanejo, Jalisco
 
 ** Programa: **Pascua: juegos, ester crafts, caballos/robots.
 
-**Alojamiento:** un pensión en las casas glamping: el acceso 11:00 el primer día / la salida 15:00 de la última; zonas separadas por suelo. la descripción promete 4–6 niños con conductor, tabla 3–4: la capacidad es diferente. la cama está encendida, Pero la lista de cosas pide una manta./el dormitorio/la almohada: especificar el conjunto. cinco comidas, incluyendo 2 un aperitivo; las alergias se informan con anticipación. paramédico y acompañamiento las veinticuatro horas, hospital en 12 en minutos — de los datos de la empresa. teléfono cerca 1 h/día bajo control.
+**Alojamiento:** Glamping de cuatro niños, zonas separadas por sexo y rondas nocturnas. Las preguntas frecuentes anuncian cinco comidas, personal sanitario y adaptación del menú a alergias declaradas. El personal guarda el teléfono y lo entrega aproximadamente una hora al día; confirmar presencia nocturna exacta del adulto en la cabaña y personal del turno.
 
-**Fechas / situación:** Pascua:29 marzo–3 de abril 2027 en el calendario del operador. En otros bloques, las fechas y las marcas se mantienen en espera REF.2026: precio y apertura de la carpeta de confirmación. Basic: Agosto 2027, No hay días exactos.
+**Fechas / estado:** Pascua 29 de marzo–3 de abril de 2027, seis días y cinco noches; la fecha coincide en tarjeta y tabla, pero el estado de inscripción es contradictorio. Basic: agosto de 2027 sin días exactos, lista de espera.
 
-**Precio / año:** No se ha establecido · En la plataforma actual MXN6 500, Tarifas anticipadas 5 525; Pascua Dos 11 700/anticipos 1 950 Por niño. En el sitio web se puede ver 5 300, y tarjeta Pascua guarda REF.2026: Necesitas una tarifa escrita. 2027. Para Summer Deducción a los hermanos/No se indica ningún anticipo en el cuadro.
+**Precio / año:** 2027 · Tarifa pública actual: Pascua y Basic a MXN 6500; anticipada de 5525. Para dos hermanos el cálculo da 11700, anticipo de 3900 incluido en el total. Plazo anticipado de Pascua: 15 de febrero de 2027; Basic: 10 de mayo de 2027; descuentos no acumulables. Estado de Pascua contradictorio, Basic en lista de espera.
 
 ** Incluida:** Glamping, alimentación y actividad general; paquete completo de confirmación.
 
-**Gastos adicionales:** Viajes/Vuelo, seguro, Total de activos pagados y transferencia. Escolares private groups minimum15/Edad 5–18/Tarifa 1100+ — Otro producto. Los campamentos públicos individuales comienzan con 6, no 5.
+**Suplementos:** No se han establecido viaje, traslado, póliza de seguro ni posibles cargos obligatorios. Los grupos escolares privados son otro producto, no inscripción individual familiar.
 
-**Pago:** Anticipo 30% No reembolsable, Saldo en efectivo de la carrera. Cancelación/arrastrar a 7 días: Saldo pagado por encima del anticipo 6 meses por servicios del grupo, no cash refund. El certificado médico permite el transporte a 1 años. No se suman los descuentos; Un contrato final separado, Recepción y lugares extranjeros no confirmados.
+**Pago:** El anticipo del 30% no es reembolsable y forma parte del total; saldo en efectivo al llegar. Hasta siete días antes se permite cancelar/cambiar: lo pagado por encima del anticipo se devuelve como bono por seis meses, no en dinero. Con justificante médico se puede aplazar hasta un año. Los descuentos no se acumulan; confirmar admisión, contrato final y plazas.
 
 **Mateway: ** En 2027, la edad entra en el rango publicado; nivel de grupo, aceptación extranjera, idioma y lugar de entrada aún no se ha confirmado.
 
 **Oscar:** En 2027, la edad entra en el rango publicado; nivel de grupo, aceptación extranjera, idioma y lugar de entrada aún no ha sido confirmado.
 
 ** Por qué en la selección: ** Pabellón común más largo para ambos; versión separada del primer viaje, con una lista de espera y un conflicto de tarifas.
+
+### Análisis editorial
+
+Residencia general de Pascua y verano; Pascua tiene fecha exacta, pero el estado difiere entre página y tabla.
+
+**Análisis verificado:** 2026-11-06
+
+**Actividades generales de esparcimiento:** Considerar como alternativa · Considerar como estancia general tras confirmar idioma, preparación para pernoctar, estado de inscripción y factura completa.
+
+**Ingeniería, robótica y programación:** Este análisis responde a otro objetivo · Es una estancia general; no se ha establecido formación específica en robótica, IA o programación.
+
+**Práctica de idiomas:** Hay que actualizar las pruebas · Hasta conocer el idioma del grupo concreto, no se puede prometer inmersión en inglés o español.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · Pascua: juegos, creatividad, caballos y fogatas; Basic: grupos infantiles, naturaleza y aventura en equipo. Ambos formatos duran seis días y cinco noches, sin robótica anunciada.
+
+[fuente oficial](https://www.campcoyote.mx/) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · El rango 6–14 corresponde a ambos en 2027. Pascua 29 de marzo–3 de abril se publica con precisión; Basic solo indica agosto. No se inventa una llegada exacta de verano.
+
+[fuente oficial](https://www.campcoyote.mx/) · 2026-11-06
+
+[fuente oficial](https://docs.google.com/spreadsheets/d/e/2PACX-1vQmamoxIz52nN7VHT4ABvzFkF0NF2swOSttUOSxPB74rMk8O5QOZhnzq8lPru6nUK05qvr9sl-D8L4K/pub?gid=1739074332&single=true&output=csv) · 2026-11-06
+
+**Idioma del programa concreto:** no se ha establecido · El idioma de la web y la presencia de extranjeros no confirman el idioma de las actividades. Hay que aclarar el ES/EN/RU de trabajo y el apoyo del grupo concreto.
+
+**Instructores y grupo:** Pruebas parciales · Se anuncian monitores formados y coordinadores por edad; el formato general 1:8 publicado corresponde a grupos escolares cerrados, no al personal confirmado del campamento individual de invierno.
+
+[fuente oficial](https://www.campcoyote.mx/) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Pruebas parciales · Glamping de cuatro niños, zonas separadas por sexo y rondas nocturnas. Las preguntas frecuentes anuncian cinco comidas, personal sanitario y adaptación del menú a alergias declaradas. El personal guarda el teléfono y lo entrega aproximadamente una hora al día; confirmar presencia nocturna exacta del adulto en la cabaña y personal del turno.
+
+[fuente oficial](https://www.campcoyote.mx/) · 2026-11-06
+
+**Precio y condiciones:** Pruebas parciales · La tabla publica MXN 6500 y anticipado de 5525; tarifa familiar para ambos de 11700. Anticipo de 3900 incluido. Pascua: plazo anticipado 15 de febrero de 2027; Basic: 10 de mayo de 2027. La tarifa no acredita plaza ni permite acumular descuentos.
+
+[fuente oficial](https://www.campcoyote.mx/) · 2026-11-06
+
+[fuente oficial](https://docs.google.com/spreadsheets/d/e/2PACX-1vQmamoxIz52nN7VHT4ABvzFkF0NF2swOSttUOSxPB74rMk8O5QOZhnzq8lPru6nUK05qvr9sl-D8L4K/pub?gid=1739074332&single=true&output=csv) · 2026-11-06
+
+[fuente oficial](https://www.campcoyote.mx/enroll.js) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · No se han establecido reseñas independientes de padres ni una evaluación externa de este turno. Los testimonios y afirmaciones del organizador no constituyen una comprobación independiente.
 
 ### Antes de solicitar plaza
 
@@ -45314,21 +45578,25 @@ México · Km15 Carr. Zapotlanejo-Tototlán, Zapotlanejo, Jalisco
 
 **lugar:** Km15 Carr. Zapotlanejo–Tototlán, Zapotlanejo, Jalisco
 
-**Precio:** MXN6 500 / temprano 5 525, pero REF.2026; el precio final 2027 no se conoce
+**Precio:** Tarifa actual de MXN 6500; anticipada de 5525 hasta el 15 de febrero de 2027, ambos a 11700 según cálculo familiar.
 
-**Disponibilidad:** en su propia página la hoja de espera; los lugares y el tarifa final2027 no se confirman
+**Disponibilidad de plazas:** Pascua: la tarjeta HTML y el enlace siguen indicando lista de espera, mientras la tabla pública conectada marca la misma edición como Ok. La fecha coincide, pero no se confirman inscripción abierta ni plazas; antes del viaje hace falta respuesta del organizador.
 
 [fuente](https://www.campcoyote.mx/)
 
 ### Fuentes
 
-- [Las propias estaciones, precios dinámicos y FAQ abiertos](https://www.campcoyote.mx/) · 2026-10-05
+- [Las propias estaciones, precios dinámicos y FAQ abiertos](https://www.campcoyote.mx/) · 2026-11-06
+
+- [Coyote · tabla pública de precios del sitio](https://docs.google.com/spreadsheets/d/e/2PACX-1vQmamoxIz52nN7VHT4ABvzFkF0NF2swOSttUOSxPB74rMk8O5QOZhnzq8lPru6nUK05qvr9sl-D8L4K/pub?gid=1739074332&single=true&output=csv) · 2026-11-06
+
+- [Coyote · reglas públicas de cálculo del precio](https://www.campcoyote.mx/enroll.js) · 2026-11-06
 
 ## CP615 · Camp Coyote · Verano Pro
 
 México · Km15 Carr. Zapotlanejo-Tototlán, Zapotlanejo, Jalisco
 
-** Verificado:** 2026-10-05
+**Se ha comprobado:** 2026-11-06
 
 **Edad:** 9–17; 8 días 7 noches
 
@@ -45336,17 +45604,17 @@ México · Km15 Carr. Zapotlanejo-Tototlán, Zapotlanejo, Jalisco
 
 ** Programa: ** Más complejos outdoor y tareas físicas de mando, zipline/obstáculos, rotación de edad y juegos nocturnos. Pro se refiere a aventuras; no se trata de conocimientos técnicos.
 
-**Alojamiento:** un pensión en las casas glamping: el acceso 11:00 el primer día / la salida 15:00 de la última; zonas separadas por suelo. la descripción promete 4–6 niños con conductor, tabla 3–4: la capacidad es diferente. la cama está encendida, Pero la lista de cosas pide una manta./el dormitorio/la almohada: especificar el conjunto. cinco comidas, incluyendo 2 un aperitivo; las alergias se informan con anticipación. paramédico y acompañamiento las veinticuatro horas, hospital en 12 en minutos — de los datos de la empresa. teléfono cerca 1 h/día bajo control.
+**Alojamiento:** Glamping de cuatro niños, zonas separadas por sexo y rondas nocturnas. Las preguntas frecuentes anuncian cinco comidas, personal sanitario y adaptación del menú a alergias declaradas. El personal guarda el teléfono y lo entrega aproximadamente una hora al día; confirmar presencia nocturna exacta del adulto en la cabaña y personal del turno.
 
 ** Fechas/estadidad:** Julio 2027 sin días precisos, lista de espera.
 
-**Precio / año:** 2027 · Price actual MXN8 500, Adelante 7 225 sin fecha de publicación; se encuentra en el sitio web, y 7 100. Es un precio preliminar.. Deducción de los hermanos y adelanto no figura en el cuadro.
+**Precio / año:** 2027 · Tarifa pública de Pro: MXN 8500, anticipada de 7225 hasta el 10 de mayo de 2027, anticipo de 2550 incluido en el total. Es lista de espera para julio de 2027 sin días exactos; las cifras antiguas distintas no se consideran tarifa actual.
 
 ** Incluida** Glamping, Comida y Aventura; composición exacta del paquete de confirmación.
 
-**Gastos adicionales:** Viajes/Vuelo, seguro, Total de activos pagados y transferencia. Escolares private groups minimum15/Edad 5–18/Tarifa 1100+ — Otro producto. Los campamentos públicos individuales comienzan con 6, no 5.
+**Suplementos:** No se han establecido viaje, traslado, póliza de seguro ni posibles cargos obligatorios. Los grupos escolares privados son otro producto, no inscripción individual familiar.
 
-**Pago:** Anticipo 30% No reembolsable, Saldo en efectivo de la carrera. Cancelación/arrastrar a 7 días: Saldo pagado por encima del anticipo 6 meses por servicios del grupo, no cash refund. El certificado médico permite el transporte a 1 años. No se suman los descuentos; Un contrato final separado, Recepción y lugares extranjeros no confirmados.
+**Pago:** El anticipo del 30% no es reembolsable y forma parte del total; saldo en efectivo al llegar. Hasta siete días antes se permite cancelar/cambiar: lo pagado por encima del anticipo se devuelve como bono por seis meses, no en dinero. Con justificante médico se puede aplazar hasta un año. Los descuentos no se acumulan; confirmar admisión, contrato final y plazas.
 
 **Matvey:** B 2027 Sí, lo será. 9–10: numérico gate9+ en curso; Idioma/actividad física/Siguiente acuerdo..
 
@@ -45354,13 +45622,59 @@ México · Km15 Carr. Zapotlanejo-Tototlán, Zapotlanejo, Jalisco
 
 ** Por qué en la selección:** Selección de la trayectoria general superior de Matvei; se necesita un calendario y un contrato de verano precisos.
 
+### Análisis editorial
+
+Pro ofrece aventura más exigente para el mayor; el menor aún no cumple la edad de este itinerario.
+
+**Análisis verificado:** 2026-11-06
+
+**Actividades generales de esparcimiento:** Considerar como alternativa · Considerar como estancia general tras confirmar idioma, preparación para pernoctar, estado de inscripción y factura completa.
+
+**Ingeniería, robótica y programación:** Este análisis responde a otro objetivo · Es una estancia general; no se ha establecido formación específica en robótica, IA o programación.
+
+**Práctica de idiomas:** Hay que actualizar las pruebas · Hasta conocer el idioma del grupo concreto, no se puede prometer inmersión en inglés o español.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · Ocho días y siete noches de aventura: obstáculos, retos físicos, altura y juegos nocturnos. Pro no significa programa de ingeniería ni selección para una liga técnica.
+
+[fuente oficial](https://www.campcoyote.mx/) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · Edad 9–17: Matvey cumple por edad, Oscar no. Para julio de 2027 solo se publica el mes y lista de espera, sin días exactos.
+
+[fuente oficial](https://www.campcoyote.mx/) · 2026-11-06
+
+[fuente oficial](https://docs.google.com/spreadsheets/d/e/2PACX-1vQmamoxIz52nN7VHT4ABvzFkF0NF2swOSttUOSxPB74rMk8O5QOZhnzq8lPru6nUK05qvr9sl-D8L4K/pub?gid=1739074332&single=true&output=csv) · 2026-11-06
+
+**Idioma del programa concreto:** no se ha establecido · El idioma de la web y la presencia de extranjeros no confirman el idioma de las actividades. Hay que aclarar el ES/EN/RU de trabajo y el apoyo del grupo concreto.
+
+**Instructores y grupo:** Pruebas parciales · Se anuncian monitores formados y coordinadores por edad; el formato general 1:8 publicado corresponde a grupos escolares cerrados, no al personal confirmado del campamento individual de invierno.
+
+[fuente oficial](https://www.campcoyote.mx/) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Pruebas parciales · Glamping de cuatro niños, zonas separadas por sexo y rondas nocturnas. Las preguntas frecuentes anuncian cinco comidas, personal sanitario y adaptación del menú a alergias declaradas. El personal guarda el teléfono y lo entrega aproximadamente una hora al día; confirmar presencia nocturna exacta del adulto en la cabaña y personal del turno.
+
+[fuente oficial](https://www.campcoyote.mx/) · 2026-11-06
+
+**Precio y condiciones:** Pruebas parciales · MXN 8500 ordinario o 7225 anticipado hasta el 10 de mayo de 2027; el anticipo de 2550 forma parte del total. Sin días exactos ni inscripción abierta es una referencia, no un viaje preparado.
+
+[fuente oficial](https://www.campcoyote.mx/) · 2026-11-06
+
+[fuente oficial](https://docs.google.com/spreadsheets/d/e/2PACX-1vQmamoxIz52nN7VHT4ABvzFkF0NF2swOSttUOSxPB74rMk8O5QOZhnzq8lPru6nUK05qvr9sl-D8L4K/pub?gid=1739074332&single=true&output=csv) · 2026-11-06
+
+[fuente oficial](https://www.campcoyote.mx/enroll.js) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · No se han establecido reseñas independientes de padres ni una evaluación externa de este turno. Los testimonios y afirmaciones del organizador no constituyen una comprobación independiente.
+
 ### Antes de solicitar plaza
 
 - confirmar el DOB/lenguaje exacto, la preparación para la noche, el lugar, la habitación/cama, el transporte, el seguro y el contrato/cuenta completo; la cantidad del adelanto se incluye en el precio.
 
 ### Fuentes
 
-- [Las propias estaciones, precios dinámicos y FAQ abiertos](https://www.campcoyote.mx/) · 2026-10-05
+- [Las propias estaciones, precios dinámicos y FAQ abiertos](https://www.campcoyote.mx/) · 2026-11-06
+
+- [Coyote · tabla pública de precios del sitio](https://docs.google.com/spreadsheets/d/e/2PACX-1vQmamoxIz52nN7VHT4ABvzFkF0NF2swOSttUOSxPB74rMk8O5QOZhnzq8lPru6nUK05qvr9sl-D8L4K/pub?gid=1739074332&single=true&output=csv) · 2026-11-06
+
+- [Coyote · reglas públicas de cálculo del precio](https://www.campcoyote.mx/enroll.js) · 2026-11-06
 
 ## CP616 · Cube STEM · Holiday Makers & Coders
 
@@ -75020,7 +75334,7 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 
 **edad:** 6–8 años; confirmar corte, curso escolar no sustituye edad
 
-**Idioma:** Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.
+**Idioma:** La descripción pública y el formulario están en español; no hay confirmación separada del idioma oral ni del apoyo en inglés. La interfaz española no cuenta como enseñanza ES.
 
 **Programa:** Formulario publica nombre, edad, fechas y horario. Temario detallado, versión del equipo / dispositivo, tamaño de grupo y resultados docentes sin detallar. 5 días de 4 horas = 20 horas de estancia; pausas sin describir.
 
@@ -75042,6 +75356,46 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 
 **Motivo de selección:** Opción próxima con horario y precio concretos; curso educativo, sin premio internacional ni ranking mundial demostrado.
 
+### Análisis editorial
+
+FOD · Juguemos a crear Robots · edad y horario comprobados, nivel lectivo por aclarar
+
+**Análisis verificado:** 2026-11-06
+
+**Ingeniería, robótica y programación:** Considerar como alternativa · Opción técnica cercana si el organizador confirma idioma de trabajo y dificultad suficiente. Comprobar tarea real y nivel antes de pagar.
+
+**Práctica de idiomas:** Hay que actualizar las pruebas · Hasta conocer el idioma del grupo concreto, no se puede prometer inmersión en inglés o español.
+
+**Viaje familiar con campamento de día:** Considerar como alternativa · Se pueden combinar cursos de edades distintas en la misma sede y horario; hacen falta ambas plazas e idioma confirmado. No es inscripción de los niños en un mismo grupo.
+
+**Contenido, horas y proyecto infantil:** Pruebas parciales · Curso lúdico de robótica 6–8: Oscar cumple por edad; Matvey supera el rango. Diciembre 7–11, enero 11–15 y 25–29, 08:00–12:00.
+
+[fuente oficial](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · 6–8 años; confirmar corte, curso escolar no sustituye edad
+
+[fuente oficial](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+
+**Idioma del programa concreto:** no se ha establecido · La descripción pública y el formulario están en español; no hay confirmación separada del idioma oral ni del apoyo en inglés. La interfaz española no cuenta como enseñanza ES.
+
+[fuente oficial](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-06
+
+[fuente oficial](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+
+**Instructores y grupo:** no se ha establecido · FOD describe un enfoque por proyectos, pero los materiales leídos no publican docentes concretos, tamaño del grupo ni proporción de adultos.
+
+[fuente oficial](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Pruebas parciales · Son bloques diurnos de cuatro horas durante cinco días, sin alojamiento ni cuidado de jornada completa prometidos. La tarifa no detalla comida, equipos ni consumibles; aclarar tamaño del grupo, descansos y entrega del niño.
+
+[fuente oficial](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+
+**Precio y condiciones:** Condiciones concretas publicadas · CRC 60000 por curso, IVAI incluido. Se exige el 100% del pago; inasistencia o abandono sin devolución, y no se permite cambiar la fecha por iniciativa del participante. La apertura depende de un mínimo no cuantificado; no se detallan cancelación del organizador y devolución.
+
+[fuente oficial](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · No se han establecido reseñas independientes de padres ni una evaluación externa de este turno. Los testimonios y afirmaciones del organizador no constituyen una comprobación independiente.
+
 ### Antes de solicitar plaza
 
 - Confirmar idioma docente, admisión con pasaporte / DIMEX, plaza, corte de edad y nivel.
@@ -75049,6 +75403,8 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 - Aclarar robot, dispositivo, materiales, comida e importe total; comprobar preparación para niveles superiores.
 
 - La familia revisa pago, cancelación y elección de consentimiento de imagen; formulario no completado ni enviado.
+
+- Pedir un ejemplo real de tarea y dificultad para un niño con tres años de experiencia; el nombre del curso no demuestra nivel adecuado.
 
 ### Juguemos a crear Robots
 
@@ -75124,7 +75480,7 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 
 ### Fuentes
 
-- [Anuncio oficial de temporada](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-04
+- [Anuncio oficial de temporada](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-06
 
 - [Programa público, fechas y condiciones de precio](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
 
@@ -75136,7 +75492,7 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 
 **edad:** 6–8 años; confirmar corte, curso escolar no sustituye edad
 
-**Idioma:** Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.
+**Idioma:** La descripción pública y el formulario están en español; no hay confirmación separada del idioma oral ni del apoyo en inglés. La interfaz española no cuenta como enseñanza ES.
 
 **Programa:** Formulario publica nombre, edad, fechas y horario. Temario detallado, versión del equipo / dispositivo, tamaño de grupo y resultados docentes sin detallar. 5 días de 4 horas = 20 horas de estancia; pausas sin describir.
 
@@ -75158,6 +75514,44 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 
 **Motivo de selección:** Opción próxima con horario y precio concretos; curso educativo, sin premio internacional ni ranking mundial demostrado.
 
+### Análisis editorial
+
+FOD · Mis Historias Animadas · edad y horario comprobados, nivel lectivo por aclarar
+
+**Análisis verificado:** 2026-11-06
+
+**Ingeniería, robótica y programación:** Considerar como alternativa · Opción técnica cercana si el organizador confirma idioma de trabajo y dificultad suficiente. Comprobar tarea real y nivel antes de pagar.
+
+**Práctica de idiomas:** Hay que actualizar las pruebas · Hasta conocer el idioma del grupo concreto, no se puede prometer inmersión en inglés o español.
+
+**Contenido, horas y proyecto infantil:** Pruebas parciales · Historias animadas 6–8: opción para Oscar, no itinerario común de hermanos. Enero 18–22, 08:00–12:00; no se detallan plataforma ni proyecto final.
+
+[fuente oficial](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · 6–8 años; confirmar corte, curso escolar no sustituye edad
+
+[fuente oficial](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+
+**Idioma del programa concreto:** no se ha establecido · La descripción pública y el formulario están en español; no hay confirmación separada del idioma oral ni del apoyo en inglés. La interfaz española no cuenta como enseñanza ES.
+
+[fuente oficial](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-06
+
+[fuente oficial](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+
+**Instructores y grupo:** no se ha establecido · FOD describe un enfoque por proyectos, pero los materiales leídos no publican docentes concretos, tamaño del grupo ni proporción de adultos.
+
+[fuente oficial](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Pruebas parciales · Son bloques diurnos de cuatro horas durante cinco días, sin alojamiento ni cuidado de jornada completa prometidos. La tarifa no detalla comida, equipos ni consumibles; aclarar tamaño del grupo, descansos y entrega del niño.
+
+[fuente oficial](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+
+**Precio y condiciones:** Condiciones concretas publicadas · CRC 60000 por curso, IVAI incluido. Se exige el 100% del pago; inasistencia o abandono sin devolución, y no se permite cambiar la fecha por iniciativa del participante. La apertura depende de un mínimo no cuantificado; no se detallan cancelación del organizador y devolución.
+
+[fuente oficial](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · No se han establecido reseñas independientes de padres ni una evaluación externa de este turno. Los testimonios y afirmaciones del organizador no constituyen una comprobación independiente.
+
 ### Antes de solicitar plaza
 
 - Confirmar idioma docente, admisión con pasaporte / DIMEX, plaza, corte de edad y nivel.
@@ -75165,6 +75559,8 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 - Aclarar robot, dispositivo, materiales, comida e importe total; comprobar preparación para niveles superiores.
 
 - La familia revisa pago, cancelación y elección de consentimiento de imagen; formulario no completado ni enviado.
+
+- Pedir un ejemplo real de tarea y dificultad para un niño con tres años de experiencia; el nombre del curso no demuestra nivel adecuado.
 
 ### Mis Historias Animadas
 
@@ -75192,7 +75588,7 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 
 ### Fuentes
 
-- [Anuncio oficial de temporada](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-04
+- [Anuncio oficial de temporada](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-06
 
 - [Programa público, fechas y condiciones de precio](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
 
@@ -75204,7 +75600,7 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 
 **edad:** 7–9 años; confirmar corte, curso escolar no sustituye edad
 
-**Idioma:** Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.
+**Idioma:** La descripción pública y el formulario están en español; no hay confirmación separada del idioma oral ni del apoyo en inglés. La interfaz española no cuenta como enseñanza ES.
 
 **Programa:** Formulario publica nombre, edad, fechas y horario. Temario detallado, versión del equipo / dispositivo, tamaño de grupo y resultados docentes sin detallar. 5 días de 4 horas = 20 horas de estancia; pausas sin describir.
 
@@ -75226,6 +75622,44 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 
 **Motivo de selección:** Opción próxima con horario y precio concretos; curso educativo, sin premio internacional ni ranking mundial demostrado.
 
+### Análisis editorial
+
+FOD · Creatividad y diseño con robótica · 7–9 · edad y horario comprobados, nivel lectivo por aclarar
+
+**Análisis verificado:** 2026-11-06
+
+**Ingeniería, robótica y programación:** Considerar como alternativa · Opción técnica cercana si el organizador confirma idioma de trabajo y dificultad suficiente. Comprobar tarea real y nivel antes de pagar.
+
+**Práctica de idiomas:** Hay que actualizar las pruebas · Hasta conocer el idioma del grupo concreto, no se puede prometer inmersión en inglés o español.
+
+**Contenido, horas y proyecto infantil:** Pruebas parciales · Creatividad robótica 7–9, enero 25–29, 08:00–12:00. Matvey cumple solo si aún tiene nueve y Oscar si ya tiene siete; ambas admisiones son condicionales hasta conocer la fecha exacta de nacimiento.
+
+[fuente oficial](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · 7–9 años; confirmar corte, curso escolar no sustituye edad
+
+[fuente oficial](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+
+**Idioma del programa concreto:** no se ha establecido · La descripción pública y el formulario están en español; no hay confirmación separada del idioma oral ni del apoyo en inglés. La interfaz española no cuenta como enseñanza ES.
+
+[fuente oficial](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-06
+
+[fuente oficial](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+
+**Instructores y grupo:** no se ha establecido · FOD describe un enfoque por proyectos, pero los materiales leídos no publican docentes concretos, tamaño del grupo ni proporción de adultos.
+
+[fuente oficial](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Pruebas parciales · Son bloques diurnos de cuatro horas durante cinco días, sin alojamiento ni cuidado de jornada completa prometidos. La tarifa no detalla comida, equipos ni consumibles; aclarar tamaño del grupo, descansos y entrega del niño.
+
+[fuente oficial](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+
+**Precio y condiciones:** Condiciones concretas publicadas · CRC 60000 por curso, IVAI incluido. Se exige el 100% del pago; inasistencia o abandono sin devolución, y no se permite cambiar la fecha por iniciativa del participante. La apertura depende de un mínimo no cuantificado; no se detallan cancelación del organizador y devolución.
+
+[fuente oficial](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · No se han establecido reseñas independientes de padres ni una evaluación externa de este turno. Los testimonios y afirmaciones del organizador no constituyen una comprobación independiente.
+
 ### Antes de solicitar plaza
 
 - Confirmar idioma docente, admisión con pasaporte / DIMEX, plaza, corte de edad y nivel.
@@ -75233,6 +75667,8 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 - Aclarar robot, dispositivo, materiales, comida e importe total; comprobar preparación para niveles superiores.
 
 - La familia revisa pago, cancelación y elección de consentimiento de imagen; formulario no completado ni enviado.
+
+- Pedir un ejemplo real de tarea y dificultad para un niño con tres años de experiencia; el nombre del curso no demuestra nivel adecuado.
 
 ### Creatividad y diseño con robótica · 7–9
 
@@ -75260,7 +75696,7 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 
 ### Fuentes
 
-- [Anuncio oficial de temporada](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-04
+- [Anuncio oficial de temporada](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-06
 
 - [Programa público, fechas y condiciones de precio](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
 
@@ -75272,7 +75708,7 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 
 **edad:** 9–12 años; confirmar corte, curso escolar no sustituye edad
 
-**Idioma:** Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.
+**Idioma:** La descripción pública y el formulario están en español; no hay confirmación separada del idioma oral ni del apoyo en inglés. La interfaz española no cuenta como enseñanza ES.
 
 **Programa:** Formulario publica nombre, edad, fechas y horario. Temario detallado, versión del equipo / dispositivo, tamaño de grupo y resultados docentes sin detallar. 5 días de 4 horas = 20 horas de estancia; pausas sin describir.
 
@@ -75294,6 +75730,46 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 
 **Motivo de selección:** Opción próxima con horario y precio concretos; curso educativo, sin premio internacional ni ranking mundial demostrado.
 
+### Análisis editorial
+
+FOD · Nivel 1 · Principios de construcción y programación · edad y horario comprobados, nivel lectivo por aclarar
+
+**Análisis verificado:** 2026-11-06
+
+**Ingeniería, robótica y programación:** Considerar como alternativa · Opción técnica cercana si el organizador confirma idioma de trabajo y dificultad suficiente. Comprobar tarea real y nivel antes de pagar.
+
+**Práctica de idiomas:** Hay que actualizar las pruebas · Hasta conocer el idioma del grupo concreto, no se puede prometer inmersión en inglés o español.
+
+**Viaje familiar con campamento de día:** Considerar como alternativa · Se pueden combinar cursos de edades distintas en la misma sede y horario; hacen falta ambas plazas e idioma confirmado. No es inscripción de los niños en un mismo grupo.
+
+**Contenido, horas y proyecto infantil:** Pruebas parciales · Nivel 1: construcción y programación 9–12, diciembre 7–11 o enero 11–15, 08:00–12:00. Matvey cumple por edad; Oscar aún no.
+
+[fuente oficial](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · 9–12 años; confirmar corte, curso escolar no sustituye edad
+
+[fuente oficial](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+
+**Idioma del programa concreto:** no se ha establecido · La descripción pública y el formulario están en español; no hay confirmación separada del idioma oral ni del apoyo en inglés. La interfaz española no cuenta como enseñanza ES.
+
+[fuente oficial](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-06
+
+[fuente oficial](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+
+**Instructores y grupo:** no se ha establecido · FOD describe un enfoque por proyectos, pero los materiales leídos no publican docentes concretos, tamaño del grupo ni proporción de adultos.
+
+[fuente oficial](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Pruebas parciales · Son bloques diurnos de cuatro horas durante cinco días, sin alojamiento ni cuidado de jornada completa prometidos. La tarifa no detalla comida, equipos ni consumibles; aclarar tamaño del grupo, descansos y entrega del niño.
+
+[fuente oficial](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+
+**Precio y condiciones:** Condiciones concretas publicadas · CRC 60000 por curso, IVAI incluido. Se exige el 100% del pago; inasistencia o abandono sin devolución, y no se permite cambiar la fecha por iniciativa del participante. La apertura depende de un mínimo no cuantificado; no se detallan cancelación del organizador y devolución.
+
+[fuente oficial](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · No se han establecido reseñas independientes de padres ni una evaluación externa de este turno. Los testimonios y afirmaciones del organizador no constituyen una comprobación independiente.
+
 ### Antes de solicitar plaza
 
 - Confirmar idioma docente, admisión con pasaporte / DIMEX, plaza, corte de edad y nivel.
@@ -75301,6 +75777,8 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 - Aclarar robot, dispositivo, materiales, comida e importe total; comprobar preparación para niveles superiores.
 
 - La familia revisa pago, cancelación y elección de consentimiento de imagen; formulario no completado ni enviado.
+
+- Los niveles 1–4 no forman una inscripción secuencial confirmada esta temporada: Nivel 4 se ofrece el 11–15 de enero de 2027, antes de Nivel 3 el 25–29 de enero de 2027. No se establecen niveles previos obligatorios ni convalidación de tres años de experiencia externa; el organizador asigna el nivel.
 
 ### Nivel 1 · Principios de construcción y programación
 
@@ -75352,7 +75830,7 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 
 ### Fuentes
 
-- [Anuncio oficial de temporada](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-04
+- [Anuncio oficial de temporada](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-06
 
 - [Programa público, fechas y condiciones de precio](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
 
@@ -75364,7 +75842,7 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 
 **edad:** 9–12 años; confirmar corte, curso escolar no sustituye edad
 
-**Idioma:** Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.
+**Idioma:** La descripción pública y el formulario están en español; no hay confirmación separada del idioma oral ni del apoyo en inglés. La interfaz española no cuenta como enseñanza ES.
 
 **Programa:** Formulario publica nombre, edad, fechas y horario. Temario detallado, versión del equipo / dispositivo, tamaño de grupo y resultados docentes sin detallar. 5 días de 4 horas = 20 horas de estancia; pausas sin describir.
 
@@ -75386,6 +75864,46 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 
 **Motivo de selección:** Opción próxima con horario y precio concretos; curso educativo, sin premio internacional ni ranking mundial demostrado.
 
+### Análisis editorial
+
+FOD · Nivel 2 · Sistemas inteligentes: sensores y engranajes · edad y horario comprobados, nivel lectivo por aclarar
+
+**Análisis verificado:** 2026-11-06
+
+**Ingeniería, robótica y programación:** Considerar como alternativa · Opción técnica cercana si el organizador confirma idioma de trabajo y dificultad suficiente. Comprobar tarea real y nivel antes de pagar.
+
+**Práctica de idiomas:** Hay que actualizar las pruebas · Hasta conocer el idioma del grupo concreto, no se puede prometer inmersión en inglés o español.
+
+**Viaje familiar con campamento de día:** Considerar como alternativa · Se pueden combinar cursos de edades distintas en la misma sede y horario; hacen falta ambas plazas e idioma confirmado. No es inscripción de los niños en un mismo grupo.
+
+**Contenido, horas y proyecto infantil:** Pruebas parciales · Nivel 2: sensores y engranajes 9–12, enero 18–22, 08:00–12:00. Matvey cumple por edad, pero hay que confirmar nivel de entrada y reconocimiento de experiencia.
+
+[fuente oficial](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · 9–12 años; confirmar corte, curso escolar no sustituye edad
+
+[fuente oficial](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+
+**Idioma del programa concreto:** no se ha establecido · La descripción pública y el formulario están en español; no hay confirmación separada del idioma oral ni del apoyo en inglés. La interfaz española no cuenta como enseñanza ES.
+
+[fuente oficial](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-06
+
+[fuente oficial](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+
+**Instructores y grupo:** no se ha establecido · FOD describe un enfoque por proyectos, pero los materiales leídos no publican docentes concretos, tamaño del grupo ni proporción de adultos.
+
+[fuente oficial](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Pruebas parciales · Son bloques diurnos de cuatro horas durante cinco días, sin alojamiento ni cuidado de jornada completa prometidos. La tarifa no detalla comida, equipos ni consumibles; aclarar tamaño del grupo, descansos y entrega del niño.
+
+[fuente oficial](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+
+**Precio y condiciones:** Condiciones concretas publicadas · CRC 60000 por curso, IVAI incluido. Se exige el 100% del pago; inasistencia o abandono sin devolución, y no se permite cambiar la fecha por iniciativa del participante. La apertura depende de un mínimo no cuantificado; no se detallan cancelación del organizador y devolución.
+
+[fuente oficial](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · No se han establecido reseñas independientes de padres ni una evaluación externa de este turno. Los testimonios y afirmaciones del organizador no constituyen una comprobación independiente.
+
 ### Antes de solicitar plaza
 
 - Confirmar idioma docente, admisión con pasaporte / DIMEX, plaza, corte de edad y nivel.
@@ -75393,6 +75911,8 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 - Aclarar robot, dispositivo, materiales, comida e importe total; comprobar preparación para niveles superiores.
 
 - La familia revisa pago, cancelación y elección de consentimiento de imagen; formulario no completado ni enviado.
+
+- Los niveles 1–4 no forman una inscripción secuencial confirmada esta temporada: Nivel 4 se ofrece el 11–15 de enero de 2027, antes de Nivel 3 el 25–29 de enero de 2027. No se establecen niveles previos obligatorios ni convalidación de tres años de experiencia externa; el organizador asigna el nivel.
 
 ### Nivel 2 · Sistemas inteligentes: sensores y engranajes
 
@@ -75420,7 +75940,7 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 
 ### Fuentes
 
-- [Anuncio oficial de temporada](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-04
+- [Anuncio oficial de temporada](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-06
 
 - [Programa público, fechas y condiciones de precio](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
 
@@ -75432,7 +75952,7 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 
 **edad:** 9–12 años; confirmar corte, curso escolar no sustituye edad
 
-**Idioma:** Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.
+**Idioma:** La descripción pública y el formulario están en español; no hay confirmación separada del idioma oral ni del apoyo en inglés. La interfaz española no cuenta como enseñanza ES.
 
 **Programa:** Formulario publica nombre, edad, fechas y horario. Temario detallado, versión del equipo / dispositivo, tamaño de grupo y resultados docentes sin detallar. 5 días de 4 horas = 20 horas de estancia; pausas sin describir.
 
@@ -75454,6 +75974,44 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 
 **Motivo de selección:** Opción próxima con horario y precio concretos; curso educativo, sin premio internacional ni ranking mundial demostrado.
 
+### Análisis editorial
+
+FOD · Nivel 3 · Grados de libertad, sincronización y publicación · edad y horario comprobados, nivel lectivo por aclarar
+
+**Análisis verificado:** 2026-11-06
+
+**Ingeniería, robótica y programación:** Considerar como alternativa · Opción técnica cercana si el organizador confirma idioma de trabajo y dificultad suficiente. Comprobar tarea real y nivel antes de pagar.
+
+**Práctica de idiomas:** Hay que actualizar las pruebas · Hasta conocer el idioma del grupo concreto, no se puede prometer inmersión en inglés o español.
+
+**Contenido, horas y proyecto infantil:** Pruebas parciales · Nivel 3: grados de libertad, sincronización y publicación 9–12, enero 25–29, 13:00–17:00. No coincide con el curso matinal de Oscar.
+
+[fuente oficial](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · 9–12 años; confirmar corte, curso escolar no sustituye edad
+
+[fuente oficial](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+
+**Idioma del programa concreto:** no se ha establecido · La descripción pública y el formulario están en español; no hay confirmación separada del idioma oral ni del apoyo en inglés. La interfaz española no cuenta como enseñanza ES.
+
+[fuente oficial](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-06
+
+[fuente oficial](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+
+**Instructores y grupo:** no se ha establecido · FOD describe un enfoque por proyectos, pero los materiales leídos no publican docentes concretos, tamaño del grupo ni proporción de adultos.
+
+[fuente oficial](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Pruebas parciales · Son bloques diurnos de cuatro horas durante cinco días, sin alojamiento ni cuidado de jornada completa prometidos. La tarifa no detalla comida, equipos ni consumibles; aclarar tamaño del grupo, descansos y entrega del niño.
+
+[fuente oficial](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+
+**Precio y condiciones:** Condiciones concretas publicadas · CRC 60000 por curso, IVAI incluido. Se exige el 100% del pago; inasistencia o abandono sin devolución, y no se permite cambiar la fecha por iniciativa del participante. La apertura depende de un mínimo no cuantificado; no se detallan cancelación del organizador y devolución.
+
+[fuente oficial](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · No se han establecido reseñas independientes de padres ni una evaluación externa de este turno. Los testimonios y afirmaciones del organizador no constituyen una comprobación independiente.
+
 ### Antes de solicitar plaza
 
 - Confirmar idioma docente, admisión con pasaporte / DIMEX, plaza, corte de edad y nivel.
@@ -75461,6 +76019,8 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 - Aclarar robot, dispositivo, materiales, comida e importe total; comprobar preparación para niveles superiores.
 
 - La familia revisa pago, cancelación y elección de consentimiento de imagen; formulario no completado ni enviado.
+
+- Los niveles 1–4 no forman una inscripción secuencial confirmada esta temporada: Nivel 4 se ofrece el 11–15 de enero de 2027, antes de Nivel 3 el 25–29 de enero de 2027. No se establecen niveles previos obligatorios ni convalidación de tres años de experiencia externa; el organizador asigna el nivel.
 
 ### Nivel 3 · Grados de libertad, sincronización y publicación
 
@@ -75488,7 +76048,7 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 
 ### Fuentes
 
-- [Anuncio oficial de temporada](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-04
+- [Anuncio oficial de temporada](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-06
 
 - [Programa público, fechas y condiciones de precio](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
 
@@ -75500,7 +76060,7 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 
 **edad:** 9–16 años; confirmar corte, curso escolar no sustituye edad
 
-**Idioma:** Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.
+**Idioma:** La descripción pública y el formulario están en español; no hay confirmación separada del idioma oral ni del apoyo en inglés. La interfaz española no cuenta como enseñanza ES.
 
 **Programa:** Formulario publica nombre, edad, fechas y horario. Temario detallado, versión del equipo / dispositivo, tamaño de grupo y resultados docentes sin detallar. 5 días de 4 horas = 20 horas de estancia; pausas sin describir.
 
@@ -75522,6 +76082,44 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 
 **Motivo de selección:** Opción próxima con horario y precio concretos; curso educativo, sin premio internacional ni ranking mundial demostrado.
 
+### Análisis editorial
+
+FOD · Nivel 4 · Líneas de procesamiento y acciones de datos · edad y horario comprobados, nivel lectivo por aclarar
+
+**Análisis verificado:** 2026-11-06
+
+**Ingeniería, robótica y programación:** Considerar como alternativa · Opción técnica cercana si el organizador confirma idioma de trabajo y dificultad suficiente. Comprobar tarea real y nivel antes de pagar.
+
+**Práctica de idiomas:** Hay que actualizar las pruebas · Hasta conocer el idioma del grupo concreto, no se puede prometer inmersión en inglés o español.
+
+**Contenido, horas y proyecto infantil:** Pruebas parciales · Nivel 4: procesamiento y acciones de datos 9–16, enero 11–15, 13:00–17:00. Matvey necesita nivel confirmado; Oscar está por debajo del rango.
+
+[fuente oficial](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · 9–16 años; confirmar corte, curso escolar no sustituye edad
+
+[fuente oficial](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+
+**Idioma del programa concreto:** no se ha establecido · La descripción pública y el formulario están en español; no hay confirmación separada del idioma oral ni del apoyo en inglés. La interfaz española no cuenta como enseñanza ES.
+
+[fuente oficial](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-06
+
+[fuente oficial](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+
+**Instructores y grupo:** no se ha establecido · FOD describe un enfoque por proyectos, pero los materiales leídos no publican docentes concretos, tamaño del grupo ni proporción de adultos.
+
+[fuente oficial](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Pruebas parciales · Son bloques diurnos de cuatro horas durante cinco días, sin alojamiento ni cuidado de jornada completa prometidos. La tarifa no detalla comida, equipos ni consumibles; aclarar tamaño del grupo, descansos y entrega del niño.
+
+[fuente oficial](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+
+**Precio y condiciones:** Condiciones concretas publicadas · CRC 60000 por curso, IVAI incluido. Se exige el 100% del pago; inasistencia o abandono sin devolución, y no se permite cambiar la fecha por iniciativa del participante. La apertura depende de un mínimo no cuantificado; no se detallan cancelación del organizador y devolución.
+
+[fuente oficial](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · No se han establecido reseñas independientes de padres ni una evaluación externa de este turno. Los testimonios y afirmaciones del organizador no constituyen una comprobación independiente.
+
 ### Antes de solicitar plaza
 
 - Confirmar idioma docente, admisión con pasaporte / DIMEX, plaza, corte de edad y nivel.
@@ -75529,6 +76127,8 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 - Aclarar robot, dispositivo, materiales, comida e importe total; comprobar preparación para niveles superiores.
 
 - La familia revisa pago, cancelación y elección de consentimiento de imagen; formulario no completado ni enviado.
+
+- Los niveles 1–4 no forman una inscripción secuencial confirmada esta temporada: Nivel 4 se ofrece el 11–15 de enero de 2027, antes de Nivel 3 el 25–29 de enero de 2027. No se establecen niveles previos obligatorios ni convalidación de tres años de experiencia externa; el organizador asigna el nivel.
 
 ### Nivel 4 · Líneas de procesamiento y acciones de datos
 
@@ -75556,7 +76156,7 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 
 ### Fuentes
 
-- [Anuncio oficial de temporada](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-04
+- [Anuncio oficial de temporada](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-06
 
 - [Programa público, fechas y condiciones de precio](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
 

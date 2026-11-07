@@ -1,0 +1,2422 @@
+{
+  "version": 194,
+  "checked": "2026-11-06",
+  "modified_raw_profile_ids": [
+    "CP094",
+    "CP591",
+    "CP612",
+    "CP613",
+    "CP614",
+    "CP615",
+    "CP1124",
+    "CP1125",
+    "CP1126",
+    "CP1127",
+    "CP1128",
+    "CP1129",
+    "CP1130"
+  ],
+  "previous_raw_profiles": {
+    "CP094": {
+      "id": "CP094",
+      "slug": "ojo-ciego",
+      "provider": "Ojo Ciego · Verano 2027",
+      "country": "Мексика",
+      "iso": "MEX",
+      "place": "ExHacienda OjoCiego /SanDiego de laUnión /Guanajuato",
+      "themes": [
+        "general",
+        "sport"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "7–14; 15–16 отдельный transition",
+      "language": "Язык занятий прямо не установлен; испанский сайт не подтверждает ES или EN преподавания.",
+      "confirmed_instruction_languages": [],
+      "programme": "Outdoor/спорт/творчество/ночные игры, kayak/climbing/арх ery. Робототехническое обучение не заявлено. Максимум 40 campers и ratio 1: 4 — заявления оператора, не независимая оценка. Телефоны/обычные звонки запрещены, родителям ежедневные фото.",
+      "timing": {
+        "status": "published_2027",
+        "label": "18–31.07.2027. Есть пакет 1 неделя, но его точные границы пока не выделены.",
+        "sessions": [
+          [
+            "2027-07-18",
+            "2027-07-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-07-18",
+            "end": "2027-07-31",
+            "label": "Verano · полный 2-недельный пансион",
+            "price": "MXN 20 550/ребёнок",
+            "place": "ExHacienda OjoCiego /SanDiego de laUnión /Guanajuato",
+            "source": "https://www.ojociego.com.mx/fechas-precios.html",
+            "formats": [
+              "boarding"
+            ],
+            "proof": "Прямая HTMLprogramme/pricing/FAQ дают 2027 и 20 550. Web-reader кэш ещё 2026/18 000; в базе свежий прямой источник. Границы 1 недели не выдуманы."
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "label": "MXN 12 000/1 неделя; MXN 20 550/2 недели.",
+        "included": "Пансион, питание, программа, accident cover 150 000 MXN, nursing и shirt/photos. Programme/FAQ описывают 3 meals+snack+tiendita; pricing пишет 5 meals — уточнить.",
+        "extras": "Дорога/трансфер, taxes и card surcharge отдельно уточнить. FAQ обещает 20%первому sibling: базу/применимость получить в расчёте.",
+        "deposit": "Первый платёж MXN 2 500 для резерва; явно не установлен зачёт в 20 550. После 10 июля аванс не возвращают; ранний отъезд без возврата. Окончательные условия 2027 подтвердить."
+      },
+      "accommodation": "Cabins по возрасту/полу с hotwater; staff спит с детьми. Максимум 8 campers+2 instructors на cabin по programme.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст 7–14 подходит; подтвердить ES/EN и готовность к 1/2 неделям."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Только после 7-летия к заезду 18 июля; точная дата рождения неизвестна."
+        }
+      },
+      "editorial_reason": "Общий мексиканский пансион с опубликованным 2027 пакетом; подходит братьям только при 7-летии Оскара.",
+      "shortlist": [
+        "general",
+        "boarding"
+      ],
+      "questions": [
+        "Подтвердить язык, возраст на заезд, границы 1 недели, трансфер, sibling discount и зачёт аванса."
+      ],
+      "sources": [
+        {
+          "title": "Свежий прямой programme 2027",
+          "url": "https://www.ojociego.com.mx/verano.html",
+          "checked": "2026-10-04"
+        },
+        {
+          "title": "2027: тарифы /даты",
+          "url": "https://www.ojociego.com.mx/fechas-precios.html",
+          "checked": "2026-10-04"
+        },
+        {
+          "title": "Возраст /аванс /отмена /коммуникация",
+          "url": "https://www.ojociego.com.mx/faq.html",
+          "checked": "2026-10-04"
+        }
+      ],
+      "checked": "2026-10-04"
+    },
+    "CP591": {
+      "id": "CP591",
+      "slug": "santa-ursula-general",
+      "provider": "Camp Santa Úrsula · Verano",
+      "country": "Мексика",
+      "iso": "MEX",
+      "place": "Camino a Portezuelo s/n, Planta del Carmen, Cerro de San Pedro, San Luis Potosí, México",
+      "themes": [
+        "general",
+        "sport",
+        "science",
+        "art"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "Именно summer7–15; общий activityrule minimum6 не отменяет 7-летний допуск",
+      "language": "Основной ES/EN/RU и постоянная помощь конкретной группе не подтверждены. Собственный internationalblog прямо различает иностранных campers и bilingualimmersion; исторический международный состав не ENcurriculum.",
+      "confirmed_instruction_languages": [],
+      "programme": "Общий outdoor пансион: команды/спорт, велосипеды/kayak/плавание/horse, forest/biodiversity, practicalworkshops и nightgames. Робототехника/AI/coding не заявлены. Каждая команда instructor+assistant, ночью instructor скомандой. Medicalservice24 h; summerpage amenities не гарантирует всем детям каждую attraction — age/safetyrules. По reglamento сон обычно 22:30; дневныеактивности 10–22 с break, не 12 h уроков. Телефоны сдают доотъезда, сообщения родителей только websystem; обычные звонки ребёнку не обещаны.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Датированные 2027 pricecards:10–16 July;17–23 July;10–23 Julyextended. Старый hero11–24 July2026 и home16–23 July расходятся; используется конкретная 2027 card, подтверждение письменно нужно.",
+        "sessions": [
+          [
+            "2027-07-10",
+            "2027-07-16"
+          ],
+          [
+            "2027-07-17",
+            "2027-07-23"
+          ],
+          [
+            "2027-07-10",
+            "2027-07-23"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-07-10",
+            "end": "2027-07-16",
+            "variant_key": "summer-2027-07-10-2027-07-16",
+            "label": "Verano1 ·7 дней",
+            "price": "51 700 MXN",
+            "source": "https://www.campsantaursula.com/campamentos-de-verano",
+            "place": "Camino a Portezuelo s/n, Planta del Carmen, Cerro de San Pedro, San Luis Potosí, México"
+          },
+          {
+            "start": "2027-07-17",
+            "end": "2027-07-23",
+            "variant_key": "summer-2027-07-17-2027-07-23",
+            "label": "Verano2 ·7 дней",
+            "price": "51 700 MXN",
+            "source": "https://www.campsantaursula.com/campamentos-de-verano",
+            "place": "Camino a Portezuelo s/n, Planta del Carmen, Cerro de San Pedro, San Luis Potosí, México"
+          },
+          {
+            "start": "2027-07-10",
+            "end": "2027-07-23",
+            "variant_key": "summer-2027-07-10-2027-07-23",
+            "label": "Extendido ·14 дней",
+            "price": "98 500 MXN",
+            "source": "https://www.campsantaursula.com/campamentos-de-verano",
+            "place": "Camino a Portezuelo s/n, Planta del Carmen, Cerro de San Pedro, San Luis Potosí, México"
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "label": "MXN51 700/7 дней за 10–16 или 17–23 July;98 500/14 дней за 10–23 July. Две отдельные weeks103 400, extended дешевлена 4 900; пакетная разница, не дополнительная акция.",
+        "included": "Проживание/foodsnacks, facilities/equipment/instruction и maintenancequota. Summerpage24 hmedical; собственный contract: accident policy до 150 000 MXN на участника, действует только до выхода из лагеря.",
+        "extras": "Дорога/transfer не обещаны. Расходы сверх 150 000 MXN и исключения полиса оплачивают родители; заболевания/предсуществующие расходы полис не покрывает; medicalservice24 h не allmedicalexpensecoverage. Состав текущих activities может заменяться. Длядвух 7 days103 400 или extended197 000 до дороги/прочего, если Oscar уже 7.",
+        "deposit": "Contract: обычнаяотмена≥15 дней, health/safety исключение≥3 дней; варианты transfer другому участнику/credit1 год/50%cashrefund. Другаястрока ≤3 дней вообще 0 — ровно 3 дня конфликтуют. Latearrival/earlydeparture0. Operatorforce-majeure переносдо 1 года, затем refund если невозможен; посленачала suspension0. Тарифможетизменятьсясуведомлением/acceptance, fullpaydeadline нужен; не подписано."
+      },
+      "accommodation": "Пансион в Pueblo Vaquero/traincarrooms, instructor ночуетскомандой. Requests совместногожилья максимум 3 campers, не гарантия отдельнойдвухместнойкомнаты. Securitypage говорит nooffsiteexcursions.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Летом 2027 будет 9–10: summer7–15 по возрасту подходит; место, языки и готовностькпансиону подтвердить."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Летом 2027 будет 6–7: только после 7-летия, нужно точное DOB. Minimum6 в activityreglamento не допуск summer."
+        }
+      },
+      "editorial_reason": "Мексиканский общий пансион среальными 2027 датами/ценами и прочитанным contract; не подтверждённый топробототехники/билингвальныйлагерь.",
+      "shortlist": [],
+      "questions": [
+        "DOB Оскара/язык, точная 17 July граница, cohort/inclusions и fullinvoice; отмена ровно 3 дня, transfer, medical policy/лимит покрытия и contactrule."
+      ],
+      "sources": [
+        {
+          "title": "Конкретные Summer2027 age/date/pricecards",
+          "url": "https://www.campsantaursula.com/campamentos-de-verano",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "Contract/cancel/medicaldeductible",
+          "url": "https://www.campsantaursula.com/terminos-y-condiciones-campamento-de-verano",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "Behaviour/phones/activityage, не summeradmission",
+          "url": "https://www.campsantaursula.com/reglamento",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "Internationalcommunity не languageimmersion",
+          "url": "https://www.campsantaursula.com/post/un-campamento-con-experiencia-internacional-sin-salir-de-mexico",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "Security/nooffsite",
+          "url": "https://www.campsantaursula.com/seguridad",
+          "checked": "2026-10-05"
+        }
+      ],
+      "checked": "2026-10-05"
+    },
+    "CP612": {
+      "id": "CP612",
+      "slug": "tamarindo-elementary",
+      "provider": "Explornatura · Learn Spanish Summer Camp Elementary",
+      "country": "Коста-Рика",
+      "iso": "CRI",
+      "place": "Tamarindo, Guanacaste; shuttle: Ali’s Treehouse Preschool",
+      "themes": [
+        "general",
+        "languages",
+        "sport",
+        "art"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Elementary 5–10; соседние Pre-K и Middle School — отдельные группы",
+      "language": "Подтверждены 10 часов уроков испанского в неделю. Bilingual staff и отдельный преподаватель EN/ES упомянуты, но язык всего дня, английская поддержка конкретной группы и технические занятия на EN не подтверждены.",
+      "confirmed_instruction_languages": [
+        "ES"
+      ],
+      "programme": "Дневная языковая программа: 10 ч испанского в неделю, группы по возрасту/уровню, творчество, готовка, пляж и природа; один урок серфинга с доской и одна поездка в неделю. Для уже говорящих по-испански детей проверить advanced/native-speaker задачи: это отдых и языковая практика, робототехника и AI не заявлены. Elementary 10 ч, а не 16 ч соседней старшей группы.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Девять явно перечисленных понедельников 2027: 14/21/28 июня, 5/12/19/26 июля, 2/9 августа. Дневной лагерь Пн–Пт 08–14; окончания по пятницам рассчитаны по этому правилу. Скрытые старые недели 2026 не перенесены.",
+        "sessions": [
+          [
+            "2027-06-14",
+            "2027-06-18"
+          ],
+          [
+            "2027-06-21",
+            "2027-06-25"
+          ],
+          [
+            "2027-06-28",
+            "2027-07-02"
+          ],
+          [
+            "2027-07-05",
+            "2027-07-09"
+          ],
+          [
+            "2027-07-12",
+            "2027-07-16"
+          ],
+          [
+            "2027-07-19",
+            "2027-07-23"
+          ],
+          [
+            "2027-07-26",
+            "2027-07-30"
+          ],
+          [
+            "2027-08-02",
+            "2027-08-06"
+          ],
+          [
+            "2027-08-09",
+            "2027-08-13"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-06-14",
+            "end": "2027-06-18",
+            "variant_key": "week-1",
+            "label": "Elementary · Пн–Пт 08–14",
+            "price": "$797/неделя; валюту, registration и налоги уточнить",
+            "source": "https://learnspanishsummercamp.com/kids-summer-camp-ws",
+            "place": "Tamarindo, Guanacaste; shuttle: Ali’s Treehouse Preschool",
+            "date_precision": "published_rule",
+            "date_rule": "Сайт явно перечисляет девять Monday starts2027 и правило Monday through Friday08–14; окончание каждой недели рассчитано как понедельник+4дня."
+          },
+          {
+            "start": "2027-06-21",
+            "end": "2027-06-25",
+            "variant_key": "week-2",
+            "label": "Elementary · Пн–Пт 08–14",
+            "price": "$797/неделя; валюту, registration и налоги уточнить",
+            "source": "https://learnspanishsummercamp.com/kids-summer-camp-ws",
+            "place": "Tamarindo, Guanacaste; shuttle: Ali’s Treehouse Preschool",
+            "date_precision": "published_rule",
+            "date_rule": "Сайт явно перечисляет девять Monday starts2027 и правило Monday through Friday08–14; окончание каждой недели рассчитано как понедельник+4дня."
+          },
+          {
+            "start": "2027-06-28",
+            "end": "2027-07-02",
+            "variant_key": "week-3",
+            "label": "Elementary · Пн–Пт 08–14",
+            "price": "$797/неделя; валюту, registration и налоги уточнить",
+            "source": "https://learnspanishsummercamp.com/kids-summer-camp-ws",
+            "place": "Tamarindo, Guanacaste; shuttle: Ali’s Treehouse Preschool",
+            "date_precision": "published_rule",
+            "date_rule": "Сайт явно перечисляет девять Monday starts2027 и правило Monday through Friday08–14; окончание каждой недели рассчитано как понедельник+4дня."
+          },
+          {
+            "start": "2027-07-05",
+            "end": "2027-07-09",
+            "variant_key": "week-4",
+            "label": "Elementary · Пн–Пт 08–14",
+            "price": "$797/неделя; валюту, registration и налоги уточнить",
+            "source": "https://learnspanishsummercamp.com/kids-summer-camp-ws",
+            "place": "Tamarindo, Guanacaste; shuttle: Ali’s Treehouse Preschool",
+            "date_precision": "published_rule",
+            "date_rule": "Сайт явно перечисляет девять Monday starts2027 и правило Monday through Friday08–14; окончание каждой недели рассчитано как понедельник+4дня."
+          },
+          {
+            "start": "2027-07-12",
+            "end": "2027-07-16",
+            "variant_key": "week-5",
+            "label": "Elementary · Пн–Пт 08–14",
+            "price": "$797/неделя; валюту, registration и налоги уточнить",
+            "source": "https://learnspanishsummercamp.com/kids-summer-camp-ws",
+            "place": "Tamarindo, Guanacaste; shuttle: Ali’s Treehouse Preschool",
+            "date_precision": "published_rule",
+            "date_rule": "Сайт явно перечисляет девять Monday starts2027 и правило Monday through Friday08–14; окончание каждой недели рассчитано как понедельник+4дня."
+          },
+          {
+            "start": "2027-07-19",
+            "end": "2027-07-23",
+            "variant_key": "week-6",
+            "label": "Elementary · Пн–Пт 08–14",
+            "price": "$797/неделя; валюту, registration и налоги уточнить",
+            "source": "https://learnspanishsummercamp.com/kids-summer-camp-ws",
+            "place": "Tamarindo, Guanacaste; shuttle: Ali’s Treehouse Preschool",
+            "date_precision": "published_rule",
+            "date_rule": "Сайт явно перечисляет девять Monday starts2027 и правило Monday through Friday08–14; окончание каждой недели рассчитано как понедельник+4дня."
+          },
+          {
+            "start": "2027-07-26",
+            "end": "2027-07-30",
+            "variant_key": "week-7",
+            "label": "Elementary · Пн–Пт 08–14",
+            "price": "$797/неделя; валюту, registration и налоги уточнить",
+            "source": "https://learnspanishsummercamp.com/kids-summer-camp-ws",
+            "place": "Tamarindo, Guanacaste; shuttle: Ali’s Treehouse Preschool",
+            "date_precision": "published_rule",
+            "date_rule": "Сайт явно перечисляет девять Monday starts2027 и правило Monday through Friday08–14; окончание каждой недели рассчитано как понедельник+4дня."
+          },
+          {
+            "start": "2027-08-02",
+            "end": "2027-08-06",
+            "variant_key": "week-8",
+            "label": "Elementary · Пн–Пт 08–14",
+            "price": "$797/неделя; валюту, registration и налоги уточнить",
+            "source": "https://learnspanishsummercamp.com/kids-summer-camp-ws",
+            "place": "Tamarindo, Guanacaste; shuttle: Ali’s Treehouse Preschool",
+            "date_precision": "published_rule",
+            "date_rule": "Сайт явно перечисляет девять Monday starts2027 и правило Monday through Friday08–14; окончание каждой недели рассчитано как понедельник+4дня."
+          },
+          {
+            "start": "2027-08-09",
+            "end": "2027-08-13",
+            "variant_key": "week-9",
+            "label": "Elementary · Пн–Пт 08–14",
+            "price": "$797/неделя; валюту, registration и налоги уточнить",
+            "source": "https://learnspanishsummercamp.com/kids-summer-camp-ws",
+            "place": "Tamarindo, Guanacaste; shuttle: Ali’s Treehouse Preschool",
+            "date_precision": "published_rule",
+            "date_rule": "Сайт явно перечисляет девять Monday starts2027 и правило Monday through Friday08–14; окончание каждой недели рассчитано как понедельник+4дня."
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "label": "На текущей странице $797/ребёнок/неделя; двоим $1 594 за лагерь. Валюту, налоги и итоговый счёт подтвердить. Жильё на отдельной странице: 1-bedroom $155/ночь, Studio $170, 2-bedroom $205; минимум 6 ночей. Условный пример двое детей + 6 ночей 1-bedroom: $2 524 до не установленных сборов и при одинаковой валюте.",
+        "included": "10 ч испанского, перечисленные занятия, один surf lesson с доской, weekly field trip, дневной перекус и обед. Не 24/7 пансион для Elementary.",
+        "extras": "Жильё семьи, перелёт, airport transfer, extra surf/уроки/няня и родительские курсы отдельно. Shuttle pickup 07:40/drop14:00, стоимость не указана. Жильё 1-bedroom/Studio до 4 человек; 2-bedroom до 5. Скидки жилья 14+ ночей 15%, 28+ 30%, доступность и год тарифа подтвердить.",
+        "deposit": "Связанные terms действуют для набора Nov2025–сезон 2026, поэтому не выданы за контракт 2027. В них $100 — 50% невозвратного registration fee, а не доказанный полный сбор; 50% оплаты, остаток за 8 недель, cancellation200/student и разные возвраты. Текущий hold100/credit25 не принят за полный тариф или гарантированную скидку. Нужны terms2027 и финальная регистрационная сумма."
+      },
+      "accommodation": "Дневной лагерь; родители живут отдельно. Жильё сайта: собственная кухня/кровати, минимум 6 ночей; номер kitchenette максимум 2 человека не семейная комната на 4. Заявления ratio5:1 и surf1:2 — сведения оператора, не независимая проверка. Under6 car seat rule не применяется автоматически к лету 2027 Оскара 6–7.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "В 2027 возраст входит в опубликованный диапазон; уровень группы, иностранный приём, язык и действующее место ещё подтвердить."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "В 2027 возраст входит в опубликованный диапазон; уровень группы, иностранный приём, язык и действующее место ещё подтвердить."
+        }
+      },
+      "editorial_reason": "Близкий к дому общий вариант обоим с реальными датами 2027; полезность языковой части зависит от уровня их испанского.",
+      "shortlist": [
+        "both",
+        "general",
+        "local"
+      ],
+      "questions": [
+        "Подтвердить advanced/native Spanish группу, поддержку EN, места, полный счёт в указанной валюте, жильё/транспорт и контракт 2027."
+      ],
+      "sources": [
+        {
+          "title": "Текущий Kids programme2027",
+          "url": "https://learnspanishsummercamp.com/kids-summer-camp-ws",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "Terms с явной применимостью 2026",
+          "url": "https://learnspanishsummercamp.com/terms623610-258659",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "Жильё и ночные тарифы",
+          "url": "https://learnspanishsummercamp.com/beachfront-lodging-options",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "Именованные преподаватели",
+          "url": "https://learnspanishsummercamp.com/our-staff",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "Дополнительные услуги",
+          "url": "https://learnspanishsummercamp.com/services",
+          "checked": "2026-10-05"
+        }
+      ],
+      "checked": "2026-10-05",
+      "language_evidence_role": "language_lessons"
+    },
+    "CP613": {
+      "id": "CP613",
+      "slug": "coyote-short",
+      "provider": "Camp Coyote · осенний и зимний короткий пансион",
+      "country": "Мексика",
+      "iso": "MEX",
+      "place": "Km15 Carr. Zapotlanejo–Tototlán, Zapotlanejo, Jalisco",
+      "themes": [
+        "general",
+        "sport",
+        "art"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "6–14; индивидуальный лагерь",
+      "language": "Язык EN/ES/RU конкретных занятий и сопровождения не установлен. Язык сайта или перевод интерфейса не доказывает язык преподавания.",
+      "confirmed_instruction_languages": [],
+      "programme": "Autumn: природа, лошади, препятствия, костёр и квест. Winter: стрельба из лука, велосипед, лошади, творчество и готовка. Разные возрастные ротации; конкретные водные/высотные активности подтвердить. Общая программа, без заявленной робототехники.",
+      "timing": {
+        "status": "published_2026",
+        "label": "30 Oct–2 Nov2026:4 дня 3 ночи; 21–23 Dec2026:3 дня 2 ночи. Собственная страница пишет cupos abiertos, это не подтверждение зачисления.",
+        "sessions": [
+          [
+            "2026-10-30",
+            "2026-11-02"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-23"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-10-30",
+            "end": "2026-11-02",
+            "variant_key": "autumn",
+            "label": "Autumn · 4 дня 3 ночи",
+            "price": "MXN4 000/ребёнок; двое 7 200; аванс 1 200 входит в цену",
+            "source": "https://www.campcoyote.mx/",
+            "place": "Km15 Carr. Zapotlanejo–Tototlán, Zapotlanejo, Jalisco",
+            "availability": {
+              "status": "closed",
+              "label": "Осень 2026 завершена; новый выпуск ещё не датирован.",
+              "checked": "2026-11-06"
+            }
+          },
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-23",
+            "variant_key": "winter",
+            "label": "Winter · 3 дня 2 ночи",
+            "price": "MXN3 300/ребёнок; early2 805 до 20 Nov; двое 5 940 без early; аванс 990",
+            "source": "https://www.campcoyote.mx/",
+            "place": "Km15 Carr. Zapotlanejo–Tototlán, Zapotlanejo, Jalisco",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Для этой даты возраст 9–9; курс 6–14. Сейчас семье известны 9 и 6 лет; точный день рождения не установлен. Язык, уровень и место ещё подтвердить."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Для этой даты возраст 6–6; курс 6–14. Сейчас семье известны 9 и 6 лет; точный день рождения не установлен. Язык, уровень и место ещё подтвердить."
+              }
+            }
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "label": "Autumn MXN4 000/ребёнок, аванс 1 200; двое братьев 7 200 за семью. Winter3 300, early2 805 до 20 Nov; двое 5 940, early двоим 5 610 если применим. Winter аванс 990/ребёнок. Выбирается одна скидка; earlydeadline не срок регистрации.",
+        "included": "Glamping, еда и описанный отдых; состав окончательного пакета подтвердить.",
+        "extras": "Проезд/перелёт, страховку, полный состав оплаченных активностей и трансфер уточнить. Школьные private groups minimum15/возраст 5–18/тариф 1100+ — другой продукт. Публичные индивидуальные лагеря начинаются с 6, не 5.",
+        "deposit": "Аванс 30% невозвратный, остаток наличными при заезде. Отмена/перенос до 7 дней: оплаченный сверх аванса остаток ваучером 6 месяцев на услуги группы, не cash refund. Медицинская справка позволяет перенос до 1 года. Скидки не суммируются; отдельный окончательный договор, иностранный приём и места не подтверждены."
+      },
+      "accommodation": "Пансион в домиках glamping: заезд 11:00 первого дня / выезд 15:00 последнего; раздельные зоны по полу. Описание обещает 4–6 детей с вожатым, таблица 3–4: вместимость расходится. Постель включена, но список вещей просит одеяло/спальник/подушку: уточнить комплект. Пять приёмов пищи включая 2 перекуса; аллергии сообщают заранее. Парамедик и сопровождение круглосуточно, больница в 12 минутах — заявления оператора. Телефон около 1 ч/день под контролем.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Для этой даты возраст 9–9; курс 6–14. Сейчас семье известны 9 и 6 лет; точный день рождения не установлен. Язык, уровень и место ещё подтвердить."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Для этой даты возраст 6–6; курс 6–14. Сейчас семье известны 9 и 6 лет; точный день рождения не установлен. Язык, уровень и место ещё подтвердить."
+        }
+      },
+      "editorial_reason": "Короткий общий пансион рядом с Guadalajara; кандидат обоим после 6-летия Оскара.",
+      "shortlist": [
+        "general",
+        "boarding",
+        "local"
+      ],
+      "questions": [
+        "Подтвердить точный DOB/язык, готовность к ночёвкам, места, комнату/постель, транспорт, страховку и полный договор/счёт; сумма аванса входит в тариф."
+      ],
+      "sources": [
+        {
+          "title": "Собственные сезоны, динамический прайс и раскрытый FAQ",
+          "url": "https://www.campcoyote.mx/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Read-only Autumn form",
+          "url": "https://www.campcoyote.mx/inscripcionescamp?program=oto%C3%B1o",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "Read-only Winter form",
+          "url": "https://www.campcoyote.mx/inscripcionescamp?program=invierno",
+          "checked": "2026-10-05"
+        }
+      ],
+      "checked": "2026-11-06"
+    },
+    "CP614": {
+      "id": "CP614",
+      "slug": "coyote-junior",
+      "provider": "Camp Coyote · Pascua / Verano Basic",
+      "country": "Мексика",
+      "iso": "MEX",
+      "place": "Km15 Carr. Zapotlanejo–Tototlán, Zapotlanejo, Jalisco",
+      "themes": [
+        "general",
+        "sport",
+        "art"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "6–14; оба сезона 6 дней 5 ночей",
+      "language": "Язык EN/ES/RU конкретных занятий и сопровождения не установлен. Язык сайта или перевод интерфейса не доказывает язык преподавания.",
+      "confirmed_instruction_languages": [],
+      "programme": "Pascua: игры, Easter crafts, лошади/костёр. Basic: первая ночёвка, младшие группы, lake games, препятствия и квесты. Это общий outdoor, без курса AI/робототехники.",
+      "timing": {
+        "status": "partial_2027",
+        "label": "Pascua:29 марта–3 апреля 2027 в календаре оператора. В других блоках остаются ожидание дат и пометка REF.2026: цену и открытие набора подтвердить. Basic: август 2027, точных дней нет.",
+        "sessions": [
+          [
+            "2027-03-29",
+            "2027-04-03"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-03-29",
+            "end": "2027-04-03",
+            "variant_key": "pascua",
+            "label": "Pascua · 6 дней 5 ночей",
+            "price": "MXN6 500 / ранний 5 525, но REF.2026; финальный тариф 2027 неизвестен",
+            "source": "https://www.campcoyote.mx/",
+            "place": "Km15 Carr. Zapotlanejo–Tototlán, Zapotlanejo, Jalisco",
+            "availability": {
+              "status": "waitlist",
+              "label": "На собственной странице лист ожидания; места и финальный тариф2027 не подтверждены",
+              "checked": "2026-10-05"
+            },
+            "proof": "Точная дата из собственной видимой карточки. Другие блоки ещё ждут расписания, аREF.2026/лист ожидания сохраняются; набор не объявлен открытым."
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": null,
+        "label": "В текущем прайсе MXN6 500, ранний тариф 5 525; Pascua двое 11 700/аванс 1 950 на ребёнка. На сайте встречается и 5 300, а карточка Pascua сохраняет REF.2026: нужен письменный тариф 2027. Для Summer скидки братьям/аванс в таблице не указаны.",
+        "included": "Glamping, питание и общие активности; полный пакет подтвердить.",
+        "extras": "Проезд/перелёт, страховку, полный состав оплаченных активностей и трансфер уточнить. Школьные private groups minimum15/возраст 5–18/тариф 1100+ — другой продукт. Публичные индивидуальные лагеря начинаются с 6, не 5.",
+        "deposit": "Аванс 30% невозвратный, остаток наличными при заезде. Отмена/перенос до 7 дней: оплаченный сверх аванса остаток ваучером 6 месяцев на услуги группы, не cash refund. Медицинская справка позволяет перенос до 1 года. Скидки не суммируются; отдельный окончательный договор, иностранный приём и места не подтверждены."
+      },
+      "accommodation": "Пансион в домиках glamping: заезд 11:00 первого дня / выезд 15:00 последнего; раздельные зоны по полу. Описание обещает 4–6 детей с вожатым, таблица 3–4: вместимость расходится. Постель включена, но список вещей просит одеяло/спальник/подушку: уточнить комплект. Пять приёмов пищи включая 2 перекуса; аллергии сообщают заранее. Парамедик и сопровождение круглосуточно, больница в 12 минутах — заявления оператора. Телефон около 1 ч/день под контролем.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "В 2027 возраст входит в опубликованный диапазон; уровень группы, иностранный приём, язык и действующее место ещё подтвердить."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "В 2027 возраст входит в опубликованный диапазон; уровень группы, иностранный приём, язык и действующее место ещё подтвердить."
+        }
+      },
+      "editorial_reason": "Более длинный общий пансион обоим; отдельный вариант первой поездки, пока с листом ожидания и конфликтом тарифа.",
+      "shortlist": [
+        "general",
+        "boarding"
+      ],
+      "questions": [
+        "Подтвердить точный DOB/язык, готовность к ночёвкам, места, комнату/постель, транспорт, страховку и полный договор/счёт; сумма аванса входит в тариф."
+      ],
+      "sources": [
+        {
+          "title": "Собственные сезоны, динамический прайс и раскрытый FAQ",
+          "url": "https://www.campcoyote.mx/",
+          "checked": "2026-10-05"
+        }
+      ],
+      "checked": "2026-10-05",
+      "availability": {
+        "status": "waitlist",
+        "label": "На собственной странице лист ожидания; места и финальный тариф2027 не подтверждены",
+        "checked": "2026-10-05"
+      }
+    },
+    "CP615": {
+      "id": "CP615",
+      "slug": "coyote-pro",
+      "provider": "Camp Coyote · Verano Pro",
+      "country": "Мексика",
+      "iso": "MEX",
+      "place": "Km15 Carr. Zapotlanejo–Tototlán, Zapotlanejo, Jalisco",
+      "themes": [
+        "general",
+        "sport"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "9–17; 8 дней 7 ночей",
+      "language": "Язык EN/ES/RU конкретных занятий и сопровождения не установлен. Язык сайта или перевод интерфейса не доказывает язык преподавания.",
+      "confirmed_instruction_languages": [],
+      "programme": "Более сложные outdoor и физические командные задачи, zipline/препятствия, возрастные ротации и вечерние игры. Pro относится к приключениям; это не инженерная квалификация.",
+      "timing": {
+        "status": "partial_2027",
+        "label": "Июль 2027 без точных дней, лист ожидания.",
+        "sessions": []
+      },
+      "price": {
+        "year": 2027,
+        "label": "Текущий прайс MXN8 500, ранний 7 225 без опубликованного срока; на сайте встречается и 7 100. Это предварительная цена. Скидка братьям и аванс в таблице не указаны.",
+        "included": "Glamping, питание и приключения; точный состав пакета подтвердить.",
+        "extras": "Проезд/перелёт, страховку, полный состав оплаченных активностей и трансфер уточнить. Школьные private groups minimum15/возраст 5–18/тариф 1100+ — другой продукт. Публичные индивидуальные лагеря начинаются с 6, не 5.",
+        "deposit": "Аванс 30% невозвратный, остаток наличными при заезде. Отмена/перенос до 7 дней: оплаченный сверх аванса остаток ваучером 6 месяцев на услуги группы, не cash refund. Медицинская справка позволяет перенос до 1 года. Скидки не суммируются; отдельный окончательный договор, иностранный приём и места не подтверждены."
+      },
+      "accommodation": "Пансион в домиках glamping: заезд 11:00 первого дня / выезд 15:00 последнего; раздельные зоны по полу. Описание обещает 4–6 детей с вожатым, таблица 3–4: вместимость расходится. Постель включена, но список вещей просит одеяло/спальник/подушку: уточнить комплект. Пять приёмов пищи включая 2 перекуса; аллергии сообщают заранее. Парамедик и сопровождение круглосуточно, больница в 12 минутах — заявления оператора. Телефон около 1 ч/день под контролем.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "В 2027 будет 9–10: числовой gate9+ выполняется; язык/физические активности/места ещё согласовать."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "В 2027 будет 6–7, минимум 9."
+        }
+      },
+      "editorial_reason": "Отдельный старший общий трек Матвею; точное летнее расписание и договор ещё нужны.",
+      "shortlist": [
+        "general",
+        "boarding"
+      ],
+      "questions": [
+        "Подтвердить точный DOB/язык, готовность к ночёвкам, места, комнату/постель, транспорт, страховку и полный договор/счёт; сумма аванса входит в тариф."
+      ],
+      "sources": [
+        {
+          "title": "Собственные сезоны, динамический прайс и раскрытый FAQ",
+          "url": "https://www.campcoyote.mx/",
+          "checked": "2026-10-05"
+        }
+      ],
+      "checked": "2026-10-05",
+      "availability": {
+        "status": "waitlist",
+        "label": "Summer Pro: собственный лист ожидания, точные дни ещё не опубликованы",
+        "checked": "2026-10-05"
+      }
+    },
+    "CP1124": {
+      "id": "CP1124",
+      "slug": "fod-juguemos-robots-2026-27",
+      "provider": "FOD Líderes del Futuro · Juguemos a crear Robots",
+      "country": "Коста-Рика",
+      "iso": "CRI",
+      "place": "Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "6–8 лет; контрольную дату подтвердить, класс не заменяет возраст",
+      "language": "Публичная заявка и описание на ES; язык устного преподавания, поддержка EN и языковые требования отдельно не указаны.",
+      "confirmed_instruction_languages": [],
+      "programme": "В форме опубликованы название курса, возраст, даты и часы. Детальная программа, версия робототехники / устройства, размер группы и учебные результаты не раскрыты. 5 дней по 4 часа = 20 часов пребывания; перерывы отдельно не описаны.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Декабрь 2026 — январь 2027; конкретные 5-дневные курсы по опубликованному расписанию.",
+        "sessions": [
+          [
+            "2026-12-07",
+            "2026-12-11"
+          ],
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ],
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-07",
+            "end": "2026-12-11",
+            "label": "Juguemos a crear Robots",
+            "source": "https://survey.zohopublic.com/zs/SjzWbS",
+            "price": "60000 CRC за выбранный курс, IVAI включён. Проживание, дорога, питание и выдача техники домой не заявлены включёнными.",
+            "age": "6–8 лет по выбранному пункту формы",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Для этой даты возраст 9–9; курс 6–8. Сейчас семье известны 9 и 6 лет; точный день рождения не установлен. Язык, уровень и место ещё подтвердить."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Для этой даты возраст 6–6; курс 6–8. Сейчас семье известны 9 и 6 лет; точный день рождения не установлен. Язык, уровень и место ещё подтвердить."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-07",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Juguemos a crear Robots",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2026-12-08",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Juguemos a crear Robots",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2026-12-09",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Juguemos a crear Robots",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2026-12-10",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Juguemos a crear Robots",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2026-12-11",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Juguemos a crear Robots",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              }
+            ],
+            "proof": "Публично прочитаны варианты курса в форме оператора: диапазон возраста, точные даты и часы. Поля семьи не вводили, отправку не выполняли."
+          },
+          {
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "label": "Juguemos a crear Robots",
+            "source": "https://survey.zohopublic.com/zs/SjzWbS",
+            "price": "60000 CRC за выбранный курс, IVAI включён. Проживание, дорога, питание и выдача техники домой не заявлены включёнными.",
+            "age": "6–8 лет по выбранному пункту формы",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Для этой даты возраст 9–10; курс 6–8. Сейчас семье известны 9 и 6 лет; точный день рождения не установлен. Язык, уровень и место ещё подтвердить."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Для этой даты возраст 6–7; курс 6–8. Сейчас семье известны 9 и 6 лет; точный день рождения не установлен. Язык, уровень и место ещё подтвердить."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Juguemos a crear Robots",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-12",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Juguemos a crear Robots",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-13",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Juguemos a crear Robots",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-14",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Juguemos a crear Robots",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-15",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Juguemos a crear Robots",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              }
+            ],
+            "proof": "Публично прочитаны варианты курса в форме оператора: диапазон возраста, точные даты и часы. Поля семьи не вводили, отправку не выполняли."
+          },
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Juguemos a crear Robots",
+            "source": "https://survey.zohopublic.com/zs/SjzWbS",
+            "price": "60000 CRC за выбранный курс, IVAI включён. Проживание, дорога, питание и выдача техники домой не заявлены включёнными.",
+            "age": "6–8 лет по выбранному пункту формы",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Для этой даты возраст 9–10; курс 6–8. Сейчас семье известны 9 и 6 лет; точный день рождения не установлен. Язык, уровень и место ещё подтвердить."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Для этой даты возраст 6–7; курс 6–8. Сейчас семье известны 9 и 6 лет; точный день рождения не установлен. Язык, уровень и место ещё подтвердить."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Juguemos a crear Robots",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-26",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Juguemos a crear Robots",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-27",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Juguemos a crear Robots",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-28",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Juguemos a crear Robots",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-29",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Juguemos a crear Robots",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              }
+            ],
+            "proof": "Публично прочитаны варианты курса в форме оператора: диапазон возраста, точные даты и часы. Поля семьи не вводили, отправку не выполняли."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "season": "2026/27",
+        "currency": "CRC",
+        "amount": 60000,
+        "tax_included": true,
+        "unit": "course",
+        "label": "60000 CRC за выбранный курс, IVAI включён. Проживание, дорога, питание и выдача техники домой не заявлены включёнными.",
+        "included": "Объявленная цена курса с налогом; состав комплекта и предоставление устройства уточнить.",
+        "extras": "Жильё и транспорт семьи отдельно; еда, расходники и устройство не детализированы.",
+        "deposit": "100% стоимости до курса. Нет возврата за неявку или прекращение участия; перенос даты участником не разрешён. Открытие зависит от минимального набора, число не указано; отмена оператором и её возврат отдельно не описаны."
+      },
+      "accommodation": "Дневной курс в центральном офисе FOD; ночное проживание не предлагается.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Возраст проверен по каждой смене с учётом известных текущих 9 и 6 лет. Разные возрастные группы могут совпадать по месту и часам; запуск и оба места отдельно."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Возраст проверен по каждой смене с учётом известных текущих 9 и 6 лет. Разные возрастные группы могут совпадать по месту и часам; запуск и оба места отдельно."
+        }
+      },
+      "editorial_reason": "Близкий вариант с точным расписанием и ценой; это учебный курс, а не международная награда или доказанный мировой рейтинг лагерей.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить язык преподавания, вход с паспортом / DIMEX, свободное место, точную возрастную отсечку и уровень.",
+        "Уточнить робот, устройство, материалы, питание и полную сумму; для старших уровней проверить предварительную подготовку.",
+        "Родителям самостоятельно проверить условия оплаты, отмены и выбор согласия на изображение; эту форму не заполняли и не отправляли."
+      ],
+      "sources": [
+        {
+          "title": "Официальное объявление сезона",
+          "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Публичная программа, даты и условия стоимости",
+          "url": "https://survey.zohopublic.com/zs/SjzWbS",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "pairing": {
+        "venue_id": "fod-central-francisco-peralta",
+        "verified_source": "https://survey.zohopublic.com/zs/SjzWbS",
+        "checked": "2026-11-06",
+        "fee": {
+          "amount": 60000,
+          "currency": "CRC",
+          "unit": "per_child_course",
+          "tax_included": true
+        }
+      }
+    },
+    "CP1125": {
+      "id": "CP1125",
+      "slug": "fod-historias-animadas-2026-27",
+      "provider": "FOD Líderes del Futuro · Mis Historias Animadas",
+      "country": "Коста-Рика",
+      "iso": "CRI",
+      "place": "Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta",
+      "themes": [
+        "coding",
+        "arts"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "6–8 лет; контрольную дату подтвердить, класс не заменяет возраст",
+      "language": "Публичная заявка и описание на ES; язык устного преподавания, поддержка EN и языковые требования отдельно не указаны.",
+      "confirmed_instruction_languages": [],
+      "programme": "В форме опубликованы название курса, возраст, даты и часы. Детальная программа, версия робототехники / устройства, размер группы и учебные результаты не раскрыты. 5 дней по 4 часа = 20 часов пребывания; перерывы отдельно не описаны.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Декабрь 2026 — январь 2027; конкретные 5-дневные курсы по опубликованному расписанию.",
+        "sessions": [
+          [
+            "2027-01-18",
+            "2027-01-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-18",
+            "end": "2027-01-22",
+            "label": "Mis Historias Animadas",
+            "source": "https://survey.zohopublic.com/zs/SjzWbS",
+            "price": "60000 CRC за выбранный курс, IVAI включён. Проживание, дорога, питание и выдача техники домой не заявлены включёнными.",
+            "age": "6–8 лет по выбранному пункту формы",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Для этой даты возраст 9–10; курс 6–8. Сейчас семье известны 9 и 6 лет; точный день рождения не установлен. Язык, уровень и место ещё подтвердить."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Для этой даты возраст 6–7; курс 6–8. Сейчас семье известны 9 и 6 лет; точный день рождения не установлен. Язык, уровень и место ещё подтвердить."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Mis Historias Animadas",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-19",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Mis Historias Animadas",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-20",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Mis Historias Animadas",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-21",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Mis Historias Animadas",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-22",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Mis Historias Animadas",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              }
+            ],
+            "proof": "Публично прочитаны варианты курса в форме оператора: диапазон возраста, точные даты и часы. Поля семьи не вводили, отправку не выполняли."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "season": "2026/27",
+        "currency": "CRC",
+        "amount": 60000,
+        "tax_included": true,
+        "unit": "course",
+        "label": "60000 CRC за выбранный курс, IVAI включён. Проживание, дорога, питание и выдача техники домой не заявлены включёнными.",
+        "included": "Объявленная цена курса с налогом; состав комплекта и предоставление устройства уточнить.",
+        "extras": "Жильё и транспорт семьи отдельно; еда, расходники и устройство не детализированы.",
+        "deposit": "100% стоимости до курса. Нет возврата за неявку или прекращение участия; перенос даты участником не разрешён. Открытие зависит от минимального набора, число не указано; отмена оператором и её возврат отдельно не описаны."
+      },
+      "accommodation": "Дневной курс в центральном офисе FOD; ночное проживание не предлагается.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Возраст проверен по каждой смене с учётом известных текущих 9 и 6 лет. Разные возрастные группы могут совпадать по месту и часам; запуск и оба места отдельно."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Возраст проверен по каждой смене с учётом известных текущих 9 и 6 лет. Разные возрастные группы могут совпадать по месту и часам; запуск и оба места отдельно."
+        }
+      },
+      "editorial_reason": "Близкий вариант с точным расписанием и ценой; это учебный курс, а не международная награда или доказанный мировой рейтинг лагерей.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить язык преподавания, вход с паспортом / DIMEX, свободное место, точную возрастную отсечку и уровень.",
+        "Уточнить робот, устройство, материалы, питание и полную сумму; для старших уровней проверить предварительную подготовку.",
+        "Родителям самостоятельно проверить условия оплаты, отмены и выбор согласия на изображение; эту форму не заполняли и не отправляли."
+      ],
+      "sources": [
+        {
+          "title": "Официальное объявление сезона",
+          "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Публичная программа, даты и условия стоимости",
+          "url": "https://survey.zohopublic.com/zs/SjzWbS",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "pairing": {
+        "venue_id": "fod-central-francisco-peralta",
+        "verified_source": "https://survey.zohopublic.com/zs/SjzWbS",
+        "checked": "2026-11-06",
+        "fee": {
+          "amount": 60000,
+          "currency": "CRC",
+          "unit": "per_child_course",
+          "tax_included": true
+        }
+      }
+    },
+    "CP1126": {
+      "id": "CP1126",
+      "slug": "fod-creatividad-7-9-2026-27",
+      "provider": "FOD Líderes del Futuro · Creatividad y diseño con robótica · 7–9",
+      "country": "Коста-Рика",
+      "iso": "CRI",
+      "place": "Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta",
+      "themes": [
+        "robotics",
+        "makers"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "7–9 лет; контрольную дату подтвердить, класс не заменяет возраст",
+      "language": "Публичная заявка и описание на ES; язык устного преподавания, поддержка EN и языковые требования отдельно не указаны.",
+      "confirmed_instruction_languages": [],
+      "programme": "В форме опубликованы название курса, возраст, даты и часы. Детальная программа, версия робототехники / устройства, размер группы и учебные результаты не раскрыты. 5 дней по 4 часа = 20 часов пребывания; перерывы отдельно не описаны.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Декабрь 2026 — январь 2027; конкретные 5-дневные курсы по опубликованному расписанию.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Creatividad y diseño con robótica · 7–9",
+            "source": "https://survey.zohopublic.com/zs/SjzWbS",
+            "price": "60000 CRC за выбранный курс, IVAI включён. Проживание, дорога, питание и выдача техники домой не заявлены включёнными.",
+            "age": "7–9 лет по выбранному пункту формы",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Для этой даты возраст 9–10; курс 7–9. Сейчас семье известны 9 и 6 лет; точный день рождения не установлен. Язык, уровень и место ещё подтвердить."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Для этой даты возраст 6–7; курс 7–9. Сейчас семье известны 9 и 6 лет; точный день рождения не установлен. Язык, уровень и место ещё подтвердить."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Creatividad y diseño con robótica · 7–9",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-26",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Creatividad y diseño con robótica · 7–9",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-27",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Creatividad y diseño con robótica · 7–9",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-28",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Creatividad y diseño con robótica · 7–9",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-29",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Creatividad y diseño con robótica · 7–9",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              }
+            ],
+            "proof": "Публично прочитаны варианты курса в форме оператора: диапазон возраста, точные даты и часы. Поля семьи не вводили, отправку не выполняли."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "season": "2026/27",
+        "currency": "CRC",
+        "amount": 60000,
+        "tax_included": true,
+        "unit": "course",
+        "label": "60000 CRC за выбранный курс, IVAI включён. Проживание, дорога, питание и выдача техники домой не заявлены включёнными.",
+        "included": "Объявленная цена курса с налогом; состав комплекта и предоставление устройства уточнить.",
+        "extras": "Жильё и транспорт семьи отдельно; еда, расходники и устройство не детализированы.",
+        "deposit": "100% стоимости до курса. Нет возврата за неявку или прекращение участия; перенос даты участником не разрешён. Открытие зависит от минимального набора, число не указано; отмена оператором и её возврат отдельно не описаны."
+      },
+      "accommodation": "Дневной курс в центральном офисе FOD; ночное проживание не предлагается.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст проверен по каждой смене с учётом известных текущих 9 и 6 лет. Разные возрастные группы могут совпадать по месту и часам; запуск и оба места отдельно."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Возраст проверен по каждой смене с учётом известных текущих 9 и 6 лет. Разные возрастные группы могут совпадать по месту и часам; запуск и оба места отдельно."
+        }
+      },
+      "editorial_reason": "Близкий вариант с точным расписанием и ценой; это учебный курс, а не международная награда или доказанный мировой рейтинг лагерей.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить язык преподавания, вход с паспортом / DIMEX, свободное место, точную возрастную отсечку и уровень.",
+        "Уточнить робот, устройство, материалы, питание и полную сумму; для старших уровней проверить предварительную подготовку.",
+        "Родителям самостоятельно проверить условия оплаты, отмены и выбор согласия на изображение; эту форму не заполняли и не отправляли."
+      ],
+      "sources": [
+        {
+          "title": "Официальное объявление сезона",
+          "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Публичная программа, даты и условия стоимости",
+          "url": "https://survey.zohopublic.com/zs/SjzWbS",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "pairing": {
+        "venue_id": "fod-central-francisco-peralta",
+        "verified_source": "https://survey.zohopublic.com/zs/SjzWbS",
+        "checked": "2026-11-06",
+        "fee": {
+          "amount": 60000,
+          "currency": "CRC",
+          "unit": "per_child_course",
+          "tax_included": true
+        }
+      }
+    },
+    "CP1127": {
+      "id": "CP1127",
+      "slug": "fod-robotica-nivel-1-2026-27",
+      "provider": "FOD Líderes del Futuro · Nivel 1 · Principios de construcción y programación",
+      "country": "Коста-Рика",
+      "iso": "CRI",
+      "place": "Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "9–12 лет; контрольную дату подтвердить, класс не заменяет возраст",
+      "language": "Публичная заявка и описание на ES; язык устного преподавания, поддержка EN и языковые требования отдельно не указаны.",
+      "confirmed_instruction_languages": [],
+      "programme": "В форме опубликованы название курса, возраст, даты и часы. Детальная программа, версия робототехники / устройства, размер группы и учебные результаты не раскрыты. 5 дней по 4 часа = 20 часов пребывания; перерывы отдельно не описаны.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Декабрь 2026 — январь 2027; конкретные 5-дневные курсы по опубликованному расписанию.",
+        "sessions": [
+          [
+            "2026-12-07",
+            "2026-12-11"
+          ],
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-07",
+            "end": "2026-12-11",
+            "label": "Nivel 1 · Principios de construcción y programación",
+            "source": "https://survey.zohopublic.com/zs/SjzWbS",
+            "price": "60000 CRC за выбранный курс, IVAI включён. Проживание, дорога, питание и выдача техники домой не заявлены включёнными.",
+            "age": "9–12 лет по выбранному пункту формы",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Для этой даты возраст 9–9; курс 9–12. Сейчас семье известны 9 и 6 лет; точный день рождения не установлен. Язык, уровень и место ещё подтвердить."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Для этой даты возраст 6–6; курс 9–12. Сейчас семье известны 9 и 6 лет; точный день рождения не установлен. Язык, уровень и место ещё подтвердить."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-07",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Principios de construcción y programación",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2026-12-08",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Principios de construcción y programación",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2026-12-09",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Principios de construcción y programación",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2026-12-10",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Principios de construcción y programación",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2026-12-11",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Principios de construcción y programación",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              }
+            ],
+            "proof": "Публично прочитаны варианты курса в форме оператора: диапазон возраста, точные даты и часы. Поля семьи не вводили, отправку не выполняли."
+          },
+          {
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "label": "Nivel 1 · Principios de construcción y programación",
+            "source": "https://survey.zohopublic.com/zs/SjzWbS",
+            "price": "60000 CRC за выбранный курс, IVAI включён. Проживание, дорога, питание и выдача техники домой не заявлены включёнными.",
+            "age": "9–12 лет по выбранному пункту формы",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Для этой даты возраст 9–10; курс 9–12. Сейчас семье известны 9 и 6 лет; точный день рождения не установлен. Язык, уровень и место ещё подтвердить."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Для этой даты возраст 6–7; курс 9–12. Сейчас семье известны 9 и 6 лет; точный день рождения не установлен. Язык, уровень и место ещё подтвердить."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Principios de construcción y programación",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-12",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Principios de construcción y programación",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-13",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Principios de construcción y programación",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-14",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Principios de construcción y programación",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-15",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Principios de construcción y programación",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              }
+            ],
+            "proof": "Публично прочитаны варианты курса в форме оператора: диапазон возраста, точные даты и часы. Поля семьи не вводили, отправку не выполняли."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "season": "2026/27",
+        "currency": "CRC",
+        "amount": 60000,
+        "tax_included": true,
+        "unit": "course",
+        "label": "60000 CRC за выбранный курс, IVAI включён. Проживание, дорога, питание и выдача техники домой не заявлены включёнными.",
+        "included": "Объявленная цена курса с налогом; состав комплекта и предоставление устройства уточнить.",
+        "extras": "Жильё и транспорт семьи отдельно; еда, расходники и устройство не детализированы.",
+        "deposit": "100% стоимости до курса. Нет возврата за неявку или прекращение участия; перенос даты участником не разрешён. Открытие зависит от минимального набора, число не указано; отмена оператором и её возврат отдельно не описаны."
+      },
+      "accommodation": "Дневной курс в центральном офисе FOD; ночное проживание не предлагается.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст проверен по каждой смене с учётом известных текущих 9 и 6 лет. Разные возрастные группы могут совпадать по месту и часам; запуск и оба места отдельно."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Возраст проверен по каждой смене с учётом известных текущих 9 и 6 лет. Разные возрастные группы могут совпадать по месту и часам; запуск и оба места отдельно."
+        }
+      },
+      "editorial_reason": "Близкий вариант с точным расписанием и ценой; это учебный курс, а не международная награда или доказанный мировой рейтинг лагерей.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить язык преподавания, вход с паспортом / DIMEX, свободное место, точную возрастную отсечку и уровень.",
+        "Уточнить робот, устройство, материалы, питание и полную сумму; для старших уровней проверить предварительную подготовку.",
+        "Родителям самостоятельно проверить условия оплаты, отмены и выбор согласия на изображение; эту форму не заполняли и не отправляли."
+      ],
+      "sources": [
+        {
+          "title": "Официальное объявление сезона",
+          "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Публичная программа, даты и условия стоимости",
+          "url": "https://survey.zohopublic.com/zs/SjzWbS",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "pairing": {
+        "venue_id": "fod-central-francisco-peralta",
+        "verified_source": "https://survey.zohopublic.com/zs/SjzWbS",
+        "checked": "2026-11-06",
+        "fee": {
+          "amount": 60000,
+          "currency": "CRC",
+          "unit": "per_child_course",
+          "tax_included": true
+        }
+      }
+    },
+    "CP1128": {
+      "id": "CP1128",
+      "slug": "fod-robotica-nivel-2-2026-27",
+      "provider": "FOD Líderes del Futuro · Nivel 2 · Sistemas inteligentes: sensores y engranajes",
+      "country": "Коста-Рика",
+      "iso": "CRI",
+      "place": "Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "9–12 лет; контрольную дату подтвердить, класс не заменяет возраст",
+      "language": "Публичная заявка и описание на ES; язык устного преподавания, поддержка EN и языковые требования отдельно не указаны.",
+      "confirmed_instruction_languages": [],
+      "programme": "В форме опубликованы название курса, возраст, даты и часы. Детальная программа, версия робототехники / устройства, размер группы и учебные результаты не раскрыты. 5 дней по 4 часа = 20 часов пребывания; перерывы отдельно не описаны.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Декабрь 2026 — январь 2027; конкретные 5-дневные курсы по опубликованному расписанию.",
+        "sessions": [
+          [
+            "2027-01-18",
+            "2027-01-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-18",
+            "end": "2027-01-22",
+            "label": "Nivel 2 · Sistemas inteligentes: sensores y engranajes",
+            "source": "https://survey.zohopublic.com/zs/SjzWbS",
+            "price": "60000 CRC за выбранный курс, IVAI включён. Проживание, дорога, питание и выдача техники домой не заявлены включёнными.",
+            "age": "9–12 лет по выбранному пункту формы",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Для этой даты возраст 9–10; курс 9–12. Сейчас семье известны 9 и 6 лет; точный день рождения не установлен. Язык, уровень и место ещё подтвердить."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Для этой даты возраст 6–7; курс 9–12. Сейчас семье известны 9 и 6 лет; точный день рождения не установлен. Язык, уровень и место ещё подтвердить."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 2 · Sistemas inteligentes: sensores y engranajes",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-19",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 2 · Sistemas inteligentes: sensores y engranajes",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-20",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 2 · Sistemas inteligentes: sensores y engranajes",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-21",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 2 · Sistemas inteligentes: sensores y engranajes",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-22",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 2 · Sistemas inteligentes: sensores y engranajes",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              }
+            ],
+            "proof": "Публично прочитаны варианты курса в форме оператора: диапазон возраста, точные даты и часы. Поля семьи не вводили, отправку не выполняли."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "season": "2026/27",
+        "currency": "CRC",
+        "amount": 60000,
+        "tax_included": true,
+        "unit": "course",
+        "label": "60000 CRC за выбранный курс, IVAI включён. Проживание, дорога, питание и выдача техники домой не заявлены включёнными.",
+        "included": "Объявленная цена курса с налогом; состав комплекта и предоставление устройства уточнить.",
+        "extras": "Жильё и транспорт семьи отдельно; еда, расходники и устройство не детализированы.",
+        "deposit": "100% стоимости до курса. Нет возврата за неявку или прекращение участия; перенос даты участником не разрешён. Открытие зависит от минимального набора, число не указано; отмена оператором и её возврат отдельно не описаны."
+      },
+      "accommodation": "Дневной курс в центральном офисе FOD; ночное проживание не предлагается.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст проверен по каждой смене с учётом известных текущих 9 и 6 лет. Разные возрастные группы могут совпадать по месту и часам; запуск и оба места отдельно."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Возраст проверен по каждой смене с учётом известных текущих 9 и 6 лет. Разные возрастные группы могут совпадать по месту и часам; запуск и оба места отдельно."
+        }
+      },
+      "editorial_reason": "Близкий вариант с точным расписанием и ценой; это учебный курс, а не международная награда или доказанный мировой рейтинг лагерей.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить язык преподавания, вход с паспортом / DIMEX, свободное место, точную возрастную отсечку и уровень.",
+        "Уточнить робот, устройство, материалы, питание и полную сумму; для старших уровней проверить предварительную подготовку.",
+        "Родителям самостоятельно проверить условия оплаты, отмены и выбор согласия на изображение; эту форму не заполняли и не отправляли."
+      ],
+      "sources": [
+        {
+          "title": "Официальное объявление сезона",
+          "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Публичная программа, даты и условия стоимости",
+          "url": "https://survey.zohopublic.com/zs/SjzWbS",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "pairing": {
+        "venue_id": "fod-central-francisco-peralta",
+        "verified_source": "https://survey.zohopublic.com/zs/SjzWbS",
+        "checked": "2026-11-06",
+        "fee": {
+          "amount": 60000,
+          "currency": "CRC",
+          "unit": "per_child_course",
+          "tax_included": true
+        }
+      }
+    },
+    "CP1129": {
+      "id": "CP1129",
+      "slug": "fod-robotica-nivel-3-2026-27",
+      "provider": "FOD Líderes del Futuro · Nivel 3 · Grados de libertad, sincronización y publicación",
+      "country": "Коста-Рика",
+      "iso": "CRI",
+      "place": "Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "9–12 лет; контрольную дату подтвердить, класс не заменяет возраст",
+      "language": "Публичная заявка и описание на ES; язык устного преподавания, поддержка EN и языковые требования отдельно не указаны.",
+      "confirmed_instruction_languages": [],
+      "programme": "В форме опубликованы название курса, возраст, даты и часы. Детальная программа, версия робототехники / устройства, размер группы и учебные результаты не раскрыты. 5 дней по 4 часа = 20 часов пребывания; перерывы отдельно не описаны.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Декабрь 2026 — январь 2027; конкретные 5-дневные курсы по опубликованному расписанию.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Nivel 3 · Grados de libertad, sincronización y publicación",
+            "source": "https://survey.zohopublic.com/zs/SjzWbS",
+            "price": "60000 CRC за выбранный курс, IVAI включён. Проживание, дорога, питание и выдача техники домой не заявлены включёнными.",
+            "age": "9–12 лет по выбранному пункту формы",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Для этой даты возраст 9–10; курс 9–12. Сейчас семье известны 9 и 6 лет; точный день рождения не установлен. Язык, уровень и место ещё подтвердить."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Для этой даты возраст 6–7; курс 9–12. Сейчас семье известны 9 и 6 лет; точный день рождения не установлен. Язык, уровень и место ещё подтвердить."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "start_time": "13:00",
+                "end_time": "17:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 3 · Grados de libertad, sincronización y publicación",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-26",
+                "start_time": "13:00",
+                "end_time": "17:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 3 · Grados de libertad, sincronización y publicación",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-27",
+                "start_time": "13:00",
+                "end_time": "17:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 3 · Grados de libertad, sincronización y publicación",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-28",
+                "start_time": "13:00",
+                "end_time": "17:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 3 · Grados de libertad, sincronización y publicación",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-29",
+                "start_time": "13:00",
+                "end_time": "17:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 3 · Grados de libertad, sincronización y publicación",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              }
+            ],
+            "proof": "Публично прочитаны варианты курса в форме оператора: диапазон возраста, точные даты и часы. Поля семьи не вводили, отправку не выполняли."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "season": "2026/27",
+        "currency": "CRC",
+        "amount": 60000,
+        "tax_included": true,
+        "unit": "course",
+        "label": "60000 CRC за выбранный курс, IVAI включён. Проживание, дорога, питание и выдача техники домой не заявлены включёнными.",
+        "included": "Объявленная цена курса с налогом; состав комплекта и предоставление устройства уточнить.",
+        "extras": "Жильё и транспорт семьи отдельно; еда, расходники и устройство не детализированы.",
+        "deposit": "100% стоимости до курса. Нет возврата за неявку или прекращение участия; перенос даты участником не разрешён. Открытие зависит от минимального набора, число не указано; отмена оператором и её возврат отдельно не описаны."
+      },
+      "accommodation": "Дневной курс в центральном офисе FOD; ночное проживание не предлагается.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст проверен по каждой смене с учётом известных текущих 9 и 6 лет. Разные возрастные группы могут совпадать по месту и часам; запуск и оба места отдельно."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Возраст проверен по каждой смене с учётом известных текущих 9 и 6 лет. Разные возрастные группы могут совпадать по месту и часам; запуск и оба места отдельно."
+        }
+      },
+      "editorial_reason": "Близкий вариант с точным расписанием и ценой; это учебный курс, а не международная награда или доказанный мировой рейтинг лагерей.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить язык преподавания, вход с паспортом / DIMEX, свободное место, точную возрастную отсечку и уровень.",
+        "Уточнить робот, устройство, материалы, питание и полную сумму; для старших уровней проверить предварительную подготовку.",
+        "Родителям самостоятельно проверить условия оплаты, отмены и выбор согласия на изображение; эту форму не заполняли и не отправляли."
+      ],
+      "sources": [
+        {
+          "title": "Официальное объявление сезона",
+          "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Публичная программа, даты и условия стоимости",
+          "url": "https://survey.zohopublic.com/zs/SjzWbS",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "pairing": {
+        "venue_id": "fod-central-francisco-peralta",
+        "verified_source": "https://survey.zohopublic.com/zs/SjzWbS",
+        "checked": "2026-11-06",
+        "fee": {
+          "amount": 60000,
+          "currency": "CRC",
+          "unit": "per_child_course",
+          "tax_included": true
+        }
+      }
+    },
+    "CP1130": {
+      "id": "CP1130",
+      "slug": "fod-robotica-nivel-4-2026-27",
+      "provider": "FOD Líderes del Futuro · Nivel 4 · Líneas de procesamiento y acciones de datos",
+      "country": "Коста-Рика",
+      "iso": "CRI",
+      "place": "Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "9–16 лет; контрольную дату подтвердить, класс не заменяет возраст",
+      "language": "Публичная заявка и описание на ES; язык устного преподавания, поддержка EN и языковые требования отдельно не указаны.",
+      "confirmed_instruction_languages": [],
+      "programme": "В форме опубликованы название курса, возраст, даты и часы. Детальная программа, версия робототехники / устройства, размер группы и учебные результаты не раскрыты. 5 дней по 4 часа = 20 часов пребывания; перерывы отдельно не описаны.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Декабрь 2026 — январь 2027; конкретные 5-дневные курсы по опубликованному расписанию.",
+        "sessions": [
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "label": "Nivel 4 · Líneas de procesamiento y acciones de datos",
+            "source": "https://survey.zohopublic.com/zs/SjzWbS",
+            "price": "60000 CRC за выбранный курс, IVAI включён. Проживание, дорога, питание и выдача техники домой не заявлены включёнными.",
+            "age": "9–16 лет по выбранному пункту формы",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Для этой даты возраст 9–10; курс 9–16. Сейчас семье известны 9 и 6 лет; точный день рождения не установлен. Язык, уровень и место ещё подтвердить."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Для этой даты возраст 6–7; курс 9–16. Сейчас семье известны 9 и 6 лет; точный день рождения не установлен. Язык, уровень и место ещё подтвердить."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "start_time": "13:00",
+                "end_time": "17:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 4 · Líneas de procesamiento y acciones de datos",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-12",
+                "start_time": "13:00",
+                "end_time": "17:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 4 · Líneas de procesamiento y acciones de datos",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-13",
+                "start_time": "13:00",
+                "end_time": "17:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 4 · Líneas de procesamiento y acciones de datos",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-14",
+                "start_time": "13:00",
+                "end_time": "17:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 4 · Líneas de procesamiento y acciones de datos",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-15",
+                "start_time": "13:00",
+                "end_time": "17:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 4 · Líneas de procesamiento y acciones de datos",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              }
+            ],
+            "proof": "Публично прочитаны варианты курса в форме оператора: диапазон возраста, точные даты и часы. Поля семьи не вводили, отправку не выполняли."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "season": "2026/27",
+        "currency": "CRC",
+        "amount": 60000,
+        "tax_included": true,
+        "unit": "course",
+        "label": "60000 CRC за выбранный курс, IVAI включён. Проживание, дорога, питание и выдача техники домой не заявлены включёнными.",
+        "included": "Объявленная цена курса с налогом; состав комплекта и предоставление устройства уточнить.",
+        "extras": "Жильё и транспорт семьи отдельно; еда, расходники и устройство не детализированы.",
+        "deposit": "100% стоимости до курса. Нет возврата за неявку или прекращение участия; перенос даты участником не разрешён. Открытие зависит от минимального набора, число не указано; отмена оператором и её возврат отдельно не описаны."
+      },
+      "accommodation": "Дневной курс в центральном офисе FOD; ночное проживание не предлагается.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст проверен по каждой смене с учётом известных текущих 9 и 6 лет. Разные возрастные группы могут совпадать по месту и часам; запуск и оба места отдельно."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Возраст проверен по каждой смене с учётом известных текущих 9 и 6 лет. Разные возрастные группы могут совпадать по месту и часам; запуск и оба места отдельно."
+        }
+      },
+      "editorial_reason": "Близкий вариант с точным расписанием и ценой; это учебный курс, а не международная награда или доказанный мировой рейтинг лагерей.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить язык преподавания, вход с паспортом / DIMEX, свободное место, точную возрастную отсечку и уровень.",
+        "Уточнить робот, устройство, материалы, питание и полную сумму; для старших уровней проверить предварительную подготовку.",
+        "Родителям самостоятельно проверить условия оплаты, отмены и выбор согласия на изображение; эту форму не заполняли и не отправляли."
+      ],
+      "sources": [
+        {
+          "title": "Официальное объявление сезона",
+          "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Публичная программа, даты и условия стоимости",
+          "url": "https://survey.zohopublic.com/zs/SjzWbS",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "pairing": {
+        "venue_id": "fod-central-francisco-peralta",
+        "verified_source": "https://survey.zohopublic.com/zs/SjzWbS",
+        "checked": "2026-11-06",
+        "fee": {
+          "amount": 60000,
+          "currency": "CRC",
+          "unit": "per_child_course",
+          "tax_included": true
+        }
+      }
+    }
+  },
+  "new_budget_offer_ids": [
+    "coyote-winter-two-siblings-2026",
+    "coyote-pascua-two-siblings-2027",
+    "ojo-ciego-two-weeks-two-2027",
+    "santa-ursula-seven-days-two-2027",
+    "santa-ursula-extended-two-2027",
+    "fod-family-parallel-2027-01-25"
+  ],
+  "modified_budget_offer_ids": [
+    "fod-family-parallel-2027-01-18"
+  ],
+  "previous_budget_offers": {
+    "fod-family-parallel-2027-01-18": {
+      "id": "fod-family-parallel-2027-01-18",
+      "slug": "fod-historias-animadas-2026-27",
+      "label": "FOD · разные группы двух детей · 2027-01-18",
+      "currency": "CRC",
+      "price_year": 2027,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "base_by_child": {
+        "matvey": 60000,
+        "oscar": 60000
+      },
+      "discount_second": 0,
+      "required": [],
+      "unknown_required": [
+        {
+          "id": "materials",
+          "label": "Устройство / материалы и обязательные доплаты по итоговому счёту",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [],
+      "sources": [
+        "https://survey.zohopublic.com/zs/SjzWbS"
+      ],
+      "sessions": [
+        [
+          "2027-01-18",
+          "2027-01-22"
+        ]
+      ],
+      "gate": "Матвей 9–12; Оскар 6–8. Разные курсы в одной подтверждённой sede, оба 08:00–12:00, пять дней. Два места, рабочий язык и нужный уровень подтвердить отдельно.",
+      "deposit_note": "100% стоимости до курса. Нет возврата за неявку или прекращение участия; перенос даты участником не разрешён. Открытие зависит от минимального набора, число не указано; отмена оператором и её возврат отдельно не описаны.",
+      "included": "Два курса по CRC 60000 с IVAI: опубликованная часть CRC 120000. Это два параллельных полудня, не полный день присмотра.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Это вариант планирования, не принятая заявка. Подтвердить возраст, уровень, язык, места и итоговый счёт. Формы, аккаунты, сообщения, согласия и оплаты не выполнялись. Дорога, расходы родителей, страховка, питание вне включений и неизвестные доплаты отдельно; пустое поле не означает ноль.",
+      "checked": "2026-11-06",
+      "format": "day",
+      "programme_ids": [
+        "CP1128",
+        "CP1125"
+      ]
+    }
+  },
+  "budget_offers": [
+    {
+      "id": "coyote-winter-two-siblings-2026",
+      "slug": "coyote-short",
+      "label": "Coyote · зима · два брата · семейный тариф",
+      "currency": "MXN",
+      "price_year": 2026,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "base_by_child": {
+        "matvey": 2970,
+        "oscar": 2970
+      },
+      "discount_second": 0,
+      "required": [],
+      "unknown_required": [
+        {
+          "id": "invoice_extras",
+          "label": "Итоговые обязательные доплаты, страховка и условия счёта",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [],
+      "sources": [
+        "https://www.campcoyote.mx/",
+        "https://www.campcoyote.mx/inscripcionescamp?program=oto%C3%B1o",
+        "https://www.campcoyote.mx/inscripcionescamp?program=invierno",
+        "https://docs.google.com/spreadsheets/d/e/2PACX-1vQmamoxIz52nN7VHT4ABvzFkF0NF2swOSttUOSxPB74rMk8O5QOZhnzq8lPru6nUK05qvr9sl-D8L4K/pub?gid=1739074332&single=true&output=csv",
+        "https://www.campcoyote.mx/enroll.js"
+      ],
+      "sessions": [
+        [
+          "2026-12-21",
+          "2026-12-23"
+        ]
+      ],
+      "gate": "Оба возраста 6–14 подходят; язык, готовность к двум ночам и фактические места подтвердить.",
+      "deposit_note": "Аванс 30% невозвратный и входит в итог, остаток наличными при заезде. До семи дней возможна отмена/смена: оплаченный сверх аванса остаток возвращают ваучером на шесть месяцев, не деньгами. По медицинской справке перенос до года. Скидки не суммируются; приём, окончательный договор и места отдельно подтвердить.",
+      "included": "Два участника со скидкой 10% от общей обычной базы. Залог 1980 входит в 5940, остаток 3960; ранняя цена не складывается с семейной.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Частичный семейный расчёт, не окончательное предложение. Возраст, язык, места, состав пакета и счёт подтвердить. Неизвестные расходы не равны нулю.",
+      "checked": "2026-11-06",
+      "format": "boarding",
+      "payment_schedule": {
+        "advance": 1980,
+        "balance": 3960,
+        "included_in_total": true
+      }
+    },
+    {
+      "id": "coyote-pascua-two-siblings-2027",
+      "slug": "coyote-junior",
+      "label": "Coyote · Pascua · два брата · статус приёма уточнить",
+      "currency": "MXN",
+      "price_year": 2027,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "base_by_child": {
+        "matvey": 5850,
+        "oscar": 5850
+      },
+      "discount_second": 0,
+      "required": [],
+      "unknown_required": [
+        {
+          "id": "invoice_extras",
+          "label": "Итоговые обязательные доплаты, страховка и условия счёта",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [],
+      "sources": [
+        "https://www.campcoyote.mx/",
+        "https://docs.google.com/spreadsheets/d/e/2PACX-1vQmamoxIz52nN7VHT4ABvzFkF0NF2swOSttUOSxPB74rMk8O5QOZhnzq8lPru6nUK05qvr9sl-D8L4K/pub?gid=1739074332&single=true&output=csv",
+        "https://www.campcoyote.mx/enroll.js"
+      ],
+      "sessions": [
+        [
+          "2027-03-29",
+          "2027-04-03"
+        ]
+      ],
+      "gate": "Pascua: HTML-карточка и ссылка продолжают вести в лист ожидания, а подключённая публичная таблица помечает тот же выпуск как Ok. Дата совпадает, но открытый приём и места не подтверждены; до поездки нужен ответ оператора.",
+      "deposit_note": "Аванс 30% невозвратный и входит в итог, остаток наличными при заезде. До семи дней возможна отмена/смена: оплаченный сверх аванса остаток возвращают ваучером на шесть месяцев, не деньгами. По медицинской справке перенос до года. Скидки не суммируются; приём, окончательный договор и места отдельно подтвердить.",
+      "included": "Два участника, шесть дней и пять ночей, семейная скидка 10% от базы. Аванс 3900 входит в 11700, остаток 7800.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Частичный семейный расчёт, не окончательное предложение. Возраст, язык, места, состав пакета и счёт подтвердить. Неизвестные расходы не равны нулю.",
+      "checked": "2026-11-06",
+      "format": "boarding",
+      "payment_schedule": {
+        "advance": 3900,
+        "balance": 7800,
+        "included_in_total": true
+      },
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Pascua: HTML-карточка и ссылка продолжают вести в лист ожидания, а подключённая публичная таблица помечает тот же выпуск как Ok. Дата совпадает, но открытый приём и места не подтверждены; до поездки нужен ответ оператора.",
+        "checked": "2026-11-06"
+      }
+    },
+    {
+      "id": "ojo-ciego-two-weeks-two-2027",
+      "slug": "ojo-ciego",
+      "label": "Ojo Ciego · две недели · оба ребёнка · без неподтверждённой скидки",
+      "currency": "MXN",
+      "price_year": 2027,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "base_by_child": {
+        "matvey": 20550,
+        "oscar": 20550
+      },
+      "discount_second": 0,
+      "required": [],
+      "unknown_required": [
+        {
+          "id": "invoice_extras",
+          "label": "Итоговые обязательные доплаты, страховка и условия счёта",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [],
+      "sources": [
+        "https://www.ojociego.com.mx/verano.html",
+        "https://www.ojociego.com.mx/fechas-precios.html",
+        "https://www.ojociego.com.mx/faq.html",
+        "https://www.ojociego.com.mx/staff.html",
+        "https://www.ojociego.com.mx/seguridad.html"
+      ],
+      "sessions": [
+        [
+          "2027-07-18",
+          "2027-07-31"
+        ]
+      ],
+      "gate": "Оскар должен уже достичь 7 лет, Матвей в диапазоне 7–14. Уточнить язык, зачёт резерва 2500 и применимость скидки брату.",
+      "deposit_note": "Первый платёж MXN 2 500 для резерва; явно не установлен зачёт в 20 550. После 10 июля аванс не возвращают; ранний отъезд без возврата. Окончательные условия 2027 подтвердить.",
+      "included": "Два базовых двухнедельных тарифа, проживание, питание и общие активности. Скидка брату в этот расчёт не включена.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Частичный семейный расчёт, не окончательное предложение. Возраст, язык, места, состав пакета и счёт подтвердить. Неизвестные расходы не равны нулю.",
+      "checked": "2026-11-06",
+      "format": "boarding"
+    },
+    {
+      "id": "santa-ursula-seven-days-two-2027",
+      "slug": "santa-ursula-general",
+      "label": "Santa Úrsula · семь дней · оба ребёнка",
+      "currency": "MXN",
+      "price_year": 2027,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "base_by_child": {
+        "matvey": 51700,
+        "oscar": 51700
+      },
+      "discount_second": 0,
+      "required": [],
+      "unknown_required": [
+        {
+          "id": "invoice_extras",
+          "label": "Итоговые обязательные доплаты, страховка и условия счёта",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [],
+      "sources": [
+        "https://www.campsantaursula.com/campamentos-de-verano",
+        "https://www.campsantaursula.com/terminos-y-condiciones-campamento-de-verano",
+        "https://www.campsantaursula.com/reglamento",
+        "https://www.campsantaursula.com/post/un-campamento-con-experiencia-internacional-sin-salir-de-mexico",
+        "https://www.campsantaursula.com/seguridad",
+        "https://www.campsantaursula.com/post/seleccion-preparacion-staff-campamento-verano",
+        "https://www.campsantaursula.com/staff",
+        "https://www.campsantaursula.com/"
+      ],
+      "sessions": [
+        [
+          "2027-07-10",
+          "2027-07-16"
+        ],
+        [
+          "2027-07-17",
+          "2027-07-23"
+        ]
+      ],
+      "gate": "Оскару уже 7 лет к заезду; обоим подтвердить самообслуживание и рабочий язык. Нельзя считать две отдельные недели тем же тарифом, что продлённая смена.",
+      "deposit_note": "Contract: обычнаяотмена≥15 дней, health/safety исключение≥3 дней; варианты transfer другому участнику/credit1 год/50%cashrefund. Другаястрока ≤3 дней вообще 0 — ровно 3 дня конфликтуют. Latearrival/earlydeparture0. Operatorforce-majeure переносдо 1 года, затем refund если невозможен; посленачала suspension0. Тарифможетизменятьсясуведомлением/acceptance, fullpaydeadline нужен; не подписано.",
+      "included": "Пакет выбранной продолжительности: проживание, еда, заявленные активности и сопровождение. Покрытие несчастных случаев ограничено, заболевания не включены.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Частичный семейный расчёт, не окончательное предложение. Возраст, язык, места, состав пакета и счёт подтвердить. Неизвестные расходы не равны нулю.",
+      "checked": "2026-11-06",
+      "format": "boarding"
+    },
+    {
+      "id": "santa-ursula-extended-two-2027",
+      "slug": "santa-ursula-general",
+      "label": "Santa Úrsula · продлённая смена · оба ребёнка",
+      "currency": "MXN",
+      "price_year": 2027,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "base_by_child": {
+        "matvey": 98500,
+        "oscar": 98500
+      },
+      "discount_second": 0,
+      "required": [],
+      "unknown_required": [
+        {
+          "id": "invoice_extras",
+          "label": "Итоговые обязательные доплаты, страховка и условия счёта",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [],
+      "sources": [
+        "https://www.campsantaursula.com/campamentos-de-verano",
+        "https://www.campsantaursula.com/terminos-y-condiciones-campamento-de-verano",
+        "https://www.campsantaursula.com/reglamento",
+        "https://www.campsantaursula.com/post/un-campamento-con-experiencia-internacional-sin-salir-de-mexico",
+        "https://www.campsantaursula.com/seguridad",
+        "https://www.campsantaursula.com/post/seleccion-preparacion-staff-campamento-verano",
+        "https://www.campsantaursula.com/staff",
+        "https://www.campsantaursula.com/"
+      ],
+      "sessions": [
+        [
+          "2027-07-10",
+          "2027-07-23"
+        ]
+      ],
+      "gate": "Оскару уже 7 лет к заезду; обоим подтвердить самообслуживание и рабочий язык. Нельзя считать две отдельные недели тем же тарифом, что продлённая смена.",
+      "deposit_note": "Contract: обычнаяотмена≥15 дней, health/safety исключение≥3 дней; варианты transfer другому участнику/credit1 год/50%cashrefund. Другаястрока ≤3 дней вообще 0 — ровно 3 дня конфликтуют. Latearrival/earlydeparture0. Operatorforce-majeure переносдо 1 года, затем refund если невозможен; посленачала suspension0. Тарифможетизменятьсясуведомлением/acceptance, fullpaydeadline нужен; не подписано.",
+      "included": "Пакет выбранной продолжительности: проживание, еда, заявленные активности и сопровождение. Покрытие несчастных случаев ограничено, заболевания не включены.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Частичный семейный расчёт, не окончательное предложение. Возраст, язык, места, состав пакета и счёт подтвердить. Неизвестные расходы не равны нулю.",
+      "checked": "2026-11-06",
+      "format": "boarding"
+    },
+    {
+      "id": "fod-family-parallel-2027-01-25",
+      "slug": "fod-juguemos-robots-2026-27",
+      "label": "FOD · 25–29 января · две возрастные группы утром",
+      "currency": "CRC",
+      "price_year": 2027,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "base_by_child": {
+        "matvey": 60000,
+        "oscar": 60000
+      },
+      "discount_second": 0,
+      "required": [],
+      "unknown_required": [
+        {
+          "id": "invoice_extras",
+          "label": "Итоговые обязательные доплаты, страховка и условия счёта",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [],
+      "sources": [
+        "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+        "https://survey.zohopublic.com/zs/SjzWbS"
+      ],
+      "sessions": [
+        [
+          "2027-01-25",
+          "2027-01-29"
+        ]
+      ],
+      "gate": "Матвей только если ещё 9 лет: CP1126 7–9. Оскар CP1124 6–8. Оба курса 08:00–12:00 в одной sede; точный возраст, язык, места и уровень подтвердить. Nivel 3 идёт после обеда и в эту пару не входит.",
+      "deposit_note": "100% стоимости до курса. Нет возврата за неявку или прекращение участия; перенос даты участником не разрешён. Открытие зависит от минимального набора, число не указано; отмена оператором и её возврат отдельно не описаны.",
+      "included": "Два курса по CRC 60000 с IVAI. Это утренние занятия, не полный день присмотра и не автоматический допуск в следующую лигу.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Частичный семейный расчёт, не окончательное предложение. Возраст, язык, места, состав пакета и счёт подтвердить. Неизвестные расходы не равны нулю.",
+      "checked": "2026-11-06",
+      "format": "day"
+    },
+    {
+      "id": "fod-family-parallel-2027-01-18",
+      "slug": "fod-historias-animadas-2026-27",
+      "label": "FOD · разные группы двух детей · 2027-01-18",
+      "currency": "CRC",
+      "price_year": 2027,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "base_by_child": {
+        "matvey": 60000,
+        "oscar": 60000
+      },
+      "discount_second": 0,
+      "required": [],
+      "unknown_required": [
+        {
+          "id": "materials",
+          "label": "Устройство / материалы и обязательные доплаты по итоговому счёту",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [],
+      "sources": [
+        "https://survey.zohopublic.com/zs/SjzWbS"
+      ],
+      "sessions": [
+        [
+          "2027-01-18",
+          "2027-01-22"
+        ]
+      ],
+      "gate": "Матвей: CP1128 Nivel 2, 9–12; Оскар: CP1125, 6–8. Оба 08:00–12:00, одна sede. Возраст подходит, но допуск Матвея в Nivel 2, рабочий язык и оба места отдельно подтвердить; внешний опыт не считается автоматическим зачётом.",
+      "deposit_note": "100% стоимости до курса. Нет возврата за неявку или прекращение участия; перенос даты участником не разрешён. Открытие зависит от минимального набора, число не указано; отмена оператором и её возврат отдельно не описаны.",
+      "included": "Два курса по CRC 60000 с IVAI: опубликованная часть CRC 120000. Это два параллельных полудня, не полный день присмотра.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Это вариант планирования, не принятая заявка. Подтвердить возраст, уровень, язык, места и итоговый счёт. Формы, аккаунты, сообщения, согласия и оплаты не выполнялись. Дорога, расходы родителей, страховка, питание вне включений и неизвестные доплаты отдельно; пустое поле не означает ноль.",
+      "checked": "2026-11-06",
+      "format": "day",
+      "programme_ids": [
+        "CP1128",
+        "CP1125"
+      ]
+    }
+  ],
+  "deadline_updates": [
+    {
+      "event_id": "CP613-20261221-20261223-winter",
+      "deadline": "2026-11-20",
+      "deadline_label": "Конец раннего тарифа; не закрытие приёма"
+    },
+    {
+      "event_id": "CP614-20270329-20270403-pascua",
+      "deadline": "2027-02-15",
+      "deadline_label": "Конец раннего тарифа; не закрытие приёма"
+    }
+  ],
+  "event_updates": [
+    {
+      "programme_id": "CP612",
+      "fields": {
+        "cost": "Цена страницы $797 за ребёнка в неделю, $1594 двоим. Terms подразумевают полный регистрационный сбор $200 на участника: если он сверх курса, двоим $1994; с шестью ночами жилья по $155 — $2924. Это условная арифметика, не счёт: валюту, включение регистрации, налоги и доступность жилья подтвердить."
+      }
+    },
+    {
+      "programme_id": "CP614",
+      "fields": {
+        "cost": "Текущий тариф MXN 6500; ранний 5525 до 15 февраля 2027, двое 11700 по семейному расчёту.",
+        "registration_status": "Pascua: HTML-карточка и ссылка продолжают вести в лист ожидания, а подключённая публичная таблица помечает тот же выпуск как Ok. Дата совпадает, но открытый приём и места не подтверждены; до поездки нужен ответ оператора."
+      }
+    }
+  ],
+  "fod_level_schedule_note": "Уровни 1–4 не образуют подтверждённую последовательную запись этого сезона: Nivel 4 идёт 11–15 января 2027, раньше Nivel 3 25–29 января 2027. Обязательные предыдущие уровни и зачёт трёх лет внешнего опыта не установлены; уровень назначает оператор.",
+  "coyote_admission_conflict": "Pascua: HTML-карточка и ссылка продолжают вести в лист ожидания, а подключённая публичная таблица помечает тот же выпуск как Ok. Дата совпадает, но открытый приём и места не подтверждены; до поездки нужен ответ оператора."
+}

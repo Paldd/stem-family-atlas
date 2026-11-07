@@ -47,6 +47,8 @@ jobs:
         run: node scripts/verify-camp-required-costs.cjs
       - name: Verify Asian camp prices, sibling routes and source availability
         run: node scripts/verify-asia-editorial.cjs
+      - name: Verify CR and Mexico camp tariffs, deposits and admission conflicts
+        run: node scripts/verify-nearby-editorial.cjs
       - name: Record the exact published source revision
         run: python3 scripts/write-release.py
       - name: Configure Pages
