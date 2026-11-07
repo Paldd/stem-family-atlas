@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 7356; competiciones: 3061; eventos: 293; campamentos / programas: 4002. Perfiles de ligas y programas: 257. Fichas de exposiciones grandes y especializadas: 205 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 7368; competiciones: 3073; eventos: 293; campamentos / programas: 4002. Perfiles de ligas y programas: 257. Fichas de exposiciones grandes y especializadas: 205 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros concretos de 158 de 249 países y territorios; países auditados por completo: 0. Revisión histórica v51: se añadieron 21 fichas y 3 perfiles. Todas las fichas anteriores se conservan.
 
@@ -18,12 +18,12 @@ Hay registros concretos de 158 de 249 países y territorios; países auditados p
 | América del Sur | 10 | 167 | 7 | 117 |
 | Europa | 42 | 412 | 68 | 1256 |
 | África | 34 | 115 | 15 | 68 |
-| Asia | 44 | 735 | 81 | 1378 |
+| Asia | 44 | 747 | 81 | 1378 |
 | Oceanía | 5 | 119 | 3 | 114 |
 
 Fichas interregionales o globales sin un continente asignado: 108. América del Norte incluye Centroamérica y el Caribe. Las cantidades indican el inventario de la base y no el porcentaje de cobertura.
 
-VEX: 518 de 3061 fichas de competiciones (16.9%). Es un desequilibrio de cobertura.
+VEX: 518 de 3073 fichas de competiciones (16.9%). Es un desequilibrio de cobertura.
 
 ## Lo que queda
 
@@ -137,7 +137,7 @@ VEX: 518 de 3061 fichas de competiciones (16.9%). Es un desequilibrio de cobertu
 - **FIRST Global Challenge**: 3 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://first.global/fgc/
 - **FIRA RoboWorld Cup / Youth**: 1 tarjeta, 0 con fechas exactas futuras. https://firaworldcup.org/news/fira-roboworld-cup-and-summit-2026-call-for-paper/
 - *Universal Robotics Challenge (URC)**: 1 tarjeta, 0 con fechas exactas futuras. https://www.urc21.org/en/overview.php
-- **World Robot Contest (CIE)**: 97 fichas, 96 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.worldrobotconference.com/contest/regulations/2632.html
+- **World Robot Contest (CIE)**: 109 fichas, 96 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.worldrobotconference.com/contest/regulations/2632.html
 - **IAIO · International Artificial Intelligence Olympiad**: 1 tarjeta, 1 con fechas exactas futuras; perfil y tarjetas; cobertura local parcial. https://iaio-official.org/
 - **SeaPerch / RoboNation**: 1 tarjeta, 1 con fechas exactas futuras. https://seaperch.org/programs/2027-challenge/
 - **MATE ROV Competition**: 2 tarjetas, 1 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://materovcompetition.org/scout

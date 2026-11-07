@@ -6373,12 +6373,180 @@
         "summary": "La red china de Trials, Championships y Finals en robots y AI.",
         "categories": [
           {
+            "name": "月球行动",
+            "age": "Grupo inicial de 6–9 años. Grupo superior de 9–12 años. Ambos participantes en el mismo grupo de edad.",
+            "age_rule": "Grupo inicial de 6–9 años. Grupo superior de 9–12 años. Ambos participantes en el mismo grupo de edad.",
+            "team": "2 participantes.",
+            "hardware": "Montaje y programación del robot a cargo de los participantes.",
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
+          },
+          {
+            "name": "Future Explore",
+            "age": "Grupo inicial de 6–10 años y grados 1–3. Grupo superior de 10–14 años y primaria. Corte a 1 de septiembre del año de competición.",
+            "age_rule": "Grupo inicial de 6–10 años y grados 1–3. Grupo superior de 10–14 años y primaria. Corte a 1 de septiembre del año de competición.",
+            "team": "En el grupo inicial 2 participantes y 1–2 mentores. En el superior 1 participante y 1 mentor. Se exige mentor desde 18 años.",
+            "hardware": "En el grupo inicial 2 robots, en el superior 1 robot con ESP32-S3.",
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
+          },
+          {
+            "name": "智探数界",
+            "age": "Desde 6 años según descripción del PDF. Grupos de primaria y secundaria.",
+            "age_rule": "Desde 6 años según descripción del PDF. Grupos de primaria y secundaria.",
+            "team": "2 participantes y 1–2 mentores.",
+            "hardware": "Equipo y restricciones de plataforma en el PDF de la disciplina.",
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
+          },
+          {
+            "name": "Future Space",
+            "age": "Primaria de 7–13 años, grupos de grados 1–3 y 4–6. Secundaria inferior de 12–15 años. Corte a 1 de septiembre del año de competición.",
+            "age_rule": "Primaria de 7–13 años, grupos de grados 1–3 y 4–6. Secundaria inferior de 12–15 años. Corte a 1 de septiembre del año de competición.",
+            "team": "2 participantes y 1–2 mentores. Se exige mentor desde 18 años.",
+            "hardware": "2 robots, programación por bloques o Python.",
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
+          },
+          {
+            "name": "AI算法挑战赛",
+            "age": "Programación por bloques: grupos inicial y superior de primaria. Python y C++: primaria y secundaria.",
+            "age_rule": "Programación por bloques: grupos inicial y superior de primaria. Python y C++: primaria y secundaria.",
+            "team": "Individual.",
+            "hardware": "Equipo y restricciones de plataforma en el PDF de la disciplina.",
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
+          },
+          {
+            "name": "AI智能挑战",
+            "age": "Primaria.",
+            "age_rule": "Primaria.",
+            "team": "1 participante y 1 mentor.",
+            "hardware": "Portátil y equipo propios, programación por bloques y retos de hardware.",
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
+          },
+          {
+            "name": "抢滩登陆",
+            "age": "Grupo superior de primaria.",
+            "age_rule": "Grupo superior de primaria.",
+            "team": "2 participantes y 2 mentores.",
+            "hardware": "Portátil propio, Arduino IDE o editor compatible.",
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
+          },
+          {
+            "name": "星海竞逐",
+            "age": "Primaria y secundaria. Condición de estudiante a junio de 2027 según reglamento.",
+            "age_rule": "Primaria y secundaria. Condición de estudiante a junio de 2027 según reglamento.",
+            "team": "2 participantes y 1 mentor.",
+            "hardware": "Piezas plásticas ensamblables. Se excluye impresión 3D.",
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
+          },
+          {
+            "name": "星策行动",
+            "age": "Primaria. Etapa escolar a 1 de septiembre del año de competición.",
+            "age_rule": "Primaria. Etapa escolar a 1 de septiembre del año de competición.",
+            "team": "2 participantes y 1–2 mentores. Se exige mentor desde 18 años.",
+            "hardware": "Equipo y restricciones de plataforma en el PDF de la disciplina.",
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
+          },
+          {
+            "name": "星元行动",
+            "age": "Primaria y secundaria inferior. Etapa escolar a 1 de septiembre del año de competición.",
+            "age_rule": "Primaria y secundaria inferior. Etapa escolar a 1 de septiembre del año de competición.",
+            "team": "2 participantes y 1–2 mentores. Se exige mentor desde 18 años.",
+            "hardware": "Equipo y restricciones de plataforma en el PDF de la disciplina.",
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
+          },
+          {
+            "name": "VRC全域接管",
+            "age": "Secundaria según tabla de WRC. El PDF contiene criterios VRC específicos para estudiantes.",
+            "age_rule": "Secundaria según tabla de WRC. El PDF contiene criterios VRC específicos para estudiantes.",
+            "team": "Equipo de 1 o más estudiantes.",
+            "hardware": "Equipo y restricciones de plataforma en el PDF de la disciplina.",
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
+          },
+          {
+            "name": "博弈前线",
+            "age": "Primaria y secundaria inferior.",
+            "age_rule": "Primaria y secundaria inferior.",
+            "team": "2–4 participantes y 1–2 mentores. Se exige mentor desde 18 años.",
+            "hardware": "Equipo y restricciones de plataforma en el PDF de la disciplina.",
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
+          },
+          {
+            "name": "攻无不克",
+            "age": "Secundaria.",
+            "age_rule": "Secundaria.",
+            "team": "2–8 participantes y 1–2 mentores. Se exige mentor desde 18 años.",
+            "hardware": "Equipo y restricciones de plataforma en el PDF de la disciplina.",
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
+          },
+          {
+            "name": "机器人格斗",
+            "age": "Grupos de primaria para todas las clases de peso. La clase ligera también admite secundaria.",
+            "age_rule": "Grupos de primaria para todas las clases de peso. La clase ligera también admite secundaria.",
+            "team": "Mini: 1 participante. Peso pluma: 2–3 participantes. Peso ligero: 2–3 en primaria, 1–3 en secundaria.",
+            "hardware": "Equipo y restricciones de plataforma en el PDF de la disciplina.",
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
+          },
+          {
+            "name": "极限翻转",
+            "age": "Primaria y secundaria.",
+            "age_rule": "Primaria y secundaria.",
+            "team": "Hasta 3 participantes y 1 mentor.",
+            "hardware": "Equipo y restricciones de plataforma en el PDF de la disciplina.",
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
+          },
+          {
+            "name": "量子世界",
+            "age": "Primaria y secundaria inferior.",
+            "age_rule": "Primaria y secundaria inferior.",
+            "team": "1 participante y 1–2 mentores. En pista, 2 solicitudes forman una alianza.",
+            "hardware": "Equipo y restricciones de plataforma en el PDF de la disciplina.",
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
+          },
+          {
+            "name": "脑机（未来·火星）",
+            "age": "Primaria y secundaria.",
+            "age_rule": "Primaria y secundaria.",
+            "team": "Hasta 4 participantes en la primera prueba, hasta 3 en la segunda, hasta 2 mentores.",
+            "hardware": "Equipo propio. Algunos grupos usan sensores EEG.",
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
+          },
+          {
+            "name": "智竞绿茵",
+            "age": "Secundaria de 13–18 años. Grupo abierto sin límite de edad según PDF.",
+            "age_rule": "Secundaria de 13–18 años. Grupo abierto sin límite de edad según PDF.",
+            "team": "Hasta 8 estudiantes y hasta 2 mentores.",
+            "hardware": "Fútbol de robots humanoides.",
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
+          },
+          {
+            "name": "智慧城市",
+            "age": "Primaria y secundaria.",
+            "age_rule": "Primaria y secundaria.",
+            "team": "1–3 participantes y 1–3 mentores.",
+            "hardware": "Equipo y restricciones de plataforma en el PDF de la disciplina.",
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
+          },
+          {
             "name": "荣耀无界 PRO",
             "age": "Grupo inicial de primaria, todos menores de 10 años al solicitar.",
             "age_rule": "Grupo inicial de primaria, todos menores de 10 años al solicitar.",
             "team": "1–4 participantes.",
             "hardware": "Construcción, programación y manejo del robot en una prueba por equipos.",
-            "entry": "Confirmar con la sede la solicitud, admisión de equipo escolar extranjero, documento, idioma y equipo técnico."
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
+          },
+          {
+            "name": "逐星行动",
+            "age": "Primaria y secundaria. Etapa escolar a 1 de septiembre del año de competición.",
+            "age_rule": "Primaria y secundaria. Etapa escolar a 1 de septiembre del año de competición.",
+            "team": "2 participantes y 1–2 mentores. Se exige mentor desde 18 años.",
+            "hardware": "Equipo y restricciones de plataforma en el PDF de la disciplina.",
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
+          },
+          {
+            "name": "星际航行",
+            "age": "Primaria de 9–12 años, secundaria de 12–16 años.",
+            "age_rule": "Primaria de 9–12 años, secundaria de 12–16 años.",
+            "team": "1 participante y 1 mentor. Se exige mentor desde 18 años.",
+            "hardware": "Equipo y restricciones de plataforma en el PDF de la disciplina.",
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
           },
           {
             "name": "星际巡航",
@@ -6386,7 +6554,7 @@
             "age_rule": "Primaria y secundaria. Reglamento indica condición de estudiante a julio de 2027.",
             "team": "1 participante y 1 mentor.",
             "hardware": "Robot de piezas plásticas ensamblables, quedan excluidas las piezas impresas en 3D.",
-            "entry": "Confirmar con la sede la solicitud, admisión de equipo escolar extranjero, documento, idioma y equipo técnico."
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
           },
           {
             "name": "智能晶造",
@@ -6394,7 +6562,7 @@
             "age_rule": "Primaria y secundaria inferior.",
             "team": "1 participante, se permite 1 mentor.",
             "hardware": "Robot seguidor de línea y misiones temáticas de centro de datos.",
-            "entry": "Confirmar con la sede la solicitud, admisión de equipo escolar extranjero, documento, idioma y equipo técnico."
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
           },
           {
             "name": "太空探索",
@@ -6402,7 +6570,55 @@
             "age_rule": "Solo primaria. El PDF indica condición de estudiante a junio de 2026. Confirmar aplicación de este corte en la sede.",
             "team": "1 participante y 1 mentor.",
             "hardware": "1 robot por equipo, tareas de misión espacial.",
-            "entry": "Confirmar con la sede la solicitud, admisión de equipo escolar extranjero, documento, idioma y equipo técnico."
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
+          },
+          {
+            "name": "信号启源",
+            "age": "Primaria.",
+            "age_rule": "Primaria.",
+            "team": "1–2 participantes y 1–2 mentores. Se exige mentor desde 18 años.",
+            "hardware": "Equipo y restricciones de plataforma en el PDF de la disciplina.",
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
+          },
+          {
+            "name": "方寸争锋",
+            "age": "Grupos inicial y superior de primaria. La tabla de WRC incluye un grupo de secundaria inferior.",
+            "age_rule": "Grupos inicial y superior de primaria. La tabla de WRC incluye un grupo de secundaria inferior.",
+            "team": "1 participante y 1 mentor.",
+            "hardware": "Equipo y restricciones de plataforma en el PDF de la disciplina.",
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
+          },
+          {
+            "name": "RD深空探索",
+            "age": "Grupos de grados 1–3, 4–6 y 7–10. Corte en septiembre de 2026.",
+            "age_rule": "Grupos de grados 1–3, 4–6 y 7–10. Corte en septiembre de 2026.",
+            "team": "1–2 participantes y 1–2 mentores.",
+            "hardware": "Equipo y restricciones de plataforma en el PDF de la disciplina.",
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
+          },
+          {
+            "name": "搜救英雄",
+            "age": "Primaria.",
+            "age_rule": "Primaria.",
+            "team": "Hasta 2 participantes.",
+            "hardware": "Equipo y restricciones de plataforma en el PDF de la disciplina.",
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
+          },
+          {
+            "name": "量子未来",
+            "age": "Secundaria, formación superior y universidad según PDF. La tabla de WRC indica grupo open.",
+            "age_rule": "Secundaria, formación superior y universidad según PDF. La tabla de WRC indica grupo open.",
+            "team": "1–2 participantes y 1–2 mentores.",
+            "hardware": "Equipo y restricciones de plataforma en el PDF de la disciplina.",
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
+          },
+          {
+            "name": "脑机星球",
+            "age": "Primaria y secundaria inferior.",
+            "age_rule": "Primaria y secundaria inferior.",
+            "team": "Robot físico: hasta 2 participantes y hasta 2 mentores. Virtual: hasta 1 participante y hasta 1 mentor.",
+            "hardware": "Portátil y dispositivo de registro EEG.",
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
           },
           {
             "name": "球机对抗",
@@ -6410,7 +6626,7 @@
             "age_rule": "Primaria y secundaria inferior.",
             "team": "3 participantes.",
             "hardware": "Drones sujetos a inspección técnica del organizador.",
-            "entry": "Confirmar con la sede la solicitud, admisión de equipo escolar extranjero, documento, idioma y equipo técnico."
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
           },
           {
             "name": "编程任务",
@@ -6418,7 +6634,15 @@
             "age_rule": "Primaria.",
             "team": "Individual.",
             "hardware": "Tareas de programación y control de dron.",
-            "entry": "Confirmar con la sede la solicitud, admisión de equipo escolar extranjero, documento, idioma y equipo técnico."
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
+          },
+          {
+            "name": "战术大师",
+            "age": "Primaria y secundaria inferior.",
+            "age_rule": "Primaria y secundaria inferior.",
+            "team": "Primaria: 2 participantes. Secundaria inferior: 2–3 participantes.",
+            "hardware": "Drones sujetos a inspección en la sede.",
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
           },
           {
             "name": "UAV 空中格斗",
@@ -6426,23 +6650,79 @@
             "age_rule": "Primaria.",
             "team": "1–3 participantes y 1–2 mentores.",
             "hardware": "Cuadricóptero ligero y blancos infrarrojos.",
-            "entry": "Confirmar con la sede la solicitud, admisión de equipo escolar extranjero, documento, idioma y equipo técnico."
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
           },
           {
             "name": "UAV 空中编程竞速",
-            "age": "Admisión según grupo escolar y reglas de la disciplina elegida.",
-            "age_rule": "Admisión según grupo escolar y reglas de la disciplina elegida.",
+            "age": "Primaria y secundaria.",
+            "age_rule": "Primaria y secundaria.",
             "team": "Composición según disciplina.",
             "hardware": "Una aeronave cumple las etapas automática y pilotada.",
-            "entry": "Confirmar con la sede la solicitud, admisión de equipo escolar extranjero, documento, idioma y equipo técnico."
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
+          },
+          {
+            "name": "逐梦星河",
+            "age": "Primaria y secundaria. Condición de estudiante a junio de 2027 según reglamento.",
+            "age_rule": "Primaria y secundaria. Condición de estudiante a junio de 2027 según reglamento.",
+            "team": "Modalidad presencial: 2 participantes y 1 mentor. Virtual: 1 participante y 1 mentor.",
+            "hardware": "Equipo y restricciones de plataforma en el PDF de la disciplina.",
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
+          },
+          {
+            "name": "超级工厂",
+            "age": "Primaria y secundaria inferior.",
+            "age_rule": "Primaria y secundaria inferior.",
+            "team": "1–3 participantes y 1–2 mentores.",
+            "hardware": "Plataforma móvil con manipulador.",
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
           },
           {
             "name": "文明破晓",
             "age": "Grupos inicial y superior de primaria y secundaria inferior según tabla de disciplinas.",
             "age_rule": "Grupos inicial y superior de primaria y secundaria inferior según tabla de disciplinas.",
-            "team": "Composición según disciplina.",
+            "team": "Formatos estándar e innovador: 2 participantes y 1 mentor. Iniciación: 1 participante y 1 mentor. Confirmar modalidad de la sede.",
             "hardware": "Construcción y tareas en pista. El grupo inicial tiene reglas de programación específicas.",
-            "entry": "Confirmar con la sede la solicitud, admisión de equipo escolar extranjero, documento, idioma y equipo técnico."
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
+          },
+          {
+            "name": "森林卫士",
+            "age": "Grupos inicial y superior de primaria. También secundaria inferior. En reglas presenciales, condición de estudiante a junio de 2027.",
+            "age_rule": "Grupos inicial y superior de primaria. También secundaria inferior. En reglas presenciales, condición de estudiante a junio de 2027.",
+            "team": "Modalidad presencial: 2 participantes y 1 mentor. Confirmar modalidad de la sede.",
+            "hardware": "Equipo y restricciones de plataforma en el PDF de la disciplina.",
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
+          },
+          {
+            "name": "IQ天天向上",
+            "age": "Grupos de primaria y secundaria inferior. El PDF define primaria con nacimiento posterior al 1 de mayo de 2014.",
+            "age_rule": "Grupos de primaria y secundaria inferior. El PDF define primaria con nacimiento posterior al 1 de mayo de 2014.",
+            "team": "Desde 3 estudiantes por equipo.",
+            "hardware": "VEX IQ según reglas técnicas.",
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
+          },
+          {
+            "name": "急智救援",
+            "age": "Grupos de grados 1–3, 4–6 y 7–10.",
+            "age_rule": "Grupos de grados 1–3, 4–6 y 7–10.",
+            "team": "1–2 participantes y 1–2 mentores.",
+            "hardware": "Equipo y restricciones de plataforma en el PDF de la disciplina.",
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
+          },
+          {
+            "name": "巧夺天工",
+            "age": "Primaria, grados 1–3.",
+            "age_rule": "Primaria, grados 1–3.",
+            "team": "1–2 participantes y 1–2 mentores.",
+            "hardware": "Equipo y restricciones de plataforma en el PDF de la disciplina.",
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
+          },
+          {
+            "name": "火星探险",
+            "age": "Primaria de 9–12 años, secundaria de 12–16 años.",
+            "age_rule": "Primaria de 9–12 años, secundaria de 12–16 años.",
+            "team": "2 participantes.",
+            "hardware": "Equipo y restricciones de plataforma en el PDF de la disciplina.",
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
           },
           {
             "name": "星宇奇航",
@@ -6450,7 +6730,55 @@
             "age_rule": "Grupo inicial de primaria. Reglamento indica condición de estudiante a julio de 2027.",
             "team": "1 participante y 1 mentor.",
             "hardware": "Robot propio y programación en la sede.",
-            "entry": "Confirmar con la sede la solicitud, admisión de equipo escolar extranjero, documento, idioma y equipo técnico."
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
+          },
+          {
+            "name": "密码邮差",
+            "age": "Grupos inicial y superior de primaria.",
+            "age_rule": "Grupos inicial y superior de primaria.",
+            "team": "1 participante y 1 mentor. Se exige mentor desde 18 años.",
+            "hardware": "Equipo y restricciones de plataforma en el PDF de la disciplina.",
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
+          },
+          {
+            "name": "RD星源计划",
+            "age": "Grupos de grados 1–3, 4–6 y 7–9. Corte en septiembre de 2026.",
+            "age_rule": "Grupos de grados 1–3, 4–6 y 7–9. Corte en septiembre de 2026.",
+            "team": "1–2 participantes y 1–2 mentores.",
+            "hardware": "Equipo y restricciones de plataforma en el PDF de la disciplina.",
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
+          },
+          {
+            "name": "虚实共生",
+            "age": "Primaria y secundaria.",
+            "age_rule": "Primaria y secundaria.",
+            "team": "1–2 participantes y hasta 1 mentor.",
+            "hardware": "Equipo y restricciones de plataforma en el PDF de la disciplina.",
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
+          },
+          {
+            "name": "量子起源",
+            "age": "Grupos de grados 1–3, 4–6 y 7–9.",
+            "age_rule": "Grupos de grados 1–3, 4–6 y 7–9.",
+            "team": "Individual.",
+            "hardware": "Equipo y restricciones de plataforma en el PDF de la disciplina.",
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
+          },
+          {
+            "name": "TC-BCI脑智生活",
+            "age": "Primaria y secundaria.",
+            "age_rule": "Primaria y secundaria.",
+            "team": "Hogar: hasta 4 participantes. Transporte: 2 participantes. Simulación: 1 participante. Mentores: 1–2.",
+            "hardware": "Equipo propio según escenario.",
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
+          },
+          {
+            "name": "太空探险挑战",
+            "age": "Disciplina para grados 1–10. El grupo permitido depende de la versión y el lenguaje de programación.",
+            "age_rule": "Disciplina para grados 1–10. El grupo permitido depende de la versión y el lenguaje de programación.",
+            "team": "Versión de hardware individual. Confirmar composición de software según reglas de la sede.",
+            "hardware": "Programación por bloques, Python o C++ según grupo.",
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
           },
           {
             "name": "荣耀无界 BOT",
@@ -6458,7 +6786,23 @@
             "age_rule": "Primaria. Grupos de menores de 10 y menores de 13 años al solicitar, grado 6 o inferior.",
             "team": "1–2 participantes.",
             "hardware": "Robot para misiones en pista con condiciones por grupo de edad.",
-            "entry": "Confirmar con la sede la solicitud, admisión de equipo escolar extranjero, documento, idioma y equipo técnico."
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
+          },
+          {
+            "name": "GO海洋科探",
+            "age": "Primaria, nacimiento posterior al 1 de septiembre de 2018.",
+            "age_rule": "Primaria, nacimiento posterior al 1 de septiembre de 2018.",
+            "team": "Equipo de 1 o más estudiantes.",
+            "hardware": "Equipo y restricciones de plataforma en el PDF de la disciplina.",
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
+          },
+          {
+            "name": "工程设计AI应用",
+            "age": "En septiembre de 2026, grados 1–6 o 7–9.",
+            "age_rule": "En septiembre de 2026, grados 1–6 o 7–9.",
+            "team": "1 participante y 1 mentor.",
+            "hardware": "Equipo y restricciones de plataforma en el PDF de la disciplina.",
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
           },
           {
             "name": "工程设计算法应用",
@@ -6466,7 +6810,7 @@
             "age_rule": "En septiembre de 2026, grados 1–6 o 7–9.",
             "team": "1 participante y 1 mentor.",
             "hardware": "Editor en línea y ordenador. Preparar el entorno según reglas de la sede.",
-            "entry": "Confirmar con la sede la solicitud, admisión de equipo escolar extranjero, documento, idioma y equipo técnico."
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
           },
           {
             "name": "工程设计创意挑战",
@@ -6474,7 +6818,23 @@
             "age_rule": "En septiembre de 2026, grados 1–6 o 7–9.",
             "team": "1 participante y 1 mentor.",
             "hardware": "Editor en línea y ordenador. Preparar el entorno según reglas de la sede.",
-            "entry": "Confirmar con la sede la solicitud, admisión de equipo escolar extranjero, documento, idioma y equipo técnico."
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
+          },
+          {
+            "name": "智创未来",
+            "age": "Grupos de grados 1–3, 4–6 y 7–9.",
+            "age_rule": "Grupos de grados 1–3, 4–6 y 7–9.",
+            "team": "1 participante y hasta 1 mentor.",
+            "hardware": "Programación por bloques. En grupo superior de primaria también Python.",
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
+          },
+          {
+            "name": "星途争锋",
+            "age": "Primaria y secundaria inferior.",
+            "age_rule": "Primaria y secundaria inferior.",
+            "team": "La composición exacta requiere el reglamento de esta temporada.",
+            "hardware": "Nombre y grupos escolares en la tabla de temporada. Reglamento de esta edición aún sin enlace de la organización.",
+            "entry": "Edad y composición según categoría publicada. Confirmar grupos de la sede concreta."
           }
         ],
         "event_ids": [
@@ -6574,10 +6934,22 @@
           "C3058",
           "C3059",
           "C3060",
-          "C3061"
+          "C3061",
+          "C3063",
+          "C3064",
+          "C3065",
+          "C3066",
+          "C3067",
+          "C3068",
+          "C3069",
+          "C3070",
+          "C3071",
+          "C3072",
+          "C3073",
+          "C3074"
         ],
         "legacy_ids": [],
-        "route": "Elegir sede y disciplina. Cotejar grado, composición y equipo en el PDF. Confirmar solicitud local y paso a la siguiente ronda.",
+        "route": "Elegir sede y disciplina. Abrir el PDF en la ficha de la sede. Cotejar grado, fecha de corte y composición. Confirmar solicitud local y siguiente ronda.",
         "hardware": "por el Reglamento",
         "language": "la lengua de los materiales internacionales y la lengua de los jueces locales se comprueba por separado.",
         "importance": "no tiene un índice de competencia y accesibilidad; no hay un índice mundial oficial de la liga.",
@@ -6590,7 +6962,7 @@
           "No se debe combinar con la WRO y la entrada de los espectadores a la World Robot Expo.",
           "el estatuto general no demuestra la accesibilidad de cada disciplina a los niños 6/9."
         ],
-        "cost": "La inscripción, la técnica, el tutor y el viaje dependen de la etapa; el presupuesto familiar no se calcula.",
+        "cost": "La secretaría de CIE declara cuota cero. Verificar por separado costes locales, equipo y viaje.",
         "award": "El resultado oficial y la recompensa de la etapa seleccionada.",
         "sources": [
           {
@@ -6614,7 +6986,7 @@
             "checked": "2026-11-07"
           }
         ],
-        "evidence": "Cotejados calendario internacional, clasificatorias regionales y tabla de reglamentos 2026/27."
+        "evidence": "Cotejados 57 PDF de la temporada 2026/27 y 113 filas del calendario regional. Para 星途争锋 se localizó la entrada en la tabla de temporada."
       },
       {
         "id": "iaio",
