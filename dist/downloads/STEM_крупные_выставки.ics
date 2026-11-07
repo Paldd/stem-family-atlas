@@ -1536,24 +1536,25 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E117@family-stem.local
-DTSTAMP:20261006T205843Z
+DTSTAMP:20261107T115245Z
 SUMMARY:[Выставка · допуск детей уточнить] Ta
  ipei Game Show 2027 · B2C public zone
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270125
 DESCRIPTION:Идея посещения\, не принятая реги
- страция. B2C публичная зона\; конкретный 
- детский допуск 6/9 и тариф текущего выпу
- ска не подтверждены Взрослый вход: Отде
- льный B2C ticket\; подтвердить детский вход. 
- B2B / APGS 21–22 января — другая категория.. П
- убличные дни 21–24 января подтверждены\; 
- возрастные правила 2023 или других шоу Та
- йваня не перенесены на 2027. Компании: Име
- на компаний выбранного выпуска не пров
- ерены\; прошлый список не гарантирует у
- частие в новом сезоне.. Источник провер
- ен 2026-09-30.
+ страция. Семейный маршрут: B2C 21–24 январ
+ я 2027. B2B и Asia Pacific Game Summit 21–22 января с отд
+ ельным допуском. Цены 2027 и вход детям по
+  зонам проверить. Взрослый вход: Отдель
+ ный B2C ticket\; подтвердить детский вход. B2B 
+ / APGS 21–22 января — другая категория.. Пуб
+ личные дни 21–24 января подтверждены\; во
+ зрастные правила 2023 или других шоу Тайв
+ аня не перенесены на 2027. Компании: Имена
+  компаний выбранного выпуска не провер
+ ены\; прошлый список не гарантирует уча
+ стие в новом сезоне.. Источник проверен 
+ 2026-11-07.
 LOCATION:Taipei · TaiNEX 1\, Nangang Exhibition Center Hall 1\, Тайв
  ань
 URL:https://tgs.tca.org.tw/?p=event_info_e
@@ -4259,6 +4260,98 @@ DESCRIPTION:Идея посещения\, не принятая реги
  к проверен 2026-11-07.
 LOCATION:Turnhalle Benzenschwil · Aargau\, Швейцария
 URL:https://www.lego-event-benzenschwil.ch/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E323@family-stem.local
+DTSTAMP:20261107T115245Z
+SUMMARY:[Выставка · семейный вариант] FIRST LEGO 
+ League Victoria · Public Viewing
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+DESCRIPTION:Идея посещения\, не принятая реги
+ страция. Семейный вход бесплатный. Challeng
+ e 08:45–16:45\, Explore 13:30–16:45. Взрослый вход: Се
+ мейный вход бесплатный. Challenge 08:45–16:45\, Ex
+ plore 13:30–16:45..  Компании: Поездка на демон
+ страции и заезды LEGO-роботов. Регистраци
+ я команды проходит отдельно.. Источник 
+ проверен 2026-11-07.
+LOCATION:University of Victoria · Engineering Computer Science Building\
+ , Канада
+URL:https://firstroboticsbc.org/event/fll-victoria-qualifying-tournament/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E324@family-stem.local
+DTSTAMP:20261107T115245Z
+SUMMARY:[Выставка · семейный вариант] FAN EXPO Va
+ ncouver 2027 · Gaming
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270216
+DESCRIPTION:Идея посещения\, не принятая реги
+ страция. Детский пропуск 6–12 лет. До 12 л
+ ет включительно ребёнок постоянно с вз
+ рослым. Взрослый вход: Детский пропуск 6
+ –12 лет. До 12 лет включительно ребёнок п
+ остоянно с взрослым..  Компании: Зона иг
+ р\, демонстрации и панели. Возрастные ус
+ ловия отдельных игр и турниров уточнит
+ ь отдельно.. Источник проверен 2026-11-07.
+LOCATION:Vancouver Convention Centre · West Building\, Канада
+URL:https://fanexpohq.com/fanexpovancouver/buy-tickets/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E325@family-stem.local
+DTSTAMP:20261107T115245Z
+SUMMARY:[Выставка · семейный вариант] FAN EXPO Ca
+ nada 2027 · Gaming
+DTSTART;VALUE=DATE:20270826
+DTEND;VALUE=DATE:20270830
+DESCRIPTION:Идея посещения\, не принятая реги
+ страция. Детский пропуск 6–12 лет. Младш
+ е 6 лет вход бесплатный. До 12 лет включит
+ ельно нужен взрослый. Взрослый вход: Де
+ тский пропуск 6–12 лет. Младше 6 лет вход 
+ бесплатный. До 12 лет включительно нужен
+  взрослый..  Компании: Зона игр\, демонст
+ рации и панели. Возрастные условия отде
+ льных игр и турниров уточнить отдельно.
+ . Источник проверен 2026-11-07.
+LOCATION:Metro Toronto Convention Centre · Toronto\, Канада
+URL:https://fanexpohq.com/fanexpocanada/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E326@family-stem.local
+DTSTAMP:20261107T115605Z
+SUMMARY:[Выставка · семейный вариант] TADTE 2027 
+ · Taipei Aerospace & Defense Technology Exhibition
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20270926
+DESCRIPTION:Идея посещения\, не принятая реги
+ страция. Публика 25 сентября\, 09:00–17:00. Вз
+ рослый получает QR после анкеты на входе
+ . Дети младше 12 лет проходят со взрослым
+  без отдельной анкеты. Взрослый вход: Пу
+ блика 25 сентября\, 09:00–17:00. Взрослый пол
+ учает QR после анкеты на входе. Дети млад
+ ше 12 лет проходят со взрослым без отдел
+ ьной анкеты.. Семейный доступ только 25 с
+ ентября. Условия для деловых посетител
+ ей опубликованы отдельно. Компании: Аэр
+ окосмические технологии и оборудовани
+ е. Первые дни действуют отдельные прави
+ ла для деловых посетителей и групп.. Ист
+ очник проверен 2026-11-07.
+LOCATION:Taipei Nangang Exhibition Center · Hall 1\, Тайвань
+URL:https://www.tadte.com.tw/zh-tw/menu/9BC8A4C92D674714D0636733C6861689/
+ info.html
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT

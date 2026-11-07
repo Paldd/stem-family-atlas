@@ -223,6 +223,10 @@
         {
           "label": "calendario verificado previamente del organizador",
           "url": "https://www.cacet.org/vto-zh-3/vto-competition-schedule-zh"
+        },
+        {
+          "url": "https://www.cacet.org/vto-zh-3",
+          "label": "Página oficial del organizador"
         }
       ],
       "related_ids": [
@@ -576,7 +580,7 @@
         },
         {
           "url": "https://www.chanchao.com.tw/expoDetail.asp?id=ROBOT2027",
-          "label": "tarjeta oficial de TAIROS 2027"
+          "label": "Página oficial del organizador"
         },
         {
           "url": "https://automationtaipei.chanchao.com.tw/en/VisitorInfo",
@@ -1269,7 +1273,7 @@
       "mat": "condicionalmente  confirmar la admisión",
       "osc": "condicionalmente  confirmar la admisión",
       "format": "Exposición de juegos B2C",
-      "entry": "de la misma B2C ticket; confirmar la entrada de los niños. B2B / APGS 21–22 enero — otra categoría.",
+      "entry": "Ruta familiar: B2C del 21 al 24 de enero de 2027. B2B y Asia Pacific Game Summit del 21 al 22 de enero con acceso separado. Confirmar tarifas 2027 y acceso infantil por zonas.",
       "gear": "No es necesario para entrar.",
       "language": "no se ha confirmado el idioma de la actividad en concreto",
       "languages": [],
@@ -1283,8 +1287,8 @@
       "action": "confirmar la edad en la fecha del evento, la lengua, el lugar y las condiciones de registro.",
       "source": "https://tgs.tca.org.tw/?p=event_info_e",
       "references": [],
-      "proof": "Se ha leído la fuente primaria; las condiciones desconocidas se han señalado por separado.",
-      "checked": "2026-09-30",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "checked": "2026-11-07",
       "status": "Idea",
       "note": "días públicos 21–24 enero confirmado; Reglas de edad 2023 o otros programas de Taiwán no se han trasladado a 2027.",
       "themes": [
@@ -1297,7 +1301,7 @@
       "registration_status": "No se registra la familia; la fecha y el precio publicados no garantizan la disponibilidad de plazas.",
       "exhibition_tier": "global",
       "visitor_policy": "confirm_children",
-      "visitor_policy_note": "Zona pública B2C; no se confirmó el permiso de entrada de niños 6/9 y el precio de la emisión actual",
+      "visitor_policy_note": "Ruta familiar: B2C del 21 al 24 de enero de 2027. B2B y Asia Pacific Game Summit del 21 al 22 de enero con acceso separado. Confirmar tarifas 2027 y acceso infantil por zonas.",
       "adult_entry": "de la misma B2C ticket; confirmar la entrada de los niños. B2B / APGS 21–22 enero — otra categoría.",
       "highlights": [
         "B2C game exhibition",
@@ -1382,7 +1386,7 @@
       "city": "Taichung · Wagor International Conference Center, 328 Junfu 18th Road, Beitun",
       "source": "https://junior-botball-challenge-taiwan.github.io/",
       "references": [],
-      "checked": "2026-10-01",
+      "checked": "2026-11-07",
       "start": "2026-12-13",
       "end": "2026-12-13",
       "date_status": "Confirmado",
@@ -1393,7 +1397,7 @@
       "osc": "condicionalmente  confirmar el grado y la admisión extranjera; año de nacimiento 2020",
       "format": "tareas de Junior Botball; los componentes concretos de los equipos de dirección",
       "participation": "team",
-      "entry": "elegir una categoría, obtener la confirmación de la admisión extranjera y la lengua; comprobar los lugares antes de pagar.",
+      "entry": "La organización indica inscripción cerrada. Las condiciones de entrada de espectadores no están publicadas en la página.",
       "gear": "su plataforma / kit según las reglas locales; compatibilidad de LEGO no está confirmada",
       "cost": "el valor actual de la operación",
       "language": "lengua de las clases / jueces no confirmada",
@@ -1403,17 +1407,17 @@
       "level": "turneo regional / programa",
       "importance_reason": "No hay una clasificación mundial general.",
       "reward": "certificado de tareas cumplidas; lugar / premio sólo por el protocolo del nivel elegido",
-      "priority": "P2  viaje después de verificar la admisión",
+      "priority": "P3 — sujeto a confirmación de acceso del público",
       "status": "Idea",
-      "action": "confirmar la categoría, el estatus de la escuela, la lengua y el conjunto vigente.",
+      "action": "Consultar las reglas de acceso del público y el anuncio de la próxima clasificación de Junior Botball.",
       "themes": [
         "robotics",
         "technology"
       ],
       "admission_kind": "open_application",
       "evidence_level": "event_page",
-      "registration_status": "No se ha registrado la familia; la fecha no confirma la presencia del lugar.",
-      "proof": "SPARK: 13.12.2026, plataforma, dos partes del día, niveles menores y documentos en una carpeta separada.",
+      "registration_status": "La organización indica inscripción cerrada. Las condiciones de entrada de espectadores no están publicadas en la página.",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
       "note": "La disponibilidad para los extranjeros, el número de jugadores, el costo, la fecha límite y la asistencia EN no se han confirmado. el nombre del certificado international future engineer no lo convierte en una victoria internacional. la promesa local de GCER USA July 2027 no se compara con la KIPR; no se promete una cuota automática / un viaje pagado.",
       "iso": [
         "TWN"
@@ -3087,6 +3091,167 @@
       "support_languages": [],
       "team_min": 1,
       "team_max": 3
+    },
+    {
+      "id": "C3151",
+      "block": "Competiciones",
+      "title": "World GreenMech 2027 · Taoyuan",
+      "country": "Taiwán",
+      "region": "Asia",
+      "iso": [
+        "TWN"
+      ],
+      "city": "Taoyuan Arena · Taoyuan",
+      "start": "2027-08-19",
+      "end": "2027-08-19",
+      "deadline": "",
+      "period": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://worldgreenmech.com/tw/tw_sitenews_detail.asp?id=20260915001",
+      "references": [
+        {
+          "url": "https://worldgreenmech.com/tw/",
+          "label": "Reglas y condiciones de admisión"
+        }
+      ],
+      "age": "Desde el último curso de preescolar hasta secundaria superior, según categoría.",
+      "mat": "Condicional. Confirmar categoría, grado y vía de admisión para equipos del extranjero.",
+      "osc": "Condicional. Confirmar categoría, grado y vía de admisión para equipos del extranjero.",
+      "format": "La final taiwanesa coincide con la mundial. Recomendaciones regionales hasta el 14 de junio, inscripción de equipos recomendados del 22 al 24 de junio, lista de admitidos el 28 de junio de 2027. Confirmar la vía del equipo extranjero con su socio.",
+      "entry": "La final taiwanesa coincide con la mundial. Recomendaciones regionales hasta el 14 de junio, inscripción de equipos recomendados del 22 al 24 de junio, lista de admitidos el 28 de junio de 2027. Confirmar la vía del equipo extranjero con su socio.",
+      "gear": "Categorías de mecanismos, misiones robóticas y Maker Cup infantil. Kit y formato según categoría.",
+      "language": "Confirmar el idioma del grupo o sede concretos.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Precio sin publicar.",
+      "level": "Final mundial y etapa nacional de Taiwán",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
+      "note": "Confirmar con el socio los criterios de clasificación del equipo extranjero y las reglas de la categoría.",
+      "themes": [
+        "robotics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Etapa regional",
+      "participation": "team",
+      "admission_kind": "qualification",
+      "evidence_level": "event_page",
+      "date_scope": "competition"
+    },
+    {
+      "id": "C3152",
+      "block": "Competiciones",
+      "title": "Minoan Robotsports Competition · Taiwan National 2027",
+      "country": "Taiwán",
+      "region": "Asia",
+      "iso": [
+        "TWN"
+      ],
+      "city": "Taiwan · TBD",
+      "start": "",
+      "end": "",
+      "deadline": "",
+      "period": "Temporada 2027. Día concreto pendiente de anuncio.",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://minoan-robotsports-competition-taiwan.github.io/index.html",
+      "references": [],
+      "age": "Hay división de primaria. Límite, plataforma y composición dependen de la disciplina.",
+      "mat": "Condicional. Confirmar categoría, grado y vía de admisión para equipos del extranjero.",
+      "osc": "Condicional. Confirmar categoría, grado y vía de admisión para equipos del extranjero.",
+      "format": "Fechas e inicio de inscripciones de la etapa taiwanesa 2027 sin publicar. La fecha de la final en Creta corresponde a otro evento.",
+      "entry": "Fechas e inicio de inscripciones de la etapa taiwanesa 2027 sin publicar. La fecha de la final en Creta corresponde a otro evento.",
+      "gear": "Según disciplina: plataformas de bloques, Arduino, ESP32 o Raspberry Pi.",
+      "language": "Confirmar el idioma del grupo o sede concretos.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Precio sin publicar.",
+      "level": "Programa nacional",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
+      "note": "Fecha concreta, admisión internacional y tarifa aún sin confirmar.",
+      "themes": [
+        "robotics",
+        "engineering"
+      ],
+      "scope": "national",
+      "importance_reason": "Etapa regional",
+      "participation": "team",
+      "admission_kind": "qualification",
+      "evidence_level": "event_page",
+      "date_scope": "season_window"
+    },
+    {
+      "id": "E326",
+      "block": "Eventos",
+      "title": "TADTE 2027 · Taipei Aerospace & Defense Technology Exhibition",
+      "country": "Taiwán",
+      "region": "Asia",
+      "iso": [
+        "TWN"
+      ],
+      "city": "Taipei Nangang Exhibition Center · Hall 1",
+      "start": "2027-09-25",
+      "end": "2027-09-25",
+      "deadline": "",
+      "period": "Feria del 23 al 25 de septiembre de 2027. Jornada familiar el 25 de septiembre.",
+      "date_status": "Confirmado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://www.tadte.com.tw/zh-tw/menu/9BC8A4C92D674714D0636733C6861689/info.html",
+      "references": [],
+      "age": "Público el 25 de septiembre, de 09:00 a 17:00. El adulto obtiene QR tras el formulario en la entrada. Menores de 12 años entran con un adulto sin formulario separado.",
+      "mat": "Sí para visita familiar siguiendo las reglas de acceso.",
+      "osc": "Sí para visita familiar siguiendo las reglas de acceso.",
+      "format": "Tecnologías y equipos aeroespaciales. Los primeros días tienen reglas específicas para profesionales y grupos.",
+      "entry": "Público el 25 de septiembre, de 09:00 a 17:00. El adulto obtiene QR tras el formulario en la entrada. Menores de 12 años entran con un adulto sin formulario separado.",
+      "gear": "Tecnologías y equipos aeroespaciales. Los primeros días tienen reglas específicas para profesionales y grupos.",
+      "language": "Confirmar el idioma del grupo o sede concretos.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Precio sin publicar.",
+      "level": "Feria familiar o evento público",
+      "reward": "",
+      "priority": "P3 — visita según programa",
+      "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
+      "note": "Acceso familiar solo el 25 de septiembre. Las condiciones para profesionales se publican por separado.",
+      "themes": [
+        "technology",
+        "engineering"
+      ],
+      "scope": "international",
+      "importance_reason": "Etapa regional",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "exhibition_tier": "profile",
+      "adult_entry": "Público el 25 de septiembre, de 09:00 a 17:00. El adulto obtiene QR tras el formulario en la entrada. Menores de 12 años entran con un adulto sin formulario separado.",
+      "visitor_policy": "family",
+      "visitor_policy_note": "Público el 25 de septiembre, de 09:00 a 17:00. El adulto obtiene QR tras el formulario en la entrada. Menores de 12 años entran con un adulto sin formulario separado.",
+      "exhibitor_note": "Tecnologías y equipos aeroespaciales. Los primeros días tienen reglas específicas para profesionales y grupos.",
+      "exhibitor_directory_url": "https://www.tadte.com.tw/zh-tw/menu/9BC8A4C92D674714D0636733C6861689/info.html",
+      "highlights": [
+        "Tecnología aeroespacial",
+        "Jornada familiar el 25 de septiembre"
+      ],
+      "exhibitors": [],
+      "public_days": [
+        "2027-09-25"
+      ]
     },
     {
       "id": "CP025-20270705-20270710",
@@ -15765,6 +15930,1018 @@
         "status": "unconfirmed",
         "label": "Horario y formulario de solicitud publicados. Plazas libres sin confirmar.",
         "checked": "2026-11-07"
+      }
+    },
+    {
+      "id": "CP1658-20270121-20270122-taipei-jinou-01-21",
+      "block": "Campamentos",
+      "title": "Dr. Sparks · Flight Winter Camp · Taipei · Jinou Girls High School · 2027-01-21–2027-01-22",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "Taipei · Jinou Girls High School",
+      "start": "2027-01-21",
+      "end": "2027-01-22",
+      "period": "11 turnos de dos días coinciden entre las páginas inglesa y china. Tainan se indica en una ficha separada de verificación.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Grados 1–6. También se admite a estudiantes de secundaria según las condiciones de la organización.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.",
+      "language": "Enseñanza en inglés con aclaraciones breves en chino ocasionalmente. Los asistentes ayudan con las actividades.",
+      "cost": "2027 · TWD 7990 por menor durante 2 días. Hasta el 16 de noviembre de 2026 la página inglesa muestra TWD 6240 y la china TWD 6490. Confirmar el precio aplicable antes de pagar. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "source": "https://www.sparkleandshinekids.com/",
+      "references": [
+        {
+          "url": "https://www.sparkleandshinekids.com/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://zh.sparkleandshinekids.com/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://www.sparkleandshinekids.com/2027wintercamp-faq",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Adecuado si se confirma grado escolar y plaza. Oscar: Confirmar equivalencia al grado 1. Las preguntas frecuentes prevén una excepción para preescolar con buen inglés y presencia de un progenitor todo el día. Confirmar que aplica al turno. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "science",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Enseñanza en inglés con aclaraciones breves en chino ocasionalmente. Los asistentes ayudan con las actividades.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "dr-sparks-flight-winter-2027",
+      "camp_programme_id": "CP1658",
+      "sessions": [
+        {
+          "date": "2027-01-21",
+          "topic": "Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.",
+          "start_time": "09:00",
+          "end_time": "16:30",
+          "timezone": "Asia/Taipei",
+          "ical_timed": true,
+          "start_utc": "2027-01-21T01:00:00Z",
+          "end_utc": "2027-01-21T08:30:00Z"
+        },
+        {
+          "date": "2027-01-22",
+          "topic": "Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.",
+          "start_time": "09:00",
+          "end_time": "16:30",
+          "timezone": "Asia/Taipei",
+          "ical_timed": true,
+          "start_utc": "2027-01-22T01:00:00Z",
+          "end_utc": "2027-01-22T08:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      }
+    },
+    {
+      "id": "CP1658-20270125-20270126-taipei-jinou-01-25",
+      "block": "Campamentos",
+      "title": "Dr. Sparks · Flight Winter Camp · Taipei · Jinou Girls High School · 2027-01-25–2027-01-26",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "Taipei · Jinou Girls High School",
+      "start": "2027-01-25",
+      "end": "2027-01-26",
+      "period": "11 turnos de dos días coinciden entre las páginas inglesa y china. Tainan se indica en una ficha separada de verificación.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Grados 1–6. También se admite a estudiantes de secundaria según las condiciones de la organización.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.",
+      "language": "Enseñanza en inglés con aclaraciones breves en chino ocasionalmente. Los asistentes ayudan con las actividades.",
+      "cost": "2027 · TWD 7990 por menor durante 2 días. Hasta el 16 de noviembre de 2026 la página inglesa muestra TWD 6240 y la china TWD 6490. Confirmar el precio aplicable antes de pagar. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "source": "https://www.sparkleandshinekids.com/",
+      "references": [
+        {
+          "url": "https://www.sparkleandshinekids.com/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://zh.sparkleandshinekids.com/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://www.sparkleandshinekids.com/2027wintercamp-faq",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Adecuado si se confirma grado escolar y plaza. Oscar: Confirmar equivalencia al grado 1. Las preguntas frecuentes prevén una excepción para preescolar con buen inglés y presencia de un progenitor todo el día. Confirmar que aplica al turno. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "science",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Enseñanza en inglés con aclaraciones breves en chino ocasionalmente. Los asistentes ayudan con las actividades.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "dr-sparks-flight-winter-2027",
+      "camp_programme_id": "CP1658",
+      "sessions": [
+        {
+          "date": "2027-01-25",
+          "topic": "Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.",
+          "start_time": "09:00",
+          "end_time": "16:30",
+          "timezone": "Asia/Taipei",
+          "ical_timed": true,
+          "start_utc": "2027-01-25T01:00:00Z",
+          "end_utc": "2027-01-25T08:30:00Z"
+        },
+        {
+          "date": "2027-01-26",
+          "topic": "Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.",
+          "start_time": "09:00",
+          "end_time": "16:30",
+          "timezone": "Asia/Taipei",
+          "ical_timed": true,
+          "start_utc": "2027-01-26T01:00:00Z",
+          "end_utc": "2027-01-26T08:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      }
+    },
+    {
+      "id": "CP1658-20270127-20270128-taipei-jinou-01-27",
+      "block": "Campamentos",
+      "title": "Dr. Sparks · Flight Winter Camp · Taipei · Jinou Girls High School · 2027-01-27–2027-01-28",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "Taipei · Jinou Girls High School",
+      "start": "2027-01-27",
+      "end": "2027-01-28",
+      "period": "11 turnos de dos días coinciden entre las páginas inglesa y china. Tainan se indica en una ficha separada de verificación.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Grados 1–6. También se admite a estudiantes de secundaria según las condiciones de la organización.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.",
+      "language": "Enseñanza en inglés con aclaraciones breves en chino ocasionalmente. Los asistentes ayudan con las actividades.",
+      "cost": "2027 · TWD 7990 por menor durante 2 días. Hasta el 16 de noviembre de 2026 la página inglesa muestra TWD 6240 y la china TWD 6490. Confirmar el precio aplicable antes de pagar. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "source": "https://www.sparkleandshinekids.com/",
+      "references": [
+        {
+          "url": "https://www.sparkleandshinekids.com/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://zh.sparkleandshinekids.com/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://www.sparkleandshinekids.com/2027wintercamp-faq",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Adecuado si se confirma grado escolar y plaza. Oscar: Confirmar equivalencia al grado 1. Las preguntas frecuentes prevén una excepción para preescolar con buen inglés y presencia de un progenitor todo el día. Confirmar que aplica al turno. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "science",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Enseñanza en inglés con aclaraciones breves en chino ocasionalmente. Los asistentes ayudan con las actividades.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "dr-sparks-flight-winter-2027",
+      "camp_programme_id": "CP1658",
+      "sessions": [
+        {
+          "date": "2027-01-27",
+          "topic": "Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.",
+          "start_time": "09:00",
+          "end_time": "16:30",
+          "timezone": "Asia/Taipei",
+          "ical_timed": true,
+          "start_utc": "2027-01-27T01:00:00Z",
+          "end_utc": "2027-01-27T08:30:00Z"
+        },
+        {
+          "date": "2027-01-28",
+          "topic": "Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.",
+          "start_time": "09:00",
+          "end_time": "16:30",
+          "timezone": "Asia/Taipei",
+          "ical_timed": true,
+          "start_utc": "2027-01-28T01:00:00Z",
+          "end_utc": "2027-01-28T08:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      }
+    },
+    {
+      "id": "CP1658-20270201-20270202-taipei-jinou-02-01",
+      "block": "Campamentos",
+      "title": "Dr. Sparks · Flight Winter Camp · Taipei · Jinou Girls High School · 2027-02-01–2027-02-02",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "Taipei · Jinou Girls High School",
+      "start": "2027-02-01",
+      "end": "2027-02-02",
+      "period": "11 turnos de dos días coinciden entre las páginas inglesa y china. Tainan se indica en una ficha separada de verificación.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Grados 1–6. También se admite a estudiantes de secundaria según las condiciones de la organización.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.",
+      "language": "Enseñanza en inglés con aclaraciones breves en chino ocasionalmente. Los asistentes ayudan con las actividades.",
+      "cost": "2027 · TWD 7990 por menor durante 2 días. Hasta el 16 de noviembre de 2026 la página inglesa muestra TWD 6240 y la china TWD 6490. Confirmar el precio aplicable antes de pagar. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "source": "https://www.sparkleandshinekids.com/",
+      "references": [
+        {
+          "url": "https://www.sparkleandshinekids.com/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://zh.sparkleandshinekids.com/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://www.sparkleandshinekids.com/2027wintercamp-faq",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Adecuado si se confirma grado escolar y plaza. Oscar: Confirmar equivalencia al grado 1. Las preguntas frecuentes prevén una excepción para preescolar con buen inglés y presencia de un progenitor todo el día. Confirmar que aplica al turno. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "science",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Enseñanza en inglés con aclaraciones breves en chino ocasionalmente. Los asistentes ayudan con las actividades.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "dr-sparks-flight-winter-2027",
+      "camp_programme_id": "CP1658",
+      "sessions": [
+        {
+          "date": "2027-02-01",
+          "topic": "Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.",
+          "start_time": "09:00",
+          "end_time": "16:30",
+          "timezone": "Asia/Taipei",
+          "ical_timed": true,
+          "start_utc": "2027-02-01T01:00:00Z",
+          "end_utc": "2027-02-01T08:30:00Z"
+        },
+        {
+          "date": "2027-02-02",
+          "topic": "Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.",
+          "start_time": "09:00",
+          "end_time": "16:30",
+          "timezone": "Asia/Taipei",
+          "ical_timed": true,
+          "start_utc": "2027-02-02T01:00:00Z",
+          "end_utc": "2027-02-02T08:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      }
+    },
+    {
+      "id": "CP1658-20270129-20270130-taipei-oops-01-29",
+      "block": "Campamentos",
+      "title": "Dr. Sparks · Flight Winter Camp · Taipei · OOPS Creative Park · 2027-01-29–2027-01-30",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "Taipei · OOPS Creative Park",
+      "start": "2027-01-29",
+      "end": "2027-01-30",
+      "period": "11 turnos de dos días coinciden entre las páginas inglesa y china. Tainan se indica en una ficha separada de verificación.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Grados 1–6. También se admite a estudiantes de secundaria según las condiciones de la organización.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.",
+      "language": "Enseñanza en inglés con aclaraciones breves en chino ocasionalmente. Los asistentes ayudan con las actividades.",
+      "cost": "2027 · TWD 7990 por menor durante 2 días. Hasta el 16 de noviembre de 2026 la página inglesa muestra TWD 6240 y la china TWD 6490. Confirmar el precio aplicable antes de pagar. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "source": "https://www.sparkleandshinekids.com/",
+      "references": [
+        {
+          "url": "https://www.sparkleandshinekids.com/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://zh.sparkleandshinekids.com/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://www.sparkleandshinekids.com/2027wintercamp-faq",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Adecuado si se confirma grado escolar y plaza. Oscar: Confirmar equivalencia al grado 1. Las preguntas frecuentes prevén una excepción para preescolar con buen inglés y presencia de un progenitor todo el día. Confirmar que aplica al turno. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "science",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Enseñanza en inglés con aclaraciones breves en chino ocasionalmente. Los asistentes ayudan con las actividades.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "dr-sparks-flight-winter-2027",
+      "camp_programme_id": "CP1658",
+      "sessions": [
+        {
+          "date": "2027-01-29",
+          "topic": "Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.",
+          "start_time": "09:00",
+          "end_time": "16:30",
+          "timezone": "Asia/Taipei",
+          "ical_timed": true,
+          "start_utc": "2027-01-29T01:00:00Z",
+          "end_utc": "2027-01-29T08:30:00Z"
+        },
+        {
+          "date": "2027-01-30",
+          "topic": "Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.",
+          "start_time": "09:00",
+          "end_time": "16:30",
+          "timezone": "Asia/Taipei",
+          "ical_timed": true,
+          "start_utc": "2027-01-30T01:00:00Z",
+          "end_utc": "2027-01-30T08:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      }
+    },
+    {
+      "id": "CP1658-20270121-20270122-taichung-01-21",
+      "block": "Campamentos",
+      "title": "Dr. Sparks · Flight Winter Camp · Taichung University of Science and Technology · 2027-01-21–2027-01-22",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "Taichung University of Science and Technology",
+      "start": "2027-01-21",
+      "end": "2027-01-22",
+      "period": "11 turnos de dos días coinciden entre las páginas inglesa y china. Tainan se indica en una ficha separada de verificación.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Grados 1–6. También se admite a estudiantes de secundaria según las condiciones de la organización.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.",
+      "language": "Enseñanza en inglés con aclaraciones breves en chino ocasionalmente. Los asistentes ayudan con las actividades.",
+      "cost": "2027 · TWD 7990 por menor durante 2 días. Hasta el 16 de noviembre de 2026 la página inglesa muestra TWD 6240 y la china TWD 6490. Confirmar el precio aplicable antes de pagar. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "source": "https://www.sparkleandshinekids.com/",
+      "references": [
+        {
+          "url": "https://www.sparkleandshinekids.com/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://zh.sparkleandshinekids.com/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://www.sparkleandshinekids.com/2027wintercamp-faq",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Adecuado si se confirma grado escolar y plaza. Oscar: Confirmar equivalencia al grado 1. Las preguntas frecuentes prevén una excepción para preescolar con buen inglés y presencia de un progenitor todo el día. Confirmar que aplica al turno. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "science",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Enseñanza en inglés con aclaraciones breves en chino ocasionalmente. Los asistentes ayudan con las actividades.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "dr-sparks-flight-winter-2027",
+      "camp_programme_id": "CP1658",
+      "sessions": [
+        {
+          "date": "2027-01-21",
+          "topic": "Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.",
+          "start_time": "09:00",
+          "end_time": "16:30",
+          "timezone": "Asia/Taipei",
+          "ical_timed": true,
+          "start_utc": "2027-01-21T01:00:00Z",
+          "end_utc": "2027-01-21T08:30:00Z"
+        },
+        {
+          "date": "2027-01-22",
+          "topic": "Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.",
+          "start_time": "09:00",
+          "end_time": "16:30",
+          "timezone": "Asia/Taipei",
+          "ical_timed": true,
+          "start_utc": "2027-01-22T01:00:00Z",
+          "end_utc": "2027-01-22T08:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      }
+    },
+    {
+      "id": "CP1658-20270125-20270126-taichung-01-25",
+      "block": "Campamentos",
+      "title": "Dr. Sparks · Flight Winter Camp · Taichung University of Science and Technology · 2027-01-25–2027-01-26",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "Taichung University of Science and Technology",
+      "start": "2027-01-25",
+      "end": "2027-01-26",
+      "period": "11 turnos de dos días coinciden entre las páginas inglesa y china. Tainan se indica en una ficha separada de verificación.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Grados 1–6. También se admite a estudiantes de secundaria según las condiciones de la organización.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.",
+      "language": "Enseñanza en inglés con aclaraciones breves en chino ocasionalmente. Los asistentes ayudan con las actividades.",
+      "cost": "2027 · TWD 7990 por menor durante 2 días. Hasta el 16 de noviembre de 2026 la página inglesa muestra TWD 6240 y la china TWD 6490. Confirmar el precio aplicable antes de pagar. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "source": "https://www.sparkleandshinekids.com/",
+      "references": [
+        {
+          "url": "https://www.sparkleandshinekids.com/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://zh.sparkleandshinekids.com/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://www.sparkleandshinekids.com/2027wintercamp-faq",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Adecuado si se confirma grado escolar y plaza. Oscar: Confirmar equivalencia al grado 1. Las preguntas frecuentes prevén una excepción para preescolar con buen inglés y presencia de un progenitor todo el día. Confirmar que aplica al turno. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "science",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Enseñanza en inglés con aclaraciones breves en chino ocasionalmente. Los asistentes ayudan con las actividades.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "dr-sparks-flight-winter-2027",
+      "camp_programme_id": "CP1658",
+      "sessions": [
+        {
+          "date": "2027-01-25",
+          "topic": "Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.",
+          "start_time": "09:00",
+          "end_time": "16:30",
+          "timezone": "Asia/Taipei",
+          "ical_timed": true,
+          "start_utc": "2027-01-25T01:00:00Z",
+          "end_utc": "2027-01-25T08:30:00Z"
+        },
+        {
+          "date": "2027-01-26",
+          "topic": "Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.",
+          "start_time": "09:00",
+          "end_time": "16:30",
+          "timezone": "Asia/Taipei",
+          "ical_timed": true,
+          "start_utc": "2027-01-26T01:00:00Z",
+          "end_utc": "2027-01-26T08:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      }
+    },
+    {
+      "id": "CP1658-20270127-20270128-taichung-01-27",
+      "block": "Campamentos",
+      "title": "Dr. Sparks · Flight Winter Camp · Taichung University of Science and Technology · 2027-01-27–2027-01-28",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "Taichung University of Science and Technology",
+      "start": "2027-01-27",
+      "end": "2027-01-28",
+      "period": "11 turnos de dos días coinciden entre las páginas inglesa y china. Tainan se indica en una ficha separada de verificación.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Grados 1–6. También se admite a estudiantes de secundaria según las condiciones de la organización.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.",
+      "language": "Enseñanza en inglés con aclaraciones breves en chino ocasionalmente. Los asistentes ayudan con las actividades.",
+      "cost": "2027 · TWD 7990 por menor durante 2 días. Hasta el 16 de noviembre de 2026 la página inglesa muestra TWD 6240 y la china TWD 6490. Confirmar el precio aplicable antes de pagar. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "source": "https://www.sparkleandshinekids.com/",
+      "references": [
+        {
+          "url": "https://www.sparkleandshinekids.com/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://zh.sparkleandshinekids.com/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://www.sparkleandshinekids.com/2027wintercamp-faq",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Adecuado si se confirma grado escolar y plaza. Oscar: Confirmar equivalencia al grado 1. Las preguntas frecuentes prevén una excepción para preescolar con buen inglés y presencia de un progenitor todo el día. Confirmar que aplica al turno. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "science",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Enseñanza en inglés con aclaraciones breves en chino ocasionalmente. Los asistentes ayudan con las actividades.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "dr-sparks-flight-winter-2027",
+      "camp_programme_id": "CP1658",
+      "sessions": [
+        {
+          "date": "2027-01-27",
+          "topic": "Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.",
+          "start_time": "09:00",
+          "end_time": "16:30",
+          "timezone": "Asia/Taipei",
+          "ical_timed": true,
+          "start_utc": "2027-01-27T01:00:00Z",
+          "end_utc": "2027-01-27T08:30:00Z"
+        },
+        {
+          "date": "2027-01-28",
+          "topic": "Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.",
+          "start_time": "09:00",
+          "end_time": "16:30",
+          "timezone": "Asia/Taipei",
+          "ical_timed": true,
+          "start_utc": "2027-01-28T01:00:00Z",
+          "end_utc": "2027-01-28T08:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      }
+    },
+    {
+      "id": "CP1658-20270129-20270130-taichung-01-29",
+      "block": "Campamentos",
+      "title": "Dr. Sparks · Flight Winter Camp · Taichung University of Science and Technology · 2027-01-29–2027-01-30",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "Taichung University of Science and Technology",
+      "start": "2027-01-29",
+      "end": "2027-01-30",
+      "period": "11 turnos de dos días coinciden entre las páginas inglesa y china. Tainan se indica en una ficha separada de verificación.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Grados 1–6. También se admite a estudiantes de secundaria según las condiciones de la organización.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.",
+      "language": "Enseñanza en inglés con aclaraciones breves en chino ocasionalmente. Los asistentes ayudan con las actividades.",
+      "cost": "2027 · TWD 7990 por menor durante 2 días. Hasta el 16 de noviembre de 2026 la página inglesa muestra TWD 6240 y la china TWD 6490. Confirmar el precio aplicable antes de pagar. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "source": "https://www.sparkleandshinekids.com/",
+      "references": [
+        {
+          "url": "https://www.sparkleandshinekids.com/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://zh.sparkleandshinekids.com/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://www.sparkleandshinekids.com/2027wintercamp-faq",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Adecuado si se confirma grado escolar y plaza. Oscar: Confirmar equivalencia al grado 1. Las preguntas frecuentes prevén una excepción para preescolar con buen inglés y presencia de un progenitor todo el día. Confirmar que aplica al turno. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "science",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Enseñanza en inglés con aclaraciones breves en chino ocasionalmente. Los asistentes ayudan con las actividades.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "dr-sparks-flight-winter-2027",
+      "camp_programme_id": "CP1658",
+      "sessions": [
+        {
+          "date": "2027-01-29",
+          "topic": "Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.",
+          "start_time": "09:00",
+          "end_time": "16:30",
+          "timezone": "Asia/Taipei",
+          "ical_timed": true,
+          "start_utc": "2027-01-29T01:00:00Z",
+          "end_utc": "2027-01-29T08:30:00Z"
+        },
+        {
+          "date": "2027-01-30",
+          "topic": "Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.",
+          "start_time": "09:00",
+          "end_time": "16:30",
+          "timezone": "Asia/Taipei",
+          "ical_timed": true,
+          "start_utc": "2027-01-30T01:00:00Z",
+          "end_utc": "2027-01-30T08:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      }
+    },
+    {
+      "id": "CP1658-20270201-20270202-hsinchu-02-01",
+      "block": "Campamentos",
+      "title": "Dr. Sparks · Flight Winter Camp · Hsinchu · Shu-Guang Girls’ High School · 2027-02-01–2027-02-02",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "Hsinchu · Shu-Guang Girls’ High School",
+      "start": "2027-02-01",
+      "end": "2027-02-02",
+      "period": "11 turnos de dos días coinciden entre las páginas inglesa y china. Tainan se indica en una ficha separada de verificación.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Grados 1–6. También se admite a estudiantes de secundaria según las condiciones de la organización.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.",
+      "language": "Enseñanza en inglés con aclaraciones breves en chino ocasionalmente. Los asistentes ayudan con las actividades.",
+      "cost": "2027 · TWD 7990 por menor durante 2 días. Hasta el 16 de noviembre de 2026 la página inglesa muestra TWD 6240 y la china TWD 6490. Confirmar el precio aplicable antes de pagar. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "source": "https://www.sparkleandshinekids.com/",
+      "references": [
+        {
+          "url": "https://www.sparkleandshinekids.com/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://zh.sparkleandshinekids.com/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://www.sparkleandshinekids.com/2027wintercamp-faq",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Adecuado si se confirma grado escolar y plaza. Oscar: Confirmar equivalencia al grado 1. Las preguntas frecuentes prevén una excepción para preescolar con buen inglés y presencia de un progenitor todo el día. Confirmar que aplica al turno. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "science",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Enseñanza en inglés con aclaraciones breves en chino ocasionalmente. Los asistentes ayudan con las actividades.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "dr-sparks-flight-winter-2027",
+      "camp_programme_id": "CP1658",
+      "sessions": [
+        {
+          "date": "2027-02-01",
+          "topic": "Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.",
+          "start_time": "09:00",
+          "end_time": "16:30",
+          "timezone": "Asia/Taipei",
+          "ical_timed": true,
+          "start_utc": "2027-02-01T01:00:00Z",
+          "end_utc": "2027-02-01T08:30:00Z"
+        },
+        {
+          "date": "2027-02-02",
+          "topic": "Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.",
+          "start_time": "09:00",
+          "end_time": "16:30",
+          "timezone": "Asia/Taipei",
+          "ical_timed": true,
+          "start_utc": "2027-02-02T01:00:00Z",
+          "end_utc": "2027-02-02T08:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      }
+    },
+    {
+      "id": "CP1658-20270201-20270202-kaohsiung-02-01",
+      "block": "Campamentos",
+      "title": "Dr. Sparks · Flight Winter Camp · Kaohsiung · St. Dominic Catholic High School · 2027-02-01–2027-02-02",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "Kaohsiung · St. Dominic Catholic High School",
+      "start": "2027-02-01",
+      "end": "2027-02-02",
+      "period": "11 turnos de dos días coinciden entre las páginas inglesa y china. Tainan se indica en una ficha separada de verificación.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Grados 1–6. También se admite a estudiantes de secundaria según las condiciones de la organización.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.",
+      "language": "Enseñanza en inglés con aclaraciones breves en chino ocasionalmente. Los asistentes ayudan con las actividades.",
+      "cost": "2027 · TWD 7990 por menor durante 2 días. Hasta el 16 de noviembre de 2026 la página inglesa muestra TWD 6240 y la china TWD 6490. Confirmar el precio aplicable antes de pagar. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "source": "https://www.sparkleandshinekids.com/",
+      "references": [
+        {
+          "url": "https://www.sparkleandshinekids.com/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://zh.sparkleandshinekids.com/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://www.sparkleandshinekids.com/2027wintercamp-faq",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Adecuado si se confirma grado escolar y plaza. Oscar: Confirmar equivalencia al grado 1. Las preguntas frecuentes prevén una excepción para preescolar con buen inglés y presencia de un progenitor todo el día. Confirmar que aplica al turno. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "science",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Enseñanza en inglés con aclaraciones breves en chino ocasionalmente. Los asistentes ayudan con las actividades.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "dr-sparks-flight-winter-2027",
+      "camp_programme_id": "CP1658",
+      "sessions": [
+        {
+          "date": "2027-02-01",
+          "topic": "Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.",
+          "start_time": "09:00",
+          "end_time": "16:30",
+          "timezone": "Asia/Taipei",
+          "ical_timed": true,
+          "start_utc": "2027-02-01T01:00:00Z",
+          "end_utc": "2027-02-01T08:30:00Z"
+        },
+        {
+          "date": "2027-02-02",
+          "topic": "Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.",
+          "start_time": "09:00",
+          "end_time": "16:30",
+          "timezone": "Asia/Taipei",
+          "ical_timed": true,
+          "start_utc": "2027-02-02T01:00:00Z",
+          "end_utc": "2027-02-02T08:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
       }
     }
   ]

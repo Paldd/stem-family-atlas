@@ -63974,6 +63974,278 @@ Limitaciones: Matvey: Condicional si ya ha cumplido 10 años al comenzar. Oscar:
 Fuente: https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Video%20Game%20Design%20Camps/Minecraft%20Modding%20Camp/Basel%20%7C%20TechLabs%20ELYS/Camp.ed.468b2644d3b3_7789837489.BS%20%20MCreator%20Minecraft%20Modding%20Camp%20%20Age%2010-16%20%20Feb%2015-19
 Se ha comprobado: 2026-11-07
 
+### CP1658-20270121-20270122-taipei-jinou-01-21 · Dr. Sparks · Flight Winter Camp · Taipei · Jinou Girls High School · 2027-01-21–2027-01-22
+
+Lugar: Taiwán · Taipei · Jinou Girls La escuela secundaria
+Fecha: 2027-01-21 国 2027-01-22
+edad: Grados 1–6. También se admite a estudiantes de secundaria según las condiciones de la organización.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Enseñanza en inglés con aclaraciones breves en chino ocasionalmente. Los asistentes ayudan con las actividades.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · TWD 7990 por menor durante 2 días. Hasta el 16 de noviembre de 2026 la página inglesa muestra TWD 6240 y la china TWD 6490. Confirmar el precio aplicable antes de pagar. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Adecuado si se confirma grado escolar y plaza. Oscar: Confirmar equivalencia al grado 1. Las preguntas frecuentes prevén una excepción para preescolar con buen inglés y presencia de un progenitor todo el día. Confirmar que aplica al turno. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.sparkleandshinekids.com/
+Se ha comprobado: 2026-11-07
+
+### CP1658-20270125-20270126-taipei-jinou-01-25 · Dr. Sparks · Flight Winter Camp · Taipei · Jinou Girls High School · 2027-01-25–2027-01-26
+
+Lugar: Taiwán · Taipei · Jinou Girls La escuela secundaria
+Fecha: 2027-01-25 — 2027-01-26
+edad: Grados 1–6. También se admite a estudiantes de secundaria según las condiciones de la organización.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Enseñanza en inglés con aclaraciones breves en chino ocasionalmente. Los asistentes ayudan con las actividades.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · TWD 7990 por menor durante 2 días. Hasta el 16 de noviembre de 2026 la página inglesa muestra TWD 6240 y la china TWD 6490. Confirmar el precio aplicable antes de pagar. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Adecuado si se confirma grado escolar y plaza. Oscar: Confirmar equivalencia al grado 1. Las preguntas frecuentes prevén una excepción para preescolar con buen inglés y presencia de un progenitor todo el día. Confirmar que aplica al turno. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.sparkleandshinekids.com/
+Se ha comprobado: 2026-11-07
+
+### CP1658-20270127-20270128-taipei-jinou-01-27 · Dr. Sparks · Flight Winter Camp · Taipei · Jinou Girls High School · 2027-01-27–2027-01-28
+
+Lugar: Taiwán · Taipei · Jinou Girls La escuela secundaria
+Fecha: 2027-01-27 — 2027-01-28
+edad: Grados 1–6. También se admite a estudiantes de secundaria según las condiciones de la organización.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Enseñanza en inglés con aclaraciones breves en chino ocasionalmente. Los asistentes ayudan con las actividades.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · TWD 7990 por menor durante 2 días. Hasta el 16 de noviembre de 2026 la página inglesa muestra TWD 6240 y la china TWD 6490. Confirmar el precio aplicable antes de pagar. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Adecuado si se confirma grado escolar y plaza. Oscar: Confirmar equivalencia al grado 1. Las preguntas frecuentes prevén una excepción para preescolar con buen inglés y presencia de un progenitor todo el día. Confirmar que aplica al turno. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.sparkleandshinekids.com/
+Se ha comprobado: 2026-11-07
+
+### CP1658-20270201-20270202-taipei-jinou-02-01 · Dr. Sparks · Flight Winter Camp · Taipei · Jinou Girls High School · 2027-02-01–2027-02-02
+
+Lugar: Taiwán · Taipei · Jinou Girls La escuela secundaria
+Fecha: 2027-02-01 — 2027-02-02
+edad: Grados 1–6. También se admite a estudiantes de secundaria según las condiciones de la organización.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Enseñanza en inglés con aclaraciones breves en chino ocasionalmente. Los asistentes ayudan con las actividades.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · TWD 7990 por menor durante 2 días. Hasta el 16 de noviembre de 2026 la página inglesa muestra TWD 6240 y la china TWD 6490. Confirmar el precio aplicable antes de pagar. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Adecuado si se confirma grado escolar y plaza. Oscar: Confirmar equivalencia al grado 1. Las preguntas frecuentes prevén una excepción para preescolar con buen inglés y presencia de un progenitor todo el día. Confirmar que aplica al turno. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.sparkleandshinekids.com/
+Se ha comprobado: 2026-11-07
+
+### CP1658-20270129-20270130-taipei-oops-01-29 · Dr. Sparks · Flight Winter Camp · Taipei · OOPS Creative Park · 2027-01-29–2027-01-30
+
+Lugar: Taiwán · Taipei · OOPS Creative Park
+Fecha: 2027-01-29 - 2027-01-30
+edad: Grados 1–6. También se admite a estudiantes de secundaria según las condiciones de la organización.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Enseñanza en inglés con aclaraciones breves en chino ocasionalmente. Los asistentes ayudan con las actividades.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · TWD 7990 por menor durante 2 días. Hasta el 16 de noviembre de 2026 la página inglesa muestra TWD 6240 y la china TWD 6490. Confirmar el precio aplicable antes de pagar. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Adecuado si se confirma grado escolar y plaza. Oscar: Confirmar equivalencia al grado 1. Las preguntas frecuentes prevén una excepción para preescolar con buen inglés y presencia de un progenitor todo el día. Confirmar que aplica al turno. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.sparkleandshinekids.com/
+Se ha comprobado: 2026-11-07
+
+### CP1658-20270121-20270122-taichung-01-21 · Dr. Sparks · Flight Winter Camp · Taichung University of Science and Technology · 2027-01-21–2027-01-22
+
+lugar: Taiwán · Taichung University of Science and Technology
+Fecha: 2027-01-21 国 2027-01-22
+edad: Grados 1–6. También se admite a estudiantes de secundaria según las condiciones de la organización.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Enseñanza en inglés con aclaraciones breves en chino ocasionalmente. Los asistentes ayudan con las actividades.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · TWD 7990 por menor durante 2 días. Hasta el 16 de noviembre de 2026 la página inglesa muestra TWD 6240 y la china TWD 6490. Confirmar el precio aplicable antes de pagar. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Adecuado si se confirma grado escolar y plaza. Oscar: Confirmar equivalencia al grado 1. Las preguntas frecuentes prevén una excepción para preescolar con buen inglés y presencia de un progenitor todo el día. Confirmar que aplica al turno. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.sparkleandshinekids.com/
+Se ha comprobado: 2026-11-07
+
+### CP1658-20270125-20270126-taichung-01-25 · Dr. Sparks · Flight Winter Camp · Taichung University of Science and Technology · 2027-01-25–2027-01-26
+
+lugar: Taiwán · Taichung University of Science and Technology
+Fecha: 2027-01-25 — 2027-01-26
+edad: Grados 1–6. También se admite a estudiantes de secundaria según las condiciones de la organización.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Enseñanza en inglés con aclaraciones breves en chino ocasionalmente. Los asistentes ayudan con las actividades.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · TWD 7990 por menor durante 2 días. Hasta el 16 de noviembre de 2026 la página inglesa muestra TWD 6240 y la china TWD 6490. Confirmar el precio aplicable antes de pagar. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Adecuado si se confirma grado escolar y plaza. Oscar: Confirmar equivalencia al grado 1. Las preguntas frecuentes prevén una excepción para preescolar con buen inglés y presencia de un progenitor todo el día. Confirmar que aplica al turno. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.sparkleandshinekids.com/
+Se ha comprobado: 2026-11-07
+
+### CP1658-20270127-20270128-taichung-01-27 · Dr. Sparks · Flight Winter Camp · Taichung University of Science and Technology · 2027-01-27–2027-01-28
+
+lugar: Taiwán · Taichung University of Science and Technology
+Fecha: 2027-01-27 — 2027-01-28
+edad: Grados 1–6. También se admite a estudiantes de secundaria según las condiciones de la organización.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Enseñanza en inglés con aclaraciones breves en chino ocasionalmente. Los asistentes ayudan con las actividades.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · TWD 7990 por menor durante 2 días. Hasta el 16 de noviembre de 2026 la página inglesa muestra TWD 6240 y la china TWD 6490. Confirmar el precio aplicable antes de pagar. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Adecuado si se confirma grado escolar y plaza. Oscar: Confirmar equivalencia al grado 1. Las preguntas frecuentes prevén una excepción para preescolar con buen inglés y presencia de un progenitor todo el día. Confirmar que aplica al turno. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.sparkleandshinekids.com/
+Se ha comprobado: 2026-11-07
+
+### CP1658-20270129-20270130-taichung-01-29 · Dr. Sparks · Flight Winter Camp · Taichung University of Science and Technology · 2027-01-29–2027-01-30
+
+lugar: Taiwán · Taichung University of Science and Technology
+Fecha: 2027-01-29 - 2027-01-30
+edad: Grados 1–6. También se admite a estudiantes de secundaria según las condiciones de la organización.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Enseñanza en inglés con aclaraciones breves en chino ocasionalmente. Los asistentes ayudan con las actividades.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · TWD 7990 por menor durante 2 días. Hasta el 16 de noviembre de 2026 la página inglesa muestra TWD 6240 y la china TWD 6490. Confirmar el precio aplicable antes de pagar. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Adecuado si se confirma grado escolar y plaza. Oscar: Confirmar equivalencia al grado 1. Las preguntas frecuentes prevén una excepción para preescolar con buen inglés y presencia de un progenitor todo el día. Confirmar que aplica al turno. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.sparkleandshinekids.com/
+Se ha comprobado: 2026-11-07
+
+### CP1658-20270201-20270202-hsinchu-02-01 · Dr. Sparks · Flight Winter Camp · Hsinchu · Shu-Guang Girls’ High School · 2027-02-01–2027-02-02
+
+lugar: Taiwán · Hsinchu · Shu-Guang Girls’ La escuela secundaria
+Fecha: 2027-02-01 — 2027-02-02
+edad: Grados 1–6. También se admite a estudiantes de secundaria según las condiciones de la organización.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Enseñanza en inglés con aclaraciones breves en chino ocasionalmente. Los asistentes ayudan con las actividades.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · TWD 7990 por menor durante 2 días. Hasta el 16 de noviembre de 2026 la página inglesa muestra TWD 6240 y la china TWD 6490. Confirmar el precio aplicable antes de pagar. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Adecuado si se confirma grado escolar y plaza. Oscar: Confirmar equivalencia al grado 1. Las preguntas frecuentes prevén una excepción para preescolar con buen inglés y presencia de un progenitor todo el día. Confirmar que aplica al turno. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.sparkleandshinekids.com/
+Se ha comprobado: 2026-11-07
+
+### CP1658-20270201-20270202-kaohsiung-02-01 · Dr. Sparks · Flight Winter Camp · Kaohsiung · St. Dominic Catholic High School · 2027-02-01–2027-02-02
+
+lugar: Taiwán · Kaohsiung · St. Dominic Catholic La escuela secundaria
+Fecha: 2027-02-01 — 2027-02-02
+edad: Grados 1–6. También se admite a estudiantes de secundaria según las condiciones de la organización.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Enseñanza en inglés con aclaraciones breves en chino ocasionalmente. Los asistentes ayudan con las actividades.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · TWD 7990 por menor durante 2 días. Hasta el 16 de noviembre de 2026 la página inglesa muestra TWD 6240 y la china TWD 6490. Confirmar el precio aplicable antes de pagar. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Adecuado si se confirma grado escolar y plaza. Oscar: Confirmar equivalencia al grado 1. Las preguntas frecuentes prevén una excepción para preescolar con buen inglés y presencia de un progenitor todo el día. Confirmar que aplica al turno. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.sparkleandshinekids.com/
+Se ha comprobado: 2026-11-07
+
+### CP1660-20270315-20270319 · BrainSTEM · Little Brains · Little Brains · 2027-03-15–2027-03-19
+
+lugar: Canadá · Marine Drive Learning Centre · 730 Marine Dr · North Vancouver
+Fecha: 2027-03-15 — 2027-03-19
+Edad: 4–6
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Sitio en inglés. La organización no indica expresamente el idioma de enseñanza del turno concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 660 por menor para jornada completa durante todo el turno o CAD 300 para media jornada durante todo el turno. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Edad 4–6 años. Confirmar que la edad de Oscar al primer día corresponde al grupo menor. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.brainstemlearning.ca/programs/spring-camp
+Se ha comprobado: 2026-11-07
+
+### CP1661-20270315-20270319 · BrainSTEM · Specialists · Specialists · 2027-03-15–2027-03-19
+
+lugar: Canadá · Marine Drive Learning Centre · 730 Marine Dr · North Vancouver
+Fecha: 2027-03-15 — 2027-03-19
+Edad: 7–11
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Sitio en inglés. La organización no indica expresamente el idioma de enseñanza del turno concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 660 por menor para jornada completa durante todo el turno o CAD 300 para media jornada durante todo el turno. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Edad 7–11 años. Comprobar fecha de nacimiento al comienzo si Oscar ya tendrá 7 años. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.brainstemlearning.ca/programs/spring-camp
+Se ha comprobado: 2026-11-07
+
+### CP1662-20270322-20270325 · BrainSTEM · Little Brains · Little Brains · 2027-03-22–2027-03-25
+
+lugar: Canadá · Marine Drive Learning Centre · 730 Marine Dr · North Vancouver
+Fecha: 2027-03-22 — 2027-03-25
+Edad: 4–6
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Sitio en inglés. La organización no indica expresamente el idioma de enseñanza del turno concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 528 por menor para jornada completa durante todo el turno o CAD 240 para media jornada durante todo el turno. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Edad 4–6 años. Confirmar que la edad de Oscar al primer día corresponde al grupo menor. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.brainstemlearning.ca/programs/spring-camp
+Se ha comprobado: 2026-11-07
+
+### CP1663-20270322-20270325 · BrainSTEM · Specialists · Specialists · 2027-03-22–2027-03-25
+
+lugar: Canadá · Marine Drive Learning Centre · 730 Marine Dr · North Vancouver
+Fecha: 2027-03-22 — 2027-03-25
+Edad: 7–11
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Sitio en inglés. La organización no indica expresamente el idioma de enseñanza del turno concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 528 por menor para jornada completa durante todo el turno o CAD 240 para media jornada durante todo el turno. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Edad 7–11 años. Comprobar fecha de nacimiento al comienzo si Oscar ya tendrá 7 años. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.brainstemlearning.ca/programs/spring-camp
+Se ha comprobado: 2026-11-07
+
+### CP1665-20270315-20270319 · Holland Bloorview · Robotics March Break · Taller diurno. · 2027-03-15–2027-03-19
+
+lugar: Canadá · Holland Bloorview · Toronto
+Fecha: 2027-03-15 — 2027-03-19
+edad: El encabezado indica 9–14 años y las condiciones 8–14 o preparación comparable en marzo de 2027. Se exige evaluación individual.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Sitio en inglés. La organización no indica expresamente el idioma de enseñanza del turno concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 475 más HST. La ficha no indica el importe del impuesto. · suplementos y condiciones en el dossier
+Acceso: Evaluación inicial. Para familias nuevas hay una entrevista obligatoria de 45 minutos. El centro prevé enviar confirmaciones el 18 de diciembre de 2026.
+Limitaciones: Matvey: Evaluación inicial. Para familias nuevas hay una entrevista obligatoria de 45 minutos. El centro prevé enviar confirmaciones el 18 de diciembre de 2026. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://hollandbloorview.ca/services/programs-services/first-robotics-program-march-break-2025
+Se ha comprobado: 2026-11-07
+
+### CP1666-20270315-20270319 · Scuola Robotics · FLL March Break · Taller diurno. · 2027-03-15–2027-03-19
+
+lugar: Canadá · Earl of March Secondary School · 4 The Parkway · Kanata
+Fecha: 2027-03-15 — 2027-03-19
+edad: Grados 4–7 durante el curso 2026–2027. La línea de admisión en la página March Break dice campamento de verano. Confirmar aplicabilidad.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Sitio en inglés. La organización no indica expresamente el idioma de enseñanza del turno concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 329 en promoción, impuestos incluidos. Cuidado hasta las 17:00 por CAD 25 adicionales para los 5 días. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Grados 4–7 durante el curso 2026–2027. La línea de admisión en la página March Break dice campamento de verano. Confirmar aplicabilidad. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.scuolarobotics.ca/march-break-camp
+Se ha comprobado: 2026-11-07
+
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
 
 lugar: Letonia · EIS Campus · Piņķi

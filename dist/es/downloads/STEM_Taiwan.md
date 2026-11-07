@@ -282,11 +282,11 @@ Edad: zona pública B2C; no se ha confirmado la admisión específica de los ni�
 Matvey: Confidente de autorización
 Oscar: Confidentemente a confirmar la admisión
 Idioma: No se ha confirmado el idioma de la actividad específica
-Entrada: Separado B2C ticket; Confirmar la entrada de niños. B2B / APGS 21–22 enero — Otras categorías.
+Acceso: Ruta familiar: B2C del 21 al 24 de enero de 2027. B2B y Asia Pacific Game Summit del 21 al 22 de enero con acceso separado. Confirmar tarifas 2027 y acceso infantil por zonas.
 Costo: Tarifa de la opción seleccionada
 Limitaciones: Días públicos del 21 al 24 de enero confirmados; las normas de edad de 2023 u otros programas de Taiwán no se han aplazado hasta 2027.
 Fuente: https://tgs.tca.org.tw/?p=event_info_e
-Comprobado: 2026-09-30
+Se ha comprobado: 2026-11-07
 
 ### C779 · MARC Taiwan · TM Elementary · 2027
 
@@ -308,11 +308,11 @@ Edad: Niveles inferiores y grupos escolares; año de nacimiento exacto/clase loc
 Matwey: Condicionalmente ________________ confirmar clase y admisión extranjera; año de nacimiento 2017
 Óscar: Con condición de confirmar la clase y la admisión extranjera; año de nacimiento 2020
 Idioma: No se ha confirmado el idioma de la ocupación/juez
-Entrada: Seleccione la categoría, obtenga la confirmación de la autorización y el idioma extranjeros; compruebe los lugares antes de pagar.
+Acceso: La organización indica inscripción cerrada. Las condiciones de entrada de espectadores no están publicadas en la página.
 Costo: Aclarar el costo actual
 Limitaciones: Acceso a los extranjeros, número de jugadores, costo, deadline y en el sistema judicial no se confirma. El nombre del certificado de futuro internacional no lo convierte en una victoria internacional. La promesa local de la GCER USA July 2027 no se ha conciliado con el KIPR; no se ha prometido un cupo automático/viaje pagado.
 Fuente: https://junior-botball-challenge-taiwan.github.io/
-Comprobado: 2026-10-01
+Se ha comprobado: 2026-11-07
 
 ### C780 · TIRT 2026 · Autonomous Vehicle Maker · Open Elementary
 
@@ -677,6 +677,45 @@ Precio: Tarifa de participación, robot kit, mentor, viaje y alojamiento sin con
 Limitaciones: Años de nacimiento 2017 / 2020 conocidos; fechas exactas y cursos sin establecer. Verificar admisión del equipo, idioma, plazas y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
 Fuente: https://drive.google.com/file/d/16hLampOpxPmeO-bzCKjPGn8gcfiA6wHh/view
 Se ha comprobado: 2026-11-05
+
+### C3151 · World GreenMech 2027 · Taoyuan
+
+Fecha: 2027-08-19 — 2027-08-19
+edad: Desde el último curso de preescolar hasta secundaria superior, según categoría.
+Matvey: Condicional. Confirmar categoría, grado y vía de admisión para equipos del extranjero.
+Oscar: Condicional. Confirmar categoría, grado y vía de admisión para equipos del extranjero.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: La final taiwanesa coincide con la mundial. Recomendaciones regionales hasta el 14 de junio, inscripción de equipos recomendados del 22 al 24 de junio, lista de admitidos el 28 de junio de 2027. Confirmar la vía del equipo extranjero con su socio.
+Precio: Precio sin publicar.
+Restricciones: Confirmar con el socio los criterios de clasificación del equipo extranjero y las reglas de la categoría.
+Fuente: https://worldgreenmech.com/tw/tw_sitenews_detail.asp?id=20260915001
+Se ha comprobado: 2026-11-07
+
+### C3152 · Minoan Robotsports Competition · Taiwan National 2027
+
+Fecha: Temporada 2027. Día concreto pendiente de anuncio.
+edad: Hay división de primaria. Límite, plataforma y composición dependen de la disciplina.
+Matvey: Condicional. Confirmar categoría, grado y vía de admisión para equipos del extranjero.
+Oscar: Condicional. Confirmar categoría, grado y vía de admisión para equipos del extranjero.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: Fechas e inicio de inscripciones de la etapa taiwanesa 2027 sin publicar. La fecha de la final en Creta corresponde a otro evento.
+Precio: Precio sin publicar.
+Restricciones: Fecha concreta, admisión internacional y tarifa aún sin confirmar.
+Fuente: https://minoan-robotsports-competition-taiwan.github.io/index.html
+Se ha comprobado: 2026-11-07
+
+### E326 · TADTE 2027 · Taipei Aerospace & Defense Technology Exhibition
+
+Fecha: 2027-09-25 — 2027-09-25
+edad: Público el 25 de septiembre, de 09:00 a 17:00. El adulto obtiene QR tras el formulario en la entrada. Menores de 12 años entran con un adulto sin formulario separado.
+Matvey: Sí para visita familiar siguiendo las reglas de acceso.
+Oscar: Sí para visita familiar siguiendo las reglas de acceso.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: Público el 25 de septiembre, de 09:00 a 17:00. El adulto obtiene QR tras el formulario en la entrada. Menores de 12 años entran con un adulto sin formulario separado.
+Precio: Precio sin publicar.
+Restricciones: Acceso familiar solo el 25 de septiembre. Las condiciones para profesionales se publican por separado.
+Fuente: https://www.tadte.com.tw/zh-tw/menu/9BC8A4C92D674714D0636733C6861689/info.html
+Se ha comprobado: 2026-11-07
 
 ### CP025-20270705-20270710 · Camp Taiwan · Verano 2027 · El juego aún no está abierto. · 2027-07-05–2027-07-10
 
@@ -2808,6 +2847,149 @@ Acceso: Solicitar a nombre del menor en la cuenta del museo. Una cuenta admite v
 Precio: 2027 · 3200 TWD por turno. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Confirmar grado actual y requisito de ingreso al grado indicado. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: Devolución ordinaria del 90% con 8 días o más, 70% con 7–1 días y 0% el día de inicio. Reglas especiales por enfermedad y cancelación del museo. Pago: Tras confirmación de solicitud, pagar en 5 días. En lista de espera rige el plazo del aviso.
 Fuente: https://serv.nstm.gov.tw/act_detail?act_no=0000015445&act_seq=1
+Se ha comprobado: 2026-11-07
+
+### CP1658-20270121-20270122-taipei-jinou-01-21 · Dr. Sparks · Flight Winter Camp · Taipei · Jinou Girls High School · 2027-01-21–2027-01-22
+
+Fecha: 2027-01-21 国 2027-01-22
+edad: Grados 1–6. También se admite a estudiantes de secundaria según las condiciones de la organización.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Enseñanza en inglés con aclaraciones breves en chino ocasionalmente. Los asistentes ayudan con las actividades.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · TWD 7990 por menor durante 2 días. Hasta el 16 de noviembre de 2026 la página inglesa muestra TWD 6240 y la china TWD 6490. Confirmar el precio aplicable antes de pagar. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Adecuado si se confirma grado escolar y plaza. Oscar: Confirmar equivalencia al grado 1. Las preguntas frecuentes prevén una excepción para preescolar con buen inglés y presencia de un progenitor todo el día. Confirmar que aplica al turno. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.sparkleandshinekids.com/
+Se ha comprobado: 2026-11-07
+
+### CP1658-20270125-20270126-taipei-jinou-01-25 · Dr. Sparks · Flight Winter Camp · Taipei · Jinou Girls High School · 2027-01-25–2027-01-26
+
+Fecha: 2027-01-25 — 2027-01-26
+edad: Grados 1–6. También se admite a estudiantes de secundaria según las condiciones de la organización.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Enseñanza en inglés con aclaraciones breves en chino ocasionalmente. Los asistentes ayudan con las actividades.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · TWD 7990 por menor durante 2 días. Hasta el 16 de noviembre de 2026 la página inglesa muestra TWD 6240 y la china TWD 6490. Confirmar el precio aplicable antes de pagar. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Adecuado si se confirma grado escolar y plaza. Oscar: Confirmar equivalencia al grado 1. Las preguntas frecuentes prevén una excepción para preescolar con buen inglés y presencia de un progenitor todo el día. Confirmar que aplica al turno. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.sparkleandshinekids.com/
+Se ha comprobado: 2026-11-07
+
+### CP1658-20270127-20270128-taipei-jinou-01-27 · Dr. Sparks · Flight Winter Camp · Taipei · Jinou Girls High School · 2027-01-27–2027-01-28
+
+Fecha: 2027-01-27 — 2027-01-28
+edad: Grados 1–6. También se admite a estudiantes de secundaria según las condiciones de la organización.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Enseñanza en inglés con aclaraciones breves en chino ocasionalmente. Los asistentes ayudan con las actividades.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · TWD 7990 por menor durante 2 días. Hasta el 16 de noviembre de 2026 la página inglesa muestra TWD 6240 y la china TWD 6490. Confirmar el precio aplicable antes de pagar. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Adecuado si se confirma grado escolar y plaza. Oscar: Confirmar equivalencia al grado 1. Las preguntas frecuentes prevén una excepción para preescolar con buen inglés y presencia de un progenitor todo el día. Confirmar que aplica al turno. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.sparkleandshinekids.com/
+Se ha comprobado: 2026-11-07
+
+### CP1658-20270201-20270202-taipei-jinou-02-01 · Dr. Sparks · Flight Winter Camp · Taipei · Jinou Girls High School · 2027-02-01–2027-02-02
+
+Fecha: 2027-02-01 — 2027-02-02
+edad: Grados 1–6. También se admite a estudiantes de secundaria según las condiciones de la organización.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Enseñanza en inglés con aclaraciones breves en chino ocasionalmente. Los asistentes ayudan con las actividades.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · TWD 7990 por menor durante 2 días. Hasta el 16 de noviembre de 2026 la página inglesa muestra TWD 6240 y la china TWD 6490. Confirmar el precio aplicable antes de pagar. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Adecuado si se confirma grado escolar y plaza. Oscar: Confirmar equivalencia al grado 1. Las preguntas frecuentes prevén una excepción para preescolar con buen inglés y presencia de un progenitor todo el día. Confirmar que aplica al turno. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.sparkleandshinekids.com/
+Se ha comprobado: 2026-11-07
+
+### CP1658-20270129-20270130-taipei-oops-01-29 · Dr. Sparks · Flight Winter Camp · Taipei · OOPS Creative Park · 2027-01-29–2027-01-30
+
+Fecha: 2027-01-29 - 2027-01-30
+edad: Grados 1–6. También se admite a estudiantes de secundaria según las condiciones de la organización.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Enseñanza en inglés con aclaraciones breves en chino ocasionalmente. Los asistentes ayudan con las actividades.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · TWD 7990 por menor durante 2 días. Hasta el 16 de noviembre de 2026 la página inglesa muestra TWD 6240 y la china TWD 6490. Confirmar el precio aplicable antes de pagar. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Adecuado si se confirma grado escolar y plaza. Oscar: Confirmar equivalencia al grado 1. Las preguntas frecuentes prevén una excepción para preescolar con buen inglés y presencia de un progenitor todo el día. Confirmar que aplica al turno. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.sparkleandshinekids.com/
+Se ha comprobado: 2026-11-07
+
+### CP1658-20270121-20270122-taichung-01-21 · Dr. Sparks · Flight Winter Camp · Taichung University of Science and Technology · 2027-01-21–2027-01-22
+
+Fecha: 2027-01-21 国 2027-01-22
+edad: Grados 1–6. También se admite a estudiantes de secundaria según las condiciones de la organización.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Enseñanza en inglés con aclaraciones breves en chino ocasionalmente. Los asistentes ayudan con las actividades.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · TWD 7990 por menor durante 2 días. Hasta el 16 de noviembre de 2026 la página inglesa muestra TWD 6240 y la china TWD 6490. Confirmar el precio aplicable antes de pagar. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Adecuado si se confirma grado escolar y plaza. Oscar: Confirmar equivalencia al grado 1. Las preguntas frecuentes prevén una excepción para preescolar con buen inglés y presencia de un progenitor todo el día. Confirmar que aplica al turno. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.sparkleandshinekids.com/
+Se ha comprobado: 2026-11-07
+
+### CP1658-20270125-20270126-taichung-01-25 · Dr. Sparks · Flight Winter Camp · Taichung University of Science and Technology · 2027-01-25–2027-01-26
+
+Fecha: 2027-01-25 — 2027-01-26
+edad: Grados 1–6. También se admite a estudiantes de secundaria según las condiciones de la organización.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Enseñanza en inglés con aclaraciones breves en chino ocasionalmente. Los asistentes ayudan con las actividades.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · TWD 7990 por menor durante 2 días. Hasta el 16 de noviembre de 2026 la página inglesa muestra TWD 6240 y la china TWD 6490. Confirmar el precio aplicable antes de pagar. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Adecuado si se confirma grado escolar y plaza. Oscar: Confirmar equivalencia al grado 1. Las preguntas frecuentes prevén una excepción para preescolar con buen inglés y presencia de un progenitor todo el día. Confirmar que aplica al turno. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.sparkleandshinekids.com/
+Se ha comprobado: 2026-11-07
+
+### CP1658-20270127-20270128-taichung-01-27 · Dr. Sparks · Flight Winter Camp · Taichung University of Science and Technology · 2027-01-27–2027-01-28
+
+Fecha: 2027-01-27 — 2027-01-28
+edad: Grados 1–6. También se admite a estudiantes de secundaria según las condiciones de la organización.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Enseñanza en inglés con aclaraciones breves en chino ocasionalmente. Los asistentes ayudan con las actividades.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · TWD 7990 por menor durante 2 días. Hasta el 16 de noviembre de 2026 la página inglesa muestra TWD 6240 y la china TWD 6490. Confirmar el precio aplicable antes de pagar. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Adecuado si se confirma grado escolar y plaza. Oscar: Confirmar equivalencia al grado 1. Las preguntas frecuentes prevén una excepción para preescolar con buen inglés y presencia de un progenitor todo el día. Confirmar que aplica al turno. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.sparkleandshinekids.com/
+Se ha comprobado: 2026-11-07
+
+### CP1658-20270129-20270130-taichung-01-29 · Dr. Sparks · Flight Winter Camp · Taichung University of Science and Technology · 2027-01-29–2027-01-30
+
+Fecha: 2027-01-29 - 2027-01-30
+edad: Grados 1–6. También se admite a estudiantes de secundaria según las condiciones de la organización.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Enseñanza en inglés con aclaraciones breves en chino ocasionalmente. Los asistentes ayudan con las actividades.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · TWD 7990 por menor durante 2 días. Hasta el 16 de noviembre de 2026 la página inglesa muestra TWD 6240 y la china TWD 6490. Confirmar el precio aplicable antes de pagar. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Adecuado si se confirma grado escolar y plaza. Oscar: Confirmar equivalencia al grado 1. Las preguntas frecuentes prevén una excepción para preescolar con buen inglés y presencia de un progenitor todo el día. Confirmar que aplica al turno. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.sparkleandshinekids.com/
+Se ha comprobado: 2026-11-07
+
+### CP1658-20270201-20270202-hsinchu-02-01 · Dr. Sparks · Flight Winter Camp · Hsinchu · Shu-Guang Girls’ High School · 2027-02-01–2027-02-02
+
+Fecha: 2027-02-01 — 2027-02-02
+edad: Grados 1–6. También se admite a estudiantes de secundaria según las condiciones de la organización.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Enseñanza en inglés con aclaraciones breves en chino ocasionalmente. Los asistentes ayudan con las actividades.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · TWD 7990 por menor durante 2 días. Hasta el 16 de noviembre de 2026 la página inglesa muestra TWD 6240 y la china TWD 6490. Confirmar el precio aplicable antes de pagar. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Adecuado si se confirma grado escolar y plaza. Oscar: Confirmar equivalencia al grado 1. Las preguntas frecuentes prevén una excepción para preescolar con buen inglés y presencia de un progenitor todo el día. Confirmar que aplica al turno. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.sparkleandshinekids.com/
+Se ha comprobado: 2026-11-07
+
+### CP1658-20270201-20270202-kaohsiung-02-01 · Dr. Sparks · Flight Winter Camp · Kaohsiung · St. Dominic Catholic High School · 2027-02-01–2027-02-02
+
+Fecha: 2027-02-01 — 2027-02-02
+edad: Grados 1–6. También se admite a estudiantes de secundaria según las condiciones de la organización.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Enseñanza en inglés con aclaraciones breves en chino ocasionalmente. Los asistentes ayudan con las actividades.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · TWD 7990 por menor durante 2 días. Hasta el 16 de noviembre de 2026 la página inglesa muestra TWD 6240 y la china TWD 6490. Confirmar el precio aplicable antes de pagar. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Adecuado si se confirma grado escolar y plaza. Oscar: Confirmar equivalencia al grado 1. Las preguntas frecuentes prevén una excepción para preescolar con buen inglés y presencia de un progenitor todo el día. Confirmar que aplica al turno. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.sparkleandshinekids.com/
 Se ha comprobado: 2026-11-07
 
 ## ~ Comprobar de nuevo

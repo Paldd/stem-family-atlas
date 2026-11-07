@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 7537,
-    "competition_cards": 3141,
-    "event_cards": 322,
-    "camp_cards": 4074,
+    "cards": 7568,
+    "competition_cards": 3151,
+    "event_cards": 326,
+    "camp_cards": 4091,
     "league_profiles": 265,
-    "major_exhibition_cards": 234,
+    "major_exhibition_cards": 238,
     "vex_cards": 518,
     "countries_with_records": 158,
     "fully_audited_countries": 0
@@ -34,12 +34,12 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 2575,
+      "total": 2592,
       "countries_with_records": 23,
-      "competitions": 1434,
-      "events": 78,
-      "major_exhibitions": 41,
-      "camps": 1063,
+      "competitions": 1442,
+      "events": 81,
+      "major_exhibitions": 44,
+      "camps": 1069,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
     },
@@ -90,12 +90,12 @@
       "regions": [
         "Азия"
       ],
-      "total": 2232,
+      "total": 2246,
       "countries_with_records": 44,
-      "competitions": 750,
-      "events": 95,
-      "major_exhibitions": 83,
-      "camps": 1387,
+      "competitions": 752,
+      "events": 96,
+      "major_exhibitions": 84,
+      "camps": 1398,
       "status": "Частично исследовано",
       "remaining": "Добавлены India camp candidates и первые Pakistan / Bangladesh / Sri Lanka маршруты. Не все national qualifiers, языки и иностранный приём закрыты; другие страны Азии исследованы частично."
     },
@@ -9606,6 +9606,50 @@
       "new": false
     },
     {
+      "id": "E323",
+      "name": "FIRST LEGO League Victoria · Public Viewing",
+      "country": "Канада",
+      "region": "Северная Америка",
+      "start": "2027-01-17",
+      "end": "2027-01-17",
+      "visitor_policy": "family",
+      "source": "https://firstroboticsbc.org/event/fll-victoria-qualifying-tournament/",
+      "new": false
+    },
+    {
+      "id": "E324",
+      "name": "FAN EXPO Vancouver 2027 · Gaming",
+      "country": "Канада",
+      "region": "Северная Америка",
+      "start": "2027-02-13",
+      "end": "2027-02-15",
+      "visitor_policy": "family",
+      "source": "https://fanexpohq.com/fanexpovancouver/buy-tickets/",
+      "new": false
+    },
+    {
+      "id": "E325",
+      "name": "FAN EXPO Canada 2027 · Gaming",
+      "country": "Канада",
+      "region": "Северная Америка",
+      "start": "2027-08-26",
+      "end": "2027-08-29",
+      "visitor_policy": "family",
+      "source": "https://fanexpohq.com/fanexpocanada/",
+      "new": false
+    },
+    {
+      "id": "E326",
+      "name": "TADTE 2027 · Taipei Aerospace & Defense Technology Exhibition",
+      "country": "Тайвань",
+      "region": "Азия",
+      "start": "2027-09-25",
+      "end": "2027-09-25",
+      "visitor_policy": "family",
+      "source": "https://www.tadte.com.tw/zh-tw/menu/9BC8A4C92D674714D0636733C6861689/info.html",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -12023,14 +12067,14 @@
       }
     ],
     "counts": {
-      "records": 4074,
-      "holiday": 3800,
+      "records": 4091,
+      "holiday": 3817,
       "regular": 120,
       "self_paced_materials": 2,
       "boarding": 1026,
-      "en_es_instruction": 1269,
+      "en_es_instruction": 1280,
       "en_es_support": 12,
-      "family_instruction": 1269,
+      "family_instruction": 1280,
       "family_support": 12,
       "ru_instruction": 3,
       "language_lessons": 408,

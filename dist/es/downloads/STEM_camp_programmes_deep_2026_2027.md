@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-07. 1657 fichas en 92 países. Cada ficha indica las fechas de verificación de sus fuentes.
+Estado de la base: 2026-11-07. 1666 fichas en 92 países. Cada ficha indica las fechas de verificación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -127625,6 +127625,764 @@ Suiza · TechLabs ELYS · Elsässerstrasse 215 · Basel
 - [Página oficial del organizador](https://www.techlabs.ch/camps) · 2026-11-07
 
 - [Página oficial del organizador](https://app1.edoobox.com/TechLabs/) · 2026-11-07
+
+## CP1658 · Dr. Sparks · Flight Winter Camp
+
+Taiwán · Taipei · Taichung · Hsinchu · Kaohsiung
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados 1–6. También se admite a estudiantes de secundaria según las condiciones de la organización.
+
+**Idioma:** Enseñanza en inglés con aclaraciones breves en chino ocasionalmente. Los asistentes ayudan con las actividades.
+
+**Programa:** Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 11 turnos de dos días coinciden entre las páginas inglesa y china. Tainan se indica en una ficha separada de verificación.
+
+**Precio / año:** 2027 · TWD 7990 por menor durante 2 días. Hasta el 16 de noviembre de 2026 la página inglesa muestra TWD 6240 y la china TWD 6490. Confirmar el precio aplicable antes de pagar.
+
+**Incluido:** Incluye materiales, comida y merienda. Llegada desde las 08:00, clases de 09:00–16:30 con comida. Recogida de 16:30–17:30.
+
+**Suplementos:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Adecuado si se confirma grado escolar y plaza.
+
+**Oscar:** Confirmar equivalencia al grado 1. Las preguntas frecuentes prevén una excepción para preescolar con buen inglés y presencia de un progenitor todo el día. Confirmar que aplica al turno.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Taipei · Jinou Girls High School
+
+**Fechas / estado:** 2027-01-21 — 2027-01-22
+
+**lugar:** Taipei · Jinou Girls La escuela secundaria
+
+**edad:** Grados 1–6. También se admite a estudiantes de secundaria según las condiciones de la organización.
+
+**Precio:** TWD 7990 por menor durante 2 días. Hasta el 16 de noviembre de 2026 la página inglesa muestra TWD 6240 y la china TWD 6490. Confirmar el precio aplicable antes de pagar.
+
+- 2027-01-21 · 09:00–16:30 · Asia/Taipei · Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.
+
+- 2027-01-22 · 09:00–16:30 · Asia/Taipei · Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Adecuado si se confirma grado escolar y plaza.
+
+**Oscar:** Confirmar equivalencia al grado 1. Las preguntas frecuentes prevén una excepción para preescolar con buen inglés y presencia de un progenitor todo el día. Confirmar que aplica al turno.
+
+[fuente](https://www.sparkleandshinekids.com/)
+
+### Taipei · Jinou Girls High School
+
+**Fechas / estado:** 2027-01-25 — 2027-01-26
+
+**lugar:** Taipei · Jinou Girls La escuela secundaria
+
+**edad:** Grados 1–6. También se admite a estudiantes de secundaria según las condiciones de la organización.
+
+**Precio:** TWD 7990 por menor durante 2 días. Hasta el 16 de noviembre de 2026 la página inglesa muestra TWD 6240 y la china TWD 6490. Confirmar el precio aplicable antes de pagar.
+
+- 2027-01-25 · 09:00–16:30 · Asia/Taipei · Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.
+
+- 2027-01-26 · 09:00–16:30 · Asia/Taipei · Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Adecuado si se confirma grado escolar y plaza.
+
+**Oscar:** Confirmar equivalencia al grado 1. Las preguntas frecuentes prevén una excepción para preescolar con buen inglés y presencia de un progenitor todo el día. Confirmar que aplica al turno.
+
+[fuente](https://www.sparkleandshinekids.com/)
+
+### Taipei · Jinou Girls High School
+
+**Fechas / estado:** 2027-01-27 — 2027-01-28
+
+**lugar:** Taipei · Jinou Girls La escuela secundaria
+
+**edad:** Grados 1–6. También se admite a estudiantes de secundaria según las condiciones de la organización.
+
+**Precio:** TWD 7990 por menor durante 2 días. Hasta el 16 de noviembre de 2026 la página inglesa muestra TWD 6240 y la china TWD 6490. Confirmar el precio aplicable antes de pagar.
+
+- 2027-01-27 · 09:00–16:30 · Asia/Taipei · Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.
+
+- 2027-01-28 · 09:00–16:30 · Asia/Taipei · Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Adecuado si se confirma grado escolar y plaza.
+
+**Oscar:** Confirmar equivalencia al grado 1. Las preguntas frecuentes prevén una excepción para preescolar con buen inglés y presencia de un progenitor todo el día. Confirmar que aplica al turno.
+
+[fuente](https://www.sparkleandshinekids.com/)
+
+### Taipei · Jinou Girls High School
+
+**Fechas / estado:** 2027-02-01 — 2027-02-02
+
+**lugar:** Taipei · Jinou Girls La escuela secundaria
+
+**edad:** Grados 1–6. También se admite a estudiantes de secundaria según las condiciones de la organización.
+
+**Precio:** TWD 7990 por menor durante 2 días. Hasta el 16 de noviembre de 2026 la página inglesa muestra TWD 6240 y la china TWD 6490. Confirmar el precio aplicable antes de pagar.
+
+- 2027-02-01 · 09:00–16:30 · Asia/Taipei · Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.
+
+- 2027-02-02 · 09:00–16:30 · Asia/Taipei · Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Adecuado si se confirma grado escolar y plaza.
+
+**Oscar:** Confirmar equivalencia al grado 1. Las preguntas frecuentes prevén una excepción para preescolar con buen inglés y presencia de un progenitor todo el día. Confirmar que aplica al turno.
+
+[fuente](https://www.sparkleandshinekids.com/)
+
+### Taipei · OOPS Creative Park
+
+**Fechas / estado:** 2027-01-29 — 2027-01-30
+
+**lugar:** Taipei · OOPS Creative Park
+
+**edad:** Grados 1–6. También se admite a estudiantes de secundaria según las condiciones de la organización.
+
+**Precio:** TWD 7990 por menor durante 2 días. Hasta el 16 de noviembre de 2026 la página inglesa muestra TWD 6240 y la china TWD 6490. Confirmar el precio aplicable antes de pagar.
+
+- 2027-01-29 · 09:00–16:30 · Asia/Taipei · Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.
+
+- 2027-01-30 · 09:00–16:30 · Asia/Taipei · Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Adecuado si se confirma grado escolar y plaza.
+
+**Oscar:** Confirmar equivalencia al grado 1. Las preguntas frecuentes prevén una excepción para preescolar con buen inglés y presencia de un progenitor todo el día. Confirmar que aplica al turno.
+
+[fuente](https://www.sparkleandshinekids.com/)
+
+### Taichung University of Science and Technology
+
+**Fechas / estado:** 2027-01-21 — 2027-01-22
+
+**lugar:** Taichung University of Science and Technology
+
+**edad:** Grados 1–6. También se admite a estudiantes de secundaria según las condiciones de la organización.
+
+**Precio:** TWD 7990 por menor durante 2 días. Hasta el 16 de noviembre de 2026 la página inglesa muestra TWD 6240 y la china TWD 6490. Confirmar el precio aplicable antes de pagar.
+
+- 2027-01-21 · 09:00–16:30 · Asia/Taipei · Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.
+
+- 2027-01-22 · 09:00–16:30 · Asia/Taipei · Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Adecuado si se confirma grado escolar y plaza.
+
+**Oscar:** Confirmar equivalencia al grado 1. Las preguntas frecuentes prevén una excepción para preescolar con buen inglés y presencia de un progenitor todo el día. Confirmar que aplica al turno.
+
+[fuente](https://www.sparkleandshinekids.com/)
+
+### Taichung University of Science and Technology
+
+**Fechas / estado:** 2027-01-25 — 2027-01-26
+
+**lugar:** Taichung University of Science and Technology
+
+**edad:** Grados 1–6. También se admite a estudiantes de secundaria según las condiciones de la organización.
+
+**Precio:** TWD 7990 por menor durante 2 días. Hasta el 16 de noviembre de 2026 la página inglesa muestra TWD 6240 y la china TWD 6490. Confirmar el precio aplicable antes de pagar.
+
+- 2027-01-25 · 09:00–16:30 · Asia/Taipei · Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.
+
+- 2027-01-26 · 09:00–16:30 · Asia/Taipei · Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Adecuado si se confirma grado escolar y plaza.
+
+**Oscar:** Confirmar equivalencia al grado 1. Las preguntas frecuentes prevén una excepción para preescolar con buen inglés y presencia de un progenitor todo el día. Confirmar que aplica al turno.
+
+[fuente](https://www.sparkleandshinekids.com/)
+
+### Taichung University of Science and Technology
+
+**Fechas / estado:** 2027-01-27 — 2027-01-28
+
+**lugar:** Taichung University of Science and Technology
+
+**edad:** Grados 1–6. También se admite a estudiantes de secundaria según las condiciones de la organización.
+
+**Precio:** TWD 7990 por menor durante 2 días. Hasta el 16 de noviembre de 2026 la página inglesa muestra TWD 6240 y la china TWD 6490. Confirmar el precio aplicable antes de pagar.
+
+- 2027-01-27 · 09:00–16:30 · Asia/Taipei · Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.
+
+- 2027-01-28 · 09:00–16:30 · Asia/Taipei · Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Adecuado si se confirma grado escolar y plaza.
+
+**Oscar:** Confirmar equivalencia al grado 1. Las preguntas frecuentes prevén una excepción para preescolar con buen inglés y presencia de un progenitor todo el día. Confirmar que aplica al turno.
+
+[fuente](https://www.sparkleandshinekids.com/)
+
+### Taichung University of Science and Technology
+
+**Fechas / estado:** 2027-01-29 — 2027-01-30
+
+**lugar:** Taichung University of Science and Technology
+
+**edad:** Grados 1–6. También se admite a estudiantes de secundaria según las condiciones de la organización.
+
+**Precio:** TWD 7990 por menor durante 2 días. Hasta el 16 de noviembre de 2026 la página inglesa muestra TWD 6240 y la china TWD 6490. Confirmar el precio aplicable antes de pagar.
+
+- 2027-01-29 · 09:00–16:30 · Asia/Taipei · Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.
+
+- 2027-01-30 · 09:00–16:30 · Asia/Taipei · Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Adecuado si se confirma grado escolar y plaza.
+
+**Oscar:** Confirmar equivalencia al grado 1. Las preguntas frecuentes prevén una excepción para preescolar con buen inglés y presencia de un progenitor todo el día. Confirmar que aplica al turno.
+
+[fuente](https://www.sparkleandshinekids.com/)
+
+### Hsinchu · Shu-Guang Girls’ High School
+
+**Fechas / estado:** 2027-02-01 — 2027-02-02
+
+**lugar:** Hsinchu · Shu-Guang Girls’ La escuela secundaria
+
+**edad:** Grados 1–6. También se admite a estudiantes de secundaria según las condiciones de la organización.
+
+**Precio:** TWD 7990 por menor durante 2 días. Hasta el 16 de noviembre de 2026 la página inglesa muestra TWD 6240 y la china TWD 6490. Confirmar el precio aplicable antes de pagar.
+
+- 2027-02-01 · 09:00–16:30 · Asia/Taipei · Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.
+
+- 2027-02-02 · 09:00–16:30 · Asia/Taipei · Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Adecuado si se confirma grado escolar y plaza.
+
+**Oscar:** Confirmar equivalencia al grado 1. Las preguntas frecuentes prevén una excepción para preescolar con buen inglés y presencia de un progenitor todo el día. Confirmar que aplica al turno.
+
+[fuente](https://www.sparkleandshinekids.com/)
+
+### Kaohsiung · St. Dominic Catholic High School
+
+**Fechas / estado:** 2027-02-01 — 2027-02-02
+
+**lugar:** Kaohsiung · St. Dominic Catholic La escuela secundaria
+
+**edad:** Grados 1–6. También se admite a estudiantes de secundaria según las condiciones de la organización.
+
+**Precio:** TWD 7990 por menor durante 2 días. Hasta el 16 de noviembre de 2026 la página inglesa muestra TWD 6240 y la china TWD 6490. Confirmar el precio aplicable antes de pagar.
+
+- 2027-02-01 · 09:00–16:30 · Asia/Taipei · Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.
+
+- 2027-02-02 · 09:00–16:30 · Asia/Taipei · Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Adecuado si se confirma grado escolar y plaza.
+
+**Oscar:** Confirmar equivalencia al grado 1. Las preguntas frecuentes prevén una excepción para preescolar con buen inglés y presencia de un progenitor todo el día. Confirmar que aplica al turno.
+
+[fuente](https://www.sparkleandshinekids.com/)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.sparkleandshinekids.com/) · 2026-11-07
+
+- [Página oficial del organizador](https://zh.sparkleandshinekids.com/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.sparkleandshinekids.com/2027wintercamp-faq) · 2026-11-07
+
+## CP1659 · Dr. Sparks · Tainan
+
+Taiwán · Tainan
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados 1–6. También se admite a estudiantes de secundaria según las condiciones de la organización.
+
+**Idioma:** Enseñanza en inglés con aclaraciones breves en chino ocasionalmente. Los asistentes ayudan con las actividades.
+
+**Programa:** Aerodinámica e ingeniería del vuelo. Planeadores, aviones de papel y cohetes de globo. Dos grupos según edad y nivel de inglés.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Discrepancia en Tainan. La versión inglesa muestra 1–2 de febrero de 2027 sin sede. La china muestra 21–22 de enero de 2027 en 讀你我. Las fechas quedan pendientes de confirmación.
+
+**Precio / año:** 2027 · TWD 7990 por menor durante 2 días. Hasta el 16 de noviembre de 2026 la página inglesa muestra TWD 6240 y la china TWD 6490. Confirmar el precio aplicable antes de pagar.
+
+**Incluido:** Incluye materiales, comida y merienda. Llegada desde las 08:00, clases de 09:00–16:30 con comida. Recogida de 16:30–17:30.
+
+**Suplementos:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Adecuado si se confirma grado escolar y plaza.
+
+**Oscar:** Confirmar equivalencia al grado 1. Las preguntas frecuentes prevén una excepción para preescolar con buen inglés y presencia de un progenitor todo el día. Confirmar que aplica al turno.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.sparkleandshinekids.com/) · 2026-11-07
+
+- [Página oficial del organizador](https://zh.sparkleandshinekids.com/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.sparkleandshinekids.com/2027wintercamp-faq) · 2026-11-07
+
+## CP1660 · BrainSTEM · Little Brains
+
+Canadá · Marine Drive Learning Centre · 730 Marine Dr · North Vancouver
+
+**Se ha comprobado:** 2026-11-07
+
+**Edad:** 4–6
+
+**Idioma:** Sitio en inglés. La organización no indica expresamente el idioma de enseñanza del turno concreto.
+
+**Programa:** VEX 123, iniciación a la programación, mecánica, química y diseño de juegos sencillos.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Ventana compartida para hermanos de 09:00–16:00 con entrada y recogida. El grupo menor comienza las clases a las 09:30 y la recogida es de 15:30–16:00.
+
+**Precio / año:** 2027 · CAD 660 por menor para jornada completa durante todo el turno o CAD 300 para media jornada durante todo el turno.
+
+**Incluido:** Materiales incluidos. Llevar comida; se anuncia una opción de almuerzo por CAD 60. Confirmar unidad de cobro e impuestos.
+
+**Suplementos:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Edad 4–6 años. Confirmar que la edad de Oscar al primer día corresponde al grupo menor.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Little Brains
+
+**Fechas / estado:** 2027-03-15 — 2027-03-19
+
+**lugar:** Marine Drive Learning Centre · 730 Marine Dr · North Vancouver
+
+**Edad:** 4–6
+
+**Precio:** CAD 660 por menor para jornada completa durante todo el turno o CAD 300 para media jornada durante todo el turno.
+
+- 2027-03-15 · 09:00–16:00 · America/Vancouver · VEX 123, iniciación a la programación, mecánica, química y diseño de juegos sencillos.
+
+- 2027-03-16 · 09:00–16:00 · America/Vancouver · VEX 123, iniciación a la programación, mecánica, química y diseño de juegos sencillos.
+
+- 2027-03-17 · 09:00–16:00 · America/Vancouver · VEX 123, iniciación a la programación, mecánica, química y diseño de juegos sencillos.
+
+- 2027-03-18 · 09:00–16:00 · America/Vancouver · VEX 123, iniciación a la programación, mecánica, química y diseño de juegos sencillos.
+
+- 2027-03-19 · 09:00–16:00 · America/Vancouver · VEX 123, iniciación a la programación, mecánica, química y diseño de juegos sencillos.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Edad 4–6 años. Confirmar que la edad de Oscar al primer día corresponde al grupo menor.
+
+[fuente](https://www.brainstemlearning.ca/programs/spring-camp)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.brainstemlearning.ca/programs/spring-camp) · 2026-11-07
+
+## CP1661 · BrainSTEM · Specialists
+
+Canadá · Marine Drive Learning Centre · 730 Marine Dr · North Vancouver
+
+**Se ha comprobado:** 2026-11-07
+
+**Edad:** 7–11
+
+**Idioma:** Sitio en inglés. La organización no indica expresamente el idioma de enseñanza del turno concreto.
+
+**Programa:** Tinkercad, retos de ingeniería y programación de un robot con sensores infrarrojos. La robótica se programa por la tarde.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Ventana compartida para hermanos de 09:00–16:00 con entrada y recogida. El grupo menor comienza las clases a las 09:30 y la recogida es de 15:30–16:00.
+
+**Precio / año:** 2027 · CAD 660 por menor para jornada completa durante todo el turno o CAD 300 para media jornada durante todo el turno.
+
+**Incluido:** Materiales incluidos. Llevar comida; se anuncia una opción de almuerzo por CAD 60. Confirmar unidad de cobro e impuestos.
+
+**Suplementos:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad 7–11 años. Comprobar fecha de nacimiento al comienzo si Oscar ya tendrá 7 años.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Specialists
+
+**Fechas / estado:** 2027-03-15 — 2027-03-19
+
+**lugar:** Marine Drive Learning Centre · 730 Marine Dr · North Vancouver
+
+**Edad:** 7–11
+
+**Precio:** CAD 660 por menor para jornada completa durante todo el turno o CAD 300 para media jornada durante todo el turno.
+
+- 2027-03-15 · 09:00–16:00 · America/Vancouver · Tinkercad, retos de ingeniería y programación de un robot con sensores infrarrojos. La robótica se programa por la tarde.
+
+- 2027-03-16 · 09:00–16:00 · America/Vancouver · Tinkercad, retos de ingeniería y programación de un robot con sensores infrarrojos. La robótica se programa por la tarde.
+
+- 2027-03-17 · 09:00–16:00 · America/Vancouver · Tinkercad, retos de ingeniería y programación de un robot con sensores infrarrojos. La robótica se programa por la tarde.
+
+- 2027-03-18 · 09:00–16:00 · America/Vancouver · Tinkercad, retos de ingeniería y programación de un robot con sensores infrarrojos. La robótica se programa por la tarde.
+
+- 2027-03-19 · 09:00–16:00 · America/Vancouver · Tinkercad, retos de ingeniería y programación de un robot con sensores infrarrojos. La robótica se programa por la tarde.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad 7–11 años. Comprobar fecha de nacimiento al comienzo si Oscar ya tendrá 7 años.
+
+[fuente](https://www.brainstemlearning.ca/programs/spring-camp)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.brainstemlearning.ca/programs/spring-camp) · 2026-11-07
+
+## CP1662 · BrainSTEM · Little Brains
+
+Canadá · Marine Drive Learning Centre · 730 Marine Dr · North Vancouver
+
+**Se ha comprobado:** 2026-11-07
+
+**Edad:** 4–6
+
+**Idioma:** Sitio en inglés. La organización no indica expresamente el idioma de enseñanza del turno concreto.
+
+**Programa:** Construcción, vuelo, fabricación y laboratorio de ingeniería STEM 360.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Ventana compartida para hermanos de 09:00–16:00 con entrada y recogida. El grupo menor comienza las clases a las 09:30 y la recogida es de 15:30–16:00.
+
+**Precio / año:** 2027 · CAD 528 por menor para jornada completa durante todo el turno o CAD 240 para media jornada durante todo el turno.
+
+**Incluido:** Materiales incluidos. Llevar comida; se anuncia una opción de almuerzo por CAD 60. Confirmar unidad de cobro e impuestos.
+
+**Suplementos:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Edad 4–6 años. Confirmar que la edad de Oscar al primer día corresponde al grupo menor.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Little Brains
+
+**Fechas / estado:** 2027-03-22 — 2027-03-25
+
+**lugar:** Marine Drive Learning Centre · 730 Marine Dr · North Vancouver
+
+**Edad:** 4–6
+
+**Precio:** CAD 528 por menor para jornada completa durante todo el turno o CAD 240 para media jornada durante todo el turno.
+
+- 2027-03-22 · 09:00–16:00 · America/Vancouver · Construcción, vuelo, fabricación y laboratorio de ingeniería STEM 360.
+
+- 2027-03-23 · 09:00–16:00 · America/Vancouver · Construcción, vuelo, fabricación y laboratorio de ingeniería STEM 360.
+
+- 2027-03-24 · 09:00–16:00 · America/Vancouver · Construcción, vuelo, fabricación y laboratorio de ingeniería STEM 360.
+
+- 2027-03-25 · 09:00–16:00 · America/Vancouver · Construcción, vuelo, fabricación y laboratorio de ingeniería STEM 360.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Edad 4–6 años. Confirmar que la edad de Oscar al primer día corresponde al grupo menor.
+
+[fuente](https://www.brainstemlearning.ca/programs/spring-camp)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.brainstemlearning.ca/programs/spring-camp) · 2026-11-07
+
+## CP1663 · BrainSTEM · Specialists
+
+Canadá · Marine Drive Learning Centre · 730 Marine Dr · North Vancouver
+
+**Se ha comprobado:** 2026-11-07
+
+**Edad:** 7–11
+
+**Idioma:** Sitio en inglés. La organización no indica expresamente el idioma de enseñanza del turno concreto.
+
+**Programa:** Ingeniería ambiental por la mañana, VEX IQ y VEXcode por la tarde. El plan de la mañana enumera 5 temas para un turno de 4 días.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Ventana compartida para hermanos de 09:00–16:00 con entrada y recogida. El grupo menor comienza las clases a las 09:30 y la recogida es de 15:30–16:00.
+
+**Precio / año:** 2027 · CAD 528 por menor para jornada completa durante todo el turno o CAD 240 para media jornada durante todo el turno.
+
+**Incluido:** Materiales incluidos. Llevar comida; se anuncia una opción de almuerzo por CAD 60. Confirmar unidad de cobro e impuestos.
+
+**Suplementos:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad 7–11 años. Comprobar fecha de nacimiento al comienzo si Oscar ya tendrá 7 años.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Specialists
+
+**Fechas / estado:** 2027-03-22 — 2027-03-25
+
+**lugar:** Marine Drive Learning Centre · 730 Marine Dr · North Vancouver
+
+**Edad:** 7–11
+
+**Precio:** CAD 528 por menor para jornada completa durante todo el turno o CAD 240 para media jornada durante todo el turno.
+
+- 2027-03-22 · 09:00–16:00 · America/Vancouver · Ingeniería ambiental por la mañana, VEX IQ y VEXcode por la tarde. El plan de la mañana enumera 5 temas para un turno de 4 días.
+
+- 2027-03-23 · 09:00–16:00 · America/Vancouver · Ingeniería ambiental por la mañana, VEX IQ y VEXcode por la tarde. El plan de la mañana enumera 5 temas para un turno de 4 días.
+
+- 2027-03-24 · 09:00–16:00 · America/Vancouver · Ingeniería ambiental por la mañana, VEX IQ y VEXcode por la tarde. El plan de la mañana enumera 5 temas para un turno de 4 días.
+
+- 2027-03-25 · 09:00–16:00 · America/Vancouver · Ingeniería ambiental por la mañana, VEX IQ y VEXcode por la tarde. El plan de la mañana enumera 5 temas para un turno de 4 días.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad 7–11 años. Comprobar fecha de nacimiento al comienzo si Oscar ya tendrá 7 años.
+
+[fuente](https://www.brainstemlearning.ca/programs/spring-camp)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.brainstemlearning.ca/programs/spring-camp) · 2026-11-07
+
+## CP1664 · Vancouver Region Educational Services · Spring Break
+
+Canadá · Richmond · 8171 Cook Road / Vancouver · TBD
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** La página indica 5–12 y 5–10 años. Ambos menores entran en el rango común a sus edades actuales.
+
+**Idioma:** Sitio en inglés. La organización no indica expresamente el idioma de enseñanza del turno concreto.
+
+**Programa:** LEGO Robotics, ciencia y creatividad. Sedes separadas en Richmond y Vancouver.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Ventana del programa del 15 al 25 de marzo de 2027. Fechas concretas de turnos sin publicar. Horario 09:00–16:00. En Richmond hay cuidado ampliado de 08:00–09:00 y 16:00–17:00.
+
+**Precio / año:** 2027 · Tarifa base sin publicar. Se anuncia 10% de descuento al inscribir a 2 menores o más.
+
+**Incluido:** Precio sin publicar.
+
+**Suplementos:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.vancouvereducation.org/2027-spring-break-camp) · 2026-11-07
+
+## CP1665 · Holland Bloorview · Robotics March Break
+
+Canadá · Holland Bloorview · Toronto
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** El encabezado indica 9–14 años y las condiciones 8–14 o preparación comparable en marzo de 2027. Se exige evaluación individual.
+
+**Idioma:** Sitio en inglés. La organización no indica expresamente el idioma de enseñanza del turno concreto.
+
+**Programa:** Robótica y programación con apoyo de un especialista en recreación. La admisión se comprueba en la evaluación inicial.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Evaluación inicial. Para familias nuevas hay una entrevista obligatoria de 45 minutos. El centro prevé enviar confirmaciones el 18 de diciembre de 2026.
+
+**Precio / año:** 2027 · CAD 475 más HST. La ficha no indica el importe del impuesto.
+
+**Incluido:** Precio sin publicar.
+
+**Suplementos:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Evaluación inicial. Para familias nuevas hay una entrevista obligatoria de 45 minutos. El centro prevé enviar confirmaciones el 18 de diciembre de 2026.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Taller diurno.
+
+**Fechas / estado:** 2027-03-15 — 2027-03-19
+
+**lugar:** Holland Bloorview · Toronto
+
+**edad:** El encabezado indica 9–14 años y las condiciones 8–14 o preparación comparable en marzo de 2027. Se exige evaluación individual.
+
+**Precio:** CAD 475 más HST. La ficha no indica el importe del impuesto.
+
+**condiciones de participación:** Evaluación inicial. Para familias nuevas hay una entrevista obligatoria de 45 minutos. El centro prevé enviar confirmaciones el 18 de diciembre de 2026.
+
+- 2027-03-15 · 09:00–15:30 · America/Toronto · Robótica y programación con apoyo de un especialista en recreación. La admisión se comprueba en la evaluación inicial.
+
+- 2027-03-16 · 09:00–15:30 · America/Toronto · Robótica y programación con apoyo de un especialista en recreación. La admisión se comprueba en la evaluación inicial.
+
+- 2027-03-17 · 09:00–15:30 · America/Toronto · Robótica y programación con apoyo de un especialista en recreación. La admisión se comprueba en la evaluación inicial.
+
+- 2027-03-18 · 09:00–15:30 · America/Toronto · Robótica y programación con apoyo de un especialista en recreación. La admisión se comprueba en la evaluación inicial.
+
+- 2027-03-19 · 09:00–15:30 · America/Toronto · Robótica y programación con apoyo de un especialista en recreación. La admisión se comprueba en la evaluación inicial.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Evaluación inicial. Para familias nuevas hay una entrevista obligatoria de 45 minutos. El centro prevé enviar confirmaciones el 18 de diciembre de 2026.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+[fuente](https://hollandbloorview.ca/services/programs-services/first-robotics-program-march-break-2025)
+
+### Fuentes
+
+- [Página oficial del organizador](https://hollandbloorview.ca/services/programs-services/first-robotics-program-march-break-2025) · 2026-11-07
+
+## CP1666 · Scuola Robotics · FLL March Break
+
+Canadá · Earl of March Secondary School · 4 The Parkway · Kanata
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados 4–7 durante el curso 2026–2027. La línea de admisión en la página March Break dice campamento de verano. Confirmar aplicabilidad.
+
+**Idioma:** Sitio en inglés. La organización no indica expresamente el idioma de enseñanza del turno concreto.
+
+**Programa:** Práctica de FIRST LEGO League: montaje, código y retos en equipo. Llevar comida y merienda.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Grados 4–7 durante el curso 2026–2027. La línea de admisión en la página March Break dice campamento de verano. Confirmar aplicabilidad.
+
+**Precio / año:** 2027 · CAD 329 en promoción, impuestos incluidos. Cuidado hasta las 17:00 por CAD 25 adicionales para los 5 días.
+
+**Incluido:** Práctica de FIRST LEGO League: montaje, código y retos en equipo. Llevar comida y merienda.
+
+**Suplementos:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Grados 4–7 durante el curso 2026–2027. La línea de admisión en la página March Break dice campamento de verano. Confirmar aplicabilidad.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Taller diurno.
+
+**Fechas / estado:** 2027-03-15 — 2027-03-19
+
+**lugar:** Earl of March Secondary School · 4 The Parkway · Kanata
+
+**edad:** Grados 4–7 durante el curso 2026–2027. La línea de admisión en la página March Break dice campamento de verano. Confirmar aplicabilidad.
+
+**Precio:** CAD 329 en promoción, impuestos incluidos. Cuidado hasta las 17:00 por CAD 25 adicionales para los 5 días.
+
+- 2027-03-15 · 09:00–15:30 · America/Toronto · Práctica de FIRST LEGO League: montaje, código y retos en equipo. Llevar comida y merienda.
+
+- 2027-03-16 · 09:00–15:30 · America/Toronto · Práctica de FIRST LEGO League: montaje, código y retos en equipo. Llevar comida y merienda.
+
+- 2027-03-17 · 09:00–15:30 · America/Toronto · Práctica de FIRST LEGO League: montaje, código y retos en equipo. Llevar comida y merienda.
+
+- 2027-03-18 · 09:00–15:30 · America/Toronto · Práctica de FIRST LEGO League: montaje, código y retos en equipo. Llevar comida y merienda.
+
+- 2027-03-19 · 09:00–15:30 · America/Toronto · Práctica de FIRST LEGO League: montaje, código y retos en equipo. Llevar comida y merienda.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Grados 4–7 durante el curso 2026–2027. La línea de admisión en la página March Break dice campamento de verano. Confirmar aplicabilidad.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+[fuente](https://www.scuolarobotics.ca/march-break-camp)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.scuolarobotics.ca/march-break-camp) · 2026-11-07
 
 ## ~ Comprobaciones no cerradas
 

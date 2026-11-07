@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 7537; competiciones: 3141; eventos: 322; campamentos / programas: 4074. Perfiles de ligas y programas: 265. Fichas de exposiciones grandes y especializadas: 234 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 7568; competiciones: 3151; eventos: 326; campamentos / programas: 4091. Perfiles de ligas y programas: 265. Fichas de exposiciones grandes y especializadas: 238 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros concretos de 158 de 249 países y territorios; países auditados por completo: 0. Revisión histórica v51: se añadieron 21 fichas y 3 perfiles. Todas las fichas anteriores se conservan.
 
@@ -14,16 +14,16 @@ Hay registros concretos de 158 de 249 países y territorios; países auditados p
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 23 | 1434 | 41 | 1063 |
+| América del Norte | 23 | 1442 | 44 | 1069 |
 | América del Sur | 10 | 195 | 11 | 132 |
 | Europa | 42 | 432 | 80 | 1298 |
 | África | 34 | 115 | 15 | 68 |
-| Asia | 44 | 750 | 83 | 1387 |
+| Asia | 44 | 752 | 84 | 1398 |
 | Oceanía | 5 | 119 | 3 | 114 |
 
 Fichas interregionales o globales sin un único continente asignado: 114. América del Norte incluye Centroamérica y el Caribe. Las cifras muestran el inventario del atlas y no un porcentaje de exhaustividad.
 
-VEX: 518 de 3141 fichas de competencias (16.5%). La cobertura presenta un desequilibrio.
+VEX: 518 de 3151 fichas de competiciones (16.4%). Hay un claro desequilibrio en la cobertura.
 
 ## Lo que queda
 
@@ -567,6 +567,10 @@ VEX: 518 de 3141 fichas de competencias (16.5%). La cobertura presenta un desequ
 - **Le Défi Robotique · public · Angers** — Francia; 2027-02-13. con un adulto; condiciones de admisión adulta por separado. https://www.ledefirobotique.fr/angers/
 - **Le Défi Robotique · public · Levallois-Perret** — Francia; 2027-02-27. con un adulto; condiciones de admisión adulta por separado. https://www.ledefirobotique.fr/levallois-perret/
 - **Lego Event Benzenschwil · visita familiar** — Suiza; 2027-03-13. Con un adulto. Consultar condiciones de entrada para adultos. https://www.lego-event-benzenschwil.ch/
+- **FIRST LEGO League Victoria · Public Viewing** — Canadá; 2027-01-17. con un adulto; condiciones de admisión adulta por separado. https://firstroboticsbc.org/event/fll-victoria-qualifying-tournament/
+- **FAN EXPO Vancouver 2027 · Gaming** — Canadá; 2027-02-13 – 2027-02-15. con un adulto; condiciones de admisión adulta por separado. https://fanexpohq.com/fanexpovancouver/buy-tickets/
+- **FAN EXPO Canada 2027 · Gaming** — Canadá; 2027-08-26 – 2027-08-29. con un adulto; condiciones de admisión adulta por separado. https://fanexpohq.com/fanexpocanada/
+- **TADTE 2027 · Taipei Aerospace & Defense Technology Exhibition** — Taiwán; 2027-09-25. Con un adulto; condiciones de admisión adulta por separado. https://www.tadte.com.tw/zh-tw/menu/9BC8A4C92D674714D0636733C6861689/info.html
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

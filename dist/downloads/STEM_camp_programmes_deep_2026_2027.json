@@ -30,12 +30,12 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1657,
+    "dossiers": 1666,
     "countries": 92,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 233,
-      "published_2027": 453,
+      "published_2027": 460,
       "partial_2027": 131,
       "next_unannounced": 345,
       "published_2026": 296,
@@ -45,10 +45,10 @@
       "regular_programme": 10,
       "regular_2026_27": 2,
       "historical_2026_next_season_unknown": 1,
-      "announced_dates_programme_pending": 1,
+      "announced_dates_programme_pending": 3,
       "confirmed_2027": 1
     },
-    "source_urls": 2383
+    "source_urls": 2390
   },
   "countries": [
     {
@@ -185,7 +185,7 @@
     },
     {
       "country": "Канада",
-      "count": 158
+      "count": 165
     },
     {
       "country": "Кения",
@@ -329,7 +329,7 @@
     },
     {
       "country": "Тайвань",
-      "count": 157
+      "count": 159
     },
     {
       "country": "Танзания",
@@ -270426,6 +270426,1778 @@
           ]
         }
       ]
+    },
+    {
+      "id": "CP1658",
+      "slug": "dr-sparks-flight-winter-2027",
+      "provider": "Dr. Sparks · Flight Winter Camp",
+      "country": "Тайвань",
+      "iso": "TWN",
+      "place": "Taipei · Taichung · Hsinchu · Kaohsiung",
+      "themes": [
+        "science",
+        "engineering",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "1–6 класс. Подростков из средней школы тоже принимают по условиям организатора.",
+      "language": "Преподавание на английском, иногда краткие пояснения на китайском. Ассистенты помогают выполнять задания.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "Аэродинамика и инженерия полёта. Планеры, бумажные самолёты и ракеты на воздушных шариках. Две группы по уровню английского и возрасту.",
+      "timing": {
+        "status": "published_2027",
+        "label": "11 двухдневных смен совпадают на английской и китайской страницах. Тайнань вынесен в отдельную карточку проверки.",
+        "sessions": [
+          [
+            "2027-01-21",
+            "2027-01-22"
+          ],
+          [
+            "2027-01-25",
+            "2027-01-26"
+          ],
+          [
+            "2027-01-27",
+            "2027-01-28"
+          ],
+          [
+            "2027-02-01",
+            "2027-02-02"
+          ],
+          [
+            "2027-01-29",
+            "2027-01-30"
+          ],
+          [
+            "2027-01-21",
+            "2027-01-22"
+          ],
+          [
+            "2027-01-25",
+            "2027-01-26"
+          ],
+          [
+            "2027-01-27",
+            "2027-01-28"
+          ],
+          [
+            "2027-01-29",
+            "2027-01-30"
+          ],
+          [
+            "2027-02-01",
+            "2027-02-02"
+          ],
+          [
+            "2027-02-01",
+            "2027-02-02"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-21",
+            "end": "2027-01-22",
+            "label": "Taipei · Jinou Girls High School",
+            "source": "https://www.sparkleandshinekids.com/",
+            "price": "TWD 7990 за ребёнка за 2 дня. До 16 ноября 2026 английская страница показывает TWD 6240, китайская TWD 6490. Подтвердить применимый тариф до оплаты.",
+            "place": "Taipei · Jinou Girls High School",
+            "age": "1–6 класс. Подростков из средней школы тоже принимают по условиям организатора.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Подходит при подтверждении школьного класса и места."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Проверить эквивалент 1 класса. FAQ допускает исключение для детсада при сильном английском и присутствии родителя весь день. Применимость к смене подтвердить."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-21",
+                "topic": "Аэродинамика и инженерия полёта. Планеры, бумажные самолёты и ракеты на воздушных шариках. Две группы по уровню английского и возрасту.",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-22",
+                "topic": "Аэродинамика и инженерия полёта. Планеры, бумажные самолёты и ракеты на воздушных шариках. Две группы по уровню английского и возрасту.",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "variant_key": "taipei-jinou-01-21"
+          },
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-26",
+            "label": "Taipei · Jinou Girls High School",
+            "source": "https://www.sparkleandshinekids.com/",
+            "price": "TWD 7990 за ребёнка за 2 дня. До 16 ноября 2026 английская страница показывает TWD 6240, китайская TWD 6490. Подтвердить применимый тариф до оплаты.",
+            "place": "Taipei · Jinou Girls High School",
+            "age": "1–6 класс. Подростков из средней школы тоже принимают по условиям организатора.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Подходит при подтверждении школьного класса и места."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Проверить эквивалент 1 класса. FAQ допускает исключение для детсада при сильном английском и присутствии родителя весь день. Применимость к смене подтвердить."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "topic": "Аэродинамика и инженерия полёта. Планеры, бумажные самолёты и ракеты на воздушных шариках. Две группы по уровню английского и возрасту.",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-26",
+                "topic": "Аэродинамика и инженерия полёта. Планеры, бумажные самолёты и ракеты на воздушных шариках. Две группы по уровню английского и возрасту.",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "variant_key": "taipei-jinou-01-25"
+          },
+          {
+            "start": "2027-01-27",
+            "end": "2027-01-28",
+            "label": "Taipei · Jinou Girls High School",
+            "source": "https://www.sparkleandshinekids.com/",
+            "price": "TWD 7990 за ребёнка за 2 дня. До 16 ноября 2026 английская страница показывает TWD 6240, китайская TWD 6490. Подтвердить применимый тариф до оплаты.",
+            "place": "Taipei · Jinou Girls High School",
+            "age": "1–6 класс. Подростков из средней школы тоже принимают по условиям организатора.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Подходит при подтверждении школьного класса и места."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Проверить эквивалент 1 класса. FAQ допускает исключение для детсада при сильном английском и присутствии родителя весь день. Применимость к смене подтвердить."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-27",
+                "topic": "Аэродинамика и инженерия полёта. Планеры, бумажные самолёты и ракеты на воздушных шариках. Две группы по уровню английского и возрасту.",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-28",
+                "topic": "Аэродинамика и инженерия полёта. Планеры, бумажные самолёты и ракеты на воздушных шариках. Две группы по уровню английского и возрасту.",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "variant_key": "taipei-jinou-01-27"
+          },
+          {
+            "start": "2027-02-01",
+            "end": "2027-02-02",
+            "label": "Taipei · Jinou Girls High School",
+            "source": "https://www.sparkleandshinekids.com/",
+            "price": "TWD 7990 за ребёнка за 2 дня. До 16 ноября 2026 английская страница показывает TWD 6240, китайская TWD 6490. Подтвердить применимый тариф до оплаты.",
+            "place": "Taipei · Jinou Girls High School",
+            "age": "1–6 класс. Подростков из средней школы тоже принимают по условиям организатора.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Подходит при подтверждении школьного класса и места."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Проверить эквивалент 1 класса. FAQ допускает исключение для детсада при сильном английском и присутствии родителя весь день. Применимость к смене подтвердить."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-02-01",
+                "topic": "Аэродинамика и инженерия полёта. Планеры, бумажные самолёты и ракеты на воздушных шариках. Две группы по уровню английского и возрасту.",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-02",
+                "topic": "Аэродинамика и инженерия полёта. Планеры, бумажные самолёты и ракеты на воздушных шариках. Две группы по уровню английского и возрасту.",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "variant_key": "taipei-jinou-02-01"
+          },
+          {
+            "start": "2027-01-29",
+            "end": "2027-01-30",
+            "label": "Taipei · OOPS Creative Park",
+            "source": "https://www.sparkleandshinekids.com/",
+            "price": "TWD 7990 за ребёнка за 2 дня. До 16 ноября 2026 английская страница показывает TWD 6240, китайская TWD 6490. Подтвердить применимый тариф до оплаты.",
+            "place": "Taipei · OOPS Creative Park",
+            "age": "1–6 класс. Подростков из средней школы тоже принимают по условиям организатора.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Подходит при подтверждении школьного класса и места."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Проверить эквивалент 1 класса. FAQ допускает исключение для детсада при сильном английском и присутствии родителя весь день. Применимость к смене подтвердить."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-29",
+                "topic": "Аэродинамика и инженерия полёта. Планеры, бумажные самолёты и ракеты на воздушных шариках. Две группы по уровню английского и возрасту.",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-30",
+                "topic": "Аэродинамика и инженерия полёта. Планеры, бумажные самолёты и ракеты на воздушных шариках. Две группы по уровню английского и возрасту.",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "variant_key": "taipei-oops-01-29"
+          },
+          {
+            "start": "2027-01-21",
+            "end": "2027-01-22",
+            "label": "Taichung University of Science and Technology",
+            "source": "https://www.sparkleandshinekids.com/",
+            "price": "TWD 7990 за ребёнка за 2 дня. До 16 ноября 2026 английская страница показывает TWD 6240, китайская TWD 6490. Подтвердить применимый тариф до оплаты.",
+            "place": "Taichung University of Science and Technology",
+            "age": "1–6 класс. Подростков из средней школы тоже принимают по условиям организатора.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Подходит при подтверждении школьного класса и места."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Проверить эквивалент 1 класса. FAQ допускает исключение для детсада при сильном английском и присутствии родителя весь день. Применимость к смене подтвердить."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-21",
+                "topic": "Аэродинамика и инженерия полёта. Планеры, бумажные самолёты и ракеты на воздушных шариках. Две группы по уровню английского и возрасту.",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-22",
+                "topic": "Аэродинамика и инженерия полёта. Планеры, бумажные самолёты и ракеты на воздушных шариках. Две группы по уровню английского и возрасту.",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "variant_key": "taichung-01-21"
+          },
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-26",
+            "label": "Taichung University of Science and Technology",
+            "source": "https://www.sparkleandshinekids.com/",
+            "price": "TWD 7990 за ребёнка за 2 дня. До 16 ноября 2026 английская страница показывает TWD 6240, китайская TWD 6490. Подтвердить применимый тариф до оплаты.",
+            "place": "Taichung University of Science and Technology",
+            "age": "1–6 класс. Подростков из средней школы тоже принимают по условиям организатора.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Подходит при подтверждении школьного класса и места."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Проверить эквивалент 1 класса. FAQ допускает исключение для детсада при сильном английском и присутствии родителя весь день. Применимость к смене подтвердить."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "topic": "Аэродинамика и инженерия полёта. Планеры, бумажные самолёты и ракеты на воздушных шариках. Две группы по уровню английского и возрасту.",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-26",
+                "topic": "Аэродинамика и инженерия полёта. Планеры, бумажные самолёты и ракеты на воздушных шариках. Две группы по уровню английского и возрасту.",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "variant_key": "taichung-01-25"
+          },
+          {
+            "start": "2027-01-27",
+            "end": "2027-01-28",
+            "label": "Taichung University of Science and Technology",
+            "source": "https://www.sparkleandshinekids.com/",
+            "price": "TWD 7990 за ребёнка за 2 дня. До 16 ноября 2026 английская страница показывает TWD 6240, китайская TWD 6490. Подтвердить применимый тариф до оплаты.",
+            "place": "Taichung University of Science and Technology",
+            "age": "1–6 класс. Подростков из средней школы тоже принимают по условиям организатора.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Подходит при подтверждении школьного класса и места."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Проверить эквивалент 1 класса. FAQ допускает исключение для детсада при сильном английском и присутствии родителя весь день. Применимость к смене подтвердить."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-27",
+                "topic": "Аэродинамика и инженерия полёта. Планеры, бумажные самолёты и ракеты на воздушных шариках. Две группы по уровню английского и возрасту.",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-28",
+                "topic": "Аэродинамика и инженерия полёта. Планеры, бумажные самолёты и ракеты на воздушных шариках. Две группы по уровню английского и возрасту.",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "variant_key": "taichung-01-27"
+          },
+          {
+            "start": "2027-01-29",
+            "end": "2027-01-30",
+            "label": "Taichung University of Science and Technology",
+            "source": "https://www.sparkleandshinekids.com/",
+            "price": "TWD 7990 за ребёнка за 2 дня. До 16 ноября 2026 английская страница показывает TWD 6240, китайская TWD 6490. Подтвердить применимый тариф до оплаты.",
+            "place": "Taichung University of Science and Technology",
+            "age": "1–6 класс. Подростков из средней школы тоже принимают по условиям организатора.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Подходит при подтверждении школьного класса и места."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Проверить эквивалент 1 класса. FAQ допускает исключение для детсада при сильном английском и присутствии родителя весь день. Применимость к смене подтвердить."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-29",
+                "topic": "Аэродинамика и инженерия полёта. Планеры, бумажные самолёты и ракеты на воздушных шариках. Две группы по уровню английского и возрасту.",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-30",
+                "topic": "Аэродинамика и инженерия полёта. Планеры, бумажные самолёты и ракеты на воздушных шариках. Две группы по уровню английского и возрасту.",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "variant_key": "taichung-01-29"
+          },
+          {
+            "start": "2027-02-01",
+            "end": "2027-02-02",
+            "label": "Hsinchu · Shu-Guang Girls’ High School",
+            "source": "https://www.sparkleandshinekids.com/",
+            "price": "TWD 7990 за ребёнка за 2 дня. До 16 ноября 2026 английская страница показывает TWD 6240, китайская TWD 6490. Подтвердить применимый тариф до оплаты.",
+            "place": "Hsinchu · Shu-Guang Girls’ High School",
+            "age": "1–6 класс. Подростков из средней школы тоже принимают по условиям организатора.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Подходит при подтверждении школьного класса и места."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Проверить эквивалент 1 класса. FAQ допускает исключение для детсада при сильном английском и присутствии родителя весь день. Применимость к смене подтвердить."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-02-01",
+                "topic": "Аэродинамика и инженерия полёта. Планеры, бумажные самолёты и ракеты на воздушных шариках. Две группы по уровню английского и возрасту.",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-02",
+                "topic": "Аэродинамика и инженерия полёта. Планеры, бумажные самолёты и ракеты на воздушных шариках. Две группы по уровню английского и возрасту.",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "variant_key": "hsinchu-02-01"
+          },
+          {
+            "start": "2027-02-01",
+            "end": "2027-02-02",
+            "label": "Kaohsiung · St. Dominic Catholic High School",
+            "source": "https://www.sparkleandshinekids.com/",
+            "price": "TWD 7990 за ребёнка за 2 дня. До 16 ноября 2026 английская страница показывает TWD 6240, китайская TWD 6490. Подтвердить применимый тариф до оплаты.",
+            "place": "Kaohsiung · St. Dominic Catholic High School",
+            "age": "1–6 класс. Подростков из средней школы тоже принимают по условиям организатора.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Подходит при подтверждении школьного класса и места."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Проверить эквивалент 1 класса. FAQ допускает исключение для детсада при сильном английском и присутствии родителя весь день. Применимость к смене подтвердить."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-02-01",
+                "topic": "Аэродинамика и инженерия полёта. Планеры, бумажные самолёты и ракеты на воздушных шариках. Две группы по уровню английского и возрасту.",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-02",
+                "topic": "Аэродинамика и инженерия полёта. Планеры, бумажные самолёты и ракеты на воздушных шариках. Две группы по уровню английского и возрасту.",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "variant_key": "kaohsiung-02-01"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "TWD",
+        "amount": 7990,
+        "unit": "per_child_course",
+        "label": "TWD 7990 за ребёнка за 2 дня. До 16 ноября 2026 английская страница показывает TWD 6240, китайская TWD 6490. Подтвердить применимый тариф до оплаты.",
+        "included": "Материалы, обед и перекус включены. Встреча с 08:00, занятия 09:00–16:30 с обедом. Забрать в 16:30–17:30.",
+        "extras": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Подходит при подтверждении школьного класса и места."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Проверить эквивалент 1 класса. FAQ допускает исключение для детсада при сильном английском и присутствии родителя весь день. Применимость к смене подтвердить."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sparkleandshinekids.com/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://zh.sparkleandshinekids.com/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.sparkleandshinekids.com/2027wintercamp-faq",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-21",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1658-20270121-20270122-taipei-jinou-01-21"
+          ]
+        },
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-26",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1658-20270125-20270126-taipei-jinou-01-25"
+          ]
+        },
+        {
+          "start": "2027-01-27",
+          "end": "2027-01-28",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1658-20270127-20270128-taipei-jinou-01-27"
+          ]
+        },
+        {
+          "start": "2027-02-01",
+          "end": "2027-02-02",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1658-20270201-20270202-taipei-jinou-02-01"
+          ]
+        },
+        {
+          "start": "2027-01-29",
+          "end": "2027-01-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1658-20270129-20270130-taipei-oops-01-29"
+          ]
+        },
+        {
+          "start": "2027-01-21",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1658-20270121-20270122-taichung-01-21"
+          ]
+        },
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-26",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1658-20270125-20270126-taichung-01-25"
+          ]
+        },
+        {
+          "start": "2027-01-27",
+          "end": "2027-01-28",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1658-20270127-20270128-taichung-01-27"
+          ]
+        },
+        {
+          "start": "2027-01-29",
+          "end": "2027-01-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1658-20270129-20270130-taichung-01-29"
+          ]
+        },
+        {
+          "start": "2027-02-01",
+          "end": "2027-02-02",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1658-20270201-20270202-hsinchu-02-01"
+          ]
+        },
+        {
+          "start": "2027-02-01",
+          "end": "2027-02-02",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1658-20270201-20270202-kaohsiung-02-01"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1659",
+      "slug": "dr-sparks-tainan-winter-verify",
+      "provider": "Dr. Sparks · Tainan",
+      "country": "Тайвань",
+      "iso": "TWN",
+      "place": "Tainan",
+      "themes": [
+        "science",
+        "engineering",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "1–6 класс. Подростков из средней школы тоже принимают по условиям организатора.",
+      "language": "Преподавание на английском, иногда краткие пояснения на китайском. Ассистенты помогают выполнять задания.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "Аэродинамика и инженерия полёта. Планеры, бумажные самолёты и ракеты на воздушных шариках. Две группы по уровню английского и возрасту.",
+      "timing": {
+        "status": "announced_dates_programme_pending",
+        "label": "Расхождение по Тайнаню. Английская версия показывает 1–2 февраля 2027 без площадки. Китайская показывает 21–22 января 2027, 讀你我. До подтверждения даты в календаре не закреплены.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "announced_month",
+        "announced_months": [
+          "2027-01",
+          "2027-02"
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "currency": "TWD",
+        "amount": 7990,
+        "unit": "per_child_course",
+        "label": "TWD 7990 за ребёнка за 2 дня. До 16 ноября 2026 английская страница показывает TWD 6240, китайская TWD 6490. Подтвердить применимый тариф до оплаты.",
+        "included": "Материалы, обед и перекус включены. Встреча с 08:00, занятия 09:00–16:30 с обедом. Забрать в 16:30–17:30.",
+        "extras": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Подходит при подтверждении школьного класса и места."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Проверить эквивалент 1 класса. FAQ допускает исключение для детсада при сильном английском и присутствии родителя весь день. Применимость к смене подтвердить."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sparkleandshinekids.com/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://zh.sparkleandshinekids.com/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.sparkleandshinekids.com/2027wintercamp-faq",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1660",
+      "slug": "brainstem-spring-2027-w1-little",
+      "provider": "BrainSTEM · Little Brains",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "Marine Drive Learning Centre · 730 Marine Dr · North Vancouver",
+      "themes": [
+        "robotics",
+        "engineering",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "4–6",
+      "language": "Сайт на английском. Язык обучения конкретной смены организатор явно не указал.",
+      "confirmed_instruction_languages": [],
+      "programme": "VEX 123, основы программирования, механика, химия и разработка простых игр.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Общее окно для братьев 09:00–16:00 с приёмом и выдачей детей. Младшая группа начинает занятия в 09:30, забрать можно в 15:30–16:00.",
+        "sessions": [
+          [
+            "2027-03-15",
+            "2027-03-19"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-03-15",
+            "end": "2027-03-19",
+            "label": "Little Brains",
+            "source": "https://www.brainstemlearning.ca/programs/spring-camp",
+            "price": "CAD 660 за ребёнка за полный день на всю смену или CAD 300 за полдня на всю смену.",
+            "place": "Marine Drive Learning Centre · 730 Marine Dr · North Vancouver",
+            "age": "4–6",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Нет по возрасту для младшей группы."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Возраст 4–6 лет. Подтвердить, что возраст Оскара на первый день относится к младшей группе."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-03-15",
+                "topic": "VEX 123, основы программирования, механика, химия и разработка простых игр.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-16",
+                "topic": "VEX 123, основы программирования, механика, химия и разработка простых игр.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-17",
+                "topic": "VEX 123, основы программирования, механика, химия и разработка простых игр.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-18",
+                "topic": "VEX 123, основы программирования, механика, химия и разработка простых игр.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-19",
+                "topic": "VEX 123, основы программирования, механика, химия и разработка простых игр.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            }
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "CAD",
+        "amount": 660,
+        "unit": "per_child_course",
+        "label": "CAD 660 за ребёнка за полный день на всю смену или CAD 300 за полдня на всю смену.",
+        "included": "Учебные материалы включены. Еду принести, опубликована опция обеда CAD 60. Уточнить единицу тарифа и налог.",
+        "extras": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Нет по возрасту для младшей группы."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Возраст 4–6 лет. Подтвердить, что возраст Оскара на первый день относится к младшей группе."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://www.brainstemlearning.ca/programs/spring-camp",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "pairing": {
+        "venue_id": "can-brainstem-marine-drive",
+        "verified_source": "https://www.brainstemlearning.ca/programs/spring-camp",
+        "checked": "2026-11-06",
+        "fee": {
+          "amount": 660,
+          "currency": "CAD",
+          "unit": "per_child_course"
+        }
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-03-15",
+          "end": "2027-03-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1660-20270315-20270319"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1661",
+      "slug": "brainstem-spring-2027-w1-specialist",
+      "provider": "BrainSTEM · Specialists",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "Marine Drive Learning Centre · 730 Marine Dr · North Vancouver",
+      "themes": [
+        "robotics",
+        "engineering",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "7–11",
+      "language": "Сайт на английском. Язык обучения конкретной смены организатор явно не указал.",
+      "confirmed_instruction_languages": [],
+      "programme": "Tinkercad, инженерные испытания и программирование робота с ИК-датчиками. Робототехника в программе после обеда.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Общее окно для братьев 09:00–16:00 с приёмом и выдачей детей. Младшая группа начинает занятия в 09:30, забрать можно в 15:30–16:00.",
+        "sessions": [
+          [
+            "2027-03-15",
+            "2027-03-19"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-03-15",
+            "end": "2027-03-19",
+            "label": "Specialists",
+            "source": "https://www.brainstemlearning.ca/programs/spring-camp",
+            "price": "CAD 660 за ребёнка за полный день на всю смену или CAD 300 за полдня на всю смену.",
+            "place": "Marine Drive Learning Centre · 730 Marine Dr · North Vancouver",
+            "age": "7–11",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Возраст 7–11 лет. Проверить день рождения на дату смены, если Оскару уже будет 7 лет."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-03-15",
+                "topic": "Tinkercad, инженерные испытания и программирование робота с ИК-датчиками. Робототехника в программе после обеда.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-16",
+                "topic": "Tinkercad, инженерные испытания и программирование робота с ИК-датчиками. Робототехника в программе после обеда.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-17",
+                "topic": "Tinkercad, инженерные испытания и программирование робота с ИК-датчиками. Робототехника в программе после обеда.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-18",
+                "topic": "Tinkercad, инженерные испытания и программирование робота с ИК-датчиками. Робототехника в программе после обеда.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-19",
+                "topic": "Tinkercad, инженерные испытания и программирование робота с ИК-датчиками. Робототехника в программе после обеда.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            }
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "CAD",
+        "amount": 660,
+        "unit": "per_child_course",
+        "label": "CAD 660 за ребёнка за полный день на всю смену или CAD 300 за полдня на всю смену.",
+        "included": "Учебные материалы включены. Еду принести, опубликована опция обеда CAD 60. Уточнить единицу тарифа и налог.",
+        "extras": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Возраст 7–11 лет. Проверить день рождения на дату смены, если Оскару уже будет 7 лет."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://www.brainstemlearning.ca/programs/spring-camp",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "pairing": {
+        "venue_id": "can-brainstem-marine-drive",
+        "verified_source": "https://www.brainstemlearning.ca/programs/spring-camp",
+        "checked": "2026-11-06",
+        "fee": {
+          "amount": 660,
+          "currency": "CAD",
+          "unit": "per_child_course"
+        }
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-03-15",
+          "end": "2027-03-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1661-20270315-20270319"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1662",
+      "slug": "brainstem-spring-2027-w2-little",
+      "provider": "BrainSTEM · Little Brains",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "Marine Drive Learning Centre · 730 Marine Dr · North Vancouver",
+      "themes": [
+        "robotics",
+        "engineering",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "4–6",
+      "language": "Сайт на английском. Язык обучения конкретной смены организатор явно не указал.",
+      "confirmed_instruction_languages": [],
+      "programme": "Строительство, полёт, производство и инженерная лаборатория STEM 360.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Общее окно для братьев 09:00–16:00 с приёмом и выдачей детей. Младшая группа начинает занятия в 09:30, забрать можно в 15:30–16:00.",
+        "sessions": [
+          [
+            "2027-03-22",
+            "2027-03-25"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-03-22",
+            "end": "2027-03-25",
+            "label": "Little Brains",
+            "source": "https://www.brainstemlearning.ca/programs/spring-camp",
+            "price": "CAD 528 за ребёнка за полный день на всю смену или CAD 240 за полдня на всю смену.",
+            "place": "Marine Drive Learning Centre · 730 Marine Dr · North Vancouver",
+            "age": "4–6",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Нет по возрасту для младшей группы."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Возраст 4–6 лет. Подтвердить, что возраст Оскара на первый день относится к младшей группе."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-03-22",
+                "topic": "Строительство, полёт, производство и инженерная лаборатория STEM 360.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-23",
+                "topic": "Строительство, полёт, производство и инженерная лаборатория STEM 360.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-24",
+                "topic": "Строительство, полёт, производство и инженерная лаборатория STEM 360.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-25",
+                "topic": "Строительство, полёт, производство и инженерная лаборатория STEM 360.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            }
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "CAD",
+        "amount": 528,
+        "unit": "per_child_course",
+        "label": "CAD 528 за ребёнка за полный день на всю смену или CAD 240 за полдня на всю смену.",
+        "included": "Учебные материалы включены. Еду принести, опубликована опция обеда CAD 60. Уточнить единицу тарифа и налог.",
+        "extras": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Нет по возрасту для младшей группы."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Возраст 4–6 лет. Подтвердить, что возраст Оскара на первый день относится к младшей группе."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://www.brainstemlearning.ca/programs/spring-camp",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "pairing": {
+        "venue_id": "can-brainstem-marine-drive",
+        "verified_source": "https://www.brainstemlearning.ca/programs/spring-camp",
+        "checked": "2026-11-06",
+        "fee": {
+          "amount": 528,
+          "currency": "CAD",
+          "unit": "per_child_course"
+        }
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-03-22",
+          "end": "2027-03-25",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1662-20270322-20270325"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1663",
+      "slug": "brainstem-spring-2027-w2-specialist",
+      "provider": "BrainSTEM · Specialists",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "Marine Drive Learning Centre · 730 Marine Dr · North Vancouver",
+      "themes": [
+        "robotics",
+        "engineering",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "7–11",
+      "language": "Сайт на английском. Язык обучения конкретной смены организатор явно не указал.",
+      "confirmed_instruction_languages": [],
+      "programme": "Экологическая инженерия утром, VEX IQ и VEXcode после обеда. Утренний план перечисляет 5 тем при 4 днях смены.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Общее окно для братьев 09:00–16:00 с приёмом и выдачей детей. Младшая группа начинает занятия в 09:30, забрать можно в 15:30–16:00.",
+        "sessions": [
+          [
+            "2027-03-22",
+            "2027-03-25"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-03-22",
+            "end": "2027-03-25",
+            "label": "Specialists",
+            "source": "https://www.brainstemlearning.ca/programs/spring-camp",
+            "price": "CAD 528 за ребёнка за полный день на всю смену или CAD 240 за полдня на всю смену.",
+            "place": "Marine Drive Learning Centre · 730 Marine Dr · North Vancouver",
+            "age": "7–11",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Возраст 7–11 лет. Проверить день рождения на дату смены, если Оскару уже будет 7 лет."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-03-22",
+                "topic": "Экологическая инженерия утром, VEX IQ и VEXcode после обеда. Утренний план перечисляет 5 тем при 4 днях смены.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-23",
+                "topic": "Экологическая инженерия утром, VEX IQ и VEXcode после обеда. Утренний план перечисляет 5 тем при 4 днях смены.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-24",
+                "topic": "Экологическая инженерия утром, VEX IQ и VEXcode после обеда. Утренний план перечисляет 5 тем при 4 днях смены.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-25",
+                "topic": "Экологическая инженерия утром, VEX IQ и VEXcode после обеда. Утренний план перечисляет 5 тем при 4 днях смены.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            }
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "CAD",
+        "amount": 528,
+        "unit": "per_child_course",
+        "label": "CAD 528 за ребёнка за полный день на всю смену или CAD 240 за полдня на всю смену.",
+        "included": "Учебные материалы включены. Еду принести, опубликована опция обеда CAD 60. Уточнить единицу тарифа и налог.",
+        "extras": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Возраст 7–11 лет. Проверить день рождения на дату смены, если Оскару уже будет 7 лет."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://www.brainstemlearning.ca/programs/spring-camp",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "pairing": {
+        "venue_id": "can-brainstem-marine-drive",
+        "verified_source": "https://www.brainstemlearning.ca/programs/spring-camp",
+        "checked": "2026-11-06",
+        "fee": {
+          "amount": 528,
+          "currency": "CAD",
+          "unit": "per_child_course"
+        }
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-03-22",
+          "end": "2027-03-25",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1663-20270322-20270325"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1664",
+      "slug": "vres-spring-2027",
+      "provider": "Vancouver Region Educational Services · Spring Break",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "Richmond · 8171 Cook Road / Vancouver · TBD",
+      "themes": [
+        "robotics",
+        "engineering",
+        "science",
+        "art"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "На одной странице указаны 5–12 и 5–10 лет. Оба ребёнка входят в пересечение на текущих возрастах.",
+      "language": "Сайт на английском. Язык обучения конкретной смены организатор явно не указал.",
+      "confirmed_instruction_languages": [],
+      "programme": "LEGO Robotics, наука и творчество. Отдельные площадки в Ричмонде и Ванкувере.",
+      "timing": {
+        "status": "announced_dates_programme_pending",
+        "label": "Окно программы 15–25 марта 2027. Даты отдельных смен ещё не опубликованы. Часы 09:00–16:00. В Ричмонде есть расширенный присмотр 08:00–09:00 и 16:00–17:00.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "announced_month",
+        "announced_months": [
+          "2027-03"
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "currency": "CAD",
+        "amount": null,
+        "unit": "per_child_course",
+        "label": "Базовый тариф ещё не опубликован. Объявлена скидка 10% при записи 2 и более детей.",
+        "included": "Цена не опубликована.",
+        "extras": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://www.vancouvereducation.org/2027-spring-break-camp",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "not_open_yet",
+        "label": "Регистрация откроется позже."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1665",
+      "slug": "holland-bloorview-march-2027",
+      "provider": "Holland Bloorview · Robotics March Break",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "Holland Bloorview · Toronto",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "В заголовке 9–14 лет, в условиях 8–14 или сопоставимая готовность на март 2027. Требуется индивидуальная оценка.",
+      "language": "Сайт на английском. Язык обучения конкретной смены организатор явно не указал.",
+      "confirmed_instruction_languages": [],
+      "programme": "Робототехника и программирование с поддержкой рекреационного специалиста. Порядок допуска сверяется при вступительной оценке.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Вступительная оценка. Для новых семей обязательна встреча 45 минут. Организатор назначил рассылку подтверждений на 18 декабря 2026.",
+        "sessions": [
+          [
+            "2027-03-15",
+            "2027-03-19"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-03-15",
+            "end": "2027-03-19",
+            "label": "Дневная мастерская.",
+            "source": "https://hollandbloorview.ca/services/programs-services/first-robotics-program-march-break-2025",
+            "price": "CAD 475 плюс HST. Сумма налога в карточке не указана.",
+            "place": "Holland Bloorview · Toronto",
+            "age": "В заголовке 9–14 лет, в условиях 8–14 или сопоставимая готовность на март 2027. Требуется индивидуальная оценка.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Вступительная оценка. Для новых семей обязательна встреча 45 минут. Организатор назначил рассылку подтверждений на 18 декабря 2026."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Возраст выше текущего. Проверить возраст на первый день смены."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-03-15",
+                "topic": "Робототехника и программирование с поддержкой рекреационного специалиста. Порядок допуска сверяется при вступительной оценке.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-16",
+                "topic": "Робототехника и программирование с поддержкой рекреационного специалиста. Порядок допуска сверяется при вступительной оценке.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-17",
+                "topic": "Робототехника и программирование с поддержкой рекреационного специалиста. Порядок допуска сверяется при вступительной оценке.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-18",
+                "topic": "Робототехника и программирование с поддержкой рекреационного специалиста. Порядок допуска сверяется при вступительной оценке.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-19",
+                "topic": "Робототехника и программирование с поддержкой рекреационного специалиста. Порядок допуска сверяется при вступительной оценке.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "admission_kind": "organization_route",
+            "entry": "Вступительная оценка. Для новых семей обязательна встреча 45 минут. Организатор назначил рассылку подтверждений на 18 декабря 2026."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "CAD",
+        "amount": 475,
+        "unit": "per_child_course",
+        "label": "CAD 475 плюс HST. Сумма налога в карточке не указана.",
+        "included": "Цена не опубликована.",
+        "extras": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Вступительная оценка. Для новых семей обязательна встреча 45 минут. Организатор назначил рассылку подтверждений на 18 декабря 2026."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Возраст выше текущего. Проверить возраст на первый день смены."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://hollandbloorview.ca/services/programs-services/first-robotics-program-march-break-2025",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-03-15",
+          "end": "2027-03-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1665-20270315-20270319"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1666",
+      "slug": "scuola-march-2027",
+      "provider": "Scuola Robotics · FLL March Break",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "Earl of March Secondary School · 4 The Parkway · Kanata",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "4–7 класс в учебном году 2026–2027. Строка допуска на странице March Break называет летний лагерь. Применимость подтвердить.",
+      "language": "Сайт на английском. Язык обучения конкретной смены организатор явно не указал.",
+      "confirmed_instruction_languages": [],
+      "programme": "Практика FIRST LEGO League: сборка, код и командные задания. Обед и перекус с собой.",
+      "timing": {
+        "status": "published_2027",
+        "label": "4–7 класс в учебном году 2026–2027. Строка допуска на странице March Break называет летний лагерь. Применимость подтвердить.",
+        "sessions": [
+          [
+            "2027-03-15",
+            "2027-03-19"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-03-15",
+            "end": "2027-03-19",
+            "label": "Дневная мастерская.",
+            "source": "https://www.scuolarobotics.ca/march-break-camp",
+            "price": "CAD 329 по акции, налоги включены. Присмотр до 17:00 стоит дополнительно CAD 25 за все 5 дней.",
+            "place": "Earl of March Secondary School · 4 The Parkway · Kanata",
+            "age": "4–7 класс в учебном году 2026–2027. Строка допуска на странице March Break называет летний лагерь. Применимость подтвердить.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "4–7 класс в учебном году 2026–2027. Строка допуска на странице March Break называет летний лагерь. Применимость подтвердить."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Возраст выше текущего. Проверить возраст на первый день смены."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-03-15",
+                "topic": "Практика FIRST LEGO League: сборка, код и командные задания. Обед и перекус с собой.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-16",
+                "topic": "Практика FIRST LEGO League: сборка, код и командные задания. Обед и перекус с собой.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-17",
+                "topic": "Практика FIRST LEGO League: сборка, код и командные задания. Обед и перекус с собой.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-18",
+                "topic": "Практика FIRST LEGO League: сборка, код и командные задания. Обед и перекус с собой.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-19",
+                "topic": "Практика FIRST LEGO League: сборка, код и командные задания. Обед и перекус с собой.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            }
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "CAD",
+        "amount": 329,
+        "unit": "per_child_course",
+        "label": "CAD 329 по акции, налоги включены. Присмотр до 17:00 стоит дополнительно CAD 25 за все 5 дней.",
+        "included": "Практика FIRST LEGO League: сборка, код и командные задания. Обед и перекус с собой.",
+        "extras": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "4–7 класс в учебном году 2026–2027. Строка допуска на странице March Break называет летний лагерь. Применимость подтвердить."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Возраст выше текущего. Проверить возраст на первый день смены."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://www.scuolarobotics.ca/march-break-camp",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-03-15",
+          "end": "2027-03-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1666-20270315-20270319"
+          ]
+        }
+      ]
     }
   ],
   "gaps": [
@@ -275751,7 +277523,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 213,
+  "version": 214,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -288986,7 +290758,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1657,
+      "total_dossiers": 1666,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -307021,6 +308793,91 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP1658",
+      "event_id": "CP1658-20270121-20270122-taipei-jinou-01-21",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1658",
+      "event_id": "CP1658-20270125-20270126-taipei-jinou-01-25",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1658",
+      "event_id": "CP1658-20270127-20270128-taipei-jinou-01-27",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1658",
+      "event_id": "CP1658-20270201-20270202-taipei-jinou-02-01",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1658",
+      "event_id": "CP1658-20270129-20270130-taipei-oops-01-29",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1658",
+      "event_id": "CP1658-20270121-20270122-taichung-01-21",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1658",
+      "event_id": "CP1658-20270125-20270126-taichung-01-25",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1658",
+      "event_id": "CP1658-20270127-20270128-taichung-01-27",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1658",
+      "event_id": "CP1658-20270129-20270130-taichung-01-29",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1658",
+      "event_id": "CP1658-20270201-20270202-hsinchu-02-01",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1658",
+      "event_id": "CP1658-20270201-20270202-kaohsiung-02-01",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1660",
+      "event_id": "CP1660-20270315-20270319",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1661",
+      "event_id": "CP1661-20270315-20270319",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1662",
+      "event_id": "CP1662-20270322-20270325",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1663",
+      "event_id": "CP1663-20270322-20270325",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1665",
+      "event_id": "CP1665-20270315-20270319",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1666",
+      "event_id": "CP1666-20270315-20270319",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -310873,10 +312730,27 @@
     "CP1655-20270215-20270219",
     "CP1656-20270208-20270212",
     "CP1657-20270208-20270212",
-    "CP1657-20270215-20270219"
+    "CP1657-20270215-20270219",
+    "CP1658-20270121-20270122-taipei-jinou-01-21",
+    "CP1658-20270125-20270126-taipei-jinou-01-25",
+    "CP1658-20270127-20270128-taipei-jinou-01-27",
+    "CP1658-20270201-20270202-taipei-jinou-02-01",
+    "CP1658-20270129-20270130-taipei-oops-01-29",
+    "CP1658-20270121-20270122-taichung-01-21",
+    "CP1658-20270125-20270126-taichung-01-25",
+    "CP1658-20270127-20270128-taichung-01-27",
+    "CP1658-20270129-20270130-taichung-01-29",
+    "CP1658-20270201-20270202-hsinchu-02-01",
+    "CP1658-20270201-20270202-kaohsiung-02-01",
+    "CP1660-20270315-20270319",
+    "CP1661-20270315-20270319",
+    "CP1662-20270322-20270325",
+    "CP1663-20270322-20270325",
+    "CP1665-20270315-20270319",
+    "CP1666-20270315-20270319"
   ],
   "integration": {
-    "generated_sessions": 3422,
+    "generated_sessions": 3439,
     "reused_legacy_events": 69,
     "seasonal_windows": 60,
     "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."
