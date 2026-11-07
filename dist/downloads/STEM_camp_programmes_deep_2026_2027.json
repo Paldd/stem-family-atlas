@@ -30,14 +30,14 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1806,
+    "dossiers": 1816,
     "countries": 104,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 261,
-      "published_2027": 501,
+      "published_2027": 506,
       "partial_2027": 140,
-      "next_unannounced": 361,
+      "next_unannounced": 366,
       "published_2026": 328,
       "partial_2026_27": 29,
       "partial_2026": 23,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2631
+    "source_urls": 2641
   },
   "countries": [
     {
@@ -73,7 +73,7 @@
     },
     {
       "country": "Аргентина",
-      "count": 4
+      "count": 11
     },
     {
       "country": "Багамские Острова",
@@ -221,7 +221,7 @@
     },
     {
       "country": "Колумбия",
-      "count": 11
+      "count": 12
     },
     {
       "country": "Коста-Рика",
@@ -393,7 +393,7 @@
     },
     {
       "country": "Уругвай",
-      "count": 3
+      "count": 5
     },
     {
       "country": "Фиджи",
@@ -305750,6 +305750,3156 @@
       "catalog_participation": "course",
       "related_event_ids": [],
       "calendar_links": []
+    },
+    {
+      "id": "CP1807",
+      "slug": "tecnokids-buenos-aires-palermo-g1",
+      "provider": "TecnoKids · Palermo · 5–8",
+      "country": "Аргентина",
+      "iso": "ARG",
+      "place": "Palermo · Amapola · Nicaragua 4739 · Buenos Aires",
+      "age": "Группа 5–8 лет. Основные группы 5–8 и 9–13 лет. Состав могут перераспределить по числу записавшихся. Допуск от Sala de 5 до 7 класса.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык инструктажа конкретной смены не указан. Уточнить английский и испанский.",
+      "confirmed_instruction_languages": [],
+      "programme": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Недели с понедельника по пятницу. Утро 09:00–12:30, день 14:00–17:30. Последняя неделя только в Palermo.",
+        "sessions": [
+          [
+            "2027-01-04",
+            "2027-01-08"
+          ],
+          [
+            "2027-01-04",
+            "2027-01-08"
+          ],
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ],
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-22"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-22"
+          ],
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ],
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ],
+          [
+            "2027-02-01",
+            "2027-02-05"
+          ],
+          [
+            "2027-02-01",
+            "2027-02-05"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "w1-am",
+            "start": "2027-01-04",
+            "end": "2027-01-08",
+            "label": "Утро",
+            "source": "https://tecnokids.com/colonia/",
+            "price": "На странице за неделю 265 000 и ранний тариф 220 000 до 30 ноября. Для второго ребёнка объявлена скидка 10%. Уточнить валюту счёта и совместимость скидок.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-05",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-06",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-07",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-08",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "w1-pm",
+            "start": "2027-01-04",
+            "end": "2027-01-08",
+            "label": "После обеда",
+            "source": "https://tecnokids.com/colonia/",
+            "price": "На странице за неделю 265 000 и ранний тариф 220 000 до 30 ноября. Для второго ребёнка объявлена скидка 10%. Уточнить валюту счёта и совместимость скидок.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-05",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-06",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-07",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-08",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "w2-am",
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "label": "Утро",
+            "source": "https://tecnokids.com/colonia/",
+            "price": "На странице за неделю 265 000 и ранний тариф 220 000 до 30 ноября. Для второго ребёнка объявлена скидка 10%. Уточнить валюту счёта и совместимость скидок.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-12",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-13",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-14",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-15",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "w2-pm",
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "label": "После обеда",
+            "source": "https://tecnokids.com/colonia/",
+            "price": "На странице за неделю 265 000 и ранний тариф 220 000 до 30 ноября. Для второго ребёнка объявлена скидка 10%. Уточнить валюту счёта и совместимость скидок.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-12",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-13",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-14",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-15",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "w3-am",
+            "start": "2027-01-18",
+            "end": "2027-01-22",
+            "label": "Утро",
+            "source": "https://tecnokids.com/colonia/",
+            "price": "На странице за неделю 265 000 и ранний тариф 220 000 до 30 ноября. Для второго ребёнка объявлена скидка 10%. Уточнить валюту счёта и совместимость скидок.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-19",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-20",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-21",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-22",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "w3-pm",
+            "start": "2027-01-18",
+            "end": "2027-01-22",
+            "label": "После обеда",
+            "source": "https://tecnokids.com/colonia/",
+            "price": "На странице за неделю 265 000 и ранний тариф 220 000 до 30 ноября. Для второго ребёнка объявлена скидка 10%. Уточнить валюту счёта и совместимость скидок.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-19",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-20",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-21",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-22",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "w4-am",
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Утро",
+            "source": "https://tecnokids.com/colonia/",
+            "price": "На странице за неделю 265 000 и ранний тариф 220 000 до 30 ноября. Для второго ребёнка объявлена скидка 10%. Уточнить валюту счёта и совместимость скидок.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-26",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-27",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-28",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-29",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "w4-pm",
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "После обеда",
+            "source": "https://tecnokids.com/colonia/",
+            "price": "На странице за неделю 265 000 и ранний тариф 220 000 до 30 ноября. Для второго ребёнка объявлена скидка 10%. Уточнить валюту счёта и совместимость скидок.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-26",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-27",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-28",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-29",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "w5-am",
+            "start": "2027-02-01",
+            "end": "2027-02-05",
+            "label": "Утро",
+            "source": "https://tecnokids.com/colonia/",
+            "price": "На странице за неделю 265 000 и ранний тариф 220 000 до 30 ноября. Для второго ребёнка объявлена скидка 10%. Уточнить валюту счёта и совместимость скидок.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2027-02-01",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-02",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-03",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-04",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-05",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "w5-pm",
+            "start": "2027-02-01",
+            "end": "2027-02-05",
+            "label": "После обеда",
+            "source": "https://tecnokids.com/colonia/",
+            "price": "На странице за неделю 265 000 и ранний тариф 220 000 до 30 ноября. Для второго ребёнка объявлена скидка 10%. Уточнить валюту счёта и совместимость скидок.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2027-02-01",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-02",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-03",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-04",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-05",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "ARS",
+        "amount": 265000,
+        "unit": "week",
+        "label": "На странице за неделю 265 000 и ранний тариф 220 000 до 30 ноября. Для второго ребёнка объявлена скидка 10%. Уточнить валюту счёта и совместимость скидок.",
+        "included": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+        "extras": "Взять воду и перекус. Организатор предоставляет воду и фрукты. Стоимость прочих услуг уточнить. На странице цена за 2 недели 380 000 или 320 000 по раннему тарифу, за 3 недели 550 000 или 462 000, за 4 недели 700 000 или 588 000. Можно выбирать отдельные недели. В Palermo за 5 недель 850 000 или 714 000 по раннему тарифу.",
+        "deposit": "На странице указана оплата переводом. Уточнить валюту счёта, возврат и применение скидки."
+      },
+      "accommodation": "Дневной лагерь без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Проверить распределение по группам у организатора."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Проверить школьную ступень и распределение по группам."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить школьный класс, язык занятий и место для каждого ребёнка."
+      ],
+      "sources": [
+        {
+          "url": "https://tecnokids.com/colonia/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "pairing": {
+        "venue_id": "tecnokids-palermo",
+        "verified_source": "https://tecnokids.com/colonia/",
+        "checked": "2026-11-06"
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1807-20270104-20270108-w1-am"
+          ]
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1807-20270104-20270108-w1-pm"
+          ]
+        },
+        {
+          "start": "2027-01-11",
+          "end": "2027-01-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1807-20270111-20270115-w2-am"
+          ]
+        },
+        {
+          "start": "2027-01-11",
+          "end": "2027-01-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1807-20270111-20270115-w2-pm"
+          ]
+        },
+        {
+          "start": "2027-01-18",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1807-20270118-20270122-w3-am"
+          ]
+        },
+        {
+          "start": "2027-01-18",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1807-20270118-20270122-w3-pm"
+          ]
+        },
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1807-20270125-20270129-w4-am"
+          ]
+        },
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1807-20270125-20270129-w4-pm"
+          ]
+        },
+        {
+          "start": "2027-02-01",
+          "end": "2027-02-05",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1807-20270201-20270205-w5-am"
+          ]
+        },
+        {
+          "start": "2027-02-01",
+          "end": "2027-02-05",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1807-20270201-20270205-w5-pm"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1808",
+      "slug": "tecnokids-buenos-aires-palermo-g2",
+      "provider": "TecnoKids · Palermo · 9–13",
+      "country": "Аргентина",
+      "iso": "ARG",
+      "place": "Palermo · Amapola · Nicaragua 4739 · Buenos Aires",
+      "age": "Группа 9–13 лет. Основные группы 5–8 и 9–13 лет. Состав могут перераспределить по числу записавшихся. Допуск от Sala de 5 до 7 класса.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык инструктажа конкретной смены не указан. Уточнить английский и испанский.",
+      "confirmed_instruction_languages": [],
+      "programme": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Недели с понедельника по пятницу. Утро 09:00–12:30, день 14:00–17:30. Последняя неделя только в Palermo.",
+        "sessions": [
+          [
+            "2027-01-04",
+            "2027-01-08"
+          ],
+          [
+            "2027-01-04",
+            "2027-01-08"
+          ],
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ],
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-22"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-22"
+          ],
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ],
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ],
+          [
+            "2027-02-01",
+            "2027-02-05"
+          ],
+          [
+            "2027-02-01",
+            "2027-02-05"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "w1-am",
+            "start": "2027-01-04",
+            "end": "2027-01-08",
+            "label": "Утро",
+            "source": "https://tecnokids.com/colonia/",
+            "price": "На странице за неделю 265 000 и ранний тариф 220 000 до 30 ноября. Для второго ребёнка объявлена скидка 10%. Уточнить валюту счёта и совместимость скидок.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-05",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-06",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-07",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-08",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "w1-pm",
+            "start": "2027-01-04",
+            "end": "2027-01-08",
+            "label": "После обеда",
+            "source": "https://tecnokids.com/colonia/",
+            "price": "На странице за неделю 265 000 и ранний тариф 220 000 до 30 ноября. Для второго ребёнка объявлена скидка 10%. Уточнить валюту счёта и совместимость скидок.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-05",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-06",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-07",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-08",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "w2-am",
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "label": "Утро",
+            "source": "https://tecnokids.com/colonia/",
+            "price": "На странице за неделю 265 000 и ранний тариф 220 000 до 30 ноября. Для второго ребёнка объявлена скидка 10%. Уточнить валюту счёта и совместимость скидок.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-12",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-13",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-14",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-15",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "w2-pm",
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "label": "После обеда",
+            "source": "https://tecnokids.com/colonia/",
+            "price": "На странице за неделю 265 000 и ранний тариф 220 000 до 30 ноября. Для второго ребёнка объявлена скидка 10%. Уточнить валюту счёта и совместимость скидок.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-12",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-13",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-14",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-15",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "w3-am",
+            "start": "2027-01-18",
+            "end": "2027-01-22",
+            "label": "Утро",
+            "source": "https://tecnokids.com/colonia/",
+            "price": "На странице за неделю 265 000 и ранний тариф 220 000 до 30 ноября. Для второго ребёнка объявлена скидка 10%. Уточнить валюту счёта и совместимость скидок.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-19",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-20",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-21",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-22",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "w3-pm",
+            "start": "2027-01-18",
+            "end": "2027-01-22",
+            "label": "После обеда",
+            "source": "https://tecnokids.com/colonia/",
+            "price": "На странице за неделю 265 000 и ранний тариф 220 000 до 30 ноября. Для второго ребёнка объявлена скидка 10%. Уточнить валюту счёта и совместимость скидок.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-19",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-20",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-21",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-22",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "w4-am",
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Утро",
+            "source": "https://tecnokids.com/colonia/",
+            "price": "На странице за неделю 265 000 и ранний тариф 220 000 до 30 ноября. Для второго ребёнка объявлена скидка 10%. Уточнить валюту счёта и совместимость скидок.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-26",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-27",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-28",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-29",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "w4-pm",
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "После обеда",
+            "source": "https://tecnokids.com/colonia/",
+            "price": "На странице за неделю 265 000 и ранний тариф 220 000 до 30 ноября. Для второго ребёнка объявлена скидка 10%. Уточнить валюту счёта и совместимость скидок.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-26",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-27",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-28",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-29",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "w5-am",
+            "start": "2027-02-01",
+            "end": "2027-02-05",
+            "label": "Утро",
+            "source": "https://tecnokids.com/colonia/",
+            "price": "На странице за неделю 265 000 и ранний тариф 220 000 до 30 ноября. Для второго ребёнка объявлена скидка 10%. Уточнить валюту счёта и совместимость скидок.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2027-02-01",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-02",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-03",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-04",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-05",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "w5-pm",
+            "start": "2027-02-01",
+            "end": "2027-02-05",
+            "label": "После обеда",
+            "source": "https://tecnokids.com/colonia/",
+            "price": "На странице за неделю 265 000 и ранний тариф 220 000 до 30 ноября. Для второго ребёнка объявлена скидка 10%. Уточнить валюту счёта и совместимость скидок.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2027-02-01",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-02",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-03",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-04",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-05",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "ARS",
+        "amount": 265000,
+        "unit": "week",
+        "label": "На странице за неделю 265 000 и ранний тариф 220 000 до 30 ноября. Для второго ребёнка объявлена скидка 10%. Уточнить валюту счёта и совместимость скидок.",
+        "included": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+        "extras": "Взять воду и перекус. Организатор предоставляет воду и фрукты. Стоимость прочих услуг уточнить. На странице цена за 2 недели 380 000 или 320 000 по раннему тарифу, за 3 недели 550 000 или 462 000, за 4 недели 700 000 или 588 000. Можно выбирать отдельные недели. В Palermo за 5 недель 850 000 или 714 000 по раннему тарифу.",
+        "deposit": "На странице указана оплата переводом. Уточнить валюту счёта, возврат и применение скидки."
+      },
+      "accommodation": "Дневной лагерь без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Проверить школьную ступень и распределение по группам."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Проверить распределение по группам у организатора."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить школьный класс, язык занятий и место для каждого ребёнка."
+      ],
+      "sources": [
+        {
+          "url": "https://tecnokids.com/colonia/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "pairing": {
+        "venue_id": "tecnokids-palermo",
+        "verified_source": "https://tecnokids.com/colonia/",
+        "checked": "2026-11-06"
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1808-20270104-20270108-w1-am"
+          ]
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1808-20270104-20270108-w1-pm"
+          ]
+        },
+        {
+          "start": "2027-01-11",
+          "end": "2027-01-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1808-20270111-20270115-w2-am"
+          ]
+        },
+        {
+          "start": "2027-01-11",
+          "end": "2027-01-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1808-20270111-20270115-w2-pm"
+          ]
+        },
+        {
+          "start": "2027-01-18",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1808-20270118-20270122-w3-am"
+          ]
+        },
+        {
+          "start": "2027-01-18",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1808-20270118-20270122-w3-pm"
+          ]
+        },
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1808-20270125-20270129-w4-am"
+          ]
+        },
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1808-20270125-20270129-w4-pm"
+          ]
+        },
+        {
+          "start": "2027-02-01",
+          "end": "2027-02-05",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1808-20270201-20270205-w5-am"
+          ]
+        },
+        {
+          "start": "2027-02-01",
+          "end": "2027-02-05",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1808-20270201-20270205-w5-pm"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1809",
+      "slug": "tecnokids-buenos-aires-villa-urquiza-g1",
+      "provider": "TecnoKids · Villa Urquiza · 5–8",
+      "country": "Аргентина",
+      "iso": "ARG",
+      "place": "Villa Urquiza · St. Patrick’s School · Nahuel Huapi 4141 · Buenos Aires",
+      "age": "Группа 5–8 лет. Основные группы 5–8 и 9–13 лет. Состав могут перераспределить по числу записавшихся. Допуск от Sala de 5 до 7 класса.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык инструктажа конкретной смены не указан. Уточнить английский и испанский.",
+      "confirmed_instruction_languages": [],
+      "programme": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Недели с понедельника по пятницу. Утро 09:00–12:30, день 14:00–17:30. Последняя неделя только в Palermo.",
+        "sessions": [
+          [
+            "2027-01-04",
+            "2027-01-08"
+          ],
+          [
+            "2027-01-04",
+            "2027-01-08"
+          ],
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ],
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-22"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-22"
+          ],
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ],
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "w1-am",
+            "start": "2027-01-04",
+            "end": "2027-01-08",
+            "label": "Утро",
+            "source": "https://tecnokids.com/colonia/",
+            "price": "На странице за неделю 265 000 и ранний тариф 220 000 до 30 ноября. Для второго ребёнка объявлена скидка 10%. Уточнить валюту счёта и совместимость скидок.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-05",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-06",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-07",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-08",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "w1-pm",
+            "start": "2027-01-04",
+            "end": "2027-01-08",
+            "label": "После обеда",
+            "source": "https://tecnokids.com/colonia/",
+            "price": "На странице за неделю 265 000 и ранний тариф 220 000 до 30 ноября. Для второго ребёнка объявлена скидка 10%. Уточнить валюту счёта и совместимость скидок.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-05",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-06",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-07",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-08",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "w2-am",
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "label": "Утро",
+            "source": "https://tecnokids.com/colonia/",
+            "price": "На странице за неделю 265 000 и ранний тариф 220 000 до 30 ноября. Для второго ребёнка объявлена скидка 10%. Уточнить валюту счёта и совместимость скидок.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-12",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-13",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-14",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-15",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "w2-pm",
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "label": "После обеда",
+            "source": "https://tecnokids.com/colonia/",
+            "price": "На странице за неделю 265 000 и ранний тариф 220 000 до 30 ноября. Для второго ребёнка объявлена скидка 10%. Уточнить валюту счёта и совместимость скидок.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-12",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-13",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-14",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-15",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "w3-am",
+            "start": "2027-01-18",
+            "end": "2027-01-22",
+            "label": "Утро",
+            "source": "https://tecnokids.com/colonia/",
+            "price": "На странице за неделю 265 000 и ранний тариф 220 000 до 30 ноября. Для второго ребёнка объявлена скидка 10%. Уточнить валюту счёта и совместимость скидок.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-19",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-20",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-21",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-22",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "w3-pm",
+            "start": "2027-01-18",
+            "end": "2027-01-22",
+            "label": "После обеда",
+            "source": "https://tecnokids.com/colonia/",
+            "price": "На странице за неделю 265 000 и ранний тариф 220 000 до 30 ноября. Для второго ребёнка объявлена скидка 10%. Уточнить валюту счёта и совместимость скидок.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-19",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-20",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-21",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-22",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "w4-am",
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Утро",
+            "source": "https://tecnokids.com/colonia/",
+            "price": "На странице за неделю 265 000 и ранний тариф 220 000 до 30 ноября. Для второго ребёнка объявлена скидка 10%. Уточнить валюту счёта и совместимость скидок.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-26",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-27",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-28",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-29",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "w4-pm",
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "После обеда",
+            "source": "https://tecnokids.com/colonia/",
+            "price": "На странице за неделю 265 000 и ранний тариф 220 000 до 30 ноября. Для второго ребёнка объявлена скидка 10%. Уточнить валюту счёта и совместимость скидок.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-26",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-27",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-28",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-29",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "ARS",
+        "amount": 265000,
+        "unit": "week",
+        "label": "На странице за неделю 265 000 и ранний тариф 220 000 до 30 ноября. Для второго ребёнка объявлена скидка 10%. Уточнить валюту счёта и совместимость скидок.",
+        "included": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+        "extras": "Взять воду и перекус. Организатор предоставляет воду и фрукты. Стоимость прочих услуг уточнить. На странице цена за 2 недели 380 000 или 320 000 по раннему тарифу, за 3 недели 550 000 или 462 000, за 4 недели 700 000 или 588 000. Можно выбирать отдельные недели.",
+        "deposit": "На странице указана оплата переводом. Уточнить валюту счёта, возврат и применение скидки."
+      },
+      "accommodation": "Дневной лагерь без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Проверить распределение по группам у организатора."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Проверить школьную ступень и распределение по группам."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить школьный класс, язык занятий и место для каждого ребёнка."
+      ],
+      "sources": [
+        {
+          "url": "https://tecnokids.com/colonia/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "pairing": {
+        "venue_id": "tecnokids-villa-urquiza",
+        "verified_source": "https://tecnokids.com/colonia/",
+        "checked": "2026-11-06"
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1809-20270104-20270108-w1-am"
+          ]
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1809-20270104-20270108-w1-pm"
+          ]
+        },
+        {
+          "start": "2027-01-11",
+          "end": "2027-01-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1809-20270111-20270115-w2-am"
+          ]
+        },
+        {
+          "start": "2027-01-11",
+          "end": "2027-01-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1809-20270111-20270115-w2-pm"
+          ]
+        },
+        {
+          "start": "2027-01-18",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1809-20270118-20270122-w3-am"
+          ]
+        },
+        {
+          "start": "2027-01-18",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1809-20270118-20270122-w3-pm"
+          ]
+        },
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1809-20270125-20270129-w4-am"
+          ]
+        },
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1809-20270125-20270129-w4-pm"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1810",
+      "slug": "tecnokids-buenos-aires-villa-urquiza-g2",
+      "provider": "TecnoKids · Villa Urquiza · 9–13",
+      "country": "Аргентина",
+      "iso": "ARG",
+      "place": "Villa Urquiza · St. Patrick’s School · Nahuel Huapi 4141 · Buenos Aires",
+      "age": "Группа 9–13 лет. Основные группы 5–8 и 9–13 лет. Состав могут перераспределить по числу записавшихся. Допуск от Sala de 5 до 7 класса.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык инструктажа конкретной смены не указан. Уточнить английский и испанский.",
+      "confirmed_instruction_languages": [],
+      "programme": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Недели с понедельника по пятницу. Утро 09:00–12:30, день 14:00–17:30. Последняя неделя только в Palermo.",
+        "sessions": [
+          [
+            "2027-01-04",
+            "2027-01-08"
+          ],
+          [
+            "2027-01-04",
+            "2027-01-08"
+          ],
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ],
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-22"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-22"
+          ],
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ],
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "w1-am",
+            "start": "2027-01-04",
+            "end": "2027-01-08",
+            "label": "Утро",
+            "source": "https://tecnokids.com/colonia/",
+            "price": "На странице за неделю 265 000 и ранний тариф 220 000 до 30 ноября. Для второго ребёнка объявлена скидка 10%. Уточнить валюту счёта и совместимость скидок.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-05",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-06",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-07",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-08",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "w1-pm",
+            "start": "2027-01-04",
+            "end": "2027-01-08",
+            "label": "После обеда",
+            "source": "https://tecnokids.com/colonia/",
+            "price": "На странице за неделю 265 000 и ранний тариф 220 000 до 30 ноября. Для второго ребёнка объявлена скидка 10%. Уточнить валюту счёта и совместимость скидок.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-05",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-06",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-07",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-08",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "w2-am",
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "label": "Утро",
+            "source": "https://tecnokids.com/colonia/",
+            "price": "На странице за неделю 265 000 и ранний тариф 220 000 до 30 ноября. Для второго ребёнка объявлена скидка 10%. Уточнить валюту счёта и совместимость скидок.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-12",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-13",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-14",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-15",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "w2-pm",
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "label": "После обеда",
+            "source": "https://tecnokids.com/colonia/",
+            "price": "На странице за неделю 265 000 и ранний тариф 220 000 до 30 ноября. Для второго ребёнка объявлена скидка 10%. Уточнить валюту счёта и совместимость скидок.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-12",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-13",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-14",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-15",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "w3-am",
+            "start": "2027-01-18",
+            "end": "2027-01-22",
+            "label": "Утро",
+            "source": "https://tecnokids.com/colonia/",
+            "price": "На странице за неделю 265 000 и ранний тариф 220 000 до 30 ноября. Для второго ребёнка объявлена скидка 10%. Уточнить валюту счёта и совместимость скидок.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-19",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-20",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-21",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-22",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "w3-pm",
+            "start": "2027-01-18",
+            "end": "2027-01-22",
+            "label": "После обеда",
+            "source": "https://tecnokids.com/colonia/",
+            "price": "На странице за неделю 265 000 и ранний тариф 220 000 до 30 ноября. Для второго ребёнка объявлена скидка 10%. Уточнить валюту счёта и совместимость скидок.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-19",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-20",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-21",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-22",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "w4-am",
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Утро",
+            "source": "https://tecnokids.com/colonia/",
+            "price": "На странице за неделю 265 000 и ранний тариф 220 000 до 30 ноября. Для второго ребёнка объявлена скидка 10%. Уточнить валюту счёта и совместимость скидок.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-26",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-27",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-28",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-29",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "w4-pm",
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "После обеда",
+            "source": "https://tecnokids.com/colonia/",
+            "price": "На странице за неделю 265 000 и ранний тариф 220 000 до 30 ноября. Для второго ребёнка объявлена скидка 10%. Уточнить валюту счёта и совместимость скидок.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-26",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-27",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-28",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-29",
+                "topic": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "ARS",
+        "amount": 265000,
+        "unit": "week",
+        "label": "На странице за неделю 265 000 и ранний тариф 220 000 до 30 ноября. Для второго ребёнка объявлена скидка 10%. Уточнить валюту счёта и совместимость скидок.",
+        "included": "Робототехника, программирование, инженерные опыты и игры. Комплекты LEGO WeDo, micro:bit и Code & Go используются по возрасту и заданию.",
+        "extras": "Взять воду и перекус. Организатор предоставляет воду и фрукты. Стоимость прочих услуг уточнить. На странице цена за 2 недели 380 000 или 320 000 по раннему тарифу, за 3 недели 550 000 или 462 000, за 4 недели 700 000 или 588 000. Можно выбирать отдельные недели.",
+        "deposit": "На странице указана оплата переводом. Уточнить валюту счёта, возврат и применение скидки."
+      },
+      "accommodation": "Дневной лагерь без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Проверить школьную ступень и распределение по группам."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Проверить распределение по группам у организатора."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить школьный класс, язык занятий и место для каждого ребёнка."
+      ],
+      "sources": [
+        {
+          "url": "https://tecnokids.com/colonia/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "pairing": {
+        "venue_id": "tecnokids-villa-urquiza",
+        "verified_source": "https://tecnokids.com/colonia/",
+        "checked": "2026-11-06"
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1810-20270104-20270108-w1-am"
+          ]
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1810-20270104-20270108-w1-pm"
+          ]
+        },
+        {
+          "start": "2027-01-11",
+          "end": "2027-01-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1810-20270111-20270115-w2-am"
+          ]
+        },
+        {
+          "start": "2027-01-11",
+          "end": "2027-01-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1810-20270111-20270115-w2-pm"
+          ]
+        },
+        {
+          "start": "2027-01-18",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1810-20270118-20270122-w3-am"
+          ]
+        },
+        {
+          "start": "2027-01-18",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1810-20270118-20270122-w3-pm"
+          ]
+        },
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1810-20270125-20270129-w4-am"
+          ]
+        },
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1810-20270125-20270129-w4-pm"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1811",
+      "slug": "ba-vacaciones-en-la-escuela-primaria",
+      "provider": "Vacaciones en la Escuela · Primaria · Verano 2027",
+      "country": "Аргентина",
+      "iso": "ARG",
+      "place": "Buenos Aires",
+      "age": "Начальная школа, 6–12 лет. Открыто для детей с разными формами обучения. Допуск по месту проживания и документам уточнить.",
+      "themes": [
+        "general",
+        "robotics",
+        "science",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык инструктажа конкретной смены не указан. Уточнить английский и испанский.",
+      "confirmed_instruction_languages": [],
+      "programme": "Городская каникулярная программа с разными активностями. Робототехника есть в общем списке для начальной школы. Наличие на конкретной площадке уточнить.",
+      "timing": {
+        "status": "published_2027",
+        "label": "4–29 января 2027, понедельник–пятница. Одна смена на площадку, 09:00–16:00 либо 11:00–18:00. Предзапись 9–27 ноября 2026.",
+        "sessions": [
+          [
+            "2027-01-04",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "municipal-window",
+            "start": "2027-01-04",
+            "end": "2027-01-29",
+            "label": "Городская программа",
+            "source": "https://buenosaires.gob.ar/educacion/vacaciones-en-la-escuela",
+            "price": "Цена не опубликована.",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            }
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "season_window"
+      },
+      "price": {
+        "year": 2027,
+        "label": "Цена не опубликована.",
+        "included": "Городская каникулярная программа с разными активностями. Робототехника есть в общем списке для начальной школы. Наличие на конкретной площадке уточнить.",
+        "extras": "Подтвердить школьный класс, язык занятий и место для каждого ребёнка.",
+        "deposit": "Проверить итоговую сумму и условия возврата перед оплатой."
+      },
+      "accommodation": "Дневной лагерь без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Возраст подходит. Уточнить место и язык занятия."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Возраст подходит. Уточнить место и язык занятия."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить школьный класс, язык занятий и место для каждого ребёнка."
+      ],
+      "sources": [
+        {
+          "url": "https://buenosaires.gob.ar/educacion/vacaciones-en-la-escuela",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://colonias.bue.edu.ar/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-29",
+          "kind": "season_window",
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "id": "CP1812",
+      "slug": "kidsventors-caballito-winter-2027",
+      "provider": "KidsVentors · Colonia de invierno",
+      "country": "Аргентина",
+      "iso": "ARG",
+      "place": "Lezica 4406 · Caballito · Buenos Aires",
+      "age": "6–10 лет.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык инструктажа конкретной смены не указан. Уточнить английский и испанский.",
+      "confirmed_instruction_languages": [],
+      "programme": "Робототехника, программирование, инженерия из картона и 3D-печать.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Организатор упоминает зимние каникулы 2027. Точные дни, тариф и форма записи ожидаются.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "label": "Цена текущего набора не подтверждена.",
+        "included": "Робототехника, программирование, инженерия из картона и 3D-печать.",
+        "extras": "Подтвердить школьный класс, язык занятий и место для каждого ребёнка.",
+        "deposit": "Проверить итоговую сумму и условия возврата перед оплатой."
+      },
+      "accommodation": "Очная короткая мастерская без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Возраст подходит. Уточнить место и язык занятия."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Возраст подходит. Уточнить место и язык занятия."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить школьный класс, язык занятий и место для каждого ребёнка."
+      ],
+      "sources": [
+        {
+          "url": "https://kidsventors.com/colonias",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1813",
+      "slug": "kidsventors-vr-abasto-winter-2027",
+      "provider": "KidsVentors × VR Parque · Colonia de invierno",
+      "country": "Аргентина",
+      "iso": "ARG",
+      "place": "Corrientes 3266 · Abasto · Buenos Aires",
+      "age": "8–12 лет.",
+      "themes": [
+        "robotics",
+        "games",
+        "engineering",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык инструктажа конкретной смены не указан. Уточнить английский и испанский.",
+      "confirmed_instruction_languages": [],
+      "programme": "Робототехника, электроника Cyber Brick и виртуальная реальность.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Организатор упоминает зимние каникулы 2027. Точные дни, тариф и форма записи ожидаются.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "label": "Цена текущего набора не подтверждена.",
+        "included": "Робототехника, электроника Cyber Brick и виртуальная реальность.",
+        "extras": "Подтвердить школьный класс, язык занятий и место для каждого ребёнка.",
+        "deposit": "Проверить итоговую сумму и условия возврата перед оплатой."
+      },
+      "accommodation": "Очная короткая мастерская без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Возраст подходит. Уточнить место и язык занятия."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Минимум 8 лет."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить школьный класс, язык занятий и место для каждого ребёнка."
+      ],
+      "sources": [
+        {
+          "url": "https://kidsventors.com/colonias",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://vrarena.ar/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1814",
+      "slug": "young-engineers-uruguay-particular",
+      "provider": "Young Engineers Uruguay · Talleres particulares",
+      "country": "Уругвай",
+      "iso": "URY",
+      "place": "Montevideo · Ciudad de la Costa",
+      "age": "6–12 лет.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык инструктажа конкретной смены не указан. Уточнить английский и испанский.",
+      "confirmed_instruction_languages": [],
+      "programme": "Робототехника, конструирование и программирование. Формат еженедельного кружка.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Еженедельные занятия в малых группах. Точное расписание и старт набора уточнить.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "label": "Цена текущего набора не подтверждена.",
+        "included": "Робототехника, конструирование и программирование. Формат еженедельного кружка.",
+        "extras": "Подтвердить школьный класс, язык занятий и место для каждого ребёнка.",
+        "deposit": "Проверить итоговую сумму и условия возврата перед оплатой."
+      },
+      "accommodation": "Очная короткая мастерская без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Возраст подходит. Уточнить место и язык занятия."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Возраст подходит. Уточнить место и язык занятия."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить школьный класс, язык занятий и место для каждого ребёнка."
+      ],
+      "sources": [
+        {
+          "url": "https://www.robotica-ye.com/nuestras-propuestas",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.robotica-ye.com/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "course",
+      "catalog_participation": "course",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1815",
+      "slug": "young-engineers-uruguay-institutional",
+      "provider": "Young Engineers Uruguay · Summer & Winter Camps",
+      "country": "Уругвай",
+      "iso": "URY",
+      "place": "Montevideo · Ciudad de la Costa",
+      "age": "Уточнить возрастной допуск, наличие места и точный режим доступа у организатора.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык инструктажа конкретной смены не указан. Уточнить английский и испанский.",
+      "confirmed_instruction_languages": [],
+      "programme": "Каникулярные мастерские по робототехнике для школ и организаторов лагерей.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Групповой формат через школу или лагерь. Возраст и даты текущих смен уточнить.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "label": "Цена текущего набора не подтверждена.",
+        "included": "Каникулярные мастерские по робототехнике для школ и организаторов лагерей.",
+        "extras": "Подтвердить школьный класс, язык занятий и место для каждого ребёнка.",
+        "deposit": "Проверить итоговую сумму и условия возврата перед оплатой."
+      },
+      "accommodation": "Очная короткая мастерская без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Точный возрастной допуск и наличие места уточнить у площадки."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Точный возрастной допуск и наличие места уточнить у площадки."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить школьный класс, язык занятий и место для каждого ребёнка."
+      ],
+      "sources": [
+        {
+          "url": "https://www.robotica-ye.com/nuestras-propuestas",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.robotica-ye.com/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1816",
+      "slug": "fundacion-social-perea-scratch-es",
+      "provider": "Fundación Social Perea · Programación con Scratch",
+      "country": "Колумбия",
+      "iso": "COL",
+      "place": "Онлайн · оператор из Колумбии",
+      "age": "Документ рекомендует Scratch детям от 7 лет. Нижнюю границу допуска уточнить.",
+      "themes": [
+        "coding",
+        "games",
+        "technology"
+      ],
+      "formats": [
+        "online"
+      ],
+      "language": "Занятия на испанском по документам программы.",
+      "confirmed_instruction_languages": [
+        "ES"
+      ],
+      "programme": "Асинхронный курс по созданию игр и анимации в Scratch. Нужны компьютер, интернет, чтение и письмо на испанском.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Асинхронная запись по регламенту возможна весь год. Портал Ecuador показывает последнюю когорту 3 декабря 2026.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "USD",
+        "amount": 0,
+        "unit": "course",
+        "label": "Курс бесплатный. Сертификат по желанию стоит USD 25.",
+        "included": "Асинхронный курс по созданию игр и анимации в Scratch. Нужны компьютер, интернет, чтение и письмо на испанском.",
+        "extras": "Сертификат приобретается отдельно по желанию.",
+        "deposit": "Проверить итоговую сумму и условия возврата перед оплатой."
+      },
+      "accommodation": "Очная короткая мастерская без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст подходит по рекомендации. Уточнить иностранный допуск и участие несовершеннолетнего."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Возраст ниже рекомендованных 7 лет. Уточнить допуск."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить школьный класс, язык занятий и место для каждого ребёнка."
+      ],
+      "sources": [
+        {
+          "url": "https://siau.senescyt.gob.ec/programacion-con-scratch-2/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://siau.senescyt.gob.ec/wp-content/uploads/2026/05/Resena-de-la-oferta-0084-V2.pdf",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://fundacionsocialperea.org/detalle-programa.php?id=37&curso=programacion-con-scratch",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "course",
+      "catalog_participation": "course",
+      "related_event_ids": [],
+      "calendar_links": []
     }
   ],
   "gaps": [
@@ -311075,7 +314225,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 232,
+  "version": 234,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -324310,7 +327460,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1806,
+      "total_dossiers": 1816,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -344355,6 +347505,186 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP1807",
+      "event_id": "CP1807-20270104-20270108-w1-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1807",
+      "event_id": "CP1807-20270104-20270108-w1-pm",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1807",
+      "event_id": "CP1807-20270111-20270115-w2-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1807",
+      "event_id": "CP1807-20270111-20270115-w2-pm",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1807",
+      "event_id": "CP1807-20270118-20270122-w3-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1807",
+      "event_id": "CP1807-20270118-20270122-w3-pm",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1807",
+      "event_id": "CP1807-20270125-20270129-w4-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1807",
+      "event_id": "CP1807-20270125-20270129-w4-pm",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1807",
+      "event_id": "CP1807-20270201-20270205-w5-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1807",
+      "event_id": "CP1807-20270201-20270205-w5-pm",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1808",
+      "event_id": "CP1808-20270104-20270108-w1-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1808",
+      "event_id": "CP1808-20270104-20270108-w1-pm",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1808",
+      "event_id": "CP1808-20270111-20270115-w2-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1808",
+      "event_id": "CP1808-20270111-20270115-w2-pm",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1808",
+      "event_id": "CP1808-20270118-20270122-w3-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1808",
+      "event_id": "CP1808-20270118-20270122-w3-pm",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1808",
+      "event_id": "CP1808-20270125-20270129-w4-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1808",
+      "event_id": "CP1808-20270125-20270129-w4-pm",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1808",
+      "event_id": "CP1808-20270201-20270205-w5-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1808",
+      "event_id": "CP1808-20270201-20270205-w5-pm",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1809",
+      "event_id": "CP1809-20270104-20270108-w1-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1809",
+      "event_id": "CP1809-20270104-20270108-w1-pm",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1809",
+      "event_id": "CP1809-20270111-20270115-w2-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1809",
+      "event_id": "CP1809-20270111-20270115-w2-pm",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1809",
+      "event_id": "CP1809-20270118-20270122-w3-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1809",
+      "event_id": "CP1809-20270118-20270122-w3-pm",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1809",
+      "event_id": "CP1809-20270125-20270129-w4-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1809",
+      "event_id": "CP1809-20270125-20270129-w4-pm",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1810",
+      "event_id": "CP1810-20270104-20270108-w1-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1810",
+      "event_id": "CP1810-20270104-20270108-w1-pm",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1810",
+      "event_id": "CP1810-20270111-20270115-w2-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1810",
+      "event_id": "CP1810-20270111-20270115-w2-pm",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1810",
+      "event_id": "CP1810-20270118-20270122-w3-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1810",
+      "event_id": "CP1810-20270118-20270122-w3-pm",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1810",
+      "event_id": "CP1810-20270125-20270129-w4-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1810",
+      "event_id": "CP1810-20270125-20270129-w4-pm",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -348608,12 +351938,48 @@
     "CP1801-20270308-20270312-march-8",
     "CP1801-20270315-20270319-march-15",
     "CP1803-20270322-20270326-spring",
-    "CP1804-20270322-20270326-spring"
+    "CP1804-20270322-20270326-spring",
+    "CP1807-20270104-20270108-w1-am",
+    "CP1807-20270104-20270108-w1-pm",
+    "CP1807-20270111-20270115-w2-am",
+    "CP1807-20270111-20270115-w2-pm",
+    "CP1807-20270118-20270122-w3-am",
+    "CP1807-20270118-20270122-w3-pm",
+    "CP1807-20270125-20270129-w4-am",
+    "CP1807-20270125-20270129-w4-pm",
+    "CP1807-20270201-20270205-w5-am",
+    "CP1807-20270201-20270205-w5-pm",
+    "CP1808-20270104-20270108-w1-am",
+    "CP1808-20270104-20270108-w1-pm",
+    "CP1808-20270111-20270115-w2-am",
+    "CP1808-20270111-20270115-w2-pm",
+    "CP1808-20270118-20270122-w3-am",
+    "CP1808-20270118-20270122-w3-pm",
+    "CP1808-20270125-20270129-w4-am",
+    "CP1808-20270125-20270129-w4-pm",
+    "CP1808-20270201-20270205-w5-am",
+    "CP1808-20270201-20270205-w5-pm",
+    "CP1809-20270104-20270108-w1-am",
+    "CP1809-20270104-20270108-w1-pm",
+    "CP1809-20270111-20270115-w2-am",
+    "CP1809-20270111-20270115-w2-pm",
+    "CP1809-20270118-20270122-w3-am",
+    "CP1809-20270118-20270122-w3-pm",
+    "CP1809-20270125-20270129-w4-am",
+    "CP1809-20270125-20270129-w4-pm",
+    "CP1810-20270104-20270108-w1-am",
+    "CP1810-20270104-20270108-w1-pm",
+    "CP1810-20270111-20270115-w2-am",
+    "CP1810-20270111-20270115-w2-pm",
+    "CP1810-20270118-20270122-w3-am",
+    "CP1810-20270118-20270122-w3-pm",
+    "CP1810-20270125-20270129-w4-am",
+    "CP1810-20270125-20270129-w4-pm"
   ],
   "integration": {
-    "generated_sessions": 3823,
+    "generated_sessions": 3859,
     "reused_legacy_events": 69,
-    "seasonal_windows": 70,
+    "seasonal_windows": 71,
     "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."
   }
 }

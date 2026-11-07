@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-07. 1806 fichas en 104 países. Las fechas de verificación de las fuentes se indican en cada ficha.
+Estado de la base: 2026-11-07. 1816 fichas en 104 países. Las fechas de verificación de las fuentes se indican en cada ficha.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -142779,6 +142779,1128 @@ Canadá · 3100 Steeles Ave E · Markham
 ### Fuentes
 
 - [Página oficial del organizador](https://www.yorkeducation.org/programs/team-nova-spark) · 2026-11-07
+
+## CP1807 · TecnoKids · Palermo · 5–8
+
+Argentina · Palermo · Amapola · Nicaragua 4739 · Buenos Aires
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grupo de 5–8 años. Grupos principales de 5–8 y 9–13 años. Pueden reorganizarse según inscripciones. Admisión desde Sala de 5 hasta 7 curso.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** Semanas de lunes a viernes. Mañana 09:00–12:30, tarde 14:00–17:30. Última semana solo en Palermo.
+
+**Precio / año:** 2027 · La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación.
+
+**Incluido:** Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+**Suplementos:** Llevar agua y tentempié. El organizador facilita agua y fruta. Confirmar coste de otros servicios. La página muestra 2 semanas por 380 000 o 320 000 con tarifa anticipada, 3 semanas por 550 000 o 462 000, 4 semanas por 700 000 o 588 000. Se pueden elegir semanas separadas. En Palermo, 5 semanas por 850 000 o 714 000 con tarifa anticipada.
+
+**Pago:** La página indica pago por transferencia. Confirmar moneda de factura, reembolso y aplicación del descuento.
+
+**Matvey:** Confirmar reparto de grupos con el organizador.
+
+**Oscar:** Condicional. Confirmar curso y distribución por grupos.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar curso escolar, idioma de las actividades y plaza para cada menor.
+
+### Mañana
+
+**Fechas / estado:** 2027-01-04 — 2027-01-08
+
+**Precio:** La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación.
+
+- 2027-01-04 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-05 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-06 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-07 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-08 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://tecnokids.com/colonia/)
+
+### Tarde
+
+**Fechas / estado:** 2027-01-04 — 2027-01-08
+
+**Precio:** La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación.
+
+- 2027-01-04 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-05 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-06 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-07 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-08 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://tecnokids.com/colonia/)
+
+### Mañana
+
+**Fechas / estado:** 2027-01-11 — 2027-01-15
+
+**Precio:** La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación.
+
+- 2027-01-11 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-12 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-13 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-14 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-15 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://tecnokids.com/colonia/)
+
+### Tarde
+
+**Fechas / estado:** 2027-01-11 — 2027-01-15
+
+**Precio:** La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación.
+
+- 2027-01-11 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-12 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-13 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-14 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-15 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://tecnokids.com/colonia/)
+
+### Mañana
+
+**Fechas / estado:** 2027-01-18 — 2027-01-22
+
+**Precio:** La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación.
+
+- 2027-01-18 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-19 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-20 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-21 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-22 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://tecnokids.com/colonia/)
+
+### Tarde
+
+**Fechas / estado:** 2027-01-18 — 2027-01-22
+
+**Precio:** La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación.
+
+- 2027-01-18 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-19 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-20 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-21 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-22 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://tecnokids.com/colonia/)
+
+### Mañana
+
+**Fechas / estado:** 2027-01-25 — 2027-01-29
+
+**Precio:** La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación.
+
+- 2027-01-25 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-26 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-27 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-28 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-29 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://tecnokids.com/colonia/)
+
+### Tarde
+
+**Fechas / estado:** 2027-01-25 — 2027-01-29
+
+**Precio:** La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación.
+
+- 2027-01-25 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-26 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-27 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-28 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-29 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://tecnokids.com/colonia/)
+
+### Mañana
+
+**Fechas / estado:** 2027-02-01 — 2027-02-05
+
+**Precio:** La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación.
+
+- 2027-02-01 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-02-02 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-02-03 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-02-04 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-02-05 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://tecnokids.com/colonia/)
+
+### Tarde
+
+**Fechas / estado:** 2027-02-01 — 2027-02-05
+
+**Precio:** La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación.
+
+- 2027-02-01 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-02-02 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-02-03 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-02-04 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-02-05 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://tecnokids.com/colonia/)
+
+### Fuentes
+
+- [Página oficial del organizador](https://tecnokids.com/colonia/) · 2026-11-07
+
+## CP1808 · TecnoKids · Palermo · 9–13
+
+Argentina · Palermo · Amapola · Nicaragua 4739 · Buenos Aires
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grupo de 9–13 años. Grupos principales de 5–8 y 9–13 años. Pueden reorganizarse según inscripciones. Admisión desde Sala de 5 hasta 7 curso.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** Semanas de lunes a viernes. Mañana 09:00–12:30, tarde 14:00–17:30. Última semana solo en Palermo.
+
+**Precio / año:** 2027 · La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación.
+
+**Incluido:** Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+**Suplementos:** Llevar agua y tentempié. El organizador facilita agua y fruta. Confirmar coste de otros servicios. La página muestra 2 semanas por 380 000 o 320 000 con tarifa anticipada, 3 semanas por 550 000 o 462 000, 4 semanas por 700 000 o 588 000. Se pueden elegir semanas separadas. En Palermo, 5 semanas por 850 000 o 714 000 con tarifa anticipada.
+
+**Pago:** La página indica pago por transferencia. Confirmar moneda de factura, reembolso y aplicación del descuento.
+
+**Matvey:** Condicional. Confirmar curso y distribución por grupos.
+
+**Oscar:** Confirmar reparto de grupos con el organizador.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar curso escolar, idioma de las actividades y plaza para cada menor.
+
+### Mañana
+
+**Fechas / estado:** 2027-01-04 — 2027-01-08
+
+**Precio:** La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación.
+
+- 2027-01-04 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-05 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-06 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-07 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-08 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://tecnokids.com/colonia/)
+
+### Tarde
+
+**Fechas / estado:** 2027-01-04 — 2027-01-08
+
+**Precio:** La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación.
+
+- 2027-01-04 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-05 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-06 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-07 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-08 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://tecnokids.com/colonia/)
+
+### Mañana
+
+**Fechas / estado:** 2027-01-11 — 2027-01-15
+
+**Precio:** La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación.
+
+- 2027-01-11 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-12 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-13 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-14 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-15 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://tecnokids.com/colonia/)
+
+### Tarde
+
+**Fechas / estado:** 2027-01-11 — 2027-01-15
+
+**Precio:** La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación.
+
+- 2027-01-11 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-12 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-13 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-14 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-15 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://tecnokids.com/colonia/)
+
+### Mañana
+
+**Fechas / estado:** 2027-01-18 — 2027-01-22
+
+**Precio:** La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación.
+
+- 2027-01-18 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-19 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-20 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-21 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-22 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://tecnokids.com/colonia/)
+
+### Tarde
+
+**Fechas / estado:** 2027-01-18 — 2027-01-22
+
+**Precio:** La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación.
+
+- 2027-01-18 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-19 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-20 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-21 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-22 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://tecnokids.com/colonia/)
+
+### Mañana
+
+**Fechas / estado:** 2027-01-25 — 2027-01-29
+
+**Precio:** La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación.
+
+- 2027-01-25 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-26 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-27 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-28 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-29 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://tecnokids.com/colonia/)
+
+### Tarde
+
+**Fechas / estado:** 2027-01-25 — 2027-01-29
+
+**Precio:** La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación.
+
+- 2027-01-25 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-26 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-27 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-28 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-29 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://tecnokids.com/colonia/)
+
+### Mañana
+
+**Fechas / estado:** 2027-02-01 — 2027-02-05
+
+**Precio:** La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación.
+
+- 2027-02-01 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-02-02 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-02-03 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-02-04 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-02-05 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://tecnokids.com/colonia/)
+
+### Tarde
+
+**Fechas / estado:** 2027-02-01 — 2027-02-05
+
+**Precio:** La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación.
+
+- 2027-02-01 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-02-02 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-02-03 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-02-04 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-02-05 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://tecnokids.com/colonia/)
+
+### Fuentes
+
+- [Página oficial del organizador](https://tecnokids.com/colonia/) · 2026-11-07
+
+## CP1809 · TecnoKids · Villa Urquiza · 5–8
+
+Argentina · Villa Urquiza · St. Patrick’s School · Nahuel Huapi 4141 · Buenos Aires
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grupo de 5–8 años. Grupos principales de 5–8 y 9–13 años. Pueden reorganizarse según inscripciones. Admisión desde Sala de 5 hasta 7 curso.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** Semanas de lunes a viernes. Mañana 09:00–12:30, tarde 14:00–17:30. Última semana solo en Palermo.
+
+**Precio / año:** 2027 · La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación.
+
+**Incluido:** Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+**Suplementos:** Llevar agua y tentempié. El organizador facilita agua y fruta. Confirmar coste de otros servicios. La página muestra 2 semanas por 380 000 o 320 000 con tarifa anticipada, 3 semanas por 550 000 o 462 000, 4 semanas por 700 000 o 588 000. Se pueden elegir semanas separadas.
+
+**Pago:** La página indica pago por transferencia. Confirmar moneda de factura, reembolso y aplicación del descuento.
+
+**Matvey:** Confirmar reparto de grupos con el organizador.
+
+**Oscar:** Condicional. Confirmar curso y distribución por grupos.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar curso escolar, idioma de las actividades y plaza para cada menor.
+
+### Mañana
+
+**Fechas / estado:** 2027-01-04 — 2027-01-08
+
+**Precio:** La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación.
+
+- 2027-01-04 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-05 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-06 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-07 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-08 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://tecnokids.com/colonia/)
+
+### Tarde
+
+**Fechas / estado:** 2027-01-04 — 2027-01-08
+
+**Precio:** La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación.
+
+- 2027-01-04 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-05 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-06 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-07 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-08 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://tecnokids.com/colonia/)
+
+### Mañana
+
+**Fechas / estado:** 2027-01-11 — 2027-01-15
+
+**Precio:** La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación.
+
+- 2027-01-11 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-12 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-13 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-14 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-15 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://tecnokids.com/colonia/)
+
+### Tarde
+
+**Fechas / estado:** 2027-01-11 — 2027-01-15
+
+**Precio:** La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación.
+
+- 2027-01-11 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-12 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-13 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-14 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-15 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://tecnokids.com/colonia/)
+
+### Mañana
+
+**Fechas / estado:** 2027-01-18 — 2027-01-22
+
+**Precio:** La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación.
+
+- 2027-01-18 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-19 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-20 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-21 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-22 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://tecnokids.com/colonia/)
+
+### Tarde
+
+**Fechas / estado:** 2027-01-18 — 2027-01-22
+
+**Precio:** La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación.
+
+- 2027-01-18 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-19 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-20 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-21 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-22 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://tecnokids.com/colonia/)
+
+### Mañana
+
+**Fechas / estado:** 2027-01-25 — 2027-01-29
+
+**Precio:** La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación.
+
+- 2027-01-25 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-26 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-27 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-28 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-29 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://tecnokids.com/colonia/)
+
+### Tarde
+
+**Fechas / estado:** 2027-01-25 — 2027-01-29
+
+**Precio:** La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación.
+
+- 2027-01-25 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-26 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-27 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-28 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-29 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://tecnokids.com/colonia/)
+
+### Fuentes
+
+- [Página oficial del organizador](https://tecnokids.com/colonia/) · 2026-11-07
+
+## CP1810 · TecnoKids · Villa Urquiza · 9–13
+
+Argentina · Villa Urquiza · St. Patrick’s School · Nahuel Huapi 4141 · Buenos Aires
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grupo de 9–13 años. Grupos principales de 5–8 y 9–13 años. Pueden reorganizarse según inscripciones. Admisión desde Sala de 5 hasta 7 curso.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** Semanas de lunes a viernes. Mañana 09:00–12:30, tarde 14:00–17:30. Última semana solo en Palermo.
+
+**Precio / año:** 2027 · La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación.
+
+**Incluido:** Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+**Suplementos:** Llevar agua y tentempié. El organizador facilita agua y fruta. Confirmar coste de otros servicios. La página muestra 2 semanas por 380 000 o 320 000 con tarifa anticipada, 3 semanas por 550 000 o 462 000, 4 semanas por 700 000 o 588 000. Se pueden elegir semanas separadas.
+
+**Pago:** La página indica pago por transferencia. Confirmar moneda de factura, reembolso y aplicación del descuento.
+
+**Matvey:** Condicional. Confirmar curso y distribución por grupos.
+
+**Oscar:** Confirmar reparto de grupos con el organizador.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar curso escolar, idioma de las actividades y plaza para cada menor.
+
+### Mañana
+
+**Fechas / estado:** 2027-01-04 — 2027-01-08
+
+**Precio:** La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación.
+
+- 2027-01-04 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-05 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-06 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-07 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-08 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://tecnokids.com/colonia/)
+
+### Tarde
+
+**Fechas / estado:** 2027-01-04 — 2027-01-08
+
+**Precio:** La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación.
+
+- 2027-01-04 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-05 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-06 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-07 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-08 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://tecnokids.com/colonia/)
+
+### Mañana
+
+**Fechas / estado:** 2027-01-11 — 2027-01-15
+
+**Precio:** La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación.
+
+- 2027-01-11 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-12 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-13 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-14 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-15 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://tecnokids.com/colonia/)
+
+### Tarde
+
+**Fechas / estado:** 2027-01-11 — 2027-01-15
+
+**Precio:** La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación.
+
+- 2027-01-11 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-12 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-13 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-14 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-15 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://tecnokids.com/colonia/)
+
+### Mañana
+
+**Fechas / estado:** 2027-01-18 — 2027-01-22
+
+**Precio:** La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación.
+
+- 2027-01-18 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-19 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-20 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-21 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-22 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://tecnokids.com/colonia/)
+
+### Tarde
+
+**Fechas / estado:** 2027-01-18 — 2027-01-22
+
+**Precio:** La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación.
+
+- 2027-01-18 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-19 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-20 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-21 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-22 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://tecnokids.com/colonia/)
+
+### Mañana
+
+**Fechas / estado:** 2027-01-25 — 2027-01-29
+
+**Precio:** La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación.
+
+- 2027-01-25 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-26 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-27 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-28 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-29 · 09:00–12:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://tecnokids.com/colonia/)
+
+### Tarde
+
+**Fechas / estado:** 2027-01-25 — 2027-01-29
+
+**Precio:** La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación.
+
+- 2027-01-25 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-26 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-27 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-28 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+- 2027-01-29 · 14:00–17:30 · America/Argentina/Buenos_Aires · Robótica, programación, experimentos de ingeniería y juegos. Los kits LEGO WeDo, micro:bit y Code & Go se usan según edad y actividad.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://tecnokids.com/colonia/)
+
+### Fuentes
+
+- [Página oficial del organizador](https://tecnokids.com/colonia/) · 2026-11-07
+
+## CP1811 · Vacaciones en la Escuela · Primaria · Verano 2027
+
+Argentina · Buenos Aires
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Primaria, de 6–12 años. Abierto a menores con distintas modalidades escolares. Confirmar admisión por residencia y documentos.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Programa municipal de vacaciones con actividades diversas. La robótica figura en la lista general de primaria. Confirmar disponibilidad en la sede concreta.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** 4–29 de enero de 2027, lunes a viernes. Un turno por sede, 09:00–16:00 o 11:00–18:00. Preinscripción del 9–27 de noviembre de 2026.
+
+**Precio / año:** 2027 · Precio sin publicar.
+
+**Incluido:** Programa municipal de vacaciones con actividades diversas. La robótica figura en la lista general de primaria. Confirmar disponibilidad en la sede concreta.
+
+**Suplementos:** Confirmar curso escolar, idioma de las actividades y plaza para cada menor.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+**Oscar:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar curso escolar, idioma de las actividades y plaza para cada menor.
+
+### Programa municipal
+
+**Fechas / estado:** 2027-01-04 — 2027-01-29
+
+**Precio:** Precio sin publicar.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://buenosaires.gob.ar/educacion/vacaciones-en-la-escuela)
+
+### Fuentes
+
+- [Página oficial del organizador](https://buenosaires.gob.ar/educacion/vacaciones-en-la-escuela) · 2026-11-07
+
+- [Página oficial del organizador](https://colonias.bue.edu.ar/) · 2026-11-07
+
+## CP1812 · KidsVentors · Colonia de invierno
+
+Argentina · Lezica 4406 · Caballito · Buenos Aires
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 6–10 años.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Robótica, programación, ingeniería con cartón e impresión 3D.
+
+**Alojamiento:** Taller presencial breve sin alojamiento.
+
+**Fechas / estado:** El organizador menciona vacaciones de invierno de 2027. Días exactos, tarifa e inscripción pendientes.
+
+**Precio / año:** sin establecer · Tarifa de la convocatoria actual sin confirmar.
+
+**Incluido:** Robótica, programación, ingeniería con cartón e impresión 3D.
+
+**Suplementos:** Confirmar curso escolar, idioma de las actividades y plaza para cada menor.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+**Oscar:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar curso escolar, idioma de las actividades y plaza para cada menor.
+
+### Fuentes
+
+- [Página oficial del organizador](https://kidsventors.com/colonias) · 2026-11-07
+
+## CP1813 · KidsVentors × VR Parque · Colonia de invierno
+
+Argentina · Corrientes 3266 · Abasto · Buenos Aires
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 8–12 años.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Robótica, electrónica Cyber Brick y realidad virtual.
+
+**Alojamiento:** Taller presencial breve sin alojamiento.
+
+**Fechas / estado:** El organizador menciona vacaciones de invierno de 2027. Días exactos, tarifa e inscripción pendientes.
+
+**Precio / año:** sin establecer · Tarifa de la convocatoria actual sin confirmar.
+
+**Incluido:** Robótica, electrónica Cyber Brick y realidad virtual.
+
+**Suplementos:** Confirmar curso escolar, idioma de las actividades y plaza para cada menor.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+**Oscar:** Mínimo 8 años.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar curso escolar, idioma de las actividades y plaza para cada menor.
+
+### Fuentes
+
+- [Página oficial del organizador](https://kidsventors.com/colonias) · 2026-11-07
+
+- [Página oficial del organizador](https://vrarena.ar/) · 2026-11-07
+
+## CP1814 · Young Engineers Uruguay · Talleres particulares
+
+Uruguay · Montevideo · Ciudad de la Costa
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** De 6–12 años.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Robótica, construcción y programación. Formato de taller semanal.
+
+**Alojamiento:** Taller presencial breve sin alojamiento.
+
+**Fechas / estado:** Talleres semanales en grupos reducidos. Confirmar horario exacto y comienzo de inscripción.
+
+**Precio / año:** sin establecer · Tarifa de la convocatoria actual sin confirmar.
+
+**Incluido:** Robótica, construcción y programación. Formato de taller semanal.
+
+**Suplementos:** Confirmar curso escolar, idioma de las actividades y plaza para cada menor.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+**Oscar:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar curso escolar, idioma de las actividades y plaza para cada menor.
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.robotica-ye.com/nuestras-propuestas) · 2026-11-07
+
+- [Página oficial del organizador](https://www.robotica-ye.com/) · 2026-11-07
+
+## CP1815 · Young Engineers Uruguay · Summer & Winter Camps
+
+Uruguay · Montevideo · Ciudad de la Costa
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Talleres de robótica de vacaciones para escuelas y organizadores de colonias.
+
+**Alojamiento:** Taller presencial breve sin alojamiento.
+
+**Fechas / estado:** Modalidad grupal a través de escuela o colonia. Confirmar edad y fechas de las sesiones.
+
+**Precio / año:** sin establecer · Tarifa de la convocatoria actual sin confirmar.
+
+**Incluido:** Talleres de robótica de vacaciones para escuelas y organizadores de colonias.
+
+**Suplementos:** Confirmar curso escolar, idioma de las actividades y plaza para cada menor.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Confirmar edad exacta de acceso y plaza con el recinto.
+
+**Oscar:** Confirmar edad exacta de acceso y plaza con el recinto.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar curso escolar, idioma de las actividades y plaza para cada menor.
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.robotica-ye.com/nuestras-propuestas) · 2026-11-07
+
+- [Página oficial del organizador](https://www.robotica-ye.com/) · 2026-11-07
+
+## CP1816 · Fundación Social Perea · Programación con Scratch
+
+Colombia · En línea · operador de Colombia
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** El documento recomienda Scratch desde los 7 años. Confirmar edad mínima de admisión.
+
+**Idioma:** Actividades en español según documentos del programa.
+
+**Programa:** Curso asíncrono para crear juegos y animaciones en Scratch. Se requiere ordenador, internet, lectura y escritura en español.
+
+**Alojamiento:** Taller presencial breve sin alojamiento.
+
+**Fechas / estado:** Según las bases hay inscripción asíncrona todo el año. El portal de Ecuador muestra última cohorte el 3 de diciembre de 2026.
+
+**Precio / año:** 2026 · Curso gratuito. Certificado opcional por USD 25.
+
+**Incluido:** Curso asíncrono para crear juegos y animaciones en Scratch. Se requiere ordenador, internet, lectura y escritura en español.
+
+**Suplementos:** El certificado se adquiere aparte si se desea.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** La edad encaja con la recomendación. Confirmar admisión extranjera y participación de menor.
+
+**Oscar:** Por debajo de los 7 años recomendados. Confirmar admisión.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar curso escolar, idioma de las actividades y plaza para cada menor.
+
+### Fuentes
+
+- [Página oficial del organizador](https://siau.senescyt.gob.ec/programacion-con-scratch-2/) · 2026-11-07
+
+- [Página oficial del organizador](https://siau.senescyt.gob.ec/wp-content/uploads/2026/05/Resena-de-la-oferta-0084-V2.pdf) · 2026-11-07
+
+- [Página oficial del organizador](https://fundacionsocialperea.org/detalle-programa.php?id=37&curso=programacion-con-scratch) · 2026-11-07
 
 ## ~ Comprobaciones no cerradas
 

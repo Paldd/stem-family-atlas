@@ -1794,7 +1794,8 @@
         "C1204",
         "C1205",
         "C1206",
-        "C1207"
+        "C1207",
+        "E416"
       ],
       "iso": [
         "MEX"
@@ -14450,6 +14451,127 @@
       "admission_kind": "open_application",
       "evidence_level": "event_page",
       "date_scope": "programme_watch"
+    },
+    {
+      "id": "C3343",
+      "block": "Competiciones",
+      "title": "ExpoCiencias Guerrero 2027 · Pandilla Científica Kids",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Expo Mundo Imperial · Acapulco, Guerrero",
+      "start": "2027-01-27",
+      "end": "2027-01-27",
+      "deadline": "2026-12-09",
+      "period": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://universidadespanol.edu.mx/expociencias/convocatoria/Convocatoria_ExpoCiencias_2027.pdf",
+      "references": [
+        {
+          "url": "https://universidadespanol.edu.mx/expociencias/",
+          "label": "Reglas y condiciones de admisión"
+        }
+      ],
+      "age": "Categoría menor Pandilla Científica Kids, cursos 3–6. Mínimo general de 8 años al 27 de enero de 2027.",
+      "mat": "Condicional. Se requiere curso 3–6 en institución de Guerrero.",
+      "osc": "No. Mínimo de 8 años el día de la final.",
+      "format": "Se requiere estudiar en institución del estado de Guerrero. Proyecto individual o hasta 3 estudiantes con docente de la escuela.",
+      "entry": "Se requiere estudiar en institución del estado de Guerrero. Proyecto individual o hasta 3 estudiantes con docente de la escuela.",
+      "gear": "Proyecto científico o técnico propio, incluida mecatrónica. Se exige informe.",
+      "language": "Confirmar el idioma del grupo o sede concretos.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Inscripción de proyecto gratuita. Confirmar traslados y gastos si avanza.",
+      "level": "Clasificación estatal para ExpoCiencias",
+      "reward": "Puestos por categorías, 11 acreditaciones nacionales y 1 pase internacional directo por mayor puntuación.",
+      "priority": "P2 — participación según condiciones",
+      "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
+      "note": "Solicitud docente del 9 de noviembre al 9 de diciembre de 2026, documentos hasta el 16 de diciembre, informe actualizado del 5–14 de enero de 2027. Final presencial.",
+      "themes": [
+        "robotics",
+        "engineering",
+        "science",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Etapa regional",
+      "participation": "individual_or_team",
+      "admission_kind": "school_selection",
+      "evidence_level": "event_page",
+      "date_scope": "competition",
+      "registration_opens": "2026-11-09"
+    },
+    {
+      "id": "E416",
+      "block": "Eventos",
+      "title": "RoboRAVE · Ruta Científica Tecnológica Internacional 2027",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Hotel Friendly Fun Vallarta · Puerto Vallarta",
+      "start": "2027-02-25",
+      "end": "2027-02-28",
+      "deadline": "",
+      "period": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://roboraveinternational.org/eventos/roborave-ruta-cientifica-puerto-vallarta-2027",
+      "references": [
+        {
+          "url": "https://roboraveinternational.org/eventos/roborave-puerto-vallarta-open-2027",
+          "label": "Reglas y condiciones de admisión"
+        }
+      ],
+      "age": "La descripción general incluye primaria, pero la ficha técnica indica MS, HS y UP. Confirmar edad y admisión del proyecto.",
+      "mat": "La descripción general incluye primaria, pero la ficha técnica indica MS, HS y UP. Confirmar edad y admisión del proyecto.",
+      "osc": "La descripción general incluye primaria, pero la ficha técnica indica MS, HS y UP. Confirmar edad y admisión del proyecto.",
+      "format": "Muestra presencial de proyectos científicos y técnicos",
+      "entry": "La descripción general incluye primaria, pero la ficha técnica indica MS, HS y UP. Confirmar edad y admisión del proyecto.",
+      "gear": "",
+      "language": "Confirmar el idioma del grupo o sede concretos.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "La página indica USD 580 por participante o entrenador. Indica alojamiento y comidas. Confirmar tarifa de acompañante y entrada de visitante separada.",
+      "level": "Etapa regional",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
+      "note": "La página muestra a la vez plazos del 31 de octubre y 15 de noviembre de 2026. Confirmar plazo vigente y posibilidad de inscripción.",
+      "themes": [
+        "engineering",
+        "technology",
+        "ai",
+        "robotics"
+      ],
+      "scope": "international",
+      "importance_reason": "Etapa regional",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "date_conflict": "La página muestra a la vez plazos del 31 de octubre y 15 de noviembre de 2026. Confirmar plazo vigente y posibilidad de inscripción.",
+      "visitor_policy": "confirm_children",
+      "visitor_policy_note": "La descripción general incluye primaria, pero la ficha técnica indica MS, HS y UP. Confirmar edad y admisión del proyecto.",
+      "exhibition_tier": "profile",
+      "adult_entry": "Precio sin publicar.",
+      "exhibitor_directory_url": "https://roboraveinternational.org/eventos/roborave-ruta-cientifica-puerto-vallarta-2027",
+      "exhibitors": [],
+      "highlights": [],
+      "related_ids": [
+        "C082"
+      ],
+      "exhibitor_note": "La descripción general incluye primaria, pero la ficha técnica indica MS, HS y UP. Confirmar edad y admisión del proyecto."
     },
     {
       "id": "CP041-20270329-20270402",

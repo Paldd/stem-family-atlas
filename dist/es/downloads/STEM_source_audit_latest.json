@@ -16,13 +16,13 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 8235,
-    "competition_cards": 3341,
-    "event_cards": 413,
-    "camp_cards": 4481,
+    "cards": 8278,
+    "competition_cards": 3345,
+    "event_cards": 416,
+    "camp_cards": 4517,
     "league_profiles": 276,
-    "major_exhibition_cards": 324,
-    "vex_cards": 518,
+    "major_exhibition_cards": 326,
+    "vex_cards": 521,
     "countries_with_records": 161,
     "fully_audited_countries": 0
   },
@@ -34,11 +34,11 @@
         "América Central",
         "Caribe"
       ],
-      "total": 2707,
+      "total": 2709,
       "countries_with_records": 24,
-      "competitions": 1463,
-      "events": 98,
-      "major_exhibitions": 61,
+      "competitions": 1464,
+      "events": 99,
+      "major_exhibitions": 62,
       "camps": 1146,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
@@ -48,12 +48,12 @@
       "regions": [
         "América del Sur"
       ],
-      "total": 425,
+      "total": 466,
       "countries_with_records": 11,
-      "competitions": 232,
-      "events": 32,
-      "major_exhibitions": 29,
-      "camps": 161,
+      "competitions": 235,
+      "events": 34,
+      "major_exhibitions": 30,
+      "camps": 197,
       "status": "Se ha estudiado parcialmente",
       "remaining": "muchos tarjetas de Ecuador y rutas regionales de Chile; Brasil, Perú y otros países requieren etapas, cuotas y calendarios locales."
     },
@@ -1087,14 +1087,17 @@
         "C606",
         "C607",
         "C837",
+        "C3192",
+        "C3194",
+        "C3344",
         "C1155",
         "C1156",
         "C1157",
         "C1158"
       ],
-      "cards": 518,
-      "future_dated": 417,
-      "linked_card_count": 518,
+      "cards": 521,
+      "future_dated": 420,
+      "linked_card_count": 521,
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://www.vexrobotics.com/official-path",
       "new": false
@@ -2117,7 +2120,7 @@
       ],
       "cards": 20,
       "future_dated": 18,
-      "linked_card_count": 20,
+      "linked_card_count": 21,
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://www.roboraveinternational.org/eventos",
       "new": false
@@ -2362,7 +2365,7 @@
       ],
       "cards": 1,
       "future_dated": 1,
-      "linked_card_count": 2,
+      "linked_card_count": 4,
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://online.coolestprojects.org/help",
       "new": false
@@ -10846,6 +10849,28 @@
       "new": false
     },
     {
+      "id": "E414",
+      "name": "Coolest Projects Argentina 2026 · Visita",
+      "country": "Argentina",
+      "region": "América del Sur",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "visitor_policy": "family",
+      "source": "https://coolestprojects.coderdojo.ar/es-AR/visitar",
+      "new": false
+    },
+    {
+      "id": "E416",
+      "name": "RoboRAVE · Ruta Científica Tecnológica Internacional 2027",
+      "country": "México",
+      "region": "América del Norte",
+      "start": "2027-02-25",
+      "end": "2027-02-28",
+      "visitor_policy": "confirm_children",
+      "source": "https://roboraveinternational.org/eventos/roborave-ruta-cientifica-puerto-vallarta-2027",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -13263,8 +13288,8 @@
       }
     ],
     "counts": {
-      "records": 4481,
-      "holiday": 4204,
+      "records": 4517,
+      "holiday": 4240,
       "regular": 120,
       "self_paced_materials": 2,
       "boarding": 1036,

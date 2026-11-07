@@ -1794,7 +1794,8 @@
         "C1204",
         "C1205",
         "C1206",
-        "C1207"
+        "C1207",
+        "E416"
       ],
       "iso": [
         "MEX"
@@ -14450,6 +14451,127 @@
       "admission_kind": "open_application",
       "evidence_level": "event_page",
       "date_scope": "programme_watch"
+    },
+    {
+      "id": "C3343",
+      "block": "Соревнования",
+      "title": "ExpoCiencias Guerrero 2027 · Pandilla Científica Kids",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Expo Mundo Imperial · Acapulco, Guerrero",
+      "start": "2027-01-27",
+      "end": "2027-01-27",
+      "deadline": "2026-12-09",
+      "period": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-07",
+      "proof": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "status": "Идея",
+      "source": "https://universidadespanol.edu.mx/expociencias/convocatoria/Convocatoria_ExpoCiencias_2027.pdf",
+      "references": [
+        {
+          "url": "https://universidadespanol.edu.mx/expociencias/",
+          "label": "Правила и условия допуска"
+        }
+      ],
+      "age": "Младшая категория Pandilla Científica Kids, 3–6 классы. Общий минимум 8 лет на 27 января 2027.",
+      "mat": "Условно. Нужен 3–6 класс в учебном заведении Guerrero.",
+      "osc": "Нет. Минимум 8 лет на день финала.",
+      "format": "Нужно учиться в учебном заведении штата Guerrero. Проект индивидуально или до 3 учеников с педагогом школы.",
+      "entry": "Нужно учиться в учебном заведении штата Guerrero. Проект индивидуально или до 3 учеников с педагогом школы.",
+      "gear": "Свой научный или технический проект, включая мехатронику. Требуется отчёт.",
+      "language": "Язык конкретной группы или площадки уточнить.",
+      "language_certainty": "Язык конкретной группы или площадки уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Регистрация проекта бесплатна. Проезд и расходы при дальнейшем отборе уточнить.",
+      "level": "Отбор штата к ExpoCiencias",
+      "reward": "Места по категориям, 11 национальных аккредитаций и 1 прямой международный пропуск по высшему баллу.",
+      "priority": "P2 — участие по условиям",
+      "action": "Уточнить возрастной допуск, наличие места и точный режим доступа у организатора.",
+      "note": "Заявка учителя 9 ноября–9 декабря 2026, документы до 16 декабря, обновлённый отчёт 5–14 января 2027. Финал очно.",
+      "themes": [
+        "robotics",
+        "engineering",
+        "science",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Региональный этап",
+      "participation": "individual_or_team",
+      "admission_kind": "school_selection",
+      "evidence_level": "event_page",
+      "date_scope": "competition",
+      "registration_opens": "2026-11-09"
+    },
+    {
+      "id": "E416",
+      "block": "События",
+      "title": "RoboRAVE · Ruta Científica Tecnológica Internacional 2027",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Hotel Friendly Fun Vallarta · Puerto Vallarta",
+      "start": "2027-02-25",
+      "end": "2027-02-28",
+      "deadline": "",
+      "period": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-07",
+      "proof": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "status": "Идея",
+      "source": "https://roboraveinternational.org/eventos/roborave-ruta-cientifica-puerto-vallarta-2027",
+      "references": [
+        {
+          "url": "https://roboraveinternational.org/eventos/roborave-puerto-vallarta-open-2027",
+          "label": "Правила и условия допуска"
+        }
+      ],
+      "age": "В общем описании упомянуты начальные школы, но карточка технического трека отмечена MS, HS и UP. Возраст и допуск проекта подтвердить.",
+      "mat": "В общем описании упомянуты начальные школы, но карточка технического трека отмечена MS, HS и UP. Возраст и допуск проекта подтвердить.",
+      "osc": "В общем описании упомянуты начальные школы, но карточка технического трека отмечена MS, HS и UP. Возраст и допуск проекта подтвердить.",
+      "format": "Очный показ научных и технических проектов",
+      "entry": "В общем описании упомянуты начальные школы, но карточка технического трека отмечена MS, HS и UP. Возраст и допуск проекта подтвердить.",
+      "gear": "",
+      "language": "Язык конкретной группы или площадки уточнить.",
+      "language_certainty": "Язык конкретной группы или площадки уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "На странице USD 580 за участника или тренера. Указаны проживание и питание. Тариф сопровождающего и отдельный билет посетителя уточнить.",
+      "level": "Региональный этап",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Уточнить возрастной допуск, наличие места и точный режим доступа у организатора.",
+      "note": "На странице одновременно стоят сроки 31 октября и 15 ноября 2026. Для проекта уточнить актуальный срок и возможность заявки.",
+      "themes": [
+        "engineering",
+        "technology",
+        "ai",
+        "robotics"
+      ],
+      "scope": "international",
+      "importance_reason": "Региональный этап",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "date_conflict": "На странице одновременно стоят сроки 31 октября и 15 ноября 2026. Для проекта уточнить актуальный срок и возможность заявки.",
+      "visitor_policy": "confirm_children",
+      "visitor_policy_note": "В общем описании упомянуты начальные школы, но карточка технического трека отмечена MS, HS и UP. Возраст и допуск проекта подтвердить.",
+      "exhibition_tier": "profile",
+      "adult_entry": "Цена не опубликована.",
+      "exhibitor_directory_url": "https://roboraveinternational.org/eventos/roborave-ruta-cientifica-puerto-vallarta-2027",
+      "exhibitors": [],
+      "highlights": [],
+      "related_ids": [
+        "C082"
+      ],
+      "exhibitor_note": "В общем описании упомянуты начальные школы, но карточка технического трека отмечена MS, HS и UP. Возраст и допуск проекта подтвердить."
     },
     {
       "id": "CP041-20270329-20270402",

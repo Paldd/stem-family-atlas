@@ -3242,6 +3242,32 @@ Limitaciones: La ficha indica inscripción con fecha provisional. La sede y el p
 Fuente: https://hero-challenge.org/events/queretaro-2027
 Se ha comprobado: 2026-11-07
 
+### C3343 · ExpoCiencias Guerrero 2027 · Pandilla Científica Kids
+
+Fecha: 2027-01-27 — 2027-01-27
+edad: Categoría menor Pandilla Científica Kids, cursos 3–6. Mínimo general de 8 años al 27 de enero de 2027.
+Matvey: Condicional. Se requiere curso 3–6 en institución de Guerrero.
+Oscar: No. Mínimo de 8 años el día de la final.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: Se requiere estudiar en institución del estado de Guerrero. Proyecto individual o hasta 3 estudiantes con docente de la escuela.
+Precio: Inscripción de proyecto gratuita. Confirmar traslados y gastos si avanza.
+Limitaciones: Solicitud docente del 9 de noviembre al 9 de diciembre de 2026, documentos hasta el 16 de diciembre, informe actualizado del 5–14 de enero de 2027. Final presencial.
+Fuente: https://universidadespanol.edu.mx/expociencias/convocatoria/Convocatoria_ExpoCiencias_2027.pdf
+Se ha comprobado: 2026-11-07
+
+### E416 · RoboRAVE · Ruta Científica Tecnológica Internacional 2027
+
+Fecha: 2027-02-25 ♫ 2027-02-28
+edad: La descripción general incluye primaria, pero la ficha técnica indica MS, HS y UP. Confirmar edad y admisión del proyecto.
+Matvey: La descripción general incluye primaria, pero la ficha técnica indica MS, HS y UP. Confirmar edad y admisión del proyecto.
+Oscar: La descripción general incluye primaria, pero la ficha técnica indica MS, HS y UP. Confirmar edad y admisión del proyecto.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: La descripción general incluye primaria, pero la ficha técnica indica MS, HS y UP. Confirmar edad y admisión del proyecto.
+Precio: La página indica USD 580 por participante o entrenador. Indica alojamiento y comidas. Confirmar tarifa de acompañante y entrada de visitante separada.
+Limitaciones: La página muestra a la vez plazos del 31 de octubre y 15 de noviembre de 2026. Confirmar plazo vigente y posibilidad de inscripción.
+Fuente: https://roboraveinternational.org/eventos/roborave-ruta-cientifica-puerto-vallarta-2027
+Se ha comprobado: 2026-11-07
+
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02
 
 Fecha: 2027-03-29 - 2027-04-02

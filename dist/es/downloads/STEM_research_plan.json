@@ -870,13 +870,13 @@
   ],
   "completion_rule": "No declarar el objetivo de las tarjetas de identificación completadas, la lista de 249 países o los puntos verdes de UI. Se requiere una cobertura de referencia y condiciones pertinentes demostradas, o información manifiestamente inaccesible o no declarada con fuentes verificadas.",
   "latest_validation": {
-    "version": 233,
+    "version": 234,
     "status": "implementation_snapshot",
-    "events": 8235,
-    "competitions": 3341,
+    "events": 8278,
+    "competitions": 3345,
     "league_profiles": 276,
-    "camp_dossiers": 1806,
-    "budget_offers": 293,
+    "camp_dossiers": 1816,
+    "budget_offers": 298,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
     "worldwide_complete": false,
@@ -926,11 +926,11 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 232,
+    "version": 233,
     "status": "implementation_snapshot",
-    "events": 8212,
-    "competitions": 3323,
-    "league_profiles": 275,
+    "events": 8235,
+    "competitions": 3341,
+    "league_profiles": 276,
     "camp_dossiers": 1806,
     "budget_offers": 293,
     "editorial_reviewed": 71,
@@ -13757,10 +13757,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 233,
+    "prepared_ui_version": 234,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 232,
-    "previous_verified_commit": "8e2d28650691a8074e8a85ba88f3b6d4fda65208"
+    "previous_verified_ui_version": 233,
+    "previous_verified_commit": "80230dd2a2366e708e5ed61030ac92c744e12a71"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20807,11 +20807,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 232,
-    "published_version": 232,
-    "latest_source_commit": "8e2d28650691a8074e8a85ba88f3b6d4fda65208",
-    "published_commit": "8e2d28650691a8074e8a85ba88f3b6d4fda65208",
-    "latest_workflow": 42403593364,
+    "latest_source_version": 233,
+    "published_version": 233,
+    "latest_source_commit": "80230dd2a2366e708e5ed61030ac92c744e12a71",
+    "published_commit": "80230dd2a2366e708e5ed61030ac92c744e12a71",
+    "latest_workflow": 42405489938,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -23325,5 +23325,69 @@
     ],
     "audit": "data/international-junior-routes-audit-v233.json",
     "source_receipts": "data/international-junior-routes-source-receipts-v233.json"
+  },
+  "latam_summer_family_v234": {
+    "version": 234,
+    "checked": "2026-11-07",
+    "previous_goal_turn_classification": "progress",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "source_requests": 39,
+    "new_competitions": 4,
+    "new_exhibition_cards": 3,
+    "new_dated_camp_variants": 36,
+    "new_camp_dossiers": 10,
+    "new_family_budget_offers": 5,
+    "source_records_revised": [
+      "C576",
+      "C082"
+    ],
+    "new_events": [
+      "E414",
+      "E415",
+      "C3343",
+      "C3344",
+      "C3345",
+      "C3346",
+      "E416"
+    ],
+    "programme_ids": {
+      "tecnokids-buenos-aires-palermo-g1": "CP1807",
+      "tecnokids-buenos-aires-palermo-g2": "CP1808",
+      "tecnokids-buenos-aires-villa-urquiza-g1": "CP1809",
+      "tecnokids-buenos-aires-villa-urquiza-g2": "CP1810",
+      "ba-vacaciones-en-la-escuela-primaria": "CP1811",
+      "kidsventors-caballito-winter-2027": "CP1812",
+      "kidsventors-vr-abasto-winter-2027": "CP1813",
+      "young-engineers-uruguay-particular": "CP1814",
+      "young-engineers-uruguay-institutional": "CP1815",
+      "fundacion-social-perea-scratch-es": "CP1816"
+    },
+    "offer_ids": [
+      "ar-tecnokids-palermo-week-standard",
+      "ar-tecnokids-palermo-week-early",
+      "ar-tecnokids-villa-urquiza-week-standard",
+      "ar-tecnokids-villa-urquiza-week-early",
+      "coyote-winter-two-early-2026"
+    ],
+    "notes": [
+      "TecnoKids: 2 campuses × 2 age cohorts. Palermo five weeks, Villa Urquiza four. Both shifts parallel; final February 1–5 is Palermo only. The two possible fallback grouping arrangements and school stage requirements remain conditional. Public page uses $ amounts without an ISO currency, so ARS budget is explicitly conditional on invoice. No discount stacking assumed. Instructor language, availability, and refund terms unconfirmed.",
+      "Buenos Aires city: local pre-enrolment 9–27 November. January 4–29 is general calendar window. Robotics listed for primary pupils, but site level schedules, applicant documentation, available seats, language and fee are unverified. No exact venue itinerary or ICS sessions inferred.",
+      "KidsVentors main body says winter 2027, header still Verano 2026. Two watch dossiers for Caballito and VR Abasto with different ages. No date or price assigned. Young Engineers Uruguay school camps and weekly 6–12 workshops are separate routes; future camp dates unverified.",
+      "Fundación Social Perea: official Ecuador programme and provider publish asynchronous Scratch in Spanish. Suggested starting age seven, PDF confirms free course and optional USD 25 certificate. Eligibility for the children and exact cohort access from abroad are unresolved.",
+      "Camp Coyote: current Mexican provider homepage separately lists MXN 2805 early through November 20, standard MXN 3300, discounts non-combinable. Added conditional MXN 5610 two-child early scenario. Advance and payment conditions must be confirmed for early tariff.",
+      "Coolest Projects Argentina: separate public visit and presenting route. Organiser shows project deadline November 15 while university earlier notice still says October 23. Organizer requires project checkpoints and separate badge. DNI mentioned for exhibitors. No claim of medal or overseas acceptance.",
+      "ExpoCiencias Guerrero: local school, minimum age eight on event day and 3rd–6th primary for Kids. Individual or team of up to three plus teacher. Registration by teacher Nov 9–Dec 9, docs Dec 16, report Jan 5–14. January 27 final; 11 national slots and one international direct pass across categories.",
+      "VEX Colombia: the Elementary event was already present and keeps its ID. Escuela media added as distinct. Raw numeric payment dates preserved due ambiguous date format in public field, while registration deadline uses exact UTC. MS heading and structured eligibility outweigh duplicated Elementary boilerplate. Foreign admission and qualification eligibility unresolved.",
+      "Kurios school test and March national final have separate dates and gates. 2026 public prices and spectator rules not carried into 2027. RoboRAVE Ruta Científica carries contradictory registration dates and broad primary vs MS/HS/UP track label. Tournament and showcase linked separately.",
+      "SIR current direct web read confirms PEN 1680 and 09:20–12:20. Older index shows PEN 1600 and 09:00–12:00. Current dossier prices and schedules retained. Troonic, TechLab Chile, Programable, Minds of Tomorrow and DIMEX already represented."
+    ],
+    "audit": "data/latam-summer-family-audit-v234.json",
+    "source_receipts": "data/latam-summer-family-source-receipts-v234.json",
+    "vex_league_linked_event_ids": [
+      "C3192",
+      "C3194",
+      "C3344"
+    ]
   }
 }

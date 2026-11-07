@@ -1357,7 +1357,10 @@
           "C581",
           "C597",
           "C606",
-          "C607"
+          "C607",
+          "C3192",
+          "C3194",
+          "C3344"
         ],
         "legacy_ids": [
           "C024"
@@ -3145,6 +3148,15 @@
             "hardware": "2RCrobot≤800g cada/15cmcube;≤500USDeachteam por su propio summary (una para especificar). dos tiempos90sec; sin shooting/grabbingball.",
             "entry": "Registro local e internacional 09.11–21.12.2026; formulario abre el 9 de noviembre. Clasificación según escuela actual; equipo mixto elementary / middle compite en mayor. Comprobar conjuntamente edades del reglamento y curso del alumno extranjero.",
             "event_id": "C1150"
+          },
+          {
+            "name": "RoboRAVE · Ruta Científica Tecnológica Internacional 2027",
+            "age": "La descripción general incluye primaria, pero la ficha técnica indica MS, HS y UP. Confirmar edad y admisión del proyecto.",
+            "age_rule": "Comprobar evento concreto, cabecera, tabla division y texto completo; regla local no se sustituye por global.",
+            "team": "Muestra presencial de proyectos científicos y técnicos",
+            "hardware": "",
+            "entry": "La descripción general incluye primaria, pero la ficha técnica indica MS, HS y UP. Confirmar edad y admisión del proyecto.",
+            "event_id": "E416"
           }
         ],
         "event_ids": [
@@ -3167,7 +3179,8 @@
           "C1207",
           "C1148",
           "C1149",
-          "C1150"
+          "C1150",
+          "E416"
         ],
         "legacy_ids": [
           "C052"
@@ -4394,7 +4407,9 @@
         ],
         "event_ids": [
           "C039",
-          "E190"
+          "E190",
+          "E414",
+          "E415"
         ],
         "legacy_ids": [
           "C039"

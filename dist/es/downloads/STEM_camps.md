@@ -70486,6 +70486,582 @@ Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no 
 Fuente: https://www.visst.ca/camps/arcade
 Se ha comprobado: 2026-11-07
 
+### CP1807-20270104-20270108-w1-am · TecnoKids · Palermo · 5–8 · Mañana · 2027-01-04–2027-01-08
+
+lugar: Argentina · Palermo · Amapola · Nicaragua 4739 · Buenos Aires
+Fecha: 2027-01-04 — 2027-01-08
+edad: Grupo de 5–8 años. Grupos principales de 5–8 y 9–13 años. Pueden reorganizarse según inscripciones. Admisión desde Sala de 5 hasta 7 curso.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar reparto de grupos con el organizador. Oscar: Condicional. Confirmar curso y distribución por grupos. Suplementos: Llevar agua y tentempié. El organizador facilita agua y fruta. Confirmar coste de otros servicios. La página muestra 2 semanas por 380 000 o 320 000 con tarifa anticipada, 3 semanas por 550 000 o 462 000, 4 semanas por 700 000 o 588 000. Se pueden elegir semanas separadas. En Palermo, 5 semanas por 850 000 o 714 000 con tarifa anticipada. Pago: La página indica pago por transferencia. Confirmar moneda de factura, reembolso y aplicación del descuento.
+Fuente: https://tecnokids.com/colonia/
+Se ha comprobado: 2026-11-07
+
+### CP1807-20270104-20270108-w1-pm · TecnoKids · Palermo · 5–8 · Tarde · 2027-01-04–2027-01-08
+
+lugar: Argentina · Palermo · Amapola · Nicaragua 4739 · Buenos Aires
+Fecha: 2027-01-04 — 2027-01-08
+edad: Grupo de 5–8 años. Grupos principales de 5–8 y 9–13 años. Pueden reorganizarse según inscripciones. Admisión desde Sala de 5 hasta 7 curso.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar reparto de grupos con el organizador. Oscar: Condicional. Confirmar curso y distribución por grupos. Suplementos: Llevar agua y tentempié. El organizador facilita agua y fruta. Confirmar coste de otros servicios. La página muestra 2 semanas por 380 000 o 320 000 con tarifa anticipada, 3 semanas por 550 000 o 462 000, 4 semanas por 700 000 o 588 000. Se pueden elegir semanas separadas. En Palermo, 5 semanas por 850 000 o 714 000 con tarifa anticipada. Pago: La página indica pago por transferencia. Confirmar moneda de factura, reembolso y aplicación del descuento.
+Fuente: https://tecnokids.com/colonia/
+Se ha comprobado: 2026-11-07
+
+### CP1807-20270111-20270115-w2-am · TecnoKids · Palermo · 5–8 · Mañana · 2027-01-11–2027-01-15
+
+lugar: Argentina · Palermo · Amapola · Nicaragua 4739 · Buenos Aires
+Fecha: 2027-01-11 — 2027-01-15
+edad: Grupo de 5–8 años. Grupos principales de 5–8 y 9–13 años. Pueden reorganizarse según inscripciones. Admisión desde Sala de 5 hasta 7 curso.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar reparto de grupos con el organizador. Oscar: Condicional. Confirmar curso y distribución por grupos. Suplementos: Llevar agua y tentempié. El organizador facilita agua y fruta. Confirmar coste de otros servicios. La página muestra 2 semanas por 380 000 o 320 000 con tarifa anticipada, 3 semanas por 550 000 o 462 000, 4 semanas por 700 000 o 588 000. Se pueden elegir semanas separadas. En Palermo, 5 semanas por 850 000 o 714 000 con tarifa anticipada. Pago: La página indica pago por transferencia. Confirmar moneda de factura, reembolso y aplicación del descuento.
+Fuente: https://tecnokids.com/colonia/
+Se ha comprobado: 2026-11-07
+
+### CP1807-20270111-20270115-w2-pm · TecnoKids · Palermo · 5–8 · Tarde · 2027-01-11–2027-01-15
+
+lugar: Argentina · Palermo · Amapola · Nicaragua 4739 · Buenos Aires
+Fecha: 2027-01-11 — 2027-01-15
+edad: Grupo de 5–8 años. Grupos principales de 5–8 y 9–13 años. Pueden reorganizarse según inscripciones. Admisión desde Sala de 5 hasta 7 curso.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar reparto de grupos con el organizador. Oscar: Condicional. Confirmar curso y distribución por grupos. Suplementos: Llevar agua y tentempié. El organizador facilita agua y fruta. Confirmar coste de otros servicios. La página muestra 2 semanas por 380 000 o 320 000 con tarifa anticipada, 3 semanas por 550 000 o 462 000, 4 semanas por 700 000 o 588 000. Se pueden elegir semanas separadas. En Palermo, 5 semanas por 850 000 o 714 000 con tarifa anticipada. Pago: La página indica pago por transferencia. Confirmar moneda de factura, reembolso y aplicación del descuento.
+Fuente: https://tecnokids.com/colonia/
+Se ha comprobado: 2026-11-07
+
+### CP1807-20270118-20270122-w3-am · TecnoKids · Palermo · 5–8 · Mañana · 2027-01-18–2027-01-22
+
+lugar: Argentina · Palermo · Amapola · Nicaragua 4739 · Buenos Aires
+Fecha: 2027-01-18 国 2027-01-22
+edad: Grupo de 5–8 años. Grupos principales de 5–8 y 9–13 años. Pueden reorganizarse según inscripciones. Admisión desde Sala de 5 hasta 7 curso.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar reparto de grupos con el organizador. Oscar: Condicional. Confirmar curso y distribución por grupos. Suplementos: Llevar agua y tentempié. El organizador facilita agua y fruta. Confirmar coste de otros servicios. La página muestra 2 semanas por 380 000 o 320 000 con tarifa anticipada, 3 semanas por 550 000 o 462 000, 4 semanas por 700 000 o 588 000. Se pueden elegir semanas separadas. En Palermo, 5 semanas por 850 000 o 714 000 con tarifa anticipada. Pago: La página indica pago por transferencia. Confirmar moneda de factura, reembolso y aplicación del descuento.
+Fuente: https://tecnokids.com/colonia/
+Se ha comprobado: 2026-11-07
+
+### CP1807-20270118-20270122-w3-pm · TecnoKids · Palermo · 5–8 · Tarde · 2027-01-18–2027-01-22
+
+lugar: Argentina · Palermo · Amapola · Nicaragua 4739 · Buenos Aires
+Fecha: 2027-01-18 国 2027-01-22
+edad: Grupo de 5–8 años. Grupos principales de 5–8 y 9–13 años. Pueden reorganizarse según inscripciones. Admisión desde Sala de 5 hasta 7 curso.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar reparto de grupos con el organizador. Oscar: Condicional. Confirmar curso y distribución por grupos. Suplementos: Llevar agua y tentempié. El organizador facilita agua y fruta. Confirmar coste de otros servicios. La página muestra 2 semanas por 380 000 o 320 000 con tarifa anticipada, 3 semanas por 550 000 o 462 000, 4 semanas por 700 000 o 588 000. Se pueden elegir semanas separadas. En Palermo, 5 semanas por 850 000 o 714 000 con tarifa anticipada. Pago: La página indica pago por transferencia. Confirmar moneda de factura, reembolso y aplicación del descuento.
+Fuente: https://tecnokids.com/colonia/
+Se ha comprobado: 2026-11-07
+
+### CP1807-20270125-20270129-w4-am · TecnoKids · Palermo · 5–8 · Mañana · 2027-01-25–2027-01-29
+
+lugar: Argentina · Palermo · Amapola · Nicaragua 4739 · Buenos Aires
+Fecha: 2027-01-25 国 2027-01-29
+edad: Grupo de 5–8 años. Grupos principales de 5–8 y 9–13 años. Pueden reorganizarse según inscripciones. Admisión desde Sala de 5 hasta 7 curso.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar reparto de grupos con el organizador. Oscar: Condicional. Confirmar curso y distribución por grupos. Suplementos: Llevar agua y tentempié. El organizador facilita agua y fruta. Confirmar coste de otros servicios. La página muestra 2 semanas por 380 000 o 320 000 con tarifa anticipada, 3 semanas por 550 000 o 462 000, 4 semanas por 700 000 o 588 000. Se pueden elegir semanas separadas. En Palermo, 5 semanas por 850 000 o 714 000 con tarifa anticipada. Pago: La página indica pago por transferencia. Confirmar moneda de factura, reembolso y aplicación del descuento.
+Fuente: https://tecnokids.com/colonia/
+Se ha comprobado: 2026-11-07
+
+### CP1807-20270125-20270129-w4-pm · TecnoKids · Palermo · 5–8 · Tarde · 2027-01-25–2027-01-29
+
+lugar: Argentina · Palermo · Amapola · Nicaragua 4739 · Buenos Aires
+Fecha: 2027-01-25 国 2027-01-29
+edad: Grupo de 5–8 años. Grupos principales de 5–8 y 9–13 años. Pueden reorganizarse según inscripciones. Admisión desde Sala de 5 hasta 7 curso.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar reparto de grupos con el organizador. Oscar: Condicional. Confirmar curso y distribución por grupos. Suplementos: Llevar agua y tentempié. El organizador facilita agua y fruta. Confirmar coste de otros servicios. La página muestra 2 semanas por 380 000 o 320 000 con tarifa anticipada, 3 semanas por 550 000 o 462 000, 4 semanas por 700 000 o 588 000. Se pueden elegir semanas separadas. En Palermo, 5 semanas por 850 000 o 714 000 con tarifa anticipada. Pago: La página indica pago por transferencia. Confirmar moneda de factura, reembolso y aplicación del descuento.
+Fuente: https://tecnokids.com/colonia/
+Se ha comprobado: 2026-11-07
+
+### CP1807-20270201-20270205-w5-am · TecnoKids · Palermo · 5–8 · Mañana · 2027-02-01–2027-02-05
+
+lugar: Argentina · Palermo · Amapola · Nicaragua 4739 · Buenos Aires
+Fecha: 2027-02-01 国 2027-02-05
+edad: Grupo de 5–8 años. Grupos principales de 5–8 y 9–13 años. Pueden reorganizarse según inscripciones. Admisión desde Sala de 5 hasta 7 curso.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar reparto de grupos con el organizador. Oscar: Condicional. Confirmar curso y distribución por grupos. Suplementos: Llevar agua y tentempié. El organizador facilita agua y fruta. Confirmar coste de otros servicios. La página muestra 2 semanas por 380 000 o 320 000 con tarifa anticipada, 3 semanas por 550 000 o 462 000, 4 semanas por 700 000 o 588 000. Se pueden elegir semanas separadas. En Palermo, 5 semanas por 850 000 o 714 000 con tarifa anticipada. Pago: La página indica pago por transferencia. Confirmar moneda de factura, reembolso y aplicación del descuento.
+Fuente: https://tecnokids.com/colonia/
+Se ha comprobado: 2026-11-07
+
+### CP1807-20270201-20270205-w5-pm · TecnoKids · Palermo · 5–8 · Tarde · 2027-02-01–2027-02-05
+
+lugar: Argentina · Palermo · Amapola · Nicaragua 4739 · Buenos Aires
+Fecha: 2027-02-01 国 2027-02-05
+edad: Grupo de 5–8 años. Grupos principales de 5–8 y 9–13 años. Pueden reorganizarse según inscripciones. Admisión desde Sala de 5 hasta 7 curso.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar reparto de grupos con el organizador. Oscar: Condicional. Confirmar curso y distribución por grupos. Suplementos: Llevar agua y tentempié. El organizador facilita agua y fruta. Confirmar coste de otros servicios. La página muestra 2 semanas por 380 000 o 320 000 con tarifa anticipada, 3 semanas por 550 000 o 462 000, 4 semanas por 700 000 o 588 000. Se pueden elegir semanas separadas. En Palermo, 5 semanas por 850 000 o 714 000 con tarifa anticipada. Pago: La página indica pago por transferencia. Confirmar moneda de factura, reembolso y aplicación del descuento.
+Fuente: https://tecnokids.com/colonia/
+Se ha comprobado: 2026-11-07
+
+### CP1808-20270104-20270108-w1-am · TecnoKids · Palermo · 9–13 · Mañana · 2027-01-04–2027-01-08
+
+lugar: Argentina · Palermo · Amapola · Nicaragua 4739 · Buenos Aires
+Fecha: 2027-01-04 — 2027-01-08
+edad: Grupo de 9–13 años. Grupos principales de 5–8 y 9–13 años. Pueden reorganizarse según inscripciones. Admisión desde Sala de 5 hasta 7 curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar curso y distribución por grupos. Oscar: Confirmar reparto de grupos con el organizador. Suplementos: Llevar agua y tentempié. El organizador facilita agua y fruta. Confirmar coste de otros servicios. La página muestra 2 semanas por 380 000 o 320 000 con tarifa anticipada, 3 semanas por 550 000 o 462 000, 4 semanas por 700 000 o 588 000. Se pueden elegir semanas separadas. En Palermo, 5 semanas por 850 000 o 714 000 con tarifa anticipada. Pago: La página indica pago por transferencia. Confirmar moneda de factura, reembolso y aplicación del descuento.
+Fuente: https://tecnokids.com/colonia/
+Se ha comprobado: 2026-11-07
+
+### CP1808-20270104-20270108-w1-pm · TecnoKids · Palermo · 9–13 · Tarde · 2027-01-04–2027-01-08
+
+lugar: Argentina · Palermo · Amapola · Nicaragua 4739 · Buenos Aires
+Fecha: 2027-01-04 — 2027-01-08
+edad: Grupo de 9–13 años. Grupos principales de 5–8 y 9–13 años. Pueden reorganizarse según inscripciones. Admisión desde Sala de 5 hasta 7 curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar curso y distribución por grupos. Oscar: Confirmar reparto de grupos con el organizador. Suplementos: Llevar agua y tentempié. El organizador facilita agua y fruta. Confirmar coste de otros servicios. La página muestra 2 semanas por 380 000 o 320 000 con tarifa anticipada, 3 semanas por 550 000 o 462 000, 4 semanas por 700 000 o 588 000. Se pueden elegir semanas separadas. En Palermo, 5 semanas por 850 000 o 714 000 con tarifa anticipada. Pago: La página indica pago por transferencia. Confirmar moneda de factura, reembolso y aplicación del descuento.
+Fuente: https://tecnokids.com/colonia/
+Se ha comprobado: 2026-11-07
+
+### CP1808-20270111-20270115-w2-am · TecnoKids · Palermo · 9–13 · Mañana · 2027-01-11–2027-01-15
+
+lugar: Argentina · Palermo · Amapola · Nicaragua 4739 · Buenos Aires
+Fecha: 2027-01-11 — 2027-01-15
+edad: Grupo de 9–13 años. Grupos principales de 5–8 y 9–13 años. Pueden reorganizarse según inscripciones. Admisión desde Sala de 5 hasta 7 curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar curso y distribución por grupos. Oscar: Confirmar reparto de grupos con el organizador. Suplementos: Llevar agua y tentempié. El organizador facilita agua y fruta. Confirmar coste de otros servicios. La página muestra 2 semanas por 380 000 o 320 000 con tarifa anticipada, 3 semanas por 550 000 o 462 000, 4 semanas por 700 000 o 588 000. Se pueden elegir semanas separadas. En Palermo, 5 semanas por 850 000 o 714 000 con tarifa anticipada. Pago: La página indica pago por transferencia. Confirmar moneda de factura, reembolso y aplicación del descuento.
+Fuente: https://tecnokids.com/colonia/
+Se ha comprobado: 2026-11-07
+
+### CP1808-20270111-20270115-w2-pm · TecnoKids · Palermo · 9–13 · Tarde · 2027-01-11–2027-01-15
+
+lugar: Argentina · Palermo · Amapola · Nicaragua 4739 · Buenos Aires
+Fecha: 2027-01-11 — 2027-01-15
+edad: Grupo de 9–13 años. Grupos principales de 5–8 y 9–13 años. Pueden reorganizarse según inscripciones. Admisión desde Sala de 5 hasta 7 curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar curso y distribución por grupos. Oscar: Confirmar reparto de grupos con el organizador. Suplementos: Llevar agua y tentempié. El organizador facilita agua y fruta. Confirmar coste de otros servicios. La página muestra 2 semanas por 380 000 o 320 000 con tarifa anticipada, 3 semanas por 550 000 o 462 000, 4 semanas por 700 000 o 588 000. Se pueden elegir semanas separadas. En Palermo, 5 semanas por 850 000 o 714 000 con tarifa anticipada. Pago: La página indica pago por transferencia. Confirmar moneda de factura, reembolso y aplicación del descuento.
+Fuente: https://tecnokids.com/colonia/
+Se ha comprobado: 2026-11-07
+
+### CP1808-20270118-20270122-w3-am · TecnoKids · Palermo · 9–13 · Mañana · 2027-01-18–2027-01-22
+
+lugar: Argentina · Palermo · Amapola · Nicaragua 4739 · Buenos Aires
+Fecha: 2027-01-18 国 2027-01-22
+edad: Grupo de 9–13 años. Grupos principales de 5–8 y 9–13 años. Pueden reorganizarse según inscripciones. Admisión desde Sala de 5 hasta 7 curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar curso y distribución por grupos. Oscar: Confirmar reparto de grupos con el organizador. Suplementos: Llevar agua y tentempié. El organizador facilita agua y fruta. Confirmar coste de otros servicios. La página muestra 2 semanas por 380 000 o 320 000 con tarifa anticipada, 3 semanas por 550 000 o 462 000, 4 semanas por 700 000 o 588 000. Se pueden elegir semanas separadas. En Palermo, 5 semanas por 850 000 o 714 000 con tarifa anticipada. Pago: La página indica pago por transferencia. Confirmar moneda de factura, reembolso y aplicación del descuento.
+Fuente: https://tecnokids.com/colonia/
+Se ha comprobado: 2026-11-07
+
+### CP1808-20270118-20270122-w3-pm · TecnoKids · Palermo · 9–13 · Tarde · 2027-01-18–2027-01-22
+
+lugar: Argentina · Palermo · Amapola · Nicaragua 4739 · Buenos Aires
+Fecha: 2027-01-18 国 2027-01-22
+edad: Grupo de 9–13 años. Grupos principales de 5–8 y 9–13 años. Pueden reorganizarse según inscripciones. Admisión desde Sala de 5 hasta 7 curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar curso y distribución por grupos. Oscar: Confirmar reparto de grupos con el organizador. Suplementos: Llevar agua y tentempié. El organizador facilita agua y fruta. Confirmar coste de otros servicios. La página muestra 2 semanas por 380 000 o 320 000 con tarifa anticipada, 3 semanas por 550 000 o 462 000, 4 semanas por 700 000 o 588 000. Se pueden elegir semanas separadas. En Palermo, 5 semanas por 850 000 o 714 000 con tarifa anticipada. Pago: La página indica pago por transferencia. Confirmar moneda de factura, reembolso y aplicación del descuento.
+Fuente: https://tecnokids.com/colonia/
+Se ha comprobado: 2026-11-07
+
+### CP1808-20270125-20270129-w4-am · TecnoKids · Palermo · 9–13 · Mañana · 2027-01-25–2027-01-29
+
+lugar: Argentina · Palermo · Amapola · Nicaragua 4739 · Buenos Aires
+Fecha: 2027-01-25 国 2027-01-29
+edad: Grupo de 9–13 años. Grupos principales de 5–8 y 9–13 años. Pueden reorganizarse según inscripciones. Admisión desde Sala de 5 hasta 7 curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar curso y distribución por grupos. Oscar: Confirmar reparto de grupos con el organizador. Suplementos: Llevar agua y tentempié. El organizador facilita agua y fruta. Confirmar coste de otros servicios. La página muestra 2 semanas por 380 000 o 320 000 con tarifa anticipada, 3 semanas por 550 000 o 462 000, 4 semanas por 700 000 o 588 000. Se pueden elegir semanas separadas. En Palermo, 5 semanas por 850 000 o 714 000 con tarifa anticipada. Pago: La página indica pago por transferencia. Confirmar moneda de factura, reembolso y aplicación del descuento.
+Fuente: https://tecnokids.com/colonia/
+Se ha comprobado: 2026-11-07
+
+### CP1808-20270125-20270129-w4-pm · TecnoKids · Palermo · 9–13 · Tarde · 2027-01-25–2027-01-29
+
+lugar: Argentina · Palermo · Amapola · Nicaragua 4739 · Buenos Aires
+Fecha: 2027-01-25 国 2027-01-29
+edad: Grupo de 9–13 años. Grupos principales de 5–8 y 9–13 años. Pueden reorganizarse según inscripciones. Admisión desde Sala de 5 hasta 7 curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar curso y distribución por grupos. Oscar: Confirmar reparto de grupos con el organizador. Suplementos: Llevar agua y tentempié. El organizador facilita agua y fruta. Confirmar coste de otros servicios. La página muestra 2 semanas por 380 000 o 320 000 con tarifa anticipada, 3 semanas por 550 000 o 462 000, 4 semanas por 700 000 o 588 000. Se pueden elegir semanas separadas. En Palermo, 5 semanas por 850 000 o 714 000 con tarifa anticipada. Pago: La página indica pago por transferencia. Confirmar moneda de factura, reembolso y aplicación del descuento.
+Fuente: https://tecnokids.com/colonia/
+Se ha comprobado: 2026-11-07
+
+### CP1808-20270201-20270205-w5-am · TecnoKids · Palermo · 9–13 · Mañana · 2027-02-01–2027-02-05
+
+lugar: Argentina · Palermo · Amapola · Nicaragua 4739 · Buenos Aires
+Fecha: 2027-02-01 国 2027-02-05
+edad: Grupo de 9–13 años. Grupos principales de 5–8 y 9–13 años. Pueden reorganizarse según inscripciones. Admisión desde Sala de 5 hasta 7 curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar curso y distribución por grupos. Oscar: Confirmar reparto de grupos con el organizador. Suplementos: Llevar agua y tentempié. El organizador facilita agua y fruta. Confirmar coste de otros servicios. La página muestra 2 semanas por 380 000 o 320 000 con tarifa anticipada, 3 semanas por 550 000 o 462 000, 4 semanas por 700 000 o 588 000. Se pueden elegir semanas separadas. En Palermo, 5 semanas por 850 000 o 714 000 con tarifa anticipada. Pago: La página indica pago por transferencia. Confirmar moneda de factura, reembolso y aplicación del descuento.
+Fuente: https://tecnokids.com/colonia/
+Se ha comprobado: 2026-11-07
+
+### CP1808-20270201-20270205-w5-pm · TecnoKids · Palermo · 9–13 · Tarde · 2027-02-01–2027-02-05
+
+lugar: Argentina · Palermo · Amapola · Nicaragua 4739 · Buenos Aires
+Fecha: 2027-02-01 国 2027-02-05
+edad: Grupo de 9–13 años. Grupos principales de 5–8 y 9–13 años. Pueden reorganizarse según inscripciones. Admisión desde Sala de 5 hasta 7 curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar curso y distribución por grupos. Oscar: Confirmar reparto de grupos con el organizador. Suplementos: Llevar agua y tentempié. El organizador facilita agua y fruta. Confirmar coste de otros servicios. La página muestra 2 semanas por 380 000 o 320 000 con tarifa anticipada, 3 semanas por 550 000 o 462 000, 4 semanas por 700 000 o 588 000. Se pueden elegir semanas separadas. En Palermo, 5 semanas por 850 000 o 714 000 con tarifa anticipada. Pago: La página indica pago por transferencia. Confirmar moneda de factura, reembolso y aplicación del descuento.
+Fuente: https://tecnokids.com/colonia/
+Se ha comprobado: 2026-11-07
+
+### CP1809-20270104-20270108-w1-am · TecnoKids · Villa Urquiza · 5–8 · Mañana · 2027-01-04–2027-01-08
+
+lugar: Argentina · Villa Urquiza · St. Patrick’s School · Nahuel Huapi 4141 · Buenos Aires
+Fecha: 2027-01-04 — 2027-01-08
+edad: Grupo de 5–8 años. Grupos principales de 5–8 y 9–13 años. Pueden reorganizarse según inscripciones. Admisión desde Sala de 5 hasta 7 curso.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar reparto de grupos con el organizador. Oscar: Condicional. Confirmar curso y distribución por grupos. Suplementos: Llevar agua y tentempié. El organizador facilita agua y fruta. Confirmar coste de otros servicios. La página muestra 2 semanas por 380 000 o 320 000 con tarifa anticipada, 3 semanas por 550 000 o 462 000, 4 semanas por 700 000 o 588 000. Se pueden elegir semanas separadas. Pago: La página indica pago por transferencia. Confirmar moneda de factura, reembolso y aplicación del descuento.
+Fuente: https://tecnokids.com/colonia/
+Se ha comprobado: 2026-11-07
+
+### CP1809-20270104-20270108-w1-pm · TecnoKids · Villa Urquiza · 5–8 · Tarde · 2027-01-04–2027-01-08
+
+lugar: Argentina · Villa Urquiza · St. Patrick’s School · Nahuel Huapi 4141 · Buenos Aires
+Fecha: 2027-01-04 — 2027-01-08
+edad: Grupo de 5–8 años. Grupos principales de 5–8 y 9–13 años. Pueden reorganizarse según inscripciones. Admisión desde Sala de 5 hasta 7 curso.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar reparto de grupos con el organizador. Oscar: Condicional. Confirmar curso y distribución por grupos. Suplementos: Llevar agua y tentempié. El organizador facilita agua y fruta. Confirmar coste de otros servicios. La página muestra 2 semanas por 380 000 o 320 000 con tarifa anticipada, 3 semanas por 550 000 o 462 000, 4 semanas por 700 000 o 588 000. Se pueden elegir semanas separadas. Pago: La página indica pago por transferencia. Confirmar moneda de factura, reembolso y aplicación del descuento.
+Fuente: https://tecnokids.com/colonia/
+Se ha comprobado: 2026-11-07
+
+### CP1809-20270111-20270115-w2-am · TecnoKids · Villa Urquiza · 5–8 · Mañana · 2027-01-11–2027-01-15
+
+lugar: Argentina · Villa Urquiza · St. Patrick’s School · Nahuel Huapi 4141 · Buenos Aires
+Fecha: 2027-01-11 — 2027-01-15
+edad: Grupo de 5–8 años. Grupos principales de 5–8 y 9–13 años. Pueden reorganizarse según inscripciones. Admisión desde Sala de 5 hasta 7 curso.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar reparto de grupos con el organizador. Oscar: Condicional. Confirmar curso y distribución por grupos. Suplementos: Llevar agua y tentempié. El organizador facilita agua y fruta. Confirmar coste de otros servicios. La página muestra 2 semanas por 380 000 o 320 000 con tarifa anticipada, 3 semanas por 550 000 o 462 000, 4 semanas por 700 000 o 588 000. Se pueden elegir semanas separadas. Pago: La página indica pago por transferencia. Confirmar moneda de factura, reembolso y aplicación del descuento.
+Fuente: https://tecnokids.com/colonia/
+Se ha comprobado: 2026-11-07
+
+### CP1809-20270111-20270115-w2-pm · TecnoKids · Villa Urquiza · 5–8 · Tarde · 2027-01-11–2027-01-15
+
+lugar: Argentina · Villa Urquiza · St. Patrick’s School · Nahuel Huapi 4141 · Buenos Aires
+Fecha: 2027-01-11 — 2027-01-15
+edad: Grupo de 5–8 años. Grupos principales de 5–8 y 9–13 años. Pueden reorganizarse según inscripciones. Admisión desde Sala de 5 hasta 7 curso.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar reparto de grupos con el organizador. Oscar: Condicional. Confirmar curso y distribución por grupos. Suplementos: Llevar agua y tentempié. El organizador facilita agua y fruta. Confirmar coste de otros servicios. La página muestra 2 semanas por 380 000 o 320 000 con tarifa anticipada, 3 semanas por 550 000 o 462 000, 4 semanas por 700 000 o 588 000. Se pueden elegir semanas separadas. Pago: La página indica pago por transferencia. Confirmar moneda de factura, reembolso y aplicación del descuento.
+Fuente: https://tecnokids.com/colonia/
+Se ha comprobado: 2026-11-07
+
+### CP1809-20270118-20270122-w3-am · TecnoKids · Villa Urquiza · 5–8 · Mañana · 2027-01-18–2027-01-22
+
+lugar: Argentina · Villa Urquiza · St. Patrick’s School · Nahuel Huapi 4141 · Buenos Aires
+Fecha: 2027-01-18 国 2027-01-22
+edad: Grupo de 5–8 años. Grupos principales de 5–8 y 9–13 años. Pueden reorganizarse según inscripciones. Admisión desde Sala de 5 hasta 7 curso.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar reparto de grupos con el organizador. Oscar: Condicional. Confirmar curso y distribución por grupos. Suplementos: Llevar agua y tentempié. El organizador facilita agua y fruta. Confirmar coste de otros servicios. La página muestra 2 semanas por 380 000 o 320 000 con tarifa anticipada, 3 semanas por 550 000 o 462 000, 4 semanas por 700 000 o 588 000. Se pueden elegir semanas separadas. Pago: La página indica pago por transferencia. Confirmar moneda de factura, reembolso y aplicación del descuento.
+Fuente: https://tecnokids.com/colonia/
+Se ha comprobado: 2026-11-07
+
+### CP1809-20270118-20270122-w3-pm · TecnoKids · Villa Urquiza · 5–8 · Tarde · 2027-01-18–2027-01-22
+
+lugar: Argentina · Villa Urquiza · St. Patrick’s School · Nahuel Huapi 4141 · Buenos Aires
+Fecha: 2027-01-18 国 2027-01-22
+edad: Grupo de 5–8 años. Grupos principales de 5–8 y 9–13 años. Pueden reorganizarse según inscripciones. Admisión desde Sala de 5 hasta 7 curso.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar reparto de grupos con el organizador. Oscar: Condicional. Confirmar curso y distribución por grupos. Suplementos: Llevar agua y tentempié. El organizador facilita agua y fruta. Confirmar coste de otros servicios. La página muestra 2 semanas por 380 000 o 320 000 con tarifa anticipada, 3 semanas por 550 000 o 462 000, 4 semanas por 700 000 o 588 000. Se pueden elegir semanas separadas. Pago: La página indica pago por transferencia. Confirmar moneda de factura, reembolso y aplicación del descuento.
+Fuente: https://tecnokids.com/colonia/
+Se ha comprobado: 2026-11-07
+
+### CP1809-20270125-20270129-w4-am · TecnoKids · Villa Urquiza · 5–8 · Mañana · 2027-01-25–2027-01-29
+
+lugar: Argentina · Villa Urquiza · St. Patrick’s School · Nahuel Huapi 4141 · Buenos Aires
+Fecha: 2027-01-25 国 2027-01-29
+edad: Grupo de 5–8 años. Grupos principales de 5–8 y 9–13 años. Pueden reorganizarse según inscripciones. Admisión desde Sala de 5 hasta 7 curso.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar reparto de grupos con el organizador. Oscar: Condicional. Confirmar curso y distribución por grupos. Suplementos: Llevar agua y tentempié. El organizador facilita agua y fruta. Confirmar coste de otros servicios. La página muestra 2 semanas por 380 000 o 320 000 con tarifa anticipada, 3 semanas por 550 000 o 462 000, 4 semanas por 700 000 o 588 000. Se pueden elegir semanas separadas. Pago: La página indica pago por transferencia. Confirmar moneda de factura, reembolso y aplicación del descuento.
+Fuente: https://tecnokids.com/colonia/
+Se ha comprobado: 2026-11-07
+
+### CP1809-20270125-20270129-w4-pm · TecnoKids · Villa Urquiza · 5–8 · Tarde · 2027-01-25–2027-01-29
+
+lugar: Argentina · Villa Urquiza · St. Patrick’s School · Nahuel Huapi 4141 · Buenos Aires
+Fecha: 2027-01-25 国 2027-01-29
+edad: Grupo de 5–8 años. Grupos principales de 5–8 y 9–13 años. Pueden reorganizarse según inscripciones. Admisión desde Sala de 5 hasta 7 curso.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar reparto de grupos con el organizador. Oscar: Condicional. Confirmar curso y distribución por grupos. Suplementos: Llevar agua y tentempié. El organizador facilita agua y fruta. Confirmar coste de otros servicios. La página muestra 2 semanas por 380 000 o 320 000 con tarifa anticipada, 3 semanas por 550 000 o 462 000, 4 semanas por 700 000 o 588 000. Se pueden elegir semanas separadas. Pago: La página indica pago por transferencia. Confirmar moneda de factura, reembolso y aplicación del descuento.
+Fuente: https://tecnokids.com/colonia/
+Se ha comprobado: 2026-11-07
+
+### CP1810-20270104-20270108-w1-am · TecnoKids · Villa Urquiza · 9–13 · Mañana · 2027-01-04–2027-01-08
+
+lugar: Argentina · Villa Urquiza · St. Patrick’s School · Nahuel Huapi 4141 · Buenos Aires
+Fecha: 2027-01-04 — 2027-01-08
+edad: Grupo de 9–13 años. Grupos principales de 5–8 y 9–13 años. Pueden reorganizarse según inscripciones. Admisión desde Sala de 5 hasta 7 curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar curso y distribución por grupos. Oscar: Confirmar reparto de grupos con el organizador. Suplementos: Llevar agua y tentempié. El organizador facilita agua y fruta. Confirmar coste de otros servicios. La página muestra 2 semanas por 380 000 o 320 000 con tarifa anticipada, 3 semanas por 550 000 o 462 000, 4 semanas por 700 000 o 588 000. Se pueden elegir semanas separadas. Pago: La página indica pago por transferencia. Confirmar moneda de factura, reembolso y aplicación del descuento.
+Fuente: https://tecnokids.com/colonia/
+Se ha comprobado: 2026-11-07
+
+### CP1810-20270104-20270108-w1-pm · TecnoKids · Villa Urquiza · 9–13 · Tarde · 2027-01-04–2027-01-08
+
+lugar: Argentina · Villa Urquiza · St. Patrick’s School · Nahuel Huapi 4141 · Buenos Aires
+Fecha: 2027-01-04 — 2027-01-08
+edad: Grupo de 9–13 años. Grupos principales de 5–8 y 9–13 años. Pueden reorganizarse según inscripciones. Admisión desde Sala de 5 hasta 7 curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar curso y distribución por grupos. Oscar: Confirmar reparto de grupos con el organizador. Suplementos: Llevar agua y tentempié. El organizador facilita agua y fruta. Confirmar coste de otros servicios. La página muestra 2 semanas por 380 000 o 320 000 con tarifa anticipada, 3 semanas por 550 000 o 462 000, 4 semanas por 700 000 o 588 000. Se pueden elegir semanas separadas. Pago: La página indica pago por transferencia. Confirmar moneda de factura, reembolso y aplicación del descuento.
+Fuente: https://tecnokids.com/colonia/
+Se ha comprobado: 2026-11-07
+
+### CP1810-20270111-20270115-w2-am · TecnoKids · Villa Urquiza · 9–13 · Mañana · 2027-01-11–2027-01-15
+
+lugar: Argentina · Villa Urquiza · St. Patrick’s School · Nahuel Huapi 4141 · Buenos Aires
+Fecha: 2027-01-11 — 2027-01-15
+edad: Grupo de 9–13 años. Grupos principales de 5–8 y 9–13 años. Pueden reorganizarse según inscripciones. Admisión desde Sala de 5 hasta 7 curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar curso y distribución por grupos. Oscar: Confirmar reparto de grupos con el organizador. Suplementos: Llevar agua y tentempié. El organizador facilita agua y fruta. Confirmar coste de otros servicios. La página muestra 2 semanas por 380 000 o 320 000 con tarifa anticipada, 3 semanas por 550 000 o 462 000, 4 semanas por 700 000 o 588 000. Se pueden elegir semanas separadas. Pago: La página indica pago por transferencia. Confirmar moneda de factura, reembolso y aplicación del descuento.
+Fuente: https://tecnokids.com/colonia/
+Se ha comprobado: 2026-11-07
+
+### CP1810-20270111-20270115-w2-pm · TecnoKids · Villa Urquiza · 9–13 · Tarde · 2027-01-11–2027-01-15
+
+lugar: Argentina · Villa Urquiza · St. Patrick’s School · Nahuel Huapi 4141 · Buenos Aires
+Fecha: 2027-01-11 — 2027-01-15
+edad: Grupo de 9–13 años. Grupos principales de 5–8 y 9–13 años. Pueden reorganizarse según inscripciones. Admisión desde Sala de 5 hasta 7 curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar curso y distribución por grupos. Oscar: Confirmar reparto de grupos con el organizador. Suplementos: Llevar agua y tentempié. El organizador facilita agua y fruta. Confirmar coste de otros servicios. La página muestra 2 semanas por 380 000 o 320 000 con tarifa anticipada, 3 semanas por 550 000 o 462 000, 4 semanas por 700 000 o 588 000. Se pueden elegir semanas separadas. Pago: La página indica pago por transferencia. Confirmar moneda de factura, reembolso y aplicación del descuento.
+Fuente: https://tecnokids.com/colonia/
+Se ha comprobado: 2026-11-07
+
+### CP1810-20270118-20270122-w3-am · TecnoKids · Villa Urquiza · 9–13 · Mañana · 2027-01-18–2027-01-22
+
+lugar: Argentina · Villa Urquiza · St. Patrick’s School · Nahuel Huapi 4141 · Buenos Aires
+Fecha: 2027-01-18 国 2027-01-22
+edad: Grupo de 9–13 años. Grupos principales de 5–8 y 9–13 años. Pueden reorganizarse según inscripciones. Admisión desde Sala de 5 hasta 7 curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar curso y distribución por grupos. Oscar: Confirmar reparto de grupos con el organizador. Suplementos: Llevar agua y tentempié. El organizador facilita agua y fruta. Confirmar coste de otros servicios. La página muestra 2 semanas por 380 000 o 320 000 con tarifa anticipada, 3 semanas por 550 000 o 462 000, 4 semanas por 700 000 o 588 000. Se pueden elegir semanas separadas. Pago: La página indica pago por transferencia. Confirmar moneda de factura, reembolso y aplicación del descuento.
+Fuente: https://tecnokids.com/colonia/
+Se ha comprobado: 2026-11-07
+
+### CP1810-20270118-20270122-w3-pm · TecnoKids · Villa Urquiza · 9–13 · Tarde · 2027-01-18–2027-01-22
+
+lugar: Argentina · Villa Urquiza · St. Patrick’s School · Nahuel Huapi 4141 · Buenos Aires
+Fecha: 2027-01-18 国 2027-01-22
+edad: Grupo de 9–13 años. Grupos principales de 5–8 y 9–13 años. Pueden reorganizarse según inscripciones. Admisión desde Sala de 5 hasta 7 curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar curso y distribución por grupos. Oscar: Confirmar reparto de grupos con el organizador. Suplementos: Llevar agua y tentempié. El organizador facilita agua y fruta. Confirmar coste de otros servicios. La página muestra 2 semanas por 380 000 o 320 000 con tarifa anticipada, 3 semanas por 550 000 o 462 000, 4 semanas por 700 000 o 588 000. Se pueden elegir semanas separadas. Pago: La página indica pago por transferencia. Confirmar moneda de factura, reembolso y aplicación del descuento.
+Fuente: https://tecnokids.com/colonia/
+Se ha comprobado: 2026-11-07
+
+### CP1810-20270125-20270129-w4-am · TecnoKids · Villa Urquiza · 9–13 · Mañana · 2027-01-25–2027-01-29
+
+lugar: Argentina · Villa Urquiza · St. Patrick’s School · Nahuel Huapi 4141 · Buenos Aires
+Fecha: 2027-01-25 国 2027-01-29
+edad: Grupo de 9–13 años. Grupos principales de 5–8 y 9–13 años. Pueden reorganizarse según inscripciones. Admisión desde Sala de 5 hasta 7 curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar curso y distribución por grupos. Oscar: Confirmar reparto de grupos con el organizador. Suplementos: Llevar agua y tentempié. El organizador facilita agua y fruta. Confirmar coste de otros servicios. La página muestra 2 semanas por 380 000 o 320 000 con tarifa anticipada, 3 semanas por 550 000 o 462 000, 4 semanas por 700 000 o 588 000. Se pueden elegir semanas separadas. Pago: La página indica pago por transferencia. Confirmar moneda de factura, reembolso y aplicación del descuento.
+Fuente: https://tecnokids.com/colonia/
+Se ha comprobado: 2026-11-07
+
+### CP1810-20270125-20270129-w4-pm · TecnoKids · Villa Urquiza · 9–13 · Tarde · 2027-01-25–2027-01-29
+
+lugar: Argentina · Villa Urquiza · St. Patrick’s School · Nahuel Huapi 4141 · Buenos Aires
+Fecha: 2027-01-25 国 2027-01-29
+edad: Grupo de 9–13 años. Grupos principales de 5–8 y 9–13 años. Pueden reorganizarse según inscripciones. Admisión desde Sala de 5 hasta 7 curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar curso y distribución por grupos. Oscar: Confirmar reparto de grupos con el organizador. Suplementos: Llevar agua y tentempié. El organizador facilita agua y fruta. Confirmar coste de otros servicios. La página muestra 2 semanas por 380 000 o 320 000 con tarifa anticipada, 3 semanas por 550 000 o 462 000, 4 semanas por 700 000 o 588 000. Se pueden elegir semanas separadas. Pago: La página indica pago por transferencia. Confirmar moneda de factura, reembolso y aplicación del descuento.
+Fuente: https://tecnokids.com/colonia/
+Se ha comprobado: 2026-11-07
+
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
 
 lugar: Letonia · EIS Campus · Piņķi

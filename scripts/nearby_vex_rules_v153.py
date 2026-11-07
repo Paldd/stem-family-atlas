@@ -101,12 +101,6 @@ def enrich_v153(d):
                    'México · regla local más estricta que mínimo global de 2+'))
 
     p=next(p for p in d['league_guide']['profiles'] if p['id']=='vex')
-    # Official event cards already in the atlas must also appear in the league
-    # filter. Indexing their existing source URLs does not refresh their dates.
-    linked=set(p['event_ids'])
-    p['event_ids'] += [e['id'] for e in d['events'] if e['block']=='Соревнования'
-                      and e['source'].startswith('https://events.vex.com/robot-competitions/')
-                      and e['id'] not in linked]
     p['age_summary']=T('IQ Elementary ≤12 / Middle ≤15; V5 ≤19; VEX U — после школы; AI / AIR от 14',
                        'IQ Elementary ≤12 / Middle ≤15; V5 ≤19; VEX U — después de secundaria; AI / AIR desde 14')
     p['categories']=[c for c in p['categories'] if c['name']!='VEX AIR']
