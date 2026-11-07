@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 8384; competiciones: 3393; eventos: 438; campamentos / programas: 4553. Perfiles de ligas y programas: 280. Fichas de exposiciones grandes y especializadas: 348 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 8399; competiciones: 3407; eventos: 439; campamentos / programas: 4553. Perfiles de ligas y programas: 285. Fichas de exposiciones grandes y especializadas: 348 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros concretos para 178 de 249 países y territorios. Países auditados por completo: 0. La revisión histórica v51 añadió 21 fichas y 3 perfiles. Se conservan todas las fichas previas.
 
@@ -18,12 +18,12 @@ Hay registros concretos para 178 de 249 países y territorios. Países auditados
 | América del Sur | 12 | 237 | 30 | 197 |
 | Europa | 42 | 440 | 87 | 1372 |
 | África | 34 | 135 | 25 | 71 |
-| Asia | 46 | 842 | 105 | 1557 |
-| Oceanía | 9 | 132 | 24 | 171 |
+| Asia | 46 | 852 | 105 | 1557 |
+| Oceanía | 9 | 136 | 24 | 171 |
 
 Fichas interregionales o globales sin continente único: 136. América del Norte incluye Centroamérica y el Caribe. Las cifras reflejan el inventario de la base y la cobertura completa sigue pendiente.
 
-VEX: 521 de 3393 fichas de competiciones (15.4%). La cobertura está desequilibrada.
+VEX: 521 de las 3407 fichas de competiciones (15.3%). Esta proporción refleja un desequilibrio de cobertura.
 
 ## Lo que queda
 
@@ -305,7 +305,12 @@ VEX: 521 de 3393 fichas de competiciones (15.4%). La cobertura está desequilibr
 - **OECS Super Regional Robotics**: 2 fichas, 0 con fechas futuras exactas. Hay perfil y fichas. Cobertura local parcial. https://www.steamtournament.com/public-registration?tournament=126b27b2-cf70-443b-b54e-1233b10aaa9d
 - **iCode784 · NTRC Saint Vincent and the Grenadines**: 7 fichas, 7 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.ntrc.vc/general/ntrcs-i-code784-competition/
 - **CIPTA · Brunei and ASEAN Invention Awards**: 5 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://cipta.utb.edu.bn/
-- **APICTA · Asia Pacific ICT Alliance Awards**: 7 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.apicta.id/faq/
+- **APICTA · Asia Pacific ICT Alliance Awards**: 18 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.apicta.id/faq/
+- **APICTA Taiwan · Junior Student**: 2 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://app.apicta.tw/pdf/2026_APICTA_Awards_Guideline.pdf
+- **AIIA iAwards · Australia**: 4 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://aiia.com.au/iawards/competition/student-entries/
+- **P@SHA ICT Awards · Pakistan**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://applications.pashaictawards.com/
+- **Hong Kong ICT Awards · Student Innovation**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.hkictawards.hk/wp-content/uploads/2026/04/08-SI-Award-Prospectus-HKICTA-2026-v2.pdf
+- **Young Computer Scientist · FITIS Sri Lanka**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://ycs.lk/
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 10 tarjetas, 0 con fechas exactas futuras. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf

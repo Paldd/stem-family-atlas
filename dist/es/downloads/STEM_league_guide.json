@@ -6184,7 +6184,7 @@
             "team": "competición individual; 1–4 en la delegación",
             "hardware": "medio de programación por rules del concurso",
             "age_rule": "los estudios en la escuela en el país de representación en septiembre/diciembre del año anterior; excepciones por las reglas",
-            "entry": "selección nacional"
+            "entry": "Selección nacional"
           }
         ],
         "event_ids": [],
@@ -7101,7 +7101,7 @@
             "age": "≤20; secundario o inferior",
             "team": "1–4 contestants",
             "hardware": "Programación",
-            "entry": "selección nacional",
+            "entry": "Selección nacional",
             "age_rule": "S2.5: el estado escolar, la carga de estudio y el 1 de julio"
           }
         ],
@@ -21194,38 +21194,44 @@
         "id": "apicta-asia-pacific-ict",
         "name": "APICTA · Asia Pacific ICT Alliance Awards",
         "group": "regional",
-        "age_summary": "Primaria y secundaria inicial SD / SMP según la selección de Indonesia.",
+        "age_summary": "Primaria y primeros cursos de secundaria, hasta el 9 inclusive.",
         "age_tags": [
           "6",
           "9",
           "10-12",
           "teen"
         ],
-        "summary": "El concurso abarca 14 economías según la FAQ. Brunéi nomina proyectos mediante BICTA. Curso, representación local y equipo dependen del coordinador.",
+        "summary": "Los criterios son iguales para primaria y secundaria. Se requiere un proyecto digital terminado y la nominación de la coordinación local.",
         "categories": [
           {
             "name": "Junior Student Project",
-            "age": "Primaria y secundaria inicial SD / SMP según la selección de Indonesia.",
-            "age_rule": "Primaria y secundaria inicial SD / SMP según la selección de Indonesia.",
+            "age": "Primaria y primeros cursos de secundaria, hasta el 9 inclusive.",
+            "age_rule": "Primaria y primeros cursos de secundaria, hasta el 9 inclusive.",
             "team": "Nominación a través del coordinador de su economía APICTA. En la final participan delegaciones seleccionadas. El procedimiento publicado no ofrece inscripción familiar independiente.",
             "hardware": "ICT",
-            "entry": "Nominación a través del coordinador de su economía APICTA. En la final participan delegaciones seleccionadas. El procedimiento publicado no ofrece inscripción familiar independiente."
+            "entry": "Nominación a través del coordinador de su economía APICTA. En la final participan delegaciones seleccionadas. El procedimiento publicado no ofrece inscripción familiar independiente.",
+            "source": "https://hkcs.org.hk/apicta2023/assets/files/APICTA-2023OperationsManual4.1official.pdf",
+            "event_id": "C3386"
           },
           {
             "name": "Senior Student Project",
-            "age": "Secundaria superior SMA / SMK o equivalente según la selección de Indonesia.",
-            "age_rule": "Secundaria superior SMA / SMK o equivalente según la selección de Indonesia.",
+            "age": "Últimos 3 años de secundaria antes de la educación superior.",
+            "age_rule": "Últimos 3 años de secundaria antes de la educación superior.",
             "team": "Nominación a través del coordinador de su economía APICTA. En la final participan delegaciones seleccionadas. El procedimiento publicado no ofrece inscripción familiar independiente.",
             "hardware": "ICT",
-            "entry": "Nominación a través del coordinador de su economía APICTA. En la final participan delegaciones seleccionadas. El procedimiento publicado no ofrece inscripción familiar independiente."
+            "entry": "Nominación a través del coordinador de su economía APICTA. En la final participan delegaciones seleccionadas. El procedimiento publicado no ofrece inscripción familiar independiente.",
+            "source": "https://hkcs.org.hk/apicta2023/assets/files/APICTA-2023OperationsManual4.1official.pdf",
+            "event_id": "C3387"
           },
           {
             "name": "Tertiary Student Project",
-            "age": "Estudiantes universitarios según la selección de Indonesia.",
-            "age_rule": "Estudiantes universitarios según la selección de Indonesia.",
+            "age": "Grado universitario o hasta 1 año tras terminar, según el reglamento.",
+            "age_rule": "Grado universitario o hasta 1 año tras terminar, según el reglamento.",
             "team": "Nominación a través del coordinador de su economía APICTA. En la final participan delegaciones seleccionadas. El procedimiento publicado no ofrece inscripción familiar independiente.",
             "hardware": "ICT",
-            "entry": "Nominación a través del coordinador de su economía APICTA. En la final participan delegaciones seleccionadas. El procedimiento publicado no ofrece inscripción familiar independiente."
+            "entry": "Nominación a través del coordinador de su economía APICTA. En la final participan delegaciones seleccionadas. El procedimiento publicado no ofrece inscripción familiar independiente.",
+            "source": "https://hkcs.org.hk/apicta2023/assets/files/APICTA-2023OperationsManual4.1official.pdf",
+            "event_id": "C3388"
           }
         ],
         "event_ids": [
@@ -21237,22 +21243,36 @@
           "C3384",
           "C3385",
           "E430",
-          "E431"
+          "E431",
+          "C3395",
+          "C3396",
+          "C3397",
+          "C3398",
+          "C3402",
+          "C3403",
+          "C3405",
+          "C3407",
+          "C3406",
+          "C3408",
+          "C3404"
         ],
         "legacy_ids": [],
         "route": "Nominación a través del coordinador de su economía APICTA. En la final participan delegaciones seleccionadas. El procedimiento publicado no ofrece inscripción familiar independiente.",
         "hardware": "ICT",
-        "language": "Confirmar el idioma del grupo o sede concretos.",
+        "language": "El inglés es obligatorio durante la evaluación según el reglamento internacional publicado.",
         "importance": "Competición regional de equipos nacionales.",
         "strengths": [
-          "Proyecto TIC y defensa. Los ganadores nacionales pueden representar a Brunéi en APICTA mediante selección."
+          "Proyecto TIC y defensa. Los ganadores nacionales pueden representar a Brunéi en APICTA mediante selección.",
+          "Los criterios son iguales para primaria y secundaria. Se requiere un proyecto digital terminado y la nominación de la coordinación local."
         ],
         "requirements": [
-          "Nominación a través del coordinador de su economía APICTA. En la final participan delegaciones seleccionadas. El procedimiento publicado no ofrece inscripción familiar independiente."
+          "Nominación a través del coordinador de su economía APICTA. En la final participan delegaciones seleccionadas. El procedimiento publicado no ofrece inscripción familiar independiente.",
+          "Condicional por curso escolar. Se requiere admisión en la selección local y nominación de la delegación."
         ],
         "nuances": [
           "La solicitud en Indonesia pasaba por la selección de la delegación. Las fechas difieren entre páginas del organizador y ambos plazos ya pasaron.",
-          "Delegados, conferencia y exposición tienen distintas condiciones de entrada. Entrada familiar y edad de acceso sin publicar."
+          "Delegados, conferencia y exposición tienen distintas condiciones de entrada. Entrada familiar y edad de acceso sin publicar.",
+          "Los criterios son iguales para primaria y secundaria. Se requiere un proyecto digital terminado y la nominación de la coordinación local."
         ],
         "cost": "Precio sin publicar.",
         "award": "Premio interregional para un proyecto TIC seleccionado.",
@@ -21281,9 +21301,324 @@
             "url": "https://www.mtic.gov.bn/news-item/brunei-ict-awards-bicta-2026-ceremony/",
             "title": "Página oficial del organizador",
             "checked": "2026-11-07"
+          },
+          {
+            "title": "Reglamento o calendario oficial de la organización.",
+            "url": "https://www.apicta.id/economies/",
+            "checked": "2026-11-07"
+          },
+          {
+            "title": "Reglamento o calendario oficial de la organización.",
+            "url": "https://hkcs.org.hk/apicta2023/assets/files/APICTA-2023OperationsManual4.1official.pdf",
+            "checked": "2026-11-07"
+          },
+          {
+            "title": "Reglamento o calendario oficial de la organización.",
+            "url": "https://www.apicta.id/awards/",
+            "checked": "2026-11-07"
           }
         ],
         "evidence": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado."
+      },
+      {
+        "id": "apicta-taiwan-junior",
+        "name": "APICTA Taiwan · Junior Student",
+        "group": "regional",
+        "age_summary": "Primaria y primeros cursos de secundaria, hasta el 9 inclusive.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Segunda ronda presencial en inglés. De 25 minutos, 3 para montar, 10 para la demostración, 10 para preguntas y 2 para desmontar.",
+        "categories": [
+          {
+            "name": "Junior Student",
+            "age": "Primaria y primeros cursos de secundaria, hasta el 9 inclusive.",
+            "entry": "Alumno de una escuela local con credencial o constancia de estudios. Equipo de hasta 5 participantes y un docente mentor. Desarrollo principal en Taiwán, con derechos o licencia de uso.",
+            "source": "https://app.apicta.tw/pdf/2026_APICTA_Awards_Guideline.pdf",
+            "age_rule": "Primaria y primeros cursos de secundaria, hasta el 9 inclusive.",
+            "team": "Equipo escolar con mentor.",
+            "hardware": "Proyecto digital propio y demostración de funcionamiento.",
+            "event_id": "C3395"
+          }
+        ],
+        "event_ids": [
+          "C3395",
+          "C3396"
+        ],
+        "legacy_ids": [],
+        "route": "Alumno de una escuela local con credencial o constancia de estudios. Equipo de hasta 5 participantes y un docente mentor. Desarrollo principal en Taiwán, con derechos o licencia de uso.",
+        "hardware": "Proyecto digital propio y demostración de funcionamiento.",
+        "language": "Defensa y respuestas a preguntas en inglés.",
+        "importance": "Final de Asia-Pacífico",
+        "strengths": [
+          "Segunda ronda presencial en inglés. De 25 minutos, 3 para montar, 10 para la demostración, 10 para preguntas y 2 para desmontar."
+        ],
+        "requirements": [
+          "Alumno de una escuela local con credencial o constancia de estudios. Equipo de hasta 5 participantes y un docente mentor. Desarrollo principal en Taiwán, con derechos o licencia de uso."
+        ],
+        "nuances": [
+          "Segunda ronda presencial en inglés. De 25 minutos, 3 para montar, 10 para la demostración, 10 para preguntas y 2 para desmontar."
+        ],
+        "cost": "Confirmar la cuota de esta categoría.",
+        "award": "Premio según el acta de la fase. La coordinación confirma el derecho a la nominación internacional.",
+        "sources": [
+          {
+            "title": "Reglamento o calendario oficial de la organización.",
+            "url": "https://app.apicta.tw/pdf/2026_APICTA_Awards_Guideline.pdf",
+            "checked": "2026-11-07"
+          },
+          {
+            "title": "Reglamento o calendario oficial de la organización.",
+            "url": "https://moda.gov.tw/ADI/news/events/19950",
+            "checked": "2026-11-07"
+          }
+        ],
+        "evidence": "Cotejado con fuentes primarias. La fase, la convocatoria y las condiciones de acceso se indican por separado."
+      },
+      {
+        "id": "aiia-iawards",
+        "name": "AIIA iAwards · Australia",
+        "group": "regional",
+        "age_summary": "De Prep a Year 12 inclusive.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Selección estatal o territorial → defensa presencial de finalistas nacionales → posible nominación de AIIA a APICTA.",
+        "categories": [
+          {
+            "name": "Prep to Year 12",
+            "age": "De Prep a Year 12 inclusive.",
+            "entry": "Estar matriculado en un centro educativo australiano en 2025 o 2026. Desarrollar la solución durante los estudios. Se admite candidatura individual o en equipo.",
+            "source": "https://aiia.com.au/iawards/competition/student-entries/",
+            "age_rule": "De Prep a Year 12 inclusive.",
+            "team": "Individual o por equipos, según las reglas de selección.",
+            "hardware": "Proyecto digital propio y demostración de funcionamiento.",
+            "event_id": "C3397"
+          }
+        ],
+        "event_ids": [
+          "C3397",
+          "C3398",
+          "C3399",
+          "C3400"
+        ],
+        "legacy_ids": [],
+        "route": "Estar matriculado en un centro educativo australiano en 2025 o 2026. Desarrollar la solución durante los estudios. Se admite candidatura individual o en equipo.",
+        "hardware": "Proyecto digital propio y demostración de funcionamiento.",
+        "language": "Confirmar idioma de la fase local.",
+        "importance": "Final de Asia-Pacífico",
+        "strengths": [
+          "Selección estatal o territorial → defensa presencial de finalistas nacionales → posible nominación de AIIA a APICTA."
+        ],
+        "requirements": [
+          "Estar matriculado en un centro educativo australiano en 2025 o 2026. Desarrollar la solución durante los estudios. Se admite candidatura individual o en equipo."
+        ],
+        "nuances": [
+          "Selección estatal o territorial → defensa presencial de finalistas nacionales → posible nominación de AIIA a APICTA."
+        ],
+        "cost": "Inscripción gratuita en la temporada 2026. Viaje y gastos por separado.",
+        "award": "Premio según el acta de la fase. La coordinación confirma el derecho a la nominación internacional.",
+        "sources": [
+          {
+            "title": "Reglamento o calendario oficial de la organización.",
+            "url": "https://aiia.com.au/iawards/competition/student-entries/",
+            "checked": "2026-11-07"
+          },
+          {
+            "title": "Reglamento o calendario oficial de la organización.",
+            "url": "https://aiia.com.au/iawards/competition/",
+            "checked": "2026-11-07"
+          },
+          {
+            "title": "Reglamento o calendario oficial de la organización.",
+            "url": "https://aiia.com.au/iawards/competition/terms-and-conditions/",
+            "checked": "2026-11-07"
+          }
+        ],
+        "evidence": "Cotejado con fuentes primarias. La fase, la convocatoria y las condiciones de acceso se indican por separado."
+      },
+      {
+        "id": "pasha-ict",
+        "name": "P@SHA ICT Awards · Pakistan",
+        "group": "regional",
+        "age_summary": "Hasta 9 inclusive según el reglamento anterior publicado. El portal de 2026 confirma la modalidad Junior.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "El calendario inicial de 2026 muestra julio para la presentación, agosto para la evaluación y septiembre para la ceremonia. Confirmar fechas exactas por fase. El aviso del portal por sí solo no confirma una convocatoria activa.",
+        "categories": [
+          {
+            "name": "Junior Student",
+            "age": "Hasta 9 inclusive según el reglamento anterior publicado. El portal de 2026 confirma la modalidad Junior.",
+            "entry": "Selección de innovaciones locales en Pakistán. Confirmar vínculo escolar y acreditación del equipo para Junior.",
+            "source": "https://applications.pashaictawards.com/",
+            "age_rule": "Hasta 9 inclusive según el reglamento anterior publicado. El portal de 2026 confirma la modalidad Junior.",
+            "team": "Individual o por equipos, según las reglas de selección.",
+            "hardware": "Proyecto digital propio y demostración de funcionamiento.",
+            "event_id": "C3403"
+          }
+        ],
+        "event_ids": [
+          "C3403"
+        ],
+        "legacy_ids": [],
+        "route": "Selección de innovaciones locales en Pakistán. Confirmar vínculo escolar y acreditación del equipo para Junior.",
+        "hardware": "Proyecto digital propio y demostración de funcionamiento.",
+        "language": "Confirmar idioma de la fase local.",
+        "importance": "Final de Asia-Pacífico",
+        "strengths": [
+          "El calendario inicial de 2026 muestra julio para la presentación, agosto para la evaluación y septiembre para la ceremonia. Confirmar fechas exactas por fase. El aviso del portal por sí solo no confirma una convocatoria activa."
+        ],
+        "requirements": [
+          "Selección de innovaciones locales en Pakistán. Confirmar vínculo escolar y acreditación del equipo para Junior."
+        ],
+        "nuances": [
+          "El calendario inicial de 2026 muestra julio para la presentación, agosto para la evaluación y septiembre para la ceremonia. Confirmar fechas exactas por fase. El aviso del portal por sí solo no confirma una convocatoria activa."
+        ],
+        "cost": "Confirmar la cuota de esta categoría.",
+        "award": "Premio según el acta de la fase. La coordinación confirma el derecho a la nominación internacional.",
+        "sources": [
+          {
+            "title": "Reglamento o calendario oficial de la organización.",
+            "url": "https://applications.pashaictawards.com/",
+            "checked": "2026-11-07"
+          },
+          {
+            "title": "Reglamento o calendario oficial de la organización.",
+            "url": "https://www.pashaictawards.com/student",
+            "checked": "2026-11-07"
+          },
+          {
+            "title": "Reglamento o calendario oficial de la organización.",
+            "url": "https://pashaictawards.com/faqs/",
+            "checked": "2026-11-07"
+          }
+        ],
+        "evidence": "Cotejado con fuentes primarias. La fase, la convocatoria y las condiciones de acceso se indican por separado."
+      },
+      {
+        "id": "hkicta-student",
+        "name": "Hong Kong ICT Awards · Student Innovation",
+        "group": "regional",
+        "age_summary": "Junior Secondary, Senior Secondary y Higher Education. Los itinerarios publicados no incluyen primaria.",
+        "age_tags": [
+          "teen"
+        ],
+        "summary": "Es un premio local independiente. Confirmar por separado con HKCS el acceso a la nominación APICTA.",
+        "categories": [
+          {
+            "name": "Junior Secondary / Senior Secondary / Higher Education",
+            "age": "Junior Secondary, Senior Secondary y Higher Education. Los itinerarios publicados no incluyen primaria.",
+            "entry": "Entidad local o residente de Hong Kong. En grupo, al menos la mitad de los integrantes deben ser residentes. Una parte significativa del trabajo debe usar recursos de Hong Kong.",
+            "source": "https://www.hkictawards.hk/wp-content/uploads/2026/04/08-SI-Award-Prospectus-HKICTA-2026-v2.pdf",
+            "age_rule": "Junior Secondary, Senior Secondary y Higher Education. Los itinerarios publicados no incluyen primaria.",
+            "team": "Individual o por equipos, según las reglas de selección.",
+            "hardware": "Proyecto digital propio y demostración de funcionamiento.",
+            "event_id": "C3401"
+          }
+        ],
+        "event_ids": [
+          "C3401",
+          "E439"
+        ],
+        "legacy_ids": [],
+        "route": "Entidad local o residente de Hong Kong. En grupo, al menos la mitad de los integrantes deben ser residentes. Una parte significativa del trabajo debe usar recursos de Hong Kong.",
+        "hardware": "Proyecto digital propio y demostración de funcionamiento.",
+        "language": "Confirmar idioma de la fase local.",
+        "importance": "Final de Asia-Pacífico",
+        "strengths": [
+          "Es un premio local independiente. Confirmar por separado con HKCS el acceso a la nominación APICTA."
+        ],
+        "requirements": [
+          "Entidad local o residente de Hong Kong. En grupo, al menos la mitad de los integrantes deben ser residentes. Una parte significativa del trabajo debe usar recursos de Hong Kong."
+        ],
+        "nuances": [
+          "Es un premio local independiente. Confirmar por separado con HKCS el acceso a la nominación APICTA."
+        ],
+        "cost": "Confirmar la cuota de esta categoría.",
+        "award": "Premio según el acta de la fase. La coordinación confirma el derecho a la nominación internacional.",
+        "sources": [
+          {
+            "title": "Reglamento o calendario oficial de la organización.",
+            "url": "https://www.hkictawards.hk/wp-content/uploads/2026/04/08-SI-Award-Prospectus-HKICTA-2026-v2.pdf",
+            "checked": "2026-11-07"
+          },
+          {
+            "title": "Reglamento o calendario oficial de la organización.",
+            "url": "https://www.info.gov.hk/gia/general/202604/28/P2026042700432.htm",
+            "checked": "2026-11-07"
+          }
+        ],
+        "evidence": "Cotejado con fuentes primarias. La fase, la convocatoria y las condiciones de acceso se indican por separado."
+      },
+      {
+        "id": "fitis-ycs",
+        "name": "Young Computer Scientist · FITIS Sri Lanka",
+        "group": "regional",
+        "age_summary": "Junior cursos 6–9, Senior cursos 10–11 y 12–13.",
+        "age_tags": [
+          "10-12",
+          "teen"
+        ],
+        "summary": "El informe ministerial confirma nominaciones históricas de FITIS a APICTA. Confirmar por separado cupos y nominaciones de 2026. Las condiciones antiguas de la final de 2022 no corresponden a la temporada actual.",
+        "categories": [
+          {
+            "name": "Junior / Senior",
+            "age": "Junior cursos 6–9, Senior cursos 10–11 y 12–13.",
+            "entry": "Proyectos escolares. Incluye IA, robótica, programación de juegos y aplicaciones digitales.",
+            "source": "https://ycs.lk/",
+            "age_rule": "Junior cursos 6–9, Senior cursos 10–11 y 12–13.",
+            "team": "Individual o por equipos, según las reglas de selección.",
+            "hardware": "Proyecto digital propio y demostración de funcionamiento.",
+            "event_id": "C3405"
+          }
+        ],
+        "event_ids": [
+          "C3405"
+        ],
+        "legacy_ids": [],
+        "route": "Proyectos escolares. Incluye IA, robótica, programación de juegos y aplicaciones digitales.",
+        "hardware": "Proyecto digital propio y demostración de funcionamiento.",
+        "language": "Confirmar idioma de la fase local.",
+        "importance": "Final de Asia-Pacífico",
+        "strengths": [
+          "El informe ministerial confirma nominaciones históricas de FITIS a APICTA. Confirmar por separado cupos y nominaciones de 2026. Las condiciones antiguas de la final de 2022 no corresponden a la temporada actual."
+        ],
+        "requirements": [
+          "Proyectos escolares. Incluye IA, robótica, programación de juegos y aplicaciones digitales."
+        ],
+        "nuances": [
+          "El informe ministerial confirma nominaciones históricas de FITIS a APICTA. Confirmar por separado cupos y nominaciones de 2026. Las condiciones antiguas de la final de 2022 no corresponden a la temporada actual."
+        ],
+        "cost": "Confirmar la cuota de esta categoría.",
+        "award": "Premio según el acta de la fase. La coordinación confirma el derecho a la nominación internacional.",
+        "sources": [
+          {
+            "title": "Reglamento o calendario oficial de la organización.",
+            "url": "https://ycs.lk/",
+            "checked": "2026-11-07"
+          },
+          {
+            "title": "Reglamento o calendario oficial de la organización.",
+            "url": "https://fitis.lk/Home/programs/-607424",
+            "checked": "2026-11-07"
+          },
+          {
+            "title": "Reglamento o calendario oficial de la organización.",
+            "url": "https://www.parliament.lk/files/pdf/budget/2025/progress-reports/pr-20250310-en.pdf",
+            "checked": "2026-11-07"
+          }
+        ],
+        "evidence": "Cotejado con fuentes primarias. La fase, la convocatoria y las condiciones de acceso se indican por separado."
       },
       {
         "id": "tech-challenge-project",
@@ -26540,7 +26875,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "280 perfiles de ligas, familias y programas. Se conservan los 46 itinerarios previos. Los formatos de Brasil están separados. Robofest LATAM y BajaBot se describen por sus categorías locales. La cobertura mundial es parcial.",
+    "methodology": "Perfiles de ligas, familias de competiciones y programas: 285; se conservan las 46 rutas anteriores. Los formatos brasileños se distinguen y los Robofest LATAM y BajaBot locales se describen por categoría. La cobertura mundial es parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

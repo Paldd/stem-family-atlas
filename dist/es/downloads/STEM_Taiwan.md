@@ -808,6 +808,32 @@ Limitaciones: Zona profesional para editores, desarrolladores y profesionales de
 Fuente: https://tgs.tca.org.tw/b2bzone_e.php?lang=e&m=2026
 Se ha comprobado: 2026-11-07
 
+### C3395 · APICTA Taiwan 2026 · Junior Student Selection
+
+Fecha: Revisión de candidaturas y selección presencial en septiembre de 2026. Anuncio del equipo en octubre. Preparación en octubre–noviembre.
+edad: Primaria y primeros cursos de secundaria, hasta el 9 inclusive.
+Matvey: Condicional. Confirmar curso, escuela local y reglas de la próxima selección.
+Oscar: Condicional. Confirmar curso, escuela local y reglas de la próxima selección.
+Idioma: Defensa y respuestas a preguntas en inglés.
+Acceso: Alumno de una escuela local con credencial o constancia de estudios. Equipo de hasta 5 participantes y un docente mentor. Desarrollo principal en Taiwán, con derechos o licencia de uso.
+Precio: Confirmar la cuota de esta categoría.
+Limitaciones: Segunda ronda presencial en inglés. De 25 minutos, 3 para montar, 10 para la demostración, 10 para preguntas y 2 para desmontar.
+Fuente: https://app.apicta.tw/pdf/2026_APICTA_Awards_Guideline.pdf
+Se ha comprobado: 2026-11-07
+
+### C3396 · APICTA Taiwan · Junior Student · next call
+
+Fecha: La próxima convocatoria aún no se ha anunciado.
+edad: Primaria y primeros cursos de secundaria, hasta el 9 inclusive.
+Matvey: Condicional. Confirmar curso, escuela local y reglas de la próxima selección.
+Oscar: Condicional. Confirmar curso, escuela local y reglas de la próxima selección.
+Idioma: Confirmar idioma de la fase local.
+Acceso: Alumno de una escuela local con credencial o constancia de estudios. Equipo de hasta 5 participantes y un docente mentor. Desarrollo principal en Taiwán, con derechos o licencia de uso.
+Precio: Confirmar la cuota de esta categoría.
+Limitaciones: Segunda ronda presencial en inglés. De 25 minutos, 3 para montar, 10 para la demostración, 10 para preguntas y 2 para desmontar.
+Fuente: https://app.apicta.tw/pdf/2026_APICTA_Awards_Guideline.pdf
+Se ha comprobado: 2026-11-07
+
 ### CP025-20270705-20270710 · Camp Taiwan · Verano 2027 · El juego aún no está abierto. · 2027-07-05–2027-07-10
 
 Fecha: 2027-07-05 2027-07-10

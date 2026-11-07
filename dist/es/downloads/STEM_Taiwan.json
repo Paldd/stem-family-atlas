@@ -3629,6 +3629,125 @@
       "exhibitors": []
     },
     {
+      "id": "C3395",
+      "block": "Competiciones",
+      "title": "APICTA Taiwan 2026 · Junior Student Selection",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "Taiwan",
+      "iso": [
+        "TWN"
+      ],
+      "start": "",
+      "end": "",
+      "period": "Revisión de candidaturas y selección presencial en septiembre de 2026. Anuncio del equipo en octubre. Preparación en octubre–noviembre.",
+      "deadline": "2026-08-27",
+      "date_status": "No se ha anunciado",
+      "date_scope": "programme_watch",
+      "age": "Primaria y primeros cursos de secundaria, hasta el 9 inclusive.",
+      "mat": "Condicional. Confirmar curso, escuela local y reglas de la próxima selección.",
+      "osc": "Condicional. Confirmar curso, escuela local y reglas de la próxima selección.",
+      "format": "Equipo escolar con mentor.",
+      "entry": "Alumno de una escuela local con credencial o constancia de estudios. Equipo de hasta 5 participantes y un docente mentor. Desarrollo principal en Taiwán, con derechos o licencia de uso.",
+      "gear": "Proyecto digital propio y demostración de funcionamiento.",
+      "language": "Defensa y respuestas a preguntas en inglés.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Defensa y respuestas a preguntas en inglés.",
+      "cost": "Confirmar la cuota de esta categoría.",
+      "level": "Selección nacional",
+      "importance_reason": "Selección para representar a la propia economía en APICTA.",
+      "scope": "national",
+      "reward": "Premio según el acta de la fase. La coordinación confirma el derecho a la nominación internacional.",
+      "priority": "P2 — participación según condiciones",
+      "action": "Archivo de temporada. Presentación cerrada.",
+      "source": "https://app.apicta.tw/pdf/2026_APICTA_Awards_Guideline.pdf",
+      "references": [
+        {
+          "url": "https://moda.gov.tw/ADI/news/events/19950",
+          "label": "Reglamento o calendario oficial de la organización."
+        },
+        {
+          "url": "https://app.apicta.tw/guidelines.aspx",
+          "label": "Reglamento o calendario oficial de la organización."
+        }
+      ],
+      "proof": "Cotejado con fuentes primarias. La fase, la convocatoria y las condiciones de acceso se indican por separado.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Segunda ronda presencial en inglés. De 25 minutos, 3 para montar, 10 para la demostración, 10 para preguntas y 2 para desmontar.",
+      "themes": [
+        "technology",
+        "coding"
+      ],
+      "participation": "team",
+      "admission_kind": "school_selection",
+      "evidence_level": "event_page",
+      "deadline_note": "Último día de presentación, separado de la evaluación.",
+      "related_ids": [
+        "C3396",
+        "C3386"
+      ]
+    },
+    {
+      "id": "C3396",
+      "block": "Competiciones",
+      "title": "APICTA Taiwan · Junior Student · next call",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "Taiwan",
+      "iso": [
+        "TWN"
+      ],
+      "start": "",
+      "end": "",
+      "period": "La próxima convocatoria aún no se ha anunciado.",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "date_scope": "programme_watch",
+      "age": "Primaria y primeros cursos de secundaria, hasta el 9 inclusive.",
+      "mat": "Condicional. Confirmar curso, escuela local y reglas de la próxima selección.",
+      "osc": "Condicional. Confirmar curso, escuela local y reglas de la próxima selección.",
+      "format": "Equipo escolar con mentor.",
+      "entry": "Alumno de una escuela local con credencial o constancia de estudios. Equipo de hasta 5 participantes y un docente mentor. Desarrollo principal en Taiwán, con derechos o licencia de uso.",
+      "gear": "Proyecto digital propio y demostración de funcionamiento.",
+      "language": "Confirmar idioma de la fase local.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de la fase local.",
+      "cost": "Confirmar la cuota de esta categoría.",
+      "level": "Selección nacional",
+      "importance_reason": "Selección para representar a la propia economía en APICTA.",
+      "scope": "national",
+      "reward": "Premio según el acta de la fase. La coordinación confirma el derecho a la nominación internacional.",
+      "priority": "P2 — participación según condiciones",
+      "action": "Consultar la publicación de las nuevas reglas y fechas.",
+      "source": "https://app.apicta.tw/pdf/2026_APICTA_Awards_Guideline.pdf",
+      "references": [
+        {
+          "url": "https://moda.gov.tw/ADI/news/events/19950",
+          "label": "Reglamento o calendario oficial de la organización."
+        }
+      ],
+      "proof": "Cotejado con fuentes primarias. La fase, la convocatoria y las condiciones de acceso se indican por separado.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Segunda ronda presencial en inglés. De 25 minutos, 3 para montar, 10 para la demostración, 10 para preguntas y 2 para desmontar.",
+      "themes": [
+        "technology",
+        "coding"
+      ],
+      "participation": "team",
+      "admission_kind": "school_selection",
+      "evidence_level": "event_page",
+      "related_ids": [
+        "C3395",
+        "C3386"
+      ]
+    },
+    {
       "id": "CP025-20270705-20270710",
       "block": "Campamentos",
       "title": "Camp Taiwan · el verano 2027 · El conjunto no está abierto. · 2027-07-05–2027-07-10",

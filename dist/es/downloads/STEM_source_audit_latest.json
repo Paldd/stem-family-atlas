@@ -16,11 +16,11 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 8384,
-    "competition_cards": 3393,
-    "event_cards": 438,
+    "cards": 8399,
+    "competition_cards": 3407,
+    "event_cards": 439,
     "camp_cards": 4553,
-    "league_profiles": 280,
+    "league_profiles": 285,
     "major_exhibition_cards": 348,
     "vex_cards": 521,
     "countries_with_records": 178,
@@ -90,10 +90,10 @@
       "regions": [
         "Asia"
       ],
-      "total": 2516,
+      "total": 2527,
       "countries_with_records": 46,
-      "competitions": 842,
-      "events": 117,
+      "competitions": 852,
+      "events": 118,
       "major_exhibitions": 105,
       "camps": 1557,
       "status": "Se ha estudiado parcialmente",
@@ -104,9 +104,9 @@
       "regions": [
         "Oceanía"
       ],
-      "total": 331,
+      "total": 335,
       "countries_with_records": 9,
-      "competitions": 132,
+      "competitions": 136,
       "events": 28,
       "major_exhibitions": 24,
       "camps": 171,
@@ -6376,13 +6376,98 @@
         "C3385",
         "C3386",
         "C3387",
-        "C3388"
+        "C3388",
+        "C3395",
+        "C3396",
+        "C3397",
+        "C3398",
+        "C3402",
+        "C3403",
+        "C3404",
+        "C3405",
+        "C3406",
+        "C3407",
+        "C3408"
       ],
-      "cards": 7,
+      "cards": 18,
       "future_dated": 3,
-      "linked_card_count": 9,
+      "linked_card_count": 20,
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://www.apicta.id/faq/",
+      "new": false
+    },
+    {
+      "id": "apicta-taiwan-junior",
+      "name": "APICTA Taiwan · Junior Student",
+      "group": "regional",
+      "event_ids": [
+        "C3395",
+        "C3396"
+      ],
+      "cards": 2,
+      "future_dated": 0,
+      "linked_card_count": 2,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://app.apicta.tw/pdf/2026_APICTA_Awards_Guideline.pdf",
+      "new": false
+    },
+    {
+      "id": "aiia-iawards",
+      "name": "AIIA iAwards · Australia",
+      "group": "regional",
+      "event_ids": [
+        "C3397",
+        "C3398",
+        "C3399",
+        "C3400"
+      ],
+      "cards": 4,
+      "future_dated": 0,
+      "linked_card_count": 4,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://aiia.com.au/iawards/competition/student-entries/",
+      "new": false
+    },
+    {
+      "id": "pasha-ict",
+      "name": "P@SHA ICT Awards · Pakistan",
+      "group": "regional",
+      "event_ids": [
+        "C3403"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "linked_card_count": 1,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://applications.pashaictawards.com/",
+      "new": false
+    },
+    {
+      "id": "hkicta-student",
+      "name": "Hong Kong ICT Awards · Student Innovation",
+      "group": "regional",
+      "event_ids": [
+        "C3401"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "linked_card_count": 2,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://www.hkictawards.hk/wp-content/uploads/2026/04/08-SI-Award-Prospectus-HKICTA-2026-v2.pdf",
+      "new": false
+    },
+    {
+      "id": "fitis-ycs",
+      "name": "Young Computer Scientist · FITIS Sri Lanka",
+      "group": "regional",
+      "event_ids": [
+        "C3405"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "linked_card_count": 1,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://ycs.lk/",
       "new": false
     },
     {

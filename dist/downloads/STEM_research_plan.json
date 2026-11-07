@@ -870,11 +870,11 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 237,
+    "version": 238,
     "status": "implementation_snapshot",
-    "events": 8384,
-    "competitions": 3393,
-    "league_profiles": 280,
+    "events": 8399,
+    "competitions": 3407,
+    "league_profiles": 285,
     "camp_dossiers": 1854,
     "budget_offers": 301,
     "editorial_reviewed": 71,
@@ -884,7 +884,7 @@
     "schools": 80,
     "school_history_results": 356,
     "school_history_entities": 232,
-    "national_routes": 316
+    "national_routes": 330
   },
   "completeness_audit": "data/audit-v51.json",
   "family_context": {
@@ -926,12 +926,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 236,
+    "version": 237,
     "status": "implementation_snapshot",
-    "events": 8340,
-    "competitions": 3372,
-    "league_profiles": 278,
-    "camp_dossiers": 1842,
+    "events": 8384,
+    "competitions": 3393,
+    "league_profiles": 280,
+    "camp_dossiers": 1854,
     "budget_offers": 301,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -13757,10 +13757,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 237,
+    "prepared_ui_version": 238,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 236,
-    "previous_verified_commit": "b646e9c5af027c79be299ca8f01e7ceb01599c38"
+    "previous_verified_ui_version": 237,
+    "previous_verified_commit": "4f7b489c3a9438f8dd5404774ab2c35ac924dc82"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20807,11 +20807,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 236,
-    "published_version": 236,
-    "latest_source_commit": "b646e9c5af027c79be299ca8f01e7ceb01599c38",
-    "published_commit": "b646e9c5af027c79be299ca8f01e7ceb01599c38",
-    "latest_workflow": 42412177118,
+    "latest_source_version": 237,
+    "published_version": 237,
+    "latest_source_commit": "4f7b489c3a9438f8dd5404774ab2c35ac924dc82",
+    "published_commit": "4f7b489c3a9438f8dd5404774ab2c35ac924dc82",
+    "latest_workflow": 42413893885,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -23661,5 +23661,58 @@
     ],
     "audit": "data/island-stem-asia-pacific-audit-v237.json",
     "source_receipts": "data/island-stem-asia-pacific-source-receipts-v237.json"
+  },
+  "apicta_national_routes_v238": {
+    "version": 238,
+    "checked": "2026-11-07",
+    "previous_goal_turn_classification": "progress",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "official_coordinators": 14,
+    "verified_school_routes": 7,
+    "new_competitions": 14,
+    "new_events": 1,
+    "event_ids": [
+      "C3395",
+      "C3396",
+      "C3397",
+      "C3398",
+      "C3399",
+      "C3400",
+      "C3401",
+      "E439",
+      "C3402",
+      "C3403",
+      "C3404",
+      "C3405",
+      "C3406",
+      "C3407",
+      "C3408"
+    ],
+    "updated_ids": [
+      "C3386",
+      "C3387",
+      "C3388"
+    ],
+    "new_profiles": [
+      "apicta-taiwan-junior",
+      "aiia-iawards",
+      "pasha-ict",
+      "hkicta-student",
+      "fitis-ycs"
+    ],
+    "updated_profiles": [
+      "apicta-asia-pacific-ict"
+    ],
+    "notes": [
+      "В справочнике 14 координаторов. Наличие контакта, школьной категории, конкретного дедлайна и номинации учитываются отдельно.",
+      "Тайвань допускает начальную школу в Junior. Местный отбор 2026 завершён. Правила сезона 2027 пока не опубликованы.",
+      "Западная Австралия принимает предварительные заявки на интерес к INCITE 2027. Школьный допуск и полная заявка требуют отдельной проверки.",
+      "Гонконгская местная премия начинается со средней школы. Связь с прямой номинацией HKCS не предполагается.",
+      "Публичный интерфейс BIIN подтверждает Junior до 9 класса, включая начальную школу. Точный срок 2026 после продления не установлен.",
+      "Во Вьетнаме объявление VINASA подтверждает номинации организаций и их тариф. Приём ребёнка и отдельная детская цена не подтверждены."
+    ],
+    "audit": "data/apicta-national-audit-v238.json",
+    "source_receipts": "data/apicta-national-source-receipts-v238.json"
   }
 }
