@@ -3731,7 +3731,8 @@
           "C057",
           "C058",
           "C059",
-          "C097"
+          "C097",
+          "C3347"
         ],
         "legacy_ids": [
           "C057"
@@ -6284,7 +6285,8 @@
           "C884",
           "C3198",
           "E349",
-          "C3302"
+          "C3302",
+          "C3355"
         ],
         "legacy_ids": [],
         "route": "equipo escolar → socio nacional → selección de equipo → FIRST Global.",
@@ -9697,7 +9699,8 @@
           "C900",
           "C901",
           "E135",
-          "E392"
+          "E392",
+          "C3358"
         ],
         "legacy_ids": [
           "C900",
@@ -20833,6 +20836,112 @@
         ]
       },
       {
+        "id": "enjoy-ai-caribbean-curacao",
+        "name": "ENJOY AI Caribbean · Curaçao",
+        "group": "regional",
+        "age_summary": "En 2026 hubo 6 disciplinas con umbrales distintos. Las próximas reglas aún no están publicadas.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Reglamento archivado de 2026. Fecha de la próxima etapa aún sin anunciar.",
+        "categories": [
+          {
+            "name": "Ancient Civilizations",
+            "age": "7–12 años. Primaria.",
+            "team": "1–2 participantes.",
+            "hardware": "WhalesBot U30 Pro",
+            "age_rule": "7–12 años. Primaria.",
+            "entry": "Etapa local archivada en Willemstad. Para una futura solicitud, confirmar reglas escolares, admisión de equipos extranjeros e idioma del jurado."
+          },
+          {
+            "name": "Battle of Stars",
+            "age": "12–18+ años. Secundaria.",
+            "team": "2 participantes.",
+            "hardware": "WhalesBot AI Module 3s",
+            "age_rule": "12–18+ años. Secundaria.",
+            "entry": "Etapa local archivada en Willemstad. Para una futura solicitud, confirmar reglas escolares, admisión de equipos extranjeros e idioma del jurado."
+          },
+          {
+            "name": "Drone Cup",
+            "age": "6–16 años. De primaria a secundaria.",
+            "team": "2 participantes.",
+            "hardware": "WhalesBot Eagle 125F",
+            "age_rule": "6–16 años. De primaria a secundaria.",
+            "entry": "Etapa local archivada en Willemstad. Para una futura solicitud, confirmar reglas escolares, admisión de equipos extranjeros e idioma del jurado."
+          },
+          {
+            "name": "Inventions Trail",
+            "age": "7–18+ años. Primaria y secundaria.",
+            "team": "2 participantes.",
+            "hardware": "WhalesBot AI Module 1S/5/5S + air pump",
+            "age_rule": "7–18+ años. Primaria y secundaria.",
+            "entry": "Etapa local archivada en Willemstad. Para una futura solicitud, confirmar reglas escolares, admisión de equipos extranjeros e idioma del jurado."
+          },
+          {
+            "name": "Mining Expedition",
+            "age": "8–12 años. Niveles FO y VO según la ficha del organizador.",
+            "team": "2 participantes.",
+            "hardware": "WhalesBot Rocky",
+            "age_rule": "8–12 años. Niveles FO y VO según la ficha del organizador.",
+            "entry": "Etapa local archivada en Willemstad. Para una futura solicitud, confirmar reglas escolares, admisión de equipos extranjeros e idioma del jurado."
+          },
+          {
+            "name": "Skyline Adventures",
+            "age": "12–18+ años. Niveles FO y VO según la ficha del organizador.",
+            "team": "1 participante.",
+            "hardware": "WhalesBot Eagle 1003 Drone",
+            "age_rule": "12–18+ años. Niveles FO y VO según la ficha del organizador.",
+            "entry": "Etapa local archivada en Willemstad. Para una futura solicitud, confirmar reglas escolares, admisión de equipos extranjeros e idioma del jurado."
+          }
+        ],
+        "event_ids": [
+          "C3347",
+          "C3348",
+          "C3349",
+          "C3350",
+          "C3351",
+          "C3352",
+          "C3353"
+        ],
+        "legacy_ids": [],
+        "route": "Etapa local archivada en Willemstad. Para una futura solicitud, confirmar reglas escolares, admisión de equipos extranjeros e idioma del jurado.",
+        "hardware": "WhalesBot",
+        "language": "Confirmar el idioma del grupo o sede concretos.",
+        "importance": "Programa nacional",
+        "strengths": [
+          "Los mejores equipos pueden acceder a la final internacional de ENJOY AI en China según las reglas de la temporada."
+        ],
+        "requirements": [
+          "Etapa local archivada en Willemstad. Para una futura solicitud, confirmar reglas escolares, admisión de equipos extranjeros e idioma del jurado."
+        ],
+        "nuances": [
+          "Disciplina presencial de robótica. El organizador indicó la ventana general del 23 al 24 de octubre de 2026. Hora y dirección concretas se confirmaban por disciplina."
+        ],
+        "cost": "En 2026 cuota de 37,50 XCG. Robot aparte. Confirmar unidad de cuota y precios de la próxima temporada.",
+        "award": "Los mejores equipos pueden acceder a la final internacional de ENJOY AI en China según las reglas de la temporada.",
+        "sources": [
+          {
+            "url": "https://enjoyaicaribbean.com/",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://enjoyaicaribbean.com/competitions/",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://enjoyaicaribbean.com/course/drone-cup/",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          }
+        ],
+        "evidence": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado."
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · programa de ingeniería y showcase",
         "group": "regional",
@@ -26130,7 +26239,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "Perfiles de ligas, familias y programas: 276. Se conservan las 46 vías anteriores. Los formatos brasileños se distinguen y Robofest LATAM y BajaBot se detallan por sus categorías. La cobertura mundial es parcial.",
+    "methodology": "277 perfiles de ligas, familias y programas. Se conservan los 46 itinerarios previos. Los formatos de Brasil están separados. Robofest LATAM y BajaBot se describen por sus categorías locales. La cobertura mundial es parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

@@ -580,9 +580,9 @@
       }
     ],
     "counts": {
-      "records": 4517,
-      "holiday": 4240,
-      "regular": 120,
+      "records": 4522,
+      "holiday": 4242,
+      "regular": 123,
       "self_paced_materials": 2,
       "boarding": 1036,
       "en_es_instruction": 1424,
@@ -593,7 +593,7 @@
       "language_lessons": 410,
       "camp_life_language": 228,
       "language_unclassified": 137,
-      "countries": 103
+      "countries": 104
     },
     "validation": {
       "version": 51,
@@ -33446,6 +33446,59 @@
       "date_scope": "festival_window",
       "related_ids": [
         "E413"
+      ]
+    },
+    {
+      "id": "L659",
+      "block": "Campamentos",
+      "title": "CURAKNOW Science Squad · ventana de visitas escolares",
+      "country": "Curazao",
+      "region": "Caribe",
+      "iso": [
+        "CUW"
+      ],
+      "city": "Curaçao",
+      "start": "2026-10-19",
+      "end": "2026-12-11",
+      "deadline": "",
+      "period": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://citi.cw/what-we-do/curaknow/2026",
+      "references": [],
+      "age": "Confirmar la edad en las reglas de la sesión concreta.",
+      "mat": "Condicional. Solo por solicitud del centro escolar.",
+      "osc": "Condicional. Solo por solicitud del centro escolar.",
+      "format": "Investigadores visitan los centros escolares. Solicita la escuela. El día y tema concretos dependen del acuerdo con el centro.",
+      "entry": "Investigadores visitan los centros escolares. Solicita la escuela. El día y tema concretos dependen del acuerdo con el centro.",
+      "gear": "",
+      "language": "Confirmar el idioma del grupo o sede concretos.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Precio sin publicar.",
+      "level": "Etapa regional",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "Investigadores visitan los centros escolares. Solicita la escuela. El día y tema concretos dependen del acuerdo con el centro.",
+      "note": "Investigadores visitan los centros escolares. Solicita la escuela. El día y tema concretos dependen del acuerdo con el centro.",
+      "themes": [
+        "science",
+        "technology",
+        "engineering"
+      ],
+      "scope": "regional",
+      "importance_reason": "Etapa regional",
+      "participation": "regular",
+      "admission_kind": "school",
+      "evidence_level": "event_page",
+      "date_scope": "season_window",
+      "related_ids": [
+        "E417",
+        "C3354",
+        "E418"
       ]
     },
     {
@@ -360343,6 +360396,452 @@
           "ical_timed": true,
           "start_utc": "2027-01-29T17:00:00Z",
           "end_utc": "2027-01-29T20:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+      }
+    },
+    {
+      "id": "CP1817-20270329-20270402-brightclub-spring-2027",
+      "block": "Campamentos",
+      "title": "Creators Camp · Paas-/aprilkamp 2027 · Creators Camp · Paas-/aprilkamp 2027 · 2027-03-29–2027-04-02",
+      "country": "Curazao",
+      "region": "Caribe",
+      "city": "Biblioteka Nashonal Kòrsou · Fokkerweg 17 · Willemstad",
+      "start": "2027-03-29",
+      "end": "2027-04-02",
+      "period": "07:30–12:30 hora local. El organizador anunció la admisión de solicitudes. Confirmar plaza e idioma del grupo.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "5–18 años según la ficha de primavera. Volver a comprobar al inscribirse.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Campamento diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Actividades diurnas con proyectos creativos y técnicos. El tema de la sesión se anunciará por separado.",
+      "language": "El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.",
+      "cost": "2027 · 225 XCG por semana y menor. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar curso escolar, idioma de las actividades y plaza para cada menor.",
+      "source": "https://brightclub.info/creators-camp.html",
+      "references": [
+        {
+          "url": "https://brightclub.info/creators-camp.html",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://brightclub.info/programs/creator-camp-2026",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://brightclub.info/aanmelden.html?programma=camp",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: La edad publicada para primavera encaja para ambos. Confirmar grupo, inglés o español y disponibilidad. Oscar: La edad publicada para primavera encaja para ambos. Confirmar grupo, inglés o español y disponibilidad. Suplementos: Se puede elegir un día suelto por 65 XCG. El participante lleva su comida para la pausa. Confirmar opciones adicionales. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.",
+      "iso": [
+        "CUW"
+      ],
+      "themes": [
+        "technology",
+        "creative"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "brightclub-curacao-spring-2027",
+      "camp_programme_id": "CP1817",
+      "sessions": [
+        {
+          "date": "2027-03-29",
+          "topic": "Actividades diurnas con proyectos creativos y técnicos. El tema de la sesión se anunciará por separado.",
+          "start_time": "07:30",
+          "end_time": "12:30",
+          "timezone": "America/Curacao",
+          "ical_timed": true,
+          "start_utc": "2027-03-29T11:30:00Z",
+          "end_utc": "2027-03-29T16:30:00Z"
+        },
+        {
+          "date": "2027-03-30",
+          "topic": "Actividades diurnas con proyectos creativos y técnicos. El tema de la sesión se anunciará por separado.",
+          "start_time": "07:30",
+          "end_time": "12:30",
+          "timezone": "America/Curacao",
+          "ical_timed": true,
+          "start_utc": "2027-03-30T11:30:00Z",
+          "end_utc": "2027-03-30T16:30:00Z"
+        },
+        {
+          "date": "2027-03-31",
+          "topic": "Actividades diurnas con proyectos creativos y técnicos. El tema de la sesión se anunciará por separado.",
+          "start_time": "07:30",
+          "end_time": "12:30",
+          "timezone": "America/Curacao",
+          "ical_timed": true,
+          "start_utc": "2027-03-31T11:30:00Z",
+          "end_utc": "2027-03-31T16:30:00Z"
+        },
+        {
+          "date": "2027-04-01",
+          "topic": "Actividades diurnas con proyectos creativos y técnicos. El tema de la sesión se anunciará por separado.",
+          "start_time": "07:30",
+          "end_time": "12:30",
+          "timezone": "America/Curacao",
+          "ical_timed": true,
+          "start_utc": "2027-04-01T11:30:00Z",
+          "end_utc": "2027-04-01T16:30:00Z"
+        },
+        {
+          "date": "2027-04-02",
+          "topic": "Actividades diurnas con proyectos creativos y técnicos. El tema de la sesión se anunciará por separado.",
+          "start_time": "07:30",
+          "end_time": "12:30",
+          "timezone": "America/Curacao",
+          "ical_timed": true,
+          "start_utc": "2027-04-02T11:30:00Z",
+          "end_utc": "2027-04-02T16:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+      }
+    },
+    {
+      "id": "CP1818-20270712-20270716-brightclub-summer-2027",
+      "block": "Campamentos",
+      "title": "Creators Camp · Zomerkamp juli 2027 · Creators Camp · Zomerkamp juli 2027 · 2027-07-12–2027-07-16",
+      "country": "Curazao",
+      "region": "Caribe",
+      "city": "Biblioteka Nashonal Kòrsou · Fokkerweg 17 · Willemstad",
+      "start": "2027-07-12",
+      "end": "2027-07-16",
+      "period": "07:30–12:30 hora local. El organizador anunció la admisión de solicitudes. Confirmar plaza e idioma del grupo.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Confirmar la edad en las reglas de la sesión concreta.",
+      "mat": "para especificar; no se ha establecido el permiso de edad",
+      "osc": "para especificar; no se ha establecido el permiso de edad",
+      "format": "Campamento diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Actividades diurnas con proyectos creativos y técnicos. El tema de la sesión se anunciará por separado.",
+      "language": "El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.",
+      "cost": "2027 · 225 XCG por semana y menor. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar curso escolar, idioma de las actividades y plaza para cada menor.",
+      "source": "https://brightclub.info/creators-camp.html",
+      "references": [
+        {
+          "url": "https://brightclub.info/creators-camp.html",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://brightclub.info/aanmelden.html?programma=camp",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Confirmar edad e idioma de la sesión de verano. Para la sesión de primavera se publicó un grupo de edad aparte. Oscar: Confirmar edad e idioma de la sesión de verano. Para la sesión de primavera se publicó un grupo de edad aparte. Suplementos: Se puede elegir un día suelto por 65 XCG. El participante lleva su comida para la pausa. Confirmar opciones adicionales. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.",
+      "iso": [
+        "CUW"
+      ],
+      "themes": [
+        "technology",
+        "creative"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "brightclub-curacao-summer-2027",
+      "camp_programme_id": "CP1818",
+      "sessions": [
+        {
+          "date": "2027-07-12",
+          "topic": "Actividades diurnas con proyectos creativos y técnicos. El tema de la sesión se anunciará por separado.",
+          "start_time": "07:30",
+          "end_time": "12:30",
+          "timezone": "America/Curacao",
+          "ical_timed": true,
+          "start_utc": "2027-07-12T11:30:00Z",
+          "end_utc": "2027-07-12T16:30:00Z"
+        },
+        {
+          "date": "2027-07-13",
+          "topic": "Actividades diurnas con proyectos creativos y técnicos. El tema de la sesión se anunciará por separado.",
+          "start_time": "07:30",
+          "end_time": "12:30",
+          "timezone": "America/Curacao",
+          "ical_timed": true,
+          "start_utc": "2027-07-13T11:30:00Z",
+          "end_utc": "2027-07-13T16:30:00Z"
+        },
+        {
+          "date": "2027-07-14",
+          "topic": "Actividades diurnas con proyectos creativos y técnicos. El tema de la sesión se anunciará por separado.",
+          "start_time": "07:30",
+          "end_time": "12:30",
+          "timezone": "America/Curacao",
+          "ical_timed": true,
+          "start_utc": "2027-07-14T11:30:00Z",
+          "end_utc": "2027-07-14T16:30:00Z"
+        },
+        {
+          "date": "2027-07-15",
+          "topic": "Actividades diurnas con proyectos creativos y técnicos. El tema de la sesión se anunciará por separado.",
+          "start_time": "07:30",
+          "end_time": "12:30",
+          "timezone": "America/Curacao",
+          "ical_timed": true,
+          "start_utc": "2027-07-15T11:30:00Z",
+          "end_utc": "2027-07-15T16:30:00Z"
+        },
+        {
+          "date": "2027-07-16",
+          "topic": "Actividades diurnas con proyectos creativos y técnicos. El tema de la sesión se anunciará por separado.",
+          "start_time": "07:30",
+          "end_time": "12:30",
+          "timezone": "America/Curacao",
+          "ical_timed": true,
+          "start_utc": "2027-07-16T11:30:00Z",
+          "end_utc": "2027-07-16T16:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+      }
+    },
+    {
+      "id": "CP1819-20261107-20261128-mbot-08",
+      "block": "Campamentos",
+      "title": "BrightClub SaturdayClub · mBot · 08:30–10:00 · 2026-11-07–2026-11-28",
+      "country": "Curazao",
+      "region": "Caribe",
+      "city": "Biblioteka Nashonal Kòrsou · Fokkerweg 17 · Willemstad",
+      "start": "2026-11-07",
+      "end": "2026-11-28",
+      "period": "Sábados 7–28 de noviembre de 2026. Dos grupos con horarios distintos.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "8–14 años.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "no según las condiciones de la pista seleccionada",
+      "format": "Taller presencial breve sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Montaje y programación de mBot, sensor de distancia, seguimiento de línea y retos en equipo.",
+      "language": "El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.",
+      "cost": "2026/27 · 125 XCG por curso y menor. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar edad exacta de acceso y plaza con el recinto.",
+      "source": "https://brightclub.info/cursussen.html",
+      "references": [
+        {
+          "url": "https://brightclub.info/courses/117",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://brightclub.info/cursussen.html",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Edad adecuada. Confirmar plaza e idioma de la actividad. Oscar: Por ahora no alcanza la edad mínima. Suplementos: Las opciones adicionales se pagan por separado. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.",
+      "iso": [
+        "CUW"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.",
+      "participation": "regular",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "brightclub-curacao-mbot-saturday-2026",
+      "camp_programme_id": "CP1819",
+      "sessions": [
+        {
+          "date": "2026-11-07",
+          "topic": "Montaje y programación de mBot, sensor de distancia, seguimiento de línea y retos en equipo.",
+          "start_time": "08:30",
+          "end_time": "10:00",
+          "timezone": "America/Curacao",
+          "ical_timed": true,
+          "start_utc": "2026-11-07T12:30:00Z",
+          "end_utc": "2026-11-07T14:00:00Z"
+        },
+        {
+          "date": "2026-11-14",
+          "topic": "Montaje y programación de mBot, sensor de distancia, seguimiento de línea y retos en equipo.",
+          "start_time": "08:30",
+          "end_time": "10:00",
+          "timezone": "America/Curacao",
+          "ical_timed": true,
+          "start_utc": "2026-11-14T12:30:00Z",
+          "end_utc": "2026-11-14T14:00:00Z"
+        },
+        {
+          "date": "2026-11-21",
+          "topic": "Montaje y programación de mBot, sensor de distancia, seguimiento de línea y retos en equipo.",
+          "start_time": "08:30",
+          "end_time": "10:00",
+          "timezone": "America/Curacao",
+          "ical_timed": true,
+          "start_utc": "2026-11-21T12:30:00Z",
+          "end_utc": "2026-11-21T14:00:00Z"
+        },
+        {
+          "date": "2026-11-28",
+          "topic": "Montaje y programación de mBot, sensor de distancia, seguimiento de línea y retos en equipo.",
+          "start_time": "08:30",
+          "end_time": "10:00",
+          "timezone": "America/Curacao",
+          "ical_timed": true,
+          "start_utc": "2026-11-28T12:30:00Z",
+          "end_utc": "2026-11-28T14:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+      }
+    },
+    {
+      "id": "CP1819-20261107-20261128-mbot-10",
+      "block": "Campamentos",
+      "title": "BrightClub SaturdayClub · mBot · 10:30–12:00 · 2026-11-07–2026-11-28",
+      "country": "Curazao",
+      "region": "Caribe",
+      "city": "Biblioteka Nashonal Kòrsou · Fokkerweg 17 · Willemstad",
+      "start": "2026-11-07",
+      "end": "2026-11-28",
+      "period": "Sábados 7–28 de noviembre de 2026. Dos grupos con horarios distintos.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "8–14 años.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "no según las condiciones de la pista seleccionada",
+      "format": "Taller presencial breve sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Montaje y programación de mBot, sensor de distancia, seguimiento de línea y retos en equipo.",
+      "language": "El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.",
+      "cost": "2026/27 · 125 XCG por curso y menor. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar edad exacta de acceso y plaza con el recinto.",
+      "source": "https://brightclub.info/courses/117",
+      "references": [
+        {
+          "url": "https://brightclub.info/courses/117",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://brightclub.info/cursussen.html",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Edad adecuada. Confirmar plaza e idioma de la actividad. Oscar: Por ahora no alcanza la edad mínima. Suplementos: Las opciones adicionales se pagan por separado. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.",
+      "iso": [
+        "CUW"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.",
+      "participation": "regular",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "brightclub-curacao-mbot-saturday-2026",
+      "camp_programme_id": "CP1819",
+      "sessions": [
+        {
+          "date": "2026-11-07",
+          "topic": "Montaje y programación de mBot, sensor de distancia, seguimiento de línea y retos en equipo.",
+          "start_time": "10:30",
+          "end_time": "12:00",
+          "timezone": "America/Curacao",
+          "ical_timed": true,
+          "start_utc": "2026-11-07T14:30:00Z",
+          "end_utc": "2026-11-07T16:00:00Z"
+        },
+        {
+          "date": "2026-11-14",
+          "topic": "Montaje y programación de mBot, sensor de distancia, seguimiento de línea y retos en equipo.",
+          "start_time": "10:30",
+          "end_time": "12:00",
+          "timezone": "America/Curacao",
+          "ical_timed": true,
+          "start_utc": "2026-11-14T14:30:00Z",
+          "end_utc": "2026-11-14T16:00:00Z"
+        },
+        {
+          "date": "2026-11-21",
+          "topic": "Montaje y programación de mBot, sensor de distancia, seguimiento de línea y retos en equipo.",
+          "start_time": "10:30",
+          "end_time": "12:00",
+          "timezone": "America/Curacao",
+          "ical_timed": true,
+          "start_utc": "2026-11-21T14:30:00Z",
+          "end_utc": "2026-11-21T16:00:00Z"
+        },
+        {
+          "date": "2026-11-28",
+          "topic": "Montaje y programación de mBot, sensor de distancia, seguimiento de línea y retos en equipo.",
+          "start_time": "10:30",
+          "end_time": "12:00",
+          "timezone": "America/Curacao",
+          "ical_timed": true,
+          "start_utc": "2026-11-28T14:30:00Z",
+          "end_utc": "2026-11-28T16:00:00Z"
         }
       ],
       "availability": {

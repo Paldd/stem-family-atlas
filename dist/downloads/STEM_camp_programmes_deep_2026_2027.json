@@ -30,15 +30,15 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1816,
-    "countries": 104,
+    "dossiers": 1827,
+    "countries": 107,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 261,
-      "published_2027": 506,
+      "published_2027": 508,
       "partial_2027": 140,
-      "next_unannounced": 366,
-      "published_2026": 328,
+      "next_unannounced": 374,
+      "published_2026": 329,
       "partial_2026_27": 29,
       "partial_2026": 23,
       "archive_next_unannounced": 138,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2641
+    "source_urls": 2657
   },
   "countries": [
     {
@@ -74,6 +74,10 @@
     {
       "country": "Аргентина",
       "count": 11
+    },
+    {
+      "country": "Аруба",
+      "count": 1
     },
     {
       "country": "Багамские Острова",
@@ -117,7 +121,7 @@
     },
     {
       "country": "Гайана",
-      "count": 1
+      "count": 3
     },
     {
       "country": "Гана",
@@ -161,7 +165,7 @@
     },
     {
       "country": "Доминиканская Республика",
-      "count": 3
+      "count": 4
     },
     {
       "country": "Египет",
@@ -230,6 +234,10 @@
     {
       "country": "Кувейт",
       "count": 5
+    },
+    {
+      "country": "Кюрасао",
+      "count": 3
     },
     {
       "country": "Латвия",
@@ -380,6 +388,10 @@
       "count": 4
     },
     {
+      "country": "Тринидад и Тобаго",
+      "count": 1
+    },
+    {
       "country": "Турция",
       "count": 1
     },
@@ -461,7 +473,7 @@
     },
     {
       "country": "Ямайка",
-      "count": 6
+      "count": 9
     },
     {
       "country": "Япония",
@@ -308900,6 +308912,1023 @@
       "catalog_participation": "course",
       "related_event_ids": [],
       "calendar_links": []
+    },
+    {
+      "id": "CP1817",
+      "slug": "brightclub-curacao-spring-2027",
+      "provider": "Creators Camp · Paas-/aprilkamp 2027",
+      "country": "Кюрасао",
+      "iso": "CUW",
+      "place": "Biblioteka Nashonal Kòrsou · Fokkerweg 17 · Willemstad",
+      "age": "5–18 лет по карточке весенней смены. Повторно сверить при записи.",
+      "themes": [
+        "technology",
+        "creative"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык инструктажа конкретной смены не указан. Уточнить английский и испанский.",
+      "confirmed_instruction_languages": [],
+      "programme": "Дневные занятия с творческими и техническими проектами. Тема смены будет объявлена отдельно.",
+      "timing": {
+        "status": "published_2027",
+        "label": "07:30–12:30 по местному времени. Организатор объявил приём заявок. Место и язык группы уточнить.",
+        "sessions": [
+          [
+            "2027-03-29",
+            "2027-04-02"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "brightclub-spring-2027",
+            "start": "2027-03-29",
+            "end": "2027-04-02",
+            "label": "Creators Camp · Paas-/aprilkamp 2027",
+            "source": "https://brightclub.info/creators-camp.html",
+            "price": "225 XCG за неделю на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2027-03-29",
+                "topic": "Дневные занятия с творческими и техническими проектами. Тема смены будет объявлена отдельно.",
+                "start_time": "07:30",
+                "end_time": "12:30",
+                "timezone": "America/Curacao",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-30",
+                "topic": "Дневные занятия с творческими и техническими проектами. Тема смены будет объявлена отдельно.",
+                "start_time": "07:30",
+                "end_time": "12:30",
+                "timezone": "America/Curacao",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-31",
+                "topic": "Дневные занятия с творческими и техническими проектами. Тема смены будет объявлена отдельно.",
+                "start_time": "07:30",
+                "end_time": "12:30",
+                "timezone": "America/Curacao",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-04-01",
+                "topic": "Дневные занятия с творческими и техническими проектами. Тема смены будет объявлена отдельно.",
+                "start_time": "07:30",
+                "end_time": "12:30",
+                "timezone": "America/Curacao",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-04-02",
+                "topic": "Дневные занятия с творческими и техническими проектами. Тема смены будет объявлена отдельно.",
+                "start_time": "07:30",
+                "end_time": "12:30",
+                "timezone": "America/Curacao",
+                "ical_timed": true
+              }
+            ],
+            "registration_url": "https://brightclub.info/aanmelden.html?programma=camp"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "XCG",
+        "amount": 225,
+        "unit": "week",
+        "label": "225 XCG за неделю на ребёнка.",
+        "included": "Дневные занятия с творческими и техническими проектами. Тема смены будет объявлена отдельно.",
+        "extras": "Можно выбрать отдельный день за 65 XCG. Питание на перерыв приносит участник. Дополнительные опции уточнить.",
+        "deposit": "Проверить итоговую сумму и условия возврата перед оплатой."
+      },
+      "accommodation": "Дневной лагерь без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "В опубликованной карточке весны возраст подходит обоим. Подтвердить группу, английский или испанский и наличие мест."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "В опубликованной карточке весны возраст подходит обоим. Подтвердить группу, английский или испанский и наличие мест."
+        }
+      },
+      "editorial_reason": "В опубликованной карточке весны возраст подходит обоим. Подтвердить группу, английский или испанский и наличие мест.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить школьный класс, язык занятий и место для каждого ребёнка."
+      ],
+      "sources": [
+        {
+          "url": "https://brightclub.info/creators-camp.html",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://brightclub.info/programs/creator-camp-2026",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://brightclub.info/aanmelden.html?programma=camp",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-03-29",
+          "end": "2027-04-02",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1817-20270329-20270402-brightclub-spring-2027"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1818",
+      "slug": "brightclub-curacao-summer-2027",
+      "provider": "Creators Camp · Zomerkamp juli 2027",
+      "country": "Кюрасао",
+      "iso": "CUW",
+      "place": "Biblioteka Nashonal Kòrsou · Fokkerweg 17 · Willemstad",
+      "age": "Уточнить возраст по правилам конкретной смены.",
+      "themes": [
+        "technology",
+        "creative"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык инструктажа конкретной смены не указан. Уточнить английский и испанский.",
+      "confirmed_instruction_languages": [],
+      "programme": "Дневные занятия с творческими и техническими проектами. Тема смены будет объявлена отдельно.",
+      "timing": {
+        "status": "published_2027",
+        "label": "07:30–12:30 по местному времени. Организатор объявил приём заявок. Место и язык группы уточнить.",
+        "sessions": [
+          [
+            "2027-07-12",
+            "2027-07-16"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "brightclub-summer-2027",
+            "start": "2027-07-12",
+            "end": "2027-07-16",
+            "label": "Creators Camp · Zomerkamp juli 2027",
+            "source": "https://brightclub.info/creators-camp.html",
+            "price": "225 XCG за неделю на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2027-07-12",
+                "topic": "Дневные занятия с творческими и техническими проектами. Тема смены будет объявлена отдельно.",
+                "start_time": "07:30",
+                "end_time": "12:30",
+                "timezone": "America/Curacao",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-07-13",
+                "topic": "Дневные занятия с творческими и техническими проектами. Тема смены будет объявлена отдельно.",
+                "start_time": "07:30",
+                "end_time": "12:30",
+                "timezone": "America/Curacao",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-07-14",
+                "topic": "Дневные занятия с творческими и техническими проектами. Тема смены будет объявлена отдельно.",
+                "start_time": "07:30",
+                "end_time": "12:30",
+                "timezone": "America/Curacao",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-07-15",
+                "topic": "Дневные занятия с творческими и техническими проектами. Тема смены будет объявлена отдельно.",
+                "start_time": "07:30",
+                "end_time": "12:30",
+                "timezone": "America/Curacao",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-07-16",
+                "topic": "Дневные занятия с творческими и техническими проектами. Тема смены будет объявлена отдельно.",
+                "start_time": "07:30",
+                "end_time": "12:30",
+                "timezone": "America/Curacao",
+                "ical_timed": true
+              }
+            ],
+            "registration_url": "https://brightclub.info/aanmelden.html?programma=camp"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "XCG",
+        "amount": 225,
+        "unit": "week",
+        "label": "225 XCG за неделю на ребёнка.",
+        "included": "Дневные занятия с творческими и техническими проектами. Тема смены будет объявлена отдельно.",
+        "extras": "Можно выбрать отдельный день за 65 XCG. Питание на перерыв приносит участник. Дополнительные опции уточнить.",
+        "deposit": "Проверить итоговую сумму и условия возврата перед оплатой."
+      },
+      "accommodation": "Дневной лагерь без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Возраст и язык именно летней смены уточнить. На весенней смене публиковалась отдельная возрастная группа."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Возраст и язык именно летней смены уточнить. На весенней смене публиковалась отдельная возрастная группа."
+        }
+      },
+      "editorial_reason": "Возраст и язык именно летней смены уточнить. На весенней смене публиковалась отдельная возрастная группа.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить школьный класс, язык занятий и место для каждого ребёнка."
+      ],
+      "sources": [
+        {
+          "url": "https://brightclub.info/creators-camp.html",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://brightclub.info/aanmelden.html?programma=camp",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-07-12",
+          "end": "2027-07-16",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1818-20270712-20270716-brightclub-summer-2027"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1819",
+      "slug": "brightclub-curacao-mbot-saturday-2026",
+      "provider": "BrightClub SaturdayClub · mBot",
+      "country": "Кюрасао",
+      "iso": "CUW",
+      "place": "Biblioteka Nashonal Kòrsou · Fokkerweg 17 · Willemstad",
+      "age": "8–14 лет.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык инструктажа конкретной смены не указан. Уточнить английский и испанский.",
+      "confirmed_instruction_languages": [],
+      "programme": "Сборка и программирование mBot, датчик расстояния, движение по линии и командные задания.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Субботы 7–28 ноября 2026. Две отдельные группы с разным временем.",
+        "sessions": [
+          [
+            "2026-11-07",
+            "2026-11-28"
+          ],
+          [
+            "2026-11-07",
+            "2026-11-28"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "mbot-08",
+            "start": "2026-11-07",
+            "end": "2026-11-28",
+            "label": "08:30–10:00",
+            "source": "https://brightclub.info/cursussen.html",
+            "price": "125 XCG за курс на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-07",
+                "topic": "Сборка и программирование mBot, датчик расстояния, движение по линии и командные задания.",
+                "start_time": "08:30",
+                "end_time": "10:00",
+                "timezone": "America/Curacao",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-14",
+                "topic": "Сборка и программирование mBot, датчик расстояния, движение по линии и командные задания.",
+                "start_time": "08:30",
+                "end_time": "10:00",
+                "timezone": "America/Curacao",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-21",
+                "topic": "Сборка и программирование mBot, датчик расстояния, движение по линии и командные задания.",
+                "start_time": "08:30",
+                "end_time": "10:00",
+                "timezone": "America/Curacao",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-28",
+                "topic": "Сборка и программирование mBot, датчик расстояния, движение по линии и командные задания.",
+                "start_time": "08:30",
+                "end_time": "10:00",
+                "timezone": "America/Curacao",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "mbot-10",
+            "start": "2026-11-07",
+            "end": "2026-11-28",
+            "label": "10:30–12:00",
+            "source": "https://brightclub.info/courses/117",
+            "price": "125 XCG за курс на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-07",
+                "topic": "Сборка и программирование mBot, датчик расстояния, движение по линии и командные задания.",
+                "start_time": "10:30",
+                "end_time": "12:00",
+                "timezone": "America/Curacao",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-14",
+                "topic": "Сборка и программирование mBot, датчик расстояния, движение по линии и командные задания.",
+                "start_time": "10:30",
+                "end_time": "12:00",
+                "timezone": "America/Curacao",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-21",
+                "topic": "Сборка и программирование mBot, датчик расстояния, движение по линии и командные задания.",
+                "start_time": "10:30",
+                "end_time": "12:00",
+                "timezone": "America/Curacao",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-28",
+                "topic": "Сборка и программирование mBot, датчик расстояния, движение по линии и командные задания.",
+                "start_time": "10:30",
+                "end_time": "12:00",
+                "timezone": "America/Curacao",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "XCG",
+        "amount": 125,
+        "unit": "course",
+        "label": "125 XCG за курс на ребёнка.",
+        "included": "Сборка и программирование mBot, датчик расстояния, движение по линии и командные задания.",
+        "extras": "Дополнительные опции оплачиваются отдельно.",
+        "deposit": "Проверить итоговую сумму и условия возврата перед оплатой."
+      },
+      "accommodation": "Очная короткая мастерская без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст подходит. Уточнить место и язык занятия."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Пока младше минимального возраста."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Точный возрастной допуск и наличие места уточнить у площадки."
+      ],
+      "sources": [
+        {
+          "url": "https://brightclub.info/courses/117",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://brightclub.info/cursussen.html",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "regular_course",
+      "catalog_participation": "regular",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-07",
+          "end": "2026-11-28",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1819-20261107-20261128-mbot-08"
+          ]
+        },
+        {
+          "start": "2026-11-07",
+          "end": "2026-11-28",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1819-20261107-20261128-mbot-10"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1820",
+      "slug": "zebra-jamaica-kingston-camps",
+      "provider": "Zebra Robotics · Kingston camps",
+      "country": "Ямайка",
+      "iso": "JAM",
+      "place": "3 Shenstone Dr, #39 · Kingston",
+      "age": "Группы распределяют по школьному классу. Возраст смены уточнить.",
+      "themes": [
+        "robotics",
+        "coding",
+        "ai"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык инструктажа конкретной смены не указан. Уточнить английский и испанский.",
+      "confirmed_instruction_languages": [],
+      "programme": "Каникулярные программы по робототехнике, программированию и ИИ. Следующие недели пока не выставлены.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Дата нового выпуска не опубликована.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "",
+        "amount": null,
+        "unit": "session",
+        "label": "Цена текущего набора не подтверждена.",
+        "included": "Каникулярные программы по робототехнике, программированию и ИИ. Следующие недели пока не выставлены.",
+        "extras": "Цена не опубликована.",
+        "deposit": "Проверить итоговую сумму и условия возврата перед оплатой."
+      },
+      "accommodation": "Дневной лагерь без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Уточнить возраст по правилам конкретной смены."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Уточнить возраст по правилам конкретной смены."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Точный возрастной допуск и наличие места уточнить у площадки."
+      ],
+      "sources": [
+        {
+          "url": "https://www.zebrarobotics.com/zedjamaica/camps",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.zedmakeylatechnologies.com/augustcamp2026",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1821",
+      "slug": "zebra-jamaica-kingston-weekly",
+      "provider": "Zebra Robotics · Kingston weekly classes",
+      "country": "Ямайка",
+      "iso": "JAM",
+      "place": "3 Shenstone Dr, #39 · Kingston",
+      "age": "Классы 1–12, примерно 6–18 лет.",
+      "themes": [
+        "robotics",
+        "coding",
+        "ai",
+        "games"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык инструктажа конкретной смены не указан. Уточнить английский и испанский.",
+      "confirmed_instruction_languages": [],
+      "programme": "Круглогодичные занятия. Робототехника и программирование от начальных заданий до игр, Python и машинного обучения. Группа зависит от класса.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Школа работает по будням и субботам. Расписание выбранной группы уточнить.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "",
+        "amount": null,
+        "unit": "session",
+        "label": "Цена текущего набора не подтверждена.",
+        "included": "Круглогодичные занятия. Робототехника и программирование от начальных заданий до игр, Python и машинного обучения. Группа зависит от класса.",
+        "extras": "Цена не опубликована.",
+        "deposit": "Проверить итоговую сумму и условия возврата перед оплатой."
+      },
+      "accommodation": "Очная короткая мастерская без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст подходит. Уточнить место и язык занятия."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Возраст подходит. Уточнить место и язык занятия."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Точный возрастной допуск и наличие места уточнить у площадки."
+      ],
+      "sources": [
+        {
+          "url": "https://zebrarobotics.com/zedjamaica",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "regular_course",
+      "catalog_participation": "regular",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1822",
+      "slug": "utech-jamaica-stem-summer",
+      "provider": "UTech, Jamaica · STEM Summer Camp",
+      "country": "Ямайка",
+      "iso": "JAM",
+      "place": "Papine Campus · Kingston",
+      "age": "11–16 лет по выпуску 2026.",
+      "themes": [
+        "robotics",
+        "ai",
+        "engineering",
+        "creative"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык инструктажа конкретной смены не указан. Уточнить английский и испанский.",
+      "confirmed_instruction_languages": [],
+      "programme": "Университетский лагерь с робототехникой, ИИ, анимацией и инженерным дизайном. В 2026 участвовали школьники из Kingston и St. Andrew.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Последняя подтверждённая смена прошла 20–31 июля 2026. Следующий набор не объявлен.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "",
+        "amount": null,
+        "unit": "session",
+        "label": "Цена текущего набора не подтверждена.",
+        "included": "Университетский лагерь с робототехникой, ИИ, анимацией и инженерным дизайном. В 2026 участвовали школьники из Kingston и St. Andrew.",
+        "extras": "Цена не опубликована.",
+        "deposit": "Проверить итоговую сумму и условия возврата перед оплатой."
+      },
+      "accommodation": "Дневной лагерь без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Будущая возрастная ступень."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Будущая возрастная ступень."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Точный возрастной допуск и наличие места уточнить у площадки."
+      ],
+      "sources": [
+        {
+          "url": "https://www.utech.edu.jm/utech-jamaica-stem-summer-camp-equips-youth-with-skills-in-ai-robotics-innovation-and-sustainability/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1823",
+      "slug": "stem-embassy-aruba-ktbs",
+      "provider": "The STEM Embassy · Ki’ ta bo STEM?",
+      "country": "Аруба",
+      "iso": "ABW",
+      "place": "University of Aruba · Oranjestad",
+      "age": "Обычно 12–21 год. В 2026 допускали также учащихся средней школы по школьному уровню.",
+      "themes": [
+        "science",
+        "technology",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "В 2026 использовались английский, нидерландский и папьяменто. Сочетание языков по группам уточнить для нового выпуска.",
+      "confirmed_instruction_languages": [],
+      "programme": "Ежегодный STEM-лагерь. В 2026 проводили занятия по датчикам, анализу данных, веб-дизайну и кибербезопасности. Тема нового выпуска не объявлена.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Лагерь и итоговый фестиваль прошли 27–30 июля 2026. Следующие даты не объявлены.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "",
+        "amount": null,
+        "unit": "session",
+        "label": "30 AWG в 2026. Включались материалы и перекус. Цена будущего выпуска неизвестна.",
+        "included": "Ежегодный STEM-лагерь. В 2026 проводили занятия по датчикам, анализу данных, веб-дизайну и кибербезопасности. Тема нового выпуска не объявлена.",
+        "extras": "Цена не опубликована.",
+        "deposit": "Проверить итоговую сумму и условия возврата перед оплатой."
+      },
+      "accommodation": "Дневной лагерь без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Будущая возрастная ступень."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Будущая возрастная ступень."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Точный возрастной допуск и наличие места уточнить у площадки."
+      ],
+      "sources": [
+        {
+          "url": "https://www.thestemembassy.com/ktbs26",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.thestemembassy.com/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1824",
+      "slug": "guyana-ncerd-steam",
+      "provider": "NCERD · STEAM Camp",
+      "country": "Гайана",
+      "iso": "GUY",
+      "place": "Guyana",
+      "age": "В 2026 в программе участвовали школьники 6–9 классов.",
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык инструктажа конкретной смены не указан. Уточнить английский и испанский.",
+      "confirmed_instruction_languages": [],
+      "programme": "Школьная практическая STEAM-программа Министерства образования Гайаны. Подтверждён научный блок, условия конкретного технологического трека уточнить.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Дата нового выпуска не опубликована.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "",
+        "amount": null,
+        "unit": "session",
+        "label": "Цена текущего набора не подтверждена.",
+        "included": "Школьная практическая STEAM-программа Министерства образования Гайаны. Подтверждён научный блок, условия конкретного технологического трека уточнить.",
+        "extras": "Цена не опубликована.",
+        "deposit": "Проверить итоговую сумму и условия возврата перед оплатой."
+      },
+      "accommodation": "Дневной лагерь без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Будущая возрастная ступень."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Будущая возрастная ступень."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Точный возрастной допуск и наличие места уточнить у площадки."
+      ],
+      "sources": [
+        {
+          "url": "https://ww.education.gov.gy/en/index.php/media2/news-events/11502-steam-camp-2026-registration-opens-july-6",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.education.gov.gy/en/index.php/media2/news-events/11616-students-from-grades-6-to-9-explored-the-wonders-of-science-through-engaging-hands-on-activities-at-the-ncerd-steam-camp",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1825",
+      "slug": "guyana-innovation-digital-camp",
+      "provider": "IIU Guyana · Innovation Camp",
+      "country": "Гайана",
+      "iso": "GUY",
+      "place": "Better Hope · East Coast Demerara",
+      "age": "14–21 год по программе 2026.",
+      "themes": [
+        "coding",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык инструктажа конкретной смены не указан. Уточнить английский и испанский.",
+      "confirmed_instruction_languages": [],
+      "programme": "Пятидневный лагерь цифровых навыков. В выпуске 2026 преподавали программирование, веб-разработку и кибербезопасность.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Дата нового выпуска не опубликована.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "",
+        "amount": null,
+        "unit": "session",
+        "label": "Цена текущего набора не подтверждена.",
+        "included": "Пятидневный лагерь цифровых навыков. В выпуске 2026 преподавали программирование, веб-разработку и кибербезопасность.",
+        "extras": "Цена не опубликована.",
+        "deposit": "Проверить итоговую сумму и условия возврата перед оплатой."
+      },
+      "accommodation": "Дневной лагерь без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Будущая возрастная ступень."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Будущая возрастная ступень."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Точный возрастной допуск и наличие места уточнить у площадки."
+      ],
+      "sources": [
+        {
+          "url": "https://dpi.gov.gy/innovation-camp-participants-praise-initiative-for-digital-skills-gained/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1826",
+      "slug": "nova-mentis-techno-camp-dominicana",
+      "provider": "Nova Mentis · Techno Camp",
+      "country": "Доминиканская Республика",
+      "iso": "DOM",
+      "place": "Alma Rosa I · Santo Domingo Este / Evaristo Morales · Distrito Nacional",
+      "age": "Младшая группа 5–10 лет. Верхняя граница для подростков различается в блоках сайта.",
+      "themes": [
+        "robotics",
+        "coding",
+        "ai",
+        "games",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Информация провайдера на испанском. Язык преподавания выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "programme": "Робототехника во всех неделях 2026. Были отдельные темы Scratch и Roblox, приложения, ИИ и цифровое творчество.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Сайт показывает 29 июня – 31 июля для 2026. Даты и минимальный пакет нового набора неизвестны.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "",
+        "amount": null,
+        "unit": "session",
+        "label": "Тариф 2026: 7 235 за неделю, минимум 2 недели. Знак $ на странице без кода валюты. Материалы, диплом и футболка входили в пакет. Требовался ноутбук или планшет, можно было запросить устройство. Цена нового сезона не объявлена.",
+        "included": "Робототехника во всех неделях 2026. Были отдельные темы Scratch и Roblox, приложения, ИИ и цифровое творчество.",
+        "extras": "Цена не опубликована.",
+        "deposit": "Проверить итоговую сумму и условия возврата перед оплатой."
+      },
+      "accommodation": "Дневной лагерь без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст подходит. Уточнить место и язык занятия."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Возраст подходит. Уточнить место и язык занятия."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Точный возрастной допуск и наличие места уточнить у площадки."
+      ],
+      "sources": [
+        {
+          "url": "https://lp.novamentis.edu.do/techno-camp",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1827",
+      "slug": "niherst-teach-me-primary",
+      "provider": "NIHERST · Teach ME Primary Camp",
+      "country": "Тринидад и Тобаго",
+      "iso": "TTO",
+      "place": "Barataria Community Centre · Barataria",
+      "age": "Standards 3–5 начальной школы по выпуску 2026.",
+      "themes": [
+        "science",
+        "technology",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык инструктажа конкретной смены не указан. Уточнить английский и испанский.",
+      "confirmed_instruction_languages": [],
+      "programme": "Практическая STEM-подготовка с опорой на школьную программу и связь с конкурсом Teach ME.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Начальная смена прошла 12–14 августа 2026. Даты новой смены и требования к иностранным участникам не объявлены.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "",
+        "amount": null,
+        "unit": "session",
+        "label": "Цена текущего набора не подтверждена.",
+        "included": "Практическая STEM-подготовка с опорой на школьную программу и связь с конкурсом Teach ME.",
+        "extras": "Цена не опубликована.",
+        "deposit": "Проверить итоговую сумму и условия возврата перед оплатой."
+      },
+      "accommodation": "Дневной лагерь без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Сверить местный школьный класс. Возраст сам по себе не подтверждает допуск."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Сверить местный школьный класс. Возраст сам по себе не подтверждает допуск."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Точный возрастной допуск и наличие места уточнить у площадки."
+      ],
+      "sources": [
+        {
+          "url": "https://www.niherst.gov.tt/scipop/teachme-stem-enrichment-camps.html",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": []
     }
   ],
   "gaps": [
@@ -314225,7 +315254,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 234,
+  "version": 235,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -327460,7 +328489,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1816,
+      "total_dossiers": 1827,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -347685,6 +348714,26 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP1817",
+      "event_id": "CP1817-20270329-20270402-brightclub-spring-2027",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1818",
+      "event_id": "CP1818-20270712-20270716-brightclub-summer-2027",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1819",
+      "event_id": "CP1819-20261107-20261128-mbot-08",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1819",
+      "event_id": "CP1819-20261107-20261128-mbot-10",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -351974,10 +353023,14 @@
     "CP1810-20270118-20270122-w3-am",
     "CP1810-20270118-20270122-w3-pm",
     "CP1810-20270125-20270129-w4-am",
-    "CP1810-20270125-20270129-w4-pm"
+    "CP1810-20270125-20270129-w4-pm",
+    "CP1817-20270329-20270402-brightclub-spring-2027",
+    "CP1818-20270712-20270716-brightclub-summer-2027",
+    "CP1819-20261107-20261128-mbot-08",
+    "CP1819-20261107-20261128-mbot-10"
   ],
   "integration": {
-    "generated_sessions": 3859,
+    "generated_sessions": 3863,
     "reused_legacy_events": 69,
     "seasonal_windows": 71,
     "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."

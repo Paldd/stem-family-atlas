@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-07. 1816 fichas en 104 países. Las fechas de verificación de las fuentes se indican en cada ficha.
+Estado de la base al 2026-11-07. 1827 fichas en 107 países. Cada ficha indica las fechas de verificación de las fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -143901,6 +143901,514 @@ Colombia · En línea · operador de Colombia
 - [Página oficial del organizador](https://siau.senescyt.gob.ec/wp-content/uploads/2026/05/Resena-de-la-oferta-0084-V2.pdf) · 2026-11-07
 
 - [Página oficial del organizador](https://fundacionsocialperea.org/detalle-programa.php?id=37&curso=programacion-con-scratch) · 2026-11-07
+
+## CP1817 · Creators Camp · Paas-/aprilkamp 2027
+
+Curazao · Biblioteka Nashonal Kòrsou · Fokkerweg 17 · Willemstad
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 5–18 años según la ficha de primavera. Volver a comprobar al inscribirse.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Actividades diurnas con proyectos creativos y técnicos. El tema de la sesión se anunciará por separado.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** 07:30–12:30 hora local. El organizador anunció la admisión de solicitudes. Confirmar plaza e idioma del grupo.
+
+**Precio / año:** 2027 · 225 XCG por semana y menor.
+
+**Incluido:** Actividades diurnas con proyectos creativos y técnicos. El tema de la sesión se anunciará por separado.
+
+**Suplementos:** Se puede elegir un día suelto por 65 XCG. El participante lleva su comida para la pausa. Confirmar opciones adicionales.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** La edad publicada para primavera encaja para ambos. Confirmar grupo, inglés o español y disponibilidad.
+
+**Oscar:** La edad publicada para primavera encaja para ambos. Confirmar grupo, inglés o español y disponibilidad.
+
+**Motivo de la selección:** La edad publicada para primavera encaja para ambos. Confirmar grupo, inglés o español y disponibilidad.
+
+### Antes de solicitar plaza
+
+- Confirmar curso escolar, idioma de las actividades y plaza para cada menor.
+
+### Creators Camp · Paas-/aprilkamp 2027
+
+**Fechas / estado:** 2027-03-29 — 2027-04-02
+
+**Precio:** 225 XCG por semana y menor.
+
+- 2027-03-29 · 07:30–12:30 · America/Curacao · Actividades diurnas con proyectos creativos y técnicos. El tema de la sesión se anunciará por separado.
+
+- 2027-03-30 · 07:30–12:30 · America/Curacao · Actividades diurnas con proyectos creativos y técnicos. El tema de la sesión se anunciará por separado.
+
+- 2027-03-31 · 07:30–12:30 · America/Curacao · Actividades diurnas con proyectos creativos y técnicos. El tema de la sesión se anunciará por separado.
+
+- 2027-04-01 · 07:30–12:30 · America/Curacao · Actividades diurnas con proyectos creativos y técnicos. El tema de la sesión se anunciará por separado.
+
+- 2027-04-02 · 07:30–12:30 · America/Curacao · Actividades diurnas con proyectos creativos y técnicos. El tema de la sesión se anunciará por separado.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://brightclub.info/creators-camp.html)
+
+### Fuentes
+
+- [Página oficial del organizador](https://brightclub.info/creators-camp.html) · 2026-11-07
+
+- [Página oficial del organizador](https://brightclub.info/programs/creator-camp-2026) · 2026-11-07
+
+- [Página oficial del organizador](https://brightclub.info/aanmelden.html?programma=camp) · 2026-11-07
+
+## CP1818 · Creators Camp · Zomerkamp juli 2027
+
+Curazao · Biblioteka Nashonal Kòrsou · Fokkerweg 17 · Willemstad
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Confirmar la edad en las reglas de la sesión concreta.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Actividades diurnas con proyectos creativos y técnicos. El tema de la sesión se anunciará por separado.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** 07:30–12:30 hora local. El organizador anunció la admisión de solicitudes. Confirmar plaza e idioma del grupo.
+
+**Precio / año:** 2027 · 225 XCG por semana y menor.
+
+**Incluido:** Actividades diurnas con proyectos creativos y técnicos. El tema de la sesión se anunciará por separado.
+
+**Suplementos:** Se puede elegir un día suelto por 65 XCG. El participante lleva su comida para la pausa. Confirmar opciones adicionales.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Confirmar edad e idioma de la sesión de verano. Para la sesión de primavera se publicó un grupo de edad aparte.
+
+**Oscar:** Confirmar edad e idioma de la sesión de verano. Para la sesión de primavera se publicó un grupo de edad aparte.
+
+**Motivo de la selección:** Confirmar edad e idioma de la sesión de verano. Para la sesión de primavera se publicó un grupo de edad aparte.
+
+### Antes de solicitar plaza
+
+- Confirmar curso escolar, idioma de las actividades y plaza para cada menor.
+
+### Creators Camp · Zomerkamp juli 2027
+
+**Fechas / estado:** 2027-07-12 — 2027-07-16
+
+**Precio:** 225 XCG por semana y menor.
+
+- 2027-07-12 · 07:30–12:30 · America/Curacao · Actividades diurnas con proyectos creativos y técnicos. El tema de la sesión se anunciará por separado.
+
+- 2027-07-13 · 07:30–12:30 · America/Curacao · Actividades diurnas con proyectos creativos y técnicos. El tema de la sesión se anunciará por separado.
+
+- 2027-07-14 · 07:30–12:30 · America/Curacao · Actividades diurnas con proyectos creativos y técnicos. El tema de la sesión se anunciará por separado.
+
+- 2027-07-15 · 07:30–12:30 · America/Curacao · Actividades diurnas con proyectos creativos y técnicos. El tema de la sesión se anunciará por separado.
+
+- 2027-07-16 · 07:30–12:30 · America/Curacao · Actividades diurnas con proyectos creativos y técnicos. El tema de la sesión se anunciará por separado.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://brightclub.info/creators-camp.html)
+
+### Fuentes
+
+- [Página oficial del organizador](https://brightclub.info/creators-camp.html) · 2026-11-07
+
+- [Página oficial del organizador](https://brightclub.info/aanmelden.html?programma=camp) · 2026-11-07
+
+## CP1819 · BrightClub SaturdayClub · mBot
+
+Curazao · Biblioteka Nashonal Kòrsou · Fokkerweg 17 · Willemstad
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 8–14 años.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Montaje y programación de mBot, sensor de distancia, seguimiento de línea y retos en equipo.
+
+**Alojamiento:** Taller presencial breve sin alojamiento.
+
+**Fechas / estado:** Sábados 7–28 de noviembre de 2026. Dos grupos con horarios distintos.
+
+**Precio / año:** 2026 · 125 XCG por curso y menor.
+
+**Incluido:** Montaje y programación de mBot, sensor de distancia, seguimiento de línea y retos en equipo.
+
+**Suplementos:** Las opciones adicionales se pagan por separado.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+**Oscar:** Por ahora no alcanza la edad mínima.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad exacta de acceso y plaza con el recinto.
+
+### 08:30–10:00
+
+**Fechas / estado:** 2026-11-07 — 2026-11-28
+
+**Precio:** 125 XCG por curso y menor.
+
+- 2026-11-07 · 08:30–10:00 · America/Curacao · Montaje y programación de mBot, sensor de distancia, seguimiento de línea y retos en equipo.
+
+- 2026-11-14 · 08:30–10:00 · America/Curacao · Montaje y programación de mBot, sensor de distancia, seguimiento de línea y retos en equipo.
+
+- 2026-11-21 · 08:30–10:00 · America/Curacao · Montaje y programación de mBot, sensor de distancia, seguimiento de línea y retos en equipo.
+
+- 2026-11-28 · 08:30–10:00 · America/Curacao · Montaje y programación de mBot, sensor de distancia, seguimiento de línea y retos en equipo.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://brightclub.info/cursussen.html)
+
+### 10:30–12:00
+
+**Fechas / estado:** 2026-11-07 — 2026-11-28
+
+**Precio:** 125 XCG por curso y menor.
+
+- 2026-11-07 · 10:30–12:00 · America/Curacao · Montaje y programación de mBot, sensor de distancia, seguimiento de línea y retos en equipo.
+
+- 2026-11-14 · 10:30–12:00 · America/Curacao · Montaje y programación de mBot, sensor de distancia, seguimiento de línea y retos en equipo.
+
+- 2026-11-21 · 10:30–12:00 · America/Curacao · Montaje y programación de mBot, sensor de distancia, seguimiento de línea y retos en equipo.
+
+- 2026-11-28 · 10:30–12:00 · America/Curacao · Montaje y programación de mBot, sensor de distancia, seguimiento de línea y retos en equipo.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://brightclub.info/courses/117)
+
+### Fuentes
+
+- [Página oficial del organizador](https://brightclub.info/courses/117) · 2026-11-07
+
+- [Página oficial del organizador](https://brightclub.info/cursussen.html) · 2026-11-07
+
+## CP1820 · Zebra Robotics · Kingston camps
+
+Jamaica · 3 Shenstone Dr, #39 · Kingston
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** El centro asigna según curso. Confirmar edad de la sesión.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Programas de vacaciones de robótica, programación e IA. Las próximas semanas aún no están publicadas.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** Fecha de la próxima edición sin publicar.
+
+**Precio / año:** sin establecer · Tarifa de la convocatoria actual sin confirmar.
+
+**Incluido:** Programas de vacaciones de robótica, programación e IA. Las próximas semanas aún no están publicadas.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Confirmar la edad en las reglas de la sesión concreta.
+
+**Oscar:** Confirmar la edad en las reglas de la sesión concreta.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad exacta de acceso y plaza con el recinto.
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.zebrarobotics.com/zedjamaica/camps) · 2026-11-07
+
+- [Página oficial del organizador](https://www.zedmakeylatechnologies.com/augustcamp2026) · 2026-11-07
+
+## CP1821 · Zebra Robotics · Kingston weekly classes
+
+Jamaica · 3 Shenstone Dr, #39 · Kingston
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Cursos 1–12, aproximadamente 6–18 años.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Clases durante todo el año. Robótica y programación desde tareas iniciales hasta juegos, Python y aprendizaje automático. El grupo depende del curso.
+
+**Alojamiento:** Taller presencial breve sin alojamiento.
+
+**Fechas / estado:** El centro abre entre semana y los sábados. Confirmar el horario del grupo elegido.
+
+**Precio / año:** sin establecer · Tarifa de la convocatoria actual sin confirmar.
+
+**Incluido:** Clases durante todo el año. Robótica y programación desde tareas iniciales hasta juegos, Python y aprendizaje automático. El grupo depende del curso.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+**Oscar:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad exacta de acceso y plaza con el recinto.
+
+### Fuentes
+
+- [Página oficial del organizador](https://zebrarobotics.com/zedjamaica) · 2026-11-07
+
+## CP1822 · UTech, Jamaica · STEM Summer Camp
+
+Jamaica · Papine Campus · Kingston
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 11–16 años en la edición de 2026.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Campamento universitario de robótica, IA, animación y diseño de ingeniería. En 2026 participaron escolares de Kingston y St. Andrew.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** La última sesión confirmada fue del 20 al 31 de julio de 2026. Próxima convocatoria sin anunciar.
+
+**Precio / año:** sin establecer · Tarifa de la convocatoria actual sin confirmar.
+
+**Incluido:** Campamento universitario de robótica, IA, animación y diseño de ingeniería. En 2026 participaron escolares de Kingston y St. Andrew.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Etapa para más adelante.
+
+**Oscar:** Etapa para más adelante.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad exacta de acceso y plaza con el recinto.
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.utech.edu.jm/utech-jamaica-stem-summer-camp-equips-youth-with-skills-in-ai-robotics-innovation-and-sustainability/) · 2026-11-07
+
+## CP1823 · The STEM Embassy · Ki’ ta bo STEM?
+
+Aruba · University of Aruba · Oranjestad
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Habitualmente 12–21 años. En 2026 también se admitía a estudiantes de secundaria por nivel escolar.
+
+**Idioma:** En 2026 se usaron inglés, neerlandés y papiamento. Confirmar la combinación por grupos para la próxima edición.
+
+**Programa:** Campamento STEM anual. En 2026 hubo actividades de sensores, análisis de datos, diseño web y ciberseguridad. Tema de la próxima edición sin anunciar.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** El campamento y el festival final se celebraron del 27 al 30 de julio de 2026. Próximas fechas sin anunciar.
+
+**Precio / año:** sin establecer · 30 AWG en 2026. Incluía materiales y merienda. Precio de la próxima edición desconocido.
+
+**Incluido:** Campamento STEM anual. En 2026 hubo actividades de sensores, análisis de datos, diseño web y ciberseguridad. Tema de la próxima edición sin anunciar.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Etapa para más adelante.
+
+**Oscar:** Etapa para más adelante.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad exacta de acceso y plaza con el recinto.
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.thestemembassy.com/ktbs26) · 2026-11-07
+
+- [Página oficial del organizador](https://www.thestemembassy.com/) · 2026-11-07
+
+## CP1824 · NCERD · STEAM Camp
+
+Guyana · Guyana
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** En 2026 participaron escolares de los cursos 6–9.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Programa escolar práctico STEAM del Ministerio de Educación de Guyana. Bloque de ciencias confirmado, consultar el itinerario tecnológico concreto.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** Fecha de la próxima edición sin publicar.
+
+**Precio / año:** sin establecer · Tarifa de la convocatoria actual sin confirmar.
+
+**Incluido:** Programa escolar práctico STEAM del Ministerio de Educación de Guyana. Bloque de ciencias confirmado, consultar el itinerario tecnológico concreto.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Etapa para más adelante.
+
+**Oscar:** Etapa para más adelante.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad exacta de acceso y plaza con el recinto.
+
+### Fuentes
+
+- [Página oficial del organizador](https://ww.education.gov.gy/en/index.php/media2/news-events/11502-steam-camp-2026-registration-opens-july-6) · 2026-11-07
+
+- [Página oficial del organizador](https://www.education.gov.gy/en/index.php/media2/news-events/11616-students-from-grades-6-to-9-explored-the-wonders-of-science-through-engaging-hands-on-activities-at-the-ncerd-steam-camp) · 2026-11-07
+
+## CP1825 · IIU Guyana · Innovation Camp
+
+Guyana · Better Hope · East Coast Demerara
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 14–21 años según el programa de 2026.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Campamento de cinco días de habilidades digitales. En la edición de 2026 se enseñó programación, desarrollo web y ciberseguridad.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** Fecha de la próxima edición sin publicar.
+
+**Precio / año:** sin establecer · Tarifa de la convocatoria actual sin confirmar.
+
+**Incluido:** Campamento de cinco días de habilidades digitales. En la edición de 2026 se enseñó programación, desarrollo web y ciberseguridad.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Etapa para más adelante.
+
+**Oscar:** Etapa para más adelante.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad exacta de acceso y plaza con el recinto.
+
+### Fuentes
+
+- [Página oficial del organizador](https://dpi.gov.gy/innovation-camp-participants-praise-initiative-for-digital-skills-gained/) · 2026-11-07
+
+## CP1826 · Nova Mentis · Techno Camp
+
+República Dominicana · Alma Rosa I · Santo Domingo Este / Evaristo Morales · Distrito Nacional
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grupo infantil de 5–10 años. El límite superior para adolescentes difiere entre secciones de la web.
+
+**Idioma:** Información del proveedor en español. Confirmar el idioma de enseñanza del grupo elegido.
+
+**Programa:** Robótica en todas las semanas de 2026. Hubo temas separados de Scratch y Roblox, aplicaciones, IA y creatividad digital.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** La web muestra del 29 de junio al 31 de julio para 2026. Fechas y paquete mínimo de la próxima convocatoria desconocidos.
+
+**Precio / año:** sin establecer · Tarifa de 2026: 7 235 por semana, mínimo 2 semanas. La página usa el signo $ sin código de moneda. El paquete incluía materiales, diploma y camiseta. Se requería portátil o tableta, se podía solicitar un dispositivo. Tarifa de la próxima temporada sin anunciar.
+
+**Incluido:** Robótica en todas las semanas de 2026. Hubo temas separados de Scratch y Roblox, aplicaciones, IA y creatividad digital.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+**Oscar:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad exacta de acceso y plaza con el recinto.
+
+### Fuentes
+
+- [Página oficial del organizador](https://lp.novamentis.edu.do/techno-camp) · 2026-11-07
+
+## CP1827 · NIHERST · Teach ME Primary Camp
+
+Trinidad y Tobago · Barataria Community Centre · Barataria
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Standards 3–5 de primaria en la edición de 2026.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Preparación STEM práctica basada en el currículo escolar y vinculada al concurso Teach ME.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** La sesión de primaria se celebró del 12 al 14 de agosto de 2026. Fechas de la próxima sesión y requisitos para extranjeros sin anunciar.
+
+**Precio / año:** sin establecer · Tarifa de la convocatoria actual sin confirmar.
+
+**Incluido:** Preparación STEM práctica basada en el currículo escolar y vinculada al concurso Teach ME.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Confirmar el curso escolar local. La edad por sí sola no acredita la admisión.
+
+**Oscar:** Confirmar el curso escolar local. La edad por sí sola no acredita la admisión.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad exacta de acceso y plaza con el recinto.
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.niherst.gov.tt/scipop/teachme-stem-enrichment-camps.html) · 2026-11-07
 
 ## ~ Comprobaciones no cerradas
 

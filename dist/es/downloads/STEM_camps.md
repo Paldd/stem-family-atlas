@@ -9318,6 +9318,22 @@ Limitaciones: Los menores investigan un problema de usuario y crean una solució
 Fuente: https://connectaict.com/innovation-arena
 Se ha comprobado: 2026-11-07
 
+### L659 · CURAKNOW Science Squad · ventana de visitas escolares
+
+lugar: Curazao · Curaçao
+Fecha: 2026-10-19 — 2026-12-11
+edad: Confirmar la edad en las reglas de la sesión concreta.
+Matvey: Condicional. Solo por solicitud del centro escolar.
+Oscar: Condicional. Solo por solicitud del centro escolar.
+Formato: regular
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Precio sin publicar.
+Acceso: Investigadores visitan los centros escolares. Solicita la escuela. El día y tema concretos dependen del acuerdo con el centro.
+Limitaciones: Investigadores visitan los centros escolares. Solicita la escuela. El día y tema concretos dependen del acuerdo con el centro.
+Fuente: https://citi.cw/what-we-do/curaknow/2026
+Se ha comprobado: 2026-11-07
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -71060,6 +71076,70 @@ Precio: 2027 · La página muestra 265 000 por semana y tarifa anticipada 220 00
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Condicional. Confirmar curso y distribución por grupos. Oscar: Confirmar reparto de grupos con el organizador. Suplementos: Llevar agua y tentempié. El organizador facilita agua y fruta. Confirmar coste de otros servicios. La página muestra 2 semanas por 380 000 o 320 000 con tarifa anticipada, 3 semanas por 550 000 o 462 000, 4 semanas por 700 000 o 588 000. Se pueden elegir semanas separadas. Pago: La página indica pago por transferencia. Confirmar moneda de factura, reembolso y aplicación del descuento.
 Fuente: https://tecnokids.com/colonia/
+Se ha comprobado: 2026-11-07
+
+### CP1817-20270329-20270402-brightclub-spring-2027 · Creators Camp · Paas-/aprilkamp 2027 · Creators Camp · Paas-/aprilkamp 2027 · 2027-03-29–2027-04-02
+
+lugar: Curazao · Biblioteka Nashonal Kòrsou · Fokkerweg 17 · Willemstad
+Fecha: 2027-03-29 - 2027-04-02
+edad: 5–18 años según la ficha de primavera. Volver a comprobar al inscribirse.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 225 XCG por semana y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad publicada para primavera encaja para ambos. Confirmar grupo, inglés o español y disponibilidad. Oscar: La edad publicada para primavera encaja para ambos. Confirmar grupo, inglés o español y disponibilidad. Suplementos: Se puede elegir un día suelto por 65 XCG. El participante lleva su comida para la pausa. Confirmar opciones adicionales. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.
+Fuente: https://brightclub.info/creators-camp.html
+Se ha comprobado: 2026-11-07
+
+### CP1818-20270712-20270716-brightclub-summer-2027 · Creators Camp · Zomerkamp juli 2027 · Creators Camp · Zomerkamp juli 2027 · 2027-07-12–2027-07-16
+
+lugar: Curazao · Biblioteka Nashonal Kòrsou · Fokkerweg 17 · Willemstad
+Fecha: 2027-07-12 — 2027-07-16
+edad: Confirmar la edad en las reglas de la sesión concreta.
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 225 XCG por semana y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar edad e idioma de la sesión de verano. Para la sesión de primavera se publicó un grupo de edad aparte. Oscar: Confirmar edad e idioma de la sesión de verano. Para la sesión de primavera se publicó un grupo de edad aparte. Suplementos: Se puede elegir un día suelto por 65 XCG. El participante lleva su comida para la pausa. Confirmar opciones adicionales. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.
+Fuente: https://brightclub.info/creators-camp.html
+Se ha comprobado: 2026-11-07
+
+### CP1819-20261107-20261128-mbot-08 · BrightClub SaturdayClub · mBot · 08:30–10:00 · 2026-11-07–2026-11-28
+
+lugar: Curazao · Biblioteka Nashonal Kòrsou · Fokkerweg 17 · Willemstad
+Fecha: 2026-11-07 — 2026-11-28
+edad: 8–14 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Formato: regular
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · 125 XCG por curso y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada. Confirmar plaza e idioma de la actividad. Oscar: Por ahora no alcanza la edad mínima. Suplementos: Las opciones adicionales se pagan por separado. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.
+Fuente: https://brightclub.info/cursussen.html
+Se ha comprobado: 2026-11-07
+
+### CP1819-20261107-20261128-mbot-10 · BrightClub SaturdayClub · mBot · 10:30–12:00 · 2026-11-07–2026-11-28
+
+lugar: Curazao · Biblioteka Nashonal Kòrsou · Fokkerweg 17 · Willemstad
+Fecha: 2026-11-07 — 2026-11-28
+edad: 8–14 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Formato: regular
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · 125 XCG por curso y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada. Confirmar plaza e idioma de la actividad. Oscar: Por ahora no alcanza la edad mínima. Suplementos: Las opciones adicionales se pagan por separado. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.
+Fuente: https://brightclub.info/courses/117
 Se ha comprobado: 2026-11-07
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

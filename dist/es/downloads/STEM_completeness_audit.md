@@ -6,16 +6,16 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 8278; competiciones: 3345; eventos: 416; campamentos / programas: 4517. Perfiles de ligas y programas: 276. Fichas de exposiciones grandes y especializadas: 326 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 8302; competiciones: 3359; eventos: 421; campamentos / programas: 4522. Perfiles de ligas y programas: 277. Fichas de exposiciones grandes y especializadas: 331 — son ediciones y sedes, no cantidad de marcas únicas.
 
-Hay fichas concretas en 161 de 249 países y territorios. Países con auditoría completa: 0. Revisión histórica v51: se añadieron 21 fichas y 3 perfiles. Se conservan las fichas anteriores.
+Hay registros concretos para 164 de 249 países y territorios. Países auditados por completo: 0. La revisión histórica v51 añadió 21 fichas y 3 perfiles. Se conservan todas las fichas previas.
 
 ## Cobertura por continentes
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 24 | 1464 | 62 | 1146 |
-| América del Sur | 11 | 235 | 30 | 197 |
+| América del Norte | 26 | 1476 | 67 | 1151 |
+| América del Sur | 12 | 237 | 30 | 197 |
 | Europa | 42 | 440 | 87 | 1372 |
 | África | 34 | 135 | 25 | 71 |
 | Asia | 44 | 826 | 96 | 1550 |
@@ -23,7 +23,7 @@ Hay fichas concretas en 161 de 249 países y territorios. Países con auditoría
 
 Fichas interregionales o globales sin continente único: 136. América del Norte incluye Centroamérica y el Caribe. Las cifras reflejan el inventario de la base y la cobertura completa sigue pendiente.
 
-VEX: 521 de 3345 fichas de competiciones (15.6%). El catálogo refleja una concentración clara.
+VEX: 521 de 3359 tarjetas de las competiciones (15.5%). La cobertura está desequilibrada.
 
 ## Lo que queda
 
@@ -106,7 +106,7 @@ VEX: 521 de 3345 fichas de competiciones (15.6%). El catálogo refleja una conce
 - **Robofest · LTU**: 16 fichas, 11 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robofest.net/index.php/current-competitions/main-page
 - **Robotex International**: 2 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://robotex.international/lego-sumo
 - **RobotChallenge**: 17 fichas, 13 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robotchallenge.org.cn/competition-RobotSumo.html
-- **ENJOY AI**: 4 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.enjoyaiglobal.org/
+- **ENJOY AI**: 5 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.enjoyaiglobal.org/
 - *Junior Botball Challenge**: 2 tarjetas, 1 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://www.kipr.org/junior-botball-challenge
 - **International Robot Olympiad**: 11 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.iroc.org/home?l=ko&s=10280
 - **IYRC**: 1 tarjeta, 0 con fechas exactas futuras. https://www.myrobotacademy.ai/iyrcasean2026
@@ -134,7 +134,7 @@ VEX: 521 de 3345 fichas de competiciones (15.6%). El catálogo refleja una conce
 - **IOAI · Olimpiadas de IA**: 0 tarjetas, 0 con fechas exactas futuras. https://ioai-official.org/wp-content/uploads/2025/08/IOAI-regulations.pdf
 - **IOI - Olimpiadas de informática**: 0 tarjetas, 0 con fechas exactas futuras, solo perfil; no se ha añadido un calendario de etapas. https://ioinformatics.org/files/regulations24-web.pdf
 - *Regeneron ISEF**: 0 tarjetas, 0 con fechas exactas futuras. https://www.societyforscience.org/isef/international-rules/rules-for-all-projects/
-- **FIRST Global Challenge**: 5 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://first.global/fgc/
+- **FIRST Global Challenge**: 6 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://first.global/fgc/
 - **FIRA RoboWorld Cup / Youth**: 1 tarjeta, 0 con fechas exactas futuras. https://firaworldcup.org/news/fira-roboworld-cup-and-summit-2026-call-for-paper/
 - *Universal Robotics Challenge (URC)**: 1 tarjeta, 0 con fechas exactas futuras. https://www.urc21.org/en/overview.php
 - **World Robot Contest (CIE)**: 109 fichas, 96 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.worldrobotconference.com/contest/regulations/2632.html
@@ -175,7 +175,7 @@ VEX: 521 de 3345 fichas de competiciones (15.6%). El catálogo refleja una conce
 - **IGVC · Intelligent Ground Vehicle Competition**: 1 tarjeta, 1 con fechas exactas futuras. https://robonation.org/2027-season-launch/
 - **IARC · International Aerial Robotics Competition**: 1 tarjeta, 0 con fechas exactas futuras; perfil y tarjetas; cobertura local parcial. https://robonation.org/2027-season-launch/
 - *Barbados Robotics Innovation Challenge**: 1 tarjeta, 1 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://caribbeanscience.org/bric/
-- *Caribbean Stem Olympiads**: 2 tarjetas, 2 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://caribbeanscience.org/cso/
+- **Caribbean STEM Olympiads**: 3 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://caribbeanscience.org/cso/
 - **CoderZ League · robótica virtual**: 1 tarjeta, 0 con fechas exactas futuras. https://competition.gocoderz.com/fall-league/
 - **CodeAI / Hour of AI · capacitación**: 0 tarjetas, 0 con fechas exactas futuras; programa de capacitación y asistencia; no hay etapas de concurso. https://code.org/es/curriculum/computer-science-fundamentals
 - *Australian STEM Video Game Challenge**: 1 tarjeta, 0 con fechas exactas futuras. https://www.stemgames.org.au/
@@ -301,6 +301,7 @@ VEX: 521 de 3345 fichas de competiciones (15.6%). El catálogo refleja una conce
 - **Classic Tetris World Championship**: 5 fichas, 5 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://thectwc.com/events/
 - **Brainiacs · Coding & AI**: 10 fichas, 10 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.brainiacsolympiad.com/en/olympiads/coding
 - **Global Robotics Challenge · GRC**: 13 fichas, 13 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.grc-championship.com/en
+- **ENJOY AI Caribbean · Curaçao**: 7 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://enjoyaicaribbean.com/
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 10 tarjetas, 0 con fechas exactas futuras. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -670,6 +671,11 @@ VEX: 521 de 3345 fichas de competiciones (15.6%). El catálogo refleja una conce
 - **Connecta 2026 · Cairo ICT Hall 4** — Egipto; 2026-11-08 – 2026-11-10. con un adulto; condiciones de admisión adulta por separado. https://cairoict.com/connecta
 - **Coolest Projects Argentina 2026 · Visita** — Argentina; 2026-11-28. con un adulto; condiciones de admisión adulta por separado. https://coolestprojects.coderdojo.ar/es-AR/visitar
 - **RoboRAVE · Ruta Científica Tecnológica Internacional 2027** — México; 2027-02-25 – 2027-02-28. el permiso de entrada de niños. https://roboraveinternational.org/eventos/roborave-ruta-cientifica-puerto-vallarta-2027
+- **CURAKNOW Science Festival 2026** — Curazao; 2026-09-25. con un adulto; condiciones de admisión adulta por separado. https://citi.cw/what-we-do/curaknow/2026
+- **CURAKNOW · próximo Science Festival** — Curazao. Fecha desconocida. Confirmar acceso infantil. https://citi.cw/what-we-do/curaknow/2026
+- **Ki’ ta bo STEM? · Aruba Science Fair 2026** — Aruba; 2026-07-30. con un adulto; condiciones de admisión adulta por separado. https://www.thestemembassy.com/ktbs26
+- **Ki’ ta bo STEM? · próxima Science Fair** — Aruba. Fecha desconocida. Confirmar acceso infantil. https://www.thestemembassy.com/
+- **Tinkersjòp · STREAM science centre** — Curazao; fecha desconocida. Confirmar acceso infantil. https://tinkersjop.com/tinkersjop/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors
