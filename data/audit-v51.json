@@ -16,14 +16,14 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 7672,
-    "competition_cards": 3196,
-    "event_cards": 348,
-    "camp_cards": 4128,
+    "cards": 7681,
+    "competition_cards": 3200,
+    "event_cards": 352,
+    "camp_cards": 4129,
     "league_profiles": 268,
-    "major_exhibition_cards": 260,
+    "major_exhibition_cards": 264,
     "vex_cards": 518,
-    "countries_with_records": 158,
+    "countries_with_records": 159,
     "fully_audited_countries": 0
   },
   "continents": [
@@ -62,11 +62,11 @@
       "regions": [
         "Европа"
       ],
-      "total": 1829,
+      "total": 1831,
       "countries_with_records": 42,
-      "competitions": 432,
-      "events": 99,
-      "major_exhibitions": 80,
+      "competitions": 433,
+      "events": 100,
+      "major_exhibitions": 81,
       "camps": 1298,
       "status": "Частично исследовано",
       "remaining": "CHE/ESP/FRA углублены повторно. Не закрыты все местные лиги, новые qualifiers 2027, преподавание на английском / испанском, иностранные квоты, текущие juniormentors и полные школьные протоколы 5–10 лет. Германия / Нидерланды / Бельгия: первый частичный проход; все местные клубы, языки, иностранные квоты и полные школьные результаты остаются открыты."
@@ -90,9 +90,9 @@
       "regions": [
         "Азия"
       ],
-      "total": 2287,
+      "total": 2288,
       "countries_with_records": 44,
-      "competitions": 777,
+      "competitions": 778,
       "events": 101,
       "major_exhibitions": 89,
       "camps": 1409,
@@ -104,12 +104,12 @@
       "regions": [
         "Океания"
       ],
-      "total": 278,
-      "countries_with_records": 5,
-      "competitions": 125,
-      "events": 20,
-      "major_exhibitions": 16,
-      "camps": 133,
+      "total": 285,
+      "countries_with_records": 6,
+      "competitions": 128,
+      "events": 23,
+      "major_exhibitions": 19,
+      "camps": 134,
       "status": "Частично исследовано",
       "remaining": "Добавлены Fiji tourist camp, NZ реальные учебные дни, Australian national game/video contests и закрытый школьный архив French Polynesia. Остаются языки / foreign admission лагерей, динамический RCJA calendar, другие острова и локальные турниры."
     }
@@ -2701,11 +2701,12 @@
       "event_ids": [
         "C762",
         "C839",
-        "C884"
+        "C884",
+        "C3198"
       ],
-      "cards": 3,
-      "future_dated": 0,
-      "linked_card_count": 3,
+      "cards": 4,
+      "future_dated": 1,
+      "linked_card_count": 5,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://first.global/fgc/",
       "new": false
@@ -2936,11 +2937,12 @@
       "name": "ABU Robocon",
       "group": "advanced",
       "event_ids": [
-        "C772"
+        "C772",
+        "C3199"
       ],
-      "cards": 1,
-      "future_dated": 0,
-      "linked_card_count": 1,
+      "cards": 2,
+      "future_dated": 1,
+      "linked_card_count": 2,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.abu.org.my/news/hong-kong-hosts-abu-robocon-2026-as-young-innovators-take-on-kung-fu-quest/",
       "new": false
@@ -9953,6 +9955,50 @@
       "new": false
     },
     {
+      "id": "E349",
+      "name": "FIRST Global Challenge 2027 · Madrid · spectators",
+      "country": "Испания",
+      "region": "Европа",
+      "start": "2027-10-20",
+      "end": "2027-10-23",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Todas-las-noticias/Madrid-acogera-en-2027-FIRST-Global-la-olimpiada-internacional-de-robotica-juvenil/?vgnextchannel=e40362215c483510VgnVCM2000001f4a900aRCRD&vgnextfmt=default&vgnextoid=8da434e133531a10VgnVCM100000891ecb1aRCRD",
+      "new": false
+    },
+    {
+      "id": "E350",
+      "name": "University of Guam · Tech Fest 2026",
+      "country": "Гуам",
+      "region": "Океания",
+      "start": "2026-03-05",
+      "end": "2026-03-05",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.uog.edu/charter-day/2026/schedule",
+      "new": false
+    },
+    {
+      "id": "E351",
+      "name": "NASA Guam Space Grant · STEM Saturday · Discovering Drones",
+      "country": "Гуам",
+      "region": "Океания",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.uog.edu/nasa-guam-space-grant/stem-saturday",
+      "new": false
+    },
+    {
+      "id": "E352",
+      "name": "Fête de la science · Nārama · Polynésie française 2026",
+      "country": "Французская Полинезия",
+      "region": "Океания",
+      "start": "2026-10-02",
+      "end": "2026-10-16",
+      "visitor_policy": "confirm_children",
+      "source": "https://forco.upf.pf/fr/actualites/35eme-edition-de-la-fete-de-la-science-appel-participation",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -11333,7 +11379,7 @@
       "official_alternative": "https://www.ykpaoschool.cn/News-and-Events/New-Stories/988"
     }
   ],
-  "interregional_cards": 114,
+  "interregional_cards": 113,
   "promoted_exhibition_ids": [],
   "focused_country": {
     "country": "Тайвань",
@@ -12370,8 +12416,8 @@
       }
     ],
     "counts": {
-      "records": 4128,
-      "holiday": 3854,
+      "records": 4129,
+      "holiday": 3855,
       "regular": 120,
       "self_paced_materials": 2,
       "boarding": 1026,
@@ -12383,7 +12429,7 @@
       "language_lessons": 408,
       "camp_life_language": 228,
       "language_unclassified": 137,
-      "countries": 98
+      "countries": 99
     },
     "validation": {
       "version": 51,

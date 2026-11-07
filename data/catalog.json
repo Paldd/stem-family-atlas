@@ -62268,37 +62268,46 @@
     {
       "id": "C772",
       "block": "Соревнования",
-      "title": "ABU Robocon · следующий сезон",
-      "country": "Мир",
-      "region": "Мир",
-      "city": "Место и даты следующего сезона не подтверждены",
-      "start": "",
-      "end": "",
-      "period": "Следующий выпуск / этап: даты не подтверждены",
-      "date_status": "Даты не объявлены",
+      "title": "ABU Robocon 2027 · The Pursuit of Mustika Nusantara",
+      "country": "Индонезия",
+      "region": "Азия",
+      "city": "Edutorium UMS · Surakarta (Solo) · Central Java",
+      "start": "2027-08-29",
+      "end": "2027-08-29",
+      "period": "29 августа 2027 — соревновательный день. 27–31 августа — программа делегаций. Задача The Pursuit of Mustika Nusantara, роботы Transporter и Builder. Доступ зрителей и трансляцию подтвердить отдельно.",
+      "date_status": "Подтверждено",
       "deadline": "",
-      "age": "Университетские команды; числовой предел возраста по будущему регламенту",
-      "mat": "Нет — университетский уровень",
-      "osc": "Нет — университетский уровень",
-      "format": "Команда; размер по регламенту категории",
-      "entry": "Национальный конкурс / участник через маршрут ABU broadcaster; университетская команда.",
-      "gear": "Два робота по игре сезона",
+      "age": "Университетские команды по регламенту ABU Robocon 2027.",
+      "mat": "Нет как участник. Университетский уровень.",
+      "osc": "Нет как участник. Университетский уровень.",
+      "format": "Университетские команды по регламенту ABU Robocon 2027.",
+      "entry": "Национальный отбор через соответствующего оператора ABU. Число команд и правила зрителей по выпуску 2027 уточняются.",
+      "gear": "Transporter Robot · Builder Robot",
       "language": "Язык конкретного этапа и EN/ES-судейство уточнить",
       "languages": [],
       "cost": "Оборудование, регистрация и поездка рассчитываются отдельно",
-      "level": "Международная сеть; масштаб конкретного этапа указан отдельно",
+      "level": "Международный финал университетских команд Азиатско-Тихоокеанского региона.",
       "reward": "Протокол и награда конкретного этапа; участие не гарантирует призовое место",
       "priority": "P2 — подготовка / поездка после проверки допуска",
-      "action": "Проверить категорию, класс, состав команды и иностранный вход; получить условия текущего сезона.",
-      "source": "https://www.abu.org.my/news/hong-kong-hosts-abu-robocon-2026-as-young-innovators-take-on-kung-fu-quest/",
-      "references": [],
-      "proof": "Прочитан первичный источник; точные даты и неизвестные условия разделены.",
-      "checked": "2026-09-30",
+      "action": "Национальный отбор через соответствующего оператора ABU. Число команд и правила зрителей по выпуску 2027 уточняются.",
+      "source": "https://aburobocon2027.id/",
+      "references": [
+        {
+          "url": "https://aburobocon2027.id/rulebook/",
+          "label": "Официальная страница организатора"
+        },
+        {
+          "url": "https://www.usp.ac.fj/usp-stemp/news/usp-robocon-2027-campaign/",
+          "label": "Официальная страница организатора"
+        }
+      ],
+      "proof": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "checked": "2026-11-07",
       "status": "Идея",
-      "note": "Официальный отчёт: турнир 2026 прошёл 23 августа в Hong Kong. Даты 2027 не выведены из прошлогодних.",
+      "note": "29 августа 2027 — соревновательный день. 27–31 августа — программа делегаций. Задача The Pursuit of Mustika Nusantara, роботы Transporter и Builder. Доступ зрителей и трансляцию подтвердить отдельно.",
       "themes": [
         "robotics",
-        "technology"
+        "engineering"
       ],
       "scope": "international",
       "participation": "team",
@@ -62306,7 +62315,11 @@
       "evidence_level": "event_page",
       "registration_status": "Заявка семьи не подана; наличие даты не означает открытый набор",
       "language_certainty": "Перевод сайта не подтверждает язык судейства или помощи детям.",
-      "iso": []
+      "iso": [
+        "IDN"
+      ],
+      "date_scope": "competition",
+      "importance_reason": "Международный финал университетских команд Азиатско-Тихоокеанского региона."
     },
     {
       "id": "C773",
@@ -78241,13 +78254,13 @@
       "title": "KidzCodeCamp Fiji · дневная робототехника для туристов",
       "country": "Фиджи",
       "region": "Океания",
-      "city": "Nadi · Aliz Centre, Level 2, Martintar",
+      "city": "Aliz Centre · Level 2 · 231 Queens Road · Martintar · Nadi",
       "source": "https://www.kidzcodecamp.com/",
-      "checked": "2026-10-01",
+      "checked": "2026-11-07",
       "start": "",
       "end": "",
       "deadline": "",
-      "period": "Будние дни 09:00–15:30 по времени Фиджи; конкретный день и места уточнить",
+      "period": "Будни. Полный день 09:00–15:30. Tourism Fiji также указывает 09:00–12:00 и 12:30–15:30. Свободный день уточнить.",
       "date_status": "Не объявлено",
       "age": "6–16 лет",
       "mat": "Условно: по возрасту подходит; язык и выбранный день подтвердить",
@@ -78256,11 +78269,11 @@
       "participation": "day_camp",
       "admission_kind": "program",
       "entry": "Выбрать доступный будний день; подтвердить EN-преподавание, загрузку группы и гостиничный трансфер.",
-      "gear": "Java, 3D simulator и физический робот; устройство предоставляется по описанию оператора.",
+      "gear": "Ребёнок проектирует, собирает и программирует робота. Java, 3D-симулятор и физический проект.",
       "language": "Язык занятия / защиты не подтверждён; EN-сайт не является доказательством",
       "languages": [],
       "support_languages": [],
-      "cost": "Introductory offer $199 / человек на сайте; валюта и текущая цена не указаны однозначно.",
+      "cost": "Пробный тариф $199 на ребёнка. При общей записи скидка $20 на каждого дополнительного ребёнка. Расчёт для двоих $378, если предложение действует. Валюту и итоговый счёт подтвердить.",
       "scope": "local",
       "level": "Местная учебная программа",
       "importance_reason": "Оценка масштаба конкретной программы; наличие сайта и сертификата не доказывает место в мировом рейтинге.",
@@ -78272,18 +78285,22 @@
       "evidence_level": "program",
       "references": [
         {
-          "label": "Tourism Fiji: туристический формат и трансфер",
-          "url": "https://www.fiji.travel/deals-and-offers/experiences/kids-code-camp"
+          "url": "https://www.fiji.travel/deals-and-offers/experiences/kids-code-camp",
+          "label": "Официальная страница организатора"
+        },
+        {
+          "url": "https://www.kidzcodecamp.com/",
+          "label": "Официальная страница организатора"
         }
       ],
-      "note": "Оператор предлагает один день по будням 09:00–15:30, питание, компьютер и обратный трансфер. Конкретная будущая смена не датирована. Туристический формат подтверждён; занятия на EN прямо не подтверждены в прочитанных актуальных деталях. Это кандидат для семейной поездки, не доказанный лучший международный лагерь.",
+      "note": "Для полного дня оператор указывает питание, напитки, устройство, обратный трансфер и сертификат прохождения. Туристическая служба перечисляет два полудня. Условия, цены и возраст выбранного формата подтвердить отдельно.",
       "registration_status": "Заявка семьи не подана; опубликованная программа не подтверждает место.",
       "language_certainty": "Язык сайта не перенесён на язык преподавания / судейства.",
       "themes": [
         "robotics",
         "coding"
       ],
-      "date_scope": "festival_window",
+      "date_scope": "season_window",
       "language_mode": "unconfirmed",
       "iso": [
         "FJI"
@@ -208691,6 +208708,458 @@
       "visitor_policy_note": "Организатор подтвердил возвращение в 2027 году. Даты, билеты и правила детского доступа нового выпуска уточняются.",
       "exhibitor_note": "Выставка видеоигр и игровой индустрии.",
       "exhibitor_directory_url": "https://aus.paxsite.com/",
+      "highlights": [],
+      "exhibitors": []
+    },
+    {
+      "id": "C3198",
+      "block": "Соревнования",
+      "title": "FIRST Global Challenge 2027 · Madrid",
+      "country": "Испания",
+      "region": "Европа",
+      "iso": [
+        "ESP"
+      ],
+      "city": "Madrid",
+      "start": "2027-10-20",
+      "end": "2027-10-23",
+      "deadline": "",
+      "period": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-07",
+      "proof": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "status": "Идея",
+      "source": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Todas-las-noticias/Madrid-acogera-en-2027-FIRST-Global-la-olimpiada-internacional-de-robotica-juvenil/?vgnextchannel=e40362215c483510VgnVCM2000001f4a900aRCRD&vgnextfmt=default&vgnextoid=8da434e133531a10VgnVCM100000891ecb1aRCRD",
+      "references": [
+        {
+          "url": "https://first.global/press-releases/a-world-united-in-incheon-2026-first-global-challenge-concludes-as-champions-are-crowned-and-madrid-revealed-as-2027-host/",
+          "label": "Правила и условия допуска"
+        },
+        {
+          "url": "https://first.global/contact/",
+          "label": "Правила и условия допуска"
+        }
+      ],
+      "age": "14–18 лет по общим правилам FIRST Global.",
+      "mat": "Нет как участник по возрасту. Публичное посещение зависит от условий выпуска.",
+      "osc": "Нет как участник по возрасту. Публичное посещение зависит от условий выпуска.",
+      "format": "Олимпиада по робототехнике с ежегодной задачей и международными альянсами. Мэрия объявила даты 20–23 октября 2027. Площадку, расписание и тему организатор ещё уточняет.",
+      "entry": "От страны участвует одна сборная. Состав определяет местный партнёр. Условия 2027 и критерии представительства подтвердить у партнёра выбранной страны.",
+      "gear": "FIRST Global",
+      "language": "Язык конкретной группы или площадки уточнить.",
+      "language_certainty": "Язык конкретной группы или площадки уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Цена не опубликована.",
+      "level": "Мировой финал национальных сборных",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Уточнить возрастной допуск, наличие места и точный режим доступа у организатора.",
+      "note": "Олимпиада по робототехнике с ежегодной задачей и международными альянсами. Мэрия объявила даты 20–23 октября 2027. Площадку, расписание и тему организатор ещё уточняет.",
+      "themes": [
+        "robotics",
+        "engineering",
+        "coding"
+      ],
+      "scope": "international",
+      "importance_reason": "Мировой финал национальных сборных",
+      "participation": "team",
+      "admission_kind": "qualifier",
+      "evidence_level": "event_page",
+      "date_scope": "competition",
+      "event_group": "first-global-madrid-2027"
+    },
+    {
+      "id": "E349",
+      "block": "События",
+      "title": "FIRST Global Challenge 2027 · Madrid · spectators",
+      "country": "Испания",
+      "region": "Европа",
+      "iso": [
+        "ESP"
+      ],
+      "city": "Madrid",
+      "start": "2027-10-20",
+      "end": "2027-10-23",
+      "deadline": "",
+      "period": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-07",
+      "proof": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "status": "Идея",
+      "source": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Todas-las-noticias/Madrid-acogera-en-2027-FIRST-Global-la-olimpiada-internacional-de-robotica-juvenil/?vgnextchannel=e40362215c483510VgnVCM2000001f4a900aRCRD&vgnextfmt=default&vgnextoid=8da434e133531a10VgnVCM100000891ecb1aRCRD",
+      "references": [
+        {
+          "url": "https://first.global/contact/",
+          "label": "Правила и условия допуска"
+        },
+        {
+          "url": "https://first.global/press-releases/a-world-united-in-incheon-2026-first-global-challenge-concludes-as-champions-are-crowned-and-madrid-revealed-as-2027-host/",
+          "label": "Правила и условия допуска"
+        }
+      ],
+      "age": "У FIRST Global предусмотрен общий зрительский вход. Для Мадрида 2027 площадка, часы, билеты и детские правила пока не опубликованы.",
+      "mat": "Уточнить возрастной допуск, наличие места и точный режим доступа у организатора.",
+      "osc": "Уточнить возрастной допуск, наличие места и точный режим доступа у организатора.",
+      "format": "Олимпиада по робототехнике с ежегодной задачей и международными альянсами. Мэрия объявила даты 20–23 октября 2027. Площадку, расписание и тему организатор ещё уточняет.",
+      "entry": "У FIRST Global предусмотрен общий зрительский вход. Для Мадрида 2027 площадка, часы, билеты и детские правила пока не опубликованы.",
+      "gear": "Олимпиада по робототехнике с ежегодной задачей и международными альянсами. Мэрия объявила даты 20–23 октября 2027. Площадку, расписание и тему организатор ещё уточняет.",
+      "language": "Язык конкретной группы или площадки уточнить.",
+      "language_certainty": "Язык конкретной группы или площадки уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Цена не опубликована.",
+      "level": "Семейная выставка или публичное мероприятие",
+      "reward": "",
+      "priority": "P3 — посещение по программе",
+      "action": "Уточнить возрастной допуск, наличие места и точный режим доступа у организатора.",
+      "note": "У FIRST Global предусмотрен общий зрительский вход. Для Мадрида 2027 площадка, часы, билеты и детские правила пока не опубликованы.",
+      "themes": [
+        "robotics",
+        "engineering"
+      ],
+      "scope": "international",
+      "importance_reason": "Региональный этап",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "exhibition_tier": "profile",
+      "adult_entry": "У FIRST Global предусмотрен общий зрительский вход. Для Мадрида 2027 площадка, часы, билеты и детские правила пока не опубликованы.",
+      "visitor_policy": "confirm_children",
+      "visitor_policy_note": "У FIRST Global предусмотрен общий зрительский вход. Для Мадрида 2027 площадка, часы, билеты и детские правила пока не опубликованы.",
+      "exhibitor_note": "Олимпиада по робототехнике с ежегодной задачей и международными альянсами. Мэрия объявила даты 20–23 октября 2027. Площадку, расписание и тему организатор ещё уточняет.",
+      "exhibitor_directory_url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Todas-las-noticias/Madrid-acogera-en-2027-FIRST-Global-la-olimpiada-internacional-de-robotica-juvenil/?vgnextchannel=e40362215c483510VgnVCM2000001f4a900aRCRD&vgnextfmt=default&vgnextoid=8da434e133531a10VgnVCM100000891ecb1aRCRD",
+      "highlights": [],
+      "exhibitors": [],
+      "parent_event_id": "C3198",
+      "event_group": "first-global-madrid-2027"
+    },
+    {
+      "id": "C3199",
+      "block": "Соревнования",
+      "title": "ABU Robocon · USP Team Fiji 2027 pathway",
+      "country": "Фиджи",
+      "region": "Океания",
+      "iso": [
+        "FJI"
+      ],
+      "city": "USP · Laucala Campus · Suva",
+      "start": "",
+      "end": "",
+      "deadline": "",
+      "period": "Клуб University of the South Pacific готовит университетскую команду Фиджи к финалу ABU 2027. Тренировки относятся к членам клуба. Точный порядок местного отбора и доступ зрителей уточняются.",
+      "date_status": "Не объявлено",
+      "checked": "2026-11-07",
+      "proof": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "status": "Идея",
+      "source": "https://www.usp.ac.fj/usp-stemp/news/usp-robocon-2027-campaign/",
+      "references": [
+        {
+          "url": "https://aburobocon2027.id/",
+          "label": "Правила и условия допуска"
+        }
+      ],
+      "age": "Университетские команды по регламенту ABU Robocon 2027.",
+      "mat": "Нет как участник. Университетский уровень.",
+      "osc": "Нет как участник. Университетский уровень.",
+      "format": "Университетские команды по регламенту ABU Robocon 2027.",
+      "entry": "Клуб University of the South Pacific готовит университетскую команду Фиджи к финалу ABU 2027. Тренировки относятся к членам клуба. Точный порядок местного отбора и доступ зрителей уточняются.",
+      "gear": "",
+      "language": "Язык конкретной группы или площадки уточнить.",
+      "language_certainty": "Язык конкретной группы или площадки уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Цена не опубликована.",
+      "level": "Университетский маршрут делегации",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Уточнить возрастной допуск, наличие места и точный режим доступа у организатора.",
+      "note": "Клуб University of the South Pacific готовит университетскую команду Фиджи к финалу ABU 2027. Тренировки относятся к членам клуба. Точный порядок местного отбора и доступ зрителей уточняются.",
+      "themes": [
+        "robotics",
+        "engineering"
+      ],
+      "scope": "national",
+      "importance_reason": "Региональный этап",
+      "participation": "team",
+      "admission_kind": "organization_route",
+      "evidence_level": "event_page",
+      "date_scope": "season_window"
+    },
+    {
+      "id": "C3200",
+      "block": "Соревнования",
+      "title": "Inutai · Concours robotique et codage · CM1–CM2 final 2026",
+      "country": "Французская Полинезия",
+      "region": "Океания",
+      "iso": [
+        "PYF"
+      ],
+      "city": "DGEE · Tutera’i Tāne · Tahiti",
+      "start": "2026-04-20",
+      "end": "2026-04-20",
+      "deadline": "",
+      "period": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-07",
+      "proof": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "status": "Идея",
+      "source": "https://tuic.education.pf/wp-content/uploads/2025/09/Cahier-des-charges-Concours-robotique-20252026.pdf",
+      "references": [
+        {
+          "url": "https://www.education.pf/semaine-du-numerique-a-lecole-2026/",
+          "label": "Правила и условия допуска"
+        },
+        {
+          "url": "https://inutai.nati.pf/index.html",
+          "label": "Правила и условия допуска"
+        }
+      ],
+      "age": "Школьные классы CM1–CM2 во Французской Полинезии.",
+      "mat": "Нет для закрытого школьного сезона 2026. Местный класс и новый сезон требуют отдельной проверки.",
+      "osc": "Нет для закрытого школьного сезона 2026. Местный класс и новый сезон требуют отдельной проверки.",
+      "format": "20 апреля 2026, 08:00–12:00. Три задачи Blue-Bot и одна задача Codabloc. Общая неделя цифровых проектов и отдельные школьные уровни имеют свои даты.",
+      "entry": "Финал для отобранных школьных команд. Таити и Муреа очно, другие острова дистанционно по правилам выпуска 2026.",
+      "gear": "Blue-Bot · Codabloc",
+      "language": "Язык конкретной группы или площадки уточнить.",
+      "language_certainty": "Язык конкретной группы или площадки уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Цена не опубликована.",
+      "level": "Региональный этап",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Уточнить возрастной допуск, наличие места и точный режим доступа у организатора.",
+      "note": "20 апреля 2026, 08:00–12:00. Три задачи Blue-Bot и одна задача Codabloc. Общая неделя цифровых проектов и отдельные школьные уровни имеют свои даты.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "regional",
+      "importance_reason": "Региональный этап",
+      "participation": "team",
+      "admission_kind": "qualifier",
+      "evidence_level": "event_page",
+      "date_scope": "competition",
+      "parent_event_id": "C905"
+    },
+    {
+      "id": "C3201",
+      "block": "Соревнования",
+      "title": "Inutai · Concours robotique et codage · prochain cycle",
+      "country": "Французская Полинезия",
+      "region": "Океания",
+      "iso": [
+        "PYF"
+      ],
+      "city": "Tahiti",
+      "start": "",
+      "end": "",
+      "deadline": "",
+      "period": "Отбор предыдущего сезона проходил через школы и Inutai. Регламент, даты и порядок допуска следующего сезона не опубликованы в проверенных источниках.",
+      "date_status": "Не объявлено",
+      "checked": "2026-11-07",
+      "proof": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "status": "Идея",
+      "source": "https://tuic.education.pf/concours-robotique-et-codage-cycle-3/",
+      "references": [
+        {
+          "url": "https://inutai.nati.pf/index.html",
+          "label": "Правила и условия допуска"
+        }
+      ],
+      "age": "Отбор предыдущего сезона проходил через школы и Inutai. Регламент, даты и порядок допуска следующего сезона не опубликованы в проверенных источниках.",
+      "mat": "Уточнить возрастной допуск, наличие места и точный режим доступа у организатора.",
+      "osc": "Уточнить возрастной допуск, наличие места и точный режим доступа у организатора.",
+      "format": "Отбор предыдущего сезона проходил через школы и Inutai. Регламент, даты и порядок допуска следующего сезона не опубликованы в проверенных источниках.",
+      "entry": "Отбор предыдущего сезона проходил через школы и Inutai. Регламент, даты и порядок допуска следующего сезона не опубликованы в проверенных источниках.",
+      "gear": "",
+      "language": "Язык конкретной группы или площадки уточнить.",
+      "language_certainty": "Язык конкретной группы или площадки уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Цена не опубликована.",
+      "level": "Региональный этап",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Уточнить возрастной допуск, наличие места и точный режим доступа у организатора.",
+      "note": "Отбор предыдущего сезона проходил через школы и Inutai. Регламент, даты и порядок допуска следующего сезона не опубликованы в проверенных источниках.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "regional",
+      "importance_reason": "Региональный этап",
+      "participation": "team",
+      "admission_kind": "school_only",
+      "evidence_level": "event_page",
+      "date_scope": "season_window"
+    },
+    {
+      "id": "E350",
+      "block": "События",
+      "title": "University of Guam · Tech Fest 2026",
+      "country": "Гуам",
+      "region": "Океания",
+      "iso": [
+        "GUM"
+      ],
+      "city": "UOG Computer Center · Mangilao",
+      "start": "2026-03-05",
+      "end": "2026-03-05",
+      "deadline": "",
+      "period": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-07",
+      "proof": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "status": "Идея",
+      "source": "https://www.uog.edu/charter-day/2026/schedule",
+      "references": [],
+      "age": "Архив 2026. Организатор объявлял Tech Fest с 10:00 до 15:00. Возрастные правила отдельных VR-зон на странице не указаны.",
+      "mat": "Уточнить возрастной допуск, наличие места и точный режим доступа у организатора.",
+      "osc": "Уточнить возрастной допуск, наличие места и точный режим доступа у организатора.",
+      "format": "Университетский Tech Fest с VR, симуляторами, игровой зоной и демонстрациями. Часы и возрастные правила следующего выпуска уточняются.",
+      "entry": "Архив 2026. Организатор объявлял Tech Fest с 10:00 до 15:00. Возрастные правила отдельных VR-зон на странице не указаны.",
+      "gear": "Университетский Tech Fest с VR, симуляторами, игровой зоной и демонстрациями. Часы и возрастные правила следующего выпуска уточняются.",
+      "language": "Язык конкретной группы или площадки уточнить.",
+      "language_certainty": "Язык конкретной группы или площадки уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Цена не опубликована.",
+      "level": "Семейная выставка или публичное мероприятие",
+      "reward": "",
+      "priority": "P3 — посещение по программе",
+      "action": "Уточнить возрастной допуск, наличие места и точный режим доступа у организатора.",
+      "note": "Архив 2026. Организатор объявлял Tech Fest с 10:00 до 15:00. Возрастные правила отдельных VR-зон на странице не указаны.",
+      "themes": [
+        "games",
+        "technology",
+        "science"
+      ],
+      "scope": "regional",
+      "importance_reason": "Региональный этап",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "exhibition_tier": "family_alternative",
+      "adult_entry": "Архив 2026. Организатор объявлял Tech Fest с 10:00 до 15:00. Возрастные правила отдельных VR-зон на странице не указаны.",
+      "visitor_policy": "confirm_children",
+      "visitor_policy_note": "Архив 2026. Организатор объявлял Tech Fest с 10:00 до 15:00. Возрастные правила отдельных VR-зон на странице не указаны.",
+      "exhibitor_note": "Университетский Tech Fest с VR, симуляторами, игровой зоной и демонстрациями. Часы и возрастные правила следующего выпуска уточняются.",
+      "exhibitor_directory_url": "https://www.uog.edu/charter-day/2026/schedule",
+      "highlights": [],
+      "exhibitors": []
+    },
+    {
+      "id": "E351",
+      "block": "События",
+      "title": "NASA Guam Space Grant · STEM Saturday · Discovering Drones",
+      "country": "Гуам",
+      "region": "Океания",
+      "iso": [
+        "GUM"
+      ],
+      "city": "University of Guam · Mangilao",
+      "start": "",
+      "end": "",
+      "deadline": "",
+      "period": "Заявка на мероприятие для группы учащихся через University of Guam. Минимальный возраст, стоимость и ближайшие публичные сессии не объявлены.",
+      "date_status": "Не объявлено",
+      "checked": "2026-11-07",
+      "proof": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "status": "Идея",
+      "source": "https://www.uog.edu/nasa-guam-space-grant/stem-saturday",
+      "references": [],
+      "age": "Заявка на мероприятие для группы учащихся через University of Guam. Минимальный возраст, стоимость и ближайшие публичные сессии не объявлены.",
+      "mat": "Уточнить возрастной допуск, наличие места и точный режим доступа у организатора.",
+      "osc": "Уточнить возрастной допуск, наличие места и точный режим доступа у организатора.",
+      "format": "Практические занятия NASA Guam Space Grant. Модуль Discovering Drones включает основы полёта и блочное программирование.",
+      "entry": "Заявка на мероприятие для группы учащихся через University of Guam. Минимальный возраст, стоимость и ближайшие публичные сессии не объявлены.",
+      "gear": "Практические занятия NASA Guam Space Grant. Модуль Discovering Drones включает основы полёта и блочное программирование.",
+      "language": "Язык конкретной группы или площадки уточнить.",
+      "language_certainty": "Язык конкретной группы или площадки уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Цена не опубликована.",
+      "level": "Семейная выставка или публичное мероприятие",
+      "reward": "",
+      "priority": "P3 — посещение по программе",
+      "action": "Уточнить возрастной допуск, наличие места и точный режим доступа у организатора.",
+      "note": "Заявка на мероприятие для группы учащихся через University of Guam. Минимальный возраст, стоимость и ближайшие публичные сессии не объявлены.",
+      "themes": [
+        "drones",
+        "coding",
+        "science"
+      ],
+      "scope": "local",
+      "importance_reason": "Региональный этап",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "season_window",
+      "exhibition_tier": "family_alternative",
+      "adult_entry": "Заявка на мероприятие для группы учащихся через University of Guam. Минимальный возраст, стоимость и ближайшие публичные сессии не объявлены.",
+      "visitor_policy": "confirm_children",
+      "visitor_policy_note": "Заявка на мероприятие для группы учащихся через University of Guam. Минимальный возраст, стоимость и ближайшие публичные сессии не объявлены.",
+      "exhibitor_note": "Практические занятия NASA Guam Space Grant. Модуль Discovering Drones включает основы полёта и блочное программирование.",
+      "exhibitor_directory_url": "https://www.uog.edu/nasa-guam-space-grant/stem-saturday",
+      "highlights": [],
+      "exhibitors": []
+    },
+    {
+      "id": "E352",
+      "block": "События",
+      "title": "Fête de la science · Nārama · Polynésie française 2026",
+      "country": "Французская Полинезия",
+      "region": "Океания",
+      "iso": [
+        "PYF"
+      ],
+      "city": "Tahiti · Moorea",
+      "start": "2026-10-02",
+      "end": "2026-10-16",
+      "deadline": "",
+      "period": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-07",
+      "proof": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "status": "Идея",
+      "source": "https://forco.upf.pf/fr/actualites/35eme-edition-de-la-fete-de-la-science-appel-participation",
+      "references": [],
+      "age": "Научные и технологические мероприятия на нескольких островах. В архиве опубликовано общее окно. Условия для детей и цена зависят от конкретной площадки.",
+      "mat": "Уточнить возрастной допуск, наличие места и точный режим доступа у организатора.",
+      "osc": "Уточнить возрастной допуск, наличие места и точный режим доступа у организатора.",
+      "format": "Научные и технологические мероприятия на нескольких островах. В архиве опубликовано общее окно. Условия для детей и цена зависят от конкретной площадки.",
+      "entry": "Научные и технологические мероприятия на нескольких островах. В архиве опубликовано общее окно. Условия для детей и цена зависят от конкретной площадки.",
+      "gear": "Научные и технологические мероприятия на нескольких островах. В архиве опубликовано общее окно. Условия для детей и цена зависят от конкретной площадки.",
+      "language": "Язык конкретной группы или площадки уточнить.",
+      "language_certainty": "Язык конкретной группы или площадки уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Цена не опубликована.",
+      "level": "Семейная выставка или публичное мероприятие",
+      "reward": "",
+      "priority": "P3 — посещение по программе",
+      "action": "Уточнить возрастной допуск, наличие места и точный режим доступа у организатора.",
+      "note": "Научные и технологические мероприятия на нескольких островах. В архиве опубликовано общее окно. Условия для детей и цена зависят от конкретной площадки.",
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Региональный этап",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "exhibition_tier": "family_alternative",
+      "adult_entry": "Научные и технологические мероприятия на нескольких островах. В архиве опубликовано общее окно. Условия для детей и цена зависят от конкретной площадки.",
+      "visitor_policy": "confirm_children",
+      "visitor_policy_note": "Научные и технологические мероприятия на нескольких островах. В архиве опубликовано общее окно. Условия для детей и цена зависят от конкретной площадки.",
+      "exhibitor_note": "Научные и технологические мероприятия на нескольких островах. В архиве опубликовано общее окно. Условия для детей и цена зависят от конкретной площадки.",
+      "exhibitor_directory_url": "https://forco.upf.pf/fr/actualites/35eme-edition-de-la-fete-de-la-science-appel-participation",
       "highlights": [],
       "exhibitors": []
     },
@@ -499003,6 +499472,123 @@
       }
     },
     {
+      "id": "CP1687-20261214-20261218",
+      "block": "Лагеря",
+      "title": "PolyKids · Unity Tahiti · Unity · game design & AI · 2026-12-14–2026-12-18",
+      "country": "Французская Полинезия",
+      "region": "Океания",
+      "city": "Tahiti Coworking · 27 Rue Colette · Papeete",
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "period": "5 учебных дней, 08:00–12:00 по времени Таити.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "От 9 лет. Верхняя граница 16–17 лет требует подтверждения.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Дневная программа без проживания.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "За 5 дней дети делают игру в Unity, создают 2D и 3D графику, знакомятся с ИИ для идей, визуально программируют и показывают результат.",
+      "language": "Язык преподавания конкретной группы пока не подтверждён.",
+      "cost": "2026/27 · XPF 38000 за 5 утренних занятий. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора.; На странице Unity указан возраст 9–17 лет, в FAQ 9–16. Численность группы и правила возврата подтвердить перед оплатой.",
+      "source": "https://polykids.pf/camp-jeu-video",
+      "references": [
+        {
+          "url": "https://polykids.pf/camp-jeu-video",
+          "label": "Официальная страница организатора"
+        },
+        {
+          "url": "https://polykids.pf/nous-trouver",
+          "label": "Официальная страница организатора"
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "Матвей: По возрасту подходит. Подтвердить место и язык занятия. Оскар: Нет сейчас. Модуль рассчитан на детей от 9 лет. Доплаты: Цена не опубликована. Оплата: Подтвердить место, язык конкретной группы, оплату и возврат у организатора.",
+      "iso": [
+        "PYF"
+      ],
+      "themes": [
+        "games",
+        "ai",
+        "coding",
+        "design"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык преподавания конкретной группы пока не подтверждён.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "polykids-tahiti-unity-dec2026",
+      "camp_programme_id": "CP1687",
+      "sessions": [
+        {
+          "date": "2026-12-14",
+          "topic": "За 5 дней дети делают игру в Unity, создают 2D и 3D графику, знакомятся с ИИ для идей, визуально программируют и показывают результат.",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "Pacific/Tahiti",
+          "ical_timed": true,
+          "start_utc": "2026-12-14T18:00:00Z",
+          "end_utc": "2026-12-14T22:00:00Z"
+        },
+        {
+          "date": "2026-12-15",
+          "topic": "За 5 дней дети делают игру в Unity, создают 2D и 3D графику, знакомятся с ИИ для идей, визуально программируют и показывают результат.",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "Pacific/Tahiti",
+          "ical_timed": true,
+          "start_utc": "2026-12-15T18:00:00Z",
+          "end_utc": "2026-12-15T22:00:00Z"
+        },
+        {
+          "date": "2026-12-16",
+          "topic": "За 5 дней дети делают игру в Unity, создают 2D и 3D графику, знакомятся с ИИ для идей, визуально программируют и показывают результат.",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "Pacific/Tahiti",
+          "ical_timed": true,
+          "start_utc": "2026-12-16T18:00:00Z",
+          "end_utc": "2026-12-16T22:00:00Z"
+        },
+        {
+          "date": "2026-12-17",
+          "topic": "За 5 дней дети делают игру в Unity, создают 2D и 3D графику, знакомятся с ИИ для идей, визуально программируют и показывают результат.",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "Pacific/Tahiti",
+          "ical_timed": true,
+          "start_utc": "2026-12-17T18:00:00Z",
+          "end_utc": "2026-12-17T22:00:00Z"
+        },
+        {
+          "date": "2026-12-18",
+          "topic": "За 5 дней дети делают игру в Unity, создают 2D и 3D графику, знакомятся с ИИ для идей, визуально программируют и показывают результат.",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "Pacific/Tahiti",
+          "ical_timed": true,
+          "start_utc": "2026-12-18T18:00:00Z",
+          "end_utc": "2026-12-18T22:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      }
+    },
+    {
       "id": "TC2027-SHOWCASE",
       "block": "События",
       "title": "The Tech Challenge 2027 · Game On! · показ инженерных проектов",
@@ -536352,7 +536938,8 @@
       "network_route_ids": [
         "NR-WRO-DOM",
         "NR-FLL-DOM-general",
-        "NR-BEBRAS-DOM"
+        "NR-BEBRAS-DOM",
+        "NR-FGC-DOM-2026"
       ],
       "wro_checked": "2026-11-05",
       "wro_directory_status": "listed"
@@ -536625,7 +537212,8 @@
       "network_route_ids": [
         "NR-WRO-CRI",
         "NR-FLL-CRI-general",
-        "NR-BEBRAS-CRI"
+        "NR-BEBRAS-CRI",
+        "NR-FGC-CRI-2026"
       ],
       "wro_checked": "2026-11-05",
       "wro_directory_status": "listed"
@@ -536693,7 +537281,8 @@
       "network_route_ids": [
         "NR-WRO-MEX",
         "NR-FLL-MEX-general",
-        "NR-BEBRAS-MEX"
+        "NR-BEBRAS-MEX",
+        "NR-FGC-MEX-2026"
       ],
       "wro_checked": "2026-11-05",
       "wro_directory_status": "listed"
@@ -538873,7 +539462,9 @@
       "coverage": "Частично: есть записи; полный местный аудит не завершён",
       "note": "Проверить иностранный школьный допуск, резидентство, возраст, язык, квоту; гражданство México не даёт общего права заявляться везде.",
       "source": "https://wro-association.org/about-wro/association/member-countries/ ; https://unstats.un.org/unsd/methodology/m49/",
-      "network_route_ids": [],
+      "network_route_ids": [
+        "NR-FGC-FJI-2026"
+      ],
       "wro_checked": "2026-11-05",
       "wro_directory_status": "not_listed"
     },
@@ -538901,7 +539492,9 @@
       "coverage": "Местный календарь ещё не исследован",
       "note": "Проверить иностранный школьный допуск, резидентство, возраст, язык, квоту; гражданство México не даёт общего права заявляться везде.",
       "source": "https://wro-association.org/about-wro/association/member-countries/ ; https://unstats.un.org/unsd/methodology/m49/",
-      "network_route_ids": [],
+      "network_route_ids": [
+        "NR-FGC-PNG-2026"
+      ],
       "wro_checked": "2026-11-05",
       "wro_directory_status": "not_listed"
     },
@@ -538915,7 +539508,9 @@
       "coverage": "Местный календарь ещё не исследован",
       "note": "Проверить иностранный школьный допуск, резидентство, возраст, язык, квоту; гражданство México не даёт общего права заявляться везде.",
       "source": "https://wro-association.org/about-wro/association/member-countries/ ; https://unstats.un.org/unsd/methodology/m49/",
-      "network_route_ids": [],
+      "network_route_ids": [
+        "NR-FGC-SLB-2026"
+      ],
       "wro_checked": "2026-11-05",
       "wro_directory_status": "not_listed"
     },
@@ -538929,7 +539524,9 @@
       "coverage": "Местный календарь ещё не исследован",
       "note": "Проверить иностранный школьный допуск, резидентство, возраст, язык, квоту; гражданство México не даёт общего права заявляться везде.",
       "source": "https://wro-association.org/about-wro/association/member-countries/ ; https://unstats.un.org/unsd/methodology/m49/",
-      "network_route_ids": [],
+      "network_route_ids": [
+        "NR-FGC-VUT-2026"
+      ],
       "wro_checked": "2026-11-05",
       "wro_directory_status": "not_listed"
     },
@@ -538940,10 +539537,12 @@
       "iso": "GUM",
       "wro": "Не найден в проверенном справочнике WRO; другие лиги исследуются отдельно",
       "url": "",
-      "coverage": "Местный календарь ещё не исследован",
+      "coverage": "Частично: есть записи; полный местный аудит не завершён",
       "note": "Проверить иностранный школьный допуск, резидентство, возраст, язык, квоту; гражданство México не даёт общего права заявляться везде.",
       "source": "https://wro-association.org/about-wro/association/member-countries/ ; https://unstats.un.org/unsd/methodology/m49/",
-      "network_route_ids": [],
+      "network_route_ids": [
+        "NR-FGC-GUM-2026"
+      ],
       "wro_checked": "2026-11-05",
       "wro_directory_status": "not_listed"
     },
@@ -538957,7 +539556,9 @@
       "coverage": "Местный календарь ещё не исследован",
       "note": "Проверить иностранный школьный допуск, резидентство, возраст, язык, квоту; гражданство México не даёт общего права заявляться везде.",
       "source": "https://wro-association.org/about-wro/association/member-countries/ ; https://unstats.un.org/unsd/methodology/m49/",
-      "network_route_ids": [],
+      "network_route_ids": [
+        "NR-FGC-KIR-2026"
+      ],
       "wro_checked": "2026-11-05",
       "wro_directory_status": "not_listed"
     },
@@ -538971,7 +539572,9 @@
       "coverage": "Местный календарь ещё не исследован",
       "note": "Проверить иностранный школьный допуск, резидентство, возраст, язык, квоту; гражданство México не даёт общего права заявляться везде.",
       "source": "https://wro-association.org/about-wro/association/member-countries/ ; https://unstats.un.org/unsd/methodology/m49/",
-      "network_route_ids": [],
+      "network_route_ids": [
+        "NR-FGC-MHL-2026"
+      ],
       "wro_checked": "2026-11-05",
       "wro_directory_status": "not_listed"
     },
@@ -538985,7 +539588,9 @@
       "coverage": "Местный календарь ещё не исследован",
       "note": "Проверить иностранный школьный допуск, резидентство, возраст, язык, квоту; гражданство México не даёт общего права заявляться везде.",
       "source": "https://wro-association.org/about-wro/association/member-countries/ ; https://unstats.un.org/unsd/methodology/m49/",
-      "network_route_ids": [],
+      "network_route_ids": [
+        "NR-FGC-FSM-2026"
+      ],
       "wro_checked": "2026-11-05",
       "wro_directory_status": "not_listed"
     },
@@ -539055,7 +539660,9 @@
       "coverage": "Частично: есть записи; полный местный аудит не завершён",
       "note": "Проверить иностранный школьный допуск, резидентство, возраст, язык, квоту; гражданство México не даёт общего права заявляться везде.",
       "source": "https://wro-association.org/about-wro/association/member-countries/ ; https://unstats.un.org/unsd/methodology/m49/",
-      "network_route_ids": [],
+      "network_route_ids": [
+        "NR-FGC-ASM-2026"
+      ],
       "wro_checked": "2026-11-05",
       "wro_directory_status": "not_listed"
     },
@@ -539153,7 +539760,9 @@
       "coverage": "Местный календарь ещё не исследован",
       "note": "Проверить иностранный школьный допуск, резидентство, возраст, язык, квоту; гражданство México не даёт общего права заявляться везде.",
       "source": "https://wro-association.org/about-wro/association/member-countries/ ; https://unstats.un.org/unsd/methodology/m49/",
-      "network_route_ids": [],
+      "network_route_ids": [
+        "NR-FGC-TON-2026"
+      ],
       "wro_checked": "2026-11-05",
       "wro_directory_status": "not_listed"
     },
@@ -541696,7 +542305,7 @@
       "checked": "2026-09-29"
     }
   ],
-  "source_count": 6464,
+  "source_count": 6501,
   "sources": [
     {
       "url": "https://www.torneoluva.com",
@@ -580373,6 +580982,228 @@
       "title": "Официальная страница организатора",
       "checked": "2026-11-07",
       "evidence": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно."
+    },
+    {
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Todas-las-noticias/Madrid-acogera-en-2027-FIRST-Global-la-olimpiada-internacional-de-robotica-juvenil/?vgnextchannel=e40362215c483510VgnVCM2000001f4a900aRCRD&vgnextfmt=default&vgnextoid=8da434e133531a10VgnVCM100000891ecb1aRCRD",
+      "title": "Официальная страница организатора",
+      "checked": "2026-11-07",
+      "evidence": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно."
+    },
+    {
+      "url": "https://first.global/press-releases/a-world-united-in-incheon-2026-first-global-challenge-concludes-as-champions-are-crowned-and-madrid-revealed-as-2027-host/",
+      "title": "Официальная страница организатора",
+      "checked": "2026-11-07",
+      "evidence": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно."
+    },
+    {
+      "url": "https://aburobocon2027.id/",
+      "title": "Правила и условия допуска",
+      "checked": "2026-11-07",
+      "evidence": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно."
+    },
+    {
+      "url": "https://aburobocon2027.id/rulebook/",
+      "title": "Официальная страница организатора",
+      "checked": "2026-11-07",
+      "evidence": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно."
+    },
+    {
+      "url": "https://www.usp.ac.fj/usp-stemp/news/usp-robocon-2027-campaign/",
+      "title": "Официальная страница организатора",
+      "checked": "2026-11-07",
+      "evidence": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно."
+    },
+    {
+      "url": "https://tuic.education.pf/wp-content/uploads/2025/09/Cahier-des-charges-Concours-robotique-20252026.pdf",
+      "title": "Официальная страница организатора",
+      "checked": "2026-11-07",
+      "evidence": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно."
+    },
+    {
+      "url": "https://www.education.pf/semaine-du-numerique-a-lecole-2026/",
+      "title": "Правила и условия допуска",
+      "checked": "2026-11-07",
+      "evidence": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно."
+    },
+    {
+      "url": "https://tuic.education.pf/concours-robotique-et-codage-cycle-3/",
+      "title": "Официальная страница организатора",
+      "checked": "2026-11-07",
+      "evidence": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно."
+    },
+    {
+      "url": "https://www.uog.edu/charter-day/2026/schedule",
+      "title": "Официальная страница организатора",
+      "checked": "2026-11-07",
+      "evidence": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно."
+    },
+    {
+      "url": "https://www.uog.edu/nasa-guam-space-grant/stem-saturday",
+      "title": "Официальная страница организатора",
+      "checked": "2026-11-07",
+      "evidence": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно."
+    },
+    {
+      "url": "https://forco.upf.pf/fr/actualites/35eme-edition-de-la-fete-de-la-science-appel-participation",
+      "title": "Официальная страница организатора",
+      "checked": "2026-11-07",
+      "evidence": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно."
+    },
+    {
+      "url": "https://polykids.pf/camp-jeu-video",
+      "title": "Официальная страница организатора",
+      "checked": "2026-11-07",
+      "evidence": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно."
+    },
+    {
+      "url": "https://polykids.pf/nous-trouver",
+      "title": "Официальная страница организатора",
+      "checked": "2026-11-07",
+      "evidence": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно."
+    },
+    {
+      "url": "https://polykids.pf/stage-roblox-studio-tahiti",
+      "title": "Официальная страница организатора",
+      "checked": "2026-11-07",
+      "evidence": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно."
+    },
+    {
+      "url": "https://polykids.pf/stages-vacances-creation-de-jeu-video-a-moorea",
+      "title": "Официальная страница организатора",
+      "checked": "2026-11-07",
+      "evidence": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно."
+    },
+    {
+      "url": "https://polykids.pf/",
+      "title": "Официальная страница организатора",
+      "checked": "2026-11-07",
+      "evidence": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно."
+    },
+    {
+      "url": "https://bricks4kidz.fr/nouvelle-caledonie/nos-activites/stage-vacances/",
+      "title": "Официальная страница организатора",
+      "checked": "2026-11-07",
+      "evidence": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно."
+    },
+    {
+      "url": "https://bricks4kidz.fr/nouvelle-caledonie/nos-activites/robotique/",
+      "title": "Официальная страница организатора",
+      "checked": "2026-11-07",
+      "evidence": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно."
+    },
+    {
+      "url": "https://bricks4kidz.fr/nouvelle-caledonie/nos-activites/ateliers-lego/",
+      "title": "Официальная страница организатора",
+      "checked": "2026-11-07",
+      "evidence": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно."
+    },
+    {
+      "url": "https://kids.nc/listing/bricks-4-kidz-nc/",
+      "title": "Официальная страница организатора",
+      "checked": "2026-11-07",
+      "evidence": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно."
+    },
+    {
+      "url": "https://chooron.ai/educationContent_en/camp.php",
+      "title": "Официальная страница организатора",
+      "checked": "2026-11-07",
+      "evidence": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно."
+    },
+    {
+      "url": "https://first.global/2026-nations/fiji-2026/",
+      "title": "Официальная страница организатора",
+      "checked": "2026-11-07",
+      "evidence": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно."
+    },
+    {
+      "url": "https://www.usp.ac.fj/sustainabilityefforts/news/fijis-bulabots-take-stem-learning-beyond-the-classroom/",
+      "title": "Официальная страница организатора",
+      "checked": "2026-11-07",
+      "evidence": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно."
+    },
+    {
+      "url": "https://first.global/2026-nations/guam-2026/",
+      "title": "Официальная страница организатора",
+      "checked": "2026-11-07",
+      "evidence": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно."
+    },
+    {
+      "url": "https://first.global/2026-nations/tonga-2026/",
+      "title": "Официальная страница организатора",
+      "checked": "2026-11-07",
+      "evidence": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно."
+    },
+    {
+      "url": "https://first.global/2026-nations/vanuatu-2026/",
+      "title": "Официальная страница организатора",
+      "checked": "2026-11-07",
+      "evidence": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно."
+    },
+    {
+      "url": "https://first.global/2026-nations/solomon-islands-2026/",
+      "title": "Официальная страница организатора",
+      "checked": "2026-11-07",
+      "evidence": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно."
+    },
+    {
+      "url": "https://first.global/2026-nations/papua-new-guinea-2026/",
+      "title": "Официальная страница организатора",
+      "checked": "2026-11-07",
+      "evidence": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно."
+    },
+    {
+      "url": "https://first.global/2026-nations/micronesia-2026/",
+      "title": "Официальная страница организатора",
+      "checked": "2026-11-07",
+      "evidence": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно."
+    },
+    {
+      "url": "https://first.global/2026-nations/marshall-islands-2026/",
+      "title": "Официальная страница организатора",
+      "checked": "2026-11-07",
+      "evidence": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно."
+    },
+    {
+      "url": "https://first.global/2026-nations/kiribati-2026/",
+      "title": "Официальная страница организатора",
+      "checked": "2026-11-07",
+      "evidence": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно."
+    },
+    {
+      "url": "https://first.global/2026-nations/american-samoa-2026/",
+      "title": "Официальная страница организатора",
+      "checked": "2026-11-07",
+      "evidence": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно."
+    },
+    {
+      "url": "https://first.global/2026-nations/costa-rica-2026/",
+      "title": "Официальная страница организатора",
+      "checked": "2026-11-07",
+      "evidence": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно."
+    },
+    {
+      "url": "https://first.global/2026-nations/mexico-2026/",
+      "title": "Официальная страница организатора",
+      "checked": "2026-11-07",
+      "evidence": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно."
+    },
+    {
+      "url": "https://first.global/2026-nations/dominican-republic-2026/",
+      "title": "Официальная страница организатора",
+      "checked": "2026-11-07",
+      "evidence": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно."
+    },
+    {
+      "url": "https://firstglobaldo.com/Postulaciones.dc.html",
+      "title": "Официальная страница организатора",
+      "checked": "2026-11-07",
+      "evidence": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно."
+    },
+    {
+      "url": "https://first.global/category/2026-nations/",
+      "title": "Официальная страница организатора",
+      "checked": "2026-11-07",
+      "evidence": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно."
     }
   ],
   "wro_members": 108,
@@ -582566,7 +583397,7 @@
       "dated": 2,
       "organizer": "Fundacion STEAM RD",
       "organizer_url": "https://fundacionsteamrd.org",
-      "network_routes": 3,
+      "network_routes": 4,
       "wro_directory_checked": "2026-11-05"
     },
     {
@@ -582818,7 +583649,7 @@
       "dated": 88,
       "organizer": "Aprender Haciendo Costa Rica S.A.",
       "organizer_url": "https://www.facebook.com/wrocostarica",
-      "network_routes": 3,
+      "network_routes": 4,
       "wro_directory_checked": "2026-11-05"
     },
     {
@@ -582874,7 +583705,7 @@
       "dated": 163,
       "organizer": "WRO Mexico / FUNDESTEAM México",
       "organizer_url": "https://wromexico.org/",
-      "network_routes": 3,
+      "network_routes": 4,
       "wro_directory_checked": "2026-11-05"
     },
     {
@@ -583414,10 +584245,10 @@
       "country": "Индонезия",
       "region": "Азия",
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
-      "competitions": 12,
+      "competitions": 13,
       "exhibitions": 4,
       "camps": 48,
-      "dated": 48,
+      "dated": 49,
       "organizer": "Institut Teknologi Sepuluh Nopember (ITS) - Department of Electrical Automation Engineering, Vocational Faculty",
       "organizer_url": "http://wroindonesia.org/",
       "network_routes": 2,
@@ -584492,10 +585323,10 @@
       "country": "Испания",
       "region": "Европа",
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
-      "competitions": 22,
-      "exhibitions": 17,
+      "competitions": 23,
+      "exhibitions": 18,
       "camps": 259,
-      "dated": 238,
+      "dated": 240,
       "organizer": "Fundació educaBOT",
       "organizer_url": "https://www.wroboto.es/",
       "network_routes": 3,
@@ -584716,13 +585547,13 @@
       "country": "Фиджи",
       "region": "Океания",
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
-      "competitions": 0,
+      "competitions": 1,
       "exhibitions": 0,
       "camps": 1,
       "dated": 0,
       "organizer": "Не найден в проверенном справочнике WRO; другие лиги исследуются отдельно",
       "organizer_url": "",
-      "network_routes": 0,
+      "network_routes": 1,
       "wro_directory_checked": "2026-11-05"
     },
     {
@@ -584750,7 +585581,7 @@
       "dated": 0,
       "organizer": "Не найден в проверенном справочнике WRO; другие лиги исследуются отдельно",
       "organizer_url": "",
-      "network_routes": 0,
+      "network_routes": 1,
       "wro_directory_checked": "2026-11-05"
     },
     {
@@ -584764,7 +585595,7 @@
       "dated": 0,
       "organizer": "Не найден в проверенном справочнике WRO; другие лиги исследуются отдельно",
       "organizer_url": "",
-      "network_routes": 0,
+      "network_routes": 1,
       "wro_directory_checked": "2026-11-05"
     },
     {
@@ -584778,21 +585609,21 @@
       "dated": 0,
       "organizer": "Не найден в проверенном справочнике WRO; другие лиги исследуются отдельно",
       "organizer_url": "",
-      "network_routes": 0,
+      "network_routes": 1,
       "wro_directory_checked": "2026-11-05"
     },
     {
       "iso": "GUM",
       "country": "Гуам",
       "region": "Океания",
-      "research_status": "Местный календарь ещё не исследован",
+      "research_status": "Частично: есть записи; полный местный аудит не завершён",
       "competitions": 0,
-      "exhibitions": 0,
+      "exhibitions": 2,
       "camps": 0,
-      "dated": 0,
+      "dated": 1,
       "organizer": "Не найден в проверенном справочнике WRO; другие лиги исследуются отдельно",
       "organizer_url": "",
-      "network_routes": 0,
+      "network_routes": 1,
       "wro_directory_checked": "2026-11-05"
     },
     {
@@ -584806,7 +585637,7 @@
       "dated": 0,
       "organizer": "Не найден в проверенном справочнике WRO; другие лиги исследуются отдельно",
       "organizer_url": "",
-      "network_routes": 0,
+      "network_routes": 1,
       "wro_directory_checked": "2026-11-05"
     },
     {
@@ -584820,7 +585651,7 @@
       "dated": 0,
       "organizer": "Не найден в проверенном справочнике WRO; другие лиги исследуются отдельно",
       "organizer_url": "",
-      "network_routes": 0,
+      "network_routes": 1,
       "wro_directory_checked": "2026-11-05"
     },
     {
@@ -584834,7 +585665,7 @@
       "dated": 0,
       "organizer": "Не найден в проверенном справочнике WRO; другие лиги исследуются отдельно",
       "organizer_url": "",
-      "network_routes": 0,
+      "network_routes": 1,
       "wro_directory_checked": "2026-11-05"
     },
     {
@@ -584904,7 +585735,7 @@
       "dated": 1,
       "organizer": "Не найден в проверенном справочнике WRO; другие лиги исследуются отдельно",
       "organizer_url": "",
-      "network_routes": 0,
+      "network_routes": 1,
       "wro_directory_checked": "2026-11-05"
     },
     {
@@ -584926,10 +585757,10 @@
       "country": "Французская Полинезия",
       "region": "Океания",
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
-      "competitions": 1,
-      "exhibitions": 0,
-      "camps": 0,
-      "dated": 1,
+      "competitions": 3,
+      "exhibitions": 1,
+      "camps": 1,
+      "dated": 4,
       "organizer": "Не найден в проверенном справочнике WRO; другие лиги исследуются отдельно",
       "organizer_url": "",
       "network_routes": 0,
@@ -585002,7 +585833,7 @@
       "dated": 0,
       "organizer": "Не найден в проверенном справочнике WRO; другие лиги исследуются отдельно",
       "organizer_url": "",
-      "network_routes": 0,
+      "network_routes": 1,
       "wro_directory_checked": "2026-11-05"
     },
     {
@@ -585050,9 +585881,9 @@
   ],
   "coverage_summary": {
     "countries": 249,
-    "countries_with_records": 158,
+    "countries_with_records": 159,
     "fully_audited_countries": 0,
-    "unmapped_global_records": 121
+    "unmapped_global_records": 120
   },
   "methodology": {
     "scope": "Масштаб — редакционная оценка по источнику; международная сеть не делает каждый этап мировым финалом.",
@@ -591363,7 +592194,9 @@
         "event_ids": [
           "C762",
           "C839",
-          "C884"
+          "C884",
+          "C3198",
+          "E349"
         ],
         "legacy_ids": [],
         "route": "Школьная команда → национальный партнёр → выбор сборной → FIRST Global.",
@@ -591378,7 +592211,8 @@
         "nuances": [
           "FIRST Global и FIRST Championship имеют разные процедуры входа.",
           "Паспорт или проживание сами по себе не дают места в сборной.",
-          "Bolivia AGETIC описывает местные Tecnólogos / Inventores без возраста на этой странице. Мировая сборная 14–18 лет рассматривается отдельно от местного детского проекта."
+          "Bolivia AGETIC описывает местные Tecnólogos / Inventores без возраста на этой странице. Мировая сборная 14–18 лет рассматривается отдельно от местного детского проекта.",
+          "Мадрид, 20–23 октября 2027 по объявлению мэрии. Зрительские условия и правила сборной каждой страны проверяются отдельно."
         ],
         "cost": "Регистрация, техника, наставник и поездка зависят от этапа; бюджет семьи не рассчитан.",
         "award": "Официальный результат и награда выбранного этапа. Отбор, участие и победа учитываются отдельно.",
@@ -591397,6 +592231,16 @@
             "url": "https://www.gov.kz/memleket/entities/maidd/press/news/details/1279010?lang=ru",
             "title": "Казахстан · национальная сборная2026",
             "checked": "2026-10-01"
+          },
+          {
+            "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Todas-las-noticias/Madrid-acogera-en-2027-FIRST-Global-la-olimpiada-internacional-de-robotica-juvenil/?vgnextchannel=e40362215c483510VgnVCM2000001f4a900aRCRD&vgnextfmt=default&vgnextoid=8da434e133531a10VgnVCM100000891ecb1aRCRD",
+            "title": "Официальная страница организатора",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://first.global/press-releases/a-world-united-in-incheon-2026-first-global-challenge-concludes-as-champions-are-crowned-and-madrid-revealed-as-2027-host/",
+            "title": "Официальная страница организатора",
+            "checked": "2026-11-07"
           }
         ],
         "evidence": "Первичный источник прочитан 30.09.2026. Допуск семьи и национальное представительство не подтверждены."
@@ -592459,7 +593303,8 @@
           }
         ],
         "event_ids": [
-          "C772"
+          "C772",
+          "C3199"
         ],
         "legacy_ids": [],
         "route": "Университетская команда → национальный Robocon → представитель на ABU.",
@@ -592473,7 +593318,7 @@
         ],
         "nuances": [
           "Национальные Robocon и финал ABU — отдельные этапы.",
-          "Это дальняя университетская траектория; даты следующего сезона неизвестны."
+          "29 августа 2027 — соревновательный день. 27–31 августа — программа делегаций. Задача The Pursuit of Mustika Nusantara, роботы Transporter и Builder. Доступ зрителей и трансляцию подтвердить отдельно."
         ],
         "cost": "Регистрация, техника, наставник и поездка зависят от этапа; бюджет семьи не рассчитан.",
         "award": "Официальный результат и награда выбранного этапа. Отбор, участие и победа учитываются отдельно.",
@@ -592482,9 +593327,19 @@
             "title": "Отчёт организатора 2026",
             "url": "https://www.abu.org.my/news/hong-kong-hosts-abu-robocon-2026-as-young-innovators-take-on-kung-fu-quest/",
             "checked": "2026-09-30"
+          },
+          {
+            "url": "https://aburobocon2027.id/",
+            "title": "Официальная страница организатора",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://aburobocon2027.id/rulebook/",
+            "title": "Официальная страница организатора",
+            "checked": "2026-11-07"
           }
         ],
-        "evidence": "Первичный источник прочитан 30.09.2026. Допуск семьи и национальное представительство не подтверждены."
+        "evidence": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно."
       },
       {
         "id": "roboone",
@@ -610534,14 +611389,14 @@
       "fully_audited_countries": 0
     },
     "counts": {
-      "cards": 7672,
-      "competition_cards": 3196,
-      "event_cards": 348,
-      "camp_cards": 4128,
+      "cards": 7681,
+      "competition_cards": 3200,
+      "event_cards": 352,
+      "camp_cards": 4129,
       "league_profiles": 268,
-      "major_exhibition_cards": 260,
+      "major_exhibition_cards": 264,
       "vex_cards": 518,
-      "countries_with_records": 158,
+      "countries_with_records": 159,
       "fully_audited_countries": 0
     },
     "continents": [
@@ -610580,11 +611435,11 @@
         "regions": [
           "Европа"
         ],
-        "total": 1829,
+        "total": 1831,
         "countries_with_records": 42,
-        "competitions": 432,
-        "events": 99,
-        "major_exhibitions": 80,
+        "competitions": 433,
+        "events": 100,
+        "major_exhibitions": 81,
         "camps": 1298,
         "status": "Частично исследовано",
         "remaining": "CHE/ESP/FRA углублены повторно. Не закрыты все местные лиги, новые qualifiers 2027, преподавание на английском / испанском, иностранные квоты, текущие juniormentors и полные школьные протоколы 5–10 лет. Германия / Нидерланды / Бельгия: первый частичный проход; все местные клубы, языки, иностранные квоты и полные школьные результаты остаются открыты."
@@ -610608,9 +611463,9 @@
         "regions": [
           "Азия"
         ],
-        "total": 2287,
+        "total": 2288,
         "countries_with_records": 44,
-        "competitions": 777,
+        "competitions": 778,
         "events": 101,
         "major_exhibitions": 89,
         "camps": 1409,
@@ -610622,12 +611477,12 @@
         "regions": [
           "Океания"
         ],
-        "total": 278,
-        "countries_with_records": 5,
-        "competitions": 125,
-        "events": 20,
-        "major_exhibitions": 16,
-        "camps": 133,
+        "total": 285,
+        "countries_with_records": 6,
+        "competitions": 128,
+        "events": 23,
+        "major_exhibitions": 19,
+        "camps": 134,
         "status": "Частично исследовано",
         "remaining": "Добавлены Fiji tourist camp, NZ реальные учебные дни, Australian national game/video contests и закрытый школьный архив French Polynesia. Остаются языки / foreign admission лагерей, динамический RCJA calendar, другие острова и локальные турниры."
       }
@@ -613219,11 +614074,12 @@
         "event_ids": [
           "C762",
           "C839",
-          "C884"
+          "C884",
+          "C3198"
         ],
-        "cards": 3,
-        "future_dated": 0,
-        "linked_card_count": 3,
+        "cards": 4,
+        "future_dated": 1,
+        "linked_card_count": 5,
         "status": "Есть профиль и карточки; местный охват частичный",
         "source": "https://first.global/fgc/",
         "new": false
@@ -613454,11 +614310,12 @@
         "name": "ABU Robocon",
         "group": "advanced",
         "event_ids": [
-          "C772"
+          "C772",
+          "C3199"
         ],
-        "cards": 1,
-        "future_dated": 0,
-        "linked_card_count": 1,
+        "cards": 2,
+        "future_dated": 1,
+        "linked_card_count": 2,
         "status": "Есть профиль и карточки; местный охват частичный",
         "source": "https://www.abu.org.my/news/hong-kong-hosts-abu-robocon-2026-as-young-innovators-take-on-kung-fu-quest/",
         "new": false
@@ -620471,6 +621328,50 @@
         "new": false
       },
       {
+        "id": "E349",
+        "name": "FIRST Global Challenge 2027 · Madrid · spectators",
+        "country": "Испания",
+        "region": "Европа",
+        "start": "2027-10-20",
+        "end": "2027-10-23",
+        "visitor_policy": "confirm_children",
+        "source": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Todas-las-noticias/Madrid-acogera-en-2027-FIRST-Global-la-olimpiada-internacional-de-robotica-juvenil/?vgnextchannel=e40362215c483510VgnVCM2000001f4a900aRCRD&vgnextfmt=default&vgnextoid=8da434e133531a10VgnVCM100000891ecb1aRCRD",
+        "new": false
+      },
+      {
+        "id": "E350",
+        "name": "University of Guam · Tech Fest 2026",
+        "country": "Гуам",
+        "region": "Океания",
+        "start": "2026-03-05",
+        "end": "2026-03-05",
+        "visitor_policy": "confirm_children",
+        "source": "https://www.uog.edu/charter-day/2026/schedule",
+        "new": false
+      },
+      {
+        "id": "E351",
+        "name": "NASA Guam Space Grant · STEM Saturday · Discovering Drones",
+        "country": "Гуам",
+        "region": "Океания",
+        "start": "",
+        "end": "",
+        "visitor_policy": "confirm_children",
+        "source": "https://www.uog.edu/nasa-guam-space-grant/stem-saturday",
+        "new": false
+      },
+      {
+        "id": "E352",
+        "name": "Fête de la science · Nārama · Polynésie française 2026",
+        "country": "Французская Полинезия",
+        "region": "Океания",
+        "start": "2026-10-02",
+        "end": "2026-10-16",
+        "visitor_policy": "confirm_children",
+        "source": "https://forco.upf.pf/fr/actualites/35eme-edition-de-la-fete-de-la-science-appel-participation",
+        "new": false
+      },
+      {
         "id": "E240",
         "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
         "country": "Польша",
@@ -621851,7 +622752,7 @@
         "official_alternative": "https://www.ykpaoschool.cn/News-and-Events/New-Stories/988"
       }
     ],
-    "interregional_cards": 114,
+    "interregional_cards": 113,
     "promoted_exhibition_ids": [],
     "focused_country": {
       "country": "Тайвань",
@@ -622888,8 +623789,8 @@
         }
       ],
       "counts": {
-        "records": 4128,
-        "holiday": 3854,
+        "records": 4129,
+        "holiday": 3855,
         "regular": 120,
         "self_paced_materials": 2,
         "boarding": 1026,
@@ -622901,7 +623802,7 @@
         "language_lessons": 408,
         "camp_life_language": 228,
         "language_unclassified": 137,
-        "countries": 98
+        "countries": 99
       },
       "validation": {
         "version": 51,
@@ -625707,8 +626608,8 @@
       }
     ],
     "counts": {
-      "records": 4128,
-      "holiday": 3854,
+      "records": 4129,
+      "holiday": 3855,
       "regular": 120,
       "self_paced_materials": 2,
       "boarding": 1026,
@@ -625720,7 +626621,7 @@
       "language_lessons": 408,
       "camp_life_language": 228,
       "language_unclassified": 137,
-      "countries": 98
+      "countries": 99
     },
     "validation": {
       "version": 51,
@@ -651144,25 +652045,25 @@
       "school_grades_known": false
     },
     "counts": {
-      "dossiers": 1686,
-      "countries": 93,
+      "dossiers": 1692,
+      "countries": 97,
       "swiss": 137,
       "by_status": {
         "published_2026_27": 233,
         "published_2027": 477,
         "partial_2027": 133,
-        "next_unannounced": 345,
-        "published_2026": 296,
+        "next_unannounced": 348,
+        "published_2026": 297,
         "partial_2026_27": 28,
         "partial_2026": 20,
-        "archive_next_unannounced": 136,
-        "regular_programme": 10,
+        "archive_next_unannounced": 137,
+        "regular_programme": 11,
         "regular_2026_27": 2,
         "historical_2026_next_season_unknown": 1,
         "announced_dates_programme_pending": 4,
         "confirmed_2027": 1
       },
-      "source_urls": 2405
+      "source_urls": 2417
     },
     "countries": [
       {
@@ -651252,6 +652153,10 @@
       {
         "country": "Греция",
         "count": 3
+      },
+      {
+        "country": "Гуам",
+        "count": 1
       },
       {
         "country": "Дания",
@@ -651386,6 +652291,10 @@
         "count": 16
       },
       {
+        "country": "Новая Каледония",
+        "count": 1
+      },
+      {
         "country": "ОАЭ",
         "count": 2
       },
@@ -651470,6 +652379,10 @@
         "count": 3
       },
       {
+        "country": "Фиджи",
+        "count": 1
+      },
+      {
         "country": "Филиппины",
         "count": 9
       },
@@ -651480,6 +652393,10 @@
       {
         "country": "Франция",
         "count": 117
+      },
+      {
+        "country": "Французская Полинезия",
+        "count": 3
       },
       {
         "country": "Хорватия",
@@ -928567,6 +929484,551 @@
             ]
           }
         ]
+      },
+      {
+        "id": "CP1687",
+        "slug": "polykids-tahiti-unity-dec2026",
+        "provider": "PolyKids · Unity Tahiti",
+        "country": "Французская Полинезия",
+        "iso": "PYF",
+        "place": "Tahiti Coworking · 27 Rue Colette · Papeete",
+        "themes": [
+          "games",
+          "ai",
+          "coding",
+          "design"
+        ],
+        "formats": [
+          "day"
+        ],
+        "age": "От 9 лет. Верхняя граница 16–17 лет требует подтверждения.",
+        "language": "Язык преподавания конкретной группы пока не подтверждён.",
+        "confirmed_instruction_languages": [],
+        "programme": "За 5 дней дети делают игру в Unity, создают 2D и 3D графику, знакомятся с ИИ для идей, визуально программируют и показывают результат.",
+        "timing": {
+          "status": "published_2026",
+          "label": "5 учебных дней, 08:00–12:00 по времени Таити.",
+          "sessions": [
+            [
+              "2026-12-14",
+              "2026-12-18"
+            ]
+          ],
+          "session_details": [
+            {
+              "start": "2026-12-14",
+              "end": "2026-12-18",
+              "label": "Unity · game design & AI",
+              "source": "https://polykids.pf/camp-jeu-video",
+              "price": "XPF 38000 за 5 утренних занятий.",
+              "place": "Tahiti Coworking · 27 Rue Colette · Papeete",
+              "age": "От 9 лет. Верхняя граница 16–17 лет требует подтверждения.",
+              "family_fit": {
+                "matvey": {
+                  "status": "candidate",
+                  "detail": "По возрасту подходит. Подтвердить место и язык занятия."
+                },
+                "oscar": {
+                  "status": "later",
+                  "detail": "Нет сейчас. Модуль рассчитан на детей от 9 лет."
+                }
+              },
+              "date_scope": "session_days",
+              "sessions": [
+                {
+                  "date": "2026-12-14",
+                  "topic": "За 5 дней дети делают игру в Unity, создают 2D и 3D графику, знакомятся с ИИ для идей, визуально программируют и показывают результат.",
+                  "start_time": "08:00",
+                  "end_time": "12:00",
+                  "timezone": "Pacific/Tahiti",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2026-12-15",
+                  "topic": "За 5 дней дети делают игру в Unity, создают 2D и 3D графику, знакомятся с ИИ для идей, визуально программируют и показывают результат.",
+                  "start_time": "08:00",
+                  "end_time": "12:00",
+                  "timezone": "Pacific/Tahiti",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2026-12-16",
+                  "topic": "За 5 дней дети делают игру в Unity, создают 2D и 3D графику, знакомятся с ИИ для идей, визуально программируют и показывают результат.",
+                  "start_time": "08:00",
+                  "end_time": "12:00",
+                  "timezone": "Pacific/Tahiti",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2026-12-17",
+                  "topic": "За 5 дней дети делают игру в Unity, создают 2D и 3D графику, знакомятся с ИИ для идей, визуально программируют и показывают результат.",
+                  "start_time": "08:00",
+                  "end_time": "12:00",
+                  "timezone": "Pacific/Tahiti",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2026-12-18",
+                  "topic": "За 5 дней дети делают игру в Unity, создают 2D и 3D графику, знакомятся с ИИ для идей, визуально программируют и показывают результат.",
+                  "start_time": "08:00",
+                  "end_time": "12:00",
+                  "timezone": "Pacific/Tahiti",
+                  "ical_timed": true
+                }
+              ],
+              "availability": {
+                "status": "unconfirmed",
+                "label": "Уточнить наличие мест и допуск."
+              },
+              "questions": [
+                "Подтвердить место, язык конкретной группы, оплату и возврат у организатора.",
+                "На странице Unity указан возраст 9–17 лет, в FAQ 9–16. Численность группы и правила возврата подтвердить перед оплатой."
+              ]
+            }
+          ],
+          "precision": "published_sessions"
+        },
+        "price": {
+          "year": 2026,
+          "currency": "XPF",
+          "amount": 38000,
+          "unit": "per_child_course",
+          "label": "XPF 38000 за 5 утренних занятий.",
+          "included": "Оператор может предоставить компьютер, допустим и собственный ноутбук.",
+          "extras": "Цена не опубликована.",
+          "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+        },
+        "accommodation": "Дневная программа без проживания.",
+        "family_fit": {
+          "matvey": {
+            "status": "candidate",
+            "detail": "По возрасту подходит. Подтвердить место и язык занятия."
+          },
+          "oscar": {
+            "status": "later",
+            "detail": "Нет сейчас. Модуль рассчитан на детей от 9 лет."
+          }
+        },
+        "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+        "shortlist": [],
+        "questions": [
+          "Подтвердить место, язык конкретной группы, оплату и возврат у организатора.",
+          "На странице Unity указан возраст 9–17 лет, в FAQ 9–16. Численность группы и правила возврата подтвердить перед оплатой."
+        ],
+        "sources": [
+          {
+            "url": "https://polykids.pf/camp-jeu-video",
+            "title": "Официальная страница организатора",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://polykids.pf/nous-trouver",
+            "title": "Официальная страница организатора",
+            "checked": "2026-11-07"
+          }
+        ],
+        "checked": "2026-11-07",
+        "availability": {
+          "status": "unconfirmed",
+          "label": "Уточнить наличие мест и допуск."
+        },
+        "programme_type": "holiday_workshop",
+        "catalog_participation": "holiday_workshop",
+        "related_event_ids": [],
+        "calendar_links": [
+          {
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "kind": "catalogue_session",
+            "event_ids": [
+              "CP1687-20261214-20261218"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "CP1688",
+        "slug": "polykids-tahiti-roblox",
+        "provider": "PolyKids · Roblox Studio Tahiti",
+        "country": "Французская Полинезия",
+        "iso": "PYF",
+        "place": "Tahiti Coworking · 27 Rue Colette · Papeete",
+        "themes": [
+          "games",
+          "coding",
+          "design"
+        ],
+        "formats": [
+          "day"
+        ],
+        "age": "От 9 лет. Верхняя граница 16–17 лет требует подтверждения.",
+        "language": "Язык преподавания конкретной группы пока не подтверждён.",
+        "confirmed_instruction_languages": [],
+        "programme": "Создание игр, уровней и сценариев Lua в Roblox Studio. Следующий набор без даты.",
+        "timing": {
+          "status": "next_unannounced",
+          "label": "Создание игр, уровней и сценариев Lua в Roblox Studio. Следующий набор без даты.",
+          "sessions": [],
+          "session_details": [],
+          "precision": "published_sessions"
+        },
+        "price": {
+          "year": 2026,
+          "currency": "XPF",
+          "amount": null,
+          "unit": "course",
+          "label": "На странице указан XPF 38000. Тариф следующей смены подтвердить.",
+          "included": "Оператор может предоставить компьютер, допустим и собственный ноутбук.",
+          "extras": "Цена не опубликована.",
+          "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+        },
+        "accommodation": "Дневная программа без проживания.",
+        "family_fit": {
+          "matvey": {
+            "status": "candidate",
+            "detail": "По возрасту подходит. Подтвердить место и язык занятия."
+          },
+          "oscar": {
+            "status": "later",
+            "detail": "Нет сейчас. Модуль рассчитан на детей от 9 лет."
+          }
+        },
+        "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+        "shortlist": [],
+        "questions": [
+          "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+        ],
+        "sources": [
+          {
+            "url": "https://polykids.pf/stage-roblox-studio-tahiti",
+            "title": "Официальная страница организатора",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://polykids.pf/nous-trouver",
+            "title": "Официальная страница организатора",
+            "checked": "2026-11-07"
+          }
+        ],
+        "checked": "2026-11-07",
+        "availability": {
+          "status": "unconfirmed",
+          "label": "Уточнить наличие мест и допуск."
+        },
+        "programme_type": "holiday_workshop",
+        "catalog_participation": "holiday_workshop",
+        "related_event_ids": [],
+        "calendar_links": []
+      },
+      {
+        "id": "CP1689",
+        "slug": "polykids-moorea-unity",
+        "provider": "PolyKids · Unity Moorea",
+        "country": "Французская Полинезия",
+        "iso": "PYF",
+        "place": "Teavaro · Moorea",
+        "themes": [
+          "games",
+          "ai",
+          "coding",
+          "design"
+        ],
+        "formats": [
+          "day"
+        ],
+        "age": "От 9 лет. Верхняя граница 16–17 лет требует подтверждения.",
+        "language": "Язык преподавания конкретной группы пока не подтверждён.",
+        "confirmed_instruction_languages": [],
+        "programme": "За 5 дней дети делают игру в Unity, создают 2D и 3D графику, знакомятся с ИИ для идей, визуально программируют и показывают результат.",
+        "timing": {
+          "status": "archive_next_unannounced",
+          "label": "Последняя объявленная смена завершилась 6 ноября 2026. Новые даты не опубликованы.",
+          "sessions": [],
+          "session_details": [],
+          "precision": "published_sessions"
+        },
+        "price": {
+          "year": 2026,
+          "currency": "XPF",
+          "amount": null,
+          "unit": "course",
+          "label": "XPF 38000 за прошедшую смену. Будущий тариф уточнить.",
+          "included": "Оператор может предоставить компьютер, допустим и собственный ноутбук.",
+          "extras": "Цена не опубликована.",
+          "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+        },
+        "accommodation": "Дневная программа без проживания.",
+        "family_fit": {
+          "matvey": {
+            "status": "candidate",
+            "detail": "По возрасту подходит. Подтвердить место и язык занятия."
+          },
+          "oscar": {
+            "status": "later",
+            "detail": "Нет сейчас. Модуль рассчитан на детей от 9 лет."
+          }
+        },
+        "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+        "shortlist": [],
+        "questions": [
+          "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+        ],
+        "sources": [
+          {
+            "url": "https://polykids.pf/stages-vacances-creation-de-jeu-video-a-moorea",
+            "title": "Официальная страница организатора",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://polykids.pf/",
+            "title": "Официальная страница организатора",
+            "checked": "2026-11-07"
+          }
+        ],
+        "checked": "2026-11-07",
+        "availability": {
+          "status": "unconfirmed",
+          "label": "Уточнить наличие мест и допуск."
+        },
+        "programme_type": "holiday_workshop",
+        "catalog_participation": "holiday_workshop",
+        "related_event_ids": [],
+        "calendar_links": []
+      },
+      {
+        "id": "CP1690",
+        "slug": "bricks-noumea-holidays",
+        "provider": "Bricks 4 Kidz · Nouvelle-Calédonie",
+        "country": "Новая Каледония",
+        "iso": "NCL",
+        "place": "Nouméa",
+        "themes": [
+          "robotics",
+          "coding",
+          "engineering",
+          "art"
+        ],
+        "formats": [
+          "day"
+        ],
+        "age": "5–13 лет по локальной карточке лагеря. Продвинутая робототехника с 7 лет по странице оператора.",
+        "language": "Язык преподавания конкретной группы пока не подтверждён.",
+        "confirmed_instruction_languages": [],
+        "programme": "Каникулярные полудни с LEGO, моторизованной сборкой, программированием и анимацией. Состав модуля зависит от смены.",
+        "timing": {
+          "status": "next_unannounced",
+          "label": "Каникулярная программа. Следующая датированная смена не подтверждена.",
+          "sessions": [],
+          "session_details": [],
+          "precision": "published_sessions"
+        },
+        "price": {
+          "year": null,
+          "currency": "XPF",
+          "amount": null,
+          "unit": "course",
+          "label": "Прайс конкретной смены и даты уточнить. Цены отдельных мастерских не переносятся на лагерь.",
+          "included": "Каникулярные полудни с LEGO, моторизованной сборкой, программированием и анимацией. Состав модуля зависит от смены.",
+          "extras": "Цена не опубликована.",
+          "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+        },
+        "accommodation": "Дневная программа без проживания.",
+        "family_fit": {
+          "matvey": {
+            "status": "conditional",
+            "detail": "Возраст подходит для лагеря. Возрастной трек робототехники и язык уточнить."
+          },
+          "oscar": {
+            "status": "conditional",
+            "detail": "Возраст подходит для общего LEGO и моторизованной сборки с 6 лет. Робототехника WeDo 2.0 с 7 лет."
+          }
+        },
+        "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+        "shortlist": [],
+        "questions": [
+          "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+        ],
+        "sources": [
+          {
+            "url": "https://bricks4kidz.fr/nouvelle-caledonie/nos-activites/stage-vacances/",
+            "title": "Официальная страница организатора",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://bricks4kidz.fr/nouvelle-caledonie/nos-activites/robotique/",
+            "title": "Официальная страница организатора",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://bricks4kidz.fr/nouvelle-caledonie/nos-activites/ateliers-lego/",
+            "title": "Официальная страница организатора",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://kids.nc/listing/bricks-4-kidz-nc/",
+            "title": "Официальная страница организатора",
+            "checked": "2026-11-07"
+          }
+        ],
+        "checked": "2026-11-07",
+        "availability": {
+          "status": "unconfirmed",
+          "label": "Уточнить наличие мест и допуск."
+        },
+        "programme_type": "holiday_workshop",
+        "catalog_participation": "holiday_workshop",
+        "related_event_ids": [],
+        "calendar_links": []
+      },
+      {
+        "id": "CP1691",
+        "slug": "kidz-code-camp-fiji-nadi",
+        "provider": "Kidz Code Camp · Nadi",
+        "country": "Фиджи",
+        "iso": "FJI",
+        "place": "Aliz Centre · Level 2 · 231 Queens Road · Martintar · Nadi",
+        "themes": [
+          "robotics",
+          "coding",
+          "engineering"
+        ],
+        "formats": [
+          "day"
+        ],
+        "age": "6–16 лет по данным оператора.",
+        "language": "Язык преподавания конкретной группы пока не подтверждён.",
+        "confirmed_instruction_languages": [],
+        "programme": "Ребёнок проектирует, собирает и программирует робота. Java, 3D-симулятор и физический проект.",
+        "timing": {
+          "status": "regular_programme",
+          "label": "Будни. Полный день 09:00–15:30. Tourism Fiji также указывает 09:00–12:00 и 12:30–15:30. Свободный день уточнить.",
+          "sessions": [],
+          "session_details": [],
+          "precision": "published_sessions"
+        },
+        "price": {
+          "year": 2026,
+          "currency": null,
+          "amount": null,
+          "unit": "child_day",
+          "label": "Пробный тариф $199 на ребёнка. При общей записи скидка $20 на каждого дополнительного ребёнка. Расчёт для двоих $378, если предложение действует. Валюту и итоговый счёт подтвердить.",
+          "included": "Для полного дня оператор указывает питание, напитки, устройство, обратный трансфер и сертификат прохождения.",
+          "extras": "Туристическая служба перечисляет два полудня. Условия, цены и возраст выбранного формата подтвердить отдельно.",
+          "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+        },
+        "accommodation": "Дневная программа без проживания.",
+        "family_fit": {
+          "matvey": {
+            "status": "candidate",
+            "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+          },
+          "oscar": {
+            "status": "conditional",
+            "detail": "Условно, если к началу уже исполнилось 6 лет."
+          }
+        },
+        "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+        "shortlist": [],
+        "questions": [
+          "Подтвердить место, язык конкретной группы, оплату и возврат у организатора.",
+          "Подтвердить валюту, тариф для двоих, границы трансфера и включения полудня."
+        ],
+        "sources": [
+          {
+            "url": "https://www.kidzcodecamp.com/",
+            "title": "Официальная страница организатора",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://www.fiji.travel/deals-and-offers/experiences/kids-code-camp",
+            "title": "Официальная страница организатора",
+            "checked": "2026-11-07"
+          }
+        ],
+        "checked": "2026-11-07",
+        "availability": {
+          "status": "unconfirmed",
+          "label": "Уточнить наличие мест и допуск."
+        },
+        "programme_type": "holiday_workshop",
+        "catalog_participation": "holiday_workshop",
+        "related_event_ids": [
+          "L211"
+        ],
+        "calendar_links": []
+      },
+      {
+        "id": "CP1692",
+        "slug": "chooron-guam-winter",
+        "provider": "CHOORON · Global STEAM Camp Guam",
+        "country": "Гуам",
+        "iso": "GUM",
+        "place": "Guam",
+        "themes": [
+          "technology",
+          "general",
+          "language"
+        ],
+        "formats": [
+          "unknown"
+        ],
+        "age": "Оператор указывает начальную и среднюю школу для Гуама. Минимальный возраст и эквивалент класса не опубликованы.",
+        "language": "Английский заявлен для разговорной части и школьного погружения. Язык технического модуля нужно подтвердить.",
+        "confirmed_instruction_languages": [],
+        "programme": "Погружение в занятия местной школы и разговорный английский. Оператор упоминает STEM Camp, связанный с NASA. Поставщика технического модуля подтвердить.",
+        "timing": {
+          "status": "next_unannounced",
+          "label": "Зимняя программа на 4 недели. Календарь ближайшего набора, размещение и цена не опубликованы.",
+          "sessions": [],
+          "session_details": [],
+          "precision": "published_sessions"
+        },
+        "price": {
+          "year": null,
+          "currency": null,
+          "amount": null,
+          "unit": "course",
+          "label": "Цена не опубликована.",
+          "included": "Погружение в занятия местной школы и разговорный английский. Оператор упоминает STEM Camp, связанный с NASA. Поставщика технического модуля подтвердить.",
+          "extras": "Цена не опубликована.",
+          "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+        },
+        "accommodation": "Формат размещения уточнить у оператора.",
+        "family_fit": {
+          "matvey": {
+            "status": "conditional",
+            "detail": "Условно. Возрастную группу и язык подтвердить до записи."
+          },
+          "oscar": {
+            "status": "conditional",
+            "detail": "Условно. Возрастную группу и язык подтвердить до записи."
+          }
+        },
+        "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+        "shortlist": [],
+        "questions": [
+          "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+        ],
+        "sources": [
+          {
+            "url": "https://chooron.ai/educationContent_en/camp.php",
+            "title": "Официальная страница организатора",
+            "checked": "2026-11-07"
+          }
+        ],
+        "checked": "2026-11-07",
+        "availability": {
+          "status": "unconfirmed",
+          "label": "Уточнить наличие мест и допуск."
+        },
+        "programme_type": "holiday_workshop",
+        "catalog_participation": "holiday_workshop",
+        "confirmed_support_languages": [
+          "EN"
+        ],
+        "language_evidence_role": "language_lessons",
+        "related_event_ids": [],
+        "calendar_links": []
       }
     ],
     "gaps": [
@@ -933892,7 +935354,7 @@
       "Младшие группы и языковое доказательство для всех приоритетных операторов.",
       "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
     ],
-    "version": 217,
+    "version": 218,
     "family_review": {
       "version": 150,
       "asof": "2026-11-05",
@@ -947127,7 +948589,7 @@
         }
       ],
       "coverage": {
-        "total_dossiers": 1686,
+        "total_dossiers": 1692,
         "reviewed": 71,
         "refresh_pending": 4,
         "review_dossiers": 75,
@@ -965432,6 +966894,16 @@
         "relation": "catalogue_session"
       },
       {
+        "programme_id": "CP1687",
+        "event_id": "CP1687-20261214-20261218",
+        "relation": "catalogue_session"
+      },
+      {
+        "programme_id": "CP1691",
+        "event_id": "L211",
+        "relation": "related_track_or_operator"
+      },
+      {
         "programme_id": "CP1294",
         "event_id": "L464",
         "relation": "existing_programme"
@@ -969338,10 +970810,11 @@
       "CP1686-20270104-20270108-northcote-1",
       "CP1686-20270111-20270115-northcote-2",
       "CP1686-20270118-20270122-northcote-3",
-      "CP1686-20270118-20270122-eltham-3"
+      "CP1686-20270118-20270122-eltham-3",
+      "CP1687-20261214-20261218"
     ],
     "integration": {
-      "generated_sessions": 3476,
+      "generated_sessions": 3477,
       "reused_legacy_events": 69,
       "seasonal_windows": 60,
       "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."
@@ -978381,6 +979854,39 @@
         "scope": "Eltham College. 5 дней по AUD 495 на ребёнка, без дороги и жилья."
       },
       {
+        "id": "pyf-polykids-unity-dec2026",
+        "slug": "polykids-tahiti-unity-dec2026",
+        "label": "PolyKids · Unity Tahiti",
+        "currency": "XPF",
+        "price_year": 2026,
+        "format": "day",
+        "children": [
+          "matvey"
+        ],
+        "base_by_child": {
+          "matvey": 38000
+        },
+        "discount_second": 0,
+        "required": [],
+        "unknown_required": [],
+        "optional": [],
+        "unknown_trip": [
+          "travel",
+          "lodging",
+          "misc"
+        ],
+        "sessions": 1,
+        "sources": [
+          "https://polykids.pf/camp-jeu-video",
+          "https://polykids.pf/nous-trouver"
+        ],
+        "checked": "2026-11-07",
+        "gate": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора.",
+        "deposit_note": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора.",
+        "included": "Оператор может предоставить компьютер, допустим и собственный ноутбук.",
+        "scope": "XPF 38000 за 5 утренних занятий."
+      },
+      {
         "id": "hopla-world-both",
         "slug": "hopla-world",
         "label": "Hopla · оба ребёнка ·5–9 июля 2027",
@@ -982734,8 +984240,8 @@
     "version": 171,
     "checked": "2026-11-05",
     "summary": {
-      "routes": 303,
-      "countries": 142,
+      "routes": 316,
+      "countries": 152,
       "wro_contacts": 109,
       "fll_contacts": 103,
       "fll_country_cards": 97,
@@ -982746,7 +984252,8 @@
       "local_operator_announcements": 1,
       "local_calendar_contacts": 2,
       "bebras_directory_cards": 91,
-      "bebras_routes_with_local_rule": 25
+      "bebras_routes_with_local_rule": 25,
+      "first_global_team_profiles": 13
     },
     "routes": [
       {
@@ -987899,6 +989406,227 @@
         "access_url": "",
         "website_note": "В справочнике есть запись участника сети. Местный сайт в этой записи не указан.",
         "programme": "Участник сети Bebras с предварительным статусом. Национальные категории и допуск проверяются отдельно."
+      },
+      {
+        "id": "NR-FGC-FJI-2026",
+        "network": "FIRST Global",
+        "league_id": "firstglobal",
+        "iso": "FJI",
+        "provider": "Team Fiji · BulaBots · USP Pacific TAFE",
+        "division": "national_team_evidence_2026",
+        "url": "",
+        "source": "https://first.global/2026-nations/fiji-2026/",
+        "checked": "2026-11-07",
+        "evidence_level": "official_directory",
+        "website_status": "not_listed",
+        "website_checked": "2026-11-07",
+        "access_url": "",
+        "website_note": "USP Pacific TAFE подтверждает сборную 2026. В отчёте указан участник 19 лет. Правила возможных исключений и отбор 2027 требуют подтверждения.",
+        "programme": "Подтверждена сборная 2026. Общий возраст FIRST Global 14–18 лет."
+      },
+      {
+        "id": "NR-FGC-GUM-2026",
+        "network": "FIRST Global",
+        "league_id": "firstglobal",
+        "iso": "GUM",
+        "provider": "Team Guam",
+        "division": "national_team_evidence_2026",
+        "url": "",
+        "source": "https://first.global/2026-nations/guam-2026/",
+        "checked": "2026-11-07",
+        "evidence_level": "official_directory",
+        "website_status": "not_listed",
+        "website_checked": "2026-11-07",
+        "access_url": "",
+        "website_note": "Профиль сборной за 2026 год. Даты отбора, партнёра и правила представительства 2027 уточнить отдельно.",
+        "programme": "Подтверждена сборная 2026. Общий возраст FIRST Global 14–18 лет."
+      },
+      {
+        "id": "NR-FGC-TON-2026",
+        "network": "FIRST Global",
+        "league_id": "firstglobal",
+        "iso": "TON",
+        "provider": "Team Tonga · USP Foundation students",
+        "division": "national_team_evidence_2026",
+        "url": "",
+        "source": "https://first.global/2026-nations/tonga-2026/",
+        "checked": "2026-11-07",
+        "evidence_level": "official_directory",
+        "website_status": "not_listed",
+        "website_checked": "2026-11-07",
+        "access_url": "",
+        "website_note": "Профиль сборной за 2026 год. Даты отбора, партнёра и правила представительства 2027 уточнить отдельно.",
+        "programme": "Подтверждена сборная 2026. Общий возраст FIRST Global 14–18 лет."
+      },
+      {
+        "id": "NR-FGC-VUT-2026",
+        "network": "FIRST Global",
+        "league_id": "firstglobal",
+        "iso": "VUT",
+        "provider": "Team Vanuatu",
+        "division": "national_team_evidence_2026",
+        "url": "",
+        "source": "https://first.global/2026-nations/vanuatu-2026/",
+        "checked": "2026-11-07",
+        "evidence_level": "official_directory",
+        "website_status": "not_listed",
+        "website_checked": "2026-11-07",
+        "access_url": "",
+        "website_note": "Профиль сборной за 2026 год. Даты отбора, партнёра и правила представительства 2027 уточнить отдельно.",
+        "programme": "Подтверждена сборная 2026. Общий возраст FIRST Global 14–18 лет."
+      },
+      {
+        "id": "NR-FGC-SLB-2026",
+        "network": "FIRST Global",
+        "league_id": "firstglobal",
+        "iso": "SLB",
+        "provider": "Solobots · Woodford International School",
+        "division": "national_team_evidence_2026",
+        "url": "",
+        "source": "https://first.global/2026-nations/solomon-islands-2026/",
+        "checked": "2026-11-07",
+        "evidence_level": "official_directory",
+        "website_status": "not_listed",
+        "website_checked": "2026-11-07",
+        "access_url": "",
+        "website_note": "Профиль сборной за 2026 год. Даты отбора, партнёра и правила представительства 2027 уточнить отдельно.",
+        "programme": "Подтверждена сборная 2026. Общий возраст FIRST Global 14–18 лет."
+      },
+      {
+        "id": "NR-FGC-PNG-2026",
+        "network": "FIRST Global",
+        "league_id": "firstglobal",
+        "iso": "PNG",
+        "provider": "Team Papua New Guinea · Lae",
+        "division": "national_team_evidence_2026",
+        "url": "",
+        "source": "https://first.global/2026-nations/papua-new-guinea-2026/",
+        "checked": "2026-11-07",
+        "evidence_level": "official_directory",
+        "website_status": "not_listed",
+        "website_checked": "2026-11-07",
+        "access_url": "",
+        "website_note": "Профиль сборной за 2026 год. Даты отбора, партнёра и правила представительства 2027 уточнить отдельно.",
+        "programme": "Подтверждена сборная 2026. Общий возраст FIRST Global 14–18 лет."
+      },
+      {
+        "id": "NR-FGC-FSM-2026",
+        "network": "FIRST Global",
+        "league_id": "firstglobal",
+        "iso": "FSM",
+        "provider": "Team Federated States of Micronesia · Pohnpei",
+        "division": "national_team_evidence_2026",
+        "url": "",
+        "source": "https://first.global/2026-nations/micronesia-2026/",
+        "checked": "2026-11-07",
+        "evidence_level": "official_directory",
+        "website_status": "not_listed",
+        "website_checked": "2026-11-07",
+        "access_url": "",
+        "website_note": "Профиль сборной за 2026 год. Даты отбора, партнёра и правила представительства 2027 уточнить отдельно.",
+        "programme": "Подтверждена сборная 2026. Общий возраст FIRST Global 14–18 лет."
+      },
+      {
+        "id": "NR-FGC-MHL-2026",
+        "network": "FIRST Global",
+        "league_id": "firstglobal",
+        "iso": "MHL",
+        "provider": "Team Marshall Islands",
+        "division": "national_team_evidence_2026",
+        "url": "",
+        "source": "https://first.global/2026-nations/marshall-islands-2026/",
+        "checked": "2026-11-07",
+        "evidence_level": "official_directory",
+        "website_status": "not_listed",
+        "website_checked": "2026-11-07",
+        "access_url": "",
+        "website_note": "Профиль сборной за 2026 год. Даты отбора, партнёра и правила представительства 2027 уточнить отдельно.",
+        "programme": "Подтверждена сборная 2026. Общий возраст FIRST Global 14–18 лет."
+      },
+      {
+        "id": "NR-FGC-KIR-2026",
+        "network": "FIRST Global",
+        "league_id": "firstglobal",
+        "iso": "KIR",
+        "provider": "Team Kiribati",
+        "division": "national_team_evidence_2026",
+        "url": "",
+        "source": "https://first.global/2026-nations/kiribati-2026/",
+        "checked": "2026-11-07",
+        "evidence_level": "official_directory",
+        "website_status": "not_listed",
+        "website_checked": "2026-11-07",
+        "access_url": "",
+        "website_note": "Профиль сборной за 2026 год. Даты отбора, партнёра и правила представительства 2027 уточнить отдельно.",
+        "programme": "Подтверждена сборная 2026. Общий возраст FIRST Global 14–18 лет."
+      },
+      {
+        "id": "NR-FGC-ASM-2026",
+        "network": "FIRST Global",
+        "league_id": "firstglobal",
+        "iso": "ASM",
+        "provider": "Team American Samoa · OceaniaCDN",
+        "division": "national_team_evidence_2026",
+        "url": "",
+        "source": "https://first.global/2026-nations/american-samoa-2026/",
+        "checked": "2026-11-07",
+        "evidence_level": "official_directory",
+        "website_status": "not_listed",
+        "website_checked": "2026-11-07",
+        "access_url": "",
+        "website_note": "Профиль сборной за 2026 год. Даты отбора, партнёра и правила представительства 2027 уточнить отдельно.",
+        "programme": "Подтверждена сборная 2026. Общий возраст FIRST Global 14–18 лет."
+      },
+      {
+        "id": "NR-FGC-CRI-2026",
+        "network": "FIRST Global",
+        "league_id": "firstglobal",
+        "iso": "CRI",
+        "provider": "Team Costa Rica",
+        "division": "national_team_evidence_2026",
+        "url": "",
+        "source": "https://first.global/2026-nations/costa-rica-2026/",
+        "checked": "2026-11-07",
+        "evidence_level": "official_directory",
+        "website_status": "not_listed",
+        "website_checked": "2026-11-07",
+        "access_url": "",
+        "website_note": "Профиль сборной за 2026 год. Даты отбора, партнёра и правила представительства 2027 уточнить отдельно.",
+        "programme": "Подтверждена сборная 2026. Общий возраст FIRST Global 14–18 лет."
+      },
+      {
+        "id": "NR-FGC-MEX-2026",
+        "network": "FIRST Global",
+        "league_id": "firstglobal",
+        "iso": "MEX",
+        "provider": "Team Mexico",
+        "division": "national_team_evidence_2026",
+        "url": "",
+        "source": "https://first.global/2026-nations/mexico-2026/",
+        "checked": "2026-11-07",
+        "evidence_level": "official_directory",
+        "website_status": "not_listed",
+        "website_checked": "2026-11-07",
+        "access_url": "",
+        "website_note": "Профиль сборной за 2026 год. Даты отбора, партнёра и правила представительства 2027 уточнить отдельно.",
+        "programme": "Подтверждена сборная 2026. Общий возраст FIRST Global 14–18 лет."
+      },
+      {
+        "id": "NR-FGC-DOM-2026",
+        "network": "FIRST Global",
+        "league_id": "firstglobal",
+        "iso": "DOM",
+        "provider": "FIRST Global Dominican Republic",
+        "division": "national_team_evidence_2026",
+        "url": "https://firstglobaldo.com/Postulaciones.dc.html",
+        "source": "https://first.global/2026-nations/dominican-republic-2026/",
+        "checked": "2026-11-07",
+        "evidence_level": "official_directory",
+        "website_status": "http_ok",
+        "website_checked": "2026-11-07",
+        "access_url": "https://firstglobaldo.com/Postulaciones.dc.html",
+        "website_note": "В сезоне 2026 оператор описал отбор из заявки, технической оценки, буткемпа и финального решения. Набор 2027 уточнить.",
+        "programme": "Подтверждена сборная 2026. Общий возраст FIRST Global 14–18 лет."
       }
     ],
     "pathways": [
@@ -987970,10 +989698,23 @@
         ],
         "gate": "Национальные категории и допуск проверяются отдельно.",
         "source": "https://www.bebras.org/countries"
+      },
+      {
+        "id": "first-global-national-team",
+        "network": "FIRST Global",
+        "title": "FIRST Global: через национальную сборную",
+        "summary": "Одна сборная от страны. Местный партнёр выбирает участников 14–18 лет. Условия нового выпуска уточняются отдельно.",
+        "steps": [
+          "Найти официальный профиль сборной выбранной страны.",
+          "Уточнить правила представительства и возраст на сезон.",
+          "Пройти отбор партнёра страны при открытом наборе."
+        ],
+        "source": "https://first.global/contact/",
+        "gate": "Профиль сборной за 2026 год. Даты отбора, партнёра и правила представительства 2027 уточнить отдельно."
       }
     ],
     "gate": "Справочник подтверждает контакт сети, а не даты, свободные места или допуск семьи. Проверить конкретный сезон, возраст / класс, язык занятий и судейства, состав команды, тренера, стоимость, место команды и правила местного отбора. Паспорт не заменяет условия допуска.",
-    "absence_note": "Отсутствие контакта в этих двух справочниках не доказывает отсутствие робототехники, клубов или других лиг в стране.",
+    "absence_note": "В этом разделе показаны проверенные маршруты. Отдельные лиги и локальные команды могут появиться после дополнительной проверки.",
     "suspension_note": "Публикация WRO 2022 о приостановке работы с национальными организаторами России и Беларуси относится к организаторам. Она не является подтверждением общего запрета детям с российским или белорусским паспортом участвовать в другой стране; допуск конкретной команды требует отдельного регламента.",
     "support_links": [
       {
@@ -988021,6 +989762,14 @@
       {
         "title": "Сообщение WRO 2022 о национальных организаторах",
         "url": "https://wro-association.org/important-message-from-wro-association-ltd-on-the-situation-in-ukraine/"
+      },
+      {
+        "title": "FIRST Global · 2026 national teams",
+        "url": "https://first.global/category/2026-nations/"
+      },
+      {
+        "title": "FIRST Global · national team rules",
+        "url": "https://first.global/contact/"
       }
     ],
     "country_notes": {

@@ -870,20 +870,21 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 217,
+    "version": 218,
     "status": "implementation_snapshot",
-    "events": 7672,
-    "competitions": 3196,
+    "events": 7681,
+    "competitions": 3200,
     "league_profiles": 268,
-    "camp_dossiers": 1686,
-    "budget_offers": 235,
+    "camp_dossiers": 1692,
+    "budget_offers": 236,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
     "worldwide_complete": false,
     "fully_audited_countries": 0,
     "schools": 80,
     "school_history_results": 356,
-    "school_history_entities": 232
+    "school_history_entities": 232,
+    "national_routes": 316
   },
   "completeness_audit": "data/audit-v51.json",
   "family_context": {
@@ -925,13 +926,13 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 216,
+    "version": 217,
     "status": "implementation_snapshot",
-    "events": 7634,
-    "competitions": 3190,
+    "events": 7672,
+    "competitions": 3196,
     "league_profiles": 268,
-    "camp_dossiers": 1678,
-    "budget_offers": 231,
+    "camp_dossiers": 1686,
+    "budget_offers": 235,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
     "worldwide_complete": false,
@@ -20805,11 +20806,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 216,
-    "published_version": 216,
-    "latest_source_commit": "f22625d124f7612cab7d05a6a193dc78597c1c0b",
-    "published_commit": "f22625d124f7612cab7d05a6a193dc78597c1c0b",
-    "latest_workflow": 42373221117,
+    "latest_source_version": 217,
+    "published_version": 217,
+    "latest_source_commit": "da82b6ea74832f3bb73af020ab5a94cb29018de6",
+    "published_commit": "da82b6ea74832f3bb73af020ab5a94cb29018de6",
+    "latest_workflow": 42374778143,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -22138,5 +22139,58 @@
     ],
     "audit": "data/oceania-family-audit-v217.json",
     "source_receipts": "data/oceania-family-source-receipts-v217.json"
+  },
+  "pacific_first_global_v218": {
+    "version": 218,
+    "checked": "2026-11-07",
+    "previous_goal_turn_classification": "progress",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_competitions": 4,
+    "new_exhibitions": 4,
+    "new_camp_dossiers": 6,
+    "new_dated_camp_variants": 1,
+    "updated_events": [
+      "C772",
+      "L211"
+    ],
+    "new_budget_offers": 1,
+    "new_national_team_routes": 13,
+    "updated_league_profiles": [
+      "firstglobal",
+      "abu"
+    ],
+    "new_events": [
+      "C3198",
+      "E349",
+      "C3199",
+      "C3200",
+      "C3201",
+      "E350",
+      "E351",
+      "E352"
+    ],
+    "programme_ids": {
+      "polykids-tahiti-unity-dec2026": "CP1687",
+      "polykids-tahiti-roblox": "CP1688",
+      "polykids-moorea-unity": "CP1689",
+      "bricks-noumea-holidays": "CP1690",
+      "kidz-code-camp-fiji-nadi": "CP1691",
+      "chooron-guam-winter": "CP1692"
+    },
+    "source_requests": 41,
+    "limits": [
+      "Madrid official municipal dates are October 20–23, 2027. First Global general public policy is not Madrid-specific child admission or ticketing.",
+      "National team profiles are 2026 evidence; no future national qualifier created from a past delegation. FIRST Global standard age 14–18 with Fiji evidence of an older past participant, not a standing waiver.",
+      "ABU competition day is August 29; delegate programme starts August 27 and ends August 31. No proof of ticketing or livestream.",
+      "PolyKids Unity lists 9–17 in the stage header and 9–16 in FAQ. Provider can supply a PC. No explicit English or Spanish instruction.",
+      "Moorea dates are past despite the page saying ongoing. Roblox next date is not announced.",
+      "Fiji $199/$20 are operator display values with currency not established. Half-day pricing and instruction language remain unknown.",
+      "Guam CHOORON declares English immersion and an associated STEM camp. The exact technical language, dates, operator and boarding details require verification.",
+      "Inutai 2026 final and qualifier are distinct. No 2027 date inferred. Guam Tech Fest and Polynesia science festival 2026 are archives."
+    ],
+    "audit": "data/pacific-first-global-audit-v218.json",
+    "source_receipts": "data/pacific-first-global-source-receipts-v218.json",
+    "national_team_evidence": "data/pacific-first-global-routes-v218.json"
   }
 }

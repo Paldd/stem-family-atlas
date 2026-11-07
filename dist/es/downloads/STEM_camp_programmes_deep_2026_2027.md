@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-07. 1686 fichas en 92 países. Cada ficha indica la fecha de comprobación de sus fuentes.
+Estado de la base: 2026-11-07. 1692 fichas en 96 países. Cada ficha indica la fecha de comprobación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -130491,6 +130491,284 @@ Australia · Melbourne
 - [Página oficial del organizador](https://www.kidsupfront.com.au/page/holiday-camps) · 2026-11-07
 
 - [Página oficial del organizador](https://www.kidsupfront.com.au/page/future-camp-dates) · 2026-11-07
+
+## CP1687 · PolyKids · Unity Tahiti
+
+Polinesia Francesa · Tahiti Coworking · 27 Rue Colette · Papeete
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Desde 9 años. Confirmar límite superior de 16–17 años.
+
+**Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar.
+
+**Programa:** En 5 días crean un videojuego en Unity, diseñan gráficos 2D y 3D, prueban IA para ideas, programan visualmente y presentan su proyecto.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 5 días lectivos, 08:00–12:00 hora de Tahití.
+
+**Precio / año:** 2026 · XPF 38000 por 5 sesiones matutinas.
+
+**Incluido:** El proveedor puede facilitar computadora. También se admite portátil propio.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Edad adecuada. Confirmar plaza e idioma del taller.
+
+**Oscar:** No por ahora. Módulo desde 9 años.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+- La página Unity indica 9–17 años y las preguntas frecuentes 9–16. Confirmar tamaño del grupo y reembolso antes de pagar.
+
+### Unity · game design & AI
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**lugar:** Tahiti Coworking · 27 Rue Colette · Papeete
+
+**edad:** Desde 9 años. Confirmar límite superior de 16–17 años.
+
+**Precio:** XPF 38000 por 5 sesiones matutinas.
+
+- 2026-12-14 · 08:00–12:00 · Pacific/Tahiti · En 5 días crean un videojuego en Unity, diseñan gráficos 2D y 3D, prueban IA para ideas, programan visualmente y presentan su proyecto.
+
+- 2026-12-15 · 08:00–12:00 · Pacific/Tahiti · En 5 días crean un videojuego en Unity, diseñan gráficos 2D y 3D, prueban IA para ideas, programan visualmente y presentan su proyecto.
+
+- 2026-12-16 · 08:00–12:00 · Pacific/Tahiti · En 5 días crean un videojuego en Unity, diseñan gráficos 2D y 3D, prueban IA para ideas, programan visualmente y presentan su proyecto.
+
+- 2026-12-17 · 08:00–12:00 · Pacific/Tahiti · En 5 días crean un videojuego en Unity, diseñan gráficos 2D y 3D, prueban IA para ideas, programan visualmente y presentan su proyecto.
+
+- 2026-12-18 · 08:00–12:00 · Pacific/Tahiti · En 5 días crean un videojuego en Unity, diseñan gráficos 2D y 3D, prueban IA para ideas, programan visualmente y presentan su proyecto.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Edad adecuada. Confirmar plaza e idioma del taller.
+
+**Oscar:** No por ahora. Módulo desde 9 años.
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+- La página Unity indica 9–17 años y las preguntas frecuentes 9–16. Confirmar tamaño del grupo y reembolso antes de pagar.
+
+[fuente](https://polykids.pf/camp-jeu-video)
+
+### Fuentes
+
+- [Página oficial del organizador](https://polykids.pf/camp-jeu-video) · 2026-11-07
+
+- [Página oficial del organizador](https://polykids.pf/nous-trouver) · 2026-11-07
+
+## CP1688 · PolyKids · Roblox Studio Tahiti
+
+Polinesia Francesa · Tahiti Coworking · 27 Rue Colette · Papeete
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Desde 9 años. Confirmar límite superior de 16–17 años.
+
+**Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar.
+
+**Programa:** Creación de videojuegos, niveles y scripts Lua en Roblox Studio. Próximo turno sin fecha.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Creación de videojuegos, niveles y scripts Lua en Roblox Studio. Próximo turno sin fecha.
+
+**Precio / año:** 2026 · La página indica XPF 38000. Confirmar tarifa del próximo turno.
+
+**Incluido:** El proveedor puede facilitar computadora. También se admite portátil propio.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Edad adecuada. Confirmar plaza e idioma del taller.
+
+**Oscar:** No por ahora. Módulo desde 9 años.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Fuentes
+
+- [Página oficial del organizador](https://polykids.pf/stage-roblox-studio-tahiti) · 2026-11-07
+
+- [Página oficial del organizador](https://polykids.pf/nous-trouver) · 2026-11-07
+
+## CP1689 · PolyKids · Unity Moorea
+
+Polinesia Francesa · Teavaro · Moorea
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Desde 9 años. Confirmar límite superior de 16–17 años.
+
+**Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar.
+
+**Programa:** En 5 días crean un videojuego en Unity, diseñan gráficos 2D y 3D, prueban IA para ideas, programan visualmente y presentan su proyecto.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** El último turno anunciado terminó el 6 de noviembre de 2026. Sin nuevas fechas publicadas.
+
+**Precio / año:** 2026 · XPF 38000 por el turno anterior. Confirmar tarifa futura.
+
+**Incluido:** El proveedor puede facilitar computadora. También se admite portátil propio.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Edad adecuada. Confirmar plaza e idioma del taller.
+
+**Oscar:** No por ahora. Módulo desde 9 años.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Fuentes
+
+- [Página oficial del organizador](https://polykids.pf/stages-vacances-creation-de-jeu-video-a-moorea) · 2026-11-07
+
+- [Página oficial del organizador](https://polykids.pf/) · 2026-11-07
+
+## CP1690 · Bricks 4 Kidz · Nouvelle-Calédonie
+
+Nueva Caledonia · Nouméa
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 5–13 años según la ficha local del campamento. Robótica avanzada desde 7 años según el operador.
+
+**Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar.
+
+**Programa:** Medias jornadas de vacaciones con LEGO, montaje motorizado, programación y animación. Contenido según el turno.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Programa de vacaciones. Próximo turno con fechas aún sin confirmar.
+
+**Precio / año:** sin establecer · Confirmar tarifa y fechas del turno concreto. Las tarifas de talleres sueltos no se aplican al campamento.
+
+**Incluido:** Medias jornadas de vacaciones con LEGO, montaje motorizado, programación y animación. Contenido según el turno.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Edad adecuada para el campamento. Confirmar grupo de robótica e idioma.
+
+**Oscar:** Edad adecuada para LEGO general y montaje motorizado desde 6 años. Robótica WeDo 2.0 desde 7 años.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Fuentes
+
+- [Página oficial del organizador](https://bricks4kidz.fr/nouvelle-caledonie/nos-activites/stage-vacances/) · 2026-11-07
+
+- [Página oficial del organizador](https://bricks4kidz.fr/nouvelle-caledonie/nos-activites/robotique/) · 2026-11-07
+
+- [Página oficial del organizador](https://bricks4kidz.fr/nouvelle-caledonie/nos-activites/ateliers-lego/) · 2026-11-07
+
+- [Página oficial del organizador](https://kids.nc/listing/bricks-4-kidz-nc/) · 2026-11-07
+
+## CP1691 · Kidz Code Camp · Nadi
+
+Fiyi · Aliz Centre · Level 2 · 231 Queens Road · Martintar · Nadi
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 6–16 años según el proveedor.
+
+**Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar.
+
+**Programa:** El niño diseña, monta y programa un robot. Java, simulador 3D y proyecto físico.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Entre semana. Jornada completa 09:00–15:30. Tourism Fiji también indica 09:00–12:00 y 12:30–15:30. Confirmar fecha disponible.
+
+**Precio / año:** 2026 · Oferta inicial de $199 por niño. Descuento de $20 por cada niño adicional en la misma inscripción. Cálculo para dos $378 si la oferta sigue vigente. Confirmar moneda y factura final.
+
+**Incluido:** Para la jornada completa, el operador indica comidas, bebidas, dispositivo, transporte de regreso y certificado de finalización.
+
+**Suplementos:** Turismo enumera dos medias jornadas. Confirmar por separado condiciones, precios y edad de la opción elegida.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+- Confirmar moneda, tarifa para dos, alcance del transporte e inclusiones de media jornada.
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.kidzcodecamp.com/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.fiji.travel/deals-and-offers/experiences/kids-code-camp) · 2026-11-07
+
+## CP1692 · CHOORON · Global STEAM Camp Guam
+
+Guam · Guam
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** El proveedor indica primaria y secundaria para Guam. Edad mínima y equivalencia escolar sin publicar.
+
+**Idioma:** Inglés anunciado para la parte conversacional e inmersión escolar. Confirmar idioma del módulo técnico.
+
+**Programa:** Inmersión en clases de una escuela local e inglés conversacional. El proveedor menciona un STEM Camp vinculado a NASA. Confirmar proveedor del módulo técnico.
+
+**Alojamiento:** Confirmar alojamiento con el proveedor.
+
+**Fechas / estado:** Programa de invierno de 4 semanas. Calendario del próximo turno, alojamiento y precio sin publicar.
+
+**Cabe/año:** no se ha fijado el precio.
+
+**Incluido:** Inmersión en clases de una escuela local e inglés conversacional. El proveedor menciona un STEM Camp vinculado a NASA. Confirmar proveedor del módulo técnico.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Condicional. Confirmar grupo de edad e idioma antes de inscribirse.
+
+**Oscar:** Condicional. Confirmar grupo de edad e idioma antes de inscribirse.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Fuentes
+
+- [Página oficial del organizador](https://chooron.ai/educationContent_en/camp.php) · 2026-11-07
 
 ## ~ Comprobaciones no cerradas
 

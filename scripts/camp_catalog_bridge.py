@@ -65,6 +65,7 @@ REUSE_DATES['ecolint-intro-robotics']=['L296']
 RELATED.update({slug:['L012'] for slug in ['funtech-mod-day','funtech-redstone-day','funtech-tonbridge-board']})
 # Undated programme cards cross-reference their source dossiers without creating sessions.
 RELATED.update({
+    'kidz-code-camp-fiji-nadi': ['L211'],
     'makerland-b-finder': ['L636'],
     'makerland-b-maker': ['L637'],
     'inspire-robotics-atoyac-6-8': ['L638'],

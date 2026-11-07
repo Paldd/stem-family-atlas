@@ -30,25 +30,25 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1686,
-    "countries": 93,
+    "dossiers": 1692,
+    "countries": 97,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 233,
       "published_2027": 477,
       "partial_2027": 133,
-      "next_unannounced": 345,
-      "published_2026": 296,
+      "next_unannounced": 348,
+      "published_2026": 297,
       "partial_2026_27": 28,
       "partial_2026": 20,
-      "archive_next_unannounced": 136,
-      "regular_programme": 10,
+      "archive_next_unannounced": 137,
+      "regular_programme": 11,
       "regular_2026_27": 2,
       "historical_2026_next_season_unknown": 1,
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2405
+    "source_urls": 2417
   },
   "countries": [
     {
@@ -138,6 +138,10 @@
     {
       "country": "Grecia",
       "count": 3
+    },
+    {
+      "country": "Guam",
+      "count": 1
     },
     {
       "country": "Dinamarca",
@@ -272,6 +276,10 @@
       "count": 16
     },
     {
+      "country": "Nueva Caledonia",
+      "count": 1
+    },
+    {
       "country": "Emiratos Árabes Unidos",
       "count": 2
     },
@@ -356,6 +364,10 @@
       "count": 3
     },
     {
+      "country": "Fiyi",
+      "count": 1
+    },
+    {
       "country": "Filipinas",
       "count": 9
     },
@@ -366,6 +378,10 @@
     {
       "country": "Francia",
       "count": 117
+    },
+    {
+      "country": "Polinesia Francesa",
+      "count": 3
     },
     {
       "country": "Croacia",
@@ -277453,6 +277469,551 @@
           ]
         }
       ]
+    },
+    {
+      "id": "CP1687",
+      "slug": "polykids-tahiti-unity-dec2026",
+      "provider": "PolyKids · Unity Tahiti",
+      "country": "Polinesia Francesa",
+      "iso": "PYF",
+      "place": "Tahiti Coworking · 27 Rue Colette · Papeete",
+      "themes": [
+        "games",
+        "ai",
+        "coding",
+        "design"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Desde 9 años. Confirmar límite superior de 16–17 años.",
+      "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "confirmed_instruction_languages": [],
+      "programme": "En 5 días crean un videojuego en Unity, diseñan gráficos 2D y 3D, prueban IA para ideas, programan visualmente y presentan su proyecto.",
+      "timing": {
+        "status": "published_2026",
+        "label": "5 días lectivos, 08:00–12:00 hora de Tahití.",
+        "sessions": [
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "Unity · game design & AI",
+            "source": "https://polykids.pf/camp-jeu-video",
+            "price": "XPF 38000 por 5 sesiones matutinas.",
+            "place": "Tahiti Coworking · 27 Rue Colette · Papeete",
+            "age": "Desde 9 años. Confirmar límite superior de 16–17 años.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada. Confirmar plaza e idioma del taller."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "No por ahora. Módulo desde 9 años."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "topic": "En 5 días crean un videojuego en Unity, diseñan gráficos 2D y 3D, prueban IA para ideas, programan visualmente y presentan su proyecto.",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "Pacific/Tahiti",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-15",
+                "topic": "En 5 días crean un videojuego en Unity, diseñan gráficos 2D y 3D, prueban IA para ideas, programan visualmente y presentan su proyecto.",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "Pacific/Tahiti",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-16",
+                "topic": "En 5 días crean un videojuego en Unity, diseñan gráficos 2D y 3D, prueban IA para ideas, programan visualmente y presentan su proyecto.",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "Pacific/Tahiti",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-17",
+                "topic": "En 5 días crean un videojuego en Unity, diseñan gráficos 2D y 3D, prueban IA para ideas, programan visualmente y presentan su proyecto.",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "Pacific/Tahiti",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-18",
+                "topic": "En 5 días crean un videojuego en Unity, diseñan gráficos 2D y 3D, prueban IA para ideas, programan visualmente y presentan su proyecto.",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "Pacific/Tahiti",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar disponibilidad y admisión."
+            },
+            "questions": [
+              "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+              "La página Unity indica 9–17 años y las preguntas frecuentes 9–16. Confirmar tamaño del grupo y reembolso antes de pagar."
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "XPF",
+        "amount": 38000,
+        "unit": "per_child_course",
+        "label": "XPF 38000 por 5 sesiones matutinas.",
+        "included": "El proveedor puede facilitar computadora. También se admite portátil propio.",
+        "extras": "Precio sin publicar.",
+        "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      },
+      "accommodation": "Programa diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Edad adecuada. Confirmar plaza e idioma del taller."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No por ahora. Módulo desde 9 años."
+        }
+      },
+      "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+        "La página Unity indica 9–17 años y las preguntas frecuentes 9–16. Confirmar tamaño del grupo y reembolso antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://polykids.pf/camp-jeu-video",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://polykids.pf/nous-trouver",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1687-20261214-20261218"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1688",
+      "slug": "polykids-tahiti-roblox",
+      "provider": "PolyKids · Roblox Studio Tahiti",
+      "country": "Polinesia Francesa",
+      "iso": "PYF",
+      "place": "Tahiti Coworking · 27 Rue Colette · Papeete",
+      "themes": [
+        "games",
+        "coding",
+        "design"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Desde 9 años. Confirmar límite superior de 16–17 años.",
+      "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "confirmed_instruction_languages": [],
+      "programme": "Creación de videojuegos, niveles y scripts Lua en Roblox Studio. Próximo turno sin fecha.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Creación de videojuegos, niveles y scripts Lua en Roblox Studio. Próximo turno sin fecha.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "XPF",
+        "amount": null,
+        "unit": "course",
+        "label": "La página indica XPF 38000. Confirmar tarifa del próximo turno.",
+        "included": "El proveedor puede facilitar computadora. También se admite portátil propio.",
+        "extras": "Precio sin publicar.",
+        "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      },
+      "accommodation": "Programa diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Edad adecuada. Confirmar plaza e idioma del taller."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No por ahora. Módulo desde 9 años."
+        }
+      },
+      "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      ],
+      "sources": [
+        {
+          "url": "https://polykids.pf/stage-roblox-studio-tahiti",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://polykids.pf/nous-trouver",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1689",
+      "slug": "polykids-moorea-unity",
+      "provider": "PolyKids · Unity Moorea",
+      "country": "Polinesia Francesa",
+      "iso": "PYF",
+      "place": "Teavaro · Moorea",
+      "themes": [
+        "games",
+        "ai",
+        "coding",
+        "design"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Desde 9 años. Confirmar límite superior de 16–17 años.",
+      "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "confirmed_instruction_languages": [],
+      "programme": "En 5 días crean un videojuego en Unity, diseñan gráficos 2D y 3D, prueban IA para ideas, programan visualmente y presentan su proyecto.",
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "El último turno anunciado terminó el 6 de noviembre de 2026. Sin nuevas fechas publicadas.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "XPF",
+        "amount": null,
+        "unit": "course",
+        "label": "XPF 38000 por el turno anterior. Confirmar tarifa futura.",
+        "included": "El proveedor puede facilitar computadora. También se admite portátil propio.",
+        "extras": "Precio sin publicar.",
+        "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      },
+      "accommodation": "Programa diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Edad adecuada. Confirmar plaza e idioma del taller."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No por ahora. Módulo desde 9 años."
+        }
+      },
+      "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      ],
+      "sources": [
+        {
+          "url": "https://polykids.pf/stages-vacances-creation-de-jeu-video-a-moorea",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://polykids.pf/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1690",
+      "slug": "bricks-noumea-holidays",
+      "provider": "Bricks 4 Kidz · Nouvelle-Calédonie",
+      "country": "Nueva Caledonia",
+      "iso": "NCL",
+      "place": "Nouméa",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "art"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "5–13 años según la ficha local del campamento. Robótica avanzada desde 7 años según el operador.",
+      "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "confirmed_instruction_languages": [],
+      "programme": "Medias jornadas de vacaciones con LEGO, montaje motorizado, programación y animación. Contenido según el turno.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Programa de vacaciones. Próximo turno con fechas aún sin confirmar.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "XPF",
+        "amount": null,
+        "unit": "course",
+        "label": "Confirmar tarifa y fechas del turno concreto. Las tarifas de talleres sueltos no se aplican al campamento.",
+        "included": "Medias jornadas de vacaciones con LEGO, montaje motorizado, programación y animación. Contenido según el turno.",
+        "extras": "Precio sin publicar.",
+        "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      },
+      "accommodation": "Programa diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Edad adecuada para el campamento. Confirmar grupo de robótica e idioma."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Edad adecuada para LEGO general y montaje motorizado desde 6 años. Robótica WeDo 2.0 desde 7 años."
+        }
+      },
+      "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      ],
+      "sources": [
+        {
+          "url": "https://bricks4kidz.fr/nouvelle-caledonie/nos-activites/stage-vacances/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://bricks4kidz.fr/nouvelle-caledonie/nos-activites/robotique/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://bricks4kidz.fr/nouvelle-caledonie/nos-activites/ateliers-lego/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://kids.nc/listing/bricks-4-kidz-nc/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1691",
+      "slug": "kidz-code-camp-fiji-nadi",
+      "provider": "Kidz Code Camp · Nadi",
+      "country": "Fiyi",
+      "iso": "FJI",
+      "place": "Aliz Centre · Level 2 · 231 Queens Road · Martintar · Nadi",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "6–16 años según el proveedor.",
+      "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "confirmed_instruction_languages": [],
+      "programme": "El niño diseña, monta y programa un robot. Java, simulador 3D y proyecto físico.",
+      "timing": {
+        "status": "regular_programme",
+        "label": "Entre semana. Jornada completa 09:00–15:30. Tourism Fiji también indica 09:00–12:00 y 12:30–15:30. Confirmar fecha disponible.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": null,
+        "amount": null,
+        "unit": "child_day",
+        "label": "Oferta inicial de $199 por niño. Descuento de $20 por cada niño adicional en la misma inscripción. Cálculo para dos $378 si la oferta sigue vigente. Confirmar moneda y factura final.",
+        "included": "Para la jornada completa, el operador indica comidas, bebidas, dispositivo, transporte de regreso y certificado de finalización.",
+        "extras": "Turismo enumera dos medias jornadas. Confirmar por separado condiciones, precios y edad de la opción elegida.",
+        "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      },
+      "accommodation": "Programa diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional si ya ha cumplido 6 años al comenzar."
+        }
+      },
+      "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+        "Confirmar moneda, tarifa para dos, alcance del transporte e inclusiones de media jornada."
+      ],
+      "sources": [
+        {
+          "url": "https://www.kidzcodecamp.com/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.fiji.travel/deals-and-offers/experiences/kids-code-camp",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [
+        "L211"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1692",
+      "slug": "chooron-guam-winter",
+      "provider": "CHOORON · Global STEAM Camp Guam",
+      "country": "Guam",
+      "iso": "GUM",
+      "place": "Guam",
+      "themes": [
+        "technology",
+        "general",
+        "language"
+      ],
+      "formats": [
+        "unknown"
+      ],
+      "age": "El proveedor indica primaria y secundaria para Guam. Edad mínima y equivalencia escolar sin publicar.",
+      "language": "Inglés anunciado para la parte conversacional e inmersión escolar. Confirmar idioma del módulo técnico.",
+      "confirmed_instruction_languages": [],
+      "programme": "Inmersión en clases de una escuela local e inglés conversacional. El proveedor menciona un STEM Camp vinculado a NASA. Confirmar proveedor del módulo técnico.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Programa de invierno de 4 semanas. Calendario del próximo turno, alojamiento y precio sin publicar.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": null,
+        "amount": null,
+        "unit": "course",
+        "label": "Precio sin publicar.",
+        "included": "Inmersión en clases de una escuela local e inglés conversacional. El proveedor menciona un STEM Camp vinculado a NASA. Confirmar proveedor del módulo técnico.",
+        "extras": "Precio sin publicar.",
+        "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      },
+      "accommodation": "Confirmar alojamiento con el proveedor.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Confirmar grupo de edad e idioma antes de inscribirse."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional. Confirmar grupo de edad e idioma antes de inscribirse."
+        }
+      },
+      "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      ],
+      "sources": [
+        {
+          "url": "https://chooron.ai/educationContent_en/camp.php",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "confirmed_support_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "language_lessons",
+      "related_event_ids": [],
+      "calendar_links": []
     }
   ],
   "gaps": [
@@ -282778,7 +283339,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 217,
+  "version": 218,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -296013,7 +296574,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1686,
+      "total_dossiers": 1692,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -314318,6 +314879,16 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP1687",
+      "event_id": "CP1687-20261214-20261218",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1691",
+      "event_id": "L211",
+      "relation": "related_track_or_operator"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -318224,10 +318795,11 @@
     "CP1686-20270104-20270108-northcote-1",
     "CP1686-20270111-20270115-northcote-2",
     "CP1686-20270118-20270122-northcote-3",
-    "CP1686-20270118-20270122-eltham-3"
+    "CP1686-20270118-20270122-eltham-3",
+    "CP1687-20261214-20261218"
   ],
   "integration": {
-    "generated_sessions": 3476,
+    "generated_sessions": 3477,
     "reused_legacy_events": 69,
     "seasonal_windows": 60,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

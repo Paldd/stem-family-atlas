@@ -6,9 +6,9 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 7672; competiciones: 3196; eventos: 348; campamentos / programas: 4128. Perfiles de ligas y programas: 268. Fichas de exposiciones grandes y especializadas: 260 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 7681; competiciones: 3200; eventos: 352; campamentos / programas: 4129. Perfiles de ligas y programas: 268. Fichas de exposiciones grandes y especializadas: 264 — son ediciones y sedes, no cantidad de marcas únicas.
 
-Hay registros concretos de 158 de 249 países y territorios; países auditados por completo: 0. Revisión histórica v51: se añadieron 21 fichas y 3 perfiles. Todas las fichas anteriores se conservan.
+Hay registros para 159 de 249 países y territorios. Países con auditoría completa: 0. La revisión histórica v51 agregó 21 fichas y 3 perfiles. Se conservaron las fichas previas.
 
 ## Cobertura por continentes
 
@@ -16,14 +16,14 @@ Hay registros concretos de 158 de 249 países y territorios; países auditados p
 |---|---:|---:|---:|---:|
 | América del Norte | 23 | 1448 | 48 | 1072 |
 | América del Sur | 10 | 203 | 11 | 136 |
-| Europa | 42 | 432 | 80 | 1298 |
+| Europa | 42 | 433 | 81 | 1298 |
 | África | 34 | 115 | 15 | 68 |
-| Asia | 44 | 777 | 89 | 1409 |
-| Oceanía | 5 | 125 | 16 | 133 |
+| Asia | 44 | 778 | 89 | 1409 |
+| Oceanía | 6 | 128 | 19 | 134 |
 
-Fichas interregionales o globales sin un único continente asignado: 114. América del Norte incluye Centroamérica y el Caribe. Las cifras muestran el inventario del atlas y no un porcentaje de exhaustividad.
+Fichas interregionales / mundiales sin asignar a un solo continente: 113. América del Norte incluye América Central y el Caribe. Las cifras muestran el inventario de la base, no un porcentaje de cobertura.
 
-VEX: 518 de 3196 fichas de competiciones (16.2%). La cobertura está sesgada hacia este circuito.
+VEX: 518 de 3200 fichas de competiciones (16.2%). La cobertura está sesgada hacia este circuito.
 
 ## Lo que queda
 
@@ -134,7 +134,7 @@ VEX: 518 de 3196 fichas de competiciones (16.2%). La cobertura está sesgada hac
 - **IOAI · Olimpiadas de IA**: 0 tarjetas, 0 con fechas exactas futuras. https://ioai-official.org/wp-content/uploads/2025/08/IOAI-regulations.pdf
 - **IOI - Olimpiadas de informática**: 0 tarjetas, 0 con fechas exactas futuras, solo perfil; no se ha añadido un calendario de etapas. https://ioinformatics.org/files/regulations24-web.pdf
 - *Regeneron ISEF**: 0 tarjetas, 0 con fechas exactas futuras. https://www.societyforscience.org/isef/international-rules/rules-for-all-projects/
-- **FIRST Global Challenge**: 3 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://first.global/fgc/
+- **FIRST Global Challenge**: 4 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://first.global/fgc/
 - **FIRA RoboWorld Cup / Youth**: 1 tarjeta, 0 con fechas exactas futuras. https://firaworldcup.org/news/fira-roboworld-cup-and-summit-2026-call-for-paper/
 - *Universal Robotics Challenge (URC)**: 1 tarjeta, 0 con fechas exactas futuras. https://www.urc21.org/en/overview.php
 - **World Robot Contest (CIE)**: 109 fichas, 96 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.worldrobotconference.com/contest/regulations/2632.html
@@ -143,7 +143,7 @@ VEX: 518 de 3196 fichas de competiciones (16.2%). La cobertura está sesgada hac
 - **MATE ROV Competition**: 2 tarjetas, 1 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://materovcompetition.org/scout
 - **ICYS · Young Scientifics**: 1 tarjeta, 1 con fechas exactas futuras. https://icysconference.com/
 - **PARC · Pan-African Robotics Competition**: 1 tarjeta, 1 con fechas exactas futuras. https://www.parcrobotics.org/
-- **ABU Robocon**: 1 tarjeta, 0 con fechas exactas futuras. https://www.abu.org.my/news/hong-kong-hosts-abu-robocon-2026-as-young-innovators-take-on-kung-fu-quest/
+- **ABU Robocon**: 2 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.abu.org.my/news/hong-kong-hosts-abu-robocon-2026-as-young-innovators-take-on-kung-fu-quest/
 - **ROBO-ONE / Light / auto / Beginners**: 1 tarjeta, 1 con fechas exactas futuras. https://www.robo-one.com/en/
 - *RoboCup Major · Socker / Rescue / @Home / Industrial**: 1 tarjeta, 1 con fechas exactas futuras. https://www.robocup.org/
 - **MARC Taiwan**: 4 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.era.org.tw/main/wp-content/uploads/2026/09/2026-2027-FIRST%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%A4%A7%E8%B3%BD-%E5%8F%B0%E7%81%A3%E9%81%B8%E6%8B%94%E8%B3%BD_%E7%B0%A1%E7%AB%A0-1.pdf
@@ -596,6 +596,10 @@ VEX: 518 de 3196 fichas de competiciones (16.2%). La cobertura está sesgada hac
 - **New Zealand International Science Festival 2027** — Nueva Zelanda; 2027-07-09 – 2027-07-18. con un adulto; condiciones de admisión adulta por separado. https://scifest.org.nz/
 - **Play Con Australia 2027 · tabletop games** — Australia; 2027-07-02 – 2027-07-04. con un adulto; condiciones de admisión adulta por separado. https://play-con.com/faq/
 - **PAX Aus · 2027** — Australia; fecha desconocida. Confirmar acceso infantil. https://aus.paxsite.com/
+- **FIRST Global Challenge 2027 · Madrid · spectators** — España; 2027-10-20 – 2027-10-23. el permiso de entrada de niños. https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Todas-las-noticias/Madrid-acogera-en-2027-FIRST-Global-la-olimpiada-internacional-de-robotica-juvenil/?vgnextchannel=e40362215c483510VgnVCM2000001f4a900aRCRD&vgnextfmt=default&vgnextoid=8da434e133531a10VgnVCM100000891ecb1aRCRD
+- **University of Guam · Tech Fest 2026** — Guam; 2026-03-05. el permiso de entrada de niños. https://www.uog.edu/charter-day/2026/schedule
+- **NASA Guam Space Grant · STEM Saturday · Discovering Drones** — Guam; fecha desconocida. Confirmar acceso infantil. https://www.uog.edu/nasa-guam-space-grant/stem-saturday
+- **Fête de la science · Nārama · Polynésie française 2026** — Polinesia Francesa; 2026-10-02 – 2026-10-16. el permiso de entrada de niños. https://forco.upf.pf/fr/actualites/35eme-edition-de-la-fete-de-la-science-appel-participation
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

@@ -3496,19 +3496,19 @@ Comprobado: 2026-10-01
 
 ### L211 · KidzCodeCamp Fiji · Robótica de día para turistas
 
-Lugar: Fiji · Nadi · Aliz Centre, Level 2, Martintar
-Fecha: Días laborables 09:00–15:30 (hora) Fiji; día y lugar específicos para aclarar
+lugar: Fiyi · Aliz Centre · Level 2 · 231 Queens Road · Martintar · Nadi
+Fecha: Entre semana. Jornada completa 09:00–15:30. Tourism Fiji también indica 09:00–12:00 y 12:30–15:30. Confirmar fecha disponible.
 Edad: 6 a 16 años
 Matway: Condicionalmente, la edad es adecuada; idioma y día seleccionado para confirmar
 Óscar: Condicionalmente, la edad es adecuada; idioma y día seleccionado para confirmar
 Formato: day_camp
 Idioma: El idioma de la sesión/protección no está confirmado; el sitio en la Web no es una prueba
 Marca de idioma: unconfirmed; apoyo: no declarado
-Costo: Introductory offer $199 / persona en el sitio web; la moneda y el precio actual no están claramente identificados.
+Precio: Oferta inicial de $199 por niño. Descuento de $20 por cada niño adicional en la misma inscripción. Cálculo para dos $378 si la oferta sigue vigente. Confirmar moneda y factura final.
 Entrada: Seleccione un día de semana accesible; confirme la enseñanza en régimen de EN, la carga de la banda y la transferencia del hotel.
-Limitaciones: El operador ofrece un día de descanso de 09:00 a 15:30 de la tarde, comida, computadora y trasferido. No se ha registrado ningún cambio específico en el futuro. El formato de turista está confirmado; las clases de EN no están claramente confirmadas en los detalles pertinentes leídos. Es un candidato para un viaje familiar que no se ha demostrado en el mejor campamento internacional.
+Limitaciones: Para la jornada completa, el operador indica comidas, bebidas, dispositivo, transporte de regreso y certificado de finalización. Turismo enumera dos medias jornadas. Confirmar por separado condiciones, precios y edad de la opción elegida.
 Fuente: https://www.kidzcodecamp.com/
-Comprobado: 2026-10-01
+Se ha comprobado: 2026-11-07
 
 ### L212 · STEAM-ED · Robotics Carnival Rides
 
@@ -64836,6 +64836,22 @@ Precio: 2027 · AUD 495 por niño por 5 días. · suplementos y condiciones en e
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Confirmar plaza en el grupo de 5–6 o 7 años según cumpleaños. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://www.kidsupfront.com.au/page/holiday-camps
+Se ha comprobado: 2026-11-07
+
+### CP1687-20261214-20261218 · PolyKids · Unity Tahiti · Unity · game design & AI · 2026-12-14–2026-12-18
+
+lugar: Polinesia Francesa · Tahiti Coworking · 27 Rue Colette · Papeete
+Fecha: 2026-12-14 - 2026-12-18
+edad: Desde 9 años. Confirmar límite superior de 16–17 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · XPF 38000 por 5 sesiones matutinas. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada. Confirmar plaza e idioma del taller. Oscar: No por ahora. Módulo desde 9 años. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://polykids.pf/camp-jeu-video
 Se ha comprobado: 2026-11-07
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

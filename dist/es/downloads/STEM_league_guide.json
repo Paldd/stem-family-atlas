@@ -6239,7 +6239,9 @@
         "event_ids": [
           "C762",
           "C839",
-          "C884"
+          "C884",
+          "C3198",
+          "E349"
         ],
         "legacy_ids": [],
         "route": "equipo escolar → socio nacional → selección de equipo → FIRST Global.",
@@ -6254,7 +6256,8 @@
         "nuances": [
           "FIRST Global y FIRST Championship tienen diferentes procedimientos de ingreso.",
           "el pasaporte o la residencia por sí mismos no dan lugar en el equipo.",
-          "Bolivia AGETIC describe las zonas locales Tecnólogos / Inventores sin edad en esta página. la selección mundial 14–18 años se considera por separado del proyecto infantil local."
+          "Bolivia AGETIC describe las zonas locales Tecnólogos / Inventores sin edad en esta página. la selección mundial 14–18 años se considera por separado del proyecto infantil local.",
+          "Madrid, 20–23 de octubre de 2027 según el ayuntamiento. Condiciones para espectadores y reglas de cada selección se comprueban por separado."
         ],
         "cost": "La inscripción, la técnica, el tutor y el viaje dependen de la etapa; el presupuesto familiar no se calcula.",
         "award": "El resultado oficial y la recompensa de la etapa seleccionada.",
@@ -6273,6 +6276,16 @@
             "url": "https://www.gov.kz/memleket/entities/maidd/press/news/details/1279010?lang=ru",
             "title": "nacional2026",
             "checked": "2026-10-01"
+          },
+          {
+            "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Todas-las-noticias/Madrid-acogera-en-2027-FIRST-Global-la-olimpiada-internacional-de-robotica-juvenil/?vgnextchannel=e40362215c483510VgnVCM2000001f4a900aRCRD&vgnextfmt=default&vgnextoid=8da434e133531a10VgnVCM100000891ecb1aRCRD",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://first.global/press-releases/a-world-united-in-incheon-2026-first-global-challenge-concludes-as-champions-are-crowned-and-madrid-revealed-as-2027-host/",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
           }
         ],
         "evidence": "la fuente original se ha leído 30.09.2026. la admisión de la familia y la representación nacional no se han confirmado."
@@ -7335,7 +7348,8 @@
           }
         ],
         "event_ids": [
-          "C772"
+          "C772",
+          "C3199"
         ],
         "legacy_ids": [],
         "route": "equipo universitario → nacional Robocon → representante en ABU.",
@@ -7349,7 +7363,7 @@
         ],
         "nuances": [
           "Los Robocon nacionales y los finales de ABU  etapas separadas.",
-          "Es una larga trayectoria universitaria; las fechas de la próxima temporada no se conocen."
+          "29 de agosto de 2027: día de competición. Del 27 al 31 de agosto: programa de delegaciones. Reto The Pursuit of Mustika Nusantara, robots Transporter y Builder. Confirmar acceso de espectadores y emisión por separado."
         ],
         "cost": "La inscripción, la técnica, el tutor y el viaje dependen de la etapa; el presupuesto familiar no se calcula.",
         "award": "El resultado oficial y la recompensa de la etapa seleccionada.",
@@ -7358,9 +7372,19 @@
             "title": "informe del organizador 2026",
             "url": "https://www.abu.org.my/news/hong-kong-hosts-abu-robocon-2026-as-young-innovators-take-on-kung-fu-quest/",
             "checked": "2026-09-30"
+          },
+          {
+            "url": "https://aburobocon2027.id/",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://aburobocon2027.id/rulebook/",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
           }
         ],
-        "evidence": "la fuente original se ha leído 30.09.2026. la admisión de la familia y la representación nacional no se han confirmado."
+        "evidence": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado."
       },
       {
         "id": "roboone",

@@ -580,8 +580,8 @@
       }
     ],
     "counts": {
-      "records": 4128,
-      "holiday": 3854,
+      "records": 4129,
+      "holiday": 3855,
       "regular": 120,
       "self_paced_materials": 2,
       "boarding": 1026,
@@ -593,7 +593,7 @@
       "language_lessons": 408,
       "camp_life_language": 228,
       "language_unclassified": 137,
-      "countries": 98
+      "countries": 99
     },
     "validation": {
       "version": 51,
@@ -13675,13 +13675,13 @@
       "title": "KidzCodeCamp Fiji · tecnología robótica diurna para turistas",
       "country": "Fiyi",
       "region": "Oceanía",
-      "city": "Nadi · Aliz Centre, Level 2, Martintar",
+      "city": "Aliz Centre · Level 2 · 231 Queens Road · Martintar · Nadi",
       "source": "https://www.kidzcodecamp.com/",
-      "checked": "2026-10-01",
+      "checked": "2026-11-07",
       "start": "",
       "end": "",
       "deadline": "",
-      "period": "días laborables 09:00 a 15:30 hora fijiana; especificar el día y el lugar concretos",
+      "period": "Entre semana. Jornada completa 09:00–15:30. Tourism Fiji también indica 09:00–12:00 y 12:30–15:30. Confirmar fecha disponible.",
       "date_status": "No se ha anunciado",
       "age": "6–16 años",
       "mat": "condicionalmente: por edad; el idioma y el día elegido confirmar",
@@ -13690,11 +13690,11 @@
       "participation": "day_camp",
       "admission_kind": "program",
       "entry": "Seleccionar el día de trabajo disponible; confirmar la enseñanza de EN, la carga del grupo y el traslado al hotel.",
-      "gear": "Java, simulador 3D y robot físico; el dispositivo se proporciona según la descripción del operador.",
+      "gear": "El niño diseña, monta y programa un robot. Java, simulador 3D y proyecto físico.",
       "language": "lengua de ocupación / protección no está confirmada; el sitio de la EN no es prueba",
       "languages": [],
       "support_languages": [],
-      "cost": "Introductory offer $199 / persona en el sitio; la moneda y el precio actual no se indican de forma unívoca.",
+      "cost": "Oferta inicial de $199 por niño. Descuento de $20 por cada niño adicional en la misma inscripción. Cálculo para dos $378 si la oferta sigue vigente. Confirmar moneda y factura final.",
       "scope": "local",
       "level": "Programa formativo local",
       "importance_reason": "evaluar la escala de un programa concreto; la presencia de un sitio web y un certificado no demuestra su lugar en el ranking mundial.",
@@ -13706,18 +13706,22 @@
       "evidence_level": "program",
       "references": [
         {
-          "label": "Tourism Fiji: formato turístico y transferencia",
-          "url": "https://www.fiji.travel/deals-and-offers/experiences/kids-code-camp"
+          "url": "https://www.fiji.travel/deals-and-offers/experiences/kids-code-camp",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://www.kidzcodecamp.com/",
+          "label": "Página oficial del organizador"
         }
       ],
-      "note": "operador ofrece un día de la semana 09:00–15:30, alimentación, computadora y traslado. cambio futuro concreto no está fechado. el formato turístico está confirmado; de las clases en EN no se confirman directamente en los detalles actuales leídos. Es un candidato para un viaje familiar., el mejor campo internacional no probado.",
+      "note": "Para la jornada completa, el operador indica comidas, bebidas, dispositivo, transporte de regreso y certificado de finalización. Turismo enumera dos medias jornadas. Confirmar por separado condiciones, precios y edad de la opción elegida.",
       "registration_status": "No se ha presentado la solicitud de la familia; el programa publicado no confirma el lugar.",
       "language_certainty": "El idioma del sitio no se ha transferido al idioma de enseñanza / juez.",
       "themes": [
         "robotics",
         "coding"
       ],
-      "date_scope": "festival_window",
+      "date_scope": "season_window",
       "language_mode": "unconfirmed",
       "iso": [
         "FJI"
@@ -323397,6 +323401,123 @@
           "ical_timed": true,
           "start_utc": "2027-01-21T22:00:00Z",
           "end_utc": "2027-01-22T04:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      }
+    },
+    {
+      "id": "CP1687-20261214-20261218",
+      "block": "Campamentos",
+      "title": "PolyKids · Unity Tahiti · Unity · game design & AI · 2026-12-14–2026-12-18",
+      "country": "Polinesia Francesa",
+      "region": "Oceanía",
+      "city": "Tahiti Coworking · 27 Rue Colette · Papeete",
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "period": "5 días lectivos, 08:00–12:00 hora de Tahití.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Desde 9 años. Confirmar límite superior de 16–17 años.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "En 5 días crean un videojuego en Unity, diseñan gráficos 2D y 3D, prueban IA para ideas, programan visualmente y presentan su proyecto.",
+      "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "cost": "2026/27 · XPF 38000 por 5 sesiones matutinas. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.; La página Unity indica 9–17 años y las preguntas frecuentes 9–16. Confirmar tamaño del grupo y reembolso antes de pagar.",
+      "source": "https://polykids.pf/camp-jeu-video",
+      "references": [
+        {
+          "url": "https://polykids.pf/camp-jeu-video",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://polykids.pf/nous-trouver",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Edad adecuada. Confirmar plaza e idioma del taller. Oscar: No por ahora. Módulo desde 9 años. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "PYF"
+      ],
+      "themes": [
+        "games",
+        "ai",
+        "coding",
+        "design"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "polykids-tahiti-unity-dec2026",
+      "camp_programme_id": "CP1687",
+      "sessions": [
+        {
+          "date": "2026-12-14",
+          "topic": "En 5 días crean un videojuego en Unity, diseñan gráficos 2D y 3D, prueban IA para ideas, programan visualmente y presentan su proyecto.",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "Pacific/Tahiti",
+          "ical_timed": true,
+          "start_utc": "2026-12-14T18:00:00Z",
+          "end_utc": "2026-12-14T22:00:00Z"
+        },
+        {
+          "date": "2026-12-15",
+          "topic": "En 5 días crean un videojuego en Unity, diseñan gráficos 2D y 3D, prueban IA para ideas, programan visualmente y presentan su proyecto.",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "Pacific/Tahiti",
+          "ical_timed": true,
+          "start_utc": "2026-12-15T18:00:00Z",
+          "end_utc": "2026-12-15T22:00:00Z"
+        },
+        {
+          "date": "2026-12-16",
+          "topic": "En 5 días crean un videojuego en Unity, diseñan gráficos 2D y 3D, prueban IA para ideas, programan visualmente y presentan su proyecto.",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "Pacific/Tahiti",
+          "ical_timed": true,
+          "start_utc": "2026-12-16T18:00:00Z",
+          "end_utc": "2026-12-16T22:00:00Z"
+        },
+        {
+          "date": "2026-12-17",
+          "topic": "En 5 días crean un videojuego en Unity, diseñan gráficos 2D y 3D, prueban IA para ideas, programan visualmente y presentan su proyecto.",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "Pacific/Tahiti",
+          "ical_timed": true,
+          "start_utc": "2026-12-17T18:00:00Z",
+          "end_utc": "2026-12-17T22:00:00Z"
+        },
+        {
+          "date": "2026-12-18",
+          "topic": "En 5 días crean un videojuego en Unity, diseñan gráficos 2D y 3D, prueban IA para ideas, programan visualmente y presentan su proyecto.",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "Pacific/Tahiti",
+          "ical_timed": true,
+          "start_utc": "2026-12-18T18:00:00Z",
+          "end_utc": "2026-12-18T22:00:00Z"
         }
       ],
       "availability": {
