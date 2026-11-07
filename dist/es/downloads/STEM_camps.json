@@ -580,7 +580,7 @@
       }
     ],
     "counts": {
-      "records": 4346,
+      "records": 4347,
       "holiday": 4071,
       "regular": 120,
       "self_paced_materials": 2,
@@ -593,7 +593,7 @@
       "language_lessons": 410,
       "camp_life_language": 228,
       "language_unclassified": 137,
-      "countries": 102
+      "countries": 103
     },
     "validation": {
       "version": 51,
@@ -33344,6 +33344,54 @@
         "status": "interest",
         "label": "La organización recibe solicitudes y contacta para confirmar la plaza."
       }
+    },
+    {
+      "id": "L657",
+      "block": "Campamentos",
+      "title": "345Robotics · Cayman team season 2026–27",
+      "country": "Islas Caimán",
+      "region": "Caribe",
+      "iso": [
+        "CYM"
+      ],
+      "city": "Grand Cayman",
+      "start": "",
+      "end": "",
+      "deadline": "",
+      "period": "Temporada 2026–27 desde el 31 de agosto de 2026. Confirmar calendario de reuniones.",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://www.345robotics.org/programs/",
+      "references": [],
+      "age": "7+",
+      "mat": "Condicional. Edad adecuada. Confirmar composición, plazas y acceso para visitantes.",
+      "osc": "No por ahora. Antes de los 7 años solo se admite indicar interés.",
+      "format": "Club por equipos. No se exige experiencia.",
+      "entry": "Inscripción de temporada mediante el club. Mínimo 7 años en el programa principal; menores de 7 pueden indicar interés futuro.",
+      "gear": "Construcción y programación de un robot, estrategia de juego y práctica en equipo.",
+      "language": "Confirmar el idioma del grupo o sede concretos.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Precio sin publicar.",
+      "level": "Programa nacional",
+      "reward": "El club prevé equipos de primaria y secundaria para RECF STEM World Championship 2027.",
+      "priority": "P1 — verificar admisión y plazos",
+      "action": "Inscripción de temporada mediante el club. Mínimo 7 años en el programa principal; menores de 7 pueden indicar interés futuro.",
+      "note": "La asistencia se anuncia como plan. Confirmar selección, plazas del equipo y acreditación de cupo.",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "scope": "national",
+      "importance_reason": "Etapa regional",
+      "participation": "day_course",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch"
     },
     {
       "id": "CP001-20270606-20270619",

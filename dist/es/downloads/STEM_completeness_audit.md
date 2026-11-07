@@ -6,24 +6,24 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 8027; competiciones: 3294; eventos: 387; campamentos / programas: 4346. Perfiles de ligas y programas: 273. Fichas de exposiciones grandes y especializadas: 299 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 8041; competiciones: 3302; eventos: 392; campamentos / programas: 4347. Perfiles de ligas y programas: 274. Fichas de exposiciones grandes y especializadas: 304 — son ediciones y sedes, no cantidad de marcas únicas.
 
-Hay registros para 159 de 249 países y territorios. Países con auditoría completa: 0. La revisión histórica v51 agregó 21 fichas y 3 perfiles. Se conservaron las fichas previas.
+Hay fichas concretas en 161 de 249 países y territorios. Países con auditoría completa: 0. Revisión histórica v51: se añadieron 21 fichas y 3 perfiles. Se conservan las fichas anteriores.
 
 ## Cobertura por continentes
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 23 | 1452 | 54 | 1076 |
-| América del Sur | 10 | 221 | 21 | 142 |
+| América del Norte | 24 | 1458 | 58 | 1077 |
+| América del Sur | 11 | 222 | 21 | 142 |
 | Europa | 42 | 434 | 82 | 1327 |
 | África | 34 | 133 | 21 | 70 |
 | Asia | 44 | 825 | 96 | 1550 |
 | Oceanía | 6 | 129 | 24 | 168 |
 
-Fichas interregionales o mundiales sin un continente asignado: 119. América del Norte incluye Centroamérica y el Caribe. Las cifras representan el inventario de la base y no un porcentaje de cobertura.
+Fichas interregionales o mundiales sin un continente asignado: 121. América del Norte incluye Centroamérica y el Caribe. Las cifras representan el inventario de la base y no un porcentaje de cobertura.
 
-VEX: 518 de 3294 fichas de competición (15.7%). El catálogo presenta un sesgo de cobertura.
+VEX: 518 de 3302 fichas de competición (15.7%). El catálogo presenta un sesgo de cobertura.
 
 ## Lo que queda
 
@@ -134,7 +134,7 @@ VEX: 518 de 3294 fichas de competición (15.7%). El catálogo presenta un sesgo 
 - **IOAI · Olimpiadas de IA**: 0 tarjetas, 0 con fechas exactas futuras. https://ioai-official.org/wp-content/uploads/2025/08/IOAI-regulations.pdf
 - **IOI - Olimpiadas de informática**: 0 tarjetas, 0 con fechas exactas futuras, solo perfil; no se ha añadido un calendario de etapas. https://ioinformatics.org/files/regulations24-web.pdf
 - *Regeneron ISEF**: 0 tarjetas, 0 con fechas exactas futuras. https://www.societyforscience.org/isef/international-rules/rules-for-all-projects/
-- **FIRST Global Challenge**: 4 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://first.global/fgc/
+- **FIRST Global Challenge**: 5 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://first.global/fgc/
 - **FIRA RoboWorld Cup / Youth**: 1 tarjeta, 0 con fechas exactas futuras. https://firaworldcup.org/news/fira-roboworld-cup-and-summit-2026-call-for-paper/
 - *Universal Robotics Challenge (URC)**: 1 tarjeta, 0 con fechas exactas futuras. https://www.urc21.org/en/overview.php
 - **World Robot Contest (CIE)**: 109 fichas, 96 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.worldrobotconference.com/contest/regulations/2632.html
@@ -297,6 +297,7 @@ VEX: 518 de 3294 fichas de competición (15.7%). El catálogo presenta un sesgo 
 - **HERO Challenge · Explorer / Pro**: 6 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://hero-challenge.org/events
 - **FIRST LEGO League Colombia · BIOGLOW Founders**: 4 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://unno.uniminuto.edu/bioglow/
 - **Chaski Bots LAB · Ecuador**: 10 fichas, 10 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://chaskibots.com/torneo-de-robotica-2026-el-chaco/
+- **STRIPE Jamaica · Ride-Rush**: 6 fichas, 5 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.zedmakeylatechnologies.com/forum2026
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 10 tarjetas, 0 con fechas exactas futuras. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -640,6 +641,11 @@ VEX: 518 de 3294 fichas de competición (15.7%). El catálogo presenta un sesgo 
 - **INTERFACEXpo 2027 · Auckland** — Nueva Zelanda; 2027-05-20. el permiso de entrada de niños. https://interfacexpo.nz/
 - **UNAD EXPOBOT 2026 · Robótica y prototipos** — Colombia; 2026-11-11. el permiso de entrada de niños. https://eventos.unad.edu.co/expobot-2026-innovacion-que-transforma-el-territorio
 - **Indie Fest Chile 2026 · Showcase de videojuegos** — Chile; 2026-11-12. el permiso de entrada de niños. https://indiefestchile.cl/2026.html
+- **STRIPE Jamaica · Competition Floor** — Jamaica; 2026-11-09. con un adulto; condiciones de admisión adulta por separado. https://www.stripecompetition.com/jamaica
+- **Zed Jamaica · International Robotics & AI Leadership Forum** — Jamaica; 2026-11-09. el permiso de entrada de niños. https://www.zedmakeylatechnologies.com/forum2026
+- **STEM Carib 2026 · Friday STEM Fun Afternoon** — Islas Caimán; 2026-11-13. con un adulto; condiciones de admisión adulta por separado. https://ucci.edu.ky/events/stem-carib-2026-conference-fun-afternoon
+- **STEM Carib 2026 · Student Breakout Sessions** — Islas Caimán; 2026-11-11 – 2026-11-13. el permiso de entrada de niños. https://ucci.edu.ky/stem-carib-conference
+- **Caribbean STEM Olympiads 2027 · Information Session 4** — Internacional en línea; 2026-11-15. el permiso de entrada de niños. https://caribbeanscience.org/cso/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

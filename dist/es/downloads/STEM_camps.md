@@ -9286,6 +9286,22 @@ Limitaciones: Autumn Makers Lab para 6–9 años. Robots, código, retos de inge
 Fuente: https://curioo.sa/en/autumn-program
 Se ha comprobado: 2026-11-07
 
+### L657 · 345Robotics · Cayman team season 2026–27
+
+lugar: Islas Caimán · Grand Cayman
+Fecha: Temporada 2026–27 desde el 31 de agosto de 2026. Confirmar calendario de reuniones.
+edad: 7+
+Matvey: Condicional. Edad adecuada. Confirmar composición, plazas y acceso para visitantes.
+Oscar: No por ahora. Antes de los 7 años solo se admite indicar interés.
+formato: day_course
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Precio sin publicar.
+Acceso: Inscripción de temporada mediante el club. Mínimo 7 años en el programa principal; menores de 7 pueden indicar interés futuro.
+Limitaciones: La asistencia se anuncia como plan. Confirmar selección, plazas del equipo y acreditación de cupo.
+Fuente: https://www.345robotics.org/programs/
+Se ha comprobado: 2026-11-07
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier

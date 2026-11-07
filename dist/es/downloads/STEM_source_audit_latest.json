@@ -16,14 +16,14 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 8027,
-    "competition_cards": 3294,
-    "event_cards": 387,
-    "camp_cards": 4346,
-    "league_profiles": 273,
-    "major_exhibition_cards": 299,
+    "cards": 8041,
+    "competition_cards": 3302,
+    "event_cards": 392,
+    "camp_cards": 4347,
+    "league_profiles": 274,
+    "major_exhibition_cards": 304,
     "vex_cards": 518,
-    "countries_with_records": 159,
+    "countries_with_records": 161,
     "fully_audited_countries": 0
   },
   "continents": [
@@ -34,12 +34,12 @@
         "América Central",
         "Caribe"
       ],
-      "total": 2619,
-      "countries_with_records": 23,
-      "competitions": 1452,
-      "events": 91,
-      "major_exhibitions": 54,
-      "camps": 1076,
+      "total": 2630,
+      "countries_with_records": 24,
+      "competitions": 1458,
+      "events": 95,
+      "major_exhibitions": 58,
+      "camps": 1077,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
     },
@@ -48,9 +48,9 @@
       "regions": [
         "América del Sur"
       ],
-      "total": 387,
-      "countries_with_records": 10,
-      "competitions": 221,
+      "total": 388,
+      "countries_with_records": 11,
+      "competitions": 222,
       "events": 24,
       "major_exhibitions": 21,
       "camps": 142,
@@ -2719,11 +2719,12 @@
         "C762",
         "C839",
         "C884",
-        "C3198"
+        "C3198",
+        "C3302"
       ],
-      "cards": 4,
+      "cards": 5,
       "future_dated": 1,
-      "linked_card_count": 5,
+      "linked_card_count": 6,
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://first.global/fgc/",
       "new": false
@@ -3490,7 +3491,7 @@
       ],
       "cards": 2,
       "future_dated": 2,
-      "linked_card_count": 3,
+      "linked_card_count": 4,
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://caribbeanscience.org/cso/",
       "new": false
@@ -6190,6 +6191,25 @@
       "linked_card_count": 10,
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://chaskibots.com/torneo-de-robotica-2026-el-chaco/",
+      "new": false
+    },
+    {
+      "id": "stripe-jamaica",
+      "name": "STRIPE Jamaica · Ride-Rush",
+      "group": "regional",
+      "event_ids": [
+        "C3296",
+        "C3297",
+        "C3298",
+        "C3299",
+        "C3300",
+        "C3301"
+      ],
+      "cards": 6,
+      "future_dated": 5,
+      "linked_card_count": 6,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://www.zedmakeylatechnologies.com/forum2026",
       "new": false
     },
     {
@@ -10507,6 +10527,61 @@
       "new": false
     },
     {
+      "id": "E388",
+      "name": "STRIPE Jamaica · Competition Floor",
+      "country": "Jamaica",
+      "region": "Caribe",
+      "start": "2026-11-09",
+      "end": "2026-11-09",
+      "visitor_policy": "family",
+      "source": "https://www.stripecompetition.com/jamaica",
+      "new": false
+    },
+    {
+      "id": "E389",
+      "name": "Zed Jamaica · International Robotics & AI Leadership Forum",
+      "country": "Jamaica",
+      "region": "Caribe",
+      "start": "2026-11-09",
+      "end": "2026-11-09",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.zedmakeylatechnologies.com/forum2026",
+      "new": false
+    },
+    {
+      "id": "E390",
+      "name": "STEM Carib 2026 · Friday STEM Fun Afternoon",
+      "country": "Islas Caimán",
+      "region": "Caribe",
+      "start": "2026-11-13",
+      "end": "2026-11-13",
+      "visitor_policy": "family",
+      "source": "https://ucci.edu.ky/events/stem-carib-2026-conference-fun-afternoon",
+      "new": false
+    },
+    {
+      "id": "E391",
+      "name": "STEM Carib 2026 · Student Breakout Sessions",
+      "country": "Islas Caimán",
+      "region": "Caribe",
+      "start": "2026-11-11",
+      "end": "2026-11-13",
+      "visitor_policy": "confirm_children",
+      "source": "https://ucci.edu.ky/stem-carib-conference",
+      "new": false
+    },
+    {
+      "id": "E392",
+      "name": "Caribbean STEM Olympiads 2027 · Information Session 4",
+      "country": "Internacional en línea",
+      "region": "Internacional en línea",
+      "start": "2026-11-15",
+      "end": "2026-11-15",
+      "visitor_policy": "confirm_children",
+      "source": "https://caribbeanscience.org/cso/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -11887,7 +11962,7 @@
       "official_alternative": "https://www.ykpaoschool.cn/News-and-Events/New-Stories/988"
     }
   ],
-  "interregional_cards": 119,
+  "interregional_cards": 121,
   "promoted_exhibition_ids": [],
   "focused_country": {
     "country": "Taiwán",
@@ -12924,7 +12999,7 @@
       }
     ],
     "counts": {
-      "records": 4346,
+      "records": 4347,
       "holiday": 4071,
       "regular": 120,
       "self_paced_materials": 2,
@@ -12937,7 +13012,7 @@
       "language_lessons": 410,
       "camp_life_language": 228,
       "language_unclassified": 137,
-      "countries": 102
+      "countries": 103
     },
     "validation": {
       "version": 51,

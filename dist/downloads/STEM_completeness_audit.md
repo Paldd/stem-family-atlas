@@ -6,24 +6,24 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 8027; соревнований: 3294; событий: 387; лагерей / программ: 4346. Профилей лиг и программ: 273. Карточек крупных и профильных выставок: 299 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 8041; соревнований: 3302; событий: 392; лагерей / программ: 4347. Профилей лиг и программ: 274. Карточек крупных и профильных выставок: 304 — это издания и площадки, не число уникальных брендов.
 
-Конкретные записи есть для 159 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
+Конкретные записи есть для 161 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
 ## Охват по континентам
 
 | Континент | Страны / территории с записями | Соревнования | Крупные выставки | Лагеря / программы |
 |---|---:|---:|---:|---:|
-| Северная Америка | 23 | 1452 | 54 | 1076 |
-| Южная Америка | 10 | 221 | 21 | 142 |
+| Северная Америка | 24 | 1458 | 58 | 1077 |
+| Южная Америка | 11 | 222 | 21 | 142 |
 | Европа | 42 | 434 | 82 | 1327 |
 | Африка | 34 | 133 | 21 | 70 |
 | Азия | 44 | 825 | 96 | 1550 |
 | Океания | 6 | 129 | 24 | 168 |
 
-Межрегиональные / глобальные карточки, не приписанные одному континенту: 119. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
+Межрегиональные / глобальные карточки, не приписанные одному континенту: 121. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
 
-VEX: 518 из 3294 карточек соревнований (15.7%). Это явный перекос охвата.
+VEX: 518 из 3302 карточек соревнований (15.7%). Это явный перекос охвата.
 
 ## Что осталось
 
@@ -134,7 +134,7 @@ VEX: 518 из 3294 карточек соревнований (15.7%). Это я�
 - **IOAI · Олимпиада по ИИ**: 0 карточек, 0 с будущими точными датами. Только профиль; календарь этапов не добавлен. https://ioai-official.org/wp-content/uploads/2025/08/IOAI-regulations.pdf
 - **IOI · Олимпиада по информатике**: 0 карточек, 0 с будущими точными датами. Только профиль; календарь этапов не добавлен. https://ioinformatics.org/files/regulations24-web.pdf
 - **Regeneron ISEF**: 0 карточек, 0 с будущими точными датами. Только профиль; календарь этапов не добавлен. https://www.societyforscience.org/isef/international-rules/rules-for-all-projects/
-- **FIRST Global Challenge**: 4 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://first.global/fgc/
+- **FIRST Global Challenge**: 5 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://first.global/fgc/
 - **FIRA RoboWorld Cup / Youth**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://firaworldcup.org/news/fira-roboworld-cup-and-summit-2026-call-for-paper/
 - **Universal Robotics Challenge (URC)**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.urc21.org/en/overview.php
 - **World Robot Contest (CIE)**: 109 карточек, 96 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.worldrobotconference.com/contest/regulations/2632.html
@@ -297,6 +297,7 @@ VEX: 518 из 3294 карточек соревнований (15.7%). Это я�
 - **HERO Challenge · Explorer / Pro**: 6 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://hero-challenge.org/events
 - **FIRST LEGO League Colombia · BIOGLOW Founders**: 4 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://unno.uniminuto.edu/bioglow/
 - **Chaski Bots LAB · Ecuador**: 10 карточек, 10 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://chaskibots.com/torneo-de-robotica-2026-el-chaco/
+- **STRIPE Jamaica · Ride-Rush**: 6 карточек, 5 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.zedmakeylatechnologies.com/forum2026
 - **The Tech Challenge · инженерная программа и showcase**: 0 карточек, 0 с будущими точными датами. Учебная / посещаемая программа; конкурсных этапов нет. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · локальные дисциплины**: 10 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · младшая демонстрация и Mini Sumo**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -640,6 +641,11 @@ VEX: 518 из 3294 карточек соревнований (15.7%). Это я�
 - **INTERFACEXpo 2027 · Auckland** — Новая Зеландия; 2027-05-20. Детский допуск уточнить. https://interfacexpo.nz/
 - **UNAD EXPOBOT 2026 · Robótica y prototipos** — Колумбия; 2026-11-11. Детский допуск уточнить. https://eventos.unad.edu.co/expobot-2026-innovacion-que-transforma-el-territorio
 - **Indie Fest Chile 2026 · Showcase de videojuegos** — Чили; 2026-11-12. Детский допуск уточнить. https://indiefestchile.cl/2026.html
+- **STRIPE Jamaica · Competition Floor** — Ямайка; 2026-11-09. Со взрослым; условия взрослого входа отдельно. https://www.stripecompetition.com/jamaica
+- **Zed Jamaica · International Robotics & AI Leadership Forum** — Ямайка; 2026-11-09. Детский допуск уточнить. https://www.zedmakeylatechnologies.com/forum2026
+- **STEM Carib 2026 · Friday STEM Fun Afternoon** — Кайман острова; 2026-11-13. Со взрослым; условия взрослого входа отдельно. https://ucci.edu.ky/events/stem-carib-2026-conference-fun-afternoon
+- **STEM Carib 2026 · Student Breakout Sessions** — Кайман острова; 2026-11-11 – 2026-11-13. Детский допуск уточнить. https://ucci.edu.ky/stem-carib-conference
+- **Caribbean STEM Olympiads 2027 · Information Session 4** — Международный онлайн; 2026-11-15. Детский допуск уточнить. https://caribbeanscience.org/cso/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors

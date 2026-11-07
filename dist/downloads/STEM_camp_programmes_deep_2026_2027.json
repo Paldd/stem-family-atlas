@@ -30,25 +30,25 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1754,
-    "countries": 102,
+    "dossiers": 1759,
+    "countries": 104,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 255,
       "published_2027": 495,
-      "partial_2027": 135,
-      "next_unannounced": 352,
+      "partial_2027": 136,
+      "next_unannounced": 353,
       "published_2026": 307,
       "partial_2026_27": 28,
-      "partial_2026": 21,
-      "archive_next_unannounced": 137,
-      "regular_programme": 16,
+      "partial_2026": 22,
+      "archive_next_unannounced": 138,
+      "regular_programme": 17,
       "regular_2026_27": 2,
       "historical_2026_next_season_unknown": 1,
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2501
+    "source_urls": 2509
   },
   "countries": [
     {
@@ -113,6 +113,10 @@
     },
     {
       "country": "Гаити",
+      "count": 1
+    },
+    {
+      "country": "Гайана",
       "count": 1
     },
     {
@@ -190,6 +194,10 @@
     {
       "country": "Италия",
       "count": 6
+    },
+    {
+      "country": "Кайман острова",
+      "count": 2
     },
     {
       "country": "Камбоджа",
@@ -328,12 +336,16 @@
       "count": 6
     },
     {
+      "country": "Республика Корея",
+      "count": 28
+    },
+    {
       "country": "Республика Молдова",
       "count": 14
     },
     {
       "country": "США",
-      "count": 138
+      "count": 139
     },
     {
       "country": "Сальвадор",
@@ -448,12 +460,8 @@
       "count": 1
     },
     {
-      "country": "Южная Корея",
-      "count": 28
-    },
-    {
       "country": "Ямайка",
-      "count": 5
+      "count": 6
     },
     {
       "country": "Япония",
@@ -295249,6 +295257,375 @@
           ]
         }
       ]
+    },
+    {
+      "id": "CP1755",
+      "slug": "techcayman-robotics-monthly",
+      "provider": "TechCayman Education",
+      "country": "Кайман острова",
+      "iso": "CYM",
+      "place": "Grand Cayman",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "11+",
+      "language": "Страница программы на английском. Язык преподавания конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "programme": "Вводные лагеря робототехники и ИИ, занятия с наставниками. Еженедельный hackerspace выделен отдельно у организатора.",
+      "timing": {
+        "status": "regular_programme",
+        "label": "Организатор описывает ежемесячный формат. Дни, группы и цены следующего набора не опубликованы.",
+        "sessions": [],
+        "precision": "season_window"
+      },
+      "price": {
+        "year": null,
+        "currency": "KYD",
+        "amount": null,
+        "unit": "programme",
+        "label": "Текущий тариф программы не опубликован.",
+        "included": "Вводные лагеря робототехники и ИИ, занятия с наставниками. Еженедельный hackerspace выделен отдельно у организатора.",
+        "extras": "Текущий тариф программы не опубликован.",
+        "deposit": "Уточнить оплату, возврат и доступные места у организатора."
+      },
+      "accommodation": "Дневная программа. Условия сопровождения уточнить.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Нет сейчас. Опубликованный минимум выше текущего возраста."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет сейчас. Опубликованный минимум выше текущего возраста."
+        }
+      },
+      "editorial_reason": "Проверены программа и возрастные условия. Следующий набор требует подтверждения.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить возрастную группу, набор и язык обучения."
+      ],
+      "sources": [
+        {
+          "url": "https://www.techcayman.com/education/stem-programs-cayman/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Подтверждённый набор на эту программу ещё не опубликован."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1756",
+      "slug": "ucci-stem-summer-grand-cayman",
+      "provider": "University College of the Cayman Islands",
+      "country": "Кайман острова",
+      "iso": "CYM",
+      "place": "University College of the Cayman Islands · Olympic Way, Grand Cayman",
+      "themes": [
+        "robotics",
+        "coding",
+        "science",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "11–13",
+      "language": "Страница программы на английском. Язык преподавания конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "programme": "Наука, робототехника, дроны, программирование и цифровые технологии. Возраст подтверждён для прошлой смены.",
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "Подтверждён архив 17–21 августа 2026. Даты и цена следующего сезона 2027 ожидаются.",
+        "sessions": [],
+        "precision": "season_window",
+        "previous_seasons": [
+          {
+            "year": 2026,
+            "sessions": [
+              [
+                "2026-08-17",
+                "2026-08-21"
+              ]
+            ],
+            "note": "Подтверждён архив 17–21 августа 2026. Даты и цена следующего сезона 2027 ожидаются."
+          }
+        ]
+      },
+      "price": {
+        "year": null,
+        "currency": "KYD",
+        "amount": null,
+        "unit": "programme",
+        "label": "Текущий тариф программы не опубликован.",
+        "included": "Наука, робототехника, дроны, программирование и цифровые технологии. Возраст подтверждён для прошлой смены.",
+        "extras": "Текущий тариф программы не опубликован.",
+        "deposit": "Уточнить оплату, возврат и доступные места у организатора."
+      },
+      "accommodation": "Дневная программа. Условия сопровождения уточнить.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Нет сейчас. Опубликованный минимум выше текущего возраста."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет сейчас. Опубликованный минимум выше текущего возраста."
+        }
+      },
+      "editorial_reason": "Проверены программа и возрастные условия. Следующий набор требует подтверждения.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить возрастную группу, набор и язык обучения."
+      ],
+      "sources": [
+        {
+          "url": "https://ucci.edu.ky/news/ucci-stem-summer-camp-marks-10-years-of-inspiring-caymans-young-innovators",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Подтверждённый набор на эту программу ещё не опубликован."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1757",
+      "slug": "stemguyana-summer-camp",
+      "provider": "STEMGuyana",
+      "country": "Гайана",
+      "iso": "GUY",
+      "place": "Guyana",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "8–18",
+      "language": "Страница программы на английском. Язык преподавания конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "programme": "Робототехника, программирование, ИИ и цифровой дизайн.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Провайдер описывает смены на 2 недели. В текущей витрине нет доступных летних программ. Точный набор не объявлен.",
+        "sessions": [],
+        "precision": "season_window"
+      },
+      "price": {
+        "year": null,
+        "currency": "GYD",
+        "amount": null,
+        "unit": "programme",
+        "label": "Текущий тариф программы не опубликован.",
+        "included": "Робототехника, программирование, ИИ и цифровой дизайн.",
+        "extras": "Текущий тариф программы не опубликован.",
+        "deposit": "Уточнить оплату, возврат и доступные места у организатора."
+      },
+      "accommodation": "Дневная программа. Условия сопровождения уточнить.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Подходит по опубликованному возрасту. Набор и языковые условия ещё ожидаются."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет сейчас. Опубликованный минимум выше текущего возраста."
+        }
+      },
+      "editorial_reason": "Проверены программа и возрастные условия. Следующий набор требует подтверждения.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить возрастную группу, набор и язык обучения."
+      ],
+      "sources": [
+        {
+          "url": "https://stemguyana.com/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://register.k12youthcode.com/register/summer-camp.php",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unavailable_online",
+        "label": "Провайдер описывает смены на 2 недели. В текущей витрине нет доступных летних программ. Точный набор не объявлен."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1758",
+      "slug": "jamcoders-kingston-july-2027",
+      "provider": "JamCoders",
+      "country": "Ямайка",
+      "iso": "JAM",
+      "place": "Kingston · UWI Mona",
+      "themes": [
+        "coding",
+        "technology"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "Учащиеся школ Ямайки, классы 9–11.",
+      "language": "Страница программы на английском. Язык преподавания конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "programme": "Алгоритмы и программирование. Нужны школьные табели за 2 года и эссе. Роль ассистента подаётся отдельно.",
+      "timing": {
+        "status": "partial_2027",
+        "label": "4 недели в июле 2027. Точные дни объявят. Заявки учеников до 17 января 2027.",
+        "sessions": [],
+        "precision": "season_window"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "JMD",
+        "amount": null,
+        "unit": "programme",
+        "label": "Бесплатные общежитие и питание для принятых учеников.",
+        "included": "Бесплатные общежитие и питание для принятых учеников.",
+        "extras": "Проверить дорогу и личные расходы.",
+        "deposit": "Уточнить оплату, возврат и доступные места у организатора."
+      },
+      "accommodation": "Бесплатные общежитие и питание для принятых учеников.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Нет сейчас. Нужна учёба в ямайской школе в классах 9–11."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет сейчас. Нужна учёба в ямайской школе в классах 9–11."
+        }
+      },
+      "editorial_reason": "Проверены программа и возрастные условия. Следующий набор требует подтверждения.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить возрастную группу, набор и язык обучения."
+      ],
+      "sources": [
+        {
+          "url": "https://jamcoders.org.jm/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "open",
+        "label": "Опубликована форма заявки для учеников. Решение о зачислении отдельно."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "boarding_camp",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1759",
+      "slug": "icode-peoria-bots-dec-2026",
+      "provider": "iCode Peoria",
+      "country": "США",
+      "iso": "USA",
+      "place": "9127 W. Union Hills Dr. #301 · Peoria, Arizona",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Каталог SciTech указывает 7–16 для заезда 22 декабря. Муниципальный диапазон для конкретного билета не подтверждён.",
+      "language": "Страница программы на английском. Язык преподавания конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "programme": "Дневная сборка, программирование и соревнование учебных роботов. Точный уровень и место проверяются перед записью.",
+      "timing": {
+        "status": "partial_2026",
+        "label": "Партнёрский календарь указывает 22 декабря 2026 с 09:00 до 16:00. Точный билет RecPlace, возраст и запись требуют проверки.",
+        "sessions": [],
+        "precision": "season_window"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "USD",
+        "amount": 129,
+        "unit": "programme",
+        "label": "USD 129 указано в календаре SciTech для опубликованного дня. Тариф и наличие билета у оператора уточнить.",
+        "included": "Дневная программа робототехники.",
+        "extras": "Текущий тариф программы не опубликован.",
+        "deposit": "Уточнить оплату, возврат и доступные места у организатора."
+      },
+      "accommodation": "Дневная программа. Условия сопровождения уточнить.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Подходит по опубликованному возрасту. Набор и языковые условия ещё ожидаются."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Подтвердить возрастную группу, набор и язык обучения."
+        }
+      },
+      "editorial_reason": "Проверены программа и возрастные условия. Следующий набор требует подтверждения.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить возрастную группу, набор и язык обучения."
+      ],
+      "sources": [
+        {
+          "url": "https://icodeschool.com/peoria-az/camps/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://scitechinstitute.org/event/icode-battle-of-the-bots-tournament-of-champions-1-day-camp-3/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://cityofpeoriaaz.perfectmind.com/Contacts/BookMe4?widgetId=15f6af07-39c5-473e-b053-96653f77a406",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Подтверждённый набор на эту программу ещё не опубликован."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": []
     }
   ],
   "gaps": [
@@ -300574,7 +300951,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 226,
+  "version": 228,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -313809,7 +314186,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1754,
+      "total_dossiers": 1759,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,

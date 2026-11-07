@@ -6268,7 +6268,8 @@
           "C839",
           "C884",
           "C3198",
-          "E349"
+          "E349",
+          "C3302"
         ],
         "legacy_ids": [],
         "route": "equipo escolar → socio nacional → selección de equipo → FIRST Global.",
@@ -9680,7 +9681,8 @@
         "event_ids": [
           "C900",
           "C901",
-          "E135"
+          "E135",
+          "E392"
         ],
         "legacy_ids": [
           "C900",
@@ -20267,6 +20269,121 @@
         "evidence": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado."
       },
       {
+        "id": "stripe-jamaica",
+        "name": "STRIPE Jamaica · Ride-Rush",
+        "group": "regional",
+        "age_summary": "Hasta 12 años inclusive para STARS de primaria. Confirmar edad mínima y fecha de corte.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Normalmente 2–3 alumnos. Inscripción individual según el reglamento técnico solo de forma excepcional si no se logra formar un equipo.",
+        "categories": [
+          {
+            "name": "STRIPE Jamaica · STARS · preparatory / primary",
+            "age": "Hasta 12 años inclusive para STARS de primaria. Confirmar edad mínima y fecha de corte.",
+            "team": "Normalmente 2–3 alumnos. Inscripción individual según el reglamento técnico solo de forma excepcional si no se logra formar un equipo.",
+            "hardware": "LEGO SPIKE o EV3. El PDF técnico admite 1 hub y hasta 4 motores. Tapete y modelos se adquieren por separado.",
+            "age_rule": "Hasta 12 años inclusive para STARS de primaria. Confirmar edad mínima y fecha de corte.",
+            "entry": "Equipo mediante escuela o institución admitida. El organizador recibe solicitudes en su portal. Confirmar admisión de centros extranjeros, plazo y plazas.",
+            "language": "Reglas técnicas en inglés. Confirmar el idioma del jurado y la ayuda en la sede.",
+            "award": "Resultados nacionales por categorías. La clasificación internacional depende de las reglas vigentes y de la invitación.",
+            "note": "El portal local indica primaria y máximo de 12 años. El PDF usa la temporada 2025–2026 y las fechas de corte de 15 de septiembre / 15 de enero. Confirmar la aplicación a Jamaica y la admisión de ambos niños."
+          },
+          {
+            "name": "STRIPE Jamaica · SUPER NOVA",
+            "age": "Secundaria, hasta 18 años inclusive.",
+            "team": "Normalmente 2–3 alumnos. Inscripción individual según el reglamento técnico solo de forma excepcional si no se logra formar un equipo.",
+            "hardware": "LEGO SPIKE o EV3. El PDF técnico admite 1 hub y hasta 4 motores. Tapete y modelos se adquieren por separado.",
+            "age_rule": "Secundaria, hasta 18 años inclusive.",
+            "entry": "Equipo mediante escuela o institución admitida. El organizador recibe solicitudes en su portal. Confirmar admisión de centros extranjeros, plazo y plazas.",
+            "language": "Reglas técnicas en inglés. Confirmar el idioma del jurado y la ayuda en la sede.",
+            "award": "Resultados nacionales por categorías. La clasificación internacional depende de las reglas vigentes y de la invitación.",
+            "note": "Secundaria, hasta 18 años inclusive."
+          },
+          {
+            "name": "STRIPE Jamaica · GALAXY",
+            "age": "Colegios terciarios y universidades, hasta 23 años inclusive.",
+            "team": "Normalmente 2–3 alumnos. Inscripción individual según el reglamento técnico solo de forma excepcional si no se logra formar un equipo.",
+            "hardware": "Robot y materiales según categoría. Confirmar el kit concreto.",
+            "age_rule": "Colegios terciarios y universidades, hasta 23 años inclusive.",
+            "entry": "Equipo mediante escuela o institución admitida. El organizador recibe solicitudes en su portal. Confirmar admisión de centros extranjeros, plazo y plazas.",
+            "language": "Reglas técnicas en inglés. Confirmar el idioma del jurado y la ayuda en la sede.",
+            "award": "Resultados nacionales por categorías. La clasificación internacional depende de las reglas vigentes y de la invitación.",
+            "note": "Colegios terciarios y universidades, hasta 23 años inclusive."
+          },
+          {
+            "name": "STRIPE Jamaica · Corporate Robotics",
+            "age": "Personal de organizaciones desde 18 años.",
+            "team": "Normalmente 2–3 alumnos. Inscripción individual según el reglamento técnico solo de forma excepcional si no se logra formar un equipo.",
+            "hardware": "Kit de equipo Zebra Robotics según el organizador.",
+            "age_rule": "Personal de organizaciones desde 18 años.",
+            "entry": "Equipo mediante escuela o institución admitida. El organizador recibe solicitudes en su portal. Confirmar admisión de centros extranjeros, plazo y plazas.",
+            "language": "Reglas técnicas en inglés. Confirmar el idioma del jurado y la ayuda en la sede.",
+            "award": "Resultados nacionales por categorías. La clasificación internacional depende de las reglas vigentes y de la invitación.",
+            "note": "Personal de organizaciones desde 18 años."
+          },
+          {
+            "name": "STRIPE Jamaica · Self-Driving Vehicle",
+            "age": "12–18 años según el reglamento separado de SDV.",
+            "team": "Equipo de 2–3 estudiantes según el PDF.",
+            "hardware": "Vehículo autónomo con sensores. Comprobar clases de equipos y campo en el reglamento.",
+            "age_rule": "12–18 años según el reglamento separado de SDV.",
+            "entry": "Equipo mediante escuela o institución admitida. El organizador recibe solicitudes en su portal. Confirmar admisión de centros extranjeros, plazo y plazas.",
+            "language": "Confirmar el idioma del grupo o sede concretos.",
+            "award": "",
+            "note": "12–18 años según el reglamento separado de SDV."
+          }
+        ],
+        "event_ids": [
+          "C3296",
+          "C3297",
+          "C3298",
+          "C3299",
+          "C3300",
+          "C3301"
+        ],
+        "legacy_ids": [],
+        "route": "Equipo mediante escuela o institución admitida. El organizador recibe solicitudes en su portal. Confirmar admisión de centros extranjeros, plazo y plazas.",
+        "hardware": "LEGO SPIKE o EV3. El PDF técnico admite 1 hub y hasta 4 motores. Tapete y modelos se adquieren por separado.",
+        "language": "Reglas técnicas en inglés. Confirmar el idioma del jurado y la ayuda en la sede.",
+        "importance": "Programa nacional",
+        "strengths": "Normalmente 2–3 alumnos. Inscripción individual según el reglamento técnico solo de forma excepcional si no se logra formar un equipo.",
+        "requirements": [
+          "Equipo mediante escuela o institución admitida. El organizador recibe solicitudes en su portal. Confirmar admisión de centros extranjeros, plazo y plazas."
+        ],
+        "nuances": [
+          "El programa del foro y el portal del torneo indican 9 de noviembre de 2026. La página antigua mezcla octubre y noviembre. Se distinguen competición infantil, entrada de espectador y foro sectorial."
+        ],
+        "cost": "JMD 48 000 por equipo escolar. Robot, tapete Ride Rush y modelos aparte. Confirmar presupuesto final y devoluciones.",
+        "award": "Resultados nacionales por categorías. La clasificación internacional depende de las reglas vigentes y de la invitación.",
+        "sources": [
+          {
+            "url": "https://www.zedmakeylatechnologies.com/forum2026",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://www.stripecompetition.com/jamaica",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://stripe-website.s3.us-east-1.amazonaws.com/RIDE_RUSH_JAMAICA/Ride_Rush_Jamaica_2026_Game_Manual.pdf",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://stripe-website.s3.us-east-1.amazonaws.com/RIDE_RUSH_JAMAICA/SDV_Jamaica_2026_Game_Manual.pdf",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          }
+        ],
+        "evidence": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado."
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · programa de ingeniería y showcase",
         "group": "regional",
@@ -25693,7 +25810,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "Perfiles de ligas, familias y programas: 273; se conservan las 46 rutas anteriores. Se separan los formatos de Brasil y se describen las categorías de Robofest LATAM y BajaBot. Cobertura mundial parcial.",
+    "methodology": "Perfiles de ligas, familias y programas: 274; se conservan las 46 rutas anteriores. Se separan los formatos de Brasil y se describen las categorías de Robofest LATAM y BajaBot. Cobertura mundial parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

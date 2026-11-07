@@ -1,0 +1,70 @@
+{
+  "version": 228,
+  "checked": "2026-11-07",
+  "previous_goal_turn_classification": "progress",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "new_competitions": 8,
+  "new_exhibitions": 5,
+  "new_learning_rows": 1,
+  "new_leagues": 1,
+  "new_camp_dossiers": 5,
+  "source_requests": 37,
+  "new_events": [
+    "C3296",
+    "C3297",
+    "C3298",
+    "C3299",
+    "C3300",
+    "C3301",
+    "E388",
+    "E389",
+    "E390",
+    "E391",
+    "L657",
+    "C3302",
+    "E392",
+    "C3303"
+  ],
+  "updated_events": [
+    "C900",
+    "C901",
+    "E135"
+  ],
+  "clusters": {
+    "stripe": [
+      "C3296",
+      "C3297",
+      "C3298",
+      "C3299",
+      "C3300",
+      "C3301"
+    ],
+    "stripe_floor": "E388",
+    "stripe_forum": "E389",
+    "ucci_family": "E390",
+    "ucci_school": "E391",
+    "cayman_club": "L657",
+    "suriname": "C3302",
+    "cso_info": "E392",
+    "beam": "C3303"
+  },
+  "programme_ids": {
+    "techcayman-robotics-monthly": "CP1755",
+    "ucci-stem-summer-grand-cayman": "CP1756",
+    "stemguyana-summer-camp": "CP1757",
+    "jamcoders-kingston-july-2027": "CP1758",
+    "icode-peoria-bots-dec-2026": "CP1759"
+  },
+  "limits": [
+    "Zed Jamaica and the official STRIPE site agree on 9 November at Jamaica Pegasus. An older marketing page contains both October and November. Local PDFs support the STARS technical profile and a separate SDV bracket; the Jamaica division day, admission, minimum age and operative cutoff are separate.",
+    "The Jamaica official site bundle publishes JMD 48,000 per school team excluding equipment, JMD 1,000/1,500/2,000 audience tariffs and under-5 free. The JMD 3,500 family calculation assumes two valid student IDs and one parent. Current places and international school admissions are unverified.",
+    "The competition floor, leadership forum and student divisions are independently searchable. The Beam Dream 2027 world route requires season qualification; Jamaica 2026 does not automatically give a slot.",
+    "UCCI confirms an all-age family block on 13 November, noon to 16:00, free, registration recommended and pre-booking optional. School breakouts have distinct supervised access. The 2026 summer camp dates do not transfer to 2027.",
+    "345Robotics participation is 7+; younger children may indicate interest. RECF championship entries are a stated plan. STEMGuyana summer age range 8–18 is official but the current booking menu is empty.",
+    "JamCoders July 2027 student route is for Jamaican high-school grades 9–11 and four weeks with free room and meals. The student deadline is distinct from teaching assistant applications. Tuition and exact programme dates are not asserted.",
+    "Suriname robotics preparation is 14–18. The entrepreneurship language clause was not carried to robotics. No extra FLL/FTC dates were inferred from NIHERST page shells.",
+    "Peoria 22 December is a calendar partner listing with age 7–16 and USD 129. The municipal selector did not expose the exact booking, so no precise camp attendance export or sibling cost was created.",
+    "CSO coding and robotics keep previous event IDs and exact deadlines in AST and UTC. The viewing session is a separate listing. No restricted registration or payment step was attempted."
+  ]
+}

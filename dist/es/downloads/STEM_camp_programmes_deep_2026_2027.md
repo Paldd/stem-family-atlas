@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base al 2026-11-07. 1754 fichas en 102 países. Cada ficha indica cuándo se verificaron sus fuentes.
+Estado de la base al 2026-11-07. 1759 fichas en 104 países. Cada ficha indica cuándo se verificaron sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -138265,6 +138265,202 @@ Nueva Zelanda · Rototuna La escuela secundaria · 56 Kimbrae Drive · Rototuna 
 - [Página oficial del organizador](https://form.jotform.com/hamiltonnorth/hp-rototuna-week1) · 2026-11-07
 
 - [Página oficial del organizador](https://form.jotform.com/hamiltonnorth/hp-rototuna-week2) · 2026-11-07
+
+## CP1755 · TechCayman Education
+
+Islas Caimán · Grand Cayman
+
+**Se ha comprobado:** 2026-11-07
+
+** Edad:** 11+
+
+**Idioma:** Página del programa en inglés. Confirmar el idioma de enseñanza del grupo concreto.
+
+**Programa:** Campamentos introductorios de robótica e IA con mentores. El organizador distingue el hackerspace semanal.
+
+**Alojamiento:** Programa diurno. Confirmar condiciones de supervisión.
+
+**Fechas / estado:** El organizador describe un formato mensual. Días, grupos y precios de la próxima edición sin publicar.
+
+**Precio / año:** sin establecer · La tarifa actual del programa no está publicada.
+
+**Incluido:** Campamentos introductorios de robótica e IA con mentores. El organizador distingue el hackerspace semanal.
+
+**Suplementos:** La tarifa actual del programa no está publicada.
+
+**Pago:** Confirmar pago, devolución y plazas con el organizador.
+
+**Matvey:** No por ahora. El mínimo publicado supera la edad actual.
+
+**Oscar:** No por ahora. El mínimo publicado supera la edad actual.
+
+**Motivo de la selección:** Se verificaron el programa y las condiciones de edad. La próxima admisión requiere confirmación.
+
+### Antes de solicitar plaza
+
+- Confirmar grupo de edad, admisión e idioma de enseñanza.
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.techcayman.com/education/stem-programs-cayman/) · 2026-11-07
+
+## CP1756 · University College of the Cayman Islands
+
+Islas Caimán · University College of the Cayman Islands · Olympic Way, Grand Cayman
+
+**Se ha comprobado:** 2026-11-07
+
+**Edad:** 11–13
+
+**Idioma:** Página del programa en inglés. Confirmar el idioma de enseñanza del grupo concreto.
+
+**Programa:** Ciencia, robótica, drones, programación y tecnología digital. Edad confirmada para la edición anterior.
+
+**Alojamiento:** Programa diurno. Confirmar condiciones de supervisión.
+
+**Fechas / estado:** Archivo confirmado del 17–21 de agosto de 2026. Fechas y precio de la siguiente edición de 2027 pendientes.
+
+**Precio / año:** sin establecer · La tarifa actual del programa no está publicada.
+
+**Incluido:** Ciencia, robótica, drones, programación y tecnología digital. Edad confirmada para la edición anterior.
+
+**Suplementos:** La tarifa actual del programa no está publicada.
+
+**Pago:** Confirmar pago, devolución y plazas con el organizador.
+
+**Matvey:** No por ahora. El mínimo publicado supera la edad actual.
+
+**Oscar:** No por ahora. El mínimo publicado supera la edad actual.
+
+**Motivo de la selección:** Se verificaron el programa y las condiciones de edad. La próxima admisión requiere confirmación.
+
+### Antes de solicitar plaza
+
+- Confirmar grupo de edad, admisión e idioma de enseñanza.
+
+### Fuentes
+
+- [Página oficial del organizador](https://ucci.edu.ky/news/ucci-stem-summer-camp-marks-10-years-of-inspiring-caymans-young-innovators) · 2026-11-07
+
+## CP1757 · STEMGuyana
+
+Guyana · Guyana
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 8–18
+
+**Idioma:** Página del programa en inglés. Confirmar el idioma de enseñanza del grupo concreto.
+
+**Programa:** Robótica, programación, IA y diseño digital.
+
+**Alojamiento:** Programa diurno. Confirmar condiciones de supervisión.
+
+**Fechas / estado:** El proveedor describe turnos de 2 semanas. En el catálogo actual no hay programas de verano disponibles. Próxima admisión sin anunciar.
+
+**Precio / año:** sin establecer · La tarifa actual del programa no está publicada.
+
+**Incluido:** Robótica, programación, IA y diseño digital.
+
+**Suplementos:** La tarifa actual del programa no está publicada.
+
+**Pago:** Confirmar pago, devolución y plazas con el organizador.
+
+**Matvey:** Condicional. Cumple la edad publicada. Admisión y condiciones de idioma pendientes.
+
+**Oscar:** No por ahora. El mínimo publicado supera la edad actual.
+
+**Motivo de la selección:** Se verificaron el programa y las condiciones de edad. La próxima admisión requiere confirmación.
+
+### Antes de solicitar plaza
+
+- Confirmar grupo de edad, admisión e idioma de enseñanza.
+
+### Fuentes
+
+- [Página oficial del organizador](https://stemguyana.com/) · 2026-11-07
+
+- [Página oficial del organizador](https://register.k12youthcode.com/register/summer-camp.php) · 2026-11-07
+
+## CP1758 · JamCoders
+
+Jamaica · Kingston · UWI Mona
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Estudiantes de secundaria en Jamaica, cursos 9–11.
+
+**Idioma:** Página del programa en inglés. Confirmar el idioma de enseñanza del grupo concreto.
+
+**Programa:** Algoritmos y programación. Se requieren calificaciones de 2 años y un ensayo. La función de asistente se solicita por separado.
+
+**Alojamiento:** Alojamiento en residencia y comidas gratis para estudiantes admitidos.
+
+**Fechas / estado:** 4 semanas en julio de 2027. Días exactos pendientes. Solicitudes de estudiantes hasta el 17 de enero de 2027.
+
+**Precio / año:** 2027 · Alojamiento en residencia y comidas gratis para estudiantes admitidos.
+
+**Incluido:** Alojamiento en residencia y comidas gratis para estudiantes admitidos.
+
+**Suplementos:** Confirmar transporte y gastos personales.
+
+**Pago:** Confirmar pago, devolución y plazas con el organizador.
+
+**Matvey:** No por ahora. Se exige estudiar en Jamaica en cursos 9–11.
+
+**Oscar:** No por ahora. Se exige estudiar en Jamaica en cursos 9–11.
+
+**Motivo de la selección:** Se verificaron el programa y las condiciones de edad. La próxima admisión requiere confirmación.
+
+### Antes de solicitar plaza
+
+- Confirmar grupo de edad, admisión e idioma de enseñanza.
+
+### Fuentes
+
+- [Página oficial del organizador](https://jamcoders.org.jm/) · 2026-11-07
+
+## CP1759 · iCode Peoria
+
+Estados Unidos · 9127 W. Union Hills Dr. #301 · Peoria, Arizona
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** El catálogo SciTech indica 7–16 para el 22 de diciembre. Falta confirmar el rango municipal para la entrada concreta.
+
+**Idioma:** Página del programa en inglés. Confirmar el idioma de enseñanza del grupo concreto.
+
+**Programa:** Jornada de construcción, programación y competición de robots educativos. Confirmar nivel y plaza antes de inscribirse.
+
+**Alojamiento:** Programa diurno. Confirmar condiciones de supervisión.
+
+**Fechas / estado:** El calendario asociado indica el 22 de diciembre de 2026 de 09:00 a 16:00. Confirmar entrada concreta de RecPlace, edad e inscripción.
+
+**Precio / año:** 2026 · USD 129 según el calendario SciTech para el día publicado. Confirmar tarifa y disponibilidad con el operador.
+
+**Incluido:** Programa diurno de robótica.
+
+**Suplementos:** La tarifa actual del programa no está publicada.
+
+**Pago:** Confirmar pago, devolución y plazas con el organizador.
+
+**Matvey:** Condicional. Cumple la edad publicada. Admisión y condiciones de idioma pendientes.
+
+**Oscar:** Confirmar grupo de edad, admisión e idioma de enseñanza.
+
+**Motivo de la selección:** Se verificaron el programa y las condiciones de edad. La próxima admisión requiere confirmación.
+
+### Antes de solicitar plaza
+
+- Confirmar grupo de edad, admisión e idioma de enseñanza.
+
+### Fuentes
+
+- [Página oficial del organizador](https://icodeschool.com/peoria-az/camps/) · 2026-11-07
+
+- [Página oficial del organizador](https://scitechinstitute.org/event/icode-battle-of-the-bots-tournament-of-champions-1-day-camp-3/) · 2026-11-07
+
+- [Página oficial del organizador](https://cityofpeoriaaz.perfectmind.com/Contacts/BookMe4?widgetId=15f6af07-39c5-473e-b053-96653f77a406) · 2026-11-07
 
 ## ~ Comprobaciones no cerradas
 
