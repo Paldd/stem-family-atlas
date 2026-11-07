@@ -16,14 +16,14 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 8487,
-    "competition_cards": 3460,
-    "event_cards": 451,
-    "camp_cards": 4576,
+    "cards": 8527,
+    "competition_cards": 3464,
+    "event_cards": 452,
+    "camp_cards": 4611,
     "league_profiles": 288,
-    "major_exhibition_cards": 361,
+    "major_exhibition_cards": 362,
     "vex_cards": 521,
-    "countries_with_records": 187,
+    "countries_with_records": 190,
     "fully_audited_countries": 0
   },
   "continents": [
@@ -34,12 +34,12 @@
         "América Central",
         "Caribe"
       ],
-      "total": 2823,
+      "total": 2852,
       "countries_with_records": 35,
       "competitions": 1523,
       "events": 114,
       "major_exhibitions": 78,
-      "camps": 1186,
+      "camps": 1215,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
     },
@@ -90,12 +90,12 @@
       "regions": [
         "Asia"
       ],
-      "total": 2536,
-      "countries_with_records": 46,
-      "competitions": 852,
+      "total": 2542,
+      "countries_with_records": 47,
+      "competitions": 854,
       "events": 127,
       "major_exhibitions": 114,
-      "camps": 1557,
+      "camps": 1561,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido India camp candidates y las primeras rutas de Pakistán / Bangladesh / Sri Lanka. no todos los nacionales calificados, las lenguas y la admisión extranjera están cerrados; otros países asiáticos han sido parcialmente investigados."
     },
@@ -104,12 +104,12 @@
       "regions": [
         "Oceanía"
       ],
-      "total": 336,
-      "countries_with_records": 10,
-      "competitions": 137,
-      "events": 28,
-      "major_exhibitions": 24,
-      "camps": 171,
+      "total": 341,
+      "countries_with_records": 12,
+      "competitions": 139,
+      "events": 29,
+      "major_exhibitions": 25,
+      "camps": 173,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido fijian tourist camp, nz días de estudio reales, australian national game/video contests y archivo escolar cerrado de french polynesia. se quedan lenguas / foreign admission camps, un calendario dinámico RCJA, otras islas y torneos locales."
     }
@@ -11503,6 +11503,17 @@
       "new": false
     },
     {
+      "id": "E452",
+      "name": "Fête de la Science 2026 · Nouvelle-Calédonie",
+      "country": "Nueva Caledonia",
+      "region": "Oceanía",
+      "start": "2026-10-02",
+      "end": "2026-10-12",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.symbiose.nc/calendrier/fete-de-la-science-en-nouvelle-caledonie/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -13920,9 +13931,9 @@
       }
     ],
     "counts": {
-      "records": 4576,
-      "holiday": 4280,
-      "regular": 138,
+      "records": 4611,
+      "holiday": 4313,
+      "regular": 139,
       "self_paced_materials": 2,
       "boarding": 1036,
       "en_es_instruction": 1428,
@@ -13933,7 +13944,7 @@
       "language_lessons": 410,
       "camp_life_language": 228,
       "language_unclassified": 137,
-      "countries": 122
+      "countries": 124
     },
     "validation": {
       "version": 51,

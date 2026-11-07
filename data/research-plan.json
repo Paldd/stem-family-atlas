@@ -870,13 +870,13 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 242,
+    "version": 243,
     "status": "implementation_snapshot",
-    "events": 8487,
-    "competitions": 3460,
+    "events": 8527,
+    "competitions": 3464,
     "league_profiles": 288,
-    "camp_dossiers": 1866,
-    "budget_offers": 302,
+    "camp_dossiers": 1872,
+    "budget_offers": 307,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
     "worldwide_complete": false,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 330,
-    "exhibitions_events": 451
+    "exhibitions_events": 452
   },
   "completeness_audit": "data/audit-v51.json",
   "family_context": {
@@ -927,12 +927,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 241,
+    "version": 242,
     "status": "implementation_snapshot",
-    "events": 8468,
-    "competitions": 3451,
+    "events": 8487,
+    "competitions": 3460,
     "league_profiles": 288,
-    "camp_dossiers": 1861,
+    "camp_dossiers": 1866,
     "budget_offers": 302,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -942,7 +942,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 330,
-    "exhibitions_events": 450
+    "exhibitions_events": 451
   },
   "research_passes": [
     {
@@ -13759,10 +13759,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 242,
+    "prepared_ui_version": 243,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 240,
-    "previous_verified_commit": "4bd316ec431fd73579ec4baee94368f94f77b24f"
+    "previous_verified_ui_version": 242,
+    "previous_verified_commit": "01ecbf5d1eeed0ef0848af45d37fa6d715f5ecfe"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20809,13 +20809,13 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 241,
-    "published_version": 240,
-    "latest_source_commit": "9309f8c6fcd87d9898a8d8caad75ad6ade9d9588",
-    "published_commit": "4bd316ec431fd73579ec4baee94368f94f77b24f",
-    "latest_workflow": 42420236424,
-    "latest_workflow_conclusion": "failure",
-    "status": "pages-sync-timeout-after-retry"
+    "latest_source_version": 242,
+    "published_version": 242,
+    "latest_source_commit": "01ecbf5d1eeed0ef0848af45d37fa6d715f5ecfe",
+    "published_commit": "01ecbf5d1eeed0ef0848af45d37fa6d715f5ecfe",
+    "latest_workflow": 42423274527,
+    "latest_workflow_conclusion": "success",
+    "status": "local-main-and-pages-match"
   },
   "nearby_wro_v191": {
     "version": 191,
@@ -23965,5 +23965,58 @@
     ],
     "audit": "data/regional-eligibility-audit-v242.json",
     "source_receipts": "data/regional-eligibility-source-receipts-v242.json"
+  },
+  "winter_pacific_v243": {
+    "version": 243,
+    "checked": "2026-11-07",
+    "previous_goal_turn_classification": "progress",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "C3462",
+      "C3463",
+      "C3464",
+      "E452",
+      "C3465",
+      "L698",
+      "L699"
+    ],
+    "new_camp_dossiers": {
+      "stema-vancouver-winter-junior-2026": "CP1867",
+      "stema-vancouver-winter-explorer-2026": "CP1868",
+      "stemstein-mississauga-techverse-2026": "CP1869",
+      "stemstein-mississauga-winter-wonders-2026": "CP1870",
+      "dash-sports-oakville-stem-winter-2026": "CP1871",
+      "wonderswork-singapore-all-stars-nov-dec-2026": "CP1872"
+    },
+    "new_camp_options": 33,
+    "new_budget_offers": [
+      "stema-vancouver-week-family",
+      "stema-vancouver-eight-day-family",
+      "dash-sports-oakville-full-family",
+      "dash-sports-oakville-half-family",
+      "wonderswork-singapore-three-day-family"
+    ],
+    "refreshed_dossiers": [
+      "CP308"
+    ],
+    "new_geographic_coverage": [
+      "FSM",
+      "NCL",
+      "TLS"
+    ],
+    "source_requests": 22,
+    "notes": [
+      "Таблица указывает младших 5–8 и старших 8+. Заголовки описаний дают 5–7 и 8–12. Границу 8 лет и назначение в группу уточнить.",
+      "21–24 или 28–31 декабря 2026. Пакет обеих недель содержит 8 дней занятий. 25–27 декабря в пакет занятий не входят.",
+      "Календарь записи даёт два локальных интервала по 4 дня. В расписании лагеря 09:00–15:30. Конечная граница каждого интервала означает следующий день.",
+      "Форма публикует суммы с HST и скидкой для двоих. Проверить питание, возврат и наличие двух мест.",
+      "Подтверждение после полной оплаты и формы. Смена зависит от набора минимум 3 участников. При недоборе заявлен возврат или перенос. Обычные отмены регулируются отдельно.",
+      "Начальные окна 4–7 января и 1–4 февраля 2027. Описание отдельно обещает 4 дня в Лиме, 4 дня в Пачакамаке и пятничные выезды. Полный календарь и состав 700 USD нужно подтвердить.",
+      "26 июня 2026 — срок общей заявки, 21 сентября — срок отправки видео. Показы в трёх провинциях проходили 3, 6 и 9 октября.",
+      "В делегацию прошли 6 учеников. Даты 6–10 июля относятся к международному этапу на Филиппинах. Дата следующего местного отбора пока не установлена."
+    ],
+    "audit": "data/winter-pacific-audit-v243.json",
+    "source_receipts": "data/winter-pacific-source-receipts-v243.json"
   }
 }

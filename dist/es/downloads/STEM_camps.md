@@ -9942,6 +9942,38 @@ Limitaciones: Aún no se publican la próxima convocatoria ni su calendario.
 Fuente: https://graines2genie.com/
 Se ha comprobado: 2026-11-07
 
+### L698 · Symbiose · Club robotique
+
+lugar: Nueva Caledonia · Symbiose · Nouméa
+Fecha: La descripción oficial del club indica febrero como mes habitual de inscripción. El horario y la convocatoria de 2027 siguen sin confirmarse.
+edad: 9–12 años y cursos escolares CM1–6e.
+Matvey: Condicional. Edad o curso próximos. Confirmar la fecha de corte y el acceso por escuela local.
+Oscar: No. Edad mínima publicada de 9 años.
+Formato: regular
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Acceso: La descripción oficial del club indica febrero como mes habitual de inscripción. El horario y la convocatoria de 2027 siguen sin confirmarse.
+Limitaciones: La descripción oficial del club indica febrero como mes habitual de inscripción. El horario y la convocatoria de 2027 siguen sin confirmarse.
+Fuente: https://www.symbiose.nc/actions/animations-extrascolaires/club-robotique-symbiose/
+Se ha comprobado: 2026-11-07
+
+### L699 · Yap · Backyard Buoys · demostración escolar 2026
+
+lugar: Micronesia · Yap · Gilman Reef
+Fecha: Archivo. Comprobar aparte las condiciones de la nueva edición.
+edad: Confirmar edad y acceso con la organización.
+Matvey: Confirmar edad y acceso con la organización.
+Oscar: Confirmar edad y acceso con la organización.
+formato: school_workshop
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Acceso: Mediante la escuela y un mentor.
+Limitaciones: El informe estatal del 3 de julio de 2026 confirma la demostración para estudiantes. Fecha exacta, edad y futura inscripción sin publicar.
+Fuente: https://yapstate.gov.fm/post/pacioos-and-micronesian-conservation-coalition-bring-ocean-science-to-yap-students
+Se ha comprobado: 2026-11-07
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -72004,6 +72036,534 @@ Precio: 2027 · La página muestra una tarifa de $ 220. No indica código de mon
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento. Oscar: Encaja según la regla publicada para todas las edades. Confirmar entrada, idioma y acompañamiento. Suplementos: Confirmar moneda, entrada del acompañante y disponibilidad. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.
 Fuente: https://museokaluz.org/actividades/programa-vacacional-celebra-a-traves-del-arte/
+Se ha comprobado: 2026-11-07
+
+### CP1867-20261221-20261224-week1-am · STEMA Vancouver · Winter Junior · Mañana · 09:00–12:00 · 2026-12-21–2026-12-24
+
+lugar: Canadá · STEMA Vancouver · 1025 Kingsway, Vancouver
+Fecha: 2026-12-21 - 2026-12-24
+edad: La tabla indica grupo menor 5–8 y mayor 8+. Los encabezados de las descripciones dan 5–7 y 8–12. Confirmar el límite de 8 años y la asignación de grupo.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio actual 169 CAD, ordinario 200 CAD. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No para el grupo menor. Hay un grupo mayor en la misma sede. Oscar: Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad. Suplementos: Llevar almuerzo para jornada completa, y refrigerio sin frutos secos y agua para media jornada. Confirmar impuestos y dos plazas al inscribirse. Pago: Pago íntegro al inscribirse. Al cancelar desde 3 semanas se retienen 20 CAD, entre 2–3 semanas 50 CAD, dentro de 14 días y después del inicio no hay reembolso. Confirmar límite de 3 semanas.
+Fuente: https://vancouver.stemalearning.com/product/winter-camp/
+Se ha comprobado: 2026-11-07
+
+### CP1867-20261221-20261224-week1-pm · STEMA Vancouver · Winter Junior · Tarde · 13:00–16:00 · 2026-12-21–2026-12-24
+
+lugar: Canadá · STEMA Vancouver · 1025 Kingsway, Vancouver
+Fecha: 2026-12-21 - 2026-12-24
+edad: La tabla indica grupo menor 5–8 y mayor 8+. Los encabezados de las descripciones dan 5–7 y 8–12. Confirmar el límite de 8 años y la asignación de grupo.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio actual 169 CAD, ordinario 200 CAD. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No para el grupo menor. Hay un grupo mayor en la misma sede. Oscar: Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad. Suplementos: Llevar almuerzo para jornada completa, y refrigerio sin frutos secos y agua para media jornada. Confirmar impuestos y dos plazas al inscribirse. Pago: Pago íntegro al inscribirse. Al cancelar desde 3 semanas se retienen 20 CAD, entre 2–3 semanas 50 CAD, dentro de 14 días y después del inicio no hay reembolso. Confirmar límite de 3 semanas.
+Fuente: https://vancouver.stemalearning.com/product/winter-camp/
+Se ha comprobado: 2026-11-07
+
+### CP1867-20261221-20261224-week1-full · STEMA Vancouver · Winter Junior · Jornada completa · 09:00–16:00 · 2026-12-21–2026-12-24
+
+lugar: Canadá · STEMA Vancouver · 1025 Kingsway, Vancouver
+Fecha: 2026-12-21 - 2026-12-24
+edad: La tabla indica grupo menor 5–8 y mayor 8+. Los encabezados de las descripciones dan 5–7 y 8–12. Confirmar el límite de 8 años y la asignación de grupo.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio actual 329 CAD, ordinario 380 CAD. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No para el grupo menor. Hay un grupo mayor en la misma sede. Oscar: Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad. Suplementos: Llevar almuerzo para jornada completa, y refrigerio sin frutos secos y agua para media jornada. Confirmar impuestos y dos plazas al inscribirse. Pago: Pago íntegro al inscribirse. Al cancelar desde 3 semanas se retienen 20 CAD, entre 2–3 semanas 50 CAD, dentro de 14 días y después del inicio no hay reembolso. Confirmar límite de 3 semanas.
+Fuente: https://vancouver.stemalearning.com/product/winter-camp/
+Se ha comprobado: 2026-11-07
+
+### CP1867-20261221-20261224-week1-care · STEMA Vancouver · Winter Junior · Jornada completa con extensión · 09:00–18:00 · 2026-12-21–2026-12-24
+
+lugar: Canadá · STEMA Vancouver · 1025 Kingsway, Vancouver
+Fecha: 2026-12-21 - 2026-12-24
+edad: La tabla indica grupo menor 5–8 y mayor 8+. Los encabezados de las descripciones dan 5–7 y 8–12. Confirmar el límite de 8 años y la asignación de grupo.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio actual 380 CAD, ordinario 440 CAD. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No para el grupo menor. Hay un grupo mayor en la misma sede. Oscar: Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad. Suplementos: Llevar almuerzo para jornada completa, y refrigerio sin frutos secos y agua para media jornada. Confirmar impuestos y dos plazas al inscribirse. Pago: Pago íntegro al inscribirse. Al cancelar desde 3 semanas se retienen 20 CAD, entre 2–3 semanas 50 CAD, dentro de 14 días y después del inicio no hay reembolso. Confirmar límite de 3 semanas.
+Fuente: https://vancouver.stemalearning.com/product/winter-camp/
+Se ha comprobado: 2026-11-07
+
+### CP1867-20261228-20261231-week2-am · STEMA Vancouver · Winter Junior · Mañana · 09:00–12:00 · 2026-12-28–2026-12-31
+
+lugar: Canadá · STEMA Vancouver · 1025 Kingsway, Vancouver
+Fecha: 2026-12-28 - 2026-12-31
+edad: La tabla indica grupo menor 5–8 y mayor 8+. Los encabezados de las descripciones dan 5–7 y 8–12. Confirmar el límite de 8 años y la asignación de grupo.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio actual 169 CAD, ordinario 200 CAD. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No para el grupo menor. Hay un grupo mayor en la misma sede. Oscar: Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad. Suplementos: Llevar almuerzo para jornada completa, y refrigerio sin frutos secos y agua para media jornada. Confirmar impuestos y dos plazas al inscribirse. Pago: Pago íntegro al inscribirse. Al cancelar desde 3 semanas se retienen 20 CAD, entre 2–3 semanas 50 CAD, dentro de 14 días y después del inicio no hay reembolso. Confirmar límite de 3 semanas.
+Fuente: https://vancouver.stemalearning.com/product/winter-camp/
+Se ha comprobado: 2026-11-07
+
+### CP1867-20261228-20261231-week2-pm · STEMA Vancouver · Winter Junior · Tarde · 13:00–16:00 · 2026-12-28–2026-12-31
+
+lugar: Canadá · STEMA Vancouver · 1025 Kingsway, Vancouver
+Fecha: 2026-12-28 - 2026-12-31
+edad: La tabla indica grupo menor 5–8 y mayor 8+. Los encabezados de las descripciones dan 5–7 y 8–12. Confirmar el límite de 8 años y la asignación de grupo.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio actual 169 CAD, ordinario 200 CAD. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No para el grupo menor. Hay un grupo mayor en la misma sede. Oscar: Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad. Suplementos: Llevar almuerzo para jornada completa, y refrigerio sin frutos secos y agua para media jornada. Confirmar impuestos y dos plazas al inscribirse. Pago: Pago íntegro al inscribirse. Al cancelar desde 3 semanas se retienen 20 CAD, entre 2–3 semanas 50 CAD, dentro de 14 días y después del inicio no hay reembolso. Confirmar límite de 3 semanas.
+Fuente: https://vancouver.stemalearning.com/product/winter-camp/
+Se ha comprobado: 2026-11-07
+
+### CP1867-20261228-20261231-week2-full · STEMA Vancouver · Winter Junior · Jornada completa · 09:00–16:00 · 2026-12-28–2026-12-31
+
+lugar: Canadá · STEMA Vancouver · 1025 Kingsway, Vancouver
+Fecha: 2026-12-28 - 2026-12-31
+edad: La tabla indica grupo menor 5–8 y mayor 8+. Los encabezados de las descripciones dan 5–7 y 8–12. Confirmar el límite de 8 años y la asignación de grupo.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio actual 329 CAD, ordinario 380 CAD. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No para el grupo menor. Hay un grupo mayor en la misma sede. Oscar: Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad. Suplementos: Llevar almuerzo para jornada completa, y refrigerio sin frutos secos y agua para media jornada. Confirmar impuestos y dos plazas al inscribirse. Pago: Pago íntegro al inscribirse. Al cancelar desde 3 semanas se retienen 20 CAD, entre 2–3 semanas 50 CAD, dentro de 14 días y después del inicio no hay reembolso. Confirmar límite de 3 semanas.
+Fuente: https://vancouver.stemalearning.com/product/winter-camp/
+Se ha comprobado: 2026-11-07
+
+### CP1867-20261228-20261231-week2-care · STEMA Vancouver · Winter Junior · Jornada completa con extensión · 09:00–18:00 · 2026-12-28–2026-12-31
+
+lugar: Canadá · STEMA Vancouver · 1025 Kingsway, Vancouver
+Fecha: 2026-12-28 - 2026-12-31
+edad: La tabla indica grupo menor 5–8 y mayor 8+. Los encabezados de las descripciones dan 5–7 y 8–12. Confirmar el límite de 8 años y la asignación de grupo.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio actual 380 CAD, ordinario 440 CAD. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No para el grupo menor. Hay un grupo mayor en la misma sede. Oscar: Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad. Suplementos: Llevar almuerzo para jornada completa, y refrigerio sin frutos secos y agua para media jornada. Confirmar impuestos y dos plazas al inscribirse. Pago: Pago íntegro al inscribirse. Al cancelar desde 3 semanas se retienen 20 CAD, entre 2–3 semanas 50 CAD, dentro de 14 días y después del inicio no hay reembolso. Confirmar límite de 3 semanas.
+Fuente: https://vancouver.stemalearning.com/product/winter-camp/
+Se ha comprobado: 2026-11-07
+
+### CP1867-20261221-20261231-both-am · STEMA Vancouver · Winter Junior · Paquete de 8 días · Mañana · 09:00–12:00 · 2026-12-21–2026-12-31
+
+lugar: Canadá · STEMA Vancouver · 1025 Kingsway, Vancouver
+Fecha: 2026-12-21 - 2026-12-31
+edad: La tabla indica grupo menor 5–8 y mayor 8+. Los encabezados de las descripciones dan 5–7 y 8–12. Confirmar el límite de 8 años y la asignación de grupo.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio actual 328 CAD por 8 días, ordinario 400 CAD. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No para el grupo menor. Hay un grupo mayor en la misma sede. Oscar: Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad. Suplementos: Llevar almuerzo para jornada completa, y refrigerio sin frutos secos y agua para media jornada. Confirmar impuestos y dos plazas al inscribirse. Pago: Pago íntegro al inscribirse. Al cancelar desde 3 semanas se retienen 20 CAD, entre 2–3 semanas 50 CAD, dentro de 14 días y después del inicio no hay reembolso. Confirmar límite de 3 semanas.
+Fuente: https://vancouver.stemalearning.com/product/winter-camp/
+Se ha comprobado: 2026-11-07
+
+### CP1867-20261221-20261231-both-pm · STEMA Vancouver · Winter Junior · Paquete de 8 días · Tarde · 13:00–16:00 · 2026-12-21–2026-12-31
+
+lugar: Canadá · STEMA Vancouver · 1025 Kingsway, Vancouver
+Fecha: 2026-12-21 - 2026-12-31
+edad: La tabla indica grupo menor 5–8 y mayor 8+. Los encabezados de las descripciones dan 5–7 y 8–12. Confirmar el límite de 8 años y la asignación de grupo.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio actual 328 CAD por 8 días, ordinario 400 CAD. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No para el grupo menor. Hay un grupo mayor en la misma sede. Oscar: Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad. Suplementos: Llevar almuerzo para jornada completa, y refrigerio sin frutos secos y agua para media jornada. Confirmar impuestos y dos plazas al inscribirse. Pago: Pago íntegro al inscribirse. Al cancelar desde 3 semanas se retienen 20 CAD, entre 2–3 semanas 50 CAD, dentro de 14 días y después del inicio no hay reembolso. Confirmar límite de 3 semanas.
+Fuente: https://vancouver.stemalearning.com/product/winter-camp/
+Se ha comprobado: 2026-11-07
+
+### CP1867-20261221-20261231-both-full · STEMA Vancouver · Winter Junior · Paquete de 8 días · Jornada completa · 09:00–16:00 · 2026-12-21–2026-12-31
+
+lugar: Canadá · STEMA Vancouver · 1025 Kingsway, Vancouver
+Fecha: 2026-12-21 - 2026-12-31
+edad: La tabla indica grupo menor 5–8 y mayor 8+. Los encabezados de las descripciones dan 5–7 y 8–12. Confirmar el límite de 8 años y la asignación de grupo.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio actual 639 CAD por 8 días, ordinario 720 CAD. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No para el grupo menor. Hay un grupo mayor en la misma sede. Oscar: Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad. Suplementos: Llevar almuerzo para jornada completa, y refrigerio sin frutos secos y agua para media jornada. Confirmar impuestos y dos plazas al inscribirse. Pago: Pago íntegro al inscribirse. Al cancelar desde 3 semanas se retienen 20 CAD, entre 2–3 semanas 50 CAD, dentro de 14 días y después del inicio no hay reembolso. Confirmar límite de 3 semanas.
+Fuente: https://vancouver.stemalearning.com/product/winter-camp/
+Se ha comprobado: 2026-11-07
+
+### CP1867-20261221-20261231-both-care · STEMA Vancouver · Winter Junior · Paquete de 8 días · Jornada completa con extensión · 09:00–18:00 · 2026-12-21–2026-12-31
+
+lugar: Canadá · STEMA Vancouver · 1025 Kingsway, Vancouver
+Fecha: 2026-12-21 - 2026-12-31
+edad: La tabla indica grupo menor 5–8 y mayor 8+. Los encabezados de las descripciones dan 5–7 y 8–12. Confirmar el límite de 8 años y la asignación de grupo.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio actual 740 CAD por 8 días, ordinario 800 CAD. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No para el grupo menor. Hay un grupo mayor en la misma sede. Oscar: Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad. Suplementos: Llevar almuerzo para jornada completa, y refrigerio sin frutos secos y agua para media jornada. Confirmar impuestos y dos plazas al inscribirse. Pago: Pago íntegro al inscribirse. Al cancelar desde 3 semanas se retienen 20 CAD, entre 2–3 semanas 50 CAD, dentro de 14 días y después del inicio no hay reembolso. Confirmar límite de 3 semanas.
+Fuente: https://vancouver.stemalearning.com/product/winter-camp/
+Se ha comprobado: 2026-11-07
+
+### CP1868-20261221-20261224-week1-am · STEMA Vancouver · Winter Explorer · Mañana · 09:00–12:00 · 2026-12-21–2026-12-24
+
+lugar: Canadá · STEMA Vancouver · 1025 Kingsway, Vancouver
+Fecha: 2026-12-21 - 2026-12-24
+edad: La tabla indica grupo menor 5–8 y mayor 8+. Los encabezados de las descripciones dan 5–7 y 8–12. Confirmar el límite de 8 años y la asignación de grupo.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio actual 169 CAD, ordinario 200 CAD. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad. Oscar: No para el grupo mayor. Hay un grupo menor en la misma sede. Suplementos: Llevar almuerzo para jornada completa, y refrigerio sin frutos secos y agua para media jornada. Confirmar impuestos y dos plazas al inscribirse. Pago: Pago íntegro al inscribirse. Al cancelar desde 3 semanas se retienen 20 CAD, entre 2–3 semanas 50 CAD, dentro de 14 días y después del inicio no hay reembolso. Confirmar límite de 3 semanas.
+Fuente: https://vancouver.stemalearning.com/product/winter-camp/
+Se ha comprobado: 2026-11-07
+
+### CP1868-20261221-20261224-week1-pm · STEMA Vancouver · Winter Explorer · Tarde · 13:00–16:00 · 2026-12-21–2026-12-24
+
+lugar: Canadá · STEMA Vancouver · 1025 Kingsway, Vancouver
+Fecha: 2026-12-21 - 2026-12-24
+edad: La tabla indica grupo menor 5–8 y mayor 8+. Los encabezados de las descripciones dan 5–7 y 8–12. Confirmar el límite de 8 años y la asignación de grupo.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio actual 169 CAD, ordinario 200 CAD. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad. Oscar: No para el grupo mayor. Hay un grupo menor en la misma sede. Suplementos: Llevar almuerzo para jornada completa, y refrigerio sin frutos secos y agua para media jornada. Confirmar impuestos y dos plazas al inscribirse. Pago: Pago íntegro al inscribirse. Al cancelar desde 3 semanas se retienen 20 CAD, entre 2–3 semanas 50 CAD, dentro de 14 días y después del inicio no hay reembolso. Confirmar límite de 3 semanas.
+Fuente: https://vancouver.stemalearning.com/product/winter-camp/
+Se ha comprobado: 2026-11-07
+
+### CP1868-20261221-20261224-week1-full · STEMA Vancouver · Winter Explorer · Jornada completa · 09:00–16:00 · 2026-12-21–2026-12-24
+
+lugar: Canadá · STEMA Vancouver · 1025 Kingsway, Vancouver
+Fecha: 2026-12-21 - 2026-12-24
+edad: La tabla indica grupo menor 5–8 y mayor 8+. Los encabezados de las descripciones dan 5–7 y 8–12. Confirmar el límite de 8 años y la asignación de grupo.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio actual 329 CAD, ordinario 380 CAD. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad. Oscar: No para el grupo mayor. Hay un grupo menor en la misma sede. Suplementos: Llevar almuerzo para jornada completa, y refrigerio sin frutos secos y agua para media jornada. Confirmar impuestos y dos plazas al inscribirse. Pago: Pago íntegro al inscribirse. Al cancelar desde 3 semanas se retienen 20 CAD, entre 2–3 semanas 50 CAD, dentro de 14 días y después del inicio no hay reembolso. Confirmar límite de 3 semanas.
+Fuente: https://vancouver.stemalearning.com/product/winter-camp/
+Se ha comprobado: 2026-11-07
+
+### CP1868-20261221-20261224-week1-care · STEMA Vancouver · Winter Explorer · Jornada completa con extensión · 09:00–18:00 · 2026-12-21–2026-12-24
+
+lugar: Canadá · STEMA Vancouver · 1025 Kingsway, Vancouver
+Fecha: 2026-12-21 - 2026-12-24
+edad: La tabla indica grupo menor 5–8 y mayor 8+. Los encabezados de las descripciones dan 5–7 y 8–12. Confirmar el límite de 8 años y la asignación de grupo.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio actual 380 CAD, ordinario 440 CAD. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad. Oscar: No para el grupo mayor. Hay un grupo menor en la misma sede. Suplementos: Llevar almuerzo para jornada completa, y refrigerio sin frutos secos y agua para media jornada. Confirmar impuestos y dos plazas al inscribirse. Pago: Pago íntegro al inscribirse. Al cancelar desde 3 semanas se retienen 20 CAD, entre 2–3 semanas 50 CAD, dentro de 14 días y después del inicio no hay reembolso. Confirmar límite de 3 semanas.
+Fuente: https://vancouver.stemalearning.com/product/winter-camp/
+Se ha comprobado: 2026-11-07
+
+### CP1868-20261228-20261231-week2-am · STEMA Vancouver · Winter Explorer · Mañana · 09:00–12:00 · 2026-12-28–2026-12-31
+
+lugar: Canadá · STEMA Vancouver · 1025 Kingsway, Vancouver
+Fecha: 2026-12-28 - 2026-12-31
+edad: La tabla indica grupo menor 5–8 y mayor 8+. Los encabezados de las descripciones dan 5–7 y 8–12. Confirmar el límite de 8 años y la asignación de grupo.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio actual 169 CAD, ordinario 200 CAD. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad. Oscar: No para el grupo mayor. Hay un grupo menor en la misma sede. Suplementos: Llevar almuerzo para jornada completa, y refrigerio sin frutos secos y agua para media jornada. Confirmar impuestos y dos plazas al inscribirse. Pago: Pago íntegro al inscribirse. Al cancelar desde 3 semanas se retienen 20 CAD, entre 2–3 semanas 50 CAD, dentro de 14 días y después del inicio no hay reembolso. Confirmar límite de 3 semanas.
+Fuente: https://vancouver.stemalearning.com/product/winter-camp/
+Se ha comprobado: 2026-11-07
+
+### CP1868-20261228-20261231-week2-pm · STEMA Vancouver · Winter Explorer · Tarde · 13:00–16:00 · 2026-12-28–2026-12-31
+
+lugar: Canadá · STEMA Vancouver · 1025 Kingsway, Vancouver
+Fecha: 2026-12-28 - 2026-12-31
+edad: La tabla indica grupo menor 5–8 y mayor 8+. Los encabezados de las descripciones dan 5–7 y 8–12. Confirmar el límite de 8 años y la asignación de grupo.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio actual 169 CAD, ordinario 200 CAD. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad. Oscar: No para el grupo mayor. Hay un grupo menor en la misma sede. Suplementos: Llevar almuerzo para jornada completa, y refrigerio sin frutos secos y agua para media jornada. Confirmar impuestos y dos plazas al inscribirse. Pago: Pago íntegro al inscribirse. Al cancelar desde 3 semanas se retienen 20 CAD, entre 2–3 semanas 50 CAD, dentro de 14 días y después del inicio no hay reembolso. Confirmar límite de 3 semanas.
+Fuente: https://vancouver.stemalearning.com/product/winter-camp/
+Se ha comprobado: 2026-11-07
+
+### CP1868-20261228-20261231-week2-full · STEMA Vancouver · Winter Explorer · Jornada completa · 09:00–16:00 · 2026-12-28–2026-12-31
+
+lugar: Canadá · STEMA Vancouver · 1025 Kingsway, Vancouver
+Fecha: 2026-12-28 - 2026-12-31
+edad: La tabla indica grupo menor 5–8 y mayor 8+. Los encabezados de las descripciones dan 5–7 y 8–12. Confirmar el límite de 8 años y la asignación de grupo.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio actual 329 CAD, ordinario 380 CAD. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad. Oscar: No para el grupo mayor. Hay un grupo menor en la misma sede. Suplementos: Llevar almuerzo para jornada completa, y refrigerio sin frutos secos y agua para media jornada. Confirmar impuestos y dos plazas al inscribirse. Pago: Pago íntegro al inscribirse. Al cancelar desde 3 semanas se retienen 20 CAD, entre 2–3 semanas 50 CAD, dentro de 14 días y después del inicio no hay reembolso. Confirmar límite de 3 semanas.
+Fuente: https://vancouver.stemalearning.com/product/winter-camp/
+Se ha comprobado: 2026-11-07
+
+### CP1868-20261228-20261231-week2-care · STEMA Vancouver · Winter Explorer · Jornada completa con extensión · 09:00–18:00 · 2026-12-28–2026-12-31
+
+lugar: Canadá · STEMA Vancouver · 1025 Kingsway, Vancouver
+Fecha: 2026-12-28 - 2026-12-31
+edad: La tabla indica grupo menor 5–8 y mayor 8+. Los encabezados de las descripciones dan 5–7 y 8–12. Confirmar el límite de 8 años y la asignación de grupo.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio actual 380 CAD, ordinario 440 CAD. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad. Oscar: No para el grupo mayor. Hay un grupo menor en la misma sede. Suplementos: Llevar almuerzo para jornada completa, y refrigerio sin frutos secos y agua para media jornada. Confirmar impuestos y dos plazas al inscribirse. Pago: Pago íntegro al inscribirse. Al cancelar desde 3 semanas se retienen 20 CAD, entre 2–3 semanas 50 CAD, dentro de 14 días y después del inicio no hay reembolso. Confirmar límite de 3 semanas.
+Fuente: https://vancouver.stemalearning.com/product/winter-camp/
+Se ha comprobado: 2026-11-07
+
+### CP1868-20261221-20261231-both-am · STEMA Vancouver · Winter Explorer · Paquete de 8 días · Mañana · 09:00–12:00 · 2026-12-21–2026-12-31
+
+lugar: Canadá · STEMA Vancouver · 1025 Kingsway, Vancouver
+Fecha: 2026-12-21 - 2026-12-31
+edad: La tabla indica grupo menor 5–8 y mayor 8+. Los encabezados de las descripciones dan 5–7 y 8–12. Confirmar el límite de 8 años y la asignación de grupo.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio actual 328 CAD por 8 días, ordinario 400 CAD. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad. Oscar: No para el grupo mayor. Hay un grupo menor en la misma sede. Suplementos: Llevar almuerzo para jornada completa, y refrigerio sin frutos secos y agua para media jornada. Confirmar impuestos y dos plazas al inscribirse. Pago: Pago íntegro al inscribirse. Al cancelar desde 3 semanas se retienen 20 CAD, entre 2–3 semanas 50 CAD, dentro de 14 días y después del inicio no hay reembolso. Confirmar límite de 3 semanas.
+Fuente: https://vancouver.stemalearning.com/product/winter-camp/
+Se ha comprobado: 2026-11-07
+
+### CP1868-20261221-20261231-both-pm · STEMA Vancouver · Winter Explorer · Paquete de 8 días · Tarde · 13:00–16:00 · 2026-12-21–2026-12-31
+
+lugar: Canadá · STEMA Vancouver · 1025 Kingsway, Vancouver
+Fecha: 2026-12-21 - 2026-12-31
+edad: La tabla indica grupo menor 5–8 y mayor 8+. Los encabezados de las descripciones dan 5–7 y 8–12. Confirmar el límite de 8 años y la asignación de grupo.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio actual 328 CAD por 8 días, ordinario 400 CAD. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad. Oscar: No para el grupo mayor. Hay un grupo menor en la misma sede. Suplementos: Llevar almuerzo para jornada completa, y refrigerio sin frutos secos y agua para media jornada. Confirmar impuestos y dos plazas al inscribirse. Pago: Pago íntegro al inscribirse. Al cancelar desde 3 semanas se retienen 20 CAD, entre 2–3 semanas 50 CAD, dentro de 14 días y después del inicio no hay reembolso. Confirmar límite de 3 semanas.
+Fuente: https://vancouver.stemalearning.com/product/winter-camp/
+Se ha comprobado: 2026-11-07
+
+### CP1868-20261221-20261231-both-full · STEMA Vancouver · Winter Explorer · Paquete de 8 días · Jornada completa · 09:00–16:00 · 2026-12-21–2026-12-31
+
+lugar: Canadá · STEMA Vancouver · 1025 Kingsway, Vancouver
+Fecha: 2026-12-21 - 2026-12-31
+edad: La tabla indica grupo menor 5–8 y mayor 8+. Los encabezados de las descripciones dan 5–7 y 8–12. Confirmar el límite de 8 años y la asignación de grupo.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio actual 639 CAD por 8 días, ordinario 720 CAD. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad. Oscar: No para el grupo mayor. Hay un grupo menor en la misma sede. Suplementos: Llevar almuerzo para jornada completa, y refrigerio sin frutos secos y agua para media jornada. Confirmar impuestos y dos plazas al inscribirse. Pago: Pago íntegro al inscribirse. Al cancelar desde 3 semanas se retienen 20 CAD, entre 2–3 semanas 50 CAD, dentro de 14 días y después del inicio no hay reembolso. Confirmar límite de 3 semanas.
+Fuente: https://vancouver.stemalearning.com/product/winter-camp/
+Se ha comprobado: 2026-11-07
+
+### CP1868-20261221-20261231-both-care · STEMA Vancouver · Winter Explorer · Paquete de 8 días · Jornada completa con extensión · 09:00–18:00 · 2026-12-21–2026-12-31
+
+lugar: Canadá · STEMA Vancouver · 1025 Kingsway, Vancouver
+Fecha: 2026-12-21 - 2026-12-31
+edad: La tabla indica grupo menor 5–8 y mayor 8+. Los encabezados de las descripciones dan 5–7 y 8–12. Confirmar el límite de 8 años y la asignación de grupo.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio actual 740 CAD por 8 días, ordinario 800 CAD. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad. Oscar: No para el grupo mayor. Hay un grupo menor en la misma sede. Suplementos: Llevar almuerzo para jornada completa, y refrigerio sin frutos secos y agua para media jornada. Confirmar impuestos y dos plazas al inscribirse. Pago: Pago íntegro al inscribirse. Al cancelar desde 3 semanas se retienen 20 CAD, entre 2–3 semanas 50 CAD, dentro de 14 días y después del inicio no hay reembolso. Confirmar límite de 3 semanas.
+Fuente: https://vancouver.stemalearning.com/product/winter-camp/
+Se ha comprobado: 2026-11-07
+
+### CP1869-20261221-20261224-four-days · STEMstein Mississauga · TechVerse Week · TechVerse Week · 2026-12-21–2026-12-24
+
+lugar: Canadá · 3401 Ridgeway Drive · Units 209–211 · Mississauga
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 5–15 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · 399 CAD por 4 días. La página muestra una tarifa EarlyBird de 349 CAD. Confirmar condiciones y plazo del descuento. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad. Oscar: Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad. Suplementos: Se anuncia descuento para hermanos sin importe. Confirmar impuestos, comidas e importe final. Pago: La tarifa exacta de la convocatoria elegida no está confirmada.
+Fuente: https://www.stemstein.com/booking-calendar/winter-break-camp-techverse-week
+Se ha comprobado: 2026-11-07
+
+### CP1870-20261228-20261231-four-days · STEMstein Mississauga · Winter Wonders Week · Winter Wonders Week · 2026-12-28–2026-12-31
+
+lugar: Canadá · 3401 Ridgeway Drive · Units 209–211 · Mississauga
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 5–15 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · 399 CAD por 4 días. La página muestra una tarifa EarlyBird de 349 CAD. Confirmar condiciones y plazo del descuento. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad. Oscar: Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad. Suplementos: Se anuncia descuento para hermanos sin importe. Confirmar impuestos, comidas e importe final. Pago: La tarifa exacta de la convocatoria elegida no está confirmada.
+Fuente: https://www.stemstein.com/booking-calendar/winter-break-camp-winter-wonders-week
+Se ha comprobado: 2026-11-07
+
+### CP1871-20261221-20261223-full · Dash Sports · STEM and Sports Fusion · 09:00–17:00 · tres días · 2026-12-21–2026-12-23
+
+lugar: Canadá · Forestview · 3175 Dundas Street West, Oakville
+Fecha: 2026-12-21 - 2026-12-23
+Edad: 5 a 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Con HST, 258.77 CAD por menor o 465.79 CAD por dos con descuento. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad. Oscar: Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad. Suplementos: La tarifa exacta de la convocatoria elegida no está confirmada. Pago: El formulario publica importes con HST y descuento para dos. Confirmar comidas, reembolso y dos plazas.
+Fuente: https://dashsports.ca/product/winter-camp-2026/
+Se ha comprobado: 2026-11-07
+
+### CP1871-20261221-20261223-am · Dash Sports · STEM and Sports Fusion · 09:00–13:00 · tres días · 2026-12-21–2026-12-23
+
+lugar: Canadá · Forestview · 3175 Dundas Street West, Oakville
+Fecha: 2026-12-21 - 2026-12-23
+Edad: 5 a 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Con HST, 157.07 CAD por menor o 282.73 CAD por dos con descuento. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad. Oscar: Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad. Suplementos: La tarifa exacta de la convocatoria elegida no está confirmada. Pago: El formulario publica importes con HST y descuento para dos. Confirmar comidas, reembolso y dos plazas.
+Fuente: https://dashsports.ca/product/winter-camp-2026/
+Se ha comprobado: 2026-11-07
+
+### CP1871-20261221-20261223-pm · Dash Sports · STEM and Sports Fusion · 13:00–17:00 · tres días · 2026-12-21–2026-12-23
+
+lugar: Canadá · Forestview · 3175 Dundas Street West, Oakville
+Fecha: 2026-12-21 - 2026-12-23
+Edad: 5 a 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Con HST, 157.07 CAD por menor o 282.73 CAD por dos con descuento. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad. Oscar: Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad. Suplementos: La tarifa exacta de la convocatoria elegida no está confirmada. Pago: El formulario publica importes con HST y descuento para dos. Confirmar comidas, reembolso y dos plazas.
+Fuente: https://dashsports.ca/product/winter-camp-2026/
+Se ha comprobado: 2026-11-07
+
+### CP1872-20261123-20261125-camp1 · WondersWork · Infinite Aura All Stars · Turno 1 · 10:00–15:00 · 2026-11-23–2026-11-25
+
+Lugar: Singapur Furama Riverfront Hotel · #01-05 · 405 Havelock Road
+Fecha: 2026-11-23 国 2026-11-25
+edad: 5–14 años, actividades por nivel. Confirmar grupo para cada menor.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · 598 SGD por turno y menor. La organización indica que no se cobra GST ni matrícula separada. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad. Oscar: Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad. Suplementos: Traslado por solicitud separada, sin tarifa publicada. Pago: Confirmación tras pago íntegro y formulario. Turno sujeto a un mínimo de 3 participantes. Si no se alcanza, se anuncia devolución o traslado. Cancelaciones ordinarias bajo reglas aparte.
+Fuente: https://www.wonderswork.com.sg/school-holiday-camp/
+Se ha comprobado: 2026-11-07
+
+### CP1872-20261207-20261209-camp2 · WondersWork · Infinite Aura All Stars · Turno 2 · 10:00–15:00 · 2026-12-07–2026-12-09
+
+Lugar: Singapur Furama Riverfront Hotel · #01-05 · 405 Havelock Road
+Fecha: 2026-12-07 — 2026-12-09
+edad: 5–14 años, actividades por nivel. Confirmar grupo para cada menor.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · 598 SGD por turno y menor. La organización indica que no se cobra GST ni matrícula separada. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad. Oscar: Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad. Suplementos: Traslado por solicitud separada, sin tarifa publicada. Pago: Confirmación tras pago íntegro y formulario. Turno sujeto a un mínimo de 3 participantes. Si no se alcanza, se anuncia devolución o traslado. Cancelaciones ordinarias bajo reglas aparte.
+Fuente: https://www.wonderswork.com.sg/school-holiday-camp/
+Se ha comprobado: 2026-11-07
+
+### CP1872-20261214-20261216-camp3 · WondersWork · Infinite Aura All Stars · Turno 3 · 10:00–15:00 · 2026-12-14–2026-12-16
+
+Lugar: Singapur Furama Riverfront Hotel · #01-05 · 405 Havelock Road
+Fecha: 2026-12-14 国 2026-12-16
+edad: 5–14 años, actividades por nivel. Confirmar grupo para cada menor.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · 598 SGD por turno y menor. La organización indica que no se cobra GST ni matrícula separada. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad. Oscar: Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad. Suplementos: Traslado por solicitud separada, sin tarifa publicada. Pago: Confirmación tras pago íntegro y formulario. Turno sujeto a un mínimo de 3 participantes. Si no se alcanza, se anuncia devolución o traslado. Cancelaciones ordinarias bajo reglas aparte.
+Fuente: https://www.wonderswork.com.sg/school-holiday-camp/
+Se ha comprobado: 2026-11-07
+
+### CP1872-20261221-20261223-camp4 · WondersWork · Infinite Aura All Stars · Turno 4 · 10:00–15:00 · 2026-12-21–2026-12-23
+
+Lugar: Singapur Furama Riverfront Hotel · #01-05 · 405 Havelock Road
+Fecha: 2026-12-21 - 2026-12-23
+edad: 5–14 años, actividades por nivel. Confirmar grupo para cada menor.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · 598 SGD por turno y menor. La organización indica que no se cobra GST ni matrícula separada. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad. Oscar: Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad. Suplementos: Traslado por solicitud separada, sin tarifa publicada. Pago: Confirmación tras pago íntegro y formulario. Turno sujeto a un mínimo de 3 participantes. Si no se alcanza, se anuncia devolución o traslado. Cancelaciones ordinarias bajo reglas aparte.
+Fuente: https://www.wonderswork.com.sg/school-holiday-camp/
 Se ha comprobado: 2026-11-07
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

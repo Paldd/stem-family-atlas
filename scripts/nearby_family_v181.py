@@ -76,7 +76,9 @@ def budget_offers(d):
 
 def enrich_v181(d):
     for p in d['camp_programmes']['profiles']:
-        if p.get('pairing'):p['pairing']['checked']=CHECKED
+        pairing = p.get('pairing')
+        if pairing and pairing.get('verified_source') == FOD and pairing.get('checked', '') < CHECKED:
+            pairing['checked'] = CHECKED
     ids={'E041','E211'}
     for e in d['events']:
         if e.get('camp_programme_id')in {'CP1436','CP1437'}:e.update(participation='family_visit',admission_kind='family')

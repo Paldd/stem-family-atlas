@@ -30,7 +30,7 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1866,
+    "dossiers": 1872,
     "countries": 121,
     "swiss": 137,
     "by_status": {
@@ -38,7 +38,7 @@
       "published_2027": 509,
       "partial_2027": 141,
       "next_unannounced": 397,
-      "published_2026": 334,
+      "published_2026": 340,
       "partial_2026_27": 32,
       "partial_2026": 23,
       "archive_next_unannounced": 142,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2718
+    "source_urls": 2730
   },
   "countries": [
     {
@@ -245,7 +245,7 @@
     },
     {
       "country": "Canadá",
-      "count": 186
+      "count": 191
     },
     {
       "country": "Catar",
@@ -421,7 +421,7 @@
     },
     {
       "country": "Singapur",
-      "count": 174
+      "count": 175
     },
     {
       "country": "Sierra Leona",
@@ -46765,13 +46765,13 @@
       "programme": "La promesa de un conjunto de la casa en las FAQ generales requiere la confirmación de que es el camp-paquete.",
       "timing": {
         "status": "partial_2027",
-        "label": "2027: Los títulos 04–07 enero/01–04 febrero, pero la descripción«04 el día del–¿Qué es esto?(revisar)» y el viernes bus/las clases. no se ha establecido la duración total, ICS No creamos.",
+        "label": "Ventanas iniciales del 4 al 7 de enero y del 1 al 4 de febrero de 2027. La descripción promete aparte 4 días en Lima, 4 días en Pachacámac y salidas los viernes. Confirmar calendario completo y contenido de los 700 USD.",
         "sessions": [],
         "precision": "season_window"
       },
       "price": {
         "year": 2027,
-        "label": "USD 700 por página, volumen de paquete/número de semanas no se ha establecido.",
+        "label": "700 USD según el anuncio de 2027. Vigencia, número de semanas y factura final sin confirmar.",
         "included": "se han declarado clases de robótica y naturecamp; se necesita confirmar el bus/food/kit completo.",
         "extras": "transporte Friday 08:30–16:00 contra agenda de regreso 14:30; no se considera el autobús de cada día.",
         "deposit": "El adelanto/revocación no se ha revelado; la inscripción Camp no prueba la estancia."
@@ -46790,16 +46790,17 @@
       "editorial_reason": "un plan técnico común y un plan técnico para ambos; el horario/precio no está suficientemente acordado para el viaje.",
       "shortlist": [],
       "questions": [
-        "días y volumen completo 700 USD, lenguaje, de hecho Friday transferencias, conjunto y una plaza abierta sin miembros."
+        "días y volumen completo 700 USD, lenguaje, de hecho Friday transferencias, conjunto y una plaza abierta sin miembros.",
+        "El FAQ inferior muestra fechas y tarifas de 2024. Para 2027 confirmar idioma, comidas, kit y transporte."
       ],
       "sources": [
         {
-          "title": "2027 página con contradicciones",
           "url": "https://troonic.com/troonic-camp-2027/",
-          "checked": "2026-10-05"
+          "title": "Página o reglamento oficial de la organización.",
+          "checked": "2026-11-07"
         }
       ],
-      "checked": "2026-10-05",
+      "checked": "2026-11-07",
       "related_event_ids": [
         "L149",
         "L150"
@@ -111765,7 +111766,7 @@
       "pairing": {
         "venue_id": "che-techlabs-basel-elys",
         "verified_source": "https://www.techlabs.ch/basel",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "amount": 859,
           "currency": "CHF",
@@ -119641,7 +119642,7 @@
       "pairing": {
         "venue_id": "kor-daewon-gwangjin",
         "verified_source": "https://www.dcampskorea.com/post/2027-winter-daewon",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "amount": 989000,
           "currency": "KRW",
@@ -144512,7 +144513,7 @@
       "pairing": {
         "venue_id": "fod-central-francisco-peralta",
         "verified_source": "https://survey.zohopublic.com/zs/SjzWbS",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "amount": 60000,
           "currency": "CRC",
@@ -144713,7 +144714,7 @@
       "pairing": {
         "venue_id": "fod-central-francisco-peralta",
         "verified_source": "https://survey.zohopublic.com/zs/SjzWbS",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "amount": 60000,
           "currency": "CRC",
@@ -144898,7 +144899,7 @@
       "pairing": {
         "venue_id": "fod-central-francisco-peralta",
         "verified_source": "https://survey.zohopublic.com/zs/SjzWbS",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "amount": 60000,
           "currency": "CRC",
@@ -145153,7 +145154,7 @@
       "pairing": {
         "venue_id": "fod-central-francisco-peralta",
         "verified_source": "https://survey.zohopublic.com/zs/SjzWbS",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "amount": 60000,
           "currency": "CRC",
@@ -145346,7 +145347,7 @@
       "pairing": {
         "venue_id": "fod-central-francisco-peralta",
         "verified_source": "https://survey.zohopublic.com/zs/SjzWbS",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "amount": 60000,
           "currency": "CRC",
@@ -145531,7 +145532,7 @@
       "pairing": {
         "venue_id": "fod-central-francisco-peralta",
         "verified_source": "https://survey.zohopublic.com/zs/SjzWbS",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "amount": 60000,
           "currency": "CRC",
@@ -145716,7 +145717,7 @@
       "pairing": {
         "venue_id": "fod-central-francisco-peralta",
         "verified_source": "https://survey.zohopublic.com/zs/SjzWbS",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "amount": 60000,
           "currency": "CRC",
@@ -145900,7 +145901,7 @@
       "pairing": {
         "venue_id": "fod-central-francisco-peralta",
         "verified_source": "https://survey.zohopublic.com/zs/SjzWbS",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "amount": 60000,
           "currency": "CRC",
@@ -146207,7 +146208,7 @@
       "pairing": {
         "venue_id": "fod-central-francisco-peralta",
         "verified_source": "https://survey.zohopublic.com/zs/SjzWbS",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "amount": 60000,
           "currency": "CRC",
@@ -146390,7 +146391,7 @@
       "pairing": {
         "venue_id": "fod-central-francisco-peralta",
         "verified_source": "https://survey.zohopublic.com/zs/SjzWbS",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "amount": 60000,
           "currency": "CRC",
@@ -146557,7 +146558,7 @@
       "pairing": {
         "venue_id": "fod-central-francisco-peralta",
         "verified_source": "https://survey.zohopublic.com/zs/SjzWbS",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "amount": 60000,
           "currency": "CRC",
@@ -146724,7 +146725,7 @@
       "pairing": {
         "venue_id": "fod-central-francisco-peralta",
         "verified_source": "https://survey.zohopublic.com/zs/SjzWbS",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "amount": 60000,
           "currency": "CRC",
@@ -161300,7 +161301,7 @@
       "pairing": {
         "venue_id": "chl-techlab-vitacura-3568-oficina-611",
         "verified_source": "https://www.techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "currency": "CLP",
           "amount": 115000,
@@ -162224,7 +162225,7 @@
       "pairing": {
         "venue_id": "chl-techlab-vitacura-3568-oficina-611",
         "verified_source": "https://www.techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "currency": "CLP",
           "amount": 115000,
@@ -251252,7 +251253,7 @@
       "pairing": {
         "venue_id": "sgp-worklab-forum",
         "verified_source": "https://www.worklab.com.sg/_files/ugd/4223d1_e472ac12e25b4a82b585fbc19139c170.pdf",
-        "checked": "2026-11-06"
+        "checked": "2026-11-07"
       },
       "related_event_ids": [],
       "calendar_links": [
@@ -251879,7 +251880,7 @@
       "pairing": {
         "venue_id": "sgp-worklab-forum",
         "verified_source": "https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf",
-        "checked": "2026-11-06"
+        "checked": "2026-11-07"
       },
       "related_event_ids": [],
       "calendar_links": [
@@ -252511,7 +252512,7 @@
       "pairing": {
         "venue_id": "sgp-worklab-ue-square",
         "verified_source": "https://www.worklab.com.sg/_files/ugd/4223d1_e472ac12e25b4a82b585fbc19139c170.pdf",
-        "checked": "2026-11-06"
+        "checked": "2026-11-07"
       },
       "related_event_ids": [],
       "calendar_links": [
@@ -253138,7 +253139,7 @@
       "pairing": {
         "venue_id": "sgp-worklab-ue-square",
         "verified_source": "https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf",
-        "checked": "2026-11-06"
+        "checked": "2026-11-07"
       },
       "related_event_ids": [],
       "calendar_links": [
@@ -253630,7 +253631,7 @@
       "pairing": {
         "venue_id": "sgp-worklab-coronation",
         "verified_source": "https://www.worklab.com.sg/_files/ugd/4223d1_e472ac12e25b4a82b585fbc19139c170.pdf",
-        "checked": "2026-11-06"
+        "checked": "2026-11-07"
       },
       "related_event_ids": [],
       "calendar_links": [
@@ -254101,7 +254102,7 @@
       "pairing": {
         "venue_id": "sgp-worklab-coronation",
         "verified_source": "https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf",
-        "checked": "2026-11-06"
+        "checked": "2026-11-07"
       },
       "related_event_ids": [],
       "calendar_links": [
@@ -262863,7 +262864,7 @@
       "pairing": {
         "venue_id": "sgp-worklab-forum",
         "verified_source": "https://www.worklab.com.sg/_files/ugd/4223d1_7a2faa2000c04c1bb71218ae17933956.pdf",
-        "checked": "2026-11-06"
+        "checked": "2026-11-07"
       },
       "related_event_ids": [],
       "calendar_links": [
@@ -265008,7 +265009,7 @@
       "pairing": {
         "venue_id": "pry-mot-austria-2400",
         "verified_source": "https://www.mindsoftomorrowparaguay.com/retro-lab",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "currency": "PYG",
           "amount": 1200000,
@@ -265334,7 +265335,7 @@
       "pairing": {
         "venue_id": "pry-mot-austria-2400",
         "verified_source": "https://www.mindsoftomorrowparaguay.com/movie-lab",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "currency": "PYG",
           "amount": 1200000,
@@ -265660,7 +265661,7 @@
       "pairing": {
         "venue_id": "pry-mot-austria-2400",
         "verified_source": "https://www.mindsoftomorrowparaguay.com/escape-lab",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "currency": "PYG",
           "amount": 1200000,
@@ -265916,7 +265917,7 @@
       "pairing": {
         "venue_id": "pry-mot-austria-2400",
         "verified_source": "https://www.mindsoftomorrowparaguay.com/pygamers",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "currency": "PYG",
           "amount": 1200000,
@@ -266163,7 +266164,7 @@
       "pairing": {
         "venue_id": "pry-mot-austria-2400",
         "verified_source": "https://www.mindsoftomorrowparaguay.com/colonia-lego-league",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "currency": "PYG",
           "amount": 1200000,
@@ -266411,7 +266412,7 @@
       "pairing": {
         "venue_id": "pry-mot-austria-2400",
         "verified_source": "https://www.mindsoftomorrowparaguay.com/eco-tech-inventores",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "currency": "PYG",
           "amount": 1200000,
@@ -269930,7 +269931,7 @@
       "pairing": {
         "venue_id": "fra-it-school-saint-maur",
         "verified_source": "https://www.algora-saintmaurdesfosses.fr/produit/6-14-ans-stage-coding-ia-vacances-dhiver-2026-du-21-decembre-sur-4-jours-2-groupes-dage/",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "amount": 239,
           "currency": "EUR",
@@ -270084,7 +270085,7 @@
       "pairing": {
         "venue_id": "fra-it-school-saint-maur",
         "verified_source": "https://www.algora-saintmaurdesfosses.fr/produit/6-14-ans-stage-coding-ia-vacances-dhiver-2026-du-21-decembre-sur-4-jours-2-groupes-dage/",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "amount": 239,
           "currency": "EUR",
@@ -271071,7 +271072,7 @@
       "pairing": {
         "venue_id": "che-techlabs-basel-elys",
         "verified_source": "https://www.techlabs.ch/basel",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "amount": 859,
           "currency": "CHF",
@@ -271250,7 +271251,7 @@
       "pairing": {
         "venue_id": "che-techlabs-basel-elys",
         "verified_source": "https://www.techlabs.ch/basel",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "amount": 859,
           "currency": "CHF",
@@ -271504,7 +271505,7 @@
       "pairing": {
         "venue_id": "che-techlabs-basel-elys",
         "verified_source": "https://www.techlabs.ch/basel",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "amount": 859,
           "currency": "CHF",
@@ -272447,7 +272448,7 @@
       "pairing": {
         "venue_id": "can-brainstem-marine-drive",
         "verified_source": "https://www.brainstemlearning.ca/programs/spring-camp",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "amount": 660,
           "currency": "CAD",
@@ -272607,7 +272608,7 @@
       "pairing": {
         "venue_id": "can-brainstem-marine-drive",
         "verified_source": "https://www.brainstemlearning.ca/programs/spring-camp",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "amount": 660,
           "currency": "CAD",
@@ -272759,7 +272760,7 @@
       "pairing": {
         "venue_id": "can-brainstem-marine-drive",
         "verified_source": "https://www.brainstemlearning.ca/programs/spring-camp",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "amount": 528,
           "currency": "CAD",
@@ -272911,7 +272912,7 @@
       "pairing": {
         "venue_id": "can-brainstem-marine-drive",
         "verified_source": "https://www.brainstemlearning.ca/programs/spring-camp",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "amount": 528,
           "currency": "CAD",
@@ -273549,7 +273550,7 @@
       "pairing": {
         "venue_id": "per-sir-huachipa",
         "verified_source": "https://www.sir.edu.pe/landings/summer-camp/",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "amount": 1680,
           "currency": "PEN",
@@ -273814,7 +273815,7 @@
       "pairing": {
         "venue_id": "per-sir-huachipa",
         "verified_source": "https://www.sir.edu.pe/landings/summer-camp/",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "amount": 1680,
           "currency": "PEN",
@@ -274079,7 +274080,7 @@
       "pairing": {
         "venue_id": "per-sir-huachipa",
         "verified_source": "https://www.sir.edu.pe/landings/summer-camp/",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "amount": 1680,
           "currency": "PEN",
@@ -274344,7 +274345,7 @@
       "pairing": {
         "venue_id": "per-sir-huachipa",
         "verified_source": "https://www.sir.edu.pe/landings/summer-camp/",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "amount": 1680,
           "currency": "PEN",
@@ -274745,7 +274746,7 @@
       "pairing": {
         "venue_id": "kor-daewon-gwangjin",
         "verified_source": "https://www.dcampskorea.com/post/2027-winter-daewon",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "amount": 989000,
           "currency": "KRW",
@@ -275005,7 +275006,7 @@
       "pairing": {
         "venue_id": "kor-daewon-gwangjin",
         "verified_source": "https://www.dcampskorea.com/post/2027-winter-daewon",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "amount": 989000,
           "currency": "KRW",
@@ -275189,7 +275190,7 @@
       "pairing": {
         "venue_id": "kor-daewon-gwangjin",
         "verified_source": "https://www.dcampskorea.com/post/2027-winter-daewon",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "amount": 989000,
           "currency": "KRW",
@@ -275441,7 +275442,7 @@
       "pairing": {
         "venue_id": "kor-daewon-gwangjin",
         "verified_source": "https://www.dcampskorea.com/post/2027-winter-daewon",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "amount": 989000,
           "currency": "KRW",
@@ -275626,7 +275627,7 @@
       "pairing": {
         "venue_id": "kor-daewon-gwangjin",
         "verified_source": "https://www.dcampskorea.com/post/2027-winter-daewon",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "amount": 989000,
           "currency": "KRW",
@@ -283111,7 +283112,7 @@
       "pairing": {
         "venue_id": "hkg-cobo-wan-chai",
         "verified_source": "https://www.coboacademy.com/holiday-camps/index.asp",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "currency": "HKD",
           "amount": 3600,
@@ -283516,7 +283517,7 @@
       "pairing": {
         "venue_id": "hkg-cobo-wan-chai",
         "verified_source": "https://www.coboacademy.com/holiday-camps/index.asp",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "currency": "HKD",
           "amount": 3600,
@@ -283953,7 +283954,7 @@
       "pairing": {
         "venue_id": "hkg-cobo-wan-chai",
         "verified_source": "https://www.coboacademy.com/holiday-camps/index.asp",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "currency": "HKD",
           "amount": 4500,
@@ -284390,7 +284391,7 @@
       "pairing": {
         "venue_id": "hkg-cobo-wan-chai",
         "verified_source": "https://www.coboacademy.com/holiday-camps/index.asp",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "currency": "HKD",
           "amount": 4500,
@@ -284795,7 +284796,7 @@
       "pairing": {
         "venue_id": "hkg-cobo-kowloon-tong",
         "verified_source": "https://www.coboacademy.com/holiday-camps/index.asp",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "currency": "HKD",
           "amount": 3600,
@@ -285200,7 +285201,7 @@
       "pairing": {
         "venue_id": "hkg-cobo-kowloon-tong",
         "verified_source": "https://www.coboacademy.com/holiday-camps/index.asp",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "currency": "HKD",
           "amount": 3600,
@@ -285637,7 +285638,7 @@
       "pairing": {
         "venue_id": "hkg-cobo-kowloon-tong",
         "verified_source": "https://www.coboacademy.com/holiday-camps/index.asp",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "currency": "HKD",
           "amount": 4500,
@@ -286074,7 +286075,7 @@
       "pairing": {
         "venue_id": "hkg-cobo-kowloon-tong",
         "verified_source": "https://www.coboacademy.com/holiday-camps/index.asp",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "currency": "HKD",
           "amount": 4500,
@@ -288245,7 +288246,7 @@
       "pairing": {
         "venue_id": "esp-techlab-sarria-via-augusta-318",
         "verified_source": "https://techlabkids.com/campamentos/casal-de-navidad/",
-        "checked": "2026-11-06"
+        "checked": "2026-11-07"
       },
       "related_event_ids": [],
       "calendar_links": [
@@ -288871,7 +288872,7 @@
       "pairing": {
         "venue_id": "esp-techlab-sarria-via-augusta-318",
         "verified_source": "https://techlabkids.com/campamentos/casal-de-navidad/",
-        "checked": "2026-11-06"
+        "checked": "2026-11-07"
       },
       "related_event_ids": [],
       "calendar_links": [
@@ -291648,7 +291649,7 @@
       "pairing": {
         "venue_id": "inventor-dollard-4503-saint-jean",
         "verified_source": "https://inventor-camps.jumbula.com/WINTERCAMP20262027/InventorSTEMCampJuniorGroup457yo",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "amount": 312,
           "currency": "CAD",
@@ -291879,7 +291880,7 @@
       "pairing": {
         "venue_id": "inventor-dollard-4503-saint-jean",
         "verified_source": "https://inventor-camps.jumbula.com/WINTERCAMP20262027/InventorSTEMCampSeniorGroup912yo",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "amount": 359,
           "currency": "CAD",
@@ -292308,7 +292309,7 @@
       "pairing": {
         "venue_id": "singular-taipei-nanjing-56",
         "verified_source": "https://www.singularmaker.com.tw/article_d.php?id=1688&lang=tw&tb=1",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "amount": 10200,
           "currency": "TWD",
@@ -292453,7 +292454,7 @@
       "pairing": {
         "venue_id": "singular-taipei-nanjing-56",
         "verified_source": "https://www.singularmaker.com.tw/article_d.php?id=1763&lang=tw&tb=12",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "amount": 7200,
           "currency": "TWD",
@@ -292615,7 +292616,7 @@
       "pairing": {
         "venue_id": "singular-taipei-nanjing-56",
         "verified_source": "https://www.singularmaker.com.tw/article_d.php?id=1713&lang=tw&tb=1",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "amount": 12000,
           "currency": "TWD",
@@ -292761,7 +292762,7 @@
       "pairing": {
         "venue_id": "singular-taipei-nanjing-56",
         "verified_source": "https://www.singularmaker.com.tw/article_d.php?lang=tw&tb=1&id=1723",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "amount": 9600,
           "currency": "TWD",
@@ -292906,7 +292907,7 @@
       "pairing": {
         "venue_id": "singular-taipei-nanjing-56",
         "verified_source": "https://www.singularmaker.com.tw/article_d.php?id=1703&lang=tw&tb=1",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "amount": 7500,
           "currency": "TWD",
@@ -293067,7 +293068,7 @@
       "pairing": {
         "venue_id": "singular-taipei-nanjing-56",
         "verified_source": "https://www.singularmaker.com.tw/article_d.php?id=1698&lang=tw&tb=1",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "amount": 10500,
           "currency": "TWD",
@@ -293229,7 +293230,7 @@
       "pairing": {
         "venue_id": "singular-taipei-nanjing-56",
         "verified_source": "https://www.singularmaker.com.tw/article_d.php?id=1728&lang=tw&tb=1",
-        "checked": "2026-11-06",
+        "checked": "2026-11-07",
         "fee": {
           "amount": 10800,
           "currency": "TWD",
@@ -301243,7 +301244,7 @@
       "pairing": {
         "venue_id": "makerkids-bloor",
         "verified_source": "https://makerkids.com/camps-in-bloor-west/",
-        "checked": "2026-11-06"
+        "checked": "2026-11-07"
       },
       "related_event_ids": [],
       "calendar_links": [
@@ -301566,7 +301567,7 @@
       "pairing": {
         "venue_id": "makerkids-bloor",
         "verified_source": "https://makerkids.com/camps-in-bloor-west/",
-        "checked": "2026-11-06"
+        "checked": "2026-11-07"
       },
       "related_event_ids": [],
       "calendar_links": [
@@ -301890,7 +301891,7 @@
       "pairing": {
         "venue_id": "makerkids-bloor",
         "verified_source": "https://makerkids.com/camps-in-bloor-west/",
-        "checked": "2026-11-06"
+        "checked": "2026-11-07"
       },
       "related_event_ids": [],
       "calendar_links": [
@@ -302214,7 +302215,7 @@
       "pairing": {
         "venue_id": "makerkids-bloor",
         "verified_source": "https://makerkids.com/camps-in-bloor-west/",
-        "checked": "2026-11-06"
+        "checked": "2026-11-07"
       },
       "related_event_ids": [],
       "calendar_links": [
@@ -302537,7 +302538,7 @@
       "pairing": {
         "venue_id": "makerkids-leaside",
         "verified_source": "https://makerkids.com/camps-in-leaside/",
-        "checked": "2026-11-06"
+        "checked": "2026-11-07"
       },
       "related_event_ids": [],
       "calendar_links": [
@@ -302860,7 +302861,7 @@
       "pairing": {
         "venue_id": "makerkids-leaside",
         "verified_source": "https://makerkids.com/camps-in-leaside/",
-        "checked": "2026-11-06"
+        "checked": "2026-11-07"
       },
       "related_event_ids": [],
       "calendar_links": [
@@ -303184,7 +303185,7 @@
       "pairing": {
         "venue_id": "makerkids-leaside",
         "verified_source": "https://makerkids.com/camps-in-leaside/",
-        "checked": "2026-11-06"
+        "checked": "2026-11-07"
       },
       "related_event_ids": [],
       "calendar_links": [
@@ -303508,7 +303509,7 @@
       "pairing": {
         "venue_id": "makerkids-leaside",
         "verified_source": "https://makerkids.com/camps-in-leaside/",
-        "checked": "2026-11-06"
+        "checked": "2026-11-07"
       },
       "related_event_ids": [],
       "calendar_links": [
@@ -303831,7 +303832,7 @@
       "pairing": {
         "venue_id": "makerkids-mississauga",
         "verified_source": "https://makerkids.com/makerkids-mississauga/stem-camps-in-mississauga/",
-        "checked": "2026-11-06"
+        "checked": "2026-11-07"
       },
       "related_event_ids": [],
       "calendar_links": [
@@ -304154,7 +304155,7 @@
       "pairing": {
         "venue_id": "makerkids-mississauga",
         "verified_source": "https://makerkids.com/makerkids-mississauga/stem-camps-in-mississauga/",
-        "checked": "2026-11-06"
+        "checked": "2026-11-07"
       },
       "related_event_ids": [],
       "calendar_links": [
@@ -304478,7 +304479,7 @@
       "pairing": {
         "venue_id": "makerkids-mississauga",
         "verified_source": "https://makerkids.com/makerkids-mississauga/stem-camps-in-mississauga/",
-        "checked": "2026-11-06"
+        "checked": "2026-11-07"
       },
       "related_event_ids": [],
       "calendar_links": [
@@ -304802,7 +304803,7 @@
       "pairing": {
         "venue_id": "makerkids-mississauga",
         "verified_source": "https://makerkids.com/makerkids-mississauga/stem-camps-in-mississauga/",
-        "checked": "2026-11-06"
+        "checked": "2026-11-07"
       },
       "related_event_ids": [],
       "calendar_links": [
@@ -306486,7 +306487,7 @@
       "pairing": {
         "venue_id": "tecnokids-palermo",
         "verified_source": "https://tecnokids.com/colonia/",
-        "checked": "2026-11-06"
+        "checked": "2026-11-07"
       },
       "related_event_ids": [],
       "calendar_links": [
@@ -307231,7 +307232,7 @@
       "pairing": {
         "venue_id": "tecnokids-palermo",
         "verified_source": "https://tecnokids.com/colonia/",
-        "checked": "2026-11-06"
+        "checked": "2026-11-07"
       },
       "related_event_ids": [],
       "calendar_links": [
@@ -307858,7 +307859,7 @@
       "pairing": {
         "venue_id": "tecnokids-villa-urquiza",
         "verified_source": "https://tecnokids.com/colonia/",
-        "checked": "2026-11-06"
+        "checked": "2026-11-07"
       },
       "related_event_ids": [],
       "calendar_links": [
@@ -308469,7 +308470,7 @@
       "pairing": {
         "venue_id": "tecnokids-villa-urquiza",
         "verified_source": "https://tecnokids.com/colonia/",
-        "checked": "2026-11-06"
+        "checked": "2026-11-07"
       },
       "related_event_ids": [],
       "calendar_links": [
@@ -313529,6 +313530,2961 @@
         "L697"
       ],
       "calendar_links": []
+    },
+    {
+      "id": "CP1867",
+      "slug": "stema-vancouver-winter-junior-2026",
+      "provider": "STEMA Vancouver · Winter Junior",
+      "country": "Canadá",
+      "iso": "CAN",
+      "place": "STEMA Vancouver · 1025 Kingsway, Vancouver",
+      "age": "La tabla indica grupo menor 5–8 y mayor 8+. Los encabezados de las descripciones dan 5–7 y 8–12. Confirmar el límite de 8 años y la asignación de grupo.",
+      "programme": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.",
+      "confirmed_instruction_languages": [],
+      "timing": {
+        "status": "published_2026",
+        "label": "21–24 o 28–31 de diciembre de 2026. El paquete de ambas semanas incluye 8 días lectivos. Del 25 al 27 de diciembre no hay actividades en el paquete.",
+        "session_details": [
+          {
+            "variant_key": "week1-am",
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "Mañana · 09:00–12:00",
+            "price": "Precio actual 169 CAD, ordinario 200 CAD.",
+            "source": "https://vancouver.stemalearning.com/product/winter-camp/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-21T16:00:00Z",
+                "end_utc": "2026-12-21T19:00:00Z"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-22T16:00:00Z",
+                "end_utc": "2026-12-22T19:00:00Z"
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-23T16:00:00Z",
+                "end_utc": "2026-12-23T19:00:00Z"
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-24T16:00:00Z",
+                "end_utc": "2026-12-24T19:00:00Z"
+              }
+            ]
+          },
+          {
+            "variant_key": "week1-pm",
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "Tarde · 13:00–16:00",
+            "price": "Precio actual 169 CAD, ordinario 200 CAD.",
+            "source": "https://vancouver.stemalearning.com/product/winter-camp/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-21T20:00:00Z",
+                "end_utc": "2026-12-21T23:00:00Z"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-22T20:00:00Z",
+                "end_utc": "2026-12-22T23:00:00Z"
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-23T20:00:00Z",
+                "end_utc": "2026-12-23T23:00:00Z"
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-24T20:00:00Z",
+                "end_utc": "2026-12-24T23:00:00Z"
+              }
+            ]
+          },
+          {
+            "variant_key": "week1-full",
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "Jornada completa · 09:00–16:00",
+            "price": "Precio actual 329 CAD, ordinario 380 CAD.",
+            "source": "https://vancouver.stemalearning.com/product/winter-camp/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-21T16:00:00Z",
+                "end_utc": "2026-12-21T23:00:00Z"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-22T16:00:00Z",
+                "end_utc": "2026-12-22T23:00:00Z"
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-23T16:00:00Z",
+                "end_utc": "2026-12-23T23:00:00Z"
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-24T16:00:00Z",
+                "end_utc": "2026-12-24T23:00:00Z"
+              }
+            ]
+          },
+          {
+            "variant_key": "week1-care",
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "Jornada completa con extensión · 09:00–18:00",
+            "price": "Precio actual 380 CAD, ordinario 440 CAD.",
+            "source": "https://vancouver.stemalearning.com/product/winter-camp/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "18:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-21T16:00:00Z",
+                "end_utc": "2026-12-22T01:00:00Z"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "18:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-22T16:00:00Z",
+                "end_utc": "2026-12-23T01:00:00Z"
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "09:00",
+                "end_time": "18:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-23T16:00:00Z",
+                "end_utc": "2026-12-24T01:00:00Z"
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "09:00",
+                "end_time": "18:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-24T16:00:00Z",
+                "end_utc": "2026-12-25T01:00:00Z"
+              }
+            ]
+          },
+          {
+            "variant_key": "week2-am",
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "Mañana · 09:00–12:00",
+            "price": "Precio actual 169 CAD, ordinario 200 CAD.",
+            "source": "https://vancouver.stemalearning.com/product/winter-camp/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-28T16:00:00Z",
+                "end_utc": "2026-12-28T19:00:00Z"
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-29T16:00:00Z",
+                "end_utc": "2026-12-29T19:00:00Z"
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-30T16:00:00Z",
+                "end_utc": "2026-12-30T19:00:00Z"
+              },
+              {
+                "date": "2026-12-31",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-31T16:00:00Z",
+                "end_utc": "2026-12-31T19:00:00Z"
+              }
+            ]
+          },
+          {
+            "variant_key": "week2-pm",
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "Tarde · 13:00–16:00",
+            "price": "Precio actual 169 CAD, ordinario 200 CAD.",
+            "source": "https://vancouver.stemalearning.com/product/winter-camp/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-28T20:00:00Z",
+                "end_utc": "2026-12-28T23:00:00Z"
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-29T20:00:00Z",
+                "end_utc": "2026-12-29T23:00:00Z"
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-30T20:00:00Z",
+                "end_utc": "2026-12-30T23:00:00Z"
+              },
+              {
+                "date": "2026-12-31",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-31T20:00:00Z",
+                "end_utc": "2026-12-31T23:00:00Z"
+              }
+            ]
+          },
+          {
+            "variant_key": "week2-full",
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "Jornada completa · 09:00–16:00",
+            "price": "Precio actual 329 CAD, ordinario 380 CAD.",
+            "source": "https://vancouver.stemalearning.com/product/winter-camp/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-28T16:00:00Z",
+                "end_utc": "2026-12-28T23:00:00Z"
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-29T16:00:00Z",
+                "end_utc": "2026-12-29T23:00:00Z"
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-30T16:00:00Z",
+                "end_utc": "2026-12-30T23:00:00Z"
+              },
+              {
+                "date": "2026-12-31",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-31T16:00:00Z",
+                "end_utc": "2026-12-31T23:00:00Z"
+              }
+            ]
+          },
+          {
+            "variant_key": "week2-care",
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "Jornada completa con extensión · 09:00–18:00",
+            "price": "Precio actual 380 CAD, ordinario 440 CAD.",
+            "source": "https://vancouver.stemalearning.com/product/winter-camp/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "09:00",
+                "end_time": "18:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-28T16:00:00Z",
+                "end_utc": "2026-12-29T01:00:00Z"
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:00",
+                "end_time": "18:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-29T16:00:00Z",
+                "end_utc": "2026-12-30T01:00:00Z"
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "09:00",
+                "end_time": "18:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-30T16:00:00Z",
+                "end_utc": "2026-12-31T01:00:00Z"
+              },
+              {
+                "date": "2026-12-31",
+                "start_time": "09:00",
+                "end_time": "18:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-31T16:00:00Z",
+                "end_utc": "2027-01-01T01:00:00Z"
+              }
+            ]
+          },
+          {
+            "variant_key": "both-am",
+            "start": "2026-12-21",
+            "end": "2026-12-31",
+            "label": "Paquete de 8 días · Mañana · 09:00–12:00",
+            "price": "Precio actual 328 CAD por 8 días, ordinario 400 CAD.",
+            "source": "https://vancouver.stemalearning.com/product/winter-camp/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-21T16:00:00Z",
+                "end_utc": "2026-12-21T19:00:00Z"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-22T16:00:00Z",
+                "end_utc": "2026-12-22T19:00:00Z"
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-23T16:00:00Z",
+                "end_utc": "2026-12-23T19:00:00Z"
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-24T16:00:00Z",
+                "end_utc": "2026-12-24T19:00:00Z"
+              },
+              {
+                "date": "2026-12-28",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-28T16:00:00Z",
+                "end_utc": "2026-12-28T19:00:00Z"
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-29T16:00:00Z",
+                "end_utc": "2026-12-29T19:00:00Z"
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-30T16:00:00Z",
+                "end_utc": "2026-12-30T19:00:00Z"
+              },
+              {
+                "date": "2026-12-31",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-31T16:00:00Z",
+                "end_utc": "2026-12-31T19:00:00Z"
+              }
+            ]
+          },
+          {
+            "variant_key": "both-pm",
+            "start": "2026-12-21",
+            "end": "2026-12-31",
+            "label": "Paquete de 8 días · Tarde · 13:00–16:00",
+            "price": "Precio actual 328 CAD por 8 días, ordinario 400 CAD.",
+            "source": "https://vancouver.stemalearning.com/product/winter-camp/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-21T20:00:00Z",
+                "end_utc": "2026-12-21T23:00:00Z"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-22T20:00:00Z",
+                "end_utc": "2026-12-22T23:00:00Z"
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-23T20:00:00Z",
+                "end_utc": "2026-12-23T23:00:00Z"
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-24T20:00:00Z",
+                "end_utc": "2026-12-24T23:00:00Z"
+              },
+              {
+                "date": "2026-12-28",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-28T20:00:00Z",
+                "end_utc": "2026-12-28T23:00:00Z"
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-29T20:00:00Z",
+                "end_utc": "2026-12-29T23:00:00Z"
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-30T20:00:00Z",
+                "end_utc": "2026-12-30T23:00:00Z"
+              },
+              {
+                "date": "2026-12-31",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-31T20:00:00Z",
+                "end_utc": "2026-12-31T23:00:00Z"
+              }
+            ]
+          },
+          {
+            "variant_key": "both-full",
+            "start": "2026-12-21",
+            "end": "2026-12-31",
+            "label": "Paquete de 8 días · Jornada completa · 09:00–16:00",
+            "price": "Precio actual 639 CAD por 8 días, ordinario 720 CAD.",
+            "source": "https://vancouver.stemalearning.com/product/winter-camp/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-21T16:00:00Z",
+                "end_utc": "2026-12-21T23:00:00Z"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-22T16:00:00Z",
+                "end_utc": "2026-12-22T23:00:00Z"
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-23T16:00:00Z",
+                "end_utc": "2026-12-23T23:00:00Z"
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-24T16:00:00Z",
+                "end_utc": "2026-12-24T23:00:00Z"
+              },
+              {
+                "date": "2026-12-28",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-28T16:00:00Z",
+                "end_utc": "2026-12-28T23:00:00Z"
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-29T16:00:00Z",
+                "end_utc": "2026-12-29T23:00:00Z"
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-30T16:00:00Z",
+                "end_utc": "2026-12-30T23:00:00Z"
+              },
+              {
+                "date": "2026-12-31",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-31T16:00:00Z",
+                "end_utc": "2026-12-31T23:00:00Z"
+              }
+            ]
+          },
+          {
+            "variant_key": "both-care",
+            "start": "2026-12-21",
+            "end": "2026-12-31",
+            "label": "Paquete de 8 días · Jornada completa con extensión · 09:00–18:00",
+            "price": "Precio actual 740 CAD por 8 días, ordinario 800 CAD.",
+            "source": "https://vancouver.stemalearning.com/product/winter-camp/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "18:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-21T16:00:00Z",
+                "end_utc": "2026-12-22T01:00:00Z"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "18:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-22T16:00:00Z",
+                "end_utc": "2026-12-23T01:00:00Z"
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "09:00",
+                "end_time": "18:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-23T16:00:00Z",
+                "end_utc": "2026-12-24T01:00:00Z"
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "09:00",
+                "end_time": "18:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-24T16:00:00Z",
+                "end_utc": "2026-12-25T01:00:00Z"
+              },
+              {
+                "date": "2026-12-28",
+                "start_time": "09:00",
+                "end_time": "18:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-28T16:00:00Z",
+                "end_utc": "2026-12-29T01:00:00Z"
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:00",
+                "end_time": "18:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-29T16:00:00Z",
+                "end_utc": "2026-12-30T01:00:00Z"
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "09:00",
+                "end_time": "18:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-30T16:00:00Z",
+                "end_utc": "2026-12-31T01:00:00Z"
+              },
+              {
+                "date": "2026-12-31",
+                "start_time": "09:00",
+                "end_time": "18:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-31T16:00:00Z",
+                "end_utc": "2027-01-01T01:00:00Z"
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-31"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-31"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-31"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-31"
+          ]
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CAD",
+        "amount": null,
+        "unit": "variant",
+        "label": "Por semana, 169 CAD media jornada, 329 CAD jornada completa y 380 CAD con extensión. Por 8 días, 328, 639 o 740 CAD según modalidad. Jornada suelta 90 CAD, confirmar fecha elegida.",
+        "included": "Equipo y actividades. La jornada completa incluye dos bloques lectivos.",
+        "extras": "Llevar almuerzo para jornada completa, y refrigerio sin frutos secos y agua para media jornada. Confirmar impuestos y dos plazas al inscribirse.",
+        "deposit": "Pago íntegro al inscribirse. Al cancelar desde 3 semanas se retienen 20 CAD, entre 2–3 semanas 50 CAD, dentro de 14 días y después del inicio no hay reembolso. Confirmar límite de 3 semanas."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "No para el grupo menor. Hay un grupo mayor en la misma sede."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad."
+        }
+      },
+      "editorial_reason": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "shortlist": [],
+      "questions": [
+        "Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad."
+      ],
+      "sources": [
+        {
+          "url": "https://vancouver.stemalearning.com/product/winter-camp/",
+          "title": "Página o reglamento oficial de la organización.",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://vancouver.stemalearning.com/terms-policies-waiver/",
+          "title": "Página o reglamento oficial de la organización.",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://stemalearning.com/faq/",
+          "title": "Página o reglamento oficial de la organización.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "games",
+        "design"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "pairing": {
+        "venue_id": "stema-vancouver-kingsway",
+        "verified_source": "https://vancouver.stemalearning.com/product/winter-camp/",
+        "checked": "2026-11-07"
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1867-20261221-20261224-week1-am"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1867-20261221-20261224-week1-pm"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1867-20261221-20261224-week1-full"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1867-20261221-20261224-week1-care"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1867-20261228-20261231-week2-am"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1867-20261228-20261231-week2-pm"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1867-20261228-20261231-week2-full"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1867-20261228-20261231-week2-care"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1867-20261221-20261231-both-am"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1867-20261221-20261231-both-pm"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1867-20261221-20261231-both-full"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1867-20261221-20261231-both-care"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1868",
+      "slug": "stema-vancouver-winter-explorer-2026",
+      "provider": "STEMA Vancouver · Winter Explorer",
+      "country": "Canadá",
+      "iso": "CAN",
+      "place": "STEMA Vancouver · 1025 Kingsway, Vancouver",
+      "age": "La tabla indica grupo menor 5–8 y mayor 8+. Los encabezados de las descripciones dan 5–7 y 8–12. Confirmar el límite de 8 años y la asignación de grupo.",
+      "programme": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.",
+      "confirmed_instruction_languages": [],
+      "timing": {
+        "status": "published_2026",
+        "label": "21–24 o 28–31 de diciembre de 2026. El paquete de ambas semanas incluye 8 días lectivos. Del 25 al 27 de diciembre no hay actividades en el paquete.",
+        "session_details": [
+          {
+            "variant_key": "week1-am",
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "Mañana · 09:00–12:00",
+            "price": "Precio actual 169 CAD, ordinario 200 CAD.",
+            "source": "https://vancouver.stemalearning.com/product/winter-camp/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-21T16:00:00Z",
+                "end_utc": "2026-12-21T19:00:00Z"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-22T16:00:00Z",
+                "end_utc": "2026-12-22T19:00:00Z"
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-23T16:00:00Z",
+                "end_utc": "2026-12-23T19:00:00Z"
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-24T16:00:00Z",
+                "end_utc": "2026-12-24T19:00:00Z"
+              }
+            ]
+          },
+          {
+            "variant_key": "week1-pm",
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "Tarde · 13:00–16:00",
+            "price": "Precio actual 169 CAD, ordinario 200 CAD.",
+            "source": "https://vancouver.stemalearning.com/product/winter-camp/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-21T20:00:00Z",
+                "end_utc": "2026-12-21T23:00:00Z"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-22T20:00:00Z",
+                "end_utc": "2026-12-22T23:00:00Z"
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-23T20:00:00Z",
+                "end_utc": "2026-12-23T23:00:00Z"
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-24T20:00:00Z",
+                "end_utc": "2026-12-24T23:00:00Z"
+              }
+            ]
+          },
+          {
+            "variant_key": "week1-full",
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "Jornada completa · 09:00–16:00",
+            "price": "Precio actual 329 CAD, ordinario 380 CAD.",
+            "source": "https://vancouver.stemalearning.com/product/winter-camp/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-21T16:00:00Z",
+                "end_utc": "2026-12-21T23:00:00Z"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-22T16:00:00Z",
+                "end_utc": "2026-12-22T23:00:00Z"
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-23T16:00:00Z",
+                "end_utc": "2026-12-23T23:00:00Z"
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-24T16:00:00Z",
+                "end_utc": "2026-12-24T23:00:00Z"
+              }
+            ]
+          },
+          {
+            "variant_key": "week1-care",
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "Jornada completa con extensión · 09:00–18:00",
+            "price": "Precio actual 380 CAD, ordinario 440 CAD.",
+            "source": "https://vancouver.stemalearning.com/product/winter-camp/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "18:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-21T16:00:00Z",
+                "end_utc": "2026-12-22T01:00:00Z"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "18:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-22T16:00:00Z",
+                "end_utc": "2026-12-23T01:00:00Z"
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "09:00",
+                "end_time": "18:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-23T16:00:00Z",
+                "end_utc": "2026-12-24T01:00:00Z"
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "09:00",
+                "end_time": "18:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-24T16:00:00Z",
+                "end_utc": "2026-12-25T01:00:00Z"
+              }
+            ]
+          },
+          {
+            "variant_key": "week2-am",
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "Mañana · 09:00–12:00",
+            "price": "Precio actual 169 CAD, ordinario 200 CAD.",
+            "source": "https://vancouver.stemalearning.com/product/winter-camp/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-28T16:00:00Z",
+                "end_utc": "2026-12-28T19:00:00Z"
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-29T16:00:00Z",
+                "end_utc": "2026-12-29T19:00:00Z"
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-30T16:00:00Z",
+                "end_utc": "2026-12-30T19:00:00Z"
+              },
+              {
+                "date": "2026-12-31",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-31T16:00:00Z",
+                "end_utc": "2026-12-31T19:00:00Z"
+              }
+            ]
+          },
+          {
+            "variant_key": "week2-pm",
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "Tarde · 13:00–16:00",
+            "price": "Precio actual 169 CAD, ordinario 200 CAD.",
+            "source": "https://vancouver.stemalearning.com/product/winter-camp/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-28T20:00:00Z",
+                "end_utc": "2026-12-28T23:00:00Z"
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-29T20:00:00Z",
+                "end_utc": "2026-12-29T23:00:00Z"
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-30T20:00:00Z",
+                "end_utc": "2026-12-30T23:00:00Z"
+              },
+              {
+                "date": "2026-12-31",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-31T20:00:00Z",
+                "end_utc": "2026-12-31T23:00:00Z"
+              }
+            ]
+          },
+          {
+            "variant_key": "week2-full",
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "Jornada completa · 09:00–16:00",
+            "price": "Precio actual 329 CAD, ordinario 380 CAD.",
+            "source": "https://vancouver.stemalearning.com/product/winter-camp/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-28T16:00:00Z",
+                "end_utc": "2026-12-28T23:00:00Z"
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-29T16:00:00Z",
+                "end_utc": "2026-12-29T23:00:00Z"
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-30T16:00:00Z",
+                "end_utc": "2026-12-30T23:00:00Z"
+              },
+              {
+                "date": "2026-12-31",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-31T16:00:00Z",
+                "end_utc": "2026-12-31T23:00:00Z"
+              }
+            ]
+          },
+          {
+            "variant_key": "week2-care",
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "Jornada completa con extensión · 09:00–18:00",
+            "price": "Precio actual 380 CAD, ordinario 440 CAD.",
+            "source": "https://vancouver.stemalearning.com/product/winter-camp/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "09:00",
+                "end_time": "18:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-28T16:00:00Z",
+                "end_utc": "2026-12-29T01:00:00Z"
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:00",
+                "end_time": "18:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-29T16:00:00Z",
+                "end_utc": "2026-12-30T01:00:00Z"
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "09:00",
+                "end_time": "18:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-30T16:00:00Z",
+                "end_utc": "2026-12-31T01:00:00Z"
+              },
+              {
+                "date": "2026-12-31",
+                "start_time": "09:00",
+                "end_time": "18:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-31T16:00:00Z",
+                "end_utc": "2027-01-01T01:00:00Z"
+              }
+            ]
+          },
+          {
+            "variant_key": "both-am",
+            "start": "2026-12-21",
+            "end": "2026-12-31",
+            "label": "Paquete de 8 días · Mañana · 09:00–12:00",
+            "price": "Precio actual 328 CAD por 8 días, ordinario 400 CAD.",
+            "source": "https://vancouver.stemalearning.com/product/winter-camp/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-21T16:00:00Z",
+                "end_utc": "2026-12-21T19:00:00Z"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-22T16:00:00Z",
+                "end_utc": "2026-12-22T19:00:00Z"
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-23T16:00:00Z",
+                "end_utc": "2026-12-23T19:00:00Z"
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-24T16:00:00Z",
+                "end_utc": "2026-12-24T19:00:00Z"
+              },
+              {
+                "date": "2026-12-28",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-28T16:00:00Z",
+                "end_utc": "2026-12-28T19:00:00Z"
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-29T16:00:00Z",
+                "end_utc": "2026-12-29T19:00:00Z"
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-30T16:00:00Z",
+                "end_utc": "2026-12-30T19:00:00Z"
+              },
+              {
+                "date": "2026-12-31",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-31T16:00:00Z",
+                "end_utc": "2026-12-31T19:00:00Z"
+              }
+            ]
+          },
+          {
+            "variant_key": "both-pm",
+            "start": "2026-12-21",
+            "end": "2026-12-31",
+            "label": "Paquete de 8 días · Tarde · 13:00–16:00",
+            "price": "Precio actual 328 CAD por 8 días, ordinario 400 CAD.",
+            "source": "https://vancouver.stemalearning.com/product/winter-camp/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-21T20:00:00Z",
+                "end_utc": "2026-12-21T23:00:00Z"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-22T20:00:00Z",
+                "end_utc": "2026-12-22T23:00:00Z"
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-23T20:00:00Z",
+                "end_utc": "2026-12-23T23:00:00Z"
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-24T20:00:00Z",
+                "end_utc": "2026-12-24T23:00:00Z"
+              },
+              {
+                "date": "2026-12-28",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-28T20:00:00Z",
+                "end_utc": "2026-12-28T23:00:00Z"
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-29T20:00:00Z",
+                "end_utc": "2026-12-29T23:00:00Z"
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-30T20:00:00Z",
+                "end_utc": "2026-12-30T23:00:00Z"
+              },
+              {
+                "date": "2026-12-31",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-31T20:00:00Z",
+                "end_utc": "2026-12-31T23:00:00Z"
+              }
+            ]
+          },
+          {
+            "variant_key": "both-full",
+            "start": "2026-12-21",
+            "end": "2026-12-31",
+            "label": "Paquete de 8 días · Jornada completa · 09:00–16:00",
+            "price": "Precio actual 639 CAD por 8 días, ordinario 720 CAD.",
+            "source": "https://vancouver.stemalearning.com/product/winter-camp/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-21T16:00:00Z",
+                "end_utc": "2026-12-21T23:00:00Z"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-22T16:00:00Z",
+                "end_utc": "2026-12-22T23:00:00Z"
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-23T16:00:00Z",
+                "end_utc": "2026-12-23T23:00:00Z"
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-24T16:00:00Z",
+                "end_utc": "2026-12-24T23:00:00Z"
+              },
+              {
+                "date": "2026-12-28",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-28T16:00:00Z",
+                "end_utc": "2026-12-28T23:00:00Z"
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-29T16:00:00Z",
+                "end_utc": "2026-12-29T23:00:00Z"
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-30T16:00:00Z",
+                "end_utc": "2026-12-30T23:00:00Z"
+              },
+              {
+                "date": "2026-12-31",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-31T16:00:00Z",
+                "end_utc": "2026-12-31T23:00:00Z"
+              }
+            ]
+          },
+          {
+            "variant_key": "both-care",
+            "start": "2026-12-21",
+            "end": "2026-12-31",
+            "label": "Paquete de 8 días · Jornada completa con extensión · 09:00–18:00",
+            "price": "Precio actual 740 CAD por 8 días, ordinario 800 CAD.",
+            "source": "https://vancouver.stemalearning.com/product/winter-camp/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "18:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-21T16:00:00Z",
+                "end_utc": "2026-12-22T01:00:00Z"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "18:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-22T16:00:00Z",
+                "end_utc": "2026-12-23T01:00:00Z"
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "09:00",
+                "end_time": "18:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-23T16:00:00Z",
+                "end_utc": "2026-12-24T01:00:00Z"
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "09:00",
+                "end_time": "18:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-24T16:00:00Z",
+                "end_utc": "2026-12-25T01:00:00Z"
+              },
+              {
+                "date": "2026-12-28",
+                "start_time": "09:00",
+                "end_time": "18:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-28T16:00:00Z",
+                "end_utc": "2026-12-29T01:00:00Z"
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:00",
+                "end_time": "18:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-29T16:00:00Z",
+                "end_utc": "2026-12-30T01:00:00Z"
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "09:00",
+                "end_time": "18:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-30T16:00:00Z",
+                "end_utc": "2026-12-31T01:00:00Z"
+              },
+              {
+                "date": "2026-12-31",
+                "start_time": "09:00",
+                "end_time": "18:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true,
+                "topic": "Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.",
+                "start_utc": "2026-12-31T16:00:00Z",
+                "end_utc": "2027-01-01T01:00:00Z"
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-31"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-31"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-31"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-31"
+          ]
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CAD",
+        "amount": null,
+        "unit": "variant",
+        "label": "Por semana, 169 CAD media jornada, 329 CAD jornada completa y 380 CAD con extensión. Por 8 días, 328, 639 o 740 CAD según modalidad. Jornada suelta 90 CAD, confirmar fecha elegida.",
+        "included": "Equipo y actividades. La jornada completa incluye dos bloques lectivos.",
+        "extras": "Llevar almuerzo para jornada completa, y refrigerio sin frutos secos y agua para media jornada. Confirmar impuestos y dos plazas al inscribirse.",
+        "deposit": "Pago íntegro al inscribirse. Al cancelar desde 3 semanas se retienen 20 CAD, entre 2–3 semanas 50 CAD, dentro de 14 días y después del inicio no hay reembolso. Confirmar límite de 3 semanas."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "No para el grupo mayor. Hay un grupo menor en la misma sede."
+        }
+      },
+      "editorial_reason": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "shortlist": [],
+      "questions": [
+        "Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad."
+      ],
+      "sources": [
+        {
+          "url": "https://vancouver.stemalearning.com/product/winter-camp/",
+          "title": "Página o reglamento oficial de la organización.",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://vancouver.stemalearning.com/terms-policies-waiver/",
+          "title": "Página o reglamento oficial de la organización.",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://stemalearning.com/faq/",
+          "title": "Página o reglamento oficial de la organización.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "games",
+        "design"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "pairing": {
+        "venue_id": "stema-vancouver-kingsway",
+        "verified_source": "https://vancouver.stemalearning.com/product/winter-camp/",
+        "checked": "2026-11-07"
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1868-20261221-20261224-week1-am"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1868-20261221-20261224-week1-pm"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1868-20261221-20261224-week1-full"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1868-20261221-20261224-week1-care"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1868-20261228-20261231-week2-am"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1868-20261228-20261231-week2-pm"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1868-20261228-20261231-week2-full"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1868-20261228-20261231-week2-care"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1868-20261221-20261231-both-am"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1868-20261221-20261231-both-pm"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1868-20261221-20261231-both-full"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1868-20261221-20261231-both-care"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1869",
+      "slug": "stemstein-mississauga-techverse-2026",
+      "provider": "STEMstein Mississauga · TechVerse Week",
+      "country": "Canadá",
+      "iso": "CAN",
+      "place": "3401 Ridgeway Drive · Units 209–211 · Mississauga",
+      "age": "5–15 años.",
+      "programme": "TechVerse: retos de ingeniería y tecnología. La página general anuncia robots y AR/VR. Confirmar el contenido del turno concreto.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.",
+      "confirmed_instruction_languages": [],
+      "timing": {
+        "status": "published_2026",
+        "label": "El calendario de reservas da dos intervalos locales de 4 días. El horario del campamento es 09:00–15:30. El límite final de cada intervalo corresponde al día siguiente.",
+        "session_details": [
+          {
+            "variant_key": "four-days",
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "TechVerse Week",
+            "price": "399 CAD por 4 días. La página muestra una tarifa EarlyBird de 349 CAD. Confirmar condiciones y plazo del descuento.",
+            "source": "https://www.stemstein.com/booking-calendar/winter-break-camp-techverse-week",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true,
+                "topic": "TechVerse: retos de ingeniería y tecnología. La página general anuncia robots y AR/VR. Confirmar el contenido del turno concreto.",
+                "start_utc": "2026-12-21T14:00:00Z",
+                "end_utc": "2026-12-21T20:30:00Z"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true,
+                "topic": "TechVerse: retos de ingeniería y tecnología. La página general anuncia robots y AR/VR. Confirmar el contenido del turno concreto.",
+                "start_utc": "2026-12-22T14:00:00Z",
+                "end_utc": "2026-12-22T20:30:00Z"
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true,
+                "topic": "TechVerse: retos de ingeniería y tecnología. La página general anuncia robots y AR/VR. Confirmar el contenido del turno concreto.",
+                "start_utc": "2026-12-23T14:00:00Z",
+                "end_utc": "2026-12-23T20:30:00Z"
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true,
+                "topic": "TechVerse: retos de ingeniería y tecnología. La página general anuncia robots y AR/VR. Confirmar el contenido del turno concreto.",
+                "start_utc": "2026-12-24T14:00:00Z",
+                "end_utc": "2026-12-24T20:30:00Z"
+              }
+            ],
+            "date_status": "regla publicada · fechas calculadas",
+            "date_precision": "published_rule",
+            "date_rule": "El calendario de reservas da dos intervalos locales de 4 días. El horario del campamento es 09:00–15:30. El límite final de cada intervalo corresponde al día siguiente."
+          }
+        ],
+        "variant_keyed": true,
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ]
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CAD",
+        "amount": 399,
+        "unit": "session",
+        "label": "399 CAD por 4 días. La página muestra una tarifa EarlyBird de 349 CAD. Confirmar condiciones y plazo del descuento.",
+        "included": "Materiales de las actividades incluidos.",
+        "extras": "Se anuncia descuento para hermanos sin importe. Confirmar impuestos, comidas e importe final.",
+        "deposit": "La tarifa exacta de la convocatoria elegida no está confirmada."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad."
+        }
+      },
+      "editorial_reason": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "shortlist": [],
+      "questions": [
+        "Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad."
+      ],
+      "sources": [
+        {
+          "url": "https://www.stemstein.com/winter-camp",
+          "title": "Página o reglamento oficial de la organización.",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.stemstein.com/service-page/winter-break-camp-techverse-week",
+          "title": "Página o reglamento oficial de la organización.",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.stemstein.com/booking-calendar/winter-break-camp-techverse-week",
+          "title": "Página o reglamento oficial de la organización.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "science",
+        "engineering",
+        "technology",
+        "robotics"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1869-20261221-20261224-four-days"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1870",
+      "slug": "stemstein-mississauga-winter-wonders-2026",
+      "provider": "STEMstein Mississauga · Winter Wonders Week",
+      "country": "Canadá",
+      "iso": "CAN",
+      "place": "3401 Ridgeway Drive · Units 209–211 · Mississauga",
+      "age": "5–15 años.",
+      "programme": "Winter Wonders: experimentos científicos, matemáticas y retos creativos.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.",
+      "confirmed_instruction_languages": [],
+      "timing": {
+        "status": "published_2026",
+        "label": "El calendario de reservas da dos intervalos locales de 4 días. El horario del campamento es 09:00–15:30. El límite final de cada intervalo corresponde al día siguiente.",
+        "session_details": [
+          {
+            "variant_key": "four-days",
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "Winter Wonders Week",
+            "price": "399 CAD por 4 días. La página muestra una tarifa EarlyBird de 349 CAD. Confirmar condiciones y plazo del descuento.",
+            "source": "https://www.stemstein.com/booking-calendar/winter-break-camp-winter-wonders-week",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true,
+                "topic": "Winter Wonders: experimentos científicos, matemáticas y retos creativos.",
+                "start_utc": "2026-12-28T14:00:00Z",
+                "end_utc": "2026-12-28T20:30:00Z"
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true,
+                "topic": "Winter Wonders: experimentos científicos, matemáticas y retos creativos.",
+                "start_utc": "2026-12-29T14:00:00Z",
+                "end_utc": "2026-12-29T20:30:00Z"
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true,
+                "topic": "Winter Wonders: experimentos científicos, matemáticas y retos creativos.",
+                "start_utc": "2026-12-30T14:00:00Z",
+                "end_utc": "2026-12-30T20:30:00Z"
+              },
+              {
+                "date": "2026-12-31",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true,
+                "topic": "Winter Wonders: experimentos científicos, matemáticas y retos creativos.",
+                "start_utc": "2026-12-31T14:00:00Z",
+                "end_utc": "2026-12-31T20:30:00Z"
+              }
+            ],
+            "date_status": "regla publicada · fechas calculadas",
+            "date_precision": "published_rule",
+            "date_rule": "El calendario de reservas da dos intervalos locales de 4 días. El horario del campamento es 09:00–15:30. El límite final de cada intervalo corresponde al día siguiente."
+          }
+        ],
+        "variant_keyed": true,
+        "sessions": [
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ]
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CAD",
+        "amount": 399,
+        "unit": "session",
+        "label": "399 CAD por 4 días. La página muestra una tarifa EarlyBird de 349 CAD. Confirmar condiciones y plazo del descuento.",
+        "included": "Materiales de las actividades incluidos.",
+        "extras": "Se anuncia descuento para hermanos sin importe. Confirmar impuestos, comidas e importe final.",
+        "deposit": "La tarifa exacta de la convocatoria elegida no está confirmada."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad."
+        }
+      },
+      "editorial_reason": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "shortlist": [],
+      "questions": [
+        "Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad."
+      ],
+      "sources": [
+        {
+          "url": "https://www.stemstein.com/winter-camp",
+          "title": "Página o reglamento oficial de la organización.",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.stemstein.com/service-page/winter-break-camp-winter-wonders-week",
+          "title": "Página o reglamento oficial de la organización.",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.stemstein.com/booking-calendar/winter-break-camp-winter-wonders-week",
+          "title": "Página o reglamento oficial de la organización.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "science",
+        "engineering",
+        "technology",
+        "art",
+        "maths"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1870-20261228-20261231-four-days"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1871",
+      "slug": "dash-sports-oakville-stem-winter-2026",
+      "provider": "Dash Sports · STEM and Sports Fusion",
+      "country": "Canadá",
+      "iso": "CAN",
+      "place": "Forestview · 3175 Dundas Street West, Oakville",
+      "age": "5–12 años.",
+      "programme": "Modelos de ingeniería y juegos activos. Confirmar reparto entre tiempo técnico y deportivo.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.",
+      "confirmed_instruction_languages": [],
+      "timing": {
+        "status": "published_2026",
+        "label": "21–23 de diciembre de 2026, Oakville. Hay jornada completa, bloque de mañana, bloque de tarde y días sueltos a consultar.",
+        "session_details": [
+          {
+            "variant_key": "full",
+            "start": "2026-12-21",
+            "end": "2026-12-23",
+            "label": "09:00–17:00 · tres días",
+            "price": "Con HST, 258.77 CAD por menor o 465.79 CAD por dos con descuento.",
+            "source": "https://dashsports.ca/product/winter-camp-2026/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true,
+                "topic": "Modelos de ingeniería y juegos activos. Confirmar reparto entre tiempo técnico y deportivo.",
+                "start_utc": "2026-12-21T14:00:00Z",
+                "end_utc": "2026-12-21T22:00:00Z"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true,
+                "topic": "Modelos de ingeniería y juegos activos. Confirmar reparto entre tiempo técnico y deportivo.",
+                "start_utc": "2026-12-22T14:00:00Z",
+                "end_utc": "2026-12-22T22:00:00Z"
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true,
+                "topic": "Modelos de ingeniería y juegos activos. Confirmar reparto entre tiempo técnico y deportivo.",
+                "start_utc": "2026-12-23T14:00:00Z",
+                "end_utc": "2026-12-23T22:00:00Z"
+              }
+            ]
+          },
+          {
+            "variant_key": "am",
+            "start": "2026-12-21",
+            "end": "2026-12-23",
+            "label": "09:00–13:00 · tres días",
+            "price": "Con HST, 157.07 CAD por menor o 282.73 CAD por dos con descuento.",
+            "source": "https://dashsports.ca/product/winter-camp-2026/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true,
+                "topic": "Modelos de ingeniería y juegos activos. Confirmar reparto entre tiempo técnico y deportivo.",
+                "start_utc": "2026-12-21T14:00:00Z",
+                "end_utc": "2026-12-21T18:00:00Z"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true,
+                "topic": "Modelos de ingeniería y juegos activos. Confirmar reparto entre tiempo técnico y deportivo.",
+                "start_utc": "2026-12-22T14:00:00Z",
+                "end_utc": "2026-12-22T18:00:00Z"
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true,
+                "topic": "Modelos de ingeniería y juegos activos. Confirmar reparto entre tiempo técnico y deportivo.",
+                "start_utc": "2026-12-23T14:00:00Z",
+                "end_utc": "2026-12-23T18:00:00Z"
+              }
+            ]
+          },
+          {
+            "variant_key": "pm",
+            "start": "2026-12-21",
+            "end": "2026-12-23",
+            "label": "13:00–17:00 · tres días",
+            "price": "Con HST, 157.07 CAD por menor o 282.73 CAD por dos con descuento.",
+            "source": "https://dashsports.ca/product/winter-camp-2026/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "13:00",
+                "end_time": "17:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true,
+                "topic": "Modelos de ingeniería y juegos activos. Confirmar reparto entre tiempo técnico y deportivo.",
+                "start_utc": "2026-12-21T18:00:00Z",
+                "end_utc": "2026-12-21T22:00:00Z"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "13:00",
+                "end_time": "17:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true,
+                "topic": "Modelos de ingeniería y juegos activos. Confirmar reparto entre tiempo técnico y deportivo.",
+                "start_utc": "2026-12-22T18:00:00Z",
+                "end_utc": "2026-12-22T22:00:00Z"
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "13:00",
+                "end_time": "17:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true,
+                "topic": "Modelos de ingeniería y juegos activos. Confirmar reparto entre tiempo técnico y deportivo.",
+                "start_utc": "2026-12-23T18:00:00Z",
+                "end_utc": "2026-12-23T22:00:00Z"
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-23"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-23"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-23"
+          ]
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CAD",
+        "amount": null,
+        "unit": "variant",
+        "label": "Por 3 días, 229 CAD jornada completa o 139 CAD media jornada antes de HST. Día suelto 79 CAD o media jornada 49 CAD antes de HST. La organización confirma el importe de días sueltos.",
+        "included": "Modelos de ingeniería y juegos activos. Confirmar reparto entre tiempo técnico y deportivo.",
+        "extras": "La tarifa exacta de la convocatoria elegida no está confirmada.",
+        "deposit": "El formulario publica importes con HST y descuento para dos. Confirmar comidas, reembolso y dos plazas."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad."
+        }
+      },
+      "editorial_reason": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "shortlist": [],
+      "questions": [
+        "Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad."
+      ],
+      "sources": [
+        {
+          "url": "https://dashsports.ca/product/winter-camp-2026/",
+          "title": "Página o reglamento oficial de la organización.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "engineering",
+        "sport",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-23",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1871-20261221-20261223-full"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-23",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1871-20261221-20261223-am"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-23",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1871-20261221-20261223-pm"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1872",
+      "slug": "wonderswork-singapore-all-stars-nov-dec-2026",
+      "provider": "WondersWork · Infinite Aura All Stars",
+      "country": "Singapur",
+      "iso": "SGP",
+      "place": "Furama Riverfront Hotel · #01-05 · 405 Havelock Road",
+      "age": "5–14 años, actividades por nivel. Confirmar grupo para cada menor.",
+      "programme": "Construcción y programación de robots LEGO con retos inspirados en Pokémon y Minecraft. Premios internos al final del campamento.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.",
+      "confirmed_instruction_languages": [],
+      "timing": {
+        "status": "published_2026",
+        "label": "Cuatro turnos de tres días del 23 de noviembre al 23 de diciembre de 2026, 10:00–15:00. La inscripción cierra 1 semana antes, según disponibilidad.",
+        "session_details": [
+          {
+            "variant_key": "camp1",
+            "start": "2026-11-23",
+            "end": "2026-11-25",
+            "label": "Turno 1 · 10:00–15:00",
+            "price": "598 SGD por turno y menor. La organización indica que no se cobra GST ni matrícula separada.",
+            "source": "https://www.wonderswork.com.sg/school-holiday-camp/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-23",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Construcción y programación de robots LEGO con retos inspirados en Pokémon y Minecraft. Premios internos al final del campamento.",
+                "start_utc": "2026-11-23T02:00:00Z",
+                "end_utc": "2026-11-23T07:00:00Z"
+              },
+              {
+                "date": "2026-11-24",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Construcción y programación de robots LEGO con retos inspirados en Pokémon y Minecraft. Premios internos al final del campamento.",
+                "start_utc": "2026-11-24T02:00:00Z",
+                "end_utc": "2026-11-24T07:00:00Z"
+              },
+              {
+                "date": "2026-11-25",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Construcción y programación de robots LEGO con retos inspirados en Pokémon y Minecraft. Premios internos al final del campamento.",
+                "start_utc": "2026-11-25T02:00:00Z",
+                "end_utc": "2026-11-25T07:00:00Z"
+              }
+            ]
+          },
+          {
+            "variant_key": "camp2",
+            "start": "2026-12-07",
+            "end": "2026-12-09",
+            "label": "Turno 2 · 10:00–15:00",
+            "price": "598 SGD por turno y menor. La organización indica que no se cobra GST ni matrícula separada.",
+            "source": "https://www.wonderswork.com.sg/school-holiday-camp/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-07",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Construcción y programación de robots LEGO con retos inspirados en Pokémon y Minecraft. Premios internos al final del campamento.",
+                "start_utc": "2026-12-07T02:00:00Z",
+                "end_utc": "2026-12-07T07:00:00Z"
+              },
+              {
+                "date": "2026-12-08",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Construcción y programación de robots LEGO con retos inspirados en Pokémon y Minecraft. Premios internos al final del campamento.",
+                "start_utc": "2026-12-08T02:00:00Z",
+                "end_utc": "2026-12-08T07:00:00Z"
+              },
+              {
+                "date": "2026-12-09",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Construcción y programación de robots LEGO con retos inspirados en Pokémon y Minecraft. Premios internos al final del campamento.",
+                "start_utc": "2026-12-09T02:00:00Z",
+                "end_utc": "2026-12-09T07:00:00Z"
+              }
+            ]
+          },
+          {
+            "variant_key": "camp3",
+            "start": "2026-12-14",
+            "end": "2026-12-16",
+            "label": "Turno 3 · 10:00–15:00",
+            "price": "598 SGD por turno y menor. La organización indica que no se cobra GST ni matrícula separada.",
+            "source": "https://www.wonderswork.com.sg/school-holiday-camp/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Construcción y programación de robots LEGO con retos inspirados en Pokémon y Minecraft. Premios internos al final del campamento.",
+                "start_utc": "2026-12-14T02:00:00Z",
+                "end_utc": "2026-12-14T07:00:00Z"
+              },
+              {
+                "date": "2026-12-15",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Construcción y programación de robots LEGO con retos inspirados en Pokémon y Minecraft. Premios internos al final del campamento.",
+                "start_utc": "2026-12-15T02:00:00Z",
+                "end_utc": "2026-12-15T07:00:00Z"
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Construcción y programación de robots LEGO con retos inspirados en Pokémon y Minecraft. Premios internos al final del campamento.",
+                "start_utc": "2026-12-16T02:00:00Z",
+                "end_utc": "2026-12-16T07:00:00Z"
+              }
+            ]
+          },
+          {
+            "variant_key": "camp4",
+            "start": "2026-12-21",
+            "end": "2026-12-23",
+            "label": "Turno 4 · 10:00–15:00",
+            "price": "598 SGD por turno y menor. La organización indica que no se cobra GST ni matrícula separada.",
+            "source": "https://www.wonderswork.com.sg/school-holiday-camp/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Construcción y programación de robots LEGO con retos inspirados en Pokémon y Minecraft. Premios internos al final del campamento.",
+                "start_utc": "2026-12-21T02:00:00Z",
+                "end_utc": "2026-12-21T07:00:00Z"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Construcción y programación de robots LEGO con retos inspirados en Pokémon y Minecraft. Premios internos al final del campamento.",
+                "start_utc": "2026-12-22T02:00:00Z",
+                "end_utc": "2026-12-22T07:00:00Z"
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Construcción y programación de robots LEGO con retos inspirados en Pokémon y Minecraft. Premios internos al final del campamento.",
+                "start_utc": "2026-12-23T02:00:00Z",
+                "end_utc": "2026-12-23T07:00:00Z"
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "sessions": [
+          [
+            "2026-11-23",
+            "2026-11-25"
+          ],
+          [
+            "2026-12-07",
+            "2026-12-09"
+          ],
+          [
+            "2026-12-14",
+            "2026-12-16"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-23"
+          ]
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "SGD",
+        "amount": 598,
+        "unit": "session",
+        "label": "598 SGD por turno y menor. La organización indica que no se cobra GST ni matrícula separada.",
+        "included": "Almuerzo, bebida, materiales, kit durante las actividades y certificado. El robot queda con la organización.",
+        "extras": "Traslado por solicitud separada, sin tarifa publicada.",
+        "deposit": "Confirmación tras pago íntegro y formulario. Turno sujeto a un mínimo de 3 participantes. Si no se alcanza, se anuncia devolución o traslado. Cancelaciones ordinarias bajo reglas aparte."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad."
+        }
+      },
+      "editorial_reason": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "shortlist": [],
+      "questions": [
+        "Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad."
+      ],
+      "sources": [
+        {
+          "url": "https://www.wonderswork.com.sg/school-holiday-camp/",
+          "title": "Página o reglamento oficial de la organización.",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.wonderswork.com.sg/faqs/",
+          "title": "Página o reglamento oficial de la organización.",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.wonderswork.com.sg/register/",
+          "title": "Página o reglamento oficial de la organización.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-23",
+          "end": "2026-11-25",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1872-20261123-20261125-camp1"
+          ]
+        },
+        {
+          "start": "2026-12-07",
+          "end": "2026-12-09",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1872-20261207-20261209-camp2"
+          ]
+        },
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-16",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1872-20261214-20261216-camp3"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-23",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1872-20261221-20261223-camp4"
+          ]
+        }
+      ]
     }
   ],
   "gaps": [
@@ -318854,7 +321810,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 242,
+  "version": 243,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -332089,7 +335045,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1866,
+      "total_dossiers": 1872,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -352569,6 +355525,171 @@
       "relation": "related_track_or_operator"
     },
     {
+      "programme_id": "CP1867",
+      "event_id": "CP1867-20261221-20261224-week1-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1867",
+      "event_id": "CP1867-20261221-20261224-week1-pm",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1867",
+      "event_id": "CP1867-20261221-20261224-week1-full",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1867",
+      "event_id": "CP1867-20261221-20261224-week1-care",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1867",
+      "event_id": "CP1867-20261228-20261231-week2-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1867",
+      "event_id": "CP1867-20261228-20261231-week2-pm",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1867",
+      "event_id": "CP1867-20261228-20261231-week2-full",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1867",
+      "event_id": "CP1867-20261228-20261231-week2-care",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1867",
+      "event_id": "CP1867-20261221-20261231-both-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1867",
+      "event_id": "CP1867-20261221-20261231-both-pm",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1867",
+      "event_id": "CP1867-20261221-20261231-both-full",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1867",
+      "event_id": "CP1867-20261221-20261231-both-care",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1868",
+      "event_id": "CP1868-20261221-20261224-week1-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1868",
+      "event_id": "CP1868-20261221-20261224-week1-pm",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1868",
+      "event_id": "CP1868-20261221-20261224-week1-full",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1868",
+      "event_id": "CP1868-20261221-20261224-week1-care",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1868",
+      "event_id": "CP1868-20261228-20261231-week2-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1868",
+      "event_id": "CP1868-20261228-20261231-week2-pm",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1868",
+      "event_id": "CP1868-20261228-20261231-week2-full",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1868",
+      "event_id": "CP1868-20261228-20261231-week2-care",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1868",
+      "event_id": "CP1868-20261221-20261231-both-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1868",
+      "event_id": "CP1868-20261221-20261231-both-pm",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1868",
+      "event_id": "CP1868-20261221-20261231-both-full",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1868",
+      "event_id": "CP1868-20261221-20261231-both-care",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1869",
+      "event_id": "CP1869-20261221-20261224-four-days",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1870",
+      "event_id": "CP1870-20261228-20261231-four-days",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1871",
+      "event_id": "CP1871-20261221-20261223-full",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1871",
+      "event_id": "CP1871-20261221-20261223-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1871",
+      "event_id": "CP1871-20261221-20261223-pm",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1872",
+      "event_id": "CP1872-20261123-20261125-camp1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1872",
+      "event_id": "CP1872-20261207-20261209-camp2",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1872",
+      "event_id": "CP1872-20261214-20261216-camp3",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1872",
+      "event_id": "CP1872-20261221-20261223-camp4",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -356878,10 +359999,43 @@
     "CP1859-20261219-20261219-20261219",
     "CP1859-20261226-20261226-20261226",
     "CP1859-20261227-20261227-20261227",
-    "CP1859-20270102-20270102-20270102"
+    "CP1859-20270102-20270102-20270102",
+    "CP1867-20261221-20261224-week1-am",
+    "CP1867-20261221-20261224-week1-pm",
+    "CP1867-20261221-20261224-week1-full",
+    "CP1867-20261221-20261224-week1-care",
+    "CP1867-20261228-20261231-week2-am",
+    "CP1867-20261228-20261231-week2-pm",
+    "CP1867-20261228-20261231-week2-full",
+    "CP1867-20261228-20261231-week2-care",
+    "CP1867-20261221-20261231-both-am",
+    "CP1867-20261221-20261231-both-pm",
+    "CP1867-20261221-20261231-both-full",
+    "CP1867-20261221-20261231-both-care",
+    "CP1868-20261221-20261224-week1-am",
+    "CP1868-20261221-20261224-week1-pm",
+    "CP1868-20261221-20261224-week1-full",
+    "CP1868-20261221-20261224-week1-care",
+    "CP1868-20261228-20261231-week2-am",
+    "CP1868-20261228-20261231-week2-pm",
+    "CP1868-20261228-20261231-week2-full",
+    "CP1868-20261228-20261231-week2-care",
+    "CP1868-20261221-20261231-both-am",
+    "CP1868-20261221-20261231-both-pm",
+    "CP1868-20261221-20261231-both-full",
+    "CP1868-20261221-20261231-both-care",
+    "CP1869-20261221-20261224-four-days",
+    "CP1870-20261228-20261231-four-days",
+    "CP1871-20261221-20261223-full",
+    "CP1871-20261221-20261223-am",
+    "CP1871-20261221-20261223-pm",
+    "CP1872-20261123-20261125-camp1",
+    "CP1872-20261207-20261209-camp2",
+    "CP1872-20261214-20261216-camp3",
+    "CP1872-20261221-20261223-camp4"
   ],
   "integration": {
-    "generated_sessions": 3879,
+    "generated_sessions": 3912,
     "reused_legacy_events": 73,
     "seasonal_windows": 73,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

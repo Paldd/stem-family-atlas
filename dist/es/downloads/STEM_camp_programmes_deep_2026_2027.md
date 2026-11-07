@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-07. 1866 fichas en 121 países. Las fechas de cotejo de las fuentes se indican en cada ficha.
+Estado de la base: 2026-11-07. 1872 fichas en 121 países. Las fechas de cotejo de las fuentes se indican en cada ficha.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -27322,7 +27322,7 @@ México · Av.Ocammo 1829 Ote., Col. Centro, Torreón, Coahuila
 
 Perú Lima: Miraflores, CalleAlfonsoUgarte 309; naturetripCPRCardal, Pachacamac. Club sólo miembros
 
-** Verificado:** 2026-10-05
+**Se ha comprobado:** 2026-11-07
 
 **Edad:** Camp 4–15; específica Robótica 6–11, LEGO 4–5, Arduino/3 D 12–15
 
@@ -27332,9 +27332,9 @@ Perú Lima: Miraflores, CalleAlfonsoUgarte 309; naturetripCPRCardal, Pachacamac.
 
 ** Vivienda: ** Programa diario; vivienda de la familia, caminos y horas extras.
 
-**Fechas / situación:** 2027: Títulos 04–07 enero/01–04 febrero, pero descripción«04 Día–¿Qué?(revisar)» y viernes bus/Conferencias. Duración total no determinada, ICS sin crear.
+**Fechas / estado:** Ventanas iniciales del 4 al 7 de enero y del 1 al 4 de febrero de 2027. La descripción promete aparte 4 días en Lima, 4 días en Pachacámac y salidas los viernes. Confirmar calendario completo y contenido de los 700 USD.
 
-**Cabe/año:** 2027 · USD 700 en la página, número de semanas/paquetes no se ha determinado.
+**Precio / año:** 2027 · 700 USD según el anuncio de 2027. Vigencia, número de semanas y factura final sin confirmar.
 
 ** Incluida:** Solicitud de clases de robotics y naturecamp; hay que confirmar la composición completa de los bus/food/kit.
 
@@ -27352,9 +27352,11 @@ Perú Lima: Miraflores, CalleAlfonsoUgarte 309; naturetripCPRCardal, Pachacamac.
 
 - días y volumen completo 700 USD, lenguaje, de hecho Friday transferencias, conjunto y una plaza abierta sin miembros.
 
+- El FAQ inferior muestra fechas y tarifas de 2024. Para 2027 confirmar idioma, comidas, kit y transporte.
+
 ### Fuentes
 
-- [2027 página con contradicciones](https://troonic.com/troonic-camp-2027/) · 2026-10-05
+- [Página o reglamento oficial de la organización.](https://troonic.com/troonic-camp-2027/) · 2026-11-07
 
 ## CP309 · WeCode Pocitos · Laboratorio
 
@@ -146203,6 +146205,898 @@ Benín · Kids Coding Academy · Cotonou
 - [Página o reglamento oficial de la organización.](https://graines2genie.com/) · 2026-11-07
 
 - [Página o reglamento oficial de la organización.](https://graines2genie.com/client/accueil/formation) · 2026-11-07
+
+## CP1867 · STEMA Vancouver · Winter Junior
+
+Canadá · STEMA Vancouver · 1025 Kingsway, Vancouver
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** La tabla indica grupo menor 5–8 y mayor 8+. Los encabezados de las descripciones dan 5–7 y 8–12. Confirmar el límite de 8 años y la asignación de grupo.
+
+**Idioma:** No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+
+**Programa:** Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 21–24 o 28–31 de diciembre de 2026. El paquete de ambas semanas incluye 8 días lectivos. Del 25 al 27 de diciembre no hay actividades en el paquete.
+
+**Precio / año:** 2026 · Por semana, 169 CAD media jornada, 329 CAD jornada completa y 380 CAD con extensión. Por 8 días, 328, 639 o 740 CAD según modalidad. Jornada suelta 90 CAD, confirmar fecha elegida.
+
+**Incluido:** Equipo y actividades. La jornada completa incluye dos bloques lectivos.
+
+**Suplementos:** Llevar almuerzo para jornada completa, y refrigerio sin frutos secos y agua para media jornada. Confirmar impuestos y dos plazas al inscribirse.
+
+**Pago:** Pago íntegro al inscribirse. Al cancelar desde 3 semanas se retienen 20 CAD, entre 2–3 semanas 50 CAD, dentro de 14 días y después del inicio no hay reembolso. Confirmar límite de 3 semanas.
+
+**Matvey:** No para el grupo menor. Hay un grupo mayor en la misma sede.
+
+**Oscar:** Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad.
+
+**Motivo de selección:** Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.
+
+### Antes de solicitar plaza
+
+- Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad.
+
+### Mañana · 09:00–12:00
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**Precio:** Precio actual 169 CAD, ordinario 200 CAD.
+
+- 2026-12-21 · 09:00–12:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-22 · 09:00–12:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-23 · 09:00–12:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-24 · 09:00–12:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+[fuente](https://vancouver.stemalearning.com/product/winter-camp/)
+
+### Tarde · 13:00–16:00
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**Precio:** Precio actual 169 CAD, ordinario 200 CAD.
+
+- 2026-12-21 · 13:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-22 · 13:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-23 · 13:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-24 · 13:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+[fuente](https://vancouver.stemalearning.com/product/winter-camp/)
+
+### Jornada completa · 09:00–16:00
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**Precio:** Precio actual 329 CAD, ordinario 380 CAD.
+
+- 2026-12-21 · 09:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-22 · 09:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-23 · 09:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-24 · 09:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+[fuente](https://vancouver.stemalearning.com/product/winter-camp/)
+
+### Jornada completa con extensión · 09:00–18:00
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**Precio:** Precio actual 380 CAD, ordinario 440 CAD.
+
+- 2026-12-21 · 09:00–18:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-22 · 09:00–18:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-23 · 09:00–18:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-24 · 09:00–18:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+[fuente](https://vancouver.stemalearning.com/product/winter-camp/)
+
+### Mañana · 09:00–12:00
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**Precio:** Precio actual 169 CAD, ordinario 200 CAD.
+
+- 2026-12-28 · 09:00–12:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-29 · 09:00–12:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-30 · 09:00–12:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-31 · 09:00–12:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+[fuente](https://vancouver.stemalearning.com/product/winter-camp/)
+
+### Tarde · 13:00–16:00
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**Precio:** Precio actual 169 CAD, ordinario 200 CAD.
+
+- 2026-12-28 · 13:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-29 · 13:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-30 · 13:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-31 · 13:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+[fuente](https://vancouver.stemalearning.com/product/winter-camp/)
+
+### Jornada completa · 09:00–16:00
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**Precio:** Precio actual 329 CAD, ordinario 380 CAD.
+
+- 2026-12-28 · 09:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-29 · 09:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-30 · 09:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-31 · 09:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+[fuente](https://vancouver.stemalearning.com/product/winter-camp/)
+
+### Jornada completa con extensión · 09:00–18:00
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**Precio:** Precio actual 380 CAD, ordinario 440 CAD.
+
+- 2026-12-28 · 09:00–18:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-29 · 09:00–18:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-30 · 09:00–18:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-31 · 09:00–18:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+[fuente](https://vancouver.stemalearning.com/product/winter-camp/)
+
+### Paquete de 8 días · Mañana · 09:00–12:00
+
+**Fechas / estado:** 2026-12-21 — 2026-12-31
+
+**Precio:** Precio actual 328 CAD por 8 días, ordinario 400 CAD.
+
+- 2026-12-21 · 09:00–12:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-22 · 09:00–12:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-23 · 09:00–12:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-24 · 09:00–12:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-28 · 09:00–12:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-29 · 09:00–12:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-30 · 09:00–12:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-31 · 09:00–12:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+[fuente](https://vancouver.stemalearning.com/product/winter-camp/)
+
+### Paquete de 8 días · Tarde · 13:00–16:00
+
+**Fechas / estado:** 2026-12-21 — 2026-12-31
+
+**Precio:** Precio actual 328 CAD por 8 días, ordinario 400 CAD.
+
+- 2026-12-21 · 13:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-22 · 13:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-23 · 13:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-24 · 13:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-28 · 13:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-29 · 13:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-30 · 13:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-31 · 13:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+[fuente](https://vancouver.stemalearning.com/product/winter-camp/)
+
+### Paquete de 8 días · Jornada completa · 09:00–16:00
+
+**Fechas / estado:** 2026-12-21 — 2026-12-31
+
+**Precio:** Precio actual 639 CAD por 8 días, ordinario 720 CAD.
+
+- 2026-12-21 · 09:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-22 · 09:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-23 · 09:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-24 · 09:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-28 · 09:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-29 · 09:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-30 · 09:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-31 · 09:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+[fuente](https://vancouver.stemalearning.com/product/winter-camp/)
+
+### Paquete de 8 días · Jornada completa con extensión · 09:00–18:00
+
+**Fechas / estado:** 2026-12-21 — 2026-12-31
+
+**Precio:** Precio actual 740 CAD por 8 días, ordinario 800 CAD.
+
+- 2026-12-21 · 09:00–18:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-22 · 09:00–18:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-23 · 09:00–18:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-24 · 09:00–18:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-28 · 09:00–18:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-29 · 09:00–18:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-30 · 09:00–18:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-31 · 09:00–18:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+[fuente](https://vancouver.stemalearning.com/product/winter-camp/)
+
+### Fuentes
+
+- [Página o reglamento oficial de la organización.](https://vancouver.stemalearning.com/product/winter-camp/) · 2026-11-07
+
+- [Página o reglamento oficial de la organización.](https://vancouver.stemalearning.com/terms-policies-waiver/) · 2026-11-07
+
+- [Página o reglamento oficial de la organización.](https://stemalearning.com/faq/) · 2026-11-07
+
+## CP1868 · STEMA Vancouver · Winter Explorer
+
+Canadá · STEMA Vancouver · 1025 Kingsway, Vancouver
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** La tabla indica grupo menor 5–8 y mayor 8+. Los encabezados de las descripciones dan 5–7 y 8–12. Confirmar el límite de 8 años y la asignación de grupo.
+
+**Idioma:** No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+
+**Programa:** Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 21–24 o 28–31 de diciembre de 2026. El paquete de ambas semanas incluye 8 días lectivos. Del 25 al 27 de diciembre no hay actividades en el paquete.
+
+**Precio / año:** 2026 · Por semana, 169 CAD media jornada, 329 CAD jornada completa y 380 CAD con extensión. Por 8 días, 328, 639 o 740 CAD según modalidad. Jornada suelta 90 CAD, confirmar fecha elegida.
+
+**Incluido:** Equipo y actividades. La jornada completa incluye dos bloques lectivos.
+
+**Suplementos:** Llevar almuerzo para jornada completa, y refrigerio sin frutos secos y agua para media jornada. Confirmar impuestos y dos plazas al inscribirse.
+
+**Pago:** Pago íntegro al inscribirse. Al cancelar desde 3 semanas se retienen 20 CAD, entre 2–3 semanas 50 CAD, dentro de 14 días y después del inicio no hay reembolso. Confirmar límite de 3 semanas.
+
+**Matvey:** Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad.
+
+**Oscar:** No para el grupo mayor. Hay un grupo menor en la misma sede.
+
+**Motivo de selección:** Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.
+
+### Antes de solicitar plaza
+
+- Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad.
+
+### Mañana · 09:00–12:00
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**Precio:** Precio actual 169 CAD, ordinario 200 CAD.
+
+- 2026-12-21 · 09:00–12:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-22 · 09:00–12:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-23 · 09:00–12:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-24 · 09:00–12:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+[fuente](https://vancouver.stemalearning.com/product/winter-camp/)
+
+### Tarde · 13:00–16:00
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**Precio:** Precio actual 169 CAD, ordinario 200 CAD.
+
+- 2026-12-21 · 13:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-22 · 13:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-23 · 13:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-24 · 13:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+[fuente](https://vancouver.stemalearning.com/product/winter-camp/)
+
+### Jornada completa · 09:00–16:00
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**Precio:** Precio actual 329 CAD, ordinario 380 CAD.
+
+- 2026-12-21 · 09:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-22 · 09:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-23 · 09:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-24 · 09:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+[fuente](https://vancouver.stemalearning.com/product/winter-camp/)
+
+### Jornada completa con extensión · 09:00–18:00
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**Precio:** Precio actual 380 CAD, ordinario 440 CAD.
+
+- 2026-12-21 · 09:00–18:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-22 · 09:00–18:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-23 · 09:00–18:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-24 · 09:00–18:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+[fuente](https://vancouver.stemalearning.com/product/winter-camp/)
+
+### Mañana · 09:00–12:00
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**Precio:** Precio actual 169 CAD, ordinario 200 CAD.
+
+- 2026-12-28 · 09:00–12:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-29 · 09:00–12:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-30 · 09:00–12:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-31 · 09:00–12:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+[fuente](https://vancouver.stemalearning.com/product/winter-camp/)
+
+### Tarde · 13:00–16:00
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**Precio:** Precio actual 169 CAD, ordinario 200 CAD.
+
+- 2026-12-28 · 13:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-29 · 13:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-30 · 13:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-31 · 13:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+[fuente](https://vancouver.stemalearning.com/product/winter-camp/)
+
+### Jornada completa · 09:00–16:00
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**Precio:** Precio actual 329 CAD, ordinario 380 CAD.
+
+- 2026-12-28 · 09:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-29 · 09:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-30 · 09:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-31 · 09:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+[fuente](https://vancouver.stemalearning.com/product/winter-camp/)
+
+### Jornada completa con extensión · 09:00–18:00
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**Precio:** Precio actual 380 CAD, ordinario 440 CAD.
+
+- 2026-12-28 · 09:00–18:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-29 · 09:00–18:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-30 · 09:00–18:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-31 · 09:00–18:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+[fuente](https://vancouver.stemalearning.com/product/winter-camp/)
+
+### Paquete de 8 días · Mañana · 09:00–12:00
+
+**Fechas / estado:** 2026-12-21 — 2026-12-31
+
+**Precio:** Precio actual 328 CAD por 8 días, ordinario 400 CAD.
+
+- 2026-12-21 · 09:00–12:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-22 · 09:00–12:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-23 · 09:00–12:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-24 · 09:00–12:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-28 · 09:00–12:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-29 · 09:00–12:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-30 · 09:00–12:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-31 · 09:00–12:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+[fuente](https://vancouver.stemalearning.com/product/winter-camp/)
+
+### Paquete de 8 días · Tarde · 13:00–16:00
+
+**Fechas / estado:** 2026-12-21 — 2026-12-31
+
+**Precio:** Precio actual 328 CAD por 8 días, ordinario 400 CAD.
+
+- 2026-12-21 · 13:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-22 · 13:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-23 · 13:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-24 · 13:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-28 · 13:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-29 · 13:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-30 · 13:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-31 · 13:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+[fuente](https://vancouver.stemalearning.com/product/winter-camp/)
+
+### Paquete de 8 días · Jornada completa · 09:00–16:00
+
+**Fechas / estado:** 2026-12-21 — 2026-12-31
+
+**Precio:** Precio actual 639 CAD por 8 días, ordinario 720 CAD.
+
+- 2026-12-21 · 09:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-22 · 09:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-23 · 09:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-24 · 09:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-28 · 09:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-29 · 09:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-30 · 09:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-31 · 09:00–16:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+[fuente](https://vancouver.stemalearning.com/product/winter-camp/)
+
+### Paquete de 8 días · Jornada completa con extensión · 09:00–18:00
+
+**Fechas / estado:** 2026-12-21 — 2026-12-31
+
+**Precio:** Precio actual 740 CAD por 8 días, ordinario 800 CAD.
+
+- 2026-12-21 · 09:00–18:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-22 · 09:00–18:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-23 · 09:00–18:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-24 · 09:00–18:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-28 · 09:00–18:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-29 · 09:00–18:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-30 · 09:00–18:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+- 2026-12-31 · 09:00–18:00 · America/Vancouver · Primera semana: 3D y animación para menores, 3D y juegos arcade para mayores. Segunda: programación y por la tarde robots y máquinas simples. Confirmar el tema Minecraft para el grupo elegido.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+[fuente](https://vancouver.stemalearning.com/product/winter-camp/)
+
+### Fuentes
+
+- [Página o reglamento oficial de la organización.](https://vancouver.stemalearning.com/product/winter-camp/) · 2026-11-07
+
+- [Página o reglamento oficial de la organización.](https://vancouver.stemalearning.com/terms-policies-waiver/) · 2026-11-07
+
+- [Página o reglamento oficial de la organización.](https://stemalearning.com/faq/) · 2026-11-07
+
+## CP1869 · STEMstein Mississauga · TechVerse Week
+
+Canadá · 3401 Ridgeway Drive · Units 209–211 · Mississauga
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 5–15 años.
+
+**Idioma:** No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+
+**Programa:** TechVerse: retos de ingeniería y tecnología. La página general anuncia robots y AR/VR. Confirmar el contenido del turno concreto.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** El calendario de reservas da dos intervalos locales de 4 días. El horario del campamento es 09:00–15:30. El límite final de cada intervalo corresponde al día siguiente.
+
+**Precio / año:** 2026 · 399 CAD por 4 días. La página muestra una tarifa EarlyBird de 349 CAD. Confirmar condiciones y plazo del descuento.
+
+**Incluido:** Materiales de las actividades incluidos.
+
+**Suplementos:** Se anuncia descuento para hermanos sin importe. Confirmar impuestos, comidas e importe final.
+
+**Pago:** La tarifa exacta de la convocatoria elegida no está confirmada.
+
+**Matvey:** Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad.
+
+**Oscar:** Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad.
+
+**Motivo de selección:** Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.
+
+### Antes de solicitar plaza
+
+- Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad.
+
+### TechVerse Week
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**Precio:** 399 CAD por 4 días. La página muestra una tarifa EarlyBird de 349 CAD. Confirmar condiciones y plazo del descuento.
+
+- 2026-12-21 · 09:00–15:30 · America/Toronto · TechVerse: retos de ingeniería y tecnología. La página general anuncia robots y AR/VR. Confirmar el contenido del turno concreto.
+
+- 2026-12-22 · 09:00–15:30 · America/Toronto · TechVerse: retos de ingeniería y tecnología. La página general anuncia robots y AR/VR. Confirmar el contenido del turno concreto.
+
+- 2026-12-23 · 09:00–15:30 · America/Toronto · TechVerse: retos de ingeniería y tecnología. La página general anuncia robots y AR/VR. Confirmar el contenido del turno concreto.
+
+- 2026-12-24 · 09:00–15:30 · America/Toronto · TechVerse: retos de ingeniería y tecnología. La página general anuncia robots y AR/VR. Confirmar el contenido del turno concreto.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+[fuente](https://www.stemstein.com/booking-calendar/winter-break-camp-techverse-week)
+
+### Fuentes
+
+- [Página o reglamento oficial de la organización.](https://www.stemstein.com/winter-camp) · 2026-11-07
+
+- [Página o reglamento oficial de la organización.](https://www.stemstein.com/service-page/winter-break-camp-techverse-week) · 2026-11-07
+
+- [Página o reglamento oficial de la organización.](https://www.stemstein.com/booking-calendar/winter-break-camp-techverse-week) · 2026-11-07
+
+## CP1870 · STEMstein Mississauga · Winter Wonders Week
+
+Canadá · 3401 Ridgeway Drive · Units 209–211 · Mississauga
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 5–15 años.
+
+**Idioma:** No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+
+**Programa:** Winter Wonders: experimentos científicos, matemáticas y retos creativos.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** El calendario de reservas da dos intervalos locales de 4 días. El horario del campamento es 09:00–15:30. El límite final de cada intervalo corresponde al día siguiente.
+
+**Precio / año:** 2026 · 399 CAD por 4 días. La página muestra una tarifa EarlyBird de 349 CAD. Confirmar condiciones y plazo del descuento.
+
+**Incluido:** Materiales de las actividades incluidos.
+
+**Suplementos:** Se anuncia descuento para hermanos sin importe. Confirmar impuestos, comidas e importe final.
+
+**Pago:** La tarifa exacta de la convocatoria elegida no está confirmada.
+
+**Matvey:** Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad.
+
+**Oscar:** Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad.
+
+**Motivo de selección:** Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.
+
+### Antes de solicitar plaza
+
+- Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad.
+
+### Winter Wonders Week
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**Precio:** 399 CAD por 4 días. La página muestra una tarifa EarlyBird de 349 CAD. Confirmar condiciones y plazo del descuento.
+
+- 2026-12-28 · 09:00–15:30 · America/Toronto · Winter Wonders: experimentos científicos, matemáticas y retos creativos.
+
+- 2026-12-29 · 09:00–15:30 · America/Toronto · Winter Wonders: experimentos científicos, matemáticas y retos creativos.
+
+- 2026-12-30 · 09:00–15:30 · America/Toronto · Winter Wonders: experimentos científicos, matemáticas y retos creativos.
+
+- 2026-12-31 · 09:00–15:30 · America/Toronto · Winter Wonders: experimentos científicos, matemáticas y retos creativos.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+[fuente](https://www.stemstein.com/booking-calendar/winter-break-camp-winter-wonders-week)
+
+### Fuentes
+
+- [Página o reglamento oficial de la organización.](https://www.stemstein.com/winter-camp) · 2026-11-07
+
+- [Página o reglamento oficial de la organización.](https://www.stemstein.com/service-page/winter-break-camp-winter-wonders-week) · 2026-11-07
+
+- [Página o reglamento oficial de la organización.](https://www.stemstein.com/booking-calendar/winter-break-camp-winter-wonders-week) · 2026-11-07
+
+## CP1871 · Dash Sports · STEM and Sports Fusion
+
+Canadá · Forestview · 3175 Dundas Street West, Oakville
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 5–12 años.
+
+**Idioma:** No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+
+**Programa:** Modelos de ingeniería y juegos activos. Confirmar reparto entre tiempo técnico y deportivo.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 21–23 de diciembre de 2026, Oakville. Hay jornada completa, bloque de mañana, bloque de tarde y días sueltos a consultar.
+
+**Precio / año:** 2026 · Por 3 días, 229 CAD jornada completa o 139 CAD media jornada antes de HST. Día suelto 79 CAD o media jornada 49 CAD antes de HST. La organización confirma el importe de días sueltos.
+
+**Incluido:** Modelos de ingeniería y juegos activos. Confirmar reparto entre tiempo técnico y deportivo.
+
+**Suplementos:** La tarifa exacta de la convocatoria elegida no está confirmada.
+
+**Pago:** El formulario publica importes con HST y descuento para dos. Confirmar comidas, reembolso y dos plazas.
+
+**Matvey:** Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad.
+
+**Oscar:** Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad.
+
+**Motivo de selección:** Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.
+
+### Antes de solicitar plaza
+
+- Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad.
+
+### 09:00–17:00 · tres días
+
+**Fechas / estado:** 2026-12-21 — 2026-12-23
+
+**Precio:** Con HST, 258.77 CAD por menor o 465.79 CAD por dos con descuento.
+
+- 2026-12-21 · 09:00–17:00 · America/Toronto · Modelos de ingeniería y juegos activos. Confirmar reparto entre tiempo técnico y deportivo.
+
+- 2026-12-22 · 09:00–17:00 · America/Toronto · Modelos de ingeniería y juegos activos. Confirmar reparto entre tiempo técnico y deportivo.
+
+- 2026-12-23 · 09:00–17:00 · America/Toronto · Modelos de ingeniería y juegos activos. Confirmar reparto entre tiempo técnico y deportivo.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+[fuente](https://dashsports.ca/product/winter-camp-2026/)
+
+### 09:00–13:00 · tres días
+
+**Fechas / estado:** 2026-12-21 — 2026-12-23
+
+**Precio:** Con HST, 157.07 CAD por menor o 282.73 CAD por dos con descuento.
+
+- 2026-12-21 · 09:00–13:00 · America/Toronto · Modelos de ingeniería y juegos activos. Confirmar reparto entre tiempo técnico y deportivo.
+
+- 2026-12-22 · 09:00–13:00 · America/Toronto · Modelos de ingeniería y juegos activos. Confirmar reparto entre tiempo técnico y deportivo.
+
+- 2026-12-23 · 09:00–13:00 · America/Toronto · Modelos de ingeniería y juegos activos. Confirmar reparto entre tiempo técnico y deportivo.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+[fuente](https://dashsports.ca/product/winter-camp-2026/)
+
+### 13:00–17:00 · tres días
+
+**Fechas / estado:** 2026-12-21 — 2026-12-23
+
+**Precio:** Con HST, 157.07 CAD por menor o 282.73 CAD por dos con descuento.
+
+- 2026-12-21 · 13:00–17:00 · America/Toronto · Modelos de ingeniería y juegos activos. Confirmar reparto entre tiempo técnico y deportivo.
+
+- 2026-12-22 · 13:00–17:00 · America/Toronto · Modelos de ingeniería y juegos activos. Confirmar reparto entre tiempo técnico y deportivo.
+
+- 2026-12-23 · 13:00–17:00 · America/Toronto · Modelos de ingeniería y juegos activos. Confirmar reparto entre tiempo técnico y deportivo.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+[fuente](https://dashsports.ca/product/winter-camp-2026/)
+
+### Fuentes
+
+- [Página o reglamento oficial de la organización.](https://dashsports.ca/product/winter-camp-2026/) · 2026-11-07
+
+## CP1872 · WondersWork · Infinite Aura All Stars
+
+Singapur · Furama Riverfront Hotel · #01-05 · 405 Havelock Road
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 5–14 años, actividades por nivel. Confirmar grupo para cada menor.
+
+**Idioma:** No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+
+**Programa:** Construcción y programación de robots LEGO con retos inspirados en Pokémon y Minecraft. Premios internos al final del campamento.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Cuatro turnos de tres días del 23 de noviembre al 23 de diciembre de 2026, 10:00–15:00. La inscripción cierra 1 semana antes, según disponibilidad.
+
+**Precio / año:** 2026 · 598 SGD por turno y menor. La organización indica que no se cobra GST ni matrícula separada.
+
+**Incluido:** Almuerzo, bebida, materiales, kit durante las actividades y certificado. El robot queda con la organización.
+
+**Suplementos:** Traslado por solicitud separada, sin tarifa publicada.
+
+**Pago:** Confirmación tras pago íntegro y formulario. Turno sujeto a un mínimo de 3 participantes. Si no se alcanza, se anuncia devolución o traslado. Cancelaciones ordinarias bajo reglas aparte.
+
+**Matvey:** Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad.
+
+**Oscar:** Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad.
+
+**Motivo de selección:** Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.
+
+### Antes de solicitar plaza
+
+- Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad.
+
+### Turno 1 · 10:00–15:00
+
+**Fechas / estado:** 2026-11-23 — 2026-11-25
+
+**Precio:** 598 SGD por turno y menor. La organización indica que no se cobra GST ni matrícula separada.
+
+- 2026-11-23 · 10:00–15:00 · Asia/Singapore · Construcción y programación de robots LEGO con retos inspirados en Pokémon y Minecraft. Premios internos al final del campamento.
+
+- 2026-11-24 · 10:00–15:00 · Asia/Singapore · Construcción y programación de robots LEGO con retos inspirados en Pokémon y Minecraft. Premios internos al final del campamento.
+
+- 2026-11-25 · 10:00–15:00 · Asia/Singapore · Construcción y programación de robots LEGO con retos inspirados en Pokémon y Minecraft. Premios internos al final del campamento.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+[fuente](https://www.wonderswork.com.sg/school-holiday-camp/)
+
+### Turno 2 · 10:00–15:00
+
+**Fechas / estado:** 2026-12-07 — 2026-12-09
+
+**Precio:** 598 SGD por turno y menor. La organización indica que no se cobra GST ni matrícula separada.
+
+- 2026-12-07 · 10:00–15:00 · Asia/Singapore · Construcción y programación de robots LEGO con retos inspirados en Pokémon y Minecraft. Premios internos al final del campamento.
+
+- 2026-12-08 · 10:00–15:00 · Asia/Singapore · Construcción y programación de robots LEGO con retos inspirados en Pokémon y Minecraft. Premios internos al final del campamento.
+
+- 2026-12-09 · 10:00–15:00 · Asia/Singapore · Construcción y programación de robots LEGO con retos inspirados en Pokémon y Minecraft. Premios internos al final del campamento.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+[fuente](https://www.wonderswork.com.sg/school-holiday-camp/)
+
+### Turno 3 · 10:00–15:00
+
+**Fechas / estado:** 2026-12-14 — 2026-12-16
+
+**Precio:** 598 SGD por turno y menor. La organización indica que no se cobra GST ni matrícula separada.
+
+- 2026-12-14 · 10:00–15:00 · Asia/Singapore · Construcción y programación de robots LEGO con retos inspirados en Pokémon y Minecraft. Premios internos al final del campamento.
+
+- 2026-12-15 · 10:00–15:00 · Asia/Singapore · Construcción y programación de robots LEGO con retos inspirados en Pokémon y Minecraft. Premios internos al final del campamento.
+
+- 2026-12-16 · 10:00–15:00 · Asia/Singapore · Construcción y programación de robots LEGO con retos inspirados en Pokémon y Minecraft. Premios internos al final del campamento.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+[fuente](https://www.wonderswork.com.sg/school-holiday-camp/)
+
+### Turno 4 · 10:00–15:00
+
+**Fechas / estado:** 2026-12-21 — 2026-12-23
+
+**Precio:** 598 SGD por turno y menor. La organización indica que no se cobra GST ni matrícula separada.
+
+- 2026-12-21 · 10:00–15:00 · Asia/Singapore · Construcción y programación de robots LEGO con retos inspirados en Pokémon y Minecraft. Premios internos al final del campamento.
+
+- 2026-12-22 · 10:00–15:00 · Asia/Singapore · Construcción y programación de robots LEGO con retos inspirados en Pokémon y Minecraft. Premios internos al final del campamento.
+
+- 2026-12-23 · 10:00–15:00 · Asia/Singapore · Construcción y programación de robots LEGO con retos inspirados en Pokémon y Minecraft. Premios internos al final del campamento.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+[fuente](https://www.wonderswork.com.sg/school-holiday-camp/)
+
+### Fuentes
+
+- [Página o reglamento oficial de la organización.](https://www.wonderswork.com.sg/school-holiday-camp/) · 2026-11-07
+
+- [Página o reglamento oficial de la organización.](https://www.wonderswork.com.sg/faqs/) · 2026-11-07
+
+- [Página o reglamento oficial de la organización.](https://www.wonderswork.com.sg/register/) · 2026-11-07
 
 ## ~ Comprobaciones no cerradas
 
