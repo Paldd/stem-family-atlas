@@ -30,15 +30,15 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1742,
+    "dossiers": 1750,
     "countries": 102,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 253,
-      "published_2027": 487,
+      "published_2027": 494,
       "partial_2027": 134,
       "next_unannounced": 352,
-      "published_2026": 306,
+      "published_2026": 307,
       "partial_2026_27": 28,
       "partial_2026": 21,
       "archive_next_unannounced": 137,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2480
+    "source_urls": 2488
   },
   "countries": [
     {
@@ -209,7 +209,7 @@
     },
     {
       "country": "China",
-      "count": 12
+      "count": 13
     },
     {
       "country": "Colombia",
@@ -361,7 +361,7 @@
     },
     {
       "country": "Taiwán",
-      "count": 161
+      "count": 168
     },
     {
       "country": "Tanzania",
@@ -119296,7 +119296,7 @@
       "formats": [
         "day"
       ],
-      "age": "Grados 1–3 de primaria.",
+      "age": "1–3 de primaria.",
       "language": "Todo el programa se imparte en inglés.",
       "confirmed_instruction_languages": [
         "EN"
@@ -119323,7 +119323,7 @@
             "source": "https://www.dcampskorea.com/post/2027-winter-daewon",
             "price": "KRW 989000 por 5 días. El autobús se paga por separado.",
             "place": "Daewon Campus · Gwangjin-gu · Seoul",
-            "age": "Grados 1–3 de primaria.",
+            "age": "1–3 de primaria.",
             "family_fit": {
               "matvey": {
                 "status": "conditional",
@@ -119395,7 +119395,7 @@
             "source": "https://www.dcampskorea.com/post/2027-winter-daewon",
             "price": "KRW 989000 por 5 días. El autobús se paga por separado.",
             "place": "Daewon Campus · Gwangjin-gu · Seoul",
-            "age": "Grados 1–3 de primaria.",
+            "age": "1–3 de primaria.",
             "family_fit": {
               "matvey": {
                 "status": "conditional",
@@ -274390,7 +274390,7 @@
       "formats": [
         "day"
       ],
-      "age": "Grados 1–3 de primaria.",
+      "age": "1–3 de primaria.",
       "language": "Todo el programa se imparte en inglés.",
       "confirmed_instruction_languages": [
         "EN"
@@ -274417,7 +274417,7 @@
             "source": "https://www.dcampskorea.com/post/2027-winter-daewon",
             "price": "KRW 989000 por 5 días. El autobús se paga por separado.",
             "place": "Daewon Campus · Gwangjin-gu · Seoul",
-            "age": "Grados 1–3 de primaria.",
+            "age": "1–3 de primaria.",
             "family_fit": {
               "matvey": {
                 "status": "conditional",
@@ -274488,7 +274488,7 @@
             "source": "https://www.dcampskorea.com/post/2027-winter-daewon",
             "price": "KRW 989000 por 5 días. El autobús se paga por separado.",
             "place": "Daewon Campus · Gwangjin-gu · Seoul",
-            "age": "Grados 1–3 de primaria.",
+            "age": "1–3 de primaria.",
             "family_fit": {
               "matvey": {
                 "status": "conditional",
@@ -274650,7 +274650,7 @@
       "formats": [
         "day"
       ],
-      "age": "Grados 1–3 de primaria.",
+      "age": "1–3 de primaria.",
       "language": "Todo el programa se imparte en inglés.",
       "confirmed_instruction_languages": [
         "EN"
@@ -274677,7 +274677,7 @@
             "source": "https://www.dcampskorea.com/post/2027-winter-daewon",
             "price": "KRW 989000 por 5 días. El autobús se paga por separado.",
             "place": "Daewon Campus · Gwangjin-gu · Seoul",
-            "age": "Grados 1–3 de primaria.",
+            "age": "1–3 de primaria.",
             "family_fit": {
               "matvey": {
                 "status": "conditional",
@@ -274748,7 +274748,7 @@
             "source": "https://www.dcampskorea.com/post/2027-winter-daewon",
             "price": "KRW 989000 por 5 días. El autobús se paga por separado.",
             "place": "Daewon Campus · Gwangjin-gu · Seoul",
-            "age": "Grados 1–3 de primaria.",
+            "age": "1–3 de primaria.",
             "family_fit": {
               "matvey": {
                 "status": "conditional",
@@ -291748,6 +291748,1236 @@
           "event_ids": []
         }
       ]
+    },
+    {
+      "id": "CP1743",
+      "slug": "pilco-shanghai-ideas-winter-2026",
+      "provider": "Pilco Explorers · Ideas for the Future",
+      "country": "China",
+      "iso": "CHN",
+      "place": "WeWork Weihai · 696 Weihai Rd. · Jing’an · Shanghai",
+      "themes": [
+        "ai",
+        "robotics",
+        "science",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "7–11",
+      "language": "Todas las actividades y excursiones del programa se realizan en inglés.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "IA y robótica, visita al Shanghai Astronomy Museum, escritura creativa, arquitectura y sonidos de la ciudad. Grupo internacional de hasta 12 niños.",
+      "timing": {
+        "status": "published_2026",
+        "label": "14–17 de diciembre de 2026, 10:00–16:00. Las familias llevan y recogen a los niños cada día.",
+        "sessions": [
+          [
+            "2026-12-14",
+            "2026-12-17"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-14",
+            "end": "2026-12-17",
+            "label": "14–17 de diciembre de 2026, 10:00–16:00. Las familias llevan y recogen a los niños cada día.",
+            "source": "https://www.pilcostudio.com/shanghai",
+            "price": "KRW 1280000 hasta el 15 de noviembre, precio normal KRW 1380000 por niño. Confirmar plaza y condiciones de pago.",
+            "place": "WeWork Weihai · 696 Weihai Rd. · Jing’an · Shanghai",
+            "age": "7–11",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada e inglés confirmado. Confirmar plaza."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Mínimo 7 años al inicio del turno."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "topic": "IA y robótica, visita al Shanghai Astronomy Museum, escritura creativa, arquitectura y sonidos de la ciudad. Grupo internacional de hasta 12 niños.",
+                "start_time": "10:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Shanghai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-15",
+                "topic": "IA y robótica, visita al Shanghai Astronomy Museum, escritura creativa, arquitectura y sonidos de la ciudad. Grupo internacional de hasta 12 niños.",
+                "start_time": "10:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Shanghai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-16",
+                "topic": "IA y robótica, visita al Shanghai Astronomy Museum, escritura creativa, arquitectura y sonidos de la ciudad. Grupo internacional de hasta 12 niños.",
+                "start_time": "10:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Shanghai",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-17",
+                "topic": "IA y robótica, visita al Shanghai Astronomy Museum, escritura creativa, arquitectura y sonidos de la ciudad. Grupo internacional de hasta 12 niños.",
+                "start_time": "10:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Shanghai",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar disponibilidad y admisión."
+            }
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "KRW",
+        "amount": 1280000,
+        "unit": "programme",
+        "label": "KRW 1280000 hasta el 15 de noviembre, precio normal KRW 1380000 por niño. Confirmar plaza y condiciones de pago.",
+        "included": "Incluye materiales, excursiones, almuerzo y meriendas.",
+        "extras": "Vuelos, alojamiento y seguro aparte.",
+        "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      },
+      "accommodation": "Programa diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Edad adecuada e inglés confirmado. Confirmar plaza."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Mínimo 7 años al inicio del turno."
+        }
+      },
+      "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      ],
+      "sources": [
+        {
+          "url": "https://www.pilcostudio.com/shanghai",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-17",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1743-20261214-20261217"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1744",
+      "slug": "singular-junior-vr-taipei-winter-2027",
+      "provider": "Singular Maker · VR & ScratchJr",
+      "country": "Taiwán",
+      "iso": "TWN",
+      "place": "Singular Maker · 56 Nanjing East Road Sec. 5, 2F-1 · Songshan · Taipei",
+      "themes": [
+        "coding",
+        "games",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Último curso de infantil a 3.º de primaria.",
+      "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "confirmed_instruction_languages": [],
+      "programme": "ScratchJr, Bloxels, lógica de programación y VR.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Clases 09:00–17:00. Llegada 08:30–09:00, recogida 17:00–17:30. Pausa 12:00–13:30.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "VR & ScratchJr",
+            "source": "https://www.singularmaker.com.tw/article_d.php?id=1688&lang=tw&tb=1",
+            "price": "TWD 10200 hasta el 5 de diciembre, TWD 11500 hasta el 30 de diciembre, base TWD 13800. Por niño y turno.",
+            "place": "Singular Maker · 56 Nanjing East Road Sec. 5, 2F-1 · Songshan · Taipei",
+            "age": "Último curso de infantil a 3.º de primaria.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Condicional. Confirmar edad del grupo concreto y plaza."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Condicional. Confirmar edad del grupo concreto y plaza."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "topic": "ScratchJr, Bloxels, lógica de programación y VR.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-26",
+                "topic": "ScratchJr, Bloxels, lógica de programación y VR.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-27",
+                "topic": "ScratchJr, Bloxels, lógica de programación y VR.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-28",
+                "topic": "ScratchJr, Bloxels, lógica de programación y VR.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-29",
+                "topic": "ScratchJr, Bloxels, lógica de programación y VR.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar disponibilidad y admisión."
+            }
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "TWD",
+        "amount": 10200,
+        "unit": "session",
+        "label": "TWD 10200 hasta el 5 de diciembre, TWD 11500 hasta el 30 de diciembre, base TWD 13800. Por niño y turno.",
+        "included": "Incluye clases, materiales y almuerzo.",
+        "extras": "Preparar una tableta compatible. Confirmar alquiler e instalación.",
+        "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      },
+      "accommodation": "Programa diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Confirmar edad del grupo concreto y plaza."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional. Confirmar edad del grupo concreto y plaza."
+        }
+      },
+      "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Confirmar equivalencia de curso, idioma del docente, plaza y condiciones de pago."
+      ],
+      "sources": [
+        {
+          "url": "https://www.singularmaker.com.tw/article_d.php?id=1688&lang=tw&tb=1",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "pairing": {
+        "venue_id": "singular-taipei-nanjing-56",
+        "verified_source": "https://www.singularmaker.com.tw/article_d.php?id=1688&lang=tw&tb=1",
+        "checked": "2026-11-06",
+        "fee": {
+          "amount": 10200,
+          "currency": "TWD",
+          "unit": "per_child_course"
+        }
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1744-20270125-20270129"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1745",
+      "slug": "singular-junior-code-taipei-winter-2027",
+      "provider": "Singular Maker · OctoStudio · Creative Coding",
+      "country": "Taiwán",
+      "iso": "TWN",
+      "place": "Singular Maker · 56 Nanjing East Road Sec. 5, 2F-1 · Songshan · Taipei",
+      "themes": [
+        "coding",
+        "games"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "1–3 de primaria.",
+      "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "confirmed_instruction_languages": [],
+      "programme": "Programación visual en OctoStudio, personajes, animación e historias interactivas.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Clases 09:00–17:00. Llegada 08:30–09:00, recogida 17:00–17:30. Pausa 12:00–13:30.",
+        "sessions": [
+          [
+            "2027-02-01",
+            "2027-02-03"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-02-01",
+            "end": "2027-02-03",
+            "label": "OctoStudio · Creative Coding",
+            "source": "https://www.singularmaker.com.tw/article_d.php?id=1763&lang=tw&tb=12",
+            "price": "TWD 7200 hasta el 5 de diciembre, TWD 7800 hasta el 30 de diciembre, base TWD 8600. Por niño y turno.",
+            "place": "Singular Maker · 56 Nanjing East Road Sec. 5, 2F-1 · Songshan · Taipei",
+            "age": "1–3 de primaria.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Condicional. Confirmar edad del grupo concreto y plaza."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Condicional. Confirmar edad del grupo concreto y plaza."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-02-01",
+                "topic": "Programación visual en OctoStudio, personajes, animación e historias interactivas.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-02",
+                "topic": "Programación visual en OctoStudio, personajes, animación e historias interactivas.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-03",
+                "topic": "Programación visual en OctoStudio, personajes, animación e historias interactivas.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar disponibilidad y admisión."
+            }
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "TWD",
+        "amount": 7200,
+        "unit": "session",
+        "label": "TWD 7200 hasta el 5 de diciembre, TWD 7800 hasta el 30 de diciembre, base TWD 8600. Por niño y turno.",
+        "included": "Incluye clases, materiales y almuerzo.",
+        "extras": "Preparar una tableta compatible. Confirmar alquiler e instalación.",
+        "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      },
+      "accommodation": "Programa diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Confirmar edad del grupo concreto y plaza."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional. Confirmar edad del grupo concreto y plaza."
+        }
+      },
+      "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Confirmar equivalencia de curso, idioma del docente, plaza y condiciones de pago."
+      ],
+      "sources": [
+        {
+          "url": "https://www.singularmaker.com.tw/article_d.php?id=1763&lang=tw&tb=12",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "pairing": {
+        "venue_id": "singular-taipei-nanjing-56",
+        "verified_source": "https://www.singularmaker.com.tw/article_d.php?id=1763&lang=tw&tb=12",
+        "checked": "2026-11-06",
+        "fee": {
+          "amount": 7200,
+          "currency": "TWD",
+          "unit": "per_child_course"
+        }
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-02-01",
+          "end": "2027-02-03",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1745-20270201-20270203"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1746",
+      "slug": "singular-human-taipei-winter-2027",
+      "provider": "Singular Maker · Humanoid Robot Makers",
+      "country": "Taiwán",
+      "iso": "TWN",
+      "place": "Singular Maker · 56 Nanjing East Road Sec. 5, 2F-1 · Songshan · Taipei",
+      "themes": [
+        "robotics",
+        "makers",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "3.º de primaria a 1.º de secundaria.",
+      "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "confirmed_instruction_languages": [],
+      "programme": "Diseño 3D de carcasa, montaje de robot bípedo, ajuste de articulaciones, luces y mando.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Clases 09:00–17:00. Llegada 08:30–09:00, recogida 17:00–17:30. Pausa 12:00–13:30.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Humanoid Robot Makers",
+            "source": "https://www.singularmaker.com.tw/article_d.php?id=1713&lang=tw&tb=1",
+            "price": "TWD 12000 hasta el 5 de diciembre, TWD 13500 hasta el 30 de diciembre, base TWD 15500. Por niño y turno.",
+            "place": "Singular Maker · 56 Nanjing East Road Sec. 5, 2F-1 · Songshan · Taipei",
+            "age": "3.º de primaria a 1.º de secundaria.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Condicional. Confirmar edad del grupo concreto y plaza."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Por debajo del curso escolar publicado."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "topic": "Diseño 3D de carcasa, montaje de robot bípedo, ajuste de articulaciones, luces y mando.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-26",
+                "topic": "Diseño 3D de carcasa, montaje de robot bípedo, ajuste de articulaciones, luces y mando.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-27",
+                "topic": "Diseño 3D de carcasa, montaje de robot bípedo, ajuste de articulaciones, luces y mando.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-28",
+                "topic": "Diseño 3D de carcasa, montaje de robot bípedo, ajuste de articulaciones, luces y mando.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-29",
+                "topic": "Diseño 3D de carcasa, montaje de robot bípedo, ajuste de articulaciones, luces y mando.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar disponibilidad y admisión."
+            }
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "TWD",
+        "amount": 12000,
+        "unit": "session",
+        "label": "TWD 12000 hasta el 5 de diciembre, TWD 13500 hasta el 30 de diciembre, base TWD 15500. Por niño y turno.",
+        "included": "Incluye materiales del robot y almuerzo. El niño se lleva el robot montado.",
+        "extras": "Se recomienda portátil propio con cargador. Consultar alquiler con antelación si hace falta.",
+        "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      },
+      "accommodation": "Programa diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Confirmar edad del grupo concreto y plaza."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Por debajo del curso escolar publicado."
+        }
+      },
+      "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Confirmar equivalencia de curso, idioma del docente, plaza y condiciones de pago."
+      ],
+      "sources": [
+        {
+          "url": "https://www.singularmaker.com.tw/article_d.php?id=1713&lang=tw&tb=1",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "pairing": {
+        "venue_id": "singular-taipei-nanjing-56",
+        "verified_source": "https://www.singularmaker.com.tw/article_d.php?id=1713&lang=tw&tb=1",
+        "checked": "2026-11-06",
+        "fee": {
+          "amount": 12000,
+          "currency": "TWD",
+          "unit": "per_child_course"
+        }
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1746-20270125-20270129"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1747",
+      "slug": "singular-quad-taipei-winter-2027",
+      "provider": "Singular Maker · Quadruped Robot Makers",
+      "country": "Taiwán",
+      "iso": "TWN",
+      "place": "Singular Maker · 56 Nanjing East Road Sec. 5, 2F-1 · Songshan · Taipei",
+      "themes": [
+        "robotics",
+        "makers",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "3.º de primaria a 1.º de secundaria.",
+      "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "confirmed_instruction_languages": [],
+      "programme": "Impresión 3D, LED, PWM, servomotores, Blockly y ajuste de marcha del robot cuadrúpedo.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Clases 09:00–17:00. Llegada 08:30–09:00, recogida 17:00–17:30. Pausa 12:00–13:30.",
+        "sessions": [
+          [
+            "2027-02-01",
+            "2027-02-03"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-02-01",
+            "end": "2027-02-03",
+            "label": "Quadruped Robot Makers",
+            "source": "https://www.singularmaker.com.tw/article_d.php?lang=tw&tb=1&id=1723",
+            "price": "TWD 9600 hasta el 5 de diciembre, TWD 10000 hasta el 30 de diciembre, base TWD 10500. Por niño y turno.",
+            "place": "Singular Maker · 56 Nanjing East Road Sec. 5, 2F-1 · Songshan · Taipei",
+            "age": "3.º de primaria a 1.º de secundaria.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Condicional. Confirmar edad del grupo concreto y plaza."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Por debajo del curso escolar publicado."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-02-01",
+                "topic": "Impresión 3D, LED, PWM, servomotores, Blockly y ajuste de marcha del robot cuadrúpedo.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-02",
+                "topic": "Impresión 3D, LED, PWM, servomotores, Blockly y ajuste de marcha del robot cuadrúpedo.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-03",
+                "topic": "Impresión 3D, LED, PWM, servomotores, Blockly y ajuste de marcha del robot cuadrúpedo.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar disponibilidad y admisión."
+            }
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "TWD",
+        "amount": 9600,
+        "unit": "session",
+        "label": "TWD 9600 hasta el 5 de diciembre, TWD 10000 hasta el 30 de diciembre, base TWD 10500. Por niño y turno.",
+        "included": "Incluye materiales del robot y almuerzo. El niño se lleva el robot montado.",
+        "extras": "Se recomienda portátil propio con cargador. Consultar alquiler con antelación si hace falta.",
+        "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      },
+      "accommodation": "Programa diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Confirmar edad del grupo concreto y plaza."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Por debajo del curso escolar publicado."
+        }
+      },
+      "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Confirmar equivalencia de curso, idioma del docente, plaza y condiciones de pago."
+      ],
+      "sources": [
+        {
+          "url": "https://www.singularmaker.com.tw/article_d.php?lang=tw&tb=1&id=1723",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "pairing": {
+        "venue_id": "singular-taipei-nanjing-56",
+        "verified_source": "https://www.singularmaker.com.tw/article_d.php?lang=tw&tb=1&id=1723",
+        "checked": "2026-11-06",
+        "fee": {
+          "amount": 9600,
+          "currency": "TWD",
+          "unit": "per_child_course"
+        }
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-02-01",
+          "end": "2027-02-03",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1747-20270201-20270203"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1748",
+      "slug": "singular-minecraft-taipei-winter-2027",
+      "provider": "Singular Maker · Minecraft · Beginner Adventure",
+      "country": "Taiwán",
+      "iso": "TWN",
+      "place": "Singular Maker · 56 Nanjing East Road Sec. 5, 2F-1 · Songshan · Taipei",
+      "themes": [
+        "games",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "3.º de primaria a 1.º de secundaria.",
+      "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "confirmed_instruction_languages": [],
+      "programme": "Minecraft, programación visual y retos de lógica de mesa.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Clases 09:00–17:00. Llegada 08:30–09:00, recogida 17:00–17:30. Pausa 12:00–13:30.",
+        "sessions": [
+          [
+            "2027-02-01",
+            "2027-02-03"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-02-01",
+            "end": "2027-02-03",
+            "label": "Minecraft · Beginner Adventure",
+            "source": "https://www.singularmaker.com.tw/article_d.php?id=1703&lang=tw&tb=1",
+            "price": "TWD 7500 hasta el 5 de diciembre, TWD 8000 hasta el 30 de diciembre, base TWD 8800. Por niño y turno.",
+            "place": "Singular Maker · 56 Nanjing East Road Sec. 5, 2F-1 · Songshan · Taipei",
+            "age": "3.º de primaria a 1.º de secundaria.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Condicional. Confirmar edad del grupo concreto y plaza."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Por debajo del curso escolar publicado."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-02-01",
+                "topic": "Minecraft, programación visual y retos de lógica de mesa.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-02",
+                "topic": "Minecraft, programación visual y retos de lógica de mesa.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-03",
+                "topic": "Minecraft, programación visual y retos de lógica de mesa.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar disponibilidad y admisión."
+            }
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "TWD",
+        "amount": 7500,
+        "unit": "session",
+        "label": "TWD 7500 hasta el 5 de diciembre, TWD 8000 hasta el 30 de diciembre, base TWD 8800. Por niño y turno.",
+        "included": "Incluye clases, materiales y almuerzo.",
+        "extras": "Se recomienda portátil propio con cargador. Consultar alquiler con antelación si hace falta.",
+        "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      },
+      "accommodation": "Programa diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Confirmar edad del grupo concreto y plaza."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Por debajo del curso escolar publicado."
+        }
+      },
+      "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Confirmar equivalencia de curso, idioma del docente, plaza y condiciones de pago."
+      ],
+      "sources": [
+        {
+          "url": "https://www.singularmaker.com.tw/article_d.php?id=1703&lang=tw&tb=1",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "pairing": {
+        "venue_id": "singular-taipei-nanjing-56",
+        "verified_source": "https://www.singularmaker.com.tw/article_d.php?id=1703&lang=tw&tb=1",
+        "checked": "2026-11-06",
+        "fee": {
+          "amount": 7500,
+          "currency": "TWD",
+          "unit": "per_child_course"
+        }
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-02-01",
+          "end": "2027-02-03",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1748-20270201-20270203"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1749",
+      "slug": "singular-roblox-taipei-winter-2027",
+      "provider": "Singular Maker · Roblox · Luau Game Creation",
+      "country": "Taiwán",
+      "iso": "TWN",
+      "place": "Singular Maker · 56 Nanjing East Road Sec. 5, 2F-1 · Songshan · Taipei",
+      "themes": [
+        "games",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "4.º de primaria a 2.º de secundaria.",
+      "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "confirmed_instruction_languages": [],
+      "programme": "Roblox Studio, creación de juegos y programación en Luau.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Clases 09:00–17:00. Llegada 08:30–09:00, recogida 17:00–17:30. Pausa 12:00–13:30.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Roblox · Luau Game Creation",
+            "source": "https://www.singularmaker.com.tw/article_d.php?id=1698&lang=tw&tb=1",
+            "price": "TWD 10500 hasta el 5 de diciembre, TWD 12000 hasta el 30 de diciembre, base TWD 14000. Por niño y turno.",
+            "place": "Singular Maker · 56 Nanjing East Road Sec. 5, 2F-1 · Songshan · Taipei",
+            "age": "4.º de primaria a 2.º de secundaria.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Condicional. Confirmar edad del grupo concreto y plaza."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Por debajo del curso escolar publicado."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "topic": "Roblox Studio, creación de juegos y programación en Luau.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-26",
+                "topic": "Roblox Studio, creación de juegos y programación en Luau.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-27",
+                "topic": "Roblox Studio, creación de juegos y programación en Luau.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-28",
+                "topic": "Roblox Studio, creación de juegos y programación en Luau.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-29",
+                "topic": "Roblox Studio, creación de juegos y programación en Luau.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar disponibilidad y admisión."
+            }
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "TWD",
+        "amount": 10500,
+        "unit": "session",
+        "label": "TWD 10500 hasta el 5 de diciembre, TWD 12000 hasta el 30 de diciembre, base TWD 14000. Por niño y turno.",
+        "included": "Incluye clases, materiales y almuerzo.",
+        "extras": "Se recomienda portátil propio con cargador. Consultar alquiler con antelación si hace falta.",
+        "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      },
+      "accommodation": "Programa diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Confirmar edad del grupo concreto y plaza."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Por debajo del curso escolar publicado."
+        }
+      },
+      "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Confirmar equivalencia de curso, idioma del docente, plaza y condiciones de pago."
+      ],
+      "sources": [
+        {
+          "url": "https://www.singularmaker.com.tw/article_d.php?id=1698&lang=tw&tb=1",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "pairing": {
+        "venue_id": "singular-taipei-nanjing-56",
+        "verified_source": "https://www.singularmaker.com.tw/article_d.php?id=1698&lang=tw&tb=1",
+        "checked": "2026-11-06",
+        "fee": {
+          "amount": 10500,
+          "currency": "TWD",
+          "unit": "per_child_course"
+        }
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1749-20270125-20270129"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1750",
+      "slug": "singular-scratch-taipei-winter-2027",
+      "provider": "Singular Maker · Canva × Scratch · Game Design",
+      "country": "Taiwán",
+      "iso": "TWN",
+      "place": "Singular Maker · 56 Nanjing East Road Sec. 5, 2F-1 · Songshan · Taipei",
+      "themes": [
+        "games",
+        "coding",
+        "ai"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "4.º de primaria a 2.º de secundaria.",
+      "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
+      "confirmed_instruction_languages": [],
+      "programme": "Diseño digital con Canva y creación de juegos con Scratch. Incluye herramientas de IA para clase.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Clases 09:00–17:00. Llegada 08:30–09:00, recogida 17:00–17:30. Pausa 12:00–13:30.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Canva × Scratch · Game Design",
+            "source": "https://www.singularmaker.com.tw/article_d.php?id=1728&lang=tw&tb=1",
+            "price": "TWD 10800 hasta el 5 de diciembre, TWD 12000 hasta el 30 de diciembre, base TWD 14000. Por niño y turno.",
+            "place": "Singular Maker · 56 Nanjing East Road Sec. 5, 2F-1 · Songshan · Taipei",
+            "age": "4.º de primaria a 2.º de secundaria.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Condicional. Confirmar edad del grupo concreto y plaza."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Por debajo del curso escolar publicado."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "topic": "Diseño digital con Canva y creación de juegos con Scratch. Incluye herramientas de IA para clase.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-26",
+                "topic": "Diseño digital con Canva y creación de juegos con Scratch. Incluye herramientas de IA para clase.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-27",
+                "topic": "Diseño digital con Canva y creación de juegos con Scratch. Incluye herramientas de IA para clase.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-28",
+                "topic": "Diseño digital con Canva y creación de juegos con Scratch. Incluye herramientas de IA para clase.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-29",
+                "topic": "Diseño digital con Canva y creación de juegos con Scratch. Incluye herramientas de IA para clase.",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar disponibilidad y admisión."
+            }
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "TWD",
+        "amount": 10800,
+        "unit": "session",
+        "label": "TWD 10800 hasta el 5 de diciembre, TWD 12000 hasta el 30 de diciembre, base TWD 14000. Por niño y turno.",
+        "included": "Incluye clases, materiales y almuerzo.",
+        "extras": "Se recomienda portátil propio con cargador. Consultar alquiler con antelación si hace falta.",
+        "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      },
+      "accommodation": "Programa diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Confirmar edad del grupo concreto y plaza."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Por debajo del curso escolar publicado."
+        }
+      },
+      "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Confirmar equivalencia de curso, idioma del docente, plaza y condiciones de pago."
+      ],
+      "sources": [
+        {
+          "url": "https://www.singularmaker.com.tw/article_d.php?id=1728&lang=tw&tb=1",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "pairing": {
+        "venue_id": "singular-taipei-nanjing-56",
+        "verified_source": "https://www.singularmaker.com.tw/article_d.php?id=1728&lang=tw&tb=1",
+        "checked": "2026-11-06",
+        "fee": {
+          "amount": 10800,
+          "currency": "TWD",
+          "unit": "per_child_course"
+        }
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1750-20270125-20270129"
+          ]
+        }
+      ]
     }
   ],
   "gaps": [
@@ -297073,7 +298303,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 224,
+  "version": 225,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -310308,7 +311538,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1742,
+      "total_dossiers": 1750,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -329478,6 +330708,46 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP1743",
+      "event_id": "CP1743-20261214-20261217",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1744",
+      "event_id": "CP1744-20270125-20270129",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1745",
+      "event_id": "CP1745-20270201-20270203",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1746",
+      "event_id": "CP1746-20270125-20270129",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1747",
+      "event_id": "CP1747-20270201-20270203",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1748",
+      "event_id": "CP1748-20270201-20270203",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1749",
+      "event_id": "CP1749-20270125-20270129",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1750",
+      "event_id": "CP1750-20270125-20270129",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -333556,10 +334826,18 @@
     "CP1740-20261221-20261224",
     "CP1740-20261228-20261231",
     "CP1741-20261221-20261224",
-    "CP1741-20261228-20261231"
+    "CP1741-20261228-20261231",
+    "CP1743-20261214-20261217",
+    "CP1744-20270125-20270129",
+    "CP1745-20270201-20270203",
+    "CP1746-20270125-20270129",
+    "CP1747-20270201-20270203",
+    "CP1748-20270201-20270203",
+    "CP1749-20270125-20270129",
+    "CP1750-20270125-20270129"
   ],
   "integration": {
-    "generated_sessions": 3648,
+    "generated_sessions": 3656,
     "reused_legacy_events": 69,
     "seasonal_windows": 66,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

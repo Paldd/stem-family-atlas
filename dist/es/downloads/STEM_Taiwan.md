@@ -3161,6 +3161,97 @@ Limitaciones: Matvey: Encaja en el rango escolar si se confirman grado e idioma.
 Fuente: https://www.huhu.com.tw/tw/course/show.aspx?num=91&kind=26&page=1
 Se ha comprobado: 2026-11-07
 
+### CP1744-20270125-20270129 · Singular Maker · VR & ScratchJr · VR & ScratchJr · 2027-01-25–2027-01-29
+
+Fecha: 2027-01-25 国 2027-01-29
+edad: Último curso de infantil a 3.º de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · TWD 10200 hasta el 5 de diciembre, TWD 11500 hasta el 30 de diciembre, base TWD 13800. Por niño y turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Condicional. Confirmar edad del grupo concreto y plaza. Oscar: Condicional. Confirmar edad del grupo concreto y plaza. Suplementos: Preparar una tableta compatible. Confirmar alquiler e instalación. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.singularmaker.com.tw/article_d.php?id=1688&lang=tw&tb=1
+Se ha comprobado: 2026-11-07
+
+### CP1745-20270201-20270203 · Singular Maker · OctoStudio · Creative Coding · OctoStudio · Creative Coding · 2027-02-01–2027-02-03
+
+Fecha: 2027-02-01 国 2027-02-03
+Edad: Grados 1–3 de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · TWD 7200 hasta el 5 de diciembre, TWD 7800 hasta el 30 de diciembre, base TWD 8600. Por niño y turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Condicional. Confirmar edad del grupo concreto y plaza. Oscar: Condicional. Confirmar edad del grupo concreto y plaza. Suplementos: Preparar una tableta compatible. Confirmar alquiler e instalación. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.singularmaker.com.tw/article_d.php?id=1763&lang=tw&tb=12
+Se ha comprobado: 2026-11-07
+
+### CP1746-20270125-20270129 · Singular Maker · Humanoid Robot Makers · Humanoid Robot Makers · 2027-01-25–2027-01-29
+
+Fecha: 2027-01-25 国 2027-01-29
+edad: 3.º de primaria a 1.º de secundaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · TWD 12000 hasta el 5 de diciembre, TWD 13500 hasta el 30 de diciembre, base TWD 15500. Por niño y turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Condicional. Confirmar edad del grupo concreto y plaza. Oscar: Por debajo del curso escolar publicado. Suplementos: Se recomienda portátil propio con cargador. Consultar alquiler con antelación si hace falta. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.singularmaker.com.tw/article_d.php?id=1713&lang=tw&tb=1
+Se ha comprobado: 2026-11-07
+
+### CP1747-20270201-20270203 · Singular Maker · Quadruped Robot Makers · Quadruped Robot Makers · 2027-02-01–2027-02-03
+
+Fecha: 2027-02-01 国 2027-02-03
+edad: 3.º de primaria a 1.º de secundaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · TWD 9600 hasta el 5 de diciembre, TWD 10000 hasta el 30 de diciembre, base TWD 10500. Por niño y turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Condicional. Confirmar edad del grupo concreto y plaza. Oscar: Por debajo del curso escolar publicado. Suplementos: Se recomienda portátil propio con cargador. Consultar alquiler con antelación si hace falta. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.singularmaker.com.tw/article_d.php?lang=tw&tb=1&id=1723
+Se ha comprobado: 2026-11-07
+
+### CP1748-20270201-20270203 · Singular Maker · Minecraft · Beginner Adventure · Minecraft · Beginner Adventure · 2027-02-01–2027-02-03
+
+Fecha: 2027-02-01 国 2027-02-03
+edad: 3.º de primaria a 1.º de secundaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · TWD 7500 hasta el 5 de diciembre, TWD 8000 hasta el 30 de diciembre, base TWD 8800. Por niño y turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Condicional. Confirmar edad del grupo concreto y plaza. Oscar: Por debajo del curso escolar publicado. Suplementos: Se recomienda portátil propio con cargador. Consultar alquiler con antelación si hace falta. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.singularmaker.com.tw/article_d.php?id=1703&lang=tw&tb=1
+Se ha comprobado: 2026-11-07
+
+### CP1749-20270125-20270129 · Singular Maker · Roblox · Luau Game Creation · Roblox · Luau Game Creation · 2027-01-25–2027-01-29
+
+Fecha: 2027-01-25 国 2027-01-29
+edad: 4.º de primaria a 2.º de secundaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · TWD 10500 hasta el 5 de diciembre, TWD 12000 hasta el 30 de diciembre, base TWD 14000. Por niño y turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Condicional. Confirmar edad del grupo concreto y plaza. Oscar: Por debajo del curso escolar publicado. Suplementos: Se recomienda portátil propio con cargador. Consultar alquiler con antelación si hace falta. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.singularmaker.com.tw/article_d.php?id=1698&lang=tw&tb=1
+Se ha comprobado: 2026-11-07
+
+### CP1750-20270125-20270129 · Singular Maker · Canva × Scratch · Game Design · Canva × Scratch · Game Design · 2027-01-25–2027-01-29
+
+Fecha: 2027-01-25 国 2027-01-29
+edad: 4.º de primaria a 2.º de secundaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · TWD 10800 hasta el 5 de diciembre, TWD 12000 hasta el 30 de diciembre, base TWD 14000. Por niño y turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Condicional. Confirmar edad del grupo concreto y plaza. Oscar: Por debajo del curso escolar publicado. Suplementos: Se recomienda portátil propio con cargador. Consultar alquiler con antelación si hace falta. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.singularmaker.com.tw/article_d.php?id=1728&lang=tw&tb=1
+Se ha comprobado: 2026-11-07
+
 ## ~ Comprobar de nuevo
 
 - The Grove: edad de ambos niños, acogida y apoyo extranjeros sin necesidad de chino.

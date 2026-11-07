@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 7931,
-    "competition_cards": 3248,
-    "event_cards": 379,
-    "camp_cards": 4304,
-    "league_profiles": 269,
-    "major_exhibition_cards": 291,
+    "cards": 7963,
+    "competition_cards": 3271,
+    "event_cards": 380,
+    "camp_cards": 4312,
+    "league_profiles": 270,
+    "major_exhibition_cards": 292,
     "vex_cards": 518,
     "countries_with_records": 159,
     "fully_audited_countries": 0
@@ -90,12 +90,12 @@
       "regions": [
         "Asia"
       ],
-      "total": 2450,
+      "total": 2482,
       "countries_with_records": 44,
-      "competitions": 801,
-      "events": 107,
-      "major_exhibitions": 95,
-      "camps": 1542,
+      "competitions": 824,
+      "events": 108,
+      "major_exhibitions": 96,
+      "camps": 1550,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido India camp candidates y las primeras rutas de Pakistán / Bangladesh / Sri Lanka. no todos los nacionales calificados, las lenguas y la admisión extranjera están cerrados; otros países asiáticos han sido parcialmente investigados."
     },
@@ -2171,11 +2171,27 @@
       "name": "RobotChallenge",
       "group": "international",
       "event_ids": [
-        "C056"
+        "C056",
+        "C3250",
+        "C3251",
+        "C3252",
+        "C3253",
+        "C3254",
+        "C3255",
+        "C3256",
+        "C3257",
+        "C3258",
+        "C3259",
+        "C3260",
+        "C3261",
+        "C3262",
+        "C3263",
+        "C3264",
+        "C3265"
       ],
-      "cards": 1,
-      "future_dated": 0,
-      "linked_card_count": 1,
+      "cards": 17,
+      "future_dated": 13,
+      "linked_card_count": 17,
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://www.robotchallenge.org.cn/competition-RobotSumo.html",
       "new": false
@@ -6094,6 +6110,26 @@
       "linked_card_count": 11,
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://www.flluae.org/",
+      "new": false
+    },
+    {
+      "id": "astanatechcup-2027",
+      "name": "AstanaTechCup · Kazakhstan 2027",
+      "group": "regional",
+      "event_ids": [
+        "C3266",
+        "C3267",
+        "C3268",
+        "C3269",
+        "C3270",
+        "C3271",
+        "C3272"
+      ],
+      "cards": 7,
+      "future_dated": 7,
+      "linked_card_count": 7,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://astanatechcup.kz/ru",
       "new": false
     },
     {
@@ -10323,6 +10359,17 @@
       "new": false
     },
     {
+      "id": "E380",
+      "name": "Alem Tech Fest 2027 · Expo & Hour of AI",
+      "country": "Kazajistán",
+      "region": "Asia",
+      "start": "2027-02-18",
+      "end": "2027-02-21",
+      "visitor_policy": "family",
+      "source": "https://alemtechfest.kz/en/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -12740,14 +12787,14 @@
       }
     ],
     "counts": {
-      "records": 4304,
-      "holiday": 4029,
+      "records": 4312,
+      "holiday": 4037,
       "regular": 120,
       "self_paced_materials": 2,
       "boarding": 1036,
-      "en_es_instruction": 1413,
+      "en_es_instruction": 1414,
       "en_es_support": 12,
-      "family_instruction": 1413,
+      "family_instruction": 1414,
       "family_support": 12,
       "ru_instruction": 4,
       "language_lessons": 410,

@@ -71,6 +71,10 @@ def enrich_v165(d):
   if stage=='off_season':fields['entry']+=T(' Off-season — практика; национальная квота из такого старта не установлена.',
    ' Off-season es práctica; sin acreditar cupo nacional desde este evento.')
   e=ev(d,r['id'],r['name']+' · '+r['programme'],r['iso'],FIRST,r['start'],r['end'],**fields)
+  # The archived fixture snapshot supplies defaults for newer verified records.
+  current=byid.get(r['id'])
+  if current and current.get('checked','')>CHECKED:
+   e.update(current)
   if r['id'] in ['C874','C875']:byid[r['id']].update(e)
   else:new.append(e)
  rgt_common=dict(source=RGT,checked=CHECKED,provider='Robotek / MARC',city=T('Астана','Astana'),language=LANG,language_certainty=LANG,cost=PRICE,

@@ -3635,7 +3635,23 @@
           }
         ],
         "event_ids": [
-          "C056"
+          "C056",
+          "C3250",
+          "C3251",
+          "C3252",
+          "C3253",
+          "C3254",
+          "C3255",
+          "C3256",
+          "C3257",
+          "C3258",
+          "C3259",
+          "C3260",
+          "C3261",
+          "C3262",
+          "C3263",
+          "C3264",
+          "C3265"
         ],
         "legacy_ids": [
           "C056"
@@ -3660,6 +3676,16 @@
             "title": "fuente oficial C056",
             "url": "https://www.robotchallenge.org.cn/competition-RobotSumo.html",
             "checked": "2026-09-29"
+          },
+          {
+            "url": "https://shanghairobotchallenge.com/",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://shanghairobotchallenge.com/docs/SRC-Competition-Plan.pdf",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
           }
         ],
         "evidence": "una revisión de las tarjetas verificadas anteriormente; las limitaciones de cada plataforma se han conservado."
@@ -19798,6 +19824,100 @@
         "evidence": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado."
       },
       {
+        "id": "astanatechcup-2027",
+        "name": "AstanaTechCup · Kazakhstan 2027",
+        "group": "regional",
+        "age_summary": "6–18 · VEX 9–15",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Campeonato nacional de Kazajistán. Seis disciplinas, solicitud general y rangos de edad separados.",
+        "categories": [
+          {
+            "name": "RoboSumo",
+            "age": "6–18",
+            "team": "Participación por equipos mediante colegio o club. Verificar edad y composición por disciplina.",
+            "hardware": "Categorías de peso y composición del equipo pendientes.",
+            "age_rule": "Categorías escolares y universitarias. Límite inferior según la ficha de la disciplina.",
+            "entry": "Condicional. La solicitud exige colegio o club y región de Kazajistán. Confirmar admisión de equipos extranjeros e idioma de evaluación."
+          },
+          {
+            "name": "VEX",
+            "age": "9–15",
+            "team": "Participación por equipos mediante colegio o club. Verificar edad y composición por disciplina.",
+            "hardware": "Plataforma VEX exacta y reglas de juego en el reglamento.",
+            "age_rule": "Categorías escolares y universitarias. Límite inferior según la ficha de la disciplina.",
+            "entry": "Condicional. La solicitud exige colegio o club y región de Kazajistán. Confirmar admisión de equipos extranjeros e idioma de evaluación."
+          },
+          {
+            "name": "LEGO",
+            "age": "6–18",
+            "team": "Participación por equipos mediante colegio o club. Verificar edad y composición por disciplina.",
+            "hardware": "Kits oficiales LEGO. Consultar límites exactos en el reglamento.",
+            "age_rule": "Categorías escolares y universitarias. Límite inferior según la ficha de la disciplina.",
+            "entry": "Condicional. La solicitud exige colegio o club y región de Kazajistán. Confirmar admisión de equipos extranjeros e idioma de evaluación."
+          },
+          {
+            "name": "Arduino",
+            "age": "6–18",
+            "team": "Participación por equipos mediante colegio o club. Verificar edad y composición por disciplina.",
+            "hardware": "Circuitos, sensores, soldadura y código en microcontrolador.",
+            "age_rule": "Categorías escolares y universitarias. Límite inferior según la ficha de la disciplina.",
+            "entry": "Condicional. La solicitud exige colegio o club y región de Kazajistán. Confirmar admisión de equipos extranjeros e idioma de evaluación."
+          },
+          {
+            "name": "Drones",
+            "age": "6–18",
+            "team": "Participación por equipos mediante colegio o club. Verificar edad y composición por disciplina.",
+            "hardware": "Pilotaje y tareas de vuelo autónomo.",
+            "age_rule": "Categorías escolares y universitarias. Límite inferior según la ficha de la disciplina.",
+            "entry": "Condicional. La solicitud exige colegio o club y región de Kazajistán. Confirmar admisión de equipos extranjeros e idioma de evaluación."
+          },
+          {
+            "name": "Esports",
+            "age": "6–18",
+            "team": "Participación por equipos mediante colegio o club. Verificar edad y composición por disciplina.",
+            "hardware": "Fase de grupos y eliminatorias. Confirmar juegos, clasificación por edad y cuadro.",
+            "age_rule": "Categorías escolares y universitarias. Límite inferior según la ficha de la disciplina.",
+            "entry": "Condicional. La solicitud exige colegio o club y región de Kazajistán. Confirmar admisión de equipos extranjeros e idioma de evaluación."
+          }
+        ],
+        "event_ids": [
+          "C3266",
+          "C3267",
+          "C3268",
+          "C3269",
+          "C3270",
+          "C3271",
+          "C3272"
+        ],
+        "legacy_ids": [],
+        "route": "Condicional. La solicitud exige colegio o club y región de Kazajistán. Confirmar admisión de equipos extranjeros e idioma de evaluación.",
+        "hardware": "Campeonato nacional de Kazajistán. Seis disciplinas, solicitud general y rangos de edad separados.",
+        "language": "Confirmar el idioma del grupo o sede concretos.",
+        "importance": "Programa nacional",
+        "strengths": "Campeonato nacional de Kazajistán. Seis disciplinas, solicitud general y rangos de edad separados.",
+        "requirements": [
+          "Condicional. La solicitud exige colegio o club y región de Kazajistán. Confirmar admisión de equipos extranjeros e idioma de evaluación."
+        ],
+        "nuances": [
+          "Fechas generales del 15–16 de mayo de 2027. Horarios, reglamento y acceso de espectadores pendientes. La organización describe una vía a RobotChallenge para los mejores. Confirmar plazas exactas y admisión."
+        ],
+        "cost": "USD 50 por equipo en la disciplina elegida. Solicitudes hasta el 30 de abril de 2027. Confirmar aceptación y factura final.",
+        "award": "Fechas generales del 15–16 de mayo de 2027. Horarios, reglamento y acceso de espectadores pendientes. La organización describe una vía a RobotChallenge para los mejores. Confirmar plazas exactas y admisión.",
+        "sources": [
+          {
+            "url": "https://astanatechcup.kz/ru",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          }
+        ],
+        "evidence": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado."
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · programa de ingeniería y showcase",
         "group": "regional",
@@ -25224,7 +25344,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "Perfiles de ligas, familias y programas: 269. Se conservan las 46 rutas anteriores. Los formatos brasileños están separados y Robofest LATAM y BajaBot se describen por categorías. La cobertura mundial es parcial.",
+    "methodology": "Perfiles de ligas, familias y programas: 270. Se conservan las 46 rutas anteriores. Los formatos brasileños están separados y Robofest LATAM y BajaBot se describen por categorías. La cobertura mundial es parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

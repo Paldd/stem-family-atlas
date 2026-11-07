@@ -67654,6 +67654,134 @@ Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e
 Fuente: https://inventor-camps.jumbula.com/WINTERCAMP20262027/InventorSTEMCampSeniorGroup912yo
 Se ha comprobado: 2026-11-07
 
+### CP1743-20261214-20261217 · Pilco Explorers · Ideas for the Future · 14–17 de diciembre de 2026, 10:00–16:00. Las familias llevan y recogen a los niños cada día. · 2026-12-14–2026-12-17
+
+lugar: China · WeWork Weihai · 696 Weihai Rd. · Jing’an · Shanghai
+Fecha: 2026-12-14 — 2026-12-17
+Edad: 7–11
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Todas las actividades y excursiones del programa se realizan en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · KRW 1280000 hasta el 15 de noviembre, precio normal KRW 1380000 por niño. Confirmar plaza y condiciones de pago. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada e inglés confirmado. Confirmar plaza. Oscar: Mínimo 7 años al inicio del turno. Suplementos: Vuelos, alojamiento y seguro aparte. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.pilcostudio.com/shanghai
+Se ha comprobado: 2026-11-07
+
+### CP1744-20270125-20270129 · Singular Maker · VR & ScratchJr · VR & ScratchJr · 2027-01-25–2027-01-29
+
+lugar: Taiwán · Singular Maker · 56 Nanjing East Road Sec. 5, 2F-1 · Songshan · Taipei
+Fecha: 2027-01-25 国 2027-01-29
+edad: Último curso de infantil a 3.º de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · TWD 10200 hasta el 5 de diciembre, TWD 11500 hasta el 30 de diciembre, base TWD 13800. Por niño y turno. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar edad del grupo concreto y plaza. Oscar: Condicional. Confirmar edad del grupo concreto y plaza. Suplementos: Preparar una tableta compatible. Confirmar alquiler e instalación. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.singularmaker.com.tw/article_d.php?id=1688&lang=tw&tb=1
+Se ha comprobado: 2026-11-07
+
+### CP1745-20270201-20270203 · Singular Maker · OctoStudio · Creative Coding · OctoStudio · Creative Coding · 2027-02-01–2027-02-03
+
+lugar: Taiwán · Singular Maker · 56 Nanjing East Road Sec. 5, 2F-1 · Songshan · Taipei
+Fecha: 2027-02-01 国 2027-02-03
+Edad: Grados 1–3 de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · TWD 7200 hasta el 5 de diciembre, TWD 7800 hasta el 30 de diciembre, base TWD 8600. Por niño y turno. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar edad del grupo concreto y plaza. Oscar: Condicional. Confirmar edad del grupo concreto y plaza. Suplementos: Preparar una tableta compatible. Confirmar alquiler e instalación. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.singularmaker.com.tw/article_d.php?id=1763&lang=tw&tb=12
+Se ha comprobado: 2026-11-07
+
+### CP1746-20270125-20270129 · Singular Maker · Humanoid Robot Makers · Humanoid Robot Makers · 2027-01-25–2027-01-29
+
+lugar: Taiwán · Singular Maker · 56 Nanjing East Road Sec. 5, 2F-1 · Songshan · Taipei
+Fecha: 2027-01-25 国 2027-01-29
+edad: 3.º de primaria a 1.º de secundaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · TWD 12000 hasta el 5 de diciembre, TWD 13500 hasta el 30 de diciembre, base TWD 15500. Por niño y turno. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar edad del grupo concreto y plaza. Oscar: Por debajo del curso escolar publicado. Suplementos: Se recomienda portátil propio con cargador. Consultar alquiler con antelación si hace falta. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.singularmaker.com.tw/article_d.php?id=1713&lang=tw&tb=1
+Se ha comprobado: 2026-11-07
+
+### CP1747-20270201-20270203 · Singular Maker · Quadruped Robot Makers · Quadruped Robot Makers · 2027-02-01–2027-02-03
+
+lugar: Taiwán · Singular Maker · 56 Nanjing East Road Sec. 5, 2F-1 · Songshan · Taipei
+Fecha: 2027-02-01 国 2027-02-03
+edad: 3.º de primaria a 1.º de secundaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · TWD 9600 hasta el 5 de diciembre, TWD 10000 hasta el 30 de diciembre, base TWD 10500. Por niño y turno. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar edad del grupo concreto y plaza. Oscar: Por debajo del curso escolar publicado. Suplementos: Se recomienda portátil propio con cargador. Consultar alquiler con antelación si hace falta. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.singularmaker.com.tw/article_d.php?lang=tw&tb=1&id=1723
+Se ha comprobado: 2026-11-07
+
+### CP1748-20270201-20270203 · Singular Maker · Minecraft · Beginner Adventure · Minecraft · Beginner Adventure · 2027-02-01–2027-02-03
+
+lugar: Taiwán · Singular Maker · 56 Nanjing East Road Sec. 5, 2F-1 · Songshan · Taipei
+Fecha: 2027-02-01 国 2027-02-03
+edad: 3.º de primaria a 1.º de secundaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · TWD 7500 hasta el 5 de diciembre, TWD 8000 hasta el 30 de diciembre, base TWD 8800. Por niño y turno. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar edad del grupo concreto y plaza. Oscar: Por debajo del curso escolar publicado. Suplementos: Se recomienda portátil propio con cargador. Consultar alquiler con antelación si hace falta. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.singularmaker.com.tw/article_d.php?id=1703&lang=tw&tb=1
+Se ha comprobado: 2026-11-07
+
+### CP1749-20270125-20270129 · Singular Maker · Roblox · Luau Game Creation · Roblox · Luau Game Creation · 2027-01-25–2027-01-29
+
+lugar: Taiwán · Singular Maker · 56 Nanjing East Road Sec. 5, 2F-1 · Songshan · Taipei
+Fecha: 2027-01-25 国 2027-01-29
+edad: 4.º de primaria a 2.º de secundaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · TWD 10500 hasta el 5 de diciembre, TWD 12000 hasta el 30 de diciembre, base TWD 14000. Por niño y turno. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar edad del grupo concreto y plaza. Oscar: Por debajo del curso escolar publicado. Suplementos: Se recomienda portátil propio con cargador. Consultar alquiler con antelación si hace falta. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.singularmaker.com.tw/article_d.php?id=1698&lang=tw&tb=1
+Se ha comprobado: 2026-11-07
+
+### CP1750-20270125-20270129 · Singular Maker · Canva × Scratch · Game Design · Canva × Scratch · Game Design · 2027-01-25–2027-01-29
+
+lugar: Taiwán · Singular Maker · 56 Nanjing East Road Sec. 5, 2F-1 · Songshan · Taipei
+Fecha: 2027-01-25 国 2027-01-29
+edad: 4.º de primaria a 2.º de secundaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Idioma de enseñanza del grupo concreto aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · TWD 10800 hasta el 5 de diciembre, TWD 12000 hasta el 30 de diciembre, base TWD 14000. Por niño y turno. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar edad del grupo concreto y plaza. Oscar: Por debajo del curso escolar publicado. Suplementos: Se recomienda portátil propio con cargador. Consultar alquiler con antelación si hace falta. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.singularmaker.com.tw/article_d.php?id=1728&lang=tw&tb=1
+Se ha comprobado: 2026-11-07
+
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
 
 lugar: Letonia · EIS Campus · Piņķi

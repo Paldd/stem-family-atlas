@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 7931; competiciones: 3248; eventos: 379; campamentos / programas: 4304. Perfiles de ligas y programas: 269. Fichas de exposiciones grandes y especializadas: 291 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 7963; competiciones: 3271; eventos: 380; campamentos / programas: 4312. Perfiles de ligas y programas: 270. Fichas de exposiciones grandes y especializadas: 292 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros para 159 de 249 países y territorios. Países con auditoría completa: 0. La revisión histórica v51 agregó 21 fichas y 3 perfiles. Se conservaron las fichas previas.
 
@@ -18,12 +18,12 @@ Hay registros para 159 de 249 países y territorios. Países con auditoría comp
 | América del Sur | 10 | 204 | 19 | 142 |
 | Europa | 42 | 434 | 82 | 1327 |
 | África | 34 | 133 | 21 | 70 |
-| Asia | 44 | 801 | 95 | 1542 |
+| Asia | 44 | 824 | 96 | 1550 |
 | Oceanía | 6 | 128 | 19 | 134 |
 
 Fichas interregionales o globales sin continente único: 117. América del Norte incluye América Central y el Caribe. Las cifras muestran el inventario de la base y no un porcentaje de cobertura completa.
 
-VEX: 518 de 3248 fichas de competición (15.9%). Esto muestra un sesgo de cobertura.
+VEX: 518 de 3271 fichas de competición (15.8%). Esto muestra un sesgo de cobertura.
 
 ## Lo que queda
 
@@ -105,7 +105,7 @@ VEX: 518 de 3248 fichas de competición (15.9%). Esto muestra un sesgo de cobert
 - **RoboRAVE**: 20 fichas, 18 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.roboraveinternational.org/eventos
 - **Robofest · LTU**: 16 fichas, 11 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robofest.net/index.php/current-competitions/main-page
 - **Robotex International**: 2 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://robotex.international/lego-sumo
-- **RobotChallenge**: 1 tarjeta, 0 con fecha exacta en el futuro. https://www.robotchallenge.org.cn/competition-RobotSumo.html
+- **RobotChallenge**: 17 fichas, 13 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robotchallenge.org.cn/competition-RobotSumo.html
 - **ENJOY AI**: 4 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.enjoyaiglobal.org/
 - *Junior Botball Challenge**: 2 tarjetas, 1 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://www.kipr.org/junior-botball-challenge
 - **International Robot Olympiad**: 11 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.iroc.org/home?l=ko&s=10280
@@ -293,6 +293,7 @@ VEX: 518 de 3248 fichas de competición (15.9%). Esto muestra un sesgo de cobert
 - **ENJOY AI Korea**: 11 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://enjoyaikorea.org/en
 - **World Robot Contest Malaysia · IntelekEDU**: 2 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://intelek.edu.my/competitions/
 - **FIRST LEGO League UAE · BIOGLOW Founders 2026/27**: 11 fichas, 9 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.flluae.org/
+- **AstanaTechCup · Kazakhstan 2027**: 7 fichas, 7 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://astanatechcup.kz/ru
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 10 tarjetas, 0 con fechas exactas futuras. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -628,6 +629,7 @@ VEX: 518 de 3248 fichas de competición (15.9%). Esto muestra un sesgo de cobert
 - **CODE DXB 2027** — Emiratos Árabes Unidos; 2027-04-01 – 2027-04-02. el permiso de entrada de niños. https://www.codeexpodxb.com/faq
 - **COMEX Global Technology Show 2027** — Omán; 2027-02-01 – 2027-02-04. el permiso de entrada de niños. https://comex-global.com/
 - **Kuwait AI Summit 2027** — Kuwait; 2027-01-11 – 2027-01-12. el permiso de entrada de niños. https://www.kwaisummit.com/
+- **Alem Tech Fest 2027 · Expo & Hour of AI** — Kazajistán; 2027-02-18 – 2027-02-21. con un adulto; condiciones de admisión adulta por separado. https://alemtechfest.kz/en/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

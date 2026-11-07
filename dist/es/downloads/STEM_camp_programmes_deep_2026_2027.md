@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-07. 1742 dosieres en 102 países. Las fechas de verificación de cada fuente figuran en su dosier.
+Estado de la base: 2026-11-07. 1750 dosieres en 102 países. Las fechas de verificación de cada fuente figuran en su dosier.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -136771,6 +136771,520 @@ Omán · BlueBalloonia · Muscat
 ### Fuentes
 
 - [Página oficial del organizador](https://blueballoonia.com/blueballoonia-seasonal-camp-en/) · 2026-11-07
+
+## CP1743 · Pilco Explorers · Ideas for the Future
+
+China · WeWork Weihai · 696 Weihai Rd. · Jing’an · Shanghai
+
+**Se ha comprobado:** 2026-11-07
+
+**Edad:** 7–11
+
+**Idioma:** Todas las actividades y excursiones del programa se realizan en inglés.
+
+**Programa:** IA y robótica, visita al Shanghai Astronomy Museum, escritura creativa, arquitectura y sonidos de la ciudad. Grupo internacional de hasta 12 niños.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 14–17 de diciembre de 2026, 10:00–16:00. Las familias llevan y recogen a los niños cada día.
+
+**Precio / año:** 2026 · KRW 1280000 hasta el 15 de noviembre, precio normal KRW 1380000 por niño. Confirmar plaza y condiciones de pago.
+
+**Incluido:** Incluye materiales, excursiones, almuerzo y meriendas.
+
+**Suplementos:** Vuelos, alojamiento y seguro aparte.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Edad adecuada e inglés confirmado. Confirmar plaza.
+
+**Oscar:** Mínimo 7 años al inicio del turno.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### 14–17 de diciembre de 2026, 10:00–16:00. Las familias llevan y recogen a los niños cada día.
+
+**Fechas / estado:** 2026-12-14 — 2026-12-17
+
+**lugar:** WeWork Weihai · 696 Weihai Rd. · Jing’an · Shanghai
+
+**Edad:** 7–11
+
+**Precio:** KRW 1280000 hasta el 15 de noviembre, precio normal KRW 1380000 por niño. Confirmar plaza y condiciones de pago.
+
+- 2026-12-14 · 10:00–16:00 · Asia/Shanghai · IA y robótica, visita al Shanghai Astronomy Museum, escritura creativa, arquitectura y sonidos de la ciudad. Grupo internacional de hasta 12 niños.
+
+- 2026-12-15 · 10:00–16:00 · Asia/Shanghai · IA y robótica, visita al Shanghai Astronomy Museum, escritura creativa, arquitectura y sonidos de la ciudad. Grupo internacional de hasta 12 niños.
+
+- 2026-12-16 · 10:00–16:00 · Asia/Shanghai · IA y robótica, visita al Shanghai Astronomy Museum, escritura creativa, arquitectura y sonidos de la ciudad. Grupo internacional de hasta 12 niños.
+
+- 2026-12-17 · 10:00–16:00 · Asia/Shanghai · IA y robótica, visita al Shanghai Astronomy Museum, escritura creativa, arquitectura y sonidos de la ciudad. Grupo internacional de hasta 12 niños.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Edad adecuada e inglés confirmado. Confirmar plaza.
+
+**Oscar:** Mínimo 7 años al inicio del turno.
+
+[fuente](https://www.pilcostudio.com/shanghai)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.pilcostudio.com/shanghai) · 2026-11-07
+
+## CP1744 · Singular Maker · VR & ScratchJr
+
+Taiwán · Singular Maker · 56 Nanjing East Road Sec. 5, 2F-1 · Songshan · Taipei
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Último curso de infantil a 3.º de primaria.
+
+**Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar.
+
+**Programa:** ScratchJr, Bloxels, lógica de programación y VR.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Clases 09:00–17:00. Llegada 08:30–09:00, recogida 17:00–17:30. Pausa 12:00–13:30.
+
+**Precio / año:** 2027 · TWD 10200 hasta el 5 de diciembre, TWD 11500 hasta el 30 de diciembre, base TWD 13800. Por niño y turno.
+
+**Incluido:** Incluye clases, materiales y almuerzo.
+
+**Suplementos:** Preparar una tableta compatible. Confirmar alquiler e instalación.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Condicional. Confirmar edad del grupo concreto y plaza.
+
+**Oscar:** Condicional. Confirmar edad del grupo concreto y plaza.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar equivalencia de curso, idioma del docente, plaza y condiciones de pago.
+
+### VR & ScratchJr
+
+**Fechas / estado:** 2027-01-25 — 2027-01-29
+
+**lugar:** Singular Maker · 56 Nanjing East Road Sec. 5, 2F-1 · Songshan · Taipei
+
+**edad:** Último curso de infantil a 3.º de primaria.
+
+**Precio:** TWD 10200 hasta el 5 de diciembre, TWD 11500 hasta el 30 de diciembre, base TWD 13800. Por niño y turno.
+
+- 2027-01-25 · 09:00–17:00 · Asia/Taipei · ScratchJr, Bloxels, lógica de programación y VR.
+
+- 2027-01-26 · 09:00–17:00 · Asia/Taipei · ScratchJr, Bloxels, lógica de programación y VR.
+
+- 2027-01-27 · 09:00–17:00 · Asia/Taipei · ScratchJr, Bloxels, lógica de programación y VR.
+
+- 2027-01-28 · 09:00–17:00 · Asia/Taipei · ScratchJr, Bloxels, lógica de programación y VR.
+
+- 2027-01-29 · 09:00–17:00 · Asia/Taipei · ScratchJr, Bloxels, lógica de programación y VR.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Condicional. Confirmar edad del grupo concreto y plaza.
+
+**Oscar:** Condicional. Confirmar edad del grupo concreto y plaza.
+
+[fuente](https://www.singularmaker.com.tw/article_d.php?id=1688&lang=tw&tb=1)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.singularmaker.com.tw/article_d.php?id=1688&lang=tw&tb=1) · 2026-11-07
+
+## CP1745 · Singular Maker · OctoStudio · Creative Coding
+
+Taiwán · Singular Maker · 56 Nanjing East Road Sec. 5, 2F-1 · Songshan · Taipei
+
+**Se ha comprobado:** 2026-11-07
+
+**Edad:** Grados 1–3 de primaria.
+
+**Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar.
+
+**Programa:** Programación visual en OctoStudio, personajes, animación e historias interactivas.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Clases 09:00–17:00. Llegada 08:30–09:00, recogida 17:00–17:30. Pausa 12:00–13:30.
+
+**Precio / año:** 2027 · TWD 7200 hasta el 5 de diciembre, TWD 7800 hasta el 30 de diciembre, base TWD 8600. Por niño y turno.
+
+**Incluido:** Incluye clases, materiales y almuerzo.
+
+**Suplementos:** Preparar una tableta compatible. Confirmar alquiler e instalación.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Condicional. Confirmar edad del grupo concreto y plaza.
+
+**Oscar:** Condicional. Confirmar edad del grupo concreto y plaza.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar equivalencia de curso, idioma del docente, plaza y condiciones de pago.
+
+### OctoStudio · Creative Coding
+
+**Fechas / estado:** 2027-02-01 — 2027-02-03
+
+**lugar:** Singular Maker · 56 Nanjing East Road Sec. 5, 2F-1 · Songshan · Taipei
+
+**Edad:** Grados 1–3 de primaria.
+
+**Precio:** TWD 7200 hasta el 5 de diciembre, TWD 7800 hasta el 30 de diciembre, base TWD 8600. Por niño y turno.
+
+- 2027-02-01 · 09:00–17:00 · Asia/Taipei · Programación visual en OctoStudio, personajes, animación e historias interactivas.
+
+- 2027-02-02 · 09:00–17:00 · Asia/Taipei · Programación visual en OctoStudio, personajes, animación e historias interactivas.
+
+- 2027-02-03 · 09:00–17:00 · Asia/Taipei · Programación visual en OctoStudio, personajes, animación e historias interactivas.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Condicional. Confirmar edad del grupo concreto y plaza.
+
+**Oscar:** Condicional. Confirmar edad del grupo concreto y plaza.
+
+[fuente](https://www.singularmaker.com.tw/article_d.php?id=1763&lang=tw&tb=12)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.singularmaker.com.tw/article_d.php?id=1763&lang=tw&tb=12) · 2026-11-07
+
+## CP1746 · Singular Maker · Humanoid Robot Makers
+
+Taiwán · Singular Maker · 56 Nanjing East Road Sec. 5, 2F-1 · Songshan · Taipei
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 3.º de primaria a 1.º de secundaria.
+
+**Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar.
+
+**Programa:** Diseño 3D de carcasa, montaje de robot bípedo, ajuste de articulaciones, luces y mando.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Clases 09:00–17:00. Llegada 08:30–09:00, recogida 17:00–17:30. Pausa 12:00–13:30.
+
+**Precio / año:** 2027 · TWD 12000 hasta el 5 de diciembre, TWD 13500 hasta el 30 de diciembre, base TWD 15500. Por niño y turno.
+
+**Incluido:** Incluye materiales del robot y almuerzo. El niño se lleva el robot montado.
+
+**Suplementos:** Se recomienda portátil propio con cargador. Consultar alquiler con antelación si hace falta.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Condicional. Confirmar edad del grupo concreto y plaza.
+
+**Oscar:** Por debajo del curso escolar publicado.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar equivalencia de curso, idioma del docente, plaza y condiciones de pago.
+
+### Humanoid Robot Makers
+
+**Fechas / estado:** 2027-01-25 — 2027-01-29
+
+**lugar:** Singular Maker · 56 Nanjing East Road Sec. 5, 2F-1 · Songshan · Taipei
+
+**edad:** 3.º de primaria a 1.º de secundaria.
+
+**Precio:** TWD 12000 hasta el 5 de diciembre, TWD 13500 hasta el 30 de diciembre, base TWD 15500. Por niño y turno.
+
+- 2027-01-25 · 09:00–17:00 · Asia/Taipei · Diseño 3D de carcasa, montaje de robot bípedo, ajuste de articulaciones, luces y mando.
+
+- 2027-01-26 · 09:00–17:00 · Asia/Taipei · Diseño 3D de carcasa, montaje de robot bípedo, ajuste de articulaciones, luces y mando.
+
+- 2027-01-27 · 09:00–17:00 · Asia/Taipei · Diseño 3D de carcasa, montaje de robot bípedo, ajuste de articulaciones, luces y mando.
+
+- 2027-01-28 · 09:00–17:00 · Asia/Taipei · Diseño 3D de carcasa, montaje de robot bípedo, ajuste de articulaciones, luces y mando.
+
+- 2027-01-29 · 09:00–17:00 · Asia/Taipei · Diseño 3D de carcasa, montaje de robot bípedo, ajuste de articulaciones, luces y mando.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Condicional. Confirmar edad del grupo concreto y plaza.
+
+**Oscar:** Por debajo del curso escolar publicado.
+
+[fuente](https://www.singularmaker.com.tw/article_d.php?id=1713&lang=tw&tb=1)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.singularmaker.com.tw/article_d.php?id=1713&lang=tw&tb=1) · 2026-11-07
+
+## CP1747 · Singular Maker · Quadruped Robot Makers
+
+Taiwán · Singular Maker · 56 Nanjing East Road Sec. 5, 2F-1 · Songshan · Taipei
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 3.º de primaria a 1.º de secundaria.
+
+**Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar.
+
+**Programa:** Impresión 3D, LED, PWM, servomotores, Blockly y ajuste de marcha del robot cuadrúpedo.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Clases 09:00–17:00. Llegada 08:30–09:00, recogida 17:00–17:30. Pausa 12:00–13:30.
+
+**Precio / año:** 2027 · TWD 9600 hasta el 5 de diciembre, TWD 10000 hasta el 30 de diciembre, base TWD 10500. Por niño y turno.
+
+**Incluido:** Incluye materiales del robot y almuerzo. El niño se lleva el robot montado.
+
+**Suplementos:** Se recomienda portátil propio con cargador. Consultar alquiler con antelación si hace falta.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Condicional. Confirmar edad del grupo concreto y plaza.
+
+**Oscar:** Por debajo del curso escolar publicado.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar equivalencia de curso, idioma del docente, plaza y condiciones de pago.
+
+### Quadruped Robot Makers
+
+**Fechas / estado:** 2027-02-01 — 2027-02-03
+
+**lugar:** Singular Maker · 56 Nanjing East Road Sec. 5, 2F-1 · Songshan · Taipei
+
+**edad:** 3.º de primaria a 1.º de secundaria.
+
+**Precio:** TWD 9600 hasta el 5 de diciembre, TWD 10000 hasta el 30 de diciembre, base TWD 10500. Por niño y turno.
+
+- 2027-02-01 · 09:00–17:00 · Asia/Taipei · Impresión 3D, LED, PWM, servomotores, Blockly y ajuste de marcha del robot cuadrúpedo.
+
+- 2027-02-02 · 09:00–17:00 · Asia/Taipei · Impresión 3D, LED, PWM, servomotores, Blockly y ajuste de marcha del robot cuadrúpedo.
+
+- 2027-02-03 · 09:00–17:00 · Asia/Taipei · Impresión 3D, LED, PWM, servomotores, Blockly y ajuste de marcha del robot cuadrúpedo.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Condicional. Confirmar edad del grupo concreto y plaza.
+
+**Oscar:** Por debajo del curso escolar publicado.
+
+[fuente](https://www.singularmaker.com.tw/article_d.php?lang=tw&tb=1&id=1723)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.singularmaker.com.tw/article_d.php?lang=tw&tb=1&id=1723) · 2026-11-07
+
+## CP1748 · Singular Maker · Minecraft · Beginner Adventure
+
+Taiwán · Singular Maker · 56 Nanjing East Road Sec. 5, 2F-1 · Songshan · Taipei
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 3.º de primaria a 1.º de secundaria.
+
+**Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar.
+
+**Programa:** Minecraft, programación visual y retos de lógica de mesa.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Clases 09:00–17:00. Llegada 08:30–09:00, recogida 17:00–17:30. Pausa 12:00–13:30.
+
+**Precio / año:** 2027 · TWD 7500 hasta el 5 de diciembre, TWD 8000 hasta el 30 de diciembre, base TWD 8800. Por niño y turno.
+
+**Incluido:** Incluye clases, materiales y almuerzo.
+
+**Suplementos:** Se recomienda portátil propio con cargador. Consultar alquiler con antelación si hace falta.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Condicional. Confirmar edad del grupo concreto y plaza.
+
+**Oscar:** Por debajo del curso escolar publicado.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar equivalencia de curso, idioma del docente, plaza y condiciones de pago.
+
+### Minecraft · Beginner Adventure
+
+**Fechas / estado:** 2027-02-01 — 2027-02-03
+
+**lugar:** Singular Maker · 56 Nanjing East Road Sec. 5, 2F-1 · Songshan · Taipei
+
+**edad:** 3.º de primaria a 1.º de secundaria.
+
+**Precio:** TWD 7500 hasta el 5 de diciembre, TWD 8000 hasta el 30 de diciembre, base TWD 8800. Por niño y turno.
+
+- 2027-02-01 · 09:00–17:00 · Asia/Taipei · Minecraft, programación visual y retos de lógica de mesa.
+
+- 2027-02-02 · 09:00–17:00 · Asia/Taipei · Minecraft, programación visual y retos de lógica de mesa.
+
+- 2027-02-03 · 09:00–17:00 · Asia/Taipei · Minecraft, programación visual y retos de lógica de mesa.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Condicional. Confirmar edad del grupo concreto y plaza.
+
+**Oscar:** Por debajo del curso escolar publicado.
+
+[fuente](https://www.singularmaker.com.tw/article_d.php?id=1703&lang=tw&tb=1)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.singularmaker.com.tw/article_d.php?id=1703&lang=tw&tb=1) · 2026-11-07
+
+## CP1749 · Singular Maker · Roblox · Luau Game Creation
+
+Taiwán · Singular Maker · 56 Nanjing East Road Sec. 5, 2F-1 · Songshan · Taipei
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 4.º de primaria a 2.º de secundaria.
+
+**Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar.
+
+**Programa:** Roblox Studio, creación de juegos y programación en Luau.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Clases 09:00–17:00. Llegada 08:30–09:00, recogida 17:00–17:30. Pausa 12:00–13:30.
+
+**Precio / año:** 2027 · TWD 10500 hasta el 5 de diciembre, TWD 12000 hasta el 30 de diciembre, base TWD 14000. Por niño y turno.
+
+**Incluido:** Incluye clases, materiales y almuerzo.
+
+**Suplementos:** Se recomienda portátil propio con cargador. Consultar alquiler con antelación si hace falta.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Condicional. Confirmar edad del grupo concreto y plaza.
+
+**Oscar:** Por debajo del curso escolar publicado.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar equivalencia de curso, idioma del docente, plaza y condiciones de pago.
+
+### Roblox · Luau Game Creation
+
+**Fechas / estado:** 2027-01-25 — 2027-01-29
+
+**lugar:** Singular Maker · 56 Nanjing East Road Sec. 5, 2F-1 · Songshan · Taipei
+
+**edad:** 4.º de primaria a 2.º de secundaria.
+
+**Precio:** TWD 10500 hasta el 5 de diciembre, TWD 12000 hasta el 30 de diciembre, base TWD 14000. Por niño y turno.
+
+- 2027-01-25 · 09:00–17:00 · Asia/Taipei · Roblox Studio, creación de juegos y programación en Luau.
+
+- 2027-01-26 · 09:00–17:00 · Asia/Taipei · Roblox Studio, creación de juegos y programación en Luau.
+
+- 2027-01-27 · 09:00–17:00 · Asia/Taipei · Roblox Studio, creación de juegos y programación en Luau.
+
+- 2027-01-28 · 09:00–17:00 · Asia/Taipei · Roblox Studio, creación de juegos y programación en Luau.
+
+- 2027-01-29 · 09:00–17:00 · Asia/Taipei · Roblox Studio, creación de juegos y programación en Luau.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Condicional. Confirmar edad del grupo concreto y plaza.
+
+**Oscar:** Por debajo del curso escolar publicado.
+
+[fuente](https://www.singularmaker.com.tw/article_d.php?id=1698&lang=tw&tb=1)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.singularmaker.com.tw/article_d.php?id=1698&lang=tw&tb=1) · 2026-11-07
+
+## CP1750 · Singular Maker · Canva × Scratch · Game Design
+
+Taiwán · Singular Maker · 56 Nanjing East Road Sec. 5, 2F-1 · Songshan · Taipei
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 4.º de primaria a 2.º de secundaria.
+
+**Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar.
+
+**Programa:** Diseño digital con Canva y creación de juegos con Scratch. Incluye herramientas de IA para clase.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Clases 09:00–17:00. Llegada 08:30–09:00, recogida 17:00–17:30. Pausa 12:00–13:30.
+
+**Precio / año:** 2027 · TWD 10800 hasta el 5 de diciembre, TWD 12000 hasta el 30 de diciembre, base TWD 14000. Por niño y turno.
+
+**Incluido:** Incluye clases, materiales y almuerzo.
+
+**Suplementos:** Se recomienda portátil propio con cargador. Consultar alquiler con antelación si hace falta.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Condicional. Confirmar edad del grupo concreto y plaza.
+
+**Oscar:** Por debajo del curso escolar publicado.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar equivalencia de curso, idioma del docente, plaza y condiciones de pago.
+
+### Canva × Scratch · Game Design
+
+**Fechas / estado:** 2027-01-25 — 2027-01-29
+
+**lugar:** Singular Maker · 56 Nanjing East Road Sec. 5, 2F-1 · Songshan · Taipei
+
+**edad:** 4.º de primaria a 2.º de secundaria.
+
+**Precio:** TWD 10800 hasta el 5 de diciembre, TWD 12000 hasta el 30 de diciembre, base TWD 14000. Por niño y turno.
+
+- 2027-01-25 · 09:00–17:00 · Asia/Taipei · Diseño digital con Canva y creación de juegos con Scratch. Incluye herramientas de IA para clase.
+
+- 2027-01-26 · 09:00–17:00 · Asia/Taipei · Diseño digital con Canva y creación de juegos con Scratch. Incluye herramientas de IA para clase.
+
+- 2027-01-27 · 09:00–17:00 · Asia/Taipei · Diseño digital con Canva y creación de juegos con Scratch. Incluye herramientas de IA para clase.
+
+- 2027-01-28 · 09:00–17:00 · Asia/Taipei · Diseño digital con Canva y creación de juegos con Scratch. Incluye herramientas de IA para clase.
+
+- 2027-01-29 · 09:00–17:00 · Asia/Taipei · Diseño digital con Canva y creación de juegos con Scratch. Incluye herramientas de IA para clase.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Condicional. Confirmar edad del grupo concreto y plaza.
+
+**Oscar:** Por debajo del curso escolar publicado.
+
+[fuente](https://www.singularmaker.com.tw/article_d.php?id=1728&lang=tw&tb=1)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.singularmaker.com.tw/article_d.php?id=1728&lang=tw&tb=1) · 2026-11-07
 
 ## ~ Comprobaciones no cerradas
 
