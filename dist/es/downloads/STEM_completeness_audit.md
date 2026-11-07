@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 8003; competiciones: 3272; eventos: 385; campamentos / programas: 4346. Perfiles de ligas y programas: 270. Fichas de exposiciones grandes y especializadas: 297 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 8027; competiciones: 3294; eventos: 387; campamentos / programas: 4346. Perfiles de ligas y programas: 273. Fichas de exposiciones grandes y especializadas: 299 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros para 159 de 249 países y territorios. Países con auditoría completa: 0. La revisión histórica v51 agregó 21 fichas y 3 perfiles. Se conservaron las fichas previas.
 
@@ -14,16 +14,16 @@ Hay registros para 159 de 249 países y territorios. Países con auditoría comp
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 23 | 1450 | 54 | 1076 |
-| América del Sur | 10 | 204 | 19 | 142 |
+| América del Norte | 23 | 1452 | 54 | 1076 |
+| América del Sur | 10 | 221 | 21 | 142 |
 | Europa | 42 | 434 | 82 | 1327 |
 | África | 34 | 133 | 21 | 70 |
-| Asia | 44 | 824 | 96 | 1550 |
+| Asia | 44 | 825 | 96 | 1550 |
 | Oceanía | 6 | 129 | 24 | 168 |
 
-Fichas interregionales o globales sin continente único: 117. América del Norte incluye América Central y el Caribe. Las cifras muestran el inventario de la base y no un porcentaje de cobertura completa.
+Fichas interregionales o mundiales sin un continente asignado: 119. América del Norte incluye Centroamérica y el Caribe. Las cifras representan el inventario de la base y no un porcentaje de cobertura.
 
-VEX: 518 de 3272 fichas de competición (15.8%). El catálogo presenta un sesgo de cobertura.
+VEX: 518 de 3294 fichas de competición (15.7%). El catálogo presenta un sesgo de cobertura.
 
 ## Lo que queda
 
@@ -116,7 +116,7 @@ VEX: 518 de 3272 fichas de competición (15.8%). El catálogo presenta un sesgo 
 - **WAICY**: 4 tarjetas, 0 con fechas exactas futuras. https://www.waicy.org/waicy-2026/
 - **Codeavour**: 4 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://codeavour.org/
 - **Coolest Projects**: 1 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://online.coolestprojects.org/help
-- **Bebras**: 51 fichas, 48 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.bebras.org/countries
+- **Bebras**: 52 fichas, 49 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.bebras.org/countries
 - **ACSL**: 1 tarjeta, 0 con fechas exactas futuras. https://www.acsl.org/get-started/divisions
 - **Torneo Mexicano de Robótica**: 1 tarjeta, 1 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://femexrobotica.org/tmr2026/index.php/participantes/inscripciones
 - **TJR Mini / RoboLeague**: 1 tarjeta, 0 con fechas exactas futuras. https://www.torneiojrobotica.org/TJR-MINI/
@@ -294,6 +294,9 @@ VEX: 518 de 3272 fichas de competición (15.8%). El catálogo presenta un sesgo 
 - **World Robot Contest Malaysia · IntelekEDU**: 2 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://intelek.edu.my/competitions/
 - **FIRST LEGO League UAE · BIOGLOW Founders 2026/27**: 11 fichas, 9 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.flluae.org/
 - **AstanaTechCup · Kazakhstan 2027**: 7 fichas, 7 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://astanatechcup.kz/ru
+- **HERO Challenge · Explorer / Pro**: 6 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://hero-challenge.org/events
+- **FIRST LEGO League Colombia · BIOGLOW Founders**: 4 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://unno.uniminuto.edu/bioglow/
+- **Chaski Bots LAB · Ecuador**: 10 fichas, 10 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://chaskibots.com/torneo-de-robotica-2026-el-chaco/
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 10 tarjetas, 0 con fechas exactas futuras. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -635,6 +638,8 @@ VEX: 518 de 3272 fichas de competición (15.8%). El catálogo presenta un sesgo 
 - **INTERFACEXpo 2027 · Lincoln / Christchurch** — Nueva Zelanda; 2027-05-13. el permiso de entrada de niños. https://interfacexpo.nz/
 - **INTERFACEXpo 2027 · Rotorua** — Nueva Zelanda; 2027-05-18. el permiso de entrada de niños. https://interfacexpo.nz/
 - **INTERFACEXpo 2027 · Auckland** — Nueva Zelanda; 2027-05-20. el permiso de entrada de niños. https://interfacexpo.nz/
+- **UNAD EXPOBOT 2026 · Robótica y prototipos** — Colombia; 2026-11-11. el permiso de entrada de niños. https://eventos.unad.edu.co/expobot-2026-innovacion-que-transforma-el-territorio
+- **Indie Fest Chile 2026 · Showcase de videojuegos** — Chile; 2026-11-12. el permiso de entrada de niños. https://indiefestchile.cl/2026.html
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

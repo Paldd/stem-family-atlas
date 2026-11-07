@@ -4781,7 +4781,8 @@
           "C2953",
           "C2954",
           "C2955",
-          "C2956"
+          "C2956",
+          "C3284"
         ],
         "legacy_ids": [
           "C040"
@@ -19918,6 +19919,354 @@
         "evidence": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado."
       },
       {
+        "id": "hero-challenge",
+        "name": "HERO Challenge · Explorer / Pro",
+        "group": "international",
+        "age_summary": "Condicional. Las reglas describen secundaria superior y universidad. La admisión de primaria no está especificada. Los menores necesitan permiso parental y supervisión de un adulto.",
+        "age_tags": [],
+        "summary": "Explorer y Pro indican dificultad. Confirmar con la sede la edad mínima para primaria.",
+        "categories": [
+          {
+            "name": "HERO Challenge · Lima",
+            "age": "Condicional. Las reglas describen secundaria superior y universidad. La admisión de primaria no está especificada. Los menores necesitan permiso parental y supervisión de un adulto.",
+            "team": "Explorer y Pro indican dificultad. Confirmar con la sede la edad mínima para primaria.",
+            "hardware": "Robot y equipo propios, con un observador de seguridad distinto del piloto en la prueba de un solo robot. El equipo depende de la misión.",
+            "age_rule": "Condicional. Las reglas describen secundaria superior y universidad. La admisión de primaria no está especificada. Los menores necesitan permiso parental y supervisión de un adulto.",
+            "entry": "El capitán solicita acceso, recibe aprobación, incluye a los asistentes y envía la inscripción a revisión. Se requiere el registro de cada asistente.",
+            "language": "Reglas técnicas oficiales en inglés. Confirmar el idioma de la sede y del jurado.",
+            "award": "La ruta por podios exige al menos 3 retos distintos y la combinación publicada de resultados de podio. Hay una ruta separada mediante evaluación de evidencias.",
+            "note": "Prevén FPV terrestre y aéreo y simulación. Sede, CanSat y condiciones se anunciarán por separado."
+          },
+          {
+            "name": "HERO Challenge · Querétaro",
+            "age": "Condicional. Las reglas describen secundaria superior y universidad. La admisión de primaria no está especificada. Los menores necesitan permiso parental y supervisión de un adulto.",
+            "team": "Explorer y Pro indican dificultad. Confirmar con la sede la edad mínima para primaria.",
+            "hardware": "Robot y equipo propios, con un observador de seguridad distinto del piloto en la prueba de un solo robot. El equipo depende de la misión.",
+            "age_rule": "Condicional. Las reglas describen secundaria superior y universidad. La admisión de primaria no está especificada. Los menores necesitan permiso parental y supervisión de un adulto.",
+            "entry": "El capitán solicita acceso, recibe aprobación, incluye a los asistentes y envía la inscripción a revisión. Se requiere el registro de cada asistente.",
+            "language": "Reglas técnicas oficiales en inglés. Confirmar el idioma de la sede y del jurado.",
+            "award": "La ruta por podios exige al menos 3 retos distintos y la combinación publicada de resultados de podio. Hay una ruta separada mediante evaluación de evidencias.",
+            "note": "La ficha indica inscripción con fecha provisional. La sede y el programa, incluidas las condiciones de CanSat, requieren confirmación."
+          },
+          {
+            "name": "HERO Online Challenge · simulación FPV",
+            "age": "Condicional. Las reglas describen secundaria superior y universidad. La admisión de primaria no está especificada. Los menores necesitan permiso parental y supervisión de un adulto.",
+            "team": "Explorer y Pro indican dificultad. Confirmar con la sede la edad mínima para primaria.",
+            "hardware": "Robot y equipo propios, con un observador de seguridad distinto del piloto en la prueba de un solo robot. El equipo depende de la misión.",
+            "age_rule": "Condicional. Las reglas describen secundaria superior y universidad. La admisión de primaria no está especificada. Los menores necesitan permiso parental y supervisión de un adulto.",
+            "entry": "El capitán solicita acceso, recibe aprobación, incluye a los asistentes y envía la inscripción a revisión. Se requiere el registro de cada asistente.",
+            "language": "Reglas técnicas oficiales en inglés. Confirmar el idioma de la sede y del jurado.",
+            "award": "La ruta por podios exige al menos 3 retos distintos y la combinación publicada de resultados de podio. Hay una ruta separada mediante evaluación de evidencias.",
+            "note": "Prevén simulación terrestre, carreras FPV y fútbol de drones. Hora provisional de 19:00 en Ciudad de México. Juegos y mandos se anunciarán antes de inscribirse."
+          },
+          {
+            "name": "HERO Challenge · Tokyo Final",
+            "age": "Condicional. Las reglas describen secundaria superior y universidad. La admisión de primaria no está especificada. Los menores necesitan permiso parental y supervisión de un adulto.",
+            "team": "Explorer y Pro indican dificultad. Confirmar con la sede la edad mínima para primaria.",
+            "hardware": "Robot y equipo propios, con un observador de seguridad distinto del piloto en la prueba de un solo robot. El equipo depende de la misión.",
+            "age_rule": "Condicional. Las reglas describen secundaria superior y universidad. La admisión de primaria no está especificada. Los menores necesitan permiso parental y supervisión de un adulto.",
+            "entry": "El capitán solicita acceso, recibe aprobación, incluye a los asistentes y envía la inscripción a revisión. Se requiere el registro de cada asistente.",
+            "language": "Reglas técnicas oficiales en inglés. Confirmar el idioma de la sede y del jurado.",
+            "award": "La ruta por podios exige al menos 3 retos distintos y la combinación publicada de resultados de podio. Hay una ruta separada mediante evaluación de evidencias.",
+            "note": "Día de reserva 22 de marzo de 2027. Talleres del 16–17 de marzo de 2027 provisionales. Inscripción de finalistas por invitación al capitán."
+          },
+          {
+            "name": "HERO Challenge · Tokyo Remote Qualification",
+            "age": "Condicional. Las reglas describen secundaria superior y universidad. La admisión de primaria no está especificada. Los menores necesitan permiso parental y supervisión de un adulto.",
+            "team": "Presentar PDF y vídeos para al menos 3 retos distintos. El comité evalúa el nivel y envía invitación tras la revisión.",
+            "hardware": "Robot y equipo propios, con un observador de seguridad distinto del piloto en la prueba de un solo robot. El equipo depende de la misión.",
+            "age_rule": "Condicional. Las reglas describen secundaria superior y universidad. La admisión de primaria no está especificada. Los menores necesitan permiso parental y supervisión de un adulto.",
+            "entry": "Presentar PDF y vídeos para al menos 3 retos distintos. El comité evalúa el nivel y envía invitación tras la revisión.",
+            "language": "Reglas técnicas oficiales en inglés. Confirmar el idioma de la sede y del jurado.",
+            "award": "La ruta por podios exige al menos 3 retos distintos y la combinación publicada de resultados de podio. Hay una ruta separada mediante evaluación de evidencias.",
+            "note": "La página de envío muestra acceso y plazo. El calendario general aún marca la vía como prevista. Hay que confirmar el acceso al envío."
+          }
+        ],
+        "event_ids": [
+          "C3274",
+          "C3275",
+          "C3276",
+          "C3277",
+          "C3278",
+          "C3279"
+        ],
+        "legacy_ids": [],
+        "route": "El capitán solicita acceso, recibe aprobación, incluye a los asistentes y envía la inscripción a revisión. Se requiere el registro de cada asistente.",
+        "hardware": "Robot y equipo propios, con un observador de seguridad distinto del piloto en la prueba de un solo robot. El equipo depende de la misión.",
+        "language": "Reglas técnicas oficiales en inglés. Confirmar el idioma de la sede y del jurado.",
+        "importance": "Ruta internacional",
+        "strengths": "Explorer y Pro indican dificultad. Confirmar con la sede la edad mínima para primaria.",
+        "requirements": [
+          "El capitán solicita acceso, recibe aprobación, incluye a los asistentes y envía la inscripción a revisión. Se requiere el registro de cada asistente."
+        ],
+        "nuances": [
+          "Preparación de 10:00 a 12:00, pruebas de 12:00 a 15:00 hora de Ciudad de México. Navegación terrestre y aérea, CanSat Descent. La práctica en simulador FPV y las pruebas de ala fija con inscripción aparte se separan del programa puntuado. Acceso general de público sin confirmar."
+        ],
+        "cost": "MXN 200 por persona. Para 2 niños y 1 acompañante, estimación base de MXN 600 si los tres se registran a esa tarifa.",
+        "award": "La ruta por podios exige al menos 3 retos distintos y la combinación publicada de resultados de podio. Hay una ruta separada mediante evaluación de evidencias.",
+        "sources": [
+          {
+            "url": "https://hero-challenge.org/events",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://hero-challenge.org/rules/team",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://hero-challenge.org/rules/qualification",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://hero-challenge.org/terms/participation",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          }
+        ],
+        "evidence": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado."
+      },
+      {
+        "id": "fll-colombia-bioglow",
+        "name": "FIRST LEGO League Colombia · BIOGLOW Founders",
+        "group": "regional",
+        "age_summary": "9–16",
+        "age_tags": [
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Hasta 10 participantes por equipo. Robot LEGO, proyecto sobre biodiversidad, diseño del robot y Core Values.",
+        "categories": [
+          {
+            "name": "FIRST LEGO League Colombia · Regional Cundinamarca",
+            "age": "9–16",
+            "team": "Hasta 10 participantes por equipo. Robot LEGO, proyecto sobre biodiversidad, diseño del robot y Core Values.",
+            "hardware": "LEGO programable y campo BIOGLOW. Confirmar el contenido del kit y los requisitos de controlador.",
+            "age_rule": "9–16",
+            "entry": "Inscripción del equipo hasta noviembre de 2026 o hasta agotar las 68 plazas. Por orden de inscripción se asignan 35 en Cundinamarca y 33 en Occidente. Confirmar plazas y admisión de equipos extranjeros.",
+            "language": "Página en español. Confirmar el idioma de participación y del jurado.",
+            "award": "20 equipos pasan a la final en Bogotá. El campeón recibe plaza en Houston y ciertos premiados reciben plazas Open. El derecho a participar y los gastos del viaje son distintos.",
+            "note": "Periodo provisional. El día exacto sigue sin confirmar."
+          },
+          {
+            "name": "FIRST LEGO League Colombia · Regional Occidente",
+            "age": "9–16",
+            "team": "Hasta 10 participantes por equipo. Robot LEGO, proyecto sobre biodiversidad, diseño del robot y Core Values.",
+            "hardware": "LEGO programable y campo BIOGLOW. Confirmar el contenido del kit y los requisitos de controlador.",
+            "age_rule": "9–16",
+            "entry": "Inscripción del equipo hasta noviembre de 2026 o hasta agotar las 68 plazas. Por orden de inscripción se asignan 35 en Cundinamarca y 33 en Occidente. Confirmar plazas y admisión de equipos extranjeros.",
+            "language": "Página en español. Confirmar el idioma de participación y del jurado.",
+            "award": "20 equipos pasan a la final en Bogotá. El campeón recibe plaza en Houston y ciertos premiados reciben plazas Open. El derecho a participar y los gastos del viaje son distintos.",
+            "note": "Periodo provisional. El día exacto sigue sin confirmar."
+          },
+          {
+            "name": "FIRST LEGO League Colombia · Final Nacional Bogotá",
+            "age": "9–16",
+            "team": "Hasta 10 participantes por equipo. Robot LEGO, proyecto sobre biodiversidad, diseño del robot y Core Values.",
+            "hardware": "LEGO programable y campo BIOGLOW. Confirmar el contenido del kit y los requisitos de controlador.",
+            "age_rule": "9–16",
+            "entry": "Clasificación por resultados en dos regionales. 20 equipos según la distribución del organizador.",
+            "language": "Página en español. Confirmar el idioma de participación y del jurado.",
+            "award": "20 equipos pasan a la final en Bogotá. El campeón recibe plaza en Houston y ciertos premiados reciben plazas Open. El derecho a participar y los gastos del viaje son distintos.",
+            "note": "Periodo provisional. El día exacto sigue sin confirmar."
+          }
+        ],
+        "event_ids": [
+          "C3280",
+          "C3281",
+          "C3282",
+          "C3283"
+        ],
+        "legacy_ids": [],
+        "route": "Inscripción del equipo hasta noviembre de 2026 o hasta agotar las 68 plazas. Por orden de inscripción se asignan 35 en Cundinamarca y 33 en Occidente. Confirmar plazas y admisión de equipos extranjeros.",
+        "hardware": "LEGO programable y campo BIOGLOW. Confirmar el contenido del kit y los requisitos de controlador.",
+        "language": "Página en español. Confirmar el idioma de participación y del jurado.",
+        "importance": "Programa nacional",
+        "strengths": "Hasta 10 participantes por equipo. Robot LEGO, proyecto sobre biodiversidad, diseño del robot y Core Values.",
+        "requirements": [
+          "Inscripción del equipo hasta noviembre de 2026 o hasta agotar las 68 plazas. Por orden de inscripción se asignan 35 en Cundinamarca y 33 en Occidente. Confirmar plazas y admisión de equipos extranjeros."
+        ],
+        "nuances": [
+          "Las fechas exactas se comunicarán a equipos inscritos. Las plazas restantes no se publican."
+        ],
+        "cost": "COP 2 700 000 con IVA por equipo. Incluye kit BIOGLOW, materiales y 8 sesiones en línea. El equipo paga los viajes internacionales.",
+        "award": "20 equipos pasan a la final en Bogotá. El campeón recibe plaza en Houston y ciertos premiados reciben plazas Open. El derecho a participar y los gastos del viaje son distintos.",
+        "sources": [
+          {
+            "url": "https://unno.uniminuto.edu/bioglow/",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          }
+        ],
+        "evidence": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado."
+      },
+      {
+        "id": "chaski-bots-el-chaco",
+        "name": "Chaski Bots LAB · Ecuador",
+        "group": "international",
+        "age_summary": "Edad y equipo dependen de la prueba. Hay categorías escolares, Junior, Amateur y Pro.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Torneo internacional con más de 40 pruebas. Comprobar horario, equipo y edad en cada ficha.",
+        "categories": [
+          {
+            "name": "Creatividad WeDo 2.0",
+            "age": "Edad y equipo dependen de la prueba. Hay categorías escolares, Junior, Amateur y Pro.",
+            "team": "El bloque empieza a las 12:30 en Ecuador. Confirmar turno y revisión del robot.",
+            "hardware": "El horario indica LEGO WeDo 2.0. Confirmar el kit y el reto con el reglamento correcto.",
+            "age_rule": "Edad y equipo dependen de la prueba. Hay categorías escolares, Junior, Amateur y Pro.",
+            "entry": "El organizador anuncia inscripciones. La página pública del formulario requiere acceso. Confirmar plazo, precio de la prueba y aceptación del equipo.",
+            "language": "Página en español. Confirmar el idioma de participación y del jurado.",
+            "award": "El organizador anuncia medallas y premios. Hay acreditaciones internacionales en categorías con convenio; confirmar las plazas.",
+            "note": "El archivo llamado WeDo 2.0 contiene reglas de Bristle Race. Edad, composición y reglas WeDo siguen sin confirmar."
+          },
+          {
+            "name": "Creatividad LEGO EV3",
+            "age": "Sin límite de edad según las reglas de Creatividad LEGO. Confirmar el equipo y la aplicación a la prueba EV3.",
+            "team": "El bloque empieza a las 08:00 en Ecuador. Confirmar turno y revisión del robot.",
+            "hardware": "Kit LEGO propio, mínimo 2 portátiles. Equipo de hasta 3 personas, mínimo 2 en el área de trabajo.",
+            "age_rule": "Sin límite de edad según las reglas de Creatividad LEGO. Confirmar el equipo y la aplicación a la prueba EV3.",
+            "entry": "El organizador anuncia inscripciones. La página pública del formulario requiere acceso. Confirmar plazo, precio de la prueba y aceptación del equipo.",
+            "language": "Página en español. Confirmar el idioma de participación y del jurado.",
+            "award": "El organizador anuncia medallas y premios. Hay acreditaciones internacionales en categorías con convenio; confirmar las plazas.",
+            "note": "El reglamento general LEGO abre la participación sin límite de edad y para equipos extranjeros. El reto se da en la sede. El horario identifica por separado la prueba EV3."
+          },
+          {
+            "name": "Sumo LEGO",
+            "age": "Edad y equipo dependen de la prueba. Hay categorías escolares, Junior, Amateur y Pro.",
+            "team": "El bloque empieza a las 11:00 en Ecuador. Confirmar turno y revisión del robot.",
+            "hardware": "Robot LEGO autónomo. Base 15 × 15 cm, hasta 1000 g. Operador y asistente en la zona de combate.",
+            "age_rule": "Edad y equipo dependen de la prueba. Hay categorías escolares, Junior, Amateur y Pro.",
+            "entry": "El organizador anuncia inscripciones. La página pública del formulario requiere acceso. Confirmar plazo, precio de la prueba y aceptación del equipo.",
+            "language": "Página en español. Confirmar el idioma de participación y del jurado.",
+            "award": "El organizador anuncia medallas y premios. Hay acreditaciones internacionales en categorías con convenio; confirmar las plazas.",
+            "note": "El PDF general describe un equipo de 2 personas y apoyo fuera de la zona. La cláusula sin límite de edad está en Mini RC Amateur; confirmar edad para LEGO."
+          },
+          {
+            "name": "Seguidor de Línea LEGO",
+            "age": "Edad y equipo dependen de la prueba. Hay categorías escolares, Junior, Amateur y Pro.",
+            "team": "El bloque empieza a las 14:00 en Ecuador. Confirmar turno y revisión del robot.",
+            "hardware": "LEGO EV3 o NXT autónomo. Base hasta 20 × 25 cm. Gana el mejor tiempo en la línea negra.",
+            "age_rule": "Edad y equipo dependen de la prueba. Hay categorías escolares, Junior, Amateur y Pro.",
+            "entry": "El organizador anuncia inscripciones. La página pública del formulario requiere acceso. Confirmar plazo, precio de la prueba y aceptación del equipo.",
+            "language": "Página en español. Confirmar el idioma de participación y del jurado.",
+            "award": "El organizador anuncia medallas y premios. Hay acreditaciones internacionales en categorías con convenio; confirmar las plazas.",
+            "note": "Edad y número de participantes sin confirmar. El PDF publicado nombra EV3 y NXT; confirmar compatibilidad SPIKE."
+          },
+          {
+            "name": "Soccer Junior",
+            "age": "Hasta 17 años inclusive. Confirmar mínimo y admisión.",
+            "team": "El bloque empieza a las 11:00 en Ecuador. Confirmar turno y revisión del robot.",
+            "hardware": "Robot de hasta 15 × 15 cm y 500 g. Las reglas Junior indican motores amarillos sin modificación externa.",
+            "age_rule": "Hasta 17 años inclusive. Confirmar mínimo y admisión.",
+            "entry": "El organizador anuncia inscripciones. La página pública del formulario requiere acceso. Confirmar plazo, precio de la prueba y aceptación del equipo.",
+            "language": "Página en español. Confirmar el idioma de participación y del jurado.",
+            "award": "El organizador anuncia medallas y premios. Hay acreditaciones internacionales en categorías con convenio; confirmar las plazas.",
+            "note": "Edad mínima, número de jugadores y admisión de equipos extranjeros por confirmar."
+          },
+          {
+            "name": "Seguidor de Línea Colegial",
+            "age": "Hasta 17 años inclusive. Confirmar mínimo y admisión.",
+            "team": "El bloque empieza a las 11:00 en Ecuador. Confirmar turno y revisión del robot.",
+            "hardware": "Robot autónomo para seguir la línea. Solo el operador entra en la zona de prueba.",
+            "age_rule": "Hasta 17 años inclusive. Confirmar mínimo y admisión.",
+            "entry": "El organizador anuncia inscripciones. La página pública del formulario requiere acceso. Confirmar plazo, precio de la prueba y aceptación del equipo.",
+            "language": "Página en español. Confirmar el idioma de participación y del jurado.",
+            "award": "El organizador anuncia medallas y premios. Hay acreditaciones internacionales en categorías con convenio; confirmar las plazas.",
+            "note": "El reglamento se titula Junior y el horario llama Colegial a la prueba. Confirmar si el límite de 17 años aplica a este bloque."
+          },
+          {
+            "name": "Minisumo RC Junior",
+            "age": "Edad y equipo dependen de la prueba. Hay categorías escolares, Junior, Amateur y Pro.",
+            "team": "El bloque empieza a las 12:30 en Ecuador. Confirmar turno y revisión del robot.",
+            "hardware": "Robot propio, repuestos y revisión antes de la prueba. Los límites técnicos varían por disciplina.",
+            "age_rule": "Edad y equipo dependen de la prueba. Hay categorías escolares, Junior, Amateur y Pro.",
+            "entry": "El organizador anuncia inscripciones. La página pública del formulario requiere acceso. Confirmar plazo, precio de la prueba y aceptación del equipo.",
+            "language": "Página en español. Confirmar el idioma de participación y del jurado.",
+            "award": "El organizador anuncia medallas y premios. Hay acreditaciones internacionales en categorías con convenio; confirmar las plazas.",
+            "note": "Hay un bloque Junior en el horario. El PDF general de sumo no confirma edad mínima ni condiciones de este bloque juvenil."
+          },
+          {
+            "name": "Innovation Challenger · Colegios / Escuelas",
+            "age": "Edad y equipo dependen de la prueba. Hay categorías escolares, Junior, Amateur y Pro.",
+            "team": "El bloque empieza a las 09:30 en Ecuador. Confirmar turno y revisión del robot.",
+            "hardware": "Proyecto, presentación y plantilla de descripción para el jurado. Confirmar tema y composición admitida.",
+            "age_rule": "Edad y equipo dependen de la prueba. Hay categorías escolares, Junior, Amateur y Pro.",
+            "entry": "El organizador anuncia inscripciones. La página pública del formulario requiere acceso. Confirmar plazo, precio de la prueba y aceptación del equipo.",
+            "language": "Página en español. Confirmar el idioma de participación y del jurado.",
+            "award": "El organizador anuncia medallas y premios. Hay acreditaciones internacionales en categorías con convenio; confirmar las plazas.",
+            "note": "Formato escolar según horario. Hay plantilla de proyecto publicada; confirmar las reglas completas de edad."
+          },
+          {
+            "name": "Impacto Tecnológico IA",
+            "age": "Edad y equipo dependen de la prueba. Hay categorías escolares, Junior, Amateur y Pro.",
+            "team": "El bloque empieza a las 09:30 en Ecuador. Confirmar turno y revisión del robot.",
+            "hardware": "Proyecto de IA con demostración. El equipo lleva materiales y dispositivos.",
+            "age_rule": "Edad y equipo dependen de la prueba. Hay categorías escolares, Junior, Amateur y Pro.",
+            "entry": "El organizador anuncia inscripciones. La página pública del formulario requiere acceso. Confirmar plazo, precio de la prueba y aceptación del equipo.",
+            "language": "Página en español. Confirmar el idioma de participación y del jurado.",
+            "award": "El organizador anuncia medallas y premios. Hay acreditaciones internacionales en categorías con convenio; confirmar las plazas.",
+            "note": "Confirmar edad, composición y criterios de evaluación para la inscripción."
+          }
+        ],
+        "event_ids": [
+          "C3285",
+          "C3286",
+          "C3287",
+          "C3288",
+          "C3289",
+          "C3290",
+          "C3291",
+          "C3292",
+          "C3293",
+          "C3294"
+        ],
+        "legacy_ids": [],
+        "route": "El organizador anuncia inscripciones. La página pública del formulario requiere acceso. Confirmar plazo, precio de la prueba y aceptación del equipo.",
+        "hardware": "Robot propio, repuestos y revisión antes de la prueba. Los límites técnicos varían por disciplina.",
+        "language": "Página en español. Confirmar el idioma de participación y del jurado.",
+        "importance": "Ruta internacional",
+        "strengths": "Torneo internacional con más de 40 pruebas. Comprobar horario, equipo y edad en cada ficha.",
+        "requirements": [
+          "El organizador anuncia inscripciones. La página pública del formulario requiere acceso. Confirmar plazo, precio de la prueba y aceptación del equipo."
+        ],
+        "nuances": [
+          "El programa se divide en 2 días. Se destacan las vías infantiles y técnicas más relevantes. Precio y acceso de espectadores sin confirmar."
+        ],
+        "cost": "Precio sin publicar.",
+        "award": "El organizador anuncia medallas y premios. Hay acreditaciones internacionales en categorías con convenio; confirmar las plazas.",
+        "sources": [
+          {
+            "url": "https://chaskibots.com/torneo-de-robotica-2026-el-chaco/",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://drive.google.com/drive/folders/1kdFBKuDVmzGd2gcc3gWF2zg9fXCvdILF?usp=sharing",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://drive.google.com/uc?export=download&id=1p1miVY4NxdKxoN3TDT3Kfnw6Sl_UlUYX",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://drive.google.com/uc?export=download&id=1IyitI5GVoO7fuWyyKMXGj3lDCAj9vvWD",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          }
+        ],
+        "evidence": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado."
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · programa de ingeniería y showcase",
         "group": "regional",
@@ -25344,7 +25693,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "Perfiles de ligas, familias y programas: 270. Se conservan las 46 rutas anteriores. Los formatos brasileños están separados y Robofest LATAM y BajaBot se describen por categorías. La cobertura mundial es parcial.",
+    "methodology": "Perfiles de ligas, familias y programas: 273; se conservan las 46 rutas anteriores. Se separan los formatos de Brasil y se describen las categorías de Robofest LATAM y BajaBot. Cobertura mundial parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

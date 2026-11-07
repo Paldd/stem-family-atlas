@@ -17,6 +17,11 @@ def enrich_v201(data):
 
     guide = data['league_guide']
     updates = {profile['id']: profile for profile in facts['league_updates']}
+    for profile in guide['profiles']:
+        update = updates.get(profile['id'])
+        if update is not None:
+            # Older profile snapshots must preserve fixtures added to the current catalogue.
+            update['event_ids'] = list(dict.fromkeys(update['event_ids'] + profile['event_ids']))
     guide['profiles'] = [updates.pop(profile['id'], profile) for profile in guide['profiles']]
     guide['profiles'].extend(updates.values())
 

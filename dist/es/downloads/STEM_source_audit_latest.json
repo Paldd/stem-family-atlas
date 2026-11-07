@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 8003,
-    "competition_cards": 3272,
-    "event_cards": 385,
+    "cards": 8027,
+    "competition_cards": 3294,
+    "event_cards": 387,
     "camp_cards": 4346,
-    "league_profiles": 270,
-    "major_exhibition_cards": 297,
+    "league_profiles": 273,
+    "major_exhibition_cards": 299,
     "vex_cards": 518,
     "countries_with_records": 159,
     "fully_audited_countries": 0
@@ -34,9 +34,9 @@
         "América Central",
         "Caribe"
       ],
-      "total": 2617,
+      "total": 2619,
       "countries_with_records": 23,
-      "competitions": 1450,
+      "competitions": 1452,
       "events": 91,
       "major_exhibitions": 54,
       "camps": 1076,
@@ -48,11 +48,11 @@
       "regions": [
         "América del Sur"
       ],
-      "total": 368,
+      "total": 387,
       "countries_with_records": 10,
-      "competitions": 204,
-      "events": 22,
-      "major_exhibitions": 19,
+      "competitions": 221,
+      "events": 24,
+      "major_exhibitions": 21,
       "camps": 142,
       "status": "Se ha estudiado parcialmente",
       "remaining": "muchos tarjetas de Ecuador y rutas regionales de Chile; Brasil, Perú y otros países requieren etapas, cuotas y calendarios locales."
@@ -90,9 +90,9 @@
       "regions": [
         "Asia"
       ],
-      "total": 2482,
+      "total": 2483,
       "countries_with_records": 44,
-      "competitions": 824,
+      "competitions": 825,
       "events": 108,
       "major_exhibitions": 96,
       "camps": 1550,
@@ -2422,11 +2422,12 @@
         "C2953",
         "C2954",
         "C2955",
-        "C2956"
+        "C2956",
+        "C3284"
       ],
-      "cards": 51,
-      "future_dated": 48,
-      "linked_card_count": 51,
+      "cards": 52,
+      "future_dated": 49,
+      "linked_card_count": 52,
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://www.bebras.org/countries",
       "new": false
@@ -6130,6 +6131,65 @@
       "linked_card_count": 7,
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://astanatechcup.kz/ru",
+      "new": false
+    },
+    {
+      "id": "hero-challenge",
+      "name": "HERO Challenge · Explorer / Pro",
+      "group": "international",
+      "event_ids": [
+        "C3274",
+        "C3275",
+        "C3276",
+        "C3277",
+        "C3278",
+        "C3279"
+      ],
+      "cards": 6,
+      "future_dated": 1,
+      "linked_card_count": 6,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://hero-challenge.org/events",
+      "new": false
+    },
+    {
+      "id": "fll-colombia-bioglow",
+      "name": "FIRST LEGO League Colombia · BIOGLOW Founders",
+      "group": "regional",
+      "event_ids": [
+        "C3280",
+        "C3281",
+        "C3282",
+        "C3283"
+      ],
+      "cards": 4,
+      "future_dated": 0,
+      "linked_card_count": 4,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://unno.uniminuto.edu/bioglow/",
+      "new": false
+    },
+    {
+      "id": "chaski-bots-el-chaco",
+      "name": "Chaski Bots LAB · Ecuador",
+      "group": "international",
+      "event_ids": [
+        "C3285",
+        "C3286",
+        "C3287",
+        "C3288",
+        "C3289",
+        "C3290",
+        "C3291",
+        "C3292",
+        "C3293",
+        "C3294"
+      ],
+      "cards": 10,
+      "future_dated": 10,
+      "linked_card_count": 10,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://chaskibots.com/torneo-de-robotica-2026-el-chaco/",
       "new": false
     },
     {
@@ -10425,6 +10485,28 @@
       "new": false
     },
     {
+      "id": "E386",
+      "name": "UNAD EXPOBOT 2026 · Robótica y prototipos",
+      "country": "Colombia",
+      "region": "América del Sur",
+      "start": "2026-11-11",
+      "end": "2026-11-11",
+      "visitor_policy": "confirm_children",
+      "source": "https://eventos.unad.edu.co/expobot-2026-innovacion-que-transforma-el-territorio",
+      "new": false
+    },
+    {
+      "id": "E387",
+      "name": "Indie Fest Chile 2026 · Showcase de videojuegos",
+      "country": "Chile",
+      "region": "América del Sur",
+      "start": "2026-11-12",
+      "end": "2026-11-12",
+      "visitor_policy": "confirm_children",
+      "source": "https://indiefestchile.cl/2026.html",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -11805,7 +11887,7 @@
       "official_alternative": "https://www.ykpaoschool.cn/News-and-Events/New-Stories/988"
     }
   ],
-  "interregional_cards": 117,
+  "interregional_cards": 119,
   "promoted_exhibition_ids": [],
   "focused_country": {
     "country": "Taiwán",

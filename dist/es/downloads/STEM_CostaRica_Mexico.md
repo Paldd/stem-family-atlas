@@ -3216,6 +3216,32 @@ Limitaciones: La inscripción terminó el 30 de octubre de 2026. Programa para e
 Fuente: https://www.utcj.edu.mx/convocatoria-robo-race-challenge-2026/
 Se ha comprobado: 2026-11-07
 
+### C3274 · HERO Challenge · Ciudad de México
+
+Fecha: 2026-11-12 — 2026-11-12
+edad: Condicional. Las reglas describen secundaria superior y universidad. La admisión de primaria no está especificada. Los menores necesitan permiso parental y supervisión de un adulto.
+Matvey: Condicional. Las reglas describen secundaria superior y universidad. La admisión de primaria no está especificada. Los menores necesitan permiso parental y supervisión de un adulto.
+Oscar: Condicional. Las reglas describen secundaria superior y universidad. La admisión de primaria no está especificada. Los menores necesitan permiso parental y supervisión de un adulto.
+Idioma: Reglas técnicas oficiales en inglés. Confirmar el idioma de la sede y del jurado.
+Acceso: El capitán solicita acceso, recibe aprobación, incluye a los asistentes y envía la inscripción a revisión. Se requiere el registro de cada asistente.
+Precio: MXN 200 por persona. Para 2 niños y 1 acompañante, estimación base de MXN 600 si los tres se registran a esa tarifa.
+Limitaciones: Preparación de 10:00 a 12:00, pruebas de 12:00 a 15:00 hora de Ciudad de México. Navegación terrestre y aérea, CanSat Descent. La práctica en simulador FPV y las pruebas de ala fija con inscripción aparte se separan del programa puntuado. Acceso general de público sin confirmar.
+Fuente: https://hero-challenge.org/events/mexico-city-2026
+Se ha comprobado: 2026-11-07
+
+### C3276 · HERO Challenge · Querétaro
+
+Fecha: 17 de febrero de 2027, provisional
+edad: Condicional. Las reglas describen secundaria superior y universidad. La admisión de primaria no está especificada. Los menores necesitan permiso parental y supervisión de un adulto.
+Matvey: Condicional. Las reglas describen secundaria superior y universidad. La admisión de primaria no está especificada. Los menores necesitan permiso parental y supervisión de un adulto.
+Oscar: Condicional. Las reglas describen secundaria superior y universidad. La admisión de primaria no está especificada. Los menores necesitan permiso parental y supervisión de un adulto.
+Idioma: Reglas técnicas oficiales en inglés. Confirmar el idioma de la sede y del jurado.
+Acceso: El capitán solicita acceso, recibe aprobación, incluye a los asistentes y envía la inscripción a revisión. Se requiere el registro de cada asistente.
+Precio: MXN 200 por persona. Encuentro opcional de MXN 150 por persona.
+Limitaciones: La ficha indica inscripción con fecha provisional. La sede y el programa, incluidas las condiciones de CanSat, requieren confirmación.
+Fuente: https://hero-challenge.org/events/queretaro-2027
+Se ha comprobado: 2026-11-07
+
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02
 
 Fecha: 2027-03-29 - 2027-04-02

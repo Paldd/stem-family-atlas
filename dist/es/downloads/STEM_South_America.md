@@ -2713,6 +2713,253 @@ Limitaciones: Encuentro profesional con boletos nominativos. Precio, sede y admi
 Fuente: https://achiag.cl/summit/
 Se ha comprobado: 2026-11-07
 
+### C3275 · HERO Challenge · Lima
+
+Fecha: Enero de 2027, provisional
+edad: Condicional. Las reglas describen secundaria superior y universidad. La admisión de primaria no está especificada. Los menores necesitan permiso parental y supervisión de un adulto.
+Matvey: Condicional. Las reglas describen secundaria superior y universidad. La admisión de primaria no está especificada. Los menores necesitan permiso parental y supervisión de un adulto.
+Oscar: Condicional. Las reglas describen secundaria superior y universidad. La admisión de primaria no está especificada. Los menores necesitan permiso parental y supervisión de un adulto.
+Idioma: Reglas técnicas oficiales en inglés. Confirmar el idioma de la sede y del jurado.
+Acceso: El capitán solicita acceso, recibe aprobación, incluye a los asistentes y envía la inscripción a revisión. Se requiere el registro de cada asistente.
+Precio: Precio sin publicar.
+Limitaciones: Prevén FPV terrestre y aéreo y simulación. Sede, CanSat y condiciones se anunciarán por separado.
+Fuente: https://hero-challenge.org/events/lima-2027
+Se ha comprobado: 2026-11-07
+
+### C3280 · FIRST LEGO League Colombia · BIOGLOW Founders Challenge
+
+Fecha: Regionales en febrero y principios de marzo de 2027
+Edad: 9*16
+Matvey: Condicional. Edad adecuada. Se necesitan equipo, inscripción confirmada y admisión en la región elegida.
+Oscar: No por ahora. Founders Edition solo tiene Challenge desde 9 años. No se celebran Explore ni Discover en esta edición.
+Idioma: Página en español. Confirmar el idioma de participación y del jurado.
+Acceso: Inscripción del equipo hasta noviembre de 2026 o hasta agotar las 68 plazas. Por orden de inscripción se asignan 35 en Cundinamarca y 33 en Occidente. Confirmar plazas y admisión de equipos extranjeros.
+Precio: COP 2 700 000 con IVA por equipo. Incluye kit BIOGLOW, materiales y 8 sesiones en línea. El equipo paga los viajes internacionales.
+Limitaciones: Las fechas exactas se comunicarán a equipos inscritos. Las plazas restantes no se publican.
+Fuente: https://unno.uniminuto.edu/bioglow/
+Se ha comprobado: 2026-11-07
+
+### C3281 · FIRST LEGO League Colombia · Regional Cundinamarca
+
+Fecha: Febrero — principios de marzo de 2027
+Edad: 9*16
+Matvey: Condicional. Edad adecuada. Se necesitan equipo, inscripción confirmada y admisión en la región elegida.
+Oscar: No por ahora. Founders Edition solo tiene Challenge desde 9 años. No se celebran Explore ni Discover en esta edición.
+Idioma: Página en español. Confirmar el idioma de participación y del jurado.
+Acceso: Inscripción del equipo hasta noviembre de 2026 o hasta agotar las 68 plazas. Por orden de inscripción se asignan 35 en Cundinamarca y 33 en Occidente. Confirmar plazas y admisión de equipos extranjeros.
+Precio: COP 2 700 000 con IVA por equipo. Incluye kit BIOGLOW, materiales y 8 sesiones en línea. El equipo paga los viajes internacionales.
+Limitaciones: Periodo provisional. El día exacto sigue sin confirmar.
+Fuente: https://unno.uniminuto.edu/bioglow/
+Se ha comprobado: 2026-11-07
+
+### C3282 · FIRST LEGO League Colombia · Regional Occidente
+
+Fecha: Febrero — principios de marzo de 2027
+Edad: 9*16
+Matvey: Condicional. Edad adecuada. Se necesitan equipo, inscripción confirmada y admisión en la región elegida.
+Oscar: No por ahora. Founders Edition solo tiene Challenge desde 9 años. No se celebran Explore ni Discover en esta edición.
+Idioma: Página en español. Confirmar el idioma de participación y del jurado.
+Acceso: Inscripción del equipo hasta noviembre de 2026 o hasta agotar las 68 plazas. Por orden de inscripción se asignan 35 en Cundinamarca y 33 en Occidente. Confirmar plazas y admisión de equipos extranjeros.
+Precio: COP 2 700 000 con IVA por equipo. Incluye kit BIOGLOW, materiales y 8 sesiones en línea. El equipo paga los viajes internacionales.
+Limitaciones: Periodo provisional. El día exacto sigue sin confirmar.
+Fuente: https://unno.uniminuto.edu/bioglow/
+Se ha comprobado: 2026-11-07
+
+### C3283 · FIRST LEGO League Colombia · Final Nacional Bogotá
+
+Fecha: Marzo de 2027, día exacto pendiente
+Edad: 9*16
+Matvey: Condicional. Edad adecuada. Se necesitan equipo, inscripción confirmada y admisión en la región elegida.
+Oscar: No por ahora. Founders Edition solo tiene Challenge desde 9 años. No se celebran Explore ni Discover en esta edición.
+Idioma: Página en español. Confirmar el idioma de participación y del jurado.
+Acceso: Clasificación por resultados en dos regionales. 20 equipos según la distribución del organizador.
+Precio: COP 2 700 000 con IVA por equipo. Incluye kit BIOGLOW, materiales y 8 sesiones en línea. El equipo paga los viajes internacionales.
+Limitaciones: Periodo provisional. El día exacto sigue sin confirmar.
+Fuente: https://unno.uniminuto.edu/bioglow/
+Se ha comprobado: 2026-11-07
+
+### C3284 · Bebras Ecuador · Reto 2026
+
+Fecha: 2026-11-09 — 2026-11-20
+edad: 6–18
+Matvey: Condicional. El rango de 6–18 años sirve para ambos si su escuela los inscribe según las reglas de Ecuador.
+Oscar: Condicional. El rango de 6–18 años sirve para ambos si su escuela los inscribe según las reglas de Ecuador.
+Idioma: Página en español. Confirmar el idioma de participación y del jurado.
+Acceso: El docente representante inscribe a la escuela. Confirmar acceso de centros extranjeros, división por curso y día de la prueba.
+Precio: Gratis para las escuelas.
+Limitaciones: La escuela informa del día de la prueba dentro del periodo. Es la etapa ecuatoriana de la red internacional Bebras.
+Fuente: https://bebrasecuador.com/ediciones-bebras-ecuador/
+Se ha comprobado: 2026-11-07
+
+### C3285 · Chaski Bots LAB · X Torneo Internacional · El Chaco
+
+Fecha: 2026-11-20 — 2026-11-21
+edad: Edad y equipo dependen de la prueba. Hay categorías escolares, Junior, Amateur y Pro.
+Matvey: Condicional. Confirmar el reglamento y la admisión del equipo con el organizador.
+Oscar: Condicional. Confirmar el reglamento y la admisión del equipo con el organizador.
+Idioma: Página en español. Confirmar el idioma de participación y del jurado.
+Acceso: El organizador anuncia inscripciones. La página pública del formulario requiere acceso. Confirmar plazo, precio de la prueba y aceptación del equipo.
+Precio: Precio sin publicar.
+Limitaciones: El programa se divide en 2 días. Se destacan las vías infantiles y técnicas más relevantes. Precio y acceso de espectadores sin confirmar.
+Fuente: https://chaskibots.com/torneo-de-robotica-2026-el-chaco/
+Se ha comprobado: 2026-11-07
+
+### C3286 · Chaski Bots · Creatividad WeDo 2.0
+
+Fecha: 2026-11-20 国 2026-11-20
+edad: Edad y equipo dependen de la prueba. Hay categorías escolares, Junior, Amateur y Pro.
+Matvey: Condicional. Confirmar el reglamento y la admisión del equipo con el organizador.
+Oscar: Condicional. Confirmar el reglamento y la admisión del equipo con el organizador.
+Idioma: Página en español. Confirmar el idioma de participación y del jurado.
+Acceso: El organizador anuncia inscripciones. La página pública del formulario requiere acceso. Confirmar plazo, precio de la prueba y aceptación del equipo.
+Precio: Precio sin publicar.
+Limitaciones: El archivo llamado WeDo 2.0 contiene reglas de Bristle Race. Edad, composición y reglas WeDo siguen sin confirmar.
+Fuente: https://chaskibots.com/torneo-de-robotica-2026-el-chaco/
+Se ha comprobado: 2026-11-07
+
+### C3287 · Chaski Bots · Creatividad LEGO EV3
+
+Fecha: 2026-11-21 — 2026-11-21
+edad: Sin límite de edad según las reglas de Creatividad LEGO. Confirmar el equipo y la aplicación a la prueba EV3.
+Matvey: Condicional. Las reglas publicadas de Creatividad LEGO no fijan límite de edad. Confirmar su aplicación a EV3 y la admisión del equipo.
+Oscar: Condicional. Las reglas publicadas de Creatividad LEGO no fijan límite de edad. Confirmar su aplicación a EV3 y la admisión del equipo.
+Idioma: Página en español. Confirmar el idioma de participación y del jurado.
+Acceso: El organizador anuncia inscripciones. La página pública del formulario requiere acceso. Confirmar plazo, precio de la prueba y aceptación del equipo.
+Precio: Precio sin publicar.
+Limitaciones: El reglamento general LEGO abre la participación sin límite de edad y para equipos extranjeros. El reto se da en la sede. El horario identifica por separado la prueba EV3.
+Fuente: https://chaskibots.com/torneo-de-robotica-2026-el-chaco/
+Se ha comprobado: 2026-11-07
+
+### C3288 · Chaski Bots · Sumo LEGO
+
+Fecha: 2026-11-21 — 2026-11-21
+edad: Edad y equipo dependen de la prueba. Hay categorías escolares, Junior, Amateur y Pro.
+Matvey: Condicional. Confirmar el reglamento y la admisión del equipo con el organizador.
+Oscar: Condicional. Confirmar el reglamento y la admisión del equipo con el organizador.
+Idioma: Página en español. Confirmar el idioma de participación y del jurado.
+Acceso: El organizador anuncia inscripciones. La página pública del formulario requiere acceso. Confirmar plazo, precio de la prueba y aceptación del equipo.
+Precio: Precio sin publicar.
+Limitaciones: El PDF general describe un equipo de 2 personas y apoyo fuera de la zona. La cláusula sin límite de edad está en Mini RC Amateur; confirmar edad para LEGO.
+Fuente: https://chaskibots.com/torneo-de-robotica-2026-el-chaco/
+Se ha comprobado: 2026-11-07
+
+### C3289 · Chaski Bots · Seguidor de Línea LEGO
+
+Fecha: 2026-11-21 — 2026-11-21
+edad: Edad y equipo dependen de la prueba. Hay categorías escolares, Junior, Amateur y Pro.
+Matvey: Condicional. Confirmar el reglamento y la admisión del equipo con el organizador.
+Oscar: Condicional. Confirmar el reglamento y la admisión del equipo con el organizador.
+Idioma: Página en español. Confirmar el idioma de participación y del jurado.
+Acceso: El organizador anuncia inscripciones. La página pública del formulario requiere acceso. Confirmar plazo, precio de la prueba y aceptación del equipo.
+Precio: Precio sin publicar.
+Limitaciones: Edad y número de participantes sin confirmar. El PDF publicado nombra EV3 y NXT; confirmar compatibilidad SPIKE.
+Fuente: https://chaskibots.com/torneo-de-robotica-2026-el-chaco/
+Se ha comprobado: 2026-11-07
+
+### C3290 · Chaski Bots · Soccer Junior
+
+Fecha: 2026-11-20 国 2026-11-20
+edad: Hasta 17 años inclusive. Confirmar mínimo y admisión.
+Matvey: Condicional. Confirmar el reglamento y la admisión del equipo con el organizador.
+Oscar: Condicional. Confirmar el reglamento y la admisión del equipo con el organizador.
+Idioma: Página en español. Confirmar el idioma de participación y del jurado.
+Acceso: El organizador anuncia inscripciones. La página pública del formulario requiere acceso. Confirmar plazo, precio de la prueba y aceptación del equipo.
+Precio: Precio sin publicar.
+Limitaciones: Edad mínima, número de jugadores y admisión de equipos extranjeros por confirmar.
+Fuente: https://chaskibots.com/torneo-de-robotica-2026-el-chaco/
+Se ha comprobado: 2026-11-07
+
+### C3291 · Chaski Bots · Seguidor de Línea Colegial
+
+Fecha: 2026-11-20 国 2026-11-20
+edad: Hasta 17 años inclusive. Confirmar mínimo y admisión.
+Matvey: Condicional. Confirmar el reglamento y la admisión del equipo con el organizador.
+Oscar: Condicional. Confirmar el reglamento y la admisión del equipo con el organizador.
+Idioma: Página en español. Confirmar el idioma de participación y del jurado.
+Acceso: El organizador anuncia inscripciones. La página pública del formulario requiere acceso. Confirmar plazo, precio de la prueba y aceptación del equipo.
+Precio: Precio sin publicar.
+Limitaciones: El reglamento se titula Junior y el horario llama Colegial a la prueba. Confirmar si el límite de 17 años aplica a este bloque.
+Fuente: https://chaskibots.com/torneo-de-robotica-2026-el-chaco/
+Se ha comprobado: 2026-11-07
+
+### C3292 · Chaski Bots · Minisumo RC Junior
+
+Fecha: 2026-11-20 国 2026-11-20
+edad: Edad y equipo dependen de la prueba. Hay categorías escolares, Junior, Amateur y Pro.
+Matvey: Condicional. Confirmar el reglamento y la admisión del equipo con el organizador.
+Oscar: Condicional. Confirmar el reglamento y la admisión del equipo con el organizador.
+Idioma: Página en español. Confirmar el idioma de participación y del jurado.
+Acceso: El organizador anuncia inscripciones. La página pública del formulario requiere acceso. Confirmar plazo, precio de la prueba y aceptación del equipo.
+Precio: Precio sin publicar.
+Limitaciones: Hay un bloque Junior en el horario. El PDF general de sumo no confirma edad mínima ni condiciones de este bloque juvenil.
+Fuente: https://chaskibots.com/torneo-de-robotica-2026-el-chaco/
+Se ha comprobado: 2026-11-07
+
+### C3293 · Chaski Bots · Innovation Challenger · Colegios / Escuelas
+
+Fecha: 2026-11-20 国 2026-11-20
+edad: Edad y equipo dependen de la prueba. Hay categorías escolares, Junior, Amateur y Pro.
+Matvey: Condicional. Confirmar el reglamento y la admisión del equipo con el organizador.
+Oscar: Condicional. Confirmar el reglamento y la admisión del equipo con el organizador.
+Idioma: Página en español. Confirmar el idioma de participación y del jurado.
+Acceso: El organizador anuncia inscripciones. La página pública del formulario requiere acceso. Confirmar plazo, precio de la prueba y aceptación del equipo.
+Precio: Precio sin publicar.
+Limitaciones: Formato escolar según horario. Hay plantilla de proyecto publicada; confirmar las reglas completas de edad.
+Fuente: https://chaskibots.com/torneo-de-robotica-2026-el-chaco/
+Se ha comprobado: 2026-11-07
+
+### C3294 · Chaski Bots · Impacto Tecnológico IA
+
+Fecha: 2026-11-21 — 2026-11-21
+edad: Edad y equipo dependen de la prueba. Hay categorías escolares, Junior, Amateur y Pro.
+Matvey: Condicional. Confirmar el reglamento y la admisión del equipo con el organizador.
+Oscar: Condicional. Confirmar el reglamento y la admisión del equipo con el organizador.
+Idioma: Página en español. Confirmar el idioma de participación y del jurado.
+Acceso: El organizador anuncia inscripciones. La página pública del formulario requiere acceso. Confirmar plazo, precio de la prueba y aceptación del equipo.
+Precio: Precio sin publicar.
+Limitaciones: Confirmar edad, composición y criterios de evaluación para la inscripción.
+Fuente: https://chaskibots.com/torneo-de-robotica-2026-el-chaco/
+Se ha comprobado: 2026-11-07
+
+### C3295 · EERA 2026 · Encuentro Ecuatoriano de Robótica Aplicada
+
+Fecha: Noviembre y diciembre de 2026, fechas divergentes
+edad: Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.
+Matvey: Condicional. Confirmar el reglamento y la admisión del equipo con el organizador.
+Oscar: Condicional. Confirmar el reglamento y la admisión del equipo con el organizador.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso:
+Precio: El sitio muestra Amateur USD 4.99 y Professional USD 9.99. También anuncia inscripción gratuita hasta el 11 de noviembre. Confirmar la aplicación de precios.
+Limitaciones: La portada indica 12–14 de noviembre y comienzo el 11 de diciembre. El horario también muestra 14 de noviembre, 11 de diciembre, 13 de noviembre y 13 de diciembre. Confirmar el programa vigente antes de viajar.
+Fuente: https://eera2026.cedia.edu.ec/
+Se ha comprobado: 2026-11-07
+
+### E386 · UNAD EXPOBOT 2026 · Robótica y prototipos
+
+Fecha: 2026-11-11 — 2026-11-11
+edad: Condicional. Se puede abrir la emisión pública. Confirmar reglas de participación infantil en pruebas y acceso presencial.
+Matvey: Condicional. Se puede abrir la emisión pública. Confirmar reglas de participación infantil en pruebas y acceso presencial.
+Oscar: Condicional. Se puede abrir la emisión pública. Confirmar reglas de participación infantil en pruebas y acceso presencial.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: Condicional. Se puede abrir la emisión pública. Confirmar reglas de participación infantil en pruebas y acceso presencial.
+Precio: El organizador indica acceso gratuito con inscripción. La página incluye un enlace separado de YouTube.
+Limitaciones: Demostraciones de prototipos, robótica y ponencias científicas. La audiencia general incluye estudiantes, docentes, investigadores y público.
+Fuente: https://eventos.unad.edu.co/expobot-2026-innovacion-que-transforma-el-territorio
+Se ha comprobado: 2026-11-07
+
+### E387 · Indie Fest Chile 2026 · Showcase de videojuegos
+
+Fecha: 2026-11-12 — 2026-11-12
+edad: Condicional. Comprobar la clasificación por edades del programa y verlo con los padres.
+Matvey: Condicional. Comprobar la clasificación por edades del programa y verlo con los padres.
+Oscar: Condicional. Comprobar la clasificación por edades del programa y verlo con los padres.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: Condicional. Comprobar la clasificación por edades del programa y verlo con los padres.
+Precio: Canales abiertos de YouTube y Twitch. No se indica entrada de pago para la emisión.
+Limitaciones: Presentaciones de videojuegos chilenos y colección de juegos de 2026. Solicitudes de desarrolladores y co-streamers cerradas. Hora de inicio sin confirmar en la fuente.
+Fuente: https://indiefestchile.cl/2026.html
+Se ha comprobado: 2026-11-07
+
 ### CP047-20270103-20270108 · Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08
 
 Fecha: 2027-01-03 国 2027-01-08

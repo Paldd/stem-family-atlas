@@ -14329,6 +14329,129 @@
       "date_scope": "festival_window"
     },
     {
+      "id": "C3274",
+      "block": "Competiciones",
+      "title": "HERO Challenge · Ciudad de México",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Auditorio Glaxo · Tecnológico de Monterrey CCM",
+      "start": "2026-11-12",
+      "end": "2026-11-12",
+      "deadline": "",
+      "period": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://hero-challenge.org/events/mexico-city-2026",
+      "references": [
+        {
+          "url": "https://hero-challenge.org/rules/team",
+          "label": "Reglas y condiciones de admisión"
+        },
+        {
+          "url": "https://hero-challenge.org/rules/single-robot",
+          "label": "Reglas y condiciones de admisión"
+        },
+        {
+          "url": "https://hero-challenge.org/terms/participation",
+          "label": "Reglas y condiciones de admisión"
+        },
+        {
+          "url": "https://hero-challenge.org/rules/qualification",
+          "label": "Reglas y condiciones de admisión"
+        }
+      ],
+      "age": "Condicional. Las reglas describen secundaria superior y universidad. La admisión de primaria no está especificada. Los menores necesitan permiso parental y supervisión de un adulto.",
+      "mat": "Condicional. Las reglas describen secundaria superior y universidad. La admisión de primaria no está especificada. Los menores necesitan permiso parental y supervisión de un adulto.",
+      "osc": "Condicional. Las reglas describen secundaria superior y universidad. La admisión de primaria no está especificada. Los menores necesitan permiso parental y supervisión de un adulto.",
+      "format": "Explorer y Pro indican dificultad. Confirmar con la sede la edad mínima para primaria.",
+      "entry": "El capitán solicita acceso, recibe aprobación, incluye a los asistentes y envía la inscripción a revisión. Se requiere el registro de cada asistente.",
+      "gear": "Robot y equipo propios, con un observador de seguridad distinto del piloto en la prueba de un solo robot. El equipo depende de la misión.",
+      "language": "Reglas técnicas oficiales en inglés. Confirmar el idioma de la sede y del jurado.",
+      "language_certainty": "Reglas técnicas oficiales en inglés. Confirmar el idioma de la sede y del jurado.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "MXN 200 por persona. Para 2 niños y 1 acompañante, estimación base de MXN 600 si los tres se registran a esa tarifa.",
+      "level": "Ruta internacional",
+      "reward": "La ruta por podios exige al menos 3 retos distintos y la combinación publicada de resultados de podio. Hay una ruta separada mediante evaluación de evidencias.",
+      "priority": "P1 — verificar admisión y plazos",
+      "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
+      "note": "Preparación de 10:00 a 12:00, pruebas de 12:00 a 15:00 hora de Ciudad de México. Navegación terrestre y aérea, CanSat Descent. La práctica en simulador FPV y las pruebas de ala fija con inscripción aparte se separan del programa puntuado. Acceso general de público sin confirmar.",
+      "themes": [
+        "robotics",
+        "technology",
+        "coding"
+      ],
+      "scope": "regional",
+      "importance_reason": "La ruta por podios exige al menos 3 retos distintos y la combinación publicada de resultados de podio. Hay una ruta separada mediante evaluación de evidencias.",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "competition",
+      "registration_status": "El organizador indica inscripción abierta. La aprobación y el acceso efectivo se verifican por separado."
+    },
+    {
+      "id": "C3276",
+      "block": "Competiciones",
+      "title": "HERO Challenge · Querétaro",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Querétaro · Tecnológico de Monterrey",
+      "start": "",
+      "end": "",
+      "deadline": "",
+      "period": "17 de febrero de 2027, provisional",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://hero-challenge.org/events/queretaro-2027",
+      "references": [
+        {
+          "url": "https://hero-challenge.org/events",
+          "label": "Reglas y condiciones de admisión"
+        },
+        {
+          "url": "https://hero-challenge.org/rules/qualification",
+          "label": "Reglas y condiciones de admisión"
+        }
+      ],
+      "age": "Condicional. Las reglas describen secundaria superior y universidad. La admisión de primaria no está especificada. Los menores necesitan permiso parental y supervisión de un adulto.",
+      "mat": "Condicional. Las reglas describen secundaria superior y universidad. La admisión de primaria no está especificada. Los menores necesitan permiso parental y supervisión de un adulto.",
+      "osc": "Condicional. Las reglas describen secundaria superior y universidad. La admisión de primaria no está especificada. Los menores necesitan permiso parental y supervisión de un adulto.",
+      "format": "Explorer y Pro indican dificultad. Confirmar con la sede la edad mínima para primaria.",
+      "entry": "El capitán solicita acceso, recibe aprobación, incluye a los asistentes y envía la inscripción a revisión. Se requiere el registro de cada asistente.",
+      "gear": "Robot y equipo propios, con un observador de seguridad distinto del piloto en la prueba de un solo robot. El equipo depende de la misión.",
+      "language": "Reglas técnicas oficiales en inglés. Confirmar el idioma de la sede y del jurado.",
+      "language_certainty": "Reglas técnicas oficiales en inglés. Confirmar el idioma de la sede y del jurado.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "MXN 200 por persona. Encuentro opcional de MXN 150 por persona.",
+      "level": "Ruta internacional",
+      "reward": "La ruta por podios exige al menos 3 retos distintos y la combinación publicada de resultados de podio. Hay una ruta separada mediante evaluación de evidencias.",
+      "priority": "P3 — seguir el anuncio",
+      "action": "Comprobar la fecha, las reglas y el acceso en la página del organizador.",
+      "note": "La ficha indica inscripción con fecha provisional. La sede y el programa, incluidas las condiciones de CanSat, requieren confirmación.",
+      "themes": [
+        "robotics",
+        "technology",
+        "coding"
+      ],
+      "scope": "regional",
+      "importance_reason": "La ruta por podios exige al menos 3 retos distintos y la combinación publicada de resultados de podio. Hay una ruta separada mediante evaluación de evidencias.",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch"
+    },
+    {
       "id": "CP041-20270329-20270402",
       "block": "Campamentos",
       "title": "Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02",
@@ -22025,7 +22148,7 @@
       "title": "TecPro Challenge Virtual · Match 1 · 2026",
       "country": "en línea / latinoamérica",
       "region": "Global",
-      "city": "en línea",
+      "city": "En línea",
       "start": "2026-10-10",
       "end": "2026-10-10",
       "period": "10 de octubre de 2026  Premios; entrega de equipos registrados hasta el 4 de octubre",
@@ -22090,7 +22213,7 @@
       "title": "TecPro Virtual · Match 2 (2027) · Animaciones e Historias Interactivas",
       "country": "en línea / latinoamérica",
       "region": "Global",
-      "city": "en línea",
+      "city": "En línea",
       "start": "",
       "end": "",
       "period": "el segundo match independiente en 2027; la selección exacta, la entrega y la concesión no se han anunciado",
@@ -22153,7 +22276,7 @@
       "title": "TecPro Virtual · Match 2 (2027) · Desarrollo de Videojuegos",
       "country": "en línea / latinoamérica",
       "region": "Global",
-      "city": "en línea",
+      "city": "En línea",
       "start": "",
       "end": "",
       "period": "el segundo match independiente en 2027; la selección exacta, la entrega y la concesión no se han anunciado",
@@ -22216,7 +22339,7 @@
       "title": "TecPro Virtual · Match 2 (2027) · Automatización",
       "country": "en línea / latinoamérica",
       "region": "Global",
-      "city": "en línea",
+      "city": "En línea",
       "start": "",
       "end": "",
       "period": "el segundo match independiente en 2027; la selección exacta, la entrega y la concesión no se han anunciado",
