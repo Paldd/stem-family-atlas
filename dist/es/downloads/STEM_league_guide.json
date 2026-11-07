@@ -1664,20 +1664,20 @@
             "checked": "2026-11-06"
           },
           {
-            "name": "Inspire",
-            "age": "estudiantes actuales de possecundaria",
-            "team": "por manual",
-            "hardware": "estructura abierta; dos robots en la alianza",
-            "age_rule": "por el estatus educativo",
-            "entry": "programa de RECF mayor"
+            "name": "Inspire · Pinnacle",
+            "age": "Inspire: secundaria terminada, sin estudios simultáneos secondary / post-secondary; estudios posteriores hacia certificate / degree o título obtenido durante 6 meses antes de RECF Worlds. Es condición educativa, no categoría de edad infantil.",
+            "team": "Equipo registrado desde 1 estudiante; dos robots propios forman alianza del mismo equipo. Hasta 6 estudiantes en pista no es tamaño máximo del equipo.",
+            "hardware": "Dos robots con electrónica VEX V5; diseño, CAD, código y piezas fabricadas permitidas propias. Cada uno inicia en tamaño ≤18 × 18 × 18 pulgadas. Sensores adicionales e impresión 3D sujetos a manual e inspección; resin printing prohibido.",
+            "age_rule": "No: Matvey y Oscar aún no han terminado secundaria; Inspire es vía universitaria. Visita como espectadores solo tras comprobar reglas de visitantes.",
+            "entry": "Finalizar secundaria y estudios post-secondary elegibles → registro Inspire → qualifying event local → Event Region Championship asignado → RECF Worlds con plaza confirmada. Inspire no equivale a VEX U ni concede plaza automática en VEX Worlds."
           },
           {
-            "name": "Launch",
-            "age": "juego de aprendizaje de cualquier edad",
-            "team": "por las reglas del aula",
-            "hardware": "reglas de robots flexibles",
-            "age_rule": "edad del programa de estudios no da la cuota del campeonato",
-            "entry": "Aulas de Crossfield"
+            "name": "Launch · Crossfield",
+            "age": "Cualquier edad para juego educativo de clase / club; preparación individual y organización escolar aparte.",
+            "team": "Dos alumnos de drive team en pista; partido de 90 segundos, relevo obligatorio del mando al quedar 50–40 segundos. Grupo puede ser mayor; no es límite declarado de alumnos del club.",
+            "hardware": "Robot existente con control remoto y/o código escrito previamente; inicio ≤16 × 16 × 16 pulgadas. Pista de 6 × 8 o 12 × 12 pies, divisor, pelotas estándar y porterías simples. Organizador educativo determina compatibilidad e inspección.",
+            "age_rule": "Edad del juego educativo no confirma derecho a participar en otras ligas",
+            "entry": "Para hermanos: clase / club y entrenador → montar mecanismo simple y depurar código → jugar con dos conductores e intercambio de roles → registrar mejoras → elegir aparte Engage Elementary u otra liga menor y confirmar admisión. Launch no concede paso automático ni plaza World."
           }
         ],
         "event_ids": [
@@ -2304,7 +2304,16 @@
           "C2893",
           "C2894",
           "C2895",
-          "C030"
+          "C030",
+          "C2896",
+          "C2911",
+          "C2912",
+          "C2914",
+          "C2919",
+          "C2920",
+          "C2923",
+          "C2924",
+          "C2929"
         ],
         "legacy_ids": [
           "C029"
@@ -2355,6 +2364,16 @@
           {
             "title": "Criterios clasificatorios RECF: región, Conference y Worlds",
             "url": "https://kb.roboticseducation.org/hc/en-us/articles/5474199602071-Qualifying-Criteria-for-RECF-Robotics-Competition-Programs",
+            "checked": "2026-11-06"
+          },
+          {
+            "title": "Inspire Pinnacle manual 2.0",
+            "url": "https://games.recf.org/inspire/2.0",
+            "checked": "2026-11-06"
+          },
+          {
+            "title": "Launch Crossfield manual 1.1",
+            "url": "https://games.recf.org/launch-robotics/1.1",
             "checked": "2026-11-06"
           }
         ],
@@ -17815,6 +17834,223 @@
         "evidence": "Instantánea de fuente: 355 fichas detalladas y 5 anuncios; 3 formaciones adultas excluidas de registros infantiles. No están auditadas por completo reglas locales de todos los eventos, admisión individual ni todos los programas mundiales."
       },
       {
+        "id": "recf-inspire",
+        "name": "RECF Inspire · Pinnacle",
+        "group": "advanced",
+        "age_summary": "Inspire: secundaria terminada, sin estudios simultáneos secondary / post-secondary; estudios posteriores hacia certificate / degree o título obtenido durante 6 meses antes de RECF Worlds. Es condición educativa, no categoría de edad infantil.",
+        "age_tags": [
+          "university"
+        ],
+        "summary": "Mecánica universitaria, dos robots de un equipo, piezas y código propios. Ahora no corresponde a Matvey ni Oscar; se conserva como vía educativa futura.",
+        "categories": [
+          {
+            "name": "Inspire · Pinnacle",
+            "age": "Inspire: secundaria terminada, sin estudios simultáneos secondary / post-secondary; estudios posteriores hacia certificate / degree o título obtenido durante 6 meses antes de RECF Worlds. Es condición educativa, no categoría de edad infantil.",
+            "team": "Equipo registrado desde 1 estudiante; dos robots propios forman alianza del mismo equipo. Hasta 6 estudiantes en pista no es tamaño máximo del equipo.",
+            "hardware": "Dos robots con electrónica VEX V5; diseño, CAD, código y piezas fabricadas permitidas propias. Cada uno inicia en tamaño ≤18 × 18 × 18 pulgadas. Sensores adicionales e impresión 3D sujetos a manual e inspección; resin printing prohibido.",
+            "age_rule": "No: Matvey y Oscar aún no han terminado secundaria; Inspire es vía universitaria. Visita como espectadores solo tras comprobar reglas de visitantes.",
+            "entry": "Finalizar secundaria y estudios post-secondary elegibles → registro Inspire → qualifying event local → Event Region Championship asignado → RECF Worlds con plaza confirmada. Inspire no equivale a VEX U ni concede plaza automática en VEX Worlds."
+          }
+        ],
+        "event_ids": [
+          "C2896",
+          "C2911",
+          "C2912",
+          "C2914",
+          "C2919",
+          "C2920",
+          "C2923",
+          "C2924",
+          "C2929"
+        ],
+        "legacy_ids": [],
+        "route": "Finalizar secundaria y estudios post-secondary elegibles → registro Inspire → qualifying event local → Event Region Championship asignado → RECF Worlds con plaza confirmada. Inspire no equivale a VEX U ni concede plaza automática en VEX Worlds.",
+        "hardware": "Dos robots con electrónica VEX V5; diseño, CAD, código y piezas fabricadas permitidas propias. Cada uno inicia en tamaño ≤18 × 18 × 18 pulgadas. Sensores adicionales e impresión 3D sujetos a manual e inspección; resin printing prohibido.",
+        "language": "Manual y portal en inglés no prueban idioma oral de evaluación o enseñanza. EN / ES / RU sin confirmar en evento concreto.",
+        "importance": "Programa separado RECF; nivel y edad no se trasladan a otra liga",
+        "strengths": "Mecánica universitaria, dos robots de un equipo, piezas y código propios. Ahora no corresponde a Matvey ni Oscar; se conserva como vía educativa futura.",
+        "requirements": [
+          "Inspire: secundaria terminada, sin estudios simultáneos secondary / post-secondary; estudios posteriores hacia certificate / degree o título obtenido durante 6 meses antes de RECF Worlds. Es condición educativa, no categoría de edad infantil.",
+          "Equipo registrado desde 1 estudiante; dos robots propios forman alianza del mismo equipo. Hasta 6 estudiantes en pista no es tamaño máximo del equipo.",
+          "Si ningún integrante Inspire supera 18 años, requiere acompañante adulto mayor de 18 durante todo evento. RECF Participant Release Form de temporada obligatoria para cada participante."
+        ],
+        "nuances": [
+          "No: Matvey y Oscar aún no han terminado secundaria; Inspire es vía universitaria. Visita como espectadores solo tras comprobar reglas de visitantes.",
+          "Estudios simultáneos secondary y post-secondary no permiten Inspire. Hasta 6 participantes en pista no significa equipo de exactamente 6."
+        ],
+        "cost": "Temporada RECF Robotics USD 175 según FAQ general; cuotas locales y material aparte, confirmar aplicación de tarifa a factura Inspire",
+        "award": "Premio solo según reglas de torneo concreto; juego educativo por sí solo no concede victoria mundial",
+        "sources": [
+          {
+            "title": "Manual inspire",
+            "url": "https://games.recf.org/inspire/2.0",
+            "checked": "2026-11-06"
+          },
+          {
+            "title": "Presentación oficial",
+            "url": "https://recf.org/teams/recf-robotics-competition/",
+            "checked": "2026-11-06"
+          }
+        ],
+        "evidence": "Leídas reglas actuales y fichas oficiales; admisión familiar individual y exhaustividad mundial sin confirmar."
+      },
+      {
+        "id": "recf-adc-pro",
+        "name": "RECF ADC Pro · Off Grid",
+        "group": "advanced",
+        "age_summary": "ADC Pro: presentación orientada a High School 13+ y college. Manual 2.0 define 19U como ≤19 al 6 de mayo de 2027 antes de terminar secundaria; college después de secundaria sin dual enrollment, con estudios hacia certificate / degree o título en los 6 meses previos. Admisión de menores sin confirmar por separado.",
+        "age_tags": [
+          "teen",
+          "university"
+        ],
+        "summary": "Ingeniería conjunta de dos tipos de drones y robot terrestre: pilotaje, código autónomo, coordinación y cuaderno. Vía mayor; composición y material distintos de ADC ordinario.",
+        "categories": [
+          {
+            "name": "19U / High School",
+            "age": "ADC Pro: presentación orientada a High School 13+ y college. Manual 2.0 define 19U como ≤19 al 6 de mayo de 2027 antes de terminar secundaria; college después de secundaria sin dual enrollment, con estudios hacia certificate / degree o título en los 6 meses previos. Admisión de menores sin confirmar por separado.",
+            "team": "Mínimo formal 2 alumnos según manual; 3–6 es composición recomendada en presentación. Hasta 3 participantes de mission crew en pista: pilot, driver y mission specialist. No es tamaño máximo del equipo.",
+            "hardware": "Qualifying tournament requiere tres tipos de máquinas: MINDS-i teamwork drone, CoDrone EDU solo drone y robot terrestre. Falta de cualquier tipo impide todos los partidos. Robot terrestre ≤15 × 15 × 15 pulgadas durante todo partido; modelos exactos, electrónica e inspección según manual 2.0.",
+            "age_rule": "Condicional / vía futura: actualmente 6 / 9 años; presentación ADC Pro indica High School 13+. Manual fija límite superior, pero no confirma admisión de menores. Para inicio cercano comparar Engage Elementary o ADC ordinario tras comprobar admisión local.",
+            "entry": "Solo en primera temporada 2026–2027 ADC Pro usa un Event Region común para todos los equipos. Qualifying event elegible → Season Championship de otoño o primavera; RECF / RSM aprueban plazas e invitación World. Nacionalidad por sí sola no permite acceso a sede restringida."
+          },
+          {
+            "name": "College / University",
+            "age": "Inspire: secundaria terminada, sin estudios simultáneos secondary / post-secondary; estudios posteriores hacia certificate / degree o título obtenido durante 6 meses antes de RECF Worlds. Es condición educativa, no categoría de edad infantil.",
+            "team": "Mínimo formal 2 alumnos según manual; 3–6 es composición recomendada en presentación. Hasta 3 participantes de mission crew en pista: pilot, driver y mission specialist. No es tamaño máximo del equipo.",
+            "hardware": "Qualifying tournament requiere tres tipos de máquinas: MINDS-i teamwork drone, CoDrone EDU solo drone y robot terrestre. Falta de cualquier tipo impide todos los partidos. Robot terrestre ≤15 × 15 × 15 pulgadas durante todo partido; modelos exactos, electrónica e inspección según manual 2.0.",
+            "age_rule": "No: Matvey y Oscar aún no han terminado secundaria; Inspire es vía universitaria. Visita como espectadores solo tras comprobar reglas de visitantes.",
+            "entry": "Solo en primera temporada 2026–2027 ADC Pro usa un Event Region común para todos los equipos. Qualifying event elegible → Season Championship de otoño o primavera; RECF / RSM aprueban plazas e invitación World. Nacionalidad por sí sola no permite acceso a sede restringida."
+          }
+        ],
+        "event_ids": [
+          "C2897",
+          "C2898",
+          "C2899",
+          "C2900",
+          "C2901",
+          "C2902",
+          "C2903",
+          "C2904",
+          "C2905",
+          "C2906",
+          "C2907",
+          "C2908",
+          "C2909",
+          "C2910",
+          "C2913",
+          "C2915",
+          "C2916",
+          "C2917",
+          "C2918",
+          "C2921",
+          "C2922",
+          "C2925",
+          "C2926",
+          "C2927",
+          "C2928",
+          "C2930",
+          "C2931",
+          "C2932",
+          "L635"
+        ],
+        "legacy_ids": [],
+        "route": "Solo en primera temporada 2026–2027 ADC Pro usa un Event Region común para todos los equipos. Qualifying event elegible → Season Championship de otoño o primavera; RECF / RSM aprueban plazas e invitación World. Nacionalidad por sí sola no permite acceso a sede restringida.",
+        "hardware": "Qualifying tournament requiere tres tipos de máquinas: MINDS-i teamwork drone, CoDrone EDU solo drone y robot terrestre. Falta de cualquier tipo impide todos los partidos. Robot terrestre ≤15 × 15 × 15 pulgadas durante todo partido; modelos exactos, electrónica e inspección según manual 2.0.",
+        "language": "Manual y portal en inglés no prueban idioma oral de evaluación o enseñanza. EN / ES / RU sin confirmar en evento concreto.",
+        "importance": "Programa separado RECF; nivel y edad no se trasladan a otra liga",
+        "strengths": "Ingeniería conjunta de dos tipos de drones y robot terrestre: pilotaje, código autónomo, coordinación y cuaderno. Vía mayor; composición y material distintos de ADC ordinario.",
+        "requirements": [
+          "ADC Pro: presentación orientada a High School 13+ y college. Manual 2.0 define 19U como ≤19 al 6 de mayo de 2027 antes de terminar secundaria; college después de secundaria sin dual enrollment, con estudios hacia certificate / degree o título en los 6 meses previos. Admisión de menores sin confirmar por separado.",
+          "Mínimo formal 2 alumnos según manual; 3–6 es composición recomendada en presentación. Hasta 3 participantes de mission crew en pista: pilot, driver y mission specialist. No es tamaño máximo del equipo.",
+          "Qualifying tournament requiere tres tipos de máquinas: MINDS-i teamwork drone, CoDrone EDU solo drone y robot terrestre. Falta de cualquier tipo impide todos los partidos. Robot terrestre ≤15 × 15 × 15 pulgadas durante todo partido; modelos exactos, electrónica e inspección según manual 2.0.",
+          "Equipo High School ADC Pro requiere acompañante adulto mayor de 18 años durante todo evento; cada participante necesita RECF Participant Release Form de temporada."
+        ],
+        "nuances": [
+          "En 2026–2027 invitaciones World posibles mediante distintos eventos aprobados y standings. Para 2027–2028 estructura regional solo prevista; no trasladarla a temporada actual. Plaza, admisión por edad y aceptación del equipo son comprobaciones diferentes.",
+          "MINDS-i robot en estimación de precio es ejemplo terrestre; manual admite otro robot que cumpla límites técnicos. No obliga a comprar esa marca.",
+          "QC6D no permite torneos ADC Pro invitational ni solo-only en primera temporada; mínimo 8 se refiere a equipos del evento, no alumnos. RSM determina excepciones.",
+          "NASA Langley excluye extranjeros desde 18 años; restricción de sede, no de toda liga. Anfitrión escolar o Conference en título por sí solos no restringen otros eventos."
+        ],
+        "cost": "Presentación solo ofrece estimaciones: MINDS-i drone USD 1350, CoDrone EDU USD 249, robot terrestre MINDS-i USD 900; total USD 2499 por máquinas. Temporada estimada USD 200, etapa local aprox. USD 50–100. Pista, elementos de juego, envío, impuestos, repuestos y viaje aparte. Precios de distribuidores y factura final sin comprobar.",
+        "award": "Premio solo según reglas de torneo concreto; juego educativo por sí solo no concede victoria mundial",
+        "sources": [
+          {
+            "title": "Manual pro",
+            "url": "https://games.recf.org/pro/2.0",
+            "checked": "2026-11-06"
+          },
+          {
+            "title": "Presentación oficial",
+            "url": "https://recf.org/teams/adc-pro/",
+            "checked": "2026-11-06"
+          },
+          {
+            "title": "Clasificación ADC Pro y región única de primera temporada",
+            "url": "https://kb.roboticseducation.org/hc/en-us/articles/41351149758999-Qualifying-Criteria-for-RECF-Drone-Competition-Programs",
+            "checked": "2026-11-06"
+          },
+          {
+            "title": "Signature oficial",
+            "url": "https://recf.org/teams/competition/recf-signature-events/",
+            "checked": "2026-11-06"
+          }
+        ],
+        "evidence": "Leídas reglas actuales y fichas oficiales; admisión familiar individual y exhaustividad mundial sin confirmar."
+      },
+      {
+        "id": "recf-launch",
+        "name": "RECF Launch · Crossfield",
+        "group": "core",
+        "age_summary": "Cualquier edad para juego educativo de clase / club; preparación individual y organización escolar aparte.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Práctica para Matvey y Oscar en clase / club: mecanismo de agarre, código, precisión, estrategia y cambio de roles. Juego oficial de cualquier edad; no calendario internacional independiente.",
+        "categories": [
+          {
+            "name": "Launch · Crossfield",
+            "age": "Cualquier edad para juego educativo de clase / club; preparación individual y organización escolar aparte.",
+            "team": "Dos alumnos de drive team en pista; partido de 90 segundos, relevo obligatorio del mando al quedar 50–40 segundos. Grupo puede ser mayor; no es límite declarado de alumnos del club.",
+            "hardware": "Robot existente con control remoto y/o código escrito previamente; inicio ≤16 × 16 × 16 pulgadas. Pista de 6 × 8 o 12 × 12 pies, divisor, pelotas estándar y porterías simples. Organizador educativo determina compatibilidad e inspección.",
+            "age_rule": "Edad del juego educativo no confirma derecho a participar en otras ligas",
+            "entry": "Para hermanos: clase / club y entrenador → montar mecanismo simple y depurar código → jugar con dos conductores e intercambio de roles → registrar mejoras → elegir aparte Engage Elementary u otra liga menor y confirmar admisión. Launch no concede paso automático ni plaza World."
+          }
+        ],
+        "event_ids": [],
+        "legacy_ids": [],
+        "route": "Para hermanos: clase / club y entrenador → montar mecanismo simple y depurar código → jugar con dos conductores e intercambio de roles → registrar mejoras → elegir aparte Engage Elementary u otra liga menor y confirmar admisión. Launch no concede paso automático ni plaza World.",
+        "hardware": "Robot existente con control remoto y/o código escrito previamente; inicio ≤16 × 16 × 16 pulgadas. Pista de 6 × 8 o 12 × 12 pies, divisor, pelotas estándar y porterías simples. Organizador educativo determina compatibilidad e inspección.",
+        "language": "Manual en inglés; entrenador fija idioma de trabajo de clase / club. No se confirma aquí programa impartido en EN / ES.",
+        "importance": "Preparación educativa, sin clasificación mundial anunciada",
+        "strengths": "Práctica para Matvey y Oscar en clase / club: mecanismo de agarre, código, precisión, estrategia y cambio de roles. Juego oficial de cualquier edad; no calendario internacional independiente.",
+        "requirements": [
+          "Dos alumnos de drive team en pista; partido de 90 segundos, relevo obligatorio del mando al quedar 50–40 segundos. Grupo puede ser mayor; no es límite declarado de alumnos del club.",
+          "Organizador educativo y entrenador deben fijar lugar, horario, idioma y preparación infantil; no se encontró convocatoria concreta"
+        ],
+        "nuances": [
+          "Launch Crossfield es juego educativo publicado, no campamento encontrado, calendario de sesiones ni convocatoria abierta. Filtro RECF Events no incluye Launch separado; no confirma fechas, cuota, clases EN / ES ni diploma del organizador.",
+          "Manual 1.1 exige relevo del mando en cada partido. No trasladar reglas a Achieve, Inspire ni ADC ordinario."
+        ],
+        "cost": "No hay tarifa confirmada de campamento / club. Reutilizar robot es posible según reglas; pista, materiales y entrenador requieren presupuesto aparte.",
+        "award": "Premio solo según reglas de torneo concreto; juego educativo por sí solo no concede victoria mundial",
+        "sources": [
+          {
+            "title": "Manual launch",
+            "url": "https://games.recf.org/launch-robotics/1.1",
+            "checked": "2026-11-06"
+          },
+          {
+            "title": "Presentación oficial",
+            "url": "https://recf.org/teams/recf-robotics-competition/",
+            "checked": "2026-11-06"
+          }
+        ],
+        "evidence": "Leídas reglas actuales y fichas oficiales; admisión familiar individual y exhaustividad mundial sin confirmar."
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · programa de ingeniería y showcase",
         "group": "regional",
@@ -23116,7 +23352,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "253 perfiles de ligas, familias y programas; se conservan las 46 rutas anteriores. Los formatos brasileños están separados y Robofest LATAM y BajaBot locales se describen por sus categorías. Cobertura mundial parcial.",
+    "methodology": "Perfiles de ligas, familias y programas: 256; se conservan las 46 rutas anteriores. Los formatos brasileños están separados y Robofest LATAM y BajaBot locales se describen por sus categorías. Cobertura mundial parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

@@ -8934,6 +8934,22 @@ Limitaciones: No se establece plaza clasificatoria de este registro; pertenecer 
 Fuente: https://recfevents.org/Events/Details/700
 Se ha comprobado: 2026-11-06
 
+### L635 · ADC Pro · FFA Expo · formación y práctica 21–22 de octubre de 2026
+
+lugar: Estados Unidos · Indianapolis, Indiana, Indiana Convention Center
+Fecha: 2026-10-21 — 2026-10-22
+edad: ADC Pro: presentación orientada a High School 13+ y college. Manual 2.0 define 19U como ≤19 al 6 de mayo de 2027 antes de terminar secundaria; college después de secundaria sin dual enrollment, con estudios hacia certificate / degree o título en los 6 meses previos. Admisión de menores sin confirmar por separado.
+Matvey: Condicional / vía futura: actualmente 6 / 9 años; presentación ADC Pro indica High School 13+. Manual fija límite superior, pero no confirma admisión de menores. Para inicio cercano comparar Engage Elementary o ADC ordinario tras comprobar admisión local.
+Oscar: Condicional / vía futura: actualmente 6 / 9 años; presentación ADC Pro indica High School 13+. Manual fija límite superior, pero no confirma admisión de menores. Para inicio cercano comparar Engage Elementary o ADC ordinario tras comprobar admisión local.
+formato: workshop
+Idioma: Manual y portal en inglés no prueban idioma oral de evaluación o enseñanza. EN / ES / RU sin confirmar en evento concreto.
+Marca de idioma: no clasificada; soporte: no declarada
+Precio: Precio de formación y entrada a FFA Convention sin fijar por separado; campo Free corresponde a ficha scrimmage
+Acceso: Formación de equipos en FFA Convention; acceso separado de visitantes menores, pertenencia a delegación e idioma sin confirmar. Sesión ya finalizada.
+Limitaciones: Fecha formativa tomada de General information, no de campos de torneo de un día. 23 de octubre de 2026 separado como práctica competitiva.
+Fuente: https://recfevents.org/Events/Details/159
+Se ha comprobado: 2026-11-06
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier

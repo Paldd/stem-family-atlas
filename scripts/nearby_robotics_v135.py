@@ -258,7 +258,7 @@ def enrich_v135(d):
         for key in ['requirements','nuances']:p[key]=[polish(s) for s in p[key]]
         for s in p['sources']:s['title']=polish(s['title'])
     guide.update(version=135,checked=CHECKED)
-    guide['methodology']=str(len(guide['profiles']))+' профиля лиг, семейств и программ; все '+str(guide['mapped_legacy_count'])+' прежних маршрутов сохранены. Бразильские форматы разделены, местные Robofest LATAM и BajaBot описаны по своим категориям. Мировой охват частичный.'
+    guide['methodology']='Профили лиг, семейств и программ: '+str(len(guide['profiles']))+'; все '+str(guide['mapped_legacy_count'])+' прежних маршрутов сохранены. Бразильские форматы разделены, местные Robofest LATAM и BajaBot описаны по своим категориям. Мировой охват частичный.'
     old={s['url'] for s in d['sources']}
     for title,url in [('TMR2027 · официальный host',GOV),('FMR · официальный календарь',FMR),('Bebras · текущая agendaAPI',BEBRAS_API),('Bebras · rulesAPI',BEBRAS_RULES),('Feria Maker · каталог мастерских',MAKER),('Feria Maker · данные собственной страницы',MAKER_API)]+[(s['title'],s['url']) for p in guide['profiles'] if p['id'] in GUIDES for s in p['sources']]:
         if url not in old:d['sources'].append(dict(title=title,url=url,checked=CHECKED,evidence='Выбранные первичные условия; не полный сайт/страна или принятое участие.'));old.add(url)

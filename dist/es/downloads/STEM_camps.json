@@ -580,7 +580,7 @@
       }
     ],
     "counts": {
-      "records": 3721,
+      "records": 3722,
       "holiday": 3463,
       "regular": 108,
       "self_paced_materials": 2,
@@ -592,7 +592,7 @@
       "ru_instruction": 3,
       "language_lessons": 408,
       "camp_life_language": 226,
-      "language_unclassified": 136,
+      "language_unclassified": 137,
       "countries": 98
     },
     "validation": {
@@ -32041,6 +32041,68 @@
         }
       ],
       "registration_status": "Evento finalizado; ficha histórica de condiciones."
+    },
+    {
+      "id": "L635",
+      "block": "Campamentos",
+      "title": "ADC Pro · FFA Expo · formación y práctica 21–22 de octubre de 2026",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "Indianapolis, Indiana, Indiana Convention Center",
+      "start": "2026-10-21",
+      "end": "2026-10-22",
+      "period": "Fechas publicadas; preparación y admisión aparte",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "ADC Pro: presentación orientada a High School 13+ y college. Manual 2.0 define 19U como ≤19 al 6 de mayo de 2027 antes de terminar secundaria; college después de secundaria sin dual enrollment, con estudios hacia certificate / degree o título en los 6 meses previos. Admisión de menores sin confirmar por separado.",
+      "mat": "Condicional / vía futura: actualmente 6 / 9 años; presentación ADC Pro indica High School 13+. Manual fija límite superior, pero no confirma admisión de menores. Para inicio cercano comparar Engage Elementary o ADC ordinario tras comprobar admisión local.",
+      "osc": "Condicional / vía futura: actualmente 6 / 9 años; presentación ADC Pro indica High School 13+. Manual fija límite superior, pero no confirma admisión de menores. Para inicio cercano comparar Engage Elementary o ADC ordinario tras comprobar admisión local.",
+      "format": "Práctica educativa de equipos; mínimo de participantes formativos sin establecer por separado",
+      "entry": "Formación de equipos en FFA Convention; acceso separado de visitantes menores, pertenencia a delegación e idioma sin confirmar. Sesión ya finalizada.",
+      "gear": "Qualifying tournament requiere tres tipos de máquinas: MINDS-i teamwork drone, CoDrone EDU solo drone y robot terrestre. Falta de cualquier tipo impide todos los partidos. Robot terrestre ≤15 × 15 × 15 pulgadas durante todo partido; modelos exactos, electrónica e inspección según manual 2.0.",
+      "language": "Manual y portal en inglés no prueban idioma oral de evaluación o enseñanza. EN / ES / RU sin confirmar en evento concreto.",
+      "languages": [],
+      "language_certainty": "Manual y portal en inglés no prueban idioma oral de evaluación o enseñanza. EN / ES / RU sin confirmar en evento concreto.",
+      "cost": "Precio de formación y entrada a FFA Convention sin fijar por separado; campo Free corresponde a ficha scrimmage",
+      "level": "D — formación",
+      "reward": "Práctica y asesoría; no campamento residencial ni victoria internacional.",
+      "priority": "P4 — programa de mayores / admisión sin confirmar",
+      "action": "Entrenador: comprobar categoría educativa, acceso externo, idioma, composición, material y plaza aplicable antes de solicitar y pagar.",
+      "source": "https://recfevents.org/Events/Details/159",
+      "proof": "Comprobada ficha pública actual y manual correspondiente; condiciones discutidas conservadas aparte. Admisión familiar local y premio real sin confirmar.",
+      "checked": "2026-11-06",
+      "status": "Idea",
+      "note": "Fecha formativa tomada de General information, no de campos de torneo de un día. 23 de octubre de 2026 separado como práctica competitiva.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "drones"
+      ],
+      "scope": "local",
+      "participation": "workshop",
+      "admission_kind": "confirm_eligibility",
+      "evidence_level": "event_page",
+      "network": "RECF ADC Pro",
+      "team_min": null,
+      "team_max": null,
+      "references": [
+        {
+          "url": "https://games.recf.org/pro/2.0",
+          "label": "Manual actual y condiciones del programa"
+        }
+      ],
+      "event_code": "",
+      "grade_level": "La escuela secundaria, College",
+      "parent_event_id": "C2903",
+      "registration_status": "Evento finalizado; ficha histórica de condiciones.",
+      "programme_kind": "short_learning_workshop",
+      "related_ids": [
+        "C2903"
+      ],
+      "workshop_code": "PRO20263223"
     },
     {
       "id": "CP001-20270606-20270619",

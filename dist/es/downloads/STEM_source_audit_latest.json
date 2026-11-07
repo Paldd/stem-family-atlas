@@ -16,11 +16,11 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 6880,
-    "competition_cards": 2894,
+    "cards": 6918,
+    "competition_cards": 2931,
     "event_cards": 265,
-    "camp_cards": 3721,
-    "league_profiles": 253,
+    "camp_cards": 3722,
+    "league_profiles": 256,
     "major_exhibition_cards": 173,
     "vex_cards": 518,
     "countries_with_records": 158,
@@ -34,12 +34,12 @@
         "América Central",
         "Caribe"
       ],
-      "total": 2497,
+      "total": 2527,
       "countries_with_records": 23,
-      "competitions": 1388,
+      "competitions": 1417,
       "events": 61,
       "major_exhibitions": 22,
-      "camps": 1048,
+      "camps": 1049,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
     },
@@ -90,9 +90,9 @@
       "regions": [
         "Asia"
       ],
-      "total": 1824,
+      "total": 1830,
       "countries_with_records": 44,
-      "competitions": 628,
+      "competitions": 634,
       "events": 83,
       "major_exhibitions": 71,
       "camps": 1113,
@@ -1735,11 +1735,20 @@
         "C2892",
         "C2893",
         "C2894",
-        "C2895"
+        "C2895",
+        "C2896",
+        "C2911",
+        "C2912",
+        "C2914",
+        "C2919",
+        "C2920",
+        "C2923",
+        "C2924",
+        "C2929"
       ],
-      "cards": 615,
-      "future_dated": 522,
-      "linked_card_count": 624,
+      "cards": 624,
+      "future_dated": 528,
+      "linked_card_count": 633,
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://recf.org/teams/recf-robotics-competition/",
       "new": false
@@ -5622,6 +5631,81 @@
       "linked_card_count": 361,
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://recf.org/teams/recf-robotics-competition/",
+      "new": false
+    },
+    {
+      "id": "recf-inspire",
+      "name": "RECF Inspire · Pinnacle",
+      "group": "advanced",
+      "event_ids": [
+        "C2896",
+        "C2911",
+        "C2912",
+        "C2914",
+        "C2919",
+        "C2920",
+        "C2923",
+        "C2924",
+        "C2929"
+      ],
+      "cards": 9,
+      "future_dated": 6,
+      "linked_card_count": 9,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://games.recf.org/inspire/2.0",
+      "new": false
+    },
+    {
+      "id": "recf-adc-pro",
+      "name": "RECF ADC Pro · Off Grid",
+      "group": "advanced",
+      "event_ids": [
+        "C2897",
+        "C2898",
+        "C2899",
+        "C2900",
+        "C2901",
+        "C2902",
+        "C2903",
+        "C2904",
+        "C2905",
+        "C2906",
+        "C2907",
+        "C2908",
+        "C2909",
+        "C2910",
+        "C2913",
+        "C2915",
+        "C2916",
+        "C2917",
+        "C2918",
+        "C2921",
+        "C2922",
+        "C2925",
+        "C2926",
+        "C2927",
+        "C2928",
+        "C2930",
+        "C2931",
+        "C2932"
+      ],
+      "cards": 28,
+      "future_dated": 22,
+      "linked_card_count": 29,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://games.recf.org/pro/2.0",
+      "new": false
+    },
+    {
+      "id": "recf-launch",
+      "name": "RECF Launch · Crossfield",
+      "group": "core",
+      "event_ids": [],
+      "cards": 0,
+      "future_dated": 0,
+      "linked_card_count": 0,
+      "status": "sólo el perfil; no se ha añadido el calendario de etapas",
+      "source": "https://games.recf.org/launch-robotics/1.1",
       "new": false
     },
     {
@@ -9892,7 +9976,7 @@
       "official_alternative": "https://www.ykpaoschool.cn/News-and-Events/New-Stories/988"
     }
   ],
-  "interregional_cards": 104,
+  "interregional_cards": 106,
   "promoted_exhibition_ids": [],
   "focused_country": {
     "country": "Taiwán",
@@ -10929,7 +11013,7 @@
       }
     ],
     "counts": {
-      "records": 3721,
+      "records": 3722,
       "holiday": 3463,
       "regular": 108,
       "self_paced_materials": 2,
@@ -10941,7 +11025,7 @@
       "ru_instruction": 3,
       "language_lessons": 408,
       "camp_life_language": 226,
-      "language_unclassified": 136,
+      "language_unclassified": 137,
       "countries": 98
     },
     "validation": {

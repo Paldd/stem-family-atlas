@@ -580,7 +580,7 @@
       }
     ],
     "counts": {
-      "records": 3721,
+      "records": 3722,
       "holiday": 3463,
       "regular": 108,
       "self_paced_materials": 2,
@@ -592,7 +592,7 @@
       "ru_instruction": 3,
       "language_lessons": 408,
       "camp_life_language": 226,
-      "language_unclassified": 136,
+      "language_unclassified": 137,
       "countries": 98
     },
     "validation": {
@@ -32041,6 +32041,68 @@
         }
       ],
       "registration_status": "Событие завершено; историческая карточка условий."
+    },
+    {
+      "id": "L635",
+      "block": "Лагеря",
+      "title": "ADC Pro · FFA Expo · обучение и практика 21–22 октября 2026",
+      "country": "Соединенные Штаты Америки",
+      "region": "Северная Америка",
+      "city": "Indianapolis, Indiana, Indiana Convention Center",
+      "start": "2026-10-21",
+      "end": "2026-10-22",
+      "period": "Опубликованные даты; готовность и допуск отдельно",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "ADC Pro: обзор программы ориентирован на High School 13+ и college. Manual 2.0 определяет 19U как ≤19 на 6 мая 2027 до окончания средней школы; college — после школы без dual enrollment, с обучением на certificate / degree либо дипломом за предшествующие 6 месяцев. Младший допуск отдельно не подтверждён.",
+      "mat": "Условно / будущий трек: сейчас 6 / 9 лет; обзор ADC Pro указывает High School 13+. Manual задаёт верхнюю границу, но не подтверждает допуск младших. Для ближайшего старта сравнить Engage Elementary или обычный ADC после проверки местного приёма.",
+      "osc": "Условно / будущий трек: сейчас 6 / 9 лет; обзор ADC Pro указывает High School 13+. Manual задаёт верхнюю границу, но не подтверждает допуск младших. Для ближайшего старта сравнить Engage Elementary или обычный ADC после проверки местного приёма.",
+      "format": "Учебная практика команд; отдельный минимальный состав участников обучения не установлен",
+      "entry": "Обучение команд на FFA Convention; отдельный вход младших посетителей, принадлежность к делегации и язык не подтверждены. Смена уже прошла.",
+      "gear": "На qualifying tournament нужны сразу три типа машин: MINDS-i teamwork drone, CoDrone EDU solo drone и наземный робот. Отсутствие любого типа лишает допуска ко всем матчам. Наземный робот ≤15 × 15 × 15 дюймов весь матч; точные модели, электроника и инспекция по manual 2.0.",
+      "language": "Английский manual и портал не доказывают язык устного судейства или обучения. EN / ES / RU на конкретном событии не подтверждены.",
+      "languages": [],
+      "language_certainty": "Английский manual и портал не доказывают язык устного судейства или обучения. EN / ES / RU на конкретном событии не подтверждены.",
+      "cost": "Цена обучения и вход на FFA Convention отдельно не установлены; поле Free относится к карточке scrimmage",
+      "level": "D — обучение",
+      "reward": "Практика и консультации; не лагерь с проживанием и не международная победа.",
+      "priority": "P4 — старшая программа / допуск не подтверждён",
+      "action": "Тренер: проверить образовательную категорию, внешний доступ, язык, состав, технику и применимую квоту до заявки и оплаты.",
+      "source": "https://recfevents.org/Events/Details/159",
+      "proof": "Проверена текущая публичная карточка и относящийся manual; спорные условия сохранены отдельно. Местный допуск семьи и реальная награда не подтверждены.",
+      "checked": "2026-11-06",
+      "status": "Идея",
+      "note": "Дата обучения взята из General information, а не из однодневных полей турнира. 23 октября 2026 выделено отдельной соревновательной практикой.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "drones"
+      ],
+      "scope": "local",
+      "participation": "workshop",
+      "admission_kind": "confirm_eligibility",
+      "evidence_level": "event_page",
+      "network": "RECF ADC Pro",
+      "team_min": null,
+      "team_max": null,
+      "references": [
+        {
+          "url": "https://games.recf.org/pro/2.0",
+          "label": "Действующий manual и условия программы"
+        }
+      ],
+      "event_code": "",
+      "grade_level": "High School, College",
+      "parent_event_id": "C2903",
+      "registration_status": "Событие завершено; историческая карточка условий.",
+      "programme_kind": "short_learning_workshop",
+      "related_ids": [
+        "C2903"
+      ],
+      "workshop_code": "PRO20263223"
     },
     {
       "id": "CP001-20270606-20270619",
