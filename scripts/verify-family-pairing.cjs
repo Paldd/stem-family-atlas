@@ -29,11 +29,13 @@ for(const lang of ['','es/']){
  assert.equal(run(p=>p[0].timing.session_details.push(clone(p[0].timing.session_details[0]))).length,1);
  assert.equal(run(p=>delete p[1].pairing.fee)[0].price,null);
  const singapore=guide.profiles.filter(p=>p.iso==='SGP');
- const singaporePairs=M.pairedSessions(singapore,'',day);
+ const allSingaporePairs=M.pairedSessions(singapore,'',day);
+ const singaporePairs=allSingaporePairs.filter(p=>p.matvey.profile.slug.startsWith('worklab-yearend-spike-')&&
+   p.oscar.profile.slug.startsWith('worklab-yearend-apprentice-'));
  assert.equal(singaporePairs.length,19);
- assert.equal(M.pairedSessions(singapore,'2026-11',day).length,5);
- assert.equal(M.pairedSessions(singapore,'2026-12',day).length,13);
- assert.equal(M.pairedSessions(singapore,'2027-01',day).length,3);
+ assert.equal(M.pairedSessions(singapore,'2026-11',day).length,7);
+ assert.equal(M.pairedSessions(singapore,'2026-12',day).length,18);
+ assert.equal(M.pairedSessions(singapore,'2027-01',day).length,5);
  assert(singaporePairs.every(p=>p.matvey.profile.slug.startsWith('worklab-yearend-spike-')&&
    p.oscar.profile.slug.startsWith('worklab-yearend-apprentice-')&&
    p.matvey.profile.confirmed_instruction_languages.join()==='EN'&&
@@ -42,6 +44,17 @@ for(const lang of ['','es/']){
  assert(singaporePairs.every(p=>!p.matvey.times.some(t=>['2026-12-25','2027-01-01'].includes(t[0]))));
  assert.deepEqual(new Set(singaporePairs.map(p=>p.venue)),new Set([
    'Singapore · Forum The Shopping Mall','Singapore · UE Square','Singapore · Coronation Shopping Plaza']));
- checks.push({language:lang||'ru',singapore_family_pairs:19,real_family_pairs:5,month_and_past_filter:true,verified_shared_venue_required:true,exact_days_hours_timezone_required:true,variant_age_gate:true,invalid_dates_and_closed_groups_excluded:true,known_fee_units_only:true});
+ const minecraft=allSingaporePairs.filter(p=>p.matvey.profile.slug==='worklab-yearend-minecraft');
+ assert.equal(allSingaporePairs.length,27);
+ assert.equal(minecraft.length,7);
+ assert(minecraft.every(p=>p.oscar.profile.slug==='worklab-yearend-apprentice-forum'&&
+   p.venue==='Singapore · Forum The Shopping Mall'&&p.price===null&&
+   p.matvey.times.length===4&&p.matvey.times.every(t=>t[1]==='09:30'&&t[2]==='12:00'&&t[3]==='Asia/Singapore')));
+ const optional=allSingaporePairs.filter(p=>p.oscar.profile.slug==='worklab-yearend-minecraft');
+ assert.equal(optional.length,1);
+ assert.equal(optional[0].start,'2027-01-04');
+ assert.equal(optional[0].matvey.profile.slug,'worklab-yearend-spike-forum');
+ assert.equal(optional[0].oscar.variant.family_fit.oscar.status,'conditional');
+ checks.push({language:lang||'ru',singapore_family_pairs:27,real_family_pairs:5,month_and_past_filter:true,verified_shared_venue_required:true,exact_days_hours_timezone_required:true,variant_age_gate:true,invalid_dates_and_closed_groups_excluded:true,known_fee_units_only:true});
 }
 console.log(JSON.stringify(checks));

@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-07. 1603 fichas en 91 países. Cada ficha indica las fechas de verificación de sus fuentes.
+Estado de la base: 2026-11-07. 1611 fichas en 91 países. Cada ficha indica las fechas de verificación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -121661,6 +121661,2346 @@ Singapur · Singapore
 - [Horarios, sedes y tarifas oficiales](https://www.robotics.com.sg/_files/ugd/4223d1_9029e71d6d4b438086a4005f64786e11.pdf) · 2026-11-07
 
 - [Calendario y condiciones oficiales de temporada](https://www.robotics.com.sg/holiday-camps) · 2026-11-07
+
+## CP1604 · Children’s Worklab · Designer · Canva
+
+Singapur · Singapore · UE Square
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 7–8 años en la tabla de Camp 1. No se requiere experiencia.
+
+**Idioma:** El organizador indica expresamente que todas las clases se imparten en inglés.
+
+**Programa:** Uso básico de portátil, capas, recorte y efectos. Proyectos prácticos en Canva.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas, sedes y horarios publicados. Cada turno indica su duración.
+
+**Precio / año:** 2026/27 · $599 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Incluido:** El organizador pide llevar refrigerio y bebida.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Confirmar si el centro proporciona dispositivo, cuenta y licencia para el curso elegido.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Matvey:** El menor supera la edad máxima del programa.
+
+**Oscar:** Si ya cumplió 7 años al inicio del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Edad en el primer día del turno según fecha de nacimiento.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### 5 medias jornadas
+
+**Fechas / estado:** 2026-11-23 — 2026-11-27
+
+**lugar:** Singapore · UE Square
+
+**edad:** 7–8 años en la tabla de Camp 1. No se requiere experiencia.
+
+**Precio:** $599 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Uso básico de portátil, capas, recorte y efectos. Proyectos prácticos en Canva.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-11-23 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-24 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-25 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-26 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-27 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** El menor supera la edad máxima del programa.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_79c0b74e8c75452d8a6af329f341e46f.pdf)
+
+### 5 medias jornadas
+
+**Fechas / estado:** 2026-11-30 — 2026-12-04
+
+**lugar:** Singapore · UE Square
+
+**edad:** 7–8 años en la tabla de Camp 1. No se requiere experiencia.
+
+**Precio:** $599 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Uso básico de portátil, capas, recorte y efectos. Proyectos prácticos en Canva.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-11-30 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-01 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-02 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-03 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-04 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** El menor supera la edad máxima del programa.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_79c0b74e8c75452d8a6af329f341e46f.pdf)
+
+### 5 medias jornadas
+
+**Fechas / estado:** 2026-12-07 — 2026-12-11
+
+**lugar:** Singapore · UE Square
+
+**edad:** 7–8 años en la tabla de Camp 1. No se requiere experiencia.
+
+**Precio:** $599 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Uso básico de portátil, capas, recorte y efectos. Proyectos prácticos en Canva.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-07 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-08 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-09 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-10 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-11 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** El menor supera la edad máxima del programa.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_79c0b74e8c75452d8a6af329f341e46f.pdf)
+
+### 5 medias jornadas
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**lugar:** Singapore · UE Square
+
+**edad:** 7–8 años en la tabla de Camp 1. No se requiere experiencia.
+
+**Precio:** $599 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Uso básico de portátil, capas, recorte y efectos. Proyectos prácticos en Canva.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-14 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-15 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-16 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-17 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-18 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** El menor supera la edad máxima del programa.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_79c0b74e8c75452d8a6af329f341e46f.pdf)
+
+### 5 medias jornadas
+
+**Fechas / estado:** 2027-01-04 — 2027-01-08
+
+**lugar:** Singapore · UE Square
+
+**edad:** 7–8 años en la tabla de Camp 1. No se requiere experiencia.
+
+**Precio:** $599 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Uso básico de portátil, capas, recorte y efectos. Proyectos prácticos en Canva.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2027-01-04 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-05 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-06 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-07 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-08 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** El menor supera la edad máxima del programa.
+
+**Oscar:** Si ya cumplió 7 años al inicio del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_79c0b74e8c75452d8a6af329f341e46f.pdf)
+
+### Fuentes
+
+- [Horarios, sedes y tarifas oficiales](https://www.worklab.com.sg/_files/ugd/4223d1_79c0b74e8c75452d8a6af329f341e46f.pdf) · 2026-11-07
+
+- [Ficha del curso y tarifa publicada](https://www.worklab.com.sg/designer-camp-graphic-design-kids-holiday-camp) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.worklab.com.sg/holiday-camps) · 2026-11-07
+
+## CP1605 · Children’s Worklab · Designer · Photoshop
+
+Singapur · Singapore · UE Square
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 8+ años. Se exige completar Camp 1 o tener experiencia con Canva.
+
+**Idioma:** El organizador indica expresamente que todas las clases se imparten en inglés.
+
+**Programa:** Pinceles, máscaras, efectos, principios de diseño e impresión en Adobe Photoshop.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas, sedes y horarios publicados. Cada turno indica su duración.
+
+**Precio / año:** 2026/27 · $599 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Incluido:** El organizador pide llevar refrigerio y bebida.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Confirmar si el centro proporciona dispositivo, cuenta y licencia para el curso elegido.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Matvey:** Edad posiblemente adecuada. Se exige Camp 1 o experiencia con Canva.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Edad en el primer día del turno según fecha de nacimiento.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### 5 medias jornadas
+
+**Fechas / estado:** 2026-11-23 — 2026-11-27
+
+**lugar:** Singapore · UE Square
+
+**edad:** 8+ años. Se exige completar Camp 1 o tener experiencia con Canva.
+
+**Precio:** $599 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Pinceles, máscaras, efectos, principios de diseño e impresión en Adobe Photoshop.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-11-23 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-24 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-25 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-26 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-27 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad posiblemente adecuada. Se exige Camp 1 o experiencia con Canva.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_79c0b74e8c75452d8a6af329f341e46f.pdf)
+
+### 5 medias jornadas
+
+**Fechas / estado:** 2026-11-30 — 2026-12-04
+
+**lugar:** Singapore · UE Square
+
+**edad:** 8+ años. Se exige completar Camp 1 o tener experiencia con Canva.
+
+**Precio:** $599 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Pinceles, máscaras, efectos, principios de diseño e impresión en Adobe Photoshop.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-11-30 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-01 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-02 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-03 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-04 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad posiblemente adecuada. Se exige Camp 1 o experiencia con Canva.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_79c0b74e8c75452d8a6af329f341e46f.pdf)
+
+### 5 medias jornadas
+
+**Fechas / estado:** 2026-12-07 — 2026-12-11
+
+**lugar:** Singapore · UE Square
+
+**edad:** 8+ años. Se exige completar Camp 1 o tener experiencia con Canva.
+
+**Precio:** $599 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Pinceles, máscaras, efectos, principios de diseño e impresión en Adobe Photoshop.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-07 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-08 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-09 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-10 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-11 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad posiblemente adecuada. Se exige Camp 1 o experiencia con Canva.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_79c0b74e8c75452d8a6af329f341e46f.pdf)
+
+### 5 medias jornadas
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**lugar:** Singapore · UE Square
+
+**edad:** 8+ años. Se exige completar Camp 1 o tener experiencia con Canva.
+
+**Precio:** $599 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Pinceles, máscaras, efectos, principios de diseño e impresión en Adobe Photoshop.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-14 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-15 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-16 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-17 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-18 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad posiblemente adecuada. Se exige Camp 1 o experiencia con Canva.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_79c0b74e8c75452d8a6af329f341e46f.pdf)
+
+### 5 medias jornadas
+
+**Fechas / estado:** 2027-01-04 — 2027-01-08
+
+**lugar:** Singapore · UE Square
+
+**edad:** 8+ años. Se exige completar Camp 1 o tener experiencia con Canva.
+
+**Precio:** $599 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Pinceles, máscaras, efectos, principios de diseño e impresión en Adobe Photoshop.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2027-01-04 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-05 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-06 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-07 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-08 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad posiblemente adecuada. Se exige Camp 1 o experiencia con Canva.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_79c0b74e8c75452d8a6af329f341e46f.pdf)
+
+### Fuentes
+
+- [Horarios, sedes y tarifas oficiales](https://www.worklab.com.sg/_files/ugd/4223d1_79c0b74e8c75452d8a6af329f341e46f.pdf) · 2026-11-07
+
+- [Ficha del curso y tarifa publicada](https://www.worklab.com.sg/designer-camp-graphic-design-kids-holiday-camp) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.worklab.com.sg/holiday-camps) · 2026-11-07
+
+## CP1606 · Children’s Worklab · Roblox Game Design
+
+Singapur · Singapore · UE Square
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 8+ años según fecha de nacimiento.
+
+**Idioma:** El organizador indica expresamente que todas las clases se imparten en inglés.
+
+**Programa:** Creación de un nivel y proyecto en Roblox Studio.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas, sedes y horarios publicados. Cada turno indica su duración.
+
+**Precio / año:** 2026/27 · $399 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Incluido:** El organizador pide llevar refrigerio y bebida.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Confirmar si el centro proporciona dispositivo, cuenta y licencia para el curso elegido.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Edad en el primer día del turno según fecha de nacimiento.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2026-11-25 — 2026-11-27
+
+**lugar:** Singapore · UE Square
+
+**edad:** 8+ años según fecha de nacimiento.
+
+**Precio:** $399 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Creación de un nivel y proyecto en Roblox Studio.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-11-25 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-26 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-27 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_c7101265eb6849eea0d775710c306b2a.pdf)
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2026-12-02 — 2026-12-04
+
+**lugar:** Singapore · UE Square
+
+**edad:** 8+ años según fecha de nacimiento.
+
+**Precio:** $399 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Creación de un nivel y proyecto en Roblox Studio.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-02 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-03 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-04 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_c7101265eb6849eea0d775710c306b2a.pdf)
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2026-12-09 — 2026-12-11
+
+**lugar:** Singapore · UE Square
+
+**edad:** 8+ años según fecha de nacimiento.
+
+**Precio:** $399 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Creación de un nivel y proyecto en Roblox Studio.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-09 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-10 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-11 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_c7101265eb6849eea0d775710c306b2a.pdf)
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2026-12-16 — 2026-12-18
+
+**lugar:** Singapore · UE Square
+
+**edad:** 8+ años según fecha de nacimiento.
+
+**Precio:** $399 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Creación de un nivel y proyecto en Roblox Studio.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-16 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-17 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-18 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_c7101265eb6849eea0d775710c306b2a.pdf)
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2026-12-22 — 2026-12-24
+
+**lugar:** Singapore · UE Square
+
+**edad:** 8+ años según fecha de nacimiento.
+
+**Precio:** $399 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Creación de un nivel y proyecto en Roblox Studio.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-22 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-23 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-24 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_c7101265eb6849eea0d775710c306b2a.pdf)
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2026-12-29 — 2026-12-31
+
+**lugar:** Singapore · UE Square
+
+**edad:** 8+ años según fecha de nacimiento.
+
+**Precio:** $399 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Creación de un nivel y proyecto en Roblox Studio.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-29 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-30 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-31 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_c7101265eb6849eea0d775710c306b2a.pdf)
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2027-01-06 — 2027-01-08
+
+**lugar:** Singapore · UE Square
+
+**edad:** 8+ años según fecha de nacimiento.
+
+**Precio:** $399 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Creación de un nivel y proyecto en Roblox Studio.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2027-01-06 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-07 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-08 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_c7101265eb6849eea0d775710c306b2a.pdf)
+
+### Fuentes
+
+- [Horarios, sedes y tarifas oficiales](https://www.worklab.com.sg/_files/ugd/4223d1_c7101265eb6849eea0d775710c306b2a.pdf) · 2026-11-07
+
+- [Ficha del curso y tarifa publicada](https://www.worklab.com.sg/roblox-game-design-holiday-camp) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.worklab.com.sg/holiday-camps) · 2026-11-07
+
+## CP1607 · Children’s Worklab · AI and Digital Citizenship
+
+Singapur · Singapore · Forum The Shopping Mall
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 7.5+ años según fecha de nacimiento.
+
+**Idioma:** El organizador indica expresamente que todas las clases se imparten en inglés.
+
+**Programa:** Seguridad en internet e introducción a la IA con retos de programación por bloques.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas, sedes y horarios publicados. Cada turno indica su duración.
+
+**Precio / año:** 2026/27 · $425 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Incluido:** El organizador pide llevar refrigerio y bebida.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Confirmar si el centro proporciona dispositivo, cuenta y licencia para el curso elegido.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Edad en el primer día del turno según fecha de nacimiento.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2026-11-25 — 2026-11-27
+
+**lugar:** Singapore · Forum The Shopping Mall
+
+**edad:** 7.5+ años según fecha de nacimiento.
+
+**Precio:** $425 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Seguridad en internet e introducción a la IA con retos de programación por bloques.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-11-25 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-26 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-27 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_f74ad6650458446fa2fae1e3abb4b318.pdf)
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2026-12-02 — 2026-12-04
+
+**lugar:** Singapore · Forum The Shopping Mall
+
+**edad:** 7.5+ años según fecha de nacimiento.
+
+**Precio:** $425 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Seguridad en internet e introducción a la IA con retos de programación por bloques.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-02 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-03 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-04 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_f74ad6650458446fa2fae1e3abb4b318.pdf)
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2026-12-09 — 2026-12-11
+
+**lugar:** Singapore · Forum The Shopping Mall
+
+**edad:** 7.5+ años según fecha de nacimiento.
+
+**Precio:** $425 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Seguridad en internet e introducción a la IA con retos de programación por bloques.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-09 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-10 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-11 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_f74ad6650458446fa2fae1e3abb4b318.pdf)
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2026-12-16 — 2026-12-18
+
+**lugar:** Singapore · Forum The Shopping Mall
+
+**edad:** 7.5+ años según fecha de nacimiento.
+
+**Precio:** $425 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Seguridad en internet e introducción a la IA con retos de programación por bloques.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-16 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-17 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-18 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_f74ad6650458446fa2fae1e3abb4b318.pdf)
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2026-12-22 — 2026-12-24
+
+**lugar:** Singapore · Forum The Shopping Mall
+
+**edad:** 7.5+ años según fecha de nacimiento.
+
+**Precio:** $425 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Seguridad en internet e introducción a la IA con retos de programación por bloques.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-22 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-23 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-24 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_f74ad6650458446fa2fae1e3abb4b318.pdf)
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2026-12-29 — 2026-12-31
+
+**lugar:** Singapore · Forum The Shopping Mall
+
+**edad:** 7.5+ años según fecha de nacimiento.
+
+**Precio:** $425 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Seguridad en internet e introducción a la IA con retos de programación por bloques.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-29 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-30 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-31 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_f74ad6650458446fa2fae1e3abb4b318.pdf)
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2027-01-06 — 2027-01-08
+
+**lugar:** Singapore · Forum The Shopping Mall
+
+**edad:** 7.5+ años según fecha de nacimiento.
+
+**Precio:** $425 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Seguridad en internet e introducción a la IA con retos de programación por bloques.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2027-01-06 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-07 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-08 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_f74ad6650458446fa2fae1e3abb4b318.pdf)
+
+### Fuentes
+
+- [Horarios, sedes y tarifas oficiales](https://www.worklab.com.sg/_files/ugd/4223d1_f74ad6650458446fa2fae1e3abb4b318.pdf) · 2026-11-07
+
+- [Ficha del curso y tarifa publicada](https://www.worklab.com.sg/ai-digital-citizenship-camp) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.worklab.com.sg/holiday-camps) · 2026-11-07
+
+## CP1608 · Children’s Worklab · 3D Jedi
+
+Singapur · Singapore · Forum The Shopping Mall
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 8+ años según fecha de nacimiento.
+
+**Idioma:** El organizador indica expresamente que todas las clases se imparten en inglés.
+
+**Programa:** Modelado en Tinkercad e impresión de un sable de luz para llevar a casa.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas, sedes y horarios publicados. Cada turno indica su duración.
+
+**Precio / año:** 2026/27 · $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Incluido:** El organizador pide llevar refrigerio y bebida. Incluye el modelo 3D terminado.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Edad en el primer día del turno según fecha de nacimiento.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2026-11-25 — 2026-11-27
+
+**lugar:** Singapore · Forum The Shopping Mall
+
+**edad:** 8+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Modelado en Tinkercad e impresión de un sable de luz para llevar a casa.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-11-25 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-26 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-27 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_e5e06ffaeb3e473d98474f4b4622cdd2.pdf)
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2026-12-02 — 2026-12-04
+
+**lugar:** Singapore · Forum The Shopping Mall
+
+**edad:** 8+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Modelado en Tinkercad e impresión de un sable de luz para llevar a casa.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-02 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-03 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-04 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_e5e06ffaeb3e473d98474f4b4622cdd2.pdf)
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2026-12-09 — 2026-12-11
+
+**lugar:** Singapore · Forum The Shopping Mall
+
+**edad:** 8+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Modelado en Tinkercad e impresión de un sable de luz para llevar a casa.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-09 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-10 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-11 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_e5e06ffaeb3e473d98474f4b4622cdd2.pdf)
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2026-12-16 — 2026-12-18
+
+**lugar:** Singapore · Forum The Shopping Mall
+
+**edad:** 8+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Modelado en Tinkercad e impresión de un sable de luz para llevar a casa.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-16 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-17 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-18 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_e5e06ffaeb3e473d98474f4b4622cdd2.pdf)
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2026-12-22 — 2026-12-24
+
+**lugar:** Singapore · Forum The Shopping Mall
+
+**edad:** 8+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Modelado en Tinkercad e impresión de un sable de luz para llevar a casa.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-22 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-23 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-24 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_e5e06ffaeb3e473d98474f4b4622cdd2.pdf)
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2026-12-29 — 2026-12-31
+
+**lugar:** Singapore · Forum The Shopping Mall
+
+**edad:** 8+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Modelado en Tinkercad e impresión de un sable de luz para llevar a casa.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-29 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-30 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-31 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_e5e06ffaeb3e473d98474f4b4622cdd2.pdf)
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2027-01-06 — 2027-01-08
+
+**lugar:** Singapore · Forum The Shopping Mall
+
+**edad:** 8+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Modelado en Tinkercad e impresión de un sable de luz para llevar a casa.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2027-01-06 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-07 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-08 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_e5e06ffaeb3e473d98474f4b4622cdd2.pdf)
+
+### Fuentes
+
+- [Horarios, sedes y tarifas oficiales](https://www.worklab.com.sg/_files/ugd/4223d1_e5e06ffaeb3e473d98474f4b4622cdd2.pdf) · 2026-11-07
+
+- [Ficha del curso y tarifa publicada](https://www.worklab.com.sg/3d-jedi-camp-3d-printing-holiday-camp) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.worklab.com.sg/holiday-camps) · 2026-11-07
+
+## CP1609 · Children’s Worklab · 3D Jewelry
+
+Singapur · Singapore · UE Square
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 8+ años según fecha de nacimiento.
+
+**Idioma:** El organizador indica expresamente que todas las clases se imparten en inglés.
+
+**Programa:** Modelado e impresión de joyas con Tinkercad.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas, sedes y horarios publicados. Cada turno indica su duración.
+
+**Precio / año:** 2026/27 · $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Incluido:** El organizador pide llevar refrigerio y bebida.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Edad en el primer día del turno según fecha de nacimiento.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2026-11-25 — 2026-11-27
+
+**lugar:** Singapore · UE Square
+
+**edad:** 8+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Modelado e impresión de joyas con Tinkercad.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-11-25 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-26 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-27 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_8ee04d7f9153483b9583d60966207b68.pdf)
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2026-12-02 — 2026-12-04
+
+**lugar:** Singapore · UE Square
+
+**edad:** 8+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Modelado e impresión de joyas con Tinkercad.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-02 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-03 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-04 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_8ee04d7f9153483b9583d60966207b68.pdf)
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2026-12-09 — 2026-12-11
+
+**lugar:** Singapore · UE Square
+
+**edad:** 8+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Modelado e impresión de joyas con Tinkercad.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-09 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-10 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-11 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_8ee04d7f9153483b9583d60966207b68.pdf)
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2026-12-16 — 2026-12-18
+
+**lugar:** Singapore · UE Square
+
+**edad:** 8+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Modelado e impresión de joyas con Tinkercad.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-16 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-17 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-18 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_8ee04d7f9153483b9583d60966207b68.pdf)
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2026-12-22 — 2026-12-24
+
+**lugar:** Singapore · UE Square
+
+**edad:** 8+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Modelado e impresión de joyas con Tinkercad.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-22 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-23 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-24 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_8ee04d7f9153483b9583d60966207b68.pdf)
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2026-12-29 — 2026-12-31
+
+**lugar:** Singapore · UE Square
+
+**edad:** 8+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Modelado e impresión de joyas con Tinkercad.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-29 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-30 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-31 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_8ee04d7f9153483b9583d60966207b68.pdf)
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2027-01-06 — 2027-01-08
+
+**lugar:** Singapore · UE Square
+
+**edad:** 8+ años según fecha de nacimiento.
+
+**Precio:** $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Modelado e impresión de joyas con Tinkercad.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2027-01-06 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-07 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-08 · 09:00–11:30 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_8ee04d7f9153483b9583d60966207b68.pdf)
+
+### Fuentes
+
+- [Horarios, sedes y tarifas oficiales](https://www.worklab.com.sg/_files/ugd/4223d1_8ee04d7f9153483b9583d60966207b68.pdf) · 2026-11-07
+
+- [Ficha del curso y tarifa publicada](https://www.worklab.com.sg/3d-printing-jewelry-camp) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.worklab.com.sg/holiday-camps) · 2026-11-07
+
+## CP1610 · Children’s Worklab · Minecraft Game Design
+
+Singapur · Singapore · Forum The Shopping Mall
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 7+ años según fecha de nacimiento.
+
+**Idioma:** El organizador indica expresamente que todas las clases se imparten en inglés.
+
+**Programa:** Mapas de aventuras en Minecraft, comandos, bloques de comandos y circuitos redstone.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas, sedes y horarios publicados. Cada turno indica su duración.
+
+**Precio / año:** 2026/27 · $449 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. Junto al grupo matinal Apprentice en la misma sede, las tarifas suman $948 por 2 menores. Confirmar plazas, moneda y GST.
+
+**Incluido:** El organizador pide llevar refrigerio y bebida.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Confirmar si el centro proporciona dispositivo, cuenta y licencia para el curso elegido.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** Si ya cumplió 7 años al inicio del turno.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Edad en el primer día del turno según fecha de nacimiento.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-11-23 — 2026-11-26
+
+**lugar:** Singapore · Forum The Shopping Mall
+
+**edad:** 7+ años según fecha de nacimiento.
+
+**Precio:** $449 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Mapas de aventuras en Minecraft, comandos, bloques de comandos y circuitos redstone.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-11-23 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-24 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-25 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-11-26 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_7a2faa2000c04c1bb71218ae17933956.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-11-30 — 2026-12-03
+
+**lugar:** Singapore · Forum The Shopping Mall
+
+**edad:** 7+ años según fecha de nacimiento.
+
+**Precio:** $449 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Mapas de aventuras en Minecraft, comandos, bloques de comandos y circuitos redstone.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-11-30 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-01 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-02 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-03 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_7a2faa2000c04c1bb71218ae17933956.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-12-07 — 2026-12-10
+
+**lugar:** Singapore · Forum The Shopping Mall
+
+**edad:** 7+ años según fecha de nacimiento.
+
+**Precio:** $449 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Mapas de aventuras en Minecraft, comandos, bloques de comandos y circuitos redstone.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-07 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-08 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-09 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-10 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_7a2faa2000c04c1bb71218ae17933956.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-12-14 — 2026-12-17
+
+**lugar:** Singapore · Forum The Shopping Mall
+
+**edad:** 7+ años según fecha de nacimiento.
+
+**Precio:** $449 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Mapas de aventuras en Minecraft, comandos, bloques de comandos y circuitos redstone.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-14 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-15 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-16 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-17 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_7a2faa2000c04c1bb71218ae17933956.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**lugar:** Singapore · Forum The Shopping Mall
+
+**edad:** 7+ años según fecha de nacimiento.
+
+**Precio:** $449 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Mapas de aventuras en Minecraft, comandos, bloques de comandos y circuitos redstone.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-21 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-22 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-23 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-24 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_7a2faa2000c04c1bb71218ae17933956.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**lugar:** Singapore · Forum The Shopping Mall
+
+**edad:** 7+ años según fecha de nacimiento.
+
+**Precio:** $449 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Mapas de aventuras en Minecraft, comandos, bloques de comandos y circuitos redstone.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2026-12-28 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-29 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-30 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2026-12-31 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** El nivel es superior a la edad actual. Comprobar reglas del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_7a2faa2000c04c1bb71218ae17933956.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2027-01-04 — 2027-01-07
+
+**lugar:** Singapore · Forum The Shopping Mall
+
+**edad:** 7+ años según fecha de nacimiento.
+
+**Precio:** $449 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Mapas de aventuras en Minecraft, comandos, bloques de comandos y circuitos redstone.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+- 2027-01-04 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-05 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-06 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+- 2027-01-07 · 09:30–12:00 · Asia/Singapore · Clases prácticas del turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** Edad adecuada. El organizador confirma la plaza.
+
+**Oscar:** Si ya cumplió 7 años al inicio del turno.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_7a2faa2000c04c1bb71218ae17933956.pdf)
+
+### Fuentes
+
+- [Horarios, sedes y tarifas oficiales](https://www.worklab.com.sg/_files/ugd/4223d1_7a2faa2000c04c1bb71218ae17933956.pdf) · 2026-11-07
+
+- [Ficha del curso y tarifa publicada](https://www.worklab.com.sg/minecraft-game-design) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.worklab.com.sg/holiday-camps) · 2026-11-07
+
+## CP1611 · Children’s Worklab · myCamp Junior
+
+Singapur · Singapore
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 4–4.5 años. El menor debe ir al baño de forma autónoma.
+
+**Idioma:** El organizador indica expresamente que todas las clases se imparten en inglés.
+
+**Programa:** Construcciones de ingeniería e historias con LEGO DUPLO para preescolar.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas, sedes y horarios publicados. Cada turno indica su duración.
+
+**Precio / año:** 2026/27 · $449 por menor según el folleto. 3 medias jornadas / $499 por menor según el folleto. 4 medias jornadas / $549 por menor según el folleto. 5 medias jornadas El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Incluido:** La familia aporta refrigerio y bebida. Las piezas LEGO son material de clase.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Matvey:** El menor supera la edad máxima del programa.
+
+**Oscar:** El menor supera la edad máxima del programa.
+
+**Motivo de inclusión:** Ficha editorial para comparar programa, admisión escolar y presupuesto.
+
+### Antes de solicitar plaza
+
+- Edad en el primer día del turno según fecha de nacimiento.
+
+- Confirmar plaza, condiciones de pago y devolución con el organizador.
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2026-11-23 — 2026-11-25
+
+**lugar:** Singapore
+
+**edad:** 4–4.5 años. El menor debe ir al baño de forma autónoma.
+
+**Precio:** $449 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Construcciones de ingeniería e historias con LEGO DUPLO para preescolar. Opciones de horario y sede: 09:30–12:00 · Forum The Shopping Mall, UE Square, Shaw Centre / 14:30–17:00 · Forum The Shopping Mall, UE Square, Shaw Centre.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** El menor supera la edad máxima del programa.
+
+**Oscar:** El menor supera la edad máxima del programa.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_0a9b15e105484fe19584329fb1dfb409.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-11-23 — 2026-11-26
+
+**lugar:** Singapore
+
+**edad:** 4–4.5 años. El menor debe ir al baño de forma autónoma.
+
+**Precio:** $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Construcciones de ingeniería e historias con LEGO DUPLO para preescolar. Opciones de horario y sede: 09:30–12:00 · Forum The Shopping Mall, UE Square, Shaw Centre / 14:30–17:00 · Forum The Shopping Mall, UE Square, Shaw Centre.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** El menor supera la edad máxima del programa.
+
+**Oscar:** El menor supera la edad máxima del programa.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_0a9b15e105484fe19584329fb1dfb409.pdf)
+
+### 5 medias jornadas
+
+**Fechas / estado:** 2026-11-23 — 2026-11-27
+
+**lugar:** Singapore
+
+**edad:** 4–4.5 años. El menor debe ir al baño de forma autónoma.
+
+**Precio:** $549 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Construcciones de ingeniería e historias con LEGO DUPLO para preescolar. Opciones de horario y sede: 09:30–12:00 · Forum The Shopping Mall, UE Square, Shaw Centre / 14:30–17:00 · Forum The Shopping Mall, UE Square, Shaw Centre.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** El menor supera la edad máxima del programa.
+
+**Oscar:** El menor supera la edad máxima del programa.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_0a9b15e105484fe19584329fb1dfb409.pdf)
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2026-11-30 — 2026-12-02
+
+**lugar:** Singapore
+
+**edad:** 4–4.5 años. El menor debe ir al baño de forma autónoma.
+
+**Precio:** $449 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Construcciones de ingeniería e historias con LEGO DUPLO para preescolar. Opciones de horario y sede: 09:30–12:00 · Forum The Shopping Mall, UE Square, Shaw Centre / 14:30–17:00 · Shaw Centre.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** El menor supera la edad máxima del programa.
+
+**Oscar:** El menor supera la edad máxima del programa.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_0a9b15e105484fe19584329fb1dfb409.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-11-30 — 2026-12-03
+
+**lugar:** Singapore
+
+**edad:** 4–4.5 años. El menor debe ir al baño de forma autónoma.
+
+**Precio:** $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Construcciones de ingeniería e historias con LEGO DUPLO para preescolar. Opciones de horario y sede: 09:30–12:00 · Forum The Shopping Mall, UE Square, Shaw Centre / 14:30–17:00 · Shaw Centre.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** El menor supera la edad máxima del programa.
+
+**Oscar:** El menor supera la edad máxima del programa.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_0a9b15e105484fe19584329fb1dfb409.pdf)
+
+### 5 medias jornadas
+
+**Fechas / estado:** 2026-11-30 — 2026-12-04
+
+**lugar:** Singapore
+
+**edad:** 4–4.5 años. El menor debe ir al baño de forma autónoma.
+
+**Precio:** $549 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Construcciones de ingeniería e historias con LEGO DUPLO para preescolar. Opciones de horario y sede: 09:30–12:00 · Forum The Shopping Mall, UE Square, Shaw Centre / 14:30–17:00 · Shaw Centre.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** El menor supera la edad máxima del programa.
+
+**Oscar:** El menor supera la edad máxima del programa.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_0a9b15e105484fe19584329fb1dfb409.pdf)
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2026-12-07 — 2026-12-09
+
+**lugar:** Singapore
+
+**edad:** 4–4.5 años. El menor debe ir al baño de forma autónoma.
+
+**Precio:** $449 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Construcciones de ingeniería e historias con LEGO DUPLO para preescolar. Opciones de horario y sede: 09:30–12:00 · Forum The Shopping Mall, UE Square, Shaw Centre / 14:30–17:00 · Shaw Centre.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** El menor supera la edad máxima del programa.
+
+**Oscar:** El menor supera la edad máxima del programa.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_0a9b15e105484fe19584329fb1dfb409.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-12-07 — 2026-12-10
+
+**lugar:** Singapore
+
+**edad:** 4–4.5 años. El menor debe ir al baño de forma autónoma.
+
+**Precio:** $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Construcciones de ingeniería e historias con LEGO DUPLO para preescolar. Opciones de horario y sede: 09:30–12:00 · Forum The Shopping Mall, UE Square, Shaw Centre / 14:30–17:00 · Shaw Centre.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** El menor supera la edad máxima del programa.
+
+**Oscar:** El menor supera la edad máxima del programa.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_0a9b15e105484fe19584329fb1dfb409.pdf)
+
+### 5 medias jornadas
+
+**Fechas / estado:** 2026-12-07 — 2026-12-11
+
+**lugar:** Singapore
+
+**edad:** 4–4.5 años. El menor debe ir al baño de forma autónoma.
+
+**Precio:** $549 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Construcciones de ingeniería e historias con LEGO DUPLO para preescolar. Opciones de horario y sede: 09:30–12:00 · Forum The Shopping Mall, UE Square, Shaw Centre / 14:30–17:00 · Shaw Centre.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** El menor supera la edad máxima del programa.
+
+**Oscar:** El menor supera la edad máxima del programa.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_0a9b15e105484fe19584329fb1dfb409.pdf)
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2026-12-14 — 2026-12-16
+
+**lugar:** Singapore
+
+**edad:** 4–4.5 años. El menor debe ir al baño de forma autónoma.
+
+**Precio:** $449 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Construcciones de ingeniería e historias con LEGO DUPLO para preescolar. Opciones de horario y sede: 09:30–12:00 · Forum The Shopping Mall, UE Square, Shaw Centre / 14:30–17:00 · Forum The Shopping Mall, UE Square, Shaw Centre.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** El menor supera la edad máxima del programa.
+
+**Oscar:** El menor supera la edad máxima del programa.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_0a9b15e105484fe19584329fb1dfb409.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-12-14 — 2026-12-17
+
+**lugar:** Singapore
+
+**edad:** 4–4.5 años. El menor debe ir al baño de forma autónoma.
+
+**Precio:** $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Construcciones de ingeniería e historias con LEGO DUPLO para preescolar. Opciones de horario y sede: 09:30–12:00 · Forum The Shopping Mall, UE Square, Shaw Centre / 14:30–17:00 · Forum The Shopping Mall, UE Square, Shaw Centre.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** El menor supera la edad máxima del programa.
+
+**Oscar:** El menor supera la edad máxima del programa.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_0a9b15e105484fe19584329fb1dfb409.pdf)
+
+### 5 medias jornadas
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**lugar:** Singapore
+
+**edad:** 4–4.5 años. El menor debe ir al baño de forma autónoma.
+
+**Precio:** $549 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Construcciones de ingeniería e historias con LEGO DUPLO para preescolar. Opciones de horario y sede: 09:30–12:00 · Forum The Shopping Mall, UE Square, Shaw Centre / 14:30–17:00 · Forum The Shopping Mall, UE Square, Shaw Centre.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** El menor supera la edad máxima del programa.
+
+**Oscar:** El menor supera la edad máxima del programa.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_0a9b15e105484fe19584329fb1dfb409.pdf)
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2026-12-21 — 2026-12-23
+
+**lugar:** Singapore
+
+**edad:** 4–4.5 años. El menor debe ir al baño de forma autónoma.
+
+**Precio:** $449 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Construcciones de ingeniería e historias con LEGO DUPLO para preescolar. Opciones de horario y sede: 09:30–12:00 · Forum The Shopping Mall, UE Square, Shaw Centre / 14:30–17:00 · Forum The Shopping Mall, UE Square, Shaw Centre.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** El menor supera la edad máxima del programa.
+
+**Oscar:** El menor supera la edad máxima del programa.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_0a9b15e105484fe19584329fb1dfb409.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**lugar:** Singapore
+
+**edad:** 4–4.5 años. El menor debe ir al baño de forma autónoma.
+
+**Precio:** $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Construcciones de ingeniería e historias con LEGO DUPLO para preescolar. Opciones de horario y sede: 09:30–12:00 · Forum The Shopping Mall, UE Square, Shaw Centre / 14:30–17:00 · Forum The Shopping Mall, UE Square, Shaw Centre.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** El menor supera la edad máxima del programa.
+
+**Oscar:** El menor supera la edad máxima del programa.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_0a9b15e105484fe19584329fb1dfb409.pdf)
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2026-12-28 — 2026-12-30
+
+**lugar:** Singapore
+
+**edad:** 4–4.5 años. El menor debe ir al baño de forma autónoma.
+
+**Precio:** $449 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Construcciones de ingeniería e historias con LEGO DUPLO para preescolar. Opciones de horario y sede: 09:30–12:00 · Forum The Shopping Mall, UE Square, Shaw Centre / 14:30–17:00 · Forum The Shopping Mall, UE Square, Shaw Centre.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** El menor supera la edad máxima del programa.
+
+**Oscar:** El menor supera la edad máxima del programa.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_0a9b15e105484fe19584329fb1dfb409.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**lugar:** Singapore
+
+**edad:** 4–4.5 años. El menor debe ir al baño de forma autónoma.
+
+**Precio:** $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Construcciones de ingeniería e historias con LEGO DUPLO para preescolar. Opciones de horario y sede: 09:30–12:00 · Forum The Shopping Mall, UE Square, Shaw Centre / 14:30–17:00 · Forum The Shopping Mall, UE Square, Shaw Centre.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** El menor supera la edad máxima del programa.
+
+**Oscar:** El menor supera la edad máxima del programa.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_0a9b15e105484fe19584329fb1dfb409.pdf)
+
+### 3 medias jornadas
+
+**Fechas / estado:** 2027-01-04 — 2027-01-06
+
+**lugar:** Singapore
+
+**edad:** 4–4.5 años. El menor debe ir al baño de forma autónoma.
+
+**Precio:** $449 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Construcciones de ingeniería e historias con LEGO DUPLO para preescolar. Opciones de horario y sede: 09:30–12:00 · Forum The Shopping Mall, UE Square, Shaw Centre / 14:30–17:00 · Forum The Shopping Mall, UE Square, Shaw Centre.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** El menor supera la edad máxima del programa.
+
+**Oscar:** El menor supera la edad máxima del programa.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_0a9b15e105484fe19584329fb1dfb409.pdf)
+
+### 4 medias jornadas
+
+**Fechas / estado:** 2027-01-04 — 2027-01-07
+
+**lugar:** Singapore
+
+**edad:** 4–4.5 años. El menor debe ir al baño de forma autónoma.
+
+**Precio:** $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Construcciones de ingeniería e historias con LEGO DUPLO para preescolar. Opciones de horario y sede: 09:30–12:00 · Forum The Shopping Mall, UE Square, Shaw Centre / 14:30–17:00 · Forum The Shopping Mall, UE Square, Shaw Centre.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** El menor supera la edad máxima del programa.
+
+**Oscar:** El menor supera la edad máxima del programa.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_0a9b15e105484fe19584329fb1dfb409.pdf)
+
+### 5 medias jornadas
+
+**Fechas / estado:** 2027-01-04 — 2027-01-08
+
+**lugar:** Singapore
+
+**edad:** 4–4.5 años. El menor debe ir al baño de forma autónoma.
+
+**Precio:** $549 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador.
+
+**Programa:** Construcciones de ingeniería e historias con LEGO DUPLO para preescolar. Opciones de horario y sede: 09:30–12:00 · Forum The Shopping Mall, UE Square, Shaw Centre / 14:30–17:00 · Forum The Shopping Mall, UE Square, Shaw Centre.
+
+**Suplementos:** El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado.
+
+**Pago:** Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**condiciones de participación:** Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar apertura del grupo y plaza en la sede elegida.
+
+**Matvey:** El menor supera la edad máxima del programa.
+
+**Oscar:** El menor supera la edad máxima del programa.
+
+[fuente](https://www.worklab.com.sg/_files/ugd/4223d1_0a9b15e105484fe19584329fb1dfb409.pdf)
+
+### Fuentes
+
+- [Horarios, sedes y tarifas oficiales](https://www.worklab.com.sg/_files/ugd/4223d1_0a9b15e105484fe19584329fb1dfb409.pdf) · 2026-11-07
+
+- [Ficha del curso y tarifa publicada](https://www.worklab.com.sg/mycamp-junior) · 2026-11-07
+
+- [Calendario y condiciones oficiales de temporada](https://www.worklab.com.sg/holiday-camps) · 2026-11-07
 
 ## ~ Comprobaciones no cerradas
 

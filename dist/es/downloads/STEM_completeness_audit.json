@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 7171,
-    "competition_cards": 2958,
-    "event_cards": 279,
-    "camp_cards": 3934,
+    "cards": 7252,
+    "competition_cards": 2965,
+    "event_cards": 289,
+    "camp_cards": 3998,
     "league_profiles": 257,
-    "major_exhibition_cards": 191,
+    "major_exhibition_cards": 201,
     "vex_cards": 518,
     "countries_with_records": 158,
     "fully_audited_countries": 0
@@ -34,11 +34,11 @@
         "América Central",
         "Caribe"
       ],
-      "total": 2542,
+      "total": 2546,
       "countries_with_records": 23,
-      "competitions": 1420,
-      "events": 65,
-      "major_exhibitions": 28,
+      "competitions": 1421,
+      "events": 68,
+      "major_exhibitions": 31,
       "camps": 1057,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
@@ -62,11 +62,11 @@
       "regions": [
         "Europa"
       ],
-      "total": 1754,
+      "total": 1755,
       "countries_with_records": 42,
       "competitions": 412,
-      "events": 86,
-      "major_exhibitions": 67,
+      "events": 87,
+      "major_exhibitions": 68,
       "camps": 1256,
       "status": "Se ha estudiado parcialmente",
       "remaining": "CHE/ESP/FRA se profundizan de nuevo. No están cerradas todas las ligas locales, Nuevos qualifiers 2027, enseñanza en inglés / en español, cuotas extranjeras, de la actualidad juniormentors y los protocolos escolares completos 5–10 años. Alemania / Países Bajos / Bélgica: el primer paso parcial; todos los clubes locales, lenguas, Cuotas extranjeras y resultados escolares completos permanecen abiertos."
@@ -90,12 +90,12 @@
       "regions": [
         "Asia"
       ],
-      "total": 2032,
+      "total": 2107,
       "countries_with_records": 44,
-      "competitions": 635,
-      "events": 83,
-      "major_exhibitions": 71,
-      "camps": 1314,
+      "competitions": 640,
+      "events": 89,
+      "major_exhibitions": 77,
+      "camps": 1378,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido India camp candidates y las primeras rutas de Pakistán / Bangladesh / Sri Lanka. no todos los nacionales calificados, las lenguas y la admisión extranjera están cerrados; otros países asiáticos han sido parcialmente investigados."
     },
@@ -7109,10 +7109,10 @@
       "name": "iREX International Robot Exhibition 2027",
       "country": "Japón",
       "region": "Asia",
-      "start": "",
-      "end": "",
+      "start": "2027-12-01",
+      "end": "2027-12-04",
       "visitor_policy": "confirm_children",
-      "source": "https://irex.nikkan.co.jp/",
+      "source": "https://www.jara.jp/about/img/release/jigyo_keikaku/jara_jigyo_keikaku_2026.pdf",
       "new": false
     },
     {
@@ -8975,6 +8975,116 @@
       "new": false
     },
     {
+      "id": "E280",
+      "name": "Sumida STEAM Fes 2027 · Tokyo",
+      "country": "Japón",
+      "region": "Asia",
+      "start": "2027-01-10",
+      "end": "2027-01-10",
+      "visitor_policy": "family",
+      "source": "https://fes.sakura-tempesta.or.jp/en/",
+      "new": false
+    },
+    {
+      "id": "E281",
+      "name": "RoboDEX / Factory Innovation Week · Nagoya 2026",
+      "country": "Japón",
+      "region": "Asia",
+      "start": "2026-11-25",
+      "end": "2026-11-27",
+      "visitor_policy": "family",
+      "source": "https://www.fiweek.jp/nagoya/ja-jp/about/robo.html",
+      "new": false
+    },
+    {
+      "id": "E282",
+      "name": "RoboDEX / Factory Innovation Week · Tokyo Big Sight 2027",
+      "country": "Japón",
+      "region": "Asia",
+      "start": "2027-02-17",
+      "end": "2027-02-19",
+      "visitor_policy": "family",
+      "source": "https://www.fiweek.jp/tokyo/en-gb.html",
+      "new": false
+    },
+    {
+      "id": "E283",
+      "name": "RoboDEX / Factory Innovation Week · Osaka 2027",
+      "country": "Japón",
+      "region": "Asia",
+      "start": "2027-05-12",
+      "end": "2027-05-14",
+      "visitor_policy": "family",
+      "source": "https://www.fiweek.jp/osaka/en-gb.html",
+      "new": false
+    },
+    {
+      "id": "E284",
+      "name": "RoboDEX / Factory Innovation Week · Makuhari 2027",
+      "country": "Japón",
+      "region": "Asia",
+      "start": "2027-09-08",
+      "end": "2027-09-10",
+      "visitor_policy": "family",
+      "source": "https://www.fiweek.jp/autumn/en-gb.html",
+      "new": false
+    },
+    {
+      "id": "E285",
+      "name": "IEEE ICRA 2027 · Robotics Exhibition",
+      "country": "Corea del Sur",
+      "region": "Asia",
+      "start": "2027-05-25",
+      "end": "2027-05-27",
+      "visitor_policy": "confirm_children",
+      "source": "https://partners.icra2027.kr/api/prospectus",
+      "new": false
+    },
+    {
+      "id": "E286",
+      "name": "IEEE/RSJ IROS 2027 · Robotics Conference and Exhibition Watch",
+      "country": "Italia",
+      "region": "Europa",
+      "start": "2027-09-27",
+      "end": "2027-10-01",
+      "visitor_policy": "confirm_children",
+      "source": "https://2027.ieee-iros.org/",
+      "new": false
+    },
+    {
+      "id": "E287",
+      "name": "CoRL 2026 · Robot Learning Exhibits",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "start": "2026-11-09",
+      "end": "2026-11-11",
+      "visitor_policy": "confirm_children",
+      "source": "https://2026.corl.org/program",
+      "new": false
+    },
+    {
+      "id": "E288",
+      "name": "IEEE Humanoids 2026 · Exhibit Hall",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "start": "2026-12-08",
+      "end": "2026-12-09",
+      "visitor_policy": "confirm_children",
+      "source": "https://humanoids.exhibitprospectus.com/",
+      "new": false
+    },
+    {
+      "id": "E289",
+      "name": "XPONENTIAL 2027 · XPO Hall",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "start": "2027-05-18",
+      "end": "2027-05-20",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.xponential.org/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -10212,7 +10322,7 @@
       "official_alternative": "https://www.ykpaoschool.cn/News-and-Events/New-Stories/988"
     }
   ],
-  "interregional_cards": 107,
+  "interregional_cards": 108,
   "promoted_exhibition_ids": [],
   "focused_country": {
     "country": "Taiwán",
@@ -11249,14 +11359,14 @@
       }
     ],
     "counts": {
-      "records": 3934,
-      "holiday": 3666,
+      "records": 3998,
+      "holiday": 3730,
       "regular": 114,
       "self_paced_materials": 2,
       "boarding": 1026,
-      "en_es_instruction": 1190,
+      "en_es_instruction": 1254,
       "en_es_support": 12,
-      "family_instruction": 1190,
+      "family_instruction": 1254,
       "family_support": 12,
       "ru_instruction": 3,
       "language_lessons": 408,

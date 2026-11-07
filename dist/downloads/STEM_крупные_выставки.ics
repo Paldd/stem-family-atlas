@@ -108,6 +108,30 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:stem-exhibition-E012@family-stem.local
+DTSTAMP:20261107T075407Z
+SUMMARY:[Выставка · допуск детей уточнить] iR
+ EX International Robot Exhibition 2027
+DTSTART;VALUE=DATE:20271201
+DTEND;VALUE=DATE:20271205
+DESCRIPTION:Идея посещения\, не принятая реги
+ страция. Условно. Возраст посетителя и 
+ правила сопровождения уточнить. Взросл
+ ый вход: Посещение выставочного зала ил
+ и демонстраций по правилам организатор
+ а.. План соорганизатора JARA указывает 1–4
+  декабря 2027. Порядок входа этого выпуск
+ а ожидается. Компании: Каталог 2027 пока н
+ е подтверждён. Список прошлого выпуска 
+ хранится отдельно.. Источник проверен 20
+ 26-11-07.
+LOCATION:Tokyo Big Sight · East 1–8\, West 3–4\, Япония
+URL:https://www.jara.jp/about/img/release/jigyo_keikaku/jara_jigyo_keikak
+ u_2026.pdf
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:stem-exhibition-E013@family-stem.local
 DTSTAMP:20261006T205843Z
 SUMMARY:[Выставка · семейный вариант] RoboCup 202
@@ -1026,26 +1050,25 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E094@family-stem.local
-DTSTAMP:20261006T205843Z
+DTSTAMP:20261107T075407Z
 SUMMARY:[Выставка · детям 6/9 нельзя] Automate 2027 
  — robotics / automation
 DTSTART;VALUE=DATE:20270510
 DTEND;VALUE=DATE:20270514
 DESCRIPTION:Идея посещения\, не принятая реги
- страция. Официальный FAQ 2027: младше 12 лет 
- нельзя без исключений\; 12–17 только со в
- зрослым. Матвей 9 и Оскар 6 не допускаютс
- я. Взрослый вход: Заранее зарегистриров
- аться: выставочный зал бесплатно\; conferenc
- e\, exams и отдельные события оплачиваются 
- отдельно. Дети до 12 лет запрещены без ис
- ключений..  Компании: В официальном ката
- логе 2026 перечислены ABB Robotics\, FANUC America\, Yask
- awa Motoman\, Universal Robots\, Unitree Robotics\, Agibot\, Festo\, Bec
- khoff. Это проверенные примеры прошлого в
- ыпуска. Полный каталог 2027 ещё формирует
- ся: список 2026 не гарантирует их стенды в
-  2027.. Источник проверен 2026-09-30.
+ страция. Выставочный зал доступен с 12 л
+ ет. Возраст 12–17 лет только со взрослым. 
+ Взрослый вход: Заранее зарегистрироват
+ ься: выставочный зал бесплатно\; conference\, 
+ exams и отдельные события оплачиваются от
+ дельно. Дети до 12 лет запрещены без искл
+ ючений..  Компании: В официальном катало
+ ге 2026 перечислены ABB Robotics\, FANUC America\, Yaskawa 
+ Motoman\, Universal Robots\, Unitree Robotics\, Agibot\, Festo\, Beckhof
+ f. Это проверенные примеры прошлого вып
+ уска. Полный каталог 2027 ещё формируется
+ : список 2026 не гарантирует их стенды в 202
+ 7.. Источник проверен 2026-11-07.
 LOCATION:Las Vegas · Convention Center\, США
 URL:https://www.automateshow.com/
 STATUS:TENTATIVE
@@ -3576,6 +3599,231 @@ DESCRIPTION:Идея посещения\, не принятая реги
  ются.. Источник проверен 2026-11-07.
 LOCATION:Messe Dortmund · halls 3–8\, Германия
 URL:https://www.intermodellbau.de/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E280@family-stem.local
+DTSTAMP:20261107T075407Z
+SUMMARY:[Выставка · семейный вариант] Sumida STEA
+ M Fes 2027 · Tokyo
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+DESCRIPTION:Идея посещения\, не принятая реги
+ страция. Дети любого возраста могут вой
+ ти с семьёй. У отдельных занятий могут б
+ ыть ограничения. Время 10:00–17:00 предвари
+ тельное. Взрослый вход: Вход и занятия б
+ есплатны. Зарегистрировать всех членов
+  семьи\, включая детей. Можно на месте в 
+ день фестиваля..  Компании: Список экспо
+ нентов этого выпуска сверять по катало
+ гу организатора.. Источник проверен 2026-1
+ 1-07.
+LOCATION:iU Sumida Campus · 1-18-13 Bunka\, Sumida-ku\, Tokyo\, Япон
+ ия
+URL:https://fes.sakura-tempesta.or.jp/en/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E281@family-stem.local
+DTSTAMP:20261107T075407Z
+SUMMARY:[Выставка · семейный вариант] RoboDEX / F
+ actory Innovation Week · Nagoya 2026
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261128
+DESCRIPTION:Идея посещения\, не принятая реги
+ страция. Да с зарегистрированным взрос
+ лым 18+ и согласием родителя. На входе ре
+ шение принимает организатор. Взрослый 
+ вход: Взрослый регистрируется заранее. 
+ На месте сообщить о детях сотрудникам. 
+ До 5 детей на одного сопровождающего\, о
+ тдельная регистрация детей не нужна..  К
+ омпании: Список экспонентов этого выпу
+ ска сверять по каталогу организатора.. 
+ Источник проверен 2026-11-07.
+LOCATION:Aichi Sky Expo · Tokoname\, Aichi\, Япония
+URL:https://www.fiweek.jp/nagoya/ja-jp/about/robo.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E282@family-stem.local
+DTSTAMP:20261107T075407Z
+SUMMARY:[Выставка · семейный вариант] RoboDEX / F
+ actory Innovation Week · Tokyo Big Sight 2027
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270220
+DESCRIPTION:Идея посещения\, не принятая реги
+ страция. Да с зарегистрированным взрос
+ лым 18+ и согласием родителя. На входе ре
+ шение принимает организатор. Взрослый 
+ вход: Взрослый регистрируется заранее. 
+ На месте сообщить о детях сотрудникам. 
+ До 5 детей на одного сопровождающего\, о
+ тдельная регистрация детей не нужна..  К
+ омпании: Список экспонентов этого выпу
+ ска сверять по каталогу организатора.. 
+ Источник проверен 2026-11-07.
+LOCATION:Tokyo Big Sight · Tokyo\, Япония
+URL:https://www.fiweek.jp/tokyo/en-gb.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E283@family-stem.local
+DTSTAMP:20261107T075407Z
+SUMMARY:[Выставка · семейный вариант] RoboDEX / F
+ actory Innovation Week · Osaka 2027
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270515
+DESCRIPTION:Идея посещения\, не принятая реги
+ страция. Да с зарегистрированным взрос
+ лым 18+ и согласием родителя. На входе ре
+ шение принимает организатор. Взрослый 
+ вход: Взрослый регистрируется заранее. 
+ На месте сообщить о детях сотрудникам. 
+ До 5 детей на одного сопровождающего\, о
+ тдельная регистрация детей не нужна..  К
+ омпании: Список экспонентов этого выпу
+ ска сверять по каталогу организатора.. 
+ Источник проверен 2026-11-07.
+LOCATION:INTEX Osaka · Osaka\, Япония
+URL:https://www.fiweek.jp/osaka/en-gb.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E284@family-stem.local
+DTSTAMP:20261107T075407Z
+SUMMARY:[Выставка · семейный вариант] RoboDEX / F
+ actory Innovation Week · Makuhari 2027
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270911
+DESCRIPTION:Идея посещения\, не принятая реги
+ страция. Да с зарегистрированным взрос
+ лым 18+ и согласием родителя. На входе ре
+ шение принимает организатор. Взрослый 
+ вход: Взрослый регистрируется заранее. 
+ На месте сообщить о детях сотрудникам. 
+ До 5 детей на одного сопровождающего\, о
+ тдельная регистрация детей не нужна..  К
+ омпании: Список экспонентов этого выпу
+ ска сверять по каталогу организатора.. 
+ Источник проверен 2026-11-07.
+LOCATION:Makuhari Messe · Chiba\, Япония
+URL:https://www.fiweek.jp/autumn/en-gb.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E285@family-stem.local
+DTSTAMP:20261107T075407Z
+SUMMARY:[Выставка · допуск детей уточнить] IE
+ EE ICRA 2027 · Robotics Exhibition
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270528
+DESCRIPTION:Идея посещения\, не принятая реги
+ страция. Условно. Возраст посетителя и 
+ правила сопровождения уточнить. Взросл
+ ый вход: Доступ в выставочный зал требу
+ ет бейдж подходящей категории. Отдельн
+ ый билет в зал и возраст посетителя уто
+ чнить..  Компании: Это примеры организац
+ ий из официального списка партнёров. Со
+ став стендов сверить отдельно.. Источни
+ к проверен 2026-11-07.
+LOCATION:Coex Convention & Exhibition Center · Seoul\, Республи
+ ка Корея
+URL:https://partners.icra2027.kr/api/prospectus
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E286@family-stem.local
+DTSTAMP:20261107T075407Z
+SUMMARY:[Выставка · допуск детей уточнить] IE
+ EE/RSJ IROS 2027 · Robotics Conference and Exhibition Watch
+DTSTART;VALUE=DATE:20270927
+DTEND;VALUE=DATE:20271002
+DESCRIPTION:Идея посещения\, не принятая реги
+ страция. Условно. Возраст посетителя и 
+ правила сопровождения уточнить. Взросл
+ ый вход: Открытие выставочной программ
+ ы ожидается. Уточнить отдельный билет и
+  доступ детей..  Компании: Организатор п
+ ланирует публикацию информации для экс
+ понентов с первой недели декабря.. Исто
+ чник проверен 2026-11-07.
+LOCATION:Fortezza da Basso · Florence\, Италия
+URL:https://2027.ieee-iros.org/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E287@family-stem.local
+DTSTAMP:20261107T075407Z
+SUMMARY:[Выставка · допуск детей уточнить] Co
+ RL 2026 · Robot Learning Exhibits
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261112
+DESCRIPTION:Идея посещения\, не принятая реги
+ страция. Условно. Возраст посетителя и 
+ правила сопровождения уточнить. Взросл
+ ый вход: Для участия в программе нужна р
+ егистрация и бейдж. Допуск детей и отде
+ льный билет в зал не подтверждены..  Ком
+ пании: Список экспонентов этого выпуск
+ а сверять по каталогу организатора.. Ис
+ точник проверен 2026-11-07.
+LOCATION:JW Marriott Austin · 110 E 2nd Street\, Austin\, Texas\, Сое
+ диненные Штаты Америки
+URL:https://2026.corl.org/program
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E288@family-stem.local
+DTSTAMP:20261107T075407Z
+SUMMARY:[Выставка · допуск детей уточнить] IE
+ EE Humanoids 2026 · Exhibit Hall
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261210
+DESCRIPTION:Идея посещения\, не принятая реги
+ страция. Условно. Возраст посетителя и 
+ правила сопровождения уточнить. Взросл
+ ый вход: Уточнить билет выставки\, вход 
+ на открытые форумы и допуск несовершен
+ нолетних..  Компании: Примеры из текущег
+ о списка партнёров. Фактическое присут
+ ствие и стенды сверить по программе.. Ис
+ точник проверен 2026-11-07.
+LOCATION:Santa Clara Convention Center · Santa Clara\, California\, Со
+ единенные Штаты Америки
+URL:https://humanoids.exhibitprospectus.com/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E289@family-stem.local
+DTSTAMP:20261107T075407Z
+SUMMARY:[Выставка · допуск детей уточнить] XP
+ ONENTIAL 2027 · XPO Hall
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270521
+DESCRIPTION:Идея посещения\, не принятая реги
+ страция. Условно. Возраст посетителя и 
+ правила сопровождения уточнить. Взросл
+ ый вход: Нужен бейдж для XPO Hall. Возрастно
+ й допуск и сопровождение по правилам 2027
+  уточнить..  Компании: Список экспоненто
+ в этого выпуска сверять по каталогу орг
+ анизатора.. Источник проверен 2026-11-07.
+LOCATION:Miami Beach Convention Center · Miami Beach\, Florida\, Сое
+ диненные Штаты Америки
+URL:https://www.xponential.org/
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT

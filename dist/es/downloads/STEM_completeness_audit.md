@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 7171; competiciones: 2958; eventos: 279; campamentos / programas: 3934. Perfiles de ligas y programas: 257. Fichas de exposiciones grandes y especializadas: 191 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 7252; competiciones: 2965; eventos: 289; campamentos / programas: 3998. Perfiles de ligas y programas: 257. Fichas de exposiciones grandes y especializadas: 201 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros concretos de 158 de 249 países y territorios; países auditados por completo: 0. Revisión histórica v51: se añadieron 21 fichas y 3 perfiles. Todas las fichas anteriores se conservan.
 
@@ -14,16 +14,16 @@ Hay registros concretos de 158 de 249 países y territorios; países auditados p
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 23 | 1420 | 28 | 1057 |
+| América del Norte | 23 | 1421 | 31 | 1057 |
 | América del Sur | 10 | 167 | 7 | 113 |
-| Europa | 42 | 412 | 67 | 1256 |
+| Europa | 42 | 412 | 68 | 1256 |
 | África | 34 | 115 | 15 | 68 |
-| Asia | 44 | 635 | 71 | 1314 |
+| Asia | 44 | 640 | 77 | 1378 |
 | Oceanía | 5 | 119 | 3 | 114 |
 
-Fichas interregionales o mundiales sin continente asignado. Total 107. América del Norte incluye Centroamérica y el Caribe. Los recuentos representan el inventario de la base y su cobertura parcial.
+Fichas interregionales o globales sin un continente asignado: 108. América del Norte incluye Centroamérica y el Caribe. Las cantidades indican el inventario de la base y no el porcentaje de cobertura.
 
-VEX figura en 518 de 2958 fichas de competición (17.5%). La cobertura tiene un sesgo marcado.
+VEX: 518 de 2965 fichas de competiciones (17.5%). La cobertura se concentra en esta liga.
 
 ## Lo que queda
 
@@ -359,7 +359,7 @@ VEX figura en 518 de 2958 fichas de competición (17.5%). La cobertura tiene un 
 - **Maker Faire Shenzhen 2026** — China; 2026-12-12 – 2026-12-13. Acceso de los niños a la educación. https://www.shenzhenmakerfaire.com/
 - **ROBOTWORLD 2026** ○ Corea del Sur; 2026-11-04 国 2026-11-07. Con adultos; condiciones de entrada de adultos separadas. https://eng.robotworld.or.kr/visitors/information.php
 - **RoboNext 2026** Japón; 2026-12-02 国 2026-12-04. https://robonext.nikkan.co.jp?lang=en
-- **iREX International Robot Exhibition 2027** Japón; fecha desconocida: autorización para niños. https://irex.nikkan.co.jp/
+- **iREX International Robot Exhibition 2027** — Japón; 2027-12-01 – 2027-12-04. el permiso de entrada de niños. https://www.jara.jp/about/img/release/jigyo_keikaku/jara_jigyo_keikaku_2026.pdf
 - **RoboCup 2027 - Visitator days + Family Day** htm Alemania; 2027-06-17 BWC 2027-06-20; con un adulto; las condiciones de entrada de un adulto por separado. https://2027.robocup.org/visit/visitors
 - **Hannover Messe 2027** Alemania; 2027-04-05 2027-04-08. https://www.hannovermesse.de/en/for-visitors/tickets/index-2
 - **IFA Berlin 2027** Alemania; 2027-09-03 2027-09-07 con adultos; las condiciones de entrada de adultos por separado. https://www.ifa-berlin.com/faq
@@ -529,6 +529,16 @@ VEX figura en 518 de 2958 fichas de competición (17.5%). La cobertura tiene un 
 - **Maker Faire Prague 2027** — Chequia; 2027-05-22 – 2027-05-23. con un adulto; condiciones de admisión adulta por separado. https://makerfaire.cz/praha/
 - **Maker Faire Lake County 2027** — Estados Unidos; 2027-04-17. el permiso de entrada de niños. https://lakecounty.makerfaire.com/wp-content/uploads/sites/311/2026/04/Program2026.pdf
 - **INTERMODELLBAU Dortmund 2027** — Alemania; 2027-04-22 – 2027-04-25. con un adulto; condiciones de admisión adulta por separado. https://www.intermodellbau.de/
+- **Sumida STEAM Fes 2027 · Tokyo** — Japón; 2027-01-10. con un adulto; condiciones de admisión adulta por separado. https://fes.sakura-tempesta.or.jp/en/
+- **RoboDEX / Factory Innovation Week · Nagoya 2026** — Japón; 2026-11-25 – 2026-11-27. con un adulto; condiciones de admisión adulta por separado. https://www.fiweek.jp/nagoya/ja-jp/about/robo.html
+- **RoboDEX / Factory Innovation Week · Tokyo Big Sight 2027** — Japón; 2027-02-17 – 2027-02-19. con un adulto; condiciones de admisión adulta por separado. https://www.fiweek.jp/tokyo/en-gb.html
+- **RoboDEX / Factory Innovation Week · Osaka 2027** — Japón; 2027-05-12 – 2027-05-14. con un adulto; condiciones de admisión adulta por separado. https://www.fiweek.jp/osaka/en-gb.html
+- **RoboDEX / Factory Innovation Week · Makuhari 2027** — Japón; 2027-09-08 – 2027-09-10. con un adulto; condiciones de admisión adulta por separado. https://www.fiweek.jp/autumn/en-gb.html
+- **IEEE ICRA 2027 · Robotics Exhibition** — Corea del Sur; 2027-05-25 – 2027-05-27. el permiso de entrada de niños. https://partners.icra2027.kr/api/prospectus
+- **IEEE/RSJ IROS 2027 · Robotics Conference and Exhibition Watch** — Italia; 2027-09-27 – 2027-10-01. el permiso de entrada de niños. https://2027.ieee-iros.org/
+- **CoRL 2026 · Robot Learning Exhibits** — Estados Unidos; 2026-11-09 – 2026-11-11. el permiso de entrada de niños. https://2026.corl.org/program
+- **IEEE Humanoids 2026 · Exhibit Hall** — Estados Unidos; 2026-12-08 – 2026-12-09. el permiso de entrada de niños. https://humanoids.exhibitprospectus.com/
+- **XPONENTIAL 2027 · XPO Hall** — Estados Unidos; 2027-05-18 – 2027-05-20. el permiso de entrada de niños. https://www.xponential.org/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

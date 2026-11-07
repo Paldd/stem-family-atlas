@@ -1,0 +1,670 @@
+{
+  "version": 204,
+  "checked": "2026-11-07",
+  "exhibition_ids": [
+    "E280",
+    "E281",
+    "E282",
+    "E283",
+    "E284",
+    "E285",
+    "E286",
+    "E287",
+    "E288",
+    "E289"
+  ],
+  "competition_ids": [
+    "C2960",
+    "C2961",
+    "C2962",
+    "C2963",
+    "C2964",
+    "C2965",
+    "C2966"
+  ],
+  "updated_event_ids": [
+    "E012",
+    "E094"
+  ],
+  "operator_source": "https://www.worklab.com.sg/holiday-camps",
+  "operator_directory_tracks": 14,
+  "linked_operator_dossiers": {
+    "worklab-minecraft-coding-2026-27": "CP1123",
+    "worklab-yearend-spike-forum": "CP1592",
+    "worklab-yearend-apprentice-forum": "CP1593",
+    "worklab-yearend-spike-ue-square": "CP1594",
+    "worklab-yearend-apprentice-ue-square": "CP1595",
+    "worklab-yearend-spike-coronation": "CP1596",
+    "worklab-yearend-apprentice-coronation": "CP1597",
+    "worklab-yearend-apprentice-other": "CP1598",
+    "worklab-yearend-spike-afternoon": "CP1599",
+    "worklab-yearend-junior-senior": "CP1600",
+    "worklab-yearend-3d-printing": "CP1601",
+    "worklab-yearend-xplorers": "CP1602",
+    "worklab-yearend-robot-inventor": "CP1603",
+    "worklab-yearend-canva": "CP1604",
+    "worklab-yearend-photoshop": "CP1605",
+    "worklab-yearend-roblox": "CP1606",
+    "worklab-yearend-ai": "CP1607",
+    "worklab-yearend-jedi": "CP1608",
+    "worklab-yearend-jewelry": "CP1609",
+    "worklab-yearend-minecraft": "CP1610",
+    "worklab-yearend-mycamp": "CP1611"
+  },
+  "additional_english_tracks": [
+    {
+      "id": "CP1604",
+      "source_track": "Designer Canva / Photoshop",
+      "source": "https://www.worklab.com.sg/_files/ugd/4223d1_79c0b74e8c75452d8a6af329f341e46f.pdf",
+      "source_sha256": "1dc3070965a00f9c0e0933858c7c837b48123230532c38f63edf9e2d756646c3",
+      "site": "UE Square",
+      "clock": [
+        "09:30",
+        "12:00"
+      ],
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "start_end": [
+        [
+          "2026-11-23",
+          "2026-11-27"
+        ],
+        [
+          "2026-11-30",
+          "2026-12-04"
+        ],
+        [
+          "2026-12-07",
+          "2026-12-11"
+        ],
+        [
+          "2026-12-14",
+          "2026-12-18"
+        ],
+        [
+          "2027-01-04",
+          "2027-01-08"
+        ]
+      ],
+      "published_fee_symbol": "$",
+      "published_fee": 599,
+      "published_fee_by_duration": null,
+      "currency_iso": null,
+      "tax_included": null
+    },
+    {
+      "id": "CP1605",
+      "source_track": "Designer Canva / Photoshop",
+      "source": "https://www.worklab.com.sg/_files/ugd/4223d1_79c0b74e8c75452d8a6af329f341e46f.pdf",
+      "source_sha256": "1dc3070965a00f9c0e0933858c7c837b48123230532c38f63edf9e2d756646c3",
+      "site": "UE Square",
+      "clock": [
+        "09:30",
+        "12:00"
+      ],
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "start_end": [
+        [
+          "2026-11-23",
+          "2026-11-27"
+        ],
+        [
+          "2026-11-30",
+          "2026-12-04"
+        ],
+        [
+          "2026-12-07",
+          "2026-12-11"
+        ],
+        [
+          "2026-12-14",
+          "2026-12-18"
+        ],
+        [
+          "2027-01-04",
+          "2027-01-08"
+        ]
+      ],
+      "published_fee_symbol": "$",
+      "published_fee": 599,
+      "published_fee_by_duration": null,
+      "currency_iso": null,
+      "tax_included": null
+    },
+    {
+      "id": "CP1606",
+      "source_track": "Roblox Game Design",
+      "source": "https://www.worklab.com.sg/_files/ugd/4223d1_c7101265eb6849eea0d775710c306b2a.pdf",
+      "source_sha256": "81d585435d70945b59dfd16c5f717d4d13bd1c1ced683db9dbf4a724011108b5",
+      "site": "UE Square",
+      "clock": [
+        "09:30",
+        "12:00"
+      ],
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "start_end": [
+        [
+          "2026-11-25",
+          "2026-11-27"
+        ],
+        [
+          "2026-12-02",
+          "2026-12-04"
+        ],
+        [
+          "2026-12-09",
+          "2026-12-11"
+        ],
+        [
+          "2026-12-16",
+          "2026-12-18"
+        ],
+        [
+          "2026-12-22",
+          "2026-12-24"
+        ],
+        [
+          "2026-12-29",
+          "2026-12-31"
+        ],
+        [
+          "2027-01-06",
+          "2027-01-08"
+        ]
+      ],
+      "published_fee_symbol": "$",
+      "published_fee": 399,
+      "published_fee_by_duration": null,
+      "currency_iso": null,
+      "tax_included": null
+    },
+    {
+      "id": "CP1607",
+      "source_track": "AI & Digital Citizenship",
+      "source": "https://www.worklab.com.sg/_files/ugd/4223d1_f74ad6650458446fa2fae1e3abb4b318.pdf",
+      "source_sha256": "dee29f2482b5f54f671fe9de89d9c8ed7242f1a07f167d09f48681e7a5fe1f46",
+      "site": "Forum The Shopping Mall",
+      "clock": [
+        "09:30",
+        "12:00"
+      ],
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "start_end": [
+        [
+          "2026-11-25",
+          "2026-11-27"
+        ],
+        [
+          "2026-12-02",
+          "2026-12-04"
+        ],
+        [
+          "2026-12-09",
+          "2026-12-11"
+        ],
+        [
+          "2026-12-16",
+          "2026-12-18"
+        ],
+        [
+          "2026-12-22",
+          "2026-12-24"
+        ],
+        [
+          "2026-12-29",
+          "2026-12-31"
+        ],
+        [
+          "2027-01-06",
+          "2027-01-08"
+        ]
+      ],
+      "published_fee_symbol": "$",
+      "published_fee": 425,
+      "published_fee_by_duration": null,
+      "currency_iso": null,
+      "tax_included": null
+    },
+    {
+      "id": "CP1608",
+      "source_track": "3D Jedi",
+      "source": "https://www.worklab.com.sg/_files/ugd/4223d1_e5e06ffaeb3e473d98474f4b4622cdd2.pdf",
+      "source_sha256": "592c834e03dc3ab939bf216169ce5e2fd35d3a5adfdfdb6896d710cbd6f1419d",
+      "site": "Forum The Shopping Mall",
+      "clock": [
+        "09:00",
+        "11:30"
+      ],
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "start_end": [
+        [
+          "2026-11-25",
+          "2026-11-27"
+        ],
+        [
+          "2026-12-02",
+          "2026-12-04"
+        ],
+        [
+          "2026-12-09",
+          "2026-12-11"
+        ],
+        [
+          "2026-12-16",
+          "2026-12-18"
+        ],
+        [
+          "2026-12-22",
+          "2026-12-24"
+        ],
+        [
+          "2026-12-29",
+          "2026-12-31"
+        ],
+        [
+          "2027-01-06",
+          "2027-01-08"
+        ]
+      ],
+      "published_fee_symbol": "$",
+      "published_fee": 500,
+      "published_fee_by_duration": null,
+      "currency_iso": null,
+      "tax_included": null
+    },
+    {
+      "id": "CP1609",
+      "source_track": "3D Jewelry",
+      "source": "https://www.worklab.com.sg/_files/ugd/4223d1_8ee04d7f9153483b9583d60966207b68.pdf",
+      "source_sha256": "cb60a7e25c8979d4474cae9fe0168815fce3977fc5a1103ad9203171d350b634",
+      "site": "UE Square",
+      "clock": [
+        "09:00",
+        "11:30"
+      ],
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "start_end": [
+        [
+          "2026-11-25",
+          "2026-11-27"
+        ],
+        [
+          "2026-12-02",
+          "2026-12-04"
+        ],
+        [
+          "2026-12-09",
+          "2026-12-11"
+        ],
+        [
+          "2026-12-16",
+          "2026-12-18"
+        ],
+        [
+          "2026-12-22",
+          "2026-12-24"
+        ],
+        [
+          "2026-12-29",
+          "2026-12-31"
+        ],
+        [
+          "2027-01-06",
+          "2027-01-08"
+        ]
+      ],
+      "published_fee_symbol": "$",
+      "published_fee": 500,
+      "published_fee_by_duration": null,
+      "currency_iso": null,
+      "tax_included": null
+    },
+    {
+      "id": "CP1610",
+      "source_track": "Minecraft Game Design",
+      "source": "https://www.worklab.com.sg/_files/ugd/4223d1_7a2faa2000c04c1bb71218ae17933956.pdf",
+      "source_sha256": "3769049781623e78d9deb38057adb42b2875df0bbe9d5fb2b5f9acebe574388b",
+      "site": "Forum The Shopping Mall",
+      "clock": [
+        "09:30",
+        "12:00"
+      ],
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "start_end": [
+        [
+          "2026-11-23",
+          "2026-11-26"
+        ],
+        [
+          "2026-11-30",
+          "2026-12-03"
+        ],
+        [
+          "2026-12-07",
+          "2026-12-10"
+        ],
+        [
+          "2026-12-14",
+          "2026-12-17"
+        ],
+        [
+          "2026-12-21",
+          "2026-12-24"
+        ],
+        [
+          "2026-12-28",
+          "2026-12-31"
+        ],
+        [
+          "2027-01-04",
+          "2027-01-07"
+        ]
+      ],
+      "published_fee_symbol": "$",
+      "published_fee": 449,
+      "published_fee_by_duration": null,
+      "currency_iso": null,
+      "tax_included": null
+    },
+    {
+      "id": "CP1611",
+      "source_track": "myCamp Junior",
+      "source": "https://www.worklab.com.sg/_files/ugd/4223d1_0a9b15e105484fe19584329fb1dfb409.pdf",
+      "source_sha256": "9646bf1ebcfdc35d9b109a9f420fca0cbc4a6fac977a036c3501a75cccc6a577",
+      "site": "Forum / UE Square / Shaw by week",
+      "clock": [
+        [
+          "09:30",
+          "12:00"
+        ],
+        [
+          "14:30",
+          "17:00"
+        ]
+      ],
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "start_end": [
+        [
+          "2026-11-23",
+          "2026-11-25"
+        ],
+        [
+          "2026-11-23",
+          "2026-11-26"
+        ],
+        [
+          "2026-11-23",
+          "2026-11-27"
+        ],
+        [
+          "2026-11-30",
+          "2026-12-02"
+        ],
+        [
+          "2026-11-30",
+          "2026-12-03"
+        ],
+        [
+          "2026-11-30",
+          "2026-12-04"
+        ],
+        [
+          "2026-12-07",
+          "2026-12-09"
+        ],
+        [
+          "2026-12-07",
+          "2026-12-10"
+        ],
+        [
+          "2026-12-07",
+          "2026-12-11"
+        ],
+        [
+          "2026-12-14",
+          "2026-12-16"
+        ],
+        [
+          "2026-12-14",
+          "2026-12-17"
+        ],
+        [
+          "2026-12-14",
+          "2026-12-18"
+        ],
+        [
+          "2026-12-21",
+          "2026-12-23"
+        ],
+        [
+          "2026-12-21",
+          "2026-12-24"
+        ],
+        [
+          "2026-12-28",
+          "2026-12-30"
+        ],
+        [
+          "2026-12-28",
+          "2026-12-31"
+        ],
+        [
+          "2027-01-04",
+          "2027-01-06"
+        ],
+        [
+          "2027-01-04",
+          "2027-01-07"
+        ],
+        [
+          "2027-01-04",
+          "2027-01-08"
+        ]
+      ],
+      "published_fee_symbol": "$",
+      "published_fee": null,
+      "published_fee_by_duration": {
+        "3": 449,
+        "4": 499,
+        "5": 549
+      },
+      "currency_iso": null,
+      "tax_included": null
+    }
+  ],
+  "shared_campus_sibling_schedules": [
+    {
+      "matvey": "CP1610",
+      "oscar": "CP1593",
+      "venue": "Forum The Shopping Mall",
+      "start": "2026-11-23",
+      "end": "2026-11-26",
+      "start_time": "09:30",
+      "end_time": "12:00",
+      "local_timezone": "Asia/Singapore",
+      "tuition_terms": {
+        "minecraft_game_design": 449,
+        "apprentice": 499,
+        "sum": 948,
+        "source_currency_symbol": "$",
+        "currency_iso": null,
+        "tax_included": null
+      },
+      "sources": [
+        "https://www.worklab.com.sg/_files/ugd/4223d1_7a2faa2000c04c1bb71218ae17933956.pdf",
+        "https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf"
+      ]
+    },
+    {
+      "matvey": "CP1610",
+      "oscar": "CP1593",
+      "venue": "Forum The Shopping Mall",
+      "start": "2026-11-30",
+      "end": "2026-12-03",
+      "start_time": "09:30",
+      "end_time": "12:00",
+      "local_timezone": "Asia/Singapore",
+      "tuition_terms": {
+        "minecraft_game_design": 449,
+        "apprentice": 499,
+        "sum": 948,
+        "source_currency_symbol": "$",
+        "currency_iso": null,
+        "tax_included": null
+      },
+      "sources": [
+        "https://www.worklab.com.sg/_files/ugd/4223d1_7a2faa2000c04c1bb71218ae17933956.pdf",
+        "https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf"
+      ]
+    },
+    {
+      "matvey": "CP1610",
+      "oscar": "CP1593",
+      "venue": "Forum The Shopping Mall",
+      "start": "2026-12-07",
+      "end": "2026-12-10",
+      "start_time": "09:30",
+      "end_time": "12:00",
+      "local_timezone": "Asia/Singapore",
+      "tuition_terms": {
+        "minecraft_game_design": 449,
+        "apprentice": 499,
+        "sum": 948,
+        "source_currency_symbol": "$",
+        "currency_iso": null,
+        "tax_included": null
+      },
+      "sources": [
+        "https://www.worklab.com.sg/_files/ugd/4223d1_7a2faa2000c04c1bb71218ae17933956.pdf",
+        "https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf"
+      ]
+    },
+    {
+      "matvey": "CP1610",
+      "oscar": "CP1593",
+      "venue": "Forum The Shopping Mall",
+      "start": "2026-12-14",
+      "end": "2026-12-17",
+      "start_time": "09:30",
+      "end_time": "12:00",
+      "local_timezone": "Asia/Singapore",
+      "tuition_terms": {
+        "minecraft_game_design": 449,
+        "apprentice": 499,
+        "sum": 948,
+        "source_currency_symbol": "$",
+        "currency_iso": null,
+        "tax_included": null
+      },
+      "sources": [
+        "https://www.worklab.com.sg/_files/ugd/4223d1_7a2faa2000c04c1bb71218ae17933956.pdf",
+        "https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf"
+      ]
+    },
+    {
+      "matvey": "CP1610",
+      "oscar": "CP1593",
+      "venue": "Forum The Shopping Mall",
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "start_time": "09:30",
+      "end_time": "12:00",
+      "local_timezone": "Asia/Singapore",
+      "tuition_terms": {
+        "minecraft_game_design": 449,
+        "apprentice": 499,
+        "sum": 948,
+        "source_currency_symbol": "$",
+        "currency_iso": null,
+        "tax_included": null
+      },
+      "sources": [
+        "https://www.worklab.com.sg/_files/ugd/4223d1_7a2faa2000c04c1bb71218ae17933956.pdf",
+        "https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf"
+      ]
+    },
+    {
+      "matvey": "CP1610",
+      "oscar": "CP1593",
+      "venue": "Forum The Shopping Mall",
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "start_time": "09:30",
+      "end_time": "12:00",
+      "local_timezone": "Asia/Singapore",
+      "tuition_terms": {
+        "minecraft_game_design": 449,
+        "apprentice": 499,
+        "sum": 948,
+        "source_currency_symbol": "$",
+        "currency_iso": null,
+        "tax_included": null
+      },
+      "sources": [
+        "https://www.worklab.com.sg/_files/ugd/4223d1_7a2faa2000c04c1bb71218ae17933956.pdf",
+        "https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf"
+      ]
+    },
+    {
+      "matvey": "CP1610",
+      "oscar": "CP1593",
+      "venue": "Forum The Shopping Mall",
+      "start": "2027-01-04",
+      "end": "2027-01-07",
+      "start_time": "09:30",
+      "end_time": "12:00",
+      "local_timezone": "Asia/Singapore",
+      "tuition_terms": {
+        "minecraft_game_design": 449,
+        "apprentice": 499,
+        "sum": 948,
+        "source_currency_symbol": "$",
+        "currency_iso": null,
+        "tax_included": null
+      },
+      "sources": [
+        "https://www.worklab.com.sg/_files/ugd/4223d1_7a2faa2000c04c1bb71218ae17933956.pdf",
+        "https://www.robotics.com.sg/_files/ugd/4223d1_618843b2efec48bf90a1a809ad2d3025.pdf"
+      ]
+    },
+    {
+      "matvey": "CP1592",
+      "oscar": "CP1610",
+      "venue": "Forum The Shopping Mall",
+      "start": "2027-01-04",
+      "end": "2027-01-07",
+      "start_time": "09:30",
+      "end_time": "12:00",
+      "local_timezone": "Asia/Singapore",
+      "age_condition": "Если к началу смены уже исполнилось 7 лет.",
+      "tuition_terms": {
+        "minecraft_game_design": 449,
+        "spike_prime": 500,
+        "sum": 949,
+        "source_currency_symbol": "$",
+        "currency_iso": null,
+        "tax_included": null
+      },
+      "sources": [
+        "https://www.worklab.com.sg/_files/ugd/4223d1_e472ac12e25b4a82b585fbc19139c170.pdf",
+        "https://www.worklab.com.sg/_files/ugd/4223d1_7a2faa2000c04c1bb71218ae17933956.pdf"
+      ]
+    }
+  ],
+  "prior_shared_campus_sibling_schedules_count": 19
+}

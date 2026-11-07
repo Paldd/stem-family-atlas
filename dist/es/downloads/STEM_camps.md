@@ -61734,6 +61734,1030 @@ Limitaciones: Matvey: Si ya cumplió 10 años al inicio del turno y maneja Scrat
 Fuente: https://www.robotics.com.sg/_files/ugd/4223d1_9029e71d6d4b438086a4005f64786e11.pdf
 Se ha comprobado: 2026-11-07
 
+### CP1604-20261123-20261127 · Children’s Worklab · Designer · Canva · 5 medias jornadas · 2026-11-23–2026-11-27
+
+Lugar: Singapur Singapore · UE Square
+Fecha: 2026-11-23 国 2026-11-27
+edad: 7–8 años en la tabla de Camp 1. No se requiere experiencia.
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $599 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: El menor supera la edad máxima del programa. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_79c0b74e8c75452d8a6af329f341e46f.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1604-20261130-20261204 · Children’s Worklab · Designer · Canva · 5 medias jornadas · 2026-11-30–2026-12-04
+
+Lugar: Singapur Singapore · UE Square
+Fecha: 2026-11-30 — 2026-12-04
+edad: 7–8 años en la tabla de Camp 1. No se requiere experiencia.
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $599 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: El menor supera la edad máxima del programa. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_79c0b74e8c75452d8a6af329f341e46f.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1604-20261207-20261211 · Children’s Worklab · Designer · Canva · 5 medias jornadas · 2026-12-07–2026-12-11
+
+Lugar: Singapur Singapore · UE Square
+Fecha: 2026-12-07 — 2026-12-11
+edad: 7–8 años en la tabla de Camp 1. No se requiere experiencia.
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $599 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: El menor supera la edad máxima del programa. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_79c0b74e8c75452d8a6af329f341e46f.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1604-20261214-20261218 · Children’s Worklab · Designer · Canva · 5 medias jornadas · 2026-12-14–2026-12-18
+
+Lugar: Singapur Singapore · UE Square
+Fecha: 2026-12-14 - 2026-12-18
+edad: 7–8 años en la tabla de Camp 1. No se requiere experiencia.
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $599 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: El menor supera la edad máxima del programa. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_79c0b74e8c75452d8a6af329f341e46f.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1604-20270104-20270108 · Children’s Worklab · Designer · Canva · 5 medias jornadas · 2027-01-04–2027-01-08
+
+Lugar: Singapur Singapore · UE Square
+Fecha: 2027-01-04 — 2027-01-08
+edad: 7–8 años en la tabla de Camp 1. No se requiere experiencia.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · $599 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: El menor supera la edad máxima del programa. Oscar: Si ya cumplió 7 años al inicio del turno. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_79c0b74e8c75452d8a6af329f341e46f.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1605-20261123-20261127 · Children’s Worklab · Designer · Photoshop · 5 medias jornadas · 2026-11-23–2026-11-27
+
+Lugar: Singapur Singapore · UE Square
+Fecha: 2026-11-23 国 2026-11-27
+edad: 8+ años. Se exige completar Camp 1 o tener experiencia con Canva.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $599 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: Edad posiblemente adecuada. Se exige Camp 1 o experiencia con Canva. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_79c0b74e8c75452d8a6af329f341e46f.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1605-20261130-20261204 · Children’s Worklab · Designer · Photoshop · 5 medias jornadas · 2026-11-30–2026-12-04
+
+Lugar: Singapur Singapore · UE Square
+Fecha: 2026-11-30 — 2026-12-04
+edad: 8+ años. Se exige completar Camp 1 o tener experiencia con Canva.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $599 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: Edad posiblemente adecuada. Se exige Camp 1 o experiencia con Canva. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_79c0b74e8c75452d8a6af329f341e46f.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1605-20261207-20261211 · Children’s Worklab · Designer · Photoshop · 5 medias jornadas · 2026-12-07–2026-12-11
+
+Lugar: Singapur Singapore · UE Square
+Fecha: 2026-12-07 — 2026-12-11
+edad: 8+ años. Se exige completar Camp 1 o tener experiencia con Canva.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $599 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: Edad posiblemente adecuada. Se exige Camp 1 o experiencia con Canva. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_79c0b74e8c75452d8a6af329f341e46f.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1605-20261214-20261218 · Children’s Worklab · Designer · Photoshop · 5 medias jornadas · 2026-12-14–2026-12-18
+
+Lugar: Singapur Singapore · UE Square
+Fecha: 2026-12-14 - 2026-12-18
+edad: 8+ años. Se exige completar Camp 1 o tener experiencia con Canva.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $599 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: Edad posiblemente adecuada. Se exige Camp 1 o experiencia con Canva. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_79c0b74e8c75452d8a6af329f341e46f.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1605-20270104-20270108 · Children’s Worklab · Designer · Photoshop · 5 medias jornadas · 2027-01-04–2027-01-08
+
+Lugar: Singapur Singapore · UE Square
+Fecha: 2027-01-04 — 2027-01-08
+edad: 8+ años. Se exige completar Camp 1 o tener experiencia con Canva.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · $599 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: Edad posiblemente adecuada. Se exige Camp 1 o experiencia con Canva. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_79c0b74e8c75452d8a6af329f341e46f.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1606-20261125-20261127 · Children’s Worklab · Roblox Game Design · 3 medias jornadas · 2026-11-25–2026-11-27
+
+Lugar: Singapur Singapore · UE Square
+Fecha: 2026-11-25 - 2026-11-27
+edad: 8+ años según fecha de nacimiento.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $399 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: Edad adecuada. El organizador confirma la plaza. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_c7101265eb6849eea0d775710c306b2a.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1606-20261202-20261204 · Children’s Worklab · Roblox Game Design · 3 medias jornadas · 2026-12-02–2026-12-04
+
+Lugar: Singapur Singapore · UE Square
+Fecha: 2026-12-02 国 2026-12-04
+edad: 8+ años según fecha de nacimiento.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $399 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: Edad adecuada. El organizador confirma la plaza. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_c7101265eb6849eea0d775710c306b2a.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1606-20261209-20261211 · Children’s Worklab · Roblox Game Design · 3 medias jornadas · 2026-12-09–2026-12-11
+
+Lugar: Singapur Singapore · UE Square
+Fecha: 2026-12-09 国 2026-12-11
+edad: 8+ años según fecha de nacimiento.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $399 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: Edad adecuada. El organizador confirma la plaza. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_c7101265eb6849eea0d775710c306b2a.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1606-20261216-20261218 · Children’s Worklab · Roblox Game Design · 3 medias jornadas · 2026-12-16–2026-12-18
+
+Lugar: Singapur Singapore · UE Square
+Fecha: 2026-12-16 - 2026-12-18
+edad: 8+ años según fecha de nacimiento.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $399 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: Edad adecuada. El organizador confirma la plaza. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_c7101265eb6849eea0d775710c306b2a.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1606-20261222-20261224 · Children’s Worklab · Roblox Game Design · 3 medias jornadas · 2026-12-22–2026-12-24
+
+Lugar: Singapur Singapore · UE Square
+Fecha: 2026-12-22 — 2026-12-24
+edad: 8+ años según fecha de nacimiento.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $399 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: Edad adecuada. El organizador confirma la plaza. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_c7101265eb6849eea0d775710c306b2a.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1606-20261229-20261231 · Children’s Worklab · Roblox Game Design · 3 medias jornadas · 2026-12-29–2026-12-31
+
+Lugar: Singapur Singapore · UE Square
+Fecha: 2026-12-29 - 2026-12-31
+edad: 8+ años según fecha de nacimiento.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $399 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: Edad adecuada. El organizador confirma la plaza. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_c7101265eb6849eea0d775710c306b2a.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1606-20270106-20270108 · Children’s Worklab · Roblox Game Design · 3 medias jornadas · 2027-01-06–2027-01-08
+
+Lugar: Singapur Singapore · UE Square
+Fecha: 2027-01-06 — 2027-01-08
+edad: 8+ años según fecha de nacimiento.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · $399 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: Edad adecuada. El organizador confirma la plaza. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_c7101265eb6849eea0d775710c306b2a.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1607-20261125-20261127 · Children’s Worklab · AI and Digital Citizenship · 3 medias jornadas · 2026-11-25–2026-11-27
+
+Lugar: Singapur Singapore · Forum The Shopping Mall
+Fecha: 2026-11-25 - 2026-11-27
+edad: 7.5+ años según fecha de nacimiento.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $425 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: Edad adecuada. El organizador confirma la plaza. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_f74ad6650458446fa2fae1e3abb4b318.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1607-20261202-20261204 · Children’s Worklab · AI and Digital Citizenship · 3 medias jornadas · 2026-12-02–2026-12-04
+
+Lugar: Singapur Singapore · Forum The Shopping Mall
+Fecha: 2026-12-02 国 2026-12-04
+edad: 7.5+ años según fecha de nacimiento.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $425 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: Edad adecuada. El organizador confirma la plaza. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_f74ad6650458446fa2fae1e3abb4b318.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1607-20261209-20261211 · Children’s Worklab · AI and Digital Citizenship · 3 medias jornadas · 2026-12-09–2026-12-11
+
+Lugar: Singapur Singapore · Forum The Shopping Mall
+Fecha: 2026-12-09 国 2026-12-11
+edad: 7.5+ años según fecha de nacimiento.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $425 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: Edad adecuada. El organizador confirma la plaza. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_f74ad6650458446fa2fae1e3abb4b318.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1607-20261216-20261218 · Children’s Worklab · AI and Digital Citizenship · 3 medias jornadas · 2026-12-16–2026-12-18
+
+Lugar: Singapur Singapore · Forum The Shopping Mall
+Fecha: 2026-12-16 - 2026-12-18
+edad: 7.5+ años según fecha de nacimiento.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $425 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: Edad adecuada. El organizador confirma la plaza. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_f74ad6650458446fa2fae1e3abb4b318.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1607-20261222-20261224 · Children’s Worklab · AI and Digital Citizenship · 3 medias jornadas · 2026-12-22–2026-12-24
+
+Lugar: Singapur Singapore · Forum The Shopping Mall
+Fecha: 2026-12-22 — 2026-12-24
+edad: 7.5+ años según fecha de nacimiento.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $425 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: Edad adecuada. El organizador confirma la plaza. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_f74ad6650458446fa2fae1e3abb4b318.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1607-20261229-20261231 · Children’s Worklab · AI and Digital Citizenship · 3 medias jornadas · 2026-12-29–2026-12-31
+
+Lugar: Singapur Singapore · Forum The Shopping Mall
+Fecha: 2026-12-29 - 2026-12-31
+edad: 7.5+ años según fecha de nacimiento.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $425 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: Edad adecuada. El organizador confirma la plaza. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_f74ad6650458446fa2fae1e3abb4b318.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1607-20270106-20270108 · Children’s Worklab · AI and Digital Citizenship · 3 medias jornadas · 2027-01-06–2027-01-08
+
+Lugar: Singapur Singapore · Forum The Shopping Mall
+Fecha: 2027-01-06 — 2027-01-08
+edad: 7.5+ años según fecha de nacimiento.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · $425 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: Edad adecuada. El organizador confirma la plaza. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_f74ad6650458446fa2fae1e3abb4b318.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1608-20261125-20261127 · Children’s Worklab · 3D Jedi · 3 medias jornadas · 2026-11-25–2026-11-27
+
+Lugar: Singapur Singapore · Forum The Shopping Mall
+Fecha: 2026-11-25 - 2026-11-27
+edad: 8+ años según fecha de nacimiento.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: Edad adecuada. El organizador confirma la plaza. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_e5e06ffaeb3e473d98474f4b4622cdd2.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1608-20261202-20261204 · Children’s Worklab · 3D Jedi · 3 medias jornadas · 2026-12-02–2026-12-04
+
+Lugar: Singapur Singapore · Forum The Shopping Mall
+Fecha: 2026-12-02 国 2026-12-04
+edad: 8+ años según fecha de nacimiento.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: Edad adecuada. El organizador confirma la plaza. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_e5e06ffaeb3e473d98474f4b4622cdd2.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1608-20261209-20261211 · Children’s Worklab · 3D Jedi · 3 medias jornadas · 2026-12-09–2026-12-11
+
+Lugar: Singapur Singapore · Forum The Shopping Mall
+Fecha: 2026-12-09 国 2026-12-11
+edad: 8+ años según fecha de nacimiento.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: Edad adecuada. El organizador confirma la plaza. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_e5e06ffaeb3e473d98474f4b4622cdd2.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1608-20261216-20261218 · Children’s Worklab · 3D Jedi · 3 medias jornadas · 2026-12-16–2026-12-18
+
+Lugar: Singapur Singapore · Forum The Shopping Mall
+Fecha: 2026-12-16 - 2026-12-18
+edad: 8+ años según fecha de nacimiento.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: Edad adecuada. El organizador confirma la plaza. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_e5e06ffaeb3e473d98474f4b4622cdd2.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1608-20261222-20261224 · Children’s Worklab · 3D Jedi · 3 medias jornadas · 2026-12-22–2026-12-24
+
+Lugar: Singapur Singapore · Forum The Shopping Mall
+Fecha: 2026-12-22 — 2026-12-24
+edad: 8+ años según fecha de nacimiento.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: Edad adecuada. El organizador confirma la plaza. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_e5e06ffaeb3e473d98474f4b4622cdd2.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1608-20261229-20261231 · Children’s Worklab · 3D Jedi · 3 medias jornadas · 2026-12-29–2026-12-31
+
+Lugar: Singapur Singapore · Forum The Shopping Mall
+Fecha: 2026-12-29 - 2026-12-31
+edad: 8+ años según fecha de nacimiento.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: Edad adecuada. El organizador confirma la plaza. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_e5e06ffaeb3e473d98474f4b4622cdd2.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1608-20270106-20270108 · Children’s Worklab · 3D Jedi · 3 medias jornadas · 2027-01-06–2027-01-08
+
+Lugar: Singapur Singapore · Forum The Shopping Mall
+Fecha: 2027-01-06 — 2027-01-08
+edad: 8+ años según fecha de nacimiento.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: Edad adecuada. El organizador confirma la plaza. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_e5e06ffaeb3e473d98474f4b4622cdd2.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1609-20261125-20261127 · Children’s Worklab · 3D Jewelry · 3 medias jornadas · 2026-11-25–2026-11-27
+
+Lugar: Singapur Singapore · UE Square
+Fecha: 2026-11-25 - 2026-11-27
+edad: 8+ años según fecha de nacimiento.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: Edad adecuada. El organizador confirma la plaza. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_8ee04d7f9153483b9583d60966207b68.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1609-20261202-20261204 · Children’s Worklab · 3D Jewelry · 3 medias jornadas · 2026-12-02–2026-12-04
+
+Lugar: Singapur Singapore · UE Square
+Fecha: 2026-12-02 国 2026-12-04
+edad: 8+ años según fecha de nacimiento.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: Edad adecuada. El organizador confirma la plaza. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_8ee04d7f9153483b9583d60966207b68.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1609-20261209-20261211 · Children’s Worklab · 3D Jewelry · 3 medias jornadas · 2026-12-09–2026-12-11
+
+Lugar: Singapur Singapore · UE Square
+Fecha: 2026-12-09 国 2026-12-11
+edad: 8+ años según fecha de nacimiento.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: Edad adecuada. El organizador confirma la plaza. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_8ee04d7f9153483b9583d60966207b68.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1609-20261216-20261218 · Children’s Worklab · 3D Jewelry · 3 medias jornadas · 2026-12-16–2026-12-18
+
+Lugar: Singapur Singapore · UE Square
+Fecha: 2026-12-16 - 2026-12-18
+edad: 8+ años según fecha de nacimiento.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: Edad adecuada. El organizador confirma la plaza. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_8ee04d7f9153483b9583d60966207b68.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1609-20261222-20261224 · Children’s Worklab · 3D Jewelry · 3 medias jornadas · 2026-12-22–2026-12-24
+
+Lugar: Singapur Singapore · UE Square
+Fecha: 2026-12-22 — 2026-12-24
+edad: 8+ años según fecha de nacimiento.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: Edad adecuada. El organizador confirma la plaza. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_8ee04d7f9153483b9583d60966207b68.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1609-20261229-20261231 · Children’s Worklab · 3D Jewelry · 3 medias jornadas · 2026-12-29–2026-12-31
+
+Lugar: Singapur Singapore · UE Square
+Fecha: 2026-12-29 - 2026-12-31
+edad: 8+ años según fecha de nacimiento.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: Edad adecuada. El organizador confirma la plaza. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_8ee04d7f9153483b9583d60966207b68.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1609-20270106-20270108 · Children’s Worklab · 3D Jewelry · 3 medias jornadas · 2027-01-06–2027-01-08
+
+Lugar: Singapur Singapore · UE Square
+Fecha: 2027-01-06 — 2027-01-08
+edad: 8+ años según fecha de nacimiento.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · $500 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: Edad adecuada. El organizador confirma la plaza. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_8ee04d7f9153483b9583d60966207b68.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1610-20261123-20261126 · Children’s Worklab · Minecraft Game Design · 4 medias jornadas · 2026-11-23–2026-11-26
+
+Lugar: Singapur Singapore · Forum The Shopping Mall
+Fecha: 2026-11-23 — 2026-11-26
+edad: 7+ años según fecha de nacimiento.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $449 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: Edad adecuada. El organizador confirma la plaza. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_7a2faa2000c04c1bb71218ae17933956.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1610-20261130-20261203 · Children’s Worklab · Minecraft Game Design · 4 medias jornadas · 2026-11-30–2026-12-03
+
+Lugar: Singapur Singapore · Forum The Shopping Mall
+Fecha: 2026-11-30 — 2026-12-03
+edad: 7+ años según fecha de nacimiento.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $449 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: Edad adecuada. El organizador confirma la plaza. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_7a2faa2000c04c1bb71218ae17933956.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1610-20261207-20261210 · Children’s Worklab · Minecraft Game Design · 4 medias jornadas · 2026-12-07–2026-12-10
+
+Lugar: Singapur Singapore · Forum The Shopping Mall
+Fecha: 2026-12-07 — 2026-12-10
+edad: 7+ años según fecha de nacimiento.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $449 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: Edad adecuada. El organizador confirma la plaza. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_7a2faa2000c04c1bb71218ae17933956.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1610-20261214-20261217 · Children’s Worklab · Minecraft Game Design · 4 medias jornadas · 2026-12-14–2026-12-17
+
+Lugar: Singapur Singapore · Forum The Shopping Mall
+Fecha: 2026-12-14 — 2026-12-17
+edad: 7+ años según fecha de nacimiento.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $449 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: Edad adecuada. El organizador confirma la plaza. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_7a2faa2000c04c1bb71218ae17933956.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1610-20261221-20261224 · Children’s Worklab · Minecraft Game Design · 4 medias jornadas · 2026-12-21–2026-12-24
+
+Lugar: Singapur Singapore · Forum The Shopping Mall
+Fecha: 2026-12-21 - 2026-12-24
+edad: 7+ años según fecha de nacimiento.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $449 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: Edad adecuada. El organizador confirma la plaza. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_7a2faa2000c04c1bb71218ae17933956.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1610-20261228-20261231 · Children’s Worklab · Minecraft Game Design · 4 medias jornadas · 2026-12-28–2026-12-31
+
+Lugar: Singapur Singapore · Forum The Shopping Mall
+Fecha: 2026-12-28 - 2026-12-31
+edad: 7+ años según fecha de nacimiento.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $449 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: Edad adecuada. El organizador confirma la plaza. Oscar: El nivel es superior a la edad actual. Comprobar reglas del turno. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_7a2faa2000c04c1bb71218ae17933956.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1610-20270104-20270107 · Children’s Worklab · Minecraft Game Design · 4 medias jornadas · 2027-01-04–2027-01-07
+
+Lugar: Singapur Singapore · Forum The Shopping Mall
+Fecha: 2027-01-04 国 2027-01-07
+edad: 7+ años según fecha de nacimiento.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · $449 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: Edad adecuada. El organizador confirma la plaza. Oscar: Si ya cumplió 7 años al inicio del turno. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_7a2faa2000c04c1bb71218ae17933956.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1611-20261123-20261125 · Children’s Worklab · myCamp Junior · 3 de la tarde · 2026-11-23–2026-11-25
+
+Lugar: Singapur Singapore
+Fecha: 2026-11-23 国 2026-11-25
+edad: 4–4.5 años. El menor debe ir al baño de forma autónoma.
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $449 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: El menor supera la edad máxima del programa. Oscar: El menor supera la edad máxima del programa. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_0a9b15e105484fe19584329fb1dfb409.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1611-20261123-20261126 · Children’s Worklab · myCamp Junior · 4 medias jornadas · 2026-11-23–2026-11-26
+
+Lugar: Singapur Singapore
+Fecha: 2026-11-23 — 2026-11-26
+edad: 4–4.5 años. El menor debe ir al baño de forma autónoma.
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: El menor supera la edad máxima del programa. Oscar: El menor supera la edad máxima del programa. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_0a9b15e105484fe19584329fb1dfb409.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1611-20261123-20261127 · Children’s Worklab · myCamp Junior · 5 medias jornadas · 2026-11-23–2026-11-27
+
+Lugar: Singapur Singapore
+Fecha: 2026-11-23 国 2026-11-27
+edad: 4–4.5 años. El menor debe ir al baño de forma autónoma.
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $549 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: El menor supera la edad máxima del programa. Oscar: El menor supera la edad máxima del programa. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_0a9b15e105484fe19584329fb1dfb409.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1611-20261130-20261202 · Children’s Worklab · myCamp Junior · 3 de la tarde · 2026-11-30–2026-12-02
+
+Lugar: Singapur Singapore
+Fecha: 2026-11-30 — 2026-12-02
+edad: 4–4.5 años. El menor debe ir al baño de forma autónoma.
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $449 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: El menor supera la edad máxima del programa. Oscar: El menor supera la edad máxima del programa. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_0a9b15e105484fe19584329fb1dfb409.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1611-20261130-20261203 · Children’s Worklab · myCamp Junior · 4 medias jornadas · 2026-11-30–2026-12-03
+
+Lugar: Singapur Singapore
+Fecha: 2026-11-30 — 2026-12-03
+edad: 4–4.5 años. El menor debe ir al baño de forma autónoma.
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: El menor supera la edad máxima del programa. Oscar: El menor supera la edad máxima del programa. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_0a9b15e105484fe19584329fb1dfb409.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1611-20261130-20261204 · Children’s Worklab · myCamp Junior · 5 medias jornadas · 2026-11-30–2026-12-04
+
+Lugar: Singapur Singapore
+Fecha: 2026-11-30 — 2026-12-04
+edad: 4–4.5 años. El menor debe ir al baño de forma autónoma.
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $549 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: El menor supera la edad máxima del programa. Oscar: El menor supera la edad máxima del programa. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_0a9b15e105484fe19584329fb1dfb409.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1611-20261207-20261209 · Children’s Worklab · myCamp Junior · 3 de la tarde · 2026-12-07–2026-12-09
+
+Lugar: Singapur Singapore
+Fecha: 2026-12-07 — 2026-12-09
+edad: 4–4.5 años. El menor debe ir al baño de forma autónoma.
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $449 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: El menor supera la edad máxima del programa. Oscar: El menor supera la edad máxima del programa. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_0a9b15e105484fe19584329fb1dfb409.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1611-20261207-20261210 · Children’s Worklab · myCamp Junior · 4 medias jornadas · 2026-12-07–2026-12-10
+
+Lugar: Singapur Singapore
+Fecha: 2026-12-07 — 2026-12-10
+edad: 4–4.5 años. El menor debe ir al baño de forma autónoma.
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: El menor supera la edad máxima del programa. Oscar: El menor supera la edad máxima del programa. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_0a9b15e105484fe19584329fb1dfb409.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1611-20261207-20261211 · Children’s Worklab · myCamp Junior · 5 medias jornadas · 2026-12-07–2026-12-11
+
+Lugar: Singapur Singapore
+Fecha: 2026-12-07 — 2026-12-11
+edad: 4–4.5 años. El menor debe ir al baño de forma autónoma.
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $549 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: El menor supera la edad máxima del programa. Oscar: El menor supera la edad máxima del programa. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_0a9b15e105484fe19584329fb1dfb409.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1611-20261214-20261216 · Children’s Worklab · myCamp Junior · 3 de la tarde · 2026-12-14–2026-12-16
+
+Lugar: Singapur Singapore
+Fecha: 2026-12-14 国 2026-12-16
+edad: 4–4.5 años. El menor debe ir al baño de forma autónoma.
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $449 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: El menor supera la edad máxima del programa. Oscar: El menor supera la edad máxima del programa. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_0a9b15e105484fe19584329fb1dfb409.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1611-20261214-20261217 · Children’s Worklab · myCamp Junior · 4 medias jornadas · 2026-12-14–2026-12-17
+
+Lugar: Singapur Singapore
+Fecha: 2026-12-14 — 2026-12-17
+edad: 4–4.5 años. El menor debe ir al baño de forma autónoma.
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: El menor supera la edad máxima del programa. Oscar: El menor supera la edad máxima del programa. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_0a9b15e105484fe19584329fb1dfb409.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1611-20261214-20261218 · Children’s Worklab · myCamp Junior · 5 medias jornadas · 2026-12-14–2026-12-18
+
+Lugar: Singapur Singapore
+Fecha: 2026-12-14 - 2026-12-18
+edad: 4–4.5 años. El menor debe ir al baño de forma autónoma.
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $549 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: El menor supera la edad máxima del programa. Oscar: El menor supera la edad máxima del programa. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_0a9b15e105484fe19584329fb1dfb409.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1611-20261221-20261223 · Children’s Worklab · myCamp Junior · 3 de la tarde · 2026-12-21–2026-12-23
+
+Lugar: Singapur Singapore
+Fecha: 2026-12-21 - 2026-12-23
+edad: 4–4.5 años. El menor debe ir al baño de forma autónoma.
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $449 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: El menor supera la edad máxima del programa. Oscar: El menor supera la edad máxima del programa. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_0a9b15e105484fe19584329fb1dfb409.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1611-20261221-20261224 · Children’s Worklab · myCamp Junior · 4 medias jornadas · 2026-12-21–2026-12-24
+
+Lugar: Singapur Singapore
+Fecha: 2026-12-21 - 2026-12-24
+edad: 4–4.5 años. El menor debe ir al baño de forma autónoma.
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: El menor supera la edad máxima del programa. Oscar: El menor supera la edad máxima del programa. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_0a9b15e105484fe19584329fb1dfb409.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1611-20261228-20261230 · Children’s Worklab · myCamp Junior · 3 de la tarde · 2026-12-28–2026-12-30
+
+Lugar: Singapur Singapore
+Fecha: 2026-12-28 — 2026-12-30
+edad: 4–4.5 años. El menor debe ir al baño de forma autónoma.
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $449 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: El menor supera la edad máxima del programa. Oscar: El menor supera la edad máxima del programa. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_0a9b15e105484fe19584329fb1dfb409.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1611-20261228-20261231 · Children’s Worklab · myCamp Junior · 4 medias jornadas · 2026-12-28–2026-12-31
+
+Lugar: Singapur Singapore
+Fecha: 2026-12-28 - 2026-12-31
+edad: 4–4.5 años. El menor debe ir al baño de forma autónoma.
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: El menor supera la edad máxima del programa. Oscar: El menor supera la edad máxima del programa. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_0a9b15e105484fe19584329fb1dfb409.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1611-20270104-20270106 · Children’s Worklab · myCamp Junior · 3 de la tarde · 2027-01-04–2027-01-06
+
+Lugar: Singapur Singapore
+Fecha: 2027-01-04 — 2027-01-06
+edad: 4–4.5 años. El menor debe ir al baño de forma autónoma.
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · $449 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: El menor supera la edad máxima del programa. Oscar: El menor supera la edad máxima del programa. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_0a9b15e105484fe19584329fb1dfb409.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1611-20270104-20270107 · Children’s Worklab · myCamp Junior · 4 medias jornadas · 2027-01-04–2027-01-07
+
+Lugar: Singapur Singapore
+Fecha: 2027-01-04 国 2027-01-07
+edad: 4–4.5 años. El menor debe ir al baño de forma autónoma.
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · $499 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: El menor supera la edad máxima del programa. Oscar: El menor supera la edad máxima del programa. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_0a9b15e105484fe19584329fb1dfb409.pdf
+Se ha comprobado: 2026-11-07
+
+### CP1611-20270104-20270108 · Children’s Worklab · myCamp Junior · 5 medias jornadas · 2027-01-04–2027-01-08
+
+Lugar: Singapur Singapore
+Fecha: 2027-01-04 — 2027-01-08
+edad: 4–4.5 años. El menor debe ir al baño de forma autónoma.
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: El organizador indica expresamente que todas las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · $549 por menor según el folleto. El PDF usa el símbolo $. Confirmar código de moneda e inclusión de GST con el operador. · suplementos y condiciones en el dossier
+Acceso: Edad en el primer día del turno según fecha de nacimiento. Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Limitaciones: Matvey: El menor supera la edad máxima del programa. Oscar: El menor supera la edad máxima del programa. Suplementos: El descuento de grupo requiere un mínimo de 3 menores. Viaje y alojamiento familiar por separado. Pago: Reserva para una semana. Confirmar pago y política de cancelación para el grupo elegido.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_0a9b15e105484fe19584329fb1dfb409.pdf
+Se ha comprobado: 2026-11-07
+
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
 
 lugar: Letonia · EIS Campus · Piņķi

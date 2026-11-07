@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 7171; соревнований: 2958; событий: 279; лагерей / программ: 3934. Профилей лиг и программ: 257. Карточек крупных и профильных выставок: 191 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 7252; соревнований: 2965; событий: 289; лагерей / программ: 3998. Профилей лиг и программ: 257. Карточек крупных и профильных выставок: 201 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 158 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -14,16 +14,16 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 
 | Континент | Страны / территории с записями | Соревнования | Крупные выставки | Лагеря / программы |
 |---|---:|---:|---:|---:|
-| Северная Америка | 23 | 1420 | 28 | 1057 |
+| Северная Америка | 23 | 1421 | 31 | 1057 |
 | Южная Америка | 10 | 167 | 7 | 113 |
-| Европа | 42 | 412 | 67 | 1256 |
+| Европа | 42 | 412 | 68 | 1256 |
 | Африка | 34 | 115 | 15 | 68 |
-| Азия | 44 | 635 | 71 | 1314 |
+| Азия | 44 | 640 | 77 | 1378 |
 | Океания | 5 | 119 | 3 | 114 |
 
-Межрегиональные / глобальные карточки, не приписанные одному континенту: 107. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
+Межрегиональные / глобальные карточки, не приписанные одному континенту: 108. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
 
-VEX: 518 из 2958 карточек соревнований (17.5%). Это явный перекос охвата.
+VEX: 518 из 2965 карточек соревнований (17.5%). Это явный перекос охвата.
 
 ## Что осталось
 
@@ -359,7 +359,7 @@ VEX: 518 из 2958 карточек соревнований (17.5%). Это я�
 - **Maker Faire Shenzhen 2026** — Китай; 2026-12-12 – 2026-12-13. Детский допуск уточнить. https://www.shenzhenmakerfaire.com/
 - **ROBOTWORLD 2026** — Южная Корея; 2026-11-04 – 2026-11-07. Со взрослым; условия взрослого входа отдельно. https://eng.robotworld.or.kr/visitors/information.php
 - **RoboNext 2026** — Япония; 2026-12-02 – 2026-12-04. Детский допуск уточнить. https://robonext.nikkan.co.jp?lang=en
-- **iREX International Robot Exhibition 2027** — Япония; дата неизвестна. Детский допуск уточнить. https://irex.nikkan.co.jp/
+- **iREX International Robot Exhibition 2027** — Япония; 2027-12-01 – 2027-12-04. Детский допуск уточнить. https://www.jara.jp/about/img/release/jigyo_keikaku/jara_jigyo_keikaku_2026.pdf
 - **RoboCup 2027 — visitor days + Family Day** — Германия; 2027-06-17 – 2027-06-20. Со взрослым; условия взрослого входа отдельно. https://2027.robocup.org/visit/visitors
 - **Hannover Messe 2027** — Германия; 2027-04-05 – 2027-04-08. Со взрослым; условия взрослого входа отдельно. https://www.hannovermesse.de/en/for-visitors/tickets/index-2
 - **IFA Berlin 2027** — Германия; 2027-09-03 – 2027-09-07. Со взрослым; условия взрослого входа отдельно. https://www.ifa-berlin.com/faq
@@ -529,6 +529,16 @@ VEX: 518 из 2958 карточек соревнований (17.5%). Это я�
 - **Maker Faire Prague 2027** — Чехия; 2027-05-22 – 2027-05-23. Со взрослым; условия взрослого входа отдельно. https://makerfaire.cz/praha/
 - **Maker Faire Lake County 2027** — Соединенные Штаты Америки; 2027-04-17. Детский допуск уточнить. https://lakecounty.makerfaire.com/wp-content/uploads/sites/311/2026/04/Program2026.pdf
 - **INTERMODELLBAU Dortmund 2027** — Германия; 2027-04-22 – 2027-04-25. Со взрослым; условия взрослого входа отдельно. https://www.intermodellbau.de/
+- **Sumida STEAM Fes 2027 · Tokyo** — Япония; 2027-01-10. Со взрослым; условия взрослого входа отдельно. https://fes.sakura-tempesta.or.jp/en/
+- **RoboDEX / Factory Innovation Week · Nagoya 2026** — Япония; 2026-11-25 – 2026-11-27. Со взрослым; условия взрослого входа отдельно. https://www.fiweek.jp/nagoya/ja-jp/about/robo.html
+- **RoboDEX / Factory Innovation Week · Tokyo Big Sight 2027** — Япония; 2027-02-17 – 2027-02-19. Со взрослым; условия взрослого входа отдельно. https://www.fiweek.jp/tokyo/en-gb.html
+- **RoboDEX / Factory Innovation Week · Osaka 2027** — Япония; 2027-05-12 – 2027-05-14. Со взрослым; условия взрослого входа отдельно. https://www.fiweek.jp/osaka/en-gb.html
+- **RoboDEX / Factory Innovation Week · Makuhari 2027** — Япония; 2027-09-08 – 2027-09-10. Со взрослым; условия взрослого входа отдельно. https://www.fiweek.jp/autumn/en-gb.html
+- **IEEE ICRA 2027 · Robotics Exhibition** — Республика Корея; 2027-05-25 – 2027-05-27. Детский допуск уточнить. https://partners.icra2027.kr/api/prospectus
+- **IEEE/RSJ IROS 2027 · Robotics Conference and Exhibition Watch** — Италия; 2027-09-27 – 2027-10-01. Детский допуск уточнить. https://2027.ieee-iros.org/
+- **CoRL 2026 · Robot Learning Exhibits** — Соединенные Штаты Америки; 2026-11-09 – 2026-11-11. Детский допуск уточнить. https://2026.corl.org/program
+- **IEEE Humanoids 2026 · Exhibit Hall** — Соединенные Штаты Америки; 2026-12-08 – 2026-12-09. Детский допуск уточнить. https://humanoids.exhibitprospectus.com/
+- **XPONENTIAL 2027 · XPO Hall** — Соединенные Штаты Америки; 2027-05-18 – 2027-05-20. Детский допуск уточнить. https://www.xponential.org/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors

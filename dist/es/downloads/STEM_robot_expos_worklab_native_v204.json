@@ -1,0 +1,1490 @@
+{
+  "version": 204,
+  "checked": "2026-11-07",
+  "new_events": [
+    {
+      "id": "E280",
+      "block": "Eventos",
+      "title": "Sumida STEAM Fes 2027 · Tokyo",
+      "country": "Japón",
+      "region": "Asia",
+      "iso": [
+        "JPN"
+      ],
+      "city": "iU Sumida Campus · 1-18-13 Bunka, Sumida-ku, Tokyo",
+      "start": "2027-01-10",
+      "end": "2027-01-10",
+      "deadline": "",
+      "period": "Pueden entrar menores de cualquier edad con la familia. Algunas actividades pueden tener límites. Horario 10:00–17:00 provisional.",
+      "date_status": "Confirmado",
+      "age": "Sí para visita familiar. Confirmar condiciones del taller elegido.",
+      "mat": "Sí para visita familiar. Confirmar condiciones del taller elegido.",
+      "osc": "Sí para visita familiar. Confirmar condiciones del taller elegido.",
+      "format": "Visita al pabellón de exposición o demostraciones según reglas del organizador.",
+      "entry": "Entrada y actividades gratuitas. Registrar a toda la familia, incluidos menores. Se admite registro presencial el mismo día.",
+      "gear": "Robots, automatización, control y componentes.",
+      "language": "Confirmar idioma del taller o demostración concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma del taller o demostración concretos.",
+      "cost": "Gratuito para toda la familia.",
+      "level": "Festival familiar de robótica y talleres.",
+      "reward": "Demostraciones y conocimiento de proyectos.",
+      "priority": "P3 — visita según programa",
+      "action": "Confirmar condiciones de acceso y elegir actividades por edad e idioma.",
+      "source": "https://fes.sakura-tempesta.or.jp/en/",
+      "references": [
+        {
+          "url": "https://fes.sakura-tempesta.or.jp/en/teams.html",
+          "label": "Reglas y condiciones de admisión"
+        },
+        {
+          "url": "https://fes.sakura-tempesta.or.jp/en/exhibitors.html",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "Fechas y acceso de visitantes cotejados con materiales publicados por el organizador.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "",
+      "themes": [
+        "robotics",
+        "makers",
+        "science",
+        "coding"
+      ],
+      "scope": "regional",
+      "importance_reason": "Espacio especializado para conocer robótica y desarrolladores.",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "event_day",
+      "adult_entry": "Entrada y actividades gratuitas. Registrar a toda la familia, incluidos menores. Se admite registro presencial el mismo día.",
+      "visitor_policy": "family",
+      "visitor_policy_note": "Pueden entrar menores de cualquier edad con la familia. Algunas actividades pueden tener límites. Horario 10:00–17:00 provisional.",
+      "exhibition_tier": "family_alternative",
+      "highlights": [
+        "Los partidos FTC Japan Scrimmage pueden verse sin reserva separada.",
+        "Demostraciones de robots escolares y actividades para principiantes."
+      ],
+      "exhibitors": [],
+      "exhibitor_note": "Consultar la lista de expositores de esta edición en el catálogo del organizador.",
+      "exhibitor_directory_url": "https://fes.sakura-tempesta.or.jp/en/",
+      "related_ids": [
+        "C2960"
+      ]
+    },
+    {
+      "id": "C2960",
+      "block": "Competiciones",
+      "title": "FTC Japan Scrimmage 2027 · Sumida STEAM Fes",
+      "country": "Japón",
+      "region": "Asia",
+      "iso": [
+        "JPN"
+      ],
+      "city": "iU Sumida Campus · 1-18-13 Bunka, Sumida-ku, Tokyo",
+      "start": "2027-01-10",
+      "end": "2027-01-10",
+      "deadline": "2026-11-30",
+      "period": "Partidos y premios el 10 de enero. Preparación opcional el 9 de enero. Inspección en uno de 2 días.",
+      "date_status": "Confirmado",
+      "age": "Equipo FTC registrado en FIRST. Etapa general FIRST FTC de 12–18 años, grados 7–12.",
+      "mat": "Por edad ahora espectador. Para futura solicitud se requiere equipo FTC registrado.",
+      "osc": "Por edad ahora espectador. El acceso familiar figura en la ficha del festival.",
+      "format": "Disciplina de ingeniería por equipos.",
+      "entry": "Admite equipos FIRST FTC registrados de Japón y otros países. Acordar solicitud de equipo con el organizador.",
+      "gear": "Robot conforme a reglas de temporada BIOBUZZ. Inspección obligatoria.",
+      "language": "Entrevista de equipo de 15 minutos normalmente en inglés. Confirmar idioma concreto.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "El organizador indica el inglés como idioma habitual de la entrevista.",
+      "cost": "Cuota de equipo 0. El equipo cubre viaje, alojamiento y comidas por separado.",
+      "level": "Torneo internacional de práctica FTC",
+      "reward": "Premios del torneo. Los resultados no afectan a clasificación ni acceso a etapas FIRST.",
+      "priority": "P4 — etapa de investigación",
+      "action": "Consultar reglas de la disciplina y requisitos de equipo, plataforma y solicitud.",
+      "source": "https://fes.sakura-tempesta.or.jp/en/teams.html",
+      "references": [
+        {
+          "url": "https://www.firstinspires.org/programs/ftc/",
+          "label": "Reglas y condiciones de admisión"
+        },
+        {
+          "url": "https://fes.sakura-tempesta.or.jp/en/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "Fechas y acceso de visitantes cotejados con materiales publicados por el organizador.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "international",
+      "importance_reason": "Práctica japonesa con invitación expresa a equipos de otros países.",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "competition",
+      "deadline_label": "Plazo de solicitud de equipo FTC",
+      "deadline_note": "No se indica hora de cierre. El organizador pide consultar el procedimiento con antelación.",
+      "related_ids": [
+        "E280"
+      ]
+    },
+    {
+      "id": "E281",
+      "block": "Eventos",
+      "title": "RoboDEX / Factory Innovation Week · Nagoya 2026",
+      "country": "Japón",
+      "region": "Asia",
+      "iso": [
+        "JPN"
+      ],
+      "city": "Aichi Sky Expo · Tokoname, Aichi",
+      "start": "2026-11-25",
+      "end": "2026-11-27",
+      "deadline": "2026-11-22",
+      "period": "10:00–17:00 hora local de Japón.",
+      "date_status": "Confirmado",
+      "age": "Sí con adulto registrado de 18+ y consentimiento del tutor. El organizador decide en la entrada.",
+      "mat": "Sí con adulto registrado de 18+ y consentimiento del tutor. El organizador decide en la entrada.",
+      "osc": "Sí con adulto registrado de 18+ y consentimiento del tutor. El organizador decide en la entrada.",
+      "format": "Visita al pabellón de exposición o demostraciones según reglas del organizador.",
+      "entry": "El adulto se registra antes. Informar al personal sobre los menores en el lugar. Hasta 5 menores por acompañante, sin registro separado para menores.",
+      "gear": "Robots industriales y de servicio, automatización de producción y transporte.",
+      "language": "Confirmar idioma del taller o demostración concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma del taller o demostración concretos.",
+      "cost": "Gratuito al registrarse hasta el 22 de noviembre a las 17:00 JST, luego 5,500 JPY con impuesto.",
+      "level": "Exposición profesional internacional",
+      "reward": "Demostraciones y conocimiento de proyectos.",
+      "priority": "P3 — visita según programa",
+      "action": "Confirmar condiciones de acceso y elegir actividades por edad e idioma.",
+      "source": "https://www.fiweek.jp/nagoya/ja-jp/about/robo.html",
+      "references": [
+        {
+          "url": "https://www.fiweek.jp/nagoya/ja-jp/visit/faq.html",
+          "label": "Reglas y condiciones de admisión"
+        },
+        {
+          "url": "https://www.fiweek.jp/hub/en-gb/about/robodex.html",
+          "label": "Horario e información de la exposición"
+        },
+        {
+          "url": "https://www.fiweek.jp/nagoya/ja-jp/conference/humanoidrobots.html",
+          "label": "Horario e información de la exposición"
+        }
+      ],
+      "proof": "Fechas y acceso de visitantes cotejados con materiales publicados por el organizador.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "",
+      "themes": [
+        "robotics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Espacio especializado para conocer robótica y desarrolladores.",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "adult_entry": "El adulto se registra antes. Informar al personal sobre los menores en el lugar. Hasta 5 menores por acompañante, sin registro separado para menores.",
+      "visitor_policy": "family",
+      "visitor_policy_note": "Sí con adulto registrado de 18+ y consentimiento del tutor. El organizador decide en la entrada.",
+      "exhibition_tier": "global",
+      "highlights": [
+        "Zona específica de robots humanoides dentro de esta exposición."
+      ],
+      "exhibitors": [],
+      "exhibitor_note": "Consultar la lista de expositores de esta edición en el catálogo del organizador.",
+      "exhibitor_directory_url": "https://www.fiweek.jp/nagoya/ja-jp/about/robo.html",
+      "deadline_utc": "2026-11-22T08:00:00Z",
+      "deadline_label": "Fin del registro gratuito"
+    },
+    {
+      "id": "E282",
+      "block": "Eventos",
+      "title": "RoboDEX / Factory Innovation Week · Tokyo Big Sight 2027",
+      "country": "Japón",
+      "region": "Asia",
+      "iso": [
+        "JPN"
+      ],
+      "city": "Tokyo Big Sight · Tokyo",
+      "start": "2027-02-17",
+      "end": "2027-02-19",
+      "deadline": "",
+      "period": "10:00–17:00 hora local de Japón.",
+      "date_status": "Confirmado",
+      "age": "Sí con adulto registrado de 18+ y consentimiento del tutor. El organizador decide en la entrada.",
+      "mat": "Sí con adulto registrado de 18+ y consentimiento del tutor. El organizador decide en la entrada.",
+      "osc": "Sí con adulto registrado de 18+ y consentimiento del tutor. El organizador decide en la entrada.",
+      "format": "Visita al pabellón de exposición o demostraciones según reglas del organizador.",
+      "entry": "El adulto se registra antes. Informar al personal sobre los menores en el lugar. Hasta 5 menores por acompañante, sin registro separado para menores.",
+      "gear": "Robots industriales y de servicio, automatización de producción y transporte.",
+      "language": "Confirmar idioma del taller o demostración concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma del taller o demostración concretos.",
+      "cost": "La portada indica registro gratuito hasta el 15 de febrero y luego 5,500 JPY con impuesto. El día de la semana indicado no coincide. El FAQ describe acceso gratuito. Confirmar plazo exacto en el registro.",
+      "level": "Exposición profesional internacional",
+      "reward": "Demostraciones y conocimiento de proyectos.",
+      "priority": "P3 — visita según programa",
+      "action": "Confirmar condiciones de acceso y elegir actividades por edad e idioma.",
+      "source": "https://www.fiweek.jp/tokyo/en-gb.html",
+      "references": [
+        {
+          "url": "https://www.fiweek.jp/tokyo/ja-jp/visit/faq.html",
+          "label": "Reglas y condiciones de admisión"
+        },
+        {
+          "url": "https://www.fiweek.jp/hub/en-gb/about/robodex.html",
+          "label": "Horario e información de la exposición"
+        },
+        {
+          "url": "https://www.fiweek.jp/tokyo/en-gb/visit/faq.html",
+          "label": "Reglas y condiciones de admisión"
+        }
+      ],
+      "proof": "Fechas y acceso de visitantes cotejados con materiales publicados por el organizador.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "",
+      "themes": [
+        "robotics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Espacio especializado para conocer robótica y desarrolladores.",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "adult_entry": "El adulto se registra antes. Informar al personal sobre los menores en el lugar. Hasta 5 menores por acompañante, sin registro separado para menores.",
+      "visitor_policy": "family",
+      "visitor_policy_note": "Sí con adulto registrado de 18+ y consentimiento del tutor. El organizador decide en la entrada.",
+      "exhibition_tier": "global",
+      "highlights": [],
+      "exhibitors": [],
+      "exhibitor_note": "Consultar la lista de expositores de esta edición en el catálogo del organizador.",
+      "exhibitor_directory_url": "https://www.fiweek.jp/tokyo/en-gb.html"
+    },
+    {
+      "id": "E283",
+      "block": "Eventos",
+      "title": "RoboDEX / Factory Innovation Week · Osaka 2027",
+      "country": "Japón",
+      "region": "Asia",
+      "iso": [
+        "JPN"
+      ],
+      "city": "INTEX Osaka · Osaka",
+      "start": "2027-05-12",
+      "end": "2027-05-14",
+      "deadline": "",
+      "period": "10:00–17:00 hora local de Japón.",
+      "date_status": "Confirmado",
+      "age": "Sí con adulto registrado de 18+ y consentimiento del tutor. El organizador decide en la entrada.",
+      "mat": "Sí con adulto registrado de 18+ y consentimiento del tutor. El organizador decide en la entrada.",
+      "osc": "Sí con adulto registrado de 18+ y consentimiento del tutor. El organizador decide en la entrada.",
+      "format": "Visita al pabellón de exposición o demostraciones según reglas del organizador.",
+      "entry": "El adulto se registra antes. Informar al personal sobre los menores en el lugar. Hasta 5 menores por acompañante, sin registro separado para menores.",
+      "gear": "Robots industriales y de servicio, automatización de producción y transporte.",
+      "language": "Confirmar idioma del taller o demostración concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma del taller o demostración concretos.",
+      "cost": "Registro de visitante previsto para febrero de 2027. Confirmar tarifa.",
+      "level": "Exposición profesional internacional",
+      "reward": "Demostraciones y conocimiento de proyectos.",
+      "priority": "P3 — visita según programa",
+      "action": "Confirmar condiciones de acceso y elegir actividades por edad e idioma.",
+      "source": "https://www.fiweek.jp/osaka/en-gb.html",
+      "references": [
+        {
+          "url": "https://www.fiweek.jp/osaka/ja-jp/visit/faq.html",
+          "label": "Reglas y condiciones de admisión"
+        },
+        {
+          "url": "https://www.fiweek.jp/hub/en-gb/about/robodex.html",
+          "label": "Horario e información de la exposición"
+        },
+        {
+          "url": "https://www.fiweek.jp/osaka/ja-jp/visit.html",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "Fechas y acceso de visitantes cotejados con materiales publicados por el organizador.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "",
+      "themes": [
+        "robotics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Espacio especializado para conocer robótica y desarrolladores.",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "adult_entry": "El adulto se registra antes. Informar al personal sobre los menores en el lugar. Hasta 5 menores por acompañante, sin registro separado para menores.",
+      "visitor_policy": "family",
+      "visitor_policy_note": "Sí con adulto registrado de 18+ y consentimiento del tutor. El organizador decide en la entrada.",
+      "exhibition_tier": "global",
+      "highlights": [],
+      "exhibitors": [],
+      "exhibitor_note": "Consultar la lista de expositores de esta edición en el catálogo del organizador.",
+      "exhibitor_directory_url": "https://www.fiweek.jp/osaka/en-gb.html"
+    },
+    {
+      "id": "E284",
+      "block": "Eventos",
+      "title": "RoboDEX / Factory Innovation Week · Makuhari 2027",
+      "country": "Japón",
+      "region": "Asia",
+      "iso": [
+        "JPN"
+      ],
+      "city": "Makuhari Messe · Chiba",
+      "start": "2027-09-08",
+      "end": "2027-09-10",
+      "deadline": "",
+      "period": "10:00–17:00 hora local de Japón.",
+      "date_status": "Confirmado",
+      "age": "Sí con adulto registrado de 18+ y consentimiento del tutor. El organizador decide en la entrada.",
+      "mat": "Sí con adulto registrado de 18+ y consentimiento del tutor. El organizador decide en la entrada.",
+      "osc": "Sí con adulto registrado de 18+ y consentimiento del tutor. El organizador decide en la entrada.",
+      "format": "Visita al pabellón de exposición o demostraciones según reglas del organizador.",
+      "entry": "El adulto se registra antes. Informar al personal sobre los menores en el lugar. Hasta 5 menores por acompañante, sin registro separado para menores.",
+      "gear": "Robots industriales y de servicio, automatización de producción y transporte.",
+      "language": "Confirmar idioma del taller o demostración concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma del taller o demostración concretos.",
+      "cost": "Registro gratuito de visitante publicado. Confirmar apertura del formulario.",
+      "level": "Exposición profesional internacional",
+      "reward": "Demostraciones y conocimiento de proyectos.",
+      "priority": "P3 — visita según programa",
+      "action": "Confirmar condiciones de acceso y elegir actividades por edad e idioma.",
+      "source": "https://www.fiweek.jp/autumn/en-gb.html",
+      "references": [
+        {
+          "url": "https://www.fiweek.jp/autumn/ja-jp/visit/faq.html",
+          "label": "Reglas y condiciones de admisión"
+        },
+        {
+          "url": "https://www.fiweek.jp/hub/en-gb/about/robodex.html",
+          "label": "Horario e información de la exposición"
+        }
+      ],
+      "proof": "Fechas y acceso de visitantes cotejados con materiales publicados por el organizador.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "",
+      "themes": [
+        "robotics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Espacio especializado para conocer robótica y desarrolladores.",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "adult_entry": "El adulto se registra antes. Informar al personal sobre los menores en el lugar. Hasta 5 menores por acompañante, sin registro separado para menores.",
+      "visitor_policy": "family",
+      "visitor_policy_note": "Sí con adulto registrado de 18+ y consentimiento del tutor. El organizador decide en la entrada.",
+      "exhibition_tier": "global",
+      "highlights": [],
+      "exhibitors": [],
+      "exhibitor_note": "Consultar la lista de expositores de esta edición en el catálogo del organizador.",
+      "exhibitor_directory_url": "https://www.fiweek.jp/autumn/en-gb.html"
+    },
+    {
+      "id": "E285",
+      "block": "Eventos",
+      "title": "IEEE ICRA 2027 · Robotics Exhibition",
+      "country": "Corea del Sur",
+      "region": "Asia",
+      "iso": [
+        "KOR"
+      ],
+      "city": "Coex Convention & Exhibition Center · Seoul",
+      "start": "2027-05-25",
+      "end": "2027-05-27",
+      "deadline": "",
+      "period": "El prospecto indica 25–27 de mayo de 09:00 a 17:00. La tarde del 24 de mayo figura TBD. Conferencia del 24 al 28 de mayo.",
+      "date_status": "Anunciado",
+      "age": "Condicional. Confirmar edad de visitante y acompañamiento.",
+      "mat": "Condicional. Confirmar edad de visitante y acompañamiento.",
+      "osc": "Condicional. Confirmar edad de visitante y acompañamiento.",
+      "format": "Visita al pabellón de exposición o demostraciones según reglas del organizador.",
+      "entry": "El pabellón exige credencial de categoría adecuada. Confirmar entrada separada y edad de visitante.",
+      "gear": "Robots, automatización, control y componentes.",
+      "language": "Confirmar idioma del taller o demostración concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma del taller o demostración concretos.",
+      "cost": "Tarifa Exhibition Hall Only para delegados y expositores marcada TBD.",
+      "level": "Exposición profesional internacional",
+      "reward": "Demostraciones y conocimiento de proyectos.",
+      "priority": "P3 — visita según programa",
+      "action": "Confirmar condiciones de acceso y elegir actividades por edad e idioma.",
+      "source": "https://partners.icra2027.kr/api/prospectus",
+      "references": [
+        {
+          "url": "https://2027.ieee-icra.org/about/",
+          "label": "Horario e información de la exposición"
+        },
+        {
+          "url": "https://2027.ieee-icra.org/attend/registration-information/",
+          "label": "Reglas y condiciones de admisión"
+        },
+        {
+          "url": "https://2027.ieee-icra.org/partners/confirmed-partners-and-exhibitors/",
+          "label": "Catálogo de participantes de esta edición"
+        },
+        {
+          "url": "https://2027.ieee-icra.org/program/competitions/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "El prospecto indica 25–27 de mayo de 09:00 a 17:00. La tarde del 24 de mayo figura TBD. Conferencia del 24 al 28 de mayo.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "",
+      "themes": [
+        "robotics",
+        "ai",
+        "engineering",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Espacio especializado para conocer robótica y desarrolladores.",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "adult_entry": "El pabellón exige credencial de categoría adecuada. Confirmar entrada separada y edad de visitante.",
+      "visitor_policy": "confirm_children",
+      "visitor_policy_note": "Condicional. Confirmar edad de visitante y acompañamiento.",
+      "exhibition_tier": "global",
+      "highlights": [],
+      "exhibitors": [
+        "Gento",
+        "Holiday Robotics",
+        "Dexmal",
+        "TARS",
+        "Neuromeka"
+      ],
+      "exhibitor_note": "Ejemplos de organizaciones de la lista oficial de socios. Confirmar puestos por separado.",
+      "exhibitor_directory_url": "https://2027.ieee-icra.org/partners/confirmed-partners-and-exhibitors/",
+      "date_precision": "announced_window",
+      "date_rule": "El prospecto indica 25–27 de mayo de 09:00 a 17:00. La tarde del 24 de mayo figura TBD. Conferencia del 24 al 28 de mayo.",
+      "related_ids": [
+        "C2961",
+        "C2962",
+        "C2963",
+        "C2964",
+        "C2965"
+      ]
+    },
+    {
+      "id": "C2961",
+      "block": "Competiciones",
+      "title": "IEEE ICRA 2027 · Humanoid Manufacturing Challenge",
+      "country": "Corea del Sur",
+      "region": "Asia",
+      "iso": [
+        "KOR"
+      ],
+      "city": "Coex Convention & Exhibition Center · Seoul",
+      "start": "",
+      "end": "",
+      "deadline": "",
+      "period": "Bloque general de competiciones del 25 al 27 de mayo de 2027. Día y hora de la disciplina aún sin publicar.",
+      "date_status": "No se ha anunciado",
+      "age": "Edad de participante y admisión de equipos aún sin confirmar en las reglas de la disciplina.",
+      "mat": "Nivel de ingeniería. Ruta de participación infantil sin confirmar.",
+      "osc": "Nivel de ingeniería. Ruta de participación infantil sin confirmar.",
+      "format": "Disciplina de ingeniería por equipos.",
+      "entry": "Consultar reglas de la disciplina y requisitos de equipo, plataforma y solicitud.",
+      "gear": "Robot humanoide clasifica piezas, transporta carga y realiza montaje. Control autónomo y remoto.",
+      "language": "Confirmar idioma del taller o demostración concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma del taller o demostración concretos.",
+      "cost": "Tarifa de esta edición aún sin confirmar.",
+      "level": "Disciplina internacional de ingeniería en conferencia",
+      "reward": "Resultado según reglas de la disciplina.",
+      "priority": "P4 — etapa de investigación",
+      "action": "Consultar reglas de la disciplina y requisitos de equipo, plataforma y solicitud.",
+      "source": "https://2027.ieee-icra.org/program/competitions/#HumanoidManufacturing",
+      "references": [
+        {
+          "url": "https://2027.ieee-icra.org/contribute/call-for-competition/",
+          "label": "Horario e información de la exposición"
+        }
+      ],
+      "proof": "Disciplina publicada en programa ICRA. Condiciones de solicitud y edad requieren reglamento.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "",
+      "themes": [
+        "robotics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Espacio especializado para conocer robótica y desarrolladores.",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "competition",
+      "related_ids": [
+        "E285"
+      ]
+    },
+    {
+      "id": "C2962",
+      "block": "Competiciones",
+      "title": "IEEE ICRA 2027 · Legged Robot Challenges and Wearable Robot Systems",
+      "country": "Corea del Sur",
+      "region": "Asia",
+      "iso": [
+        "KOR"
+      ],
+      "city": "Coex Convention & Exhibition Center · Seoul",
+      "start": "",
+      "end": "",
+      "deadline": "",
+      "period": "Bloque general de competiciones del 25 al 27 de mayo de 2027. Día y hora de la disciplina aún sin publicar.",
+      "date_status": "No se ha anunciado",
+      "age": "Edad de participante y admisión de equipos aún sin confirmar en las reglas de la disciplina.",
+      "mat": "Nivel de ingeniería. Ruta de participación infantil sin confirmar.",
+      "osc": "Nivel de ingeniería. Ruta de participación infantil sin confirmar.",
+      "format": "Disciplina de ingeniería por equipos.",
+      "entry": "Consultar reglas de la disciplina y requisitos de equipo, plataforma y solicitud.",
+      "gear": "Movilidad en terreno complejo, inspección, manipulación y sistemas robóticos vestibles.",
+      "language": "Confirmar idioma del taller o demostración concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma del taller o demostración concretos.",
+      "cost": "Tarifa de esta edición aún sin confirmar.",
+      "level": "Disciplina internacional de ingeniería en conferencia",
+      "reward": "Resultado según reglas de la disciplina.",
+      "priority": "P4 — etapa de investigación",
+      "action": "Consultar reglas de la disciplina y requisitos de equipo, plataforma y solicitud.",
+      "source": "https://2027.ieee-icra.org/program/competitions/#LeggedRobotChallenges",
+      "references": [
+        {
+          "url": "https://2027.ieee-icra.org/contribute/call-for-competition/",
+          "label": "Horario e información de la exposición"
+        }
+      ],
+      "proof": "Disciplina publicada en programa ICRA. Condiciones de solicitud y edad requieren reglamento.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "",
+      "themes": [
+        "robotics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Espacio especializado para conocer robótica y desarrolladores.",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "competition",
+      "related_ids": [
+        "E285"
+      ]
+    },
+    {
+      "id": "C2963",
+      "block": "Competiciones",
+      "title": "IEEE ICRA 2027 · Robotic Grasping and Manipulation Competition · RGMC",
+      "country": "Corea del Sur",
+      "region": "Asia",
+      "iso": [
+        "KOR"
+      ],
+      "city": "Coex Convention & Exhibition Center · Seoul",
+      "start": "",
+      "end": "",
+      "deadline": "",
+      "period": "Bloque general de competiciones del 25 al 27 de mayo de 2027. Día y hora de la disciplina aún sin publicar.",
+      "date_status": "No se ha anunciado",
+      "age": "Edad de participante y admisión de equipos aún sin confirmar en las reglas de la disciplina.",
+      "mat": "Nivel de ingeniería. Ruta de participación infantil sin confirmar.",
+      "osc": "Nivel de ingeniería. Ruta de participación infantil sin confirmar.",
+      "format": "Disciplina de ingeniería por equipos.",
+      "entry": "Consultar reglas de la disciplina y requisitos de equipo, plataforma y solicitud.",
+      "gear": "Se anuncian 5 vías de manipulación. Agarre entre obstáculos, entrega humana, nube, robot móvil y clasificación simulada.",
+      "language": "Confirmar idioma del taller o demostración concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma del taller o demostración concretos.",
+      "cost": "Tarifa de esta edición aún sin confirmar.",
+      "level": "Disciplina internacional de ingeniería en conferencia",
+      "reward": "Resultado según reglas de la disciplina.",
+      "priority": "P4 — etapa de investigación",
+      "action": "Consultar reglas de la disciplina y requisitos de equipo, plataforma y solicitud.",
+      "source": "https://2027.ieee-icra.org/program/competitions/#RoboticGrasping",
+      "references": [
+        {
+          "url": "https://2027.ieee-icra.org/contribute/call-for-competition/",
+          "label": "Horario e información de la exposición"
+        },
+        {
+          "url": "https://sites.google.com/view/rgmcomp",
+          "label": "Reglas y condiciones de admisión"
+        }
+      ],
+      "proof": "Disciplina publicada en programa ICRA. Condiciones de solicitud y edad requieren reglamento.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "",
+      "themes": [
+        "robotics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Espacio especializado para conocer robótica y desarrolladores.",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "competition",
+      "related_ids": [
+        "E285"
+      ]
+    },
+    {
+      "id": "C2964",
+      "block": "Competiciones",
+      "title": "IEEE ICRA 2027 · RoboRacer Autonomous Racing Competition",
+      "country": "Corea del Sur",
+      "region": "Asia",
+      "iso": [
+        "KOR"
+      ],
+      "city": "Coex Convention & Exhibition Center · Seoul",
+      "start": "",
+      "end": "",
+      "deadline": "",
+      "period": "Bloque general de competiciones del 25 al 27 de mayo de 2027. Día y hora de la disciplina aún sin publicar.",
+      "date_status": "No se ha anunciado",
+      "age": "Edad de participante y admisión de equipos aún sin confirmar en las reglas de la disciplina.",
+      "mat": "Nivel de ingeniería. Ruta de participación infantil sin confirmar.",
+      "osc": "Nivel de ingeniería. Ruta de participación infantil sin confirmar.",
+      "format": "Disciplina de ingeniería por equipos.",
+      "entry": "Consultar reglas de la disciplina y requisitos de equipo, plataforma y solicitud.",
+      "gear": "Carrera 3D con RoboRacer-Max en pista irregular, navegación y control autónomo.",
+      "language": "Confirmar idioma del taller o demostración concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma del taller o demostración concretos.",
+      "cost": "Tarifa de esta edición aún sin confirmar.",
+      "level": "Disciplina internacional de ingeniería en conferencia",
+      "reward": "Resultado según reglas de la disciplina.",
+      "priority": "P4 — etapa de investigación",
+      "action": "Consultar reglas de la disciplina y requisitos de equipo, plataforma y solicitud.",
+      "source": "https://2027.ieee-icra.org/program/competitions/#RoboRacerAutonomous",
+      "references": [
+        {
+          "url": "https://2027.ieee-icra.org/contribute/call-for-competition/",
+          "label": "Horario e información de la exposición"
+        }
+      ],
+      "proof": "Disciplina publicada en programa ICRA. Condiciones de solicitud y edad requieren reglamento.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "",
+      "themes": [
+        "robotics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Espacio especializado para conocer robótica y desarrolladores.",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "competition",
+      "related_ids": [
+        "E285"
+      ]
+    },
+    {
+      "id": "C2965",
+      "block": "Competiciones",
+      "title": "PhyRC 2027 · Phase 1 simulation submissions",
+      "country": "Internacional en línea",
+      "region": "Internacional en línea",
+      "iso": [],
+      "city": "Online",
+      "start": "2026-10-15",
+      "end": "2026-12-15",
+      "deadline": "2026-12-15",
+      "period": "Fase simulada del 15 de octubre al 15 de diciembre de 2026. Fase presencial prevista en ICRA 2027, sin sede ni fecha confirmadas.",
+      "date_status": "Confirmado",
+      "age": "Edad de participante y admisión de equipos aún sin confirmar en las reglas de la disciplina.",
+      "mat": "Nivel de ingeniería. Ruta de participación infantil sin confirmar.",
+      "osc": "Nivel de ingeniería. Ruta de participación infantil sin confirmar.",
+      "format": "Disciplina de ingeniería por equipos.",
+      "entry": "Entregas solo para equipos registrados antes del cierre del 15 de octubre. Cuenta la última entrega aceptada.",
+      "gear": "Simulación de 2 robots Hello Robot Stretch 4 para asistencia al vestir.",
+      "language": "Confirmar idioma del taller o demostración concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma del taller o demostración concretos.",
+      "cost": "Tarifa de esta edición aún sin confirmar.",
+      "level": "Disciplina internacional de ingeniería en conferencia",
+      "reward": "El organizador indica Hello Robot Stretch 4 como premio principal para ganador de Phase 1.",
+      "priority": "P4 — etapa de investigación",
+      "action": "Consultar reglas de la disciplina y requisitos de equipo, plataforma y solicitud.",
+      "source": "https://emprise.cs.cornell.edu/phyrc/challenge-2027/",
+      "references": [
+        {
+          "url": "https://2027.ieee-icra.org/program/competitions/#PhysicalRobotic",
+          "label": "Horario e información de la exposición"
+        }
+      ],
+      "proof": "Fechas y acceso de visitantes cotejados con materiales publicados por el organizador.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding",
+        "engineering"
+      ],
+      "scope": "international",
+      "importance_reason": "Espacio especializado para conocer robótica y desarrolladores.",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "submission_window",
+      "deadline_utc": "2026-12-16T11:59:00Z",
+      "deadline_label": "Última entrega Phase 1",
+      "deadline_note": "15 de diciembre 23:59 AoE. La admisión de nuevos equipos terminó el 15 de octubre.",
+      "registration_status": "Registro cerrado. Envío de solución abierto para equipos registrados.",
+      "related_ids": [
+        "E285"
+      ]
+    },
+    {
+      "id": "E286",
+      "block": "Eventos",
+      "title": "IEEE/RSJ IROS 2027 · Robotics Conference and Exhibition Watch",
+      "country": "Italia",
+      "region": "Europa",
+      "iso": [
+        "ITA"
+      ],
+      "city": "Fortezza da Basso · Florence",
+      "start": "2027-09-27",
+      "end": "2027-10-01",
+      "deadline": "",
+      "period": "IEEE confirma la conferencia del 27 de septiembre al 1 de octubre de 2027. Días de exposición y entradas se anunciarán aparte.",
+      "date_status": "Anunciado",
+      "age": "Condicional. Confirmar edad de visitante y acompañamiento.",
+      "mat": "Condicional. Confirmar edad de visitante y acompañamiento.",
+      "osc": "Condicional. Confirmar edad de visitante y acompañamiento.",
+      "format": "Visita al pabellón de exposición o demostraciones según reglas del organizador.",
+      "entry": "Programa de exposición pendiente. Confirmar entrada separada y acceso de menores.",
+      "gear": "Robots, automatización, control y componentes.",
+      "language": "Confirmar idioma del taller o demostración concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma del taller o demostración concretos.",
+      "cost": "Tarifa de esta edición aún sin confirmar.",
+      "level": "Exposición profesional internacional",
+      "reward": "Demostraciones y conocimiento de proyectos.",
+      "priority": "P3 — visita según programa",
+      "action": "Confirmar condiciones de acceso y elegir actividades por edad e idioma.",
+      "source": "https://2027.ieee-iros.org/",
+      "references": [
+        {
+          "url": "https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros/iros-past-and-future-venues/",
+          "label": "Horario e información de la exposición"
+        }
+      ],
+      "proof": "IEEE confirma la conferencia del 27 de septiembre al 1 de octubre de 2027. Días de exposición y entradas se anunciarán aparte.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "",
+      "themes": [
+        "robotics",
+        "ai",
+        "engineering",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Espacio especializado para conocer robótica y desarrolladores.",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "conference",
+      "adult_entry": "Programa de exposición pendiente. Confirmar entrada separada y acceso de menores.",
+      "visitor_policy": "confirm_children",
+      "visitor_policy_note": "Condicional. Confirmar edad de visitante y acompañamiento.",
+      "exhibition_tier": "global",
+      "highlights": [],
+      "exhibitors": [],
+      "exhibitor_note": "El organizador prevé publicar información para expositores desde la primera semana de diciembre.",
+      "exhibitor_directory_url": "https://2027.ieee-iros.org/",
+      "date_precision": "announced_window",
+      "date_rule": "IEEE confirma la conferencia del 27 de septiembre al 1 de octubre de 2027. Días de exposición y entradas se anunciarán aparte."
+    },
+    {
+      "id": "E287",
+      "block": "Eventos",
+      "title": "CoRL 2026 · Robot Learning Exhibits",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "iso": [
+        "USA"
+      ],
+      "city": "JW Marriott Austin · 110 E 2nd Street, Austin, Texas",
+      "start": "2026-11-09",
+      "end": "2026-11-11",
+      "deadline": "",
+      "period": "9 de noviembre 12:00–18:30, 10 de noviembre 10:00–18:30, 11 de noviembre 08:30–13:00. Talleres el 12 de noviembre aparte.",
+      "date_status": "Confirmado",
+      "age": "Condicional. Confirmar edad de visitante y acompañamiento.",
+      "mat": "Condicional. Confirmar edad de visitante y acompañamiento.",
+      "osc": "Condicional. Confirmar edad de visitante y acompañamiento.",
+      "format": "Visita al pabellón de exposición o demostraciones según reglas del organizador.",
+      "entry": "El programa exige registro y credencial. Acceso de menores y entrada separada al pabellón sin confirmar.",
+      "gear": "Robots, automatización, control y componentes.",
+      "language": "Confirmar idioma del taller o demostración concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma del taller o demostración concretos.",
+      "cost": "Tarifa de esta edición aún sin confirmar.",
+      "level": "Exposición profesional internacional",
+      "reward": "Demostraciones y conocimiento de proyectos.",
+      "priority": "P3 — visita según programa",
+      "action": "Confirmar condiciones de acceso y elegir actividades por edad e idioma.",
+      "source": "https://2026.corl.org/program",
+      "references": [
+        {
+          "url": "https://www.corl.org/attending/venue-information",
+          "label": "Horario e información de la exposición"
+        },
+        {
+          "url": "https://2026.corl.org/attending/registration",
+          "label": "Reglas y condiciones de admisión"
+        }
+      ],
+      "proof": "Fechas y acceso de visitantes cotejados con materiales publicados por el organizador.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "",
+      "themes": [
+        "robotics",
+        "ai",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Espacio especializado para conocer robótica y desarrolladores.",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "adult_entry": "El programa exige registro y credencial. Acceso de menores y entrada separada al pabellón sin confirmar.",
+      "visitor_policy": "confirm_children",
+      "visitor_policy_note": "Condicional. Confirmar edad de visitante y acompañamiento.",
+      "exhibition_tier": "global",
+      "highlights": [],
+      "exhibitors": [],
+      "exhibitor_note": "Consultar la lista de expositores de esta edición en el catálogo del organizador.",
+      "exhibitor_directory_url": "https://2026.corl.org/program"
+    },
+    {
+      "id": "E288",
+      "block": "Eventos",
+      "title": "IEEE Humanoids 2026 · Exhibit Hall",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "iso": [
+        "USA"
+      ],
+      "city": "Santa Clara Convention Center · Santa Clara, California",
+      "start": "2026-12-08",
+      "end": "2026-12-09",
+      "deadline": "",
+      "period": "Plan del pabellón para 8–9 de diciembre de 09:00 a 17:30. Foros públicos de la conferencia previstos el 6 de diciembre.",
+      "date_status": "Confirmado",
+      "age": "Condicional. Confirmar edad de visitante y acompañamiento.",
+      "mat": "Condicional. Confirmar edad de visitante y acompañamiento.",
+      "osc": "Condicional. Confirmar edad de visitante y acompañamiento.",
+      "format": "Visita al pabellón de exposición o demostraciones según reglas del organizador.",
+      "entry": "Confirmar entrada a exposición, acceso a foros públicos y admisión de menores.",
+      "gear": "Robots, automatización, control y componentes.",
+      "language": "Confirmar idioma del taller o demostración concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma del taller o demostración concretos.",
+      "cost": "Tarifas de conferencia publicadas. Precio de entrada separada al pabellón sin confirmar.",
+      "level": "Exposición profesional internacional",
+      "reward": "Demostraciones y conocimiento de proyectos.",
+      "priority": "P3 — visita según programa",
+      "action": "Confirmar condiciones de acceso y elegir actividades por edad e idioma.",
+      "source": "https://humanoids.exhibitprospectus.com/",
+      "references": [
+        {
+          "url": "https://2026.ieee-humanoids.org/",
+          "label": "Horario e información de la exposición"
+        },
+        {
+          "url": "https://2026.ieee-humanoids.org/partners-exhibitors/",
+          "label": "Catálogo de participantes de esta edición"
+        },
+        {
+          "url": "https://2026.ieee-humanoids.org/registration/",
+          "label": "Reglas y condiciones de admisión"
+        }
+      ],
+      "proof": "Fechas y acceso de visitantes cotejados con materiales publicados por el organizador.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "",
+      "themes": [
+        "robotics",
+        "ai",
+        "engineering",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Espacio especializado para conocer robótica y desarrolladores.",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "adult_entry": "Confirmar entrada a exposición, acceso a foros públicos y admisión de menores.",
+      "visitor_policy": "confirm_children",
+      "visitor_policy_note": "Condicional. Confirmar edad de visitante y acompañamiento.",
+      "exhibition_tier": "global",
+      "highlights": [],
+      "exhibitors": [
+        "NVIDIA Robotics",
+        "VinMotion",
+        "Semio",
+        "Mind Robotics",
+        "Ultimate Bots"
+      ],
+      "exhibitor_note": "Ejemplos de la lista actual de socios. Confirmar presencia y puestos en el programa.",
+      "exhibitor_directory_url": "https://2026.ieee-humanoids.org/partners-exhibitors/",
+      "related_ids": [
+        "C2966"
+      ]
+    },
+    {
+      "id": "C2966",
+      "block": "Competiciones",
+      "title": "IEEE Humanoids 2026 · Loco-Manipulation Challenge",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "iso": [
+        "USA"
+      ],
+      "city": "Santa Clara Convention Center · Santa Clara, California",
+      "start": "",
+      "end": "",
+      "deadline": "2026-11-07",
+      "period": "El programa contempla 1 día de preparación y 2 días de intentos. Confirmar fechas exactas de la disciplina.",
+      "date_status": "No se ha anunciado",
+      "age": "Las reglas invitan a equipos universitarios y fabricantes de robots.",
+      "mat": "No se anuncia vía escolar. Posible conocer la disciplina de ingeniería.",
+      "osc": "No se anuncia vía escolar. Confirmar acceso de espectadores por separado.",
+      "format": "Disciplina de ingeniería por equipos.",
+      "entry": "Consultar reglas de la disciplina y requisitos de equipo, plataforma y solicitud.",
+      "gear": "Circuito de pruebas para robots humanoides. El organizador señala posible acceso a Unitree G1 y AgiBot X2.",
+      "language": "Confirmar idioma del taller o demostración concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma del taller o demostración concretos.",
+      "cost": "Tarifa de esta edición aún sin confirmar.",
+      "level": "Disciplina internacional de ingeniería en conferencia",
+      "reward": "Resultado según reglas de la disciplina.",
+      "priority": "P4 — etapa de investigación",
+      "action": "Consultar reglas de la disciplina y requisitos de equipo, plataforma y solicitud.",
+      "source": "https://2026.ieee-humanoids.org/competitions/",
+      "references": [
+        {
+          "url": "https://raw.githubusercontent.com/peterso/ieee-humanoids-2026-loco-manipulation-challenge/main/Humanoid-Conference-Competition-Rules.pdf",
+          "label": "Reglas y condiciones de admisión"
+        },
+        {
+          "url": "https://2026.ieee-humanoids.org/",
+          "label": "Horario e información de la exposición"
+        }
+      ],
+      "proof": "El reglamento describe equipos, plataformas y envío TDP. La página del concurso indica prórroga.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "",
+      "themes": [
+        "robotics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Espacio especializado para conocer robótica y desarrolladores.",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "competition",
+      "deadline_utc": "2026-11-08T11:59:00Z",
+      "deadline_label": "Plazo final de Team Description Paper",
+      "deadline_note": "Prorrogado hasta el 7 de noviembre a las 23:59 AoE. El plazo inicial para ayudas era separado.",
+      "related_ids": [
+        "E288"
+      ]
+    },
+    {
+      "id": "E289",
+      "block": "Eventos",
+      "title": "XPONENTIAL 2027 · XPO Hall",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "iso": [
+        "USA"
+      ],
+      "city": "Miami Beach Convention Center · Miami Beach, Florida",
+      "start": "2027-05-18",
+      "end": "2027-05-20",
+      "deadline": "2027-04-02",
+      "period": "Exposición del 18 al 20 de mayo. Programa educativo del 17 al 20 de mayo.",
+      "date_status": "Confirmado",
+      "age": "Condicional. Confirmar edad de visitante y acompañamiento.",
+      "mat": "Condicional. Confirmar edad de visitante y acompañamiento.",
+      "osc": "Condicional. Confirmar edad de visitante y acompañamiento.",
+      "format": "Visita al pabellón de exposición o demostraciones según reglas del organizador.",
+      "entry": "Se requiere credencial para XPO Hall. Confirmar edad y acompañamiento según reglas 2027.",
+      "gear": "Robots, automatización, control y componentes.",
+      "language": "Confirmar idioma del taller o demostración concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma del taller o demostración concretos.",
+      "cost": "XPO Hall Pass sin membresía $189 anticipado, luego $229 y $259 en el lugar. Confirmar condiciones infantiles.",
+      "level": "Exposición profesional internacional",
+      "reward": "Demostraciones y conocimiento de proyectos.",
+      "priority": "P3 — visita según programa",
+      "action": "Confirmar condiciones de acceso y elegir actividades por edad e idioma.",
+      "source": "https://www.xponential.org/",
+      "references": [
+        {
+          "url": "https://www.auvsi.org/event/xponential-2027/",
+          "label": "Horario e información de la exposición"
+        },
+        {
+          "url": "https://xponential.org/2027/attendee_registration.cfm",
+          "label": "Horario e información de la exposición"
+        },
+        {
+          "url": "https://xponential.org/2027/show_policies.cfm",
+          "label": "Reglas y condiciones de admisión"
+        }
+      ],
+      "proof": "Fechas y acceso de visitantes cotejados con materiales publicados por el organizador.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "",
+      "themes": [
+        "robotics",
+        "drones",
+        "ai",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Espacio especializado para conocer robótica y desarrolladores.",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "adult_entry": "Se requiere credencial para XPO Hall. Confirmar edad y acompañamiento según reglas 2027.",
+      "visitor_policy": "confirm_children",
+      "visitor_policy_note": "Condicional. Confirmar edad de visitante y acompañamiento.",
+      "exhibition_tier": "global",
+      "highlights": [],
+      "exhibitors": [],
+      "exhibitor_note": "Consultar la lista de expositores de esta edición en el catálogo del organizador.",
+      "exhibitor_directory_url": "https://www.xponential.org/",
+      "deadline_utc": "2027-04-03T03:59:00Z",
+      "deadline_label": "Fin de tarifa anticipada XPO Hall",
+      "deadline_note": "2 de abril a las 23:59 ET según tabla de tarifas."
+    }
+  ],
+  "event_updates": {
+    "E012": {
+      "checked": "2026-11-07",
+      "source": "https://www.jara.jp/about/img/release/jigyo_keikaku/jara_jigyo_keikaku_2026.pdf",
+      "start": "2027-12-01",
+      "end": "2027-12-04",
+      "city": "Tokyo Big Sight · East 1–8, West 3–4",
+      "period": "El plan del coorganizador JARA indica 1–4 de diciembre de 2027. Pendientes las condiciones de entrada de esta edición.",
+      "date_status": "Anunciado",
+      "date_precision": "announced_window",
+      "date_rule": "El plan del coorganizador JARA indica 1–4 de diciembre de 2027. Pendientes las condiciones de entrada de esta edición.",
+      "date_scope": "exhibition_window",
+      "age": "Condicional. Confirmar edad de visitante y acompañamiento.",
+      "mat": "Condicional. Confirmar edad de visitante y acompañamiento.",
+      "osc": "Condicional. Confirmar edad de visitante y acompañamiento.",
+      "visitor_policy": "confirm_children",
+      "visitor_policy_note": "Condicional. Confirmar edad de visitante y acompañamiento.",
+      "adult_entry": "Visita al pabellón de exposición o demostraciones según reglas del organizador.",
+      "entry": "Visita al pabellón de exposición o demostraciones según reglas del organizador.",
+      "cost": "Tarifa de esta edición aún sin confirmar.",
+      "references": [
+        {
+          "url": "https://irex.nikkan.co.jp/",
+          "label": "Horario e información de la exposición"
+        }
+      ],
+      "proof": "El plan del coorganizador JARA indica 1–4 de diciembre de 2027. Pendientes las condiciones de entrada de esta edición.",
+      "exhibitors": [],
+      "exhibitor_directory_url": "https://irex.nikkan.co.jp/",
+      "exhibitor_note": "Catálogo 2027 aún sin confirmar. La lista de la edición anterior se conserva por separado.",
+      "action": "Confirmar normas para menores, horario y entrada en el sitio de 2027 antes del viaje.",
+      "note": "El plan del coorganizador JARA indica 1–4 de diciembre de 2027. Pendientes las condiciones de entrada de esta edición."
+    },
+    "E094": {
+      "checked": "2026-11-07",
+      "age": "Pabellón accesible desde 12 años. De 12–17 años solo con adulto.",
+      "mat": "Acceso al pabellón cerrado a menores de 12 años.",
+      "osc": "Acceso al pabellón cerrado a menores de 12 años.",
+      "visitor_policy_note": "Pabellón accesible desde 12 años. De 12–17 años solo con adulto.",
+      "proof": "Fechas y acceso de visitantes cotejados con materiales publicados por el organizador.",
+      "references": [
+        {
+          "url": "https://www.automateshow.com/attend/frequently-asked-questions",
+          "label": "FAQ 2027: fechas, sala gratuita y prohibición hasta los 12"
+        },
+        {
+          "url": "https://automate27.mapyourshow.com/8_0/exhview/index.cfm",
+          "label": "plan de la exposición 2027"
+        },
+        {
+          "url": "https://www.automateshow.com/prior-exhibitors",
+          "label": "archivo de los exponentes 2026"
+        }
+      ]
+    }
+  },
+  "sources": [
+    {
+      "url": "https://fes.sakura-tempesta.or.jp/en/",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    },
+    {
+      "url": "https://fes.sakura-tempesta.or.jp/en/teams.html",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    },
+    {
+      "url": "https://fes.sakura-tempesta.or.jp/en/exhibitors.html",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    },
+    {
+      "url": "https://www.firstinspires.org/programs/ftc/",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    },
+    {
+      "url": "https://www.fiweek.jp/nagoya/ja-jp/about/robo.html",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    },
+    {
+      "url": "https://www.fiweek.jp/nagoya/ja-jp/visit/faq.html",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    },
+    {
+      "url": "https://www.fiweek.jp/hub/en-gb/about/robodex.html",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    },
+    {
+      "url": "https://www.fiweek.jp/nagoya/ja-jp/conference/humanoidrobots.html",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    },
+    {
+      "url": "https://www.fiweek.jp/tokyo/en-gb.html",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    },
+    {
+      "url": "https://www.fiweek.jp/tokyo/ja-jp/visit/faq.html",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    },
+    {
+      "url": "https://www.fiweek.jp/tokyo/en-gb/visit/faq.html",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    },
+    {
+      "url": "https://www.fiweek.jp/osaka/en-gb.html",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    },
+    {
+      "url": "https://www.fiweek.jp/osaka/ja-jp/visit/faq.html",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    },
+    {
+      "url": "https://www.fiweek.jp/osaka/ja-jp/visit.html",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    },
+    {
+      "url": "https://www.fiweek.jp/autumn/en-gb.html",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    },
+    {
+      "url": "https://www.fiweek.jp/autumn/ja-jp/visit/faq.html",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    },
+    {
+      "url": "https://partners.icra2027.kr/api/prospectus",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    },
+    {
+      "url": "https://2027.ieee-icra.org/about/",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    },
+    {
+      "url": "https://2027.ieee-icra.org/attend/registration-information/",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    },
+    {
+      "url": "https://2027.ieee-icra.org/partners/confirmed-partners-and-exhibitors/",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    },
+    {
+      "url": "https://2027.ieee-icra.org/program/competitions/",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    },
+    {
+      "url": "https://2027.ieee-icra.org/program/competitions/#HumanoidManufacturing",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    },
+    {
+      "url": "https://2027.ieee-icra.org/contribute/call-for-competition/",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    },
+    {
+      "url": "https://2027.ieee-icra.org/program/competitions/#LeggedRobotChallenges",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    },
+    {
+      "url": "https://2027.ieee-icra.org/program/competitions/#RoboticGrasping",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    },
+    {
+      "url": "https://sites.google.com/view/rgmcomp",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    },
+    {
+      "url": "https://2027.ieee-icra.org/program/competitions/#RoboRacerAutonomous",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    },
+    {
+      "url": "https://emprise.cs.cornell.edu/phyrc/challenge-2027/",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    },
+    {
+      "url": "https://2027.ieee-icra.org/program/competitions/#PhysicalRobotic",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    },
+    {
+      "url": "https://2027.ieee-iros.org/",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    },
+    {
+      "url": "https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros/iros-past-and-future-venues/",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    },
+    {
+      "url": "https://2026.corl.org/program",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    },
+    {
+      "url": "https://www.corl.org/attending/venue-information",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    },
+    {
+      "url": "https://2026.corl.org/attending/registration",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    },
+    {
+      "url": "https://humanoids.exhibitprospectus.com/",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    },
+    {
+      "url": "https://2026.ieee-humanoids.org/",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    },
+    {
+      "url": "https://2026.ieee-humanoids.org/partners-exhibitors/",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    },
+    {
+      "url": "https://2026.ieee-humanoids.org/registration/",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    },
+    {
+      "url": "https://2026.ieee-humanoids.org/competitions/",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    },
+    {
+      "url": "https://raw.githubusercontent.com/peterso/ieee-humanoids-2026-loco-manipulation-challenge/main/Humanoid-Conference-Competition-Rules.pdf",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    },
+    {
+      "url": "https://www.xponential.org/",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    },
+    {
+      "url": "https://www.auvsi.org/event/xponential-2027/",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    },
+    {
+      "url": "https://xponential.org/2027/attendee_registration.cfm",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    },
+    {
+      "url": "https://xponential.org/2027/show_policies.cfm",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    },
+    {
+      "url": "https://www.jara.jp/about/img/release/jigyo_keikaku/jara_jigyo_keikaku_2026.pdf",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    },
+    {
+      "url": "https://irex.nikkan.co.jp/",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    },
+    {
+      "url": "https://www.automateshow.com/attend/frequently-asked-questions",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    },
+    {
+      "url": "https://automate27.mapyourshow.com/8_0/exhview/index.cfm",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    },
+    {
+      "url": "https://www.automateshow.com/prior-exhibitors",
+      "title": "Página oficial del organizador",
+      "checked": "2026-11-07",
+      "evidence": "Organizador primario, reglamento o materiales de la edición actual. Evidencia indicada en la ficha."
+    }
+  ]
+}
