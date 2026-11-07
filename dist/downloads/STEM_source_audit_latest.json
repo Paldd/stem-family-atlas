@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 7826,
-    "competition_cards": 3212,
-    "event_cards": 363,
-    "camp_cards": 4251,
+    "cards": 7853,
+    "competition_cards": 3230,
+    "event_cards": 369,
+    "camp_cards": 4254,
     "league_profiles": 268,
-    "major_exhibition_cards": 275,
+    "major_exhibition_cards": 281,
     "vex_cards": 518,
     "countries_with_records": 159,
     "fully_audited_countries": 0
@@ -76,12 +76,12 @@
       "regions": [
         "Африка"
       ],
-      "total": 206,
+      "total": 232,
       "countries_with_records": 34,
-      "competitions": 115,
-      "events": 23,
-      "major_exhibitions": 15,
-      "camps": 68,
+      "competitions": 133,
+      "events": 29,
+      "major_exhibitions": 21,
+      "camps": 70,
       "status": "Частично исследовано",
       "remaining": "До расширения почти все соревнования были в South Africa. Добавлен PARC Senegal; Maghreb, East / West Africa и местные отборы остаются пробелами."
     },
@@ -10120,6 +10120,72 @@
       "new": false
     },
     {
+      "id": "E364",
+      "name": "Automation Technology Expo 2027",
+      "country": "Египет",
+      "region": "Африка",
+      "start": "2027-06-01",
+      "end": "2027-06-03",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.samameo.com/AutomationExpo/index.html",
+      "new": false
+    },
+    {
+      "id": "E365",
+      "name": "Africa Technology Expo 2027",
+      "country": "Нигерия",
+      "region": "Африка",
+      "start": "2027-06-17",
+      "end": "2027-06-19",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.africatechnologyexpo.com/",
+      "new": false
+    },
+    {
+      "id": "E366",
+      "name": "Lagos Tech Week 2027",
+      "country": "Нигерия",
+      "region": "Африка",
+      "start": "2027-06-14",
+      "end": "2027-06-20",
+      "visitor_policy": "confirm_children",
+      "source": "https://lagostechweek.ng/",
+      "new": false
+    },
+    {
+      "id": "E367",
+      "name": "Tech Unite Africa 2027",
+      "country": "Нигерия",
+      "region": "Африка",
+      "start": "2027-03-24",
+      "end": "2027-03-25",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.techuniteafrica.com/",
+      "new": false
+    },
+    {
+      "id": "E368",
+      "name": "X-REVIVE 2027 · gaming festival",
+      "country": "Нигерия",
+      "region": "Африка",
+      "start": "",
+      "end": "",
+      "visitor_policy": "family",
+      "source": "https://www.x-revive.com/",
+      "new": false
+    },
+    {
+      "id": "E369",
+      "name": "World STEM Festival Nigeria · next edition 2027",
+      "country": "Нигерия",
+      "region": "Африка",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.stemfestival.org/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -11500,7 +11566,7 @@
       "official_alternative": "https://www.ykpaoschool.cn/News-and-Events/New-Stories/988"
     }
   ],
-  "interregional_cards": 115,
+  "interregional_cards": 116,
   "promoted_exhibition_ids": [],
   "focused_country": {
     "country": "Тайвань",
@@ -12537,20 +12603,20 @@
       }
     ],
     "counts": {
-      "records": 4251,
-      "holiday": 3977,
+      "records": 4254,
+      "holiday": 3979,
       "regular": 120,
       "self_paced_materials": 2,
       "boarding": 1026,
-      "en_es_instruction": 1399,
+      "en_es_instruction": 1400,
       "en_es_support": 12,
-      "family_instruction": 1399,
+      "family_instruction": 1400,
       "family_support": 12,
-      "ru_instruction": 3,
+      "ru_instruction": 4,
       "language_lessons": 410,
       "camp_life_language": 228,
       "language_unclassified": 137,
-      "countries": 99
+      "countries": 100
     },
     "validation": {
       "version": 51,

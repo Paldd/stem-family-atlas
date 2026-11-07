@@ -9254,6 +9254,22 @@ Limitaciones: La universidad describe el programa para estudiantes locales. Conf
 Fuente: https://www.cityu.edu.hk/en/ceng/local-outreach/bright-future-engineering-talent-hub/hubs-activities/build-a-bot-family-challenge_2027
 Se ha comprobado: 2026-11-07
 
+### L655 · Robotex Online · coding and game design
+
+lugar: Internacional en línea · Online
+Fecha: Clases regulares. Las fechas y horas del grupo elegido se acuerdan con el operador.
+edad: 5–15 años. Grupos de 2–5 alumnos.
+Matvey: Sí por edad. Confirmar nivel y horario del grupo.
+Oscar: Sí por edad. Confirmar nivel y horario del grupo.
+Formato: online_course
+Idioma: El operador confirma grupos separados en inglés y ruso. El grupo depende del nivel y el horario.
+Marca de idioma: primary; soporte: no declarado
+Precio: USD 102 por 4 clases de Scratch Junior, Scratch, Minecraft o Roblox. Python — USD 125 por 4 clases.
+Acceso: Clases regulares. Las fechas y horas del grupo elegido se acuerdan con el operador.
+Limitaciones: Clases en directo en Zoom. Temas según edad y nivel. Horarios en distintos husos.
+Fuente: https://robotexonline.com/english
+Se ha comprobado: 2026-11-07
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -66804,6 +66820,38 @@ Precio: 2027 · TWD 5880 tarifa normal. TWD 5480 en noviembre de 2026, TWD 5680 
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Encaja en el rango escolar si se confirman grado e idioma. Oscar: Admisión desde el grado 1. Confirmar escolarización, equivalencia de grado e idioma. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://www.huhu.com.tw/tw/course/show.aspx?num=91&kind=26&page=1
+Se ha comprobado: 2026-11-07
+
+### CP1714-20270103-20270106 · AUC · RoboRush · RoboRush · 2027-01-03–2027-01-06
+
+lugar: Egipto · AUC New Cairo campus · Cairo
+Fecha: 2027-01-03 国 2027-01-06
+Edad: 12*16 años
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Confirmar idioma oral de enseñanza del grupo. La página del operador se publica en inglés.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EGP 4500 por 4 días con materiales. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Etapa para más adelante. El niño aún no alcanza la edad mínima. Oscar: Etapa para más adelante. El niño aún no alcanza la edad mínima. Suplementos: Autobús con coste aparte. Se indica descuento del 10% para hermanos sujeto a condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.aucegypt.edu/academics/winteratauc/roborush-code-it-build-it-race-it
+Se ha comprobado: 2026-11-07
+
+### CP1715-20270103-20270106 · AUC · AI Entrepreneurial Startup Lab · AI Entrepreneurial Startup Lab · 2027-01-03–2027-01-06
+
+lugar: Egipto · AUC New Cairo campus · Cairo
+Fecha: 2027-01-03 国 2027-01-06
+edad: 12–18 años
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Confirmar idioma oral de enseñanza del grupo. La página del operador se publica en inglés.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EGP 4500 por 4 días con materiales. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Etapa para más adelante. El niño aún no alcanza la edad mínima. Oscar: Etapa para más adelante. El niño aún no alcanza la edad mínima. Suplementos: Autobús con coste aparte. Se indica descuento del 10% para hermanos sujeto a condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.aucegypt.edu/academics/winteratauc/ai-entrepreneurial-startup-lab
 Se ha comprobado: 2026-11-07
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 7826; competiciones: 3212; eventos: 363; campamentos / programas: 4251. Perfiles de ligas y programas: 268. Fichas de exposiciones grandes y especializadas: 275 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 7853; competiciones: 3230; eventos: 369; campamentos / programas: 4254. Perfiles de ligas y programas: 268. Fichas de exposiciones grandes y especializadas: 281 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros para 159 de 249 países y territorios. Países con auditoría completa: 0. La revisión histórica v51 agregó 21 fichas y 3 perfiles. Se conservaron las fichas previas.
 
@@ -17,13 +17,13 @@ Hay registros para 159 de 249 países y territorios. Países con auditoría comp
 | América del Norte | 23 | 1449 | 49 | 1072 |
 | América del Sur | 10 | 204 | 19 | 142 |
 | Europa | 42 | 433 | 82 | 1298 |
-| África | 34 | 115 | 15 | 68 |
+| África | 34 | 133 | 21 | 70 |
 | Asia | 44 | 786 | 90 | 1525 |
 | Oceanía | 6 | 128 | 19 | 134 |
 
-Fichas interregionales o globales sin un solo continente asignado: 115. América del Norte incluye Centroamérica y el Caribe. Las cifras cuentan las fichas del catálogo.
+Fichas interregionales / mundiales sin un solo continente asignado: 116. América del Norte incluye Centroamérica y el Caribe. Las cifras muestran el inventario de la base y no el porcentaje de cobertura.
 
-VEX: 518 de 3212 fichas de competiciones (16.1%). La cobertura está claramente desequilibrada.
+VEX: 518 de 3230 fichas de competiciones (16.0%). La cobertura está claramente desequilibrada.
 
 ## Lo que queda
 
@@ -611,6 +611,12 @@ VEX: 518 de 3212 fichas de competiciones (16.1%). La cobertura está claramente 
 - **IA Fest Chile 2027 · ACHIAG** — Chile; fecha desconocida. Confirmar acceso infantil. https://achiag.cl/fest/
 - **IA Summit Chile 2027 · ACHIAG** — Chile; fecha desconocida. Confirmar acceso infantil. https://achiag.cl/summit/
 - **Taipei Game Show 2027 · B2B business zone** — Taiwán; 2027-01-21 – 2027-01-22. Los niños del 6/9 no pueden. https://tgs.tca.org.tw/b2bzone_e.php?lang=e&m=2026
+- **Automation Technology Expo 2027** — Egipto; 2027-06-01 – 2027-06-03. el permiso de entrada de niños. https://www.samameo.com/AutomationExpo/index.html
+- **Africa Technology Expo 2027** — Nigeria; 2027-06-17 – 2027-06-19. el permiso de entrada de niños. https://www.africatechnologyexpo.com/
+- **Lagos Tech Week 2027** — Nigeria; 2027-06-14 – 2027-06-20. el permiso de entrada de niños. https://lagostechweek.ng/
+- **Tech Unite Africa 2027** — Nigeria; 2027-03-24 – 2027-03-25. el permiso de entrada de niños. https://www.techuniteafrica.com/
+- **X-REVIVE 2027 · gaming festival** — Nigeria; fecha sin confirmar. Con un adulto; condiciones de acceso adulto por separado. https://www.x-revive.com/
+- **World STEM Festival Nigeria · next edition 2027** — Nigeria; fecha desconocida. Confirmar acceso infantil. https://www.stemfestival.org/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

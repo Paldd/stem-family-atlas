@@ -1,0 +1,74 @@
+{
+  "version": 221,
+  "checked": "2026-11-07",
+  "previous_goal_turn_classification": "progress",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "new_competitions": 18,
+  "new_exhibitions": 6,
+  "new_standalone_learning": 1,
+  "new_camp_dossiers": 9,
+  "new_dated_camp_variants": 2,
+  "updated_events": [
+    "C041"
+  ],
+  "olympiad_disciplines": {
+    "EGY": 9,
+    "GHA": 7
+  },
+  "new_events": [
+    "C3214",
+    "C3215",
+    "C3216",
+    "C3217",
+    "C3218",
+    "C3219",
+    "C3220",
+    "C3221",
+    "C3222",
+    "C3223",
+    "C3224",
+    "C3225",
+    "C3226",
+    "C3227",
+    "C3228",
+    "C3229",
+    "C3230",
+    "C3231",
+    "E364",
+    "E365",
+    "E366",
+    "E367",
+    "E368",
+    "E369",
+    "L655"
+  ],
+  "programme_ids": {
+    "auc-egy-winter-2027-robo": "CP1714",
+    "auc-egy-winter-2027-ai": "CP1715",
+    "prime-stem-nigeria-stemx-bootcamp-2027": "CP1716",
+    "makersplace-accra-weekend-robotics": "CP1717",
+    "techspace-abuja-roboplay": "CP1718",
+    "techspace-abuja-game-design": "CP1719",
+    "immersia-lagos-ai-xr-next-2027": "CP1720",
+    "ischool-eg-online-explorers": "CP1721",
+    "ischool-eg-online-builders": "CP1722"
+  },
+  "source_requests": 43,
+  "rechecked_unchanged": [
+    "E231",
+    "C1634",
+    "C1978"
+  ],
+  "limits": [
+    "RoboCupJunior Egypt date range is the whole national event. Separate age cutoffs, coach/team size, standard and simulator fees, and the Egyptian published qualification routes. Foreign school eligibility, spoken judging language, and specific discipline day pending.",
+    "The Egyptian organizer lists a 2027 European Open in Slovakia; no date or admission was inferred from the European organization’s current page. The existing world card uses the official junior announcement.",
+    "MRC Ghana minimum age 10 applies to six published disciplines. Exhibition age and team size are pending. Entry is an expression of interest, no fee or venue yet; places for Greece conditional. Age is evaluated on 19 February.",
+    "Cairo Ai Everything 2027 first-party text continues to specify June and three days; do not adopt a two-day aggregator date.",
+    "X-REVIVE attendance has a published all-ages rule with accompanying adults under 16. No tournament eligibility, precise date or venue inferred. Ticket prices are public published tiers.",
+    "Commercial exhibitions have no sourced child-access condition. Nigeria World STEM Festival 2027 is announced as a next edition only.",
+    "AUC 4 exact days in Cairo per course; only ages 12+ and no inferred English from the university’s degree-course policy.",
+    "STEMx has exact outer dates; no day schedule, campus, fees, instructional language or sibling pairing inferred. IMMERSIA has a season announcement only.",
+    "MakersPlace and TechSpace courses are recurring, with the latter’s office in Abuja and class address unconfirmed. iSchool offers English and Arabic teaching, subject to availability. Robotex is a global online course, not a dated holiday camp or Robotex competition."
+  ]
+}

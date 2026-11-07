@@ -580,20 +580,20 @@
       }
     ],
     "counts": {
-      "records": 4251,
-      "holiday": 3977,
+      "records": 4254,
+      "holiday": 3979,
       "regular": 120,
       "self_paced_materials": 2,
       "boarding": 1026,
-      "en_es_instruction": 1399,
+      "en_es_instruction": 1400,
       "en_es_support": 12,
-      "family_instruction": 1399,
+      "family_instruction": 1400,
       "family_support": 12,
-      "ru_instruction": 3,
+      "ru_instruction": 4,
       "language_lessons": 410,
       "camp_life_language": 228,
       "language_unclassified": 137,
-      "countries": 99
+      "countries": 100
     },
     "validation": {
       "version": 51,
@@ -33235,6 +33235,55 @@
           "end_utc": "2027-03-06T09:30:00Z"
         }
       ]
+    },
+    {
+      "id": "L655",
+      "block": "Campamentos",
+      "title": "Robotex Online · coding and game design",
+      "country": "Internacional en línea",
+      "region": "Internacional en línea",
+      "iso": [],
+      "city": "Online",
+      "start": "",
+      "end": "",
+      "deadline": "",
+      "period": "Clases regulares. Las fechas y horas del grupo elegido se acuerdan con el operador.",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://robotexonline.com/english",
+      "references": [],
+      "age": "5–15 años. Grupos de 2–5 alumnos.",
+      "mat": "Sí por edad. Confirmar nivel y horario del grupo.",
+      "osc": "Sí por edad. Confirmar nivel y horario del grupo.",
+      "format": "Clases en directo en Zoom. Temas según edad y nivel. Horarios en distintos husos.",
+      "entry": "Clases regulares. Las fechas y horas del grupo elegido se acuerdan con el operador.",
+      "gear": "Clases en directo en Zoom. Temas según edad y nivel. Horarios en distintos husos.",
+      "language": "El operador confirma grupos separados en inglés y ruso. El grupo depende del nivel y el horario.",
+      "language_certainty": "El operador confirma grupos separados en inglés y ruso. El grupo depende del nivel y el horario.",
+      "languages": [
+        "EN",
+        "RU"
+      ],
+      "language_mode": "primary",
+      "cost": "USD 102 por 4 clases de Scratch Junior, Scratch, Minecraft o Roblox. Python — USD 125 por 4 clases.",
+      "level": "Etapa regional",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "Confirmar plaza, idioma y precio final con el operador.",
+      "note": "Clases en directo en Zoom. Temas según edad y nivel. Horarios en distintos husos.",
+      "themes": [
+        "coding",
+        "games",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Etapa regional",
+      "participation": "online_course",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "season_window"
     },
     {
       "id": "CP001-20270606-20270619",
@@ -334083,6 +334132,212 @@
           "ical_timed": true,
           "start_utc": "2027-02-03T01:00:00Z",
           "end_utc": "2027-02-03T09:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      }
+    },
+    {
+      "id": "CP1714-20270103-20270106",
+      "block": "Campamentos",
+      "title": "AUC · RoboRush · RoboRush · 2027-01-03–2027-01-06",
+      "country": "Egipto",
+      "region": "África",
+      "city": "AUC New Cairo campus · Cairo",
+      "start": "2027-01-03",
+      "end": "2027-01-06",
+      "period": "Días lectivos según calendario del organizador.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "12–16 años",
+      "mat": "No ahora; el futuro nivel de edad",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Montaje de un robot autónomo con sensores y motores, programación y pruebas en carrera.",
+      "language": "Confirmar idioma oral de enseñanza del grupo. La página del operador se publica en inglés.",
+      "cost": "2027 · EGP 4500 por 4 días con materiales. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P4 — edad futura",
+      "action": "Confirmar plaza, idioma y precio final con el operador.",
+      "source": "https://www.aucegypt.edu/academics/winteratauc/roborush-code-it-build-it-race-it",
+      "references": [
+        {
+          "url": "https://www.aucegypt.edu/academics/winteratauc/roborush-code-it-build-it-race-it",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Etapa para más adelante. El niño aún no alcanza la edad mínima. Oscar: Etapa para más adelante. El niño aún no alcanza la edad mínima. Suplementos: Autobús con coste aparte. Se indica descuento del 10% para hermanos sujeto a condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "EGY"
+      ],
+      "themes": [
+        "robotics",
+        "ai",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma oral de enseñanza del grupo. La página del operador se publica en inglés.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "auc-egy-winter-2027-robo",
+      "camp_programme_id": "CP1714",
+      "sessions": [
+        {
+          "date": "2027-01-03",
+          "topic": "Montaje de un robot autónomo con sensores y motores, programación y pruebas en carrera.",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Africa/Cairo",
+          "ical_timed": true,
+          "start_utc": "2027-01-03T07:00:00Z",
+          "end_utc": "2027-01-03T14:00:00Z"
+        },
+        {
+          "date": "2027-01-04",
+          "topic": "Montaje de un robot autónomo con sensores y motores, programación y pruebas en carrera.",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Africa/Cairo",
+          "ical_timed": true,
+          "start_utc": "2027-01-04T07:00:00Z",
+          "end_utc": "2027-01-04T14:00:00Z"
+        },
+        {
+          "date": "2027-01-05",
+          "topic": "Montaje de un robot autónomo con sensores y motores, programación y pruebas en carrera.",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Africa/Cairo",
+          "ical_timed": true,
+          "start_utc": "2027-01-05T07:00:00Z",
+          "end_utc": "2027-01-05T14:00:00Z"
+        },
+        {
+          "date": "2027-01-06",
+          "topic": "Montaje de un robot autónomo con sensores y motores, programación y pruebas en carrera.",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Africa/Cairo",
+          "ical_timed": true,
+          "start_utc": "2027-01-06T07:00:00Z",
+          "end_utc": "2027-01-06T14:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      }
+    },
+    {
+      "id": "CP1715-20270103-20270106",
+      "block": "Campamentos",
+      "title": "AUC · AI Entrepreneurial Startup Lab · AI Entrepreneurial Startup Lab · 2027-01-03–2027-01-06",
+      "country": "Egipto",
+      "region": "África",
+      "city": "AUC New Cairo campus · Cairo",
+      "start": "2027-01-03",
+      "end": "2027-01-06",
+      "period": "Días lectivos según calendario del organizador.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "12–18 años",
+      "mat": "No ahora; el futuro nivel de edad",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Prototipado con IA, validación de una idea de producto y presentación de una startup.",
+      "language": "Confirmar idioma oral de enseñanza del grupo. La página del operador se publica en inglés.",
+      "cost": "2027 · EGP 4500 por 4 días con materiales. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P4 — edad futura",
+      "action": "Confirmar plaza, idioma y precio final con el operador.",
+      "source": "https://www.aucegypt.edu/academics/winteratauc/ai-entrepreneurial-startup-lab",
+      "references": [
+        {
+          "url": "https://www.aucegypt.edu/academics/winteratauc/ai-entrepreneurial-startup-lab",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Etapa para más adelante. El niño aún no alcanza la edad mínima. Oscar: Etapa para más adelante. El niño aún no alcanza la edad mínima. Suplementos: Autobús con coste aparte. Se indica descuento del 10% para hermanos sujeto a condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "EGY"
+      ],
+      "themes": [
+        "ai",
+        "technology",
+        "entrepreneurship",
+        "coding"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma oral de enseñanza del grupo. La página del operador se publica en inglés.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "auc-egy-winter-2027-ai",
+      "camp_programme_id": "CP1715",
+      "sessions": [
+        {
+          "date": "2027-01-03",
+          "topic": "Prototipado con IA, validación de una idea de producto y presentación de una startup.",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Africa/Cairo",
+          "ical_timed": true,
+          "start_utc": "2027-01-03T07:00:00Z",
+          "end_utc": "2027-01-03T14:00:00Z"
+        },
+        {
+          "date": "2027-01-04",
+          "topic": "Prototipado con IA, validación de una idea de producto y presentación de una startup.",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Africa/Cairo",
+          "ical_timed": true,
+          "start_utc": "2027-01-04T07:00:00Z",
+          "end_utc": "2027-01-04T14:00:00Z"
+        },
+        {
+          "date": "2027-01-05",
+          "topic": "Prototipado con IA, validación de una idea de producto y presentación de una startup.",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Africa/Cairo",
+          "ical_timed": true,
+          "start_utc": "2027-01-05T07:00:00Z",
+          "end_utc": "2027-01-05T14:00:00Z"
+        },
+        {
+          "date": "2027-01-06",
+          "topic": "Prototipado con IA, validación de una idea de producto y presentación de una startup.",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Africa/Cairo",
+          "ical_timed": true,
+          "start_utc": "2027-01-06T07:00:00Z",
+          "end_utc": "2027-01-06T14:00:00Z"
         }
       ],
       "availability": {

@@ -30,25 +30,25 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1713,
-    "countries": 96,
+    "dossiers": 1722,
+    "countries": 99,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 247,
-      "published_2027": 482,
+      "published_2027": 485,
       "partial_2027": 134,
-      "next_unannounced": 349,
+      "next_unannounced": 350,
       "published_2026": 297,
       "partial_2026_27": 28,
       "partial_2026": 20,
       "archive_next_unannounced": 137,
-      "regular_programme": 11,
+      "regular_programme": 16,
       "regular_2026_27": 2,
       "historical_2026_next_season_unknown": 1,
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2447
+    "source_urls": 2459
   },
   "countries": [
     {
@@ -116,6 +116,10 @@
       "count": 1
     },
     {
+      "country": "Ghana",
+      "count": 1
+    },
+    {
       "country": "Guadalupe",
       "count": 1
     },
@@ -154,6 +158,10 @@
     {
       "country": "República Dominicana",
       "count": 3
+    },
+    {
+      "country": "Egipto",
+      "count": 4
     },
     {
       "country": "Zimbabue",
@@ -262,6 +270,10 @@
     {
       "country": "Nepal",
       "count": 3
+    },
+    {
+      "country": "Nigeria",
+      "count": 4
     },
     {
       "country": "Países Bajos",
@@ -286253,6 +286265,826 @@
           "event_ids": []
         }
       ]
+    },
+    {
+      "id": "CP1714",
+      "slug": "auc-egy-winter-2027-robo",
+      "provider": "AUC · RoboRush",
+      "country": "Egipto",
+      "iso": "EGY",
+      "place": "AUC New Cairo campus · Cairo",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "12–16 años",
+      "language": "Confirmar idioma oral de enseñanza del grupo. La página del operador se publica en inglés.",
+      "confirmed_instruction_languages": [],
+      "programme": "Montaje de un robot autónomo con sensores y motores, programación y pruebas en carrera.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Días lectivos según calendario del organizador.",
+        "sessions": [
+          [
+            "2027-01-03",
+            "2027-01-06"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-03",
+            "end": "2027-01-06",
+            "label": "RoboRush",
+            "source": "https://www.aucegypt.edu/academics/winteratauc/roborush-code-it-build-it-race-it",
+            "price": "EGP 4500 por 4 días con materiales.",
+            "place": "AUC New Cairo campus · Cairo",
+            "age": "12–16 años",
+            "family_fit": {
+              "matvey": {
+                "status": "later",
+                "detail": "Etapa para más adelante. El niño aún no alcanza la edad mínima."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Etapa para más adelante. El niño aún no alcanza la edad mínima."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-03",
+                "topic": "Montaje de un robot autónomo con sensores y motores, programación y pruebas en carrera.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Africa/Cairo",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-04",
+                "topic": "Montaje de un robot autónomo con sensores y motores, programación y pruebas en carrera.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Africa/Cairo",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-05",
+                "topic": "Montaje de un robot autónomo con sensores y motores, programación y pruebas en carrera.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Africa/Cairo",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-06",
+                "topic": "Montaje de un robot autónomo con sensores y motores, programación y pruebas en carrera.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Africa/Cairo",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar disponibilidad y admisión."
+            }
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "EGP",
+        "amount": 4500,
+        "unit": "per_child_course",
+        "label": "EGP 4500 por 4 días con materiales.",
+        "included": "Clases y materiales necesarios. Certificado al cumplir requisitos de asistencia.",
+        "extras": "Autobús con coste aparte. Se indica descuento del 10% para hermanos sujeto a condiciones.",
+        "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      },
+      "accommodation": "Programa diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Etapa para más adelante. El niño aún no alcanza la edad mínima."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Etapa para más adelante. El niño aún no alcanza la edad mínima."
+        }
+      },
+      "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, idioma y precio final con el operador."
+      ],
+      "sources": [
+        {
+          "url": "https://www.aucegypt.edu/academics/winteratauc/roborush-code-it-build-it-race-it",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-03",
+          "end": "2027-01-06",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1714-20270103-20270106"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1715",
+      "slug": "auc-egy-winter-2027-ai",
+      "provider": "AUC · AI Entrepreneurial Startup Lab",
+      "country": "Egipto",
+      "iso": "EGY",
+      "place": "AUC New Cairo campus · Cairo",
+      "themes": [
+        "ai",
+        "technology",
+        "entrepreneurship",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "12–18 años",
+      "language": "Confirmar idioma oral de enseñanza del grupo. La página del operador se publica en inglés.",
+      "confirmed_instruction_languages": [],
+      "programme": "Prototipado con IA, validación de una idea de producto y presentación de una startup.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Días lectivos según calendario del organizador.",
+        "sessions": [
+          [
+            "2027-01-03",
+            "2027-01-06"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-03",
+            "end": "2027-01-06",
+            "label": "AI Entrepreneurial Startup Lab",
+            "source": "https://www.aucegypt.edu/academics/winteratauc/ai-entrepreneurial-startup-lab",
+            "price": "EGP 4500 por 4 días con materiales.",
+            "place": "AUC New Cairo campus · Cairo",
+            "age": "12–18 años",
+            "family_fit": {
+              "matvey": {
+                "status": "later",
+                "detail": "Etapa para más adelante. El niño aún no alcanza la edad mínima."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Etapa para más adelante. El niño aún no alcanza la edad mínima."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-03",
+                "topic": "Prototipado con IA, validación de una idea de producto y presentación de una startup.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Africa/Cairo",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-04",
+                "topic": "Prototipado con IA, validación de una idea de producto y presentación de una startup.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Africa/Cairo",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-05",
+                "topic": "Prototipado con IA, validación de una idea de producto y presentación de una startup.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Africa/Cairo",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-06",
+                "topic": "Prototipado con IA, validación de una idea de producto y presentación de una startup.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Africa/Cairo",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar disponibilidad y admisión."
+            }
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "EGP",
+        "amount": 4500,
+        "unit": "per_child_course",
+        "label": "EGP 4500 por 4 días con materiales.",
+        "included": "Clases y materiales necesarios. Certificado al cumplir requisitos de asistencia.",
+        "extras": "Autobús con coste aparte. Se indica descuento del 10% para hermanos sujeto a condiciones.",
+        "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      },
+      "accommodation": "Programa diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Etapa para más adelante. El niño aún no alcanza la edad mínima."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Etapa para más adelante. El niño aún no alcanza la edad mínima."
+        }
+      },
+      "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, idioma y precio final con el operador."
+      ],
+      "sources": [
+        {
+          "url": "https://www.aucegypt.edu/academics/winteratauc/ai-entrepreneurial-startup-lab",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-03",
+          "end": "2027-01-06",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1715-20270103-20270106"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1716",
+      "slug": "prime-stem-nigeria-stemx-bootcamp-2027",
+      "provider": "Prime STEM Nigeria · STEMx Bootcamp 5.0",
+      "country": "Nigeria",
+      "iso": "NGA",
+      "place": "En línea a nivel mundial y presencial en determinadas ciudades de África.",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding",
+        "technology"
+      ],
+      "formats": [
+        "online",
+        "unknown"
+      ],
+      "age": "8–19 años",
+      "language": "Confirmar idioma oral de enseñanza del grupo. La página del operador se publica en inglés.",
+      "confirmed_instruction_languages": [],
+      "programme": "Programa híbrido de verano: montaje de robot, programación, entrenamiento de modelos de IA y presentación de proyecto. Niveles inicial, intermedio y avanzado.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Intervalo general del 2 al 28 de agosto de 2027. Confirmar días de clase, huso horario y lista de ciudades presenciales.",
+        "sessions": [
+          [
+            "2027-08-02",
+            "2027-08-28"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-08-02",
+            "end": "2027-08-28",
+            "label": "STEMx Bootcamp 5.0",
+            "source": "https://primestemnigeria.afristemglobal.org/programs/international-stemx-boot-camp",
+            "price": "Cuota de STEMx 2027 y contenido del kit sin publicar en el programa.",
+            "date_scope": "camp_window"
+          }
+        ],
+        "precision": "season_window"
+      },
+      "price": {
+        "year": 2027,
+        "label": "Cuota de STEMx 2027 y contenido del kit sin publicar en el programa.",
+        "included": "Cuota de STEMx 2027 y contenido del kit sin publicar en el programa.",
+        "extras": "Cuota de STEMx 2027 y contenido del kit sin publicar en el programa.",
+        "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      },
+      "accommodation": "En línea o presencial. Confirmar alojamiento para participantes presenciales.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Cumple la edad publicada. Confirmar disponibilidad."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Etapa para más adelante. El niño aún no alcanza la edad mínima."
+        }
+      },
+      "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      ],
+      "sources": [
+        {
+          "url": "https://primestemnigeria.afristemglobal.org/programs/international-stemx-boot-camp",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.afristemglobal.org/events",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "unconfirmed_program",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-08-02",
+          "end": "2027-08-28",
+          "kind": "season_window",
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "id": "CP1717",
+      "slug": "makersplace-accra-weekend-robotics",
+      "provider": "The MakersPlace · Weekend Robotics and Coding",
+      "country": "Ghana",
+      "iso": "GHA",
+      "place": "Accra · branches vary",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "5–18 años",
+      "language": "Confirmar idioma oral de enseñanza del grupo. La página del operador se publica en inglés.",
+      "confirmed_instruction_languages": [],
+      "programme": "Robótica, programación y electrónica en clubes de fin de semana y extraescolares.",
+      "timing": {
+        "status": "regular_programme",
+        "label": "Clases regulares. Las fechas y horas del grupo elegido se acuerdan con el operador.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "label": "Precio sin publicar.",
+        "included": "Precio sin publicar.",
+        "extras": "Precio sin publicar.",
+        "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      },
+      "accommodation": "Programa diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Cumple la edad publicada. Confirmar disponibilidad."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Cumple la edad publicada. Confirmar disponibilidad."
+        }
+      },
+      "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      ],
+      "sources": [
+        {
+          "url": "https://makersplacegh.com/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makersplacegh.com/our-courses/weekend-and-after-school-robotic-classes/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      },
+      "programme_type": "regular_learning",
+      "catalog_participation": "regular_learning",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1718",
+      "slug": "techspace-abuja-roboplay",
+      "provider": "TechSpace · RoboPlay",
+      "country": "Nigeria",
+      "iso": "NGA",
+      "place": "TechSpace · Wuye · Abuja",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "6–9 años",
+      "language": "Confirmar idioma oral de enseñanza del grupo. La página del operador se publica en inglés.",
+      "confirmed_instruction_languages": [],
+      "programme": "Sábado 10:00–12:00. Montaje del primer robot y programación por bloques.",
+      "timing": {
+        "status": "regular_programme",
+        "label": "Horario regular los sábados. Confirmar próxima inscripción, dirección del grupo y plazas.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "label": "Precio sin publicar.",
+        "included": "Precio sin publicar.",
+        "extras": "Precio sin publicar.",
+        "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      },
+      "accommodation": "Programa diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Cumple la edad publicada. Confirmar disponibilidad."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Cumple la edad publicada. Confirmar disponibilidad."
+        }
+      },
+      "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      ],
+      "sources": [
+        {
+          "url": "https://techspace.ng/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://techspace.ng/about-us/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      },
+      "programme_type": "regular_learning",
+      "catalog_participation": "regular_learning",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1719",
+      "slug": "techspace-abuja-game-design",
+      "provider": "TechSpace · Game Design Studio",
+      "country": "Nigeria",
+      "iso": "NGA",
+      "place": "TechSpace · Wuye · Abuja",
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "8–12 años",
+      "language": "Confirmar idioma oral de enseñanza del grupo. La página del operador se publica en inglés.",
+      "confirmed_instruction_languages": [],
+      "programme": "Sábado 13:00–15:00. Historia del juego, personajes, niveles y mecánicas.",
+      "timing": {
+        "status": "regular_programme",
+        "label": "Horario regular los sábados. Confirmar próxima inscripción, dirección del grupo y plazas.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "label": "Precio sin publicar.",
+        "included": "Precio sin publicar.",
+        "extras": "Precio sin publicar.",
+        "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      },
+      "accommodation": "Programa diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Cumple la edad publicada. Confirmar disponibilidad."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Etapa para más adelante. El niño aún no alcanza la edad mínima."
+        }
+      },
+      "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      ],
+      "sources": [
+        {
+          "url": "https://techspace.ng/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://techspace.ng/about-us/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      },
+      "programme_type": "regular_learning",
+      "catalog_participation": "regular_learning",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1720",
+      "slug": "immersia-lagos-ai-xr-next-2027",
+      "provider": "IMMERSIA · AI & XR Summer Tech Bootcamp",
+      "country": "Nigeria",
+      "iso": "NGA",
+      "place": "Lagos · venue TBA",
+      "themes": [
+        "ai",
+        "robotics",
+        "games",
+        "technology",
+        "entrepreneurship"
+      ],
+      "formats": [
+        "unknown"
+      ],
+      "age": "10–17 años en la última edición. Confirmar requisitos de 2027.",
+      "language": "Confirmar idioma oral de enseñanza del grupo. La página del operador se publica en inglés.",
+      "confirmed_instruction_languages": [],
+      "programme": "Aplicación con IA, mundo virtual, emprendimiento tecnológico y presentación final. Confirmar asignaturas de 2027.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "El organizador anuncia el regreso en verano de 2027. Fechas concretas y tarifa de 2027 pendientes.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "label": "Precio sin publicar.",
+        "included": "Precio sin publicar.",
+        "extras": "Precio sin publicar.",
+        "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      },
+      "accommodation": "Confirmar modalidad presencial y alojamiento de 2027.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional si cumple 10 años al inicio del turno. Confirmar la edad de la próxima edición."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Etapa para más adelante. El niño aún no alcanza la edad mínima."
+        }
+      },
+      "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      ],
+      "sources": [
+        {
+          "url": "https://www.aixrbootcamp.com/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "holiday_camp",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1721",
+      "slug": "ischool-eg-online-explorers",
+      "provider": "iSchool · Tech Explorers",
+      "country": "Egipto",
+      "iso": "EGY",
+      "place": "Clases en directo en línea desde casa.",
+      "themes": [
+        "coding",
+        "games",
+        "technology"
+      ],
+      "formats": [
+        "online"
+      ],
+      "age": "6–7 años. Programa según edad y grado.",
+      "language": "El operador indica docentes para grupos en inglés y árabe. Confirmar disponibilidad del grupo en inglés en el horario deseado.",
+      "confirmed_instruction_languages": [
+        "EN",
+        "AR"
+      ],
+      "programme": "Programas iniciales: proyectos interactivos en Code.org y fundamentos de programación por bloques.",
+      "timing": {
+        "status": "regular_programme",
+        "label": "Clases regulares. Las fechas y horas del grupo elegido se acuerdan con el operador.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "label": "Precio sin publicar.",
+        "included": "Precio sin publicar.",
+        "extras": "Precio sin publicar.",
+        "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      },
+      "accommodation": "Clases en directo en línea desde casa.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "No por edad para el grupo menor."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Cumple la edad publicada. Confirmar disponibilidad."
+        }
+      },
+      "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      ],
+      "sources": [
+        {
+          "url": "https://ischool.ai/curriculum",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://ischool.ai/students",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://ischooltech.webflow.io/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      },
+      "programme_type": "online_course",
+      "catalog_participation": "online_course",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1722",
+      "slug": "ischool-eg-online-builders",
+      "provider": "iSchool · Code and Arcade",
+      "country": "Egipto",
+      "iso": "EGY",
+      "place": "Clases en directo en línea desde casa.",
+      "themes": [
+        "coding",
+        "games",
+        "technology"
+      ],
+      "formats": [
+        "online"
+      ],
+      "age": "8–9 años. Programa según edad y grado.",
+      "language": "El operador indica docentes para grupos en inglés y árabe. Confirmar disponibilidad del grupo en inglés en el horario deseado.",
+      "confirmed_instruction_languages": [
+        "EN",
+        "AR"
+      ],
+      "programme": "Minecraft Education, algoritmos, aplicaciones móviles de arcade y proyectos de juegos. El itinerario depende del grado.",
+      "timing": {
+        "status": "regular_programme",
+        "label": "Clases regulares. Las fechas y horas del grupo elegido se acuerdan con el operador.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "label": "Precio sin publicar.",
+        "included": "Precio sin publicar.",
+        "extras": "Precio sin publicar.",
+        "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      },
+      "accommodation": "Clases en directo en línea desde casa.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Cumple la edad publicada. Confirmar disponibilidad."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Etapa para más adelante. El niño aún no alcanza la edad mínima."
+        }
+      },
+      "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      ],
+      "sources": [
+        {
+          "url": "https://ischool.ai/curriculum",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://ischool.ai/students",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://ischooltech.webflow.io/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      },
+      "programme_type": "online_course",
+      "catalog_participation": "online_course",
+      "related_event_ids": [],
+      "calendar_links": []
     }
   ],
   "gaps": [
@@ -291578,7 +292410,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 220,
+  "version": 221,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -304813,7 +305645,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1713,
+      "total_dossiers": 1722,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -323728,6 +324560,16 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP1714",
+      "event_id": "CP1714-20270103-20270106",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1715",
+      "event_id": "CP1715-20270103-20270106",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -327755,12 +328597,14 @@
     "CP1710-20270125-20270129-taichung",
     "CP1711-20270201-20270203-taipei",
     "CP1711-20270201-20270203-zhubei",
-    "CP1711-20270201-20270203-taichung"
+    "CP1711-20270201-20270203-taichung",
+    "CP1714-20270103-20270106",
+    "CP1715-20270103-20270106"
   ],
   "integration": {
-    "generated_sessions": 3597,
+    "generated_sessions": 3599,
     "reused_legacy_events": 69,
-    "seasonal_windows": 62,
+    "seasonal_windows": 63,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."
   }
 }

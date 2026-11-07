@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-07. 1713 fichas en 96 países y territorios. Cada ficha incluye las fechas de verificación de sus fuentes.
+Estado de la base: 2026-11-07. 1722 fichas en 99 países y territorios. Cada ficha incluye las fechas de verificación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -134357,6 +134357,424 @@ Hong Kong · G26B Monterey Place · 23 Tong Chun Street · Tseung Kwan O
 ### Fuentes
 
 - [Página oficial del organizador](https://www.encode-world.com/stem-christmas-camp-hk-2026-coding-ai-camps-encode-education) · 2026-11-07
+
+## CP1714 · AUC · RoboRush
+
+Egipto · AUC New Cairo campus · Cairo
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 12–16 años
+
+**Idioma:** Confirmar idioma oral de enseñanza del grupo. La página del operador se publica en inglés.
+
+**Programa:** Montaje de un robot autónomo con sensores y motores, programación y pruebas en carrera.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Días lectivos según calendario del organizador.
+
+**Precio / año:** 2027 · EGP 4500 por 4 días con materiales.
+
+**Incluido:** Clases y materiales necesarios. Certificado al cumplir requisitos de asistencia.
+
+**Suplementos:** Autobús con coste aparte. Se indica descuento del 10% para hermanos sujeto a condiciones.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Etapa para más adelante. El niño aún no alcanza la edad mínima.
+
+**Oscar:** Etapa para más adelante. El niño aún no alcanza la edad mínima.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma y precio final con el operador.
+
+### RoboRush
+
+**Fechas / estado:** 2027-01-03 — 2027-01-06
+
+**lugar:** AUC New Cairo campus · Cairo
+
+**edad:** 12–16 años
+
+**Precio:** EGP 4500 por 4 días con materiales.
+
+- 2027-01-03 · 09:00–16:00 · Africa/Cairo · Montaje de un robot autónomo con sensores y motores, programación y pruebas en carrera.
+
+- 2027-01-04 · 09:00–16:00 · Africa/Cairo · Montaje de un robot autónomo con sensores y motores, programación y pruebas en carrera.
+
+- 2027-01-05 · 09:00–16:00 · Africa/Cairo · Montaje de un robot autónomo con sensores y motores, programación y pruebas en carrera.
+
+- 2027-01-06 · 09:00–16:00 · Africa/Cairo · Montaje de un robot autónomo con sensores y motores, programación y pruebas en carrera.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Etapa para más adelante. El niño aún no alcanza la edad mínima.
+
+**Oscar:** Etapa para más adelante. El niño aún no alcanza la edad mínima.
+
+[fuente](https://www.aucegypt.edu/academics/winteratauc/roborush-code-it-build-it-race-it)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.aucegypt.edu/academics/winteratauc/roborush-code-it-build-it-race-it) · 2026-11-07
+
+## CP1715 · AUC · AI Entrepreneurial Startup Lab
+
+Egipto · AUC New Cairo campus · Cairo
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 12–18 años
+
+**Idioma:** Confirmar idioma oral de enseñanza del grupo. La página del operador se publica en inglés.
+
+**Programa:** Prototipado con IA, validación de una idea de producto y presentación de una startup.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Días lectivos según calendario del organizador.
+
+**Precio / año:** 2027 · EGP 4500 por 4 días con materiales.
+
+**Incluido:** Clases y materiales necesarios. Certificado al cumplir requisitos de asistencia.
+
+**Suplementos:** Autobús con coste aparte. Se indica descuento del 10% para hermanos sujeto a condiciones.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Etapa para más adelante. El niño aún no alcanza la edad mínima.
+
+**Oscar:** Etapa para más adelante. El niño aún no alcanza la edad mínima.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma y precio final con el operador.
+
+### AI Entrepreneurial Startup Lab
+
+**Fechas / estado:** 2027-01-03 — 2027-01-06
+
+**lugar:** AUC New Cairo campus · Cairo
+
+**edad:** 12–18 años
+
+**Precio:** EGP 4500 por 4 días con materiales.
+
+- 2027-01-03 · 09:00–16:00 · Africa/Cairo · Prototipado con IA, validación de una idea de producto y presentación de una startup.
+
+- 2027-01-04 · 09:00–16:00 · Africa/Cairo · Prototipado con IA, validación de una idea de producto y presentación de una startup.
+
+- 2027-01-05 · 09:00–16:00 · Africa/Cairo · Prototipado con IA, validación de una idea de producto y presentación de una startup.
+
+- 2027-01-06 · 09:00–16:00 · Africa/Cairo · Prototipado con IA, validación de una idea de producto y presentación de una startup.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Etapa para más adelante. El niño aún no alcanza la edad mínima.
+
+**Oscar:** Etapa para más adelante. El niño aún no alcanza la edad mínima.
+
+[fuente](https://www.aucegypt.edu/academics/winteratauc/ai-entrepreneurial-startup-lab)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.aucegypt.edu/academics/winteratauc/ai-entrepreneurial-startup-lab) · 2026-11-07
+
+## CP1716 · Prime STEM Nigeria · STEMx Bootcamp 5.0
+
+Nigeria · En línea a nivel mundial y presencial en determinadas ciudades de África.
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 8–19 años
+
+**Idioma:** Confirmar idioma oral de enseñanza del grupo. La página del operador se publica en inglés.
+
+**Programa:** Programa híbrido de verano: montaje de robot, programación, entrenamiento de modelos de IA y presentación de proyecto. Niveles inicial, intermedio y avanzado.
+
+**Alojamiento:** En línea o presencial. Confirmar alojamiento para participantes presenciales.
+
+**Fechas / estado:** Intervalo general del 2 al 28 de agosto de 2027. Confirmar días de clase, huso horario y lista de ciudades presenciales.
+
+**Precio / año:** 2027 · Cuota de STEMx 2027 y contenido del kit sin publicar en el programa.
+
+**Incluido:** Cuota de STEMx 2027 y contenido del kit sin publicar en el programa.
+
+**Suplementos:** Cuota de STEMx 2027 y contenido del kit sin publicar en el programa.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Cumple la edad publicada. Confirmar disponibilidad.
+
+**Oscar:** Etapa para más adelante. El niño aún no alcanza la edad mínima.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### STEMx Bootcamp 5.0
+
+**Fechas / estado:** 2027-08-02 — 2027-08-28
+
+**Precio:** Cuota de STEMx 2027 y contenido del kit sin publicar en el programa.
+
+[fuente](https://primestemnigeria.afristemglobal.org/programs/international-stemx-boot-camp)
+
+### Fuentes
+
+- [Página oficial del organizador](https://primestemnigeria.afristemglobal.org/programs/international-stemx-boot-camp) · 2026-11-07
+
+- [Página oficial del organizador](https://www.afristemglobal.org/events) · 2026-11-07
+
+## CP1717 · The MakersPlace · Weekend Robotics and Coding
+
+Ghana · Accra · branches vary
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 5–18 años
+
+**Idioma:** Confirmar idioma oral de enseñanza del grupo. La página del operador se publica en inglés.
+
+**Programa:** Robótica, programación y electrónica en clubes de fin de semana y extraescolares.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Clases regulares. Las fechas y horas del grupo elegido se acuerdan con el operador.
+
+**Precio / año:** 2026 · Precio sin publicar.
+
+**Incluido:** Precio sin publicar.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Cumple la edad publicada. Confirmar disponibilidad.
+
+**Oscar:** Cumple la edad publicada. Confirmar disponibilidad.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Fuentes
+
+- [Página oficial del organizador](https://makersplacegh.com/) · 2026-11-07
+
+- [Página oficial del organizador](https://makersplacegh.com/our-courses/weekend-and-after-school-robotic-classes/) · 2026-11-07
+
+## CP1718 · TechSpace · RoboPlay
+
+Nigeria · TechSpace · Wuye · Abuja
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 6–9 años
+
+**Idioma:** Confirmar idioma oral de enseñanza del grupo. La página del operador se publica en inglés.
+
+**Programa:** Sábado 10:00–12:00. Montaje del primer robot y programación por bloques.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Horario regular los sábados. Confirmar próxima inscripción, dirección del grupo y plazas.
+
+**Precio / año:** 2026 · Precio sin publicar.
+
+**Incluido:** Precio sin publicar.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Cumple la edad publicada. Confirmar disponibilidad.
+
+**Oscar:** Cumple la edad publicada. Confirmar disponibilidad.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Fuentes
+
+- [Página oficial del organizador](https://techspace.ng/) · 2026-11-07
+
+- [Página oficial del organizador](https://techspace.ng/about-us/) · 2026-11-07
+
+## CP1719 · TechSpace · Game Design Studio
+
+Nigeria · TechSpace · Wuye · Abuja
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 8–12 años
+
+**Idioma:** Confirmar idioma oral de enseñanza del grupo. La página del operador se publica en inglés.
+
+**Programa:** Sábado 13:00–15:00. Historia del juego, personajes, niveles y mecánicas.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Horario regular los sábados. Confirmar próxima inscripción, dirección del grupo y plazas.
+
+**Precio / año:** 2026 · Precio sin publicar.
+
+**Incluido:** Precio sin publicar.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Cumple la edad publicada. Confirmar disponibilidad.
+
+**Oscar:** Etapa para más adelante. El niño aún no alcanza la edad mínima.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Fuentes
+
+- [Página oficial del organizador](https://techspace.ng/) · 2026-11-07
+
+- [Página oficial del organizador](https://techspace.ng/about-us/) · 2026-11-07
+
+## CP1720 · IMMERSIA · AI & XR Summer Tech Bootcamp
+
+Nigeria · Lagos · venue TBA
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 10–17 años en la última edición. Confirmar requisitos de 2027.
+
+**Idioma:** Confirmar idioma oral de enseñanza del grupo. La página del operador se publica en inglés.
+
+**Programa:** Aplicación con IA, mundo virtual, emprendimiento tecnológico y presentación final. Confirmar asignaturas de 2027.
+
+**Alojamiento:** Confirmar modalidad presencial y alojamiento de 2027.
+
+**Fechas / estado:** El organizador anuncia el regreso en verano de 2027. Fechas concretas y tarifa de 2027 pendientes.
+
+**Precio / año:** 2027 · Precio sin publicar.
+
+**Incluido:** Precio sin publicar.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Condicional si cumple 10 años al inicio del turno. Confirmar la edad de la próxima edición.
+
+**Oscar:** Etapa para más adelante. El niño aún no alcanza la edad mínima.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.aixrbootcamp.com/) · 2026-11-07
+
+## CP1721 · iSchool · Tech Explorers
+
+Egipto · Clases en directo en línea desde casa.
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 6–7 años. Programa según edad y grado.
+
+**Idioma:** El operador indica docentes para grupos en inglés y árabe. Confirmar disponibilidad del grupo en inglés en el horario deseado.
+
+**Programa:** Programas iniciales: proyectos interactivos en Code.org y fundamentos de programación por bloques.
+
+**Alojamiento:** Clases en directo en línea desde casa.
+
+**Fechas / estado:** Clases regulares. Las fechas y horas del grupo elegido se acuerdan con el operador.
+
+**Precio / año:** 2026 · Precio sin publicar.
+
+**Incluido:** Precio sin publicar.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Cumple la edad publicada. Confirmar disponibilidad.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Fuentes
+
+- [Página oficial del organizador](https://ischool.ai/curriculum) · 2026-11-07
+
+- [Página oficial del organizador](https://ischool.ai/students) · 2026-11-07
+
+- [Página oficial del organizador](https://ischooltech.webflow.io/) · 2026-11-07
+
+## CP1722 · iSchool · Code and Arcade
+
+Egipto · Clases en directo en línea desde casa.
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 8–9 años. Programa según edad y grado.
+
+**Idioma:** El operador indica docentes para grupos en inglés y árabe. Confirmar disponibilidad del grupo en inglés en el horario deseado.
+
+**Programa:** Minecraft Education, algoritmos, aplicaciones móviles de arcade y proyectos de juegos. El itinerario depende del grado.
+
+**Alojamiento:** Clases en directo en línea desde casa.
+
+**Fechas / estado:** Clases regulares. Las fechas y horas del grupo elegido se acuerdan con el operador.
+
+**Precio / año:** 2026 · Precio sin publicar.
+
+**Incluido:** Precio sin publicar.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Cumple la edad publicada. Confirmar disponibilidad.
+
+**Oscar:** Etapa para más adelante. El niño aún no alcanza la edad mínima.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Fuentes
+
+- [Página oficial del organizador](https://ischool.ai/curriculum) · 2026-11-07
+
+- [Página oficial del organizador](https://ischool.ai/students) · 2026-11-07
+
+- [Página oficial del organizador](https://ischooltech.webflow.io/) · 2026-11-07
 
 ## ~ Comprobaciones no cerradas
 
