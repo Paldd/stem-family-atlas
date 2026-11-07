@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 7593; competiciones: 3165; eventos: 330; campamentos / programas: 4098. Perfiles de ligas y programas: 265. Fichas de exposiciones grandes y especializadas: 242 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 7634; competiciones: 3190; eventos: 335; campamentos / programas: 4109. Perfiles de ligas y programas: 268. Fichas de exposiciones grandes y especializadas: 247 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros concretos de 158 de 249 países y territorios; países auditados por completo: 0. Revisión histórica v51: se añadieron 21 fichas y 3 perfiles. Todas las fichas anteriores se conservan.
 
@@ -18,12 +18,12 @@ Hay registros concretos de 158 de 249 países y territorios; países auditados p
 | América del Sur | 10 | 203 | 11 | 136 |
 | Europa | 42 | 432 | 80 | 1298 |
 | África | 34 | 115 | 15 | 68 |
-| Asia | 44 | 752 | 84 | 1398 |
+| Asia | 44 | 777 | 89 | 1409 |
 | Oceanía | 5 | 119 | 3 | 114 |
 
 Fichas interregionales o globales sin un único continente asignado: 114. América del Norte incluye Centroamérica y el Caribe. Las cifras muestran el inventario del atlas y no un porcentaje de exhaustividad.
 
-VEX: 518 de 3165 fichas de competiciones (16.4%). Hay un claro desequilibrio en la cobertura.
+VEX: 518 de 3190 fichas de competiciones (16.2%). Hay un claro desequilibrio en la cobertura.
 
 ## Lo que queda
 
@@ -289,6 +289,9 @@ VEX: 518 de 3165 fichas de competiciones (16.4%). Hay un claro desequilibrio en 
 - **PRONAFECYT · Costa Rica**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.mep.go.cr/noticias/calendario-escolar-2027-clases-1o-marzo-30-noviembre
 - **Eurobot Spain · Junior / Novel**: 3 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.eurobot.es/inscripcion-de-equipo/
 - **FIRST Tech Challenge France · BIOBUZZ**: 7 fichas, 7 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.ledefirobotique.fr/
+- **RoboCup Korea Open · RCJ / RCAP / Basic**: 9 fichas, 9 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://robocupkorea.org/notices/40bb8588-54e0-81a0-9c14-c54109c9dd97
+- **ENJOY AI Korea**: 11 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://enjoyaikorea.org/en
+- **World Robot Contest Malaysia · IntelekEDU**: 2 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://intelek.edu.my/competitions/
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 10 tarjetas, 0 con fechas exactas futuras. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -575,6 +578,11 @@ VEX: 518 de 3165 fichas de competiciones (16.4%). Hay un claro desequilibrio en 
 - **The Draw Card Show · Gaming & TCG** — Costa Rica; 2026-11-15. el permiso de entrada de niños. https://www.yokaicr.com/evento.php?slug=the-draw
 - **Animecon Obregón 2026 · Gaming** — México; 2026-12-20. con un adulto; condiciones de admisión adulta por separado. https://www.animecon.mx/
 - **Never Ending Evolution 2027 · AI & Technology** — México; 2027-04-21 – 2027-04-22. el permiso de entrada de niños. https://needed.education/nevo2027/
+- **Smart Tech Korea 2027 · Robot Tech & Physical AI** — Corea del Sur; 2027-06-02 – 2027-06-04. Los niños del 6/9 no pueden. https://en.smarttechkorea.com/Exhibition
+- **DSK 2027 · Drone Show Korea** — Corea del Sur; 2027-02-24 – 2027-02-26. el permiso de entrada de niños. https://eng.droneshowkorea.com/
+- **METALTECH & AUTOMEX 2027 · Kuala Lumpur** — Malasia; 2027-05-05 – 2027-05-08. Los niños del 6/9 no pueden. https://www.metaltech.com.my/automex-kuala-lumpur/
+- **AIMX 2027 · AI Malaysia World Expo** — Malasia; 2027-04-20 – 2027-04-22. el permiso de entrada de niños. https://aimalaysiaexpo.com/
+- **Seoul Robot & AI Museum · RAIM** — Corea del Sur; fecha sin indicar. Con un adulto; condiciones de admisión adulta por separado. https://science.seoul.go.kr/RAIM/content.do?key=2412270001&menuTy=sc_exhi
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

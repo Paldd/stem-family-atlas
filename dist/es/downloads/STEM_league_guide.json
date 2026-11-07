@@ -19352,6 +19352,342 @@
         "evidence": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado."
       },
       {
+        "id": "robocup-korea-open",
+        "name": "RoboCup Korea Open · RCJ / RCAP / Basic",
+        "group": "regional",
+        "age_summary": "La edad y grado dependen de la disciplina. Hay divisiones infantiles.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Equipo inscrito según reglamento de la disciplina.",
+        "route": "Una solicitud por equipo. Se admiten equipos del extranjero. Plazo el 15 de diciembre de 2026, 23:59 KST. En Costa Rica es el 15 de diciembre, 08:59.",
+        "hardware": "",
+        "language": "Confirmar el idioma del grupo o sede concretos.",
+        "importance": "Torneo internacional abierto",
+        "strengths": [
+          "Equipo inscrito según reglamento de la disciplina."
+        ],
+        "requirements": [
+          "La edad y grado dependen de la disciplina. Hay divisiones infantiles."
+        ],
+        "nuances": [
+          "Ventana general del 29 al 31 de enero de 2027. Día y hora de cada disciplina se comunicarán al representante del equipo."
+        ],
+        "cost": "Precio sin publicar.",
+        "award": "Resultado y premios según acta. La clasificación a otros torneos se verifica por separado.",
+        "categories": [
+          {
+            "name": "RoboCup Korea Open 2027",
+            "age": "La edad y grado dependen de la disciplina. Hay divisiones infantiles.",
+            "team": "Equipo inscrito según reglamento de la disciplina.",
+            "hardware": "",
+            "age_rule": "La edad y grado dependen de la disciplina. Hay divisiones infantiles.",
+            "entry": "Una solicitud por equipo. Se admiten equipos del extranjero. Plazo el 15 de diciembre de 2026, 23:59 KST. En Costa Rica es el 15 de diciembre, 08:59."
+          },
+          {
+            "name": "RoboCup Korea Open · Soccer Infrared · U12",
+            "age": "Se anuncia U12. Confirmar el mínimo para esta categoría coreana.",
+            "team": "Equipo inscrito según reglamento de la disciplina.",
+            "hardware": "Dos robots autónomos para fútbol con balón infrarrojo.",
+            "age_rule": "Se anuncia U12. Confirmar el mínimo para esta categoría coreana.",
+            "entry": "Una solicitud por equipo. Se admiten equipos del extranjero. Plazo el 15 de diciembre de 2026, 23:59 KST. En Costa Rica es el 15 de diciembre, 08:59."
+          },
+          {
+            "name": "RoboCup Korea Open · Rescue Line · U12",
+            "age": "Se anuncia U12. Confirmar el mínimo para esta categoría coreana.",
+            "team": "Equipo inscrito según reglamento de la disciplina.",
+            "hardware": "Robot autónomo recorre línea, obstáculos y traslado de objetos.",
+            "age_rule": "Se anuncia U12. Confirmar el mínimo para esta categoría coreana.",
+            "entry": "Una solicitud por equipo. Se admiten equipos del extranjero. Plazo el 15 de diciembre de 2026, 23:59 KST. En Costa Rica es el 15 de diciembre, 08:59."
+          },
+          {
+            "name": "RoboCup Korea Open · Rescue Maze · Primary",
+            "age": "El PDF local indica edad máxima de 13 años. Confirmar edad mínima y fecha de corte.",
+            "team": "Equipo de 2–4 participantes.",
+            "hardware": "El robot localiza víctimas en el laberinto y entrega el kit de rescate.",
+            "age_rule": "El PDF local indica edad máxima de 13 años. Confirmar edad mínima y fecha de corte.",
+            "entry": "Una solicitud por equipo. Se admiten equipos del extranjero. Plazo el 15 de diciembre de 2026, 23:59 KST. En Costa Rica es el 15 de diciembre, 08:59."
+          },
+          {
+            "name": "RoboCup Korea Open · OnStage · U12",
+            "age": "Se anuncia U12. Confirmar el mínimo para esta categoría coreana.",
+            "team": "Equipo inscrito según reglamento de la disciplina.",
+            "hardware": "Actuación con robots autónomos, video técnico, póster y entrevista.",
+            "age_rule": "Se anuncia U12. Confirmar el mínimo para esta categoría coreana.",
+            "entry": "Una solicitud por equipo. Se admiten equipos del extranjero. Plazo el 15 de diciembre de 2026, 23:59 KST. En Costa Rica es el 15 de diciembre, 08:59."
+          },
+          {
+            "name": "RoboCup Korea Open · RCAP CoSpace Rescue · U12",
+            "age": "7–12 años al 1 de julio de 2027.",
+            "team": "Equipo de 2–4 participantes.",
+            "hardware": "El reglamento U12 incluye escenarios físico y virtual. Montaje y entorno según reglamento.",
+            "age_rule": "7–12 años al 1 de julio de 2027.",
+            "entry": "Una solicitud por equipo. Se admiten equipos del extranjero. Plazo el 15 de diciembre de 2026, 23:59 KST. En Costa Rica es el 15 de diciembre, 08:59."
+          },
+          {
+            "name": "RoboCup Korea Open · RCAP CoSpace Autonomous Driving · U12",
+            "age": "7–12 años al 1 de julio de 2027.",
+            "team": "Equipo de 1–4 participantes. Este reglamento permite competir individualmente.",
+            "hardware": "Programación de un vehículo virtual en un modelo de ciudad inteligente.",
+            "age_rule": "7–12 años al 1 de julio de 2027.",
+            "entry": "Una solicitud por equipo. Se admiten equipos del extranjero. Plazo el 15 de diciembre de 2026, 23:59 KST. En Costa Rica es el 15 de diciembre, 08:59."
+          },
+          {
+            "name": "RoboCup Korea Open · Rescue Basic · U12",
+            "age": "Grados 3–6 de primaria según reglamento de Corea. Confirmar equivalencia en el extranjero.",
+            "team": "2–4 alumnos y un mentor. El mentor no controla el robot durante la prueba.",
+            "hardware": "Un robot y un controlador. Confirmar reglas independientes de Rookie.",
+            "age_rule": "Grados 3–6 de primaria según reglamento de Corea. Confirmar equivalencia en el extranjero.",
+            "entry": "Una solicitud por equipo. Se admiten equipos del extranjero. Plazo el 15 de diciembre de 2026, 23:59 KST. En Costa Rica es el 15 de diciembre, 08:59."
+          },
+          {
+            "name": "RoboCup Korea Open · Rescue Maze Basic · U12",
+            "age": "Grados 3–6 de primaria según reglamento de Corea. Confirmar equivalencia en el extranjero.",
+            "team": "Equipo de 2–4 participantes.",
+            "hardware": "Laberinto. Un participante en un equipo y un equipo en una disciplina.",
+            "age_rule": "Grados 3–6 de primaria según reglamento de Corea. Confirmar equivalencia en el extranjero.",
+            "entry": "Una solicitud por equipo. Se admiten equipos del extranjero. Plazo el 15 de diciembre de 2026, 23:59 KST. En Costa Rica es el 15 de diciembre, 08:59."
+          }
+        ],
+        "event_ids": [
+          "C3167",
+          "C3168",
+          "C3169",
+          "C3170",
+          "C3171",
+          "C3172",
+          "C3173",
+          "C3174",
+          "C3175"
+        ],
+        "legacy_ids": [],
+        "sources": [
+          {
+            "url": "https://robocupkorea.org/notices/40bb8588-54e0-81a0-9c14-c54109c9dd97",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://robocupkorea.org/notices/3fcb8588-54e0-81af-ae3c-da886d75fce9",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://www.robocupkorea.org/notices/3e1b8588-54e0-803d-aa21-ec06b3c2005b",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          }
+        ],
+        "evidence": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado."
+      },
+      {
+        "id": "enjoy-ai-korea-season",
+        "name": "ENJOY AI Korea",
+        "group": "regional",
+        "age_summary": "Hay primaria y secundaria. Edad, tamaño de equipo y equipo técnico según el reglamento de la disciplina.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Equipo inscrito según reglamento de la disciplina.",
+        "route": "Inscripción de la temporada coreana del 1 al 28 de febrero de 2027. Inscripción y soporte en coreano. Sin confirmación aparte para equipos que estudian en el extranjero.",
+        "hardware": "WhalesBot",
+        "language": "Confirmar el idioma del grupo o sede concretos.",
+        "importance": "Programa nacional",
+        "strengths": [
+          "Equipo inscrito según reglamento de la disciplina."
+        ],
+        "requirements": [
+          "Hay primaria y secundaria. Edad, tamaño de equipo y equipo técnico según el reglamento de la disciplina."
+        ],
+        "nuances": [
+          "Final por la vía nacional tras etapas regionales. Confirmar por separado la participación extranjera y el derecho a clasificación."
+        ],
+        "cost": "Precio sin publicar.",
+        "award": "Resultado y premios según acta. La clasificación a otros torneos se verifica por separado.",
+        "categories": [
+          {
+            "name": "ENJOY AI Korea · 2027 season",
+            "age": "Hay primaria y secundaria. Edad, tamaño de equipo y equipo técnico según el reglamento de la disciplina.",
+            "team": "Equipo inscrito según reglamento de la disciplina.",
+            "hardware": "WhalesBot",
+            "age_rule": "Hay primaria y secundaria. Edad, tamaño de equipo y equipo técnico según el reglamento de la disciplina.",
+            "entry": "Inscripción de la temporada coreana del 1 al 28 de febrero de 2027. Inscripción y soporte en coreano. Sin confirmación aparte para equipos que estudian en el extranjero."
+          },
+          {
+            "name": "ENJOY AI Korea · Seoul & Gyeonggi",
+            "age": "Hay primaria y secundaria. Edad, tamaño de equipo y equipo técnico según el reglamento de la disciplina.",
+            "team": "Equipo inscrito según reglamento de la disciplina.",
+            "hardware": "WhalesBot",
+            "age_rule": "Hay primaria y secundaria. Edad, tamaño de equipo y equipo técnico según el reglamento de la disciplina.",
+            "entry": "Inscripción de la temporada coreana del 1 al 28 de febrero de 2027. Inscripción y soporte en coreano. Sin confirmación aparte para equipos que estudian en el extranjero."
+          },
+          {
+            "name": "ENJOY AI Korea · Daejeon & Chungnam",
+            "age": "Hay primaria y secundaria. Edad, tamaño de equipo y equipo técnico según el reglamento de la disciplina.",
+            "team": "Equipo inscrito según reglamento de la disciplina.",
+            "hardware": "WhalesBot",
+            "age_rule": "Hay primaria y secundaria. Edad, tamaño de equipo y equipo técnico según el reglamento de la disciplina.",
+            "entry": "Inscripción de la temporada coreana del 1 al 28 de febrero de 2027. Inscripción y soporte en coreano. Sin confirmación aparte para equipos que estudian en el extranjero."
+          },
+          {
+            "name": "ENJOY AI Korea · Busan, Gwangju & Jeju",
+            "age": "Hay primaria y secundaria. Edad, tamaño de equipo y equipo técnico según el reglamento de la disciplina.",
+            "team": "Equipo inscrito según reglamento de la disciplina.",
+            "hardware": "WhalesBot",
+            "age_rule": "Hay primaria y secundaria. Edad, tamaño de equipo y equipo técnico según el reglamento de la disciplina.",
+            "entry": "Inscripción de la temporada coreana del 1 al 28 de febrero de 2027. Inscripción y soporte en coreano. Sin confirmación aparte para equipos que estudian en el extranjero."
+          },
+          {
+            "name": "ENJOY AI Korea · National Final",
+            "age": "Hay primaria y secundaria. Edad, tamaño de equipo y equipo técnico según el reglamento de la disciplina.",
+            "team": "Equipo inscrito según reglamento de la disciplina.",
+            "hardware": "WhalesBot",
+            "age_rule": "Hay primaria y secundaria. Edad, tamaño de equipo y equipo técnico según el reglamento de la disciplina.",
+            "entry": "Inscripción de la temporada coreana del 1 al 28 de febrero de 2027. Inscripción y soporte en coreano. Sin confirmación aparte para equipos que estudian en el extranjero."
+          },
+          {
+            "name": "ENJOY AI Korea · Ancient Civilizations",
+            "age": "Preescolar y primaria. Grupos según reglamento publicado.",
+            "team": "1–2 participantes y 1 entrenador. División según grado.",
+            "hardware": "WhalesBot",
+            "age_rule": "Preescolar y primaria. Grupos según reglamento publicado.",
+            "entry": "Inscripción de la temporada coreana del 1 al 28 de febrero de 2027. Inscripción y soporte en coreano. Sin confirmación aparte para equipos que estudian en el extranjero."
+          },
+          {
+            "name": "ENJOY AI Korea · Mining Expedition",
+            "age": "Grados 1–3 y 4–6 de primaria, según categoría.",
+            "team": "2 participantes y 1 entrenador. División según grado.",
+            "hardware": "WhalesBot",
+            "age_rule": "Grados 1–3 y 4–6 de primaria, según categoría.",
+            "entry": "Inscripción de la temporada coreana del 1 al 28 de febrero de 2027. Inscripción y soporte en coreano. Sin confirmación aparte para equipos que estudian en el extranjero."
+          },
+          {
+            "name": "ENJOY AI Korea · Drone Cup",
+            "age": "Preescolar y primaria. Grupos según reglamento publicado.",
+            "team": "2 participantes y 1 entrenador. División según grado.",
+            "hardware": "WhalesBot",
+            "age_rule": "Preescolar y primaria. Grupos según reglamento publicado.",
+            "entry": "Inscripción de la temporada coreana del 1 al 28 de febrero de 2027. Inscripción y soporte en coreano. Sin confirmación aparte para equipos que estudian en el extranjero."
+          },
+          {
+            "name": "ENJOY AI Korea · Skyline Adventures",
+            "age": "Grados 1–3 y 4–6 de primaria, según categoría.",
+            "team": "1 participantes y 1 entrenador. División según grado.",
+            "hardware": "WhalesBot",
+            "age_rule": "Grados 1–3 y 4–6 de primaria, según categoría.",
+            "entry": "Inscripción de la temporada coreana del 1 al 28 de febrero de 2027. Inscripción y soporte en coreano. Sin confirmación aparte para equipos que estudian en el extranjero."
+          },
+          {
+            "name": "ENJOY AI Korea · Inventions Trail",
+            "age": "Grados 1–3 y 4–6 de primaria, según categoría.",
+            "team": "2 participantes y 1 entrenador. División según grado.",
+            "hardware": "WhalesBot",
+            "age_rule": "Grados 1–3 y 4–6 de primaria, según categoría.",
+            "entry": "Inscripción de la temporada coreana del 1 al 28 de febrero de 2027. Inscripción y soporte en coreano. Sin confirmación aparte para equipos que estudian en el extranjero."
+          },
+          {
+            "name": "ENJOY AI Korea · Battle of Stars",
+            "age": "Grados 1–3 y 4–6 de primaria, según categoría.",
+            "team": "2 participantes y 1 entrenador. División según grado.",
+            "hardware": "WhalesBot",
+            "age_rule": "Grados 1–3 y 4–6 de primaria, según categoría.",
+            "entry": "Inscripción de la temporada coreana del 1 al 28 de febrero de 2027. Inscripción y soporte en coreano. Sin confirmación aparte para equipos que estudian en el extranjero."
+          }
+        ],
+        "event_ids": [
+          "C3178",
+          "C3179",
+          "C3180",
+          "C3181",
+          "C3182",
+          "C3183",
+          "C3184",
+          "C3185",
+          "C3186",
+          "C3187",
+          "C3188"
+        ],
+        "legacy_ids": [],
+        "sources": [
+          {
+            "url": "https://enjoyaikorea.org/en",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://enjoyaikorea.org/events",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          }
+        ],
+        "evidence": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado."
+      },
+      {
+        "id": "wrc-malaysia-intelek",
+        "name": "World Robot Contest Malaysia · IntelekEDU",
+        "group": "regional",
+        "age_summary": "La organización indica 5–12 años. Fecha de corte sin publicar.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Equipo inscrito según reglamento de la disciplina.",
+        "route": "La organización invita a equipos para la temporada 2027. Fecha, sede, cupo local y admisión internacional de la etapa concreta pendientes de confirmación.",
+        "hardware": "ZMROBO Alpha Series",
+        "language": "Confirmar el idioma del grupo o sede concretos.",
+        "importance": "Programa nacional",
+        "strengths": [
+          "Equipo inscrito según reglamento de la disciplina."
+        ],
+        "requirements": [
+          "La organización indica 5–12 años. Fecha de corte sin publicar."
+        ],
+        "nuances": [
+          "La clasificación desde la etapa nacional se verifica en el reglamento 2027. No se trasladan fechas de ediciones anteriores."
+        ],
+        "cost": "Precio sin publicar.",
+        "award": "Resultado y premios según acta. La clasificación a otros torneos se verifica por separado.",
+        "categories": [
+          {
+            "name": "World Robot Contest Malaysia · Alpha Challenge",
+            "age": "La organización indica 5–12 años. Fecha de corte sin publicar.",
+            "team": "Equipo inscrito según reglamento de la disciplina.",
+            "hardware": "ZMROBO Alpha Series",
+            "age_rule": "La organización indica 5–12 años. Fecha de corte sin publicar.",
+            "entry": "La organización invita a equipos para la temporada 2027. Fecha, sede, cupo local y admisión internacional de la etapa concreta pendientes de confirmación."
+          },
+          {
+            "name": "World Robot Contest Malaysia · Super AI Challenge",
+            "age": "La organización indica 7–18 años. Fecha de corte sin publicar.",
+            "team": "Equipo inscrito según reglamento de la disciplina.",
+            "hardware": "Intelligent Storm",
+            "age_rule": "La organización indica 7–18 años. Fecha de corte sin publicar.",
+            "entry": "La organización invita a equipos para la temporada 2027. Fecha, sede, cupo local y admisión internacional de la etapa concreta pendientes de confirmación."
+          }
+        ],
+        "event_ids": [
+          "C3189",
+          "C3190"
+        ],
+        "legacy_ids": [],
+        "sources": [
+          {
+            "url": "https://intelek.edu.my/competitions/",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          }
+        ],
+        "evidence": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado."
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · programa de ingeniería y showcase",
         "group": "regional",
@@ -24778,7 +25114,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "Perfiles de ligas, familias y programas: 265. Se conservaron las 46 rutas previas. Los formatos brasileños están separados, y Robofest LATAM y BajaBot locales se describen según sus categorías. La cobertura mundial es parcial.",
+    "methodology": "Perfiles de ligas, familias y programas: 268; se conservaron las 46 rutas anteriores. Los formatos brasileños se distinguen y Robofest LATAM y BajaBot se describen por categorías. La cobertura mundial es parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

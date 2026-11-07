@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 7593; соревнований: 3165; событий: 330; лагерей / программ: 4098. Профилей лиг и программ: 265. Карточек крупных и профильных выставок: 242 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 7634; соревнований: 3190; событий: 335; лагерей / программ: 4109. Профилей лиг и программ: 268. Карточек крупных и профильных выставок: 247 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 158 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -18,12 +18,12 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 | Южная Америка | 10 | 203 | 11 | 136 |
 | Европа | 42 | 432 | 80 | 1298 |
 | Африка | 34 | 115 | 15 | 68 |
-| Азия | 44 | 752 | 84 | 1398 |
+| Азия | 44 | 777 | 89 | 1409 |
 | Океания | 5 | 119 | 3 | 114 |
 
 Межрегиональные / глобальные карточки, не приписанные одному континенту: 114. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
 
-VEX: 518 из 3165 карточек соревнований (16.4%). Это явный перекос охвата.
+VEX: 518 из 3190 карточек соревнований (16.2%). Это явный перекос охвата.
 
 ## Что осталось
 
@@ -289,6 +289,9 @@ VEX: 518 из 3165 карточек соревнований (16.4%). Это я�
 - **PRONAFECYT · Costa Rica**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.mep.go.cr/noticias/calendario-escolar-2027-clases-1o-marzo-30-noviembre
 - **Eurobot Spain · Junior / Novel**: 3 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.eurobot.es/inscripcion-de-equipo/
 - **FIRST Tech Challenge France · BIOBUZZ**: 7 карточек, 7 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.ledefirobotique.fr/
+- **RoboCup Korea Open · RCJ / RCAP / Basic**: 9 карточек, 9 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://robocupkorea.org/notices/40bb8588-54e0-81a0-9c14-c54109c9dd97
+- **ENJOY AI Korea**: 11 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://enjoyaikorea.org/en
+- **World Robot Contest Malaysia · IntelekEDU**: 2 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://intelek.edu.my/competitions/
 - **The Tech Challenge · инженерная программа и showcase**: 0 карточек, 0 с будущими точными датами. Учебная / посещаемая программа; конкурсных этапов нет. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · локальные дисциплины**: 10 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · младшая демонстрация и Mini Sumo**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -575,6 +578,11 @@ VEX: 518 из 3165 карточек соревнований (16.4%). Это я�
 - **The Draw Card Show · Gaming & TCG** — Коста-Рика; 2026-11-15. Детский допуск уточнить. https://www.yokaicr.com/evento.php?slug=the-draw
 - **Animecon Obregón 2026 · Gaming** — Мексика; 2026-12-20. Со взрослым; условия взрослого входа отдельно. https://www.animecon.mx/
 - **Never Ending Evolution 2027 · AI & Technology** — Мексика; 2027-04-21 – 2027-04-22. Детский допуск уточнить. https://needed.education/nevo2027/
+- **Smart Tech Korea 2027 · Robot Tech & Physical AI** — Республика Корея; 2027-06-02 – 2027-06-04. Детям 6/9 нельзя. https://en.smarttechkorea.com/Exhibition
+- **DSK 2027 · Drone Show Korea** — Республика Корея; 2027-02-24 – 2027-02-26. Детский допуск уточнить. https://eng.droneshowkorea.com/
+- **METALTECH & AUTOMEX 2027 · Kuala Lumpur** — Малайзия; 2027-05-05 – 2027-05-08. Детям 6/9 нельзя. https://www.metaltech.com.my/automex-kuala-lumpur/
+- **AIMX 2027 · AI Malaysia World Expo** — Малайзия; 2027-04-20 – 2027-04-22. Детский допуск уточнить. https://aimalaysiaexpo.com/
+- **Seoul Robot & AI Museum · RAIM** — Республика Корея; дата неизвестна. Со взрослым; условия взрослого входа отдельно. https://science.seoul.go.kr/RAIM/content.do?key=2412270001&menuTy=sc_exhi
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors

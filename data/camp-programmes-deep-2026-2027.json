@@ -30,12 +30,12 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1671,
-    "countries": 92,
+    "dossiers": 1678,
+    "countries": 93,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 233,
-      "published_2027": 466,
+      "published_2027": 472,
       "partial_2027": 130,
       "next_unannounced": 345,
       "published_2026": 296,
@@ -45,10 +45,10 @@
       "regular_programme": 10,
       "regular_2026_27": 2,
       "historical_2026_next_season_unknown": 1,
-      "announced_dates_programme_pending": 3,
+      "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2394
+    "source_urls": 2397
   },
   "countries": [
     {
@@ -225,7 +225,7 @@
     },
     {
       "country": "Малайзия",
-      "count": 16
+      "count": 17
     },
     {
       "country": "Мальдивские Острова",
@@ -297,6 +297,10 @@
     },
     {
       "country": "Пуэрто-Рико",
+      "count": 6
+    },
+    {
+      "country": "Республика Корея",
       "count": 6
     },
     {
@@ -100334,7 +100338,7 @@
       "provider": "D.CAMPS · Daewon English STEM Winter",
       "country": "Южная Корея",
       "iso": "KOR",
-      "place": "Daewon Campus · Seoul Gwangjin-gu",
+      "place": "Daewon Campus · Gwangjin-gu · Seoul",
       "themes": [
         "robotics",
         "ai",
@@ -100345,15 +100349,15 @@
       "formats": [
         "day"
       ],
-      "age": "Зимний кампус: 1–6 классы; Coding & Robotics / Art & Technology 1–3; AI и Astronaut 4–6.",
-      "language": "Объявление 2027 подтверждает English programme; FAQ уточняет, что безопасность объясняют по-корейски. Перевод безопасности для иностранца ещё согласовать.",
+      "age": "1–3 классы начальной школы.",
+      "language": "Вся программа на английском.",
       "confirmed_instruction_languages": [
         "EN"
       ],
-      "programme": "CTEB 1–3: Ringbit с micro:bit, программируемый LEGO, сенсоры и миссии. Art & Technology 1–3: generative AI/медиаарт. Для 4–6: AI storytelling/presentation, космический rover и reverse engineering. Какие модули доступны в каждую неделю, ещё подтвердить по набору 2027. В регулярном наборе AI для Grades 4–6 указан только 18–22 января; для 11–15 января в дневном списке его нет.",
+      "programme": "Coding & Robotics. Блочное программирование, робототехнические задания и сборка по учебному модулю.",
       "timing": {
         "status": "published_2027",
-        "label": "11–15 и 18–22 января 2027, 09:00–14:30. По 15 детей на curriculum. Даты старой Location страницы 2024 не использованы.",
+        "label": "11–15 и 18–22 января 2027, 09:00–14:30. Регулярная запись до 13 ноября 2026. Часы шаттла и свободные места уточнить.",
         "sessions": [
           [
             "2027-01-11",
@@ -100366,60 +100370,171 @@
         ],
         "session_details": [
           {
-            "variant_key": "2027-01-11",
             "start": "2027-01-11",
             "end": "2027-01-15",
-            "label": "Daewon · English STEM; класс/модуль подтвердить",
-            "price": "KRW 989000; обычный тариф",
+            "label": "Coding & Robotics",
             "source": "https://www.dcampskorea.com/post/2027-winter-daewon",
-            "date_scope": "day_camp_window",
-            "attendance_weekdays": [
-              "MO",
-              "TU",
-              "WE",
-              "TH",
-              "FR"
+            "price": "KRW 989000 за 5 дней. Шаттл оплачивается отдельно.",
+            "place": "Daewon Campus · Gwangjin-gu · Seoul",
+            "age": "1–3 классы начальной школы.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Условно по школьному классу. Подтвердить эквивалент класса и наличие места."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Условно по школьному классу. Подтвердить эквивалент класса и наличие места."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "topic": "Coding & Robotics. Блочное программирование, робототехнические задания и сборка по учебному модулю.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-12",
+                "topic": "Coding & Robotics. Блочное программирование, робототехнические задания и сборка по учебному модулю.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-13",
+                "topic": "Coding & Robotics. Блочное программирование, робототехнические задания и сборка по учебному модулю.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-14",
+                "topic": "Coding & Robotics. Блочное программирование, робототехнические задания и сборка по учебному модулю.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-15",
+                "topic": "Coding & Robotics. Блочное программирование, робототехнические задания и сборка по учебному модулю.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              }
             ],
-            "place": "Daewon Campus · Seoul Gwangjin-gu",
-            "proof": "Год и сроки прочитаны в собственном объявлении; место и приём семьи ещё не подтверждены."
+            "availability": {
+              "status": "unconfirmed",
+              "label": "На момент проверки организатор помечает модуль как почти заполненный. Наличие места уточнить."
+            },
+            "deadline": "2026-11-13",
+            "questions": [
+              "Подтвердить класс, техническую подготовку, иностранный допуск и действующее место до оплаты."
+            ],
+            "programme": "Coding & Robotics. Блочное программирование, робототехнические задания и сборка по учебному модулю.",
+            "variant_key": "2027-01-11"
           },
           {
-            "variant_key": "2027-01-18",
             "start": "2027-01-18",
             "end": "2027-01-22",
-            "label": "Daewon · English STEM; класс/модуль подтвердить",
-            "price": "KRW 989000; обычный тариф",
+            "label": "Coding & Robotics",
             "source": "https://www.dcampskorea.com/post/2027-winter-daewon",
-            "date_scope": "day_camp_window",
-            "attendance_weekdays": [
-              "MO",
-              "TU",
-              "WE",
-              "TH",
-              "FR"
+            "price": "KRW 989000 за 5 дней. Шаттл оплачивается отдельно.",
+            "place": "Daewon Campus · Gwangjin-gu · Seoul",
+            "age": "1–3 классы начальной школы.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Условно по школьному классу. Подтвердить эквивалент класса и наличие места."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Условно по школьному классу. Подтвердить эквивалент класса и наличие места."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "topic": "Coding & Robotics. Блочное программирование, робототехнические задания и сборка по учебному модулю.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-19",
+                "topic": "Coding & Robotics. Блочное программирование, робототехнические задания и сборка по учебному модулю.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-20",
+                "topic": "Coding & Robotics. Блочное программирование, робототехнические задания и сборка по учебному модулю.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-21",
+                "topic": "Coding & Robotics. Блочное программирование, робототехнические задания и сборка по учебному модулю.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-22",
+                "topic": "Coding & Robotics. Блочное программирование, робототехнические задания и сборка по учебному модулю.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              }
             ],
-            "place": "Daewon Campus · Seoul Gwangjin-gu",
-            "proof": "Год и сроки прочитаны в собственном объявлении; место и приём семьи ещё не подтверждены."
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "deadline": "2026-11-13",
+            "questions": [
+              "Подтвердить класс, техническую подготовку, иностранный допуск и действующее место до оплаты."
+            ],
+            "programme": "Coding & Robotics. Блочное программирование, робототехнические задания и сборка по учебному модулю.",
+            "variant_key": "2027-01-18"
           }
         ],
         "variant_keyed": true
       },
       "price": {
         "year": 2027,
-        "label": "KRW 989000 за пять дневных дней; сентябрьские 890100 уже не действуют.",
+        "label": "KRW 989000 за 5 дней. Шаттл оплачивается отдельно.",
         "included": "English STEM, подготовленные материалы; столовая/обед и медицинский педагог описаны в зимних инструкциях. Полный состав оплаченного пакета ещё сверить.",
-        "extras": "Школьный шаттл за доплату; семья живёт отдельно. Ноутбук/micro:bit, страховое покрытие, иностранный приём и итоговый счёт ещё подтвердить. В регулярном объявлении до 13.11.2026: 5% за двух участников и 10% за трёх, без сложения скидок. Сначала полная оплата; возврат скидки после проверки фактического участия.",
-        "deposit": "Собственные правила: до старта возврат 100% за 20 дней, 90% за 10, 80% за один; в день начала 70%, до половины смены 50%, затем нет. Применимость к выбранному набору, страховку и медицинские расходы иностранного ребёнка сверить по договору. Сентябрьская скидка закончилась 18.09.2026."
+        "extras": "На двоих KRW 1978000 при регистрации. При выполнении условий возврат 5% после участия. Расчётный итог KRW 1879100. Шаттл, страховка и расходы семьи отдельно.",
+        "deposit": "Собственные правила: до старта возврат 100% за 20 дней, 90% за 10, 80% за один; в день начала 70%, до половины смены 50%, затем нет. Применимость к выбранному набору, страховку и медицинские расходы иностранного ребёнка сверить по договору. Сентябрьская скидка закончилась 18.09.2026.",
+        "currency": "KRW",
+        "unit": "per_child_course",
+        "amount": 989000
       },
       "accommodation": "Дневной лагерь; шаттл формируют по адресам. Онлайн знакомство около пяти минут не является обязательным отборочным экзаменом.",
       "family_fit": {
         "matvey": {
           "status": "conditional",
-          "detail": "Требуется подтверждённый класс: 1–3 для CTEB либо 4–6 для AI. Из 2017 года рождения нельзя вывести нужный корейский класс."
+          "detail": "Условно по школьному классу. Подтвердить эквивалент класса и наличие места."
         },
         "oscar": {
           "status": "conditional",
-          "detail": "2020 год рождения не доказывает 1-й класс к январю. Если ещё дошкольник, стандартный набор 1–6 не подходит; отдельный junior intake не найден."
+          "detail": "Условно по школьному классу. Подтвердить эквивалент класса и наличие места."
         }
       },
       "editorial_reason": "Приоритетный английский технический кандидат Матвею с конкретным январским календарём; Оскару нужна проверка первого класса.",
@@ -100427,14 +100542,13 @@
         "technical"
       ],
       "questions": [
-        "Подтвердить эквивалент класса, EN сопровождение безопасности, индивидуальный иностранный приём и конкретный модуль недели.",
-        "SNU/Harvard упоминания оператора не означают университетские кредиты или внешнюю награду."
+        "Подтвердить класс, техническую подготовку, иностранный допуск и действующее место до оплаты."
       ],
       "sources": [
         {
-          "title": "Дневные даты, часы и шаттл",
           "url": "https://www.dcampskorea.com/post/2027-winter-daewon",
-          "checked": "2026-11-06"
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
         },
         {
           "title": "Текущий зимний набор: классы, цена и языки",
@@ -100442,9 +100556,9 @@
           "checked": "2026-11-06"
         },
         {
-          "title": "Программа по классам",
           "url": "https://www.dcampskorea.com/curriculum-dcampsenglishstem",
-          "checked": "2026-11-06"
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
         },
         {
           "title": "FAQ: English, Korean safety и группы",
@@ -100458,11 +100572,11 @@
         },
         {
           "url": "https://www.dcampskorea.com/post/2027-winter-dcamps",
-          "title": "D.CAMPS · 2027 Winter Regular Registration",
-          "checked": "2026-11-06"
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
         }
       ],
-      "checked": "2026-11-06",
+      "checked": "2026-11-07",
       "previous_source_checks": [
         {
           "title": "Дневные даты, часы и шаттл",
@@ -100494,6 +100608,16 @@
         "checked": "2026-11-06",
         "status": "editorial_review_and_targeted_refresh",
         "limits": "Обновлены редакционный разбор и указанные условия; открытие группы, места, индивидуальный приём и фактический персонал не подтверждены."
+      },
+      "pairing": {
+        "venue_id": "kor-daewon-gwangjin",
+        "verified_source": "https://www.dcampskorea.com/post/2027-winter-daewon",
+        "checked": "2026-11-07",
+        "fee": {
+          "amount": 989000,
+          "currency": "KRW",
+          "unit": "per_child_course"
+        }
       }
     },
     {
@@ -238815,6 +238939,1454 @@
       },
       "programme_type": "holiday_workshop",
       "catalog_participation": "holiday_workshop"
+    },
+    {
+      "id": "CP1672",
+      "slug": "daewon-winter-2027-art-technology",
+      "provider": "D.CAMPS Daewon · Art & Technology",
+      "country": "Республика Корея",
+      "iso": "KOR",
+      "place": "Daewon Campus · Gwangjin-gu · Seoul",
+      "themes": [
+        "technology",
+        "art",
+        "design"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "1–3 классы начальной школы.",
+      "language": "Вся программа на английском.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "Творческие технические проекты и дизайн.",
+      "timing": {
+        "status": "published_2027",
+        "label": "11–15 и 18–22 января 2027, 09:00–14:30. Регулярная запись до 13 ноября 2026. Часы шаттла и свободные места уточнить.",
+        "sessions": [
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "label": "Art & Technology",
+            "source": "https://www.dcampskorea.com/post/2027-winter-daewon",
+            "price": "KRW 989000 за 5 дней. Шаттл оплачивается отдельно.",
+            "place": "Daewon Campus · Gwangjin-gu · Seoul",
+            "age": "1–3 классы начальной школы.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Условно по школьному классу. Подтвердить эквивалент класса и наличие места."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Условно по школьному классу. Подтвердить эквивалент класса и наличие места."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "topic": "Творческие технические проекты и дизайн.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-12",
+                "topic": "Творческие технические проекты и дизайн.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-13",
+                "topic": "Творческие технические проекты и дизайн.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-14",
+                "topic": "Творческие технические проекты и дизайн.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-15",
+                "topic": "Творческие технические проекты и дизайн.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "На момент проверки организатор помечает модуль как почти заполненный. Наличие места уточнить."
+            },
+            "deadline": "2026-11-13",
+            "questions": [
+              "Подтвердить класс, техническую подготовку, иностранный допуск и действующее место до оплаты."
+            ],
+            "programme": "Творческие технические проекты и дизайн."
+          },
+          {
+            "start": "2027-01-18",
+            "end": "2027-01-22",
+            "label": "Art & Technology",
+            "source": "https://www.dcampskorea.com/post/2027-winter-daewon",
+            "price": "KRW 989000 за 5 дней. Шаттл оплачивается отдельно.",
+            "place": "Daewon Campus · Gwangjin-gu · Seoul",
+            "age": "1–3 классы начальной школы.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Условно по школьному классу. Подтвердить эквивалент класса и наличие места."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Условно по школьному классу. Подтвердить эквивалент класса и наличие места."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "topic": "Творческие технические проекты и дизайн.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-19",
+                "topic": "Творческие технические проекты и дизайн.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-20",
+                "topic": "Творческие технические проекты и дизайн.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-21",
+                "topic": "Творческие технические проекты и дизайн.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-22",
+                "topic": "Творческие технические проекты и дизайн.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "На момент проверки организатор помечает модуль как почти заполненный. Наличие места уточнить."
+            },
+            "deadline": "2026-11-13",
+            "questions": [
+              "Подтвердить класс, техническую подготовку, иностранный допуск и действующее место до оплаты."
+            ],
+            "programme": "Творческие технические проекты и дизайн."
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "currency": "KRW",
+        "amount": 989000,
+        "unit": "per_child_course",
+        "label": "KRW 989000 за 5 дней. Шаттл оплачивается отдельно.",
+        "included": "Пять учебных дней, материалы и занятия по выбранной теме. Состав обеда и оборудование уточнить.",
+        "extras": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно по школьному классу. Подтвердить эквивалент класса и наличие места."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно по школьному классу. Подтвердить эквивалент класса и наличие места."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить класс, техническую подготовку, иностранный допуск и действующее место до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://www.dcampskorea.com/post/2027-winter-dcamps",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.dcampskorea.com/post/2027-winter-daewon",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.dcampskorea.com/curriculum-dcampsenglishstem",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "pairing": {
+        "venue_id": "kor-daewon-gwangjin",
+        "verified_source": "https://www.dcampskorea.com/post/2027-winter-daewon",
+        "checked": "2026-11-07",
+        "fee": {
+          "amount": 989000,
+          "currency": "KRW",
+          "unit": "per_child_course"
+        }
+      }
+    },
+    {
+      "id": "CP1673",
+      "slug": "daewon-winter-2027-interstellar-explorer",
+      "provider": "D.CAMPS Daewon · Interstellar Explorer",
+      "country": "Республика Корея",
+      "iso": "KOR",
+      "place": "Daewon Campus · Gwangjin-gu · Seoul",
+      "themes": [
+        "science",
+        "space",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "1–3 классы начальной школы.",
+      "language": "Вся программа на английском.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "Космос, исследовательские задачи и практические эксперименты.",
+      "timing": {
+        "status": "published_2027",
+        "label": "11–15 и 18–22 января 2027, 09:00–14:30. Регулярная запись до 13 ноября 2026. Часы шаттла и свободные места уточнить.",
+        "sessions": [
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "label": "Interstellar Explorer",
+            "source": "https://www.dcampskorea.com/post/2027-winter-daewon",
+            "price": "KRW 989000 за 5 дней. Шаттл оплачивается отдельно.",
+            "place": "Daewon Campus · Gwangjin-gu · Seoul",
+            "age": "1–3 классы начальной школы.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Условно по школьному классу. Подтвердить эквивалент класса и наличие места."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Условно по школьному классу. Подтвердить эквивалент класса и наличие места."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "topic": "Космос, исследовательские задачи и практические эксперименты.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-12",
+                "topic": "Космос, исследовательские задачи и практические эксперименты.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-13",
+                "topic": "Космос, исследовательские задачи и практические эксперименты.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-14",
+                "topic": "Космос, исследовательские задачи и практические эксперименты.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-15",
+                "topic": "Космос, исследовательские задачи и практические эксперименты.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "deadline": "2026-11-13",
+            "questions": [
+              "Подтвердить класс, техническую подготовку, иностранный допуск и действующее место до оплаты."
+            ],
+            "programme": "Космос, исследовательские задачи и практические эксперименты."
+          },
+          {
+            "start": "2027-01-18",
+            "end": "2027-01-22",
+            "label": "Interstellar Explorer",
+            "source": "https://www.dcampskorea.com/post/2027-winter-daewon",
+            "price": "KRW 989000 за 5 дней. Шаттл оплачивается отдельно.",
+            "place": "Daewon Campus · Gwangjin-gu · Seoul",
+            "age": "1–3 классы начальной школы.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Условно по школьному классу. Подтвердить эквивалент класса и наличие места."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Условно по школьному классу. Подтвердить эквивалент класса и наличие места."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "topic": "Космос, исследовательские задачи и практические эксперименты.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-19",
+                "topic": "Космос, исследовательские задачи и практические эксперименты.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-20",
+                "topic": "Космос, исследовательские задачи и практические эксперименты.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-21",
+                "topic": "Космос, исследовательские задачи и практические эксперименты.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-22",
+                "topic": "Космос, исследовательские задачи и практические эксперименты.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "deadline": "2026-11-13",
+            "questions": [
+              "Подтвердить класс, техническую подготовку, иностранный допуск и действующее место до оплаты."
+            ],
+            "programme": "Космос, исследовательские задачи и практические эксперименты."
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "currency": "KRW",
+        "amount": 989000,
+        "unit": "per_child_course",
+        "label": "KRW 989000 за 5 дней. Шаттл оплачивается отдельно.",
+        "included": "Пять учебных дней, материалы и занятия по выбранной теме. Состав обеда и оборудование уточнить.",
+        "extras": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно по школьному классу. Подтвердить эквивалент класса и наличие места."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно по школьному классу. Подтвердить эквивалент класса и наличие места."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить класс, техническую подготовку, иностранный допуск и действующее место до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://www.dcampskorea.com/post/2027-winter-dcamps",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.dcampskorea.com/post/2027-winter-daewon",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.dcampskorea.com/curriculum-dcampsenglishstem",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "pairing": {
+        "venue_id": "kor-daewon-gwangjin",
+        "verified_source": "https://www.dcampskorea.com/post/2027-winter-daewon",
+        "checked": "2026-11-07",
+        "fee": {
+          "amount": 989000,
+          "currency": "KRW",
+          "unit": "per_child_course"
+        }
+      }
+    },
+    {
+      "id": "CP1674",
+      "slug": "daewon-winter-2027-interstellar-endeavor",
+      "provider": "D.CAMPS Daewon · Interstellar Endeavor",
+      "country": "Республика Корея",
+      "iso": "KOR",
+      "place": "Daewon Campus · Gwangjin-gu · Seoul",
+      "themes": [
+        "science",
+        "space"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "1 класс начальной школы.",
+      "language": "Вся программа на английском.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "Начальный космический трек для 1 класса.",
+      "timing": {
+        "status": "published_2027",
+        "label": "11–15 и 18–22 января 2027, 09:00–14:30. Регулярная запись до 13 ноября 2026. Часы шаттла и свободные места уточнить.",
+        "sessions": [
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "label": "Interstellar Endeavor",
+            "source": "https://www.dcampskorea.com/post/2027-winter-daewon",
+            "price": "KRW 989000 за 5 дней. Шаттл оплачивается отдельно.",
+            "place": "Daewon Campus · Gwangjin-gu · Seoul",
+            "age": "1 класс начальной школы.",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Нет сейчас по опубликованному школьному уровню."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Условно по школьному классу. Подтвердить эквивалент класса и наличие места."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "topic": "Начальный космический трек для 1 класса.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-12",
+                "topic": "Начальный космический трек для 1 класса.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-13",
+                "topic": "Начальный космический трек для 1 класса.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-14",
+                "topic": "Начальный космический трек для 1 класса.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-15",
+                "topic": "Начальный космический трек для 1 класса.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "На момент проверки организатор помечает модуль как почти заполненный. Наличие места уточнить."
+            },
+            "deadline": "2026-11-13",
+            "questions": [
+              "Подтвердить класс, техническую подготовку, иностранный допуск и действующее место до оплаты."
+            ],
+            "programme": "Начальный космический трек для 1 класса."
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "currency": "KRW",
+        "amount": 989000,
+        "unit": "per_child_course",
+        "label": "KRW 989000 за 5 дней. Шаттл оплачивается отдельно.",
+        "included": "Пять учебных дней, материалы и занятия по выбранной теме. Состав обеда и оборудование уточнить.",
+        "extras": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Нет сейчас по опубликованному школьному уровню."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно по школьному классу. Подтвердить эквивалент класса и наличие места."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить класс, техническую подготовку, иностранный допуск и действующее место до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://www.dcampskorea.com/post/2027-winter-dcamps",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.dcampskorea.com/post/2027-winter-daewon",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.dcampskorea.com/curriculum-dcampsenglishstem",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "pairing": {
+        "venue_id": "kor-daewon-gwangjin",
+        "verified_source": "https://www.dcampskorea.com/post/2027-winter-daewon",
+        "checked": "2026-11-07",
+        "fee": {
+          "amount": 989000,
+          "currency": "KRW",
+          "unit": "per_child_course"
+        }
+      }
+    },
+    {
+      "id": "CP1675",
+      "slug": "daewon-winter-2027-interstellar-astronaut",
+      "provider": "D.CAMPS Daewon · Interstellar Astronaut",
+      "country": "Республика Корея",
+      "iso": "KOR",
+      "place": "Daewon Campus · Gwangjin-gu · Seoul",
+      "themes": [
+        "science",
+        "space",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "4–6 классы начальной школы.",
+      "language": "Вся программа на английском.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "Космическая инженерия для старшей группы.",
+      "timing": {
+        "status": "published_2027",
+        "label": "11–15 и 18–22 января 2027, 09:00–14:30. Регулярная запись до 13 ноября 2026. Часы шаттла и свободные места уточнить.",
+        "sessions": [
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "label": "Interstellar Astronaut",
+            "source": "https://www.dcampskorea.com/post/2027-winter-daewon",
+            "price": "KRW 989000 за 5 дней. Шаттл оплачивается отдельно.",
+            "place": "Daewon Campus · Gwangjin-gu · Seoul",
+            "age": "4–6 классы начальной школы.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Условно по школьному классу. Подтвердить эквивалент класса и наличие места."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Нет сейчас по опубликованному школьному уровню."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "topic": "Космическая инженерия для старшей группы.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-12",
+                "topic": "Космическая инженерия для старшей группы.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-13",
+                "topic": "Космическая инженерия для старшей группы.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-14",
+                "topic": "Космическая инженерия для старшей группы.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-15",
+                "topic": "Космическая инженерия для старшей группы.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "deadline": "2026-11-13",
+            "questions": [
+              "Подтвердить класс, техническую подготовку, иностранный допуск и действующее место до оплаты."
+            ],
+            "programme": "Космическая инженерия для старшей группы."
+          },
+          {
+            "start": "2027-01-18",
+            "end": "2027-01-22",
+            "label": "Interstellar Astronaut",
+            "source": "https://www.dcampskorea.com/post/2027-winter-daewon",
+            "price": "KRW 989000 за 5 дней. Шаттл оплачивается отдельно.",
+            "place": "Daewon Campus · Gwangjin-gu · Seoul",
+            "age": "4–6 классы начальной школы.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Условно по школьному классу. Подтвердить эквивалент класса и наличие места."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Нет сейчас по опубликованному школьному уровню."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "topic": "Космическая инженерия для старшей группы.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-19",
+                "topic": "Космическая инженерия для старшей группы.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-20",
+                "topic": "Космическая инженерия для старшей группы.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-21",
+                "topic": "Космическая инженерия для старшей группы.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-22",
+                "topic": "Космическая инженерия для старшей группы.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "deadline": "2026-11-13",
+            "questions": [
+              "Подтвердить класс, техническую подготовку, иностранный допуск и действующее место до оплаты."
+            ],
+            "programme": "Космическая инженерия для старшей группы."
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "currency": "KRW",
+        "amount": 989000,
+        "unit": "per_child_course",
+        "label": "KRW 989000 за 5 дней. Шаттл оплачивается отдельно.",
+        "included": "Пять учебных дней, материалы и занятия по выбранной теме. Состав обеда и оборудование уточнить.",
+        "extras": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно по школьному классу. Подтвердить эквивалент класса и наличие места."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет сейчас по опубликованному школьному уровню."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить класс, техническую подготовку, иностранный допуск и действующее место до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://www.dcampskorea.com/post/2027-winter-dcamps",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.dcampskorea.com/post/2027-winter-daewon",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.dcampskorea.com/curriculum-dcampsenglishstem",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "pairing": {
+        "venue_id": "kor-daewon-gwangjin",
+        "verified_source": "https://www.dcampskorea.com/post/2027-winter-daewon",
+        "checked": "2026-11-07",
+        "fee": {
+          "amount": 989000,
+          "currency": "KRW",
+          "unit": "per_child_course"
+        }
+      }
+    },
+    {
+      "id": "CP1676",
+      "slug": "daewon-winter-2027-artificial-intelligence",
+      "provider": "D.CAMPS Daewon · Artificial Intelligence",
+      "country": "Республика Корея",
+      "iso": "KOR",
+      "place": "Daewon Campus · Gwangjin-gu · Seoul",
+      "themes": [
+        "ai",
+        "technology",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "4–6 классы начальной школы.",
+      "language": "Вся программа на английском.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "Введение в ИИ и обсуждение решений на английском.",
+      "timing": {
+        "status": "published_2027",
+        "label": "11–15 и 18–22 января 2027, 09:00–14:30. Регулярная запись до 13 ноября 2026. Часы шаттла и свободные места уточнить.",
+        "sessions": [
+          [
+            "2027-01-18",
+            "2027-01-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-18",
+            "end": "2027-01-22",
+            "label": "Artificial Intelligence",
+            "source": "https://www.dcampskorea.com/post/2027-winter-daewon",
+            "price": "KRW 989000 за 5 дней. Шаттл оплачивается отдельно.",
+            "place": "Daewon Campus · Gwangjin-gu · Seoul",
+            "age": "4–6 классы начальной школы.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Условно по школьному классу. Подтвердить эквивалент класса и наличие места."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Нет сейчас по опубликованному школьному уровню."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "topic": "Введение в ИИ и обсуждение решений на английском.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-19",
+                "topic": "Введение в ИИ и обсуждение решений на английском.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-20",
+                "topic": "Введение в ИИ и обсуждение решений на английском.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-21",
+                "topic": "Введение в ИИ и обсуждение решений на английском.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-22",
+                "topic": "Введение в ИИ и обсуждение решений на английском.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "deadline": "2026-11-13",
+            "questions": [
+              "Подтвердить класс, техническую подготовку, иностранный допуск и действующее место до оплаты."
+            ],
+            "programme": "Введение в ИИ и обсуждение решений на английском."
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "currency": "KRW",
+        "amount": 989000,
+        "unit": "per_child_course",
+        "label": "KRW 989000 за 5 дней. Шаттл оплачивается отдельно.",
+        "included": "Пять учебных дней, материалы и занятия по выбранной теме. Состав обеда и оборудование уточнить.",
+        "extras": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно по школьному классу. Подтвердить эквивалент класса и наличие места."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет сейчас по опубликованному школьному уровню."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить класс, техническую подготовку, иностранный допуск и действующее место до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://www.dcampskorea.com/post/2027-winter-dcamps",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.dcampskorea.com/post/2027-winter-daewon",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.dcampskorea.com/curriculum-dcampsenglishstem",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "pairing": {
+        "venue_id": "kor-daewon-gwangjin",
+        "verified_source": "https://www.dcampskorea.com/post/2027-winter-daewon",
+        "checked": "2026-11-07",
+        "fee": {
+          "amount": 989000,
+          "currency": "KRW",
+          "unit": "per_child_course"
+        }
+      }
+    },
+    {
+      "id": "CP1677",
+      "slug": "doodlish-jeju-winter-2027",
+      "provider": "Doodlish · English Skills Boost Camp",
+      "country": "Республика Корея",
+      "iso": "KOR",
+      "place": "Jeju · Doodlish Camp",
+      "themes": [
+        "general",
+        "languages",
+        "nature"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "7–11",
+      "language": "Вся программа на английском.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "Утренние занятия английским, после обеда природа и культура Чеджу. Экскурсии 13 и 20 января.",
+      "timing": {
+        "status": "published_2027",
+        "label": "11–22 января 2027, по будням 09:00–15:00. Можно выбрать одну или две недели.",
+        "sessions": [
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-22"
+          ],
+          [
+            "2027-01-11",
+            "2027-01-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "label": "English Skills Boost Camp",
+            "source": "https://doodlishcamp.com/",
+            "price": "KRW 600000 за неделю. 2 недели по недельной ставке — KRW 1200000. Обед включён.",
+            "place": "Jeju · Doodlish Camp",
+            "age": "7–11",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Условно, если к началу мастерской уже исполнится 7 лет."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "topic": "Утренние занятия английским, после обеда природа и культура Чеджу. Экскурсии 13 и 20 января.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-12",
+                "topic": "Утренние занятия английским, после обеда природа и культура Чеджу. Экскурсии 13 и 20 января.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-13",
+                "topic": "Утренние занятия английским, после обеда природа и культура Чеджу. Экскурсии 13 и 20 января.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-14",
+                "topic": "Утренние занятия английским, после обеда природа и культура Чеджу. Экскурсии 13 и 20 января.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-15",
+                "topic": "Утренние занятия английским, после обеда природа и культура Чеджу. Экскурсии 13 и 20 января.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            }
+          },
+          {
+            "start": "2027-01-18",
+            "end": "2027-01-22",
+            "label": "English Skills Boost Camp",
+            "source": "https://doodlishcamp.com/",
+            "price": "KRW 600000 за неделю. 2 недели по недельной ставке — KRW 1200000. Обед включён.",
+            "place": "Jeju · Doodlish Camp",
+            "age": "7–11",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Условно, если к началу мастерской уже исполнится 7 лет."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "topic": "Утренние занятия английским, после обеда природа и культура Чеджу. Экскурсии 13 и 20 января.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-19",
+                "topic": "Утренние занятия английским, после обеда природа и культура Чеджу. Экскурсии 13 и 20 января.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-20",
+                "topic": "Утренние занятия английским, после обеда природа и культура Чеджу. Экскурсии 13 и 20 января.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-21",
+                "topic": "Утренние занятия английским, после обеда природа и культура Чеджу. Экскурсии 13 и 20 января.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-22",
+                "topic": "Утренние занятия английским, после обеда природа и культура Чеджу. Экскурсии 13 и 20 января.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            }
+          },
+          {
+            "start": "2027-01-11",
+            "end": "2027-01-22",
+            "label": "English Skills Boost Camp",
+            "source": "https://doodlishcamp.com/",
+            "price": "KRW 600000 за неделю. 2 недели по недельной ставке — KRW 1200000. Обед включён.",
+            "place": "Jeju · Doodlish Camp",
+            "age": "7–11",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Условно, если к началу мастерской уже исполнится 7 лет."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "topic": "Утренние занятия английским, после обеда природа и культура Чеджу. Экскурсии 13 и 20 января.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-12",
+                "topic": "Утренние занятия английским, после обеда природа и культура Чеджу. Экскурсии 13 и 20 января.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-13",
+                "topic": "Утренние занятия английским, после обеда природа и культура Чеджу. Экскурсии 13 и 20 января.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-14",
+                "topic": "Утренние занятия английским, после обеда природа и культура Чеджу. Экскурсии 13 и 20 января.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-15",
+                "topic": "Утренние занятия английским, после обеда природа и культура Чеджу. Экскурсии 13 и 20 января.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-18",
+                "topic": "Утренние занятия английским, после обеда природа и культура Чеджу. Экскурсии 13 и 20 января.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-19",
+                "topic": "Утренние занятия английским, после обеда природа и культура Чеджу. Экскурсии 13 и 20 января.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-20",
+                "topic": "Утренние занятия английским, после обеда природа и культура Чеджу. Экскурсии 13 и 20 января.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-21",
+                "topic": "Утренние занятия английским, после обеда природа и культура Чеджу. Экскурсии 13 и 20 января.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-22",
+                "topic": "Утренние занятия английским, после обеда природа и культура Чеджу. Экскурсии 13 и 20 января.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            }
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "currency": "KRW",
+        "amount": 600000,
+        "unit": "per_child_week",
+        "label": "KRW 600000 за неделю. 2 недели по недельной ставке — KRW 1200000. Обед включён.",
+        "included": "KRW 600000 за неделю. 2 недели по недельной ставке — KRW 1200000. Обед включён.",
+        "extras": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно, если к началу мастерской уже исполнится 7 лет."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://doodlishcamp.com/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop"
+    },
+    {
+      "id": "CP1678",
+      "slug": "ace-winter-2026-27",
+      "provider": "ACE · English Winter Camp",
+      "country": "Малайзия",
+      "iso": "MYS",
+      "place": "ACE Language Centre · Mont Kiara · Kuala Lumpur",
+      "themes": [
+        "general",
+        "languages",
+        "science"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "7–16",
+      "language": "Вся программа на английском.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "Английский, групповые проекты и познавательные экскурсии. В программе упоминается National Science Centre.",
+      "timing": {
+        "status": "announced_dates_programme_pending",
+        "label": "Окна 2 декабря 2026–3 января 2027 и 3 января–28 февраля 2027. Выбор 1–4 недель. Дни выбранной недели согласовываются. Варианты 09:00–13:00 или 09:00–15:00.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "announced_month",
+        "announced_months": [
+          "2026-12",
+          "2027-01",
+          "2027-02"
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "currency": "MYR",
+        "amount": 700,
+        "unit": "per_child_week",
+        "label": "От MYR 700 за неделю за обучение. Жильё, экскурсии и полную цену пакета уточнить.",
+        "included": "Цена не опубликована.",
+        "extras": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно, если к началу мастерской уже исполнится 7 лет."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://www.acelanguagecentre.my/courses/winter-camp",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.acelanguagecentre.my/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop"
     }
   ],
   "gaps": [
@@ -244140,7 +245712,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 215,
+  "version": 216,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -257375,7 +258947,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1671,
+      "total_dossiers": 1678,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,

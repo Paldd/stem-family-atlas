@@ -38502,37 +38502,37 @@ Limitaciones: Matvey: No se confirma la convocatoria actual de NLCS Singapore: l
 Fuente: https://booknow.campbeaumont.asia/
 Se ha comprobado: 2026-11-06
 
-### CP877-20270111-20270115-2027-01-11 · D.CAMPS · Daewon English STEM Winter · Daewon · English STEM; Clase/complemento de confirmación · 2027-01-11–2027-01-15
+### CP877-20270111-20270115-2027-01-11 · D.CAMPS · Daewon English STEM Winter · Coding & Robotics · 2027-01-11–2027-01-15
 
-Lugar: Corea del Sur · Daewon Campus · Seoul Gwangjin-gu
+lugar: Corea del Sur · Daewon Campus · Gwangjin-gu · Seoul
 Fecha: 2027-01-11 — 2027-01-15
-Edad: Campus de invierno: 1–6 Clases; Coding & Robotics / Art & Technology 1–3; AI y Astronaut 4–6.
+Edad: Grados 1–3 de primaria.
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: Condicional; comprobar la edad, la clase y la admisión
 Formato: day_camp
-Idioma: El anuncio 2027 confirma el programa inglés; FAQ precisa que la seguridad se explica en coreano.
+Idioma: Todo el programa se imparte en inglés.
 Marca de idioma: primary; soporte: no declarado
-Costo: 2027 - KRW 989000; tarifa normal - pagos adicionales y condiciones del expediente
+Precio: 2027 · KRW 989000 por 5 días. El autobús se paga por separado. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Se requiere una clase confirmada: 1–3 para el CTEB de la misma 4–6 para el AI. de la 2017 No se puede sacar el curso coreano necesario. Oscar: 2020 el año de nacimiento no prueba 1-clase para enero. si todavía es preescolar, conjunto estándar 1–6 No es adecuado.; de la misma junior intake No se encuentra. Suplementos: la escuela de la escuela por pago adicional; la familia vive por separado. portátil/micro:bit, cobertura de seguro, recepción extranjera y la cuenta final también confirmar. En el anuncio ordinario hasta el 13.11.2026: 5% para dos participantes y 10% para tres, sin acumular descuentos. Primero se paga la tarifa completa; el descuento se devuelve tras verificar la participación real. Pago: sus propias reglas: hasta que comience el regreso 100% por 20 días, 90% por 10, 80% por uno; el día de la primera 70%, hasta la mitad del turno 50%, y luego no.. aplicabilidad para el conjunto seleccionado, el seguro y los gastos médicos del niño extranjero para verificar por contrato. Se acabó el descuento de septiembre. 18.09.2026.
+Restricciones: Matvey: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Oscar: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Suplementos: Para dos, KRW 1978000 al inscribirse. Devolución del 5% tras participar si se cumplen las condiciones. Total estimado KRW 1879100. Autobús, seguro y gastos familiares por separado. Pago: sus propias reglas: hasta que comience el regreso 100% por 20 días, 90% por 10, 80% por uno; el día de la primera 70%, hasta la mitad del turno 50%, y luego no.. aplicabilidad para el conjunto seleccionado, el seguro y los gastos médicos del niño extranjero para verificar por contrato. Se acabó el descuento de septiembre. 18.09.2026.
 Fuente: https://www.dcampskorea.com/post/2027-winter-daewon
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-07
 
-### CP877-20270118-20270122-2027-01-18 · D.CAMPS · Daewon English STEM Winter · Daewon · English STEM; clase/módulo de confirmación · 2027-01-18 CLAIM2027-01-22
+### CP877-20270118-20270122-2027-01-18 · D.CAMPS · Daewon English STEM Winter · Coding & Robotics · 2027-01-18–2027-01-22
 
-Lugar: Corea del Sur · Daewon Campus · Seoul Gwangjin-gu
+lugar: Corea del Sur · Daewon Campus · Gwangjin-gu · Seoul
 Fecha: 2027-01-18 国 2027-01-22
-Edad: Campus de invierno: 1–6 Clases; Coding & Robotics / Art & Technology 1–3; AI y Astronaut 4–6.
+Edad: Grados 1–3 de primaria.
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: Condicional; comprobar la edad, la clase y la admisión
 Formato: day_camp
-Idioma: El anuncio 2027 confirma el programa inglés; FAQ precisa que la seguridad se explica en coreano.
+Idioma: Todo el programa se imparte en inglés.
 Marca de idioma: primary; soporte: no declarado
-Costo: 2027 - KRW 989000; tarifa normal - pagos adicionales y condiciones del expediente
+Precio: 2027 · KRW 989000 por 5 días. El autobús se paga por separado. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Se requiere una clase confirmada: 1–3 para el CTEB de la misma 4–6 para el AI. de la 2017 No se puede sacar el curso coreano necesario. Oscar: 2020 el año de nacimiento no prueba 1-clase para enero. si todavía es preescolar, conjunto estándar 1–6 No es adecuado.; de la misma junior intake No se encuentra. Suplementos: la escuela de la escuela por pago adicional; la familia vive por separado. portátil/micro:bit, cobertura de seguro, recepción extranjera y la cuenta final también confirmar. En el anuncio ordinario hasta el 13.11.2026: 5% para dos participantes y 10% para tres, sin acumular descuentos. Primero se paga la tarifa completa; el descuento se devuelve tras verificar la participación real. Pago: sus propias reglas: hasta que comience el regreso 100% por 20 días, 90% por 10, 80% por uno; el día de la primera 70%, hasta la mitad del turno 50%, y luego no.. aplicabilidad para el conjunto seleccionado, el seguro y los gastos médicos del niño extranjero para verificar por contrato. Se acabó el descuento de septiembre. 18.09.2026.
+Restricciones: Matvey: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Oscar: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Suplementos: Para dos, KRW 1978000 al inscribirse. Devolución del 5% tras participar si se cumplen las condiciones. Total estimado KRW 1879100. Autobús, seguro y gastos familiares por separado. Pago: sus propias reglas: hasta que comience el regreso 100% por 20 días, 90% por 10, 80% por uno; el día de la primera 70%, hasta la mitad del turno 50%, y luego no.. aplicabilidad para el conjunto seleccionado, el seguro y los gastos médicos del niño extranjero para verificar por contrato. Se acabó el descuento de septiembre. 18.09.2026.
 Fuente: https://www.dcampskorea.com/post/2027-winter-daewon
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-07
 
 ### CP878-20270104-20270108 · D.CAMPS · Seoul National University STEM Boarding · 2027-01-04–2027-01-08
 
@@ -64356,6 +64356,182 @@ Precio: 2027 · Precio sin publicar. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://barcaacademycampscostarica.com/camps-costa-rica/
+Se ha comprobado: 2026-11-07
+
+### CP1672-20270111-20270115 · D.CAMPS Daewon · Art & Technology · Art & Technology · 2027-01-11–2027-01-15
+
+lugar: Corea del Sur · Daewon Campus · Gwangjin-gu · Seoul
+Fecha: 2027-01-11 — 2027-01-15
+Edad: Grados 1–3 de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Todo el programa se imparte en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · KRW 989000 por 5 días. El autobús se paga por separado. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Oscar: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.dcampskorea.com/post/2027-winter-daewon
+Se ha comprobado: 2026-11-07
+
+### CP1672-20270118-20270122 · D.CAMPS Daewon · Art & Technology · Art & Technology · 2027-01-18–2027-01-22
+
+lugar: Corea del Sur · Daewon Campus · Gwangjin-gu · Seoul
+Fecha: 2027-01-18 国 2027-01-22
+Edad: Grados 1–3 de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Todo el programa se imparte en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · KRW 989000 por 5 días. El autobús se paga por separado. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Oscar: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.dcampskorea.com/post/2027-winter-daewon
+Se ha comprobado: 2026-11-07
+
+### CP1673-20270111-20270115 · D.CAMPS Daewon · Interstellar Explorer · Interstellar Explorer · 2027-01-11–2027-01-15
+
+lugar: Corea del Sur · Daewon Campus · Gwangjin-gu · Seoul
+Fecha: 2027-01-11 — 2027-01-15
+Edad: Grados 1–3 de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Todo el programa se imparte en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · KRW 989000 por 5 días. El autobús se paga por separado. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Oscar: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.dcampskorea.com/post/2027-winter-daewon
+Se ha comprobado: 2026-11-07
+
+### CP1673-20270118-20270122 · D.CAMPS Daewon · Interstellar Explorer · Interstellar Explorer · 2027-01-18–2027-01-22
+
+lugar: Corea del Sur · Daewon Campus · Gwangjin-gu · Seoul
+Fecha: 2027-01-18 国 2027-01-22
+Edad: Grados 1–3 de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Todo el programa se imparte en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · KRW 989000 por 5 días. El autobús se paga por separado. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Oscar: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.dcampskorea.com/post/2027-winter-daewon
+Se ha comprobado: 2026-11-07
+
+### CP1674-20270111-20270115 · D.CAMPS Daewon · Interstellar Endeavor · Interstellar Endeavor · 2027-01-11–2027-01-15
+
+lugar: Corea del Sur · Daewon Campus · Gwangjin-gu · Seoul
+Fecha: 2027-01-11 — 2027-01-15
+Edad: Grado 1 de primaria.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Todo el programa se imparte en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · KRW 989000 por 5 días. El autobús se paga por separado. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por ahora según el nivel escolar publicado. Oscar: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.dcampskorea.com/post/2027-winter-daewon
+Se ha comprobado: 2026-11-07
+
+### CP1675-20270111-20270115 · D.CAMPS Daewon · Interstellar Astronaut · Interstellar Astronaut · 2027-01-11–2027-01-15
+
+lugar: Corea del Sur · Daewon Campus · Gwangjin-gu · Seoul
+Fecha: 2027-01-11 — 2027-01-15
+edad: 4–6 de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Todo el programa se imparte en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · KRW 989000 por 5 días. El autobús se paga por separado. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Oscar: No por ahora según el nivel escolar publicado. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.dcampskorea.com/post/2027-winter-daewon
+Se ha comprobado: 2026-11-07
+
+### CP1675-20270118-20270122 · D.CAMPS Daewon · Interstellar Astronaut · Interstellar Astronaut · 2027-01-18–2027-01-22
+
+lugar: Corea del Sur · Daewon Campus · Gwangjin-gu · Seoul
+Fecha: 2027-01-18 国 2027-01-22
+edad: 4–6 de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Todo el programa se imparte en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · KRW 989000 por 5 días. El autobús se paga por separado. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Oscar: No por ahora según el nivel escolar publicado. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.dcampskorea.com/post/2027-winter-daewon
+Se ha comprobado: 2026-11-07
+
+### CP1676-20270118-20270122 · D.CAMPS Daewon · Artificial Intelligence · Artificial Intelligence · 2027-01-18–2027-01-22
+
+lugar: Corea del Sur · Daewon Campus · Gwangjin-gu · Seoul
+Fecha: 2027-01-18 国 2027-01-22
+edad: 4–6 de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Todo el programa se imparte en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · KRW 989000 por 5 días. El autobús se paga por separado. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Oscar: No por ahora según el nivel escolar publicado. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.dcampskorea.com/post/2027-winter-daewon
+Se ha comprobado: 2026-11-07
+
+### CP1677-20270111-20270115 · Doodlish · English Skills Boost Camp · English Skills Boost Camp · 2027-01-11–2027-01-15
+
+lugar: Corea del Sur · Jeju · Doodlish Camp
+Fecha: 2027-01-11 — 2027-01-15
+Edad: 7–11
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Todo el programa se imparte en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · KRW 600000 por semana. 2 semanas a tarifa semanal suman KRW 1200000. Comida incluida. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Condicional si ya ha cumplido 7 años al comenzar el taller. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://doodlishcamp.com/
+Se ha comprobado: 2026-11-07
+
+### CP1677-20270118-20270122 · Doodlish · English Skills Boost Camp · English Skills Boost Camp · 2027-01-18–2027-01-22
+
+lugar: Corea del Sur · Jeju · Doodlish Camp
+Fecha: 2027-01-18 国 2027-01-22
+Edad: 7–11
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Todo el programa se imparte en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · KRW 600000 por semana. 2 semanas a tarifa semanal suman KRW 1200000. Comida incluida. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Condicional si ya ha cumplido 7 años al comenzar el taller. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://doodlishcamp.com/
+Se ha comprobado: 2026-11-07
+
+### CP1677-20270111-20270122 · Doodlish · English Skills Boost Camp · English Skills Boost Camp · 2027-01-11–2027-01-22
+
+lugar: Corea del Sur · Jeju · Doodlish Camp
+Fecha: 2027-01-11 — 2027-01-22
+Edad: 7–11
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Todo el programa se imparte en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · KRW 600000 por semana. 2 semanas a tarifa semanal suman KRW 1200000. Comida incluida. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Condicional si ya ha cumplido 7 años al comenzar el taller. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://doodlishcamp.com/
 Se ha comprobado: 2026-11-07
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

@@ -30,12 +30,12 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1671,
-    "countries": 92,
+    "dossiers": 1678,
+    "countries": 93,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 233,
-      "published_2027": 466,
+      "published_2027": 472,
       "partial_2027": 130,
       "next_unannounced": 345,
       "published_2026": 296,
@@ -45,10 +45,10 @@
       "regular_programme": 10,
       "regular_2026_27": 2,
       "historical_2026_next_season_unknown": 1,
-      "announced_dates_programme_pending": 3,
+      "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2394
+    "source_urls": 2397
   },
   "countries": [
     {
@@ -225,7 +225,7 @@
     },
     {
       "country": "Malasia",
-      "count": 16
+      "count": 17
     },
     {
       "country": "Maldivas",
@@ -297,6 +297,10 @@
     },
     {
       "country": "Puerto Rico",
+      "count": 6
+    },
+    {
+      "country": "Corea del Sur",
       "count": 6
     },
     {
@@ -119164,7 +119168,7 @@
       "provider": "D.CAMPS · Daewon English STEM Winter",
       "country": "Corea del Sur",
       "iso": "KOR",
-      "place": "Daewon Campus · Seoul Gwangjin-gu",
+      "place": "Daewon Campus · Gwangjin-gu · Seoul",
       "themes": [
         "robotics",
         "ai",
@@ -119175,15 +119179,15 @@
       "formats": [
         "day"
       ],
-      "age": "el campus de invierno: 1–6 las clases; Coding & Robotics / Art & Technology 1–3; AI y Astronaut 4–6.",
-      "language": "La declaración 2027 confirma el programa inglés; la FAQ especifica que la seguridad explica en coreano.",
+      "age": "Grados 1–3 de primaria.",
+      "language": "Todo el programa se imparte en inglés.",
       "confirmed_instruction_languages": [
         "EN"
       ],
-      "programme": "CTEB 1–3: Ringbit de la micro:bit, programable LEGO, sensores y misiones. Art & Technology 1–3: generative AI/mediarete. para el 4–6: AI storytelling/presentation, el espacio rover y reverse engineering. ¿Qué módulos están disponibles cada semana?, más confirmación por el juego 2027. En la convocatoria ordinaria, AI para Grades 4–6 figura solo del 18–22 de enero; no aparece en la lista diurna del 11–15 de enero.",
+      "programme": "Coding & Robotics. Programación por bloques, retos de robótica y montaje según el módulo.",
       "timing": {
         "status": "published_2027",
-        "label": "11–15 y 18–22 enero 2027, 09:00–14:30. por 15 de los niños en curriculum. fechas de la antigua Location páginas 2024 no se han utilizado.",
+        "label": "11–15 y 18–22 de enero de 2027, 09:00–14:30. Inscripción regular hasta el 13 de noviembre de 2026. Confirmar horarios de autobús y plazas.",
         "sessions": [
           [
             "2027-01-11",
@@ -119196,40 +119200,148 @@
         ],
         "session_details": [
           {
-            "variant_key": "2027-01-11",
             "start": "2027-01-11",
             "end": "2027-01-15",
-            "label": "Daewon · English STEM; clase/modules para confirmar",
-            "price": "KRW 989000; el precio habitual",
+            "label": "Coding & Robotics",
             "source": "https://www.dcampskorea.com/post/2027-winter-daewon",
-            "date_scope": "day_camp_window",
-            "attendance_weekdays": [
-              "MO",
-              "TU",
-              "WE",
-              "TH",
-              "FR"
+            "price": "KRW 989000 por 5 días. El autobús se paga por separado.",
+            "place": "Daewon Campus · Gwangjin-gu · Seoul",
+            "age": "Grados 1–3 de primaria.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "topic": "Coding & Robotics. Programación por bloques, retos de robótica y montaje según el módulo.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-12",
+                "topic": "Coding & Robotics. Programación por bloques, retos de robótica y montaje según el módulo.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-13",
+                "topic": "Coding & Robotics. Programación por bloques, retos de robótica y montaje según el módulo.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-14",
+                "topic": "Coding & Robotics. Programación por bloques, retos de robótica y montaje según el módulo.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-15",
+                "topic": "Coding & Robotics. Programación por bloques, retos de robótica y montaje según el módulo.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              }
             ],
-            "place": "Daewon Campus · Seoul Gwangjin-gu",
-            "proof": "El año y los plazos se han leído en su propio anuncio; el lugar y la recepción de la familia aún no se han confirmado."
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Al verificar, la organización marca el módulo como casi completo. Confirmar plaza."
+            },
+            "deadline": "2026-11-13",
+            "questions": [
+              "Confirmar grado, preparación técnica, admisión internacional y plaza vigente antes de pagar."
+            ],
+            "programme": "Coding & Robotics. Programación por bloques, retos de robótica y montaje según el módulo.",
+            "variant_key": "2027-01-11"
           },
           {
-            "variant_key": "2027-01-18",
             "start": "2027-01-18",
             "end": "2027-01-22",
-            "label": "Daewon · English STEM; clase/modules para confirmar",
-            "price": "KRW 989000; el precio habitual",
+            "label": "Coding & Robotics",
             "source": "https://www.dcampskorea.com/post/2027-winter-daewon",
-            "date_scope": "day_camp_window",
-            "attendance_weekdays": [
-              "MO",
-              "TU",
-              "WE",
-              "TH",
-              "FR"
+            "price": "KRW 989000 por 5 días. El autobús se paga por separado.",
+            "place": "Daewon Campus · Gwangjin-gu · Seoul",
+            "age": "Grados 1–3 de primaria.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "topic": "Coding & Robotics. Programación por bloques, retos de robótica y montaje según el módulo.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-19",
+                "topic": "Coding & Robotics. Programación por bloques, retos de robótica y montaje según el módulo.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-20",
+                "topic": "Coding & Robotics. Programación por bloques, retos de robótica y montaje según el módulo.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-21",
+                "topic": "Coding & Robotics. Programación por bloques, retos de robótica y montaje según el módulo.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-22",
+                "topic": "Coding & Robotics. Programación por bloques, retos de robótica y montaje según el módulo.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              }
             ],
-            "place": "Daewon Campus · Seoul Gwangjin-gu",
-            "proof": "El año y los plazos se han leído en su propio anuncio; el lugar y la recepción de la familia aún no se han confirmado."
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar disponibilidad y admisión."
+            },
+            "deadline": "2026-11-13",
+            "questions": [
+              "Confirmar grado, preparación técnica, admisión internacional y plaza vigente antes de pagar."
+            ],
+            "programme": "Coding & Robotics. Programación por bloques, retos de robótica y montaje según el módulo.",
+            "variant_key": "2027-01-18"
           }
         ],
         "variant_keyed": true,
@@ -119237,20 +119349,23 @@
       },
       "price": {
         "year": 2027,
-        "label": "KRW 989000 en cinco días diarios; los 890100 de septiembre ya no funcionan.",
+        "label": "KRW 989000 por 5 días. El autobús se paga por separado.",
         "included": "English STEM, los materiales preparados; el comedor/el almuerzo y el profesor médico están descritos en las instrucciones de invierno.",
-        "extras": "la escuela de la escuela por pago adicional; la familia vive por separado. portátil/micro:bit, cobertura de seguro, recepción extranjera y la cuenta final también confirmar. En el anuncio ordinario hasta el 13.11.2026: 5% para dos participantes y 10% para tres, sin acumular descuentos. Primero se paga la tarifa completa; el descuento se devuelve tras verificar la participación real.",
-        "deposit": "sus propias reglas: hasta que comience el regreso 100% por 20 días, 90% por 10, 80% por uno; el día de la primera 70%, hasta la mitad del turno 50%, y luego no.. aplicabilidad para el conjunto seleccionado, el seguro y los gastos médicos del niño extranjero para verificar por contrato. Se acabó el descuento de septiembre. 18.09.2026."
+        "extras": "Para dos, KRW 1978000 al inscribirse. Devolución del 5% tras participar si se cumplen las condiciones. Total estimado KRW 1879100. Autobús, seguro y gastos familiares por separado.",
+        "deposit": "sus propias reglas: hasta que comience el regreso 100% por 20 días, 90% por 10, 80% por uno; el día de la primera 70%, hasta la mitad del turno 50%, y luego no.. aplicabilidad para el conjunto seleccionado, el seguro y los gastos médicos del niño extranjero para verificar por contrato. Se acabó el descuento de septiembre. 18.09.2026.",
+        "currency": "KRW",
+        "unit": "per_child_course",
+        "amount": 989000
       },
       "accommodation": "El campamento de día; el shuttle se forma por dirección. Conocerse en línea de unos cinco minutos no es un examen de selección obligatorio.",
       "family_fit": {
         "matvey": {
           "status": "conditional",
-          "detail": "Se requiere una clase confirmada: 1–3 para el CTEB de la misma 4–6 para el AI. de la 2017 No se puede sacar el curso coreano necesario."
+          "detail": "Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad."
         },
         "oscar": {
           "status": "conditional",
-          "detail": "2020 el año de nacimiento no prueba 1-clase para enero. si todavía es preescolar, conjunto estándar 1–6 No es adecuado.; de la misma junior intake No se encuentra."
+          "detail": "Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad."
         }
       },
       "editorial_reason": "Un candidato técnico inglés Matvey prioritario con un calendario específico de enero; un Oscar necesita una prueba de primera clase.",
@@ -119258,14 +119373,13 @@
         "technical"
       ],
       "questions": [
-        "confirmar el equivalente de clase, el EN de acompañamiento de seguridad, la recepción individual en el extranjero y el módulo específico de la semana.",
-        "SNU/Harvard las menciones del operador no significan créditos universitarios o una recompensa externa."
+        "Confirmar grado, preparación técnica, admisión internacional y plaza vigente antes de pagar."
       ],
       "sources": [
         {
-          "title": "Dates del día, reloj y lanzadera",
           "url": "https://www.dcampskorea.com/post/2027-winter-daewon",
-          "checked": "2026-11-06"
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
         },
         {
           "title": "el conjunto actual de invierno: clases , precio y lenguas",
@@ -119273,9 +119387,9 @@
           "checked": "2026-11-06"
         },
         {
-          "title": "programa por clases",
           "url": "https://www.dcampskorea.com/curriculum-dcampsenglishstem",
-          "checked": "2026-11-06"
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
         },
         {
           "title": "FAQ: Inglés, seguridad coreana y grupos",
@@ -119289,11 +119403,11 @@
         },
         {
           "url": "https://www.dcampskorea.com/post/2027-winter-dcamps",
-          "title": "D.CAMPS · 2027 Winter Regular Registration",
-          "checked": "2026-11-06"
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
         }
       ],
-      "checked": "2026-11-06",
+      "checked": "2026-11-07",
       "previous_source_checks": [
         {
           "title": "Dates del día, reloj y lanzadera",
@@ -119325,6 +119439,16 @@
         "checked": "2026-11-06",
         "status": "editorial_review_and_targeted_refresh",
         "limits": "Se actualizaron el análisis editorial y las condiciones indicadas; no se confirman apertura del grupo, plazas, admisión individual ni personal real."
+      },
+      "pairing": {
+        "venue_id": "kor-daewon-gwangjin",
+        "verified_source": "https://www.dcampskorea.com/post/2027-winter-daewon",
+        "checked": "2026-11-06",
+        "fee": {
+          "amount": 989000,
+          "currency": "KRW",
+          "unit": "per_child_course"
+        }
       },
       "related_event_ids": [],
       "calendar_links": [
@@ -241178,7 +241302,7 @@
       "formats": [
         "day"
       ],
-      "age": "4–6 de primaria.",
+      "age": "Grados 4–6 de primaria.",
       "language": "Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.",
       "confirmed_instruction_languages": [],
       "programme": "Construcción Gigo y control de robot con micro:bit.",
@@ -241199,7 +241323,7 @@
             "price": "4000 TWD por turno. Tarifa de miembro Science Member 3600 TWD.",
             "source": "https://estore.ntsec.gov.tw/classDetail.aspx?CLASS_NUM=0000008180",
             "place": "National Taiwan Science Education Center · Taipei, Shilin",
-            "age": "4–6 de primaria.",
+            "age": "Grados 4–6 de primaria.",
             "family_fit": {
               "matvey": {
                 "status": "conditional",
@@ -273672,6 +273796,1568 @@
           ]
         }
       ]
+    },
+    {
+      "id": "CP1672",
+      "slug": "daewon-winter-2027-art-technology",
+      "provider": "D.CAMPS Daewon · Art & Technology",
+      "country": "Corea del Sur",
+      "iso": "KOR",
+      "place": "Daewon Campus · Gwangjin-gu · Seoul",
+      "themes": [
+        "technology",
+        "art",
+        "design"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Grados 1–3 de primaria.",
+      "language": "Todo el programa se imparte en inglés.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "Proyectos creativos de tecnología y diseño.",
+      "timing": {
+        "status": "published_2027",
+        "label": "11–15 y 18–22 de enero de 2027, 09:00–14:30. Inscripción regular hasta el 13 de noviembre de 2026. Confirmar horarios de autobús y plazas.",
+        "sessions": [
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "label": "Art & Technology",
+            "source": "https://www.dcampskorea.com/post/2027-winter-daewon",
+            "price": "KRW 989000 por 5 días. El autobús se paga por separado.",
+            "place": "Daewon Campus · Gwangjin-gu · Seoul",
+            "age": "Grados 1–3 de primaria.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "topic": "Proyectos creativos de tecnología y diseño.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-12",
+                "topic": "Proyectos creativos de tecnología y diseño.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-13",
+                "topic": "Proyectos creativos de tecnología y diseño.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-14",
+                "topic": "Proyectos creativos de tecnología y diseño.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-15",
+                "topic": "Proyectos creativos de tecnología y diseño.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Al verificar, la organización marca el módulo como casi completo. Confirmar plaza."
+            },
+            "deadline": "2026-11-13",
+            "questions": [
+              "Confirmar grado, preparación técnica, admisión internacional y plaza vigente antes de pagar."
+            ],
+            "programme": "Proyectos creativos de tecnología y diseño."
+          },
+          {
+            "start": "2027-01-18",
+            "end": "2027-01-22",
+            "label": "Art & Technology",
+            "source": "https://www.dcampskorea.com/post/2027-winter-daewon",
+            "price": "KRW 989000 por 5 días. El autobús se paga por separado.",
+            "place": "Daewon Campus · Gwangjin-gu · Seoul",
+            "age": "Grados 1–3 de primaria.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "topic": "Proyectos creativos de tecnología y diseño.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-19",
+                "topic": "Proyectos creativos de tecnología y diseño.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-20",
+                "topic": "Proyectos creativos de tecnología y diseño.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-21",
+                "topic": "Proyectos creativos de tecnología y diseño.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-22",
+                "topic": "Proyectos creativos de tecnología y diseño.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Al verificar, la organización marca el módulo como casi completo. Confirmar plaza."
+            },
+            "deadline": "2026-11-13",
+            "questions": [
+              "Confirmar grado, preparación técnica, admisión internacional y plaza vigente antes de pagar."
+            ],
+            "programme": "Proyectos creativos de tecnología y diseño."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "KRW",
+        "amount": 989000,
+        "unit": "per_child_course",
+        "label": "KRW 989000 por 5 días. El autobús se paga por separado.",
+        "included": "Cinco días lectivos, materiales y clases en el tema elegido. Confirmar comida y equipo.",
+        "extras": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+        "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      },
+      "accommodation": "Programa diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad."
+        }
+      },
+      "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar grado, preparación técnica, admisión internacional y plaza vigente antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://www.dcampskorea.com/post/2027-winter-dcamps",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.dcampskorea.com/post/2027-winter-daewon",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.dcampskorea.com/curriculum-dcampsenglishstem",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "pairing": {
+        "venue_id": "kor-daewon-gwangjin",
+        "verified_source": "https://www.dcampskorea.com/post/2027-winter-daewon",
+        "checked": "2026-11-06",
+        "fee": {
+          "amount": 989000,
+          "currency": "KRW",
+          "unit": "per_child_course"
+        }
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-11",
+          "end": "2027-01-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1672-20270111-20270115"
+          ]
+        },
+        {
+          "start": "2027-01-18",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1672-20270118-20270122"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1673",
+      "slug": "daewon-winter-2027-interstellar-explorer",
+      "provider": "D.CAMPS Daewon · Interstellar Explorer",
+      "country": "Corea del Sur",
+      "iso": "KOR",
+      "place": "Daewon Campus · Gwangjin-gu · Seoul",
+      "themes": [
+        "science",
+        "space",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Grados 1–3 de primaria.",
+      "language": "Todo el programa se imparte en inglés.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "Espacio, retos de exploración y experimentos prácticos.",
+      "timing": {
+        "status": "published_2027",
+        "label": "11–15 y 18–22 de enero de 2027, 09:00–14:30. Inscripción regular hasta el 13 de noviembre de 2026. Confirmar horarios de autobús y plazas.",
+        "sessions": [
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "label": "Interstellar Explorer",
+            "source": "https://www.dcampskorea.com/post/2027-winter-daewon",
+            "price": "KRW 989000 por 5 días. El autobús se paga por separado.",
+            "place": "Daewon Campus · Gwangjin-gu · Seoul",
+            "age": "Grados 1–3 de primaria.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "topic": "Espacio, retos de exploración y experimentos prácticos.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-12",
+                "topic": "Espacio, retos de exploración y experimentos prácticos.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-13",
+                "topic": "Espacio, retos de exploración y experimentos prácticos.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-14",
+                "topic": "Espacio, retos de exploración y experimentos prácticos.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-15",
+                "topic": "Espacio, retos de exploración y experimentos prácticos.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar disponibilidad y admisión."
+            },
+            "deadline": "2026-11-13",
+            "questions": [
+              "Confirmar grado, preparación técnica, admisión internacional y plaza vigente antes de pagar."
+            ],
+            "programme": "Espacio, retos de exploración y experimentos prácticos."
+          },
+          {
+            "start": "2027-01-18",
+            "end": "2027-01-22",
+            "label": "Interstellar Explorer",
+            "source": "https://www.dcampskorea.com/post/2027-winter-daewon",
+            "price": "KRW 989000 por 5 días. El autobús se paga por separado.",
+            "place": "Daewon Campus · Gwangjin-gu · Seoul",
+            "age": "Grados 1–3 de primaria.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "topic": "Espacio, retos de exploración y experimentos prácticos.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-19",
+                "topic": "Espacio, retos de exploración y experimentos prácticos.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-20",
+                "topic": "Espacio, retos de exploración y experimentos prácticos.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-21",
+                "topic": "Espacio, retos de exploración y experimentos prácticos.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-22",
+                "topic": "Espacio, retos de exploración y experimentos prácticos.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar disponibilidad y admisión."
+            },
+            "deadline": "2026-11-13",
+            "questions": [
+              "Confirmar grado, preparación técnica, admisión internacional y plaza vigente antes de pagar."
+            ],
+            "programme": "Espacio, retos de exploración y experimentos prácticos."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "KRW",
+        "amount": 989000,
+        "unit": "per_child_course",
+        "label": "KRW 989000 por 5 días. El autobús se paga por separado.",
+        "included": "Cinco días lectivos, materiales y clases en el tema elegido. Confirmar comida y equipo.",
+        "extras": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+        "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      },
+      "accommodation": "Programa diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad."
+        }
+      },
+      "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar grado, preparación técnica, admisión internacional y plaza vigente antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://www.dcampskorea.com/post/2027-winter-dcamps",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.dcampskorea.com/post/2027-winter-daewon",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.dcampskorea.com/curriculum-dcampsenglishstem",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "pairing": {
+        "venue_id": "kor-daewon-gwangjin",
+        "verified_source": "https://www.dcampskorea.com/post/2027-winter-daewon",
+        "checked": "2026-11-06",
+        "fee": {
+          "amount": 989000,
+          "currency": "KRW",
+          "unit": "per_child_course"
+        }
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-11",
+          "end": "2027-01-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1673-20270111-20270115"
+          ]
+        },
+        {
+          "start": "2027-01-18",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1673-20270118-20270122"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1674",
+      "slug": "daewon-winter-2027-interstellar-endeavor",
+      "provider": "D.CAMPS Daewon · Interstellar Endeavor",
+      "country": "Corea del Sur",
+      "iso": "KOR",
+      "place": "Daewon Campus · Gwangjin-gu · Seoul",
+      "themes": [
+        "science",
+        "space"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Grado 1 de primaria.",
+      "language": "Todo el programa se imparte en inglés.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "Itinerario espacial inicial para grado 1.",
+      "timing": {
+        "status": "published_2027",
+        "label": "11–15 y 18–22 de enero de 2027, 09:00–14:30. Inscripción regular hasta el 13 de noviembre de 2026. Confirmar horarios de autobús y plazas.",
+        "sessions": [
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "label": "Interstellar Endeavor",
+            "source": "https://www.dcampskorea.com/post/2027-winter-daewon",
+            "price": "KRW 989000 por 5 días. El autobús se paga por separado.",
+            "place": "Daewon Campus · Gwangjin-gu · Seoul",
+            "age": "Grado 1 de primaria.",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "No por ahora según el nivel escolar publicado."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "topic": "Itinerario espacial inicial para grado 1.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-12",
+                "topic": "Itinerario espacial inicial para grado 1.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-13",
+                "topic": "Itinerario espacial inicial para grado 1.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-14",
+                "topic": "Itinerario espacial inicial para grado 1.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-15",
+                "topic": "Itinerario espacial inicial para grado 1.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Al verificar, la organización marca el módulo como casi completo. Confirmar plaza."
+            },
+            "deadline": "2026-11-13",
+            "questions": [
+              "Confirmar grado, preparación técnica, admisión internacional y plaza vigente antes de pagar."
+            ],
+            "programme": "Itinerario espacial inicial para grado 1."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "KRW",
+        "amount": 989000,
+        "unit": "per_child_course",
+        "label": "KRW 989000 por 5 días. El autobús se paga por separado.",
+        "included": "Cinco días lectivos, materiales y clases en el tema elegido. Confirmar comida y equipo.",
+        "extras": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+        "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      },
+      "accommodation": "Programa diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "No por ahora según el nivel escolar publicado."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad."
+        }
+      },
+      "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar grado, preparación técnica, admisión internacional y plaza vigente antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://www.dcampskorea.com/post/2027-winter-dcamps",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.dcampskorea.com/post/2027-winter-daewon",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.dcampskorea.com/curriculum-dcampsenglishstem",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "pairing": {
+        "venue_id": "kor-daewon-gwangjin",
+        "verified_source": "https://www.dcampskorea.com/post/2027-winter-daewon",
+        "checked": "2026-11-06",
+        "fee": {
+          "amount": 989000,
+          "currency": "KRW",
+          "unit": "per_child_course"
+        }
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-11",
+          "end": "2027-01-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1674-20270111-20270115"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1675",
+      "slug": "daewon-winter-2027-interstellar-astronaut",
+      "provider": "D.CAMPS Daewon · Interstellar Astronaut",
+      "country": "Corea del Sur",
+      "iso": "KOR",
+      "place": "Daewon Campus · Gwangjin-gu · Seoul",
+      "themes": [
+        "science",
+        "space",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Grados 4–6 de primaria.",
+      "language": "Todo el programa se imparte en inglés.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "Ingeniería espacial para el grupo mayor.",
+      "timing": {
+        "status": "published_2027",
+        "label": "11–15 y 18–22 de enero de 2027, 09:00–14:30. Inscripción regular hasta el 13 de noviembre de 2026. Confirmar horarios de autobús y plazas.",
+        "sessions": [
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "label": "Interstellar Astronaut",
+            "source": "https://www.dcampskorea.com/post/2027-winter-daewon",
+            "price": "KRW 989000 por 5 días. El autobús se paga por separado.",
+            "place": "Daewon Campus · Gwangjin-gu · Seoul",
+            "age": "Grados 4–6 de primaria.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "No por ahora según el nivel escolar publicado."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "topic": "Ingeniería espacial para el grupo mayor.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-12",
+                "topic": "Ingeniería espacial para el grupo mayor.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-13",
+                "topic": "Ingeniería espacial para el grupo mayor.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-14",
+                "topic": "Ingeniería espacial para el grupo mayor.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-15",
+                "topic": "Ingeniería espacial para el grupo mayor.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar disponibilidad y admisión."
+            },
+            "deadline": "2026-11-13",
+            "questions": [
+              "Confirmar grado, preparación técnica, admisión internacional y plaza vigente antes de pagar."
+            ],
+            "programme": "Ingeniería espacial para el grupo mayor."
+          },
+          {
+            "start": "2027-01-18",
+            "end": "2027-01-22",
+            "label": "Interstellar Astronaut",
+            "source": "https://www.dcampskorea.com/post/2027-winter-daewon",
+            "price": "KRW 989000 por 5 días. El autobús se paga por separado.",
+            "place": "Daewon Campus · Gwangjin-gu · Seoul",
+            "age": "Grados 4–6 de primaria.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "No por ahora según el nivel escolar publicado."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "topic": "Ingeniería espacial para el grupo mayor.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-19",
+                "topic": "Ingeniería espacial para el grupo mayor.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-20",
+                "topic": "Ingeniería espacial para el grupo mayor.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-21",
+                "topic": "Ingeniería espacial para el grupo mayor.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-22",
+                "topic": "Ingeniería espacial para el grupo mayor.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar disponibilidad y admisión."
+            },
+            "deadline": "2026-11-13",
+            "questions": [
+              "Confirmar grado, preparación técnica, admisión internacional y plaza vigente antes de pagar."
+            ],
+            "programme": "Ingeniería espacial para el grupo mayor."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "KRW",
+        "amount": 989000,
+        "unit": "per_child_course",
+        "label": "KRW 989000 por 5 días. El autobús se paga por separado.",
+        "included": "Cinco días lectivos, materiales y clases en el tema elegido. Confirmar comida y equipo.",
+        "extras": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+        "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      },
+      "accommodation": "Programa diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No por ahora según el nivel escolar publicado."
+        }
+      },
+      "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar grado, preparación técnica, admisión internacional y plaza vigente antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://www.dcampskorea.com/post/2027-winter-dcamps",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.dcampskorea.com/post/2027-winter-daewon",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.dcampskorea.com/curriculum-dcampsenglishstem",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "pairing": {
+        "venue_id": "kor-daewon-gwangjin",
+        "verified_source": "https://www.dcampskorea.com/post/2027-winter-daewon",
+        "checked": "2026-11-06",
+        "fee": {
+          "amount": 989000,
+          "currency": "KRW",
+          "unit": "per_child_course"
+        }
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-11",
+          "end": "2027-01-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1675-20270111-20270115"
+          ]
+        },
+        {
+          "start": "2027-01-18",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1675-20270118-20270122"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1676",
+      "slug": "daewon-winter-2027-artificial-intelligence",
+      "provider": "D.CAMPS Daewon · Artificial Intelligence",
+      "country": "Corea del Sur",
+      "iso": "KOR",
+      "place": "Daewon Campus · Gwangjin-gu · Seoul",
+      "themes": [
+        "ai",
+        "technology",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Grados 4–6 de primaria.",
+      "language": "Todo el programa se imparte en inglés.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "Introducción a la IA y análisis de decisiones en inglés.",
+      "timing": {
+        "status": "published_2027",
+        "label": "11–15 y 18–22 de enero de 2027, 09:00–14:30. Inscripción regular hasta el 13 de noviembre de 2026. Confirmar horarios de autobús y plazas.",
+        "sessions": [
+          [
+            "2027-01-18",
+            "2027-01-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-18",
+            "end": "2027-01-22",
+            "label": "Artificial Intelligence",
+            "source": "https://www.dcampskorea.com/post/2027-winter-daewon",
+            "price": "KRW 989000 por 5 días. El autobús se paga por separado.",
+            "place": "Daewon Campus · Gwangjin-gu · Seoul",
+            "age": "Grados 4–6 de primaria.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "No por ahora según el nivel escolar publicado."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "topic": "Introducción a la IA y análisis de decisiones en inglés.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-19",
+                "topic": "Introducción a la IA y análisis de decisiones en inglés.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-20",
+                "topic": "Introducción a la IA y análisis de decisiones en inglés.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-21",
+                "topic": "Introducción a la IA y análisis de decisiones en inglés.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-22",
+                "topic": "Introducción a la IA y análisis de decisiones en inglés.",
+                "start_time": "09:00",
+                "end_time": "14:30",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar disponibilidad y admisión."
+            },
+            "deadline": "2026-11-13",
+            "questions": [
+              "Confirmar grado, preparación técnica, admisión internacional y plaza vigente antes de pagar."
+            ],
+            "programme": "Introducción a la IA y análisis de decisiones en inglés."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "KRW",
+        "amount": 989000,
+        "unit": "per_child_course",
+        "label": "KRW 989000 por 5 días. El autobús se paga por separado.",
+        "included": "Cinco días lectivos, materiales y clases en el tema elegido. Confirmar comida y equipo.",
+        "extras": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+        "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      },
+      "accommodation": "Programa diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No por ahora según el nivel escolar publicado."
+        }
+      },
+      "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar grado, preparación técnica, admisión internacional y plaza vigente antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://www.dcampskorea.com/post/2027-winter-dcamps",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.dcampskorea.com/post/2027-winter-daewon",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.dcampskorea.com/curriculum-dcampsenglishstem",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "pairing": {
+        "venue_id": "kor-daewon-gwangjin",
+        "verified_source": "https://www.dcampskorea.com/post/2027-winter-daewon",
+        "checked": "2026-11-06",
+        "fee": {
+          "amount": 989000,
+          "currency": "KRW",
+          "unit": "per_child_course"
+        }
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-18",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1676-20270118-20270122"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1677",
+      "slug": "doodlish-jeju-winter-2027",
+      "provider": "Doodlish · English Skills Boost Camp",
+      "country": "Corea del Sur",
+      "iso": "KOR",
+      "place": "Jeju · Doodlish Camp",
+      "themes": [
+        "general",
+        "languages",
+        "nature"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "7–11",
+      "language": "Todo el programa se imparte en inglés.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "Clases de inglés por la mañana, naturaleza y cultura de Jeju por la tarde. Excursiones el 13 y el 20 de enero.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Del 11 al 22 de enero de 2027, de lunes a viernes de 09:00 a 15:00. Se puede elegir una o dos semanas.",
+        "sessions": [
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-22"
+          ],
+          [
+            "2027-01-11",
+            "2027-01-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "label": "English Skills Boost Camp",
+            "source": "https://doodlishcamp.com/",
+            "price": "KRW 600000 por semana. 2 semanas a tarifa semanal suman KRW 1200000. Comida incluida.",
+            "place": "Jeju · Doodlish Camp",
+            "age": "7–11",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Condicional si ya ha cumplido 7 años al comenzar el taller."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "topic": "Clases de inglés por la mañana, naturaleza y cultura de Jeju por la tarde. Excursiones el 13 y el 20 de enero.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-12",
+                "topic": "Clases de inglés por la mañana, naturaleza y cultura de Jeju por la tarde. Excursiones el 13 y el 20 de enero.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-13",
+                "topic": "Clases de inglés por la mañana, naturaleza y cultura de Jeju por la tarde. Excursiones el 13 y el 20 de enero.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-14",
+                "topic": "Clases de inglés por la mañana, naturaleza y cultura de Jeju por la tarde. Excursiones el 13 y el 20 de enero.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-15",
+                "topic": "Clases de inglés por la mañana, naturaleza y cultura de Jeju por la tarde. Excursiones el 13 y el 20 de enero.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar disponibilidad y admisión."
+            }
+          },
+          {
+            "start": "2027-01-18",
+            "end": "2027-01-22",
+            "label": "English Skills Boost Camp",
+            "source": "https://doodlishcamp.com/",
+            "price": "KRW 600000 por semana. 2 semanas a tarifa semanal suman KRW 1200000. Comida incluida.",
+            "place": "Jeju · Doodlish Camp",
+            "age": "7–11",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Condicional si ya ha cumplido 7 años al comenzar el taller."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "topic": "Clases de inglés por la mañana, naturaleza y cultura de Jeju por la tarde. Excursiones el 13 y el 20 de enero.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-19",
+                "topic": "Clases de inglés por la mañana, naturaleza y cultura de Jeju por la tarde. Excursiones el 13 y el 20 de enero.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-20",
+                "topic": "Clases de inglés por la mañana, naturaleza y cultura de Jeju por la tarde. Excursiones el 13 y el 20 de enero.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-21",
+                "topic": "Clases de inglés por la mañana, naturaleza y cultura de Jeju por la tarde. Excursiones el 13 y el 20 de enero.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-22",
+                "topic": "Clases de inglés por la mañana, naturaleza y cultura de Jeju por la tarde. Excursiones el 13 y el 20 de enero.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar disponibilidad y admisión."
+            }
+          },
+          {
+            "start": "2027-01-11",
+            "end": "2027-01-22",
+            "label": "English Skills Boost Camp",
+            "source": "https://doodlishcamp.com/",
+            "price": "KRW 600000 por semana. 2 semanas a tarifa semanal suman KRW 1200000. Comida incluida.",
+            "place": "Jeju · Doodlish Camp",
+            "age": "7–11",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Condicional si ya ha cumplido 7 años al comenzar el taller."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "topic": "Clases de inglés por la mañana, naturaleza y cultura de Jeju por la tarde. Excursiones el 13 y el 20 de enero.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-12",
+                "topic": "Clases de inglés por la mañana, naturaleza y cultura de Jeju por la tarde. Excursiones el 13 y el 20 de enero.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-13",
+                "topic": "Clases de inglés por la mañana, naturaleza y cultura de Jeju por la tarde. Excursiones el 13 y el 20 de enero.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-14",
+                "topic": "Clases de inglés por la mañana, naturaleza y cultura de Jeju por la tarde. Excursiones el 13 y el 20 de enero.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-15",
+                "topic": "Clases de inglés por la mañana, naturaleza y cultura de Jeju por la tarde. Excursiones el 13 y el 20 de enero.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-18",
+                "topic": "Clases de inglés por la mañana, naturaleza y cultura de Jeju por la tarde. Excursiones el 13 y el 20 de enero.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-19",
+                "topic": "Clases de inglés por la mañana, naturaleza y cultura de Jeju por la tarde. Excursiones el 13 y el 20 de enero.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-20",
+                "topic": "Clases de inglés por la mañana, naturaleza y cultura de Jeju por la tarde. Excursiones el 13 y el 20 de enero.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-21",
+                "topic": "Clases de inglés por la mañana, naturaleza y cultura de Jeju por la tarde. Excursiones el 13 y el 20 de enero.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-22",
+                "topic": "Clases de inglés por la mañana, naturaleza y cultura de Jeju por la tarde. Excursiones el 13 y el 20 de enero.",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Seoul",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar disponibilidad y admisión."
+            }
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "KRW",
+        "amount": 600000,
+        "unit": "per_child_week",
+        "label": "KRW 600000 por semana. 2 semanas a tarifa semanal suman KRW 1200000. Comida incluida.",
+        "included": "KRW 600000 por semana. 2 semanas a tarifa semanal suman KRW 1200000. Comida incluida.",
+        "extras": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+        "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      },
+      "accommodation": "Programa diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional si ya ha cumplido 7 años al comenzar el taller."
+        }
+      },
+      "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      ],
+      "sources": [
+        {
+          "url": "https://doodlishcamp.com/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-11",
+          "end": "2027-01-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1677-20270111-20270115"
+          ]
+        },
+        {
+          "start": "2027-01-18",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1677-20270118-20270122"
+          ]
+        },
+        {
+          "start": "2027-01-11",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1677-20270111-20270122"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1678",
+      "slug": "ace-winter-2026-27",
+      "provider": "ACE · English Winter Camp",
+      "country": "Malasia",
+      "iso": "MYS",
+      "place": "ACE Language Centre · Mont Kiara · Kuala Lumpur",
+      "themes": [
+        "general",
+        "languages",
+        "science"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "7–16",
+      "language": "Todo el programa se imparte en inglés.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "Inglés, proyectos en grupo y excursiones educativas. El programa menciona el National Science Centre.",
+      "timing": {
+        "status": "announced_dates_programme_pending",
+        "label": "Ventanas del 2 de diciembre de 2026 al 3 de enero de 2027 y del 3 de enero al 28 de febrero de 2027. Elección de 1–4 semanas. Acordar los días de la semana seleccionada. Opciones de 09:00–13:00 o 09:00–15:00.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "announced_month",
+        "announced_months": [
+          "2026-12",
+          "2027-01",
+          "2027-02"
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "currency": "MYR",
+        "amount": 700,
+        "unit": "per_child_week",
+        "label": "Desde MYR 700 por semana de enseñanza. Confirmar alojamiento, excursiones y precio completo del paquete.",
+        "included": "Precio sin publicar.",
+        "extras": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+        "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      },
+      "accommodation": "Programa diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional si ya ha cumplido 7 años al comenzar el taller."
+        }
+      },
+      "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+      ],
+      "sources": [
+        {
+          "url": "https://www.acelanguagecentre.my/courses/winter-camp",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.acelanguagecentre.my/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": []
     }
   ],
   "gaps": [
@@ -278997,7 +280683,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 215,
+  "version": 216,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -292232,7 +293918,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1671,
+      "total_dossiers": 1678,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -310387,6 +312073,61 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP1672",
+      "event_id": "CP1672-20270111-20270115",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1672",
+      "event_id": "CP1672-20270118-20270122",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1673",
+      "event_id": "CP1673-20270111-20270115",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1673",
+      "event_id": "CP1673-20270118-20270122",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1674",
+      "event_id": "CP1674-20270111-20270115",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1675",
+      "event_id": "CP1675-20270111-20270115",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1675",
+      "event_id": "CP1675-20270118-20270122",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1676",
+      "event_id": "CP1676-20270118-20270122",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1677",
+      "event_id": "CP1677-20270111-20270115",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1677",
+      "event_id": "CP1677-20270118-20270122",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1677",
+      "event_id": "CP1677-20270111-20270122",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -314263,10 +316004,21 @@
     "CP1668-20270105-20270211",
     "CP1669-20270105-20270211",
     "CP1670-20270105-20270211",
-    "CP1671-20270111-20270115"
+    "CP1671-20270111-20270115",
+    "CP1672-20270111-20270115",
+    "CP1672-20270118-20270122",
+    "CP1673-20270111-20270115",
+    "CP1673-20270118-20270122",
+    "CP1674-20270111-20270115",
+    "CP1675-20270111-20270115",
+    "CP1675-20270118-20270122",
+    "CP1676-20270118-20270122",
+    "CP1677-20270111-20270115",
+    "CP1677-20270118-20270122",
+    "CP1677-20270111-20270122"
   ],
   "integration": {
-    "generated_sessions": 3446,
+    "generated_sessions": 3457,
     "reused_legacy_events": 69,
     "seasonal_windows": 60,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-07. 1671 fichas en 92 países. Cada ficha indica las fechas de verificación de sus fuentes.
+Estado de la base: 2026-11-07. 1678 fichas en 92 países. Cada ficha indica las fechas de verificación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -63544,31 +63544,31 @@ Singapur · Nexus International School · Singapore
 
 ## CP877 · D.CAMPS · Daewon English STEM Winter
 
-Corea del Sur · Daewon Campus · Seoul Gwangjin-gu
+Corea del Sur · Daewon Campus · Gwangjin-gu · Seoul
 
-**Se ha comprobado:** 2026-11-06
+**Se ha comprobado:** 2026-11-07
 
-**Edad:** Campus de invierno: 1–6 Clases; Coding & Robotics / Art & Technology 1–3; AI y Astronaut 4–6.
+**Edad:** Grados 1–3 de primaria.
 
-** Idioma: ** El anuncio 2027 confirma el programa inglés; FAQ precisa que la seguridad se explica en coreano.
+**Idioma:** Todo el programa se imparte en inglés.
 
-**Programa:** CTEB 1–3: Ringbit de la micro:bit, programable LEGO, sensores y misiones. Art & Technology 1–3: generative AI/mediarete. para el 4–6: AI storytelling/presentation, el espacio rover y reverse engineering. ¿Qué módulos están disponibles cada semana?, más confirmación por el juego 2027. En la convocatoria ordinaria, AI para Grades 4–6 figura solo del 18–22 de enero; no aparece en la lista diurna del 11–15 de enero.
+**Programa:** Coding & Robotics. Programación por bloques, retos de robótica y montaje según el módulo.
 
 ** Reclutamiento:** Campamento diurno; trasbordador a domicilio; la reunión en línea no es obligatoria durante cinco minutos.
 
-**Fechas / situación:** 11–15 y 18–22 enero 2027, 09:00–14:30. Por 15 niños curriculum. Fechas viejas Location página 2024 sin utilizar.
+**Fechas / estado:** 11–15 y 18–22 de enero de 2027, 09:00–14:30. Inscripción regular hasta el 13 de noviembre de 2026. Confirmar horarios de autobús y plazas.
 
-** Cena/año:** 2027 · KRW 989000 en cinco días; el 890100 de septiembre ya no está en vigor.
+**Precio / año:** 2027 · KRW 989000 por 5 días. El autobús se paga por separado.
 
 ** Incluye:** English STEEM, material preparado; la cafetería y la comida y la educación médica se describen en las instrucciones de invierno.
 
-**Suplementos:** la escuela de la escuela por pago adicional; la familia vive por separado. portátil/micro:bit, cobertura de seguro, recepción extranjera y la cuenta final también confirmar. En el anuncio ordinario hasta el 13.11.2026: 5% para dos participantes y 10% para tres, sin acumular descuentos. Primero se paga la tarifa completa; el descuento se devuelve tras verificar la participación real.
+**Suplementos:** Para dos, KRW 1978000 al inscribirse. Devolución del 5% tras participar si se cumplen las condiciones. Total estimado KRW 1879100. Autobús, seguro y gastos familiares por separado.
 
 **Pago:** Normas internas: hasta el inicio 100% por 20 días, 90% por 10, 80% Por uno; al día de comienzo 70%, hasta la mitad del turno 50%, luego no.. Aplicabilidad a la selección, Seguro y gastos médicos de un niño extranjero para verificar el contrato. El descuento de septiembre terminó. 18.09.2026.
 
-**Matvey:** Se requiere una clase confirmada: 1–3 para CTEB o 4–6 para AI. De 2017 No puedes tener la clase coreana correcta..
+**Matvey:** Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad.
 
-**Oscar:** 2020 Fecha de nacimiento no prueba 1-¡Vaya clase para enero!. Si aún es preescolar., juego estándar 1–6 No encaja.; separado junior intake no encontrado.
+**Oscar:** Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad.
 
 ** Por qué en la selección:** el candidato técnico inglés de Matway con un calendario específico en enero; Oscar necesita un examen de primera clase.
 
@@ -63620,43 +63620,85 @@ STEM en inglés en Seúl: la semana y el curso escolar determinan las opciones d
 
 ### Antes de solicitar plaza
 
-- confirmar el equivalente de clase, el EN de acompañamiento de seguridad, la recepción individual en el extranjero y el módulo específico de la semana.
+- Confirmar grado, preparación técnica, admisión internacional y plaza vigente antes de pagar.
 
-- SNU/Harvard las menciones del operador no significan créditos universitarios o una recompensa externa.
-
-### Daewon · English STEM; clase/modules para confirmar
+### Coding & Robotics
 
 **Fechas / estado:** 2027-01-11 — 2027-01-15
 
-**lugar:** Daewon Campus · Seoul Gwangjin-gu
+**lugar:** Daewon Campus · Gwangjin-gu · Seoul
 
-**Precio:** KRW 989000; el precio habitual
+**Edad:** Grados 1–3 de primaria.
+
+**Precio:** KRW 989000 por 5 días. El autobús se paga por separado.
+
+**Programa:** Coding & Robotics. Programación por bloques, retos de robótica y montaje según el módulo.
+
+- 2027-01-11 · 09:00–14:30 · Asia/Seoul · Coding & Robotics. Programación por bloques, retos de robótica y montaje según el módulo.
+
+- 2027-01-12 · 09:00–14:30 · Asia/Seoul · Coding & Robotics. Programación por bloques, retos de robótica y montaje según el módulo.
+
+- 2027-01-13 · 09:00–14:30 · Asia/Seoul · Coding & Robotics. Programación por bloques, retos de robótica y montaje según el módulo.
+
+- 2027-01-14 · 09:00–14:30 · Asia/Seoul · Coding & Robotics. Programación por bloques, retos de robótica y montaje según el módulo.
+
+- 2027-01-15 · 09:00–14:30 · Asia/Seoul · Coding & Robotics. Programación por bloques, retos de robótica y montaje según el módulo.
+
+**Disponibilidad de plazas:** Al verificar, la organización marca el módulo como casi completo. Confirmar plaza.
+
+**Matvey:** Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad.
+
+**Oscar:** Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad.
+
+- Confirmar grado, preparación técnica, admisión internacional y plaza vigente antes de pagar.
 
 [fuente](https://www.dcampskorea.com/post/2027-winter-daewon)
 
-### Daewon · English STEM; clase/modules para confirmar
+### Coding & Robotics
 
 **Fechas / estado:** 2027-01-18 — 2027-01-22
 
-**lugar:** Daewon Campus · Seoul Gwangjin-gu
+**lugar:** Daewon Campus · Gwangjin-gu · Seoul
 
-**Precio:** KRW 989000; el precio habitual
+**Edad:** Grados 1–3 de primaria.
+
+**Precio:** KRW 989000 por 5 días. El autobús se paga por separado.
+
+**Programa:** Coding & Robotics. Programación por bloques, retos de robótica y montaje según el módulo.
+
+- 2027-01-18 · 09:00–14:30 · Asia/Seoul · Coding & Robotics. Programación por bloques, retos de robótica y montaje según el módulo.
+
+- 2027-01-19 · 09:00–14:30 · Asia/Seoul · Coding & Robotics. Programación por bloques, retos de robótica y montaje según el módulo.
+
+- 2027-01-20 · 09:00–14:30 · Asia/Seoul · Coding & Robotics. Programación por bloques, retos de robótica y montaje según el módulo.
+
+- 2027-01-21 · 09:00–14:30 · Asia/Seoul · Coding & Robotics. Programación por bloques, retos de robótica y montaje según el módulo.
+
+- 2027-01-22 · 09:00–14:30 · Asia/Seoul · Coding & Robotics. Programación por bloques, retos de robótica y montaje según el módulo.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad.
+
+**Oscar:** Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad.
+
+- Confirmar grado, preparación técnica, admisión internacional y plaza vigente antes de pagar.
 
 [fuente](https://www.dcampskorea.com/post/2027-winter-daewon)
 
 ### Fuentes
 
-- [Dates del día, reloj y lanzadera](https://www.dcampskorea.com/post/2027-winter-daewon) · 2026-11-06
+- [Página oficial del organizador](https://www.dcampskorea.com/post/2027-winter-daewon) · 2026-11-07
 
 - [el conjunto actual de invierno: clases , precio y lenguas](https://www.dcampskorea.com/post/early1-winter-2027) · 2026-11-06
 
-- [programa por clases](https://www.dcampskorea.com/curriculum-dcampsenglishstem) · 2026-11-06
+- [Página oficial del organizador](https://www.dcampskorea.com/curriculum-dcampsenglishstem) · 2026-11-07
 
 - [FAQ: Inglés, seguridad coreana y grupos](https://www.dcampskorea.com/faq) · 2026-11-06
 
 - [condiciones de devolución](https://www.dcampskorea.com/policy) · 2026-11-06
 
-- [D.CAMPS · 2027 Winter Regular Registration](https://www.dcampskorea.com/post/2027-winter-dcamps) · 2026-11-06
+- [Página oficial del organizador](https://www.dcampskorea.com/post/2027-winter-dcamps) · 2026-11-07
 
 ## CP878 · D.CAMPS · Seoul National University STEM Boarding
 
@@ -113168,7 +113210,7 @@ Taiwán · National Taiwan Science Education Center · Taipei, Shilin
 
 **Se ha comprobado:** 2026-11-07
 
-**edad:** 4–6 de primaria.
+**Edad:** Grados 4–6 de primaria.
 
 **Idioma:** Idiomas de enseñanza inglés y español aún sin confirmar. Confirmar idioma del grupo y apoyo para alumnado extranjero.
 
@@ -113204,7 +113246,7 @@ Taiwán · National Taiwan Science Education Center · Taipei, Shilin
 
 **lugar:** National Taiwan Science Education Center · Taipei, Shilin
 
-**edad:** 4–6 de primaria.
+**Edad:** Grados 4–6 de primaria.
 
 **Precio:** 4000 TWD por turno. Tarifa de miembro Science Member 3600 TWD.
 
@@ -128947,6 +128989,644 @@ Costa Rica · Blue Valley School · San José
 ### Fuentes
 
 - [Página oficial del organizador](https://barcaacademycampscostarica.com/camps-costa-rica/) · 2026-11-07
+
+## CP1672 · D.CAMPS Daewon · Art & Technology
+
+Corea del Sur · Daewon Campus · Gwangjin-gu · Seoul
+
+**Se ha comprobado:** 2026-11-07
+
+**Edad:** Grados 1–3 de primaria.
+
+**Idioma:** Todo el programa se imparte en inglés.
+
+**Programa:** Proyectos creativos de tecnología y diseño.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 11–15 y 18–22 de enero de 2027, 09:00–14:30. Inscripción regular hasta el 13 de noviembre de 2026. Confirmar horarios de autobús y plazas.
+
+**Precio / año:** 2027 · KRW 989000 por 5 días. El autobús se paga por separado.
+
+**Incluido:** Cinco días lectivos, materiales y clases en el tema elegido. Confirmar comida y equipo.
+
+**Suplementos:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad.
+
+**Oscar:** Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar grado, preparación técnica, admisión internacional y plaza vigente antes de pagar.
+
+### Art & Technology
+
+**Fechas / estado:** 2027-01-11 — 2027-01-15
+
+**lugar:** Daewon Campus · Gwangjin-gu · Seoul
+
+**Edad:** Grados 1–3 de primaria.
+
+**Precio:** KRW 989000 por 5 días. El autobús se paga por separado.
+
+**Programa:** Proyectos creativos de tecnología y diseño.
+
+- 2027-01-11 · 09:00–14:30 · Asia/Seoul · Proyectos creativos de tecnología y diseño.
+
+- 2027-01-12 · 09:00–14:30 · Asia/Seoul · Proyectos creativos de tecnología y diseño.
+
+- 2027-01-13 · 09:00–14:30 · Asia/Seoul · Proyectos creativos de tecnología y diseño.
+
+- 2027-01-14 · 09:00–14:30 · Asia/Seoul · Proyectos creativos de tecnología y diseño.
+
+- 2027-01-15 · 09:00–14:30 · Asia/Seoul · Proyectos creativos de tecnología y diseño.
+
+**Disponibilidad de plazas:** Al verificar, la organización marca el módulo como casi completo. Confirmar plaza.
+
+**Matvey:** Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad.
+
+**Oscar:** Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad.
+
+- Confirmar grado, preparación técnica, admisión internacional y plaza vigente antes de pagar.
+
+[fuente](https://www.dcampskorea.com/post/2027-winter-daewon)
+
+### Art & Technology
+
+**Fechas / estado:** 2027-01-18 — 2027-01-22
+
+**lugar:** Daewon Campus · Gwangjin-gu · Seoul
+
+**Edad:** Grados 1–3 de primaria.
+
+**Precio:** KRW 989000 por 5 días. El autobús se paga por separado.
+
+**Programa:** Proyectos creativos de tecnología y diseño.
+
+- 2027-01-18 · 09:00–14:30 · Asia/Seoul · Proyectos creativos de tecnología y diseño.
+
+- 2027-01-19 · 09:00–14:30 · Asia/Seoul · Proyectos creativos de tecnología y diseño.
+
+- 2027-01-20 · 09:00–14:30 · Asia/Seoul · Proyectos creativos de tecnología y diseño.
+
+- 2027-01-21 · 09:00–14:30 · Asia/Seoul · Proyectos creativos de tecnología y diseño.
+
+- 2027-01-22 · 09:00–14:30 · Asia/Seoul · Proyectos creativos de tecnología y diseño.
+
+**Disponibilidad de plazas:** Al verificar, la organización marca el módulo como casi completo. Confirmar plaza.
+
+**Matvey:** Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad.
+
+**Oscar:** Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad.
+
+- Confirmar grado, preparación técnica, admisión internacional y plaza vigente antes de pagar.
+
+[fuente](https://www.dcampskorea.com/post/2027-winter-daewon)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.dcampskorea.com/post/2027-winter-dcamps) · 2026-11-07
+
+- [Página oficial del organizador](https://www.dcampskorea.com/post/2027-winter-daewon) · 2026-11-07
+
+- [Página oficial del organizador](https://www.dcampskorea.com/curriculum-dcampsenglishstem) · 2026-11-07
+
+## CP1673 · D.CAMPS Daewon · Interstellar Explorer
+
+Corea del Sur · Daewon Campus · Gwangjin-gu · Seoul
+
+**Se ha comprobado:** 2026-11-07
+
+**Edad:** Grados 1–3 de primaria.
+
+**Idioma:** Todo el programa se imparte en inglés.
+
+**Programa:** Espacio, retos de exploración y experimentos prácticos.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 11–15 y 18–22 de enero de 2027, 09:00–14:30. Inscripción regular hasta el 13 de noviembre de 2026. Confirmar horarios de autobús y plazas.
+
+**Precio / año:** 2027 · KRW 989000 por 5 días. El autobús se paga por separado.
+
+**Incluido:** Cinco días lectivos, materiales y clases en el tema elegido. Confirmar comida y equipo.
+
+**Suplementos:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad.
+
+**Oscar:** Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar grado, preparación técnica, admisión internacional y plaza vigente antes de pagar.
+
+### Interstellar Explorer
+
+**Fechas / estado:** 2027-01-11 — 2027-01-15
+
+**lugar:** Daewon Campus · Gwangjin-gu · Seoul
+
+**Edad:** Grados 1–3 de primaria.
+
+**Precio:** KRW 989000 por 5 días. El autobús se paga por separado.
+
+**Programa:** Espacio, retos de exploración y experimentos prácticos.
+
+- 2027-01-11 · 09:00–14:30 · Asia/Seoul · Espacio, retos de exploración y experimentos prácticos.
+
+- 2027-01-12 · 09:00–14:30 · Asia/Seoul · Espacio, retos de exploración y experimentos prácticos.
+
+- 2027-01-13 · 09:00–14:30 · Asia/Seoul · Espacio, retos de exploración y experimentos prácticos.
+
+- 2027-01-14 · 09:00–14:30 · Asia/Seoul · Espacio, retos de exploración y experimentos prácticos.
+
+- 2027-01-15 · 09:00–14:30 · Asia/Seoul · Espacio, retos de exploración y experimentos prácticos.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad.
+
+**Oscar:** Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad.
+
+- Confirmar grado, preparación técnica, admisión internacional y plaza vigente antes de pagar.
+
+[fuente](https://www.dcampskorea.com/post/2027-winter-daewon)
+
+### Interstellar Explorer
+
+**Fechas / estado:** 2027-01-18 — 2027-01-22
+
+**lugar:** Daewon Campus · Gwangjin-gu · Seoul
+
+**Edad:** Grados 1–3 de primaria.
+
+**Precio:** KRW 989000 por 5 días. El autobús se paga por separado.
+
+**Programa:** Espacio, retos de exploración y experimentos prácticos.
+
+- 2027-01-18 · 09:00–14:30 · Asia/Seoul · Espacio, retos de exploración y experimentos prácticos.
+
+- 2027-01-19 · 09:00–14:30 · Asia/Seoul · Espacio, retos de exploración y experimentos prácticos.
+
+- 2027-01-20 · 09:00–14:30 · Asia/Seoul · Espacio, retos de exploración y experimentos prácticos.
+
+- 2027-01-21 · 09:00–14:30 · Asia/Seoul · Espacio, retos de exploración y experimentos prácticos.
+
+- 2027-01-22 · 09:00–14:30 · Asia/Seoul · Espacio, retos de exploración y experimentos prácticos.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad.
+
+**Oscar:** Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad.
+
+- Confirmar grado, preparación técnica, admisión internacional y plaza vigente antes de pagar.
+
+[fuente](https://www.dcampskorea.com/post/2027-winter-daewon)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.dcampskorea.com/post/2027-winter-dcamps) · 2026-11-07
+
+- [Página oficial del organizador](https://www.dcampskorea.com/post/2027-winter-daewon) · 2026-11-07
+
+- [Página oficial del organizador](https://www.dcampskorea.com/curriculum-dcampsenglishstem) · 2026-11-07
+
+## CP1674 · D.CAMPS Daewon · Interstellar Endeavor
+
+Corea del Sur · Daewon Campus · Gwangjin-gu · Seoul
+
+**Se ha comprobado:** 2026-11-07
+
+**Edad:** Grado 1 de primaria.
+
+**Idioma:** Todo el programa se imparte en inglés.
+
+**Programa:** Itinerario espacial inicial para grado 1.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 11–15 y 18–22 de enero de 2027, 09:00–14:30. Inscripción regular hasta el 13 de noviembre de 2026. Confirmar horarios de autobús y plazas.
+
+**Precio / año:** 2027 · KRW 989000 por 5 días. El autobús se paga por separado.
+
+**Incluido:** Cinco días lectivos, materiales y clases en el tema elegido. Confirmar comida y equipo.
+
+**Suplementos:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** No por ahora según el nivel escolar publicado.
+
+**Oscar:** Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar grado, preparación técnica, admisión internacional y plaza vigente antes de pagar.
+
+### Interstellar Endeavor
+
+**Fechas / estado:** 2027-01-11 — 2027-01-15
+
+**lugar:** Daewon Campus · Gwangjin-gu · Seoul
+
+**Edad:** Grado 1 de primaria.
+
+**Precio:** KRW 989000 por 5 días. El autobús se paga por separado.
+
+**Programa:** Itinerario espacial inicial para grado 1.
+
+- 2027-01-11 · 09:00–14:30 · Asia/Seoul · Itinerario espacial inicial para grado 1.
+
+- 2027-01-12 · 09:00–14:30 · Asia/Seoul · Itinerario espacial inicial para grado 1.
+
+- 2027-01-13 · 09:00–14:30 · Asia/Seoul · Itinerario espacial inicial para grado 1.
+
+- 2027-01-14 · 09:00–14:30 · Asia/Seoul · Itinerario espacial inicial para grado 1.
+
+- 2027-01-15 · 09:00–14:30 · Asia/Seoul · Itinerario espacial inicial para grado 1.
+
+**Disponibilidad de plazas:** Al verificar, la organización marca el módulo como casi completo. Confirmar plaza.
+
+**Matvey:** No por ahora según el nivel escolar publicado.
+
+**Oscar:** Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad.
+
+- Confirmar grado, preparación técnica, admisión internacional y plaza vigente antes de pagar.
+
+[fuente](https://www.dcampskorea.com/post/2027-winter-daewon)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.dcampskorea.com/post/2027-winter-dcamps) · 2026-11-07
+
+- [Página oficial del organizador](https://www.dcampskorea.com/post/2027-winter-daewon) · 2026-11-07
+
+- [Página oficial del organizador](https://www.dcampskorea.com/curriculum-dcampsenglishstem) · 2026-11-07
+
+## CP1675 · D.CAMPS Daewon · Interstellar Astronaut
+
+Corea del Sur · Daewon Campus · Gwangjin-gu · Seoul
+
+**Se ha comprobado:** 2026-11-07
+
+**Edad:** Grados 4–6 de primaria.
+
+**Idioma:** Todo el programa se imparte en inglés.
+
+**Programa:** Ingeniería espacial para el grupo mayor.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 11–15 y 18–22 de enero de 2027, 09:00–14:30. Inscripción regular hasta el 13 de noviembre de 2026. Confirmar horarios de autobús y plazas.
+
+**Precio / año:** 2027 · KRW 989000 por 5 días. El autobús se paga por separado.
+
+**Incluido:** Cinco días lectivos, materiales y clases en el tema elegido. Confirmar comida y equipo.
+
+**Suplementos:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad.
+
+**Oscar:** No por ahora según el nivel escolar publicado.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar grado, preparación técnica, admisión internacional y plaza vigente antes de pagar.
+
+### Interstellar Astronaut
+
+**Fechas / estado:** 2027-01-11 — 2027-01-15
+
+**lugar:** Daewon Campus · Gwangjin-gu · Seoul
+
+**Edad:** Grados 4–6 de primaria.
+
+**Precio:** KRW 989000 por 5 días. El autobús se paga por separado.
+
+**Programa:** Ingeniería espacial para el grupo mayor.
+
+- 2027-01-11 · 09:00–14:30 · Asia/Seoul · Ingeniería espacial para el grupo mayor.
+
+- 2027-01-12 · 09:00–14:30 · Asia/Seoul · Ingeniería espacial para el grupo mayor.
+
+- 2027-01-13 · 09:00–14:30 · Asia/Seoul · Ingeniería espacial para el grupo mayor.
+
+- 2027-01-14 · 09:00–14:30 · Asia/Seoul · Ingeniería espacial para el grupo mayor.
+
+- 2027-01-15 · 09:00–14:30 · Asia/Seoul · Ingeniería espacial para el grupo mayor.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad.
+
+**Oscar:** No por ahora según el nivel escolar publicado.
+
+- Confirmar grado, preparación técnica, admisión internacional y plaza vigente antes de pagar.
+
+[fuente](https://www.dcampskorea.com/post/2027-winter-daewon)
+
+### Interstellar Astronaut
+
+**Fechas / estado:** 2027-01-18 — 2027-01-22
+
+**lugar:** Daewon Campus · Gwangjin-gu · Seoul
+
+**Edad:** Grados 4–6 de primaria.
+
+**Precio:** KRW 989000 por 5 días. El autobús se paga por separado.
+
+**Programa:** Ingeniería espacial para el grupo mayor.
+
+- 2027-01-18 · 09:00–14:30 · Asia/Seoul · Ingeniería espacial para el grupo mayor.
+
+- 2027-01-19 · 09:00–14:30 · Asia/Seoul · Ingeniería espacial para el grupo mayor.
+
+- 2027-01-20 · 09:00–14:30 · Asia/Seoul · Ingeniería espacial para el grupo mayor.
+
+- 2027-01-21 · 09:00–14:30 · Asia/Seoul · Ingeniería espacial para el grupo mayor.
+
+- 2027-01-22 · 09:00–14:30 · Asia/Seoul · Ingeniería espacial para el grupo mayor.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad.
+
+**Oscar:** No por ahora según el nivel escolar publicado.
+
+- Confirmar grado, preparación técnica, admisión internacional y plaza vigente antes de pagar.
+
+[fuente](https://www.dcampskorea.com/post/2027-winter-daewon)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.dcampskorea.com/post/2027-winter-dcamps) · 2026-11-07
+
+- [Página oficial del organizador](https://www.dcampskorea.com/post/2027-winter-daewon) · 2026-11-07
+
+- [Página oficial del organizador](https://www.dcampskorea.com/curriculum-dcampsenglishstem) · 2026-11-07
+
+## CP1676 · D.CAMPS Daewon · Artificial Intelligence
+
+Corea del Sur · Daewon Campus · Gwangjin-gu · Seoul
+
+**Se ha comprobado:** 2026-11-07
+
+**Edad:** Grados 4–6 de primaria.
+
+**Idioma:** Todo el programa se imparte en inglés.
+
+**Programa:** Introducción a la IA y análisis de decisiones en inglés.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 11–15 y 18–22 de enero de 2027, 09:00–14:30. Inscripción regular hasta el 13 de noviembre de 2026. Confirmar horarios de autobús y plazas.
+
+**Precio / año:** 2027 · KRW 989000 por 5 días. El autobús se paga por separado.
+
+**Incluido:** Cinco días lectivos, materiales y clases en el tema elegido. Confirmar comida y equipo.
+
+**Suplementos:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad.
+
+**Oscar:** No por ahora según el nivel escolar publicado.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar grado, preparación técnica, admisión internacional y plaza vigente antes de pagar.
+
+### Artificial Intelligence
+
+**Fechas / estado:** 2027-01-18 — 2027-01-22
+
+**lugar:** Daewon Campus · Gwangjin-gu · Seoul
+
+**Edad:** Grados 4–6 de primaria.
+
+**Precio:** KRW 989000 por 5 días. El autobús se paga por separado.
+
+**Programa:** Introducción a la IA y análisis de decisiones en inglés.
+
+- 2027-01-18 · 09:00–14:30 · Asia/Seoul · Introducción a la IA y análisis de decisiones en inglés.
+
+- 2027-01-19 · 09:00–14:30 · Asia/Seoul · Introducción a la IA y análisis de decisiones en inglés.
+
+- 2027-01-20 · 09:00–14:30 · Asia/Seoul · Introducción a la IA y análisis de decisiones en inglés.
+
+- 2027-01-21 · 09:00–14:30 · Asia/Seoul · Introducción a la IA y análisis de decisiones en inglés.
+
+- 2027-01-22 · 09:00–14:30 · Asia/Seoul · Introducción a la IA y análisis de decisiones en inglés.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad.
+
+**Oscar:** No por ahora según el nivel escolar publicado.
+
+- Confirmar grado, preparación técnica, admisión internacional y plaza vigente antes de pagar.
+
+[fuente](https://www.dcampskorea.com/post/2027-winter-daewon)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.dcampskorea.com/post/2027-winter-dcamps) · 2026-11-07
+
+- [Página oficial del organizador](https://www.dcampskorea.com/post/2027-winter-daewon) · 2026-11-07
+
+- [Página oficial del organizador](https://www.dcampskorea.com/curriculum-dcampsenglishstem) · 2026-11-07
+
+## CP1677 · Doodlish · English Skills Boost Camp
+
+Corea del Sur · Jeju · Doodlish Camp
+
+**Se ha comprobado:** 2026-11-07
+
+**Edad:** 7–11
+
+**Idioma:** Todo el programa se imparte en inglés.
+
+**Programa:** Clases de inglés por la mañana, naturaleza y cultura de Jeju por la tarde. Excursiones el 13 y el 20 de enero.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Del 11 al 22 de enero de 2027, de lunes a viernes de 09:00 a 15:00. Se puede elegir una o dos semanas.
+
+**Precio / año:** 2027 · KRW 600000 por semana. 2 semanas a tarifa semanal suman KRW 1200000. Comida incluida.
+
+**Incluido:** KRW 600000 por semana. 2 semanas a tarifa semanal suman KRW 1200000. Comida incluida.
+
+**Suplementos:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Condicional si ya ha cumplido 7 años al comenzar el taller.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### English Skills Boost Camp
+
+**Fechas / estado:** 2027-01-11 — 2027-01-15
+
+**lugar:** Jeju · Doodlish Camp
+
+**Edad:** 7–11
+
+**Precio:** KRW 600000 por semana. 2 semanas a tarifa semanal suman KRW 1200000. Comida incluida.
+
+- 2027-01-11 · 09:00–15:00 · Asia/Seoul · Clases de inglés por la mañana, naturaleza y cultura de Jeju por la tarde. Excursiones el 13 y el 20 de enero.
+
+- 2027-01-12 · 09:00–15:00 · Asia/Seoul · Clases de inglés por la mañana, naturaleza y cultura de Jeju por la tarde. Excursiones el 13 y el 20 de enero.
+
+- 2027-01-13 · 09:00–15:00 · Asia/Seoul · Clases de inglés por la mañana, naturaleza y cultura de Jeju por la tarde. Excursiones el 13 y el 20 de enero.
+
+- 2027-01-14 · 09:00–15:00 · Asia/Seoul · Clases de inglés por la mañana, naturaleza y cultura de Jeju por la tarde. Excursiones el 13 y el 20 de enero.
+
+- 2027-01-15 · 09:00–15:00 · Asia/Seoul · Clases de inglés por la mañana, naturaleza y cultura de Jeju por la tarde. Excursiones el 13 y el 20 de enero.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Condicional si ya ha cumplido 7 años al comenzar el taller.
+
+[fuente](https://doodlishcamp.com/)
+
+### English Skills Boost Camp
+
+**Fechas / estado:** 2027-01-18 — 2027-01-22
+
+**lugar:** Jeju · Doodlish Camp
+
+**Edad:** 7–11
+
+**Precio:** KRW 600000 por semana. 2 semanas a tarifa semanal suman KRW 1200000. Comida incluida.
+
+- 2027-01-18 · 09:00–15:00 · Asia/Seoul · Clases de inglés por la mañana, naturaleza y cultura de Jeju por la tarde. Excursiones el 13 y el 20 de enero.
+
+- 2027-01-19 · 09:00–15:00 · Asia/Seoul · Clases de inglés por la mañana, naturaleza y cultura de Jeju por la tarde. Excursiones el 13 y el 20 de enero.
+
+- 2027-01-20 · 09:00–15:00 · Asia/Seoul · Clases de inglés por la mañana, naturaleza y cultura de Jeju por la tarde. Excursiones el 13 y el 20 de enero.
+
+- 2027-01-21 · 09:00–15:00 · Asia/Seoul · Clases de inglés por la mañana, naturaleza y cultura de Jeju por la tarde. Excursiones el 13 y el 20 de enero.
+
+- 2027-01-22 · 09:00–15:00 · Asia/Seoul · Clases de inglés por la mañana, naturaleza y cultura de Jeju por la tarde. Excursiones el 13 y el 20 de enero.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Condicional si ya ha cumplido 7 años al comenzar el taller.
+
+[fuente](https://doodlishcamp.com/)
+
+### English Skills Boost Camp
+
+**Fechas / estado:** 2027-01-11 — 2027-01-22
+
+**lugar:** Jeju · Doodlish Camp
+
+**Edad:** 7–11
+
+**Precio:** KRW 600000 por semana. 2 semanas a tarifa semanal suman KRW 1200000. Comida incluida.
+
+- 2027-01-11 · 09:00–15:00 · Asia/Seoul · Clases de inglés por la mañana, naturaleza y cultura de Jeju por la tarde. Excursiones el 13 y el 20 de enero.
+
+- 2027-01-12 · 09:00–15:00 · Asia/Seoul · Clases de inglés por la mañana, naturaleza y cultura de Jeju por la tarde. Excursiones el 13 y el 20 de enero.
+
+- 2027-01-13 · 09:00–15:00 · Asia/Seoul · Clases de inglés por la mañana, naturaleza y cultura de Jeju por la tarde. Excursiones el 13 y el 20 de enero.
+
+- 2027-01-14 · 09:00–15:00 · Asia/Seoul · Clases de inglés por la mañana, naturaleza y cultura de Jeju por la tarde. Excursiones el 13 y el 20 de enero.
+
+- 2027-01-15 · 09:00–15:00 · Asia/Seoul · Clases de inglés por la mañana, naturaleza y cultura de Jeju por la tarde. Excursiones el 13 y el 20 de enero.
+
+- 2027-01-18 · 09:00–15:00 · Asia/Seoul · Clases de inglés por la mañana, naturaleza y cultura de Jeju por la tarde. Excursiones el 13 y el 20 de enero.
+
+- 2027-01-19 · 09:00–15:00 · Asia/Seoul · Clases de inglés por la mañana, naturaleza y cultura de Jeju por la tarde. Excursiones el 13 y el 20 de enero.
+
+- 2027-01-20 · 09:00–15:00 · Asia/Seoul · Clases de inglés por la mañana, naturaleza y cultura de Jeju por la tarde. Excursiones el 13 y el 20 de enero.
+
+- 2027-01-21 · 09:00–15:00 · Asia/Seoul · Clases de inglés por la mañana, naturaleza y cultura de Jeju por la tarde. Excursiones el 13 y el 20 de enero.
+
+- 2027-01-22 · 09:00–15:00 · Asia/Seoul · Clases de inglés por la mañana, naturaleza y cultura de Jeju por la tarde. Excursiones el 13 y el 20 de enero.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Condicional si ya ha cumplido 7 años al comenzar el taller.
+
+[fuente](https://doodlishcamp.com/)
+
+### Fuentes
+
+- [Página oficial del organizador](https://doodlishcamp.com/) · 2026-11-07
+
+## CP1678 · ACE · English Winter Camp
+
+Malasia · ACE Idioma Centre · Mont Kiara · Kuala Lumpur
+
+**Se ha comprobado:** 2026-11-07
+
+* Edad:** 7*16
+
+**Idioma:** Todo el programa se imparte en inglés.
+
+**Programa:** Inglés, proyectos en grupo y excursiones educativas. El programa menciona el National Science Centre.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Ventanas del 2 de diciembre de 2026 al 3 de enero de 2027 y del 3 de enero al 28 de febrero de 2027. Elección de 1–4 semanas. Acordar los días de la semana seleccionada. Opciones de 09:00–13:00 o 09:00–15:00.
+
+**Precio / año:** 2027 · Desde MYR 700 por semana de enseñanza. Confirmar alojamiento, excursiones y precio completo del paquete.
+
+**Incluido:** Precio sin publicar.
+
+**Suplementos:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Condicional si ya ha cumplido 7 años al comenzar el taller.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.acelanguagecentre.my/courses/winter-camp) · 2026-11-07
+
+- [Página oficial del organizador](https://www.acelanguagecentre.my/) · 2026-11-07
 
 ## ~ Comprobaciones no cerradas
 

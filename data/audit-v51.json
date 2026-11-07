@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 7593,
-    "competition_cards": 3165,
-    "event_cards": 330,
-    "camp_cards": 4098,
-    "league_profiles": 265,
-    "major_exhibition_cards": 242,
+    "cards": 7634,
+    "competition_cards": 3190,
+    "event_cards": 335,
+    "camp_cards": 4109,
+    "league_profiles": 268,
+    "major_exhibition_cards": 247,
     "vex_cards": 518,
     "countries_with_records": 158,
     "fully_audited_countries": 0
@@ -90,12 +90,12 @@
       "regions": [
         "Азия"
       ],
-      "total": 2246,
+      "total": 2287,
       "countries_with_records": 44,
-      "competitions": 752,
-      "events": 96,
-      "major_exhibitions": 84,
-      "camps": 1398,
+      "competitions": 777,
+      "events": 101,
+      "major_exhibitions": 89,
+      "camps": 1409,
       "status": "Частично исследовано",
       "remaining": "Добавлены India camp candidates и первые Pakistan / Bangladesh / Sri Lanka маршруты. Не все national qualifiers, языки и иностранный приём закрыты; другие страны Азии исследованы частично."
     },
@@ -6007,6 +6007,67 @@
       "new": false
     },
     {
+      "id": "robocup-korea-open",
+      "name": "RoboCup Korea Open · RCJ / RCAP / Basic",
+      "group": "regional",
+      "event_ids": [
+        "C3167",
+        "C3168",
+        "C3169",
+        "C3170",
+        "C3171",
+        "C3172",
+        "C3173",
+        "C3174",
+        "C3175"
+      ],
+      "cards": 9,
+      "future_dated": 9,
+      "linked_card_count": 9,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://robocupkorea.org/notices/40bb8588-54e0-81a0-9c14-c54109c9dd97",
+      "new": false
+    },
+    {
+      "id": "enjoy-ai-korea-season",
+      "name": "ENJOY AI Korea",
+      "group": "regional",
+      "event_ids": [
+        "C3178",
+        "C3179",
+        "C3180",
+        "C3181",
+        "C3182",
+        "C3183",
+        "C3184",
+        "C3185",
+        "C3186",
+        "C3187",
+        "C3188"
+      ],
+      "cards": 11,
+      "future_dated": 0,
+      "linked_card_count": 11,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://enjoyaikorea.org/en",
+      "new": false
+    },
+    {
+      "id": "wrc-malaysia-intelek",
+      "name": "World Robot Contest Malaysia · IntelekEDU",
+      "group": "regional",
+      "event_ids": [
+        "C3189",
+        "C3190"
+      ],
+      "cards": 2,
+      "future_dated": 0,
+      "linked_card_count": 2,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://intelek.edu.my/competitions/",
+      "new": false
+    },
+    {
       "id": "tech-challenge-project",
       "name": "The Tech Challenge · инженерная программа и showcase",
       "group": "regional",
@@ -9694,6 +9755,61 @@
       "new": false
     },
     {
+      "id": "E331",
+      "name": "Smart Tech Korea 2027 · Robot Tech & Physical AI",
+      "country": "Республика Корея",
+      "region": "Азия",
+      "start": "2027-06-02",
+      "end": "2027-06-04",
+      "visitor_policy": "adults_only",
+      "source": "https://en.smarttechkorea.com/Exhibition",
+      "new": false
+    },
+    {
+      "id": "E332",
+      "name": "DSK 2027 · Drone Show Korea",
+      "country": "Республика Корея",
+      "region": "Азия",
+      "start": "2027-02-24",
+      "end": "2027-02-26",
+      "visitor_policy": "confirm_children",
+      "source": "https://eng.droneshowkorea.com/",
+      "new": false
+    },
+    {
+      "id": "E333",
+      "name": "METALTECH & AUTOMEX 2027 · Kuala Lumpur",
+      "country": "Малайзия",
+      "region": "Азия",
+      "start": "2027-05-05",
+      "end": "2027-05-08",
+      "visitor_policy": "adults_only",
+      "source": "https://www.metaltech.com.my/automex-kuala-lumpur/",
+      "new": false
+    },
+    {
+      "id": "E334",
+      "name": "AIMX 2027 · AI Malaysia World Expo",
+      "country": "Малайзия",
+      "region": "Азия",
+      "start": "2027-04-20",
+      "end": "2027-04-22",
+      "visitor_policy": "confirm_children",
+      "source": "https://aimalaysiaexpo.com/",
+      "new": false
+    },
+    {
+      "id": "E335",
+      "name": "Seoul Robot & AI Museum · RAIM",
+      "country": "Республика Корея",
+      "region": "Азия",
+      "start": "",
+      "end": "",
+      "visitor_policy": "family",
+      "source": "https://science.seoul.go.kr/RAIM/content.do?key=2412270001&menuTy=sc_exhi",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -12111,14 +12227,14 @@
       }
     ],
     "counts": {
-      "records": 4098,
-      "holiday": 3824,
+      "records": 4109,
+      "holiday": 3835,
       "regular": 120,
       "self_paced_materials": 2,
       "boarding": 1026,
-      "en_es_instruction": 1280,
+      "en_es_instruction": 1291,
       "en_es_support": 12,
-      "family_instruction": 1280,
+      "family_instruction": 1291,
       "family_support": 12,
       "ru_instruction": 3,
       "language_lessons": 408,
