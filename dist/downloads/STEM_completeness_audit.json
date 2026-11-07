@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 8138,
-    "competition_cards": 3321,
-    "event_cards": 406,
-    "camp_cards": 4411,
+    "cards": 8212,
+    "competition_cards": 3323,
+    "event_cards": 409,
+    "camp_cards": 4480,
     "league_profiles": 275,
-    "major_exhibition_cards": 317,
+    "major_exhibition_cards": 320,
     "vex_cards": 518,
     "countries_with_records": 161,
     "fully_audited_countries": 0
@@ -34,12 +34,12 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 2633,
+      "total": 2707,
       "countries_with_records": 24,
-      "competitions": 1461,
-      "events": 95,
-      "major_exhibitions": 58,
-      "camps": 1077,
+      "competitions": 1463,
+      "events": 98,
+      "major_exhibitions": 61,
+      "camps": 1146,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
     },
@@ -10743,6 +10743,39 @@
       "new": false
     },
     {
+      "id": "E407",
+      "name": "SCWIST STEM Expo 2027",
+      "country": "Канада",
+      "region": "Северная Америка",
+      "start": "2027-02-04",
+      "end": "2027-02-05",
+      "visitor_policy": "family",
+      "source": "https://stemexpo.scwist.ca/about",
+      "new": false
+    },
+    {
+      "id": "E408",
+      "name": "Terminal City Tabletop Convention 2027",
+      "country": "Канада",
+      "region": "Северная Америка",
+      "start": "2027-03-19",
+      "end": "2027-03-21",
+      "visitor_policy": "family",
+      "source": "https://terminalcitycon.ca/event-info/",
+      "new": false
+    },
+    {
+      "id": "E409",
+      "name": "Breakout 2027 · Toronto",
+      "country": "Канада",
+      "region": "Северная Америка",
+      "start": "2027-03-18",
+      "end": "2027-03-21",
+      "visitor_policy": "family",
+      "source": "https://breakoutcon.com/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -13160,8 +13193,8 @@
       }
     ],
     "counts": {
-      "records": 4411,
-      "holiday": 4134,
+      "records": 4480,
+      "holiday": 4203,
       "regular": 120,
       "self_paced_materials": 2,
       "boarding": 1036,

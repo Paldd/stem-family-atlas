@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 8138; competiciones: 3321; eventos: 406; campamentos / programas: 4411. Perfiles de ligas y programas: 275. Fichas de exposiciones grandes y especializadas: 317 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 8212; competiciones: 3323; eventos: 409; campamentos / programas: 4480. Perfiles de ligas y programas: 275. Fichas de exposiciones grandes y especializadas: 320 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay fichas concretas en 161 de 249 países y territorios. Países con auditoría completa: 0. Revisión histórica v51: se añadieron 21 fichas y 3 perfiles. Se conservan las fichas anteriores.
 
@@ -14,7 +14,7 @@ Hay fichas concretas en 161 de 249 países y territorios. Países con auditoría
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 24 | 1461 | 58 | 1077 |
+| América del Norte | 24 | 1463 | 61 | 1146 |
 | América del Sur | 11 | 232 | 29 | 161 |
 | Europa | 42 | 440 | 87 | 1372 |
 | África | 34 | 133 | 21 | 70 |
@@ -23,7 +23,7 @@ Hay fichas concretas en 161 de 249 países y territorios. Países con auditoría
 
 Fichas interregionales o mundiales sin un continente asignado: 121. América del Norte incluye Centroamérica y el Caribe. Las cifras representan el inventario de la base y no un porcentaje de cobertura.
 
-VEX: 518 de 3321 fichas de competición (15.6%). Hay un desequilibrio claro en la cobertura.
+VEX: 518 de 3323 fichas de competiciones (15.6%). El catálogo refleja una concentración clara.
 
 ## Lo que queda
 
@@ -660,6 +660,9 @@ VEX: 518 de 3321 fichas de competición (15.6%). Hay un desequilibrio claro en l
 - **LEVEL UY Game Dev Summit 2026 · Expo** — Uruguay; 2026-11-20 – 2026-11-21. el permiso de entrada de niños. https://www.leveluy.com/
 - **Cambiemos el Chip Fest · Cali 2027** — Colombia; fecha desconocida. Confirmar acceso infantil. https://cambiemoselchipfest.com/
 - **Game Fest Minas 2026** — Brasil; fecha desconocida. Confirmar acceso infantil. https://www.sympla.com.br/evento/game-fest-minas/3321900
+- **SCWIST STEM Expo 2027** — Canadá; 2027-02-04 – 2027-02-05. con un adulto; condiciones de admisión adulta por separado. https://stemexpo.scwist.ca/about
+- **Terminal City Tabletop Convention 2027** — Canadá; 2027-03-19 – 2027-03-21. con un adulto; condiciones de admisión adulta por separado. https://terminalcitycon.ca/event-info/
+- **Breakout 2027 · Toronto** — Canadá; 2027-03-18 – 2027-03-21. con un adulto; condiciones de admisión adulta por separado. https://breakoutcon.com/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

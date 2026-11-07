@@ -69366,6 +69366,1110 @@ Limitaciones: Matvey: 9 años supera la edad recomendada. Confirmar acceso de ni
 Fuente: https://www.sescsp.org.br/programacao/inventatorio/
 Se ha comprobado: 2026-11-07
 
+### CP1788-20261221-20261224-four-days · MakerKids Bloor West · Minecraft Frozen Kingdom · Mini Makers · 4 días · 2026-12-21–2026-12-24
+
+lugar: Canadá · MakerKids Bloor West · 2451 Bloor Street West · Toronto
+Fecha: 2026-12-21 - 2026-12-24
+edad: Cursos escolares 1-2.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 450 por 4 días y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18901013
+Se ha comprobado: 2026-11-07
+
+### CP1788-20261221-20261221-one-day-2026-12-21 · MakerKids Bloor West · Minecraft Frozen Kingdom · Mini Makers · 1 día · 2026-12-21–2026-12-21
+
+lugar: Canadá · MakerKids Bloor West · 2451 Bloor Street West · Toronto
+Fecha: 2026-12-21 — 2026-12-21
+edad: Cursos escolares 1-2.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 125 por 1 día y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18904114
+Se ha comprobado: 2026-11-07
+
+### CP1788-20261222-20261222-one-day-2026-12-22 · MakerKids Bloor West · Minecraft Frozen Kingdom · Mini Makers · 1 día · 2026-12-22–2026-12-22
+
+lugar: Canadá · MakerKids Bloor West · 2451 Bloor Street West · Toronto
+Fecha: 2026-12-22 — 2026-12-22
+edad: Cursos escolares 1-2.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 125 por 1 día y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18904115
+Se ha comprobado: 2026-11-07
+
+### CP1788-20261223-20261223-one-day-2026-12-23 · MakerKids Bloor West · Minecraft Frozen Kingdom · Mini Makers · 1 día · 2026-12-23–2026-12-23
+
+lugar: Canadá · MakerKids Bloor West · 2451 Bloor Street West · Toronto
+Fecha: 2026-12-23 — 2026-12-23
+edad: Cursos escolares 1-2.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 125 por 1 día y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18904117
+Se ha comprobado: 2026-11-07
+
+### CP1788-20261224-20261224-one-day-2026-12-24 · MakerKids Bloor West · Minecraft Frozen Kingdom · Mini Makers · 1 día · 2026-12-24–2026-12-24
+
+lugar: Canadá · MakerKids Bloor West · 2451 Bloor Street West · Toronto
+Fecha: 2026-12-24 — 2026-12-24
+edad: Cursos escolares 1-2.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 125 por 1 día y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18904118
+Se ha comprobado: 2026-11-07
+
+### CP1789-20261221-20261224-four-days · MakerKids Bloor West · Minecraft Frozen Kingdom · Idea Incubators · 4 días · 2026-12-21–2026-12-24
+
+lugar: Canadá · MakerKids Bloor West · 2451 Bloor Street West · Toronto
+Fecha: 2026-12-21 - 2026-12-24
+edad: Cursos escolares 3-8.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 450 por 4 días y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18900990
+Se ha comprobado: 2026-11-07
+
+### CP1789-20261221-20261221-one-day-2026-12-21 · MakerKids Bloor West · Minecraft Frozen Kingdom · Idea Incubators · 1 día · 2026-12-21–2026-12-21
+
+lugar: Canadá · MakerKids Bloor West · 2451 Bloor Street West · Toronto
+Fecha: 2026-12-21 — 2026-12-21
+edad: Cursos escolares 3-8.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 125 por 1 día y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18901121
+Se ha comprobado: 2026-11-07
+
+### CP1789-20261222-20261222-one-day-2026-12-22 · MakerKids Bloor West · Minecraft Frozen Kingdom · Idea Incubators · 1 día · 2026-12-22–2026-12-22
+
+lugar: Canadá · MakerKids Bloor West · 2451 Bloor Street West · Toronto
+Fecha: 2026-12-22 — 2026-12-22
+edad: Cursos escolares 3-8.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 125 por 1 día y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18901131
+Se ha comprobado: 2026-11-07
+
+### CP1789-20261223-20261223-one-day-2026-12-23 · MakerKids Bloor West · Minecraft Frozen Kingdom · Idea Incubators · 1 día · 2026-12-23–2026-12-23
+
+lugar: Canadá · MakerKids Bloor West · 2451 Bloor Street West · Toronto
+Fecha: 2026-12-23 — 2026-12-23
+edad: Cursos escolares 3-8.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 125 por 1 día y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18904103
+Se ha comprobado: 2026-11-07
+
+### CP1789-20261224-20261224-one-day-2026-12-24 · MakerKids Bloor West · Minecraft Frozen Kingdom · Idea Incubators · 1 día · 2026-12-24–2026-12-24
+
+lugar: Canadá · MakerKids Bloor West · 2451 Bloor Street West · Toronto
+Fecha: 2026-12-24 — 2026-12-24
+edad: Cursos escolares 3-8.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 125 por 1 día y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18904105
+Se ha comprobado: 2026-11-07
+
+### CP1790-20261228-20261231-four-days · MakerKids Bloor West · North Pole Inventors Lab · Mini Makers · 4 días · 2026-12-28–2026-12-31
+
+lugar: Canadá · MakerKids Bloor West · 2451 Bloor Street West · Toronto
+Fecha: 2026-12-28 - 2026-12-31
+edad: Cursos escolares 1-2.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 450 por 4 días y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18901019
+Se ha comprobado: 2026-11-07
+
+### CP1790-20261228-20261228-one-day-2026-12-28 · MakerKids Bloor West · North Pole Inventors Lab · Mini Makers · 1 día · 2026-12-28–2026-12-28
+
+lugar: Canadá · MakerKids Bloor West · 2451 Bloor Street West · Toronto
+Fecha: 2026-12-28 — 2026-12-28
+edad: Cursos escolares 1-2.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 125 por 1 día y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18904120
+Se ha comprobado: 2026-11-07
+
+### CP1790-20261229-20261229-one-day-2026-12-29 · MakerKids Bloor West · North Pole Inventors Lab · Mini Makers · 1 día · 2026-12-29–2026-12-29
+
+lugar: Canadá · MakerKids Bloor West · 2451 Bloor Street West · Toronto
+Fecha: 2026-12-29 — 2026-12-29
+edad: Cursos escolares 1-2.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 125 por 1 día y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18904122
+Se ha comprobado: 2026-11-07
+
+### CP1790-20261230-20261230-one-day-2026-12-30 · MakerKids Bloor West · North Pole Inventors Lab · Mini Makers · 1 día · 2026-12-30–2026-12-30
+
+lugar: Canadá · MakerKids Bloor West · 2451 Bloor Street West · Toronto
+Fecha: 2026-12-30 — 2026-12-30
+edad: Cursos escolares 1-2.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 125 por 1 día y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18904124
+Se ha comprobado: 2026-11-07
+
+### CP1790-20261231-20261231-one-day-2026-12-31 · MakerKids Bloor West · North Pole Inventors Lab · Mini Makers · 1 día · 2026-12-31–2026-12-31
+
+lugar: Canadá · MakerKids Bloor West · 2451 Bloor Street West · Toronto
+Fecha: 2026-12-31 — 2026-12-31
+edad: Cursos escolares 1-2.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 125 por 1 día y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18904125
+Se ha comprobado: 2026-11-07
+
+### CP1791-20261228-20261231-four-days · MakerKids Bloor West · North Pole Inventors Lab · Idea Incubators · 4 días · 2026-12-28–2026-12-31
+
+lugar: Canadá · MakerKids Bloor West · 2451 Bloor Street West · Toronto
+Fecha: 2026-12-28 - 2026-12-31
+edad: Cursos escolares 3-8.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 450 por 4 días y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18901005
+Se ha comprobado: 2026-11-07
+
+### CP1791-20261228-20261228-one-day-2026-12-28 · MakerKids Bloor West · North Pole Inventors Lab · Idea Incubators · 1 día · 2026-12-28–2026-12-28
+
+lugar: Canadá · MakerKids Bloor West · 2451 Bloor Street West · Toronto
+Fecha: 2026-12-28 — 2026-12-28
+edad: Cursos escolares 3-8.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 125 por 1 día y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18904107
+Se ha comprobado: 2026-11-07
+
+### CP1791-20261229-20261229-one-day-2026-12-29 · MakerKids Bloor West · North Pole Inventors Lab · Idea Incubators · 1 día · 2026-12-29–2026-12-29
+
+lugar: Canadá · MakerKids Bloor West · 2451 Bloor Street West · Toronto
+Fecha: 2026-12-29 — 2026-12-29
+edad: Cursos escolares 3-8.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 125 por 1 día y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18904108
+Se ha comprobado: 2026-11-07
+
+### CP1791-20261230-20261230-one-day-2026-12-30 · MakerKids Bloor West · North Pole Inventors Lab · Idea Incubators · 1 día · 2026-12-30–2026-12-30
+
+lugar: Canadá · MakerKids Bloor West · 2451 Bloor Street West · Toronto
+Fecha: 2026-12-30 — 2026-12-30
+edad: Cursos escolares 3-8.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 125 por 1 día y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18904109
+Se ha comprobado: 2026-11-07
+
+### CP1791-20261231-20261231-one-day-2026-12-31 · MakerKids Bloor West · North Pole Inventors Lab · Idea Incubators · 1 día · 2026-12-31–2026-12-31
+
+lugar: Canadá · MakerKids Bloor West · 2451 Bloor Street West · Toronto
+Fecha: 2026-12-31 — 2026-12-31
+edad: Cursos escolares 3-8.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 125 por 1 día y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18904111
+Se ha comprobado: 2026-11-07
+
+### CP1792-20261221-20261224-four-days · MakerKids Leaside · Minecraft Frozen Kingdom · Mini Makers · 4 días · 2026-12-21–2026-12-24
+
+lugar: Canadá · MakerKids Leaside · 1661 Bayview Ave · Toronto
+Fecha: 2026-12-21 - 2026-12-24
+edad: Cursos escolares 1-2.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 450 por 4 días y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18900903
+Se ha comprobado: 2026-11-07
+
+### CP1792-20261221-20261221-one-day-2026-12-21 · MakerKids Leaside · Minecraft Frozen Kingdom · Mini Makers · 1 día · 2026-12-21–2026-12-21
+
+lugar: Canadá · MakerKids Leaside · 1661 Bayview Ave · Toronto
+Fecha: 2026-12-21 — 2026-12-21
+edad: Cursos escolares 1-2.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 125 por 1 día y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18901082
+Se ha comprobado: 2026-11-07
+
+### CP1792-20261222-20261222-one-day-2026-12-22 · MakerKids Leaside · Minecraft Frozen Kingdom · Mini Makers · 1 día · 2026-12-22–2026-12-22
+
+lugar: Canadá · MakerKids Leaside · 1661 Bayview Ave · Toronto
+Fecha: 2026-12-22 — 2026-12-22
+edad: Cursos escolares 1-2.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 125 por 1 día y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18901085
+Se ha comprobado: 2026-11-07
+
+### CP1792-20261223-20261223-one-day-2026-12-23 · MakerKids Leaside · Minecraft Frozen Kingdom · Mini Makers · 1 día · 2026-12-23–2026-12-23
+
+lugar: Canadá · MakerKids Leaside · 1661 Bayview Ave · Toronto
+Fecha: 2026-12-23 — 2026-12-23
+edad: Cursos escolares 1-2.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 125 por 1 día y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18901092
+Se ha comprobado: 2026-11-07
+
+### CP1792-20261224-20261224-one-day-2026-12-24 · MakerKids Leaside · Minecraft Frozen Kingdom · Mini Makers · 1 día · 2026-12-24–2026-12-24
+
+lugar: Canadá · MakerKids Leaside · 1661 Bayview Ave · Toronto
+Fecha: 2026-12-24 — 2026-12-24
+edad: Cursos escolares 1-2.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 125 por 1 día y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18901096
+Se ha comprobado: 2026-11-07
+
+### CP1793-20261221-20261224-four-days · MakerKids Leaside · Minecraft Frozen Kingdom · Idea Incubators · 4 días · 2026-12-21–2026-12-24
+
+lugar: Canadá · MakerKids Leaside · 1661 Bayview Ave · Toronto
+Fecha: 2026-12-21 - 2026-12-24
+edad: Cursos escolares 3-8.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 450 por 4 días y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18900892
+Se ha comprobado: 2026-11-07
+
+### CP1793-20261221-20261221-one-day-2026-12-21 · MakerKids Leaside · Minecraft Frozen Kingdom · Idea Incubators · 1 día · 2026-12-21–2026-12-21
+
+lugar: Canadá · MakerKids Leaside · 1661 Bayview Ave · Toronto
+Fecha: 2026-12-21 — 2026-12-21
+edad: Cursos escolares 3-8.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 125 por 1 día y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18901050
+Se ha comprobado: 2026-11-07
+
+### CP1793-20261222-20261222-one-day-2026-12-22 · MakerKids Leaside · Minecraft Frozen Kingdom · Idea Incubators · 1 día · 2026-12-22–2026-12-22
+
+lugar: Canadá · MakerKids Leaside · 1661 Bayview Ave · Toronto
+Fecha: 2026-12-22 — 2026-12-22
+edad: Cursos escolares 3-8.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 125 por 1 día y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18901055
+Se ha comprobado: 2026-11-07
+
+### CP1793-20261223-20261223-one-day-2026-12-23 · MakerKids Leaside · Minecraft Frozen Kingdom · Idea Incubators · 1 día · 2026-12-23–2026-12-23
+
+lugar: Canadá · MakerKids Leaside · 1661 Bayview Ave · Toronto
+Fecha: 2026-12-23 — 2026-12-23
+edad: Cursos escolares 3-8.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 125 por 1 día y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18901058
+Se ha comprobado: 2026-11-07
+
+### CP1793-20261224-20261224-one-day-2026-12-24 · MakerKids Leaside · Minecraft Frozen Kingdom · Idea Incubators · 1 día · 2026-12-24–2026-12-24
+
+lugar: Canadá · MakerKids Leaside · 1661 Bayview Ave · Toronto
+Fecha: 2026-12-24 — 2026-12-24
+edad: Cursos escolares 3-8.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 125 por 1 día y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18901063
+Se ha comprobado: 2026-11-07
+
+### CP1794-20261228-20261231-four-days · MakerKids Leaside · North Pole Inventors Lab · Mini Makers · 4 días · 2026-12-28–2026-12-31
+
+lugar: Canadá · MakerKids Leaside · 1661 Bayview Ave · Toronto
+Fecha: 2026-12-28 - 2026-12-31
+edad: Cursos escolares 1-2.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 450 por 4 días y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18900908
+Se ha comprobado: 2026-11-07
+
+### CP1794-20261228-20261228-one-day-2026-12-28 · MakerKids Leaside · North Pole Inventors Lab · Mini Makers · 1 día · 2026-12-28–2026-12-28
+
+lugar: Canadá · MakerKids Leaside · 1661 Bayview Ave · Toronto
+Fecha: 2026-12-28 — 2026-12-28
+edad: Cursos escolares 1-2.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 125 por 1 día y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18901099
+Se ha comprobado: 2026-11-07
+
+### CP1794-20261229-20261229-one-day-2026-12-29 · MakerKids Leaside · North Pole Inventors Lab · Mini Makers · 1 día · 2026-12-29–2026-12-29
+
+lugar: Canadá · MakerKids Leaside · 1661 Bayview Ave · Toronto
+Fecha: 2026-12-29 — 2026-12-29
+edad: Cursos escolares 1-2.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 125 por 1 día y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18901103
+Se ha comprobado: 2026-11-07
+
+### CP1794-20261230-20261230-one-day-2026-12-30 · MakerKids Leaside · North Pole Inventors Lab · Mini Makers · 1 día · 2026-12-30–2026-12-30
+
+lugar: Canadá · MakerKids Leaside · 1661 Bayview Ave · Toronto
+Fecha: 2026-12-30 — 2026-12-30
+edad: Cursos escolares 1-2.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 125 por 1 día y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18901107
+Se ha comprobado: 2026-11-07
+
+### CP1794-20261231-20261231-one-day-2026-12-31 · MakerKids Leaside · North Pole Inventors Lab · Mini Makers · 1 día · 2026-12-31–2026-12-31
+
+lugar: Canadá · MakerKids Leaside · 1661 Bayview Ave · Toronto
+Fecha: 2026-12-31 — 2026-12-31
+edad: Cursos escolares 1-2.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 125 por 1 día y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18901109
+Se ha comprobado: 2026-11-07
+
+### CP1795-20261228-20261231-four-days · MakerKids Leaside · North Pole Inventors Lab · Idea Incubators · 4 días · 2026-12-28–2026-12-31
+
+lugar: Canadá · MakerKids Leaside · 1661 Bayview Ave · Toronto
+Fecha: 2026-12-28 - 2026-12-31
+edad: Cursos escolares 3-8.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 450 por 4 días y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18900897
+Se ha comprobado: 2026-11-07
+
+### CP1795-20261228-20261228-one-day-2026-12-28 · MakerKids Leaside · North Pole Inventors Lab · Idea Incubators · 1 día · 2026-12-28–2026-12-28
+
+lugar: Canadá · MakerKids Leaside · 1661 Bayview Ave · Toronto
+Fecha: 2026-12-28 — 2026-12-28
+edad: Cursos escolares 3-8.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 125 por 1 día y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18901064
+Se ha comprobado: 2026-11-07
+
+### CP1795-20261229-20261229-one-day-2026-12-29 · MakerKids Leaside · North Pole Inventors Lab · Idea Incubators · 1 día · 2026-12-29–2026-12-29
+
+lugar: Canadá · MakerKids Leaside · 1661 Bayview Ave · Toronto
+Fecha: 2026-12-29 — 2026-12-29
+edad: Cursos escolares 3-8.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 125 por 1 día y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18901067
+Se ha comprobado: 2026-11-07
+
+### CP1795-20261230-20261230-one-day-2026-12-30 · MakerKids Leaside · North Pole Inventors Lab · Idea Incubators · 1 día · 2026-12-30–2026-12-30
+
+lugar: Canadá · MakerKids Leaside · 1661 Bayview Ave · Toronto
+Fecha: 2026-12-30 — 2026-12-30
+edad: Cursos escolares 3-8.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 125 por 1 día y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18901072
+Se ha comprobado: 2026-11-07
+
+### CP1795-20261231-20261231-one-day-2026-12-31 · MakerKids Leaside · North Pole Inventors Lab · Idea Incubators · 1 día · 2026-12-31–2026-12-31
+
+lugar: Canadá · MakerKids Leaside · 1661 Bayview Ave · Toronto
+Fecha: 2026-12-31 — 2026-12-31
+edad: Cursos escolares 3-8.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 125 por 1 día y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18901073
+Se ha comprobado: 2026-11-07
+
+### CP1796-20261221-20261224-four-days · MakerKids Mississauga South · Minecraft Frozen Kingdom · Mini Makers · 4 días · 2026-12-21–2026-12-24
+
+lugar: Canadá · MakerKids Mississauga South · 1900 Fowler Drive · Mississauga
+Fecha: 2026-12-21 - 2026-12-24
+edad: Cursos escolares 1-2.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 450 por 4 días y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18900295
+Se ha comprobado: 2026-11-07
+
+### CP1796-20261221-20261221-one-day-2026-12-21 · MakerKids Mississauga South · Minecraft Frozen Kingdom · Mini Makers · 1 día · 2026-12-21–2026-12-21
+
+lugar: Canadá · MakerKids Mississauga South · 1900 Fowler Drive · Mississauga
+Fecha: 2026-12-21 — 2026-12-21
+edad: Cursos escolares 1-2.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 125 por 1 día y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18900333
+Se ha comprobado: 2026-11-07
+
+### CP1796-20261222-20261222-one-day-2026-12-22 · MakerKids Mississauga South · Minecraft Frozen Kingdom · Mini Makers · 1 día · 2026-12-22–2026-12-22
+
+lugar: Canadá · MakerKids Mississauga South · 1900 Fowler Drive · Mississauga
+Fecha: 2026-12-22 — 2026-12-22
+edad: Cursos escolares 1-2.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 125 por 1 día y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18900342
+Se ha comprobado: 2026-11-07
+
+### CP1796-20261223-20261223-one-day-2026-12-23 · MakerKids Mississauga South · Minecraft Frozen Kingdom · Mini Makers · 1 día · 2026-12-23–2026-12-23
+
+lugar: Canadá · MakerKids Mississauga South · 1900 Fowler Drive · Mississauga
+Fecha: 2026-12-23 — 2026-12-23
+edad: Cursos escolares 1-2.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 125 por 1 día y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18900346
+Se ha comprobado: 2026-11-07
+
+### CP1796-20261224-20261224-one-day-2026-12-24 · MakerKids Mississauga South · Minecraft Frozen Kingdom · Mini Makers · 1 día · 2026-12-24–2026-12-24
+
+lugar: Canadá · MakerKids Mississauga South · 1900 Fowler Drive · Mississauga
+Fecha: 2026-12-24 — 2026-12-24
+edad: Cursos escolares 1-2.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 125 por 1 día y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18900351
+Se ha comprobado: 2026-11-07
+
+### CP1797-20261221-20261224-four-days · MakerKids Mississauga South · Minecraft Frozen Kingdom · Idea Incubators · 4 días · 2026-12-21–2026-12-24
+
+lugar: Canadá · MakerKids Mississauga South · 1900 Fowler Drive · Mississauga
+Fecha: 2026-12-21 - 2026-12-24
+edad: Cursos escolares 3-8.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 450 por 4 días y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18900321
+Se ha comprobado: 2026-11-07
+
+### CP1797-20261221-20261221-one-day-2026-12-21 · MakerKids Mississauga South · Minecraft Frozen Kingdom · Idea Incubators · 1 día · 2026-12-21–2026-12-21
+
+lugar: Canadá · MakerKids Mississauga South · 1900 Fowler Drive · Mississauga
+Fecha: 2026-12-21 — 2026-12-21
+edad: Cursos escolares 3-8.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 125 por 1 día y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18900387
+Se ha comprobado: 2026-11-07
+
+### CP1797-20261222-20261222-one-day-2026-12-22 · MakerKids Mississauga South · Minecraft Frozen Kingdom · Idea Incubators · 1 día · 2026-12-22–2026-12-22
+
+lugar: Canadá · MakerKids Mississauga South · 1900 Fowler Drive · Mississauga
+Fecha: 2026-12-22 — 2026-12-22
+edad: Cursos escolares 3-8.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 125 por 1 día y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18900394
+Se ha comprobado: 2026-11-07
+
+### CP1797-20261223-20261223-one-day-2026-12-23 · MakerKids Mississauga South · Minecraft Frozen Kingdom · Idea Incubators · 1 día · 2026-12-23–2026-12-23
+
+lugar: Canadá · MakerKids Mississauga South · 1900 Fowler Drive · Mississauga
+Fecha: 2026-12-23 — 2026-12-23
+edad: Cursos escolares 3-8.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 125 por 1 día y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18900398
+Se ha comprobado: 2026-11-07
+
+### CP1797-20261224-20261224-one-day-2026-12-24 · MakerKids Mississauga South · Minecraft Frozen Kingdom · Idea Incubators · 1 día · 2026-12-24–2026-12-24
+
+lugar: Canadá · MakerKids Mississauga South · 1900 Fowler Drive · Mississauga
+Fecha: 2026-12-24 — 2026-12-24
+edad: Cursos escolares 3-8.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 125 por 1 día y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18900400
+Se ha comprobado: 2026-11-07
+
+### CP1798-20261228-20261231-four-days · MakerKids Mississauga South · North Pole Inventors Lab · Mini Makers · 4 días · 2026-12-28–2026-12-31
+
+lugar: Canadá · MakerKids Mississauga South · 1900 Fowler Drive · Mississauga
+Fecha: 2026-12-28 - 2026-12-31
+edad: Cursos escolares 1-2.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 450 por 4 días y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: Cuidado matinal 08:00–09:00. Cuidado vespertino hasta las 17:30 con el bloque o hasta las 17:00 con un día. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18900308
+Se ha comprobado: 2026-11-07
+
+### CP1798-20261228-20261228-one-day-2026-12-28 · MakerKids Mississauga South · North Pole Inventors Lab · Mini Makers · 1 día · 2026-12-28–2026-12-28
+
+lugar: Canadá · MakerKids Mississauga South · 1900 Fowler Drive · Mississauga
+Fecha: 2026-12-28 — 2026-12-28
+edad: Cursos escolares 1-2.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 125 por 1 día y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: Cuidado matinal 08:00–09:00. Cuidado vespertino hasta las 17:30 con el bloque o hasta las 17:00 con un día. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18900354
+Se ha comprobado: 2026-11-07
+
+### CP1798-20261229-20261229-one-day-2026-12-29 · MakerKids Mississauga South · North Pole Inventors Lab · Mini Makers · 1 día · 2026-12-29–2026-12-29
+
+lugar: Canadá · MakerKids Mississauga South · 1900 Fowler Drive · Mississauga
+Fecha: 2026-12-29 — 2026-12-29
+edad: Cursos escolares 1-2.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 125 por 1 día y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: Cuidado matinal 08:00–09:00. Cuidado vespertino hasta las 17:30 con el bloque o hasta las 17:00 con un día. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18900359
+Se ha comprobado: 2026-11-07
+
+### CP1798-20261230-20261230-one-day-2026-12-30 · MakerKids Mississauga South · North Pole Inventors Lab · Mini Makers · 1 día · 2026-12-30–2026-12-30
+
+lugar: Canadá · MakerKids Mississauga South · 1900 Fowler Drive · Mississauga
+Fecha: 2026-12-30 — 2026-12-30
+edad: Cursos escolares 1-2.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 125 por 1 día y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: Cuidado matinal 08:00–09:00. Cuidado vespertino hasta las 17:30 con el bloque o hasta las 17:00 con un día. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18900363
+Se ha comprobado: 2026-11-07
+
+### CP1798-20261231-20261231-one-day-2026-12-31 · MakerKids Mississauga South · North Pole Inventors Lab · Mini Makers · 1 día · 2026-12-31–2026-12-31
+
+lugar: Canadá · MakerKids Mississauga South · 1900 Fowler Drive · Mississauga
+Fecha: 2026-12-31 — 2026-12-31
+edad: Cursos escolares 1-2.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 125 por 1 día y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: Cuidado matinal 08:00–09:00. Cuidado vespertino hasta las 17:30 con el bloque o hasta las 17:00 con un día. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18900369
+Se ha comprobado: 2026-11-07
+
+### CP1799-20261228-20261231-four-days · MakerKids Mississauga South · North Pole Inventors Lab · Idea Incubators · 4 días · 2026-12-28–2026-12-31
+
+lugar: Canadá · MakerKids Mississauga South · 1900 Fowler Drive · Mississauga
+Fecha: 2026-12-28 - 2026-12-31
+edad: Cursos escolares 3-8.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 450 por 4 días y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: Cuidado matinal 08:00–09:00. Cuidado vespertino hasta las 17:30 con el bloque o hasta las 17:00 con un día. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18900328
+Se ha comprobado: 2026-11-07
+
+### CP1799-20261228-20261228-one-day-2026-12-28 · MakerKids Mississauga South · North Pole Inventors Lab · Idea Incubators · 1 día · 2026-12-28–2026-12-28
+
+lugar: Canadá · MakerKids Mississauga South · 1900 Fowler Drive · Mississauga
+Fecha: 2026-12-28 — 2026-12-28
+edad: Cursos escolares 3-8.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 125 por 1 día y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: Cuidado matinal 08:00–09:00. Cuidado vespertino hasta las 17:30 con el bloque o hasta las 17:00 con un día. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18900408
+Se ha comprobado: 2026-11-07
+
+### CP1799-20261229-20261229-one-day-2026-12-29 · MakerKids Mississauga South · North Pole Inventors Lab · Idea Incubators · 1 día · 2026-12-29–2026-12-29
+
+lugar: Canadá · MakerKids Mississauga South · 1900 Fowler Drive · Mississauga
+Fecha: 2026-12-29 — 2026-12-29
+edad: Cursos escolares 3-8.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 125 por 1 día y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: Cuidado matinal 08:00–09:00. Cuidado vespertino hasta las 17:30 con el bloque o hasta las 17:00 con un día. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18900420
+Se ha comprobado: 2026-11-07
+
+### CP1799-20261230-20261230-one-day-2026-12-30 · MakerKids Mississauga South · North Pole Inventors Lab · Idea Incubators · 1 día · 2026-12-30–2026-12-30
+
+lugar: Canadá · MakerKids Mississauga South · 1900 Fowler Drive · Mississauga
+Fecha: 2026-12-30 — 2026-12-30
+edad: Cursos escolares 3-8.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 125 por 1 día y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: Cuidado matinal 08:00–09:00. Cuidado vespertino hasta las 17:30 con el bloque o hasta las 17:00 con un día. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18900456
+Se ha comprobado: 2026-11-07
+
+### CP1799-20261231-20261231-one-day-2026-12-31 · MakerKids Mississauga South · North Pole Inventors Lab · Idea Incubators · 1 día · 2026-12-31–2026-12-31
+
+lugar: Canadá · MakerKids Mississauga South · 1900 Fowler Drive · Mississauga
+Fecha: 2026-12-31 — 2026-12-31
+edad: Cursos escolares 3-8.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 125 por 1 día y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: Cuidado matinal 08:00–09:00. Cuidado vespertino hasta las 17:30 con el bloque o hasta las 17:00 con un día. Pago: Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+Fuente: https://makerkids.pike13.com/events/18900438
+Se ha comprobado: 2026-11-07
+
+### CP1800-20261113-20261113-2026-11-13 · Spark Techies · PD Day STEM Camp · Calendario de centros privados · 2026-11-13–2026-11-13
+
+lugar: Canadá · Spark Techies · 1742 Hydepark Road · London, Ontario
+Fecha: 2026-11-13 — 2026-11-13
+edad: De 6–13 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 80 + HST 13%, total CAD 90.40 por menor. · suplementos y condiciones en el dossier
+Acceso: El formulario cierra el 13 de noviembre de 2026 a las 00:00. En este formulario, entrega 08:50–09:00 y recogida 15:30–15:45.
+Limitaciones: Matvey: Edad adecuada. Confirmar plaza e idioma de la actividad. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos: Comida y recogida tardía por separado. Precio sin publicar. Llevar agua, comida y 2 tentempiés sin frutos secos. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.
+Fuente: https://sparktechies.uplifterinc.com/registration/camps/
+Se ha comprobado: 2026-11-07
+
+### CP1800-20270115-20270115-2027-01-15 · Spark Techies · PD Day STEM Camp · Calendario de todos los centros · 2027-01-15–2027-01-15
+
+lugar: Canadá · Spark Techies · 1742 Hydepark Road · London, Ontario
+Fecha: 2027-01-15 — 2027-01-15
+edad: De 6–13 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 80 + HST 13%, total CAD 90.40 por menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada. Confirmar plaza e idioma de la actividad. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos: Comida y recogida tardía por separado. Precio sin publicar. Llevar agua, comida y 2 tentempiés sin frutos secos. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.
+Fuente: https://sparktechies.ca/kids-camps/
+Se ha comprobado: 2026-11-07
+
+### CP1800-20270129-20270129-2027-01-29 · Spark Techies · PD Day STEM Camp · Calendario de centros privados · 2027-01-29–2027-01-29
+
+lugar: Canadá · Spark Techies · 1742 Hydepark Road · London, Ontario
+Fecha: 2027-01-29 — 2027-01-29
+edad: De 6–13 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 80 + HST 13%, total CAD 90.40 por menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada. Confirmar plaza e idioma de la actividad. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos: Comida y recogida tardía por separado. Precio sin publicar. Llevar agua, comida y 2 tentempiés sin frutos secos. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.
+Fuente: https://sparktechies.ca/kids-camps/
+Se ha comprobado: 2026-11-07
+
+### CP1800-20270205-20270205-2027-02-05 · Spark Techies · PD Day STEM Camp · Calendario de centros privados · 2027-02-05–2027-02-05
+
+lugar: Canadá · Spark Techies · 1742 Hydepark Road · London, Ontario
+Fecha: 2027-02-05 — 2027-02-05
+edad: De 6–13 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 80 + HST 13%, total CAD 90.40 por menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada. Confirmar plaza e idioma de la actividad. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos: Comida y recogida tardía por separado. Precio sin publicar. Llevar agua, comida y 2 tentempiés sin frutos secos. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.
+Fuente: https://sparktechies.ca/kids-camps/
+Se ha comprobado: 2026-11-07
+
+### CP1800-20270212-20270212-2027-02-12 · Spark Techies · PD Day STEM Camp · Calendario de centros privados · 2027-02-12–2027-02-12
+
+lugar: Canadá · Spark Techies · 1742 Hydepark Road · London, Ontario
+Fecha: 2027-02-12 — 2027-02-12
+edad: De 6–13 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 80 + HST 13%, total CAD 90.40 por menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada. Confirmar plaza e idioma de la actividad. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos: Comida y recogida tardía por separado. Precio sin publicar. Llevar agua, comida y 2 tentempiés sin frutos secos. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.
+Fuente: https://sparktechies.ca/kids-camps/
+Se ha comprobado: 2026-11-07
+
+### CP1801-20270308-20270312-march-8 · Spark Techies · March Break STEM Camp · Calendario de centros privados · 2027-03-08–2027-03-12
+
+lugar: Canadá · Spark Techies · 1742 Hydepark Road · London, Ontario
+Fecha: 2027-03-08 — 2027-03-12
+edad: De 6–13 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 380 + HST 13%, total CAD 429.40 por menor. La web indica tarifa anticipada de CAD 350 + HST. Su plazo no figura. · suplementos y condiciones en el dossier
+Acceso: El formulario indica cierre el 7 de marzo de 2027 a las 00:00. Confirmar plaza y condiciones de admisión.
+Limitaciones: Matvey: Edad adecuada. Confirmar plaza e idioma de la actividad. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos: Comida y recogida tardía por separado. Precio sin publicar. Llevar agua, comida y 2 tentempiés sin frutos secos. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.
+Fuente: https://sparktechies.uplifterinc.com/registration/camps/
+Se ha comprobado: 2026-11-07
+
+### CP1801-20270315-20270319-march-15 · Spark Techies · March Break STEM Camp · Calendario de todos los centros · 2027-03-15–2027-03-19
+
+lugar: Canadá · Spark Techies · 1742 Hydepark Road · London, Ontario
+Fecha: 2027-03-15 — 2027-03-19
+edad: De 6–13 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 380 + HST 13%, total CAD 429.40 por menor. La web indica tarifa anticipada de CAD 350 + HST. Su plazo no figura. · suplementos y condiciones en el dossier
+Acceso: El formulario indica cierre el 8 de marzo de 2027 a las 00:00. Confirmar plaza y condiciones de admisión.
+Limitaciones: Matvey: Edad adecuada. Confirmar plaza e idioma de la actividad. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos: Comida y recogida tardía por separado. Precio sin publicar. Llevar agua, comida y 2 tentempiés sin frutos secos. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.
+Fuente: https://sparktechies.uplifterinc.com/registration/camps/
+Se ha comprobado: 2026-11-07
+
+### CP1803-20270322-20270326-spring · VISST · Maker Lab · Digital Design and Fabrication · 09:00–12:00 · 2027-03-22–2027-03-26
+
+lugar: Canadá · VISST · 1490 West Broadway · Vancouver
+Fecha: 2027-03-22 — 2027-03-26
+edad: Grados escolares 5–9.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 300 por un itinerario o CAD 570 por los dos itinerarios por participante. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: Si se eligen ambos itinerarios, el organizador supervisa a los participantes durante el descanso para comer. Se necesita portátil propio. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.
+Fuente: https://www.visst.ca/camps/makerlab-spring
+Se ha comprobado: 2026-11-07
+
+### CP1804-20270322-20270326-spring · VISST · Arcade Action Coding · 13:00–16:00 · 2027-03-22–2027-03-26
+
+lugar: Canadá · VISST · 1490 West Broadway · Vancouver
+Fecha: 2027-03-22 — 2027-03-26
+edad: Cursos escolares 5–8.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 300 por un itinerario o CAD 570 por los dos itinerarios por participante. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión. Suplementos: Si se eligen ambos itinerarios, el organizador supervisa a los participantes durante el descanso para comer. Se necesita portátil propio. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.
+Fuente: https://www.visst.ca/camps/arcade
+Se ha comprobado: 2026-11-07
+
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
 
 lugar: Letonia · EIS Campus · Piņķi

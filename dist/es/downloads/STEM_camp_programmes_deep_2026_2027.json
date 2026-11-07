@@ -30,15 +30,15 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1787,
+    "dossiers": 1806,
     "countries": 104,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 261,
-      "published_2027": 498,
+      "published_2027": 501,
       "partial_2027": 140,
-      "next_unannounced": 358,
-      "published_2026": 315,
+      "next_unannounced": 361,
+      "published_2026": 328,
       "partial_2026_27": 29,
       "partial_2026": 23,
       "archive_next_unannounced": 138,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2541
+    "source_urls": 2631
   },
   "countries": [
     {
@@ -205,7 +205,7 @@
     },
     {
       "country": "Canadá",
-      "count": 167
+      "count": 186
     },
     {
       "country": "Catar",
@@ -300889,6 +300889,4867 @@
       "catalog_participation": "course",
       "related_event_ids": [],
       "calendar_links": []
+    },
+    {
+      "id": "CP1788",
+      "slug": "makerkids-bloor-winter-2026-w1-g1-2",
+      "provider": "MakerKids Bloor West · Minecraft Frozen Kingdom · Mini Makers",
+      "country": "Canadá",
+      "iso": "CAN",
+      "place": "MakerKids Bloor West · 2451 Bloor Street West · Toronto",
+      "age": "Cursos escolares 1-2.",
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.",
+      "confirmed_instruction_languages": [],
+      "programme": "Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Los dos grupos coinciden en una sede de 09:00 a 15:30. Se puede elegir el bloque o un día.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-21"
+          ],
+          [
+            "2026-12-22",
+            "2026-12-22"
+          ],
+          [
+            "2026-12-23",
+            "2026-12-23"
+          ],
+          [
+            "2026-12-24",
+            "2026-12-24"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "four-days",
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "4 días",
+            "source": "https://makerkids.pike13.com/events/18901013",
+            "price": "CAD 450 por 4 días y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "topic": "Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "topic": "Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "topic": "Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-21",
+            "start": "2026-12-21",
+            "end": "2026-12-21",
+            "label": "1 día",
+            "source": "https://makerkids.pike13.com/events/18904114",
+            "price": "CAD 125 por 1 día y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-22",
+            "start": "2026-12-22",
+            "end": "2026-12-22",
+            "label": "1 día",
+            "source": "https://makerkids.pike13.com/events/18904115",
+            "price": "CAD 125 por 1 día y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-22",
+                "topic": "Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-23",
+            "start": "2026-12-23",
+            "end": "2026-12-23",
+            "label": "1 día",
+            "source": "https://makerkids.pike13.com/events/18904117",
+            "price": "CAD 125 por 1 día y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-23",
+                "topic": "Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-24",
+            "start": "2026-12-24",
+            "end": "2026-12-24",
+            "label": "1 día",
+            "source": "https://makerkids.pike13.com/events/18904118",
+            "price": "CAD 125 por 1 día y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-24",
+                "topic": "Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CAD",
+        "amount": 450,
+        "unit": "session",
+        "label": "CAD 450 por 4 días o CAD 125 por día y menor.",
+        "included": "Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.",
+        "extras": "El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado.",
+        "deposit": "Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso."
+      },
+      "accommodation": "Campamento diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Confirmar el curso escolar local. La edad por sí sola no acredita la admisión."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Confirmar el curso escolar local. La edad por sí sola no acredita la admisión."
+        }
+      },
+      "editorial_reason": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar curso escolar, idioma de las actividades y plaza para cada menor."
+      ],
+      "sources": [
+        {
+          "url": "https://makerkids.com/camps-in-bloor-west/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901013",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18904114",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18904115",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18904117",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18904118",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901025",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901033",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/courses/313076",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/courses/313078",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.com/cancellations/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "pairing": {
+        "venue_id": "makerkids-bloor",
+        "verified_source": "https://makerkids.com/camps-in-bloor-west/",
+        "checked": "2026-11-06"
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1788-20261221-20261224-four-days"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1788-20261221-20261221-one-day-2026-12-21"
+          ]
+        },
+        {
+          "start": "2026-12-22",
+          "end": "2026-12-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1788-20261222-20261222-one-day-2026-12-22"
+          ]
+        },
+        {
+          "start": "2026-12-23",
+          "end": "2026-12-23",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1788-20261223-20261223-one-day-2026-12-23"
+          ]
+        },
+        {
+          "start": "2026-12-24",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1788-20261224-20261224-one-day-2026-12-24"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1789",
+      "slug": "makerkids-bloor-winter-2026-w1-g3-8",
+      "provider": "MakerKids Bloor West · Minecraft Frozen Kingdom · Idea Incubators",
+      "country": "Canadá",
+      "iso": "CAN",
+      "place": "MakerKids Bloor West · 2451 Bloor Street West · Toronto",
+      "age": "Cursos escolares 3-8.",
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.",
+      "confirmed_instruction_languages": [],
+      "programme": "Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Los dos grupos coinciden en una sede de 09:00 a 15:30. Se puede elegir el bloque o un día.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-21"
+          ],
+          [
+            "2026-12-22",
+            "2026-12-22"
+          ],
+          [
+            "2026-12-23",
+            "2026-12-23"
+          ],
+          [
+            "2026-12-24",
+            "2026-12-24"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "four-days",
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "4 días",
+            "source": "https://makerkids.pike13.com/events/18900990",
+            "price": "CAD 450 por 4 días y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "topic": "Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "topic": "Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "topic": "Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-21",
+            "start": "2026-12-21",
+            "end": "2026-12-21",
+            "label": "1 día",
+            "source": "https://makerkids.pike13.com/events/18901121",
+            "price": "CAD 125 por 1 día y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-22",
+            "start": "2026-12-22",
+            "end": "2026-12-22",
+            "label": "1 día",
+            "source": "https://makerkids.pike13.com/events/18901131",
+            "price": "CAD 125 por 1 día y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-22",
+                "topic": "Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-23",
+            "start": "2026-12-23",
+            "end": "2026-12-23",
+            "label": "1 día",
+            "source": "https://makerkids.pike13.com/events/18904103",
+            "price": "CAD 125 por 1 día y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-23",
+                "topic": "Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-24",
+            "start": "2026-12-24",
+            "end": "2026-12-24",
+            "label": "1 día",
+            "source": "https://makerkids.pike13.com/events/18904105",
+            "price": "CAD 125 por 1 día y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-24",
+                "topic": "Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CAD",
+        "amount": 450,
+        "unit": "session",
+        "label": "CAD 450 por 4 días o CAD 125 por día y menor.",
+        "included": "Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.",
+        "extras": "El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado.",
+        "deposit": "Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso."
+      },
+      "accommodation": "Campamento diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Confirmar el curso escolar local. La edad por sí sola no acredita la admisión."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Confirmar el curso escolar local. La edad por sí sola no acredita la admisión."
+        }
+      },
+      "editorial_reason": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar curso escolar, idioma de las actividades y plaza para cada menor."
+      ],
+      "sources": [
+        {
+          "url": "https://makerkids.com/camps-in-bloor-west/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900990",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901121",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901131",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18904103",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18904105",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901025",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901033",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/courses/313076",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/courses/313078",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.com/cancellations/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "pairing": {
+        "venue_id": "makerkids-bloor",
+        "verified_source": "https://makerkids.com/camps-in-bloor-west/",
+        "checked": "2026-11-06"
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1789-20261221-20261224-four-days"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1789-20261221-20261221-one-day-2026-12-21"
+          ]
+        },
+        {
+          "start": "2026-12-22",
+          "end": "2026-12-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1789-20261222-20261222-one-day-2026-12-22"
+          ]
+        },
+        {
+          "start": "2026-12-23",
+          "end": "2026-12-23",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1789-20261223-20261223-one-day-2026-12-23"
+          ]
+        },
+        {
+          "start": "2026-12-24",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1789-20261224-20261224-one-day-2026-12-24"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1790",
+      "slug": "makerkids-bloor-winter-2026-w2-g1-2",
+      "provider": "MakerKids Bloor West · North Pole Inventors Lab · Mini Makers",
+      "country": "Canadá",
+      "iso": "CAN",
+      "place": "MakerKids Bloor West · 2451 Bloor Street West · Toronto",
+      "age": "Cursos escolares 1-2.",
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.",
+      "confirmed_instruction_languages": [],
+      "programme": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Los dos grupos coinciden en una sede de 09:00 a 15:30. Se puede elegir el bloque o un día.",
+        "sessions": [
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-28"
+          ],
+          [
+            "2026-12-29",
+            "2026-12-29"
+          ],
+          [
+            "2026-12-30",
+            "2026-12-30"
+          ],
+          [
+            "2026-12-31",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "four-days",
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "4 días",
+            "source": "https://makerkids.pike13.com/events/18901019",
+            "price": "CAD 450 por 4 días y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "topic": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "topic": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-30",
+                "topic": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-31",
+                "topic": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-28",
+            "start": "2026-12-28",
+            "end": "2026-12-28",
+            "label": "1 día",
+            "source": "https://makerkids.pike13.com/events/18904120",
+            "price": "CAD 125 por 1 día y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "topic": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-29",
+            "start": "2026-12-29",
+            "end": "2026-12-29",
+            "label": "1 día",
+            "source": "https://makerkids.pike13.com/events/18904122",
+            "price": "CAD 125 por 1 día y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-29",
+                "topic": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-30",
+            "start": "2026-12-30",
+            "end": "2026-12-30",
+            "label": "1 día",
+            "source": "https://makerkids.pike13.com/events/18904124",
+            "price": "CAD 125 por 1 día y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-30",
+                "topic": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-31",
+            "start": "2026-12-31",
+            "end": "2026-12-31",
+            "label": "1 día",
+            "source": "https://makerkids.pike13.com/events/18904125",
+            "price": "CAD 125 por 1 día y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-31",
+                "topic": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CAD",
+        "amount": 450,
+        "unit": "session",
+        "label": "CAD 450 por 4 días o CAD 125 por día y menor.",
+        "included": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+        "extras": "El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado.",
+        "deposit": "Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso."
+      },
+      "accommodation": "Campamento diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Confirmar el curso escolar local. La edad por sí sola no acredita la admisión."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Confirmar el curso escolar local. La edad por sí sola no acredita la admisión."
+        }
+      },
+      "editorial_reason": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar curso escolar, idioma de las actividades y plaza para cada menor."
+      ],
+      "sources": [
+        {
+          "url": "https://makerkids.com/camps-in-bloor-west/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901019",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18904120",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18904122",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18904124",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18904125",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901040",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901039",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/courses/313076",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/courses/313078",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.com/cancellations/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "pairing": {
+        "venue_id": "makerkids-bloor",
+        "verified_source": "https://makerkids.com/camps-in-bloor-west/",
+        "checked": "2026-11-06"
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1790-20261228-20261231-four-days"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-28",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1790-20261228-20261228-one-day-2026-12-28"
+          ]
+        },
+        {
+          "start": "2026-12-29",
+          "end": "2026-12-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1790-20261229-20261229-one-day-2026-12-29"
+          ]
+        },
+        {
+          "start": "2026-12-30",
+          "end": "2026-12-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1790-20261230-20261230-one-day-2026-12-30"
+          ]
+        },
+        {
+          "start": "2026-12-31",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1790-20261231-20261231-one-day-2026-12-31"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1791",
+      "slug": "makerkids-bloor-winter-2026-w2-g3-8",
+      "provider": "MakerKids Bloor West · North Pole Inventors Lab · Idea Incubators",
+      "country": "Canadá",
+      "iso": "CAN",
+      "place": "MakerKids Bloor West · 2451 Bloor Street West · Toronto",
+      "age": "Cursos escolares 3-8.",
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.",
+      "confirmed_instruction_languages": [],
+      "programme": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Los dos grupos coinciden en una sede de 09:00 a 15:30. Se puede elegir el bloque o un día.",
+        "sessions": [
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-28"
+          ],
+          [
+            "2026-12-29",
+            "2026-12-29"
+          ],
+          [
+            "2026-12-30",
+            "2026-12-30"
+          ],
+          [
+            "2026-12-31",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "four-days",
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "4 días",
+            "source": "https://makerkids.pike13.com/events/18901005",
+            "price": "CAD 450 por 4 días y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "topic": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "topic": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-30",
+                "topic": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-31",
+                "topic": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-28",
+            "start": "2026-12-28",
+            "end": "2026-12-28",
+            "label": "1 día",
+            "source": "https://makerkids.pike13.com/events/18904107",
+            "price": "CAD 125 por 1 día y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "topic": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-29",
+            "start": "2026-12-29",
+            "end": "2026-12-29",
+            "label": "1 día",
+            "source": "https://makerkids.pike13.com/events/18904108",
+            "price": "CAD 125 por 1 día y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-29",
+                "topic": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-30",
+            "start": "2026-12-30",
+            "end": "2026-12-30",
+            "label": "1 día",
+            "source": "https://makerkids.pike13.com/events/18904109",
+            "price": "CAD 125 por 1 día y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-30",
+                "topic": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-31",
+            "start": "2026-12-31",
+            "end": "2026-12-31",
+            "label": "1 día",
+            "source": "https://makerkids.pike13.com/events/18904111",
+            "price": "CAD 125 por 1 día y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-31",
+                "topic": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CAD",
+        "amount": 450,
+        "unit": "session",
+        "label": "CAD 450 por 4 días o CAD 125 por día y menor.",
+        "included": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+        "extras": "El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado.",
+        "deposit": "Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso."
+      },
+      "accommodation": "Campamento diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Confirmar el curso escolar local. La edad por sí sola no acredita la admisión."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Confirmar el curso escolar local. La edad por sí sola no acredita la admisión."
+        }
+      },
+      "editorial_reason": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar curso escolar, idioma de las actividades y plaza para cada menor."
+      ],
+      "sources": [
+        {
+          "url": "https://makerkids.com/camps-in-bloor-west/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901005",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18904107",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18904108",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18904109",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18904111",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901040",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901039",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/courses/313076",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/courses/313078",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.com/cancellations/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "pairing": {
+        "venue_id": "makerkids-bloor",
+        "verified_source": "https://makerkids.com/camps-in-bloor-west/",
+        "checked": "2026-11-06"
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1791-20261228-20261231-four-days"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-28",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1791-20261228-20261228-one-day-2026-12-28"
+          ]
+        },
+        {
+          "start": "2026-12-29",
+          "end": "2026-12-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1791-20261229-20261229-one-day-2026-12-29"
+          ]
+        },
+        {
+          "start": "2026-12-30",
+          "end": "2026-12-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1791-20261230-20261230-one-day-2026-12-30"
+          ]
+        },
+        {
+          "start": "2026-12-31",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1791-20261231-20261231-one-day-2026-12-31"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1792",
+      "slug": "makerkids-leaside-winter-2026-w1-g1-2",
+      "provider": "MakerKids Leaside · Minecraft Frozen Kingdom · Mini Makers",
+      "country": "Canadá",
+      "iso": "CAN",
+      "place": "MakerKids Leaside · 1661 Bayview Ave · Toronto",
+      "age": "Cursos escolares 1-2.",
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.",
+      "confirmed_instruction_languages": [],
+      "programme": "Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Los dos grupos coinciden en una sede de 09:00 a 15:30. Se puede elegir el bloque o un día.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-21"
+          ],
+          [
+            "2026-12-22",
+            "2026-12-22"
+          ],
+          [
+            "2026-12-23",
+            "2026-12-23"
+          ],
+          [
+            "2026-12-24",
+            "2026-12-24"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "four-days",
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "4 días",
+            "source": "https://makerkids.pike13.com/events/18900903",
+            "price": "CAD 450 por 4 días y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "topic": "Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "topic": "Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "topic": "Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-21",
+            "start": "2026-12-21",
+            "end": "2026-12-21",
+            "label": "1 día",
+            "source": "https://makerkids.pike13.com/events/18901082",
+            "price": "CAD 125 por 1 día y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-22",
+            "start": "2026-12-22",
+            "end": "2026-12-22",
+            "label": "1 día",
+            "source": "https://makerkids.pike13.com/events/18901085",
+            "price": "CAD 125 por 1 día y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-22",
+                "topic": "Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-23",
+            "start": "2026-12-23",
+            "end": "2026-12-23",
+            "label": "1 día",
+            "source": "https://makerkids.pike13.com/events/18901092",
+            "price": "CAD 125 por 1 día y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-23",
+                "topic": "Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-24",
+            "start": "2026-12-24",
+            "end": "2026-12-24",
+            "label": "1 día",
+            "source": "https://makerkids.pike13.com/events/18901096",
+            "price": "CAD 125 por 1 día y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-24",
+                "topic": "Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CAD",
+        "amount": 450,
+        "unit": "session",
+        "label": "CAD 450 por 4 días o CAD 125 por día y menor.",
+        "included": "Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.",
+        "extras": "El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado.",
+        "deposit": "Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso."
+      },
+      "accommodation": "Campamento diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Confirmar el curso escolar local. La edad por sí sola no acredita la admisión."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Confirmar el curso escolar local. La edad por sí sola no acredita la admisión."
+        }
+      },
+      "editorial_reason": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar curso escolar, idioma de las actividades y plaza para cada menor."
+      ],
+      "sources": [
+        {
+          "url": "https://makerkids.com/camps-in-leaside/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900903",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901082",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901085",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901092",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901096",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900927",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900940",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/courses/312979",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/courses/313077",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.com/cancellations/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "pairing": {
+        "venue_id": "makerkids-leaside",
+        "verified_source": "https://makerkids.com/camps-in-leaside/",
+        "checked": "2026-11-06"
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1792-20261221-20261224-four-days"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1792-20261221-20261221-one-day-2026-12-21"
+          ]
+        },
+        {
+          "start": "2026-12-22",
+          "end": "2026-12-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1792-20261222-20261222-one-day-2026-12-22"
+          ]
+        },
+        {
+          "start": "2026-12-23",
+          "end": "2026-12-23",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1792-20261223-20261223-one-day-2026-12-23"
+          ]
+        },
+        {
+          "start": "2026-12-24",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1792-20261224-20261224-one-day-2026-12-24"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1793",
+      "slug": "makerkids-leaside-winter-2026-w1-g3-8",
+      "provider": "MakerKids Leaside · Minecraft Frozen Kingdom · Idea Incubators",
+      "country": "Canadá",
+      "iso": "CAN",
+      "place": "MakerKids Leaside · 1661 Bayview Ave · Toronto",
+      "age": "Cursos escolares 3-8.",
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.",
+      "confirmed_instruction_languages": [],
+      "programme": "Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Los dos grupos coinciden en una sede de 09:00 a 15:30. Se puede elegir el bloque o un día.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-21"
+          ],
+          [
+            "2026-12-22",
+            "2026-12-22"
+          ],
+          [
+            "2026-12-23",
+            "2026-12-23"
+          ],
+          [
+            "2026-12-24",
+            "2026-12-24"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "four-days",
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "4 días",
+            "source": "https://makerkids.pike13.com/events/18900892",
+            "price": "CAD 450 por 4 días y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "topic": "Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "topic": "Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "topic": "Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-21",
+            "start": "2026-12-21",
+            "end": "2026-12-21",
+            "label": "1 día",
+            "source": "https://makerkids.pike13.com/events/18901050",
+            "price": "CAD 125 por 1 día y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-22",
+            "start": "2026-12-22",
+            "end": "2026-12-22",
+            "label": "1 día",
+            "source": "https://makerkids.pike13.com/events/18901055",
+            "price": "CAD 125 por 1 día y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-22",
+                "topic": "Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-23",
+            "start": "2026-12-23",
+            "end": "2026-12-23",
+            "label": "1 día",
+            "source": "https://makerkids.pike13.com/events/18901058",
+            "price": "CAD 125 por 1 día y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-23",
+                "topic": "Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-24",
+            "start": "2026-12-24",
+            "end": "2026-12-24",
+            "label": "1 día",
+            "source": "https://makerkids.pike13.com/events/18901063",
+            "price": "CAD 125 por 1 día y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-24",
+                "topic": "Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CAD",
+        "amount": 450,
+        "unit": "session",
+        "label": "CAD 450 por 4 días o CAD 125 por día y menor.",
+        "included": "Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.",
+        "extras": "El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado.",
+        "deposit": "Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso."
+      },
+      "accommodation": "Campamento diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Confirmar el curso escolar local. La edad por sí sola no acredita la admisión."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Confirmar el curso escolar local. La edad por sí sola no acredita la admisión."
+        }
+      },
+      "editorial_reason": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar curso escolar, idioma de las actividades y plaza para cada menor."
+      ],
+      "sources": [
+        {
+          "url": "https://makerkids.com/camps-in-leaside/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900892",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901050",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901055",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901058",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901063",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900927",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900940",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/courses/312979",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/courses/313077",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.com/cancellations/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "pairing": {
+        "venue_id": "makerkids-leaside",
+        "verified_source": "https://makerkids.com/camps-in-leaside/",
+        "checked": "2026-11-06"
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1793-20261221-20261224-four-days"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1793-20261221-20261221-one-day-2026-12-21"
+          ]
+        },
+        {
+          "start": "2026-12-22",
+          "end": "2026-12-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1793-20261222-20261222-one-day-2026-12-22"
+          ]
+        },
+        {
+          "start": "2026-12-23",
+          "end": "2026-12-23",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1793-20261223-20261223-one-day-2026-12-23"
+          ]
+        },
+        {
+          "start": "2026-12-24",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1793-20261224-20261224-one-day-2026-12-24"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1794",
+      "slug": "makerkids-leaside-winter-2026-w2-g1-2",
+      "provider": "MakerKids Leaside · North Pole Inventors Lab · Mini Makers",
+      "country": "Canadá",
+      "iso": "CAN",
+      "place": "MakerKids Leaside · 1661 Bayview Ave · Toronto",
+      "age": "Cursos escolares 1-2.",
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.",
+      "confirmed_instruction_languages": [],
+      "programme": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Los dos grupos coinciden en una sede de 09:00 a 15:30. Se puede elegir el bloque o un día.",
+        "sessions": [
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-28"
+          ],
+          [
+            "2026-12-29",
+            "2026-12-29"
+          ],
+          [
+            "2026-12-30",
+            "2026-12-30"
+          ],
+          [
+            "2026-12-31",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "four-days",
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "4 días",
+            "source": "https://makerkids.pike13.com/events/18900908",
+            "price": "CAD 450 por 4 días y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "topic": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "topic": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-30",
+                "topic": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-31",
+                "topic": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-28",
+            "start": "2026-12-28",
+            "end": "2026-12-28",
+            "label": "1 día",
+            "source": "https://makerkids.pike13.com/events/18901099",
+            "price": "CAD 125 por 1 día y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "topic": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-29",
+            "start": "2026-12-29",
+            "end": "2026-12-29",
+            "label": "1 día",
+            "source": "https://makerkids.pike13.com/events/18901103",
+            "price": "CAD 125 por 1 día y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-29",
+                "topic": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-30",
+            "start": "2026-12-30",
+            "end": "2026-12-30",
+            "label": "1 día",
+            "source": "https://makerkids.pike13.com/events/18901107",
+            "price": "CAD 125 por 1 día y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-30",
+                "topic": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-31",
+            "start": "2026-12-31",
+            "end": "2026-12-31",
+            "label": "1 día",
+            "source": "https://makerkids.pike13.com/events/18901109",
+            "price": "CAD 125 por 1 día y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-31",
+                "topic": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CAD",
+        "amount": 450,
+        "unit": "session",
+        "label": "CAD 450 por 4 días o CAD 125 por día y menor.",
+        "included": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+        "extras": "El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado.",
+        "deposit": "Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso."
+      },
+      "accommodation": "Campamento diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Confirmar el curso escolar local. La edad por sí sola no acredita la admisión."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Confirmar el curso escolar local. La edad por sí sola no acredita la admisión."
+        }
+      },
+      "editorial_reason": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar curso escolar, idioma de las actividades y plaza para cada menor."
+      ],
+      "sources": [
+        {
+          "url": "https://makerkids.com/camps-in-leaside/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900908",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901099",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901103",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901107",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901109",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900931",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900945",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/courses/312979",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/courses/313077",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.com/cancellations/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "pairing": {
+        "venue_id": "makerkids-leaside",
+        "verified_source": "https://makerkids.com/camps-in-leaside/",
+        "checked": "2026-11-06"
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1794-20261228-20261231-four-days"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-28",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1794-20261228-20261228-one-day-2026-12-28"
+          ]
+        },
+        {
+          "start": "2026-12-29",
+          "end": "2026-12-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1794-20261229-20261229-one-day-2026-12-29"
+          ]
+        },
+        {
+          "start": "2026-12-30",
+          "end": "2026-12-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1794-20261230-20261230-one-day-2026-12-30"
+          ]
+        },
+        {
+          "start": "2026-12-31",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1794-20261231-20261231-one-day-2026-12-31"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1795",
+      "slug": "makerkids-leaside-winter-2026-w2-g3-8",
+      "provider": "MakerKids Leaside · North Pole Inventors Lab · Idea Incubators",
+      "country": "Canadá",
+      "iso": "CAN",
+      "place": "MakerKids Leaside · 1661 Bayview Ave · Toronto",
+      "age": "Cursos escolares 3-8.",
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.",
+      "confirmed_instruction_languages": [],
+      "programme": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Los dos grupos coinciden en una sede de 09:00 a 15:30. Se puede elegir el bloque o un día.",
+        "sessions": [
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-28"
+          ],
+          [
+            "2026-12-29",
+            "2026-12-29"
+          ],
+          [
+            "2026-12-30",
+            "2026-12-30"
+          ],
+          [
+            "2026-12-31",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "four-days",
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "4 días",
+            "source": "https://makerkids.pike13.com/events/18900897",
+            "price": "CAD 450 por 4 días y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "topic": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "topic": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-30",
+                "topic": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-31",
+                "topic": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-28",
+            "start": "2026-12-28",
+            "end": "2026-12-28",
+            "label": "1 día",
+            "source": "https://makerkids.pike13.com/events/18901064",
+            "price": "CAD 125 por 1 día y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "topic": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-29",
+            "start": "2026-12-29",
+            "end": "2026-12-29",
+            "label": "1 día",
+            "source": "https://makerkids.pike13.com/events/18901067",
+            "price": "CAD 125 por 1 día y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-29",
+                "topic": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-30",
+            "start": "2026-12-30",
+            "end": "2026-12-30",
+            "label": "1 día",
+            "source": "https://makerkids.pike13.com/events/18901072",
+            "price": "CAD 125 por 1 día y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-30",
+                "topic": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-31",
+            "start": "2026-12-31",
+            "end": "2026-12-31",
+            "label": "1 día",
+            "source": "https://makerkids.pike13.com/events/18901073",
+            "price": "CAD 125 por 1 día y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-31",
+                "topic": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CAD",
+        "amount": 450,
+        "unit": "session",
+        "label": "CAD 450 por 4 días o CAD 125 por día y menor.",
+        "included": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+        "extras": "El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado.",
+        "deposit": "Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso."
+      },
+      "accommodation": "Campamento diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Confirmar el curso escolar local. La edad por sí sola no acredita la admisión."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Confirmar el curso escolar local. La edad por sí sola no acredita la admisión."
+        }
+      },
+      "editorial_reason": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar curso escolar, idioma de las actividades y plaza para cada menor."
+      ],
+      "sources": [
+        {
+          "url": "https://makerkids.com/camps-in-leaside/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900897",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901064",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901067",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901072",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901073",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900931",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900945",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/courses/312979",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/courses/313077",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.com/cancellations/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "pairing": {
+        "venue_id": "makerkids-leaside",
+        "verified_source": "https://makerkids.com/camps-in-leaside/",
+        "checked": "2026-11-06"
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1795-20261228-20261231-four-days"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-28",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1795-20261228-20261228-one-day-2026-12-28"
+          ]
+        },
+        {
+          "start": "2026-12-29",
+          "end": "2026-12-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1795-20261229-20261229-one-day-2026-12-29"
+          ]
+        },
+        {
+          "start": "2026-12-30",
+          "end": "2026-12-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1795-20261230-20261230-one-day-2026-12-30"
+          ]
+        },
+        {
+          "start": "2026-12-31",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1795-20261231-20261231-one-day-2026-12-31"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1796",
+      "slug": "makerkids-mississauga-winter-2026-w1-g1-2",
+      "provider": "MakerKids Mississauga South · Minecraft Frozen Kingdom · Mini Makers",
+      "country": "Canadá",
+      "iso": "CAN",
+      "place": "MakerKids Mississauga South · 1900 Fowler Drive · Mississauga",
+      "age": "Cursos escolares 1-2.",
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.",
+      "confirmed_instruction_languages": [],
+      "programme": "Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Los dos grupos coinciden en una sede de 09:00 a 15:30. Se puede elegir el bloque o un día.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-21"
+          ],
+          [
+            "2026-12-22",
+            "2026-12-22"
+          ],
+          [
+            "2026-12-23",
+            "2026-12-23"
+          ],
+          [
+            "2026-12-24",
+            "2026-12-24"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "four-days",
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "4 días",
+            "source": "https://makerkids.pike13.com/events/18900295",
+            "price": "CAD 450 por 4 días y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "topic": "Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "topic": "Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "topic": "Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-21",
+            "start": "2026-12-21",
+            "end": "2026-12-21",
+            "label": "1 día",
+            "source": "https://makerkids.pike13.com/events/18900333",
+            "price": "CAD 125 por 1 día y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-22",
+            "start": "2026-12-22",
+            "end": "2026-12-22",
+            "label": "1 día",
+            "source": "https://makerkids.pike13.com/events/18900342",
+            "price": "CAD 125 por 1 día y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-22",
+                "topic": "Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-23",
+            "start": "2026-12-23",
+            "end": "2026-12-23",
+            "label": "1 día",
+            "source": "https://makerkids.pike13.com/events/18900346",
+            "price": "CAD 125 por 1 día y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-23",
+                "topic": "Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-24",
+            "start": "2026-12-24",
+            "end": "2026-12-24",
+            "label": "1 día",
+            "source": "https://makerkids.pike13.com/events/18900351",
+            "price": "CAD 125 por 1 día y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-24",
+                "topic": "Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CAD",
+        "amount": 450,
+        "unit": "session",
+        "label": "CAD 450 por 4 días o CAD 125 por día y menor.",
+        "included": "Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.",
+        "extras": "El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado.",
+        "deposit": "Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso."
+      },
+      "accommodation": "Campamento diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Confirmar el curso escolar local. La edad por sí sola no acredita la admisión."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Confirmar el curso escolar local. La edad por sí sola no acredita la admisión."
+        }
+      },
+      "editorial_reason": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar curso escolar, idioma de las actividades y plaza para cada menor."
+      ],
+      "sources": [
+        {
+          "url": "https://makerkids.com/makerkids-mississauga/stem-camps-in-mississauga/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900295",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900333",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900342",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900346",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900351",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900468",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900490",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/courses/335597",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/courses/335599",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.com/cancellations/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "pairing": {
+        "venue_id": "makerkids-mississauga",
+        "verified_source": "https://makerkids.com/makerkids-mississauga/stem-camps-in-mississauga/",
+        "checked": "2026-11-06"
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1796-20261221-20261224-four-days"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1796-20261221-20261221-one-day-2026-12-21"
+          ]
+        },
+        {
+          "start": "2026-12-22",
+          "end": "2026-12-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1796-20261222-20261222-one-day-2026-12-22"
+          ]
+        },
+        {
+          "start": "2026-12-23",
+          "end": "2026-12-23",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1796-20261223-20261223-one-day-2026-12-23"
+          ]
+        },
+        {
+          "start": "2026-12-24",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1796-20261224-20261224-one-day-2026-12-24"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1797",
+      "slug": "makerkids-mississauga-winter-2026-w1-g3-8",
+      "provider": "MakerKids Mississauga South · Minecraft Frozen Kingdom · Idea Incubators",
+      "country": "Canadá",
+      "iso": "CAN",
+      "place": "MakerKids Mississauga South · 1900 Fowler Drive · Mississauga",
+      "age": "Cursos escolares 3-8.",
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.",
+      "confirmed_instruction_languages": [],
+      "programme": "Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Los dos grupos coinciden en una sede de 09:00 a 15:30. Se puede elegir el bloque o un día.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-21"
+          ],
+          [
+            "2026-12-22",
+            "2026-12-22"
+          ],
+          [
+            "2026-12-23",
+            "2026-12-23"
+          ],
+          [
+            "2026-12-24",
+            "2026-12-24"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "four-days",
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "4 días",
+            "source": "https://makerkids.pike13.com/events/18900321",
+            "price": "CAD 450 por 4 días y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "topic": "Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "topic": "Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "topic": "Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-21",
+            "start": "2026-12-21",
+            "end": "2026-12-21",
+            "label": "1 día",
+            "source": "https://makerkids.pike13.com/events/18900387",
+            "price": "CAD 125 por 1 día y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-22",
+            "start": "2026-12-22",
+            "end": "2026-12-22",
+            "label": "1 día",
+            "source": "https://makerkids.pike13.com/events/18900394",
+            "price": "CAD 125 por 1 día y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-22",
+                "topic": "Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-23",
+            "start": "2026-12-23",
+            "end": "2026-12-23",
+            "label": "1 día",
+            "source": "https://makerkids.pike13.com/events/18900398",
+            "price": "CAD 125 por 1 día y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-23",
+                "topic": "Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-24",
+            "start": "2026-12-24",
+            "end": "2026-12-24",
+            "label": "1 día",
+            "source": "https://makerkids.pike13.com/events/18900400",
+            "price": "CAD 125 por 1 día y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-24",
+                "topic": "Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CAD",
+        "amount": 450,
+        "unit": "session",
+        "label": "CAD 450 por 4 días o CAD 125 por día y menor.",
+        "included": "Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.",
+        "extras": "El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado.",
+        "deposit": "Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso."
+      },
+      "accommodation": "Campamento diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Confirmar el curso escolar local. La edad por sí sola no acredita la admisión."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Confirmar el curso escolar local. La edad por sí sola no acredita la admisión."
+        }
+      },
+      "editorial_reason": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar curso escolar, idioma de las actividades y plaza para cada menor."
+      ],
+      "sources": [
+        {
+          "url": "https://makerkids.com/makerkids-mississauga/stem-camps-in-mississauga/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900321",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900387",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900394",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900398",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900400",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900468",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900490",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/courses/335597",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/courses/335599",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.com/cancellations/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "pairing": {
+        "venue_id": "makerkids-mississauga",
+        "verified_source": "https://makerkids.com/makerkids-mississauga/stem-camps-in-mississauga/",
+        "checked": "2026-11-06"
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1797-20261221-20261224-four-days"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1797-20261221-20261221-one-day-2026-12-21"
+          ]
+        },
+        {
+          "start": "2026-12-22",
+          "end": "2026-12-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1797-20261222-20261222-one-day-2026-12-22"
+          ]
+        },
+        {
+          "start": "2026-12-23",
+          "end": "2026-12-23",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1797-20261223-20261223-one-day-2026-12-23"
+          ]
+        },
+        {
+          "start": "2026-12-24",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1797-20261224-20261224-one-day-2026-12-24"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1798",
+      "slug": "makerkids-mississauga-winter-2026-w2-g1-2",
+      "provider": "MakerKids Mississauga South · North Pole Inventors Lab · Mini Makers",
+      "country": "Canadá",
+      "iso": "CAN",
+      "place": "MakerKids Mississauga South · 1900 Fowler Drive · Mississauga",
+      "age": "Cursos escolares 1-2.",
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.",
+      "confirmed_instruction_languages": [],
+      "programme": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Los dos grupos coinciden en una sede de 09:00 a 15:30. Se puede elegir el bloque o un día.",
+        "sessions": [
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-28"
+          ],
+          [
+            "2026-12-29",
+            "2026-12-29"
+          ],
+          [
+            "2026-12-30",
+            "2026-12-30"
+          ],
+          [
+            "2026-12-31",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "four-days",
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "4 días",
+            "source": "https://makerkids.pike13.com/events/18900308",
+            "price": "CAD 450 por 4 días y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "topic": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "topic": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-30",
+                "topic": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-31",
+                "topic": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-28",
+            "start": "2026-12-28",
+            "end": "2026-12-28",
+            "label": "1 día",
+            "source": "https://makerkids.pike13.com/events/18900354",
+            "price": "CAD 125 por 1 día y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "topic": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-29",
+            "start": "2026-12-29",
+            "end": "2026-12-29",
+            "label": "1 día",
+            "source": "https://makerkids.pike13.com/events/18900359",
+            "price": "CAD 125 por 1 día y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-29",
+                "topic": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-30",
+            "start": "2026-12-30",
+            "end": "2026-12-30",
+            "label": "1 día",
+            "source": "https://makerkids.pike13.com/events/18900363",
+            "price": "CAD 125 por 1 día y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-30",
+                "topic": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-31",
+            "start": "2026-12-31",
+            "end": "2026-12-31",
+            "label": "1 día",
+            "source": "https://makerkids.pike13.com/events/18900369",
+            "price": "CAD 125 por 1 día y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-31",
+                "topic": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CAD",
+        "amount": 450,
+        "unit": "session",
+        "label": "CAD 450 por 4 días o CAD 125 por día y menor.",
+        "included": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+        "extras": "Cuidado matinal 08:00–09:00. Cuidado vespertino hasta las 17:30 con el bloque o hasta las 17:00 con un día.",
+        "deposit": "Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso."
+      },
+      "accommodation": "Campamento diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Confirmar el curso escolar local. La edad por sí sola no acredita la admisión."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Confirmar el curso escolar local. La edad por sí sola no acredita la admisión."
+        }
+      },
+      "editorial_reason": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar curso escolar, idioma de las actividades y plaza para cada menor."
+      ],
+      "sources": [
+        {
+          "url": "https://makerkids.com/makerkids-mississauga/stem-camps-in-mississauga/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900308",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900354",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900359",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900363",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900369",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900475",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900493",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/courses/335597",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/courses/335599",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.com/cancellations/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "pairing": {
+        "venue_id": "makerkids-mississauga",
+        "verified_source": "https://makerkids.com/makerkids-mississauga/stem-camps-in-mississauga/",
+        "checked": "2026-11-06"
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1798-20261228-20261231-four-days"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-28",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1798-20261228-20261228-one-day-2026-12-28"
+          ]
+        },
+        {
+          "start": "2026-12-29",
+          "end": "2026-12-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1798-20261229-20261229-one-day-2026-12-29"
+          ]
+        },
+        {
+          "start": "2026-12-30",
+          "end": "2026-12-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1798-20261230-20261230-one-day-2026-12-30"
+          ]
+        },
+        {
+          "start": "2026-12-31",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1798-20261231-20261231-one-day-2026-12-31"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1799",
+      "slug": "makerkids-mississauga-winter-2026-w2-g3-8",
+      "provider": "MakerKids Mississauga South · North Pole Inventors Lab · Idea Incubators",
+      "country": "Canadá",
+      "iso": "CAN",
+      "place": "MakerKids Mississauga South · 1900 Fowler Drive · Mississauga",
+      "age": "Cursos escolares 3-8.",
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.",
+      "confirmed_instruction_languages": [],
+      "programme": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Los dos grupos coinciden en una sede de 09:00 a 15:30. Se puede elegir el bloque o un día.",
+        "sessions": [
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-28"
+          ],
+          [
+            "2026-12-29",
+            "2026-12-29"
+          ],
+          [
+            "2026-12-30",
+            "2026-12-30"
+          ],
+          [
+            "2026-12-31",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "four-days",
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "4 días",
+            "source": "https://makerkids.pike13.com/events/18900328",
+            "price": "CAD 450 por 4 días y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "topic": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "topic": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-30",
+                "topic": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-31",
+                "topic": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-28",
+            "start": "2026-12-28",
+            "end": "2026-12-28",
+            "label": "1 día",
+            "source": "https://makerkids.pike13.com/events/18900408",
+            "price": "CAD 125 por 1 día y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "topic": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-29",
+            "start": "2026-12-29",
+            "end": "2026-12-29",
+            "label": "1 día",
+            "source": "https://makerkids.pike13.com/events/18900420",
+            "price": "CAD 125 por 1 día y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-29",
+                "topic": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-30",
+            "start": "2026-12-30",
+            "end": "2026-12-30",
+            "label": "1 día",
+            "source": "https://makerkids.pike13.com/events/18900456",
+            "price": "CAD 125 por 1 día y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-30",
+                "topic": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-31",
+            "start": "2026-12-31",
+            "end": "2026-12-31",
+            "label": "1 día",
+            "source": "https://makerkids.pike13.com/events/18900438",
+            "price": "CAD 125 por 1 día y menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-31",
+                "topic": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CAD",
+        "amount": 450,
+        "unit": "session",
+        "label": "CAD 450 por 4 días o CAD 125 por día y menor.",
+        "included": "Laboratorio invernal de inventos. Programación, robótica y Minecraft.",
+        "extras": "Cuidado matinal 08:00–09:00. Cuidado vespertino hasta las 17:30 con el bloque o hasta las 17:00 con un día.",
+        "deposit": "Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso."
+      },
+      "accommodation": "Campamento diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Confirmar el curso escolar local. La edad por sí sola no acredita la admisión."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Confirmar el curso escolar local. La edad por sí sola no acredita la admisión."
+        }
+      },
+      "editorial_reason": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar curso escolar, idioma de las actividades y plaza para cada menor."
+      ],
+      "sources": [
+        {
+          "url": "https://makerkids.com/makerkids-mississauga/stem-camps-in-mississauga/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900328",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900408",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900420",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900456",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900438",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900475",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900493",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/courses/335597",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/courses/335599",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.com/cancellations/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "pairing": {
+        "venue_id": "makerkids-mississauga",
+        "verified_source": "https://makerkids.com/makerkids-mississauga/stem-camps-in-mississauga/",
+        "checked": "2026-11-06"
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1799-20261228-20261231-four-days"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-28",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1799-20261228-20261228-one-day-2026-12-28"
+          ]
+        },
+        {
+          "start": "2026-12-29",
+          "end": "2026-12-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1799-20261229-20261229-one-day-2026-12-29"
+          ]
+        },
+        {
+          "start": "2026-12-30",
+          "end": "2026-12-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1799-20261230-20261230-one-day-2026-12-30"
+          ]
+        },
+        {
+          "start": "2026-12-31",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1799-20261231-20261231-one-day-2026-12-31"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1800",
+      "slug": "spark-techies-london-pd-2026-27",
+      "provider": "Spark Techies · PD Day STEM Camp",
+      "country": "Canadá",
+      "iso": "CAN",
+      "place": "Spark Techies · 1742 Hydepark Road · London, Ontario",
+      "age": "De 6–13 años.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.",
+      "confirmed_instruction_languages": [],
+      "programme": "Construcción con LEGO, programación de robots, modelado e impresión 3D.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Actividades 09:00–15:30. Confirmar entrega y recogida para la sesión elegida.",
+        "sessions": [
+          [
+            "2026-11-13",
+            "2026-11-13"
+          ],
+          [
+            "2027-01-15",
+            "2027-01-15"
+          ],
+          [
+            "2027-01-29",
+            "2027-01-29"
+          ],
+          [
+            "2027-02-05",
+            "2027-02-05"
+          ],
+          [
+            "2027-02-12",
+            "2027-02-12"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "2026-11-13",
+            "start": "2026-11-13",
+            "end": "2026-11-13",
+            "label": "Calendario de centros privados",
+            "source": "https://sparktechies.uplifterinc.com/registration/camps/",
+            "price": "CAD 80 + HST 13%, total CAD 90.40 por menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-13",
+                "topic": "Construcción con LEGO, programación de robots, modelado e impresión 3D.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ],
+            "deadline": "2026-11-13",
+            "entry": "El formulario cierra el 13 de noviembre de 2026 a las 00:00. En este formulario, entrega 08:50–09:00 y recogida 15:30–15:45."
+          },
+          {
+            "variant_key": "2027-01-15",
+            "start": "2027-01-15",
+            "end": "2027-01-15",
+            "label": "Calendario de todos los centros",
+            "source": "https://sparktechies.ca/kids-camps/",
+            "price": "CAD 80 + HST 13%, total CAD 90.40 por menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-15",
+                "topic": "Construcción con LEGO, programación de robots, modelado e impresión 3D.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "2027-01-29",
+            "start": "2027-01-29",
+            "end": "2027-01-29",
+            "label": "Calendario de centros privados",
+            "source": "https://sparktechies.ca/kids-camps/",
+            "price": "CAD 80 + HST 13%, total CAD 90.40 por menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-29",
+                "topic": "Construcción con LEGO, programación de robots, modelado e impresión 3D.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "2027-02-05",
+            "start": "2027-02-05",
+            "end": "2027-02-05",
+            "label": "Calendario de centros privados",
+            "source": "https://sparktechies.ca/kids-camps/",
+            "price": "CAD 80 + HST 13%, total CAD 90.40 por menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2027-02-05",
+                "topic": "Construcción con LEGO, programación de robots, modelado e impresión 3D.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "2027-02-12",
+            "start": "2027-02-12",
+            "end": "2027-02-12",
+            "label": "Calendario de centros privados",
+            "source": "https://sparktechies.ca/kids-camps/",
+            "price": "CAD 80 + HST 13%, total CAD 90.40 por menor.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2027-02-12",
+                "topic": "Construcción con LEGO, programación de robots, modelado e impresión 3D.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CAD",
+        "amount": 80,
+        "unit": "day",
+        "label": "CAD 80 + HST 13%, total CAD 90.40 por menor.",
+        "included": "Construcción con LEGO, programación de robots, modelado e impresión 3D.",
+        "extras": "Comida y recogida tardía por separado. Precio sin publicar. Llevar agua, comida y 2 tentempiés sin frutos secos.",
+        "deposit": "Confirmar el importe final y las condiciones de reembolso antes de pagar."
+      },
+      "accommodation": "Campamento diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Edad adecuada. Confirmar plaza e idioma de la actividad."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Edad adecuada. Confirmar plaza e idioma de la actividad."
+        }
+      },
+      "editorial_reason": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar curso escolar, idioma de las actividades y plaza para cada menor."
+      ],
+      "sources": [
+        {
+          "url": "https://sparktechies.ca/kids-camps/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://sparktechies.ca/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://sparktechies.uplifterinc.com/registration/camps/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate.html",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-13",
+          "end": "2026-11-13",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1800-20261113-20261113-2026-11-13"
+          ]
+        },
+        {
+          "start": "2027-01-15",
+          "end": "2027-01-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1800-20270115-20270115-2027-01-15"
+          ]
+        },
+        {
+          "start": "2027-01-29",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1800-20270129-20270129-2027-01-29"
+          ]
+        },
+        {
+          "start": "2027-02-05",
+          "end": "2027-02-05",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1800-20270205-20270205-2027-02-05"
+          ]
+        },
+        {
+          "start": "2027-02-12",
+          "end": "2027-02-12",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1800-20270212-20270212-2027-02-12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1801",
+      "slug": "spark-techies-london-march-2027",
+      "provider": "Spark Techies · March Break STEM Camp",
+      "country": "Canadá",
+      "iso": "CAN",
+      "place": "Spark Techies · 1742 Hydepark Road · London, Ontario",
+      "age": "De 6–13 años.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.",
+      "confirmed_instruction_languages": [],
+      "programme": "Construcción con LEGO, programación de robots, modelado e impresión 3D.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Actividades 09:00–15:30. Confirmar entrega y recogida para la sesión elegida.",
+        "sessions": [
+          [
+            "2027-03-08",
+            "2027-03-12"
+          ],
+          [
+            "2027-03-15",
+            "2027-03-19"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "march-8",
+            "start": "2027-03-08",
+            "end": "2027-03-12",
+            "label": "Calendario de centros privados",
+            "source": "https://sparktechies.uplifterinc.com/registration/camps/",
+            "price": "CAD 380 + HST 13%, total CAD 429.40 por menor. La web indica tarifa anticipada de CAD 350 + HST. Su plazo no figura.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2027-03-08",
+                "topic": "Construcción con LEGO, programación de robots, modelado e impresión 3D.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-09",
+                "topic": "Construcción con LEGO, programación de robots, modelado e impresión 3D.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-10",
+                "topic": "Construcción con LEGO, programación de robots, modelado e impresión 3D.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-11",
+                "topic": "Construcción con LEGO, programación de robots, modelado e impresión 3D.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-12",
+                "topic": "Construcción con LEGO, programación de robots, modelado e impresión 3D.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ],
+            "deadline": "2027-03-07",
+            "entry": "El formulario indica cierre el 7 de marzo de 2027 a las 00:00. Confirmar plaza y condiciones de admisión."
+          },
+          {
+            "variant_key": "march-15",
+            "start": "2027-03-15",
+            "end": "2027-03-19",
+            "label": "Calendario de todos los centros",
+            "source": "https://sparktechies.uplifterinc.com/registration/camps/",
+            "price": "CAD 380 + HST 13%, total CAD 429.40 por menor. La web indica tarifa anticipada de CAD 350 + HST. Su plazo no figura.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2027-03-15",
+                "topic": "Construcción con LEGO, programación de robots, modelado e impresión 3D.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-16",
+                "topic": "Construcción con LEGO, programación de robots, modelado e impresión 3D.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-17",
+                "topic": "Construcción con LEGO, programación de robots, modelado e impresión 3D.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-18",
+                "topic": "Construcción con LEGO, programación de robots, modelado e impresión 3D.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-19",
+                "topic": "Construcción con LEGO, programación de robots, modelado e impresión 3D.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ],
+            "deadline": "2027-03-08",
+            "entry": "El formulario indica cierre el 8 de marzo de 2027 a las 00:00. Confirmar plaza y condiciones de admisión."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "CAD",
+        "amount": 380,
+        "unit": "session",
+        "label": "CAD 380 + HST 13%, total CAD 429.40 por menor. La web indica tarifa anticipada de CAD 350 + HST. Su plazo no figura.",
+        "included": "Construcción con LEGO, programación de robots, modelado e impresión 3D.",
+        "extras": "Comida y recogida tardía por separado. Precio sin publicar. Llevar agua, comida y 2 tentempiés sin frutos secos.",
+        "deposit": "Confirmar el importe final y las condiciones de reembolso antes de pagar."
+      },
+      "accommodation": "Campamento diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Edad adecuada. Confirmar plaza e idioma de la actividad."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Edad adecuada. Confirmar plaza e idioma de la actividad."
+        }
+      },
+      "editorial_reason": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar curso escolar, idioma de las actividades y plaza para cada menor."
+      ],
+      "sources": [
+        {
+          "url": "https://sparktechies.ca/kids-camps/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://sparktechies.ca/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://sparktechies.uplifterinc.com/registration/camps/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate.html",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-03-08",
+          "end": "2027-03-12",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1801-20270308-20270312-march-8"
+          ]
+        },
+        {
+          "start": "2027-03-15",
+          "end": "2027-03-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1801-20270315-20270319-march-15"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1802",
+      "slug": "spark-techies-london-march-2027-watch",
+      "provider": "Spark Techies · March Break · Private Schools",
+      "country": "Canadá",
+      "iso": "CAN",
+      "place": "Spark Techies · 1742 Hydepark Road · London, Ontario",
+      "age": "De 6–13 años.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.",
+      "confirmed_instruction_languages": [],
+      "programme": "Construcción con LEGO, programación de robots, modelado e impresión 3D.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "El formulario indica ventana del 22–26 de marzo de 2027 y 4 clases, la web indicaba del 22–25 de marzo. Confirmar días exactos. El formulario indica cierre el 15 de marzo a las 00:00.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "CAD",
+        "amount": 300,
+        "unit": "session",
+        "label": "CAD 300 + HST 13%, total CAD 339 por menor a la tarifa publicada.",
+        "included": "Construcción con LEGO, programación de robots, modelado e impresión 3D.",
+        "extras": "Comida y recogida tardía por separado. Precio sin publicar. Llevar agua, comida y 2 tentempiés sin frutos secos.",
+        "deposit": "Confirmar el importe final y las condiciones de reembolso antes de pagar."
+      },
+      "accommodation": "Campamento diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Edad adecuada. Confirmar plaza e idioma de la actividad."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Edad adecuada. Confirmar plaza e idioma de la actividad."
+        }
+      },
+      "editorial_reason": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar curso escolar, idioma de las actividades y plaza para cada menor."
+      ],
+      "sources": [
+        {
+          "url": "https://sparktechies.ca/kids-camps/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://sparktechies.ca/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://sparktechies.uplifterinc.com/registration/camps/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate.html",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1803",
+      "slug": "visst-maker-march-2027",
+      "provider": "VISST · Maker Lab · Digital Design and Fabrication",
+      "country": "Canadá",
+      "iso": "CAN",
+      "place": "VISST · 1490 West Broadway · Vancouver",
+      "age": "Grados escolares 5–9.",
+      "themes": [
+        "engineering",
+        "makers",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.",
+      "confirmed_instruction_languages": [],
+      "programme": "Diseño digital, corte láser y Cricut. Portátil con Inkscape, Cricut Design Space y xTool Studio.",
+      "timing": {
+        "status": "published_2027",
+        "label": "22–26 de marzo de 2027. Se pueden combinar los dos itinerarios el mismo día.",
+        "sessions": [
+          [
+            "2027-03-22",
+            "2027-03-26"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "spring",
+            "start": "2027-03-22",
+            "end": "2027-03-26",
+            "label": "09:00–12:00",
+            "source": "https://www.visst.ca/camps/makerlab-spring",
+            "price": "CAD 300 por un itinerario o CAD 570 por los dos itinerarios por participante.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2027-03-22",
+                "topic": "Diseño digital, corte láser y Cricut. Portátil con Inkscape, Cricut Design Space y xTool Studio.",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-23",
+                "topic": "Diseño digital, corte láser y Cricut. Portátil con Inkscape, Cricut Design Space y xTool Studio.",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-24",
+                "topic": "Diseño digital, corte láser y Cricut. Portátil con Inkscape, Cricut Design Space y xTool Studio.",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-25",
+                "topic": "Diseño digital, corte láser y Cricut. Portátil con Inkscape, Cricut Design Space y xTool Studio.",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-26",
+                "topic": "Diseño digital, corte láser y Cricut. Portátil con Inkscape, Cricut Design Space y xTool Studio.",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "CAD",
+        "amount": 300,
+        "unit": "session",
+        "label": "CAD 300 por un itinerario o CAD 570 por los dos itinerarios por participante.",
+        "included": "Diseño digital, corte láser y Cricut. Portátil con Inkscape, Cricut Design Space y xTool Studio.",
+        "extras": "Si se eligen ambos itinerarios, el organizador supervisa a los participantes durante el descanso para comer. Se necesita portátil propio.",
+        "deposit": "Confirmar el importe final y las condiciones de reembolso antes de pagar."
+      },
+      "accommodation": "Campamento diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Confirmar el curso escolar local. La edad por sí sola no acredita la admisión."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Confirmar el curso escolar local. La edad por sí sola no acredita la admisión."
+        }
+      },
+      "editorial_reason": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar curso escolar, idioma de las actividades y plaza para cada menor."
+      ],
+      "sources": [
+        {
+          "url": "https://www.visst.ca/camps/makerlab-spring",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.visst.ca/camps/arcade",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-03-22",
+          "end": "2027-03-26",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1803-20270322-20270326-spring"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1804",
+      "slug": "visst-arcade-march-2027",
+      "provider": "VISST · Arcade Action Coding",
+      "country": "Canadá",
+      "iso": "CAN",
+      "place": "VISST · 1490 West Broadway · Vancouver",
+      "age": "Cursos escolares 5–8.",
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.",
+      "confirmed_instruction_languages": [],
+      "programme": "Desarrollo de videojuegos arcade. Portátil con Godot e Inkscape.",
+      "timing": {
+        "status": "published_2027",
+        "label": "22–26 de marzo de 2027. Se pueden combinar los dos itinerarios el mismo día.",
+        "sessions": [
+          [
+            "2027-03-22",
+            "2027-03-26"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "spring",
+            "start": "2027-03-22",
+            "end": "2027-03-26",
+            "label": "13:00–16:00",
+            "source": "https://www.visst.ca/camps/arcade",
+            "price": "CAD 300 por un itinerario o CAD 570 por los dos itinerarios por participante.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2027-03-22",
+                "topic": "Desarrollo de videojuegos arcade. Portátil con Godot e Inkscape.",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-23",
+                "topic": "Desarrollo de videojuegos arcade. Portátil con Godot e Inkscape.",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-24",
+                "topic": "Desarrollo de videojuegos arcade. Portátil con Godot e Inkscape.",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-25",
+                "topic": "Desarrollo de videojuegos arcade. Portátil con Godot e Inkscape.",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-26",
+                "topic": "Desarrollo de videojuegos arcade. Portátil con Godot e Inkscape.",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "CAD",
+        "amount": 300,
+        "unit": "session",
+        "label": "CAD 300 por un itinerario o CAD 570 por los dos itinerarios por participante.",
+        "included": "Desarrollo de videojuegos arcade. Portátil con Godot e Inkscape.",
+        "extras": "Si se eligen ambos itinerarios, el organizador supervisa a los participantes durante el descanso para comer. Se necesita portátil propio.",
+        "deposit": "Confirmar el importe final y las condiciones de reembolso antes de pagar."
+      },
+      "accommodation": "Campamento diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Confirmar el curso escolar local. La edad por sí sola no acredita la admisión."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Confirmar el curso escolar local. La edad por sí sola no acredita la admisión."
+        }
+      },
+      "editorial_reason": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar curso escolar, idioma de las actividades y plaza para cada menor."
+      ],
+      "sources": [
+        {
+          "url": "https://www.visst.ca/camps/arcade",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.visst.ca/camps/makerlab-spring",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-03-22",
+          "end": "2027-03-26",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1804-20270322-20270326-spring"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1805",
+      "slug": "visst-creative-technology-girls-watch",
+      "provider": "VISST · Creative Technology and Design for Girls",
+      "country": "Canadá",
+      "iso": "CAN",
+      "place": "VISST · 1490 West Broadway · Vancouver",
+      "age": "Chicas y estudiantes no binarios de 6 o 7 curso de Metro Vancouver. Solicitud y selección.",
+      "themes": [
+        "engineering",
+        "games",
+        "coding",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.",
+      "confirmed_instruction_languages": [],
+      "programme": "Diseño y fabricación digital, corte láser y videojuegos con Godot.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "La cabecera indica 15–19 de marzo de 2027 y el texto 15–19 de marzo de 2026. El formulario indica plazo hasta el 15 de enero de 2027. Confirmar fechas.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "CAD",
+        "amount": 25,
+        "unit": "session",
+        "label": "CAD 25 tras la selección.",
+        "included": "Diseño y fabricación digital, corte láser y videojuegos con Godot.",
+        "extras": "Se necesita portátil propio con teclado y ratón.",
+        "deposit": "Confirmar el importe final y las condiciones de reembolso antes de pagar."
+      },
+      "accommodation": "Campamento diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "No consta categoría abierta para ambos niños."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "No consta categoría abierta para ambos niños."
+        }
+      },
+      "editorial_reason": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar curso escolar, idioma de las actividades y plaza para cada menor."
+      ],
+      "sources": [
+        {
+          "url": "https://www.visst.ca/camps/creative-tech-for-girls",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1806",
+      "slug": "yres-nova-spark-jr-markham",
+      "provider": "York Region Educational Services · Nova Spark Jr. #36415",
+      "country": "Canadá",
+      "iso": "CAN",
+      "place": "3100 Steeles Ave E · Markham",
+      "age": "De 6–9 años.",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.",
+      "confirmed_instruction_languages": [],
+      "programme": "LEGO, Scratch, trabajo en equipo y presentación de proyecto en el festival Explore.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "La inscripción del equipo actual cerró. El equipo se prepara para FIRST LEGO League Explore. Festival previsto para abril o mayo sin fecha ni sede exactas.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CAD",
+        "amount": 300,
+        "unit": "course",
+        "label": "CAD 300 por el curso anunciado de 16 clases. La FAQ enumera 15 fechas de clase y el festival aparte.",
+        "included": "LEGO, Scratch, trabajo en equipo y presentación de proyecto en el festival Explore.",
+        "extras": "El centro proporciona los materiales.",
+        "deposit": "Confirmar el importe final y las condiciones de reembolso antes de pagar."
+      },
+      "accommodation": "Taller presencial breve sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Edad adecuada. Confirmar plaza e idioma de la actividad."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Edad adecuada. Confirmar plaza e idioma de la actividad."
+        }
+      },
+      "editorial_reason": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar edad exacta de acceso y plaza con el recinto."
+      ],
+      "sources": [
+        {
+          "url": "https://www.yorkeducation.org/programs/team-nova-spark",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "course",
+      "catalog_participation": "course",
+      "related_event_ids": [],
+      "calendar_links": []
     }
   ],
   "gaps": [
@@ -306214,7 +311075,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 231,
+  "version": 232,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -319449,7 +324310,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1787,
+      "total_dossiers": 1806,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -339149,6 +344010,351 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP1788",
+      "event_id": "CP1788-20261221-20261224-four-days",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1788",
+      "event_id": "CP1788-20261221-20261221-one-day-2026-12-21",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1788",
+      "event_id": "CP1788-20261222-20261222-one-day-2026-12-22",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1788",
+      "event_id": "CP1788-20261223-20261223-one-day-2026-12-23",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1788",
+      "event_id": "CP1788-20261224-20261224-one-day-2026-12-24",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1789",
+      "event_id": "CP1789-20261221-20261224-four-days",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1789",
+      "event_id": "CP1789-20261221-20261221-one-day-2026-12-21",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1789",
+      "event_id": "CP1789-20261222-20261222-one-day-2026-12-22",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1789",
+      "event_id": "CP1789-20261223-20261223-one-day-2026-12-23",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1789",
+      "event_id": "CP1789-20261224-20261224-one-day-2026-12-24",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1790",
+      "event_id": "CP1790-20261228-20261231-four-days",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1790",
+      "event_id": "CP1790-20261228-20261228-one-day-2026-12-28",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1790",
+      "event_id": "CP1790-20261229-20261229-one-day-2026-12-29",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1790",
+      "event_id": "CP1790-20261230-20261230-one-day-2026-12-30",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1790",
+      "event_id": "CP1790-20261231-20261231-one-day-2026-12-31",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1791",
+      "event_id": "CP1791-20261228-20261231-four-days",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1791",
+      "event_id": "CP1791-20261228-20261228-one-day-2026-12-28",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1791",
+      "event_id": "CP1791-20261229-20261229-one-day-2026-12-29",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1791",
+      "event_id": "CP1791-20261230-20261230-one-day-2026-12-30",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1791",
+      "event_id": "CP1791-20261231-20261231-one-day-2026-12-31",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1792",
+      "event_id": "CP1792-20261221-20261224-four-days",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1792",
+      "event_id": "CP1792-20261221-20261221-one-day-2026-12-21",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1792",
+      "event_id": "CP1792-20261222-20261222-one-day-2026-12-22",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1792",
+      "event_id": "CP1792-20261223-20261223-one-day-2026-12-23",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1792",
+      "event_id": "CP1792-20261224-20261224-one-day-2026-12-24",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1793",
+      "event_id": "CP1793-20261221-20261224-four-days",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1793",
+      "event_id": "CP1793-20261221-20261221-one-day-2026-12-21",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1793",
+      "event_id": "CP1793-20261222-20261222-one-day-2026-12-22",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1793",
+      "event_id": "CP1793-20261223-20261223-one-day-2026-12-23",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1793",
+      "event_id": "CP1793-20261224-20261224-one-day-2026-12-24",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1794",
+      "event_id": "CP1794-20261228-20261231-four-days",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1794",
+      "event_id": "CP1794-20261228-20261228-one-day-2026-12-28",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1794",
+      "event_id": "CP1794-20261229-20261229-one-day-2026-12-29",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1794",
+      "event_id": "CP1794-20261230-20261230-one-day-2026-12-30",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1794",
+      "event_id": "CP1794-20261231-20261231-one-day-2026-12-31",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1795",
+      "event_id": "CP1795-20261228-20261231-four-days",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1795",
+      "event_id": "CP1795-20261228-20261228-one-day-2026-12-28",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1795",
+      "event_id": "CP1795-20261229-20261229-one-day-2026-12-29",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1795",
+      "event_id": "CP1795-20261230-20261230-one-day-2026-12-30",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1795",
+      "event_id": "CP1795-20261231-20261231-one-day-2026-12-31",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1796",
+      "event_id": "CP1796-20261221-20261224-four-days",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1796",
+      "event_id": "CP1796-20261221-20261221-one-day-2026-12-21",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1796",
+      "event_id": "CP1796-20261222-20261222-one-day-2026-12-22",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1796",
+      "event_id": "CP1796-20261223-20261223-one-day-2026-12-23",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1796",
+      "event_id": "CP1796-20261224-20261224-one-day-2026-12-24",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1797",
+      "event_id": "CP1797-20261221-20261224-four-days",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1797",
+      "event_id": "CP1797-20261221-20261221-one-day-2026-12-21",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1797",
+      "event_id": "CP1797-20261222-20261222-one-day-2026-12-22",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1797",
+      "event_id": "CP1797-20261223-20261223-one-day-2026-12-23",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1797",
+      "event_id": "CP1797-20261224-20261224-one-day-2026-12-24",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1798",
+      "event_id": "CP1798-20261228-20261231-four-days",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1798",
+      "event_id": "CP1798-20261228-20261228-one-day-2026-12-28",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1798",
+      "event_id": "CP1798-20261229-20261229-one-day-2026-12-29",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1798",
+      "event_id": "CP1798-20261230-20261230-one-day-2026-12-30",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1798",
+      "event_id": "CP1798-20261231-20261231-one-day-2026-12-31",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1799",
+      "event_id": "CP1799-20261228-20261231-four-days",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1799",
+      "event_id": "CP1799-20261228-20261228-one-day-2026-12-28",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1799",
+      "event_id": "CP1799-20261229-20261229-one-day-2026-12-29",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1799",
+      "event_id": "CP1799-20261230-20261230-one-day-2026-12-30",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1799",
+      "event_id": "CP1799-20261231-20261231-one-day-2026-12-31",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1800",
+      "event_id": "CP1800-20261113-20261113-2026-11-13",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1800",
+      "event_id": "CP1800-20270115-20270115-2027-01-15",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1800",
+      "event_id": "CP1800-20270129-20270129-2027-01-29",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1800",
+      "event_id": "CP1800-20270205-20270205-2027-02-05",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1800",
+      "event_id": "CP1800-20270212-20270212-2027-02-12",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1801",
+      "event_id": "CP1801-20270308-20270312-march-8",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1801",
+      "event_id": "CP1801-20270315-20270319-march-15",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1803",
+      "event_id": "CP1803-20270322-20270326-spring",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1804",
+      "event_id": "CP1804-20270322-20270326-spring",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -343333,10 +348539,79 @@
     "CP1783-20261205-20261205",
     "CP1783-20261206-20261206",
     "CP1783-20261212-20261212",
-    "CP1783-20261213-20261213"
+    "CP1783-20261213-20261213",
+    "CP1788-20261221-20261224-four-days",
+    "CP1788-20261221-20261221-one-day-2026-12-21",
+    "CP1788-20261222-20261222-one-day-2026-12-22",
+    "CP1788-20261223-20261223-one-day-2026-12-23",
+    "CP1788-20261224-20261224-one-day-2026-12-24",
+    "CP1789-20261221-20261224-four-days",
+    "CP1789-20261221-20261221-one-day-2026-12-21",
+    "CP1789-20261222-20261222-one-day-2026-12-22",
+    "CP1789-20261223-20261223-one-day-2026-12-23",
+    "CP1789-20261224-20261224-one-day-2026-12-24",
+    "CP1790-20261228-20261231-four-days",
+    "CP1790-20261228-20261228-one-day-2026-12-28",
+    "CP1790-20261229-20261229-one-day-2026-12-29",
+    "CP1790-20261230-20261230-one-day-2026-12-30",
+    "CP1790-20261231-20261231-one-day-2026-12-31",
+    "CP1791-20261228-20261231-four-days",
+    "CP1791-20261228-20261228-one-day-2026-12-28",
+    "CP1791-20261229-20261229-one-day-2026-12-29",
+    "CP1791-20261230-20261230-one-day-2026-12-30",
+    "CP1791-20261231-20261231-one-day-2026-12-31",
+    "CP1792-20261221-20261224-four-days",
+    "CP1792-20261221-20261221-one-day-2026-12-21",
+    "CP1792-20261222-20261222-one-day-2026-12-22",
+    "CP1792-20261223-20261223-one-day-2026-12-23",
+    "CP1792-20261224-20261224-one-day-2026-12-24",
+    "CP1793-20261221-20261224-four-days",
+    "CP1793-20261221-20261221-one-day-2026-12-21",
+    "CP1793-20261222-20261222-one-day-2026-12-22",
+    "CP1793-20261223-20261223-one-day-2026-12-23",
+    "CP1793-20261224-20261224-one-day-2026-12-24",
+    "CP1794-20261228-20261231-four-days",
+    "CP1794-20261228-20261228-one-day-2026-12-28",
+    "CP1794-20261229-20261229-one-day-2026-12-29",
+    "CP1794-20261230-20261230-one-day-2026-12-30",
+    "CP1794-20261231-20261231-one-day-2026-12-31",
+    "CP1795-20261228-20261231-four-days",
+    "CP1795-20261228-20261228-one-day-2026-12-28",
+    "CP1795-20261229-20261229-one-day-2026-12-29",
+    "CP1795-20261230-20261230-one-day-2026-12-30",
+    "CP1795-20261231-20261231-one-day-2026-12-31",
+    "CP1796-20261221-20261224-four-days",
+    "CP1796-20261221-20261221-one-day-2026-12-21",
+    "CP1796-20261222-20261222-one-day-2026-12-22",
+    "CP1796-20261223-20261223-one-day-2026-12-23",
+    "CP1796-20261224-20261224-one-day-2026-12-24",
+    "CP1797-20261221-20261224-four-days",
+    "CP1797-20261221-20261221-one-day-2026-12-21",
+    "CP1797-20261222-20261222-one-day-2026-12-22",
+    "CP1797-20261223-20261223-one-day-2026-12-23",
+    "CP1797-20261224-20261224-one-day-2026-12-24",
+    "CP1798-20261228-20261231-four-days",
+    "CP1798-20261228-20261228-one-day-2026-12-28",
+    "CP1798-20261229-20261229-one-day-2026-12-29",
+    "CP1798-20261230-20261230-one-day-2026-12-30",
+    "CP1798-20261231-20261231-one-day-2026-12-31",
+    "CP1799-20261228-20261231-four-days",
+    "CP1799-20261228-20261228-one-day-2026-12-28",
+    "CP1799-20261229-20261229-one-day-2026-12-29",
+    "CP1799-20261230-20261230-one-day-2026-12-30",
+    "CP1799-20261231-20261231-one-day-2026-12-31",
+    "CP1800-20261113-20261113-2026-11-13",
+    "CP1800-20270115-20270115-2027-01-15",
+    "CP1800-20270129-20270129-2027-01-29",
+    "CP1800-20270205-20270205-2027-02-05",
+    "CP1800-20270212-20270212-2027-02-12",
+    "CP1801-20270308-20270312-march-8",
+    "CP1801-20270315-20270319-march-15",
+    "CP1803-20270322-20270326-spring",
+    "CP1804-20270322-20270326-spring"
   ],
   "integration": {
-    "generated_sessions": 3754,
+    "generated_sessions": 3823,
     "reused_legacy_events": 69,
     "seasonal_windows": 70,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

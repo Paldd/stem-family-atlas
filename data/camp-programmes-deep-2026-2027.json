@@ -30,15 +30,15 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1787,
+    "dossiers": 1806,
     "countries": 104,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 261,
-      "published_2027": 498,
+      "published_2027": 501,
       "partial_2027": 140,
-      "next_unannounced": 358,
-      "published_2026": 315,
+      "next_unannounced": 361,
+      "published_2026": 328,
       "partial_2026_27": 29,
       "partial_2026": 23,
       "archive_next_unannounced": 138,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2541
+    "source_urls": 2631
   },
   "countries": [
     {
@@ -205,7 +205,7 @@
     },
     {
       "country": "Канада",
-      "count": 167
+      "count": 186
     },
     {
       "country": "Катар",
@@ -263093,6 +263093,4242 @@
       "checked": "2026-11-07",
       "programme_type": "course",
       "catalog_participation": "course"
+    },
+    {
+      "id": "CP1788",
+      "slug": "makerkids-bloor-winter-2026-w1-g1-2",
+      "provider": "MakerKids Bloor West · Minecraft Frozen Kingdom · Mini Makers",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "MakerKids Bloor West · 2451 Bloor Street West · Toronto",
+      "age": "Школьные классы 1-2.",
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык инструктажа конкретной смены не указан. Уточнить английский и испанский.",
+      "confirmed_instruction_languages": [],
+      "programme": "Minecraft. Первые постройки, творчество и решение задач в зимнем мире.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Две группы идут параллельно на одной площадке с 09:00 до 15:30. Можно выбрать весь блок или один день.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-21"
+          ],
+          [
+            "2026-12-22",
+            "2026-12-22"
+          ],
+          [
+            "2026-12-23",
+            "2026-12-23"
+          ],
+          [
+            "2026-12-24",
+            "2026-12-24"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "four-days",
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "4 дня",
+            "source": "https://makerkids.pike13.com/events/18901013",
+            "price": "CAD 450 за 4 дня на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Minecraft. Первые постройки, творчество и решение задач в зимнем мире.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "topic": "Minecraft. Первые постройки, творчество и решение задач в зимнем мире.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "topic": "Minecraft. Первые постройки, творчество и решение задач в зимнем мире.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "topic": "Minecraft. Первые постройки, творчество и решение задач в зимнем мире.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-21",
+            "start": "2026-12-21",
+            "end": "2026-12-21",
+            "label": "1 день",
+            "source": "https://makerkids.pike13.com/events/18904114",
+            "price": "CAD 125 за 1 день на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Minecraft. Первые постройки, творчество и решение задач в зимнем мире.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-22",
+            "start": "2026-12-22",
+            "end": "2026-12-22",
+            "label": "1 день",
+            "source": "https://makerkids.pike13.com/events/18904115",
+            "price": "CAD 125 за 1 день на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-22",
+                "topic": "Minecraft. Первые постройки, творчество и решение задач в зимнем мире.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-23",
+            "start": "2026-12-23",
+            "end": "2026-12-23",
+            "label": "1 день",
+            "source": "https://makerkids.pike13.com/events/18904117",
+            "price": "CAD 125 за 1 день на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-23",
+                "topic": "Minecraft. Первые постройки, творчество и решение задач в зимнем мире.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-24",
+            "start": "2026-12-24",
+            "end": "2026-12-24",
+            "label": "1 день",
+            "source": "https://makerkids.pike13.com/events/18904118",
+            "price": "CAD 125 за 1 день на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-24",
+                "topic": "Minecraft. Первые постройки, творчество и решение задач в зимнем мире.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CAD",
+        "amount": 450,
+        "unit": "session",
+        "label": "CAD 450 за 4 дня или CAD 125 за день на ребёнка.",
+        "included": "Minecraft. Первые постройки, творчество и решение задач в зимнем мире.",
+        "extras": "Утренний присмотр 08:00–09:00 и вечерний 15:30–17:00 бронируются отдельно.",
+        "deposit": "Для обычного возврата нужна отмена за 2 недели. Позже возврат зависит от заполнения места. За 72 часа или при пропуске возврата нет."
+      },
+      "accommodation": "Дневной лагерь без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Сверить местный школьный класс. Возраст сам по себе не подтверждает допуск."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Сверить местный школьный класс. Возраст сам по себе не подтверждает допуск."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить школьный класс, язык занятий и место для каждого ребёнка."
+      ],
+      "sources": [
+        {
+          "url": "https://makerkids.com/camps-in-bloor-west/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901013",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18904114",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18904115",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18904117",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18904118",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901025",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901033",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/courses/313076",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/courses/313078",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.com/cancellations/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "pairing": {
+        "venue_id": "makerkids-bloor",
+        "verified_source": "https://makerkids.com/camps-in-bloor-west/",
+        "checked": "2026-11-07"
+      }
+    },
+    {
+      "id": "CP1789",
+      "slug": "makerkids-bloor-winter-2026-w1-g3-8",
+      "provider": "MakerKids Bloor West · Minecraft Frozen Kingdom · Idea Incubators",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "MakerKids Bloor West · 2451 Bloor Street West · Toronto",
+      "age": "Школьные классы 3-8.",
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык инструктажа конкретной смены не указан. Уточнить английский и испанский.",
+      "confirmed_instruction_languages": [],
+      "programme": "Minecraft. Постройки, Redstone и модификации в зимнем мире.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Две группы идут параллельно на одной площадке с 09:00 до 15:30. Можно выбрать весь блок или один день.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-21"
+          ],
+          [
+            "2026-12-22",
+            "2026-12-22"
+          ],
+          [
+            "2026-12-23",
+            "2026-12-23"
+          ],
+          [
+            "2026-12-24",
+            "2026-12-24"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "four-days",
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "4 дня",
+            "source": "https://makerkids.pike13.com/events/18900990",
+            "price": "CAD 450 за 4 дня на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Minecraft. Постройки, Redstone и модификации в зимнем мире.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "topic": "Minecraft. Постройки, Redstone и модификации в зимнем мире.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "topic": "Minecraft. Постройки, Redstone и модификации в зимнем мире.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "topic": "Minecraft. Постройки, Redstone и модификации в зимнем мире.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-21",
+            "start": "2026-12-21",
+            "end": "2026-12-21",
+            "label": "1 день",
+            "source": "https://makerkids.pike13.com/events/18901121",
+            "price": "CAD 125 за 1 день на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Minecraft. Постройки, Redstone и модификации в зимнем мире.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-22",
+            "start": "2026-12-22",
+            "end": "2026-12-22",
+            "label": "1 день",
+            "source": "https://makerkids.pike13.com/events/18901131",
+            "price": "CAD 125 за 1 день на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-22",
+                "topic": "Minecraft. Постройки, Redstone и модификации в зимнем мире.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-23",
+            "start": "2026-12-23",
+            "end": "2026-12-23",
+            "label": "1 день",
+            "source": "https://makerkids.pike13.com/events/18904103",
+            "price": "CAD 125 за 1 день на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-23",
+                "topic": "Minecraft. Постройки, Redstone и модификации в зимнем мире.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-24",
+            "start": "2026-12-24",
+            "end": "2026-12-24",
+            "label": "1 день",
+            "source": "https://makerkids.pike13.com/events/18904105",
+            "price": "CAD 125 за 1 день на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-24",
+                "topic": "Minecraft. Постройки, Redstone и модификации в зимнем мире.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CAD",
+        "amount": 450,
+        "unit": "session",
+        "label": "CAD 450 за 4 дня или CAD 125 за день на ребёнка.",
+        "included": "Minecraft. Постройки, Redstone и модификации в зимнем мире.",
+        "extras": "Утренний присмотр 08:00–09:00 и вечерний 15:30–17:00 бронируются отдельно.",
+        "deposit": "Для обычного возврата нужна отмена за 2 недели. Позже возврат зависит от заполнения места. За 72 часа или при пропуске возврата нет."
+      },
+      "accommodation": "Дневной лагерь без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Сверить местный школьный класс. Возраст сам по себе не подтверждает допуск."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Сверить местный школьный класс. Возраст сам по себе не подтверждает допуск."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить школьный класс, язык занятий и место для каждого ребёнка."
+      ],
+      "sources": [
+        {
+          "url": "https://makerkids.com/camps-in-bloor-west/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900990",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901121",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901131",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18904103",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18904105",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901025",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901033",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/courses/313076",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/courses/313078",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.com/cancellations/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "pairing": {
+        "venue_id": "makerkids-bloor",
+        "verified_source": "https://makerkids.com/camps-in-bloor-west/",
+        "checked": "2026-11-07"
+      }
+    },
+    {
+      "id": "CP1790",
+      "slug": "makerkids-bloor-winter-2026-w2-g1-2",
+      "provider": "MakerKids Bloor West · North Pole Inventors Lab · Mini Makers",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "MakerKids Bloor West · 2451 Bloor Street West · Toronto",
+      "age": "Школьные классы 1-2.",
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык инструктажа конкретной смены не указан. Уточнить английский и испанский.",
+      "confirmed_instruction_languages": [],
+      "programme": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Две группы идут параллельно на одной площадке с 09:00 до 15:30. Можно выбрать весь блок или один день.",
+        "sessions": [
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-28"
+          ],
+          [
+            "2026-12-29",
+            "2026-12-29"
+          ],
+          [
+            "2026-12-30",
+            "2026-12-30"
+          ],
+          [
+            "2026-12-31",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "four-days",
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "4 дня",
+            "source": "https://makerkids.pike13.com/events/18901019",
+            "price": "CAD 450 за 4 дня на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "topic": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "topic": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-30",
+                "topic": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-31",
+                "topic": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-28",
+            "start": "2026-12-28",
+            "end": "2026-12-28",
+            "label": "1 день",
+            "source": "https://makerkids.pike13.com/events/18904120",
+            "price": "CAD 125 за 1 день на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "topic": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-29",
+            "start": "2026-12-29",
+            "end": "2026-12-29",
+            "label": "1 день",
+            "source": "https://makerkids.pike13.com/events/18904122",
+            "price": "CAD 125 за 1 день на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-29",
+                "topic": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-30",
+            "start": "2026-12-30",
+            "end": "2026-12-30",
+            "label": "1 день",
+            "source": "https://makerkids.pike13.com/events/18904124",
+            "price": "CAD 125 за 1 день на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-30",
+                "topic": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-31",
+            "start": "2026-12-31",
+            "end": "2026-12-31",
+            "label": "1 день",
+            "source": "https://makerkids.pike13.com/events/18904125",
+            "price": "CAD 125 за 1 день на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-31",
+                "topic": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CAD",
+        "amount": 450,
+        "unit": "session",
+        "label": "CAD 450 за 4 дня или CAD 125 за день на ребёнка.",
+        "included": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+        "extras": "Утренний присмотр 08:00–09:00 и вечерний 15:30–17:00 бронируются отдельно.",
+        "deposit": "Для обычного возврата нужна отмена за 2 недели. Позже возврат зависит от заполнения места. За 72 часа или при пропуске возврата нет."
+      },
+      "accommodation": "Дневной лагерь без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Сверить местный школьный класс. Возраст сам по себе не подтверждает допуск."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Сверить местный школьный класс. Возраст сам по себе не подтверждает допуск."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить школьный класс, язык занятий и место для каждого ребёнка."
+      ],
+      "sources": [
+        {
+          "url": "https://makerkids.com/camps-in-bloor-west/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901019",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18904120",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18904122",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18904124",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18904125",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901040",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901039",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/courses/313076",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/courses/313078",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.com/cancellations/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "pairing": {
+        "venue_id": "makerkids-bloor",
+        "verified_source": "https://makerkids.com/camps-in-bloor-west/",
+        "checked": "2026-11-07"
+      }
+    },
+    {
+      "id": "CP1791",
+      "slug": "makerkids-bloor-winter-2026-w2-g3-8",
+      "provider": "MakerKids Bloor West · North Pole Inventors Lab · Idea Incubators",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "MakerKids Bloor West · 2451 Bloor Street West · Toronto",
+      "age": "Школьные классы 3-8.",
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык инструктажа конкретной смены не указан. Уточнить английский и испанский.",
+      "confirmed_instruction_languages": [],
+      "programme": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Две группы идут параллельно на одной площадке с 09:00 до 15:30. Можно выбрать весь блок или один день.",
+        "sessions": [
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-28"
+          ],
+          [
+            "2026-12-29",
+            "2026-12-29"
+          ],
+          [
+            "2026-12-30",
+            "2026-12-30"
+          ],
+          [
+            "2026-12-31",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "four-days",
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "4 дня",
+            "source": "https://makerkids.pike13.com/events/18901005",
+            "price": "CAD 450 за 4 дня на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "topic": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "topic": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-30",
+                "topic": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-31",
+                "topic": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-28",
+            "start": "2026-12-28",
+            "end": "2026-12-28",
+            "label": "1 день",
+            "source": "https://makerkids.pike13.com/events/18904107",
+            "price": "CAD 125 за 1 день на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "topic": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-29",
+            "start": "2026-12-29",
+            "end": "2026-12-29",
+            "label": "1 день",
+            "source": "https://makerkids.pike13.com/events/18904108",
+            "price": "CAD 125 за 1 день на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-29",
+                "topic": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-30",
+            "start": "2026-12-30",
+            "end": "2026-12-30",
+            "label": "1 день",
+            "source": "https://makerkids.pike13.com/events/18904109",
+            "price": "CAD 125 за 1 день на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-30",
+                "topic": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-31",
+            "start": "2026-12-31",
+            "end": "2026-12-31",
+            "label": "1 день",
+            "source": "https://makerkids.pike13.com/events/18904111",
+            "price": "CAD 125 за 1 день на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-31",
+                "topic": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CAD",
+        "amount": 450,
+        "unit": "session",
+        "label": "CAD 450 за 4 дня или CAD 125 за день на ребёнка.",
+        "included": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+        "extras": "Утренний присмотр 08:00–09:00 и вечерний 15:30–17:00 бронируются отдельно.",
+        "deposit": "Для обычного возврата нужна отмена за 2 недели. Позже возврат зависит от заполнения места. За 72 часа или при пропуске возврата нет."
+      },
+      "accommodation": "Дневной лагерь без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Сверить местный школьный класс. Возраст сам по себе не подтверждает допуск."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Сверить местный школьный класс. Возраст сам по себе не подтверждает допуск."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить школьный класс, язык занятий и место для каждого ребёнка."
+      ],
+      "sources": [
+        {
+          "url": "https://makerkids.com/camps-in-bloor-west/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901005",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18904107",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18904108",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18904109",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18904111",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901040",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901039",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/courses/313076",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/courses/313078",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.com/cancellations/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "pairing": {
+        "venue_id": "makerkids-bloor",
+        "verified_source": "https://makerkids.com/camps-in-bloor-west/",
+        "checked": "2026-11-07"
+      }
+    },
+    {
+      "id": "CP1792",
+      "slug": "makerkids-leaside-winter-2026-w1-g1-2",
+      "provider": "MakerKids Leaside · Minecraft Frozen Kingdom · Mini Makers",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "MakerKids Leaside · 1661 Bayview Ave · Toronto",
+      "age": "Школьные классы 1-2.",
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык инструктажа конкретной смены не указан. Уточнить английский и испанский.",
+      "confirmed_instruction_languages": [],
+      "programme": "Minecraft. Первые постройки, творчество и решение задач в зимнем мире.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Две группы идут параллельно на одной площадке с 09:00 до 15:30. Можно выбрать весь блок или один день.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-21"
+          ],
+          [
+            "2026-12-22",
+            "2026-12-22"
+          ],
+          [
+            "2026-12-23",
+            "2026-12-23"
+          ],
+          [
+            "2026-12-24",
+            "2026-12-24"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "four-days",
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "4 дня",
+            "source": "https://makerkids.pike13.com/events/18900903",
+            "price": "CAD 450 за 4 дня на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Minecraft. Первые постройки, творчество и решение задач в зимнем мире.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "topic": "Minecraft. Первые постройки, творчество и решение задач в зимнем мире.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "topic": "Minecraft. Первые постройки, творчество и решение задач в зимнем мире.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "topic": "Minecraft. Первые постройки, творчество и решение задач в зимнем мире.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-21",
+            "start": "2026-12-21",
+            "end": "2026-12-21",
+            "label": "1 день",
+            "source": "https://makerkids.pike13.com/events/18901082",
+            "price": "CAD 125 за 1 день на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Minecraft. Первые постройки, творчество и решение задач в зимнем мире.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-22",
+            "start": "2026-12-22",
+            "end": "2026-12-22",
+            "label": "1 день",
+            "source": "https://makerkids.pike13.com/events/18901085",
+            "price": "CAD 125 за 1 день на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-22",
+                "topic": "Minecraft. Первые постройки, творчество и решение задач в зимнем мире.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-23",
+            "start": "2026-12-23",
+            "end": "2026-12-23",
+            "label": "1 день",
+            "source": "https://makerkids.pike13.com/events/18901092",
+            "price": "CAD 125 за 1 день на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-23",
+                "topic": "Minecraft. Первые постройки, творчество и решение задач в зимнем мире.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-24",
+            "start": "2026-12-24",
+            "end": "2026-12-24",
+            "label": "1 день",
+            "source": "https://makerkids.pike13.com/events/18901096",
+            "price": "CAD 125 за 1 день на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-24",
+                "topic": "Minecraft. Первые постройки, творчество и решение задач в зимнем мире.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CAD",
+        "amount": 450,
+        "unit": "session",
+        "label": "CAD 450 за 4 дня или CAD 125 за день на ребёнка.",
+        "included": "Minecraft. Первые постройки, творчество и решение задач в зимнем мире.",
+        "extras": "Утренний присмотр 08:00–09:00 и вечерний 15:30–17:00 бронируются отдельно.",
+        "deposit": "Для обычного возврата нужна отмена за 2 недели. Позже возврат зависит от заполнения места. За 72 часа или при пропуске возврата нет."
+      },
+      "accommodation": "Дневной лагерь без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Сверить местный школьный класс. Возраст сам по себе не подтверждает допуск."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Сверить местный школьный класс. Возраст сам по себе не подтверждает допуск."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить школьный класс, язык занятий и место для каждого ребёнка."
+      ],
+      "sources": [
+        {
+          "url": "https://makerkids.com/camps-in-leaside/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900903",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901082",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901085",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901092",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901096",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900927",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900940",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/courses/312979",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/courses/313077",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.com/cancellations/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "pairing": {
+        "venue_id": "makerkids-leaside",
+        "verified_source": "https://makerkids.com/camps-in-leaside/",
+        "checked": "2026-11-07"
+      }
+    },
+    {
+      "id": "CP1793",
+      "slug": "makerkids-leaside-winter-2026-w1-g3-8",
+      "provider": "MakerKids Leaside · Minecraft Frozen Kingdom · Idea Incubators",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "MakerKids Leaside · 1661 Bayview Ave · Toronto",
+      "age": "Школьные классы 3-8.",
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык инструктажа конкретной смены не указан. Уточнить английский и испанский.",
+      "confirmed_instruction_languages": [],
+      "programme": "Minecraft. Постройки, Redstone и модификации в зимнем мире.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Две группы идут параллельно на одной площадке с 09:00 до 15:30. Можно выбрать весь блок или один день.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-21"
+          ],
+          [
+            "2026-12-22",
+            "2026-12-22"
+          ],
+          [
+            "2026-12-23",
+            "2026-12-23"
+          ],
+          [
+            "2026-12-24",
+            "2026-12-24"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "four-days",
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "4 дня",
+            "source": "https://makerkids.pike13.com/events/18900892",
+            "price": "CAD 450 за 4 дня на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Minecraft. Постройки, Redstone и модификации в зимнем мире.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "topic": "Minecraft. Постройки, Redstone и модификации в зимнем мире.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "topic": "Minecraft. Постройки, Redstone и модификации в зимнем мире.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "topic": "Minecraft. Постройки, Redstone и модификации в зимнем мире.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-21",
+            "start": "2026-12-21",
+            "end": "2026-12-21",
+            "label": "1 день",
+            "source": "https://makerkids.pike13.com/events/18901050",
+            "price": "CAD 125 за 1 день на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Minecraft. Постройки, Redstone и модификации в зимнем мире.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-22",
+            "start": "2026-12-22",
+            "end": "2026-12-22",
+            "label": "1 день",
+            "source": "https://makerkids.pike13.com/events/18901055",
+            "price": "CAD 125 за 1 день на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-22",
+                "topic": "Minecraft. Постройки, Redstone и модификации в зимнем мире.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-23",
+            "start": "2026-12-23",
+            "end": "2026-12-23",
+            "label": "1 день",
+            "source": "https://makerkids.pike13.com/events/18901058",
+            "price": "CAD 125 за 1 день на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-23",
+                "topic": "Minecraft. Постройки, Redstone и модификации в зимнем мире.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-24",
+            "start": "2026-12-24",
+            "end": "2026-12-24",
+            "label": "1 день",
+            "source": "https://makerkids.pike13.com/events/18901063",
+            "price": "CAD 125 за 1 день на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-24",
+                "topic": "Minecraft. Постройки, Redstone и модификации в зимнем мире.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CAD",
+        "amount": 450,
+        "unit": "session",
+        "label": "CAD 450 за 4 дня или CAD 125 за день на ребёнка.",
+        "included": "Minecraft. Постройки, Redstone и модификации в зимнем мире.",
+        "extras": "Утренний присмотр 08:00–09:00 и вечерний 15:30–17:00 бронируются отдельно.",
+        "deposit": "Для обычного возврата нужна отмена за 2 недели. Позже возврат зависит от заполнения места. За 72 часа или при пропуске возврата нет."
+      },
+      "accommodation": "Дневной лагерь без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Сверить местный школьный класс. Возраст сам по себе не подтверждает допуск."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Сверить местный школьный класс. Возраст сам по себе не подтверждает допуск."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить школьный класс, язык занятий и место для каждого ребёнка."
+      ],
+      "sources": [
+        {
+          "url": "https://makerkids.com/camps-in-leaside/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900892",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901050",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901055",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901058",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901063",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900927",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900940",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/courses/312979",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/courses/313077",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.com/cancellations/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "pairing": {
+        "venue_id": "makerkids-leaside",
+        "verified_source": "https://makerkids.com/camps-in-leaside/",
+        "checked": "2026-11-07"
+      }
+    },
+    {
+      "id": "CP1794",
+      "slug": "makerkids-leaside-winter-2026-w2-g1-2",
+      "provider": "MakerKids Leaside · North Pole Inventors Lab · Mini Makers",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "MakerKids Leaside · 1661 Bayview Ave · Toronto",
+      "age": "Школьные классы 1-2.",
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык инструктажа конкретной смены не указан. Уточнить английский и испанский.",
+      "confirmed_instruction_languages": [],
+      "programme": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Две группы идут параллельно на одной площадке с 09:00 до 15:30. Можно выбрать весь блок или один день.",
+        "sessions": [
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-28"
+          ],
+          [
+            "2026-12-29",
+            "2026-12-29"
+          ],
+          [
+            "2026-12-30",
+            "2026-12-30"
+          ],
+          [
+            "2026-12-31",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "four-days",
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "4 дня",
+            "source": "https://makerkids.pike13.com/events/18900908",
+            "price": "CAD 450 за 4 дня на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "topic": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "topic": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-30",
+                "topic": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-31",
+                "topic": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-28",
+            "start": "2026-12-28",
+            "end": "2026-12-28",
+            "label": "1 день",
+            "source": "https://makerkids.pike13.com/events/18901099",
+            "price": "CAD 125 за 1 день на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "topic": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-29",
+            "start": "2026-12-29",
+            "end": "2026-12-29",
+            "label": "1 день",
+            "source": "https://makerkids.pike13.com/events/18901103",
+            "price": "CAD 125 за 1 день на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-29",
+                "topic": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-30",
+            "start": "2026-12-30",
+            "end": "2026-12-30",
+            "label": "1 день",
+            "source": "https://makerkids.pike13.com/events/18901107",
+            "price": "CAD 125 за 1 день на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-30",
+                "topic": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-31",
+            "start": "2026-12-31",
+            "end": "2026-12-31",
+            "label": "1 день",
+            "source": "https://makerkids.pike13.com/events/18901109",
+            "price": "CAD 125 за 1 день на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-31",
+                "topic": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CAD",
+        "amount": 450,
+        "unit": "session",
+        "label": "CAD 450 за 4 дня или CAD 125 за день на ребёнка.",
+        "included": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+        "extras": "Утренний присмотр 08:00–09:00 и вечерний 15:30–17:00 бронируются отдельно.",
+        "deposit": "Для обычного возврата нужна отмена за 2 недели. Позже возврат зависит от заполнения места. За 72 часа или при пропуске возврата нет."
+      },
+      "accommodation": "Дневной лагерь без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Сверить местный школьный класс. Возраст сам по себе не подтверждает допуск."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Сверить местный школьный класс. Возраст сам по себе не подтверждает допуск."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить школьный класс, язык занятий и место для каждого ребёнка."
+      ],
+      "sources": [
+        {
+          "url": "https://makerkids.com/camps-in-leaside/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900908",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901099",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901103",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901107",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901109",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900931",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900945",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/courses/312979",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/courses/313077",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.com/cancellations/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "pairing": {
+        "venue_id": "makerkids-leaside",
+        "verified_source": "https://makerkids.com/camps-in-leaside/",
+        "checked": "2026-11-07"
+      }
+    },
+    {
+      "id": "CP1795",
+      "slug": "makerkids-leaside-winter-2026-w2-g3-8",
+      "provider": "MakerKids Leaside · North Pole Inventors Lab · Idea Incubators",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "MakerKids Leaside · 1661 Bayview Ave · Toronto",
+      "age": "Школьные классы 3-8.",
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык инструктажа конкретной смены не указан. Уточнить английский и испанский.",
+      "confirmed_instruction_languages": [],
+      "programme": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Две группы идут параллельно на одной площадке с 09:00 до 15:30. Можно выбрать весь блок или один день.",
+        "sessions": [
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-28"
+          ],
+          [
+            "2026-12-29",
+            "2026-12-29"
+          ],
+          [
+            "2026-12-30",
+            "2026-12-30"
+          ],
+          [
+            "2026-12-31",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "four-days",
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "4 дня",
+            "source": "https://makerkids.pike13.com/events/18900897",
+            "price": "CAD 450 за 4 дня на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "topic": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "topic": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-30",
+                "topic": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-31",
+                "topic": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-28",
+            "start": "2026-12-28",
+            "end": "2026-12-28",
+            "label": "1 день",
+            "source": "https://makerkids.pike13.com/events/18901064",
+            "price": "CAD 125 за 1 день на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "topic": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-29",
+            "start": "2026-12-29",
+            "end": "2026-12-29",
+            "label": "1 день",
+            "source": "https://makerkids.pike13.com/events/18901067",
+            "price": "CAD 125 за 1 день на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-29",
+                "topic": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-30",
+            "start": "2026-12-30",
+            "end": "2026-12-30",
+            "label": "1 день",
+            "source": "https://makerkids.pike13.com/events/18901072",
+            "price": "CAD 125 за 1 день на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-30",
+                "topic": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-31",
+            "start": "2026-12-31",
+            "end": "2026-12-31",
+            "label": "1 день",
+            "source": "https://makerkids.pike13.com/events/18901073",
+            "price": "CAD 125 за 1 день на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-31",
+                "topic": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CAD",
+        "amount": 450,
+        "unit": "session",
+        "label": "CAD 450 за 4 дня или CAD 125 за день на ребёнка.",
+        "included": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+        "extras": "Утренний присмотр 08:00–09:00 и вечерний 15:30–17:00 бронируются отдельно.",
+        "deposit": "Для обычного возврата нужна отмена за 2 недели. Позже возврат зависит от заполнения места. За 72 часа или при пропуске возврата нет."
+      },
+      "accommodation": "Дневной лагерь без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Сверить местный школьный класс. Возраст сам по себе не подтверждает допуск."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Сверить местный школьный класс. Возраст сам по себе не подтверждает допуск."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить школьный класс, язык занятий и место для каждого ребёнка."
+      ],
+      "sources": [
+        {
+          "url": "https://makerkids.com/camps-in-leaside/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900897",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901064",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901067",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901072",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18901073",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900931",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900945",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/courses/312979",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/courses/313077",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.com/cancellations/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "pairing": {
+        "venue_id": "makerkids-leaside",
+        "verified_source": "https://makerkids.com/camps-in-leaside/",
+        "checked": "2026-11-07"
+      }
+    },
+    {
+      "id": "CP1796",
+      "slug": "makerkids-mississauga-winter-2026-w1-g1-2",
+      "provider": "MakerKids Mississauga South · Minecraft Frozen Kingdom · Mini Makers",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "MakerKids Mississauga South · 1900 Fowler Drive · Mississauga",
+      "age": "Школьные классы 1-2.",
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык инструктажа конкретной смены не указан. Уточнить английский и испанский.",
+      "confirmed_instruction_languages": [],
+      "programme": "Minecraft. Первые постройки, творчество и решение задач в зимнем мире.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Две группы идут параллельно на одной площадке с 09:00 до 15:30. Можно выбрать весь блок или один день.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-21"
+          ],
+          [
+            "2026-12-22",
+            "2026-12-22"
+          ],
+          [
+            "2026-12-23",
+            "2026-12-23"
+          ],
+          [
+            "2026-12-24",
+            "2026-12-24"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "four-days",
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "4 дня",
+            "source": "https://makerkids.pike13.com/events/18900295",
+            "price": "CAD 450 за 4 дня на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Minecraft. Первые постройки, творчество и решение задач в зимнем мире.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "topic": "Minecraft. Первые постройки, творчество и решение задач в зимнем мире.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "topic": "Minecraft. Первые постройки, творчество и решение задач в зимнем мире.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "topic": "Minecraft. Первые постройки, творчество и решение задач в зимнем мире.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-21",
+            "start": "2026-12-21",
+            "end": "2026-12-21",
+            "label": "1 день",
+            "source": "https://makerkids.pike13.com/events/18900333",
+            "price": "CAD 125 за 1 день на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Minecraft. Первые постройки, творчество и решение задач в зимнем мире.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-22",
+            "start": "2026-12-22",
+            "end": "2026-12-22",
+            "label": "1 день",
+            "source": "https://makerkids.pike13.com/events/18900342",
+            "price": "CAD 125 за 1 день на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-22",
+                "topic": "Minecraft. Первые постройки, творчество и решение задач в зимнем мире.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-23",
+            "start": "2026-12-23",
+            "end": "2026-12-23",
+            "label": "1 день",
+            "source": "https://makerkids.pike13.com/events/18900346",
+            "price": "CAD 125 за 1 день на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-23",
+                "topic": "Minecraft. Первые постройки, творчество и решение задач в зимнем мире.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-24",
+            "start": "2026-12-24",
+            "end": "2026-12-24",
+            "label": "1 день",
+            "source": "https://makerkids.pike13.com/events/18900351",
+            "price": "CAD 125 за 1 день на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-24",
+                "topic": "Minecraft. Первые постройки, творчество и решение задач в зимнем мире.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CAD",
+        "amount": 450,
+        "unit": "session",
+        "label": "CAD 450 за 4 дня или CAD 125 за день на ребёнка.",
+        "included": "Minecraft. Первые постройки, творчество и решение задач в зимнем мире.",
+        "extras": "Утренний присмотр 08:00–09:00 и вечерний 15:30–17:00 бронируются отдельно.",
+        "deposit": "Для обычного возврата нужна отмена за 2 недели. Позже возврат зависит от заполнения места. За 72 часа или при пропуске возврата нет."
+      },
+      "accommodation": "Дневной лагерь без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Сверить местный школьный класс. Возраст сам по себе не подтверждает допуск."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Сверить местный школьный класс. Возраст сам по себе не подтверждает допуск."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить школьный класс, язык занятий и место для каждого ребёнка."
+      ],
+      "sources": [
+        {
+          "url": "https://makerkids.com/makerkids-mississauga/stem-camps-in-mississauga/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900295",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900333",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900342",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900346",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900351",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900468",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900490",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/courses/335597",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/courses/335599",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.com/cancellations/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "pairing": {
+        "venue_id": "makerkids-mississauga",
+        "verified_source": "https://makerkids.com/makerkids-mississauga/stem-camps-in-mississauga/",
+        "checked": "2026-11-07"
+      }
+    },
+    {
+      "id": "CP1797",
+      "slug": "makerkids-mississauga-winter-2026-w1-g3-8",
+      "provider": "MakerKids Mississauga South · Minecraft Frozen Kingdom · Idea Incubators",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "MakerKids Mississauga South · 1900 Fowler Drive · Mississauga",
+      "age": "Школьные классы 3-8.",
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык инструктажа конкретной смены не указан. Уточнить английский и испанский.",
+      "confirmed_instruction_languages": [],
+      "programme": "Minecraft. Постройки, Redstone и модификации в зимнем мире.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Две группы идут параллельно на одной площадке с 09:00 до 15:30. Можно выбрать весь блок или один день.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-21"
+          ],
+          [
+            "2026-12-22",
+            "2026-12-22"
+          ],
+          [
+            "2026-12-23",
+            "2026-12-23"
+          ],
+          [
+            "2026-12-24",
+            "2026-12-24"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "four-days",
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "4 дня",
+            "source": "https://makerkids.pike13.com/events/18900321",
+            "price": "CAD 450 за 4 дня на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Minecraft. Постройки, Redstone и модификации в зимнем мире.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "topic": "Minecraft. Постройки, Redstone и модификации в зимнем мире.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "topic": "Minecraft. Постройки, Redstone и модификации в зимнем мире.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "topic": "Minecraft. Постройки, Redstone и модификации в зимнем мире.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-21",
+            "start": "2026-12-21",
+            "end": "2026-12-21",
+            "label": "1 день",
+            "source": "https://makerkids.pike13.com/events/18900387",
+            "price": "CAD 125 за 1 день на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Minecraft. Постройки, Redstone и модификации в зимнем мире.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-22",
+            "start": "2026-12-22",
+            "end": "2026-12-22",
+            "label": "1 день",
+            "source": "https://makerkids.pike13.com/events/18900394",
+            "price": "CAD 125 за 1 день на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-22",
+                "topic": "Minecraft. Постройки, Redstone и модификации в зимнем мире.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-23",
+            "start": "2026-12-23",
+            "end": "2026-12-23",
+            "label": "1 день",
+            "source": "https://makerkids.pike13.com/events/18900398",
+            "price": "CAD 125 за 1 день на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-23",
+                "topic": "Minecraft. Постройки, Redstone и модификации в зимнем мире.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-24",
+            "start": "2026-12-24",
+            "end": "2026-12-24",
+            "label": "1 день",
+            "source": "https://makerkids.pike13.com/events/18900400",
+            "price": "CAD 125 за 1 день на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-24",
+                "topic": "Minecraft. Постройки, Redstone и модификации в зимнем мире.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CAD",
+        "amount": 450,
+        "unit": "session",
+        "label": "CAD 450 за 4 дня или CAD 125 за день на ребёнка.",
+        "included": "Minecraft. Постройки, Redstone и модификации в зимнем мире.",
+        "extras": "Утренний присмотр 08:00–09:00 и вечерний 15:30–17:00 бронируются отдельно.",
+        "deposit": "Для обычного возврата нужна отмена за 2 недели. Позже возврат зависит от заполнения места. За 72 часа или при пропуске возврата нет."
+      },
+      "accommodation": "Дневной лагерь без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Сверить местный школьный класс. Возраст сам по себе не подтверждает допуск."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Сверить местный школьный класс. Возраст сам по себе не подтверждает допуск."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить школьный класс, язык занятий и место для каждого ребёнка."
+      ],
+      "sources": [
+        {
+          "url": "https://makerkids.com/makerkids-mississauga/stem-camps-in-mississauga/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900321",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900387",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900394",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900398",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900400",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900468",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900490",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/courses/335597",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/courses/335599",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.com/cancellations/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "pairing": {
+        "venue_id": "makerkids-mississauga",
+        "verified_source": "https://makerkids.com/makerkids-mississauga/stem-camps-in-mississauga/",
+        "checked": "2026-11-07"
+      }
+    },
+    {
+      "id": "CP1798",
+      "slug": "makerkids-mississauga-winter-2026-w2-g1-2",
+      "provider": "MakerKids Mississauga South · North Pole Inventors Lab · Mini Makers",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "MakerKids Mississauga South · 1900 Fowler Drive · Mississauga",
+      "age": "Школьные классы 1-2.",
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык инструктажа конкретной смены не указан. Уточнить английский и испанский.",
+      "confirmed_instruction_languages": [],
+      "programme": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Две группы идут параллельно на одной площадке с 09:00 до 15:30. Можно выбрать весь блок или один день.",
+        "sessions": [
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-28"
+          ],
+          [
+            "2026-12-29",
+            "2026-12-29"
+          ],
+          [
+            "2026-12-30",
+            "2026-12-30"
+          ],
+          [
+            "2026-12-31",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "four-days",
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "4 дня",
+            "source": "https://makerkids.pike13.com/events/18900308",
+            "price": "CAD 450 за 4 дня на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "topic": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "topic": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-30",
+                "topic": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-31",
+                "topic": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-28",
+            "start": "2026-12-28",
+            "end": "2026-12-28",
+            "label": "1 день",
+            "source": "https://makerkids.pike13.com/events/18900354",
+            "price": "CAD 125 за 1 день на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "topic": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-29",
+            "start": "2026-12-29",
+            "end": "2026-12-29",
+            "label": "1 день",
+            "source": "https://makerkids.pike13.com/events/18900359",
+            "price": "CAD 125 за 1 день на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-29",
+                "topic": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-30",
+            "start": "2026-12-30",
+            "end": "2026-12-30",
+            "label": "1 день",
+            "source": "https://makerkids.pike13.com/events/18900363",
+            "price": "CAD 125 за 1 день на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-30",
+                "topic": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-31",
+            "start": "2026-12-31",
+            "end": "2026-12-31",
+            "label": "1 день",
+            "source": "https://makerkids.pike13.com/events/18900369",
+            "price": "CAD 125 за 1 день на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-31",
+                "topic": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CAD",
+        "amount": 450,
+        "unit": "session",
+        "label": "CAD 450 за 4 дня или CAD 125 за день на ребёнка.",
+        "included": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+        "extras": "Утренний присмотр 08:00–09:00. Вечерний до 17:30 для пакета или до 17:00 для отдельного дня.",
+        "deposit": "Для обычного возврата нужна отмена за 2 недели. Позже возврат зависит от заполнения места. За 72 часа или при пропуске возврата нет."
+      },
+      "accommodation": "Дневной лагерь без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Сверить местный школьный класс. Возраст сам по себе не подтверждает допуск."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Сверить местный школьный класс. Возраст сам по себе не подтверждает допуск."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить школьный класс, язык занятий и место для каждого ребёнка."
+      ],
+      "sources": [
+        {
+          "url": "https://makerkids.com/makerkids-mississauga/stem-camps-in-mississauga/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900308",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900354",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900359",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900363",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900369",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900475",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900493",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/courses/335597",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/courses/335599",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.com/cancellations/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "pairing": {
+        "venue_id": "makerkids-mississauga",
+        "verified_source": "https://makerkids.com/makerkids-mississauga/stem-camps-in-mississauga/",
+        "checked": "2026-11-07"
+      }
+    },
+    {
+      "id": "CP1799",
+      "slug": "makerkids-mississauga-winter-2026-w2-g3-8",
+      "provider": "MakerKids Mississauga South · North Pole Inventors Lab · Idea Incubators",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "MakerKids Mississauga South · 1900 Fowler Drive · Mississauga",
+      "age": "Школьные классы 3-8.",
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык инструктажа конкретной смены не указан. Уточнить английский и испанский.",
+      "confirmed_instruction_languages": [],
+      "programme": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Две группы идут параллельно на одной площадке с 09:00 до 15:30. Можно выбрать весь блок или один день.",
+        "sessions": [
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-28"
+          ],
+          [
+            "2026-12-29",
+            "2026-12-29"
+          ],
+          [
+            "2026-12-30",
+            "2026-12-30"
+          ],
+          [
+            "2026-12-31",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "four-days",
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "4 дня",
+            "source": "https://makerkids.pike13.com/events/18900328",
+            "price": "CAD 450 за 4 дня на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "topic": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "topic": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-30",
+                "topic": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-31",
+                "topic": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-28",
+            "start": "2026-12-28",
+            "end": "2026-12-28",
+            "label": "1 день",
+            "source": "https://makerkids.pike13.com/events/18900408",
+            "price": "CAD 125 за 1 день на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "topic": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-29",
+            "start": "2026-12-29",
+            "end": "2026-12-29",
+            "label": "1 день",
+            "source": "https://makerkids.pike13.com/events/18900420",
+            "price": "CAD 125 за 1 день на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-29",
+                "topic": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-30",
+            "start": "2026-12-30",
+            "end": "2026-12-30",
+            "label": "1 день",
+            "source": "https://makerkids.pike13.com/events/18900456",
+            "price": "CAD 125 за 1 день на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-30",
+                "topic": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "one-day-2026-12-31",
+            "start": "2026-12-31",
+            "end": "2026-12-31",
+            "label": "1 день",
+            "source": "https://makerkids.pike13.com/events/18900438",
+            "price": "CAD 125 за 1 день на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-31",
+                "topic": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CAD",
+        "amount": 450,
+        "unit": "session",
+        "label": "CAD 450 за 4 дня или CAD 125 за день на ребёнка.",
+        "included": "Зимняя лаборатория изобретений. Программирование, роботы и Minecraft.",
+        "extras": "Утренний присмотр 08:00–09:00. Вечерний до 17:30 для пакета или до 17:00 для отдельного дня.",
+        "deposit": "Для обычного возврата нужна отмена за 2 недели. Позже возврат зависит от заполнения места. За 72 часа или при пропуске возврата нет."
+      },
+      "accommodation": "Дневной лагерь без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Сверить местный школьный класс. Возраст сам по себе не подтверждает допуск."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Сверить местный школьный класс. Возраст сам по себе не подтверждает допуск."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить школьный класс, язык занятий и место для каждого ребёнка."
+      ],
+      "sources": [
+        {
+          "url": "https://makerkids.com/makerkids-mississauga/stem-camps-in-mississauga/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900328",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900408",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900420",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900456",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900438",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900475",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/events/18900493",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/courses/335597",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.pike13.com/courses/335599",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://makerkids.com/cancellations/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "pairing": {
+        "venue_id": "makerkids-mississauga",
+        "verified_source": "https://makerkids.com/makerkids-mississauga/stem-camps-in-mississauga/",
+        "checked": "2026-11-07"
+      }
+    },
+    {
+      "id": "CP1800",
+      "slug": "spark-techies-london-pd-2026-27",
+      "provider": "Spark Techies · PD Day STEM Camp",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "Spark Techies · 1742 Hydepark Road · London, Ontario",
+      "age": "Возраст 6–13 лет.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык инструктажа конкретной смены не указан. Уточнить английский и испанский.",
+      "confirmed_instruction_languages": [],
+      "programme": "Сборка LEGO, программирование роботов, моделирование и 3D-печать.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Занятия 09:00–15:30. Окна высадки и забора сверить для конкретной смены.",
+        "sessions": [
+          [
+            "2026-11-13",
+            "2026-11-13"
+          ],
+          [
+            "2027-01-15",
+            "2027-01-15"
+          ],
+          [
+            "2027-01-29",
+            "2027-01-29"
+          ],
+          [
+            "2027-02-05",
+            "2027-02-05"
+          ],
+          [
+            "2027-02-12",
+            "2027-02-12"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "2026-11-13",
+            "start": "2026-11-13",
+            "end": "2026-11-13",
+            "label": "По календарю частных школ",
+            "source": "https://sparktechies.uplifterinc.com/registration/camps/",
+            "price": "CAD 80 + HST 13%, итого CAD 90.40 на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-13",
+                "topic": "Сборка LEGO, программирование роботов, моделирование и 3D-печать.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ],
+            "deadline": "2026-11-13",
+            "entry": "Форма закрывается 13 ноября 2026 в 00:00. В этой форме высадка 08:50–09:00, забор 15:30–15:45."
+          },
+          {
+            "variant_key": "2027-01-15",
+            "start": "2027-01-15",
+            "end": "2027-01-15",
+            "label": "По календарю всех школ",
+            "source": "https://sparktechies.ca/kids-camps/",
+            "price": "CAD 80 + HST 13%, итого CAD 90.40 на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-15",
+                "topic": "Сборка LEGO, программирование роботов, моделирование и 3D-печать.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "2027-01-29",
+            "start": "2027-01-29",
+            "end": "2027-01-29",
+            "label": "По календарю частных школ",
+            "source": "https://sparktechies.ca/kids-camps/",
+            "price": "CAD 80 + HST 13%, итого CAD 90.40 на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-29",
+                "topic": "Сборка LEGO, программирование роботов, моделирование и 3D-печать.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "2027-02-05",
+            "start": "2027-02-05",
+            "end": "2027-02-05",
+            "label": "По календарю частных школ",
+            "source": "https://sparktechies.ca/kids-camps/",
+            "price": "CAD 80 + HST 13%, итого CAD 90.40 на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2027-02-05",
+                "topic": "Сборка LEGO, программирование роботов, моделирование и 3D-печать.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "2027-02-12",
+            "start": "2027-02-12",
+            "end": "2027-02-12",
+            "label": "По календарю частных школ",
+            "source": "https://sparktechies.ca/kids-camps/",
+            "price": "CAD 80 + HST 13%, итого CAD 90.40 на ребёнка.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2027-02-12",
+                "topic": "Сборка LEGO, программирование роботов, моделирование и 3D-печать.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CAD",
+        "amount": 80,
+        "unit": "day",
+        "label": "CAD 80 + HST 13%, итого CAD 90.40 на ребёнка.",
+        "included": "Сборка LEGO, программирование роботов, моделирование и 3D-печать.",
+        "extras": "Обед и поздний забор можно заказать отдельно. Цена не указана. Взять воду, обед и 2 перекуса без орехов.",
+        "deposit": "Проверить итоговую сумму и условия возврата перед оплатой."
+      },
+      "accommodation": "Дневной лагерь без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Возраст подходит. Уточнить место и язык занятия."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Возраст подходит. Уточнить место и язык занятия."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить школьный класс, язык занятий и место для каждого ребёнка."
+      ],
+      "sources": [
+        {
+          "url": "https://sparktechies.ca/kids-camps/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://sparktechies.ca/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://sparktechies.uplifterinc.com/registration/camps/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate.html",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp"
+    },
+    {
+      "id": "CP1801",
+      "slug": "spark-techies-london-march-2027",
+      "provider": "Spark Techies · March Break STEM Camp",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "Spark Techies · 1742 Hydepark Road · London, Ontario",
+      "age": "Возраст 6–13 лет.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык инструктажа конкретной смены не указан. Уточнить английский и испанский.",
+      "confirmed_instruction_languages": [],
+      "programme": "Сборка LEGO, программирование роботов, моделирование и 3D-печать.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Занятия 09:00–15:30. Окна высадки и забора сверить для конкретной смены.",
+        "sessions": [
+          [
+            "2027-03-08",
+            "2027-03-12"
+          ],
+          [
+            "2027-03-15",
+            "2027-03-19"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "march-8",
+            "start": "2027-03-08",
+            "end": "2027-03-12",
+            "label": "По календарю частных школ",
+            "source": "https://sparktechies.uplifterinc.com/registration/camps/",
+            "price": "CAD 380 + HST 13%, итого CAD 429.40 на ребёнка. На сайте указан ранний тариф CAD 350 + HST. Его срок не опубликован.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2027-03-08",
+                "topic": "Сборка LEGO, программирование роботов, моделирование и 3D-печать.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-09",
+                "topic": "Сборка LEGO, программирование роботов, моделирование и 3D-печать.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-10",
+                "topic": "Сборка LEGO, программирование роботов, моделирование и 3D-печать.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-11",
+                "topic": "Сборка LEGO, программирование роботов, моделирование и 3D-печать.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-12",
+                "topic": "Сборка LEGO, программирование роботов, моделирование и 3D-печать.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ],
+            "deadline": "2027-03-07",
+            "entry": "Форма указывает закрытие 7 марта 2027 в 00:00. Проверить место и правила допуска."
+          },
+          {
+            "variant_key": "march-15",
+            "start": "2027-03-15",
+            "end": "2027-03-19",
+            "label": "По календарю всех школ",
+            "source": "https://sparktechies.uplifterinc.com/registration/camps/",
+            "price": "CAD 380 + HST 13%, итого CAD 429.40 на ребёнка. На сайте указан ранний тариф CAD 350 + HST. Его срок не опубликован.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2027-03-15",
+                "topic": "Сборка LEGO, программирование роботов, моделирование и 3D-печать.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-16",
+                "topic": "Сборка LEGO, программирование роботов, моделирование и 3D-печать.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-17",
+                "topic": "Сборка LEGO, программирование роботов, моделирование и 3D-печать.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-18",
+                "topic": "Сборка LEGO, программирование роботов, моделирование и 3D-печать.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-19",
+                "topic": "Сборка LEGO, программирование роботов, моделирование и 3D-печать.",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ],
+            "deadline": "2027-03-08",
+            "entry": "Форма указывает закрытие 8 марта 2027 в 00:00. Проверить место и правила допуска."
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "currency": "CAD",
+        "amount": 380,
+        "unit": "session",
+        "label": "CAD 380 + HST 13%, итого CAD 429.40 на ребёнка. На сайте указан ранний тариф CAD 350 + HST. Его срок не опубликован.",
+        "included": "Сборка LEGO, программирование роботов, моделирование и 3D-печать.",
+        "extras": "Обед и поздний забор можно заказать отдельно. Цена не указана. Взять воду, обед и 2 перекуса без орехов.",
+        "deposit": "Проверить итоговую сумму и условия возврата перед оплатой."
+      },
+      "accommodation": "Дневной лагерь без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Возраст подходит. Уточнить место и язык занятия."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Возраст подходит. Уточнить место и язык занятия."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить школьный класс, язык занятий и место для каждого ребёнка."
+      ],
+      "sources": [
+        {
+          "url": "https://sparktechies.ca/kids-camps/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://sparktechies.ca/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://sparktechies.uplifterinc.com/registration/camps/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate.html",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp"
+    },
+    {
+      "id": "CP1802",
+      "slug": "spark-techies-london-march-2027-watch",
+      "provider": "Spark Techies · March Break · Private Schools",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "Spark Techies · 1742 Hydepark Road · London, Ontario",
+      "age": "Возраст 6–13 лет.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык инструктажа конкретной смены не указан. Уточнить английский и испанский.",
+      "confirmed_instruction_languages": [],
+      "programme": "Сборка LEGO, программирование роботов, моделирование и 3D-печать.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Форма указывает окно 22–26 марта 2027 и 4 занятия, сайт указывал 22–25 марта. Точные дни подтвердить. Форма указывает закрытие 15 марта в 00:00.",
+        "sessions": [],
+        "session_details": []
+      },
+      "price": {
+        "year": 2027,
+        "currency": "CAD",
+        "amount": 300,
+        "unit": "session",
+        "label": "CAD 300 + HST 13%, итого CAD 339 на ребёнка по опубликованному тарифу.",
+        "included": "Сборка LEGO, программирование роботов, моделирование и 3D-печать.",
+        "extras": "Обед и поздний забор можно заказать отдельно. Цена не указана. Взять воду, обед и 2 перекуса без орехов.",
+        "deposit": "Проверить итоговую сумму и условия возврата перед оплатой."
+      },
+      "accommodation": "Дневной лагерь без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Возраст подходит. Уточнить место и язык занятия."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Возраст подходит. Уточнить место и язык занятия."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить школьный класс, язык занятий и место для каждого ребёнка."
+      ],
+      "sources": [
+        {
+          "url": "https://sparktechies.ca/kids-camps/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://sparktechies.ca/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://sparktechies.uplifterinc.com/registration/camps/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate.html",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp"
+    },
+    {
+      "id": "CP1803",
+      "slug": "visst-maker-march-2027",
+      "provider": "VISST · Maker Lab · Digital Design and Fabrication",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "VISST · 1490 West Broadway · Vancouver",
+      "age": "Школьные классы 5–9.",
+      "themes": [
+        "engineering",
+        "makers",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык инструктажа конкретной смены не указан. Уточнить английский и испанский.",
+      "confirmed_instruction_languages": [],
+      "programme": "Цифровой дизайн, лазерная резка и Cricut. Ноутбук с Inkscape, Cricut Design Space и xTool Studio.",
+      "timing": {
+        "status": "published_2027",
+        "label": "22–26 марта 2027. Два трека можно совместить в один день.",
+        "sessions": [
+          [
+            "2027-03-22",
+            "2027-03-26"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "spring",
+            "start": "2027-03-22",
+            "end": "2027-03-26",
+            "label": "09:00–12:00",
+            "source": "https://www.visst.ca/camps/makerlab-spring",
+            "price": "CAD 300 за один трек или CAD 570 за два трека на участника.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2027-03-22",
+                "topic": "Цифровой дизайн, лазерная резка и Cricut. Ноутбук с Inkscape, Cricut Design Space и xTool Studio.",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-23",
+                "topic": "Цифровой дизайн, лазерная резка и Cricut. Ноутбук с Inkscape, Cricut Design Space и xTool Studio.",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-24",
+                "topic": "Цифровой дизайн, лазерная резка и Cricut. Ноутбук с Inkscape, Cricut Design Space и xTool Studio.",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-25",
+                "topic": "Цифровой дизайн, лазерная резка и Cricut. Ноутбук с Inkscape, Cricut Design Space и xTool Studio.",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-26",
+                "topic": "Цифровой дизайн, лазерная резка и Cricut. Ноутбук с Inkscape, Cricut Design Space и xTool Studio.",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "currency": "CAD",
+        "amount": 300,
+        "unit": "session",
+        "label": "CAD 300 за один трек или CAD 570 за два трека на участника.",
+        "included": "Цифровой дизайн, лазерная резка и Cricut. Ноутбук с Inkscape, Cricut Design Space и xTool Studio.",
+        "extras": "При выборе обоих треков организатор присматривает за участниками в перерыве на обед. Нужен свой ноутбук.",
+        "deposit": "Проверить итоговую сумму и условия возврата перед оплатой."
+      },
+      "accommodation": "Дневной лагерь без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Сверить местный школьный класс. Возраст сам по себе не подтверждает допуск."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Сверить местный школьный класс. Возраст сам по себе не подтверждает допуск."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить школьный класс, язык занятий и место для каждого ребёнка."
+      ],
+      "sources": [
+        {
+          "url": "https://www.visst.ca/camps/makerlab-spring",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.visst.ca/camps/arcade",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp"
+    },
+    {
+      "id": "CP1804",
+      "slug": "visst-arcade-march-2027",
+      "provider": "VISST · Arcade Action Coding",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "VISST · 1490 West Broadway · Vancouver",
+      "age": "Школьные классы 5–8.",
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык инструктажа конкретной смены не указан. Уточнить английский и испанский.",
+      "confirmed_instruction_languages": [],
+      "programme": "Разработка аркадных игр. Ноутбук с Godot и Inkscape.",
+      "timing": {
+        "status": "published_2027",
+        "label": "22–26 марта 2027. Два трека можно совместить в один день.",
+        "sessions": [
+          [
+            "2027-03-22",
+            "2027-03-26"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "spring",
+            "start": "2027-03-22",
+            "end": "2027-03-26",
+            "label": "13:00–16:00",
+            "source": "https://www.visst.ca/camps/arcade",
+            "price": "CAD 300 за один трек или CAD 570 за два трека на участника.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Есть публичная запись. Наличие места не подтверждено."
+            },
+            "sessions": [
+              {
+                "date": "2027-03-22",
+                "topic": "Разработка аркадных игр. Ноутбук с Godot и Inkscape.",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-23",
+                "topic": "Разработка аркадных игр. Ноутбук с Godot и Inkscape.",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-24",
+                "topic": "Разработка аркадных игр. Ноутбук с Godot и Inkscape.",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-25",
+                "topic": "Разработка аркадных игр. Ноутбук с Godot и Inkscape.",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-26",
+                "topic": "Разработка аркадных игр. Ноутбук с Godot и Inkscape.",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "America/Vancouver",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "currency": "CAD",
+        "amount": 300,
+        "unit": "session",
+        "label": "CAD 300 за один трек или CAD 570 за два трека на участника.",
+        "included": "Разработка аркадных игр. Ноутбук с Godot и Inkscape.",
+        "extras": "При выборе обоих треков организатор присматривает за участниками в перерыве на обед. Нужен свой ноутбук.",
+        "deposit": "Проверить итоговую сумму и условия возврата перед оплатой."
+      },
+      "accommodation": "Дневной лагерь без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Сверить местный школьный класс. Возраст сам по себе не подтверждает допуск."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Сверить местный школьный класс. Возраст сам по себе не подтверждает допуск."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить школьный класс, язык занятий и место для каждого ребёнка."
+      ],
+      "sources": [
+        {
+          "url": "https://www.visst.ca/camps/arcade",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.visst.ca/camps/makerlab-spring",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp"
+    },
+    {
+      "id": "CP1805",
+      "slug": "visst-creative-technology-girls-watch",
+      "provider": "VISST · Creative Technology and Design for Girls",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "VISST · 1490 West Broadway · Vancouver",
+      "age": "Девочки и небинарные учащиеся 6 или 7 класса в Metro Vancouver. Заявка и отбор.",
+      "themes": [
+        "engineering",
+        "games",
+        "coding",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык инструктажа конкретной смены не указан. Уточнить английский и испанский.",
+      "confirmed_instruction_languages": [],
+      "programme": "Проектирование и цифровое производство, лазерная резка, игры на Godot.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Заголовок указывает 15–19 марта 2027, а текст 15–19 марта 2026. Форма указывает крайний срок 15 января 2027. Даты смены подтвердить.",
+        "sessions": [],
+        "session_details": []
+      },
+      "price": {
+        "year": 2027,
+        "currency": "CAD",
+        "amount": 25,
+        "unit": "session",
+        "label": "CAD 25 после отбора.",
+        "included": "Проектирование и цифровое производство, лазерная резка, игры на Godot.",
+        "extras": "Нужен свой ноутбук с клавиатурой и мышью.",
+        "deposit": "Проверить итоговую сумму и условия возврата перед оплатой."
+      },
+      "accommodation": "Дневной лагерь без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Открытая категория для обоих детей не заявлена."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Открытая категория для обоих детей не заявлена."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить школьный класс, язык занятий и место для каждого ребёнка."
+      ],
+      "sources": [
+        {
+          "url": "https://www.visst.ca/camps/creative-tech-for-girls",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp"
+    },
+    {
+      "id": "CP1806",
+      "slug": "yres-nova-spark-jr-markham",
+      "provider": "York Region Educational Services · Nova Spark Jr. #36415",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "3100 Steeles Ave E · Markham",
+      "age": "Возраст 6–9 лет.",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык инструктажа конкретной смены не указан. Уточнить английский и испанский.",
+      "confirmed_instruction_languages": [],
+      "programme": "LEGO, Scratch, работа в команде и показ проекта на фестивале Explore.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Запись на текущий состав закрыта. Команда готовится к FIRST LEGO League Explore. Фестиваль планируется на апрель или май без точной даты и площадки.",
+        "sessions": [],
+        "session_details": []
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CAD",
+        "amount": 300,
+        "unit": "course",
+        "label": "CAD 300 за заявленный курс из 16 занятий. В FAQ перечислено 15 дат занятий и отдельно фестиваль.",
+        "included": "LEGO, Scratch, работа в команде и показ проекта на фестивале Explore.",
+        "extras": "Материалы предоставляет центр.",
+        "deposit": "Проверить итоговую сумму и условия возврата перед оплатой."
+      },
+      "accommodation": "Очная короткая мастерская без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Возраст подходит. Уточнить место и язык занятия."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Возраст подходит. Уточнить место и язык занятия."
+        }
+      },
+      "editorial_reason": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Точный возрастной допуск и наличие места уточнить у площадки."
+      ],
+      "sources": [
+        {
+          "url": "https://www.yorkeducation.org/programs/team-nova-spark",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "course",
+      "catalog_participation": "course"
     }
   ],
   "gaps": [
@@ -268418,7 +272654,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 231,
+  "version": 232,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -281653,7 +285889,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1787,
+      "total_dossiers": 1806,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,

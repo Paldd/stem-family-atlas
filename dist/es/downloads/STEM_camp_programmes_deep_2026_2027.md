@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-07. 1787 fichas en 104 países. Cada ficha indica las fechas de verificación de sus fuentes.
+Estado de la base: 2026-11-07. 1806 fichas en 104 países. Las fechas de verificación de las fuentes se indican en cada ficha.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -140857,6 +140857,1928 @@ Perú · CTIC-UNI · Puerta 5 · Lima
 - [Página oficial del organizador](https://www.ctic.uni.edu.pe/educacion/taller-de-robotica-con-arduino-junior/) · 2026-11-07
 
 - [Página oficial del organizador](https://www.ctic.uni.edu.pe/cursos-y-talleres/) · 2026-11-07
+
+## CP1788 · MakerKids Bloor West · Minecraft Frozen Kingdom · Mini Makers
+
+Canadá · MakerKids Bloor West · 2451 Bloor Street West · Toronto
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Cursos escolares 1-2.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** Los dos grupos coinciden en una sede de 09:00 a 15:30. Se puede elegir el bloque o un día.
+
+**Precio / año:** 2026 · CAD 450 por 4 días o CAD 125 por día y menor.
+
+**Incluido:** Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.
+
+**Suplementos:** El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado.
+
+**Pago:** Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+
+**Matvey:** Confirmar el curso escolar local. La edad por sí sola no acredita la admisión.
+
+**Oscar:** Confirmar el curso escolar local. La edad por sí sola no acredita la admisión.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar curso escolar, idioma de las actividades y plaza para cada menor.
+
+### 4 días
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**Precio:** CAD 450 por 4 días y menor.
+
+- 2026-12-21 · 09:00–15:30 · America/Toronto · Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.
+
+- 2026-12-22 · 09:00–15:30 · America/Toronto · Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.
+
+- 2026-12-23 · 09:00–15:30 · America/Toronto · Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.
+
+- 2026-12-24 · 09:00–15:30 · America/Toronto · Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18901013)
+
+### 1 día
+
+**Fechas / estado:** 2026-12-21 — 2026-12-21
+
+**Precio:** CAD 125 por 1 día y menor.
+
+- 2026-12-21 · 09:00–15:30 · America/Toronto · Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18904114)
+
+### 1 día
+
+**Fechas / estado:** 2026-12-22 — 2026-12-22
+
+**Precio:** CAD 125 por 1 día y menor.
+
+- 2026-12-22 · 09:00–15:30 · America/Toronto · Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18904115)
+
+### 1 día
+
+**Fechas / estado:** 2026-12-23 — 2026-12-23
+
+**Precio:** CAD 125 por 1 día y menor.
+
+- 2026-12-23 · 09:00–15:30 · America/Toronto · Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18904117)
+
+### 1 día
+
+**Fechas / estado:** 2026-12-24 — 2026-12-24
+
+**Precio:** CAD 125 por 1 día y menor.
+
+- 2026-12-24 · 09:00–15:30 · America/Toronto · Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18904118)
+
+### Fuentes
+
+- [Página oficial del organizador](https://makerkids.com/camps-in-bloor-west/) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18901013) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18904114) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18904115) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18904117) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18904118) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18901025) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18901033) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/courses/313076) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/courses/313078) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.com/cancellations/) · 2026-11-07
+
+## CP1789 · MakerKids Bloor West · Minecraft Frozen Kingdom · Idea Incubators
+
+Canadá · MakerKids Bloor West · 2451 Bloor Street West · Toronto
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Cursos escolares 3-8.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** Los dos grupos coinciden en una sede de 09:00 a 15:30. Se puede elegir el bloque o un día.
+
+**Precio / año:** 2026 · CAD 450 por 4 días o CAD 125 por día y menor.
+
+**Incluido:** Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.
+
+**Suplementos:** El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado.
+
+**Pago:** Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+
+**Matvey:** Confirmar el curso escolar local. La edad por sí sola no acredita la admisión.
+
+**Oscar:** Confirmar el curso escolar local. La edad por sí sola no acredita la admisión.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar curso escolar, idioma de las actividades y plaza para cada menor.
+
+### 4 días
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**Precio:** CAD 450 por 4 días y menor.
+
+- 2026-12-21 · 09:00–15:30 · America/Toronto · Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.
+
+- 2026-12-22 · 09:00–15:30 · America/Toronto · Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.
+
+- 2026-12-23 · 09:00–15:30 · America/Toronto · Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.
+
+- 2026-12-24 · 09:00–15:30 · America/Toronto · Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18900990)
+
+### 1 día
+
+**Fechas / estado:** 2026-12-21 — 2026-12-21
+
+**Precio:** CAD 125 por 1 día y menor.
+
+- 2026-12-21 · 09:00–15:30 · America/Toronto · Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18901121)
+
+### 1 día
+
+**Fechas / estado:** 2026-12-22 — 2026-12-22
+
+**Precio:** CAD 125 por 1 día y menor.
+
+- 2026-12-22 · 09:00–15:30 · America/Toronto · Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18901131)
+
+### 1 día
+
+**Fechas / estado:** 2026-12-23 — 2026-12-23
+
+**Precio:** CAD 125 por 1 día y menor.
+
+- 2026-12-23 · 09:00–15:30 · America/Toronto · Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18904103)
+
+### 1 día
+
+**Fechas / estado:** 2026-12-24 — 2026-12-24
+
+**Precio:** CAD 125 por 1 día y menor.
+
+- 2026-12-24 · 09:00–15:30 · America/Toronto · Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18904105)
+
+### Fuentes
+
+- [Página oficial del organizador](https://makerkids.com/camps-in-bloor-west/) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18900990) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18901121) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18901131) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18904103) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18904105) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18901025) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18901033) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/courses/313076) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/courses/313078) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.com/cancellations/) · 2026-11-07
+
+## CP1790 · MakerKids Bloor West · North Pole Inventors Lab · Mini Makers
+
+Canadá · MakerKids Bloor West · 2451 Bloor Street West · Toronto
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Cursos escolares 1-2.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** Los dos grupos coinciden en una sede de 09:00 a 15:30. Se puede elegir el bloque o un día.
+
+**Precio / año:** 2026 · CAD 450 por 4 días o CAD 125 por día y menor.
+
+**Incluido:** Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+**Suplementos:** El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado.
+
+**Pago:** Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+
+**Matvey:** Confirmar el curso escolar local. La edad por sí sola no acredita la admisión.
+
+**Oscar:** Confirmar el curso escolar local. La edad por sí sola no acredita la admisión.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar curso escolar, idioma de las actividades y plaza para cada menor.
+
+### 4 días
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**Precio:** CAD 450 por 4 días y menor.
+
+- 2026-12-28 · 09:00–15:30 · America/Toronto · Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+- 2026-12-29 · 09:00–15:30 · America/Toronto · Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+- 2026-12-30 · 09:00–15:30 · America/Toronto · Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+- 2026-12-31 · 09:00–15:30 · America/Toronto · Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18901019)
+
+### 1 día
+
+**Fechas / estado:** 2026-12-28 — 2026-12-28
+
+**Precio:** CAD 125 por 1 día y menor.
+
+- 2026-12-28 · 09:00–15:30 · America/Toronto · Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18904120)
+
+### 1 día
+
+**Fechas / estado:** 2026-12-29 — 2026-12-29
+
+**Precio:** CAD 125 por 1 día y menor.
+
+- 2026-12-29 · 09:00–15:30 · America/Toronto · Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18904122)
+
+### 1 día
+
+**Fechas / estado:** 2026-12-30 — 2026-12-30
+
+**Precio:** CAD 125 por 1 día y menor.
+
+- 2026-12-30 · 09:00–15:30 · America/Toronto · Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18904124)
+
+### 1 día
+
+**Fechas / estado:** 2026-12-31 — 2026-12-31
+
+**Precio:** CAD 125 por 1 día y menor.
+
+- 2026-12-31 · 09:00–15:30 · America/Toronto · Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18904125)
+
+### Fuentes
+
+- [Página oficial del organizador](https://makerkids.com/camps-in-bloor-west/) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18901019) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18904120) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18904122) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18904124) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18904125) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18901040) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18901039) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/courses/313076) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/courses/313078) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.com/cancellations/) · 2026-11-07
+
+## CP1791 · MakerKids Bloor West · North Pole Inventors Lab · Idea Incubators
+
+Canadá · MakerKids Bloor West · 2451 Bloor Street West · Toronto
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Cursos escolares 3-8.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** Los dos grupos coinciden en una sede de 09:00 a 15:30. Se puede elegir el bloque o un día.
+
+**Precio / año:** 2026 · CAD 450 por 4 días o CAD 125 por día y menor.
+
+**Incluido:** Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+**Suplementos:** El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado.
+
+**Pago:** Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+
+**Matvey:** Confirmar el curso escolar local. La edad por sí sola no acredita la admisión.
+
+**Oscar:** Confirmar el curso escolar local. La edad por sí sola no acredita la admisión.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar curso escolar, idioma de las actividades y plaza para cada menor.
+
+### 4 días
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**Precio:** CAD 450 por 4 días y menor.
+
+- 2026-12-28 · 09:00–15:30 · America/Toronto · Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+- 2026-12-29 · 09:00–15:30 · America/Toronto · Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+- 2026-12-30 · 09:00–15:30 · America/Toronto · Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+- 2026-12-31 · 09:00–15:30 · America/Toronto · Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18901005)
+
+### 1 día
+
+**Fechas / estado:** 2026-12-28 — 2026-12-28
+
+**Precio:** CAD 125 por 1 día y menor.
+
+- 2026-12-28 · 09:00–15:30 · America/Toronto · Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18904107)
+
+### 1 día
+
+**Fechas / estado:** 2026-12-29 — 2026-12-29
+
+**Precio:** CAD 125 por 1 día y menor.
+
+- 2026-12-29 · 09:00–15:30 · America/Toronto · Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18904108)
+
+### 1 día
+
+**Fechas / estado:** 2026-12-30 — 2026-12-30
+
+**Precio:** CAD 125 por 1 día y menor.
+
+- 2026-12-30 · 09:00–15:30 · America/Toronto · Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18904109)
+
+### 1 día
+
+**Fechas / estado:** 2026-12-31 — 2026-12-31
+
+**Precio:** CAD 125 por 1 día y menor.
+
+- 2026-12-31 · 09:00–15:30 · America/Toronto · Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18904111)
+
+### Fuentes
+
+- [Página oficial del organizador](https://makerkids.com/camps-in-bloor-west/) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18901005) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18904107) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18904108) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18904109) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18904111) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18901040) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18901039) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/courses/313076) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/courses/313078) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.com/cancellations/) · 2026-11-07
+
+## CP1792 · MakerKids Leaside · Minecraft Frozen Kingdom · Mini Makers
+
+Canadá · MakerKids Leaside · 1661 Bayview Ave · Toronto
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Cursos escolares 1-2.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** Los dos grupos coinciden en una sede de 09:00 a 15:30. Se puede elegir el bloque o un día.
+
+**Precio / año:** 2026 · CAD 450 por 4 días o CAD 125 por día y menor.
+
+**Incluido:** Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.
+
+**Suplementos:** El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado.
+
+**Pago:** Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+
+**Matvey:** Confirmar el curso escolar local. La edad por sí sola no acredita la admisión.
+
+**Oscar:** Confirmar el curso escolar local. La edad por sí sola no acredita la admisión.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar curso escolar, idioma de las actividades y plaza para cada menor.
+
+### 4 días
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**Precio:** CAD 450 por 4 días y menor.
+
+- 2026-12-21 · 09:00–15:30 · America/Toronto · Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.
+
+- 2026-12-22 · 09:00–15:30 · America/Toronto · Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.
+
+- 2026-12-23 · 09:00–15:30 · America/Toronto · Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.
+
+- 2026-12-24 · 09:00–15:30 · America/Toronto · Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18900903)
+
+### 1 día
+
+**Fechas / estado:** 2026-12-21 — 2026-12-21
+
+**Precio:** CAD 125 por 1 día y menor.
+
+- 2026-12-21 · 09:00–15:30 · America/Toronto · Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18901082)
+
+### 1 día
+
+**Fechas / estado:** 2026-12-22 — 2026-12-22
+
+**Precio:** CAD 125 por 1 día y menor.
+
+- 2026-12-22 · 09:00–15:30 · America/Toronto · Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18901085)
+
+### 1 día
+
+**Fechas / estado:** 2026-12-23 — 2026-12-23
+
+**Precio:** CAD 125 por 1 día y menor.
+
+- 2026-12-23 · 09:00–15:30 · America/Toronto · Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18901092)
+
+### 1 día
+
+**Fechas / estado:** 2026-12-24 — 2026-12-24
+
+**Precio:** CAD 125 por 1 día y menor.
+
+- 2026-12-24 · 09:00–15:30 · America/Toronto · Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18901096)
+
+### Fuentes
+
+- [Página oficial del organizador](https://makerkids.com/camps-in-leaside/) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18900903) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18901082) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18901085) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18901092) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18901096) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18900927) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18900940) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/courses/312979) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/courses/313077) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.com/cancellations/) · 2026-11-07
+
+## CP1793 · MakerKids Leaside · Minecraft Frozen Kingdom · Idea Incubators
+
+Canadá · MakerKids Leaside · 1661 Bayview Ave · Toronto
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Cursos escolares 3-8.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** Los dos grupos coinciden en una sede de 09:00 a 15:30. Se puede elegir el bloque o un día.
+
+**Precio / año:** 2026 · CAD 450 por 4 días o CAD 125 por día y menor.
+
+**Incluido:** Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.
+
+**Suplementos:** El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado.
+
+**Pago:** Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+
+**Matvey:** Confirmar el curso escolar local. La edad por sí sola no acredita la admisión.
+
+**Oscar:** Confirmar el curso escolar local. La edad por sí sola no acredita la admisión.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar curso escolar, idioma de las actividades y plaza para cada menor.
+
+### 4 días
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**Precio:** CAD 450 por 4 días y menor.
+
+- 2026-12-21 · 09:00–15:30 · America/Toronto · Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.
+
+- 2026-12-22 · 09:00–15:30 · America/Toronto · Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.
+
+- 2026-12-23 · 09:00–15:30 · America/Toronto · Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.
+
+- 2026-12-24 · 09:00–15:30 · America/Toronto · Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18900892)
+
+### 1 día
+
+**Fechas / estado:** 2026-12-21 — 2026-12-21
+
+**Precio:** CAD 125 por 1 día y menor.
+
+- 2026-12-21 · 09:00–15:30 · America/Toronto · Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18901050)
+
+### 1 día
+
+**Fechas / estado:** 2026-12-22 — 2026-12-22
+
+**Precio:** CAD 125 por 1 día y menor.
+
+- 2026-12-22 · 09:00–15:30 · America/Toronto · Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18901055)
+
+### 1 día
+
+**Fechas / estado:** 2026-12-23 — 2026-12-23
+
+**Precio:** CAD 125 por 1 día y menor.
+
+- 2026-12-23 · 09:00–15:30 · America/Toronto · Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18901058)
+
+### 1 día
+
+**Fechas / estado:** 2026-12-24 — 2026-12-24
+
+**Precio:** CAD 125 por 1 día y menor.
+
+- 2026-12-24 · 09:00–15:30 · America/Toronto · Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18901063)
+
+### Fuentes
+
+- [Página oficial del organizador](https://makerkids.com/camps-in-leaside/) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18900892) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18901050) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18901055) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18901058) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18901063) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18900927) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18900940) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/courses/312979) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/courses/313077) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.com/cancellations/) · 2026-11-07
+
+## CP1794 · MakerKids Leaside · North Pole Inventors Lab · Mini Makers
+
+Canadá · MakerKids Leaside · 1661 Bayview Ave · Toronto
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Cursos escolares 1-2.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** Los dos grupos coinciden en una sede de 09:00 a 15:30. Se puede elegir el bloque o un día.
+
+**Precio / año:** 2026 · CAD 450 por 4 días o CAD 125 por día y menor.
+
+**Incluido:** Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+**Suplementos:** El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado.
+
+**Pago:** Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+
+**Matvey:** Confirmar el curso escolar local. La edad por sí sola no acredita la admisión.
+
+**Oscar:** Confirmar el curso escolar local. La edad por sí sola no acredita la admisión.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar curso escolar, idioma de las actividades y plaza para cada menor.
+
+### 4 días
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**Precio:** CAD 450 por 4 días y menor.
+
+- 2026-12-28 · 09:00–15:30 · America/Toronto · Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+- 2026-12-29 · 09:00–15:30 · America/Toronto · Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+- 2026-12-30 · 09:00–15:30 · America/Toronto · Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+- 2026-12-31 · 09:00–15:30 · America/Toronto · Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18900908)
+
+### 1 día
+
+**Fechas / estado:** 2026-12-28 — 2026-12-28
+
+**Precio:** CAD 125 por 1 día y menor.
+
+- 2026-12-28 · 09:00–15:30 · America/Toronto · Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18901099)
+
+### 1 día
+
+**Fechas / estado:** 2026-12-29 — 2026-12-29
+
+**Precio:** CAD 125 por 1 día y menor.
+
+- 2026-12-29 · 09:00–15:30 · America/Toronto · Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18901103)
+
+### 1 día
+
+**Fechas / estado:** 2026-12-30 — 2026-12-30
+
+**Precio:** CAD 125 por 1 día y menor.
+
+- 2026-12-30 · 09:00–15:30 · America/Toronto · Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18901107)
+
+### 1 día
+
+**Fechas / estado:** 2026-12-31 — 2026-12-31
+
+**Precio:** CAD 125 por 1 día y menor.
+
+- 2026-12-31 · 09:00–15:30 · America/Toronto · Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18901109)
+
+### Fuentes
+
+- [Página oficial del organizador](https://makerkids.com/camps-in-leaside/) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18900908) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18901099) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18901103) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18901107) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18901109) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18900931) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18900945) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/courses/312979) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/courses/313077) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.com/cancellations/) · 2026-11-07
+
+## CP1795 · MakerKids Leaside · North Pole Inventors Lab · Idea Incubators
+
+Canadá · MakerKids Leaside · 1661 Bayview Ave · Toronto
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Cursos escolares 3-8.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** Los dos grupos coinciden en una sede de 09:00 a 15:30. Se puede elegir el bloque o un día.
+
+**Precio / año:** 2026 · CAD 450 por 4 días o CAD 125 por día y menor.
+
+**Incluido:** Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+**Suplementos:** El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado.
+
+**Pago:** Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+
+**Matvey:** Confirmar el curso escolar local. La edad por sí sola no acredita la admisión.
+
+**Oscar:** Confirmar el curso escolar local. La edad por sí sola no acredita la admisión.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar curso escolar, idioma de las actividades y plaza para cada menor.
+
+### 4 días
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**Precio:** CAD 450 por 4 días y menor.
+
+- 2026-12-28 · 09:00–15:30 · America/Toronto · Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+- 2026-12-29 · 09:00–15:30 · America/Toronto · Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+- 2026-12-30 · 09:00–15:30 · America/Toronto · Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+- 2026-12-31 · 09:00–15:30 · America/Toronto · Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18900897)
+
+### 1 día
+
+**Fechas / estado:** 2026-12-28 — 2026-12-28
+
+**Precio:** CAD 125 por 1 día y menor.
+
+- 2026-12-28 · 09:00–15:30 · America/Toronto · Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18901064)
+
+### 1 día
+
+**Fechas / estado:** 2026-12-29 — 2026-12-29
+
+**Precio:** CAD 125 por 1 día y menor.
+
+- 2026-12-29 · 09:00–15:30 · America/Toronto · Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18901067)
+
+### 1 día
+
+**Fechas / estado:** 2026-12-30 — 2026-12-30
+
+**Precio:** CAD 125 por 1 día y menor.
+
+- 2026-12-30 · 09:00–15:30 · America/Toronto · Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18901072)
+
+### 1 día
+
+**Fechas / estado:** 2026-12-31 — 2026-12-31
+
+**Precio:** CAD 125 por 1 día y menor.
+
+- 2026-12-31 · 09:00–15:30 · America/Toronto · Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18901073)
+
+### Fuentes
+
+- [Página oficial del organizador](https://makerkids.com/camps-in-leaside/) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18900897) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18901064) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18901067) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18901072) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18901073) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18900931) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18900945) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/courses/312979) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/courses/313077) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.com/cancellations/) · 2026-11-07
+
+## CP1796 · MakerKids Mississauga South · Minecraft Frozen Kingdom · Mini Makers
+
+Canadá · MakerKids Mississauga South · 1900 Fowler Drive · Mississauga
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Cursos escolares 1-2.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** Los dos grupos coinciden en una sede de 09:00 a 15:30. Se puede elegir el bloque o un día.
+
+**Precio / año:** 2026 · CAD 450 por 4 días o CAD 125 por día y menor.
+
+**Incluido:** Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.
+
+**Suplementos:** El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado.
+
+**Pago:** Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+
+**Matvey:** Confirmar el curso escolar local. La edad por sí sola no acredita la admisión.
+
+**Oscar:** Confirmar el curso escolar local. La edad por sí sola no acredita la admisión.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar curso escolar, idioma de las actividades y plaza para cada menor.
+
+### 4 días
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**Precio:** CAD 450 por 4 días y menor.
+
+- 2026-12-21 · 09:00–15:30 · America/Toronto · Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.
+
+- 2026-12-22 · 09:00–15:30 · America/Toronto · Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.
+
+- 2026-12-23 · 09:00–15:30 · America/Toronto · Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.
+
+- 2026-12-24 · 09:00–15:30 · America/Toronto · Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18900295)
+
+### 1 día
+
+**Fechas / estado:** 2026-12-21 — 2026-12-21
+
+**Precio:** CAD 125 por 1 día y menor.
+
+- 2026-12-21 · 09:00–15:30 · America/Toronto · Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18900333)
+
+### 1 día
+
+**Fechas / estado:** 2026-12-22 — 2026-12-22
+
+**Precio:** CAD 125 por 1 día y menor.
+
+- 2026-12-22 · 09:00–15:30 · America/Toronto · Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18900342)
+
+### 1 día
+
+**Fechas / estado:** 2026-12-23 — 2026-12-23
+
+**Precio:** CAD 125 por 1 día y menor.
+
+- 2026-12-23 · 09:00–15:30 · America/Toronto · Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18900346)
+
+### 1 día
+
+**Fechas / estado:** 2026-12-24 — 2026-12-24
+
+**Precio:** CAD 125 por 1 día y menor.
+
+- 2026-12-24 · 09:00–15:30 · America/Toronto · Minecraft. Primeras construcciones, creatividad y resolución de retos en un mundo invernal.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18900351)
+
+### Fuentes
+
+- [Página oficial del organizador](https://makerkids.com/makerkids-mississauga/stem-camps-in-mississauga/) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18900295) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18900333) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18900342) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18900346) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18900351) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18900468) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18900490) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/courses/335597) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/courses/335599) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.com/cancellations/) · 2026-11-07
+
+## CP1797 · MakerKids Mississauga South · Minecraft Frozen Kingdom · Idea Incubators
+
+Canadá · MakerKids Mississauga South · 1900 Fowler Drive · Mississauga
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Cursos escolares 3-8.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** Los dos grupos coinciden en una sede de 09:00 a 15:30. Se puede elegir el bloque o un día.
+
+**Precio / año:** 2026 · CAD 450 por 4 días o CAD 125 por día y menor.
+
+**Incluido:** Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.
+
+**Suplementos:** El cuidado de 08:00–09:00 y de 15:30–17:00 se reserva por separado.
+
+**Pago:** Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+
+**Matvey:** Confirmar el curso escolar local. La edad por sí sola no acredita la admisión.
+
+**Oscar:** Confirmar el curso escolar local. La edad por sí sola no acredita la admisión.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar curso escolar, idioma de las actividades y plaza para cada menor.
+
+### 4 días
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**Precio:** CAD 450 por 4 días y menor.
+
+- 2026-12-21 · 09:00–15:30 · America/Toronto · Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.
+
+- 2026-12-22 · 09:00–15:30 · America/Toronto · Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.
+
+- 2026-12-23 · 09:00–15:30 · America/Toronto · Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.
+
+- 2026-12-24 · 09:00–15:30 · America/Toronto · Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18900321)
+
+### 1 día
+
+**Fechas / estado:** 2026-12-21 — 2026-12-21
+
+**Precio:** CAD 125 por 1 día y menor.
+
+- 2026-12-21 · 09:00–15:30 · America/Toronto · Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18900387)
+
+### 1 día
+
+**Fechas / estado:** 2026-12-22 — 2026-12-22
+
+**Precio:** CAD 125 por 1 día y menor.
+
+- 2026-12-22 · 09:00–15:30 · America/Toronto · Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18900394)
+
+### 1 día
+
+**Fechas / estado:** 2026-12-23 — 2026-12-23
+
+**Precio:** CAD 125 por 1 día y menor.
+
+- 2026-12-23 · 09:00–15:30 · America/Toronto · Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18900398)
+
+### 1 día
+
+**Fechas / estado:** 2026-12-24 — 2026-12-24
+
+**Precio:** CAD 125 por 1 día y menor.
+
+- 2026-12-24 · 09:00–15:30 · America/Toronto · Minecraft. Construcción, Redstone y modificaciones en un mundo invernal.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18900400)
+
+### Fuentes
+
+- [Página oficial del organizador](https://makerkids.com/makerkids-mississauga/stem-camps-in-mississauga/) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18900321) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18900387) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18900394) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18900398) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18900400) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18900468) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18900490) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/courses/335597) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/courses/335599) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.com/cancellations/) · 2026-11-07
+
+## CP1798 · MakerKids Mississauga South · North Pole Inventors Lab · Mini Makers
+
+Canadá · MakerKids Mississauga South · 1900 Fowler Drive · Mississauga
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Cursos escolares 1-2.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** Los dos grupos coinciden en una sede de 09:00 a 15:30. Se puede elegir el bloque o un día.
+
+**Precio / año:** 2026 · CAD 450 por 4 días o CAD 125 por día y menor.
+
+**Incluido:** Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+**Suplementos:** Cuidado matinal 08:00–09:00. Cuidado vespertino hasta las 17:30 con el bloque o hasta las 17:00 con un día.
+
+**Pago:** Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+
+**Matvey:** Confirmar el curso escolar local. La edad por sí sola no acredita la admisión.
+
+**Oscar:** Confirmar el curso escolar local. La edad por sí sola no acredita la admisión.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar curso escolar, idioma de las actividades y plaza para cada menor.
+
+### 4 días
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**Precio:** CAD 450 por 4 días y menor.
+
+- 2026-12-28 · 09:00–15:30 · America/Toronto · Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+- 2026-12-29 · 09:00–15:30 · America/Toronto · Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+- 2026-12-30 · 09:00–15:30 · America/Toronto · Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+- 2026-12-31 · 09:00–15:30 · America/Toronto · Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18900308)
+
+### 1 día
+
+**Fechas / estado:** 2026-12-28 — 2026-12-28
+
+**Precio:** CAD 125 por 1 día y menor.
+
+- 2026-12-28 · 09:00–15:30 · America/Toronto · Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18900354)
+
+### 1 día
+
+**Fechas / estado:** 2026-12-29 — 2026-12-29
+
+**Precio:** CAD 125 por 1 día y menor.
+
+- 2026-12-29 · 09:00–15:30 · America/Toronto · Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18900359)
+
+### 1 día
+
+**Fechas / estado:** 2026-12-30 — 2026-12-30
+
+**Precio:** CAD 125 por 1 día y menor.
+
+- 2026-12-30 · 09:00–15:30 · America/Toronto · Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18900363)
+
+### 1 día
+
+**Fechas / estado:** 2026-12-31 — 2026-12-31
+
+**Precio:** CAD 125 por 1 día y menor.
+
+- 2026-12-31 · 09:00–15:30 · America/Toronto · Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18900369)
+
+### Fuentes
+
+- [Página oficial del organizador](https://makerkids.com/makerkids-mississauga/stem-camps-in-mississauga/) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18900308) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18900354) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18900359) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18900363) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18900369) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18900475) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18900493) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/courses/335597) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/courses/335599) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.com/cancellations/) · 2026-11-07
+
+## CP1799 · MakerKids Mississauga South · North Pole Inventors Lab · Idea Incubators
+
+Canadá · MakerKids Mississauga South · 1900 Fowler Drive · Mississauga
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Cursos escolares 3-8.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** Los dos grupos coinciden en una sede de 09:00 a 15:30. Se puede elegir el bloque o un día.
+
+**Precio / año:** 2026 · CAD 450 por 4 días o CAD 125 por día y menor.
+
+**Incluido:** Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+**Suplementos:** Cuidado matinal 08:00–09:00. Cuidado vespertino hasta las 17:30 con el bloque o hasta las 17:00 con un día.
+
+**Pago:** Para reembolso ordinario se cancela con 2 semanas de antelación. Después depende de cubrir la plaza. A 72 horas o por inasistencia no hay reembolso.
+
+**Matvey:** Confirmar el curso escolar local. La edad por sí sola no acredita la admisión.
+
+**Oscar:** Confirmar el curso escolar local. La edad por sí sola no acredita la admisión.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar curso escolar, idioma de las actividades y plaza para cada menor.
+
+### 4 días
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**Precio:** CAD 450 por 4 días y menor.
+
+- 2026-12-28 · 09:00–15:30 · America/Toronto · Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+- 2026-12-29 · 09:00–15:30 · America/Toronto · Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+- 2026-12-30 · 09:00–15:30 · America/Toronto · Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+- 2026-12-31 · 09:00–15:30 · America/Toronto · Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18900328)
+
+### 1 día
+
+**Fechas / estado:** 2026-12-28 — 2026-12-28
+
+**Precio:** CAD 125 por 1 día y menor.
+
+- 2026-12-28 · 09:00–15:30 · America/Toronto · Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18900408)
+
+### 1 día
+
+**Fechas / estado:** 2026-12-29 — 2026-12-29
+
+**Precio:** CAD 125 por 1 día y menor.
+
+- 2026-12-29 · 09:00–15:30 · America/Toronto · Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18900420)
+
+### 1 día
+
+**Fechas / estado:** 2026-12-30 — 2026-12-30
+
+**Precio:** CAD 125 por 1 día y menor.
+
+- 2026-12-30 · 09:00–15:30 · America/Toronto · Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18900456)
+
+### 1 día
+
+**Fechas / estado:** 2026-12-31 — 2026-12-31
+
+**Precio:** CAD 125 por 1 día y menor.
+
+- 2026-12-31 · 09:00–15:30 · America/Toronto · Laboratorio invernal de inventos. Programación, robótica y Minecraft.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://makerkids.pike13.com/events/18900438)
+
+### Fuentes
+
+- [Página oficial del organizador](https://makerkids.com/makerkids-mississauga/stem-camps-in-mississauga/) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18900328) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18900408) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18900420) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18900456) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18900438) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18900475) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/events/18900493) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/courses/335597) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.pike13.com/courses/335599) · 2026-11-07
+
+- [Página oficial del organizador](https://makerkids.com/cancellations/) · 2026-11-07
+
+## CP1800 · Spark Techies · PD Day STEM Camp
+
+Canadá · Spark Techies · 1742 Hydepark Road · London, Ontario
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** De 6–13 años.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Construcción con LEGO, programación de robots, modelado e impresión 3D.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** Actividades 09:00–15:30. Confirmar entrega y recogida para la sesión elegida.
+
+**Precio / año:** 2026 · CAD 80 + HST 13%, total CAD 90.40 por menor.
+
+**Incluido:** Construcción con LEGO, programación de robots, modelado e impresión 3D.
+
+**Suplementos:** Comida y recogida tardía por separado. Precio sin publicar. Llevar agua, comida y 2 tentempiés sin frutos secos.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+**Oscar:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar curso escolar, idioma de las actividades y plaza para cada menor.
+
+### Calendario de centros privados
+
+**Fechas / estado:** 2026-11-13 — 2026-11-13
+
+**Precio:** CAD 80 + HST 13%, total CAD 90.40 por menor.
+
+**condiciones de participación:** El formulario cierra el 13 de noviembre de 2026 a las 00:00. En este formulario, entrega 08:50–09:00 y recogida 15:30–15:45.
+
+- 2026-11-13 · 09:00–15:30 · America/Toronto · Construcción con LEGO, programación de robots, modelado e impresión 3D.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://sparktechies.uplifterinc.com/registration/camps/)
+
+### Calendario de todos los centros
+
+**Fechas / estado:** 2027-01-15 — 2027-01-15
+
+**Precio:** CAD 80 + HST 13%, total CAD 90.40 por menor.
+
+- 2027-01-15 · 09:00–15:30 · America/Toronto · Construcción con LEGO, programación de robots, modelado e impresión 3D.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://sparktechies.ca/kids-camps/)
+
+### Calendario de centros privados
+
+**Fechas / estado:** 2027-01-29 — 2027-01-29
+
+**Precio:** CAD 80 + HST 13%, total CAD 90.40 por menor.
+
+- 2027-01-29 · 09:00–15:30 · America/Toronto · Construcción con LEGO, programación de robots, modelado e impresión 3D.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://sparktechies.ca/kids-camps/)
+
+### Calendario de centros privados
+
+**Fechas / estado:** 2027-02-05 — 2027-02-05
+
+**Precio:** CAD 80 + HST 13%, total CAD 90.40 por menor.
+
+- 2027-02-05 · 09:00–15:30 · America/Toronto · Construcción con LEGO, programación de robots, modelado e impresión 3D.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://sparktechies.ca/kids-camps/)
+
+### Calendario de centros privados
+
+**Fechas / estado:** 2027-02-12 — 2027-02-12
+
+**Precio:** CAD 80 + HST 13%, total CAD 90.40 por menor.
+
+- 2027-02-12 · 09:00–15:30 · America/Toronto · Construcción con LEGO, programación de robots, modelado e impresión 3D.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://sparktechies.ca/kids-camps/)
+
+### Fuentes
+
+- [Página oficial del organizador](https://sparktechies.ca/kids-camps/) · 2026-11-07
+
+- [Página oficial del organizador](https://sparktechies.ca/) · 2026-11-07
+
+- [Página oficial del organizador](https://sparktechies.uplifterinc.com/registration/camps/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate.html) · 2026-11-07
+
+## CP1801 · Spark Techies · March Break STEM Camp
+
+Canadá · Spark Techies · 1742 Hydepark Road · London, Ontario
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** De 6–13 años.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Construcción con LEGO, programación de robots, modelado e impresión 3D.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** Actividades 09:00–15:30. Confirmar entrega y recogida para la sesión elegida.
+
+**Precio / año:** 2027 · CAD 380 + HST 13%, total CAD 429.40 por menor. La web indica tarifa anticipada de CAD 350 + HST. Su plazo no figura.
+
+**Incluido:** Construcción con LEGO, programación de robots, modelado e impresión 3D.
+
+**Suplementos:** Comida y recogida tardía por separado. Precio sin publicar. Llevar agua, comida y 2 tentempiés sin frutos secos.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+**Oscar:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar curso escolar, idioma de las actividades y plaza para cada menor.
+
+### Calendario de centros privados
+
+**Fechas / estado:** 2027-03-08 — 2027-03-12
+
+**Precio:** CAD 380 + HST 13%, total CAD 429.40 por menor. La web indica tarifa anticipada de CAD 350 + HST. Su plazo no figura.
+
+**condiciones de participación:** El formulario indica cierre el 7 de marzo de 2027 a las 00:00. Confirmar plaza y condiciones de admisión.
+
+- 2027-03-08 · 09:00–15:30 · America/Toronto · Construcción con LEGO, programación de robots, modelado e impresión 3D.
+
+- 2027-03-09 · 09:00–15:30 · America/Toronto · Construcción con LEGO, programación de robots, modelado e impresión 3D.
+
+- 2027-03-10 · 09:00–15:30 · America/Toronto · Construcción con LEGO, programación de robots, modelado e impresión 3D.
+
+- 2027-03-11 · 09:00–15:30 · America/Toronto · Construcción con LEGO, programación de robots, modelado e impresión 3D.
+
+- 2027-03-12 · 09:00–15:30 · America/Toronto · Construcción con LEGO, programación de robots, modelado e impresión 3D.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://sparktechies.uplifterinc.com/registration/camps/)
+
+### Calendario de todos los centros
+
+**Fechas / estado:** 2027-03-15 — 2027-03-19
+
+**Precio:** CAD 380 + HST 13%, total CAD 429.40 por menor. La web indica tarifa anticipada de CAD 350 + HST. Su plazo no figura.
+
+**condiciones de participación:** El formulario indica cierre el 8 de marzo de 2027 a las 00:00. Confirmar plaza y condiciones de admisión.
+
+- 2027-03-15 · 09:00–15:30 · America/Toronto · Construcción con LEGO, programación de robots, modelado e impresión 3D.
+
+- 2027-03-16 · 09:00–15:30 · America/Toronto · Construcción con LEGO, programación de robots, modelado e impresión 3D.
+
+- 2027-03-17 · 09:00–15:30 · America/Toronto · Construcción con LEGO, programación de robots, modelado e impresión 3D.
+
+- 2027-03-18 · 09:00–15:30 · America/Toronto · Construcción con LEGO, programación de robots, modelado e impresión 3D.
+
+- 2027-03-19 · 09:00–15:30 · America/Toronto · Construcción con LEGO, programación de robots, modelado e impresión 3D.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://sparktechies.uplifterinc.com/registration/camps/)
+
+### Fuentes
+
+- [Página oficial del organizador](https://sparktechies.ca/kids-camps/) · 2026-11-07
+
+- [Página oficial del organizador](https://sparktechies.ca/) · 2026-11-07
+
+- [Página oficial del organizador](https://sparktechies.uplifterinc.com/registration/camps/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate.html) · 2026-11-07
+
+## CP1802 · Spark Techies · March Break · Private Schools
+
+Canadá · Spark Techies · 1742 Hydepark Road · London, Ontario
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** De 6–13 años.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Construcción con LEGO, programación de robots, modelado e impresión 3D.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** El formulario indica ventana del 22–26 de marzo de 2027 y 4 clases, la web indicaba del 22–25 de marzo. Confirmar días exactos. El formulario indica cierre el 15 de marzo a las 00:00.
+
+**Precio / año:** 2027 · CAD 300 + HST 13%, total CAD 339 por menor a la tarifa publicada.
+
+**Incluido:** Construcción con LEGO, programación de robots, modelado e impresión 3D.
+
+**Suplementos:** Comida y recogida tardía por separado. Precio sin publicar. Llevar agua, comida y 2 tentempiés sin frutos secos.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+**Oscar:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar curso escolar, idioma de las actividades y plaza para cada menor.
+
+### Fuentes
+
+- [Página oficial del organizador](https://sparktechies.ca/kids-camps/) · 2026-11-07
+
+- [Página oficial del organizador](https://sparktechies.ca/) · 2026-11-07
+
+- [Página oficial del organizador](https://sparktechies.uplifterinc.com/registration/camps/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate.html) · 2026-11-07
+
+## CP1803 · VISST · Maker Lab · Digital Design and Fabrication
+
+Canadá · VISST · 1490 West Broadway · Vancouver
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados escolares 5–9.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Diseño digital, corte láser y Cricut. Portátil con Inkscape, Cricut Design Space y xTool Studio.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** 22–26 de marzo de 2027. Se pueden combinar los dos itinerarios el mismo día.
+
+**Precio / año:** 2027 · CAD 300 por un itinerario o CAD 570 por los dos itinerarios por participante.
+
+**Incluido:** Diseño digital, corte láser y Cricut. Portátil con Inkscape, Cricut Design Space y xTool Studio.
+
+**Suplementos:** Si se eligen ambos itinerarios, el organizador supervisa a los participantes durante el descanso para comer. Se necesita portátil propio.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Confirmar el curso escolar local. La edad por sí sola no acredita la admisión.
+
+**Oscar:** Confirmar el curso escolar local. La edad por sí sola no acredita la admisión.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar curso escolar, idioma de las actividades y plaza para cada menor.
+
+### 09:00–12:00
+
+**Fechas / estado:** 2027-03-22 — 2027-03-26
+
+**Precio:** CAD 300 por un itinerario o CAD 570 por los dos itinerarios por participante.
+
+- 2027-03-22 · 09:00–12:00 · America/Vancouver · Diseño digital, corte láser y Cricut. Portátil con Inkscape, Cricut Design Space y xTool Studio.
+
+- 2027-03-23 · 09:00–12:00 · America/Vancouver · Diseño digital, corte láser y Cricut. Portátil con Inkscape, Cricut Design Space y xTool Studio.
+
+- 2027-03-24 · 09:00–12:00 · America/Vancouver · Diseño digital, corte láser y Cricut. Portátil con Inkscape, Cricut Design Space y xTool Studio.
+
+- 2027-03-25 · 09:00–12:00 · America/Vancouver · Diseño digital, corte láser y Cricut. Portátil con Inkscape, Cricut Design Space y xTool Studio.
+
+- 2027-03-26 · 09:00–12:00 · America/Vancouver · Diseño digital, corte láser y Cricut. Portátil con Inkscape, Cricut Design Space y xTool Studio.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://www.visst.ca/camps/makerlab-spring)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.visst.ca/camps/makerlab-spring) · 2026-11-07
+
+- [Página oficial del organizador](https://www.visst.ca/camps/arcade) · 2026-11-07
+
+## CP1804 · VISST · Arcade Action Coding
+
+Canadá · VISST · 1490 West Broadway · Vancouver
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Cursos escolares 5–8.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Desarrollo de videojuegos arcade. Portátil con Godot e Inkscape.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** 22–26 de marzo de 2027. Se pueden combinar los dos itinerarios el mismo día.
+
+**Precio / año:** 2027 · CAD 300 por un itinerario o CAD 570 por los dos itinerarios por participante.
+
+**Incluido:** Desarrollo de videojuegos arcade. Portátil con Godot e Inkscape.
+
+**Suplementos:** Si se eligen ambos itinerarios, el organizador supervisa a los participantes durante el descanso para comer. Se necesita portátil propio.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Confirmar el curso escolar local. La edad por sí sola no acredita la admisión.
+
+**Oscar:** Confirmar el curso escolar local. La edad por sí sola no acredita la admisión.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar curso escolar, idioma de las actividades y plaza para cada menor.
+
+### 13:00–16:00
+
+**Fechas / estado:** 2027-03-22 — 2027-03-26
+
+**Precio:** CAD 300 por un itinerario o CAD 570 por los dos itinerarios por participante.
+
+- 2027-03-22 · 13:00–16:00 · America/Vancouver · Desarrollo de videojuegos arcade. Portátil con Godot e Inkscape.
+
+- 2027-03-23 · 13:00–16:00 · America/Vancouver · Desarrollo de videojuegos arcade. Portátil con Godot e Inkscape.
+
+- 2027-03-24 · 13:00–16:00 · America/Vancouver · Desarrollo de videojuegos arcade. Portátil con Godot e Inkscape.
+
+- 2027-03-25 · 13:00–16:00 · America/Vancouver · Desarrollo de videojuegos arcade. Portátil con Godot e Inkscape.
+
+- 2027-03-26 · 13:00–16:00 · America/Vancouver · Desarrollo de videojuegos arcade. Portátil con Godot e Inkscape.
+
+**Disponibilidad de plazas:** Hay inscripción pública. Disponibilidad sin confirmar.
+
+[fuente](https://www.visst.ca/camps/arcade)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.visst.ca/camps/arcade) · 2026-11-07
+
+- [Página oficial del organizador](https://www.visst.ca/camps/makerlab-spring) · 2026-11-07
+
+## CP1805 · VISST · Creative Technology and Design for Girls
+
+Canadá · VISST · 1490 West Broadway · Vancouver
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Chicas y estudiantes no binarios de 6 o 7 curso de Metro Vancouver. Solicitud y selección.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Diseño y fabricación digital, corte láser y videojuegos con Godot.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** La cabecera indica 15–19 de marzo de 2027 y el texto 15–19 de marzo de 2026. El formulario indica plazo hasta el 15 de enero de 2027. Confirmar fechas.
+
+**Precio / año:** 2027 · CAD 25 tras la selección.
+
+**Incluido:** Diseño y fabricación digital, corte láser y videojuegos con Godot.
+
+**Suplementos:** Se necesita portátil propio con teclado y ratón.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** No consta categoría abierta para ambos niños.
+
+**Oscar:** No consta categoría abierta para ambos niños.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar curso escolar, idioma de las actividades y plaza para cada menor.
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.visst.ca/camps/creative-tech-for-girls) · 2026-11-07
+
+## CP1806 · York Region Educational Services · Nova Spark Jr. #36415
+
+Canadá · 3100 Steeles Ave E · Markham
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** De 6–9 años.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** LEGO, Scratch, trabajo en equipo y presentación de proyecto en el festival Explore.
+
+**Alojamiento:** Taller presencial breve sin alojamiento.
+
+**Fechas / estado:** La inscripción del equipo actual cerró. El equipo se prepara para FIRST LEGO League Explore. Festival previsto para abril o mayo sin fecha ni sede exactas.
+
+**Precio / año:** 2026 · CAD 300 por el curso anunciado de 16 clases. La FAQ enumera 15 fechas de clase y el festival aparte.
+
+**Incluido:** LEGO, Scratch, trabajo en equipo y presentación de proyecto en el festival Explore.
+
+**Suplementos:** El centro proporciona los materiales.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+**Oscar:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad exacta de acceso y plaza con el recinto.
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.yorkeducation.org/programs/team-nova-spark) · 2026-11-07
 
 ## ~ Comprobaciones no cerradas
 

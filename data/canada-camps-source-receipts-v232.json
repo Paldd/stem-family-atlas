@@ -1,0 +1,2827 @@
+{
+  "captures": [
+    {
+      "key": "visst-camps",
+      "url": "https://www.visst.ca/camps",
+      "checked_at": "2026-11-07T18:05:00.243955+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.visst.ca/camps",
+      "content_type": "text/html;charset=utf-8",
+      "file": "visst-camps.html",
+      "bytes": 803162,
+      "sha256": "55f174603cabd2a36813a73bead5cb3b282230b921ca2379b13c93d34aaaa7e8"
+    },
+    {
+      "key": "sparktechies",
+      "url": "https://sparktechies.ca/kids-camps/",
+      "checked_at": "2026-11-07T18:05:00.244418+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://sparktechies.ca/kids-camps/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "sparktechies.html",
+      "bytes": 151849,
+      "sha256": "f5b11583c3268cb243cf06a12788aa85b0e3eb1198c2dbb1ee2929edbbc346aa"
+    },
+    {
+      "key": "makerkids",
+      "url": "https://makerkids.com/camps/",
+      "checked_at": "2026-11-07T18:05:00.248184+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.com/camps/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "makerkids.html",
+      "bytes": 212587,
+      "sha256": "1bcb81a97ec203e44e3b0d13735d5e469978d5679c4e487e45f7eabd924092cb"
+    },
+    {
+      "key": "robokids",
+      "url": "https://www.robokids.ca/en/weekly-camps/",
+      "checked_at": "2026-11-07T18:05:00.250685+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.robokids.ca/en/weekly-camps/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "robokids.html",
+      "bytes": 17217,
+      "sha256": "2a463c82401dd69f8089824623c78eaa19d781ca86cdf7e3aa8925d49c388a2b"
+    },
+    {
+      "key": "codeit-hacks",
+      "url": "https://www.codeithackskids.com/summer-stem-camps/march-break-coding-camps",
+      "checked_at": "2026-11-07T18:05:00.251960+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.codeithackskids.com/summer-stem-camps/march-break-coding-camps",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "codeit-hacks.html",
+      "bytes": 1665454,
+      "sha256": "acdd8b3664a614be5a7192ab1b6b9db0d5b860891ae4a7eaea092734ea240c72"
+    },
+    {
+      "key": "sc4k",
+      "url": "https://www.sc4k.ca/ourservices/stem-spring-camp",
+      "checked_at": "2026-11-07T18:05:00.256635+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.sc4k.ca/ourservices/stem-spring-camp",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "sc4k.html",
+      "bytes": 1369635,
+      "sha256": "f49ece93996f9db931d992869c178ae56740d799a8e38e3284cbc483a8adf6e6"
+    },
+    {
+      "key": "makerkids-book",
+      "url": "https://makerkids.com/book-a-camp/",
+      "checked_at": "2026-11-07T18:06:46.568025+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.com/book-a-camp/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "makerkids-book.html",
+      "bytes": 124470,
+      "sha256": "718ff55533ca70a4d09b7c00141beccf0c81e6e7f69a0bbc98b111a1ebc4d984"
+    },
+    {
+      "key": "makerkids-leaside",
+      "url": "https://makerkids.com/camps-in-leaside/",
+      "checked_at": "2026-11-07T18:06:46.568383+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.com/camps-in-leaside/",
+      "content_type": "text/html; charset=utf-8",
+      "file": "makerkids-leaside.html",
+      "bytes": 217917,
+      "sha256": "6a339ca121d0069e72691a871891310af2f6b5fa5c0d12540a98e4ef54107952"
+    },
+    {
+      "key": "makerkids-bloor",
+      "url": "https://makerkids.com/camps-in-bloor-west/",
+      "checked_at": "2026-11-07T18:06:46.572571+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.com/camps-in-bloor-west/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "makerkids-bloor.html",
+      "bytes": 226762,
+      "sha256": "cd155d9a1afe70a748dcb53913898d47070cc7820ca7e3583e5ed164e75a22c3"
+    },
+    {
+      "key": "makerkids-mississauga",
+      "url": "https://makerkids.com/makerkids-mississauga/stem-camps-in-mississauga/",
+      "checked_at": "2026-11-07T18:06:46.574722+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.com/makerkids-mississauga/stem-camps-in-mississauga/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "makerkids-mississauga.html",
+      "bytes": 203112,
+      "sha256": "3932972481a61701e41587180de59536c2f38643956b5d18f715d0225413f565"
+    },
+    {
+      "key": "spark-march-private",
+      "url": "https://sparktechies.uplifterinc.com/registration/product-detail/26-MARCHBREAK-CAMP-PRIVATESCHOOLS-1",
+      "checked_at": "2026-11-07T18:16:11.025080+00:00",
+      "transport": "curl",
+      "status": 403,
+      "final_url": "https://sparktechies.uplifterinc.com/registration/product-detail/26-MARCHBREAK-CAMP-PRIVATESCHOOLS-1",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "key": "spark-march-all",
+      "url": "https://sparktechies.uplifterinc.com/registration/product-detail/26-MARCHBREAK-CAMP-ALLSCHOOLS",
+      "checked_at": "2026-11-07T18:16:11.026222+00:00",
+      "transport": "curl",
+      "status": 403,
+      "final_url": "https://sparktechies.uplifterinc.com/registration/product-detail/26-MARCHBREAK-CAMP-ALLSCHOOLS",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "key": "maker-bloor-sample",
+      "url": "https://makerkids.pike13.com/events/18901013",
+      "checked_at": "2026-11-07T18:16:11.026631+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18901013",
+      "content_type": "text/html; charset=utf-8",
+      "file": "maker-bloor-sample.html",
+      "bytes": 18989,
+      "sha256": "421a7cf29b4ca126b16f4eb3eb86f2a3fe150bcd45a6f209315b4af452e99adc"
+    },
+    {
+      "key": "maker-bloor-care",
+      "url": "https://makerkids.pike13.com/courses/313076",
+      "checked_at": "2026-11-07T18:16:11.026736+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/courses/313076",
+      "content_type": "text/html; charset=utf-8",
+      "file": "maker-bloor-care.html",
+      "bytes": 20724,
+      "sha256": "5a945b3f29d8190f9973c4e54af42583004bab311d35b1e68b3527e588370064"
+    },
+    {
+      "key": "maker-leaside-sample",
+      "url": "https://makerkids.pike13.com/events/18900903",
+      "checked_at": "2026-11-07T18:16:11.029100+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18900903",
+      "content_type": "text/html; charset=utf-8",
+      "file": "maker-leaside-sample.html",
+      "bytes": 18973,
+      "sha256": "222dcfbf07b78b67014c5f905e8f257ee3dcc89179ba1734085cbb50dad76406"
+    },
+    {
+      "key": "maker-mississauga-sample",
+      "url": "https://makerkids.pike13.com/events/18900295",
+      "checked_at": "2026-11-07T18:16:11.029604+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18900295",
+      "content_type": "text/html; charset=utf-8",
+      "file": "maker-mississauga-sample.html",
+      "bytes": 19065,
+      "sha256": "d4746fe4a7e97a12234baeb84ebb0574705fe652bb60b0e5e4eb32ab561b47e1"
+    },
+    {
+      "key": "maker-cancellation",
+      "url": "https://makerkids.com/cancellations/",
+      "checked_at": "2026-11-07T18:16:11.030801+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.com/cancellations/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "maker-cancellation.html",
+      "bytes": 123296,
+      "sha256": "a17169cacb12042aac88db686a202fc71f10dd89cb0ecdc80f7e2540068ac12f"
+    },
+    {
+      "key": "spark-index",
+      "url": "https://sparktechies.uplifterinc.com/registration/",
+      "checked_at": "2026-11-07T18:34:32.770593+00:00",
+      "transport": "curl",
+      "status": 403,
+      "final_url": "https://sparktechies.uplifterinc.com/registration/",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "key": "spark-venue",
+      "url": "https://sparktechies.ca/",
+      "checked_at": "2026-11-07T18:34:32.770874+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://sparktechies.ca/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "spark-venue.html",
+      "bytes": 150441,
+      "sha256": "9aa06e15441f90cdf1a89a1c177990058af6f5683f1fea0ba490a18c4b68aad7"
+    },
+    {
+      "key": "spark-camps-now",
+      "url": "https://sparktechies.ca/kids-camps/",
+      "checked_at": "2026-11-07T18:34:32.772039+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://sparktechies.ca/kids-camps/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "spark-camps-now.html",
+      "bytes": 151849,
+      "sha256": "f5b11583c3268cb243cf06a12788aa85b0e3eb1198c2dbb1ee2929edbbc346aa"
+    },
+    {
+      "key": "maker-bloor-booking",
+      "url": "https://makerkids.pike13.com/locations/makerkids-bloor-west",
+      "checked_at": "2026-11-07T18:34:32.772534+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/locations/makerkids-bloor-west",
+      "content_type": "text/html; charset=utf-8",
+      "file": "maker-bloor-booking.html",
+      "bytes": 238421,
+      "sha256": "d3794e693ad48d76bb6248072973301e2c5972d561e518c09a92cc1fc6ff6297"
+    },
+    {
+      "key": "maker-leaside-booking",
+      "url": "https://makerkids.pike13.com/categories/92893",
+      "checked_at": "2026-11-07T18:34:32.775061+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/categories/92893",
+      "content_type": "text/html; charset=utf-8",
+      "file": "maker-leaside-booking.html",
+      "bytes": 30530,
+      "sha256": "feb40d13dc239125f5152f33f2b4eeb6405bd138705ac1f9a21c381cf2c9ee50"
+    },
+    {
+      "key": "maker-mississauga-booking",
+      "url": "https://makerkids.pike13.com/locations/makerkids-mississauga-south",
+      "checked_at": "2026-11-07T18:34:32.778533+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/locations/makerkids-mississauga-south",
+      "content_type": "text/html; charset=utf-8",
+      "file": "maker-mississauga-booking.html",
+      "bytes": 238476,
+      "sha256": "f6a452c6921a7b757f4e4de765fec2cae48b38d875a99d505d83fdefe69744ca"
+    },
+    {
+      "key": "hst-ontario",
+      "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate.html",
+      "checked_at": "2026-11-07T18:34:32.784044+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate.html",
+      "content_type": "text/html;charset=utf-8",
+      "file": "hst-ontario.html",
+      "bytes": 40822,
+      "sha256": "b527530a4e6cecd7d537adec0c242e0c66374085a783b4bcb58198e2c91437b5"
+    },
+    {
+      "key": "visst-arcade",
+      "url": "https://www.visst.ca/camps/arcade",
+      "checked_at": "2026-11-07T18:34:32.786969+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.visst.ca/camps/arcade",
+      "content_type": "text/html;charset=utf-8",
+      "file": "visst-arcade.html",
+      "bytes": 464984,
+      "sha256": "dcfd1fb34cf021c5691f641342b0f43db9e41b1c02e8c3df820ef2e3423fdf0e"
+    },
+    {
+      "key": "visst-girls",
+      "url": "https://www.visst.ca/camps/creative-tech-for-girls",
+      "checked_at": "2026-11-07T18:34:32.787808+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.visst.ca/camps/creative-tech-for-girls",
+      "content_type": "text/html;charset=utf-8",
+      "file": "visst-girls.html",
+      "bytes": 584841,
+      "sha256": "6dd0de0253f80abfda79fe071262bb07b8bd90e7937c3fba452cf9af872d345b"
+    },
+    {
+      "key": "mk-18901013",
+      "url": "https://makerkids.pike13.com/events/18901013",
+      "checked_at": "2026-11-07T18:35:16.542293+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18901013",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18901013.html",
+      "bytes": 18989,
+      "sha256": "1923b1774413626a6576a3c873a266fbca61f88dc4aa4af428fe2e1271062837"
+    },
+    {
+      "key": "mk-18901025",
+      "url": "https://makerkids.pike13.com/events/18901025",
+      "checked_at": "2026-11-07T18:35:16.542543+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18901025",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18901025.html",
+      "bytes": 18906,
+      "sha256": "314dbf28fb187d6ca8a31e64666078c4f36520e675ceda8484943c7a8bd6f084"
+    },
+    {
+      "key": "mk-18901033",
+      "url": "https://makerkids.pike13.com/events/18901033",
+      "checked_at": "2026-11-07T18:35:16.543819+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18901033",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18901033.html",
+      "bytes": 18903,
+      "sha256": "ba01bdd4eadd366f14263ed014298c57ffe7c1f08e2154a15163e0b4d8c2e9c9"
+    },
+    {
+      "key": "mk-18904114",
+      "url": "https://makerkids.pike13.com/events/18904114",
+      "checked_at": "2026-11-07T18:35:16.544109+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18904114",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18904114.html",
+      "bytes": 17556,
+      "sha256": "e05494c175f722267e234a78206854f6af38bacafa04835e19450f2736f5e0dc"
+    },
+    {
+      "key": "mk-18904115",
+      "url": "https://makerkids.pike13.com/events/18904115",
+      "checked_at": "2026-11-07T18:35:16.546781+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18904115",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18904115.html",
+      "bytes": 17556,
+      "sha256": "5f9dd3c3c2dda8acb5f8d43e19cd263f78e1fadc4fade58cccc10997f63dd14f"
+    },
+    {
+      "key": "mk-18904117",
+      "url": "https://makerkids.pike13.com/events/18904117",
+      "checked_at": "2026-11-07T18:35:16.549629+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18904117",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18904117.html",
+      "bytes": 17556,
+      "sha256": "dc4db2f1b67965fc8357ca73f556f7c5744d8fcaed94d5c151c01114a443ff90"
+    },
+    {
+      "key": "mk-18904118",
+      "url": "https://makerkids.pike13.com/events/18904118",
+      "checked_at": "2026-11-07T18:35:16.551099+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18904118",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18904118.html",
+      "bytes": 17556,
+      "sha256": "319b4d7da199aeaf491df453d81e3a660060b65b3cf6e6617394df376901268b"
+    },
+    {
+      "key": "mk-313076",
+      "url": "https://makerkids.pike13.com/courses/313076",
+      "checked_at": "2026-11-07T18:35:16.553104+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/courses/313076",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-313076.html",
+      "bytes": 20724,
+      "sha256": "aa03713d98f284bea92e989a4c8ee2c8810c9b8e699e85d64b10a7f3e91c4906"
+    },
+    {
+      "key": "mk-313078",
+      "url": "https://makerkids.pike13.com/courses/313078",
+      "checked_at": "2026-11-07T18:35:16.555136+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/courses/313078",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-313078.html",
+      "bytes": 20364,
+      "sha256": "57709bc7bc8ff9b3de261273d508729b4193dba913f8e2a2f17ed7746e150b9d"
+    },
+    {
+      "key": "mk-18900990",
+      "url": "https://makerkids.pike13.com/events/18900990",
+      "checked_at": "2026-11-07T18:35:16.557279+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18900990",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18900990.html",
+      "bytes": 18989,
+      "sha256": "9b9d48b68bafcf5062d6e82ad8d12e76682324963551977bae6cdd6ff14e3717"
+    },
+    {
+      "key": "mk-18901121",
+      "url": "https://makerkids.pike13.com/events/18901121",
+      "checked_at": "2026-11-07T18:35:17.591894+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18901121",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18901121.html",
+      "bytes": 17556,
+      "sha256": "380e8843593e77aee5037edae4d61098a674bb7fe0833d2b061da50121e61808"
+    },
+    {
+      "key": "mk-18901131",
+      "url": "https://makerkids.pike13.com/events/18901131",
+      "checked_at": "2026-11-07T18:35:17.599767+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18901131",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18901131.html",
+      "bytes": 17556,
+      "sha256": "997f16ffd837dabca37275b3b9d6e942862b42f96d9ba228dd6527ee891f8f6a"
+    },
+    {
+      "key": "mk-18904103",
+      "url": "https://makerkids.pike13.com/events/18904103",
+      "checked_at": "2026-11-07T18:35:17.623772+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18904103",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18904103.html",
+      "bytes": 17556,
+      "sha256": "88aadf294384342a0f005c97a4ebbff9b0048be0fe6bd4893be562847718cf6f"
+    },
+    {
+      "key": "mk-18904105",
+      "url": "https://makerkids.pike13.com/events/18904105",
+      "checked_at": "2026-11-07T18:35:17.632969+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18904105",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18904105.html",
+      "bytes": 17556,
+      "sha256": "12985049d5b5ff8811d7b778cb42b64e2ddc3229596a4136563eb118784285b8"
+    },
+    {
+      "key": "mk-18901019",
+      "url": "https://makerkids.pike13.com/events/18901019",
+      "checked_at": "2026-11-07T18:35:17.638241+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18901019",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18901019.html",
+      "bytes": 18989,
+      "sha256": "f5f3ec43c50a6724bc590cdfd4da1e3fe3cbcfcf541af65643446bfb813a779f"
+    },
+    {
+      "key": "mk-18901040",
+      "url": "https://makerkids.pike13.com/events/18901040",
+      "checked_at": "2026-11-07T18:35:17.646880+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18901040",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18901040.html",
+      "bytes": 18906,
+      "sha256": "8d0896a4b8cdc638ea5e510bcd66de8955720f056f5313aa5af016af42440686"
+    },
+    {
+      "key": "mk-18901039",
+      "url": "https://makerkids.pike13.com/events/18901039",
+      "checked_at": "2026-11-07T18:35:17.680521+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18901039",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18901039.html",
+      "bytes": 18903,
+      "sha256": "7ed17053f726d55a3e8c2ac22b2121b5044e7533dbf23d2f422abf07240f1ca2"
+    },
+    {
+      "key": "mk-18904120",
+      "url": "https://makerkids.pike13.com/events/18904120",
+      "checked_at": "2026-11-07T18:35:17.684088+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18904120",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18904120.html",
+      "bytes": 17556,
+      "sha256": "5c99ae52e5276c9488bc7efdebbc0be012ae875dc48c32702102d67d1d903867"
+    },
+    {
+      "key": "mk-18904122",
+      "url": "https://makerkids.pike13.com/events/18904122",
+      "checked_at": "2026-11-07T18:35:17.711975+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18904122",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18904122.html",
+      "bytes": 17556,
+      "sha256": "789a83955c1ecf26e55a633152c51648c2258fb582ee3deab456f306bc924150"
+    },
+    {
+      "key": "mk-18904124",
+      "url": "https://makerkids.pike13.com/events/18904124",
+      "checked_at": "2026-11-07T18:35:17.802240+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18904124",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18904124.html",
+      "bytes": 17556,
+      "sha256": "30c9e24cc6a19a66713a3815c209fd467e7d8614ec50939b66531b4c777ad8a7"
+    },
+    {
+      "key": "mk-18904125",
+      "url": "https://makerkids.pike13.com/events/18904125",
+      "checked_at": "2026-11-07T18:35:18.499813+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18904125",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18904125.html",
+      "bytes": 17556,
+      "sha256": "5db8435bbaa2ed9356c10a4fb8650c096f5126ec35eda41f33bfa0ec11b86ea1"
+    },
+    {
+      "key": "mk-18901005",
+      "url": "https://makerkids.pike13.com/events/18901005",
+      "checked_at": "2026-11-07T18:35:18.508764+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18901005",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18901005.html",
+      "bytes": 18989,
+      "sha256": "b1429cde95c4068f782ba5df8188e3a09f7054aaf5e21dd628da3638a42a935b"
+    },
+    {
+      "key": "mk-18904107",
+      "url": "https://makerkids.pike13.com/events/18904107",
+      "checked_at": "2026-11-07T18:35:18.522834+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18904107",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18904107.html",
+      "bytes": 17556,
+      "sha256": "bf904215342b2497eb912c8b667bf8739684a043147b49a05f438d9d9035b286"
+    },
+    {
+      "key": "mk-18904108",
+      "url": "https://makerkids.pike13.com/events/18904108",
+      "checked_at": "2026-11-07T18:35:18.533705+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18904108",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18904108.html",
+      "bytes": 17556,
+      "sha256": "493a31355fd872c8817621e1e39e7c3fe991cad8b78fe3be23a827efb8c9eceb"
+    },
+    {
+      "key": "mk-18904109",
+      "url": "https://makerkids.pike13.com/events/18904109",
+      "checked_at": "2026-11-07T18:35:18.537877+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18904109",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18904109.html",
+      "bytes": 17556,
+      "sha256": "530ba3cf4790b574f7f9dac041a60b300edf0f6b7e532a94c070ece13bc47972"
+    },
+    {
+      "key": "mk-18904111",
+      "url": "https://makerkids.pike13.com/events/18904111",
+      "checked_at": "2026-11-07T18:35:18.545322+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18904111",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18904111.html",
+      "bytes": 17556,
+      "sha256": "e20d3ae83ccf655f6160454512abf012edfb8e36d0f2b3baf13ee86772594779"
+    },
+    {
+      "key": "mk-18900903",
+      "url": "https://makerkids.pike13.com/events/18900903",
+      "checked_at": "2026-11-07T18:35:18.571750+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18900903",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18900903.html",
+      "bytes": 18973,
+      "sha256": "3b8988dd84f7cd91a50bb3690fe5adf20cbb4b009f25be530835e6609e382942"
+    },
+    {
+      "key": "mk-18900927",
+      "url": "https://makerkids.pike13.com/events/18900927",
+      "checked_at": "2026-11-07T18:35:18.585943+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18900927",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18900927.html",
+      "bytes": 18890,
+      "sha256": "b1f247b79416f8d44d702a15a62036435c94944d763ad6e5c8aa038b5b742bb6"
+    },
+    {
+      "key": "mk-18900940",
+      "url": "https://makerkids.pike13.com/events/18900940",
+      "checked_at": "2026-11-07T18:35:18.596105+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18900940",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18900940.html",
+      "bytes": 18887,
+      "sha256": "9978ec13babebe6eb39e872430c441d07bf43123efc1a432b3bee1efa5b4562b"
+    },
+    {
+      "key": "mk-18901082",
+      "url": "https://makerkids.pike13.com/events/18901082",
+      "checked_at": "2026-11-07T18:35:18.670158+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18901082",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18901082.html",
+      "bytes": 17558,
+      "sha256": "05125e0e30b7fa29e06e45747874450122ed5b8a3d0960f1bf45749d99187a8b"
+    },
+    {
+      "key": "mk-18901085",
+      "url": "https://makerkids.pike13.com/events/18901085",
+      "checked_at": "2026-11-07T18:35:19.392017+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18901085",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18901085.html",
+      "bytes": 17558,
+      "sha256": "107474ec5a8da0d886b7e0c2910c11455d566ce3cca7d6542f8e5656da6f9dcf"
+    },
+    {
+      "key": "mk-18901092",
+      "url": "https://makerkids.pike13.com/events/18901092",
+      "checked_at": "2026-11-07T18:35:19.392131+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18901092",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18901092.html",
+      "bytes": 17558,
+      "sha256": "99b80b815fc76fb93d1c7c708020ea63ac032eb4eba5f14826c25eb707961e61"
+    },
+    {
+      "key": "mk-18901096",
+      "url": "https://makerkids.pike13.com/events/18901096",
+      "checked_at": "2026-11-07T18:35:19.398101+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18901096",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18901096.html",
+      "bytes": 17558,
+      "sha256": "106115dc61b33d1a7e5b77b298db170c69bb00f7fcf4d5e76aa3d51cd45028c1"
+    },
+    {
+      "key": "mk-312979",
+      "url": "https://makerkids.pike13.com/courses/312979",
+      "checked_at": "2026-11-07T18:35:19.424562+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/courses/312979",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-312979.html",
+      "bytes": 20769,
+      "sha256": "67fab7116d91a8fdb5bfc08aed73d0cd02440e353d70cac3ade32dedda243281"
+    },
+    {
+      "key": "mk-313077",
+      "url": "https://makerkids.pike13.com/courses/313077",
+      "checked_at": "2026-11-07T18:35:19.429838+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/courses/313077",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-313077.html",
+      "bytes": 20963,
+      "sha256": "a407d239a7b19d5ee96e7137cab886ae0eeaaa6361b2bc89572287aac05d8f74"
+    },
+    {
+      "key": "mk-18900892",
+      "url": "https://makerkids.pike13.com/events/18900892",
+      "checked_at": "2026-11-07T18:35:19.437057+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18900892",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18900892.html",
+      "bytes": 18973,
+      "sha256": "0b96cd3e627de135b61472a23abb03932780bc54284ba1dfd4fb08579ec7540a"
+    },
+    {
+      "key": "mk-18901050",
+      "url": "https://makerkids.pike13.com/events/18901050",
+      "checked_at": "2026-11-07T18:35:19.484962+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18901050",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18901050.html",
+      "bytes": 17558,
+      "sha256": "0151b714845d7d7dc78a4e606765129b60308f3e00bdbc7a0b944a6bef099303"
+    },
+    {
+      "key": "mk-18901055",
+      "url": "https://makerkids.pike13.com/events/18901055",
+      "checked_at": "2026-11-07T18:35:19.487155+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18901055",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18901055.html",
+      "bytes": 17558,
+      "sha256": "b469ce878543a6d146e6232910089c6b00646cc45e9e56420532ffcbb44499fa"
+    },
+    {
+      "key": "mk-18901058",
+      "url": "https://makerkids.pike13.com/events/18901058",
+      "checked_at": "2026-11-07T18:35:19.487257+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18901058",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18901058.html",
+      "bytes": 17558,
+      "sha256": "3e5026527e0c91ceeb675b663f094e379b62209014f6e839c3248503e085b911"
+    },
+    {
+      "key": "mk-18901063",
+      "url": "https://makerkids.pike13.com/events/18901063",
+      "checked_at": "2026-11-07T18:35:19.585310+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18901063",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18901063.html",
+      "bytes": 17558,
+      "sha256": "844d015e614274fb96600f0446059e90828fe853d3384c7a12d1be58ddc91099"
+    },
+    {
+      "key": "mk-18900908",
+      "url": "https://makerkids.pike13.com/events/18900908",
+      "checked_at": "2026-11-07T18:35:20.260101+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18900908",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18900908.html",
+      "bytes": 18973,
+      "sha256": "be2ed0ba3b1a07bfaf8b6def2bcc893664491b7e89cf0e9b1e2e7a431a83fb4d"
+    },
+    {
+      "key": "mk-18900931",
+      "url": "https://makerkids.pike13.com/events/18900931",
+      "checked_at": "2026-11-07T18:35:20.273909+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18900931",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18900931.html",
+      "bytes": 18890,
+      "sha256": "627f166c6dad5f143e7d397b665522dec031fff0f4bfcc9903f29da9fa598578"
+    },
+    {
+      "key": "mk-18900945",
+      "url": "https://makerkids.pike13.com/events/18900945",
+      "checked_at": "2026-11-07T18:35:20.346063+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18900945",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18900945.html",
+      "bytes": 18887,
+      "sha256": "bef80e59e0724592f7f40ebdd2782261cc9b6911d7a83353ebaf9d8db0119817"
+    },
+    {
+      "key": "mk-18901099",
+      "url": "https://makerkids.pike13.com/events/18901099",
+      "checked_at": "2026-11-07T18:35:20.393173+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18901099",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18901099.html",
+      "bytes": 17558,
+      "sha256": "99d526c7d3c7b1743cd50b42dcacc24b578743ae34a42d77f9f6e32f669cddad"
+    },
+    {
+      "key": "mk-18901103",
+      "url": "https://makerkids.pike13.com/events/18901103",
+      "checked_at": "2026-11-07T18:35:20.394557+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18901103",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18901103.html",
+      "bytes": 17558,
+      "sha256": "1ad1d9da75a4748cfaaf6d1dffc8a06e94022c430397baa252a32256d3957b4a"
+    },
+    {
+      "key": "mk-18901107",
+      "url": "https://makerkids.pike13.com/events/18901107",
+      "checked_at": "2026-11-07T18:35:20.404454+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18901107",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18901107.html",
+      "bytes": 17558,
+      "sha256": "16890b534a965daf2fccb0c2191de7e187b46aa21a3b1ac7f2b2e045af9b0364"
+    },
+    {
+      "key": "mk-18901109",
+      "url": "https://makerkids.pike13.com/events/18901109",
+      "checked_at": "2026-11-07T18:35:20.466204+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18901109",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18901109.html",
+      "bytes": 17558,
+      "sha256": "77dae094cbe615c7849532688c75becb204e4760585c6ce4c8f7b030a53f3873"
+    },
+    {
+      "key": "mk-18900897",
+      "url": "https://makerkids.pike13.com/events/18900897",
+      "checked_at": "2026-11-07T18:35:20.592093+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18900897",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18900897.html",
+      "bytes": 18973,
+      "sha256": "b6f68a94cc0fafaeb5674aa79a7b75b2ffdadc9a4296ee7467c228920e7ebf93"
+    },
+    {
+      "key": "mk-18901064",
+      "url": "https://makerkids.pike13.com/events/18901064",
+      "checked_at": "2026-11-07T18:35:21.253954+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18901064",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18901064.html",
+      "bytes": 17558,
+      "sha256": "55e0a24a705c889d3acacb06ae607761fc54b511665a09b320d0e9a166f24272"
+    },
+    {
+      "key": "mk-18901067",
+      "url": "https://makerkids.pike13.com/events/18901067",
+      "checked_at": "2026-11-07T18:35:21.254077+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18901067",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18901067.html",
+      "bytes": 17558,
+      "sha256": "06f2e1741df02a4c58e4c3bb2018fe89da0079b5481bdbe56db719b2501f7775"
+    },
+    {
+      "key": "mk-18901072",
+      "url": "https://makerkids.pike13.com/events/18901072",
+      "checked_at": "2026-11-07T18:35:21.263423+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18901072",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18901072.html",
+      "bytes": 17558,
+      "sha256": "663e121d72f1e29f10887d08d66fb73c610b5d8b8efa779f1e831b7dce1fcf9b"
+    },
+    {
+      "key": "mk-18901073",
+      "url": "https://makerkids.pike13.com/events/18901073",
+      "checked_at": "2026-11-07T18:35:21.280739+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18901073",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18901073.html",
+      "bytes": 17558,
+      "sha256": "50b5e1e0656ebc7e54c7a3140409d4c4809239b830c4204d0841b4306deae781"
+    },
+    {
+      "key": "mk-18900295",
+      "url": "https://makerkids.pike13.com/events/18900295",
+      "checked_at": "2026-11-07T18:35:21.293235+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18900295",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18900295.html",
+      "bytes": 19065,
+      "sha256": "32be65647f09dd1dd581da8af29c54311d1b5ee41f6d7890c6074c2bc25bfd48"
+    },
+    {
+      "key": "mk-18900468",
+      "url": "https://makerkids.pike13.com/events/18900468",
+      "checked_at": "2026-11-07T18:35:21.373449+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18900468",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18900468.html",
+      "bytes": 18982,
+      "sha256": "6444b964ebb01fe2c0f9a9e1819b1c29caec46ff6ec46e3cea3b38aecc884e9b"
+    },
+    {
+      "key": "mk-18900490",
+      "url": "https://makerkids.pike13.com/events/18900490",
+      "checked_at": "2026-11-07T18:35:21.489088+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18900490",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18900490.html",
+      "bytes": 18979,
+      "sha256": "cc1e3b5067b871f4649a7b6964c411d1328f7e7b3d21d1eeaf5a894daaddbac0"
+    },
+    {
+      "key": "mk-18900333",
+      "url": "https://makerkids.pike13.com/events/18900333",
+      "checked_at": "2026-11-07T18:35:22.119414+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18900333",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18900333.html",
+      "bytes": 17584,
+      "sha256": "6a3f8ce0c404b75d4ba0853bf41a93e4f527fd7a299aef4091b7af1d73f480f0"
+    },
+    {
+      "key": "mk-18900342",
+      "url": "https://makerkids.pike13.com/events/18900342",
+      "checked_at": "2026-11-07T18:35:22.160648+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18900342",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18900342.html",
+      "bytes": 17584,
+      "sha256": "c1090c7f09718430815667b6c29050fdca790bb2b2d3d6db7e0f0f58a81c4dec"
+    },
+    {
+      "key": "mk-18900346",
+      "url": "https://makerkids.pike13.com/events/18900346",
+      "checked_at": "2026-11-07T18:35:22.252317+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18900346",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18900346.html",
+      "bytes": 17584,
+      "sha256": "339aea8e005f3f88a6ebd984796b400a8cb4425f426bcbea17f798779dd6abd8"
+    },
+    {
+      "key": "mk-18900351",
+      "url": "https://makerkids.pike13.com/events/18900351",
+      "checked_at": "2026-11-07T18:35:22.342136+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18900351",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18900351.html",
+      "bytes": 17584,
+      "sha256": "83ff8cd5c0f9280de251d3fbb7d9f10281f56650573feb159ee27cfee5de72a5"
+    },
+    {
+      "key": "mk-335597",
+      "url": "https://makerkids.pike13.com/courses/335597",
+      "checked_at": "2026-11-07T18:35:22.477204+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/courses/335597",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-335597.html",
+      "bytes": 20228,
+      "sha256": "f908b895a032b26c77d80a2c5ecd87d8de24cf8f36e3e94f2e48cda0d9bcaa47"
+    },
+    {
+      "key": "mk-335599",
+      "url": "https://makerkids.pike13.com/courses/335599",
+      "checked_at": "2026-11-07T18:35:23.010870+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/courses/335599",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-335599.html",
+      "bytes": 20239,
+      "sha256": "e8c38783e7ac450bf9af9ebe753a841e999665fe1ec6842c2af1ccf45730844f"
+    },
+    {
+      "key": "mk-18900321",
+      "url": "https://makerkids.pike13.com/events/18900321",
+      "checked_at": "2026-11-07T18:35:23.175601+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18900321",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18900321.html",
+      "bytes": 19065,
+      "sha256": "d7faaf451d104bac5d0fca1ff1e9e095eb88787d3cbcd00b204697095f652be1"
+    },
+    {
+      "key": "mk-18900387",
+      "url": "https://makerkids.pike13.com/events/18900387",
+      "checked_at": "2026-11-07T18:35:23.183159+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18900387",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18900387.html",
+      "bytes": 17584,
+      "sha256": "010e35c5f490882a556a98cbc4b46943048e6edb4105fdd0f73757cf7e666f84"
+    },
+    {
+      "key": "mk-18900394",
+      "url": "https://makerkids.pike13.com/events/18900394",
+      "checked_at": "2026-11-07T18:35:23.210583+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18900394",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18900394.html",
+      "bytes": 17584,
+      "sha256": "a5fd6c0fcda8f0c8d34665f12391ac79b5494aaa7e5aab540f2ec9bddb6a2aac"
+    },
+    {
+      "key": "mk-18900398",
+      "url": "https://makerkids.pike13.com/events/18900398",
+      "checked_at": "2026-11-07T18:35:23.299755+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18900398",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18900398.html",
+      "bytes": 17584,
+      "sha256": "7128d99c588b11fc9c503ba3b41df3a1d44e86986b112f63c15c75ca7c84e1a4"
+    },
+    {
+      "key": "mk-18900400",
+      "url": "https://makerkids.pike13.com/events/18900400",
+      "checked_at": "2026-11-07T18:35:23.495706+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18900400",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18900400.html",
+      "bytes": 17584,
+      "sha256": "5461bb9e9481a5ed2ed9dcb3adb3a0c83e74e51351668a8e0f8748ce5e42e72c"
+    },
+    {
+      "key": "mk-18900308",
+      "url": "https://makerkids.pike13.com/events/18900308",
+      "checked_at": "2026-11-07T18:35:24.048052+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18900308",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18900308.html",
+      "bytes": 19065,
+      "sha256": "abc51d084189cf2f8c71522fc655fe91cee77e37e92ec7ac5d6e6291619bf46a"
+    },
+    {
+      "key": "mk-18900475",
+      "url": "https://makerkids.pike13.com/events/18900475",
+      "checked_at": "2026-11-07T18:35:24.064127+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18900475",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18900475.html",
+      "bytes": 18982,
+      "sha256": "27feee3803b1196939315a11a9c686a10d2d87d870b049dba99e62269d12bdb6"
+    },
+    {
+      "key": "mk-18900493",
+      "url": "https://makerkids.pike13.com/events/18900493",
+      "checked_at": "2026-11-07T18:35:24.107718+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18900493",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18900493.html",
+      "bytes": 18979,
+      "sha256": "3b154c24c994e98553cb60a0887555fea96d3f21d22e25dda2687d5e64667a42"
+    },
+    {
+      "key": "mk-18900354",
+      "url": "https://makerkids.pike13.com/events/18900354",
+      "checked_at": "2026-11-07T18:35:24.161112+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18900354",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18900354.html",
+      "bytes": 17584,
+      "sha256": "f36e0e090ea1a53ef625fd443c9e00d83682781a446f0dc418a1e807a1df9b1e"
+    },
+    {
+      "key": "mk-18900359",
+      "url": "https://makerkids.pike13.com/events/18900359",
+      "checked_at": "2026-11-07T18:35:24.165903+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18900359",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18900359.html",
+      "bytes": 17584,
+      "sha256": "f59fde5e0ee612b5448e9917b8d0760fe7a5d185a0e96a0cd3f2d595148ead46"
+    },
+    {
+      "key": "mk-18900363",
+      "url": "https://makerkids.pike13.com/events/18900363",
+      "checked_at": "2026-11-07T18:35:24.358820+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18900363",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18900363.html",
+      "bytes": 17584,
+      "sha256": "1342541694152e5b6934d93a2d2fa19a20121fa20062b3193483fd7522ec5e02"
+    },
+    {
+      "key": "mk-18900369",
+      "url": "https://makerkids.pike13.com/events/18900369",
+      "checked_at": "2026-11-07T18:35:24.947262+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18900369",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18900369.html",
+      "bytes": 17584,
+      "sha256": "32b2a732550a8fa7ac77dff3ed08c905b4f577ae58581d65c51b8da03662b333"
+    },
+    {
+      "key": "mk-18900328",
+      "url": "https://makerkids.pike13.com/events/18900328",
+      "checked_at": "2026-11-07T18:35:25.016816+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18900328",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18900328.html",
+      "bytes": 19065,
+      "sha256": "26442e1218b9a26df53882745c7049fbbdd56d32a83c62a62b8216d5ec02fa53"
+    },
+    {
+      "key": "mk-18900408",
+      "url": "https://makerkids.pike13.com/events/18900408",
+      "checked_at": "2026-11-07T18:35:25.041454+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18900408",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18900408.html",
+      "bytes": 17584,
+      "sha256": "b592e30f2d49997651ebcae0dbd23da986f793c25c021f01c03f073149118e2a"
+    },
+    {
+      "key": "mk-18900420",
+      "url": "https://makerkids.pike13.com/events/18900420",
+      "checked_at": "2026-11-07T18:35:25.073083+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18900420",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18900420.html",
+      "bytes": 17584,
+      "sha256": "de60fd9ca738ddf9e67161c753357a55baf12ea5530a848ac120234798d336d5"
+    },
+    {
+      "key": "mk-18900456",
+      "url": "https://makerkids.pike13.com/events/18900456",
+      "checked_at": "2026-11-07T18:35:25.197519+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18900456",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18900456.html",
+      "bytes": 17584,
+      "sha256": "713a691632a79ae50043ebcbe0e243b50f9c01fc4d54edcaba6048e43ce75419"
+    },
+    {
+      "key": "mk-18900438",
+      "url": "https://makerkids.pike13.com/events/18900438",
+      "checked_at": "2026-11-07T18:35:25.236812+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://makerkids.pike13.com/events/18900438",
+      "content_type": "text/html; charset=utf-8",
+      "file": "mk-18900438.html",
+      "bytes": 17584,
+      "sha256": "d1ceed8c86ac3fdc84516e0a2157e8300892ce09b0a039112810e6cccce42014"
+    },
+    {
+      "key": "stem-expo-about",
+      "url": "https://stemexpo.scwist.ca/about",
+      "checked_at": "2026-11-07T18:36:05.215385+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://stemexpo.scwist.ca/about",
+      "content_type": "text/html",
+      "file": "stem-expo-about.html",
+      "bytes": 45847,
+      "sha256": "3f4e4b4f9304baa82bfdf552cfa66d58fccb65b77157d302a074aac509c2e669"
+    },
+    {
+      "key": "stem-expo-home",
+      "url": "https://stemexpo.scwist.ca/",
+      "checked_at": "2026-11-07T18:36:05.215651+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://stemexpo.scwist.ca/",
+      "content_type": "text/html",
+      "file": "stem-expo-home.html",
+      "bytes": 62585,
+      "sha256": "45f46ea57006a76d8cb9bae15608affd5939c568cb7e6270b3ce88ddb10644a0"
+    },
+    {
+      "key": "crc-aqua",
+      "url": "https://www.robo-crc.ca/en/events/2027",
+      "checked_at": "2026-11-07T18:36:05.216798+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.robo-crc.ca/en/events/2027",
+      "content_type": "text/html; charset=utf-8",
+      "file": "crc-aqua.html",
+      "bytes": 199808,
+      "sha256": "d8081255c34d962b13f6d2433bfbea8d737cc49c21f30d017745b915ecddf1e0"
+    },
+    {
+      "key": "breakout",
+      "url": "https://breakoutcon.com/",
+      "checked_at": "2026-11-07T18:36:05.219351+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://breakoutcon.com/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "breakout.html",
+      "bytes": 156935,
+      "sha256": "aa08dc5589201dd5d653bc7cbd89ec5cb2bc6e085a87c387f7cf9d093096d1fd"
+    },
+    {
+      "key": "terminal-city",
+      "url": "https://terminalcitycon.ca/",
+      "checked_at": "2026-11-07T18:36:05.220502+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://terminalcitycon.ca/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "terminal-city.html",
+      "bytes": 171566,
+      "sha256": "b63ecc7b4c466facb085c3a9e525490fe144909414b930b50981ad2a34ddd139"
+    },
+    {
+      "key": "visst-maker",
+      "url": "https://www.visst.ca/camps/makerlab-spring",
+      "checked_at": "2026-11-07T18:36:05.221031+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.visst.ca/camps/makerlab-spring",
+      "content_type": "text/html;charset=utf-8",
+      "file": "visst-maker.html",
+      "bytes": 288017,
+      "sha256": "f8bb46228f2e576e711425afdd0e69a11d5db51357fa93f25d24bc2537f9ec30"
+    },
+    {
+      "key": "nova-spark",
+      "url": "https://www.yorkeducation.org/programs/team-nova-spark",
+      "checked_at": "2026-11-07T18:36:05.221187+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.yorkeducation.org/programs/team-nova-spark",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "nova-spark.html",
+      "bytes": 1609762,
+      "sha256": "a48988ee61bb10acf56274b3aa97e172f5168447cef1eae44c2f1600cd8d1cf7"
+    },
+    {
+      "key": "crc-junior-rules",
+      "url": "https://www.robo-crc.ca/download/2027/junior-factsheet",
+      "checked_at": "2026-11-07T18:36:50.977147+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.robo-crc.ca/download/2027/junior-factsheet",
+      "content_type": "application/pdf",
+      "file": "crc-junior-rules.pdf",
+      "bytes": 321730,
+      "sha256": "6790ed81cebd5d3819500ef7755f9ae7cd394c4dee532c0722c2cabd83b0ae35"
+    },
+    {
+      "key": "crc-senior-rules",
+      "url": "https://www.robo-crc.ca/download/2027/senior-factsheet",
+      "checked_at": "2026-11-07T18:36:50.978557+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.robo-crc.ca/download/2027/senior-factsheet",
+      "content_type": "application/pdf",
+      "file": "crc-senior-rules.pdf",
+      "bytes": 332108,
+      "sha256": "61324ec718073ba0740c9ba65eded626af15f1953aa27e10e1debe256c5aeb27"
+    },
+    {
+      "key": "stem-expo-schedule",
+      "url": "https://stemexpo.scwist.ca/schedule",
+      "checked_at": "2026-11-07T18:36:50.978850+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://stemexpo.scwist.ca/schedule",
+      "content_type": "text/html",
+      "file": "stem-expo-schedule.html",
+      "bytes": 18182,
+      "sha256": "9de12511375d629a8989af65cdf174973e65c96b051f10d718699de0d9883a91"
+    },
+    {
+      "key": "terminal-faq",
+      "url": "https://terminalcitycon.ca/faq/",
+      "checked_at": "2026-11-07T18:36:50.981322+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://terminalcitycon.ca/faq/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "terminal-faq.html",
+      "bytes": 147925,
+      "sha256": "a6cf3282f7291e6573f36844f2ceb3d732b8d05e3ce77958fddddcca58198776"
+    },
+    {
+      "key": "terminal-info",
+      "url": "https://terminalcitycon.ca/event-info/",
+      "checked_at": "2026-11-07T18:36:50.982796+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://terminalcitycon.ca/event-info/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "terminal-info.html",
+      "bytes": 150610,
+      "sha256": "973094620c8aa3a7963aca67dcea98a881668afd633ec2cb47d8cf054f8f6ffe"
+    },
+    {
+      "key": "terminal-tickets",
+      "url": "https://terminalcitycon.ca/tickets/",
+      "checked_at": "2026-11-07T18:36:50.984650+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://terminalcitycon.ca/tickets/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "terminal-tickets.html",
+      "bytes": 154100,
+      "sha256": "61731653f0aaec41d70c0727ef69bc5f534b0d80a9c4fa80bbe350a7ebd9727c"
+    },
+    {
+      "key": "breakout-shop",
+      "url": "https://breakoutcon.com/index.php/shop",
+      "checked_at": "2026-11-07T18:36:50.984885+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://breakoutcon.com/index.php/shop",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "breakout-shop.html",
+      "bytes": 64991,
+      "sha256": "e2db9372c37d746c2904355b7b3b82cbcaf018ba4d9fc7f6a1bcc2271c903f0f"
+    },
+    {
+      "key": "breakout-shop-legacy",
+      "url": "https://breakoutcon.com/shop",
+      "checked_at": "2026-11-07T18:36:50.986409+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://breakoutcon.com/shop",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "breakout-shop-legacy.html",
+      "bytes": 64688,
+      "sha256": "003504c61ee39bcda55c6dc63db6b5b582d3232eca4a76558abbdcc6e2c4fccd"
+    },
+    {
+      "key": "breakout-policies",
+      "url": "https://breakoutcon.com/index.php/policies",
+      "checked_at": "2026-11-07T18:36:50.989501+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://breakoutcon.com/index.php/policies",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "breakout-policies.html",
+      "bytes": 56127,
+      "sha256": "7417717d02cd533fa2473ad8e10585d595d2d9ec0c338b1574a9b65c83568aee"
+    }
+  ],
+  "web_observations": [
+    {
+      "url": "https://sparktechies.uplifterinc.com/registration/camps/",
+      "checked": "2026-11-07",
+      "method": "primary page via web reader",
+      "facts": "Public Uplifter catalogue via web reader. Nov 13 cutoff 00:00, drop-off 08:50–09:00, pickup 15:30–15:45. March 8–12 / 15–19 cutoffs March 7 / March 8 at 00:00; CAD 380 each. March 22–26 window with 4 classes, CAD 300, cutoff March 15 00:00."
+    },
+    {
+      "url": "https://sparktechies.ca/kids-camps/",
+      "checked": "2026-11-07",
+      "method": "primary page via web reader",
+      "facts": "Operator website and indexed version differ on the third March block. Archived web reader shows March 22–25; direct HTML at check omits it. Do not export exact attendances for this block."
+    }
+  ],
+  "maker_native_selectors": [
+    {
+      "key": "mk-18901013",
+      "dates": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "grade": "1-2",
+      "venue": "MakerKids Bloor West",
+      "amount": 450,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18904114",
+      "dates": [
+        "2026-12-21"
+      ],
+      "grade": "1-2",
+      "venue": "MakerKids Bloor West",
+      "amount": 125,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18904115",
+      "dates": [
+        "2026-12-22"
+      ],
+      "grade": "1-2",
+      "venue": "MakerKids Bloor West",
+      "amount": 125,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18904117",
+      "dates": [
+        "2026-12-23"
+      ],
+      "grade": "1-2",
+      "venue": "MakerKids Bloor West",
+      "amount": 125,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18904118",
+      "dates": [
+        "2026-12-24"
+      ],
+      "grade": "1-2",
+      "venue": "MakerKids Bloor West",
+      "amount": 125,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18901025",
+      "dates": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "grade": null,
+      "venue": "MakerKids Bloor West",
+      "amount": 80,
+      "from_hour": "8:00am",
+      "to_hour": "9:00am"
+    },
+    {
+      "key": "mk-18901033",
+      "dates": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "grade": null,
+      "venue": "MakerKids Bloor West",
+      "amount": 100,
+      "from_hour": "3:30pm",
+      "to_hour": "5:00pm"
+    },
+    {
+      "key": "mk-313076",
+      "dates": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "grade": null,
+      "venue": "MakerKids Bloor West",
+      "amount": 20,
+      "from_hour": "8:00am",
+      "to_hour": "9:00am"
+    },
+    {
+      "key": "mk-313078",
+      "dates": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "grade": null,
+      "venue": "MakerKids Bloor West",
+      "amount": 25,
+      "from_hour": "3:30pm",
+      "to_hour": "5:00pm"
+    },
+    {
+      "key": "mk-18900990",
+      "dates": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "grade": "3-8",
+      "venue": "MakerKids Bloor West",
+      "amount": 450,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18901121",
+      "dates": [
+        "2026-12-21"
+      ],
+      "grade": "3-8",
+      "venue": "MakerKids Bloor West",
+      "amount": 125,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18901131",
+      "dates": [
+        "2026-12-22"
+      ],
+      "grade": "3-8",
+      "venue": "MakerKids Bloor West",
+      "amount": 125,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18904103",
+      "dates": [
+        "2026-12-23"
+      ],
+      "grade": "3-8",
+      "venue": "MakerKids Bloor West",
+      "amount": 125,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18904105",
+      "dates": [
+        "2026-12-24"
+      ],
+      "grade": "3-8",
+      "venue": "MakerKids Bloor West",
+      "amount": 125,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18901025",
+      "dates": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "grade": null,
+      "venue": "MakerKids Bloor West",
+      "amount": 80,
+      "from_hour": "8:00am",
+      "to_hour": "9:00am"
+    },
+    {
+      "key": "mk-18901033",
+      "dates": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "grade": null,
+      "venue": "MakerKids Bloor West",
+      "amount": 100,
+      "from_hour": "3:30pm",
+      "to_hour": "5:00pm"
+    },
+    {
+      "key": "mk-313076",
+      "dates": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "grade": null,
+      "venue": "MakerKids Bloor West",
+      "amount": 20,
+      "from_hour": "8:00am",
+      "to_hour": "9:00am"
+    },
+    {
+      "key": "mk-313078",
+      "dates": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "grade": null,
+      "venue": "MakerKids Bloor West",
+      "amount": 25,
+      "from_hour": "3:30pm",
+      "to_hour": "5:00pm"
+    },
+    {
+      "key": "mk-18901019",
+      "dates": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "grade": "1-2",
+      "venue": "MakerKids Bloor West",
+      "amount": 450,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18904120",
+      "dates": [
+        "2026-12-28"
+      ],
+      "grade": "1-2",
+      "venue": "MakerKids Bloor West",
+      "amount": 125,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18904122",
+      "dates": [
+        "2026-12-29"
+      ],
+      "grade": "1-2",
+      "venue": "MakerKids Bloor West",
+      "amount": 125,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18904124",
+      "dates": [
+        "2026-12-30"
+      ],
+      "grade": "1-2",
+      "venue": "MakerKids Bloor West",
+      "amount": 125,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18904125",
+      "dates": [
+        "2026-12-31"
+      ],
+      "grade": "1-2",
+      "venue": "MakerKids Bloor West",
+      "amount": 125,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18901040",
+      "dates": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "grade": null,
+      "venue": "MakerKids Bloor West",
+      "amount": 80,
+      "from_hour": "8:00am",
+      "to_hour": "9:00am"
+    },
+    {
+      "key": "mk-18901039",
+      "dates": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "grade": null,
+      "venue": "MakerKids Bloor West",
+      "amount": 100,
+      "from_hour": "3:30pm",
+      "to_hour": "5:00pm"
+    },
+    {
+      "key": "mk-313076",
+      "dates": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "grade": null,
+      "venue": "MakerKids Bloor West",
+      "amount": 20,
+      "from_hour": "8:00am",
+      "to_hour": "9:00am"
+    },
+    {
+      "key": "mk-313078",
+      "dates": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "grade": null,
+      "venue": "MakerKids Bloor West",
+      "amount": 25,
+      "from_hour": "3:30pm",
+      "to_hour": "5:00pm"
+    },
+    {
+      "key": "mk-18901005",
+      "dates": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "grade": "3-8",
+      "venue": "MakerKids Bloor West",
+      "amount": 450,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18904107",
+      "dates": [
+        "2026-12-28"
+      ],
+      "grade": "3-8",
+      "venue": "MakerKids Bloor West",
+      "amount": 125,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18904108",
+      "dates": [
+        "2026-12-29"
+      ],
+      "grade": "3-8",
+      "venue": "MakerKids Bloor West",
+      "amount": 125,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18904109",
+      "dates": [
+        "2026-12-30"
+      ],
+      "grade": "3-8",
+      "venue": "MakerKids Bloor West",
+      "amount": 125,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18904111",
+      "dates": [
+        "2026-12-31"
+      ],
+      "grade": "3-8",
+      "venue": "MakerKids Bloor West",
+      "amount": 125,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18901040",
+      "dates": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "grade": null,
+      "venue": "MakerKids Bloor West",
+      "amount": 80,
+      "from_hour": "8:00am",
+      "to_hour": "9:00am"
+    },
+    {
+      "key": "mk-18901039",
+      "dates": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "grade": null,
+      "venue": "MakerKids Bloor West",
+      "amount": 100,
+      "from_hour": "3:30pm",
+      "to_hour": "5:00pm"
+    },
+    {
+      "key": "mk-313076",
+      "dates": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "grade": null,
+      "venue": "MakerKids Bloor West",
+      "amount": 20,
+      "from_hour": "8:00am",
+      "to_hour": "9:00am"
+    },
+    {
+      "key": "mk-313078",
+      "dates": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "grade": null,
+      "venue": "MakerKids Bloor West",
+      "amount": 25,
+      "from_hour": "3:30pm",
+      "to_hour": "5:00pm"
+    },
+    {
+      "key": "mk-18900903",
+      "dates": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "grade": "1-2",
+      "venue": "MakerKids Leaside",
+      "amount": 450,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18901082",
+      "dates": [
+        "2026-12-21"
+      ],
+      "grade": "1-2",
+      "venue": "MakerKids Leaside",
+      "amount": 125,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18901085",
+      "dates": [
+        "2026-12-22"
+      ],
+      "grade": "1-2",
+      "venue": "MakerKids Leaside",
+      "amount": 125,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18901092",
+      "dates": [
+        "2026-12-23"
+      ],
+      "grade": "1-2",
+      "venue": "MakerKids Leaside",
+      "amount": 125,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18901096",
+      "dates": [
+        "2026-12-24"
+      ],
+      "grade": "1-2",
+      "venue": "MakerKids Leaside",
+      "amount": 125,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18900927",
+      "dates": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "grade": null,
+      "venue": "MakerKids Leaside",
+      "amount": 80,
+      "from_hour": "8:00am",
+      "to_hour": "9:00am"
+    },
+    {
+      "key": "mk-18900940",
+      "dates": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "grade": null,
+      "venue": "MakerKids Leaside",
+      "amount": 100,
+      "from_hour": "3:30pm",
+      "to_hour": "5:00pm"
+    },
+    {
+      "key": "mk-312979",
+      "dates": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "grade": null,
+      "venue": "MakerKids Leaside",
+      "amount": 20,
+      "from_hour": "8:00am",
+      "to_hour": "9:00am"
+    },
+    {
+      "key": "mk-313077",
+      "dates": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "grade": null,
+      "venue": "MakerKids Leaside",
+      "amount": 25,
+      "from_hour": "3:30pm",
+      "to_hour": "5:00pm"
+    },
+    {
+      "key": "mk-18900892",
+      "dates": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "grade": "3-8",
+      "venue": "MakerKids Leaside",
+      "amount": 450,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18901050",
+      "dates": [
+        "2026-12-21"
+      ],
+      "grade": "3-8",
+      "venue": "MakerKids Leaside",
+      "amount": 125,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18901055",
+      "dates": [
+        "2026-12-22"
+      ],
+      "grade": "3-8",
+      "venue": "MakerKids Leaside",
+      "amount": 125,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18901058",
+      "dates": [
+        "2026-12-23"
+      ],
+      "grade": "3-8",
+      "venue": "MakerKids Leaside",
+      "amount": 125,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18901063",
+      "dates": [
+        "2026-12-24"
+      ],
+      "grade": "3-8",
+      "venue": "MakerKids Leaside",
+      "amount": 125,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18900927",
+      "dates": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "grade": null,
+      "venue": "MakerKids Leaside",
+      "amount": 80,
+      "from_hour": "8:00am",
+      "to_hour": "9:00am"
+    },
+    {
+      "key": "mk-18900940",
+      "dates": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "grade": null,
+      "venue": "MakerKids Leaside",
+      "amount": 100,
+      "from_hour": "3:30pm",
+      "to_hour": "5:00pm"
+    },
+    {
+      "key": "mk-312979",
+      "dates": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "grade": null,
+      "venue": "MakerKids Leaside",
+      "amount": 20,
+      "from_hour": "8:00am",
+      "to_hour": "9:00am"
+    },
+    {
+      "key": "mk-313077",
+      "dates": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "grade": null,
+      "venue": "MakerKids Leaside",
+      "amount": 25,
+      "from_hour": "3:30pm",
+      "to_hour": "5:00pm"
+    },
+    {
+      "key": "mk-18900908",
+      "dates": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "grade": "1-2",
+      "venue": "MakerKids Leaside",
+      "amount": 450,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18901099",
+      "dates": [
+        "2026-12-28"
+      ],
+      "grade": "1-2",
+      "venue": "MakerKids Leaside",
+      "amount": 125,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18901103",
+      "dates": [
+        "2026-12-29"
+      ],
+      "grade": "1-2",
+      "venue": "MakerKids Leaside",
+      "amount": 125,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18901107",
+      "dates": [
+        "2026-12-30"
+      ],
+      "grade": "1-2",
+      "venue": "MakerKids Leaside",
+      "amount": 125,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18901109",
+      "dates": [
+        "2026-12-31"
+      ],
+      "grade": "1-2",
+      "venue": "MakerKids Leaside",
+      "amount": 125,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18900931",
+      "dates": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "grade": null,
+      "venue": "MakerKids Leaside",
+      "amount": 80,
+      "from_hour": "8:00am",
+      "to_hour": "9:00am"
+    },
+    {
+      "key": "mk-18900945",
+      "dates": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "grade": null,
+      "venue": "MakerKids Leaside",
+      "amount": 100,
+      "from_hour": "3:30pm",
+      "to_hour": "5:00pm"
+    },
+    {
+      "key": "mk-312979",
+      "dates": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "grade": null,
+      "venue": "MakerKids Leaside",
+      "amount": 20,
+      "from_hour": "8:00am",
+      "to_hour": "9:00am"
+    },
+    {
+      "key": "mk-313077",
+      "dates": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "grade": null,
+      "venue": "MakerKids Leaside",
+      "amount": 25,
+      "from_hour": "3:30pm",
+      "to_hour": "5:00pm"
+    },
+    {
+      "key": "mk-18900897",
+      "dates": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "grade": "3-8",
+      "venue": "MakerKids Leaside",
+      "amount": 450,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18901064",
+      "dates": [
+        "2026-12-28"
+      ],
+      "grade": "3-8",
+      "venue": "MakerKids Leaside",
+      "amount": 125,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18901067",
+      "dates": [
+        "2026-12-29"
+      ],
+      "grade": "3-8",
+      "venue": "MakerKids Leaside",
+      "amount": 125,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18901072",
+      "dates": [
+        "2026-12-30"
+      ],
+      "grade": "3-8",
+      "venue": "MakerKids Leaside",
+      "amount": 125,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18901073",
+      "dates": [
+        "2026-12-31"
+      ],
+      "grade": "3-8",
+      "venue": "MakerKids Leaside",
+      "amount": 125,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18900931",
+      "dates": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "grade": null,
+      "venue": "MakerKids Leaside",
+      "amount": 80,
+      "from_hour": "8:00am",
+      "to_hour": "9:00am"
+    },
+    {
+      "key": "mk-18900945",
+      "dates": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "grade": null,
+      "venue": "MakerKids Leaside",
+      "amount": 100,
+      "from_hour": "3:30pm",
+      "to_hour": "5:00pm"
+    },
+    {
+      "key": "mk-312979",
+      "dates": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "grade": null,
+      "venue": "MakerKids Leaside",
+      "amount": 20,
+      "from_hour": "8:00am",
+      "to_hour": "9:00am"
+    },
+    {
+      "key": "mk-313077",
+      "dates": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "grade": null,
+      "venue": "MakerKids Leaside",
+      "amount": 25,
+      "from_hour": "3:30pm",
+      "to_hour": "5:00pm"
+    },
+    {
+      "key": "mk-18900295",
+      "dates": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "grade": "1-2",
+      "venue": "MakerKids Mississauga",
+      "amount": 450,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18900333",
+      "dates": [
+        "2026-12-21"
+      ],
+      "grade": "1-2",
+      "venue": "MakerKids Mississauga",
+      "amount": 125,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18900342",
+      "dates": [
+        "2026-12-22"
+      ],
+      "grade": "1-2",
+      "venue": "MakerKids Mississauga",
+      "amount": 125,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18900346",
+      "dates": [
+        "2026-12-23"
+      ],
+      "grade": "1-2",
+      "venue": "MakerKids Mississauga",
+      "amount": 125,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18900351",
+      "dates": [
+        "2026-12-24"
+      ],
+      "grade": "1-2",
+      "venue": "MakerKids Mississauga",
+      "amount": 125,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18900468",
+      "dates": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "grade": null,
+      "venue": "MakerKids Mississauga",
+      "amount": 80,
+      "from_hour": "8:00am",
+      "to_hour": "9:00am"
+    },
+    {
+      "key": "mk-18900490",
+      "dates": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "grade": null,
+      "venue": "MakerKids Mississauga",
+      "amount": 100,
+      "from_hour": "3:30pm",
+      "to_hour": "5:00pm"
+    },
+    {
+      "key": "mk-335597",
+      "dates": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "grade": null,
+      "venue": "MakerKids Mississauga",
+      "amount": 20,
+      "from_hour": "8:00am",
+      "to_hour": "9:00am"
+    },
+    {
+      "key": "mk-335599",
+      "dates": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "grade": null,
+      "venue": "MakerKids Mississauga",
+      "amount": 25,
+      "from_hour": "3:30pm",
+      "to_hour": "5:00pm"
+    },
+    {
+      "key": "mk-18900321",
+      "dates": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "grade": "3-8",
+      "venue": "MakerKids Mississauga",
+      "amount": 450,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18900387",
+      "dates": [
+        "2026-12-21"
+      ],
+      "grade": "3-8",
+      "venue": "MakerKids Mississauga",
+      "amount": 125,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18900394",
+      "dates": [
+        "2026-12-22"
+      ],
+      "grade": "3-8",
+      "venue": "MakerKids Mississauga",
+      "amount": 125,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18900398",
+      "dates": [
+        "2026-12-23"
+      ],
+      "grade": "3-8",
+      "venue": "MakerKids Mississauga",
+      "amount": 125,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18900400",
+      "dates": [
+        "2026-12-24"
+      ],
+      "grade": "3-8",
+      "venue": "MakerKids Mississauga",
+      "amount": 125,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18900468",
+      "dates": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "grade": null,
+      "venue": "MakerKids Mississauga",
+      "amount": 80,
+      "from_hour": "8:00am",
+      "to_hour": "9:00am"
+    },
+    {
+      "key": "mk-18900490",
+      "dates": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "grade": null,
+      "venue": "MakerKids Mississauga",
+      "amount": 100,
+      "from_hour": "3:30pm",
+      "to_hour": "5:00pm"
+    },
+    {
+      "key": "mk-335597",
+      "dates": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "grade": null,
+      "venue": "MakerKids Mississauga",
+      "amount": 20,
+      "from_hour": "8:00am",
+      "to_hour": "9:00am"
+    },
+    {
+      "key": "mk-335599",
+      "dates": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "grade": null,
+      "venue": "MakerKids Mississauga",
+      "amount": 25,
+      "from_hour": "3:30pm",
+      "to_hour": "5:00pm"
+    },
+    {
+      "key": "mk-18900308",
+      "dates": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "grade": "1-2",
+      "venue": "MakerKids Mississauga",
+      "amount": 450,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18900354",
+      "dates": [
+        "2026-12-28"
+      ],
+      "grade": "1-2",
+      "venue": "MakerKids Mississauga",
+      "amount": 125,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18900359",
+      "dates": [
+        "2026-12-29"
+      ],
+      "grade": "1-2",
+      "venue": "MakerKids Mississauga",
+      "amount": 125,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18900363",
+      "dates": [
+        "2026-12-30"
+      ],
+      "grade": "1-2",
+      "venue": "MakerKids Mississauga",
+      "amount": 125,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18900369",
+      "dates": [
+        "2026-12-31"
+      ],
+      "grade": "1-2",
+      "venue": "MakerKids Mississauga",
+      "amount": 125,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18900475",
+      "dates": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "grade": null,
+      "venue": "MakerKids Mississauga",
+      "amount": 80,
+      "from_hour": "8:00am",
+      "to_hour": "9:00am"
+    },
+    {
+      "key": "mk-18900493",
+      "dates": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "grade": null,
+      "venue": "MakerKids Mississauga",
+      "amount": 100,
+      "from_hour": "3:30pm",
+      "to_hour": "5:30pm"
+    },
+    {
+      "key": "mk-335597",
+      "dates": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "grade": null,
+      "venue": "MakerKids Mississauga",
+      "amount": 20,
+      "from_hour": "8:00am",
+      "to_hour": "9:00am"
+    },
+    {
+      "key": "mk-335599",
+      "dates": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "grade": null,
+      "venue": "MakerKids Mississauga",
+      "amount": 25,
+      "from_hour": "3:30pm",
+      "to_hour": "5:00pm"
+    },
+    {
+      "key": "mk-18900328",
+      "dates": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "grade": "3-8",
+      "venue": "MakerKids Mississauga",
+      "amount": 450,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18900408",
+      "dates": [
+        "2026-12-28"
+      ],
+      "grade": "3-8",
+      "venue": "MakerKids Mississauga",
+      "amount": 125,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18900420",
+      "dates": [
+        "2026-12-29"
+      ],
+      "grade": "3-8",
+      "venue": "MakerKids Mississauga",
+      "amount": 125,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18900456",
+      "dates": [
+        "2026-12-30"
+      ],
+      "grade": "3-8",
+      "venue": "MakerKids Mississauga",
+      "amount": 125,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18900438",
+      "dates": [
+        "2026-12-31"
+      ],
+      "grade": "3-8",
+      "venue": "MakerKids Mississauga",
+      "amount": 125,
+      "from_hour": "9:00am",
+      "to_hour": "3:30pm"
+    },
+    {
+      "key": "mk-18900475",
+      "dates": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "grade": null,
+      "venue": "MakerKids Mississauga",
+      "amount": 80,
+      "from_hour": "8:00am",
+      "to_hour": "9:00am"
+    },
+    {
+      "key": "mk-18900493",
+      "dates": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "grade": null,
+      "venue": "MakerKids Mississauga",
+      "amount": 100,
+      "from_hour": "3:30pm",
+      "to_hour": "5:30pm"
+    },
+    {
+      "key": "mk-335597",
+      "dates": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "grade": null,
+      "venue": "MakerKids Mississauga",
+      "amount": 20,
+      "from_hour": "8:00am",
+      "to_hour": "9:00am"
+    },
+    {
+      "key": "mk-335599",
+      "dates": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "grade": null,
+      "venue": "MakerKids Mississauga",
+      "amount": 25,
+      "from_hour": "3:30pm",
+      "to_hour": "5:00pm"
+    }
+  ],
+  "observations": [
+    "MakerKids: 3 campuses, 2 weeks, 2 grade ranges. Each dossier has 1 block and 4 single-day alternatives, not 5 distinct programmes. Both ages need actual grade mapping. Published CAD 450/125 per child. Care CAD 80/100 per child for the package, CAD 20/25 per child daily. Mississauga second-week package aftercare is until 17:30, its single-day aftercare until 17:00. Language, availability and final tax are unconfirmed.",
+    "Spark Techies: both age-compatible, private-calendar dates need access confirmation. Standard CAD 80/380 before 13% Ontario HST. November 13 and both confirmed March blocks have exact Uplifter cutoffs; March early-bird cutoff unavailable. Third March block has inconsistent operator vs registration dates and is undated in the public calendar.",
+    "VISST: grade 5–9 Maker Lab and 5–8 Arcade; CAD 300 each or CAD 570 combined per student, bring laptop. Creative Technology restricted to girls and non-binary students in grades 6–7 in Metro Vancouver with selection; source conflicts 2026/2027. No exact dates exported for that track.",
+    "Nova Spark Jr: ages 6–9 and a published FIRST LEGO League Explore team number. Current registration closed and festival date pending. Operator advertises 16 sessions but lists 15 session dates plus festival; no invented dates.",
+    "CRC Aqua Junior 4–8 grades, max 4 per school/organization team, deadline 4 December, CAD 350/400, bring LEGO kit. Senior school/CEGEP separately sourced with regular deadline elapsed. Public spectator access, individual admission, judging language and final team availability not established.",
+    "SCWIST STEM Expo free for families with advance registration, under 14 with adult 18+. Terminal City and Breakout are tabletop events with confirmed accompaniment rules. Prices from public seller summaries, no ticket held."
+  ]
+}
