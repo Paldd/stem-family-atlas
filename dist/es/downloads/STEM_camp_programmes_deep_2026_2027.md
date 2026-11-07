@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-07. 1781 fichas en 104 países. Cada ficha indica las fechas de verificación de sus fuentes.
+Estado de la base: 2026-11-07. 1787 fichas en 104 países. Cada ficha indica las fechas de verificación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -140261,6 +140261,602 @@ España · MUNCYT Coruña · Praza do Museo Nacional de Ciencia, 1
 ### Fuentes
 
 - [Página oficial del organizador](https://www.muncyt.es/actividades/participa-en-una-game-jam-con-software-libre) · 2026-11-07
+
+## CP1782 · Sesc Bom Retiro · Laboratório Digital · Vóxeles
+
+Brasil · Sesc Bom Retiro · Espaço de Tecnologias e Artes · São Paulo
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Hasta 12 años inclusive.
+
+**Idioma:** Idioma de las actividades sin indicar. Confirmar directamente con el recinto.
+
+**Programa:** Fabricación digital y montaje manual de objetos a partir de vóxeles.
+
+**Alojamiento:** Taller presencial breve sin alojamiento.
+
+**Fechas / estado:** Domingos hasta el 27 de diciembre de 2026, 10:30–12:00. Gratis. Confirmar disponibilidad.
+
+**Precio / año:** 2026 · Gratis.
+
+**Incluido:** Fabricación digital y montaje manual de objetos a partir de vóxeles.
+
+**Pago:** Gratis.
+
+**Matvey:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+**Oscar:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad exacta de acceso y plaza con el recinto.
+
+### 10:30–12:00
+
+**Fechas / estado:** 2026-11-08 — 2026-11-08
+
+**lugar:** Sesc Bom Retiro · Espaço de Tecnologias e Artes · São Paulo
+
+**edad:** Hasta 12 años inclusive.
+
+**Precio:** Gratis.
+
+- 2026-11-08 · 10:30–12:00 · America/Sao_Paulo · Fabricación digital y montaje manual de objetos a partir de vóxeles.
+
+**Disponibilidad de plazas:** Confirmar edad exacta de acceso y plaza con el recinto.
+
+**Matvey:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+**Oscar:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+[fuente](https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/)
+
+### 10:30–12:00
+
+**Fechas / estado:** 2026-11-15 — 2026-11-15
+
+**lugar:** Sesc Bom Retiro · Espaço de Tecnologias e Artes · São Paulo
+
+**edad:** Hasta 12 años inclusive.
+
+**Precio:** Gratis.
+
+- 2026-11-15 · 10:30–12:00 · America/Sao_Paulo · Fabricación digital y montaje manual de objetos a partir de vóxeles.
+
+**Disponibilidad de plazas:** Confirmar edad exacta de acceso y plaza con el recinto.
+
+**Matvey:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+**Oscar:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+[fuente](https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/)
+
+### 10:30–12:00
+
+**Fechas / estado:** 2026-11-22 — 2026-11-22
+
+**lugar:** Sesc Bom Retiro · Espaço de Tecnologias e Artes · São Paulo
+
+**edad:** Hasta 12 años inclusive.
+
+**Precio:** Gratis.
+
+- 2026-11-22 · 10:30–12:00 · America/Sao_Paulo · Fabricación digital y montaje manual de objetos a partir de vóxeles.
+
+**Disponibilidad de plazas:** Confirmar edad exacta de acceso y plaza con el recinto.
+
+**Matvey:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+**Oscar:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+[fuente](https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/)
+
+### 10:30–12:00
+
+**Fechas / estado:** 2026-11-29 — 2026-11-29
+
+**lugar:** Sesc Bom Retiro · Espaço de Tecnologias e Artes · São Paulo
+
+**edad:** Hasta 12 años inclusive.
+
+**Precio:** Gratis.
+
+- 2026-11-29 · 10:30–12:00 · America/Sao_Paulo · Fabricación digital y montaje manual de objetos a partir de vóxeles.
+
+**Disponibilidad de plazas:** Confirmar edad exacta de acceso y plaza con el recinto.
+
+**Matvey:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+**Oscar:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+[fuente](https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/)
+
+### 10:30–12:00
+
+**Fechas / estado:** 2026-12-06 — 2026-12-06
+
+**lugar:** Sesc Bom Retiro · Espaço de Tecnologias e Artes · São Paulo
+
+**edad:** Hasta 12 años inclusive.
+
+**Precio:** Gratis.
+
+- 2026-12-06 · 10:30–12:00 · America/Sao_Paulo · Fabricación digital y montaje manual de objetos a partir de vóxeles.
+
+**Disponibilidad de plazas:** Confirmar edad exacta de acceso y plaza con el recinto.
+
+**Matvey:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+**Oscar:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+[fuente](https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/)
+
+### 10:30–12:00
+
+**Fechas / estado:** 2026-12-13 — 2026-12-13
+
+**lugar:** Sesc Bom Retiro · Espaço de Tecnologias e Artes · São Paulo
+
+**edad:** Hasta 12 años inclusive.
+
+**Precio:** Gratis.
+
+- 2026-12-13 · 10:30–12:00 · America/Sao_Paulo · Fabricación digital y montaje manual de objetos a partir de vóxeles.
+
+**Disponibilidad de plazas:** Confirmar edad exacta de acceso y plaza con el recinto.
+
+**Matvey:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+**Oscar:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+[fuente](https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/)
+
+### 10:30–12:00
+
+**Fechas / estado:** 2026-12-20 — 2026-12-20
+
+**lugar:** Sesc Bom Retiro · Espaço de Tecnologias e Artes · São Paulo
+
+**edad:** Hasta 12 años inclusive.
+
+**Precio:** Gratis.
+
+- 2026-12-20 · 10:30–12:00 · America/Sao_Paulo · Fabricación digital y montaje manual de objetos a partir de vóxeles.
+
+**Disponibilidad de plazas:** Confirmar edad exacta de acceso y plaza con el recinto.
+
+**Matvey:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+**Oscar:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+[fuente](https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/)
+
+### 10:30–12:00
+
+**Fechas / estado:** 2026-12-27 — 2026-12-27
+
+**lugar:** Sesc Bom Retiro · Espaço de Tecnologias e Artes · São Paulo
+
+**edad:** Hasta 12 años inclusive.
+
+**Precio:** Gratis.
+
+- 2026-12-27 · 10:30–12:00 · America/Sao_Paulo · Fabricación digital y montaje manual de objetos a partir de vóxeles.
+
+**Disponibilidad de plazas:** Confirmar edad exacta de acceso y plaza con el recinto.
+
+**Matvey:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+**Oscar:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+[fuente](https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/) · 2026-11-07
+
+## CP1783 · Sesc Consolação · Inventatório
+
+Brasil · Sesc Consolação · Sala Gama · São Paulo
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Recomendado para niños hasta 6 años inclusive.
+
+**Idioma:** Idioma de las actividades sin indicar. Confirmar directamente con el recinto.
+
+**Programa:** Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.
+
+**Alojamiento:** Taller presencial breve sin alojamiento.
+
+**Fechas / estado:** Fechas publicadas hasta el 13 de diciembre de 2026, 15:00–17:00. Gratis, sin retirar entrada.
+
+**Precio / año:** 2026 · Gratis.
+
+**Incluido:** Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.
+
+**Pago:** Gratis.
+
+**Matvey:** 9 años supera la edad recomendada. Confirmar acceso de niños mayores.
+
+**Oscar:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad exacta de acceso y plaza con el recinto.
+
+### 15:00–17:00
+
+**Fechas / estado:** 2026-11-08 — 2026-11-08
+
+**lugar:** Sesc Consolação · Sala Gama · São Paulo
+
+**edad:** Recomendado para niños hasta 6 años inclusive.
+
+**Precio:** Gratis.
+
+- 2026-11-08 · 15:00–17:00 · America/Sao_Paulo · Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.
+
+**Disponibilidad de plazas:** Confirmar edad exacta de acceso y plaza con el recinto.
+
+**Matvey:** 9 años supera la edad recomendada. Confirmar acceso de niños mayores.
+
+**Oscar:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+[fuente](https://www.sescsp.org.br/programacao/inventatorio/)
+
+### 15:00–17:00
+
+**Fechas / estado:** 2026-11-14 — 2026-11-14
+
+**lugar:** Sesc Consolação · Sala Gama · São Paulo
+
+**edad:** Recomendado para niños hasta 6 años inclusive.
+
+**Precio:** Gratis.
+
+- 2026-11-14 · 15:00–17:00 · America/Sao_Paulo · Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.
+
+**Disponibilidad de plazas:** Confirmar edad exacta de acceso y plaza con el recinto.
+
+**Matvey:** 9 años supera la edad recomendada. Confirmar acceso de niños mayores.
+
+**Oscar:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+[fuente](https://www.sescsp.org.br/programacao/inventatorio/)
+
+### 15:00–17:00
+
+**Fechas / estado:** 2026-11-15 — 2026-11-15
+
+**lugar:** Sesc Consolação · Sala Gama · São Paulo
+
+**edad:** Recomendado para niños hasta 6 años inclusive.
+
+**Precio:** Gratis.
+
+- 2026-11-15 · 15:00–17:00 · America/Sao_Paulo · Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.
+
+**Disponibilidad de plazas:** Confirmar edad exacta de acceso y plaza con el recinto.
+
+**Matvey:** 9 años supera la edad recomendada. Confirmar acceso de niños mayores.
+
+**Oscar:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+[fuente](https://www.sescsp.org.br/programacao/inventatorio/)
+
+### 15:00–17:00
+
+**Fechas / estado:** 2026-11-21 — 2026-11-21
+
+**lugar:** Sesc Consolação · Sala Gama · São Paulo
+
+**edad:** Recomendado para niños hasta 6 años inclusive.
+
+**Precio:** Gratis.
+
+- 2026-11-21 · 15:00–17:00 · America/Sao_Paulo · Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.
+
+**Disponibilidad de plazas:** Confirmar edad exacta de acceso y plaza con el recinto.
+
+**Matvey:** 9 años supera la edad recomendada. Confirmar acceso de niños mayores.
+
+**Oscar:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+[fuente](https://www.sescsp.org.br/programacao/inventatorio/)
+
+### 15:00–17:00
+
+**Fechas / estado:** 2026-11-22 — 2026-11-22
+
+**lugar:** Sesc Consolação · Sala Gama · São Paulo
+
+**edad:** Recomendado para niños hasta 6 años inclusive.
+
+**Precio:** Gratis.
+
+- 2026-11-22 · 15:00–17:00 · America/Sao_Paulo · Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.
+
+**Disponibilidad de plazas:** Confirmar edad exacta de acceso y plaza con el recinto.
+
+**Matvey:** 9 años supera la edad recomendada. Confirmar acceso de niños mayores.
+
+**Oscar:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+[fuente](https://www.sescsp.org.br/programacao/inventatorio/)
+
+### 15:00–17:00
+
+**Fechas / estado:** 2026-11-28 — 2026-11-28
+
+**lugar:** Sesc Consolação · Sala Gama · São Paulo
+
+**edad:** Recomendado para niños hasta 6 años inclusive.
+
+**Precio:** Gratis.
+
+- 2026-11-28 · 15:00–17:00 · America/Sao_Paulo · Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.
+
+**Disponibilidad de plazas:** Confirmar edad exacta de acceso y plaza con el recinto.
+
+**Matvey:** 9 años supera la edad recomendada. Confirmar acceso de niños mayores.
+
+**Oscar:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+[fuente](https://www.sescsp.org.br/programacao/inventatorio/)
+
+### 15:00–17:00
+
+**Fechas / estado:** 2026-11-29 — 2026-11-29
+
+**lugar:** Sesc Consolação · Sala Gama · São Paulo
+
+**edad:** Recomendado para niños hasta 6 años inclusive.
+
+**Precio:** Gratis.
+
+- 2026-11-29 · 15:00–17:00 · America/Sao_Paulo · Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.
+
+**Disponibilidad de plazas:** Confirmar edad exacta de acceso y plaza con el recinto.
+
+**Matvey:** 9 años supera la edad recomendada. Confirmar acceso de niños mayores.
+
+**Oscar:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+[fuente](https://www.sescsp.org.br/programacao/inventatorio/)
+
+### 15:00–17:00
+
+**Fechas / estado:** 2026-12-05 — 2026-12-05
+
+**lugar:** Sesc Consolação · Sala Gama · São Paulo
+
+**edad:** Recomendado para niños hasta 6 años inclusive.
+
+**Precio:** Gratis.
+
+- 2026-12-05 · 15:00–17:00 · America/Sao_Paulo · Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.
+
+**Disponibilidad de plazas:** Confirmar edad exacta de acceso y plaza con el recinto.
+
+**Matvey:** 9 años supera la edad recomendada. Confirmar acceso de niños mayores.
+
+**Oscar:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+[fuente](https://www.sescsp.org.br/programacao/inventatorio/)
+
+### 15:00–17:00
+
+**Fechas / estado:** 2026-12-06 — 2026-12-06
+
+**lugar:** Sesc Consolação · Sala Gama · São Paulo
+
+**edad:** Recomendado para niños hasta 6 años inclusive.
+
+**Precio:** Gratis.
+
+- 2026-12-06 · 15:00–17:00 · America/Sao_Paulo · Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.
+
+**Disponibilidad de plazas:** Confirmar edad exacta de acceso y plaza con el recinto.
+
+**Matvey:** 9 años supera la edad recomendada. Confirmar acceso de niños mayores.
+
+**Oscar:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+[fuente](https://www.sescsp.org.br/programacao/inventatorio/)
+
+### 15:00–17:00
+
+**Fechas / estado:** 2026-12-12 — 2026-12-12
+
+**lugar:** Sesc Consolação · Sala Gama · São Paulo
+
+**edad:** Recomendado para niños hasta 6 años inclusive.
+
+**Precio:** Gratis.
+
+- 2026-12-12 · 15:00–17:00 · America/Sao_Paulo · Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.
+
+**Disponibilidad de plazas:** Confirmar edad exacta de acceso y plaza con el recinto.
+
+**Matvey:** 9 años supera la edad recomendada. Confirmar acceso de niños mayores.
+
+**Oscar:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+[fuente](https://www.sescsp.org.br/programacao/inventatorio/)
+
+### 15:00–17:00
+
+**Fechas / estado:** 2026-12-13 — 2026-12-13
+
+**lugar:** Sesc Consolação · Sala Gama · São Paulo
+
+**edad:** Recomendado para niños hasta 6 años inclusive.
+
+**Precio:** Gratis.
+
+- 2026-12-13 · 15:00–17:00 · America/Sao_Paulo · Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.
+
+**Disponibilidad de plazas:** Confirmar edad exacta de acceso y plaza con el recinto.
+
+**Matvey:** 9 años supera la edad recomendada. Confirmar acceso de niños mayores.
+
+**Oscar:** Edad adecuada. Confirmar plaza e idioma de la actividad.
+
+[fuente](https://www.sescsp.org.br/programacao/inventatorio/)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.sescsp.org.br/programacao/inventatorio/) · 2026-11-07
+
+## CP1784 · CTIC-UNI · Robótica con Lego Junior
+
+Perú · CTIC-UNI · Puerta 5 · Lima
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 9–12 años.
+
+**Idioma:** Idioma de las actividades sin indicar. Confirmar directamente con el recinto.
+
+**Programa:** Introducción a LEGO Mindstorms NXT y EV3, montaje y programación.
+
+**Alojamiento:** Taller presencial breve sin alojamiento.
+
+**Fechas / estado:** La ficha indica inicio en enero sin año y condiciones de 2026. Próxima convocatoria, días y precio pendientes.
+
+**Precio / año:** sin establecer · Tarifa de la convocatoria actual sin confirmar.
+
+**Incluido:** Introducción a LEGO Mindstorms NXT y EV3, montaje y programación.
+
+**Matvey:** 9 años entra en el intervalo publicado. Confirmar temporada, fecha y plaza.
+
+**Oscar:** No, por la edad mínima publicada de 9 años.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad exacta de acceso y plaza con el recinto.
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.ctic.uni.edu.pe/educacion/robotica-con-lego-junior/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.ctic.uni.edu.pe/cursos-y-talleres/) · 2026-11-07
+
+## CP1785 · CTIC-UNI · Robótica Interactiva con DEX Junior
+
+Perú · CTIC-UNI · Puerta 5 · Lima
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 9–12 años.
+
+**Idioma:** Idioma de las actividades sin indicar. Confirmar directamente con el recinto.
+
+**Programa:** Electrónica, programación, robots y aplicaciones Android con AppInventor.
+
+**Alojamiento:** Taller presencial breve sin alojamiento.
+
+**Fechas / estado:** La ficha indica inicio en enero sin año y condiciones de 2026. Próxima convocatoria, días y precio pendientes.
+
+**Precio / año:** sin establecer · Tarifa de la convocatoria actual sin confirmar.
+
+**Incluido:** Electrónica, programación, robots y aplicaciones Android con AppInventor.
+
+**Matvey:** 9 años entra en el intervalo publicado. Confirmar temporada, fecha y plaza.
+
+**Oscar:** No, por la edad mínima publicada de 9 años.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad exacta de acceso y plaza con el recinto.
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.ctic.uni.edu.pe/educacion/taller-de-robotica-interactiva-junior/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.ctic.uni.edu.pe/cursos-y-talleres/) · 2026-11-07
+
+## CP1786 · CTIC-UNI · Inventores Minimaker 3D
+
+Perú · CTIC-UNI · Puerta 5 · Lima
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 9–12 años.
+
+**Idioma:** Idioma de las actividades sin indicar. Confirmar directamente con el recinto.
+
+**Programa:** Proyectos prácticos de diseño tridimensional y fabricación digital.
+
+**Alojamiento:** Taller presencial breve sin alojamiento.
+
+**Fechas / estado:** La ficha indica inicio en enero sin año y condiciones de 2026. Próxima convocatoria, días y precio pendientes.
+
+**Precio / año:** sin establecer · Tarifa de la convocatoria actual sin confirmar.
+
+**Incluido:** Proyectos prácticos de diseño tridimensional y fabricación digital.
+
+**Matvey:** 9 años entra en el intervalo publicado. Confirmar temporada, fecha y plaza.
+
+**Oscar:** No, por la edad mínima publicada de 9 años.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad exacta de acceso y plaza con el recinto.
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.ctic.uni.edu.pe/educacion/taller-de-robotica-con-arduino-teens/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.ctic.uni.edu.pe/cursos-y-talleres/) · 2026-11-07
+
+## CP1787 · CTIC-UNI · Realidad Virtual y Aumentada
+
+Perú · CTIC-UNI · Puerta 5 · Lima
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 9–12 años.
+
+**Idioma:** Idioma de las actividades sin indicar. Confirmar directamente con el recinto.
+
+**Programa:** Modelos, animación y programación de mundos interactivos de realidad aumentada.
+
+**Alojamiento:** Taller presencial breve sin alojamiento.
+
+**Fechas / estado:** La ficha indica inicio en enero sin año y condiciones de 2026. Próxima convocatoria, días y precio pendientes.
+
+**Precio / año:** sin establecer · Tarifa de la convocatoria actual sin confirmar.
+
+**Incluido:** Modelos, animación y programación de mundos interactivos de realidad aumentada.
+
+**Matvey:** 9 años entra en el intervalo publicado. Confirmar temporada, fecha y plaza.
+
+**Oscar:** No, por la edad mínima publicada de 9 años.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad exacta de acceso y plaza con el recinto.
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.ctic.uni.edu.pe/educacion/taller-de-robotica-con-arduino-junior/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.ctic.uni.edu.pe/cursos-y-talleres/) · 2026-11-07
 
 ## ~ Comprobaciones no cerradas
 

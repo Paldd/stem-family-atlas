@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 8098,
-    "competition_cards": 3308,
-    "event_cards": 398,
-    "camp_cards": 4392,
-    "league_profiles": 274,
-    "major_exhibition_cards": 309,
+    "cards": 8138,
+    "competition_cards": 3321,
+    "event_cards": 406,
+    "camp_cards": 4411,
+    "league_profiles": 275,
+    "major_exhibition_cards": 317,
     "vex_cards": 518,
     "countries_with_records": 161,
     "fully_audited_countries": 0
@@ -34,9 +34,9 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 2630,
+      "total": 2633,
       "countries_with_records": 24,
-      "competitions": 1458,
+      "competitions": 1461,
       "events": 95,
       "major_exhibitions": 58,
       "camps": 1077,
@@ -48,12 +48,12 @@
       "regions": [
         "Южная Америка"
       ],
-      "total": 388,
+      "total": 425,
       "countries_with_records": 11,
-      "competitions": 222,
-      "events": 24,
-      "major_exhibitions": 21,
-      "camps": 142,
+      "competitions": 232,
+      "events": 32,
+      "major_exhibitions": 29,
+      "camps": 161,
       "status": "Частично исследовано",
       "remaining": "Много карточек Ecuador и региональных маршрутов Chile; Brazil, Perú и другие страны требуют местных этапов, квот и календарей."
     },
@@ -6213,6 +6213,24 @@
       "new": false
     },
     {
+      "id": "classic-tetris-world-championship",
+      "name": "Classic Tetris World Championship",
+      "group": "games",
+      "event_ids": [
+        "C3318",
+        "C3319",
+        "C3320",
+        "C3321",
+        "C3322"
+      ],
+      "cards": 5,
+      "future_dated": 5,
+      "linked_card_count": 5,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://thectwc.com/events/",
+      "new": false
+    },
+    {
       "id": "tech-challenge-project",
       "name": "The Tech Challenge · инженерная программа и showcase",
       "group": "regional",
@@ -10637,6 +10655,94 @@
       "new": false
     },
     {
+      "id": "E399",
+      "name": "C3 Expo 2026 · Canal3 Classic Gaming",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "start": "2026-11-20",
+      "end": "2026-11-22",
+      "visitor_policy": "family",
+      "source": "https://c3expo.com.br/faq",
+      "new": false
+    },
+    {
+      "id": "E400",
+      "name": "Game Expo Rio 2026",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "start": "2026-11-15",
+      "end": "2026-11-15",
+      "visitor_policy": "family",
+      "source": "https://www.gameexporio.com.br/",
+      "new": false
+    },
+    {
+      "id": "E401",
+      "name": "Jahu Game Show 2026",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "visitor_policy": "family",
+      "source": "https://www.jahugameshow.com.br/",
+      "new": false
+    },
+    {
+      "id": "E402",
+      "name": "FestiGame 2026 · Santiago",
+      "country": "Чили",
+      "region": "Южная Америка",
+      "start": "2026-12-10",
+      "end": "2026-12-13",
+      "visitor_policy": "family",
+      "source": "https://cl.festigame.com/",
+      "new": false
+    },
+    {
+      "id": "E403",
+      "name": "FestiGame · The Game Awards Watch Party",
+      "country": "Чили",
+      "region": "Южная Америка",
+      "start": "2026-12-10",
+      "end": "2026-12-10",
+      "visitor_policy": "confirm_children",
+      "source": "https://cl.festigame.com/",
+      "new": false
+    },
+    {
+      "id": "E404",
+      "name": "LEVEL UY Game Dev Summit 2026 · Expo",
+      "country": "Уругвай",
+      "region": "Южная Америка",
+      "start": "2026-11-20",
+      "end": "2026-11-21",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.leveluy.com/",
+      "new": false
+    },
+    {
+      "id": "E405",
+      "name": "Cambiemos el Chip Fest · Cali 2027",
+      "country": "Колумбия",
+      "region": "Южная Америка",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://cambiemoselchipfest.com/",
+      "new": false
+    },
+    {
+      "id": "E406",
+      "name": "Game Fest Minas 2026",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.sympla.com.br/evento/game-fest-minas/3321900",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -13054,8 +13160,8 @@
       }
     ],
     "counts": {
-      "records": 4392,
-      "holiday": 4115,
+      "records": 4411,
+      "holiday": 4134,
       "regular": 120,
       "self_paced_materials": 2,
       "boarding": 1036,

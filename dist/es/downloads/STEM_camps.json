@@ -580,8 +580,8 @@
       }
     ],
     "counts": {
-      "records": 4392,
-      "holiday": 4115,
+      "records": 4411,
+      "holiday": 4134,
       "regular": 120,
       "self_paced_materials": 2,
       "boarding": 1036,
@@ -33137,7 +33137,7 @@
         "ZH"
       ],
       "language_mode": "primary",
-      "cost": "Gratuito.",
+      "cost": "Gratis.",
       "level": "Etapa regional",
       "reward": "",
       "priority": "P2 — participación según condiciones",
@@ -33205,7 +33205,7 @@
         "ZH"
       ],
       "language_mode": "primary",
-      "cost": "Gratuito.",
+      "cost": "Gratis.",
       "level": "Etapa regional",
       "reward": "",
       "priority": "P2 — participación según condiciones",
@@ -346852,6 +346852,1363 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "muncyt-coruna-intro-game-jam",
       "camp_programme_id": "CP1781"
+    },
+    {
+      "id": "CP1782-20261108-20261108",
+      "block": "Campamentos",
+      "title": "Sesc Bom Retiro · Laboratório Digital · Vóxeles · 10:30–12:00 · 2026-11-08–2026-11-08",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "city": "Sesc Bom Retiro · Espaço de Tecnologias e Artes · São Paulo",
+      "start": "2026-11-08",
+      "end": "2026-11-08",
+      "period": "Domingos hasta el 27 de diciembre de 2026, 10:30–12:00. Gratis. Confirmar disponibilidad.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Hasta 12 años inclusive.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Taller presencial breve sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Fabricación digital y montaje manual de objetos a partir de vóxeles.",
+      "language": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "cost": "2026/27 · Gratis. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar edad exacta de acceso y plaza con el recinto.",
+      "source": "https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/",
+      "references": [
+        {
+          "url": "https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Edad adecuada. Confirmar plaza e idioma de la actividad. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.",
+      "iso": [
+        "BRA"
+      ],
+      "themes": [
+        "makers",
+        "technology",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sesc-bom-retiro-voxel-lab",
+      "camp_programme_id": "CP1782",
+      "sessions": [
+        {
+          "date": "2026-11-08",
+          "topic": "Fabricación digital y montaje manual de objetos a partir de vóxeles.",
+          "start_time": "10:30",
+          "end_time": "12:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2026-11-08T13:30:00Z",
+          "end_utc": "2026-11-08T15:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+      }
+    },
+    {
+      "id": "CP1782-20261115-20261115",
+      "block": "Campamentos",
+      "title": "Sesc Bom Retiro · Laboratório Digital · Vóxeles · 10:30–12:00 · 2026-11-15–2026-11-15",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "city": "Sesc Bom Retiro · Espaço de Tecnologias e Artes · São Paulo",
+      "start": "2026-11-15",
+      "end": "2026-11-15",
+      "period": "Domingos hasta el 27 de diciembre de 2026, 10:30–12:00. Gratis. Confirmar disponibilidad.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Hasta 12 años inclusive.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Taller presencial breve sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Fabricación digital y montaje manual de objetos a partir de vóxeles.",
+      "language": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "cost": "2026/27 · Gratis. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar edad exacta de acceso y plaza con el recinto.",
+      "source": "https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/",
+      "references": [
+        {
+          "url": "https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Edad adecuada. Confirmar plaza e idioma de la actividad. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.",
+      "iso": [
+        "BRA"
+      ],
+      "themes": [
+        "makers",
+        "technology",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sesc-bom-retiro-voxel-lab",
+      "camp_programme_id": "CP1782",
+      "sessions": [
+        {
+          "date": "2026-11-15",
+          "topic": "Fabricación digital y montaje manual de objetos a partir de vóxeles.",
+          "start_time": "10:30",
+          "end_time": "12:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2026-11-15T13:30:00Z",
+          "end_utc": "2026-11-15T15:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+      }
+    },
+    {
+      "id": "CP1782-20261122-20261122",
+      "block": "Campamentos",
+      "title": "Sesc Bom Retiro · Laboratório Digital · Vóxeles · 10:30–12:00 · 2026-11-22–2026-11-22",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "city": "Sesc Bom Retiro · Espaço de Tecnologias e Artes · São Paulo",
+      "start": "2026-11-22",
+      "end": "2026-11-22",
+      "period": "Domingos hasta el 27 de diciembre de 2026, 10:30–12:00. Gratis. Confirmar disponibilidad.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Hasta 12 años inclusive.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Taller presencial breve sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Fabricación digital y montaje manual de objetos a partir de vóxeles.",
+      "language": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "cost": "2026/27 · Gratis. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar edad exacta de acceso y plaza con el recinto.",
+      "source": "https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/",
+      "references": [
+        {
+          "url": "https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Edad adecuada. Confirmar plaza e idioma de la actividad. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.",
+      "iso": [
+        "BRA"
+      ],
+      "themes": [
+        "makers",
+        "technology",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sesc-bom-retiro-voxel-lab",
+      "camp_programme_id": "CP1782",
+      "sessions": [
+        {
+          "date": "2026-11-22",
+          "topic": "Fabricación digital y montaje manual de objetos a partir de vóxeles.",
+          "start_time": "10:30",
+          "end_time": "12:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2026-11-22T13:30:00Z",
+          "end_utc": "2026-11-22T15:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+      }
+    },
+    {
+      "id": "CP1782-20261129-20261129",
+      "block": "Campamentos",
+      "title": "Sesc Bom Retiro · Laboratório Digital · Vóxeles · 10:30–12:00 · 2026-11-29–2026-11-29",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "city": "Sesc Bom Retiro · Espaço de Tecnologias e Artes · São Paulo",
+      "start": "2026-11-29",
+      "end": "2026-11-29",
+      "period": "Domingos hasta el 27 de diciembre de 2026, 10:30–12:00. Gratis. Confirmar disponibilidad.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Hasta 12 años inclusive.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Taller presencial breve sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Fabricación digital y montaje manual de objetos a partir de vóxeles.",
+      "language": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "cost": "2026/27 · Gratis. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar edad exacta de acceso y plaza con el recinto.",
+      "source": "https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/",
+      "references": [
+        {
+          "url": "https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Edad adecuada. Confirmar plaza e idioma de la actividad. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.",
+      "iso": [
+        "BRA"
+      ],
+      "themes": [
+        "makers",
+        "technology",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sesc-bom-retiro-voxel-lab",
+      "camp_programme_id": "CP1782",
+      "sessions": [
+        {
+          "date": "2026-11-29",
+          "topic": "Fabricación digital y montaje manual de objetos a partir de vóxeles.",
+          "start_time": "10:30",
+          "end_time": "12:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2026-11-29T13:30:00Z",
+          "end_utc": "2026-11-29T15:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+      }
+    },
+    {
+      "id": "CP1782-20261206-20261206",
+      "block": "Campamentos",
+      "title": "Sesc Bom Retiro · Laboratório Digital · Vóxeles · 10:30–12:00 · 2026-12-06–2026-12-06",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "city": "Sesc Bom Retiro · Espaço de Tecnologias e Artes · São Paulo",
+      "start": "2026-12-06",
+      "end": "2026-12-06",
+      "period": "Domingos hasta el 27 de diciembre de 2026, 10:30–12:00. Gratis. Confirmar disponibilidad.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Hasta 12 años inclusive.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Taller presencial breve sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Fabricación digital y montaje manual de objetos a partir de vóxeles.",
+      "language": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "cost": "2026/27 · Gratis. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar edad exacta de acceso y plaza con el recinto.",
+      "source": "https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/",
+      "references": [
+        {
+          "url": "https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Edad adecuada. Confirmar plaza e idioma de la actividad. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.",
+      "iso": [
+        "BRA"
+      ],
+      "themes": [
+        "makers",
+        "technology",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sesc-bom-retiro-voxel-lab",
+      "camp_programme_id": "CP1782",
+      "sessions": [
+        {
+          "date": "2026-12-06",
+          "topic": "Fabricación digital y montaje manual de objetos a partir de vóxeles.",
+          "start_time": "10:30",
+          "end_time": "12:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2026-12-06T13:30:00Z",
+          "end_utc": "2026-12-06T15:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+      }
+    },
+    {
+      "id": "CP1782-20261213-20261213",
+      "block": "Campamentos",
+      "title": "Sesc Bom Retiro · Laboratório Digital · Vóxeles · 10:30–12:00 · 2026-12-13–2026-12-13",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "city": "Sesc Bom Retiro · Espaço de Tecnologias e Artes · São Paulo",
+      "start": "2026-12-13",
+      "end": "2026-12-13",
+      "period": "Domingos hasta el 27 de diciembre de 2026, 10:30–12:00. Gratis. Confirmar disponibilidad.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Hasta 12 años inclusive.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Taller presencial breve sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Fabricación digital y montaje manual de objetos a partir de vóxeles.",
+      "language": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "cost": "2026/27 · Gratis. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar edad exacta de acceso y plaza con el recinto.",
+      "source": "https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/",
+      "references": [
+        {
+          "url": "https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Edad adecuada. Confirmar plaza e idioma de la actividad. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.",
+      "iso": [
+        "BRA"
+      ],
+      "themes": [
+        "makers",
+        "technology",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sesc-bom-retiro-voxel-lab",
+      "camp_programme_id": "CP1782",
+      "sessions": [
+        {
+          "date": "2026-12-13",
+          "topic": "Fabricación digital y montaje manual de objetos a partir de vóxeles.",
+          "start_time": "10:30",
+          "end_time": "12:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2026-12-13T13:30:00Z",
+          "end_utc": "2026-12-13T15:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+      }
+    },
+    {
+      "id": "CP1782-20261220-20261220",
+      "block": "Campamentos",
+      "title": "Sesc Bom Retiro · Laboratório Digital · Vóxeles · 10:30–12:00 · 2026-12-20–2026-12-20",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "city": "Sesc Bom Retiro · Espaço de Tecnologias e Artes · São Paulo",
+      "start": "2026-12-20",
+      "end": "2026-12-20",
+      "period": "Domingos hasta el 27 de diciembre de 2026, 10:30–12:00. Gratis. Confirmar disponibilidad.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Hasta 12 años inclusive.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Taller presencial breve sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Fabricación digital y montaje manual de objetos a partir de vóxeles.",
+      "language": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "cost": "2026/27 · Gratis. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar edad exacta de acceso y plaza con el recinto.",
+      "source": "https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/",
+      "references": [
+        {
+          "url": "https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Edad adecuada. Confirmar plaza e idioma de la actividad. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.",
+      "iso": [
+        "BRA"
+      ],
+      "themes": [
+        "makers",
+        "technology",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sesc-bom-retiro-voxel-lab",
+      "camp_programme_id": "CP1782",
+      "sessions": [
+        {
+          "date": "2026-12-20",
+          "topic": "Fabricación digital y montaje manual de objetos a partir de vóxeles.",
+          "start_time": "10:30",
+          "end_time": "12:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2026-12-20T13:30:00Z",
+          "end_utc": "2026-12-20T15:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+      }
+    },
+    {
+      "id": "CP1782-20261227-20261227",
+      "block": "Campamentos",
+      "title": "Sesc Bom Retiro · Laboratório Digital · Vóxeles · 10:30–12:00 · 2026-12-27–2026-12-27",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "city": "Sesc Bom Retiro · Espaço de Tecnologias e Artes · São Paulo",
+      "start": "2026-12-27",
+      "end": "2026-12-27",
+      "period": "Domingos hasta el 27 de diciembre de 2026, 10:30–12:00. Gratis. Confirmar disponibilidad.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Hasta 12 años inclusive.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Taller presencial breve sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Fabricación digital y montaje manual de objetos a partir de vóxeles.",
+      "language": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "cost": "2026/27 · Gratis. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar edad exacta de acceso y plaza con el recinto.",
+      "source": "https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/",
+      "references": [
+        {
+          "url": "https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Edad adecuada. Confirmar plaza e idioma de la actividad. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.",
+      "iso": [
+        "BRA"
+      ],
+      "themes": [
+        "makers",
+        "technology",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sesc-bom-retiro-voxel-lab",
+      "camp_programme_id": "CP1782",
+      "sessions": [
+        {
+          "date": "2026-12-27",
+          "topic": "Fabricación digital y montaje manual de objetos a partir de vóxeles.",
+          "start_time": "10:30",
+          "end_time": "12:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2026-12-27T13:30:00Z",
+          "end_utc": "2026-12-27T15:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+      }
+    },
+    {
+      "id": "CP1783-20261108-20261108",
+      "block": "Campamentos",
+      "title": "Sesc Consolação · Inventatório · 15:00–17:00 · 2026-11-08–2026-11-08",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "city": "Sesc Consolação · Sala Gama · São Paulo",
+      "start": "2026-11-08",
+      "end": "2026-11-08",
+      "period": "Fechas publicadas hasta el 13 de diciembre de 2026, 15:00–17:00. Gratis, sin retirar entrada.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Recomendado para niños hasta 6 años inclusive.",
+      "mat": "para especificar; no se ha establecido el permiso de edad",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Taller presencial breve sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+      "language": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "cost": "2026/27 · Gratis. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar edad exacta de acceso y plaza con el recinto.",
+      "source": "https://www.sescsp.org.br/programacao/inventatorio/",
+      "references": [
+        {
+          "url": "https://www.sescsp.org.br/programacao/inventatorio/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: 9 años supera la edad recomendada. Confirmar acceso de niños mayores. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.",
+      "iso": [
+        "BRA"
+      ],
+      "themes": [
+        "makers",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sesc-consolacao-inventatorio",
+      "camp_programme_id": "CP1783",
+      "sessions": [
+        {
+          "date": "2026-11-08",
+          "topic": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+          "start_time": "15:00",
+          "end_time": "17:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2026-11-08T18:00:00Z",
+          "end_utc": "2026-11-08T20:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+      }
+    },
+    {
+      "id": "CP1783-20261114-20261114",
+      "block": "Campamentos",
+      "title": "Sesc Consolação · Inventatório · 15:00–17:00 · 2026-11-14–2026-11-14",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "city": "Sesc Consolação · Sala Gama · São Paulo",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "period": "Fechas publicadas hasta el 13 de diciembre de 2026, 15:00–17:00. Gratis, sin retirar entrada.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Recomendado para niños hasta 6 años inclusive.",
+      "mat": "para especificar; no se ha establecido el permiso de edad",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Taller presencial breve sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+      "language": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "cost": "2026/27 · Gratis. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar edad exacta de acceso y plaza con el recinto.",
+      "source": "https://www.sescsp.org.br/programacao/inventatorio/",
+      "references": [
+        {
+          "url": "https://www.sescsp.org.br/programacao/inventatorio/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: 9 años supera la edad recomendada. Confirmar acceso de niños mayores. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.",
+      "iso": [
+        "BRA"
+      ],
+      "themes": [
+        "makers",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sesc-consolacao-inventatorio",
+      "camp_programme_id": "CP1783",
+      "sessions": [
+        {
+          "date": "2026-11-14",
+          "topic": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+          "start_time": "15:00",
+          "end_time": "17:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2026-11-14T18:00:00Z",
+          "end_utc": "2026-11-14T20:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+      }
+    },
+    {
+      "id": "CP1783-20261115-20261115",
+      "block": "Campamentos",
+      "title": "Sesc Consolação · Inventatório · 15:00–17:00 · 2026-11-15–2026-11-15",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "city": "Sesc Consolação · Sala Gama · São Paulo",
+      "start": "2026-11-15",
+      "end": "2026-11-15",
+      "period": "Fechas publicadas hasta el 13 de diciembre de 2026, 15:00–17:00. Gratis, sin retirar entrada.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Recomendado para niños hasta 6 años inclusive.",
+      "mat": "para especificar; no se ha establecido el permiso de edad",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Taller presencial breve sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+      "language": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "cost": "2026/27 · Gratis. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar edad exacta de acceso y plaza con el recinto.",
+      "source": "https://www.sescsp.org.br/programacao/inventatorio/",
+      "references": [
+        {
+          "url": "https://www.sescsp.org.br/programacao/inventatorio/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: 9 años supera la edad recomendada. Confirmar acceso de niños mayores. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.",
+      "iso": [
+        "BRA"
+      ],
+      "themes": [
+        "makers",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sesc-consolacao-inventatorio",
+      "camp_programme_id": "CP1783",
+      "sessions": [
+        {
+          "date": "2026-11-15",
+          "topic": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+          "start_time": "15:00",
+          "end_time": "17:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2026-11-15T18:00:00Z",
+          "end_utc": "2026-11-15T20:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+      }
+    },
+    {
+      "id": "CP1783-20261121-20261121",
+      "block": "Campamentos",
+      "title": "Sesc Consolação · Inventatório · 15:00–17:00 · 2026-11-21–2026-11-21",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "city": "Sesc Consolação · Sala Gama · São Paulo",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "period": "Fechas publicadas hasta el 13 de diciembre de 2026, 15:00–17:00. Gratis, sin retirar entrada.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Recomendado para niños hasta 6 años inclusive.",
+      "mat": "para especificar; no se ha establecido el permiso de edad",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Taller presencial breve sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+      "language": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "cost": "2026/27 · Gratis. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar edad exacta de acceso y plaza con el recinto.",
+      "source": "https://www.sescsp.org.br/programacao/inventatorio/",
+      "references": [
+        {
+          "url": "https://www.sescsp.org.br/programacao/inventatorio/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: 9 años supera la edad recomendada. Confirmar acceso de niños mayores. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.",
+      "iso": [
+        "BRA"
+      ],
+      "themes": [
+        "makers",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sesc-consolacao-inventatorio",
+      "camp_programme_id": "CP1783",
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "topic": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+          "start_time": "15:00",
+          "end_time": "17:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2026-11-21T18:00:00Z",
+          "end_utc": "2026-11-21T20:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+      }
+    },
+    {
+      "id": "CP1783-20261122-20261122",
+      "block": "Campamentos",
+      "title": "Sesc Consolação · Inventatório · 15:00–17:00 · 2026-11-22–2026-11-22",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "city": "Sesc Consolação · Sala Gama · São Paulo",
+      "start": "2026-11-22",
+      "end": "2026-11-22",
+      "period": "Fechas publicadas hasta el 13 de diciembre de 2026, 15:00–17:00. Gratis, sin retirar entrada.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Recomendado para niños hasta 6 años inclusive.",
+      "mat": "para especificar; no se ha establecido el permiso de edad",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Taller presencial breve sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+      "language": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "cost": "2026/27 · Gratis. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar edad exacta de acceso y plaza con el recinto.",
+      "source": "https://www.sescsp.org.br/programacao/inventatorio/",
+      "references": [
+        {
+          "url": "https://www.sescsp.org.br/programacao/inventatorio/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: 9 años supera la edad recomendada. Confirmar acceso de niños mayores. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.",
+      "iso": [
+        "BRA"
+      ],
+      "themes": [
+        "makers",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sesc-consolacao-inventatorio",
+      "camp_programme_id": "CP1783",
+      "sessions": [
+        {
+          "date": "2026-11-22",
+          "topic": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+          "start_time": "15:00",
+          "end_time": "17:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2026-11-22T18:00:00Z",
+          "end_utc": "2026-11-22T20:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+      }
+    },
+    {
+      "id": "CP1783-20261128-20261128",
+      "block": "Campamentos",
+      "title": "Sesc Consolação · Inventatório · 15:00–17:00 · 2026-11-28–2026-11-28",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "city": "Sesc Consolação · Sala Gama · São Paulo",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "period": "Fechas publicadas hasta el 13 de diciembre de 2026, 15:00–17:00. Gratis, sin retirar entrada.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Recomendado para niños hasta 6 años inclusive.",
+      "mat": "para especificar; no se ha establecido el permiso de edad",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Taller presencial breve sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+      "language": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "cost": "2026/27 · Gratis. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar edad exacta de acceso y plaza con el recinto.",
+      "source": "https://www.sescsp.org.br/programacao/inventatorio/",
+      "references": [
+        {
+          "url": "https://www.sescsp.org.br/programacao/inventatorio/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: 9 años supera la edad recomendada. Confirmar acceso de niños mayores. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.",
+      "iso": [
+        "BRA"
+      ],
+      "themes": [
+        "makers",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sesc-consolacao-inventatorio",
+      "camp_programme_id": "CP1783",
+      "sessions": [
+        {
+          "date": "2026-11-28",
+          "topic": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+          "start_time": "15:00",
+          "end_time": "17:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2026-11-28T18:00:00Z",
+          "end_utc": "2026-11-28T20:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+      }
+    },
+    {
+      "id": "CP1783-20261129-20261129",
+      "block": "Campamentos",
+      "title": "Sesc Consolação · Inventatório · 15:00–17:00 · 2026-11-29–2026-11-29",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "city": "Sesc Consolação · Sala Gama · São Paulo",
+      "start": "2026-11-29",
+      "end": "2026-11-29",
+      "period": "Fechas publicadas hasta el 13 de diciembre de 2026, 15:00–17:00. Gratis, sin retirar entrada.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Recomendado para niños hasta 6 años inclusive.",
+      "mat": "para especificar; no se ha establecido el permiso de edad",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Taller presencial breve sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+      "language": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "cost": "2026/27 · Gratis. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar edad exacta de acceso y plaza con el recinto.",
+      "source": "https://www.sescsp.org.br/programacao/inventatorio/",
+      "references": [
+        {
+          "url": "https://www.sescsp.org.br/programacao/inventatorio/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: 9 años supera la edad recomendada. Confirmar acceso de niños mayores. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.",
+      "iso": [
+        "BRA"
+      ],
+      "themes": [
+        "makers",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sesc-consolacao-inventatorio",
+      "camp_programme_id": "CP1783",
+      "sessions": [
+        {
+          "date": "2026-11-29",
+          "topic": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+          "start_time": "15:00",
+          "end_time": "17:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2026-11-29T18:00:00Z",
+          "end_utc": "2026-11-29T20:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+      }
+    },
+    {
+      "id": "CP1783-20261205-20261205",
+      "block": "Campamentos",
+      "title": "Sesc Consolação · Inventatório · 15:00–17:00 · 2026-12-05–2026-12-05",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "city": "Sesc Consolação · Sala Gama · São Paulo",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "period": "Fechas publicadas hasta el 13 de diciembre de 2026, 15:00–17:00. Gratis, sin retirar entrada.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Recomendado para niños hasta 6 años inclusive.",
+      "mat": "para especificar; no se ha establecido el permiso de edad",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Taller presencial breve sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+      "language": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "cost": "2026/27 · Gratis. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar edad exacta de acceso y plaza con el recinto.",
+      "source": "https://www.sescsp.org.br/programacao/inventatorio/",
+      "references": [
+        {
+          "url": "https://www.sescsp.org.br/programacao/inventatorio/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: 9 años supera la edad recomendada. Confirmar acceso de niños mayores. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.",
+      "iso": [
+        "BRA"
+      ],
+      "themes": [
+        "makers",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sesc-consolacao-inventatorio",
+      "camp_programme_id": "CP1783",
+      "sessions": [
+        {
+          "date": "2026-12-05",
+          "topic": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+          "start_time": "15:00",
+          "end_time": "17:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2026-12-05T18:00:00Z",
+          "end_utc": "2026-12-05T20:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+      }
+    },
+    {
+      "id": "CP1783-20261206-20261206",
+      "block": "Campamentos",
+      "title": "Sesc Consolação · Inventatório · 15:00–17:00 · 2026-12-06–2026-12-06",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "city": "Sesc Consolação · Sala Gama · São Paulo",
+      "start": "2026-12-06",
+      "end": "2026-12-06",
+      "period": "Fechas publicadas hasta el 13 de diciembre de 2026, 15:00–17:00. Gratis, sin retirar entrada.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Recomendado para niños hasta 6 años inclusive.",
+      "mat": "para especificar; no se ha establecido el permiso de edad",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Taller presencial breve sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+      "language": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "cost": "2026/27 · Gratis. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar edad exacta de acceso y plaza con el recinto.",
+      "source": "https://www.sescsp.org.br/programacao/inventatorio/",
+      "references": [
+        {
+          "url": "https://www.sescsp.org.br/programacao/inventatorio/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: 9 años supera la edad recomendada. Confirmar acceso de niños mayores. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.",
+      "iso": [
+        "BRA"
+      ],
+      "themes": [
+        "makers",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sesc-consolacao-inventatorio",
+      "camp_programme_id": "CP1783",
+      "sessions": [
+        {
+          "date": "2026-12-06",
+          "topic": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+          "start_time": "15:00",
+          "end_time": "17:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2026-12-06T18:00:00Z",
+          "end_utc": "2026-12-06T20:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+      }
+    },
+    {
+      "id": "CP1783-20261212-20261212",
+      "block": "Campamentos",
+      "title": "Sesc Consolação · Inventatório · 15:00–17:00 · 2026-12-12–2026-12-12",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "city": "Sesc Consolação · Sala Gama · São Paulo",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "period": "Fechas publicadas hasta el 13 de diciembre de 2026, 15:00–17:00. Gratis, sin retirar entrada.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Recomendado para niños hasta 6 años inclusive.",
+      "mat": "para especificar; no se ha establecido el permiso de edad",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Taller presencial breve sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+      "language": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "cost": "2026/27 · Gratis. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar edad exacta de acceso y plaza con el recinto.",
+      "source": "https://www.sescsp.org.br/programacao/inventatorio/",
+      "references": [
+        {
+          "url": "https://www.sescsp.org.br/programacao/inventatorio/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: 9 años supera la edad recomendada. Confirmar acceso de niños mayores. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.",
+      "iso": [
+        "BRA"
+      ],
+      "themes": [
+        "makers",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sesc-consolacao-inventatorio",
+      "camp_programme_id": "CP1783",
+      "sessions": [
+        {
+          "date": "2026-12-12",
+          "topic": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+          "start_time": "15:00",
+          "end_time": "17:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2026-12-12T18:00:00Z",
+          "end_utc": "2026-12-12T20:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+      }
+    },
+    {
+      "id": "CP1783-20261213-20261213",
+      "block": "Campamentos",
+      "title": "Sesc Consolação · Inventatório · 15:00–17:00 · 2026-12-13–2026-12-13",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "city": "Sesc Consolação · Sala Gama · São Paulo",
+      "start": "2026-12-13",
+      "end": "2026-12-13",
+      "period": "Fechas publicadas hasta el 13 de diciembre de 2026, 15:00–17:00. Gratis, sin retirar entrada.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Recomendado para niños hasta 6 años inclusive.",
+      "mat": "para especificar; no se ha establecido el permiso de edad",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Taller presencial breve sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+      "language": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "cost": "2026/27 · Gratis. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar edad exacta de acceso y plaza con el recinto.",
+      "source": "https://www.sescsp.org.br/programacao/inventatorio/",
+      "references": [
+        {
+          "url": "https://www.sescsp.org.br/programacao/inventatorio/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: 9 años supera la edad recomendada. Confirmar acceso de niños mayores. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.",
+      "iso": [
+        "BRA"
+      ],
+      "themes": [
+        "makers",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sesc-consolacao-inventatorio",
+      "camp_programme_id": "CP1783",
+      "sessions": [
+        {
+          "date": "2026-12-13",
+          "topic": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+          "start_time": "15:00",
+          "end_time": "17:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2026-12-13T18:00:00Z",
+          "end_utc": "2026-12-13T20:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+      }
     },
     {
       "id": "L491",

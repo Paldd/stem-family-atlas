@@ -30,15 +30,15 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1781,
+    "dossiers": 1787,
     "countries": 104,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 261,
       "published_2027": 498,
       "partial_2027": 140,
-      "next_unannounced": 354,
-      "published_2026": 313,
+      "next_unannounced": 358,
+      "published_2026": 315,
       "partial_2026_27": 29,
       "partial_2026": 23,
       "archive_next_unannounced": 138,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2534
+    "source_urls": 2541
   },
   "countries": [
     {
@@ -93,7 +93,7 @@
     },
     {
       "country": "Brasil",
-      "count": 4
+      "count": 6
     },
     {
       "country": "Reino Unido",
@@ -321,7 +321,7 @@
     },
     {
       "country": "Perú",
-      "count": 12
+      "count": 16
     },
     {
       "country": "Polonia",
@@ -299593,6 +299593,1302 @@
           ]
         }
       ]
+    },
+    {
+      "id": "CP1782",
+      "slug": "sesc-bom-retiro-voxel-lab",
+      "provider": "Sesc Bom Retiro · Laboratório Digital · Vóxeles",
+      "country": "Brasil",
+      "iso": "BRA",
+      "place": "Sesc Bom Retiro · Espaço de Tecnologias e Artes · São Paulo",
+      "age": "Hasta 12 años inclusive.",
+      "themes": [
+        "makers",
+        "technology",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "confirmed_instruction_languages": [],
+      "programme": "Fabricación digital y montaje manual de objetos a partir de vóxeles.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Domingos hasta el 27 de diciembre de 2026, 10:30–12:00. Gratis. Confirmar disponibilidad.",
+        "sessions": [
+          [
+            "2026-11-08",
+            "2026-11-08"
+          ],
+          [
+            "2026-11-15",
+            "2026-11-15"
+          ],
+          [
+            "2026-11-22",
+            "2026-11-22"
+          ],
+          [
+            "2026-11-29",
+            "2026-11-29"
+          ],
+          [
+            "2026-12-06",
+            "2026-12-06"
+          ],
+          [
+            "2026-12-13",
+            "2026-12-13"
+          ],
+          [
+            "2026-12-20",
+            "2026-12-20"
+          ],
+          [
+            "2026-12-27",
+            "2026-12-27"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "2026-11-08",
+            "start": "2026-11-08",
+            "end": "2026-11-08",
+            "label": "10:30–12:00",
+            "place": "Sesc Bom Retiro · Espaço de Tecnologias e Artes · São Paulo",
+            "age": "Hasta 12 años inclusive.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada. Confirmar plaza e idioma de la actividad."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada. Confirmar plaza e idioma de la actividad."
+              }
+            },
+            "source": "https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/",
+            "price": "Gratis.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-08",
+                "topic": "Fabricación digital y montaje manual de objetos a partir de vóxeles.",
+                "start_time": "10:30",
+                "end_time": "12:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "2026-11-15",
+            "start": "2026-11-15",
+            "end": "2026-11-15",
+            "label": "10:30–12:00",
+            "place": "Sesc Bom Retiro · Espaço de Tecnologias e Artes · São Paulo",
+            "age": "Hasta 12 años inclusive.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada. Confirmar plaza e idioma de la actividad."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada. Confirmar plaza e idioma de la actividad."
+              }
+            },
+            "source": "https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/",
+            "price": "Gratis.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-15",
+                "topic": "Fabricación digital y montaje manual de objetos a partir de vóxeles.",
+                "start_time": "10:30",
+                "end_time": "12:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "2026-11-22",
+            "start": "2026-11-22",
+            "end": "2026-11-22",
+            "label": "10:30–12:00",
+            "place": "Sesc Bom Retiro · Espaço de Tecnologias e Artes · São Paulo",
+            "age": "Hasta 12 años inclusive.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada. Confirmar plaza e idioma de la actividad."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada. Confirmar plaza e idioma de la actividad."
+              }
+            },
+            "source": "https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/",
+            "price": "Gratis.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-22",
+                "topic": "Fabricación digital y montaje manual de objetos a partir de vóxeles.",
+                "start_time": "10:30",
+                "end_time": "12:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "2026-11-29",
+            "start": "2026-11-29",
+            "end": "2026-11-29",
+            "label": "10:30–12:00",
+            "place": "Sesc Bom Retiro · Espaço de Tecnologias e Artes · São Paulo",
+            "age": "Hasta 12 años inclusive.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada. Confirmar plaza e idioma de la actividad."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada. Confirmar plaza e idioma de la actividad."
+              }
+            },
+            "source": "https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/",
+            "price": "Gratis.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-29",
+                "topic": "Fabricación digital y montaje manual de objetos a partir de vóxeles.",
+                "start_time": "10:30",
+                "end_time": "12:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "2026-12-06",
+            "start": "2026-12-06",
+            "end": "2026-12-06",
+            "label": "10:30–12:00",
+            "place": "Sesc Bom Retiro · Espaço de Tecnologias e Artes · São Paulo",
+            "age": "Hasta 12 años inclusive.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada. Confirmar plaza e idioma de la actividad."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada. Confirmar plaza e idioma de la actividad."
+              }
+            },
+            "source": "https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/",
+            "price": "Gratis.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-06",
+                "topic": "Fabricación digital y montaje manual de objetos a partir de vóxeles.",
+                "start_time": "10:30",
+                "end_time": "12:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "2026-12-13",
+            "start": "2026-12-13",
+            "end": "2026-12-13",
+            "label": "10:30–12:00",
+            "place": "Sesc Bom Retiro · Espaço de Tecnologias e Artes · São Paulo",
+            "age": "Hasta 12 años inclusive.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada. Confirmar plaza e idioma de la actividad."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada. Confirmar plaza e idioma de la actividad."
+              }
+            },
+            "source": "https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/",
+            "price": "Gratis.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-13",
+                "topic": "Fabricación digital y montaje manual de objetos a partir de vóxeles.",
+                "start_time": "10:30",
+                "end_time": "12:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "2026-12-20",
+            "start": "2026-12-20",
+            "end": "2026-12-20",
+            "label": "10:30–12:00",
+            "place": "Sesc Bom Retiro · Espaço de Tecnologias e Artes · São Paulo",
+            "age": "Hasta 12 años inclusive.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada. Confirmar plaza e idioma de la actividad."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada. Confirmar plaza e idioma de la actividad."
+              }
+            },
+            "source": "https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/",
+            "price": "Gratis.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-20",
+                "topic": "Fabricación digital y montaje manual de objetos a partir de vóxeles.",
+                "start_time": "10:30",
+                "end_time": "12:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "2026-12-27",
+            "start": "2026-12-27",
+            "end": "2026-12-27",
+            "label": "10:30–12:00",
+            "place": "Sesc Bom Retiro · Espaço de Tecnologias e Artes · São Paulo",
+            "age": "Hasta 12 años inclusive.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad adecuada. Confirmar plaza e idioma de la actividad."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada. Confirmar plaza e idioma de la actividad."
+              }
+            },
+            "source": "https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/",
+            "price": "Gratis.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-27",
+                "topic": "Fabricación digital y montaje manual de objetos a partir de vóxeles.",
+                "start_time": "10:30",
+                "end_time": "12:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "BRL",
+        "amount": 0,
+        "unit": "workshop",
+        "label": "Gratis.",
+        "included": "Fabricación digital y montaje manual de objetos a partir de vóxeles.",
+        "extras": "",
+        "deposit": "Gratis."
+      },
+      "accommodation": "Taller presencial breve sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Edad adecuada. Confirmar plaza e idioma de la actividad."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Edad adecuada. Confirmar plaza e idioma de la actividad."
+        }
+      },
+      "editorial_reason": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar edad exacta de acceso y plaza con el recinto."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-08",
+          "end": "2026-11-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1782-20261108-20261108"
+          ]
+        },
+        {
+          "start": "2026-11-15",
+          "end": "2026-11-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1782-20261115-20261115"
+          ]
+        },
+        {
+          "start": "2026-11-22",
+          "end": "2026-11-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1782-20261122-20261122"
+          ]
+        },
+        {
+          "start": "2026-11-29",
+          "end": "2026-11-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1782-20261129-20261129"
+          ]
+        },
+        {
+          "start": "2026-12-06",
+          "end": "2026-12-06",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1782-20261206-20261206"
+          ]
+        },
+        {
+          "start": "2026-12-13",
+          "end": "2026-12-13",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1782-20261213-20261213"
+          ]
+        },
+        {
+          "start": "2026-12-20",
+          "end": "2026-12-20",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1782-20261220-20261220"
+          ]
+        },
+        {
+          "start": "2026-12-27",
+          "end": "2026-12-27",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1782-20261227-20261227"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1783",
+      "slug": "sesc-consolacao-inventatorio",
+      "provider": "Sesc Consolação · Inventatório",
+      "country": "Brasil",
+      "iso": "BRA",
+      "place": "Sesc Consolação · Sala Gama · São Paulo",
+      "age": "Recomendado para niños hasta 6 años inclusive.",
+      "themes": [
+        "makers",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "confirmed_instruction_languages": [],
+      "programme": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Fechas publicadas hasta el 13 de diciembre de 2026, 15:00–17:00. Gratis, sin retirar entrada.",
+        "sessions": [
+          [
+            "2026-11-08",
+            "2026-11-08"
+          ],
+          [
+            "2026-11-14",
+            "2026-11-14"
+          ],
+          [
+            "2026-11-15",
+            "2026-11-15"
+          ],
+          [
+            "2026-11-21",
+            "2026-11-21"
+          ],
+          [
+            "2026-11-22",
+            "2026-11-22"
+          ],
+          [
+            "2026-11-28",
+            "2026-11-28"
+          ],
+          [
+            "2026-11-29",
+            "2026-11-29"
+          ],
+          [
+            "2026-12-05",
+            "2026-12-05"
+          ],
+          [
+            "2026-12-06",
+            "2026-12-06"
+          ],
+          [
+            "2026-12-12",
+            "2026-12-12"
+          ],
+          [
+            "2026-12-13",
+            "2026-12-13"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "2026-11-08",
+            "start": "2026-11-08",
+            "end": "2026-11-08",
+            "label": "15:00–17:00",
+            "place": "Sesc Consolação · Sala Gama · São Paulo",
+            "age": "Recomendado para niños hasta 6 años inclusive.",
+            "family_fit": {
+              "matvey": {
+                "status": "unknown",
+                "detail": "9 años supera la edad recomendada. Confirmar acceso de niños mayores."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada. Confirmar plaza e idioma de la actividad."
+              }
+            },
+            "source": "https://www.sescsp.org.br/programacao/inventatorio/",
+            "price": "Gratis.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-08",
+                "topic": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+                "start_time": "15:00",
+                "end_time": "17:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "2026-11-14",
+            "start": "2026-11-14",
+            "end": "2026-11-14",
+            "label": "15:00–17:00",
+            "place": "Sesc Consolação · Sala Gama · São Paulo",
+            "age": "Recomendado para niños hasta 6 años inclusive.",
+            "family_fit": {
+              "matvey": {
+                "status": "unknown",
+                "detail": "9 años supera la edad recomendada. Confirmar acceso de niños mayores."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada. Confirmar plaza e idioma de la actividad."
+              }
+            },
+            "source": "https://www.sescsp.org.br/programacao/inventatorio/",
+            "price": "Gratis.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-14",
+                "topic": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+                "start_time": "15:00",
+                "end_time": "17:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "2026-11-15",
+            "start": "2026-11-15",
+            "end": "2026-11-15",
+            "label": "15:00–17:00",
+            "place": "Sesc Consolação · Sala Gama · São Paulo",
+            "age": "Recomendado para niños hasta 6 años inclusive.",
+            "family_fit": {
+              "matvey": {
+                "status": "unknown",
+                "detail": "9 años supera la edad recomendada. Confirmar acceso de niños mayores."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada. Confirmar plaza e idioma de la actividad."
+              }
+            },
+            "source": "https://www.sescsp.org.br/programacao/inventatorio/",
+            "price": "Gratis.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-15",
+                "topic": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+                "start_time": "15:00",
+                "end_time": "17:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "2026-11-21",
+            "start": "2026-11-21",
+            "end": "2026-11-21",
+            "label": "15:00–17:00",
+            "place": "Sesc Consolação · Sala Gama · São Paulo",
+            "age": "Recomendado para niños hasta 6 años inclusive.",
+            "family_fit": {
+              "matvey": {
+                "status": "unknown",
+                "detail": "9 años supera la edad recomendada. Confirmar acceso de niños mayores."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada. Confirmar plaza e idioma de la actividad."
+              }
+            },
+            "source": "https://www.sescsp.org.br/programacao/inventatorio/",
+            "price": "Gratis.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-21",
+                "topic": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+                "start_time": "15:00",
+                "end_time": "17:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "2026-11-22",
+            "start": "2026-11-22",
+            "end": "2026-11-22",
+            "label": "15:00–17:00",
+            "place": "Sesc Consolação · Sala Gama · São Paulo",
+            "age": "Recomendado para niños hasta 6 años inclusive.",
+            "family_fit": {
+              "matvey": {
+                "status": "unknown",
+                "detail": "9 años supera la edad recomendada. Confirmar acceso de niños mayores."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada. Confirmar plaza e idioma de la actividad."
+              }
+            },
+            "source": "https://www.sescsp.org.br/programacao/inventatorio/",
+            "price": "Gratis.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-22",
+                "topic": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+                "start_time": "15:00",
+                "end_time": "17:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "2026-11-28",
+            "start": "2026-11-28",
+            "end": "2026-11-28",
+            "label": "15:00–17:00",
+            "place": "Sesc Consolação · Sala Gama · São Paulo",
+            "age": "Recomendado para niños hasta 6 años inclusive.",
+            "family_fit": {
+              "matvey": {
+                "status": "unknown",
+                "detail": "9 años supera la edad recomendada. Confirmar acceso de niños mayores."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada. Confirmar plaza e idioma de la actividad."
+              }
+            },
+            "source": "https://www.sescsp.org.br/programacao/inventatorio/",
+            "price": "Gratis.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-28",
+                "topic": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+                "start_time": "15:00",
+                "end_time": "17:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "2026-11-29",
+            "start": "2026-11-29",
+            "end": "2026-11-29",
+            "label": "15:00–17:00",
+            "place": "Sesc Consolação · Sala Gama · São Paulo",
+            "age": "Recomendado para niños hasta 6 años inclusive.",
+            "family_fit": {
+              "matvey": {
+                "status": "unknown",
+                "detail": "9 años supera la edad recomendada. Confirmar acceso de niños mayores."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada. Confirmar plaza e idioma de la actividad."
+              }
+            },
+            "source": "https://www.sescsp.org.br/programacao/inventatorio/",
+            "price": "Gratis.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-29",
+                "topic": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+                "start_time": "15:00",
+                "end_time": "17:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "2026-12-05",
+            "start": "2026-12-05",
+            "end": "2026-12-05",
+            "label": "15:00–17:00",
+            "place": "Sesc Consolação · Sala Gama · São Paulo",
+            "age": "Recomendado para niños hasta 6 años inclusive.",
+            "family_fit": {
+              "matvey": {
+                "status": "unknown",
+                "detail": "9 años supera la edad recomendada. Confirmar acceso de niños mayores."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada. Confirmar plaza e idioma de la actividad."
+              }
+            },
+            "source": "https://www.sescsp.org.br/programacao/inventatorio/",
+            "price": "Gratis.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-05",
+                "topic": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+                "start_time": "15:00",
+                "end_time": "17:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "2026-12-06",
+            "start": "2026-12-06",
+            "end": "2026-12-06",
+            "label": "15:00–17:00",
+            "place": "Sesc Consolação · Sala Gama · São Paulo",
+            "age": "Recomendado para niños hasta 6 años inclusive.",
+            "family_fit": {
+              "matvey": {
+                "status": "unknown",
+                "detail": "9 años supera la edad recomendada. Confirmar acceso de niños mayores."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada. Confirmar plaza e idioma de la actividad."
+              }
+            },
+            "source": "https://www.sescsp.org.br/programacao/inventatorio/",
+            "price": "Gratis.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-06",
+                "topic": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+                "start_time": "15:00",
+                "end_time": "17:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "2026-12-12",
+            "start": "2026-12-12",
+            "end": "2026-12-12",
+            "label": "15:00–17:00",
+            "place": "Sesc Consolação · Sala Gama · São Paulo",
+            "age": "Recomendado para niños hasta 6 años inclusive.",
+            "family_fit": {
+              "matvey": {
+                "status": "unknown",
+                "detail": "9 años supera la edad recomendada. Confirmar acceso de niños mayores."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada. Confirmar plaza e idioma de la actividad."
+              }
+            },
+            "source": "https://www.sescsp.org.br/programacao/inventatorio/",
+            "price": "Gratis.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-12",
+                "topic": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+                "start_time": "15:00",
+                "end_time": "17:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "2026-12-13",
+            "start": "2026-12-13",
+            "end": "2026-12-13",
+            "label": "15:00–17:00",
+            "place": "Sesc Consolação · Sala Gama · São Paulo",
+            "age": "Recomendado para niños hasta 6 años inclusive.",
+            "family_fit": {
+              "matvey": {
+                "status": "unknown",
+                "detail": "9 años supera la edad recomendada. Confirmar acceso de niños mayores."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad adecuada. Confirmar plaza e idioma de la actividad."
+              }
+            },
+            "source": "https://www.sescsp.org.br/programacao/inventatorio/",
+            "price": "Gratis.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-13",
+                "topic": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+                "start_time": "15:00",
+                "end_time": "17:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "BRL",
+        "amount": 0,
+        "unit": "workshop",
+        "label": "Gratis.",
+        "included": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+        "extras": "",
+        "deposit": "Gratis."
+      },
+      "accommodation": "Taller presencial breve sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "9 años supera la edad recomendada. Confirmar acceso de niños mayores."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Edad adecuada. Confirmar plaza e idioma de la actividad."
+        }
+      },
+      "editorial_reason": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar edad exacta de acceso y plaza con el recinto."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sescsp.org.br/programacao/inventatorio/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-08",
+          "end": "2026-11-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1783-20261108-20261108"
+          ]
+        },
+        {
+          "start": "2026-11-14",
+          "end": "2026-11-14",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1783-20261114-20261114"
+          ]
+        },
+        {
+          "start": "2026-11-15",
+          "end": "2026-11-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1783-20261115-20261115"
+          ]
+        },
+        {
+          "start": "2026-11-21",
+          "end": "2026-11-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1783-20261121-20261121"
+          ]
+        },
+        {
+          "start": "2026-11-22",
+          "end": "2026-11-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1783-20261122-20261122"
+          ]
+        },
+        {
+          "start": "2026-11-28",
+          "end": "2026-11-28",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1783-20261128-20261128"
+          ]
+        },
+        {
+          "start": "2026-11-29",
+          "end": "2026-11-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1783-20261129-20261129"
+          ]
+        },
+        {
+          "start": "2026-12-05",
+          "end": "2026-12-05",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1783-20261205-20261205"
+          ]
+        },
+        {
+          "start": "2026-12-06",
+          "end": "2026-12-06",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1783-20261206-20261206"
+          ]
+        },
+        {
+          "start": "2026-12-12",
+          "end": "2026-12-12",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1783-20261212-20261212"
+          ]
+        },
+        {
+          "start": "2026-12-13",
+          "end": "2026-12-13",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1783-20261213-20261213"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1784",
+      "slug": "ctic-uni-lima-lego",
+      "provider": "CTIC-UNI · Robótica con Lego Junior",
+      "country": "Perú",
+      "iso": "PER",
+      "place": "CTIC-UNI · Puerta 5 · Lima",
+      "age": "9–12 años.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "confirmed_instruction_languages": [],
+      "programme": "Introducción a LEGO Mindstorms NXT y EV3, montaje y programación.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "La ficha indica inicio en enero sin año y condiciones de 2026. Próxima convocatoria, días y precio pendientes.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "label": "Tarifa de la convocatoria actual sin confirmar.",
+        "included": "Introducción a LEGO Mindstorms NXT y EV3, montaje y programación.",
+        "extras": "",
+        "deposit": ""
+      },
+      "accommodation": "Taller presencial breve sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "9 años entra en el intervalo publicado. Confirmar temporada, fecha y plaza."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "No, por la edad mínima publicada de 9 años."
+        }
+      },
+      "editorial_reason": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar edad exacta de acceso y plaza con el recinto."
+      ],
+      "sources": [
+        {
+          "url": "https://www.ctic.uni.edu.pe/educacion/robotica-con-lego-junior/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.ctic.uni.edu.pe/cursos-y-talleres/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "course",
+      "catalog_participation": "course",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1785",
+      "slug": "ctic-uni-lima-dex",
+      "provider": "CTIC-UNI · Robótica Interactiva con DEX Junior",
+      "country": "Perú",
+      "iso": "PER",
+      "place": "CTIC-UNI · Puerta 5 · Lima",
+      "age": "9–12 años.",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "confirmed_instruction_languages": [],
+      "programme": "Electrónica, programación, robots y aplicaciones Android con AppInventor.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "La ficha indica inicio en enero sin año y condiciones de 2026. Próxima convocatoria, días y precio pendientes.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "label": "Tarifa de la convocatoria actual sin confirmar.",
+        "included": "Electrónica, programación, robots y aplicaciones Android con AppInventor.",
+        "extras": "",
+        "deposit": ""
+      },
+      "accommodation": "Taller presencial breve sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "9 años entra en el intervalo publicado. Confirmar temporada, fecha y plaza."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "No, por la edad mínima publicada de 9 años."
+        }
+      },
+      "editorial_reason": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar edad exacta de acceso y plaza con el recinto."
+      ],
+      "sources": [
+        {
+          "url": "https://www.ctic.uni.edu.pe/educacion/taller-de-robotica-interactiva-junior/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.ctic.uni.edu.pe/cursos-y-talleres/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "course",
+      "catalog_participation": "course",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1786",
+      "slug": "ctic-uni-lima-minimaker",
+      "provider": "CTIC-UNI · Inventores Minimaker 3D",
+      "country": "Perú",
+      "iso": "PER",
+      "place": "CTIC-UNI · Puerta 5 · Lima",
+      "age": "9–12 años.",
+      "themes": [
+        "makers",
+        "engineering",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "confirmed_instruction_languages": [],
+      "programme": "Proyectos prácticos de diseño tridimensional y fabricación digital.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "La ficha indica inicio en enero sin año y condiciones de 2026. Próxima convocatoria, días y precio pendientes.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "label": "Tarifa de la convocatoria actual sin confirmar.",
+        "included": "Proyectos prácticos de diseño tridimensional y fabricación digital.",
+        "extras": "",
+        "deposit": ""
+      },
+      "accommodation": "Taller presencial breve sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "9 años entra en el intervalo publicado. Confirmar temporada, fecha y plaza."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "No, por la edad mínima publicada de 9 años."
+        }
+      },
+      "editorial_reason": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar edad exacta de acceso y plaza con el recinto."
+      ],
+      "sources": [
+        {
+          "url": "https://www.ctic.uni.edu.pe/educacion/taller-de-robotica-con-arduino-teens/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.ctic.uni.edu.pe/cursos-y-talleres/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "course",
+      "catalog_participation": "course",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1787",
+      "slug": "ctic-uni-lima-ar",
+      "provider": "CTIC-UNI · Realidad Virtual y Aumentada",
+      "country": "Perú",
+      "iso": "PER",
+      "place": "CTIC-UNI · Puerta 5 · Lima",
+      "age": "9–12 años.",
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "confirmed_instruction_languages": [],
+      "programme": "Modelos, animación y programación de mundos interactivos de realidad aumentada.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "La ficha indica inicio en enero sin año y condiciones de 2026. Próxima convocatoria, días y precio pendientes.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "label": "Tarifa de la convocatoria actual sin confirmar.",
+        "included": "Modelos, animación y programación de mundos interactivos de realidad aumentada.",
+        "extras": "",
+        "deposit": ""
+      },
+      "accommodation": "Taller presencial breve sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "9 años entra en el intervalo publicado. Confirmar temporada, fecha y plaza."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "No, por la edad mínima publicada de 9 años."
+        }
+      },
+      "editorial_reason": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar edad exacta de acceso y plaza con el recinto."
+      ],
+      "sources": [
+        {
+          "url": "https://www.ctic.uni.edu.pe/educacion/taller-de-robotica-con-arduino-junior/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.ctic.uni.edu.pe/cursos-y-talleres/",
+          "title": "Página oficial del organizador",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "programme_type": "course",
+      "catalog_participation": "course",
+      "related_event_ids": [],
+      "calendar_links": []
     }
   ],
   "gaps": [
@@ -304918,7 +306214,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 230,
+  "version": 231,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -318153,7 +319449,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1781,
+      "total_dossiers": 1787,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -337758,6 +339054,101 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP1782",
+      "event_id": "CP1782-20261108-20261108",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1782",
+      "event_id": "CP1782-20261115-20261115",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1782",
+      "event_id": "CP1782-20261122-20261122",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1782",
+      "event_id": "CP1782-20261129-20261129",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1782",
+      "event_id": "CP1782-20261206-20261206",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1782",
+      "event_id": "CP1782-20261213-20261213",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1782",
+      "event_id": "CP1782-20261220-20261220",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1782",
+      "event_id": "CP1782-20261227-20261227",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1783",
+      "event_id": "CP1783-20261108-20261108",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1783",
+      "event_id": "CP1783-20261114-20261114",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1783",
+      "event_id": "CP1783-20261115-20261115",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1783",
+      "event_id": "CP1783-20261121-20261121",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1783",
+      "event_id": "CP1783-20261122-20261122",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1783",
+      "event_id": "CP1783-20261128-20261128",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1783",
+      "event_id": "CP1783-20261129-20261129",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1783",
+      "event_id": "CP1783-20261205-20261205",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1783",
+      "event_id": "CP1783-20261206-20261206",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1783",
+      "event_id": "CP1783-20261212-20261212",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1783",
+      "event_id": "CP1783-20261213-20261213",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -341923,10 +343314,29 @@
     "CP1774-20270522-20270522",
     "CP1775-20270322-20270326",
     "CP1776-20270322-20270326",
-    "CP1781-20261121-20261121"
+    "CP1781-20261121-20261121",
+    "CP1782-20261108-20261108",
+    "CP1782-20261115-20261115",
+    "CP1782-20261122-20261122",
+    "CP1782-20261129-20261129",
+    "CP1782-20261206-20261206",
+    "CP1782-20261213-20261213",
+    "CP1782-20261220-20261220",
+    "CP1782-20261227-20261227",
+    "CP1783-20261108-20261108",
+    "CP1783-20261114-20261114",
+    "CP1783-20261115-20261115",
+    "CP1783-20261121-20261121",
+    "CP1783-20261122-20261122",
+    "CP1783-20261128-20261128",
+    "CP1783-20261129-20261129",
+    "CP1783-20261205-20261205",
+    "CP1783-20261206-20261206",
+    "CP1783-20261212-20261212",
+    "CP1783-20261213-20261213"
   ],
   "integration": {
-    "generated_sessions": 3735,
+    "generated_sessions": 3754,
     "reused_legacy_events": 69,
     "seasonal_windows": 70,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

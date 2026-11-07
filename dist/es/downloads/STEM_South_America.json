@@ -12555,7 +12555,7 @@
       "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
       "languages": [],
       "language_mode": "unconfirmed",
-      "cost": "Gratuito.",
+      "cost": "Gratis.",
       "level": "Feria familiar o evento público",
       "reward": "",
       "priority": "P3 — visita según programa",
@@ -12616,7 +12616,7 @@
       "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
       "languages": [],
       "language_mode": "unconfirmed",
-      "cost": "Gratuito.",
+      "cost": "Gratis.",
       "level": "Feria familiar o evento público",
       "reward": "",
       "priority": "P3 — visita según programa",
@@ -14105,6 +14105,1119 @@
       "exhibitor_directory_url": "https://indiefestchile.cl/2026.html",
       "highlights": [],
       "exhibitors": []
+    },
+    {
+      "id": "E399",
+      "block": "Eventos",
+      "title": "C3 Expo 2026 · Canal3 Classic Gaming",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "iso": [
+        "BRA"
+      ],
+      "city": "STATE Innovation Center · Avenida Manuel Bandeira 360 · São Paulo",
+      "start": "2026-11-20",
+      "end": "2026-11-22",
+      "deadline": "",
+      "period": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://c3expo.com.br/faq",
+      "references": [
+        {
+          "url": "https://c3expo.com.br/ingressos",
+          "label": "Reglas y condiciones de admisión"
+        },
+        {
+          "url": "https://c3expo.com.br/visitantes",
+          "label": "Reglas y condiciones de admisión"
+        },
+        {
+          "url": "https://c3expo.com.br/programacao",
+          "label": "Reglas y condiciones de admisión"
+        }
+      ],
+      "age": "Hasta 10 años inclusive, gratis con responsable con entrada.",
+      "mat": "Sí, cumple las condiciones publicadas de acceso familiar.",
+      "osc": "Sí, cumple las condiciones publicadas de acceso familiar.",
+      "format": "Exposición pública y demostraciones",
+      "entry": "Hasta 10 años inclusive, gratis con responsable con entrada.",
+      "gear": "",
+      "language": "Información del organizador en portugués. Confirmar idiomas de cada actividad.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Adulto general: BRL 130 el viernes, BRL 160 el sábado, BRL 110 el domingo, BRL 270 por 3 días. Entrada solidaria: BRL 80, 95, 65 o BRL 160 por 3 días al donar 1 kg de alimentos no perecederos. Niños de 6 y 9 años gratis.",
+      "level": "Gran exposición nacional de videojuegos",
+      "reward": "",
+      "priority": "P1 — verificar admisión y plazos",
+      "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
+      "note": "20 de noviembre de 16:00 a 20:00, 21 y 22 de noviembre de 10:00 a 19:00. Más de 150 estaciones jugables, consolas retro, recreativas, juegos indie y exposiciones jugables. Algunas actividades tienen reglas propias.",
+      "themes": [
+        "games",
+        "technology"
+      ],
+      "scope": "national",
+      "importance_reason": "Gran exposición nacional de videojuegos",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "visitor_policy": "family",
+      "visitor_policy_note": "Hasta 10 años inclusive, gratis con responsable con entrada.",
+      "exhibition_tier": "family_alternative",
+      "adult_entry": "Adulto general: BRL 130 el viernes, BRL 160 el sábado, BRL 110 el domingo, BRL 270 por 3 días. Entrada solidaria: BRL 80, 95, 65 o BRL 160 por 3 días al donar 1 kg de alimentos no perecederos. Niños de 6 y 9 años gratis.",
+      "exhibitor_directory_url": "https://c3expo.com.br/faq",
+      "exhibitors": [],
+      "highlights": [],
+      "exhibitor_note": "20 de noviembre de 16:00 a 20:00, 21 y 22 de noviembre de 10:00 a 19:00. Más de 150 estaciones jugables, consolas retro, recreativas, juegos indie y exposiciones jugables. Algunas actividades tienen reglas propias.",
+      "related_ids": [
+        "C3310",
+        "C3311",
+        "C3318"
+      ]
+    },
+    {
+      "id": "C3310",
+      "block": "Competiciones",
+      "title": "C3 Expo · High Score C3",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "iso": [
+        "BRA"
+      ],
+      "city": "STATE Innovation Center · Avenida Manuel Bandeira 360 · São Paulo",
+      "start": "2026-11-20",
+      "end": "2026-11-22",
+      "deadline": "",
+      "period": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://c3expo.com.br/high-score",
+      "references": [
+        {
+          "url": "https://c3expo.com.br/faq",
+          "label": "Reglas y condiciones de admisión"
+        }
+      ],
+      "age": "Condicional. Confirmar edad y acompañamiento para la actividad elegida.",
+      "mat": "Condicional. Confirmar edad y acompañamiento para la actividad elegida.",
+      "osc": "Condicional. Confirmar edad y acompañamiento para la actividad elegida.",
+      "format": "Registro individual de puntuaciones",
+      "entry": "Condicional. Confirmar edad y acompañamiento para la actividad elegida.",
+      "gear": "Recreativas y consolas del organizador",
+      "language": "Información del organizador en portugués. Confirmar idiomas de cada actividad.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "El registro está incluido en el acceso a la feria. Comprobar la clasificación de edad del juego en el recinto.",
+      "level": "Etapa regional",
+      "reward": "Resultado en la clasificación de la feria",
+      "priority": "P1 — verificar admisión y plazos",
+      "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
+      "note": "El participante juega en una estación designada y solicita a un juez registrar el resultado. El organizador mantiene una clasificación de la edición y otra histórica.",
+      "themes": [
+        "games",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Etapa regional",
+      "participation": "individual",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "assigned_day_window",
+      "related_ids": [
+        "E399"
+      ]
+    },
+    {
+      "id": "C3311",
+      "block": "Competiciones",
+      "title": "Battle Coliseum 2026 · Main tournaments",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "iso": [
+        "BRA"
+      ],
+      "city": "STATE Innovation Center · Avenida Manuel Bandeira 360 · São Paulo",
+      "start": "2026-11-20",
+      "end": "2026-11-22",
+      "deadline": "",
+      "period": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://c3expo.com.br/battle-coliseum",
+      "references": [
+        {
+          "url": "https://c3expo.com.br/faq",
+          "label": "Reglas y condiciones de admisión"
+        },
+        {
+          "url": "https://www.start.gg/tournament/battle-coliseum-2026/events",
+          "label": "Reglas y condiciones de admisión"
+        }
+      ],
+      "age": "Condicional. Confirmar edad y acompañamiento para la actividad elegida.",
+      "mat": "Condicional. Confirmar edad y acompañamiento para la actividad elegida.",
+      "osc": "Condicional. Confirmar edad y acompañamiento para la actividad elegida.",
+      "format": "12 llaves principales",
+      "entry": "Para la llave principal se requiere inscripción separada en Start.gg, acceso a la feria y tasa del juego. Los 20 torneos paralelos tienen reglas propias.",
+      "gear": "Disciplinas por juego. La clasificación de edad y las restricciones dependen de la llave elegida.",
+      "language": "Información del organizador en portugués. Confirmar idiomas de cada actividad.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "La tarifa depende de la entrada elegida. Comprobar el precio final en la plataforma.",
+      "level": "Serie internacional con reglas distintas por juego",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
+      "note": "La página específica indica cierre el 12 de noviembre de 2026. La FAQ general indica el 16 de noviembre y los datos de Start.gg el 16 de noviembre a las 00:00 de São Paulo. Verificar la llave antes de la fecha más temprana.",
+      "themes": [
+        "games",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Etapa regional",
+      "participation": "individual",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "assigned_day_window",
+      "date_conflict": "La página específica indica cierre el 12 de noviembre de 2026. La FAQ general indica el 16 de noviembre y los datos de Start.gg el 16 de noviembre a las 00:00 de São Paulo. Verificar la llave antes de la fecha más temprana.",
+      "related_ids": [
+        "E399"
+      ]
+    },
+    {
+      "id": "E400",
+      "block": "Eventos",
+      "title": "Game Expo Rio 2026",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "iso": [
+        "BRA"
+      ],
+      "city": "Club Municipal · Rua Haddock Lobo 359 · Tijuca · Rio de Janeiro",
+      "start": "2026-11-15",
+      "end": "2026-11-15",
+      "deadline": "",
+      "period": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://www.gameexporio.com.br/",
+      "references": [
+        {
+          "url": "https://www.sympla.com.br/evento/game-expo-rio-2026/3509165",
+          "label": "Reglas y condiciones de admisión"
+        },
+        {
+          "url": "https://www.gameexporio.com.br/programacao2026",
+          "label": "Reglas y condiciones de admisión"
+        },
+        {
+          "url": "https://www.gameexporio.com.br/torneios",
+          "label": "Reglas y condiciones de admisión"
+        }
+      ],
+      "age": "Hasta 6 años inclusive gratis, 1 niño por 1 adulto de pago. De 7 a 15 años se exige entrada y presencia de progenitor o tutor legal. Los menores deben llevar documento.",
+      "mat": "Sí, cumple las condiciones publicadas de acceso familiar.",
+      "osc": "Sí, cumple las condiciones publicadas de acceso familiar.",
+      "format": "Exposición pública y demostraciones",
+      "entry": "Hasta 6 años inclusive gratis, 1 niño por 1 adulto de pago. De 7 a 15 años se exige entrada y presencia de progenitor o tutor legal. Los menores deben llevar documento.",
+      "gear": "",
+      "language": "Información del organizador en portugués. Confirmar idiomas de cada actividad.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Oscar a los 6 años entra gratis según la regla de acompañamiento. Matvey a los 9 años necesita entrada. El precio vigente depende del lote. La tarifa solidaria exige 1 kg de alimentos no perecederos si no hay derecho legal a descuento.",
+      "level": "Festival regional de videojuegos",
+      "reward": "",
+      "priority": "P1 — verificar admisión y plazos",
+      "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
+      "note": "15 de noviembre de 11:00 a 19:00. Feria de videojuegos de 11:00 a 18:30, zona interactiva de 11:30 a 18:30. Retrojuegos, realidad virtual, proyectos indie y torneos.",
+      "themes": [
+        "games",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Festival regional de videojuegos",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "visitor_policy": "family",
+      "visitor_policy_note": "Hasta 6 años inclusive gratis, 1 niño por 1 adulto de pago. De 7 a 15 años se exige entrada y presencia de progenitor o tutor legal. Los menores deben llevar documento.",
+      "exhibition_tier": "family_alternative",
+      "adult_entry": "La tarifa depende de la entrada elegida. Comprobar el precio final en la plataforma.",
+      "exhibitor_directory_url": "https://www.gameexporio.com.br/",
+      "exhibitors": [],
+      "highlights": [],
+      "exhibitor_note": "15 de noviembre de 11:00 a 19:00. Feria de videojuegos de 11:00 a 18:30, zona interactiva de 11:30 a 18:30. Retrojuegos, realidad virtual, proyectos indie y torneos.",
+      "related_ids": [
+        "C3312",
+        "C3313",
+        "C3314"
+      ]
+    },
+    {
+      "id": "C3312",
+      "block": "Competiciones",
+      "title": "Game Expo Rio · Pokémon TCG Masters",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "iso": [
+        "BRA"
+      ],
+      "city": "Club Municipal · Rua Haddock Lobo 359 · Tijuca · Rio de Janeiro",
+      "start": "2026-11-15",
+      "end": "2026-11-15",
+      "deadline": "",
+      "period": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://www.gameexporio.com.br/pokemontcg",
+      "references": [
+        {
+          "url": "https://www.gameexporio.com.br/programacao2026",
+          "label": "Reglas y condiciones de admisión"
+        },
+        {
+          "url": "https://www.sympla.com.br/evento/game-expo-rio-2026/3509165",
+          "label": "Reglas y condiciones de admisión"
+        }
+      ],
+      "age": "Condicional. Confirmar edad y acompañamiento para la actividad elegida.",
+      "mat": "Condicional. Confirmar edad y acompañamiento para la actividad elegida.",
+      "osc": "Condicional. Confirmar edad y acompañamiento para la actividad elegida.",
+      "format": "Torneo individual",
+      "entry": "Condicional. Confirmar edad y acompañamiento para la actividad elegida.",
+      "gear": "Pokémon Trading Card Game",
+      "language": "Información del organizador en portugués. Confirmar idiomas de cada actividad.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Tasa específica del torneo sin publicar. Las condiciones de acceso a la feria se aplican por separado.",
+      "level": "Etapa regional",
+      "reward": "BRL 500 en crédito de tienda como premio total",
+      "priority": "P2 — participación según condiciones",
+      "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
+      "note": "A las 13:00, 20 plazas. 5 rondas al mejor de 1 de 30 minutos. Para reservar por adelantado se exige entrada y registro con el organizador. Plazas en sede si hay disponibilidad.",
+      "themes": [
+        "games",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Etapa regional",
+      "participation": "individual",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "competition",
+      "related_ids": [
+        "E400"
+      ]
+    },
+    {
+      "id": "C3313",
+      "block": "Competiciones",
+      "title": "Game Expo Rio · Street Fighter II X Grand Master Challenge",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "iso": [
+        "BRA"
+      ],
+      "city": "Club Municipal · Rua Haddock Lobo 359 · Tijuca · Rio de Janeiro",
+      "start": "2026-11-15",
+      "end": "2026-11-15",
+      "deadline": "",
+      "period": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://www.gameexporio.com.br/streetfighter",
+      "references": [
+        {
+          "url": "https://www.gameexporio.com.br/programacao2026",
+          "label": "Reglas y condiciones de admisión"
+        },
+        {
+          "url": "https://www.sympla.com.br/evento/game-expo-rio-2026/3509165",
+          "label": "Reglas y condiciones de admisión"
+        }
+      ],
+      "age": "Condicional. Confirmar edad y acompañamiento para la actividad elegida.",
+      "mat": "Condicional. Confirmar edad y acompañamiento para la actividad elegida.",
+      "osc": "Condicional. Confirmar edad y acompañamiento para la actividad elegida.",
+      "format": "Torneo individual",
+      "entry": "Condicional. Confirmar edad y acompañamiento para la actividad elegida.",
+      "gear": "Street Fighter II X · Emulator",
+      "language": "Información del organizador en portugués. Confirmar idiomas de cada actividad.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Tasa específica del torneo sin publicar. Las condiciones de acceso a la feria se aplican por separado.",
+      "level": "Etapa regional",
+      "reward": "Premios y medallas para los tres primeros",
+      "priority": "P2 — participación según condiciones",
+      "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
+      "note": "A las 13:00, convocatoria a las 12:30. Hasta 20 plazas, mínimo 10 jugadores para realizarlo. Doble eliminación, FT2/FT3.",
+      "themes": [
+        "games",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Etapa regional",
+      "participation": "individual",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "competition",
+      "related_ids": [
+        "E400"
+      ]
+    },
+    {
+      "id": "C3314",
+      "block": "Competiciones",
+      "title": "Game Expo Rio · Fatal Fury: City of the Wolves",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "iso": [
+        "BRA"
+      ],
+      "city": "Club Municipal · Rua Haddock Lobo 359 · Tijuca · Rio de Janeiro",
+      "start": "2026-11-15",
+      "end": "2026-11-15",
+      "deadline": "",
+      "period": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://www.gameexporio.com.br/fatalfury",
+      "references": [
+        {
+          "url": "https://www.gameexporio.com.br/programacao2026",
+          "label": "Reglas y condiciones de admisión"
+        },
+        {
+          "url": "https://www.sympla.com.br/evento/game-expo-rio-2026/3509165",
+          "label": "Reglas y condiciones de admisión"
+        }
+      ],
+      "age": "Condicional. Confirmar edad y acompañamiento para la actividad elegida.",
+      "mat": "Condicional. Confirmar edad y acompañamiento para la actividad elegida.",
+      "osc": "Condicional. Confirmar edad y acompañamiento para la actividad elegida.",
+      "format": "Torneo individual",
+      "entry": "Condicional. Confirmar edad y acompañamiento para la actividad elegida.",
+      "gear": "PlayStation 5",
+      "language": "Información del organizador en portugués. Confirmar idiomas de cada actividad.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Tasa específica del torneo sin publicar. Las condiciones de acceso a la feria se aplican por separado.",
+      "level": "Etapa regional",
+      "reward": "BRL 600 repartidos entre los tres primeros, medallas y premio al ganador",
+      "priority": "P2 — participación según condiciones",
+      "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
+      "note": "A las 13:00, convocatoria a las 12:30. Hasta 20 plazas, mínimo 10 jugadores para realizarlo. Doble eliminación, FT2/FT3.",
+      "themes": [
+        "games",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Etapa regional",
+      "participation": "individual",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "competition",
+      "related_ids": [
+        "E400"
+      ]
+    },
+    {
+      "id": "E401",
+      "block": "Eventos",
+      "title": "Jahu Game Show 2026",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "iso": [
+        "BRA"
+      ],
+      "city": "Centro de Convenções de Jahu Sebastião Camargo · Jaú",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "deadline": "",
+      "period": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://www.jahugameshow.com.br/",
+      "references": [
+        {
+          "url": "https://www.sympla.com.br/evento/lgc/3631229",
+          "label": "Reglas y condiciones de admisión"
+        }
+      ],
+      "age": "Sí, cumple las condiciones publicadas de acceso familiar.",
+      "mat": "Sí, cumple las condiciones publicadas de acceso familiar.",
+      "osc": "Sí, cumple las condiciones publicadas de acceso familiar.",
+      "format": "Exposición pública y demostraciones",
+      "entry": "Gratis.",
+      "gear": "",
+      "language": "Información del organizador en portugués. Confirmar idiomas de cada actividad.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Gratis.",
+      "level": "Festival regional de videojuegos",
+      "reward": "",
+      "priority": "P1 — verificar admisión y plazos",
+      "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
+      "note": "14 de noviembre de 10:00 a 19:00. El organizador confirma demostraciones de robots, juegos, zona infantil y competiciones de cubo. La donación de 1 kg de alimentos es voluntaria.",
+      "themes": [
+        "games",
+        "robotics",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Festival regional de videojuegos",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "visitor_policy": "family",
+      "visitor_policy_note": "Sí, cumple las condiciones publicadas de acceso familiar.",
+      "exhibition_tier": "family_alternative",
+      "adult_entry": "Gratis.",
+      "exhibitor_directory_url": "https://www.jahugameshow.com.br/",
+      "exhibitors": [],
+      "highlights": [],
+      "exhibitor_note": "14 de noviembre de 10:00 a 19:00. El organizador confirma demostraciones de robots, juegos, zona infantil y competiciones de cubo. La donación de 1 kg de alimentos es voluntaria.",
+      "related_ids": [
+        "C3317"
+      ]
+    },
+    {
+      "id": "E402",
+      "block": "Eventos",
+      "title": "FestiGame 2026 · Santiago",
+      "country": "Chile",
+      "region": "América del Sur",
+      "iso": [
+        "CHL"
+      ],
+      "city": "Cenco Florida · La Florida · Santiago",
+      "start": "2026-12-10",
+      "end": "2026-12-13",
+      "deadline": "",
+      "period": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://cl.festigame.com/",
+      "references": [
+        {
+          "url": "https://feverup.com/m/779274",
+          "label": "Reglas y condiciones de admisión"
+        }
+      ],
+      "age": "Acceso para todas las edades. Desde los 2 años se exige entrada y los menores entran con adulto.",
+      "mat": "Sí, cumple las condiciones publicadas de acceso familiar.",
+      "osc": "Sí, cumple las condiciones publicadas de acceso familiar.",
+      "format": "Exposición pública y demostraciones",
+      "entry": "Acceso para todas las edades. Desde los 2 años se exige entrada y los menores entran con adulto.",
+      "gear": "",
+      "language": "Información del organizador en español. Confirmar idiomas de cada actividad.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "La plataforma muestra promoción CLP 12 900 por 1 persona y CLP 38 700 por 4 personas durante 1 día. A CLP 12 900 por entrada, 1 adulto y 2 niños suman CLP 38 700. La tarifa depende de la franja elegida.",
+      "level": "Gran exposición nacional de videojuegos",
+      "reward": "",
+      "priority": "P1 — verificar admisión y plazos",
+      "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
+      "note": "10–13 de diciembre de 11:00 a 20:00 según la FAQ del organizador, último acceso a las 18:00. La plataforma muestra una franja desde las 10:00, por lo que hay que cotejar la hora de la entrada elegida. Zonas de juego, cosplay y competiciones con reglas propias.",
+      "themes": [
+        "games",
+        "technology"
+      ],
+      "scope": "national",
+      "importance_reason": "Gran exposición nacional de videojuegos",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "visitor_policy": "family",
+      "visitor_policy_note": "Acceso para todas las edades. Desde los 2 años se exige entrada y los menores entran con adulto.",
+      "exhibition_tier": "family_alternative",
+      "adult_entry": "La tarifa depende de la entrada elegida. Comprobar el precio final en la plataforma.",
+      "exhibitor_directory_url": "https://cl.festigame.com/",
+      "exhibitors": [],
+      "highlights": [],
+      "exhibitor_note": "10–13 de diciembre de 11:00 a 20:00 según la FAQ del organizador, último acceso a las 18:00. La plataforma muestra una franja desde las 10:00, por lo que hay que cotejar la hora de la entrada elegida. Zonas de juego, cosplay y competiciones con reglas propias.",
+      "related_ids": [
+        "E403"
+      ]
+    },
+    {
+      "id": "E403",
+      "block": "Eventos",
+      "title": "FestiGame · The Game Awards Watch Party",
+      "country": "Chile",
+      "region": "América del Sur",
+      "iso": [
+        "CHL"
+      ],
+      "city": "Cenco Florida · La Florida · Santiago",
+      "start": "2026-12-10",
+      "end": "2026-12-10",
+      "deadline": "",
+      "period": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://cl.festigame.com/",
+      "references": [
+        {
+          "url": "https://feverup.com/m/779274",
+          "label": "Reglas y condiciones de admisión"
+        }
+      ],
+      "age": "Condicional. Confirmar edad y acompañamiento para la actividad elegida.",
+      "mat": "Condicional. Confirmar edad y acompañamiento para la actividad elegida.",
+      "osc": "Condicional. Confirmar edad y acompañamiento para la actividad elegida.",
+      "format": "Exposición pública y demostraciones",
+      "entry": "",
+      "gear": "",
+      "language": "Información del organizador en español. Confirmar idiomas de cada actividad.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "El 10 de diciembre a las 20:30 el recinto reabre para la retransmisión de The Game Awards. La plataforma muestra entrada combinada CLP 22 900. Confirmar edad de acceso a la sesión nocturna y hora de finalización.",
+      "level": "Gran exposición nacional de videojuegos",
+      "reward": "",
+      "priority": "P3 — seguir el anuncio",
+      "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
+      "note": "El 10 de diciembre a las 20:30 el recinto reabre para la retransmisión de The Game Awards. La plataforma muestra entrada combinada CLP 22 900. Confirmar edad de acceso a la sesión nocturna y hora de finalización.",
+      "themes": [
+        "games",
+        "technology"
+      ],
+      "scope": "national",
+      "importance_reason": "Gran exposición nacional de videojuegos",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "visitor_policy": "confirm_children",
+      "visitor_policy_note": "Condicional. Confirmar edad y acompañamiento para la actividad elegida.",
+      "exhibition_tier": "family_alternative",
+      "adult_entry": "El 10 de diciembre a las 20:30 el recinto reabre para la retransmisión de The Game Awards. La plataforma muestra entrada combinada CLP 22 900. Confirmar edad de acceso a la sesión nocturna y hora de finalización.",
+      "exhibitor_directory_url": "https://cl.festigame.com/",
+      "exhibitors": [],
+      "highlights": [],
+      "exhibitor_note": "El 10 de diciembre a las 20:30 el recinto reabre para la retransmisión de The Game Awards. La plataforma muestra entrada combinada CLP 22 900. Confirmar edad de acceso a la sesión nocturna y hora de finalización.",
+      "related_ids": [
+        "E402"
+      ]
+    },
+    {
+      "id": "E404",
+      "block": "Eventos",
+      "title": "LEVEL UY Game Dev Summit 2026 · Expo",
+      "country": "Uruguay",
+      "region": "América del Sur",
+      "iso": [
+        "URY"
+      ],
+      "city": "Torre de las Telecomunicaciones · Montevideo",
+      "start": "2026-11-20",
+      "end": "2026-11-21",
+      "deadline": "",
+      "period": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://www.leveluy.com/",
+      "references": [
+        {
+          "url": "https://www.uruguayxxi.gub.uy/es/eventos/articulo/tu-juego-busca-publisher-uruguay-xxi-trae-a-raw-fury-a-uruguay/",
+          "label": "Reglas y condiciones de admisión"
+        },
+        {
+          "url": "https://cavi.uy/conavi/",
+          "label": "Reglas y condiciones de admisión"
+        }
+      ],
+      "age": "Condicional. Confirmar edad y acompañamiento para la actividad elegida.",
+      "mat": "Condicional. Confirmar edad y acompañamiento para la actividad elegida.",
+      "osc": "Condicional. Confirmar edad y acompañamiento para la actividad elegida.",
+      "format": "Exposición pública y demostraciones",
+      "entry": "Condicional. Confirmar edad y acompañamiento para la actividad elegida.",
+      "gear": "",
+      "language": "Información del organizador en español. Confirmar idiomas de cada actividad.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Precio sin publicar.",
+      "level": "Gran exposición nacional de videojuegos",
+      "reward": "",
+      "priority": "P3 — seguir el anuncio",
+      "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
+      "note": "20–21 de noviembre. Estudios uruguayos muestran sus juegos al público. Los talleres se dirigen a estudiantes y profesionales. Confirmar horarios, acceso infantil y tarifa de la exposición.",
+      "themes": [
+        "games",
+        "technology"
+      ],
+      "scope": "national",
+      "importance_reason": "Gran exposición nacional de videojuegos",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "visitor_policy": "confirm_children",
+      "visitor_policy_note": "Condicional. Confirmar edad y acompañamiento para la actividad elegida.",
+      "exhibition_tier": "family_alternative",
+      "adult_entry": "Precio sin publicar.",
+      "exhibitor_directory_url": "https://www.leveluy.com/",
+      "exhibitors": [],
+      "highlights": [],
+      "exhibitor_note": "20–21 de noviembre. Estudios uruguayos muestran sus juegos al público. Los talleres se dirigen a estudiantes y profesionales. Confirmar horarios, acceso infantil y tarifa de la exposición.",
+      "related_ids": [
+        "C3315"
+      ]
+    },
+    {
+      "id": "C3315",
+      "block": "Competiciones",
+      "title": "CONAVI 2026 · Concurso Nacional de Videojuegos",
+      "country": "Uruguay",
+      "region": "América del Sur",
+      "iso": [
+        "URY"
+      ],
+      "city": "Torre de las Telecomunicaciones · Montevideo",
+      "start": "",
+      "end": "",
+      "deadline": "2026-10-22",
+      "period": "20–21 de noviembre. Estudios uruguayos muestran sus juegos al público. Los talleres se dirigen a estudiantes y profesionales. Confirmar horarios, acceso infantil y tarifa de la exposición.",
+      "date_status": "Cerrado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://cavi.uy/conavi/",
+      "references": [
+        {
+          "url": "https://docs.google.com/document/d/e/2PACX-1vTY6bKnYIC0DUXiMQd6ebQwxqmMLFvuoVX-g6VWGUn0YEjJrKg_kzshVXZAFcwTOoKva65myJtMBjom/pub",
+          "label": "Reglas y condiciones de admisión"
+        },
+        {
+          "url": "https://www.leveluy.com/",
+          "label": "Reglas y condiciones de admisión"
+        }
+      ],
+      "age": "La FAQ admite cualquier edad. Algunas categorías exigen vínculo con Uruguay. Hay una excepción para la categoría internacional.",
+      "mat": "El plazo de esta edición terminó. Seguir las nuevas bases.",
+      "osc": "El plazo de esta edición terminó. Seguir las nuevas bases.",
+      "format": "Desarrollador individual o equipo",
+      "entry": "La presentación cerró el 22 de octubre de 2026 a las 23:59 hora local. Participar en una temporada futura depende de las bases y de tener el proyecto listo.",
+      "gear": "Proyecto jugable y materiales según los requisitos de la categoría elegida.",
+      "language": "Información del organizador en español. Confirmar idiomas de cada actividad.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Precio sin publicar.",
+      "level": "Programa nacional",
+      "reward": "",
+      "priority": "P4 — temporada cerrada",
+      "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
+      "note": "En 2026 hay cinco categorías. Las locales exigen residencia y documento uruguayo o entidad constituida en Uruguay. Excepción para Best International Game. Premiación en LEVEL UY, horario específico pendiente.",
+      "themes": [
+        "games",
+        "technology"
+      ],
+      "scope": "national",
+      "importance_reason": "Etapa regional",
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "rulebook",
+      "date_scope": "submission_closed",
+      "deadline_utc": "2026-10-23T02:59:00Z",
+      "related_ids": [
+        "E404"
+      ]
+    },
+    {
+      "id": "E405",
+      "block": "Eventos",
+      "title": "Cambiemos el Chip Fest · Cali 2027",
+      "country": "Colombia",
+      "region": "América del Sur",
+      "iso": [
+        "COL"
+      ],
+      "city": "Cali",
+      "start": "",
+      "end": "",
+      "deadline": "",
+      "period": "El organizador reprogramó el festival para marzo de 2027. Fechas exactas y sede pendientes. Demostraciones públicas, electrónica, prototipado y talleres. Confirmar edad y precio.",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://cambiemoselchipfest.com/",
+      "references": [
+        {
+          "url": "https://cambiemoselchipfest.com/tne",
+          "label": "Reglas y condiciones de admisión"
+        }
+      ],
+      "age": "Condicional. Confirmar edad y acompañamiento para la actividad elegida.",
+      "mat": "Condicional. Confirmar edad y acompañamiento para la actividad elegida.",
+      "osc": "Condicional. Confirmar edad y acompañamiento para la actividad elegida.",
+      "format": "Exposición pública y demostraciones",
+      "entry": "",
+      "gear": "",
+      "language": "Información del organizador en español. Confirmar idiomas de cada actividad.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Precio sin publicar.",
+      "level": "Festival nacional de electrónica",
+      "reward": "",
+      "priority": "P3 — seguir el anuncio",
+      "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
+      "note": "El organizador reprogramó el festival para marzo de 2027. Fechas exactas y sede pendientes. Demostraciones públicas, electrónica, prototipado y talleres. Confirmar edad y precio.",
+      "themes": [
+        "engineering",
+        "makers",
+        "technology"
+      ],
+      "scope": "national",
+      "importance_reason": "Gran exposición nacional de videojuegos",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "visitor_policy": "confirm_children",
+      "visitor_policy_note": "Condicional. Confirmar edad y acompañamiento para la actividad elegida.",
+      "exhibition_tier": "family_alternative",
+      "adult_entry": "Precio sin publicar.",
+      "exhibitor_directory_url": "https://cambiemoselchipfest.com/",
+      "exhibitors": [],
+      "highlights": [],
+      "exhibitor_note": "El organizador reprogramó el festival para marzo de 2027. Fechas exactas y sede pendientes. Demostraciones públicas, electrónica, prototipado y talleres. Confirmar edad y precio.",
+      "date_precision": "month_only",
+      "related_ids": [
+        "C3316"
+      ]
+    },
+    {
+      "id": "C3316",
+      "block": "Competiciones",
+      "title": "Torneo Nacional de Electrónica · Cali 2027",
+      "country": "Colombia",
+      "region": "América del Sur",
+      "iso": [
+        "COL"
+      ],
+      "city": "Cali",
+      "start": "",
+      "end": "",
+      "deadline": "",
+      "period": "Marzo de 2027, días exactos pendientes.",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://cambiemoselchipfest.com/tne",
+      "references": [
+        {
+          "url": "https://cambiemoselchipfest.com/",
+          "label": "Reglas y condiciones de admisión"
+        }
+      ],
+      "age": "Condicional. Confirmar edad y acompañamiento para la actividad elegida.",
+      "mat": "Condicional. Confirmar edad y acompañamiento para la actividad elegida.",
+      "osc": "Condicional. Confirmar edad y acompañamiento para la actividad elegida.",
+      "format": "Concurso técnico individual",
+      "entry": "Condicional. Confirmar edad y acompañamiento para la actividad elegida.",
+      "gear": "Concurso individual. Diseño de placa de circuito impreso de dos capas y creación de un dispositivo con reconocimiento de gestos. Se puede elegir uno o ambos retos. Edad, herramientas, cuotas y días exactos pendientes.",
+      "language": "Información del organizador en español. Confirmar idiomas de cada actividad.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Precio sin publicar.",
+      "level": "Programa nacional",
+      "reward": "",
+      "priority": "P3 — seguir el anuncio",
+      "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
+      "note": "Concurso individual. Diseño de placa de circuito impreso de dos capas y creación de un dispositivo con reconocimiento de gestos. Se puede elegir uno o ambos retos. Edad, herramientas, cuotas y días exactos pendientes.",
+      "themes": [
+        "engineering",
+        "coding",
+        "ai",
+        "technology"
+      ],
+      "scope": "national",
+      "importance_reason": "Etapa regional",
+      "participation": "individual",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "date_precision": "month_only",
+      "related_ids": [
+        "E405"
+      ]
+    },
+    {
+      "id": "E406",
+      "block": "Eventos",
+      "title": "Game Fest Minas 2026",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "iso": [
+        "BRA"
+      ],
+      "city": "Centerminas Expo · Belo Horizonte",
+      "start": "",
+      "end": "",
+      "deadline": "",
+      "period": "El organizador canceló la edición 2026. Las fechas del 19 al 22 de noviembre siguen en el encabezado de la ticketera como anuncio anterior.",
+      "date_status": "Cerrado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://www.sympla.com.br/evento/game-fest-minas/3321900",
+      "references": [],
+      "age": "El plazo de esta edición terminó. Seguir las nuevas bases.",
+      "mat": "El plazo de esta edición terminó. Seguir las nuevas bases.",
+      "osc": "El plazo de esta edición terminó. Seguir las nuevas bases.",
+      "format": "Exposición pública y demostraciones",
+      "entry": "El plazo de esta edición terminó. Seguir las nuevas bases.",
+      "gear": "",
+      "language": "Información del organizador en portugués. Confirmar idiomas de cada actividad.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Precio sin publicar.",
+      "level": "Festival regional de videojuegos",
+      "reward": "",
+      "priority": "P4 — temporada cerrada",
+      "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
+      "note": "El organizador canceló la edición 2026. Las fechas del 19 al 22 de noviembre siguen en el encabezado de la ticketera como anuncio anterior.",
+      "themes": [
+        "games",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Gran exposición nacional de videojuegos",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "cancelled",
+      "visitor_policy": "confirm_children",
+      "visitor_policy_note": "El plazo de esta edición terminó. Seguir las nuevas bases.",
+      "exhibition_tier": "profile",
+      "adult_entry": "Precio sin publicar.",
+      "exhibitor_directory_url": "https://www.sympla.com.br/evento/game-fest-minas/3321900",
+      "exhibitors": [],
+      "highlights": [],
+      "exhibitor_note": "El organizador canceló la edición 2026. Las fechas del 19 al 22 de noviembre siguen en el encabezado de la ticketera como anuncio anterior."
+    },
+    {
+      "id": "C3317",
+      "block": "Competiciones",
+      "title": "Jahu Game Show 2026 · WCA Speedcubing",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "iso": [
+        "BRA"
+      ],
+      "city": "Centro de Convenções de Jahu Sebastião Camargo · Jaú",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "deadline": "2026-11-10",
+      "period": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://www.worldcubeassociation.org/competitions/JahuGameShow2026",
+      "references": [
+        {
+          "url": "https://www.worldcubeassociation.org/competitions/JahuGameShow2026/register",
+          "label": "Reglas y condiciones de admisión"
+        },
+        {
+          "url": "https://www.worldcubeassociation.org/api/v0/competitions/JahuGameShow2026",
+          "label": "Reglas y condiciones de admisión"
+        }
+      ],
+      "age": "Sí por edad. Se requiere tutor legal presente y plaza confirmada.",
+      "mat": "Sí por edad. Se requiere tutor legal presente y plaza confirmada.",
+      "osc": "Sí por edad. Se requiere tutor legal presente y plaza confirmada.",
+      "format": "Disciplinas individuales WCA",
+      "entry": "Se admite cualquier edad y nacionalidad. Un menor debe estar acompañado por su tutor legal.",
+      "gear": "Disciplinas 3×3, 2×2, 4×4, 3×3 a una mano, Clock y Skewb.",
+      "language": "Información del organizador en portugués. Confirmar idiomas de cada actividad.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "BRL 30 por adelantado, BRL 40 en sede si quedan plazas. Acompañantes gratis.",
+      "level": "Etapa regional",
+      "reward": "Resultado oficial WCA",
+      "priority": "P1 — verificar admisión y plazos",
+      "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
+      "note": "Hasta 40 participantes. Registro en línea hasta el 10 de noviembre de 2026 a las 23:59 hora de Brasilia. Plazas en sede solo si quedan disponibles. Las bases describen fotos y vídeos de participantes.",
+      "themes": [
+        "games"
+      ],
+      "scope": "regional",
+      "importance_reason": "Torneo local con resultados de una federación internacional",
+      "participation": "individual",
+      "admission_kind": "open_application",
+      "evidence_level": "rulebook",
+      "date_scope": "competition",
+      "deadline_utc": "2026-11-11T02:59:00Z",
+      "registration_url": "https://www.worldcubeassociation.org/competitions/JahuGameShow2026/register",
+      "deadline_label": "Cierre del registro en línea",
+      "related_ids": [
+        "E401"
+      ]
+    },
+    {
+      "id": "C3318",
+      "block": "Competiciones",
+      "title": "CTWC Brazil 2026 · Classic Tetris",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "iso": [
+        "BRA"
+      ],
+      "city": "STATE Innovation Center · Avenida Manuel Bandeira 360 · São Paulo",
+      "start": "2026-11-21",
+      "end": "2026-11-22",
+      "deadline": "",
+      "period": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://thectwc.com/event/ctwc-brazil/",
+      "references": [
+        {
+          "url": "https://c3expo.com.br/programacao",
+          "label": "Reglas y condiciones de admisión"
+        },
+        {
+          "url": "https://thectwc.com/events/",
+          "label": "Reglas y condiciones de admisión"
+        },
+        {
+          "url": "https://thectwc.com/rules/",
+          "label": "Reglas y condiciones de admisión"
+        }
+      ],
+      "age": "Edad mínima de la llave local sin confirmar. Verificar participación infantil aparte del acceso al recinto.",
+      "mat": "Edad mínima de la llave local sin confirmar. Verificar participación infantil aparte del acceso al recinto.",
+      "osc": "Edad mínima de la llave local sin confirmar. Verificar participación infantil aparte del acceso al recinto.",
+      "format": "",
+      "entry": "Edad mínima de la llave local sin confirmar. Verificar participación infantil aparte del acceso al recinto.",
+      "gear": "Tetris clásico de Nintendo. Confirmar formato clasificatorio, mandos y llave de cada etapa.",
+      "language": "Información del organizador en portugués. Confirmar idiomas de cada actividad.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Tasa prevista BRL 25 en el recinto.",
+      "level": "Etapa del circuito mundial CTWC",
+      "reward": "",
+      "priority": "P1 — verificar admisión y plazos",
+      "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
+      "note": "20 de noviembre juego libre. Clasificación el 21 de noviembre desde las 12:00. Eliminatorias el 22 de noviembre aproximadamente de 12:00 a 16:00. Inscripción en el recinto.",
+      "themes": [
+        "games"
+      ],
+      "scope": "regional",
+      "importance_reason": "Etapa del circuito mundial CTWC",
+      "participation": "individual",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "competition",
+      "event_group": "classic-tetris-world-championship",
+      "related_ids": [
+        "E399"
+      ]
+    },
+    {
+      "id": "C3320",
+      "block": "Competiciones",
+      "title": "CTWC Colombia 2026 · Bogotá",
+      "country": "Colombia",
+      "region": "América del Sur",
+      "iso": [
+        "COL"
+      ],
+      "city": "Draco Hobby Center · Carrera 16 76-22 · Bogotá",
+      "start": "2026-11-14",
+      "end": "2026-11-15",
+      "deadline": "",
+      "period": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://thectwc.com/event/ctwc-colombia/",
+      "references": [
+        {
+          "url": "https://thectwc.com/events/",
+          "label": "Reglas y condiciones de admisión"
+        },
+        {
+          "url": "https://thectwc.com/rules/",
+          "label": "Reglas y condiciones de admisión"
+        }
+      ],
+      "age": "Edad mínima de la llave local sin confirmar. Verificar participación infantil aparte del acceso al recinto.",
+      "mat": "Edad mínima de la llave local sin confirmar. Verificar participación infantil aparte del acceso al recinto.",
+      "osc": "Edad mínima de la llave local sin confirmar. Verificar participación infantil aparte del acceso al recinto.",
+      "format": "",
+      "entry": "Edad mínima de la llave local sin confirmar. Verificar participación infantil aparte del acceso al recinto.",
+      "gear": "Tetris clásico de Nintendo. Confirmar formato clasificatorio, mandos y llave de cada etapa.",
+      "language": "14 de noviembre clasificación, 15 de noviembre torneo. Información principal en español. El organizador indica ayuda en inglés en el canal South America.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "La tarifa depende de la entrada elegida. Comprobar el precio final en la plataforma.",
+      "level": "Etapa del circuito mundial CTWC",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
+      "note": "14 de noviembre clasificación, 15 de noviembre torneo. Información principal en español. El organizador indica ayuda en inglés en el canal South America.",
+      "themes": [
+        "games"
+      ],
+      "scope": "regional",
+      "importance_reason": "Etapa del circuito mundial CTWC",
+      "participation": "individual",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "competition",
+      "event_group": "classic-tetris-world-championship"
     },
     {
       "id": "CP047-20270103-20270108",
@@ -25464,6 +26577,1363 @@
       "availability": {
         "status": "unconfirmed",
         "label": "Confirmar disponibilidad y admisión."
+      }
+    },
+    {
+      "id": "CP1782-20261108-20261108",
+      "block": "Campamentos",
+      "title": "Sesc Bom Retiro · Laboratório Digital · Vóxeles · 10:30–12:00 · 2026-11-08–2026-11-08",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "city": "Sesc Bom Retiro · Espaço de Tecnologias e Artes · São Paulo",
+      "start": "2026-11-08",
+      "end": "2026-11-08",
+      "period": "Domingos hasta el 27 de diciembre de 2026, 10:30–12:00. Gratis. Confirmar disponibilidad.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Hasta 12 años inclusive.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Taller presencial breve sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Fabricación digital y montaje manual de objetos a partir de vóxeles.",
+      "language": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "cost": "2026/27 · Gratis. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar edad exacta de acceso y plaza con el recinto.",
+      "source": "https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/",
+      "references": [
+        {
+          "url": "https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Edad adecuada. Confirmar plaza e idioma de la actividad. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.",
+      "iso": [
+        "BRA"
+      ],
+      "themes": [
+        "makers",
+        "technology",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sesc-bom-retiro-voxel-lab",
+      "camp_programme_id": "CP1782",
+      "sessions": [
+        {
+          "date": "2026-11-08",
+          "topic": "Fabricación digital y montaje manual de objetos a partir de vóxeles.",
+          "start_time": "10:30",
+          "end_time": "12:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2026-11-08T13:30:00Z",
+          "end_utc": "2026-11-08T15:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+      }
+    },
+    {
+      "id": "CP1782-20261115-20261115",
+      "block": "Campamentos",
+      "title": "Sesc Bom Retiro · Laboratório Digital · Vóxeles · 10:30–12:00 · 2026-11-15–2026-11-15",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "city": "Sesc Bom Retiro · Espaço de Tecnologias e Artes · São Paulo",
+      "start": "2026-11-15",
+      "end": "2026-11-15",
+      "period": "Domingos hasta el 27 de diciembre de 2026, 10:30–12:00. Gratis. Confirmar disponibilidad.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Hasta 12 años inclusive.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Taller presencial breve sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Fabricación digital y montaje manual de objetos a partir de vóxeles.",
+      "language": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "cost": "2026/27 · Gratis. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar edad exacta de acceso y plaza con el recinto.",
+      "source": "https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/",
+      "references": [
+        {
+          "url": "https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Edad adecuada. Confirmar plaza e idioma de la actividad. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.",
+      "iso": [
+        "BRA"
+      ],
+      "themes": [
+        "makers",
+        "technology",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sesc-bom-retiro-voxel-lab",
+      "camp_programme_id": "CP1782",
+      "sessions": [
+        {
+          "date": "2026-11-15",
+          "topic": "Fabricación digital y montaje manual de objetos a partir de vóxeles.",
+          "start_time": "10:30",
+          "end_time": "12:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2026-11-15T13:30:00Z",
+          "end_utc": "2026-11-15T15:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+      }
+    },
+    {
+      "id": "CP1782-20261122-20261122",
+      "block": "Campamentos",
+      "title": "Sesc Bom Retiro · Laboratório Digital · Vóxeles · 10:30–12:00 · 2026-11-22–2026-11-22",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "city": "Sesc Bom Retiro · Espaço de Tecnologias e Artes · São Paulo",
+      "start": "2026-11-22",
+      "end": "2026-11-22",
+      "period": "Domingos hasta el 27 de diciembre de 2026, 10:30–12:00. Gratis. Confirmar disponibilidad.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Hasta 12 años inclusive.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Taller presencial breve sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Fabricación digital y montaje manual de objetos a partir de vóxeles.",
+      "language": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "cost": "2026/27 · Gratis. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar edad exacta de acceso y plaza con el recinto.",
+      "source": "https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/",
+      "references": [
+        {
+          "url": "https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Edad adecuada. Confirmar plaza e idioma de la actividad. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.",
+      "iso": [
+        "BRA"
+      ],
+      "themes": [
+        "makers",
+        "technology",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sesc-bom-retiro-voxel-lab",
+      "camp_programme_id": "CP1782",
+      "sessions": [
+        {
+          "date": "2026-11-22",
+          "topic": "Fabricación digital y montaje manual de objetos a partir de vóxeles.",
+          "start_time": "10:30",
+          "end_time": "12:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2026-11-22T13:30:00Z",
+          "end_utc": "2026-11-22T15:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+      }
+    },
+    {
+      "id": "CP1782-20261129-20261129",
+      "block": "Campamentos",
+      "title": "Sesc Bom Retiro · Laboratório Digital · Vóxeles · 10:30–12:00 · 2026-11-29–2026-11-29",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "city": "Sesc Bom Retiro · Espaço de Tecnologias e Artes · São Paulo",
+      "start": "2026-11-29",
+      "end": "2026-11-29",
+      "period": "Domingos hasta el 27 de diciembre de 2026, 10:30–12:00. Gratis. Confirmar disponibilidad.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Hasta 12 años inclusive.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Taller presencial breve sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Fabricación digital y montaje manual de objetos a partir de vóxeles.",
+      "language": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "cost": "2026/27 · Gratis. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar edad exacta de acceso y plaza con el recinto.",
+      "source": "https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/",
+      "references": [
+        {
+          "url": "https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Edad adecuada. Confirmar plaza e idioma de la actividad. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.",
+      "iso": [
+        "BRA"
+      ],
+      "themes": [
+        "makers",
+        "technology",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sesc-bom-retiro-voxel-lab",
+      "camp_programme_id": "CP1782",
+      "sessions": [
+        {
+          "date": "2026-11-29",
+          "topic": "Fabricación digital y montaje manual de objetos a partir de vóxeles.",
+          "start_time": "10:30",
+          "end_time": "12:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2026-11-29T13:30:00Z",
+          "end_utc": "2026-11-29T15:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+      }
+    },
+    {
+      "id": "CP1782-20261206-20261206",
+      "block": "Campamentos",
+      "title": "Sesc Bom Retiro · Laboratório Digital · Vóxeles · 10:30–12:00 · 2026-12-06–2026-12-06",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "city": "Sesc Bom Retiro · Espaço de Tecnologias e Artes · São Paulo",
+      "start": "2026-12-06",
+      "end": "2026-12-06",
+      "period": "Domingos hasta el 27 de diciembre de 2026, 10:30–12:00. Gratis. Confirmar disponibilidad.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Hasta 12 años inclusive.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Taller presencial breve sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Fabricación digital y montaje manual de objetos a partir de vóxeles.",
+      "language": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "cost": "2026/27 · Gratis. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar edad exacta de acceso y plaza con el recinto.",
+      "source": "https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/",
+      "references": [
+        {
+          "url": "https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Edad adecuada. Confirmar plaza e idioma de la actividad. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.",
+      "iso": [
+        "BRA"
+      ],
+      "themes": [
+        "makers",
+        "technology",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sesc-bom-retiro-voxel-lab",
+      "camp_programme_id": "CP1782",
+      "sessions": [
+        {
+          "date": "2026-12-06",
+          "topic": "Fabricación digital y montaje manual de objetos a partir de vóxeles.",
+          "start_time": "10:30",
+          "end_time": "12:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2026-12-06T13:30:00Z",
+          "end_utc": "2026-12-06T15:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+      }
+    },
+    {
+      "id": "CP1782-20261213-20261213",
+      "block": "Campamentos",
+      "title": "Sesc Bom Retiro · Laboratório Digital · Vóxeles · 10:30–12:00 · 2026-12-13–2026-12-13",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "city": "Sesc Bom Retiro · Espaço de Tecnologias e Artes · São Paulo",
+      "start": "2026-12-13",
+      "end": "2026-12-13",
+      "period": "Domingos hasta el 27 de diciembre de 2026, 10:30–12:00. Gratis. Confirmar disponibilidad.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Hasta 12 años inclusive.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Taller presencial breve sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Fabricación digital y montaje manual de objetos a partir de vóxeles.",
+      "language": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "cost": "2026/27 · Gratis. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar edad exacta de acceso y plaza con el recinto.",
+      "source": "https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/",
+      "references": [
+        {
+          "url": "https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Edad adecuada. Confirmar plaza e idioma de la actividad. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.",
+      "iso": [
+        "BRA"
+      ],
+      "themes": [
+        "makers",
+        "technology",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sesc-bom-retiro-voxel-lab",
+      "camp_programme_id": "CP1782",
+      "sessions": [
+        {
+          "date": "2026-12-13",
+          "topic": "Fabricación digital y montaje manual de objetos a partir de vóxeles.",
+          "start_time": "10:30",
+          "end_time": "12:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2026-12-13T13:30:00Z",
+          "end_utc": "2026-12-13T15:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+      }
+    },
+    {
+      "id": "CP1782-20261220-20261220",
+      "block": "Campamentos",
+      "title": "Sesc Bom Retiro · Laboratório Digital · Vóxeles · 10:30–12:00 · 2026-12-20–2026-12-20",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "city": "Sesc Bom Retiro · Espaço de Tecnologias e Artes · São Paulo",
+      "start": "2026-12-20",
+      "end": "2026-12-20",
+      "period": "Domingos hasta el 27 de diciembre de 2026, 10:30–12:00. Gratis. Confirmar disponibilidad.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Hasta 12 años inclusive.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Taller presencial breve sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Fabricación digital y montaje manual de objetos a partir de vóxeles.",
+      "language": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "cost": "2026/27 · Gratis. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar edad exacta de acceso y plaza con el recinto.",
+      "source": "https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/",
+      "references": [
+        {
+          "url": "https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Edad adecuada. Confirmar plaza e idioma de la actividad. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.",
+      "iso": [
+        "BRA"
+      ],
+      "themes": [
+        "makers",
+        "technology",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sesc-bom-retiro-voxel-lab",
+      "camp_programme_id": "CP1782",
+      "sessions": [
+        {
+          "date": "2026-12-20",
+          "topic": "Fabricación digital y montaje manual de objetos a partir de vóxeles.",
+          "start_time": "10:30",
+          "end_time": "12:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2026-12-20T13:30:00Z",
+          "end_utc": "2026-12-20T15:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+      }
+    },
+    {
+      "id": "CP1782-20261227-20261227",
+      "block": "Campamentos",
+      "title": "Sesc Bom Retiro · Laboratório Digital · Vóxeles · 10:30–12:00 · 2026-12-27–2026-12-27",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "city": "Sesc Bom Retiro · Espaço de Tecnologias e Artes · São Paulo",
+      "start": "2026-12-27",
+      "end": "2026-12-27",
+      "period": "Domingos hasta el 27 de diciembre de 2026, 10:30–12:00. Gratis. Confirmar disponibilidad.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Hasta 12 años inclusive.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Taller presencial breve sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Fabricación digital y montaje manual de objetos a partir de vóxeles.",
+      "language": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "cost": "2026/27 · Gratis. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar edad exacta de acceso y plaza con el recinto.",
+      "source": "https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/",
+      "references": [
+        {
+          "url": "https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Edad adecuada. Confirmar plaza e idioma de la actividad. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.",
+      "iso": [
+        "BRA"
+      ],
+      "themes": [
+        "makers",
+        "technology",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sesc-bom-retiro-voxel-lab",
+      "camp_programme_id": "CP1782",
+      "sessions": [
+        {
+          "date": "2026-12-27",
+          "topic": "Fabricación digital y montaje manual de objetos a partir de vóxeles.",
+          "start_time": "10:30",
+          "end_time": "12:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2026-12-27T13:30:00Z",
+          "end_utc": "2026-12-27T15:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+      }
+    },
+    {
+      "id": "CP1783-20261108-20261108",
+      "block": "Campamentos",
+      "title": "Sesc Consolação · Inventatório · 15:00–17:00 · 2026-11-08–2026-11-08",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "city": "Sesc Consolação · Sala Gama · São Paulo",
+      "start": "2026-11-08",
+      "end": "2026-11-08",
+      "period": "Fechas publicadas hasta el 13 de diciembre de 2026, 15:00–17:00. Gratis, sin retirar entrada.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Recomendado para niños hasta 6 años inclusive.",
+      "mat": "para especificar; no se ha establecido el permiso de edad",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Taller presencial breve sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+      "language": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "cost": "2026/27 · Gratis. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar edad exacta de acceso y plaza con el recinto.",
+      "source": "https://www.sescsp.org.br/programacao/inventatorio/",
+      "references": [
+        {
+          "url": "https://www.sescsp.org.br/programacao/inventatorio/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: 9 años supera la edad recomendada. Confirmar acceso de niños mayores. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.",
+      "iso": [
+        "BRA"
+      ],
+      "themes": [
+        "makers",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sesc-consolacao-inventatorio",
+      "camp_programme_id": "CP1783",
+      "sessions": [
+        {
+          "date": "2026-11-08",
+          "topic": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+          "start_time": "15:00",
+          "end_time": "17:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2026-11-08T18:00:00Z",
+          "end_utc": "2026-11-08T20:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+      }
+    },
+    {
+      "id": "CP1783-20261114-20261114",
+      "block": "Campamentos",
+      "title": "Sesc Consolação · Inventatório · 15:00–17:00 · 2026-11-14–2026-11-14",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "city": "Sesc Consolação · Sala Gama · São Paulo",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "period": "Fechas publicadas hasta el 13 de diciembre de 2026, 15:00–17:00. Gratis, sin retirar entrada.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Recomendado para niños hasta 6 años inclusive.",
+      "mat": "para especificar; no se ha establecido el permiso de edad",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Taller presencial breve sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+      "language": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "cost": "2026/27 · Gratis. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar edad exacta de acceso y plaza con el recinto.",
+      "source": "https://www.sescsp.org.br/programacao/inventatorio/",
+      "references": [
+        {
+          "url": "https://www.sescsp.org.br/programacao/inventatorio/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: 9 años supera la edad recomendada. Confirmar acceso de niños mayores. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.",
+      "iso": [
+        "BRA"
+      ],
+      "themes": [
+        "makers",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sesc-consolacao-inventatorio",
+      "camp_programme_id": "CP1783",
+      "sessions": [
+        {
+          "date": "2026-11-14",
+          "topic": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+          "start_time": "15:00",
+          "end_time": "17:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2026-11-14T18:00:00Z",
+          "end_utc": "2026-11-14T20:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+      }
+    },
+    {
+      "id": "CP1783-20261115-20261115",
+      "block": "Campamentos",
+      "title": "Sesc Consolação · Inventatório · 15:00–17:00 · 2026-11-15–2026-11-15",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "city": "Sesc Consolação · Sala Gama · São Paulo",
+      "start": "2026-11-15",
+      "end": "2026-11-15",
+      "period": "Fechas publicadas hasta el 13 de diciembre de 2026, 15:00–17:00. Gratis, sin retirar entrada.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Recomendado para niños hasta 6 años inclusive.",
+      "mat": "para especificar; no se ha establecido el permiso de edad",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Taller presencial breve sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+      "language": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "cost": "2026/27 · Gratis. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar edad exacta de acceso y plaza con el recinto.",
+      "source": "https://www.sescsp.org.br/programacao/inventatorio/",
+      "references": [
+        {
+          "url": "https://www.sescsp.org.br/programacao/inventatorio/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: 9 años supera la edad recomendada. Confirmar acceso de niños mayores. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.",
+      "iso": [
+        "BRA"
+      ],
+      "themes": [
+        "makers",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sesc-consolacao-inventatorio",
+      "camp_programme_id": "CP1783",
+      "sessions": [
+        {
+          "date": "2026-11-15",
+          "topic": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+          "start_time": "15:00",
+          "end_time": "17:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2026-11-15T18:00:00Z",
+          "end_utc": "2026-11-15T20:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+      }
+    },
+    {
+      "id": "CP1783-20261121-20261121",
+      "block": "Campamentos",
+      "title": "Sesc Consolação · Inventatório · 15:00–17:00 · 2026-11-21–2026-11-21",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "city": "Sesc Consolação · Sala Gama · São Paulo",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "period": "Fechas publicadas hasta el 13 de diciembre de 2026, 15:00–17:00. Gratis, sin retirar entrada.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Recomendado para niños hasta 6 años inclusive.",
+      "mat": "para especificar; no se ha establecido el permiso de edad",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Taller presencial breve sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+      "language": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "cost": "2026/27 · Gratis. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar edad exacta de acceso y plaza con el recinto.",
+      "source": "https://www.sescsp.org.br/programacao/inventatorio/",
+      "references": [
+        {
+          "url": "https://www.sescsp.org.br/programacao/inventatorio/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: 9 años supera la edad recomendada. Confirmar acceso de niños mayores. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.",
+      "iso": [
+        "BRA"
+      ],
+      "themes": [
+        "makers",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sesc-consolacao-inventatorio",
+      "camp_programme_id": "CP1783",
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "topic": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+          "start_time": "15:00",
+          "end_time": "17:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2026-11-21T18:00:00Z",
+          "end_utc": "2026-11-21T20:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+      }
+    },
+    {
+      "id": "CP1783-20261122-20261122",
+      "block": "Campamentos",
+      "title": "Sesc Consolação · Inventatório · 15:00–17:00 · 2026-11-22–2026-11-22",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "city": "Sesc Consolação · Sala Gama · São Paulo",
+      "start": "2026-11-22",
+      "end": "2026-11-22",
+      "period": "Fechas publicadas hasta el 13 de diciembre de 2026, 15:00–17:00. Gratis, sin retirar entrada.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Recomendado para niños hasta 6 años inclusive.",
+      "mat": "para especificar; no se ha establecido el permiso de edad",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Taller presencial breve sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+      "language": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "cost": "2026/27 · Gratis. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar edad exacta de acceso y plaza con el recinto.",
+      "source": "https://www.sescsp.org.br/programacao/inventatorio/",
+      "references": [
+        {
+          "url": "https://www.sescsp.org.br/programacao/inventatorio/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: 9 años supera la edad recomendada. Confirmar acceso de niños mayores. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.",
+      "iso": [
+        "BRA"
+      ],
+      "themes": [
+        "makers",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sesc-consolacao-inventatorio",
+      "camp_programme_id": "CP1783",
+      "sessions": [
+        {
+          "date": "2026-11-22",
+          "topic": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+          "start_time": "15:00",
+          "end_time": "17:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2026-11-22T18:00:00Z",
+          "end_utc": "2026-11-22T20:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+      }
+    },
+    {
+      "id": "CP1783-20261128-20261128",
+      "block": "Campamentos",
+      "title": "Sesc Consolação · Inventatório · 15:00–17:00 · 2026-11-28–2026-11-28",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "city": "Sesc Consolação · Sala Gama · São Paulo",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "period": "Fechas publicadas hasta el 13 de diciembre de 2026, 15:00–17:00. Gratis, sin retirar entrada.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Recomendado para niños hasta 6 años inclusive.",
+      "mat": "para especificar; no se ha establecido el permiso de edad",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Taller presencial breve sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+      "language": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "cost": "2026/27 · Gratis. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar edad exacta de acceso y plaza con el recinto.",
+      "source": "https://www.sescsp.org.br/programacao/inventatorio/",
+      "references": [
+        {
+          "url": "https://www.sescsp.org.br/programacao/inventatorio/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: 9 años supera la edad recomendada. Confirmar acceso de niños mayores. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.",
+      "iso": [
+        "BRA"
+      ],
+      "themes": [
+        "makers",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sesc-consolacao-inventatorio",
+      "camp_programme_id": "CP1783",
+      "sessions": [
+        {
+          "date": "2026-11-28",
+          "topic": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+          "start_time": "15:00",
+          "end_time": "17:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2026-11-28T18:00:00Z",
+          "end_utc": "2026-11-28T20:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+      }
+    },
+    {
+      "id": "CP1783-20261129-20261129",
+      "block": "Campamentos",
+      "title": "Sesc Consolação · Inventatório · 15:00–17:00 · 2026-11-29–2026-11-29",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "city": "Sesc Consolação · Sala Gama · São Paulo",
+      "start": "2026-11-29",
+      "end": "2026-11-29",
+      "period": "Fechas publicadas hasta el 13 de diciembre de 2026, 15:00–17:00. Gratis, sin retirar entrada.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Recomendado para niños hasta 6 años inclusive.",
+      "mat": "para especificar; no se ha establecido el permiso de edad",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Taller presencial breve sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+      "language": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "cost": "2026/27 · Gratis. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar edad exacta de acceso y plaza con el recinto.",
+      "source": "https://www.sescsp.org.br/programacao/inventatorio/",
+      "references": [
+        {
+          "url": "https://www.sescsp.org.br/programacao/inventatorio/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: 9 años supera la edad recomendada. Confirmar acceso de niños mayores. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.",
+      "iso": [
+        "BRA"
+      ],
+      "themes": [
+        "makers",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sesc-consolacao-inventatorio",
+      "camp_programme_id": "CP1783",
+      "sessions": [
+        {
+          "date": "2026-11-29",
+          "topic": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+          "start_time": "15:00",
+          "end_time": "17:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2026-11-29T18:00:00Z",
+          "end_utc": "2026-11-29T20:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+      }
+    },
+    {
+      "id": "CP1783-20261205-20261205",
+      "block": "Campamentos",
+      "title": "Sesc Consolação · Inventatório · 15:00–17:00 · 2026-12-05–2026-12-05",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "city": "Sesc Consolação · Sala Gama · São Paulo",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "period": "Fechas publicadas hasta el 13 de diciembre de 2026, 15:00–17:00. Gratis, sin retirar entrada.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Recomendado para niños hasta 6 años inclusive.",
+      "mat": "para especificar; no se ha establecido el permiso de edad",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Taller presencial breve sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+      "language": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "cost": "2026/27 · Gratis. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar edad exacta de acceso y plaza con el recinto.",
+      "source": "https://www.sescsp.org.br/programacao/inventatorio/",
+      "references": [
+        {
+          "url": "https://www.sescsp.org.br/programacao/inventatorio/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: 9 años supera la edad recomendada. Confirmar acceso de niños mayores. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.",
+      "iso": [
+        "BRA"
+      ],
+      "themes": [
+        "makers",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sesc-consolacao-inventatorio",
+      "camp_programme_id": "CP1783",
+      "sessions": [
+        {
+          "date": "2026-12-05",
+          "topic": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+          "start_time": "15:00",
+          "end_time": "17:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2026-12-05T18:00:00Z",
+          "end_utc": "2026-12-05T20:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+      }
+    },
+    {
+      "id": "CP1783-20261206-20261206",
+      "block": "Campamentos",
+      "title": "Sesc Consolação · Inventatório · 15:00–17:00 · 2026-12-06–2026-12-06",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "city": "Sesc Consolação · Sala Gama · São Paulo",
+      "start": "2026-12-06",
+      "end": "2026-12-06",
+      "period": "Fechas publicadas hasta el 13 de diciembre de 2026, 15:00–17:00. Gratis, sin retirar entrada.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Recomendado para niños hasta 6 años inclusive.",
+      "mat": "para especificar; no se ha establecido el permiso de edad",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Taller presencial breve sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+      "language": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "cost": "2026/27 · Gratis. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar edad exacta de acceso y plaza con el recinto.",
+      "source": "https://www.sescsp.org.br/programacao/inventatorio/",
+      "references": [
+        {
+          "url": "https://www.sescsp.org.br/programacao/inventatorio/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: 9 años supera la edad recomendada. Confirmar acceso de niños mayores. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.",
+      "iso": [
+        "BRA"
+      ],
+      "themes": [
+        "makers",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sesc-consolacao-inventatorio",
+      "camp_programme_id": "CP1783",
+      "sessions": [
+        {
+          "date": "2026-12-06",
+          "topic": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+          "start_time": "15:00",
+          "end_time": "17:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2026-12-06T18:00:00Z",
+          "end_utc": "2026-12-06T20:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+      }
+    },
+    {
+      "id": "CP1783-20261212-20261212",
+      "block": "Campamentos",
+      "title": "Sesc Consolação · Inventatório · 15:00–17:00 · 2026-12-12–2026-12-12",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "city": "Sesc Consolação · Sala Gama · São Paulo",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "period": "Fechas publicadas hasta el 13 de diciembre de 2026, 15:00–17:00. Gratis, sin retirar entrada.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Recomendado para niños hasta 6 años inclusive.",
+      "mat": "para especificar; no se ha establecido el permiso de edad",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Taller presencial breve sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+      "language": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "cost": "2026/27 · Gratis. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar edad exacta de acceso y plaza con el recinto.",
+      "source": "https://www.sescsp.org.br/programacao/inventatorio/",
+      "references": [
+        {
+          "url": "https://www.sescsp.org.br/programacao/inventatorio/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: 9 años supera la edad recomendada. Confirmar acceso de niños mayores. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.",
+      "iso": [
+        "BRA"
+      ],
+      "themes": [
+        "makers",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sesc-consolacao-inventatorio",
+      "camp_programme_id": "CP1783",
+      "sessions": [
+        {
+          "date": "2026-12-12",
+          "topic": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+          "start_time": "15:00",
+          "end_time": "17:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2026-12-12T18:00:00Z",
+          "end_utc": "2026-12-12T20:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar edad exacta de acceso y plaza con el recinto."
+      }
+    },
+    {
+      "id": "CP1783-20261213-20261213",
+      "block": "Campamentos",
+      "title": "Sesc Consolação · Inventatório · 15:00–17:00 · 2026-12-13–2026-12-13",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "city": "Sesc Consolação · Sala Gama · São Paulo",
+      "start": "2026-12-13",
+      "end": "2026-12-13",
+      "period": "Fechas publicadas hasta el 13 de diciembre de 2026, 15:00–17:00. Gratis, sin retirar entrada.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Recomendado para niños hasta 6 años inclusive.",
+      "mat": "para especificar; no se ha establecido el permiso de edad",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Taller presencial breve sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+      "language": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "cost": "2026/27 · Gratis. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar edad exacta de acceso y plaza con el recinto.",
+      "source": "https://www.sescsp.org.br/programacao/inventatorio/",
+      "references": [
+        {
+          "url": "https://www.sescsp.org.br/programacao/inventatorio/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: 9 años supera la edad recomendada. Confirmar acceso de niños mayores. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.",
+      "iso": [
+        "BRA"
+      ],
+      "themes": [
+        "makers",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de las actividades sin indicar. Confirmar directamente con el recinto.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sesc-consolacao-inventatorio",
+      "camp_programme_id": "CP1783",
+      "sessions": [
+        {
+          "date": "2026-12-13",
+          "topic": "Taller interactivo de construcción. Los niños experimentan con equilibrio, uniones y formas espaciales.",
+          "start_time": "15:00",
+          "end_time": "17:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2026-12-13T18:00:00Z",
+          "end_utc": "2026-12-13T20:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar edad exacta de acceso y plaza con el recinto."
       }
     },
     {

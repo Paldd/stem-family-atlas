@@ -2960,6 +2960,240 @@ Limitaciones: Presentaciones de videojuegos chilenos y colección de juegos de 2
 Fuente: https://indiefestchile.cl/2026.html
 Se ha comprobado: 2026-11-07
 
+### E399 · C3 Expo 2026 · Canal3 Classic Gaming
+
+Fecha: 2026-11-20 国 2026-11-22
+edad: Hasta 10 años inclusive, gratis con responsable con entrada.
+Matvey: Sí, cumple las condiciones publicadas de acceso familiar.
+Oscar: Sí, cumple las condiciones publicadas de acceso familiar.
+Idioma: Información del organizador en portugués. Confirmar idiomas de cada actividad.
+Acceso: Hasta 10 años inclusive, gratis con responsable con entrada.
+Precio: Adulto general: BRL 130 el viernes, BRL 160 el sábado, BRL 110 el domingo, BRL 270 por 3 días. Entrada solidaria: BRL 80, 95, 65 o BRL 160 por 3 días al donar 1 kg de alimentos no perecederos. Niños de 6 y 9 años gratis.
+Limitaciones: 20 de noviembre de 16:00 a 20:00, 21 y 22 de noviembre de 10:00 a 19:00. Más de 150 estaciones jugables, consolas retro, recreativas, juegos indie y exposiciones jugables. Algunas actividades tienen reglas propias.
+Fuente: https://c3expo.com.br/faq
+Se ha comprobado: 2026-11-07
+
+### C3310 · C3 Expo · High Score C3
+
+Fecha: 2026-11-20 国 2026-11-22
+edad: Condicional. Confirmar edad y acompañamiento para la actividad elegida.
+Matvey: Condicional. Confirmar edad y acompañamiento para la actividad elegida.
+Oscar: Condicional. Confirmar edad y acompañamiento para la actividad elegida.
+Idioma: Información del organizador en portugués. Confirmar idiomas de cada actividad.
+Acceso: Condicional. Confirmar edad y acompañamiento para la actividad elegida.
+Precio: El registro está incluido en el acceso a la feria. Comprobar la clasificación de edad del juego en el recinto.
+Limitaciones: El participante juega en una estación designada y solicita a un juez registrar el resultado. El organizador mantiene una clasificación de la edición y otra histórica.
+Fuente: https://c3expo.com.br/high-score
+Se ha comprobado: 2026-11-07
+
+### C3311 · Battle Coliseum 2026 · Main tournaments
+
+Fecha: 2026-11-20 国 2026-11-22
+edad: Condicional. Confirmar edad y acompañamiento para la actividad elegida.
+Matvey: Condicional. Confirmar edad y acompañamiento para la actividad elegida.
+Oscar: Condicional. Confirmar edad y acompañamiento para la actividad elegida.
+Idioma: Información del organizador en portugués. Confirmar idiomas de cada actividad.
+Acceso: Para la llave principal se requiere inscripción separada en Start.gg, acceso a la feria y tasa del juego. Los 20 torneos paralelos tienen reglas propias.
+Precio: La tarifa depende de la entrada elegida. Comprobar el precio final en la plataforma.
+Limitaciones: La página específica indica cierre el 12 de noviembre de 2026. La FAQ general indica el 16 de noviembre y los datos de Start.gg el 16 de noviembre a las 00:00 de São Paulo. Verificar la llave antes de la fecha más temprana.
+Fuente: https://c3expo.com.br/battle-coliseum
+Se ha comprobado: 2026-11-07
+
+### E400 · Game Expo Rio 2026
+
+Fecha: 2026-11-15 — 2026-11-15
+edad: Hasta 6 años inclusive gratis, 1 niño por 1 adulto de pago. De 7 a 15 años se exige entrada y presencia de progenitor o tutor legal. Los menores deben llevar documento.
+Matvey: Sí, cumple las condiciones publicadas de acceso familiar.
+Oscar: Sí, cumple las condiciones publicadas de acceso familiar.
+Idioma: Información del organizador en portugués. Confirmar idiomas de cada actividad.
+Acceso: Hasta 6 años inclusive gratis, 1 niño por 1 adulto de pago. De 7 a 15 años se exige entrada y presencia de progenitor o tutor legal. Los menores deben llevar documento.
+Precio: Oscar a los 6 años entra gratis según la regla de acompañamiento. Matvey a los 9 años necesita entrada. El precio vigente depende del lote. La tarifa solidaria exige 1 kg de alimentos no perecederos si no hay derecho legal a descuento.
+Limitaciones: 15 de noviembre de 11:00 a 19:00. Feria de videojuegos de 11:00 a 18:30, zona interactiva de 11:30 a 18:30. Retrojuegos, realidad virtual, proyectos indie y torneos.
+Fuente: https://www.gameexporio.com.br/
+Se ha comprobado: 2026-11-07
+
+### C3312 · Game Expo Rio · Pokémon TCG Masters
+
+Fecha: 2026-11-15 — 2026-11-15
+edad: Condicional. Confirmar edad y acompañamiento para la actividad elegida.
+Matvey: Condicional. Confirmar edad y acompañamiento para la actividad elegida.
+Oscar: Condicional. Confirmar edad y acompañamiento para la actividad elegida.
+Idioma: Información del organizador en portugués. Confirmar idiomas de cada actividad.
+Acceso: Condicional. Confirmar edad y acompañamiento para la actividad elegida.
+Precio: Tasa específica del torneo sin publicar. Las condiciones de acceso a la feria se aplican por separado.
+Limitaciones: A las 13:00, 20 plazas. 5 rondas al mejor de 1 de 30 minutos. Para reservar por adelantado se exige entrada y registro con el organizador. Plazas en sede si hay disponibilidad.
+Fuente: https://www.gameexporio.com.br/pokemontcg
+Se ha comprobado: 2026-11-07
+
+### C3313 · Game Expo Rio · Street Fighter II X Grand Master Challenge
+
+Fecha: 2026-11-15 — 2026-11-15
+edad: Condicional. Confirmar edad y acompañamiento para la actividad elegida.
+Matvey: Condicional. Confirmar edad y acompañamiento para la actividad elegida.
+Oscar: Condicional. Confirmar edad y acompañamiento para la actividad elegida.
+Idioma: Información del organizador en portugués. Confirmar idiomas de cada actividad.
+Acceso: Condicional. Confirmar edad y acompañamiento para la actividad elegida.
+Precio: Tasa específica del torneo sin publicar. Las condiciones de acceso a la feria se aplican por separado.
+Limitaciones: A las 13:00, convocatoria a las 12:30. Hasta 20 plazas, mínimo 10 jugadores para realizarlo. Doble eliminación, FT2/FT3.
+Fuente: https://www.gameexporio.com.br/streetfighter
+Se ha comprobado: 2026-11-07
+
+### C3314 · Game Expo Rio · Fatal Fury: City of the Wolves
+
+Fecha: 2026-11-15 — 2026-11-15
+edad: Condicional. Confirmar edad y acompañamiento para la actividad elegida.
+Matvey: Condicional. Confirmar edad y acompañamiento para la actividad elegida.
+Oscar: Condicional. Confirmar edad y acompañamiento para la actividad elegida.
+Idioma: Información del organizador en portugués. Confirmar idiomas de cada actividad.
+Acceso: Condicional. Confirmar edad y acompañamiento para la actividad elegida.
+Precio: Tasa específica del torneo sin publicar. Las condiciones de acceso a la feria se aplican por separado.
+Limitaciones: A las 13:00, convocatoria a las 12:30. Hasta 20 plazas, mínimo 10 jugadores para realizarlo. Doble eliminación, FT2/FT3.
+Fuente: https://www.gameexporio.com.br/fatalfury
+Se ha comprobado: 2026-11-07
+
+### E401 · Jahu Game Show 2026
+
+Fecha: 2026-11-14 — 2026-11-14
+edad: Sí, cumple las condiciones publicadas de acceso familiar.
+Matvey: Sí, cumple las condiciones publicadas de acceso familiar.
+Oscar: Sí, cumple las condiciones publicadas de acceso familiar.
+Idioma: Información del organizador en portugués. Confirmar idiomas de cada actividad.
+Acceso: Gratis.
+Precio: Gratuito.
+Limitaciones: 14 de noviembre de 10:00 a 19:00. El organizador confirma demostraciones de robots, juegos, zona infantil y competiciones de cubo. La donación de 1 kg de alimentos es voluntaria.
+Fuente: https://www.jahugameshow.com.br/
+Se ha comprobado: 2026-11-07
+
+### E402 · FestiGame 2026 · Santiago
+
+Fecha: 2026-12-10 — 2026-12-13
+edad: Acceso para todas las edades. Desde los 2 años se exige entrada y los menores entran con adulto.
+Matvey: Sí, cumple las condiciones publicadas de acceso familiar.
+Oscar: Sí, cumple las condiciones publicadas de acceso familiar.
+Idioma: Información del organizador en español. Confirmar idiomas de cada actividad.
+Acceso: Acceso para todas las edades. Desde los 2 años se exige entrada y los menores entran con adulto.
+Precio: La plataforma muestra promoción CLP 12 900 por 1 persona y CLP 38 700 por 4 personas durante 1 día. A CLP 12 900 por entrada, 1 adulto y 2 niños suman CLP 38 700. La tarifa depende de la franja elegida.
+Limitaciones: 10–13 de diciembre de 11:00 a 20:00 según la FAQ del organizador, último acceso a las 18:00. La plataforma muestra una franja desde las 10:00, por lo que hay que cotejar la hora de la entrada elegida. Zonas de juego, cosplay y competiciones con reglas propias.
+Fuente: https://cl.festigame.com/
+Se ha comprobado: 2026-11-07
+
+### E403 · FestiGame · The Game Awards Watch Party
+
+Fecha: 2026-12-10 — 2026-12-10
+edad: Condicional. Confirmar edad y acompañamiento para la actividad elegida.
+Matvey: Condicional. Confirmar edad y acompañamiento para la actividad elegida.
+Oscar: Condicional. Confirmar edad y acompañamiento para la actividad elegida.
+Idioma: Información del organizador en español. Confirmar idiomas de cada actividad.
+Acceso:
+Precio: El 10 de diciembre a las 20:30 el recinto reabre para la retransmisión de The Game Awards. La plataforma muestra entrada combinada CLP 22 900. Confirmar edad de acceso a la sesión nocturna y hora de finalización.
+Limitaciones: El 10 de diciembre a las 20:30 el recinto reabre para la retransmisión de The Game Awards. La plataforma muestra entrada combinada CLP 22 900. Confirmar edad de acceso a la sesión nocturna y hora de finalización.
+Fuente: https://cl.festigame.com/
+Se ha comprobado: 2026-11-07
+
+### E404 · LEVEL UY Game Dev Summit 2026 · Expo
+
+Fecha: 2026-11-20 — 2026-11-21
+edad: Condicional. Confirmar edad y acompañamiento para la actividad elegida.
+Matvey: Condicional. Confirmar edad y acompañamiento para la actividad elegida.
+Oscar: Condicional. Confirmar edad y acompañamiento para la actividad elegida.
+Idioma: Información del organizador en español. Confirmar idiomas de cada actividad.
+Acceso: Condicional. Confirmar edad y acompañamiento para la actividad elegida.
+Precio: Precio sin publicar.
+Limitaciones: 20–21 de noviembre. Estudios uruguayos muestran sus juegos al público. Los talleres se dirigen a estudiantes y profesionales. Confirmar horarios, acceso infantil y tarifa de la exposición.
+Fuente: https://www.leveluy.com/
+Se ha comprobado: 2026-11-07
+
+### C3315 · CONAVI 2026 · Concurso Nacional de Videojuegos
+
+Fecha: 20–21 de noviembre. Estudios uruguayos muestran sus juegos al público. Los talleres se dirigen a estudiantes y profesionales. Confirmar horarios, acceso infantil y tarifa de la exposición.
+edad: La FAQ admite cualquier edad. Algunas categorías exigen vínculo con Uruguay. Hay una excepción para la categoría internacional.
+Matvey: El plazo de esta edición terminó. Seguir las nuevas bases.
+Oscar: El plazo de esta edición terminó. Seguir las nuevas bases.
+Idioma: Información del organizador en español. Confirmar idiomas de cada actividad.
+Acceso: La presentación cerró el 22 de octubre de 2026 a las 23:59 hora local. Participar en una temporada futura depende de las bases y de tener el proyecto listo.
+Precio: Precio sin publicar.
+Limitaciones: En 2026 hay cinco categorías. Las locales exigen residencia y documento uruguayo o entidad constituida en Uruguay. Excepción para Best International Game. Premiación en LEVEL UY, horario específico pendiente.
+Fuente: https://cavi.uy/conavi/
+Se ha comprobado: 2026-11-07
+
+### E405 · Cambiemos el Chip Fest · Cali 2027
+
+Fecha: El organizador reprogramó el festival para marzo de 2027. Fechas exactas y sede pendientes. Demostraciones públicas, electrónica, prototipado y talleres. Confirmar edad y precio.
+edad: Condicional. Confirmar edad y acompañamiento para la actividad elegida.
+Matvey: Condicional. Confirmar edad y acompañamiento para la actividad elegida.
+Oscar: Condicional. Confirmar edad y acompañamiento para la actividad elegida.
+Idioma: Información del organizador en español. Confirmar idiomas de cada actividad.
+Acceso:
+Precio: Precio sin publicar.
+Limitaciones: El organizador reprogramó el festival para marzo de 2027. Fechas exactas y sede pendientes. Demostraciones públicas, electrónica, prototipado y talleres. Confirmar edad y precio.
+Fuente: https://cambiemoselchipfest.com/
+Se ha comprobado: 2026-11-07
+
+### C3316 · Torneo Nacional de Electrónica · Cali 2027
+
+Fecha: Marzo de 2027, días exactos pendientes.
+edad: Condicional. Confirmar edad y acompañamiento para la actividad elegida.
+Matvey: Condicional. Confirmar edad y acompañamiento para la actividad elegida.
+Oscar: Condicional. Confirmar edad y acompañamiento para la actividad elegida.
+Idioma: Información del organizador en español. Confirmar idiomas de cada actividad.
+Acceso: Condicional. Confirmar edad y acompañamiento para la actividad elegida.
+Precio: Precio sin publicar.
+Limitaciones: Concurso individual. Diseño de placa de circuito impreso de dos capas y creación de un dispositivo con reconocimiento de gestos. Se puede elegir uno o ambos retos. Edad, herramientas, cuotas y días exactos pendientes.
+Fuente: https://cambiemoselchipfest.com/tne
+Se ha comprobado: 2026-11-07
+
+### E406 · Game Fest Minas 2026
+
+Fecha: El organizador canceló la edición 2026. Las fechas del 19 al 22 de noviembre siguen en el encabezado de la ticketera como anuncio anterior.
+edad: El plazo de esta edición terminó. Seguir las nuevas bases.
+Matvey: El plazo de esta edición terminó. Seguir las nuevas bases.
+Oscar: El plazo de esta edición terminó. Seguir las nuevas bases.
+Idioma: Información del organizador en portugués. Confirmar idiomas de cada actividad.
+Acceso: El plazo de esta edición terminó. Seguir las nuevas bases.
+Precio: Precio sin publicar.
+Limitaciones: El organizador canceló la edición 2026. Las fechas del 19 al 22 de noviembre siguen en el encabezado de la ticketera como anuncio anterior.
+Fuente: https://www.sympla.com.br/evento/game-fest-minas/3321900
+Se ha comprobado: 2026-11-07
+
+### C3317 · Jahu Game Show 2026 · WCA Speedcubing
+
+Fecha: 2026-11-14 — 2026-11-14
+edad: Sí por edad. Se requiere tutor legal presente y plaza confirmada.
+Matvey: Sí por edad. Se requiere tutor legal presente y plaza confirmada.
+Oscar: Sí por edad. Se requiere tutor legal presente y plaza confirmada.
+Idioma: Información del organizador en portugués. Confirmar idiomas de cada actividad.
+Acceso: Se admite cualquier edad y nacionalidad. Un menor debe estar acompañado por su tutor legal.
+Precio: BRL 30 por adelantado, BRL 40 en sede si quedan plazas. Acompañantes gratis.
+Limitaciones: Hasta 40 participantes. Registro en línea hasta el 10 de noviembre de 2026 a las 23:59 hora de Brasilia. Plazas en sede solo si quedan disponibles. Las bases describen fotos y vídeos de participantes.
+Fuente: https://www.worldcubeassociation.org/competitions/JahuGameShow2026
+Se ha comprobado: 2026-11-07
+
+### C3318 · CTWC Brazil 2026 · Classic Tetris
+
+Fecha: 2026-11-21 - 2026-11-22
+edad: Edad mínima de la llave local sin confirmar. Verificar participación infantil aparte del acceso al recinto.
+Matvey: Edad mínima de la llave local sin confirmar. Verificar participación infantil aparte del acceso al recinto.
+Oscar: Edad mínima de la llave local sin confirmar. Verificar participación infantil aparte del acceso al recinto.
+Idioma: Información del organizador en portugués. Confirmar idiomas de cada actividad.
+Acceso: Edad mínima de la llave local sin confirmar. Verificar participación infantil aparte del acceso al recinto.
+Precio: Tasa prevista BRL 25 en el recinto.
+Limitaciones: 20 de noviembre juego libre. Clasificación el 21 de noviembre desde las 12:00. Eliminatorias el 22 de noviembre aproximadamente de 12:00 a 16:00. Inscripción en el recinto.
+Fuente: https://thectwc.com/event/ctwc-brazil/
+Se ha comprobado: 2026-11-07
+
+### C3320 · CTWC Colombia 2026 · Bogotá
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Edad mínima de la llave local sin confirmar. Verificar participación infantil aparte del acceso al recinto.
+Matvey: Edad mínima de la llave local sin confirmar. Verificar participación infantil aparte del acceso al recinto.
+Oscar: Edad mínima de la llave local sin confirmar. Verificar participación infantil aparte del acceso al recinto.
+Idioma: 14 de noviembre clasificación, 15 de noviembre torneo. Información principal en español. El organizador indica ayuda en inglés en el canal South America.
+Acceso: Edad mínima de la llave local sin confirmar. Verificar participación infantil aparte del acceso al recinto.
+Precio: La tarifa depende de la entrada elegida. Comprobar el precio final en la plataforma.
+Limitaciones: 14 de noviembre clasificación, 15 de noviembre torneo. Información principal en español. El organizador indica ayuda en inglés en el canal South America.
+Fuente: https://thectwc.com/event/ctwc-colombia/
+Se ha comprobado: 2026-11-07
+
 ### CP047-20270103-20270108 · Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08
 
 Fecha: 2027-01-03 国 2027-01-08
@@ -4531,6 +4765,253 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2027 · CLP 200000 por jornada completa en febrero más inscripción CLP 35000 al elegir solo febrero. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: No por edad para el programa menor. Oscar: Condicional. Adecuado si tiene 6 años al iniciar el ciclo. Suplementos: Camiseta incluida con inscripción de enero o ambos periodos. Solo en febrero cuesta CLP 15000 por separado. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://jardininfantilrukantu.cl/taller-de-verano-rukantu/
+Se ha comprobado: 2026-11-07
+
+### CP1782-20261108-20261108 · Sesc Bom Retiro · Laboratório Digital · Vóxeles · 10:30–12:00 · 2026-11-08–2026-11-08
+
+Fecha: 2026-11-08 — 2026-11-08
+edad: Hasta 12 años inclusive.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Idioma: Idioma de las actividades sin indicar. Confirmar directamente con el recinto.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Edad adecuada. Confirmar plaza e idioma de la actividad. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.
+Fuente: https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/
+Se ha comprobado: 2026-11-07
+
+### CP1782-20261115-20261115 · Sesc Bom Retiro · Laboratório Digital · Vóxeles · 10:30–12:00 · 2026-11-15–2026-11-15
+
+Fecha: 2026-11-15 — 2026-11-15
+edad: Hasta 12 años inclusive.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Idioma: Idioma de las actividades sin indicar. Confirmar directamente con el recinto.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Edad adecuada. Confirmar plaza e idioma de la actividad. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.
+Fuente: https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/
+Se ha comprobado: 2026-11-07
+
+### CP1782-20261122-20261122 · Sesc Bom Retiro · Laboratório Digital · Vóxeles · 10:30–12:00 · 2026-11-22–2026-11-22
+
+Fecha: 2026-11-22 — 2026-11-22
+edad: Hasta 12 años inclusive.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Idioma: Idioma de las actividades sin indicar. Confirmar directamente con el recinto.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Edad adecuada. Confirmar plaza e idioma de la actividad. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.
+Fuente: https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/
+Se ha comprobado: 2026-11-07
+
+### CP1782-20261129-20261129 · Sesc Bom Retiro · Laboratório Digital · Vóxeles · 10:30–12:00 · 2026-11-29–2026-11-29
+
+Fecha: 2026-11-29 — 2026-11-29
+edad: Hasta 12 años inclusive.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Idioma: Idioma de las actividades sin indicar. Confirmar directamente con el recinto.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Edad adecuada. Confirmar plaza e idioma de la actividad. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.
+Fuente: https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/
+Se ha comprobado: 2026-11-07
+
+### CP1782-20261206-20261206 · Sesc Bom Retiro · Laboratório Digital · Vóxeles · 10:30–12:00 · 2026-12-06–2026-12-06
+
+Fecha: 2026-12-06 — 2026-12-06
+edad: Hasta 12 años inclusive.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Idioma: Idioma de las actividades sin indicar. Confirmar directamente con el recinto.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Edad adecuada. Confirmar plaza e idioma de la actividad. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.
+Fuente: https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/
+Se ha comprobado: 2026-11-07
+
+### CP1782-20261213-20261213 · Sesc Bom Retiro · Laboratório Digital · Vóxeles · 10:30–12:00 · 2026-12-13–2026-12-13
+
+Fecha: 2026-12-13 — 2026-12-13
+edad: Hasta 12 años inclusive.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Idioma: Idioma de las actividades sin indicar. Confirmar directamente con el recinto.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Edad adecuada. Confirmar plaza e idioma de la actividad. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.
+Fuente: https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/
+Se ha comprobado: 2026-11-07
+
+### CP1782-20261220-20261220 · Sesc Bom Retiro · Laboratório Digital · Vóxeles · 10:30–12:00 · 2026-12-20–2026-12-20
+
+Fecha: 2026-12-20 国 2026-12-20
+edad: Hasta 12 años inclusive.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Idioma: Idioma de las actividades sin indicar. Confirmar directamente con el recinto.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Edad adecuada. Confirmar plaza e idioma de la actividad. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.
+Fuente: https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/
+Se ha comprobado: 2026-11-07
+
+### CP1782-20261227-20261227 · Sesc Bom Retiro · Laboratório Digital · Vóxeles · 10:30–12:00 · 2026-12-27–2026-12-27
+
+Fecha: 2026-12-27 - 2026-12-27
+edad: Hasta 12 años inclusive.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Idioma: Idioma de las actividades sin indicar. Confirmar directamente con el recinto.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Edad adecuada. Confirmar plaza e idioma de la actividad. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.
+Fuente: https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/
+Se ha comprobado: 2026-11-07
+
+### CP1783-20261108-20261108 · Sesc Consolação · Inventatório · 15:00–17:00 · 2026-11-08–2026-11-08
+
+Fecha: 2026-11-08 — 2026-11-08
+edad: Recomendado para niños hasta 6 años inclusive.
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: Sí por edad; inscripción separada
+Idioma: Idioma de las actividades sin indicar. Confirmar directamente con el recinto.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: 9 años supera la edad recomendada. Confirmar acceso de niños mayores. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.
+Fuente: https://www.sescsp.org.br/programacao/inventatorio/
+Se ha comprobado: 2026-11-07
+
+### CP1783-20261114-20261114 · Sesc Consolação · Inventatório · 15:00–17:00 · 2026-11-14–2026-11-14
+
+Fecha: 2026-11-14 — 2026-11-14
+edad: Recomendado para niños hasta 6 años inclusive.
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: Sí por edad; inscripción separada
+Idioma: Idioma de las actividades sin indicar. Confirmar directamente con el recinto.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: 9 años supera la edad recomendada. Confirmar acceso de niños mayores. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.
+Fuente: https://www.sescsp.org.br/programacao/inventatorio/
+Se ha comprobado: 2026-11-07
+
+### CP1783-20261115-20261115 · Sesc Consolação · Inventatório · 15:00–17:00 · 2026-11-15–2026-11-15
+
+Fecha: 2026-11-15 — 2026-11-15
+edad: Recomendado para niños hasta 6 años inclusive.
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: Sí por edad; inscripción separada
+Idioma: Idioma de las actividades sin indicar. Confirmar directamente con el recinto.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: 9 años supera la edad recomendada. Confirmar acceso de niños mayores. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.
+Fuente: https://www.sescsp.org.br/programacao/inventatorio/
+Se ha comprobado: 2026-11-07
+
+### CP1783-20261121-20261121 · Sesc Consolação · Inventatório · 15:00–17:00 · 2026-11-21–2026-11-21
+
+Fecha: 2026-11-21 — 2026-11-21
+edad: Recomendado para niños hasta 6 años inclusive.
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: Sí por edad; inscripción separada
+Idioma: Idioma de las actividades sin indicar. Confirmar directamente con el recinto.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: 9 años supera la edad recomendada. Confirmar acceso de niños mayores. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.
+Fuente: https://www.sescsp.org.br/programacao/inventatorio/
+Se ha comprobado: 2026-11-07
+
+### CP1783-20261122-20261122 · Sesc Consolação · Inventatório · 15:00–17:00 · 2026-11-22–2026-11-22
+
+Fecha: 2026-11-22 — 2026-11-22
+edad: Recomendado para niños hasta 6 años inclusive.
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: Sí por edad; inscripción separada
+Idioma: Idioma de las actividades sin indicar. Confirmar directamente con el recinto.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: 9 años supera la edad recomendada. Confirmar acceso de niños mayores. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.
+Fuente: https://www.sescsp.org.br/programacao/inventatorio/
+Se ha comprobado: 2026-11-07
+
+### CP1783-20261128-20261128 · Sesc Consolação · Inventatório · 15:00–17:00 · 2026-11-28–2026-11-28
+
+Fecha: 2026-11-28 — 2026-11-28
+edad: Recomendado para niños hasta 6 años inclusive.
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: Sí por edad; inscripción separada
+Idioma: Idioma de las actividades sin indicar. Confirmar directamente con el recinto.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: 9 años supera la edad recomendada. Confirmar acceso de niños mayores. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.
+Fuente: https://www.sescsp.org.br/programacao/inventatorio/
+Se ha comprobado: 2026-11-07
+
+### CP1783-20261129-20261129 · Sesc Consolação · Inventatório · 15:00–17:00 · 2026-11-29–2026-11-29
+
+Fecha: 2026-11-29 — 2026-11-29
+edad: Recomendado para niños hasta 6 años inclusive.
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: Sí por edad; inscripción separada
+Idioma: Idioma de las actividades sin indicar. Confirmar directamente con el recinto.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: 9 años supera la edad recomendada. Confirmar acceso de niños mayores. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.
+Fuente: https://www.sescsp.org.br/programacao/inventatorio/
+Se ha comprobado: 2026-11-07
+
+### CP1783-20261205-20261205 · Sesc Consolação · Inventatório · 15:00–17:00 · 2026-12-05–2026-12-05
+
+Fecha: 2026-12-05 — 2026-12-05
+edad: Recomendado para niños hasta 6 años inclusive.
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: Sí por edad; inscripción separada
+Idioma: Idioma de las actividades sin indicar. Confirmar directamente con el recinto.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: 9 años supera la edad recomendada. Confirmar acceso de niños mayores. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.
+Fuente: https://www.sescsp.org.br/programacao/inventatorio/
+Se ha comprobado: 2026-11-07
+
+### CP1783-20261206-20261206 · Sesc Consolação · Inventatório · 15:00–17:00 · 2026-12-06–2026-12-06
+
+Fecha: 2026-12-06 — 2026-12-06
+edad: Recomendado para niños hasta 6 años inclusive.
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: Sí por edad; inscripción separada
+Idioma: Idioma de las actividades sin indicar. Confirmar directamente con el recinto.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: 9 años supera la edad recomendada. Confirmar acceso de niños mayores. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.
+Fuente: https://www.sescsp.org.br/programacao/inventatorio/
+Se ha comprobado: 2026-11-07
+
+### CP1783-20261212-20261212 · Sesc Consolação · Inventatório · 15:00–17:00 · 2026-12-12–2026-12-12
+
+Fecha: 2026-12-12 — 2026-12-12
+edad: Recomendado para niños hasta 6 años inclusive.
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: Sí por edad; inscripción separada
+Idioma: Idioma de las actividades sin indicar. Confirmar directamente con el recinto.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: 9 años supera la edad recomendada. Confirmar acceso de niños mayores. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.
+Fuente: https://www.sescsp.org.br/programacao/inventatorio/
+Se ha comprobado: 2026-11-07
+
+### CP1783-20261213-20261213 · Sesc Consolação · Inventatório · 15:00–17:00 · 2026-12-13–2026-12-13
+
+Fecha: 2026-12-13 — 2026-12-13
+edad: Recomendado para niños hasta 6 años inclusive.
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: Sí por edad; inscripción separada
+Idioma: Idioma de las actividades sin indicar. Confirmar directamente con el recinto.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: 9 años supera la edad recomendada. Confirmar acceso de niños mayores. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.
+Fuente: https://www.sescsp.org.br/programacao/inventatorio/
 Se ha comprobado: 2026-11-07
 
 ### E298 · Brasil Game Show 2027 · public exhibition

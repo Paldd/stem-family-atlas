@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 8098; соревнований: 3308; событий: 398; лагерей / программ: 4392. Профилей лиг и программ: 274. Карточек крупных и профильных выставок: 309 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 8138; соревнований: 3321; событий: 406; лагерей / программ: 4411. Профилей лиг и программ: 275. Карточек крупных и профильных выставок: 317 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 161 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -14,8 +14,8 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 
 | Континент | Страны / территории с записями | Соревнования | Крупные выставки | Лагеря / программы |
 |---|---:|---:|---:|---:|
-| Северная Америка | 24 | 1458 | 58 | 1077 |
-| Южная Америка | 11 | 222 | 21 | 142 |
+| Северная Америка | 24 | 1461 | 58 | 1077 |
+| Южная Америка | 11 | 232 | 29 | 161 |
 | Европа | 42 | 440 | 87 | 1372 |
 | Африка | 34 | 133 | 21 | 70 |
 | Азия | 44 | 825 | 96 | 1550 |
@@ -23,7 +23,7 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 
 Межрегиональные / глобальные карточки, не приписанные одному континенту: 121. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
 
-VEX: 518 из 3308 карточек соревнований (15.7%). Это явный перекос охвата.
+VEX: 518 из 3321 карточек соревнований (15.6%). Это явный перекос охвата.
 
 ## Что осталось
 
@@ -298,6 +298,7 @@ VEX: 518 из 3308 карточек соревнований (15.7%). Это я�
 - **FIRST LEGO League Colombia · BIOGLOW Founders**: 4 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://unno.uniminuto.edu/bioglow/
 - **Chaski Bots LAB · Ecuador**: 10 карточек, 10 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://chaskibots.com/torneo-de-robotica-2026-el-chaco/
 - **STRIPE Jamaica · Ride-Rush**: 6 карточек, 5 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.zedmakeylatechnologies.com/forum2026
+- **Classic Tetris World Championship**: 5 карточек, 5 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://thectwc.com/events/
 - **The Tech Challenge · инженерная программа и showcase**: 0 карточек, 0 с будущими точными датами. Учебная / посещаемая программа; конкурсных этапов нет. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · локальные дисциплины**: 10 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · младшая демонстрация и Mini Sumo**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -651,6 +652,14 @@ VEX: 518 из 3308 карточек соревнований (15.7%). Это я�
 - **Leukerbad Robot Carnival 2026 · Citywide demonstrations** — Швейцария; 2026-11-14 – 2026-11-16. Детский допуск уточнить. https://luma.com/yo2pk18n
 - **ETH Zürich RobotX · Open Lab Day** — Швейцария; 2026-11-27. Детский допуск уточнить. https://robotx.ethz.ch/education/open-lab-27-11-2026.html
 - **Madrid es Ciencia 2027** — Испания; 2027-03-11 – 2027-03-13. Детский допуск уточнить. https://www.madrimasd.org/feriamadridesciencia/
+- **C3 Expo 2026 · Canal3 Classic Gaming** — Бразилия; 2026-11-20 – 2026-11-22. Со взрослым; условия взрослого входа отдельно. https://c3expo.com.br/faq
+- **Game Expo Rio 2026** — Бразилия; 2026-11-15. Со взрослым; условия взрослого входа отдельно. https://www.gameexporio.com.br/
+- **Jahu Game Show 2026** — Бразилия; 2026-11-14. Со взрослым; условия взрослого входа отдельно. https://www.jahugameshow.com.br/
+- **FestiGame 2026 · Santiago** — Чили; 2026-12-10 – 2026-12-13. Со взрослым; условия взрослого входа отдельно. https://cl.festigame.com/
+- **FestiGame · The Game Awards Watch Party** — Чили; 2026-12-10. Детский допуск уточнить. https://cl.festigame.com/
+- **LEVEL UY Game Dev Summit 2026 · Expo** — Уругвай; 2026-11-20 – 2026-11-21. Детский допуск уточнить. https://www.leveluy.com/
+- **Cambiemos el Chip Fest · Cali 2027** — Колумбия; дата неизвестна. Детский допуск уточнить. https://cambiemoselchipfest.com/
+- **Game Fest Minas 2026** — Бразилия; дата неизвестна. Детский допуск уточнить. https://www.sympla.com.br/evento/game-fest-minas/3321900
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors

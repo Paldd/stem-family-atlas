@@ -69062,6 +69062,310 @@ Limitaciones: Matvey: No. Edad mínima 14 años. Oscar: No. Edad mínima 14 año
 Fuente: https://www.muncyt.es/actividades/participa-en-una-game-jam-con-software-libre
 Se ha comprobado: 2026-11-07
 
+### CP1782-20261108-20261108 · Sesc Bom Retiro · Laboratório Digital · Vóxeles · 10:30–12:00 · 2026-11-08–2026-11-08
+
+lugar: Brasil · Sesc Bom Retiro · Espaço de Tecnologias e Artes · São Paulo
+Fecha: 2026-11-08 — 2026-11-08
+edad: Hasta 12 años inclusive.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Idioma de las actividades sin indicar. Confirmar directamente con el recinto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada. Confirmar plaza e idioma de la actividad. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.
+Fuente: https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/
+Se ha comprobado: 2026-11-07
+
+### CP1782-20261115-20261115 · Sesc Bom Retiro · Laboratório Digital · Vóxeles · 10:30–12:00 · 2026-11-15–2026-11-15
+
+lugar: Brasil · Sesc Bom Retiro · Espaço de Tecnologias e Artes · São Paulo
+Fecha: 2026-11-15 — 2026-11-15
+edad: Hasta 12 años inclusive.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Idioma de las actividades sin indicar. Confirmar directamente con el recinto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada. Confirmar plaza e idioma de la actividad. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.
+Fuente: https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/
+Se ha comprobado: 2026-11-07
+
+### CP1782-20261122-20261122 · Sesc Bom Retiro · Laboratório Digital · Vóxeles · 10:30–12:00 · 2026-11-22–2026-11-22
+
+lugar: Brasil · Sesc Bom Retiro · Espaço de Tecnologias e Artes · São Paulo
+Fecha: 2026-11-22 — 2026-11-22
+edad: Hasta 12 años inclusive.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Idioma de las actividades sin indicar. Confirmar directamente con el recinto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada. Confirmar plaza e idioma de la actividad. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.
+Fuente: https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/
+Se ha comprobado: 2026-11-07
+
+### CP1782-20261129-20261129 · Sesc Bom Retiro · Laboratório Digital · Vóxeles · 10:30–12:00 · 2026-11-29–2026-11-29
+
+lugar: Brasil · Sesc Bom Retiro · Espaço de Tecnologias e Artes · São Paulo
+Fecha: 2026-11-29 — 2026-11-29
+edad: Hasta 12 años inclusive.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Idioma de las actividades sin indicar. Confirmar directamente con el recinto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada. Confirmar plaza e idioma de la actividad. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.
+Fuente: https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/
+Se ha comprobado: 2026-11-07
+
+### CP1782-20261206-20261206 · Sesc Bom Retiro · Laboratório Digital · Vóxeles · 10:30–12:00 · 2026-12-06–2026-12-06
+
+lugar: Brasil · Sesc Bom Retiro · Espaço de Tecnologias e Artes · São Paulo
+Fecha: 2026-12-06 — 2026-12-06
+edad: Hasta 12 años inclusive.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Idioma de las actividades sin indicar. Confirmar directamente con el recinto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada. Confirmar plaza e idioma de la actividad. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.
+Fuente: https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/
+Se ha comprobado: 2026-11-07
+
+### CP1782-20261213-20261213 · Sesc Bom Retiro · Laboratório Digital · Vóxeles · 10:30–12:00 · 2026-12-13–2026-12-13
+
+lugar: Brasil · Sesc Bom Retiro · Espaço de Tecnologias e Artes · São Paulo
+Fecha: 2026-12-13 — 2026-12-13
+edad: Hasta 12 años inclusive.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Idioma de las actividades sin indicar. Confirmar directamente con el recinto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada. Confirmar plaza e idioma de la actividad. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.
+Fuente: https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/
+Se ha comprobado: 2026-11-07
+
+### CP1782-20261220-20261220 · Sesc Bom Retiro · Laboratório Digital · Vóxeles · 10:30–12:00 · 2026-12-20–2026-12-20
+
+lugar: Brasil · Sesc Bom Retiro · Espaço de Tecnologias e Artes · São Paulo
+Fecha: 2026-12-20 国 2026-12-20
+edad: Hasta 12 años inclusive.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Idioma de las actividades sin indicar. Confirmar directamente con el recinto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada. Confirmar plaza e idioma de la actividad. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.
+Fuente: https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/
+Se ha comprobado: 2026-11-07
+
+### CP1782-20261227-20261227 · Sesc Bom Retiro · Laboratório Digital · Vóxeles · 10:30–12:00 · 2026-12-27–2026-12-27
+
+lugar: Brasil · Sesc Bom Retiro · Espaço de Tecnologias e Artes · São Paulo
+Fecha: 2026-12-27 - 2026-12-27
+edad: Hasta 12 años inclusive.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Idioma de las actividades sin indicar. Confirmar directamente con el recinto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada. Confirmar plaza e idioma de la actividad. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.
+Fuente: https://www.sescsp.org.br/programacao/laboratorio-digital-para-criancas-com-quantos-blocos-se-faz-um-mundo/
+Se ha comprobado: 2026-11-07
+
+### CP1783-20261108-20261108 · Sesc Consolação · Inventatório · 15:00–17:00 · 2026-11-08–2026-11-08
+
+lugar: Brasil · Sesc Consolação · Sala Gama · São Paulo
+Fecha: 2026-11-08 — 2026-11-08
+edad: Recomendado para niños hasta 6 años inclusive.
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Idioma de las actividades sin indicar. Confirmar directamente con el recinto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: 9 años supera la edad recomendada. Confirmar acceso de niños mayores. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.
+Fuente: https://www.sescsp.org.br/programacao/inventatorio/
+Se ha comprobado: 2026-11-07
+
+### CP1783-20261114-20261114 · Sesc Consolação · Inventatório · 15:00–17:00 · 2026-11-14–2026-11-14
+
+lugar: Brasil · Sesc Consolação · Sala Gama · São Paulo
+Fecha: 2026-11-14 — 2026-11-14
+edad: Recomendado para niños hasta 6 años inclusive.
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Idioma de las actividades sin indicar. Confirmar directamente con el recinto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: 9 años supera la edad recomendada. Confirmar acceso de niños mayores. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.
+Fuente: https://www.sescsp.org.br/programacao/inventatorio/
+Se ha comprobado: 2026-11-07
+
+### CP1783-20261115-20261115 · Sesc Consolação · Inventatório · 15:00–17:00 · 2026-11-15–2026-11-15
+
+lugar: Brasil · Sesc Consolação · Sala Gama · São Paulo
+Fecha: 2026-11-15 — 2026-11-15
+edad: Recomendado para niños hasta 6 años inclusive.
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Idioma de las actividades sin indicar. Confirmar directamente con el recinto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: 9 años supera la edad recomendada. Confirmar acceso de niños mayores. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.
+Fuente: https://www.sescsp.org.br/programacao/inventatorio/
+Se ha comprobado: 2026-11-07
+
+### CP1783-20261121-20261121 · Sesc Consolação · Inventatório · 15:00–17:00 · 2026-11-21–2026-11-21
+
+lugar: Brasil · Sesc Consolação · Sala Gama · São Paulo
+Fecha: 2026-11-21 — 2026-11-21
+edad: Recomendado para niños hasta 6 años inclusive.
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Idioma de las actividades sin indicar. Confirmar directamente con el recinto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: 9 años supera la edad recomendada. Confirmar acceso de niños mayores. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.
+Fuente: https://www.sescsp.org.br/programacao/inventatorio/
+Se ha comprobado: 2026-11-07
+
+### CP1783-20261122-20261122 · Sesc Consolação · Inventatório · 15:00–17:00 · 2026-11-22–2026-11-22
+
+lugar: Brasil · Sesc Consolação · Sala Gama · São Paulo
+Fecha: 2026-11-22 — 2026-11-22
+edad: Recomendado para niños hasta 6 años inclusive.
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Idioma de las actividades sin indicar. Confirmar directamente con el recinto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: 9 años supera la edad recomendada. Confirmar acceso de niños mayores. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.
+Fuente: https://www.sescsp.org.br/programacao/inventatorio/
+Se ha comprobado: 2026-11-07
+
+### CP1783-20261128-20261128 · Sesc Consolação · Inventatório · 15:00–17:00 · 2026-11-28–2026-11-28
+
+lugar: Brasil · Sesc Consolação · Sala Gama · São Paulo
+Fecha: 2026-11-28 — 2026-11-28
+edad: Recomendado para niños hasta 6 años inclusive.
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Idioma de las actividades sin indicar. Confirmar directamente con el recinto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: 9 años supera la edad recomendada. Confirmar acceso de niños mayores. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.
+Fuente: https://www.sescsp.org.br/programacao/inventatorio/
+Se ha comprobado: 2026-11-07
+
+### CP1783-20261129-20261129 · Sesc Consolação · Inventatório · 15:00–17:00 · 2026-11-29–2026-11-29
+
+lugar: Brasil · Sesc Consolação · Sala Gama · São Paulo
+Fecha: 2026-11-29 — 2026-11-29
+edad: Recomendado para niños hasta 6 años inclusive.
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Idioma de las actividades sin indicar. Confirmar directamente con el recinto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: 9 años supera la edad recomendada. Confirmar acceso de niños mayores. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.
+Fuente: https://www.sescsp.org.br/programacao/inventatorio/
+Se ha comprobado: 2026-11-07
+
+### CP1783-20261205-20261205 · Sesc Consolação · Inventatório · 15:00–17:00 · 2026-12-05–2026-12-05
+
+lugar: Brasil · Sesc Consolação · Sala Gama · São Paulo
+Fecha: 2026-12-05 — 2026-12-05
+edad: Recomendado para niños hasta 6 años inclusive.
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Idioma de las actividades sin indicar. Confirmar directamente con el recinto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: 9 años supera la edad recomendada. Confirmar acceso de niños mayores. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.
+Fuente: https://www.sescsp.org.br/programacao/inventatorio/
+Se ha comprobado: 2026-11-07
+
+### CP1783-20261206-20261206 · Sesc Consolação · Inventatório · 15:00–17:00 · 2026-12-06–2026-12-06
+
+lugar: Brasil · Sesc Consolação · Sala Gama · São Paulo
+Fecha: 2026-12-06 — 2026-12-06
+edad: Recomendado para niños hasta 6 años inclusive.
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Idioma de las actividades sin indicar. Confirmar directamente con el recinto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: 9 años supera la edad recomendada. Confirmar acceso de niños mayores. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.
+Fuente: https://www.sescsp.org.br/programacao/inventatorio/
+Se ha comprobado: 2026-11-07
+
+### CP1783-20261212-20261212 · Sesc Consolação · Inventatório · 15:00–17:00 · 2026-12-12–2026-12-12
+
+lugar: Brasil · Sesc Consolação · Sala Gama · São Paulo
+Fecha: 2026-12-12 — 2026-12-12
+edad: Recomendado para niños hasta 6 años inclusive.
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Idioma de las actividades sin indicar. Confirmar directamente con el recinto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: 9 años supera la edad recomendada. Confirmar acceso de niños mayores. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.
+Fuente: https://www.sescsp.org.br/programacao/inventatorio/
+Se ha comprobado: 2026-11-07
+
+### CP1783-20261213-20261213 · Sesc Consolação · Inventatório · 15:00–17:00 · 2026-12-13–2026-12-13
+
+lugar: Brasil · Sesc Consolação · Sala Gama · São Paulo
+Fecha: 2026-12-13 — 2026-12-13
+edad: Recomendado para niños hasta 6 años inclusive.
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Idioma de las actividades sin indicar. Confirmar directamente con el recinto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: 9 años supera la edad recomendada. Confirmar acceso de niños mayores. Oscar: Edad adecuada. Confirmar plaza e idioma de la actividad. Suplementos:  Pago: Gratis.
+Fuente: https://www.sescsp.org.br/programacao/inventatorio/
+Se ha comprobado: 2026-11-07
+
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
 
 lugar: Letonia · EIS Campus · Piņķi
