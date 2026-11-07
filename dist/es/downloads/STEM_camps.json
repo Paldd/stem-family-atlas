@@ -580,7 +580,7 @@
       }
     ],
     "counts": {
-      "records": 3716,
+      "records": 3721,
       "holiday": 3463,
       "regular": 108,
       "self_paced_materials": 2,
@@ -592,7 +592,7 @@
       "ru_instruction": 3,
       "language_lessons": 408,
       "camp_life_language": 226,
-      "language_unclassified": 131,
+      "language_unclassified": 136,
       "countries": 98
     },
     "validation": {
@@ -31549,7 +31549,7 @@
       "end": "2026-11-01",
       "period": "Fechas publicadas del evento; admisión y plaza aparte",
       "date_status": "Confirmado",
-      "deadline": "2026-09-30",
+      "deadline": "",
       "age": "ADC Fast Track 2026–2027: 12U / Elementary ≤12, 15U / Middle ≤15, 19U / High ≤19 al 6 de mayo de 2027; High además antes de graduarse de secundaria. Sin edad mínima global; se recomiendan 10–18 años. Verificar por separado grupo escolar local y preparación de menores. Elementary, Escuela media, La escuela secundaria",
       "mat": "Condicional: sin edad mínima global, pero programa recomendado desde 10 años. El entrenador debe evaluar autonomía y seguridad; confirmar curso, admisión local de menores y plaza.",
       "osc": "Condicional: sin edad mínima global, pero programa recomendado desde 10 años. El entrenador debe evaluar autonomía y seguridad; confirmar curso, admisión local de menores y plaza.",
@@ -31568,7 +31568,7 @@
       "proof": "Leída ficha pública: fechas, grupo escolar, tarifa y estado actual. No se confirman reglamento local completo ni aceptación del equipo.",
       "checked": "2026-11-06",
       "status": "Idea",
-      "note": "No se establece plaza clasificatoria de este registro; el nombre de una red internacional no convierte una etapa local en final mundial. Workshop breve / práctica educativa, no campamento residencial. Confirmar inscripción infantil individual, idioma y preparación mínima.",
+      "note": "No se establece plaza clasificatoria de este registro; el nombre de una red internacional no convierte una etapa local en final mundial. Workshop breve / práctica educativa, no campamento residencial. Confirmar inscripción infantil individual, idioma y preparación mínima. La fuente muestra una sola fecha de inscripción sin separar apertura y cierre. No interpretarla automáticamente como cierre de solicitud; confirmar condiciones exactas.",
       "iso": [
         "USA"
       ],
@@ -31591,7 +31591,16 @@
           "label": "ADC Fast Track manual 1.1: composición, edad, drones y seguridad"
         }
       ],
-      "registration_status": "Evento finalizado; archivo de condiciones, no inscripción disponible ahora."
+      "registration_status": "Evento finalizado; archivo de condiciones, no inscripción disponible ahora.",
+      "deadline_history": [
+        {
+          "previous_deadline": "2026-09-30",
+          "source": "https://recfevents.org/Events/Details/778",
+          "rechecked": "2026-11-06",
+          "reason": "La fuente muestra una sola fecha de inscripción sin separar apertura y cierre. No interpretarla automáticamente como cierre de solicitud; confirmar condiciones exactas.",
+          "interpretation": "Se retira plazo de solicitud sin confirmar; se conserva historial del valor anterior."
+        }
+      ]
     },
     {
       "id": "L627",
@@ -31757,6 +31766,281 @@
         }
       ],
       "registration_status": "El organizador muestra inscripción abierta; admisión individual no confirmada."
+    },
+    {
+      "id": "L630",
+      "block": "Campamentos",
+      "title": "RECF Achieve · Pinnacle Workshop",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "Framingham, Massachusetts, Walsh Middle School",
+      "start": "2026-09-26",
+      "end": "2026-09-26",
+      "period": "Fechas publicadas; admisión y plaza aparte",
+      "date_status": "Confirmado",
+      "deadline": "2026-09-25",
+      "age": "Achieve Pinnacle 2026–2027: 15U / Middle ≤15, 19U / High ≤19 al 6 de mayo de 2027; High además antes de graduarse de secundaria. Este apartado del manual fija límites superiores; confirmar por separado admisión escolar local de menores y preparación. Escuela media, La escuela secundaria",
+      "mat": "Condicional / vía futura: se cumple límite superior de edad, pero la fuente describe Middle / High. No se confirman admisión local de primaria menor, preparación ni aceptación del equipo.",
+      "osc": "Condicional / vía futura: se cumple límite superior de edad, pero la fuente describe Middle / High. No se confirman admisión local de primaria menor, preparación ni aceptación del equipo.",
+      "format": "Equipo registrado desde 1 alumno. Hasta 3 alumnos del drive team acceden a pista; no es tamaño máximo del equipo. Diseño, código y cuaderno propios de alumnos, acompañamiento adulto.",
+      "entry": "Equipo Achieve e inscripción de temporada → comprobar grupo escolar y acceso local → solicitud de etapa concreta. Inscripción y capacidad libre no prueban aceptación familiar ni plaza mundial.",
+      "gear": "Electrónica VEX V5 obligatoria; estructuras permitidas VEX V5 / AndyMark Robits / Pitsco TETRIX MAX. Se permiten ciertas piezas propias de plástico y 3D. Tamaño inicial ≤18 × 18 × 18 pulgadas; durante partido ancho y largo ≤24 × 24. Lista de piezas, inspección y Q&A actuales obligatorios.",
+      "language": "El idioma inglés del portal, manual o consentimiento no confirma idioma oral de evaluación. Comprobar EN / ES / RU en la etapa concreta.",
+      "languages": [],
+      "language_certainty": "El idioma inglés del portal, manual o consentimiento no confirma idioma oral de evaluación. Comprobar EN / ES / RU en la etapa concreta.",
+      "cost": "USD 0.00 · Cuota por equipo para el evento; temporada Achieve USD 175, material, alojamiento y viaje aparte. Cuota cero no hace gratuito todo el viaje.",
+      "level": "D — formación",
+      "reward": "Práctica educativa breve; no campamento residencial ni victoria internacional.",
+      "priority": "P3 — confirmar condiciones de participación",
+      "action": "Entrenador: confirmar grupo escolar, acceso externo, idioma, composición y plaza real; revisar reglas actuales antes de pagar.",
+      "source": "https://recfevents.org/Events/Details/41",
+      "proof": "Comprobada ficha pública: fechas, campos, tarifa y estado. Reglamento local completo y aceptación familiar sin confirmar.",
+      "checked": "2026-11-06",
+      "status": "Idea",
+      "note": "No se establece plaza clasificatoria de este registro; pertenecer a red internacional no convierte torneo local en final mundial. Confirmar por separado inscripción individual infantil, idioma y preparación.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "local",
+      "participation": "workshop",
+      "admission_kind": "confirm_eligibility",
+      "evidence_level": "event_page",
+      "date_scope": "event_day",
+      "date_precision": "published_event",
+      "event_code": "ACH20268097",
+      "network": "RECF Achieve",
+      "team_min": 1,
+      "references": [
+        {
+          "url": "https://games.recf.org/achieve/2.0",
+          "label": "Achieve Pinnacle manual 2.0: edad, composición y material"
+        }
+      ],
+      "registration_status": "Evento finalizado; ficha histórica de condiciones."
+    },
+    {
+      "id": "L631",
+      "block": "Campamentos",
+      "title": "RECF Achieve · Pinnacle Workshop",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "Framingham, Massachusetts, Walsh Middle School",
+      "start": "2026-10-24",
+      "end": "2026-10-24",
+      "period": "Fechas publicadas; admisión y plaza aparte",
+      "date_status": "Confirmado",
+      "deadline": "2026-10-23",
+      "age": "Achieve Pinnacle 2026–2027: 15U / Middle ≤15, 19U / High ≤19 al 6 de mayo de 2027; High además antes de graduarse de secundaria. Este apartado del manual fija límites superiores; confirmar por separado admisión escolar local de menores y preparación. Escuela media, La escuela secundaria",
+      "mat": "Condicional / vía futura: se cumple límite superior de edad, pero la fuente describe Middle / High. No se confirman admisión local de primaria menor, preparación ni aceptación del equipo.",
+      "osc": "Condicional / vía futura: se cumple límite superior de edad, pero la fuente describe Middle / High. No se confirman admisión local de primaria menor, preparación ni aceptación del equipo.",
+      "format": "Equipo registrado desde 1 alumno. Hasta 3 alumnos del drive team acceden a pista; no es tamaño máximo del equipo. Diseño, código y cuaderno propios de alumnos, acompañamiento adulto.",
+      "entry": "Equipo Achieve e inscripción de temporada → comprobar grupo escolar y acceso local → solicitud de etapa concreta. Inscripción y capacidad libre no prueban aceptación familiar ni plaza mundial.",
+      "gear": "Electrónica VEX V5 obligatoria; estructuras permitidas VEX V5 / AndyMark Robits / Pitsco TETRIX MAX. Se permiten ciertas piezas propias de plástico y 3D. Tamaño inicial ≤18 × 18 × 18 pulgadas; durante partido ancho y largo ≤24 × 24. Lista de piezas, inspección y Q&A actuales obligatorios.",
+      "language": "El idioma inglés del portal, manual o consentimiento no confirma idioma oral de evaluación. Comprobar EN / ES / RU en la etapa concreta.",
+      "languages": [],
+      "language_certainty": "El idioma inglés del portal, manual o consentimiento no confirma idioma oral de evaluación. Comprobar EN / ES / RU en la etapa concreta.",
+      "cost": "USD 0.00 · Cuota por equipo para el evento; temporada Achieve USD 175, material, alojamiento y viaje aparte. Cuota cero no hace gratuito todo el viaje.",
+      "level": "D — formación",
+      "reward": "Práctica educativa breve; no campamento residencial ni victoria internacional.",
+      "priority": "P3 — confirmar condiciones de participación",
+      "action": "Entrenador: confirmar grupo escolar, acceso externo, idioma, composición y plaza real; revisar reglas actuales antes de pagar.",
+      "source": "https://recfevents.org/Events/Details/42",
+      "proof": "Comprobada ficha pública: fechas, campos, tarifa y estado. Reglamento local completo y aceptación familiar sin confirmar.",
+      "checked": "2026-11-06",
+      "status": "Idea",
+      "note": "No se establece plaza clasificatoria de este registro; pertenecer a red internacional no convierte torneo local en final mundial. Confirmar por separado inscripción individual infantil, idioma y preparación.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "local",
+      "participation": "workshop",
+      "admission_kind": "confirm_eligibility",
+      "evidence_level": "event_page",
+      "date_scope": "event_day",
+      "date_precision": "published_event",
+      "event_code": "ACH20265127",
+      "network": "RECF Achieve",
+      "team_min": 1,
+      "references": [
+        {
+          "url": "https://games.recf.org/achieve/2.0",
+          "label": "Achieve Pinnacle manual 2.0: edad, composición y material"
+        }
+      ],
+      "registration_status": "Evento finalizado; ficha histórica de condiciones."
+    },
+    {
+      "id": "L632",
+      "block": "Campamentos",
+      "title": "RECF Achieve · Pinnacle Workshop",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "Marlborough, Massachusetts, 1LT Charles W. Whitcomb Middle School",
+      "start": "2026-10-10",
+      "end": "2026-10-10",
+      "period": "Fechas publicadas; admisión y plaza aparte",
+      "date_status": "Confirmado",
+      "deadline": "2026-10-09",
+      "age": "Achieve Pinnacle 2026–2027: 15U / Middle ≤15, 19U / High ≤19 al 6 de mayo de 2027; High además antes de graduarse de secundaria. Este apartado del manual fija límites superiores; confirmar por separado admisión escolar local de menores y preparación. Escuela media, La escuela secundaria",
+      "mat": "Condicional / vía futura: se cumple límite superior de edad, pero la fuente describe Middle / High. No se confirman admisión local de primaria menor, preparación ni aceptación del equipo.",
+      "osc": "Condicional / vía futura: se cumple límite superior de edad, pero la fuente describe Middle / High. No se confirman admisión local de primaria menor, preparación ni aceptación del equipo.",
+      "format": "Equipo registrado desde 1 alumno. Hasta 3 alumnos del drive team acceden a pista; no es tamaño máximo del equipo. Diseño, código y cuaderno propios de alumnos, acompañamiento adulto.",
+      "entry": "Equipo Achieve e inscripción de temporada → comprobar grupo escolar y acceso local → solicitud de etapa concreta. Inscripción y capacidad libre no prueban aceptación familiar ni plaza mundial.",
+      "gear": "Electrónica VEX V5 obligatoria; estructuras permitidas VEX V5 / AndyMark Robits / Pitsco TETRIX MAX. Se permiten ciertas piezas propias de plástico y 3D. Tamaño inicial ≤18 × 18 × 18 pulgadas; durante partido ancho y largo ≤24 × 24. Lista de piezas, inspección y Q&A actuales obligatorios.",
+      "language": "El idioma inglés del portal, manual o consentimiento no confirma idioma oral de evaluación. Comprobar EN / ES / RU en la etapa concreta.",
+      "languages": [],
+      "language_certainty": "El idioma inglés del portal, manual o consentimiento no confirma idioma oral de evaluación. Comprobar EN / ES / RU en la etapa concreta.",
+      "cost": "USD 0.00 · Cuota por equipo para el evento; temporada Achieve USD 175, material, alojamiento y viaje aparte. Cuota cero no hace gratuito todo el viaje.",
+      "level": "D — formación",
+      "reward": "Práctica educativa breve; no campamento residencial ni victoria internacional.",
+      "priority": "P3 — confirmar condiciones de participación",
+      "action": "Entrenador: confirmar grupo escolar, acceso externo, idioma, composición y plaza real; revisar reglas actuales antes de pagar.",
+      "source": "https://recfevents.org/Events/Details/235",
+      "proof": "Comprobada ficha pública: fechas, campos, tarifa y estado. Reglamento local completo y aceptación familiar sin confirmar.",
+      "checked": "2026-11-06",
+      "status": "Idea",
+      "note": "Scrimmage / práctica: no tratar automáticamente como clasificatorio, victoria mundial ni garantía de premio. Confirmar por separado inscripción individual infantil, idioma y preparación.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "local",
+      "participation": "workshop",
+      "admission_kind": "confirm_eligibility",
+      "evidence_level": "event_page",
+      "date_scope": "event_day",
+      "date_precision": "published_event",
+      "event_code": "ACH20268951",
+      "network": "RECF Achieve",
+      "team_min": 1,
+      "references": [
+        {
+          "url": "https://games.recf.org/achieve/2.0",
+          "label": "Achieve Pinnacle manual 2.0: edad, composición y material"
+        }
+      ],
+      "registration_status": "Evento finalizado; ficha histórica de condiciones."
+    },
+    {
+      "id": "L633",
+      "block": "Campamentos",
+      "title": "RECF Achieve · Thayer Academy Achieve Workshop",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "Braintree, MA, Thayer Academy",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "period": "Fechas publicadas; admisión y plaza aparte",
+      "date_status": "Confirmado",
+      "deadline": "2026-11-04",
+      "age": "Achieve Pinnacle 2026–2027: 15U / Middle ≤15, 19U / High ≤19 al 6 de mayo de 2027; High además antes de graduarse de secundaria. Este apartado del manual fija límites superiores; confirmar por separado admisión escolar local de menores y preparación. Escuela media, La escuela secundaria",
+      "mat": "Condicional / vía futura: se cumple límite superior de edad, pero la fuente describe Middle / High. No se confirman admisión local de primaria menor, preparación ni aceptación del equipo.",
+      "osc": "Condicional / vía futura: se cumple límite superior de edad, pero la fuente describe Middle / High. No se confirman admisión local de primaria menor, preparación ni aceptación del equipo.",
+      "format": "Equipo registrado desde 1 alumno. Hasta 3 alumnos del drive team acceden a pista; no es tamaño máximo del equipo. Diseño, código y cuaderno propios de alumnos, acompañamiento adulto.",
+      "entry": "Equipo Achieve e inscripción de temporada → comprobar grupo escolar y acceso local → solicitud de etapa concreta. Inscripción y capacidad libre no prueban aceptación familiar ni plaza mundial.",
+      "gear": "Electrónica VEX V5 obligatoria; estructuras permitidas VEX V5 / AndyMark Robits / Pitsco TETRIX MAX. Se permiten ciertas piezas propias de plástico y 3D. Tamaño inicial ≤18 × 18 × 18 pulgadas; durante partido ancho y largo ≤24 × 24. Lista de piezas, inspección y Q&A actuales obligatorios.",
+      "language": "El idioma inglés del portal, manual o consentimiento no confirma idioma oral de evaluación. Comprobar EN / ES / RU en la etapa concreta.",
+      "languages": [],
+      "language_certainty": "El idioma inglés del portal, manual o consentimiento no confirma idioma oral de evaluación. Comprobar EN / ES / RU en la etapa concreta.",
+      "cost": "USD 0.00 · Cuota por equipo para el evento; temporada Achieve USD 175, material, alojamiento y viaje aparte. Cuota cero no hace gratuito todo el viaje.",
+      "level": "D — formación",
+      "reward": "Práctica educativa breve; no campamento residencial ni victoria internacional.",
+      "priority": "P3 — confirmar condiciones de participación",
+      "action": "Entrenador: confirmar grupo escolar, acceso externo, idioma, composición y plaza real; revisar reglas actuales antes de pagar.",
+      "source": "https://recfevents.org/Events/Details/506",
+      "proof": "Comprobada ficha pública: fechas, campos, tarifa y estado. Reglamento local completo y aceptación familiar sin confirmar.",
+      "checked": "2026-11-06",
+      "status": "Idea",
+      "note": "No se establece plaza clasificatoria de este registro; pertenecer a red internacional no convierte torneo local en final mundial. Confirmar por separado inscripción individual infantil, idioma y preparación.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "local",
+      "participation": "workshop",
+      "admission_kind": "confirm_eligibility",
+      "evidence_level": "event_page",
+      "date_scope": "event_day",
+      "date_precision": "published_event",
+      "event_code": "ACH20267638",
+      "network": "RECF Achieve",
+      "team_min": 1,
+      "references": [
+        {
+          "url": "https://games.recf.org/achieve/2.0",
+          "label": "Achieve Pinnacle manual 2.0: edad, composición y material"
+        }
+      ],
+      "registration_status": "Inscripción cerrada; archivo de condiciones, no convocatoria disponible ahora."
+    },
+    {
+      "id": "L634",
+      "block": "Campamentos",
+      "title": "RECF Achieve · Broward County JROTC Sentinels Robotics Workshop",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "Pompano Beach, Florida, Blanche Ely High School",
+      "start": "2026-10-24",
+      "end": "2026-10-24",
+      "period": "Fechas publicadas; admisión y plaza aparte",
+      "date_status": "Confirmado",
+      "deadline": "2026-10-21",
+      "age": "Achieve Pinnacle 2026–2027: 15U / Middle ≤15, 19U / High ≤19 al 6 de mayo de 2027; High además antes de graduarse de secundaria. Este apartado del manual fija límites superiores; confirmar por separado admisión escolar local de menores y preparación. La escuela secundaria",
+      "mat": "No: no se prevé solicitud familiar abierta; requiere programa JROTC, unidad indicada y selección.",
+      "osc": "No: no se prevé solicitud familiar abierta; requiere programa JROTC, unidad indicada y selección.",
+      "format": "Equipo registrado desde 1 alumno. Hasta 3 alumnos del drive team acceden a pista; no es tamaño máximo del equipo. Diseño, código y cuaderno propios de alumnos, acompañamiento adulto.",
+      "entry": "Equipo Achieve e inscripción de temporada → comprobar grupo escolar y acceso local → solicitud de etapa concreta. Inscripción y capacidad libre no prueban aceptación familiar ni plaza mundial.",
+      "gear": "Electrónica VEX V5 obligatoria; estructuras permitidas VEX V5 / AndyMark Robits / Pitsco TETRIX MAX. Se permiten ciertas piezas propias de plástico y 3D. Tamaño inicial ≤18 × 18 × 18 pulgadas; durante partido ancho y largo ≤24 × 24. Lista de piezas, inspección y Q&A actuales obligatorios.",
+      "language": "El idioma inglés del portal, manual o consentimiento no confirma idioma oral de evaluación. Comprobar EN / ES / RU en la etapa concreta.",
+      "languages": [],
+      "language_certainty": "El idioma inglés del portal, manual o consentimiento no confirma idioma oral de evaluación. Comprobar EN / ES / RU en la etapa concreta.",
+      "cost": "USD 25.00 · Cuota por equipo para el evento; temporada Achieve USD 175, material, alojamiento y viaje aparte. Cuota cero no hace gratuito todo el viaje. Pago según campo Payment due: 2026-10-21",
+      "level": "D — formación",
+      "reward": "Práctica educativa breve; no campamento residencial ni victoria internacional.",
+      "priority": "P3 — confirmar condiciones de participación",
+      "action": "Entrenador: confirmar grupo escolar, acceso externo, idioma, composición y plaza real; revisar reglas actuales antes de pagar.",
+      "source": "https://recfevents.org/Events/Details/700",
+      "proof": "Comprobada ficha pública: fechas, campos, tarifa y estado. Reglamento local completo y aceptación familiar sin confirmar.",
+      "checked": "2026-11-06",
+      "status": "Idea",
+      "note": "No se establece plaza clasificatoria de este registro; pertenecer a red internacional no convierte torneo local en final mundial. Solo equipos JROTC elegibles; nombre militar en título de otro torneo abierto no constituye por sí solo esta prohibición. Delegación local limitada a 6 personas por equipo registrado y 2 equipos por escuela; no es límite global de alumnos Achieve. Confirmar por separado inscripción individual infantil, idioma y preparación.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "local",
+      "participation": "workshop",
+      "admission_kind": "school_selection",
+      "evidence_level": "event_page",
+      "date_scope": "event_day",
+      "date_precision": "published_event",
+      "event_code": "ACH20263945",
+      "network": "RECF Achieve",
+      "team_min": 1,
+      "references": [
+        {
+          "url": "https://games.recf.org/achieve/2.0",
+          "label": "Achieve Pinnacle manual 2.0: edad, composición y material"
+        }
+      ],
+      "registration_status": "Evento finalizado; ficha histórica de condiciones."
     },
     {
       "id": "CP001-20270606-20270619",

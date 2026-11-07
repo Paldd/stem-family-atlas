@@ -55,6 +55,8 @@ jobs:
         run: node scripts/verify-recf-global.cjs
       - name: Verify ADC ages, local team restrictions, previews and remote events
         run: node scripts/verify-adc-global.cjs
+      - name: Verify Achieve routes, actual language evidence and deadline roles
+        run: node scripts/verify-achieve-global.cjs
       - name: Record the exact published source revision
         run: python3 scripts/write-release.py
       - name: Configure Pages

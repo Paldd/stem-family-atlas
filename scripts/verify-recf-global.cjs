@@ -25,6 +25,9 @@ for(const lang of ['','es/']){
  state.league='recf';const league=new Set(Array.from(c.filtered(),e=>e.id));assert(native.new_events.every(e=>league.has(e.id)),'Every imported event reachable through RECF profile');
  Object.assign(state,{league:'',scope:'international',country:'USA'});const worlds=new Set(Array.from(c.filtered(),e=>e.id));assert(worlds.has('C028')&&worlds.has('C030')&&worlds.has('C032'),'World-route filters include the corrected hubs');
  Object.assign(state,{scope:'',country:'',admission:'invitation',league:'recf'});assert(c.filtered().some(e=>e.id===item(844).id));
- state.admission='';state.language='EN';assert(!c.filtered().some(e=>native.new_events.some(n=>n.id===e.id)),'Unknown judging language must not pass EN filter');
+ state.admission='';state.language='EN';
+ const confirmedEnglish=new Set(['C2231','C2232']);
+ const importedEnglish=c.filtered().filter(e=>native.new_events.some(n=>n.id===e.id));
+ assert.deepEqual(new Set(importedEnglish.map(e=>e.id)),confirmedEnglish,'Only the two CREATE pages rechecked in v198 explicitly confirm spoken English');
  console.log((lang||'ru')+': complete Engage snapshot, adult/child types, source conflicts, school/invitation gates, league windows, preview releases, independent world venues, sourced date history and actual filters passed');
 }

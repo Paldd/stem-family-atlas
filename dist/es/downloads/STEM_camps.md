@@ -8802,7 +8802,7 @@ Idioma: El texto inglés del portal y reglamento no confirma idioma oral de eval
 Marca de idioma: no clasificada; soporte: no declarada
 Precio: USD 0.00 · Cuota por equipo para este evento; inscripción ADC de temporada USD 200, equipo y viaje aparte. Evento gratuito no significa temporada ni viaje gratuitos.
 Acceso: Equipo ADC → comprobar grupo, restricciones locales y admisión extranjera → solicitud de etapa concreta. Inscripción abierta en el portal no equivale a participación familiar confirmada.
-Limitaciones: No se establece plaza clasificatoria de este registro; el nombre de una red internacional no convierte una etapa local en final mundial. Workshop breve / práctica educativa, no campamento residencial. Confirmar inscripción infantil individual, idioma y preparación mínima.
+Limitaciones: No se establece plaza clasificatoria de este registro; el nombre de una red internacional no convierte una etapa local en final mundial. Workshop breve / práctica educativa, no campamento residencial. Confirmar inscripción infantil individual, idioma y preparación mínima. La fuente muestra una sola fecha de inscripción sin separar apertura y cierre. No interpretarla automáticamente como cierre de solicitud; confirmar condiciones exactas.
 Fuente: https://recfevents.org/Events/Details/778
 Se ha comprobado: 2026-11-06
 
@@ -8852,6 +8852,86 @@ Precio: USD 100.00 · Cuota por equipo para este evento; inscripción ADC de tem
 Acceso: Equipo ADC → comprobar grupo, restricciones locales y admisión extranjera → solicitud de etapa concreta. Inscripción abierta en el portal no equivale a participación familiar confirmada.
 Limitaciones: No se establece plaza clasificatoria de este registro; el nombre de una red internacional no convierte una etapa local en final mundial. Workshop breve / práctica educativa, no campamento residencial. Confirmar inscripción infantil individual, idioma y preparación mínima.
 Fuente: https://recfevents.org/Events/Details/814
+Se ha comprobado: 2026-11-06
+
+### L630 · RECF Achieve · Pinnacle Workshop
+
+lugar: Estados Unidos · Framingham, Massachusetts, Walsh Escuela media
+Fecha: 2026-09-26 — 2026-09-26
+edad: Achieve Pinnacle 2026–2027: 15U / Middle ≤15, 19U / High ≤19 al 6 de mayo de 2027; High además antes de graduarse de secundaria. Este apartado del manual fija límites superiores; confirmar por separado admisión escolar local de menores y preparación. Escuela media, La escuela secundaria
+Matvey: Condicional / vía futura: se cumple límite superior de edad, pero la fuente describe Middle / High. No se confirman admisión local de primaria menor, preparación ni aceptación del equipo.
+Oscar: Condicional / vía futura: se cumple límite superior de edad, pero la fuente describe Middle / High. No se confirman admisión local de primaria menor, preparación ni aceptación del equipo.
+formato: workshop
+Idioma: El idioma inglés del portal, manual o consentimiento no confirma idioma oral de evaluación. Comprobar EN / ES / RU en la etapa concreta.
+Marca de idioma: no clasificada; soporte: no declarada
+Precio: USD 0.00 · Cuota por equipo para el evento; temporada Achieve USD 175, material, alojamiento y viaje aparte. Cuota cero no hace gratuito todo el viaje.
+Acceso: Equipo Achieve e inscripción de temporada → comprobar grupo escolar y acceso local → solicitud de etapa concreta. Inscripción y capacidad libre no prueban aceptación familiar ni plaza mundial.
+Limitaciones: No se establece plaza clasificatoria de este registro; pertenecer a red internacional no convierte torneo local en final mundial. Confirmar por separado inscripción individual infantil, idioma y preparación.
+Fuente: https://recfevents.org/Events/Details/41
+Se ha comprobado: 2026-11-06
+
+### L631 · RECF Achieve · Pinnacle Workshop
+
+lugar: Estados Unidos · Framingham, Massachusetts, Walsh Escuela media
+Fecha: 2026-10-24 国 2026-10-24
+edad: Achieve Pinnacle 2026–2027: 15U / Middle ≤15, 19U / High ≤19 al 6 de mayo de 2027; High además antes de graduarse de secundaria. Este apartado del manual fija límites superiores; confirmar por separado admisión escolar local de menores y preparación. Escuela media, La escuela secundaria
+Matvey: Condicional / vía futura: se cumple límite superior de edad, pero la fuente describe Middle / High. No se confirman admisión local de primaria menor, preparación ni aceptación del equipo.
+Oscar: Condicional / vía futura: se cumple límite superior de edad, pero la fuente describe Middle / High. No se confirman admisión local de primaria menor, preparación ni aceptación del equipo.
+formato: workshop
+Idioma: El idioma inglés del portal, manual o consentimiento no confirma idioma oral de evaluación. Comprobar EN / ES / RU en la etapa concreta.
+Marca de idioma: no clasificada; soporte: no declarada
+Precio: USD 0.00 · Cuota por equipo para el evento; temporada Achieve USD 175, material, alojamiento y viaje aparte. Cuota cero no hace gratuito todo el viaje.
+Acceso: Equipo Achieve e inscripción de temporada → comprobar grupo escolar y acceso local → solicitud de etapa concreta. Inscripción y capacidad libre no prueban aceptación familiar ni plaza mundial.
+Limitaciones: No se establece plaza clasificatoria de este registro; pertenecer a red internacional no convierte torneo local en final mundial. Confirmar por separado inscripción individual infantil, idioma y preparación.
+Fuente: https://recfevents.org/Events/Details/42
+Se ha comprobado: 2026-11-06
+
+### L632 · RECF Achieve · Pinnacle Workshop
+
+lugar: Estados Unidos · Marlborough, Massachusetts, 1LT Charles W. Whitcomb Escuela media
+Fecha: 2026-10-10 国 2026-10-10
+edad: Achieve Pinnacle 2026–2027: 15U / Middle ≤15, 19U / High ≤19 al 6 de mayo de 2027; High además antes de graduarse de secundaria. Este apartado del manual fija límites superiores; confirmar por separado admisión escolar local de menores y preparación. Escuela media, La escuela secundaria
+Matvey: Condicional / vía futura: se cumple límite superior de edad, pero la fuente describe Middle / High. No se confirman admisión local de primaria menor, preparación ni aceptación del equipo.
+Oscar: Condicional / vía futura: se cumple límite superior de edad, pero la fuente describe Middle / High. No se confirman admisión local de primaria menor, preparación ni aceptación del equipo.
+formato: workshop
+Idioma: El idioma inglés del portal, manual o consentimiento no confirma idioma oral de evaluación. Comprobar EN / ES / RU en la etapa concreta.
+Marca de idioma: no clasificada; soporte: no declarada
+Precio: USD 0.00 · Cuota por equipo para el evento; temporada Achieve USD 175, material, alojamiento y viaje aparte. Cuota cero no hace gratuito todo el viaje.
+Acceso: Equipo Achieve e inscripción de temporada → comprobar grupo escolar y acceso local → solicitud de etapa concreta. Inscripción y capacidad libre no prueban aceptación familiar ni plaza mundial.
+Limitaciones: Scrimmage / práctica: no tratar automáticamente como clasificatorio, victoria mundial ni garantía de premio. Confirmar por separado inscripción individual infantil, idioma y preparación.
+Fuente: https://recfevents.org/Events/Details/235
+Se ha comprobado: 2026-11-06
+
+### L633 · RECF Achieve · Thayer Academy Achieve Workshop
+
+lugar: Estados Unidos · Braintree, MA, Thayer Academy
+Fecha: 2026-11-07 — 2026-11-07
+edad: Achieve Pinnacle 2026–2027: 15U / Middle ≤15, 19U / High ≤19 al 6 de mayo de 2027; High además antes de graduarse de secundaria. Este apartado del manual fija límites superiores; confirmar por separado admisión escolar local de menores y preparación. Escuela media, La escuela secundaria
+Matvey: Condicional / vía futura: se cumple límite superior de edad, pero la fuente describe Middle / High. No se confirman admisión local de primaria menor, preparación ni aceptación del equipo.
+Oscar: Condicional / vía futura: se cumple límite superior de edad, pero la fuente describe Middle / High. No se confirman admisión local de primaria menor, preparación ni aceptación del equipo.
+formato: workshop
+Idioma: El idioma inglés del portal, manual o consentimiento no confirma idioma oral de evaluación. Comprobar EN / ES / RU en la etapa concreta.
+Marca de idioma: no clasificada; soporte: no declarada
+Precio: USD 0.00 · Cuota por equipo para el evento; temporada Achieve USD 175, material, alojamiento y viaje aparte. Cuota cero no hace gratuito todo el viaje.
+Acceso: Equipo Achieve e inscripción de temporada → comprobar grupo escolar y acceso local → solicitud de etapa concreta. Inscripción y capacidad libre no prueban aceptación familiar ni plaza mundial.
+Limitaciones: No se establece plaza clasificatoria de este registro; pertenecer a red internacional no convierte torneo local en final mundial. Confirmar por separado inscripción individual infantil, idioma y preparación.
+Fuente: https://recfevents.org/Events/Details/506
+Se ha comprobado: 2026-11-06
+
+### L634 · RECF Achieve · Broward County JROTC Sentinels Robotics Workshop
+
+lugar: Estados Unidos · Pompano Beach, Florida, Blanche Ely La escuela secundaria
+Fecha: 2026-10-24 国 2026-10-24
+edad: Achieve Pinnacle 2026–2027: 15U / Middle ≤15, 19U / High ≤19 al 6 de mayo de 2027; High además antes de graduarse de secundaria. Este apartado del manual fija límites superiores; confirmar por separado admisión escolar local de menores y preparación. La escuela secundaria
+Matvey: No: no se prevé solicitud familiar abierta; requiere programa JROTC, unidad indicada y selección.
+Oscar: No: no se prevé solicitud familiar abierta; requiere programa JROTC, unidad indicada y selección.
+formato: workshop
+Idioma: El idioma inglés del portal, manual o consentimiento no confirma idioma oral de evaluación. Comprobar EN / ES / RU en la etapa concreta.
+Marca de idioma: no clasificada; soporte: no declarada
+Precio: USD 25.00 · Cuota por equipo para el evento; temporada Achieve USD 175, material, alojamiento y viaje aparte. Cuota cero no hace gratuito todo el viaje. Pago según campo Payment due: 2026-10-21
+Acceso: Equipo Achieve e inscripción de temporada → comprobar grupo escolar y acceso local → solicitud de etapa concreta. Inscripción y capacidad libre no prueban aceptación familiar ni plaza mundial.
+Limitaciones: No se establece plaza clasificatoria de este registro; pertenecer a red internacional no convierte torneo local en final mundial. Solo equipos JROTC elegibles; nombre militar en título de otro torneo abierto no constituye por sí solo esta prohibición. Delegación local limitada a 6 personas por equipo registrado y 2 equipos por escuela; no es límite global de alumnos Achieve. Confirmar por separado inscripción individual infantil, idioma y preparación.
+Fuente: https://recfevents.org/Events/Details/700
 Se ha comprobado: 2026-11-06
 
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19

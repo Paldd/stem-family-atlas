@@ -16,106 +16,148 @@
       "evidence": "Ruta mundial ITU Robotics for Good: revisadas 75 páginas nacionales, 46 fechas 2026–2027 en 37 países; añadidas 45, conservado C1451. Años de nacimiento precisados por V11, añadidos final y exposición Geneva 2027, seis categorías Myanmar, programas locales Haiti / DRC / Iraq, siete dossiers y colegio ILBC. Auditoría mundial completa sigue en curso.",
       "remaining": "Comprobar los calendarios locales y todas las disciplinas de cada país; no considerar el directorio WRO como un estudio completo",
       "latest_pass": {
-        "version": 197,
+        "version": 198,
         "checked": "2026-11-06",
-        "status": "partial-world-drone-competition-provider-audit",
+        "status": "partial-world-achieve-provider-and-route-audit",
         "provider_list_snapshot_complete": true,
-        "provider_programmes_audited": [
-          "ADC"
+        "provider_detailed_records": 355,
+        "provider_pre_release_records": 5,
+        "provider_records": 360,
+        "new_event_records": 360,
+        "new_competition_records": 355,
+        "new_learning_events": 5,
+        "new_programme_hubs": 1,
+        "new_programme_milestones": 2,
+        "new_competition_source_records": 352,
+        "excluded_adult_training_ids": [
+          35,
+          171,
+          173
         ],
-        "other_recf_programmes_complete": false,
-        "provider_list_records": 211,
-        "provider_detailed_records": 204,
-        "provider_pre_release_records": 7,
-        "new_event_records": 210,
-        "new_competitions": 202,
-        "new_learning_events": 8,
-        "modified_prior_event_ids": [
-          "C1883",
-          "C031",
+        "student_workshop_ids": [
+          41,
+          42,
+          235,
+          506,
+          700
+        ],
+        "type_conflict_ids": [
+          912,
+          924
+        ],
+        "remote_provider_ids": [
+          50,
+          176,
+          181,
+          184,
+          254,
+          256,
+          610,
+          1004,
+          1052,
+          1053,
+          1066,
+          1093,
+          1094,
+          1095,
+          1101
+        ],
+        "confirmed_spoken_english_provider_ids": [
+          704,
+          705,
+          706,
+          707
+        ],
+        "military_restricted_ids": [
+          62,
+          146,
+          654,
+          700,
+          701
+        ],
+        "school_verification_ids": [
+          49,
+          272,
+          274,
+          275
+        ],
+        "school_organization_only_ids": [
+          143,
+          204,
+          205,
+          206,
+          207
+        ],
+        "registered_kansas_only_ids": [
+          526,
+          527,
+          658,
+          737,
+          917
+        ],
+        "official_signature_provider_ids": [
+          43,
+          310,
+          325,
+          459,
+          612,
+          644,
+          645,
+          663,
+          710,
+          877
+        ],
+        "conference_membership_ids": [
+          74,
+          349,
+          535,
+          536,
+          717,
+          718,
+          749,
+          854,
+          973,
+          974,
+          977,
+          978
+        ],
+        "indigenous_majority_source_id": 1010,
+        "family_indigenous_status_not_inferred": true,
+        "prior_event_updates": [
+          "C2231",
+          "C2232",
+          "C2095",
+          "L626",
           "C030"
         ],
-        "changed_date_event_ids": [
-          "C1883"
+        "prior_registration_role_rechecks": [
+          "C2231",
+          "C2232",
+          "C2095",
+          "L626"
         ],
-        "refined_prior_festival_windows": [
-          "C1883"
+        "prior_event_dates_changed": [],
+        "new_league_profiles": 1,
+        "new_independent_organizations": 0,
+        "updated_profile_ids": [
+          "recf",
+          "recf-achieve"
         ],
-        "updated_league_profiles": [
-          "drone"
-        ],
-        "new_league_profiles": 0,
         "new_camp_dossiers": 0,
         "source_request_scope": "captured-native-GET-attempts-only",
-        "native_source_capture_attempts": 236,
-        "successful_response_hashes_verified": 230,
-        "failed_capture_attempts": 6,
-        "unresolved_native_http_403_sources": 1,
+        "native_source_attempts": 400,
+        "successful_response_hashes_verified": 399,
+        "failed_capture_attempts": 1,
+        "unresolved_native_403_sources": 1,
         "primary_reader_fallbacks": 1,
         "unresolved_provider_detail_sources": 0,
-        "jrotc_restricted_provider_ids": [
-          63,
-          228,
-          248,
-          257,
-          343,
-          487,
-          565,
-          584,
-          683,
-          765,
-          771,
-          808,
-          1018,
-          1020,
-          1083
-        ],
-        "district_or_local_group_ids": [
-          63,
-          276,
-          804,
-          873
-        ],
-        "source_classification_conflicts": [
-          63,
-          228,
-          496,
-          873,
-          942
-        ],
-        "remote_event_provider_ids": [
-          920
-        ],
-        "learning_provider_ids": [
-          113,
-          276,
-          330,
-          613,
-          778,
-          779,
-          804,
-          814
-        ],
-        "local_team_exception_provider_ids": [
-          245,
-          246,
-          247
-        ],
-        "date_body_conflict_provider_ids": [
-          228
-        ],
-        "possible_duplicate_provider_pairs": [
-          [
-            182,
-            1057
-          ]
-        ],
+        "other_recf_programmes_complete": false,
         "exact_event_rules_fully_audited": false,
         "distinct_physical_events_proven": false,
         "worldwide_complete": false,
         "fully_audited_countries": 0,
         "all_original_18_requirements_retained": true,
-        "no_messages_forms_enrollment_agreements_or_payments": true
+        "no_messages_enrollment_agreements_or_payments": true
       }
     },
     {
@@ -421,106 +463,148 @@
       "evidence": "Ruta mundial ITU Robotics for Good: revisadas 75 páginas nacionales, 46 fechas 2026–2027 en 37 países; añadidas 45, conservado C1451. Años de nacimiento precisados por V11, añadidos final y exposición Geneva 2027, seis categorías Myanmar, programas locales Haiti / DRC / Iraq, siete dossiers y colegio ILBC. Auditoría mundial completa sigue en curso.",
       "remaining": "Fechas de nacimiento exactas y clases escolares; admisión familiar/expatriada, idioma de determinadas ocupaciones y de la judicatura, normas nacionales vigentes.",
       "latest_pass": {
-        "version": 197,
+        "version": 198,
         "checked": "2026-11-06",
-        "status": "partial-world-drone-competition-provider-audit",
+        "status": "partial-world-achieve-provider-and-route-audit",
         "provider_list_snapshot_complete": true,
-        "provider_programmes_audited": [
-          "ADC"
+        "provider_detailed_records": 355,
+        "provider_pre_release_records": 5,
+        "provider_records": 360,
+        "new_event_records": 360,
+        "new_competition_records": 355,
+        "new_learning_events": 5,
+        "new_programme_hubs": 1,
+        "new_programme_milestones": 2,
+        "new_competition_source_records": 352,
+        "excluded_adult_training_ids": [
+          35,
+          171,
+          173
         ],
-        "other_recf_programmes_complete": false,
-        "provider_list_records": 211,
-        "provider_detailed_records": 204,
-        "provider_pre_release_records": 7,
-        "new_event_records": 210,
-        "new_competitions": 202,
-        "new_learning_events": 8,
-        "modified_prior_event_ids": [
-          "C1883",
-          "C031",
+        "student_workshop_ids": [
+          41,
+          42,
+          235,
+          506,
+          700
+        ],
+        "type_conflict_ids": [
+          912,
+          924
+        ],
+        "remote_provider_ids": [
+          50,
+          176,
+          181,
+          184,
+          254,
+          256,
+          610,
+          1004,
+          1052,
+          1053,
+          1066,
+          1093,
+          1094,
+          1095,
+          1101
+        ],
+        "confirmed_spoken_english_provider_ids": [
+          704,
+          705,
+          706,
+          707
+        ],
+        "military_restricted_ids": [
+          62,
+          146,
+          654,
+          700,
+          701
+        ],
+        "school_verification_ids": [
+          49,
+          272,
+          274,
+          275
+        ],
+        "school_organization_only_ids": [
+          143,
+          204,
+          205,
+          206,
+          207
+        ],
+        "registered_kansas_only_ids": [
+          526,
+          527,
+          658,
+          737,
+          917
+        ],
+        "official_signature_provider_ids": [
+          43,
+          310,
+          325,
+          459,
+          612,
+          644,
+          645,
+          663,
+          710,
+          877
+        ],
+        "conference_membership_ids": [
+          74,
+          349,
+          535,
+          536,
+          717,
+          718,
+          749,
+          854,
+          973,
+          974,
+          977,
+          978
+        ],
+        "indigenous_majority_source_id": 1010,
+        "family_indigenous_status_not_inferred": true,
+        "prior_event_updates": [
+          "C2231",
+          "C2232",
+          "C2095",
+          "L626",
           "C030"
         ],
-        "changed_date_event_ids": [
-          "C1883"
+        "prior_registration_role_rechecks": [
+          "C2231",
+          "C2232",
+          "C2095",
+          "L626"
         ],
-        "refined_prior_festival_windows": [
-          "C1883"
+        "prior_event_dates_changed": [],
+        "new_league_profiles": 1,
+        "new_independent_organizations": 0,
+        "updated_profile_ids": [
+          "recf",
+          "recf-achieve"
         ],
-        "updated_league_profiles": [
-          "drone"
-        ],
-        "new_league_profiles": 0,
         "new_camp_dossiers": 0,
         "source_request_scope": "captured-native-GET-attempts-only",
-        "native_source_capture_attempts": 236,
-        "successful_response_hashes_verified": 230,
-        "failed_capture_attempts": 6,
-        "unresolved_native_http_403_sources": 1,
+        "native_source_attempts": 400,
+        "successful_response_hashes_verified": 399,
+        "failed_capture_attempts": 1,
+        "unresolved_native_403_sources": 1,
         "primary_reader_fallbacks": 1,
         "unresolved_provider_detail_sources": 0,
-        "jrotc_restricted_provider_ids": [
-          63,
-          228,
-          248,
-          257,
-          343,
-          487,
-          565,
-          584,
-          683,
-          765,
-          771,
-          808,
-          1018,
-          1020,
-          1083
-        ],
-        "district_or_local_group_ids": [
-          63,
-          276,
-          804,
-          873
-        ],
-        "source_classification_conflicts": [
-          63,
-          228,
-          496,
-          873,
-          942
-        ],
-        "remote_event_provider_ids": [
-          920
-        ],
-        "learning_provider_ids": [
-          113,
-          276,
-          330,
-          613,
-          778,
-          779,
-          804,
-          814
-        ],
-        "local_team_exception_provider_ids": [
-          245,
-          246,
-          247
-        ],
-        "date_body_conflict_provider_ids": [
-          228
-        ],
-        "possible_duplicate_provider_pairs": [
-          [
-            182,
-            1057
-          ]
-        ],
+        "other_recf_programmes_complete": false,
         "exact_event_rules_fully_audited": false,
         "distinct_physical_events_proven": false,
         "worldwide_complete": false,
         "fully_audited_countries": 0,
         "all_original_18_requirements_retained": true,
-        "no_messages_forms_enrollment_agreements_or_payments": true
+        "no_messages_enrollment_agreements_or_payments": true
       }
     },
     {
@@ -529,106 +613,148 @@
       "status": "implemented_verified",
       "evidence": "Ruta mundial ITU Robotics for Good: revisadas 75 páginas nacionales, 46 fechas 2026–2027 en 37 países; añadidas 45, conservado C1451. Años de nacimiento precisados por V11, añadidos final y exposición Geneva 2027, seis categorías Myanmar, programas locales Haiti / DRC / Iraq, siete dossiers y colegio ILBC. Auditoría mundial completa sigue en curso.",
       "latest_pass": {
-        "version": 197,
+        "version": 198,
         "checked": "2026-11-06",
-        "status": "partial-world-drone-competition-provider-audit",
+        "status": "partial-world-achieve-provider-and-route-audit",
         "provider_list_snapshot_complete": true,
-        "provider_programmes_audited": [
-          "ADC"
+        "provider_detailed_records": 355,
+        "provider_pre_release_records": 5,
+        "provider_records": 360,
+        "new_event_records": 360,
+        "new_competition_records": 355,
+        "new_learning_events": 5,
+        "new_programme_hubs": 1,
+        "new_programme_milestones": 2,
+        "new_competition_source_records": 352,
+        "excluded_adult_training_ids": [
+          35,
+          171,
+          173
         ],
-        "other_recf_programmes_complete": false,
-        "provider_list_records": 211,
-        "provider_detailed_records": 204,
-        "provider_pre_release_records": 7,
-        "new_event_records": 210,
-        "new_competitions": 202,
-        "new_learning_events": 8,
-        "modified_prior_event_ids": [
-          "C1883",
-          "C031",
+        "student_workshop_ids": [
+          41,
+          42,
+          235,
+          506,
+          700
+        ],
+        "type_conflict_ids": [
+          912,
+          924
+        ],
+        "remote_provider_ids": [
+          50,
+          176,
+          181,
+          184,
+          254,
+          256,
+          610,
+          1004,
+          1052,
+          1053,
+          1066,
+          1093,
+          1094,
+          1095,
+          1101
+        ],
+        "confirmed_spoken_english_provider_ids": [
+          704,
+          705,
+          706,
+          707
+        ],
+        "military_restricted_ids": [
+          62,
+          146,
+          654,
+          700,
+          701
+        ],
+        "school_verification_ids": [
+          49,
+          272,
+          274,
+          275
+        ],
+        "school_organization_only_ids": [
+          143,
+          204,
+          205,
+          206,
+          207
+        ],
+        "registered_kansas_only_ids": [
+          526,
+          527,
+          658,
+          737,
+          917
+        ],
+        "official_signature_provider_ids": [
+          43,
+          310,
+          325,
+          459,
+          612,
+          644,
+          645,
+          663,
+          710,
+          877
+        ],
+        "conference_membership_ids": [
+          74,
+          349,
+          535,
+          536,
+          717,
+          718,
+          749,
+          854,
+          973,
+          974,
+          977,
+          978
+        ],
+        "indigenous_majority_source_id": 1010,
+        "family_indigenous_status_not_inferred": true,
+        "prior_event_updates": [
+          "C2231",
+          "C2232",
+          "C2095",
+          "L626",
           "C030"
         ],
-        "changed_date_event_ids": [
-          "C1883"
+        "prior_registration_role_rechecks": [
+          "C2231",
+          "C2232",
+          "C2095",
+          "L626"
         ],
-        "refined_prior_festival_windows": [
-          "C1883"
+        "prior_event_dates_changed": [],
+        "new_league_profiles": 1,
+        "new_independent_organizations": 0,
+        "updated_profile_ids": [
+          "recf",
+          "recf-achieve"
         ],
-        "updated_league_profiles": [
-          "drone"
-        ],
-        "new_league_profiles": 0,
         "new_camp_dossiers": 0,
         "source_request_scope": "captured-native-GET-attempts-only",
-        "native_source_capture_attempts": 236,
-        "successful_response_hashes_verified": 230,
-        "failed_capture_attempts": 6,
-        "unresolved_native_http_403_sources": 1,
+        "native_source_attempts": 400,
+        "successful_response_hashes_verified": 399,
+        "failed_capture_attempts": 1,
+        "unresolved_native_403_sources": 1,
         "primary_reader_fallbacks": 1,
         "unresolved_provider_detail_sources": 0,
-        "jrotc_restricted_provider_ids": [
-          63,
-          228,
-          248,
-          257,
-          343,
-          487,
-          565,
-          584,
-          683,
-          765,
-          771,
-          808,
-          1018,
-          1020,
-          1083
-        ],
-        "district_or_local_group_ids": [
-          63,
-          276,
-          804,
-          873
-        ],
-        "source_classification_conflicts": [
-          63,
-          228,
-          496,
-          873,
-          942
-        ],
-        "remote_event_provider_ids": [
-          920
-        ],
-        "learning_provider_ids": [
-          113,
-          276,
-          330,
-          613,
-          778,
-          779,
-          804,
-          814
-        ],
-        "local_team_exception_provider_ids": [
-          245,
-          246,
-          247
-        ],
-        "date_body_conflict_provider_ids": [
-          228
-        ],
-        "possible_duplicate_provider_pairs": [
-          [
-            182,
-            1057
-          ]
-        ],
+        "other_recf_programmes_complete": false,
         "exact_event_rules_fully_audited": false,
         "distinct_physical_events_proven": false,
         "worldwide_complete": false,
         "fully_audited_countries": 0,
         "all_original_18_requirements_retained": true,
-        "no_messages_forms_enrollment_agreements_or_payments": true
+        "no_messages_enrollment_agreements_or_payments": true
       }
     },
     {
@@ -637,106 +763,148 @@
       "status": "implemented_verified_research_in_progress",
       "evidence": "Ruta mundial ITU Robotics for Good: revisadas 75 páginas nacionales, 46 fechas 2026–2027 en 37 países; añadidas 45, conservado C1451. Años de nacimiento precisados por V11, añadidos final y exposición Geneva 2027, seis categorías Myanmar, programas locales Haiti / DRC / Iraq, siete dossiers y colegio ILBC. Auditoría mundial completa sigue en curso.",
       "latest_pass": {
-        "version": 197,
+        "version": 198,
         "checked": "2026-11-06",
-        "status": "partial-world-drone-competition-provider-audit",
+        "status": "partial-world-achieve-provider-and-route-audit",
         "provider_list_snapshot_complete": true,
-        "provider_programmes_audited": [
-          "ADC"
+        "provider_detailed_records": 355,
+        "provider_pre_release_records": 5,
+        "provider_records": 360,
+        "new_event_records": 360,
+        "new_competition_records": 355,
+        "new_learning_events": 5,
+        "new_programme_hubs": 1,
+        "new_programme_milestones": 2,
+        "new_competition_source_records": 352,
+        "excluded_adult_training_ids": [
+          35,
+          171,
+          173
         ],
-        "other_recf_programmes_complete": false,
-        "provider_list_records": 211,
-        "provider_detailed_records": 204,
-        "provider_pre_release_records": 7,
-        "new_event_records": 210,
-        "new_competitions": 202,
-        "new_learning_events": 8,
-        "modified_prior_event_ids": [
-          "C1883",
-          "C031",
+        "student_workshop_ids": [
+          41,
+          42,
+          235,
+          506,
+          700
+        ],
+        "type_conflict_ids": [
+          912,
+          924
+        ],
+        "remote_provider_ids": [
+          50,
+          176,
+          181,
+          184,
+          254,
+          256,
+          610,
+          1004,
+          1052,
+          1053,
+          1066,
+          1093,
+          1094,
+          1095,
+          1101
+        ],
+        "confirmed_spoken_english_provider_ids": [
+          704,
+          705,
+          706,
+          707
+        ],
+        "military_restricted_ids": [
+          62,
+          146,
+          654,
+          700,
+          701
+        ],
+        "school_verification_ids": [
+          49,
+          272,
+          274,
+          275
+        ],
+        "school_organization_only_ids": [
+          143,
+          204,
+          205,
+          206,
+          207
+        ],
+        "registered_kansas_only_ids": [
+          526,
+          527,
+          658,
+          737,
+          917
+        ],
+        "official_signature_provider_ids": [
+          43,
+          310,
+          325,
+          459,
+          612,
+          644,
+          645,
+          663,
+          710,
+          877
+        ],
+        "conference_membership_ids": [
+          74,
+          349,
+          535,
+          536,
+          717,
+          718,
+          749,
+          854,
+          973,
+          974,
+          977,
+          978
+        ],
+        "indigenous_majority_source_id": 1010,
+        "family_indigenous_status_not_inferred": true,
+        "prior_event_updates": [
+          "C2231",
+          "C2232",
+          "C2095",
+          "L626",
           "C030"
         ],
-        "changed_date_event_ids": [
-          "C1883"
+        "prior_registration_role_rechecks": [
+          "C2231",
+          "C2232",
+          "C2095",
+          "L626"
         ],
-        "refined_prior_festival_windows": [
-          "C1883"
+        "prior_event_dates_changed": [],
+        "new_league_profiles": 1,
+        "new_independent_organizations": 0,
+        "updated_profile_ids": [
+          "recf",
+          "recf-achieve"
         ],
-        "updated_league_profiles": [
-          "drone"
-        ],
-        "new_league_profiles": 0,
         "new_camp_dossiers": 0,
         "source_request_scope": "captured-native-GET-attempts-only",
-        "native_source_capture_attempts": 236,
-        "successful_response_hashes_verified": 230,
-        "failed_capture_attempts": 6,
-        "unresolved_native_http_403_sources": 1,
+        "native_source_attempts": 400,
+        "successful_response_hashes_verified": 399,
+        "failed_capture_attempts": 1,
+        "unresolved_native_403_sources": 1,
         "primary_reader_fallbacks": 1,
         "unresolved_provider_detail_sources": 0,
-        "jrotc_restricted_provider_ids": [
-          63,
-          228,
-          248,
-          257,
-          343,
-          487,
-          565,
-          584,
-          683,
-          765,
-          771,
-          808,
-          1018,
-          1020,
-          1083
-        ],
-        "district_or_local_group_ids": [
-          63,
-          276,
-          804,
-          873
-        ],
-        "source_classification_conflicts": [
-          63,
-          228,
-          496,
-          873,
-          942
-        ],
-        "remote_event_provider_ids": [
-          920
-        ],
-        "learning_provider_ids": [
-          113,
-          276,
-          330,
-          613,
-          778,
-          779,
-          804,
-          814
-        ],
-        "local_team_exception_provider_ids": [
-          245,
-          246,
-          247
-        ],
-        "date_body_conflict_provider_ids": [
-          228
-        ],
-        "possible_duplicate_provider_pairs": [
-          [
-            182,
-            1057
-          ]
-        ],
+        "other_recf_programmes_complete": false,
         "exact_event_rules_fully_audited": false,
         "distinct_physical_events_proven": false,
         "worldwide_complete": false,
         "fully_audited_countries": 0,
         "all_original_18_requirements_retained": true,
-        "no_messages_forms_enrollment_agreements_or_payments": true
+        "no_messages_enrollment_agreements_or_payments": true
       }
     },
     {
@@ -1446,106 +1614,148 @@
       "evidence": "Planificación familiar Costa Rica / México: corregida admisión por edad de 12 cursos FOD y revisado Camp Coyote invernal; añadidos dos formatos familiares de astronomía con 24 variantes fechadas y cinco presupuestos. Nueva selección de grupos de edades distintas exige sede común verificada y días y horas completamente iguales. Página actual de astrocamp contiene 12 fechas; fecha extra de copia indexada no importada.",
       "remaining": "Comprobar personalmente a los entrenadores menores, clases, fechas de nacimiento, presupuesto, nuevo equipo y lugares.",
       "latest_pass": {
-        "version": 197,
+        "version": 198,
         "checked": "2026-11-06",
-        "status": "partial-world-drone-competition-provider-audit",
+        "status": "partial-world-achieve-provider-and-route-audit",
         "provider_list_snapshot_complete": true,
-        "provider_programmes_audited": [
-          "ADC"
+        "provider_detailed_records": 355,
+        "provider_pre_release_records": 5,
+        "provider_records": 360,
+        "new_event_records": 360,
+        "new_competition_records": 355,
+        "new_learning_events": 5,
+        "new_programme_hubs": 1,
+        "new_programme_milestones": 2,
+        "new_competition_source_records": 352,
+        "excluded_adult_training_ids": [
+          35,
+          171,
+          173
         ],
-        "other_recf_programmes_complete": false,
-        "provider_list_records": 211,
-        "provider_detailed_records": 204,
-        "provider_pre_release_records": 7,
-        "new_event_records": 210,
-        "new_competitions": 202,
-        "new_learning_events": 8,
-        "modified_prior_event_ids": [
-          "C1883",
-          "C031",
+        "student_workshop_ids": [
+          41,
+          42,
+          235,
+          506,
+          700
+        ],
+        "type_conflict_ids": [
+          912,
+          924
+        ],
+        "remote_provider_ids": [
+          50,
+          176,
+          181,
+          184,
+          254,
+          256,
+          610,
+          1004,
+          1052,
+          1053,
+          1066,
+          1093,
+          1094,
+          1095,
+          1101
+        ],
+        "confirmed_spoken_english_provider_ids": [
+          704,
+          705,
+          706,
+          707
+        ],
+        "military_restricted_ids": [
+          62,
+          146,
+          654,
+          700,
+          701
+        ],
+        "school_verification_ids": [
+          49,
+          272,
+          274,
+          275
+        ],
+        "school_organization_only_ids": [
+          143,
+          204,
+          205,
+          206,
+          207
+        ],
+        "registered_kansas_only_ids": [
+          526,
+          527,
+          658,
+          737,
+          917
+        ],
+        "official_signature_provider_ids": [
+          43,
+          310,
+          325,
+          459,
+          612,
+          644,
+          645,
+          663,
+          710,
+          877
+        ],
+        "conference_membership_ids": [
+          74,
+          349,
+          535,
+          536,
+          717,
+          718,
+          749,
+          854,
+          973,
+          974,
+          977,
+          978
+        ],
+        "indigenous_majority_source_id": 1010,
+        "family_indigenous_status_not_inferred": true,
+        "prior_event_updates": [
+          "C2231",
+          "C2232",
+          "C2095",
+          "L626",
           "C030"
         ],
-        "changed_date_event_ids": [
-          "C1883"
+        "prior_registration_role_rechecks": [
+          "C2231",
+          "C2232",
+          "C2095",
+          "L626"
         ],
-        "refined_prior_festival_windows": [
-          "C1883"
+        "prior_event_dates_changed": [],
+        "new_league_profiles": 1,
+        "new_independent_organizations": 0,
+        "updated_profile_ids": [
+          "recf",
+          "recf-achieve"
         ],
-        "updated_league_profiles": [
-          "drone"
-        ],
-        "new_league_profiles": 0,
         "new_camp_dossiers": 0,
         "source_request_scope": "captured-native-GET-attempts-only",
-        "native_source_capture_attempts": 236,
-        "successful_response_hashes_verified": 230,
-        "failed_capture_attempts": 6,
-        "unresolved_native_http_403_sources": 1,
+        "native_source_attempts": 400,
+        "successful_response_hashes_verified": 399,
+        "failed_capture_attempts": 1,
+        "unresolved_native_403_sources": 1,
         "primary_reader_fallbacks": 1,
         "unresolved_provider_detail_sources": 0,
-        "jrotc_restricted_provider_ids": [
-          63,
-          228,
-          248,
-          257,
-          343,
-          487,
-          565,
-          584,
-          683,
-          765,
-          771,
-          808,
-          1018,
-          1020,
-          1083
-        ],
-        "district_or_local_group_ids": [
-          63,
-          276,
-          804,
-          873
-        ],
-        "source_classification_conflicts": [
-          63,
-          228,
-          496,
-          873,
-          942
-        ],
-        "remote_event_provider_ids": [
-          920
-        ],
-        "learning_provider_ids": [
-          113,
-          276,
-          330,
-          613,
-          778,
-          779,
-          804,
-          814
-        ],
-        "local_team_exception_provider_ids": [
-          245,
-          246,
-          247
-        ],
-        "date_body_conflict_provider_ids": [
-          228
-        ],
-        "possible_duplicate_provider_pairs": [
-          [
-            182,
-            1057
-          ]
-        ],
+        "other_recf_programmes_complete": false,
         "exact_event_rules_fully_audited": false,
         "distinct_physical_events_proven": false,
         "worldwide_complete": false,
         "fully_audited_countries": 0,
         "all_original_18_requirements_retained": true,
-        "no_messages_forms_enrollment_agreements_or_payments": true
+        "no_messages_enrollment_agreements_or_payments": true
       }
     },
     {
@@ -1763,14 +1973,15 @@
   ],
   "completion_rule": "No declarar el objetivo de las tarjetas de identificación completadas, la lista de 249 países o los puntos verdes de UI. Se requiere una cobertura de referencia y condiciones pertinentes demostradas, o información manifiestamente inaccesible o no declarada con fuentes verificadas.",
   "latest_validation": {
-    "version": 197,
+    "version": 198,
     "status": "implementation_snapshot",
-    "events": 6520,
-    "competitions": 2539,
+    "events": 6880,
+    "competitions": 2894,
+    "league_profiles": 253,
     "camp_dossiers": 1497,
+    "budget_offers": 209,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
-    "budget_offers": 209,
     "worldwide_complete": false,
     "fully_audited_countries": 0
   },
@@ -21796,14 +22007,26 @@
       "budget_offers": 209,
       "worldwide_complete": false,
       "fully_audited_countries": 0
+    },
+    {
+      "version": 197,
+      "status": "implementation_snapshot",
+      "events": 6520,
+      "competitions": 2539,
+      "camp_dossiers": 1497,
+      "editorial_reviewed": 71,
+      "editorial_refresh_pending": 4,
+      "budget_offers": 209,
+      "worldwide_complete": false,
+      "fully_audited_countries": 0
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 196,
-    "latest_source_commit": "ea42c32b2de545ed733491c0a657f83e9d5bada7",
-    "published_version": 196,
-    "published_commit": "ea42c32b2de545ed733491c0a657f83e9d5bada7",
-    "latest_workflow": 42330634712,
+    "latest_source_version": 197,
+    "latest_source_commit": "239ab35a38653b133356ed452856288d777f8737",
+    "published_version": 197,
+    "published_commit": "239ab35a38653b133356ed452856288d777f8737",
+    "latest_workflow": 42336160705,
     "latest_workflow_conclusion": "success",
     "status": "latest-source-published-readback-verified"
   },
@@ -22155,5 +22378,149 @@
     "fully_audited_countries": 0,
     "all_original_18_requirements_retained": true,
     "no_messages_forms_enrollment_agreements_or_payments": true
+  },
+  "achieve_global_v198": {
+    "version": 198,
+    "checked": "2026-11-06",
+    "status": "partial-world-achieve-provider-and-route-audit",
+    "provider_list_snapshot_complete": true,
+    "provider_detailed_records": 355,
+    "provider_pre_release_records": 5,
+    "provider_records": 360,
+    "new_event_records": 360,
+    "new_competition_records": 355,
+    "new_learning_events": 5,
+    "new_programme_hubs": 1,
+    "new_programme_milestones": 2,
+    "new_competition_source_records": 352,
+    "excluded_adult_training_ids": [
+      35,
+      171,
+      173
+    ],
+    "student_workshop_ids": [
+      41,
+      42,
+      235,
+      506,
+      700
+    ],
+    "type_conflict_ids": [
+      912,
+      924
+    ],
+    "remote_provider_ids": [
+      50,
+      176,
+      181,
+      184,
+      254,
+      256,
+      610,
+      1004,
+      1052,
+      1053,
+      1066,
+      1093,
+      1094,
+      1095,
+      1101
+    ],
+    "confirmed_spoken_english_provider_ids": [
+      704,
+      705,
+      706,
+      707
+    ],
+    "military_restricted_ids": [
+      62,
+      146,
+      654,
+      700,
+      701
+    ],
+    "school_verification_ids": [
+      49,
+      272,
+      274,
+      275
+    ],
+    "school_organization_only_ids": [
+      143,
+      204,
+      205,
+      206,
+      207
+    ],
+    "registered_kansas_only_ids": [
+      526,
+      527,
+      658,
+      737,
+      917
+    ],
+    "official_signature_provider_ids": [
+      43,
+      310,
+      325,
+      459,
+      612,
+      644,
+      645,
+      663,
+      710,
+      877
+    ],
+    "conference_membership_ids": [
+      74,
+      349,
+      535,
+      536,
+      717,
+      718,
+      749,
+      854,
+      973,
+      974,
+      977,
+      978
+    ],
+    "indigenous_majority_source_id": 1010,
+    "family_indigenous_status_not_inferred": true,
+    "prior_event_updates": [
+      "C2231",
+      "C2232",
+      "C2095",
+      "L626",
+      "C030"
+    ],
+    "prior_registration_role_rechecks": [
+      "C2231",
+      "C2232",
+      "C2095",
+      "L626"
+    ],
+    "prior_event_dates_changed": [],
+    "new_league_profiles": 1,
+    "new_independent_organizations": 0,
+    "updated_profile_ids": [
+      "recf",
+      "recf-achieve"
+    ],
+    "new_camp_dossiers": 0,
+    "source_request_scope": "captured-native-GET-attempts-only",
+    "native_source_attempts": 400,
+    "successful_response_hashes_verified": 399,
+    "failed_capture_attempts": 1,
+    "unresolved_native_403_sources": 1,
+    "primary_reader_fallbacks": 1,
+    "unresolved_provider_detail_sources": 0,
+    "other_recf_programmes_complete": false,
+    "exact_event_rules_fully_audited": false,
+    "distinct_physical_events_proven": false,
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "all_original_18_requirements_retained": true,
+    "no_messages_enrollment_agreements_or_payments": true
   }
 }
