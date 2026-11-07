@@ -6286,7 +6286,9 @@
           "C3198",
           "E349",
           "C3302",
-          "C3355"
+          "C3355",
+          "C3368",
+          "C3372"
         ],
         "legacy_ids": [],
         "route": "equipo escolar → socio nacional → selección de equipo → FIRST Global.",
@@ -20942,6 +20944,148 @@
         "evidence": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado."
       },
       {
+        "id": "oecs-robotics-local",
+        "name": "OECS Super Regional Robotics",
+        "group": "regional",
+        "age_summary": "Categorías locales; corte exacto por separado.",
+        "age_tags": [],
+        "summary": "Índice oficial de plataforma describe edición pasada 16–20 de marzo 2026, Saint Kitts and Nevis, deadline 24 de enero y registro cerrado. Descarga HTML directa contiene carcasa de aplicación, no plantilla viva ni reglamento leído. Equipos escolares nacionales de región; días nuevos, edad mínima, solicitud familiar extranjera y equipo concreto sin establecer.",
+        "categories": [
+          {
+            "name": "OECS Super Regional Robotics Competition · next edition watch",
+            "age": "equipos escolares nacionales · edad precisa por anunciar",
+            "team": "Equipo; composición exacta según reglamento de categoría.",
+            "hardware": "Confirmar kit y reglamento técnico de categoría elegida.",
+            "age_rule": "Condicional / Condicional",
+            "entry": "Índice oficial de plataforma describe edición pasada 16–20 de marzo 2026, Saint Kitts and Nevis, deadline 24 de enero y registro cerrado. Descarga HTML directa contiene carcasa de aplicación, no plantilla viva ni reglamento leído. Equipos escolares nacionales de región; días nuevos, edad mínima, solicitud familiar extranjera y equipo concreto sin establecer."
+          }
+        ],
+        "event_ids": [
+          "C1770",
+          "C3373"
+        ],
+        "legacy_ids": [],
+        "route": "Confirmar con operador curso exacto, edad al corte, representación local, admisión extranjera, mentor, equipo, idioma operativo y plazas. Posibilidad por edad no significa admisión ni plaza nacional.",
+        "hardware": "Reglamento técnico de edición nueva sin leer; marca y kit completo sin establecer.",
+        "language": "Idioma de clases EN / ES / RU sin confirmar expresamente. Web inglesa / bilingüe no considerada prueba del idioma de enseñanza o evaluación.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Confirmar con operador curso exacto, edad al corte, representación local, admisión extranjera, mentor, equipo, idioma operativo y plazas. Posibilidad por edad no significa admisión ni plaza nacional."
+        ],
+        "nuances": [
+          "Proyecto lectivo y certificado de participación no equivalen a victoria competitiva. Plaza nacional y medalla internacional requieren selección y resultado por separado."
+        ],
+        "cost": "Tarifa nueva, plazas y factura completa sin establecer; precio desconocido no equivale a cero.",
+        "award": "Proyecto lectivo y certificado de participación no equivalen a victoria competitiva. Plaza nacional y medalla internacional requieren selección y resultado por separado.",
+        "sources": [
+          {
+            "title": "OECS Super Regional Robotics",
+            "url": "https://www.steamtournament.com/public-registration?tournament=126b27b2-cf70-443b-b54e-1233b10aaa9d",
+            "checked": "2026-11-05"
+          }
+        ],
+        "evidence": "Leídas páginas primarias locales; página dinámica OECS marcada aparte como captura del índice."
+      },
+      {
+        "id": "ntrc-icode784-svg",
+        "name": "iCode784 · NTRC Saint Vincent and the Grenadines",
+        "group": "regional",
+        "age_summary": "Secundaria en Robotics y Secondary. Para Open se publica límite máximo de 35 años.",
+        "age_tags": [
+          "teen"
+        ],
+        "summary": "Reglamento de NTRC y avisos actuales del organizador.",
+        "categories": [
+          {
+            "name": "Robotics",
+            "age": "Secundaria o ganadores de MyApp según el reglamento de la disciplina. El resumen general también menciona educación terciaria.",
+            "age_rule": "Secundaria o ganadores de MyApp según el reglamento de la disciplina. El resumen general también menciona educación terciaria.",
+            "team": "Equipo de 2 personas y mentor oficial. Robot LEGO del kit de NTRC. Inscripción hasta el 18 de septiembre de 2026.",
+            "hardware": "LEGO",
+            "entry": "Solicitudes cerradas. Para participar era necesario superar la selección preliminar."
+          },
+          {
+            "name": "Secondary Mobile App",
+            "age": "Estudiantes de secundaria. Integrantes del mismo centro escolar.",
+            "age_rule": "Estudiantes de secundaria. Integrantes del mismo centro escolar.",
+            "team": "Equipo de 2 escolares y mentor oficial. Prototipo funcional de una aplicación conforme al tema del concurso.",
+            "hardware": "Prototipo funcional de aplicación móvil o web.",
+            "entry": "Solicitudes cerradas. Para participar era necesario superar la selección preliminar."
+          },
+          {
+            "name": "Open",
+            "age": "Hasta 35 años. Edad mínima y admisión de primaria sin indicar.",
+            "age_rule": "Hasta 35 años. Edad mínima y admisión de primaria sin indicar.",
+            "team": "El reglamento Open exige equipo de 2 personas. El resumen admite solicitud individual. Confirmar qué regla rige. Mentor opcional.",
+            "hardware": "Prototipo funcional de aplicación.",
+            "entry": "Solicitudes cerradas. Para participar era necesario superar la selección preliminar."
+          }
+        ],
+        "event_ids": [
+          "C3361",
+          "C3362",
+          "C3363",
+          "C3364",
+          "C3365",
+          "C3366",
+          "C3367",
+          "E422"
+        ],
+        "legacy_ids": [],
+        "route": "Solicitudes cerradas. Para participar era necesario superar la selección preliminar.",
+        "hardware": "LEGO",
+        "language": "Confirmar el idioma del grupo o sede concretos.",
+        "importance": "Programa nacional",
+        "strengths": [
+          "Aplicación para resolver un problema o mejorar servicios en San Vicente y las Granadinas. Admisión de extranjeros sin confirmación aparte."
+        ],
+        "requirements": [
+          "Equipo de 2 personas y mentor oficial. Robot LEGO del kit de NTRC. Inscripción hasta el 18 de septiembre de 2026.",
+          "Equipo de 2 escolares y mentor oficial. Prototipo funcional de una aplicación conforme al tema del concurso.",
+          "El reglamento Open exige equipo de 2 personas. El resumen admite solicitud individual. Confirmar qué regla rige. Mentor opcional."
+        ],
+        "nuances": [
+          "El organizador confirmó 6 equipos escolares de la zona 1 y 4 de la zona 2. El reglamento contempla una vía MyApp separada. Confirmar el total de finalistas.",
+          "Ceremonia de premios prevista desde las 16:00 hora local. Acceso de público y transmisión sin confirmar."
+        ],
+        "cost": "Precio sin publicar.",
+        "award": "Primer lugar: 7 000 según la tabla del organizador con signo $. Trofeo al ganador de la categoría.",
+        "sources": [
+          {
+            "url": "https://www.ntrc.vc/general/ntrcs-i-code784-competition/",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://www.ntrc.vc/docs/icode784/Outline%20for%20the%20iCode784%20competition%202026%20revised%20Aug31.pdf",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://www.ntrc.vc/docs/icode784/iCode784%20Competition%202026%20Robotics%20Rules%20Revised%20July%2029.pdf",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://www.ntrc.vc/docs/icode784/iCode784%20Competition%202026%20Secondary%20Mobile%20App%20category%20Rules%20revised%20July%2014.pdf",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://www.ntrc.vc/docs/icode784/iCode784%20Competition%202026%20Open%20category%20Rules%20Revised%20July%2014.pdf",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://www.ntrc.vc/ten-teams-heading-to-the-finals-following-icode784-robotics-preliminaries/",
+            "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          }
+        ],
+        "evidence": "Reglamento de NTRC y avisos actuales del organizador."
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · programa de ingeniería y showcase",
         "group": "regional",
@@ -23402,49 +23546,6 @@
           {
             "title": "FIRST LEGO League · Belize",
             "url": "https://www.bhsbes.edu.bz/robotics",
-            "checked": "2026-11-05"
-          }
-        ],
-        "evidence": "Leídas páginas primarias locales; página dinámica OECS marcada aparte como captura del índice."
-      },
-      {
-        "id": "oecs-robotics-local",
-        "name": "OECS Super Regional Robotics",
-        "group": "regional",
-        "age_summary": "Categorías locales; corte exacto por separado.",
-        "age_tags": [],
-        "summary": "Índice oficial de plataforma describe edición pasada 16–20 de marzo 2026, Saint Kitts and Nevis, deadline 24 de enero y registro cerrado. Descarga HTML directa contiene carcasa de aplicación, no plantilla viva ni reglamento leído. Equipos escolares nacionales de región; días nuevos, edad mínima, solicitud familiar extranjera y equipo concreto sin establecer.",
-        "categories": [
-          {
-            "name": "OECS Super Regional Robotics Competition · next edition watch",
-            "age": "equipos escolares nacionales · edad precisa por anunciar",
-            "team": "Equipo; composición exacta según reglamento de categoría.",
-            "hardware": "Confirmar kit y reglamento técnico de categoría elegida.",
-            "age_rule": "Condicional / Condicional",
-            "entry": "Índice oficial de plataforma describe edición pasada 16–20 de marzo 2026, Saint Kitts and Nevis, deadline 24 de enero y registro cerrado. Descarga HTML directa contiene carcasa de aplicación, no plantilla viva ni reglamento leído. Equipos escolares nacionales de región; días nuevos, edad mínima, solicitud familiar extranjera y equipo concreto sin establecer."
-          }
-        ],
-        "event_ids": [
-          "C1770"
-        ],
-        "legacy_ids": [],
-        "route": "Confirmar con operador curso exacto, edad al corte, representación local, admisión extranjera, mentor, equipo, idioma operativo y plazas. Posibilidad por edad no significa admisión ni plaza nacional.",
-        "hardware": "Reglamento técnico de edición nueva sin leer; marca y kit completo sin establecer.",
-        "language": "Idioma de clases EN / ES / RU sin confirmar expresamente. Web inglesa / bilingüe no considerada prueba del idioma de enseñanza o evaluación.",
-        "importance": "",
-        "strengths": "",
-        "requirements": [
-          "Confirmar con operador curso exacto, edad al corte, representación local, admisión extranjera, mentor, equipo, idioma operativo y plazas. Posibilidad por edad no significa admisión ni plaza nacional."
-        ],
-        "nuances": [
-          "Proyecto lectivo y certificado de participación no equivalen a victoria competitiva. Plaza nacional y medalla internacional requieren selección y resultado por separado."
-        ],
-        "cost": "Tarifa nueva, plazas y factura completa sin establecer; precio desconocido no equivale a cero.",
-        "award": "Proyecto lectivo y certificado de participación no equivalen a victoria competitiva. Plaza nacional y medalla internacional requieren selección y resultado por separado.",
-        "sources": [
-          {
-            "title": "OECS Super Regional Robotics",
-            "url": "https://www.steamtournament.com/public-registration?tournament=126b27b2-cf70-443b-b54e-1233b10aaa9d",
             "checked": "2026-11-05"
           }
         ],
@@ -26239,7 +26340,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "277 perfiles de ligas, familias y programas. Se conservan los 46 itinerarios previos. Los formatos de Brasil están separados. Robofest LATAM y BajaBot se describen por sus categorías locales. La cobertura mundial es parcial.",
+    "methodology": "278 perfiles de ligas, familias y programas. Se conservan los 46 itinerarios previos. Los formatos de Brasil están separados. Robofest LATAM y BajaBot se describen por sus categorías locales. La cobertura mundial es parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

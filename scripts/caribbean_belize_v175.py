@@ -110,7 +110,11 @@ def update_report(report):
     report['countries']=[dict(country=c,count=n)for c,n in sorted(Counter(p['country']for p in report['profiles']).items())]
 
 def enrich_v175(d):
-    rows=make_events(d);ids={e['id']for e in rows};d['events']=[e for e in d['events']if e['id']not in ids]+rows
+    rows=make_events(d)
+    current_oecs=next((e for e in d['events'] if e['id']=='C1770' and e['checked']>CHECKED),None)
+    if current_oecs:
+        rows=[current_oecs if e['id']=='C1770' else e for e in rows]
+    ids={e['id']for e in rows};d['events']=[e for e in d['events']if e['id']not in ids]+rows
     p=next(e for e in d['events']if e['id']=='C018');p.update(cost=WORLD_COST,entry=WORLD_GATE,checked=CHECKED)
     new_note=T('Финал 8–10 декабря подтверждён новым сайтом хозяина. Для сопровождающих действует закрытая делегационная регистрация и полный тариф от 3 лет; возможность быть зрителем не даёт конкурсной квоты.', 'Final 8–10 de diciembre confirmada por sitio nuevo del anfitrión. Acompañantes requieren registro de delegación cerrada y tarifa completa desde 3 años; visita como público no da plaza competitiva.')
     p['note']=new_note;p['references']=list({r['url']:r for r in p.get('references',[])+[dict(label='WRO 2026 · host fees and admission',url=WORLD)]}.values())
@@ -128,6 +132,8 @@ def enrich_v175(d):
     link=dict(programme_id='CP1396',event_id='L206',relation='existing_programme')
     if link not in d['camp_programmes']['event_links']:d['camp_programmes']['event_links'].append(link)
     for ident,prefix,ev_ids,url in [('wro-caribbean-local','WRO · Puerto Rico / Jamaica / USVI',['C1763','C1764','C1765','C1766','C1767'],WRO),('beta-bahamas-hack','BETA Hack · Bahamas',['C1768'],BETA+'beta-hack/'),('fll-belize-local','FIRST LEGO League · Belize',['C1769'],BHS),('oecs-robotics-local','OECS Super Regional Robotics',['C1770'],OECS)]:
+        if ident=='oecs-robotics-local' and current_oecs:
+            continue
         ev=[e for e in rows if e['id']in ev_ids];summary=' '.join(e['note']for e in ev)
         guide=programme(ident,prefix,'regional',T('Местные категории; точный cutoff отдельно.', 'Categorías locales; corte exacto por separado.'),['6','9','10-12','teen'],ev_ids,summary=summary,route=GATE,hardware=T('Техника зависит от местной дисциплины; старую LEGO-only страницу не считать действующим общим правилом WRO.', 'Equipo según disciplina local; página antigua LEGO-only no considerada regla general WRO vigente.'),language=LANG,cost=UNKNOWN,award=AWARD,requirements=[GATE],nuances=[AWARD],sources=[source(prefix,url)],categories=[dict(name=e['title'],age=e['age'],team=e['format'],hardware=e['gear'],age_rule=e['mat']+' / '+e['osc'],entry=e['note'])for e in ev],evidence=T('Прочитаны местные первичные страницы; динамическая OECS-страница отдельно помечена как индексный снимок.', 'Leídas páginas primarias locales; página dinámica OECS marcada aparte como captura del índice.'))
         guide['hardware']={

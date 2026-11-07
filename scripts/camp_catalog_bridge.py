@@ -55,6 +55,20 @@ REUSE_DATES.update({'helvetic-zug-summer':['L221','L222','L223'],
 RELATED.update({'grove-flight':['L143'], 'asij-chofu':['L454']})
 REUSE_DATES['grove-flight']=['L143']
 RELATED.update({'newtech-autumn-art':['L132'], 'newtech-christmas-film':['L133'], 'newtech-christmas-art':['L134']})
+RELATED.update({
+    'ntrc-myapp-union-island': ['L660'],
+    'ntrc-myapp-mountain-view': ['L661'],
+    'ntrc-myapp-st-vincent-grammar': ['L662'],
+    'anguilla-robotics-association-summer': ['L663'],
+    'orbtronics-junior-saint-lucia': ['L664'],
+    'orbtronics-innovation-academy': ['L665'],
+    'orbtronics-eccu-ai-python-summer': ['L666'],
+    'dominica-cardtp-cybercreators': ['L667'],
+    'dominica-state-college-summer': ['L668'],
+    'grenada-steam-center-bridge': ['L669'],
+    'wepala-robotics-summer-trinidad': ['L671'],
+    'wepala-python-holidays-online': ['L672'],
+})
 REUSE_DATES.update({'newtech-autumn-art':['L132'], 'newtech-christmas-film':['L133'], 'newtech-christmas-art':['L134']})
 GENERAL_STAYS.add('landheim-general-2027')
 GENERAL_STAYS.add('frilingue-braunwald-language')

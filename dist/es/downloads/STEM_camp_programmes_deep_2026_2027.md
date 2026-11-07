@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base al 2026-11-07. 1827 fichas en 107 países. Cada ficha indica las fechas de verificación de las fuentes.
+Estado de la base al 2026-11-07. 1842 fichas en 112 países. Cada ficha indica las fechas de verificación de las fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -144409,6 +144409,684 @@ Trinidad y Tobago · Barataria Community Centre · Barataria
 ### Fuentes
 
 - [Página oficial del organizador](https://www.niherst.gov.tt/scipop/teachme-stem-enrichment-camps.html) · 2026-11-07
+
+## CP1828 · NTRC myApp Summer Program · Union Island Secondary School
+
+San Vicente y las Granadinas · Union Island Secondary School
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 13–18 años en la edición de 2026. Se admiten principiantes.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Programación y desarrollo de aplicaciones. Los mejores egresados pueden acceder a Robotics iCode784.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** Última sesión del 13 al 24 de julio de 2026. Nuevas fechas sin anunciar.
+
+**Precio / año:** sin establecer · Tarifa de la convocatoria actual sin confirmar.
+
+**Incluido:** Programación y desarrollo de aplicaciones. Los mejores egresados pueden acceder a Robotics iCode784.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Etapa para más adelante.
+
+**Oscar:** Etapa para más adelante.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad exacta de acceso y plaza con el recinto.
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.ntrc.vc/myapp/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.ntrc.vc/67-young-coders-complete-ntrcs-2026-myapp-summer-program/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.ntrc.vc/docs/icode784/iCode784%20Competition%202026%20Robotics%20Rules%20Revised%20July%2029.pdf) · 2026-11-07
+
+## CP1829 · NTRC myApp Summer Program · Mountain View Adventist Academy
+
+San Vicente y las Granadinas · Mountain View Adventist Academy
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 13–18 años en la edición de 2026. Se admiten principiantes.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Programación y desarrollo de aplicaciones. Los mejores egresados pueden acceder a Robotics iCode784.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** Última sesión del 27 de julio al 7 de agosto de 2026. Nuevas fechas sin anunciar.
+
+**Precio / año:** sin establecer · Tarifa de la convocatoria actual sin confirmar.
+
+**Incluido:** Programación y desarrollo de aplicaciones. Los mejores egresados pueden acceder a Robotics iCode784.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Etapa para más adelante.
+
+**Oscar:** Etapa para más adelante.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad exacta de acceso y plaza con el recinto.
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.ntrc.vc/myapp/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.ntrc.vc/67-young-coders-complete-ntrcs-2026-myapp-summer-program/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.ntrc.vc/docs/icode784/iCode784%20Competition%202026%20Robotics%20Rules%20Revised%20July%2029.pdf) · 2026-11-07
+
+## CP1830 · NTRC myApp Summer Program · St. Vincent Grammar School
+
+San Vicente y las Granadinas · St. Vincent Grammar School
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 13–18 años en la edición de 2026. Se admiten principiantes.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Programación y desarrollo de aplicaciones. Los mejores egresados pueden acceder a Robotics iCode784.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** Última sesión del 3 al 14 de agosto de 2026. Nuevas fechas sin anunciar.
+
+**Precio / año:** sin establecer · Tarifa de la convocatoria actual sin confirmar.
+
+**Incluido:** Programación y desarrollo de aplicaciones. Los mejores egresados pueden acceder a Robotics iCode784.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Etapa para más adelante.
+
+**Oscar:** Etapa para más adelante.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad exacta de acceso y plaza con el recinto.
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.ntrc.vc/myapp/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.ntrc.vc/67-young-coders-complete-ntrcs-2026-myapp-summer-program/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.ntrc.vc/docs/icode784/iCode784%20Competition%202026%20Robotics%20Rules%20Revised%20July%2029.pdf) · 2026-11-07
+
+## CP1831 · Anguilla Robotics Association · Summer Robotics Camp
+
+Anguila · Anguilla
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 5–18 años según el programa de 2026.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Programa de dos semanas de robótica, programación e IA con proyectos prácticos.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** Fechas de la próxima convocatoria sin publicar.
+
+**Precio / año:** sin establecer · Tarifa de la convocatoria actual sin confirmar.
+
+**Incluido:** Programa de dos semanas de robótica, programación e IA con proyectos prácticos.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Condicional. La edad encajaba en 2026. Confirmar próxima convocatoria, formato e idioma de las actividades.
+
+**Oscar:** Condicional. La edad encajaba en 2026. Confirmar próxima convocatoria, formato e idioma de las actividades.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad exacta de acceso y plaza con el recinto.
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.linkedin.com/posts/axarobotics_anguillaroboticsassociation-stemeducation-activity-7439035988582166528-39aT) · 2026-11-07
+
+## CP1832 · Orbtronics Junior Program
+
+Santa Lucía · Gros Islet · Saint Lucia
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Confirmar la edad en las reglas de la sesión concreta.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** El organizador describe una introducción práctica a STEM para niños. La página indica Coming Soon.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** Fechas de la próxima convocatoria sin publicar.
+
+**Precio / año:** sin establecer · Tarifa de la convocatoria actual sin confirmar.
+
+**Incluido:** El organizador describe una introducción práctica a STEM para niños. La página indica Coming Soon.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Confirmar la edad en las reglas de la sesión concreta.
+
+**Oscar:** Confirmar la edad en las reglas de la sesión concreta.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad exacta de acceso y plaza con el recinto.
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.orbtronics.co/education) · 2026-11-07
+
+## CP1833 · Orbtronics Innovation Academy
+
+Santa Lucía · Gros Islet · Saint Lucia
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Público principal desde 16 años. El organizador también admite interés desde 13 años.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Actividades de fin de semana. Robótica, CAD, Python, navegación autónoma y proyecto final. Hay mentoría y apoyo para la admisión universitaria.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** El piloto empezó en marzo de 2026. Programa continuo. Confirmar días del grupo.
+
+**Precio / año:** 2026 · 150 USD al mes según la página actual.
+
+**Incluido:** Actividades de fin de semana. Robótica, CAD, Python, navegación autónoma y proyecto final. Hay mentoría y apoyo para la admisión universitaria.
+
+**Suplementos:** Confirmar condiciones de suscripción y suplementos por competiciones.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Etapa para más adelante.
+
+**Oscar:** Etapa para más adelante.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad exacta de acceso y plaza con el recinto.
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.orbtronics.co/innovation-academy) · 2026-11-07
+
+## CP1834 · Orbtronics · ECCU Generative AI and Python Summer Camp
+
+Santa Lucía · Saint Lucia
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Escolares de 14–18 años según el programa de 2026.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Campamento de verano por proyectos de Python, IA generativa, multimedia y pensamiento de diseño.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** Fechas de la próxima convocatoria sin publicar.
+
+**Precio / año:** sin establecer · Tarifa de la convocatoria actual sin confirmar.
+
+**Incluido:** Campamento de verano por proyectos de Python, IA generativa, multimedia y pensamiento de diseño.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Etapa para más adelante.
+
+**Oscar:** Etapa para más adelante.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad exacta de acceso y plaza con el recinto.
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.linkedin.com/posts/orbtronicsltd_orbtronics-stemeducation-caribbeanstem-activity-7499184783999283200-Awi0) · 2026-11-07
+
+- [Página oficial del organizador](https://orbtronics.co/insights/saint-lucia-summer-of-stem-with-orbtronics) · 2026-11-07
+
+## CP1835 · CARDTP CyberCreators Summer Tech Bootcamp
+
+Dominica · Dominica
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 4–17 años en la convocatoria de 2025. Participaron menores de escuelas locales de primaria y secundaria.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Scratch y creación de juegos, programación de aplicaciones por bloques, fundamentos de Python y JavaScript. Confirmar grupos de edades con el organizador.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** Consta una edición desde el 21 de julio de 2025. Próximas fechas sin anunciar.
+
+**Precio / año:** sin establecer · Tarifa de la convocatoria actual sin confirmar.
+
+**Incluido:** Scratch y creación de juegos, programación de aplicaciones por bloques, fundamentos de Python y JavaScript. Confirmar grupos de edades con el organizador.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Condicional. La edad encajaba en 2025. Confirmar próxima convocatoria, acceso de visitantes e idioma.
+
+**Oscar:** Condicional. La edad encajaba en 2025. Confirmar próxima convocatoria, acceso de visitantes e idioma.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad exacta de acceso y plaza con el recinto.
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.cardtp.gov.dm/media-press/notices/53-cardtp-conducts-cybercreators-summer-tech-bootcamp) · 2026-11-07
+
+## CP1836 · Dominica State College · Summer Camp
+
+Dominica · Stockfarm · Roseau
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Confirmar la edad en las reglas de la sesión concreta.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Campamento diurno general con alfabetización digital, ciencias y exposición final de proyectos para las familias.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** El colegio publicó el formato. Fechas, edad exacta y tarifa base sin indicar.
+
+**Precio / año:** sin establecer · Tarifa de la convocatoria actual sin confirmar.
+
+**Incluido:** Campamento diurno general con alfabetización digital, ciencias y exposición final de proyectos para las familias.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Confirmar la edad en las reglas de la sesión concreta.
+
+**Oscar:** Confirmar la edad en las reglas de la sesión concreta.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad exacta de acceso y plaza con el recinto.
+
+### Fuentes
+
+- [Página oficial del organizador](https://dsc.edu.dm/summer-camp/) · 2026-11-07
+
+## CP1837 · Global Center for STEAM · Engineering–Robotics Bridge Challenge
+
+Granada · Grenada
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Forms 3–5 según la descripción de 2026.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Diseño y prueba de un puente, y programación de Sphero para atravesarlo.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** Fechas de la próxima convocatoria sin publicar.
+
+**Precio / año:** sin establecer · Tarifa de la convocatoria actual sin confirmar.
+
+**Incluido:** Diseño y prueba de un puente, y programación de Sphero para atravesarlo.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Etapa para más adelante.
+
+**Oscar:** Etapa para más adelante.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad exacta de acceso y plaza con el recinto.
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.theglobalsteamcentereducation.org/) · 2026-11-07
+
+## CP1838 · Wepala Innovation Centre · Summer Robotics Camp
+
+Trinidad y Tobago · Wepala Innovation Centre · Tunapuna
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 7–16 años en las sesiones ordinarias de 2026. Sesión sénior separada desde 13 años.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Robótica con construcción, programación y retos de ingeniería.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** Fechas de la próxima convocatoria sin publicar.
+
+**Precio / año:** 2026 · 500 por menor en las sesiones de 2026. La página usa $ sin código de moneda. Confirmar tarifa de la próxima edición.
+
+**Incluido:** Robótica con construcción, programación y retos de ingeniería.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Condicional. La edad encajaba en 2026. Confirmar próxima convocatoria, formato e idioma de las actividades.
+
+**Oscar:** Por ahora no alcanza la edad mínima.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad exacta de acceso y plaza con el recinto.
+
+### Fuentes
+
+- [Página oficial del organizador](https://innovate.wepala.com/schedule/) · 2026-11-07
+
+- [Página oficial del organizador](https://innovate.wepala.com/event-details/11/summer-robotics-camp-aug-17/) · 2026-11-07
+
+## CP1839 · Wepala Innovation Centre · Online Python Coding Camp
+
+Trinidad y Tobago · Online · Trinidad and Tobago
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 8–16 años en la convocatoria anterior.
+
+**Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+
+**Programa:** Introducción remota a Python. Se requiere ordenador y Zoom. No se exigía experiencia previa.
+
+**Alojamiento:** En línea desde casa.
+
+**Fechas / estado:** Fechas de la próxima convocatoria sin publicar.
+
+**Precio / año:** 2026 · 300 en la edición publicada de 2026. La moneda figura con el signo $. Tarifa de la próxima convocatoria desconocida.
+
+**Incluido:** Introducción remota a Python. Se requiere ordenador y Zoom. No se exigía experiencia previa.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Condicional. La edad encajaba en 2026. Confirmar próxima convocatoria, formato e idioma de las actividades.
+
+**Oscar:** Por ahora no alcanza la edad mínima.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad exacta de acceso y plaza con el recinto.
+
+### Fuentes
+
+- [Página oficial del organizador](https://innovate.wepala.com/event-details/4/easter-camp-python/) · 2026-11-07
+
+- [Página oficial del organizador](https://innovate.wepala.com/schedule/) · 2026-11-07
+
+## CP1840 · Blueinno Christmas · Junior Robot Builder
+
+RAE de Hong Kong (China) · Room 906, Summit Insurance Building · 789 Nathan Road · Prince Edward · Kowloon
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 6–8 años. Nivel inicial.
+
+**Idioma:** Inglés como idioma de enseñanza según la ficha del curso.
+
+**Programa:** Electrónica, Blockly, sensores y montaje de robot. La ficha indica kit, robot propio y certificado de asistencia.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** Horario del grupo concreto según la ficha del curso. Hora local.
+
+**Precio / año:** 2026 · 3 500 HKD por curso y menor.
+
+**Incluido:** Electrónica, Blockly, sensores y montaje de robot. La ficha indica kit, robot propio y certificado de asistencia.
+
+**Suplementos:** Se requiere portátil con cargador. Confirmar condiciones de pago y devolución.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Supera la edad máxima del grupo.
+
+**Oscar:** Edad adecuada según la ficha del curso. Confirmar disponibilidad de plaza.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad exacta de acceso y plaza con el recinto.
+
+### Blueinno Christmas · Junior Robot Builder
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**Precio:** 3 500 HKD por curso y menor.
+
+- 2026-12-21 · 09:00–11:00 · Asia/Hong_Kong · Electrónica, Blockly, sensores y montaje de robot. La ficha indica kit, robot propio y certificado de asistencia.
+
+- 2026-12-22 · 09:00–11:00 · Asia/Hong_Kong · Electrónica, Blockly, sensores y montaje de robot. La ficha indica kit, robot propio y certificado de asistencia.
+
+- 2026-12-23 · 09:00–11:00 · Asia/Hong_Kong · Electrónica, Blockly, sensores y montaje de robot. La ficha indica kit, robot propio y certificado de asistencia.
+
+- 2026-12-24 · 09:00–11:00 · Asia/Hong_Kong · Electrónica, Blockly, sensores y montaje de robot. La ficha indica kit, robot propio y certificado de asistencia.
+
+**Disponibilidad de plazas:** Hay formulario de inscripción. Confirmar disponibilidad en el grupo elegido.
+
+[fuente](https://blueinnotechnology.com/introduction-stem/)
+
+### Fuentes
+
+- [Página oficial del organizador](https://blueinnotechnology.com/introduction-stem/) · 2026-11-07
+
+- [Página oficial del organizador](https://blueinnotechnology.com/christmas-stem-and-coding-camp/) · 2026-11-07
+
+- [Página oficial del organizador](https://blueinnotechnology.com/blueinno-intensive-holiday-camps-registration-form/) · 2026-11-07
+
+- [Página oficial del organizador](https://blueinnotechnology.com/contact-us/) · 2026-11-07
+
+## CP1841 · Blueinno Christmas · AI Innovation
+
+RAE de Hong Kong (China) · Room 906, Summit Insurance Building · 789 Nathan Road · Prince Edward · Kowloon
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 9–11 años. Nivel inicial.
+
+**Idioma:** Inglés como idioma de enseñanza según la ficha del curso.
+
+**Programa:** IA generativa, comprobación de respuestas, Google Gemini, Canva AI y presentación de la idea del proyecto.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** Horario del grupo concreto según la ficha del curso. Hora local.
+
+**Precio / año:** 2026 · 3 500 HKD por curso y menor.
+
+**Incluido:** IA generativa, comprobación de respuestas, Google Gemini, Canva AI y presentación de la idea del proyecto.
+
+**Suplementos:** Se requiere portátil con cargador. Confirmar condiciones de pago y devolución.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Edad adecuada según la ficha del curso. Confirmar disponibilidad de plaza.
+
+**Oscar:** Por ahora no alcanza la edad mínima.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad exacta de acceso y plaza con el recinto.
+
+### Blueinno Christmas · AI Innovation
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**Precio:** 3 500 HKD por curso y menor.
+
+- 2026-12-21 · 11:15–13:15 · Asia/Hong_Kong · IA generativa, comprobación de respuestas, Google Gemini, Canva AI y presentación de la idea del proyecto.
+
+- 2026-12-22 · 11:15–13:15 · Asia/Hong_Kong · IA generativa, comprobación de respuestas, Google Gemini, Canva AI y presentación de la idea del proyecto.
+
+- 2026-12-23 · 11:15–13:15 · Asia/Hong_Kong · IA generativa, comprobación de respuestas, Google Gemini, Canva AI y presentación de la idea del proyecto.
+
+- 2026-12-24 · 11:15–13:15 · Asia/Hong_Kong · IA generativa, comprobación de respuestas, Google Gemini, Canva AI y presentación de la idea del proyecto.
+
+**Disponibilidad de plazas:** Hay formulario de inscripción. Confirmar disponibilidad en el grupo elegido.
+
+[fuente](https://blueinnotechnology.com/future-tech/)
+
+### Blueinno Christmas · AI Innovation
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**Precio:** 3 500 HKD por curso y menor.
+
+- 2026-12-28 · 14:30–16:30 · Asia/Hong_Kong · IA generativa, comprobación de respuestas, Google Gemini, Canva AI y presentación de la idea del proyecto.
+
+- 2026-12-29 · 14:30–16:30 · Asia/Hong_Kong · IA generativa, comprobación de respuestas, Google Gemini, Canva AI y presentación de la idea del proyecto.
+
+- 2026-12-30 · 14:30–16:30 · Asia/Hong_Kong · IA generativa, comprobación de respuestas, Google Gemini, Canva AI y presentación de la idea del proyecto.
+
+- 2026-12-31 · 14:30–16:30 · Asia/Hong_Kong · IA generativa, comprobación de respuestas, Google Gemini, Canva AI y presentación de la idea del proyecto.
+
+**Disponibilidad de plazas:** Hay formulario de inscripción. Confirmar disponibilidad en el grupo elegido.
+
+[fuente](https://blueinnotechnology.com/future-tech/)
+
+### Fuentes
+
+- [Página oficial del organizador](https://blueinnotechnology.com/future-tech/) · 2026-11-07
+
+- [Página oficial del organizador](https://blueinnotechnology.com/christmas-stem-and-coding-camp/) · 2026-11-07
+
+- [Página oficial del organizador](https://blueinnotechnology.com/blueinno-intensive-holiday-camps-registration-form/) · 2026-11-07
+
+- [Página oficial del organizador](https://blueinnotechnology.com/contact-us/) · 2026-11-07
+
+## CP1842 · Blueinno Christmas · 3D Inventions
+
+RAE de Hong Kong (China) · Room 906, Summit Insurance Building · 789 Nathan Road · Prince Edward · Kowloon
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 9–11 años en la página del campamento, 10–13 años en la ficha del curso.
+
+**Idioma:** Inglés como idioma de enseñanza según la ficha del curso.
+
+**Programa:** Diseño de prototipos en Tinkercad y práctica de impresión 3D.
+
+**Alojamiento:** Campamento diurno sin alojamiento.
+
+**Fechas / estado:** Horario del grupo concreto según la ficha del curso. Hora local.
+
+**Precio / año:** 2026 · 3 500 HKD por curso y menor.
+
+**Incluido:** Diseño de prototipos en Tinkercad y práctica de impresión 3D.
+
+**Suplementos:** Se requiere portátil con cargador. Confirmar condiciones de pago y devolución.
+
+**Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
+
+**Matvey:** Condicional. En la página del campamento 9–11 años. En la ficha del curso 10–13 años. Confirmar admisión con 9 años.
+
+**Oscar:** Por ahora no alcanza la edad mínima.
+
+**Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad exacta de acceso y plaza con el recinto.
+
+### Blueinno Christmas · 3D Inventions
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**Precio:** 3 500 HKD por curso y menor.
+
+- 2026-12-28 · 11:15–13:15 · Asia/Hong_Kong · Diseño de prototipos en Tinkercad y práctica de impresión 3D.
+
+- 2026-12-29 · 11:15–13:15 · Asia/Hong_Kong · Diseño de prototipos en Tinkercad y práctica de impresión 3D.
+
+- 2026-12-30 · 11:15–13:15 · Asia/Hong_Kong · Diseño de prototipos en Tinkercad y práctica de impresión 3D.
+
+- 2026-12-31 · 11:15–13:15 · Asia/Hong_Kong · Diseño de prototipos en Tinkercad y práctica de impresión 3D.
+
+**Disponibilidad de plazas:** Hay formulario de inscripción. Confirmar disponibilidad en el grupo elegido.
+
+[fuente](https://blueinnotechnology.com/3d-inventions/)
+
+### Fuentes
+
+- [Página oficial del organizador](https://blueinnotechnology.com/3d-inventions/) · 2026-11-07
+
+- [Página oficial del organizador](https://blueinnotechnology.com/christmas-stem-and-coding-camp/) · 2026-11-07
+
+- [Página oficial del organizador](https://blueinnotechnology.com/blueinno-intensive-holiday-camps-registration-form/) · 2026-11-07
+
+- [Página oficial del organizador](https://blueinnotechnology.com/contact-us/) · 2026-11-07
 
 ## ~ Comprobaciones no cerradas
 

@@ -16,14 +16,14 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 8302,
-    "competition_cards": 3359,
-    "event_cards": 421,
-    "camp_cards": 4522,
-    "league_profiles": 277,
-    "major_exhibition_cards": 331,
+    "cards": 8340,
+    "competition_cards": 3372,
+    "event_cards": 428,
+    "camp_cards": 4540,
+    "league_profiles": 278,
+    "major_exhibition_cards": 338,
     "vex_cards": 521,
-    "countries_with_records": 164,
+    "countries_with_records": 171,
     "fully_audited_countries": 0
   },
   "continents": [
@@ -34,12 +34,12 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 2731,
-      "countries_with_records": 26,
-      "competitions": 1476,
-      "events": 104,
-      "major_exhibitions": 67,
-      "camps": 1151,
+      "total": 2765,
+      "countries_with_records": 33,
+      "competitions": 1489,
+      "events": 111,
+      "major_exhibitions": 74,
+      "camps": 1165,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
     },
@@ -90,12 +90,12 @@
       "regions": [
         "Азия"
       ],
-      "total": 2484,
+      "total": 2488,
       "countries_with_records": 44,
       "competitions": 826,
       "events": 108,
       "major_exhibitions": 96,
-      "camps": 1550,
+      "camps": 1554,
       "status": "Частично исследовано",
       "remaining": "Добавлены India camp candidates и первые Pakistan / Bangladesh / Sri Lanka маршруты. Не все national qualifiers, языки и иностранный приём закрыты; другие страны Азии исследованы частично."
     },
@@ -2725,11 +2725,13 @@
         "C884",
         "C3198",
         "C3302",
-        "C3355"
+        "C3355",
+        "C3368",
+        "C3372"
       ],
-      "cards": 6,
+      "cards": 8,
       "future_dated": 1,
-      "linked_card_count": 7,
+      "linked_card_count": 9,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://first.global/fgc/",
       "new": false
@@ -6306,6 +6308,41 @@
       "new": false
     },
     {
+      "id": "oecs-robotics-local",
+      "name": "OECS Super Regional Robotics",
+      "group": "regional",
+      "event_ids": [
+        "C3373",
+        "C1770"
+      ],
+      "cards": 2,
+      "future_dated": 0,
+      "linked_card_count": 2,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.steamtournament.com/public-registration?tournament=126b27b2-cf70-443b-b54e-1233b10aaa9d",
+      "new": false
+    },
+    {
+      "id": "ntrc-icode784-svg",
+      "name": "iCode784 · NTRC Saint Vincent and the Grenadines",
+      "group": "regional",
+      "event_ids": [
+        "C3361",
+        "C3362",
+        "C3363",
+        "C3364",
+        "C3365",
+        "C3366",
+        "C3367"
+      ],
+      "cards": 7,
+      "future_dated": 7,
+      "linked_card_count": 8,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.ntrc.vc/general/ntrcs-i-code784-competition/",
+      "new": false
+    },
+    {
       "id": "tech-challenge-project",
       "name": "The Tech Challenge · инженерная программа и showcase",
       "group": "regional",
@@ -6941,20 +6978,6 @@
       "linked_card_count": 1,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.bhsbes.edu.bz/robotics",
-      "new": false
-    },
-    {
-      "id": "oecs-robotics-local",
-      "name": "OECS Super Regional Robotics",
-      "group": "regional",
-      "event_ids": [
-        "C1770"
-      ],
-      "cards": 1,
-      "future_dated": 0,
-      "linked_card_count": 1,
-      "status": "Есть профиль и карточки; местный охват частичный",
-      "source": "https://www.steamtournament.com/public-registration?tournament=126b27b2-cf70-443b-b54e-1233b10aaa9d",
       "new": false
     },
     {
@@ -10949,6 +10972,83 @@
       "new": false
     },
     {
+      "id": "E422",
+      "name": "iCode784 2026 · Prize Giving Ceremony",
+      "country": "Сент-Винсент и Гренадины",
+      "region": "Карибский регион",
+      "start": "2027-01-19",
+      "end": "2027-01-19",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.ntrc.vc/docs/icode784/Outline%20for%20the%20iCode784%20competition%202026%20revised%20Aug31.pdf",
+      "new": false
+    },
+    {
+      "id": "E423",
+      "name": "Orbtronics · Robotics Open Day",
+      "country": "Сент-Люсия",
+      "region": "Карибский регион",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://luma.com/80gdbxjs",
+      "new": false
+    },
+    {
+      "id": "E424",
+      "name": "Grenada National Science Fair · next edition",
+      "country": "Гренада",
+      "region": "Карибский регион",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://climateresilience.gov.gd/young-minds-big-ideas-students-lead-the-way-in-climate-resilient-innovation/",
+      "new": false
+    },
+    {
+      "id": "E425",
+      "name": "St. Maarten Science Week 2027",
+      "country": "Синт-Мартен (нидерландская часть)",
+      "region": "Карибский регион",
+      "start": "2027-03-08",
+      "end": "2027-03-13",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.smn-news.com/index.php/st-maarten-st-martin-news/52190-st-maarten-science-fair-foundation-announces-interest-from-10-schools-for-2027-honors-2026-sponsors.html",
+      "new": false
+    },
+    {
+      "id": "E426",
+      "name": "St. Maarten Science Week 2027 · Awards",
+      "country": "Синт-Мартен (нидерландская часть)",
+      "region": "Карибский регион",
+      "start": "2027-03-20",
+      "end": "2027-03-20",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.smn-news.com/index.php/st-maarten-st-martin-news/52190-st-maarten-science-fair-foundation-announces-interest-from-10-schools-for-2027-honors-2026-sponsors.html",
+      "new": false
+    },
+    {
+      "id": "E427",
+      "name": "Informática Habana 2026 · Feria Expositiva",
+      "country": "Куба",
+      "region": "Карибский регион",
+      "start": "2026-03-24",
+      "end": "2026-03-27",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.informaticahabana.cu/",
+      "new": false
+    },
+    {
+      "id": "E428",
+      "name": "Informática Habana · próxima feria",
+      "country": "Куба",
+      "region": "Карибский регион",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.informaticahabana.cu/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -13366,20 +13466,20 @@
       }
     ],
     "counts": {
-      "records": 4522,
-      "holiday": 4242,
-      "regular": 123,
+      "records": 4540,
+      "holiday": 4256,
+      "regular": 127,
       "self_paced_materials": 2,
       "boarding": 1036,
-      "en_es_instruction": 1424,
+      "en_es_instruction": 1428,
       "en_es_support": 12,
-      "family_instruction": 1424,
+      "family_instruction": 1428,
       "family_support": 12,
       "ru_instruction": 4,
       "language_lessons": 410,
       "camp_life_language": 228,
       "language_unclassified": 137,
-      "countries": 104
+      "countries": 111
     },
     "validation": {
       "version": 51,

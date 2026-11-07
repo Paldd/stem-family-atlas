@@ -580,20 +580,20 @@
       }
     ],
     "counts": {
-      "records": 4522,
-      "holiday": 4242,
-      "regular": 123,
+      "records": 4540,
+      "holiday": 4256,
+      "regular": 127,
       "self_paced_materials": 2,
       "boarding": 1036,
-      "en_es_instruction": 1424,
+      "en_es_instruction": 1428,
       "en_es_support": 12,
-      "family_instruction": 1424,
+      "family_instruction": 1428,
       "family_support": 12,
       "ru_instruction": 4,
       "language_lessons": 410,
       "camp_life_language": 228,
       "language_unclassified": 137,
-      "countries": 104
+      "countries": 111
     },
     "validation": {
       "version": 51,
@@ -33499,6 +33499,756 @@
         "E417",
         "C3354",
         "E418"
+      ]
+    },
+    {
+      "id": "L660",
+      "block": "Campamentos",
+      "title": "NTRC myApp Summer Program · Union Island Secondary School",
+      "country": "San Vicente y las Granadinas",
+      "region": "Caribe",
+      "iso": [
+        "VCT"
+      ],
+      "city": "Union Island Secondary School",
+      "start": "",
+      "end": "",
+      "deadline": "",
+      "period": "Última sesión del 13 al 24 de julio de 2026. Nuevas fechas sin anunciar.",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://www.ntrc.vc/myapp/",
+      "references": [
+        {
+          "url": "https://www.ntrc.vc/67-young-coders-complete-ntrcs-2026-myapp-summer-program/",
+          "label": "Reglas y condiciones de admisión"
+        },
+        {
+          "url": "https://www.ntrc.vc/docs/icode784/iCode784%20Competition%202026%20Robotics%20Rules%20Revised%20July%2029.pdf",
+          "label": "Reglas y condiciones de admisión"
+        }
+      ],
+      "age": "13–18 años en la edición de 2026. Se admiten principiantes.",
+      "mat": "Etapa para más adelante.",
+      "osc": "Etapa para más adelante.",
+      "format": "Campamento diurno sin alojamiento.",
+      "entry": "Confirmar edad, horario, idioma y acceso de visitantes para el grupo concreto.",
+      "gear": "",
+      "language": "El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Tarifa de la convocatoria actual sin confirmar.",
+      "level": "Etapa regional",
+      "reward": "",
+      "priority": "P4  futuros niveles superiores / admisión menor no confirmado",
+      "action": "Confirmar idioma de las actividades, acceso de visitantes y disponibilidad.",
+      "note": "Programación y desarrollo de aplicaciones. Los mejores egresados pueden acceder a Robotics iCode784.",
+      "themes": [
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Etapa regional",
+      "participation": "day_camp",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "related_ids": [
+        "C3361"
+      ]
+    },
+    {
+      "id": "L661",
+      "block": "Campamentos",
+      "title": "NTRC myApp Summer Program · Mountain View Adventist Academy",
+      "country": "San Vicente y las Granadinas",
+      "region": "Caribe",
+      "iso": [
+        "VCT"
+      ],
+      "city": "Mountain View Adventist Academy",
+      "start": "",
+      "end": "",
+      "deadline": "",
+      "period": "Última sesión del 27 de julio al 7 de agosto de 2026. Nuevas fechas sin anunciar.",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://www.ntrc.vc/myapp/",
+      "references": [
+        {
+          "url": "https://www.ntrc.vc/67-young-coders-complete-ntrcs-2026-myapp-summer-program/",
+          "label": "Reglas y condiciones de admisión"
+        },
+        {
+          "url": "https://www.ntrc.vc/docs/icode784/iCode784%20Competition%202026%20Robotics%20Rules%20Revised%20July%2029.pdf",
+          "label": "Reglas y condiciones de admisión"
+        }
+      ],
+      "age": "13–18 años en la edición de 2026. Se admiten principiantes.",
+      "mat": "Etapa para más adelante.",
+      "osc": "Etapa para más adelante.",
+      "format": "Campamento diurno sin alojamiento.",
+      "entry": "Confirmar edad, horario, idioma y acceso de visitantes para el grupo concreto.",
+      "gear": "",
+      "language": "El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Tarifa de la convocatoria actual sin confirmar.",
+      "level": "Etapa regional",
+      "reward": "",
+      "priority": "P4  futuros niveles superiores / admisión menor no confirmado",
+      "action": "Confirmar idioma de las actividades, acceso de visitantes y disponibilidad.",
+      "note": "Programación y desarrollo de aplicaciones. Los mejores egresados pueden acceder a Robotics iCode784.",
+      "themes": [
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Etapa regional",
+      "participation": "day_camp",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "related_ids": [
+        "C3361"
+      ]
+    },
+    {
+      "id": "L662",
+      "block": "Campamentos",
+      "title": "NTRC myApp Summer Program · St. Vincent Grammar School",
+      "country": "San Vicente y las Granadinas",
+      "region": "Caribe",
+      "iso": [
+        "VCT"
+      ],
+      "city": "St. Vincent Grammar School",
+      "start": "",
+      "end": "",
+      "deadline": "",
+      "period": "Última sesión del 3 al 14 de agosto de 2026. Nuevas fechas sin anunciar.",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://www.ntrc.vc/myapp/",
+      "references": [
+        {
+          "url": "https://www.ntrc.vc/67-young-coders-complete-ntrcs-2026-myapp-summer-program/",
+          "label": "Reglas y condiciones de admisión"
+        },
+        {
+          "url": "https://www.ntrc.vc/docs/icode784/iCode784%20Competition%202026%20Robotics%20Rules%20Revised%20July%2029.pdf",
+          "label": "Reglas y condiciones de admisión"
+        }
+      ],
+      "age": "13–18 años en la edición de 2026. Se admiten principiantes.",
+      "mat": "Etapa para más adelante.",
+      "osc": "Etapa para más adelante.",
+      "format": "Campamento diurno sin alojamiento.",
+      "entry": "Confirmar edad, horario, idioma y acceso de visitantes para el grupo concreto.",
+      "gear": "",
+      "language": "El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Tarifa de la convocatoria actual sin confirmar.",
+      "level": "Etapa regional",
+      "reward": "",
+      "priority": "P4  futuros niveles superiores / admisión menor no confirmado",
+      "action": "Confirmar idioma de las actividades, acceso de visitantes y disponibilidad.",
+      "note": "Programación y desarrollo de aplicaciones. Los mejores egresados pueden acceder a Robotics iCode784.",
+      "themes": [
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Etapa regional",
+      "participation": "day_camp",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "related_ids": [
+        "C3361"
+      ]
+    },
+    {
+      "id": "L663",
+      "block": "Campamentos",
+      "title": "Anguilla Robotics Association · Summer Robotics Camp",
+      "country": "Anguila",
+      "region": "Caribe",
+      "iso": [
+        "AIA"
+      ],
+      "city": "Anguilla",
+      "start": "",
+      "end": "",
+      "deadline": "",
+      "period": "Fechas de la próxima convocatoria sin publicar.",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://www.linkedin.com/posts/axarobotics_anguillaroboticsassociation-stemeducation-activity-7439035988582166528-39aT",
+      "references": [],
+      "age": "5–18 años según el programa de 2026.",
+      "mat": "Condicional. La edad encajaba en 2026. Confirmar próxima convocatoria, formato e idioma de las actividades.",
+      "osc": "Condicional. La edad encajaba en 2026. Confirmar próxima convocatoria, formato e idioma de las actividades.",
+      "format": "Campamento diurno sin alojamiento.",
+      "entry": "Confirmar edad, horario, idioma y acceso de visitantes para el grupo concreto.",
+      "gear": "",
+      "language": "El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Tarifa de la convocatoria actual sin confirmar.",
+      "level": "Etapa regional",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "Confirmar idioma de las actividades, acceso de visitantes y disponibilidad.",
+      "note": "Programa de dos semanas de robótica, programación e IA con proyectos prácticos.",
+      "themes": [
+        "robotics",
+        "coding",
+        "ai",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Etapa regional",
+      "participation": "day_camp",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch"
+    },
+    {
+      "id": "L664",
+      "block": "Campamentos",
+      "title": "Orbtronics Junior Program",
+      "country": "Santa Lucía",
+      "region": "Caribe",
+      "iso": [
+        "LCA"
+      ],
+      "city": "Gros Islet · Saint Lucia",
+      "start": "",
+      "end": "",
+      "deadline": "",
+      "period": "Fechas de la próxima convocatoria sin publicar.",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://www.orbtronics.co/education",
+      "references": [],
+      "age": "Confirmar la edad en las reglas de la sesión concreta.",
+      "mat": "Confirmar la edad en las reglas de la sesión concreta.",
+      "osc": "Confirmar la edad en las reglas de la sesión concreta.",
+      "format": "Campamento diurno sin alojamiento.",
+      "entry": "Confirmar edad, horario, idioma y acceso de visitantes para el grupo concreto.",
+      "gear": "",
+      "language": "El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Tarifa de la convocatoria actual sin confirmar.",
+      "level": "Etapa regional",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "Confirmar idioma de las actividades, acceso de visitantes y disponibilidad.",
+      "note": "El organizador describe una introducción práctica a STEM para niños. La página indica Coming Soon.",
+      "themes": [
+        "technology",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Etapa regional",
+      "participation": "regular",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch"
+    },
+    {
+      "id": "L665",
+      "block": "Campamentos",
+      "title": "Orbtronics Innovation Academy",
+      "country": "Santa Lucía",
+      "region": "Caribe",
+      "iso": [
+        "LCA"
+      ],
+      "city": "Gros Islet · Saint Lucia",
+      "start": "",
+      "end": "",
+      "deadline": "",
+      "period": "El piloto empezó en marzo de 2026. Programa continuo. Confirmar días del grupo.",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://www.orbtronics.co/innovation-academy",
+      "references": [],
+      "age": "Público principal desde 16 años. El organizador también admite interés desde 13 años.",
+      "mat": "Etapa para más adelante.",
+      "osc": "Etapa para más adelante.",
+      "format": "Campamento diurno sin alojamiento.",
+      "entry": "Confirmar edad, horario, idioma y acceso de visitantes para el grupo concreto.",
+      "gear": "",
+      "language": "El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "150 USD al mes según la página actual.",
+      "level": "Etapa regional",
+      "reward": "",
+      "priority": "P4  futuros niveles superiores / admisión menor no confirmado",
+      "action": "Confirmar idioma de las actividades, acceso de visitantes y disponibilidad.",
+      "note": "Actividades de fin de semana. Robótica, CAD, Python, navegación autónoma y proyecto final. Hay mentoría y apoyo para la admisión universitaria.",
+      "themes": [
+        "robotics",
+        "engineering",
+        "coding",
+        "entrepreneurship"
+      ],
+      "scope": "local",
+      "importance_reason": "Etapa regional",
+      "participation": "regular",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "related_ids": [
+        "C3368"
+      ]
+    },
+    {
+      "id": "L666",
+      "block": "Campamentos",
+      "title": "Orbtronics · ECCU Generative AI and Python Summer Camp",
+      "country": "Santa Lucía",
+      "region": "Caribe",
+      "iso": [
+        "LCA"
+      ],
+      "city": "Saint Lucia",
+      "start": "",
+      "end": "",
+      "deadline": "",
+      "period": "Fechas de la próxima convocatoria sin publicar.",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://www.linkedin.com/posts/orbtronicsltd_orbtronics-stemeducation-caribbeanstem-activity-7499184783999283200-Awi0",
+      "references": [
+        {
+          "url": "https://orbtronics.co/insights/saint-lucia-summer-of-stem-with-orbtronics",
+          "label": "Reglas y condiciones de admisión"
+        }
+      ],
+      "age": "Escolares de 14–18 años según el programa de 2026.",
+      "mat": "Etapa para más adelante.",
+      "osc": "Etapa para más adelante.",
+      "format": "Campamento diurno sin alojamiento.",
+      "entry": "Confirmar edad, horario, idioma y acceso de visitantes para el grupo concreto.",
+      "gear": "",
+      "language": "El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Tarifa de la convocatoria actual sin confirmar.",
+      "level": "Etapa regional",
+      "reward": "",
+      "priority": "P4  futuros niveles superiores / admisión menor no confirmado",
+      "action": "Confirmar idioma de las actividades, acceso de visitantes y disponibilidad.",
+      "note": "Campamento de verano por proyectos de Python, IA generativa, multimedia y pensamiento de diseño.",
+      "themes": [
+        "coding",
+        "ai",
+        "design"
+      ],
+      "scope": "local",
+      "importance_reason": "Etapa regional",
+      "participation": "day_camp",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch"
+    },
+    {
+      "id": "L667",
+      "block": "Campamentos",
+      "title": "CARDTP CyberCreators Summer Tech Bootcamp",
+      "country": "Dominica",
+      "region": "Caribe",
+      "iso": [
+        "DMA"
+      ],
+      "city": "Dominica",
+      "start": "",
+      "end": "",
+      "deadline": "",
+      "period": "Consta una edición desde el 21 de julio de 2025. Próximas fechas sin anunciar.",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://www.cardtp.gov.dm/media-press/notices/53-cardtp-conducts-cybercreators-summer-tech-bootcamp",
+      "references": [],
+      "age": "4–17 años en la convocatoria de 2025. Participaron menores de escuelas locales de primaria y secundaria.",
+      "mat": "Condicional. La edad encajaba en 2025. Confirmar próxima convocatoria, acceso de visitantes e idioma.",
+      "osc": "Condicional. La edad encajaba en 2025. Confirmar próxima convocatoria, acceso de visitantes e idioma.",
+      "format": "Campamento diurno sin alojamiento.",
+      "entry": "Confirmar edad, horario, idioma y acceso de visitantes para el grupo concreto.",
+      "gear": "",
+      "language": "El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Tarifa de la convocatoria actual sin confirmar.",
+      "level": "Etapa regional",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "Confirmar idioma de las actividades, acceso de visitantes y disponibilidad.",
+      "note": "Scratch y creación de juegos, programación de aplicaciones por bloques, fundamentos de Python y JavaScript. Confirmar grupos de edades con el organizador.",
+      "themes": [
+        "coding",
+        "games",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Etapa regional",
+      "participation": "day_camp",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch"
+    },
+    {
+      "id": "L668",
+      "block": "Campamentos",
+      "title": "Dominica State College · Summer Camp",
+      "country": "Dominica",
+      "region": "Caribe",
+      "iso": [
+        "DMA"
+      ],
+      "city": "Stockfarm · Roseau",
+      "start": "",
+      "end": "",
+      "deadline": "",
+      "period": "El colegio publicó el formato. Fechas, edad exacta y tarifa base sin indicar.",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://dsc.edu.dm/summer-camp/",
+      "references": [],
+      "age": "Confirmar la edad en las reglas de la sesión concreta.",
+      "mat": "Confirmar la edad en las reglas de la sesión concreta.",
+      "osc": "Confirmar la edad en las reglas de la sesión concreta.",
+      "format": "Campamento diurno sin alojamiento.",
+      "entry": "Confirmar edad, horario, idioma y acceso de visitantes para el grupo concreto.",
+      "gear": "",
+      "language": "El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Tarifa de la convocatoria actual sin confirmar.",
+      "level": "Etapa regional",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "Confirmar idioma de las actividades, acceso de visitantes y disponibilidad.",
+      "note": "Campamento diurno general con alfabetización digital, ciencias y exposición final de proyectos para las familias.",
+      "themes": [
+        "general",
+        "science",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Etapa regional",
+      "participation": "day_camp",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch"
+    },
+    {
+      "id": "L669",
+      "block": "Campamentos",
+      "title": "Global Center for STEAM · Engineering–Robotics Bridge Challenge",
+      "country": "Granada",
+      "region": "Caribe",
+      "iso": [
+        "GRD"
+      ],
+      "city": "Grenada",
+      "start": "",
+      "end": "",
+      "deadline": "",
+      "period": "Fechas de la próxima convocatoria sin publicar.",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://www.theglobalsteamcentereducation.org/",
+      "references": [],
+      "age": "Forms 3–5 según la descripción de 2026.",
+      "mat": "Etapa para más adelante.",
+      "osc": "Etapa para más adelante.",
+      "format": "Campamento diurno sin alojamiento.",
+      "entry": "Confirmar edad, horario, idioma y acceso de visitantes para el grupo concreto.",
+      "gear": "",
+      "language": "El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Tarifa de la convocatoria actual sin confirmar.",
+      "level": "Etapa regional",
+      "reward": "",
+      "priority": "P4  futuros niveles superiores / admisión menor no confirmado",
+      "action": "Confirmar idioma de las actividades, acceso de visitantes y disponibilidad.",
+      "note": "Diseño y prueba de un puente, y programación de Sphero para atravesarlo.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Etapa regional",
+      "participation": "day_camp",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch"
+    },
+    {
+      "id": "L670",
+      "block": "Campamentos",
+      "title": "Stichting EGO · A Step Beyond",
+      "country": "Sint Maarten",
+      "region": "Caribe",
+      "iso": [
+        "SXM"
+      ],
+      "city": "Sint Maarten",
+      "start": "",
+      "end": "",
+      "deadline": "",
+      "period": "",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://mediawegwijs.nl/nieuws/ego-pilot-to-teach-young-people-ai-digital-literacy-robotics-sel/",
+      "references": [
+        {
+          "url": "https://mediawegwijs.nl/nieuws/",
+          "label": "Reglas y condiciones de admisión"
+        }
+      ],
+      "age": "Confirmar la edad en las reglas de la sesión concreta.",
+      "mat": "Confirmar el curso escolar local. La edad por sí sola no acredita la admisión.",
+      "osc": "Confirmar el curso escolar local. La edad por sí sola no acredita la admisión.",
+      "format": "",
+      "entry": "Piloto para escolares. Robótica, IA, alfabetización digital, medios y fundamentos de diseño de juegos. Participación a través del programa escolar.",
+      "gear": "",
+      "language": "Confirmar el idioma del grupo o sede concretos.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Precio sin publicar.",
+      "level": "Etapa regional",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "Confirmar idioma de las actividades, acceso de visitantes y disponibilidad.",
+      "note": "Piloto para escolares. Robótica, IA, alfabetización digital, medios y fundamentos de diseño de juegos. Participación a través del programa escolar.",
+      "themes": [
+        "robotics",
+        "ai",
+        "games",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Etapa regional",
+      "participation": "regular",
+      "admission_kind": "school",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch"
+    },
+    {
+      "id": "L671",
+      "block": "Campamentos",
+      "title": "Wepala Innovation Centre · Summer Robotics Camp",
+      "country": "Trinidad y Tobago",
+      "region": "Caribe",
+      "iso": [
+        "TTO"
+      ],
+      "city": "Wepala Innovation Centre · Tunapuna",
+      "start": "",
+      "end": "",
+      "deadline": "",
+      "period": "Fechas de la próxima convocatoria sin publicar.",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://innovate.wepala.com/schedule/",
+      "references": [
+        {
+          "url": "https://innovate.wepala.com/event-details/11/summer-robotics-camp-aug-17/",
+          "label": "Reglas y condiciones de admisión"
+        }
+      ],
+      "age": "7–16 años en las sesiones ordinarias de 2026. Sesión sénior separada desde 13 años.",
+      "mat": "Condicional. La edad encajaba en 2026. Confirmar próxima convocatoria, formato e idioma de las actividades.",
+      "osc": "Por ahora no alcanza la edad mínima.",
+      "format": "Campamento diurno sin alojamiento.",
+      "entry": "Confirmar edad, horario, idioma y acceso de visitantes para el grupo concreto.",
+      "gear": "",
+      "language": "El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "500 por menor en las sesiones de 2026. La página usa $ sin código de moneda. Confirmar tarifa de la próxima edición.",
+      "level": "Etapa regional",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "Confirmar idioma de las actividades, acceso de visitantes y disponibilidad.",
+      "note": "Robótica con construcción, programación y retos de ingeniería.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Etapa regional",
+      "participation": "day_camp",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "related_ids": [
+        "L673",
+        "C898"
+      ]
+    },
+    {
+      "id": "L672",
+      "block": "Campamentos",
+      "title": "Wepala Innovation Centre · Online Python Coding Camp",
+      "country": "Trinidad y Tobago",
+      "region": "Caribe",
+      "iso": [
+        "TTO"
+      ],
+      "city": "Online · Trinidad and Tobago",
+      "start": "",
+      "end": "",
+      "deadline": "",
+      "period": "Fechas de la próxima convocatoria sin publicar.",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://innovate.wepala.com/event-details/4/easter-camp-python/",
+      "references": [
+        {
+          "url": "https://innovate.wepala.com/schedule/",
+          "label": "Reglas y condiciones de admisión"
+        }
+      ],
+      "age": "8–16 años en la convocatoria anterior.",
+      "mat": "Condicional. La edad encajaba en 2026. Confirmar próxima convocatoria, formato e idioma de las actividades.",
+      "osc": "Por ahora no alcanza la edad mínima.",
+      "format": "En línea desde casa.",
+      "entry": "Confirmar edad, horario, idioma y acceso de visitantes para el grupo concreto.",
+      "gear": "",
+      "language": "El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "300 en la edición publicada de 2026. La moneda figura con el signo $. Tarifa de la próxima convocatoria desconocida.",
+      "level": "Etapa regional",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "Confirmar idioma de las actividades, acceso de visitantes y disponibilidad.",
+      "note": "Introducción remota a Python. Se requiere ordenador y Zoom. No se exigía experiencia previa.",
+      "themes": [
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Etapa regional",
+      "participation": "online_camp",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch"
+    },
+    {
+      "id": "L673",
+      "block": "Campamentos",
+      "title": "Wepala Innovation Centre · Team X · FIRST LEGO League",
+      "country": "Trinidad y Tobago",
+      "region": "Caribe",
+      "iso": [
+        "TTO"
+      ],
+      "city": "Wepala Innovation Centre · Tunapuna",
+      "start": "",
+      "end": "",
+      "deadline": "",
+      "period": "",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://innovate.wepala.com/competition",
+      "references": [
+        {
+          "url": "https://innovate.wepala.com/about-us/",
+          "label": "Reglas y condiciones de admisión"
+        },
+        {
+          "url": "https://innovate.wepala.com/course-details/1/rob1/",
+          "label": "Reglas y condiciones de admisión"
+        },
+        {
+          "url": "https://innovate.wepala.com/course-details/2/rob2/",
+          "label": "Reglas y condiciones de admisión"
+        }
+      ],
+      "age": "Confirmar la edad en las reglas de la sesión concreta.",
+      "mat": "Confirmar el curso escolar local. La edad por sí sola no acredita la admisión.",
+      "osc": "Confirmar el curso escolar local. La edad por sí sola no acredita la admisión.",
+      "format": "",
+      "entry": "El club Team X se prepara para FIRST LEGO League. El proveedor cita resultados del torneo local de 2024. Confirmar convocatoria, edad y equipo oficial.",
+      "gear": "",
+      "language": "Confirmar el idioma del grupo o sede concretos.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Precio sin publicar.",
+      "level": "Etapa regional",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "Confirmar idioma de las actividades, acceso de visitantes y disponibilidad.",
+      "note": "El club Team X se prepara para FIRST LEGO League. El proveedor cita resultados del torneo local de 2024. Confirmar convocatoria, edad y equipo oficial.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Etapa regional",
+      "participation": "regular",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "related_ids": [
+        "L671",
+        "C898"
       ]
     },
     {
@@ -360847,6 +361597,471 @@
       "availability": {
         "status": "unconfirmed",
         "label": "Hay inscripción pública. Disponibilidad sin confirmar."
+      }
+    },
+    {
+      "id": "CP1840-20261221-20261224-week-21",
+      "block": "Campamentos",
+      "title": "Blueinno Christmas · Junior Robot Builder · Blueinno Christmas · Junior Robot Builder · 2026-12-21–2026-12-24",
+      "country": "RAE de Hong Kong (China)",
+      "region": "Asia",
+      "city": "Room 906, Summit Insurance Building · 789 Nathan Road · Prince Edward · Kowloon",
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "period": "Horario del grupo concreto según la ficha del curso. Hora local.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "6–8 años. Nivel inicial.",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Campamento diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Electrónica, Blockly, sensores y montaje de robot. La ficha indica kit, robot propio y certificado de asistencia.",
+      "language": "Inglés como idioma de enseñanza según la ficha del curso.",
+      "cost": "2026/27 · 3 500 HKD por curso y menor. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar edad exacta de acceso y plaza con el recinto.",
+      "source": "https://blueinnotechnology.com/introduction-stem/",
+      "references": [
+        {
+          "url": "https://blueinnotechnology.com/introduction-stem/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://blueinnotechnology.com/christmas-stem-and-coding-camp/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://blueinnotechnology.com/blueinno-intensive-holiday-camps-registration-form/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://blueinnotechnology.com/contact-us/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Supera la edad máxima del grupo. Oscar: Edad adecuada según la ficha del curso. Confirmar disponibilidad de plaza. Suplementos: Se requiere portátil con cargador. Confirmar condiciones de pago y devolución. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.",
+      "iso": [
+        "HKG"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "electronics",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Inglés como idioma de enseñanza según la ficha del curso.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "blueinno-hong-kong-christmas-2026-junior-robot-builder",
+      "camp_programme_id": "CP1840",
+      "sessions": [
+        {
+          "date": "2026-12-21",
+          "topic": "Electrónica, Blockly, sensores y montaje de robot. La ficha indica kit, robot propio y certificado de asistencia.",
+          "start_time": "09:00",
+          "end_time": "11:00",
+          "timezone": "Asia/Hong_Kong",
+          "ical_timed": true,
+          "start_utc": "2026-12-21T01:00:00Z",
+          "end_utc": "2026-12-21T03:00:00Z"
+        },
+        {
+          "date": "2026-12-22",
+          "topic": "Electrónica, Blockly, sensores y montaje de robot. La ficha indica kit, robot propio y certificado de asistencia.",
+          "start_time": "09:00",
+          "end_time": "11:00",
+          "timezone": "Asia/Hong_Kong",
+          "ical_timed": true,
+          "start_utc": "2026-12-22T01:00:00Z",
+          "end_utc": "2026-12-22T03:00:00Z"
+        },
+        {
+          "date": "2026-12-23",
+          "topic": "Electrónica, Blockly, sensores y montaje de robot. La ficha indica kit, robot propio y certificado de asistencia.",
+          "start_time": "09:00",
+          "end_time": "11:00",
+          "timezone": "Asia/Hong_Kong",
+          "ical_timed": true,
+          "start_utc": "2026-12-23T01:00:00Z",
+          "end_utc": "2026-12-23T03:00:00Z"
+        },
+        {
+          "date": "2026-12-24",
+          "topic": "Electrónica, Blockly, sensores y montaje de robot. La ficha indica kit, robot propio y certificado de asistencia.",
+          "start_time": "09:00",
+          "end_time": "11:00",
+          "timezone": "Asia/Hong_Kong",
+          "ical_timed": true,
+          "start_utc": "2026-12-24T01:00:00Z",
+          "end_utc": "2026-12-24T03:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Hay formulario de inscripción. Confirmar disponibilidad en el grupo elegido."
+      }
+    },
+    {
+      "id": "CP1841-20261221-20261224-week-21",
+      "block": "Campamentos",
+      "title": "Blueinno Christmas · AI Innovation · Blueinno Christmas · AI Innovation · 2026-12-21–2026-12-24",
+      "country": "RAE de Hong Kong (China)",
+      "region": "Asia",
+      "city": "Room 906, Summit Insurance Building · 789 Nathan Road · Prince Edward · Kowloon",
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "period": "Horario del grupo concreto según la ficha del curso. Hora local.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "9–11 años. Nivel inicial.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "no según las condiciones de la pista seleccionada",
+      "format": "Campamento diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "IA generativa, comprobación de respuestas, Google Gemini, Canva AI y presentación de la idea del proyecto.",
+      "language": "Inglés como idioma de enseñanza según la ficha del curso.",
+      "cost": "2026/27 · 3 500 HKD por curso y menor. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar edad exacta de acceso y plaza con el recinto.",
+      "source": "https://blueinnotechnology.com/future-tech/",
+      "references": [
+        {
+          "url": "https://blueinnotechnology.com/future-tech/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://blueinnotechnology.com/christmas-stem-and-coding-camp/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://blueinnotechnology.com/blueinno-intensive-holiday-camps-registration-form/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://blueinnotechnology.com/contact-us/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Edad adecuada según la ficha del curso. Confirmar disponibilidad de plaza. Oscar: Por ahora no alcanza la edad mínima. Suplementos: Se requiere portátil con cargador. Confirmar condiciones de pago y devolución. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.",
+      "iso": [
+        "HKG"
+      ],
+      "themes": [
+        "ai",
+        "technology",
+        "design"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Inglés como idioma de enseñanza según la ficha del curso.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "blueinno-hong-kong-christmas-2026-ai-innovation",
+      "camp_programme_id": "CP1841",
+      "sessions": [
+        {
+          "date": "2026-12-21",
+          "topic": "IA generativa, comprobación de respuestas, Google Gemini, Canva AI y presentación de la idea del proyecto.",
+          "start_time": "11:15",
+          "end_time": "13:15",
+          "timezone": "Asia/Hong_Kong",
+          "ical_timed": true,
+          "start_utc": "2026-12-21T03:15:00Z",
+          "end_utc": "2026-12-21T05:15:00Z"
+        },
+        {
+          "date": "2026-12-22",
+          "topic": "IA generativa, comprobación de respuestas, Google Gemini, Canva AI y presentación de la idea del proyecto.",
+          "start_time": "11:15",
+          "end_time": "13:15",
+          "timezone": "Asia/Hong_Kong",
+          "ical_timed": true,
+          "start_utc": "2026-12-22T03:15:00Z",
+          "end_utc": "2026-12-22T05:15:00Z"
+        },
+        {
+          "date": "2026-12-23",
+          "topic": "IA generativa, comprobación de respuestas, Google Gemini, Canva AI y presentación de la idea del proyecto.",
+          "start_time": "11:15",
+          "end_time": "13:15",
+          "timezone": "Asia/Hong_Kong",
+          "ical_timed": true,
+          "start_utc": "2026-12-23T03:15:00Z",
+          "end_utc": "2026-12-23T05:15:00Z"
+        },
+        {
+          "date": "2026-12-24",
+          "topic": "IA generativa, comprobación de respuestas, Google Gemini, Canva AI y presentación de la idea del proyecto.",
+          "start_time": "11:15",
+          "end_time": "13:15",
+          "timezone": "Asia/Hong_Kong",
+          "ical_timed": true,
+          "start_utc": "2026-12-24T03:15:00Z",
+          "end_utc": "2026-12-24T05:15:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Hay formulario de inscripción. Confirmar disponibilidad en el grupo elegido."
+      }
+    },
+    {
+      "id": "CP1841-20261228-20261231-week-28",
+      "block": "Campamentos",
+      "title": "Blueinno Christmas · AI Innovation · Blueinno Christmas · AI Innovation · 2026-12-28–2026-12-31",
+      "country": "RAE de Hong Kong (China)",
+      "region": "Asia",
+      "city": "Room 906, Summit Insurance Building · 789 Nathan Road · Prince Edward · Kowloon",
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "period": "Horario del grupo concreto según la ficha del curso. Hora local.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "9–11 años. Nivel inicial.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "no según las condiciones de la pista seleccionada",
+      "format": "Campamento diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "IA generativa, comprobación de respuestas, Google Gemini, Canva AI y presentación de la idea del proyecto.",
+      "language": "Inglés como idioma de enseñanza según la ficha del curso.",
+      "cost": "2026/27 · 3 500 HKD por curso y menor. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar edad exacta de acceso y plaza con el recinto.",
+      "source": "https://blueinnotechnology.com/future-tech/",
+      "references": [
+        {
+          "url": "https://blueinnotechnology.com/future-tech/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://blueinnotechnology.com/christmas-stem-and-coding-camp/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://blueinnotechnology.com/blueinno-intensive-holiday-camps-registration-form/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://blueinnotechnology.com/contact-us/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Edad adecuada según la ficha del curso. Confirmar disponibilidad de plaza. Oscar: Por ahora no alcanza la edad mínima. Suplementos: Se requiere portátil con cargador. Confirmar condiciones de pago y devolución. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.",
+      "iso": [
+        "HKG"
+      ],
+      "themes": [
+        "ai",
+        "technology",
+        "design"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Inglés como idioma de enseñanza según la ficha del curso.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "blueinno-hong-kong-christmas-2026-ai-innovation",
+      "camp_programme_id": "CP1841",
+      "sessions": [
+        {
+          "date": "2026-12-28",
+          "topic": "IA generativa, comprobación de respuestas, Google Gemini, Canva AI y presentación de la idea del proyecto.",
+          "start_time": "14:30",
+          "end_time": "16:30",
+          "timezone": "Asia/Hong_Kong",
+          "ical_timed": true,
+          "start_utc": "2026-12-28T06:30:00Z",
+          "end_utc": "2026-12-28T08:30:00Z"
+        },
+        {
+          "date": "2026-12-29",
+          "topic": "IA generativa, comprobación de respuestas, Google Gemini, Canva AI y presentación de la idea del proyecto.",
+          "start_time": "14:30",
+          "end_time": "16:30",
+          "timezone": "Asia/Hong_Kong",
+          "ical_timed": true,
+          "start_utc": "2026-12-29T06:30:00Z",
+          "end_utc": "2026-12-29T08:30:00Z"
+        },
+        {
+          "date": "2026-12-30",
+          "topic": "IA generativa, comprobación de respuestas, Google Gemini, Canva AI y presentación de la idea del proyecto.",
+          "start_time": "14:30",
+          "end_time": "16:30",
+          "timezone": "Asia/Hong_Kong",
+          "ical_timed": true,
+          "start_utc": "2026-12-30T06:30:00Z",
+          "end_utc": "2026-12-30T08:30:00Z"
+        },
+        {
+          "date": "2026-12-31",
+          "topic": "IA generativa, comprobación de respuestas, Google Gemini, Canva AI y presentación de la idea del proyecto.",
+          "start_time": "14:30",
+          "end_time": "16:30",
+          "timezone": "Asia/Hong_Kong",
+          "ical_timed": true,
+          "start_utc": "2026-12-31T06:30:00Z",
+          "end_utc": "2026-12-31T08:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Hay formulario de inscripción. Confirmar disponibilidad en el grupo elegido."
+      }
+    },
+    {
+      "id": "CP1842-20261228-20261231-week-28",
+      "block": "Campamentos",
+      "title": "Blueinno Christmas · 3D Inventions · Blueinno Christmas · 3D Inventions · 2026-12-28–2026-12-31",
+      "country": "RAE de Hong Kong (China)",
+      "region": "Asia",
+      "city": "Room 906, Summit Insurance Building · 789 Nathan Road · Prince Edward · Kowloon",
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "period": "Horario del grupo concreto según la ficha del curso. Hora local.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "9–11 años en la página del campamento, 10–13 años en la ficha del curso.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "no según las condiciones de la pista seleccionada",
+      "format": "Campamento diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Diseño de prototipos en Tinkercad y práctica de impresión 3D.",
+      "language": "Inglés como idioma de enseñanza según la ficha del curso.",
+      "cost": "2026/27 · 3 500 HKD por curso y menor. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar edad exacta de acceso y plaza con el recinto.",
+      "source": "https://blueinnotechnology.com/3d-inventions/",
+      "references": [
+        {
+          "url": "https://blueinnotechnology.com/3d-inventions/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://blueinnotechnology.com/christmas-stem-and-coding-camp/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://blueinnotechnology.com/blueinno-intensive-holiday-camps-registration-form/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://blueinnotechnology.com/contact-us/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Condicional. En la página del campamento 9–11 años. En la ficha del curso 10–13 años. Confirmar admisión con 9 años. Oscar: Por ahora no alcanza la edad mínima. Suplementos: Se requiere portátil con cargador. Confirmar condiciones de pago y devolución. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.",
+      "iso": [
+        "HKG"
+      ],
+      "themes": [
+        "3d",
+        "design",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Inglés como idioma de enseñanza según la ficha del curso.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "blueinno-hong-kong-christmas-2026-3d-inventions",
+      "camp_programme_id": "CP1842",
+      "sessions": [
+        {
+          "date": "2026-12-28",
+          "topic": "Diseño de prototipos en Tinkercad y práctica de impresión 3D.",
+          "start_time": "11:15",
+          "end_time": "13:15",
+          "timezone": "Asia/Hong_Kong",
+          "ical_timed": true,
+          "start_utc": "2026-12-28T03:15:00Z",
+          "end_utc": "2026-12-28T05:15:00Z"
+        },
+        {
+          "date": "2026-12-29",
+          "topic": "Diseño de prototipos en Tinkercad y práctica de impresión 3D.",
+          "start_time": "11:15",
+          "end_time": "13:15",
+          "timezone": "Asia/Hong_Kong",
+          "ical_timed": true,
+          "start_utc": "2026-12-29T03:15:00Z",
+          "end_utc": "2026-12-29T05:15:00Z"
+        },
+        {
+          "date": "2026-12-30",
+          "topic": "Diseño de prototipos en Tinkercad y práctica de impresión 3D.",
+          "start_time": "11:15",
+          "end_time": "13:15",
+          "timezone": "Asia/Hong_Kong",
+          "ical_timed": true,
+          "start_utc": "2026-12-30T03:15:00Z",
+          "end_utc": "2026-12-30T05:15:00Z"
+        },
+        {
+          "date": "2026-12-31",
+          "topic": "Diseño de prototipos en Tinkercad y práctica de impresión 3D.",
+          "start_time": "11:15",
+          "end_time": "13:15",
+          "timezone": "Asia/Hong_Kong",
+          "ical_timed": true,
+          "start_utc": "2026-12-31T03:15:00Z",
+          "end_utc": "2026-12-31T05:15:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Hay formulario de inscripción. Confirmar disponibilidad en el grupo elegido."
       }
     },
     {

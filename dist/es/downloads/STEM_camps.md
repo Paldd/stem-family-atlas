@@ -9334,6 +9334,230 @@ Limitaciones: Investigadores visitan los centros escolares. Solicita la escuela.
 Fuente: https://citi.cw/what-we-do/curaknow/2026
 Se ha comprobado: 2026-11-07
 
+### L660 · NTRC myApp Summer Program · Union Island Secondary School
+
+lugar: San Vicente y las Granadinas · Union Island Secondary School
+Fecha: Última sesión del 13 al 24 de julio de 2026. Nuevas fechas sin anunciar.
+edad: 13–18 años en la edición de 2026. Se admiten principiantes.
+Matvey: Etapa para más adelante.
+Oscar: Etapa para más adelante.
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Tarifa de la convocatoria actual sin confirmar.
+Acceso: Confirmar edad, horario, idioma y acceso de visitantes para el grupo concreto.
+Limitaciones: Programación y desarrollo de aplicaciones. Los mejores egresados pueden acceder a Robotics iCode784.
+Fuente: https://www.ntrc.vc/myapp/
+Se ha comprobado: 2026-11-07
+
+### L661 · NTRC myApp Summer Program · Mountain View Adventist Academy
+
+lugar: San Vicente y las Granadinas · Mountain View Adventist Academy
+Fecha: Última sesión del 27 de julio al 7 de agosto de 2026. Nuevas fechas sin anunciar.
+edad: 13–18 años en la edición de 2026. Se admiten principiantes.
+Matvey: Etapa para más adelante.
+Oscar: Etapa para más adelante.
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Tarifa de la convocatoria actual sin confirmar.
+Acceso: Confirmar edad, horario, idioma y acceso de visitantes para el grupo concreto.
+Limitaciones: Programación y desarrollo de aplicaciones. Los mejores egresados pueden acceder a Robotics iCode784.
+Fuente: https://www.ntrc.vc/myapp/
+Se ha comprobado: 2026-11-07
+
+### L662 · NTRC myApp Summer Program · St. Vincent Grammar School
+
+lugar: San Vicente y las Granadinas · St. Vincent Grammar School
+Fecha: Última sesión del 3 al 14 de agosto de 2026. Nuevas fechas sin anunciar.
+edad: 13–18 años en la edición de 2026. Se admiten principiantes.
+Matvey: Etapa para más adelante.
+Oscar: Etapa para más adelante.
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Tarifa de la convocatoria actual sin confirmar.
+Acceso: Confirmar edad, horario, idioma y acceso de visitantes para el grupo concreto.
+Limitaciones: Programación y desarrollo de aplicaciones. Los mejores egresados pueden acceder a Robotics iCode784.
+Fuente: https://www.ntrc.vc/myapp/
+Se ha comprobado: 2026-11-07
+
+### L663 · Anguilla Robotics Association · Summer Robotics Camp
+
+lugar: Anguila · Anguilla
+Fecha: Fechas de la próxima convocatoria sin publicar.
+edad: 5–18 años según el programa de 2026.
+Matvey: Condicional. La edad encajaba en 2026. Confirmar próxima convocatoria, formato e idioma de las actividades.
+Oscar: Condicional. La edad encajaba en 2026. Confirmar próxima convocatoria, formato e idioma de las actividades.
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Tarifa de la convocatoria actual sin confirmar.
+Acceso: Confirmar edad, horario, idioma y acceso de visitantes para el grupo concreto.
+Limitaciones: Programa de dos semanas de robótica, programación e IA con proyectos prácticos.
+Fuente: https://www.linkedin.com/posts/axarobotics_anguillaroboticsassociation-stemeducation-activity-7439035988582166528-39aT
+Se ha comprobado: 2026-11-07
+
+### L664 · Orbtronics Junior Program
+
+lugar: Santa Lucía · Gros Islet · Saint Lucia
+Fecha: Fechas de la próxima convocatoria sin publicar.
+edad: Confirmar la edad en las reglas de la sesión concreta.
+Matvey: Confirmar la edad en las reglas de la sesión concreta.
+Oscar: Confirmar la edad en las reglas de la sesión concreta.
+Formato: regular
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Tarifa de la convocatoria actual sin confirmar.
+Acceso: Confirmar edad, horario, idioma y acceso de visitantes para el grupo concreto.
+Limitaciones: El organizador describe una introducción práctica a STEM para niños. La página indica Coming Soon.
+Fuente: https://www.orbtronics.co/education
+Se ha comprobado: 2026-11-07
+
+### L665 · Orbtronics Innovation Academy
+
+lugar: Santa Lucía · Gros Islet · Saint Lucia
+Fecha: El piloto empezó en marzo de 2026. Programa continuo. Confirmar días del grupo.
+edad: Público principal desde 16 años. El organizador también admite interés desde 13 años.
+Matvey: Etapa para más adelante.
+Oscar: Etapa para más adelante.
+Formato: regular
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 150 USD al mes según la página actual.
+Acceso: Confirmar edad, horario, idioma y acceso de visitantes para el grupo concreto.
+Limitaciones: Actividades de fin de semana. Robótica, CAD, Python, navegación autónoma y proyecto final. Hay mentoría y apoyo para la admisión universitaria.
+Fuente: https://www.orbtronics.co/innovation-academy
+Se ha comprobado: 2026-11-07
+
+### L666 · Orbtronics · ECCU Generative AI and Python Summer Camp
+
+lugar: Santa Lucía · Saint Lucia
+Fecha: Fechas de la próxima convocatoria sin publicar.
+edad: Escolares de 14–18 años según el programa de 2026.
+Matvey: Etapa para más adelante.
+Oscar: Etapa para más adelante.
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Tarifa de la convocatoria actual sin confirmar.
+Acceso: Confirmar edad, horario, idioma y acceso de visitantes para el grupo concreto.
+Limitaciones: Campamento de verano por proyectos de Python, IA generativa, multimedia y pensamiento de diseño.
+Fuente: https://www.linkedin.com/posts/orbtronicsltd_orbtronics-stemeducation-caribbeanstem-activity-7499184783999283200-Awi0
+Se ha comprobado: 2026-11-07
+
+### L667 · CARDTP CyberCreators Summer Tech Bootcamp
+
+lugar: Dominica · Dominica
+Fecha: Consta una edición desde el 21 de julio de 2025. Próximas fechas sin anunciar.
+edad: 4–17 años en la convocatoria de 2025. Participaron menores de escuelas locales de primaria y secundaria.
+Matvey: Condicional. La edad encajaba en 2025. Confirmar próxima convocatoria, acceso de visitantes e idioma.
+Oscar: Condicional. La edad encajaba en 2025. Confirmar próxima convocatoria, acceso de visitantes e idioma.
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Tarifa de la convocatoria actual sin confirmar.
+Acceso: Confirmar edad, horario, idioma y acceso de visitantes para el grupo concreto.
+Limitaciones: Scratch y creación de juegos, programación de aplicaciones por bloques, fundamentos de Python y JavaScript. Confirmar grupos de edades con el organizador.
+Fuente: https://www.cardtp.gov.dm/media-press/notices/53-cardtp-conducts-cybercreators-summer-tech-bootcamp
+Se ha comprobado: 2026-11-07
+
+### L668 · Dominica State College · Summer Camp
+
+lugar: Dominica · Stockfarm · Roseau
+Fecha: El colegio publicó el formato. Fechas, edad exacta y tarifa base sin indicar.
+edad: Confirmar la edad en las reglas de la sesión concreta.
+Matvey: Confirmar la edad en las reglas de la sesión concreta.
+Oscar: Confirmar la edad en las reglas de la sesión concreta.
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Tarifa de la convocatoria actual sin confirmar.
+Acceso: Confirmar edad, horario, idioma y acceso de visitantes para el grupo concreto.
+Limitaciones: Campamento diurno general con alfabetización digital, ciencias y exposición final de proyectos para las familias.
+Fuente: https://dsc.edu.dm/summer-camp/
+Se ha comprobado: 2026-11-07
+
+### L669 · Global Center for STEAM · Engineering–Robotics Bridge Challenge
+
+lugar: Granada · Grenada
+Fecha: Fechas de la próxima convocatoria sin publicar.
+edad: Forms 3–5 según la descripción de 2026.
+Matvey: Etapa para más adelante.
+Oscar: Etapa para más adelante.
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Tarifa de la convocatoria actual sin confirmar.
+Acceso: Confirmar edad, horario, idioma y acceso de visitantes para el grupo concreto.
+Limitaciones: Diseño y prueba de un puente, y programación de Sphero para atravesarlo.
+Fuente: https://www.theglobalsteamcentereducation.org/
+Se ha comprobado: 2026-11-07
+
+### L670 · Stichting EGO · A Step Beyond
+
+lugar: Sint Maarten · Sint Maarten
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Confirmar la edad en las reglas de la sesión concreta.
+Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión.
+Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión.
+Formato: regular
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Precio sin publicar.
+Acceso: Piloto para escolares. Robótica, IA, alfabetización digital, medios y fundamentos de diseño de juegos. Participación a través del programa escolar.
+Limitaciones: Piloto para escolares. Robótica, IA, alfabetización digital, medios y fundamentos de diseño de juegos. Participación a través del programa escolar.
+Fuente: https://mediawegwijs.nl/nieuws/ego-pilot-to-teach-young-people-ai-digital-literacy-robotics-sel/
+Se ha comprobado: 2026-11-07
+
+### L671 · Wepala Innovation Centre · Summer Robotics Camp
+
+lugar: Trinidad y Tobago · Wepala Innovation Centre · Tunapuna
+Fecha: Fechas de la próxima convocatoria sin publicar.
+edad: 7–16 años en las sesiones ordinarias de 2026. Sesión sénior separada desde 13 años.
+Matvey: Condicional. La edad encajaba en 2026. Confirmar próxima convocatoria, formato e idioma de las actividades.
+Oscar: Por ahora no alcanza la edad mínima.
+Formato: day_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 500 por menor en las sesiones de 2026. La página usa $ sin código de moneda. Confirmar tarifa de la próxima edición.
+Acceso: Confirmar edad, horario, idioma y acceso de visitantes para el grupo concreto.
+Limitaciones: Robótica con construcción, programación y retos de ingeniería.
+Fuente: https://innovate.wepala.com/schedule/
+Se ha comprobado: 2026-11-07
+
+### L672 · Wepala Innovation Centre · Online Python Coding Camp
+
+lugar: Trinidad y Tobago · Online · Trinidad and Tobago
+Fecha: Fechas de la próxima convocatoria sin publicar.
+edad: 8–16 años en la convocatoria anterior.
+Matvey: Condicional. La edad encajaba en 2026. Confirmar próxima convocatoria, formato e idioma de las actividades.
+Oscar: Por ahora no alcanza la edad mínima.
+Formato: online_camp
+Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 300 en la edición publicada de 2026. La moneda figura con el signo $. Tarifa de la próxima convocatoria desconocida.
+Acceso: Confirmar edad, horario, idioma y acceso de visitantes para el grupo concreto.
+Limitaciones: Introducción remota a Python. Se requiere ordenador y Zoom. No se exigía experiencia previa.
+Fuente: https://innovate.wepala.com/event-details/4/easter-camp-python/
+Se ha comprobado: 2026-11-07
+
+### L673 · Wepala Innovation Centre · Team X · FIRST LEGO League
+
+lugar: Trinidad y Tobago · Wepala Innovation Centre · Tunapuna
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Confirmar la edad en las reglas de la sesión concreta.
+Matvey: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión.
+Oscar: Confirmar el curso escolar local. La edad por sí sola no acredita la admisión.
+Formato: regular
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Precio sin publicar.
+Acceso: El club Team X se prepara para FIRST LEGO League. El proveedor cita resultados del torneo local de 2024. Confirmar convocatoria, edad y equipo oficial.
+Limitaciones: El club Team X se prepara para FIRST LEGO League. El proveedor cita resultados del torneo local de 2024. Confirmar convocatoria, edad y equipo oficial.
+Fuente: https://innovate.wepala.com/competition
+Se ha comprobado: 2026-11-07
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -71140,6 +71364,70 @@ Precio: 2026/27 · 125 XCG por curso y menor. · suplementos y condiciones en el
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Edad adecuada. Confirmar plaza e idioma de la actividad. Oscar: Por ahora no alcanza la edad mínima. Suplementos: Las opciones adicionales se pagan por separado. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.
 Fuente: https://brightclub.info/courses/117
+Se ha comprobado: 2026-11-07
+
+### CP1840-20261221-20261224-week-21 · Blueinno Christmas · Junior Robot Builder · Blueinno Christmas · Junior Robot Builder · 2026-12-21–2026-12-24
+
+lugar: RAE de Hong Kong (China) · Room 906, Summit Insurance Building · 789 Nathan Road · Prince Edward · Kowloon
+Fecha: 2026-12-21 - 2026-12-24
+edad: 6–8 años. Nivel inicial.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Inglés como idioma de enseñanza según la ficha del curso.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · 3 500 HKD por curso y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Supera la edad máxima del grupo. Oscar: Edad adecuada según la ficha del curso. Confirmar disponibilidad de plaza. Suplementos: Se requiere portátil con cargador. Confirmar condiciones de pago y devolución. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.
+Fuente: https://blueinnotechnology.com/introduction-stem/
+Se ha comprobado: 2026-11-07
+
+### CP1841-20261221-20261224-week-21 · Blueinno Christmas · AI Innovation · Blueinno Christmas · AI Innovation · 2026-12-21–2026-12-24
+
+lugar: RAE de Hong Kong (China) · Room 906, Summit Insurance Building · 789 Nathan Road · Prince Edward · Kowloon
+Fecha: 2026-12-21 - 2026-12-24
+edad: 9–11 años. Nivel inicial.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Inglés como idioma de enseñanza según la ficha del curso.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · 3 500 HKD por curso y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según la ficha del curso. Confirmar disponibilidad de plaza. Oscar: Por ahora no alcanza la edad mínima. Suplementos: Se requiere portátil con cargador. Confirmar condiciones de pago y devolución. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.
+Fuente: https://blueinnotechnology.com/future-tech/
+Se ha comprobado: 2026-11-07
+
+### CP1841-20261228-20261231-week-28 · Blueinno Christmas · AI Innovation · Blueinno Christmas · AI Innovation · 2026-12-28–2026-12-31
+
+lugar: RAE de Hong Kong (China) · Room 906, Summit Insurance Building · 789 Nathan Road · Prince Edward · Kowloon
+Fecha: 2026-12-28 - 2026-12-31
+edad: 9–11 años. Nivel inicial.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Inglés como idioma de enseñanza según la ficha del curso.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · 3 500 HKD por curso y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según la ficha del curso. Confirmar disponibilidad de plaza. Oscar: Por ahora no alcanza la edad mínima. Suplementos: Se requiere portátil con cargador. Confirmar condiciones de pago y devolución. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.
+Fuente: https://blueinnotechnology.com/future-tech/
+Se ha comprobado: 2026-11-07
+
+### CP1842-20261228-20261231-week-28 · Blueinno Christmas · 3D Inventions · Blueinno Christmas · 3D Inventions · 2026-12-28–2026-12-31
+
+lugar: RAE de Hong Kong (China) · Room 906, Summit Insurance Building · 789 Nathan Road · Prince Edward · Kowloon
+Fecha: 2026-12-28 - 2026-12-31
+edad: 9–11 años en la página del campamento, 10–13 años en la ficha del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Inglés como idioma de enseñanza según la ficha del curso.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · 3 500 HKD por curso y menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. En la página del campamento 9–11 años. En la ficha del curso 10–13 años. Confirmar admisión con 9 años. Oscar: Por ahora no alcanza la edad mínima. Suplementos: Se requiere portátil con cargador. Confirmar condiciones de pago y devolución. Pago: Confirmar el importe final y las condiciones de reembolso antes de pagar.
+Fuente: https://blueinnotechnology.com/3d-inventions/
 Se ha comprobado: 2026-11-07
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
