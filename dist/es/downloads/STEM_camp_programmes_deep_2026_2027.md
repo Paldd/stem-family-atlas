@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-07. 1722 fichas en 99 países y territorios. Cada ficha incluye las fechas de verificación de sus fuentes.
+Estado de la base: 2026-11-07. 1731 fichas en 99 países y territorios. Cada ficha incluye las fechas de verificación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -134775,6 +134775,982 @@ Egipto · Clases en directo en línea desde casa.
 - [Página oficial del organizador](https://ischool.ai/students) · 2026-11-07
 
 - [Página oficial del organizador](https://ischooltech.webflow.io/) · 2026-11-07
+
+## CP1723 · TechLab Kids Sarrià · Navidad · Kids
+
+España · TechLab Kids Sarrià · Via Augusta 318 · Barcelona
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 6 años y 8 años
+
+**Idioma:** Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.
+
+**Programa:** El grupo menor construye y programa un robot. El tema del turno es crear una mascota.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Tres bloques de la tabla y de la lista de inscripción. El encabezado general indica otro intervalo. Confirmar las fechas disponibles para asistir un solo día.
+
+**Precio / año:** 2026 · Por 3 días EUR 120 / 150 / 190. Por 2 días EUR 80 / 100 / 127. Día suelto EUR 45 / 57 / 72. Precios en orden hasta las 13:00, 14:00 y 16:00.
+
+**Incluido:** Materiales incluidos. Las modalidades hasta las 14:00 y 16:00 incluyen comida. El horario ofrece acogida gratuita desde las 08:45.
+
+**Suplementos:** Confirmar plaza en cada grupo de edad, idioma, descuentos y condiciones de reembolso.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Edad y fechas publicadas. Confirmar dos plazas, idioma del grupo y condiciones de cancelación.
+
+### Kids · 09:00–13:00
+
+**Fechas / estado:** 2026-12-21 — 2026-12-23
+
+**lugar:** TechLab Kids Sarrià · Via Augusta 318 · Barcelona
+
+**edad:** 6 años y 8 años
+
+**Precio:** EUR 120 por 3 días, 09:00–13:00.
+
+- 2026-12-21 · 09:00–13:00 · Europe/Madrid · El grupo menor construye y programa un robot. El tema del turno es crear una mascota.
+
+- 2026-12-22 · 09:00–13:00 · Europe/Madrid · El grupo menor construye y programa un robot. El tema del turno es crear una mascota.
+
+- 2026-12-23 · 09:00–13:00 · Europe/Madrid · El grupo menor construye y programa un robot. El tema del turno es crear una mascota.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://techlabkids.com/campamentos/casal-de-navidad/)
+
+### Kids · 09:00–14:00
+
+**Fechas / estado:** 2026-12-21 — 2026-12-23
+
+**lugar:** TechLab Kids Sarrià · Via Augusta 318 · Barcelona
+
+**edad:** 6 años y 8 años
+
+**Precio:** EUR 150 por 3 días, 09:00–14:00.
+
+- 2026-12-21 · 09:00–14:00 · Europe/Madrid · El grupo menor construye y programa un robot. El tema del turno es crear una mascota.
+
+- 2026-12-22 · 09:00–14:00 · Europe/Madrid · El grupo menor construye y programa un robot. El tema del turno es crear una mascota.
+
+- 2026-12-23 · 09:00–14:00 · Europe/Madrid · El grupo menor construye y programa un robot. El tema del turno es crear una mascota.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://techlabkids.com/campamentos/casal-de-navidad/)
+
+### Kids · 09:00–16:00
+
+**Fechas / estado:** 2026-12-21 — 2026-12-23
+
+**lugar:** TechLab Kids Sarrià · Via Augusta 318 · Barcelona
+
+**edad:** 6 años y 8 años
+
+**Precio:** EUR 190 por 3 días, 09:00–16:00.
+
+- 2026-12-21 · 09:00–16:00 · Europe/Madrid · El grupo menor construye y programa un robot. El tema del turno es crear una mascota.
+
+- 2026-12-22 · 09:00–16:00 · Europe/Madrid · El grupo menor construye y programa un robot. El tema del turno es crear una mascota.
+
+- 2026-12-23 · 09:00–16:00 · Europe/Madrid · El grupo menor construye y programa un robot. El tema del turno es crear una mascota.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://techlabkids.com/campamentos/casal-de-navidad/)
+
+### Kids · 09:00–13:00
+
+**Fechas / estado:** 2026-12-28 — 2026-12-30
+
+**lugar:** TechLab Kids Sarrià · Via Augusta 318 · Barcelona
+
+**edad:** 6 años y 8 años
+
+**Precio:** EUR 120 por 3 días, 09:00–13:00.
+
+- 2026-12-28 · 09:00–13:00 · Europe/Madrid · El grupo menor construye y programa un robot. El tema del turno es crear una mascota.
+
+- 2026-12-29 · 09:00–13:00 · Europe/Madrid · El grupo menor construye y programa un robot. El tema del turno es crear una mascota.
+
+- 2026-12-30 · 09:00–13:00 · Europe/Madrid · El grupo menor construye y programa un robot. El tema del turno es crear una mascota.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://techlabkids.com/campamentos/casal-de-navidad/)
+
+### Kids · 09:00–14:00
+
+**Fechas / estado:** 2026-12-28 — 2026-12-30
+
+**lugar:** TechLab Kids Sarrià · Via Augusta 318 · Barcelona
+
+**edad:** 6 años y 8 años
+
+**Precio:** EUR 150 por 3 días, 09:00–14:00.
+
+- 2026-12-28 · 09:00–14:00 · Europe/Madrid · El grupo menor construye y programa un robot. El tema del turno es crear una mascota.
+
+- 2026-12-29 · 09:00–14:00 · Europe/Madrid · El grupo menor construye y programa un robot. El tema del turno es crear una mascota.
+
+- 2026-12-30 · 09:00–14:00 · Europe/Madrid · El grupo menor construye y programa un robot. El tema del turno es crear una mascota.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://techlabkids.com/campamentos/casal-de-navidad/)
+
+### Kids · 09:00–16:00
+
+**Fechas / estado:** 2026-12-28 — 2026-12-30
+
+**lugar:** TechLab Kids Sarrià · Via Augusta 318 · Barcelona
+
+**edad:** 6 años y 8 años
+
+**Precio:** EUR 190 por 3 días, 09:00–16:00.
+
+- 2026-12-28 · 09:00–16:00 · Europe/Madrid · El grupo menor construye y programa un robot. El tema del turno es crear una mascota.
+
+- 2026-12-29 · 09:00–16:00 · Europe/Madrid · El grupo menor construye y programa un robot. El tema del turno es crear una mascota.
+
+- 2026-12-30 · 09:00–16:00 · Europe/Madrid · El grupo menor construye y programa un robot. El tema del turno es crear una mascota.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://techlabkids.com/campamentos/casal-de-navidad/)
+
+### Kids · 09:00–13:00
+
+**Fechas / estado:** 2027-01-04 — 2027-01-05
+
+**lugar:** TechLab Kids Sarrià · Via Augusta 318 · Barcelona
+
+**edad:** 6 años y 8 años
+
+**Precio:** EUR 80 por 2 días, 09:00–13:00.
+
+- 2027-01-04 · 09:00–13:00 · Europe/Madrid · El grupo menor construye y programa un robot. El tema del turno es crear una mascota.
+
+- 2027-01-05 · 09:00–13:00 · Europe/Madrid · El grupo menor construye y programa un robot. El tema del turno es crear una mascota.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://techlabkids.com/campamentos/casal-de-navidad/)
+
+### Kids · 09:00–14:00
+
+**Fechas / estado:** 2027-01-04 — 2027-01-05
+
+**lugar:** TechLab Kids Sarrià · Via Augusta 318 · Barcelona
+
+**edad:** 6 años y 8 años
+
+**Precio:** EUR 100 por 2 días, 09:00–14:00.
+
+- 2027-01-04 · 09:00–14:00 · Europe/Madrid · El grupo menor construye y programa un robot. El tema del turno es crear una mascota.
+
+- 2027-01-05 · 09:00–14:00 · Europe/Madrid · El grupo menor construye y programa un robot. El tema del turno es crear una mascota.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://techlabkids.com/campamentos/casal-de-navidad/)
+
+### Kids · 09:00–16:00
+
+**Fechas / estado:** 2027-01-04 — 2027-01-05
+
+**lugar:** TechLab Kids Sarrià · Via Augusta 318 · Barcelona
+
+**edad:** 6 años y 8 años
+
+**Precio:** EUR 127 por 2 días, 09:00–16:00.
+
+- 2027-01-04 · 09:00–16:00 · Europe/Madrid · El grupo menor construye y programa un robot. El tema del turno es crear una mascota.
+
+- 2027-01-05 · 09:00–16:00 · Europe/Madrid · El grupo menor construye y programa un robot. El tema del turno es crear una mascota.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://techlabkids.com/campamentos/casal-de-navidad/)
+
+### Fuentes
+
+- [Página oficial del organizador](https://techlabkids.com/campamentos/casal-de-navidad/) · 2026-11-07
+
+- [Página oficial del organizador](https://techlabkids.com/campamentos/) · 2026-11-07
+
+## CP1724 · TechLab Kids Sarrià · Navidad · Junior
+
+España · TechLab Kids Sarrià · Via Augusta 318 · Barcelona
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 9–14 años
+
+**Idioma:** Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.
+
+**Programa:** El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Tres bloques de la tabla y de la lista de inscripción. El encabezado general indica otro intervalo. Confirmar las fechas disponibles para asistir un solo día.
+
+**Precio / año:** 2026 · Por 3 días EUR 120 / 150 / 190. Por 2 días EUR 80 / 100 / 127. Día suelto EUR 45 / 57 / 72. Precios en orden hasta las 13:00, 14:00 y 16:00.
+
+**Incluido:** Materiales incluidos. Las modalidades hasta las 14:00 y 16:00 incluyen comida. El horario ofrece acogida gratuita desde las 08:45.
+
+**Suplementos:** Confirmar plaza en cada grupo de edad, idioma, descuentos y condiciones de reembolso.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Sí por edad. Confirmar plaza y condiciones de participación.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Edad y fechas publicadas. Confirmar dos plazas, idioma del grupo y condiciones de cancelación.
+
+### Junior · 09:00–13:00
+
+**Fechas / estado:** 2026-12-21 — 2026-12-23
+
+**lugar:** TechLab Kids Sarrià · Via Augusta 318 · Barcelona
+
+**edad:** 9–14 años
+
+**Precio:** EUR 120 por 3 días, 09:00–13:00.
+
+- 2026-12-21 · 09:00–13:00 · Europe/Madrid · El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.
+
+- 2026-12-22 · 09:00–13:00 · Europe/Madrid · El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.
+
+- 2026-12-23 · 09:00–13:00 · Europe/Madrid · El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Sí por edad. Confirmar plaza y condiciones de participación.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+[fuente](https://techlabkids.com/campamentos/casal-de-navidad/)
+
+### Junior · 09:00–14:00
+
+**Fechas / estado:** 2026-12-21 — 2026-12-23
+
+**lugar:** TechLab Kids Sarrià · Via Augusta 318 · Barcelona
+
+**edad:** 9–14 años
+
+**Precio:** EUR 150 por 3 días, 09:00–14:00.
+
+- 2026-12-21 · 09:00–14:00 · Europe/Madrid · El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.
+
+- 2026-12-22 · 09:00–14:00 · Europe/Madrid · El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.
+
+- 2026-12-23 · 09:00–14:00 · Europe/Madrid · El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Sí por edad. Confirmar plaza y condiciones de participación.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+[fuente](https://techlabkids.com/campamentos/casal-de-navidad/)
+
+### Junior · 09:00–16:00
+
+**Fechas / estado:** 2026-12-21 — 2026-12-23
+
+**lugar:** TechLab Kids Sarrià · Via Augusta 318 · Barcelona
+
+**edad:** 9–14 años
+
+**Precio:** EUR 190 por 3 días, 09:00–16:00.
+
+- 2026-12-21 · 09:00–16:00 · Europe/Madrid · El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.
+
+- 2026-12-22 · 09:00–16:00 · Europe/Madrid · El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.
+
+- 2026-12-23 · 09:00–16:00 · Europe/Madrid · El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Sí por edad. Confirmar plaza y condiciones de participación.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+[fuente](https://techlabkids.com/campamentos/casal-de-navidad/)
+
+### Junior · 09:00–13:00
+
+**Fechas / estado:** 2026-12-28 — 2026-12-30
+
+**lugar:** TechLab Kids Sarrià · Via Augusta 318 · Barcelona
+
+**edad:** 9–14 años
+
+**Precio:** EUR 120 por 3 días, 09:00–13:00.
+
+- 2026-12-28 · 09:00–13:00 · Europe/Madrid · El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.
+
+- 2026-12-29 · 09:00–13:00 · Europe/Madrid · El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.
+
+- 2026-12-30 · 09:00–13:00 · Europe/Madrid · El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Sí por edad. Confirmar plaza y condiciones de participación.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+[fuente](https://techlabkids.com/campamentos/casal-de-navidad/)
+
+### Junior · 09:00–14:00
+
+**Fechas / estado:** 2026-12-28 — 2026-12-30
+
+**lugar:** TechLab Kids Sarrià · Via Augusta 318 · Barcelona
+
+**edad:** 9–14 años
+
+**Precio:** EUR 150 por 3 días, 09:00–14:00.
+
+- 2026-12-28 · 09:00–14:00 · Europe/Madrid · El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.
+
+- 2026-12-29 · 09:00–14:00 · Europe/Madrid · El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.
+
+- 2026-12-30 · 09:00–14:00 · Europe/Madrid · El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Sí por edad. Confirmar plaza y condiciones de participación.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+[fuente](https://techlabkids.com/campamentos/casal-de-navidad/)
+
+### Junior · 09:00–16:00
+
+**Fechas / estado:** 2026-12-28 — 2026-12-30
+
+**lugar:** TechLab Kids Sarrià · Via Augusta 318 · Barcelona
+
+**edad:** 9–14 años
+
+**Precio:** EUR 190 por 3 días, 09:00–16:00.
+
+- 2026-12-28 · 09:00–16:00 · Europe/Madrid · El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.
+
+- 2026-12-29 · 09:00–16:00 · Europe/Madrid · El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.
+
+- 2026-12-30 · 09:00–16:00 · Europe/Madrid · El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Sí por edad. Confirmar plaza y condiciones de participación.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+[fuente](https://techlabkids.com/campamentos/casal-de-navidad/)
+
+### Junior · 09:00–13:00
+
+**Fechas / estado:** 2027-01-04 — 2027-01-05
+
+**lugar:** TechLab Kids Sarrià · Via Augusta 318 · Barcelona
+
+**edad:** 9–14 años
+
+**Precio:** EUR 80 por 2 días, 09:00–13:00.
+
+- 2027-01-04 · 09:00–13:00 · Europe/Madrid · El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.
+
+- 2027-01-05 · 09:00–13:00 · Europe/Madrid · El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Sí por edad. Confirmar plaza y condiciones de participación.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+[fuente](https://techlabkids.com/campamentos/casal-de-navidad/)
+
+### Junior · 09:00–14:00
+
+**Fechas / estado:** 2027-01-04 — 2027-01-05
+
+**lugar:** TechLab Kids Sarrià · Via Augusta 318 · Barcelona
+
+**edad:** 9–14 años
+
+**Precio:** EUR 100 por 2 días, 09:00–14:00.
+
+- 2027-01-04 · 09:00–14:00 · Europe/Madrid · El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.
+
+- 2027-01-05 · 09:00–14:00 · Europe/Madrid · El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Sí por edad. Confirmar plaza y condiciones de participación.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+[fuente](https://techlabkids.com/campamentos/casal-de-navidad/)
+
+### Junior · 09:00–16:00
+
+**Fechas / estado:** 2027-01-04 — 2027-01-05
+
+**lugar:** TechLab Kids Sarrià · Via Augusta 318 · Barcelona
+
+**edad:** 9–14 años
+
+**Precio:** EUR 127 por 2 días, 09:00–16:00.
+
+- 2027-01-04 · 09:00–16:00 · Europe/Madrid · El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.
+
+- 2027-01-05 · 09:00–16:00 · Europe/Madrid · El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Sí por edad. Confirmar plaza y condiciones de participación.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+[fuente](https://techlabkids.com/campamentos/casal-de-navidad/)
+
+### Fuentes
+
+- [Página oficial del organizador](https://techlabkids.com/campamentos/casal-de-navidad/) · 2026-11-07
+
+- [Página oficial del organizador](https://techlabkids.com/campamentos/) · 2026-11-07
+
+## CP1725 · La Fábrica de Luz · Inventos y artilugios
+
+España · La Fábrica de Luz · Museo de la Energía · Ponferrada
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 6–16 años
+
+**Idioma:** Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.
+
+**Programa:** Experimentos, retos de ingeniería mediante el juego y creación de inventos propios.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Días lectivos según calendario del organizador.
+
+**Precio / año:** 2026 · EUR 30 por 3 días o EUR 12 por un día suelto.
+
+**Incluido:** Taller diurno.
+
+**Suplementos:** Posible llegada anticipada desde las 09:00. Precio de la acogida, comida y materiales sin detalle separado.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Sí por edad. Confirmar plaza y condiciones de participación.
+
+**Oscar:** Sí por edad. Confirmar plaza y condiciones de participación.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Edad y fechas publicadas. Confirmar dos plazas, idioma del grupo y condiciones de cancelación.
+
+### Inventos y artilugios
+
+**Fechas / estado:** 2026-12-28 — 2026-12-30
+
+**lugar:** La Fábrica de Luz · Museo de la Energía · Ponferrada
+
+**edad:** 6–16 años
+
+**Precio:** EUR 30 por 3 días o EUR 12 por un día suelto.
+
+- 2026-12-28 · 10:00–14:00 · Europe/Madrid · Experimentos, retos de ingeniería mediante el juego y creación de inventos propios.
+
+- 2026-12-29 · 10:00–14:00 · Europe/Madrid · Experimentos, retos de ingeniería mediante el juego y creación de inventos propios.
+
+- 2026-12-30 · 10:00–14:00 · Europe/Madrid · Experimentos, retos de ingeniería mediante el juego y creación de inventos propios.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Sí por edad. Confirmar plaza y condiciones de participación.
+
+**Oscar:** Sí por edad. Confirmar plaza y condiciones de participación.
+
+[fuente](https://lafabricadeluz.org/agenda/campamento-navidad-inventos-artilugios-y-juegos-en-navidad/)
+
+### Fuentes
+
+- [Página oficial del organizador](https://lafabricadeluz.org/agenda/campamento-navidad-inventos-artilugios-y-juegos-en-navidad/) · 2026-11-07
+
+## CP1726 · CBS Outdoor Adventures · Christmas Camp
+
+España · CBS The British School of Seville · Bollullos de la Mitación
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 5–12 años
+
+**Idioma:** El organizador confirma la inmersión completa en inglés.
+
+**Programa:** Talleres de invierno, experimentos científicos, juegos cooperativos, escape room y cocina navideña.
+
+**Alojamiento:** Una noche en el recinto escolar en habitación con literas. Pensión completa.
+
+**Fechas / estado:** Llegada el 19 de diciembre de 2026 a las 10:00, salida el 20 de diciembre de 2026 a las 17:00. Una noche.
+
+**Precio / año:** 2026 · EUR 80 por niño por todo el campamento.
+
+**Incluido:** Dos días de actividades, una noche y pensión completa.
+
+**Suplementos:** Para grupos de 5 niños o más se puede consultar descuento. Confirmar traslado y condiciones de cancelación.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Sí por edad. Confirmar plaza y condiciones de participación.
+
+**Oscar:** Sí por edad. Confirmar plaza y condiciones de participación.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Edad y fechas publicadas. Confirmar dos plazas, idioma del grupo y condiciones de cancelación.
+
+### CBS Christmas Camp
+
+**Fechas / estado:** 2026-12-19 — 2026-12-20
+
+**lugar:** CBS The British School of Seville · Bollullos de la Mitación
+
+**edad:** 5–12 años
+
+**Precio:** EUR 80 por niño por todo el campamento.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Sí por edad. Confirmar plaza y condiciones de participación.
+
+**Oscar:** Sí por edad. Confirmar plaza y condiciones de participación.
+
+[fuente](https://cbssummercamp.eu/cbs-christmas-camp/)
+
+### Fuentes
+
+- [Página oficial del organizador](https://cbssummercamp.eu/cbs-christmas-camp/) · 2026-11-07
+
+## CP1727 · European International School of Barcelona · Winter Camp
+
+España · EISB · Av. Pla del Vinyet 110 · Sant Cugat del Vallès
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Infant School y Primary. Confirmar nivel escolar exacto y admisión de alumnado externo.
+
+**Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar.
+
+**Programa:** Campamento navideño diurno con talleres, juegos, natación y deporte.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Fechas pendientes. La ficha da diciembre de 2026 como referencia de inscripción, sin día exacto.
+
+**Precio / año:** sin establecer · Se publican EUR 55 / 140 / 260 por 1 / 3 / 6 días cortos y EUR 70 / 190 / 360 por 1 / 3 / 6 días completos. Confirmar tarifa para la nueva edición.
+
+**Incluido:** Modalidades de 09:00–13:00 y 09:00–17:00. Confirmar comida y cuidado para la tarifa elegida.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Condicional. Comprobar nivel escolar equivalente y admisión desde otra escuela.
+
+**Oscar:** Condicional. Comprobar nivel escolar equivalente y admisión desde otra escuela.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Fuentes
+
+- [Página oficial del organizador](https://eisbarcelona.com/en/winter-camp/) · 2026-11-07
+
+## CP1728 · Respira Ocio · Urban Tech Navidad
+
+España · Madrid · venue TBA
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Como referencia inicial, 6–12 años en Primaria. Confirmar categoría concreta.
+
+**Idioma:** Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.
+
+**Programa:** Robótica, programación, impresión 3D, creación de juegos y aplicaciones. Modalidad diurna.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** El operador indica la temporada Navidad 2026–2027. Sedes, fechas y tarifa del grupo tecnológico pendientes.
+
+**Cabe/año:** no se ha fijado el precio.
+
+**Incluido:** Precio sin publicar.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Edad y fechas publicadas. Confirmar dos plazas, idioma del grupo y condiciones de cancelación.
+
+**Oscar:** Edad y fechas publicadas. Confirmar dos plazas, idioma del grupo y condiciones de cancelación.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Fuentes
+
+- [Página oficial del organizador](https://respiraocio.com/campamentos-urbanos/campamentos-urbanos-tecnologicos/) · 2026-11-07
+
+## CP1729 · CBS Outdoor Adventures · Science Camp
+
+España · CBS The British School of Seville · Bollullos de la Mitación
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 5–12 años
+
+**Idioma:** Se usa el inglés en juegos, instrucciones y comunicación con monitores. El organizador admite alumnado de otras escuelas.
+
+**Programa:** Turno científico con alojamiento. Experimentos concretos y plan de la nueva edición pendientes.
+
+**Alojamiento:** Alojamiento en el campamento. Duración y número de noches indicados en cada turno.
+
+**Fechas / estado:** 22–24 de marzo de 2027. Tres días y dos noches según el calendario vigente. Confirmar horas de llegada y salida.
+
+**Precio / año:** 2027 · Science Camp · EUR 160 por niño · noches 2
+
+**Incluido:** Actividades, alojamiento y comidas del programa.
+
+**Suplementos:** Para grupos de 5 niños o más se puede consultar descuento. Confirmar traslado y condiciones de cancelación.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Sí por edad. Confirmar plaza y condiciones de participación.
+
+**Oscar:** Sí por edad. Confirmar plaza y condiciones de participación.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Science Camp · EUR 160 por niño · noches 2
+
+**Fechas / estado:** 2027-03-22 — 2027-03-24
+
+**lugar:** CBS The British School of Seville · Bollullos de la Mitación
+
+**edad:** 5–12 años
+
+**Precio:** Science Camp · EUR 160 por niño · noches 2
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Sí por edad. Confirmar plaza y condiciones de participación.
+
+**Oscar:** Sí por edad. Confirmar plaza y condiciones de participación.
+
+[fuente](https://cbssummercamp.eu/cbs-outdoor-adventures/)
+
+### Fuentes
+
+- [Página oficial del organizador](https://cbssummercamp.eu/cbs-outdoor-adventures/) · 2026-11-07
+
+- [Página oficial del organizador](https://cbssummercamp.eu/noticias/mini-campamentos-ingles-sevilla-outdoor-adventures-2026-2027/) · 2026-11-07
+
+## CP1730 · CBS Outdoor Adventures · Harry Potter Camp
+
+España · CBS The British School of Seville · Bollullos de la Mitación
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 5–12 años
+
+**Idioma:** Se usa el inglés en juegos, instrucciones y comunicación con monitores. El organizador admite alumnado de otras escuelas.
+
+**Programa:** Juegos de rol, retos de equipo, talleres y velada temática.
+
+**Alojamiento:** Alojamiento en el campamento. Duración y número de noches indicados en cada turno.
+
+**Fechas / estado:** Llegada el 21 de noviembre de 2026 a las 10:00, salida el 22 de noviembre de 2026 a las 17:00. Una noche.
+
+**Precio / año:** 2026 · Harry Potter Camp · EUR 80 por niño · noches 1
+
+**Incluido:** Actividades, alojamiento y comidas del programa.
+
+**Suplementos:** Para grupos de 5 niños o más se puede consultar descuento. Confirmar traslado y condiciones de cancelación.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Sí por edad. Confirmar plaza y condiciones de participación.
+
+**Oscar:** Sí por edad. Confirmar plaza y condiciones de participación.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Harry Potter Camp · EUR 80 por niño · noches 1
+
+**Fechas / estado:** 2026-11-21 — 2026-11-22
+
+**lugar:** CBS The British School of Seville · Bollullos de la Mitación
+
+**edad:** 5–12 años
+
+**Precio:** Harry Potter Camp · EUR 80 por niño · noches 1
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Sí por edad. Confirmar plaza y condiciones de participación.
+
+**Oscar:** Sí por edad. Confirmar plaza y condiciones de participación.
+
+[fuente](https://cbssummercamp.eu/cbs-harry-potter-camp/)
+
+### Fuentes
+
+- [Página oficial del organizador](https://cbssummercamp.eu/cbs-harry-potter-camp/) · 2026-11-07
+
+- [Página oficial del organizador](https://cbssummercamp.eu/noticias/mini-campamentos-ingles-sevilla-outdoor-adventures-2026-2027/) · 2026-11-07
+
+## CP1731 · CBS Outdoor Adventures · Mini Camps
+
+España · CBS The British School of Seville · Bollullos de la Mitación
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 5–12 años
+
+**Idioma:** Se usa el inglés en juegos, instrucciones y comunicación con monitores. El organizador admite alumnado de otras escuelas.
+
+**Programa:** Turnos temáticos breves en inglés. Incluyen arte, juegos en la naturaleza, cocina y baile.
+
+**Alojamiento:** Alojamiento en el campamento. Duración y número de noches indicados en cada turno.
+
+**Fechas / estado:** Calendario de turnos publicado. Confirmar horas de llegada y salida del turno concreto.
+
+**Precio / año:** 2027 · EUR 80 por 2 días o EUR 240 por 4 días. La tarifa figura en cada turno.
+
+**Incluido:** Actividades, alojamiento y comidas del programa.
+
+**Suplementos:** Para grupos de 5 niños o más se puede consultar descuento. Confirmar traslado y condiciones de cancelación.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Sí por edad. Confirmar plaza y condiciones de participación.
+
+**Oscar:** Sí por edad. Confirmar plaza y condiciones de participación.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### CBS Neon Splash Camp · EUR 80 por niño · noches 1
+
+**Fechas / estado:** 2027-02-13 — 2027-02-14
+
+**lugar:** CBS The British School of Seville · Bollullos de la Mitación
+
+**edad:** 5–12 años
+
+**Precio:** CBS Neon Splash Camp · EUR 80 por niño · noches 1
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Sí por edad. Confirmar plaza y condiciones de participación.
+
+**Oscar:** Sí por edad. Confirmar plaza y condiciones de participación.
+
+[fuente](https://cbssummercamp.eu/cbs-outdoor-adventures/)
+
+### ARTVenture Camp · EUR 80 por niño · noches 1
+
+**Fechas / estado:** 2027-03-13 — 2027-03-14
+
+**lugar:** CBS The British School of Seville · Bollullos de la Mitación
+
+**edad:** 5–12 años
+
+**Precio:** ARTVenture Camp · EUR 80 por niño · noches 1
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Sí por edad. Confirmar plaza y condiciones de participación.
+
+**Oscar:** Sí por edad. Confirmar plaza y condiciones de participación.
+
+[fuente](https://cbssummercamp.eu/cbs-outdoor-adventures/)
+
+### Feria Camp · EUR 240 por niño · noches 3
+
+**Fechas / estado:** 2027-04-13 — 2027-04-16
+
+**lugar:** CBS The British School of Seville · Bollullos de la Mitación
+
+**edad:** 5–12 años
+
+**Precio:** Feria Camp · EUR 240 por niño · noches 3
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Sí por edad. Confirmar plaza y condiciones de participación.
+
+**Oscar:** Sí por edad. Confirmar plaza y condiciones de participación.
+
+[fuente](https://cbssummercamp.eu/cbs-outdoor-adventures/)
+
+### The Pirate Legends Camp · EUR 80 por niño · noches 1
+
+**Fechas / estado:** 2027-05-08 — 2027-05-09
+
+**lugar:** CBS The British School of Seville · Bollullos de la Mitación
+
+**edad:** 5–12 años
+
+**Precio:** The Pirate Legends Camp · EUR 80 por niño · noches 1
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Sí por edad. Confirmar plaza y condiciones de participación.
+
+**Oscar:** Sí por edad. Confirmar plaza y condiciones de participación.
+
+[fuente](https://cbssummercamp.eu/cbs-outdoor-adventures/)
+
+### Step Up Camp · EUR 80 por niño · noches 1
+
+**Fechas / estado:** 2027-05-22 — 2027-05-23
+
+**lugar:** CBS The British School of Seville · Bollullos de la Mitación
+
+**edad:** 5–12 años
+
+**Precio:** Step Up Camp · EUR 80 por niño · noches 1
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Sí por edad. Confirmar plaza y condiciones de participación.
+
+**Oscar:** Sí por edad. Confirmar plaza y condiciones de participación.
+
+[fuente](https://cbssummercamp.eu/cbs-outdoor-adventures/)
+
+### Chef Camp · EUR 80 por niño · noches 1
+
+**Fechas / estado:** 2027-06-05 — 2027-06-06
+
+**lugar:** CBS The British School of Seville · Bollullos de la Mitación
+
+**edad:** 5–12 años
+
+**Precio:** Chef Camp · EUR 80 por niño · noches 1
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Sí por edad. Confirmar plaza y condiciones de participación.
+
+**Oscar:** Sí por edad. Confirmar plaza y condiciones de participación.
+
+[fuente](https://cbssummercamp.eu/cbs-outdoor-adventures/)
+
+### End of Year Camp · EUR 240 por niño · noches 3
+
+**Fechas / estado:** 2027-06-24 — 2027-06-27
+
+**lugar:** CBS The British School of Seville · Bollullos de la Mitación
+
+**edad:** 5–12 años
+
+**Precio:** End of Year Camp · EUR 240 por niño · noches 3
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Sí por edad. Confirmar plaza y condiciones de participación.
+
+**Oscar:** Sí por edad. Confirmar plaza y condiciones de participación.
+
+[fuente](https://cbssummercamp.eu/cbs-outdoor-adventures/)
+
+### Fuentes
+
+- [Página oficial del organizador](https://cbssummercamp.eu/cbs-outdoor-adventures/) · 2026-11-07
+
+- [Página oficial del organizador](https://cbssummercamp.eu/noticias/mini-campamentos-ingles-sevilla-outdoor-adventures-2026-2027/) · 2026-11-07
 
 ## ~ Comprobaciones no cerradas
 

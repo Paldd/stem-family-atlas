@@ -30,14 +30,14 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1722,
+    "dossiers": 1731,
     "countries": 99,
     "swiss": 137,
     "by_status": {
-      "published_2026_27": 247,
-      "published_2027": 485,
+      "published_2026_27": 252,
+      "published_2027": 487,
       "partial_2027": 134,
-      "next_unannounced": 350,
+      "next_unannounced": 352,
       "published_2026": 297,
       "partial_2026_27": 28,
       "partial_2026": 20,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2459
+    "source_urls": 2467
   },
   "countries": [
     {
@@ -185,7 +185,7 @@
     },
     {
       "country": "Испания",
-      "count": 114
+      "count": 123
     },
     {
       "country": "Италия",
@@ -250801,6 +250801,1926 @@
       },
       "programme_type": "online_course",
       "catalog_participation": "online_course"
+    },
+    {
+      "id": "CP1723",
+      "slug": "techlab-barcelona-navidad-2026-kids",
+      "provider": "TechLab Kids Sarrià · Navidad · Kids",
+      "country": "Испания",
+      "iso": "ESP",
+      "place": "TechLab Kids Sarrià · Via Augusta 318 · Barcelona",
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "science",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "6–8 лет",
+      "language": "Устный язык занятий уточнить. Испаноязычная страница программы не подтверждает язык преподавания.",
+      "confirmed_instruction_languages": [],
+      "programme": "Младшая группа конструирует и программирует робота. Тема смены — создание питомца.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Три блока из таблицы и списка записи. Общий заголовок страницы даёт другой диапазон. Список доступных дат для разового посещения уточнить.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-23"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-23"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-23"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-30"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-30"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-30"
+          ],
+          [
+            "2027-01-04",
+            "2027-01-05"
+          ],
+          [
+            "2027-01-04",
+            "2027-01-05"
+          ],
+          [
+            "2027-01-04",
+            "2027-01-05"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-23",
+            "label": "Kids · 09:00–13:00",
+            "source": "https://techlabkids.com/campamentos/casal-de-navidad/",
+            "price": "EUR 120 за 3 дней, 09:00–13:00.",
+            "place": "TechLab Kids Sarrià · Via Augusta 318 · Barcelona",
+            "age": "6–8 лет",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Нет по возрасту для младшей группы."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Условно, если к началу уже исполнилось 6 лет."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Младшая группа конструирует и программирует робота. Тема смены — создание питомца.",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "topic": "Младшая группа конструирует и программирует робота. Тема смены — создание питомца.",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "topic": "Младшая группа конструирует и программирует робота. Тема смены — создание питомца.",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "variant_key": "2026-12-21-13"
+          },
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-23",
+            "label": "Kids · 09:00–14:00",
+            "source": "https://techlabkids.com/campamentos/casal-de-navidad/",
+            "price": "EUR 150 за 3 дней, 09:00–14:00.",
+            "place": "TechLab Kids Sarrià · Via Augusta 318 · Barcelona",
+            "age": "6–8 лет",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Нет по возрасту для младшей группы."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Условно, если к началу уже исполнилось 6 лет."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Младшая группа конструирует и программирует робота. Тема смены — создание питомца.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "topic": "Младшая группа конструирует и программирует робота. Тема смены — создание питомца.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "topic": "Младшая группа конструирует и программирует робота. Тема смены — создание питомца.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "variant_key": "2026-12-21-14"
+          },
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-23",
+            "label": "Kids · 09:00–16:00",
+            "source": "https://techlabkids.com/campamentos/casal-de-navidad/",
+            "price": "EUR 190 за 3 дней, 09:00–16:00.",
+            "place": "TechLab Kids Sarrià · Via Augusta 318 · Barcelona",
+            "age": "6–8 лет",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Нет по возрасту для младшей группы."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Условно, если к началу уже исполнилось 6 лет."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Младшая группа конструирует и программирует робота. Тема смены — создание питомца.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "topic": "Младшая группа конструирует и программирует робота. Тема смены — создание питомца.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "topic": "Младшая группа конструирует и программирует робота. Тема смены — создание питомца.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "variant_key": "2026-12-21-16"
+          },
+          {
+            "start": "2026-12-28",
+            "end": "2026-12-30",
+            "label": "Kids · 09:00–13:00",
+            "source": "https://techlabkids.com/campamentos/casal-de-navidad/",
+            "price": "EUR 120 за 3 дней, 09:00–13:00.",
+            "place": "TechLab Kids Sarrià · Via Augusta 318 · Barcelona",
+            "age": "6–8 лет",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Нет по возрасту для младшей группы."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Условно, если к началу уже исполнилось 6 лет."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "topic": "Младшая группа конструирует и программирует робота. Тема смены — создание питомца.",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "topic": "Младшая группа конструирует и программирует робота. Тема смены — создание питомца.",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-30",
+                "topic": "Младшая группа конструирует и программирует робота. Тема смены — создание питомца.",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "variant_key": "2026-12-28-13"
+          },
+          {
+            "start": "2026-12-28",
+            "end": "2026-12-30",
+            "label": "Kids · 09:00–14:00",
+            "source": "https://techlabkids.com/campamentos/casal-de-navidad/",
+            "price": "EUR 150 за 3 дней, 09:00–14:00.",
+            "place": "TechLab Kids Sarrià · Via Augusta 318 · Barcelona",
+            "age": "6–8 лет",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Нет по возрасту для младшей группы."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Условно, если к началу уже исполнилось 6 лет."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "topic": "Младшая группа конструирует и программирует робота. Тема смены — создание питомца.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "topic": "Младшая группа конструирует и программирует робота. Тема смены — создание питомца.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-30",
+                "topic": "Младшая группа конструирует и программирует робота. Тема смены — создание питомца.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "variant_key": "2026-12-28-14"
+          },
+          {
+            "start": "2026-12-28",
+            "end": "2026-12-30",
+            "label": "Kids · 09:00–16:00",
+            "source": "https://techlabkids.com/campamentos/casal-de-navidad/",
+            "price": "EUR 190 за 3 дней, 09:00–16:00.",
+            "place": "TechLab Kids Sarrià · Via Augusta 318 · Barcelona",
+            "age": "6–8 лет",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Нет по возрасту для младшей группы."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Условно, если к началу уже исполнилось 6 лет."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "topic": "Младшая группа конструирует и программирует робота. Тема смены — создание питомца.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "topic": "Младшая группа конструирует и программирует робота. Тема смены — создание питомца.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-30",
+                "topic": "Младшая группа конструирует и программирует робота. Тема смены — создание питомца.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "variant_key": "2026-12-28-16"
+          },
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-05",
+            "label": "Kids · 09:00–13:00",
+            "source": "https://techlabkids.com/campamentos/casal-de-navidad/",
+            "price": "EUR 80 за 2 дней, 09:00–13:00.",
+            "place": "TechLab Kids Sarrià · Via Augusta 318 · Barcelona",
+            "age": "6–8 лет",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Нет по возрасту для младшей группы."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Условно, если к началу уже исполнилось 6 лет."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "topic": "Младшая группа конструирует и программирует робота. Тема смены — создание питомца.",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-05",
+                "topic": "Младшая группа конструирует и программирует робота. Тема смены — создание питомца.",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "variant_key": "2027-01-04-13"
+          },
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-05",
+            "label": "Kids · 09:00–14:00",
+            "source": "https://techlabkids.com/campamentos/casal-de-navidad/",
+            "price": "EUR 100 за 2 дней, 09:00–14:00.",
+            "place": "TechLab Kids Sarrià · Via Augusta 318 · Barcelona",
+            "age": "6–8 лет",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Нет по возрасту для младшей группы."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Условно, если к началу уже исполнилось 6 лет."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "topic": "Младшая группа конструирует и программирует робота. Тема смены — создание питомца.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-05",
+                "topic": "Младшая группа конструирует и программирует робота. Тема смены — создание питомца.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "variant_key": "2027-01-04-14"
+          },
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-05",
+            "label": "Kids · 09:00–16:00",
+            "source": "https://techlabkids.com/campamentos/casal-de-navidad/",
+            "price": "EUR 127 за 2 дней, 09:00–16:00.",
+            "place": "TechLab Kids Sarrià · Via Augusta 318 · Barcelona",
+            "age": "6–8 лет",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Нет по возрасту для младшей группы."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Условно, если к началу уже исполнилось 6 лет."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "topic": "Младшая группа конструирует и программирует робота. Тема смены — создание питомца.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-05",
+                "topic": "Младшая группа конструирует и программирует робота. Тема смены — создание питомца.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "variant_key": "2027-01-04-16"
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "currency": "EUR",
+        "label": "За 3 дня EUR 120 / 150 / 190. За 2 дня EUR 80 / 100 / 127. Разовый день EUR 45 / 57 / 72. Цены по порядку до 13:00, 14:00 и 16:00.",
+        "included": "Материалы включены. В режимах до 14:00 и 16:00 входит обед. В расписании есть бесплатный ранний приём с 08:45.",
+        "extras": "Уточнить наличие места в каждом возрастном треке, языковую группу, скидки и условия возврата.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Нет по возрасту для младшей группы."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно, если к началу уже исполнилось 6 лет."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Возраст и даты опубликованы. Подтвердить два места, языковую группу и условия отмены."
+      ],
+      "sources": [
+        {
+          "url": "https://techlabkids.com/campamentos/casal-de-navidad/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://techlabkids.com/campamentos/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "pairing": {
+        "venue_id": "esp-techlab-sarria-via-augusta-318",
+        "verified_source": "https://techlabkids.com/campamentos/casal-de-navidad/",
+        "checked": "2026-11-07"
+      }
+    },
+    {
+      "id": "CP1724",
+      "slug": "techlab-barcelona-navidad-2026-junior",
+      "provider": "TechLab Kids Sarrià · Navidad · Junior",
+      "country": "Испания",
+      "iso": "ESP",
+      "place": "TechLab Kids Sarrià · Via Augusta 318 · Barcelona",
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "science",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "9–14 лет",
+      "language": "Устный язык занятий уточнить. Испаноязычная страница программы не подтверждает язык преподавания.",
+      "confirmed_instruction_languages": [],
+      "programme": "Старшая группа делает проекты робототехники, программирования и цифрового дизайна. Тема смены — создание питомца.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Три блока из таблицы и списка записи. Общий заголовок страницы даёт другой диапазон. Список доступных дат для разового посещения уточнить.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-23"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-23"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-23"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-30"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-30"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-30"
+          ],
+          [
+            "2027-01-04",
+            "2027-01-05"
+          ],
+          [
+            "2027-01-04",
+            "2027-01-05"
+          ],
+          [
+            "2027-01-04",
+            "2027-01-05"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-23",
+            "label": "Junior · 09:00–13:00",
+            "source": "https://techlabkids.com/campamentos/casal-de-navidad/",
+            "price": "EUR 120 за 3 дней, 09:00–13:00.",
+            "place": "TechLab Kids Sarrià · Via Augusta 318 · Barcelona",
+            "age": "9–14 лет",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Да по возрасту. Подтвердить наличие места и условия участия."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Возраст выше текущего. Проверить возраст на первый день смены."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Старшая группа делает проекты робототехники, программирования и цифрового дизайна. Тема смены — создание питомца.",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "topic": "Старшая группа делает проекты робототехники, программирования и цифрового дизайна. Тема смены — создание питомца.",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "topic": "Старшая группа делает проекты робототехники, программирования и цифрового дизайна. Тема смены — создание питомца.",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "variant_key": "2026-12-21-13"
+          },
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-23",
+            "label": "Junior · 09:00–14:00",
+            "source": "https://techlabkids.com/campamentos/casal-de-navidad/",
+            "price": "EUR 150 за 3 дней, 09:00–14:00.",
+            "place": "TechLab Kids Sarrià · Via Augusta 318 · Barcelona",
+            "age": "9–14 лет",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Да по возрасту. Подтвердить наличие места и условия участия."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Возраст выше текущего. Проверить возраст на первый день смены."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Старшая группа делает проекты робототехники, программирования и цифрового дизайна. Тема смены — создание питомца.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "topic": "Старшая группа делает проекты робототехники, программирования и цифрового дизайна. Тема смены — создание питомца.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "topic": "Старшая группа делает проекты робототехники, программирования и цифрового дизайна. Тема смены — создание питомца.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "variant_key": "2026-12-21-14"
+          },
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-23",
+            "label": "Junior · 09:00–16:00",
+            "source": "https://techlabkids.com/campamentos/casal-de-navidad/",
+            "price": "EUR 190 за 3 дней, 09:00–16:00.",
+            "place": "TechLab Kids Sarrià · Via Augusta 318 · Barcelona",
+            "age": "9–14 лет",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Да по возрасту. Подтвердить наличие места и условия участия."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Возраст выше текущего. Проверить возраст на первый день смены."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Старшая группа делает проекты робототехники, программирования и цифрового дизайна. Тема смены — создание питомца.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "topic": "Старшая группа делает проекты робототехники, программирования и цифрового дизайна. Тема смены — создание питомца.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "topic": "Старшая группа делает проекты робототехники, программирования и цифрового дизайна. Тема смены — создание питомца.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "variant_key": "2026-12-21-16"
+          },
+          {
+            "start": "2026-12-28",
+            "end": "2026-12-30",
+            "label": "Junior · 09:00–13:00",
+            "source": "https://techlabkids.com/campamentos/casal-de-navidad/",
+            "price": "EUR 120 за 3 дней, 09:00–13:00.",
+            "place": "TechLab Kids Sarrià · Via Augusta 318 · Barcelona",
+            "age": "9–14 лет",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Да по возрасту. Подтвердить наличие места и условия участия."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Возраст выше текущего. Проверить возраст на первый день смены."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "topic": "Старшая группа делает проекты робототехники, программирования и цифрового дизайна. Тема смены — создание питомца.",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "topic": "Старшая группа делает проекты робототехники, программирования и цифрового дизайна. Тема смены — создание питомца.",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-30",
+                "topic": "Старшая группа делает проекты робототехники, программирования и цифрового дизайна. Тема смены — создание питомца.",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "variant_key": "2026-12-28-13"
+          },
+          {
+            "start": "2026-12-28",
+            "end": "2026-12-30",
+            "label": "Junior · 09:00–14:00",
+            "source": "https://techlabkids.com/campamentos/casal-de-navidad/",
+            "price": "EUR 150 за 3 дней, 09:00–14:00.",
+            "place": "TechLab Kids Sarrià · Via Augusta 318 · Barcelona",
+            "age": "9–14 лет",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Да по возрасту. Подтвердить наличие места и условия участия."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Возраст выше текущего. Проверить возраст на первый день смены."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "topic": "Старшая группа делает проекты робототехники, программирования и цифрового дизайна. Тема смены — создание питомца.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "topic": "Старшая группа делает проекты робототехники, программирования и цифрового дизайна. Тема смены — создание питомца.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-30",
+                "topic": "Старшая группа делает проекты робототехники, программирования и цифрового дизайна. Тема смены — создание питомца.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "variant_key": "2026-12-28-14"
+          },
+          {
+            "start": "2026-12-28",
+            "end": "2026-12-30",
+            "label": "Junior · 09:00–16:00",
+            "source": "https://techlabkids.com/campamentos/casal-de-navidad/",
+            "price": "EUR 190 за 3 дней, 09:00–16:00.",
+            "place": "TechLab Kids Sarrià · Via Augusta 318 · Barcelona",
+            "age": "9–14 лет",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Да по возрасту. Подтвердить наличие места и условия участия."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Возраст выше текущего. Проверить возраст на первый день смены."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "topic": "Старшая группа делает проекты робототехники, программирования и цифрового дизайна. Тема смены — создание питомца.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "topic": "Старшая группа делает проекты робототехники, программирования и цифрового дизайна. Тема смены — создание питомца.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-30",
+                "topic": "Старшая группа делает проекты робототехники, программирования и цифрового дизайна. Тема смены — создание питомца.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "variant_key": "2026-12-28-16"
+          },
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-05",
+            "label": "Junior · 09:00–13:00",
+            "source": "https://techlabkids.com/campamentos/casal-de-navidad/",
+            "price": "EUR 80 за 2 дней, 09:00–13:00.",
+            "place": "TechLab Kids Sarrià · Via Augusta 318 · Barcelona",
+            "age": "9–14 лет",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Да по возрасту. Подтвердить наличие места и условия участия."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Возраст выше текущего. Проверить возраст на первый день смены."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "topic": "Старшая группа делает проекты робототехники, программирования и цифрового дизайна. Тема смены — создание питомца.",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-05",
+                "topic": "Старшая группа делает проекты робототехники, программирования и цифрового дизайна. Тема смены — создание питомца.",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "variant_key": "2027-01-04-13"
+          },
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-05",
+            "label": "Junior · 09:00–14:00",
+            "source": "https://techlabkids.com/campamentos/casal-de-navidad/",
+            "price": "EUR 100 за 2 дней, 09:00–14:00.",
+            "place": "TechLab Kids Sarrià · Via Augusta 318 · Barcelona",
+            "age": "9–14 лет",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Да по возрасту. Подтвердить наличие места и условия участия."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Возраст выше текущего. Проверить возраст на первый день смены."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "topic": "Старшая группа делает проекты робототехники, программирования и цифрового дизайна. Тема смены — создание питомца.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-05",
+                "topic": "Старшая группа делает проекты робототехники, программирования и цифрового дизайна. Тема смены — создание питомца.",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "variant_key": "2027-01-04-14"
+          },
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-05",
+            "label": "Junior · 09:00–16:00",
+            "source": "https://techlabkids.com/campamentos/casal-de-navidad/",
+            "price": "EUR 127 за 2 дней, 09:00–16:00.",
+            "place": "TechLab Kids Sarrià · Via Augusta 318 · Barcelona",
+            "age": "9–14 лет",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Да по возрасту. Подтвердить наличие места и условия участия."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Возраст выше текущего. Проверить возраст на первый день смены."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "topic": "Старшая группа делает проекты робототехники, программирования и цифрового дизайна. Тема смены — создание питомца.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-05",
+                "topic": "Старшая группа делает проекты робототехники, программирования и цифрового дизайна. Тема смены — создание питомца.",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            },
+            "variant_key": "2027-01-04-16"
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "currency": "EUR",
+        "label": "За 3 дня EUR 120 / 150 / 190. За 2 дня EUR 80 / 100 / 127. Разовый день EUR 45 / 57 / 72. Цены по порядку до 13:00, 14:00 и 16:00.",
+        "included": "Материалы включены. В режимах до 14:00 и 16:00 входит обед. В расписании есть бесплатный ранний приём с 08:45.",
+        "extras": "Уточнить наличие места в каждом возрастном треке, языковую группу, скидки и условия возврата.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Подтвердить наличие места и условия участия."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Возраст выше текущего. Проверить возраст на первый день смены."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Возраст и даты опубликованы. Подтвердить два места, языковую группу и условия отмены."
+      ],
+      "sources": [
+        {
+          "url": "https://techlabkids.com/campamentos/casal-de-navidad/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://techlabkids.com/campamentos/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "pairing": {
+        "venue_id": "esp-techlab-sarria-via-augusta-318",
+        "verified_source": "https://techlabkids.com/campamentos/casal-de-navidad/",
+        "checked": "2026-11-07"
+      }
+    },
+    {
+      "id": "CP1725",
+      "slug": "fabrica-luz-inventos-navidad-2026",
+      "provider": "La Fábrica de Luz · Inventos y artilugios",
+      "country": "Испания",
+      "iso": "ESP",
+      "place": "La Fábrica de Luz · Museo de la Energía · Ponferrada",
+      "themes": [
+        "science",
+        "engineering",
+        "makers",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "6–16 лет",
+      "language": "Устный язык занятий уточнить. Испаноязычная страница программы не подтверждает язык преподавания.",
+      "confirmed_instruction_languages": [],
+      "programme": "Эксперименты, инженерные задачи через игру и создание собственных изобретений.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Дни занятий по календарю организатора.",
+        "sessions": [
+          [
+            "2026-12-28",
+            "2026-12-30"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-28",
+            "end": "2026-12-30",
+            "label": "Inventos y artilugios",
+            "source": "https://lafabricadeluz.org/agenda/campamento-navidad-inventos-artilugios-y-juegos-en-navidad/",
+            "price": "EUR 30 за 3 дня или EUR 12 за отдельный день.",
+            "place": "La Fábrica de Luz · Museo de la Energía · Ponferrada",
+            "age": "6–16 лет",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Да по возрасту. Подтвердить наличие места и условия участия."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Да по возрасту. Подтвердить наличие места и условия участия."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "topic": "Эксперименты, инженерные задачи через игру и создание собственных изобретений.",
+                "start_time": "10:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "topic": "Эксперименты, инженерные задачи через игру и создание собственных изобретений.",
+                "start_time": "10:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-30",
+                "topic": "Эксперименты, инженерные задачи через игру и создание собственных изобретений.",
+                "start_time": "10:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            }
+          }
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "currency": "EUR",
+        "amount": 30,
+        "unit": "per_child_course",
+        "label": "EUR 30 за 3 дня или EUR 12 за отдельный день.",
+        "included": "Дневная мастерская.",
+        "extras": "Возможен ранний приход с 09:00. Цена раннего прихода, питание и материалы отдельно не раскрыты.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Подтвердить наличие места и условия участия."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Подтвердить наличие места и условия участия."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Возраст и даты опубликованы. Подтвердить два места, языковую группу и условия отмены."
+      ],
+      "sources": [
+        {
+          "url": "https://lafabricadeluz.org/agenda/campamento-navidad-inventos-artilugios-y-juegos-en-navidad/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop"
+    },
+    {
+      "id": "CP1726",
+      "slug": "cbs-seville-christmas-boarding-2026",
+      "provider": "CBS Outdoor Adventures · Christmas Camp",
+      "country": "Испания",
+      "iso": "ESP",
+      "place": "CBS The British School of Seville · Bollullos de la Mitación",
+      "themes": [
+        "general",
+        "science",
+        "languages",
+        "adventure"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "5–12 лет",
+      "language": "Организатор подтверждает полное погружение в английский.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "Зимние мастерские, научные опыты, совместные игры, квест и рождественская кулинария.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Заезд 19 декабря 2026 в 10:00, выезд 20 декабря 2026 в 17:00. Одна ночь.",
+        "sessions": [
+          [
+            "2026-12-19",
+            "2026-12-20"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-19",
+            "end": "2026-12-20",
+            "label": "CBS Christmas Camp",
+            "place": "CBS The British School of Seville · Bollullos de la Mitación",
+            "source": "https://cbssummercamp.eu/cbs-christmas-camp/",
+            "price": "EUR 80 за ребёнка за весь лагерь.",
+            "age": "5–12 лет",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Да по возрасту. Подтвердить наличие места и условия участия."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Да по возрасту. Подтвердить наличие места и условия участия."
+              }
+            },
+            "date_scope": "camp_session",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            }
+          }
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "currency": "EUR",
+        "amount": 80,
+        "unit": "per_child_course",
+        "label": "EUR 80 за ребёнка за весь лагерь.",
+        "included": "Два дня занятий, одна ночь и полный пансион.",
+        "extras": "Для группы от 5 детей организатор предлагает уточнить скидку. Трансфер и условия отмены уточнить.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Одна ночь на территории школы в комнате с двухъярусными кроватями. Полный пансион.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Подтвердить наличие места и условия участия."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Подтвердить наличие места и условия участия."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Возраст и даты опубликованы. Подтвердить два места, языковую группу и условия отмены."
+      ],
+      "sources": [
+        {
+          "url": "https://cbssummercamp.eu/cbs-christmas-camp/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "residential"
+    },
+    {
+      "id": "CP1727",
+      "slug": "eisb-sant-cugat-winter-primary",
+      "provider": "European International School of Barcelona · Winter Camp",
+      "country": "Испания",
+      "iso": "ESP",
+      "place": "EISB · Av. Pla del Vinyet 110 · Sant Cugat del Vallès",
+      "themes": [
+        "general",
+        "sport"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Infant School и Primary. Точный школьный уровень и приём сторонних детей уточнить.",
+      "language": "Язык преподавания конкретной группы пока не подтверждён.",
+      "confirmed_instruction_languages": [],
+      "programme": "Рождественский дневной лагерь с мастерскими, играми, плаванием и спортом.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Даты ожидаются. В карточке есть ориентир регистрации на декабрь 2026 без точного дня.",
+        "sessions": [],
+        "session_details": []
+      },
+      "price": {
+        "year": null,
+        "label": "Опубликовано EUR 55 / 140 / 260 за 1 / 3 / 6 коротких дней и EUR 70 / 190 / 360 за 1 / 3 / 6 полных дней. Тариф подтвердить для нового набора.",
+        "included": "Варианты 09:00–13:00 и 09:00–17:00. Питание и присмотр уточнить для выбранного тарифа.",
+        "extras": "Цена не опубликована.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Сопоставить школьный уровень и уточнить приём детей из другой школы."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Сопоставить школьный уровень и уточнить приём детей из другой школы."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://eisbarcelona.com/en/winter-camp/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp"
+    },
+    {
+      "id": "CP1728",
+      "slug": "respira-ocio-urban-tech-winter-madrid",
+      "provider": "Respira Ocio · Urban Tech Navidad",
+      "country": "Испания",
+      "iso": "ESP",
+      "place": "Madrid · venue TBA",
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Для первичной проверки 6–12 лет, группа Primaria. Точную категорию уточнить.",
+      "language": "Устный язык занятий уточнить. Испаноязычная страница программы не подтверждает язык преподавания.",
+      "confirmed_instruction_languages": [],
+      "programme": "Робототехника, программирование, печать 3D, создание игр и приложений. Дневной формат.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Оператор указывает сезон Navidad 2026–2027. Точные площадки, даты и тариф технологической группы ожидаются.",
+        "sessions": [],
+        "session_details": []
+      },
+      "price": {
+        "year": null,
+        "label": "Цена не опубликована.",
+        "included": "Цена не опубликована.",
+        "extras": "Цена не опубликована.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст и даты опубликованы. Подтвердить два места, языковую группу и условия отмены."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Возраст и даты опубликованы. Подтвердить два места, языковую группу и условия отмены."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://respiraocio.com/campamentos-urbanos/campamentos-urbanos-tecnologicos/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp"
+    },
+    {
+      "id": "CP1729",
+      "slug": "cbs-seville-science-2027",
+      "provider": "CBS Outdoor Adventures · Science Camp",
+      "country": "Испания",
+      "iso": "ESP",
+      "place": "CBS The British School of Seville · Bollullos de la Mitación",
+      "themes": [
+        "science",
+        "languages",
+        "adventure"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "5–12 лет",
+      "language": "Английский используется в играх, инструкциях и общении с вожатыми. Организатор принимает детей из других школ.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "Научная смена с ночёвкой. Подробные опыты и учебный план нового выпуска ожидаются.",
+      "timing": {
+        "status": "published_2027",
+        "label": "22–24 марта 2027. Три дня и две ночи по актуальному календарю. Часы заезда и выезда уточнить.",
+        "sessions": [
+          [
+            "2027-03-22",
+            "2027-03-24"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-03-22",
+            "end": "2027-03-24",
+            "label": "Science Camp · EUR 160 за ребёнка · ночей 2",
+            "place": "CBS The British School of Seville · Bollullos de la Mitación",
+            "source": "https://cbssummercamp.eu/cbs-outdoor-adventures/",
+            "price": "Science Camp · EUR 160 за ребёнка · ночей 2",
+            "age": "5–12 лет",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Да по возрасту. Подтвердить наличие места и условия участия."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Да по возрасту. Подтвердить наличие места и условия участия."
+              }
+            },
+            "date_scope": "camp_session",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            }
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "currency": "EUR",
+        "label": "Science Camp · EUR 160 за ребёнка · ночей 2",
+        "included": "Занятия, ночёвки и питание по программе.",
+        "extras": "Для группы от 5 детей организатор предлагает уточнить скидку. Трансфер и условия отмены уточнить.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Ночёвки в лагере. Продолжительность и число ночей указаны в каждой смене.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Подтвердить наличие места и условия участия."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Подтвердить наличие места и условия участия."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://cbssummercamp.eu/cbs-outdoor-adventures/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://cbssummercamp.eu/noticias/mini-campamentos-ingles-sevilla-outdoor-adventures-2026-2027/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "residential"
+    },
+    {
+      "id": "CP1730",
+      "slug": "cbs-seville-magic-2026",
+      "provider": "CBS Outdoor Adventures · Harry Potter Camp",
+      "country": "Испания",
+      "iso": "ESP",
+      "place": "CBS The British School of Seville · Bollullos de la Mitación",
+      "themes": [
+        "general",
+        "games",
+        "languages"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "5–12 лет",
+      "language": "Английский используется в играх, инструкциях и общении с вожатыми. Организатор принимает детей из других школ.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "Ролевые игры, задачи на командную работу, мастерские и тематический вечер.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Заезд 21 ноября 2026 в 10:00, выезд 22 ноября 2026 в 17:00. Одна ночь.",
+        "sessions": [
+          [
+            "2026-11-21",
+            "2026-11-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-11-21",
+            "end": "2026-11-22",
+            "label": "Harry Potter Camp · EUR 80 за ребёнка · ночей 1",
+            "place": "CBS The British School of Seville · Bollullos de la Mitación",
+            "source": "https://cbssummercamp.eu/cbs-harry-potter-camp/",
+            "price": "Harry Potter Camp · EUR 80 за ребёнка · ночей 1",
+            "age": "5–12 лет",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Да по возрасту. Подтвердить наличие места и условия участия."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Да по возрасту. Подтвердить наличие места и условия участия."
+              }
+            },
+            "date_scope": "camp_session",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            }
+          }
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "currency": "EUR",
+        "label": "Harry Potter Camp · EUR 80 за ребёнка · ночей 1",
+        "included": "Занятия, ночёвки и питание по программе.",
+        "extras": "Для группы от 5 детей организатор предлагает уточнить скидку. Трансфер и условия отмены уточнить.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Ночёвки в лагере. Продолжительность и число ночей указаны в каждой смене.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Подтвердить наличие места и условия участия."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Подтвердить наличие места и условия участия."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://cbssummercamp.eu/cbs-harry-potter-camp/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://cbssummercamp.eu/noticias/mini-campamentos-ingles-sevilla-outdoor-adventures-2026-2027/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "residential"
+    },
+    {
+      "id": "CP1731",
+      "slug": "cbs-seville-mini-camps-2027",
+      "provider": "CBS Outdoor Adventures · Mini Camps",
+      "country": "Испания",
+      "iso": "ESP",
+      "place": "CBS The British School of Seville · Bollullos de la Mitación",
+      "themes": [
+        "general",
+        "art",
+        "languages",
+        "adventure"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "5–12 лет",
+      "language": "Английский используется в играх, инструкциях и общении с вожатыми. Организатор принимает детей из других школ.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "Короткие тематические заезды на английском. Темы включают искусство, игры на природе, кулинарию и танец.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Опубликован календарь заездов. Время прибытия и выезда конкретной смены уточнить.",
+        "sessions": [
+          [
+            "2027-02-13",
+            "2027-02-14"
+          ],
+          [
+            "2027-03-13",
+            "2027-03-14"
+          ],
+          [
+            "2027-04-13",
+            "2027-04-16"
+          ],
+          [
+            "2027-05-08",
+            "2027-05-09"
+          ],
+          [
+            "2027-05-22",
+            "2027-05-23"
+          ],
+          [
+            "2027-06-05",
+            "2027-06-06"
+          ],
+          [
+            "2027-06-24",
+            "2027-06-27"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-02-13",
+            "end": "2027-02-14",
+            "label": "CBS Neon Splash Camp · EUR 80 за ребёнка · ночей 1",
+            "place": "CBS The British School of Seville · Bollullos de la Mitación",
+            "source": "https://cbssummercamp.eu/cbs-outdoor-adventures/",
+            "price": "CBS Neon Splash Camp · EUR 80 за ребёнка · ночей 1",
+            "age": "5–12 лет",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Да по возрасту. Подтвердить наличие места и условия участия."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Да по возрасту. Подтвердить наличие места и условия участия."
+              }
+            },
+            "date_scope": "camp_session",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            }
+          },
+          {
+            "start": "2027-03-13",
+            "end": "2027-03-14",
+            "label": "ARTVenture Camp · EUR 80 за ребёнка · ночей 1",
+            "place": "CBS The British School of Seville · Bollullos de la Mitación",
+            "source": "https://cbssummercamp.eu/cbs-outdoor-adventures/",
+            "price": "ARTVenture Camp · EUR 80 за ребёнка · ночей 1",
+            "age": "5–12 лет",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Да по возрасту. Подтвердить наличие места и условия участия."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Да по возрасту. Подтвердить наличие места и условия участия."
+              }
+            },
+            "date_scope": "camp_session",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            }
+          },
+          {
+            "start": "2027-04-13",
+            "end": "2027-04-16",
+            "label": "Feria Camp · EUR 240 за ребёнка · ночей 3",
+            "place": "CBS The British School of Seville · Bollullos de la Mitación",
+            "source": "https://cbssummercamp.eu/cbs-outdoor-adventures/",
+            "price": "Feria Camp · EUR 240 за ребёнка · ночей 3",
+            "age": "5–12 лет",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Да по возрасту. Подтвердить наличие места и условия участия."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Да по возрасту. Подтвердить наличие места и условия участия."
+              }
+            },
+            "date_scope": "camp_session",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            }
+          },
+          {
+            "start": "2027-05-08",
+            "end": "2027-05-09",
+            "label": "The Pirate Legends Camp · EUR 80 за ребёнка · ночей 1",
+            "place": "CBS The British School of Seville · Bollullos de la Mitación",
+            "source": "https://cbssummercamp.eu/cbs-outdoor-adventures/",
+            "price": "The Pirate Legends Camp · EUR 80 за ребёнка · ночей 1",
+            "age": "5–12 лет",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Да по возрасту. Подтвердить наличие места и условия участия."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Да по возрасту. Подтвердить наличие места и условия участия."
+              }
+            },
+            "date_scope": "camp_session",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            }
+          },
+          {
+            "start": "2027-05-22",
+            "end": "2027-05-23",
+            "label": "Step Up Camp · EUR 80 за ребёнка · ночей 1",
+            "place": "CBS The British School of Seville · Bollullos de la Mitación",
+            "source": "https://cbssummercamp.eu/cbs-outdoor-adventures/",
+            "price": "Step Up Camp · EUR 80 за ребёнка · ночей 1",
+            "age": "5–12 лет",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Да по возрасту. Подтвердить наличие места и условия участия."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Да по возрасту. Подтвердить наличие места и условия участия."
+              }
+            },
+            "date_scope": "camp_session",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            }
+          },
+          {
+            "start": "2027-06-05",
+            "end": "2027-06-06",
+            "label": "Chef Camp · EUR 80 за ребёнка · ночей 1",
+            "place": "CBS The British School of Seville · Bollullos de la Mitación",
+            "source": "https://cbssummercamp.eu/cbs-outdoor-adventures/",
+            "price": "Chef Camp · EUR 80 за ребёнка · ночей 1",
+            "age": "5–12 лет",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Да по возрасту. Подтвердить наличие места и условия участия."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Да по возрасту. Подтвердить наличие места и условия участия."
+              }
+            },
+            "date_scope": "camp_session",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            }
+          },
+          {
+            "start": "2027-06-24",
+            "end": "2027-06-27",
+            "label": "End of Year Camp · EUR 240 за ребёнка · ночей 3",
+            "place": "CBS The British School of Seville · Bollullos de la Mitación",
+            "source": "https://cbssummercamp.eu/cbs-outdoor-adventures/",
+            "price": "End of Year Camp · EUR 240 за ребёнка · ночей 3",
+            "age": "5–12 лет",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Да по возрасту. Подтвердить наличие места и условия участия."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Да по возрасту. Подтвердить наличие места и условия участия."
+              }
+            },
+            "date_scope": "camp_session",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Уточнить наличие мест и допуск."
+            }
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "currency": "EUR",
+        "label": "EUR 80 за 2 дня или EUR 240 за 4 дня. Тариф указан в каждой смене.",
+        "included": "Занятия, ночёвки и питание по программе.",
+        "extras": "Для группы от 5 детей организатор предлагает уточнить скидку. Трансфер и условия отмены уточнить.",
+        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      },
+      "accommodation": "Ночёвки в лагере. Продолжительность и число ночей указаны в каждой смене.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Подтвердить наличие места и условия участия."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Подтвердить наличие места и условия участия."
+        }
+      },
+      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://cbssummercamp.eu/cbs-outdoor-adventures/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://cbssummercamp.eu/noticias/mini-campamentos-ingles-sevilla-outdoor-adventures-2026-2027/",
+          "title": "Официальная страница организатора",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "residential"
     }
   ],
   "gaps": [
@@ -256126,7 +258046,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 221,
+  "version": 222,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -269361,7 +271281,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1722,
+      "total_dossiers": 1731,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,

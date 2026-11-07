@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 7853,
-    "competition_cards": 3230,
-    "event_cards": 369,
-    "camp_cards": 4254,
+    "cards": 7889,
+    "competition_cards": 3232,
+    "event_cards": 374,
+    "camp_cards": 4283,
     "league_profiles": 268,
-    "major_exhibition_cards": 281,
+    "major_exhibition_cards": 286,
     "vex_cards": 518,
     "countries_with_records": 159,
     "fully_audited_countries": 0
@@ -34,11 +34,11 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 2607,
+      "total": 2613,
       "countries_with_records": 23,
-      "competitions": 1449,
-      "events": 86,
-      "major_exhibitions": 49,
+      "competitions": 1450,
+      "events": 91,
+      "major_exhibitions": 54,
       "camps": 1072,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
@@ -62,12 +62,12 @@
       "regions": [
         "Европа"
       ],
-      "total": 1832,
+      "total": 1862,
       "countries_with_records": 42,
-      "competitions": 433,
+      "competitions": 434,
       "events": 101,
       "major_exhibitions": 82,
-      "camps": 1298,
+      "camps": 1327,
       "status": "Частично исследовано",
       "remaining": "CHE/ESP/FRA углублены повторно. Не закрыты все местные лиги, новые qualifiers 2027, преподавание на английском / испанском, иностранные квоты, текущие juniormentors и полные школьные протоколы 5–10 лет. Германия / Нидерланды / Бельгия: первый частичный проход; все местные клубы, языки, иностранные квоты и полные школьные результаты остаются открыты."
     },
@@ -10186,6 +10186,61 @@
       "new": false
     },
     {
+      "id": "E370",
+      "name": "Kuri Fest 26 · Gaming Zone / San José",
+      "country": "Коста-Рика",
+      "region": "Центральная Америка",
+      "start": "2026-12-19",
+      "end": "2026-12-20",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.eticket.cr/masinformacion.aspx?idevento=9581",
+      "new": false
+    },
+    {
+      "id": "E371",
+      "name": "Expo MAC Veracruz · December 2026",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "start": "2026-12-19",
+      "end": "2026-12-20",
+      "visitor_policy": "family",
+      "source": "https://expomac.idweb.mx/event.php?id=13",
+      "new": false
+    },
+    {
+      "id": "E372",
+      "name": "MEGA GAME LAB · Mexican tabletop prototypes",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "visitor_policy": "family",
+      "source": "https://megaxp.com.mx/mega-game-lab/",
+      "new": false
+    },
+    {
+      "id": "E373",
+      "name": "Tulum Innovation Fest 2026",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "start": "2026-12-09",
+      "end": "2026-12-12",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.tuluminnovationfest.com/",
+      "new": false
+    },
+    {
+      "id": "E374",
+      "name": "DevFest Ciudad de México 2026",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "start": "2026-12-09",
+      "end": "2026-12-09",
+      "visitor_policy": "confirm_children",
+      "source": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-devfest-2026-ciudad-de-mexico/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -12603,14 +12658,14 @@
       }
     ],
     "counts": {
-      "records": 4254,
-      "holiday": 3979,
+      "records": 4283,
+      "holiday": 4008,
       "regular": 120,
       "self_paced_materials": 2,
-      "boarding": 1026,
-      "en_es_instruction": 1400,
+      "boarding": 1036,
+      "en_es_instruction": 1410,
       "en_es_support": 12,
-      "family_instruction": 1400,
+      "family_instruction": 1410,
       "family_support": 12,
       "ru_instruction": 4,
       "language_lessons": 410,

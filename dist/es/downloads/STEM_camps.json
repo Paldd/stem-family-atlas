@@ -580,14 +580,14 @@
       }
     ],
     "counts": {
-      "records": 4254,
-      "holiday": 3979,
+      "records": 4283,
+      "holiday": 4008,
       "regular": 120,
       "self_paced_materials": 2,
-      "boarding": 1026,
-      "en_es_instruction": 1400,
+      "boarding": 1036,
+      "en_es_instruction": 1410,
       "en_es_support": 12,
-      "family_instruction": 1400,
+      "family_instruction": 1410,
       "family_support": 12,
       "ru_instruction": 4,
       "language_lessons": 410,
@@ -334340,6 +334340,2467 @@
           "end_utc": "2027-01-06T14:00:00Z"
         }
       ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      }
+    },
+    {
+      "id": "CP1723-20261221-20261223-2026-12-21-13",
+      "block": "Campamentos",
+      "title": "TechLab Kids Sarrià · Navidad · Kids · Kids · 09:00–13:00 · 2026-12-21–2026-12-23",
+      "country": "España",
+      "region": "Europa",
+      "city": "TechLab Kids Sarrià · Via Augusta 318 · Barcelona",
+      "start": "2026-12-21",
+      "end": "2026-12-23",
+      "period": "Tres bloques de la tabla y de la lista de inscripción. El encabezado general indica otro intervalo. Confirmar las fechas disponibles para asistir un solo día.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "6–8 años",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "El grupo menor construye y programa un robot. El tema del turno es crear una mascota.",
+      "language": "Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.",
+      "cost": "2026/27 · EUR 120 por 3 días, 09:00–13:00. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Edad y fechas publicadas. Confirmar dos plazas, idioma del grupo y condiciones de cancelación.",
+      "source": "https://techlabkids.com/campamentos/casal-de-navidad/",
+      "references": [
+        {
+          "url": "https://techlabkids.com/campamentos/casal-de-navidad/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://techlabkids.com/campamentos/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Confirmar plaza en cada grupo de edad, idioma, descuentos y condiciones de reembolso. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "science",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "techlab-barcelona-navidad-2026-kids",
+      "camp_programme_id": "CP1723",
+      "sessions": [
+        {
+          "date": "2026-12-21",
+          "topic": "El grupo menor construye y programa un robot. El tema del turno es crear una mascota.",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-21T08:00:00Z",
+          "end_utc": "2026-12-21T12:00:00Z"
+        },
+        {
+          "date": "2026-12-22",
+          "topic": "El grupo menor construye y programa un robot. El tema del turno es crear una mascota.",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-22T08:00:00Z",
+          "end_utc": "2026-12-22T12:00:00Z"
+        },
+        {
+          "date": "2026-12-23",
+          "topic": "El grupo menor construye y programa un robot. El tema del turno es crear una mascota.",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-23T08:00:00Z",
+          "end_utc": "2026-12-23T12:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      }
+    },
+    {
+      "id": "CP1723-20261221-20261223-2026-12-21-14",
+      "block": "Campamentos",
+      "title": "TechLab Kids Sarrià · Navidad · Kids · Kids · 09:00–14:00 · 2026-12-21–2026-12-23",
+      "country": "España",
+      "region": "Europa",
+      "city": "TechLab Kids Sarrià · Via Augusta 318 · Barcelona",
+      "start": "2026-12-21",
+      "end": "2026-12-23",
+      "period": "Tres bloques de la tabla y de la lista de inscripción. El encabezado general indica otro intervalo. Confirmar las fechas disponibles para asistir un solo día.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "6–8 años",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "El grupo menor construye y programa un robot. El tema del turno es crear una mascota.",
+      "language": "Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.",
+      "cost": "2026/27 · EUR 150 por 3 días, 09:00–14:00. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Edad y fechas publicadas. Confirmar dos plazas, idioma del grupo y condiciones de cancelación.",
+      "source": "https://techlabkids.com/campamentos/casal-de-navidad/",
+      "references": [
+        {
+          "url": "https://techlabkids.com/campamentos/casal-de-navidad/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://techlabkids.com/campamentos/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Confirmar plaza en cada grupo de edad, idioma, descuentos y condiciones de reembolso. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "science",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "techlab-barcelona-navidad-2026-kids",
+      "camp_programme_id": "CP1723",
+      "sessions": [
+        {
+          "date": "2026-12-21",
+          "topic": "El grupo menor construye y programa un robot. El tema del turno es crear una mascota.",
+          "start_time": "09:00",
+          "end_time": "14:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-21T08:00:00Z",
+          "end_utc": "2026-12-21T13:00:00Z"
+        },
+        {
+          "date": "2026-12-22",
+          "topic": "El grupo menor construye y programa un robot. El tema del turno es crear una mascota.",
+          "start_time": "09:00",
+          "end_time": "14:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-22T08:00:00Z",
+          "end_utc": "2026-12-22T13:00:00Z"
+        },
+        {
+          "date": "2026-12-23",
+          "topic": "El grupo menor construye y programa un robot. El tema del turno es crear una mascota.",
+          "start_time": "09:00",
+          "end_time": "14:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-23T08:00:00Z",
+          "end_utc": "2026-12-23T13:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      }
+    },
+    {
+      "id": "CP1723-20261221-20261223-2026-12-21-16",
+      "block": "Campamentos",
+      "title": "TechLab Kids Sarrià · Navidad · Kids · Kids · 09:00–16:00 · 2026-12-21–2026-12-23",
+      "country": "España",
+      "region": "Europa",
+      "city": "TechLab Kids Sarrià · Via Augusta 318 · Barcelona",
+      "start": "2026-12-21",
+      "end": "2026-12-23",
+      "period": "Tres bloques de la tabla y de la lista de inscripción. El encabezado general indica otro intervalo. Confirmar las fechas disponibles para asistir un solo día.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "6–8 años",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "El grupo menor construye y programa un robot. El tema del turno es crear una mascota.",
+      "language": "Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.",
+      "cost": "2026/27 · EUR 190 por 3 días, 09:00–16:00. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Edad y fechas publicadas. Confirmar dos plazas, idioma del grupo y condiciones de cancelación.",
+      "source": "https://techlabkids.com/campamentos/casal-de-navidad/",
+      "references": [
+        {
+          "url": "https://techlabkids.com/campamentos/casal-de-navidad/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://techlabkids.com/campamentos/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Confirmar plaza en cada grupo de edad, idioma, descuentos y condiciones de reembolso. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "science",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "techlab-barcelona-navidad-2026-kids",
+      "camp_programme_id": "CP1723",
+      "sessions": [
+        {
+          "date": "2026-12-21",
+          "topic": "El grupo menor construye y programa un robot. El tema del turno es crear una mascota.",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-21T08:00:00Z",
+          "end_utc": "2026-12-21T15:00:00Z"
+        },
+        {
+          "date": "2026-12-22",
+          "topic": "El grupo menor construye y programa un robot. El tema del turno es crear una mascota.",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-22T08:00:00Z",
+          "end_utc": "2026-12-22T15:00:00Z"
+        },
+        {
+          "date": "2026-12-23",
+          "topic": "El grupo menor construye y programa un robot. El tema del turno es crear una mascota.",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-23T08:00:00Z",
+          "end_utc": "2026-12-23T15:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      }
+    },
+    {
+      "id": "CP1723-20261228-20261230-2026-12-28-13",
+      "block": "Campamentos",
+      "title": "TechLab Kids Sarrià · Navidad · Kids · Kids · 09:00–13:00 · 2026-12-28–2026-12-30",
+      "country": "España",
+      "region": "Europa",
+      "city": "TechLab Kids Sarrià · Via Augusta 318 · Barcelona",
+      "start": "2026-12-28",
+      "end": "2026-12-30",
+      "period": "Tres bloques de la tabla y de la lista de inscripción. El encabezado general indica otro intervalo. Confirmar las fechas disponibles para asistir un solo día.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "6–8 años",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "El grupo menor construye y programa un robot. El tema del turno es crear una mascota.",
+      "language": "Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.",
+      "cost": "2026/27 · EUR 120 por 3 días, 09:00–13:00. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Edad y fechas publicadas. Confirmar dos plazas, idioma del grupo y condiciones de cancelación.",
+      "source": "https://techlabkids.com/campamentos/casal-de-navidad/",
+      "references": [
+        {
+          "url": "https://techlabkids.com/campamentos/casal-de-navidad/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://techlabkids.com/campamentos/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Confirmar plaza en cada grupo de edad, idioma, descuentos y condiciones de reembolso. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "science",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "techlab-barcelona-navidad-2026-kids",
+      "camp_programme_id": "CP1723",
+      "sessions": [
+        {
+          "date": "2026-12-28",
+          "topic": "El grupo menor construye y programa un robot. El tema del turno es crear una mascota.",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-28T08:00:00Z",
+          "end_utc": "2026-12-28T12:00:00Z"
+        },
+        {
+          "date": "2026-12-29",
+          "topic": "El grupo menor construye y programa un robot. El tema del turno es crear una mascota.",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-29T08:00:00Z",
+          "end_utc": "2026-12-29T12:00:00Z"
+        },
+        {
+          "date": "2026-12-30",
+          "topic": "El grupo menor construye y programa un robot. El tema del turno es crear una mascota.",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-30T08:00:00Z",
+          "end_utc": "2026-12-30T12:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      }
+    },
+    {
+      "id": "CP1723-20261228-20261230-2026-12-28-14",
+      "block": "Campamentos",
+      "title": "TechLab Kids Sarrià · Navidad · Kids · Kids · 09:00–14:00 · 2026-12-28–2026-12-30",
+      "country": "España",
+      "region": "Europa",
+      "city": "TechLab Kids Sarrià · Via Augusta 318 · Barcelona",
+      "start": "2026-12-28",
+      "end": "2026-12-30",
+      "period": "Tres bloques de la tabla y de la lista de inscripción. El encabezado general indica otro intervalo. Confirmar las fechas disponibles para asistir un solo día.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "6–8 años",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "El grupo menor construye y programa un robot. El tema del turno es crear una mascota.",
+      "language": "Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.",
+      "cost": "2026/27 · EUR 150 por 3 días, 09:00–14:00. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Edad y fechas publicadas. Confirmar dos plazas, idioma del grupo y condiciones de cancelación.",
+      "source": "https://techlabkids.com/campamentos/casal-de-navidad/",
+      "references": [
+        {
+          "url": "https://techlabkids.com/campamentos/casal-de-navidad/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://techlabkids.com/campamentos/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Confirmar plaza en cada grupo de edad, idioma, descuentos y condiciones de reembolso. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "science",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "techlab-barcelona-navidad-2026-kids",
+      "camp_programme_id": "CP1723",
+      "sessions": [
+        {
+          "date": "2026-12-28",
+          "topic": "El grupo menor construye y programa un robot. El tema del turno es crear una mascota.",
+          "start_time": "09:00",
+          "end_time": "14:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-28T08:00:00Z",
+          "end_utc": "2026-12-28T13:00:00Z"
+        },
+        {
+          "date": "2026-12-29",
+          "topic": "El grupo menor construye y programa un robot. El tema del turno es crear una mascota.",
+          "start_time": "09:00",
+          "end_time": "14:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-29T08:00:00Z",
+          "end_utc": "2026-12-29T13:00:00Z"
+        },
+        {
+          "date": "2026-12-30",
+          "topic": "El grupo menor construye y programa un robot. El tema del turno es crear una mascota.",
+          "start_time": "09:00",
+          "end_time": "14:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-30T08:00:00Z",
+          "end_utc": "2026-12-30T13:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      }
+    },
+    {
+      "id": "CP1723-20261228-20261230-2026-12-28-16",
+      "block": "Campamentos",
+      "title": "TechLab Kids Sarrià · Navidad · Kids · Kids · 09:00–16:00 · 2026-12-28–2026-12-30",
+      "country": "España",
+      "region": "Europa",
+      "city": "TechLab Kids Sarrià · Via Augusta 318 · Barcelona",
+      "start": "2026-12-28",
+      "end": "2026-12-30",
+      "period": "Tres bloques de la tabla y de la lista de inscripción. El encabezado general indica otro intervalo. Confirmar las fechas disponibles para asistir un solo día.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "6–8 años",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "El grupo menor construye y programa un robot. El tema del turno es crear una mascota.",
+      "language": "Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.",
+      "cost": "2026/27 · EUR 190 por 3 días, 09:00–16:00. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Edad y fechas publicadas. Confirmar dos plazas, idioma del grupo y condiciones de cancelación.",
+      "source": "https://techlabkids.com/campamentos/casal-de-navidad/",
+      "references": [
+        {
+          "url": "https://techlabkids.com/campamentos/casal-de-navidad/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://techlabkids.com/campamentos/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Confirmar plaza en cada grupo de edad, idioma, descuentos y condiciones de reembolso. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "science",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "techlab-barcelona-navidad-2026-kids",
+      "camp_programme_id": "CP1723",
+      "sessions": [
+        {
+          "date": "2026-12-28",
+          "topic": "El grupo menor construye y programa un robot. El tema del turno es crear una mascota.",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-28T08:00:00Z",
+          "end_utc": "2026-12-28T15:00:00Z"
+        },
+        {
+          "date": "2026-12-29",
+          "topic": "El grupo menor construye y programa un robot. El tema del turno es crear una mascota.",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-29T08:00:00Z",
+          "end_utc": "2026-12-29T15:00:00Z"
+        },
+        {
+          "date": "2026-12-30",
+          "topic": "El grupo menor construye y programa un robot. El tema del turno es crear una mascota.",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-30T08:00:00Z",
+          "end_utc": "2026-12-30T15:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      }
+    },
+    {
+      "id": "CP1723-20270104-20270105-2027-01-04-13",
+      "block": "Campamentos",
+      "title": "TechLab Kids Sarrià · Navidad · Kids · Kids · 09:00–13:00 · 2027-01-04–2027-01-05",
+      "country": "España",
+      "region": "Europa",
+      "city": "TechLab Kids Sarrià · Via Augusta 318 · Barcelona",
+      "start": "2027-01-04",
+      "end": "2027-01-05",
+      "period": "Tres bloques de la tabla y de la lista de inscripción. El encabezado general indica otro intervalo. Confirmar las fechas disponibles para asistir un solo día.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "6–8 años",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "El grupo menor construye y programa un robot. El tema del turno es crear una mascota.",
+      "language": "Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.",
+      "cost": "2027 · EUR 80 por 2 días, 09:00–13:00. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Edad y fechas publicadas. Confirmar dos plazas, idioma del grupo y condiciones de cancelación.",
+      "source": "https://techlabkids.com/campamentos/casal-de-navidad/",
+      "references": [
+        {
+          "url": "https://techlabkids.com/campamentos/casal-de-navidad/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://techlabkids.com/campamentos/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Confirmar plaza en cada grupo de edad, idioma, descuentos y condiciones de reembolso. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "science",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "techlab-barcelona-navidad-2026-kids",
+      "camp_programme_id": "CP1723",
+      "sessions": [
+        {
+          "date": "2027-01-04",
+          "topic": "El grupo menor construye y programa un robot. El tema del turno es crear una mascota.",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2027-01-04T08:00:00Z",
+          "end_utc": "2027-01-04T12:00:00Z"
+        },
+        {
+          "date": "2027-01-05",
+          "topic": "El grupo menor construye y programa un robot. El tema del turno es crear una mascota.",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2027-01-05T08:00:00Z",
+          "end_utc": "2027-01-05T12:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      }
+    },
+    {
+      "id": "CP1723-20270104-20270105-2027-01-04-14",
+      "block": "Campamentos",
+      "title": "TechLab Kids Sarrià · Navidad · Kids · Kids · 09:00–14:00 · 2027-01-04–2027-01-05",
+      "country": "España",
+      "region": "Europa",
+      "city": "TechLab Kids Sarrià · Via Augusta 318 · Barcelona",
+      "start": "2027-01-04",
+      "end": "2027-01-05",
+      "period": "Tres bloques de la tabla y de la lista de inscripción. El encabezado general indica otro intervalo. Confirmar las fechas disponibles para asistir un solo día.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "6–8 años",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "El grupo menor construye y programa un robot. El tema del turno es crear una mascota.",
+      "language": "Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.",
+      "cost": "2027 · EUR 100 por 2 días, 09:00–14:00. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Edad y fechas publicadas. Confirmar dos plazas, idioma del grupo y condiciones de cancelación.",
+      "source": "https://techlabkids.com/campamentos/casal-de-navidad/",
+      "references": [
+        {
+          "url": "https://techlabkids.com/campamentos/casal-de-navidad/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://techlabkids.com/campamentos/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Confirmar plaza en cada grupo de edad, idioma, descuentos y condiciones de reembolso. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "science",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "techlab-barcelona-navidad-2026-kids",
+      "camp_programme_id": "CP1723",
+      "sessions": [
+        {
+          "date": "2027-01-04",
+          "topic": "El grupo menor construye y programa un robot. El tema del turno es crear una mascota.",
+          "start_time": "09:00",
+          "end_time": "14:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2027-01-04T08:00:00Z",
+          "end_utc": "2027-01-04T13:00:00Z"
+        },
+        {
+          "date": "2027-01-05",
+          "topic": "El grupo menor construye y programa un robot. El tema del turno es crear una mascota.",
+          "start_time": "09:00",
+          "end_time": "14:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2027-01-05T08:00:00Z",
+          "end_utc": "2027-01-05T13:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      }
+    },
+    {
+      "id": "CP1723-20270104-20270105-2027-01-04-16",
+      "block": "Campamentos",
+      "title": "TechLab Kids Sarrià · Navidad · Kids · Kids · 09:00–16:00 · 2027-01-04–2027-01-05",
+      "country": "España",
+      "region": "Europa",
+      "city": "TechLab Kids Sarrià · Via Augusta 318 · Barcelona",
+      "start": "2027-01-04",
+      "end": "2027-01-05",
+      "period": "Tres bloques de la tabla y de la lista de inscripción. El encabezado general indica otro intervalo. Confirmar las fechas disponibles para asistir un solo día.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "6–8 años",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "El grupo menor construye y programa un robot. El tema del turno es crear una mascota.",
+      "language": "Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.",
+      "cost": "2027 · EUR 127 por 2 días, 09:00–16:00. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Edad y fechas publicadas. Confirmar dos plazas, idioma del grupo y condiciones de cancelación.",
+      "source": "https://techlabkids.com/campamentos/casal-de-navidad/",
+      "references": [
+        {
+          "url": "https://techlabkids.com/campamentos/casal-de-navidad/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://techlabkids.com/campamentos/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Confirmar plaza en cada grupo de edad, idioma, descuentos y condiciones de reembolso. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "science",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "techlab-barcelona-navidad-2026-kids",
+      "camp_programme_id": "CP1723",
+      "sessions": [
+        {
+          "date": "2027-01-04",
+          "topic": "El grupo menor construye y programa un robot. El tema del turno es crear una mascota.",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2027-01-04T08:00:00Z",
+          "end_utc": "2027-01-04T15:00:00Z"
+        },
+        {
+          "date": "2027-01-05",
+          "topic": "El grupo menor construye y programa un robot. El tema del turno es crear una mascota.",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2027-01-05T08:00:00Z",
+          "end_utc": "2027-01-05T15:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      }
+    },
+    {
+      "id": "CP1724-20261221-20261223-2026-12-21-13",
+      "block": "Campamentos",
+      "title": "TechLab Kids Sarrià · Navidad · Junior · Junior · 09:00–13:00 · 2026-12-21–2026-12-23",
+      "country": "España",
+      "region": "Europa",
+      "city": "TechLab Kids Sarrià · Via Augusta 318 · Barcelona",
+      "start": "2026-12-21",
+      "end": "2026-12-23",
+      "period": "Tres bloques de la tabla y de la lista de inscripción. El encabezado general indica otro intervalo. Confirmar las fechas disponibles para asistir un solo día.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "9–14 años",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.",
+      "language": "Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.",
+      "cost": "2026/27 · EUR 120 por 3 días, 09:00–13:00. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Edad y fechas publicadas. Confirmar dos plazas, idioma del grupo y condiciones de cancelación.",
+      "source": "https://techlabkids.com/campamentos/casal-de-navidad/",
+      "references": [
+        {
+          "url": "https://techlabkids.com/campamentos/casal-de-navidad/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://techlabkids.com/campamentos/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar plaza y condiciones de participación. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Confirmar plaza en cada grupo de edad, idioma, descuentos y condiciones de reembolso. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "science",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "techlab-barcelona-navidad-2026-junior",
+      "camp_programme_id": "CP1724",
+      "sessions": [
+        {
+          "date": "2026-12-21",
+          "topic": "El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-21T08:00:00Z",
+          "end_utc": "2026-12-21T12:00:00Z"
+        },
+        {
+          "date": "2026-12-22",
+          "topic": "El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-22T08:00:00Z",
+          "end_utc": "2026-12-22T12:00:00Z"
+        },
+        {
+          "date": "2026-12-23",
+          "topic": "El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-23T08:00:00Z",
+          "end_utc": "2026-12-23T12:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      }
+    },
+    {
+      "id": "CP1724-20261221-20261223-2026-12-21-14",
+      "block": "Campamentos",
+      "title": "TechLab Kids Sarrià · Navidad · Junior · Junior · 09:00–14:00 · 2026-12-21–2026-12-23",
+      "country": "España",
+      "region": "Europa",
+      "city": "TechLab Kids Sarrià · Via Augusta 318 · Barcelona",
+      "start": "2026-12-21",
+      "end": "2026-12-23",
+      "period": "Tres bloques de la tabla y de la lista de inscripción. El encabezado general indica otro intervalo. Confirmar las fechas disponibles para asistir un solo día.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "9–14 años",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.",
+      "language": "Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.",
+      "cost": "2026/27 · EUR 150 por 3 días, 09:00–14:00. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Edad y fechas publicadas. Confirmar dos plazas, idioma del grupo y condiciones de cancelación.",
+      "source": "https://techlabkids.com/campamentos/casal-de-navidad/",
+      "references": [
+        {
+          "url": "https://techlabkids.com/campamentos/casal-de-navidad/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://techlabkids.com/campamentos/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar plaza y condiciones de participación. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Confirmar plaza en cada grupo de edad, idioma, descuentos y condiciones de reembolso. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "science",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "techlab-barcelona-navidad-2026-junior",
+      "camp_programme_id": "CP1724",
+      "sessions": [
+        {
+          "date": "2026-12-21",
+          "topic": "El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.",
+          "start_time": "09:00",
+          "end_time": "14:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-21T08:00:00Z",
+          "end_utc": "2026-12-21T13:00:00Z"
+        },
+        {
+          "date": "2026-12-22",
+          "topic": "El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.",
+          "start_time": "09:00",
+          "end_time": "14:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-22T08:00:00Z",
+          "end_utc": "2026-12-22T13:00:00Z"
+        },
+        {
+          "date": "2026-12-23",
+          "topic": "El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.",
+          "start_time": "09:00",
+          "end_time": "14:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-23T08:00:00Z",
+          "end_utc": "2026-12-23T13:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      }
+    },
+    {
+      "id": "CP1724-20261221-20261223-2026-12-21-16",
+      "block": "Campamentos",
+      "title": "TechLab Kids Sarrià · Navidad · Junior · Junior · 09:00–16:00 · 2026-12-21–2026-12-23",
+      "country": "España",
+      "region": "Europa",
+      "city": "TechLab Kids Sarrià · Via Augusta 318 · Barcelona",
+      "start": "2026-12-21",
+      "end": "2026-12-23",
+      "period": "Tres bloques de la tabla y de la lista de inscripción. El encabezado general indica otro intervalo. Confirmar las fechas disponibles para asistir un solo día.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "9–14 años",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.",
+      "language": "Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.",
+      "cost": "2026/27 · EUR 190 por 3 días, 09:00–16:00. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Edad y fechas publicadas. Confirmar dos plazas, idioma del grupo y condiciones de cancelación.",
+      "source": "https://techlabkids.com/campamentos/casal-de-navidad/",
+      "references": [
+        {
+          "url": "https://techlabkids.com/campamentos/casal-de-navidad/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://techlabkids.com/campamentos/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar plaza y condiciones de participación. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Confirmar plaza en cada grupo de edad, idioma, descuentos y condiciones de reembolso. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "science",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "techlab-barcelona-navidad-2026-junior",
+      "camp_programme_id": "CP1724",
+      "sessions": [
+        {
+          "date": "2026-12-21",
+          "topic": "El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-21T08:00:00Z",
+          "end_utc": "2026-12-21T15:00:00Z"
+        },
+        {
+          "date": "2026-12-22",
+          "topic": "El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-22T08:00:00Z",
+          "end_utc": "2026-12-22T15:00:00Z"
+        },
+        {
+          "date": "2026-12-23",
+          "topic": "El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-23T08:00:00Z",
+          "end_utc": "2026-12-23T15:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      }
+    },
+    {
+      "id": "CP1724-20261228-20261230-2026-12-28-13",
+      "block": "Campamentos",
+      "title": "TechLab Kids Sarrià · Navidad · Junior · Junior · 09:00–13:00 · 2026-12-28–2026-12-30",
+      "country": "España",
+      "region": "Europa",
+      "city": "TechLab Kids Sarrià · Via Augusta 318 · Barcelona",
+      "start": "2026-12-28",
+      "end": "2026-12-30",
+      "period": "Tres bloques de la tabla y de la lista de inscripción. El encabezado general indica otro intervalo. Confirmar las fechas disponibles para asistir un solo día.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "9–14 años",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.",
+      "language": "Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.",
+      "cost": "2026/27 · EUR 120 por 3 días, 09:00–13:00. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Edad y fechas publicadas. Confirmar dos plazas, idioma del grupo y condiciones de cancelación.",
+      "source": "https://techlabkids.com/campamentos/casal-de-navidad/",
+      "references": [
+        {
+          "url": "https://techlabkids.com/campamentos/casal-de-navidad/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://techlabkids.com/campamentos/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar plaza y condiciones de participación. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Confirmar plaza en cada grupo de edad, idioma, descuentos y condiciones de reembolso. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "science",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "techlab-barcelona-navidad-2026-junior",
+      "camp_programme_id": "CP1724",
+      "sessions": [
+        {
+          "date": "2026-12-28",
+          "topic": "El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-28T08:00:00Z",
+          "end_utc": "2026-12-28T12:00:00Z"
+        },
+        {
+          "date": "2026-12-29",
+          "topic": "El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-29T08:00:00Z",
+          "end_utc": "2026-12-29T12:00:00Z"
+        },
+        {
+          "date": "2026-12-30",
+          "topic": "El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-30T08:00:00Z",
+          "end_utc": "2026-12-30T12:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      }
+    },
+    {
+      "id": "CP1724-20261228-20261230-2026-12-28-14",
+      "block": "Campamentos",
+      "title": "TechLab Kids Sarrià · Navidad · Junior · Junior · 09:00–14:00 · 2026-12-28–2026-12-30",
+      "country": "España",
+      "region": "Europa",
+      "city": "TechLab Kids Sarrià · Via Augusta 318 · Barcelona",
+      "start": "2026-12-28",
+      "end": "2026-12-30",
+      "period": "Tres bloques de la tabla y de la lista de inscripción. El encabezado general indica otro intervalo. Confirmar las fechas disponibles para asistir un solo día.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "9–14 años",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.",
+      "language": "Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.",
+      "cost": "2026/27 · EUR 150 por 3 días, 09:00–14:00. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Edad y fechas publicadas. Confirmar dos plazas, idioma del grupo y condiciones de cancelación.",
+      "source": "https://techlabkids.com/campamentos/casal-de-navidad/",
+      "references": [
+        {
+          "url": "https://techlabkids.com/campamentos/casal-de-navidad/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://techlabkids.com/campamentos/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar plaza y condiciones de participación. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Confirmar plaza en cada grupo de edad, idioma, descuentos y condiciones de reembolso. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "science",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "techlab-barcelona-navidad-2026-junior",
+      "camp_programme_id": "CP1724",
+      "sessions": [
+        {
+          "date": "2026-12-28",
+          "topic": "El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.",
+          "start_time": "09:00",
+          "end_time": "14:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-28T08:00:00Z",
+          "end_utc": "2026-12-28T13:00:00Z"
+        },
+        {
+          "date": "2026-12-29",
+          "topic": "El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.",
+          "start_time": "09:00",
+          "end_time": "14:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-29T08:00:00Z",
+          "end_utc": "2026-12-29T13:00:00Z"
+        },
+        {
+          "date": "2026-12-30",
+          "topic": "El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.",
+          "start_time": "09:00",
+          "end_time": "14:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-30T08:00:00Z",
+          "end_utc": "2026-12-30T13:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      }
+    },
+    {
+      "id": "CP1724-20261228-20261230-2026-12-28-16",
+      "block": "Campamentos",
+      "title": "TechLab Kids Sarrià · Navidad · Junior · Junior · 09:00–16:00 · 2026-12-28–2026-12-30",
+      "country": "España",
+      "region": "Europa",
+      "city": "TechLab Kids Sarrià · Via Augusta 318 · Barcelona",
+      "start": "2026-12-28",
+      "end": "2026-12-30",
+      "period": "Tres bloques de la tabla y de la lista de inscripción. El encabezado general indica otro intervalo. Confirmar las fechas disponibles para asistir un solo día.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "9–14 años",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.",
+      "language": "Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.",
+      "cost": "2026/27 · EUR 190 por 3 días, 09:00–16:00. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Edad y fechas publicadas. Confirmar dos plazas, idioma del grupo y condiciones de cancelación.",
+      "source": "https://techlabkids.com/campamentos/casal-de-navidad/",
+      "references": [
+        {
+          "url": "https://techlabkids.com/campamentos/casal-de-navidad/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://techlabkids.com/campamentos/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar plaza y condiciones de participación. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Confirmar plaza en cada grupo de edad, idioma, descuentos y condiciones de reembolso. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "science",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "techlab-barcelona-navidad-2026-junior",
+      "camp_programme_id": "CP1724",
+      "sessions": [
+        {
+          "date": "2026-12-28",
+          "topic": "El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-28T08:00:00Z",
+          "end_utc": "2026-12-28T15:00:00Z"
+        },
+        {
+          "date": "2026-12-29",
+          "topic": "El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-29T08:00:00Z",
+          "end_utc": "2026-12-29T15:00:00Z"
+        },
+        {
+          "date": "2026-12-30",
+          "topic": "El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-30T08:00:00Z",
+          "end_utc": "2026-12-30T15:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      }
+    },
+    {
+      "id": "CP1724-20270104-20270105-2027-01-04-13",
+      "block": "Campamentos",
+      "title": "TechLab Kids Sarrià · Navidad · Junior · Junior · 09:00–13:00 · 2027-01-04–2027-01-05",
+      "country": "España",
+      "region": "Europa",
+      "city": "TechLab Kids Sarrià · Via Augusta 318 · Barcelona",
+      "start": "2027-01-04",
+      "end": "2027-01-05",
+      "period": "Tres bloques de la tabla y de la lista de inscripción. El encabezado general indica otro intervalo. Confirmar las fechas disponibles para asistir un solo día.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "9–14 años",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.",
+      "language": "Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.",
+      "cost": "2027 · EUR 80 por 2 días, 09:00–13:00. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Edad y fechas publicadas. Confirmar dos plazas, idioma del grupo y condiciones de cancelación.",
+      "source": "https://techlabkids.com/campamentos/casal-de-navidad/",
+      "references": [
+        {
+          "url": "https://techlabkids.com/campamentos/casal-de-navidad/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://techlabkids.com/campamentos/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar plaza y condiciones de participación. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Confirmar plaza en cada grupo de edad, idioma, descuentos y condiciones de reembolso. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "science",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "techlab-barcelona-navidad-2026-junior",
+      "camp_programme_id": "CP1724",
+      "sessions": [
+        {
+          "date": "2027-01-04",
+          "topic": "El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2027-01-04T08:00:00Z",
+          "end_utc": "2027-01-04T12:00:00Z"
+        },
+        {
+          "date": "2027-01-05",
+          "topic": "El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2027-01-05T08:00:00Z",
+          "end_utc": "2027-01-05T12:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      }
+    },
+    {
+      "id": "CP1724-20270104-20270105-2027-01-04-14",
+      "block": "Campamentos",
+      "title": "TechLab Kids Sarrià · Navidad · Junior · Junior · 09:00–14:00 · 2027-01-04–2027-01-05",
+      "country": "España",
+      "region": "Europa",
+      "city": "TechLab Kids Sarrià · Via Augusta 318 · Barcelona",
+      "start": "2027-01-04",
+      "end": "2027-01-05",
+      "period": "Tres bloques de la tabla y de la lista de inscripción. El encabezado general indica otro intervalo. Confirmar las fechas disponibles para asistir un solo día.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "9–14 años",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.",
+      "language": "Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.",
+      "cost": "2027 · EUR 100 por 2 días, 09:00–14:00. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Edad y fechas publicadas. Confirmar dos plazas, idioma del grupo y condiciones de cancelación.",
+      "source": "https://techlabkids.com/campamentos/casal-de-navidad/",
+      "references": [
+        {
+          "url": "https://techlabkids.com/campamentos/casal-de-navidad/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://techlabkids.com/campamentos/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar plaza y condiciones de participación. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Confirmar plaza en cada grupo de edad, idioma, descuentos y condiciones de reembolso. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "science",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "techlab-barcelona-navidad-2026-junior",
+      "camp_programme_id": "CP1724",
+      "sessions": [
+        {
+          "date": "2027-01-04",
+          "topic": "El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.",
+          "start_time": "09:00",
+          "end_time": "14:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2027-01-04T08:00:00Z",
+          "end_utc": "2027-01-04T13:00:00Z"
+        },
+        {
+          "date": "2027-01-05",
+          "topic": "El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.",
+          "start_time": "09:00",
+          "end_time": "14:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2027-01-05T08:00:00Z",
+          "end_utc": "2027-01-05T13:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      }
+    },
+    {
+      "id": "CP1724-20270104-20270105-2027-01-04-16",
+      "block": "Campamentos",
+      "title": "TechLab Kids Sarrià · Navidad · Junior · Junior · 09:00–16:00 · 2027-01-04–2027-01-05",
+      "country": "España",
+      "region": "Europa",
+      "city": "TechLab Kids Sarrià · Via Augusta 318 · Barcelona",
+      "start": "2027-01-04",
+      "end": "2027-01-05",
+      "period": "Tres bloques de la tabla y de la lista de inscripción. El encabezado general indica otro intervalo. Confirmar las fechas disponibles para asistir un solo día.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "9–14 años",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.",
+      "language": "Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.",
+      "cost": "2027 · EUR 127 por 2 días, 09:00–16:00. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Edad y fechas publicadas. Confirmar dos plazas, idioma del grupo y condiciones de cancelación.",
+      "source": "https://techlabkids.com/campamentos/casal-de-navidad/",
+      "references": [
+        {
+          "url": "https://techlabkids.com/campamentos/casal-de-navidad/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://techlabkids.com/campamentos/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar plaza y condiciones de participación. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Confirmar plaza en cada grupo de edad, idioma, descuentos y condiciones de reembolso. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "science",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "techlab-barcelona-navidad-2026-junior",
+      "camp_programme_id": "CP1724",
+      "sessions": [
+        {
+          "date": "2027-01-04",
+          "topic": "El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2027-01-04T08:00:00Z",
+          "end_utc": "2027-01-04T15:00:00Z"
+        },
+        {
+          "date": "2027-01-05",
+          "topic": "El grupo mayor realiza proyectos de robótica, programación y diseño digital. El tema del turno es crear una mascota.",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2027-01-05T08:00:00Z",
+          "end_utc": "2027-01-05T15:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      }
+    },
+    {
+      "id": "CP1725-20261228-20261230",
+      "block": "Campamentos",
+      "title": "La Fábrica de Luz · Inventos y artilugios · Inventos y artilugios · 2026-12-28–2026-12-30",
+      "country": "España",
+      "region": "Europa",
+      "city": "La Fábrica de Luz · Museo de la Energía · Ponferrada",
+      "start": "2026-12-28",
+      "end": "2026-12-30",
+      "period": "Días lectivos según calendario del organizador.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "6–16 años",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Experimentos, retos de ingeniería mediante el juego y creación de inventos propios.",
+      "language": "Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.",
+      "cost": "2026/27 · EUR 30 por 3 días o EUR 12 por un día suelto. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Edad y fechas publicadas. Confirmar dos plazas, idioma del grupo y condiciones de cancelación.",
+      "source": "https://lafabricadeluz.org/agenda/campamento-navidad-inventos-artilugios-y-juegos-en-navidad/",
+      "references": [
+        {
+          "url": "https://lafabricadeluz.org/agenda/campamento-navidad-inventos-artilugios-y-juegos-en-navidad/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar plaza y condiciones de participación. Oscar: Sí por edad. Confirmar plaza y condiciones de participación. Suplementos: Posible llegada anticipada desde las 09:00. Precio de la acogida, comida y materiales sin detalle separado. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "science",
+        "engineering",
+        "makers",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "fabrica-luz-inventos-navidad-2026",
+      "camp_programme_id": "CP1725",
+      "sessions": [
+        {
+          "date": "2026-12-28",
+          "topic": "Experimentos, retos de ingeniería mediante el juego y creación de inventos propios.",
+          "start_time": "10:00",
+          "end_time": "14:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-28T09:00:00Z",
+          "end_utc": "2026-12-28T13:00:00Z"
+        },
+        {
+          "date": "2026-12-29",
+          "topic": "Experimentos, retos de ingeniería mediante el juego y creación de inventos propios.",
+          "start_time": "10:00",
+          "end_time": "14:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-29T09:00:00Z",
+          "end_utc": "2026-12-29T13:00:00Z"
+        },
+        {
+          "date": "2026-12-30",
+          "topic": "Experimentos, retos de ingeniería mediante el juego y creación de inventos propios.",
+          "start_time": "10:00",
+          "end_time": "14:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-30T09:00:00Z",
+          "end_utc": "2026-12-30T13:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      }
+    },
+    {
+      "id": "CP1726-20261219-20261220",
+      "block": "Campamentos",
+      "title": "CBS Outdoor Adventures · Christmas Camp · CBS Christmas Camp · 2026-12-19–2026-12-20",
+      "country": "España",
+      "region": "Europa",
+      "city": "CBS The British School of Seville · Bollullos de la Mitación",
+      "start": "2026-12-19",
+      "end": "2026-12-20",
+      "period": "Llegada el 19 de diciembre de 2026 a las 10:00, salida el 20 de diciembre de 2026 a las 17:00. Una noche.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "5–12 años",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Una noche en el recinto escolar en habitación con literas. Pensión completa.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Talleres de invierno, experimentos científicos, juegos cooperativos, escape room y cocina navideña.",
+      "language": "El organizador confirma la inmersión completa en inglés.",
+      "cost": "2026/27 · EUR 80 por niño por todo el campamento. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Edad y fechas publicadas. Confirmar dos plazas, idioma del grupo y condiciones de cancelación.",
+      "source": "https://cbssummercamp.eu/cbs-christmas-camp/",
+      "references": [
+        {
+          "url": "https://cbssummercamp.eu/cbs-christmas-camp/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar plaza y condiciones de participación. Oscar: Sí por edad. Confirmar plaza y condiciones de participación. Suplementos: Para grupos de 5 niños o más se puede consultar descuento. Confirmar traslado y condiciones de cancelación. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "general",
+        "science",
+        "languages",
+        "adventure"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "El organizador confirma la inmersión completa en inglés.",
+      "participation": "residential",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_session",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "cbs-seville-christmas-boarding-2026",
+      "camp_programme_id": "CP1726",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      }
+    },
+    {
+      "id": "CP1729-20270322-20270324",
+      "block": "Campamentos",
+      "title": "CBS Outdoor Adventures · Science Camp · Science Camp · EUR 160 por niño · noches 2 · 2027-03-22–2027-03-24",
+      "country": "España",
+      "region": "Europa",
+      "city": "CBS The British School of Seville · Bollullos de la Mitación",
+      "start": "2027-03-22",
+      "end": "2027-03-24",
+      "period": "22–24 de marzo de 2027. Tres días y dos noches según el calendario vigente. Confirmar horas de llegada y salida.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "5–12 años",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Alojamiento en el campamento. Duración y número de noches indicados en cada turno.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Turno científico con alojamiento. Experimentos concretos y plan de la nueva edición pendientes.",
+      "language": "Se usa el inglés en juegos, instrucciones y comunicación con monitores. El organizador admite alumnado de otras escuelas.",
+      "cost": "2027 · Science Camp · EUR 160 por niño · noches 2 · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "source": "https://cbssummercamp.eu/cbs-outdoor-adventures/",
+      "references": [
+        {
+          "url": "https://cbssummercamp.eu/cbs-outdoor-adventures/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://cbssummercamp.eu/noticias/mini-campamentos-ingles-sevilla-outdoor-adventures-2026-2027/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar plaza y condiciones de participación. Oscar: Sí por edad. Confirmar plaza y condiciones de participación. Suplementos: Para grupos de 5 niños o más se puede consultar descuento. Confirmar traslado y condiciones de cancelación. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "science",
+        "languages",
+        "adventure"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Se usa el inglés en juegos, instrucciones y comunicación con monitores. El organizador admite alumnado de otras escuelas.",
+      "participation": "residential",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_session",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "cbs-seville-science-2027",
+      "camp_programme_id": "CP1729",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      }
+    },
+    {
+      "id": "CP1730-20261121-20261122",
+      "block": "Campamentos",
+      "title": "CBS Outdoor Adventures · Harry Potter Camp · Harry Potter Camp · EUR 80 por niño · noches 1 · 2026-11-21–2026-11-22",
+      "country": "España",
+      "region": "Europa",
+      "city": "CBS The British School of Seville · Bollullos de la Mitación",
+      "start": "2026-11-21",
+      "end": "2026-11-22",
+      "period": "Llegada el 21 de noviembre de 2026 a las 10:00, salida el 22 de noviembre de 2026 a las 17:00. Una noche.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "5–12 años",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Alojamiento en el campamento. Duración y número de noches indicados en cada turno.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Juegos de rol, retos de equipo, talleres y velada temática.",
+      "language": "Se usa el inglés en juegos, instrucciones y comunicación con monitores. El organizador admite alumnado de otras escuelas.",
+      "cost": "2026/27 · Harry Potter Camp · EUR 80 por niño · noches 1 · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "source": "https://cbssummercamp.eu/cbs-harry-potter-camp/",
+      "references": [
+        {
+          "url": "https://cbssummercamp.eu/cbs-harry-potter-camp/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://cbssummercamp.eu/noticias/mini-campamentos-ingles-sevilla-outdoor-adventures-2026-2027/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar plaza y condiciones de participación. Oscar: Sí por edad. Confirmar plaza y condiciones de participación. Suplementos: Para grupos de 5 niños o más se puede consultar descuento. Confirmar traslado y condiciones de cancelación. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "general",
+        "games",
+        "languages"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Se usa el inglés en juegos, instrucciones y comunicación con monitores. El organizador admite alumnado de otras escuelas.",
+      "participation": "residential",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_session",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "cbs-seville-magic-2026",
+      "camp_programme_id": "CP1730",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      }
+    },
+    {
+      "id": "CP1731-20270213-20270214",
+      "block": "Campamentos",
+      "title": "CBS Outdoor Adventures · Mini Camps · CBS Neon Splash Camp · EUR 80 por niño · noches 1 · 2027-02-13–2027-02-14",
+      "country": "España",
+      "region": "Europa",
+      "city": "CBS The British School of Seville · Bollullos de la Mitación",
+      "start": "2027-02-13",
+      "end": "2027-02-14",
+      "period": "Calendario de turnos publicado. Confirmar horas de llegada y salida del turno concreto.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "5–12 años",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Alojamiento en el campamento. Duración y número de noches indicados en cada turno.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Turnos temáticos breves en inglés. Incluyen arte, juegos en la naturaleza, cocina y baile.",
+      "language": "Se usa el inglés en juegos, instrucciones y comunicación con monitores. El organizador admite alumnado de otras escuelas.",
+      "cost": "2027 · CBS Neon Splash Camp · EUR 80 por niño · noches 1 · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "source": "https://cbssummercamp.eu/cbs-outdoor-adventures/",
+      "references": [
+        {
+          "url": "https://cbssummercamp.eu/cbs-outdoor-adventures/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://cbssummercamp.eu/noticias/mini-campamentos-ingles-sevilla-outdoor-adventures-2026-2027/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar plaza y condiciones de participación. Oscar: Sí por edad. Confirmar plaza y condiciones de participación. Suplementos: Para grupos de 5 niños o más se puede consultar descuento. Confirmar traslado y condiciones de cancelación. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "general",
+        "art",
+        "languages",
+        "adventure"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Se usa el inglés en juegos, instrucciones y comunicación con monitores. El organizador admite alumnado de otras escuelas.",
+      "participation": "residential",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_session",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "cbs-seville-mini-camps-2027",
+      "camp_programme_id": "CP1731",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      }
+    },
+    {
+      "id": "CP1731-20270313-20270314",
+      "block": "Campamentos",
+      "title": "CBS Outdoor Adventures · Mini Camps · ARTVenture Camp · EUR 80 por niño · noches 1 · 2027-03-13–2027-03-14",
+      "country": "España",
+      "region": "Europa",
+      "city": "CBS The British School of Seville · Bollullos de la Mitación",
+      "start": "2027-03-13",
+      "end": "2027-03-14",
+      "period": "Calendario de turnos publicado. Confirmar horas de llegada y salida del turno concreto.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "5–12 años",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Alojamiento en el campamento. Duración y número de noches indicados en cada turno.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Turnos temáticos breves en inglés. Incluyen arte, juegos en la naturaleza, cocina y baile.",
+      "language": "Se usa el inglés en juegos, instrucciones y comunicación con monitores. El organizador admite alumnado de otras escuelas.",
+      "cost": "2027 · ARTVenture Camp · EUR 80 por niño · noches 1 · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "source": "https://cbssummercamp.eu/cbs-outdoor-adventures/",
+      "references": [
+        {
+          "url": "https://cbssummercamp.eu/cbs-outdoor-adventures/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://cbssummercamp.eu/noticias/mini-campamentos-ingles-sevilla-outdoor-adventures-2026-2027/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar plaza y condiciones de participación. Oscar: Sí por edad. Confirmar plaza y condiciones de participación. Suplementos: Para grupos de 5 niños o más se puede consultar descuento. Confirmar traslado y condiciones de cancelación. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "general",
+        "art",
+        "languages",
+        "adventure"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Se usa el inglés en juegos, instrucciones y comunicación con monitores. El organizador admite alumnado de otras escuelas.",
+      "participation": "residential",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_session",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "cbs-seville-mini-camps-2027",
+      "camp_programme_id": "CP1731",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      }
+    },
+    {
+      "id": "CP1731-20270413-20270416",
+      "block": "Campamentos",
+      "title": "CBS Outdoor Adventures · Mini Camps · Feria Camp · EUR 240 por niño · noches 3 · 2027-04-13–2027-04-16",
+      "country": "España",
+      "region": "Europa",
+      "city": "CBS The British School of Seville · Bollullos de la Mitación",
+      "start": "2027-04-13",
+      "end": "2027-04-16",
+      "period": "Calendario de turnos publicado. Confirmar horas de llegada y salida del turno concreto.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "5–12 años",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Alojamiento en el campamento. Duración y número de noches indicados en cada turno.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Turnos temáticos breves en inglés. Incluyen arte, juegos en la naturaleza, cocina y baile.",
+      "language": "Se usa el inglés en juegos, instrucciones y comunicación con monitores. El organizador admite alumnado de otras escuelas.",
+      "cost": "2027 · Feria Camp · EUR 240 por niño · noches 3 · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "source": "https://cbssummercamp.eu/cbs-outdoor-adventures/",
+      "references": [
+        {
+          "url": "https://cbssummercamp.eu/cbs-outdoor-adventures/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://cbssummercamp.eu/noticias/mini-campamentos-ingles-sevilla-outdoor-adventures-2026-2027/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar plaza y condiciones de participación. Oscar: Sí por edad. Confirmar plaza y condiciones de participación. Suplementos: Para grupos de 5 niños o más se puede consultar descuento. Confirmar traslado y condiciones de cancelación. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "general",
+        "art",
+        "languages",
+        "adventure"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Se usa el inglés en juegos, instrucciones y comunicación con monitores. El organizador admite alumnado de otras escuelas.",
+      "participation": "residential",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_session",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "cbs-seville-mini-camps-2027",
+      "camp_programme_id": "CP1731",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      }
+    },
+    {
+      "id": "CP1731-20270508-20270509",
+      "block": "Campamentos",
+      "title": "CBS Outdoor Adventures · Mini Camps · The Pirate Legends Camp · EUR 80 por niño · noches 1 · 2027-05-08–2027-05-09",
+      "country": "España",
+      "region": "Europa",
+      "city": "CBS The British School of Seville · Bollullos de la Mitación",
+      "start": "2027-05-08",
+      "end": "2027-05-09",
+      "period": "Calendario de turnos publicado. Confirmar horas de llegada y salida del turno concreto.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "5–12 años",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Alojamiento en el campamento. Duración y número de noches indicados en cada turno.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Turnos temáticos breves en inglés. Incluyen arte, juegos en la naturaleza, cocina y baile.",
+      "language": "Se usa el inglés en juegos, instrucciones y comunicación con monitores. El organizador admite alumnado de otras escuelas.",
+      "cost": "2027 · The Pirate Legends Camp · EUR 80 por niño · noches 1 · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "source": "https://cbssummercamp.eu/cbs-outdoor-adventures/",
+      "references": [
+        {
+          "url": "https://cbssummercamp.eu/cbs-outdoor-adventures/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://cbssummercamp.eu/noticias/mini-campamentos-ingles-sevilla-outdoor-adventures-2026-2027/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar plaza y condiciones de participación. Oscar: Sí por edad. Confirmar plaza y condiciones de participación. Suplementos: Para grupos de 5 niños o más se puede consultar descuento. Confirmar traslado y condiciones de cancelación. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "general",
+        "art",
+        "languages",
+        "adventure"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Se usa el inglés en juegos, instrucciones y comunicación con monitores. El organizador admite alumnado de otras escuelas.",
+      "participation": "residential",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_session",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "cbs-seville-mini-camps-2027",
+      "camp_programme_id": "CP1731",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      }
+    },
+    {
+      "id": "CP1731-20270522-20270523",
+      "block": "Campamentos",
+      "title": "CBS Outdoor Adventures · Mini Camps · Step Up Camp · EUR 80 por niño · noches 1 · 2027-05-22–2027-05-23",
+      "country": "España",
+      "region": "Europa",
+      "city": "CBS The British School of Seville · Bollullos de la Mitación",
+      "start": "2027-05-22",
+      "end": "2027-05-23",
+      "period": "Calendario de turnos publicado. Confirmar horas de llegada y salida del turno concreto.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "5–12 años",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Alojamiento en el campamento. Duración y número de noches indicados en cada turno.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Turnos temáticos breves en inglés. Incluyen arte, juegos en la naturaleza, cocina y baile.",
+      "language": "Se usa el inglés en juegos, instrucciones y comunicación con monitores. El organizador admite alumnado de otras escuelas.",
+      "cost": "2027 · Step Up Camp · EUR 80 por niño · noches 1 · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "source": "https://cbssummercamp.eu/cbs-outdoor-adventures/",
+      "references": [
+        {
+          "url": "https://cbssummercamp.eu/cbs-outdoor-adventures/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://cbssummercamp.eu/noticias/mini-campamentos-ingles-sevilla-outdoor-adventures-2026-2027/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar plaza y condiciones de participación. Oscar: Sí por edad. Confirmar plaza y condiciones de participación. Suplementos: Para grupos de 5 niños o más se puede consultar descuento. Confirmar traslado y condiciones de cancelación. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "general",
+        "art",
+        "languages",
+        "adventure"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Se usa el inglés en juegos, instrucciones y comunicación con monitores. El organizador admite alumnado de otras escuelas.",
+      "participation": "residential",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_session",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "cbs-seville-mini-camps-2027",
+      "camp_programme_id": "CP1731",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      }
+    },
+    {
+      "id": "CP1731-20270605-20270606",
+      "block": "Campamentos",
+      "title": "CBS Outdoor Adventures · Mini Camps · Chef Camp · EUR 80 por niño · noches 1 · 2027-06-05–2027-06-06",
+      "country": "España",
+      "region": "Europa",
+      "city": "CBS The British School of Seville · Bollullos de la Mitación",
+      "start": "2027-06-05",
+      "end": "2027-06-06",
+      "period": "Calendario de turnos publicado. Confirmar horas de llegada y salida del turno concreto.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "5–12 años",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Alojamiento en el campamento. Duración y número de noches indicados en cada turno.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Turnos temáticos breves en inglés. Incluyen arte, juegos en la naturaleza, cocina y baile.",
+      "language": "Se usa el inglés en juegos, instrucciones y comunicación con monitores. El organizador admite alumnado de otras escuelas.",
+      "cost": "2027 · Chef Camp · EUR 80 por niño · noches 1 · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "source": "https://cbssummercamp.eu/cbs-outdoor-adventures/",
+      "references": [
+        {
+          "url": "https://cbssummercamp.eu/cbs-outdoor-adventures/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://cbssummercamp.eu/noticias/mini-campamentos-ingles-sevilla-outdoor-adventures-2026-2027/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar plaza y condiciones de participación. Oscar: Sí por edad. Confirmar plaza y condiciones de participación. Suplementos: Para grupos de 5 niños o más se puede consultar descuento. Confirmar traslado y condiciones de cancelación. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "general",
+        "art",
+        "languages",
+        "adventure"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Se usa el inglés en juegos, instrucciones y comunicación con monitores. El organizador admite alumnado de otras escuelas.",
+      "participation": "residential",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_session",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "cbs-seville-mini-camps-2027",
+      "camp_programme_id": "CP1731",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      }
+    },
+    {
+      "id": "CP1731-20270624-20270627",
+      "block": "Campamentos",
+      "title": "CBS Outdoor Adventures · Mini Camps · End of Year Camp · EUR 240 por niño · noches 3 · 2027-06-24–2027-06-27",
+      "country": "España",
+      "region": "Europa",
+      "city": "CBS The British School of Seville · Bollullos de la Mitación",
+      "start": "2027-06-24",
+      "end": "2027-06-27",
+      "period": "Calendario de turnos publicado. Confirmar horas de llegada y salida del turno concreto.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "5–12 años",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Alojamiento en el campamento. Duración y número de noches indicados en cada turno.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Turnos temáticos breves en inglés. Incluyen arte, juegos en la naturaleza, cocina y baile.",
+      "language": "Se usa el inglés en juegos, instrucciones y comunicación con monitores. El organizador admite alumnado de otras escuelas.",
+      "cost": "2027 · End of Year Camp · EUR 240 por niño · noches 3 · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "source": "https://cbssummercamp.eu/cbs-outdoor-adventures/",
+      "references": [
+        {
+          "url": "https://cbssummercamp.eu/cbs-outdoor-adventures/",
+          "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://cbssummercamp.eu/noticias/mini-campamentos-ingles-sevilla-outdoor-adventures-2026-2027/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar plaza y condiciones de participación. Oscar: Sí por edad. Confirmar plaza y condiciones de participación. Suplementos: Para grupos de 5 niños o más se puede consultar descuento. Confirmar traslado y condiciones de cancelación. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "general",
+        "art",
+        "languages",
+        "adventure"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Se usa el inglés en juegos, instrucciones y comunicación con monitores. El organizador admite alumnado de otras escuelas.",
+      "participation": "residential",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_session",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "cbs-seville-mini-camps-2027",
+      "camp_programme_id": "CP1731",
       "availability": {
         "status": "unconfirmed",
         "label": "Confirmar disponibilidad y admisión."

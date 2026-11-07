@@ -66854,6 +66854,470 @@ Limitaciones: Matvey: Etapa para más adelante. El niño aún no alcanza la edad
 Fuente: https://www.aucegypt.edu/academics/winteratauc/ai-entrepreneurial-startup-lab
 Se ha comprobado: 2026-11-07
 
+### CP1723-20261221-20261223-2026-12-21-13 · TechLab Kids Sarrià · Navidad · Kids · Kids · 09:00–13:00 · 2026-12-21–2026-12-23
+
+lugar: España · TechLab Kids Sarrià · Via Augusta 318 · Barcelona
+Fecha: 2026-12-21 - 2026-12-23
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 120 por 3 días, 09:00–13:00. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Confirmar plaza en cada grupo de edad, idioma, descuentos y condiciones de reembolso. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://techlabkids.com/campamentos/casal-de-navidad/
+Se ha comprobado: 2026-11-07
+
+### CP1723-20261221-20261223-2026-12-21-14 · TechLab Kids Sarrià · Navidad · Kids · Kids · 09:00–14:00 · 2026-12-21–2026-12-23
+
+lugar: España · TechLab Kids Sarrià · Via Augusta 318 · Barcelona
+Fecha: 2026-12-21 - 2026-12-23
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 150 por 3 días, 09:00–14:00. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Confirmar plaza en cada grupo de edad, idioma, descuentos y condiciones de reembolso. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://techlabkids.com/campamentos/casal-de-navidad/
+Se ha comprobado: 2026-11-07
+
+### CP1723-20261221-20261223-2026-12-21-16 · TechLab Kids Sarrià · Navidad · Kids · Kids · 09:00–16:00 · 2026-12-21–2026-12-23
+
+lugar: España · TechLab Kids Sarrià · Via Augusta 318 · Barcelona
+Fecha: 2026-12-21 - 2026-12-23
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 190 por 3 días, 09:00–16:00. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Confirmar plaza en cada grupo de edad, idioma, descuentos y condiciones de reembolso. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://techlabkids.com/campamentos/casal-de-navidad/
+Se ha comprobado: 2026-11-07
+
+### CP1723-20261228-20261230-2026-12-28-13 · TechLab Kids Sarrià · Navidad · Kids · Kids · 09:00–13:00 · 2026-12-28–2026-12-30
+
+lugar: España · TechLab Kids Sarrià · Via Augusta 318 · Barcelona
+Fecha: 2026-12-28 — 2026-12-30
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 120 por 3 días, 09:00–13:00. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Confirmar plaza en cada grupo de edad, idioma, descuentos y condiciones de reembolso. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://techlabkids.com/campamentos/casal-de-navidad/
+Se ha comprobado: 2026-11-07
+
+### CP1723-20261228-20261230-2026-12-28-14 · TechLab Kids Sarrià · Navidad · Kids · Kids · 09:00–14:00 · 2026-12-28–2026-12-30
+
+lugar: España · TechLab Kids Sarrià · Via Augusta 318 · Barcelona
+Fecha: 2026-12-28 — 2026-12-30
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 150 por 3 días, 09:00–14:00. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Confirmar plaza en cada grupo de edad, idioma, descuentos y condiciones de reembolso. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://techlabkids.com/campamentos/casal-de-navidad/
+Se ha comprobado: 2026-11-07
+
+### CP1723-20261228-20261230-2026-12-28-16 · TechLab Kids Sarrià · Navidad · Kids · Kids · 09:00–16:00 · 2026-12-28–2026-12-30
+
+lugar: España · TechLab Kids Sarrià · Via Augusta 318 · Barcelona
+Fecha: 2026-12-28 — 2026-12-30
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 190 por 3 días, 09:00–16:00. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Confirmar plaza en cada grupo de edad, idioma, descuentos y condiciones de reembolso. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://techlabkids.com/campamentos/casal-de-navidad/
+Se ha comprobado: 2026-11-07
+
+### CP1723-20270104-20270105-2027-01-04-13 · TechLab Kids Sarrià · Navidad · Kids · Kids · 09:00–13:00 · 2027-01-04–2027-01-05
+
+lugar: España · TechLab Kids Sarrià · Via Augusta 318 · Barcelona
+Fecha: 2027-01-04 — 2027-01-05
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 80 por 2 días, 09:00–13:00. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Confirmar plaza en cada grupo de edad, idioma, descuentos y condiciones de reembolso. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://techlabkids.com/campamentos/casal-de-navidad/
+Se ha comprobado: 2026-11-07
+
+### CP1723-20270104-20270105-2027-01-04-14 · TechLab Kids Sarrià · Navidad · Kids · Kids · 09:00–14:00 · 2027-01-04–2027-01-05
+
+lugar: España · TechLab Kids Sarrià · Via Augusta 318 · Barcelona
+Fecha: 2027-01-04 — 2027-01-05
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 100 por 2 días, 09:00–14:00. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Confirmar plaza en cada grupo de edad, idioma, descuentos y condiciones de reembolso. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://techlabkids.com/campamentos/casal-de-navidad/
+Se ha comprobado: 2026-11-07
+
+### CP1723-20270104-20270105-2027-01-04-16 · TechLab Kids Sarrià · Navidad · Kids · Kids · 09:00–16:00 · 2027-01-04–2027-01-05
+
+lugar: España · TechLab Kids Sarrià · Via Augusta 318 · Barcelona
+Fecha: 2027-01-04 — 2027-01-05
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 127 por 2 días, 09:00–16:00. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Confirmar plaza en cada grupo de edad, idioma, descuentos y condiciones de reembolso. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://techlabkids.com/campamentos/casal-de-navidad/
+Se ha comprobado: 2026-11-07
+
+### CP1724-20261221-20261223-2026-12-21-13 · TechLab Kids Sarrià · Navidad · Junior · Junior · 09:00–13:00 · 2026-12-21–2026-12-23
+
+lugar: España · TechLab Kids Sarrià · Via Augusta 318 · Barcelona
+Fecha: 2026-12-21 - 2026-12-23
+Edad: 9–14 años
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 120 por 3 días, 09:00–13:00. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar plaza y condiciones de participación. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Confirmar plaza en cada grupo de edad, idioma, descuentos y condiciones de reembolso. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://techlabkids.com/campamentos/casal-de-navidad/
+Se ha comprobado: 2026-11-07
+
+### CP1724-20261221-20261223-2026-12-21-14 · TechLab Kids Sarrià · Navidad · Junior · Junior · 09:00–14:00 · 2026-12-21–2026-12-23
+
+lugar: España · TechLab Kids Sarrià · Via Augusta 318 · Barcelona
+Fecha: 2026-12-21 - 2026-12-23
+Edad: 9–14 años
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 150 por 3 días, 09:00–14:00. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar plaza y condiciones de participación. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Confirmar plaza en cada grupo de edad, idioma, descuentos y condiciones de reembolso. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://techlabkids.com/campamentos/casal-de-navidad/
+Se ha comprobado: 2026-11-07
+
+### CP1724-20261221-20261223-2026-12-21-16 · TechLab Kids Sarrià · Navidad · Junior · Junior · 09:00–16:00 · 2026-12-21–2026-12-23
+
+lugar: España · TechLab Kids Sarrià · Via Augusta 318 · Barcelona
+Fecha: 2026-12-21 - 2026-12-23
+Edad: 9–14 años
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 190 por 3 días, 09:00–16:00. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar plaza y condiciones de participación. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Confirmar plaza en cada grupo de edad, idioma, descuentos y condiciones de reembolso. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://techlabkids.com/campamentos/casal-de-navidad/
+Se ha comprobado: 2026-11-07
+
+### CP1724-20261228-20261230-2026-12-28-13 · TechLab Kids Sarrià · Navidad · Junior · Junior · 09:00–13:00 · 2026-12-28–2026-12-30
+
+lugar: España · TechLab Kids Sarrià · Via Augusta 318 · Barcelona
+Fecha: 2026-12-28 — 2026-12-30
+Edad: 9–14 años
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 120 por 3 días, 09:00–13:00. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar plaza y condiciones de participación. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Confirmar plaza en cada grupo de edad, idioma, descuentos y condiciones de reembolso. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://techlabkids.com/campamentos/casal-de-navidad/
+Se ha comprobado: 2026-11-07
+
+### CP1724-20261228-20261230-2026-12-28-14 · TechLab Kids Sarrià · Navidad · Junior · Junior · 09:00–14:00 · 2026-12-28–2026-12-30
+
+lugar: España · TechLab Kids Sarrià · Via Augusta 318 · Barcelona
+Fecha: 2026-12-28 — 2026-12-30
+Edad: 9–14 años
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 150 por 3 días, 09:00–14:00. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar plaza y condiciones de participación. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Confirmar plaza en cada grupo de edad, idioma, descuentos y condiciones de reembolso. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://techlabkids.com/campamentos/casal-de-navidad/
+Se ha comprobado: 2026-11-07
+
+### CP1724-20261228-20261230-2026-12-28-16 · TechLab Kids Sarrià · Navidad · Junior · Junior · 09:00–16:00 · 2026-12-28–2026-12-30
+
+lugar: España · TechLab Kids Sarrià · Via Augusta 318 · Barcelona
+Fecha: 2026-12-28 — 2026-12-30
+Edad: 9–14 años
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 190 por 3 días, 09:00–16:00. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar plaza y condiciones de participación. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Confirmar plaza en cada grupo de edad, idioma, descuentos y condiciones de reembolso. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://techlabkids.com/campamentos/casal-de-navidad/
+Se ha comprobado: 2026-11-07
+
+### CP1724-20270104-20270105-2027-01-04-13 · TechLab Kids Sarrià · Navidad · Junior · Junior · 09:00–13:00 · 2027-01-04–2027-01-05
+
+lugar: España · TechLab Kids Sarrià · Via Augusta 318 · Barcelona
+Fecha: 2027-01-04 — 2027-01-05
+Edad: 9–14 años
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 80 por 2 días, 09:00–13:00. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar plaza y condiciones de participación. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Confirmar plaza en cada grupo de edad, idioma, descuentos y condiciones de reembolso. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://techlabkids.com/campamentos/casal-de-navidad/
+Se ha comprobado: 2026-11-07
+
+### CP1724-20270104-20270105-2027-01-04-14 · TechLab Kids Sarrià · Navidad · Junior · Junior · 09:00–14:00 · 2027-01-04–2027-01-05
+
+lugar: España · TechLab Kids Sarrià · Via Augusta 318 · Barcelona
+Fecha: 2027-01-04 — 2027-01-05
+Edad: 9–14 años
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 100 por 2 días, 09:00–14:00. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar plaza y condiciones de participación. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Confirmar plaza en cada grupo de edad, idioma, descuentos y condiciones de reembolso. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://techlabkids.com/campamentos/casal-de-navidad/
+Se ha comprobado: 2026-11-07
+
+### CP1724-20270104-20270105-2027-01-04-16 · TechLab Kids Sarrià · Navidad · Junior · Junior · 09:00–16:00 · 2027-01-04–2027-01-05
+
+lugar: España · TechLab Kids Sarrià · Via Augusta 318 · Barcelona
+Fecha: 2027-01-04 — 2027-01-05
+Edad: 9–14 años
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 127 por 2 días, 09:00–16:00. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar plaza y condiciones de participación. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Confirmar plaza en cada grupo de edad, idioma, descuentos y condiciones de reembolso. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://techlabkids.com/campamentos/casal-de-navidad/
+Se ha comprobado: 2026-11-07
+
+### CP1725-20261228-20261230 · La Fábrica de Luz · Inventos y artilugios · Inventos y artilugios · 2026-12-28–2026-12-30
+
+lugar: España · La Fábrica de Luz · Museo de la Energía · Ponferrada
+Fecha: 2026-12-28 — 2026-12-30
+Edad: 6 a 16 años
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Confirmar idioma oral de clase. La página del programa en español no confirma el idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 30 por 3 días o EUR 12 por un día suelto. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar plaza y condiciones de participación. Oscar: Sí por edad. Confirmar plaza y condiciones de participación. Suplementos: Posible llegada anticipada desde las 09:00. Precio de la acogida, comida y materiales sin detalle separado. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://lafabricadeluz.org/agenda/campamento-navidad-inventos-artilugios-y-juegos-en-navidad/
+Se ha comprobado: 2026-11-07
+
+### CP1726-20261219-20261220 · CBS Outdoor Adventures · Christmas Camp · CBS Christmas Camp · 2026-12-19–2026-12-20
+
+lugar: España · CBS The British School of Seville · Bollullos de la Mitación
+Fecha: 2026-12-19 — 2026-12-20
+Edad: 5 a 12 años
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: residente
+Idioma: El organizador confirma la inmersión completa en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · EUR 80 por niño por todo el campamento. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar plaza y condiciones de participación. Oscar: Sí por edad. Confirmar plaza y condiciones de participación. Suplementos: Para grupos de 5 niños o más se puede consultar descuento. Confirmar traslado y condiciones de cancelación. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://cbssummercamp.eu/cbs-christmas-camp/
+Se ha comprobado: 2026-11-07
+
+### CP1729-20270322-20270324 · CBS Outdoor Adventures · Science Camp · Science Camp · EUR 160 por niño · noches 2 · 2027-03-22–2027-03-24
+
+lugar: España · CBS The British School of Seville · Bollullos de la Mitación
+Fecha: 2027-03-22 — 2027-03-24
+Edad: 5 a 12 años
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: residente
+Idioma: Se usa el inglés en juegos, instrucciones y comunicación con monitores. El organizador admite alumnado de otras escuelas.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · Science Camp · EUR 160 por niño · noches 2 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar plaza y condiciones de participación. Oscar: Sí por edad. Confirmar plaza y condiciones de participación. Suplementos: Para grupos de 5 niños o más se puede consultar descuento. Confirmar traslado y condiciones de cancelación. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://cbssummercamp.eu/cbs-outdoor-adventures/
+Se ha comprobado: 2026-11-07
+
+### CP1730-20261121-20261122 · CBS Outdoor Adventures · Harry Potter Camp · Harry Potter Camp · EUR 80 por niño · noches 1 · 2026-11-21–2026-11-22
+
+lugar: España · CBS The British School of Seville · Bollullos de la Mitación
+Fecha: 2026-11-21 - 2026-11-22
+Edad: 5 a 12 años
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: residente
+Idioma: Se usa el inglés en juegos, instrucciones y comunicación con monitores. El organizador admite alumnado de otras escuelas.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · Harry Potter Camp · EUR 80 por niño · noches 1 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar plaza y condiciones de participación. Oscar: Sí por edad. Confirmar plaza y condiciones de participación. Suplementos: Para grupos de 5 niños o más se puede consultar descuento. Confirmar traslado y condiciones de cancelación. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://cbssummercamp.eu/cbs-harry-potter-camp/
+Se ha comprobado: 2026-11-07
+
+### CP1731-20270213-20270214 · CBS Outdoor Adventures · Mini Camps · CBS Neon Splash Camp · EUR 80 por niño · noches 1 · 2027-02-13–2027-02-14
+
+lugar: España · CBS The British School of Seville · Bollullos de la Mitación
+Fecha: 2027-02-13 — 2027-02-14
+Edad: 5 a 12 años
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: residente
+Idioma: Se usa el inglés en juegos, instrucciones y comunicación con monitores. El organizador admite alumnado de otras escuelas.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · CBS Neon Splash Camp · EUR 80 por niño · noches 1 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar plaza y condiciones de participación. Oscar: Sí por edad. Confirmar plaza y condiciones de participación. Suplementos: Para grupos de 5 niños o más se puede consultar descuento. Confirmar traslado y condiciones de cancelación. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://cbssummercamp.eu/cbs-outdoor-adventures/
+Se ha comprobado: 2026-11-07
+
+### CP1731-20270313-20270314 · CBS Outdoor Adventures · Mini Camps · ARTVenture Camp · EUR 80 por niño · noches 1 · 2027-03-13–2027-03-14
+
+lugar: España · CBS The British School of Seville · Bollullos de la Mitación
+Fecha: 2027-03-13 — 2027-03-14
+Edad: 5 a 12 años
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: residente
+Idioma: Se usa el inglés en juegos, instrucciones y comunicación con monitores. El organizador admite alumnado de otras escuelas.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · ARTVenture Camp · EUR 80 por niño · noches 1 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar plaza y condiciones de participación. Oscar: Sí por edad. Confirmar plaza y condiciones de participación. Suplementos: Para grupos de 5 niños o más se puede consultar descuento. Confirmar traslado y condiciones de cancelación. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://cbssummercamp.eu/cbs-outdoor-adventures/
+Se ha comprobado: 2026-11-07
+
+### CP1731-20270413-20270416 · CBS Outdoor Adventures · Mini Camps · Feria Camp · EUR 240 por niño · noches 3 · 2027-04-13–2027-04-16
+
+lugar: España · CBS The British School of Seville · Bollullos de la Mitación
+Fecha: 2027-04-13 — 2027-04-16
+Edad: 5 a 12 años
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: residente
+Idioma: Se usa el inglés en juegos, instrucciones y comunicación con monitores. El organizador admite alumnado de otras escuelas.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · Feria Camp · EUR 240 por niño · noches 3 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar plaza y condiciones de participación. Oscar: Sí por edad. Confirmar plaza y condiciones de participación. Suplementos: Para grupos de 5 niños o más se puede consultar descuento. Confirmar traslado y condiciones de cancelación. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://cbssummercamp.eu/cbs-outdoor-adventures/
+Se ha comprobado: 2026-11-07
+
+### CP1731-20270508-20270509 · CBS Outdoor Adventures · Mini Camps · The Pirate Legends Camp · EUR 80 por niño · noches 1 · 2027-05-08–2027-05-09
+
+lugar: España · CBS The British School of Seville · Bollullos de la Mitación
+Fecha: 2027-05-08 — 2027-05-09
+Edad: 5 a 12 años
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: residente
+Idioma: Se usa el inglés en juegos, instrucciones y comunicación con monitores. El organizador admite alumnado de otras escuelas.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · The Pirate Legends Camp · EUR 80 por niño · noches 1 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar plaza y condiciones de participación. Oscar: Sí por edad. Confirmar plaza y condiciones de participación. Suplementos: Para grupos de 5 niños o más se puede consultar descuento. Confirmar traslado y condiciones de cancelación. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://cbssummercamp.eu/cbs-outdoor-adventures/
+Se ha comprobado: 2026-11-07
+
+### CP1731-20270522-20270523 · CBS Outdoor Adventures · Mini Camps · Step Up Camp · EUR 80 por niño · noches 1 · 2027-05-22–2027-05-23
+
+lugar: España · CBS The British School of Seville · Bollullos de la Mitación
+Fecha: 2027-05-22 — 2027-05-23
+Edad: 5 a 12 años
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: residente
+Idioma: Se usa el inglés en juegos, instrucciones y comunicación con monitores. El organizador admite alumnado de otras escuelas.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · Step Up Camp · EUR 80 por niño · noches 1 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar plaza y condiciones de participación. Oscar: Sí por edad. Confirmar plaza y condiciones de participación. Suplementos: Para grupos de 5 niños o más se puede consultar descuento. Confirmar traslado y condiciones de cancelación. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://cbssummercamp.eu/cbs-outdoor-adventures/
+Se ha comprobado: 2026-11-07
+
+### CP1731-20270605-20270606 · CBS Outdoor Adventures · Mini Camps · Chef Camp · EUR 80 por niño · noches 1 · 2027-06-05–2027-06-06
+
+lugar: España · CBS The British School of Seville · Bollullos de la Mitación
+Fecha: 2027-06-05 — 2027-06-06
+Edad: 5 a 12 años
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: residente
+Idioma: Se usa el inglés en juegos, instrucciones y comunicación con monitores. El organizador admite alumnado de otras escuelas.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · Chef Camp · EUR 80 por niño · noches 1 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar plaza y condiciones de participación. Oscar: Sí por edad. Confirmar plaza y condiciones de participación. Suplementos: Para grupos de 5 niños o más se puede consultar descuento. Confirmar traslado y condiciones de cancelación. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://cbssummercamp.eu/cbs-outdoor-adventures/
+Se ha comprobado: 2026-11-07
+
+### CP1731-20270624-20270627 · CBS Outdoor Adventures · Mini Camps · End of Year Camp · EUR 240 por niño · noches 3 · 2027-06-24–2027-06-27
+
+lugar: España · CBS The British School of Seville · Bollullos de la Mitación
+Fecha: 2027-06-24 — 2027-06-27
+Edad: 5 a 12 años
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: residente
+Idioma: Se usa el inglés en juegos, instrucciones y comunicación con monitores. El organizador admite alumnado de otras escuelas.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · End of Year Camp · EUR 240 por niño · noches 3 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar plaza y condiciones de participación. Oscar: Sí por edad. Confirmar plaza y condiciones de participación. Suplementos: Para grupos de 5 niños o más se puede consultar descuento. Confirmar traslado y condiciones de cancelación. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://cbssummercamp.eu/cbs-outdoor-adventures/
+Se ha comprobado: 2026-11-07
+
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
 
 lugar: Letonia · EIS Campus · Piņķi

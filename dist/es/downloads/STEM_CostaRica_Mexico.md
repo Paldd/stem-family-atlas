@@ -3138,6 +3138,84 @@ Limitaciones: 29–31 de enero de 2027, gratuito y presencial. Inscripción del 
 Fuente: https://cenart.gob.mx/eventos/encuentro-global-game-jam-2026/
 Se ha comprobado: 2026-11-07
 
+### E370 · Kuri Fest 26 · Gaming Zone / San José
+
+Fecha: 2026-12-19 — 2026-12-20
+edad: Entradas públicas. Confirmar reglas para menores y edad de cada zona.
+Matvey: Entradas públicas. Confirmar reglas para menores y edad de cada zona.
+Oscar: Entradas públicas. Confirmar reglas para menores y edad de cada zona.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: Entradas públicas. Confirmar reglas para menores y edad de cada zona.
+Precio: El operador ofrece entradas de un día y abono de dos días. Confirmar importes actuales y tarifa infantil.
+Limitaciones: Zona de videojuegos, juegos de mesa y desarrolladores locales según la descripción publicada. Acceso desde las 11:00 ambos días.
+Fuente: https://www.eticket.cr/masinformacion.aspx?idevento=9581
+Se ha comprobado: 2026-11-07
+
+### E371 · Expo MAC Veracruz · December 2026
+
+Fecha: 2026-12-19 — 2026-12-20
+edad: Menores de 8 años gratis con un adulto que tenga entrada pagada.
+Matvey: Sí para visita familiar siguiendo las reglas de acceso.
+Oscar: Sí para visita familiar siguiendo las reglas de acceso.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: Menores de 8 años gratis con un adulto que tenga entrada pagada.
+Precio: Entrada de un día MXN 150 y limitada de dos días MXN 250. Puede haber comisión en línea.
+Limitaciones: Las preguntas frecuentes indican 11:00–20:00 ambos días. El encabezado indica otra hora de cierre del domingo.
+Fuente: https://expomac.idweb.mx/event.php?id=13
+Se ha comprobado: 2026-11-07
+
+### E372 · MEGA GAME LAB · Mexican tabletop prototypes
+
+Fecha: 2026-11-14 — 2026-11-14
+edad: Entrada libre y juegos familiares. Confirmar la edad de cada juego con quien lo dirige.
+Matvey: Sí para visita familiar siguiendo las reglas de acceso.
+Oscar: Sí para visita familiar siguiendo las reglas de acceso.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: Entrada libre y juegos familiares. Confirmar la edad de cada juego con quien lo dirige.
+Precio: Gratuito.
+Limitaciones: El organizador indica 11:00–17:00 y la agenda cultural 11:00–18:00. Planificar visita familiar antes de las 17:00.
+Fuente: https://megaxp.com.mx/mega-game-lab/
+Se ha comprobado: 2026-11-07
+
+### E373 · Tulum Innovation Fest 2026
+
+Fecha: 2026-12-09 — 2026-12-12
+edad: Programa tecnológico para público profesional. Confirmar acceso infantil y condiciones de entrada.
+Matvey: Programa tecnológico para público profesional. Confirmar acceso infantil y condiciones de entrada.
+Oscar: Programa tecnológico para público profesional. Confirmar acceso infantil y condiciones de entrada.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: Programa tecnológico para público profesional. Confirmar acceso infantil y condiciones de entrada.
+Precio: Entradas al festival desde USD 109 según el organizador. Confirmar condiciones del pase elegido.
+Limitaciones: Festival de tecnología, startups y emprendimiento. Whale Tank se realiza como actividad propia dentro del programa.
+Fuente: https://www.tuluminnovationfest.com/
+Se ha comprobado: 2026-11-07
+
+### E374 · DevFest Ciudad de México 2026
+
+Fecha: 2026-12-09 — 2026-12-09
+edad: Programa tecnológico para público profesional. Confirmar acceso infantil y condiciones de entrada.
+Matvey: Programa tecnológico para público profesional. Confirmar acceso infantil y condiciones de entrada.
+Oscar: Programa tecnológico para público profesional. Confirmar acceso infantil y condiciones de entrada.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: Programa tecnológico para público profesional. Confirmar acceso infantil y condiciones de entrada.
+Precio: Precio sin publicar.
+Limitaciones: 9 de diciembre de 2026 de 08:00 a 21:00 en Ciudad de México. El intervalo 9–10 de diciembre se muestra en UTC en la página.
+Fuente: https://gdg.community.dev/events/details/google-gdg-cdmx-presents-devfest-2026-ciudad-de-mexico/
+Se ha comprobado: 2026-11-07
+
+### C3233 · UTCJ Robo Race Challenge 2026
+
+Fecha: 2026-12-07 — 2026-12-09
+edad: No. Modalidad para estudiantes de programas académicos de UTCJ y sus asesores.
+Matvey: No. Modalidad para estudiantes de programas académicos de UTCJ y sus asesores.
+Oscar: No. Modalidad para estudiantes de programas académicos de UTCJ y sus asesores.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: La inscripción terminó el 30 de octubre de 2026. Programa para estudiantes y asesores, confirmar acceso de espectadores.
+Precio: Precio sin publicar.
+Limitaciones: La inscripción terminó el 30 de octubre de 2026. Programa para estudiantes y asesores, confirmar acceso de espectadores.
+Fuente: https://www.utcj.edu.mx/convocatoria-robo-race-challenge-2026/
+Se ha comprobado: 2026-11-07
+
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02
 
 Fecha: 2027-03-29 - 2027-04-02
